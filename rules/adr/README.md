@@ -92,3 +92,4 @@
 | [0058](0058-语体留痕步级时点口径.md) | 语体留痕步级时点口径（task-style-attest 只查生效时点后的 s2/r1 步，生效前历史步不追溯；生效后缺留痕以“语体补记”补录；回炉 r1 留痕对齐 rules/02） | accepted |
 | [0059](0059-提交即推自动推送.md) | 提交即推（解除「未经要求不 push」：每次 commit 成功后立即 push；推前 fetch／落后先 `sync_guard.py pull`，禁 force；积压线作废，收工核对 `git log origin/main..main` 为空；门禁红不阻断推送，可被用户临时叫停） | accepted |
 | [0060](0060-别名行去链接.md) | 别名词条行去链接（ADR-0057 覆盖面扩展：557 个路径被 1198 行引用，641 行「——见」别名去链接、真实条目行独占入口；空分组门禁豁免别名行、片段残缺门禁改按 baseline 全集；侧栏别名链接消失属预期） | accepted |
+| [0061](0061-CI同类合并为矩阵.md) | 同类 CI 合并为矩阵（checks 门禁矩阵以 `check_all --list-gates` 为唯一事实源、退役 sync-headers/file-name-check/check-images；format 三工具一条流＋禁改区；links 范围单点；render-audit 四片矩阵＋bun 运行时；create-pdf 钉 3.15 且首字母过滤按小节；壳仓 push/sync 部署二合一） | accepted |

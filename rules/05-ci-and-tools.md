@@ -8,20 +8,17 @@
 
 | 工作流 | 行为 | 触发 |
 | ---- | ---- | ---- |
-| `checks.yml` | 仓库一致性门禁：`check_summary.py` + `check_mulu_s.py` + `check_junk.py`（垃圾/产物入库 + 根目录白名单，ADR-0023）+ `check_images.py --gate`（图片引用完整性，rules/01）+ `check_doc_size.py`（单体文件大小，ADR-0004）+ `check_terms.py`（术语一致性）+ `check_academic.py`（哲学学术规范，rules/07）+ `check_all.py --quiet`（一键全量复核汇总，内含 `divergence.py verify` 原始物分歧账，ADR-0045）+ 管线单元测试，硬错误即红灯 | push / 手动 |
-| `sync-headers.yml` | 只读校验每个 SUMMARY 条目对应文件的 H1 是否与条目文字一致（转义还原后比较；跳过 frontmatter、README、别名行），不一致即红灯；**不提交、不推送**（ADR-0024：远端永不写回 main，避免造出本地没有的提交而与并行会话分叉） | push |
-| `file-name-check.yml` | 校验 SUMMARY 条目文件存在，缺失自动开 issue | push |
-| `markdown-lint2.yml`（手动）/ `Markdown-lint2-pr.yml`（PR 触发） | markdownlint 检查（统一配置 `.markdownlint-cli2.jsonc`；手动流可 `--fix` 开格式化 PR） | 手动 / pull_request |
-| `check-images.yml` | 图片引用检查（悬空、可解析、大小写、本地化、未引用资产），逻辑在 `tools/check_images.py`（`.github/scripts/check_images.py` 为 CI 入口）；报告开 issue；同一检查已以 `--gate` 入 `checks.yml`（悬空/大小写/外链硬拦，2026-11-10 入闸） | push（`.gitbook/assets/**`）/ 手动 |
-| `links.yml` | 链接检查 | 定时（每月 15 日 18:00 UTC）+ 手动 + repository_dispatch |
-| `md-padding.yml`、`AutoCorrect.yml` | 手动触发，自动补 CJK 空格并以 PR 提交，合并前人工核对 diff | 手动 |
-| `Auto-Assign.yml` | issue/PR 自动分配 | 各自约定 |
-| `create-pdf.yml` | 手动导出本项目中文 PDF/EPUB（gitbook-pdf-export 工具只读使用；可按首字母分批，全量约 2600 词条）；产物仅上传运行工件，**不写 tag/Release/外部仓库**（2026-11-04 重写，D20） | workflow_dispatch |
-| `render-artifact-audit.yml` | 手动构建全站后跑 `check_render_artifacts.py` 扫渲染残留（裸 `**`、字面 `[^`、链接残留、`@@M` 哨兵），有残留即红；报告入运行工件（2026-11-05 接线，ADR-0019 分期转硬的审计通道） | workflow_dispatch |
+| `checks.yml` | 仓库一致性门禁**矩阵**（ADR-0061）：`plan` 作业跑 `tools/check_all.py --list-gates`（`GATES` 是唯一事实源），展开成每门禁一作业——`check_summary.py`（结构审计＋H1 一致性硬门禁，ADR-0024）＋`check_mulu_s.py`＋`check_doc_size.py`（ADR-0004）＋`check_junk.py`（垃圾/产物入库＋根目录白名单，ADR-0023）＋`check_images.py --gate`（图片引用完整性，rules/01）＋`check_terms.py`＋`check_quotes.py`＋`check_academic.py`（rules/07）＋`check_math_zh.py --strict`＋`divergence.py verify`（原始物分歧账，ADR-0045）＋管线单元测试；`fail-fast: false`，红灯作业名即门禁名，失败日志与图片报告入运行工件 | push / 手动 |
+| `format.yml` | markdownlint／autocorrect／md-padding 三工具**矩阵**（ADR-0061）：手动触发各自 `--fix` 并各开一条 PR（合并前人工核 diff；禁机械替换译文，rules/05 生成器条）；PR 触发只读 markdownlint（告警级，权威配置根 `.markdownlint-cli2.jsonc`）。禁改区排除 `en/`、`yuanwen/`、两本登记册、`SUMMARY.md`、测试夹具、站点产物 | pull_request / 手动 |
+| `links.yml` | lychee 链接检查；范围单点由 `.github/lychee.toml` 的 `exclude_path` 决定（原文 `en/`、镜像 `yuanwen/`、草稿/运行态/构建产物/夹具不查）；失败开 issue | 定时（每月 15 日 18:00 UTC）+ 手动 + repository_dispatch |
+| `sep-sync-check.yml` | 每周抓取官方目录与 `.github/sep-baseline/official-snapshot.json` 比对，只报告、不改任何内容文件；报告入运行工件，非 `clean` 时开/更新 issue（`sep-upstream-sync`，抓取/解析失败另标 `sep-sync-broken`） | 定时（周一 18:30 UTC）+ 手动 |
+| `Auto-Assign.yml` | issue/PR 自动分配 | issues / pull_request / 手动 |
+| `create-pdf.yml` | 手动导出本项目中文 PDF/EPUB（gitbook-pdf-export 工具只读使用；可按首字母分批，全量约 2500 词条页；首字母过滤按 `## <字母>` 小节走，无链接的占位母行/别名行随节去留）；Python 3.15；产物仅上传运行工件，**不写 tag/Release/外部仓库**（2026-11-04 重写 D20；2026-11-16 适配，ADR-0061） | workflow_dispatch |
+| `render-artifact-audit.yml` | 手动按 `SEP_SHARD` **四片矩阵**构建（`bun --bun x`，ADR-0014/0055）后逐片跑 `check_render_artifacts.py` 扫渲染残留（裸 `**`、字面 `[^`、链接残留、`@@M` 哨兵），有残留即红；报告入运行工件（2026-11-05 接线，ADR-0019；2026-11-16 矩阵化，ADR-0061） | workflow_dispatch |
 
-* 不要新增与上述约定冲突的本地规则；需要新检查时先改 `tools/` 并在此登记。
-* CI 红灯定位：打开 `checks.yml` 的第一个失败 step，按上表同名工具在本地用相同命令复现（如 `python tools/check_summary.py`）；各工具退出码语义见其 docstring，不按文字推断。
-* lint 配置统一在根目录 `.markdownlint-cli2.jsonc`（规则、纳入范围、按文件豁免），`.github/.markdownlint.json` 保留为等价规则副本；`yuanwen/`（原文照录）与 `.zcode/`（本地工具）不参与 lint。
+* 不要新增与上述约定冲突的本地规则；需要新检查时先改 `tools/check_all.py` 的 `GATES`（CI 矩阵自动跟随）并在此登记。
+* CI 红灯定位：打开 `checks.yml` 里红色的矩阵作业（作业名即门禁名），按其 `run` 命令在本地复现（如 `python tools/check_summary.py`）；各工具退出码语义见其 docstring，不按文字推断。门禁清单与本地 `check_all.py` 同源，不存在“CI 多查一项”。
+* lint 配置统一在根目录 `.markdownlint-cli2.jsonc`（规则、纳入范围、按文件豁免），这是唯一一份（`.github/.markdownlint.json` 等价副本与 `.github/.autocorrectrc` 已于 2026-11-16 退役，ADR-0061）；autocorrect 配置为根 `.autocorrectrc`；`yuanwen/`（原文照录）与 `.zcode/`（本地工具）不参与 lint。
 * 各工作流在文件顶部声明**最小 `permissions:`**（2026-11-15 按 CodeQL `actions/missing-workflow-permissions` 全量补齐）：只读校验类 `contents: read`；以 issue 反馈结果的加 `issues: write`；自动修复后开 PR 的加 `contents: write` + `pull-requests: write`。新增工作流照此就地声明，不依赖仓库默认权限。
 * 修改工作流须同步更新本表（变更管理见 [06-governance.md](06-governance.md)）。
 
@@ -30,7 +27,7 @@
 * **Python ≥ 3.15**（本地验证 3.15.2；`tools/` 仅标准库，`check_all` 10 项与单元测试全绿）。
 * **Node ≥ 26**（本地验证 26.13.0；Vite 8 要求 `^20.19 || >=22.12`，Node 26 满足；站点命令仍走 bun，见 ADR-0014）。
 * **bun ≥ 1.4**（本地 1.4.4；`engines`/`packageManager` 钉在构建壳 `taophilosophy.github.io/package.json`，ADR-0055）。
-* PDF 导出线（`create-pdf.yml`）暂留 Python 3.13：weasyprint 依赖面未随 3.15 验证，待上游支持后跟进（ADR-0032）。
+* PDF 导出线（`create-pdf.yml`）用 Python 3.15（2026-11-16 用户裁定：随仓基线统一；原“暂留 3.13、待 weasyprint 上游支持”注记作废，ADR-0061）。
 
 ## 本地工具（`tools/`，Python 3 仅标准库）
 
@@ -66,7 +63,7 @@
 | `campaign.py` | 全局统计表与批次调度（specs/005 并行设计）：a–z 批次账本（认领/阶段/断点续上），计数实时推导零漂移，多会话独立无耦合 |
 | `check_math_zh.py` | 译文侧公式体例门禁（021 战役，D26 接线）：C1 宏残留/C2 内侧空白/C3 不可见字符/C4 未转义 %#/C5 中文入公式/C6 裸 $/C7 未转义货币/C8 英连接语/C9 散文 `\\(` 九类；默认 C1–C6+C8 硬错误，`--strict` 加 C7/C9（check_all 与 s3/r3 任务门用 strict） |
 | `check_pairs.py` | 格式配对与一致性预检（ADR-0046，**告警级**，不进 CI）：全角括号/书名号配对与方向（序次语 N）豁免）、文内作者-年份引注与书目一致（en 书目交叉、破折号承接链）、书目键重复、节/书目/公式数量对照（zh vs en/yuanwen）、相对链接悬空、出版信息行形态、省略号六连点；输出 JSON，默认退出码 0，`--strict` 升硬 |
-| `check_all.py` | 一键全量合规复核（十项门禁 + 单元测试；`--all` 加 baseline_audit、en_integrity 与 divergence --deep；`--quiet` 只报失败）；收工前/推审前跑一次 |
+| `check_all.py` | 一键全量合规复核（十项门禁 + 单元测试；`--all` 加 baseline_audit、en_integrity 与 divergence --deep；`--quiet` 只报失败）；`--list-gates` 输出 CI 门禁矩阵 JSON（`checks.yml` 的唯一数据源，ADR-0061，改门禁只改 `GATES`）；收工前/推审前跑一次 |
 | `indep_review.py` | 形态横向清账扫描器（ADR-0047，s3 前置独立步骤，**告警级**，不进 CI）：六类判据 `bib-heading-form`（参考文献节名正典，W7）、`pubinfo-form`（出版信息行形态＋与 en 源有无一致，W8）、`bib-subsection`（文献分类子标题丢失）、`style`（check_style 全则，O1）、`quote-adjacent`（引号↔西文邻接，O2，脚注键/链接/转写撇号已遮蔽）、`pairs`（ADR-0046 七则）；默认只扫已译集合，`--letter` 分字头、`--class` 单类、`--all-files` 含存根、`--classes` 列判据 |
 | `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件与 en/ 原始物） |
 | `progress.py` | 生成 `PROGRESS.md` 进度汇总（自动生成，不手改） |
