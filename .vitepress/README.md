@@ -76,8 +76,9 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 * **三形态**：左右（默认，英文占右半 50vw，中文让位到左半）／上下（英文固定下半屏，正文 `padding-bottom:50vh` 保证末尾能滚出遮盖区）／交错（英文块按区段逐块插到中文块后，面板收成页底固定条）。**三态**：对照／仅中文／仅英文，两种形态通用。选择写 `localStorage`（`bili-open`/`bili-layout`/`bili-show`），可用链接参数覆盖且不写回：`?bili=1&layout=side|stack|inter&show=compare|zh|en`。
 * **对齐口径**沿用 `bili-paragraph.ts` 的 `(h, b)`（标题序＋区段内块序）：中文滚动驱动英文跟随，英文滚动只更新高亮与进度（双向互驱会振荡）。点击中文段落 → 英文滚到对应段＋双侧句级高亮；划选 → 句级高亮；`j`/`k` 前后段、`Esc` 关闭。
 * **交错退化**：同区段中英块数比值 <0.5 或差 >8（参考文献、延伸阅读、致谢）整段并列，避免“251 个中文条目各配 0 个英文条目”式碎块；实测 `a/abduction` 94 块 / 2 个退化段，`z/zhu-xi` 129 块 / 5 个退化段。
+* **窄屏（≤959px）**：左右两栏在手机上不成立，`side` 自动降为**上下分屏**（`effLayout`，偏好仍按用户原选择存；布局循环在此宽度只在 上下 ⇄ 交错）；入口不用导航位——VitePress 在这个宽度换 VPLocalNav，`nav-bar-content-after` 槽位被塞进 `display:none` 的 VPNavBar（`position:fixed` 也救不了），故组件在窄屏 `Teleport to="body"` 渲染右下浮窗。控制条会折 2–3 行，高度由 `ResizeObserver` 写进 `--bili-bar-h`，正文留白用 `calc()` 消费（取 `borderBoxSize`，`contentRect` 会少算 padding）。
 * **body 状态类**（`bili-mode`/`bili-side`/`bili-stack`/`bili-inter`/`bili-show-*`/`bili-bottombar`）只在对照真的开启时写：它们直接驱动 `vp-compat.css` 的中文让位规则，面板关闭后若残留会让正文一直缩在左半屏。
-* **反向入口**（2026-11-16 补）：英文原文页（`yuanwen/**`）由 `transformPageData` 注入的 `zhPath` 只在 `BilingualCompare` 里消费——导航位渲染「⇦ 中文译文」药丸（`.bili-btn` 的 `<a>` 形态），点回该词条中文页；原文页不渲染对照面板与「目录/对照原文」按钮。无配对页（`guan-yu` 等）两个入口都不出现。
+* **反向入口**（2026-11-16 补）：英文原文页（`yuanwen/**`）由 `transformPageData` 注入的 `zhPath` 只在 `BilingualCompare` 里消费——导航位渲染“⇦ 中文译文”药丸（`.bili-btn` 的 `<a>` 形态），点回该词条中文页；原文页不渲染对照面板与“目录/对照原文”按钮。无配对页（`guan-yu` 等）两个入口都不出现。
 
 ## 搜索
 

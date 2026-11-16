@@ -232,11 +232,17 @@ body.bili-bottombar .bili-panel {
 }
 
 body.bili-mode.bili-bottombar {
-  padding-bottom: 52px;
+  /* 条高由组件实测写入（窄屏折行后 67–95px），写死会在手机盖住文档末尾 */
+  padding-bottom: calc(var(--bili-bar-h, 40px) + 12px);
 }
 
-/* 仅英文（双栏）：英文栏铺满整屏 */
+/* 仅英文（双栏）：英文栏铺满整屏。上下堆叠态（含窄屏 side→stack）的
+   `top:50%` 特异性相同且后声明，会让人只看下半屏、上半屏空白——这里四处
+   定位全钉死（2026-11-16 真机 390 实测：panel=[0,422,390,422]） */
 body.bili-show-en:not(.bili-bottombar) .bili-panel {
+  top: 0;
+  right: 0;
+  bottom: 0;
   left: 0;
   width: auto;
   min-width: 0;
@@ -428,25 +434,59 @@ mark.bili-sent-en {
 }
 
 @media (max-width: 959px) {
-  /* 不能用 width:100vw：vw 含纵向滚动条宽度（桌面实测 15px），右锚定后
-     面板整体左移 15px 出屏。左右都锚 0、宽度自适应即可 */
-  body.bili-side .bili-panel {
-    left: 0;
-    width: auto;
-    min-width: 0;
+  /* 窄屏入口：≤959px 时 VitePress 换用 VPLocalNav，nav-bar-content-after 槽位
+     整个不渲染——导航位的对照按钮在手机上根本不存在（2026-11-16 实测 rect 全 0）。
+     入口改右下浮窗；面板打开后由面板自带控制条承担，浮窗退场。 */
+  .bili-toggle-wrap {
+    position: fixed;
+    right: 12px;
+    bottom: 14px;
+    z-index: 46;
+    gap: 6px;
+    margin: 0;
+    padding: 5px 6px;
+    border-radius: 999px;
+    background: var(--vp-c-bg-elv);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
   }
 
+  body.bili-mode .bili-toggle-wrap {
+    display: none;
+  }
+
+  /* 手机没有常驻左侧栏，目录开关无意义 */
+  .bili-toggle-wrap .bili-btn-side {
+    display: none;
+  }
+
+  .bili-toggle-wrap .bili-btn {
+    padding: 5px 8px;
+    border: none;
+    background: transparent;
+  }
+
+  /* 控制条折行：触摸目标放宽，高度交给 --bili-bar-h 反馈 */
   .bili-bar {
     flex-wrap: wrap;
-    gap: 8px;
+    gap: 6px 10px;
+    padding: 6px 10px;
+    font-size: 12px;
   }
 
-  .bili-bar-title {
-    flex-basis: 100%;
+  .bili-tabs button {
+    padding: 6px 10px;
+  }
+
+  .bili-act {
+    padding: 6px 8px;
   }
 
   .bili-panel {
     min-width: 0;
+  }
+
+  .bili-doc {
+    padding: 10px 16px 48px;
   }
 }
 

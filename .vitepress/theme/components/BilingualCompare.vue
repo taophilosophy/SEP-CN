@@ -50,6 +50,18 @@ const hideSidebar = ref(hasLS && localStorage.getItem('hide-sidebar') === '1')
 // 用户显式开/关后本会话不再自动恢复（dev 下 page 数据异步到达，enPath 稍后就位）
 const userTouched = ref(false)
 
+/** 窄屏适配（2026-11-16）：
+    ① ≤959px 时 VitePress 换用 VPLocalNav，`nav-bar-content-after` 槽位整个不渲染
+      —— 导航位的对照按钮在手机上根本不存在（实测 rect 全 0），入口必须换浮窗；
+    ② 窄屏塞不下左右两栏，`side` 等价于 `stack`（上下分屏）。
+    偏好仍按用户选择的 layout 存，effLayout 只影响本次渲染。 */
+const narrowMq = typeof matchMedia === 'function' ? matchMedia('(max-width: 959px)') : null
+const narrow = ref(!!narrowMq?.matches)
+function onMq() {
+  narrow.value = !!narrowMq?.matches
+}
+const effLayout = computed<Layout>(() => (narrow.value && layout.value === 'side' ? 'stack' : layout.value))
+
 watch(
   [enPath],
   () => {
@@ -99,7 +111,7 @@ watch(hideSidebar, (v) => {
 })
 
 // 底部工具条形态：交错永远底栏；双栏在「仅中文」时也收成底栏（正文恢复全宽）
-const bottomBar = computed(() => layout.value === 'inter' || show.value === 'zh')
+const bottomBar = computed(() => effLayout.value === 'inter' || show.value === 'zh')
 
 /** body 上的状态类集中刷新（布局、三态、底栏、侧栏隐藏）。
     布局/三态类必须以「对照真的开着」为前提：这些类直接驱动 vp-compat.css
@@ -109,22 +121,22 @@ function refreshClasses() {
   const on = open.value && !!enPath.value
   const b = document.body
   b.classList.toggle('bili-mode', on)
-  b.classList.toggle('bili-side', on && layout.value === 'side')
-  b.classList.toggle('bili-stack', on && layout.value === 'stack')
-  b.classList.toggle('bili-inter', on && layout.value === 'inter')
+  b.classList.toggle('bili-side', on && effLayout.value === 'side')
+  b.classList.toggle('bili-stack', on && effLayout.value === 'stack')
+  b.classList.toggle('bili-inter', on && effLayout.value === 'inter')
   b.classList.toggle('bili-show-compare', on && show.value === 'compare')
   b.classList.toggle('bili-show-zh', on && show.value === 'zh')
   b.classList.toggle('bili-show-en', on && show.value === 'en')
   b.classList.toggle('bili-bottombar', on && bottomBar.value)
   b.classList.toggle('hide-sidebar', hideSidebar.value)
 }
-watch([open, layout, show, bottomBar, enPath], () => refreshClasses(), { flush: 'post' })
+watch([open, layout, show, bottomBar, enPath, effLayout], () => refreshClasses(), { flush: 'post' })
 
 // ------------------------------------------------------------ 英文文档载入 --
 let enDoc: HTMLElement | null = null // fetch 到的 .vp-doc（脱离文档，作为交错模式的克隆源）
 let loadedFor = ''
 let pending: AbortController | null = null
-
+let barRO: ResizeObserver | null = null // 观测控制条高度 → --bili-bar-h（窄屏换行后高度不定）
 const enPageUrl = computed(() => {
   if (!enPath.value || typeof location === 'undefined') return ''
   return new URL(withBase(enPath.value), location.href).href
@@ -223,7 +235,7 @@ async function loadEn() {
     enDoc = doc
     loadedFor = page.value.relativePath
     mountEnDoc()
-    if (layout.value === 'inter') buildInterleave()
+    if (effLayout.value === 'inter') buildInterleave()
   } catch (e: any) {
     if (e?.name === 'AbortError') return
     failed.value = true
@@ -281,9 +293,9 @@ function buildInterleave() {
   }
 }
 
-watch([layout, show, open], () => {
+watch([effLayout, show, open], () => {
   refreshClasses()
-  if (!open.value || layout.value !== 'inter') {
+  if (!open.value || effLayout.value !== 'inter') {
     clearInterleave()
     return
   }
@@ -336,7 +348,7 @@ function scrollEnTo(h: number, b: number, soft: boolean) {
 }
 
 function followZh(force = false) {
-  if (!open.value || layout.value === 'inter' || show.value === 'zh') return
+  if (!open.value || effLayout.value === 'inter' || show.value === 'zh') return
   if (!force && (!sync.value || !enDoc || !host.value)) return
   const zhRoot = document.querySelector<HTMLElement>('.vp-doc')
   if (!zhRoot) return
@@ -362,7 +374,7 @@ function markEnActive(h: number, b: number) {
 /** 英文栏滚动 → 中文高亮与英文进度（不驱动中文滚动） */
 function onHostScroll() {
   refreshEnPct()
-  if (!open.value || layout.value === 'inter' || show.value === 'zh' || !enDoc || !host.value) return
+  if (!open.value || effLayout.value === 'inter' || show.value === 'zh' || !enDoc || !host.value) return
   const zhRoot = document.querySelector<HTMLElement>('.vp-doc')
   if (!zhRoot) return
   const block = activeInContainer(enDoc, host.value)
@@ -436,7 +448,7 @@ function onDocClick(e: MouseEvent) {
   lastKey = keyOf(pt)
   markActive(zhRoot, target)
   driveUntil = Date.now() + 1200
-  if (layout.value !== 'inter' && show.value !== 'zh') {
+  if (effLayout.value !== 'inter' && show.value !== 'zh') {
     scrollEnTo(pt.h, pt.b, true)
     markEnActive(pt.h, pt.b)
   }
@@ -445,7 +457,7 @@ function onDocClick(e: MouseEvent) {
   if (caret && target.contains(caret.startContainer)) {
     const si = sentenceIndexAt(target.textContent || '', offsetInElement(target, caret))
     highlightSentence(target, si, 'bili-sent-zh')
-    if (layout.value !== 'inter' && show.value !== 'zh' && enDoc) {
+    if (effLayout.value !== 'inter' && show.value !== 'zh' && enDoc) {
       const enEl = blockByKey(enDoc, pt.h, pt.b)
       if (enEl) highlightSentence(enEl, si, 'bili-sent-en')
     }
@@ -511,7 +523,7 @@ function moveActive(delta: number) {
   driveUntil = Date.now() + 1200
   const y = el.getBoundingClientRect().top + window.scrollY - 88
   window.scrollTo({ top: Math.max(y, 0), behavior: 'smooth' })
-  if (layout.value !== 'inter' && show.value !== 'zh' && pt) {
+  if (effLayout.value !== 'inter' && show.value !== 'zh' && pt) {
     scrollEnTo(pt.h, pt.b, true)
     markEnActive(pt.h, pt.b)
   }
@@ -536,6 +548,11 @@ function onKeydown(e: KeyboardEvent) {
 }
 
 function cycleLayout() {
+  // 窄屏没有「左右」这一档（side 已等价 stack），循环只在 上下 ⇄ 交错
+  if (narrow.value) {
+    layout.value = effLayout.value === 'inter' ? 'stack' : 'inter'
+    return
+  }
   layout.value = layout.value === 'side' ? 'stack' : layout.value === 'stack' ? 'inter' : 'side'
 }
 
@@ -544,7 +561,7 @@ function close() {
 }
 
 const layoutLabel = computed(() =>
-  layout.value === 'side' ? '⇔ 左右' : layout.value === 'stack' ? '↕ 上下' : '⇕ 交错',
+  effLayout.value === 'side' ? '⇔ 左右' : effLayout.value === 'stack' ? '↕ 上下' : '⇕ 交错',
 )
 
 onMounted(() => {
@@ -565,7 +582,25 @@ onMounted(() => {
     const saved = Number(localStorage.getItem('bili-scroll:' + page.value.relativePath) || '0')
     if (saved > 50) window.scrollTo({ top: saved })
   }
+  narrowMq?.addEventListener('change', onMq)
+  // 底栏/面板条高度随视口与文案换行而变（手机 375px 下会折到 2–3 行），
+  // 正文的 padding-bottom 不能写死：实测 52px 的硬编码在手机上被 67–95px 的
+  // 条盖住文档末尾。这里量出来写进 --bili-bar-h，CSS 用 calc() 消费。
+  barRO = new ResizeObserver(([e]) => {
+    // contentRect 扣掉了 padding 与 border（实测 83px 的条报 70），必须取边框盒
+    const h = Math.round(e.borderBoxSize?.[0]?.blockSize ?? e.target.getBoundingClientRect().height)
+    if (h > 0) document.body.style.setProperty('--bili-bar-h', h + 'px')
+  })
+  observeBar()
 })
+
+function observeBar() {
+  barRO?.disconnect()
+  const bar = panel.value?.querySelector('.bili-bar')
+  if (bar) barRO?.observe(bar)
+  else document.body.style.removeProperty('--bili-bar-h')
+}
+watch(panel, () => observeBar(), { flush: 'post' })
 
 onBeforeUnmount(() => {
   pending?.abort()
@@ -573,6 +608,9 @@ onBeforeUnmount(() => {
   document.removeEventListener('click', onDocClick)
   document.removeEventListener('selectionchange', onSelectionChange)
   document.removeEventListener('keydown', onKeydown)
+  narrowMq?.removeEventListener('change', onMq)
+  barRO?.disconnect()
+  document.body.style.removeProperty('--bili-bar-h')
   clearInterleave()
   clearTimeout(selTimer)
   clearTimeout(saveTimer)
@@ -585,24 +623,29 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-  <!-- 英文原文页：只给回程入口（原文页没有对照面板可开） -->
-  <div v-if="zhPath" class="bili-toggle-wrap">
-    <a class="bili-btn" :href="withBase(zhPath)" title="回到该词条的中文译文">⇦ 中文译文</a>
-  </div>
+  <!-- 窄屏必须 Teleport 出导航栏：≤959px 时 nav-bar-content-after 槽位被塞进
+       display:none 的 VPNavBar 里，祖先隐藏后 position:fixed 也不渲染
+       （2026-11-16 实测：元素在 DOM 里但 rect 全 0）。桌面端 disabled 保持原位。 -->
+  <Teleport to="body" :disabled="!narrow">
+    <!-- 英文原文页：只给回程入口（原文页没有对照面板可开） -->
+    <div v-if="zhPath" class="bili-toggle-wrap">
+      <a class="bili-btn" :href="withBase(zhPath)" title="回到该词条的中文译文">⇦ 中文译文</a>
+    </div>
 
-  <div v-else-if="enPath" class="bili-toggle-wrap">
-    <button class="bili-btn" :class="{ on: hideSidebar }" title="隐藏/显示左侧目录（桌面端）" @click="hideSidebar = !hideSidebar">
-      ⇤ 目录
-    </button>
-    <button class="bili-btn" :class="{ on: open }" title="双语对照：中文与 SEP 英文原文" @click="open = !open">
-      ⇔ 对照原文
-    </button>
-  </div>
+    <div v-else-if="enPath" class="bili-toggle-wrap">
+      <button class="bili-btn bili-btn-side" :class="{ on: hideSidebar }" title="隐藏/显示左侧目录（桌面端）" @click="hideSidebar = !hideSidebar">
+        ⇤ 目录
+      </button>
+      <button class="bili-btn" :class="{ on: open }" title="双语对照：中文与 SEP 英文原文" @click="open = !open">
+        ⇔ 对照原文
+      </button>
+    </div>
+  </Teleport>
 
   <Teleport to="body">
     <div v-if="open && enPath" ref="panel" class="bili-panel">
       <div class="bili-bar">
-        <span class="bili-bar-title">English · SEP 原文</span>
+        <span v-if="!narrow" class="bili-bar-title">English · SEP 原文</span>
 
         <div class="bili-tabs" role="group" aria-label="双语显示模式">
           <button :class="{ on: show === 'compare' }" title="中英对照" @click="show = 'compare'">对照</button>
@@ -611,12 +654,12 @@ onBeforeUnmount(() => {
         </div>
 
         <span class="bili-progress" title="双语阅读进度">
-          中 {{ zhPct }}%<template v-if="layout !== 'inter' && show !== 'zh'"> · 英 {{ enPct }}%</template>
+          中 {{ zhPct }}%<template v-if="effLayout !== 'inter' && show !== 'zh'"> · 英 {{ enPct }}%</template>
         </span>
         <button class="bili-act" :title="`当前：${layoutLabel}，点击切换`" @click="cycleLayout">
           {{ layoutLabel }}
         </button>
-        <label v-if="layout !== 'inter' && show !== 'zh'" class="bili-sync">
+        <label v-if="effLayout !== 'inter' && show !== 'zh'" class="bili-sync">
           <input v-model="sync" type="checkbox" />段落同步
         </label>
         <a class="bili-act" :href="withBase(enPath!)" target="_blank" rel="noopener">新窗口</a>
@@ -624,7 +667,7 @@ onBeforeUnmount(() => {
       </div>
 
       <div
-        v-show="layout !== 'inter' && show !== 'zh'"
+        v-show="effLayout !== 'inter' && show !== 'zh'"
         ref="host"
         class="bili-doc"
         @scroll.passive="onHostScroll"

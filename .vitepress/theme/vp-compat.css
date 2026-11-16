@@ -183,6 +183,11 @@ body.bili-side:not(.bili-bottombar) .vp-doc {
 body.bili-side:not(.bili-bottombar) .VPDoc .content {
   padding-left: 0 !important;
   padding-right: 0 !important;
+  /* ≥80rem（1280px）时 VitePress 给 .content 设了 min-width:40rem（640px），
+     双栏的中文列只有约 561px，被撑宽后整列左移出容器（实测 .content-container
+     x=-7、正文 x=13）。窄一点的视口不触发这条，故此前用 1254px 量测没暴露 */
+  min-width: 0;
+  width: auto;
 }
 
 @media (min-width: 960px) {
@@ -191,9 +196,18 @@ body.bili-side:not(.bili-bottombar) .VPDoc .content {
   }
 }
 
+/* 英文栏内的标题锚点（¶）在对照态没有用处：面板自身不是导航来源，且
+   .header-anchor 的负外边距会把它顶出 `.bili-doc` 的左内距（真机 390 实测
+   溢出左缘 8–16px）。中文侧不动——那里的锚点仍是可用的段落永久链接。 */
+.bili-doc .header-anchor {
+  display: none;
+}
+
 /* 上下堆叠：英文固定下半屏，中文仍走窗口滚动；正文末尾要能滚出遮盖区，
    否则文档最后半屏永远压在英文栏下面（2026-11-16 量测） */
-body.bili-stack.bili-mode {
+/* 只在「上下对照」这一态留半屏：底栏态（交错/仅中文）与仅英文态另有处置，
+   否则手机上仅中文会多出半屏空白 */
+body.bili-stack.bili-mode:not(.bili-bottombar):not(.bili-show-en) {
   padding-bottom: 50vh;
 }
 
