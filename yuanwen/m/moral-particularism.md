@@ -139,6 +139,8 @@ What is really going on here is that we are appealing to principles to rectify a
 
 Mencius | moral epistemology | moral motivation | moral particularism: and moral generalism | moral realism | moral relativism | moral responsibility | practical reason | reasoning: moral | reasons for action: justification, motivation, explanation
 
+[^moral-particularism-nd]: The bibliography presented here is a short list of pieces recommended as further reading along with those referred to in the text above. A more comprehensive bibliography is available in the entry on moral particularism and moral generalism.
+
 [^aristotle-2000]: Aristotle, *Nicomachean Ethics*, Roger Crisp (trans.), Cambridge: Cambridge University Press, 2000.
 
 [^audi-1998]: Audi, R., 1998, ‘Moderate Intuitionism and the Epistemology of Moral Judgement’, *Ethical Theory and Moral Practice*, 1: 15–44 (especially pp. 36–41).

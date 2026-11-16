@@ -89,15 +89,15 @@ Chomsky (1965) regarded Fodor and Katz’s semantic markers as giving rise to �
 >
 > **(20)**
 >
-> #*Colorless green ideas sleep furiously.*
+> \#*Colorless green ideas sleep furiously.*
 >
 > **(21)**
 >
-> #*Golf plays John*
+> \#*Golf plays John*
 >
 > **(22)**
 >
-> #*Misery loves company*
+> \#*Misery loves company*
 
 which he (1965, p. 149) regards as “deviant” (n.b., (22) can’t be literal, misery being inanimate). Such examples are now usually marked with a “#” rather than a “*” to indicate semantic/pragmatic rather than purely syntactic anomaly.
 
@@ -105,15 +105,15 @@ Chomsky mentions other examples of the sort that were treated as analytic data i
 
 **(23)**
 
-#*Oculists are generally better trained than eye-doctors*.
+\#*Oculists are generally better trained than eye-doctors*.
 
 **(24)**
 
-#*Both of John’s parents are married to aunts of mine*.
+\#*Both of John’s parents are married to aunts of mine*.
 
 **(25)**
 
-#*I knew you would come, but I was wrong*. (1965, p. 77)
+\#*I knew you would come, but I was wrong*. (1965, p. 77)
 
 But he also cites as an example one that many philosophers might actually find more purely syntactic:
 
@@ -169,7 +169,7 @@ The sentence is perfectly acceptable despite the switch in intended reference: w
 
 **(30)**
 
-#*The bank was eroding fast and so raised its interest rates.*
+\#*The bank was eroding fast and so raised its interest rates.*
 
 where such a switch between the alluvial and financial senses would involve clear ambiguity, or homonymy (Chomsky 2000, pp. 180–1).
 
@@ -245,11 +245,11 @@ These examples point to a still further serious problem of determining just what
 
 **(31)**
 
-#*Some bachelor is married*,
+\#*Some bachelor is married*,
 
 **(32)**
 
-#*No one who runs moves*,
+\#*No one who runs moves*,
 
 or denials that *ancestor* is transitive or *marriage* symmetric (see ASD §1), seem to be perfectly *parsable*, in contrast to:
 

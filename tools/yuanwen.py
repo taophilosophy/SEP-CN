@@ -828,11 +828,15 @@ def _section_author(section):
     return ''
 
 
-def build_cite_keys(entry_texts):
+def build_cite_keys(entry_texts, fallback_author=None):
     """文献条目 → [{key, pats, text}]。key 取 首作者姓-年份[后缀]，冲突加序号。
 
     条目可为 str 或 (text, section)：section 为该条所在小节标题，
     年份起首的条目（`1913, “On the constitution…”`）靠它推断作者。
+    fallback_author（specs/039 I3 标定，sartre 判例）：主文献区条目以年份起首、
+    无作者名，节首 prev_surnames 为空时旧式整条 continue——30 条文献（含其中
+    公式）从产物消失。兜底键 `<fallback_author>-<year>` 只保定义行不生文内
+    标记（pats 不匹配即未引用 def），文字保真优先于键名语义。
     """
     keys = []
     prev_surnames = []
@@ -886,6 +890,11 @@ def build_cite_keys(entry_texts):
                     surnames = [sec]
             if not surnames:
                 surnames = list(prev_surnames)
+            if not surnames and fallback_author:
+                # specs/039 I3 标定（sartre 判例）：主文献区节首年份起首条目
+                # （作者＝条目主体本人）无可继承姓氏，旧式整条 continue＝
+                # 30 条文献蒸发。兜底键保定义行（pats 不匹配＝未引用 def）。
+                surnames = [fallback_author]
             if not surnames:
                 continue
         prev_surnames = surnames
@@ -1266,7 +1275,7 @@ def convert_entry(slug):
             supp_files.append('%s.%s.md' % (slug, base))
 
     # 引用注释（文献 → 脚注）
-    keys = build_cite_keys(ctx.bib_entries)
+    keys = build_cite_keys(ctx.bib_entries, fallback_author=slug)
     cite_markers, cite_defs = 0, 0
     if keys:
         md, cite_markers, _used = link_citations(md, keys)

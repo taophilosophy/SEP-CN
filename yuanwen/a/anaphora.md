@@ -527,7 +527,7 @@ Every man who has a wife is sitting next to her.
 
 **(46b)**
 
-#Every married man is sitting next to her. (Heim 1982, 1990)[^heim-1982][^heim-1990]
+\#Every married man is sitting next to her. (Heim 1982, 1990)[^heim-1982][^heim-1990]
 
 Since NP-deletion generally requires a linguistic antecedent, if pronouns are determiners that have undergone NP-deletion, this explains the contrast.
 

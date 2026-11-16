@@ -468,6 +468,56 @@ Another dispute has emerged concerning the etymology of the term. The common opi
 
 [^but-1981]: But see also, Roman U. Sexl (ed.), *Ludwig Boltzmann Gesamtausgabe*, Graz: Akademische Druck- und Verlagsanstalt, 1981; originally published Leipzig: Barth, 1891–1920.
 
+[^statphys-boltzmann-1866]: 1866, Über die Mechanische Bedeutung des Zweiten Hauptsatzes der Wärmetheorie, *Wiener Berichte*, 53: 195–220; in WA I, paper 2.
+
+[^statphys-boltzmann-1868]: 1868, Studien über das Gleichgewicht der lebendigen Kraft zwischen bewegten materiellen Punkten, *Wiener Berichte*, 58: 517–560, 1868; page reference is to WA I, paper 5.
+
+[^statphys-boltzmann-1871a]: 1871a, Über das Wärmegleichgewicht zwischen mehratomigen Gasmolekülen, *Wiener Berichte*, 63: 397–418; in WA I, paper 18.
+
+[^statphys-boltzmann-1871b]: 1871b, Einige allgemeine Sätze über Wärmegleichgewicht, *Wiener Berichte*, 63: 679–711; in WA I, paper 19.
+
+[^statphys-boltzmann-1871c]: 1871c, Analytischer Beweis des zweiten Haubtsatzes der mechanischen Wärmetheorie aus den Sätzen über das Gleichgewicht der lebendigen Kraft, *Wiener Berichte*, 63: 712–732; in WA I, paper 20.
+
+[^statphys-boltzmann-1872]: 1872, Weitere Studien über das Wärmegleichgewicht unter Gasmolekülen, *Wiener Berichte*, 66: 275–370; in WA I, paper 23.
+
+[^statphys-boltzmann-1877a]: 1877a, Bermerkungen über einige Probleme der mechanische Wärmetheorie, *Wiener Berichte*, 75: 62–100; in WA II, paper 39.
+
+[^statphys-boltzmann-1877b]: 1877b, Über die beziehung dem zweiten Haubtsatze der mechanischen Wärmetheorie und der Wahrscheinlichkeitsrechnung respektive den Sätzen über das Wärmegleichgewicht, *Wiener Berichte*, 76: 373–435; in WA II, paper 42.
+
+[^statphys-boltzmann-1881]: 1881, Referat über die Abhandlung von J.C. Maxwell: “Über Boltzmanns Theorem betreffend die mittlere verteilung der lebendige Kraft in einem System materieller Punkte”, *Wied. Ann. Beiblätter*, 5: 403–417; in WA II, paper 63.
+
+[^statphys-boltzmann-1884]: 1884, Über die Eigenschaften Monocyklischer und andere damit verwandter Systeme, *Crelles Journal*, 98: 68–94; in WA III, paper 73.
+
+[^statphys-boltzmann-1887]: 1887, Neuer Beweis zweier Sätze über das Wärmegleichgewicht unter mehratomigen Gasmolekülen, *Wiener Berichte*, 95: 153–164; in WA III, paper 83.
+
+[^statphys-boltzmann-1887b]: 1887b, Über einige Fragen der Kinetische Gastheorie, *Wiener Berichte*, 96: 891–918; in (WA III, paper 86.
+
+[^statphys-boltzmann-1892]: 1892, III. Teil der Studien über Gleichgewicht der lebendigen Kraft, *Münch. Ber.*, 22: 329–358; in WA III, paper 97.
+
+[^statphys-boltzmann-1895]: 1895, On certain questions in the theory of gases, *Nature*, 51: 413–415; in WA III, paper 112.
+
+[^statphys-boltzmann-1895b]: 1895b, On the minimum theorem in the theory of gases, *Nature*, 52: 221; in WA III, paper 114.
+
+[^statphys-boltzmann-1896]: 1896, Vorlesungen über Gastheorie: Vol I, Leipzig, J.A. Barth; translated together with Volume II, by S.G. Brush, *Lectures on Gas Theory*, Berkeley: University of California Press, 1964.
+
+[^statphys-boltzmann-1896b]: 1896b, Entgegnung an die wärmetheoretischen Betrachtungen des Hrn. E. Zermelo, *Wied. Ann.*, 57: 772–784; in WA III, paper 119.
+
+[^statphys-boltzmann-1897a]: 1897a, Zu Hrn Zermelos Abhandlung “Über die mechanische Erklärung irreversibler Vorgänge”, *Wied. Ann.*, 60: 392–398, in WA III, paper 120.
+
+[^statphys-boltzmann-1897b]: 1897b, Über einige meiner weniger bekannte Abhandlungen über Gastheorie und deren Verhältnis zu derselben, *Verh. des 69. Vers. Deutschen Naturf. und Ärzte*, Braunschweig, 19–26; in WA III, paper 123
+
+[^statphys-boltzmann-1897c]: 1897c, Über die Unentbehrlichkeit der Atomistik in der Naturwissensschaft, *Annalen der Physik und Chemie*, 60: 231; in Boltzmann 1905, pp. 78–93.
+
+[^statphys-boltzmann-1897d]: 1897d, Über die Frage der objektiven Existenz der Vörgange in der unbelebten Natur, *Wiener Berichte*, 106: 83; in Boltzmann 1905, pp. 94–119.
+
+[^statphys-boltzmann-1898a]: 1898a, Vorlesungen über Gastheorie: Vol II, Leipzig, J.A. Barth; translated together with Volume I, by S.G. Brush, *Lectures on Gas Theory*, Berkeley: University of California Press, 1964.
+
+[^statphys-boltzmann-1898b]: 1898b, Über die sogenannte *H*-Kurve, *Math. Ann.*, 50: 325–332; in WA III, paper 127.
+
+[^statphys-boltzmann-1904]: 1904, (with J. Nabl), Kinetische theorie der Materie, *Encyclopädie der Mathematischen Wissenschaften*, Vol V/1, pp. 493–557.
+
+[^statphys-boltzmann-1905]: 1905, Populäre Schriften, Leipzig: J.A. Barth; re-issued Braunschweig: F. Vieweg, 1979.
+
 [^blackmore-1982]: Blackmore, J., 1982, “Boltzmann’s concessions to Mach’s philosophy of science”, in *Ludwig Boltzmann Gesamtausgabe: Ausgewählte Abhandlungen*, Band 8, R. Sexl and J. Blackmore (eds), Graz: Akademische Druck- und Verlagsanstalt.
 
 [^blackmore-1995]: –––, 1995, *Ludwig Boltzmann: His Later Life and Philosophy, 1900–1906*, Dordrecht: Kluwer.

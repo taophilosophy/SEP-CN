@@ -197,7 +197,7 @@ Either way, the clash between *would* and *might* is explained in the same way o
 
 **(A11)**
 
-#It’s raining and it might not be raining. ${{R}} \wedge \Diamond_m{{R}}$
+\#It’s raining and it might not be raining. ${{R}} \wedge \Diamond_m{{R}}$
 
 The debates over CEM and Duality continue to attract arguments on each side (van Fraassen 1976; Higginbotham 1986, 2003; DeRose 1994, 1999; von Fintel and Iatridou 2002; J. Bennett 2003; Kaufmann 2009; Williams 2010; Klinedinst 2011; Swanson 2012; Bacon 2015; Santorio 2017; Mandelkern 2018c, 2024; Cariani and Goldstein 2020; Kocurek 2022; Schultheis 2024; Willer 2025).
 
@@ -281,7 +281,7 @@ a. If Spain had fought for the Allies or the Axis, it would have fought for the 
 
 **b.**
 
-#If Spain had fought for the Allies, it would have fought for the Axis. ${{L}} \mathbin{>} {{X}}$
+\#If Spain had fought for the Allies, it would have fought for the Axis. ${{L}} \mathbin{>} {{X}}$
 
 There is also a tension between CEM and SDA. Together, they classically entail the trivializing principle $\neg({{A}} \mathbin{>} \neg{{C}}) \vDash {{B}} \mathbin{>} {{C}}$ (Cariani and Goldstein 2020; this is an equivalent statement of the principle they call “The Interconnectivity of All Things”):
 
@@ -317,7 +317,7 @@ This is not the end of the story, however. Starr (2014b: 2) observes that while 
 
 **(A18)**
 
-#If Spain had fought for the Allies or if Spain had fought for the Axis, it would have fought for the Axis.
+\#If Spain had fought for the Allies or if Spain had fought for the Axis, it would have fought for the Axis.
 
 Recent empirical work also suggests a difference between disjunctive antecedents and their Boolean equivalents. Ciardelli, Zhang, and Champollion (2018) (extending Champollion et al. 2016) present a simple yet powerful demonstration of this. Suppose there is a light connected to two switches, *A* and *B*. The light turns on iff the switches are in the same position. Right now, both switches are up, and so the light is on. Now consider:
 
@@ -428,7 +428,7 @@ a. If the host had selected 5, then if they had (instead) selected an even numbe
 
 **b.**
 
-#If the host had selected 5 and they had (instead) selected an even number, they would have selected a 4. $({{5}} \wedge {{E}}) \mathbin{>} {{4}}$
+\#If the host had selected 5 and they had (instead) selected an even number, they would have selected a 4. $({{5}} \wedge {{E}}) \mathbin{>} {{4}}$
 
 While (A25b) is clearly defective, Santorio suggests (A25a) has a coherent reading on which it has a 50% probability: if they had selected a 5, they would have been selecting from a high number, and so if they had (instead) selected an even from that group, there would be a 50% chance of selecting 4. This suggests at least one direction of Import-Export (viz., Import) fails.
 

@@ -352,6 +352,84 @@ I would like to thank Ray Buchanan, Ben Caplan, and Consuelo Preti for their hel
 
 [^note-3]: Russell (1905, 1910)[^russell-1910][^russell-1905] held that definite descriptions could not be assigned meanings directly, but admitted only of a contextual definition. When we provide an analysis of a sentence containing a description *the F*, no item corresponding to the description remains. On the contextual definition Russell favored, *the F is G* is defined as: *something is both G and uniquely F*.
 
+[^emily-elizabeth-constance-jones-1890]: 1890, *Elements of Logic as a Science of Propositions*, Edinburgh: T. & T. Clark
+
+[^emily-elizabeth-constance-jones-1892a]: 1892a, *An Introduction to General Logic*, London: Longmans, Green, and Co.
+
+[^emily-elizabeth-constance-jones-1892b]: 1892b, Review of Franz Hillebrand, *Die Neuen Theorien der Kategorischen Schlüsse*, *Mind*, 1: 276–281.
+
+[^emily-elizabeth-constance-jones-1893a]: 1893a, “The Import of Categorical Propositions” (with W. E. Johnson), *Mind*, 11: 219 – 222.
+
+[^emily-elizabeth-constance-jones-1893b]: 1893b, “On the Nature of Logical Judgment,” *Mind*, 2: 441–456.
+
+[^emily-elizabeth-constance-jones-1893]: 1893–94, “Import of Categorical Propositions,” *Proceedings of the Aristotelian Society*, 2: 35–45
+
+[^emily-elizabeth-constance-jones-1893-2]: 1893–94, “Symposium: The Relation between Thought and Language” (with J. S. Mann and G. F. Stout), *Proceedings of the Aristotelian Society*, 2: 108–123
+
+[^emily-elizabeth-constance-jones-1894]: 1894, “Rational Hedonism,” *International Journal of Ethics*, 5: 79–97
+
+[^emily-elizabeth-constance-jones-1894-2]: 1894–95, “The Rationality of Hedonism,” *Proceedings of the Aristotelian Society*, 3: 29–45
+
+[^emily-elizabeth-constance-jones-1895]: 1895, “Rational Hedonism—A Rejoinder,” *International Journal of Ethics*, 5: 231–240.
+
+[^emily-elizabeth-constance-jones-1895-2]: 1895, “Rational Hedonism Concluded,” *International Journal of Ethics*, 5: 384–386.
+
+[^emily-elizabeth-constance-jones-1895-3]: 1895–96, “Symposium: Are Character and Circumstances Co-Ordinate Factors in Human Life, or Is Either Subordinate to the Other?” (with B. Bosanquet, William L. Gildea and Alexander F. Shand), *Proceedings of the Aristotelian Society*, 3: 112–122
+
+[^emily-elizabeth-constance-jones-1899]: 1899, “Character and Circumstance,” *International Journal of Ethics*, 9: 504–511.
+
+[^emily-elizabeth-constance-jones-1900]: 1900, “Dr. Ward’s Refutation of Dualism,” *Mind*, 9: 356–371.
+
+[^emily-elizabeth-constance-jones-1900-2]: 1900–01, “The Meaning of Sameness,” *Proceedings of the Aristotelian Society*, 1: 167–173
+
+[^emily-elizabeth-constance-jones-1901]: 1901, “Mr. Hayward’s Evaluation of Professor Sidgwick’s Ethics,” *International Journal of Ethics*, 11: 354–60.
+
+[^emily-elizabeth-constance-jones-1903]: 1903–04, “Professor Sidgwick’s Ethics,” *Proceedings of the Aristotelian Society*, 4: 32–52
+
+[^emily-elizabeth-constance-jones-1904]: 1904, Letter to the Editor, *The Saturday Review*, 97: 782.
+
+[^emily-elizabeth-constance-jones-1905a]: 1905a, *A Primer of Logic*, New York: E.P. Dutton. Third Edition, 1927
+
+[^emily-elizabeth-constance-jones-1905b]: 1905b, “Lewis Carroll’s Logical Paradox,” *Mind*, 14: 576 – 578.
+
+[^emily-elizabeth-constance-jones-1906]: 1906, “Mr. Moore on Hedonism,” *International Journal of Ethics*, 16: 429–464.
+
+[^emily-elizabeth-constance-jones-1906-2]: 1906–07, “Logic and Identity in Difference,” *Proceedings of the Aristotelian Society*, 7: 81–92
+
+[^emily-elizabeth-constance-jones-1908a]: 1908a, “Import Of Propositions and Inference,” *Mind*, 17: 527 – 534.
+
+[^emily-elizabeth-constance-jones-1908b]: 1908b, “Precise and Numerical Identity,” *Mind*, 17: 384 – 393.
+
+[^emily-elizabeth-constance-jones-1909]: 1909, *A Primer of Ethics*, London: John Murray.
+
+[^emily-elizabeth-constance-jones-1909-2]: 1909–11, Four Letters to Bertrand Russell, The Bertrand Russell Archives, McMaster University, RA1 710; published in Thomas (2026)
+
+[^emily-elizabeth-constance-jones-1910a]: 1910a, “Mr. Russell’s Objections to Frege’s Analysis of Propositions,” *Mind*, 19: 379 – 386.
+
+[^emily-elizabeth-constance-jones-1910b]: 1910b, “Prefatory Note,” in *Thoughts on Some Questions Relating to Women*, Emily Davies (ed.), Cambridge: Bowes and Bowes.
+
+[^emily-elizabeth-constance-jones-1910]: 1910–11, “A New Law of Thought,” *Proceedings of the Aristotelian Society*, 11: 166–186.
+
+[^emily-elizabeth-constance-jones-1911a]: 1911a, “A New ‘Law Of Thought’ and Its Implications,” *Mind*, 20: 41 – 53.
+
+[^emily-elizabeth-constance-jones-1911b]: 1911b, *A New Law of Thought and Its Logical Bearings*, Cambridge: Cambridge University Press.
+
+[^emily-elizabeth-constance-jones-1912]: 1912–13, “A New Logic,” *Proceedings of the Aristotelian Society*, 13: 92–109.
+
+[^emily-elizabeth-constance-jones-1913]: 1913, “Analysis of Categorical Propositions,” *Mind*, 22: 526 – 531.
+
+[^emily-elizabeth-constance-jones-1914]: 1914–15, “Symposium: the Import of Propositions” (with Bernard Bosanquet and F. C. S. Schiller) *Proceedings of the Aristotelian Society*, 15: 353–427.
+
+[^emily-elizabeth-constance-jones-1915a]: 1915a, “Analysis of Categorical Propositions,” *Mind*, 24: 60–64.
+
+[^emily-elizabeth-constance-jones-1915b]: 1915b, “Correspondence on Mr. Russell’s Suggestion,” *Cambridge Review*, February 17, 201–2.
+
+[^emily-elizabeth-constance-jones-1917]: 1917–18, “Practical Dualism,” *Proceedings of the Aristotelian Society*, 18: 317–328
+
+[^emily-elizabeth-constance-jones-1920]: 1920, “Henry Sidgwick,” in James Hastings (ed.) *Encyclopaedia of Religion and Ethics*, Volume 11, 505–06, New York: Charles Scribner’s Sons.
+
+[^emily-elizabeth-constance-jones-1922]: 1922, *As I Remember: An Autobiographical Ramble*, London: A. & C. Black.
+
 [^anonymous-1921]: Anonymous, 1921–22, “In Memoriam: Miss E. E. Constance Jones,” *Proceedings of the Aristotelian Society*, 22: 224–225.
 
 [^bradley-1895]: Bradley, F. H., 1895, “‘Rational Hedonism’—Note by Mr. Bradley,” *International Journal of Ethics*, 5(3): 383–84.

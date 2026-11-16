@@ -210,6 +210,8 @@ There is, however, reason to believe that this assumption is false, for investig
 
 consciousness | language of thought hypothesis | other minds | Russell, Bertrand | self-knowledge | Wittgenstein, Ludwig
 
+[^private-language-nd]: The secondary literature on this topic is enormous. The following list is highly selective, and entries are included by meeting at least one of the following criteria: good representative of a standard reading of the argument; influential source, primary or secondary; useful collection of items meeting one or other of the previous two criteria; useful survey; item making recent and significant progress in the understanding and assessment of the argument; source drawn on in the writing of this article; item mentioned in the main text of this article.
+
 [^baker-1998]: Baker, G.P., 1998, ‘The private language argument’, *Language & Communication*, 18: 325–56.
 
 [^baker-1990]: Baker, G.P. & Hacker, P.M.S., 1990, ‘Malcolm on language and rules’, *Philosophy*, 65: 167–79.

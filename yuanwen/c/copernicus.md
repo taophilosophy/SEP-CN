@@ -155,6 +155,8 @@ Aristotle | Bruno, Giordano | Galileo Galilei | Kepler, Johannes | Kuhn, Thomas
 
 [^note-14]: As Rosen (1984, 182–83)[^rosen-1984] noted, there are differing accounts of what Luther said.
 
+[^copernicus-1972]: In 1972 the Polish Academy of Sciences under the direction of J. Dobrzycki published critical editions of the *Complete Works* of Copernicus in six languages: Latin, English, French, German, Polish, and Russian. The first volume was a facsimile edition. The annotations in the English translations are more comprehensive than the others. The English edition was reissued as follows:
+
 [^minor-1992]: *Minor Works*, 1992, trans. E. Rosen, Baltimore: The Johns Hopkins University Press (originally published as volume 3 of *Nicholas Copernicus: Complete Works*, Warsaw: Polish Scientific Publishers, 1985). Referred to herein as **MW**.
 
 [^revolutions-1992]: *On the Revolutions*, 1992, trans. E. Rosen, Baltimore: The Johns Hopkins University Press (originally published as volume 2 of *Nicholas Copernicus: Complete Works*, Warsaw: Polish Scientific Publishers, 1978). Referred to herein as **Revolutions**.

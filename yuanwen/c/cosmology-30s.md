@@ -306,6 +306,8 @@ epistemology | general relativity: early philosophical interpretations of | indu
 
 The editors would like to thank Dick Swenson for pointing out a number of typographical errors and infelicities concerning the formatting in this entry.
 
+[^cosmology-30s-1938]: A.D.R. [initials of the semi-anonymous reviewer], 1938, “A Philosophy of Science,” *Nature* (London), 141: 95–96.
+
 [^balashov-2002]: Balashov, Yuri, 2002, “Laws of the Physical Universe,” in Yuri Balashov and Vladimir Vizgin (eds.), *Einstein Studies in Russia* (Einstein Studies: Volume 10), Boston, Basel: Birkhäuser, pp. 107–148.
 
 [^bondi-1957]: Bondi, H., 1957, “Some Philosophical Problems in Cosmology,” in *British Philosophy in the Mid-Century*, C. A. Mace (ed.), London: George Allen and Unwin.

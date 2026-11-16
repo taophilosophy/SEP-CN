@@ -403,6 +403,10 @@ The use of “will” solidifies the agentic dimension of the creation of the pe
 
 [^ogg-1969]: [OGG] 1969 [1970/1997], “On ‘God’ and ‘Good”, first published in 1969, *The Anatomy of Knowledge; Papers Presented to the Study Group on Foundations of Cultural Unity, Bowdoin College, 1965 and 1966*, Marjorie Grene (ed.), Amherst, MA: University of Massachusetts Press. Collected in [SG], pp. 46–76; reprinted in [EM], pp. 337–362.
 
+[^murdoch-1977]: 1977, “Literature and Philosophy: A Conversation with Bryan Magee”, in Bryan Magee, *Men of Ideas*, London: BBC Books; reprinted in [EM], pp. 3–30.
+
+[^murdoch-2003]: 2003, *From a Tiny Corner in the House of Fiction: Conversations with Iris Murdoch*, Gillian Dooley (ed.), Columbia, SC: University of South Carolina Press. A collection of 23 interviews by many people over the course of Murdoch’s life.
+
 [^anscombe-1958]: Anscombe, G.E.M., 1958 [1997], “Modern Moral Philosophy”, *Philosophy*, 33(124): 1–19; reprinted in Crisp and Slote 1997: 26–44. doi:10.1017/S0031819100037943
 
 [^antonaccio-1996]: Antonaccio, Maria, 1996, “Form and Contingency in Iris Murdoch’s Ethics”, in Antonaccio and Schweiker 1996: 110–137.

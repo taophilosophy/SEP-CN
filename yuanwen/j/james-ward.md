@@ -159,6 +159,22 @@ At a deeper level, Ward’s thought is admirable for his sincere attachment to t
 
 Bradley, Francis Herbert | Hartshorne, Charles | Leibniz, Gottfried Wilhelm | Lotze, Hermann | panpsychism | Peirce, Charles Sanders | Russell, Bertrand
 
+[^james-ward-1886]: 1886. ‘Psychology’, *Encyclopaedia Britannica*, 9th edition, Vol. 20, Edinburgh: Black, 37–85.
+
+[^james-ward-1899]: 1899. *Naturalism and Agnosticism. The Gifford Lectures Delivered Before the University of Aberdeen in the Years 1896–1898*, 2 volumes, London: Adam and Charles Black.
+
+[^james-ward-1904]: 1904. *Philosophical Orientation and Scientific Standpoints*, Berkeley: University of California Press.
+
+[^james-ward-1911]: 1911. *The Realm of Ends or Pluralism and Theism. The Gifford Lectures Delivered in the University of St. Andrews in the Years 1907–10*, Cambridge: Cambridge University Press.
+
+[^james-ward-1918]: 1918. *Psychological Principles*, Cambridge: Cambridge University Press.
+
+[^james-ward-1922]: 1922. *A Study of Kant*, Cambridge: Cambridge University Press.
+
+[^james-ward-1926]: 1926. *Psychology Applied to Education*, edited by G. Dawes Hicks, Cambridge: Cambridge University Press.
+
+[^james-ward-1927]: 1927. *Essays in Philosophy: with a Memoir by Olwen Ward Campbell*, W. R. Sorley and G. F. Stout (eds.), Cambridge: Cambridge University Press.
+
 [^aliotta-1914]: Aliotta, A., 1914. *The Idealistic Reaction Against Science*, London: MacMillan.
 
 [^bartlett-1925]: Bartlett, F. C., 1925. ‘James Ward, 1843–1925,’ *American Journal of Psychology*, 36: 449–453.

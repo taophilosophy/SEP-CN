@@ -386,6 +386,38 @@ Ibn ‘Arabī | Ibn Sina [Avicenna] | Suhrawardi
 
 [^there-1999]: (1999), *Masnavi-yi Mulla Sadra*, ed. M. Fayzi, Qum: Kitabkhana-yi Mar‘ashi. (An edition of a selection of Mulla Sadra’s poetry by a descendent, it also has a useful introduction on the life of Mulla Sadra.)
 
+[^mulla-sadra-1964]: (1964), *Kitab al-masha‘ir*, tr. as *Livre des pénétrations métaphysiques* by H. Corbin, Tehran: L’Institut Franco-Iranien.
+
+[^mulla-sadra-1981]: (1981), *al-Hikma al-‘Arshiyya*, tr. as *The Wisdom of the Throne* by James W. Morris, Princeton: Princeton University Press.
+
+[^mulla-sadra-1986]: (1986), [Shihab al-Din Yahya] Sohravardî, *Hikmat al-ishraq*, tr. as *Le livre de la sagesse orientale* by H. Corbin with the glosses of Mulla Sadra, Paris: Fayard, pp. 439–669.
+
+[^mulla-sadra-2000a]: (2000a), *Risalat al-hashr*, tr. as *Se rendre immortel* by C. Jambet, Paris: Fata Morgana; new version (2017), *La fin de toute chose*, Paris: Albin Michel.
+
+[^mulla-sadra-2000b]: (2000b), *Risala fi huduth al-‘alam*, tr. as *Die* *Abhandlung über die Entstehung* by S. Bagher Talgharizadeh, Berlin: Klaus Schwarz.
+
+[^mulla-sadra-2000c]: (2000c), *Садр ад-Дин аш-Ширази*, «Приходящее в сердце о познании Господствия» (Sadr al-Din al-Shirazi, Coming Into Heart Concerning the Knowledge of Lordship), in *Восток*, Москва: Наука, 2: 109–132; 5: 109–127.
+
+[^mulla-sadra-2003]: (2003), *Iksir al-‘arifin*, tr. as *The Elixir of the Gnostics* by W. Chittick, Provo, Utah: Brigham Young University Press.
+
+[^mulla-sadra-2004]: (2004), *Садр ад-Дин аш-Ширази*, «Престольная мудрость» (Sadr al-Din al-Shirazi, The Wisdom of the Throne) (Москва: Восточная литература).
+
+[^mulla-sadra-2004-2]: (2004), *Khalq al-a‘mal*, tr. T. Kirmani as *The Manner of the Creation of Actions*, Tehran: SIPRIn.
+
+[^mulla-sadra-2006]: (2006), *al-Risala fi-l-tasawwur wa-l-tasdiq*, tr. J. Lameer as *Conception and Belief in Sadr al-Din Shirazi*, Tehran: Iranian Academy of Philosophy.
+
+[^mulla-sadra-2007]: (2007), *al-Hikma al-‘arshiyya*, trs. A. Yousef & P. Moulinet as *Le Livre de la sagesse du trône*, Paris: Bouraq.
+
+[^mulla-sadra-2008]: (2008), *Kasr asnam al-jahiliyya*, trs. M. Dasht Bozorgi & F. Asadi Amjad as *Breaking the Idols of Ignorance*, London: ICAS Press.
+
+[^mulla-sadra-2008-2]: (2008), *al-Hikma al-muta‘aliya fi-l-asfar al-‘aqliyya al-arba‘a*, vols. 8 & 9, tr. L. Peerwani as *Spiritual Psychology: The Fourth Intellectual Journey*, London: ICAS Press.
+
+[^mulla-sadra-2010]: (2010), *al-Mazahir al-ilahiyya*, trs. M. Dasht Bozorgi and F. Asadi Amjadi as *Divine Manifestations Concerning the Secrets of the Perfecting Sciences*, London: ICAS Press.
+
+[^mulla-sadra-2014]: (2014), *al-Masha‘ir*, tr. Seyyed Hossein Nasr, ed. Ibrahim Kalin as *The Book of Metaphysical Penetrations*, Provo: Brigham Young University Press. (A new translation of a critically important work on Mulla Sadra’s metaphysics.)
+
+[^mulla-sadra-2016]: (2016), *al-Asfar al-arba‘a*, tr. Sayyid Manazir Ahsan Gilani as *Falsafa-yi Mulla Sadra*, Karachi: Book Time. (A reprint of an old Urdu translation of the first journey but it is in fact more of a paraphrase than a translation.)
+
 [^ja-1955]: Ja‘far Al Yasin (1955), *Sadr al-Din al-Shirazi: mujaddid al-falsafa al-islamiyya*, Baghdad: Baghdad University.
 
 [^sayyid-1971]: Sayyid Jalal al-Din Ashtiyani (1971), *Sharh-i hal va ara’-yi falsafi-yi Mulla Sadra*, Mashad: Chapkhana-yi Khurasan. (An excellent Persian study of life and ideas by a leading recent ‘traditional’ Iranian philosopher.)

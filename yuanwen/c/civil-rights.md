@@ -193,6 +193,10 @@ affirmative action | critical philosophy of race | democracy | disability: and j
 
 [^indonesia-2003]: **Indonesia**: Indonesian Labor Law, Act 13, Articles Five and Six 2003.
 
+[^civil-rights-1979]: 1979, [Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women). United Nations, Treaty Series, vol. 1249.
+
+[^civil-rights-1965]: 1965, [International Convention on the Elimination of All Forms of Racial Discrimination](https://www.refworld.org/legal/agreements/unga/1965/en/13974). United Nations, Treaty Series 660, 195.
+
 [^bivens-1971]: Bivens v. Six Unknown Federal Narcotics Agents, 403 U.S. 388 (1971).
 
 [^brown-1954]: Brown v. Board of Education, 347 US 483 (1954).

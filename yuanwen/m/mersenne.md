@@ -251,6 +251,16 @@ Descartes, René | Descartes, René: epistemology | Descartes, René: modal meta
 
 Some passages in the biographical parts of this entry are borrowed from Hamou 2008.
 
+[^mersenne-1623]: 1623 [UR], *L’Usage de la raison*, Paris. Edited by Claudio Buccolini, Paris: Fayar, 1 volume, 2002.
+
+[^mersenne-1623-2]: 1623, *L’Analyse de la vie spirituelle*, Paris, [lost].
+
+[^mersenne-1623-3]: 1623 [QG], *Quaestiones celeberrimae in Genesim*, followed with *Observationes et emendationes ad Francisci Georgii Veneti problemata*, Paris. [[available online](http://gallica.bnf.fr/ark:/12148/bpt6k109218n)]
+
+[^mersenne-1623-4]: 1623 [OF], *Observationes et emendationes ad Francisci Georgii Veneti Problemata : in hoc opere cabala evertitur, editio vulgata…* Paris. [[available online](http://gallica.bnf.fr/ark:/12148/bpt6k109218n.r=mersenne.langFR)]
+
+[^mersenne-1624]: 1624 [ID], *L’Impiété des déistes, athées et libertins de ce temps combattue et renversée de point en point par des raisons tirées de la philosophie*, Paris.
+
 [^new-1630]: [New edition of the first part under the title] *Questions rares et curieuses […]*, Paris, 1630.
 
 [^critical-2005]: Critical edition by Dominique Descotes, Paris: Champion, 1 volume, 2005

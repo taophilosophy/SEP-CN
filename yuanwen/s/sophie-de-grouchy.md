@@ -219,6 +219,16 @@ Grouchy also argued that a heavily regulated market increased poverty, forcing t
 
 Condillac, Étienne Bonnot de | Condorcet, Marie-Jean-Antoine-Nicolas de Caritat, Marquis de: in the history of feminism | republicanism | Wollstonecraft, Mary
 
+[^sophie-de-grouchy-1798]: 1798, *Théorie des Sentiments Moraux, suivi d’une Dissertation sur l’Origine des Langues, par Adam Smith, traduit de l’Anglais sur la septième et dernière édition, par S. Grouchy, Ve Condorcet. Elle y a joint huit Lettres sur la Sympathie*, Tome II, Paris: Buisson.
+
+[^sophie-de-grouchy-1993]: 1993, *Lettres sur la Sympathie suivies des Lettres d’Amour à Maillat Garat*, Jean-Paul Lagrave (ed.), Montreal: Presses de l’Universite du Quebec.
+
+[^sophie-de-grouchy-2008]: 2008, *Letters on Sympathy (1798): A Critical Edition*, Karin Brown (ed.) and James McClellan III (trans.), (*Transactions of the American Philosophical Society*, New Series, 98(4)), Philadelphia: American Philosophical Society.
+
+[^sophie-de-grouchy-2010]: 2010, *Les Lettres sur la Sympathies (1798) de Sophie de Grouchy: philosophie morale et reforme sociale*, Marc André Bernier and Deidre Dawson (eds), Oxford: Voltaire Foundation.
+
+[^sophie-de-grouchy-2019]: 2019, *Sophie de Grouchy’s “Letters on Sympathy”: A Critical Engagement with Adam Smith’s “The Theory of Moral Sentiments”*, Sandrine Bergès (trans./ed.) and Eric Schliesser (ed.), (Oxford New Histories of Philosophy), New York: Oxford University Press. doi:10.1093/oso/9780190637088.001.0001
+
 [^condorcet-1808]: Condorcet, Nicolas de, 1808, *Oeuvres*, Edited by Mme de Condorcet (Sophie de Grouchy), P.J.G Cabanis, and D.J. Garat.
 
 [^condorcet-1792]: Condorcet, Nicolas de and Thomas Paine, 1792, *Aux Origines de la Republique 1789–1792*, Volume III, *Le Républicain par Condorcet et Thomas Paine, 1791*, Paris: EDHIS, 1991 (Contains several articles attributed to Grouchy).

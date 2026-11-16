@@ -299,6 +299,38 @@ action-based theories of perception | Cohen, Hermann | color | Duhem, Pierre | g
 
 Collaborative work and discussion with Clinton Tolley, Scott Edgar, Gary Hatfield, Susan Sterrett, Martin Kusch, Michael Heidelberger, Liesbet de Kock, and Francesca Biagioli, among many others, has made my grasp of Helmholtz’s views more precise. Discussions with Michael Forster on the methods of the natural and the human sciences provided valuable leads for that section. Thanks are due to Emily Carson, Michael Hallett, and Alison Laywine for their aid with my very early work on Helmholtz, and to Stephen Menn for suggestions for revisions. Link Swanson, M. Steinfels, Eric Schliesser, and David Hyder have recommended work and suggested corrections. Especial thanks are due to Clark Glymour for detailed and very helpful comments on the first draft of this entry.
 
+[^hermann-helmholtz-1853]: 1853 [1847], “On the Conservation of Force,” translation by John Tyndall, *Scientific Memoirs*, London.
+
+[^hermann-helmholtz-1854]: 1854, “On the Interaction of the Natural Forces,” in *Science and Culture: Popular and Philosophical Essays*, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 18–45. (Lecture delivered February 7, 1854, at Königsberg.)
+
+[^hermann-helmholtz-1862]: 1862, “On the Relation of Natural Science to Science in General,” in *Science and Culture: Popular and Philosophical Essays*, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 76–95.
+
+[^hermann-helmholtz-1892]: 1892, “Goethe’s Presentiments of Coming Scientific Ideas,” in *Science and Culture: Popular and Philosophical Essays*, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 393–412.
+
+[^hermann-helmholtz-1863]: 1863, *On the Sensations of Tone as a Physiological Basis for the Theory of Music*, trans. by Alexander J. Ellis from the fourth (1877) edition, New York: Dover Publications, Inc., 1954. First German edition published Braunschweig: Verlag von F. Vieweg & Sohn.
+
+[^hermann-helmholtz-1867]: 1867, *Handbuch der physiologischen Optik*, Leipzig: Leopold Voss. Published in parts from 1856 to 1866, then published in toto in 1867 as Volume Nine of the *Allgemeinen Encyclopädie der Physik*, ed. Gustav Karsten. Second revised edition of 1896, Leipzig: Leopold Voss, available entire from Google Books.
+
+[^hermann-helmholtz-1883]: 1883 [1868], “Über die Thatsachen, welche der Geometrie zu Grunde liegen,” in *Wissenschaftliche Abhandlungen*, Volume II, Leipzig: Johann Ambrosius Barth, 618–639. Originally published in the *Nachrichten von der Königl. Gesellschaft der Wissenschaften zu Göttingen*, No. 9 (3 June).
+
+[^hermann-helmholtz-1868]: 1868, “The Recent Progress of the Theory of Vision,” in *Science and Culture: Popular and Philosophical Essays*, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 127–203. Originally published in the *Preussische Jahrbücher*, Volume 21.
+
+[^hermann-helmholtz-1869]: 1869, “Über das Ziel und die Fortschritte der Naturwissenschaft,” in *Das Denken in der Naturwissenschaft*, Darmstadt: Wissenschaftliche Buchgesellschaft, 1968.
+
+[^hermann-helmholtz-1878]: 1878, “The Facts of Perception,” in *Selected writings of Hermann von Helmholtz*, edited, with an introduction, by Russell Kahl. Middletown, Connecticut: Wesleyan University Press, 1971.
+
+[^hermann-helmholtz-1882]: 1882, *Wissenschaftliche Abhandlungen*, Three volumes: second volume 1883, third volume 1895, Leipzig: Johann Ambrosius Barth.
+
+[^hermann-helmholtz-1894]: 1894, Introduction to Hertz 1894.
+
+[^hermann-helmholtz-1903]: 1903, *Vorträge und Reden*, Two volumes, fifth edition, Braunschweig: F. Vieweg u. Sohn.
+
+[^hermann-helmholtz-1921]: 1921, *Schriften zur Erkenntnistheorie*, Moritz Schlick and Paul Hertz (eds.), Berlin: Julius Springer.
+
+[^hermann-helmholtz-1921-2]: 1921, *Hermann von Helmholtz. Epistemological Writings. The Paul Hertz/Moritz Schlick Centenary Edition of 1921*, newly translated by Malcom Lowe. Robert S. Cohen and Yehuda Elkana (eds.), Dordrecht: D. Reidel Publishing Company, 1977.
+
+[^hermann-helmholtz-2017]: 2017, *Hermann von Helmholtz. Philosophische und Populärwissenschaftliche Schriften*, Michael Heidelberger, Helmut Pulte, and Gregor Schiemann (eds.), Hamburg: Meiner Verlag.
+
 [^allais-2015]: Allais, Lucy, 2015, *Manifest Reality: Kant’s Idealism and his Realism*, Oxford: Oxford University Press.
 
 [^assis-1994]: Assis, André Koch Torres, 1994, *Weber’s Electrodynamics* (Series: Fundamental Theories of Physics), Dordrecht: Kluwer Academic Publishers.

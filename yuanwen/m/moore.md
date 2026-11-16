@@ -154,6 +154,8 @@ This case is typical. Moore had an unparalleled ability for identifying philosop
 
 analysis | Ayer, Alfred Jules | Bradley, Francis Herbert | consequentialism | Kant, Immanuel | metaethics | Moore, George Edward: moral philosophy | moral non-naturalism | naturalism: moral | perception: epistemological problems of | perception: the problem of | propositions | reasons for action: justification, motivation, explanation | Reid, Thomas | Russell, Bertrand | sense data | skepticism | supervenience | truth: identity theory of | value: intrinsic vs. extrinsic | Wittgenstein, Ludwig
 
+[^moore-nd]: [* indicates the edition used for page references in this entry]
+
 [^nature-1899]: ‘The Nature of Judgment’ *Mind* 8 (1899) 176-93. Reprinted in \**G. E. Moore: Selected Writings*1-19.
 
 [^truth’-1901]: ‘Truth’ in J. Baldwin (ed.) *Dictionary of Philosophy and Psychology* Macmillan, London: 1901-2. Reprinted in \**G. E. Moore: Selected Writings* 20-2.

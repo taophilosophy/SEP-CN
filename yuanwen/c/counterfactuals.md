@@ -221,7 +221,7 @@ If J. Edgar Hoover had been born a Russian, then he would be a communist. $R \gt
 
 **c.**
 
-#If J. Edgar Hoover had been born a Russian, he would be a traitor (to his home country). $R \gt T$
+\#If J. Edgar Hoover had been born a Russian, he would be a traitor (to his home country). $R \gt T$
 
 Contra Contraposition, Lewis (1973b: 35)[^lewis-1973b] presents (14). Imagine Olga went to the party but Boris didn’t. Boris wanted to go, but stayed home to avoid Olga. However, Olga really wanted to see Boris. Both Boris and Ogla have reliable access to each other’s whereabouts. In that case, (14a) is true (Olga wants to see Boris) whereas (14b) is false (Boris wants to go to the party while avoiding Olga).
 
@@ -231,7 +231,7 @@ a. If Boris had gone to the party, Olga would have gone. $B \gt O$
 
 **b.**
 
-#If Olga had not gone, Boris would not have gone. $\neg O \gt \neg B$
+\#If Olga had not gone, Boris would not have gone. $\neg O \gt \neg B$
 
 Finally, against SDA, McKay and van Inwagen (1977: 354) offer (15). Imagine Spain preferred to remain neutral, but preferred working with the Axis over working with the Allies. In that case, (15a) is true. Suppose further that under no circumstances do they want to “play both sides”: the risks of getting caught are just too great. In that case, (15b) is false.
 
@@ -241,7 +241,7 @@ a. If Spain had fought for the Allies or the Axis, it would have fought for the 
 
 **b.**
 
-#If Spain had fought for the Allies, it would have fought for the Axis. $L \gt X$
+\#If Spain had fought for the Allies, it would have fought for the Axis. $L \gt X$
 
 Not everyone accepts these counterexamples (section 4.2). Still, all analyses must provide an explanation of why these monotonicity principles *seem* to fail in these cases.
 
@@ -340,7 +340,7 @@ a. If I were an Olympic athlete but had a broken leg, I wouldn’t have won the 
 
 **b.**
 
-#If I were an Olympic athlete, I would have won the race. $O \gt W$
+\#If I were an Olympic athlete, I would have won the race. $O \gt W$
 
 Further linguistic evidence comes from negative polarity items (or NPIs), such as *any* and *ever*. Linguists hypothesize that NPIs are only licensed in downward-monotonic environments (Ladusaw 1979; Katz 1991; Kadmon and Landman 1993; Partee 1993; von Fintel 1999a)[^fintel-1999a][^kadmon-1993][^katz-1991][^ladusaw-1979][^partee-1993].[^note-13] For example, *doubt* is downward-monotonic: doubting Ann is at the movies entails doubting Ann is at the movies eating popcorn. By contrast, *believes* is not downward-monotonic: believing Ann is at the movies doesn’t entail believing Ann is at the movies eating popcorn. This difference seems to directly correlate with the contrast between (22), which sounds fine, and (23), which sounds ungrammatical. Notably, however, NPIs are licensed in the antecedents of conditionals, as in (24). This suggests counterfactual antecedents are downward-monotonic, i.e., Antecedent Strengthening is valid after all.
 
@@ -350,7 +350,7 @@ I doubt Ann ever saw any movies.
 
 **(23)**
 
-#I believe Ann [ever] saw any movies.
+\#I believe Ann [ever] saw any movies.
 
 **(24)**
 

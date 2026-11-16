@@ -490,6 +490,100 @@ Austin, John Langshaw | Grice, Paul | Sellars, Wilfrid | sense data | Strawson, 
 
 The original draft of this entry was written by Paul Snowdon. After he passed away, the draft was substantially revised by Arthur Schipper. The editors are grateful to Paul Snowdon for his early work on this entry and to Katherine Snowdon for granting permission for us to build on that work with a new author.
 
+[^price-1932]: 1932, *Perception*, London: Methuen & Co.; reprinted, 1954, with a new preface responding to criticisms.
+
+[^price-1940a]: 1940a, *Hume’s Theory of the External World*, Oxford: Clarendon Press.
+
+[^price-1953a]: 1953a, *Thinking and Experience*, London: Hutchinson University Library; Chapter 1’s discussion of universals and resemblance is often anthologised, e.g., van Inwagen & Zimmerman 1998 [2008: chapter 6].
+
+[^price-1969]: 1969, *Belief: The Gifford Lectures Delivered at the University of Aberdeen in 1960*, (Muirhead Library of Philosophy 1959–60), London: Allen & Unwin.
+
+[^price-1972]: 1972, *Essays in the Philosophy of Religion: Based on the Sarum Lectures, 1971*, Oxford: Clarendon Press.
+
+[^price-1995]: 1995, *Philosophical Interactions with Parapsychology*, Frank B. Dilley (ed.), London: Palgrave Macmillan. doi:10.1007/978-1-349-24108-8
+
+[^price-1936]: 1936, *Truth and Corrigibility*, Oxford: Clarendon Press.
+
+[^price-1953b]: 1953b, *Some Aspects of the Conflict between Science & Religion*, Cambridge: Cambridge University Press.
+
+[^price-1924]: 1924, “Reality and Sensible Appearance”, *Mind*, 33(129): 20–43. doi:10.1093/mind/XXXIII.129.20
+
+[^price-1926a]: 1926a, “A Realist View of Illusion and Error”, *The Monist*, 36(2): 340–354. doi:10.5840/monist19263627
+
+[^price-1926b]: 1926b, “Symposium: The Nature of Sensible Appearances”, with G. Hicks, G. E. Moore, and L. S. Stebbing, *Aristotelian Society Supplementary Volume*, 6: 162–178. doi:10.1093/aristoteliansupp/6.1.142
+
+[^price-1927]: 1927, “Mill’s View of the External World”, *Proceedings of the Aristotelian Society*, 27: 109–140. doi:10.1093/aristotelian/27.1.109
+
+[^price-1928]: 1928, “On The So-Called Space of Sight”, *Proceedings of the Aristotelian Society*, 28: 97–116. doi:10.1093/aristotelian/28.1.97
+
+[^price-1929]: 1929, “Symposium: Negation”, with J. D. Mabbott and G. Ryle, *Aristotelian Society Supplementary Volume*, 9: 97–111. doi:10.1093/aristoteliansupp/9.1.67
+
+[^price-1930a]: 1930a, “The Appeal to Common Sense (I)”, *Philosophy*, 5(17): 24–35. doi:10.1017/S0031819100010731
+
+[^price-1930b]: 1930b, “The Appeal to Common Sense (II)”, *Philosophy*, 5(18): 191–202. doi:10.1017/S0031819100013255
+
+[^price-1935]: 1935, “Logical Positivism and Theology”, *Philosophy*, 10(39): 313–331. doi:10.1017/S0031819100016776
+
+[^price-1936-2]: 1936, “Symposium: Memory-Knowledge”, with J. Laird and J. N. Wright, *Aristotelian Society Supplementary Volume*, 15: 16–33. doi:10.1093/aristoteliansupp/15.1.16
+
+[^price-1938]: 1938, “Our Evidence for the Existence of Other Minds”, *Philosophy*, 13(52): 425–456. doi:10.1017/S0031819100014200
+
+[^price-1939]: 1939 [1995], “Haunting and the ‘Psychic Ether’ Hypothesis – I”, *Proceedings of the Society for Psychical Research*, 45(160), Presidential Address, 307–323; reprinted in Price 1995: 17–34.
+
+[^price-1940b]: 1940b, “The Permanent Significance of Hume’s Philosophy”, *Philosophy*, 15(57): 7–37. doi:10.1017/S0031819100035646
+
+[^price-1940c]: 1940c, “Some Philosophical Questions about Telepathy and Clairvoyance”, *Philosophy*, 15(60): 363–385. doi:10.1017/S0031819100036603
+
+[^price-1941]: 1941, “Critical Notices: *The Foundations of Empirical Knowledge* by A.J. Ayers”, *Mind*, 50(199): 280–293. doi:10.1093/mind/L.199.280
+
+[^price-1943]: 1943, “Critical Notices: *A Treatise on Knowledge* by A. H. Smith”, *Mind*, 52(208): 331–344. doi:10.1093/mind/LII.208.331
+
+[^price-1943-2]: 1943–1944, “Touch and Organic Sensation: The Presidential Address”, *Proceedings of the Aristotelian Society*, 44: i–xxx. doi:10.1093/aristotelian/44.1.i
+
+[^price-1945]: 1945, “The Inaugural Address: ‘Clarity Is Not Enough’”, *Aristotelian Society Supplementary Volume*, 19: 1–31. doi:10.1093/aristoteliansupp/19.1.1
+
+[^price-1946]: 1946, “Thinking and Representation (The Hertz Philosophical Lecture, read 6 February 1946)”, *Proceedings of the British Academy*, 32: 83–122.
+
+[^price-1951]: 1951, “Critical Notice: *Knowledge and Perception: Essays and Lectures* by H.A. Prichard”, *Mind*, 60(237): 103–121. doi:10.1093/mind/LX.237.103
+
+[^price-1951-2]: 1951–1952, “Image Thinking”, *Proceedings of the Aristotelian Society*, 52: 135–166. doi:10.1093/aristotelian/52.1.135
+
+[^price-1952a]: 1952a, “Seeming”, in “Symposium: ‘Sseming[sic]’”, with Karl Britton and A. Quinton, *Aristotelian Society Supplementary Volume*, 26: 215–234. doi:10.1093/aristoteliansupp/26.1.195
+
+[^price-1952b]: 1952b, “New Books: *Analysis of the Problem of Perception in British Empiricism* by Justus Hartnack”, *Mind*, 60(240): 550–583.
+
+[^price-1952c]: 1952c, “Memory”, *The Philosophical Quarterly*, 2(9): 350–355. doi:10.2307/2216815
+
+[^price-1953c]: 1953c, “Survival and the Idea of ‘Another World’”, *Proceedings of the Society for Psychical Research*, 60: 1–25; reprinted in Price 1995: 237–262.
+
+[^price-1954a]: 1954a, “Preface to 1954 Reprint” of *Perception* (1932), pp. vii–ix.
+
+[^price-1954b]: 1954b, “The Inaugural Address: Belief and Will”, *Proceedings of the Aristotelian Society*, *Supplementary Volumes*, Volume 58, Belief and Will, 1–26. doi:10.1093/aristoteliansupp/28.1.1
+
+[^price-1956]: 1956, “The Argument from Illusion”, in H.D. Lewis (ed.), *Contemporary British Philosophy*, London: George Allen and Unwin, pp. 391–400.
+
+[^price-1959a]: 1959a, “The Nature and Status of Sense-Data in Broad’s Epistemology”, in P.A. Schilpp (ed.), *The Philosophy of C.D. Broad*, New York: Tudor Publishing Company, pp. 457–485.
+
+[^price-1959b]: 1959b, “Review: *Perceiving: A Philosophical Study* by Roderick Chisholm”, *The British Journal for the Philosophy of Science*, 10(38): 147–153. doi:10.1093/bjps/X.38.147
+
+[^price-1959c]: 1959c, “Comment on: ‘Price’s Theory of the Concept’”, *The Review of Metaphysics*, 12(3): 481–485.
+
+[^price-1960]: 1960, “Sir Russell Brain on Modes of Apprehension”, *The British Journal for the Philosophy of Science*, 11(41): 71–76. doi:10.1093/bjps/XI.41.71
+
+[^price-1964a]: 1964a, “Appearing and Appearances”, *American Philosophical Quarterly*, 1(1): 3–19.
+
+[^price-1964b]: 1964b, “Symposium: Half-Belief”, with R. B. Braithwaite, *Aristotelian Society Supplementary Volume*, 38: 149–174. doi:10.1093/aristoteliansupp/38.1.149
+
+[^price-1964c]: 1964c, “Faith and Belief”, in Hick 1964: 3–25. doi:10.1007/978-1-349-81670-5_1
+
+[^price-1964d]: 1964d, “Reply to Hartshorne”, in Hick 1964: 33–37. doi:10.1007/978-1-349-81670-5_2
+
+[^price-1965]: 1965, “Belief ‘In’ and Belief ‘That’”, *Religious Studies*, October, 1(1): 5–27. doi:10.1017/S0034412500002304
+
+[^price-1968a]: 1968a, “The Problem of Life after Death”, *Religious Studies*, 3(2): 447–459. Reprinted in Price 1995: 220–236. doi:10.1017/S0034412500003140
+
+[^price-1968b]: 1968b, “Survival and the Idea of Another World”, in J.R. Smythies (ed.), *Brain and Mind*, London: Routledge and Kegan Paul.
+
 [^aldwinckle-1972]: Aldwinckle, Russell Foster, 1972, *Death in the Secular City: A Study of the Notion of Life after Death in Contemporary Theology and Philosophy*, London: Allen & Unwin. doi:10.4324/9781003334484
 
 [^anscombe-1981]: Anscombe, G.E.M., 1981, “Introduction”, in her *Metaphysics and the Philosophy of Mind*, Oxford: Oxford University Press, pp. vii–x.

@@ -411,6 +411,48 @@ We are very grateful to James Jardine, Lucy Osler, Alessandro Salice, and an ano
 
 [^throughout-nd]: Throughout this article the consulted English translations, which are often misleading and sometimes outright erroneous, or leave out relevant notions altogether, have been modified. Wherever relevant, original German terms are mentioned in brackets and italics. Wherever possible, both German and English references are provided: the first reference is to the pagination of the German edition of Stein’s collected works (*Edith Stein Gesamtausgabe*, ESGA, 28 volumes, Freiburg, Basel, Wein: Herder), followed by references in square brackets to the English translations in the *Collected Works of Edith Stein* (CWES, Washington, DC: ICS Publication).
 
+[^stein-1917]: 1917, *Zum Problem der Einfühlung*; reprinted ESGA, Volume 5, 2008; translated as *On the Problem of Empathy*, Waltraut Stein (trans.), CWES, Volume 3, 1989.
+
+[^stein-1922]: 1922, *Beiträge zur philosophischen Begründung der Psychologie und der Geisteswissenschaften*; reprinted ESGA, Volume 6, 2010; translated as *Philosophy of Psychology and the Humanities*, Mary Catherine Baseheart and Marianne Sawicki (trans.), CWES, Volume 7, 2000.
+
+[^stein-1925]: 1925, *Eine Untersuchung über den Staat*; reprinted ESGA, Volume 7, 2006; translated as *An Investigation Concerning the State*, Marianne Sawicki (trans.), CWES, Volume 10, 2006.
+
+[^stein-1920]: 1920/1924, *Einführung in die Philosophie*; reprinted ESGA, Volume 8, 2004.
+
+[^stein-1929]: 1929, “Husserls Phänomenologie und die Philosophie des heiligen Thomas von Aquino. Versuch einer Gegenüberstellung”, in *Festschrift Edmund Husserl zum 70. Geburtstag gewidmet*, (*Jahrbuch für Philosophie und phänomenologische Forschung* 10), Ergänzungsband, Halle: Max Niemeyer, 315–338.
+
+[^stein-1931]: 1931, *Potenz und Akt: Studien zu einer Philosophie des Seins*; reprinted ESGA, Volume 10, 2005; translated as *Potency and Act: Studies toward a Philosophy of Being*, Walter Redmond (trans.), CWES, Volume 11, 2009.
+
+[^stein-1950]: 1950/2006, *Endliches und Ewiges Sein. Versuch eines Aufstiegs zum Sinn des Seins. Anhang: Martin Heideggers Existenz-philosophie & Die Seelenburg*; reprinted ESGA, Volumes 11–12, 2006; translated as *Finite and Eternal Being. An Attempt at an Ascent to the Meaning of Being*, Kurt F. Reinhardt (trans.), CWES, Volume 9, 2002.
+
+[^stein-1985]: 1985, *Aus dem Leben einer jüdischen Familie und weitere autobiographische Beiträge*; reprinted ESGA, Volume 1, 2002; translated as *Life in a Jewish Family: An Autobiography, 1891–1916*, Josephine Koeppel (trans.), CWES, Volume 1, 1986.
+
+[^stein-1987]: 1987, *Wege zur inneren Stille*, W. Herbstrith (ed.), Aschaffenburg: Kaffke.
+
+[^stein-1993]: 1993, *Erkenntnis und Glaube*, Freiburg: Herder, 1993; translated as *Knowledge and Faith*, Walter Redmond (trans.), CWES, Volume 8, 2000.
+
+[^stein-2000a]: 2000a, *Selbstbildnis in Briefen I. 1916 bis 1933*, ESGA, Volume 2; translated as *Self Portrait in Letters, 1916–1942*, Josephine Koeppel (trans.), CWES, Volume 5, 1993.
+
+[^stein-2000b]: 2000b, *Selbstbildnis in Briefen II: 1933 bis 1942*, ESGA, Volume 3.
+
+[^stein-2000c]: 2000c, *Die Frau. Fragestellungen und Reflexionen*, ESGA, Volume 13; translated as *Essays on Woman*, Freda Mary Oben (trans.), Lucy Gelber and Romaeus Leuven (eds), CWES, Volume 2, first edition 1986, second edition, revised, 1996.
+
+[^stein-2001a]: 2001a, *Selbstbildnis in Briefen I: Briefe an Roman Ingarden*, ESGA, Volume 4; translated as *Self-Portrait in Letters: Letters to Roman Ingarden*, Hugh Candler Hunt (trans.), CWES, Volume 12, 2014.
+
+[^stein-2001b]: 2001b, *Bildung und Entfaltung der Individualität*, ESGA, Volume 16.
+
+[^stein-2003]: 2003, *Kreuzeswissenschaft. Studie über Johannes vom Kreuz*, ESGA, Volume 18; translated as *The Science of the Cross*, Josephine Koeppel (trans.), CWES, Volume 6, 2002.
+
+[^stein-2004a]: 2004a, *Der Aufbau der menschlichen Person. Vorlesung zur philosophischen Anthropologie*, ESGA, Volume 14.
+
+[^stein-2004b]: 2004b, *The Hidden Life: Essays, Meditations, Spiritual Texts*, Waltraut Stein (trans.), L. Gelber and Michael Linssen (eds), CWES, Volume 4.
+
+[^stein-2008a]: 2008a, *Thomas von Aquin: Über die Wahrheit 1*, ESGA, Volume 23.
+
+[^stein-2008b]: 2008b, *Thomas von Aquin: Über die Wahrheit 2*, ESGA, Volume 24.
+
+[^stein-2010]: 2010, *“Freiheit und Gnade” und weitere Texte Beiträge zu Phänomenologie und Ontologie (1917 bis 1937)*, ESGA, Volume 9.
+
 [^arendt-1951]: Arendt, Hannah, 1951, *The Origins of Totalitarianism*, revised and expanded edition, New York: Harcourt, 1973.
 
 [^arendt-1961]: –––, 1961, “What is Freedom?” in her *Between Past and Future: Six Exercises in Political Thought*, New York: Viking Press.

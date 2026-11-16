@@ -498,6 +498,62 @@ Frege, Gottlob | logic: classical | logical atomism: Russell’s | logicism and 
 
 Since 2018, Ronny Desmet has taken over responsibility for updating and maintaining this entry. Thanks are due to Kenneth Blackwell, Fred Kroon, Jim Robinson and several anonymous referees for their helpful comments on earlier versions of this material.
 
+[^whitehead-1898]: 1898, *A Treatise on Universal Algebra with Applications*, Cambridge: Cambridge University Press. [[Whitehead 1898 available online](http://archive.org/details/atreatiseonuniv00goog)]
+
+[^whitehead-1902]: 1902, “On Cardinal Numbers”, *American Journal of Mathematics*, 24(4): 367–394. doi:10.2307/2370026
+
+[^whitehead-1906a]: 1906a, “On Mathematical Concepts of the Material World”, *Philosophical Transactions of the Royal Society of London*, Series A, 205(387–401):465–525. doi:10.1098/rsta.1906.0014
+
+[^whitehead-1906b]: 1906b, *The Axioms of Projective Geometry*, Cambridge: Cambridge University Press. [[Whitehead 1906b available online](http://archive.org/details/axiomsofprojecti00whituoft)]
+
+[^whitehead-1907]: 1907, *The Axioms of Descriptive Geometry*, Cambridge: Cambridge University Press. [[Whitehead 1907 available online](http://archive.org/details/axiomsofdescript1914whit)]
+
+[^whitehead-1910a]: 1910a, “The Philosophy of Mathematics”, *Science Progress in the Twentieth Century*, 5: 234–239. [[Whitehead 1910a available online](https://www.biodiversitylibrary.org/item/29639)]
+
+[^whitehead-1910b]: 1910b, 1912, 1913 (with Bertrand Russell), *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press.
+
+[^whitehead-1911]: 1911 [1958], *An Introduction to Mathematics*, Oxford: Oxford University Press, 1958. [[Whitehead 1911 available online](http://archive.org/details/anintroductionto00whituoft)]
+
+[^whitehead-1916]: 1916, “La théorie relationniste de l’espace”, *Revue de Métaphysique et Morale*, 23(3): 423–454.
+
+[^whitehead-1917]: 1917 [1974], *The Organisation of Thought: Educational and Scientific*, London: Williams and Norgate. Reprinted Westport, Connecticut: Greenwood Press, 1974. [[Whitehead 1917 available online](http://archive.org/details/organisationofth00whit)]
+
+[^whitehead-1919a]: 1919a [1982], *An Enquiry Concerning the Principles of Natural Knowledge*, Cambridge: Cambridge University Press. Reprinted New York: Dover Publications, 1982. [[Whitehead 1919a available online](http://archive.org/details/cu31924012250209)]
+
+[^whitehead-1919b]: 1919b, “A Revolution of Science”, *The Nation* (London), November 15, 26: 232–233.
+
+[^whitehead-1920]: 1920 [1986], *The Concept of Nature*, Cambridge: Cambridge University Press. [[Whitehead 1920 available online](http://archive.org/details/cu31924012068593)]
+
+[^whitehead-1922]: 1922 [2004], *The Principle of Relativity with Applications to Physical Science*, Cambridge: Cambridge University Press. Reprinted New York: Dover Publications, 2004. [[Whitehead 1922 available online](http://archive.org/details/cu31924004208165)]
+
+[^whitehead-1925]: 1925 [1967], *Science and the Modern World*, (Lowell Institute Lectures 1925), Cambridge: Cambridge University Press. Reprinted New York: The Free Press, 1967. [[Whitehead 1926a available online](http://archive.org/details/b29978531)]
+
+[^whitehead-1926]: 1926 [1996], *Religion in the Making*, (Lowell Institute Lectures 1926), New York: The Macmillan Company. Reprinted New York: Fordham University Press, 1996.
+
+[^whitehead-1927]: 1927 [1985], *Symbolism: Its Meaning and Effect*, New York: Macmillan. Reprinted New York: Fordham University Press, 1985.
+
+[^whitehead-1929a]: 1929a, *The Aims of Education and Other Essays*, New York: The Macmillan Company.
+
+[^whitehead-1929b]: 1929b [1958], *The Function of Reason*, Princeton: Princeton University Press. Reprinted Boston: Beacon Press, 1958.
+
+[^whitehead-1929c]: 1929c [1985], *Process and Reality*, (Gifford Lectures 1927–28), New York: Macmillan. Corrected edition, David Ray Griffin & Donald W. Sherburne (eds.), New York: The Free Press, 1985.
+
+[^whitehead-1933]: 1933 [1967], *Adventures of Ideas*, New York: Macmillan Company. Reprinted New York: The Free Press, 1967.
+
+[^whitehead-1934]: 1934 [2011], *Nature and Life*, Chicago: University of Chicago Press. Reprinted Cambridge: Cambridge University Press, 2011.
+
+[^whitehead-1938]: 1938 [1968], *Modes of Thought*, New York: Macmillan Company. Reprinted New York: The Free Press, 1968.
+
+[^whitehead-1947]: 1947 [1968], *Essays in Science and Philosophy*, New York: Philosophical Library. Reprinted Westport, Connecticut: Greenwood Press, 1968.
+
+[^whitehead-1954]: 1954 [1977], *Dialogues of Alfred North Whitehead*, Lucien Price (ed.), Boston: Little Brown. Reprinted Westport, Connecticut: Greenwood Press.
+
+[^whitehead-1961]: 1961, *The Interpretation of Science, Selected Essays*, A. H. Johnson, (ed.), New York: Bobbs-Merrill.
+
+[^whitehead-2017]: 2017, *The Harvard Lectures of Alfred North Whitehead 1924–1925: Philosophical Presuppositions of Science*, (The Edinburgh Critical Edition of the Complete Works of Alfred North Whitehead), Paul Bogaard & Jason Bell (eds.), Edinburgh: Edinburgh University Press.
+
+[^whitehead-2021]: 2021, *The Harvard Lectures of Alfred North Whitehead 1925–1927: General Metaphysical Problems of Science*, (The Edinburgh Critical Edition of the Complete Works of Alfred North Whitehead), Brian Henning & Joseph Petek & George Lucas (eds.), Edinburgh: Edinburgh University Press.
+
 [^armour-2010]: Armour Lesley, 2010, “Looking for Whitehead”, *British Journal for the History of Philosophy*, 18(5): 925–939. doi:10.1080/09608788.2010.524768
 
 [^athern-2011]: Athern, Daniel, 2011, “Physics and Whitehead: An Alternative Approach”, *Process Studies*, 40(1): 80–90. doi:10.5840/process20114014

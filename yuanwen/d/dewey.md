@@ -771,6 +771,22 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^tv-1939e]: [*TV*] 1939e, *Theory of Valuation*
 
+[^dewey-1884]: 1884, “The New Psychology”, *Andover Review*, 2(Sept.): 278–289. Reprinted in EW1: 48–60.
+
+[^dewey-1886]: 1886, “Psychology as Philosophic Method”, *Mind*, old series, 11(42), 153–173. Reprinted in EW1: 144–67. doi:10.1093/mind/os-XI.42.153
+
+[^dewey-1887]: 1887, *Psychology*, New York: Harper and Brothers. Reprinted in EW2.
+
+[^dewey-1891]: 1891, *Outlines of a Critical Theory of Ethics*, Ann Arbor, Michigan: Register Publishing Company. Reprinted in EW3: 239–388.
+
+[^dewey-1893]: 1893, Dewey, review of Bosanquet, “A History of Aesthetic, by Bernard Bosanquet, formerly Fellow of University College, Oxford”*, Philosophical Review*, 2 (Jan. 1893):63–69. Reprinted in EW4: 189–197.
+
+[^dewey-1894a]: 1894a, *The Study of Ethics: A Syllabus*, Ann Arbor, MI: The Inland Press. Reprinted in EW4: 220–362.
+
+[^dewey-1894b]: 1894b, “The Theory of Emotion I: Emotional Attitudes”, *Psychological Review*, 1(6): 553–569. Reprinted in EW4: 152–169. doi:10.1037/h0069054
+
+[^dewey-1895]: 1895, “The Theory of Emotion II: The Significance of Emotions”, *Psychological Review*, 2(1): 13–32. Reprinted in EW4: 169–188. doi:10.1037/h0070927
+
 [^rac-1896-2]: [*RAC*] 1896, “The Reflex Arc Concept in Psychology”, *Psychological Review*, 3(4): 357–370. Reprinted in EW5: 96–109. doi:10.1037/h0070405
 
 [^rac-1897a]: 1897a, “Ethical Principles Underlying Education”, in *Third Yearbook of the National Herbart Society*, Chicago: The National Herbart Society, pp. 7–33. Reprinted in EW5: 54–83.

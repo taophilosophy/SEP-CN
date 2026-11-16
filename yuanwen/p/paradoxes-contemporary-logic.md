@@ -424,6 +424,8 @@ Curry’s paradox | epistemic paradoxes | Fitch’s paradox of knowability | Fre
 
 For this edition of the entry, the authors were supported by the Italian Ministry of Education, University and Research through the PRIN 2017 program “The Manifest Image and the Scientific Image” prot. 2017ZNWW7F_004.
 
+[^paradoxes-contemporary-logic-1897]: The items occurring in this list mainly concern the primary literature on paradoxes in the period 1897–1945.
+
 [^behmann-1931]: Behmann., H., 1931, “Zu den Widersprüchen der Logik und der Mengenlehre”, *Jahresbericht der Deutschen Mathematiker-Vereinigung*, 40: 37–48.
 
 [^bernstein-1905a]: Bernstein, F., 1905a, “Die Theorie der reellen Zahlen”, *Jahresbericht der Deutschen Mathematiker-Vereinigung*, 14: 447–449.

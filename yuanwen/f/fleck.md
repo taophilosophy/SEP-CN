@@ -262,6 +262,28 @@ The author would like to thank Paweł Jarnicki for assistance in preparing the b
 
 [^fleck-2011-2]: 2011, *Denkstile und Tatsachen: gesammelte Schriften und Zeugnisse*, Werner, Sylwia und Zittel, Claus (Hrsg.), Berlin: Suhrkamp.
 
+[^fleck-1979]: 1979, *Genesis and Development of a Scientific Fact*, transl. by Fred Bradley and Thaddeus J. Trenn, Thaddeus J. Trenn and Robert K. Merton (eds.), “Foreword” by Thomas S. Kuhn, Chicago: Chicago University Press.
+
+[^fleck-1983]: 1983, *Genesi e sviluppo di un fatto scientifico : per una teoria dello stile e del collettivodi pensiero*, M. Leonardi & Stefano Poggi (trad.). Bologna: Il Mulino.
+
+[^fleck-1986-2]: 1986, *La génesis y el desarrollo de un hecho cientifico : introducción a la theoría del estilo de pensamiento y del colectivo de pensamiento*, Luis Meana & Angel de G. Pablo (trad.), Lothar Schäfer & Thomas Schnelle (prólogo), Madrid: Allanza.
+
+[^fleck-1986-3]: 1986, *Powstanie i rozwój faktu naukowego : wprowadzenie do nauki o stylu myślowym i kolektywie myślowym*, Maria Tuszkiewicz (tłum.), Zdzisław Cackowski (wstęp). Lublin : Wyd. Lubelskie.
+
+[^fleck-1997]: 1997, *Uppkomsten och utvecklingen av ett vetenskapligt faktum : inledning till läran om tankestil och tankekollektiv*, Bengt Liliequist (översättning). Stockholm: Östlings.
+
+[^fleck-1999]: 1999, *Bозникновение и розвитие научного факта*, Moscov: Idea-Press.
+
+[^fleck-2005]: 2005, *Genèse et développement d’un fait scientifique*, Nathalie Jas (Traduction), Ilana Löwy (Prèface), Bruno Latour (Postface). Paris: Les Belles Lettres.
+
+[^fleck-2010]: 2010, *Gênese e desenvolvimento de um fato científico*, Mauro L. Condé (prefácio), George Otte e Mariana Camilo de Oliveira (trad.). Belo Horizonte: Fabrefactum.
+
+[^fleck-2019]: 2019, *Stili di pensiero: La conoscenza scientifica come creazione sociale*, Coniglione, Francesco (ed.), Mimesis.
+
+[^fleck-2019-2]: 2019, *Як постає та розвивається науковий факт. Bступ до вчення про мисленнєвий стиль і мисленнєвий колектив*, Stefaniya Ptashnyk (Ukrainian translation), Czernowitz: Knyhy XXI.
+
+[^fleck-2020]: 2020, 과학적 사실의 기원과 발전. Seoul: Hanguk Munhwasa.
+
 [^anderson-1984]: Anderson, G., 1984, “Problems in Ludwik Fleck’s Conception of Science”, *Methodology and Science*, 17: 25–34.
 
 [^babich-2003]: Babich, B. E., 2003, “From Fleck’s ‘Denkstil’ to Kuhn’s Paradigm: Conceptual Schemes and Incommensurability”, *International Studies in the Philosophy of Science*, 29(1), 1–39.

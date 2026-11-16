@@ -528,6 +528,38 @@ consequentialism | egoism | Green, Thomas Hill | hedonism | Mill, John Stuart | 
 
 [^em-2000]: [EM] *Essays on Ethics and Method*, Marcus G. Singer (ed.), Oxford: Clarendon Press, 2000. doi:10.1093/0198250231.001.0001
 
+[^sidgwick-1870]: 1870, “The Ethics of Conformity and Subscription”, London: Williams and Norgate. [[Sidgwick 1870 available online](https://archive.org/details/ethicsconformit00sidggoog/page/n4/mode/2up)]
+
+[^sidgwick-1873]: 1873, “Utilitarianism”, Privately printed for the Metaphysical Society; reprinted in EM: ch. 1.
+
+[^sidgwick-1874]: 1874 [1907], *The Methods of Ethics*, London: Macmillan; this work was subsequently reprinted in the years 1877, 1884, 1890, 1893, 1901, 1907; all references to the 1907 (seventh) edition.
+
+[^sidgwick-1876]: 1876, “Professor Calderwood on Intuitionism in Morals”, *Mind*, original series 1(4): 563–566; reprinted in EM: ch. 3. doi:10.1093/mind/os-1.4.563
+
+[^sidgwick-1879]: 1879, “The Establishment of Ethical First Principles”, *Mind*, original series 4(13): 106–111; reprinted in EM: ch. 5. doi:10.1093/mind/os-4.13.106
+
+[^sidgwick-1883]: 1883, *The Principles of Political Economy*, London: Macmillan; reprinted in the years 1887, 1901.
+
+[^sidgwick-1885]: 1885, “The Scope and Method of Economic Science”, printed for the British Association, London: Macmillan; reprinted in *Miscellaneous*: 170–199 (essay 7). [[Sidgwick 1885 available online](https://archive.org/details/scopeandmethodof00sidguoft/page/n5/mode/2up)]
+
+[^sidgwick-1886]: 1886, *Outlines of the History of Ethics for English Readers*, London: Macmillan; reprinted in the years 1888, 1892, 1896, 1902.
+
+[^sidgwick-1889]: 1889, “Some Fundamental Ethical Controversies”, *Mind*, 14(56): 473–87; reprinted in EM: ch. 6. doi:10.1093/mind/XIV.56.473
+
+[^sidgwick-1891]: 1891 [1919], *The Elements of Politics*, London: Macmillan; reprinted the years 1897, 1908, 1919.
+
+[^sidgwick-1897]: 1897, “The Pursuit of Culture”, *University of Wales Magazine*, October. Collected in *Practical Ethics*: 205–234 (essay 8) and *Miscellaneous*: 352–360 (essay 15). Also collected in CW.
+
+[^sidgwick-1900]: 1900, “Criteria of Truth and Error”, *Mind*, 9(36): 8–25; reprinted with an appendix in Sidgwick 1905 (*Lectures on Kant*) and EM: ch. 17. doi:10.1093/mind/IX.36.8
+
+[^sidgwick-1898]: 1898, *Practical Ethics: A Collection of Addresses and Essays*, London: Swan Sonnenschein; reprinted 1909. [[Sidgwick 1898 available online](https://archive.org/details/practicalethicsc00sidgrich)]
+
+[^sidgwick-1902a]: 1902a, *Lectures on the Ethics of T. H. Green, H. Spencer, and J. Martineau*, E. E. Constance Jones (ed.), London: Macmillan.
+
+[^sidgwick-1902b]: 1902b, *Philosophy, Its Scope and Relations: An Introductory Course of Lectures*, James Ward (ed.), London: Macmillan.
+
+[^sidgwick-1903]: 1903, *The Development of European Polity*, E. M. Sidgwick (ed.), London: Macmillan.
+
 [^miscellaneous-1904]: [*Miscellaneous*] 1904, *Miscellaneous Essays and Addresses*, E. M. Sidgwick and A. Sidgwick (eds), London: Macmillan. [[Sidgwick *Miscellaneous* available online](https://archive.org/details/miscellaneousess00sidg/page/n5/mode/2up)]
 
 [^miscellaneous-1905]: 1905, *Lectures on the Philosophy of Kant and Other Philosophical Lectures and Essays*, James Ward (ed.), London: Macmillan. [[Sidgwick 1905 available online](https://archive.org/details/lecturesonphilo00sidguoft/page/n1/mode/2up)]

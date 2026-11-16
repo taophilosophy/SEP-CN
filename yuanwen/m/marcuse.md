@@ -297,6 +297,64 @@ Feminists such as Jessica Benjamin and Nancy Chodorow have pointed out a particu
 
 Adorno, Theodor W. | Benjamin, Walter | critical theory | frankfurt-school | Freud, Sigmund | Habermas, Jürgen | Hegel, Georg Wilhelm Friedrich | Hegel, Georg Wilhelm Friedrich: dialectics | Heidegger, Martin | Horkheimer, Max | Marx, Karl | Marxism, analytical
 
+[^marcuse-1922]: 1922, *Der deutsche Künstlerroman*, Dissertation. Freiburg.
+
+[^marcuse-1932]: 1932 [1987], *Hegel’s Ontology and the Theory of Historicity*, Seyla Benhabib (trans.), Cambridge and London: The MIT Press.
+
+[^marcuse-1932-2]: 1932 [2005], “Neue Quellen zur Grundlegung des historischen Materialismus” (“New Sources on the Foundation of Historical Materialism”), in *Heideggerian Marxism*, Richard Wolin and John Abromeit (eds.) Lincoln and London: University of Nebraska Press.
+
+[^marcuse-1937]: 1937 [2007a], “Der affirmative Character der Kulture,” *Zeitschrift für Sozialforschung*, VI(1), Paris: Libraire Félix Alcan, 1937; translated as “The Affirmative Character of Culture,” *Negations*, Boston, 1968; reference is to the version in *Herbert Marcuse: Art and Liberation*, Douglas Kellner (ed.), London and New York: Routledge, 2007.
+
+[^marcuse-1941]: 1941 [1983], *Reason and Revolution: Hegel and the Rise of Social Theory*, New Jersey and London: Humanities Press.
+
+[^marcuse-1941-2]: 1941 [1998],OB “Some Social Implications of Modern Technology,” in *Technology, War and Fascism*, Douglas Kellner (ed.) London and New York: Routledge Press.
+
+[^marcuse-1955]: 1955, *Eros and Civilization: A Philosophical Inquiry into Freud*, Boston: Beacon Press.
+
+[^marcuse-1958]: 1958, *Soviet Marxism: A Critical Analysis*, New York: Vintage Books.
+
+[^marcuse-1960]: 1960 [2011], “From Ontology to Technology,” in *Philosophy, Psychoanalysis and Emancipation*, Douglas Kellner (ed.), London and New York: Routledge Press.
+
+[^marcuse-1961]: 1961 [2001], “The Problem of Social Change in the Technological Society,” in *Towards a Critical Theory of Society*, Douglas Kellner (ed.), London and New York: Routledge Press.
+
+[^marcuse-1964]: 1964, *One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society*, Boston: Beacon Press.
+
+[^marcuse-1965]: 1965, “Repressive Tolerance” (with R.P. Wolff and Barrington Moore), in *A Critique of Pure Tolerance*, Boston: Beacon Press.
+
+[^marcuse-1968a]: 1968a, “Postscript 1968,” in *A Critique of Pure Tolerance*, Boston: Beacon Press.
+
+[^marcuse-1968b]: 1968b, *Negations: Essays in Critical Theory*, Boston: Beacon Press.
+
+[^marcuse-1969]: 1969, *An Essay on Liberation*, Boston: Beacon Press.
+
+[^marcuse-1970]: 1970, *Five Lectures*, Jeremy Shapiro and Shierry Weber (trans.), Boston: Beacon Press.
+
+[^marcuse-1972]: 1972, *A Study on Authority*, Joris De Bres (trans.), London and New York: Verso.
+
+[^marcuse-1973]: 1973, *Studies in Critical Philosophy*, Joris De Bres (trans.), Boston: Beacon.
+
+[^marcuse-1978]: 1978, *The Aesthetic Dimension: Toward a Critique of Marxist Aesthetics*, Boston: Beacon Press.
+
+[^marcuse-1978-2]: 1978, “BBC Interview: Marcuse on the Frankfurt School,”, in Bryan Magee (Ed.), *Man of Ideas*, (pp. 62–73). London: BBC Publishing.
+
+[^marcuse-1998]: 1998, *Technology, War and Fascism: Collected Papers of Herbert Marcuse* (Volume 1), Douglas Kellner (ed.), London and New York: Routledge.
+
+[^marcuse-2001]: 2001, *Towards A Critical Theory of Society: Collected Papers of Herbert Marcuse* (Volume 2), Douglas Kellner (ed.), London and New York: Routledge.
+
+[^marcuse-2005a]: 2005a, *The New Left and the 1960s: Collected Papers of Herbert Marcuse* (Volume 3), Douglas Kellner (ed.), London and New York: Routledge.
+
+[^marcuse-2005b]: 2005b, *Heideggerian Marxism*, Richard Wolin and John Abromeit (eds.), Lincoln and London: University of Nebraska Press.
+
+[^marcuse-2007a]: 2007a, *Art and Liberation: Collected Papers of Herbert Marcuse* (Volume 4), Douglas Kellner (ed.), London and New York: Routledge.
+
+[^marcuse-2007b]: 2007b, *The Essential Marcuse*, Andrew Feenberg and William Leiss (ed.), Boston: Beacon Press.
+
+[^marcuse-2011]: 2011, *Philosophy, Psychoanalysis and Emancipation: Collected Papers of Herbert Marcuse* (Volume 5), Douglas Kellner (ed.), London and New York: Routledge.
+
+[^marcuse-2014]: 2014, *Marxism, Revolution and Utopia: Collected Papers of Herbert Marcuse* (Volume 6), Douglas Kellner and Clayton Pierce (ed.), London and New York: Routledge.
+
+[^marcuse-2015]: 2015, *Herbert Marcuse’s 1974 Paris Lectures at Vincennes University: Global Capitalism and Radical Opposition*, Peter-Erwin Jansen and Charles Reitz (eds.); limited edition publication presented at the International Herbert Marcuse Society Conference, November 2015, Salisbury University, Maryland, USA
+
 [^abromeit-2011]: Abromeit, John, 2011, *Max Horkheimer and the Foundations of the Frankfurt School*, Cambridge, New York, Melbourne, Madrid, Cape Town: Cambridge University Press.
 
 [^abromeit-2004]: Abromeit, John and Mark Cobb (eds.), 2004, *Herbert Marcuse: A Critical Reader*, New York and London: Routledge.

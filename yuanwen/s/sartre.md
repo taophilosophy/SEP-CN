@@ -155,7 +155,7 @@ Baudelaire’s choice of himself both accounts for the subject’s freedom (inso
 
 In the years following the publication of *Being and Nothingness*, Sartre refines this original conception of existential psychoanalysis. He applies it methodically to the biographical analysis of a series of major French writers (Baudelaire first, then Mallarmé, Jean Genêt, Flaubert, and himself in *Words*), warning against the dangers of all kinds of determinist interpretations, from the constitution of psychological types to materialist explanations inherited from Marxian historical analyses. Sartre’s analyses become more subtle over time, as he substitutes fine-grained descriptions of the concrete constraints that frame and shape the limits of human lives to the strongly metaphysical theses on freedom that he was first tempted to apply indistinctly to each of these writers. Accordingly, existential psychoanalysis plays a central role in the development of Sartre’s thought from the early 40s up to his last published work on Flaubert. It allows him to unify and articulate two fundamental threads of his philosophical thinking: his ontological analysis of the absolute freedom of the for-itself in *Being and Nothingness*; and his later attempt to take into consideration the social, historical and political factors that are inevitably involved in the determination of one’s free choice of their own existence. Already in his *War Diaries* from 1940, the method of analysis of “human reality” arises from Sartre’s attempt to *understand* rather than explain (according to Dilthey’s famous distinction) Emperor Wilhelm II’s historical situation and its relation to the aspects of his personal life that express his specific way of being-in-the-world (Sartre 1983b [1984: 308–309])[^sartre-1983b]. The application of his method to the specific cases of these French writers allowed him to refine the ahistorical descriptions of his earlier work, by bringing the analysis of the subject’s freedom back to the material/historical conditions (both internal and external) of constitution of their particular modes of existing.
 
-Sartre’s inquiries into existential psychoanalysis also anticipate and intersect with his philosophical investigations on historical anthropology. The progressive-regressive method presented in *Search for a Method* and *Critique of Dialectical Reason* (Sartre 1960a [1976]) was first sketched and experimented through Sartre’s essays in existential psychoanalysis[^note-5]. Sartre’s detailed analyses of Flaubert’s biography in *The Family Idiot* can be read as synthesising the hermeneutical methodology theorised in *Search for A Method* and the conception of the freedom involved in one’s initial choice of themselves that arose from *Being and Nothingness*. Moving discretely away from an all-too metaphysical doctrine of absolute freedom, Sartre goes back to the most concrete details of Flaubert’s material conditions of existence in order to account for the specific way in which Flaubert made himself able, through the writing of his novels, to overcome his painful situation as a “frustrated and jealous younger brother” and “unloved child” thanks to a totalizing project that made him “the author of *Madame Bovary*” (Sartre 1971–72 [1987, vol. 2: 7])[^sartre-1971]. If Flaubert’s novel and masterpiece is consequently understood and described as the final objectivation of Gustave’s fundamental project, Sartre is now careful to point out the economic, historic and social conditions within which this project only finds its full intelligibility. Sartre’s psychoanalytic method is then expected to reveal, beyond what society has made of Flaubert, what he himself could make of what society has made of him. In order to fly away from the painful reality of his unbearable familial situation, the young Gustave chooses irreality over reality, and chooses it freely, though achingly. From that moment on, his dedication to literature commits him to a fictional world that he couldn’t but choose to elect as the realm of his genius.
+Sartre’s inquiries into existential psychoanalysis also anticipate and intersect with his philosophical investigations on historical anthropology. The progressive-regressive method presented in *Search for a Method* and *Critique of Dialectical Reason* (Sartre 1960a [1976]) was first sketched and experimented through Sartre’s essays in existential psychoanalysis[^note-5]. Sartre’s detailed analyses of Flaubert’s biography in *The Family Idiot* can be read as synthesising the hermeneutical methodology theorised in *Search for A Method* and the conception of the freedom involved in one’s initial choice of themselves that arose from *Being and Nothingness*. Moving discretely away from an all-too metaphysical doctrine of absolute freedom, Sartre goes back to the most concrete details of Flaubert’s material conditions of existence in order to account for the specific way in which Flaubert made himself able, through the writing of his novels, to overcome his painful situation as a “frustrated and jealous younger brother” and “unloved child” thanks to a totalizing project that made him “the author of *Madame Bovary*” (Sartre 1971–72 [1987, vol. 2: 7])[^sartre-1971-2]. If Flaubert’s novel and masterpiece is consequently understood and described as the final objectivation of Gustave’s fundamental project, Sartre is now careful to point out the economic, historic and social conditions within which this project only finds its full intelligibility. Sartre’s psychoanalytic method is then expected to reveal, beyond what society has made of Flaubert, what he himself could make of what society has made of him. In order to fly away from the painful reality of his unbearable familial situation, the young Gustave chooses irreality over reality, and chooses it freely, though achingly. From that moment on, his dedication to literature commits him to a fictional world that he couldn’t but choose to elect as the realm of his genius.
 
 The specific role that Sartre’s existential psychoanalysis played within his intellectual trajectory – from the metaphysical doctrine of absolute freedom in *Being and Nothingness* to the fine-grained material and historical analyses of *The Family Idiot* – has become a focal point of recent Sartre scholarship. Whether this trajectory constitutes a genuine rupture or rather an internal development of a single project remains a matter of debate. Several commentators (Webber 2009, 2018; Gardner 2009; Moati 2019)[^gardner-2009][^moati-2019][^webber-2009][^webber-2018] have defended versions of the continuity thesis, arguing that the apparently absolute freedom of *Being and Nothingness* already involves situated, embodied, and proto-historical determinations that the later work merely renders explicit. On such grounds, Sartre’s ontological conception of freedom may be defended against the charge that it cannot account for situated limitation (Sares forthcoming). Others have stressed the depth of the shift, particularly around the question of the practico-inert and the dialectic of seriality (Flynn 1984; Aronson 1987)[^aronson-1987][^flynn-1984]. The recent abridged edition of *The Family Idiot* (Sartre 2023, ed. Catalano) has contributed to renewing scholarly attention to the late Sartre. The picture that emerges from these discussions is that Sartre’s existential psychoanalysis is best understood as the conceptual hinge between his early ontology and his later social philosophy, rather than as a transitional moment to be superseded.
 
@@ -276,6 +276,66 @@ It is an interesting question that Derrida poses, but it is also of its time (19
 
 [^rybalka-1993]: Rybalka, Michel and Michel Contat, 1993, *Sartre: Bibliographie 1980–1992*, (CNRS Philosophie), Paris: CNRS and Bowling Green, OH: Philosophy Documentation Center, Bowling Green State University.
 
+[^sartre-1936a]: 1936a, *La Transcendance de l’ego: Esquisse d’une description phénomenologique*, Paris: J. Vrin. Translated as
+
+[^sartre-1957]: 1957, *The Transcendence of the Ego: An Existentialist Theory of Consciousness*, Forrest Williams and Robert Kirkpatrick (trans.), New York: Noonday Press.
+
+[^sartre-2004]: 2004, *The Transcendence of the Ego: A Sketch for a Phenomenological Description*, Andrew Brown (trans.), London: Routledge. doi:10.4324/9780203694367
+
+[^sartre-1936b]: 1936b [2012], *L’imagination*, Paris: F. Alcan. Translated as *The Imagination*, Kenneth Williford and David Rudrauf (trans.), London: Routledge, 2012. doi:10.4324/9780203723692
+
+[^sartre-1938]: 1938 [1965], *La Nausée: Roman*, Paris: Gallimard. Translated as *Nausea*, Robert Baldick (trans.), Harmondsworth: Penguin, 1965.
+
+[^sartre-1939a]: 1939a [1970], “Une idée fondamentale de la phénoménologie de Husserl: l’intentionnalit”, *La Nouvelle Revue française*, 304: 129–132. Reprinted in *Situations* 1. Translated as “Intentionality: A Fundamental Idea of Husserl’s Phenomenology”, Joseph P. Fell (trans.), *Journal of the British Society for Phenomenology*, 1(2): 4–5, 1970. doi:10.1080/00071773.1970.11006118
+
+[^sartre-1939b]: 1939b [1948], *Esquisse d’une théorie des émotions*, Paris: Hermann. Translated as *The Emotions: Outline of a Theory*, Bernard Frechtman (trans.), New York: Philosophical Library, 1948.
+
+[^sartre-1940]: 1940 [2004], *L’Imaginaire: Psychologie Phénoménologique de l’imagination*, Paris: Gallimard. Translated as *The Imaginary: A Phenomenological Psychology of the Imagination*, Arlette Elkaïm-Sartre (ed.), Jonathan Webber (trans.), London: Routledge, 2004.
+
+[^sartre-1943]: 1943 [1956, 2018], *L’être et le néant: Essai d’ontologie phénoménologique*, Paris: Gallimard. Translated as
+
+[^sartre-1956]: 1956, *Being and Nothingness: An Essay on Phenomenological Ontology*, Hazel E. Barnes (trans.), New York: Philosophical Library.
+
+[^sartre-2018]: 2018, *Being and Nothingness: An Essay in Phenomenological Ontology*, Sarah Richmond (trans.), London: Routledge.
+
+[^sartre-1945]: 1945–49, *Les Chemins de la liberté* (The roads to freedom), Paris: Gallimard. Series of novels *L’âge de raison* (The age of reason, 1945), *Le sursis* (The reprieve, 1945), and *La mort dans l’âme* (Troubled sleep, 1949).
+
+[^sartre-1946a]: 1946a [2007], *L’existentialisme est un humanisme*, (Collection Pensées), Paris: Nagel. Translated as *Existentialism is a Humanism*, John Kulka (ed.), Carol Macomber (trans.), New Haven, CT: Yale University Press, 2007.
+
+[^sartre-1946b]: 1946b [1948/1995], *Réflexions sur la question juive*, Paris: P. Morihien. Translated as *Anti-semite and Jew*, George J. Becker (trans.), New York: Schocken Books, 1948 (reprinted with preface by Michael Walzer, 1995).
+
+[^sartre-1946c]: 1946c [1955], “Matérialisme et Révolution I”, *Les Temps Modernes*, 9: 37–63 and 10: 1–32. Reprinted in *Situations III*, Paris: Gallimard, 1949. Translated as , “Materialism and Revolution”, in *Literary and Philosophical Essays*, Annette Michelson (trans.), New York: Criterion Books, 1955.
+
+[^sartre-1947a]: 1947a [1967], *Baudelaire*, Paris: Gallimard. Translated as *Baudelaire*, Martin Turnell (trans.), London: H. Hamilton, 1949. Reprinted, Norfolk, CT: New Directions, 1967
+
+[^sartre-1947b]: 1947b [1949], *Huis-Clos*, Paris: Gallimard. First produced 1944. Translated as *No Exit*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
+
+[^sartre-1947c]: 1947c [1949], *Les Mouches*, Paris: Gallimard. First produced 1943. Translated as *The Flies*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
+
+[^sartre-1948a]: 1948a [1988], “Qu’est-ce que la littérature?”, *Les Temps modernes*. Collected in *Situations II*. Translated in *“What Is Literature?” and Other Essays*, Bernard Frechtman (trans.), Cambridge, MA: Harvard University Press, 1988.
+
+[^sartre-1948b]: 1948b [1967], “Conscience de soi et connaissance de soi”, *Bulletin de la Société française de Philosophie*, n° 3, avril-juin 1948. Translated as “Consciousness of Self and Knowledge of Self”, in *Readings in Existential Phenomenology*, Nathaniel Lawrence and Daniel O’Connor (eds), Englewood Cliffs, NJ: Prentice Hall, 1967.
+
+[^sartre-1948c]: 1948c [1949], *Les mains sales: pièce en sept tableaux*, Paris: Gallimard. First produced 1948. Translated as *Dirty Hands*, in *No Exit, and Three Other Plays*, New York: Vintage Books, 1949.
+
+[^sartre-1952a]: 1952a [1963], *Saint-Genêt, Comédien et martyr*, Paris: Gallimard. Translated as *Saint Genet: Actor and Martyr*, Bernard Frechtman (trans.), New York: George Braziller, 1963.
+
+[^sartre-1952b]: 1952b [1968]. “Les communistes et la paix”, published in *Situations VI*. Translated as “The Communists and Peace”, in *The Communists and Peace, with A Reply to Claude Lefort*, Martha H. Fletcher and Philip R. Berk (trans.), New York: George Braziller, 1968.
+
+[^sartre-1957-2]: 1957 [1963/1968], *Questions de méthode*, Paris: Gallimard. Later to be a foreword for Sartre 1960. Translated as *Search for a Method*, Hazel E. Barnes (trans.), New York: Knopf, 1963. Reprinted New York: Random House, 1968.
+
+[^sartre-1960a]: 1960a [1976], *Critique de la Raison dialectique, tome 1, Théorie des ensembles pratiques*, Paris, Gallimard. Translated as *Critique of Dialectical Reason, volume 1: Theory of Practical Ensembles*, Alan Sheridan-Smith (trans.), London: New Left Books, 1976. Reprinted in 2004 with a forward by Fredric Jameson, London: Verso. The second unfinished volume was published posthumously in 1985.
+
+[^sartre-1960b]: 1960b, *Les Séquestrés d’Altona* (The condemned of Altona), Paris: Gallimard. First produced 1959.
+
+[^sartre-1964a]: 1964a [1964], *Les mots*, Paris: Gallimard. Translated as *The Words*, Bernard Frechtman (trans.), New York: Braziller, 1964.
+
+[^sartre-1969]: 1969, “Itinerary of a Thought”, interview with Perry Anderson, Ronald Fraser and Quintin Hoare, *New Left Review*, I/58: 43–66. Partially published in *Situations IX*.
+
+[^sartre-1971]: 1971–72 [1981–93], *L’Idiot de la famille. Gustave Flaubert de 1821 à 1857*, 3 volumes, Paris: Gallimard. Translated as *The Family Idiot: Gustave Flaubert, 1821–1857*, 5 volumes, Carol Cosman (trans.), Chicago: University of Chicago Press, 1981/1987/1989/1991/1993. *An Abridged Edition*, ed. and abridged by J. S. Catalano, tr. C. Cosman, Chicago: University of Chicago Press, 2023.
+
+[^sartre-1980]: 1980 [1996], “L’espoir, maintenant”, interview with Benny Lévy, *Le Nouvel observateur*, n° 800, 801, 802. Reprinted as *L’espoir maintenant: les entretiens de 1980*, Lagrasse: Verdier, 1991. Translated as *Hope Now: The 1980 Interviews*, Adrian van den Hoven (trans.), Chicago, IL: The University of Chicago Press, 1996.
+
 [^references-nd]: References to *Situations* will be abbreviated as *Sit.* followed by the volume, e.g., *Sit. V*.
 
 [^sartre-1947]: 1947, *Situations I: Critiques littéraires*, Paris: Gallimard. Partially translated in *Literary and Philosophical Essays*, Annette Michelson (trans.), London: Rider, 1955. Reprinted New York: Collier Books, 1962.
@@ -292,7 +352,7 @@ It is an interesting question that Derrida poses, but it is also of its time (19
 
 [^sartre-1965]: 1965, *Situations VII: Problèmes du marxisme 2*, Paris:, Gallimard.
 
-[^sartre-1971]: 1971, *Situations VIII: Autour de 68*, Paris: Gallimard.
+[^sartre-1971-2]: 1971, *Situations VIII: Autour de 68*, Paris: Gallimard.
 
 [^sartre-1972]: 1972, *Situations IX: Mélanges*, Paris: Gallimard. Material from *Situations VIII et IX* translated as *Between Existentialism and Marxism*, John Mathews (trans.), London: New Left Books, 1974.
 

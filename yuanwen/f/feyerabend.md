@@ -159,7 +159,7 @@ To everyone’s surprise, even Wittgenstein attended a meeting of this ‘third 
 
 Although Feyerabend had originally planned to submit a thesis on physics, after getting nowhere with the electrodynamics problem he had chosen, he turned to philosophy to earn his degree. He revised his Kraft circle discussion notes, which contained ideas and arguments that were roughly the right length, and turned them into his doctoral thesis, “*Zur Theorie der Basissätze*”, which he submitted in November 1951 under Kraft’s supervision, (p. 115). Here, Feyerabend first delineated his peculiar views on meaning and method. He may even have realized that they did not comport to Popper’s notion of neutral ‘basic statements’ as the empirical basis of science as the invitation to Wittgenstein would seem to imply, although it would only be about a decade later that Feyerabend openly criticized Popper’s empiricism in “Explanation, Reduction and Empiricism” (1962a).
 
-In his 1951 Ph.D. thesis, Feyerabend first introduced his top-down view of the meaning of observation statements, according to which the meaning of any statement used to test a theory is determined by the theory from which it is deduced and used to test, in contrast to Carnap’s dual language model, according to which observation language gets it meaning from the observations, and is separate from theoretical language, which gets its meaning from observation language. Feyerabend’s top-down account has the peculiar consequence that one observation sentence makes two or more incompatible statements depending on which theory is used to interpret it. For example, the sentence “the ball fell” meant that it was pushed by its impetus before it meant that it was pulled by gravity. This Wittgensteinian insight laid the foundation for Feyerabend’s account of incommensurability, which he used to criticize formal accounts of the growth of knowledge in “Explanation, Reduction and Empiricism” (1962a), arguing that contemporary theories do not explain antiquated facts. It just appears that way because we continue to use the same observation sentences after scientific revolutions, when in fact, the same sentences can be used to make two incompatible statements– depending on which theory is used to interpret it, that is, from which theory it is deduced, together with auxiliary assumptions, and used to test. In this way, Feyerabend’s early philosophical work “started from and returned to the discussion of protocol statements in the Vienna Circle” (Feyerabend 1991, p. 526)[^feyerabend-1991].
+In his 1951 Ph.D. thesis, Feyerabend first introduced his top-down view of the meaning of observation statements, according to which the meaning of any statement used to test a theory is determined by the theory from which it is deduced and used to test, in contrast to Carnap’s dual language model, according to which observation language gets it meaning from the observations, and is separate from theoretical language, which gets its meaning from observation language. Feyerabend’s top-down account has the peculiar consequence that one observation sentence makes two or more incompatible statements depending on which theory is used to interpret it. For example, the sentence “the ball fell” meant that it was pushed by its impetus before it meant that it was pulled by gravity. This Wittgensteinian insight laid the foundation for Feyerabend’s account of incommensurability, which he used to criticize formal accounts of the growth of knowledge in “Explanation, Reduction and Empiricism” (1962a), arguing that contemporary theories do not explain antiquated facts. It just appears that way because we continue to use the same observation sentences after scientific revolutions, when in fact, the same sentences can be used to make two incompatible statements– depending on which theory is used to interpret it, that is, from which theory it is deduced, together with auxiliary assumptions, and used to test. In this way, Feyerabend’s early philosophical work “started from and returned to the discussion of protocol statements in the Vienna Circle” (Feyerabend 1991, p. 526)[^feyerabend-1991-2].
 
 ### 3.3 Life at the London School of Economics (1952–1953)
 
@@ -429,6 +429,32 @@ Different components and phases of Feyerabend’s work have influenced very diff
 
 anarchism | Anscombe, Gertrude Elizabeth Margaret | Carnap, Rudolf | empiricism: logical | essential vs. accidental properties | Feigl, Herbert | Frege, Gottlob | Galileo Galilei | incommensurability: of scientific theories | Kuhn, Thomas | Lakatos, Imre | liberalism | logic: inductive | Mach, Ernst | Marxism, analytical | materialism: eliminative | meaning, theories of | Mill, John Stuart | Nietzsche, Friedrich | physics: intertheory relations in | Popper, Karl | postmodernism | *Principia Mathematica* | quantum mechanics | quantum mechanics: Copenhagen interpretation of | rationalism vs. empiricism | rationality: historicist theories of | realism | reduction, scientific | relativism | science: theory and observation in | science: unity of | scientific method | scientific objectivity | scientific pluralism | scientific realism | scientific revolutions | Vienna Circle | Wittgenstein, Ludwig
 
+[^feyerabend-1975]: 1975, *Against Method: Outline of an Anarchistic Theory of Knowledge*, London: New Left Books. Second revised and enlarged edition 1988. Third revised and enlarged edition 1993.
+
+[^feyerabend-1978]: 1978, *Science in a Free Society*, New Left Books: London.
+
+[^feyerabend-1981]: 1981, *Realism, Rationalism and Scientific Method: Philosophical Papers, Volume 1*, Cambridge: Cambridge University Press.
+
+[^feyerabend-1981-2]: 1981, *Problems of Empiricism*. *Philosophical Papers, Volume 2*, Cambridge: Cambridge University Press.
+
+[^feyerabend-1984]: 1984, *Wissenschaft als Kunst* [*Science as An Art*], Frankfurt am Main: Suhrkamp Verlag.
+
+[^feyerabend-1987]: 1987, *Farewell to Reason*, London: New Left Books.
+
+[^feyerabend-1991]: 1991, *Three Dialogues on Knowledge*, Oxford: Basil Blackwell.
+
+[^feyerabend-1995]: 1995, *Killing Time: The Autobiography of Paul Feyerabend*, Chicago: University of Chicago Press.
+
+[^feyerabend-1999]: 1999, *Conquest of Abundance: A Tale of Abstraction Versus the Richness of Being*, B. Terpstra (ed.), Chicago: University of Chicago Press.
+
+[^feyerabend-1999-2]: 1999, *Knowledge, Science and Relativism*. *Philosophical Papers, Volume 3*, edited J. Preston (ed.), Cambridge: Cambridge University Press.
+
+[^feyerabend-2009]: 2009, *Naturphilosophie*, H. Heit & E. Oberheim (eds.), Frankfurt am Main: Suhrkamp Verlag, 2009. English Translation, 2016, *The* *Philosophy of Nature*, H. Heit & E. Oberheim (eds.), New Jersey: Wiley-Blackwell.
+
+[^feyerabend-2011]: 2011, *The Tyranny of Science*, E. Oberheim (ed.), Cambridge: Polity Press.
+
+[^feyerabend-2016]: 2016, *Physics and Philosophy*. *Philosophical Papers, Volume 4*, S. Gattei & J. Agassi (eds.), Cambridge: Cambridge University Press.
+
 [^feyerabend-1955]: Feyerabend, P., 1955, Review of Wittgenstein 1953, *The Philosophical Review,* 64: 449–483.
 
 [^feyerabend-nd]: –––, “A Note on the Paradox of Analysis”, *Philosophical Studies*, 7: 92–96.
@@ -461,7 +487,7 @@ anarchism | Anscombe, Gertrude Elizabeth Margaret | Carnap, Rudolf | empiricism:
 
 [^feyerabend-1970]: –––, 1970, “Against Method: Outline of an Anarchistic Theory of Knowledge”, in M. Radner & S. Winokur (eds.), 1970, pp. 17–130.
 
-[^feyerabend-1991]: –––, 1991, “Concluding Unphilosophical Conversation”, in G. Munévar (ed.), *Beyond Reason: Essays on the Philosophy of Paul Feyerabend*, Dordrecht: Kluwer, pp. 487–527.
+[^feyerabend-1991-2]: –––, 1991, “Concluding Unphilosophical Conversation”, in G. Munévar (ed.), *Beyond Reason: Essays on the Philosophy of Paul Feyerabend*, Dordrecht: Kluwer, pp. 487–527.
 
 [^feyerabend-1992a]: –––, 1992a, “Atoms and Consciousness”, *Common Knowledge*, 1: 28–32.
 

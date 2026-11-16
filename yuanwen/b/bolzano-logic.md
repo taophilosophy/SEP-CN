@@ -394,6 +394,16 @@ Nevertheless, he always insisted on the originality of his own phenomenological 
 
 Bolzano, Bernard | Husserl, Edmund | Tarski, Alfred
 
+[^bolzano-logic-1810]: 1810, *Beyträge zu einer begründeteren Darstellung der Mathematik* (*Contributions to a better grounded presentation of mathematics*), Prague (English transl. Bolzano 2004b; French transl. Bolzano 2010).
+
+[^bolzano-logic-1816]: 1816, *Der binomische Lehrsatz und als Folgerung aus ihm der polynomische, und die Reihen, die zur Berechnung der Logarithmen und Exponentialgrössen dienen, genauer als bisher erwiesen* (The binomial theorem and as a consequence of it the polynomial theorem, and the series that serve in the calculation of logarithms and exponential quantities, proven more exactly than previously) Prague, English transl. Bolzano 2004b).
+
+[^bolzano-logic-1817]: 1817, *Rein analytischer Beweiss des Lehrsatzes, daß zwischen je zwey Werthen, die ein engegengesetztes Resultat gewähren, wenigstens eine reelle Wurzel der Gleichung liege (Purely analytic proof of the theorem that between any two values which give results of opposite sign, there lies at least one real root of the equation)*, Prague (English transl. Bolzano 2004b; French transl. Bolzano 2010).
+
+[^bolzano-logic-1834]: 1834, *Lehrbuch der Religionswissenschaft* (*Treatise of the science of religion*), Sulzbach: Seidel; *Gesamtausgabe* I, 6–8.
+
+[^bolzano-logic-1837]: 1837 [*TS*], *Wissenschaftslehre, Versuch einer ausführlichen und grösstentheils neuen Darstellung der Logik mit steter Rücksicht auf deren bisherige Bearbeiter*, 4 vol., Sulzbach: Seidel; reprint of the 2nd edition 1929–1931, Aalen: Scientia Verlag 1970; *Gesamtausgabe* I, 11–14, with introductions by J. Berg; English translation 2014, *Theory of science*, 4 vol., translated by Paul Rusnock and Rolf George, Oxford: Oxford University Press. (This translation is indicated as *TS*. The page numbers are those of the original German edition which are on the margins of the other editions, so that the reference is the same for the German original, for the *Gesamtausgabe* and for the English translation).
+
 [^vol-nd]: Vol. I: §§1–120
 
 [^vol-nd-2]: Vol. II: §§121–268

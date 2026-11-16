@@ -685,4 +685,10 @@ Aquinas, Thomas | God: and other ultimates | liberalism | religion: philosophy o
 
 [^zunic-2005]: Zunic, Nikolaj, 2005, “Maritain on Human Fellowship and the Evil of Genocide”, *Études Maritainiennes—Maritain Studies*, 21: 97–121.
 
+[^maritain-1948-3]: 1948, *Jacques Maritain: Son oeuvre philosophique*, Paris: Bibliothèque de la Revue Thomiste.
+
+[^maritain-1982]: 1982, *Maritain Centenary*, special issue of *The Review of Politics*, 44(4).
+
+[^maritain-1943-4]: 1943, Issue dedicated to Jacques Maritain of *The Thomist*, volume 5, New York: Sheed and Ward.
+
 [^additional-nd]: Additional studies of Maritain’s work are available in such journals as [*Études Maritainiennes—Maritain Studies*](http://people.stfx.ca/wsweet/etudes.html), *Cahiers Jacques et Raïssa Maritain*, and *Notes et documents: pour une recherche personnaliste*.

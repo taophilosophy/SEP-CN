@@ -147,6 +147,8 @@ categories | facts | Husserl, Edmund | music: philosophy of | ontological commit
 
 Thanks to Ira Richardson for research assistance with the 2020 updated version of this entry.
 
+[^ingarden-1985]: A bibliography (compiled in 1985) of Ingarden’s works in English, French, German and Polish and of secondary sources is available in the edition of Ingarden’s *Selected Papers in Aesthetics* cited below.
+
 [^intuition-1921]: *Intuition und Intellekt bei Henri Bergson*, Halle: Max Niemeyer, 1921.
 
 [^essentiale-1925]: *Essentiale Fragen. Ein Beitrag zum Problem des Wesens*, Halle: Max Niemeyer, 1925.

@@ -644,6 +644,102 @@ I thank Graham Moore who has assisted me in the early stages of preparation of t
 
 [^note-11]: This too is a slightly rephrased version of Marcus’s formulation.
 
+[^ruth-barcan-marcus-1946a]: 1946a, “A Functional Calculus of First Order Based on Strict Implication”, *Journal of Symbolic Logic*, 11(1): 1–16. doi:10.2307/2269159
+
+[^ruth-barcan-marcus-1946b]: 1946b, “The Deduction Theorem in a Functional Calculus of First Order Based on Strict Implication”, *Journal of Symbolic Logic*, 11(4): 115–118. doi:10.2307/2268309
+
+[^ruth-barcan-marcus-1947]: 1947, “The Identity of Individuals in a Strict Functional Calculus of Second Order”, *Journal of Symbolic Logic*, 12(1): 12–15. doi:10.2307/2267171
+
+[^ruth-barcan-marcus-1948]: 1948, “Review of ‘Modality and Description’, by Arthur Francis Smullyan [Smullyan 1948]”, *Journal of Symbolic Logic*, 13(3): 149–150. Reprinted with revisions in Marcus 1993: 36–38. doi:10.2307/2267830
+
+[^ruth-barcan-marcus-1950]: 1950, “The Elimination of Contextually Defined Predicates in a Modal System”, *Journal of Symbolic Logic*, 15(2): 92. doi:10.2307/2266968
+
+[^ruth-barcan-marcus-1953]: 1953, “Strict Implication, Deducibility and the Deduction Theorem”, *Journal of Symbolic Logic*, 18(3): 234–236. Reprinted with revisions in Marcus 1993: 71–73. doi:10.2307/2267407
+
+[^ruth-barcan-marcus-1960]: 1960, “Extensionality”, *Mind*, 69(273): 55–62. doi:10.1093/mind/LXIX.273.55
+
+[^ruth-barcan-marcus-1961]: 1961, “Modalities and Intensional Languages”, *Synthese*, 13(4): 303–322. Reprinted with revisions in Marcus 1993: 3–23. doi:10.1007/BF00486629
+
+[^ruth-barcan-marcus-1962a]: 1962a, “Discussion on the Paper of Ruth B. Marcus”, with W. V. Quine, Saul A. Kripke, J. McCarty, and Dagfinn Føllesdal, *Synthese*, 14(2–3): 132–143. Reprinted with revisions in Marcus 1993: 24–35. doi:10.1007/BF00881990
+
+[^ruth-barcan-marcus-1962b]: 1962b, “Interpreting Quantification”, *Inquiry*, 5(1–4): 252–259. doi:10.1080/00201746208601353
+
+[^ruth-barcan-marcus-1963a]: 1963a, “Classes and Attributes in Extended Modal Systems”, *Proceedings of a Colloquium on Modal and Many-Valued Logics, Helsinki, 23–26 August, 1962*, in *Acta Philosophica Fennica*, 16: 123–136.
+
+[^ruth-barcan-marcus-1963b]: 1963b, “Reply to Dr. Lambert”, *Inquiry*, 6(1–4): 325–327. doi:10.1080/00201746308601386
+
+[^ruth-barcan-marcus-1965]: 1965, “Review of *Aristotle’s Modal Syllogisms*, by Storrs McCall”, *The Philosophical Review*, 74(4): 539–541. doi:10.2307/2183133
+
+[^ruth-barcan-marcus-1966]: 1966, “Iterated Deontic Modalities”, *Mind*, 75(300): 580–582. Reprinted with revisions in Marcus 1993: 39–43. doi:10.1093/mind/LXXV.300.580
+
+[^ruth-barcan-marcus-1967]: 1967, “Essentialism in Modal Logic”, *Noûs*, 1(1): 91–96. Reprinted with revisions in Marcus 1993: 45–51. doi:10.2307/2214714
+
+[^ruth-barcan-marcus-1968]: 1968, “Modal Logic”, in *Contemporary Philosophy: Logic and Foundations of Mathematics*, Vol 1, Raymond Klibansky (ed.), Firenze: La Nuova Italia, pp. 87–101.
+
+[^ruth-barcan-marcus-1971]: 1971, “Essential Attribution”, *The Journal of Philosophy*, 68(7): 187–202. Reprinted with revisions in Marcus 1993: 53–70. doi:10.2307/2024901
+
+[^ruth-barcan-marcus-1972]: 1972, “Quantification and Ontology”, *Noûs*, 6(3): 240–250. doi:10.2307/2214772
+
+[^ruth-barcan-marcus-1974]: 1974, “Classes, Collections, and Individuals”, *American Philosophical Quarterly*, 11(3): 227–232. Reprinted with revisions as “Classes, Collections, Assortments, and Individuals”, in Marcus 1993: 89–100.
+
+[^ruth-barcan-marcus-1975]: 1975, “Does the Principle of Substitutivity Rest on a Mistake?”, in Anderson, Marcus, and Martin 1975: 31–38. Reprinted with revisions in Marcus 1993: 101–109.
+
+[^ruth-barcan-marcus-1975-2]: 1975/76, “Dispensing with *Possibilia*”, *Proceedings and Addresses of the American Philosophical Association*, 49: 39–51. Reprinted in Richard H. Hull (ed.), *The American Philosophical Association Centennial Series*, 2013: 401–412. doi:10.2307/3129990 doi:10.5840/apapa2013260
+
+[^ruth-barcan-marcus-1976]: 1976, “Wiggins on Identity, Necessity, and Physicalism”, in *Philosophy of Logic: Papers and Discussions*, Stephan Körner (ed.), Berkeley, CA: University of California Press, pp. 132–146.
+
+[^ruth-barcan-marcus-1978a]: 1978a, “Nominalism and the Substitutional Quantifier”, *Monist*, 61(3): 351–362. Reprinted with revisions in Marcus 1993: 111–124. doi:10.5840/monist197861331
+
+[^ruth-barcan-marcus-1978b]: 1978b, “Review of *Names and Descriptions* by Leonard Linsky”, *The Philosophical Review*, 87(3): 497–504.
+
+[^ruth-barcan-marcus-1980a]: 1980a, “Hilpinen’s Interpretations of Modal Logic”, in Georg H. von Wright (ed.), *Logic and Philosophy / Logique et Philosophie*, Dordrecht: Springer, pp. 31–36. doi:10.1007/978-94-009-8820-0_4
+
+[^ruth-barcan-marcus-1980b]: 1980b, “Moral Dilemmas and Consistency”, *The Journal of Philosophy*, 77(3): 121–136. Reprinted with revisions in Marcus 1993: 125–141. doi:10.2307/2025665
+
+[^ruth-barcan-marcus-1981a]: 1981a, “A Proposed Solution to a Puzzle about Belief”, in *The Foundations of Analytic Philosophy* (Midwest Studies in Philosophy, 6), Peter A. French, Theodore E. Uehling, and Howard K. Wettstein (eds), Minneapolis, MN: University of Minnesota Press, pp. 501–510.
+
+[^ruth-barcan-marcus-1981b]: 1981b, “Modal Logic, Modal Semantics and Their Applications”, in *Tome 1 Philosophie du Langage, Logique Philosophique / Volume 1 Philosophy of Language, Philosophical Logic*, Guttorm Fløistad and G. H. Von Wright (eds), Dordrecht: Springer Netherlands, 279–298. doi:10.1007/978-94-009-8356-4_11
+
+[^ruth-barcan-marcus-1983a]: 1983a, “Bar-On on Spinoza’s Ontological Proof”, in *Spinoza: His Thought and Work*, Nathan Rotenstreich and Norma Schneider (eds), Jerusalem: The Israel Academy of Sciences and Humanities, pp. 110–119.
+
+[^ruth-barcan-marcus-1983b]: 1983b, “Rationality and Believing the Impossible”, *The Journal of Philosophy*, 80(6): 321–338. Reprinted with revisions in Marcus 1993 143–161. doi:10.2307/2026334
+
+[^ruth-barcan-marcus-1985]: 1985, “Is There Irrationality in the Existence of a Plurality of Philosophical Theories”, *Dialectica*, 39(4): 321–328. doi:10.1111/j.1746-8361.1985.tb01600.x
+
+[^ruth-barcan-marcus-1986a]: 1986a, “On Some Post-1920s Views of Russell on Particularity, Identity, and Individuation”, In Jules Vuillemin (ed.), *Mérites et Limites des Méthodes Logiques en Philosophie*, Paris: J. Vrin. Reprinted with revisions in Marcus 1993: 177–188.
+
+[^ruth-barcan-marcus-1986b]: 1986b, “Possibilia and Possible Worlds”, *Grazer Philosophische Studien*, 25/26: 107–133. Reprinted with revisions in Marcus 1993: 189–213. doi:10.5840/gps1985/8625/265
+
+[^ruth-barcan-marcus-1986c]: 1986c, “Spinoza and the Ontological Proof”, in *Human Nature and Natural Knowledge* (Boston Studies in the Philosophy of Science 89), Alan Donagan, Anthony N. Perovich, and Michael V. Wedin (eds), Dordrecht: Springer Netherlands, 153–166. Reprinted with revisions in Marcus 1993: 163–176. doi:10.1007/978-94-009-5349-9_8
+
+[^ruth-barcan-marcus-1988a]: 1988a, “F.B. Fitch 1908–1987”, *Proceedings and Addresses of the American Philosophical Association*, 61(3): 551–553.
+
+[^ruth-barcan-marcus-1988b]: 1988b, “Letter to the Editor”, *Proceedings and Addresses of the American Philosophical Association*, 61(5): 867–868.
+
+[^ruth-barcan-marcus-1989]: 1989, “Introduction”, in *Themes from Kaplan*, Joseph Almog, John Perry, and Howard K. Wettstein (eds), Oxford: Oxford University Press: pp. 3–4.
+
+[^ruth-barcan-marcus-1990a]: 1990a, “A Backward Look at Quine’s Animadversions on Modalities”, in *Perspectives on Quine*, Robert B. Barrett and Roger F. Gibson (eds), Oxford/Cambridge, MA: Blackwell, pp. 230–243. Reprinted with revisions in Marcus 1993: 215–232.
+
+[^ruth-barcan-marcus-1990b]: 1990b, “Max Black (1909–1988)”, *Dialectica*, 44(1–2): 5–8. doi:10.1111/j.1746-8361.1990.tb01647.x
+
+[^ruth-barcan-marcus-1990c]: 1990c, “Some Revisionary Proposals about Belief and Believing”, *Philosophy and Phenomenological Research*, 50(supplement): 133–153. Reprinted with revisions in Marcus 1993: 233–255. doi:10.2307/2108036
+
+[^ruth-barcan-marcus-1991]: 1991, “Barcan Formula”, in *Handbook of Metaphysics and Ontology*, Hans Burkhardt and Barry Smith (eds), Munich: Philosophia Verlag, pp. 76–77.
+
+[^ruth-barcan-marcus-1993]: 1993, *Modalities: Philosophical Essays*, New York: Oxford University Press. doi:10.1093/0195096576.001.0001
+
+[^ruth-barcan-marcus-1995]: 1995, “The Anti-Naturalism of Some Language Centered Accounts of Belief”, *Dialectica*, 49(2–4): 113–130. doi:10.1111/j.1746-8361.1995.tb00157.x
+
+[^ruth-barcan-marcus-1996]: 1996, “More about Moral Dilemmas”, in *Moral Dilemmas and Moral Theory*, Homer E. Mason (ed.), Oxford: Oxford University Press, pp. 23–35. doi:10.1093/oso/9780195096811.003.0003
+
+[^ruth-barcan-marcus-1997]: 1997, “Are Possible, Non Actual Objects Real?”, *Revue Internationale de Philosophie*, 51(200/2): 251–257.
+
+[^ruth-barcan-marcus-2005]: 2005, “Ruth Barcan Marcus”, in *Formal Philosophy*, Vincent F. Hendricks and John Symons (eds), USA: Automatic Press, 131–140. A short interview with Marcus.
+
+[^ruth-barcan-marcus-2010]: 2010, “A Philosopher’s Calling” (Dewey lecture, Eastern 2009), *Proceedings and Addresses of the American Philosophical Association*, 84(2): 75–92. Reprinted in Frauchiger 2015: 17–37.
+
+[^ruth-barcan-marcus-2011]: 2011, “C. I. Lewis on Intensional Predicate Logic: A Letter Dated May 11, 1960”, *History and Philosophy of Logic*, 32(2): 103–106. doi:10.1080/01445340.2010.522368
+
 [^anderson-1975]: Anderson, Alan Ross, Ruth Barcan Marcus, and Richard M. Martin (eds), 1975, *The Logical Enterprise*, New Haven, CT: Yale University Press.
 
 [^marcus-1979]: Marcus, Ruth B., Bruce Kuklick, and Sacvan Bercovitch, 1979, “Letter on Uninformed Consent”, *Science*, 205(4407, 17 August): 644. doi:10.1126/science.205.4407.644.b

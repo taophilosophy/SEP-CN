@@ -394,6 +394,8 @@ If *X* conducts *X*’s life morally, and if *X* develops *some* talents or hobb
 
 art: erotic | desire | feminist philosophy, topics: perspectives on objectification | feminist philosophy, topics: perspectives on rape | feminist philosophy, topics: perspectives on sex markets | feminist philosophy, topics: perspectives on trans issues | homosexuality | marriage and domestic partnership | pleasure | pornography: and censorship | trans philosophy
 
+[^sex-sexuality-nd]: The following anthologies are crucial resources for someone studying the field of the philosophy of sex. The following abbreviations were used above.
+
 [^dli-2017]: DLI: *Desire, Love, and Identity: Philosophy of Sex and Love*, Gary Foster (ed.), Don Mills, Ontario: Oxford University Press, 2017.
 
 [^phse-2022]: PHSE: *The Palgrave Handbook of Sexual Ethics*, David Boonin (ed.), Cham, Switzerland: Palgrave Macmillan, 2022.

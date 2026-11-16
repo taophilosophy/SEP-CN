@@ -526,6 +526,34 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 
 [^ml-1985]: [ML] 1985, “My Life: 1903–1973”, in SF: 1–51.
 
+[^findlay-2005a]: 2005a, “Philosophy as a Discipline”, *The Philosophical Forum*, 36(2): 141–148. doi:10.1111/j.1467-9191.2005.00196.x
+
+[^findlay-2005b]: 2005b, “Aristotle and Eideticism”, *The Philosophical Forum*, 36(4): 349–365. doi:10.1111/j.1467-9191.2005.00209.x
+
+[^findlay-2006a]: 2006a, “Aristotle and Eideticism II”, *The Philosophical Forum*, 37(3): 333–386, doi:10.1111/j.1467-9191.2006.00244.x
+
+[^findlay-2006b]: 2006b, “Notes on Spinoza and Absolute Theory”, *The Philosophical Forum*, 37(4): 427–437, doi:10.1111/j.1467-9191.2006.00246.x
+
+[^findlay-2007a]: 2007a, “Notes on Plato’s *Timaeus*”, *The Philosophical Forum*, 38(2): 159–171, doi:10.1111/j.1467-9191.2007.00261.x
+
+[^findlay-2007b]: 2007b, “Notes on Kant’s *Prolegomena*”, *The Philosophical Forum*, 38(3): 289–308, doi:10.1111/j.1467-9191.2007.00268.x
+
+[^findlay-2007c]: 2007c, “Hegel’s Philosophy: The Logic”, *The Philosophical Forum*, 38(4): 387–459, doi:10.1111/j.1467-9191.2007.00276.x
+
+[^findlay-2008]: 2008, “Wittgenstein and His *Tractatus*”, *The Philosophical Forum*, 39(1): 85–94, doi:10.1111/j.1467-9191.2007.00283.x
+
+[^findlay-2018]: 2018, “Notes on the *Ideen* of Husserl”, *The Philosophical Forum*, 49(3): 283–307, doi:10.1111/phil.12193
+
+[^findlay-1970]: 1970, translation of *Logical Investigations* (*Logische Untersuchungen*), by Edmund Husserl, with an introduction by J.N. Findlay, London: Routledge and Kegan Paul.
+
+[^findlay-1970-2]: 1970, foreword to *Hegel’s Philosophy of Nature*, A.V. Miller (trans.), Oxford: Clarendon Press.
+
+[^findlay-1971]: 1971, foreword to *Hegel’s Philosophy of Mind*, William Wallace and A.V. Miller (trans.), Oxford: Clarendon Press.
+
+[^findlay-1975]: 1975, foreword to *Hegel’s Logic*, William Wallace (trans.), Oxford: Clarendon Press.
+
+[^findlay-1977-2]: 1977, analysis and foreword to *Hegel’s Phenomenology of Spirit*, A.V. Miller (trans.), Oxford: Clarendon Press.
+
 [^bergson-1907]: Bergson, Henri, 1907, *L’Évolution créatrice*, Paris: Félix Alcan. Translated as *Creative Evolution*, Arthur Mitchell (trans.), New York: Henry Holt, 1911.
 
 [^bartley-1985]: Bartley, W.W., 1985, *Wittgenstein*, second edition, Chicago: Open Court. First edition 1973.

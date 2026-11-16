@@ -223,6 +223,44 @@ aesthetics: German, in the 18th century | Herder, Johann Gottfried von | Novalis
 
 [^schlegel-nd]: The abbreviations used for references to, or quotations of, A.W. Schlegel are indicated below, at the beginning of the bibliography entries for the cited editions. All translation from German are mine.
 
+[^schlegel-aw-1846]: 1846–1848, *Sämtliche Werke* [**SW**], edited by Eduard Böcking, 16 vols., Leipzig: Weidmann; reprinted in 1971–72, Hildesheim: Neudruck Verlag Olms. Includes his works written in French (*Œuvres*, in 3 volumes, 1848) and in Latin (*Opuscula*, *quae Schlegelius latine scripta reliquit*, 1848).
+
+[^schlegel-aw-1962]: 1962–1974, *Kritische Schriften und Briefe*, edited by Edgar Lohner, Stuttgart: W. Kohlhammer.
+
+[^schlegel-aw-1989]: 1989–in progress, *Kritische Ausgabe der Vorlesungen*, 6 vol., edited by Ernst Behler and Frank Jolles, Paderborn, Munich: F. Schöningh.
+
+[^schlegel-aw-1800]: 1800, *Gedichte*, Tübingen: Cotta.
+
+[^schlegel-aw-1803]: 1803, *Ion*, Ein Schauspiel, Hamburg: Perthes.
+
+[^schlegel-aw-1811]: 1811, *Poetische Werke*, 2 vols., Heidelberg: Mohr & Zimmer.
+
+[^schlegel-aw-1798]: 1798–1800, *Athenaeum* [**A**], 3 vols., (Co-editor with Friedrich Schlegel), Berlin: Vieweg (vol. 1), Berlin: Frölich (vols. 2 and 3); reprinted in 1989, Dortmund: Harenberg.
+
+[^schlegel-aw-1801]: 1801, *Charakteristiken und Kritiken*, with Friedrich Schlegel, 2 vols., Königsberg: Nicolovius.
+
+[^schlegel-aw-1807]: 1807, *Comparaison entre la Phèdre de Racine et celle d’Euripide*, Paris : Tourneisen Fils ; reedited with slight modifications in 1842, Essais littéraires et historiques, Bonn: Edouard Weber, pp. 85 ff).
+
+[^schlegel-aw-1809]: 1809–11, *Über dramatische Kunst und Literatur. Vorlesungen*, 3 vols., Heidelberg: Mohr & Zimmer.
+
+[^schlegel-aw-1813]: 1813, *Sur le système continental et sur les rapports avec la Suède*, Hamburg.
+
+[^schlegel-aw-1816]: 1816, *Der deutsche Mann und der Patriot im Streit*, Philadelphia: Spottvogel (i.e., Reutlingen: Mäken).
+
+[^schlegel-aw-1820]: 1820–30, *Indische Bibliothek* [**IB**], 3 vols., Bonn: Weber.
+
+[^schlegel-aw-1828]: 1828, *Kritische Schriften* [**KS**], 2 vols., Berlin: Reimer.
+
+[^schlegel-aw-1832]: 1832, *Réflexions sur l’étude des Langues Asiatiques suivies d’une lettre à M. Horace*, Hayman Wilson, Bonn: Edouard Weber.
+
+[^schlegel-aw-1842]: 1842, *Essais littéraires et historiques*, Bonn: Edouard Weber.
+
+[^schlegel-aw-1884]: 1884 (posthumous), *Vorlesungen über schöne Literatur und Kunst* [**VLK**], edited by Jakob Minor, 3 vols., Heilbronn: Henningen; reprinted in 1968, Nendeln; Liechtenstein: Kraus.
+
+[^schlegel-aw-1913]: 1913 (posthumous), *Geschichte der deutschen Sprache und Poesie*, (Lectures delivered at Bonn University between 1818–1819, edited by J. Körner, Berlin: Behr.
+
+[^schlegel-aw-2012]: 2012–2026 (posthumous), *August Wilhelm Schlegel. Kritische Ausgabe der Vorlesungen*, 6 vols., edited by Frank Jolles, Ernst Behler, Georg Braungart, Sabine Gruber, Edith Höltenschmidt and Stefan Knödler; Paderborn: Brill/Schöhning. [[Contents listed at the Brill webpage for this work.](https://brill.com/display/serial/AWSV)]
+
 [^rendorps-1793]: Rendorps, Joachim, 1793, *Joachim Rendorps geheime Nachrichten zur Aufklärung der Vorfälle während des letzten Kriegs zwischen England und Holland*, Leipzig: Heinsius.
 
 [^william-1797]: William Shakespeare, 1797–1810, *Shakespeare’s Dramatische Werke*, with Caroline Schlegel, Ludwig and Dorothea Tieck, 9 vols., Berlin: Unger.
@@ -238,6 +276,26 @@ aesthetics: German, in the 18th century | Herder, Johann Gottfried von | Novalis
 [^albertine-1823]: anonymous, 1823, *Bhagavad-Gita*, Bonn: Weber.
 
 [^albertine-1829]: anonymous, 1829–46, *Ramayana*, 4 vols, Bonn: Weber.
+
+[^schlegel-aw-1922]: 1922, *August Wilhelm Schlegels Briefwechsel mit seinen Heidelberger Verlegern*, edited by Erich Jenisch, Heidelber: Winter.
+
+[^schlegel-aw-1930]: 1930, *Briefe von und an August Wilhelm Schlegel*, edited by Josef Körner, Zürich, Leipzig, Vienna: Amalthea.
+
+[^schlegel-aw-1936]: 1936–37 and 1958, *Kriesenjahre der Frühromantik. Briefen aus dem Schlegelkreis*, edited by Josef Körner, Vienna, Leipzig: Rohrer and Berne: Francke.
+
+[^schlegel-aw-1972]: 1972, *Ludwig Tieck und die Brüder Schlegel. Briefe*, edited by Edgar Lohner, Munich: Winkler.
+
+[^schlegel-aw-2012-2]: 2012, *Der Briefwechsel zwischen August Wilhelm von Schlegel und seiner Bonner Haushälterin Maria Löbel*, Historisch-kritische Ausgabe, edited by Ralf G. Czapla and Franca V. Schwankweiler, Bonn: Bernstein.
+
+[^schlegel-aw-2013]: 2013, *Founders of Western Indology. August Wilhelm Schlegel and Henry Thomas Colebrooke in Correspondance 1820–1837*, edited by Rosane Rocher and Ludo Rocher, Wiesbaden: Harrassowitz.
+
+[^schlegel-aw-2015]: 2015, *Der Briefwechsel zwischen Christian Friedrich Tieck und August Wilhelm Schlegel in den Jahren 1804 bis 1811*, edited by Cornelia Bögel, Dresden: Thelem.
+
+[^schlegel-aw-1813-2]: 1813, *The Continental System, and its relations with Sweden*, London: J.J. Stockdale; anonymous translation.
+
+[^schlegel-aw-1815]: 1815, *A Course of Lectures on Dramatic Art and Literature* [**LDA**], translated by John Black and A.J.W. Morrison, London: George Bell and Sons; reprinted in 1846, London: H.G. Bohn; revised edition in 1894, reprinted in 1973, New York: AMS Press and 2004, Whitefish, MT: Kessinger.
+
+[^schlegel-aw-1944]: 1944 (1833), *A.W. Schlegel’s Lectures on German literature from Gottsched to Goethe*, Oxford: B. Blackwell (notes taken by George Toynbee).
 
 [^abrams-1953]: Abrams, Meyer Howard, 1953, *The Mirror and the Lamp: Romantic Theory and the Critical Tradition*, London: Oxford University Press.
 

@@ -176,6 +176,32 @@ In his earliest work Prichard supposes that principles specify distinct obligati
 
 action | consequentialism | Kant, Immanuel | metaethics | moral intuitionism | moral motivation | moral particularism | Ross, William David | Sidgwick, Henry | value theory | Wilson, John Cook
 
+[^prichard-1906]: 1906, “Appearances and Reality,” *Mind*, 15: 223–9.
+
+[^prichard-1907]: 1907, “A Criticism of the Psychologists’ Treatment of Knowledge,” *Mind*, 16: 27–53.
+
+[^prichard-1909]: 1909, *Kant’s Theory of Knowledge*, Oxford: Clarendon Press.
+
+[^prichard-1910]: 1910, “Philosophic Pre-Copernicanism: an Answer,” *Mind*, 19: 541–3.
+
+[^prichard-1912]: 1912, “Does Moral Philosophy Rest on a Mistake?” *Mind*, 21: 21–37.
+
+[^prichard-1915]: 1915, “Mr. Bertrand Russell on our Knowledge of the External World,” *Mind*, 24: 145–85.
+
+[^prichard-1919]: 1919, “Professor John Cook Wilson,” *Mind*, 28: 297–318.
+
+[^prichard-1928]: 1928, “Mr. Bertrand Russell’s *Outline of Philosophy*,” *Mind*, 37: 265–82.
+
+[^prichard-1929]: 1929, “Duty and Interest,” Inaugural Lecture (Oxford: Clarendon Press).
+
+[^prichard-1932]: 1932, “Duty and Ignorance of Fact,” Annual Philosophical Lecture, Henrietta Hertz Trust (London: Humphrey Milford), pp. 28.
+
+[^prichard-1935]: 1935, “The Meaning of ἀγαθόν in the *Ethics* of Aristotle,” *Philosophy*, 37: 27–39.
+
+[^prichard-1938]: 1938, “The Sense-datum Fallacy,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 17: 1–18.
+
+[^prichard-1944]: 1944, “H. W. B. Joseph,” *Mind*, 53: 189–91.
+
 [^prichard-1949]: H. A. Prichard, *Moral Obligation: Essays and Lectures*, W. D. Ross (ed.), Oxford: Clarendon Press, 1949.
 
 [^prichard-1950]: H. A. Prichard, *Knowledge and Perception: Essays and Lectures*, W. D. Ross (ed.), Oxford: Clarendon Press, 1950.

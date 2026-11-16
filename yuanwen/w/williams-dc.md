@@ -227,6 +227,38 @@ Williams’ defense of induction thus has resources to supply answers to the cri
 
 induction: problem of | naturalism | properties | realism | time | tropes
 
+[^williams-dc-1933a]: 1933a, “The A Priori Argument for Subjectivism,” *The Monist*, 43(2): 173–202.
+
+[^williams-dc-1933b]: 1933b, “Ethics as Pure Postulate,” *Philosophical Review*, 42(4): 399–411.
+
+[^williams-dc-1934a]: 1934a, “The Inductive Argument for Subjectivism,” *The Monist*, 44(1): 80–107.
+
+[^williams-dc-1934b]: 1934b, “The Argument for Realism,” *The Monist*, 44(2): 186–209.
+
+[^williams-dc-1938]: 1938, “The Realistic Analysis of Scientific Sentences,” *Erkenntnis*, 7: 169–178, 375–82.
+
+[^williams-dc-1947]: 1947, *The Ground of Induction*, Cambridge, Mass.: Harvard University Press.
+
+[^williams-dc-1951]: 1951, “The Myth of Passage,” *Journal of Philosophy*, 48(15): 457–472 (reprinted in *American Philosophers at Work: The Philosophic Scene in the United States*, S. Hook (ed.), New York: Criterion Books, pp 315–331).
+
+[^williams-dc-1952]: 1952, “Professor Carnap’s Philosophy of Probability,” *Philosophy and Phenomenological Research*, 13(1): 103–21.
+
+[^williams-dc-1953]: 1953, “On the Direct Probability of Inductions,” *Mind*, 62(248): 465–83.
+
+[^williams-dc-1958]: 1958, “Form and Matter,” *Philosophical Review*, 67(3): 291–312, 499–521.
+
+[^williams-dc-1959]: 1959, “Philosophy and Psychoanalysis,” in *Psychoanalysis, Scientific Method, and Philosophy; a Symposium*, S. Hook (ed.), New York: New York University Press. pp. 157–79. [[Williams 1959 available online](http://archive.org/stream/psychoanalysissc02newy#page/156/mode/2up)]
+
+[^williams-dc-1962]: 1962, “Dispensing With Existence,” *Journal of Philosophy*, 59(23): 748–62.
+
+[^williams-dc-1963]: 1963, “Necessary Facts,” *The Review of Metaphysics*, 16(4): 601–26.
+
+[^williams-dc-1966]: 1966, *Principles of Empirical Realism: Philosophical Essays*, H. Ruja (ed.), Springfield, Illinois: C. C. Thomas. [Seventeen selected essays covering the period 1932–1959. Contains a comprehensive Bibliography for Williams’ work covering 1923–1965.]
+
+[^williams-dc-1986]: 1986, “Universals and Existents,” *Australasian Journal of Philosophy*, 64(1): 1–14.
+
+[^williams-dc-2018]: 2018, *The Elements and Patterns of Being: Essays in Metaphysics*, A.R.J. Fisher (ed.), Oxford: Oxford University Press. [Twelve selected essays including the previously unpublished “Universal Concepts and Particular Processes” (1962), “The Duty of Philosophy” (c. 1965), “The Nature of Time” (1966), “The Shape of Time” (1968), “How Reality is Reasonable” (1974) and “The Bugbear of Fate” (1974), with a comprehensive introduction.]
+
 [^donald-nd]: The [Donald Williams papers](http://id.lib.harvard.edu/alma/990006048420203941/catalog), containing a substantial quantity of unpublished material, are in the archives of Harvard University. They include most of the text of a treatise on Logic, in the tradition of J. M. Keynes, expounding the various species of judgment and inference, rather than the systematic axiomatizations of deductive inference, and the metalogic, which superseded that tradition.
 
 [^armstrong-1978]: Armstrong, David Malet, 1978, *Universals and Scientific Realism* (I: *Nominalism and Realism*), Cambridge: Cambridge University Press.

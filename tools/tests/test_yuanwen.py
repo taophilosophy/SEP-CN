@@ -599,6 +599,30 @@ class TestTitleDedupeAndHashEscape20261117(unittest.TestCase):
         render_blocks(blocks, ctx)
         self.assertIn('\\# Absolument! Et elle ira.', '\n'.join(ctx.out))
 
+    def test_year_leading_entries_kept_with_fallback(self):
+        # specs/039 I3 标定（sartre 判例）：主文献区节首年份起首条目（作者＝条目
+        # 主体本人）在 prev_surnames 为空时旧式整条 continue＝文献蒸发。
+        # fallback_author 兜底键保定义行；不带 fallback 时旧行为保留（禁静默变卦）。
+        entries = ['1936a, *La Transcendance de l’ego*, Paris: J. Vrin.',
+                   '1936b [2012], *L’imagination*, Paris: F. Alcan.',
+                   'Sartre, Jean-Paul, 1943, *L’être et le néant*, Paris: Gallimard.']
+        keys = build_cite_keys(entries)
+        self.assertEqual(len(keys), 1)  # 旧口径：前两条蒸发
+        keys_fb = build_cite_keys(entries, fallback_author='sartre')
+        self.assertEqual(len(keys_fb), 3)
+        self.assertEqual(keys_fb[0]['key'], 'sartre-1936a')
+        self.assertEqual(keys_fb[1]['key'], 'sartre-1936b')
+        self.assertEqual(keys_fb[2]['key'], 'sartre-1943')
+        self.assertNotIn('pats-hit', str(keys_fb[0]))  # 兜底键不强生文内标记
+
+    def test_fallback_not_used_when_surnames_resolvable(self):
+        entries = ['Sartre, Jean-Paul, 1943, *L’être et le néant*.',
+                   '1936a, *La Transcendance de l’ego*.']
+        keys = build_cite_keys(entries, fallback_author='sartre')
+        self.assertEqual([k['key'] for k in keys], ['sartre-1943', 'sartre-1936a'])
+        # 第二条继承前条姓氏（既有语义），不走 fallback
+        self.assertEqual(keys[1]['pats'] != [], True)
+
     def test_hash_tight_no_space_escaped(self):
         ctx = Ctx('disjunction')
         blocks = extract_blocks_raw('<p>#Absolument! Et ils étudient même les deux.</p>')

@@ -434,7 +434,7 @@ Post-speech: #His enemy, Asterix won’t punish— ![slapping gesture](../assets
 
 **b′.**
 
-#His enemy, Asterix won’t punish, which will involve slapping him.
+\#His enemy, Asterix won’t punish, which will involve slapping him.
 
 **c.**
 

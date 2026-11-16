@@ -271,6 +271,28 @@ Thanks to the Georgetown Institute for the Study of Markets and Ethics at George
 
 [^note-13]: As Michael Polanyi once said, “as human beings we must inevitably see the universe from a center lying within ourselves” (Polanyi, 1958, 3)[^polanyi-1958]. Yet, to Polanyi, this self-consciousness led to our embracing the Copernican Revolution, insofar as objectivity, “does not require that we see ourselves as a mere grain of sand in a million Saharas. It inspires us, on the contrary, with the hope of overcoming the appalling disabilities of our bodily existence, even to the point of conceiving a rational idea of the universe which can authoritatively speak for itself” (Polanyi, 1958, 5)[^polanyi-1958].
 
+[^friedrich-hayek-1944]: 1944, *The Road to Serfdom*, Chicago: University of Chicago Press.
+
+[^friedrich-hayek-1945]: 1945, “The Use of Knowledge in Society,” *American Economic Review*, 35: 519–30.
+
+[^friedrich-hayek-1948]: 1948, *Individualism and Economic Order*, Chicago: University of Chicago Press.
+
+[^friedrich-hayek-1952]: 1952, *The Counter-Revolution of Science*, Glencoe, IL: Free Press.
+
+[^friedrich-hayek-1958]: 1958, “Freedom, Reason, and Tradition,” *Ethics*, 68: 229–45.
+
+[^friedrich-hayek-1960]: 1960, *The Constitution of Liberty*, Chicago: University of Chicago Press.
+
+[^friedrich-hayek-1969]: 1969, *Studies in Philosophy, Politics, and Economics*, London: Routledge.
+
+[^friedrich-hayek-1973]: 1973/76/79, *Law, Legislation, and Liberty*, in 3 volumes, Chicago: University of Chicago Pres).
+
+[^friedrich-hayek-1978a]: 1978a, “Coping with Ignorance,” *Imprimis*, 7: 1–6.
+
+[^friedrich-hayek-1978b]: 1978b, *New Studies in Philosophy, Politics, Economics, and the History of Ideas*, London: Routledge.
+
+[^friedrich-hayek-1988]: 1988, *The Fatal Conceit: The Errors of Socialism*, W. W. Bartley III (ed.), Volume 1 of *The Collected Works of F. A. Hayek*, Chicago: University of Chicago Press.
+
 [^austrian-nd]: In addition to the sources below, as a general reference, see the *Review of Austrian Economics*.
 
 [^anderson-2017]: Anderson, Elizabeth. 2017. *Private Government: How Employers Rule Our Lives and Why We Don’t Talk about It*. Princeton University Press

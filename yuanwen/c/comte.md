@@ -282,6 +282,12 @@ Of course, there may have been some flattery going on.
 
 [^english-2017]: 2017, *Cours sur l’histoire de l’humanité (1849–1851)*, texte établi et présenté par L. Fedi; Geneva: Droz.
 
+[^comte-1974]: 1974, *The Crisis of Industrial Civilisation, The Early Essays of Auguste Comte*, R. Fletcher (ed.), London: Heinemann.
+
+[^comte-1995]: 1995, *The Correspondence of John Stuart Mill and Auguste Comte*, O. Haac (ed.), London: Transaction Publishers.
+
+[^comte-1998]: 1998, *Early Political Writings*, H. S. Jones (ed.), Cambridge: Cambridge University Press.
+
 [^while-nd]: While reading Comte, it is useful to have continual reference to Mill, especially:
 
 [^mill-1843]: 1843, *System of Logic*, Ratiocinative and Inductive, London: John Parker; reprinted in Mill 1963ff, vols. 7–8.

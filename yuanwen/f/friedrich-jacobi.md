@@ -175,6 +175,126 @@ This entry was rewritten by Paolo Livieri in 2023, but since it retains the enti
 
 [^consult-2009]: Consult also the ‘Preface to the Paperback Edition’ (2009) in Jacobi (1994 (2)) which includes a complete list of Jacobi’s publications.
 
+[^friedrich-jacobi-2019]: 2019. *David Hume über den Glauben oder Idealismus und Realismus: Ein Gespräch (1787)*; *Jacobi an Fichte (1799)*, O. Koch (ed.), on the basis of the edition by W. Jaeschke and I.–M. Piske, with a new introduction, Hamburg: Meiner. [This includes the works below dated 1787 (2) and 1799.]
+
+[^friedrich-jacobi-2018]: 2018. *Brief über den Nihilismus*, I. Radrizzani (ed.), with a translation from the French by P. Göcergi, Stuttgart–Bad Cannstatt: Frommann–Holzboog. This is the German edition of *Lettre sur le nihilisme et autres textes*, I. Radrizzani (ed.), Paris: Flammarion, 2009.
+
+[^friedrich-jacobi-2009]: 2009. *Sur l’entreprise du criticisme de ramener la raison à l’entendement et de donner à la philosophie une nouvelle orientation; suivi de Lettre à Fichte*, P. Cerutti (ed.), Paris: J. Vrin.
+
+[^friedrich-jacobi-2008]: 2008. *Des choses divines et de leur révélation*, P. Cerutti (ed.), Paris: J. Vrin.
+
+[^friedrich-jacobi-2005]: 2005. “*Ich träume lieber Fritz den Augenblick...”, der Briefwechsel zwischen Goethe und F.H. Jacobi*, M. Jacobi (ed.), new edtion by A. Remmel and P. Remmel, Hildesheim: Weidmann.
+
+[^friedrich-jacobi-2000]: 2000 (2). ‘On Transcendental Idealism’, appendix to the 2ⁿᵈ Edition of *David Hume über den Glauben oder Idealismus und Realismus*, B. Sassen (trans.), in *Kant’s Early Critics, The Empiricist Critique of Theoretical Philosophy*, pp. 169–175. Cambridge: Cambridge University Press.
+
+[^friedrich-jacobi-2000-2]: 2000 (1). *David Hume et la croyance, idéalisme et réalisme*, L. Guillermit (ed.), Paris: J. Vrin. First published in 1981 for Marseille: Université de Provence.
+
+[^friedrich-jacobi-1994]: 1994 (2). *The Main Philosophical Writings and the Novel* Allwill, G. di Giovanni (ed. and trans.), Montréal & Kingston: McGill-Queen’s University Press; paperback edition, with new Preface, 2009. Includes complete major texts from original editions and with original pagination, historical and critical notes, extensive bibliography that includes a complete list of Jacobi’s publications.
+
+[^friedrich-jacobi-1994-2]: 1994 (1). *Religionsphilosophie und spekulative Theologie. Der Streit um die Göttlichen Dinge (1799–1812)*, Quellenband, Philosophisch-literarische Streitsachen 3.1, W. Jaeschke (ed.), Hamburg: Meiner, includes Jacobi’s *Von den göttlichen Dingen und ihrer Offenbarung* and several texts by different authors that took part to the dispute with different degrees of involvement.
+
+[^friedrich-jacobi-1993]: 1993. *Transzendentalphilosophie und Spekulation. Der Streit und die Gestalt einer Ersten Philosophie (1799–1807)*, Quellenband, Philosophisch–literarische Streitsachen 2.1, W. Jaeschke (ed.), Hamburg: Meiner. The volume presents the texts *Jacobi an Fichte* and *Drei Briefe an Köppen* together with several letters from Reinhold, Fichte, Schelling, Bouterwek, and Jean Paul that help frame the debate about the notions of Realism and Transcendental Idealism.
+
+[^friedrich-jacobi-1988]: 1988. *The Spinoza Conversations between Lessing and Jacobi: Text with Excerpts from the Ensuing Controversy*. Introduced by Gérard Vallée, G.Vallée, J.B. Lawson, and C.G. Chapple (trans.), Lanham, New York: University Press of America.
+
+[^friedrich-jacobi-1987]: 1987. ‘Open Letter to Fichte, 1799’, *Philosophy of German Idealism*, Diana I. Behler (trans.), Ernst Behler (ed.), New York: Continuum, 119–141.
+
+[^friedrich-jacobi-1983]: 1983 (2). *David Hume über den Glauben, oder, Idealismus und Realismus (1787)*, and the *Vorrede* to the 1815 edition, H. Beck (ed.), New York: Garland Publishing.
+
+[^friedrich-jacobi-1983-2]: 1983 (1). *La Doctrine de Spinoza clairement exposée dans le lettre à Hemsterhuis de juillet 1784*, Paris: A. Braik.
+
+[^friedrich-jacobi-1982]: 1982. *Dialogue sur l’idéalisme et le réalisme*, L. Guillermit (ed.), Marseille: Université de Provence.
+
+[^friedrich-jacobi-1981]: 1981 ff. *Werke: Briefwechsel, Nachlaß, Dokumente*, Suttgart-Bad Constatt: Frommann-Holzboog. This critical edition of Jacobi’s works is divided into two series of volumes: Letters and Texts, Commentaries.
+
+[^friedrich-jacobi-1981-2]: 1981 ff. *Werke: Gesamtausgabe der Bayerischen Akademie der Wissenschaften*, Walter Jaeschke (ed.), Hamburgh: Meiner. This critical edition supplements the one cited in the immediately preceding entry.
+
+[^friedrich-jacobi-1970]: 1970. *Nihilismus: die Anfänge von Jacobi bis Nietzsche*, D. Arent (ed.), Köln: Hegner.
+
+[^friedrich-jacobi-1967]: 1967. *Streit um die göttlichen Dinge. Die Auseinandersetzung zwischen Jacobi und Schelling*, W. Weischedel (ed.), includes texts from the dispute between Jacobi and Schelling Darmstadt: Wissenschaftliche Buchgesellschaft.
+
+[^friedrich-jacobi-1966]: 1966. *Lettres inédites de F.H. Jacobi*, J.Th. de Booy and R. Mortier (eds.), Genève: Studies on Voltaire and the eighteentn century.
+
+[^friedrich-jacobi-1965]: 1965. *Fliegende Blätter und Sentenzen aus seinen Werken und Briefen*, selection and afterworld by R. Gumpert, Heidelberg: Sauer–Verlag.
+
+[^friedrich-jacobi-1957]: 1957. *Friedrich Heinrich Jacobis* “*Allwill*”, critical edition with introduction and notes by J. U. Terpstra, Groningen: Djacarta.
+
+[^friedrich-jacobi-1946]: 1946. *Oeuvres philosophiques de F.-H. Jacobi*, J.-J. Anstett (trans.), Paris: Aubier.
+
+[^friedrich-jacobi-1943]: 1943. *Freundschaftsbriefe aus empfindsamer Zeit*, a selection of letters by J. Heyderhoff, Düsseldorf: Völkischer Verlag.
+
+[^friedrich-jacobi-1926]: 1926. *Die Schriften Friedrich Heinrich Jacobi*, selection with an introduction by L. Matthias, Berlin: Die Schmiede.
+
+[^friedrich-jacobi-1916]: 1916. *Die Hauptschriften zum Pantheismusstreit zwischen Jacobi und Mendelssohn*, H. Scholz (ed.), Berlin: Reuther & Reichard. Includes all the relevant texts in the dispute between Jacobi and Mendelssohn.
+
+[^friedrich-jacobi-1912]: 1912. *Jacobis Spinoza Büchlein: nebst Replik und Duplik*, F. Mauthner (ed.), München: Müller.
+
+[^friedrich-jacobi-1869]: 1869 (2). *Aus F.H. Jacobi’s Nachlaß. Ungedruckte Briefe von und an Jacobi und andere. Nebst ungedruckten Gedichten von Goethe und Lenz*, 2 volumes, R. Zoeppritz (ed.), Leipzig: Engelmann.
+
+[^friedrich-jacobi-1869-2]: 1869 (1). *Aus dem Leben und für das Leben—Weisheitssprüche von Fr.H. Jacobi*, J. Hamberger (ed.), Gotha: Perthes.
+
+[^friedrich-jacobi-1854]: 1854. *F. H. Jacobi’s ausgewählte Werke*, volumes I–III, Leipzig: G. Fleischer, 1854.
+
+[^friedrich-jacobi-1844]: 1844. *Anthologie aus den Werke von J.G. Jacobi und F.H. Jacobi. Parabeln von F.A. Krummacher*. Amsterdam: Bibliographisches Institut in Hildburghausen.
+
+[^friedrich-jacobi-1825]: 1825–27. *Friedrich Heinrich Jacobi’s auserlesener Briefwechsel*, 2 volumes, F. Roth (ed.), Leipzig: Fleischer.
+
+[^friedrich-jacobi-1812]: 1812–1825. *Friedrich Heinrich Jacobi’s Werke*, eds Köppen, J.F. and Roth, C.J.F., vols. I–VI. Leipzig: Gerhard Fleischer. Reprinted, Darmstadt: Wissenschaftliche Buchgesellschaft, 1968. This is the edition that Jacobi himself supervised before his death and the one still most easily available. It must however be treated with care, since editorial comments and emendations tend to impose Jacobi’s later views on the earlier texts. The series includes four texts that present Jacobi’s overview on his own lifelong enterprise: *Einleitung in des Verfassers sämmliche philosophische Schriften* (1815), *Vorrede zu Band III der Werke* (1816), *Vorbericht zur zweiten Ausgabe* (1816), and *Erweiterung der dritten Auflage* (1819).
+
+[^friedrich-jacobi-1817]: 1817. ‘Fliegende Blätter.’*Minerva*, Leipzig: Taschenbuch für das Jahr 1817, 259—300.
+
+[^friedrich-jacobi-1811]: 1811. *Von den Göttlichen Dingen und ihrer Offenbarung*, Leipzig: G.Fleischer.
+
+[^friedrich-jacobi-1807]: 1807. *Über gelehrte Gesellschaften, ihren Geist und Zweck. Eine Abhandlung, vorgelesen bey der feyerlichen Erneuung der Königlichen Akademie der Wissenschaften zu München von dem Präsidenten der Akademie*, München: E. A. Fleischmann.
+
+[^friedrich-jacobi-1803]: 1803. [Three letters in] Köppen, Friedrich. *Schellings Lehre oder das Ganze der Philosophie des absoluten Nichts, Nebst drey Briefen verwandten Inhalts von Friedr. Heinr. Jacobi*. Hamburg: 207–278.
+
+[^friedrich-jacobi-1802]: 1802 (2). ‘Über das Unternehmen des Kriticismus, die Vernunft zu Verstande zu bringen, und der Philosophie überhaupt eine neue Absicht zu geben.’ *Beyträge zur leichtern Uebersicht des Zustandes der Philosophie beym Anfange des 19. Jahrhunderts*, C.L. Reinhold (ed.), Hamburg, 3: 1–110.
+
+[^friedrich-jacobi-1802-2]: 1802 (1). ‘Über eine Weissagung Lichtenbergs,’ *Taschenbuch für das Jahr 1802*, J. Georg Jacobi (ed.), Hamburg: Perthes: 3–46.
+
+[^friedrich-jacobi-1799]: 1799. *Jacobi an Fichte*, Hamburg: Perthes. Supplement II was republished in *Werke* II, 1815 (Jacobi, 1812–1825) under the title of ‘Über die Unzertrennlichkeit der Freiheit und Vorsehung von dem Begriffe der Vernunft.’
+
+[^friedrich-jacobi-1796]: 1796. *Woldemar* (2 Theile, Neue verbesserte Ausgabe), Königsberg: Nicolovius.
+
+[^friedrich-jacobi-1795]: 1795. ‘Zufällige Ergießungen eines einsamen Denkers in Briefen an vertraute Freunde,’ J.C.F. Schiller (ed.), *Die Horen*, 3 (8): 1–34.
+
+[^friedrich-jacobi-1794]: 1794. *Woldemar*, 2 Theile. Königsberg: Nicolovius.
+
+[^friedrich-jacobi-1792]: 1792. *Eduard Allwills Briefsammlung, herausgegeben von Friedrich Heinrich Jacobi, mit einer Zugabe von eigenen Briefen*, Königsberg: Nicolovius; 1957, critical edition, J.U. Terpstra (ed.), Groningen: Djakarta, 1957.
+
+[^friedrich-jacobi-1789]: 1789. *Über die Lehre des Spinoza in Briefen an den Herrn Moses Mendelssohn. Neue vermehrte Ausgabe*, Breslau: Gottlieb Löwe.
+
+[^friedrich-jacobi-1788]: 1788. ‘Einige Betrachtungen über den frommen Betrug und über eine Vernunft, welche nicht die Vernunft ist, von Friedrich Heinrich Jacobi in einem Briefe an den Herrn geheimen Hofrath Schlosser.’ *Deutsches Museum*, 1(2): 153–184.
+
+[^friedrich-jacobi-1787]: 1787 (2). *David Hume über den Glauben, oder Idealismus und Realismus. Ein Gespräch*, Breslau: Gottlieb Löwe. 1983 facsimile reproduction that includes the *Vorrede* of 1815, New York and London: Garland.
+
+[^friedrich-jacobi-1787-2]: 1787 (1). Translation of Fr. Hemsterhuis, *Alexis: oder, Von dem goldenen Weltalter*, tr. F.H. Jacobi. Riga: Hartknoch.
+
+[^friedrich-jacobi-1786]: 1786. *Friedrich Heinrich Jacobi wider Mendelssohns Beschuldigungen betreffend die Briefe über die Lehre des Spinoza*. Leipzig: Georg Joachim Goeschen.
+
+[^friedrich-jacobi-1785]: 1785. *Über die Lehre des Spinoza in Briefen an den Herrn Moses Mendelssohn*, Breslau: Gottlieb Löwe.
+
+[^friedrich-jacobi-1782]: 1782. *Etwas das Leßing gesagt hat. Ein Commentar zu den Reisen der Päpste nebst Betrachtungen von einem Dritten*, Berlin: George Jacob Decker.
+
+[^friedrich-jacobi-1781]: 1781 (2). *Vermischte Schriften. Erster Teil*, that includes *Der Kunstgarten*, which is a revision of ‘Ein Stück Philocophie des Lebens und der Menschheit.’ (1779). Breslau: J.F. Korn.
+
+[^friedrich-jacobi-1781-2]: 1781 (1). ‘Über Recht und Gewalt, oder philosophische Erwägung eines Aufsazes von dem Herrn Hofrath Wieland, über das göttliche Recht der Obrigkeit, im deutschen Merkur, November 1777’ *Deutsches Museum*, 1: 522–554.
+
+[^friedrich-jacobi-1779]: 1779 (4). ‘Ein Stück Philosophie des Lebens und der Menschheit: Aus dem zweiten Bande von Woldemar.’ *Deutsches Museum*, 1: 307–348; 393–427.
+
+[^friedrich-jacobi-1779-2]: 1779 (3). *Woldemar. Eine Seltenheit aus der Naturgeschichte*, vol. 1. Flensburg and Leipzig.
+
+[^friedrich-jacobi-1779-3]: 1779 (2). ‘Noch eine politische Rhapsodie, worinn sich verschiedene Plagia befinden; betitelt: Es ist nicht recht, und es ist nicht klug.’ *Baierische Beyträge zur schönen und nützlichen Litteratur*, 1 (5): 418–458.
+
+[^friedrich-jacobi-1779-4]: 1779 (1). ‘Eine politische Rhapsodie. Aus einem Aktenstock entwendet. Ein eingesandtes Stück.’ *Baierische Beyträge zur schönen und nützlichen Litteratur*, 1 (5): 407–418.
+
+[^friedrich-jacobi-1777]: 1777. ‘Freundschaft und Liebe. Eine wahre Geschichte, von der Herausgeber von Eduard Allwills Papiere.’ *Der Teutsche Merkur*, XVIII: 97—107; XIX (1777): 32—49, 229—259; XX (1777): 246—267. This text represents the basis upon which Jacobi will later develop the *Woldemar*.
+
+[^friedrich-jacobi-1776]: 1776. ‘Eduard Allwills Papiere.’ *Der Teutscher Merkur*, XIV.2: 14—75; XV.3 (1776): 57—71; XVI.4 (1776):229—262.
+
+[^friedrich-jacobi-1775]: 1775. ‘Eduard Allwills Papiere.’ *Iris*, IV.3: 193—236.
+
 [^jacobi-1831]: Jacobi/Baggasens, Reinhold, 1831. *Jens Baggasens Briefwechsel mit Karl Leonhard Reinhold und Friedrich Heinrich Jacobi*, 2 volumes, K. & A. Baggasen (eds.), Leipzig: Brockhaus.
 
 [^jacobi-1868]: Jacobi/Bouterwek, 1868. *Fried. Heinr. Jacobi’s Briefe an Friedr. Bouterwek aus dem Jahren 1800 bis 1819*, W. Meyer (ed.) Göttingen: Deuer.

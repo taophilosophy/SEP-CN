@@ -49,7 +49,7 @@ Most competent English speakers who know the meanings of all the constituent wor
 
 **(10)**
 
-#*Not everyone who runs moves – some remain completely still!*
+\#*Not everyone who runs moves – some remain completely still!*
 
 would seem to be in some important way *unintelligible*, very like contradictions in terms (the “#” indicates semantic anomaly). Philosophers standardly refer to sentences of the first set as “synthetic,” those of the second as (at least apparently) “analytic.” (Members of set III are sometimes said to be “analytically false,” although this term is rarely used, and “analytic” is standardly confined to sentences that are regarded as true.) We might call sentences such as (5)–(10) part of the “analytic data” to which philosophers and linguists have often appealed in invoking the distinction (without prejudice, however, to whether such data might otherwise be explained). Some philosophers might want to include in set III what are called *category mistakes* (q.v.) such as #*The number three likes Tabasco sauce*, or #*Saturday is in bed* (cf., Ryle 1949 [2009])[^ryle-1949], but these have figured less prominently in recent discussions, being treated not as semantically anomalous, but as simply false or silly (Quine 1960 [2013, p. 210])[^quine-1960]. (Of course, such sentences might be acceptable in, e.g., poetry or fiction, but such uses are standardly (dis-)regarded as secondary to the literal and scientific uses that have concerned most theorists in this area.)
 

@@ -169,6 +169,30 @@ analytic/synthetic distinction | *a priori* justification and knowledge | Brenta
 
 Alessandro Salice’s sincere thanks go to Jason Dockstader and Danny Forde for reading previous drafts of this entry and to Daniele De Santis, who made his transcription of Theodor Conrad’s unpublished manuscript (Ana 378, V 2) available for quotation.
 
+[^reinach-1989]: 1989, *Sämtliche Werke. Textkritische Ausgabe* [*Collected Works: Critical Edition*], edited by K. Schuhmann and B. Smith, 2 volumes, Munich: Philosophia Verlag.
+
+[^reinach-1921]: 1921, *Gesammelte Schriften*, Halle: Max Niemeyer.
+
+[^reinach-1908]: 1908 [1989h], “Über impersonale Urteile”. Collected in Reinach 1989: 347–350. English translation by Barry Smith, 1982, “On Impersonalia”, in *Parts and Moments. Studies in Logic and Formal Ontology*, Barry Smith (ed.), Munich: Philosophia Verlag, 346–350.
+
+[^reinach-1910]: 1910 [1989g] “Notwendigkeit und Allgemeinheit in Sachverhalt”. Collected in Reinach 1989: 351–354.
+
+[^reinach-1911a]: 1911a [1989e], “Die obersten Regeln der Vernunftschlüsse bei Kant”. Collected in Reinach 1989: 51–66. English translation by James M. DuBois, 1994, “The Supreme Rules of Rational Inference in Kant”, *Aletheia. An International Journal of Philosophy*, 6: 70–97.
+
+[^reinach-1911b]: 1911b [1989a], “Kants Auffassung des Humeschen Problems”, *Zeitschrift für Philosophie und philosophische Kritik*, 141: 176–209. Collected in Reinach 1989: 67–94. English translation by J.N. Mohanty, 1976, “Kant’s Interpretation of Hume’s Problem”, *Southwestern Journal of Philosophy*, 7(2): 161–188. doi:10.5840/swjphil19767230
+
+[^reinach-1911c]: 1911c [1989d], “Zur Theorie des negativen Urteils”. Collected in Reinach 1989: 95–140. English translation by Barry Smith, 1982, “On the Theory of the Negative Judgment”, in *Parts and Moments. Studies in Logic and Formal Ontology*, Barry Smith (ed.), Munich: Philosophia Verlag, 315–346, 351–377.
+
+[^reinach-1912]: 1912 [1989j], “Die Vieldeutigkeit des Wesensbegriffs”. Collected in Reinach 1989: 361–364.
+
+[^reinach-1912-2]: 1912/13 [1989i], “Die Überlegung: ihre ethische und rechtliche Bedeutung”. Collected in Reinach 1989: 279–311. English translation by James Smith and Mette Lebech, 2017, “Reflection: Its Ethical and Legal Significance”, in *Adolf Reinach. Three Texts on Ethics*, James Smith and Mette Lebech (eds), Munich: Philosophia Verlag, 45–164.
+
+[^reinach-1913a]: 1913a [1989b], “Die apriorischen Grundlage des bürgerlichen Rechtes”, *Jahrbuch für Philosophie und phänomenlogische Forschung*, 1(2): 685–847. Collected in Reinach 1989: 141–268. English translation by John F. Crosby, 2012, “The Apriori Foundations of the Civil Law” in *The Apriori Foundations of the Civil Law. Along with the lecture “Concerning Phenomenology”*, John F. Crosby (ed.), with an introduction by Alasdair McIntyre, Berlin: De Gruyter, 1–142. [[Reinach 1913 available online (German)](https://www.ophen.org/pub-101093)]
+
+[^reinach-1913b]: 1913b [1989f] “Einleitung in die Philosophie”. Collected in Reinach 1989: 369–514.
+
+[^reinach-1914]: 1914 [1989c], “Über Phänomenologie”, lecture. Collected in Reinach 1989: 531–550. English translation by Dallas Willard, 2012, “Concerning Phenomenology” in *The Apriori Foundations of the Civil Law. Along with the lecture “Concerning Phenomenology”*, John F. Crosby (ed.), with an introduction by Alasdair McIntyre, Berlin: De Gruyter, 143–166.
+
 [^austin-1962]: Austin, John L., 1962, *How to Do Things with Words* (William James Lectures 1955), Cambridge, MA: Harvard University Press.
 
 [^baltzer-jaray-2009]: Baltzer-Jaray, Kimberly, 2009, “Adolf Reinach is not a Platonist”, *Symposium: Canadian Journal of Continental Philosophy*, 13(1): 100–112. doi:10.5840/symposium20091316

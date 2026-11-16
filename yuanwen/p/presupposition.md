@@ -154,11 +154,11 @@ Presuppositional inferences are typically subject to cancellation by direct deni
 
 **(9)**
 
-#It’s the knave that stole the tarts, but there is no knave.
+\#It’s the knave that stole the tarts, but there is no knave.
 
 **(10)**
 
-#It’s the knave that stole the tarts, but he didn’t do anything illegal.
+\#It’s the knave that stole the tarts, but he didn’t do anything illegal.
 
 The fact that presuppositions associated with unembedded triggers are not cancellable, except in an outright retraction of what the speaker has previously claimed, is one of the features that distinguishes most presuppositions from Gricean conversational implicatures (Grice, 1989)[^grice-1989]. For example, an utterance of (11a) might ordinarily lead to the so-called scalar implicature in (11b). But while this implicature is cancellable, as in (11c), the presupposition that there is a knave, once again, is not cancellable, as shown by the oddity of (11d).
 
@@ -176,7 +176,7 @@ The knave stole most of the tarts—in fact, he stole them all.
 
 **(11d)**
 
-#The knave stole most of the tarts, but there was no knave.
+\#The knave stole most of the tarts, but there was no knave.
 
 We can summarize the typical behavior of entailments, presuppositions, and conversational implicatures as follows:
 
@@ -349,11 +349,11 @@ Fred left. Mary knows that Fred left.
 
 **(21c)**
 
-#It was fierce. There was a storm.
+\#It was fierce. There was a storm.
 
 **(21d)**
 
-#Mary knows that Fred left. Fred left.
+\#Mary knows that Fred left. Fred left.
 
 **Donkey anaphora**
 
@@ -367,11 +367,11 @@ If Fred left then Mary knows that Fred left.
 
 **(22c)**
 
-#If a farmer doesn’t own a donkey, then he beats it.
+\#If a farmer doesn’t own a donkey, then he beats it.
 
 **(22d)**
 
-#If Fred didn’t leave left then Mary knows that Fred left.
+\#If Fred didn’t leave left then Mary knows that Fred left.
 
 **Modal subordination**
 
@@ -385,11 +385,11 @@ Fred might have left. Mary would know that Fred has left.
 
 **(23c)**
 
-#A wolf might come to the door. It’s brown.
+\#A wolf might come to the door. It’s brown.
 
 **(23d)**
 
-#Fred might have left. Mary knows that Fred has left.
+\#Fred might have left. Mary knows that Fred has left.
 
 **Bathroom anaphora**
 
@@ -403,11 +403,11 @@ Either Fred didn’t leave, or else Mary knows that he left.
 
 **(24c)**
 
-#Either there is a bathroom, or else it’s in a funny place.
+\#Either there is a bathroom, or else it’s in a funny place.
 
 **(24d)**
 
-#Either Fred left, or else Mary knows that he left.
+\#Either Fred left, or else Mary knows that he left.
 
 ### 4.2 Satisfaction in local contexts
 
@@ -771,11 +771,11 @@ On the other hand, consider the following:
 
 **(49a)**
 
-#BENEDICT XVI is the incumbent pope, too.
+\#BENEDICT XVI is the incumbent pope, too.
 
 **(49b)**
 
-#Carnap managed to be born on May 18, 1891.
+\#Carnap managed to be born on May 18, 1891.
 
 Given that there is only one incumbent pope and that it can’t have taken Carnap any effort to be born on May 18, 1891, both (49a) and (49b) suffer from presupposition failure. But if someone who knew that there was only one incumbent pope uttered (49a), it would not seem entirely natural to say that they had lied. One might even say that these sentences are *true*, and this intuition does not seem to be topic dependent. The reason for this may be that the presuppositions in question are *incidental* to the primary content of these sentences.
 

@@ -335,6 +335,10 @@ Arabic and Islamic Philosophy, historical and methodological topics in: Greek so
 
 [^mibhar-1947]: 1947. *Sefer Mivhar ha-Peninim*. A. Habermann, (ed.), Jerusalem: Sifriyat haPo'alim.
 
+[^ibn-gabirol-1962]: 1962. *Ozar Ha-Mahshavah shel Ha-Yahadut*, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk. Contains contemporary Hebrew translation by Bar-On of the Arabic text; see second half of the volume after p. 549 (i.e. after the Blovstein and the Falaquera Hebrew translations of *Fons Vitae*), pagination starts again from p. 1; see pp. 1–112. Also contains Hebrew translation of Ibn Tibbon; see third section of the volume after the Bar-On translation; pagination starts again from p. 1; see pp. 1–85.
+
+[^ibn-gabirol-1966]: 1966. *The Improvement of the Moral Qualities*, Columbia University Oriental Studies, Vol. I, Stephen S. Wise (trans.). New York: AMS Press. Arabic text and English translation of Gabirol's *Sefer Tiqun Midot ha-Nefesh*
+
 [^note-2001]: (Note: For some editions of Ibn Gabirol's poetry in English translation, see main bibliography: Cole 2001, Gluck 2003, Lewis 1961, Scheindlin 1986 and 1991.)
 
 [^bialik-1924]: Bialik and Ravnitsky, eds. 1924/1925. *Shirei Shlomo ben Yehudah Ibn Gevirol*, Vol. I–II (*Shirei Hol*). Tel Aviv; Berlin: Dwir-Verlags-Gesellschaft.

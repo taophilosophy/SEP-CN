@@ -533,6 +533,8 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 [^wood-1997]: Wood, Rega (ed./trans.), 1997, *Ockham on the Virtues* (Purdue University Press Series in the History of Philosophy), West Lafayette, IN: Purdue University Press. (Contains a translation of Ockham’s *On the Connection of the Virtues*, with the original Latin text, introduction and commentary.)
 
+[^ockham-nd]: The following list includes all works cited in this article, plus several other noteworthy items:
+
 [^adams-1986]: Adams, Marilyn McCord, 1986, “The Structure of Ockham’s Moral Theory”, *Franciscan Studies*, 46: 1–35. doi:10.1353/frc.1986.0005
 
 [^adams-1987]: –––, 1987, *William Ockham* (Publications in Medieval Studies 26), 2 volumes, Notre Dame, IN: University of Notre Dame Press. Second revised edition, 1989.

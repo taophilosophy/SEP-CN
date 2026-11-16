@@ -258,6 +258,10 @@ The main entry above is by Andrea Staiti. For the 2022 update, a [supplement on 
 
 [^volume-1904]: Volume 2, *Der Gegenstand der Erkenntnis: Historisch-kritische Ausgabe* (The Object of Knowledge: Historical-Critical Edition. Part 1: 2nd Edition (1904). 1st Edition with Editorial Apparatus. Part 2: 6th Edition (1928). 3rd and 4th/5th Edition with Editorial Annotations), 2018.
 
+[^heinrich-rickert-1962]: 1962. *Science and history: A critique of positivist epistemology*, Princeton/Toronto/New York/London: Van Nostrand. Complete translation of Rickert 1926.
+
+[^heinrich-rickert-1986]: 1986. *The Limits of Concept Formation in Natural Science*, Cambridge University Press. Abridged translation of Rickert 1929a.
+
 [^beiser-2011]: Beiser, Frederick, 2011. *The German Historicist Tradition*, Oxford University Press.
 
 [^bohlken-2002]: Bohlken, Eike, 2002. *Grundlagen einer interkulturellen Ethik*: *Perspektiven der transzendentalen Kulturphilosophie Heinrich Rickerts*, Würzburg: Königshausen & Neumann.

@@ -239,6 +239,20 @@ Daoism | dialetheism | Hegel, Georg Wilhelm Friedrich | Japanese Philosophy | Ja
 
 [^nishida-2002]: –––, New Edition 2002–09, twenty four volumes, edited by A. Takeda, K. Riesenhueber, K. Kosaka & M. Fujita, Tokyo: Iwanami Shoten.
 
+[^nishida-kitaro-1911a]: 1911a [1960, reprint edition 1988]. *A Study of the Good*, V.H. Viglielmo (trans.), Westport, Connecticut and London: Greenwood Press.
+
+[^nishida-kitaro-1911b]: 1911b [1989]. *Über das Gute: Eine Philosophie der reinen Erfahrung*, Peter Pörtner (trans.), Frankfurt am Mein and Leipzig.
+
+[^nishida-kitaro-1911c]: 1911c [1990]. *An Inquiry Into the Good*, Masao Abe and Christopher Ives (trans.), New Haven and London: Yale University Press.
+
+[^nishida-kitaro-1911d]: 1911d [2017]. *Uno studio sul bene*, Enrico Fongaro (ed.), Milano: Mimesis.
+
+[^nishida-kitaro-1911]: 1911–12 [2019]. *Pensiero ed esperienza vissuta corporea*, Enrico Fongaro (ed.), Milano: Mimesis.
+
+[^nishida-kitaro-1911-2]: 1911–1934 [2014]. *Kitarō Nishida in der Philosophie des 20. Jahrhunderts*, Rolf Elberfeld and Yōko Arisaka (eds), Rolf Elberfeld (trans.), Freiburg/Munich: Verlag Karl Alber; includes “Vorworte zu *Studie über das Gute*” (1911, 1922, 1936), “Unbeachtet gebliebene Probleme des Bewusstseins” (1926), “Wissenschaftlichte Methode” (1937), “Das Problem der japanishcen Kultur” (1938 lecture), “Östliche und westliche Kulturformen in alter Zeit vom metaphysischen Standpunkt aus gesehen” (1934).
+
+[^nishida-kitaro-1911-3]: 1911–1945a [1995]. *Textos de la filosofía japonesa moderna*, Michoacán: El Colegio de Michoacán; Agustín Jacinto Zavala (trans.); includes:
+
 [^la-1911]: “La experiencia pura” (1911), “Problemas de la cultura japonesa” (1938), “Discurso ente el Tennō: Sobre la filosofía de la historia” (1941),
 
 [^fundamentación-1944]: “Fundamentación filosófica de las matemáticas” (1944), and “Lógica del topos y cosmovisión religiosa” (1945).

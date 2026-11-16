@@ -399,6 +399,8 @@ probability, interpretations of | statistical physics: Boltzmann’s work in | s
 
 Many thanks to John Norton for his helpful suggestions and editing during the production of this article.
 
+[^information-entropy-2003]: A comprehensive annotated bibliography of the subject, up until 2003, is included in the collection (Leff and Rex 2003), which also contains many key articles, mainly supporting the Landauer-Penrose-Bennett position. A detailed analysis of the history of Maxwell's demon, the Szilard engine and critiques of information theoretic exorcisms are in Earman and Norton (1998, 1999) with Norton (2005) providing a similar critique of Landauer's principle.
+
 [^albert-2001]: Albert, D.Z., 2001, *Time and Chance*, Cambridge, Massachusetts: Harvard University Press.
 
 [^allahverdyan-nd]: Allahverdyan, A.E. and T.M. Nieuwenhuizen, “Breakdown of the Landauer bound for information erasure in the quantum regime”, *Physical Review E*, 64: 0561171–0561179.

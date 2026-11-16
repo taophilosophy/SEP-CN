@@ -191,6 +191,52 @@ Also, there are 3 supplementary documents in the Summer 2015 archived version of
 
 convention | diagrams: and diagrammatical reasoning | induction: problem of | logic: inductive | metaphor | nominalism: in metaphysics | predication | reference | relativism
 
+[^goodman-aesthetics-1968a]: 1968a, *Languages of Art: An Approach to a Theory of Symbols*, Indianapolis: The Bobbs-Merrill Company.
+
+[^goodman-aesthetics-1972a]: 1972a, (with Perkins, David, and Howard Gardner), *Basic Abilities Required for Understanding and Creation in the Arts: Final Report*, Cambridge, Mass.: Harvard University, Graduate School of Education: Project No. 9–0283.
+
+[^goodman-aesthetics-1972b]: 1972b, *Problems and Projects*, Indianapolis: The Bobbs-Merrill Company.
+
+[^goodman-aesthetics-1976]: 1976, *Languages of Art: An Approach to a Theory of Symbols*, 2nd edition, Indianapolis: Hackett Publishing Company.
+
+[^goodman-aesthetics-1978a]: 1978a, *Ways of Worldmaking*, Indianapolis: Hackett Publishing Company.
+
+[^goodman-aesthetics-1984]: 1984, *Of Mind and Other Matters*, Cambridge, Mass.: Harvard University Press.
+
+[^goodman-aesthetics-1988]: 1988, (with Catherine Z. Elgin), *Reconceptions in Philosophy and Other Arts and Sciences*, London: Routledge.
+
+[^goodman-aesthetics-1966]: 1966, “Merit as Means,” in Sidney Hook (ed.), *Art and Philosophy,* New York: New York University Press, reprinted in Goodman, 1972b.
+
+[^goodman-aesthetics-1968b]: 1968b, “Art and Inquiry” (Presidential Address), *Proceedings and Addresses of The American Philosophical Association*, Eastern Division, 41, Yellow Springs, OH: Antioch.
+
+[^goodman-aesthetics-1970a]: 1970a, “Some Notes on *Languages of Art*. Reply to Richard Wollheim,” *Journal of Philosophy*, 67, reprinted in Goodman, 1972b.
+
+[^goodman-aesthetics-1970b]: 1970b, (with Howard Gardner), “The Randolph Museum Case,” prepared for the Institute in Arts Administration, Harvard University.
+
+[^goodman-aesthetics-1971]: 1971, “On J. J. Gibson’s New Perspective,” *Leonardo*, 4.
+
+[^goodman-aesthetics-1972c]: 1972c, “Art and Understanding: The Need for a Less Simple-Minded Approach,” *Music Educators Journal* 58.
+
+[^goodman-aesthetics-1974a]: 1974a, “On Reconceiving Cognition,” *The Monist* (Supplement), 58.
+
+[^goodman-aesthetics-1974b]: 1974b, “On Some Questions Concerning Quotation,” *The Monist*, 58.
+
+[^goodman-aesthetics-1975a]: 1975a, “A Message from Mars,” *The Arts Spectrum*, Office of the Arts, Harvard University, 2.
+
+[^goodman-aesthetics-1975b]: 1975b, “The Status of Style,” *Critical Inquiry*, 1.
+
+[^goodman-aesthetics-1975c]: 1975c, “Words, Works, Worlds,” *Erkenntnis*, 9, reprinted in Goodman, 1978a.
+
+[^goodman-aesthetics-1977]: 1977, “When Is Art?” In Perkins, David, and Barbara Leondar (eds.), *The Arts and Cognition*, Baltimore: Johns Hopkins University Press.
+
+[^goodman-aesthetics-1978b]: 1978b, “Comments on Wollheim’s Paper: ‘Are the Criteria of Identity that Hold for a Work of Art in the Different Arts Aesthetically Relevant?’” *Ratio*, 20.
+
+[^goodman-aesthetics-1978c]: 1978c, “Reply to Beardsley,” *Erkenntnis*, 12, reprinted in Goodman, 1984.
+
+[^goodman-aesthetics-1978d]: 1978d, “Reply to Eberle,” *Erkenntnis*, 12, reprinted in Goodman, 1984.
+
+[^goodman-aesthetics-1978e]: 1978e, “Reply to Kjørup,” *Erkenntnis*, 12, reprinted in Goodman, 1984.
+
 [^reply-1984]: 1978f, “Reply to Robinson,” *Erkenntnis*, 12, reprinted in Goodman, 1984.
 
 [^reply-1984-2]: 1978g, “Reply to Rudner,” *Erkenntnis*, 12, reprinted in Goodman, 1984.
@@ -258,6 +304,12 @@ convention | diagrams: and diagrammatical reasoning | induction: problem of | lo
 [^stories-1996]: 1996, “Authenticity,” in Turner, Jane Shoaf (ed.), *The Grover Dictionary of Art*, Oxford: Oxford University Press.
 
 [^stories-1997]: 1997, “Some Reflections on My Philosophies,” *Philosophia Scientiae*, 2.
+
+[^goodman-aesthetics-1972]: 1972, *Hockey Seen: A Nightmare in Three Periods and Sudden Death*, first performed in Cambridge, Mass. Drawings by Katharine Sturgis; author and producer, Nelson Goodman; choreographer, Martha Gray; composer, John C. Adams.
+
+[^goodman-aesthetics-1973]: 1973, *Rabbit, Run*, dance version of John Updike’s novel, first performed at the Agassiz Theatre, Harvard University. Author and producer, Nelson Goodman; choreographer, Martha Gray; composer, Joel Kabakov.
+
+[^goodman-aesthetics-1985d]: 1985d, *Variations: An Illustrated Lecture Concert*, including live or taped performance of David Alpher’s “Las Meninas” Theme and Variations for piano, guitar, oboe, and cello, synchronized with presentation of slides of Las Meninas by Velazquez and of Picasso’s painted variations on it, first performed at the University of Helsinki. Conceptual design by Nelson Goodman.
 
 [^black-1954]: Black, Max, 1954, “Metaphor,” *Proceedings of the Aristotelian Society*, 55, pp. 273–294.
 

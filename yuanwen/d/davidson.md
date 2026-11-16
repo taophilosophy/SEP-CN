@@ -157,6 +157,90 @@ action | anomalous monism | bounded rationality | causation: the metaphysics of 
 
 [^an-1999]: An extensive bibliography of primary and secondary material was compiled by Davidson himself as part of Hahn (ed.) 1999, and although now over 20 years old, it remains useful.
 
+[^davidson-1957]: 1957, *Decision-Making: An Experimental Approach*, with P. Suppes, Stanford: Stanford University Press, reprinted 1977, Chicago: University of Chicago Press, Midway Reprint Series.
+
+[^davidson-1963]: 1963, ‘Actions, Reasons and Causes’, *Journal of Philosophy*, 60: 685–700; reprinted in Davidson 2001a.
+
+[^davidson-1967a]: 1967a, ‘Causal Relations’, *Journal of Philosophy*, 64: 691–703; reprinted in Davidson 2001a.
+
+[^davidson-1967b]: 1967b, ‘The Logical Form of Action Sentences’, in Nicholas Rescher (ed.), *The Logic of Decision and Action*, Pittsburgh: University of Pittsburgh Press, reprinted in Davidson, 2001a.
+
+[^davidson-1967c]: 1967c, ‘Truth and Meaning’, *Synthese*, 17: 304–23; reprinted in Davidson 2001b.
+
+[^davidson-1968]: 1968, ‘On Saying That’, *Synthese*, 19: 130–46; reprinted in Davidson 2001b.
+
+[^davidson-1969a]: 1969a, ‘The Individuation of Events’, in Nicholas Rescher (ed.), *Essays in Honor of Carl G. Hempel*, Dordrecht: D. Reidel, reprinted in Davidson 2001a.
+
+[^davidson-1969b]: 1969b, ‘True to the Facts’, *Journal of Philosophy*, 66: 748–764; reprinted in Davidson 2001b.
+
+[^davidson-1970a]: 1970a, ‘How is Weakness of the Will Possible?’, in Joel Feinberg (ed.), *Moral Concepts*, Oxford: Oxford University Press, reprinted in Davidson 2001a.
+
+[^davidson-1970b]: 1970b, ‘Mental Events’, in Lawrence Foster and J. W. Swanson (eds.), *Experience and Theory*, London: Duckworth, reprinted in Davidson 2001a.
+
+[^davidson-1971]: 1971, ‘Agency’, in Robert Binkley, Richard Bronaugh, and Ausonia Marras (eds.), *Agent, Action, and Reason*, Toronto: University of Toronto Press, reprinted in Davidson 2001a.
+
+[^davidson-1973]: 1973, ‘Radical Interpretation’, *Dialectica*, 27: 314–28; reprinted in Davidson 2001b.
+
+[^davidson-1974]: 1974, ‘On the Very Idea of a Conceptual Scheme’, *Proceedings and Addresses of the American Philosophical Association*, 47: 5–20; reprinted in Davidson 2001b.
+
+[^davidson-1975]: 1975, ‘Thought and Talk’, in S. Guttenplan (ed.), *Mind and Language*, Oxford: Oxford University Press, reprinted in Davidson 2001b
+
+[^davidson-1977]: 1977, ‘The Method of Truth in Metaphysics’, in P.A. French, T.E. Uehling Jr., and H.K. Wettstein (eds.), *Midwest Studies in Philosophy 2: Studies in the Philosophy of Language*, Morris: University of Minnesota Press, reprinted in Davidson 2001b.
+
+[^davidson-1978a]: 1978a, ‘Intending’, in Yirmiahu Yovel (ed.), *Philosophy of History and Action*, Dordrecht: D. Reidel, reprinted in Davidson 2001a.
+
+[^davidson-1978b]: 1978b, ‘What Metaphors Mean’, *Critical Inquiry*, 5: 31–47; reprinted in Davidson 2001b.
+
+[^davidson-1979a]: 1979a, ‘Moods and Performances’, in A. Margalit (ed.), *Meaning and Use*, Dordrecht: D. Reidel, reprinted in Davidson, 2001b.
+
+[^davidson-1979b]: 1979b, ‘Quotation’, *Theory and Decision*, 11, reprinted in Davidson 2001b.
+
+[^davidson-1982a]: 1982a, ‘Rational Animals’, *Dialectica*, 36: 318–27; reprinted in Davidson 2001c.
+
+[^davidson-1982b]: 1982b, ‘Two Paradoxes of Irrationality’, in R. Wollheim and J. Hopkins (eds.) *Philosophical Essays on Freud*, Cambridge: Cambridge University Press, 289–305; reprinted in Davidson 2004
+
+[^davidson-1983]: 1983, ‘A Coherence Theory of Truth and Knowledge’, in D. Henrich (ed.), *Kant oder Hegel?*, Stuttgart: Klett-Cotta; reprinted in Lepore 1986, and Davidson 2001c.
+
+[^davidson-1984]: 1984, ‘First-Person Authority’, *Dialectica*, 38: 101–112; reprinted in Davidson 2001c.
+
+[^davidson-1985a]: 1985a, ‘Adverbs of Action’, in Vermazen and Hintikka (eds.), 1985, reprinted in Davidson 2001a.
+
+[^davidson-1985b]: 1985b, ‘Reply to Quine on Events’, in Lepore and McLaughlin (eds.), 1985, reprinted in Davidson 2001a.
+
+[^davidson-1986]: 1986, ‘A Nice Derangement of Epitaphs’, in Lepore (ed.), 1986, reprinted in Davidson 2005a.
+
+[^davidson-1987]: 1987, ‘Knowing One’s Own Mind’, in *Proceedings and Addresses of the American Philosophical Association*, 61: 441–58; reprinted in Davidson 2001c.
+
+[^davidson-1990a]: 1990a, ‘The Structure and Content of Truth’ (The Dewey Lectures 1989), *Journal of Philosophy*, 87: 279–328.
+
+[^davidson-1990b]: 1990b, *Plato’s ‘Philebus’*, New York: Garland Publishing.
+
+[^davidson-1991]: 1991, ‘Three Varieties of Knowledge’, in A. Phillips Griffiths (ed.), *A.J. Ayer Memorial Essays: Royal Institute of Philosophy Supplement*, 30, Cambridge: Cambridge University Press, reprinted in Davidson 2001c.
+
+[^davidson-1993]: 1993, ‘Thinking Causes’, in John Heil and Alfred Mele (eds.), *Mental Causation*, Oxford: Clarendon Press, reprinted in Davidson 2005a.
+
+[^davidson-1995]: 1995, ‘Laws and Cause,’ *Dialectica*, 49: 263–280; reprinted in Davidson 2005a.
+
+[^davidson-1997]: 1997, *In conversation : Donald Davidson*, videorecording, directed and produced by Rudolf Farra (19 conversations between Davidson and other philosophers), London: Philosophy International, Centre for Philosophy of the Natural and Social Sciences, London School of Economics (see: [https://www.lse.ac.uk/cpnss/research/research-projects/philosophy-archive/research/previous-research/philosophy-international/davidson](https://www.lse.ac.uk/cpnss/research/research-projects/philosophy-archive/research/previous-research/philosophy-international/davidson)).
+
+[^davidson-1999]: 1999, ‘Intellectual Autobiography’, in Hahn (ed.), 1999.
+
+[^davidson-2001a]: 2001a, *Essays on Actions and Events*, Oxford: Clarendon Press, 2nd edn,
+
+[^davidson-2001b]: 2001b, *Inquiries into Truth and Interpretation*, Oxford: Clarendon Press, 2nd edn.
+
+[^davidson-2001c]: 2001c, *Subjective, Intersubjective, Objective*, Oxford: Clarendon Press.
+
+[^davidson-2004]: 2004, *Problems of Rationality*, with introduction by Marcia Cavell and interview with Ernest Lepore, Oxford: Clarendon Press.
+
+[^davidson-2005a]: 2005a, *Truth, Language and History: Philosophical Essays*, with Introduction by Marcia Cavell, Oxford: Clarendon Press.
+
+[^davidson-2005b]: 2005b, *Truth and Predication*, Cambridge, Mass.: Belknap Press.
+
+[^davidson-2006]: 2006, *The Essential Davidson*, ed. Kirk Ludwig and Ernest Lepore, New York: Oxford University Press, contains a selection made up of 15 of Davidson’s essays taken largely from *Essays on Actions and Events* and *Inquiries into Truth and Interpretation*.
+
+[^davidson-2020]: 2020, *The Structure of Truth. The 1970 John Locke Lectures*, edited by Cameron Domenica Kirk-Giannini and Ernest Lepore, Oxford: Oxford University Press.
+
 [^amoretti-2009]: Amoretti, Maria and Nicla Vassalo (eds.), 2009, *Knowledge, Language, and Interpretation: On the Philosophy of Donald Davidson*, Frankfurt-Heusenstamm: Ontos Verlag.
 
 [^baghramian-2013]: Baghramian, Maria (ed.), 2013, *Donald Davidson: Life and Words*, London: Routledge.

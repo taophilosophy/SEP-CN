@@ -284,6 +284,90 @@ Zachary Braiterman is credited as a coauthor on this entry for his work with Mic
 
 [^buber-1926]: 1926–29, *Die Kreatur* [Creation], Berlin: Lambert Schneider. A quarterly edited by Buber with the Protestant psychologist Victor von Weizsäcker and the dissident Catholic theologian Joseph Wittig.
 
+[^buber-1953]: 1953–62, *Die Schrift. Verdeutscht von Martin Buber gemeinsam mit Franz Rosenzweig*, improved and complete edition in four volumes, Cologne: J. Hegner.
+
+[^buber-1953a]: 1953a, *Hinweise. Gesammelte Essays*, Zurich: Manesse.
+
+[^buber-1962]: 1962, *Werke* [abbr. MBW]. Erster Band: *Schriften zur Philosophie*, Munich and Heidelberg: Lambert Schneider.
+
+[^buber-1963a]: 1963a, *Werke*. Dritter Band: *Schriften zum Chassidismus*, Munich and Heidelberg: Lambert Schneider.
+
+[^buber-1963b]: 1963b, *Der Jude und sein Judentum. Gesammelte Aufsätze und Reden*, Cologne: J. Hegner.
+
+[^buber-1964]: 1964, *Werke*. Zweiter Band: *Schriften zur Bibel*, Munich and Heidelberg: Lambert Schneider.
+
+[^buber-1965]: 1965, *Nachlese*. Heidelberg: Lambert Schneider. English translation: 1967a.
+
+[^buber-1972]: 1972–75, *Briefwechsel aus sieben Jahrzehnten*, edited by Grete Schaeder, Volume I: 1897–1918 (1972), Volume II: 1918–1938 (1973), Volume III: 1938–1965 (1975), Heidelberg: Lambert Schneider.
+
+[^buber-1996]: 1996, *The Letters of Martin Buber: A Life of Dialogue*, edited by Nahum Glatzer and Paul Mendes-Flohr, Syracuse: Syracuse University Press.
+
+[^buber-2001]: 2001–2020, *Martin Buber* *Werkausgabe* [abb. MBWA], edited by Paul Mendes-Flohr, Peter Schäfer, Bernd Witte and Martina Urban. Gütersloh: Gütersloher Verlagshaus; De Gryuter/Brill.
+
+[^buber-1937]: 1937, *I and Thou*, transl. by Ronald Gregor Smith, Edinburgh: T. and T. Clark. 2ⁿᵈ Edition New York: Scribners, 1958. 1ˢᵗ Scribner Classics ed. New York, NY: Scribner, 2000, c1986
+
+[^buber-1952]: 1952, *Eclipse of God*, New York: Harper and Bros. 2ⁿᵈ Edition Westport, Conn.: Greenwood Press, 1977.
+
+[^buber-1957]: 1957, *Pointing the Way*, transl. Maurice Friedman, New York: Harper, 1957, 2ⁿᵈ Edition New York: Schocken, 1974.
+
+[^buber-1960]: 1960, *The Origin and Meaning of Hasidism*, transl. M. Friedman, New York: Horizon Press.
+
+[^buber-1964-2]: 1964, *Daniel: Dialogues* *on Realization*, New York, Holt, Rinehart and Winston.
+
+[^buber-1965-2]: 1965, *The Knowledge of Man*, transl. Ronald Gregor Smith and Maurice Friedman, New York: Harper & Row. 2ⁿᵈ Edition New York, 1966.
+
+[^buber-1966]: 1966, *The Way of Response: Martin Buber; Selections from his Writings*, edited by N. N. Glatzer. New York: Schocken Books.
+
+[^buber-1967a]: 1967a, *A Believing Humanism: My Testament*, translation of *Nachlese* (Heidelberg 1965) by M. Friedman, New York: Simon and Schuster.
+
+[^buber-1967b]: 1967b, *On Judaism*, edited by Nahum Glatzer and transl. by Eva Jospe and others, New York: Schocken Books.
+
+[^buber-1968]: 1968, *On the Bible: Eighteen Studies*, edited by Nahum Glatzer, New York: Schocken Books.
+
+[^buber-1970a]: 1970a, *I and Thou*, a new translation with a prologue “I and you” and notes by Walter Kaufmann, New York: Scribner’s Sons.
+
+[^buber-1970b]: 1970b, *Mamre: Essays in Religion*, translated by Greta Hort, Westport, Conn.: Greenwood Press.
+
+[^buber-1970c]: 1970c, *Martin Buber and the Theater, Including Martin Buber’s “Mystery Play” Elijah*, edited and translated with three introductory essays by Maurice Friedman, New York, Funk &Wagnalls.
+
+[^buber-1972-2]: 1972, *Encounter: Autobiographical Fragments*. La Salle, Ill.: Open Court.
+
+[^buber-1973a]: 1973a, *On Zion: the History of an Idea*, with a new foreword by Nahum N. Glatzer, Translated from the German by Stanley Godman, New York: Schocken Books.
+
+[^buber-1973b]: 1973b, *Meetings*, edited with an introduction and bibliography by Maurice Friedman, La Salle, Ill.: Open Court Pub. Co. 3rd ed. London, New York: Routledge, 2002.
+
+[^buber-1983]: 1983, *A Land of Two Peoples: Martin Buber on Jews and Arabs*, edited with commentary by Paul R. Mendes-Flohr, New York: Oxford University Press; 2ⁿᵈ edition, Gloucester.MA: Peter Smith, 1994; 3rd edition, Chicago: University of Chicago Press, 2025, with Forewords by Paul Mendes-Flohr and Raef Zreik.
+
+[^buber-1985]: 1985, *Ecstatic Confessions*, edited by Paul Mendes-Flohr, translated by Esther Cameron, San Francisco: Harper & Row.
+
+[^buber-1991a]: 1991a, *Chinese Tales: Zhuangzi, Sayings and Parables and Chinese Ghost and Love stories*, translated by Alex Page, with an introduction by Irene Eber, Atlantic Highlands, N.J.: Humanities Press International.
+
+[^buber-1991b]: 1991b, *Tales of the Hasidim*, foreword by Chaim Potok, New York: Schocken Books, distributed by Pantheon.
+
+[^buber-1992]: 1992, *On Intersubjectivity and Cultural Creativity*, edited and with an introduction by S.N. Eisenstadt, Chicago: University of Chicago Press.
+
+[^buber-1994]: 1994, *Scripture and Translation*, Martin Buber and Franz Rosenzweig, translated by Lawrence Rosenwald with Everett Fox. Bloomington: Indiana University Press.
+
+[^buber-1996-2]: 1996, *Paths in Utopia*, translated by R.F. Hull. Syracuse: Syracuse University Press.
+
+[^buber-1999a]: 1999a, *The First Buber: Youthful Zionist Writings of Martin Buber*, edited and translated from the German by Gilya G. Schmidt, Syracuse, N.Y.: Syracuse University Press.
+
+[^buber-1999b]: 1999b, *Martin Buber on Psychology and Psychotherapy: Essays, Letters, and Dialogue*, edited by Judith Buber Agassi, with a foreword by Paul Roazin, New York: Syracuse University Press.
+
+[^buber-1999c]: 1999c, *Gog and Magog: A Novel*, translated from the German by Ludwig Lewisohn, Syracuse, NY: Syracuse University Press.
+
+[^buber-2002a]: 2002a, *The Legend of the Baal-Shem*, translated by Maurice Friedman, London: Routledge.
+
+[^buber-2002b]: 2002b, *Between Man and Man*, translated by Ronald Gregor-Smith, with an introduction by Maurice Friedman, London, New York: Routledge.
+
+[^buber-2002c]: 2002c, *The Way of Man: According to the Teaching of Hasidim*, London: Routledge.
+
+[^buber-2002d]: 2002d, *The Martin Buber Reader: Essential Writings*, edited by Asher D. Biemann, New York: Palgrave Macmillan.
+
+[^buber-2002e]: 2002e, *Ten Rungs: Collected Hasidic Sayings*, translated by Olga Marx, London: Routledge.
+
+[^buber-2003]: 2003, *Two Types of Faith*, translated by Norman P. Goldhawk with an afterword by David Flusser, Syracuse, N.Y.: Syracuse University Press.
+
 [^bloch-1983-2]: Bloch, Jochanan/Gordon, Hayyim (ed.), 1983, *Martin Buber. Bilanz seines Denkens*, Freiburg i. B.: Herder.
 
 [^licharz-1989]: Licharz, Werner/Schmidt, Heinz (ed.), 1989, *Martin Buber (1878–1965). Internationales Symposium zum 20. Todestag*. Two volumes (Series: Arnoldshainer Texte), Arnoldshain: Haag and Herchen.

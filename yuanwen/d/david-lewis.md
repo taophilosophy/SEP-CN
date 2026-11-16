@@ -523,6 +523,94 @@ belief | Bell’s Theorem | common knowledge | contextualism, epistemic | conven
 
 I’ve learned a lot over the years from talking about Lewis’s philosophy with Wolfgang Schwarz. I trust his book (2009) is excellent on all these topics, but unfortunately it’s only out in German so far, which I don’t read. But a lot of important points are collected on his [blog](http://www.umsu.de/wo/), which is listed under other internet resources. This entry draws heavily on Daniel Nolan’s excellent book *David Lewis* (2005). Without that book, section 7.5 of this entry wouldn’t exist, section 6.3 would be unintelligible, and every section would be worse. Much of the biographical information in the introduction is taken from Hájek (2008)[^hájek-2008], supplemented by the information in the short biography that written by Stephanie Lewis (2015)[^lewis-2015]. Many people helpfully spotted typos and infelicities of expression in earlier versions of this entry. Thanks especially to Zachary Miller for many suggested improvements and revisions. The bibliography is based in large part on a bibliography provided to me by Stephanie Lewis.
 
+[^david-lewis-1966a]: 1966a, “An Argument for the Identity Theory,” *Journal of Philosophy*, 63 (1): 17–25. doi:10.2307/2024524
+
+[^david-lewis-1966b]: 1966b, “Percepts and Color Mosaics in Visual Experience,” *Philosophical Review*, 75 (3): 357–368. doi:10.2307/2183146
+
+[^david-lewis-1966]: 1966 (with Jane S. Richardson), “Scriven on Human Unpredictability,” *Philosophical Studies*, 17 (5): 69–74.
+
+[^david-lewis-1968]: 1968, “Counterpart Theory and Quantified Modal Logic,” *Journal of Philosophy*, 65 (5): 113–126. doi:10.2307/2024555
+
+[^david-lewis-1968-2]: 1968 (with Wilfrid Hodges), “Finitude and Infinitude in the Atomic Calculus of Individuals,” *Noûs*, 2 (4): 405–410.
+
+[^david-lewis-1969a]: 1969a, *Convention: A Philosophical Study*, Cambridge, MA: Harvard University Press.
+
+[^david-lewis-1969b]: 1969b, “Lucas Against Mechanism,” *Philosophy*, 44 (169): 231–233. doi:10.1017/S0031819100024591
+
+[^david-lewis-1969c]: 1969c, “Policing the Aufbau,” *Philosophical Studies*, 20 (1–2): 13–17.
+
+[^david-lewis-1969d]: 1969d, Review of Capitan and Merrill (eds.), *Art, Mind, and Religion*, *Journal of Philosophy*, 66 (1): 22–27.
+
+[^david-lewis-1970a]: 1970a, “Anselm and Actuality,” *Noûs*, 4 (2): 175–188. doi:10.2307/2214320
+
+[^david-lewis-1970b]: 1970b, “General Semantics,” *Synthese*, 22 (1–2): 18–67. doi:10.1007/BF00413598
+
+[^david-lewis-1970c]: 1970c, “How to Define Theoretical Terms,” *Journal of Philosophy*, 67 (13): 427–446. doi:10.2307/2023861
+
+[^david-lewis-1970d]: 1970d, “Nominalistic Set Theory,” *Noûs*, 4 (3): 225–240.
+
+[^david-lewis-1970]: 1970 (with Stephanie R. Lewis), “Holes,” *Australasian Journal of Philosophy*, 48 (2): 206–212. doi:10.1080/00048407012341181
+
+[^david-lewis-1971a]: 1971a, “Analog and Digital,” *Noûs*, 5 (3): 321–327.
+
+[^david-lewis-1971b]: 1971b, “Completeness and Decidability of Three Logics of Counterfactual Conditionals,” *Theoria*, 37 (1): 74–85.
+
+[^david-lewis-1971c]: 1971c, “Counterparts of Persons and Their Bodies,” *Journal of Philosophy*, 68 (7): 203–211. doi:10.2307/2024902
+
+[^david-lewis-1971d]: 1971d, “Immodest Inductive Methods,” *Philosophy of Science*, 38 (1): 54–63. doi:10.1086/288339
+
+[^david-lewis-1972a]: 1972a, “Psychophysical and Theoretical Identifications,” *Australasian Journal of Philosophy*, 50 (3): 249–258. doi:10.1080/00048407212341301
+
+[^david-lewis-1972b]: 1972b, “Utilitarianism and Truthfulness,” *Australasian Journal of Philosophy*, 50 (1): 17–19. doi:10.1080/00048407212341021
+
+[^david-lewis-1973a]: 1973a, *Counterfactuals*, Oxford: Blackwell Publishers and Cambridge, MA: Harvard University Press, 1973, Reprinted with revisions, 1986.
+
+[^david-lewis-1973b]: 1973b, “Causation,” *Journal of Philosophy*, 70 (17): 556–567. doi:10.2307/2025310
+
+[^david-lewis-1973c]: 1973c, “Counterfactuals and Comparative Possibility,” *Journal of Philosophical Logic*, 2 (4): 418–446. doi:10.1007/BF00262950
+
+[^david-lewis-1973d]: 1973d, “Lingue e lingua,” *Versus*, 4: 2–21.
+
+[^david-lewis-1974a]: 1974a, “Tensions,” in Milton K. Munitz and Peter K. Unger (eds.), *Semantics and Philosophy*, New York: New York University Press, pp. 49–61.
+
+[^david-lewis-1974b]: 1974b, “Intensional Logics Without Iterative Axioms,” *Journal of Philosophical Logic*, 3 (4): 457–466. doi:10.1007/BF00257488
+
+[^david-lewis-1974c]: 1974c, “Radical Interpretation,” *Synthese*, 23 (3–4): 331–344. doi:10.1007/BF00484599
+
+[^david-lewis-1974d]: 1974d, “Semantic Analyses for Dyadic Deontic Logic,” in Sören Stenlund (ed.), *Logical Theory and Semantic Analysis: Essays Dedicated to Stig Kanger on His Fiftieth Birthday*, Dordrecht: Reidel, pp. 1–14.
+
+[^david-lewis-1974e]: 1974e, “Spielman and Lewis on Inductive Immodesty,” *Philosophy of Science*, 41 (1): 84–85. doi:10.1086/288571
+
+[^david-lewis-1975a]: 1975a, “Adverbs of Quantification,” in Edward L. Keenan (ed.), *Formal Semantics of Natural Language*, Cambridge: Cambridge University Press, pp. 3–15.
+
+[^david-lewis-1975b]: 1975b, “Languages and Language,” in Keith Gunderson (ed.), *Minnesota Studies in the Philosophy of Science, Volume VII*, Minneapolis: University of Minnesota Press, pp. 3–35.
+
+[^david-lewis-1975]: 1975 (with Stephanie R. Lewis), Review of Olson and Paul, *Contemporary Philosophy in Scandinavia*, *Theoria*, 41 (1): 39–60.
+
+[^david-lewis-1976a]: 1976a, “Convention: Reply to Jamieson,” *Canadian Journal of Philosophy*, 6 (1): 113–120. doi:10.1080/00455091.1976.10716981
+
+[^david-lewis-1976b]: 1976b, “Probabilities of Conditionals and Conditional Probabilities,” *Philosophical Review*, 85 (3): 297–315. doi:10.2307/2184045
+
+[^david-lewis-1976c]: 1976c, “Survival and Identity,” in Amélie O. Rorty (ed.), *The Identities of Persons*, Berkeley: University of California Press, pp. 17–40.
+
+[^david-lewis-1976d]: 1976d, “The Paradoxes of Time Travel,” *American Philosophical Quarterly*, 13 (2): 145–152.
+
+[^david-lewis-1977a]: 1977a, “Possible-World Semantics for Counterfactual Logics: A Rejoinder,” *Journal of Philosophical Logic*, 6 (1): 359–363. doi:10.1007/BF00262070
+
+[^david-lewis-1978a]: 1978a, “Reply to McMichael,” *Analysis*, 38 (2): 85–86. doi:10.1093/analys/38.2.85
+
+[^david-lewis-1978b]: 1978b, “Truth in Fiction,” *American Philosophical Quarterly*, 15 (1): 37–46.
+
+[^david-lewis-1979a]: 1979a, “A Problem about Permission,” in E. Saarinen et al. (eds.), *Essays in Honour of Jaakko Hintikka*, Dordrecht: Reidel, pp. 163–175.
+
+[^david-lewis-1979b]: 1979b, “Attitudes De Dicto and De Se,” *Philosophical Review*, 88 (4): 513–543. doi:10.2307/2184843
+
+[^david-lewis-1979c]: 1979c, “Counterfactual Dependence and Time’s Arrow,” *Noûs*, 13 (4): 455–476. doi:10.2307/2215339
+
+[^david-lewis-1979d]: 1979d, “Lucas Against Mechanism II,” *Canadian Journal of Philosophy*, 9 (3): 373–376. doi:10.1080/00455091.1979.10716257
+
+[^david-lewis-1979e]: 1979e, “Prisoners’ Dilemma is a Newcomb Problem,” *Philosophy and Public Affairs*, 8 (3): 235–240.
+
 [^scorekeeping-nd]: 1979f, “Scorekeeping in a Language Game,” *Journal of Philosophical Logic*, 8 (1): 339–359. doi:10.1007/BF00258436
 
 [^scorekeeping-1980a]: 1980a, “A Subjectivist’s Guide to Objective Chance,” in Richard C. Jeffrey (ed.), *Studies in Inductive Logic and Probability, Volume II*, Berkeley: University of California Press, pp. 263–293.

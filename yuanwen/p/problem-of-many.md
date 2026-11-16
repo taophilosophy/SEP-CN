@@ -271,6 +271,8 @@ Neither of these points should be taken to be conclusive refutations. As things 
 
 dialetheism | identity: relative | indexicals | intrinsic vs. extrinsic properties | logic: fuzzy | mereology | propositional attitude reports | propositions: singular | Sorites paradox | vagueness
 
+[^problem-of-many-nd]: The numbers after each entry refer to the sections to which that book or article is relevant.
+
 [^armstrong-1978]: Armstrong, D. M., 1978, *Universals and Scientific Realism*. 2 vols. Cambridge: Cambridge University Press. [6]
 
 [^barnes-2010]: Barnes, Elizabeth, 2010, “Ontic Vagueness: A Guide for the Perplexed,” *Noûs*, 44: 601–627. [8]

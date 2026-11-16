@@ -121,3 +121,16 @@
 | ② 工作区分线 | 3 件 ADR-0062 收尾（journal/en-errata/036 log）已由并行会话收编（9cc7cc794），本轮树净 |
 | ③ I3 哨兵标定 | `strip_math_ex` 三计数（spans/oversize/unclosed）＋SENTINEL＋对称性分类；9 例单测；试金石 5 件（3 件噪声隔离✓、1 件无回退✓、sartre/buber 反转**真缺陷**）；全库 8m14s：381 混杂 → 320 math-asymmetric（判据不适用）＋195 真候选。**新缺陷族：书目嵌套 `<li>` 丢弃，129 包受影响**（登记归 018/023 保真线，另立修复卡）。详见 `results/i3-sentinel-trial-20261117.md` |
 | P9 升门前置（更新） | ①195 件逐条定性；②书目嵌套 li 修复（expect≈129）；③math-asymmetric 320 件中 203 兼差件复核；④中文体例全库硬门（挂起至 P8） |
+
+## 2026-11-17 · 书目条目蒸发修复（I3 标定发现项落地，用户批准）
+
+**归因修正（重要）**：前节「书目嵌套 `<li>` 丢弃」归因**作废**——嵌套 li 经实证本会进入 bib_entries（夹具与真件 A/B 双证）。真机制＝**`build_cite_keys` 无姓氏路径整条 `continue`**：主文献区条目以年份起首（作者＝条目主体本人），节首 `prev_surnames` 为空、`_section_author('Bibliography')` 无「Works by X」可依 → sartre 191 进 161 出，30 条文献（含 rybalka-1936b「F. Alcan」整条）蒸发。工具 915 行注释「定义行必须保留，否则整条文献从产物消失」正是本条应守的原则。
+
+| 项 | 结果 |
+| ---- | ---- |
+| 修法 | `build_cite_keys(entry_texts, fallback_author=None)`：无姓氏且无前条可继承时用 `<slug>` 兜底键（键=`sartre-1936a` 式，与既有键约定一致）；pats 不匹配＝未引用 def，不强生文内标记；调用点传 `fallback_author=slug`（1270 行）。ul/ol 分支不动（首版补丁打错层，已回退） |
+| 试金石 | sartre cite_defs 161→**191**（+30 精确吻合）、buber 102→**144**、F. Alcan 落盘 |
+| 全量重转 | **79 件改动、新增 def 行 897**、正文标记重挂 3 处；免抖动下其余 1794 件零改动 |
+| 词面守恒 | 9 件初筛“不合格”逐件解剖＝两类良性：①转义类 5 件（blockquote/行首字面 `#`→`\#`，文字零变化，首版转义修复的延续）；②键位重排类 feyerabend（恢复的 1991 条目入键后既有引注重挂——**落点经页码核验正确**：`(Feyerabend 1991, p. 526)`→`-1991-2`＝Conversation def，pp. 487–527 含 526；Conversation 条目仍在册）。词级守恒（剥标记/还原转义后 old−new 字母差）＝**0 缺字** |
+| 复算 | sartre/buber I3 `--deep` 归零；`check_all` 12 项全绿 |
+| 遗留 | ①「134 包嵌套 li」扫描量的是良性结构属性，与缺陷无关，作废；②500+ 候选面（195−sartre/buber 等）仍待逐条定性；③zh 侧对应件的 defs 差额由回炉/翻译面消化（用户裁定不动） |

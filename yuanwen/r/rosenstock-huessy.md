@@ -267,6 +267,8 @@ Buber, Martin | Christian theology, philosophy and | Heidegger, Martin | Kant, I
 
 [^note-15]: It is interesting to compare this strategy with Franz Rosenzweig, whose *The Star of Redemption* has so often been criticized for its decision to show precisely where Judaism differs from every other way of world-making (including Christianity which he saw as a ‘divine’ ally who would always also be an enemy). In effect, though, Rosenstock-Huessy conceived of his ‘Cross of Reality’ as being the necessary complement of Rosenzweig’s ‘Star’ and that his task, as a Christian, was to discover what was redeemable, and hence capable of being shared universally, in every life-way.
 
+[^rosenstock-huessy-2005]: 2005, *The Collected Works of Eugen Rosenstock-Huessy on DVD*, Norwich, Vt.: Argo Books. This contains all his published writings as well as many unpublished essays and notes and all of the transcribed lectures. See also the [Complete Bibliography of the Works of Rosenstock-Huessy](http://www.erhfund.org/bibliography/).
+
 [^rosenstock-huessy-1910]: 1910, *Herzogsgewalt und Friedensschutz*, Aalen: Scientia Verlag, Breslau: M. & H. Marcus; reprinted 1969.
 
 [^rosenstock-huessy-1914]: 1914, *Königshaus und Stämme in Deutschland zwischen 911 und 1250*, Leipzig: Felix Meiner, Aalen: Scientia Verlag.

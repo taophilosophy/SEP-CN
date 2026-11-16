@@ -419,6 +419,18 @@ The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John 
 
 [^enc-1751]: [*Enc.*] *Encyclopédie des arts et des métiers*, 35 vols., with J. D’Alembert (eds.), Paris: Briasson, 1751–1780. Reprint, Stuttgart/Bad Cannstatt: Frommann, 1966. Different online versions exist, from excerpts and links on [Lexilogos](http://www.lexilogos.com/encyclopedie_diderot_alembert.htm) to the more official [ARTFL](http://encyclopedie.uchicago.edu/) project and the new [ENCRRE project](http://enccre.academie-sciences.fr/).
 
+[^diderot-1744]: 1744, translation of Temple Stanyan, *Histoire de Grèce*
+
+[^diderot-1744-2]: 1744–1748, translation of Robert James, *Dictionnaire universel de médecine* (in 6 volumes)
+
+[^diderot-1745]: 1745, translation and commentary on Shaftesbury, *Essai sur le mérite et la vertu*
+
+[^diderot-1746]: 1746, *Pensées philosophiques* (*Additions* written 1762, published 1770)
+
+[^diderot-1747]: 1747, *Promenade du sceptique*
+
+[^diderot-1748]: 1748, *Mémoires de mathématiques* (including on acoustics)
+
 [^bi-nd]: [*BI*] –––, *Les Bijoux indiscrets*
 
 [^bi-1749]: 1749, *Lettre sur les aveugles*

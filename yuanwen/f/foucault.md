@@ -199,6 +199,24 @@ Foucault never published any of the material developed in these two lecture seri
 
 authenticity | biomedicine, philosophy of | feminist philosophy, topics: perspectives on power | homosexuality | mental disorder | mental representation | punishment, legal | scientific revolutions | sex and sexuality
 
+[^foucault-1954]: 1954, *Maladie mentale et personnalité*, Paris: Presses universitaires de France.
+
+[^foucault-1962]: 1962, *Maladie mentale et psychologie*, Paris: Presses universitaires de France; translated as *Mental Illness and Psychology*, Alan Sheridan (trans.), New York: Harper and Row, 1976. Significantly revised version of the 1954 book.
+
+[^foucault-1972]: 1972, *L’histoire de la folie à l’âge classique*, Paris: Gallimard (first published as *Folie et déraison*, Paris: Plon, 1961); translated as *History of Madness*, Jean Khalfa (ed.), Jonathan Murphy and Jean Khalfa (trans.), New York: Routledge, 2006.
+
+[^foucault-1963]: 1963, *Raymond Roussel*, Paris: Gallimard; translated as *Death and the Labyrinth: The World of Raymond Roussel*, Charles Ruas (trans.), Garden City, NY: Doubleday, 1986.
+
+[^foucault-1963-2]: 1963, *Naissance de la clinique*, Paris: Presses universitaires de France; translated as *The Birth of the Clinic*, Allan Sheridan (trans.), New York: Pantheon, 1973.
+
+[^foucault-1966]: 1966, *Les mots et les choses*, Paris: Gallimard; translated as *The Order of Things*, Alan Sheridan (trans.), London: Routledge, 1970.
+
+[^foucault-1969]: 1969, *L’archéologie du savoir*, Paris: Gallimard; translated as *The Archaeology of Knowledge*, Allan Sheridan (trans.), New York: Harper and Row, 1972.
+
+[^foucault-1971]: 1971, *L’ordre du discours*, Paris: Gallimard; translated as *Untying the Text: A Post-Structuralist Reader*, Robert Young (ed.), Routledge & Kegan Paul, 1981, pp. 51–78.
+
+[^foucault-1975]: 1975, *Surveiller et punir*, Paris: Gallimard; translated as *Discipline and Punish*, Alan Sheridan (trans.), New York: Pantheon, 1977.
+
 [^histoire-nd]: *Histoire de la sexualité*, 3 volumes, Paris: Gallimard; translated as *History of Sexuality*, 3 volumes, Robert Hurley (trans.), New York: Pantheon Books.
 
 [^histoire-1976]: 1976, *La volonté de savoir*; translated as *Introduction*, 1978.

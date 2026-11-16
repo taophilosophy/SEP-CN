@@ -464,6 +464,46 @@ The author thanks Elle Kirsch, who served as research assistant and offered many
 
 [^see-1701]: 1701, *Opuscula posthuma, physica et mathematica*, Amsterdam: Blaeu. DPR [online](http://gallica.bnf.fr/ark:/12148/btv1b8612019j/f1.image.r=.langEN) (pdf). The first publication of the *Rules* in Latin (a Dutch translation had appeared in 1684), together with other writings.
 
+[^descartes-1936]: 1936–1963, *Correspondance*, Charles Adam and Gaston Milhaud (eds.), 8 vols., Paris: Presses Universitaires de France. A complete edition of the known correspondence at date, with French translations accompanying letters in Latin.
+
+[^descartes-1996]: 1996, *Oeuvres de Descartes*,Charles Adam and Paul Tannery (eds.), 11 vols., Paris: Vrin/CNRS, new edition. Remains the standard edition, presenting works in the original French or Latin along with early translations of major works from Latin into French (*Meditations*, *Principles*) or from French into Latin (*Discourse*, *Dioptrics*, *Meteorology*), and also presenting manuscript material and posthumously published works. Cited by volume and page number.
+
+[^descartes-2010]: 2010, *Oeuvres philosophiques*, Fernand Alquié, Denis Moreau (eds.), 3 vols., Paris: Garnier, new edition. Contains major works in French, including correspondence (Latin letters are translated into French), with extensive notes.
+
+[^descartes-2009]: 2009–, *Oeuvres complètes*, Jean-Marie Beyssade and Denis Kambouchner (eds.), 8 vols. Paris: Gallimard. A new edition in French, including correspondence, with Latin facing page for the *Rules*, *Meditations*, and *Principles*. Extensive notes and bibliography, with an overview of both French and English scholarship and some notice of material in German and Italian. (4 volumes have appeared to date.)
+
+[^descartes-1965]: 1965, *Discourse on Method, Optics, Geometry, and Meteorology*, Paul J. Olscamp (trans.), Indianapolis: Bobbs-Merrill.
+
+[^descartes-1972]: 1972, *Treatise of Man*, Thomas S. Hall (trans.), Cambridge: Harvard University Press. With an introduction and many explanatory notes.
+
+[^descartes-1979]: 1979, *Le Monde, ou Traité de la lumiere* = *The World, or Treatise on Light*, Michael S. Mahoney (trans.), New York: Abaris Books. Facing page translation, with an introduction and explanatory notes.
+
+[^descartes-1983]: 1983, *Principles of Philosophy*, V. R. Miller and R. P. Miller (trans.), Dordrecht: Reidel.
+
+[^descartes-1984]: 1984–91, *Philosophical Writings of Descartes*, 3 vols., John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny (ed. and trans.), Cambridge: Cambridge University Press.
+
+[^descartes-1989]: 1989, *Passions of the Soul*, Stephen H. Voss (trans.), Indianapolis: Hackett.
+
+[^descartes-1990]: 1990, *Meditations on First Philosophy = Meditationes de prima philosophia*, George Heffernan (trans.), Notre Dame: University of Notre Dame Press. A literal translation of the six Meditations proper, with facing-page Latin.
+
+[^descartes-1994]: 1994, *Discours de la méthode: pour bein conduire sa raison et chercher la verité dans les sciences = Discourse on the Method: of Conducting One’s Reason Well and of Seeking the Truth in the Sciences*, George Heffernan (trans.), Notre Dame: University of Notre Dame Press. A bilingual edition with an interpretive essay.
+
+[^descartes-1998]: 1998, *Meditations and Other Metaphysical Writings*, Desmond M. Clarke (trans.), London: Penguin.
+
+[^descartes-1998-2]: 1998, *Regulae ad directionem ingenii = Rules for the Direction of the Natural Intelligence: A Bilingual Edition of the Cartesian Treatise on Method*, George Heffernan (trans.), Amsterdam: Editions Rodopi.
+
+[^descartes-1998-3]: 1998, *The World and Other Writings*, Stephen Gaukroger (trans.), Cambridge: Cambridge University Press.
+
+[^descartes-1999]: 1999, *Discourse on Method and Related Writings*, Desmond M. Clarke (trans.), London: Penguin.
+
+[^descartes-2007]: 2007, *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*, Lisa Shapiro (trans.), Chicago: University of Chicago Press.
+
+[^descartes-2006]: 2006, *A Discourse on the Method of Correctly Conducting One’s Reason and Seeking Truth in the Sciences*, Ian Maclean (trans.), Oxford: Oxford University Press.
+
+[^descartes-2008]: 2008, *Meditations on First Philosophy: With Selections from the Objections and Replies*, Michael Moriarty (trans.), Oxford: Oxford University Press. A fresh translation with detailed explanatory notes.
+
+[^descartes-2015]: 2015, *The Passions of the Soul and Other Late Philosophical Writings*, Michael Moriarty (trans.), Oxford: Oxford University Press. Also includes the correspondence with Elisabeth and other letters.
+
 [^ordered-nd]: Ordered alphabetically, translations shown where available.
 
 [^alhazen-2001]: Alhazen, or Ibn al-Haytham, and Witelo. *Opticae thesaurus: Alhazeni Arabis libri septem nunc primum editi; ejusdem Liber de crepusculis et nubium ascensionibus. Item Vitellonis, libri X*, Friedrich Risner (ed.), Basel: Episcopius. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k312873d?rk=21459;2) (pdf). Translation of Alhazen’s theory of vision: *Alhacen’s Theory of Visual Perception: A Critical Edition, with English Translation and Commentary, of the first three books of Alhacen’s De aspectibus, the medieval Latin version of Ibn al-Haytham’s Kitab al-Manazir*, A. Mark Smith (trans.), 2 vols., Philadelphia: American Philosophical Society, 2001. Descartes cites Witelo (10:8).

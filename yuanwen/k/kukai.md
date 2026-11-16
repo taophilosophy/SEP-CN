@@ -251,6 +251,22 @@ Kūkai’s ideas engender an holistic view towards nature and the cosmos as enco
 
 Japanese Philosophy | Japanese Philosophy: Pure Land | Japanese Philosophy: Zen Buddhism | mysticism | pantheism
 
+[^kukai-1972]: 1972. *Kūkai: Major Works Translated, with an Account of his Life and a Study of his Thought*, Yoshito S. Hakeda (trans.), New York: Columbia University Press.
+
+[^kukai-1972-2]: 1972. “Kūkai’s *Sokushin-Jōbutsu-gi* (Principle of Attaining Buddhahood with the Present Body),” H. Inagaki (trans.), *Asia Minor: A British Journal of Far Eastern Studies*, XVII(2): 190–215.
+
+[^kukai-1973]: 1973. *Kōbō daishi Kūkai zenshū* vol. I (*Himitsu mandara jūjūshinron*), Tokyo: Chikuma shobō.
+
+[^kukai-1983]: 1983. *Kōbō daishi Kūkai zenshū* Vol. 2, Tokyo: Chikuma shobō.
+
+[^kukai-1984]: 1984. *Kōbō daishi Kūkai zenshū* Vol. 4, Tokyo: Chikuma shobō.
+
+[^kukai-1985]: 1985. *Sokushinjōbutsugi*, Kanaoka Shūyō (trans. into modern Japanese and commentary), Tokyo: Taiyō shuppan, 1985.
+
+[^kukai-2004]: 2004. *On the Differences between the Exoteric and Esoteric Teachings*; *The Meaning of Becoming a Buddha in This Very Body*; *The Meanings of Sound, Sign, and Reality*; *The Meanings of the Word Hūṃ*; and *The Precious Key to the Secret Treasury*. In: *Shingon Texts*, Rolf W. Giebel (trans.), Berkeley, CA: Bukkyō Dendō Kyōkai and Numata Center for Buddhist Translation and Research.
+
+[^kukai-2010]: 2010. *Kūkai on the Philosophy of Language*, Shingen Takagi and Thomas Eijo Dreitlein (trans.), Tokyo: Keio University Press.
+
 [^abe-1999]: Abe, Ryūichi, 1999, *The Weaving of the Mantra: Kūkai and the Construction of Esoteric Buddhist Discourse*, New York: Columbia University Press.
 
 [^bogel-2009]: Bogel, Cynthea J., 2009, *With a Single Glance: Buddhist Icon and Early Mikkyo Vision*, Seattle: University of Washington Press.

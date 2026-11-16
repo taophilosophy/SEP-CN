@@ -293,6 +293,8 @@ Arabic and Islamic Philosophy, historical and methodological topics in: influenc
 
 [^switalski-1976]: Switalski, Bruno (ed.), 1976, *De Trinitate*, Toronto: Pontifical Institute of Mediaeval Studies.
 
+[^william-auvergne-nd]: The following books all contain useful detailed outlines of the contents of the works translated.
+
 [^brenet-1998]: Brenet, Jean-Baptiste (trans.), 1998, *De l’âme (VII, 1–9)*, Paris: Vrin. French translation of parts of *De anima*.
 
 [^teske-1991]: Teske, Roland J. (trans.), 1991, *The Immortality of the Soul* (Medieval Philosophical Texts in Translation 30), Milwaukee, WI: Marquette University Press. Translation of *De immortalitate animae*.

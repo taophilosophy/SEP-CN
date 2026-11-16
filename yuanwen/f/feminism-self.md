@@ -127,6 +127,8 @@ feminist philosophy, topics: perspectives on class and work | feminist philosoph
 
 The authors would like to thank Noor Imran (Philosophy Ph.D. student, Emory University, as of September 2024) for proof-reading and copy-editing this entry.
 
+[^feminism-self-nd]: In the interests of concision and readability, the present essay mentions only some of the representative works on the feminist literature on the self. These cited works are collated in the Bibliography which appears in the next section of this essay. However, the feminist literature on the self is vast. Lisa Cassidy, Diana Tietjens Meyers, and Ellie Anderson have put together a comprehensive bibliography of this literature; it attempts to cite all of the books and articles that are relevant to the present entry. This comprehensive bibliography is linked into the present essay as the following supplementary document:
+
 [^comprehensive-nd]: [Comprehensive Bibliography of Feminist Perspectives on the Self](feminism-self.bib.md)
 
 [^readers-nd]: Readers are therefore encouraged to pursue additional references by following the above link.

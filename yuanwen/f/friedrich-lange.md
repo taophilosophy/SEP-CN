@@ -410,6 +410,26 @@ The second author also expresses a debt to Frederick Beiser, who sent a box of b
 
 [^lange-1877-2]: 1877, *Logische Studien. Ein Beitrag zur Neubegründung der formalen Logik und der Erkenntnisstheorie*, Iserlohn: J. Baedeker; the manuscript was completed for publication before his death.
 
+[^friedrich-lange-1968a]: 1968a. *Der Bote vom Niederrhein*, October 1865–June 1866, Nos. 1–77; reprinted as one volume: 1968a, *Der Bote vom Niederrhein. Faksimile-Nachdruck der Jahrgänge* 1865/1866, G. Eckert (ed.), Duisburg: Walter Braun.
+
+[^friedrich-lange-1879]: 1879, “Die griechischen Formen und Maße in der deutschen Dichtung: Eine nachgelassene Studie”, *Deutsche Rundschau*, 20: 430–450; reprint 1928b.
+
+[^friedrich-lange-1879-2]: 1879–80, “Über philosophische Bildung”, *Nord und Süd*, 11: 154–170, 270–282, 12: 196–208.
+
+[^friedrich-lange-1894b]: 1894b, “Über den Zusammenhang der Erziehungssysteme mit den herrschenden Weltanschauungen verschiedener Zeitalter. Bonner Antrittsvorlessung 1855.” *Monatshefte der Comenius-Gesellschaft*.
+
+[^friedrich-lange-1897]: 1897, *Einleitung und Kommentar zu Schillers philosophischen Gedichten*, Otto Adolf Ellissen (ed.), Bielefeld and Leipzig,: Velhagen & Klasing.
+
+[^friedrich-lange-1928a]: 1928a, “Über den Zusammenhang der Erziehungssysteme mit den herrschenden Weltanschauungen verschiedener Zeitalter. Bonner Antrittsvorlessung 1855”, in *Material zum Arbeitsunterricht an höheren Schulen, Nr. 71*, O. A. Ellissen (ed.), Bielefeld: Velhagen & Klasing.
+
+[^friedrich-lange-1928b]: 1928b, *Die griechischen Formen und Maße in der deutschen Dichtung*, O. A. Ellissen (ed.), Bielefeld and Leipzig: Velhagen & Klasing.
+
+[^friedrich-lange-1968b]: 1968b, *Über Politik und Philosophie: Briefe und Leitartikel 1862 bis 1875*, G. Eckert (ed.), Duisburg: Walter Braun.
+
+[^friedrich-lange-1975a]: 1975a, *Pädagogik zwischen Politik und Philosophie*, J. H. Knoll (ed.), *Duisburger Hochschulbeiträge 3*, Duisburg: Walter Braun.
+
+[^friedrich-lange-1975b]: 1975b, *Die Arbeiterfrage; Jedermann Hauseigenthümer: Sozialpolitik zwischen Liberalismus und Sozialismus*, Julius Hans Schoeps (ed.), *Duisburger Hochschulbeiträge 4*, Duisburg: Walter Braun.
+
 [^adelmann-2012]: Adelmann, Dieter, 2012, *Schriften aus dem Nachlass von Dieter Adelmann*, Görge Hasselhoff and Beate La Sala (eds.), Potsdam: Universitätsverlag Potsdam.
 
 [^bebel-1958]: Bebel, August, 1958, *Aus meinem Leben*, Berlin: J.H.W. Dietz.
