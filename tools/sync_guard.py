@@ -12,7 +12,10 @@ pull 语义:
   * '+' 件被弃 → 判弃事故，退出码 2，给 reflog 恢复指引；
   * rebase 停在冲突 → 退出码 3，人工解决或 abort。
 status 语义:
-  打印未推送提交数与清单；作业途中应 ≤1，收工时必须为 0。
+  打印未推送提交数与清单。ADR-0059（提交即推，2026-11-16）后常态应为 0：
+  每次 commit 成功即 push；推不出去（代理/网络中断）时记录失败命令与时间，
+  恢复后第一时间补推（rules/06 多机并行）。旧"积压线（途中 ≤1、收工清零）"
+  已由 ADR-0059 作废；收工核对＝`git log origin/main..main` 为空。
 
 退出码: 0 正常；2 非判弃性丢失（事故）；3 rebase 冲突待人工；4 git 异常/前置不满足。
 """
@@ -179,9 +182,11 @@ def cmd_status():
     for _, s in items:
         print(f"  · {s}")
     if not items:
-        print("[sync_guard] 收工判据满足：积压清零。")
+        print("[sync_guard] 收工判据满足：origin/main..main 为空（ADR-0059）。")
     else:
-        print("[sync_guard] 判据：作业途中 ≤1，收工时必须清零（ADR-0028）。")
+        print("[sync_guard] 存在未推送提交：提交即推（ADR-0059）下应立即补推；"
+              "推不出时记录失败命令与时间，恢复后第一时间补推，收工核对以 "
+              "`git log origin/main..main` 为空为准。")
     return EXIT_OK
 
 

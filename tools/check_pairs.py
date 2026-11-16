@@ -15,11 +15,12 @@
       pubinfo-form（出版信息行非正典形态 > *…*）
       ellipsis-form（中文语境省略号非六连点）
 
-体例轴（ADR-0063，s2.4 硬档，`--gate` 模式只对以下几则拦）:
+体例轴（ADR-0063，s2.4 硬档，`--gate` 模式只对 HARD_RULES 拦）:
       tail-order（尾节齐备与顺序：参考文献>学术工具>其他网络资源>相关词条，脚注恒末位；
         译者注释可选末节——ADR-0065）
       heading-number（小节编号点号式 `N.` / `N.N`，与原文一致；跳号同报）
       h1-form（H1 缺作者括号，或与 yuanwen 同件 H1 英文题不符）
+      pubinfo-form（出版信息行斜体正典形，升硬——ADR-0063 判定表）
       errata-apply（全局勘误表落地：承载=译注 的件，正文禁含上游错字形且须有译注承载；
         承载形态过渡期两可——句内 `（译注：…）`（ADR-0062 决策 4 旧形态，迁移随回炉批）
         或 `## 译者注释` 节（ADR-0065 新形态）；两处引用错字形均豁免）
@@ -234,9 +235,12 @@ def check_errata(path, slug, text, issues):
         if in_bib or line.lstrip().startswith(">"):
             continue
         lines.append(line)
-    prose = mask_notes("\n".join(lines))
+    prose_raw = "\n".join(lines)
+    prose = mask_notes(prose_raw)
+    # 承载存在性（specs/040 F-27 收紧）：节条目（圈号开头）或句内括注 `（译注：…）`
+    # 形态锚定——不再用全文「译注」子串（说明文字误命中即漏报承载缺失）。
     has_carrier = bool(_notes and any(CIRCLED_RE.match(ln.lstrip()) for ln in _notes)) \
-        or "译注" in text
+        or re.search(r"[（(]译注[：:]", prose_raw) is not None
     for r in rows:
         carrier = r["carrier"]
         if "译注" not in carrier or "无需译注" in carrier:

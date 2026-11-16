@@ -34,7 +34,7 @@ retranslate: pending → cleared → s0_source_checked（源审计前置）→ d
              → s2_checked → s2.4_termchecked（术语校）→ s2.5_checked（审计已译）→ s3_checked
              → r1_reviewed → r2_reviewed → r3_reviewed → done
 update:      pending → s0_source_checked（仅变更段）→ s1_checked（仅变更段）
-             → s2_checked（变更段所在节）→ s2.4_termchecked（仅变更段）
+             → s2_checked（变更段所在节）→ s2.4_termchecked（术语轴仅变更段；体例/勘误轴全文档，ADR-0063）
              → s2.5_checked（仅变更段）→ s3_checked（全文档）
              → r1_reviewed → r2_reviewed → r3_reviewed → done
 ```
@@ -57,7 +57,7 @@ python tools/task_ops.py advance <slug> --step r3 --actor <执行者> --evidence
 python tools/task_ops.py source-audit <slug> --actor <执行者> --evidence <凭证说明>   # 在途/done 存量补课（ADR-0052，状态不迁移）
 python tools/task_ops.py advance <slug> --unblock --evidence <解除说明>        # 解除阻塞
 python tools/task_ops.py block <slug> --reason <原因>                          # 标记阻塞
-python tools/task_ops.py revert-state <slug> --to s2.5_checked --reason <因>   # 受控回退（仅 s3_checked 及其后状态；ADR-0043）
+python tools/task_ops.py revert-state <slug> --to s2.5_checked|s2.4_termchecked --reason <因>   # 受控回退（源态 s2.5_checked 及其后；ADR-0043，ADR-0063 扩目标态/源态）
 ```
 
 * 退出码：0 成功；1 任务不存在；2 用法错误；3 前置条件不满足。

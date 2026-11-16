@@ -5,6 +5,7 @@
 输出: stdout JSON {files, issues:[{path,line,rule,detail}]}; --connector-scan 另附
       warnings:[{path,line,rule,detail}]（rule=connector-form）
 规则: curly-quotes（弯引号成对/方向，禁直引号/直角引号/日式半角引号）
+      quote-spacing（引号与西文/数字之间须有半角空格，2026-11-15 O2）
       bold-spacing（** 加粗两侧空格，段首块首与标点例外）
       cjk-spacing（汉字与西文/数字之间须有半角空格）
       no-html（HTML 标签残留）、no-text-fence（```text 语言标注）
@@ -32,8 +33,8 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from tools.common import read_text
 
 HAN = r"\u4e00-\u9fff\u3400-\u4dbf"
-RULES = ("curly-quotes", "bold-spacing", "cjk-spacing", "no-html",
-         "no-text-fence", "no-asciiart", "italic-cjk")
+RULES = ("curly-quotes", "quote-spacing", "bold-spacing", "cjk-spacing",
+         "no-html", "no-text-fence", "no-asciiart", "italic-cjk")
 
 HTML_RE = re.compile(r"</?[a-zA-Z][^>]*>")
 ASCIIART_RE = re.compile(r"\b(?:xref|link):[^\s\[]*\[")

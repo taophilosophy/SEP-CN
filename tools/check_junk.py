@@ -83,7 +83,6 @@ ROOT_ALLOW = {
     'fang-fa-lun': '翻译工程方法论散页',
     'guan-yu': '项目说明页',
     'jian-yi-shu': '一次性交付物',
-    'node_modules': 'Node 依赖（忽略，可重建）',
     'public': '站点静态资产',
     'qian-yan': '项目说明页',
     'rules': '全局规则与 ADR',

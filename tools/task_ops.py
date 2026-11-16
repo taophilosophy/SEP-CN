@@ -12,6 +12,9 @@
           → s2.5_checked(仅变更段) → s3_checked(全文档)
           → r1(仅变更段) → r2(变更段所在节) → r3(全文档) → done
 禁止跳步；blocked 标志独立于状态，解除用 advance --unblock。
+合法前驱由 ORDER 单一事实源推导（expected_prev）：目标态不属于该任务 kind 的
+序列即拒（跨 kind 推进），且前驱唯一直接前驱——specs/040 F-01/F-02 收口
+（旧 STEP_EXPECT_PREV 元组并集语义废止）。
 r3 终审（ADR-0054，用户 2026-11-15 裁定）：仅用户显式指定的会话执行，未指定不进行
 R3、条目停 r2_reviewed；advance --step r3 必须带 --mandate <用户指定记录>。
 s0（ADR-0052）：advance --step s0 自动挂 en_integrity＋en_source_audit；
@@ -52,14 +55,24 @@ ORDER = {
                "s2.5_checked", "s3_checked", "r1_reviewed", "r2_reviewed",
                "r3_reviewed", "done"],
 }
-STEP_EXPECT_PREV = {
-    "s0": ("cleared", "pending"),  # 源审计前置（ADR-0052）：retranslate 在 cleared 后，update 在 pending 后
-    "draft": "s0_source_checked", "s1": ("drafted", "s0_source_checked"),
-    "s2": "s1_checked",
-    "s24": "s2_checked", "s25": "s2.4_termchecked", "audit": "s2_checked",
-    "s3": "s2.5_checked", "r1": "s3_checked", "r2": "r1_reviewed",
-    "r3": "r2_reviewed", "done": "r3_reviewed",
-}
+
+
+def expected_prev(kind, step):
+    """步 s 的合法前驱＝ORDER[kind] 中目标态的唯一直接前驱（specs/040 F-01/F-02 收口）。
+
+    取代旧 STEP_EXPECT_PREV 元组表：旧表是「cur ∈ 允许集」的并集语义，跨 kind
+    互通（retranslate 可 pending→s0 跳过 clear、可 s0→s1 跳过 draft），且
+    `audit` 表项在归一化后永不读取（死条目）。现由 ORDER 单一事实源推导：
+    目标态不属于该 kind 序列即拒（update 漂入 drafted 类越界），前驱唯一。
+    """
+    tgt = STEPS[step]
+    order = ORDER[kind]
+    if tgt not in order:
+        raise PreconditionError(
+            "step %s 的目标态 %s 不属于 %s 状态序列（禁止跨 kind 推进，specs/040 F-01）"
+            % (step, tgt, kind))
+    i = order.index(tgt)
+    return None if i == 0 else order[i - 1]
 
 TASKS_DIR = None  # 可注入（测试用）；默认 <repo>/tasks
 
@@ -155,15 +168,15 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
     if step not in STEPS:
         raise UsageError("step 必须是 %s" % "/".join(STEPS))
     if step == "audit":
-        step = "s25"  # 兼容别名（ADR-0043 更名；须在状态迁移校验前归一）
-    order = ORDER[task["kind"]]
+        step = "s25"  # 兼容别名（ADR-0043 更名）：归一后统一走 s25 的前驱推导与挂钩派发
+    order = ORDER.get(task["kind"])
+    if order is None:
+        raise PreconditionError("非法任务类型 %s（状态机仅 retranslate/update）" % task["kind"])
     cur = task["state"]
-    expect = STEP_EXPECT_PREV[step]
-    if isinstance(expect, tuple):
-        if cur not in expect:
-            raise PreconditionError("step %s 要求状态 %s，当前 %s" % (step, expect, cur))
-    elif cur != expect:
-        raise PreconditionError("step %s 要求状态 %s，当前 %s（禁止跳步）" % (step, expect, cur))
+    prev_needed = expected_prev(task["kind"], step)
+    if prev_needed is not None and cur != prev_needed:
+        raise PreconditionError(
+            "step %s 要求状态 %s，当前 %s（禁止跳步）" % (step, prev_needed, cur))
     if cur not in order:
         raise PreconditionError("非法状态 %s" % cur)
     if step != "done" and task["kind"] == "update" and step in ("s0", "s1", "s2", "s24", "s25") \
@@ -248,7 +261,7 @@ def _source_gate(slug):
     """s0_source_checked 校次门禁挂钩（ADR-0052）：en_integrity（包完整性）
     ＋en_source_audit（HTML 本体内容审计，离线档）硬错误拦；告警留 evidence
     逐条定性（机检不作裁判，按 ADR-0062 两路：文字层→全局勘误表＋中文译注，
-    格式层→baseline/en-patches.json 补丁池）。en/ 包缺失即拦（零信任前置）。"""
+    格式层→baseline/en-patches/ 补丁池，一补丁一文件）。en/ 包缺失即拦（零信任前置）。"""
     tools_dir = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
                               "tools")
     for script, label in (("en_integrity.py", "en 包完整性"),

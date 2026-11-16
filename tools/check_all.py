@@ -31,6 +31,10 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # (人读名称, 矩阵键, 命令)。命令相对仓库根：门禁走 tools/，单元测试走模块。
+# 可判性四件套登记（rules/08 §14；specs/040 F-10）：机检谓词＝命令本身；预期
+# 命中数＝硬违例 0（常态全绿；fidelity 预期 no-baseline 2 件历史孤儿豁免不拦，
+# specs/039 P9）；幂等＝全部只读判官（ADR-0063 判定权表）；一行回退＝git revert
+# 引入该门禁的提交（GATES 删行即撤，CI 矩阵自动跟随）。
 GATES = [
     ("SUMMARY 结构审计", "summary", "tools/check_summary.py"),
     ("分类目录对应性", "mulu", "tools/check_mulu_s.py"),

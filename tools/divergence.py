@@ -4,7 +4,7 @@
 baseline/entries.json 的 files[].sha256 永远只记「原始网页 sha」（抓取时的上游
 字节钉，ADR-0027）；ADR-0062 起 en/ **绝对冻结**——与钉逐字节一致，文字层与
 格式层变动一律禁止（文字缺陷→全局勘误表＋中文译注；格式问题→
-baseline/en-patches.json 补丁池）。本账只用于**上游真变**（carry 三方合并）与
+baseline/en-patches/ 补丁池，一补丁一文件，en_patch_lib 唯一解析）。本账只用于**上游真变**（carry 三方合并）与
 审计面，不再登记文字改正：
 
   {slug, path, upstream_sha256, local_sha256, bytes, commit, subject,

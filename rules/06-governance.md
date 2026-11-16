@@ -23,7 +23,7 @@
 * **规则变更走 ADR**：影响面超出单词条的规则修订，在 `rules/adr/NNNN-标题.md` 新建决策记录（背景、决策、后果），再改规则文件；ADR 只追加不删除，废弃标记 superseded。
 * **宪法修订**：提交信息注明“修订宪法 vX.Y”并说明理由（宪法 Governance 节）。
 * **破坏性动作** （批量清空、重命名、结构重排）前置条件：受影响词条已有可信英文基线；动作可由 git 历史回溯；完成后运行对应校验工具并留凭证。
-* **历史改写与批次护栏（tag）**：已裁定允许重写 git 记录（含 force push）。护栏约定：改写或批量动作前先打备份 tag（`git tag backup/<YYYY-MM-DD-说明>`），改写后立即 push 分支与 tag；每完成一个批次打 `batch/<批次名>` tag。tag 不限制自由，只保证任何时刻有退路。
+* **历史改写与批次护栏（tag）**：已裁定允许重写 git 记录（含 force push），**仅限用户显式授权期**（rules/README 判例：force push 属用户授权期专属；日常提交即推沿 ADR-0059 禁 force）。护栏约定：改写或批量动作前先打备份 tag（`git tag backup/<YYYY-MM-DD-说明>`），改写后立即 push 分支与 tag；每完成一个批次打 `batch/<批次名>` tag。tag 不限制自由，只保证任何时刻有退路。
 * **CI 工作流变更** 须同步更新 `rules/05-ci-and-tools.md` 的工作流清单表。
 
 ## 任务方向声明（宪法 VII 落地）
@@ -35,7 +35,7 @@
 本仓库常有多个 AI 会话/人工同时工作，纪律如下：
 
 1. **提交前核对 HEAD**：`git log --oneline -3` + `git status`，确认基点未变；基点变了先 `git diff HEAD` 重放自己的改动。
-2. **提交竞态重试**：commit 失败或“no changes added”时，先检查自己的文件是否已被对方提交卷入，确认内容无误后不必重复提交；确有剩余再补提交。一律 `git commit --no-gpg-sign`（本机无 GPG 签名配置，2026-11-15 自散页《翻译工程标准》S8 折叠收编）。
+2. **提交竞态重试**：commit 失败或“no changes added”时，先检查自己的文件是否已被对方提交卷入，确认内容无误后不必重复提交；确有剩余再补提交。提交默认免签（本机 GPG 已根治：`gpg.program` 指向 gpg4win、关闭自动签名，2026-11-06 用户裁定，与 [05](05-ci-and-tools.md) 提交策略同源）——无需 `--no-gpg-sign`；需要签名时显式 `git commit -S`（交互输口令）。
 3. **推送先 pull**（2026-10-27 教训固化）：`git push` 被拒（non-fast-forward）或对方已推送时，先 `python tools/sync_guard.py pull`（含 fetch+rebase+判弃自检，ADR-0028）再推；带未授权 force push 期间，其他会话应停手或改为先 pull 再推——本日两次 force push 各孤儿化了并行会话的一个提交（587ec741、fb2a3317），其内容需对方会话重新落地。**提交即推**（ADR-0059，2026-11-16 用户裁定）：每次 commit 成功后立即 push，不再等用户要求；本条其余纪律不变。
 4. **目录所有权边界**：词条内容归翻译会话；`specs/`、`.specify/`、`tools/`（管线包）、`baseline/` 归管线会话；`rules/`、`tasks/README.md`、`AGENTS.md` 归治理。跨界修改先在提交信息说明理由。
 5. **不抢改他人正在写的文件**：发现非本人改动先读再动，禁止用 `git checkout --` / `reset --hard` 清理他人未提交工作。
@@ -49,10 +49,10 @@
 * **违例处置**：发现无主会话核对记录的写入（子代理产物），不得计入质量门全绿；须由主会话逐条重做、留证据后重新验收，并在对应 `specs/<NNN>-*/execution-log.md` 记一笔。
 * **历史口径作废**：2026-11-02“不用子代理直译”与 2026-11-06“机械/工程类批量任务至多滚动 3 路子代理”不再有效，不得援引为先例。
 
-### 多机并行（2026-11-09 起，ADR-0026；2026-11-10 定岗分工与积压线，ADR-0028）
+### 多机并行（2026-11-09 起，ADR-0026；sync_guard 判弃自检 ADR-0028；提交即推 ADR-0059；定岗取消收编 ADR-0066）
 
 * 两台机各持**独立克隆**：M1 `C:\Users\ykla\Documents\SEP-CN`（DESKTOP-RLOEIG9）、M2 `D:\SEP-CN`（Desktop-m5p610n）。**唯一同步面是 `origin/main`**，不以对方工作树为真值；共享克隆时代结束。（M1 侧的 `D:` 是映射网络盘 `\\Desktop-m5p610n\d`，只作只读观测，不写。）
-* **分工定岗（ADR-0028，2026-11-10 用户裁定）**：M1 只负责**词条翻译**（含随附术语/人名登记、任务与账本操作）；原始物、抓取管线、术语跑批、全库审阅、规则/ADR/工具维护、上游 intake、更新流程一律归 M2。同工种单机化即互斥，双机不再并行同类工程；M1 会话遇管线/规则/工具问题记录上报，不自行修复（除非用户当场指示）。
+* **分工不设岗（ADR-0066 收编 2026-11-16 用户裁定，取代 ADR-0028 定岗分工）**：任一机可做全部工作，无“词条翻译机／管线机”之分；同工种并行时按批次认领互斥（`campaign.py claim`/`release`），唯一同步面仍是 `origin/main`。ADR-0028 中继续有效的是 sync_guard 判弃自检与孤儿件处置（ADR-0059 已将其“积压线”作废）。
 * 开工先对齐：`git fetch && git status -sb && python tools/sync_guard.py pull`（包装 `pull --rebase`，判弃自检实拦，ADR-0028），落后不干活。
 * **提交即推（ADR-0059，2026-11-16 用户裁定）**：每次 `git commit` 成功后立即 `git push`；推前 `git fetch`，落后先 `python tools/sync_guard.py pull`，被拒重跑再推；`--force` 仍禁。ADR-0028 的“积压线”（途中 ≤1、收工清零）作废，收工核对改为 `git log origin/main..main` 为空；推不出去（代理不可用、网络中断）时记录失败命令与时间，恢复后第一时间补推。批次认领／`campaign.py advance`／条目 done 三个检查点仍必须已推送。
 * **孤儿件处置（ADR-0028）**：本地提交不在远程历史时，先 `git cherry` 判内容是否已在远程；已在→本地弃置；不在→reflog 恢复后推送。处置记入对应 spec execution-log，禁止静默。
@@ -63,7 +63,7 @@
 
 ## 质量门与完成定义
 
-* **一键全量复核**：`python tools/check_all.py`（九项门禁：结构/分类/单体/垃圾/图片引用/术语/引号/学术规范/公式体例 + 管线单元测试，共 10 项；`--all` 另加基线审计与英文镜像复核，共 12 项）——收工前与推审前必跑。
+* **一键全量复核**：`python tools/check_all.py`（十一项门禁：结构/分类/单体/垃圾/图片引用/术语/引号/学术规范/公式体例/原始物分歧账/转换保真 + 管线单元测试，共 12 项；`--all` 另加基线审计、英文镜像复核与分歧深核，共 15 项）——收工前与推审前必跑。
 * **文档任务 done** = 六道与 s2.4/s2.5 前置环节全部完成（状态机 `r3_reviewed → done`，含 `s2.4_termchecked`/`s2.5_checked`，ADR-0040/0043；**r3 终审仅用户显式指定的会话执行，未指定时条目停 r2_reviewed、done 冻结，ADR-0054**）+ 学术规范挂钩通过（s3/r3 自动跑 `check_academic --docs --strict`，0 硬错误）+ `tools/check_style.py` 0 issue + markdownlint 绿 + CI 全绿。
 * **结构改动 done** = `check_summary.py` 与 `check_mulu_s.py` 报告 0 坏链 0 标题不一致；`rebuild_dir.py check` 镜像无缺口。
 * **术语改动 done** = 登记册新行有首现与裁定日期（ADR-0036：发布词汇表已并网删除，无同步步骤）。

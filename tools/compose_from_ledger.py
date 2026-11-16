@@ -1,6 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Compose h/<slug>.md from tasks/h/<slug>.ledger.yaml (step2 join) + tail sections from yuanwen.
+"""【已废弃留档，勿再执行（specs/040 F-25）】旧布局（tasks/h/、h/<slug>.md）拼装器。
+
+ADR-0007 时代的一次性 compose 工具，其目录布局已被 ADR-0009（<letter>/<slug>.md）
+与 tasks/<首字母>/ 取代；尾节拼装现由翻译会话按 rules/04 收口阶段完成，账本拼装
+不再走本脚本。留档仅为历史可追溯；如需复活必须先改路径并过 specs/040 式复算。
+
+--- 以下为原文档说明（按废弃时点冻结） ---
+
+Compose h/<slug>.md from tasks/h/<slug>.ledger.yaml (step2 join) + tail sections from yuanwen.
 
 Usage: python tools/compose_from_ledger.py <slug> [--write]
 

@@ -29,7 +29,7 @@
 开工（每会话按序做完）：
 
 0. **方向确认**：按 `rules/08-intent-first.md` 复述用户到底要什么，写清目标、非目标与验收判据；含糊先问不猜，禁止猜着做；动笔前按 `rules/08` §13 筛查适用标准文献（知难行易的重要体现，ADR-0042）。
-1. **基点核对**：`git log --oneline -5`、`git status`；开工先 `python tools/sync_guard.py pull`（判弃自检实拦，ADR-0028），落后不干活。本机定岗见 ADR-0028：M1 只做词条翻译，M2 管其余全部。
+1. **基点核对**：`git log --oneline -5`、`git status`；开工先 `python tools/sync_guard.py pull`（判弃自检实拦，ADR-0028），落后不干活。双机克隆任一机可做全部工作（定岗取消，ADR-0066 收编 2026-11-16 裁定）。
 2. **读规则地图**：`rules/README.md` 的规则地图与快速判例。
 3. **跑门禁**：`python tools/check_all.py`（十一项门禁加单元测试，共 12 项，应全绿）。
 4. **看进度与任务**：`PROGRESS.md`、`python tools/task_ops.py show <slug>`。
@@ -61,4 +61,4 @@
 
 ## 现状与进度
 
-阶段、计数与主战场一律看 `PROGRESS.md`（`tools/progress.py` 生成）与 `specs/005-translation-campaign/session-handoff.md`（开工卡：status、next、claim）；**本文件不复制数字**（ADR-0015）。多机定岗与同步协议（各持独立克隆、只经 `origin/main` 同步）见 `rules/06-governance.md` 的多机并行一节。
+阶段、计数与主战场一律看 `PROGRESS.md`（`tools/progress.py` 生成）与 `specs/005-translation-campaign/session-handoff.md`（开工卡：status、next、claim）；**本文件不复制数字**（ADR-0015）。多机克隆与同步协议（定岗已取消，ADR-0066；只经 `origin/main` 同步）见 `rules/06-governance.md` 的多机并行一节。

@@ -150,7 +150,7 @@
 
 ## 检查
 
-* 本地预检：`python tools/check_style.py <路径>...`（规则：curly-quotes、bold-spacing、cjk-spacing、no-html、no-text-fence、no-asciiart、italic-cjk；输出 JSON，退出码 0 为无问题）。
+* 本地预检：`python tools/check_style.py <路径>...`（规则：curly-quotes、quote-spacing、bold-spacing、cjk-spacing、no-html、no-text-fence、no-asciiart、italic-cjk；输出 JSON，退出码 0 为无问题）。
 * 连接号形态预检（告警级，ADR-0041）：`python tools/check_style.py <路径>... --connector-scan`——数字区间连接号三形核查（GB/T 15834 §4.13），warnings 不计退出码、不进 CI；存量违例约 196 件 1141 处（connector-scan 摸底），Tier 3 战役未立项前不铺量修改。
 * 语体（文言／仿古、破折号滥用）不做关键词机检：由复核人通读判断并在任务 evidence 留痕（见“语体与文风”）；`check_academic.py` 只校验该类结论是否留痕。
 * CI 复核：markdownlint（唯一配置根目录 `.markdownlint-cli2.jsonc`，ADR-0002；`.github/.markdownlint.json` 副本已于 2026-11-16 退役，ADR-0061）+ `checks.yml` 的 `images` 门禁 + `links.yml` + `format.yml`（三工具矩阵，改动只走 PR 人工核 diff）。

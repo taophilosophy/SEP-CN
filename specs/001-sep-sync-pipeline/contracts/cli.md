@@ -75,7 +75,7 @@
                                             # r3 须加 --mandate <用户指定记录>（终审会话用户指定，ADR-0054；
                                             # 缺失即拒，未指定时条目停 r2_reviewed、不进行 R3）
       source-audit <slug> --actor <名> --evidence <引用>   # 在途/done 存量源审计补课（ADR-0052；追加 s0 记录、状态不迁移）
-      revert-state <slug> --to s2.5_checked --reason <因> --actor <名>   # 受控回退（仅 s3_checked 及其后；ADR-0043）
+      revert-state <slug> --to s2.5_checked|s2.4_termchecked --reason <因> --actor <名>   # 受控回退（源态 s2.5_checked 及其后；ADR-0043，ADR-0063 扩目标态/源态）
       clear <slug>                         清空正文置 cleared（gate: 基线哈希复算）
       block <slug> --reason <文>
       reopen <slug> --actor <名> --reason <原因> [--clear] [--upstream-sync]
@@ -186,6 +186,6 @@
 | en/ 冻结、上游真变与核验 | `divergence.py`（register / carry / unregister / verify / patch / list）；补丁池 `baseline/en-patches/`（一补丁一文件 `<id>.patch`＋`INDEX.json` 生成物）＋`tools/check_en_patches.py` | **ADR-0062**：`en/` 与原始钉逐字节一致，文字层与格式层变动一律禁止；文字缺陷入全局勘误表（`results/en-errata.md`）＋中文译注，格式问题入补丁池由转换层应用（`find/replace/expect` 命中计数硬校验）。分歧账（ADR-0045）只用于**上游真变**：`carry <path> --new <快照>` 三方合并自动随迁（hunk 相交退出码 3 转人工，`--merged` 复跑；解决件=纯上游则自动注销留 tombstone），随迁即归档新上游快照（results/upstream-snapshots/）并前移原始钉；未登记静默改动由 verify 门禁红灯 |
 | 补丁池离线校验 | `tools/check_en_patches.py` | 逐条校验补丁在当前 `en/` 上的命中计数等于 `expect`（上游漂移→失配即报）；转换层（`tools/yuanwen.py`）同源校验，失配即该件转换硬失败 |
 | 全量回源 sha 核对 | `drift_scan.py` | 只读审计：1872 词条 live index.html 对原始钉核对（并发豁免配置 64路×10s，留痕 http-log）；报告落盘 results/drift-scan-<ts>.json；真漂移清单供 compare.py/update 任务消费；不写 en/ 不动台账 |
-| 任务状态机 | `task_ops.py` | s0 挂 en_integrity＋en_source_audit（ADR-0052）；s3/r3 挂 check_academic；r3 须 --mandate 用户指定终审会话（ADR-0054，缺失即拒）；s24 挂 check_terms、s25 挂 check_math_zh（默认档，ADR-0040/0043）；update 任务 s0/s1/s2/s24/s25 证据必须 changes: 开头；进 s3 前历史须有 s0 记录；revert-state 受控回退 |
+| 任务状态机 | `task_ops.py` | s0 挂 en_integrity＋en_source_audit（ADR-0052）；s3/r3 挂 check_academic --strict＋check_math_zh --strict；r3 须 --mandate 用户指定终审会话（ADR-0054，缺失即拒）；s24 挂 check_terms＋check_pairs --gate＋check_style（ADR-0063 双轴）、s25 挂 check_math_zh（默认档）＋check_style（specs/028 O1，ADR-0040/0043）；update 任务 s0/s1/s2/s24/s25 证据必须 changes: 开头；进 s3 前历史须有 s0 记录；revert-state 受控回退（合法前驱由 ORDER 单一事实源推导，specs/040） |
 | 登记册解析/折叠原语 | `register_lib.py`（specs/033） | 两登记册键折叠（A/B/C 三口径）、行解析与 A–Z 分节的唯一实现；check_terms/registry_azsort/term_* 为消费方，禁本地副本；口径增删须走 specs/033 §4.5 并全消费方复验 |
 | H1 同步 | `check_summary.py --sync-headers`（本地）；CI 只读校验 | 本地只读 SUMMARY；别名行不覆盖条目标题；远端不写回（ADR-0024） |

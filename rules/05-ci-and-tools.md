@@ -8,7 +8,7 @@
 
 | 工作流 | 行为 | 触发 |
 | ---- | ---- | ---- |
-| `checks.yml` | 仓库一致性门禁**矩阵**（ADR-0061）：`plan` 作业跑 `tools/check_all.py --list-gates`（`GATES` 是唯一事实源），展开成每门禁一作业——`check_summary.py`（结构审计＋H1 一致性硬门禁，ADR-0024）＋`check_mulu_s.py`＋`check_doc_size.py`（ADR-0004）＋`check_junk.py`（垃圾/产物入库＋根目录白名单，ADR-0023）＋`check_images.py --gate`（图片引用完整性，rules/01）＋`check_terms.py`＋`check_quotes.py`＋`check_academic.py`（rules/07）＋`check_math_zh.py --strict`＋`divergence.py verify`（原始物分歧账，ADR-0045）＋管线单元测试；`fail-fast: false`，红灯作业名即门禁名，失败日志与图片报告入运行工件 | push / 手动 |
+| `checks.yml` | 仓库一致性门禁**矩阵**（ADR-0061）：`plan` 作业跑 `tools/check_all.py --list-gates`（`GATES` 是唯一事实源），展开成每门禁一作业——`check_summary.py`（结构审计＋H1 一致性硬门禁，ADR-0024）＋`check_mulu_s.py`＋`check_doc_size.py`（ADR-0004）＋`check_junk.py`（垃圾/产物入库＋根目录白名单，ADR-0023）＋`check_images.py --gate`（图片引用完整性，rules/01）＋`check_terms.py`＋`check_quotes.py`＋`check_academic.py`（rules/07）＋`check_math_zh.py --strict`＋`divergence.py verify`（原始物分歧账，ADR-0045）＋`check_yuanwen_fidelity.py --gate`（转换保真 I2/I3，ADR-0063）＋管线单元测试；`fail-fast: false`，红灯作业名即门禁名，失败日志与图片报告入运行工件 | push / 手动 |
 | `format.yml` | markdownlint／autocorrect／md-padding 三工具**矩阵**（ADR-0061）：手动触发各自 `--fix` 并各开一条 PR（合并前人工核 diff；禁机械替换译文，rules/05 生成器条）；PR 触发只读 markdownlint（告警级，权威配置根 `.markdownlint-cli2.jsonc`）。禁改区排除 `en/`、`yuanwen/`、两本登记册、`SUMMARY.md`、测试夹具、站点产物 | pull_request / 手动 |
 | `links.yml` | lychee 链接检查；范围单点由 `.github/lychee.toml` 的 `exclude_path` 决定（原文 `en/`、镜像 `yuanwen/`、草稿/运行态/构建产物/夹具不查）。**报告口径（2026-11-16）**：检出死链开 issue，作业本身不硬拦（`fail: true` + `continue-on-error`，以保留真实退出码供 issue 步骤消费；`fail: false` 会加 `--no-fail` 使退出码恒 0、永不开 issue）。日志 `verbose` 保持 `warn`——`trace` 会把每条已检链接写进 job summary，实测 1.7 MB 超 GitHub 1 MB 上限 | 定时（每月 15 日 18:00 UTC）+ 手动 + repository_dispatch |
 | `sep-sync-check.yml` | 每周抓取官方目录与 `.github/sep-baseline/official-snapshot.json` 比对，只报告、不改任何内容文件；报告入运行工件，非 `clean` 时开/更新 issue（`sep-upstream-sync`，抓取/解析失败另标 `sep-sync-broken`） | 定时（周一 18:30 UTC）+ 手动 |
@@ -24,7 +24,7 @@
 
 ## 运行时基线（2026-11-10 起，ADR-0032）
 
-* **Python ≥ 3.15**（本地验证 3.15.2；`tools/` 仅标准库，`check_all` 10 项与单元测试全绿）。
+* **Python ≥ 3.15**（本地验证 3.15.2；`tools/` 仅标准库，`check_all` 11 项门禁与单元测试全绿）。
 * **Node ≥ 26**（本地验证 26.13.0；Vite 8 要求 `^20.19 || >=22.12`，Node 26 满足；站点命令仍走 bun，见 ADR-0014）。
 * **bun ≥ 1.4**（本地 1.4.4；`engines`/`packageManager` 钉在构建壳 `taophilosophy.github.io/package.json`，ADR-0055）。
 * PDF 导出线（`create-pdf.yml`）用 Python 3.15（2026-11-16 用户裁定：随仓基线统一；原“暂留 3.13、待 weasyprint 上游支持”注记作废，ADR-0061）。
@@ -40,7 +40,7 @@
 | `divergence.py` | 原始物分歧账门禁（ADR-0045）：`verify` 三账一致（台账原始钉 ↔ 现文件 ↔ 登记；未登记的静默改 `en/` 即退出码 1，CI 经 check_all 覆盖）；`--deep` 加核 `base_commit` 的 git blob（本地，需完整历史）；`register`/`carry`（三方合并逆向补丁随迁，冲突退出码 3 转人工，`--merged` 复跑，随迁即归档新上游快照并前移钉）/`unregister`/`patch`/`list` |
 | `drift_scan.py` | 全量回源 sha 核对（ADR-0045 跟进项，一次性豁免令 2026-11-15）：1872 词条 live index.html 对原始钉只读审计；64路×10s 已验证并发配置，逐请求留痕、429/5xx 退避不变；报告落盘 specs/001 results/drift-scan-<ts>.json；不进 CI（批量任务按需跑） |
 | `task_ops.py` | 文档任务状态机（show / create / advance / clear / block） |
-| `check_style.py` | 体例检查（引号、空格、HTML/AsciiDoc 残留、italic-cjk；输出 JSON）；`--connector-scan` 连接号形态告警（connector-form，GB/T 15834 §4.13，ADR-0041，告警级不进 CI） |
+| `check_style.py` | 体例检查（引号、quote-spacing、空格、HTML/AsciiDoc 残留、italic-cjk；输出 JSON）；`--connector-scan` 连接号形态告警（connector-form，GB/T 15834 §4.13，ADR-0041，告警级不进 CI） |
 | `check_prose.py` | 语言质量预检（ADR-0020，**告警级**，不进 CI）：长句、被动、弱动词、“的”链、类名“们”、作为一个、存在着、当…的时候 八则＋时态词冗余、并列连词接动词、“成功地” 三则（2026-11-14 扩项，specs/027）反欧化模式；输出 JSON，默认退出码 0，`--strict` 升硬 |
 | `check_render_artifacts.py` | 渲染产物残留物扫描（ADR-0019）：对构建产物 HTML 做文本级检查——裸 `**`（星内空格粗体永不渲染）、字面 `[^`（脚注配对失效）、`](`链接残留、数学哨兵 `@@M`；代码块/预排块内字面量豁免。分期转硬门禁（`raw[^` 待镜像脚注修复后纳入） |
 | `check_images.py` | 图片引用检查（rules/01 图片三条硬性要求）：悬空引用、大小写不符（Windows 不敏感/CI 404）、外部地址、`assets/` 未引用资产；跳过代码块与行内代码，`yuanwen/` 缺位（CI）时跳过镜像引用；报告写 `state/image-report.md`（本地）或 `image-report.md`（CI 开 issue 用），无问题即清除旧报告，默认退出码 0；`--gate` 时悬空/大小写/外链任一 >0 退出 1（check_all 与 CI 门禁用） |
@@ -58,15 +58,28 @@
 | `fetch_audit.py` | 抓取完整性主动闭环：校验每词条包内全部被引用资产在包内，缺件自动补抓（404=缺省件登记）；引用闭包迭代至不动点（一切形如文件名的裸引用皆词条资产——页面/图片/词条自有 js/css/媒体；注释剥离＋实体反解后统计，与浏览器语义一致） |
 | `en_integrity.py` | 英文镜像逐词条深度复核（纯离线）：页面真实性（SEP 签名/截断/零字节）、引用闭包按上游 URL 语义解析（大小写精确、跨词条与子目录资产）、目录结构一致性（在盘文件＝被引用（含跨词条入站）∪已登记，否则游离）、数学形态盘点；全量凭证 `specs/001-sep-sync-pipeline/en-integrity-full.json` |
 | `biblio_audit.py` | 参考文献结构盘点与中文文献定位（ADR-0011）：条目量/链接域统计；三探针（实体解码汉字/典籍专名/作者位拼音）标出需按 ADR-0011 还原的词条与条目，供 s1 一校与质检定位 |
-| `cnki_query.py` | 术语依据查询（ADR-0012 译名依据源）：知网系权威源（CNKI 翻译助手、术语在线）在线查询与缓存 |
+| `cnki_query.py` | 术语依据查询（ADR-0012 译名依据源）：知网系权威源（CNKI 翻译助手、术语在线）在线查询与缓存；2026-11-14 起为存量凭证通道，不再新增查询（rules/03） |
 | `term_audit.py` / `term_harvest.py` | 术语战役工具（specs/008）：登记册审计与候选收割（008 池裁定流水线） |
 | `campaign.py` | 全局统计表与批次调度（specs/005 并行设计）：a–z 批次账本（认领/阶段/断点续上），计数实时推导零漂移，多会话独立无耦合 |
 | `check_math_zh.py` | 译文侧公式体例门禁（021 战役，D26 接线）：C1 宏残留/C2 内侧空白/C3 不可见字符/C4 未转义 %#/C5 中文入公式/C6 裸 $/C7 未转义货币/C8 英连接语/C9 散文 `\\(` 九类；默认 C1–C6+C8 硬错误，`--strict` 加 C7/C9（check_all 与 s3/r3 任务门用 strict） |
 | `check_pairs.py` | 格式配对与一致性预检（ADR-0046，**告警级**，不进 CI）：全角括号/书名号配对与方向（序次语 N）豁免）、文内作者-年份引注与书目一致（en 书目交叉、破折号承接链）、书目键重复、节/书目/公式数量对照（zh vs en/yuanwen）、相对链接悬空、出版信息行形态、省略号六连点；输出 JSON，默认退出码 0，`--strict` 升硬 |
-| `check_all.py` | 一键全量合规复核（十项门禁 + 单元测试；`--all` 加 baseline_audit、en_integrity 与 divergence --deep；`--quiet` 只报失败）；`--list-gates` 输出 CI 门禁矩阵 JSON（`checks.yml` 的唯一数据源，ADR-0061，改门禁只改 `GATES`）；收工前/推审前跑一次 |
+| `check_all.py` | 一键全量合规复核（十一项门禁 + 单元测试，共 12 项；`--all` 另加 baseline_audit、en_integrity 与 divergence --deep，共 15 项；`--quiet` 只报失败）；`--list-gates` 输出 CI 门禁矩阵 JSON（`checks.yml` 的唯一数据源，ADR-0061，改门禁只改 `GATES`）；收工前/推审前跑一次 |
 | `indep_review.py` | 形态横向清账扫描器（ADR-0047，s3 前置独立步骤，**告警级**，不进 CI）：六类判据 `bib-heading-form`（参考文献节名正典，W7）、`pubinfo-form`（出版信息行形态＋与 en 源有无一致，W8）、`bib-subsection`（文献分类子标题丢失）、`style`（check_style 全则，O1）、`quote-adjacent`（引号↔西文邻接，O2，脚注键/链接/转写撇号已遮蔽）、`pairs`（ADR-0046 七则）；默认只扫已译集合，`--letter` 分字头、`--class` 单类、`--all-files` 含存根、`--classes` 列判据 |
 | `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件与 en/ 原始物） |
 | `progress.py` | 生成 `PROGRESS.md` 进度汇总（自动生成，不手改） |
+| `summary_sync.py` | SUMMARY/mu-lu-s 目录同步与 intake（`apply-add` 为新词条接入唯一入口，职责权属见 specs/001 cli.md；report/apply-add/remove） |
+| `sync_guard.py` | 双机同步护栏：`pull`（fetch＋rebase＋判弃自检实拦，ADR-0028）与 `status`（未推送自查；收工核对 `git log origin/main..main` 为空，ADR-0059） |
+| `rebuild_dir.py` | 上游同构重建（ADR-0007 立项）：现役面＝`check` 镜像覆盖核验（rules/06 结构改动 done 判据）；`toletters` 为 ADR-0009 一次性迁移；rebuild/stubs/yuanwen 遗留废弃（specs/040 F-26） |
+| `repair_loop.py` | 断链递归修复（2026-10-27 一次性工具，留档） |
+| `term_coverage.py` / `term_relations.py` | 术语落地全覆盖核验与三表关系审计（specs/008 常态流程；只报告不修改，告警走 rules/03 三出口） |
+| `term_flow.py` | 术语落册统一流水线（rowspec 驱动幂等落册，specs/008） |
+| `registry_azsort.py` | 登记册 A–Z 分节重排（行序守恒门＋幂等，specs/033 消费方） |
+| `gen_en_summary.py` | 生成 GitBook 英文空间 TOC `yuanwen/SUMMARY-en.md`（ADR-0056，生成物不手改） |
+| `en_patch_lib.py` | 补丁池唯一解析实现（目录正本三律＋C2 准入谓词，ADR-0062/0063；消费方＝yuanwen.py/check_en_patches.py） |
+| `common.py` | 管线共享库（UTF-8 读写＋写后读回核验、SHA-256、SUMMARY 三级 zh_doc 匹配；非 CLI） |
+| `compose_from_ledger.py` | 【已废弃留档】旧布局（tasks/h/）账本拼装器（specs/040 F-25） |
+| `migrate_exec.py` | 【已废弃留档】拼音 slug 迁移执行器（ADR-0007/0008 后布局已不存在） |
+| `termonline_token.py` / `tl_browser_batch.py` / `tl_crawler.py` | 术语在线通道三件（token 解密／浏览器批次／编程爬虫，specs/008；2026-11-14 起不再新增查询，存量凭证） |
 | `tests/` | 管线单元测试（unittest，金样本 fixtures） |
 
 * 快速命令：
@@ -127,10 +140,12 @@
 | 转换保真（重放等值与文字流等值） | `check_yuanwen_fidelity.py` | 手改 `yuanwen/` |
 | 中文体例（尾序、编号、H1、脚注位次） | `check_pairs.py`（ADR-0063 扩硬档） | s3 人工顺带 |
 | 中文格式规范（空白、列表符、围栏） | `check_style.py`／`check_quotes.py`（门禁）＋ markdownlint/autocorrect（CI 修复） | 判 `en/` 对错 |
+| 中文引号合规 | `check_quotes.py`（全库总检，直角引号＋冲突标记）＋`check_style.py` curly-quotes/quote-spacing（定点） | 判 `en/` 对错 |
 | 术语一致性 | `check_terms.py` | — |
 | 渲染产物 | `check_render_artifacts.py`＋站点构建 | — |
 
 * **一条规则一个 owner**：新增格式或结构规则先在本表认领；同一判据不得有两个实现（现存的 `autocorrect` 与 `check_style` 的 CJK 空格、`md-padding` 与 `check_style` 的空隙为已知双轨，按本表收敛为"门禁判定、CI 修复"分工，判据口径以门禁为准）。
+* **升门四件套登记（rules/08 §14，specs/040 F-10）**：每条门禁的机检谓词、预期命中数、幂等证明与一行回退登记于 `tools/check_all.py` 的 GATES 注释块；新增门禁的 PR 须附首次全量运行的命中数实测。
 * **fixer 放行自检**（`format.yml` 三条 fix 流水）：PR 合并前须附三项机械证明——①改动行数与文件数在上限内；②同命令二次运行 **diff 为空**（幂等）；③未触及豁免区（参考文献照录、数学定界符、代码块、`en/`、`yuanwen/`）。人工核 diff 是最后一道，不是唯一一道。
 * **测量效度**（扩展到"自报测量须独立复算"）：用作决策证据的计数脚本必须 ①语法感知（成对或栈解析，禁跨元素裸正则——相邻粗体的闭标号会被误当成下一个开标号）；②无隐式窗口截断（或显式声明窗口并给出覆盖率）；③关键数字有第二口径复算。判例：2026-11-16 评估中"290 件粗体内侧空格""28 件缺出版信息"均为工具假数，实测为个位数与 0。
 

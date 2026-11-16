@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
-"""上游同构重建工具（ADR-0007）。
+"""上游同构重建工具（ADR-0007 立项；现役面仅 check，specs/040 F-26 澄清）。
 
-词条目录形态：仓库根 <slug>/index.md（中文）与 yuanwen/<slug>/index.md（英文），
-与上游 entries/<slug>/ 同构（省 entries/ 层）。SUMMARY 条目链接 <slug>/index.md，
-别名行保留并链到目标词条。
+现行词条目录形态为 ADR-0009 的 <letter>/<slug>.md 单文件（中文）与
+yuanwen/<letter>/<slug>.md（英文）镜像。本工具各子命令现状：
 
-用法:
-  python tools/rebuild_dir.py rebuild    # 重写 SUMMARY.md 与 mu-lu-s.md 链接
-  python tools/rebuild_dir.py stubs      # 中文侧骨架 <slug>/index.md（仅 H1）
-  python tools/rebuild_dir.py yuanwen    # yuanwen 扁平迁移 + 英文侧补缺
-  python tools/rebuild_dir.py check      # 核验链接解析与镜像覆盖
+* check        —— 现役：SUMMARY 链接解析与 yuanwen 镜像覆盖核验（0 断链 0 缺镜像，
+                  2026-11-17 实测 1872 件通过；rules/06「结构改动 done」引用的就是它）；
+* toletters    —— 已执行完毕的一次性迁移（根级 <slug>.md → <letter>/<slug>.md，ADR-0009）；
+* rebuild/stubs/yuanwen —— ADR-0007 时代 <slug>/index.md 目录形态的遗留面，已废弃勿再执行。
+
 仅标准库；不访问网络。
 """
 import difflib

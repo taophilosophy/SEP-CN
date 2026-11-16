@@ -67,7 +67,7 @@
 
 ## 图片
 
-* 图片本地化：镜像侧存 `yuanwen/assets/<slug>/`（上游同名 `imageN.jpg`，ADR-0008），`yuanwen/<letter>/<slug>.md` 内写作 `../assets/<slug>/<文件名>`（相对解析到 `yuanwen/assets/`，ADR-0010）；中文词条 `<letter>/<slug>.md` 用同一写法，解析到**根级 `assets/<slug>/`**，即词条图片就地入库（ADR-0023 澄清，2026-11-07 按词条补齐）。抓取原始 HTML 一律存 `en/<slug>/`（原始网页钉＋分歧账双账语义，ADR-0027 起入库；四类勘误可就地改、逐条登记 `baseline/divergences.json`，ADR-0038/0045）。
+* 图片本地化：镜像侧存 `yuanwen/assets/<slug>/`（上游同名 `imageN.jpg`，ADR-0008），`yuanwen/<letter>/<slug>.md` 内写作 `../assets/<slug>/<文件名>`（相对解析到 `yuanwen/assets/`，ADR-0010）；中文词条 `<letter>/<slug>.md` 用同一写法，解析到**根级 `assets/<slug>/`**，即词条图片就地入库（ADR-0023 澄清，2026-11-07 按词条补齐）。抓取原始 HTML 一律存 `en/<slug>/`（原始网页钉，ADR-0027 起入库；**en/ 绝对冻结**——文字缺陷入全局勘误表＋中文译注、格式问题入 `baseline/en-patches/` 补丁池，ADR-0062；分歧账只承载上游真变与审计面，ADR-0045）。
 * 三条硬性要求：每个图片文件至少被一处引用（不得悬空）；引用必须能解析（不得指向缺失文件或外链）；必须本地化存放，禁止外部 URL。
 * 门禁：`python tools/check_images.py`（悬空、大小写不符、外部地址、`assets/` 未引用资产；本地报告写 `state/image-report.md`）；CI 侧为 `checks.yml` 的 `images` 矩阵作业（`--gate` 硬拦，报告入运行工件——2026-11-16 起不再单独开 issue，ADR-0061）。
 * “reprinted with permission” 图片必须在图注标明来源。
@@ -77,4 +77,4 @@
 * 叙事/规则/规格/指南类 markdown 单文件超过 **1000 行或 100KB** 任一，必须按文件夹拆分：`X.md` → `X/index.md` + 按节/附录归类的拼音命名子文件（注：拼音命名仅适用于叙事文档子文件，与词条 SEP slug 命名分属两个约定，见上文废除条款；拼音文件名属**标识符约定**，不受 GB/T 16159-2012 词式书写约束——词式书写仅约束拼音文本，豁免登记 ADR-0041）；`git mv` 保留历史；SUMMARY 收录状态不变。
 * 豁免：登记册（`SUMMARY.md`、`mu-lu-s.md`、`shu-yu-biao.md`（ADR-0036 改名）、`ren-ming-biao.md`（ADR-0012））、生成物（`PROGRESS.md`）；发布词汇表已并网删除（ADR-0036）；豁免文件超限须走 spec 改解析器后另行裁定。
 * 门禁 `python tools/check_doc_size.py`（本地与 `checks.yml`）；SEP 词条本体不在管辖内。
-* **规则文本专用阈值（2026-10-27）**：约束性规则 `rules/0X.md` 超过 **300 行或 30KB** 任一，必须按主题拆分为目录 `rules/0X/`，每文件一主题、分别存放具体规则，规则地图（`rules/README.md`）同步；`check_doc_size` 机检（当前最大 rules/05 74 行，全部达标）。
+* **规则文本专用阈值（2026-10-27）**：约束性规则 `rules/0X.md` 超过 **300 行或 30KB** 任一，必须按主题拆分为目录 `rules/0X/`，每文件一主题、分别存放具体规则，规则地图（`rules/README.md`）同步；`check_doc_size` 机检（当前最大 rules/03 174 行，全部达标）。

@@ -5,7 +5,7 @@
 与 en_integrity.py（包完整性/引用闭包）互补，本工具查内容与结构正确性：
   1. 页面真实性：错误页/风控页标记、</html> 截断；
   2. typo 候选（启发式，只产候选不裁决——人按 ADR-0062 两路定性：文字层→
-     全局勘误表＋中文译注，格式层→baseline/en-patches.json 补丁池）：
+     全局勘误表＋中文译注，格式层→baseline/en-patches/ 补丁池）：
      词内混入数字/等号（`Cambridh=ge`、`3s` 型）、重复词、异常标点串；
   3. 死链：页内锚点（href="#X" → id/name=X）、站内词条链接（/entries/<slug>/
      须在 baseline/entries.json 目录中）、外链盘点；--net 活体检查
@@ -20,7 +20,7 @@
 机检不作裁判（specs/018 先例）：hard 项是 advance --step s0 的门禁（task_ops
 _source_gate）；warn/info 逐条人工定性，处置出口（ADR-0062，en/ 绝对冻结）＝
 全局勘误表（specs/001-sep-sync-pipeline/results/en-errata.md）＋中文译注；
-格式层问题入 baseline/en-patches.json 补丁池；其余登记待考/豁免留痕。死链只
+格式层问题入 baseline/en-patches/ 补丁池（一补丁一文件）；其余登记待考/豁免留痕。死链只
 登记不改正文（外链失效属上游时效，不属缺陷面）。
 
 用法:
