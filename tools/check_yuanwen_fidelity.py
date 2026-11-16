@@ -44,6 +44,9 @@ TOKEN_RE = re.compile(r"[0-9A-Za-z\u00C0-\u024F\u0370-\u03FF\u0400-\u04FF\u4e00-
 FENCE_RE = re.compile(r"^```.*?^```", re.S | re.M)
 CODE_RE = re.compile(r"`[^`]*`")
 MATH_RE = re.compile(r"\$\$.*?\$\$|\$[^$\n]+\$", re.S)
+# I3 标定（specs/039 P9 前置）：数学跨度哨兵与失配上限
+SENTINEL = "\uE000"      # 私有区哨兵：字母流判据下与空格等价，为序列比对预留标记
+MAX_SPAN = 6000          # 超限视为失配 opener（货币 $、缺 closer），按字面保留计 runaway
 BLOCK_RE = re.compile(
     r"</?(?:p|div|br|li|ul|ol|dl|dt|dd|h[1-6]|table|thead|tbody|tr|td|th|"
     r"blockquote|pre|section|figure|figcaption|hr)\b[^>]*>", re.I)
@@ -147,19 +150,21 @@ def _stream_from_text(t):
     t = re.sub(r"<a\b[^>]*>\s*[0-9]+[a-z]?\s*</a>", " ", t, flags=re.I)
     t = re.sub(r"<[^>]+>", "", t)      # 行内标签不断词（<em>A</em>s → As）
     t = html_lib.unescape(t)
-    t = strip_math(t)   # 数学归 check_math 面（转义感知，免 \left( 截断）
-    return t
+    t, stats = strip_math_ex(t)   # 数学归 check_math 面（转义感知，免 \left( 截断）
+    return t, stats
 
 
 def _html_stream(path):
-    return _stream_from_text(read_text(path)) if os.path.exists(path) else ""
+    if not os.path.exists(path):
+        return "", {"spans": 0, "oversize": 0, "unclosed": 0}
+    return _stream_from_text(read_text(path))
 
 
 def html_text(slug):
     """主文＝index.html 正文区；Notes 段来自 notes.html，一并入源流（ADR-0062 包内件）。
 
     图 alt 说明文是 md 侧可见文本（ADR-0037 图注体例），故把 alt 属性并入源流，
-    与 md 的 `![说明](…)` 保 alt 处理对称。
+    与 md 的 `![说明](…)` 保 alt 处理对称。返回 (text, math_stats)。
     """
     base = repo_path("en", slug)
     idx = os.path.join(base, "index.html")
@@ -171,7 +176,7 @@ def html_text(slug):
     # 图 alt 说明文（长文本）是 md 侧可见图注；短 alt 属装饰性图标，不入源流
     alts = [html_lib.unescape(a) for a in re.findall(r'alt="([^"]*)"', region)
             if len(a) >= 40]
-    text = _stream_from_text(raw)
+    text, stats = _stream_from_text(raw)
     if alts:
         text += "\n" + "\n".join(alts)
     notes_path = os.path.join(base, "notes.html")
@@ -179,8 +184,10 @@ def html_text(slug):
         raw = read_text(notes_path)
         # 注页标题「Notes to <条目>」整元素剔出（md 侧只有「Notes」段题）
         raw = re.sub(r"<h2[^>]*>\s*Notes to[\s\S]{0,300}?</h2>", " Notes ", raw, flags=re.I)
-        text += "\n" + _stream_from_text(raw)
-    return text
+        t2, s2 = _stream_from_text(raw)
+        text += "\n" + t2
+        stats = {k: stats[k] + s2[k] for k in stats}
+    return text, stats
 
 
 def md_text(path):
@@ -193,7 +200,7 @@ def md_text(path):
     t = head + sep + body
     t = FENCE_RE.sub(" ", t)
     t = CODE_RE.sub(" ", t)
-    t = strip_math(t)
+    t, stats = strip_math_ex(t)
     t = re.sub(r"!\[(.*)\]\([^)]*\)", r"\1", t)                 # 图：保 alt 说明（与 html alt 对称）
     t = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", t)              # 链接保留文字
     t = re.sub(r"\[\^[^\]]+\]:", " ", t)                        # 引用注释定义前缀
@@ -205,20 +212,31 @@ def md_text(path):
     t = re.sub(r"^[*+-]\s+", " ", t, flags=re.M)
     t = re.sub(r"[*_]{1,3}", "", t)
     t = t.replace("{", "").replace("}", "").replace("|", " ")
-    return t
+    return t, stats
 
 
-def strip_math(text):
-    """转义感知剥离数学定界符内容（`\\(…\\)`、`\\[…\\]`、`$…$`、`$$…$$`）。
+def strip_math_ex(text):
+    """转义感知剥离数学定界符内容（`\\(…\\)`、`\\[…\\]`、`$…$`、`$$…$$`）——v2。
 
+    返回 (text, stats)，stats = {"spans": 成对剥离数, "oversize": 超限跨度数,
+    "unclosed": 缺 closer 数}。
     非贪婪正则会在 `\\left(`、`\\right)` 一类内部括号上提前截断，遗留 TeX 字母，
     使 html 侧凭空多出内容（2026-11-16 全量台账 formal-belief 等 5 万字母级伪差异即此因）。
-    数学内容归 check_math／check_academic 面，本工具两侧一律不计。
+    v2（specs/039 I3 标定）：
+    * 剥离内容统一替换为哨兵 SENTINEL（字母流判据下与空格等价；为序列比对预留标记）；
+    * 跨度超 MAX_SPAN 仍剥离但计 oversize——转换器把相邻公式与中间正文并成一个大跨度时
+      （formal-belief 判例），字母判据对该件不适用，交 math-asymmetric 分类；
+    * 缺 closer 的 opener（货币 `$`、残缺 `\\(`）按字面保留首字符并计 unclosed；
+    * 三项计数供两侧对称性判定（判据见深比对主循环）。数学内容归 check_math／
+      check_academic 面，本工具两侧一律不计。
     """
     out, i, n = [], 0, len(text)
     pairs = {"\\(": "\\)", "\\[": "\\]", "$$": "$$", "$": "$"}
+    spans = oversize = unclosed = 0
     while i < n:
         opener = next((o for o in ("\\(", "\\[", "$$", "$") if text.startswith(o, i)), None)
+        if opener is not None and i > 0 and text[i - 1] == "\\":
+            opener = None          # 转义 opener（`\$` 字面美元号）：连同前导反斜杠按字面走
         if opener is None:
             out.append(text[i]); i += 1
             continue
@@ -230,10 +248,19 @@ def strip_math(text):
             j += 1
         if found < 0:
             out.append(text[i]); i += 1
+            unclosed += 1
             continue
-        out.append(" ")
+        out.append(SENTINEL)
+        spans += 1
+        if found - i > MAX_SPAN:
+            oversize += 1
         i = found + len(closer)
-    return "".join(out)
+    return "".join(out), {"spans": spans, "oversize": oversize, "unclosed": unclosed}
+
+
+def strip_math(text):
+    t, _ = strip_math_ex(text)
+    return t
 
 
 def chars(text):
@@ -293,23 +320,40 @@ def main(argv=None):
     baseline = load_baseline()
     entries = iter_entries(args.slug, args.letter, args.limit)
     issues, deep_checked = [], 0
+    n_asym = 0
     for slug, relpath in entries:
         issues.extend(check_pins(slug, relpath, baseline))
         if args.deep:
-            a = html_text(slug)
-            if a is None:
+            ha = html_text(slug)
+            if ha is None:
                 continue
-            b = md_text(repo_path(relpath))
+            a, st_a = ha
+            b, st_b = md_text(repo_path(relpath))
             deep_checked += 1
+            # 跨度对称性（specs/039 I3 标定）：两侧 spans 不等或任一侧 oversize/
+            # unclosed ＝ 边界解析不对称，字母判据对该件不适用 → math-asymmetric
+            # 软信号单列（不混入 text-stream-diff，防工具噪声冒充内容缺陷）。
+            asym = (st_a["spans"] != st_b["spans"] or st_a["oversize"] or st_b["oversize"]
+                    or st_a["unclosed"] or st_b["unclosed"])
             d = multiset_diff(a, b)
-            if d:
+            if d and not asym:
                 dd = digit_count(a) - digit_count(b)
                 issues.append({"slug": slug, "rule": "text-stream-diff",
                                "detail": "缺 %d 字母「%s」；多 %d「%s」；数字差 %+d（软信号）"
                                          % (d["n_missing"], d["missing"],
                                             d["n_extra"], d["extra"], dd)})
+            elif d and asym:
+                issues.append({"slug": slug, "rule": "math-asymmetric-diff",
+                               "detail": "跨度 html %d(超%d/缺%d) / md %d(超%d/缺%d) 不对称；"
+                                         "字母差 缺%d 多%d（判据不适用，审计档）"
+                                         % (st_a["spans"], st_a["oversize"], st_a["unclosed"],
+                                            st_b["spans"], st_b["oversize"], st_b["unclosed"],
+                                            d["n_missing"], d["n_extra"])})
+            if asym:
+                n_asym += 1
     print(json.dumps({"schema": "sep-cn-yuanwen-fidelity/1",
                       "checked": len(entries), "deep_checked": deep_checked,
+                      "math_asymmetric": n_asym,
                       "issues": issues[:400], "issue_total": len(issues)},
                      ensure_ascii=False, indent=1))
     # --gate 拦 md-hand-edited / source-drift（真脱钩）；no-baseline 为覆盖缺口，

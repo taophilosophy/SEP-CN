@@ -1,0 +1,2009 @@
+{
+ "schema": "sep-cn-yuanwen-fidelity/1",
+ "checked": 1873,
+ "deep_checked": 1871,
+ "math_asymmetric": 320,
+ "issues": [
+  {
+   "slug": "abstract-objects",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 236(超0/缺0) / md 219(超0/缺0) 不对称；字母差 缺0 多17（判据不适用，审计档）"
+  },
+  {
+   "slug": "actualism-possibilism-ethics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 430(超0/缺0) / md 404(超0/缺0) 不对称；字母差 缺0 多26（判据不适用，审计档）"
+  },
+  {
+   "slug": "aesthetic-testimony",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 142「t×17e×14i×14o×11r×11l×11n×9u×8d×8a×6h×5f×5」；数字差 -8（软信号）"
+  },
+  {
+   "slug": "aesthetics-race",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 92「o×11l×10e×9s×8i×8a×8t×6c×6n×6r×4h×3d×3」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "affirmative-action",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 0(超0/缺2) / md 1(超1/缺0) 不对称；字母差 缺13513 多0（判据不适用，审计档）"
+  },
+  {
+   "slug": "agent-modeling-philscience",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 25(超0/缺0) / md 20(超0/缺0) 不对称；字母差 缺8 多5（判据不适用，审计档）"
+  },
+  {
+   "slug": "al-farabi-logic",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 8「pfndtIER」；数字差 -13（软信号）"
+  },
+  {
+   "slug": "al-farabi-metaphysics",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 91「e×11i×9r×8o×8n×8a×7t×7c×5b×4s×4h×3f×3」；数字差 -9（软信号）"
+  },
+  {
+   "slug": "al-khunaji",
+   "rule": "text-stream-diff",
+   "detail": "缺 294 字母「i×35n×30e×30t×24o×23s×22a×20c×15r×13l×12d×11h×11」；多 0「」；数字差 -17（软信号）"
+  },
+  {
+   "slug": "alexander-humboldt",
+   "rule": "text-stream-diff",
+   "detail": "缺 4 字母「lvos」；多 0「」；数字差 +5（软信号）"
+  },
+  {
+   "slug": "algebra",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 850(超0/缺0) / md 846(超0/缺0) 不对称；字母差 缺0 多4（判据不适用，审计档）"
+  },
+  {
+   "slug": "altruism-empirical",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 1345「t×237e×198d×171r×101l×87m×84a×72s×67o×57b×50c×45n×34」；数字差 -29（软信号）"
+  },
+  {
+   "slug": "ambiguity",
+   "rule": "text-stream-diff",
+   "detail": "缺 42 字母「e×8r×4d×4x×4m×2i×2u×2y×2s×2n×2a×2w×2」；多 0「」；数字差 -82（软信号）"
+  },
+  {
+   "slug": "analytic-synthetic",
+   "rule": "text-stream-diff",
+   "detail": "缺 8 字母「o×3t×2enf」；多 0「」；数字差 +2（软信号）"
+  },
+  {
+   "slug": "anaphora",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 110(超0/缺0) / md 105(超0/缺0) 不对称；字母差 缺0 多5（判据不适用，审计档）"
+  },
+  {
+   "slug": "anarchism",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 156「r×21a×20i×12t×12s×11c×10h×10e×10n×8l×8o×7b×6」；数字差 -2（软信号）"
+  },
+  {
+   "slug": "anderson-john",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 20「o×5n×3hAdersPtfy」；数字差 -4（软信号）"
+  },
+  {
+   "slug": "animal-normativity",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 52「e×6t×5s×4f×4i×3l×3u×3n×2o×2r×2y×2p×2」；数字差 -8（软信号）"
+  },
+  {
+   "slug": "apriori",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 5「a×4b」；数字差 -9（软信号）"
+  },
+  {
+   "slug": "arabic-islamic-phil-math",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 87「r×12e×10a×9i×9p×9d×6s×6h×4b×3c×3n×3o×3」；数字差 -3（软信号）"
+  },
+  {
+   "slug": "archytas",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 12「r×2i×2u×2e×2f×2g×2」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "argument",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 171「e×19t×15i×14c×14r×12s×12o×11p×10n×9a×9d×8b×7」；数字差 -36（软信号）"
+  },
+  {
+   "slug": "aristotle-mathematics",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 21「a×6r×3i×3d×3m×3g×3」；数字差 -32（软信号）"
+  },
+  {
+   "slug": "arnauld",
+   "rule": "text-stream-diff",
+   "detail": "缺 8 字母「AneaEmxO」；多 0「」；数字差 +5（软信号）"
+  },
+  {
+   "slug": "artificial-intelligence",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 281(超0/缺0) / md 268(超0/缺0) 不对称；字母差 缺0 多179（判据不适用，审计档）"
+  },
+  {
+   "slug": "astell",
+   "rule": "text-stream-diff",
+   "detail": "缺 171 字母「e×17s×16o×16i×15l×13t×12a×11r×10p×9h×9n×7c×7」；多 0「」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "atheism-agnosticism",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 34「h×4l×4t×3e×3u×3a×2p×2Amndg」；数字差 -4（软信号）"
+  },
+  {
+   "slug": "attention",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 22「t×3e×2i×2r×2h×2a×2ospbld」；数字差 -10（软信号）"
+  },
+  {
+   "slug": "axiom-choice",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 547(超0/缺0) / md 533(超0/缺0) 不对称；字母差 缺405 多19（判据不适用，审计档）"
+  },
+  {
+   "slug": "beauty",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 98「t×12o×9e×8i×8a×7c×7r×6n×6s×5w×5h×4p×3」；数字差 -35（软信号）"
+  },
+  {
+   "slug": "belief-merging",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 262(超0/缺0) / md 245(超0/缺0) 不对称；字母差 缺60 多18（判据不适用，审计档）"
+  },
+  {
+   "slug": "bell-theorem",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 265(超0/缺0) / md 236(超0/缺0) 不对称；字母差 缺0 多29（判据不适用，审计档）"
+  },
+  {
+   "slug": "benjamin",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 191「t×54d×32r×19o×12a×11l×10b×10e×8n×6m×6s×6c×4」；数字差 -15（软信号）"
+  },
+  {
+   "slug": "berlin",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 0(超0/缺1) / md 0(超0/缺1) 不对称；字母差 缺0 多124（判据不适用，审计档）"
+  },
+  {
+   "slug": "bioethics-latin-america",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 50「i×5t×5w×5o×4e×4s×4a×4n×3p×3l×3h×2c×2」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "biology-developmental",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 30「t×5l×4e×2o×2p×2i×2g×2r×2nysu」；数字差 -12（软信号）"
+  },
+  {
+   "slug": "biology-experiment",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 18「e×3r×2i×2m×2n×2g×2ohaLf」；数字差 -15（软信号）"
+  },
+  {
+   "slug": "biology-individual",
+   "rule": "text-stream-diff",
+   "detail": "缺 152 字母「e×20i×16d×16o×12a×12n×12t×12l×8r×8g×4c×4s×4」；多 0「」；数字差 -3（软信号）"
+  },
+  {
+   "slug": "bodin",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 56「t×9o×6i×5w×5n×4b×4e×3r×3h×3d×2s×2p×2」；数字差 -31（软信号）"
+  },
+  {
+   "slug": "bohr-correspondence",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 128(超0/缺0) / md 106(超0/缺0) 不对称；字母差 缺0 多116（判据不适用，审计档）"
+  },
+  {
+   "slug": "bolzano-logic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 275(超0/缺0) / md 266(超0/缺0) 不对称；字母差 缺1428 多9（判据不适用，审计档）"
+  },
+  {
+   "slug": "bolzano",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 659(超0/缺0) / md 615(超0/缺0) 不对称；字母差 缺0 多44（判据不适用，审计档）"
+  },
+  {
+   "slug": "boolalg-math",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 172(超0/缺0) / md 163(超0/缺0) 不对称；字母差 缺0 多9（判据不适用，审计档）"
+  },
+  {
+   "slug": "boole",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 576(超0/缺0) / md 572(超0/缺0) 不对称；字母差 缺0 多4（判据不适用，审计档）"
+  },
+  {
+   "slug": "bounded-rationality",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 105(超0/缺0) / md 100(超0/缺0) 不对称；字母差 缺0 多19（判据不适用，审计档）"
+  },
+  {
+   "slug": "bradley",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 7「raebdly」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "branching-time",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 555(超0/缺0) / md 523(超0/缺0) 不对称；字母差 缺0 多62（判据不适用，审计档）"
+  },
+  {
+   "slug": "brentano-judgement",
+   "rule": "text-stream-diff",
+   "detail": "缺 6 字母「retasu」；多 0「」；数字差 -8（软信号）"
+  },
+  {
+   "slug": "brouwer",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 48「t×5r×5p×5e×4a×4i×3n×3s×3l×3d×3u×2b×2」；数字差 -12（软信号）"
+  },
+  {
+   "slug": "buber",
+   "rule": "text-stream-diff",
+   "detail": "缺 3910 字母「e×436r×294a×293n×292i×251t×237o×224s×206d×184l×133h×115u×111」；多 0「」；数字差 +268（软信号）"
+  },
+  {
+   "slug": "burke",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 22「t×4w×3m×2b×2l×2h×2repoac」；数字差 -6（软信号）"
+  },
+  {
+   "slug": "cardano",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 4「n×2oe」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "category-theory",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 316(超0/缺0) / md 313(超0/缺0) 不对称；字母差 缺0 多3（判据不适用，审计档）"
+  },
+  {
+   "slug": "causal-explanation-science",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 21(超0/缺0) / md 20(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "causal-models",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 506(超0/缺1) / md 543(超0/缺1) 不对称；字母差 缺59602 多224（判据不适用，审计档）"
+  },
+  {
+   "slug": "causation-probabilistic",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 38「s×6a×5i×5t×3r×2o×2b×2c×2u×2e×2g×2l」；数字差 -20（软信号）"
+  },
+  {
+   "slug": "causation-regularity",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 632(超0/缺0) / md 618(超0/缺0) 不对称；字母差 缺0 多14（判据不适用，审计档）"
+  },
+  {
+   "slug": "cell-biology",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 80「a×9e×8i×7s×6g×6c×6l×5o×5p×5m×5r×4n×4」；数字差 -2（软信号）"
+  },
+  {
+   "slug": "cellular-automata",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 98(超0/缺0) / md 78(超0/缺0) 不对称；字母差 缺0 多206（判据不适用，审计档）"
+  },
+  {
+   "slug": "chance-randomness",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 452(超0/缺0) / md 389(超0/缺0) 不对称；字母差 缺0 多251（判据不适用，审计档）"
+  },
+  {
+   "slug": "chaos",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 185(超0/缺0) / md 172(超0/缺0) 不对称；字母差 缺0 多13（判据不适用，审计档）"
+  },
+  {
+   "slug": "chemistry",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 107「a×16r×12i×10c×8t×7d×7n×7o×6e×6l×4m×4b×3」；数字差 -7（软信号）"
+  },
+  {
+   "slug": "chinese-change",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 32「u×4h×3n×3s×3t×3e×2o×2d×2ilpy」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "church-turing",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 157(超0/缺0) / md 155(超0/缺0) 不对称；字母差 缺0 多2（判据不适用，审计档）"
+  },
+  {
+   "slug": "civil-rights",
+   "rule": "text-stream-diff",
+   "detail": "缺 193 字母「i×25n×25o×21t×17e×14a×13l×9s×9r×9m×7A×4f×4」；多 0「」；数字差 +18（软信号）"
+  },
+  {
+   "slug": "collins",
+   "rule": "text-stream-diff",
+   "detail": "缺 4 字母「ntoe」；多 0「」；数字差 +1（软信号）"
+  },
+  {
+   "slug": "color",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 27「s×6t×4w×3o×2r×2i×2h×2e×2pugm」；数字差 -27（软信号）"
+  },
+  {
+   "slug": "common-knowledge",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1222(超0/缺0) / md 1167(超0/缺0) 不对称；字母差 缺0 多456（判据不适用，审计档）"
+  },
+  {
+   "slug": "compositionality",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 362「t×40o×35a×34s×30e×27i×26n×23r×20l×18p×14g×13c×12」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "computability",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 363(超0/缺0) / md 344(超0/缺0) 不对称；字母差 缺0 多35（判据不适用，审计档）"
+  },
+  {
+   "slug": "computational-complexity",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 2213(超0/缺0) / md 2125(超0/缺0) 不对称；字母差 缺0 多112（判据不适用，审计档）"
+  },
+  {
+   "slug": "computational-linguistics",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 33「o×4t×4s×3r×3w×3p×2i×2l×2c×2mua」；数字差 -3（软信号）"
+  },
+  {
+   "slug": "computational-philosophy",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 18「a×3l×2s×2r×2utihyeqx」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "computer-science",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 23(超0/缺0) / md 22(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "comte",
+   "rule": "text-stream-diff",
+   "detail": "缺 233 字母「e×23i×19s×18n×18o×16r×15a×15t×13l×10d×10u×7C×7」；多 0「」；数字差 +9（软信号）"
+  },
+  {
+   "slug": "confirmation",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 918(超0/缺0) / md 916(超0/缺0) 不对称；字母差 缺86 多3（判据不适用，审计档）"
+  },
+  {
+   "slug": "connectives-logic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 2126(超0/缺0) / md 1996(超0/缺0) 不对称；字母差 缺0 多130（判据不适用，审计档）"
+  },
+  {
+   "slug": "conscience-medieval",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 65「e×14c×7t×6l×4h×4f×4m×4d×3s×3b×3i×2n×2」；数字差 -30（软信号）"
+  },
+  {
+   "slug": "conscience",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 27「t×5l×4o×2i×2e×2r×2nspubh」；数字差 -4（软信号）"
+  },
+  {
+   "slug": "consciousness-animal",
+   "rule": "text-stream-diff",
+   "detail": "缺 107 字母「e×14i×12o×10t×9n×8s×7r×7l×6h×5a×4c×3p×3」；多 0「」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "consciousness-neuroscience",
+   "rule": "text-stream-diff",
+   "detail": "缺 69 字母「a×9i×8t×7e×6l×5o×4s×4u×3r×3p×3d×3h×2」；多 0「」；数字差 -1（软信号）"
+  },
+  {
+   "slug": "consciousness-representational",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 406「t×62p×53s×53b×53n×49d×44r×16a×16l×16e×10o×10c×10」；数字差 -7（软信号）"
+  },
+  {
+   "slug": "consciousness-temporal",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 300「e×50o×30n×30i×30t×30d×30l×20p×10r×10s×10c×10b×10」；数字差 -25（软信号）"
+  },
+  {
+   "slug": "conservation-biology",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 171(超0/缺0) / md 166(超0/缺0) 不对称；字母差 缺0 多5（判据不适用，审计档）"
+  },
+  {
+   "slug": "conservatism",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 40「t×5e×4w×4s×3i×3o×2a×2p×2u×2l×2h×2d×2」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "continuity",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 718(超0/缺0) / md 689(超0/缺0) 不对称；字母差 缺0 多96（判据不适用，审计档）"
+  },
+  {
+   "slug": "contradiction",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 195(超0/缺0) / md 181(超0/缺0) 不对称；字母差 缺0 多14（判据不适用，审计档）"
+  },
+  {
+   "slug": "convention",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 128(超0/缺0) / md 127(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "copernicus",
+   "rule": "text-stream-diff",
+   "detail": "缺 308 字母「e×33i×31s×27n×26o×23a×19t×19h×18r×15l×14c×11d×9」；多 0「」；数字差 +4（软信号）"
+  },
+  {
+   "slug": "cosmology-30s",
+   "rule": "text-stream-diff",
+   "detail": "缺 69 字母「o×8e×8i×7n×6s×4t×3h×3a×3r×3m×2l×2y×2」；多 0「」；数字差 +11（软信号）"
+  },
+  {
+   "slug": "cosmology",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 162(超0/缺0) / md 156(超0/缺0) 不对称；字母差 缺0 多6（判据不适用，审计档）"
+  },
+  {
+   "slug": "counterfactuals",
+   "rule": "text-stream-diff",
+   "detail": "缺 4 字母「onte」；多 0「」；数字差 -10（软信号）"
+  },
+  {
+   "slug": "criminal-law",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 261(超0/缺0) / md 219(超0/缺0) 不对称；字母差 缺61 多39（判据不适用，审计档）"
+  },
+  {
+   "slug": "curry-paradox",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 457(超0/缺0) / md 376(超0/缺0) 不对称；字母差 缺0 多81（判据不适用，审计档）"
+  },
+  {
+   "slug": "david-lewis",
+   "rule": "text-stream-diff",
+   "detail": "缺 2755 字母「i×276o×246e×218a×209n×194s×164t×137l×134r×130d×121h×99c×85」；多 0「」；数字差 +862（软信号）"
+  },
+  {
+   "slug": "davidson",
+   "rule": "text-stream-diff",
+   "detail": "缺 3771 字母「e×377n×357i×328o×274r×268a×261s×245t×213d×202h×118l×107c×103」；多 0「」；数字差 +426（软信号）"
+  },
+  {
+   "slug": "decision-causal",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 109(超0/缺1) / md 122(超0/缺1) 不对称；字母差 缺7003 多27（判据不适用，审计档）"
+  },
+  {
+   "slug": "decision-theory-descriptive",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 444(超0/缺1) / md 414(超1/缺2) 不对称；字母差 缺31073 多72（判据不适用，审计档）"
+  },
+  {
+   "slug": "decision-theory",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 243(超1/缺1) / md 554(超6/缺1) 不对称；字母差 缺27271 多70（判据不适用，审计档）"
+  },
+  {
+   "slug": "dedekind-foundations",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 22「d×3o×3e×2i×2h×2Dkntraf」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "deductivism-mathematics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 171(超0/缺0) / md 167(超0/缺0) 不对称；字母差 缺0 多4（判据不适用，审计档）"
+  },
+  {
+   "slug": "definitions",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 345(超0/缺0) / md 326(超0/缺0) 不对称；字母差 缺0 多19（判据不适用，审计档）"
+  },
+  {
+   "slug": "della-porta",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 12「i×2e×2tsorpncf」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "descartes-mathematics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 139(超0/缺0) / md 137(超0/缺0) 不对称；字母差 缺0 多23（判据不适用，审计档）"
+  },
+  {
+   "slug": "descartes-method",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 47「e×8a×4i×4n×4t×3o×3d×3l×3s×2c×2r×2u×2」；数字差 -12（软信号）"
+  },
+  {
+   "slug": "descartes-physics",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 17「e×3t×3a×2crPlnoRfS」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "descartes-works",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 9「e×2s×2cartd」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "descartes",
+   "rule": "text-stream-diff",
+   "detail": "缺 2951 字母「e×325n×260i×241a×221o×218r×217s×210t×209d×117l×109h×103c×79」；多 0「」；数字差 +93（软信号）"
+  },
+  {
+   "slug": "descriptions",
+   "rule": "text-stream-diff",
+   "detail": "缺 101 字母「e×11p×11x×9y×8s×7i×7l×6h×6o×5n×5a×5r×3」；多 0「」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "desert",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 0(超0/缺1) / md 0(超0/缺1) 不对称；字母差 缺0 多37（判据不适用，审计档）"
+  },
+  {
+   "slug": "determinism-causal",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 103「e×12i×10t×9o×9a×8c×8n×7r×6s×5l×5m×3b×3」；数字差 -2（软信号）"
+  },
+  {
+   "slug": "dewey",
+   "rule": "text-stream-diff",
+   "detail": "缺 597 字母「e×62i×55o×53n×41r×33t×30h×27s×27l×23d×22y×19a×19」；多 0「」；数字差 +156（软信号）"
+  },
+  {
+   "slug": "diagrams",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 209「a×32i×16m×14e×14g×13r×13E×11l×10t×9o×9f×9u×8」；数字差 -510（软信号）"
+  },
+  {
+   "slug": "dialetheism",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 130(超0/缺1) / md 126(超0/缺1) 不对称；字母差 缺0 多4（判据不适用，审计档）"
+  },
+  {
+   "slug": "diderot",
+   "rule": "text-stream-diff",
+   "detail": "缺 276 字母「e×38i×25n×23s×22t×22a×19o×18r×16u×12d×11l×11m×11」；多 0「」；数字差 +33（软信号）"
+  },
+  {
+   "slug": "diodorus-cronus",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 171(超0/缺0) / md 167(超0/缺0) 不对称；字母差 缺0 多4（判据不适用，审计档）"
+  },
+  {
+   "slug": "disagreement",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 225(超0/缺1) / md 225(超1/缺1) 不对称；字母差 缺25626 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "discourse-representation-theory",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 304(超0/缺0) / md 303(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "disjunction",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 429(超0/缺0) / md 375(超0/缺0) 不对称；字母差 缺0 多55（判据不适用，审计档）"
+  },
+  {
+   "slug": "double-effect",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 29「t×4e×4w×4i×3b×3p×3d×3h×2fsk」；数字差 -12（软信号）"
+  },
+  {
+   "slug": "doxastic-voluntarism",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 15(超1/缺1) / md 20(超3/缺1) 不对称；字母差 缺1099 多0（判据不适用，审计档）"
+  },
+  {
+   "slug": "dutch-book",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 209(超0/缺0) / md 244(超3/缺1) 不对称；字母差 缺55839 多50（判据不适用，审计档）"
+  },
+  {
+   "slug": "dynamic-choice",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 24「o×3b×3j×3i×2e×2F×2r×2u×2g×2CAB」；数字差 -7（软信号）"
+  },
+  {
+   "slug": "dynamic-epistemic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 865(超0/缺0) / md 864(超0/缺0) 不对称；字母差 缺0 多44（判据不适用，审计档）"
+  },
+  {
+   "slug": "dynamic-semantics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 441(超0/缺0) / md 397(超0/缺0) 不对称；字母差 缺0 多44（判据不适用，审计档）"
+  },
+  {
+   "slug": "economic-justice",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 18「r×3o×2e×2avcnuplhf」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "economics-early-modern",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 63「l×9t×7e×6i×5r×5o×4s×4a×4y×3m×2d×2h×2」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "emerson",
+   "rule": "text-stream-diff",
+   "detail": "缺 14 字母「o×3t×2A×2rmsBnlc」；多 2「Ee」；数字差 +4（软信号）"
+  },
+  {
+   "slug": "emily-elizabeth-constance-jones",
+   "rule": "text-stream-diff",
+   "detail": "缺 2270 字母「e×209o×207i×196n×174t×160a×147r×140s×131d×81l×77c×77h×63」；多 0「」；数字差 +396（软信号）"
+  },
+  {
+   "slug": "epistemic-game",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1564(超0/缺0) / md 1550(超0/缺0) 不对称；字母差 缺0 多14（判据不适用，审计档）"
+  },
+  {
+   "slug": "epistemic-utility",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 451(超0/缺0) / md 450(超0/缺0) 不对称；字母差 缺0 多90（判据不适用，审计档）"
+  },
+  {
+   "slug": "epistemology-bayesian",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 306(超0/缺0) / md 311(超0/缺0) 不对称；字母差 缺0 多17（判据不适用，审计档）"
+  },
+  {
+   "slug": "epistemology-geometry",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 29「e×4p×3i×3r×3n×3a×3s×2t×2oghd」；数字差 -2（软信号）"
+  },
+  {
+   "slug": "epistemology-visual-thinking",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 402(超0/缺0) / md 397(超0/缺0) 不对称；字母差 缺70 多23（判据不适用，审计档）"
+  },
+  {
+   "slug": "epsilon-calculus",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 224(超0/缺0) / md 207(超0/缺0) 不对称；字母差 缺0 多17（判据不适用，审计档）"
+  },
+  {
+   "slug": "equivME",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 297(超0/缺0) / md 279(超0/缺0) 不对称；字母差 缺0 多18（判据不适用，审计档）"
+  },
+  {
+   "slug": "ergodic-hierarchy",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 520(超0/缺0) / md 483(超0/缺0) 不对称；字母差 缺0 多173（判据不适用，审计档）"
+  },
+  {
+   "slug": "ernst-mach",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 8(超0/缺0) / md 7(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "experimental-moral",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 28「a×4p×3r×3i×3e×2n×2t×2o×2s×2mdg」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "exploitation",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 199(超1/缺0) / md 364(超0/缺0) 不对称；字母差 缺0 多165（判据不适用，审计档）"
+  },
+  {
+   "slug": "facts",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 485(超0/缺0) / md 476(超0/缺0) 不对称；字母差 缺0 多42（判据不适用，审计档）"
+  },
+  {
+   "slug": "feminism-aesthetics",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 28「h×3r×3e×2i×2t×2c×2p×2sAlav」；数字差 -1（软信号）"
+  },
+  {
+   "slug": "feminism-metaphysics",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 95「o×9i×8e×7t×7m×5h×5l×5g×5s×4p×4c×4n×2」；数字差 -12（软信号）"
+  },
+  {
+   "slug": "feminism-self",
+   "rule": "text-stream-diff",
+   "detail": "缺 517 字母「e×77t×56i×43s×43n×36a×34o×33r×31h×27l×22p×15y×12」；多 0「」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "feminist-body",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 100「t×12s×10o×10a×10e×6i×6r×6h×6n×4p×4u×4f×4」；数字差 -10（软信号）"
+  },
+  {
+   "slug": "feminist-religion",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 58「e×7t×6h×5r×5i×4d×4a×4s×3l×3o×3c×2A×2」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "feyerabend",
+   "rule": "text-stream-diff",
+   "detail": "缺 1051 字母「e×122i×90s×70a×69o×69r×63n×59l×46t×42d×41h×38c×30」；多 0「」；数字差 +72（软信号）"
+  },
+  {
+   "slug": "fiction",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 12(超0/缺0) / md 11(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "findlay",
+   "rule": "text-stream-diff",
+   "detail": "缺 878 字母「o×99i×70e×68l×61s×58a×53n×49r×48h×43d×38t×38c×22」；多 0「」；数字差 +324（软信号）"
+  },
+  {
+   "slug": "fine-tuning",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 163(超0/缺0) / md 161(超0/缺0) 不对称；字母差 缺0 多2（判据不适用，审计档）"
+  },
+  {
+   "slug": "fitness",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 100(超0/缺0) / md 99(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "fleck",
+   "rule": "text-stream-diff",
+   "detail": "缺 1305 字母「e×136i×95o×93a×92n×87t×74s×62l×60r×51d×44c×41u×32」；多 0「」；数字差 +37（软信号）"
+  },
+  {
+   "slug": "formal-belief",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1095(超1/缺0) / md 988(超2/缺1) 不对称；字母差 缺49355 多457（判据不适用，审计档）"
+  },
+  {
+   "slug": "formal-epistemology",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 690(超0/缺1) / md 623(超0/缺2) 不对称；字母差 缺18367 多78（判据不适用，审计档）"
+  },
+  {
+   "slug": "formalism-mathematics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 169(超0/缺0) / md 139(超0/缺0) 不对称；字母差 缺0 多30（判据不适用，审计档）"
+  },
+  {
+   "slug": "foucault",
+   "rule": "text-stream-diff",
+   "detail": "缺 1054 字母「a×121e×113s×86r×85n×75i×68l×67t×61o×54d×54h×32u×24」；多 0「」；数字差 +80（软信号）"
+  },
+  {
+   "slug": "freedom-ancient",
+   "rule": "text-stream-diff",
+   "detail": "缺 56 字母「e×9i×6n×5t×5a×4o×3r×3b×3c×2h×2l×2v×2」；多 0「」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "freewill",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 104(超0/缺0) / md 85(超0/缺0) 不对称；字母差 缺0 多19（判据不适用，审计档）"
+  },
+  {
+   "slug": "frege-logic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 373(超0/缺0) / md 332(超0/缺0) 不对称；字母差 缺0 多1649（判据不适用，审计档）"
+  },
+  {
+   "slug": "frege-theorem",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1167(超0/缺0) / md 1058(超0/缺0) 不对称；字母差 缺0 多365（判据不适用，审计档）"
+  },
+  {
+   "slug": "frege",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 543(超0/缺0) / md 525(超0/缺0) 不对称；字母差 缺0 多271（判据不适用，审计档）"
+  },
+  {
+   "slug": "friedrich-hayek",
+   "rule": "text-stream-diff",
+   "detail": "缺 622 字母「o×67i×61e×59n×38s×37c×30a×30t×30r×29h×24d×22l×18」；多 0「」；数字差 +67（软信号）"
+  },
+  {
+   "slug": "friedrich-jacobi",
+   "rule": "text-stream-diff",
+   "detail": "缺 7851 字母「e×1148i×656n×582r×520t×471s×459a×431o×349d×345h×326l×318u×274」；多 0「」；数字差 +547（软信号）"
+  },
+  {
+   "slug": "friedrich-lange",
+   "rule": "text-stream-diff",
+   "detail": "缺 1158 字母「e×164n×94i×91r×82s×71u×61a×58h×56l×56t×54d×49o×39」；多 0「」；数字差 +108（软信号）"
+  },
+  {
+   "slug": "fundamentality",
+   "rule": "text-stream-diff",
+   "detail": "缺 4 字母「neto」；多 0「」；数字差 -4（软信号）"
+  },
+  {
+   "slug": "future-contingents",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 582(超0/缺0) / md 580(超0/缺0) 不对称；字母差 缺0 多108（判据不适用，审计档）"
+  },
+  {
+   "slug": "gadamer",
+   "rule": "text-stream-diff",
+   "detail": "缺 3030 字母「e×340n×236a×225i×222r×208s×191o×177t×174d×119h×116l×113y×79」；多 0「」；数字差 +171（软信号）"
+  },
+  {
+   "slug": "galileo",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 33「e×3p×3G×2i×2t×2h×2m×2g×2loFr」；数字差 -4（软信号）"
+  },
+  {
+   "slug": "game-ethics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 152(超0/缺0) / md 151(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "game-evolutionary",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 320(超0/缺0) / md 298(超0/缺0) 不对称；字母差 缺0 多332（判据不适用，审计档）"
+  },
+  {
+   "slug": "game-theory",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 233(超0/缺1) / md 225(超2/缺1) 不对称；字母差 缺40002 多10（判据不适用，审计档）"
+  },
+  {
+   "slug": "games-abstraction",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 665(超0/缺0) / md 625(超0/缺0) 不对称；字母差 缺0 多40（判据不适用，审计档）"
+  },
+  {
+   "slug": "gametes-donation-sale",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 0(超0/缺1) / md 0(超0/缺1) 不对称；字母差 缺0 多3（判据不适用，审计档）"
+  },
+  {
+   "slug": "gauge-theories",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 223(超0/缺0) / md 186(超0/缺0) 不对称；字母差 缺0 多60（判据不适用，审计档）"
+  },
+  {
+   "slug": "generalized-quantifiers",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 450(超0/缺0) / md 443(超0/缺0) 不对称；字母差 缺0 多7（判据不适用，审计档）"
+  },
+  {
+   "slug": "generics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 26(超0/缺0) / md 25(超0/缺0) 不对称；字母差 缺0 多10（判据不适用，审计档）"
+  },
+  {
+   "slug": "genomics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 3(超1/缺0) / md 3(超1/缺0) 不对称；字母差 缺0 多15（判据不适用，审计档）"
+  },
+  {
+   "slug": "geometry-19th",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 24「i×4e×4u×4r×4F×4g×4」；数字差 -9（软信号）"
+  },
+  {
+   "slug": "geometry-finitism",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 296(超0/缺0) / md 293(超0/缺0) 不对称；字母差 缺0 多3（判据不适用，审计档）"
+  },
+  {
+   "slug": "george-eliot",
+   "rule": "text-stream-diff",
+   "detail": "缺 616 字母「e×81r×43t×43n×43o×36i×36s×36a×36l×28h×19u×16d×16」；多 0「」；数字差 +124（软信号）"
+  },
+  {
+   "slug": "goedel-incompleteness",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 401(超0/缺0) / md 391(超0/缺0) 不对称；字母差 缺0 多10（判据不适用，审计档）"
+  },
+  {
+   "slug": "goedel",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 598(超0/缺0) / md 561(超0/缺0) 不对称；字母差 缺0 多37（判据不适用，审计档）"
+  },
+  {
+   "slug": "goodman-aesthetics",
+   "rule": "text-stream-diff",
+   "detail": "缺 2295 字母「e×213n×193r×181o×180a×172i×171s×139t×138d×109h×67l×66p×59」；多 0「」；数字差 +156（软信号）"
+  },
+  {
+   "slug": "grice",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 96(超0/缺0) / md 92(超0/缺0) 不对称；字母差 缺0 多4（判据不适用，审计档）"
+  },
+  {
+   "slug": "grotius",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 25「t×3a×3r×2p×2b×2l×2f×2k×2gish」；数字差 -13（软信号）"
+  },
+  {
+   "slug": "happiness",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 0(超0/缺2) / md 1(超1/缺0) 不对称；字母差 缺35434 多0（判据不适用，审计档）"
+  },
+  {
+   "slug": "hartley",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 18「a×2r×2n×2g×2viHtleyE」；数字差 -6（软信号）"
+  },
+  {
+   "slug": "health-well-being-personal-relationships",
+   "rule": "no-baseline",
+   "detail": "基线无该件记录"
+  },
+  {
+   "slug": "heidegger-aesthetics",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 3「gpj」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "heinrich-rickert",
+   "rule": "text-stream-diff",
+   "detail": "缺 214 字母「i×22o×22t×20e×19n×18r×16a×12s×11c×9d×6l×5m×5」；多 0「」；数字差 +16（软信号）"
+  },
+  {
+   "slug": "heritability",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 59(超0/缺1) / md 60(超1/缺1) 不对称；字母差 缺11865 多10（判据不适用，审计档）"
+  },
+  {
+   "slug": "hermann-helmholtz",
+   "rule": "text-stream-diff",
+   "detail": "缺 2144 字母「e×238i×176n×167o×142s×130a×129r×119t×117h×109l×103c×85d×77」；多 0「」；数字差 +172（软信号）"
+  },
+  {
+   "slug": "heytesbury",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 4(超0/缺0) / md 5(超0/缺1) 不对称；字母差 缺15 多0（判据不适用，审计档）"
+  },
+  {
+   "slug": "hilbert-program",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 129(超0/缺0) / md 120(超0/缺0) 不对称；字母差 缺0 多23（判据不适用，审计档）"
+  },
+  {
+   "slug": "human-genome",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 10(超2/缺0) / md 10(超2/缺0) 不对称；字母差 缺3460 多0（判据不适用，审计档）"
+  },
+  {
+   "slug": "hume-freewill",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 28「h×4s×3o×2r×2i×2t×2p×2d×2a×2ume」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "hume-newton",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 61「t×10e×8n×5w×4o×4l×4h×4s×3p×3m×2i×2a×2」；数字差 -8（软信号）"
+  },
+  {
+   "slug": "hutcheson",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 174「t×21n×15e×15o×15i×14a×13r×11l×11s×9d×9u×8f×7」；数字差 -21（软信号）"
+  },
+  {
+   "slug": "iamblichus",
+   "rule": "text-stream-diff",
+   "detail": "缺 21 字母「o×3h×2u×2s×2n×2J×2abtedS」；多 0「」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "ibn-bajja",
+   "rule": "text-stream-diff",
+   "detail": "缺 889 字母「a×183i×85l×67r×50t×50m×40s×38d×36n×30h×28b×25e×25」；多 0「」；数字差 +48（软信号）"
+  },
+  {
+   "slug": "ibn-gabirol",
+   "rule": "text-stream-diff",
+   "detail": "缺 539 字母「a×58e×55t×47n×39o×37i×36r×36s×35l×20h×20f×16b×13」；多 0「」；数字差 +20（软信号）"
+  },
+  {
+   "slug": "ibn-rushd-natural",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 166「m×15a×14e×14d×13r×13o×12s×10n×8c×8w×8k×7p×6」；数字差 -24（软信号）"
+  },
+  {
+   "slug": "ibn-sina-logic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 173(超0/缺0) / md 183(超0/缺0) 不对称；字母差 缺70 多0（判据不适用，审计档）"
+  },
+  {
+   "slug": "identity-time",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 450(超0/缺0) / md 448(超0/缺0) 不对称；字母差 缺0 多2（判据不适用，审计档）"
+  },
+  {
+   "slug": "ideology",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 20「s×4t×4r×2a×2c×2opbhnm」；数字差 -6（软信号）"
+  },
+  {
+   "slug": "implicature",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 14「b×8a×6」；数字差 -17（软信号）"
+  },
+  {
+   "slug": "imprecise-probabilities",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 369(超0/缺0) / md 360(超0/缺0) 不对称；字母差 缺0 多9（判据不适用，审计档）"
+  },
+  {
+   "slug": "induction-problem",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 37(超0/缺0) / md 32(超0/缺0) 不对称；字母差 缺0 多5（判据不适用，审计档）"
+  },
+  {
+   "slug": "infinity",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 570(超0/缺1) / md 518(超2/缺1) 不对称；字母差 缺44473 多53（判据不适用，审计档）"
+  },
+  {
+   "slug": "information-entropy",
+   "rule": "text-stream-diff",
+   "detail": "缺 34 字母「h×8f×7w×3L×3A×2v×2q×2N×2EMBj」；多 2118「t×292e×291d×156b×143r×136m×132l×123s×121p×108a×102x×87n×79」；数字差 -40（软信号）"
+  },
+  {
+   "slug": "information-semantic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 226(超0/缺0) / md 193(超0/缺0) 不对称；字母差 缺0 多33（判据不适用，审计档）"
+  },
+  {
+   "slug": "information",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 332(超0/缺0) / md 327(超0/缺0) 不对称；字母差 缺0 多244（判据不适用，审计档）"
+  },
+  {
+   "slug": "ingarden",
+   "rule": "text-stream-diff",
+   "detail": "缺 160 字母「e×18n×15i×15s×12o×11a×11r×9d×9l×8c×7t×6h×6」；多 0「」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "innate-acquired",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 44「e×6i×5a×4u×4r×4g×4s×3f×3t×2n×2cd」；数字差 -11（软信号）"
+  },
+  {
+   "slug": "innateness-language",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 18「a×7b×7c×3d」；数字差 -21（软信号）"
+  },
+  {
+   "slug": "insolubles",
+   "rule": "text-stream-diff",
+   "detail": "缺 4 字母「noet」；多 0「」；数字差 -6（软信号）"
+  },
+  {
+   "slug": "intrinsic-extrinsic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 502(超0/缺0) / md 474(超0/缺0) 不对称；字母差 缺0 多28（判据不适用，审计档）"
+  },
+  {
+   "slug": "intuitionism",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 294(超0/缺0) / md 271(超0/缺0) 不对称；字母差 缺0 多23（判据不适用，审计档）"
+  },
+  {
+   "slug": "intuitionistic-logic-development",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 372(超0/缺0) / md 352(超0/缺0) 不对称；字母差 缺0 多48（判据不适用，审计档）"
+  },
+  {
+   "slug": "it-moral-values",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 36「p×5e×4n×3u×3r×2m×2a×2t×2h×2d×2fi」；数字差 -13（软信号）"
+  },
+  {
+   "slug": "jaina-philosophy",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 50「a×6i×5n×4s×4e×4w×4t×3d×3h×2o×2r×2u×2」；数字差 -36（软信号）"
+  },
+  {
+   "slug": "james-ward",
+   "rule": "text-stream-diff",
+   "detail": "缺 677 字母「e×70i×65r×48s×46a×42n×38d×35o×34t×33l×27y×21m×19」；多 0「」；数字差 +54（软信号）"
+  },
+  {
+   "slug": "james",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 19「o×3i×2l×2a×2m×2WJesPht」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "japanese-aesthetics",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 634「o×66a×60t×55i×53n×46h×45s×32u×32p×30j×30e×28b×22」；数字差 -4（软信号）"
+  },
+  {
+   "slug": "jefferson",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 186「s×17e×17t×17o×13d×12a×11r×11h×10i×10n×9u×9m×8」；数字差 -60（软信号）"
+  },
+  {
+   "slug": "johann-herbart",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 157(超0/缺0) / md 121(超0/缺0) 不对称；字母差 缺0 多66（判据不适用，审计档）"
+  },
+  {
+   "slug": "jury-theorems",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 395(超0/缺0) / md 394(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "justice-distributive",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 0(超0/缺1) / md 0(超0/缺1) 不对称；字母差 缺0 多24（判据不适用，审计档）"
+  },
+  {
+   "slug": "justification-public",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 95(超0/缺0) / md 93(超0/缺0) 不对称；字母差 缺0 多2（判据不适用，审计档）"
+  },
+  {
+   "slug": "justus-lipsius",
+   "rule": "text-stream-diff",
+   "detail": "缺 1133 字母「e×127i×113n×85s×82t×81a×81r×74o×74l×43p×36u×35d×33」；多 0「」；数字差 +62（软信号）"
+  },
+  {
+   "slug": "kant-hume-causality",
+   "rule": "text-stream-diff",
+   "detail": "缺 40 字母「n×10t×10e×10o×10」；多 0「」；数字差 -3（软信号）"
+  },
+  {
+   "slug": "kant-spacetime",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 12「i×2e×2r×2u×2f×2g×2」；数字差 -2（软信号）"
+  },
+  {
+   "slug": "kepler",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 12「e×2r×2i×2u×2f×2g×2」；数字差 -2（软信号）"
+  },
+  {
+   "slug": "kochen-specker",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 9「i×3f×3g×3」；数字差 -6（软信号）"
+  },
+  {
+   "slug": "korean-buddhism",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 122「t×17d×10e×9n×9o×6B×6u×6c×6g×6k×6a×5i×5」；数字差 -12（软信号）"
+  },
+  {
+   "slug": "kukai",
+   "rule": "text-stream-diff",
+   "detail": "缺 864 字母「o×78a×71i×70e×66n×66s×53h×47t×43u×39r×39d×29k×26」；多 0「」；数字差 +45（软信号）"
+  },
+  {
+   "slug": "lacan",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 3(超1/缺0) / md 3(超1/缺0) 不对称；字母差 缺710 多0（判据不适用，审计档）"
+  },
+  {
+   "slug": "lambda-calculus",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1359(超0/缺0) / md 918(超0/缺0) 不对称；字母差 缺0 多441（判据不适用，审计档）"
+  },
+  {
+   "slug": "langer",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 26「e×3g×3t×3o×3w×3s×2r×2b×2unph」；数字差 -5（软信号）"
+  },
+  {
+   "slug": "large-cardinals-determinacy",
+   "rule": "text-stream-diff",
+   "detail": "缺 1704 字母「i×178e×152s×125t×117a×115h×113c×102o×97r×94n×91d×88l×82」；多 0「」；数字差 +79（软信号）"
+  },
+  {
+   "slug": "latinx",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 66「a×6t×6n×6h×6l×6u×6m×6f×6x×3p×3y×3r×3」；数字差 -27（软信号）"
+  },
+  {
+   "slug": "legal-probabilism",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 404(超0/缺0) / md 399(超0/缺0) 不对称；字母差 缺17 多14（判据不适用，审计档）"
+  },
+  {
+   "slug": "leibniz-ethics",
+   "rule": "text-stream-diff",
+   "detail": "缺 22 字母「e×5i×2n×2s×2LbztcraG」；多 0「」；数字差 -5（软信号）"
+  },
+  {
+   "slug": "lesniewski",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 286(超0/缺0) / md 285(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "levels-org-biology",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 76「o×8e×7i×7n×6f×5s×4g×4L×3a×3t×3h×3T×3」；数字差 -7（软信号）"
+  },
+  {
+   "slug": "liar-paradox",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 361(超0/缺0) / md 346(超0/缺0) 不对称；字母差 缺0 多15（判据不适用，审计档）"
+  },
+  {
+   "slug": "liberalism-latin-america",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 105「a×12i×11e×10t×8r×7l×7s×7c×7o×7n×5p×4d×4」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "linguistics",
+   "rule": "text-stream-diff",
+   "detail": "缺 80 字母「p×15r×12e×11a×10n×8u×7h×4d×4s×3m×3l×2y」；多 43「i×11t×9g×5A×3P×2o×2f×2c×2GNCV」；数字差 -24（软信号）"
+  },
+  {
+   "slug": "locke-on-medicine",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 83「a×9e×8c×6n×6i×6t×6m×6o×5s×5d×4r×4l×3」；数字差 -6（软信号）"
+  },
+  {
+   "slug": "locke-personal-identity",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 148「e×18t×17r×12s×11a×11i×10l×9o×8h×8n×7g×6p×5」；数字差 -7（软信号）"
+  },
+  {
+   "slug": "logic-action",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 254(超0/缺0) / md 204(超0/缺0) 不对称；字母差 缺0 多50（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-ai",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 248(超1/缺0) / md 252(超0/缺0) 不对称；字母差 缺0 多10（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-algebraic-propositional",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1589(超0/缺0) / md 1505(超0/缺0) 不对称；字母差 缺0 多84（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-belief-revision",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 802(超0/缺0) / md 793(超0/缺0) 不对称；字母差 缺0 多9（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-classical",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1560(超0/缺0) / md 1206(超0/缺0) 不对称；字母差 缺0 多354（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-combinatory",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1266(超0/缺1) / md 1231(超0/缺1) 不对称；字母差 缺4968 多32（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-combining",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 544(超0/缺0) / md 525(超0/缺0) 不对称；字母差 缺0 多19（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-conditionals",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 785(超0/缺0) / md 772(超0/缺0) 不对称；字母差 缺5 多13（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-connexive",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 2097「t×581d×471r×190e×132l×132a×105s×77b×69o×57n×47c×44y×33」；数字差 -3（软信号）"
+  },
+  {
+   "slug": "logic-deontic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 689(超0/缺2) / md 689(超1/缺0) 不对称；字母差 缺43874 多94（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-dependence",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 538(超0/缺0) / md 497(超0/缺0) 不对称；字母差 缺0 多41（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-dialogical",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 654(超0/缺0) / md 643(超0/缺0) 不对称；字母差 缺0 多11（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-dynamic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 670(超0/缺0) / md 608(超0/缺0) 不对称；字母差 缺0 多62（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-epistemic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 565(超0/缺0) / md 498(超0/缺0) 不对称；字母差 缺0 多93（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-firstorder-emergence",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 54(超0/缺0) / md 44(超0/缺0) 不对称；字母差 缺0 多10（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-free",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 783(超0/缺0) / md 759(超0/缺0) 不对称；字母差 缺0 多24（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-fuzzy",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 266(超0/缺0) / md 236(超0/缺0) 不对称；字母差 缺0 多30（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-games",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 415(超0/缺0) / md 378(超0/缺0) 不对称；字母差 缺0 多37（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-higher-order",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1100(超0/缺0) / md 956(超0/缺0) 不对称；字母差 缺0 多144（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-if",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1358(超0/缺0) / md 1188(超0/缺0) 不对称；字母差 缺0 多170（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-india",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 18(超0/缺0) / md 17(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-inductive",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 898(超0/缺0) / md 893(超0/缺0) 不对称；字母差 缺0 多5（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-informal",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 91「t×13a×12e×9i×8r×7n×5o×5g×5m×3s×3h×3d×3」；数字差 -2（软信号）"
+  },
+  {
+   "slug": "logic-information",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 447(超0/缺0) / md 403(超0/缺0) 不对称；字母差 缺0 多44（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-intensional",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 738(超0/缺0) / md 697(超0/缺0) 不对称；字母差 缺1094 多38（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-intuitionistic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1017(超0/缺0) / md 1015(超0/缺0) 不对称；字母差 缺0 多2（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-justification",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 889(超0/缺0) / md 872(超0/缺0) 不对称；字母差 缺0 多17（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-linear",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 174(超0/缺0) / md 161(超0/缺0) 不对称；字母差 缺0 多193（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-many-sorted",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 951(超0/缺0) / md 405(超1/缺2) 不对称；字母差 缺37791 多119（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-manyvalued",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1754(超0/缺0) / md 1660(超0/缺0) 不对称；字母差 缺0 多94（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-massexpress",
+   "rule": "text-stream-diff",
+   "detail": "缺 4 字母「eont」；多 0「」；数字差 -4（软信号）"
+  },
+  {
+   "slug": "logic-modal-origins",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 419(超0/缺0) / md 387(超0/缺0) 不对称；字母差 缺0 多32（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-modal",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 23「i×3s×3e×3t×2n×2m×2oalgrp」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "logic-nonmonotonic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 936(超0/缺0) / md 802(超0/缺0) 不对称；字母差 缺0 多293（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-normative",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 202(超0/缺0) / md 191(超0/缺0) 不对称；字母差 缺4 多11（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-paraconsistent",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 354(超0/缺0) / md 349(超0/缺0) 不对称；字母差 缺0 多5（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-power-games",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 629(超0/缺0) / md 577(超0/缺0) 不对称；字母差 缺0 多52（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-preference",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 429(超0/缺0) / md 361(超0/缺0) 不对称；字母差 缺0 多68（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-probability",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 661(超0/缺0) / md 606(超0/缺0) 不对称；字母差 缺0 多55（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-propositional",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 736(超0/缺0) / md 730(超0/缺0) 不对称；字母差 缺0 多6（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-provability",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 358(超0/缺0) / md 339(超0/缺0) 不对称；字母差 缺0 多19（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-relevance",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 361(超0/缺0) / md 358(超0/缺0) 不对称；字母差 缺0 多3（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-substructural",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 399(超0/缺0) / md 396(超0/缺0) 不对称；字母差 缺0 多4（判据不适用，审计档）"
+  },
+  {
+   "slug": "logic-temporal",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 876(超0/缺0) / md 821(超0/缺0) 不对称；字母差 缺0 多55（判据不适用，审计档）"
+  },
+  {
+   "slug": "logical-constants",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 342(超0/缺0) / md 324(超0/缺0) 不对称；字母差 缺244 多21（判据不适用，审计档）"
+  },
+  {
+   "slug": "logical-construction",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 113(超0/缺0) / md 110(超0/缺0) 不对称；字母差 缺15 多2（判据不适用，审计档）"
+  },
+  {
+   "slug": "logical-form",
+   "rule": "text-stream-diff",
+   "detail": "缺 60 字母「e×7o×5t×5i×4s×4f×4c×3a×3l×3r×3h×3u×2」；多 0「」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "logical-pluralism",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 81(超0/缺0) / md 76(超0/缺0) 不对称；字母差 缺0 多5（判据不适用，审计档）"
+  },
+  {
+   "slug": "logicism",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 526(超0/缺0) / md 456(超0/缺0) 不对称；字母差 缺0 多70（判据不适用，审计档）"
+  },
+  {
+   "slug": "logics-for-games",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 277(超0/缺0) / md 232(超0/缺0) 不对称；字母差 缺0 多45（判据不适用，审计档）"
+  },
+  {
+   "slug": "lukasiewicz",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 209(超0/缺0) / md 198(超0/缺0) 不对称；字母差 缺0 多696（判据不适用，审计档）"
+  },
+  {
+   "slug": "luxemburg",
+   "rule": "text-stream-diff",
+   "detail": "缺 676 字母「e×60n×59i×53r×52a×51o×48s×37t×36l×26u×23R×21p×21」；多 0「」；数字差 +74（软信号）"
+  },
+  {
+   "slug": "mally-deontic",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 696「t×261d×224r×43a×30l×24e×24o×15n×11i×10c×10s×8b×8」；数字差 -3（软信号）"
+  },
+  {
+   "slug": "mandeville",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 162「e×24t×18l×14i×12s×10b×10o×10r×8f×8a×6v×6p×6」；数字差 -2（软信号）"
+  },
+  {
+   "slug": "marcuse",
+   "rule": "text-stream-diff",
+   "detail": "缺 2789 字母「e×324o×246n×216r×200a×193s×176i×174t×145l×130d×112c×84u×75」；多 0「」；数字差 +179（软信号）"
+  },
+  {
+   "slug": "maritain",
+   "rule": "text-stream-diff",
+   "detail": "缺 167 字母「e×25i×17a×12s×11o×11u×8t×8r×7h×7d×7n×6l×6」；多 0「」；数字差 +16（软信号）"
+  },
+  {
+   "slug": "marriage",
+   "rule": "text-stream-diff",
+   "detail": "缺 42 字母「r×5o×5i×4e×4s×3l×3w×3t×2h×2p×2f×2g」；多 0「」；数字差 +4（软信号）"
+  },
+  {
+   "slug": "marty",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 29「o×4t×3i×3n×2a×2p×2h×2Mryfe」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 700(超0/缺0) / md 674(超0/缺0) 不对称；字母差 缺0 多26（判据不适用，审计档）"
+  },
+  {
+   "slug": "meaning-normativity",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 394(超0/缺0) / md 392(超0/缺0) 不对称；字母差 缺0 多2（判据不适用，审计档）"
+  },
+  {
+   "slug": "medieval-syllogism",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 699「t×133d×84r×78a×63l×63e×57s×56b×28n×28c×28h×21o×14」；数字差 -13（软信号）"
+  },
+  {
+   "slug": "meinong",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 82「o×14n×10e×8g×8i×5u×4p×4f×4s×3t×3m×3l×2」；数字差 -6（软信号）"
+  },
+  {
+   "slug": "meister-eckhart",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 51「w×5t×4u×4o×4i×3s×3r×3h×3a×3p×3d×3e×2」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "mereology",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 54「e×9r×9g×9F×9i×9u×9」；数字差 -9（软信号）"
+  },
+  {
+   "slug": "mersenne",
+   "rule": "text-stream-diff",
+   "detail": "缺 465 字母「e×72i×51a×44s×34t×31r×28n×27o×27l×25d×17b×11c×11」；多 0「」；数字差 +25（软信号）"
+  },
+  {
+   "slug": "modality-medieval",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 6「earsuq」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "model-theory",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 231(超0/缺0) / md 226(超0/缺0) 不对称；字母差 缺0 多5（判据不适用，审计档）"
+  },
+  {
+   "slug": "models-science",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 3「thm」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "montague-semantics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 93(超0/缺0) / md 83(超0/缺0) 不对称；字母差 缺0 多10（判据不适用，审计档）"
+  },
+  {
+   "slug": "montaigne",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 16「i×2e×2o×2n×2a×2g×2Mtmf」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "moore",
+   "rule": "text-stream-diff",
+   "detail": "缺 53 字母「i×8e×6t×5n×4o×3r×3d×3a×3s×3h×3g×2p×2」；多 0「」；数字差 -4（软信号）"
+  },
+  {
+   "slug": "moral-decision-uncertainty",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 139(超0/缺1) / md 129(超0/缺1) 不对称；字母差 缺10491 多7（判据不适用，审计档）"
+  },
+  {
+   "slug": "moral-particularism",
+   "rule": "text-stream-diff",
+   "detail": "缺 202 字母「e×29r×20i×17a×16o×14t×13s×11h×11n×11l×10m×8p×6」；多 0「」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "moral-responsibility-epistemic",
+   "rule": "text-stream-diff",
+   "detail": "缺 2 字母「nf」；多 0「」；数字差 -3（软信号）"
+  },
+  {
+   "slug": "mulla-sadra",
+   "rule": "text-stream-diff",
+   "detail": "缺 1750 字母「a×208i×135r×127e×116s×107n×104t×91o×90l×80h×69d×39y×37」；多 0「」；数字差 +83（软信号）"
+  },
+  {
+   "slug": "murdoch",
+   "rule": "text-stream-diff",
+   "detail": "缺 280 字母「o×31e×28i×24n×23r×20a×15s×14t×14l×10h×9y×8u×7」；多 0「」；数字差 +6（软信号）"
+  },
+  {
+   "slug": "names",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 15(超0/缺0) / md 13(超0/缺0) 不对称；字母差 缺0 多2（判据不适用，审计档）"
+  },
+  {
+   "slug": "natural-deduction",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 335(超0/缺0) / md 329(超0/缺0) 不对称；字母差 缺0 多503（判据不适用，审计档）"
+  },
+  {
+   "slug": "natural-properties",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 605(超0/缺0) / md 603(超0/缺0) 不对称；字母差 缺0 多2（判据不适用，审计档）"
+  },
+  {
+   "slug": "naturalism-mathematics",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 4「theB」；数字差 -4（软信号）"
+  },
+  {
+   "slug": "negation",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 549(超0/缺0) / md 548(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "neurath",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 18「t×4o×4h×2ONeuraPf」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "neuroscience",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 51「e×6r×5c×5t×5a×5i×4o×4n×4s×3p×3v×2h」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "newton-principia",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 18「e×3i×3u×3r×3f×3g×3」；数字差 -3（软信号）"
+  },
+  {
+   "slug": "newton-stm",
+   "rule": "text-stream-diff",
+   "detail": "缺 56 字母「i×7t×6e×5a×4m×4n×3s×3r×3u×3l×3o×2d×2」；多 0「」；数字差 -3（软信号）"
+  },
+  {
+   "slug": "nicolai-hartmann",
+   "rule": "text-stream-diff",
+   "detail": "缺 2195 字母「e×297i×186n×165r×163t×138o×126s×126l×118h×105a×90u×81d×61」；多 0「」；数字差 +256（软信号）"
+  },
+  {
+   "slug": "nishida-kitaro",
+   "rule": "text-stream-diff",
+   "detail": "缺 809 字母「e×98n×65i×58o×58a×57r×57s×55t×47d×38l×34u×28h×25」；多 0「」；数字差 +100（软信号）"
+  },
+  {
+   "slug": "nonexistent-objects",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 191(超0/缺0) / md 191(超0/缺1) 不对称；字母差 缺0 多191（判据不适用，审计档）"
+  },
+  {
+   "slug": "nonwellfounded-set-theory",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 2728「t×727d×560r×204e×180s×132l×122a×113o×94n×76w×61i×59p×55」；数字差 -55（软信号）"
+  },
+  {
+   "slug": "ockham",
+   "rule": "text-stream-diff",
+   "detail": "缺 81 字母「l×9e×9i×8t×8s×7o×6r×5h×4n×4a×3c×3w×3」；多 0「」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "omnipotence",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 124(超0/缺0) / md 123(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "on-utopia",
+   "rule": "no-baseline",
+   "detail": "基线无该件记录"
+  },
+  {
+   "slug": "other-minds",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 4「thlm」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "pacifism",
+   "rule": "text-stream-diff",
+   "detail": "缺 8 字母「o×3t×2fen」；多 0「」；数字差 +1（软信号）"
+  },
+  {
+   "slug": "pain",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 6「iFrueg」；数字差 -1（软信号）"
+  },
+  {
+   "slug": "paine",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 0(超0/缺1) / md 0(超0/缺1) 不对称；字母差 缺0 多88（判据不适用，审计档）"
+  },
+  {
+   "slug": "paradox-simpson",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 352(超0/缺0) / md 351(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "paradox-skolem",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 6「omsatp」；数字差 -8（软信号）"
+  },
+  {
+   "slug": "paradox-stpetersburg",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 26(超3/缺0) / md 103(超1/缺0) 不对称；字母差 缺0 多382（判据不适用，审计档）"
+  },
+  {
+   "slug": "paradoxes-contemporary-logic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 374(超0/缺0) / md 352(超0/缺0) 不对称；字母差 缺82 多22（判据不适用，审计档）"
+  },
+  {
+   "slug": "pascal-wager",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 101(超0/缺2) / md 114(超1/缺0) 不对称；字母差 缺39341 多3（判据不适用，审计档）"
+  },
+  {
+   "slug": "peirce-logic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 350(超0/缺0) / md 332(超0/缺0) 不对称；字母差 缺0 多72（判据不适用，审计档）"
+  },
+  {
+   "slug": "peirce",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 28「t×4s×3p×3w×3r×2d×2o×2f×2hale」；数字差 -8（软信号）"
+  },
+  {
+   "slug": "perception-contents",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 10「e×2a×2g×2I×2m×2」；数字差 -4（软信号）"
+  },
+  {
+   "slug": "phil-multimodallogic",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 669(超0/缺0) / md 533(超0/缺0) 不对称；字母差 缺0 多136（判据不适用，审计档）"
+  },
+  {
+   "slug": "philanthropy",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 0(超0/缺1) / md 0(超0/缺1) 不对称；字母差 缺0 多25（判据不适用，审计档）"
+  },
+  {
+   "slug": "philosophy-mathematics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 37(超0/缺0) / md 30(超0/缺0) 不对称；字母差 缺0 多7（判据不适用，审计档）"
+  },
+  {
+   "slug": "philosophy-religion",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 51「t×7i×6e×6a×4n×3r×3h×2l×2o×2s×2d×2T×2」；数字差 -16（软信号）"
+  },
+  {
+   "slug": "phylogenetic-inference",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 11(超0/缺0) / md 9(超0/缺0) 不对称；字母差 缺0 多2（判据不适用，审计档）"
+  },
+  {
+   "slug": "physics-Rpcc",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 278(超0/缺0) / md 275(超0/缺0) 不对称；字母差 缺0 多3（判据不适用，审计档）"
+  },
+  {
+   "slug": "physics-experiment",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 82(超0/缺0) / md 81(超0/缺0) 不对称；字母差 缺0 多80（判据不适用，审计档）"
+  },
+  {
+   "slug": "physics-holism",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 76(超0/缺0) / md 67(超0/缺0) 不对称；字母差 缺0 多9（判据不适用，审计档）"
+  },
+  {
+   "slug": "physics-interrelate",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 223(超0/缺0) / md 218(超0/缺0) 不对称；字母差 缺0 多5（判据不适用，审计档）"
+  },
+  {
+   "slug": "physics-structuralism",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 137(超0/缺0) / md 135(超0/缺0) 不对称；字母差 缺0 多7（判据不适用，审计档）"
+  },
+  {
+   "slug": "pico-della-mirandola",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 30「e×5i×3o×3n×3d×3t×3l×2crspb」；数字差 -90（软信号）"
+  },
+  {
+   "slug": "plato",
+   "rule": "text-stream-diff",
+   "detail": "缺 248 字母「e×29i×23a×22o×22r×18s×18t×16h×14l×13n×13d×9b×8」；多 0「」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "platonism-mathematics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 58(超0/缺0) / md 57(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "plural-quant",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 250(超0/缺0) / md 240(超0/缺0) 不对称；字母差 缺0 多10（判据不适用，审计档）"
+  },
+  {
+   "slug": "pm-notation",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1075(超0/缺0) / md 744(超0/缺0) 不对称；字母差 缺4797 多85（判据不适用，审计档）"
+  },
+  {
+   "slug": "political-representation",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 47「t×4h×4e×3g×3w×3O×3R×2r×2s×2T×2S×2E×2」；数字差 -73（软信号）"
+  },
+  {
+   "slug": "popper",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 17「o×4r×2P×2p×2Kalehtf」；数字差 -8（软信号）"
+  },
+  {
+   "slug": "porphyry",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 48「r×6t×6w×5e×4p×3l×3a×3h×2y×2s×2b×2d×2」；数字差 -8（软信号）"
+  },
+  {
+   "slug": "possibilism-actualism",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1632(超0/缺0) / md 1430(超0/缺0) 不对称；字母差 缺5 多202（判据不适用，审计档）"
+  },
+  {
+   "slug": "possible-worlds",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 50「r×8t×6a×6o×4e×4u×4f×4s×2i×2d×2c×2w×2」；数字差 -34（软信号）"
+  },
+  {
+   "slug": "prediction-accommodation",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 49(超0/缺0) / md 48(超0/缺0) 不对称；字母差 缺0 多1（判据不适用，审计档）"
+  },
+  {
+   "slug": "preferences",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 401(超0/缺1) / md 405(超3/缺1) 不对称；字母差 缺53321 多155（判据不适用，审计档）"
+  },
+  {
+   "slug": "presupposition",
+   "rule": "text-stream-diff",
+   "detail": "缺 12 字母「φ×6ψ×6」；多 1318「t×317d×217e×106r×87s×80n×77l×74a×61p×49i×46c×46o×39」；数字差 -183（软信号）"
+  },
+  {
+   "slug": "price",
+   "rule": "text-stream-diff",
+   "detail": "缺 3519 字母「e×361i×339o×287n×234t×206a×200r×197s×181l×156d×143h×135c×106」；多 0「」；数字差 +1005（软信号）"
+  },
+  {
+   "slug": "prichard",
+   "rule": "text-stream-diff",
+   "detail": "缺 594 字母「e×58o×52n×49r×39s×36t×35i×35a×31l×31d×25h×22u×16」；多 0「」；数字差 +116（软信号）"
+  },
+  {
+   "slug": "principia-mathematica",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 558(超0/缺0) / md 409(超0/缺0) 不对称；字母差 缺0 多149（判据不适用，审计档）"
+  },
+  {
+   "slug": "prioritarianism",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 506(超0/缺0) / md 503(超0/缺0) 不对称；字母差 缺0 多3（判据不适用，审计档）"
+  },
+  {
+   "slug": "prisoner-dilemma",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 5「c×3b×2」；数字差 -16（软信号）"
+  },
+  {
+   "slug": "private-language",
+   "rule": "text-stream-diff",
+   "detail": "缺 457 字母「e×60i×44t×44n×40r×34o×34s×29a×28l×18u×15h×15d×15」；多 0「」；数字差 -2（软信号）"
+  },
+  {
+   "slug": "probability-interpret",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 254(超0/缺0) / md 245(超0/缺0) 不对称；字母差 缺0 多9（判据不适用，审计档）"
+  },
+  {
+   "slug": "problem-of-many",
+   "rule": "text-stream-diff",
+   "detail": "缺 76 字母「e×12t×10r×8h×6o×6a×5n×4i×4s×4c×4b×2l×2」；多 0「」；数字差 -8（软信号）"
+  },
+  {
+   "slug": "process-philosophy",
+   "rule": "text-stream-diff",
+   "detail": "缺 16 字母「o×6t×4e×2n×2f×2」；多 0「」；数字差 -1（软信号）"
+  },
+  {
+   "slug": "proof-theoretic-semantics",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 113(超0/缺0) / md 109(超0/缺0) 不对称；字母差 缺0 多4（判据不适用，审计档）"
+  },
+  {
+   "slug": "proof-theory-development",
+   "rule": "text-stream-diff",
+   "detail": "缺 44 字母「Γ×20Δ×20Θ×2Λ×2」；多 2361「t×315e×259r×224a×204l×165s×153m×137o×128n×126d×123p×102b×90」；数字差 -39（软信号）"
+  },
+  {
+   "slug": "proof-theory",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 1041(超0/缺0) / md 944(超0/缺0) 不对称；字母差 缺4 多100（判据不适用，审计档）"
+  },
+  {
+   "slug": "properties",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 250(超0/缺0) / md 248(超0/缺0) 不对称；字母差 缺0 多2（判据不适用，审计档）"
+  },
+  {
+   "slug": "property",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 56「e×8r×5o×5g×5p×4t×4a×3n×3s×3i×3c×3d×2」；数字差 -8（软信号）"
+  },
+  {
+   "slug": "propositional-function",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 257(超0/缺0) / md 252(超0/缺2) 不对称；字母差 缺0 多4（判据不适用，审计档）"
+  },
+  {
+   "slug": "publicity",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 133「t×19o×12i×11l×10s×10e×9c×7r×7p×7h×6a×6n×6」；数字差 -7（软信号）"
+  },
+  {
+   "slug": "pufendorf",
+   "rule": "text-stream-diff",
+   "detail": "缺 27 字母「o×7f×3S×2m×2e×2v×2n×2P×2iAgR」；多 40「a×12t×8l×4b×4u×3h×3w×2j×2ds」；数字差 +9（软信号）"
+  },
+  {
+   "slug": "pythagoras",
+   "rule": "text-stream-diff",
+   "detail": "缺 0 字母「」；多 140「b×20d×20r×18t×15s×14a×13n×11h×8l×7p×4e×4m×2」；数字差 +0（软信号）"
+  },
+  {
+   "slug": "qm-bohm",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 118(超0/缺0) / md 108(超0/缺0) 不对称；字母差 缺0 多10（判据不适用，审计档）"
+  },
+  {
+   "slug": "qm-consistent-histories",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 657(超0/缺0) / md 644(超0/缺0) 不对称；字母差 缺0 多13（判据不适用，审计档）"
+  },
+  {
+   "slug": "qm-decoherence",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 63(超0/缺0) / md 50(超0/缺0) 不对称；字母差 缺8 多13（判据不适用，审计档）"
+  },
+  {
+   "slug": "qm-everett",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 204(超0/缺0) / md 200(超0/缺0) 不对称；字母差 缺0 多4（判据不适用，审计档）"
+  },
+  {
+   "slug": "qm-modal",
+   "rule": "math-asymmetric-diff",
+   "detail": "跨度 html 230(超0/缺0) / md 213(超0/缺0) 不对称；字母差 缺0 多17（判据不适用，审计档）"
+  }
+ ],
+ "issue_total": 528
+}

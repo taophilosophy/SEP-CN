@@ -112,3 +112,12 @@
 | 免抖动证明 | 全量重转（第 6 轮）`yuanwen/`＋`baseline/entries.json` **零改动**；同时即 I2 重放等值的确定性证明（同源 HTML ⊕ 补丁必得同 md） |
 | 门禁 11→12 项 | `check_all` 增“转换保真（yuanwen≡基线）”`--gate`（I2-lite 全库零异常）；中文体例全库硬门挂起至 P8（前置清单见上） |
 | 挂起（翻译面，本轮不动） | P6 余 14 slug＋12 件 cleared 译注小卡；P8 回退 416 件重走 s2.4（含句内括注→节迁移 365 件）；P9 中文体例全库硬门 |
+
+## 2026-11-17 · P9 前置：I3 哨兵标定试跑＋双重题名收口（用户批准三项：①30 件重复 H1 ②工作区分线 ③I3 试做）
+
+| 项 | 结果 |
+| ---- | ---- |
+| ① 双重题名（P5 尾） | 根因两类：26 件旧模板正文同文 `<h1>`（figure 先于题，`startswith('# ')` 守卫漏判）＋4 件**上游字面 `#`**（disjunction 例句 `<dd># Absolument…`、(31) 紧贴 `#Absolument`）。修法：`_drop_duplicate_h1`（同文去重、异文不动禁静默丢文）＋p/dd 发射 `_escape_leading_hash`（`\#` 转义，文字照录）。定点重转 30 件：词面守恒 30/30 全等、全库重复 H1 清零、`check_all` 12 项绿（79ead5c77） |
+| ② 工作区分线 | 3 件 ADR-0062 收尾（journal/en-errata/036 log）已由并行会话收编（9cc7cc794），本轮树净 |
+| ③ I3 哨兵标定 | `strip_math_ex` 三计数（spans/oversize/unclosed）＋SENTINEL＋对称性分类；9 例单测；试金石 5 件（3 件噪声隔离✓、1 件无回退✓、sartre/buber 反转**真缺陷**）；全库 8m14s：381 混杂 → 320 math-asymmetric（判据不适用）＋195 真候选。**新缺陷族：书目嵌套 `<li>` 丢弃，129 包受影响**（登记归 018/023 保真线，另立修复卡）。详见 `results/i3-sentinel-trial-20261117.md` |
+| P9 升门前置（更新） | ①195 件逐条定性；②书目嵌套 li 修复（expect≈129）；③math-asymmetric 320 件中 203 兼差件复核；④中文体例全库硬门（挂起至 P8） |
