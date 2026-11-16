@@ -31,7 +31,7 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 * `npm` 不是受支持路径：Windows 下 npm 用 cmd.exe 执行 script，不识别 `NODE_OPTIONS=` 前缀（ADR-0014）。
 * **运行时是 bun 不是 node**（2026-11-16 用户裁定）：壳脚本以 `bun --bun x vitepress …` 起 VitePress，构建/开发/preview 全走 bun 运行时；bun 不认 V8 的 `--max-old-space-size`，内存上限交给 JSC 自管，构建前先腾内存（并行跑其它会话时尤其）。CI 侧内存压力靠 32 GB swap 兜底（见分片节）。
 * 运行时基线（ADR-0032）：Node ≥ 26（本地验证 26.13.0；Vite 8 要求 `^20.19 || >=22.12`，仍用于 `prepare-*.mjs` 之外的若干工具）、bun ≥ 1.4（本地 1.4.4）。全量 `build` 曾需约 8 GB 空闲内存；内存不足时构建进程直接被系统杀掉（node 下是 `FATAL ERROR: Reached heap limit`，退出 134）。
-* CI（壳的 `push_deploy.yml` / `sync_deploy.yml`）构建前 `cp docs/README.md docs/index.md`：VitePress 把 `README.md` 编成 `README.html`，Pages 站点根需要 `index.html`。该文件只在 CI 生成，不入库。
+* CI（壳的 `deploy.yml`，2026-11-16 由 `push_deploy.yml`/`sync_deploy.yml` 二合一，ADR-0061）构建前 `cp docs/README.md docs/index.md`：VitePress 把 `README.md` 编成 `README.html`，Pages 站点根需要 `index.html`。该文件只在 CI 生成，不入库。
 
 ## 构建期准备（prepare-*.mjs）
 
@@ -46,7 +46,7 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 * `SEP_SHARD=ad|ek|lp|qz` 时每片只渲染约 1/4 页面（2026-11-16 实测内容页：a–d 1164、e–k 1050、l–p 1196、q–z 915，中英两侧同片；各片另出 404 一页）。根级页面（README、`mu-lu-s`、两本登记册、SUMMARY）、`1/` 与 `qian-yan`、`guan-yu`、`jian-yi-shu`、`fang-fa-lun` 等非字母目录**连同其 `yuanwen/` 英文镜像**只进 `ad` 片（`yuanwen/README.md` 亦同）——中英必须同片，否则某片只有译文没有原文、双语切换指向未构建的页面。产物写 `.vitepress/dist-<shard>`，pagefind 不在分片内跑。
 * 分片模式**死链检查照常开启**（2026-11-16 用户裁定，`config.mts` 的 `isExistingSitePage`）：分片只渲染本片页面，跨片链接按 VitePress 规则会判死链，故扫描全仓 md 生成"全站页面集"（排除规则与 `siteExclude` 同源），指向其中任一页面的链接豁免、全站都不存在的链接仍硬失败。强度与全量构建一致：实测在分片页里插入一条死链，构建在该处报 `1 dead link(s) found` 退出。
 * `.vitepress/merge-shards.mjs` 依次：叠加各片 dist → `hashmap.json` 取并集（客户端在本片哈希表缺项时会回退 fetch `/hashmap.json` 重试，并集后跨片跳转正常）→ 拼接各片 `sitemap.xml` 的 `<url>` 条目 → 对整份 dist 跑一次 pagefind（参数与插件一致：`--exclude-selectors "div.aside, a.header-anchor"`）。
-* 实测：本地单片（打包＋渲染）117–201 s，合并（含 pagefind）288 s；CI 四片并行各 1:55–2:20，合并 3:06，全流程 **6 分 21 秒**（改造前单进程约 20 分钟）。CI 侧 `push_deploy.yml` / `sync_deploy.yml` 均为 matrix → merge → deploy 三段。
+* 实测：本地单片（打包＋渲染）117–201 s，合并（含 pagefind）288 s；CI 四片并行各 1:55–2:20，合并 3:06，全流程 **6 分 21 秒**（改造前单进程约 20 分钟）。CI 侧 `deploy.yml` 为 sync（可选）→ matrix → merge → deploy 四段（`sync_docs` 开关决定是否先拉子模块）。
 
 ## dev 服务器
 
