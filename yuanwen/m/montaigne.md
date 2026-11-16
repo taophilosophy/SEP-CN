@@ -5,7 +5,6 @@
 ![image of Montaigne](../assets/montaigne/montaigne-small.jpg)
 
 François Quesnel, “Montaigne”, c. 1590, drawing reprinted with permission from the Montaigne Studies website
-# Michel de Montaigne
 **First published Wed Aug 18, 2004; substantive revision Sat Aug 8, 2026**
 
 > *The question is not who will hit the ring, but who will make the best runs at it.*

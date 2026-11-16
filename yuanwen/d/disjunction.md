@@ -338,7 +338,7 @@ a. Marie ira au cinéma soit lundi soit mardi. ‘Marie will go to the movies SO
 
 **b.**
 
-# Absolument! Et elle ira même à la fois lundi ET mardi. ‘Absolutely! She will even go both days.’
+\# Absolument! Et elle ira même à la fois lundi ET mardi. ‘Absolutely! She will even go both days.’
 
 It is important to notice at this point that logic textbook exclusive disjunction, represented as $\infty$ in the following truth table, would not deliver the correct results for these constructions.
 
@@ -363,7 +363,7 @@ On the other hand, Spector notices that the following would be deviant as a repl
 
 **(31)**
 
-#Absolument! Et ils étudient même les deux. ‘Absolutely! And they even study both.’
+\#Absolument! Et ils étudient même les deux. ‘Absolutely! And they even study both.’
 
 Notice that (31) negates the exclusive (*not both*) implicature derived from (30a) by Gricean reasoning using (32) as a relevant alternative:
 
@@ -393,7 +393,7 @@ Long-distance anti-licensing for global PPI *soit-soit* [e.g., *soit-soit* canno
 
 **(35)**
 
-#Je ne pense pas que Jacques ait invité soit Anne soit Paul à dîner. [Under a narrow-scope interpretation for disjunction] ‘I don’t think that Jacques invited SOIT Anne SOIT Paul for dinner.’
+\#Je ne pense pas que Jacques ait invité soit Anne soit Paul à dîner. [Under a narrow-scope interpretation for disjunction] ‘I don’t think that Jacques invited SOIT Anne SOIT Paul for dinner.’
 
 ## 6. Modal accounts of disjunction and free choice
 

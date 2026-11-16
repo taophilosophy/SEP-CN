@@ -5,7 +5,6 @@
 ![Photo of Isaiah Berlin](../assets/berlin/berlin.png)
 
 Isaiah Berlin, 18 July 1968 Photo by Helen Muspratt, Ramsey and Muspratt © The Trustees of the Isaiah Berlin Literary Trust
-# Isaiah Berlin
 **First published Tue Oct 26, 2004; substantive revision Sun Nov 8, 2026**
 
 Isaiah Berlin (1909–97) was a naturalised British philosopher, historian of ideas, political theorist, educator, public intellectual and moralist, and essayist. He was renowned for his conversational brilliance, his defence of liberalism and pluralism, his opposition to political extremism and ideological fanaticism, and his accessible, coruscating writings on people and ideas. His essay *Two Concepts of Liberty* (1958) contributed to a revival of interest in political theory in the English-speaking world, and remains one of the most influential and widely discussed texts in that field: admirers and critics agree that Berlin’s distinction between positive and negative liberty remains, for better or worse, a basic starting point for discussions of the meaning and value of political freedom. Later in his life, the greater availability of his numerous essays began to provoke increasing interest in his work, particularly in the idea of value pluralism; that Berlin’s articulation of value pluralism contains many ambiguities and even obscurities has only encouraged further work on this rich and important topic by other philosophers.

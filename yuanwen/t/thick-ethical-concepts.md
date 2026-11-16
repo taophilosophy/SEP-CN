@@ -193,13 +193,13 @@ Some of the relevant linguistic data seem easy to explain if thick terms are sem
 
 **(1)**
 
-# Making fun of an insecure person just for fun is cruel and not bad in any way for it.
+\# Making fun of an insecure person just for fun is cruel and not bad in any way for it.
 
 **(2)**
 
 Speaker *A*: It was courageous of Sue to stand up to that racist on the bus.
 
-# Speaker *B*: Sure, courageous—and not good in any way for it.
+\# Speaker *B*: Sure, courageous—and not good in any way for it.
 
 In both (1) and the exchange in (2), denying an evaluation that is normally conveyed by utterances involving *cruel* and *courageous* is infelicitous (indicated by “#”). If the first half of (1) semantically expresses global evaluation (of something as bad in a certain way), (1) is infelicitous because its two halves contradict each other—a very neat explanation! The same would go for the exchange in (2): *A*’s and *B*’s utterances entail contradictory claims about whether Sue’s act was good in any way. (See Kyle 2013a for a discussion of how the Semantic View might allow that (1) isn’t infelicitous in all contexts.) This explanation of the Semantic View sounds cognitivist: it construes the evaluation as presenting a certain class of things (not just an individual thing) as good or bad in a certain way. But an expressivist about evaluative language could construe it as expressing the speaker’s positive or negative attitude toward the things in question.
 

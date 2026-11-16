@@ -5,7 +5,6 @@
 ![Picture of Arthur Prior sitting on a bench](../assets/prior/prior.jpg)
 
 Prior in 1953, Cranmer Square, Christchurch, New Zealand (*Courtesy of Martin Prior*)
-# Arthur Prior
 **First published Mon Oct 7, 1996; substantive revision Tue Jan 28, 2020**
 
 Arthur Prior (1914–1969) undertook pioneering work in intensional logic at a time when modality and intensional concepts in general were under attack. He invented tense logic and was principal theoretician of the movement to apply modal syntax to the formalisation of a wide variety of phenomena. Prior and Carew Meredith devised a version of the possible worlds semantics several years before Saul Kripke published his first paper on the topic. An iconoclast and a resourceful innovator, Prior inspired many to undertake work in intensional logic.

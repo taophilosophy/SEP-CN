@@ -3,7 +3,6 @@
 *Bell, John L., Korté, Herbert*
 
 ![Photo of Hermann Weyl](../assets/weyl/weyl.jpg)
-# Hermann Weyl
 **First published Wed Sep 2, 2009; substantive revision Sat Jun 8, 2024**
 
 Hermann Weyl was a great and versatile mathematician of the 20ᵗʰ century. His work had a vast range, encompassing analysis, algebra, number theory, topology, differential geometry, spacetime theory, quantum mechanics, and the foundations of mathematics. His scientific writing is informed by a rare literary and artistic sensibility—in his words, “Expression and shape mean almost more to me than knowledge itself”. He was unusual among scientists and mathematicians of his time in being attracted to idealist philosophy: his idealist leanings can be seen particularly in his work on the foundations of mathematics. In his youth, Kant’s doctrines made a great impression on him; later he was stirred both by Fichte’s metaphysical idealism and by Husserlian phenomenology. Although Weyl came to question the certainties claimed by idealism, he cleaved always to the primacy of intuition he had first learned from Kant, and to its expression by Fichte as the “inner light” of individual consciousness.

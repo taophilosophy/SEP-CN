@@ -5,7 +5,6 @@
 ![a print of Johann Friedrich Herbart](../assets/johann-herbart/Johann_F_Herbart-crop.png)
 
 Cropped print of Herbart by Konrad Geyer (1815–1893) (public domain, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johann_F_Herbart.jpg))
-# Johann Friedrich Herbart
 **First published Tue Dec 8, 2015**
 
 Johann Friedrich Herbart (1776–1841) is known today mainly as a founding figure of modern psychology and educational theory. But these were only parts of a much grander philosophical project, and it was as a philosopher of the first rank that his contemporaries saw him. Even in his own day, Herbart’s direct influence on academic philosophy was limited, but this had as much to do with shifting disciplinary borders as with his polemics against the German Idealists. In psychology and pedagogy, however, his influence was greater and longer lasting. While no one took over his philosophy or psychology (and especially the impenetrable mathematics) as a whole, certain aspects of his thought proved immensely fruitful. Indeed, without Herbart, the landscape of modern psychology and philosophy would be unrecognizable.

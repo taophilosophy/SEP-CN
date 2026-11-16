@@ -3,7 +3,6 @@
 *Marek, Johann*
 
 ![photo of young Meinong](../assets/meinong/young-meinong.jpg)   ![photo of older Meinong](../assets/meinong/old-meinong.jpg)
-# Alexius Meinong
 **First published Mon Dec 8, 2008; substantive revision Tue Dec 26, 2023**
 
 Alexius Meinong Ritter von Handschuchsheim (b. 1853, d. 1920) was an Austrian philosopher and psychologist who worked at the University of Graz from 1882 until his death. He initiated experimental psychology in Austria-Hungary by founding the first psychological laboratory there in 1894. However, he became primarily renowned for the so called *theory of objects* ([*Gegenstandstheorie*], 1904), a kind of *a priori* ontological account that introduces and considers systematically not only existent but also non-existent objects. His approach is not only shaped by Franz Brentano’s descriptive psychology, a form of phenomenological philosophy, and its connected notion of intentionality (directedness of mind), but also by the British empiricists. Continuing and modifying Brentano’s philosophical teachings, Meinong provided important original contributions to quite a few philosophical disciplines, most notably to ontology and metaphysics, value theory, epistemology, philosophical psychology, and philosophy of language.

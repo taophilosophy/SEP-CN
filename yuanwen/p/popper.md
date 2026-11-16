@@ -3,7 +3,6 @@
 *Thornton, Stephen*
 
 ![Photo of Karl Popper](../assets/popper/popper.jpg)
-# Karl Popper
 **First published Thu Nov 13, 1997; substantive revision Fri Jul 31, 2026**
 
 Karl Popper is generally regarded as one of the greatest philosophers of science of the twentieth century. He was also a social and political philosopher of considerable stature, a self-professed critical-rationalist, a dedicated opponent of all forms of scepticism and relativism in science and in human affairs generally and a committed advocate and staunch defender of the “Open Society”. One of the many remarkable features of Popper’s thought is the scope of his intellectual influence: he was lauded by Bertrand Russell, taught Imre Lakatos, Paul Feyerabend and philanthropist George Soros at the London School of Economics, numbered David Miller, Joseph Agassi, Alan Musgrave and Jeremy Shearmur amongst his research assistants, was counted by Thomas Szasz as “among my foremost teachers” and had close ties with the economist Friedrich Hayek and the art historian Ernst Gombrich. Additionally, Peter Medawar, John Eccles and Hermann Bondi are amongst the distinguished scientists who have acknowledged their intellectual indebtedness to his work, the latter declaring that “There is no more to science than its method, and there is no more to its method than Popper has said”.

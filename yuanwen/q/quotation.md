@@ -709,7 +709,7 @@ While these both seem clearly on the right lines (if you doubt this, open or scr
 
 **(38)**
 
-# Quine said quotation ‘has a certain anomalous feature’, although he didn’t use the words ‘has a certain anomalous feature’.
+\# Quine said quotation ‘has a certain anomalous feature’, although he didn’t use the words ‘has a certain anomalous feature’.
 
 Things aren’t so clear, though. Certain other pieces of data are in tension with this purported feature of the mention requirement, most notably that one can mixed quote someone correctly in a language other than the one they spoke (Cappelen and Lepore 2007 p. 44)[^cappelen-2007]. Thus the following, as well as its parenthesised continuation, is fine:
 

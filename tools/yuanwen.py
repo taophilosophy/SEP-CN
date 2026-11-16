@@ -672,6 +672,41 @@ class Ctx:
         self.out.extend(lines)
 
 
+def _escape_leading_hash(text):
+    """块级文本行首字面 `#` 转义（specs/039 P5 尾，disjunction 判例）。
+
+    上游偶见作者在例句/段落起句处打字面 `#`（`<dd># Absolument! …`，
+    亦有紧贴无空格的 `#Absolument`），原样落行首会被渲染为标题——md
+    语义失真。文字照录不变（ADR-0062），仅转义结构义；仅处理行首。
+    标题分支（h1–h6 emit）不经此处，不受影响。"""
+    return '\\' + text if text.startswith('#') else text
+
+
+def _drop_duplicate_h1(md):
+    """统一题名源（specs/039 P5 尾）：旧模板条目正文自带与题名同文的 <h1>
+    （figure 先于 h1，`startswith('# ')` 守卫漏判）→ 前置题名后成双重标题。
+    围栏外存在多条**同文** H1 时保留首条、删其余（含其相邻一空行）；
+    异文不动（禁静默丢文，重转 diff 复核兜底）。"""
+    lines = md.split('\n')
+    fence, h1_idx, h1_texts = False, [], []
+    for i, ln in enumerate(lines):
+        if ln.strip().startswith('```'):
+            fence = not fence
+            continue
+        if not fence and ln.startswith('# '):
+            h1_idx.append(i)
+            h1_texts.append(ln[2:].strip())
+    if len(h1_idx) > 1 and len(set(h1_texts)) == 1:
+        drop = set(h1_idx[1:])
+        for i in h1_idx[1:]:
+            if i + 1 < len(lines) and lines[i + 1] == '':
+                drop.add(i + 1)
+            elif i - 1 >= 0 and lines[i - 1] == '' and (i - 1) not in h1_idx:
+                drop.add(i - 1)
+        md = '\n'.join(ln for i, ln in enumerate(lines) if i not in drop)
+    return md
+
+
 def render_blocks(blocks, ctx):
     for b in blocks:
         t, inner = b['type'], b['inner']
@@ -712,7 +747,7 @@ def render_blocks(blocks, ctx):
             if ctx.in_bib:
                 ctx.bib_entries.append((text, ctx.bib_section))
             else:
-                ctx.emit('', text)
+                ctx.emit('', _escape_leading_hash(text))
         elif t == 'blockquote':
             # 引文块内完整渲染（2026-10-27 数学保真裁定）：旧实现只挑 <p>，
             # 会丢引文中的裸展示公式（p 间 gap）与无 <p> 包装的列表项；
@@ -754,7 +789,7 @@ def render_blocks(blocks, ctx):
                     # 7 表曾被行内剥壳）：文本段与表段按序完整转出
                     segs = _split_tables(dm.group(2))
                     if not any(t for t, _ in segs):
-                        ctx.emit('', inline_to_md(dm.group(2), ctx.slug))
+                        ctx.emit('', _escape_leading_hash(inline_to_md(dm.group(2), ctx.slug)))
                         continue
                     for is_t, chunk in segs:
                         if is_t:
@@ -762,7 +797,7 @@ def render_blocks(blocks, ctx):
                         else:
                             txt = inline_to_md(chunk, ctx.slug)
                             if txt:
-                                ctx.emit('', txt)
+                                ctx.emit('', _escape_leading_hash(txt))
         elif t == 'pre':
             code = unescape(re.sub(r'<[^>]+>', '', inner))
             ctx.emit('', '```\n%s\n```' % code.strip('\n'))
@@ -1171,6 +1206,7 @@ def convert_entry(slug):
     if not md.startswith('# '):
         title = unescape(tm.group(1)) if tm else slug
         md = '# %s\n\n%s' % (title, md)
+    md = _drop_duplicate_h1(md)
     if authors:
         md = md.replace('\n\n', '\n\n*%s*\n\n' % ', '.join(authors), 1)
 

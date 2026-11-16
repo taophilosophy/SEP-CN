@@ -3,7 +3,6 @@
 *Reck, Erich*
 
 ![Photo of Richard Dedekind](../assets/dedekind-foundations/dedekind.png)
-# Dedekind’s Contributions to the Foundations of Mathematics
 **First published Tue Apr 22, 2008; substantive revision Tue Oct 21, 2025**
 
 Richard Dedekind (1831–1916) was one of the greatest mathematicians of the nineteenth-century, as well as one of the most important contributors to algebra and number theory of all time. Any comprehensive history of mathematics will mention him for his investigation of the notions of algebraic number, field, group, module, lattice, etc., and especially for the invention of his theory of ideals (see, e.g., Dieudonné 1985, Stillwell 2000, Kolmogorov & Yushkevich 2001, Boyer & Merzbach 2011, Wussing 2012, Katz 2017)[^boyer-2011][^dieudonné-1985][^katz-2017][^kolmogorov-2001][^stillwell-2000][^wussing-2012]. Dedekind’s more foundational work in mathematics is also widely known. Often acknowledged in that connection are: his analysis of the notion of continuity, his introduction of the real numbers by means of Dedekind cuts, his formulation of the Dedekind-Peano axioms for the natural numbers, his proof of the categoricity of these axioms, and his contributions to the early development of set theory (Grattan-Guinness 1980, Ferreirós 1996, 1999, 2016b, Jahnke 2003, Corry 2015)[^corry-2015][^ferreirós-1996][^ferreirós-1999][^grattan-guinness-1980][^jahnke-2003].

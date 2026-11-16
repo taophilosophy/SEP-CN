@@ -9,7 +9,8 @@ REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 sys.path.insert(0, REPO)
 
 from tools.yuanwen import (  # noqa: E402
-    build_cite_keys, extract_blocks_raw, inline_to_md, link_citations,
+    _drop_duplicate_h1, _escape_leading_hash, build_cite_keys,
+    extract_blocks_raw, inline_to_md, link_citations,
     protect_cross_block_math, render_blocks, restore_cross_block_math,
     strip_closed_comments, Ctx)
 
@@ -561,6 +562,52 @@ class TestNakedEnvGuard(unittest.TestCase):
 def render_one_table(full_html):
     from tools.yuanwen import table_to_md
     return table_to_md(full_html, 't')
+
+
+class TestTitleDedupeAndHashEscape20261117(unittest.TestCase):
+    """specs/039 P5 尾：双重题名守卫漏判（旧模板图先于题）与行首字面 #。
+
+    判例：russell 等 30 件 `^# ` 双题；disjunction 例句 dd 里上游字面
+    `# Absolument! …`（(31) 为紧贴 `#Absolument`）落行首成伪 H1。
+    """
+
+    def test_same_text_body_h1_dropped(self):
+        md = '# T\n\n*Author*\n\n![img]\n\n*cap*\n\n# T\n\n**First published**'
+        self.assertEqual(
+            _drop_duplicate_h1(md),
+            '# T\n\n*Author*\n\n![img]\n\n*cap*\n\n**First published**')
+
+    def test_different_text_h1_untouched(self):
+        # 异文禁静默丢文：原样返回，交重转 diff 复核兜底
+        md = '# T\n\nbody\n\n# Other'
+        self.assertEqual(_drop_duplicate_h1(md), md)
+
+    def test_single_h1_untouched(self):
+        md = '# T\n\nbody'
+        self.assertEqual(_drop_duplicate_h1(md), md)
+
+    def test_fence_hash_not_counted(self):
+        md = '# T\n\n```sh\n# not a heading\n```\n\n# T\n\ntail'
+        out = _drop_duplicate_h1(md)
+        self.assertEqual(out.count('# T'), 1)  # 围栏外的第二个题名被删
+        self.assertIn('# not a heading', out)  # 围栏内原样
+
+    def test_dd_leading_hash_escaped(self):
+        ctx = Ctx('disjunction')
+        blocks = extract_blocks_raw('<dl class="sentag"><dt>b.</dt>'
+                                    '<dd># Absolument! Et elle ira.</dd></dl>')
+        render_blocks(blocks, ctx)
+        self.assertIn('\\# Absolument! Et elle ira.', '\n'.join(ctx.out))
+
+    def test_hash_tight_no_space_escaped(self):
+        ctx = Ctx('disjunction')
+        blocks = extract_blocks_raw('<p>#Absolument! Et ils étudient même les deux.</p>')
+        render_blocks(blocks, ctx)
+        self.assertIn('\\#Absolument', '\n'.join(ctx.out))
+
+    def test_escape_leading_hash_non_hash_untouched(self):
+        self.assertEqual(_escape_leading_hash('普通正文'), '普通正文')
+        self.assertEqual(_escape_leading_hash(''), '')
 
 
 if __name__ == '__main__':

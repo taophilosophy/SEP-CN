@@ -5810,9 +5810,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/a/anderson-john.md",
-        "sha256": "730a24cd72de3f9ad62ca82d38bcc94c48a4b3292686d89c66b91c86b5cc7cbc",
+        "sha256": "78edfe9de4572236e8670241e7f2ffdcb1bd720862231a085669c184f77f6ffe",
         "source_sha256": "a104b5a4c4ca0ff2210bcf502550fd2dbc9d3820f751a926b149d3007430f607",
-        "converted_at": "2026-11-16T15:21:48Z",
         "cite_markers": 27,
         "cite_defs": 52,
         "supplements": [],
@@ -5820,7 +5819,8 @@
           "yuanwen/assets/anderson-john/anderson.jpg",
           "yuanwen/assets/anderson-john/ja_categories.jpg"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:27Z"
       }
     },
     {
@@ -13387,16 +13387,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/b/berlin.md",
-        "sha256": "61ff0d77abc3db7ad045631ac39a7661ee287d5cbdc9cdb90eae30e924416f02",
+        "sha256": "90a95ebd02eb937c544757f1959ed5242f1fa4239bdd06caf077d65c82d620d9",
         "source_sha256": "099fe16573250c2efae773c9b417a7b83aa26649a3d1e312f692c7b6152ec080",
-        "converted_at": "2026-11-16T15:22:23Z",
         "cite_markers": 97,
         "cite_defs": 227,
         "supplements": [],
         "images": [
           "yuanwen/assets/berlin/berlin.png"
         ],
-        "notes": 30
+        "notes": 30,
+        "converted_at": "2026-11-16T21:03:28Z"
       }
     },
     {
@@ -15584,9 +15584,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/b/bradley.md",
-        "sha256": "36c1e8bebfe24c08ac31003d7d757820fb9cd7398e2e1abd297975ebc1ca131e",
+        "sha256": "c29566eb06d5be1c44f5fad760af924908e40c2603436311befa180367ac15b2",
         "source_sha256": "6aef9ec200d3be9c1f8f957bbb2ec7c4d0a2e4519714a91d395a67fd72c2f657",
-        "converted_at": "2026-11-16T15:22:33Z",
         "cite_markers": 0,
         "cite_defs": 54,
         "supplements": [],
@@ -15594,7 +15593,8 @@
           "yuanwen/assets/bradley/bradley-large.gif",
           "yuanwen/assets/bradley/bradley.gif"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:28Z"
       }
     },
     {
@@ -21834,9 +21834,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/c/church.md",
-        "sha256": "c37787baf3a662ed32af8e2abc85bcedc2b5b30bafe4d77391636b35a4a5704d",
+        "sha256": "8e73a9ce12c858d40deedb4ce87eceef63e6fabf5e479d0deb45602a8b804b66",
         "source_sha256": "3647868459c94405fd59a3d93e2d68081cda1c0e520a7ee5c9f0ed0c5a297bb3",
-        "converted_at": "2026-11-16T15:23:01Z",
         "cite_markers": 89,
         "cite_defs": 214,
         "supplements": [
@@ -21850,7 +21849,8 @@
         "images": [
           "yuanwen/assets/church/alonzo-church.png"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:29Z"
       }
     },
     {
@@ -33056,16 +33056,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/d/dedekind-foundations.md",
-        "sha256": "9a48ddec2b9c42b78e12e1f21eaae49231df9082326d9d342ae2e0a43049a2ba",
+        "sha256": "a3b0539777909773da822ef12cbd74e360939a1e16a82e655430fac8b748a564",
         "source_sha256": "f042930b149daeaa0546c2b92fc45f2a924246c03850799fb1ee8833bf09b930",
-        "converted_at": "2026-11-16T15:23:50Z",
         "cite_markers": 241,
         "cite_defs": 142,
         "supplements": [],
         "images": [
           "yuanwen/assets/dedekind-foundations/dedekind.png"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:29Z"
       }
     },
     {
@@ -34127,16 +34127,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/d/descartes.md",
-        "sha256": "eaf9e071a2d9946c18a32d7839944e70abf716b9b76b8cbca89951ca8d0cd7a3",
+        "sha256": "bc749e886caefa5c4ad85751ffc726bf372a49def357ca3719f79558fca8c3ba",
         "source_sha256": "bc45676114e87081e7a557f6092bef0011586a3529559f392712595cdb476a96",
-        "converted_at": "2026-11-16T15:23:55Z",
         "cite_markers": 73,
         "cite_defs": 125,
         "supplements": [],
         "images": [
           "yuanwen/assets/descartes/descartes.jpg"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:31Z"
       }
     },
     {
@@ -35021,9 +35021,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/d/descartes-works.md",
-        "sha256": "10a2d4be65445dfd1416ecaf1372d3d593ffb94df10cbb41939b4093142f9de8",
+        "sha256": "1d2c74820aa2cefb5d33b4e06d85e2b1998d9ec73e1391318e0e729999c3d2fb",
         "source_sha256": "935a1c6b5a44a7b076c1dcd0d1458a940beaba4022e6cb0f435724c254ecfdfe",
-        "converted_at": "2026-11-16T15:23:58Z",
         "cite_markers": 3,
         "cite_defs": 60,
         "supplements": [
@@ -35036,7 +35035,8 @@
           "yuanwen/assets/descartes-works/descartes.jpg",
           "yuanwen/assets/descartes-works/lawthesis72.jpg"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:30Z"
       }
     },
     {
@@ -37609,9 +37609,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/d/disjunction.md",
-        "sha256": "4d678af25199fab70eaba21e074d6f878b8451fec4897f397deb134c2baf6952",
+        "sha256": "9f84c32c67ccc76cdb30245a1972c9d49870c574e30726dfcea15708f4167622",
         "source_sha256": "4326346b6941e7ec2cb8bd8cacad794a229dac8d174baa173188f7f8180a2d33",
-        "converted_at": "2026-11-16T15:24:08Z",
         "cite_markers": 157,
         "cite_defs": 129,
         "supplements": [],
@@ -37619,7 +37618,8 @@
           "yuanwen/assets/disjunction/fig-a.png",
           "yuanwen/assets/disjunction/fig-b.png"
         ],
-        "notes": 3
+        "notes": 3,
+        "converted_at": "2026-11-16T21:03:31Z"
       }
     },
     {
@@ -40561,16 +40561,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/e/emerson.md",
-        "sha256": "7e429896ed487b1c4f433c15b5661cdf2d9e3dfd0e94e2c37899077490eb2ff5",
+        "sha256": "8fa0d1feddfdcfccd10f18e6c8be94a4357c6ff72211218bc4dfeabb641e105a",
         "source_sha256": "1f50f123c975c90768b811cf9f26c85dad34a6799cc46c8c4c6466d37fbe2d68",
-        "converted_at": "2026-11-16T15:24:25Z",
         "cite_markers": 0,
         "cite_defs": 57,
         "supplements": [],
         "images": [
           "yuanwen/assets/emerson/emerson.jpg"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:32Z"
       }
     },
     {
@@ -52804,9 +52804,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/f/francisco-sanches.md",
-        "sha256": "64b011e0a238300a3c5b2e58526eb32bdb4090654027360c2ebe4888bee9cfe9",
+        "sha256": "825d96b1110800440a944c64984702202774f06d667a26899c17939b04fe76c3",
         "source_sha256": "34a38c3e9eedd58cc0dc4ddf75d5e97c60fcb0cd2170d3e99f17dcb32c0414bf",
-        "converted_at": "2026-11-16T15:25:31Z",
         "cite_markers": 45,
         "cite_defs": 86,
         "supplements": [],
@@ -52816,7 +52815,8 @@
           "yuanwen/assets/francisco-sanches/sanches-large.png",
           "yuanwen/assets/francisco-sanches/sanches-small.png"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:32Z"
       }
     },
     {
@@ -53812,9 +53812,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/f/frege.md",
-        "sha256": "5b9cd964c34d2a65e475e10a36b37a0f279aa0a0c3c4e96024f9494803d8df31",
+        "sha256": "4dfb98a0907f7cf0b584bac82c1060233df7c9d324f9d4c91ed3ac389dba3952",
         "source_sha256": "7506f3cb7dd711df8a5f2f9540f9a5565e5bea1f7c25b5025fd79796070a472a",
-        "converted_at": "2026-11-16T15:25:35Z",
         "cite_markers": 51,
         "cite_defs": 95,
         "supplements": [
@@ -53841,7 +53840,8 @@
           "yuanwen/assets/frege/not.svg",
           "yuanwen/assets/frege/that-Hj.svg"
         ],
-        "notes": 9
+        "notes": 9,
+        "converted_at": "2026-11-16T21:03:33Z"
       }
     },
     {
@@ -61083,16 +61083,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/h/hartley.md",
-        "sha256": "fe0944288cb5a788e93926f11790a7dd9ad48dbd030afc5f61c77369efec6c5f",
+        "sha256": "76bd7ce8492d09bd1318e784bfb7929e7ea0620492ebc441ee5fe10f7b14a7e6",
         "source_sha256": "d71f5734e4acc95f3bc2e9f604cd2e8e9f23259ade38f4004b801483e38e794f",
-        "converted_at": "2026-11-16T15:25:57Z",
         "cite_markers": 24,
         "cite_defs": 83,
         "supplements": [],
         "images": [
           "yuanwen/assets/hartley/hartley.jpg"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:33Z"
       }
     },
     {
@@ -70981,16 +70981,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/j/james.md",
-        "sha256": "3b684f09f136c2c78c6300296a61483e18154e386fba393bc65c8403fd1b7966",
+        "sha256": "7673f3f7f57a233207a1077ae9ccd76311067de4359723d7b6a6fadf3c2b61a1",
         "source_sha256": "7c2ff8fdc94bf2a87e6da59e99f1cabe13917bd5251c33e02c45cf98c469bd67",
-        "converted_at": "2026-11-16T15:26:50Z",
         "cite_markers": 2,
         "cite_defs": 76,
         "supplements": [],
         "images": [
           "yuanwen/assets/james/james.gif"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:33Z"
       }
     },
     {
@@ -72318,9 +72318,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/j/johann-herbart.md",
-        "sha256": "b9e4964036a2c019fdc5761aab338702003218b138588e1f49d5f22f44195071",
+        "sha256": "acc3ee9e78ee89e913a2c17dcab194044c889cf5bff4146a34392801bc3160cd",
         "source_sha256": "444b606dd0f1dad8efb47f4231791dcc1d3e7f0f59b16e75bbb2b59c75971fcf",
-        "converted_at": "2026-11-16T15:26:54Z",
         "cite_markers": 144,
         "cite_defs": 89,
         "supplements": [],
@@ -72328,7 +72327,8 @@
           "yuanwen/assets/johann-herbart/Johann_F_Herbart-crop.png",
           "yuanwen/assets/johann-herbart/fig1.png"
         ],
-        "notes": 79
+        "notes": 79,
+        "converted_at": "2026-11-16T21:03:34Z"
       }
     },
     {
@@ -90636,16 +90636,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/maritain.md",
-        "sha256": "462bff5e763bca4e5656c143a4793500d11b996bffd85b6dbc6bc5af53d30a02",
+        "sha256": "4afb04727b7cabfa1bdf0f03500234f4a77099df0d7c3937c22e71774160463e",
         "source_sha256": "e31424c7ecf34a0bd0bd01307e147a9a071de1f762c541bb7d3d2db9b241cf8a",
-        "converted_at": "2026-11-16T15:28:27Z",
         "cite_markers": 50,
         "cite_defs": 193,
         "supplements": [],
         "images": [
           "yuanwen/assets/maritain/maritain.gif"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:34Z"
       }
     },
     {
@@ -90960,16 +90960,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/marty.md",
-        "sha256": "0fc3ead58b551af4e50080efcc4de814646054426f88aec1861bd993bab822de",
+        "sha256": "a780d6ceda897311dc2d1c127b12df044b0ab716525656af300bebcccaf7f7c7",
         "source_sha256": "9fc961f27a33eae90124f43feceee1eed6bc6acba3e9f1d259f12368318d9d39",
-        "converted_at": "2026-11-16T15:28:29Z",
         "cite_markers": 108,
         "cite_defs": 152,
         "supplements": [],
         "images": [
           "yuanwen/assets/marty/marty.png"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:35Z"
       }
     },
     {
@@ -93305,9 +93305,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/meinong.md",
-        "sha256": "5926e62a1df66ca8d40f0834da8400e3ea11759331525b47271ebbeba1e804a1",
+        "sha256": "f56c7384fc35a1b33c16ff91e6a41d924a7e1c5e5e47af3035f247ae4ce15a5e",
         "source_sha256": "cea56008a7da679ae3d18e516277143aa08de8f97c01abd518448ec8654c2cfa",
-        "converted_at": "2026-11-16T15:28:38Z",
         "cite_markers": 50,
         "cite_defs": 149,
         "supplements": [
@@ -93319,7 +93318,8 @@
           "yuanwen/assets/meinong/old-meinong.jpg",
           "yuanwen/assets/meinong/young-meinong.jpg"
         ],
-        "notes": 4
+        "notes": 4,
+        "converted_at": "2026-11-16T21:03:35Z"
       }
     },
     {
@@ -97212,16 +97212,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/m/montaigne.md",
-        "sha256": "986ddfe8f7b6925d09f1b7ef2b6ceb876f145f9db46fefbb20d55d7e67381cde",
+        "sha256": "a411ba0a0f558ba5ba8af7b9e0d5ac926b98764cecc2fc0eca582efd42139bec",
         "source_sha256": "bc7f7628bcfcdb41c7bd79f122dd46de88cb6102d10be422e83ae1dc1b061112",
-        "converted_at": "2026-11-16T15:28:55Z",
         "cite_markers": 0,
         "cite_defs": 46,
         "supplements": [],
         "images": [
           "yuanwen/assets/montaigne/montaigne-small.jpg"
         ],
-        "notes": 79
+        "notes": 79,
+        "converted_at": "2026-11-16T21:03:36Z"
       }
     },
     {
@@ -113670,16 +113670,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/p/popper.md",
-        "sha256": "59d0aa379e69c842cd80674c90f4e6b68e28bc688d6fb955f4560b327ecff3fd",
+        "sha256": "a9a0db9a9910e160e4baded801264470cb2833087b9932808d471894e1530838",
         "source_sha256": "2c2d48c6891418c46c372a780ce2e76c00bcc9716bb7603f169976d61b6ec207",
-        "converted_at": "2026-11-16T15:30:10Z",
         "cite_markers": 15,
         "cite_defs": 121,
         "supplements": [],
         "images": [
           "yuanwen/assets/popper/popper.jpg"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:36Z"
       }
     },
     {
@@ -115652,16 +115652,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/p/prior.md",
-        "sha256": "bb4175b649e9f52739a2918c150ce98670ed634d83b5d25a6fa89fb845612b59",
+        "sha256": "de54e17b4a6cc19f5a2318f7df490fe49be6273f0fe28f178899d0f62a7a13c5",
         "source_sha256": "46334d0cbda1c567c4299efea9cf5c919e35cd57b33f916d414192b955ed5d00",
-        "converted_at": "2026-11-16T15:30:20Z",
         "cite_markers": 94,
         "cite_defs": 141,
         "supplements": [],
         "images": [
           "yuanwen/assets/prior/prior.jpg"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:37Z"
       }
     },
     {
@@ -121953,14 +121953,14 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/q/quotation.md",
-        "sha256": "204cb764c874cda5fa1e5f7acdc622a1c91f6391a0cb4c4000ec1930cbf8ff14",
+        "sha256": "61df3934ccde2b93ab445257acfe2bff55384d6be8721088f67d746169847a88",
         "source_sha256": "ef5807afdbcee5f70f8b7bd00c96be8db668aeef7c5303b6b991e848fd21831b",
-        "converted_at": "2026-11-16T15:30:50Z",
         "cite_markers": 168,
         "cite_defs": 115,
         "supplements": [],
         "images": [],
-        "notes": 16
+        "notes": 16,
+        "converted_at": "2026-11-16T21:03:37Z"
       }
     },
     {
@@ -124609,9 +124609,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/r/reichenbach.md",
-        "sha256": "4b80ae1194eb511d18ee0e251eb5e46714f53f4afb17eaf34b075e93b2b4f169",
+        "sha256": "8b95be232d3e6bb50c0e40705b9e83c178ea74bd34753fa27c75b8f05656d175",
         "source_sha256": "6c31391ce80ad089e83e9699aa763dcf346140fdfcffef9a4c0dabf13d7f8503",
-        "converted_at": "2026-11-16T15:31:04Z",
         "cite_markers": 88,
         "cite_defs": 108,
         "supplements": [
@@ -124623,7 +124622,8 @@
           "yuanwen/assets/reichenbach/figure2a.jpg",
           "yuanwen/assets/reichenbach/figure2b.jpg"
         ],
-        "notes": 4
+        "notes": 4,
+        "converted_at": "2026-11-16T21:03:38Z"
       }
     },
     {
@@ -124713,16 +124713,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/r/reid.md",
-        "sha256": "70c3ba2b042acdddfb196f1a5c3cd0050ef0dc0218147dcc5eb8566bc1860342",
+        "sha256": "80c4c618e4a7501982e2eeefef5ef548bfc0833d90d7f3c1cceb73d113da8d1e",
         "source_sha256": "f77e817b4bb637dae1273279d6bb27ec13867032c1c34a47d3a9541f87261dcf",
-        "converted_at": "2026-11-16T15:31:04Z",
         "cite_markers": 43,
         "cite_defs": 94,
         "supplements": [],
         "images": [
           "yuanwen/assets/reid/reid.jpg"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:38Z"
       }
     },
     {
@@ -127845,9 +127845,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/r/royce.md",
-        "sha256": "9aa481681b220807b3c9a05b9b487e86e5582d1b7306ca6acc9597bc6fcebe90",
+        "sha256": "3c57abe75f90214a4e469c175e968d9de2b95c9430f4e030f316836affe362db",
         "source_sha256": "035d9e1015fb88927e4f4ea72038928917e5db9738686a5edd9ccd82d49e0e7e",
-        "converted_at": "2026-11-16T15:31:19Z",
         "cite_markers": 94,
         "cite_defs": 78,
         "supplements": [],
@@ -127856,7 +127855,8 @@
           "yuanwen/assets/royce/Figure2.png",
           "yuanwen/assets/royce/Josiah_Royce_MS29_small_bw.jpg"
         ],
-        "notes": 14
+        "notes": 14,
+        "converted_at": "2026-11-16T21:03:39Z"
       }
     },
     {
@@ -128126,9 +128126,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/r/russell.md",
-        "sha256": "120882329144df3ad4ec2e22ed16730ecc6abb85eebb4006e9dd5790b90ecc68",
+        "sha256": "15d3108caf2f10bbcc19f88ed92ec95106e5e08668897c2b8240b39145bb0dcb",
         "source_sha256": "b59b66772396c79a2f7b34c9282497357ca7ca18f5fbb523750a7fc90d6ae768",
-        "converted_at": "2026-11-16T15:31:20Z",
         "cite_markers": 68,
         "cite_defs": 275,
         "supplements": [
@@ -128137,7 +128136,8 @@
         "images": [
           "yuanwen/assets/russell/russell.gif"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:39Z"
       }
     },
     {
@@ -132365,16 +132365,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/self-reference.md",
-        "sha256": "0f5696d9b4405a54c245ed0882d4bce2e62066eb636f2ab930904d69900bb66c",
+        "sha256": "2b1bd1998d7e51de32c4bd71fdfe5aff502c7ba36540acbcb46d5f7c0f3a43ee",
         "source_sha256": "2a49c7914387bff837fb2d4e2c571ed538bbd10ddc4254065b56d7c2e324c874",
-        "converted_at": "2026-11-16T15:31:43Z",
         "cite_markers": 76,
         "cite_defs": 139,
         "supplements": [],
         "images": [
           "yuanwen/assets/self-reference/poster_all_pos250.gif"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:40Z"
       }
     },
     {
@@ -134707,9 +134707,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/situations-semantics.md",
-        "sha256": "d5aac0587af19369f90d2532a03d512a8dc46bd3229c5f59809e96d8daac721c",
+        "sha256": "d95c10aeeb0568b6139605dcd84f56c7b9cde064366ed73d5b116fff0e6ec157",
         "source_sha256": "03dc70e5f740bade535f2eff5a2387eae3f4824af40b4d0c6a0db1f11fb39682",
-        "converted_at": "2026-11-16T15:31:53Z",
         "cite_markers": 112,
         "cite_defs": 171,
         "supplements": [],
@@ -134719,7 +134718,8 @@
           "yuanwen/assets/situations-semantics/teapots.png",
           "yuanwen/assets/situations-semantics/teapotsandscissors.png"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:40Z"
       }
     },
     {
@@ -142448,16 +142448,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/t/thick-ethical-concepts.md",
-        "sha256": "e9962ea04ae701d4196dacad5a47a308ec77a60b0bc367d9801222f06d1c6ff1",
+        "sha256": "004d045475dd4e4fb359d825b36d11d91bf1c1d872bd2552ac676263d58f3a95",
         "source_sha256": "37bec7069cf3861b45f732fb6ba6b572b274c2b1bfca45a1505f6911cc85a345",
-        "converted_at": "2026-11-16T15:32:31Z",
         "cite_markers": 225,
         "cite_defs": 113,
         "supplements": [
           "thick-ethical-concepts.supplement.md"
         ],
         "images": [],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:41Z"
       }
     },
     {
@@ -149000,9 +149000,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/w/weyl.md",
-        "sha256": "3d38fc3a34004700225207791fe13370f570ca70ef2a3426f352839e1955eece",
+        "sha256": "0b4462aa340d83e85cc70ec0e2b204d2b5f41a4937186b34c8e50b91dca1da26",
         "source_sha256": "4fafdcc0fea9daf6440e16cd83c7a50a855d0a7bfcae0524cf13555d2406fe71",
-        "converted_at": "2026-11-16T15:33:02Z",
         "cite_markers": 143,
         "cite_defs": 213,
         "supplements": [
@@ -149028,7 +149027,8 @@
           "yuanwen/assets/weyl/fig9.png",
           "yuanwen/assets/weyl/weyl.jpg"
         ],
-        "notes": 120
+        "notes": 120,
+        "converted_at": "2026-11-16T21:03:43Z"
       }
     },
     {
@@ -149220,16 +149220,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/w/whitehead.md",
-        "sha256": "727acf881eeeb266a4bcbef5756783e4c1d9292afb1e2847ccb7434e71701994",
+        "sha256": "a3025702dbacdcbba1644621b1ebb94c416e156f8c9e6f201f734dc36d030464",
         "source_sha256": "d6eeb453608197b86669d5141b1a04eb4a811269a46f124ca12cf43b859c7626",
-        "converted_at": "2026-11-16T15:33:03Z",
         "cite_markers": 34,
         "cite_defs": 112,
         "supplements": [],
         "images": [
           "yuanwen/assets/whitehead/whitehead-photo-by-richard-wood.jpg"
         ],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-16T21:03:43Z"
       }
     },
     {
@@ -151669,5 +151669,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-16T15:33:14Z"
+  "updated_at": "2026-11-16T21:03:43Z"
 }

@@ -3,7 +3,6 @@
 *Allen, Richard*
 
 ![Engraving of Hartley](../assets/hartley/hartley.jpg) *Engraving by William Blake, 1791*
-# David Hartley
 **First published Mon Nov 25, 2002; substantive revision Thu Sep 4, 2025**
 
 David Hartley (1705–57) is the author of *Observations on Man, his Frame, his Duty, and his Expectations* (1749)—a synthesis of neurology, psychology, and spirituality.

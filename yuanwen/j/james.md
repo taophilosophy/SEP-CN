@@ -3,7 +3,6 @@
 *Goodman, Russell*
 
 ![Photo of William James](../assets/james/james.gif) (ca. 1895, in *The Letters of William James*, ed. by Henry James, Boston, 1920)
-# William James
 **First published Thu Sep 7, 2000; substantive revision Wed Nov 3, 2021**
 
 William James was an original thinker in and between the disciplines of physiology, psychology and philosophy. His twelve-hundred page masterwork, *The Principles of Psychology* (1890), is a rich blend of physiology, psychology, philosophy, and personal reflection that has given us such ideas as “the stream of thought” and the baby’s impression of the world “as one great blooming, buzzing confusion” (PP 462). It contains seeds of pragmatism and phenomenology, and influenced generations of thinkers in Europe and America, including Edmund Husserl, Bertrand Russell, John Dewey, and Ludwig Wittgenstein. James studied at Harvard’s Lawrence Scientific School and the School of Medicine, but his writings were from the outset as much philosophical as scientific. “Some Remarks on Spencer’s Notion of Mind as Correspondence” (1878) and “The Sentiment of Rationality” (1879, 1882) presage his future pragmatism and pluralism, and contain the first statements of his view that philosophical theories are reflections of a philosopher’s temperament.

@@ -3,7 +3,6 @@
 *Candlish, Stewart, Basile, Pierfrancesco*
 
 [![bradley](../assets/bradley/bradley.gif)](../assets/bradley/bradley-large.gif) (*Reproduced by kind permission of Dr T.J. Winnifrith*)
-# Francis Herbert Bradley
 **First published Thu May 9, 1996; substantive revision Tue Feb 23, 2021**
 
 F. H. Bradley (1846–1924) was the most famous, original and philosophically influential of the British Idealists. These philosophers came to prominence in the closing decades of the nineteenth century, but their effect on British philosophy and society at large — and, through the positions of power attained by some of their pupils in the institutions of the British Empire, on much of the world — persisted well into the first half of the twentieth. They stood out amongst their peers in consciously rejecting some main aspects of the tradition of their earlier compatriots, such as Hume and Mill, and responding, albeit in an original and critical fashion, rather to the work of Kant and Hegel.

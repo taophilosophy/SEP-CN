@@ -3,7 +3,6 @@
 *Rollinger, Robin, Janousek, Hynek*
 
 ![photo of Marty, in the public domain](../assets/marty/marty.png)
-# Anton Marty
 **First published Fri Dec 19, 2008; substantive revision Mon Apr 10, 2023**
 
 Anton Marty (October 18, 1847–October 1, 1914) was a philosopher of language, psychologist, and ontologist. He was born in Schwyz, Switzerland in a very large family and baptized as a Catholic with the full name of ‘Martin Anton Maurus Marty’. His oldest brother went into the priesthood and became a missionary to the Sioux in North America. Though Marty himself was ordained, he left the priesthood shortly after Brentano had done so (in 1873, a few years after the declaration of papal infallibility) and pursued an academic career instead. He died in Prague, at that time a city that belonged within the Austro-Hungarian Empire and where he had been professor at the German-speaking division of the Ferdinand Charles University for most of his academic career.

@@ -3,7 +3,6 @@
 *Zalta, Edward N.*
 
 ![Photo of Gottlob Frege](../assets/frege/frege.jpg)
-# Gottlob Frege
 **First published Thu Sep 14, 1995; substantive revision Sat Aug 1, 2026**
 
 Friedrich Ludwig Gottlob Frege (b. 1848, d. 1925) was a German mathematician, logician, and philosopher who worked at the University of Jena. Frege essentially reconceived the discipline of logic by constructing a formal system which, in effect, constituted the first ‘predicate calculus’. In this formal system, Frege developed an analysis of quantified statements and formalized the notion of a ‘proof’ in terms that are still accepted today. Frege then demonstrated that one could use his system to resolve theoretical mathematical statements in terms of simpler logical and mathematical notions. One of the axioms that Frege later added to his system, in the attempt to derive significant parts of mathematics from logic, proved to be inconsistent. Nevertheless, his definitions (e.g., of the *predecessor* relation and of the concept of *natural number*) and methods (e.g., for deriving the axioms of number theory) constituted a significant advance. To ground his views about the relationship of logic and mathematics, Frege conceived a comprehensive philosophy of language that many philosophers still find insightful, though recent scholarship suggests interesting parallels between elements of Frege’s philosophy of language and that of the Stoics. Unfortunately, his particular lifelong project, of showing that mathematics was reducible to logic, was not successful.

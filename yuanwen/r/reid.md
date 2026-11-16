@@ -3,7 +3,6 @@
 *Nichols, Ryan, Yaffe, Gideon*
 
 ![picture of reid](../assets/reid/reid.jpg) *Portrait courtesy of the National Trust for Scotland*
-# Thomas Reid
 **First published Mon Aug 28, 2000; substantive revision Tue Sep 23, 2014**
 
 Thomas Reid (1710–1796) is a Scottish philosopher best known for his philosophical method, his theory of perception and its wide implications on epistemology, and as the developer and defender of an agent-causal theory of free will. In these and other areas he offers perceptive and important criticisms of the philosophy of Locke, Berkeley and especially Hume. He is also well known for his criticisms of Locke's view of personal identity and Hume's view of causation. Reid also made influential contributions to philosophical topics including ethics, aesthetics and the philosophy of mind. The legacy of Thomas Reid's philosophical work is found in contemporary theories of perception, free will, philosophy of religion, and widely in epistemology.

@@ -3,7 +3,6 @@
 *Pérez, Rolando*
 
 [![frontspiece of Quid with a portrait of Francisco Sanches](../assets/francisco-sanches/sanches-small.png)](../assets/francisco-sanches/sanches-large.png)
-# Francisco Sanches
 **First published Tue Mar 31, 2020; substantive revision Fri May 30, 2025**
 
 Francisco Sanches (1551–1623) was an important figure in the history of philosophical scepticism, and most specifically in the later sixteenth and early seventeenth century. Sanches gained notoriety through his controversial text, *That Nothing is Known*. His skeptical ideas concerning what could be known of the phenomenal world, influenced the work of other philosophers like René Descartes. In fact, in the last twenty-five to thirty years, his work has at last been acknowledged as having served as a background source of Descartes’ refutation of scepticism. Sanches was not only a philosopher; he was also a physician, and a professor of medicine – a fact that doubtlessly tempered his scepticism. In recent years, there has been a growing interest in Sanches, as he has come to be seen as a significant philosopher in the history of scepticism, along with Montaigne, Descartes, and Hume. Some contemporary thinkers have gone as far as comparing his notion of language and metaphysics to that of someone like Wittgenstein.

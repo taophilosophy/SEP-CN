@@ -3,7 +3,6 @@
 *Desmet, Ronald, Irvine, Andrew David*
 
 [![Photo of Whitehead](../assets/whitehead/whitehead-photo-by-richard-wood.jpg)](../assets/whitehead/whitehead-photo-by-richard-wood.jpg) *Photo by Richard Carver Wood*
-# Alfred North Whitehead
 **First published Tue May 21, 1996; substantive revision Thu Nov 10, 2022**
 
 Alfred North Whitehead (1861–1947) was a British mathematician and philosopher best known for his work in mathematical logic and the philosophy of science. In collaboration with Bertrand Russell, he co-authored the landmark three-volume *Principia Mathematica* (1910, 1912, 1913). Later, he was instrumental in pioneering the approach to metaphysics now known as process philosophy.

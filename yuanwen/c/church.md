@@ -5,7 +5,6 @@
 ![photo of Alonzo Church pointing to a blackboard](../assets/church/alonzo-church.png)
 
 Photo from Burge & Enderton 2019, reproduced with permission from the editor.
-# Alonzo Church
 **First published Thu Oct 21, 2021; substantive revision Thu Feb 24, 2022**
 
 Alonzo Church (1903–1995) was a renowned mathematical logician, philosophical logician, philosopher, teacher and editor. He was one of the founders of the discipline of mathematical logic as it developed after Cantor, Frege and Russell. He was also one of the principal founders of the *Association for Symbolic Logic* and the *Journal of Symbolic Logic*. The list of his students, mathematical and philosophical, is striking as it contains the names of renowned logicians and philosophers. In this article, we focus primarily on Church’s philosophical contributions. (For an account of his life and academic history see the Introduction to *The Collected Works of Alonzo Church* (2019).) However, we also discuss his mathematical results when it is desirable to do so in order to pursue a philosophical issue. In Church’s case, the distinction between philosopher and formal logician/mathematician is not entirely correct, since *all* of his work (except for the occasional paper on some purely mathematical subject) concerns logical issues in one way or another.

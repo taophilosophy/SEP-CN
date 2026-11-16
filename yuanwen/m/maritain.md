@@ -3,7 +3,6 @@
 *Sweet, William*
 
 ![Photo of Jacques Maritain](../assets/maritain/maritain.gif)
-# Jacques Maritain
 **First published Fri Dec 5, 1997; substantive revision Wed May 1, 2019**
 
 Jacques Maritain (1882–1973), French philosopher and political thinker, was one of the principal exponents of Thomism in the twentieth century and an influential interpreter of the thought of St Thomas Aquinas.

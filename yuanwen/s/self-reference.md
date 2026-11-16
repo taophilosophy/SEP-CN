@@ -3,7 +3,6 @@
 *Bolander, Thomas*
 
 ![animation representing self-reference](../assets/self-reference/poster_all_pos250.gif)
-# Self-Reference and Paradox
 **First published Tue Jul 15, 2008; substantive revision Fri Jul 19, 2024**
 
 In the context of language, *self-reference* is used to denote a statement that refers to itself or its own referent. The most famous example of a self-referential sentence is the *liar sentence*: “This sentence is not true.” Self-reference is often used in a broader context as well. For instance, a picture could be considered self-referential if it contains a copy of itself (see the animated image above); and a piece of literature could be considered self-referential if it includes a reference to the work itself. In philosophy, self-reference is of specific interest in relation to the analysis of language, but also to the analysis of the mind. Self-reference is also a field of special interest in mathematics and computer science, in particular in relation to the foundations of these sciences.

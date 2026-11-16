@@ -131,7 +131,7 @@ It is surprising that there is a past tense in the second sentence, even though 
 
 **(16)**
 
-# There was a book on the table. It is in Russian.
+\# There was a book on the table. It is in Russian.
 
 Translated into a situation semantics (Klein himself talks about topic times, rather than topic situations), Klein’s explanation is that tense relates utterance situations to topic situations, which do not necessarily coincide with the situations described by the main predication of a sentence. In Klein’s scenario, the topic situation for the second part of the witness’s answer was the past situation that she saw when she looked into the room. Since the topic situation was past, tense marking in the second sentence of (16) has to be past, too. Via their temporal locations, topic situations play an important role in the semantics of both tense and aspect (see the entry on tense and aspect; also Smith 1991, Kamp & Reyle 1993, and Cipria & Roberts 2000)[^cipria-2000][^kamp-1993][^smith-1991].
 
