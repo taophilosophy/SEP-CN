@@ -50,7 +50,8 @@ jobs:
       - name: 执行门禁
         run: |
           set -o pipefail
-          ${{ matrix.run }} 2>&1 | tee "gate-${{ matrix.key }}.log"
+          # 日志写 runner 临时区：仓库根写任何散件都会被 junk 门禁判违规（rules/05 根目录白名单）
+          ${{ matrix.run }} 2>&1 | tee "$RUNNER_TEMP/gate-${{ matrix.key }}.txt"
 
       - name: 失败时归档日志与报告
         if: failure()
@@ -58,7 +59,7 @@ jobs:
         with:
           name: gate-${{ matrix.key }}-${{ github.run_id }}
           path: |
-            gate-${{ matrix.key }}.log
+            ${{ runner.temp }}/gate-${{ matrix.key }}.txt
             state/image-report.md
           retention-days: 14
           if-no-files-found: ignore

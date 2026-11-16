@@ -52,13 +52,13 @@ jobs:
         run: |
           set -o pipefail
           python3 tools/check_render_artifacts.py ".vitepress/dist-${{ matrix.shard }}" \
-            | tee "render-audit-${{ matrix.shard }}.txt"
+            | tee "$RUNNER_TEMP/render-audit-${{ matrix.shard }}.txt"
 
       - name: 上传审计报告
         if: always()
         uses: actions/upload-artifact@v7
         with:
           name: render-audit-${{ matrix.shard }}-${{ github.run_id }}
-          path: render-audit-${{ matrix.shard }}.txt
+          path: ${{ runner.temp }}/render-audit-${{ matrix.shard }}.txt
           retention-days: 30
           if-no-files-found: error

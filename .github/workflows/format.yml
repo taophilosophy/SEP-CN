@@ -81,9 +81,9 @@ jobs:
             ':(exclude).vitepress/dist*/**' ':(exclude)node_modules/**' \
             ':(exclude)tools/tests/fixtures/**' ':(exclude).github/sep-sync-report/**' \
             ':(exclude)SUMMARY.md' ':(exclude)shu-yu-biao.md' ':(exclude)ren-ming-biao.md' \
-            | tr '\0' '\n' > files.txt
-          echo "count=$(wc -l < files.txt)" >> "$GITHUB_OUTPUT"
-          head -5 files.txt
+            | tr '\0' '\n' > "$RUNNER_TEMP/files.txt"
+          echo "count=$(wc -l < "$RUNNER_TEMP/files.txt")" >> "$GITHUB_OUTPUT"
+          head -5 "$RUNNER_TEMP/files.txt"
 
       # ---- markdownlint：按根配置的 globs/ignores 定范围（与本地命令同源） ----
       - name: markdownlint --fix
@@ -95,15 +95,15 @@ jobs:
         if: matrix.tool == 'autocorrect'
         run: |
           bun install --no-save autocorrect-node
-          bun run autocorrect --config .autocorrectrc --lint --no-diff-bg-color $(cat files.txt) || true
-          bun run autocorrect --config .autocorrectrc --fix $(cat files.txt)
+          bun run autocorrect --config .autocorrectrc --lint --no-diff-bg-color $(cat "$RUNNER_TEMP/files.txt") || true
+          bun run autocorrect --config .autocorrectrc --fix $(cat "$RUNNER_TEMP/files.txt")
 
       # ---- md-padding：从 stdin 读文件清单，保留既有 ignore-words 口径 ----
       - name: md-padding
         if: matrix.tool == 'md-padding'
         run: |
-          if [ ! -s files.txt ]; then echo "限定范围内无 Markdown，跳过"; exit 0; fi
-          cat files.txt | bunx md-padding@latest --ignore-words='-' ':' '>' '=' '<' -f --read-files -i
+          if [ ! -s "$RUNNER_TEMP/files.txt" ]; then echo "限定范围内无 Markdown，跳过"; exit 0; fi
+          cat "$RUNNER_TEMP/files.txt" | bunx md-padding@latest --ignore-words='-' ':' '>' '=' '<' -f --read-files -i
 
       - name: 开 PR（只含 Markdown，人工核 diff 再合并）
         uses: peter-evans/create-pull-request@v8
