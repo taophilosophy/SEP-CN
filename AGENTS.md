@@ -48,7 +48,7 @@
 | 提交纪律 | 小步提交、中文一行信息、只提交相关文件、直接提交 main；**提交即推**（自动 push；推前 fetch，落后先 pull --rebase；禁 force）；收工核对 `git log origin/main..main` 为空 | `rules/06`、ADR-0026、ADR-0059 |
 | 抓取礼貌 | 相邻请求至少间隔 5 秒；4xx、5xx、超时退避重试并记录，禁止静默跳过 | `rules/05` |
 | 抓取完整性 | 词条包内被引用资产必须齐备；`tools/fetch_audit.py` 闭包迭代至不动点，缺件自动补抓 | `tools/fetch_audit.py` |
-| 更新流程 | `fetch_catalog` 检测漂移，`compare.py` 产出变更文件，转 update 任务（`changes:`），三校走变更段；en/ 就地勘误先入 en-errata.md（ADR-0038）再登记分歧账，未登记即门禁红（ADR-0045） | `specs/001-sep-sync-pipeline/contracts/cli.md` |
+| 更新流程 | `fetch_catalog` 检测漂移，`compare.py` 产出变更文件，转 update 任务（`changes:`），三校走变更段；**en/ 绝对冻结（ADR-0062）**——与原始钉逐字节一致，文字与格式层一律不改；文字缺陷入全局勘误表（`specs/001-sep-sync-pipeline/results/en-errata.md`）并在中文译文加译注，格式问题走 `baseline/en-patches.json` 补丁池（转换层应用，命中计数硬校验）；`yuanwen/` 与 HTML 文字一致（忠实转换，上游错字照录）；en/ 与钉不一致未登记即门禁红（ADR-0045） | `specs/001-sep-sync-pipeline/contracts/cli.md`、`rules/adr/0062-*.md` |
 | 结构形态 | 词条 `<letter>/<slug>.md`，别名链目标；集群占位母行为无链接分组行（不指向文件）；`yuanwen/<letter>/<slug>.md` 镜像逐字符一致 | `rules/01`、ADR-0009、ADR-0057 |
 | 单体文件 | 叙事、规则、规格类 md 超 1000 行或 100 KB 必须按文件夹拆分（登记册与生成物豁免） | ADR-0004、`check_doc_size.py` |
 | 根目录白名单 | 根层只放白名单条目；散件归 `script/`（本地）、`state/`（运行态）或 `specs/<NNN>-*/` 的 `bin`、`results` 子目录；新增根级条目走 ADR | ADR-0023、`check_junk.py` |

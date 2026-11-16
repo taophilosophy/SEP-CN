@@ -82,7 +82,7 @@
                                             # done→pending 返工打回（ADR-0033；旧 steps 留史）；
                                             # --clear 原子续做置空（仅留 H1，ADR-0050：上游更新引发的
                                             # reopen 必带，按新源全量重译，变更文件降级审读辅助）；
-                                            # --upstream-sync 在途件（drafted…r3_reviewed）绕过「仅 done」
+                                            # --upstream-sync 在途件（drafted…r3_reviewed）绕过“仅 done”
                                             # 打回（ADR-0051 R3 四闸：显式声明+凭证+blocked 拒+状态限定；
                                             # 无 flag 维持仅 done；pending/cleared/done 不适用）
 输出: 操作后的任务 JSON 全文
@@ -183,7 +183,8 @@
 | 包内资产补齐 | `fetch_audit.py` | 只补缺件，**不写 baseline**（审计 JSON 即凭证，哈希由下次 fetch_entry 收敛） |
 | 英文镜像深度复核 | `en_integrity.py` | 只读审计，不补抓不落盘 en/ 以外文件；逐词条凭证 JSON（specs/001-sep-sync-pipeline/en-integrity-full.json）；游离件、大小写错名、截断页为硬发现 |
 | 变更检测→比较 | `fetch_catalog.py` → `compare.py` | compare 对有变更条目产出持久变更文件 specs/001-sep-sync-pipeline/compare/<slug>.json，作 update 任务 changes: 证据 |
-| en/ 就地勘误登记与核验 | `divergence.py`（register / carry / unregister / verify / patch / list） | en 改动先入 en-errata.md（ADR-0038 人读册）再登记分歧账（机器账，ADR-0045）；未登记静默改动由 verify 门禁红灯；上游真变时 `carry <path> --new <快照>` 三方合并自动随迁（hunk 相交退出码 3 转人工，`--merged` 复跑；解决件=纯上游则自动注销留 tombstone），随迁即归档新上游快照（results/upstream-snapshots/）并前移原始钉；勘误失效用 unregister 注销 |
+| en/ 冻结、上游真变与核验 | `divergence.py`（register / carry / unregister / verify / patch / list）；补丁池 `baseline/en-patches.json`＋`tools/check_en_patches.py` | **ADR-0062**：`en/` 与原始钉逐字节一致，文字层与格式层变动一律禁止；文字缺陷入全局勘误表（`results/en-errata.md`）＋中文译注，格式问题入补丁池由转换层应用（`find/replace/expect` 命中计数硬校验）。分歧账（ADR-0045）只用于**上游真变**：`carry <path> --new <快照>` 三方合并自动随迁（hunk 相交退出码 3 转人工，`--merged` 复跑；解决件=纯上游则自动注销留 tombstone），随迁即归档新上游快照（results/upstream-snapshots/）并前移原始钉；未登记静默改动由 verify 门禁红灯 |
+| 补丁池离线校验 | `tools/check_en_patches.py` | 逐条校验补丁在当前 `en/` 上的命中计数等于 `expect`（上游漂移→失配即报）；转换层（`tools/yuanwen.py`）同源校验，失配即该件转换硬失败 |
 | 全量回源 sha 核对 | `drift_scan.py` | 只读审计：1872 词条 live index.html 对原始钉核对（并发豁免配置 64路×10s，留痕 http-log）；报告落盘 results/drift-scan-<ts>.json；真漂移清单供 compare.py/update 任务消费；不写 en/ 不动台账 |
 | 任务状态机 | `task_ops.py` | s0 挂 en_integrity＋en_source_audit（ADR-0052）；s3/r3 挂 check_academic；r3 须 --mandate 用户指定终审会话（ADR-0054，缺失即拒）；s24 挂 check_terms、s25 挂 check_math_zh（默认档，ADR-0040/0043）；update 任务 s0/s1/s2/s24/s25 证据必须 changes: 开头；进 s3 前历史须有 s0 记录；revert-state 受控回退 |
 | 登记册解析/折叠原语 | `register_lib.py`（specs/033） | 两登记册键折叠（A/B/C 三口径）、行解析与 A–Z 分节的唯一实现；check_terms/registry_azsort/term_* 为消费方，禁本地副本；口径增删须走 specs/033 §4.5 并全消费方复验 |
