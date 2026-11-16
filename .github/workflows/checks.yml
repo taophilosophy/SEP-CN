@@ -1,16 +1,43 @@
-name: ✅ 仓库一致性检查
+name: ✅ 仓库一致性门禁（矩阵）
 
 # 最小权限（CodeQL actions/missing-workflow-permissions）：只读检出后跑检查器，不回写
 permissions:
   contents: read
 
+# 门禁清单不抄在本文件里：plan 作业跑 `tools/check_all.py --list-gates`，
+# 把同一份 GATES 列表展开成矩阵作业（ADR-0061）。新增/改名门禁只改 tools/，
+# CI 自动跟随；红灯作业名即具体门禁名，日志按门禁分开，不再一锅端。
 on:
   push:
   workflow_dispatch:
 
 jobs:
-  checks:
+  plan:
     runs-on: ubuntu-latest
+    outputs:
+      gates: ${{ steps.matrix.outputs.gates }}
+    steps:
+      - name: 只取 tools/（矩阵生成无需全文检出）
+        uses: actions/checkout@v7
+        with:
+          sparse-checkout: tools
+
+      - name: Setup Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.15'
+
+      - name: 生成门禁矩阵
+        id: matrix
+        run: echo "gates=$(python tools/check_all.py --list-gates)" >> "$GITHUB_OUTPUT"
+
+  gates:
+    needs: plan
+    runs-on: ubuntu-latest
+    name: ${{ matrix.name }}
+    strategy:
+      fail-fast: false # 一项红不影响其余项出结果，一次推送看全所有红灯
+      matrix: ${{ fromJSON(needs.plan.outputs.gates) }}
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -20,36 +47,22 @@ jobs:
         with:
           python-version: '3.15'
 
-      - name: SUMMARY 结构审计（tools/check_summary.py）
-        run: python tools/check_summary.py
+      - name: 执行门禁
+        run: |
+          set -o pipefail
+          ${{ matrix.run }} 2>&1 | tee "gate-${{ matrix.key }}.log"
 
-      - name: 分类目录对应性检测（tools/check_mulu_s.py）
-        run: python tools/check_mulu_s.py
+      - name: 失败时归档日志与报告
+        if: failure()
+        uses: actions/upload-artifact@v7
+        with:
+          name: gate-${{ matrix.key }}-${{ github.run_id }}
+          path: |
+            gate-${{ matrix.key }}.log
+            state/image-report.md
+          retention-days: 14
+          if-no-files-found: ignore
 
-      - name: 垃圾与产物入库门禁（tools/check_junk.py）
-        run: python tools/check_junk.py
-
-      - name: 图片引用完整性门禁（tools/check_images.py --gate，rules/01）
-        run: python tools/check_images.py --gate --out state/image-report.md
-
-      - name: 单体文件大小门禁（tools/check_doc_size.py）
-        run: python tools/check_doc_size.py
-
-      - name: 术语一致性门禁（tools/check_terms.py）
-        run: python tools/check_terms.py
-
-      - name: 直角引号总检（tools/check_quotes.py，rules/02 第 11 条）
-        run: python tools/check_quotes.py
-
-      - name: 哲学学术规范门禁（tools/check_academic.py，rules/07）
-        run: python tools/check_academic.py
-
-      - name: 一键全量合规复核（tools/check_all.py）
-        run: python tools/check_all.py --quiet
-
-      - name: 管线单元测试（tools/tests）
-        run: python -m unittest discover -s tools/tests
-
-# baseline_audit.py 依赖本地 en/ 原始物（gitignore），仅在本地运行，不进 CI。
-# compare.py 依赖网络抓取，仅本地运行，不进 CI。
+# baseline_audit.py / en_integrity.py 依赖本地 en/ 原始物，compare.py、drift_scan.py
+# 依赖网络抓取：均只本地跑，不进 CI（rules/05）。
 # 规则见 rules/05-ci-and-tools.md；变更本工作流须同步该表。
