@@ -34,7 +34,7 @@
 3. **跑门禁**：`python tools/check_all.py`（十项门禁加单元测试，共 11 项，应全绿）。
 4. **看进度与任务**：`PROGRESS.md`、`python tools/task_ops.py show <slug>`。
 
-收工：复跑相关检查器；相关文件提交并推送（中文一行信息；提交即推，ADR-0059）；`git log origin/main..main` 为空；不留半成品。推送后若站点要更新：`python tools/deploy_bump.py --gate` 前移壳仓 `docs` 指针——壳仓 `deploy.yml` 监听 `docs` 变更即刻构建部署（ADR-0064），不必再手动 `gh workflow run`；漏推的指针由壳仓每 30 分钟兜底轮询补上。
+收工：复跑相关检查器；相关文件提交并推送（中文一行信息；提交即推，ADR-0059）；`git log origin/main..main` 为空；不留半成品。推送后站点更新走壳仓拉取制（ADR-0064）：壳仓每 30 分钟定时拉取子模块、有新指针才重建（急用 `gh workflow run -R taophilosophy/taophilosophy.github.io deploy.yml` 手动拉取）；deploy_bump 与 push 触发已按 2026-11-17 裁定撤除。
 
 ## 硬约束速览
 
