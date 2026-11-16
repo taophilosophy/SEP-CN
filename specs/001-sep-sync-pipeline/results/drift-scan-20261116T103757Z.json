@@ -1,0 +1,50 @@
+{
+  "at": "2026-11-16T10:37:57Z",
+  "scope": "main index.html vs files[].sha256 原始钉",
+  "channels": 64,
+  "period_s": 10.0,
+  "total": 1872,
+  "unchanged": 1865,
+  "changed": [
+    {
+      "slug": "argument",
+      "pin_sha256": "512c3af08206af97bcc19452e8454c5407e2e061e950ddd289dd918474b57783",
+      "live_sha256": "22205c555ebabdbffe7bbbd8281c54d03ce6546d85cdc579f95c02cdf66b7675"
+    },
+    {
+      "slug": "emily-elizabeth-constance-jones",
+      "pin_sha256": "e329d2b198ee7988802e848e22d225feb6efe109ba23078e5ae2ddeb247c1f54",
+      "live_sha256": "c162edbc66d416b85749a9e220b7e5d71a7f40cba48c188286d9ee6c63867ab0"
+    },
+    {
+      "slug": "enhancement",
+      "pin_sha256": "46c75bcc3abdad7b768e5f69c7f85679f303b74dba80d55e211525061b7f02b8",
+      "live_sha256": "2126958a363e64e5401d0618f9c9cfae5fae69cbea5b7d0c89184b0bc80b7397"
+    },
+    {
+      "slug": "fiction-emotion-response",
+      "pin_sha256": "f389c69a28caeca160abafa1e46d162d4a06f178b38dfbebed5a716b63fe9e5b",
+      "live_sha256": "2a4654145f5001c7cdb713dad76c79ca8607aec0b4749d6a7e463e99ac721ad0"
+    },
+    {
+      "slug": "horkheimer",
+      "pin_sha256": "21d2c9af3bdc6e2f9fdf7eb3a7617ca0c6eef5125a85892d687079e70f58c903",
+      "live_sha256": "d3de9fa3ca672abaa684c7cd78b4e72a8cda3d863e67d89efc89453af508068f"
+    },
+    {
+      "slug": "kant-leibniz",
+      "pin_sha256": "be4df55da3c4eebeec8caa07d0912f65c4eec6dfd34618dbf8919fafe40ee55e",
+      "live_sha256": "b0552bb26718a48cb02efa6b6d6dcbd2102d8ca5abe06b2b27a3bc950c4b92a2"
+    },
+    {
+      "slug": "self-knowledge",
+      "pin_sha256": "f9286b8701f1c91f26d2396fb896ada4264b10463baf2b871129a13d69d3817b",
+      "live_sha256": "001c38df43920f49673bfa35690fe5ca29921288b99f04a9fe76f3ec2cfb6b8d"
+    }
+  ],
+  "soft404": [],
+  "http_404": [],
+  "http_error": [],
+  "failure": 0,
+  "failures": []
+}
