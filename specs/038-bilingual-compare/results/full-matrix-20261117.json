@@ -1,0 +1,10800 @@
+{
+ "captured": "2026-11-16T17:08:33.252Z",
+ "viewports": {
+  "1280x720": {
+   "k": "1280x720",
+   "w": 1280,
+   "h": 720,
+   "dpr": 1,
+   "mobile": false,
+   "zh": {
+    "vw": 1280,
+    "vh": 720,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1265,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      720
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      720
+     ]
+    },
+    "contentContainer": [
+     336,
+     112,
+     609,
+     44546
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      336,
+      9860,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1064,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      336,
+      44521,
+      609,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": false
+   },
+   "axiom": {
+    "vw": 1280,
+    "vh": 720,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1265,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      720
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      720
+     ]
+    },
+    "contentContainer": [
+     336,
+     112,
+     609,
+     34007
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      336,
+      1549,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 609,
+      "cw": 609,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 609,
+      "cw": 609,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 609,
+      "cw": 609,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1064,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      336,
+      33982,
+      609,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": false
+   },
+   "compare": {
+    "vw": 1280,
+    "vh": 720,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     32,
+     112,
+     561,
+     50086
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      52,
+      11167,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-side bili-show-compare",
+    "panel": {
+     "rect": [
+      625,
+      64,
+      640,
+      656
+     ]
+    },
+    "enDoc": [
+     626,
+     104,
+     639,
+     616
+    ],
+    "enDocW": 639,
+    "enFontPx": "16px",
+    "bar": [
+     626,
+     64,
+     639,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      52,
+      50013,
+      521,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": false
+   },
+   "inter": {
+    "vw": 1280,
+    "vh": 720,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     289,
+     112,
+     688,
+     40698
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      289,
+      8985,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      679,
+      1265,
+      41
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     680,
+     1265,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      289,
+      40673,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": false
+   },
+   "enonly": {
+    "vw": 1280,
+    "vh": 720,
+    "dpr": 1,
+    "hOverflow": 0,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "fontSize": "28.8px",
+     "innerW": 0,
+     "clipW": 0,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 686,
+      "cw": 686,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "bili-mode bili-side bili-show-en",
+    "panel": {
+     "rect": [
+      0,
+      0,
+      1280,
+      720
+     ]
+    },
+    "enDoc": [
+     0,
+     40,
+     1280,
+     680
+    ],
+    "enDocW": 1280,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     0,
+     1280,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": null,
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enonly",
+    "narrowExpected": false
+   },
+   "enpage": {
+    "vw": 1280,
+    "vh": 720,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1265,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      720
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      720
+     ]
+    },
+    "contentContainer": [
+     336,
+     112,
+     609,
+     60774
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      336,
+      15198,
+      389,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 389,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 607,
+      "cw": 607,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1137,
+      17,
+      96,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      336,
+      60749,
+      609,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": false
+   },
+   "dark-zh": {
+    "vw": 1280,
+    "vh": 720,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1265,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      720
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      720
+     ]
+    },
+    "contentContainer": [
+     336,
+     112,
+     609,
+     44546
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      336,
+      9860,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1064,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      336,
+      44521,
+      609,
+      137
+     ]
+    },
+    "dark": true,
+    "bg": "rgb(23, 18, 16)",
+    "step": "dark-zh",
+    "narrowExpected": false
+   }
+  },
+  "1920x1080": {
+   "k": "1920x1080",
+   "w": 1920,
+   "h": 1080,
+   "dpr": 1,
+   "mobile": false,
+   "zh": {
+    "vw": 1920,
+    "vh": 1080,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1905,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      505,
+      1080
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      505,
+      1080
+     ]
+    },
+    "contentContainer": [
+     617,
+     112,
+     688,
+     40778
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      617,
+      9064,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1471,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      617,
+      40753,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": false
+   },
+   "compare": {
+    "vw": 1920,
+    "vh": 1080,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     129,
+     112,
+     688,
+     42447
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      149,
+      9403,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-side bili-show-compare",
+    "panel": {
+     "rect": [
+      945,
+      64,
+      960,
+      1016
+     ]
+    },
+    "enDoc": [
+     946,
+     104,
+     959,
+     976
+    ],
+    "enDocW": 959,
+    "enFontPx": "16px",
+    "bar": [
+     946,
+     64,
+     959,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      149,
+      42374,
+      648,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": false
+   },
+   "inter": {
+    "vw": 1920,
+    "vh": 1080,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     609,
+     112,
+     688,
+     40698
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      609,
+      8985,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      1039,
+      1905,
+      41
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     1040,
+     1905,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      609,
+      40673,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": false
+   },
+   "enonly": {
+    "vw": 1920,
+    "vh": 1080,
+    "dpr": 1,
+    "hOverflow": 0,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "fontSize": "28.8px",
+     "innerW": 0,
+     "clipW": 0,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 686,
+      "cw": 686,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "bili-mode bili-side bili-show-en",
+    "panel": {
+     "rect": [
+      0,
+      0,
+      1920,
+      1080
+     ]
+    },
+    "enDoc": [
+     0,
+     40,
+     1920,
+     1040
+    ],
+    "enDocW": 1920,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     0,
+     1920,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": null,
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enonly",
+    "narrowExpected": false
+   },
+   "enpage": {
+    "vw": 1920,
+    "vh": 1080,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1905,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      505,
+      1080
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      505,
+      1080
+     ]
+    },
+    "contentContainer": [
+     617,
+     112,
+     688,
+     54926
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      617,
+      13602,
+      389,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 389,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 686,
+      "cw": 686,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1545,
+      17,
+      96,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      617,
+      54901,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": false
+   },
+   "dark-zh": {
+    "vw": 1920,
+    "vh": 1080,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1905,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      505,
+      1080
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      505,
+      1080
+     ]
+    },
+    "contentContainer": [
+     617,
+     112,
+     688,
+     40778
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      617,
+      9064,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1471,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      617,
+      40753,
+      688,
+      137
+     ]
+    },
+    "dark": true,
+    "bg": "rgb(23, 18, 16)",
+    "step": "dark-zh",
+    "narrowExpected": false
+   }
+  },
+  "1707x960": {
+   "k": "1707x960",
+   "w": 1707,
+   "h": 960,
+   "dpr": 1.25,
+   "mobile": false,
+   "zh": {
+    "vw": 1707,
+    "vh": 960,
+    "dpr": 1.25,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1692,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      398,
+      960
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      398,
+      960
+     ]
+    },
+    "contentContainer": [
+     510,
+     112,
+     688,
+     40778
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      510,
+      9064,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1365,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      510,
+      40753,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": false
+   },
+   "compare": {
+    "vw": 1707,
+    "vh": 960,
+    "dpr": 1.25,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     75,
+     112,
+     688,
+     42447
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      95,
+      9403,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-side bili-show-compare",
+    "panel": {
+     "rect": [
+      839,
+      64,
+      854,
+      896
+     ]
+    },
+    "enDoc": [
+     840,
+     104,
+     853,
+     856
+    ],
+    "enDocW": 853,
+    "enFontPx": "16px",
+    "bar": [
+     840,
+     64,
+     853,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      95,
+      42374,
+      648,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": false
+   },
+   "inter": {
+    "vw": 1707,
+    "vh": 960,
+    "dpr": 1.25,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     502,
+     112,
+     688,
+     87903
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      502,
+      22430,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 635,
+      "cw": 635,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 665,
+      "cw": 665,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 0,
+      "cw": 0,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      919,
+      1692,
+      41
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     920,
+     1692,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enBlocks": 187,
+    "enLabel": {
+     "rect": [
+      539,
+      85479,
+      637,
+      20
+     ]
+    },
+    "entry": null,
+    "footer": {
+     "rect": [
+      502,
+      87878,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": false
+   },
+   "enpage": {
+    "vw": 1707,
+    "vh": 960,
+    "dpr": 1.25,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1692,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      398,
+      960
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      398,
+      960
+     ]
+    },
+    "contentContainer": [
+     510,
+     112,
+     688,
+     54926
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      510,
+      13602,
+      389,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 389,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 686,
+      "cw": 686,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1438,
+      17,
+      96,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      510,
+      54901,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": false
+   }
+  },
+  "2560x1440": {
+   "k": "2560x1440",
+   "w": 2560,
+   "h": 1440,
+   "dpr": 1,
+   "mobile": false,
+   "zh": {
+    "vw": 2560,
+    "vh": 1440,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      2545,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      825,
+      1440
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      825,
+      1440
+     ]
+    },
+    "contentContainer": [
+     937,
+     112,
+     688,
+     40778
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      937,
+      9064,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1791,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      937,
+      40753,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": false
+   },
+   "compare": {
+    "vw": 2560,
+    "vh": 1440,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     289,
+     112,
+     688,
+     42447
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      309,
+      9403,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-side bili-show-compare",
+    "panel": {
+     "rect": [
+      1265,
+      64,
+      1280,
+      1376
+     ]
+    },
+    "enDoc": [
+     1266,
+     104,
+     1279,
+     1336
+    ],
+    "enDocW": 1279,
+    "enFontPx": "16px",
+    "bar": [
+     1266,
+     64,
+     1279,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      309,
+      42374,
+      648,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": false
+   },
+   "inter": {
+    "vw": 2560,
+    "vh": 1440,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     929,
+     112,
+     688,
+     40698
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      929,
+      8985,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      1399,
+      2545,
+      41
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     1400,
+     2545,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      929,
+      40673,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": false
+   },
+   "enpage": {
+    "vw": 2560,
+    "vh": 1440,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      2545,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      825,
+      1440
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      825,
+      1440
+     ]
+    },
+    "contentContainer": [
+     937,
+     112,
+     688,
+     54926
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      937,
+      13602,
+      389,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 389,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 686,
+      "cw": 686,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1865,
+      17,
+      96,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      937,
+      54901,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": false
+   }
+  },
+  "3840x2160": {
+   "k": "3840x2160",
+   "w": 3840,
+   "h": 2160,
+   "dpr": 1,
+   "mobile": false,
+   "zh": {
+    "vw": 3840,
+    "vh": 2160,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      3825,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      1465,
+      2160
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      1465,
+      2160
+     ]
+    },
+    "contentContainer": [
+     1577,
+     112,
+     688,
+     40778
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      1577,
+      9064,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      2431,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      1577,
+      40753,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": false
+   },
+   "compare": {
+    "vw": 3840,
+    "vh": 2160,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     609,
+     112,
+     688,
+     42447
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      629,
+      9403,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-side bili-show-compare",
+    "panel": {
+     "rect": [
+      1905,
+      64,
+      1920,
+      2096
+     ]
+    },
+    "enDoc": [
+     1906,
+     104,
+     1919,
+     2056
+    ],
+    "enDocW": 1919,
+    "enFontPx": "16px",
+    "bar": [
+     1906,
+     64,
+     1919,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      629,
+      42374,
+      648,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": false
+   },
+   "inter": {
+    "vw": 3840,
+    "vh": 2160,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     1569,
+     112,
+     688,
+     40698
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      1569,
+      8985,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      2119,
+      3825,
+      41
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     2120,
+     3825,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      1569,
+      40673,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": false
+   },
+   "enonly": {
+    "vw": 3840,
+    "vh": 2160,
+    "dpr": 1,
+    "hOverflow": 0,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "fontSize": "28.8px",
+     "innerW": 0,
+     "clipW": 0,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 686,
+      "cw": 686,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "bili-mode bili-side bili-show-en",
+    "panel": {
+     "rect": [
+      0,
+      0,
+      3840,
+      2160
+     ]
+    },
+    "enDoc": [
+     0,
+     40,
+     3840,
+     2120
+    ],
+    "enDocW": 3840,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     0,
+     3840,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": null,
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enonly",
+    "narrowExpected": false
+   },
+   "enpage": {
+    "vw": 3840,
+    "vh": 2160,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      3825,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      1465,
+      2160
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      1465,
+      2160
+     ]
+    },
+    "contentContainer": [
+     1577,
+     112,
+     688,
+     54926
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      1577,
+      13602,
+      389,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 389,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 686,
+      "cw": 686,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      2505,
+      17,
+      96,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      1577,
+      54901,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": false
+   },
+   "dark-zh": {
+    "vw": 3840,
+    "vh": 2160,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      3825,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      1465,
+      2160
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      1465,
+      2160
+     ]
+    },
+    "contentContainer": [
+     1577,
+     112,
+     688,
+     40778
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      1577,
+      9064,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      2431,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      1577,
+      40753,
+      688,
+      137
+     ]
+    },
+    "dark": true,
+    "bg": "rgb(23, 18, 16)",
+    "step": "dark-zh",
+    "narrowExpected": false
+   },
+   "dark-compare": {
+    "vw": 3840,
+    "vh": 2160,
+    "dpr": 1,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     609,
+     112,
+     688,
+     42447
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      629,
+      9403,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-side bili-show-compare",
+    "panel": {
+     "rect": [
+      1905,
+      64,
+      1920,
+      2096
+     ]
+    },
+    "enDoc": [
+     1906,
+     104,
+     1919,
+     2056
+    ],
+    "enDocW": 1919,
+    "enFontPx": "16px",
+    "bar": [
+     1906,
+     64,
+     1919,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      629,
+      42374,
+      648,
+      137
+     ]
+    },
+    "dark": true,
+    "bg": "rgb(23, 18, 16)",
+    "step": "dark-compare",
+    "narrowExpected": false
+   }
+  },
+  "ipad-mini-p": {
+   "k": "ipad-mini-p",
+   "w": 744,
+   "h": 1133,
+   "dpr": 2,
+   "mobile": false,
+   "zh": {
+    "vw": 744,
+    "vh": 1133,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      729,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      729,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      673,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      1133
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      1133
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     681,
+     41055
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      9152,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      613,
+      1080,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      41062,
+      681,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": true
+   },
+   "axiom": {
+    "vw": 744,
+    "vh": 1133,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      729,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      729,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      673,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      1133
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      1133
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     681,
+     31641
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      1396,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 681,
+      "cw": 681,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 681,
+      "cw": 681,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 681,
+      "cw": 681,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      613,
+      1080,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      31648,
+      681,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": true
+   },
+   "compare": {
+    "vw": 744,
+    "vh": 1133,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     681,
+     40975
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      8961,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      567,
+      729,
+      567
+     ]
+    },
+    "enDoc": [
+     0,
+     613,
+     729,
+     520
+    ],
+    "enDocW": 729,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     568,
+     729,
+     46
+    ],
+    "barH": 46,
+    "barVar": "46px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      40870,
+      681,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": true
+   },
+   "inter": {
+    "vw": 744,
+    "vh": 1133,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     681,
+     40975
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      8961,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      1086,
+      729,
+      47
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     1087,
+     729,
+     46
+    ],
+    "barH": 46,
+    "barVar": "46px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      40870,
+      681,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": true
+   },
+   "enpage": {
+    "vw": 744,
+    "vh": 1133,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      729,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      729,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      673,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      1133
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      1133
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     681,
+     55575
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      13802,
+      389,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 389,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 679,
+      "cw": 679,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      619,
+      1080,
+      98,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      55582,
+      681,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": true
+   }
+  },
+  "ipad-air-p": {
+   "k": "ipad-air-p",
+   "w": 820,
+   "h": 1180,
+   "dpr": 2,
+   "mobile": false,
+   "zh": {
+    "vw": 820,
+    "vh": 1180,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      805,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      805,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      1180
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      1180
+     ]
+    },
+    "contentContainer": [
+     59,
+     160,
+     688,
+     40750
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      59,
+      9112,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      689,
+      1127,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      59,
+      40773,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": true
+   },
+   "axiom": {
+    "vw": 820,
+    "vh": 1180,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      805,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      805,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      1180
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      1180
+     ]
+    },
+    "contentContainer": [
+     59,
+     160,
+     688,
+     31505
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      59,
+      1412,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 688,
+      "cw": 688,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 688,
+      "cw": 688,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 688,
+      "cw": 688,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      689,
+      1127,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      59,
+      31528,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": true
+   },
+   "compare": {
+    "vw": 820,
+    "vh": 1180,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     59,
+     48,
+     688,
+     40698
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      59,
+      8921,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      590,
+      805,
+      590
+     ]
+    },
+    "enDoc": [
+     0,
+     637,
+     805,
+     543
+    ],
+    "enDocW": 805,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     591,
+     805,
+     46
+    ],
+    "barH": 46,
+    "barVar": "46px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      59,
+      40609,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": true
+   },
+   "inter": {
+    "vw": 820,
+    "vh": 1180,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     59,
+     48,
+     688,
+     40698
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      59,
+      8921,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      1133,
+      805,
+      47
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     1134,
+     805,
+     46
+    ],
+    "barH": 46,
+    "barVar": "46px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      59,
+      40609,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": true
+   },
+   "enpage": {
+    "vw": 820,
+    "vh": 1180,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      805,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      805,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      1180
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      1180
+     ]
+    },
+    "contentContainer": [
+     59,
+     160,
+     688,
+     54926
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      59,
+      13650,
+      389,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 389,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 686,
+      "cw": 686,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      695,
+      1127,
+      98,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      59,
+      54949,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": true
+   }
+  },
+  "ipad-pro13-p": {
+   "k": "ipad-pro13-p",
+   "w": 1032,
+   "h": 1376,
+   "dpr": 2,
+   "mobile": false,
+   "zh": {
+    "vw": 1032,
+    "vh": 1376,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1017,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      1017,
+      52
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      1376
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      1376
+     ]
+    },
+    "contentContainer": [
+     336,
+     164,
+     617,
+     44182
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      336,
+      9884,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      816,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      336,
+      44209,
+      617,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": false
+   },
+   "axiom": {
+    "vw": 1032,
+    "vh": 1376,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1017,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      1017,
+      52
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      1376
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      1376
+     ]
+    },
+    "contentContainer": [
+     336,
+     164,
+     617,
+     33786
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      336,
+      1601,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 617,
+      "cw": 617,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 617,
+      "cw": 617,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 617,
+      "cw": 617,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      816,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      336,
+      33813,
+      617,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": false
+   },
+   "compare": {
+    "vw": 1032,
+    "vh": 1376,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     32,
+     112,
+     437,
+     62775
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      52,
+      14141,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-side bili-show-compare",
+    "panel": {
+     "rect": [
+      501,
+      64,
+      516,
+      1312
+     ]
+    },
+    "enDoc": [
+     502,
+     155,
+     515,
+     1221
+    ],
+    "enDocW": 515,
+    "enFontPx": "16px",
+    "bar": [
+     502,
+     64,
+     515,
+     91
+    ],
+    "barH": 91,
+    "barVar": "91px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      52,
+      62682,
+      397,
+      157
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": false
+   },
+   "inter": {
+    "vw": 1032,
+    "vh": 1376,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     165,
+     112,
+     688,
+     40698
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      165,
+      8985,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      1335,
+      1017,
+      41
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     1336,
+     1017,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      165,
+      40673,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": false
+   },
+   "enonly": {
+    "vw": 1032,
+    "vh": 1376,
+    "dpr": 2,
+    "hOverflow": 0,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "fontSize": "28.8px",
+     "innerW": 0,
+     "clipW": 0,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 959,
+      "cw": 959,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "bili-mode bili-side bili-show-en",
+    "panel": {
+     "rect": [
+      0,
+      0,
+      1032,
+      1376
+     ]
+    },
+    "enDoc": [
+     0,
+     40,
+     1032,
+     1336
+    ],
+    "enDocW": 1032,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     0,
+     1032,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": null,
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enonly",
+    "narrowExpected": false
+   },
+   "enpage": {
+    "vw": 1032,
+    "vh": 1376,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1017,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      1017,
+      52
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      1376
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      1376
+     ]
+    },
+    "contentContainer": [
+     336,
+     164,
+     617,
+     60133
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      336,
+      15054,
+      389,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 389,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 615,
+      "cw": 615,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      889,
+      17,
+      96,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      336,
+      60160,
+      617,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": false
+   }
+  },
+  "ipad-pro13-l": {
+   "k": "ipad-pro13-l",
+   "w": 1376,
+   "h": 1032,
+   "dpr": 2,
+   "mobile": false,
+   "zh": {
+    "vw": 1376,
+    "vh": 1032,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1361,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      1032
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      1032
+     ]
+    },
+    "contentContainer": [
+     345,
+     112,
+     688,
+     40778
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      345,
+      9064,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1160,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      345,
+      40753,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": false
+   },
+   "compare": {
+    "vw": 1376,
+    "vh": 1032,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     32,
+     112,
+     609,
+     46680
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      52,
+      10439,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-side bili-show-compare",
+    "panel": {
+     "rect": [
+      673,
+      64,
+      688,
+      968
+     ]
+    },
+    "enDoc": [
+     674,
+     104,
+     687,
+     928
+    ],
+    "enDocW": 687,
+    "enFontPx": "16px",
+    "bar": [
+     674,
+     64,
+     687,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      52,
+      46607,
+      569,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": false
+   },
+   "inter": {
+    "vw": 1376,
+    "vh": 1032,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     337,
+     112,
+     688,
+     40698
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      337,
+      8985,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      991,
+      1361,
+      41
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     992,
+     1361,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      337,
+      40673,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": false
+   },
+   "enpage": {
+    "vw": 1376,
+    "vh": 1032,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1361,
+      64
+     ]
+    },
+    "localNav": null,
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      1032
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      1032
+     ]
+    },
+    "contentContainer": [
+     345,
+     112,
+     688,
+     54926
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      345,
+      13602,
+      389,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 389,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 686,
+      "cw": 686,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1233,
+      17,
+      96,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      345,
+      54901,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": false
+   }
+  },
+  "ipad-air-l": {
+   "k": "ipad-air-l",
+   "w": 1180,
+   "h": 820,
+   "dpr": 2,
+   "mobile": false,
+   "zh": {
+    "vw": 1180,
+    "vh": 820,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1165,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      1165,
+      52
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      820
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      820
+     ]
+    },
+    "contentContainer": [
+     375,
+     164,
+     688,
+     40778
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      375,
+      9116,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      964,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      375,
+      40805,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": false
+   },
+   "axiom": {
+    "vw": 1180,
+    "vh": 820,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1165,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      1165,
+      52
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      820
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      820
+     ]
+    },
+    "contentContainer": [
+     375,
+     164,
+     688,
+     31505
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      375,
+      1416,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 688,
+      "cw": 688,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 688,
+      "cw": 688,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 688,
+      "cw": 688,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      964,
+      17,
+      169,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      375,
+      31532,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": false
+   },
+   "compare": {
+    "vw": 1180,
+    "vh": 820,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     32,
+     112,
+     511,
+     53959
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      52,
+      12203,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-side bili-show-compare",
+    "panel": {
+     "rect": [
+      575,
+      64,
+      590,
+      756
+     ]
+    },
+    "enDoc": [
+     576,
+     123,
+     589,
+     698
+    ],
+    "enDocW": 589,
+    "enFontPx": "16px",
+    "bar": [
+     576,
+     64,
+     589,
+     59
+    ],
+    "barH": 59,
+    "barVar": "59px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      52,
+      53866,
+      471,
+      157
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": false
+   },
+   "inter": {
+    "vw": 1180,
+    "vh": 820,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     239,
+     112,
+     688,
+     40698
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      239,
+      8985,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      779,
+      1165,
+      41
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     780,
+     1165,
+     40
+    ],
+    "barH": 40,
+    "barVar": "40px",
+    "barBtnMin": 19.5,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      239,
+      40673,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": false
+   },
+   "enpage": {
+    "vw": 1180,
+    "vh": 820,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      1165,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      1165,
+      52
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      0,
+      0,
+      272,
+      820
+     ]
+    },
+    "aside": {
+     "rect": [
+      0,
+      0,
+      272,
+      820
+     ]
+    },
+    "contentContainer": [
+     375,
+     164,
+     688,
+     54926
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      375,
+      13654,
+      389,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 389,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 686,
+      "cw": 686,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      1037,
+      17,
+      96,
+      30
+     ],
+     "fixed": "static"
+    },
+    "footer": {
+     "rect": [
+      375,
+      54953,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": false
+   }
+  },
+  "iphone-se": {
+   "k": "iphone-se",
+   "w": 375,
+   "h": 667,
+   "dpr": 2,
+   "mobile": false,
+   "zh": {
+    "vw": 375,
+    "vh": 667,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      360,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      360,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      304,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -311,
+      0,
+      311,
+      667
+     ]
+    },
+    "aside": {
+     "rect": [
+      -311,
+      0,
+      311,
+      667
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     312,
+     76844
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      17590,
+      312,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 312,
+     "overflow": 21
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      244,
+      614,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      76815,
+      312,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": true
+   },
+   "axiom": {
+    "vw": 375,
+    "vh": 667,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      360,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      360,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      304,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -311,
+      0,
+      311,
+      667
+     ]
+    },
+    "aside": {
+     "rect": [
+      -311,
+      0,
+      311,
+      667
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     312,
+     54835
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      2414,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 312,
+      "cw": 312,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 312,
+      "cw": 312,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 312,
+      "cw": 312,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      244,
+      614,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      54806,
+      312,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": true
+   },
+   "compare": {
+    "vw": 375,
+    "vh": 667,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     312,
+     76723
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      17357,
+      312,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 312,
+     "overflow": 21
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      334,
+      360,
+      334
+     ]
+    },
+    "enDoc": [
+     0,
+     418,
+     360,
+     249
+    ],
+    "enDocW": 360,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     335,
+     360,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      76582,
+      312,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": true
+   },
+   "inter": {
+    "vw": 375,
+    "vh": 667,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     312,
+     76723
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      17357,
+      312,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 312,
+     "overflow": 21
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      583,
+      360,
+      84
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     584,
+     360,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      76582,
+      312,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": true
+   },
+   "enpage": {
+    "vw": 375,
+    "vh": 667,
+    "dpr": 2,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      360,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      360,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      304,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -311,
+      0,
+      311,
+      667
+     ]
+    },
+    "aside": {
+     "rect": [
+      -311,
+      0,
+      311,
+      667
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     312,
+     110948
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      28958,
+      312,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 312,
+     "overflow": 77
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 310,
+      "cw": 310,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      250,
+      614,
+      98,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      110919,
+      312,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": true
+   }
+  },
+  "iphone-15": {
+   "k": "iphone-15",
+   "w": 393,
+   "h": 852,
+   "dpr": 3,
+   "mobile": false,
+   "zh": {
+    "vw": 393,
+    "vh": 852,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      378,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      378,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      322,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      852
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      852
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     330,
+     73226
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      16760,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 330,
+     "overflow": 3
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      262,
+      799,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      73197,
+      330,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": true
+   },
+   "axiom": {
+    "vw": 393,
+    "vh": 852,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      378,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      378,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      322,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      852
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      852
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     330,
+     67675
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "mathInlineFs": null,
+    "tables": [
+     {
+      "sw": 330,
+      "cw": 330,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 330,
+      "cw": 330,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 330,
+      "cw": 330,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      262,
+      799,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      67646,
+      330,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": true
+   },
+   "compare": {
+    "vw": 393,
+    "vh": 852,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     330,
+     73126
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      16548,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 330,
+     "overflow": 3
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      426,
+      378,
+      426
+     ]
+    },
+    "enDoc": [
+     0,
+     510,
+     378,
+     342
+    ],
+    "enDocW": 378,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     427,
+     378,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      72985,
+      330,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": true
+   },
+   "inter": {
+    "vw": 393,
+    "vh": 852,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     330,
+     73126
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      16548,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 330,
+     "overflow": 3
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      768,
+      378,
+      84
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     769,
+     378,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      72985,
+      330,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": true
+   },
+   "enonly": {
+    "vw": 393,
+    "vh": 852,
+    "dpr": 3,
+    "hOverflow": 0,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "fontSize": "28.8px",
+     "innerW": 0,
+     "clipW": 0,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 344,
+      "cw": 344,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "bili-mode bili-stack bili-show-en",
+    "panel": {
+     "rect": [
+      0,
+      0,
+      393,
+      852
+     ]
+    },
+    "enDoc": [
+     0,
+     84,
+     393,
+     768
+    ],
+    "enDocW": 393,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     1,
+     393,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": null,
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enonly",
+    "narrowExpected": true
+   },
+   "enpage": {
+    "vw": 393,
+    "vh": 852,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      378,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      378,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      322,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      852
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      852
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     330,
+     105032
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      27283,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 330,
+     "overflow": 59
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 328,
+      "cw": 328,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      268,
+      799,
+      98,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      105003,
+      330,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": true
+   },
+   "dark-zh": {
+    "vw": 393,
+    "vh": 852,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      378,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      378,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      322,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      852
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      852
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     330,
+     73226
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      16760,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 330,
+     "overflow": 3
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      262,
+      799,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      73197,
+      330,
+      173
+     ]
+    },
+    "dark": true,
+    "bg": "rgb(23, 18, 16)",
+    "step": "dark-zh",
+    "narrowExpected": true
+   },
+   "dark-compare": {
+    "vw": 393,
+    "vh": 852,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     330,
+     73126
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      16548,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 330,
+     "overflow": 3
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 329,
+      "cw": 329,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      426,
+      378,
+      426
+     ]
+    },
+    "enDoc": [
+     0,
+     510,
+     378,
+     342
+    ],
+    "enDocW": 378,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     427,
+     378,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      72985,
+      330,
+      173
+     ]
+    },
+    "dark": true,
+    "bg": "rgb(23, 18, 16)",
+    "step": "dark-compare",
+    "narrowExpected": true
+   }
+  },
+  "iphone-16pro": {
+   "k": "iphone-16pro",
+   "w": 402,
+   "h": 874,
+   "dpr": 3,
+   "mobile": false,
+   "zh": {
+    "vw": 402,
+    "vh": 874,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      387,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      387,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      331,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      874
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      874
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     339,
+     71029
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      16157,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      271,
+      821,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      71000,
+      339,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": true
+   },
+   "axiom": {
+    "vw": 402,
+    "vh": 874,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      387,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      387,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      331,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      874
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      874
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     339,
+     51139
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      2160,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 339,
+      "cw": 339,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 339,
+      "cw": 339,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 339,
+      "cw": 339,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      271,
+      821,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      51110,
+      339,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": true
+   },
+   "compare": {
+    "vw": 402,
+    "vh": 874,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     339,
+     70929
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      15945,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      437,
+      387,
+      437
+     ]
+    },
+    "enDoc": [
+     0,
+     521,
+     387,
+     353
+    ],
+    "enDocW": 387,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     438,
+     387,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      70788,
+      339,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": true
+   },
+   "inter": {
+    "vw": 402,
+    "vh": 874,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     339,
+     70929
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      15945,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      790,
+      387,
+      84
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     791,
+     387,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      70788,
+      339,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": true
+   },
+   "enpage": {
+    "vw": 402,
+    "vh": 874,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      387,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      387,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      331,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      874
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      874
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     339,
+     102450
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      26441,
+      339,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 339,
+     "overflow": 50
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 337,
+      "cw": 337,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      277,
+      821,
+      98,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      102421,
+      339,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": true
+   }
+  },
+  "iphone-16promax": {
+   "k": "iphone-16promax",
+   "w": 440,
+   "h": 956,
+   "dpr": 3,
+   "mobile": false,
+   "zh": {
+    "vw": 440,
+    "vh": 956,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      425,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      425,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      369,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      956
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      956
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     377,
+     65409
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      14869,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      309,
+      903,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      65380,
+      377,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": true
+   },
+   "axiom": {
+    "vw": 440,
+    "vh": 956,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      425,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      425,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      369,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      956
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      956
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     377,
+     47533
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      2104,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 377,
+      "cw": 377,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 377,
+      "cw": 377,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 377,
+      "cw": 377,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      309,
+      903,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      47504,
+      377,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": true
+   },
+   "compare": {
+    "vw": 440,
+    "vh": 956,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     377,
+     65309
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      14657,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      478,
+      425,
+      478
+     ]
+    },
+    "enDoc": [
+     0,
+     562,
+     425,
+     394
+    ],
+    "enDocW": 425,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     479,
+     425,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      65168,
+      377,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": true
+   },
+   "inter": {
+    "vw": 440,
+    "vh": 956,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     377,
+     65309
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      14657,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      909,
+      425,
+      47
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     910,
+     425,
+     46
+    ],
+    "barH": 46,
+    "barVar": "46px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      65168,
+      377,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": true
+   },
+   "enpage": {
+    "vw": 440,
+    "vh": 956,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      425,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      425,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      369,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      956
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      956
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     377,
+     92495
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      23919,
+      377,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 377,
+     "overflow": 12
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 375,
+      "cw": 375,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      315,
+      903,
+      98,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      92466,
+      377,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": true
+   }
+  },
+  "android-360": {
+   "k": "android-360",
+   "w": 360,
+   "h": 800,
+   "dpr": 3,
+   "mobile": false,
+   "zh": {
+    "vw": 360,
+    "vh": 800,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      345,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      345,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      289,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -296,
+      0,
+      296,
+      800
+     ]
+    },
+    "aside": {
+     "rect": [
+      -296,
+      0,
+      296,
+      800
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     297,
+     80537
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      18404,
+      297,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 297,
+     "overflow": 36
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      229,
+      747,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      80508,
+      297,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": true
+   },
+   "axiom": {
+    "vw": 360,
+    "vh": 800,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      345,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      345,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      289,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -296,
+      0,
+      296,
+      800
+     ]
+    },
+    "aside": {
+     "rect": [
+      -296,
+      0,
+      296,
+      800
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     297,
+     57024
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      2442,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 297,
+      "cw": 297,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 297,
+      "cw": 297,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 297,
+      "cw": 297,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      229,
+      747,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      56995,
+      297,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": true
+   },
+   "compare": {
+    "vw": 360,
+    "vh": 800,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     297,
+     80417
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      18172,
+      297,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 297,
+     "overflow": 36
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      400,
+      345,
+      400
+     ]
+    },
+    "enDoc": [
+     0,
+     484,
+     345,
+     316
+    ],
+    "enDocW": 345,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     401,
+     345,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      80276,
+      297,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": true
+   },
+   "inter": {
+    "vw": 360,
+    "vh": 800,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     297,
+     80417
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      18172,
+      297,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 297,
+     "overflow": 36
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      716,
+      345,
+      84
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     717,
+     345,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      80276,
+      297,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": true
+   },
+   "enpage": {
+    "vw": 360,
+    "vh": 800,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      345,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      345,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      289,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -296,
+      0,
+      296,
+      800
+     ]
+    },
+    "aside": {
+     "rect": [
+      -296,
+      0,
+      296,
+      800
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     297,
+     116149
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      30162,
+      297,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 297,
+     "overflow": 92
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 295,
+      "cw": 295,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      235,
+      747,
+      98,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      116120,
+      297,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": true
+   }
+  },
+  "xiaomi-15": {
+   "k": "xiaomi-15",
+   "w": 393,
+   "h": 873,
+   "dpr": 3,
+   "mobile": false,
+   "zh": {
+    "vw": 393,
+    "vh": 873,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      378,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      378,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      322,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      873
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      873
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     330,
+     73226
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      16760,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 330,
+     "overflow": 3
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      262,
+      820,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      73197,
+      330,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": true
+   },
+   "axiom": {
+    "vw": 393,
+    "vh": 873,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      378,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      378,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      322,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      873
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      873
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     330,
+     67675
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "mathInlineFs": null,
+    "tables": [
+     {
+      "sw": 330,
+      "cw": 330,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 330,
+      "cw": 330,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 330,
+      "cw": 330,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      262,
+      820,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      67646,
+      330,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": true
+   },
+   "compare": {
+    "vw": 393,
+    "vh": 873,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     330,
+     73126
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      16548,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 330,
+     "overflow": 3
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      437,
+      378,
+      437
+     ]
+    },
+    "enDoc": [
+     0,
+     521,
+     378,
+     352
+    ],
+    "enDocW": 378,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     438,
+     378,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      72985,
+      330,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": true
+   },
+   "inter": {
+    "vw": 393,
+    "vh": 873,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     330,
+     73126
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      16548,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 330,
+     "overflow": 3
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      789,
+      378,
+      84
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     790,
+     378,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      72985,
+      330,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": true
+   },
+   "enonly": {
+    "vw": 393,
+    "vh": 873,
+    "dpr": 3,
+    "hOverflow": 0,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "fontSize": "28.8px",
+     "innerW": 0,
+     "clipW": 0,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 344,
+      "cw": 344,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "bili-mode bili-stack bili-show-en",
+    "panel": {
+     "rect": [
+      0,
+      0,
+      393,
+      873
+     ]
+    },
+    "enDoc": [
+     0,
+     84,
+     393,
+     789
+    ],
+    "enDocW": 393,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     1,
+     393,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": null,
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enonly",
+    "narrowExpected": true
+   },
+   "enpage": {
+    "vw": 393,
+    "vh": 873,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      378,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      378,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      322,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      873
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      873
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     330,
+     105032
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      27283,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 330,
+     "overflow": 59
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 328,
+      "cw": 328,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      268,
+      820,
+      98,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      105003,
+      330,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": true
+   },
+   "dark-zh": {
+    "vw": 393,
+    "vh": 873,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      378,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      378,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      322,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      873
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      873
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     330,
+     73226
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      16760,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 330,
+     "overflow": 3
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      262,
+      820,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      73197,
+      330,
+      173
+     ]
+    },
+    "dark": true,
+    "bg": "rgb(23, 18, 16)",
+    "step": "dark-zh",
+    "narrowExpected": true
+   },
+   "dark-compare": {
+    "vw": 393,
+    "vh": 873,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     330,
+     73126
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      16548,
+      330,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 330,
+     "overflow": 3
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 329,
+      "cw": 329,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      437,
+      378,
+      437
+     ]
+    },
+    "enDoc": [
+     0,
+     521,
+     378,
+     352
+    ],
+    "enDocW": 378,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     438,
+     378,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      72985,
+      330,
+      173
+     ]
+    },
+    "dark": true,
+    "bg": "rgb(23, 18, 16)",
+    "step": "dark-compare",
+    "narrowExpected": true
+   }
+  },
+  "xiaomi-ultra": {
+   "k": "xiaomi-ultra",
+   "w": 412,
+   "h": 915,
+   "dpr": 3,
+   "mobile": false,
+   "zh": {
+    "vw": 412,
+    "vh": 915,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      397,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      397,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      341,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      915
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      915
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     349,
+     69955
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      15961,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      281,
+      862,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      69926,
+      349,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": true
+   },
+   "axiom": {
+    "vw": 412,
+    "vh": 915,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      397,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      397,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      341,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      915
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      915
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     349,
+     50634
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      2160,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 349,
+      "cw": 349,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 349,
+      "cw": 349,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 349,
+      "cw": 349,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      281,
+      862,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      50605,
+      349,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": true
+   },
+   "compare": {
+    "vw": 412,
+    "vh": 915,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     349,
+     69855
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      15749,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      458,
+      397,
+      458
+     ]
+    },
+    "enDoc": [
+     0,
+     542,
+     397,
+     373
+    ],
+    "enDocW": 397,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     459,
+     397,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      69714,
+      349,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": true
+   },
+   "inter": {
+    "vw": 412,
+    "vh": 915,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     349,
+     69855
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      15749,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      831,
+      397,
+      84
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     832,
+     397,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      69714,
+      349,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": true
+   },
+   "enpage": {
+    "vw": 412,
+    "vh": 915,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      397,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      397,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      341,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      915
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      915
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     349,
+     99237
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      25825,
+      349,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 349,
+     "overflow": 40
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 347,
+      "cw": 347,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      287,
+      862,
+      98,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      99208,
+      349,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": true
+   }
+  },
+  "android-430": {
+   "k": "android-430",
+   "w": 430,
+   "h": 932,
+   "dpr": 3,
+   "mobile": false,
+   "zh": {
+    "vw": 430,
+    "vh": 932,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      415,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      415,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      359,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      932
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      932
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     367,
+     67365
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      15373,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      299,
+      879,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      67336,
+      367,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": true
+   },
+   "axiom": {
+    "vw": 430,
+    "vh": 932,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      415,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      415,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      359,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      932
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      932
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     367,
+     48696
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      2104,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 367,
+      "cw": 367,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 367,
+      "cw": 367,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 367,
+      "cw": 367,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      299,
+      879,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      48667,
+      367,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": true
+   },
+   "compare": {
+    "vw": 430,
+    "vh": 932,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     367,
+     67265
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      15161,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      466,
+      415,
+      466
+     ]
+    },
+    "enDoc": [
+     0,
+     550,
+     415,
+     382
+    ],
+    "enDocW": 415,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     467,
+     415,
+     83
+    ],
+    "barH": 83,
+    "barVar": "83px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      67124,
+      367,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": true
+   },
+   "inter": {
+    "vw": 430,
+    "vh": 932,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     24,
+     32,
+     367,
+     67265
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      15161,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      885,
+      415,
+      47
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     886,
+     415,
+     46
+    ],
+    "barH": 46,
+    "barVar": "46px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      24,
+      67124,
+      367,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": true
+   },
+   "enpage": {
+    "vw": 430,
+    "vh": 932,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      415,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      415,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": true,
+     "rect": [
+      359,
+      0,
+      48,
+      64
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      932
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      932
+     ]
+    },
+    "contentContainer": [
+     24,
+     144,
+     367,
+     94651
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      24,
+      24369,
+      367,
+      83
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 367,
+     "overflow": 22
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 365,
+      "cw": 365,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      305,
+      879,
+      98,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      24,
+      94622,
+      367,
+      173
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": true
+   }
+  },
+  "phone-landscape": {
+   "k": "phone-landscape",
+   "w": 852,
+   "h": 393,
+   "dpr": 3,
+   "mobile": false,
+   "zh": {
+    "vw": 852,
+    "vh": 393,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      837,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      837,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      393
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      393
+     ]
+    },
+    "contentContainer": [
+     75,
+     160,
+     688,
+     40778
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      75,
+      9112,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      721,
+      340,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      75,
+      40801,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "zh",
+    "narrowExpected": true
+   },
+   "axiom": {
+    "vw": 852,
+    "vh": 393,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      837,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      837,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      393
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      393
+     ]
+    },
+    "contentContainer": [
+     75,
+     160,
+     688,
+     31505
+    ],
+    "zhDoc": null,
+    "h1": "选择公理 The Axiom of Choice (John L. Bell) ",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      75,
+      1412,
+      186,
+      246
+     ],
+     "fontSize": "28.8px",
+     "innerW": 186,
+     "clipW": 186,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 688,
+      "cw": 688,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 688,
+      "cw": 688,
+      "need": false,
+      "pageOverflow": false
+     },
+     {
+      "sw": 688,
+      "cw": 688,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      721,
+      340,
+      104,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      75,
+      31528,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "axiom",
+    "narrowExpected": true
+   },
+   "compare": {
+    "vw": 852,
+    "vh": 393,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     75,
+     48,
+     688,
+     40698
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      75,
+      8921,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-stack bili-show-compare",
+    "panel": {
+     "rect": [
+      0,
+      197,
+      837,
+      197
+     ]
+    },
+    "enDoc": [
+     0,
+     243,
+     837,
+     150
+    ],
+    "enDocW": 837,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     198,
+     837,
+     46
+    ],
+    "barH": 46,
+    "barVar": "46px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0% · 英 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      75,
+      40609,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "escBodyClass": "",
+    "escZhDoc": null,
+    "escPanel": null,
+    "step": "compare",
+    "narrowExpected": true
+   },
+   "inter": {
+    "vw": 852,
+    "vh": 393,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": null,
+    "localNav": null,
+    "navTitle": {
+     "vis": false
+    },
+    "search": {
+     "vis": false
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "aside": null,
+    "contentContainer": [
+     75,
+     48,
+     688,
+     40698
+    ],
+    "zhDoc": null,
+    "h1": "抽象对象 Abstract Objects (José L. Falguera、",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      75,
+      8921,
+      333,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 333,
+     "clipW": 333,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "bodyClass": "bili-mode bili-inter bili-show-compare bili-bottombar",
+    "panel": {
+     "rect": [
+      0,
+      346,
+      837,
+      47
+     ]
+    },
+    "enDoc": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "enDocW": 0,
+    "enFontPx": "16px",
+    "bar": [
+     0,
+     347,
+     837,
+     46
+    ],
+    "barH": 46,
+    "barVar": "46px",
+    "barBtnMin": 30.75,
+    "barBtns": 5,
+    "progress": " 中 0%",
+    "enLabel": null,
+    "entry": null,
+    "footer": {
+     "rect": [
+      75,
+      40609,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "inter",
+    "narrowExpected": true
+   },
+   "enpage": {
+    "vw": 852,
+    "vh": 393,
+    "dpr": 3,
+    "hOverflow": -15,
+    "nav": {
+     "rect": [
+      0,
+      0,
+      837,
+      64
+     ]
+    },
+    "localNav": {
+     "rect": [
+      0,
+      64,
+      837,
+      48
+     ]
+    },
+    "navTitle": {
+     "vis": true
+    },
+    "search": {
+     "vis": true
+    },
+    "hamburger": {
+     "vis": false,
+     "rect": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "sidebar": {
+     "vis": true,
+     "rect": [
+      -320,
+      0,
+      320,
+      393
+     ]
+    },
+    "aside": {
+     "rect": [
+      -320,
+      0,
+      320,
+      393
+     ]
+    },
+    "contentContainer": [
+     75,
+     160,
+     688,
+     54926
+    ],
+    "zhDoc": null,
+    "h1": "Abstract Objects ​",
+    "zhFontPx": "16px",
+    "math": {
+     "rect": [
+      75,
+      13650,
+      389,
+      68
+     ],
+     "fontSize": "28.8px",
+     "innerW": 389,
+     "clipW": 389,
+     "overflow": 0
+    },
+    "mathInlineFs": "28.8px",
+    "tables": [
+     {
+      "sw": 686,
+      "cw": 686,
+      "need": false,
+      "pageOverflow": false
+     }
+    ],
+    "bodyClass": "",
+    "panel": null,
+    "enLabel": null,
+    "entry": {
+     "rect": [
+      727,
+      340,
+      98,
+      40
+     ],
+     "fixed": "fixed"
+    },
+    "footer": {
+     "rect": [
+      75,
+      54949,
+      688,
+      137
+     ]
+    },
+    "dark": false,
+    "bg": "rgb(242, 236, 232)",
+    "step": "enpage",
+    "narrowExpected": true
+   }
+  }
+ }
+}
