@@ -102,14 +102,15 @@ class AliasFragmentTest(unittest.TestCase):
             f.write(text)
 
     def test_dangling_fragment_is_hard_error(self):
-        self.write("SUMMARY.md", "* [\\*生物学——见生物学：实验生物学 in biology — see biology: experiment in](b/biology-experiment.md)\n")
+        # ADR-0060 起别名行是不带链接的标签行；带链接的行按正式条目解析、不进别名门
+        self.write("SUMMARY.md", "* \\*生物学——见生物学：实验生物学 in biology — see biology: experiment in\n")
         self.write("b/biology-experiment.md", "# 生物学中的实验 Experiment in Biology\n")
         r = run(self.root)
         self.assertEqual(r.returncode, 1)
         self.assertIn("ALIAS", r.stdout)
 
     def test_full_title_fragment_passes(self):
-        self.write("SUMMARY.md", "* [\\*生物学——见生物学：实验生物学 Experiment in Biology — see biology: experiment in](b/biology-experiment.md)\n")
+        self.write("SUMMARY.md", "* \\*生物学——见生物学：实验生物学 Experiment in Biology — see biology: experiment in\n")
         self.write("b/biology-experiment.md", "# 生物学中的实验 Experiment in Biology\n")
         r = run(self.root)
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
