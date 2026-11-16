@@ -64,6 +64,42 @@ def docs_pointer(shell: str) -> str | None:
     return None
 
 
+# 不参与站点构建的路径：照抄 .vitepress/config.mts 的 siteExclude，另加两处判断。
+# 这些文件变了不需要重新构建部署，指针也不必为它们前移——下一次有站点改动的提交会把
+# 它们一并带过去。两处刻意偏离 siteExclude：
+#   * `baseline/` 虽然不产页面，但 entries.json 在构建期决定题区版本钉与 enPath，
+#     改了必须重建——所以**不**排除（siteExclude 里有它，这里故意不加）；
+#   * `yuanwen/SUMMARY*.md` 是生成的三份 TOC 之一，站内不引用，改了也不影响构建
+#     （siteExclude 按文件排除，这里用 NON_SITE_FILES 表达）。
+NON_SITE_PREFIXES = (
+    'en/', 'specs/', 'tools/', 'tasks/', 'state/', 'script/', 'rules/',
+    '.github/', '.zcode/', '.specify/', '.qoder/',
+)
+NON_SITE_FILES = {
+    'AGENTS.md', 'CONTRIBUTING.md', 'CODE_OF_CONDUCT.md',
+    '.gitignore', '.gitattributes', '.gitmodules', '.autocorrectrc',
+    '.markdownlint-cli2.jsonc', 'yuanwen/SUMMARY.md', 'yuanwen/SUMMARY-en.md',
+}
+
+
+def site_files(cur: str | None, target: str) -> list[str]:
+    """指针 cur → target 之间改动里**会影响站点**的文件；无法比对时视为全都影响。"""
+    if not cur:
+        return ['<无当前指针>']
+    r = run(['git', 'diff', '--name-only', cur, target], ROOT, check=False)
+    if r.returncode != 0:
+        return ['<无法比对 %s..%s>' % (cur[:9], target[:9])]
+    out = []
+    for f in r.stdout.splitlines():
+        f = f.strip()
+        if not f:
+            continue
+        if f in NON_SITE_FILES or f.startswith(NON_SITE_PREFIXES):
+            continue
+        out.append(f)
+    return out
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description='前移壳仓 docs 指针并推送（ADR-0064）')
     ap.add_argument('--shell', help='壳仓路径（默认同级 taophilosophy.github.io）')
@@ -72,6 +108,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument('--dry-run', action='store_true', help='只报告，不改动')
     ap.add_argument('--no-push', action='store_true', help='只提交不推送')
     ap.add_argument('--force', action='store_true', help='允许指针指向未在 origin/main 上的提交')
+    ap.add_argument('--always', action='store_true', help='即使区间内没有站点改动也前移指针')
     ap.add_argument('--allow-dirty', action='store_true', help='允许壳仓有 docs 以外的未提交改动（仍只提交 docs）')
     args = ap.parse_args(argv)
 
@@ -132,6 +169,14 @@ def main(argv: list[str] | None = None) -> int:
         return 1
 
     brief = subject if len(subject) <= 60 else subject[:59] + '…'
+    if not args.always and cur:
+        touched = site_files(cur, target)
+        if not touched:
+            print('指针区间内没有站点改动（只有 tools/specs/rules/en 等不参与构建的路径），'
+                  '跳过前移；下次有站点改动时一并带过去（--always 可强制）。')
+            return 0
+        print('站点改动 %d 个文件（示例：%s）' % (len(touched), ', '.join(touched[:3])))
+
     msg = 'docs 指针前移：%s %s' % (target[:9], brief)
     if args.dry_run:
         print('[dry-run] 将执行：git update-index --cacheinfo 160000,%s,docs && git commit -m %r%s' % (target, 
