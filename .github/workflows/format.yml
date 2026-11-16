@@ -1,0 +1,121 @@
+name: 🧹 Markdown 格式（矩阵：检查 / 自动修复开 PR）
+
+# 最小权限（CodeQL actions/missing-workflow-permissions）：格式化作业需写分支开 PR，
+# PR 只读检查作业在 job 级收窄为 contents: read。
+permissions:
+  contents: write
+  pull-requests: write
+
+# 三个格式化工具（markdownlint / autocorrect / md-padding）原为四条独立工作流，
+# 行为同类（改 Markdown 后开 PR），合并为本工作流的一条矩阵（ADR-0061）：
+#   * pull_request → 只读 lint（markdownlint，权威配置根 .markdownlint-cli2.jsonc）
+#   * workflow_dispatch → 三个工具各自 --fix 并各开一条 PR，人工核 diff 后合并
+# 禁改区一律排除（见「计算限定范围」）：原文 en/、镜像 yuanwen/、登记册、SUMMARY、
+# 测试夹具、站点产物。项目裁定禁机械替换译文（rules/05），故本文凭 PR 人工复核，
+# 不直接推 main。
+on:
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: format-${{ github.event_name }}
+  cancel-in-progress: false
+
+jobs:
+  lint-pr:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: 取本次改动的 Markdown
+        id: changed
+        uses: tj-actions/changed-files@v47
+        with:
+          files: '**/*.md'
+          separator: ","
+
+      - name: 过滤禁改区（原文、镜像、脚本、夹具不进 lint）
+        id: filter
+        run: |
+          files="$(printf '%s\n' "${{ steps.changed.outputs.all_changed_files }}" | tr ',' '\n' \
+            | grep -Ev '^(en|yuanwen|script|state|\.zcode|\.specify|tools/tests/fixtures)/|^SUMMARY\.md$' || true)"
+          echo "files=$(printf '%s' "$files" | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+
+      - name: Setup Bun
+        if: steps.filter.outputs.files != ''
+        uses: oven-sh/setup-bun@v2
+
+      - name: markdownlint（只读，告警级）
+        if: steps.filter.outputs.files != ''
+        continue-on-error: true
+        run: |
+          bunx markdownlint-cli2 --config .markdownlint-cli2.jsonc ${{ steps.filter.outputs.files }}
+
+  fix:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        tool: [markdownlint, autocorrect, md-padding]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: 计算限定范围（排除原文、镜像、登记册等禁改区）
+        id: scope
+        run: |
+          git ls-files -z -- '*.md' \
+            ':(exclude)en/**' ':(exclude)yuanwen/**' \
+            ':(exclude)script/**' ':(exclude)state/**' \
+            ':(exclude).zcode/**' ':(exclude).specify/**' \
+            ':(exclude).vitepress/dist*/**' ':(exclude)node_modules/**' \
+            ':(exclude)tools/tests/fixtures/**' ':(exclude).github/sep-sync-report/**' \
+            ':(exclude)SUMMARY.md' ':(exclude)shu-yu-biao.md' ':(exclude)ren-ming-biao.md' \
+            | tr '\0' '\n' > files.txt
+          echo "count=$(wc -l < files.txt)" >> "$GITHUB_OUTPUT"
+          head -5 files.txt
+
+      # ---- markdownlint：按根配置的 globs/ignores 定范围（与本地命令同源） ----
+      - name: markdownlint --fix
+        if: matrix.tool == 'markdownlint'
+        run: bunx markdownlint-cli2 --config .markdownlint-cli2.jsonc --fix
+
+      # ---- autocorrect：先 lint 看命中，再 fix；配置用根 .autocorrectrc ----
+      - name: autocorrect（--no-save 不写 package.json/bun.lock）
+        if: matrix.tool == 'autocorrect'
+        run: |
+          bun install --no-save autocorrect-node
+          bun run autocorrect --config .autocorrectrc --lint --no-diff-bg-color $(cat files.txt) || true
+          bun run autocorrect --config .autocorrectrc --fix $(cat files.txt)
+
+      # ---- md-padding：从 stdin 读文件清单，保留既有 ignore-words 口径 ----
+      - name: md-padding
+        if: matrix.tool == 'md-padding'
+        run: |
+          if [ ! -s files.txt ]; then echo "限定范围内无 Markdown，跳过"; exit 0; fi
+          cat files.txt | bunx md-padding@latest --ignore-words='-' ':' '>' '=' '<' -f --read-files -i
+
+      - name: 开 PR（只含 Markdown，人工核 diff 再合并）
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: format/${{ matrix.tool }}
+          delete-branch: true
+          add-paths: '**/*.md'
+          commit-message: 格式化（${{ matrix.tool }}）：Markdown 自动修正
+          title: 格式化（${{ matrix.tool }}）：Markdown 自动修正
+          body: |
+            ${{ matrix.tool }} 自动改动，**合并前必须人工核对 diff**：
+            译文正文的机械替换不在自动修复授权内（rules/05），只接受空格/标点等格式项；
+            触及语义、术语或原文镜像的改动一律回退。
+          labels: Markdown

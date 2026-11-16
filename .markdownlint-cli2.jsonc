@@ -1,5 +1,5 @@
 {
-  // SEP-CN 统一 lint 配置：与 .github/.markdownlint.json 规则一致，
+  // SEP-CN 唯一 lint 配置（2026-11-16 起；原 .github/.markdownlint.json 副本已退役，ADR-0061），
   // 另含纳入/忽略范围与按文件豁免。CI 与本地命令均以本文件为准（rules/05）。
   "config": {
     "MD001": true,
