@@ -17,8 +17,10 @@ R3、条目停 r2_reviewed；advance --step r3 必须带 --mandate <用户指定
 s0（ADR-0052）：advance --step s0 自动挂 en_integrity＋en_source_audit；
 在途/done 存量补课用 source-audit 子命令（追加 s0 记录，状态不迁移）；
 进 s3 前任务历史必须有 s0 记录。
-revert-state：受控回退原语，仅 --to s2.5_checked，仅适用于 s3_checked 及其后状态
-（ADR-0043 全量回退；steps append-only 留史）。
+s2.4（ADR-0043/0063）：advance --step s24 顺序挂术语轴（check_terms）与体例轴＋勘误轴
+（check_pairs --gate 与 check_style，结构硬、空白告警）。
+revert-state：受控回退原语，--to {s2.5_checked, s2.4_termchecked}，适用于 s2.5_checked
+及其后状态（ADR-0043 全量回退、ADR-0063 扩 s2.4；steps append-only 留史）。
 退出码: 0 成功；1 任务不存在；2 用法错误；3 前置条件不满足。
 """
 import argparse
@@ -176,7 +178,8 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
     if step in ("s3", "r3") and task.get("kind") != "glossary-maintenance":
         _academic_gate(task.get("zh_doc"), step)  # 审校挂钩（rules/07）
     if step == "s24" and task.get("kind") != "glossary-maintenance":
-        _term_gate(task.get("zh_doc"))  # 术语校挂钩（rules/03/07、ADR-0043）
+        _term_gate(task.get("zh_doc"))  # 术语轴（rules/03/07、ADR-0043）
+        _style_gate(task.get("zh_doc"))  # 体例轴＋勘误轴（ADR-0063）
     if step == "s0" and task.get("kind") != "glossary-maintenance":
         _source_gate(slug)  # 源审计前置挂钩（en_integrity＋en_source_audit，ADR-0052）
     if step == "s3" and task.get("kind") != "glossary-maintenance" \
@@ -219,6 +222,26 @@ def _term_gate(zh_doc):
     if r.returncode == 1:
         raise PreconditionError("术语一致性门禁未通过（s2.4 校次）：%s"
                                 % r.stdout.strip()[-800:])
+
+
+def _style_gate(zh_doc):
+    """s2.4 体例轴挂钩（ADR-0063）：结构三则＋勘误落地硬拦，空白类告警不拦。
+
+    `check_pairs --gate` 只对 HARD_RULES（尾序/编号/H1/勘误/出版信息）计退出码；
+    `check_style` 为正文体例定点档。桩件与带点补充材料子文档由 check_pairs 内部豁免。
+    """
+    if not zh_doc:
+        return
+    tools_dir = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
+                              "tools")
+    for script, args, label in (
+            ("check_pairs.py", ["--gate", zh_doc], "体例轴结构/勘误"),
+            ("check_style.py", [zh_doc], "正文体例")):
+        r = subprocess.run([sys.executable, _os.path.join(tools_dir, script)] + args,
+                           capture_output=True, text=True)
+        if r.returncode == 1:
+            raise PreconditionError("%s门禁未通过（s2.4 体例轴，ADR-0063）：%s"
+                                    % (label, (r.stdout or r.stderr).strip()[-800:]))
 
 
 def _source_gate(slug):
@@ -269,17 +292,21 @@ def source_audit(slug, actor, evidence):
 
 
 def revert_state(slug, to_state, reason, actor):
-    """受控状态回退原语（026 T0 设计，ADR-0043 更名目标态）。
+    """受控状态回退原语（026 T0 设计，ADR-0043 目标态；ADR-0063 扩 s2.4）。
 
-    仅接受 --to s2.5_checked；仅适用于 state ∈ {s3_checked, r1_reviewed,
-    r2_reviewed, r3_reviewed, done}；steps 追加 revert 记录（append-only），
-    不触碰正文与既有 steps/evidence。reason 必填（回退依据：任务书/裁定）。
+    接受 --to {s2.5_checked, s2.4_termchecked}；适用于 state ∈ {s2.5_checked,
+    s3_checked, r1_reviewed, r2_reviewed, r3_reviewed, done}；steps 追加 revert
+    记录（append-only），不触碰正文与既有 steps/evidence。reason 必填（回退依据）。
+
+    目标态语义同 ADR-0043 既有惯例：置为“该 checkpoint 已完成”，增项须在该状态下补做
+    并留 evidence，随后按正常序列推进（回 s2.4 后下一步是 s25，不是重跑 advance s24）。
     """
     task = load_task(slug)
     if not task:
         raise TaskNotFound(slug)
-    if to_state != "s2.5_checked":
-        raise UsageError("revert-state 仅支持 --to s2.5_checked（ADR-0043 决策 5）")
+    if to_state not in ("s2.5_checked", "s2.4_termchecked"):
+        raise UsageError("revert-state 仅支持 --to s2.5_checked 或 s2.4_termchecked"
+                         "（ADR-0043 决策 5、ADR-0063）")
     if task.get("kind") == "glossary-maintenance" or task.get("kind") not in ORDER:
         raise PreconditionError("revert-state 不适用于非词条任务")
     if not str(reason or "").strip():
@@ -288,15 +315,19 @@ def revert_state(slug, to_state, reason, actor):
         raise UsageError("actor 必填（写入路径追责字段）")
     if task.get("blockers"):
         raise PreconditionError("任务被阻塞: %s；先 advance --unblock" % task["blockers"])
-    if task["state"] not in ("s3_checked", "r1_reviewed", "r2_reviewed",
-                             "r3_reviewed", "done"):
+    if task["state"] not in ("s2.5_checked", "s3_checked", "r1_reviewed",
+                             "r2_reviewed", "r3_reviewed", "done"):
         raise PreconditionError(
-            "revert-state 要求状态 s3_checked/r1/r2/r3/done，当前 %s（s2.5 之前的任务未经回退点，"
+            "revert-state 要求状态 s2.5/s3/r1/r2/r3/done，当前 %s（更早的任务未经回退点，"
             "按新状态机自然推进）" % task["state"])
+    if to_state == "s2.4_termchecked" and not any(
+            s.get("step") in ("s2", "s24") for s in task.get("steps", [])):
+        raise PreconditionError(
+            "该任务历史无 s2/s24 记录，无法定位 s2.4 回退点（先补链，禁跳步）")
     task["steps"].append({"step": "revert-state", "status": "ok", "actor": actor,
                           "at": utcnow_iso(),
-                          "evidence": "回退到 s2.5_checked；依据：%s" % reason})
-    task["state"] = "s2.5_checked"
+                          "evidence": "回退到 %s；依据：%s" % (to_state, reason)})
+    task["state"] = to_state
     save_task(task)
     return task
 

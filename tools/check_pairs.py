@@ -15,9 +15,17 @@
       pubinfo-form（出版信息行非正典形态 > *…*）
       ellipsis-form（中文语境省略号非六连点）
 
-豁免: 围栏代码块、行内代码、数学定界符、表格行（结构项除外）。
+体例轴（ADR-0063，s2.4 硬档，`--gate` 模式只对以下四则拦）:
+      tail-order（尾节齐备与顺序：参考文献>学术工具>其他网络资源>相关词条，脚注恒末位）
+      heading-number（小节编号点号式 `N.` / `N.N`，与原文一致；跳号同报）
+      h1-form（H1 缺作者括号，或与 yuanwen 同件 H1 英文题不符）
+      errata-apply（全局勘误表落地：承载=译注 的件，正文禁含上游错字形且须有译注）
+      参考文献承载（marker↔定义配对）由 check_academic 管辖，本工具不重复实现。
+
+豁免: 围栏代码块、行内代码、数学定界符、表格行（结构项除外）；桩件（无二级标题或
+      <2KB）、带点补充材料子文档（`<slug>.<part>.md`）不适用体例轴。
 对照文件推导: <letter>/<slug>.md → en/<slug>/index.html、yuanwen/<letter>/<slug>.md。
-退出码: 0 无问题（告警级）；1 有 issue（仅 --strict）。
+退出码: 0 无问题（告警级）；1 有 issue（仅 --strict）；1 且仅体例轴四则命中（--gate）。
 """
 import json
 import os
@@ -29,7 +37,136 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from tools.common import read_text  # noqa: E402
 
 RULES = ("bracket-pair", "cite-authoryear", "bib-duplicate", "count-vs-source",
-         "dangling-link", "pubinfo-form", "ellipsis-form")
+         "dangling-link", "pubinfo-form", "ellipsis-form",
+         "tail-order", "heading-number", "h1-form", "errata-apply")
+
+# 体例轴硬档（ADR-0063）：`--gate` 模式只对这几则计退出码，供 s2.4 `_style_gate` 使用
+HARD_RULES = ("tail-order", "heading-number", "h1-form", "errata-apply", "pubinfo-form")
+
+ZTAIL = ("参考文献", "学术工具", "其他网络资源", "相关词条")
+ZNOTES = "脚注"
+ERRATA_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                           "specs", "001-sep-sync-pipeline", "results", "en-errata.md")
+_ERRATA_CACHE = {}
+
+
+def load_errata():
+    """解析全局勘误表 §八/§九 的七列表行：slug → [{上游原文, 参考读法, 中文承载}]。
+
+    只取七列表（§8.3 为五列待考行，不在此面）；表内 `slug` 列即键。
+    """
+    if _ERRATA_CACHE:
+        return _ERRATA_CACHE
+    rows = []
+    if os.path.exists(ERRATA_PATH):
+        text = read_text(ERRATA_PATH)
+        start = text.find("## 八、")
+        body = text[start:] if start >= 0 else ""
+        for line in body.splitlines():
+            if not line.startswith("|"):
+                continue
+            cells = [c.strip() for c in line.strip("|").split("|")]
+            if len(cells) != 7 or cells[0] in ("slug", "") or set(cells[0]) <= set("- "):
+                continue
+            rows.append({"slug": cells[0], "pos": cells[1], "src": cells[2],
+                         "reading": cells[4], "carrier": cells[5]})
+    for r in rows:
+        _ERRATA_CACHE.setdefault(r["slug"], []).append(r)
+    return _ERRATA_CACHE
+
+
+def check_tail_order(path, text, issues):
+    h2 = [m.group(1).strip() for m in re.finditer(r"^##\s+(.+)$", text, re.M)]
+    if not h2:
+        return  # 桩件
+    present = [t for t in h2 if t in ZTAIL]
+    missing = [t for t in ZTAIL if t not in h2]
+    if missing:
+        issues.append({"path": path, "line": 0, "rule": "tail-order",
+                       "detail": "尾节缺失：%s" % "、".join(missing)})
+        return
+    idx = [ZTAIL.index(t) for t in present]
+    if idx != sorted(idx):
+        issues.append({"path": path, "line": 0, "rule": "tail-order",
+                       "detail": "尾节顺序非正典（应 %s）：%s" % (" > ".join(ZTAIL), " > ".join(present))})
+    if ZNOTES in h2:
+        last_tail = max(h2.index(t) for t in ZTAIL)
+        if h2.index(ZNOTES) < last_tail:
+            issues.append({"path": path, "line": 0, "rule": "tail-order",
+                           "detail": "「脚注」不在末位（应置于「相关词条」之后，ADR-0063）"})
+
+
+def check_heading_number(path, text, issues):
+    h2_num = []
+    for m in re.finditer(r"^(#{2,4})\s+(.+)$", text, re.M):
+        level, title = len(m.group(1)), m.group(2).strip()
+        if title in ZTAIL or title == ZNOTES:
+            continue
+        if not title[:1].isdigit():
+            continue
+        if level == 2:
+            mm = re.match(r"^(\d+)\.\s+\S", title)
+            if not mm:
+                issues.append({"path": path, "line": 0, "rule": "heading-number",
+                               "detail": "二级标题须点号式 `N. 标题`：%s" % title[:36]})
+            else:
+                h2_num.append(int(mm.group(1)))
+        elif level == 3:
+            if not re.match(r"^\d+\.\d+\s+\S", title):
+                issues.append({"path": path, "line": 0, "rule": "heading-number",
+                               "detail": "三级标题须 `N.N 标题`（父号.子号）：%s" % title[:36]})
+    for prev, cur in zip(h2_num, h2_num[1:]):
+        if cur != prev + 1:
+            issues.append({"path": path, "line": 0, "rule": "heading-number",
+                           "detail": "小节编号跳号：%d → %d" % (prev, cur)})
+
+
+def norm_title(s):
+    s = s.replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def check_h1_form(path, text, issues, yw_text=None):
+    first = text.splitlines()[0] if text else ""
+    if not first.startswith("# "):
+        return
+    h1 = first[2:].strip()
+    if not re.search(r"[（(][^（()）]+[)）]\s*$", h1):
+        issues.append({"path": path, "line": 1, "rule": "h1-form",
+                       "detail": "H1 缺作者括号（应 `# 中文题 英文题 (作者)`）：%s" % h1[:40]})
+    if yw_text:
+        yw_h1 = next((l[2:].strip() for l in yw_text.splitlines() if l.startswith("# ")), "")
+        if yw_h1 and norm_title(yw_h1) not in norm_title(h1):
+            issues.append({"path": path, "line": 1, "rule": "h1-form",
+                           "detail": "H1 缺原文英文题 `%s`" % yw_h1[:40]})
+
+
+def check_errata(path, slug, text, issues):
+    rows = load_errata().get(slug)
+    if not rows:
+        return
+    # 译文正文面：引块（照录英文原文）与书目照录区不计，ADR-0062 决策 4 豁免
+    lines, in_bib = [], False
+    for line in text.splitlines():
+        if line.startswith("#"):
+            in_bib = line.strip() in ("## 参考文献", "## 参考文献 ")
+            continue
+        if in_bib or line.lstrip().startswith(">"):
+            continue
+        lines.append(line)
+    prose = "\n".join(lines)
+    for r in rows:
+        carrier = r["carrier"]
+        if "译注" not in carrier or "无需译注" in carrier:
+            continue
+        src = r["src"].strip("`")
+        if len(src) >= 6 and src in prose:
+            issues.append({"path": path, "line": 0, "rule": "errata-apply",
+                           "detail": "正文仍含上游错字形 `%s`（ADR-0062 决策 4：译文不复制错字）"
+                                     % src[:40]})
+        if "译注" not in text:
+            issues.append({"path": path, "line": 0, "rule": "errata-apply",
+                           "detail": "勘误表命中但全文无译注（上游 `%s`）" % src[:40]})
 
 HAN = r"\u4e00-\u9fff"
 MATH_RE = re.compile(r"\$\$.+?\$\$|\$[^$\n]+\$")
@@ -179,6 +316,9 @@ def check_file(path):
     defs, dup = extract_bib_defs(text)
     en_p = os.path.join(os.path.dirname(base_dir), "en", slug, "index.html")
     en_text = read_text(en_p) if os.path.exists(en_p) else None
+    yw_p = os.path.join(os.path.dirname(base_dir), "yuanwen",
+                        os.path.basename(base_dir), slug + ".md")
+    yw_text = read_text(yw_p) if os.path.exists(yw_p) else None
     for k in set(dup):
         issues.append({"path": path, "line": 0, "rule": "bib-duplicate",
                        "detail": "书目键重复定义 [^%s]（%d 次）" % (k, dup.count(k) + 1)})
@@ -201,12 +341,19 @@ def check_file(path):
         if not in_biblio:
             check_authoryear(path, lineno, line, issues, defs, en_text)
     check_counts(path, slug, text, issues)
+    # 体例轴（ADR-0063）：桩件与带点补充材料子文档不适用
+    if "." not in slug and "## " in text:
+        check_tail_order(path, text, issues)
+        check_heading_number(path, text, issues)
+        check_h1_form(path, text, issues, yw_text)
+        check_errata(path, slug, text, issues)
     return issues
 
 
 def main(argv):
-    args = [a for a in argv if a != "--strict"]
+    args = [a for a in argv if a not in ("--strict", "--gate")]
     strict = "--strict" in argv
+    gate = "--gate" in argv
     if not args:
         print(__doc__)
         return 2
@@ -214,6 +361,8 @@ def main(argv):
     for p in args:
         issues.extend(check_file(p))
     print(json.dumps({"files": len(args), "issues": issues}, ensure_ascii=False, indent=1))
+    if gate:
+        return 1 if any(i["rule"] in HARD_RULES for i in issues) else 0
     return 1 if strict and issues else 0
 
 
