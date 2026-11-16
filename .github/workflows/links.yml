@@ -25,9 +25,9 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         # 不硬拦，但要保留真实退出码：`fail: true` 让 lychee 如实返回 2，
         # 再由 continue-on-error 把这一步的失败吞掉——作业保持绿，下方 issue
-        # 步骤仍能凭 lychee_exit_code 拿到报告。用 `fail: false` 反而不行：
-        # 那会给 lychee 加 --no-fail，退出码恒 0，issue 永远不会开（2026-11-16
-        # 实测一次 dispatch：2098 处死链却零 issue）。
+        # 步骤按 `steps.lychee.outcome == 'failure'` 取报告。用 `fail: false`
+        # 反而不行：那会给 lychee 加 --no-fail，退出码恒 0，issue 永远不开
+        # （2026-11-16 实测一次 dispatch：2098 处死链却零 issue）。
         # 口径依据：本项目 2500 个词条的参考书目天然带大量外部死链与限流
         # （inphoproject 跳转链、philpapers 429、doi 解析），硬失败会让月度作业
         # 长期全红、把真回归淹没；本文件头注本来就写着「报告以 issue 反馈」。
@@ -38,10 +38,40 @@ jobs:
           output: ./lychee/out.md
           args: --config ./.github/lychee.toml './**/*.md'
 
+      - name: 压缩报告（issue 正文有 64 KB 上限，完整报告走 artifact）
+        if: steps.lychee.outcome == 'failure'
+        run: |
+          mkdir -p lychee
+          {
+            echo 'lychee 月度链接检查：完整报告见本次运行的 artifact `lychee-report`。'
+            echo
+            echo '**统计**'
+            echo
+            grep -E '^\| (🔍|🚫|✅|⏳)' lychee/out.md | head -8 || true
+            echo
+            echo '**报告前 260 行**（其余见 artifact）'
+            echo
+            echo '```'
+            head -260 lychee/out.md || true
+            echo '```'
+          } > lychee/issue.md
+          wc -c lychee/issue.md
+
+      - name: 归档完整报告
+        if: steps.lychee.outcome == 'failure'
+        uses: actions/upload-artifact@v7
+        with:
+          name: lychee-report
+          path: lychee/out.md
+          retention-days: 30
+
       - name: Create Issue From File
-        if: env.lychee_exit_code != 0
+        # 判定用步骤 outcome，不用 env.lychee_exit_code：该变量在本版 action 与
+        # continue-on-error 的组合下不可靠（2026-11-16 实测 2099 处死链仍跳过、
+        # 零 issue）；continue-on-error 只改 conclusion，outcome 仍如实为 failure
+        if: steps.lychee.outcome == 'failure'
         uses: peter-evans/create-issue-from-file@v6
         with:
           title: Link Checker Report
-          content-filepath: ./lychee/out.md
+          content-filepath: ./lychee/issue.md
           labels: report, automated issue
