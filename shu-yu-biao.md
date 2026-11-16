@@ -3105,7 +3105,7 @@
 | lex regia de imperio | lex regia de imperio | 王权法 | marsilius-padua | 学界通行（罗马法术语，皇帝权力源于罗马人民之原则）；凭证 2026-11-09 | 2026-11-09 |
 | lexicographic order | — | 字典序（亦作“词典序”） | belief-merging | 审定名词库（termonline-all·数学名词，2026-11-11 浏览器通道凭证）；数学通行 | 2026-11-11 |
 | leximax | — | 字典最大算子（亦作“词典最大算子”） | belief-merging | 本表“字典序”派生（leximax 准则）；2026-11-11 随主形改 | 2026-11-11 |
-| li | 理 | 理（pattern/patterning；条理） | zhu-xi 首译 | 学界通行（宋明理学核心词；葛瑞汉「pattern」读法；汉字回译）；凭证 2026-11-15 | 2026-11-15 |
+| li | 理 | 理（pattern/patterning；条理） | zhu-xi 首译 | 学界通行（宋明理学核心词；葛瑞汉“pattern”读法；汉字回译）；凭证 2026-11-15 | 2026-11-15 |
 | li (establish) | 立 | 立 | han-dynasty | 徐干名实论（established） | 2026-11-10 |
 | Li Sao | 離騷 | 《离骚》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | Liar Paradox | — | 说谎者悖论（亦作“说谎者佯谬”） | 语料回收（标题词） | 学界惯例（逻辑学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -6361,7 +6361,7 @@
 | wujūb | وجود | 必然化 | umar-khayyam | 本条作者英译 necessitation；逻辑学通行义译 | 2026-11-14 |
 | wujūdī | وجودی | 实在的（属性义，in re） | umar-khayyam | 译名裁定（与 iʿtibārī 依赖心灵的 对举；实存于事物中） | 2026-11-14 |
 | wuwei | 無爲 | 无为（無爲） | japanese-aesthetics | 学界惯例（中国哲学/道家通行译法“无为”） | 2026-11-02 |
-| wuxing | 五行 | 五行（five phases 五行；不取「五元素」） | zhu-xi 首译 | 学界通行（汉代宇宙论通名；汉字回译）；凭证 2026-11-15 | 2026-11-15 |
+| wuxing | 五行 | 五行（five phases 五行；不取“五元素”） | zhu-xi 首译 | 学界通行（汉代宇宙论通名；汉字回译）；凭证 2026-11-15 | 2026-11-15 |
 
 ## X
 
