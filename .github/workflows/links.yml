@@ -24,7 +24,11 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          fail: true
+          # 不硬拦：本项目 2500 个词条的参考书目天然带着大量外部死链与限流
+          # （inphoproject 跳转链、philpapers 429、doi 解析），硬失败只会让
+          # 月度作业长期全红、把真回归淹没。按本文件头注的既定口径——「报告以
+          # issue 反馈」——保留 find 结果与 issue，退出码交给下方 issue 步骤消费。
+          fail: false
           format: markdown
           output: ./lychee/out.md
           args: --config ./.github/lychee.toml './**/*.md'

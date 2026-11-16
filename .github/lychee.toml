@@ -2,10 +2,12 @@
 
 # Verbose program output
 # Accepts log level: "error", "warn", "info", "debug", "trace"
-verbose = "trace"
+# 2026-11-16：trace 会把每条已检链接都写进日志与 job summary（实测 1740 KB，
+# 超过 GitHub 1 MB 上限导致 summary 上传报错），降到 warn 只留问题链接。
+verbose = "warn"
 
 # Don't show interactive progress bar while checking links.
-no_progress = false
+no_progress = true
 
 # Path to summary output file.
 #output = "./lychee2/out.md"
