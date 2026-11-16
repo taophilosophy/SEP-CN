@@ -160,7 +160,7 @@ But each thing is necessarily identical with itself. Hence;
 
 $$\tag{2} \Box(a=a) $$
 
-Taking ‘$[\lambda x\ \Phi]$’ to mean: being an $x$ such that $\Phi$ (where $\Phi$ is some logical formula in which ‘$x$’ is a free variable), we supposedly have:
+Taking ‘$[\lambda x\ \Phi]$’ to mean: being an $x$ such that *Φ* (where *Φ* is some logical formula in which ‘$x$’ is a free variable), we supposedly have:
 
 $$\tag{3} [\lambda x\ \Box(x=a)]a $$
 

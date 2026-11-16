@@ -137,15 +137,15 @@ We might try to assign to $\boldsymbol{T}$ a *classical* signification, by expan
 
 **Ground model** $M_1$
 
-Our first ground model is a formalization of Example 1.1, above. Suppose that $L_1$ contains three non-quote names, $\alpha , \beta$, and $\gamma$, and no predicates other than $\boldsymbol{T}$. Let $M_1 = \langle D_1 ,I_1 \rangle$ be as follows: $$\begin{align} D_1 &= \textit{Sent}_{L_1} \\ I_1(\alpha) &= \boldsymbol{T}\beta \vee \boldsymbol{T}\gamma \\ I_1 (\beta) &= \boldsymbol{T}\alpha \\ I_1 (\gamma) &= \neg \boldsymbol{T}\alpha \end{align}$$
+Our first ground model is a formalization of Example 1.1, above. Suppose that $L_1$ contains three non-quote names, $\alpha , \beta$, and *γ*, and no predicates other than $\boldsymbol{T}$. Let $M_1 = \langle D_1 ,I_1 \rangle$ be as follows: $$\begin{align} D_1 &= \textit{Sent}_{L_1} \\ I_1(\alpha) &= \boldsymbol{T}\beta \vee \boldsymbol{T}\gamma \\ I_1 (\beta) &= \boldsymbol{T}\alpha \\ I_1 (\gamma) &= \neg \boldsymbol{T}\alpha \end{align}$$
 
 **Ground model** $M_2$
 
-Suppose that $L_2$ contains one non-quote name, $\tau$, and no predicates other than $\boldsymbol{T}$. Let $M_2 = \langle D_2 ,I_2 \rangle$ be as follows: $$\begin{align} D_2 &= \textit{Sent}_{L_2} \\ I_2 (\tau) &= \boldsymbol{T}\tau \end{align}$$
+Suppose that $L_2$ contains one non-quote name, *τ*, and no predicates other than $\boldsymbol{T}$. Let $M_2 = \langle D_2 ,I_2 \rangle$ be as follows: $$\begin{align} D_2 &= \textit{Sent}_{L_2} \\ I_2 (\tau) &= \boldsymbol{T}\tau \end{align}$$
 
 **Ground model** $M_3$
 
-Suppose that $L_3$ contains one non-quote name, $\lambda$, and no predicates other than $\boldsymbol{T}$. Let $M_3 = \langle D_3 ,I_3 \rangle$ be as follows: $$\begin{align} D_3 &= \textit{Sent}_{L_3} \\ I_3 (\lambda) &= \neg \boldsymbol{T}\lambda \end{align}$$
+Suppose that $L_3$ contains one non-quote name, *λ*, and no predicates other than $\boldsymbol{T}$. Let $M_3 = \langle D_3 ,I_3 \rangle$ be as follows: $$\begin{align} D_3 &= \textit{Sent}_{L_3} \\ I_3 (\lambda) &= \neg \boldsymbol{T}\lambda \end{align}$$
 
 **Theorem 2.1**
 
@@ -189,7 +189,7 @@ In Section 1, we informally sketched the central thought of the RTT, namely, tha
 
 In general, let L be a truth language and $M$ be a ground model for $L$. An *hypothesis* is a function $h:D \rightarrow \{\mathbf{t}, \mathbf{f}\}$. A hypothesis will in effect be a hypothesized classical interpretation for $\boldsymbol{T}$. Let’s work with an example that combines features from the ground models $M_1$ and $M_3$. We will state the example formally, but reason in a semiformal way, to transition from one hypothesized extension of $\boldsymbol{T}$ to another.
 
-**Example 3.1** Suppose that $L$ contains four non-quote names, $\alpha , \beta , \gamma$ and $\lambda$ and no predicates other than $\boldsymbol{T}$. Also suppose that $M = \langle D,I\rangle$ is as follows: $$\begin{align} D &= \textit{Sent}_L \\ I(\alpha) &= \boldsymbol{T}\beta \vee \boldsymbol{T}\gamma \\ I(\beta) &= \boldsymbol{T}\alpha \\ I(\gamma) &= \neg \boldsymbol{T}\alpha \\ I(\lambda) &= \neg \boldsymbol{T}\lambda \end{align}$$
+**Example 3.1** Suppose that $L$ contains four non-quote names, $\alpha , \beta , \gamma$ and *λ* and no predicates other than $\boldsymbol{T}$. Also suppose that $M = \langle D,I\rangle$ is as follows: $$\begin{align} D &= \textit{Sent}_L \\ I(\alpha) &= \boldsymbol{T}\beta \vee \boldsymbol{T}\gamma \\ I(\beta) &= \boldsymbol{T}\alpha \\ I(\gamma) &= \neg \boldsymbol{T}\alpha \\ I(\lambda) &= \neg \boldsymbol{T}\lambda \end{align}$$
 
 It will be convenient to let
 
@@ -271,9 +271,9 @@ The ‘otherwise’ clause tells us that if $d$ is not a sentence of $L$, then, 
 
 Let’s pick up Example 3.1 and see what happens when we iterate the application of the revision rule.
 
-**Example 3.3** (Example 3.1 continued) Recall that $L$ contains four non-quote names, $\alpha , \beta , \gamma$ and $\lambda$ and no predicates other than $\boldsymbol{T}$. Also recall that $M = \langle D,I\rangle$ is as follows: $$\begin{align} D &= \textit{Sent}_L \\ I(\alpha) &= A = \boldsymbol{T}\beta \vee \boldsymbol{T}\gamma \\ I(\beta) &= B = \boldsymbol{T}\alpha \\ I(\gamma) &= C = \neg \boldsymbol{T}\alpha \\ I(\lambda) &= X = \neg \boldsymbol{T}\lambda \end{align}$$
+**Example 3.3** (Example 3.1 continued) Recall that $L$ contains four non-quote names, $\alpha , \beta , \gamma$ and *λ* and no predicates other than $\boldsymbol{T}$. Also recall that $M = \langle D,I\rangle$ is as follows: $$\begin{align} D &= \textit{Sent}_L \\ I(\alpha) &= A = \boldsymbol{T}\beta \vee \boldsymbol{T}\gamma \\ I(\beta) &= B = \boldsymbol{T}\alpha \\ I(\gamma) &= C = \neg \boldsymbol{T}\alpha \\ I(\lambda) &= X = \neg \boldsymbol{T}\lambda \end{align}$$
 
-The following table indicates what happens with repeated applications of the revision rule $\tau_M$ to the hypothesis $h_0$ from Example 3.1. In this table, we will write $\tau$ instead of $\tau_M$:
+The following table indicates what happens with repeated applications of the revision rule $\tau_M$ to the hypothesis $h_0$ from Example 3.1. In this table, we will write *τ* instead of $\tau_M$:
 
 | $S$ | $h_0 (S)$ | $\tau(h_0)(S)^{}$ | $\tau^2 (h_0)(S)$ | $\tau^3 (h_0)(S)$ | $\tau^4 (h_0)(S)$ | $\cdots$ |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -296,7 +296,7 @@ Thus, the extension of $G$ is the following set of sentences: $$\{A_0, A_1, A_2,
 
 $$ h(A_n) = h(B) = \mathbf{f}. $$
 
-The following table indicates what happens with repeated applications of the revision rule $\tau_M$ to the hypothesis $h$. In this table, we will write $\tau$ instead of $\tau_M$:
+The following table indicates what happens with repeated applications of the revision rule $\tau_M$ to the hypothesis $h$. In this table, we will write *τ* instead of $\tau_M$:
 
 | $S$ | $h(S)$ | $t(h)(S)$ | $\tau^2 (h)(S)$ | $\tau^3 (h)(S)$ | $\tau^4 (h)(S)$ | $\cdots$ |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -310,7 +310,7 @@ The following table indicates what happens with repeated applications of the rev
 
 At the $0^{\text{th}}$ stage, each $A_n$ is outside the hypothesized extension of $\boldsymbol{T}$. But from the $n{+}1^{\text{th}}$ stage onwards, $A_n$ is $in$ the hypothesized extension of $\boldsymbol{T}$. So, for each $n$, the sentence $A_n$ is eventually stably hypothesized to be true. Despite this, there is no *finite* stage at which all the $A_n$’s are hypothesized to be true: as a result the sentence $B = \forall x(Gx \supset \boldsymbol{T}x)$ remains false at each finite stage. This suggests extending the process as follows:
 
-| $S$ | $h(S)$ | $\tau(h)(S)$ | $\tau^2 (h)(S)$ | $\tau^3 (h)(S)$ | $\cdots$ | $\omega$ | $\omega +1$ | $\omega +2$ | $\cdots$ |
+| $S$ | $h(S)$ | $\tau(h)(S)$ | $\tau^2 (h)(S)$ | $\tau^3 (h)(S)$ | $\cdots$ | *ω* | $\omega +1$ | $\omega +2$ | $\cdots$ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | $A_0$ | $\mathbf{f}$ | $\mathbf{t}$ | $\mathbf{t}$ | $\mathbf{t}$ | $\cdots$ | $\mathbf{t}$ | $\mathbf{t}$ | $\mathbf{t}$ | $\cdots$ |
 | $A_1$ | $\mathbf{f}$ | $\mathbf{f}$ | $\mathbf{t}$ | $\mathbf{t}$ | $\cdots$ | $\mathbf{t}$ | $\mathbf{t}$ | $\mathbf{t}$ | $\cdots$ |
@@ -322,17 +322,17 @@ At the $0^{\text{th}}$ stage, each $A_n$ is outside the hypothesized extension o
 
 Thus, if we allow the revision process to proceed beyond the finite stages, then the sentence $B = \forall x(Gx \supset \boldsymbol{T}x)$ is stably true from the $\omega{+}1^{\text{th}}$ stage onwards. $\Box$
 
-In Example 3.4, the intuitive verdict is that not only should each $A_n$ receive a stable truth value of $\mathbf{t}$, but so should the sentence $B = \forall x(Gx \supset \boldsymbol{T}x)$. The only way to ensure this is to carry the revision process beyond the finite stages. So we will consider revision sequences that are very long: not only will a revision sequence have a $n^{\text{th}}$ stage for each finite number $n$, but a $\eta^{\text{th}}$ stage for every *ordinal* number $\eta$. (The next paragraph is to help the reader unfamiliar with ordinal numbers.)
+In Example 3.4, the intuitive verdict is that not only should each $A_n$ receive a stable truth value of $\mathbf{t}$, but so should the sentence $B = \forall x(Gx \supset \boldsymbol{T}x)$. The only way to ensure this is to carry the revision process beyond the finite stages. So we will consider revision sequences that are very long: not only will a revision sequence have a $n^{\text{th}}$ stage for each finite number $n$, but a $\eta^{\text{th}}$ stage for every *ordinal* number *η*. (The next paragraph is to help the reader unfamiliar with ordinal numbers.)
 
 One way to think of the ordinal numbers is as follows. Start with the finite natural numbers:
 
 $$ 0, 1, 2, 3, \ldots $$
 
-Add a number, $\omega$, greater than all of these but not the immediate successor of any of them:
+Add a number, *ω*, greater than all of these but not the immediate successor of any of them:
 
 $$ 0, 1, 2, 3, \ldots ,\omega $$
 
-And then take the successor of $\omega$, its successor, and so on:
+And then take the successor of *ω*, its successor, and so on:
 
 $$ 0, 1, 2, 3, \ldots ,\omega , \omega +1, \omega +2, \omega +3\ldots $$
 
@@ -344,15 +344,15 @@ At the end of this, we add an ordinal number $\omega \times \omega$ or $\omega^2
 
 $$\begin{align} &0, 1, 2, \ldots ,\omega , \omega +1, \omega +2, \ldots ,\omega \times 2, (\omega \times 2)+1,\ldots, \\ &\omega \times 3, \ldots ,\omega \times 4, \ldots ,\omega \times 5, \ldots ,\omega^2, \omega^2 +1,\ldots \end{align}$$
 
-The ordinal numbers have the following structure: every ordinal number has an immediate successor known as a *successor ordinal*; and for any infinitely ascending sequence of ordinal numbers, there is a *limit ordinal* which is greater than all the members of the sequence and which is not the immediate successor of any member of the sequence. Thus the following are successor ordinals: $5, 178, \omega +12, (\omega \times 5)+56, \omega^2 +8$; and the following are limit ordinals: $\omega , \omega \times 2, \omega^2 , (\omega^2 +\omega)$, etc. Given a limit ordinal $\eta$, a sequence $S$ of objects is an $\eta$-*long* sequence if there is an object $S_{\delta}$ for every ordinal $\delta \lt \eta$. We will denote the class of ordinals as $\textsf{On}$. Any sequence $S$ of objects is an $\textsf{On}$-*long* sequence if there is an object $S_{\delta}$ for every ordinal $\delta$.
+The ordinal numbers have the following structure: every ordinal number has an immediate successor known as a *successor ordinal*; and for any infinitely ascending sequence of ordinal numbers, there is a *limit ordinal* which is greater than all the members of the sequence and which is not the immediate successor of any member of the sequence. Thus the following are successor ordinals: $5, 178, \omega +12, (\omega \times 5)+56, \omega^2 +8$; and the following are limit ordinals: $\omega , \omega \times 2, \omega^2 , (\omega^2 +\omega)$, etc. Given a limit ordinal *η*, a sequence $S$ of objects is an *η*-*long* sequence if there is an object $S_{\delta}$ for every ordinal $\delta \lt \eta$. We will denote the class of ordinals as $\textsf{On}$. Any sequence $S$ of objects is an $\textsf{On}$-*long* sequence if there is an object $S_{\delta}$ for every ordinal *δ*.
 
-When assessing whether a sentence receives a stable truth value, the RTT considers sequences of hypotheses of length $\textsf{On}$. So suppose that $S$ is an $\textsf{On}$-long sequence of hypotheses, and let $\zeta$ and $\eta$ range over ordinals. Clearly, in order for $S$ to represent the revision process, we need the $\zeta{+}1^{\text{th}}$ hypothesis to be generated from the $\zeta^{\text{th}}$ hypothesis by the revision rule. So we insist that $S_{\zeta +1} = \tau_M(S_{\zeta})$. But what should we do at a limit stage? That is, how should we set $S_{\eta}$(d) when $\eta$ is a limit ordinal? Clearly any object that is stably true [false] *up to* that stage should be true [false] $at$ that stage. Thus consider Example 3.4. The sentence $A_2$, for example, is true up to the $\omega^{\text{th}}$ stage; so we set $A_2$ to be true $at$ the $\omega^{\text{th}}$ stage. For objects that do not stabilize up to that stage, Gupta and Belnap 1993 adopt a liberal policy: when constructing a revision sequence $S$, if the value of the object $d \in D$ has not stabilized by the time you get to the limit stage $\eta$, then you can set $S_{\eta}$(d) to be whichever of $\mathbf{t}$ or $\mathbf{f}$ you like. Before we give the precise definition of a *revision sequence*, we continue with Example 3.3 to see an application of this idea.
+When assessing whether a sentence receives a stable truth value, the RTT considers sequences of hypotheses of length $\textsf{On}$. So suppose that $S$ is an $\textsf{On}$-long sequence of hypotheses, and let *ζ* and *η* range over ordinals. Clearly, in order for $S$ to represent the revision process, we need the $\zeta{+}1^{\text{th}}$ hypothesis to be generated from the $\zeta^{\text{th}}$ hypothesis by the revision rule. So we insist that $S_{\zeta +1} = \tau_M(S_{\zeta})$. But what should we do at a limit stage? That is, how should we set $S_{\eta}$(d) when *η* is a limit ordinal? Clearly any object that is stably true [false] *up to* that stage should be true [false] $at$ that stage. Thus consider Example 3.4. The sentence $A_2$, for example, is true up to the $\omega^{\text{th}}$ stage; so we set $A_2$ to be true $at$ the $\omega^{\text{th}}$ stage. For objects that do not stabilize up to that stage, Gupta and Belnap 1993 adopt a liberal policy: when constructing a revision sequence $S$, if the value of the object $d \in D$ has not stabilized by the time you get to the limit stage *η*, then you can set $S_{\eta}$(d) to be whichever of $\mathbf{t}$ or $\mathbf{f}$ you like. Before we give the precise definition of a *revision sequence*, we continue with Example 3.3 to see an application of this idea.
 
-**Example 3.5** (Example 3.3 continued) Recall that $L$ contains four non-quote names, $\alpha , \beta , \gamma$ and $\lambda$ and no predicates other than $\boldsymbol{T}$. Also recall that $M = \langle D,I\rangle$ is as follows:
+**Example 3.5** (Example 3.3 continued) Recall that $L$ contains four non-quote names, $\alpha , \beta , \gamma$ and *λ* and no predicates other than $\boldsymbol{T}$. Also recall that $M = \langle D,I\rangle$ is as follows:
 
 $$\begin{align} D &= \textit{Sent}_L \\ I(\alpha) &= A = \boldsymbol{T}\beta \vee \boldsymbol{T}\gamma \\ I(\beta) &= B = \boldsymbol{T}\alpha \\ I(\gamma) &= C = \neg \boldsymbol{T}\alpha \\ I(\lambda) &= X = \neg \boldsymbol{T}\lambda \end{align}$$
 
-The following table indicates what happens with repeated applications of the revision rule $\tau_M$ to the hypothesis $h_0$ from Example 3.3. For each ordinal $\eta$, we will indicate the $\eta^{\text{th}}$ hypothesis by $S_{\eta}$ (suppressing the index $M$ on $\tau)$. Thus $S_0 = h_0,$ $S_1 = \tau(h_0),$ $S_2 = \tau^2 (h_0),$ $S_3 = \tau^3 (h_0),$ and $S_{\omega},$ the $\omega^{\text{th}}$ hypothesis, is determined in some way from the hypotheses leading up to it. So, starting with $h_0$ from Example 3.3, our revision sequence begins as follows:
+The following table indicates what happens with repeated applications of the revision rule $\tau_M$ to the hypothesis $h_0$ from Example 3.3. For each ordinal *η*, we will indicate the $\eta^{\text{th}}$ hypothesis by $S_{\eta}$ (suppressing the index $M$ on $\tau)$. Thus $S_0 = h_0,$ $S_1 = \tau(h_0),$ $S_2 = \tau^2 (h_0),$ $S_3 = \tau^3 (h_0),$ and $S_{\omega},$ the $\omega^{\text{th}}$ hypothesis, is determined in some way from the hypotheses leading up to it. So, starting with $h_0$ from Example 3.3, our revision sequence begins as follows:
 
 | $S$ | $S_0 (S)$ | $S_1 (S)$ | $S_2 (S)$ | $S_3 (S)$ | $S_4 (S)$ | $\cdots$ |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -376,11 +376,11 @@ We are now ready to define the notion of a *revision sequence*:
 
 **Definition 3.6**
 
-Suppose that $L$ is a truth language, and that $M = \langle D,I\rangle$ is a ground model. Suppose that $S$ is an $\textsf{On}$-long sequence of hypotheses. Then we say that $d \in D$ is *stably* $\mathbf{t} [\mathbf{f}]$ in $S$ iff for some ordinal $\theta$ we have $$ S_{\zeta}(d) = \mathbf{t}\ [\mathbf{f}], \text{ for every ordinal } \zeta \ge \theta. $$ Suppose that $S$ is a $\eta$-long sequence of hypothesis for some limit ordinal $\eta$. Then we say that $d \in D$ is *stably* $\mathbf{t}$ $[\mathbf{f}]$ in $S$ iff for some ordinal $\theta \lt \eta$ we have $$ S_{\zeta}(d) = \mathbf{t}\ [\mathbf{f}], \text{ for every ordinal } \zeta \text{ such that } \zeta \ge \theta \text{ and } \zeta \lt \eta. $$ If $S$ is an $\textsf{On}$-long sequence of hypotheses and $\eta$ is a limit ordinal, then $S|_{\eta}$ is the initial segment of $S$ up to but not including $\eta$. Note that $S|_{\eta}$ is a $\eta$-long sequence of hypotheses.
+Suppose that $L$ is a truth language, and that $M = \langle D,I\rangle$ is a ground model. Suppose that $S$ is an $\textsf{On}$-long sequence of hypotheses. Then we say that $d \in D$ is *stably* $\mathbf{t} [\mathbf{f}]$ in $S$ iff for some ordinal *θ* we have $$ S_{\zeta}(d) = \mathbf{t}\ [\mathbf{f}], \text{ for every ordinal } \zeta \ge \theta. $$ Suppose that $S$ is a *η*-long sequence of hypothesis for some limit ordinal *η*. Then we say that $d \in D$ is *stably* $\mathbf{t}$ $[\mathbf{f}]$ in $S$ iff for some ordinal $\theta \lt \eta$ we have $$ S_{\zeta}(d) = \mathbf{t}\ [\mathbf{f}], \text{ for every ordinal } \zeta \text{ such that } \zeta \ge \theta \text{ and } \zeta \lt \eta. $$ If $S$ is an $\textsf{On}$-long sequence of hypotheses and *η* is a limit ordinal, then $S|_{\eta}$ is the initial segment of $S$ up to but not including *η*. Note that $S|_{\eta}$ is a *η*-long sequence of hypotheses.
 
 **Definition 3.7**
 
-Suppose that $L$ is a truth language, and that $M = \langle D,I\rangle$ is a ground model. Suppose that $S$ is an $\textsf{On}$-long sequence of hypotheses. $S$ is a *revision sequence for* $M$ iff $S_{\zeta +1} = \tau_M(S_{\zeta})$, for each $\zeta \in \textsf{On}$, and for each limit ordinal $\eta$ and each $d \in D$, if $d$ is stably $\mathbf{t}$ $[\mathbf{f}$] in $S|_{\eta}$, then $S_{\eta}(d) = \mathbf{t} [\mathbf{f}$].
+Suppose that $L$ is a truth language, and that $M = \langle D,I\rangle$ is a ground model. Suppose that $S$ is an $\textsf{On}$-long sequence of hypotheses. $S$ is a *revision sequence for* $M$ iff $S_{\zeta +1} = \tau_M(S_{\zeta})$, for each $\zeta \in \textsf{On}$, and for each limit ordinal *η* and each $d \in D$, if $d$ is stably $\mathbf{t}$ $[\mathbf{f}$] in $S|_{\eta}$, then $S_{\eta}(d) = \mathbf{t} [\mathbf{f}$].
 
 **Definition 3.8**
 
@@ -400,7 +400,7 @@ $$ h(A_n) = \mathbf{f}. $$
 
 And let $S$ be a revision sequence whose initial hypothesis is $h$, i.e., $S_0 = h$. The following table indicates some of the values of $S_{\gamma}(C)$, for sentences $C \in \{B, A_0, A_1, A_2, A_3 , \ldots \}$. In the top row, we indicate only the ordinal number representing the stage in the revision process.
 
-|   | 0 | 1 | 2 | 3 | $\cdots$ | $\omega$ | $\omega{+}1$ | $\omega{+}2$ | $\omega{+}3$ | $\cdots$ | $\omega{\times}2$ | $(\omega{\times}2){+}1$ | $(\omega{\times}2){+}2$ | $\cdots$ |
+|   | 0 | 1 | 2 | 3 | $\cdots$ | *ω* | $\omega{+}1$ | $\omega{+}2$ | $\omega{+}3$ | $\cdots$ | $\omega{\times}2$ | $(\omega{\times}2){+}1$ | $(\omega{\times}2){+}2$ | $\cdots$ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | $B$ | $\mathbf{f}$ | $\mathbf{f}$ | $\mathbf{f}$ | $\mathbf{f}$ | $\cdots$ | $\mathbf{f}$ | $\mathbf{t}$ | $\mathbf{t}$ | $\mathbf{t}$ | $\cdots$ | $\mathbf{t}$ | $\mathbf{t}$ | $\mathbf{t}$ | $\cdots$ |
 | $A_0$ | $\mathbf{f}$ | $\mathbf{t}$ | $\mathbf{t}$ | $\mathbf{t}$ | $\cdots$ | $\mathbf{t}$ | $\mathbf{f}$ | $\mathbf{t}$ | $\mathbf{t}$ | $\cdots$ | $\mathbf{t}$ | $\mathbf{f}$ | $\mathbf{t}$ | $\cdots$ |
@@ -416,9 +416,9 @@ Example 3.9 illustrates not only the notion of stability in a revision sequence,
 
 **Definition 3.10.**
 
-Suppose that $L$ is a truth language, and that $M = \langle D,I\rangle$ is a ground model. Suppose that $S$ is an $\textsf{On}$-long sequence of hypotheses. Then we say that $d \in D$ is *nearly stably* $\mathbf{t}$ $[\mathbf{f}]$ *in* $S$ iff for some ordinal $\theta$ we have for every $\zeta \ge \theta$, there is a natural number $n$ such that, for every $m \ge n, S_{\zeta +m}(d) = \mathbf{t}$ $[\mathbf{f}]$.
+Suppose that $L$ is a truth language, and that $M = \langle D,I\rangle$ is a ground model. Suppose that $S$ is an $\textsf{On}$-long sequence of hypotheses. Then we say that $d \in D$ is *nearly stably* $\mathbf{t}$ $[\mathbf{f}]$ *in* $S$ iff for some ordinal *θ* we have for every $\zeta \ge \theta$, there is a natural number $n$ such that, for every $m \ge n, S_{\zeta +m}(d) = \mathbf{t}$ $[\mathbf{f}]$.
 
-Gupta and Belnap 1993 characterize the difference between stability and near stability as follows: “Stability *simpliciter* requires an element [in our case a sentence] to settle down to a value $\mathbf{x}$ [in our case a truth value] after some initial fluctuations say up to [an ordinal $\eta$]… In contrast, near stability allows fluctuations after $\eta$ also, but these fluctuations must be confined to finite regions just after limit ordinals” (p. 169). Gupta and Belnap 1993 introduce two theories of truth, $\boldsymbol{T}^*$ and $\boldsymbol{T}^{\#}$, based on stability and near stability. Theorems 3.12 and 3.13, below, illustrate an advantage of the system $\boldsymbol{T}^{\#}$, i.e., the system based on near stability.
+Gupta and Belnap 1993 characterize the difference between stability and near stability as follows: “Stability *simpliciter* requires an element [in our case a sentence] to settle down to a value $\mathbf{x}$ [in our case a truth value] after some initial fluctuations say up to [an ordinal *η*]… In contrast, near stability allows fluctuations after *η* also, but these fluctuations must be confined to finite regions just after limit ordinals” (p. 169). Gupta and Belnap 1993 introduce two theories of truth, $\boldsymbol{T}^*$ and $\boldsymbol{T}^{\#}$, based on stability and near stability. Theorems 3.12 and 3.13, below, illustrate an advantage of the system $\boldsymbol{T}^{\#}$, i.e., the system based on near stability.
 
 **Definition 3.11**
 
@@ -546,11 +546,11 @@ In reply, it must be granted that the RTT generates many *statuses* available to
 
 We note three ways to amend the RTT. First, we might put constraints on which hypotheses are acceptable. For example, Gupta and Belnap 1993 introduce a theory, $\mathbf{T}^c$, of truth based on *consistent* hypotheses: an hypothesis $h$ is *consistent* iff the set $\{A:h(A) = \mathbf{t}\}$ is a complete consistent set of sentences. The relative merits of $\mathbf{T}^*, \mathbf{T}^{\#}$ and $\mathbf{T}^c$ are discussed in Gupta & Belnap 1993, Chapter 6.
 
-Second, we might adopt a more restrictive *limit policy* than Gupta and Belnap adopt. Recall the question asked in Section 3: How should we set $S_{\eta}(d)$ when $\eta$ is a limit ordinal? We gave a partial answer: any object that is stably true [false] *up to* that stage should be true [false] *at* that stage. We also noted that for an object $d \in D$ that does not stabilize up to the stage $\eta$, Gupta and Belnap 1993 allow us to set $S_{\eta}(d)$ as either $\mathbf{t}$ or $\mathbf{f}$. In a similar context, Herzberger 1982a and 1982b assigns the value $\mathbf{f}$ to the unstable objects. And Gupta originally suggested, in Gupta 1982, that unstable elements receive whatever value they received at the initial hypothesis $S_0$.
+Second, we might adopt a more restrictive *limit policy* than Gupta and Belnap adopt. Recall the question asked in Section 3: How should we set $S_{\eta}(d)$ when *η* is a limit ordinal? We gave a partial answer: any object that is stably true [false] *up to* that stage should be true [false] *at* that stage. We also noted that for an object $d \in D$ that does not stabilize up to the stage *η*, Gupta and Belnap 1993 allow us to set $S_{\eta}(d)$ as either $\mathbf{t}$ or $\mathbf{f}$. In a similar context, Herzberger 1982a and 1982b assigns the value $\mathbf{f}$ to the unstable objects. And Gupta originally suggested, in Gupta 1982, that unstable elements receive whatever value they received at the initial hypothesis $S_0$.
 
-These first two ways of amending the RTT both, in effect, restrict the notion of a revision sequence, by putting constraints on which of *our* revision sequences really count as acceptable revision sequences. The constraints are, in some sense local: the first constraint is achieved by putting restrictions on which hypotheses can be used, and the second constraint is achieved by putting restrictions on what happens at limit ordinals. A third option would be to put more global constraints on which putative revision sequences count as acceptable. Yaqūb 1993 suggests, in effect, a limit rule whereby acceptable verdicts on unstable sentences at some limit stage $\eta$ depend on verdicts rendered at *other* limit stages. Yaqūb argues that these constraints allow us to avoid certain “artifacts”. For example, suppose that a ground model $M = \langle D,I\rangle$ has two independent liars, by having two names $\alpha$ and $\beta$, where $I(\alpha) = \neg \boldsymbol{T}\alpha$ and $I(\beta) = \neg \boldsymbol{T}\beta$. Yaqūb argues that it is a mere “artifact” of the revision semantics, naively presented, that there are revision sequences in which the sentence $\neg \boldsymbol{T}\alpha \equiv \neg \boldsymbol{T}\beta$ is stably true, since the two liars are independent. His global constraints are developed to rule out such sequences. (See Chapuis 1996 for further discussion.)[^chapuis-1996]
+These first two ways of amending the RTT both, in effect, restrict the notion of a revision sequence, by putting constraints on which of *our* revision sequences really count as acceptable revision sequences. The constraints are, in some sense local: the first constraint is achieved by putting restrictions on which hypotheses can be used, and the second constraint is achieved by putting restrictions on what happens at limit ordinals. A third option would be to put more global constraints on which putative revision sequences count as acceptable. Yaqūb 1993 suggests, in effect, a limit rule whereby acceptable verdicts on unstable sentences at some limit stage *η* depend on verdicts rendered at *other* limit stages. Yaqūb argues that these constraints allow us to avoid certain “artifacts”. For example, suppose that a ground model $M = \langle D,I\rangle$ has two independent liars, by having two names *α* and *β*, where $I(\alpha) = \neg \boldsymbol{T}\alpha$ and $I(\beta) = \neg \boldsymbol{T}\beta$. Yaqūb argues that it is a mere “artifact” of the revision semantics, naively presented, that there are revision sequences in which the sentence $\neg \boldsymbol{T}\alpha \equiv \neg \boldsymbol{T}\beta$ is stably true, since the two liars are independent. His global constraints are developed to rule out such sequences. (See Chapuis 1996 for further discussion.)[^chapuis-1996]
 
-The first and the second way of amending the RTT are in some sense put together by Campbell-Moore (2019)[^campbell-moore-2019][^campbell-moore-2019-2]. Here, the notion of stability for objects is extended to sets of hypotheses: A set $H$ of hypotheses is stable in a sequence $S$ of hypotheses if for some ordinal $\theta$ all hypotheses $S_{\zeta}$, with $\zeta \ge \theta$, belong to $H$. With this, we can introduce the notion of $P$-revision sequence: If $P$ is a class of sets of hypotheses, a sequence $S$ is a $P$-revision sequence just in case that, at every limit ordinal $\eta$, if a set of hypotheses $H$ belongs to $P$ and is stable in $S$, then $S_{\eta}$ belongs to $H$. It can be shown that, for a suitable choice of $P$, all limit stages of $P$-revision sequences are *maximal consistent* hypotheses.
+The first and the second way of amending the RTT are in some sense put together by Campbell-Moore (2019)[^campbell-moore-2019][^campbell-moore-2019-2]. Here, the notion of stability for objects is extended to sets of hypotheses: A set $H$ of hypotheses is stable in a sequence $S$ of hypotheses if for some ordinal *θ* all hypotheses $S_{\zeta}$, with $\zeta \ge \theta$, belong to $H$. With this, we can introduce the notion of $P$-revision sequence: If $P$ is a class of sets of hypotheses, a sequence $S$ is a $P$-revision sequence just in case that, at every limit ordinal *η*, if a set of hypotheses $H$ belongs to $P$ and is stable in $S$, then $S_{\eta}$ belongs to $H$. It can be shown that, for a suitable choice of $P$, all limit stages of $P$-revision sequences are *maximal consistent* hypotheses.
 
 ### 5.4 Revision theory for circularly defined concepts
 

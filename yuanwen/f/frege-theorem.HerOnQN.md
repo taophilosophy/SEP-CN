@@ -22,7 +22,7 @@ Now to show $\mathit{HerOn}(Q,N)$, we have to show:
 
 $\forall n\forall m[\mathit{Precedes}(n,m) \rightarrow (Qn\rightarrow Qm)]$
 
-If we replace ‘$Q$’ with its definition and simplify the result by $\lambda$-Conversion, then what we have to show is:
+If we replace ‘$Q$’ with its definition and simplify the result by *λ*-Conversion, then what we have to show is:
 
 $$\begin{align*} &\forall n\forall m(\mathit{Precedes}(n,m) \rightarrow (\mathit{Precedes}(n,\#[\lambda z \, \mathit{Precedes}^{+}(z,n)])\rightarrow \\ &\quad \mathit{Precedes}(m,\#[\lambda z \, \mathit{Precedes}^{+}(z,m)])) \end{align*}$$
 
@@ -44,7 +44,7 @@ To show that (1) holds, we have to show:
 
 $[\lambda z \, \mathit{Precedes}^{+}(z,m)]m$
 
-But we know, from the definition of $\mathit{Precedes}^{+}$, that $\mathit{Precedes}^{+}(m,m)$. So by abstraction using $\lambda$-Conversion, we are done.
+But we know, from the definition of $\mathit{Precedes}^{+}$, that $\mathit{Precedes}^{+}(m,m)$. So by abstraction using *λ*-Conversion, we are done.
 
 To show that (2) holds, we need do no work, since our choice of $F$ requires us to show:
 
@@ -56,11 +56,11 @@ To show (3) holds, we need to show:
 
 (C)  $m = \#[\lambda u \, \mathit{Precedes}^{+}(u,m) \amp u \neq m]$
 
-[Note that the $\lambda$-expression in the above has been simplified by applying $\lambda$-Conversion to the following (which, strictly speaking, is what results when you substitute our choice for $F$ in (3)):
+[Note that the *λ*-expression in the above has been simplified by applying *λ*-Conversion to the following (which, strictly speaking, is what results when you substitute our choice for $F$ in (3)):
 
 $[\lambda u \, [\lambda z \, \mathit{Precedes}^{+}(z,m)]u \amp u\neq m]$
 
-In what follows, we use the simplified version of this $\lambda$-expression.]
+In what follows, we use the simplified version of this *λ*-expression.]
 
 Now in virtue of (A), (B) and the functionality of Predecessor (the proof of which was left as an exercise in the subsection No Two Numbers Have the Same Successor in §5), we know $m = \#[\lambda z \, \mathit{Precedes}^{+}(z,n)]$. So, substituting for $m$ in (C), we have to show:
 

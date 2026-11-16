@@ -171,7 +171,7 @@ The action model-like structures defined by van Benthem, Gerbrandy, and Kooi (20
 
 - a nonempty finite set *E* of the possible communicative *events* that might occur,
 - a function $\sim$ that assigns to each agent $a\in\sA$ an equivalence relation $\sim_a$ on *W*,
-- a finite nonempty set $\Phi$ of *precondition* formulas (in some language) that specify the possible information the update may convey,
+- a finite nonempty set *Φ* of *precondition* formulas (in some language) that specify the possible information the update may convey,
 - a function $\pre$ that assigns to each formula *F* a probability function $\pre(F,-):E\to[0,1]$ over *E* (for the occurrence probability), and
 - a function *P* that assigns to each agent $a\in\sA$ event $e\in E$ a probability function $P_a(w):W\to[0,1]$ over *W* (for the observation probability).
 
@@ -190,7 +190,7 @@ The binary truth relation $\models$ between pointed epistemic probability models
 - $P[A]_B((w_1,e_1))((w_2,e_2))$ is defined to be $$ \frac{P_a(w_1)(w_2)\cdot\pre(w_2,e_2)\cdot P_a(e_1)(e_2)} {\sum_{(v,g)\in W\times E} P_a(w_1)(v)\cdot \pre(v,g)\cdot P_a(e_1)(g)} $$ if the denominator is nonzero and defined to be 0 otherwise; and
 - $(v,g)\in V[A]_b(p)$ if and only if $v\in V(p)$ — make the valuation of *p* at $(v,g)$ as it was at *v*.
 
-In van Benthem, Gerbrandy, and Kooi (2009b), it is assumed that preconditions are always mutually inconsistent; that is, no two distinct precondition formulas occurring in $\Phi$ are true at the same world. This assumption simplifies the definition above: if there is a unique precondition $G\in\Phi$ that is true at a world *v*, then $\pre(v,g)$ reduces to the value $\pre(G,g)$; otherwise, if there is no such unique precondition, then $\pre(v,g)$ is 0.
+In van Benthem, Gerbrandy, and Kooi (2009b), it is assumed that preconditions are always mutually inconsistent; that is, no two distinct precondition formulas occurring in *Φ* are true at the same world. This assumption simplifies the definition above: if there is a unique precondition $G\in\Phi$ that is true at a world *v*, then $\pre(v,g)$ reduces to the value $\pre(G,g)$; otherwise, if there is no such unique precondition, then $\pre(v,g)$ is 0.
 
 Van Benthem, Gerbrandy, and Kooi (2009b) show by way of a Reduction Theorem that the validities of a generalization of \eqref{EPL+U} obtained by considering linear inequalities $$ a_1\cdot P_a(F_1)+\cdots+a_n\cdot P_a(F_n)\geq k $$ are axiomatizable. We refer the reader to van Benthem, Gerbrandy, and Kooi (2009b) for details. Also, for more general information about the consequences of expressing equalities with and without linear combinations, we point the reader to Section 3.2 of the *Stanford Encyclopedia of Philosophy* entry on Logic and Probability.
 

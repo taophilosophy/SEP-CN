@@ -857,7 +857,7 @@ This was a serious suggestion and although Pauli did not get all the properties 
 
 [^perovic-2017]: –––, 2017. “Experimenter’s regress argument, empiricism, and the calibration of the large hadron collider”, *Synthese*, 194: 313–332.
 
-[^petschek-1952]: Petschek, A.G. and R.E. Marshak, 1952. “The $\beta$-Decay of Radium E and the Pseusoscalar Interaction”, *Physical Review*, 85(4): 698–699.
+[^petschek-1952]: Petschek, A.G. and R.E. Marshak, 1952. “The *β*-Decay of Radium E and the Pseusoscalar Interaction”, *Physical Review*, 85(4): 698–699.
 
 [^pickering-1981]: Pickering, A., 1981. “The Hunting of the Quark”, *Isis*, 72: 216–236.
 

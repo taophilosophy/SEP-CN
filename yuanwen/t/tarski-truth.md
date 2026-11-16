@@ -25,15 +25,15 @@ The definition of *True* should be ‘formally correct’. This means that it sh
 
 For all $x$, *True*$(x)$ if and only if $\phi(x)$,
 
-where *True* never occurs in $\phi$; or failing this, that the definition should be provably equivalent to a sentence of this form. The equivalence must be provable using axioms of the metalanguage that don’t contain *True*. Definitions of the kind displayed above are usually called *explicit*, though Tarski in 1933 called them *normal*.
+where *True* never occurs in *φ*; or failing this, that the definition should be provably equivalent to a sentence of this form. The equivalence must be provable using axioms of the metalanguage that don’t contain *True*. Definitions of the kind displayed above are usually called *explicit*, though Tarski in 1933 called them *normal*.
 
 ### 1.3 Material adequacy
 
-The definition should be ‘materially adequate’ (*trafny* – a better translation would be ‘accurate’). This means that the objects satisfying $\phi$ should be exactly the objects that we would intuitively count as being true sentences of $L$, and that this fact should be provable from the axioms of the metalanguage. At first sight this is a paradoxical requirement: if we can prove what Tarski asks for, just from the axioms of the metalanguage, then we must already have a materially adequate formalisation of ‘true sentence of $L$’ within the metalanguage, suggesting an infinite regress. In fact Tarski escapes the paradox by using (in general) infinitely many sentences of $M$ to express truth, namely all the sentences of the form
+The definition should be ‘materially adequate’ (*trafny* – a better translation would be ‘accurate’). This means that the objects satisfying *φ* should be exactly the objects that we would intuitively count as being true sentences of $L$, and that this fact should be provable from the axioms of the metalanguage. At first sight this is a paradoxical requirement: if we can prove what Tarski asks for, just from the axioms of the metalanguage, then we must already have a materially adequate formalisation of ‘true sentence of $L$’ within the metalanguage, suggesting an infinite regress. In fact Tarski escapes the paradox by using (in general) infinitely many sentences of $M$ to express truth, namely all the sentences of the form
 
 $$ \phi(s) \text{ if and only if } \psi $$
 
-whenever $s$ is the name of a sentence $S$ of $L$ and $\psi$ is the copy of $S$ in the metalanguage. So the technical problem is to find a single formula $\phi$ that allows us to deduce all these sentences from the axioms of $M$; this formula $\phi$ will serve to give the explicit definition of *True*.
+whenever $s$ is the name of a sentence $S$ of $L$ and *ψ* is the copy of $S$ in the metalanguage. So the technical problem is to find a single formula *φ* that allows us to deduce all these sentences from the axioms of $M$; this formula *φ* will serve to give the explicit definition of *True*.
 
 Tarski’s own name for this criterion of material adequacy was *Convention T*. More generally his name for his approach to defining truth, using this criterion, was *the semantic conception of truth*.
 

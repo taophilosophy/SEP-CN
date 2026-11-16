@@ -28,7 +28,7 @@ Now it is a fact about equinumerosity (Fact 1, Facts About Equinumerosity, §3) 
 
 $\forall x([\lambda z \, \mathit{Precedes}^{+}(z,m)]x\equivwide [\lambda z \, \mathit{Precedes}^{+}(z,n)\amp z \neq n]x)$
 
-And by $\lambda$-Conversion, it suffices to show:
+And by *λ*-Conversion, it suffices to show:
 
 $\forall x[\mathit{Precedes}^{+}(x,m) \equivwide \mathit{Precedes}^{+}(x,n)\amp x \neq n]$
 

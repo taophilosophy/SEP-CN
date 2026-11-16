@@ -214,7 +214,7 @@ However, these explicit ways to handle existential statements are limited to una
 
 $$ \begin{align} \binary{l}\unary{w} & = \binary{l}(\unary{W}' \cunion \unary{W}'' \cunion \unary{W}''' \cunion \cdots)\\ &= \binary{l}\unary{W}' \cunion \binary{l}\unary{W}'' \cunion \binary{l}\unary{W}''' \cunion \cdots\\ \binary{l}^{\unary{w}} &= \binary{l}^{(\unary{W} ' \cunion \unary{W}'' \cunion \unary{W}''' \cunion \cdots)}\\ & = \binary{l}^{\unary{W}'}, \binary{l}^{\unary{W}''}, \binary{l}^{\unary{W}'''},\ldots\\ & = \binary{l}\unary{W}', \binary{l}\unary{W}'', \binary{l}\unary{W}''',\ldots (\binary{l}^{\unary{W}}=\binary{l}\unary{W}, \unary{W} \textrm{ being an individual term.}) \end{align} $$
 
-At this point, Peirce makes a connection (i) between existential statements and the sign $\Sigma$ (as logical addition) and (ii) between universal statements and $\Pi$ (as logical multiplication), and the following passage is a precursor for the notations which appear in subsequent papers:
+At this point, Peirce makes a connection (i) between existential statements and the sign $\Sigma$ (as logical addition) and (ii) between universal statements and *Π* (as logical multiplication), and the following passage is a precursor for the notations which appear in subsequent papers:
 
 $$\Pi' \inclusion \Sigma',$$
 
@@ -280,7 +280,7 @@ And Peirce proposes to drop the $“>0”$ part:
 >
 > $\Sigma_{i}\Sigma_{j} \binary{l}_{ij}$ and $\Pi_{i}\Sigma_{j} \binary{l}_{ij}.\qquad$ (1883a [CP 3.351])
 
-Getting to Peirce’s 1883 paper, we witness two significant steps taken: One is the use of index-subscripts in a crucial way, and the other is the alternation of $\Sigma$ and $\Pi$. After dropping “$>0$” Peirce draws our attention to the role of subscripts:
+Getting to Peirce’s 1883 paper, we witness two significant steps taken: One is the use of index-subscripts in a crucial way, and the other is the alternation of $\Sigma$ and *Π*. After dropping “$>0$” Peirce draws our attention to the role of subscripts:
 
 > The following are other examples:
 >
@@ -292,11 +292,11 @@ Getting to Peirce’s 1883 paper, we witness two significant steps taken: One is
 >
 > means that everything is a lover of a benefactor of itself. (1883a [CP 3.352])
 
-The order of index-subscripts is crucial to make a distinction between these two propositions. On the other hand, a difference between “Everybody loves some woman” and “There is a woman everybody loves” relies on the order of $\Pi$ and $\Sigma$:
+The order of index-subscripts is crucial to make a distinction between these two propositions. On the other hand, a difference between “Everybody loves some woman” and “There is a woman everybody loves” relies on the order of *Π* and $\Sigma$:
 
 $$\Pi_i \Sigma_j (\binary{l})_{ij} ({\unary{w}})_j \quad \textrm{ vs.}\quad \Sigma_j \Pi_i (\binary{l})_{ij }({\unary{w}})_j.$$
 
-Finally in “On the Algebra of Logic: A contribution to the philosophy of notation” (1885a) all of these developments—(i) $\Sigma$ (sum) for *some* and $\Pi$ (product) for *all*, (ii) utilizing coefficients and their subscripts to drop denotation of individuals (e.g., from $(l)_{ij} (A_{i}: A_{j})$ to $(l)_{ij}$), (iii) mixing $\Sigma$ and $\Pi$, and (iv) omitting the “$>0$” part—have become official:
+Finally in “On the Algebra of Logic: A contribution to the philosophy of notation” (1885a) all of these developments—(i) $\Sigma$ (sum) for *some* and *Π* (product) for *all*, (ii) utilizing coefficients and their subscripts to drop denotation of individuals (e.g., from $(l)_{ij} (A_{i}: A_{j})$ to $(l)_{ij}$), (iii) mixing $\Sigma$ and *Π*, and (iv) omitting the “$>0$” part—have become official:
 
 **In general, according to 1885a [CP 3.393]:**
 
@@ -320,9 +320,9 @@ Peirce’s two-decade work made a major contribution to the algebra of logic tra
 
 > Building on earlier work of Peirce, in the third volume of his *Lectures on the algebra of logic* [1895] Schröder develops the calculus of relatives (that is, relations). Quantifiers are defined as certain possibly infinite sums and products, over individuals or other relations. (Goldfarb 1979: 354)[^goldfarb-1979]
 
-As seen in the previous subsection, including relations (not just qualities) in algebraic expressions and representing the universal quantifier as products (i.e., $\Pi$) and the existential quantifier as sums (i.e., $\Sigma$) were the main output of Peirce’s two decade tireless work. Considering Schröder’s book was the most popular logic textbook for mathematical logic students during that era, we can easily say Peirce’s legacy has lived on. Peckhaus, working on a delicate relation between Frege’s and Schröder’s quantification theory, locates where Schröder’s modern quantification theory originates from:
+As seen in the previous subsection, including relations (not just qualities) in algebraic expressions and representing the universal quantifier as products (i.e., *Π*) and the existential quantifier as sums (i.e., $\Sigma$) were the main output of Peirce’s two decade tireless work. Considering Schröder’s book was the most popular logic textbook for mathematical logic students during that era, we can easily say Peirce’s legacy has lived on. Peckhaus, working on a delicate relation between Frege’s and Schröder’s quantification theory, locates where Schröder’s modern quantification theory originates from:
 
-> This [Schröder’s *Vorlesungen über die Algebra der Logik* was the result of his learning modern quantification from Frege’s *Begriffsschrift*] is a simple and plausible answer, but it is false. Schröder never claimed any priority for his quantification theory, but he did not take it from Frege. Schröder himself gives the credit for his use of $\Sigma$ and $\Pi$ to Charles S. Peirce and Peirce’s student Oscar Howard Mitchell (Schröder 1891, 120–121). (Peckhaus 2004: 12)[^peckhaus-2004]
+> This [Schröder’s *Vorlesungen über die Algebra der Logik* was the result of his learning modern quantification from Frege’s *Begriffsschrift*] is a simple and plausible answer, but it is false. Schröder never claimed any priority for his quantification theory, but he did not take it from Frege. Schröder himself gives the credit for his use of $\Sigma$ and *Π* to Charles S. Peirce and Peirce’s student Oscar Howard Mitchell (Schröder 1891, 120–121). (Peckhaus 2004: 12)[^peckhaus-2004]
 
 Afterwards well-known mathematicians and logicians, Löwenheim, Skolem and Zermelo, all used Peirce-Schröder notation. Peano was also very much familiar with Peirce-Schröder algebraic logic. Putnam includes Whitehead in this tradition as well:
 
@@ -443,14 +443,14 @@ Here we present two equivalent reading methods for the system. The Endoporeutic 
 
 1. If $D$ is an empty space, then it is translated into $\top$.
 2. If $D$ is a sentence letter, say $A_{i}$, then it is translated into $A_{i}$.
-3. Suppose the translation of $D$ is $\alpha$. Then, $[D]$ is translated into $(\neg \alpha)$.
+3. Suppose the translation of $D$ is *α*. Then, $[D]$ is translated into $(\neg \alpha)$.
 4. Suppose the translation of $D_{1}$ is $\alpha_{1}$ and the translation of $D_{2}$ is $\alpha_{2}$. Then, the translation of $D_{1}\ D_{2}$ is $(\alpha_{1} \land \alpha_{2})$.
 
 #### Multiple Readings Algorithm
 
 1. If $D$ is an empty space, then it is translated into $\top$.
 2. If $D$ is a sentence letter, say $A_{i}$, then it is translated into $A_{i}$.
-3. Suppose the translation of $D$ is $\alpha$. Then, $[D]$ is translated into $(\neg \alpha)$.
+3. Suppose the translation of $D$ is *α*. Then, $[D]$ is translated into $(\neg \alpha)$.
 4. Suppose the translation of $D_{1}$ is $\alpha_{1}$ and the translation of $D_{2}$ is $\alpha_{2}$.
 5. the translation of $D_{1} D_{2}$ is $(\alpha_{1} \land \alpha_{2})$,
 6. the translation of $[D_{1} D_{2}]$ is $(\neg\alpha_{1} \lor \neg \alpha_{2})$,
@@ -619,7 +619,7 @@ The semantics for six binary connectives is presented:
 
 Why six? What is the rationale behind the semantics of these connectives? One way to understand them is to figure out a dominance hierarchy among the three values.
 
-In the case of $\Phi$,
+In the case of *Φ*,
 
 1. if at least one is **V**, then $\Phi(x, y)$ is **V**,
 2. else if at least one is **F**, then $\Phi(x, y)$ is **F**, and
@@ -629,15 +629,15 @@ That is, **V** is the most dominant, **F** next, and **L** is the least.
 
 Six patterns of hierarchy emerges:
 
-| $\Phi$ | **V** $>$ **F** $>$ **L** |
+| *Φ* | **V** $>$ **F** $>$ **L** |
 | --- | --- |
-| $\Theta$ | **V** $>$ **L** $>$ **F** |
-| $\Psi$ | **F** $>$ **V** $>$ **L** |
+| *Θ* | **V** $>$ **L** $>$ **F** |
+| *Ψ* | **F** $>$ **V** $>$ **L** |
 | $Z$ | **F** $>$ **L** $>$ **V** |
 | $\Omega$ | **L** $>$ **F** $>$ **V** |
-| $\Gamma$ | **L** $>$ **V** $>$ **F** |
+| *Γ* | **L** $>$ **V** $>$ **F** |
 
-Peirce’s $\Theta$ is our familiar disjunction and Peirce’s *Z* conjunction.
+Peirce’s *Θ* is our familiar disjunction and Peirce’s *Z* conjunction.
 
 ### 3.2 Why the third value?
 
@@ -671,9 +671,9 @@ If a proposition is either general or expresses necessity, PEM is not false, but
 
 Those points on the boundary line are neither black nor non-black. Consider the propositions “Point *O* is black” and “Point *O* is not black” (where point *O* is on the boundary line of a black blot). Neither of them is true, but false, either. These are prime examples of Peirce’s **L**-proposition. Using Peirce’s own truth-tables in the previous subsection, let’s compute the truth value of “Point *O* is black or point *O* is not black”.
 
-Let $\alpha$ be the value of “Point *O* is black”, which is **L**.
+Let *α* be the value of “Point *O* is black”, which is **L**.
 
-| $\alpha$ | $\bar{\alpha}$ | $\Theta(\alpha, \bar{\alpha})$ |
+| *α* | $\bar{\alpha}$ | $\Theta(\alpha, \bar{\alpha})$ |
 | --- | --- | --- |
 | **L** | **L** | **L** |
 
@@ -933,7 +933,7 @@ This is interesting indeed, as Brady points out: “We see here an interesting f
 
 [^goldfarb-1979]: Goldfarb, Warren D., 1979, “Logic in the Twenties: The Nature of the Quantifier”, *Journal of Symbolic Logic*, 44(3): 351–368. doi:10.2307/2273128
 
-[^grattan-guinness-2002]: Grattan-Guinness, I., 2002, “Re-interpreting ‘$\lambda$’: Kempe on multisets and Peirce on graphs, 1886–1905”, *Transactions of the Charles S. Peirce Society*, 38, 327–350.
+[^grattan-guinness-2002]: Grattan-Guinness, I., 2002, “Re-interpreting ‘*λ*’: Kempe on multisets and Peirce on graphs, 1886–1905”, *Transactions of the Charles S. Peirce Society*, 38, 327–350.
 
 [^hawkins-1995]: Hawkins, Benjamin S., Jr, 1995, “De Morgan, Victorian Syllogistic and Relational Logic”, in *Modern Logic*, 5(2) : 131–166. [[Hawkins 1995 available online](http://projecteuclid.org/journals/modern-logic/volume-5/issue-2/De-Morgan-Victorian-syllogistic-and-relational-logic/rml/1204835480.full)]
 

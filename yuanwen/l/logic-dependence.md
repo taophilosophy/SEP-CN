@@ -27,7 +27,7 @@ $$\forall \epsilon \exists \delta \forall x \forall x' (|x - x'| < \delta \right
 
 or, in intensional extensions of first order logic, to express the difference between *De Dicto* and *De Re* readings (e.g., “It is possible for every person to be crazy” may be understood either as stating that it for every person $p$, it is possible for $p$ to be crazy, $\forall x (\person (x) \rightarrow \Diamond \crazy (x))$, or as stating that it is possible that everyone is crazy together, $\Diamond \forall x (\person (x) \rightarrow \crazy (x))$).
 
-Dependency patterns between quantified variables in first order logic are necessarily *transitive*, as it is made evident by their connections with the scopes of the corresponding sub-expressions: if $\exists y$ is in the scope of $\forall x$ and $\exists z$ is in the scope of $\exists y$ then necessarily $\exists z$ will be in the scope of (and, therefore, dependent from) $\forall x$. Furthermore, the set of all quantifiers in whose scope some subformula $\alpha$ lies is linearly ordered: if $\alpha$ is in the scope of $Q_1 x_1$ and $Q_2 x_2$, then either $Q_1 x_1$ is in the scope of $Q_2 x_2$ or vice versa.
+Dependency patterns between quantified variables in first order logic are necessarily *transitive*, as it is made evident by their connections with the scopes of the corresponding sub-expressions: if $\exists y$ is in the scope of $\forall x$ and $\exists z$ is in the scope of $\exists y$ then necessarily $\exists z$ will be in the scope of (and, therefore, dependent from) $\forall x$. Furthermore, the set of all quantifiers in whose scope some subformula *α* lies is linearly ordered: if *α* is in the scope of $Q_1 x_1$ and $Q_2 x_2$, then either $Q_1 x_1$ is in the scope of $Q_2 x_2$ or vice versa.
 
 This limits the expressive possibilities of first order logic. For example, let us suppose that we wish to amend our previous assertion about boys and girls as follows: every boy loves some girl that loves some other boy, and this second boy can be chosen independently on the first one. What this means, intuitively speaking, is simple enough: for every boy $b$ we can find a girl $g$ such that $b$ loves $g$, and for every such girl we can find a boy $b'$ such that $g$ loves $b'$ and $b \not = b'$, and furthermore we can find the identity of the second boy $b'$ without knowing that of $b$, on the basis of the identity of the girl $g$ alone. This can still be the true in some scenarios, such as for example if two boys $b_1$ and $b_2$ love respectively two girls $g_1$ and $g_2$, who however love only $b_2$ and $b_1$ respectively. However, it is easily seen that it is not equivalent to our previous statement: for example, if our universe consists (as in (b) above) of two boys $b$ and $b'$ and a girl $g$, and $b$ and $b'$ both love $g$ who loves both of them, then our previous assertion is true but the current one is false.
 
@@ -67,7 +67,7 @@ Team semantics, first developed by Wilfrid Hodges in the context of independence
 
 **Conservativity:** A first order formula is satisfied by a team $X$ (in the sense of team semantics) if and only if all assignments $s \in X$ satisfy it (in the sense of Tarski semantics).
 
-More in general, teams can be understood as *belief sets*, representing the set of all states of the world (=assignments) that some agent believes possible. Then a team $X$ will satisfy some formula $\phi$ if and only if $\phi$ holds when $X$ is the set of all possible states; and in this case, we will write $X \models \phi$ (or $M, X \models \phi$ if the choice of the model $M$ is not clear). In this section, we will examine the rules of team semantics and their interpretation in terms of this principle; then, in the next section, we will discuss how it also arises from the imperfect-information *game-theoretic semantics* for dependence logic.
+More in general, teams can be understood as *belief sets*, representing the set of all states of the world (=assignments) that some agent believes possible. Then a team $X$ will satisfy some formula *φ* if and only if *φ* holds when $X$ is the set of all possible states; and in this case, we will write $X \models \phi$ (or $M, X \models \phi$ if the choice of the model $M$ is not clear). In this section, we will examine the rules of team semantics and their interpretation in terms of this principle; then, in the next section, we will discuss how it also arises from the imperfect-information *game-theoretic semantics* for dependence logic.
 
 The condition for the new dependence atoms $\eqord(x_1 \ldots x_n, y)$, which correspond to the statement that the value of $y$ is a function of the values of $x_1 \ldots x_n$, is easily understood:
 
@@ -81,13 +81,13 @@ $$\begin{array}{l | c c c} \textbf{assignment}& \mathbf{x_1} & \mathbf{x_2} & \m
 
 Under the same interpretation, the rules for first-order literals and conjunctions (for simplicity, we will assume that our expressions are in negation normal form; and, as is customary, we will assume that the negations of dependence atoms are never satisfied) are easy to derive:
 
-**TS-lit:** For all first-order literals $\alpha$, $X \models \alpha$ if and only if for all assignments $s \in X$, $s \models \alpha$ in the usual Tarski semantics sense;
+**TS-lit:** For all first-order literals *α*, $X \models \alpha$ if and only if for all assignments $s \in X$, $s \models \alpha$ in the usual Tarski semantics sense;
 
 **TS-$\land$:** $X \models \phi \land \psi$ if and only if $X \models \phi$ and $X \models \psi$.
 
 It is worth pointing out that, as we can already see by these rules, the *law of the excluded middle* does not hold in dependence logic (just as it does not hold in independence friendly logic): for example, if a team $X$ contains both assignments $s$ with $s(x) = s(y)$ and assignments $s'$ with $s'(x) \not = s'(y)$ then $X \not \models x=y$ and $X \not \models x\not = y$. In this section, in any case, we will present the language of dependence logic without an explicit negation operator; then, later, we will discuss the consequences of adding it to its language.
 
-What about universal quantification? In which circumstances should a universally quantified expression $\forall v \psi$ hold in a team? Again, we must recall the intuition according to which a team represents a set of possible states of things. If we wish to evaluate $\forall v \psi$, with respect to which possible states of things should we evaluate $\psi$? The natural answer is that we should consider all states of things that differ from ones in $X$ only with respect to the value of $v$. This justifies the following rule:
+What about universal quantification? In which circumstances should a universally quantified expression $\forall v \psi$ hold in a team? Again, we must recall the intuition according to which a team represents a set of possible states of things. If we wish to evaluate $\forall v \psi$, with respect to which possible states of things should we evaluate *ψ*? The natural answer is that we should consider all states of things that differ from ones in $X$ only with respect to the value of $v$. This justifies the following rule:
 
 **TS-$\forall$:** $X \models \forall v \psi$ if and only if $X[M/v] \models \phi$, where $X[M/v]$ is the set $\{s' : \exists s \in X \mbox{ s.t. } s' \sim_v x\}$
 
@@ -97,7 +97,7 @@ $$ X= \begin{array}{l | c} \textbf{assignment} & x\\ \hline s_0 & 0\\ s_1 & 1 \e
 
 *Table 2:* $X$ and $X[M/y]$ in a model with two elements $0$ and $1$.
 
-Let us now consider disjunction. When should $\phi \lor \psi$ hold? To answer this, let us recall—once again—that teams can be understood as sets of possible states of things, and that therefore the union of two teams $Y$ and $Z$ represents all states of things which may occur if $Y$ or $Z$ is the case. Therefore, if the two formulas $\phi$ and $\psi$ are satisfied by the set of teams $\{Y_1 \ldots Y_n, \ldots\}$ and $\{Z_1 \ldots Z_n, \ldots\}$ respectively, their disjunction $\phi \lor \psi$ should be satisfied by the set of teams $\{Y_i \cup Z_j : i,j \in 1, \ldots\}$, or, equivalently,
+Let us now consider disjunction. When should $\phi \lor \psi$ hold? To answer this, let us recall—once again—that teams can be understood as sets of possible states of things, and that therefore the union of two teams $Y$ and $Z$ represents all states of things which may occur if $Y$ or $Z$ is the case. Therefore, if the two formulas *φ* and *ψ* are satisfied by the set of teams $\{Y_1 \ldots Y_n, \ldots\}$ and $\{Z_1 \ldots Z_n, \ldots\}$ respectively, their disjunction $\phi \lor \psi$ should be satisfied by the set of teams $\{Y_i \cup Z_j : i,j \in 1, \ldots\}$, or, equivalently,
 
 **TS-$\lor$:** $X \models \phi \lor \psi$ if and only if $X=Y \cup Z$ for two teams $Y$ and $Z$ such that $Y \models \phi$ and $Z \models \psi$.
 
@@ -105,7 +105,7 @@ It is worth pointing out here that we do *not* require, in general, that $Y$ and
 
 It is also important to note that, in dependence logic, disjunction is *not* idempotent: for example, $\eqord(x,y) \lor \eqord(x,y)$ is not equivalent to $\eqord(x,y)$, and it is satisfied by a team $X$ if and only if for every *three* assignments in $X$ which agree on $x$ at least *two* agree on $y$. This may appear somewhat counter-intuitive; but it is a straightforward consequence of the fact that, under our interpretation, $\eqord(x,y) \lor \eqord(x,y)$ is to be read as “every possible state of things comes from one of two sets of states of things, and in both of them $y$ is a function of $x$”. Since the union of functions is not in general a function, it comes to little surprise that disjunction in dependence logic is not idempotent.
 
-Finally, we consider the case of existential quantification. When is the expression $\exists v \psi$ satisfied by a team? In order to answer this, we may begin by considering the interpretation of the *restriction* operator which, given any team $X$, results in the team $X_{\backslash v}$ obtained by removing the variable $v$ (if present) from all assignments $s \in X$ (and then, since $X$ is a set, by collapsing identical assignments). This could be understood as a *forgetting* operation, through which we delete all information about the value of $v$—for example, because what we believed about this value was unreliable, or because this value has been altered. Now suppose that $X_{\backslash v} = Y_{\backslash v}$: then, in our interpretation, this means that the sets of possible states of things represented by $X$ and $Y$ disagree at most with respect to the value of $v$. Thus, if $Y$ satisfies the condition $\phi$, we may say that $X$ would satisfy $\phi$ *if not for the value of* $y$, or, equivalently, that $X$ satisfies $\exists v \psi$. This justifies the following rule:
+Finally, we consider the case of existential quantification. When is the expression $\exists v \psi$ satisfied by a team? In order to answer this, we may begin by considering the interpretation of the *restriction* operator which, given any team $X$, results in the team $X_{\backslash v}$ obtained by removing the variable $v$ (if present) from all assignments $s \in X$ (and then, since $X$ is a set, by collapsing identical assignments). This could be understood as a *forgetting* operation, through which we delete all information about the value of $v$—for example, because what we believed about this value was unreliable, or because this value has been altered. Now suppose that $X_{\backslash v} = Y_{\backslash v}$: then, in our interpretation, this means that the sets of possible states of things represented by $X$ and $Y$ disagree at most with respect to the value of $v$. Thus, if $Y$ satisfies the condition *φ*, we may say that $X$ would satisfy *φ* *if not for the value of* $y$, or, equivalently, that $X$ satisfies $\exists v \psi$. This justifies the following rule:
 
 **TS-$\exists$:** $X \models \exists v \psi$ if and only if there exists some $Y$, over the variables of $X$ and $v$, such that $X_{\backslash v} = Y_{\backslash v}$ and $Y \models \psi$.
 
@@ -119,25 +119,25 @@ $$ X= \begin{array}{l | c} \textbf{assignment} & x\\ \hline s_0 & 0\\ s_1 & 1 \e
 
 We will postpone an in-depth discussion of the properties of dependence logic to after the specification of its game-theoretic semantics. However, we conclude this section with the following three important consequences of the above-given rules:
 
-**Locality:** If the restrictions of $X$ and $Y$ to the variables occurring free in $\phi$ are the same then $X \models \phi$ if and only if $Y \models \phi$.
+**Locality:** If the restrictions of $X$ and $Y$ to the variables occurring free in *φ* are the same then $X \models \phi$ if and only if $Y \models \phi$.
 
 **Downwards closure:** If $X \models \phi$ and $Y \subseteq X$ then $Y \models \phi$.
 
-**Empty set property:** If $\emptyset$ is the team containing no assignments then $\emptyset \models \phi$ for all dependence logic formulas $\phi$.
+**Empty set property:** If $\emptyset$ is the team containing no assignments then $\emptyset \models \phi$ for all dependence logic formulas *φ*.
 
 The locality principle, together with the conservativity principle mentioned at the beginning of this section, constitutes an important “sanity condition” that any variant and extension of dependence logic should satisfy. The same cannot be said about downwards closure and the empty set property, which—as we will see—are violated by variants of dependence logic.
 
 Finally, we need to define the *truth* of a dependence logic sentence with respect to a model. Since a sentence has no free variables, by the locality principle we have at once that either all nonempty teams satisfy it or no nonempty team satisfies it. This is analogous to the case of Tarski’s semantics, in which a sentence is either satisfied by all variable assignments or by none of them. Thus, we can define truth in the usual way:
 
-**Truth in team semantics:** A sentence $\phi$ is true in a model $M$ if and only if $M, \{\emptyset\} \models \phi$, where $\{\emptyset\}$ is the team containing only the empty assignment. In this case, we write that $M \models \phi$.
+**Truth in team semantics:** A sentence *φ* is true in a model $M$ if and only if $M, \{\emptyset\} \models \phi$, where $\{\emptyset\}$ is the team containing only the empty assignment. In this case, we write that $M \models \phi$.
 
 ### 2.1 Game-theoretic semantics
 
 As mentioned, the game-theoretic semantics for dependence logic is a variant of the imperfect-information semantics for independence-friendly logic, which is itself an adaptation of the game-theoretic semantics of first-order logic. We refer the reader to (Väänänen 2007a)[^väänänen-2007a] for a formal, detailed definition of this semantics.
 
-In game-theoretic semantics, a sentence $\phi$ and a model $M$ are made to correspond to a (usually two-player) game $G_M(\phi)$. Then truth is defined in terms of the existence of *winning strategies* for one of the players (who, in this work, will be called simply “Player $0$”): in other words, if $\sigma_0$ is a (possibly non-deterministic) strategy for Player $0$ and $\Pi(G_M(\phi), \sigma_0)$ is the set of all plays which are compatible with $\sigma_0$ then $\phi$ is true if and only if every play in $\Pi(G_M(\phi), \sigma_0)$ is winning for Player $0$. It is possible to think of the game $G_M(\phi)$ as a debate between two players, one of whom (Player $0$) wishes to demonstrate that it is the case that $\phi$ while the other (Player $1$) wishes to demonstrate that it is not the case that $\phi$.
+In game-theoretic semantics, a sentence *φ* and a model $M$ are made to correspond to a (usually two-player) game $G_M(\phi)$. Then truth is defined in terms of the existence of *winning strategies* for one of the players (who, in this work, will be called simply “Player $0$”): in other words, if $\sigma_0$ is a (possibly non-deterministic) strategy for Player $0$ and $\Pi(G_M(\phi), \sigma_0)$ is the set of all plays which are compatible with $\sigma_0$ then *φ* is true if and only if every play in $\Pi(G_M(\phi), \sigma_0)$ is winning for Player $0$. It is possible to think of the game $G_M(\phi)$ as a debate between two players, one of whom (Player $0$) wishes to demonstrate that it is the case that *φ* while the other (Player $1$) wishes to demonstrate that it is not the case that *φ*.
 
-As in the case of first-order logic and independence-friendly logic, in the imperfect-information game for dependence logic the positions of the game are pairs $(\theta, s)$, where $\theta$ is an instance of a subformula of $\phi$ (that is, multiple occurrences of the same expression as a subformula of $\phi$ are to be considered separately) and $s$ is a variable assignment over the model $M$.[^note-1] The initial position is $(\phi, \emptyset)$, where $\emptyset$ is the empty assignment; and a non-deterministic strategy $\sigma_0$ for Player $0$ selects, for every disjunction and existential quantification, one or more *successors* of the current position according to the following rules:
+As in the case of first-order logic and independence-friendly logic, in the imperfect-information game for dependence logic the positions of the game are pairs $(\theta, s)$, where *θ* is an instance of a subformula of *φ* (that is, multiple occurrences of the same expression as a subformula of *φ* are to be considered separately) and $s$ is a variable assignment over the model $M$.[^note-1] The initial position is $(\phi, \emptyset)$, where $\emptyset$ is the empty assignment; and a non-deterministic strategy $\sigma_0$ for Player $0$ selects, for every disjunction and existential quantification, one or more *successors* of the current position according to the following rules:
 
 - If the current position is of the form $(\psi \lor \theta, s)$ then its successors are $(\psi, s)$ and $(\theta, s)$;
 - If the current position is of the form $(\exists v \psi, s)$ then its successors are all positions $(\psi, s')$ with $s' \sim_v s$.
@@ -151,7 +151,7 @@ A sequence of positions $\overline \rho = \rho_0 \rho_1 \ldots \rho_n$ is a *pla
 
 If furthermore $\rho_{i+1} \in \sigma_0(\rho_i)$ whenever $\rho_i$ corresponds to a disjunction or an existential quantifier, we say that $\overline \rho$ *respects* the strategy $\sigma_0$; and as mentioned, we write $\Pi(G_M(\phi), \sigma_0)$ for the set of all plays over $G_M(\phi)$ which respect $\sigma_0$.
 
-We say that a strategy $\sigma_0$ is *winning* if every play $\overline \rho$ which ends in a position $(\alpha, s)$ where $\alpha$ is a first-order literal is such that the assignment $s$ satisfies $\alpha$ in the usual sense of Tarski’s semantics. Dependence atoms—and the plays which ends in dependence atoms—are of no relevance for deciding whether a given strategy is winning. However, they are used to specify whether a given strategy is *uniform*:
+We say that a strategy $\sigma_0$ is *winning* if every play $\overline \rho$ which ends in a position $(\alpha, s)$ where *α* is a first-order literal is such that the assignment $s$ satisfies *α* in the usual sense of Tarski’s semantics. Dependence atoms—and the plays which ends in dependence atoms—are of no relevance for deciding whether a given strategy is winning. However, they are used to specify whether a given strategy is *uniform*:
 
 **Uniformity condition** A strategy $\sigma_0$ for $G_M(\phi)$ is uniform if any two plays $\overline \rho, \overline \gamma \in \Pi(G_M(\phi), \sigma_0)$ which end in two positions $(\eqord(x_1 \ldots x_n, y), s)$, $(\eqord(x_1 \ldots x_n, y), s')$ for the same instance of the dependence atom $\eqord(x_1 \ldots x_n, y)$ we have that
 
@@ -159,11 +159,11 @@ $$\textrm{If } s(x_1)\ldots s(x_n) = s'(x_1) \ldots s'(x_n) \textrm{ then } s(y)
 
 Then we can define truth in game-theoretic semantics as follows:
 
-**Truth in game-theoretic semantics:** A sentence $\phi$ is true in a model $M$ (with respect to game-theoretic semantics) if and only if Player $0$ has a uniform winning strategy in $G_M(\phi)$.
+**Truth in game-theoretic semantics:** A sentence *φ* is true in a model $M$ (with respect to game-theoretic semantics) if and only if Player $0$ has a uniform winning strategy in $G_M(\phi)$.
 
-It can be shown that this notion is equivalent to the notion of truth in team semantics. In fact, we can show more than this. If, for any team $X$ and formula $\phi$, the game $G_{M,X}(\phi)$ is played as $G_M(\phi)$ but with the initial position chosen randomly for every play from $\{(\phi, s) : s \in X\}$, then the following holds:
+It can be shown that this notion is equivalent to the notion of truth in team semantics. In fact, we can show more than this. If, for any team $X$ and formula *φ*, the game $G_{M,X}(\phi)$ is played as $G_M(\phi)$ but with the initial position chosen randomly for every play from $\{(\phi, s) : s \in X\}$, then the following holds:
 
-**Equivalence of GTS and team semantics:** A formula $\phi$ is satisfied by a team $X$ (with respect to a model $M$) if and only if Player $0$ has a uniform winning strategy in $G_{M,X}(\phi)$.
+**Equivalence of GTS and team semantics:** A formula *φ* is satisfied by a team $X$ (with respect to a model $M$) if and only if Player $0$ has a uniform winning strategy in $G_{M,X}(\phi)$.
 
 This result, as an aside, makes it clear why the team semantics of dependence logic satisfies the empty set property and the downwards closure property. Indeed, if $X = \emptyset$ then every strategy for Player $0$ in $G_{M, X}(\phi)$ is trivially winning and uniform; and if $X \subseteq Y$ then any uniform winning strategy for Player $0$ in $G_{M, X}(\phi)$ is also a uniform winning strategy for Player $0$ in $G_{M, Y}(\phi)$.
 
@@ -173,25 +173,25 @@ This result, as an aside, makes it clear why the team semantics of dependence lo
 
 Sentence-wise, dependence logic is equivalent to the existential fragment $\Sigma_1^1$ of second-order logic. More precisely, it can be proved (Väänänen 2007a)[^väänänen-2007a] that
 
-**Sentence-wise equivalence of dependence logic and $\Sigma_1^1$:** For every dependence logic sentence $\phi$ there exists a $\Sigma_1^1$ sentence $\phi^*$ such that
+**Sentence-wise equivalence of dependence logic and $\Sigma_1^1$:** For every dependence logic sentence *φ* there exists a $\Sigma_1^1$ sentence $\phi^*$ such that
 
 $$\tag{6}\label{eq:DLESO} M \models \phi \Leftrightarrow M \models \phi^* \textrm{ for all models } M. $$
 
-Similarly, for every $\Sigma_1^1$ sentence $\phi^*$ there exists a dependence logic sentence $\phi$ such that ($\ref{eq:DLESO}$) holds.
+Similarly, for every $\Sigma_1^1$ sentence $\phi^*$ there exists a dependence logic sentence *φ* such that ($\ref{eq:DLESO}$) holds.
 
 Since Fagin’s Theorem (Fagin 1974)[^fagin-1974] shows that a property of finite models is definable in $\Sigma_1^1$ if and only if it is recognizable in polynomial time by a nondeterministic Turing machine (that is, if and only if it is in NPTIME), it follows at once that
 
-**Dependence logic and NPTIME:** For any dependence logic sentence $\phi$, the class of all finite models which satisfy it is in NPTIME. Furthermore,for any NPTIME class $\mathcal K$ of finite models, there exists a dependence logic sentence $\phi$ such that $M \models \phi$ if and only if $M \in \mathcal K$.
+**Dependence logic and NPTIME:** For any dependence logic sentence *φ*, the class of all finite models which satisfy it is in NPTIME. Furthermore,for any NPTIME class $\mathcal K$ of finite models, there exists a dependence logic sentence *φ* such that $M \models \phi$ if and only if $M \in \mathcal K$.
 
 Another direct consequence of the equivalence between dependence logic and $\Sigma_1^1$ on the level of sentences is that the compactness theorem and the Löwenheim-Skolem theorem both hold for dependence logic too (Väänänen 2007a)[^väänänen-2007a]:
 
-**Compactness:** If a set $\Phi$ of finite dependence logic sentences is not satisfiable in any model then some finite subset $\Phi_0 \subseteq_f \Phi$ of it is already not satisfiable.
+**Compactness:** If a set *Φ* of finite dependence logic sentences is not satisfiable in any model then some finite subset $\Phi_0 \subseteq_f \Phi$ of it is already not satisfiable.
 
 **Löwenheim-Skolem theorem:** If a dependence logic sentence has an infinite model then it has models of all infinite cardinalities.
 
 However, matters are more delicate when it comes to formulas with free variables. Then it is possible to show (Kontinen & Väänänen 2009)[^kontinen-2009][^kontinen-2009-2] that dependence logic corresponds to the *downwards-closed* fragment of existential second order logic:
 
-**Team definability in dependence logic** A set $\mathcal X$ of teams over a model $M$ and a set $V$ of variables is of the form $\{X : M, X \models \phi\}$ for some dependence logic formula $\phi$, with free variables in $V$, if and only if
+**Team definability in dependence logic** A set $\mathcal X$ of teams over a model $M$ and a set $V$ of variables is of the form $\{X : M, X \models \phi\}$ for some dependence logic formula *φ*, with free variables in $V$, if and only if
 
 1. $\mathcal X$ is nonempty;
 2. $\mathcal X$ is downwards closed, that is, $Y \subseteq X \in \mathcal X \Rightarrow Y \in \mathcal X$;
@@ -217,7 +217,7 @@ $$X \models {\lnot \eqord}(\vec x, y) \textrm{ if and only if } X = \emptyset$$
 
 for negations of dependence atoms (Väänänen 2007a,b)[^väänänen-2007a]. The resulting language is expressively equivalent to negation-free dependence logic, and, in fact, the description of dependence logic of (Väänänen 2007a)[^väänänen-2007a] considers this negation as part of its language; however, as shown in (Kontinen & Väänänen 2011)[^kontinen-2011], the satisfaction conditions of a dependence logic formula and those of its negation have little connection to one another. More precisely:
 
-**Dual negation and dependence logic:** For any two dependence logic formulas $\phi$ and $\psi$ such that $\phi \land \psi$ is not satisfiable, there exists a dependence logic formula $\theta$ such that
+**Dual negation and dependence logic:** For any two dependence logic formulas *φ* and *ψ* such that $\phi \land \psi$ is not satisfiable, there exists a dependence logic formula *θ* such that
 
 $$M, X \models \theta \textrm{ if and only if } M, X \models \phi$$
 
@@ -227,11 +227,11 @@ $$M, X \models \lnot \theta \textrm{ if and only if } M, X \models \psi$$
 
 for all models $M$ and teams $X$.
 
-Thus, nothing in general can be said about the dual negation of $\phi$ except that it is equivalent to some dependence logic expression which is not satisfied by any team which satisfies $\phi$. Since, as already mentioned, the law of the excluded middle fails in dependence logic, this is not a very informative property; in particular, it is possible to find in dependence logic (with dual negation) equivalent expressions with non-equivalent negations, like for example $x \not = x \land y \not = y$ and $\lnot\eqord(x,y)$.
+Thus, nothing in general can be said about the dual negation of *φ* except that it is equivalent to some dependence logic expression which is not satisfied by any team which satisfies *φ*. Since, as already mentioned, the law of the excluded middle fails in dependence logic, this is not a very informative property; in particular, it is possible to find in dependence logic (with dual negation) equivalent expressions with non-equivalent negations, like for example $x \not = x \land y \not = y$ and $\lnot\eqord(x,y)$.
 
 ### 3.4 Truth, validity and proof systems in dependence logic
 
-Like independence friendly logic, dependence logic can define its own truth operator (Väänänen 2007a)[^väänänen-2007a], that is, if for all formulas $\phi$ we have that $\lceil \phi\rceil$ is the Gödel number of $\phi$ then we can find a formula $\tau(x)$, with $x$ as its only free variable, such that
+Like independence friendly logic, dependence logic can define its own truth operator (Väänänen 2007a)[^väänänen-2007a], that is, if for all formulas *φ* we have that $\lceil \phi\rceil$ is the Gödel number of *φ* then we can find a formula $\tau(x)$, with $x$ as its only free variable, such that
 
 $$M \models \phi \textrm{ if and only if } M \models \tau(\lceil \phi \rceil)$$
 
@@ -279,7 +279,7 @@ Intuitionistic dependence logic (Abramsky & Väänänen 2009; Yang 2013)[^abrams
 
 **TS-$\rightarrow$:** $X \models \phi \rightarrow \psi$ if and only if for all subsets $Y$ of $X$, if $Y \models \phi$ then $Y \models \psi$.
 
-This operator is called the “intuitionistic implication”, because of the similarity between its semantics and the one of the implication operator in Kripke’s semantics for intuitionistic logic (Kripke 1965)[^kripke-1965]. Its interpretation in terms of belief is quite straightforward: if the assignments in $X$ represent the *states of thing* that some agent believes possible, then a subset $Y$ of $X$ may represent the result of a *belief update* in which the agent rejects some previously believed possible states of thing, and $\phi \rightarrow \psi$ states than any such update that would cause $\phi$ to hold would also cause $\psi$ to hold. From this standpoint, this is a very natural concept which permits us to describe predictions about how such an agent’s overall belief state would react to belief updates.
+This operator is called the “intuitionistic implication”, because of the similarity between its semantics and the one of the implication operator in Kripke’s semantics for intuitionistic logic (Kripke 1965)[^kripke-1965]. Its interpretation in terms of belief is quite straightforward: if the assignments in $X$ represent the *states of thing* that some agent believes possible, then a subset $Y$ of $X$ may represent the result of a *belief update* in which the agent rejects some previously believed possible states of thing, and $\phi \rightarrow \psi$ states than any such update that would cause *φ* to hold would also cause *ψ* to hold. From this standpoint, this is a very natural concept which permits us to describe predictions about how such an agent’s overall belief state would react to belief updates.
 
 However, because of the second order universal quantification implicit in its semantics, this connective suffices to greatly increase the expressive complexity of the logic: in particular, as shown in (Yang 2013)[^yang-2013], any sentence of second order logic is equivalent to some sentence of intuitionistic dependence logic. Intuitionistic dependence logic retains the downwards closure property: if a team satisfies an intuitionistic dependence logic formula then so do all of its subsets.
 
@@ -295,7 +295,7 @@ The variants and extensions of Dependence Logic seen above are all generated fro
 No complete answer to these questions is known at the moment. Some partial results, however, are known:
 
 1. If $\mathcal D$ is a collection of upwards closed dependencies (that is to say, dependencies that, if true of some team $X$ in some model $M$, are also true of any superteam $Y \supseteq X$ in the same model), plus possibly the constancy atom (that is, the already-mentioned special case of the dependence atom that states that some variable is constant over a team), then $\mathcal D$ is strongly first order (Galliani 2015)[^galliani-2015][^galliani-2015-2];
-2. Not all strongly first order dependencies are safe for all dependencies: in particular, the constancy atom is not safe for *unary* inclusion dependencies $x \subseteq y$, where $x$ and $y$ are single variables; the possibility operator $\diamond \phi$, which is satisfied by a team $X$ in a model $M$ if and only if there is a nonempty subset of X that satisfies $\phi$ in $M$, is instead safe for all collections of dependencies, as are the totality atom (that states that some variable, or tuple of variables, takes all possible values) and the non-constancy atom (that states that some variable takes at least two different values in a team) (Galliani 2021)[^galliani-2021];
+2. Not all strongly first order dependencies are safe for all dependencies: in particular, the constancy atom is not safe for *unary* inclusion dependencies $x \subseteq y$, where $x$ and $y$ are single variables; the possibility operator $\diamond \phi$, which is satisfied by a team $X$ in a model $M$ if and only if there is a nonempty subset of X that satisfies *φ* in $M$, is instead safe for all collections of dependencies, as are the totality atom (that states that some variable, or tuple of variables, takes all possible values) and the non-constancy atom (that states that some variable takes at least two different values in a team) (Galliani 2021)[^galliani-2021];
 3. If $\mathcal D$ is a strongly first order collection of dependencies and $\mathcal E$ is a collection of downwards closed dependencies (that is, dependencies that whenever true of some team they are also true of every subteam), then $\mathcal D$ is safe for $\mathcal E$ (Galliani 2019)[^galliani-2019];
 4. If $\mathcal D$ is a collection of dependencies that are downwards closed and *relativizable* (that is to say, adding relativizations of dependencies in $\mathcal D$ to unary predicates $P$ to the language is no more expressive than adding the dependencies themselves), then $\mathcal D$ is strongly first order if and only if every dependence in it can be defined in terms of constancy atoms (Galliani 2019)[^galliani-2019].
 5. (Somewhat more involved) characterizations are available for the dependencies that are relativizable and safe to add to First Order Logic *together with their contradictory negations* (Galliani 2024)[^galliani-2024] as well as for the ones that are strongly first order, closed by unions, and domain independent (Galliani 2022)[^galliani-2022].

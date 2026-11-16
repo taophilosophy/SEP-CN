@@ -60,7 +60,7 @@ Since it can also be shown that, for every lottery $P$ in $\mathcal{P}$, there e
 
 A further application of the axioms lets us establish that these preferences over lotteries satisfy three important properties: (i) a “Mixture Weak Order” condition, requiring the preferences over lotteries to be transitive and complete, (ii) a “Mixture Continuity” condition, the details of which are not of importance here and finally (iii) an “Independence” condition, which, alongside the ordering condition, will be the focus of considerable discussion in what follows.
 
-To present this last condition, one more definition is required, alongside a piece of notation: For any two lotteries $P_f$ and $P_g$ and $\lambda\in[0,1]$, one can define a third simple lottery $\lambda P_f + (1-\lambda)P_g$ in $\mathcal{P}$, the $\lambda$-mixture of $P_f$ and $P_g$, by setting $(\lambda P_f + (1-\lambda)P_g)(x)$, the probability assigned to outcome $x$ by the mixture lottery, equal to $\lambda P_f(x) + (1-\lambda)P_g(x)$. It is heuristically useful to think of $\lambda P_f + (1-\lambda)P_g$ as a higher-order lottery that yields a probability of $\lambda$ of playing lottery $P_f$ and a complementary probability of playing $P_g$. The condition then reads:
+To present this last condition, one more definition is required, alongside a piece of notation: For any two lotteries $P_f$ and $P_g$ and $\lambda\in[0,1]$, one can define a third simple lottery $\lambda P_f + (1-\lambda)P_g$ in $\mathcal{P}$, the *λ*-mixture of $P_f$ and $P_g$, by setting $(\lambda P_f + (1-\lambda)P_g)(x)$, the probability assigned to outcome $x$ by the mixture lottery, equal to $\lambda P_f(x) + (1-\lambda)P_g(x)$. It is heuristically useful to think of $\lambda P_f + (1-\lambda)P_g$ as a higher-order lottery that yields a probability of *λ* of playing lottery $P_f$ and a complementary probability of playing $P_g$. The condition then reads:
 
 **Independence** For all acts $f, g$ and $h$ and all $\lambda\in(0,1]$: $P_f\succeq P_g$ iff $\lambda P_f + (1-\lambda) P_h\succeq \lambda P_g + (1-\lambda) P_h$.
 
@@ -116,7 +116,7 @@ He claimed that, for a substantial proportion of agents, one would find that $P_
 
 $$\begin{split} \lambda P_f + (1-\lambda) P_h\succeq \lambda P_g + (1-\lambda) P_h\\ \textrm{ iff }\lambda P_f + (1-\lambda) P_{h'}\succeq \lambda P_g + (1-\lambda) P_{h'}. \end{split} $$
 
-To see why, let $\lambda=0.11$, $Q_1$ (the “consequence” common to $P_1$ and $P_2$) be a lottery yielding $$1$M for sure, $Q_2$ be a lottery yielding $$5$M with probability $10/11$ and $\$0$ otherwise, and finally $Q_3$ (the “consequence” common to $P_3$ and $P_4$) a lottery yielding $\$0$ for sure. $P_1$ turns out to be a $\lambda$-mixture of $Q_1$ and $Q_1$, $P_2$ one of $Q_2$ and $Q_1$, $P_3$ one of $Q_1$ and $Q_3$ and $P_4$ one of $Q_2$ and $Q_3$. This is probably best seen by considering the decision trees representing the corresponding compound lotteries:
+To see why, let $\lambda=0.11$, $Q_1$ (the “consequence” common to $P_1$ and $P_2$) be a lottery yielding $$1$M for sure, $Q_2$ be a lottery yielding $$5$M with probability $10/11$ and $\$0$ otherwise, and finally $Q_3$ (the “consequence” common to $P_3$ and $P_4$) a lottery yielding $\$0$ for sure. $P_1$ turns out to be a *λ*-mixture of $Q_1$ and $Q_1$, $P_2$ one of $Q_2$ and $Q_1$, $P_3$ one of $Q_1$ and $Q_3$ and $P_4$ one of $Q_2$ and $Q_3$. This is probably best seen by considering the decision trees representing the corresponding compound lotteries:
 
 ![circle with P1 with a line labeled '.11' to a circle with Q1 which has a line labeled '1' to '$1M'. Another line from P1 labeled '1' goes to a circle also with Q1 which has a line labeled '1' to '$1M'.](../assets/decision-theory-descriptive/fig3a.svg)
 
@@ -249,27 +249,27 @@ The capacity that was used above to illustrate the consistency of CEU with Ellsb
 
 $$v(A\cup B) + v(A\cap B) \geq v(A) + v(B).$$
 
-It has been shown by Schmeidler (1986)[^schmeidler-1986] that, if convexity of capacities is imposed, CEU becomes a special case of an approach known as *Maxmin Expected Utility* (MEU) (Gilboa & Schmeidler 1989)[^gilboa-1989][^schmeidler-1989], which represents the decision maker as maximising minimum expected utility across a non-empty set of probability functions $\Gamma$ on $\mathcal{X}$, so that:
+It has been shown by Schmeidler (1986)[^schmeidler-1986] that, if convexity of capacities is imposed, CEU becomes a special case of an approach known as *Maxmin Expected Utility* (MEU) (Gilboa & Schmeidler 1989)[^gilboa-1989][^schmeidler-1989], which represents the decision maker as maximising minimum expected utility across a non-empty set of probability functions *Γ* on $\mathcal{X}$, so that:
 
 $$\tag{5} U(f)=\inf\limits_{P\in\Gamma} \Big(\sum\limits_{i=1}^n P(E_i^f)u(x_i)\Big) \label{eq:MEU}$$
 
 The specific connection is the following: a CEU maximiser with respect to a convex capacity $v$ is an EU maxminer over the so-called *core* of $v$, defined as the set of probability functions that assign, for every event, a probability that is at least as great as the capacity assigned to that event by $v$: $\{P\in\mathcal{P}: P(A)\geq v(A), \forall A\in\mathcal{E}\}$.
 
-Now a common, but not mandatory, interpretation of $\Gamma$ is that it corresponds to the set of objective probability assignments that the decision maker takes to be consistent with his or her evidence. In view of the result just flagged out, this in turn invites an interpretation of capacities as lower estimates of objective probabilities. More specifically, a CEU maximiser whose capacity is convex can be interpreted as considering possible all and only those assignments of objective probabilities that are consistent with the lower estimates given by that capacity. This interpretation of the capacity in the particular example at hand is obviously particularly tempting, as $\nicefrac{1}{3}$ and $\nicefrac{2}{3}$ constitute plausible lower bounds on the decision maker’s estimates of the probabilities of $\{r\}$ and $\{b,y\}$, respectively.
+Now a common, but not mandatory, interpretation of *Γ* is that it corresponds to the set of objective probability assignments that the decision maker takes to be consistent with his or her evidence. In view of the result just flagged out, this in turn invites an interpretation of capacities as lower estimates of objective probabilities. More specifically, a CEU maximiser whose capacity is convex can be interpreted as considering possible all and only those assignments of objective probabilities that are consistent with the lower estimates given by that capacity. This interpretation of the capacity in the particular example at hand is obviously particularly tempting, as $\nicefrac{1}{3}$ and $\nicefrac{2}{3}$ constitute plausible lower bounds on the decision maker’s estimates of the probabilities of $\{r\}$ and $\{b,y\}$, respectively.
 
-If one interprets $\Gamma$ this way, relaxing CEU with convex capacities to MEU becomes an attractive option, since it allows one to not only model Ellsberg preferences but also accommodate the preferences of decision makers whose views on objective probabilities cannot simply be captured in terms of lower estimates (for example, those involving commitments to certain facts about ratios of probabilities). Due to space considerations, the details of the axiomatic treatment of MEU are omitted here.[^note-13]
+If one interprets *Γ* this way, relaxing CEU with convex capacities to MEU becomes an attractive option, since it allows one to not only model Ellsberg preferences but also accommodate the preferences of decision makers whose views on objective probabilities cannot simply be captured in terms of lower estimates (for example, those involving commitments to certain facts about ratios of probabilities). Due to space considerations, the details of the axiomatic treatment of MEU are omitted here.[^note-13]
 
 Still, MEU remains rather restrictive, as it enforces a fairly radical form of ambiguity aversion. One popular generalisation of the model, $\alpha-$*MEU* (Ghirardato *et al.* 2004), proposes that the preferences imposed by MEU lie only at one end of a spectrum of possible ambiguity aversion, captured by the following weakening of $(\ref{eq:MEU})$:
 
 $$\tag{6}U(f)=\alpha\inf\limits_{P\in\Gamma} \Big(\sum\limits_{i=1}^n P(E_i^f)u(x_i)\Big) + (1-\alpha)\sup\limits_{P\in\Gamma} \Big(\sum\limits_{i=1}^n P(E_i^f)u(x_i)\Big)$$
 
-where $\alpha\in[0,1]$. With $\alpha=1$, one recovers the highly ambiguity-averse MEU. With $\alpha=0$, we have strongly ambiguity-loving preferences. The parameter $\alpha$ is thus in a sense interpretable as a measure of ambiguity aversion.[^note-14]^{,}[^note-15]
+where $\alpha\in[0,1]$. With $\alpha=1$, one recovers the highly ambiguity-averse MEU. With $\alpha=0$, we have strongly ambiguity-loving preferences. The parameter *α* is thus in a sense interpretable as a measure of ambiguity aversion.[^note-14]^{,}[^note-15]
 
-Just as with MEU, however, $\alpha$-MEU restricts its attention to extremal expected utilities (in this instance best- as well as worst-case). A popular class of proposals allows for the full range of expected utilities across $\Gamma$ to be factored in, by supplementing the multiple prior model with a *higher order probability distribution* $\mu$. One well-known functional form, that notably features in the “*Smooth Model*” of Klibanoff *et al.* (2005), involves taking the expectation, relative to $\mu$, of the *weighted* expected utilities, relative to the members of $\Gamma$:
+Just as with MEU, however, *α*-MEU restricts its attention to extremal expected utilities (in this instance best- as well as worst-case). A popular class of proposals allows for the full range of expected utilities across *Γ* to be factored in, by supplementing the multiple prior model with a *higher order probability distribution* $\mu$. One well-known functional form, that notably features in the “*Smooth Model*” of Klibanoff *et al.* (2005), involves taking the expectation, relative to $\mu$, of the *weighted* expected utilities, relative to the members of *Γ*:
 
 $$\tag{7}U(f)=\sum\limits_{P\in \Gamma} \mu(P) \Phi\Big(\sum\limits_{i=1}^n P(E_i^f)u(x_i)\Big)$$
 
-A concave $\Phi$ will overweigh low expected utilities, resulting in relatively ambiguity-averse preferences.
+A concave *Φ* will overweigh low expected utilities, resulting in relatively ambiguity-averse preferences.
 
 ## 4. The Issue of Weak Order
 
@@ -295,17 +295,17 @@ where $M: \mathcal{X}\times\mathcal{X}\mapsto \mathbb{R}$ is a comparative utili
 
 $$\tag{9} \label{eqn:RT'} f\succeq g\text{ iff } \sum\limits_{s\in\mathcal{S}} P\big(\{s\}\big) \Psi \big(f(s),g(s)\big) \geq 0$$
 
-where $\Psi \big(f(s),g(s)\big)$ is defined as $M\big(f(s),g(s)\big)-M\big(g(s),f(s)\big)$. This quantity thus corresponds to the net balance of regret/rejoicement associated with choosing $f$ over $g$ in states $s$. Depending on the properties of $\Psi$, decision makers can be characterised as being ‘regret-neutral’, ‘regret-averse’ or even ‘regret-seeking’. Regret neutrality corresponds to the case in which, for all $x_1,x_2,x_3\in \mathcal{X}$,
+where $\Psi \big(f(s),g(s)\big)$ is defined as $M\big(f(s),g(s)\big)-M\big(g(s),f(s)\big)$. This quantity thus corresponds to the net balance of regret/rejoicement associated with choosing $f$ over $g$ in states $s$. Depending on the properties of *Ψ*, decision makers can be characterised as being ‘regret-neutral’, ‘regret-averse’ or even ‘regret-seeking’. Regret neutrality corresponds to the case in which, for all $x_1,x_2,x_3\in \mathcal{X}$,
 
 $$\Psi(x_1, x_3)=\Psi(x_1, x_2)+\Psi(x_2, x_3).$$
 
-Under these conditions, choice behaviour is consistent with SEU. Regret aversion corresponds to the situation in which $\Psi$ satisfies the following convexity requirement: for $x_1\succ x_2\succ x_3$,
+Under these conditions, choice behaviour is consistent with SEU. Regret aversion corresponds to the situation in which *Ψ* satisfies the following convexity requirement: for $x_1\succ x_2\succ x_3$,
 
 $$\Psi(x_1, x_3)>\Psi(x_1, x_2)+\Psi(x_2, x_3).$$
 
 Loomes & Sugden (1982) have shown that, at least under the assumption of probabilistic independence of the lotteries involved, this type of disposition can predict both the Common Consequence and the Common Ratio effects: Regret Theory does not entail Independence.[^note-17]
 
-To obtain a sense of the violations of transitivity predicted by Regret Theory, here is an example due to Loomes & Sugden 1987. Assume convexity of $\Psi$ and consider the following decision problem, where $x_1\prec x_2\prec x_3$ and $P(A_i)=\nicefrac{1}{3}$:
+To obtain a sense of the violations of transitivity predicted by Regret Theory, here is an example due to Loomes & Sugden 1987. Assume convexity of *Ψ* and consider the following decision problem, where $x_1\prec x_2\prec x_3$ and $P(A_i)=\nicefrac{1}{3}$:
 
 |   | $A_1$ | $A_2$ | $A_3$ |
 | --- | --- | --- | --- |
@@ -317,7 +317,7 @@ According to Regret Theory, $f\succ g$ iff
 
 $$\Psi(x_1,x_3)+\Psi(x_2,x_1)+\Psi(x_3,x_2)>0.$$
 
-Convexity of $\Psi$ will ensure that this inequality holds. By similar reasoning, it can then be established that $g\succ h$ and $h\succ f$.[^note-18]
+Convexity of *Ψ* will ensure that this inequality holds. By similar reasoning, it can then be established that $g\succ h$ and $h\succ f$.[^note-18]
 
 The above example also clearly demonstrates that Regret Theory permits violations of State Neutrality, since the different acts yield the same probability distributions over outcomes. Loomes & Sugden (1987) further show that violations of Stochastic Dominance are licensed by their model. However, in spite of these departures from orthodoxy, it should be noted that Regret Theory retains a number of other strong consequences of SEU, including the Sure-Thing principle, as well as Betweenness for probabilistically independent distributions. An instructive axiomatisation of a generalisation of $(\ref{eqn:RT})$ to finite menus is offered in Sugden 1993. See Bleichrodt & Wakker 2015 for a clear overview of the framework, and its relation to the experimental data.
 
@@ -331,7 +331,7 @@ Failure of completeness has been claimed to stem both from either (i) incomplete
 
 $$ f\succeq g \text{ iff, for all } \langle P, u\rangle\in \Phi, \sum\limits_{i=1}^n P(E_i^f)u(x_i)\geq \sum\limits_{i=1}^n P(E_i^g)u(x_i)$$
 
-where $\Phi$ is a set of pairs of probability and utility functions. Due to space considerations, axiomatic details are left out here. The interested reader is referred to the recent general treatment given by Galaabaatar & Karni (2013), who relate their results to important earlier work by the likes of Bewley (1986)[^bewley-1986], Seidenfeld *et al.* (1995), Ok *et al.* (2012), and Nau (2006)[^nau-2006], among others.
+where *Φ* is a set of pairs of probability and utility functions. Due to space considerations, axiomatic details are left out here. The interested reader is referred to the recent general treatment given by Galaabaatar & Karni (2013), who relate their results to important earlier work by the likes of Bewley (1986)[^bewley-1986], Seidenfeld *et al.* (1995), Ok *et al.* (2012), and Nau (2006)[^nau-2006], among others.
 
 ## 5. Descriptive vs Normative Decision Theory
 
@@ -430,7 +430,7 @@ the slope of the line being independent of $P(x_1)$ and $P(x_2)$.
 
 [^note-14]: It is not clear, however, what value of this parameter would correspond to ambiguity-neutrality. As Etner *et al.* (2012) note, the most likely candidate, the value $\nicefrac{1}{2}$, does not lead one to recover SEU, which is a plausible model for ambiguity neutral preferences.
 
-[^note-15]: MEU subsumes Wald’s (1950)[^wald-1950] much earlier *Minimax* approach to decision making under *complete* suspension of judgment regarding objective probabilities (the approach is so called, because it involves minimisation of maximum loss). Wald’s model corresponds to the special case in which $\Gamma =\mathcal{P}$. $\alpha$-MEU subsumes Hurwicz’s (1951)[^hurwicz-1951] *Generalized Bayes-Minimax* approach in the same manner. See Ch. 13 of Luce & Raiffa (1957) for an overview of these precursors and their axiomatic foundations.
+[^note-15]: MEU subsumes Wald’s (1950)[^wald-1950] much earlier *Minimax* approach to decision making under *complete* suspension of judgment regarding objective probabilities (the approach is so called, because it involves minimisation of maximum loss). Wald’s model corresponds to the special case in which $\Gamma =\mathcal{P}$. *α*-MEU subsumes Hurwicz’s (1951)[^hurwicz-1951] *Generalized Bayes-Minimax* approach in the same manner. See Ch. 13 of Luce & Raiffa (1957) for an overview of these precursors and their axiomatic foundations.
 
 [^note-16]: This proposal is equivalent, for pairwise choices, to Fishburn’s ()1989 *Skew-Symmetric Additive Utility theory*.
 

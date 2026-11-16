@@ -265,36 +265,36 @@ Note 24 has five Gentzen style proofs.
 
 Figure (a):
 
-- $\psi$
+- *ψ*
 - above is a line labeled (LEM)
-- branch 1: above and to the left is $\psi$
+- branch 1: above and to the left is *ψ*
 - above is ⋮
 - above is $[\phi]$
-- branch 2: above and to the right is $\psi$
+- branch 2: above and to the right is *ψ*
 - above is ⋮
 - above is $[\neg \phi]$
 
 Figure (b):
 
-- $\phi$
+- *φ*
 - above is a line labeled $(\neg\neg E)$
 - above is $\neg\neg \phi$
 
 Figure (c):
 
-- $\phi$
+- *φ*
 - above is a line labeled (Indirect)
 - above is $\neg\psi$
 - above is ⋮
-- above is $\psi$
+- above is *ψ*
 - above is ⋮
 - above is $[\neg \phi]$
 
 Figure (d):
 
-- $\phi$
+- *φ*
 - above is a line labeled (Pierce)
-- above is $\phi$
+- above is *φ*
 - above is ⋮
 - above is $[\phi\supset\psi]$
 

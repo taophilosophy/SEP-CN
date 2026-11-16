@@ -15,7 +15,7 @@ The last sentence of this quotation—which asserts, in effect, that coverings a
 
 As a very simple example, let $\sH$ be the collection of nonempty subsets of $\{0, 1\}$, i.e., $\sH = \{\{0\}, \{1\}, \{0,1\}\}$. Then $\sH$ has the two distinct choice functions $f_{1}$ and $f_{2}$ given by:
 
-\begin{align} f_{1}(\{0\}) &= 0 \\ f_{1}(\{1\}) &= 1 \\ f_{1}(\{0, 1\}) &= 0 \\ f_{2}(\{0\}) &= 0 \\ f_{2}(\{1\}) &= 1 \\ f_{2}(\{0, 1\}) &= 1 \end{align}
+$$\begin{align} f_{1}(\{0\}) &= 0 \\ f_{1}(\{1\}) &= 1 \\ f_{1}(\{0, 1\}) &= 0 \\ f_{2}(\{0\}) &= 0 \\ f_{2}(\{1\}) &= 1 \\ f_{2}(\{0, 1\}) &= 1 \end{align}$$
 
 A more interesting example of a choice function is provided by taking $\sH$ to be the set of (unordered) pairs of real numbers and the function to be that assigning to each pair its least element. A different choice function is obtained by assigning to each pair its greatest element. Clearly many more choice functions on $\sH$ can be defined.
 
@@ -79,23 +79,23 @@ Here is a brief chronology of *AC*:[^note-6]
 
 As stated above, in 1922 Fraenkel proved the independence of *AC* from a system of set theory containing “atoms”. Here by an *atom* is meant a pure individual, that is, an entity having no members and yet distinct from the empty set (so *a fortiori* an atom cannot be a set). In a system of set theory with atoms it is assumed that one is given an infinite set $A$ of atoms. One can build a universe $V(A)$ of sets over $A$ by starting with $A$, adding all the subsets of $A$, adjoining all the subsets of the result, etc., and iterating transfinitely. $V(A)$ is then a model of set theory with atoms. The kernel of Fraenkel’s method for proving the independence of *AC* is the observation that, since atoms cannot be set-theoretically distinguished, any permutation of the set $A$ of atoms induces a structure-preserving permutation—an *automorphism*—of the universe $V(A)$ of sets built from $A$. This idea may be used to construct another model $Sym(V)$ of set theory—a *permutation* or *symmetric model*—in which a set of mutually disjoint pairs of elements of $A$ has no choice function.
 
-Now let us suppose that we are given a group $G$ of automorphisms of $A$. Let us say that an automorphism $\pi$; of $A$ *fixes* an element $x$ of $V(A)$ if $\pi(x) = x$. Clearly, if $\pi \in G$ fixes every element of $A$, it also fixes every element of $V(A)$. Now it may be the case that, for certain elements $x \in V(A)$, the fixing of the elements of a *subset* of $A$ by any $\pi\in G$ suffices to fix $x$. We are therefore led to define a *support* for $x$ to be a subset $X$ of $A$ such that, whenever $\pi\in G$ fixes each member of $X$, it also fixes $x$. Members of $V(A)$ possessing a *finite* support are called *symmetric*.
+Now let us suppose that we are given a group $G$ of automorphisms of $A$. Let us say that an automorphism *π*; of $A$ *fixes* an element $x$ of $V(A)$ if $\pi(x) = x$. Clearly, if $\pi \in G$ fixes every element of $A$, it also fixes every element of $V(A)$. Now it may be the case that, for certain elements $x \in V(A)$, the fixing of the elements of a *subset* of $A$ by any $\pi\in G$ suffices to fix $x$. We are therefore led to define a *support* for $x$ to be a subset $X$ of $A$ such that, whenever $\pi\in G$ fixes each member of $X$, it also fixes $x$. Members of $V(A)$ possessing a *finite* support are called *symmetric*.
 
-We next define the universe $Sym(V)$ to consist of the *hereditarily symmetric* members of $V(A)$, that is, those $x\in V(A)$ such that $x$, the elements of $x$, the elements of elements of $x$, etc., are all symmetric. $Sym(V)$ is also a model of set theory with set of atoms $A$, and $\pi$ induces an automorphism of $Sym(V)$.
+We next define the universe $Sym(V)$ to consist of the *hereditarily symmetric* members of $V(A)$, that is, those $x\in V(A)$ such that $x$, the elements of $x$, the elements of elements of $x$, etc., are all symmetric. $Sym(V)$ is also a model of set theory with set of atoms $A$, and *π* induces an automorphism of $Sym(V)$.
 
-Now suppose $A$ to be partitioned into a (necessarily infinite) mutually disjoint set $P$ of pairs. Take $G$ to be the group of permutations of $A$ which fix all the pairs in $P$. Then $P\in Sym(V)$; it can now be shown that $Sym(V)$ contains no choice function on $P$. For suppose $f$ were a choice function on $P$ and $f \in Sym(V)$. Then $f$ has a finite support which may be taken to be of the form $\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\} with each pair \{a_{i}, b_{i}\} \in P$. Since $P$ is infinite, we may select a pair $\{c, d\} = U$ from $P$ different from all the $\{a_{i}, b_{i}\}$. Now we define $\pi \in G$ so that $\pi$ fixes each $a_{i}$ and $b_{i}$ and interchanges $c$ and $d$. Then $\pi$ also fixes $f$. Since $f$ was supposed to be a choice function on $P$, and $U \in P$, we must have $f(U) \in U$, that is, $f(U) = c$ or $f(U) = d$. Since $\pi$ interchanges $c$ and $d$, it follows that $\pi(f(U)) \ne f(U)$. But since $\pi$ is an automorphism, it also preserves function application, so that $\pi(f(U)) = \pi f(\pi(U))$. But $\pi(U) = U$ and $\pi f = f$, whence $\pi(f(U)) = f(U)$. We have duly arrived at a contradiction, showing that the universe $Sym(V)$ contains no choice function on $P$.
+Now suppose $A$ to be partitioned into a (necessarily infinite) mutually disjoint set $P$ of pairs. Take $G$ to be the group of permutations of $A$ which fix all the pairs in $P$. Then $P\in Sym(V)$; it can now be shown that $Sym(V)$ contains no choice function on $P$. For suppose $f$ were a choice function on $P$ and $f \in Sym(V)$. Then $f$ has a finite support which may be taken to be of the form $\{a_{1}, \ldots, a_{n}, b_{1},\ldots,b_{n}\} with each pair \{a_{i}, b_{i}\} \in P$. Since $P$ is infinite, we may select a pair $\{c, d\} = U$ from $P$ different from all the $\{a_{i}, b_{i}\}$. Now we define $\pi \in G$ so that *π* fixes each $a_{i}$ and $b_{i}$ and interchanges $c$ and $d$. Then *π* also fixes $f$. Since $f$ was supposed to be a choice function on $P$, and $U \in P$, we must have $f(U) \in U$, that is, $f(U) = c$ or $f(U) = d$. Since *π* interchanges $c$ and $d$, it follows that $\pi(f(U)) \ne f(U)$. But since *π* is an automorphism, it also preserves function application, so that $\pi(f(U)) = \pi f(\pi(U))$. But $\pi(U) = U$ and $\pi f = f$, whence $\pi(f(U)) = f(U)$. We have duly arrived at a contradiction, showing that the universe $Sym(V)$ contains no choice function on $P$.
 
-The point here is that for a symmetric function $f$ defined on $P$ there is a finite list $L$ of pairs from $P$ the fixing of all of whose elements suffices to fix $f$, and hence also all the values of $f$. Now, for any pair $U$ in $P$ but not in $L$ , a permutation $\pi$ can always be found which fixes all the elements of the pairs in $L$, but does not fix the members of $U$. Since $\pi$ must fix the value of $f$ at $U$, that value cannot lie in $U$. Therefore $f$ cannot “choose” an element of $U$, so *a fortiori* $f$ cannot be a choice function on $P$.
+The point here is that for a symmetric function $f$ defined on $P$ there is a finite list $L$ of pairs from $P$ the fixing of all of whose elements suffices to fix $f$, and hence also all the values of $f$. Now, for any pair $U$ in $P$ but not in $L$ , a permutation *π* can always be found which fixes all the elements of the pairs in $L$, but does not fix the members of $U$. Since *π* must fix the value of $f$ at $U$, that value cannot lie in $U$. Therefore $f$ cannot “choose” an element of $U$, so *a fortiori* $f$ cannot be a choice function on $P$.
 
 This argument shows that collections of *sets of atoms* need not necessarily have choice functions, but it fails to establish the same fact for the “usual” sets of mathematics, for example the set of real numbers. This had to wait until 1963 when Paul Cohen showed that it is consistent with the standard axioms of set theory (which preclude the existence of atoms) to assume that a countable collection of pairs of sets of real numbers fails to have a choice function. The core of Cohen’s method of proof—the celebrated method of *forcing*—was vastly more general than any previous technique; nevertheless his independence proof also made essential use of permutation and symmetry in essentially the form in which Fraenkel had originally employed them.
 
-Gödel’s proof of the relative consistency of *AC* with the axioms of set theory (see the entry on Kurt Gödel) rests on an entirely different idea: that of *definability*. He introduced a new hierarchy of sets—the *constructible* hierarchy—by analogy with the cumulative type hierarchy. We recall that the latter is defined by the following recursion on the ordinals, where $\sP(X)$ is the power set of $X$, $\alpha$ is an ordinal, and $\lambda$ is a limit ordinal::
+Gödel’s proof of the relative consistency of *AC* with the axioms of set theory (see the entry on Kurt Gödel) rests on an entirely different idea: that of *definability*. He introduced a new hierarchy of sets—the *constructible* hierarchy—by analogy with the cumulative type hierarchy. We recall that the latter is defined by the following recursion on the ordinals, where $\sP(X)$ is the power set of $X$, *α* is an ordinal, and *λ* is a limit ordinal::
 
-\begin{align} V_0 &= \varnothing \\ V_{\alpha+1} &= \sP(V_{\alpha}) \\ V_{\lambda} &= {\bigcup}_{\alpha \lt \lambda} V_{\alpha} \end{align}
+$$\begin{align} V_0 &= \varnothing \\ V_{\alpha+1} &= \sP(V_{\alpha}) \\ V_{\lambda} &= {\bigcup}_{\alpha \lt \lambda} V_{\alpha} \end{align}$$
 
 The constructible hierarchy is defined by a similar recursion on the ordinals, where $\Def(X)$ is the set of all subsets of $X$ which are first-order definable in the structure $(X, \in, (x)_{x\in X})$:[^note-7]
 
-\begin{align} L_0 &= \varnothing \\ L_{\alpha+1} &= \Def(L_{\alpha}) \\ L_{\lambda} &= {\bigcup}_{\alpha\lt \lambda} L_{\alpha} \end{align}
+$$\begin{align} L_0 &= \varnothing \\ L_{\alpha+1} &= \Def(L_{\alpha}) \\ L_{\lambda} &= {\bigcup}_{\alpha\lt \lambda} L_{\alpha} \end{align}$$
 
 The *constructible universe* is the class $L = \bigcup_{\alpha\in \Ord} L_{\alpha}$; the members of $L$ are the *constructible sets*. Gödel showed that (assuming the axioms of Zermelo-Fraenkel set theory **ZF**) the structure $(L, \in)$ is a model of **ZF** and also of *AC* as well as the Generalized Continuum Hypothesis). The relative consistency of *AC* with **ZF** follows.
 
@@ -166,7 +166,7 @@ A much-studied special case of *AC* is the
 Mathematical equivalents of *AC* include:
 
 - **Tychonov’s Theorem** (1930): the product of compact topological spaces is compact. This was proved equivalent to *AC* in Kelley 1950. But for compact Hausdorff spaces it is equivalent to **BPI** (see below) and hence weaker than *AC*
-- **Löwenheim-Skolem-Tarski Theorem** (Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957)[^tarski-1957]: a first-order sentence having a model of infinite cardinality $\kappa$ also has a model of any infinite cardinality $\mu$ such that $\mu \le \kappa$. This was proved equivalent to *AC* by Tarski.
+- **Löwenheim-Skolem-Tarski Theorem** (Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957)[^tarski-1957]: a first-order sentence having a model of infinite cardinality *κ* also has a model of any infinite cardinality $\mu$ such that $\mu \le \kappa$. This was proved equivalent to *AC* by Tarski.
 - **Krein-Milman Theorem**: the unit ball $B$ of the dual of a real normed linear space has an extreme point, that is, one which is not an interior point of any line segment in $B$. This was proved equivalent to *AC* in Bell and Fremlin 1972a. There it is shown that, given any indexed family $\sA$ of nonempty sets, there is a natural bijection between choice functions on $\sA$ and the extreme points of the unit ball of the dual of a certain real normed linear space constructed from $\sA$.
 - Every distributive lattice has a maximal ideal. This was proved equivalent to *AC* in Klimovsky 1958, and for lattices of sets in Bell and Fremlin 1972.
 - Every commutative ring with identity has a maximal ideal. This was proved equivalent to *AC* by Hodges 1979.
@@ -200,11 +200,11 @@ Zermelo’s original form of the Axiom of Choice, **AC1**, can be expressed as a
 > **AC1L**:
 > $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
 
-is the direct counterpart of **AC1** in this strengthened second-order language. In words, **AC1L** asserts that, if each predicate having a certain property $\Phi$ has instances, then there is a function $F$ on predicates such that, for any predicate $X$ satisfying $\Phi$, $FX$ is an instance of $X$. Here predicates are playing the role of sets.
+is the direct counterpart of **AC1** in this strengthened second-order language. In words, **AC1L** asserts that, if each predicate having a certain property *Φ* has instances, then there is a function $F$ on predicates such that, for any predicate $X$ satisfying *Φ*, $FX$ is an instance of $X$. Here predicates are playing the role of sets.
 
 Up to now we have tacitly assumed our background logic to be the usual classical logic. But the true depth of the connection between **AC** and logic emerges only when *intuitionistic* or *constructive* logic is brought into the picture. It is a remarkable fact that, assuming only the framework of intuitionistic logic together with certain mild further presuppositions, the Axiom of Choice can be shown to entail the cardinal rule of classical logic, the law of excluded middle—the assertion that $A \vee \neg A$ for any proposition $A$. To be precise, using the rules of intuitionistic logic within our augmented language $L$, we shall derive[^note-15] the law of excluded middle from **AC1L** conjoined with the following additional principles:
 
-**Predicative Comprehension**: $\exists X \forall x[X(x) \leftrightarrow \phi(x)]$, where $\phi$ contains no bound function or predicate variables.
+**Predicative Comprehension**: $\exists X \forall x[X(x) \leftrightarrow \phi(x)]$, where *φ* contains no bound function or predicate variables.
 
 **Extensionality of Functions**: $\forall X \forall Y \forall F[X \approx Y \rightarrow FX = FY]$, where $X \approx Y$ is an abbreviation for $\forall x[X(x) \leftrightarrow Y(x)]$, that is, $X$ and $Y$ are *extensionally equivalent*.
 
@@ -212,7 +212,7 @@ Up to now we have tacitly assumed our background logic to be the usual classical
 
 Now let $A$ be a given proposition. By Predicative Comprehension, we may introduce predicate constants $U$, $V$ together with the assertions
 
-\begin{align} \tag{1} &\forall x[U(x) \leftrightarrow (A \vee x = 0)] \\ \notag &\forall x[V(x) \leftrightarrow (A \vee x = 1)] \end{align}
+$$\begin{align} \tag{1} &\forall x[U(x) \leftrightarrow (A \vee x = 0)] \\ \notag &\forall x[V(x) \leftrightarrow (A \vee x = 1)] \end{align}$$
 
 Let $\Phi(X)$ be the formula $X \approx U \vee X \approx V$. Then clearly we may assert $\forall X[\Phi(X) \rightarrow \exists xX(x)]$ so **AC1L** may be invoked to assert $\exists F \forall X[\Phi(X) \rightarrow X(FX)]$. Now we can introduce a function constant $K$ together with the assertion
 
@@ -268,7 +268,7 @@ $$ \tag{**} x \in U \leftrightarrow f(r(x,0)) = f(r(x,1)). $$
 
 Now define $g: A \times 2 \rightarrow 2$ by $g = \pi_{2} \circ f \circ r$, where $\pi_2$ is a projection on the second coordinate. Then $g$ is an indicator for $U$, as the following equivalences show:
 
-\begin{align} x \in U &\leftrightarrow f(r(x,0))=f(r(x,1)) \ldots \mbox{by (**)} \\ &\leftrightarrow \pi_{1}(f(r(x,0))) = \pi_{1}(f(r(x,1))) \wedge \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \\ &\leftrightarrow \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \ldots \mbox{using (*)} \\ &\leftrightarrow g(x,0) = g(x,1). \end{align}
+$$\begin{align} x \in U &\leftrightarrow f(r(x,0))=f(r(x,1)) \ldots \mbox{by (**)} \\ &\leftrightarrow \pi_{1}(f(r(x,0))) = \pi_{1}(f(r(x,1))) \wedge \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \\ &\leftrightarrow \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \ldots \mbox{using (*)} \\ &\leftrightarrow g(x,0) = g(x,1). \end{align}$$
 
 The proof is complete.
 
@@ -276,13 +276,13 @@ It can be shown (Bell 2006)[^bell-2006] that each of a number of intuitionistica
 
 Here are the logical principles at issue:
 
-| **SLEM** | $\alpha \vee \neg \alpha$ ($\alpha$ any sentence) |
+| **SLEM** | $\alpha \vee \neg \alpha$ (*α* any sentence) |
 | --- | --- |
-| **Lin** | $(\alpha \rightarrow \beta) \vee (\beta \rightarrow \alpha)$ ($\alpha$, $\beta$ any sentences) |
-| **Stone** | $\neg \alpha \vee \neg\neg \alpha$ ($\alpha$ any sentence) |
+| **Lin** | $(\alpha \rightarrow \beta) \vee (\beta \rightarrow \alpha)$ (*α*, *β* any sentences) |
+| **Stone** | $\neg \alpha \vee \neg\neg \alpha$ (*α* any sentence) |
 | **Ex** | $\exists x[ \exists x \alpha(x) \rightarrow \alpha(x)]$ ($\alpha(x)$ any formula with at most $x$ free) |
 | **Un** | $\exists x[\alpha(x) \rightarrow \forall x\alpha(x)]$ ($\alpha(x)$ any formula with at most $x$ free) |
-| **Dis** | $\forall x[\alpha \vee \beta(x)] \rightarrow \alpha\vee\forall x\beta(x)$ ($\alpha$ any sentence, $\beta(x)$ any formula with at most $x$ free) |
+| **Dis** | $\forall x[\alpha \vee \beta(x)] \rightarrow \alpha\vee\forall x\beta(x)$ (*α* any sentence, $\beta(x)$ any formula with at most $x$ free) |
 
 Over intuitionistic logic, **Lin**, **Stone** and **Ex** are consequences of **SLEM**; and **Un** implies **Dis**. All of these schemes follow, of course, from the full law of excluded middle, that is **SLEM** for arbitrary formulas.
 

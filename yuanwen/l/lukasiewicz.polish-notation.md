@@ -10,7 +10,7 @@ It is sometimes said that Łukasiewicz’s chief contribution to logic was the i
 
 In the standard Peano-Russell notation for propositional calculus the symbols for binary connectives (conjunction, disjunction, implication, equivalence and so on) are written between their arguments, for example $p \wedge q$, $p \rightarrow q$. This is known as infix notation, and it is familiar from arithmetical operations such as addition and multiplication. For other than the simplest formulas, this necessitates the use of parentheses to disambiguate: the string of symbols
 
-\begin{align} & p \rightarrow q \rightarrow r \end{align}
+$$\begin{align} & p \rightarrow q \rightarrow r \end{align}$$
 
 is ambiguous between
 

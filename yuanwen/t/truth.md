@@ -147,7 +147,7 @@ Let us suppose we have a fixed language $\mathbf{L}$ whose sentences are fully i
 
 > An adequate theory of truth for $\mathbf{L}$ must imply, for each sentence $\ulcorner \phi \urcorner$ of $\mathbf{L}$:
 
-> $\ulcorner \phi \urcorner$ is true if and only if $\phi$.
+> $\ulcorner \phi \urcorner$ is true if and only if *φ*.
 
 (We have simplified Tarski’s presentation somewhat. It is important that this is a schema, capturing all the instances for well-formed sentences of $\mathbf{L}$. We are hence using the technical device of quasi-quotation, as in ‘$\ulcorner \phi \urcorner$’, that allows us to see through a schematic letter to its instances. For a more thorough explanation of quasi-quotation, see Quine 1940, but it simply gives us quotation that gets the right results for schematic letters.) This is an adequacy condition for theories, not a theory itself. Given the assumption that $\mathbf{L}$ is fully interpreted, we may assume that each sentence $\ulcorner \phi \urcorner$ in fact has a truth value. In light of this, Convention T guarantees that the truth predicate given by the theory will be *extensionally correct*, i.e., have as its extension all and only the true sentences of $\mathbf{L}$.
 
@@ -166,7 +166,7 @@ In spite of its simplicity, $\mathbf{L}$ contains infinitely many distinct sente
 1. Base clauses:
 2. ‘Snow is white’ is true if and only if snow is white.
 3. ‘Grass is green’ is true if and only if grass is green.
-4. Recursion clauses. For any sentences $\phi$ and $\psi$ of $\mathbf{L}$:
+4. Recursion clauses. For any sentences *φ* and *ψ* of $\mathbf{L}$:
 5. $\ulcorner \phi \vee \psi \urcorner$ is true if and only if $\ulcorner \phi \urcorner$ is true or $\ulcorner \psi \urcorner$ is true.
 6. $\ulcorner \neg \phi \urcorner$ is true if and only if it is not the case that $\ulcorner \phi \urcorner$ is true.
 
@@ -246,7 +246,7 @@ For more on facts, see the entry on facts.
 
 The truthmaker principle is often put as the schema:
 
-> If $\phi$, then there is an *x* such that necessarily, if *x* exists, then $\phi$.
+> If *φ*, then there is an *x* such that necessarily, if *x* exists, then *φ*.
 
 (Fox [1987] proposed putting the principle this way, rather than explicitly in terms of truth.)
 
@@ -345,7 +345,7 @@ This can be taken as the core of a theory of truth, often called the *redundancy
 
 The equivalence thesis can also be understood in terms of speech acts rather than meaning:
 
-> To assert that $\ulcorner \phi \urcorner$ is true is just to assert that $\phi$.
+> To assert that $\ulcorner \phi \urcorner$ is true is just to assert that *φ*.
 
 This view was advanced by Strawson (1949, 1950)[^strawson-1949][^strawson-1950], though Strawson also argues that there are other important aspects of speech acts involving ‘true’ beyond what is asserted. For instance, they may be acts of confirming or granting what someone else said. (Strawson would also object to my making sentences the bearers of truth.)
 
@@ -357,7 +357,7 @@ The equivalence principle looks familiar: it has something like the form of the 
 
 A number of deflationary theories look to the Tarski biconditionals rather than the full equivalence principle. Their key idea is that even if we do not insist on redundancy, we may still hold the following theses:
 
-1. For a given language $\mathbf{L}$ and every $\phi$ in $\mathbf{L}$, the biconditionals $\ulcorner \ulcorner \phi \urcorner$ is true if and only if $\phi \urcorner$ hold by definition (or analytically, or trivially, or by stipulation …).
+1. For a given language $\mathbf{L}$ and every *φ* in $\mathbf{L}$, the biconditionals $\ulcorner \ulcorner \phi \urcorner$ is true if and only if $\phi \urcorner$ hold by definition (or analytically, or trivially, or by stipulation …).
 2. This is all there is to say about the concept of truth.
 
 We will refer to views which adopt these as *minimalist*. Officially, this is the name of the view of Horwich (1990)[^horwich-1990], but we will apply it somewhat more widely. (Horwich’s view differs in some specific respects from what is presented here, such as predicating truth of propositions, but we believe it is close enough to what is sketched here to justify the name.)
@@ -378,7 +378,7 @@ Thus, according to disquotationalists, truth is really a purely logical device, 
 
 Looking at the disquotationalist claim that truth is somehow a logical device, and other deflationist views that hold that the Tarski biconditionals are somehow vacuous or constitute a definition, we might ask if the Tarski biconditionals are simply logical truths. The truth predicate would then be a kind of vacuous logical operator, rendering the biconditionals themselves logical truths. For instance, Priest (2007)[^priest-2007] suggests that the Tarski biconditionals are logical truths. To pursue this idea, we might take inspiration from the many combinatory logics that include an identity combinator, or the horizontal stroke in Frege’s logic. (See the entries on on combinatory logic and Frege’s logic.)
 
-An especially well-developed version of this idea comes from Zalta (2014)[^zalta-2014], who argues that the Tarski biconditionals are not only logical truths, but they are even tautologies. It takes some set-up to make this claim. In brief, one role of truth is to allow sentences to also function as terms, which can be arguments of predicates. In ordinary language, we see this with the operator ‘that’, which turns the sentence $\ulcorner \phi \urcorner$ into the term $\ulcorner \textrm{that-}\phi \urcorner $, which then combines with the truth predicate to make a sentence that is equivalent to $\ulcorner \phi \urcorner$. If we assume our logic includes lambda-binders ($\lambda$), we can see these functions as being carried out by a zero-place $\lambda$-binder, which in effect allows sentences to simultaneously function as terms. But conversely, these terms are themselves zero-place, and so can function as sentences. The result, according to Zalta, is that we can reformulate the Tarski biconditionals as having the form $\ulcorner [\lambda \: \phi] \iff \phi \urcorner$. Here, the truth predicate is replaces by a logical operator $\lambda$. Zalta then argues in detail that the resulting biconditionals are not only logical truths in familiar higher-order logics including $\lambda$-abstraction, but that they are tautologies according to the standards of higher order logic.
+An especially well-developed version of this idea comes from Zalta (2014)[^zalta-2014], who argues that the Tarski biconditionals are not only logical truths, but they are even tautologies. It takes some set-up to make this claim. In brief, one role of truth is to allow sentences to also function as terms, which can be arguments of predicates. In ordinary language, we see this with the operator ‘that’, which turns the sentence $\ulcorner \phi \urcorner$ into the term $\ulcorner \textrm{that-}\phi \urcorner $, which then combines with the truth predicate to make a sentence that is equivalent to $\ulcorner \phi \urcorner$. If we assume our logic includes lambda-binders (*λ*), we can see these functions as being carried out by a zero-place *λ*-binder, which in effect allows sentences to simultaneously function as terms. But conversely, these terms are themselves zero-place, and so can function as sentences. The result, according to Zalta, is that we can reformulate the Tarski biconditionals as having the form $\ulcorner [\lambda \: \phi] \iff \phi \urcorner$. Here, the truth predicate is replaces by a logical operator *λ*. Zalta then argues in detail that the resulting biconditionals are not only logical truths in familiar higher-order logics including *λ*-abstraction, but that they are tautologies according to the standards of higher order logic.
 
 Amongst those broadly sympathetic to deflationism, there is substantial debate over the logical status of the Tarski biconditionals. (Those sympathetic to varieties of the correspondence theory will generally not see the biconditionals as logical truths.) As we have noted, Priest (2007)[^priest-2007] and Zalta (2014)[^zalta-2014] argue in different ways that they are logical truths. In contrast, Cook (2012)[^cook-2012] argues that instances of the Tarski biconditionals cannot all be logical truths, based on some widely accepted ideas about what counts as a logical truth. Though Cook’s argument does not depend on the Liar paradox, some theories surrounding the paradox have to accept that there are false instances of the Tarski biconditionals. (See McGee 1992, and for more background, the entry on the Liar paradox.)[^mcgee-1992] Beall (2021)[^beall-2021] takes a very nuanced view, describing truth as an ‘emergent logical property’. There are a great many issues about logic at play here, including how the Tarski biconditionals are to be formulated, and what the standards for logicality are. For a careful discussion of these matters, see Wyatt 2016.
 

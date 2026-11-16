@@ -872,7 +872,7 @@ This was a curtain-raiser to a series of dramatic results about the uncomputabil
 
 The uncomputability results of Cubitt et al. stem from their discovery that the halting problem can be encoded in the spectral gap problem. Deciding whether a model system of the type they have studied is gapped or gapless, given a description of the local interactions, is “at least as hard as solving the Halting Problem” (Bausch, Cubitt, & Watson 2021: 2)[^bausch-2021]. Moreover, this is not just a case of *uncomputability in, uncomputability out*. Uncomputability arises even though the initial conditions are computable (as with the notional system described in Pour-El and Richards 1981, mentioned in Section 6.4.1)[^pour-el-1981]. Cubitt et al. emphasize:
 
-> the phase diagram is uncomputable even for *computable* (or even algebraic) values of its parameter $\phi$. Indeed, it is uncomputable at a countably-infinite set of computable (or algebraic) values of $\phi$. (Bausch, Cubitt, & Watson 2019: 8)[^bausch-2019]
+> the phase diagram is uncomputable even for *computable* (or even algebraic) values of its parameter *φ*. Indeed, it is uncomputable at a countably-infinite set of computable (or algebraic) values of *φ*. (Bausch, Cubitt, & Watson 2019: 8)[^bausch-2019]
 
 However, Cubitt admits that the models used in the proofs are somewhat artificial:
 

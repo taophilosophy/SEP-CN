@@ -114,7 +114,7 @@ Then, because $p(B \wedge A) = p(B\mid A)p(A)$: $$ p(A \supset B) = p(\neg A) + 
 
 Then, because multiplying by $p(B\mid A)$ is multiplying a number that’s 1 or smaller:
 
-\begin{align} p(A \supset B) &\geq p(B\mid A)p(\neg A) + p(B\mid A)p(A)\\ &= p(B\mid A)[p(\neg A) + p(A)]\\ &= p(B\mid A) \end{align}
+$$\begin{align} p(A \supset B) &\geq p(B\mid A)p(\neg A) + p(B\mid A)p(A)\\ &= p(B\mid A)[p(\neg A) + p(A)]\\ &= p(B\mid A) \end{align}$$
 
 $\qed$
 
@@ -148,7 +148,7 @@ Now, assuming Stalnaker’s Hypothesis: $$ p(A \rightarrow B) = p_B(B\mid A)p(B)
 
 But $p_B$ automatically assigns probability 1 to $B$, while $p_{\neg B}$ assigns 0. So:
 
-\begin{align} p(A \rightarrow B) &= 1 \times p(B) + 0 \times p(\neg B)\\ &= p(B) \end{align}
+$$\begin{align} p(A \rightarrow B) &= 1 \times p(B) + 0 \times p(\neg B)\\ &= p(B) \end{align}$$
 
 And since $p(A \rightarrow B)=p(B\mid A)$ by Stalnaker’s Hypothesis, $p(B\mid A)=p(B)$ too. $\qed$
 

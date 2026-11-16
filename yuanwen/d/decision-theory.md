@@ -83,7 +83,7 @@ $$EU(L_i) \mathbin{\dot{=}} \sum_k u(O_{ik}) \cdot p_{ik}$$
 
 The assumption made earlier can now be formally stated:
 
-\begin{equation}\tag{2} \text{For any}\ L_i, L_j\in \bL: L_i\preceq L_j\Leftrightarrow EU(L_i)\leq EU(L_j) \end{equation}
+$$\begin{equation}\tag{2} \text{For any}\ L_i, L_j\in \bL: L_i\preceq L_j\Leftrightarrow EU(L_i)\leq EU(L_j) \end{equation}$$
 
 When the above holds, we say that there is an expected utility function that represents the agent’s preferences; in other words, the agent can be represented as *maximising expected utility*.
 
@@ -408,7 +408,7 @@ Various attempts have been made to make Allais’ preferences compatible with so
 
 |   | 1 | 2–34 | 35–100 |
 | --- | --- | --- | --- |
-| $L_1$ | $0 + $\delta$ | $2500 | $2400 |
+| $L_1$ | $0 + *δ* | $2500 | $2400 |
 | $L_2$ | $2400 | $2400 | $2400 |
 
 |   | 1 | 2–34 | 35–100 |
@@ -434,7 +434,7 @@ There are various alternative, “fuzzier” representations of desire and belie
 
 The question then arises: Is there a conservative generalisation of the EU decision rule that can handle sets of probability and utility pairs? Contender decision rules are standardly framed in terms of choice functions that take as input some set of available options and return as output a non-empty set of admissible options that is a subset of the available options. There is controversy even about basic constraints on such a choice function. Many endorse an “EU non-dominance” constraint, whereby an option is admissible only if it is not “EU-dominated” by some other available option, that is, there is not some other available option that has at least as high EU according to all pairs of probability and utility functions, and higher EU according to at least one pair of probability and utility functions. Levi (1986)[^levi-1986] proposes a slightly different basic constraint: an option is admissible only if it has maximum EU for at least one pair of probability and utility functions. In ordinary circumstances where sets of probability and utility functions are closed convex sets, Levi’s constraint is equivalent to the EU non-dominance constraint (Schervish et al. 2003)[^schervish-2003]. More recently, some authors have considered alternative basic constraints that may conflict with EU non-dominance even in ordinary circumstances. For instance, Hare (2010)[^hare-2010] considers a state-wise non-dominance constraint and Lederman (forthcoming) considers a dimension-wise negative dominance constraint (the aim in each case being to reveal the paradoxical nature of violations of the completeness axiom of preference).
 
-Even those who agree on a basic constraint like EU non-dominance may disagree on further constraints when it comes to choice in the face of incompleteness. See Bradley (2017)[^bradley-2017][^bradley-2017-2] for extensive discussion of the various ways to proceed. A consideration that is often appealed to in order to discriminate between candidate options is caution. The Maxmin-EU rule, for instance, recommends picking the action with greatest minimum expected utility (see Gilboa and Schmeidler 1989; Walley 1991)[^gilboa-1989][^walley-1991]. The rule is simple to use, but arguably much too cautious, paying no attention at all to the full spread of expected utilities. The $\alpha$-Maxmin rule, by contrast, recommends taking the action with the greatest $\alpha$-weighted sum of the minimum and maximum expected utilities associated with it. The relative weights for the minimum and maximum expected utilities can be thought of as reflecting either the decision maker’s pessimism in the face of uncertainty or else her degree of caution (see Binmore 2009)[^binmore-2009].
+Even those who agree on a basic constraint like EU non-dominance may disagree on further constraints when it comes to choice in the face of incompleteness. See Bradley (2017)[^bradley-2017][^bradley-2017-2] for extensive discussion of the various ways to proceed. A consideration that is often appealed to in order to discriminate between candidate options is caution. The Maxmin-EU rule, for instance, recommends picking the action with greatest minimum expected utility (see Gilboa and Schmeidler 1989; Walley 1991)[^gilboa-1989][^walley-1991]. The rule is simple to use, but arguably much too cautious, paying no attention at all to the full spread of expected utilities. The *α*-Maxmin rule, by contrast, recommends taking the action with the greatest *α*-weighted sum of the minimum and maximum expected utilities associated with it. The relative weights for the minimum and maximum expected utilities can be thought of as reflecting either the decision maker’s pessimism in the face of uncertainty or else her degree of caution (see Binmore 2009)[^binmore-2009].
 
 There are more complicated choice rules that depend on a richer representation of uncertainty involving a notion of *confidence*. For instance, Klibanoff et al. (2005) propose a rule whereby choices are made between otherwise incomparable options on the basis of confidence-weighted expected utility. It presupposes that weights can be assigned to the various expected utilities associated with an act, reflecting the agent’s confidence in the corresponding probability and utility pairs. There are alternative rules that appeal to confidence even in the absence of precise cardinal weights. Gärdenfors and Sahlin (1982), for instance, suggest simply excluding from consideration any probability (and utility) functions that fall below a confidence threshold, and then applying the Maxmin-EU rule based on the remainder. Hill’s (2013)[^hill-2013] choice theory is somewhat similar, although confidence thresholds for probability and utility pairs are allowed to vary depending on the choice problem (and the term “confidence” is itself used differently). There are further proposals whereby acts are compared in terms of how much uncertainty they can tolerate (which again depends on levels of confidence) and yet still be a satisfactory option (see, e.g., Ben-Haim 2001)[^ben-haim-2001]. These rules are compelling, but they do raise a host of difficult questions regarding how to interpret and measure the extra subjective attitudes that play a role, like “amount of confidence in a belief/desire” and “satisfactory level of desirability”.
 
@@ -872,7 +872,7 @@ decision theory: causal | epistemic utility arguments for epistemic norms | poss
 
 [^tversky-1975]: Tversky, Amos, 1975, “A Critique of Expected Utility Theory: Descriptive and Normative Considerations”, *Erkenntnis*, 9: 163–173.
 
-[^villegas-1964]: Villegas, C., 1964, “On Qualitative Probability $\sigma$-Algebras”, *Annals of Mathematical Statistics*, 35: 1787–1796.
+[^villegas-1964]: Villegas, C., 1964, “On Qualitative Probability *σ*-Algebras”, *Annals of Mathematical Statistics*, 35: 1787–1796.
 
 [^vallentyne-1988]: Vallentyne, Peter, 1988, “Gimmicky Representations of Moral Theories”, *Metaphilosophy*, 19: 253–263.
 

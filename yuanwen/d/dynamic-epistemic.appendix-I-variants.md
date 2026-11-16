@@ -38,7 +38,7 @@ Van Benthem, van Eijck, and Kooi (2006) introduced $\LCC$, the Logic of Communic
 
 $$\begin{align*}\taglabel{LCC} F & \ccoloneqq p \mid F\land F \mid \lnot F \mid [\pi]F \mid [A,e]F \\ \pi & \ccoloneqq a \mid {?}F \mid \pi;\pi \mid \pi\cup\pi \mid \pi* \\ & \quad \small p\in\sP,\; a\in\sA,\; (A,e)\in\AM(\LCC)_* \end{align*}$$
 
-Expressions made using the start symbol *F* are called *formulas*, and expressions made using the start symbol $\pi$ are called *programs*. The sublanguage (EPDL) of “Epistemic Propositional Dynamic Logic” is defined by disallowing formation of action model formulas $[A,e]F$ in the grammar for \eqref{LCC}. The semantics of this language is given as follows.
+Expressions made using the start symbol *F* are called *formulas*, and expressions made using the start symbol *π* are called *programs*. The sublanguage (EPDL) of “Epistemic Propositional Dynamic Logic” is defined by disallowing formation of action model formulas $[A,e]F$ in the grammar for \eqref{LCC}. The semantics of this language is given as follows.
 
 - $M,w\models p$ holds if and only if $w\in V(p)$.
 - $M,w\models F\land G$ holds if and only if $M,w\models F$ and $M,w\models G$.

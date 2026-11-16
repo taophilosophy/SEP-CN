@@ -98,7 +98,7 @@ This principle is clearly violated in classical logic, because classical logic p
 
 Although till today all the logic used in intuitionistic reasoning is contained in **IQC**, it is in principle conceivable that at some point there will be found a principle acceptable from the intuitionistic point of view that is not covered by this logic. For most forms of constructivism the widely accepted view is that this will not ever be the case, and thus **IQC** is considered to be *the* logic of constructivism. For intuitionism the situation is less clear because it cannot be excluded that at some point our intuitionistic understanding might lead us to new logical principles that we did not grasp before.
 
-One of the reasons for the widespread use of intuitionistic logic is that it is well-behaved both from the proof-theoretic as the model-theoretic point of view. There exist a great many proof systems for it, such as Gentzen calculi and natural deduction systems, as well as various forms of semantics, such as Kripke models, Beth models, Heyting algebras, topological semantics and categorical models. Several of these semantics are, however, only classical means to study intuitionistic logic, for it can be shown that an intuitionistic completeness proof with respect to them cannot exist (Kreisel 1962)[^kreisel-1962]. It has, however, been shown that there are alternative but a little less natural models with respect to which completeness does hold constructively (Veldman 1976)[^veldman-1976]. The constructive character of intuitionistic logic becomes particularly clear in the Curry-Howard isomorphism that establishes a correspondence between derivations in the logic and terms in simply typed $\lambda$-calculus, that is, between proofs and computations. The correspondence preserves structure in that reduction of terms correspond to normalization of proofs.
+One of the reasons for the widespread use of intuitionistic logic is that it is well-behaved both from the proof-theoretic as the model-theoretic point of view. There exist a great many proof systems for it, such as Gentzen calculi and natural deduction systems, as well as various forms of semantics, such as Kripke models, Beth models, Heyting algebras, topological semantics and categorical models. Several of these semantics are, however, only classical means to study intuitionistic logic, for it can be shown that an intuitionistic completeness proof with respect to them cannot exist (Kreisel 1962)[^kreisel-1962]. It has, however, been shown that there are alternative but a little less natural models with respect to which completeness does hold constructively (Veldman 1976)[^veldman-1976]. The constructive character of intuitionistic logic becomes particularly clear in the Curry-Howard isomorphism that establishes a correspondence between derivations in the logic and terms in simply typed *λ*-calculus, that is, between proofs and computations. The correspondence preserves structure in that reduction of terms correspond to normalization of proofs.
 
 ### 3.3 The natural numbers
 
@@ -154,11 +154,11 @@ The acceptance of the notion of choice sequence has far-reaching implications. I
 
 $$\tag{\({\bf WC\mbox{-}N}\)} \forall\alpha\exists n A(\alpha,n) \rightarrow \forall\alpha\exists m\exists n \forall\beta\in\alpha(\overline{m})A(\beta,n). $$
 
-Here $n$ and $m$ range over natural numbers, $\alpha$ and $\beta$ over choice sequences, and $\beta\in\alpha(\overline{m})$ means that the first $m$ elements of $\alpha$ and $\beta$ are equal. Although until now there has never been given a completely satisfactory justification of most continuity axioms for arbitrary choice sequences, not even by Brouwer, when restricted to the class of lawless sequences arguments supporting the validity of the weak continuity axiom run as follows. When could a statement of the form $\forall\alpha\exists n A(\alpha,n)$ be established by the intuitionist? By the very nature of the notion of lawless sequence, the choice of the number $n$ for which $A(\alpha,n)$ holds has to be made after only a finite initial segment of $\alpha$ is known. For we do not know how $\alpha$ will proceed in time, and we therefore have to base the choice of $n$ on the initial segment of $\alpha$ that is known at that point in time where we wish to fix $n$. This implies that for every lawless sequence $\beta$ with the same initial segment as $\alpha$, $A(\beta,n)$ holds as well.
+Here $n$ and $m$ range over natural numbers, *α* and *β* over choice sequences, and $\beta\in\alpha(\overline{m})$ means that the first $m$ elements of *α* and *β* are equal. Although until now there has never been given a completely satisfactory justification of most continuity axioms for arbitrary choice sequences, not even by Brouwer, when restricted to the class of lawless sequences arguments supporting the validity of the weak continuity axiom run as follows. When could a statement of the form $\forall\alpha\exists n A(\alpha,n)$ be established by the intuitionist? By the very nature of the notion of lawless sequence, the choice of the number $n$ for which $A(\alpha,n)$ holds has to be made after only a finite initial segment of *α* is known. For we do not know how *α* will proceed in time, and we therefore have to base the choice of $n$ on the initial segment of *α* that is known at that point in time where we wish to fix $n$. This implies that for every lawless sequence *β* with the same initial segment as *α*, $A(\beta,n)$ holds as well.
 
-The weak continuity axiom has been shown to be consistent, and is often applied in a form that can be justified, namely in the case in which the predicate $A$ only refers to the values of $\alpha$, and not to the higher order properties that it possibly possesses. The details of the argument will be omitted here, but it contains the same ingredients as the justification of the principle for lawless sequences, and can be found in van Atten and van Dalen 2002.
+The weak continuity axiom has been shown to be consistent, and is often applied in a form that can be justified, namely in the case in which the predicate $A$ only refers to the values of *α*, and not to the higher order properties that it possibly possesses. The details of the argument will be omitted here, but it contains the same ingredients as the justification of the principle for lawless sequences, and can be found in van Atten and van Dalen 2002.
 
-Weak continuity does not exhaust the intuitionists’ intuition about the continuum, for given the weak continuity axiom, it seems reasonable to assume that the choice of the number $m$ such that $\forall\beta\in\alpha(\overline{m})A(\beta,n)$, could be made explicit. Thus $\forall\alpha\exists n A(\alpha,n)$ implies the existence of a continuous functional $\Phi$ that for every $\alpha$ produces the $m$ that fixes the length of $\alpha$ on the basis of which $n$ is chosen. More formally, let $\mathcal{CF}$ be the class of continuous functionals $\Phi$ that assign natural numbers to infinite sequences, i.e. that satisfy
+Weak continuity does not exhaust the intuitionists’ intuition about the continuum, for given the weak continuity axiom, it seems reasonable to assume that the choice of the number $m$ such that $\forall\beta\in\alpha(\overline{m})A(\beta,n)$, could be made explicit. Thus $\forall\alpha\exists n A(\alpha,n)$ implies the existence of a continuous functional *Φ* that for every *α* produces the $m$ that fixes the length of *α* on the basis of which $n$ is chosen. More formally, let $\mathcal{CF}$ be the class of continuous functionals *Φ* that assign natural numbers to infinite sequences, i.e. that satisfy
 
 $$ \forall\alpha\exists m\forall\beta\in\alpha(\overline{m})\Phi(\alpha)=\Phi(\beta). $$
 
@@ -170,11 +170,11 @@ Through the continuity axiom certain weak counterexamples can be transformed int
 
 $$ \neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0). $$
 
-Here $\alpha(n)$ denotes the $n$-th element of $\alpha$. To see that this negations holds, suppose, arguing by contradiction, that $\neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0)$ holds. This implies that
+Here $\alpha(n)$ denotes the $n$-th element of *α*. To see that this negations holds, suppose, arguing by contradiction, that $\neg\forall\alpha(\forall n\alpha (n)=0 \vee \neg \forall n\alpha (n)=0)$ holds. This implies that
 
 $$ \forall\alpha\exists k((\forall n\alpha (n)=0 \wedge k=0) \vee (\neg \forall n\alpha (n)=0 \wedge k=1)). $$
 
-By the weak continuity axiom, for $\alpha$ consisting of only zeros there exists a number $m$ that fixes the choice of $k$, which means that for all $\beta\in\alpha(\overline{m})$, $k=0$. But the existence of sequences whose first $m$ elements are 0 and that contain a 1 show that this cannot be.
+By the weak continuity axiom, for *α* consisting of only zeros there exists a number $m$ that fixes the choice of $k$, which means that for all $\beta\in\alpha(\overline{m})$, $k=0$. But the existence of sequences whose first $m$ elements are 0 and that contain a 1 show that this cannot be.
 
 This example showing that the principle of the excluded middle not only does not hold but is in fact false in intuitionism, leads to the refutation of many basic properties of the continuum. Consider for example the real number $r_\alpha$ that is the limit of the sequence consisting of the numbers $r_n$ as given in the section on weak counterexamples, where the $A(m)$ in the definition is taken to be the statement $\alpha(m)=0$. Then the refutation above implies that $\neg\forall\alpha(r_\alpha=0 \vee r_\alpha\neq 0)$, and it thereby refutes the law of trichotomy:
 
@@ -194,9 +194,9 @@ There is a convenient representation of continuous functionals that has been use
 
 $$ \forall \alpha\exists n f(\alpha(\overline{n})) \gt 0 \\ \forall n\forall m (f(n) \gt 0 \rightarrow f(n\cdot m) = f(n)). $$
 
-Intuitively, if $f$ represents $\Phi$ then $f(\alpha(\overline{n}))=0$ means that $\alpha(\overline{n})$ is not long enough to compute $\Phi(\alpha)$, and $f(\alpha(\overline{n}))=m+1$ means that $\alpha(\overline{n})$ is long enough to compute $\Phi(\alpha)$ and that the value of $\Phi(\alpha)$ is $m$. If $\mathcal{K}$ denotes the class of neighborhood functions, then the continuity axiom ${\bf C\mbox{-}N}$ can be rephrased as $$ \forall \alpha\exists n A(\alpha,n) \rightarrow \exists f \in \mathcal{K}\, \forall m(f(m) \gt 0 \rightarrow \forall \beta \in m A(\beta,f(m-1))), $$
+Intuitively, if $f$ represents *Φ* then $f(\alpha(\overline{n}))=0$ means that $\alpha(\overline{n})$ is not long enough to compute $\Phi(\alpha)$, and $f(\alpha(\overline{n}))=m+1$ means that $\alpha(\overline{n})$ is long enough to compute $\Phi(\alpha)$ and that the value of $\Phi(\alpha)$ is $m$. If $\mathcal{K}$ denotes the class of neighborhood functions, then the continuity axiom ${\bf C\mbox{-}N}$ can be rephrased as $$ \forall \alpha\exists n A(\alpha,n) \rightarrow \exists f \in \mathcal{K}\, \forall m(f(m) \gt 0 \rightarrow \forall \beta \in m A(\beta,f(m-1))), $$
 
-where $\beta \in m$ means that the code of the initial segment of $\beta$ is $m$.
+where $\beta \in m$ means that the code of the initial segment of *β* is $m$.
 
 ### 3.6 The bar theorem
 
@@ -208,7 +208,7 @@ A *fan* is a finitely branching spread, and the fan principle expresses a form o
 
 $$\tag{\({\bf FAN}\)} \forall \alpha \in T\exists n A(\alpha(\overline{n})) \rightarrow \exists m \forall \alpha \in T \exists n \leq m A(\alpha(\overline{n})). $$
 
-Here $\alpha \in T$ means that $\alpha$ is a branch of $T$. The principle **FAN** suffices to prove the theorem mentioned above:
+Here $\alpha \in T$ means that *α* is a branch of $T$. The principle **FAN** suffices to prove the theorem mentioned above:
 
 > **Theorem** (**FAN**) Every continuous real function on a closed interval is uniformly continuous.
 
@@ -216,7 +216,7 @@ Brouwer’s justification for the fan theorem is his bar principle for the unive
 
 $$\tag{\({\bf BI}\)} \begin{align} & [\forall\alpha\forall n \big( A(\alpha(\overline{n})) \vee \neg A(\alpha(\overline{n})) \big) \wedge \forall\alpha\exists n A(\alpha(\overline{n}))\ \wedge\\ &\quad \forall\alpha\forall n \big( A(\alpha(\overline{n})) \rightarrow B(\alpha(\overline{n})) \big)\ \wedge \\ &\quad \forall\alpha\forall n \big( \forall mB(\alpha(\overline{n})\cdot m) \rightarrow B(\alpha(\overline{n})) \big)] \rightarrow B(\varepsilon). \end{align} $$
 
-Here $\varepsilon$ stands for the empty sequence, $\cdot$ for concatenation, **BI** for Bar Induction, and the subscript **D** refers to the decidability of the predicate $A$. The bar principle provides intuitionism with an induction principle for trees; it expresses a well-foundedness principle for spreads with respect to decidable properties. Extensions of this principle in which the decidability requirement is weakened can be extracted from Brouwer’s work but will be omitted here. Continuity and the bar principle are sometimes captured in one axiom called the *bar continuity axiom*.
+Here *ε* stands for the empty sequence, $\cdot$ for concatenation, **BI** for Bar Induction, and the subscript **D** refers to the decidability of the predicate $A$. The bar principle provides intuitionism with an induction principle for trees; it expresses a well-foundedness principle for spreads with respect to decidable properties. Extensions of this principle in which the decidability requirement is weakened can be extracted from Brouwer’s work but will be omitted here. Continuity and the bar principle are sometimes captured in one axiom called the *bar continuity axiom*.
 
 There is a close connection between the bar principle and the neighborhood functions mentioned in the section on continuity axioms. Let $\mathcal{IK}$ be the inductively defined class of neighborhood functions, consisting of all constant non-zero sequences $\lambda m.n+1$, and such that if $f(0)=0$ and $\lambda m.f(x\cdot m)\in \mathcal{IK}$ for all $x$, then $f \in \mathcal{IK}$. The statement $\mathcal{K}=\mathcal{IK}$, that is, the statement that the neighborhood functions can be generated inductively, is equivalent to **BI_{D}**.
 
@@ -234,7 +234,7 @@ There are, however, certain restrictions of the axiom that are acceptable for th
 
 $$\tag{\({\bf AC\mbox{-}N}\)} \forall R \subseteq \mathbb{N} \times \mathbb{N} \big( \forall m\exists n\, mRn \rightarrow \exists \alpha \in \mathbb{N}^\mathbb{N} \forall m\, mR\alpha(m) \big). $$
 
-This scheme may be justified as follows. A proof of the premise should provide a method that given $m$ provides a number $n$ such that $mRn$. Thus the function $\alpha$ on the natural numbers $\mathbb{N}$ can be constructed step-by-step: first an element $m_0$ is chosen such that $0Rm_0$, which will be the value of $\alpha(0)$. Then an element $m_1$ is chosen such that $1Rm_1$, which will be the value of $\alpha(1)$, and so on.
+This scheme may be justified as follows. A proof of the premise should provide a method that given $m$ provides a number $n$ such that $mRn$. Thus the function *α* on the natural numbers $\mathbb{N}$ can be constructed step-by-step: first an element $m_0$ is chosen such that $0Rm_0$, which will be the value of $\alpha(0)$. Then an element $m_1$ is chosen such that $1Rm_1$, which will be the value of $\alpha(1)$, and so on.
 
 Several other choice axioms can be justified in a similar way. Only one more will be mentioned here, the axiom of dependent choice:
 
@@ -284,7 +284,7 @@ In (Scott 1968 and 1970)[^scott-1968][^scott-1970], a topological model for the 
 
 ### 5.3 Lawless sequences
 
-There exist axiomatizations of the lawless sequences, and they all contain extensions of the continuity axioms (Kreisel 1968, Troelstra 1977)[^kreisel-1968][^troelstra-1977]. In particular in the form of the Axiom of Open Data stating that for $A(\alpha)$ not containing other nonlawlike parameters besides $\alpha$:
+There exist axiomatizations of the lawless sequences, and they all contain extensions of the continuity axioms (Kreisel 1968, Troelstra 1977)[^kreisel-1968][^troelstra-1977]. In particular in the form of the Axiom of Open Data stating that for $A(\alpha)$ not containing other nonlawlike parameters besides *α*:
 
 $$ A(\alpha) \rightarrow \exists n \forall \beta \in \alpha (\overline{n}) A(\beta). $$
 
@@ -316,7 +316,7 @@ $$ \neg A \leftrightarrow \exists n \alpha_1(n) = 1 \ \ \ \ \neg\neg A \leftrigh
 
 Associate with these two sequences the real numbers $r_0$ and $r_1$, where for $i=0,1$:
 
-$$ r_i(n) = \begin{cases} 0 & \text{ if \(\alpha_i(n)\neq 1\)} \\ (-1)^i2^{-m} & \begin{align} &\text{if for some \(m\leq n\), \(\alpha_i(m)=1\) and } \\ & \text{for no \(k \lt m\), \(\alpha_i(k)=1.\)} \end{align} \end{cases} $$
+$$ r_i(n) = \begin{cases} 0 & \text{ if \(\alpha_i(n)\neq 1\)} \\ (-1)^i2^{-m} & $$\begin{align} &\text{if for some \(m\leq n\), \(\alpha_i(m)=1\) and } \\ & \text{for no \(k \lt m\), \(\alpha_i(k)=1.\)} \end{align}$$ \end{cases} $$
 
 Then for $r=r_0 + r_1$, statement $\neg A \vee \neg\neg A$ is implied by $(r\gt 0\vee r\lt 0)$, which shows that $(r\gt 0\vee r\lt 0)$ cannot be proved.
 

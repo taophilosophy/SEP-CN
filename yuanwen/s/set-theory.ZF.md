@@ -54,20 +54,20 @@ We may think of this as follows. Let us define *the union of x and y* (‘$x\cup
 
 Notice that the second element, $\{\varnothing \}$, is in this set because (1) the fact that $\varnothing$ is in the set implies that $\varnothing \cup \{\varnothing \}$ is in the set and (2) $\varnothing \cup \{\varnothing \}$ just is $\{\varnothing\}$. Similarly, the third element, $\{\varnothing,\{\varnothing\}\}$, is in this set because (1) the fact that $\{\varnothing\}$ is in the set implies that $\{\varnothing \} \cup\{\{\varnothing \}\}$ is in the set and (2) $\{\varnothing \} \cup \{\{\varnothing \}\}$ just is $\{\varnothing, \{\varnothing \}\}$. And so forth.
 
-Next is the *Separation Schema*, which is a formula-pattern that uses a metavariable (in this case $\psi$) to describe an infinite list of axioms – one axiom for each formula of the language of set theory with at least a free variable. Every instance of the Separation Schema asserts the existence of a set that contains the elements of a given set $w$ that satisfy a certain condition, which is given by a formula $\psi$. That is, suppose that $\psi(x,u_1,\ldots,u_k)$ is a formula of the language of set theory that has $x$ free and may or may not have $u_1,\ldots,u_k$ free. Then the Separation Schema for the condition $\psi$ asserts:
+Next is the *Separation Schema*, which is a formula-pattern that uses a metavariable (in this case *ψ*) to describe an infinite list of axioms – one axiom for each formula of the language of set theory with at least a free variable. Every instance of the Separation Schema asserts the existence of a set that contains the elements of a given set $w$ that satisfy a certain condition, which is given by a formula *ψ*. That is, suppose that $\psi(x,u_1,\ldots,u_k)$ is a formula of the language of set theory that has $x$ free and may or may not have $u_1,\ldots,u_k$ free. Then the Separation Schema for the condition *ψ* asserts:
 
 > **Separation**:
 > $\forall u_1 \ldots\forall u_k [\forall w\exists v\forall r(r\in v \leftrightarrow r\in w \land \psi(r,u_1,\ldots,u_k))]$
 
 In other words, given sets $w$ and $u_1,\ldots,u_k$, there exists a set $v$ which has as members precisely the members $r$ of $w$ which satisfy the formula $\psi(r,u_1,\ldots,u_k)$.
 
-Next is the *Replacement Schema*, which is also a formula-pattern that uses a metavariable (in this case $\phi$) to describe an infinite list of axioms -- one axiom for each formula of the language of set theory with at least two free variables. Suppose that $\phi(x,y,u_1,\ldots,u_k)$ is a formula with $x$ and $y$ free, and in which $u_1,\ldots u_k$ may or may not be free. Then the instance of the Replacement Schema given by $\phi(x,y,u_1,\ldots,u_k)$ is the following axiom:
+Next is the *Replacement Schema*, which is also a formula-pattern that uses a metavariable (in this case *φ*) to describe an infinite list of axioms -- one axiom for each formula of the language of set theory with at least two free variables. Suppose that $\phi(x,y,u_1,\ldots,u_k)$ is a formula with $x$ and $y$ free, and in which $u_1,\ldots u_k$ may or may not be free. Then the instance of the Replacement Schema given by $\phi(x,y,u_1,\ldots,u_k)$ is the following axiom:
 
 > **Replacement**:
 > $\forall u_1 \ldots\forall u_k [\forall x\exists!y\phi(x,y,u_1,\ldots u_k)\rightarrow$
 >   $\forall w\exists v\forall r(r\in v\leftrightarrow \exists s(s\in w \land \phi (s,r,u_1,\ldots u_k)))]$
 
-In other words, if we know that $\phi$ is a functional formula (which relates each set $x$ to a unique set $y$), then if we are given a set $w$, we can form a new set $v$ as follows: collect all of the sets to which the members of $w$ are uniquely related by $\phi$.
+In other words, if we know that *φ* is a functional formula (which relates each set $x$ to a unique set $y$), then if we are given a set $w$, we can form a new set $v$ as follows: collect all of the sets to which the members of $w$ are uniquely related by *φ*.
 
 Note that the Replacement Schema can take you ‘out of’ the set $w$ when forming the set $v$. The elements of $v$ need not be elements of $w$. By contrast, the Separation Schema of Zermelo only yields subsets of the given set $w$.
 

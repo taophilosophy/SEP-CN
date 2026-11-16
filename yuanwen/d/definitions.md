@@ -189,7 +189,7 @@ The traditional account makes possible simple logical rules for definitions and 
 
 $$\tag{10} \phi(x_{1},\ldots,x_{n}) \eqdf \psi(x_{1},\ldots, x_{n}), $$
 
-where $x_{1}$, …, $x_{n}$ are all the variables free in either $\phi$ or $\psi$. And let $\phi(t_{1},\ldots,t_{n})$ and $\psi(t_{1},\ldots,t_{n})$ result by the simultaneous substitution of terms $t_{1}$, …, $t_{n}$ for $x_{1}$, …, $x_{n}$ in, respectively, $\phi(x_{1},\ldots, x_{n})$ and $\psi(x_{1},\ldots, x_{n})$; changing bound variables as necessary. Then the rules of inference governing $\mathcal{D}$ are simply these:
+where $x_{1}$, …, $x_{n}$ are all the variables free in either *φ* or *ψ*. And let $\phi(t_{1},\ldots,t_{n})$ and $\psi(t_{1},\ldots,t_{n})$ result by the simultaneous substitution of terms $t_{1}$, …, $t_{n}$ for $x_{1}$, …, $x_{n}$ in, respectively, $\phi(x_{1},\ldots, x_{n})$ and $\psi(x_{1},\ldots, x_{n})$; changing bound variables as necessary. Then the rules of inference governing $\mathcal{D}$ are simply these:
 
 $$\begin{align*} \frac{\phi(t_1,\ldots,t_n)}{\psi(t_1,\ldots,t_n)}\,\,&\textbf{Definiendum Elimination} \\ & \\ \frac{\psi(t_1,\ldots,t_n)}{\phi(t_1,\ldots,t_n)}\,\,&\textbf{Definiendum Introduction} \end{align*}$$
 
@@ -259,7 +259,7 @@ The above viewpoint allows the traditional account to bring within its fold idea
 
 $$ \phi \eqdf \text{The True}, $$
 
-where $\phi$ is the conjunction of the members of $T^*$. (If $T^*$ is infinite then a stipulation of the above form will be needed for each sentence $\psi$ in $T^*$.)[^note-11] The definition is legitimate, according to the traditional account, so long as it meets the Conservativeness and Eliminability criteria. If it does meet these criteria, let us call $T^*$ *admissible* (*for a definition* *of X*). So, the traditional account accommodates the idea that theories can stipulatively introduce new terms, but it imposes a strong demand: the theories must be admissible.[^note-12]
+where *φ* is the conjunction of the members of $T^*$. (If $T^*$ is infinite then a stipulation of the above form will be needed for each sentence *ψ* in $T^*$.)[^note-11] The definition is legitimate, according to the traditional account, so long as it meets the Conservativeness and Eliminability criteria. If it does meet these criteria, let us call $T^*$ *admissible* (*for a definition* *of X*). So, the traditional account accommodates the idea that theories can stipulatively introduce new terms, but it imposes a strong demand: the theories must be admissible.[^note-12]
 
 Consider, for concreteness, the special case of classical first-order languages. Let the ground language $L$ be one such, and let its interpretations be models of some sentences $T$. Let us say that
 
@@ -277,7 +277,7 @@ Here is a simple and philosophically useful application of Padoa’s method. Sup
 
 $$ Tr(s) \leftrightarrow \psi, $$
 
-where $\psi$ is a sentence of $L$ and $s$ is the canonical name for the Gödel number of $\psi$. Padoa’s method implies that $\mathbf{H}$ is not admissible for defining $Tr$. For $\mathbf{H}$ does not fix the interpretation of $Tr$ in all interpretations of $L$. In particular, it does not do so in the standard model, for $\mathbf{H}$ places no constraints on the behavior of $Tr$ on those numbers that are not Gödel numbers of sentences. (If the coding renders each natural number a Gödel number of a sentence, then a non-standard model of Peano Arithmetic provides the requisite counterexample: it has infinitely many expansions that are models of $\mathbf{H}$.) A variant of this argument shows that Tarski’s theory of truth, as formulated in $L^{+}$, is not admissible for defining $Tr$.
+where *ψ* is a sentence of $L$ and $s$ is the canonical name for the Gödel number of *ψ*. Padoa’s method implies that $\mathbf{H}$ is not admissible for defining $Tr$. For $\mathbf{H}$ does not fix the interpretation of $Tr$ in all interpretations of $L$. In particular, it does not do so in the standard model, for $\mathbf{H}$ places no constraints on the behavior of $Tr$ on those numbers that are not Gödel numbers of sentences. (If the coding renders each natural number a Gödel number of a sentence, then a non-standard model of Peano Arithmetic provides the requisite counterexample: it has infinitely many expansions that are models of $\mathbf{H}$.) A variant of this argument shows that Tarski’s theory of truth, as formulated in $L^{+}$, is not admissible for defining $Tr$.
 
 What about the converse of Padoa’s method? Suppose we can show that in each interpretation of the ground language, a theory $T^*$ fixes a unique semantic value for the defined term. Can we conclude that $T^*$ is admissible? This question receives a negative answer for some semantical systems, and a positive answer for others. (In contrast, Padoa’s method works so long as the semantic system is not highly contrived.) The converse fails for, e.g., classical second-order languages, but it holds for first-order ones:
 
@@ -343,11 +343,11 @@ This definition is essentially circular; it is not reducible to one in normal fo
 
 In this theory, a circular definition imparts to the defined term a meaning that is *hypothetical* in character; the semantic value of the defined term is a *rule of revision*, not as with non-circular definitions, a *rule of application*. Consider (18) again. Like any definition, (18) fixes the interpretation of the definiendum *if* the interpretations of the non-logical constants in the definiens are given. The problem with (18) is that the defined term $G$ occurs in the definiens. But suppose that we arbitrarily assign to $G$ an interpretation—say we let it be the set $U$ of all objects in the universe of discourse (i.e., we suppose that $U$ is the set of objects that satisfy $G)$. Then it is easy to see that the definiens is true precisely of Socrates and Plato. The definition thus dictates that, under our hypothesis, the interpretation of $G$ should be the set $\{ \text{Socrates}, \text{Plato}\}$. A similar calculation can be carried out for any hypothesis about the interpretation of $G$. For example, if the hypothesis is $\{\text{Xenocrates}\}$, the definition yields the result $\{\text{Socrates}, \text{Aristotle}\}$. In short, even though (18) does not fix sharply what objects fall under $G$, it does yield a rule or function that, when given a hypothetical interpretation as an input, yields another one as an output. The fundamental idea of the revision theory is to view this rule as a *revision* rule: the output interpretation is better than the input one (or it is at least as good; this qualification will be taken as read). The semantic value that the definition confers on the defined term is not an extension—a demarcation of the universe of discourse into objects that fall under the defined term, and those that do not. The semantic value is a revision rule.
 
-The revision rule explains the behavior, both ordinary and extraordinary, of a circular concept. Let $\delta$ be the revision rule yielded by a definition, and let $V$ be an arbitrary hypothetical interpretation of the defined term. We can attempt to improve our hypothesis $V$ by repeated applications of the rule $\delta$. The resulting sequence,
+The revision rule explains the behavior, both ordinary and extraordinary, of a circular concept. Let *δ* be the revision rule yielded by a definition, and let $V$ be an arbitrary hypothetical interpretation of the defined term. We can attempt to improve our hypothesis $V$ by repeated applications of the rule *δ*. The resulting sequence,
 
 $$ V, \delta(V), \delta(\delta(V)), \delta(\delta(\delta(V))),\ldots, $$
 
-is a *revision sequence* *for* $\delta$. The totality of revision sequences for $\delta$, for all possible initial hypotheses, is the *revision process generated by* $\delta$. For example, the revision rule for (18) generates a revision process that consists of the following revision sequences, among others:
+is a *revision sequence* *for* *δ*. The totality of revision sequences for *δ*, for all possible initial hypotheses, is the *revision process generated by* *δ*. For example, the revision rule for (18) generates a revision process that consists of the following revision sequences, among others:
 
 $$ U, \{\text{Socrates}, \text{Plato}\}, \{\text{Socrates}, \text{Plato}, \text{Aristotle}\}, \{\text{Socrates}, \text{Plato}\},\ldots $$ $$ \{\text{Xenocrates}\}, \{\text{Socrates}, \text{Aristotle}\}, \{\text{Socrates}\}, \{\text{Socrates}, \text{Aristotle}\},\ldots $$
 
@@ -423,9 +423,9 @@ Russell’s theory is best thought of as providing a contextual *elimination* of
 
 [^note-12]: It is sometimes said that logical constants are *implicitly defined* by the logical laws, or by the logical rules, governing them. More specifically, it has been claimed that the “introduction and elimination” rules for a logical connective are *implicit definitions* of the connective. (The idea has its roots in the work of Gerhard Gentzen.) For example, the sentential connective ‘and’, it is claimed, is defined by following rules:
 
-**‘And’-Introduction**: From $\phi$ and $\psi$, one may infer ‘$\phi$ and $\psi$’;
+**‘And’-Introduction**: From *φ* and *ψ*, one may infer ‘*φ* and *ψ*’;
 
-**‘And’-Elimination**: From ‘$\phi$ and $\psi$’, one may infer $\phi$ and one may also infer $\psi$.
+**‘And’-Elimination**: From ‘*φ* and *ψ*’, one may infer *φ* and one may also infer *ψ*.
 
 These ideas invoke a notion of implicit definition that is quite different from the one under consideration here. Under the latter notion, *non-logical* constants are implicitly defined by a theory, and the interpretation of logical constants is held fixed. The interpretation of the logical constants provides the scaffolding, so to speak, for making sense of implicit definitions. Under the former notion, the scaffolding is plainly different. For further discussion, see the entry on logical constants and the works cited there.
 

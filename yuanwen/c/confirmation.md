@@ -96,7 +96,7 @@ To overcome the latter difficulty, Clark Glymour (1980a)[^glymour-1980a] embedde
 2. $e$ *directly Hempel-disconfirms* $h$ *relative to* $k$ if and only if $e\wedge \alpha \vDash dev_{e}(\neg h)$; $e$ *Hempel-disconfirms* $h$ *relative to* $k$ if and only if, for some $s\in \bL, e\wedge k \vDash dev_{e}(s)$ and $s\wedge k \vDash \neg h$;
 3. $e$ *is Hempel-neutral* for $h$ *relative to* $k$ otherwise.
 
-One can see that in the above definition $\alpha$ includes the $e$-development of further general auxiliary hypotheses (in fact, equations as applied to specific established values, in typical examples from Glymour 1980a)[^glymour-1980a], where such hypotheses are meant to be conjoined in a single statement $k$ for convenience. This implies that the only terms occurring (non-vacuously) in $\alpha$ are individual constants already occurring (non-vacuously) in $e$. For an empty $k$ (that is, tautologous: $k = \top$), $\alpha$ must be empty too, and the original (restricted) definition of Hempelian confirmation applies. As for the proviso that $k \not\vDash h$, it rules out undesired cases of circularity—akin to so-called “macho” bootstrap confirmation, as discussed in Earman and Glymour 1988 (for more on Glymour’s theory and its implications, see Douven and Meijs 2006, and references therein)[^douven-2006].
+One can see that in the above definition *α* includes the $e$-development of further general auxiliary hypotheses (in fact, equations as applied to specific established values, in typical examples from Glymour 1980a)[^glymour-1980a], where such hypotheses are meant to be conjoined in a single statement $k$ for convenience. This implies that the only terms occurring (non-vacuously) in *α* are individual constants already occurring (non-vacuously) in $e$. For an empty $k$ (that is, tautologous: $k = \top$), *α* must be empty too, and the original (restricted) definition of Hempelian confirmation applies. As for the proviso that $k \not\vDash h$, it rules out undesired cases of circularity—akin to so-called “macho” bootstrap confirmation, as discussed in Earman and Glymour 1988 (for more on Glymour’s theory and its implications, see Douven and Meijs 2006, and references therein)[^douven-2006].
 
 ## 2. Hypothetico-deductivism
 
@@ -262,7 +262,7 @@ The point of qualitative $F$-confirmation is thus straightforward: $h$ is said t
 
 The ordinal notion of confirmation is of high theoretical significance because ordinal divergences, unlike purely quantitative differences, imply opposite comparative judgments for some evidence-hypothesis pairs. A refinement from the ordinal to a properly quantitative level is also be of interest, however, and much useful for tractability and applications. For example, one can have 0 as a convenient neutrality threshold for confirmation as firmness, provided that the following functional representation is adopted (see Peirce 1878 for an early occurrence)[^peirce-1878]:
 
-\begin{align} F(h,e\mid k) & = \log\left[\frac{P(h\mid e \wedge k)}{P(\neg h\mid e \wedge k)}\right] \\ & = \log Odds(h\mid e \wedge k) \end{align}
+$$\begin{align} F(h,e\mid k) & = \log\left[\frac{P(h\mid e \wedge k)}{P(\neg h\mid e \wedge k)}\right] \\ & = \log Odds(h\mid e \wedge k) \end{align}$$
 
 (The base of the logarithm can be chosen at convenience, as long as it is strictly greater than 1.)
 

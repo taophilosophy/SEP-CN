@@ -73,7 +73,7 @@ The relations in a game structure, which are relative to individual players (and
 
 The following paragraph collects the background technical notions needed to interpret the modal languages used in this entry. The reader already acquainted with modal logic can skip it. For a more in depth exploration one can consult the related entry on modal logic. Well-known classic textbooks are *Modal Logic: An Introduction* (Chellas 1980)[^chellas-1980], which focuses on non-normal modal logics, and *Modal Logic* (Blackburn *et al*. 2001)[^blackburn-2001], which focuses instead on a more mathematical treatment of normal modal logics.[^note-2]
 
-**Modal Logic: background notions:** The language of a **modal logic** is an extension of the language of propositional logic with a set of modal operators $\Box_1,\ldots , \Box_n, \ldots$, defined on a countable set of atomic propositions $\texttt{Atoms}=\{p_1,p_2, \ldots \}$, over which the set of *well-formed formulas* is inductively built (for a mathematical treatment of logic and induction see for instance Dalen 1980)[^dalen-1980]. Each well-formed formula $\varphi$ of a modal language $\mathcal{L}$, henceforth simply called *formula*, is constructed using the following grammar:
+**Modal Logic: background notions:** The language of a **modal logic** is an extension of the language of propositional logic with a set of modal operators $\Box_1,\ldots , \Box_n, \ldots$, defined on a countable set of atomic propositions $\texttt{Atoms}=\{p_1,p_2, \ldots \}$, over which the set of *well-formed formulas* is inductively built (for a mathematical treatment of logic and induction see for instance Dalen 1980)[^dalen-1980]. Each well-formed formula *φ* of a modal language $\mathcal{L}$, henceforth simply called *formula*, is constructed using the following grammar:
 
 $$\varphi ::= p \mid \lnot\varphi\mid\varphi \wedge \varphi \mid \Box_i \varphi$$
 
@@ -85,11 +85,11 @@ As a general convention, a multimodal language with modalities $\Box_1$, …, $\
 
 $$\begin{align*} M,w&\models p &\mbox{ if and only if }& w \in V(p)\\ M,w&\models \neg\varphi &\mbox{ if and only if }& M,w\not\models\varphi \\ M,w&\models \varphi\land\psi &\mbox{ if and only if }& M,w\models\varphi \mbox{ and } M,w\models\psi \\ M,w&\models \Box_i \varphi &\mbox{ if and only if }& \varphi^M\in R_i(w) \\ \end{align*} $$
 
-where $\varphi^{M}=\{w \in W \mid M,w \models \varphi\}$ is called the **truth set** or the **extension** of $\varphi$.
+where $\varphi^{M}=\{w \in W \mid M,w \models \varphi\}$ is called the **truth set** or the **extension** of *φ*.
 
-A formula $\varphi$ of a modal language: **holds at a state** $w$ of model $M$ whenever $M,w \models \varphi$; is **valid in a model** $M$, denoted $\models_{M} \varphi$, if and only if $M,w \models \varphi$ for every $w \in W$, where $W$ is the domain of $M$; is **valid in a class of models** $\mathcal{M}$, denoted $\models_{\mathcal{M}} \varphi$, if and only if it is valid in every $M \in \mathcal{M}$; is **valid in a frame** ${F}$ (a model without a valuation function), denoted $\models_{{F}} \varphi$, if and only if for every valuation $V$ we have that $\models_{(F,V)} \varphi$; is **valid in a class of frames** $\mathcal{F}$, denoted $\models_{\mathcal{F}} \varphi$, if and only if it is valid in every $F \in \mathcal{F}$.
+A formula *φ* of a modal language: **holds at a state** $w$ of model $M$ whenever $M,w \models \varphi$; is **valid in a model** $M$, denoted $\models_{M} \varphi$, if and only if $M,w \models \varphi$ for every $w \in W$, where $W$ is the domain of $M$; is **valid in a class of models** $\mathcal{M}$, denoted $\models_{\mathcal{M}} \varphi$, if and only if it is valid in every $M \in \mathcal{M}$; is **valid in a frame** ${F}$ (a model without a valuation function), denoted $\models_{{F}} \varphi$, if and only if for every valuation $V$ we have that $\models_{(F,V)} \varphi$; is **valid in a class of frames** $\mathcal{F}$, denoted $\models_{\mathcal{F}} \varphi$, if and only if it is valid in every $F \in \mathcal{F}$.
 
-We can view a *modal logic* as the set of formulas $\Delta_{\mathcal{M}}$($\Delta_{\mathcal{F}}$) that are valid in a given class of models $\mathcal{M}$ (frames $\mathcal{F}$). For a set of formulas $\Sigma$, we write $M,w \models \Sigma$ to say that $M,w \models \sigma$, for all $\sigma\in \Sigma$. We say that a set of formulas (globally) **semantically entails** a formula $\varphi$ in a class of models $\mathcal{M}$, denoted $\Sigma \models_{\mathcal{M}} \varphi$, if for every $M \in \mathcal{M}$we have that $\models_{M} \Sigma$ implies $\models_{M} \varphi$. When $\mathcal{F}$ is a class of frames, $\Sigma \models_{\mathcal{F}} \phi$ means that $\Sigma \models_{\mathcal{M}} \phi$ where $\mathcal{M}$ is the set of models based on frames in $\mathcal{F}$.
+We can view a *modal logic* as the set of formulas $\Delta_{\mathcal{M}}$($\Delta_{\mathcal{F}}$) that are valid in a given class of models $\mathcal{M}$ (frames $\mathcal{F}$). For a set of formulas $\Sigma$, we write $M,w \models \Sigma$ to say that $M,w \models \sigma$, for all $\sigma\in \Sigma$. We say that a set of formulas (globally) **semantically entails** a formula *φ* in a class of models $\mathcal{M}$, denoted $\Sigma \models_{\mathcal{M}} \varphi$, if for every $M \in \mathcal{M}$we have that $\models_{M} \Sigma$ implies $\models_{M} \varphi$. When $\mathcal{F}$ is a class of frames, $\Sigma \models_{\mathcal{F}} \phi$ means that $\Sigma \models_{\mathcal{M}} \phi$ where $\mathcal{M}$ is the set of models based on frames in $\mathcal{F}$.
 
 A modal rule
 
@@ -259,7 +259,7 @@ $$M,w\models [C]\varphi \enskip\textrm{if and only if}\enskip \varphi^M\in E_w(C
 
 where, $\varphi^M = \{w\in W \mid M,w\models\varphi\}$.
 
-Intuitively $\varphi^M\in E_w(C)$ means that coalition $C$ is able to achieve property $\varphi$.
+Intuitively $\varphi^M\in E_w(C)$ means that coalition $C$ is able to achieve property *φ*.
 
 As closure under superset, or **outcome monotonicity**, is taken to be a property of all effectivity functions, the rule of monotonicity is valid in Coalition Logic, which is therefore a monotonic modal logic (Hansen 2003)[^hansen-2003].
 
@@ -267,7 +267,7 @@ The rule of monotonicity takes this form for each $C\subseteq N$:
 
 $$\frac{\varphi \to \psi}{[C]\varphi \to [C]\psi}$$
 
-Intuitively, if $C$ is able to achieve $\varphi$ and we have that $\varphi$ implies $\psi$, then $C$ is also able to achieve $\psi$.
+Intuitively, if $C$ is able to achieve *φ* and we have that *φ* implies *ψ*, then $C$ is also able to achieve *ψ*.
 
 **Mathematical properties of power** Apart from outcome monotonicity, many other properties can be deemed necessary to model coalitional power in games. For instance an effectivity function typically has the following properties:
 
@@ -305,7 +305,7 @@ Correspondence results allow us to distinguish by modal means a number of classe
 
 Along these lines, the following result tells us that Coalition Logic is also strong enough to reason about (or, if you prefer, too weak to distinguish) truly playable effectivity functions.
 
-**Theorem 8.** (Goranko *et al*. 2013)[^goranko-2013] Let $\mathcal{P}$ be the class of playable frames and $\mathcal{P}^{*}$ the class of truly playable ones. Then, for every formula of Coalition Logic $\varphi$
+**Theorem 8.** (Goranko *et al*. 2013)[^goranko-2013] Let $\mathcal{P}$ be the class of playable frames and $\mathcal{P}^{*}$ the class of truly playable ones. Then, for every formula of Coalition Logic *φ*
 
 $$\models_\mathcal{P} \varphi \textrm{ if and only if } \models_{\mathcal{P}^{*}} \varphi$$
 
@@ -427,21 +427,21 @@ However, suppose that the second round is such that everyone but Belgium stick t
 
 Looking at the unified treatment of our example, there seem to be relationship between non-cooperative games and cooperative games. This relationship can be specified formally.
 
-Let us first consider what a group of players can do in a game. To do so we define the **$\alpha$-effectivity function**, a mathematical description of coalitional strategies in a game in terms of the sets outcomes that they can force.
+Let us first consider what a group of players can do in a game. To do so we define the ***α*-effectivity function**, a mathematical description of coalitional strategies in a game in terms of the sets outcomes that they can force.
 
-**Definition 12.** [$\alpha$-effectivity function] Let $S$ be a non-cooperative game. We define the $\alpha$ effectivity function of $S$, $E^{\alpha}_S(C)$, where $\overline{C}$ is the complement of $C$:
+**Definition 12.** [*α*-effectivity function] Let $S$ be a non-cooperative game. We define the *α* effectivity function of $S$, $E^{\alpha}_S(C)$, where $\overline{C}$ is the complement of $C$:
 
 $E^{\alpha}_S(C)= \{X\ \mid$ there exists $\sigma_C$ such that for all $\sigma'_{\overline{C}}$ we have that $o(\sigma_C,\sigma'_{\overline{C}})\in X \}$
 
-Intuitively the $\alpha$-effectivity function of $S$ collects, for every group of players, the set of outcomes that they can achieve by fixing a strategy of theirs, no matter how their opponents play.
+Intuitively the *α*-effectivity function of $S$ collects, for every group of players, the set of outcomes that they can achieve by fixing a strategy of theirs, no matter how their opponents play.
 
 The following result shows the relationship between strategies and effectivity functions.
 
-**Theorem 13** (Goranko *et al*. 2013)[^goranko-2013]. An effectivity function is truly playable if and only if it is the $\alpha$-effectivity function of some non-cooperative game.
+**Theorem 13** (Goranko *et al*. 2013)[^goranko-2013]. An effectivity function is truly playable if and only if it is the *α*-effectivity function of some non-cooperative game.
 
 This is a generalization of the result in Peleg 1998 for finite games, starting from models of non-cooperative games first defined in Pauly 2001. In a nutshell what these results imply is the following.
 
-**Proposition 14.** Let $F$ be a relational game structure. Then $E_w$ is the $\alpha$-effectivity function of some non-cooperative game, for each $w \in W$, if and only if the following formulas are valid in $F$ for disjoint $C,C^{\prime}$:
+**Proposition 14.** Let $F$ be a relational game structure. Then $E_w$ is the *α*-effectivity function of some non-cooperative game, for each $w \in W$, if and only if the following formulas are valid in $F$ for disjoint $C,C^{\prime}$:
 
 - $\varphi \to \psi \models_F [C]\varphi \to [C]\psi$
 - $\models_F [C] \top$
@@ -451,7 +451,7 @@ This is a generalization of the result in Peleg 1998 for finite games, starting 
 
 In the same way we did for cooperative games, we can ask ourselves whether an outcome is stable, or rational, in a strategic situation.
 
-**Nash equilibrium and definability** The main solution concept to analyze non-cooperative games is Nash equilibrium. Informally a Nash equilibrium is a collection of strategies, one per player, such that no player is interested to change his or her strategy, given the others stick to theirs. Formally, a strategy profile $\sigma$ is a (pure strategy) **Nash equilibrium** if for all players $i\in N$ and for all $\sigma'_i\in \Sigma_i$ we have that
+**Nash equilibrium and definability** The main solution concept to analyze non-cooperative games is Nash equilibrium. Informally a Nash equilibrium is a collection of strategies, one per player, such that no player is interested to change his or her strategy, given the others stick to theirs. Formally, a strategy profile *σ* is a (pure strategy) **Nash equilibrium** if for all players $i\in N$ and for all $\sigma'_i\in \Sigma_i$ we have that
 
 $$o(\sigma_i,\sigma_{-i}) \succeq_i o(\sigma'_i,\sigma_{-i})$$
 
@@ -486,11 +486,11 @@ Then the best response for $i$ is defined as $ \langle \approx_i \cap \succ_i \r
 
 The general definition of non-cooperative games given above allows games where two different strategy profiles lead to the same outcome, i.e., where $o(\sigma) = o(\sigma')$ for $\sigma \neq \sigma'$- where the outcome function is not *injective*. However in game theory injectivity is very often implicitly or explicitly assumed. Indeed, outcomes are often identified with strategy profiles.
 
-It is thus a natural question what happens to Coalition Logic when we restrict non-cooperative games to be injective. The answer is that, first, not much: the language of Coalition Logic cannot discern between injective and non-injective games (Goranko *et al*. 2006)[^goranko-2006]. But, second, the class of effectivity functions changes: not all truly playable effectivity functions are $\alpha$-effectivity functions of injective games.
+It is thus a natural question what happens to Coalition Logic when we restrict non-cooperative games to be injective. The answer is that, first, not much: the language of Coalition Logic cannot discern between injective and non-injective games (Goranko *et al*. 2006)[^goranko-2006]. But, second, the class of effectivity functions changes: not all truly playable effectivity functions are *α*-effectivity functions of injective games.
 
 Recall the *well-foundedness* property of effectivity functions: if $X \in E(N)$then $\{x\} \in E(N)$ for some $x \in X$. This is in fact equivalent (Goranko *et al*. 2013)[^goranko-2013] to the property that $E(\emptyset)$ has a *complete non-monotonic core*. The non-monotonic core $E^{nc}(C)$of $E(C)$ its minimal elements: $E^{nc}(C) = \{X \in E(C) : \neg \exists Y (Y \in E(C) \text{ and } Y \subset X\}$. The non-monotonic core is *complete* if and only if for every $X \in E(C)$ there is a $Y \in E^{nc}(C)$ such that $Y \subseteq X$. While true playability implies that the non-monotonic core for the empty coalition is complete, that is not the case for arbitrary coalitions.
 
-It is, however, for injective games: in addition to the true playability properties, the $\alpha$-effectivity functions of injective games have a complete non-monotonic core for *all coalitions*. In addition, the non-monotonic core has some structural properties. In more detail, we say that an effectivity function $E$ is *injectively playable* (Ågotnes and Alechina 2015)[^ågotnes-2015] iff it is truly playable and has the following additional properties, for all $C, i, j, X, Y$:
+It is, however, for injective games: in addition to the true playability properties, the *α*-effectivity functions of injective games have a complete non-monotonic core for *all coalitions*. In addition, the non-monotonic core has some structural properties. In more detail, we say that an effectivity function $E$ is *injectively playable* (Ågotnes and Alechina 2015)[^ågotnes-2015] iff it is truly playable and has the following additional properties, for all $C, i, j, X, Y$:
 
 - $E(C)$ has a complete non-monotonic core;
 - $E^{nc}(C) = \{\bigcap_{i \in C} X_i : X_i \in E^{nc}(\{i\})\}$ when $C \neq \emptyset$;
@@ -499,7 +499,7 @@ It is, however, for injective games: in addition to the true playability propert
 
 It follows that $E(C)$ is completely determined by its non-monotonic core.
 
-**Theorem 15.** (Ågotnes and Alechina 2015)[^ågotnes-2015] An effectivity function is injectively playable if and only if it is the $\alpha$-effectivity function of some injective non-cooperative game.
+**Theorem 15.** (Ågotnes and Alechina 2015)[^ågotnes-2015] An effectivity function is injectively playable if and only if it is the *α*-effectivity function of some injective non-cooperative game.
 
 *Intersection* plays a key role in the effectivity of coalitions in games: intuitively, the power of a coalition is the intersection of the power of the individuals in the coalition. A natural idea then, due to van Benthem 2012, is that coalitional power could perhaps be expressed by using *intersection* *modalities*. This is indeed the case, in the following precise sense (Ågotnes and Alechina 2015)[^ågotnes-2015]: there is a satsifiability preserving translation from Coalition Logic to Propositional Dynamic Logic with Intersection (Gargov *et al*. 1988)[^gargov-1988]. This translation relies on the fact that for every non-injective game there is a (Coalition Logic) equivalent injective game.
 
@@ -533,17 +533,17 @@ Consequentialist logics have been developed to reason about action and consequen
 
 #### 3.2.3 Quantified and Higher-order Coalition Logic
 
-Many interesting properties of power in games involve quantifying over coalitions, for example the notion of agent $i$ being a *weak veto player* (Wooldridge and Dunne 2004)[^dunne-2004][^wooldridge-2004] with respect to $\phi$, in the sense that any coalition that can enforce $\phi$ must include $i$, or, in some first or higher-order extension of Coalition Logic: $\forall C ([C]\phi \rightarrow i \in C)$. *Quantified Coalition Logic (QCL)* (Ågotnes *et al*. 2008)[^ågotnes-2008] extends Coalition Logic with a limited form of quantification over coalitions, without making the resulting logic undecidable or indeed increasing the computational complexity of the satisfiability problem. In QCL coalitions inside modalities are replaced with coalition predicates. Intuitively, $[P]\phi$ ($\langle P \rangle \phi$) means that any (some) coalition satisfying the predicate $P$ has the ability to enforce $\phi$. As an example, $i$ is a weak veto player for $\phi$:
+Many interesting properties of power in games involve quantifying over coalitions, for example the notion of agent $i$ being a *weak veto player* (Wooldridge and Dunne 2004)[^dunne-2004][^wooldridge-2004] with respect to *φ*, in the sense that any coalition that can enforce *φ* must include $i$, or, in some first or higher-order extension of Coalition Logic: $\forall C ([C]\phi \rightarrow i \in C)$. *Quantified Coalition Logic (QCL)* (Ågotnes *et al*. 2008)[^ågotnes-2008] extends Coalition Logic with a limited form of quantification over coalitions, without making the resulting logic undecidable or indeed increasing the computational complexity of the satisfiability problem. In QCL coalitions inside modalities are replaced with coalition predicates. Intuitively, $[P]\phi$ ($\langle P \rangle \phi$) means that any (some) coalition satisfying the predicate $P$ has the ability to enforce *φ*. As an example, $i$ is a weak veto player for *φ*:
 
 $$ \neg \langle \neg supseteq(\{i\})\rangle \phi $$
 
-– it is not the case that any coalition that is not a superset of $\{i\}$ has the power to enforce $\phi$. Or that $i$ is a *dictator* for $\phi$: $\neg \langle \neg supseteq(\{i\})\rangle \phi \wedge [supseteq(\{i\})]\phi$*.* Such properties, and indeed all properties that can be expressed in QCL, can already be expressed in Coalition Logic, by using disjunction and conjunction to quantify over coalitions, but those expressions would typically be exponentially long in the number of agents. QCL can express such properties concisely, and indeed is exponentially more succinct than Coalition Logic. QCL can also be further extended with Belief-Intention-Desire (BDI) logic (Chen *et al*. 2014)[^chen-2014] without increasing complexity.
+– it is not the case that any coalition that is not a superset of $\{i\}$ has the power to enforce *φ*. Or that $i$ is a *dictator* for *φ*: $\neg \langle \neg supseteq(\{i\})\rangle \phi \wedge [supseteq(\{i\})]\phi$*.* Such properties, and indeed all properties that can be expressed in QCL, can already be expressed in Coalition Logic, by using disjunction and conjunction to quantify over coalitions, but those expressions would typically be exponentially long in the number of agents. QCL can express such properties concisely, and indeed is exponentially more succinct than Coalition Logic. QCL can also be further extended with Belief-Intention-Desire (BDI) logic (Chen *et al*. 2014)[^chen-2014] without increasing complexity.
 
 *Higher-order Coalition Logic (HCL)* (Boella *et al*. 2010)[^boella-2010] extends QCL with to a monadic second-order language, unifying the languages for describing coalitions and for describing their power and significantly extending the expressive power. Expressive tractable fragments of HCL exist (Doherty *et al*. 2011)[^doherty-2011].
 
 #### 3.2.4 Probabilities and Resource Bounds
 
-As we have seen, the (truly playable) effectivity functions of Coalition Logic correspond to games where a joint strategy profile for the set of all agents uniquely determines the outcome. Colition Logic can be modified in several ways (Naumov *et al*. 2021)[^naumov-2021] to deal with *stochastic games*, i.e., where such a profile only determines a probability distribution over the set of possible outcomes. Having modalities $[C]_p \phi$ interpreted as "$C$ can enforce $\phi$ with probability $p$" leads to interesting and non-trivial (in)valid properties, such as the following variant of superadditivity $(C \cap C' = \emptyset)$
+As we have seen, the (truly playable) effectivity functions of Coalition Logic correspond to games where a joint strategy profile for the set of all agents uniquely determines the outcome. Colition Logic can be modified in several ways (Naumov *et al*. 2021)[^naumov-2021] to deal with *stochastic games*, i.e., where such a profile only determines a probability distribution over the set of possible outcomes. Having modalities $[C]_p \phi$ interpreted as "$C$ can enforce *φ* with probability $p$" leads to interesting and non-trivial (in)valid properties, such as the following variant of superadditivity $(C \cap C' = \emptyset)$
 
 $$ [C]_p(\phi\rightarrow \psi) \rightarrow ([C']_q \phi \rightarrow [C \cup C']_{max\{p,q\}} \psi) $$
 
@@ -553,49 +553,49 @@ $$ [N]_{p+q+r}(\phi \vee \psi\vee \sigma) \rightarrow [N]_{2p}(\phi \vee \psi) \
 
 (where $N$ is the set of all agents) is valid.
 
-As an alternative to stochastic transitions, games with stochastic *failures* can be considerered, which from a logical viewpoint are somewhat easier to deal with (Naumov *et al*. 2021)[^naumov-2021]. Interpreting $[C]_p \phi$ as "$C$ can has a joint strategy to ensure that $\phi$ is true in each outcome and which is guaranteed not to fail with probability at least $p$ no matter what the other agents do", we get, e.g., that the variant of the superadditivity axiom mentioned above holds.
+As an alternative to stochastic transitions, games with stochastic *failures* can be considerered, which from a logical viewpoint are somewhat easier to deal with (Naumov *et al*. 2021)[^naumov-2021]. Interpreting $[C]_p \phi$ as "$C$ can has a joint strategy to ensure that *φ* is true in each outcome and which is guaranteed not to fail with probability at least $p$ no matter what the other agents do", we get, e.g., that the variant of the superadditivity axiom mentioned above holds.
 
-*Resource bounds* have also been added to coalitional modalities, interpreted in coalition models corresponding to games with costs on performing joint actions (Alechina *et al*. 2009). Here, $[C^b]\phi$ means that $C$ can force $\phi$ to be true under resource bound $b$, i.e., that they can chose a joint action costing at most $b$ that will ensure that $\phi$ is true. These modalities satisfy the following variant of superadditivity $(C \cap D = \emptyset, C \neq \emptyset, D \neq \emptyset)$:
+*Resource bounds* have also been added to coalitional modalities, interpreted in coalition models corresponding to games with costs on performing joint actions (Alechina *et al*. 2009). Here, $[C^b]\phi$ means that $C$ can force *φ* to be true under resource bound $b$, i.e., that they can chose a joint action costing at most $b$ that will ensure that *φ* is true. These modalities satisfy the following variant of superadditivity $(C \cap D = \emptyset, C \neq \emptyset, D \neq \emptyset)$:
 
 $$ [C^b]\phi \wedge [D^d]\psi \rightarrow [(C \cup D)^{b+d}](\phi \wedge \psi). $$
 
 #### 3.2.5 Conditional Power and Coordination
 
-From the viewpoints of truly playable effectivity functions and Coalition Logic, two games are equivalent if coalitions have the same power as defined by $\alpha$-effectivity. Van Benthem *et al*. 2019 point out, however, that there are meaningful differences between games with same $\alpha$-effectivity, due to *monotonicity*: $\{w,v\} \in E(C)$ might be the case for two different reasons. First, it might be that there is a joint action by $C$ such that there is a joint action by the other agents such that the outcome will be $w$ *and* there is another joint action by the other agents such that the outcome will be $v$, or, second, it might be that that is true for only $w$ *or* $v$ (in which case $\{w\} \in E(C)$ or $\{v\} \in E(C)$). The first kind of power is called *basic* power by van Benthem *et al*. 2019, who characterise the properties of effectivity functions of basic power in the two-agent case and gives a sound and complete axiomatisation using a variant of Instantial Neighbourhood Logic (INL) (van Benthem *et al*. 2010) which again is an extension of standard modal logic with neighborhood semantics. One significance of basic power is that it captures all the outcome sets in which the other players are free to chose any state, given the choice of one of those outcome states for some coalition.
+From the viewpoints of truly playable effectivity functions and Coalition Logic, two games are equivalent if coalitions have the same power as defined by *α*-effectivity. Van Benthem *et al*. 2019 point out, however, that there are meaningful differences between games with same *α*-effectivity, due to *monotonicity*: $\{w,v\} \in E(C)$ might be the case for two different reasons. First, it might be that there is a joint action by $C$ such that there is a joint action by the other agents such that the outcome will be $w$ *and* there is another joint action by the other agents such that the outcome will be $v$, or, second, it might be that that is true for only $w$ *or* $v$ (in which case $\{w\} \in E(C)$ or $\{v\} \in E(C)$). The first kind of power is called *basic* power by van Benthem *et al*. 2019, who characterise the properties of effectivity functions of basic power in the two-agent case and gives a sound and complete axiomatisation using a variant of Instantial Neighbourhood Logic (INL) (van Benthem *et al*. 2010) which again is an extension of standard modal logic with neighborhood semantics. One significance of basic power is that it captures all the outcome sets in which the other players are free to chose any state, given the choice of one of those outcome states for some coalition.
 
 Several extensions of the Coalition Logic language have also been developed to reason about conditional and inter-related power between agents and coalitions, typically combining existential and universal quantification over choices. Goranko and Enqvist 2018 introduce extended coalition operators of the form
 
 $$ [C](\phi; \psi_1, \ldots, \psi_k) $$
 
-with the intuitive meaning that $C$ has the power to make $\phi$ true while at the same time making it possible that the other agents at the same time can achieve any of the objectives $\psi_1,\ldots, \psi_k$. The resulting logic can also be seen as a multi-agent extension of INL. Goranko and Enqvist 2018 also introduce operators of the form
+with the intuitive meaning that $C$ has the power to make *φ* true while at the same time making it possible that the other agents at the same time can achieve any of the objectives $\psi_1,\ldots, \psi_k$. The resulting logic can also be seen as a multi-agent extension of INL. Goranko and Enqvist 2018 also introduce operators of the form
 
 $$ [C_1\triangleright\phi_1, \ldots, C_n\triangleright \phi_n] $$
 
 with the intuitive meaning that the coalition $C = C_1 \cup \cdots C_n$ has a joint strategy such that, for each $i$, the restriction of that joint strategy to coalition $C_i$ enforces objective $\phi_i$.
 
-Goranko and Ju 2022 notice that the latter type of operator can be used to express a certain kind of *conditional* power, namely $[A \triangleright \phi, A \cup B \triangleright \psi]$, intuitively saying that $A$ have a joint action that enforces $\phi$ while at the same time enables $B$ to apply a joint action that will enforce $\psi$. They also introduce two additional conditional power modalities:
+Goranko and Ju 2022 notice that the latter type of operator can be used to express a certain kind of *conditional* power, namely $[A \triangleright \phi, A \cup B \triangleright \psi]$, intuitively saying that $A$ have a joint action that enforces *φ* while at the same time enables $B$ to apply a joint action that will enforce *ψ*. They also introduce two additional conditional power modalities:
 
 $$ [A]_\alpha(\phi; \langle B\rangle\psi) \text{ and } [A]_\beta(\phi; \langle B\rangle\psi) $$
 
-where the former says that $B \setminus A$ have a joint strategy such that if $A$ applies any action that ensures $\phi$, then that joint strategy (by $B\setminus A$) at the same time ensures $\psi$, and the latter that for any joint action by $A$ that enforces $\phi$ there is a consistent joint action by $B$ that at the same time enforces $\psi$. These notions of power correspond to $\alpha$- and $\beta$- effectivity, respectively.
+where the former says that $B \setminus A$ have a joint strategy such that if $A$ applies any action that ensures *φ*, then that joint strategy (by $B\setminus A$) at the same time ensures *ψ*, and the latter that for any joint action by $A$ that enforces *φ* there is a consistent joint action by $B$ that at the same time enforces *ψ*. These notions of power correspond to *α*- and *β*- effectivity, respectively.
 
-Coordination is an issue not only between different coalitions, but also between the agents in the coalition $C$ in the interpretation of $[C]\phi$. In Coalition Logic it is implicitly assumed, like it often is (Schelling 1960)[^schelling-1960], that the agents in $C$ somehow can coordinate their actions to achieve the outcome $\phi$. Hawke 2017 introduces a new variant of the coalition modalities that captures a stronger notion of coalitional ability, relaxes the assumption about coordination (in the case of two agents). Contrary to $[C],$ these new modalities $((C))$ are not monotonic.
+Coordination is an issue not only between different coalitions, but also between the agents in the coalition $C$ in the interpretation of $[C]\phi$. In Coalition Logic it is implicitly assumed, like it often is (Schelling 1960)[^schelling-1960], that the agents in $C$ somehow can coordinate their actions to achieve the outcome *φ*. Hawke 2017 introduces a new variant of the coalition modalities that captures a stronger notion of coalitional ability, relaxes the assumption about coordination (in the case of two agents). Contrary to $[C],$ these new modalities $((C))$ are not monotonic.
 
 #### 3.2.6 Dynamic Coalition Logic
 
-Inspired by the model update semantics of dynamic epistemic logic, Coalition Logic has been extended in several ways with dynamic modalities modeling changes in the ability of coalitions in different ways. Broersen, Meyer and Turrini 2009 add expressions of the form $[C \downarrow \psi]\phi$ with the intuitive meaning that after $C$ chooses $\psi$, $\phi$ holds. Ågotnes and Galimullin 2021 add modalities for adding and removing actions and ability, inspired by arrow update logic: $[(\phi,a,\psi)^+]\gamma$ intuitively means that after the coalition model is updated by, in each $\phi$-state, adding a new action for agent $a$ such that no matter what the other agents do that action will guarantee $\psi$, then $\gamma$ holds. There are similar modalities for removing ability. Ågotnes and Galimullin 2023 extend Coalition Logic with more general and expressive modalities for *coalitional action models*, inspired by epistemic action models.
+Inspired by the model update semantics of dynamic epistemic logic, Coalition Logic has been extended in several ways with dynamic modalities modeling changes in the ability of coalitions in different ways. Broersen, Meyer and Turrini 2009 add expressions of the form $[C \downarrow \psi]\phi$ with the intuitive meaning that after $C$ chooses *ψ*, *φ* holds. Ågotnes and Galimullin 2021 add modalities for adding and removing actions and ability, inspired by arrow update logic: $[(\phi,a,\psi)^+]\gamma$ intuitively means that after the coalition model is updated by, in each *φ*-state, adding a new action for agent $a$ such that no matter what the other agents do that action will guarantee *ψ*, then *γ* holds. There are similar modalities for removing ability. Ågotnes and Galimullin 2023 extend Coalition Logic with more general and expressive modalities for *coalitional action models*, inspired by epistemic action models.
 
 #### 3.2.7 Logic-Based Games
 
 In many situations agents have control over certain propositional variables (Hoek & Wooldridge 2005)[^hoek-2005], for instance they can be responsible for traffic flow or they can veto a certain issue. Variables can also be shared (Gerbrandy 2006)[^gerbrandy-2006], an example being voting, where players share control over a variable whose realization is determined by a certain aggregation function, e.g., majority (Troquard, Hoek, & Wooldridge 2011)[^troquard-2011]. These logics of *propositional control* specify what propositions agents have in their effectivity function. For instance, if agent $i$ controls $p$, then both $p^{M}$ and $\neg p^{M}$ are in his or her effectivity function. In a way these models are very special types of effectivity function, and what agents control can be seen as a choice, or a strategy, available to them.
 
-Logics for propositional control have modalities of the type $[[i]]\varphi$, meaning that player $i$ has a “control” strategy to see to it that, no matter how the other agents choose their control strategies, then $\varphi$ holds in the end. But they also have modalities of the type $[[C]]\varphi$, meaning that players in $C$ have a joint control strategy ensuring $\varphi$ in the end. A strategy profile is thus equivalent to a valuation function, which assigns a truth value of every proposition available. In turn, a strategy of a player $i$ can thus be seen as a partial valuation function, that assigns a truth value only to the propositions controlled by $i$.
+Logics for propositional control have modalities of the type $[[i]]\varphi$, meaning that player $i$ has a “control” strategy to see to it that, no matter how the other agents choose their control strategies, then *φ* holds in the end. But they also have modalities of the type $[[C]]\varphi$, meaning that players in $C$ have a joint control strategy ensuring *φ* in the end. A strategy profile is thus equivalent to a valuation function, which assigns a truth value of every proposition available. In turn, a strategy of a player $i$ can thus be seen as a partial valuation function, that assigns a truth value only to the propositions controlled by $i$.
 
-Slightly abusing notation, we say that a valuation $V$ satisfies a formula $\varphi$, denoted $V \models \varphi$, whenever it makes $\varphi$ true under the current assignment of propositions. In other words, propositional control games are played in one single world, and the individual assignments determine what propositions are true are that world. Denoting $\mathcal{V}$ the set of all valuations and $\mathcal{V}_i$ to the partial ones under the control of $i$ we have the following.
+Slightly abusing notation, we say that a valuation $V$ satisfies a formula *φ*, denoted $V \models \varphi$, whenever it makes *φ* true under the current assignment of propositions. In other words, propositional control games are played in one single world, and the individual assignments determine what propositions are true are that world. Denoting $\mathcal{V}$ the set of all valuations and $\mathcal{V}_i$ to the partial ones under the control of $i$ we have the following.
 
 $(F,V) \models [[C]]\varphi$ if and only if for all $i \in C$, there exists $V'_i \in \mathcal{V}_i$ such that, for all $k \in \overline{C}, V'_{k}\in \mathcal{V}_k$, we have that $(F,V')\models \varphi$
 
-So when $[[C]]\varphi$ holds, coalition $C$ can play a control strategy in such a way that no matter what the control strategy is that their opponents play, the resulting outcome satisfies $\varphi$.
+So when $[[C]]\varphi$ holds, coalition $C$ can play a control strategy in such a way that no matter what the control strategy is that their opponents play, the resulting outcome satisfies *φ*.
 
 Logics for propositional control can be extended to goal-based formalisms, the so called Boolean games (Harrenstein, van der Hoek, Meyer, & Witteveen 2001)[^harrenstein-2001]: propositions are partitioned among the players, with each player controlling the set of propositions he or she is assigned to. On top of that each player is also assigned a formula of propositional logic which is meant to be his or her goal and whose realization might not only depend upon the choices he or she is able to make.
 

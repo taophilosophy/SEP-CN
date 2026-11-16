@@ -6,13 +6,13 @@
 
 ## Proof of Lemma 2.15
 
-**Lemma 2.15**. $\omega' \in \mathcal{M}(\omega)$ iff $\omega '$ is reachable from $\omega$.
+**Lemma 2.15**. $\omega' \in \mathcal{M}(\omega)$ iff $\omega '$ is reachable from *ω*.
 
 **Proof**. Pick an arbitrary world $\omega \in \Omega$, and let
 
 $$ \mathcal{R}(\omega) = \bigcup_{n=1}^{\infty} \bigcup_{i_1,i_2 ,\ldots ,i_n \in N} \mathcal{H}_{i_n}(\ldots(\mathcal{H}_{i_2}(\mathcal{H}_{i_1}(\omega))\ldots) $$
 
-that is, $\mathcal{R}(\omega)$ is the set of all worlds that are reachable from $\omega$. Clearly, for each $i \in N,$ $\mathcal{H}_i (\omega) \subseteq \mathcal{R}(\omega)$, which shows that $\mathcal{R}$ is a coarsening of the partitions $\mathcal{H}_i,$ $i \in N$. Hence $\mathcal{M}(\omega) \subseteq \mathcal{R}(\omega)$, as $\mathcal{M}$ is the finest common coarsening of the $\mathcal{H}_i$’s.
+that is, $\mathcal{R}(\omega)$ is the set of all worlds that are reachable from *ω*. Clearly, for each $i \in N,$ $\mathcal{H}_i (\omega) \subseteq \mathcal{R}(\omega)$, which shows that $\mathcal{R}$ is a coarsening of the partitions $\mathcal{H}_i,$ $i \in N$. Hence $\mathcal{M}(\omega) \subseteq \mathcal{R}(\omega)$, as $\mathcal{M}$ is the finest common coarsening of the $\mathcal{H}_i$’s.
 
 We need to show that $\mathcal{R}(\omega) \subseteq \mathcal{M}(\omega)$ to complete the proof. To do this, it suffices to show that for any sequence $i_1, i_2 , \ldots ,i_n \in N$
 

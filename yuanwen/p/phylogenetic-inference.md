@@ -115,7 +115,7 @@ Though the Jukes-Cantor model is still used, more sophisticated models of evolut
 
 These parameter-rich models reflect a better understanding of molecular evolution (e.g., that transversion and transition[^note-5] rates between nucleotides are rarely equivalent) and the combination of lowered costs and increasing accessibility to growing computational power that permits more parameter rich analyses. The large number of models available leads to an interesting statistical problem in its own right known as the problem of model selection, i.e., which model of evolution do we use in our phylogenetic tools? For discussions of this problem in the context of phylogenetics, see (Posada & Crandall 1998; Sullivan & Joyce 2005; Posada 2008)[^posada-2008][^posada-1998][^sullivan-2005].
 
-Once we choose a model or collection of models to work with, we can now calculate probabilities conditional on these additional parameters ($\theta$). This likelihood may be formally represented as:
+Once we choose a model or collection of models to work with, we can now calculate probabilities conditional on these additional parameters (*θ*). This likelihood may be formally represented as:
 
 $$ L(\text{Tree}, \theta | \text{Data}) = P(\text{Data} | \text{Tree}, \theta) $$
 
@@ -123,7 +123,7 @@ As a reminder, the likelihood of a hypothesis given a set of data is just equal 
 
 Using different values for the parameters in your model will lead to different likelihoods for the tree. The maximum likelihood estimate is the tree hypothesis along with the fitted parameters which maximizes this likelihood. Felsenstein (1981)[^felsenstein-1981] gave the first computationally feasible algorithm for calculating likelihoods, and with modern computing power combined with the huge amounts of sequence data available, likelihood methods have become the most commonly used methods in phylogenetics.
 
-Just as with likelihood methods, Bayesian methods require a model of evolution before any inferences are possible. The fundamental difference is that likelihood inference treats parameters of the model as nuisance parameters which have a fixed but unknown value. In the frequentist method of maximum likelihood, these parameters are set to their best fitting value. Bayesian inference treats parameters as random variables with unknown distributions and probabilities are used as a measure of uncertainty. The probability of a tree is a conditional probability $P(\text{Tree} | \text{Data})$ under the assumption of a particular model. When we incorporate the model parameters $\theta$, by Bayes’ theorem, we have:
+Just as with likelihood methods, Bayesian methods require a model of evolution before any inferences are possible. The fundamental difference is that likelihood inference treats parameters of the model as nuisance parameters which have a fixed but unknown value. In the frequentist method of maximum likelihood, these parameters are set to their best fitting value. Bayesian inference treats parameters as random variables with unknown distributions and probabilities are used as a measure of uncertainty. The probability of a tree is a conditional probability $P(\text{Tree} | \text{Data})$ under the assumption of a particular model. When we incorporate the model parameters *θ*, by Bayes’ theorem, we have:
 
 $$P(\text{Tree}, \theta | \text{Data}) = \frac{P(\text{Data} | \text{Tree}, \theta)*P(\text{Tree}) }{P(\text{Data})}.$$
 

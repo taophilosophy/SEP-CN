@@ -164,7 +164,7 @@ $$F(a_1 \ldots a_n) $$
 
 or, more concretely, ${\sim}(p), \koppa(pq), \isa \{Aa\}$.
 
-Now let us provide a notation, inspired by Ajdukiewicz, for the category of a functor such as ‘$F$’. If the category of ‘$a_1$’ is $\alpha_1$, the category of ‘$a_n$’ is $\alpha_n$, and the category of the whole expression ‘$F(a_1 \ldots a_n)$’ is $\beta$, then the category of the functor expression ‘$F$’ we write as
+Now let us provide a notation, inspired by Ajdukiewicz, for the category of a functor such as ‘$F$’. If the category of ‘$a_1$’ is $\alpha_1$, the category of ‘$a_n$’ is $\alpha_n$, and the category of the whole expression ‘$F(a_1 \ldots a_n)$’ is *β*, then the category of the functor expression ‘$F$’ we write as
 
 $$\beta \langle \alpha_1 \ldots \alpha_n \rangle $$
 

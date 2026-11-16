@@ -74,7 +74,7 @@ Talk of “tape” and a “read-write head” is intended to aid the intuition 
 - *Q* is a finite set of states *q*
 - $\Sigma$ is a finite set of symbols
 - *s* is the initial state $s \in Q$
-- $\delta$ is a transition function determining the next move: $$\delta : (Q \times \Sigma) \rightarrow (\Sigma \times \{L,R\} \times Q)$$
+- *δ* is a transition function determining the next move: $$\delta : (Q \times \Sigma) \rightarrow (\Sigma \times \{L,R\} \times Q)$$
 
 The transition function for the machine *T* is a function from computation states to computation states. If $\delta(q_i,S_j) = (S_{i,j},D,q_{i,j})$, then when the machine’s state is $q_j$, reading the symbol $S_j$, $T$ replaces $S_j$ by $S_{i,j}$, moves in direction $D \in \{L,R\}$ and goes to state $q_{i,j}$.
 
@@ -171,7 +171,7 @@ The most important difference between $T_{\textrm{Add}_2}$ and $T_{\textrm{Add}_
 
 ### 2.2 Computable Numbers and Decision Problems
 
-Turing’s original paper is concerned with *computable (real) numbers*. A (real) number is Turing computable if there exists a Turing machine which computes an arbitrarily precise approximation to that number. All of the algebraic numbers (roots of polynomials with algebraic coefficients) and many transcendental mathematical constants, such as *e* and $\pi$ are Turing-computable. Turing gave several examples of classes of numbers computable by Turing machines as a heuristic argument showing that a wide diversity of classes of numbers can be computed by Turing machines (see section 10 *Examples of large classes of numbers which are computable* in Turing 1936–7)[^turing-1936].
+Turing’s original paper is concerned with *computable (real) numbers*. A (real) number is Turing computable if there exists a Turing machine which computes an arbitrarily precise approximation to that number. All of the algebraic numbers (roots of polynomials with algebraic coefficients) and many transcendental mathematical constants, such as *e* and *π* are Turing-computable. Turing gave several examples of classes of numbers computable by Turing machines as a heuristic argument showing that a wide diversity of classes of numbers can be computed by Turing machines (see section 10 *Examples of large classes of numbers which are computable* in Turing 1936–7)[^turing-1936].
 
 One might wonder however in what sense computation with numbers, viz. calculation, captures *non-numerical* but computable problems and so how Turing machines are supposed to capture *all* general and effective procedures which determine whether something is the case or not. Examples of such problems are:
 

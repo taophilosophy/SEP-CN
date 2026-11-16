@@ -8,7 +8,7 @@
 
 All definitions discussed in the main text (§1.3) are based on the study of dynamical systems. Nevertheless, it isn’t difficult to find mathematical models that present counterexamples to every definition surveyed.
 
-Begin with an example illustrating why WSD is insufficient to characterize chaos. Consider a two-dimensional dynamical system with a disc of radius $\epsilon$ about the origin removed from the plane. Define a twist
+Begin with an example illustrating why WSD is insufficient to characterize chaos. Consider a two-dimensional dynamical system with a disc of radius *ε* about the origin removed from the plane. Define a twist
 
 $$\begin{aligned} {dx} \over {dt} &= -ry, \\ {dy} \over {dt} &= rx, \end{aligned}$$
 
@@ -22,7 +22,7 @@ Yet, even with the restriction to bounded systems, the presence of a positive gl
 
 $$ \begin{aligned} {dx} \over {dt} &= -2ryt,\\ {dy} \over {dt} &= 2rxt, \end{aligned}$$
 
-where $r = \sqrt{x^2 + y^2}$ and as before a disk of radius $\epsilon$ about the origin is removed. The general solution of this dynamical system is
+where $r = \sqrt{x^2 + y^2}$ and as before a disk of radius *ε* about the origin is removed. The general solution of this dynamical system is
 
 $$\begin{aligned} x(t) &= x_0 \cos(u) - y_0 \sin(u), \\ y(t) &= y_o \cos(u) + x_0 \sin(u), \end{aligned}$$
 

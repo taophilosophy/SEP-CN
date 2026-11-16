@@ -32,11 +32,11 @@ The following are definitions of the mereological fusion (the “sum-individual�
 
 **I.03**
 
-$x \fusion \alpha =_{df} \forall z\ (z \int x \equiv \forall y\ (y \in \alpha \supset z \int y))$ $x$ is the fusion of set $\alpha$ iff: anything that is discrete from $x$ is discrete from any member of set $\alpha$, and *vice versa*
+$x \fusion \alpha =_{df} \forall z\ (z \int x \equiv \forall y\ (y \in \alpha \supset z \int y))$ $x$ is the fusion of set *α* iff: anything that is discrete from $x$ is discrete from any member of set *α*, and *vice versa*
 
 **I.04**
 
-$x \mathbin{\mbox{Nu}} \alpha =_{df} \forall z\ (z \lt x \equiv \forall y\ (y \in \alpha \supset z \lt y))$ $x$ is the nucleus of set $\alpha$ iff: anything that is a part of $x$ is a part from any member of set $\alpha$, and *vice versa*
+$x \mathbin{\mbox{Nu}} \alpha =_{df} \forall z\ (z \lt x \equiv \forall y\ (y \in \alpha \supset z \lt y))$ $x$ is the nucleus of set *α* iff: anything that is a part of $x$ is a part from any member of set *α*, and *vice versa*
 
 Fusion and nucleus correspond, in a way, to the set-theoretic notions of union and intersection, but note that fusions and nuclei of sets are not sets themselves but individuals. The remaining four definitions of the universe, binary mereological sum, binary mereological product, and the complement individual (Leonard and Goodman label the latter by the unhappy term “negation”), make use of fusion and nucleus, and further set-theoretic notions:
 
@@ -62,13 +62,13 @@ Note that “$V$” denotes the class of all individuals; “$\cup$” denotes t
 
 $R^\prime y =_{df} (\iota x)Rxy$
 
-So, for example, if we read “$x \fusion \alpha$” as “$x$ is the fusion of $\alpha$”, we can understand “$\mathbin{\mbox{Fu}^\prime} \alpha$” as “the fusion of $\alpha$”, i.e., the individual that is the fusion of all members of set $\alpha$.
+So, for example, if we read “$x \fusion \alpha$” as “$x$ is the fusion of *α*”, we can understand “$\mathbin{\mbox{Fu}^\prime} \alpha$” as “the fusion of *α*”, i.e., the individual that is the fusion of all members of set *α*.
 
 With these definitions in hand, Leonard and Goodman postulate three axioms:
 
 **I.1**
 
-$ \exists x\ x \in \alpha \supset \exists y\ y \fusion \alpha$ if set $\alpha$ is not empty, then $\alpha$ has a fusion (i.e., unrestricted fusion)
+$ \exists x\ x \in \alpha \supset \exists y\ y \fusion \alpha$ if set *α* is not empty, then *α* has a fusion (i.e., unrestricted fusion)
 
 **I.12**
 
@@ -132,15 +132,15 @@ The system has one axiom, and two axiom schemata. The axiom is formulated in ter
 
 $x \overlaps y \equiv \exists z\forall w\ (w \overlaps z \supset (w \overlaps x \land w \overlaps y))$ “If and only if two individuals $x$ and $z$ overlap is there some individual $z$ (viz., and individual wholly contained within $x$ and within $y$), such that whatever overlaps $z$ also overlaps both $x$ and $y$” (SA: 34)
 
-Since Goodman uses no class terms in his formulation of the Calculus of Individuals in SA, there are no definitions or axioms for fusion or nucleus. Instead, Goodman employs axiom schemata to do the work. It may be permitted to formulate these in the following way (Goodman only formalizes a definite description of the individual, but not the full axiom schema). Where $\varphi$ can be any predicate, simple or complex:
+Since Goodman uses no class terms in his formulation of the Calculus of Individuals in SA, there are no definitions or axioms for fusion or nucleus. Instead, Goodman employs axiom schemata to do the work. It may be permitted to formulate these in the following way (Goodman only formalizes a definite description of the individual, but not the full axiom schema). Where *φ* can be any predicate, simple or complex:
 
 > $\exists x\ \varphi(x) \supset \exists z\forall y\ (z \overlaps y \equiv \exists v\ (\varphi(v) \land v \overlaps y))$
 >
-> If there is an individual that is $\varphi$, then there is an individual that overlaps all and only those individuals that overlap some individual that is $\varphi$
+> If there is an individual that is *φ*, then there is an individual that overlaps all and only those individuals that overlap some individual that is *φ*
 >
 > $\exists x\forall w\ (\varphi(w) \supset x \lt w) \supset \exists z\forall y\ (y \lt z \equiv \forall v\ (\varphi(v) \supset y \lt v))$
 >
-> If there is an individual that is a common part of all the individuals that are $\varphi$, then there is an individual “that has as parts all and only those individuals that are parts of all the individuals” that are $\varphi$ (SA: 37)
+> If there is an individual that is a common part of all the individuals that are *φ*, then there is an individual “that has as parts all and only those individuals that are parts of all the individuals” that are *φ* (SA: 37)
 
 The fact that the system of SA does not include classes does not preclude a plausible comparison with the mereologies introduced above. Since the set-theoretic formulation does not employ any iteration of the set-forming operation (i.e., sets of sets play no role) the axiom schemata above deliver exactly those individuals whose existence the corresponding fusion and nucleus axiom of the Leonard and Goodman Calculus of Individuals assert. Thus, accounting for the set-theoretic notions by open sentences accordingly, the calculus of SA is equivalent to the Leonard and Goodman calculus (Simons 1987: §2.4; Ridder 2002: 98), and hence to the other systems too.
 

@@ -72,7 +72,7 @@ Schemas are used in the formalization of logic, mathematics, and semantics. In l
 >
 > $$ \begin{align} \Phi & \rightarrow(\Psi \rightarrow \Phi)\\ (\Phi \rightarrow(\Psi \rightarrow \Xi)) & \rightarrow((\Phi \rightarrow \Psi) \rightarrow(\Phi \rightarrow \Xi))\\ (\neg \Phi \rightarrow \neg \Psi) & \rightarrow(\Psi \rightarrow \Phi)\\ \forall x\Phi(x) & \rightarrow \Phi(t) \end{align} $$
 >
-> where $t$ is a term free for $x$ in $\Phi$,
+> where $t$ is a term free for $x$ in *Φ*,
 
 and that any inference of the form
 

@@ -142,7 +142,7 @@ It is a law in many logical systems that things that are identical share all of 
 
 One might closely link indiscernibility to the notion of a criterion of identity (together with its connection to sortals) when “criterion of identity” is understood as follows:
 
-For any sortal $F$ there is a set of properties $\phi$ such that if $b$ and $c$ both are $F$, then if $b$ and $c$ instantiate exactly the same properties in $\phi$ then $b = c$.
+For any sortal $F$ there is a set of properties *φ* such that if $b$ and $c$ both are $F$, then if $b$ and $c$ instantiate exactly the same properties in *φ* then $b = c$.
 
 Some attempts to give content to the phrase “criterion of identity” can be understood in this framework. Black (1952)[^black-1952] argues that purely internal properties of objects do not suffice; his example is a universe with two spheres which share all of their internal properties, i.e., are the same color, weight, composition, etc.
 

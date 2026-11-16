@@ -10,7 +10,7 @@ In **Gg**, Fregean extensions do *not* contain concepts as members but rather ob
 
 $\exists H(x\eqclose \epsilon H \amp H\apprxclose F)$
 
-We can name this concept using our $\lambda$-notation as follows:
+We can name this concept using our *λ*-notation as follows:
 
 $[\lambda x \, \exists H(x\eqclose \epsilon H \amp H\apprxclose F)]$
 

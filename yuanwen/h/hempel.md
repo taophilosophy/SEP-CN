@@ -267,7 +267,7 @@ Indeed, in the process of drawing the distinction between explanation-seeking an
 
 Insofar as Hempel focused on logically equivalent formulations of lawlike sentences in addressing the paradoxes of confirmation, some may find it remarkable that he does not explore the consequences of logically equivalent formulations in relation to explanations. We tend to assume we can explain why a specific thing $c$ is black on the grounds that it is a raven and all ravens are black. Yet we would hesitate to explain why a specific thing is not a raven on the ground that it is not black. We may refer to this as *the paradox of transposition*. Notice, the contention that one member of a class of logically equivalent hypotheses is explanatory but others are not generates “paradoxes of explanation” that parallel the “paradoxes of confirmation” (Fetzer 2000a)[^fetzer-2000a]. Figure 5 offers an illustration:
 
-$$ \frac{\begin{gathered} (x)(\neg Bx \supset \neg Rx)\\ \neg Bc \end{gathered}}{\neg Rc} $$
+$$ \frac{$$\begin{gathered} (x)(\neg Bx \supset \neg Rx)\\ \neg Bc \end{gathered}$$}{\neg Rc} $$
 
 *Figure 5.* The Transposition Paradox
 
@@ -275,7 +275,7 @@ Even if we accept the transposed form of “$(x)(Rx \supset Bx)$” as the basis
 
 Suppose Hempel were to resort to Goodman’s approach and deny that the negation of a purely qualitative predicates is also a purely qualitative predicate. That would mean that sentences logically equivalent to lawlike sentences—which have the same content—are not therefore also lawlike by invoking pragmatic differences in their degree of entrenchment and projectibility of their constituent predicates. An appeal to pragmatic considerations within this context has a decidedly *ad hoc* quality about it, which appears to contravene the spirit of the paradoxes of confirmation, where Hempel insists that the counterintuitive cases are confirmatory and their paradoxical character is merely psychological. Even if Hempel were to adopt this position and take for granted that one member of a class of logically equivalent sentences can be lawlike while the others are not, another difficulty arises from the use of *modus tollens* in lieu of *modus ponens*, as Figure 6 exemplifies:
 
-$$\frac{\begin{gathered} (x)(Rx \supset Bx)\\ \neg Bc \end{gathered}} {\neg Rc} $$
+$$\frac{$$\begin{gathered} (x)(Rx \supset Bx)\\ \neg Bc \end{gathered}$$} {\neg Rc} $$
 
 *Figure 6.* The Modus Tollens Paradox
 

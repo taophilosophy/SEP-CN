@@ -307,7 +307,7 @@ A large number of rationality properties have been proposed for choice functions
 
 $$ \text{If } \mathcal{B} \subseteq \mathcal{A} \text{ then } \mathcal{B} \cap \mathbf{C}(\mathcal{A}) \subseteq \mathbf{C}(\mathcal{B}) \quad\text{(Property } \alpha, \text{ “Chernoff”)} $$
 
-This property states that if some element of a subset $\mathcal{B}$ of $\mathcal{A}$ is chosen from $\mathcal{A}$, then it is also chosen from $\mathcal{B}$. According to property $\alpha$, removing some of the alternatives that are not chosen does not influence choice. This property has often been assumed to hold, but counterarguments have been raised against it. Consider the following example. Erna is invited to an acquaintance’s house for dinner. Her choice for dessert is between an apple (which is the last piece of fruit in the fruit basket) $(X)$ and nothing instead $(Y)$. Because Erna is polite, she chooses $Y$. Had she faced a choice between an apple $(X)$, nothing $(Y)$ and an orange $(Z)$, she would have taken the apple. Thus her choices are:
+This property states that if some element of a subset $\mathcal{B}$ of $\mathcal{A}$ is chosen from $\mathcal{A}$, then it is also chosen from $\mathcal{B}$. According to property *α*, removing some of the alternatives that are not chosen does not influence choice. This property has often been assumed to hold, but counterarguments have been raised against it. Consider the following example. Erna is invited to an acquaintance’s house for dinner. Her choice for dessert is between an apple (which is the last piece of fruit in the fruit basket) $(X)$ and nothing instead $(Y)$. Because Erna is polite, she chooses $Y$. Had she faced a choice between an apple $(X)$, nothing $(Y)$ and an orange $(Z)$, she would have taken the apple. Thus her choices are:
 
 $$ \mathbf{C}(\{X,Y,Z\}) =\{X\} $$
 
@@ -315,25 +315,25 @@ and
 
 $$\mathbf{C}(\{X,Y\}) =\{Y\}, $$
 
-which violate property $\alpha$. More generally, property $\alpha$ has been contested with reference to cases when alternatives are preferred for their position in an alternative set, when the set of alternatives itself constitutes important information about the alternative chosen, or when certain alternatives provide the chooser with the freedom to reject them (Sen 1993, 501–503)[^sen-1993].[^note-3]
+which violate property *α*. More generally, property *α* has been contested with reference to cases when alternatives are preferred for their position in an alternative set, when the set of alternatives itself constitutes important information about the alternative chosen, or when certain alternatives provide the chooser with the freedom to reject them (Sen 1993, 501–503)[^sen-1993].[^note-3]
 
 The second property states that if $X$ and $Y$ are both chosen from the subset $\mathcal{B}$ of $\mathcal{A}$, then one of them cannot be chosen in $\mathcal{A}$ without the other also being chosen.
 
 $$\begin{align} \text{If } &\mathcal{B} \subseteq \mathcal{A} \text{ and } X, Y \in \mathbf{C}(\mathcal{B}), \text{ then } X \in \mathbf{C}(\mathcal{A}) \\ &\text{ iff } Y \in \mathbf{C}(\mathcal{A}) \quad(\text{Property } \beta) \end{align}$$
 
-To exemplify property $\beta$, suppose that we have three restaurants, $X, Y$ and $Z$, within walking distance, and two additional restaurants, $V$ and $W$, that we can reach by car. Furthermore, suppose that we begin by choosing among the restaurants within walking distance. We agree that the choice is between $X$ and $Y$, but we find no reasons to choose one of them rather than the other, i.e. $\mathbf{C}(\{X, Y, Z\})=\{X,Y\}$. Then we find out that we do in fact have access to a car. Property $\beta$ says that if $X$ is one of the chosen restaurants in this situation, then so is $Y$, and vice versa. In other words: $X\in \mathbf{C}(\{X, Y, Z, V, W\})$ holds if and only if $Y \in \mathbf{C}(\{X, Y, Z, V, W\})$.
+To exemplify property *β*, suppose that we have three restaurants, $X, Y$ and $Z$, within walking distance, and two additional restaurants, $V$ and $W$, that we can reach by car. Furthermore, suppose that we begin by choosing among the restaurants within walking distance. We agree that the choice is between $X$ and $Y$, but we find no reasons to choose one of them rather than the other, i.e. $\mathbf{C}(\{X, Y, Z\})=\{X,Y\}$. Then we find out that we do in fact have access to a car. Property *β* says that if $X$ is one of the chosen restaurants in this situation, then so is $Y$, and vice versa. In other words: $X\in \mathbf{C}(\{X, Y, Z, V, W\})$ holds if and only if $Y \in \mathbf{C}(\{X, Y, Z, V, W\})$.
 
-A third property, $\gamma$, is described in footnote.[^note-4]
+A third property, *γ*, is described in footnote.[^note-4]
 
 The above properties are mainly found in the social choice literature. A related property in the economic literature is the so-called *Weak Axiom of Revealed Preferences* (WARP). It says that if $X$ is chosen when $Y$ is available, then there must not be an alternative set $\mathcal{B}$ containing both alternatives for which $Y$ is chosen and $X$ is not.
 
 If $X,Y\in \mathcal{A}$ and $X\in \mathbf{C}(\mathcal{A})$, then for all $\mathcal{B}$, if $X\in \mathcal{B}$, and $Y\in \mathbf{C}(\mathcal{B})$, then $X\in \mathbf{C}(\mathcal{B})$   (WARP)
 
-WARP is equivalent to the combination of properties $\alpha$ and $\beta$ (Sen 1971, 50)[^sen-1971]. A stronger version, SARP, is discussed in the first part of the supplementary document.
+WARP is equivalent to the combination of properties *α* and *β* (Sen 1971, 50)[^sen-1971]. A stronger version, SARP, is discussed in the first part of the supplementary document.
 
 [The Strong Axiom of Revealed Preference](preferences.revealed-preference.md)
 
-Counterexamples have been offered to show that these properties are not plausible in all situations. Consider an agent who chooses to stay at a friend’s house for a cup of tea $(T)$ rather than to go home $(H)$, but who leaves in a hurry when the friend offers a choice between tea and cocaine $(C)$ at his next visit. Then $\mathbf{C}(\{T,H\}) =\{T\}$ and $\mathbf{C}(\{T,H,C\}) =\{H\}$, and hence the visitor violates both properties $\alpha$ and $\beta$.
+Counterexamples have been offered to show that these properties are not plausible in all situations. Consider an agent who chooses to stay at a friend’s house for a cup of tea $(T)$ rather than to go home $(H)$, but who leaves in a hurry when the friend offers a choice between tea and cocaine $(C)$ at his next visit. Then $\mathbf{C}(\{T,H\}) =\{T\}$ and $\mathbf{C}(\{T,H,C\}) =\{H\}$, and hence the visitor violates both properties *α* and *β*.
 
 ### 5.2 Determining choice from preference
 
@@ -341,13 +341,13 @@ A choice function that is defined on the basis of a preference relation is calle
 
 *The best choice connection* $\mathbf{C}^B(\mathcal{B}) = \{X \in \mathcal{B} \mid \forall Y \in \mathcal{B}: (X\succcurlyeq Y)\}$
 
-$\mathbf{C}^B$ is a choice function (i.e. satisfies the defining criteria for a choice function given in section 5.1) if and only if $\succcurlyeq$ is complete and acyclical. It will then also satisfy properties $\alpha$ and $\gamma$. Furthermore, $\mathbf{C}^B$ satisfies property $\beta$ if and only if $\succcurlyeq$ is transitive and complete (Sen 1970a, 19)[^sen-1970a].
+$\mathbf{C}^B$ is a choice function (i.e. satisfies the defining criteria for a choice function given in section 5.1) if and only if $\succcurlyeq$ is complete and acyclical. It will then also satisfy properties *α* and *γ*. Furthermore, $\mathbf{C}^B$ satisfies property *β* if and only if $\succcurlyeq$ is transitive and complete (Sen 1970a, 19)[^sen-1970a].
 
 When the underlying preference relation is incomplete, there may not be an element that is preferred to all other elements. A function $\mathbf{C}$ constructed according to the best choice connection will then be empty, and hence not a choice function. To avoid this, an alternative connection constructs the choice function as choosing those elements that are not dispreferred to any other elements of the set:
 
 *The non-dominance choice connection* $\mathbf{C}^L(\mathcal{B}) = \{X \in \mathcal{B} \mid \forall Y \in \mathcal{B}: \neg(Y\succ X)\}$
 
-$\mathbf{C}^L$ is a choice function if and only if $\succcurlyeq$ is acyclical. It will then satisfy properties $\alpha$ and $\gamma$. Furthermore, $\mathbf{C}^L$ satisfies property $\beta$ if and only if $\succcurlyeq$ is transitive and complete (Herzberger 1973)[^herzberger-1973].
+$\mathbf{C}^L$ is a choice function if and only if $\succcurlyeq$ is acyclical. It will then satisfy properties *α* and *γ*. Furthermore, $\mathbf{C}^L$ satisfies property *β* if and only if $\succcurlyeq$ is transitive and complete (Herzberger 1973)[^herzberger-1973].
 
 When the preference relation over $\mathcal{A}$ is cyclical, neither $\mathbf{C}^B$ nor $\mathbf{C}^L$ may be a relational choice function for $\mathcal{A}$. In the simplest case, with a cyclical preference $A\succ B\succ C\succ A$, $\mathbf{C}^B(A,B,C) = \mathbf{C}^L(A,B,C) = \varnothing$. Schwarz (1972) therefore proposes a third relational choice function, which operates even on the basis of cyclical preferences. Its basic idea is to select elements that are not dominated by non-cyclical preference.
 
@@ -503,13 +503,13 @@ Preferences are *homothetic* if indifference is retained under proportional expa
 
 [^note-2]: A lexicographic preference relation gives absolute priority to one good over another. In the case of two-goods bundles, $A\succ B$ if $a_1\gt b_1$, or $a_1 =b_1$ and $a_2 \gt b_2$. Good 1 then cannot be traded off by any amount of good 2. Debreu shows that such a preference relation cannot be represented by a standard utility function.
 
-[^note-3]: This and the counterexample below have been dismissed on the ground that properties $\alpha$ and $\beta$ were intended only for changes in the set of alternatives which do not change the agent’s information of the alternatives’ desirability. However, it is not clear how much of a distinction can be made between cases for which the properties hold and those for which they do not, without recurring to criteria of the same type as $\alpha$ or $\beta$. Such a criticism thus runs the danger of turning into an immunising defence of the properties.
+[^note-3]: This and the counterexample below have been dismissed on the ground that properties *α* and *β* were intended only for changes in the set of alternatives which do not change the agent’s information of the alternatives’ desirability. However, it is not clear how much of a distinction can be made between cases for which the properties hold and those for which they do not, without recurring to criteria of the same type as *α* or *β*. Such a criticism thus runs the danger of turning into an immunising defence of the properties.
 
-[^note-4]: The expansion property $\gamma$ requires that an element $X$ that is chosen from every set in a particular class must also be chosen from their union.
+[^note-4]: The expansion property *γ* requires that an element $X$ that is chosen from every set in a particular class must also be chosen from their union.
 
 $$ \mathbf{C}(\mathcal{B}_1) \cap \ldots \cap \mathbf{C}(\mathcal{B}_n) \subseteq \mathbf{C}(\mathcal{B}_1 \cup \cdots \cup \mathcal{B}_n) \quad (\text{Property } \gamma, \text{Expansion}) $$
 
-As an example of property $\gamma$, if one of the university’s best teachers in non-classical logic is also one of its best teachers in classical logic, then she is one of its best logic teachers.
+As an example of property *γ*, if one of the university’s best teachers in non-classical logic is also one of its best teachers in classical logic, then she is one of its best logic teachers.
 
 [^abbas-1995]: Abbas, Moncef, 1995. “Any Complete Preference Structure Without Circuits Admits an Interval Representation”, *Theory and Decision*, 39: 115–126.
 

@@ -21,11 +21,11 @@ All entities have types, and if α and β are types, the type of functions from 
 
 As noted by Schönfinkel (1924)[^schönfinkel-1924], functions of more than one argument can be represented in terms of functions of one argument when the values of these functions can themselves be functions. For example, if $F$ is a function of two arguments, for each element $x$ of the left domain of $F$ there is a function $g$ (depending on $x$) such that $gy=Fxy$ for each element $y$ of the right domain of $F$. While we may thus regard $F$ as a function of a single argument $x$ that returns a function $g(y)$, we should (more accurately) view $g$ as the value of a new function $f$ (related to $F$) such that $g=fx$. The new $f$ is a function of a single argument, whose value for any argument $x$ in its domain is a function $fx$, whose value (in turn) for any argument $y$ in its domain is $Fxy$.
 
-For a more explicit example, consider the function + which carries any pair of natural numbers to their sum. We may denote this function by $+_{((\sigma \sigma)\sigma)}$, where $\sigma$ is the type of natural numbers. Given any number $x$, $[+_{((\sigma \sigma)\sigma)}x]$ is the function which, when applied to any number $y$, gives the value $[[+_{((\sigma \sigma)\sigma)}x]y]$, which is ordinarily abbreviated as $x + y$. Thus $[+_{((\sigma \sigma)\sigma)}x]$ is the function of one argument which adds $x$ to any number. When we think of $+_{((\sigma \sigma)\sigma)}$ as a function of one argument, we see that it maps any number $x$ to the function $[+_{((\sigma \sigma)\sigma)}x]$.
+For a more explicit example, consider the function + which carries any pair of natural numbers to their sum. We may denote this function by $+_{((\sigma \sigma)\sigma)}$, where *σ* is the type of natural numbers. Given any number $x$, $[+_{((\sigma \sigma)\sigma)}x]$ is the function which, when applied to any number $y$, gives the value $[[+_{((\sigma \sigma)\sigma)}x]y]$, which is ordinarily abbreviated as $x + y$. Thus $[+_{((\sigma \sigma)\sigma)}x]$ is the function of one argument which adds $x$ to any number. When we think of $+_{((\sigma \sigma)\sigma)}$ as a function of one argument, we see that it maps any number $x$ to the function $[+_{((\sigma \sigma)\sigma)}x]$.
 
-More generally, if $f$ is a function which maps *n*-tuples $\langle w_{\beta},x_{\gamma},\ldots ,y_{\delta},z_{\tau}\rangle$ of elements of types $\beta$, $\gamma$,…, $\delta$ ,$\tau$, respectively, to elements of type α, we may assign to $f$ the type $((\ldots((\alpha \tau)\delta)\ldots \gamma)\beta)$. It is customary to use the convention of association to the left to omit parentheses, and write this type symbol simply as $(\alpha \tau \delta \ldots \gamma \beta)$.
+More generally, if $f$ is a function which maps *n*-tuples $\langle w_{\beta},x_{\gamma},\ldots ,y_{\delta},z_{\tau}\rangle$ of elements of types *β*, *γ*,…, *δ* ,*τ*, respectively, to elements of type α, we may assign to $f$ the type $((\ldots((\alpha \tau)\delta)\ldots \gamma)\beta)$. It is customary to use the convention of association to the left to omit parentheses, and write this type symbol simply as $(\alpha \tau \delta \ldots \gamma \beta)$.
 
-A set or property can be represented by a function (often called *characteristic function*) which maps elements to truth values, so that an element is in the set, or has the property, in question iff the function representing the set or property maps that element to truth. When a statement is asserted, the speaker means that it is true, so that $s x$ means that $s x$ is true, which also expresses the assertions that *s* maps $x$ to truth and that $x \in s$. In other words, $x \in s$ iff $s x$. We take ${o}$ as the type symbol denoting the type of truth values, so we may speak of any function of type $({o}\alpha)$ as a *set* of elements of type α. A function of type $(({o}\alpha)\beta)$ is a binary relation between elements of type β and elements of type α. For example, if $\sigma$ is the type of the natural numbers, and $<$ is the order relation between natural numbers, $<$ has type $({o}\sigma \sigma)$, and for all natural numbers $x$ and $y, {<}x y$ (which we ordinarily write as $x < y)$ has the value truth iff $x$ is less than $y$. Of course, $<$ can also be regarded as the function which maps each natural number $x$ to the set $<x$ of all natural numbers $y$ such that $x$ is less than $y$. Thus sets, properties, and relations may be regarded as particular kinds of functions. Church’s type type theory is thus a logic of functions, and, in this sense, it is in the tradition of the work of Frege’s *Begriffsschrift*. The opposite approach would be to reduce functions to relations, which was the approach taken by Whitehead and Russell (1927a) in the *Principia Mathematica*.
+A set or property can be represented by a function (often called *characteristic function*) which maps elements to truth values, so that an element is in the set, or has the property, in question iff the function representing the set or property maps that element to truth. When a statement is asserted, the speaker means that it is true, so that $s x$ means that $s x$ is true, which also expresses the assertions that *s* maps $x$ to truth and that $x \in s$. In other words, $x \in s$ iff $s x$. We take ${o}$ as the type symbol denoting the type of truth values, so we may speak of any function of type $({o}\alpha)$ as a *set* of elements of type α. A function of type $(({o}\alpha)\beta)$ is a binary relation between elements of type β and elements of type α. For example, if *σ* is the type of the natural numbers, and $<$ is the order relation between natural numbers, $<$ has type $({o}\sigma \sigma)$, and for all natural numbers $x$ and $y, {<}x y$ (which we ordinarily write as $x < y)$ has the value truth iff $x$ is less than $y$. Of course, $<$ can also be regarded as the function which maps each natural number $x$ to the set $<x$ of all natural numbers $y$ such that $x$ is less than $y$. Thus sets, properties, and relations may be regarded as particular kinds of functions. Church’s type type theory is thus a logic of functions, and, in this sense, it is in the tradition of the work of Frege’s *Begriffsschrift*. The opposite approach would be to reduce functions to relations, which was the approach taken by Whitehead and Russell (1927a) in the *Principia Mathematica*.
 
 Expressions which denote elements of type α are called *well-formed formulas (wffs) of type* α. Thus, statements of type theory are wffs of type ${o}$.
 
@@ -75,7 +75,7 @@ Before we state the definition of a “formula”, a word of caution is in order
 
 The *primitive symbols* are the following:
 
-- Improper symbols: [, ], $\lambda$
+- Improper symbols: [, ], *λ*
 - For each type symbol α, a denumerable list of *variables* of type $\alpha : a_{\alpha}, b_{\alpha}, c_{\alpha}\ldots$
 - Logical constants: $\nsim_{({o}{o})}$, $\lor_{(({o}{o}){o})}$, $\Pi_{({o}({o}\alpha))}$ and $\iota_{(\alpha({o}\alpha))}$ (for each type symbol α). The types of these constants are indicated by their subscripts. The symbol $\nsim_{({o}{o})}$ denotes negation, $\lor_{(({o}{o}){o})}$ denotes disjunction, and $\Pi_{({o}({o}\alpha))}$ is used in defining the universal quantifier as discussed above. $\iota_{(\alpha({o}\alpha))}$ serves either as a description or selection operator as discussed in Section 1.3.4 and Section 1.3.5 below.
 - In addition, there may be other constants of various types, which will be called *nonlogical constants* or *parameters*. Each choice of parameters determines a particular formulation of the system of type theory. Parameters are typically used as names for particular entities in the discipline being formalized.
@@ -129,11 +129,11 @@ $$\lambda n_{\imath}\forall x_{\imath}{[}\const{Soldier}_{{o}\imath}x_{\imath} \
 
 We consider how certain aspects of this problem can be formalized so that Sheila can use an automated reasoning system to help analyze the possibilities.
 
-There will be a set *Moments* of instants or intervals of time during the trip. She will start the trip at the location $\const{Hotel}$ and moment $\const{Start}$, and end it at the location $\const{Farm}$ and moment $\const{Finish}$. Moments will have type $\tau$, and locations will have type $\varrho$. A *state* will have type $\sigma$ and will specify the location of Sheila, the ostrich, and the cheetah at a given moment. A *plan* will specify where the entities will be at each moment according to this plan. It will be a function from moments to states, and will have type $(\sigma \tau)$. The exact representation of states need not concern us, but there will be functions from states to locations called $\const{LocationOfSheila}$, $\const{LocationOfOstrich}$, and $\const{LocationOfCheetah}$ which provide the indicated information. Thus, $\const{LocationOfSheila}_{\varrho \sigma}[p_{\sigma \tau}t_{\tau}]$ will be the location of Sheila according to plan $p_{\sigma \tau}$ at moment $t_{\tau}$. The set $\const{Proposals}_{{o}(\sigma \tau)}$ is the set of plans Sheila is considering.
+There will be a set *Moments* of instants or intervals of time during the trip. She will start the trip at the location $\const{Hotel}$ and moment $\const{Start}$, and end it at the location $\const{Farm}$ and moment $\const{Finish}$. Moments will have type *τ*, and locations will have type *ϱ*. A *state* will have type *σ* and will specify the location of Sheila, the ostrich, and the cheetah at a given moment. A *plan* will specify where the entities will be at each moment according to this plan. It will be a function from moments to states, and will have type $(\sigma \tau)$. The exact representation of states need not concern us, but there will be functions from states to locations called $\const{LocationOfSheila}$, $\const{LocationOfOstrich}$, and $\const{LocationOfCheetah}$ which provide the indicated information. Thus, $\const{LocationOfSheila}_{\varrho \sigma}[p_{\sigma \tau}t_{\tau}]$ will be the location of Sheila according to plan $p_{\sigma \tau}$ at moment $t_{\tau}$. The set $\const{Proposals}_{{o}(\sigma \tau)}$ is the set of plans Sheila is considering.
 
 We define a plan *p* to be acceptable if, according to that plan, the group starts at the hotel, finishes at the farm, and whenever the ostrich and the cheetah are together, Sheila is there too. Formally, we define $\const{Acceptable}_{{o}(\sigma \tau)}$ as
 
-$$\begin{multline} \lambda p_{\sigma \tau} \left[ \begin{aligned} & \const{LocationOfSheila}_{\varrho \sigma} [p_{\sigma \tau}\const{Start}_{\tau}] = \const{Hotel}_{\varrho} \,\land\\ & \const{LocationOfOstrich}_{\varrho \sigma}[p_{\sigma \tau} \const{Start}_{\tau}] = \const{Hotel}_{\varrho} \,\land\\ & \const{LocationOfCheetah}_{\varrho \sigma}[p_{\sigma \tau} \const{Start}_{\tau}] = \const{Hotel}_{\varrho} \,\land\\ & \const{LocationOfSheila}_{\varrho \sigma}[p_{\sigma \tau} \const{Finish}_{\tau}] = \const{Farm}_{\varrho} \,\land\\ & \const{LocationOfOstrich}_{\varrho \sigma}[p_{\sigma \tau} \const{Finish}_{\tau}] = \const{Farm}_{\varrho} \,\land\\ & \const{LocationOfCheetah}_{\varrho \sigma}[p_{\sigma \tau} \const{Finish}_{\tau}] = \const{Farm}_{\varrho} \,\land\\ & \forall t_{\tau} \left [ \begin{split} & \const{Moments}_{{o}\tau}t_{\tau} \\ & \supset \left [ \begin{split} & \left[ \begin{split} & \const{LocationOfOstrich}_{\varrho \sigma}[p_{\sigma \tau}t_{\tau}] \\ & = \const{LocationOfCheetah}_{\varrho \sigma}[p_{\sigma \tau}t_{\tau}] \end{split} \right] \\ & \supset \left[ \begin{split} & \const{LocationOfSheila}_{\varrho \sigma}[p_{\sigma \tau}t_{\tau}] \\ & = \const{LocationOfCheetah}_{\varrho\sigma}[p_{\sigma\tau}t_{\tau}] \end{split} \right] \end{split} \right] \end{split} \right] \end{aligned} \right] \end{multline}$$
+$$\begin{multline} \lambda p_{\sigma \tau} \left[ $$\begin{aligned} & \const{LocationOfSheila}_{\varrho \sigma} [p_{\sigma \tau}\const{Start}_{\tau}] = \const{Hotel}_{\varrho} \,\land\\ & \const{LocationOfOstrich}_{\varrho \sigma}[p_{\sigma \tau} \const{Start}_{\tau}] = \const{Hotel}_{\varrho} \,\land\\ & \const{LocationOfCheetah}_{\varrho \sigma}[p_{\sigma \tau} \const{Start}_{\tau}] = \const{Hotel}_{\varrho} \,\land\\ & \const{LocationOfSheila}_{\varrho \sigma}[p_{\sigma \tau} \const{Finish}_{\tau}] = \const{Farm}_{\varrho} \,\land\\ & \const{LocationOfOstrich}_{\varrho \sigma}[p_{\sigma \tau} \const{Finish}_{\tau}] = \const{Farm}_{\varrho} \,\land\\ & \const{LocationOfCheetah}_{\varrho \sigma}[p_{\sigma \tau} \const{Finish}_{\tau}] = \const{Farm}_{\varrho} \,\land\\ & \forall t_{\tau} \left [ \begin{split} & \const{Moments}_{{o}\tau}t_{\tau} \\ & \supset \left [ \begin{split} & \left[ \begin{split} & \const{LocationOfOstrich}_{\varrho \sigma}[p_{\sigma \tau}t_{\tau}] \\ & = \const{LocationOfCheetah}_{\varrho \sigma}[p_{\sigma \tau}t_{\tau}] \end{split} \right] \\ & \supset \left[ \begin{split} & \const{LocationOfSheila}_{\varrho \sigma}[p_{\sigma \tau}t_{\tau}] \\ & = \const{LocationOfCheetah}_{\varrho\sigma}[p_{\sigma\tau}t_{\tau}] \end{split} \right] \end{split} \right] \end{split} \right] \end{aligned}$$ \right] \end{multline}$$
 
 We can express the assertion that Sheila has a way to accomplish her objective with the formula
 
@@ -255,7 +255,7 @@ which can also be written as
 
 $$[\lambda \bx_{\alpha}\bA_{{o}}] {[\atoi\bx_{\alpha}\bA_{{o}}]}$$
 
-We illustrate the usefulness of the description operator with a small example. Suppose we have formalized the theory of real numbers, and our theory has constants $1_{\varrho}$ and $\times_{\varrho \varrho \varrho}$ to represent the number 1 and the multiplication function, respectively. (Here $\varrho$ is the type of real numbers.) To represent the multiplicative inverse function, we can define the wff $\textrm{INV}_{\varrho \varrho}$ as
+We illustrate the usefulness of the description operator with a small example. Suppose we have formalized the theory of real numbers, and our theory has constants $1_{\varrho}$ and $\times_{\varrho \varrho \varrho}$ to represent the number 1 and the multiplication function, respectively. (Here *ϱ* is the type of real numbers.) To represent the multiplicative inverse function, we can define the wff $\textrm{INV}_{\varrho \varrho}$ as
 
 $${\lambda z_{\varrho} \atoi x_{\varrho} [\times_{\varrho \varrho \varrho}z_{\varrho}x_{\varrho} = 1_{\varrho}]}$$
 
@@ -267,7 +267,7 @@ The Axiom of Choice can be expressed as follows in Church’s type theory:
 
 $$ \exists x_{\alpha}p_{{o}\alpha}x_{\alpha} \supset p_{{o}\alpha}[\iota_{\alpha({o}\alpha)}p_{{o}\alpha}] \tag{\(9^{\alpha}\)} $$
 
-$(9^{\alpha})$ says that the choice function $\iota_{\alpha({o}\alpha)}$ chooses from every nonempty set $p_{{o}\alpha}$ an element, designated as $\iota_{\alpha({o}\alpha)}p_{{o}\alpha}$, of that set. When this form of the Axiom of Choice is included in the list of axioms, $\iota_{\alpha({o}\alpha)}$ is called a selection operator instead of a description operator, and $\atoi\bx_{\alpha} \bA_{{o}}$ means “an $\bx_{\alpha}$ such that $\bA_{{o}}$” when there is some such element $\bx_{\alpha}$. These selection operators have the same meaning as Hilbert’s $\epsilon$-operator (Hilbert 1928)[^hilbert-1928]. However, we here provide one such operator for each type α.
+$(9^{\alpha})$ says that the choice function $\iota_{\alpha({o}\alpha)}$ chooses from every nonempty set $p_{{o}\alpha}$ an element, designated as $\iota_{\alpha({o}\alpha)}p_{{o}\alpha}$, of that set. When this form of the Axiom of Choice is included in the list of axioms, $\iota_{\alpha({o}\alpha)}$ is called a selection operator instead of a description operator, and $\atoi\bx_{\alpha} \bA_{{o}}$ means “an $\bx_{\alpha}$ such that $\bA_{{o}}$” when there is some such element $\bx_{\alpha}$. These selection operators have the same meaning as Hilbert’s *ε*-operator (Hilbert 1928)[^hilbert-1928]. However, we here provide one such operator for each type α.
 
 It is natural to call $\atoi$ a definite description operator in contexts where $\atoi\bx_{\alpha}\bA_{{o}}$ means “the $\bx_{\alpha}$ such that $\bA_{{o}}$”, and to call it an indefinite description operator in contexts where $\atoi\bx_{\alpha}\bA_{{o}}$ means “an $\bx_{\alpha}$ such that $\bA_{{o}}$”.
 
@@ -342,18 +342,18 @@ A *frame* is a collection $\{\cD_{\alpha}\}_{\alpha}$ of nonempty domains (sets)
 
 An *interpretation* $\langle \{\cD_{\alpha}\}_{\alpha}, \frI\rangle$ consists of a frame and a function $\frI$ which maps each constant *C* of type α to an appropriate element of $\cD_{\alpha}$, which is called the *denotation of* *C*. The logical constants are given their standard denotations.
 
-An *assignment* of values in the frame $\{\cD_{\alpha}\}_{\alpha}$ to variables is a function $\phi$ such that $\phi \bx_{\alpha} \in \cD_{\alpha}$ for each variable $\bx_{\alpha}$. (Notation: The assignment $\phi[a/x]$ maps variable $x$ to value *a* and it is identical with $\phi$ for all other variable symbols different from $x$.)
+An *assignment* of values in the frame $\{\cD_{\alpha}\}_{\alpha}$ to variables is a function *φ* such that $\phi \bx_{\alpha} \in \cD_{\alpha}$ for each variable $\bx_{\alpha}$. (Notation: The assignment $\phi[a/x]$ maps variable $x$ to value *a* and it is identical with *φ* for all other variable symbols different from $x$.)
 
-An interpretation $\cM = \langle \{\cD_{\alpha}\}_{\alpha}, \frI\rangle$ is a *general model* (aka *Henkin model*) iff there is a binary function $\cV$ such that $\cV_{\phi}\bA_{\alpha} \in \cD_{\alpha}$ for each assignment $\phi$ and wff $\bA_{\alpha}$, and the following conditions are satisfied for all assignments and all wffs:
+An interpretation $\cM = \langle \{\cD_{\alpha}\}_{\alpha}, \frI\rangle$ is a *general model* (aka *Henkin model*) iff there is a binary function $\cV$ such that $\cV_{\phi}\bA_{\alpha} \in \cD_{\alpha}$ for each assignment *φ* and wff $\bA_{\alpha}$, and the following conditions are satisfied for all assignments and all wffs:
 
 - $\cV_{\phi}\bx_{\alpha} = \phi \bx_{\alpha}$ for each variable $\bx_{\alpha}$.
 - $\cV_{\phi}A_{\alpha} = \frI A_{\alpha}$ if $A_{\alpha}$ is a primitive constant.
 - $\cV_{\phi}[\bA_{\alpha \beta}\bB_{\beta}] = (\cV_{\phi}\bA_{\alpha \beta})(\cV_{\phi}\bB_{\beta})$ (the value of a function $\cV_{\phi}\bA_{\alpha \beta}$ at the argument $\cV_{\phi}\bB_{\beta})$.
-- $\cV_{\phi}[\lambda \bx_{\alpha}\bB_{\beta}] =$ that function from $\cD_{\alpha}$ into $\cD_{\beta}$ whose value for each argument $z \in \cD_{\alpha}$ is $\cV_{\psi}\bB_{\beta}$, where $\psi$ is that assignment such that $\psi \bx_{\alpha} = z$ and $\psi \by_{\beta} = \phi \by_{\beta}$ if $\by_{\beta} \ne \bx_{\alpha}$.
+- $\cV_{\phi}[\lambda \bx_{\alpha}\bB_{\beta}] =$ that function from $\cD_{\alpha}$ into $\cD_{\beta}$ whose value for each argument $z \in \cD_{\alpha}$ is $\cV_{\psi}\bB_{\beta}$, where *ψ* is that assignment such that $\psi \bx_{\alpha} = z$ and $\psi \by_{\beta} = \phi \by_{\beta}$ if $\by_{\beta} \ne \bx_{\alpha}$.
 
-If an interpretation $\cM$ is a general model, the function $\cV$ is uniquely determined. $\cV_{\phi}\bA_{\alpha}$ is called the *value* of $\bA_{\alpha}$ in $\cM$ with respect to $\phi$.
+If an interpretation $\cM$ is a general model, the function $\cV$ is uniquely determined. $\cV_{\phi}\bA_{\alpha}$ is called the *value* of $\bA_{\alpha}$ in $\cM$ with respect to *φ*.
 
-One can easily show that the following statements hold in all general models $\cM$ for all assignments $\phi$ and all wffs $\bA$ and $\bB$:
+One can easily show that the following statements hold in all general models $\cM$ for all assignments *φ* and all wffs $\bA$ and $\bB$:
 
 - $\cV_{\phi} T_{{o}} = \sfT$ and $\cV_{\phi} F_{{o}} = \sfF$
 - $\cV_{\phi} [\nsim_{{o}{o}} \bA_{{o}}] = \sfT$ iff $\cV_{\phi} \bA_{{o}} = \sfF$
@@ -374,7 +374,7 @@ When instead the alternative definitions of Section 1.4 are employed, then this 
 
 An interpretation $\langle \{\cD_{\alpha}\}_{\alpha}, \frI\rangle$ is a *standard model* iff for all α and $\beta , \cD_{\alpha \beta}$ is the set of all functions from $\cD_{\beta}$ into $\cD_{\alpha}$. Clearly a standard model is a general model.
 
-We say that a wff $\bA$ is *valid* in a model $\cM$ iff $\cV_{\phi}\bA = \sfT$ for every assignment $\phi$ into $\cM$. A model for a set $\cH$ of wffs is a model in which each wff of $\cH$ is valid.
+We say that a wff $\bA$ is *valid* in a model $\cM$ iff $\cV_{\phi}\bA = \sfT$ for every assignment *φ* into $\cM$. A model for a set $\cH$ of wffs is a model in which each wff of $\cH$ is valid.
 
 A wff $\bA$ is *valid in the general* [*standard*] *sense* iff $\bA$ is valid in every general [standard] model. Clearly a wff which is valid in the general sense is valid in the standard sense, but the converse of this statement is false.
 
@@ -398,9 +398,9 @@ The first three rules of inference in Section 1.3.1 are called rules of λ-*conv
 
 By using the Axiom of Extensionality one can obtain the following derived rule of inference:
 
-> $\eta$-*Contraction*. Replace a well-formed part $[\lambda \by_{\beta}[\bB_{\alpha \beta}\by_{\beta}]]$ of a wff by $\bB_{\alpha \beta}$, provided $\by_{\beta}$ does not occur free in $\bB_{\alpha \beta}$.
+> *η*-*Contraction*. Replace a well-formed part $[\lambda \by_{\beta}[\bB_{\alpha \beta}\by_{\beta}]]$ of a wff by $\bB_{\alpha \beta}$, provided $\by_{\beta}$ does not occur free in $\bB_{\alpha \beta}$.
 
-This rule and its inverse (which is called $\eta$-*Expansion*) are sometimes used as additional rules of λ-conversion. See Church 1941, Stenlund 1972, Barendregt 1984, and Barendregt et al. 2013 for more information about λ-conversion.
+This rule and its inverse (which is called *η*-*Expansion*) are sometimes used as additional rules of λ-conversion. See Church 1941, Stenlund 1972, Barendregt 1984, and Barendregt et al. 2013 for more information about λ-conversion.
 
 It is worth mentioning (again) that λ-abstraction replaces the need for comprehension axioms in Church’s type theory.
 
@@ -408,7 +408,7 @@ It is worth mentioning (again) that λ-abstraction replaces the need for compreh
 
 The challenges in higher-order unification are outlined very briefly. More details on the topic are given in Dowek 2001; its utilization in higher-order theorem provers is also discussed in Benzmüller & Miller 2014.
 
-**Definition.** A *higher-order unifier* for a pair $\langle \bA,\bB\rangle$ of wffs is a substitution $\theta$ for free occurrences of variables such that $\theta \bA$ and $\theta \bB$ have the same β-normal form. A higher-order unifier for a set of pairs of wffs is a unifier for each of the pairs in the set.
+**Definition.** A *higher-order unifier* for a pair $\langle \bA,\bB\rangle$ of wffs is a substitution *θ* for free occurrences of variables such that $\theta \bA$ and $\theta \bB$ have the same β-normal form. A higher-order unifier for a set of pairs of wffs is a unifier for each of the pairs in the set.
 
 Higher-order unification differs from first-order unification (Baader & Snyder 2001)[^baader-2001] in a number of important respects. In particular:
 
@@ -427,7 +427,7 @@ The *Unifying Principle* was introduced in Smullyan 1963 (see also Smullyan 1995
 
 The Unifying Principle was extended to elementary type theory (the system $\cT$ of Section 1.3.2) in Andrews 1971 by applying ideas in Takahashi 1967. This Unifying Principle for $\cT$ has been used to establish cut-elimination for $\cT$ in Andrews 1971 and completeness proofs for various systems of type theory in Huet 1973a, Kohlhase 1995, and Miller 1983. We first give a definition and then state the principle.
 
-**Definition.** A property $\Gamma$ of finite sets of wffs$_{{o}}$ is an *abstract consistency property* iff for all finite sets $\cS$ of wffs$_{{o}}$, the following properties hold (for all wffs **A, B**):
+**Definition.** A property *Γ* of finite sets of wffs$_{{o}}$ is an *abstract consistency property* iff for all finite sets $\cS$ of wffs$_{{o}}$, the following properties hold (for all wffs **A, B**):
 
 1. If $\Gamma(\cS)$, then there is no atom $\bA$ such that $\bA \in \cS$ and $[\nsim \bA] \in \cS$.
 2. If $\Gamma(\cS \cup \{\bA\})$, then $\Gamma(\cS \cup {\downarrow} \bA\})$.
@@ -439,9 +439,9 @@ The Unifying Principle was extended to elementary type theory (the system $\cT$ 
 
 Note that *consistency* is an abstract consistency property.
 
-**Unifying Principle for $\cT$.** If $\Gamma$ is an abstract consistency property and $\Gamma(\cS)$, then $\cS$ is consistent in $\cT$.
+**Unifying Principle for $\cT$.** If *Γ* is an abstract consistency property and $\Gamma(\cS)$, then $\cS$ is consistent in $\cT$.
 
-Here is a typical application of the Unifying Principle. Suppose there is a procedure $\cM$ which can be used to refute sets of sentences, and we wish to show it is complete for $\cT$. For any set of sentences, let $\Gamma(\cS)$ mean that $\cS$ is not refutable by $\cM$, and show that $\Gamma$ is an abstract consistency property. Now suppose that $\bA$ is a theorem of $\cT$. Then $\{\nsim \bA\}$ is inconsistent in $\cT$, so by the Unifying Principle not $\Gamma(\{\nsim \bA\})$, so $\{\nsim \bA\}$ is refutable by $\cM$.
+Here is a typical application of the Unifying Principle. Suppose there is a procedure $\cM$ which can be used to refute sets of sentences, and we wish to show it is complete for $\cT$. For any set of sentences, let $\Gamma(\cS)$ mean that $\cS$ is not refutable by $\cM$, and show that *Γ* is an abstract consistency property. Now suppose that $\bA$ is a theorem of $\cT$. Then $\{\nsim \bA\}$ is inconsistent in $\cT$, so by the Unifying Principle not $\Gamma(\{\nsim \bA\})$, so $\{\nsim \bA\}$ is refutable by $\cM$.
 
 #### 3.3.2 Extensional Type Theory
 
@@ -480,7 +480,7 @@ Since type theory includes first-order logic, it is no surprise that most system
 
 Although the system $\cT$ of elementary type theory is analogous to first-order logic in certain respects, it is a considerably more complex language, and special cases of the decision problem for provability in $\cT$ seem rather intractable for the most part. Information about some very special cases of this decision problem may be found in Andrews 1974, and we now summarize this.
 
-A wff of the form $\exists \bx^1 \ldots \exists \bx^n [\bA=\bB]$ is a theorem of $\cT$ iff there is a substitution $\theta$ such that $\theta \bA \conv \theta \bB$. In particular, $\vdash \bA=\bB$ iff $\bA \conv \bB$, which solves the decision problem for wffs of the form $[\bA=\bB]$. Naturally, the circumstance that only trivial equality formulas are provable in $\cT$ changes drastically when axioms of extensionality are added to $\cT$. $\vdash \exists \bx_{\beta}[\bA=\bB]$ iff there is a wff $\bE_{\beta}$ such that $\vdash[\lambda \bx_{\beta}[\bA=\bB]]\bE_{\beta}$, but the decision problem for the class of wffs of the form $\exists \bx_{\beta}[\bA=\bB]$ is unsolvable.
+A wff of the form $\exists \bx^1 \ldots \exists \bx^n [\bA=\bB]$ is a theorem of $\cT$ iff there is a substitution *θ* such that $\theta \bA \conv \theta \bB$. In particular, $\vdash \bA=\bB$ iff $\bA \conv \bB$, which solves the decision problem for wffs of the form $[\bA=\bB]$. Naturally, the circumstance that only trivial equality formulas are provable in $\cT$ changes drastically when axioms of extensionality are added to $\cT$. $\vdash \exists \bx_{\beta}[\bA=\bB]$ iff there is a wff $\bE_{\beta}$ such that $\vdash[\lambda \bx_{\beta}[\bA=\bB]]\bE_{\beta}$, but the decision problem for the class of wffs of the form $\exists \bx_{\beta}[\bA=\bB]$ is unsolvable.
 
 A wff of the form $\forall \bx^1 \ldots \forall \bx^n\bC$, where $\bC$ is quantifier-free, is provable in $\cT$ iff ${\downarrow} \bC$ is tautologous. On the other hand, the decision problem for wffs of the form $\exists \bz\bC$, where $\bC$ is quantifier-free, is unsolvable. (By contrast, the corresponding decision problem in first-order logic with function symbols is known to be solvable (Maslov 1967)[^maslov-1967].) Since irrelevant or vacuous quantifiers can always be introduced, this shows that the only solvable classes of wffs of $\cT$ in prenex normal form defined solely by the structure of the prefix are those in which no existential quantifiers occur.
 
@@ -794,7 +794,7 @@ Portions of this material are adapted from Andrews 2002 and Andrews 2001, with p
 
 [^gordon-1993]: Gordon, M. J., and T. F. Melham, 1993, *Introduction to HOL: A Theorem-Proving Environment for Higher-Order Logic*, Cambridge: Cambridge University Press.
 
-[^gould-1966]: Gould, William Eben, 1966, *A Matching Procedure for $\omega$-order Logic*, Ph.D. dissertation, Mathematics Department, Princeton University. [[Gould 1966 available online](https://apps.dtic.mil/sti/citations/AD0646560)]
+[^gould-1966]: Gould, William Eben, 1966, *A Matching Procedure for *ω*-order Logic*, Ph.D. dissertation, Mathematics Department, Princeton University. [[Gould 1966 available online](https://apps.dtic.mil/sti/citations/AD0646560)]
 
 [^hales-2017]: Hales, Thomas, Mark Adams, Gertrud Bauer, Tat Dat Dang, John Harrison, Le Truong Hoang, Cezary Kaliszyk, et al., 2017, “A Formal Proof of the Kepler Conjecture”, *Forum of Mathematics, Pi*, 5: e2. doi:10.1017/fmp.2017.1
 

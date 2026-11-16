@@ -419,7 +419,7 @@ If $u(\sigma_1,\sigma_2)$ denotes the expected payoff for an agent who follows a
 
 And $\sigma^{*}$ is *evolutionarily stable* if $\sigma^{*}$ is immune against every strategy $\sigma \ne \sigma^{*}$ .
 
-[^note-19]: Eshel and Cavalli-Sforza (1982) first developed the correlated replicator dynamic. In this dynamic, if $p(s_j)$ is the probability of meeting strategy $s_j$ at random, and $\alpha$ is the correlation rate, then with correlation the probability of a strategy $s_i$ meeting itself $p(s_i \mid s_i)$ is augmented to become $p(s_i \mid s_i) = p(s_) + \alpha p (\text{not-}s_i),$ and the probability of $s_i$ meeting a different strategy $s_j,$ $p(s_i \mid s_j)$ is diminished so that $p(s_i \mid s_j) = p(s_j) + \alpha p(s_j).$
+[^note-19]: Eshel and Cavalli-Sforza (1982) first developed the correlated replicator dynamic. In this dynamic, if $p(s_j)$ is the probability of meeting strategy $s_j$ at random, and *α* is the correlation rate, then with correlation the probability of a strategy $s_i$ meeting itself $p(s_i \mid s_i)$ is augmented to become $p(s_i \mid s_i) = p(s_) + \alpha p (\text{not-}s_i),$ and the probability of $s_i$ meeting a different strategy $s_j,$ $p(s_i \mid s_j)$ is diminished so that $p(s_i \mid s_j) = p(s_j) + \alpha p(s_j).$
 
 [^note-20]: Specifically, what we see in the correlated replicator dynamic depicted in Figure 14 is that initial population distributions that consisted of mostly *H*-followers and *D*-followers, and very few *M*-followers, now converge to $\be_2$ as opposed to converging to the polymorphic equilibrium we saw with the original replicator dynamics that lied along the $e_1 - e_2$ edge.
 

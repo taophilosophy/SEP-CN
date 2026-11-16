@@ -96,20 +96,20 @@ We are now taking a closer look at CA, focusing on models and results of philoso
 1. *Discrete n-dimensional lattice of cells*: We can have one-dimensional, two-dimensional, …, *n*-dimensional CA. The atomic components of the lattice can be differently shaped: for example, a 2D lattice can be composed of triangles, squares, or hexagons. Usually *homogeneity* is assumed: all cells are qualitatively identical.
 2. *Discrete states*: At each discrete time step, each cell is in one and only one state, $\sigma \in \Sigma, \Sigma$ being a set of finite cardinality $|\Sigma| = k$.
 3. *Local interactions*: Each cell’s behavior depends only on what happens within its local *neighborhood* of cells (which may or may not include the cell itself). Lattices with the same basic topology may have different definitions of neighborhood, as we will see below. It is crucial, however, to note that “actions at a distance” are not allowed.
-4. *Discrete dynamics*: At each time step, each cell updates its current state according to a deterministic transition function $\phi: \Sigma^n \rightarrow \Sigma$ mapping neighborhood configurations (*n*-tuples of states of $\Sigma$) to $\Sigma$. It is also usually, though not necessarily, assumed that (i) the update is *synchronous*, and (ii) $\phi$ takes as input at time step *t* the neighborhood states at the immediately *previous* time step $t - 1$.
+4. *Discrete dynamics*: At each time step, each cell updates its current state according to a deterministic transition function $\phi: \Sigma^n \rightarrow \Sigma$ mapping neighborhood configurations (*n*-tuples of states of $\Sigma$) to $\Sigma$. It is also usually, though not necessarily, assumed that (i) the update is *synchronous*, and (ii) *φ* takes as input at time step *t* the neighborhood states at the immediately *previous* time step $t - 1$.
 
 One can exhaustively describe, for instance, the automaton of our classroom example:
 
 1. 1-dimensional lattice of square cells on a line.
 2. $\Sigma = {1, 0}$ (1 = black or hat on, 0 = white or hat off), so $|\Sigma| = 2$.
 3. Each cell’s neighborhood is composed by the two nearest cells. If we index the cells by the integers, so that $c_i$ is cell number *i*, then the neighborhood of $c_i$ is $N(c_i) = \langle c_{i - 1}, c_{i + 1}\rangle$.
-4. The transition rule $\phi$ is simple: At each time step *t*, a cell state is 1 if exactly one of the neighboring cells was 1 at $t - 1, 0$ otherwise.
+4. The transition rule *φ* is simple: At each time step *t*, a cell state is 1 if exactly one of the neighboring cells was 1 at $t - 1, 0$ otherwise.
 
 A rule for a CA can be expressed as a conditional instruction: “If the neighborhood is this-and-this, then turn to state *s*”. One can write the general form of the rule for one-dimensional CA:
 
 $$\tag{Rule1D} \sigma_i (t + 1) = \phi(\sigma_{i - r} (t), \sigma_{i - r + 1} (t), \ldots, \sigma_{i + r - 1} (t), \sigma_{i + r} (t)) $$
 
-where $\sigma_{i}(t) \in \Sigma = \{0, 1, \ldots, k - 1\}$ is the state of cell number *i* at time step *t*; *r* specifies the *range*, that is, how many cells on any side count as neighbors for a given cell; and $\phi$ is defined explicitly by assigning values in $\Sigma$ to each of the $k^{2r+1} (2r + 1)$-tuples representing all the possible neighborhood configurations. For example, with $r = 1, \Sigma = \{1, 0\}$, a possible transition rule $\phi$ can be expressed as in Fig. 4 (with 1 being represented as *black*, 0 as *white*):
+where $\sigma_{i}(t) \in \Sigma = \{0, 1, \ldots, k - 1\}$ is the state of cell number *i* at time step *t*; *r* specifies the *range*, that is, how many cells on any side count as neighbors for a given cell; and *φ* is defined explicitly by assigning values in $\Sigma$ to each of the $k^{2r+1} (2r + 1)$-tuples representing all the possible neighborhood configurations. For example, with $r = 1, \Sigma = \{1, 0\}$, a possible transition rule *φ* can be expressed as in Fig. 4 (with 1 being represented as *black*, 0 as *white*):
 
 ![Fig. 4](../assets/cellular-automata/fig4.jpg)
 
@@ -189,9 +189,9 @@ CA provided not just the intuition, but a formal framework to investigate the hy
 | *111* | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | *1* |
 | Class | 4 | 2 | 2 | 3 | 3 | 3 | 1 | 2 | 1 |
 
-At a first approximation, the Edge of Chaos hypothesis is confirmed: three of the eight neighbors are Class₃, three are Class₂, two are Class₁: *Rule 110* is the only Class₄ in the table. To generalize these findings to the entire class of rules for one-dimensional CA, Langton introduced a parameter, $\lambda$, that applies to each $\phi$: for $k = 2$, $r = 1$ (binary-state, unary-range) CA, $\lambda(\phi)$ can be computed as the fraction of entries of the transition rule table that are mapped to a non-zero output (see Langton 1990: 14, for the general definition)[^langton-1990]. In our case this means: $\lambda(\phi)$ will be equal to the number of ones in the rule column—e.g., $\lambda(\phi) = 5/8$ for $\phi$ = *Rule 110* and $\lambda(\phi) = 1/2$ for $\phi$ = *Rule 46*. Langton’s major finding was that a simple measure such as $\lambda$ correlates with the system behavior: as $\lambda$ goes from 0 to 1, the average behavior of the systems goes from freezing to periodic patterns to chaos. Langton singled out 1/2 as the value of $\lambda$ at which the average behavior first shows evidence of chaos: rules $\phi$ with $\lambda(\phi) \sim 1/2$ were highlighted as being on the Edge (see Miller & Page 2001: 133).
+At a first approximation, the Edge of Chaos hypothesis is confirmed: three of the eight neighbors are Class₃, three are Class₂, two are Class₁: *Rule 110* is the only Class₄ in the table. To generalize these findings to the entire class of rules for one-dimensional CA, Langton introduced a parameter, *λ*, that applies to each *φ*: for $k = 2$, $r = 1$ (binary-state, unary-range) CA, $\lambda(\phi)$ can be computed as the fraction of entries of the transition rule table that are mapped to a non-zero output (see Langton 1990: 14, for the general definition)[^langton-1990]. In our case this means: $\lambda(\phi)$ will be equal to the number of ones in the rule column—e.g., $\lambda(\phi) = 5/8$ for *φ* = *Rule 110* and $\lambda(\phi) = 1/2$ for *φ* = *Rule 46*. Langton’s major finding was that a simple measure such as *λ* correlates with the system behavior: as *λ* goes from 0 to 1, the average behavior of the systems goes from freezing to periodic patterns to chaos. Langton singled out 1/2 as the value of *λ* at which the average behavior first shows evidence of chaos: rules *φ* with $\lambda(\phi) \sim 1/2$ were highlighted as being on the Edge (see Miller & Page 2001: 133).
 
-| **$\lambda$** | **All Rules** | **Chaotic Rules** | **Complex Rules** |
+| ***λ*** | **All Rules** | **Chaotic Rules** | **Complex Rules** |
 | --- | --- | --- | --- |
 | *0* | 1 | 0 | 0 |
 | *1/8* | 8 | 0 | 0 |
@@ -203,21 +203,21 @@ At a first approximation, the Edge of Chaos hypothesis is confirmed: three of th
 | *7/8* | 8 | 0 | 0 |
 | *1* | 1 | 0 | 0 |
 
-Both chaotic and complex rules have an average $\lambda$ value around 1/2, thus apparently supporting the Edge of Chaos hypothesis. It is fair to say, though, that some have cast doubts on the explanatory role of parameter $\lambda$ and the inferences drawn from it. In particular, the transition region of the Edge of Chaos seems to be itself complex. Miller and Page note that “there are multiple edges, not just a single one” (Miller & Page 2007: 133)[^miller-2007][^miller-2007-2]. Aggregate results do not hold when we analyze individual rules, even paradigmatic ones:
+Both chaotic and complex rules have an average *λ* value around 1/2, thus apparently supporting the Edge of Chaos hypothesis. It is fair to say, though, that some have cast doubts on the explanatory role of parameter *λ* and the inferences drawn from it. In particular, the transition region of the Edge of Chaos seems to be itself complex. Miller and Page note that “there are multiple edges, not just a single one” (Miller & Page 2007: 133)[^miller-2007][^miller-2007-2]. Aggregate results do not hold when we analyze individual rules, even paradigmatic ones:
 
 |   | **110** | **111** | **108** | **106** | **102** | **126** | **78** | **46** | **228** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| $\lambda$ | 5/8 | 3/4 | 1/2 | 1/2 | 1/2 | 3/4 | 1/2 | 1/2 | 3/4 |
+| *λ* | 5/8 | 3/4 | 1/2 | 1/2 | 1/2 | 3/4 | 1/2 | 1/2 | 3/4 |
 
-As the table shows, among the *Rule 110* neighbors, some chaotic rules $\phi$ have $\lambda(\phi) = 3/4$, some cyclic ones have $\lambda(\phi) = 1/2$ and, indeed,
+As the table shows, among the *Rule 110* neighbors, some chaotic rules *φ* have $\lambda(\phi) = 3/4$, some cyclic ones have $\lambda(\phi) = 1/2$ and, indeed,
 
-> every one of the rules classified as complex in this space has at least one chaotic neighbor with a lower $\lambda$ value and one with higher value. (Miller & Page 2007: 135)[^miller-2007][^miller-2007-2]
+> every one of the rules classified as complex in this space has at least one chaotic neighbor with a lower *λ* value and one with higher value. (Miller & Page 2007: 135)[^miller-2007][^miller-2007-2]
 
 Melanie Mitchell, Peter Hraber, and James Crutchfield replicated Langton and Packard’s experiments, reporting very different results (Mitchell, Hraber, & Crutchfield 1994)[^mitchell-1994]. In particular, they report that serious computational phenomena take place much closer to a chaotic $\lambda(\phi) = 1/2$ than it was previously thought. Apart from technical points, a conceptual flaw in the original findings is the use of aggregate statistics, which are difficult to interpret in a high variance context:
 
-> if, instead, the hypotheses are concerned with generic, statistical properties of CA rule space—the “average” behavior of an “average CA” at a given $\lambda$—then the notion of “average behavior” must be better defined. (Mitchell, Hraber, & Crutchfield 1994: 14)[^mitchell-1994]
+> if, instead, the hypotheses are concerned with generic, statistical properties of CA rule space—the “average” behavior of an “average CA” at a given *λ*—then the notion of “average behavior” must be better defined. (Mitchell, Hraber, & Crutchfield 1994: 14)[^mitchell-1994]
 
-While it is fair to conclude that complex behavior does not lie at the Edge of Chaos taken in a simplistic sense (i.e., it is not straightforwardly correlated with the simple $\lambda$), the interest in the connection between computational capabilities and phase transitions in the CA rule space has been growing since then. We will consider such developments below, specifically in the context of CA and the philosophy of computation.
+While it is fair to conclude that complex behavior does not lie at the Edge of Chaos taken in a simplistic sense (i.e., it is not straightforwardly correlated with the simple *λ*), the interest in the connection between computational capabilities and phase transitions in the CA rule space has been growing since then. We will consider such developments below, specifically in the context of CA and the philosophy of computation.
 
 ### 2.5 CA in More Dimensions: the *Game of Life*
 

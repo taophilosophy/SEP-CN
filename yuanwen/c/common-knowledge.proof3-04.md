@@ -6,7 +6,7 @@
 
 ## Proof of Proposition 3.4
 
-**Proposition 3.4**. In a game $\Gamma$, common knowledge of Bayesian rationality is satisfied if, and only if, (3.i) is common knowledge.
+**Proposition 3.4**. In a game *Γ*, common knowledge of Bayesian rationality is satisfied if, and only if, (3.i) is common knowledge.
 
 **Proof.** Suppose first that common knowledge of Bayesian rationality is satisfied. Since it is common knowledge that agent $i$ knows that agent $k$ is Bayesian rational, it is also common knowledge that if $\mu_i (s_{kj}) \gt 0$, then $s_{kj}$ must be optimal for $k$ given some belief over $S_{-k},$ so (3.i) is common knowledge.
 

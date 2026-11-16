@@ -187,7 +187,7 @@ where “$\approx$” stands for “indistinguishable from”, and “$\rightarr
 
 The leading practitioner of the calculus, indeed the leading mathematician of the eighteenth century, was Leonhard Euler[^note-22] (1707–83). Philosophically Euler was a thoroughgoing synechist. Rejecting Leibnizian monadism, he favored the Cartesian doctrine that the universe is filled with a continuous ethereal fluid and upheld the wave theory of light over the corpuscular theory propounded by Newton.
 
-Euler rejected the concept of infinitesimal in its sense as a quantity less than any assignable magnitude and yet unequal to 0, arguing: that differentials must be zeros, and $\Dy/\Dx$ the quotient $0/0$. Since for any number $\alpha$, $\alpha \cdot 0 = 0$, Euler maintained that the quotient $0/0$ could represent any number whatsoever.[^note-23] For Euler *qua* formalist the calculus was essentially a procedure for determining the value of the expression $0/0$ in the manifold situations it arises as the ratio of evanescent increments.
+Euler rejected the concept of infinitesimal in its sense as a quantity less than any assignable magnitude and yet unequal to 0, arguing: that differentials must be zeros, and $\Dy/\Dx$ the quotient $0/0$. Since for any number *α*, $\alpha \cdot 0 = 0$, Euler maintained that the quotient $0/0$ could represent any number whatsoever.[^note-23] For Euler *qua* formalist the calculus was essentially a procedure for determining the value of the expression $0/0$ in the manifold situations it arises as the ratio of evanescent increments.
 
 But in the mathematical analysis of natural phenomena, Euler, along with a number of his contemporaries, did employ what amount to infinitesimals in the form of minute, but more or less concrete “elements” of continua, treating them not as atoms or monads in the strict sense—as parts of a continuum they must of necessity be divisible—but as being of sufficient minuteness to preserve their rectilinear *shape* under infinitesimal flow, yet allowing their *volume* to undergo infinitesimal change. This idea was to become fundamental in continuum mechanics.
 
@@ -243,7 +243,7 @@ It is to be noted that Dedekind does not identify irrational numbers with cuts; 
 
 > if the system $\Re$ of all real numbers divides into two classes $\fA_1$, $\fA_2$ such that every number $a_1$ of the class $\fA_1$ is less than every number $a_2$ of the class $\fA_2$, then there exists one and only one number by which this separation is produced. (1872: section 5 [1999: 776])
 
-The most visionary “arithmetizer” of all was Georg Cantor[^note-31] (1845–1918). Cantor’s analysis of the continuum in terms of infinite point sets led to his theory of transfinite numbers and to the eventual freeing of the concept of set from its geometric origins as a collection of points, so paving the way for the emergence of the concept of general abstract set central to today’s mathematics. Like Weierstrass and Dedekind, Cantor aimed to formulate an adequate definition of the real numbers which avoided the presupposition of their prior existence, and he follows them in basing his definition on the rational numbers. Following Cauchy, he calls a sequence $a_1,$ $a_2 ,$…, $a_n,$… of rational numbers a *fundamental sequence* if there exists an integer $N$ such that, for any positive rational $\varepsilon$, there exists an integer $N$ such that $\lvert a_{n+m} - a_n \rvert \lt \varepsilon$ for all $m$ and all $n \gt N$. Any sequence $\langle a_n\rangle$ satisfying this condition is said to have a *definite limit b*. Dedekind had taken irrational numbers to be *mental objects* associated with cuts, so, analogously, Cantor regards these definite limits, as nothing more than *formal symbols* associated with fundamental sequences (Dauben 1979: 38)[^dauben-1979]. The domain $B$ of such symbols may be considered an enlargement of the domain $A$ of rational numbers. After imposing an arithmetical structure on the domain $B$, Cantor is emboldened to refer to its elements as (real) *numbers*. Nevertheless, he still insists that these “numbers” have no existence except as representatives of fundamental sequences. Cantor then shows that each point on the line corresponds to a definite element of $B$. Conversely, each element of $B$ should determine a definite point on the line. Realizing that the intuitive nature of the linear continuum precludes a rigorous proof of this property, Cantor simply assumes it as an axiom, just as Dedekind had done in regard to his principle of continuity.
+The most visionary “arithmetizer” of all was Georg Cantor[^note-31] (1845–1918). Cantor’s analysis of the continuum in terms of infinite point sets led to his theory of transfinite numbers and to the eventual freeing of the concept of set from its geometric origins as a collection of points, so paving the way for the emergence of the concept of general abstract set central to today’s mathematics. Like Weierstrass and Dedekind, Cantor aimed to formulate an adequate definition of the real numbers which avoided the presupposition of their prior existence, and he follows them in basing his definition on the rational numbers. Following Cauchy, he calls a sequence $a_1,$ $a_2 ,$…, $a_n,$… of rational numbers a *fundamental sequence* if there exists an integer $N$ such that, for any positive rational *ε*, there exists an integer $N$ such that $\lvert a_{n+m} - a_n \rvert \lt \varepsilon$ for all $m$ and all $n \gt N$. Any sequence $\langle a_n\rangle$ satisfying this condition is said to have a *definite limit b*. Dedekind had taken irrational numbers to be *mental objects* associated with cuts, so, analogously, Cantor regards these definite limits, as nothing more than *formal symbols* associated with fundamental sequences (Dauben 1979: 38)[^dauben-1979]. The domain $B$ of such symbols may be considered an enlargement of the domain $A$ of rational numbers. After imposing an arithmetical structure on the domain $B$, Cantor is emboldened to refer to its elements as (real) *numbers*. Nevertheless, he still insists that these “numbers” have no existence except as representatives of fundamental sequences. Cantor then shows that each point on the line corresponds to a definite element of $B$. Conversely, each element of $B$ should determine a definite point on the line. Realizing that the intuitive nature of the linear continuum precludes a rigorous proof of this property, Cantor simply assumes it as an axiom, just as Dedekind had done in regard to his principle of continuity.
 
 For Cantor, who began as a number-theorist, and throughout his career cleaved to the discrete, it was numbers, rather than geometric points, that possessed objective significance. Indeed the isomorphism between the discrete numerical domain $B$ and the linear continuum was regarded by Cantor essentially as a device for facilitating the manipulation of numbers.
 
@@ -265,7 +265,7 @@ Cantor defines an *arithmetical* point-set in $G_n$ to be any “aggregate of po
 
 After remarking that he has previously shown that all spaces $G_n$ have the same power as the set of real numbers in the interval (0,1), and reiterating his conviction that any infinite point sets has either the power of the set of natural numbers or that of (0,1),[^note-32] Cantor turns to the definition of the general concept of a continuum within $G_{n}.$ For this he employs the concept of *derivative* or *derived set* of a point set introduced in a paper of 1872 on trigonometric series. Cantor had defined the derived set of a point set $P$ to be the set of *limit points* of $P,$ where a limit point of $P$ is a point of $P$ with infinitely many points of $P$ arbitrarily close to it. A point set is called *perfect* if it coincides with its derived set.[^note-33] Cantor observes that this condition does not suffice to characterize a continuum, since perfect sets can be constructed in the linear continuum which are dense in no interval, however small: as an example of such a set he offers the set[^note-34] consisting of all real numbers in (0,1) whose ternary expansion does not contain a “1”.
 
-Accordingly an additional condition is needed to define a continuum. Cantor supplies this by introducing the concept of a *connected* set. A point set $T$ is connected in Cantor’s sense if for any pair of its points $t, t'$ and any arbitrarily small number $\varepsilon$ there is a finite sequence of points $t_1,$ $t_2,$…, $t_n$ of $T$ for which the distances $[tt_1],$ $[t_1 t_2],$ $[t_2 t_3],$ …, $[t_n t'],$ are all less than $\varepsilon$. Cantor now defines a continuum to be a perfect connected point set.
+Accordingly an additional condition is needed to define a continuum. Cantor supplies this by introducing the concept of a *connected* set. A point set $T$ is connected in Cantor’s sense if for any pair of its points $t, t'$ and any arbitrarily small number *ε* there is a finite sequence of points $t_1,$ $t_2,$…, $t_n$ of $T$ for which the distances $[tt_1],$ $[t_1 t_2],$ $[t_2 t_3],$ …, $[t_n t'],$ are all less than *ε*. Cantor now defines a continuum to be a perfect connected point set.
 
 Cantor has advanced beyond his predecessors in formulating what is in essence a *topological* definition of continuum, one that, while still dependent on metric notions, does not involve an order relation.[^note-35] It is interesting to compare Cantor’s definition with the definition of continuum in modern general topology. In a well-known textbook (Hocking & Young 1961: 43)[^hocking-1961] on the subject we find a *continuum* defined as a compact connected subset of a topological space. Now within any *bounded* region of Euclidean space it can be shown that Cantor’s continua coincide with continua in the sense of the modern definition. While Cantor lacked the definition of compactness, his requirement that continua be “complete” (which led to his rejecting as continua such noncompact sets as open intervals or discs) is not far away from the idea.
 
@@ -315,13 +315,13 @@ After Robinson’s initial insight, a number of ways of presenting nonstandard a
 
 Starting with the classical real line $\Re$, a set-theoretic universe—the *standard universe*—is first constructed over it: here by such a universe is meant a set $U$ containing $\Re$ which is closed under the usual set-theoretic operations of union, power set, Cartesian products and subsets. Now write $\fU$ for the structure $(U, \in)$, where $\in$ is the usual membership relation on $U$: associated with this is the extension $\cL(U)$ of the first-order language of set theory to include a name $\boldsymbol{u}$ for each element $u$ of $U$. Now, using the well-known compactness theorem for first-order logic, $\fU$ is extended to a new structure $^*\fU = (^*U$, $^*{\in})$, called a *nonstandard universe*, satisfying the following key principle:
 
-**Saturation Principle**. Let $\Phi$ be a collection of $\cL(U)$-formulas with exactly one free variable. If $\Phi$ is *finitely satisfiable* in $\fU$, that is, if for any finite subset $\Phi '$ of $\Phi$ there is an element of $U$ which satisfies all the formulas of $\Phi '$ in $\fU$, then there is an element of $^*U$ which satisfies all the formulas of $\Phi$ in $^*\fU$.
+**Saturation Principle**. Let *Φ* be a collection of $\cL(U)$-formulas with exactly one free variable. If *Φ* is *finitely satisfiable* in $\fU$, that is, if for any finite subset $\Phi '$ of *Φ* there is an element of $U$ which satisfies all the formulas of $\Phi '$ in $\fU$, then there is an element of $^*U$ which satisfies all the formulas of *Φ* in $^*\fU$.
 
 The saturation property expresses the intuitive idea that the nonstandard universe is very rich in comparison to the standard one. Indeed, while there may exist, for each finite subcollection $\cF$ of a given collection of properties $\cP$, an element of $U$ satisfying the members of $\cF$ in $\fU$, there may not necessarily be an element of $U$ satisfying *all* the members of $\cP$. The saturation of $^*\fU$ guarantees the existence of an element of $^*U$ which satisfies, in $^*\fU$, all the members of $\cP$. For example, suppose the set $\bbN$ of natural numbers is a member of $U$; for each $n \in \bbN$ let $P_n (x)$ be the property $x \in \bbN \amp n \lt x$. Then clearly, while each finite subcollection of the collection $\cP = \{P_n : n \in \bbN\}$ is satisfiable in $\fU$, the whole collection is not. An element of $^*U$ satisfying $\cP$ in $^*\fU$ will then be an “natural number” greater than every member of $\bbN$, that is, an *infinite* number.
 
 From the saturation property it follows that $^*\fU$ satisfies the important
 
-**Transfer Principle**. If $\sigma$ is any sentence of $\cL(U)$, then $\sigma$ holds in $\fU$ if and only if it holds in $^*\fU$.
+**Transfer Principle**. If *σ* is any sentence of $\cL(U)$, then *σ* holds in $\fU$ if and only if it holds in $^*\fU$.
 
 The transfer principle may be seen as a version of Leibniz’s continuity principle: it asserts that all first-order properties are preserved in the passage to or “transfer” from the standard to the nonstandard universe.
 
@@ -439,7 +439,7 @@ The constructive real line $R$ as introduced above is a model of **CA**. Are the
 
 In constructive analysis, a real number is an infinite (convergent) sequence of rational numbers generated by an effective rule, so that the constructive real line is essentially just a restriction of its classical counterpart. Brouwerian intuitionism takes a more liberal view of the matter, resulting in a considerable enrichment of the arithmetical continuum over the version offered by strict constructivism. As conceived by intuitionism, the arithmetical continuum admits as real numbers not only infinite sequences determined in advance by an effective rule for computing their terms, but also ones in whose generation free selection plays a part. The latter are called *(free) choice sequences*. Without loss of generality we may and shall assume that the entries in choice sequences are natural numbers.
 
-While constructive analysis does not formally contradict classical analysis, and may in fact be regarded as a subtheory of the latter, a number of intuitionistically plausible principles have been proposed for the theory of choice sequences which render intuitionistic analysis divergent from its classical counterpart. One such principle is *Brouwer’s Continuity Principle*: given a relation $Q(\alpha , n)$ between choice sequences $\alpha$ and numbers $n$, if for each $\alpha$ a number $n$ may be determined for which $Q(\alpha , n)$ holds, then $n$ can already be determined on the basis of the knowledge of a finite number of terms of $\alpha$.[^note-45] From this one can prove a weak version of the Continuity Theorem, namely, that every function from $R$ to $R$ is continuous. Another such principle is *Bar Induction*, a certain form of induction for well-founded sets of finite sequences.[^note-46] Brouwer used Bar Induction and the Continuity Principle in proving his Continuity Theorem that every real-valued function defined on a closed interval is uniformly continuous, from which, as has already been observed, it follows that the intuitionistic continuum is indecomposable.
+While constructive analysis does not formally contradict classical analysis, and may in fact be regarded as a subtheory of the latter, a number of intuitionistically plausible principles have been proposed for the theory of choice sequences which render intuitionistic analysis divergent from its classical counterpart. One such principle is *Brouwer’s Continuity Principle*: given a relation $Q(\alpha , n)$ between choice sequences *α* and numbers $n$, if for each *α* a number $n$ may be determined for which $Q(\alpha , n)$ holds, then $n$ can already be determined on the basis of the knowledge of a finite number of terms of *α*.[^note-45] From this one can prove a weak version of the Continuity Theorem, namely, that every function from $R$ to $R$ is continuous. Another such principle is *Bar Induction*, a certain form of induction for well-founded sets of finite sequences.[^note-46] Brouwer used Bar Induction and the Continuity Principle in proving his Continuity Theorem that every real-valued function defined on a closed interval is uniformly continuous, from which, as has already been observed, it follows that the intuitionistic continuum is indecomposable.
 
 Brouwer gave the intuitionistic conception of mathematics an explicitly subjective twist by introducing the *creative subject*. The creative subject was conceived as a kind of idealized mathematician for whom time is divided into discrete sequential stages, during each of which he may test various propositions, attempt to construct proofs, and so on. In particular, it can always be determined whether or not at stage $n$ the creative subject has a proof of a particular mathematical proposition $p$. While the theory of the creative subject remains controversial, its purely mathematical consequences can be obtained by a simple postulate which is entirely free of subjective and temporal elements.
 
@@ -463,25 +463,25 @@ where $f '(x)$ is the derivative of $f(x)$ and $A$ is a quantity whose value dep
 
 $$\tag{2} f(x + \delta x) - f(x) = \delta y = f '(x) \delta x.$$
 
-We shall call a quantity having the property that its square is zero a *nilsquare infinitesimal* or simply a *microquantity*. In SIA “enough” microquantities are present to ensure that equation (2) holds *nontrivially* for *arbitrary* functions $f: \bR \rightarrow \bR$. (Of course (2) holds trivially in standard mathematical analysis because there 0 is the sole microquantity in this sense.) The meaning of the term “nontrivial” here may be explicated in following way. If we replace $\delta x$ by the letter $\varepsilon$ standing for an arbitrary microquantity, (2) assumes the form
+We shall call a quantity having the property that its square is zero a *nilsquare infinitesimal* or simply a *microquantity*. In SIA “enough” microquantities are present to ensure that equation (2) holds *nontrivially* for *arbitrary* functions $f: \bR \rightarrow \bR$. (Of course (2) holds trivially in standard mathematical analysis because there 0 is the sole microquantity in this sense.) The meaning of the term “nontrivial” here may be explicated in following way. If we replace $\delta x$ by the letter *ε* standing for an arbitrary microquantity, (2) assumes the form
 
 $$\tag{3} f(x + \varepsilon) - f(x) = \varepsilon f '(x).$$
 
-Ideally, we want the validity of this equation to be independent of $\varepsilon$ , that is, given $x$, for it to hold for *all* microquantities $\varepsilon$. In that case the derivative $f '(x)$ may be *defined* as the unique quantity $D$ such that the equation
+Ideally, we want the validity of this equation to be independent of *ε* , that is, given $x$, for it to hold for *all* microquantities *ε*. In that case the derivative $f '(x)$ may be *defined* as the unique quantity $D$ such that the equation
 
 $$f(x + \varepsilon) - f(x) = \varepsilon D$$
 
-holds for all microquantities $\varepsilon$.
+holds for all microquantities *ε*.
 
 Setting $x = 0$ in this equation, we get in particular
 
 $$\tag{4} f(\varepsilon) = f(0) + \varepsilon D,$$
 
-for all $\varepsilon$. *It is equation* (4) *that is taken as axiomatic in smooth infinitesimal analysis*. Let us write $\Delta$ for the set of microquantities, that is,
+for all *ε*. *It is equation* (4) *that is taken as axiomatic in smooth infinitesimal analysis*. Let us write $\Delta$ for the set of microquantities, that is,
 
 $$\Delta = \{x: x \in \bR \land x^2 = 0\}.$$
 
-Then it is postulated that, for any $f: \Delta \rightarrow \bR$, there is a *unique $D \in \bR$* such that equation (4) holds for all $\varepsilon$. This says that the graph of $f$ is a straight line passing through $(0, f$(0)) with slope $\Delta$. Thus any function on $\Delta$ is what mathematicians term *affine*, and so this postulate is naturally termed the *principle* of *microaffineness*. It means that $\Delta$ *cannot be bent or broken*: it is subject only to *translations and rotations*—and yet is not (as it would have to be in ordinary analysis) identical with a point. $\Delta$ may be thought of as an entity possessing position and attitude, but lacking true extension.
+Then it is postulated that, for any $f: \Delta \rightarrow \bR$, there is a *unique $D \in \bR$* such that equation (4) holds for all *ε*. This says that the graph of $f$ is a straight line passing through $(0, f$(0)) with slope $\Delta$. Thus any function on $\Delta$ is what mathematicians term *affine*, and so this postulate is naturally termed the *principle* of *microaffineness*. It means that $\Delta$ *cannot be bent or broken*: it is subject only to *translations and rotations*—and yet is not (as it would have to be in ordinary analysis) identical with a point. $\Delta$ may be thought of as an entity possessing position and attitude, but lacking true extension.
 
 Now consider the space $\Delta^{\Delta}$ of maps from $\Delta$ to itself. It follows from the microaffineness principle that the subspace $(\Delta^{\Delta})_0$ of $\Delta^{\Delta}$ consisting of maps vanishing at 0 is isomorphic to $\bR$.[^note-48] The space $\Delta^{\Delta}$ is a monoid[^note-49] under composition which may be regarded as acting on $\Delta$ by evaluation: for $f \in \Delta^{\Delta},$ $f \cdot \varepsilon = f (\varepsilon)$. Its subspace $(\Delta^{\Delta})_0$ is a submonoid naturally identified as the space of *ratios of microquantities*. The isomorphism between $(\Delta^{\Delta})_0$ and $\bR$ noted above is easily seen to be an isomorphism of monoids (where $\bR$ is considered a monoid under its usual multiplication). It follows that $\bR$ itself may be regarded as the space of ratios of microquantities. This was essentially the view of Euler, who regarded (real) numbers as representing the possible results of calculating the ratio 0/0. For this reason Lawvere has suggested that $\bR$ be called the space of *Euler reals*.
 
@@ -493,7 +493,7 @@ $$ \text{If } \varepsilon a = \varepsilon b \text{ for all } \varepsilon, \text{
 
 For the premise asserts that the graph of the function $g: \Delta \rightarrow \bR$ defined by $g(\varepsilon) = a \varepsilon$ has both slope $a$ and slope $b$: the uniqueness condition in the principle of microaffineness then gives $a = b$. The principle of microcancellation supplies the exact sense in which there are “enough” infinitesimals in smooth infinitesimal analysis.
 
-From the principle of microaffineness it also follows that *all functions on $\bR$ are continuous*, that is, *send neighboring points to neighboring points*. Here two points $x, y$ on $\bR$ are said to be neighbors if $x - y$ is in $\Delta$, that is, if $x$ and $y$ differ by a microquantity. To see this, given $f: \bR \rightarrow \bR$ and neighboring points $x, y$, note that $y = x + \varepsilon$ with $\varepsilon$ in $\Delta$, so that
+From the principle of microaffineness it also follows that *all functions on $\bR$ are continuous*, that is, *send neighboring points to neighboring points*. Here two points $x, y$ on $\bR$ are said to be neighbors if $x - y$ is in $\Delta$, that is, if $x$ and $y$ differ by a microquantity. To see this, given $f: \bR \rightarrow \bR$ and neighboring points $x, y$, note that $y = x + \varepsilon$ with *ε* in $\Delta$, so that
 
 $$ \begin{align} f(y) - f(x) & = f(x + \varepsilon) - f(x)\\ & = \varepsilon f '(x).\\ \end{align} $$
 
@@ -511,7 +511,7 @@ $$ \begin{align} (fg)(x + \varepsilon) & = (fg)(x) + \varepsilon(fg)'(x) \\ & = 
 
 since $\varepsilon^2 = 0$. Therefore $\varepsilon(fg)' = \varepsilon(f'g + fg')$, and the result follows by microcancellation.
 
-A *stationary point* $a$ in $\bR$ of a function $f$: $\bR \rightarrow \bR$ is defined to be one in whose vicinity “infinitesimal variations” fail to change the value of $f$, that is, such that $f(a + \varepsilon) = f(a)$ for all $\varepsilon$. This means that $f(a) + \varepsilon f '(a)= f(a)$, so that $\varepsilon f'(a) = 0$ for all $\varepsilon$, whence it follows from microcancellation that $f'(a) = 0$. This is *Fermat’s rule*.
+A *stationary point* $a$ in $\bR$ of a function $f$: $\bR \rightarrow \bR$ is defined to be one in whose vicinity “infinitesimal variations” fail to change the value of $f$, that is, such that $f(a + \varepsilon) = f(a)$ for all *ε*. This means that $f(a) + \varepsilon f '(a)= f(a)$, so that $\varepsilon f'(a) = 0$ for all *ε*, whence it follows from microcancellation that $f'(a) = 0$. This is *Fermat’s rule*.
 
 An important postulate concerning stationary points that we adopt in smooth infinitesimal analysis is the
 
@@ -538,13 +538,13 @@ Here now is the rigorous argument. We show that the failure of the law of exclud
 
 (*)
 
-*for all infinitesimal $\varepsilon$, not $\varepsilon \ne 0$.*
+*for all infinitesimal *ε*, not $\varepsilon \ne 0$.*
 
-Now suppose that the law of excluded middle were to hold. Then we would have, for any $\varepsilon$, either $\varepsilon = 0$ or $\varepsilon \ne 0$. But (*) allows us to eliminate the second alternative, and we infer that, for all $\varepsilon$, $\varepsilon = 0$. This may be written
+Now suppose that the law of excluded middle were to hold. Then we would have, for any *ε*, either $\varepsilon = 0$ or $\varepsilon \ne 0$. But (*) allows us to eliminate the second alternative, and we infer that, for all *ε*, $\varepsilon = 0$. This may be written
 
 
 
-*for all $\varepsilon$, $\varepsilon \cdot 1 = \varepsilon \cdot 0$,*
+*for all *ε*, $\varepsilon \cdot 1 = \varepsilon \cdot 0$,*
 
 from which we derive by microcancellation the falsehood $1 = 0$. So again the law of excluded middle must fail.
 
@@ -556,11 +556,11 @@ The situation is different, however, as regards the order structure of $\bR$ in 
 
 $$x \lt y \wlor y \lt x \wlor x = y,$$
 
-and accordingly $\lt$ must be a *partial*, rather than a *total* ordering. Since microquantities do not have multiplicative inverses, and $\bR$ is a field, any microquantity $\varepsilon$ must satisfy
+and accordingly $\lt$ must be a *partial*, rather than a *total* ordering. Since microquantities do not have multiplicative inverses, and $\bR$ is a field, any microquantity *ε* must satisfy
 
 $$\neg \varepsilon \lt 0 \wland \neg \varepsilon \gt 0.$$
 
-Accordingly, if we define the relation $\lt$ by $x \lt y$ iff $\neg(y \lt x)$, then, for any microquantity $\varepsilon$ we have
+Accordingly, if we define the relation $\lt$ by $x \lt y$ iff $\neg(y \lt x)$, then, for any microquantity *ε* we have
 
 $$\varepsilon \le 0 \wland \varepsilon \ge 0.$$
 
@@ -716,7 +716,7 @@ For a comprehensive account of the evolution of the concepts of continuity and t
 
 [^note-47]: See Kock (1981)[^kock-1981], Lavendhomme (1996)[^lavendhomme-1996], Lawvere (1980, 1998 [Other Internet Resources]), McLarty (1992)[^mclarty-1992], Moerdijk and Reyes (1991). For an elementary account of smooth infinitesimal analysis see Bell (1998)[^bell-1998].
 
-[^note-48]: For any $f \in(\Delta^{\Delta})_0$, the microaffineness axiom ensures that there is a unique $b \in \bR$ for which $f(\varepsilon) = b\varepsilon$ for all $\varepsilon$, and conversely each $b \in \bR$ yields the map $\varepsilon \mapsto b\varepsilon$ in $(\Delta^{\Delta})_0$.
+[^note-48]: For any $f \in(\Delta^{\Delta})_0$, the microaffineness axiom ensures that there is a unique $b \in \bR$ for which $f(\varepsilon) = b\varepsilon$ for all *ε*, and conversely each $b \in \bR$ yields the map $\varepsilon \mapsto b\varepsilon$ in $(\Delta^{\Delta})_0$.
 
 [^note-49]: A *monoid* is a multiplicative system (not necessarily commutative) with an identity element.
 

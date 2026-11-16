@@ -31,7 +31,7 @@ and the isotropic form of the Raychaudhuri equation:
 
 $$\label{eq:Ray} 3 \frac{\ddot{R}}{R} = {- 4}\pi G \left(\rho + 3 p \right) + \Lambda. $$
 
-The curvature of surfaces $\Sigma(t)$ of constant cosmic time is given by $\frac{k}{R^2(t)}$, where $k = \{-1,0,1\}$ for negative, flat, and positive curvature (respectively). The assumed symmetries force the matter to be described as a perfect fluid[^note-8] with energy density $\rho$ and pressure $p$, which obey the energy conservation equation
+The curvature of surfaces $\Sigma(t)$ of constant cosmic time is given by $\frac{k}{R^2(t)}$, where $k = \{-1,0,1\}$ for negative, flat, and positive curvature (respectively). The assumed symmetries force the matter to be described as a perfect fluid[^note-8] with energy density *ρ* and pressure $p$, which obey the energy conservation equation
 
 $$\label{eq:cons} \dot{\rho} + (\rho + p) 3 \frac{\dot{R}}{R} = 0.$$
 
@@ -89,13 +89,13 @@ Although cosmology is generally seen as fitting into the general physics paradig
 
 The traditional issues of this kind (Bondi 1960; Ellis & Sciama 1972; Ellis 2002)[^bondi-1960][^ellis-2002][^ellis-1972] are
 
-- *Mach’s Principle*: the idea that the origin of inertia is due to the very distant matter in the universe (Barbour & Pfister 1995)[^barbour-1995], nowadays understood as being due to the fact that the vorticity $\omega$ of the universe is very low at present (it could have been otherwise);
+- *Mach’s Principle*: the idea that the origin of inertia is due to the very distant matter in the universe (Barbour & Pfister 1995)[^barbour-1995], nowadays understood as being due to the fact that the vorticity *ω* of the universe is very low at present (it could have been otherwise);
 - *Olber’s Paradox*: the issue of why the sky is dark at night (Harrison 1984)[^harrison-1984], resolved by evolution of the universe together with the redshift factor of about 1000 since the surface of last scattering (which determines that the temperature of the night sky is the 2.73K of the CMB everywhere except for the small fraction of the sky covered by stars and galaxies)
 - *The Arrow of Time*: where does the arrow of time come from, if the underlying physics is time symmetric? This has to be due to special initial conditions at the start of the universe (Ellis 2007)[^ellis-2007]. This is related to the Sommerfeld outgoing radiation condition and Penrose’s Weyl curvature hypothesis (Penrose 2016)[^penrose-2016].
 
 In each case, global boundary conditions have an important effect on local physics. More recent ones relate to
 
-- *Nucleosynthesis*, where the course of nuclear reactions is determined by the $T(t)$ relation that is controlled by cosmological evolution (Steigman 2007)[^steigman-2007] (the temperature $T$ being a coarse grained variable with evolution determined by the average density $\rho$ of matter in the universe through the Friedmann equation)
+- *Nucleosynthesis*, where the course of nuclear reactions is determined by the $T(t)$ relation that is controlled by cosmological evolution (Steigman 2007)[^steigman-2007] (the temperature $T$ being a coarse grained variable with evolution determined by the average density *ρ* of matter in the universe through the Friedmann equation)
 - *Structure formation* due to gravitational instability (Mukhanov et al. 1992)[^mukhanov-1992], which is affected crucially by the expansion of the universe, which turns what would have been an exponential growth of inhomogeneity(in a static universe) to a power law growth. It is because of this effect that studies of structure such as the BAO and CMB anisotropies give us strong limits on the parameters of the background model (Ade et al. 2016)[^ade-2016].
 - *The Anthropic Principle*, discussed below (§4.1), whereby large-scale conditions in the universe (such as the value of the cosmological constant and the initial amplitude of inhomogeneities in the early universe) provide local conditions suitable for life to come into being.
 
@@ -329,7 +329,7 @@ Work on this entry was supported by a grant from the John Templeton Foundation. 
 
 [^note-4]: Represented compactly using the metric field, $g_{ab}$. The equations are non-linear both in terms of involving products of derivatives $g_{ab,c}$ of $g_{ab}$ with other derivative and also with its inverse $g^{ab}.$
 
-[^note-5]: These solutions are *homogeneous* and *isotropic*: homogeneity requires that at a given moment of cosmic time every spatial point “looks the same,” and isotropy holds if there are no geometrically preferred spatial directions. Thus the spatial geometry of $\Sigma$ is such that there is an isometry carrying any point $p \in \Sigma$ to any other point lying in the same surface (homogeneity), and at any point $p$ the three spatial directions are equivalent to each other (isotropy). An isometry is a transformation that preserves the spacetime geometry; more precisely, a diffeomorphism $\phi$ that leaves the spacetime metric invariant, i.e., $(\phi^*g)_{ab} = g_{ab}$. It is an isotropy about a point $p$ if it leaves $p$ fixed: $(\phi^*p) =p$.
+[^note-5]: These solutions are *homogeneous* and *isotropic*: homogeneity requires that at a given moment of cosmic time every spatial point “looks the same,” and isotropy holds if there are no geometrically preferred spatial directions. Thus the spatial geometry of $\Sigma$ is such that there is an isometry carrying any point $p \in \Sigma$ to any other point lying in the same surface (homogeneity), and at any point $p$ the three spatial directions are equivalent to each other (isotropy). An isometry is a transformation that preserves the spacetime geometry; more precisely, a diffeomorphism *φ* that leaves the spacetime metric invariant, i.e., $(\phi^*g)_{ab} = g_{ab}$. It is an isotropy about a point $p$ if it leaves $p$ fixed: $(\phi^*p) =p$.
 
 [^note-6]: These are the three possibilities if $\Sigma$ is assumed to be *simply connected*, which holds if every closed loop can be smoothly contracted to a point. There are many possibilities for a globally isotropic space with constant curvature that is multiply connected (Ellis 1971b)[^ellis-1971b], for example a toroidal topology (a closed version of flat space) or projective space (with the same metric as spherical space but a different topology).
 
@@ -395,7 +395,7 @@ similarly, textbook discussions of the singularity theorems (such as Wald 1984: 
 
 [^note-35]: These features are usually taken to be puzzling because they apparently require “fine-tuning,” discussed further in §4.2.
 
-[^note-36]: A particle horizon at time $t_0$ is the timelike 3-surface in space-time separating world lines of particles moving along fundamental geodesics that could have interacted with a worldline $\gamma$ at the time $t_0$ (their world lines would have intersected the past light cone of that event) from those which could not. On the time slice $t_0$, this defines a 2-sphere comprising the most distant matter that could have interacted with $\gamma$ at that time. For a radiation-dominated FLRW model, the expression for horizon distance $d_h$ is finite; the horizon distance at decoupling corresponds to an angular separation of $\approx 1^{\circ}$ on the surface of last scattering.
+[^note-36]: A particle horizon at time $t_0$ is the timelike 3-surface in space-time separating world lines of particles moving along fundamental geodesics that could have interacted with a worldline *γ* at the time $t_0$ (their world lines would have intersected the past light cone of that event) from those which could not. On the time slice $t_0$, this defines a 2-sphere comprising the most distant matter that could have interacted with *γ* at that time. For a radiation-dominated FLRW model, the expression for horizon distance $d_h$ is finite; the horizon distance at decoupling corresponds to an angular separation of $\approx 1^{\circ}$ on the surface of last scattering.
 
 [^note-37]: It follows from the FLRW dynamics that $\frac{|\Omega - 1|}{\Omega} \propto R^{3\gamma - 2}(t)$. $\gamma > 2/3$ if the strong energy condition holds, and in that case an initial value of $\Omega$ not equal to 1 is driven rapidly away from 1. Observational constraints on $\Omega (t_0)$ can be extrapolated back to a constraint on the total energy density of the Planck time, namely $|\Omega(t_p) - 1| \leq 10^{-59}$.
 

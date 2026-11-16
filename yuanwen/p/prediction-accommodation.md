@@ -85,7 +85,7 @@ Thus Giere’s argument collapses.
 
 Howson argued in a series of papers (1984, 1988, 1990) that the null support thesis is falsified using simple examples, such as the following:
 
-> An urn contains an unknown number of black and white tickets, where the proportion *p* of black tickets is also unknown. The data consists simply in a report of the relative frequency $r/k$ of black tickets in a large number *k* of draws with replacement from the urn. In the light of the data we propose the hypothesis that $p = (r/k)+\epsilon$ for some suitable $\epsilon$ depending on *k*. This hypothesis is, according to standard statistical lore, very well supported by the data from which it is clearly constructed. (1990: 231)
+> An urn contains an unknown number of black and white tickets, where the proportion *p* of black tickets is also unknown. The data consists simply in a report of the relative frequency $r/k$ of black tickets in a large number *k* of draws with replacement from the urn. In the light of the data we propose the hypothesis that $p = (r/k)+\epsilon$ for some suitable *ε* depending on *k*. This hypothesis is, according to standard statistical lore, very well supported by the data from which it is clearly constructed. (1990: 231)
 
 In this case there is, Howson notes, a background theory that supplies a model of the experiment (it is a sequence of Bernoulli trials, viz., a sequence of trials with two outcomes in which the probability of getting either outcome is the same on each trial; it leaves only a single parameter to be evaluated). As long as we have good reason to believe that this model applies, our inference to the high probability of the hypothesis is a matter of standard statistical methodology, and the null support thesis is refuted.
 

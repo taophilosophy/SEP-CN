@@ -16,7 +16,7 @@ The diagram consists of two equations with rectangles around them with an arrow 
 
 ### Figure 3 description
 
-The diagram consists of a blue rectangle labeled $B$ with a small circle labeled $A$ inside the rectangle at the left edge. The rectangle is divided into two pieces: the left portion has area $\delta$ and contains the circle; the right portion has area $1 - \delta$ and is, itself contained in a larger green rectangle labeled $C$.
+The diagram consists of a blue rectangle labeled $B$ with a small circle labeled $A$ inside the rectangle at the left edge. The rectangle is divided into two pieces: the left portion has area *δ* and contains the circle; the right portion has area $1 - \delta$ and is, itself contained in a larger green rectangle labeled $C$.
 
 ### Figure 4 description
 

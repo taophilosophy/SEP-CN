@@ -67,11 +67,11 @@ Temporal logic was introduced by Arthur Prior (see for instance Prior 1967)[^pri
 
 *Table 1.*
 
-| $\bG\phi$ | it is always going to be the case that $\phi$ |
+| $\bG\phi$ | it is always going to be the case that *φ* |
 | --- | --- |
-| $\bH\phi$ | it always has been the case that $\phi$ |
-| $\bF\phi$ | it will at some stage in the future be the case that $\phi$ |
-| $\bP\phi$ | it was at some stage in the past that $\phi$ |
+| $\bH\phi$ | it always has been the case that *φ* |
+| $\bF\phi$ | it will at some stage in the future be the case that *φ* |
+| $\bP\phi$ | it was at some stage in the past that *φ* |
 
 By adding the above operators to propositional logic we extend propositional logic to propositional temporal logic. Let $q$ abbreviate the sentence *Sam is working*, then we are able to express the following verb tenses in temporal logic:
 
@@ -120,7 +120,7 @@ However, principle (6), which is often considered as valid for $\Box$, is presum
 
 $~\bG\phi \rightarrow \phi$
 
-Formula (6) is equivalent to $\phi \rightarrow \bF\phi$. The latter formula says that if $\phi$ is the case then $\phi$ will be the case, which is intuitively incorrect. Suppose that $\prec$ is irreflexive; this assumption makes sense since it means that no time point is earlier than itself. But under this assumption, Principle (6) is obviously wrong. For extensions of temporal logic and more examples concerning the correspondence between properties of models and the validity or invalidity of formulas see Gamut 1991: chapter 2.
+Formula (6) is equivalent to $\phi \rightarrow \bF\phi$. The latter formula says that if *φ* is the case then *φ* will be the case, which is intuitively incorrect. Suppose that $\prec$ is irreflexive; this assumption makes sense since it means that no time point is earlier than itself. But under this assumption, Principle (6) is obviously wrong. For extensions of temporal logic and more examples concerning the correspondence between properties of models and the validity or invalidity of formulas see Gamut 1991: chapter 2.
 
 This concludes our brief remarks about temporal logic. We now turn to an alternative approach due to the philosopher Hans Reichenbach.
 
@@ -348,13 +348,13 @@ This sentence seems to be fine. However it is not interpreted as an accomplishme
 
 The most influential approach to solving the imperfective paradox is due to Dowty (1979)[^dowty-1979]. The basic idea is to treat the progressive as a modal operator $(\Box)$ but restrict its domain to inertia worlds. The notion of an *inertia world* is characterized informally. An inertia world is exactly like the real world up to the time of evaluation; after this it may differ from the real world but is assumed to be as similar to the real world as possible. Given this notion, the following definition introduces truth conditions for sentences in the progressive.
 
-**Definition 3.** PROG$(\phi)$ *is true with respect to interval $I$ and world $w$ if and only if $\forall w' \in IE(w)$ there exists an interval $I' \supseteq I$ such that $\phi$ is true with respect to $I'$ and $w'$. In addition $I$ should not be the final subinterval of $I'$. $IE(w)$ is the set of inertia worlds for $w$.*
+**Definition 3.** PROG$(\phi)$ *is true with respect to interval $I$ and world $w$ if and only if $\forall w' \in IE(w)$ there exists an interval $I' \supseteq I$ such that *φ* is true with respect to $I'$ and $w'$. In addition $I$ should not be the final subinterval of $I'$. $IE(w)$ is the set of inertia worlds for $w$.*
 
 Definition 3 does not yet account for the different entailment patterns of activities and accomplishments. Two additional assumptions are required. The first concerns activities; the second, accomplishments.
 
 **20.**
 
-If $\phi$ is an activity that is true with respect to interval $I$, then $\phi$ is true with respect to any sufficiently large subinterval of $I$.
+If *φ* is an activity that is true with respect to interval $I$, then *φ* is true with respect to any sufficiently large subinterval of $I$.
 
 Accomplishments like *Mary draw a circle* are split up into two parts, an activity part *Mary draw* that satisfies principle (20) and a result part which is characterized by the existence of a circle. Both parts are connected by a causality relation *CAUSE*.
 
@@ -499,7 +499,7 @@ Here we will illustrate these concepts with only one example, *summativity (SUM)
 
 Summativity says that the sum-operation $\sqcup$ on events and objects is preserved under summative relations on events and objects. For instance if we have two distinct events of *drinking a bottle of wine* we get an event of *drinking two bottles of wine*.
 
-With this formal background it is now possible to state exactly when a predicate of events corresponding to a verb-phrase is cumulative, telic etc.. Again we will just state one result. Let $\phi = \{ e\mid \exists x(\alpha(e) \wedge \delta(x) \wedge \theta(e, x))\}$ be such a predicate where $\alpha$ represents a verb—say *draw*—$\delta$ the nominal predicate—*pictures*—and $\theta$ a thematic relation—say *theme*. It then follows that one set of conditions for $\phi$ being cumulative is that $\delta$ is cumulative and $\theta$ is summative. An example is the verb phrase *draw pictures*. Similar results characterize, *iterative*, *telic*, *atelic* etc. readings.
+With this formal background it is now possible to state exactly when a predicate of events corresponding to a verb-phrase is cumulative, telic etc.. Again we will just state one result. Let $\phi = \{ e\mid \exists x(\alpha(e) \wedge \delta(x) \wedge \theta(e, x))\}$ be such a predicate where *α* represents a verb—say *draw*—*δ* the nominal predicate—*pictures*—and *θ* a thematic relation—say *theme*. It then follows that one set of conditions for *φ* being cumulative is that *δ* is cumulative and *θ* is summative. An example is the verb phrase *draw pictures*. Similar results characterize, *iterative*, *telic*, *atelic* etc. readings.
 
 ### 6.2 Compositionality
 
@@ -561,7 +561,7 @@ Let us now see how (39) allows for compositional interpretations. Under (39) a s
 
 $\lambda E\exists e (rain(e) \wedge E(e)) (\lambda e.true)$
 
-After two application of $\lambda$-conversion (40) reduces to
+After two application of *λ*-conversion (40) reduces to
 
 **41.**
 
@@ -659,13 +659,13 @@ Suppose we have three kinds of actions/events—*Load*, *Smoke* and *Shoot*—an
 
 | *Formula* | *Meaning* |
 | --- | --- |
-| *Initiates*$(\alpha , \beta , \tau)$ | Fluent $\beta$ starts to hold after action $\alpha$ at time $\tau$ |
-| *Terminates*$(\alpha , \beta , \tau)$ | Fluent $\beta$ ceases to hold after action $\alpha$ at time $\tau$ |
-| *Initially*$(\beta)$ | Fluent $\beta$ holds from time 0 |
+| *Initiates*$(\alpha , \beta , \tau)$ | Fluent *β* starts to hold after action *α* at time *τ* |
+| *Terminates*$(\alpha , \beta , \tau)$ | Fluent *β* ceases to hold after action *α* at time *τ* |
+| *Initially*$(\beta)$ | Fluent *β* holds from time 0 |
 | $\tau_1 \lt \tau_2$ | Time instant $\tau_1$ is before time instant $\tau_2$ |
-| *Happens*$(\alpha , \tau)$ | Action $\alpha$ happens at time $\tau$ |
-| *HoldsAt*$(\beta , \tau)$ | Fluent $\beta$ holds at time $\tau$ |
-| *Clipped*$(\tau_1,\beta ,\tau_2)$ | Fluent $\beta$ is terminated between times $\tau_1$ and $\tau_2$ |
+| *Happens*$(\alpha , \tau)$ | Action *α* happens at time *τ* |
+| *HoldsAt*$(\beta , \tau)$ | Fluent *β* holds at time *τ* |
+| *Clipped*$(\tau_1,\beta ,\tau_2)$ | Fluent *β* is terminated between times $\tau_1$ and $\tau_2$ |
 
 *Table 4.* Predicates of the simple event calculus (from Shanahan 1999)
 

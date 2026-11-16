@@ -59,7 +59,7 @@ Thus, what *appear* within *Begriffsschrift* to be something akin to first-order
 
 While correct, even this is somewhat misleading, since anything that can be taken to be the argument of a judgement can also be taken to be the function of that same judgement, and vice versa. In introducing the concavity generalization device of the logic of *Begriffsschrift* (about which more below) Frege writes:
 
-> Since the symbol $\Phi$ occurs in the expression $\Phi(A)$ and can be thought of as replaced by other symbols $\Psi$, $X$, by means of which other functions of the argument $A$ are then expressed, $\Phi(A)$ *can be regarded as a function of the argument* $\Phi$. (Frege 1879a: §10)[^frege-1879a]
+> Since the symbol *Φ* occurs in the expression $\Phi(A)$ and can be thought of as replaced by other symbols *Ψ*, $X$, by means of which other functions of the argument $A$ are then expressed, $\Phi(A)$ *can be regarded as a function of the argument* *Φ*. (Frege 1879a: §10)[^frege-1879a]
 
 In other words, we can parse the sentence “Hydrogen is lighter than carbon dioxide” in such a way that “Hydrogen” is the argument and “is lighter than carbon dioxide” is the function, but we can also parse the same sentence such that “is lighter than carbon dioxide” is the argument and “Hydrogen” (and not, as it would be in *Grundgesetze*, the second-level concept that we might paraphrase as “is satisfied by hydrogen”) is the function—see Heck and May (2013) for more discussion. Further, Frege notes that the function/argument distinction is not a reflection of any objective facts regarding the structure of reality (unlike the later object/function hierarchy found in *Grundgesetze*) but instead merely reflects a choice to analyze a statement in one way rather than another:
 
@@ -202,7 +202,7 @@ Finally, we have Frege’s device for expressing generality within *Begriffsschr
 >
 > ![judgement all gothic a term \Phi(gothic a)](../assets/frege-logic/sec2-1-H.svg)
 >
-> *then this signifies the judgement that the function is a fact whatever may be taken as its argument.* Since a letter used as a symbol for a function, such as $\Phi$ in $\Phi(A)$, can be regarded as the argument of a function, it can be replaced by a Gothic letter in the manner just specified. The meaning of the Gothic letter is subject only to the obvious restrictions that the complex of symbols following a content stroke must still remain judgeable (§2), and that, if the Gothic letter occurs as a symbol for a function, this circumstance must be taken into account. *All other conditions which must be imposed on what may replace a Gothic letter are to be included in the judgement.* (1879a: §11)
+> *then this signifies the judgement that the function is a fact whatever may be taken as its argument.* Since a letter used as a symbol for a function, such as *Φ* in $\Phi(A)$, can be regarded as the argument of a function, it can be replaced by a Gothic letter in the manner just specified. The meaning of the Gothic letter is subject only to the obvious restrictions that the complex of symbols following a content stroke must still remain judgeable (§2), and that, if the Gothic letter occurs as a symbol for a function, this circumstance must be taken into account. *All other conditions which must be imposed on what may replace a Gothic letter are to be included in the judgement.* (1879a: §11)
 
 Thus, the concavity is the *Begriffsschrift* version of (something like) the universal quantifier, and a formula of the form:
 
@@ -460,7 +460,7 @@ The most important aspect of the third section of *Begriffsschrift*, for our pur
 
 ![definition term \Phi equiv \Psi](../assets/frege-logic/sec-2-2J.svg)
 
-where “$\Psi$” is the *definiendum*, and “$\Phi$” is the *definiens*. After giving an example of the definition stroke in action (formula 69, the notion of $F$ being hereditary in the *f*-sequence), Frege explains the definition stroke in *Begriffsschrift* as follows:
+where “*Ψ*” is the *definiendum*, and “*Φ*” is the *definiens*. After giving an example of the definition stroke in action (formula 69, the notion of $F$ being hereditary in the *f*-sequence), Frege explains the definition stroke in *Begriffsschrift* as follows:
 
 > This sentence is different from those considered previously since symbols occur in it which have not been defined before; it itself gives the definition. It does not say, “The right side of the equation has the same content as the left side”; but, “They are to have the same content”. This sentence is therefore not a judgement; and consequently, to use the Kantian expression, also *not a synthetic judgement*. […]
 >
@@ -496,7 +496,7 @@ Thus, the application of the judgement stroke to a *Grundgesetze* expression lac
 
 ![judgement \Phi](../assets/frege-logic/sec-3-1-B.svg)
 
-now no longer says that “$\Phi$ is a fact”, but instead says something like “$\Phi$ is (i.e., is identical to) the True”. It is worth noting that this simple account of the judgement stroke will be complicated somewhat in our discussion of Frege’s new *Grundgesetze* understanding of Roman letters.
+now no longer says that “*Φ* is a fact”, but instead says something like “*Φ* is (i.e., is identical to) the True”. It is worth noting that this simple account of the judgement stroke will be complicated somewhat in our discussion of Frege’s new *Grundgesetze* understanding of Roman letters.
 
 In *Grundgesetze* Frege once again suggests that the judgement stroke proper (1893/1903: §5), as well as the negation stroke (1893/1903: §6), the conditional stroke (1893/1903: §12), and the concavity (1893/1903: §8), can be understood as consisting merely of the actual vertical “stroke” or line (or curve with variable, in the case of the concavity), with the attached horizontal portion(s) of the notation understood as separate occurrences of the horizontal. In actual practice within *Grundgesetze* the judgement stroke never appears without the attached horizontal. Unlike in the *Begriffsschrift*, however, the horizontal stroke *does* occur relatively frequently on its own, as an operator distinct from the judgement stroke, the conditional stroke, and the negation stroke.
 
@@ -562,13 +562,13 @@ Within the logic of *Grundgesetze*, Frege’s *conditional stroke* is a binary f
 >
 > ![conditional term \zeta term \xi](../assets/frege-logic/sec-3-1-Fa.svg)
 >
-> by means of the specification that its value shall be the False if the True is taken as the $\zeta$-argument, while any object that is not the True be taken as the $\xi$-argument; that in all other cases the value of the function shall be the True. (1893/1903: §12)
+> by means of the specification that its value shall be the False if the True is taken as the *ζ*-argument, while any object that is not the True be taken as the *ξ*-argument; that in all other cases the value of the function shall be the True. (1893/1903: §12)
 
-The conditional stroke is a total function: Given any two proper names “$\Delta$” and “$\Gamma$”:
+The conditional stroke is a total function: Given any two proper names “$\Delta$” and “*Γ*”:
 
 ![conditional term \Delta term \Gamma](../assets/frege-logic/sec-3-1-Fb.svg)
 
-is a name of the True if either “$\Delta$” fails to name the True (i.e., either names the False or does not name a truth-value), or “$\Gamma$” names the True; and it names the False otherwise. Hence, for any name “$\Delta$” whatsoever:
+is a name of the True if either “$\Delta$” fails to name the True (i.e., either names the False or does not name a truth-value), or “*Γ*” names the True; and it names the False otherwise. Hence, for any name “$\Delta$” whatsoever:
 
 ![conditional term 2 term \Delta](../assets/frege-logic/sec-3-1-Fc.svg)
 
@@ -578,7 +578,7 @@ is a name of the true, and hence:
 
 is a correct judgement in the logic of *Grundgesetze*
 
-Frege calls the lower component of a conditional (what modern readers would term the antecedent) the *subcomponent* of the conditional, and the upper component (what modern readers would call the consequent) the *supercomponent*. As noted in our discussion of the logic of *Begriffsschrift*, however, conditional stroke constructions can be parsed into supercomponent and subcomponents(s) in multiple ways. For example, given proper names “$\Delta$”, “$\Gamma$”, “$\Theta$”, “$\Lambda$”, and “$\Xi$”, we can parse the complex expression:
+Frege calls the lower component of a conditional (what modern readers would term the antecedent) the *subcomponent* of the conditional, and the upper component (what modern readers would call the consequent) the *supercomponent*. As noted in our discussion of the logic of *Begriffsschrift*, however, conditional stroke constructions can be parsed into supercomponent and subcomponents(s) in multiple ways. For example, given proper names “$\Delta$”, “*Γ*”, “*Θ*”, “$\Lambda$”, and “*Ξ*”, we can parse the complex expression:
 
 ![conditional {term \Delta} {term conditional {term \Gamma} {term conditional {term \Theta} {term conditional term \Lambda term \Xi}}}](../assets/frege-logic/sec-3-1-Ga.svg)
 
@@ -590,7 +590,7 @@ as having any of:
 
 ![conditional term \Lambda term \Xi](../assets/frege-logic/sec-3-1-Gb3.svg)
 
-or “$\Xi$” as supercomponent (with one, two, three, or four subcomponents on each reading, respectively). Although Frege introduces the conditional stroke as if it is a simple binary first-level function from pairs of objects to truth-values, in his manipulation of the conditional stroke (and especially in the rules of inference for reasoning with the conditional stroke) he treats the conditional stroke much more like a kind of open-ended *n*-ary function name that takes a single argument as supercomponent, but which can take any (finite) number of arguments as its subcomponents. Since many of Frege’s rules of inference are formulated in terms of adding, eliminating, or repositioning supercomponents and subcomponents, this systematic ambiguity has profound implications for how proofs are constructed within *Grundgesetze*.
+or “*Ξ*” as supercomponent (with one, two, three, or four subcomponents on each reading, respectively). Although Frege introduces the conditional stroke as if it is a simple binary first-level function from pairs of objects to truth-values, in his manipulation of the conditional stroke (and especially in the rules of inference for reasoning with the conditional stroke) he treats the conditional stroke much more like a kind of open-ended *n*-ary function name that takes a single argument as supercomponent, but which can take any (finite) number of arguments as its subcomponents. Since many of Frege’s rules of inference are formulated in terms of adding, eliminating, or repositioning supercomponents and subcomponents, this systematic ambiguity has profound implications for how proofs are constructed within *Grundgesetze*.
 
 The multiple-subcomponent reading of complex conditional stroke constructions has two consequence worth mentioning at this point. First, Frege notes that, on the reading of:
 
@@ -621,7 +621,7 @@ Now that we have considered what we might naturally (although, as we have alread
 3. ![circumstance](../assets/frege-logic/inline-circumstance.svg) ( ![not](../assets/frege-logic/inline-not.svg) $\Delta$), and
 4. ![circumstance](../assets/frege-logic/inline-circumstance.svg) ( ![not](../assets/frege-logic/inline-not.svg) ( ![circumstance](../assets/frege-logic/inline-circumstance.svg) $\Delta$))
 
-name the same truth-value (1893/1903: §6), and, for any names “$\Delta$” and “$\Gamma$”, all of:
+name the same truth-value (1893/1903: §6), and, for any names “$\Delta$” and “*Γ*”, all of:
 
 ![conditional \Delta term \Gamma](../assets/frege-logic/sec-3-1-Ka.svg)
 
@@ -667,7 +667,7 @@ We now arrive at another dramatic difference between the logic of *Begriffsschri
 >
 > $$\text{‘}\Gamma = \Delta\text{’}$$
 >
-> refers to the True, if $\Gamma$ is the same as $\Delta$; in all other cases it is to refer to the False. (1893/1903: §7)
+> refers to the True, if *Γ* is the same as $\Delta$; in all other cases it is to refer to the False. (1893/1903: §7)
 
 Note that he has shifted to using the traditional identity symbol “$=$”, rather than the special symbol “$\equiv$” that he introduced for sameness of conceptual content in *Begriffsschrift*. A nice overview of the development of Frege’s sense/reference distinction, with particular attention paid to the role that the distinction plays in the later logic of *Grundgesetze*, can be found in Kremer (2010)[^kremer-2010].
 
@@ -675,7 +675,7 @@ While the definition of the equality-sign is now straightforward, Frege’s use 
 
 ![not conditional {term conditional term \Delta term \Gamma} {not term conditional term \Gamma term \Delta}](../assets/frege-logic/sec-3-1-Ma.svg)
 
-If “$\Delta$” and “$\Gamma$” are both truth-value names, then this defined notion and the function named by Frege’s primitive equality-sign output the same value. If one or both of “$\Delta$” and “$\Gamma$” are proper names but not truth-value names, however, then the value of the complex material conditional applied to these arguments can differ from the value of the equality-sign applied to them. For example:
+If “$\Delta$” and “*Γ*” are both truth-value names, then this defined notion and the function named by Frege’s primitive equality-sign output the same value. If one or both of “$\Delta$” and “*Γ*” are proper names but not truth-value names, however, then the value of the complex material conditional applied to these arguments can differ from the value of the equality-sign applied to them. For example:
 
 ![not conditional {term conditional term 1 term 2} {not term conditional term 2 term 1}](../assets/frege-logic/sec-3-1-Mb.svg)
 
@@ -720,7 +720,7 @@ In the logic of *Grundgesetze*, the concavity, like the negation stroke and the 
 
 and Frege also allows the fusing or un-fusing of horizontals connected to the concavity to be carried out without comment within derivations (1893/1903: §8).
 
-Frege explicitly introduces notation for second-order quantification via the concavity, using the now-familiar method: identifying which (in this case third-level) function such a quantifier names. If “$\mathcal{F}_\beta$” is a second-level function name (and where the subscripted occurrence of “$\beta$” binds object-level occurrences of “$\beta$” that occur in the argument to which “$\mathcal{F}_\beta$” is applied), then:
+Frege explicitly introduces notation for second-order quantification via the concavity, using the now-familiar method: identifying which (in this case third-level) function such a quantifier names. If “$\mathcal{F}_\beta$” is a second-level function name (and where the subscripted occurrence of “*β*” binds object-level occurrences of “*β*” that occur in the argument to which “$\mathcal{F}_\beta$” is applied), then:
 
 ![all gothic f term \mathcal{F}_\beta(gothic f (\beta))](../assets/frege-logic/sec-3-1-P.svg)
 
@@ -798,7 +798,7 @@ Given the fact that the Roman letter generality device seems to be of a very dif
 >
 > we temporarily expand the scope of “$x$” to include both premises and conclusion, although each of these propositions holds even without this extension. (1893/1903: §17)
 
-There are a number of important things to note about this passage. The first is that this novel treatment of the Roman letter generality device (in comparison to the logic of *Begriffsschrift*) is motivated by exactly the puzzle regarding *modus ponens* that we raised earlier in this essay. Here the inference in question is a version of *hypothetical syllogism* (explicated in §15 of *Grundgesetze*, and about which more below), but the issue is the same. The rule in question allows us, for any expressions $\Delta$, $\Gamma$, and $\Theta$, to move from:
+There are a number of important things to note about this passage. The first is that this novel treatment of the Roman letter generality device (in comparison to the logic of *Begriffsschrift*) is motivated by exactly the puzzle regarding *modus ponens* that we raised earlier in this essay. Here the inference in question is a version of *hypothetical syllogism* (explicated in §15 of *Grundgesetze*, and about which more below), but the issue is the same. The rule in question allows us, for any expressions $\Delta$, *Γ*, and *Θ*, to move from:
 
 ![judgement conditional term \Delta term \Gamma](../assets/frege-logic/sec-3-2-D1.svg)
 
@@ -864,7 +864,7 @@ is the value-range of the function named by “$\Phi(\xi)$”. Unlike the other 
 
 One of the most important applications of the value-range operator is its application to first-level concepts, and the resulting objects, which Frege calls *extensions*, can be thought of, from a modern perspective and loosely speaking, as akin to the graphs of the characteristic functions of these concepts. Extensions do “behave” logically very similarly to (naive) sets, but the sensitive (or merely sensible) reader should be wary of attributing too much of our own modern views about sets onto *Grundgesetze* extensions. For an in-depth examination of the development of Frege’s thought regarding the nature of extensions, see Burge (1984)[^burge-1984].
 
-Frege identifies another sub-class of objects that can be constructed using the value-range operator that do not correspond to anything widely used within modern mathematics: double value-ranges. Given any binary first-level function name “$\Phi(\xi, \zeta)$”, we form the double value-range of (the function named by)“$\Phi(\xi, \zeta)$” by applying the value-range operator to “$\Phi(\xi, \zeta)$” (binding the argument place marked by “$\xi$”), obtaining the unary first-level function name “$ἐ(\Phi(\varepsilon, \zeta))$”. We now obtain the double value-range of “$\Phi(\xi, \zeta)$” by applying the value-range function a second time, to “$ἐ(\Phi(\varepsilon, \zeta))$”, to obtain “$ἀἐ(\Phi(\varepsilon, \alpha))$”, which names the double value-range of the function named by “$\Phi(\xi, \zeta)$” (1893/1903: §36).
+Frege identifies another sub-class of objects that can be constructed using the value-range operator that do not correspond to anything widely used within modern mathematics: double value-ranges. Given any binary first-level function name “$\Phi(\xi, \zeta)$”, we form the double value-range of (the function named by)“$\Phi(\xi, \zeta)$” by applying the value-range operator to “$\Phi(\xi, \zeta)$” (binding the argument place marked by “*ξ*”), obtaining the unary first-level function name “$ἐ(\Phi(\varepsilon, \zeta))$”. We now obtain the double value-range of “$\Phi(\xi, \zeta)$” by applying the value-range function a second time, to “$ἐ(\Phi(\varepsilon, \zeta))$”, to obtain “$ἀἐ(\Phi(\varepsilon, \alpha))$”, which names the double value-range of the function named by “$\Phi(\xi, \zeta)$” (1893/1903: §36).
 
 The need for double value-ranges provides one very practical explanation for the fact that the higher-order quantifiers of *Grundgesetze* range over functions generally rather than merely over concepts and relations as in modern systems. Given a binary relation symbol “$\Phi(\zeta, \xi)$”, the result of the first step—that is, the referent of “$ἐ(\Phi(\varepsilon, \xi))$”—is not a concept but a function that maps objects to value-ranges. Thus, the introduction of value-ranges requires that Frege accept not just concepts and relations, but functions more generally, into his higher-order ontology—see Landini (2012: ch. 4) for further discussion.
 
@@ -895,12 +895,12 @@ The final primitive notation of the logic of *Grundgesetze* is the *backslash*. 
 
 A bit of terminology is helpful: Given any proper name “$\Delta$”, let us call the object named by “$ἐ(\Delta = \varepsilon)$” the *singleton-extension* of the object named by “$\Delta$”. Then:
 
-1. “$\backslash\Gamma$” is co-referential with “$\Delta$” if “$\Gamma$” names the singleton-extension of the object named by “$\Delta$”
-2. “$\backslash\Gamma$” is co-referential with “$\Gamma$” otherwise.
+1. “$\backslash\Gamma$” is co-referential with “$\Delta$” if “*Γ*” names the singleton-extension of the object named by “$\Delta$”
+2. “$\backslash\Gamma$” is co-referential with “*Γ*” otherwise.
 
 Put even more simply, the backslash is a “singleton-stripping” device.
 
-Frege utilizes the backslash as kind of a definite description operator. In modern treatments, a definite description operator “$\iota$” attaches to predicates and, given a predicate “$\Phi(x)$”,“$\iota x(\Phi(x))$” denotes the unique object that satisfies the predicate “$\Phi(\xi)$” (if there is such). Frege, however, in keeping with the strategy of reducing levels via successive applications of the value-range operator, defines his definite description operator as applying, not to concepts, but rather to their value-ranges. Thus, where “$\Phi(\xi)$” is a concept name “$\backslash\Gamma$” denotes the unique object that is mapped to the True by the concept named by “$\Phi(\xi)$”, if there is such, and denotes the object named by “$ἐ(\Phi(\varepsilon))$” otherwise.
+Frege utilizes the backslash as kind of a definite description operator. In modern treatments, a definite description operator “*ι*” attaches to predicates and, given a predicate “$\Phi(x)$”,“$\iota x(\Phi(x))$” denotes the unique object that satisfies the predicate “$\Phi(\xi)$” (if there is such). Frege, however, in keeping with the strategy of reducing levels via successive applications of the value-range operator, defines his definite description operator as applying, not to concepts, but rather to their value-ranges. Thus, where “$\Phi(\xi)$” is a concept name “$\backslash\Gamma$” denotes the unique object that is mapped to the True by the concept named by “$\Phi(\xi)$”, if there is such, and denotes the object named by “$ἐ(\Phi(\varepsilon))$” otherwise.
 
 ### 3.3 The Axioms of *Grundgesetze*
 
@@ -920,13 +920,13 @@ In *Grundgesetze* Frege justifies Basic Law I as follows:
 >
 > ![judgement conditional {term \Gamma} {term conditional term \Delta term \Gamma}](../assets/frege-logic/sec-3-3-A1.svg)
 >
-> would be the False only if $\Gamma$ and $\Delta$ were the True while $\Gamma$ was not the True. This is impossible; accordingly:
+> would be the False only if *Γ* and $\Delta$ were the True while *Γ* was not the True. This is impossible; accordingly:
 >
 > ![judgement conditional {term a} {term conditional term b term a}](../assets/frege-logic/axiom1.svg)
 >
 > (1893/1903: §18)
 
-Given the discussion above (and Frege’s careful use of “$\Gamma$ was not the True” rather than “$\Gamma$ was the False” in the justification of the Basic Law), it is no surprise that this expression is a name of the True even when the objects named by “$\Gamma$” and “$\Delta$” are not truth-values. The reader is encouraged to verify, for example, that:
+Given the discussion above (and Frege’s careful use of “*Γ* was not the True” rather than “*Γ* was the False” in the justification of the Basic Law), it is no surprise that this expression is a name of the True even when the objects named by “*Γ*” and “$\Delta$” are not truth-values. The reader is encouraged to verify, for example, that:
 
 ![conditional {term 2} {term conditional term 3 term 2}](../assets/frege-logic/sec-3-3-A2.svg)
 
@@ -972,7 +972,7 @@ If we replace the Roman letter “$g$” by the horizontal, and the apply fusion
 
 Basic Law III is a good bit more powerful than this, however.
 
-Basic Law III states that for any unary first-level function name “$\Phi(\xi)$” and any proper names “$\Delta$” and “$\Gamma$”, it is not the case that the application of the function named by “$\Phi(\xi)$” to the truth-value named by “$\Delta = \Gamma$” is the True, while application of the function named by “$\Phi(\xi)$” to the truth-value named by:
+Basic Law III states that for any unary first-level function name “$\Phi(\xi)$” and any proper names “$\Delta$” and “*Γ*”, it is not the case that the application of the function named by “$\Phi(\xi)$” to the truth-value named by “$\Delta = \Gamma$” is the True, while application of the function named by “$\Phi(\xi)$” to the truth-value named by:
 
 ![all gothic f conditional term gothic f(\Gamma) term gothic f(\Delta)](../assets/frege-logic/sec-3-3-D3.svg)
 
@@ -1058,7 +1058,7 @@ The final axiom of *Grundgesetze*, Basic Law VI, governs the behavior of the bac
 
 Basic Law VI (1893/1903: §18)
 
-This axiom makes explicit one part of the informal definition of the backslash operator discussed earlier. If “$\Gamma$” is a name of the singleton extension of the object named by “$\Delta$”, then the result of applying the backslash to “$\Gamma$” names the same object as does “$\Delta$”. But Basic Law VI tells us nothing regarding what results when we apply the backslash to a name that is *not* the name of a singleton extension. We might wonder why Frege did not add a second axiom governing this case, such as:
+This axiom makes explicit one part of the informal definition of the backslash operator discussed earlier. If “*Γ*” is a name of the singleton extension of the object named by “$\Delta$”, then the result of applying the backslash to “*Γ*” names the same object as does “$\Delta$”. But Basic Law VI tells us nothing regarding what results when we apply the backslash to a name that is *not* the name of a singleton extension. We might wonder why Frege did not add a second axiom governing this case, such as:
 
 ![judgement conditional {all gothic a not term b = ἐ(gothic a = \varepsilon)} {term backslash b = b}](../assets/frege-logic/sec-3-3-H2.svg)
 
@@ -1096,11 +1096,11 @@ On this application, we are parsing the conditional in question such that “$\D
 
 ![judgement conditional term \Gamma term \Theta](../assets/frege-logic/sec-3-3-I2.svg)
 
-the supercomponent. If, on the other hand, we have “ ![judgement](../assets/frege-logic/inline-judgement.svg) $\Gamma$”, then we would instead conclude:
+the supercomponent. If, on the other hand, we have “ ![judgement](../assets/frege-logic/inline-judgement.svg) *Γ*”, then we would instead conclude:
 
 ![judgement conditional term \Delta term \Theta](../assets/frege-logic/sec-3-3-I4.svg)
 
-treating both “$\Delta$” and “$\Gamma$” as subcomponents, and “$\Theta$” as supercomponent. Applications of Generalized Modus Ponens are indicated by a solid horizontal line. This is the first instance of a *transition sign* (1893/1903: §14).
+treating both “$\Delta$” and “*Γ*” as subcomponents, and “*Θ*” as supercomponent. Applications of Generalized Modus Ponens are indicated by a solid horizontal line. This is the first instance of a *transition sign* (1893/1903: §14).
 
 This rule is an incredibly powerful generalization of the simple version of *modus ponens* found in *Begriffsschrift*, or included in modern deductive systems that use linear notation. Consider how many steps would be needed to transition from:
 
@@ -1116,7 +1116,7 @@ Frege allows for multiple, simultaneous applications of the generalized form of 
 
 ![judgement conditional {term \Delta} {term conditional term \Gamma term \Theta}](../assets/frege-logic/sec-3-3-I1.svg)
 
-and we then prove both “ ![judgement](../assets/frege-logic/inline-judgement.svg) $\Delta$”, and “ ![judgement](../assets/frege-logic/inline-judgement.svg) $\Gamma$”, we may eliminate both subcomponents simultaneously, marking the transition with a double horizontal line (1893/1903: §14).
+and we then prove both “ ![judgement](../assets/frege-logic/inline-judgement.svg) $\Delta$”, and “ ![judgement](../assets/frege-logic/inline-judgement.svg) *Γ*”, we may eliminate both subcomponents simultaneously, marking the transition with a double horizontal line (1893/1903: §14).
 
 #### 3.4.2 Generalized Hypothetical Syllogism
 
@@ -1136,7 +1136,7 @@ then we can combine these to obtain:
 
 ![judgement conditional {term \Sigma} {term conditional term \Gamma term \Theta}](../assets/frege-logic/sec-3-3-N.svg)
 
-Note that we have combined the two occurrences of “$\Gamma$” into a single occurrence. Applications of Generalized Hypothetical Syllogism are indicated by new type of transition sign, a dashed horizontal line “—– – –”, and multiple simultaneous applications of Generalized Hypothetical Syllogism are indicated by the double dashed horizontal line “= = = =”. Generalized Hypothetical Syllogism is a much more powerful rule-based form of Axiom 2 from the logic of *Begriffsschrift*.
+Note that we have combined the two occurrences of “*Γ*” into a single occurrence. Applications of Generalized Hypothetical Syllogism are indicated by new type of transition sign, a dashed horizontal line “—– – –”, and multiple simultaneous applications of Generalized Hypothetical Syllogism are indicated by the double dashed horizontal line “= = = =”. Generalized Hypothetical Syllogism is a much more powerful rule-based form of Axiom 2 from the logic of *Begriffsschrift*.
 
 #### 3.4.3 Generalized Contraposition
 

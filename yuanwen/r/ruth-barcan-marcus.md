@@ -49,15 +49,15 @@ Barcan uses Greek letters in the metalanguage: upper case Greek letters represen
 - $((A\Rightarrow B) \land (B\Rightarrow \Gamma)) \Rightarrow (A\Rightarrow \Gamma)$
 - $((A\land (A\Rightarrow B) )\Rightarrow B$
 - $\modalD (A\land B) \Rightarrow \modalD A$
-- $(\forall \alpha) A \Rightarrow B$, where $\alpha$ and $\beta$ are individual variables, no free occurrence of $\alpha$ in $A$ is in a wf’d part of $A$ of the form $(\forall \beta)\Gamma$ and $B$ results from the substitution of $\beta$ for all free occurrences of $\alpha$ in $A$.
+- $(\forall \alpha) A \Rightarrow B$, where *α* and *β* are individual variables, no free occurrence of *α* in $A$ is in a wf’d part of $A$ of the form $(\forall \beta)\Gamma$ and $B$ results from the substitution of *β* for all free occurrences of *α* in $A$.
 - $(\forall \alpha) (A \rightarrow B) \Rightarrow ((\forall \alpha) A \rightarrow (\forall \alpha B))$
-- $A \Rightarrow (\forall \alpha) A$, where $\alpha$ is not free in $A$.
+- $A \Rightarrow (\forall \alpha) A$, where *α* is not free in $A$.
 - $\modalD (\exists \alpha)A \Rightarrow (\exists\alpha)\modalD A$
 - *Rules of Inference*
 - Modus Ponens for $\Rightarrow$: from $A$ and $(A \Rightarrow B)$ infer $B$.
 - Adjunction: from $A$ and $B$ infer $(A \land B)$.
-- Substitution of Strict Equivalents: if $$(\forall\alpha_1)(\forall\alpha_2) \ldots (\forall\alpha_n) (\Gamma\Leftrightarrow E)$$ (where $\alpha_1$, $\alpha_2$, …, $\alpha_n$ are all the free variables in $\Gamma$ and $E$) and $B$ results from $A$ by substituting $E$ for one or more occurrences of $\Gamma$ in $A$, then infer $A$ from $B$ and $B$ from $A$.
-- Generalization: if $B$ is the result of substituting the individual variable $\beta$ for all free occurrences of $\alpha$ in $A$, then infer $(\forall\beta)B$ from $A$.
+- Substitution of Strict Equivalents: if $$(\forall\alpha_1)(\forall\alpha_2) \ldots (\forall\alpha_n) (\Gamma\Leftrightarrow E)$$ (where $\alpha_1$, $\alpha_2$, …, $\alpha_n$ are all the free variables in *Γ* and $E$) and $B$ results from $A$ by substituting $E$ for one or more occurrences of *Γ* in $A$, then infer $A$ from $B$ and $B$ from $A$.
+- Generalization: if $B$ is the result of substituting the individual variable *β* for all free occurrences of *α* in $A$, then infer $(\forall\beta)B$ from $A$.
 
 Though formulated for strict implication ($\Rightarrow$), most axioms, as well as the rules, are standard for non-modal systems. The purely modal additions are Axiom 7, the so-called consistency axiom characteristic of S2, and Axiom 11, the Barcan formula, as Prior will later dub it (1956: 60).
 

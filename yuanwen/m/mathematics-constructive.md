@@ -92,11 +92,11 @@ We turn now to intuitionistic logic in practice. What sort of things are we look
 6. If $f$ is a continuous real-valued mapping on the closed interval $[0,1]$ such that $f(0)\cdot f(1) \lt 0$, then there exists $x$ such that $0 \lt x \lt 1$ and $f(x) = 0$. *Proof requirement*: An algorithm which, applied to the function $f$, a modulus of continuity for $f$, and the values $f(0)$ and $f(1)$,
 7. computes an object $x$ and shows that $x$ is a real number between 0 and 1; and
 8. shows that $f(x) = 0$.
-9. If $f$ is a continuous real-valued mapping on the closed interval $[0,1]$ such that $f(0)\cdot f(1) \lt 0$, then for each $\varepsilon \gt 0$ there exists $x$ such that $0 \lt x \lt 1$ and $\abs{f(x)} \lt \varepsilon$. *Proof requirement*: An algorithm which, applied to the function $f$, a modulus of continuity for $f$, the values $f(0)$ and $f(1)$, and a positive number $\varepsilon$,
+9. If $f$ is a continuous real-valued mapping on the closed interval $[0,1]$ such that $f(0)\cdot f(1) \lt 0$, then for each $\varepsilon \gt 0$ there exists $x$ such that $0 \lt x \lt 1$ and $\abs{f(x)} \lt \varepsilon$. *Proof requirement*: An algorithm which, applied to the function $f$, a modulus of continuity for $f$, the values $f(0)$ and $f(1)$, and a positive number *ε*,
 10. computes an object $x$ and shows that $x$ is a real number between 0 and 1; and
 11. shows that $\abs{f(x)} \lt \varepsilon$.
 
-We already have reasons for doubting that (A) has a constructive proof. If the proof requirements for (B) can be fulfilled, then, given any mathematical statement $P$, we can apply our proof of (B) to compute a rational approximation $z$ to the supremum $\sigma$ of the set
+We already have reasons for doubting that (A) has a constructive proof. If the proof requirements for (B) can be fulfilled, then, given any mathematical statement $P$, we can apply our proof of (B) to compute a rational approximation $z$ to the supremum *σ* of the set
 
 $$ S = \{0\} \cup \{x \in \bR: P \wedge x = 1\} $$
 
@@ -104,7 +104,7 @@ with error $\lt \bfrac{1}{4}$. We can then determine whether $z \gt \bfrac{1}{4}
 
 However, in Bishop’s constructive theory of the real numbers, based on Cauchy sequences with a preassigned convergence rate, we can prove the following *constructive least-upper-bound principle*:
 
-> Let $S$ be a nonempty subset of $\bR$ that is bounded above. Then $S$ has a least upper bound if and only if it is *upper-order located*, in the sense that for all real numbers $\alpha , \beta$ with $\alpha \lt \beta$, either $\beta$ is an upper bound for $S$ or else there exists $x \in S$ with $x \gt \alpha$ (Bishop & Bridges [1985], p. 37, Proposition (4.3)).
+> Let $S$ be a nonempty subset of $\bR$ that is bounded above. Then $S$ has a least upper bound if and only if it is *upper-order located*, in the sense that for all real numbers $\alpha , \beta$ with $\alpha \lt \beta$, either *β* is an upper bound for $S$ or else there exists $x \in S$ with $x \gt \alpha$ (Bishop & Bridges [1985], p. 37, Proposition (4.3)).
 
 In passing, we mention an alternative development of the constructive theory of $\bR$ based on interval arithmetic; see Chapter 2 of Bridges & Vîță [2006].
 
@@ -188,18 +188,18 @@ Each of these statements appears to contradict known classical theorems. However
 
 Brouwer’s introspection over the nature of functions and the continuum led him to a second principle, which, unlike that of continuous choice, is classically valid. This principle requires a little more background for its explanation.
 
-For any set $S$ we denote by $S^*$ the set of all finite sequences of elements of $S$, including the empty sequence $(\ )$. If $\alpha = (a_1 ,\ldots ,a_n)$ is in $S^*$, then $n$ is called the *length* of $\alpha$ and is denoted by $\abs{\alpha}$. If $m \in \bN$, and $\alpha$ is a finite or infinite sequence in $S$ of length at least $m$, then we denote by $\bar{\alpha}(m)$ the finite sequence consisting of the first $m$ terms of $\alpha$. Note that $\bar{\alpha}(0) = (\ )$ and $\abs{\bar{\alpha}(0)}$ = 0 . If $\alpha \in S^*$ and $\beta = \bar{\alpha}(m)$ for some $m$, we say that $\alpha$ is an *extension* of $\beta$, and that $\beta$ is a *restriction* of $\alpha$.
+For any set $S$ we denote by $S^*$ the set of all finite sequences of elements of $S$, including the empty sequence $(\ )$. If $\alpha = (a_1 ,\ldots ,a_n)$ is in $S^*$, then $n$ is called the *length* of *α* and is denoted by $\abs{\alpha}$. If $m \in \bN$, and *α* is a finite or infinite sequence in $S$ of length at least $m$, then we denote by $\bar{\alpha}(m)$ the finite sequence consisting of the first $m$ terms of *α*. Note that $\bar{\alpha}(0) = (\ )$ and $\abs{\bar{\alpha}(0)}$ = 0 . If $\alpha \in S^*$ and $\beta = \bar{\alpha}(m)$ for some $m$, we say that *α* is an *extension* of *β*, and that *β* is a *restriction* of *α*.
 
-A subset $\sigma$ of $S$ is said to be *detachable* (from $S)$ if
+A subset *σ* of $S$ is said to be *detachable* (from $S)$ if
 
 $$ \forall x\in S (x \in \sigma \vee x \not\in \sigma). $$
 
-A detachable subset $\sigma$ of $\bN^*$ is called a *fan* if
+A detachable subset *σ* of $\bN^*$ is called a *fan* if
 
 - it is closed under restriction: for each $\alpha \in \bN^*$ and each $n$, if $\bar{\alpha}(n) \in S$, then $\bar{\alpha}(k) \in S$ whenever $0 \le k \le n$; and
-- for each $\alpha \in \sigma$, the set $$ \{ \alpha^* n \in S: n \in \bN \} $$ is finite or empty, where $\alpha^* n$ denotes the finite sequence obtained by adjoining the natural number $n$ to the terms of $\alpha$.
+- for each $\alpha \in \sigma$, the set $$ \{ \alpha^* n \in S: n \in \bN \} $$ is finite or empty, where $\alpha^* n$ denotes the finite sequence obtained by adjoining the natural number $n$ to the terms of *α*.
 
-A *path* in a fan $\sigma$ is a sequence $\alpha$, finite or infinite, such that $\bar{\alpha}(n) \in \sigma$ for each applicable $n$. We say that a path $\alpha$ is *blocked* by a subset $B$ if some restriction of $\alpha$ is in $B$; if no restriction of $\alpha$ is in $B$, we say that $\alpha$ *misses* $B$. A subset $B$ of a fan $\sigma$ is called a *bar* for $\sigma$ if each infinite path of $\sigma$ is blocked by $B$; a bar $B$ for $\sigma$ is *uniform* if there exists $n \in \bN$ such that each path of length $n$ is blocked by $B$.
+A *path* in a fan *σ* is a sequence *α*, finite or infinite, such that $\bar{\alpha}(n) \in \sigma$ for each applicable $n$. We say that a path *α* is *blocked* by a subset $B$ if some restriction of *α* is in $B$; if no restriction of *α* is in $B$, we say that *α* *misses* $B$. A subset $B$ of a fan *σ* is called a *bar* for *σ* if each infinite path of *σ* is blocked by $B$; a bar $B$ for *σ* is *uniform* if there exists $n \in \bN$ such that each path of length $n$ is blocked by $B$.
 
 At last we can state Brouwer’s next principle of intuitionism, *the fan theorem for detachable bars* (FT$_D$):
 
@@ -239,7 +239,7 @@ It is remarkable what can be deduced cleanly and quickly using this principle. F
 Of more interest, however, are results such as the following within RUSS.
 
 - *Specker’s Theorem* (Specker [1949]): There exists a strictly increasing sequence $(r_1 ,r_2,\ldots)$ of rational numbers in the closed interval $[0,1]$ such that for each $x \in \bR$ there exist $N \in \bN$ and $\delta \gt 0$ such that $\abs{x - r_n} \ge \delta$ for all $n \ge N$.
-- For each $\varepsilon \gt 0$, there exists a sequence $(I_1 ,I_2,\ldots)$, of bounded open intervals in $\bR$ such that $\bR \subseteq \bigcup_{n=1}^{\infty} I_n$ and $\sum_{n=1}^N \abs{I_n} \lt \varepsilon$ for each N. (Such a sequence of intervals is called an $\varepsilon$-*singular cover* of $\bR$.)
+- For each $\varepsilon \gt 0$, there exists a sequence $(I_1 ,I_2,\ldots)$, of bounded open intervals in $\bR$ such that $\bR \subseteq \bigcup_{n=1}^{\infty} I_n$ and $\sum_{n=1}^N \abs{I_n} \lt \varepsilon$ for each N. (Such a sequence of intervals is called an *ε*-*singular cover* of $\bR$.)
 - There exists a pointwise continuous function $f : [0,1] \rightarrow \bR$ that is not uniformly continuous.
 - There exists a positive-valued uniformly continuous function $f : [0,1] \rightarrow \bR$ whose infimum is 0.
 
@@ -374,7 +374,7 @@ $$ \text{BISH } \vdash \text{ FT}_? \Leftrightarrow T, $$
 
 where FT$_?$ is some form of Brouwer’s fan theorem, and $T$ is a theorem of INT. To do so, we need to distinguish between certain types of bar for the *complete binary fan* $2^*$ (the set of all finite sequences in $\{0,1\})$.
 
-Let $\alpha \equiv (\alpha_1 ,\alpha_2, \ldots)$ be a finite or infinite binary sequence. The *concatenation* of $\alpha$ with another string $\beta$ is
+Let $\alpha \equiv (\alpha_1 ,\alpha_2, \ldots)$ be a finite or infinite binary sequence. The *concatenation* of *α* with another string *β* is
 
 $$ \alpha^{\frown}\beta \equiv (\alpha_1 ,\alpha_2 ,\ldots ,\alpha_n ,\beta_1 ,\ldots ,\beta_m). $$
 

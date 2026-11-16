@@ -31,7 +31,7 @@ But there are strong reasons not to equate probability with any actual relative 
 
 By contrast, QBists adopt a subjectivist or personalist interpretation of probability, in quantum theory as elsewhere (see entry on interpretations of probability, §3.3). This makes the Born Rule of quantum theory not a law of nature but an empirically motivated norm of rationality a wise agent should follow in addition to those whose violation would render the agent’s degrees of belief incoherent. As usually formulated, the Born Rule specifies probabilities for various possible measurement outcomes given a quantum state: But QBists also adopt a subjectivist or personalist interpretation of quantum states and their time development.
 
-The Schrödinger equation specifying the time development of a system’s quantum state $\psi$
+The Schrödinger equation specifying the time development of a system’s quantum state *ψ*
 
 $$\tag{1}\label{ex1} H\psi = i\hslash \,{\partial \psi /\partial t} $$
 
@@ -269,7 +269,7 @@ A proponent of DP might respond to this worry by noting that these conceptual ch
 
 ## 5. Related Views
 
-The view that a quantum state describes physical reality is sometimes called $\psi$-ontic, by contrast with a $\psi$-epistemic view that it represents an agent’s incomplete information about an underlying physical state. When Harrigan & Spekkens (2010) originally defined these terms they applied them only to what they called ontic models of quantum theory. But others have since used them more broadly to classify alternative views of quantum states outside of the ontological models framework. QBists and pragmatists are not the only ones to adopt a view that is neither $\psi$-ontic nor $\psi$-epistemic in some broader sense. Other views share the pragmatist thought that quantum states aren’t a function of any agent’s actual epistemic state because quantum state assignments are required to conform to objective standards of correctness. This section covers two such views.
+The view that a quantum state describes physical reality is sometimes called *ψ*-ontic, by contrast with a *ψ*-epistemic view that it represents an agent’s incomplete information about an underlying physical state. When Harrigan & Spekkens (2010) originally defined these terms they applied them only to what they called ontic models of quantum theory. But others have since used them more broadly to classify alternative views of quantum states outside of the ontological models framework. QBists and pragmatists are not the only ones to adopt a view that is neither *ψ*-ontic nor *ψ*-epistemic in some broader sense. Other views share the pragmatist thought that quantum states aren’t a function of any agent’s actual epistemic state because quantum state assignments are required to conform to objective standards of correctness. This section covers two such views.
 
 ### 5.1 Friederich
 
@@ -281,7 +281,7 @@ So far Friederich’s therapeutic approach parallels desert pragmatism (though t
 
 ### 5.2 Brukner and Zeilinger
 
-Brukner and Zeilinger (2003), Zeilinger (2005)[^zeilinger-2005] follow Schrödinger (1935)[^schrödinger-1935] and many others in viewing a quantum state as a catalogue of our knowledge about a system. Their view is not $\psi$-epistemic because it denies that the system *has* an ontic state about which we may learn by observing it. Instead, a system is characterized by its information content. An elementary system contains information sufficient to answer one question. For a spin ½ system, a question about spin component in any direction may be answered by a suitable observation. But the answer cannot typically be understood as revealing the pre-existing value of spin-component in that direction, and answering this question by observation randomizes the answer to any future question about spin-component in different directions. So the catalog of knowledge takes the form of a probability distribution over possible answers to all meaningful question about a quantum system that contains only one entry with probability 1 that might be considered a property that would be revealed if observed.
+Brukner and Zeilinger (2003), Zeilinger (2005)[^zeilinger-2005] follow Schrödinger (1935)[^schrödinger-1935] and many others in viewing a quantum state as a catalogue of our knowledge about a system. Their view is not *ψ*-epistemic because it denies that the system *has* an ontic state about which we may learn by observing it. Instead, a system is characterized by its information content. An elementary system contains information sufficient to answer one question. For a spin ½ system, a question about spin component in any direction may be answered by a suitable observation. But the answer cannot typically be understood as revealing the pre-existing value of spin-component in that direction, and answering this question by observation randomizes the answer to any future question about spin-component in different directions. So the catalog of knowledge takes the form of a probability distribution over possible answers to all meaningful question about a quantum system that contains only one entry with probability 1 that might be considered a property that would be revealed if observed.
 
 Brukner (2018)[^brukner-2018] has recently used an extension of Wigner’s friend paradox (Wigner 1962)[^wigner-1962] to argue that even the answers to such questions given by observation cannot be regarded as reflecting objective properties of the devices supposedly recording them. If sound, such an argument provides a reason to modify this view of quantum states to make it closer to that of QBists.
 
@@ -342,7 +342,7 @@ epistemology: Bayesian | Lewis, David | pragmatism | probability, interpretation
 
 [^bächtold-2008b]: –––, 2008b, *L’Interprétation de la Mécanique Quantique: une approche pragmatiste*, Paris: Hermann.
 
-[^barrett-2014]: Barrett, Jonathan, Eric G. Cavalcanti, Raymond Lal, and Owen J.E. Maroney, 2014, “No $\psi$-epistemic Model Can Fully Explain the Indistinguishability of Quantum States ”, *Physical Review Letters*, 112: 250403.
+[^barrett-2014]: Barrett, Jonathan, Eric G. Cavalcanti, Raymond Lal, and Owen J.E. Maroney, 2014, “No *ψ*-epistemic Model Can Fully Explain the Indistinguishability of Quantum States ”, *Physical Review Letters*, 112: 250403.
 
 [^barzegar-2020]: Barzegar, Ali, 2020, “QBism Is Not So Simply Dismissed”, *Foundations of Physics*, 50(7): 693–707. doi:10.1007/s10701-020-00347-3
 

@@ -110,7 +110,7 @@ Both (10) and (11) are true English sentences:
 
 **(10)**
 
-‘$\Phi$’ is not a part of any English expression.
+‘*Φ*’ is not a part of any English expression.
 
 **(11)**
 
@@ -553,7 +553,7 @@ First, (BQ3) says that we can use quotation to refer to symbols that are not in 
 
 **(9)**
 
-‘$\Phi$’ is not a part of any English expression.
+‘*Φ*’ is not a part of any English expression.
 
 **(10)**
 

@@ -6,7 +6,7 @@
 
 ## Proof of Equinumerosity Lemma
 
-In this proof of the Equinumerosity Lemma, we utilize the following abbreviation, where $\mathrm{\phi}$ is any formula in which the variable $y$ may or may not be free and $\mathrm{\phi}^{\nu}_{\upsilon}$ is the result of replacing the free occurrences of $\upsilon$ in $\mathrm{\phi}$ by $\nu$:
+In this proof of the Equinumerosity Lemma, we utilize the following abbreviation, where $\mathrm{\phi}$ is any formula in which the variable $y$ may or may not be free and $\mathrm{\phi}^{\nu}_{\upsilon}$ is the result of replacing the free occurrences of $\upsilon$ in $\mathrm{\phi}$ by *ν*:
 
 $x\eqclose \mathit{\iota}y\mathrm{\phi} \eqabbr \mathrm{\phi}\amp \forall z(\mathrm{\phi}^z_y \rightarrow z\eqclose x)$
 
@@ -32,7 +32,7 @@ In other words, if $x$ is *the* object $y$ such that $\mathrm{\phi} (y)$, then $
 
 $$\begin{align*} &[\lambda xy \, (x\neqclose a \amp y\neqclose b\amp Rxy)\ \lor \\ &\quad (x\eqclose \mathit{\iota}u(Pu\amp Rub)\amp y\eqclose \mathit{\iota}u(Qu\amp Rau))] \end{align*}$$
 
-To see that there is such a relation, note that once we replace the abbreviations $x=\mathit{\iota}u(Pu\amp Rub)$ and $y=\mathit{\iota}u(Qu\amp Rau)$ by primitive notation, the matrix of the $\lambda$-expression is a formula of the form $\mathrm{\phi}(x,y)$ which can be used in an instance of the Comprehension Principle for Relations.
+To see that there is such a relation, note that once we replace the abbreviations $x=\mathit{\iota}u(Pu\amp Rub)$ and $y=\mathit{\iota}u(Qu\amp Rau)$ by primitive notation, the matrix of the *λ*-expression is a formula of the form $\mathrm{\phi}(x,y)$ which can be used in an instance of the Comprehension Principle for Relations.
 
 Now we want to show that $R’$ is a 1-1 functional relation from the objects of $P^{-a}$ onto the objects of $Q^{-b}$. We show (A) that $R’$ is a functional relation from the objects of $P^{-a}$ to the objects of $Q^{-b}$, and then (B) that $R’$ is a 1-1 functional relation from the objects of $P^{-a}$ onto the objects of $Q^{-b}$.
 

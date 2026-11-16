@@ -81,13 +81,13 @@ That becomes a many-sorted formula when we rewrite it as:
 
 $$\forall X\,\exists Y\,\forall x(\epsilon _{1}xY\leftrightarrow \lnot \epsilon _{1}xX)$$
 
-using $x,y,\ldots$ as variables of sort $i$ (individuals) and $X,Y,\ldots$ of sort $\pi$ (properties).
+using $x,y,\ldots$ as variables of sort $i$ (individuals) and $X,Y,\ldots$ of sort *π* (properties).
 
 Formula $\forall X\,\exists Y\,\forall x(Yx\leftrightarrow \lnot Xx)$ is a generalization of an instance of Comprehension Scheme
 
 $$\exists Y^{n}\,\forall x_{1}\ldots\forall x_{n}(Y^{n}x_{1}\ldots x_{n}\leftrightarrow \varphi )$$
 
-(variable $Y^{n}$ is not free at $\varphi$). Section 4 and section 5 discuss the role played by this scheme in translation from second-order logic into many-sorted first-order logic.
+(variable $Y^{n}$ is not free at *φ*). Section 4 and section 5 discuss the role played by this scheme in translation from second-order logic into many-sorted first-order logic.
 
 As you will see in section 6.1, each many-sorted formula has a version in a one-sorted first-order language obtained by removing sorts. In this new language all the variables belong to one sort, but we add unary predicates to recover the lost information when passing from the many-sorted expression to the one-sorted one. We also need to guarantee that these new predicates, which represent the lost universes of quantification, are interpreted by non-empty sets, since universes of quantification are non-empty in classical logic.
 
@@ -119,7 +119,7 @@ To specify the syntax of a many-sorted language and associated structures we nee
 - **Alphabet:** The alphabet of a many-sorted language $L$ includes all the relation, function, and constant symbols in a set called $\OperSym$, as well as an infinite number of variables for each sort $s_{i}\in \Sort$, and the corresponding sets of variables are disjoint. An *n*-ary relation symbol $R$ could be strict or liberal and, in the first case, we must provide information about what are the involved sorts. To achieve this requirement, we define a function $\Rank$ having as domain the set $\OperSym$ and whose values are either natural numbers other than zero (liberal option) or finite strings of $\Sort\cup \{ 0\}$ (strict option). For any strict $f\in \OperSym$, its value $\Rank(f)$ always has the form $\langle i_{1},\ldots,i_{m},i_{0}\rangle$, with $i_{0},i_{1},\ldots,i_{m}\in \Sort\cup \{ 0\}$. When $f$ is an *m*-ary predicate, $i_{0}=0$, and $i_{0}\not=0$ for *m*-ary function symbols; individual constants are considered as zero-ary function symbols with $\Rank(f)=\langle i_{0}\rangle$, simplified as $i_{0}$.
 - **Signature:** By a *signature $\Sigma$* we mean the ordered triple $$\ \Sigma =\langle \Sort,\OperSym,\Rank\rangle$$ Equality is a binary symbol that could be strict or liberal. In our language, the equality symbol $\approx$ with $\Rank(\approx )=2$ is liberal (having arity 2 and being allowed to work between terms of any sort).[^note-2] The quantifier $\exists x^{i}$ is used for variables $x^{i}$ of any sort $i$.
 
-In Euclid’s example we have two sorts, $l$ (lines) and $p$ (points) and a 3-place predicate $\Join$ with $\Rank(\Join)=\langle l,p,p,0\rangle$. In the example of binary relations we have two sorts, $i$ (individuals) and $r$ (binary relations) and a 3-place predicate symbol $\epsilon _{2}$ with $\Rank(\epsilon_{2})=\langle i,i,r,0\rangle$. For the comprehension example we have two sorts, $i$ (individuals) and $\pi$ (properties) and a 2-place predicate symbol $\epsilon_{1}$ with $\Rank(\epsilon_{1})=\langle i,\pi ,0\rangle$.
+In Euclid’s example we have two sorts, $l$ (lines) and $p$ (points) and a 3-place predicate $\Join$ with $\Rank(\Join)=\langle l,p,p,0\rangle$. In the example of binary relations we have two sorts, $i$ (individuals) and $r$ (binary relations) and a 3-place predicate symbol $\epsilon _{2}$ with $\Rank(\epsilon_{2})=\langle i,i,r,0\rangle$. For the comprehension example we have two sorts, $i$ (individuals) and *π* (properties) and a 2-place predicate symbol $\epsilon_{1}$ with $\Rank(\epsilon_{1})=\langle i,\pi ,0\rangle$.
 
 ### 1.3 Formal Language
 
@@ -131,7 +131,7 @@ In consequence, the *terms* of many-sorted logic are defined recursively as foll
 
 *Atomic formulas* are defined by means of predicates and terms: If $R\in \OperSym$ is such that $\Rank(R)=\langle i_{1},\ldots ,i_{m},0\rangle$, and $\tau _{1},\ldots $,$\tau _{m}$ are terms of sorts $i_{1},\ldots,$ $i_{m}$, then $R\tau _{1}\ldots \tau _{m}$ is a formula (when $R$ is a liberal predicate, we drop the sort requirement for terms). For any terms $\tau _{1}\ $and $\tau _{2}$, the expression $\tau _{1}\approx \tau _{2}$ is a formula. Notice that the sorts of $\tau _{1}\ $and $\tau _{2}$ do not matter, because our choice of equality symbol is the liberal one.[^note-3]
 
-Complex *well-formed formulas* (wffs) are defined as usual in first-order languages (see the entry on classical logic), except for quantified expressions. The new rule says: If $\varphi$ is a formula and $x^{i}$ is a variable of sort $i$, then $\exists x^{i}\varphi$ is a formula as well.
+Complex *well-formed formulas* (wffs) are defined as usual in first-order languages (see the entry on classical logic), except for quantified expressions. The new rule says: If *φ* is a formula and $x^{i}$ is a variable of sort $i$, then $\exists x^{i}\varphi$ is a formula as well.
 
 #### Free and bound variables
 
@@ -151,14 +151,14 @@ In order to analyze this example, we should identify premises and conclusion; an
 
 This rule is not saying that existence of a particular object is eternal, it is saying that the chain of existence goes back forever.
 
-Thus, the argument can be reformulated in the following way, where $\alpha ,$ $\beta$ and $\gamma$ are the premises and $\delta$ is the conclusion:
+Thus, the argument can be reformulated in the following way, where $\alpha ,$ *β* and *γ* are the premises and *δ* is the conclusion:
 
 - $\alpha :=$ If things exist at a given point in time, then at any given previous moment in time things must have existed.
 - $\beta :=$ Things exist today.
 - $\gamma :=$ The dawn of time is previous to all else.
 - $\delta :=$ Things existed at the dawn of time.
 
-Now, the premises and the conclusion can be formalized by means of a *two sorted language*, $\Sort=\{ i,\tau \}$, including *objects* (sort $i$) and *instants of time* (sort $\tau$). The set $\OperSym$ contains a binary predicate of existence at a given time, $E$, another binary predicate of precedence between instants, $P$, and two individual constants for *today* ($t$) and the *dawn* of times $(d)$. So, in this case,
+Now, the premises and the conclusion can be formalized by means of a *two sorted language*, $\Sort=\{ i,\tau \}$, including *objects* (sort $i$) and *instants of time* (sort *τ*). The set $\OperSym$ contains a binary predicate of existence at a given time, $E$, another binary predicate of precedence between instants, $P$, and two individual constants for *today* ($t$) and the *dawn* of times $(d)$. So, in this case,
 
 $$\begin{align} \Rank(E) & =\langle i,\tau ,0\rangle,\\ \Rank(P) & =\langle \tau ,\tau ,0\rangle \textrm{ and}\\ \Rank(d) & =\tau =\Rank(t).\\ \end{align} $$
 
@@ -166,7 +166,7 @@ The argument now reads:
 
 $$\begin{align} \alpha & :=\forall x^{\tau }(\exists y^{i}Ey^{i}x^{\tau }\rightarrow \forall z^{\tau }(Pz^{\tau }x^{\tau }\rightarrow \exists v^{i}Ev^{i}z^{\tau }))\\ \beta & :=\exists y^{i}Ey^{i}t \\ \gamma & :=\forall y^{\tau }\ Pdy^{\tau }\\ \delta & :=\exists x^{i}Ex^{i}d \end{align} $$
 
-In many sorted logic, the conclusion is easily obtained from these hypotheses by using a deductive calculus (see section 2). Therefore, the argument is formally correct, once we accept the problematic hypothesis $\alpha$. In section 2.4 we rewrite the argument to use theorem provers LEO-II and LEO-III.
+In many sorted logic, the conclusion is easily obtained from these hypotheses by using a deductive calculus (see section 2). Therefore, the argument is formally correct, once we accept the problematic hypothesis *α*. In section 2.4 we rewrite the argument to use theorem provers LEO-II and LEO-III.
 
 ### 1.4 Many-sorted Structures
 
@@ -184,19 +184,19 @@ In many-sorted first-order logic, a structure is understood as a tuple having a 
 
 A many-sorted Σ-structure $\mathcal{A}$ has several universes (or domains) of objects in a family of non-empty sets $\mathbf{A}_{i}$ (for each $i\in Sort$). Structure $\mathcal{A}$ contains as well: an *m*-ary relation $R^{\mathcal{A}}$ for each relation symbol $R$, an *n*-ary function $f^{\mathcal{A}}$ for every *n*-ary function symbol $f$ and a distinguish element $c^{\mathcal{A}}\in \mathbf{A}_{i}$ for every individual constant $c$. These relations and functions have to be established between elements of the family of domains taking into account their values under function $\Rank$.[^note-4]
 
-Using structure $\mathcal{A}$ we define in section 1.5 the truth of a sentence $\varphi$ in this structure, noted as $\mathcal{A}\models \varphi$.
+Using structure $\mathcal{A}$ we define in section 1.5 the truth of a sentence *φ* in this structure, noted as $\mathcal{A}\models \varphi$.
 
 We could add the requirement of empty intersection between different domains. Structures obeying this requirement are called “strict”, otherwise “lax” (or “liberal”). For strict structures we may consider the possibility of having an equality symbol for each sort, $\approx _{i}$, each of them with $\Rank(\approx _{i})=\langle i,i,0\rangle$. We require equality symbols (either strict or liberal) to be interpreted as genuine identity, the prototypical relation that holds between an object and itself and fails to hold between any two other objects.
 
 #### Relations of similarity between structures
 
-For one-sorted structures, it is very common to study different relations between them: *homomorphisms*, *embeddings, isomorphisms, substructures* and *extensions* (see Manzano 1989 [1999: 19–33])[^manzano-1989]. One can define these relations for many-sorted structures in a similar vein. An *homomorphism* between two structures $\mathcal{A}$ and $\mathcal{A}^{\prime }$ with the same signature is a function $\pi$ from the union of the universes of $\mathcal{A}$ to the union of the universes of $\mathcal{A}^{\prime }$ satisfying the following conditions: Firstly, the restriction of $\pi$ to $\mathbf{A}_{i}$ must be a function from $\mathbf{A}_{i}$ to $\mathbf{A}_{i}^{\prime }$, for each $i\in Sort$. Secondly, if the *n*-tuple of elements $\langle \mathbf{a}_{i},\dots ,\mathbf{a}_{n}\rangle$ is in the *n*-ary relation $R^{\mathcal{A}}$ then $\langle \pi (\mathbf{a}_{i}),\dots ,\pi (\mathbf{a}_{n})\rangle$ is in the relation $R^{\mathcal{A}^{\prime }}$. Finally,
+For one-sorted structures, it is very common to study different relations between them: *homomorphisms*, *embeddings, isomorphisms, substructures* and *extensions* (see Manzano 1989 [1999: 19–33])[^manzano-1989]. One can define these relations for many-sorted structures in a similar vein. An *homomorphism* between two structures $\mathcal{A}$ and $\mathcal{A}^{\prime }$ with the same signature is a function *π* from the union of the universes of $\mathcal{A}$ to the union of the universes of $\mathcal{A}^{\prime }$ satisfying the following conditions: Firstly, the restriction of *π* to $\mathbf{A}_{i}$ must be a function from $\mathbf{A}_{i}$ to $\mathbf{A}_{i}^{\prime }$, for each $i\in Sort$. Secondly, if the *n*-tuple of elements $\langle \mathbf{a}_{i},\dots ,\mathbf{a}_{n}\rangle$ is in the *n*-ary relation $R^{\mathcal{A}}$ then $\langle \pi (\mathbf{a}_{i}),\dots ,\pi (\mathbf{a}_{n})\rangle$ is in the relation $R^{\mathcal{A}^{\prime }}$. Finally,
 
 $$\pi \left(f^{\mathcal{A}}\left(\mathbf{a}_{i},\dots ,\mathbf{a}_{m}\right)\right)=f^{\mathcal{A}^{\prime }}\left(\pi \left(\mathbf{a}_{i}\right),\dots ,\pi \left(\mathbf{a}_{m}\right)\right)$$
 
 and $\pi (c_{i}^{\mathcal{A}})=c_{i}^{\mathcal{A}^{\prime }}$.
 
-An *embedding* is a homomorphism where the involved functions are injective and the second condition works in both directions. An *isomorphism* is an embedding where the defining maps are bijections. When the function $\pi$ is an isomorphism one says that $\mathcal{A}$ and $\mathcal{A}^{\prime }$ are *isomorphic* and writes $\mathcal{A}\cong \mathcal{A}^{\prime }$.
+An *embedding* is a homomorphism where the involved functions are injective and the second condition works in both directions. An *isomorphism* is an embedding where the defining maps are bijections. When the function *π* is an isomorphism one says that $\mathcal{A}$ and $\mathcal{A}^{\prime }$ are *isomorphic* and writes $\mathcal{A}\cong \mathcal{A}^{\prime }$.
 
 We say that $\mathcal{A}^{\prime }$ is a *substructure* of $\mathcal{A}$ (equivalently, $\mathcal{A}$ is an *extension* of $\mathcal{A}^{\prime }$) if and only if the inclusion map $i$ (sending every element to itself) is an embedding from $\mathcal{A}^{\prime }$ to $\mathcal{A}$.
 
@@ -208,11 +208,11 @@ All the relationships already mentioned are established between structures of th
 
 Given a language and a structure, both of them sharing the same signature, each closed term of the language will denote an element in the structure and each atomic sentence is either true or false in the structure. Nevertheless, the scope of our definition is widened so that each term will receive a denotation and each formula a truth value. To achieve that, we define assignments[^note-5] from the set of variables to the domains of the structure, arguments and values should be of the same sort. For any individual $\mathbf{x}\in \mathbf{A}_{i}$ and variable $x^{i}$ of sort $i$, we use $s(\mathbf{x}/x^{i})$ to denote the assignment which is like assignment $s$ except that the value at $x^{i}$ has to be $\mathbf{x}$.
 
-To define the important concept of “*truth* of a sentence $\varphi$ in a structure $\mathcal{A}$” $(\mathcal{A}\models \varphi)$ we need to define previously the concept of *satisfaction* of a formula $\varphi$ in $\mathcal{A}$ under assignment $s$ (noted as $\mathcal{A},s\models \varphi$), as well as the *denotation* of terms.
+To define the important concept of “*truth* of a sentence *φ* in a structure $\mathcal{A}$” $(\mathcal{A}\models \varphi)$ we need to define previously the concept of *satisfaction* of a formula *φ* in $\mathcal{A}$ under assignment $s$ (noted as $\mathcal{A},s\models \varphi$), as well as the *denotation* of terms.
 
 #### Denotation of terms
 
-Let $\mathcal{A}$ be an *L*-structure (language and structure sharing signature $\Sigma$) and $s$ an assignment. $\mathcal{I}=\langle \mathcal{A},s\rangle$ is called an interpretation. The recursive definition of denotation $\mathcal{I}(\tau )$ of the term $\tau$ under the interpretation $\mathcal{I}$ is defined in the usual way, as in classical one-sorted first-order logic. For atomic and complex terms: $\mathcal{I}(x^{i})=s(x^{i})$, $\mathcal{I}(c)=c^{\mathcal{A}}$ and
+Let $\mathcal{A}$ be an *L*-structure (language and structure sharing signature $\Sigma$) and $s$ an assignment. $\mathcal{I}=\langle \mathcal{A},s\rangle$ is called an interpretation. The recursive definition of denotation $\mathcal{I}(\tau )$ of the term *τ* under the interpretation $\mathcal{I}$ is defined in the usual way, as in classical one-sorted first-order logic. For atomic and complex terms: $\mathcal{I}(x^{i})=s(x^{i})$, $\mathcal{I}(c)=c^{\mathcal{A}}$ and
 
 $$\mathcal{I}(f\ \tau _{1}\ldots \tau _{n})=f^{\mathcal{A}}(\mathcal{I}(\tau _{1})\ldots \mathcal{I}(\tau _{n})).$$
 
@@ -230,7 +230,7 @@ In many-sorted logic the connectives are standard and, therefore, we use the cla
 
 #### Coincidence lemma
 
-As in classical first-order logic, the coincidence lemma holds (see the entry on classical logic): For any formula $\varphi$ and assignments $s_{1}$ and $s_{2}$: if $s_{1}$ and $s_{2}$ agree on the free variables in $\varphi$, then $\mathcal{A},s_{1}\models \varphi$ if and only if $\mathcal{A},s_{2}\models \varphi$.
+As in classical first-order logic, the coincidence lemma holds (see the entry on classical logic): For any formula *φ* and assignments $s_{1}$ and $s_{2}$: if $s_{1}$ and $s_{2}$ agree on the free variables in *φ*, then $\mathcal{A},s_{1}\models \varphi$ if and only if $\mathcal{A},s_{2}\models \varphi$.
 
 For a formula $\varphi (x_{1},\ldots ,x_{n})$ whose free variables are in $\{ x_{1},\ldots ,x_{n}\}$ one can write
 
@@ -240,17 +240,17 @@ instead of
 
 $$\mathcal{A},s\left( \mathbf{x}_{1}/x_{1},\ldots ,\mathbf{x}_{n}/x_{n}\right) \models \varphi.$$
 
-By applying the coincidence lemma, we can get rid of assignments when dealing with sentences, and so we just write $\mathcal{A}\models \varphi$ (instead of $\mathcal{A},s\models \varphi$). In this case we usually say that $\mathcal{A}$ is a *model* of $\varphi$.
+By applying the coincidence lemma, we can get rid of assignments when dealing with sentences, and so we just write $\mathcal{A}\models \varphi$ (instead of $\mathcal{A},s\models \varphi$). In this case we usually say that $\mathcal{A}$ is a *model* of *φ*.
 
-For a set of sentences $\Gamma$ we say that $\mathcal{A}$ is a *model* of $\Gamma$ (for short $\mathcal{A}\models \Gamma$), when $\mathcal{A}$ is a model of every sentence $\gamma$ in $\Gamma$. Structures and language share signature.
+For a set of sentences *Γ* we say that $\mathcal{A}$ is a *model* of *Γ* (for short $\mathcal{A}\models \Gamma$), when $\mathcal{A}$ is a model of every sentence *γ* in *Γ*. Structures and language share signature.
 
-The abstract schema of semantics could be seen in this way: we have a language $L$ and a class of mathematical structures, sharing a given signature $\Sigma$. Between these mathematical realities we have just built a bridge, the notion of *truth in a structure*. In one direction, we circulate from sentences to structures where these sentences are true; on the other direction, we go from structures to sentences which are true in these structures. In the first case, from a set of sentences $\Gamma$ of signature $\Sigma$ we define $\Mod(\Gamma )$ as the class of structures of signature $\Sigma$ that are models of $\Gamma$. In the second, from a structure $\mathcal{A}$ of signature $\Sigma$ we define $\Th(\mathcal{A})$ (the theory of $\mathcal{A}$ ), the infinite set of sentences which are true at structure $\mathcal{A}$
+The abstract schema of semantics could be seen in this way: we have a language $L$ and a class of mathematical structures, sharing a given signature $\Sigma$. Between these mathematical realities we have just built a bridge, the notion of *truth in a structure*. In one direction, we circulate from sentences to structures where these sentences are true; on the other direction, we go from structures to sentences which are true in these structures. In the first case, from a set of sentences *Γ* of signature $\Sigma$ we define $\Mod(\Gamma )$ as the class of structures of signature $\Sigma$ that are models of *Γ*. In the second, from a structure $\mathcal{A}$ of signature $\Sigma$ we define $\Th(\mathcal{A})$ (the theory of $\mathcal{A}$ ), the infinite set of sentences which are true at structure $\mathcal{A}$
 
 $$\begin{align} \Mod(\Gamma ) &=\{ \Sigma \text{ structure }\mathcal{A}:\mathcal{A}\models \Gamma \} \\ \Th(\mathcal{A}) &= \{ \varphi \in \Sent(L):\mathcal{A}\models \varphi \} \end{align}$$
 
 #### Elementary embedding
 
-In the previous section, the relations between structures were defined without resorting to the many-sorted formal language. That is not the case for *elementary embedding*, another relationship between many-sorted structures of the same signature. An elementary embedding $\pi$ between two Σ-structures $\mathcal{A}$ and $\mathcal{A}^{\prime }$ is an embedding satisfying:
+In the previous section, the relations between structures were defined without resorting to the many-sorted formal language. That is not the case for *elementary embedding*, another relationship between many-sorted structures of the same signature. An elementary embedding *π* between two Σ-structures $\mathcal{A}$ and $\mathcal{A}^{\prime }$ is an embedding satisfying:
 
 $$ \mathcal{A\models \varphi \lbrack }\mathbf{x}_{1},\ldots, \mathbf{x}_{n}] \textrm{ if and only if } \mathcal{A}^{\prime }\mathcal{\models \varphi \lbrack }\pi (\mathbf{x}_{1}),\ldots \pi (\mathbf{x}_{n})] $$
 
@@ -260,13 +260,13 @@ Two structures $\mathcal{A}$ and $\mathcal{B}$ are *elementarily equivalent* if 
 
 #### Satisfiability, Validity, and Consequence
 
-Concepts of *satisfiability*, *validity* and *consequence* are defined as in classical first-order logic. Given language $L$ of signature $\Sigma$ and a formula $\varphi$ of $L$: $\varphi$ is *satisfiable* if and only if there exists a Σ-structure $\mathcal{A}$ and assignment $s$ on it such that $\mathcal{A},s\models \varphi$ holds; $\varphi$ is *valid* ($\models \varphi$) if and only if $\mathcal{A},s\models \varphi$ holds for all $\mathcal{A}$ of signature $\Sigma$ and any assignment $s$ on $\mathcal{A}$.
+Concepts of *satisfiability*, *validity* and *consequence* are defined as in classical first-order logic. Given language $L$ of signature $\Sigma$ and a formula *φ* of $L$: *φ* is *satisfiable* if and only if there exists a Σ-structure $\mathcal{A}$ and assignment $s$ on it such that $\mathcal{A},s\models \varphi$ holds; *φ* is *valid* ($\models \varphi$) if and only if $\mathcal{A},s\models \varphi$ holds for all $\mathcal{A}$ of signature $\Sigma$ and any assignment $s$ on $\mathcal{A}$.
 
 Given a language $L$ of a given signature $\Sigma$ we define the *consequence* relation in this way: $\Gamma \models \varphi$ if and only if for every structure $\mathcal{A}\ $(of signature $\Sigma$ ) and assignment $s$ such that $\mathcal{A},s\models \gamma$ for all $\gamma \in \Gamma$, we have that $\mathcal{A},s\models \varphi$.
 
-In case $\Gamma$ and $\varphi$ were sentences, $\Gamma \models \varphi$ can be expressed in this way: $\Mod(\Gamma )\subseteq \Mod(\varphi )$.
+In case *Γ* and *φ* were sentences, $\Gamma \models \varphi$ can be expressed in this way: $\Mod(\Gamma )\subseteq \Mod(\varphi )$.
 
-**Theory:** Given a set of sentences $\Gamma$ of a language $L$ we say that $\Gamma$ *is a theory*[^note-6] if and only if it is closed under consequence; that is, for every $\varphi \in \Sent(L)$: If $\Gamma \models \varphi$ then $\varphi \in \Gamma$.
+**Theory:** Given a set of sentences *Γ* of a language $L$ we say that *Γ* *is a theory*[^note-6] if and only if it is closed under consequence; that is, for every $\varphi \in \Sent(L)$: If $\Gamma \models \varphi$ then $\varphi \in \Gamma$.
 
 ## 2. Calculus
 
@@ -280,7 +280,7 @@ The sequent calculus presented in Manzano (1996: 240–257)[^manzano-1996] is th
 
 As usual, to symbolize *derivability* of a formula from a set of formulas we write, $\Delta \vdash \varphi$. We will write the derivability sign $\vdash$ with a subscript when needed; namely, $\vdash _{\MSL}$. In any of these calculi the notion of proof is effective in the sense that there is a method by which whenever a finite sequence of sequents of formulas is given, it can always be effectively determined, whether it is a proof or not. Any of these calculi is *undecidable*, as there is not an algorithm to check if $\vdash \varphi$ or not. In fact, it could not be otherwise as the *satisfiability problem* (i.e., determining validity, or equivalently, testing for satisfiability of given formulas) for many-sorted logic is undecidable. So, we are in the same situation encountered in one-sorted first-order logic.
 
-Of course, if a calculus is to be helpful it would never allow erroneous reasonings: it is not going to drive us from true hypotheses to false conclusions. It must be a *sound calculus*. Further, it is highly desirable that all the consequences of a set $\Gamma$ of hypotheses could be derived from $\Gamma$. That is, we would like to have a *strongly complete calculus*. In our section 2.3 you will find the sketch of such a completeness proof.
+Of course, if a calculus is to be helpful it would never allow erroneous reasonings: it is not going to drive us from true hypotheses to false conclusions. It must be a *sound calculus*. Further, it is highly desirable that all the consequences of a set *Γ* of hypotheses could be derived from *Γ*. That is, we would like to have a *strongly complete calculus*. In our section 2.3 you will find the sketch of such a completeness proof.
 
 #### Maximal consistency and the property of having witnesses
 
@@ -290,7 +290,7 @@ Consistency can be seen as the syntactic counterpart of satisfiability, in the s
 
 ### 2.2 Completeness Notions
 
-Proof and truth are defined by independent methods and it is not trivial, but necessary, to prove that they are extensionally the same. This is the content of the *completeness* theorem when this property is predicated of a *sound* calculus. There is another meaning of *completeness*, when it is predicate of a theory: A *theory $\Gamma$ is complete* when for each sentence, either $\varphi$ or $\lnot \varphi$ is a consequence of $\Gamma$ (Manzano 1989 [1999: 118])[^manzano-1989]. *Strong completeness* of a calculus establishes its sufficiency for capturing the logical consequence; namely, whenever a sentence follows logically from a set of hypotheses, there is a proof of this sentence in the calculus, possibly using some of these hypotheses. In contrast, *weak completeness* says that we have proofs for all validities. In a complete[^note-8] logic, the expressive power of the language and its computational strength are well balanced. Thus the question about completeness is the question about the equilibrium of the basic components of a logic: its semantics and its logical calculus.
+Proof and truth are defined by independent methods and it is not trivial, but necessary, to prove that they are extensionally the same. This is the content of the *completeness* theorem when this property is predicated of a *sound* calculus. There is another meaning of *completeness*, when it is predicate of a theory: A *theory *Γ* is complete* when for each sentence, either *φ* or $\lnot \varphi$ is a consequence of *Γ* (Manzano 1989 [1999: 118])[^manzano-1989]. *Strong completeness* of a calculus establishes its sufficiency for capturing the logical consequence; namely, whenever a sentence follows logically from a set of hypotheses, there is a proof of this sentence in the calculus, possibly using some of these hypotheses. In contrast, *weak completeness* says that we have proofs for all validities. In a complete[^note-8] logic, the expressive power of the language and its computational strength are well balanced. Thus the question about completeness is the question about the equilibrium of the basic components of a logic: its semantics and its logical calculus.
 
 Sometimes, we merely say that a *logic is complete* and qualify this property as *abstract completeness*. In this case, we are only concerned with the computational characteristics of the set of logical truths (validities), all we need to know is that they are *recursively enumerable*.
 
@@ -305,7 +305,7 @@ The completeness proof for a many-sorted calculus could be done by following the
 
 By doing that we prove:
 
-**Henkin’s theorem:** If $\Gamma \subseteq \ Form(L)$ is consistent, then $\Gamma$ has a countable model.[^note-9]
+**Henkin’s theorem:** If $\Gamma \subseteq \ Form(L)$ is consistent, then *Γ* has a countable model.[^note-9]
 
 The completeness theorem
 
@@ -319,9 +319,9 @@ As corollaries of the previous results one gets:
 
 **Weak completeness:** If $\models \varphi$ then $\vdash \varphi$.
 
-**Compactness theorem:** $\Gamma$ has a model iff every finite subset of it has a model.
+**Compactness theorem:** *Γ* has a model iff every finite subset of it has a model.
 
-**Löwenheim-Skolem:** If $\Gamma$ has a model, then it has a countable model.
+**Löwenheim-Skolem:** If *Γ* has a model, then it has a countable model.
 
 In Manzano (1996: 245–257)[^manzano-1996], the completeness theorem is proved in its strong sense and for all formulas, not only for sentences. Completeness and its corollaries are proven by following the path introduced by Ebbinghaus, Flum, and Thomas (1984).
 
@@ -331,7 +331,7 @@ In Manzano (1996: 245–257)[^manzano-1996], the completeness theorem is proved 
 
 Many-sorted logic provides a semantical concept of consequence as well as a deductive calculus to be used in the mathematical process of obtaining conclusions from hypotheses. Now the issue is to automate this reasoning process by building a computer program to conduct deductive inferences.
 
-As we have already mentioned, soundness is the essential requirement of a calculus while completeness guarantees that all the semantical consequences can be established within the calculus and so the set of validities is *recursively enumerable*. The most relevant properties for automated deduction are *decidability* and *complexity*. A logic is decidable when there is an algorithm that answer *YES* or *NO* in a finite time to the question: *is the formula $\varphi$ valid?* As validity and satisfiability are interdefinible ($\models \varphi$ iff $\lnot \varphi$ is not satisfiable) this problem is often called the *satisfiability* problem. Among the basic tasks a computer is asked for are *satisfiability* and *model checking*.
+As we have already mentioned, soundness is the essential requirement of a calculus while completeness guarantees that all the semantical consequences can be established within the calculus and so the set of validities is *recursively enumerable*. The most relevant properties for automated deduction are *decidability* and *complexity*. A logic is decidable when there is an algorithm that answer *YES* or *NO* in a finite time to the question: *is the formula *φ* valid?* As validity and satisfiability are interdefinible ($\models \varphi$ iff $\lnot \varphi$ is not satisfiable) this problem is often called the *satisfiability* problem. Among the basic tasks a computer is asked for are *satisfiability* and *model checking*.
 
 Propositional logic is decidable but first-order logic, many-sorted version included, is undecidable. However, in between propositional and first-order logic there are decidable logics, like *monadic predicate logic* (first-order logic whose predicates are all unary predicates), as well as decidable fragments[^note-10] of the undecidable logic. Moreover, among the decidable problems there are degrees of time-space complexity measuring time and memory register used by the computer.
 
@@ -375,17 +375,17 @@ Formulas in basic propositional modal language are built from *Atoms*, classical
 
 $$\mathcal{A}=\langle \mathbf{W},\mathbf{R},\langle P^{\mathcal{A}}\rangle _{P\in \Atom}\rangle$$
 
-having a non-empty domain $\mathbf{W}$ of states or worlds, a binary accessibility relation $\mathbf{R}$ defined over it, and a collection of subsets of $\mathbf{W}$ for each atomic proposition symbol $P$. A modal formula $\varphi$ is true at world $w$ in model $\mathcal{A}$ ($\varphi$ is *satisfied* in $\mathcal{A}$ at world $w$) when the following inductive conditions apply:
+having a non-empty domain $\mathbf{W}$ of states or worlds, a binary accessibility relation $\mathbf{R}$ defined over it, and a collection of subsets of $\mathbf{W}$ for each atomic proposition symbol $P$. A modal formula *φ* is true at world $w$ in model $\mathcal{A}$ (*φ* is *satisfied* in $\mathcal{A}$ at world $w$) when the following inductive conditions apply:
 
 $$\begin{align} \mathcal{A},w & \models P&& \text{ iff } w\in P^{\mathcal{A}}\\ \mathcal{A},w&\not\models \bot&& \text{ for all } w \\ \mathcal{A},w&\models \lnot \varphi&& \text{ iff not } \mathcal{A},w\models \varphi\\ \mathcal{A},w&\models \varphi \land \psi&& \text{ iff } \mathcal{A},w\models \varphi \text{ and } \mathcal{A},w\models \psi \\ \mathcal{A},w&\models \square \varphi&& \text{ iff for all } v \text{ such that } \langle w,v\rangle \in \mathbf{R}: \mathcal{A},v\models \varphi \end{align} $$
 
-A formula $\varphi$ is *globally true* in a model $\mathcal{A}$ if it is satisfied at all worlds in $\mathcal{A}$ ($\mathcal{A}\models \varphi$). A formula $\varphi$ is *valid* if it is globally true at all models ($\models \varphi$). The set of validities in the whole class of Kripke models (when no restrictions are imposed to the accessibility relation) are the validities of the *basic modal logic*, also called *minimal modal logic* or *System* *K*.[^note-12]
+A formula *φ* is *globally true* in a model $\mathcal{A}$ if it is satisfied at all worlds in $\mathcal{A}$ ($\mathcal{A}\models \varphi$). A formula *φ* is *valid* if it is globally true at all models ($\models \varphi$). The set of validities in the whole class of Kripke models (when no restrictions are imposed to the accessibility relation) are the validities of the *basic modal logic*, also called *minimal modal logic* or *System* *K*.[^note-12]
 
 Blackburn and van Benthem (2007: 5) note
 
 > the *internal* character of modal satisfaction definition: *modal formulas talk about Kripke models from the inside*
 
-as modal formulas are evaluated at certain points. The intuition is that the modal operator $\square$ is a kind of universal quantifier and modal structures are first-order relational structures with a binary relation and a collection of subsets of the universe. In a first-order language, to talk about these structures one needs a binary relation symbol, $S$, as well as a collection of unary relation symbols. This language is called *first-order correspondence language* because every basic modal formula corresponds to a first-order formula. The standard translation of a modal formula $\varphi$ is a first-order formula with one free variable expressing the semantics of modal formulas:
+as modal formulas are evaluated at certain points. The intuition is that the modal operator $\square$ is a kind of universal quantifier and modal structures are first-order relational structures with a binary relation and a collection of subsets of the universe. In a first-order language, to talk about these structures one needs a binary relation symbol, $S$, as well as a collection of unary relation symbols. This language is called *first-order correspondence language* because every basic modal formula corresponds to a first-order formula. The standard translation of a modal formula *φ* is a first-order formula with one free variable expressing the semantics of modal formulas:
 
 $$\begin{align} \ST_{x}(P)& :=Px\\ \ST_{x}(\bot ) & :=x\not=x \\ \ST_{x}(\lnot \varphi )& :=\lnot \ST_{x}(\varphi )\\ \ST_{x}(\varphi \land \psi )& :=\ST_{x}(\varphi )\land \ST_{x}(\psi ) \\ \ST_{x}(\square \varphi )& :=\forall y(Sxy\rightarrow \lbrack y/x]\ST_{y}(\varphi ))\text{, where }y\text{ is a new variable.} \end{align} $$
 
@@ -419,13 +419,13 @@ With the direct conversion of structures we want to obtain as a result the equiv
 
 Next question to ask is whether or not $\mathfrak{S}^{\ast}$ can be replaced by the models of a set $\Delta$ of many-sorted formulas. Thus, the key to both definitions, $\Trans$ and $\Conv_{1}$, is to simplify the proof of the semantic equivalence, and in this respect the relevance of the results obtained strongly depends on the possibility of axiomatizing $\mathfrak{S}^{\ast}$. In case you get such a recursive set of formulas of $\MSL^{\XL}$, say $\Delta$, (or at least such that $\mathfrak{S}^{\ast}\subseteq \Mod(\Delta )$) we should prove that validity in $\XL$ is equivalent to consequence from $\Delta$ in $\MSL^{\XL}$.
 
-In case you get the set $\Delta$, a reverse conversion of structures, $\Conv_{2}$, should be defined. And so, from many-sorted models of $\Delta$ we get structures in $\Str(\XL)$. Our goal in defining it is to prove that starting from a many-sorted structure $\mathcal{B}$ (a model of $\Delta$), a formula $\varphi$ of $\XL$ is true in $\Conv_{2}(\mathcal{B)}$ if and only if the universal closure of its translation is true at $\mathcal{B}$.
+In case you get the set $\Delta$, a reverse conversion of structures, $\Conv_{2}$, should be defined. And so, from many-sorted models of $\Delta$ we get structures in $\Str(\XL)$. Our goal in defining it is to prove that starting from a many-sorted structure $\mathcal{B}$ (a model of $\Delta$), a formula *φ* of $\XL$ is true in $\Conv_{2}(\mathcal{B)}$ if and only if the universal closure of its translation is true at $\mathcal{B}$.
 
 ### 3.4 Level One: Representation Theorems
 
 The logic being studied is $\XL$ and we define a recursive function $\Trans$ to do translations into $\MSL^{\XL}$ as well as a direct conversion of structures, $\Conv_{1}$. Our first goal is to state and prove the following:
 
-**Theorem 1:** For every sentence $\varphi$ of the $\XL$ logic,
+**Theorem 1:** For every sentence *φ* of the $\XL$ logic,
 
 $$\models _{\Str(\XL)}\varphi \text{ in } \XL \text{ iff } \models _{\mathfrak{S}^{\ast}}\forall \Trans(\varphi )\text{ in }\MSL$$
 
@@ -437,7 +437,7 @@ We wonder, *can validity in the class of structures $\mathfrak{S}^{\ast}$ be rep
 
 $$\models _{\Str(\XL)}\varphi \text{ in } \XL \text{ iff } \Delta \models _{\Str(\MSL^{\XL})}\forall \Trans(\varphi )\text{ in }\MSL$$
 
-for every sentence $\varphi$ of the $\XL$ logic.
+for every sentence *φ* of the $\XL$ logic.
 
 From Representation theorem it follows *Enumerability* for the logic $\XL$. Namely, the set of validities of $\XL$ is recursively enumerable. Therefore, $\XL$ is complete in an abstract sense.
 
@@ -489,7 +489,7 @@ $$\Pi \models _{\Str(\XL)}\varphi \text{ if and only if }\Pi \vdash _{\XL}\varph
 
 Second-order logic, SOL, is a very expressive formal language which differs from FOL (one-sorted first-order logic) in the following respects: (1) alphabet, (2) standard and non-standard semantics and (3) overwhelming expressive power with standard semantics. See the entry on second-order and higher-order logic as well as the entry on Church’s type theory.
 
-The alphabet of second-order logic is obtained by including the first-order one-sorted variables and adding relation variables that can be quantified. As a result, in addition to the formula $\forall x\varphi$ saying *“for all individuals $\varphi$ holds”*, we have formulas $\forall X\varphi$, $\forall X^{2}\varphi$, etc. saying *“for all properties, $\varphi$ holds”*, *“for all binary relations, $\varphi$ holds”*, etc.
+The alphabet of second-order logic is obtained by including the first-order one-sorted variables and adding relation variables that can be quantified. As a result, in addition to the formula $\forall x\varphi$ saying *“for all individuals *φ* holds”*, we have formulas $\forall X\varphi$, $\forall X^{2}\varphi$, etc. saying *“for all properties, *φ* holds”*, *“for all binary relations, *φ* holds”*, etc.
 
 From the semantic point of view, to give meaning to the new variables we need new universes whose elements are sets and relations over the universe of individuals, say $\mathbf{A}.$ In the so-called *standard semantics*, a set variable ranges over the power set of the individual’s universe, $\wp (\mathbf{A})$, and a *n*-ary relation variable ranges over the power set of the *n*-ary Cartesian product of the individual’s universe, $\wp (\mathbf{A}^{n})$. To put an example of the overwhelming expressive power of second order logic with standard semantics, *Arithmetical induction* can be expressed
 
@@ -543,7 +543,7 @@ $$\epsilon _{n}^{\mathcal{A}^{\ast}}=\{\langle \mathbf{x}_{1}\mathbf{,\ldots ,x}
 
 It is easy to prove the following result.
 
-**Proposition:** For every sentence $\varphi$ of SOL:
+**Proposition:** For every sentence *φ* of SOL:
 
 $$\models _{\mathcal{G}.\mathcal{S}}\varphi \text{ in }\SOL\text{ if and only if }\models _{\mathfrak{S}^{\ast}}\Trans^{\SOL}(\varphi )\text{ in }\MSL^{\SOL}$$
 
@@ -568,7 +568,7 @@ With all these definitions at hand, we now prove:
 
 **Proposition:** for every many-sorted structure $\mathcal{C}\in \Mod(\Delta )$ there is a SOL-structure $\Conv_{2}(\mathcal{C})\in \Str(\SOL)$ such that
 
-$\Conv_{2}(\mathcal{C})$ is a model of $\varphi$ if and only if $\mathcal{C}$ is a model of $\Trans^{\SOL}(\varphi)$
+$\Conv_{2}(\mathcal{C})$ is a model of *φ* if and only if $\mathcal{C}$ is a model of $\Trans^{\SOL}(\varphi)$
 
 for all sentences of SOL.
 
@@ -576,7 +576,7 @@ for all sentences of SOL.
 
 By applying the previous results, it is easy to prove the following semantic theorems:
 
-**Representation theorem:** For every sentence $\varphi$ of SOL: $\models _{\mathfrak{G.S}}\varphi$ in SOL iff
+**Representation theorem:** For every sentence *φ* of SOL: $\models _{\mathfrak{G.S}}\varphi$ in SOL iff
 
 $$\Delta \models_{\MSL} \Trans^{\SOL}(\varphi )$$
 
@@ -636,9 +636,9 @@ we say that $\mathcal{AG}$ is a general structure built on $\mathcal{A}$ if and 
 
 $$\mathcal{AG}=\langle \mathbf{W},\mathbf{W}^{\prime },\mathbf{R},\epsilon _{1}^{\mathcal{A}},\langle P^{\mathcal{A}}\rangle _{P\in \Atom}\rangle$$
 
-where $\Def \subseteq \mathbf{W}^{\prime }\subseteq \wp (\mathbf{W})$. The sets $\Def$ and $\mathbf{W}^{\prime }$ contain all the members in the family $\langle P^{\mathcal{A}}\rangle _{P\in \Atom}$ and are closed under several operations.[^note-22] It can be proved that the set of worlds where a modal formula $\varphi$ is true in a modal structure $\mathcal{A}$ is the same set its translation defines in the general structure $\mathcal{AG}$ built on $\mathcal{A}$.
+where $\Def \subseteq \mathbf{W}^{\prime }\subseteq \wp (\mathbf{W})$. The sets $\Def$ and $\mathbf{W}^{\prime }$ contain all the members in the family $\langle P^{\mathcal{A}}\rangle _{P\in \Atom}$ and are closed under several operations.[^note-22] It can be proved that the set of worlds where a modal formula *φ* is true in a modal structure $\mathcal{A}$ is the same set its translation defines in the general structure $\mathcal{AG}$ built on $\mathcal{A}$.
 
-Let us use $\mathfrak{G}$ to refer to the class of all general structures built on modal structures defined as above, our converted structures. It is not difficult to prove that validity of $\varphi$ in PML is equivalent to validity of the universal closure of the translation of the formula in the class $\mathfrak{G}$.
+Let us use $\mathfrak{G}$ to refer to the class of all general structures built on modal structures defined as above, our converted structures. It is not difficult to prove that validity of *φ* in PML is equivalent to validity of the universal closure of the translation of the formula in the class $\mathfrak{G}$.
 
 #### Level one for Modal Logic *K*
 
@@ -646,7 +646,7 @@ To finish the level one of the translation method, we need to axiomatize $\mathf
 
 $$\forall \exists X\,\forall u(\varepsilon _{1}uX\leftrightarrow \varphi )\text{ }$$
 
-working mainly on many-sorted formulas $\varphi$ obtained by translations of modal formulas. As we wanted a second-order appearance, *Extensionality Axiom* is added to $\Delta _{K}$. As a result, we obtain a *Representation Theorem* for the *minimal modal logic*, *K*:
+working mainly on many-sorted formulas *φ* obtained by translations of modal formulas. As we wanted a second-order appearance, *Extensionality Axiom* is added to $\Delta _{K}$. As a result, we obtain a *Representation Theorem* for the *minimal modal logic*, *K*:
 
 $$\models \varphi \text{ in } \PML \Longleftrightarrow \Delta _{K}\models \forall u\Trans(\varphi )[u]\text{ in }\MSL$$
 
@@ -674,7 +674,7 @@ In case we wanted to prove that modal calculi for *K* and *S*4 (see the entry on
 
 $$\begin{align} \Pi \vdash _{K}\varphi & \Rightarrow \Trans(\Pi )\cup \Delta _{K}\vdash \Trans(\varphi ) \\ \Pi \vdash _{S4}\varphi & \Rightarrow \Trans(\Pi )\cup \Delta _{S4}\vdash \Trans(\varphi ) \end{align} $$
 
-as translations of modal axioms of system *K* are theorems of the MSL logic, while translations of $T$ and 4 are theorems of $\Delta _{S4}$. To prove the reverse deductive correspondence between MSL and PML the canonical model[^note-25] $\mathcal{B}_{K}$ (or $\mathcal{B}_{S4}$) could be used to build the general structure $\mathcal{B}_{K}\mathfrak{G}$ (or $\mathcal{B}_{S4}\mathfrak{G}$). The final step is reached by using the general structure built onto the canonical model. It is easy to prove that the translation of a modal formula $\varphi$ is true at a world of this structure if and only if formula $\varphi$ belongs to this world.
+as translations of modal axioms of system *K* are theorems of the MSL logic, while translations of $T$ and 4 are theorems of $\Delta _{S4}$. To prove the reverse deductive correspondence between MSL and PML the canonical model[^note-25] $\mathcal{B}_{K}$ (or $\mathcal{B}_{S4}$) could be used to build the general structure $\mathcal{B}_{K}\mathfrak{G}$ (or $\mathcal{B}_{S4}\mathfrak{G}$). The final step is reached by using the general structure built onto the canonical model. It is easy to prove that the translation of a modal formula *φ* is true at a world of this structure if and only if formula *φ* belongs to this world.
 
 Therefore,
 
@@ -710,7 +710,7 @@ Weak completeness follows directly.[^note-27]
 
 It is commonplace (Wang 1952, Feferman 1968, and Enderton 1972)[^enderton-1972][^feferman-1968][^wang-1952] to present many-sorted logic as easily convertible to one-sorted first-order logic. In Hao Wang (1952)[^wang-1952], the equivalence is built on provability while in Enderton’s book it has a semantical character.
 
-Here we point out that many-sorted reduces to classical first-order logic (one-sorted) in the following sense: given a many-sorted structure $\mathcal{A}$, every many-sorted sentence true at $\mathcal{A}$ has a translation into one-sorted first order logic that is true at $\mathcal{A}^{\ast}$, where $\mathcal{A}^{\ast}$ is the result of unifying all the sorts in $\mathcal{A}$. From this result we obtain the equivalence between consequences in both logics, modulo a theory $\Pi$ easily defined.
+Here we point out that many-sorted reduces to classical first-order logic (one-sorted) in the following sense: given a many-sorted structure $\mathcal{A}$, every many-sorted sentence true at $\mathcal{A}$ has a translation into one-sorted first order logic that is true at $\mathcal{A}^{\ast}$, where $\mathcal{A}^{\ast}$ is the result of unifying all the sorts in $\mathcal{A}$. From this result we obtain the equivalence between consequences in both logics, modulo a theory *Π* easily defined.
 
 #### Syntactic translation
 
@@ -744,7 +744,7 @@ The domain of $\mathcal{A}^{\ast}$ is the union of the individuals domains of $\
 
 The following theorem holds for any of these extended structures.
 
-**Theorem:** Let $\mathcal{A}$ be a many-sorted structure, $\mathcal{A}^{\ast}$ one of its one-sorted counterparts, $L$ a language for $\mathcal{A}$, and $\varphi$ some sentence in $L$. Then
+**Theorem:** Let $\mathcal{A}$ be a many-sorted structure, $\mathcal{A}^{\ast}$ one of its one-sorted counterparts, $L$ a language for $\mathcal{A}$, and *φ* some sentence in $L$. Then
 
 $$\mathcal{A}\models \varphi \ \Longleftrightarrow \ \mathcal{A}^{\ast}\models \Trans(\varphi ).$$
 
@@ -754,13 +754,13 @@ We have seen that many-sorted structures are always convertible into one-sorted 
 
 *Is any one-sorted structure $\mathcal{E}$ of signature $\Sigma ^{\ast}$ convertible into a many-sorted one of signature $\Sigma$?* The answer is negative, as there are two problems that could stop the conversion: the first one is that in a many-sorted structure all the universes should be nonempty and our idea is to take for each sort $i$ the unary relation $Q_{i}^{\mathcal{E}}$ as universe of sort $i$ and so we need it to be nonempty; the second difficulty concerns operation symbols with $\Rank(f)=\langle i_{1},\ldots i_{n},i_{0}\rangle$ whose interpretation in structure $\mathcal{E}$ is just an *n*-ary function, but we need the values of $f^{\mathcal{E}}\upharpoonright (Q_{i_{1}}^{\mathcal{E}}\times \ldots \times Q_{i_{n}}^{\mathcal{E}})$ to be in $Q_{i_{0}}^{\mathcal{E}}$.
 
-What we do is to formulate in the one-sorted language three conditions whose validity in a model makes it easily convertible into a many-sorted one. Let $\Pi$ be the set of all sentences of the following forms:
+What we do is to formulate in the one-sorted language three conditions whose validity in a model makes it easily convertible into a many-sorted one. Let *Π* be the set of all sentences of the following forms:
 
 - $\exists x\ Q_{i}x$, for each $i\in \Sort$
 - $\forall x_{1}\ldots x_{n}(Q_{i_{1}}x_{1}\land \ldots \land Q_{i_{n}}x_{n}\rightarrow Q_{i_{0}}(f\ x_{1}\ldots x_{n}))$, where $\Rank(f)=\langle i_{1},\ldots ,i_{n},i_{0}\rangle$, $f\in \OperSym$
 - $Q_{i}c$, for each $c\in \OperSym$ with $\Rank(c)=i$.
 
-Notice that the structure $\mathcal{A}^{\ast}$ of the previous theorem is a model of $\Pi$. Moreover, a one-sorted model of $\Pi$, $\mathcal{E}$, is easily convertible into a many-sorted one, $\mathcal{E}^{\ddag }$. We take $Q_{i}^{\mathcal{E}}$ as the universe of sort $i$, strict relations and functions are obtained as restrictions to the corresponding domains to obtain relations and functions with the desired sorts.[^note-29] Due to the axioms in $\Pi$, construction of $\mathcal{E}^{\ddag }$ can be carried out. It is now easy to obtain the following result.
+Notice that the structure $\mathcal{A}^{\ast}$ of the previous theorem is a model of *Π*. Moreover, a one-sorted model of *Π*, $\mathcal{E}$, is easily convertible into a many-sorted one, $\mathcal{E}^{\ddag }$. We take $Q_{i}^{\mathcal{E}}$ as the universe of sort $i$, strict relations and functions are obtained as restrictions to the corresponding domains to obtain relations and functions with the desired sorts.[^note-29] Due to the axioms in *Π*, construction of $\mathcal{E}^{\ddag }$ can be carried out. It is now easy to obtain the following result.
 
 **Main Theorem:** Let $\Gamma \cup \{\varphi \}\subseteq \Sent(L)$.
 
@@ -780,14 +780,14 @@ The one-sorted version of interpolation was proved by William Craig in 1957a. Ro
 
 The idea for Craig’s 1957 proof of the Interpolation Theorem rests on the completeness theorem for one-sorted first-order logic. The reason is that interpolation “lies” somehow in the intersection of proof theory (as it follows from some metatheorems about the calculus) and model theory (because of its applications). Henkin showed that the other way round also holds: completeness can be immediately obtained from a extended version[^note-31] of Craig-Lyndon’s theorem.
 
-The syntactical formulation of Craig’s interpolation theorem reads as follows: If $\varphi$ and $\psi$ are sentences and $\vdash \varphi \rightarrow \psi$, then:
+The syntactical formulation of Craig’s interpolation theorem reads as follows: If *φ* and *ψ* are sentences and $\vdash \varphi \rightarrow \psi$, then:
 
-1. $\Rel(\varphi )\cap \Rel(\psi )\not=\varnothing$ implies that there is an “intermediate” formula $\theta$ such that $\vdash \varphi \rightarrow \theta$ and $\vdash \theta \rightarrow \psi$ ($\theta$ is a sentence such that $\Rel(\theta )\subseteq \Rel(\varphi )\cap \Rel(\psi )$) and
+1. $\Rel(\varphi )\cap \Rel(\psi )\not=\varnothing$ implies that there is an “intermediate” formula *θ* such that $\vdash \varphi \rightarrow \theta$ and $\vdash \theta \rightarrow \psi$ (*θ* is a sentence such that $\Rel(\theta )\subseteq \Rel(\varphi )\cap \Rel(\psi )$) and
 2. $\Rel(\varphi )\cap \Rel(\psi )=\varnothing$ implies $\vdash \lnot \varphi$ or $\vdash \psi$,
 
-where $\Rel(\alpha)$ is the set of relational symbols in $\alpha$. The intuition behind is as follows: during the process of proving the conditional formula $\varphi \rightarrow \psi$, we make use of what is today known as an “interpolant”, $\theta$, a kind of *syllogism middle term* that finally disappears.
+where $\Rel(\alpha)$ is the set of relational symbols in *α*. The intuition behind is as follows: during the process of proving the conditional formula $\varphi \rightarrow \psi$, we make use of what is today known as an “interpolant”, *θ*, a kind of *syllogism middle term* that finally disappears.
 
-The theorem cannot be established for many-sorted logic by simply translating $\varphi$ and $\psi$ to the corresponding formulas of a one-sorted language. It is easy to see that the logical form of a constructed interpolant for $\vdash \Trans(\varphi )\rightarrow \Trans(\psi )$ is not necessarily equivalent to a translation of a many-sorted formula. This is why we said that this result could not be straightforwardly transferred from the one-sorted case (see Otto 2000 for more details)[^otto-2000].
+The theorem cannot be established for many-sorted logic by simply translating *φ* and *ψ* to the corresponding formulas of a one-sorted language. It is easy to see that the logical form of a constructed interpolant for $\vdash \Trans(\varphi )\rightarrow \Trans(\psi )$ is not necessarily equivalent to a translation of a many-sorted formula. This is why we said that this result could not be straightforwardly transferred from the one-sorted case (see Otto 2000 for more details)[^otto-2000].
 
 As in one-sorted logic, the interpolation lemma for a many-sorted logic can be proven in model-theoretic style (as in Kreisel & Krivine 1967)[^kreisel-1967] or in proof-theoretical style, as in Feferman.[^note-32]
 
@@ -799,7 +799,7 @@ Another notion not immediately transferable from FOL to MSL is that of *interpre
 
 Mceldowney (2020)[^mceldowney-2020] argues that the concept of bi-interpretability is the best measure of theoretical equivalence in MSL. The oldest criterion for theoretical equivalence between first-order theories with the same signature is the notion of *definitional equivalence* (see Eilenberg & Mac Lane 1942, 1945 and Glymour 1971)[^eilenberg-1942][^eilenberg-1945][^glymour-1971]. Therefore, the necessity of a many-sorted counterpart was apparent. As a result, a debate on the nature of equivalence in MSL has taken place since 2016. Barrett and Halvorson (2016) generalizes the idea of definitional extension to the concept of *Morita extension*: intuitively, $T^+$ is a Morita extension of $T$ iff both $T$ and $T^+$ are MSL theories and $T^+$ “says no more” than the original theory (see 2016: 565 for formal details).
 
-Thus, they claim that theoretical equivalence in MSL is to have a common Morita extension (this is called “Morita equivalence”). It is worth recalling at this point that the Morita extension $T^{+}$ of $T$ might be constructed by adding new sort symbols to the signature of $T$ together with the corresponding explicit definitions[^note-33] to the axioms. There are several ways to carry out this extension: the new sort $\tau$ can be introduced as a *subsort*, *product*, *coproduct* and *quotient sort* (see Barrett & Halvorson 2016: 563–64)[^barrett-2016]. Morita equivalence has also been used to try to clarify what is known in the literature as Quine’s conjecture on many-sorted logic (see Barrett & Halvorson 2017)[^barrett-2017].
+Thus, they claim that theoretical equivalence in MSL is to have a common Morita extension (this is called “Morita equivalence”). It is worth recalling at this point that the Morita extension $T^{+}$ of $T$ might be constructed by adding new sort symbols to the signature of $T$ together with the corresponding explicit definitions[^note-33] to the axioms. There are several ways to carry out this extension: the new sort *τ* can be introduced as a *subsort*, *product*, *coproduct* and *quotient sort* (see Barrett & Halvorson 2016: 563–64)[^barrett-2016]. Morita equivalence has also been used to try to clarify what is known in the literature as Quine’s conjecture on many-sorted logic (see Barrett & Halvorson 2017)[^barrett-2017].
 
 Nevertheless, according to Mceldowney (2020)[^mceldowney-2020], a nuanced concept of Morita equivalence is just a special case of bi-interpretability. For this reason, he opted for a notion of equivalence in MSL based on interpretability rather than Morita extensions (see pp. 404-407 in Mceldowney 2020)[^mceldowney-2020]. In fact, as pointed out in Friedman and Visser (2014), bi-interpretability preserves finite axiomatizability, decidability, and κ-categoricity.
 
@@ -807,7 +807,7 @@ Nevertheless, according to Mceldowney (2020)[^mceldowney-2020], a nuanced concep
 
 Apart from its reduction to one-sorted logic, many-sorted first-order logic can be extended. *Sort logic* is a many-sorted second-order logic in which it is allowed to quantify over new sorts, “looking outside” the structure where the formula is being interpreted. Then, besides adding sorts to a second-order logic, we may include a new logical symbol $\widetilde{\exists }$ to quantify over new sorts.
 
-In *Sort logic*, well-formed formulas involving $\widetilde{\exists }$ must respect a *New Sort Condition* (Väänänen 2014: 175)[^väänänen-2014] to guarantee that the domains where free variables in $\varphi$ are interpreted do not interfere with the scope of the quantifier $\widetilde{\exists}$. The only novelty concerns interpretation of formulas with the new quantifier,
+In *Sort logic*, well-formed formulas involving $\widetilde{\exists }$ must respect a *New Sort Condition* (Väänänen 2014: 175)[^väänänen-2014] to guarantee that the domains where free variables in *φ* are interpreted do not interfere with the scope of the quantifier $\widetilde{\exists}$. The only novelty concerns interpretation of formulas with the new quantifier,
 
 $\mathcal{M},s\models \widetilde{\exists }X\varphi$ if and only if $\mathcal{M}^{\prime },s(\mathbf{X}/X)\models \varphi$ for some *X*-expansion $\mathcal{M}^{\prime }$ of $\mathcal{M}$ and some $\mathbf{X}\in \wp (\mathbf{M}_{i_{1}}^{\prime }\times \ldots \times \mathbf{M}_{i_{r}}^{\prime })$ (where variable $X$ is of sort $\langle i_{1},\ldots ,i_{r},0\rangle)$
 
@@ -910,7 +910,7 @@ $$\Val_{\mathfrak{F}}\subset \Val_{\mathfrak{GS}}\subset \Val_{\mathfrak{SS}}$$
 as the following examples show:
 
 1. The comprehension axiom belongs to $\Val_{\mathfrak{GS}}$ but it is not a valid formula with the semantics of frames.
-2. To put an example of a valid sentence in standard structures that fails in some general structures let us take the sentence $$\pi _{1}\land \pi _{2}\land \pi _{3}\rightarrow \gamma$$ where $\pi _{1}$, $\pi _{2}$ and $\pi _{3}$ are the second-order categorical Peano axioms for arithmetic, and $\gamma$ is the well-known Gödel formula asserting of itself that it is not a theorem of Peano arithmetic.
+2. To put an example of a valid sentence in standard structures that fails in some general structures let us take the sentence $$\pi _{1}\land \pi _{2}\land \pi _{3}\rightarrow \gamma$$ where $\pi _{1}$, $\pi _{2}$ and $\pi _{3}$ are the second-order categorical Peano axioms for arithmetic, and *γ* is the well-known Gödel formula asserting of itself that it is not a theorem of Peano arithmetic.
 
 [^note-17]: For simplicity we keep the notation $\langle\underbrace{ 1,\ldots ,1}_n ,0\rangle$ for sorts in $\MSL^{\SOL}$, but now we do not require the domain of this sort to be of *n*-ary relations of elements of sort 1.
 
@@ -992,9 +992,9 @@ that is a function of the desired sort.
 
 [^note-32]: Feferman’s version of the theorem for MSL includes not only $\Rel^{+}$ and $\Rel^{-}$ (which have to be used for Lyndon’s generalized theorem), but also four new sets, $\Sort$, $\Free$, $\Un$ and $\Ex$:
 
-$$\begin{align} \Sort(\varphi )&=\{ j\in J:\text{a variable of sort }j\text{ occurs in }\varphi \} \\ \Free(\varphi )&= \text{the set of free variables of }\varphi \\ \Un(\varphi )&=\{ j\in J:\text{a }\forall x_{j}\text{ occurs in }\nnf(\varphi )\} \\ \Ex(\varphi )&=\{ j\in J:\text{a }\exists x_{j}\text{ occurs in }\nnf(\varphi )\} \\ \end{align}$$ (where $\nnf(\varphi )$ is the negation normal form of $\varphi$)
+$$\begin{align} \Sort(\varphi )&=\{ j\in J:\text{a variable of sort }j\text{ occurs in }\varphi \} \\ \Free(\varphi )&= \text{the set of free variables of }\varphi \\ \Un(\varphi )&=\{ j\in J:\text{a }\forall x_{j}\text{ occurs in }\nnf(\varphi )\} \\ \Ex(\varphi )&=\{ j\in J:\text{a }\exists x_{j}\text{ occurs in }\nnf(\varphi )\} \\ \end{align}$$ (where $\nnf(\varphi )$ is the negation normal form of *φ*)
 
-In consequence, the Interpolation Theorem for MSL states that: If $\vdash \varphi \rightarrow \psi$, then it has an interpolant $\theta$ with respect to $\Rel^{+}$, $\Rel^{-}$, $\Sort$ and $\Free$ for which
+In consequence, the Interpolation Theorem for MSL states that: If $\vdash \varphi \rightarrow \psi$, then it has an interpolant *θ* with respect to $\Rel^{+}$, $\Rel^{-}$, $\Sort$ and $\Free$ for which
 
 $$\Un(\theta )\subseteq \Un(\varphi )\text{ and }\Ex(\theta )\subseteq \Ex(\psi ).$$
 
@@ -1006,7 +1006,7 @@ $$\Un(\theta )\subseteq \Un(\varphi )\text{ and }\Ex(\theta )\subseteq \Ex(\psi 
 
 [^note-36]: 36. In section 22, Quine says:
 
-> We now turn to a connective “$\epsilon$” which embodies the principal meaning of the ambiguous word “is”. Sometimes “is” has the sense of “$=$” or “is the same as”; such is its sense in *“Paris is the capital of France”*…. But in *“Paris is a city”* the word cannot be so construed. In such contexts “is” expresses rather possession of a property, or membership in a class: Paris belongs to the class of cities. (Quine 1940: 119)[^quine-1940]
+> We now turn to a connective “*ε*” which embodies the principal meaning of the ambiguous word “is”. Sometimes “is” has the sense of “$=$” or “is the same as”; such is its sense in *“Paris is the capital of France”*…. But in *“Paris is a city”* the word cannot be so construed. In such contexts “is” expresses rather possession of a property, or membership in a class: Paris belongs to the class of cities. (Quine 1940: 119)[^quine-1940]
 
 Quine also admits:
 

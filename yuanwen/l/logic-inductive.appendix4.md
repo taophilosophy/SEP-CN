@@ -14,7 +14,7 @@ Perhaps not at all. For, when we test $(h_i \cdot a_r)$ against $(h_j \cdot a)$,
 
 $$ \epsilon = \frac{P[a_r \mid c^* \cdot e^* \cdot d]}{P[a \mid c^* \cdot e^* \cdot d]} = \frac{P[e^* \mid a_r \cdot c^* \cdot d]}{P[e^* \mid a \cdot c^* \cdot d]} \times \frac{P[a_r \mid c^* \cdot d]}{P[a \mid c^* \cdot d]}$$
 
-for some very small value of $\epsilon$.
+for some very small value of *ε*.
 
 **Alternative Auxiliary Formula 1**
 
@@ -48,7 +48,7 @@ Then, according to the **AAF1** we must have,
 
 $$ \frac{P[(h_i \cdot a_r) \mid (c \cdot e) \cdot (c^* \cdot e^*) \cdot d]}{P[(h_j \cdot a) \mid (c \cdot e) \cdot (c^* \cdot e^*) \cdot d]} \; \; \ll \; \; \frac{P[h_i \mid c \cdot (a_r \cdot d)]}{P[h_j \mid c \cdot (a \cdot d)]}. $$
 
-Furthermore, if $\epsilon$ is small enough that
+Furthermore, if *ε* is small enough that
 
 $$\frac{P[a_r \mid (c^* \cdot e^*) \cdot d]}{P[a \mid (c^* \cdot e^*) \cdot d]} = \; \epsilon \; \; \ll \; \; \frac{P[e \mid (h_j \cdot a) \cdot c \cdot d]}{P[e \mid (h_i \cdot a_r) \cdot c \cdot d]} \times \frac{P[h_j \mid c \cdot (a \cdot d)]}{P[h_i \mid c \cdot (a_r \cdot d)]}. $$
 

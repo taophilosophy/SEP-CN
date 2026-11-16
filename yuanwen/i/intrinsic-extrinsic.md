@@ -141,13 +141,13 @@ Call the properties that are classified as intrinsic by (4) *interior* propertie
 
 **(5)**
 
-‘$\varphi$ in virtue of it being the case that $\phi$’ is true iff the state of affairs expressed by $\phi$ metaphysically grounds the state of affairs expressed by $\varphi$.
+‘*φ* in virtue of it being the case that *φ*’ is true iff the state of affairs expressed by *φ* metaphysically grounds the state of affairs expressed by *φ*.
 
 While it might be initially appealing to think that ‘in virtue’ in (4) expresses metaphysical grounding, Marshall 2015 has given an argument that (4) fails to characterise a notion of intrinsicality when ‘in virtue’ has this reading. The argument relies on (6) being necessarily true and (7) being true on any notion of intrinsicality.
 
 **(6)**
 
-‘$\varphi$ in virtue of how $x$ is intrinsically’ is true iff there is a sentence $\phi$ that expresses an obtaining state of affairs that is intrinsically about $x$ such that ‘$\varphi$ in virtue of it being the case that $\phi$’ is true.
+‘*φ* in virtue of how $x$ is intrinsically’ is true iff there is a sentence *φ* that expresses an obtaining state of affairs that is intrinsically about $x$ such that ‘*φ* in virtue of it being the case that *φ*’ is true.
 
 **(7)**
 
@@ -167,7 +167,7 @@ $a$ being $F$ is a foundational fact and there is an obtaining state of affairs 
 
 However, (9) is necessarily false, since foundational facts cannot be metaphysically grounded by any facts. Hence, the assumption that (4) characterises a notion of intrinsicality when ‘in virtue’ expresses metaphysical grounding is false.
 
-Given ‘in virtue’ doesn’t express metaphysical grounding in (4) on its intended use, what does it express? One attractive option is to think that ‘in virtue’ in (4) is meant to be understood as having the same effect as ‘is a matter of’ and that, on this reading, it expresses the identity relation. On this reading, ‘$\varphi$ in virtue of it being the case that $\psi$’ is true iff the state of affairs expressed by $\phi$ is identical to the state of affairs expressed by $\varphi$. Since it follows from (6) that, on this reading ‘$\varphi$ in virtue of how $x$ is intrinsically’ is true iff there is a sentence $\phi$ that expresses an obtaining state of affairs that is intrinsically about $x$, (10) follows from (4) on this reading of ‘in virtue’.
+Given ‘in virtue’ doesn’t express metaphysical grounding in (4) on its intended use, what does it express? One attractive option is to think that ‘in virtue’ in (4) is meant to be understood as having the same effect as ‘is a matter of’ and that, on this reading, it expresses the identity relation. On this reading, ‘*φ* in virtue of it being the case that *ψ*’ is true iff the state of affairs expressed by *φ* is identical to the state of affairs expressed by *φ*. Since it follows from (6) that, on this reading ‘*φ* in virtue of how $x$ is intrinsically’ is true iff there is a sentence *φ* that expresses an obtaining state of affairs that is intrinsically about $x$, (10) follows from (4) on this reading of ‘in virtue’.
 
 **(10)**
 
@@ -175,7 +175,7 @@ Being $F$ is intrinsic iff, necessarily, for any $x$, if $x$ is $F$ then the sta
 
 An alternative option, which is investigated in Marshall 2016a, is to hold that ‘in virtue’ may express a number of different reflexive determination, or entailment, relations in (4), and that each of these relations determines a different notion of intrinsicality. In addition to identity, such entailment relations might include metaphysical necessitation, nomic necessitation, and weak metaphysical grounding, where $p$ weakly metaphysically grounds $q$ iff either $p=q$ or $p$ metaphysically grounds $q$. Given these relations determine different notions of intrinsicality for each relation $R$, we may call the notion of interiority corresponding to $R$ ‘$R$ interiority’. So, for example, the notion of intrinsicality obtained from (4) by interpreting ‘in virtue’ as expressing the identity relation might be called identity interiority, while the notion of interiority obtained from metaphysical necessitation might be called metaphysical necessitation interiority, and the notion of interiority obtained from nomic necessitation might be called nomic necessitation interiority.
 
-If ‘in virtue’ expresses the relation $R$, then ‘$\varphi$ in virtue of it being the case that $\phi$’ is true iff the state of affairs of it being the case that $\phi$ stands in $R$ to the state of affairs of it being the case the $\varphi$. It follows from this, (4) and (6) that the $R$ interior properties satisfy (11).
+If ‘in virtue’ expresses the relation $R$, then ‘*φ* in virtue of it being the case that *φ*’ is true iff the state of affairs of it being the case that *φ* stands in $R$ to the state of affairs of it being the case the *φ*. It follows from this, (4) and (6) that the $R$ interior properties satisfy (11).
 
 **(11)**
 
@@ -272,13 +272,13 @@ $q_1$ = Being an electron = $\{\langle x_1, w_1 \rangle, \langle x_3, w_2\rangle
 
 $q_2$ = Being either an accompanied electron or a lonely positron = $\{\langle x_1, w_1\rangle, \langle x_4, w_3\rangle\}.$
 
-Suppose, for reductio, that the notion of an intrinsic property can be analysed in terms of broadly logical notions. Then, since analyses must be necessary, there is a formula $\varphi(p)$ such that (A) is necessarily true, where $\varphi$ contains only broadly logical vocabulary, such as variables, brackets, ‘&’, ‘$\vee$’, ‘$\exists$’, ‘is a possible world’, ‘at’ and ‘$\in$’.
+Suppose, for reductio, that the notion of an intrinsic property can be analysed in terms of broadly logical notions. Then, since analyses must be necessary, there is a formula $\varphi(p)$ such that (A) is necessarily true, where *φ* contains only broadly logical vocabulary, such as variables, brackets, ‘&’, ‘$\vee$’, ‘$\exists$’, ‘is a possible world’, ‘at’ and ‘$\in$’.
 
 **(A)**
 
 $p$ is intrinsic iff $\varphi(p)$.
 
-Since $q_1$ is necessarily intrinsic, while $q_2$ is necessarily not intrinsic, it follows from the necessity of (A) that $\varphi(q_1)$ is necessarily true, while $\varphi(q_2)$ is necessarily false. In other words, if there is a broadly logical analysis of intrinsicality, then there is a formula $\varphi$ containing only broadly logical vocabulary that necessarily applies to $q_1$, and necessarily does not apply to $q_2$. However, it can be proved that there is no such formula. For example, while
+Since $q_1$ is necessarily intrinsic, while $q_2$ is necessarily not intrinsic, it follows from the necessity of (A) that $\varphi(q_1)$ is necessarily true, while $\varphi(q_2)$ is necessarily false. In other words, if there is a broadly logical analysis of intrinsicality, then there is a formula *φ* containing only broadly logical vocabulary that necessarily applies to $q_1$, and necessarily does not apply to $q_2$. However, it can be proved that there is no such formula. For example, while
 
 $$\text{‘}\exists w_1 \exists w_2 \exists x_1 \exists x_2 \exists x_3(p = \{\langle w_1, x_1\rangle , \langle w_2, x_3\rangle \})\text{’}$$
 
@@ -338,7 +338,7 @@ It then provides an account of intrinsic aboutness in terms of perfect naturalne
 
 **(17)**
 
-$s$ is intrinsically about $x$ iff $s$ is a non-qualitative state of affairs that can be expressed by a sentence $\phi$ containing at most brackets, commas, lambda abstractors, names referring to parts of $x$, predicates expressing perfectly natural properties and relations, operator expressions expressing perfectly natural operators, and quantifier expressions that express perfectly natural quantifiers and whose occurrences in $\phi$ quantify only over parts of $x$.
+$s$ is intrinsically about $x$ iff $s$ is a non-qualitative state of affairs that can be expressed by a sentence *φ* containing at most brackets, commas, lambda abstractors, names referring to parts of $x$, predicates expressing perfectly natural properties and relations, operator expressions expressing perfectly natural operators, and quantifier expressions that express perfectly natural quantifiers and whose occurrences in *φ* quantify only over parts of $x$.
 
 **(Q)**
 
@@ -346,7 +346,7 @@ $p$ is a qualitative property iff $p$ is a property, and $p$ can be expressed by
 
 (17) entails that any state of affairs that is intrinsically about something is non-qualitative. This consequence of (17) can be justified by noting that, if $s$ is intrinsically about $x$, then there must be at least one particular thing that it is about, and hence it cannot be a qualitative state of affairs.
 
-(17), as it stands, fails to provide a completely specified account of intrinsic aboutness, since it contains the locution ‘quantifies only over parts of $x$’ which needs to be defined, and giving the needed definition is not straightforward. The account of ‘quantifying over parts of $x$’ given by perfect naturalness account 2 can be simplified if we assume that ‘some’ expresses the only perfectly natural quantifier. Say that a property $p$ necessitates a property $q$ iff, necessarily, for any $x$, if $x$ has $p$ then $x$ has $q$. If $\Phi$ is a set of formulas, let $\bigvee\Phi$ be the disjunction of the formulas in $\Phi$. (So $\bigvee\{\phi_1 , \phi_2,\ldots\}$ = $\ulcorner\phi_1 \vee \phi_2 \vee\ldots\urcorner$.) Given these definitions and the above simplifying assumption, perfect naturalness account 2 endorses (18), where $F$ and $G$ are predicates expressing properties and ‘$\leq$’ symbolises ‘is part of’.
+(17), as it stands, fails to provide a completely specified account of intrinsic aboutness, since it contains the locution ‘quantifies only over parts of $x$’ which needs to be defined, and giving the needed definition is not straightforward. The account of ‘quantifying over parts of $x$’ given by perfect naturalness account 2 can be simplified if we assume that ‘some’ expresses the only perfectly natural quantifier. Say that a property $p$ necessitates a property $q$ iff, necessarily, for any $x$, if $x$ has $p$ then $x$ has $q$. If *Φ* is a set of formulas, let $\bigvee\Phi$ be the disjunction of the formulas in *Φ*. (So $\bigvee\{\phi_1 , \phi_2,\ldots\}$ = $\ulcorner\phi_1 \vee \phi_2 \vee\ldots\urcorner$.) Given these definitions and the above simplifying assumption, perfect naturalness account 2 endorses (18), where $F$ and $G$ are predicates expressing properties and ‘$\leq$’ symbolises ‘is part of’.
 
 **(18)**
 
@@ -356,7 +356,7 @@ For example, according to this account, if $d$ has exactly three proper parts (w
 
 **(19)**
 
-For any formulas $\phi$ and $\psi$, the initial occurrence of ‘Some’ in $\ulcorner [\text{Some }v\mid \phi]\psi\urcorner$ quantifies only over parts of $x$ iff, for any set $\Pi$ of names of all the parts of $x$, under any assignment $g$ to the free variables in $\phi$ that are not $v$, the property expressed by $\ulcorner\lambda v\phi\urcorner$ necessitates the property expressed by $$\begin{align} \ulcorner\lambda v\big( \bigvee\{\ulcorner v\leq u \urcorner \mid u& \text{ is a free variable in } \phi \text{ that is not } v\} \\ &\vee \bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner. \end{align}$$
+For any formulas *φ* and *ψ*, the initial occurrence of ‘Some’ in $\ulcorner [\text{Some }v\mid \phi]\psi\urcorner$ quantifies only over parts of $x$ iff, for any set *Π* of names of all the parts of $x$, under any assignment $g$ to the free variables in *φ* that are not $v$, the property expressed by $\ulcorner\lambda v\phi\urcorner$ necessitates the property expressed by $$\begin{align} \ulcorner\lambda v\big( \bigvee\{\ulcorner v\leq u \urcorner \mid u& \text{ is a free variable in } \phi \text{ that is not } v\} \\ &\vee \bigvee\{\ulcorner v\leq a\urcorner \mid a\in\Pi\}\urcorner. \end{align}$$
 
 Given the simplifying assumption that ‘some’ is the only perfectly natural quantifier expression, (3), (17), (Q) and (19) provide the complete account of what it is for a property to be intrinsic according to perfect naturalness account 2.
 

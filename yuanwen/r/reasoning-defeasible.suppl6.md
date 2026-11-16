@@ -11,7 +11,7 @@ This is Donald Nute’s axiom system (Nute 1984, 396-399) for David K. Lewis’s
 Rules:
 
 1. Modus ponens.
-2. Deduction within the consequent of conditionals: if $\chi_1 \ldots \chi_n$ logically entails $\psi$, then the conditionals $(\phi \Rightarrow \chi_1)\ldots(\phi \Rightarrow \chi_n)$ logically entail $(\phi \Rightarrow \psi)$.
+2. Deduction within the consequent of conditionals: if $\chi_1 \ldots \chi_n$ logically entails *ψ*, then the conditionals $(\phi \Rightarrow \chi_1)\ldots(\phi \Rightarrow \chi_n)$ logically entail $(\phi \Rightarrow \psi)$.
 3. Interchange of logical equivalents.
 
 Axioms:

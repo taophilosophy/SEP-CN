@@ -63,7 +63,7 @@ Although the precise view, and the identity of those who hold the view, is dispu
 
 **(M0)**
 
-$\alpha$ can $\phi$ only when $\alpha$ is $\phi$-ing.
+*α* can *φ* only when *α* is *φ*-ing.
 
 For example, a builder can build only when in fact building. M0 resembles D for M0 looks like another way to reject MA3. According to MA3, it is possible that a builder builds, while in fact the builder is not building and never will. But according to M0, while the builder is not building, the builder cannot build. If what the builder cannot do is not possible for the builder, then it is not possible that the builder builds, while not, in fact, building. You might think that M0 and D are both motivated by a suspicion of mere possibilities, that is, possibilities that exist but remain unactualized.
 

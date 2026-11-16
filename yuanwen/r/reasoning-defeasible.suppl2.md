@@ -10,12 +10,12 @@ A path is a sequence of links in a graph $G$, with the final node of each link b
 
 Horty, Thomason, and Touretzky define the relation of *support* between graphs (cognitive states) and paths (assertions) by mathematical induction on the degree of the path. Direct links (paths of length one) are always supported by the graph.
 
-1. If $\sigma$ is a positive path, $x \rightarrow \sigma^1 \rightarrow u \rightarrow y$, then $G$ supports $\sigma$ iff:
+1. If *σ* is a positive path, $x \rightarrow \sigma^1 \rightarrow u \rightarrow y$, then $G$ supports *σ* iff:
 2. $G$ supports path $x \rightarrow \sigma^1 \rightarrow u$.
 3. $u \rightarrow y$ is a direct link in $G$.
 4. The negative link $x \notrightarrow y$ does not belong to $G$.
 5. for all $v, \tau$ such that $G$ supports $x \rightarrow \tau \rightarrow v$, with the negative link $v \notrightarrow y$ in $G$, there exist $z, \tau^1 , \tau^2$ such that $z \rightarrow y$ is in $G$, and either $z = x$, or $G$ supports the path $x \rightarrow \tau^1 \rightarrow z \rightarrow \tau^2 \rightarrow v$.
-6. If $\sigma$ is a negative path, $x \rightarrow \sigma^1 \rightarrow u \notrightarrow y$, then $G$ supports $\sigma$ iff:
+6. If *σ* is a negative path, $x \rightarrow \sigma^1 \rightarrow u \notrightarrow y$, then $G$ supports *σ* iff:
 7. $G$ supports path $x \rightarrow \sigma^1 \rightarrow u$.
 8. $u \notrightarrow y$ is a direct negative link in $G$.
 9. The positive link $x \rightarrow y$ does not belong to $G$.

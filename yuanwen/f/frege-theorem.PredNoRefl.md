@@ -18,7 +18,7 @@ So we know the following instance of Fact 7 is true, where $x = 0$, $y$ is $b$, 
 
 $$\begin{align*} &[\lambda z \, \neg\mathit{Precedes}^{*}(z,z)]0\amp \mathit{Precedes}^{+}(0,b)\ \amp \\ &\quad \mathit{Her}([\lambda z \, \neg\mathit{Precedes}^{*}(z,z)], \mathit{Precedes}))\rightarrow [\lambda z\, \neg\mathit{Precedes}^{*}(z,z)]b \end{align*}$$
 
-By $\lambda$-Conversion on various terms in the above, this reduces to:
+By *λ*-Conversion on various terms in the above, this reduces to:
 
 $$\begin{align*} &[\neg\mathit{Precedes}^{*}(0,0)\amp \mathit{Precedes}^{+}(0,b)\ \amp \\ &\quad \mathit{Her}([\lambda z\, \neg\mathit{Precedes}^{*}(z,z)], \mathit{Precedes})]\rightarrow \neg\mathit{Precedes}^{*}(b,b) \end{align*}$$
 
@@ -40,7 +40,7 @@ To establish (c), we have to show:
 
 $$\begin{align*} &\forall x,y(\mathit{Precedes}(x,y)\rightarrow \\ &\quad ([\lambda z\, \neg\mathit{Precedes}^{*}(z,z)]x\rightarrow [\lambda z\, \neg\mathit{Precedes}^{*}(z,z)]y)) \end{align*}$$
 
-That is, by $\lambda$-Conversion, we have to show:
+That is, by *λ*-Conversion, we have to show:
 
 $\forall x,y(\mathit{Precedes}(x,y)\rightarrow (\neg\mathit{Precedes}^{*}(x,x)\rightarrow \neg\mathit{Precedes}^{*}(y,y)))$
 

@@ -37,7 +37,7 @@ We give a concise overview of some relevant definitions:
 
 - **Quantitative Theories of Information**
 - **Nyquist’s function:** Nyquist (1924)[^nyquist-1924] was probably the first to express the amount of “intelligence” that could be transmitted given a certain line speed of a telegraph systems in terms of a log function: $W= k \log m$, where *W* is the speed of transmission, *K* is a constant, and *m* are the different voltage levels one can choose from. The fact that Nyquist used the term intelligence for his measure illustrates the fluidity of terminology at the start of the twentieth century.
-- **Fisher information:** the amount of information that an observable random variable *X* carries about an unknown parameter $\theta$ upon which the probability of *X* depends (Fisher 1925)[^fisher-1925].
+- **Fisher information:** the amount of information that an observable random variable *X* carries about an unknown parameter *θ* upon which the probability of *X* depends (Fisher 1925)[^fisher-1925].
 - **The Hartley function:** (Hartley 1928, Rényi 1961, Vigo 2012)[^hartley-1928][^rényi-1961][^vigo-2012]. The amount of information we get when we select an element $e$ from a finite set *S* under uniform distribution is the logarithm of the cardinality of that set: $I(e \mid S) = \log_a |S| $.
 - **Shannon information:** the entropy, *H*, of a discrete random variable *X* is a measure of the amount of uncertainty associated with the value of *X*: $I(A)= -\log P(A)$ (Shannon 1948; Shannon & Weaver 1949)[^shannon-1948][^shannon-1949]. Shannon information is the best known quantitative definition of information but it is a rather weak concept that does not capture the notion of disorder that intuitively is essential for the thermodynamic concept of entropy: the string $0000011111$ contains just as much Shannon information as the string $1001011100$ because it has the same number of ones and zeros.
 - **Algorithmic complexity** (also know as Kolmogorov complexity): the information in a binary string *x* is the length of the shortest program *p* that produces *x* on a reference universal Turing machine *U* (Turing 1937; Solomonoff 1960, 1964a,b, 1997; 1965; Chaitin 1969, 1987)[^chaitin-1969][^chaitin-1987][^solomonoff-1960][^solomonoff-1964a][^solomonoff-1997][^turing-1937]. Algorithmic complexity is conceptually more powerful than Shannon information: it does recognise that the string $1100100100001111110110101010001000100001$ contains little information (because it gives *the first 40 bits of the number π*), whereas Shannon’s theory would consider this string to have almost maximal information. This power comes at a price. Kolmogorov complexity quantifies over all possible computer programs shorter than the data set. We cannot run all these programs in finite time since a lot of them will never terminate. This implies that Kolmogorov complexity is *uncomputable*. The measurements we make are all dependent on our choice of reference universal Turing machine. The nature of algorithmic complexity as a measure of information is guaranteed by the *universality* of Turing machines as a model of computation and by the so-called *invariance theorem*: in the limit the complexity assigned to a dataset by two different universal Turing machines only differs by a constant. Algorithmic complexity is consequently an *asymptotic* measure that does not tell us much about small finite datasets. Its practical value for everyday research is limited, although it has relevance from a philosophical perspective and as a mathematical tool.
@@ -387,7 +387,7 @@ Sequences of symbols code more information than multisets and multisets are more
 **Definition:** Suppose *m*, *n*, *o*, *p*, … are symbols and $\oplus$ is a *tensor* or *concatentation* operator. We define the class of sequences:
 
 1. Any symbol is a sequence
-2. If $\alpha$ and $\beta$ are sequences then $(\alpha \oplus\beta)$is a sequence
+2. If *α* and *β* are sequences then $(\alpha \oplus\beta)$is a sequence
 
 For sequences we define the following basic properties on the level of symbol concatenation:
 
@@ -850,7 +850,7 @@ A pure qubit is a coherent *superposition* of the basis states:
 
 $$\ket{\psi} = \alpha\ket{0} + \beta\ket{1}$$
 
-where $\alpha$ and $\beta$ are complex numbers, with the constraint:
+where *α* and *β* are complex numbers, with the constraint:
 
 $$|\alpha|^2 + |\beta|^2 = 1$$
 

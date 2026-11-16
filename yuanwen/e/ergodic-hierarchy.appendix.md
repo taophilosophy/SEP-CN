@@ -18,13 +18,13 @@ One key innovation of Hamilton’s approach is the use of phase space, a 6N dime
 
 The use of Hamilton’s formulation of the equations of motion for Hamiltonians that are not explicitly time dependent leads to two immediate consequences, the conservation of energy and the preservation of phase space volumes; for more discussion, see sections 6.6 and 6.7 of Lanczos 1986. These consequences are crucial for understanding the foundations of ergodic theory. They are quite general, though not fully general since some substantial assumptions (that need not be specified here) must be made to derive them; however, a large class of important systems satisfy those assumptions. The conservation of energy means that the system is restricted to a surface of constant energy in phase space; more importantly for the foundations of ergodic theory is that most of these surfaces are (as it turns out) compact manifolds. The time evolution of a phase space volume that is restricted to a compact manifold has an invariant measure that is bounded, meaning that it can be normalized to unity.
 
-In light of the discussion above, important conceptual ties can be made to the elements that constitute the notion of an abstract dynamical system. As noted above (in the main body of this entry), those elements are a probability space [$X,\Sigma ,\mu$] and a measure preserving transformation $T$ on $[X,\Sigma ,\mu]$. The term $X$ denotes an abstract mathematical space of points. It is the counterpart to the phase space of Hamiltonian mechanics; however, it abstracts away from the physical connections that the coordinate components have to spatial and kinematic elements (the generalized momenta) of a classical system. The term $\Sigma$ denotes a $\sigma$-algebra of subsets of $X$, and it is the abstract counterpart to the set of all possible phase space volumes. The classical phase space volume is an important measure, and it is replaced by $\mu$, a probability measure on $\Sigma$. The abstraction to a probability measure is ultimately related to the conservation of energy and to the resulting restriction (in many cases) of the time evolution to a compact manifold. In compact manifold cases, units may be chosen so that the total volume of the compact manifold $X$ is unity, in which case the volume measure on the set of sub-volumes (the counterpart to $\Sigma)$ is effectively a probability measure (the counterpart to $\mu)$. The phase-space-volume preserving time-evolution specified by Hamilton’s equations is replaced by the abstract notion of a probability measure preserving transformation $T$ on $X$.
+In light of the discussion above, important conceptual ties can be made to the elements that constitute the notion of an abstract dynamical system. As noted above (in the main body of this entry), those elements are a probability space [$X,\Sigma ,\mu$] and a measure preserving transformation $T$ on $[X,\Sigma ,\mu]$. The term $X$ denotes an abstract mathematical space of points. It is the counterpart to the phase space of Hamiltonian mechanics; however, it abstracts away from the physical connections that the coordinate components have to spatial and kinematic elements (the generalized momenta) of a classical system. The term $\Sigma$ denotes a *σ*-algebra of subsets of $X$, and it is the abstract counterpart to the set of all possible phase space volumes. The classical phase space volume is an important measure, and it is replaced by $\mu$, a probability measure on $\Sigma$. The abstraction to a probability measure is ultimately related to the conservation of energy and to the resulting restriction (in many cases) of the time evolution to a compact manifold. In compact manifold cases, units may be chosen so that the total volume of the compact manifold $X$ is unity, in which case the volume measure on the set of sub-volumes (the counterpart to $\Sigma)$ is effectively a probability measure (the counterpart to $\mu)$. The phase-space-volume preserving time-evolution specified by Hamilton’s equations is replaced by the abstract notion of a probability measure preserving transformation $T$ on $X$.
 
 To fully appreciate why the time evolution of volumes of phase space are of special interest in ergodic theory rather than points of phase space, it is necessary to relate the discussion above to developments in classical statistical mechanics. Classical statistical mechanics is typically used to model systems that consist of a large number of sub-systems, such as a volume of gas. A liter of a gas at standard temperature and pressure has on the order of $10^{20}$ molecules, which means that the corresponding phase space has $6 \times 10^{20}$ dimensions (leaving aside other features of the molecules such as their geometric structure, which is often done for the sake of simplicity). For such systems, the Hamiltonian depends on both inter-particle forces as well as external forces. As in classical mechanics, the total energy is conserved (given certain assumptions, as noted earlier) and the time evolution preserves phase space volumes.
 
 One important innovation in classical statistical mechanics is the use of the new notion of an ensemble density. This notion goes back to Gibbs (1902), and has since been widely used, and describes the state of an ensemble. Gibbs remains non-committal about both the interpretation of the this density and its implication for a single system, but he observes that what can be said about single system on the basis of an ensemble ‘can generally be described most accurately and most simply by saying that it is one taken at random from a great number (ensemble) of bodies which are completely described’ (1902, p. 163)
 
-A density function is a function that is normalized to unity over the relevant space of states for the system (meaning a surface of constant total energy). If $f(x)$ denotes the density function that describes the macrostate of a system, then $f(x)$ may be used to calculate the probability that the system is in a given volume $A$ of phase space by integrating the density function over the specified volume, $\int_A f(x)dx$. Such probabilities are sometimes interpreted epistemically, meaning that they represent what is known probabilistically about the microstate of the system with regards to each volume of phase space. Subsets of phase space that can be assigned a volume are known as the Lebesgue measurable sets,[^note-25] and their abstract counterpart in ergodic theory is the $\sigma$-algebra $\Sigma$ of subsets of $X$. The probability measure $\mu$ is the abstract counterpart to the product of the density function and the Lebesgue measure in classical statistical mechanics.
+A density function is a function that is normalized to unity over the relevant space of states for the system (meaning a surface of constant total energy). If $f(x)$ denotes the density function that describes the macrostate of a system, then $f(x)$ may be used to calculate the probability that the system is in a given volume $A$ of phase space by integrating the density function over the specified volume, $\int_A f(x)dx$. Such probabilities are sometimes interpreted epistemically, meaning that they represent what is known probabilistically about the microstate of the system with regards to each volume of phase space. Subsets of phase space that can be assigned a volume are known as the Lebesgue measurable sets,[^note-25] and their abstract counterpart in ergodic theory is the *σ*-algebra $\Sigma$ of subsets of $X$. The probability measure $\mu$ is the abstract counterpart to the product of the density function and the Lebesgue measure in classical statistical mechanics.
 
 It turns out that the density function may also be used to obtain information about the average value of each physical quantity of the system with respect to any given volume of phase space. As already noted, each physical quantity of a classical system is represented by a function on phase space. Such functions are similar to density functions in that they must be Lebesgue integrable; however, they need not be normalized to unity. Suppose that $f(x)$ is the macrostate of the system. If $g(x)$ is one of its physical quantities, then $\int_A f(x)g(x)dx$ denotes the average value of $g(x)$ over phase space volume $A$.
 
@@ -54,7 +54,7 @@ A set $\Sigma$ is an *algebra of subsets* of $X$ if and only if the following co
 - the complement of each element of $\Sigma$ is in $\Sigma$, and
 - the empty set $\varnothing$ is in $\Sigma$.
 
-In other words, for every $A, B \in \Sigma$, $A \cap B \in \Sigma$ and $X - A \in \Sigma$, where $X - A$ denotes the set of all elements of $X$ that are not in $A$. An algebra $\Sigma$ of subsets of $X$ is a $\sigma$-algebra if and only $\Sigma$ contains every countable union of countable collections of its elements. In other words, if $\{A_i\} \subseteq \Sigma$ is countable, the countable union $\cup A_i$ is in $\Sigma$.
+In other words, for every $A, B \in \Sigma$, $A \cap B \in \Sigma$ and $X - A \in \Sigma$, where $X - A$ denotes the set of all elements of $X$ that are not in $A$. An algebra $\Sigma$ of subsets of $X$ is a *σ*-algebra if and only $\Sigma$ contains every countable union of countable collections of its elements. In other words, if $\{A_i\} \subseteq \Sigma$ is countable, the countable union $\cup A_i$ is in $\Sigma$.
 
 By definition, $\mu$ is a *probability measure* on $\Sigma$ if and only if the following conditions hold:
 
@@ -74,7 +74,7 @@ In this definition, $T^n\Sigma_0$ is the sigma algebra containing the sets $T^n 
 
 $$ \bigcup_{n= -\infty}^{\infty} T^n \Sigma_0 $$
 
-is the smallest $\sigma$*-algebra* containing all the $T^n\Sigma_0$, and
+is the smallest *σ**-algebra* containing all the $T^n\Sigma_0$, and
 
 $$ \bigcap_{n= -\infty}^{\infty} T^n \Sigma_0 $$
 
@@ -84,11 +84,11 @@ The Kolmogorov-Sinai entropy of an automorphism $T$ is defined as follows. Let t
 
 $$ z(x) := \begin{cases} -x \log(x) &\text{ if } x \gt 0 \\ 0 &\text{ if } x = 0 \end{cases} $$
 
-Now consider a partition $\alpha$ of the probability space $[X,B,\mu]$ and let the function $h(\alpha)$ be
+Now consider a partition *α* of the probability space $[X,B,\mu]$ and let the function $h(\alpha)$ be
 
 $$ h(\alpha) := \sum_{i=1}^{r} z[\mu(\alpha_i)], $$
 
-the so-called ‘entropy of the partition $\alpha$’. Then, the *KS-entropy of the automorphism* $T$ *relative to the partition $\alpha$* is defined as
+the so-called ‘entropy of the partition *α*’. Then, the *KS-entropy of the automorphism* $T$ *relative to the partition *α** is defined as
 
 $$ h(T,\alpha) := \lim_{n \rightarrow \infty}\frac{h(\alpha \cup T\alpha \cup \ldots \cup T^{n-1}\alpha)}{n} , $$
 
@@ -96,7 +96,7 @@ and the (non-relative) *KS-entropy* of $T$ is defined as
 
 $$ h(T) := \sup_\alpha h(T,\alpha), $$
 
-where the supremum ranges over all finite partitions $\alpha$ of $X$.
+where the supremum ranges over all finite partitions *α* of $X$.
 
 One can now prove the following theorem (Walters 1982, p. 108; Cornfeld *et al*. 1982, p. 283). If $[X,B,\mu]$ is a probability space and $T : X \rightarrow X$ is a measure-preserving map, then $T$ is a K-automorphism if and only if $h(T,\alpha) \gt 0$ for all finite partitions $\alpha , \alpha \ne N$, (where $N$ is a partition that consists of only sets of measure one and zero). Since the (non-relative) KS-entropy is defined as the supremum of $h(T,\alpha)$ over all finite partitions it follows immediately that a K-automorphism has positive KS-entropy; i.e., $h(T) \gt 0$ (Cornfeld *et al*., p. 283; Walters 1982, p. 109). But notice that the converse it not true: there are automorphisms with a positive KS-entropy that are not K-automorphisms.
 
@@ -110,7 +110,7 @@ Furthermore, let $X$ be the direct product of infinitely many copies of $Y$:
 
 $$ X = \prod^{+\infty}_{i=-\infty}Y_i , $$
 
-where $Y_i = Y$ for all $i$. The elements of $X$ are doubly-infinite sequences $x = \{x_i\}^{+\infty}_{i = -\infty}$, where $x_i\in Y$ for each $i \in Z$. As the $\sigma$-algebra $C$ of $X$ we choose the $\sigma$-algebra generated by all sets of the form
+where $Y_i = Y$ for all $i$. The elements of $X$ are doubly-infinite sequences $x = \{x_i\}^{+\infty}_{i = -\infty}$, where $x_i\in Y$ for each $i \in Z$. As the *σ*-algebra $C$ of $X$ we choose the *σ*-algebra generated by all sets of the form
 
 $$\{x \in X \mid x_i = k, m \le i \le m+n\}$$
 

@@ -35,7 +35,7 @@ A **vector** $A$, written ‘$\ket{A}$’, is a mathematical object characterize
 
 Multiplying a vector $\ket{A}$ by $n$, where $n$ is a constant, gives a vector which is the same direction as $\ket{A}$ but whose length is $n$ times $\ket{A}$’s length.
 
-In a real vector space, the (inner or dot) product of a pair of vectors $\ket{A}$ and $\ket{B}$, written ‘$\braket{A}{B}$’ is a scalar equal to the product of their lengths (or ‘norms’) times the cosine of the angle, $\theta$, between them:
+In a real vector space, the (inner or dot) product of a pair of vectors $\ket{A}$ and $\ket{B}$, written ‘$\braket{A}{B}$’ is a scalar equal to the product of their lengths (or ‘norms’) times the cosine of the angle, *θ*, between them:
 
 $$ \braket{A}{B} = |A| |B| \cos \theta $$
 

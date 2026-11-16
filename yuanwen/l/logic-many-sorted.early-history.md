@@ -17,7 +17,7 @@ In Wang (1952) a many-sorted language is introduced as well as an axiomatic calc
 
 > By a comparative study of $L_{n}$ and $L_{1}$, we shall also indicate that many known metamathematical results about a usual elementary logic $L_{1}$ have counterparts for $L_{n}$. (Wang 1952: 107)
 
-His system is based on Quine (1940) and hence he uses $\epsilon$ as Quine does, in a way similar to the meaning of “is” in English, different from the notion introduced by Russell.[^note-36] Due to this use of connective “$\epsilon$”, which is taken as primitive, Wang says:
+His system is based on Quine (1940) and hence he uses *ε* as Quine does, in a way similar to the meaning of “is” in English, different from the notion introduced by Russell.[^note-36] Due to this use of connective “*ε*”, which is taken as primitive, Wang says:
 
 > We may either take as primitive or define a predicate denoting the identity relation in $T_{n}$. In any case, it is usually desirable to include in $T_{n}$ the usual theory of identity for the objects of the system. We shall assume that $T_{n}$ contains the usual theory of identity as a part. Then we know that we can introduce descriptions by contextual definitions
 >
@@ -27,11 +27,11 @@ His system is based on Quine (1940) and hence he uses $\epsilon$ as Quine does, 
 
 Therefore, his formal language has only predicates as non-logical symbols. His system includes variables of several sorts, as well as “the usual theory of identity”, including “the law of reflexivity and the principle of substitutivity for the variables of the system”. Apart from this theory, the calculus includes:
 
-**Axiomatic calculus:** Wang 1952 uses $\vdash \varphi$ to mean that the closures of $\varphi$ are theorems. As axioms for his system he proposes:
+**Axiomatic calculus:** Wang 1952 uses $\vdash \varphi$ to mean that the closures of *φ* are theorems. As axioms for his system he proposes:
 
 **$1_{n}.$**
 
-If $\varphi$ is a truth-functional tautology, then $\vdash \varphi$.
+If *φ* is a truth-functional tautology, then $\vdash \varphi$.
 
 **$2_{n}.$**
 
@@ -39,15 +39,15 @@ $\vdash \forall x^{i}(\varphi \rightarrow \psi )\rightarrow (\forall x^{i}\varph
 
 **$3_{n}.$**
 
-If $x^{i}$ is not free in $\varphi$, then $\vdash \varphi \rightarrow \forall x^{i}\varphi$
+If $x^{i}$ is not free in *φ*, then $\vdash \varphi \rightarrow \forall x^{i}\varphi$
 
 **$4_{n}.$**
 
-If $x^{i}$ and $y^{i}$ are variables of the same kind, and $\varphi^{\prime}$ is like $\varphi$ except for containing free occurrences of $y^{i}$ whenever $\varphi$ contains free occurrences of $x^{i}$, then $\vdash \forall x^{i}\varphi \rightarrow \varphi^{\prime}$
+If $x^{i}$ and $y^{i}$ are variables of the same kind, and $\varphi^{\prime}$ is like *φ* except for containing free occurrences of $y^{i}$ whenever *φ* contains free occurrences of $x^{i}$, then $\vdash \forall x^{i}\varphi \rightarrow \varphi^{\prime}$
 
 **$5_{n}.$**
 
-If $\varphi \rightarrow \psi$ and $\varphi$ are theorems of $L_{n}$ so is $\psi$.
+If $\varphi \rightarrow \psi$ and *φ* are theorems of $L_{n}$ so is *ψ*.
 
 By adding certain proper axioms (or also axiom schemata) to $L_{n}$, we obtain a theory $T_{n}$.
 
@@ -65,7 +65,7 @@ Furthermore, Section 2 of Wang (1952), entitled *The many-sorted elementary logi
 
 Hao Wang also quotes Herbrand’s 1930 dissertation, *Recherches sur la théorie de la démonstration*, where the equivalence between provability of a statement in $T_{n}$ and its translation in $T_{1}^{(n)}$ is established as well as the implication between the consistency of $T_{n}$ and that of $T_{1}^{(n)}$. He also refers (see Wang 1952: 111–14) to an effective way of finding proofs in $T_{1}^{(n)}$ of translated statements using proofs in $T_{n}$ for the original statements, and vice versa.
 
-The paper ends with a section devoted to *The simple theory of types* where he considers the system $P$ which Gödel uses in Gödel 1931 and a one-sorted system $Q$. The system $P$ contains infinitely many kinds of variables: $x_{1},$ $y_{1},\ldots$; $x_{2},$ $y_{2},\ldots$;…, the truth-functional connectives, the quantifiers for all sorts, the membership predicate $\epsilon$, the symbol 0 for zero and the symbol $f$ for the successor function.
+The paper ends with a section devoted to *The simple theory of types* where he considers the system $P$ which Gödel uses in Gödel 1931 and a one-sorted system $Q$. The system $P$ contains infinitely many kinds of variables: $x_{1},$ $y_{1},\ldots$; $x_{2},$ $y_{2},\ldots$;…, the truth-functional connectives, the quantifiers for all sorts, the membership predicate *ε*, the symbol 0 for zero and the symbol $f$ for the successor function.
 
 Now, according to Russell’s hierarchy of types, he explicitly says that the membership predicate only occurs between one level and the next, $x_{n}\epsilon y_{n+1}$, and introduces equality at level $n$ using the principle of *Identity of indiscernibles*:
 
@@ -81,7 +81,7 @@ $$\vdash \exists y_{n+1}\forall x_{n}(x_{n}\epsilon y_{n+1}\leftrightarrow \varp
 
 *Peano axioms* are included at level 1.
 
-The one-sorted system $Q$ is basically the same as $P$, but with only one sort of variables. Some years later, Gilmore (1958) pointed out that it is necessary to introduce countably many primitive predicates $\epsilon _{i}$ in $Q$ expressing membership between types $i$ and $i+1$. He shows how to avoid this restriction by correcting Wang’s demonstration of the theorem stating that there is an effective way of finding, given any proof of $\gamma ^{\prime}$ in $L_{1}^{(n)}$ (where $\gamma ^{\prime}$ has a translation to $\gamma$), a proof of $\gamma$ in $L_{n}$.
+The one-sorted system $Q$ is basically the same as $P$, but with only one sort of variables. Some years later, Gilmore (1958) pointed out that it is necessary to introduce countably many primitive predicates $\epsilon _{i}$ in $Q$ expressing membership between types $i$ and $i+1$. He shows how to avoid this restriction by correcting Wang’s demonstration of the theorem stating that there is an effective way of finding, given any proof of $\gamma ^{\prime}$ in $L_{1}^{(n)}$ (where $\gamma ^{\prime}$ has a translation to *γ*), a proof of *γ* in $L_{n}$.
 
 ### B. Solomon Feferman
 
@@ -106,7 +106,7 @@ In 2016, Feferman gave a talk at the *AMS/ASL session on applications of Logic, 
 
 [^note-36]: 36. In section 22, Quine says:
 
-> We now turn to a connective “$\epsilon$” which embodies the principal meaning of the ambiguous word “is”. Sometimes “is” has the sense of “$=$” or “is the same as”; such is its sense in *“Paris is the capital of France”*…. But in *“Paris is a city”* the word cannot be so construed. In such contexts “is” expresses rather possession of a property, or membership in a class: Paris belongs to the class of cities. (Quine 1940: 119)
+> We now turn to a connective “*ε*” which embodies the principal meaning of the ambiguous word “is”. Sometimes “is” has the sense of “$=$” or “is the same as”; such is its sense in *“Paris is the capital of France”*…. But in *“Paris is a city”* the word cannot be so construed. In such contexts “is” expresses rather possession of a property, or membership in a class: Paris belongs to the class of cities. (Quine 1940: 119)
 
 Quine also admits:
 

@@ -20,14 +20,14 @@ $\forall x[\exists y \in x \rightarrow \exists y(y \in x \wedge \forall z(z \in 
 
 Here we show that constructively unacceptable instances of the excluded middle can be derived from foundation on the basis of some very elementary set-theoretic assumptions. As a consequence, foundation, as usually formulated, can not be part of a ZF set theory based on intuitionistic logic. The following argument can be carried out on the basis of a subsystem of [CZF](set-theory-constructive.axioms-CZF-IZF.md) including extensionality, bounded separation, emptyset, and the axiom of pair. In such a system we can form the set $\{0,1\}$ of the von Neumann natural numbers 0 and 1, where 0 is the empty set and 1 is the singleton containing the empty set only.
 
-Let $\psi$ be an arbitrary bounded formula and assume foundation. By bounded separation, let
+Let *ψ* be an arbitrary bounded formula and assume foundation. By bounded separation, let
 
 $A := \{y \in \{0,1\}: y = 1 \vee(y = 0 \wedge \psi)\}.$
 
-We can now easily derive the excluded middle for $\psi$. As $1 \in A$, the set $A$ is inhabited. By foundation there exists a minimal element $Y \in A$, that is, a $Y \in A$ such that for all $Z \in Y, Z$ does not belong to $A$. Since $Y$ is an element of $A$, we have either $Y = 1$ or $Y = 0 \wedge \psi$.
+We can now easily derive the excluded middle for *ψ*. As $1 \in A$, the set $A$ is inhabited. By foundation there exists a minimal element $Y \in A$, that is, a $Y \in A$ such that for all $Z \in Y, Z$ does not belong to $A$. Since $Y$ is an element of $A$, we have either $Y = 1$ or $Y = 0 \wedge \psi$.
 
 - If $Y = 1$, then $0 \in Y$. Thus $\neg(0 \in A)$ because $Y$ is the $\in$-minimal of $A$. Hence, by the definition of $A, \neg(0 = 0 \wedge \psi)$. Thus $\neg \psi$.
-- If instead $Y = 0 \wedge \psi$, then clearly $\psi$.
+- If instead $Y = 0 \wedge \psi$, then clearly *ψ*.
 
 In either case, we have $\psi \vee \neg \psi$.
 
@@ -43,7 +43,7 @@ $\forall u\forall v[(\forall x \in u)(\exists y \in v) \psi(x,y) \rightarrow$ $\
 
 where “$F: U \rightarrow V$” stands for a formula expressing the fact that $F$ is a set theoretic function with domain $U$ and range included in $V$. The notions of set theoretic function, domain and range can be formalised in a standard way in constructive set theory (see, *e.g.*, Aczel and Rathjen 2001).
 
-Let $\phi$ be a bounded formula and define the following sets (by bounded separation):
+Let *φ* be a bounded formula and define the following sets (by bounded separation):
 
 - $A {:}= \{n \in \{0,1\} : n = 0 \vee(n = 1 \wedge \phi)\},$
 - $B {:}= \{n \in \{0,1\} : n = 1 \vee(n = 0 \wedge \phi)\}.$
@@ -52,8 +52,8 @@ We note that $(\forall z \in \{A,B\})(\exists n \in \{0,1\})(n \in z)$.
 
 By AC, there is a choice function $F: \{A,B\} \rightarrow \{0,1\}$, with $F(A) \in A$ and $F(B) \in B$. Here we need to use a crucial fact about the natural numbers. As the values of $F$ are natural numbers we can prove (by a bounded form of induction on the natural numbers) that either $F(A) = F(B)$ or $F(A) \ne F(B)$. Now we argue as follows.
 
-- If $F(A) = F(B)$, then $\phi$, so $\phi \vee \neg \phi$.
-- If $F(A) \ne F(B)$, then we show $\neg \phi$. Suppose for a contradiction that $\phi$ holds. Then *by extensionality* $A = B$ so that $F(A) = F(B)$, contradicting the assumption. We thus have proved that the assumption of $\phi$ yields a contradiction, so that $\neg \phi$. Thus $\phi \vee \neg \phi$.
+- If $F(A) = F(B)$, then *φ*, so $\phi \vee \neg \phi$.
+- If $F(A) \ne F(B)$, then we show $\neg \phi$. Suppose for a contradiction that *φ* holds. Then *by extensionality* $A = B$ so that $F(A) = F(B)$, contradicting the assumption. We thus have proved that the assumption of *φ* yields a contradiction, so that $\neg \phi$. Thus $\phi \vee \neg \phi$.
 
 In either case, we have proved $\phi \vee \neg \phi$.
 
@@ -65,7 +65,7 @@ We recall that even if the full axiom of choice is not compatible with construct
 
 Arguments analogous to those just presented can be used to show that standard classical properties of the ordinals, such as the linearity of their order, imply instances of EM.
 
-There are various classically equivalent definitions of ordinal number. In a constructive context, ordinals are usually defined as hereditarily transitive sets (following Powell 1975). A set is *transitive* if its elements are subsets of it. That is, $U$ is transitive if $\forall X \in U (X \subseteq U)$, that is, $\forall X \in U \forall Z \in X (Z \in U)$. An ordinal is then defined as a transitive set all of whose elements are also transitive. The order on the ordinals is given by the membership relation. Linearity of an ordinal $\alpha$ is the property: $\forall \beta \in \alpha \forall \gamma \in \alpha(\beta \in \gamma \vee \beta = \gamma \vee \gamma \in \beta)$. It is an easy exercise to prove (using arguments analogous to those above) that assuming linearity for all ordinals yields instances of the excluded middle.
+There are various classically equivalent definitions of ordinal number. In a constructive context, ordinals are usually defined as hereditarily transitive sets (following Powell 1975). A set is *transitive* if its elements are subsets of it. That is, $U$ is transitive if $\forall X \in U (X \subseteq U)$, that is, $\forall X \in U \forall Z \in X (Z \in U)$. An ordinal is then defined as a transitive set all of whose elements are also transitive. The order on the ordinals is given by the membership relation. Linearity of an ordinal *α* is the property: $\forall \beta \in \alpha \forall \gamma \in \alpha(\beta \in \gamma \vee \beta = \gamma \vee \gamma \in \beta)$. It is an easy exercise to prove (using arguments analogous to those above) that assuming linearity for all ordinals yields instances of the excluded middle.
 
 This example shows that in constructive set theory the notion of ordinal does not play the same central role as in classical set theory. However, ordinals supply us with a ranking of the universe and we can still define many of the familiar set-theoretic operations by transfinite recursion on ordinals (see Aczel and Rathjen 2001, Section 4.2). This is fine as long as the definitions by transfinite recursion do not make case distinctions such as in the classical ordinal cases of successor and limit.
 

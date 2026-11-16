@@ -107,7 +107,7 @@ So the idea underlying Gentzen’s programme is that we have “definitions” i
 
 By adopting Lorenzen’s term and adapting its underlying idea (see section 2.1.1) to the context of natural deduction, Prawitz (1965)[^prawitz-1965] formulated an “inversion principle” to make Gentzen’s remarks more precise:
 
-> Let $\alpha$ be an application of an elimination rule that has *B* as consequence. Then, deductions that satisfy the sufficient condition […] for deriving the major premiss of $\alpha$, when combined with deductions of the minor premisses of $\alpha$ (if any), already “contain” a deduction of *B*; the deduction of *B* is thus obtainable directly from the given deductions without the addition of $\alpha$. (p. 33)
+> Let *α* be an application of an elimination rule that has *B* as consequence. Then, deductions that satisfy the sufficient condition […] for deriving the major premiss of *α*, when combined with deductions of the minor premisses of *α* (if any), already “contain” a deduction of *B*; the deduction of *B* is thus obtainable directly from the given deductions without the addition of *α*. (p. 33)
 
 Here the sufficient conditions are given by the premisses of the corresponding introduction rules. Thus the inversion principle says that a derivation of the conclusion of an elimination rule can be obtained without an application of the elimination rule if its major premiss has been derived using an introduction rule in the last step, which means that a combination
 

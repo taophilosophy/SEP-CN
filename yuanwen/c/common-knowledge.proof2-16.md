@@ -6,7 +6,7 @@
 
 ## Proof of Lemma 2.16
 
-**Lemma 2.16**. $\mathcal{M}(\omega)$ is common knowledge for the agents of $N$ at $\omega$.
+**Lemma 2.16**. $\mathcal{M}(\omega)$ is common knowledge for the agents of $N$ at *ω*.
 
 **Proof**. Since $\mathcal{M}$ is a coarsening of $\mathcal{H}_i$ for each $i \in N,$ $\mathbf{K}_i (\mathcal{M}(\omega))$. Hence, $\mathbf{K}^1_N (\mathcal{M}(\omega)),$ and since by definition $\mathbf{K}_i (\mathcal{M}(\omega)) = \{ \omega \mid \mathcal{H}_i (\omega) \subseteq \mathcal{M}(\omega)\} = \mathcal{M}(\omega)$,
 

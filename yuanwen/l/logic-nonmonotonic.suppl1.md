@@ -6,7 +6,7 @@
 
 ## Robert Stalnaker’s Counter-Example to Rational Monotony
 
-Given a set of initial beliefs $\Gamma$, Stalnaker adopts the reading of “$\alpha \dproves \beta$” as “Given our initial set of beliefs $\Gamma$, if we learn $\alpha$ then (non-monotonically) infer $\beta$.” proposed in Makinson and Gärdenfors (1991).
+Given a set of initial beliefs *Γ*, Stalnaker adopts the reading of “$\alpha \dproves \beta$” as “Given our initial set of beliefs *Γ*, if we learn *α* then (non-monotonically) infer *β*.” proposed in Makinson and Gärdenfors (1991).
 
 Consider the three composers: Verdi $(v)$, Bizet $(b)$, and Satie $(s)$, and suppose that according to our initial set of beliefs Verdi is Italian $(I(v))$, while Bizet and Satie are French $(F(b), F(s))$. Suppose now that we learn that Verdi and Bizet are compatriots $(C(v,b))$. This leads us no longer to endorse either the proposition that Verdi is Italian (because he could be French), or that Bizet is French (because he could be Italian); but we would still draw the defeasible consequence that Satie is French, since nothing that we have learned conflicts with it. Thus,
 

@@ -10,41 +10,41 @@ The “incompleteness problem” discussed by Rosen (1990, pp. 341–345) can be
 
 **(10)**
 
-There might have been $\kappa$ non-overlapping physical objects.
+There might have been *κ* non-overlapping physical objects.
 
 if and only if
 
 **(10f)**
 
-According to PW, there is a [world] containing $\kappa$ non-overlapping physical objects.
+According to PW, there is a [world] containing *κ* non-overlapping physical objects.
 
 (10f) is not true, since PW is silent on the issue. So (10) is not true. But the same thing happens for the negation of (10):
 
 **(11)**
 
-It is not the case that there might have been $\kappa$ non-overlapping physical objects.
+It is not the case that there might have been *κ* non-overlapping physical objects.
 
 is plausibly true if and only if
 
 **(11f)**
 
-According to PW, no [world] contains $\kappa$ [non-overlapping] physical objects.
+According to PW, no [world] contains *κ* [non-overlapping] physical objects.
 
 If (11) is really the negation of (10), then classically one of them must be true. If one of them is literally false, then its negation should be true. Rosen is inclined to accept (on the fictionalist’s behalf) that they are genuine contradictories, and both lack a truth-value. He points out, however, two difficulties with this: firstly, his proposal makes (10f) and (11f) truth-valueless too, when they seem clearly false (at least if “according to PW…” works like “according to the fiction …” operators standardly do); and secondly, the disjunction of (10) and (11) is true and a logical truth, so we have the truth of a disjunction without the truth of either disjunct. (Not that this is unknown in the treatment of truth-value gaps, as Rosen points out.) Such logical revision might be thought a high price to pay.
 
-In addition, Rosen rightly points out (p. 342), the fictionalist has settled the question of whether it is true that there might have been $\kappa$ many non-overlapping physical objects: it is not true. Those who were inclined to think that we are in ignorance of this piece of modal information (or any other piece of modal information about which the story is “silent” in a similar way) will not like this result. The fictionalist does not make room for modal ignorance to the same extent the realist does.
+In addition, Rosen rightly points out (p. 342), the fictionalist has settled the question of whether it is true that there might have been *κ* many non-overlapping physical objects: it is not true. Those who were inclined to think that we are in ignorance of this piece of modal information (or any other piece of modal information about which the story is “silent” in a similar way) will not like this result. The fictionalist does not make room for modal ignorance to the same extent the realist does.
 
 Rosen’s discussion of this worry is unhappy in several places. The first is that (11f) is not his only official translation of (11), assuming “might have been” is to be treated as “possibly” in this context: controposing his biconditional for possiblity (with the appropriate substitutions for $P)$ yields:
 
-It is not the case that there might have been $\kappa$ non-overlapping physical objects
+It is not the case that there might have been *κ* non-overlapping physical objects
 
 if and only if
 
 (11f*)
 
-It is not the case that, according to PW, there is a world containing $\kappa$ non-overlapping physical objects.
+It is not the case that, according to PW, there is a world containing *κ* non-overlapping physical objects.
 
-(11f*) yields the result that (11) is simply true, if we interpret “according to PW” in the usual way (and not the way which makes “According to PW, $Q$” truthvalueless if $Q$ is “not determinately settled as true or false by the theory PW”, whatever that might mean in this context). Since (11) *is* the contradictory of (10), and (10) is false by the lights of Rosen’s original proposal, this should not be surprising. This result has unpleasant consequences of its own, of course, since accepting this theory would commit one to denying the interdefinability of possibility and necessity. Normally, “possibly $P$” is taken to be equivalent to “not-necessarily not-$P$”, and “necessarily $P$” is taken to be equivalent to “not-possibly not-$P$”. But the second will fail in this case (and the first will fail in other similar cases). For (11f) is the appropriate correlate of the claim that “necessarily, there are not $\kappa$ non-overlapping physical objects”, and this claim is standardly taken to be equivalent to (11). For the reasons Rosen gives, however, the correlate of (11f) is not true, whereas (11) is, due to the truth of (11f*).
+(11f*) yields the result that (11) is simply true, if we interpret “according to PW” in the usual way (and not the way which makes “According to PW, $Q$” truthvalueless if $Q$ is “not determinately settled as true or false by the theory PW”, whatever that might mean in this context). Since (11) *is* the contradictory of (10), and (10) is false by the lights of Rosen’s original proposal, this should not be surprising. This result has unpleasant consequences of its own, of course, since accepting this theory would commit one to denying the interdefinability of possibility and necessity. Normally, “possibly $P$” is taken to be equivalent to “not-necessarily not-$P$”, and “necessarily $P$” is taken to be equivalent to “not-possibly not-$P$”. But the second will fail in this case (and the first will fail in other similar cases). For (11f) is the appropriate correlate of the claim that “necessarily, there are not *κ* non-overlapping physical objects”, and this claim is standardly taken to be equivalent to (11). For the reasons Rosen gives, however, the correlate of (11f) is not true, whereas (11) is, due to the truth of (11f*).
 
 Denying the interdefinability of necessity and possibility in the standard way is perhaps not as big a modification to our logic and semantics as introducing truth-value gaps. It will still be seen as very unattractive by many. There is another modification to the basic theory which might be made to deal with these cases, which is a different way of implementing the spirit of Rosen’s proposed strategy here. Rosen says the fictionalist can modify his theory by “declaring that in general when the paraphrase $P^*$ of a modal claim is not determinately settled as true or false by the theory PW, the modal claim $P$ is to lack a truth-value” (p. 343). What is puzzling about Rosen’s implementation of this proposal is that he takes it that this implies that the “According to PW, $P^*$” claim has to be truthvalueless when PW neither says $P^*$ or its negation.  This has the further unwelcome consequence that “According to PW” will not function like “according to the fiction…” operators are standardly thought to. A more natural way of going, surely, is to treat “According to PW …” in the standard way (i.e. it is just false that “According to PW, $P^*$”, when PW is neither committed to $P^*$ or to its negation), but to provide for truth-value gaps for the modal claims by restricting the fictionalist biconditional. Instead of the general scheme:
 

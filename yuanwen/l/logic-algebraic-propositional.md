@@ -79,19 +79,19 @@ Given a language $L$ and a set of propositional variables $V$ (which is disjoint
 2. Every 0-ary symbol is a formula.
 3. If $*$ is a connective and $n \gt 0$ is its arity, then for all formulas $\phi_1 ,\ldots ,\phi_n, * \phi_1 \ldots \phi_n$ is also a formula.
 
-A *substitution* $\sigma$ for $L$ is a map from the set of variables $V$ to the set of formulas of $L$. It tells us which formula must replace which variable when we perform the substitution. If $p$ is a variable, then $\sigma(p)$ denotes the formula that the substitution $\sigma$ assigns to $p$. The result of applying a substitution $\sigma$ to a formula $\phi$ is the formula $\bsigma(\phi)$ obtained from $\phi$ by simultaneously replacing the variables in $\phi$, say $p_1 , \ldots ,p_k$, by, respectively, the formulas $\sigma(p_1), \ldots ,\sigma(p_k)$. In this way, a substitution $\sigma$ gives a unique map $\bsigma$ from the set of formulas to itself that satisfies
+A *substitution* *σ* for $L$ is a map from the set of variables $V$ to the set of formulas of $L$. It tells us which formula must replace which variable when we perform the substitution. If $p$ is a variable, then $\sigma(p)$ denotes the formula that the substitution *σ* assigns to $p$. The result of applying a substitution *σ* to a formula *φ* is the formula $\bsigma(\phi)$ obtained from *φ* by simultaneously replacing the variables in *φ*, say $p_1 , \ldots ,p_k$, by, respectively, the formulas $\sigma(p_1), \ldots ,\sigma(p_k)$. In this way, a substitution *σ* gives a unique map $\bsigma$ from the set of formulas to itself that satisfies
 
 1. $\bsigma(p) = \sigma(p)$, for every variable $p$,
 2. $\bsigma(\dagger) = \dagger$, for every 0-ary connective $\dagger$,
 3. $\bsigma(* \phi_1 \ldots \phi_n) = * \bsigma(\phi_1)\ldots \bsigma(\phi_n)$, for every connective $*$ of arity $n \gt 0$ and formulas $\phi_1 , \ldots ,\phi_n$.
 
-A formula $\psi$ is a *substitution instance* of a formula $\phi$ if there is a substitution $\sigma$ such that when applied to $\phi$ gives $\psi$, that is, if $\bsigma(\phi) = \psi$.
+A formula *ψ* is a *substitution instance* of a formula *φ* if there is a substitution *σ* such that when applied to *φ* gives *ψ*, that is, if $\bsigma(\phi) = \psi$.
 
-In order to avoid unnecessary complications we will assume in the sequel that all the logics use the same denumerable set $V$ of variables, so that the definition of formula of $L$ depends only on $L$. A *logic system* (or *logic* for short) is given by a language $L$ and a consequence relation $\vdash$ on the set of formulas of $L$ that is *formal* in the sense that for every substitution $\sigma$, every set of formulas $\Gamma$ and every formula $\phi$,
+In order to avoid unnecessary complications we will assume in the sequel that all the logics use the same denumerable set $V$ of variables, so that the definition of formula of $L$ depends only on $L$. A *logic system* (or *logic* for short) is given by a language $L$ and a consequence relation $\vdash$ on the set of formulas of $L$ that is *formal* in the sense that for every substitution *σ*, every set of formulas *Γ* and every formula *φ*,
 
 $$ \textrm{if } \Gamma \vdash \phi, \textrm{ then } \bsigma[\Gamma] \vdash\bsigma(\phi) $$
 
-where $\bsigma[\Gamma]$ is the set of the formulas obtained by applying the substitution $\sigma$ to the formulas in $\Gamma$. The consequence relations on the set of formulas of a language that satisfy this property are called *structural* and also *substitution-invariant* in the literature. They were considered for the first time in Łoś & Suszko 1958. Tarski only explicitly considered closed sets also closed under substitution instances for some consequence relations; he never considered (at least explicitly) the substitution invariance condition for consequence relations.
+where $\bsigma[\Gamma]$ is the set of the formulas obtained by applying the substitution *σ* to the formulas in *Γ*. The consequence relations on the set of formulas of a language that satisfy this property are called *structural* and also *substitution-invariant* in the literature. They were considered for the first time in Łoś & Suszko 1958. Tarski only explicitly considered closed sets also closed under substitution instances for some consequence relations; he never considered (at least explicitly) the substitution invariance condition for consequence relations.
 
 We will refer to logic systems by the letter $\bL$ with possible subindices, and we set $\bL = \langle L, \vdash_{\bL } \rangle$ and $\bL_n = \langle L_n, \vdash_{\bL_n } \rangle$ with the understanding that $L \; (L_n)$ is the language of $\bL \;(\bL_n)$ and $\vdash_{\bL }\; (\vdash_{\bL_n })$ its consequence relation. A logic system $\bL$ is *finitary* if $\vdash_{\bL}$ is a finitary consequence relation.
 
@@ -99,13 +99,13 @@ The consequence relation of a logic system can be given in several ways, some us
 
 If $\bL_1 = \langle L,\vdash_{\bL_1 } \rangle$ is a logic system with $\vdash_{\bL_1}$ defined by a proof-system and $\bL_2 = \langle L, \vdash_{\bL_2 } \rangle$ is a logic system over the same language with $\vdash_{\bL_2}$ defined semantically, we say that the proof-system used to define $\vdash_{\bL_1}$ is *sound* for the semantics used to define $\vdash_{\bL_2}$ if $\vdash_{\bL_1}$ is included in $\vdash_{\bL_2}$, namely if $\Gamma \vdash_{\bL_1 } \phi$ implies $\Gamma \vdash_{\bL_2 } \phi$. If the other inclusion holds the proof-system is said to be *complete* with respect to the semantics that defines $\vdash_{\bL_2}$, that is, when $\Gamma \vdash_{\bL_2 } \phi$ implies $\Gamma \vdash_{\bL_1 } \phi$.
 
-A set of $L$-formulas $\Gamma$ is called a *theory* of a logic system $\bL$, or $\bL$-theory, if it is closed under the relation $\vdash_{\bL}$, that is, if whenever $\Gamma \vdash_{\bL } \phi$ it also holds that $\phi \in \Gamma$. In other words, the theories of $\bL$ are the closed sets of the consequence operation $C_{\vdash_{ \bL}}$ on the set of $L$-formulas. In order to simplify the notation we denote this consequence operation by $C_{\bL}$. A formula $\phi$ is a *theorem* (or validity) of $\bL$ if $\varnothing \vdash_{\bL } \phi$. Then $C_{\bL }(\varnothing)$ is the set of theorems of $\bL$ and is the least theory of $\bL$. The set of all theories of $\bL$ will be denoted by $\tTH(\bL)$.
+A set of $L$-formulas *Γ* is called a *theory* of a logic system $\bL$, or $\bL$-theory, if it is closed under the relation $\vdash_{\bL}$, that is, if whenever $\Gamma \vdash_{\bL } \phi$ it also holds that $\phi \in \Gamma$. In other words, the theories of $\bL$ are the closed sets of the consequence operation $C_{\vdash_{ \bL}}$ on the set of $L$-formulas. In order to simplify the notation we denote this consequence operation by $C_{\bL}$. A formula *φ* is a *theorem* (or validity) of $\bL$ if $\varnothing \vdash_{\bL } \phi$. Then $C_{\bL }(\varnothing)$ is the set of theorems of $\bL$ and is the least theory of $\bL$. The set of all theories of $\bL$ will be denoted by $\tTH(\bL)$.
 
-Given a logic system $\bL$, the consequence operation $C_{\bL}$ is substitution-invariant, which means that for every set of $L$-formulas $\Gamma$ and every substitution $\sigma, \bsigma[C_{\bL}(\Gamma)] \subseteq C_{\bL}(\bsigma[\Gamma]$). Moreover, for every theory $T$ of $\bL$ we have a new consequence $C_{\bL }^T$ operation defined as follows: $$C_{\bL }^T (\Gamma) = C_{\bL }(T \cup \Gamma)$$ that is, $C_{\bL }^T (\Gamma)$ is the set of formulas that follow from $\Gamma$ and $T$ according to $\bL$. It turns out that $T$ is closed under substitutions if and only if $C_{\bL }^T$ is substitution-invariant.
+Given a logic system $\bL$, the consequence operation $C_{\bL}$ is substitution-invariant, which means that for every set of $L$-formulas *Γ* and every substitution $\sigma, \bsigma[C_{\bL}(\Gamma)] \subseteq C_{\bL}(\bsigma[\Gamma]$). Moreover, for every theory $T$ of $\bL$ we have a new consequence $C_{\bL }^T$ operation defined as follows: $$C_{\bL }^T (\Gamma) = C_{\bL }(T \cup \Gamma)$$ that is, $C_{\bL }^T (\Gamma)$ is the set of formulas that follow from *Γ* and $T$ according to $\bL$. It turns out that $T$ is closed under substitutions if and only if $C_{\bL }^T$ is substitution-invariant.
 
 If $\bL$ is a logic system and $\Gamma , \Delta$ are sets of $L$-formulas, we will use the notation $\Gamma \vdash_{\bL } \Delta$ to state that for every $\psi \in \Delta , \Gamma \vdash_{\bL } \psi$. Thus $\Gamma \vdash_{\bL } \Delta$ if and only if $\Delta \subseteq C_{\bL }(\Gamma)$.
 
-If $\bL = \langle L, \vdash_{\bL } \rangle$ and $\bL' = \langle L', \vdash_{\bL' } \rangle$ are logic systems whose languages satisfy that $L'\subseteq L$ (hence all the $L'$-formulas are $L$-formulas) and $$\Gamma \vdash_{\bL' } \phi \txtiff \Gamma \vdash_{\bL } \phi,$$ for every set of $L'$-formulas $\Gamma$ and every $L'$-formula $\phi$ we say that $\bL'$ is a *fragment* $\bL$ (in fact, the $\bL'$-fragment) and that $\bL$ is an *expansion* of $\bL'$.
+If $\bL = \langle L, \vdash_{\bL } \rangle$ and $\bL' = \langle L', \vdash_{\bL' } \rangle$ are logic systems whose languages satisfy that $L'\subseteq L$ (hence all the $L'$-formulas are $L$-formulas) and $$\Gamma \vdash_{\bL' } \phi \txtiff \Gamma \vdash_{\bL } \phi,$$ for every set of $L'$-formulas *Γ* and every $L'$-formula *φ* we say that $\bL'$ is a *fragment* $\bL$ (in fact, the $\bL'$-fragment) and that $\bL$ is an *expansion* of $\bL'$.
 
 ## 3. Some examples of logics
 
@@ -117,9 +117,9 @@ We use the standard convention of writing $(\phi * \psi)$ instead of $* \phi \ps
 
 We take the language of Classical propositional logic $\bCPL$ to be the set $L_c = \{\wedge , \vee , \rightarrow , \top , \bot \},$ where $\wedge , \vee , \rightarrow$ are binary connectives and $\top , \bot$ propositional constants. We assume that the consequence relation is defined by the usual truth-table method $(\top$ is interpreted as true and $\bot$ as false) as follows,
 
-$\Gamma \vdash_{\bCPL } \phi\txtiff$ every truth valuation that assigns true to all $\psi \in \Gamma$ assigns true to $\phi$.
+$\Gamma \vdash_{\bCPL } \phi\txtiff$ every truth valuation that assigns true to all $\psi \in \Gamma$ assigns true to *φ*.
 
-The formulas $\phi$ such that $\varnothing \vdash_{\bCPL } \phi$ are the *tautologies*. Note that using the language $L_c$, the negation of a formula $\phi$ is defined as $\phi \rightarrow \bot$. For more information, see the entry on classical logic.
+The formulas *φ* such that $\varnothing \vdash_{\bCPL } \phi$ are the *tautologies*. Note that using the language $L_c$, the negation of a formula *φ* is defined as $\phi \rightarrow \bot$. For more information, see the entry on classical logic.
 
 ### 3.2 Intuitionistic propositional logic
 
@@ -181,7 +181,7 @@ The language of modal logic we consider here is the set $L_m = \{\wedge , \vee ,
 
 $$ \begin{align*} \phi , \phi \rightarrow \psi / \psi \tag{Modus Ponens}\\ \phi / \Box \phi \tag{Modal Generalization}\\ \phi/ \bsigma(\phi), \textrm{ for every substitution } \sigma \tag{Substitution}\\ \end{align*} $$
 
-Note that the set $\Lambda$ is closed under substitution instances, namely for every substitution $\sigma$, if $\phi \in L_m$, then $\bsigma(\phi) \in L_m$.
+Note that the set $\Lambda$ is closed under substitution instances, namely for every substitution *σ*, if $\phi \in L_m$, then $\bsigma(\phi) \in L_m$.
 
 The least normal modal logic is called $K$ and can be axiomatized by the Hilbert-style calculus with axioms the tautologies of classical logic and the formulas $\Box(\phi \rightarrow \psi) \rightarrow(\Box \phi \rightarrow \Box \psi)$, and with rules of inference Modus Ponens and Modal Generalization. Note that since we use schemas in the presentation of the axioms, the set of derivable formulas is closed under the Substitution rule.
 
@@ -292,13 +292,13 @@ The *second step* is to interpret the propositional formulas in the same manner 
 
 A way to introduce algebras is as the models of some algebraic first-order language. We follow an equivalent route and give the definition of algebra using the setting of propositional languages. Let $L$ be a propositional language. An *algebra* $\bA$ of type $L$, or $L$-algebra for short, is a set $A$, called the carrier or the universe of $\bA$, together with a function $* ^{\bA}$ on $A$ of the arity of $*$, for every connective $*$ in $L$ (if $*$ is 0-ary, $* ^{\bA}$ is an element of $A)$. An algebra $\bA$ is *trivial* if its carrier is a one element set.
 
-A *valuation* on an $L$-algebra $\bA$ is a map $v$ from the set of variables into its carrier $A$. Algebras together with valuations are used to interpret in a compositional way the formulas of $L$, assuming that a connective $*$ of $L$ is interpreted in an $L$-algebra $\bA$ by the function $* ^{\bA}$. Let $\bA$ be an algebra of type $L$ and $v$ a valuation on $\bA$. The value of a compound formula $* \phi_1 \ldots \phi_n$ is computed by applying the function $* ^{\bA}$ that interprets $*$ in $\bA$ to the previously computed values $\bv(\phi_1), \ldots,\bv(\phi_n)$ of the formulas $\phi_1,\ldots,\phi_n$. Precisely speaking, the value $\bv(\phi)$ of a formula $\phi$ is defined inductively as follows:
+A *valuation* on an $L$-algebra $\bA$ is a map $v$ from the set of variables into its carrier $A$. Algebras together with valuations are used to interpret in a compositional way the formulas of $L$, assuming that a connective $*$ of $L$ is interpreted in an $L$-algebra $\bA$ by the function $* ^{\bA}$. Let $\bA$ be an algebra of type $L$ and $v$ a valuation on $\bA$. The value of a compound formula $* \phi_1 \ldots \phi_n$ is computed by applying the function $* ^{\bA}$ that interprets $*$ in $\bA$ to the previously computed values $\bv(\phi_1), \ldots,\bv(\phi_n)$ of the formulas $\phi_1,\ldots,\phi_n$. Precisely speaking, the value $\bv(\phi)$ of a formula *φ* is defined inductively as follows:
 
 1. $\bv(p) = v(p)$, for each variable $p$,
 2. $\bv(\dagger) = \dagger^{\bA}$, if $\dagger$ is a 0-ary connective
 3. $\bv(* \phi_1 \ldots \phi_n) = * ^{\bA }(\bv(\phi_1), \ldots ,\bv(\phi_n))$, if $*$ is a $n$-ary $(n \gt 0)$ connective.
 
-Note that in this way we have obtained a map $\bv$ from the set of $L$-formulas to the carrier of $\bA$. It is important to notice that the value of a formula under a valuation depends only on the propositional variables that actually appear in the formula. Accordingly, if $\phi$ is a formula, then we use the notation $\phi(p_1 , \ldots ,p_n)$ to indicate that the variables that appear in $\phi$ are in the list $p_1 , \ldots ,p_n$, and given elements $a_1 , \ldots ,a_n$ of an algebra $\bA$ we refer by $\phi^{\bA }[a_1 , \ldots ,a_n]$ to the value of $\phi(p_1 , \ldots ,p_n)$ under any valuation $v$ on $\bA$ such that $v(p_1) = a_1 , \ldots ,v(p_n) = a_n$.
+Note that in this way we have obtained a map $\bv$ from the set of $L$-formulas to the carrier of $\bA$. It is important to notice that the value of a formula under a valuation depends only on the propositional variables that actually appear in the formula. Accordingly, if *φ* is a formula, then we use the notation $\phi(p_1 , \ldots ,p_n)$ to indicate that the variables that appear in *φ* are in the list $p_1 , \ldots ,p_n$, and given elements $a_1 , \ldots ,a_n$ of an algebra $\bA$ we refer by $\phi^{\bA }[a_1 , \ldots ,a_n]$ to the value of $\phi(p_1 , \ldots ,p_n)$ under any valuation $v$ on $\bA$ such that $v(p_1) = a_1 , \ldots ,v(p_n) = a_n$.
 
 A *third* and fundamental *step* in the algebraic study of logics is to turn the set of formulas of a language $L$ into an algebra, the *algebra of formulas* of $L$, denoted by $\bFm_L$. This algebra has the set of $L$-formulas as carrier and the operations are defined as follows. For every $n$-ary connective $*$ with $n \gt 0$, the function $* ^{\bFm_L}$ is the map that sends each tuple of formulas $(\phi_1 , \ldots ,\phi_n)$ (where $n$ is the arity of $*$) to the formula $* \phi_1 \ldots \phi_n$, and for every 0-ary connective $\dagger , \dagger^{\bFm_L}$ is $\dagger$. If no confusion is likely we suppress the subindex in $\bFm_L$ and write $\bFm$ instead.
 
@@ -306,11 +306,11 @@ A *third* and fundamental *step* in the algebraic study of logics is to turn the
 
 Algebras are a particular type of structure or model. An $L$-algebra is a structure or model for the $L$-algebraic first-order language. Therefore the concepts of model theory for the first-order languages apply to them (see the entries on classical logic and first-order model theory). We need some of these concepts. They are also used in universal algebra, a field that to some extent can be considered the model theory of the algebraic languages. We introduce the definitions of the concepts we need.
 
-Given an algebra $\bA$ of type $L$, a *congruence* of $\bA$ is an equivalence relation $\theta$ on the carrier of $\bA$ that satisfies for every $n$-ary connective $* \in L$ the following compatibility property: for every $a_1 , \ldots ,a_n, b_1 , \ldots ,b_n \in A$,
+Given an algebra $\bA$ of type $L$, a *congruence* of $\bA$ is an equivalence relation *θ* on the carrier of $\bA$ that satisfies for every $n$-ary connective $* \in L$ the following compatibility property: for every $a_1 , \ldots ,a_n, b_1 , \ldots ,b_n \in A$,
 
 $$ \textrm{if } a_1\theta b_1 , \ldots ,a_n \theta b_1, \textrm{ then } *^{\bA}(a_1 ,\ldots ,a_n)\ \theta *^{\bA}(b_1 ,\ldots ,b_n). $$
 
-Given a congruence $\theta$ of $\bA$ we can reduce the algebra by identifying the elements which are related by $\theta$. The algebra obtained is the *quotient algebra* of $\bA$ modulo $\theta$. It is denoted by $\bA/\theta$, its carrier is the set $A/\theta$ of equivalence classes $[a]$ of the elements $a$ of $A$ modulo the equivalence relation $\theta$, and the operations are defined as follows:
+Given a congruence *θ* of $\bA$ we can reduce the algebra by identifying the elements which are related by *θ*. The algebra obtained is the *quotient algebra* of $\bA$ modulo *θ*. It is denoted by $\bA/\theta$, its carrier is the set $A/\theta$ of equivalence classes $[a]$ of the elements $a$ of $A$ modulo the equivalence relation *θ*, and the operations are defined as follows:
 
 1. $\dagger^{\bA/\theta} = [\dagger^{\bA}]$, for every 0-ary connective $\dagger$,
 2. $* ^{\bA/\theta}([a_1], \ldots, [a_n]) = [* ^{\bA }(a_1 ,\ldots ,a_n)]$, for every connective $*$ whose arity is $n$ and $n \gt 0$.
@@ -332,7 +332,7 @@ We refer the reader to the entry on first-order model theory for the notions of 
 
 The majority of classes of algebras that provide semantics for propositional logics are quasivarieties and in most cases varieties. The theory of varieties and quasivarieties is one of the main subjects of universal algebra.
 
-An equational class of $L$-algebras is a class of $L$-algebras that is definable in a very simple way (by equations) using the $L$-algebraic language. An $L$-*equation* is a formula $\phi \approx \psi$ where $\phi$ and $\psi$ are terms of the $L$-algebraic language (that is, $L$-formulas if we take the propositional logic's point of view) and '$\approx$' is the formal symbol for the equality (always to be interpreted as the identity relation). An equation $\phi \approx \psi$ is *valid* in an algebra $\bA$, or $\bA$ is a *model* of $\phi \approx \psi$, if for every valuation $v$ on $\bA, \bv(\phi) = \bv(\psi)$. This is exactly the same as to saying that the universal closure of $\phi \approx \psi$ is a sentence true in $\bA$ according to the usual semantics for first-order logic with equality. An *equational class* of $L$-algebras is a class of $L$-algebras which is the class of all the models of a given set of $L$-equations.
+An equational class of $L$-algebras is a class of $L$-algebras that is definable in a very simple way (by equations) using the $L$-algebraic language. An $L$-*equation* is a formula $\phi \approx \psi$ where *φ* and *ψ* are terms of the $L$-algebraic language (that is, $L$-formulas if we take the propositional logic's point of view) and '$\approx$' is the formal symbol for the equality (always to be interpreted as the identity relation). An equation $\phi \approx \psi$ is *valid* in an algebra $\bA$, or $\bA$ is a *model* of $\phi \approx \psi$, if for every valuation $v$ on $\bA, \bv(\phi) = \bv(\psi)$. This is exactly the same as to saying that the universal closure of $\phi \approx \psi$ is a sentence true in $\bA$ according to the usual semantics for first-order logic with equality. An *equational class* of $L$-algebras is a class of $L$-algebras which is the class of all the models of a given set of $L$-equations.
 
 A quasi-equational class of $L$-algebras is a class of $L$-algebras definable using the $L$-algebraic language in a slightly more complex way than in equational.classes. A *proper $L$-quasiequation* is a formula of the form $$\bigwedge_{i \le n} \phi_i \approx \psi_i \rightarrow \phi \approx \psi.$$ An $L$-*quasiequation* is a formula of the above form but possibly with an empty antecedent, in which case it is just the equation $\phi \approx \psi$. Hence, the $L$-quasiequations are the proper $L$-quasiequations and the $L$-equations. An $L$-quasiequation is *valid* in an $L$-algebra $\bA$, or the algebra is a model of it, if the universal closure of the quasiequation is sentence true in $\bA$. A *quasi-equational class* of $L$-algebras is a class of algebras that is the class of the models of a given set of $L$-quasiequations. Since equations are quasiequations, every equational class is quasi-equational. The converse is false. Moreover, since in the trivial algebras all the equations and all the quasiequations of the appropriate algebraic language are valid, equational and quasi-equational classes are nonempty.
 
@@ -398,13 +398,13 @@ The interested reader can examine Blok & Rebagliato 2003 for a study devoted to 
 
 There is a particular, and important, kind of logics with an algebraic semantics that includes classical and intuitionistic logics. It is the class of the so-called assertional logics.
 
-Let $\bK$ be a class of algebras in an algebraic language with a constant term for $\bK$, i.e., a formula $\phi(p_1 , \ldots ,p_n)$ such that for every algebra $\bA\in \bK$ and elements $a_1 , \ldots ,a_n, b_1, \ldots, b_n$ of $\bA$, $\phi^{\bA }[a_1 , \ldots ,a_n] = \phi^{\bA }[b_1 , \ldots ,b_n]$, that is, in every algebra in $\bK$, $\phi$ takes the same value whatever is the way we interpret the variable in $\phi$ on $\bA$. We denote this value by $\phi^{\bA}$. Thus $\phi$ acts as a constant (relative to the algebras in $\bK$) and $\phi^{\bA}$ (for $\bA\in \bK$) can be taken as a designated element.
+Let $\bK$ be a class of algebras in an algebraic language with a constant term for $\bK$, i.e., a formula $\phi(p_1 , \ldots ,p_n)$ such that for every algebra $\bA\in \bK$ and elements $a_1 , \ldots ,a_n, b_1, \ldots, b_n$ of $\bA$, $\phi^{\bA }[a_1 , \ldots ,a_n] = \phi^{\bA }[b_1 , \ldots ,b_n]$, that is, in every algebra in $\bK$, *φ* takes the same value whatever is the way we interpret the variable in *φ* on $\bA$. We denote this value by $\phi^{\bA}$. Thus *φ* acts as a constant (relative to the algebras in $\bK$) and $\phi^{\bA}$ (for $\bA\in \bK$) can be taken as a designated element.
 
-Given a class of algebras $\bK$ in an algebraic language with a constant term $\phi$ for $\bK$, the *assertional logic* $\bL_{\bK}^{\phi}$ *of* ($\bK, \phi$) is defined by
+Given a class of algebras $\bK$ in an algebraic language with a constant term *φ* for $\bK$, the *assertional logic* $\bL_{\bK}^{\phi}$ *of* ($\bK, \phi$) is defined by
 
 $\Gamma \vdash_{\bL_{\bK}^{\phi} } \phi \txtiff$ for every $\bA \in \bK(\bL)$ and every valuation v on $\bA$, if $\bv(\psi) = \phi^{\bA}$ for all $\psi \in \Gamma $, then $\bv(\phi) = \phi^{\bA}$.
 
-A logic system $\bL$ is *assertional* when there exists a class of algebras $\bK$ in the algebraic language of $\bL$ and a constant term $\phi$ for $\bK$ such that $\bL$ = $\bL_{\bK}^{\phi}$.
+A logic system $\bL$ is *assertional* when there exists a class of algebras $\bK$ in the algebraic language of $\bL$ and a constant term *φ* for $\bK$ such that $\bL$ = $\bL_{\bK}^{\phi}$.
 
 The most recent study of assertional logics is Albuquerque et al. 2018. We address the reader to this paper where the classification of the assertional logics in the Leibniz and Frege hierarchies of logic systems that we present in later sections is addressed and several examples are discussed.
 
@@ -418,7 +418,7 @@ The general theory of logical matrices explained in this entry is due mainly to 
 
 In the rest of the section, we present the relevant concepts of the theory of logical matrices using modern terminology.
 
-Given a logic $\bL$, a logical matrix $\langle \bA, D \rangle$ is said to be a *model* of $\bL$ if wherever $\Gamma \vdash_{\bL } \phi$, then every valuation $v$ on $\bA$ that maps the elements of $\Gamma$ to some designated value (i.e., an element of $D)$ also maps $\phi$ to a designated value. When $\langle \bA, D \rangle$ is a model of $\bL$ it is said that $D$ is an $\bL$-*filter* of the algebra $\bA$. The set of $\bL$-filters of an algebra $\bA$ plays a crucial role in the theory of the algebraization of logic systems. We will come to this point later.
+Given a logic $\bL$, a logical matrix $\langle \bA, D \rangle$ is said to be a *model* of $\bL$ if wherever $\Gamma \vdash_{\bL } \phi$, then every valuation $v$ on $\bA$ that maps the elements of *Γ* to some designated value (i.e., an element of $D)$ also maps *φ* to a designated value. When $\langle \bA, D \rangle$ is a model of $\bL$ it is said that $D$ is an $\bL$-*filter* of the algebra $\bA$. The set of $\bL$-filters of an algebra $\bA$ plays a crucial role in the theory of the algebraization of logic systems. We will come to this point later.
 
 A class $\bM$ of logical matrices is said to be a *matrix semantics* for a logic $\bL$ if
 
@@ -426,7 +426,7 @@ A class $\bM$ of logical matrices is said to be a *matrix semantics* for a logic
 
 $ \Gamma \vdash_{\bL } \phi\txtiff$ for every $\langle \bA, \tD \rangle \in \bM$ and every valuation $v$ on $\bA$, if $\bv[\Gamma] \subseteq D$, then $\bv(\phi) \in D$.
 
-The implication from left to right says that $\bL$ is sound relative to $\bM$, and the other implication says that it is complete. In other words, $\bM$ is a matrix semantics for $\bL$ if and only if every matrix in $\bM$ is a model of $\bL$ and moreover for every $\Gamma$ and $\phi$ such that $\Gamma \not\vdash_{\bL } \phi$ there is a model $\langle \bA, \tD \rangle$ of $\bL$ in $\bM$ that witnesses the fact, namely there is a valuation on the model that sends the formulas in $\Gamma$ to designated elements and $\phi$ to a non-designated one.
+The implication from left to right says that $\bL$ is sound relative to $\bM$, and the other implication says that it is complete. In other words, $\bM$ is a matrix semantics for $\bL$ if and only if every matrix in $\bM$ is a model of $\bL$ and moreover for every *Γ* and *φ* such that $\Gamma \not\vdash_{\bL } \phi$ there is a model $\langle \bA, \tD \rangle$ of $\bL$ in $\bM$ that witnesses the fact, namely there is a valuation on the model that sends the formulas in *Γ* to designated elements and *φ* to a non-designated one.
 
 Logical matrices are also used to define logics semantically. If $\cM = \langle \bA, D \rangle$ is a logical matrix, the relation defined by
 
@@ -450,17 +450,17 @@ We now discuss the method that is most commonly used to prove that a class of al
 
 The Lindenbaum-Tarski method contributed in two respects to the elaboration of important notions in the theory of the algebraization of logics. It underlies Blok and Pigozzi’s notion of algebraizable logic and reflecting on it some ways to define for each logic a class of algebras can be justified as providing a natural class. We will consider this issue in Section 8.
 
-The Lindenbaum-Tarski method can be outlined as follows. To prove that a class of algebras $\bK$ is a $\delta(p) \approx \varepsilon(p)$-algebraic semantics for a logic $\bL$ first it is shown that $\bK$ gives a sound $\delta(p) \approx \varepsilon(p)$-semantics for $\bL$, namely that if $\Gamma \vdash_{\bL } \phi$, then for every $\bA \in \bK$ and every valuation $v$ in $\bA$ if the values of the formulas in $\Gamma$ satisfy $\delta(p) \approx \varepsilon(p)$, then the value of $\phi$ does too. Secondly, the other direction, that is, the completeness part, is proved by what is properly known as the Lindenbaum-Tarski method. This method uses the theories of $\bL$ to obtain matrices on the algebra of formulas and then reduces these matrices in order to get for each one a matrix whose algebra is in $\bK$ and whose set of designated elements is the set of elements of the algebra that satisfy $\delta(p) \approx \varepsilon(p)$. We proceed to describe the method step by step.
+The Lindenbaum-Tarski method can be outlined as follows. To prove that a class of algebras $\bK$ is a $\delta(p) \approx \varepsilon(p)$-algebraic semantics for a logic $\bL$ first it is shown that $\bK$ gives a sound $\delta(p) \approx \varepsilon(p)$-semantics for $\bL$, namely that if $\Gamma \vdash_{\bL } \phi$, then for every $\bA \in \bK$ and every valuation $v$ in $\bA$ if the values of the formulas in *Γ* satisfy $\delta(p) \approx \varepsilon(p)$, then the value of *φ* does too. Secondly, the other direction, that is, the completeness part, is proved by what is properly known as the Lindenbaum-Tarski method. This method uses the theories of $\bL$ to obtain matrices on the algebra of formulas and then reduces these matrices in order to get for each one a matrix whose algebra is in $\bK$ and whose set of designated elements is the set of elements of the algebra that satisfy $\delta(p) \approx \varepsilon(p)$. We proceed to describe the method step by step.
 
-Let $\bL$ be one of the logics discussed in the examples in Section 5. Let $\bK$ be the corresponding class of algebras we considered there and let $\delta(p) \approx \varepsilon(p)$ be the equation in one variable involved in the soundness and completeness theorem. To prove the completeness theorem one proceeds as follows. Given any set of formulas $\Gamma$:
+Let $\bL$ be one of the logics discussed in the examples in Section 5. Let $\bK$ be the corresponding class of algebras we considered there and let $\delta(p) \approx \varepsilon(p)$ be the equation in one variable involved in the soundness and completeness theorem. To prove the completeness theorem one proceeds as follows. Given any set of formulas *Γ*:
 
-1. The theory $C_{\bL }(\Gamma) = \{\phi : \Gamma \vdash_{\bL } \phi \}$ of $\Gamma$, which we denote by $T$, is considered and the binary relation $\theta(T)$ on the set of formulas is defined using the formula $p \leftrightarrow q$ as follows: $$\langle \phi , \psi \rangle \in \theta(T) \txtiff \phi \leftrightarrow \psi \in T.$$
-2. It is shown that $\theta(T)$ is a congruence relation on $\bFm_L$. The set $[\phi]$ of the formulas related to the formula $\phi$ by $\theta(T)$ is called the equivalence class of $\phi$.
+1. The theory $C_{\bL }(\Gamma) = \{\phi : \Gamma \vdash_{\bL } \phi \}$ of *Γ*, which we denote by $T$, is considered and the binary relation $\theta(T)$ on the set of formulas is defined using the formula $p \leftrightarrow q$ as follows: $$\langle \phi , \psi \rangle \in \theta(T) \txtiff \phi \leftrightarrow \psi \in T.$$
+2. It is shown that $\theta(T)$ is a congruence relation on $\bFm_L$. The set $[\phi]$ of the formulas related to the formula *φ* by $\theta(T)$ is called the equivalence class of *φ*.
 3. A new matrix $\langle \bFm/\theta(T), T/\theta(T) \rangle$ is obtained by identifying the formulas related by $\theta(T)$, that is, $\bFm/\theta(T)$ is the quotient algebra of $\bFm$ modulo $\theta(T)$ and $T/\theta(T)$ is the set of equivalence classes of the elements of $T$. Recall that the algebraic operations of the quotient algebra are defined by: $$* ^{\bFm/\theta(T) }([\phi_1],\ldots ,[\phi_n]) = [* \phi_1 \ldots \phi_n ] \;\;\; \text{and} \;\;\; \dagger^{\bFm/\theta(T) } = [\dagger]$$
 4. It is shown that $\theta(T)$ is a relation compatible with $T$, i.e., that if $\langle \phi , \psi \rangle \in \theta(T)$ and $\phi \in T$, then $\psi \in T$. This implies that $$\phi \in T \txtiff [\phi] \subseteq T \txtiff [\phi] \in T/\theta(T).$$
 5. It is proved that the matrix $\langle \bFm/\theta(T), T/\theta(T) \rangle$ is reduced, that $\bFm/\theta(T)$ belongs to $\bK$ and that $T/\theta(T)$ is the set of elements of $\bFm/\theta(T)$ that satisfy the equation $\delta(p) \approx \varepsilon(p)$ in $\bFm/\theta(T)$.
 
-The proof of the completeness theorem then proceeds as follows. (4) and (5) imply that for every formula $\psi , \Gamma \vdash_{\bL } \psi$ if and only if $[\psi]$ satisfies the equation $\delta(p) \approx \varepsilon(p)$ in the algebra $\bFm/\theta(T)$. Thus, considering the valuation $id$ mapping every variable $p$ to its equivalence class $[p]$, whose extension $\boldsymbol{id}$ to the set of all formulas is such that $\boldsymbol{id}(\phi) = [\phi]$ for every formula $\phi$, we have for every formula $\psi$,
+The proof of the completeness theorem then proceeds as follows. (4) and (5) imply that for every formula $\psi , \Gamma \vdash_{\bL } \psi$ if and only if $[\psi]$ satisfies the equation $\delta(p) \approx \varepsilon(p)$ in the algebra $\bFm/\theta(T)$. Thus, considering the valuation $id$ mapping every variable $p$ to its equivalence class $[p]$, whose extension $\boldsymbol{id}$ to the set of all formulas is such that $\boldsymbol{id}(\phi) = [\phi]$ for every formula *φ*, we have for every formula *ψ*,
 
 $\Gamma \vdash_{\bL } \psi \txtiff\boldsymbol{id}(\psi)$ satisfies the equation $\delta(p) \approx \varepsilon(p)$ in $\bFm/\theta(T)$.
 
@@ -472,7 +472,7 @@ Let us make some remarks on the Lindenbaum-Tarski method just described. The fir
 
 1. Conditions (4) and (5) imply that $\theta(T)$ is in fact the Leibniz congruence of $\langle \bFm_L, T \rangle$.
 2. When the Lindenbaum-Tarski method succeeds, it usually holds that in every algebra $\bA \in \bK$, the relation defined by the equation $$\delta(p \leftrightarrow q) \approx \varepsilon(p \leftrightarrow q),$$ which is the result of replacing in $\delta(p) \approx \varepsilon(p)$ the letter $p$ by the formula $p \leftrightarrow q$ that defines the congruence relation of a theory, is the identity relation on $A$.
-3. For every formula $\phi$, the formulas $\delta(p/\phi) \leftrightarrow \varepsilon(p/\phi)$ and $\phi$ are interderivable in $\bL$ (i.e., $\phi \vdash_{\bL } \delta(p/\phi) \leftrightarrow \varepsilon(p/\phi)$ and $\delta(p/\phi) \leftrightarrow \varepsilon(p/\phi) \vdash_{\bL } \phi)$.
+3. For every formula *φ*, the formulas $\delta(p/\phi) \leftrightarrow \varepsilon(p/\phi)$ and *φ* are interderivable in $\bL$ (i.e., $\phi \vdash_{\bL } \delta(p/\phi) \leftrightarrow \varepsilon(p/\phi)$ and $\delta(p/\phi) \leftrightarrow \varepsilon(p/\phi) \vdash_{\bL } \phi)$.
 
 The concept of algebraizable logic introduced by Blok and Pigozzi, which we will discuss in Section 9, can be described roughly by saying that a logic $\bL$ is algebraizable if it has an algebraic semantics $(\bK, \iEq)$ such that (1) $\bK$ is included in the natural class of algebras $\bAlg^*\bL$ associated with $\bL$ and (2) the fact that $(\bK, \iEq)$ is an algebraic semantics can be proved by using the Lindenbaum-Tarski method slightly generalized.
 
@@ -510,11 +510,11 @@ We said in Section 7 that, roughly speaking, a logic $\bL$ is algebraizable when
 
 $$\langle \phi , \psi \rangle \in \theta(T) \txtiff \Delta(p/\phi , q/\psi) \subseteq T.$$
 
-We need some notational conventions before engaging in the precise definition of algebraizable logic. Given a set of equations $\iEq(p)$ in one variable and a formula $\phi$, let $\iEq(\phi)$ be the set of equations obtained by replacing in all the equations in $\iEq$ the variable $p$ by $\phi$. If $\Gamma$ is a set of formulas, let
+We need some notational conventions before engaging in the precise definition of algebraizable logic. Given a set of equations $\iEq(p)$ in one variable and a formula *φ*, let $\iEq(\phi)$ be the set of equations obtained by replacing in all the equations in $\iEq$ the variable $p$ by *φ*. If *Γ* is a set of formulas, let
 
 $$\iEq(\Gamma) := \bigcup_{\phi \in \Gamma}\iEq(\phi).$$
 
-Similarly, given a set of formulas in two variables $\Delta(p, q)$ and an equation $\delta \approx \varepsilon$, let $\Delta(\delta , \varepsilon)$ denote the set of formulas obtained by replacing $p$ by $\delta$ and $q$ by $\varepsilon$ in all the formulas in $\Delta$. Moreover, if $\iEq$ is a set of equations, let
+Similarly, given a set of formulas in two variables $\Delta(p, q)$ and an equation $\delta \approx \varepsilon$, let $\Delta(\delta , \varepsilon)$ denote the set of formulas obtained by replacing $p$ by *δ* and $q$ by *ε* in all the formulas in $\Delta$. Moreover, if $\iEq$ is a set of equations, let
 
 $$\Delta(\iEq) = \bigcup_{\delta \approx \varepsilon \in \iEq} \Delta(\delta , \varepsilon).$$
 
@@ -569,7 +569,7 @@ Given an algebraic semantics $(\bK, \iEq)$ for a logic $\bL$, a way to stress th
 
 The link between an algebraizable logic $\bL$ and its greatest equivalent algebraic semantics given by the set of defining equations and the set of equivalence formulas allows us to prove a series of general theorems that relate the properties of $\bL$ with the properties of $\bAlg\bL$. These kinds of theorems are called frequently bridge theorems. We will mention as a sample three of them.
 
-The first concerns the deduction theorem. To prove a general theorem relating the existence of a deduction theorem with an algebraic property requires first that a concept of deduction theorem applicable to any logic has to be defined. A logic $\bL$ has the *deduction-detachment property* if there is a finite set of formulas $\Sigma(p, q)$ such that for every set of formulas $\Gamma$ and all formulas $\phi , \psi$
+The first concerns the deduction theorem. To prove a general theorem relating the existence of a deduction theorem with an algebraic property requires first that a concept of deduction theorem applicable to any logic has to be defined. A logic $\bL$ has the *deduction-detachment property* if there is a finite set of formulas $\Sigma(p, q)$ such that for every set of formulas *Γ* and all formulas $\phi , \psi$
 
 $$\Gamma \cup \{\phi \} \vdash_{\bL } \psi\txtiff\Gamma \vdash_{\bL } \Sigma(\phi , \psi).$$
 
@@ -577,7 +577,7 @@ Note that this is a generalization of the standard deduction theorem (the direct
 
 **Theorem 1.** A finitary and finitely algebraizable logic $\bL$ has the deduction-detachment property if and only if the principal relative congruences of the algebras in $\bAlg\bL$ are equationally definable.
 
-The second theorem refers to Craig interpolation. Several notions of interpolation are applicable to arbitrary logics. We consider only one of them. A logic $\bL$ has the *Craig interpolation property* for the consequence relation if whenever $\Gamma \vdash_{\bL } \phi$ and the set of variables of $\phi$ has nonempty intersection with the set of variables of formulas in $\Gamma$, there is a finite set of formulas $\Gamma '$ whose set of variables is included in the set of variables shared by $\phi$ and the formulas in $\Gamma$ such that $\Gamma \vdash_{\bL } \Gamma '$ and $\Gamma ' \vdash_{\bL } \phi$.
+The second theorem refers to Craig interpolation. Several notions of interpolation are applicable to arbitrary logics. We consider only one of them. A logic $\bL$ has the *Craig interpolation property* for the consequence relation if whenever $\Gamma \vdash_{\bL } \phi$ and the set of variables of *φ* has nonempty intersection with the set of variables of formulas in *Γ*, there is a finite set of formulas $\Gamma '$ whose set of variables is included in the set of variables shared by *φ* and the formulas in *Γ* such that $\Gamma \vdash_{\bL } \Gamma '$ and $\Gamma ' \vdash_{\bL } \phi$.
 
 **Theorem 2.** Let $\bL$ be a finitary and finitely algebraizable logic with the deduction-detachment property. Then $\bL$ has the Craig interpolation property if and only if $\bAlg\bL$ has the amalgamation property.
 
@@ -591,13 +591,13 @@ For several classes of algebras that are the equivalent algebraic semantics of s
 
 Algebraizable logics can be characterized by the existence of this kind of isomorphism between congruences and logic filters on the algebras of their algebraic counterpart. To spell out this characterization we need a couple of definitions. Let $\bL$ be a logic. The *Leibniz operator* on an algebra $\bA$ (relative to $\bL)$ is the map from the $\bL$-filters of $\bA$ to the set of congruences of $\bA$ that sends every $\bL$-filter $D$ of $\bA$ to its Leibniz congruence $\bOmega_{\bA }(D)$. We say that the Leibniz operator of a logic $\bL$ *commutes with the inverses of homomorphisms* between algebras in a class $\bK$ if for every homomorphism $h$ from an algebra $\bA \in \bK$ to an algebra $\bB \in \bK$ and every $\bL$-filter $D$ of $\bB, h^{-1}[\bOmega_{\bB }(D)] = \bOmega_{\bA }(h^{-1}[D]$).
 
-**Theorem 4.** A logic $\bL$ is algebraizable if and only if for every algebra $\bA \in \bAlg\bL$ the Leibniz operator commutes with the inverses of homomorphisms between algebras in $\bAlg\bL$ and is an isomorphism between the set of all $\bL$-filters of $\bA$, ordered by inclusion, and the set of congruences $\theta$ of $\bA$ such that $\bA/\theta \in \bAlg\bL$, ordered also by inclusion.
+**Theorem 4.** A logic $\bL$ is algebraizable if and only if for every algebra $\bA \in \bAlg\bL$ the Leibniz operator commutes with the inverses of homomorphisms between algebras in $\bAlg\bL$ and is an isomorphism between the set of all $\bL$-filters of $\bA$, ordered by inclusion, and the set of congruences *θ* of $\bA$ such that $\bA/\theta \in \bAlg\bL$, ordered also by inclusion.
 
 The theorem provides a logical explanation of the known isomorphisms mentioned above and similar ones for other classes of algebras. For example, the isomorphism between the congruences and the normal subgroups of a group can be explained by the existence of an algebraizable logic $\bL$ of which the class of groups is its greatest equivalent algebraic semantics and the normal subgroups of a group are its $\bL$-filters.
 
 A different but related characterization of algebraizable logics is this:
 
-**Theorem 5.** A logic $\bL$ is algebraizable if and only if on the algebra of formulas $\bFm_L$, the map that sends every theory $T$ to its Leibniz congruence commutes with the inverses of homomorphisms from $\bFm_L$ to $\bFm_L$ and it is an isomorphism between the set $\tTH(\bL)$ of theories of $\bL$, ordered by inclusion, and the set of congruences $\theta$ of $\bFm_L$ such that $\bFm_L /\theta \in \bAlg\bL$, also ordered by inclusion.
+**Theorem 5.** A logic $\bL$ is algebraizable if and only if on the algebra of formulas $\bFm_L$, the map that sends every theory $T$ to its Leibniz congruence commutes with the inverses of homomorphisms from $\bFm_L$ to $\bFm_L$ and it is an isomorphism between the set $\tTH(\bL)$ of theories of $\bL$, ordered by inclusion, and the set of congruences *θ* of $\bFm_L$ such that $\bFm_L /\theta \in \bAlg\bL$, also ordered by inclusion.
 
 ## 10. A classification of logics
 
@@ -615,7 +615,7 @@ A lesson to draw from this example is that the algebraic counterpart $\bAlg\bL$ 
 
 What causes this difference between $\bgK$ and $\blK$ is that the class of reduced matrix models of $\bgK$ is $$\{\langle \bA, \{1^{\bA }\}\rangle : \bA \in \bMA\},$$ but the class of reduced matrix models of $\blK$ properly includes this class so that for some algebras $\bA \in \bMA$, in addition to $\{1^{\bA }\}$ there is some other $\blK$-filter $F$ with $\langle \bA, F \rangle$ reduced. This fact provides a way to show that $\blK$ can not be algebraizable by showing that the $\blK$-filters of the reduced matrices are not equationally definable from the algebras; if they where, then for every $\bA \in \bAlg \blK$ there would exist exactly one $\blK$-filter $F$ of $\bA$ such that $\langle \bA, F \rangle$ is reduced.
 
-Nonetheless, we can perform some of the steps of the Lindenbaum-Tarski method in the logic $\blK$. We can define the Leibniz congruence of every $\blK$-theory in a uniform way by using formulas in two variables. But in this particular case the set of formulas has to be infinite. Let $\Delta(p, q) = \{\Box^n (p \leftrightarrow q): n$ a natural number$\}$, where for every formula $\phi , \Box^0\phi$ is $\phi$ and $\Box^n\phi$ for $n \gt 0$ is the formula $\phi$ with a sequence of $n$ boxes in front $(\Box \ldots \Box \phi)$. Then, for every $\blK$-theory $T$ the relation $\theta(T)$ defined by
+Nonetheless, we can perform some of the steps of the Lindenbaum-Tarski method in the logic $\blK$. We can define the Leibniz congruence of every $\blK$-theory in a uniform way by using formulas in two variables. But in this particular case the set of formulas has to be infinite. Let $\Delta(p, q) = \{\Box^n (p \leftrightarrow q): n$ a natural number$\}$, where for every formula $\phi , \Box^0\phi$ is *φ* and $\Box^n\phi$ for $n \gt 0$ is the formula *φ* with a sequence of $n$ boxes in front $(\Box \ldots \Box \phi)$. Then, for every $\blK$-theory $T$ the relation $\theta(T)$ defined by
 
 $$\langle \phi , \psi \rangle \in \theta(T)\txtiff \{\Box^n (\phi \leftrightarrow \psi): n \textrm{ a natural number}\} \subseteq T$$
 
@@ -707,11 +707,11 @@ Recently, the Leibniz hierarchy has been refined in Cintula & Noguera 2010, 2016
 
 Two classes of logics that are not classes of the Leibniz hierarchy have been extensively studied in abstract algebraic logic. They are defined from a completely different perspective from the one provided by the behavior of the Leibniz operator, namely from the perspective given by the replacement principles a logic might enjoy.
 
-The strongest replacement principle that a logic system $\bL$ might have, shared for example by classical logic, intuitionistic logic and all its axiomatic extensions, says that for any set of formulas $\Gamma$, any formulas $\phi , \psi , \delta$ and any variable $p$
+The strongest replacement principle that a logic system $\bL$ might have, shared for example by classical logic, intuitionistic logic and all its axiomatic extensions, says that for any set of formulas *Γ*, any formulas $\phi , \psi , \delta$ and any variable $p$
 
 if $\Gamma , \phi \vdash_{\bL } \psi$ and $\Gamma , \psi \vdash_{\bL } \phi$, then $\Gamma , \delta(p/\phi) \vdash_{\bL } \delta(p/\psi)$ and $\Gamma , \delta(p/\psi) \vdash_{\bL } \delta(p/\phi)$,
 
-where $\delta(p/\phi)$ and $\delta(p/\psi)$ are the formulas obtained by substituting respectively $\phi$ and $\psi$ for $p$ in $\delta$. This replacement property is taken by some authors as the formal counterpart of Frege’s principle of compositionality for truth. Logics satisfying this strong replacement property are called *Fregean* in Font & Jansana 1996 and are thoroughly studied in Czelakowski & Pigozzi 2004a, 2004b.
+where $\delta(p/\phi)$ and $\delta(p/\psi)$ are the formulas obtained by substituting respectively *φ* and *ψ* for $p$ in *δ*. This replacement property is taken by some authors as the formal counterpart of Frege’s principle of compositionality for truth. Logics satisfying this strong replacement property are called *Fregean* in Font & Jansana 1996 and are thoroughly studied in Czelakowski & Pigozzi 2004a, 2004b.
 
 Many important logics do not satisfy the strong replacement property, for instance almost all the logics (local or global) of the modal family, but some, like the local consequence relation of a normal modal logic, satisfy a weaker replacement principle: for all formulas $\phi , \psi , \delta$,
 
@@ -753,7 +753,7 @@ This logic is the logic in the language of intuitionistic logic that has to the 
 
 ### 12.4 The strict implication fragment of the local modal logic **lK**
 
-The strict implication of the language of modal logic is defined using the $\Box$ operator and the material implication $\rightarrow$. We will use $\Rightarrow$ for the strict implication. Its definition is $\phi \Rightarrow \psi := \Box(\phi \rightarrow \psi)$. The language of the logic $\bSilK$, that we call the strict implication fragment of the local modal logic $\blK$, is the language $L = \{\wedge , \vee , \bot , \top , \Rightarrow \}$. We can translate the formulas of $L$ to formulas of the modal language by systematically replacing in an $L$-formula $\phi$ every subformula of the form $\psi \Rightarrow \delta$ by $\Box(\psi \rightarrow \delta)$ and repeating the process until no appearance of $\Rightarrow$ is left. Let us denote by $\phi^*$ the translation of $\phi$ and by $\Gamma^*$ the set of the translations of the formulas in $\Gamma$. Then the definition of the consequence relation of $\bSilK$ is:
+The strict implication of the language of modal logic is defined using the $\Box$ operator and the material implication $\rightarrow$. We will use $\Rightarrow$ for the strict implication. Its definition is $\phi \Rightarrow \psi := \Box(\phi \rightarrow \psi)$. The language of the logic $\bSilK$, that we call the strict implication fragment of the local modal logic $\blK$, is the language $L = \{\wedge , \vee , \bot , \top , \Rightarrow \}$. We can translate the formulas of $L$ to formulas of the modal language by systematically replacing in an $L$-formula *φ* every subformula of the form $\psi \Rightarrow \delta$ by $\Box(\psi \rightarrow \delta)$ and repeating the process until no appearance of $\Rightarrow$ is left. Let us denote by $\phi^*$ the translation of *φ* and by $\Gamma^*$ the set of the translations of the formulas in *Γ*. Then the definition of the consequence relation of $\bSilK$ is:
 
 $$\Gamma \vdash_{\bSilK } \phi\txtiff\Gamma^* \vdash_{\blK } \phi^*.$$
 
@@ -769,7 +769,7 @@ The logical matrix models of a given logic can be thought of as algebraic genera
 
 Let $L$ be a propositional language. An $L$-*abstract logic* is a pair $\cA = \langle \bA$, C $\rangle$ where $\bA$ is an $L$-algebra and $C$ an abstract consequence operation on $A$.
 
-Given a logic system $\bL$, an $L$-abstract logic $\cA = \langle \bA, C \rangle$ is a *model* of $\bL$ if for every set of formulas $\Gamma$ and every formula $\phi$
+Given a logic system $\bL$, an $L$-abstract logic $\cA = \langle \bA, C \rangle$ is a *model* of $\bL$ if for every set of formulas *Γ* and every formula *φ*
 
 $\Gamma \vdash_{\bL } \phi\txtiff$ for every valuation $v$ on $\bA, \bv(\phi) \in C(\bv[\Gamma])$.
 
@@ -808,7 +808,7 @@ Let $\bL$ be a logic system.
 1. $\bL$ is protoalgebraic if and only if for every full g-model $\langle \bA, \cC \rangle$ there exists an $\bL$-filter $F$ of $\bA$ such that $\cC = \{G \in \tFi_{\bL }\bA: F \subseteq G\}$.
 2. If $\bL$ is finitary, $\bL$ is finitely algebraizable if and only if for every algebra $\bA$ and every $\bL$-filter $F$ of $\bA$, the generalized matrix $\langle \bA, \{G \in \tFi_{\bL }\bA: F \subseteq G\} \rangle$ is a full g-model and $\bAlg\bL$ is a quasivariety.
 3. The class $\bAlg\bL$ is both the class of algebras of the reduced generalized matrix models of $\bL$ and the class $\{\bA: \langle \bA, \tFi_{\bL }\bA \rangle$ is reduced$\}$.
-4. For every algebra $\bA$ there is an isomorphism between the family of closed-set systems $\cC$ on $A$ such that $\langle\bA, \cC\rangle$ is a full g-model of $\bL$ and the family of congruences $\theta$ of $\bA$ such that $\bA/\theta \in \bAlg\bL$. The isomorphism is given by the Tarski operator that sends a generalized matrix to its Tarski congruence.
+4. For every algebra $\bA$ there is an isomorphism between the family of closed-set systems $\cC$ on $A$ such that $\langle\bA, \cC\rangle$ is a full g-model of $\bL$ and the family of congruences *θ* of $\bA$ such that $\bA/\theta \in \bAlg\bL$. The isomorphism is given by the Tarski operator that sends a generalized matrix to its Tarski congruence.
 
 The isomorphism theorem (4) above is a generalization of the isomorphism theorems we encountered earlier for algebraizable logics. What is interesting here is that the theorem holds for every logic system. Using (2) above, theorem (4) entails the isomorphism theorem for finitary and finitely algebraizable logics. Thus theorem (4) can be seen as the most general formulation of the mathematical logical phenomena that underlies the isomorphism theorems between the congruences of the algebras in a certain class and some kind of subsets of them we mentioned in Section 9.
 
@@ -968,9 +968,9 @@ algebra | Boole, George | Boolean algebra: the mathematics of | logic: classical
 
 [^galatos-2009]: Galatos, Nikolaos and Constantine Tsinakis, 2009, “Equivalence of consequence relations: an order-theoretic and categorical perspective”, *The Journal of Symbolic Logic*, 74(3): 780–810. doi:10.2178/jsl/1245158085
 
-[^galatos-2017]: Galatos, Nikolaos and José Gil-Férez, 2017, “Modules over quataloids: Applications to the isomorphism problem in algebraic logic and $\pi$-institutions”, *Journal of Pure and Applied Algebra*, 221(1): 1–24. doi:10.1016/j.jpaa.2016.05.012
+[^galatos-2017]: Galatos, Nikolaos and José Gil-Férez, 2017, “Modules over quataloids: Applications to the isomorphism problem in algebraic logic and *π*-institutions”, *Journal of Pure and Applied Algebra*, 221(1): 1–24. doi:10.1016/j.jpaa.2016.05.012
 
-[^gil-férez-2006]: Gil-Férez, José, 2006, “Multi-term $\pi$-institutions and their equivalence”, *Mathematical Logic Quarterly*, 52(5): 505–526. doi:10.1002/malq.200610010
+[^gil-férez-2006]: Gil-Férez, José, 2006, “Multi-term *π*-institutions and their equivalence”, *Mathematical Logic Quarterly*, 52(5): 505–526. doi:10.1002/malq.200610010
 
 [^gil-férez-2011]: –––, 2011, “Representations of structural closure operators”, *Archive for Mathematical Logic*, 50:45–73. doi:10.1007/s00153-010-0201-z
 

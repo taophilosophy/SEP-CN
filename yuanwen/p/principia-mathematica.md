@@ -252,9 +252,9 @@ Ramsey saw himself as arguing for a broader conception of propositional function
 
 Ramsey proposes a notion of propositional functions in extension, so that:
 
-> Thus $\phi$ (Socrates) may be Queen Anne is dead, $\phi$(Plato) may be Einstein is a great man; $\phi$ being simply an arbitrary association of propositions $\phi$ to individuals $x$. (Ramsey 1925 [1931: 52])[^ramsey-1925].
+> Thus *φ* (Socrates) may be Queen Anne is dead, *φ*(Plato) may be Einstein is a great man; *φ* being simply an arbitrary association of propositions *φ* to individuals $x$. (Ramsey 1925 [1931: 52])[^ramsey-1925].
 
-A function such as Ramsey’s $\phi$ can be indefinable in general (what is the value of $\phi$ for Aristotle, or any other individual?). It seems as though we must rely on our intuitions about the infinity of indefinable functions, working backwards from our intuitions about the sets that are their extensions, as set theory relies on the existence of sets far beyond those that are definable in some arbitrary language. This is certainly suggested by Ramsey in his example of the function $ \phi $ above.
+A function such as Ramsey’s *φ* can be indefinable in general (what is the value of *φ* for Aristotle, or any other individual?). It seems as though we must rely on our intuitions about the infinity of indefinable functions, working backwards from our intuitions about the sets that are their extensions, as set theory relies on the existence of sets far beyond those that are definable in some arbitrary language. This is certainly suggested by Ramsey in his example of the function $ \phi $ above.
 
 In his *Introduction to Mathematical Philosophy*, Russell expresses his qualms about the multiplicative axiom with his well-known example of the millionaire who has an $ \aleph_0 $ infinity of boots and of socks:
 
@@ -264,7 +264,7 @@ Those who accepted Ramsey’s broader notion of “function in extension”, wou
 
 Church seems to see Ramsey’s “propositional functions in extension” as in fact the position that was accepted in PM, despite Russell’s own later qualms:
 
-> Of course, there may be such things as indefinable classes, and if $\alpha $ is an indefinable class there is no definable propositional function which determines $\alpha$. But this, as we understand it, is not denied by the authors of *Principia Mathematica.* (Church 2019: 49)[^church-2019]
+> Of course, there may be such things as indefinable classes, and if $\alpha $ is an indefinable class there is no definable propositional function which determines *α*. But this, as we understand it, is not denied by the authors of *Principia Mathematica.* (Church 2019: 49)[^church-2019]
 
 Thus, in this entry we follow Church’s realistic interpretation of propositional functions, allowing for a propositional function to have an arbitrary set as its extension, as well as to see hierarchy of functions as represented by the ramified theory of types.
 
@@ -274,33 +274,33 @@ Ramsey’s introduction of the simple theory of types was immediately influentia
 
 Church’s (1976)[^church-1976] formulation of the logic of PM with *r-types*. The language of the higher-order quantificational logic of PM is called *ramified type theory*, and the system of types, following Church, will be called *r*-types. Note that there are two kinds of variables, but they are all assigned to an r-type. Individual variables behave as a special case of propositional function variables.
 
-- (argument) variables: $x_{\mathbf{\tau}}$, $y_{\mathbf{\tau}}$, $z_{\mathbf{\tau}}$, …for each type $\tau$
-- *n*-place propositional function variables: $\phi_{\tau}^{n}, \psi_{\tau}^{n}$, …($n \geq 1$), where $\tau$ is a type symbol. ($R^n,S^n, \ldots$ ($n \geq 1$) for *relations in extension*.) $\chi$ is used for a higher-order function of functions, as in $\chi (\phi)$, and $\Phi$ for the next order, as in $\Phi (\chi)$
+- (argument) variables: $x_{\mathbf{\tau}}$, $y_{\mathbf{\tau}}$, $z_{\mathbf{\tau}}$, …for each type *τ*
+- *n*-place propositional function variables: $\phi_{\tau}^{n}, \psi_{\tau}^{n}$, …($n \geq 1$), where *τ* is a type symbol. ($R^n,S^n, \ldots$ ($n \geq 1$) for *relations in extension*.) *χ* is used for a higher-order function of functions, as in $\chi (\phi)$, and *Φ* for the next order, as in $\Phi (\chi)$
 - connectives: $\lnot$, $\lor$
 - punctuation: $($, $)$, $[$, $]$, $\{$, $\}$, etc.
 - the quantifier symbols: $\forall$ and $\exists$
-- the lambda symbol: $\lambda$
+- the lambda symbol: *λ*
 
 The system of symbols for *r*-types and the assignment of *r*-types to variables for different entities (individuals and functions) is as follows:
 
-- $\iota$ is the *r*-type for an *individual*.
+- *ι* is the *r*-type for an *individual*.
 - Where $\tau_1 , \ldots, \tau_m$ are any *r*-types, then $(\tau_1 , \ldots, \tau_m) / n$ is the *r*-type of a propositional function of *level n*; this is the *r*-type of any *m*-ary propositional function of *level* *n*, which has arguments of *r*-types $\tau_1 , \ldots, \tau_m$, respectively.
 
 The *order* of an entity is defined as follows:
 
-- the *order* of an individual (of *r*-type $\iota$) is 0
+- the *order* of an individual (of *r*-type *ι*) is 0
 - the *order* of a function of *r*-type $ (\tau_1, \ldots, \tau_m ) / n $ is $n+N$ where *N* is the greatest of the orders of the arguments $\tau_1 \ldots, \tau_m$
 
 There are no predicate or individual names in this language. There are, however complex terms for propositional functions, defined together with formulas (with the usual notion of bound and free variables):
 
-Let the expressions $\phi_{\tau}$ be variables ranging over propositional functions of type $\tau$. We read $x_{\tau}$ as a metalinguistic variable ranging over variables of *r*-type $\tau$. The subscript $\tau$ will be indicated only with the initial quantifier which governs the variable.
+Let the expressions $\phi_{\tau}$ be variables ranging over propositional functions of type *τ*. We read $x_{\tau}$ as a metalinguistic variable ranging over variables of *r*-type *τ*. The subscript *τ* will be indicated only with the initial quantifier which governs the variable.
 
 We then can define the *well formed formulas* (wffs) and *terms* of quantificational logic as follows:
 
 - Variables (for individuals and propositional functions) are terms.
-- If $\phi_{\tau}^{n}$ is an *n*-place propositional function variable of *r*-type $(\tau_1 \ldots, \tau_n) /k$ and $x_{i} $ for $ ( 0 \leq i \leq n ) $ are terms of of *r*-types $\tau_1 \ldots, \tau_n$, respectively, then $\phi (x_1, \ldots x_n)$ is a *wff*. (The variables $x_n$ are called “argument” variables. They will include *individual variables* of *r*-type $\iota$, but also variables of higher types. The variable $\phi$ can occur as a predicate in $\phi(x)$ and as an argument in $\Psi (\phi)$, and cannot be of type $\iota$ to occur in a *wff*.)
+- If $\phi_{\tau}^{n}$ is an *n*-place propositional function variable of *r*-type $(\tau_1 \ldots, \tau_n) /k$ and $x_{i} $ for $ ( 0 \leq i \leq n ) $ are terms of of *r*-types $\tau_1 \ldots, \tau_n$, respectively, then $\phi (x_1, \ldots x_n)$ is a *wff*. (The variables $x_n$ are called “argument” variables. They will include *individual variables* of *r*-type *ι*, but also variables of higher types. The variable *φ* can occur as a predicate in $\phi(x)$ and as an argument in $\Psi (\phi)$, and cannot be of type *ι* to occur in a *wff*.)
 - If *x* is a variable of type $ \tau $ and *A* is a *wff* then $\lambda x A$ is a *term* of *r*-type $(\tau)/n$ (where *n* is one more than the highest order of any bound variable in *A* and at least as high as the order of any free variable in *A*).
-- If *x* is an individual variable of type $\tau$ and *A* is a wff in which *x* occurs $free$ then $\forall x A$ and $\exists x A$ are wffs.
+- If *x* is an individual variable of type *τ* and *A* is a wff in which *x* occurs $free$ then $\forall x A$ and $\exists x A$ are wffs.
 - If *A* and *B* are wffs, then so are $\lnot A$, $A \amp B$, $A \lor B$, $A \supset B$, and $A \equiv B$. The conventional precedence ordering of connectives will allow for fewer punctuation signs to indicate scope of connectives, thus $A \lor B \supset C$ is read as $( A \lor B) \supset C$
 
 The comprehension principle for a system of higher-order logic, or set theory, states which formulas express a property or set. Within a type theory this allows for what looks like an “unrestricted” comprehension principle, in that for every well formed expression *A* with a free variable, *x*, there is a property which is satisfied by precisely the entities satisfying the formula. It is the restrictions of types that block the paradoxes, as the problematic formulas “is not a member of itself” and “does not apply to itself” are ruled out by the system of types. The comprehension principle then is characterized by an infinite set of sentences of the form of:
@@ -309,7 +309,7 @@ Comprehension:
 
 $$\exists \phi \forall x_{\tau} [ \phi (x) \equiv A], \quad (\phi \textrm{ not free in } A)$$
 
-where $\phi$ is a functional variable of *r*-type $(\tau)/n$ and *x* is a variable of *r*-type $\tau$, and the bound variables of *A* are all of order less than the order of $\phi$ and the free variables of *A* are all of order not greater than the order of $\phi$.
+where *φ* is a functional variable of *r*-type $(\tau)/n$ and *x* is a variable of *r*-type *τ*, and the bound variables of *A* are all of order less than the order of *φ* and the free variables of *A* are all of order not greater than the order of *φ*.
 
 As presented here Church’s seemingly straightforward comprehension principle, with its restrictions on the types of variables, is for Quine a glaring manifestation of the confusion of use and mention of language that he sees infecting PM:
 
@@ -337,13 +337,13 @@ The system of PM uses a rule of universal generalization and an axiom which amou
 
 $$ \tag*{∗10·1} \vdash \forall x_{\tau} A \supset A' $$
 
-where $A'$ is like *A* except for having a term *y* of type $\tau$ substituted for $x_{\tau}$ in *A*.
+where $A'$ is like *A* except for having a term *y* of type *τ* substituted for $x_{\tau}$ in *A*.
 
-(Note: The notion of suitable “substitution” is much more complicated for logic of higher types than it is for first-order logic. In part this is because of the application to an argument of lambda expressions for a propositional function, e.g., $[\lambda x \phi (x)] (\nu)$ where $\nu$ may be a complex term involving variables and quantifiers in other lambda expressions.)
+(Note: The notion of suitable “substitution” is much more complicated for logic of higher types than it is for first-order logic. In part this is because of the application to an argument of lambda expressions for a propositional function, e.g., $[\lambda x \phi (x)] (\nu)$ where *ν* may be a complex term involving variables and quantifiers in other lambda expressions.)
 
 $$ \tag*{∗10·11} \textrm{If } \vdash A \textrm{ then } \vdash \forall x_{\tau} A' $$
 
-where $A'$ is like *A* except for having a term *y* of type $\tau$ substituted for *x* in *A.*
+where $A'$ is like *A* except for having a term *y* of type *τ* substituted for *x* in *A.*
 
 Other quantifier principles, which govern the move of a quantifier from the inside of a formula to governing the entire formula, so-called “quantifier containment principles”, are also derived as theorems in ∗10. Some that are often used in later numbers are:
 
@@ -359,9 +359,9 @@ $$ \tag*{∗10·23} \forall x_{\tau} [ \phi (x ) \supset A ] \equiv [ \exists x_
 
 ##### The Axiom of Reducibility
 
-Given that the system of PM contains a ramified theory of types, however, the move to discussion of classes for the remainder of the work after ∗20 requires a further axiom, the axiom of reducibility, in order to allow a simple theory of types of classes. Consider the fundamental notion from the theory of real numbers of the *least upper bound* (*l.u.b.*) of a bounded class of real numbers. Consider the class of all real numbers whose square is less than or equal to 2, i.e., $\{ x \mid x^2 \leq 2\}$. A class of reals *S* has an *upper bound* if and only if $\exists r \forall s ( s \in S \supset s \leq r)$. If a bounded class *S* of real numbers has members of some *r*-type $\tau$, then the least upper bound must belong to an *r*-type $\tau / 1$ because of the quantifier in the definition ranging over the elements *s* of *S*. We say that the definition of *S* is “impredicative” because it involves quantification over a totality to which it is intended to belong. The theory of real numbers, however, requires that sometimes the least upper bound of a class is a member of that class: in this case, the least upper bound of *S*, namely $\sqrt{2}$, is an element of *S*.
+Given that the system of PM contains a ramified theory of types, however, the move to discussion of classes for the remainder of the work after ∗20 requires a further axiom, the axiom of reducibility, in order to allow a simple theory of types of classes. Consider the fundamental notion from the theory of real numbers of the *least upper bound* (*l.u.b.*) of a bounded class of real numbers. Consider the class of all real numbers whose square is less than or equal to 2, i.e., $\{ x \mid x^2 \leq 2\}$. A class of reals *S* has an *upper bound* if and only if $\exists r \forall s ( s \in S \supset s \leq r)$. If a bounded class *S* of real numbers has members of some *r*-type *τ*, then the least upper bound must belong to an *r*-type $\tau / 1$ because of the quantifier in the definition ranging over the elements *s* of *S*. We say that the definition of *S* is “impredicative” because it involves quantification over a totality to which it is intended to belong. The theory of real numbers, however, requires that sometimes the least upper bound of a class is a member of that class: in this case, the least upper bound of *S*, namely $\sqrt{2}$, is an element of *S*.
 
-The resolution of this in the system of PM is to adopt an axiom which guarantees that any class defined in terms of another class will be of the same type. Thus impredicative definitions of classes are allowed, and do not introduce a class of a higher type. This is accomplished by adopting the axiom of reducibility, in ∗12, which guarantees that for any function $\phi$, there will be a co-extensive *predicative* function. More precisely, the axiom of reducibility asserts that for any function of any number of arguments of an arbitrary level, there is an equivalent function of level 1, ie. one true of the same entities:
+The resolution of this in the system of PM is to adopt an axiom which guarantees that any class defined in terms of another class will be of the same type. Thus impredicative definitions of classes are allowed, and do not introduce a class of a higher type. This is accomplished by adopting the axiom of reducibility, in ∗12, which guarantees that for any function *φ*, there will be a co-extensive *predicative* function. More precisely, the axiom of reducibility asserts that for any function of any number of arguments of an arbitrary level, there is an equivalent function of level 1, ie. one true of the same entities:
 
 Axiom of reducibility:
 
@@ -369,7 +369,7 @@ $$ \tag*{Pp ∗12·1} \forall \psi \exists \phi \forall x_{\tau} [\psi (x) \equi
 
 where $\phi \bang$ is a *predicative function*.
 
-The exclamation mark “$\bang$” is used in PM to indicate *predicative functions*. In Church’s system of *r*-types this is expressed by saying that the variable *x* is of *r*-type $\tau$ and $\phi$ is of *r*-type $(\tau )/1$ and $\psi$ is of *r*-type $(\tau) /n$. In other words, $\phi$ is of the lowest order compatible with its arguments. This notion of predicative functions is taken from the Introduction. In ∗12 Whitehead and Russell propose a narrower conception of predicative function, by which $\phi$ must be a *matrix*, or function in the definition of which no quantifiers at all appear. See the accompanying entry on the notation in *Principia Mathematica*.
+The exclamation mark “$\bang$” is used in PM to indicate *predicative functions*. In Church’s system of *r*-types this is expressed by saying that the variable *x* is of *r*-type *τ* and *φ* is of *r*-type $(\tau )/1$ and *ψ* is of *r*-type $(\tau) /n$. In other words, *φ* is of the lowest order compatible with its arguments. This notion of predicative functions is taken from the Introduction. In ∗12 Whitehead and Russell propose a narrower conception of predicative function, by which *φ* must be a *matrix*, or function in the definition of which no quantifiers at all appear. See the accompanying entry on the notation in *Principia Mathematica*.
 
 It has seemed to some, beginning with Chwistek 1912 and 1922, and continuing through Copi 1950, that the axiom of reducibility is technically faulty, leading to an inconsistency, or at least redundancy, in the system of PM. Ramsey early on (1925) argued that the supposed contradiction in fact demonstrated that certain predicative functions are indefinable. Church (1976)[^church-1976] confirms this assessment, and uses the presentation of *r*-types we describe here to show rigorously the limitations on what functions are definable in the system of PM.
 
@@ -383,7 +383,7 @@ $$ \tag*{∗13·01} x_{\tau} = y_{\tau} \eqdf \forall \phi [ \phi \bang (x) \sup
 
 for $\phi \bang$ a predicative function.
 
-In contemporary systems of logic an axiom or rule of inference allows that if $x = y$, then for any predicate $\phi$, $\phi x \equiv \phi y$. In other words, identicals are indiscernible. The given definition of identity only suffices if it is not possible that entities *x* and *y* which share all predicative properties, cannot be distinguished by some property of a higher order. The axiom of reducibility guarantees that *x* and *y* sharing properties of any given higher order will entail sharing predicative properties, and so by the definition of identity, $x = y$.
+In contemporary systems of logic an axiom or rule of inference allows that if $x = y$, then for any predicate *φ*, $\phi x \equiv \phi y$. In other words, identicals are indiscernible. The given definition of identity only suffices if it is not possible that entities *x* and *y* which share all predicative properties, cannot be distinguished by some property of a higher order. The axiom of reducibility guarantees that *x* and *y* sharing properties of any given higher order will entail sharing predicative properties, and so by the definition of identity, $x = y$.
 
 In the appendix B to the second edition of PM, which was written by Russell, there is a technical discussion of the consequences of abandoning the axiom of reducibility. A faulty proof is proposed to show that the principle of induction can be derived without using the axiom of reducibilty in a modified theory of types (see Linsky 2011)[^linsky-2011]. As Russell points out, however, it is not possible to define real numbers using “Dedekindian” classes of rational numbers without assuming the axiom of reducibility. (The thesis that every class of reals with an upper bound has a real number as its least upper bound, discussed above, would not be provable.) As a result, Russell says “analysis would collapse”. In all of this discussion, however, Russell does not indicate what would replace the definition of dentity in ∗13, which so crucially depends on the axiom of reducibility.
 
@@ -391,7 +391,7 @@ In the appendix B to the second edition of PM, which was written by Russell, the
 
 Russell presented his theory of definite descriptions in “On Denoting” (1905) and it has probably been the most widely discussed application of the logic of PM. The role of the theory of definite desciptions in PM, however, is exhausted by its use in ∗30 to define what are called “descriptive functions”. In contemporary logic it is routine to show how the notion of a “functional relation” can be used to justify the introduction of function symbols into a language with only *n*-place predicates. The theory of definite descriptions is essential for this argument. After ∗30 there are only a handful of occurrences of description operators in PM. What is perhaps Russell’s most valuable contribution to philosophical logic and the philosophy of language is, here, only a device used for a technical, though programatically important, purpose. The technical purpose, however, does indicate an important distinction between the logicisms of Frege and Russell. Frege’s logic is based on the notion of concept, which is a case of a function from objects to truth values. Russell’s logic can be seen as further reducing the mathematical notion of function to his logical notion of *propositional function*. Some logicians firmly in the tradition of mathematical logic do not find this to be an advance, but it does indicate a significant difference between the approaches of Frege and Russell (see Linsky 2009)[^linsky-2009].
 
-Definite descriptions are expressions of the form “the $\phi$” which occur in the position of terms apparently as the arguments of functions. Russell’s example from “On Denoting” (1905) is the expression “The present King of France” which apparently occurs as an argument to the function “is bald” in the sentence “The present King of France is bald”. In general the expression “the $\phi$ is $\psi$” is defined as equivalent to the expression “There is exactly one $\phi$ and it is $\psi$”:
+Definite descriptions are expressions of the form “the *φ*” which occur in the position of terms apparently as the arguments of functions. Russell’s example from “On Denoting” (1905) is the expression “The present King of France” which apparently occurs as an argument to the function “is bald” in the sentence “The present King of France is bald”. In general the expression “the *φ* is *ψ*” is defined as equivalent to the expression “There is exactly one *φ* and it is *ψ*”:
 
 Contextual definition of Definite Descriptions
 
@@ -439,7 +439,7 @@ $$ \phi \{x \mid \psi (x) \} \eqdf \exists \chi \left [ \begin{split} \forall x 
 
 for $\chi \bang$ a predicative function.
 
-In other words, an expression seeming to attribute the property $\phi$ to a class $\{x \mid \psi (x) \}$ is true if and only if there is some predicative property $\chi$, which is co-extensive with $\psi$, which really has the property $\phi$.
+In other words, an expression seeming to attribute the property *φ* to a class $\{x \mid \psi (x) \}$ is true if and only if there is some predicative property *χ*, which is co-extensive with *ψ*, which really has the property *φ*.
 
 The notion of membership ($\in$) which is the one non-logical relation symbol of ZF, is defined in the PM system:
 
@@ -447,11 +447,11 @@ Definition of $\in$
 
 $$ \tag*{∗20·02} x \in \phi \eqdf \phi \bang (x) $$
 
-for $\phi$ a predicative function.
+for *φ* a predicative function.
 
 The principal role of this “no-classes” theory of classes, as it is called, is to show how the theory of types resolves the paradoxes that had afflicted the naive theory of classes in *The Principles of Mathematics* and was seen by Russell to afflict Frege’s theory. After these foundational sections, all the individual variables that appear in PM should be seen as ranging over classes (and, as will be explained below, the relation symbols are to be interpreted as ranging over relations in extension). The paradoxes appear in different forms, as seen in the Introduction to PM, but the resolution of the paradox of “the class of all classes which do not belong to themselves”, which appears in Russell’s initial letter to Frege, will be used as our example. This class, which leads directly to a contradiction, would appear in contemporary notation as $\{ x \mid x \notin x \}$. The paradox arises when one asks whether that class is a member of itself or not. The expression that it is a member of itself $\{ x \mid x \notin x \} \in \{ x \mid x \notin x \}$ will have two class expressions to be eliminated by the first definition, and then several uses of the relation symbol $\in$ which will also be eliminated. In the end there will be an expression $\lnot (\phi_{\tau} \in \psi_{\tau})$, which is not legitimate, since this is not well-formed for any ${\tau}$. A function must be of a higher order than its arguments.
 
-The effect of these two definitions is to demonstrate that classes fall into a simple theory of types, and while subject to these type restrictions, all of the inferences involving class expressions observe classical quantification theory as stated in ∗10 above. The definitions of existential and universal quantification are simple. Note that Russell uses Greek letters ($\alpha$, $\beta$,…) to range over classes:
+The effect of these two definitions is to demonstrate that classes fall into a simple theory of types, and while subject to these type restrictions, all of the inferences involving class expressions observe classical quantification theory as stated in ∗10 above. The definitions of existential and universal quantification are simple. Note that Russell uses Greek letters (*α*, *β*,…) to range over classes:
 
 Definition of quantification over “all classes”
 
@@ -473,18 +473,18 @@ $$ \tag*{∗20·07} \alpha \in \psi \eqdf \psi \bang ( \alpha) $$
 
 for $\psi \bang$ a predicative function.
 
-The remainder of ∗20 consists of theorems proving that the theorems of quantificational logic developed in ∗10 apply as well to expressions about classes, with the “Greek” variables $\alpha, \beta, \ldots$ in the place of individual variables $x, y, \ldots$. Because formulas with Greek variables look and behave the same as individual variables with respect to quantificational logic, it is possible to overlook the interaction of the theory of classes with the theory of types. As Gödel points out in the passage quoted above (Gödel 1944 [1951: 126])[^gödel-1944], the “contextual definitions” of class variables $\alpha$, $\beta$, etc. do not specify the elimination of class abstracts from all possible contexts, and in particular those that talk about classes. Linsky (2004)[^linsky-2004] argues that PM has no notation for classes of propositional functions to distinguish them from classes of classes, although one could be added. This is another indication of the turn in PM after the intial sections (up to ∗21) to an extensional system of classes and relations.
+The remainder of ∗20 consists of theorems proving that the theorems of quantificational logic developed in ∗10 apply as well to expressions about classes, with the “Greek” variables $\alpha, \beta, \ldots$ in the place of individual variables $x, y, \ldots$. Because formulas with Greek variables look and behave the same as individual variables with respect to quantificational logic, it is possible to overlook the interaction of the theory of classes with the theory of types. As Gödel points out in the passage quoted above (Gödel 1944 [1951: 126])[^gödel-1944], the “contextual definitions” of class variables *α*, *β*, etc. do not specify the elimination of class abstracts from all possible contexts, and in particular those that talk about classes. Linsky (2004)[^linsky-2004] argues that PM has no notation for classes of propositional functions to distinguish them from classes of classes, although one could be added. This is another indication of the turn in PM after the intial sections (up to ∗21) to an extensional system of classes and relations.
 
 In effect the class variables can be seen as propositional function variables, restricted to *r*-types in which only predicative functions appear, in arguments as well, leading to what might be seen as “hereditarily predicative functions”. In other words, the class variables can be replaced with propositional function variables in which the *r*-type of the function and of all the arguments is of the form $(\beta_1, \beta_2, \ldots, \beta_m )/1$, and the same applies to $\beta_1, \beta_2, \ldots, \beta_m$ as well. This means that variables and terms for classes will obey the simple theory of types. These can be contrasted with *r*-types by presenting an alternative system of simple types or “*s*-types”.
 
 **Church’s (1974)[^church-1974] “Simple” Theory of Types**
 
-- $\iota$ is the *s*-type for an *individual*.
+- *ι* is the *s*-type for an *individual*.
 - Where $\tau_1 \ldots, \tau_m$ are any *s*-types, then $(\tau_1 \ldots, \tau_m)$ is the *s*-type of a propositional function of a *m*-ary propositional function which has arguments of *s*-types $\tau_1 \ldots, \tau_m$, respectively.
 
 The *order* of an entity in the system of *s*-types is defined as follows:
 
-- the *order* of an individual (of *s*-type $\iota$) is 0
+- the *order* of an individual (of *s*-type *ι*) is 0
 - the *order* of a function of *s*-type $ ( \tau_1 \ldots, \tau_m )$ is $n+1$ where *n* is the greatest of the order of the arguments $\tau_1 \ldots, \tau_m$
 
 Church’s notion of “order” is not quite the one that is familiar from standard logic texts, in which “first-order logic” uses only bound individual variables, and “second-order logic” uses both bound individual variables and bound variables ranging over properties of individuals. In Church's system of s-types, *first*-order logic has bound variables of *s*-type 0, whereas *second*-order logic also includes bound variables of *s*-type 1. Thus, the familiar notion of ‘order’ in logic texts employs one number higher than the highest order of any of the bindable variables in the *s*-type system.
@@ -501,7 +501,7 @@ However, both the view that type theory lacks intuitive support, and the view th
 
 > At least hitherto only one solution which meets these two requirements [of avoiding the paradoxes while retaining mathematics and the theory of aggregates] has been found.…This solution consists in the theory of [simple] types.…It may seem as if another solution were afforded by the system of axioms for the theory of aggregates, as presented by Zermelo, Fraenkel and von Neumann; but it turns out that this system of axioms is nothing else but a natural generalization of the theory of types, or rather, it is what it becomes of the theory of types if certain superfluous restrictions are removed. (Gödel 1933 [1995: 45–46])[^gödel-1933]
 
-The two “restrictions” that Gödel intends are that types are not *cumulative* and that the levels of types are limited to the natural numbers 0, 1,… *n*,…. Gödel suggests that one adopt a cumulative system of types in which a given type includes functions of all lower types (or *orders*), and the types extend beyond $\omega$, $\omega$ + 1, …$\omega^{\omega}$, …, through all the ordinals. Such a “natural generalization” of the theory of types, he asserts, amounts to the same as Zermelo-Fraenkel set theory (ZF). Gödel’s claim is spelled out by George Boolos (1971)[^boolos-1971] as the “iterative conception” of sets, which can be expressed formally. If one thinks of sets as built up in stages, with each stage adding all sets of members of the last stage, and the process extending endlessly, then the axioms of ZF set theory are indeed provable from the axioms of the theory of the “iterative conception” of sets. In turn the “iterative conception” relies on a strong intuition, contrary to what Quine says. It is the same intuition that underlies the hierarchy of types.
+The two “restrictions” that Gödel intends are that types are not *cumulative* and that the levels of types are limited to the natural numbers 0, 1,… *n*,…. Gödel suggests that one adopt a cumulative system of types in which a given type includes functions of all lower types (or *orders*), and the types extend beyond *ω*, *ω* + 1, …$\omega^{\omega}$, …, through all the ordinals. Such a “natural generalization” of the theory of types, he asserts, amounts to the same as Zermelo-Fraenkel set theory (ZF). Gödel’s claim is spelled out by George Boolos (1971)[^boolos-1971] as the “iterative conception” of sets, which can be expressed formally. If one thinks of sets as built up in stages, with each stage adding all sets of members of the last stage, and the process extending endlessly, then the axioms of ZF set theory are indeed provable from the axioms of the theory of the “iterative conception” of sets. In turn the “iterative conception” relies on a strong intuition, contrary to what Quine says. It is the same intuition that underlies the hierarchy of types.
 
 Following Boolos’s presentation of the “iterative conception of set” it seems that axiomatic set theory and PM do not differ widely, and express the similar intuitive notions of set that provide the same solution to the paradoxes.
 
@@ -525,19 +525,19 @@ The introduction of Greek letters for classes in ∗20, and the use of “Roman 
 
 Quine here hints at the view of PM that is widely shared among mathematical logicians, who see the ramified theory of types, with its accompanying axiom of reducibility, as a digression taking logic into a realm of obscure intensional notions, when instead logic, even if expressed in a theory of types, is extensional and is comparable to axiomatic set theory presented with a simple hierarchy of sets of individuals, sets of sets individuals, and so on.
 
-It is certainly true that the remainder of PM is devoted to the theory of individuals, classes, and relations (in extension) between those entities. Thus the ontology of these later portions is a hierarchy of predicative functions arranged in a simple theory of types. This has led one interpreter, Gregory Landini (1998)[^landini-1998], to argue that only predicative functions are values of bound variables in PM. What we have interpreted as variables ranging over possibly non-predicative propositional functions, $\phi$, $\psi$,…, are for Landini only schematic letters, and are not bindable variables. The only bound variables in PM, he asserts, range over predicative functions. This is a strong version of a view that others such as Kanamori (2009)[^kanamori-2009] have expressed, going back to Ramsey (1925)[^ramsey-1925], namely that the introduction of the axiom of reducibility has the effect of undoing the ramification of the theory of types, at least for a theory of classes, and so a higher-order logic used for the foundations of mathematics ought to have only a simple type structure.
+It is certainly true that the remainder of PM is devoted to the theory of individuals, classes, and relations (in extension) between those entities. Thus the ontology of these later portions is a hierarchy of predicative functions arranged in a simple theory of types. This has led one interpreter, Gregory Landini (1998)[^landini-1998], to argue that only predicative functions are values of bound variables in PM. What we have interpreted as variables ranging over possibly non-predicative propositional functions, *φ*, *ψ*,…, are for Landini only schematic letters, and are not bindable variables. The only bound variables in PM, he asserts, range over predicative functions. This is a strong version of a view that others such as Kanamori (2009)[^kanamori-2009] have expressed, going back to Ramsey (1925)[^ramsey-1925], namely that the introduction of the axiom of reducibility has the effect of undoing the ramification of the theory of types, at least for a theory of classes, and so a higher-order logic used for the foundations of mathematics ought to have only a simple type structure.
 
 Our interpretation of this change in attention to classes and relations indicated by the shift in notation is that it indicates the extent to which the solution to the paradoxes, which required a ramified theory of (possibly intensional) propositional functions, may have superseded a logic based on an unproblematic notion of class and mathematical functions and relations between them, which appeared in the body of *The Principles of Mathematics* before Russell’s attention was drawn to the paradoxes. In the summary of the later sections of PM that follows below, it will appear that in fact the symbolic development follows very closely that of PoM from ten years earlier. While we do not know much about the order in which sections of PM were composed, it will appear from this change of attention from propositional functions to classes and relations, that the later parts are in fact an earlier stratum in the conceptual development of the project that started out as a symbolic “Volume II” to follow PoM.
 
-To remind the reader of the change from talking of propositional functions to relations in extension, two further notational alterations are introduced. Greek letters such as $\alpha$, $\beta$, etc. , will be used as variables for ranging over classes as well. The individual variables which are ambiguous with respect to type, “typically ambiguous”, will now also range over classes. A function $\phi$ of two variables *x* and *y* is indicated with the arguments in parentheses after the function variable: $\phi(x, y)$. A two-place relation *R* holding between *x* and *y* is written $x \relR y$, with the *R* in “infix” position. The obvious limitation of this notation is that it is not readily extended to three-place relations, adding a third variable, say *z*. We will follow the practice in PM and write $x \relR y$ for binary relations. PM only requires binary relations for most of the three volumes, although the projected volume IV on geometry would need a notation for “*x* is between *y* and *z*”, as can be seen from Henry Sheffer’s unpublished notes from Russell’s lectures on geometry from 1910 at Cambridge. There he uses the notation $y\rels{B}(x,y)$ which blends the two styles.
+To remind the reader of the change from talking of propositional functions to relations in extension, two further notational alterations are introduced. Greek letters such as *α*, *β*, etc. , will be used as variables for ranging over classes as well. The individual variables which are ambiguous with respect to type, “typically ambiguous”, will now also range over classes. A function *φ* of two variables *x* and *y* is indicated with the arguments in parentheses after the function variable: $\phi(x, y)$. A two-place relation *R* holding between *x* and *y* is written $x \relR y$, with the *R* in “infix” position. The obvious limitation of this notation is that it is not readily extended to three-place relations, adding a third variable, say *z*. We will follow the practice in PM and write $x \relR y$ for binary relations. PM only requires binary relations for most of the three volumes, although the projected volume IV on geometry would need a notation for “*x* is between *y* and *z*”, as can be seen from Henry Sheffer’s unpublished notes from Russell’s lectures on geometry from 1910 at Cambridge. There he uses the notation $y\rels{B}(x,y)$ which blends the two styles.
 
 ##### The Algebra of Classes
 
-The notions of the subset relation and the intersection and union of sets are defined in PM exactly as they are now (albeit with different terminology). The complement of a set and the universal class $\rV$are not allowed in set theory, and are rejected as “proper classes”. In PM, as they only are a set of entities of a given type $\tau$, they form a set of the next higher type, $(\tau)/1$. The complement of a set of a given type is the set of all entities (of that type) that are not in the set. Each empty set will be the complement of the universal set (of a given type $\tau$ ) and so there will be the empty set of type $\tau$.
+The notions of the subset relation and the intersection and union of sets are defined in PM exactly as they are now (albeit with different terminology). The complement of a set and the universal class $\rV$are not allowed in set theory, and are rejected as “proper classes”. In PM, as they only are a set of entities of a given type *τ*, they form a set of the next higher type, $(\tau)/1$. The complement of a set of a given type is the set of all entities (of that type) that are not in the set. Each empty set will be the complement of the universal set (of a given type *τ* ) and so there will be the empty set of type *τ*.
 
 $$ \begin{align} \alpha \subseteq \beta & \eqdf \forall x (x \in \alpha \supset x \in \beta) \tag*{∗22·01}\\ \alpha \cap \beta & \eqdf \{x \mid ( x \in \alpha \amp x \in \beta ) \tag*{∗22·02}\\ \alpha \cup \beta & \eqdf \{ x \mid (x \in \alpha \lor x \in \beta ) \tag*{∗22·03}\\ \end{align} $$
 
-The type subscript $\tau$ is added below as a reminder that the notions of universal set $\rV$ and complement are each with regard to a given type (and so an empty set $\emptyset$ will recur in each type.)
+The type subscript *τ* is added below as a reminder that the notions of universal set $\rV$ and complement are each with regard to a given type (and so an empty set $\emptyset$ will recur in each type.)
 
 $$ \begin{align} - \alpha &\eqdf \{ x_{\tau} \mid \lnot (x \in \alpha )\}\tag*{∗22·04}\\ {\alpha - \beta} & \eqdf {\alpha \cap {- \beta}}\tag*{∗22·05}\\ \end{align} $$
 
@@ -545,7 +545,7 @@ $$ \begin{align} - \alpha &\eqdf \{ x_{\tau} \mid \lnot (x \in \alpha )\}\tag*{�
 
 $$\tag*{∗24·01} \rV_{\tau + 1} \eqdf \{ x_{\tau} \mid (x = x) \} $$
 
-The subscript on ‘$\rV$’ indicates that the universe of classes of a given (simple) type $\tau$ will be a member of the next type. There is no class of all classes of whatever type. This is in common with axiomatic set theory which holds that there is no set of all sets.
+The subscript on ‘$\rV$’ indicates that the universe of classes of a given (simple) type *τ* will be a member of the next type. There is no class of all classes of whatever type. This is in common with axiomatic set theory which holds that there is no set of all sets.
 
 $$\tag*{∗24·02} \emptyset_{\tau} \eqdf - \rV_{\tau} $$
 
@@ -597,13 +597,13 @@ $$ \tag*{∗34·01} R \circ S \eqdf \lambda x \lambda z \{ \exists y ( x \relR y
 
 ##### Restricted Relations
 
-The *restriction* of (the *range* of) a relation *R* to a particular class $\beta$ is defined this way: :
+The *restriction* of (the *range* of) a relation *R* to a particular class *β* is defined this way: :
 
 $$ \tag*{∗35·02} R \upharpoonright \beta \eqdf \lambda x \lambda y (x \relR y \amp y \in \beta) $$
 
-In his survey of PM, Quine (1951: 155)[^quine-1951] complains that these last 100 pages of Part I are occupied with proving theorems relating redundant definitions of the same notions. Thus PM defines the notion of domain and range and then introduces notions that again define the same classes, which are then proved to be equivalent. PM defines the notation of ‘$R\pmdq\beta$’ to be read as “the terms which have the relation *R* to members of $\beta$” and uses the example:
+In his survey of PM, Quine (1951: 155)[^quine-1951] complains that these last 100 pages of Part I are occupied with proving theorems relating redundant definitions of the same notions. Thus PM defines the notion of domain and range and then introduces notions that again define the same classes, which are then proved to be equivalent. PM defines the notation of ‘$R\pmdq\beta$’ to be read as “the terms which have the relation *R* to members of *β*” and uses the example:
 
-> If $\beta$ is the class of great men, and *R* is the relation of wife to husband, $R\pmdq\beta$ will mean “wives of great men”. (PM I [1925]: 278)
+> If *β* is the class of great men, and *R* is the relation of wife to husband, $R\pmdq\beta$ will mean “wives of great men”. (PM I [1925]: 278)
 
 In contemporary logic with the notation of set theory used above, there is no need for a special symbol for this notion, as it is written as:
 
@@ -613,11 +613,11 @@ $$ \tag*{∗37·01} R\pmsq \pmsq \beta \eqdf \{ x \mid \exists y (y \in \beta) \
 
 $$ \tag*{∗40·01} {} \cap \alpha \eqdf \{ x \mid \forall \beta (\beta \in \alpha \supset x \in \beta) \} $$
 
-This is the *intersection* of $\alpha$.
+This is the *intersection* of *α*.
 
 $$ \tag*{∗40·02} {} \cup \alpha \eqdf \{ x \mid \exists \beta (\beta \in \alpha \amp x \in \beta) \} $$
 
-is the *union* of $\alpha$.
+is the *union* of *α*.
 
 ### 4.2 Part II: Prolegomena to Cardinal Arithmetic
 
@@ -659,15 +659,15 @@ This section presents a discussion of relations between individuals of distinct 
 
 $$ \tag*{∗70·01} f: \alpha \rightarrow \beta \eqdf $$
 
-The functions *f* from $\alpha$ onto $\beta$, that is, the $\Domain \; f = \alpha$ and $\Range \; f = \beta$
+The functions *f* from *α* onto *β*, that is, the $\Domain \; f = \alpha$ and $\Range \; f = \beta$
 
 ##### Similarity of Classes
 
 $$ \tag*{∗73·01} \alpha \approx \beta \eqdf (\exists f) f : \alpha \stackrel{1-1}{\longrightarrow} \beta. $$
 
-There is a one-one function mapping $\alpha$ onto $\beta$ (*similarity* of $\alpha$ and $\beta$). Contemporary discussions say that $\alpha$ and $\beta$ are *equinumerous*. Difficulties arise with respect to the definition of cardinal numbers when the relation of similarity they involve is one that has a domain and range in different types. See ∗100 below.
+There is a one-one function mapping *α* onto *β* (*similarity* of *α* and *β*). Contemporary discussions say that *α* and *β* are *equinumerous*. Difficulties arise with respect to the definition of cardinal numbers when the relation of similarity they involve is one that has a domain and range in different types. See ∗100 below.
 
-The main theorem in this chapter is a proof of the Cantor-Bernstein theorem, that if a set $\alpha$ is similar to a subset *z* of another set $\beta$ and $\beta$ is similar to a subset $\delta$ of $\alpha$ then $\alpha$ and $\beta$ are themselves similar:
+The main theorem in this chapter is a proof of the Cantor-Bernstein theorem, that if a set *α* is similar to a subset *z* of another set *β* and *β* is similar to a subset *δ* of *α* then *α* and *β* are themselves similar:
 
 $$ \forall \alpha \forall \beta \forall \gamma \forall \delta \left[\left ( \begin{split} \alpha \approx \gamma & {}\amp \beta \approx \delta \\ &{} \amp \gamma \subseteq \beta \\ &{} \amp \delta \subseteq \alpha \\ \end{split} \right) \supset \alpha \approx \beta \right] \tag*{∗73·88} $$
 
@@ -677,9 +677,9 @@ The proof here explicitly follows the proof by Ernst Zermelo from 1908. Whitehea
 
 The multiplicative axiom, or “axiom” of choice, is not an axiom of PM, what is termed a “primitive proposition”, but is instead a defined expression that is added as an hypothesis to theorems for which it is used. This reflects the emerging awareness at the time of the role of the axiom of choice in various proofs, in particular, Zermelo’s proof that every class can be *well-ordered*.
 
-$${}\ \begin{aligned}&\textrm{Multiplicative}\\ &\textrm{Axiom} \end{aligned} \eqdf \forall \alpha \left\{ \begin{split} &\forall \beta (\beta \in \alpha \supset \beta \neq \emptyset ) \amp {}\\ &\;\;\forall \beta \forall \delta \left [ \left( \begin{split} \beta & \in \alpha \amp {}\\ \delta & \in \alpha \amp {}\\ \beta & \neq \delta \end{split} \right) \supset (\beta \cap \delta = \emptyset) \right] \supset \\ &\;\;\;\; \exists \beta \forall \delta \exists \gamma \left[ \begin{split} & \delta \in \alpha \supset \\ & \delta \cap {} \beta = \{\gamma\} \end{split} \right] \end{split} \right\} \tag*{∗88·03} $$
+$${}\ $$\begin{aligned}&\textrm{Multiplicative}\\ &\textrm{Axiom} \end{aligned}$$ \eqdf \forall \alpha \left\{ \begin{split} &\forall \beta (\beta \in \alpha \supset \beta \neq \emptyset ) \amp {}\\ &\;\;\forall \beta \forall \delta \left [ \left( \begin{split} \beta & \in \alpha \amp {}\\ \delta & \in \alpha \amp {}\\ \beta & \neq \delta \end{split} \right) \supset (\beta \cap \delta = \emptyset) \right] \supset \\ &\;\;\;\; \exists \beta \forall \delta \exists \gamma \left[ \begin{split} & \delta \in \alpha \supset \\ & \delta \cap {} \beta = \{\gamma\} \end{split} \right] \end{split} \right\} \tag*{∗88·03} $$
 
-If $\alpha$ is a class of mutually exclusive, non-empty, classes, then there is a (“choice”) set $\beta$ such that the intersection of $\beta$ with each member of $ \delta $ of $\alpha$ is a unique (chosen) member of $\delta $.
+If *α* is a class of mutually exclusive, non-empty, classes, then there is a (“choice”) set *β* such that the intersection of *β* with each member of $ \delta $ of *α* is a unique (chosen) member of $\delta $.
 
 ##### $\Rast$ The Ancestral Relation
 
@@ -695,13 +695,13 @@ $${R^2 \eqdf R \circ R},\quad {R^{n+1} \eqdf R \circ R^n},\quad \ldots$$
 
 These definitions begin with ∗91·03, using the notion of the ancestral of a higher-order relation between relations defined beginning with *R*.
 
-The main result of this section is another proof of the Cantor-Bernstein theorem: “This proof is essentially the same as Bernstein’s published originally by Borel [1898: Note 1, pp. 102–7]” (PM I, 589). In this proof the one-one relation between the sets $\alpha$ and $\beta$ is constructed from the powers of two relations: *R* that maps $\alpha$ into $\beta$, and *S* that maps $\beta$ into $\alpha$. The one-one mapping is constructed in stages. First all of $\alpha$ is mapped onto $\beta$ by *R*. Those elements in $\beta$ not in the range of *R* are mapped onto $\alpha$ by *S*. But some elements in the range of *S* will have already been mapped by *R*. They need to be shifted to a new image in $\beta$, again by *R*. This process is iterated through all of the powers of *R*, and then it is shown that the resulting relation is one to one from $\alpha$ onto $\beta$. See Hinkis 2013 for a history of the many different proofs of this theorem.
+The main result of this section is another proof of the Cantor-Bernstein theorem: “This proof is essentially the same as Bernstein’s published originally by Borel [1898: Note 1, pp. 102–7]” (PM I, 589). In this proof the one-one relation between the sets *α* and *β* is constructed from the powers of two relations: *R* that maps *α* into *β*, and *S* that maps *β* into *α*. The one-one mapping is constructed in stages. First all of *α* is mapped onto *β* by *R*. Those elements in *β* not in the range of *R* are mapped onto *α* by *S*. But some elements in the range of *S* will have already been mapped by *R*. They need to be shifted to a new image in *β*, again by *R*. This process is iterated through all of the powers of *R*, and then it is shown that the resulting relation is one to one from *α* onto *β*. See Hinkis 2013 for a history of the many different proofs of this theorem.
 
 ## 5. Volume II
 
 ### 5.1 Prefatory Statement of Symbolic Conventions
 
-The writing of this preface delayed the publication of the second volume of PM, as Whitehead and Russell struggled over the complications it raised. The difficulties arise from the *typical ambiguity* of terms and formulas of the theory of types. Every constant, such as those for the numbers $0,1, \ldots, \aleph_0$ will have a definition relative to each type. Without assuming the axiom of infinity for individuals, there is no guarantee that a given constant designates a non-empty class in a given type. The preface introduces the notion of “formal numbers”, which are to be interpreted as belonging to a type that makes them not identical with the $\emptyset$ for that type. Volume II begins with Part III, “Cardinal Arithmetic”. The notions of cardinal numbers are developed in full generality, extending to infinite cardinals. Consequently the theory of natural numbers, which are called “Inductive Cardinals” in PM, is introduced with a series of definitions of special cases of notions that are first introduced in a general form applying to any numbers or classes. For example, addition of natural numbers, as in the famous proof that $1 + 1 = 2$ in ∗110·04, is proved for the special case of the addition of classes that applies to cardinal numbers, ‘$+_c$’. The Prefatory Statement introduces the notion of *homogeneous cardinals*, which are classes of similar classes whose members are all of the same type. It is possible to define similarity between two classes $\alpha$ and $\beta$ of distinct types, say $\tau$ and $\tau '$, and cardinals are classified as *descending* or *ascending* as the domain of the relevant similarity relation is of a higher type than the range, or of a lower type, respectively. The theory of cardinal numbers is straightforward with homogeneous cardinals, however the exceptions must be kept in mind, as is evidenced in ∗100.
+The writing of this preface delayed the publication of the second volume of PM, as Whitehead and Russell struggled over the complications it raised. The difficulties arise from the *typical ambiguity* of terms and formulas of the theory of types. Every constant, such as those for the numbers $0,1, \ldots, \aleph_0$ will have a definition relative to each type. Without assuming the axiom of infinity for individuals, there is no guarantee that a given constant designates a non-empty class in a given type. The preface introduces the notion of “formal numbers”, which are to be interpreted as belonging to a type that makes them not identical with the $\emptyset$ for that type. Volume II begins with Part III, “Cardinal Arithmetic”. The notions of cardinal numbers are developed in full generality, extending to infinite cardinals. Consequently the theory of natural numbers, which are called “Inductive Cardinals” in PM, is introduced with a series of definitions of special cases of notions that are first introduced in a general form applying to any numbers or classes. For example, addition of natural numbers, as in the famous proof that $1 + 1 = 2$ in ∗110·04, is proved for the special case of the addition of classes that applies to cardinal numbers, ‘$+_c$’. The Prefatory Statement introduces the notion of *homogeneous cardinals*, which are classes of similar classes whose members are all of the same type. It is possible to define similarity between two classes *α* and *β* of distinct types, say *τ* and $\tau '$, and cardinals are classified as *descending* or *ascending* as the domain of the relevant similarity relation is of a higher type than the range, or of a lower type, respectively. The theory of cardinal numbers is straightforward with homogeneous cardinals, however the exceptions must be kept in mind, as is evidenced in ∗100.
 
 ### 5.2 Part III: Cardinal Arithmetic
 
@@ -723,11 +723,11 @@ Only one direction of this equivalence is provable in PM:
 
 $$ \tag*{∗100·321} \alpha \approx \beta \supset \# \alpha = \# \beta $$
 
-The failure of the other direction, the implication from right to left, is due to the possibility that $\alpha$ and $\beta$ are of different types, so that any similarity relation between them will have its domain and range in different types. Suppose there are $\aleph_0$ individuals, and consider two higher types with the cardinals in them of even larger, but distinct, cardinalities: say, $\alpha$ in some high type with cardinality $\aleph_1$ and $\beta$ in an even higher type with cardinality $\aleph_2$. There are no sets of individuals similar to $\alpha$ or $\beta$, so no similarity relation with a domain in $\alpha$ or $\beta$ will hold with respect to any set in the type of individuals. Suppose that $\#$ is defined in terms of such *descending* relation. Therefore $\# \alpha = \{ \Lambda \} = 0$ and $\# \beta = \{ \Lambda \} = 0$ so $\# \alpha = \# \beta$, yet $\alpha \not\approx \beta$ on any similarity relation of whatever domain and range, because their cardinalities differ. Whitehead and Russell assert that the case of $\alpha$ and $\beta$ being in different types is the only way to construct an exception to this direction of Hume’s principle, and offer as a restricted version:
+The failure of the other direction, the implication from right to left, is due to the possibility that *α* and *β* are of different types, so that any similarity relation between them will have its domain and range in different types. Suppose there are $\aleph_0$ individuals, and consider two higher types with the cardinals in them of even larger, but distinct, cardinalities: say, *α* in some high type with cardinality $\aleph_1$ and *β* in an even higher type with cardinality $\aleph_2$. There are no sets of individuals similar to *α* or *β*, so no similarity relation with a domain in *α* or *β* will hold with respect to any set in the type of individuals. Suppose that $\#$ is defined in terms of such *descending* relation. Therefore $\# \alpha = \{ \Lambda \} = 0$ and $\# \beta = \{ \Lambda \} = 0$ so $\# \alpha = \# \beta$, yet $\alpha \not\approx \beta$ on any similarity relation of whatever domain and range, because their cardinalities differ. Whitehead and Russell assert that the case of *α* and *β* being in different types is the only way to construct an exception to this direction of Hume’s principle, and offer as a restricted version:
 
 $$ \tag*{∗100·34} \exists \gamma [\gamma \in (\alpha \cap \beta) ] \supset ( \alpha \approx \beta \equiv \# \alpha = \# \beta ) $$
 
-The antecedent guarantees that $\alpha$ and $\beta$ are of the same type, and so the cardinal numbers involved are *homogeneous cardinals*. (Landini (2016)[^landini-2016] argues that this section of PM is confused.)
+The antecedent guarantees that *α* and *β* are of the same type, and so the cardinal numbers involved are *homogeneous cardinals*. (Landini (2016)[^landini-2016] argues that this section of PM is confused.)
 
 ##### 0 Defined
 
@@ -739,7 +739,7 @@ The class of all classes equinumerous with the empty set is just the singleton c
 
 $$ \tag*{∗110·01} \alpha + \beta \eqdf [\{ \beta \cap \emptyset \} \times \{\alpha \}] \cup [ \{ \alpha \times \{ \beta \} ] $$
 
-(If $ \alpha, \beta \neq \emptyset $ , otherwise $ \alpha + \emptyset = \alpha, \emptyset + \beta = \beta $ ). This qualification is hidden in PM by the use of expressions for functional relations that are sometimes undefined. The *arithmetic sum* of $\alpha$ and $\beta$ is the union of $\alpha$ and $\beta$ after they are made disjoint by summing the pairing the elements of $\beta$ with elements of $\{ \alpha \}$ and the elements of $\alpha$ with the elements of $\{ \beta \}$. (The *Cartesian product* of $ \gamma $ and $ \delta $, $ \gamma \times \delta $, is $ \{ \langle x, y \rangle | x \in \gamma \; \amp \; y \in \delta \} $). The classes $\alpha$ and $\beta$ are intersected with the empty class, $\emptyset$, to adjust the type of the elements of the sum. It is more recognizable to contemporary set theory by the equivalent definition (subject to the same exception when :
+(If $ \alpha, \beta \neq \emptyset $ , otherwise $ \alpha + \emptyset = \alpha, \emptyset + \beta = \beta $ ). This qualification is hidden in PM by the use of expressions for functional relations that are sometimes undefined. The *arithmetic sum* of *α* and *β* is the union of *α* and *β* after they are made disjoint by summing the pairing the elements of *β* with elements of $\{ \alpha \}$ and the elements of *α* with the elements of $\{ \beta \}$. (The *Cartesian product* of $ \gamma $ and $ \delta $, $ \gamma \times \delta $, is $ \{ \langle x, y \rangle | x \in \gamma \; \amp \; y \in \delta \} $). The classes *α* and *β* are intersected with the empty class, $\emptyset$, to adjust the type of the elements of the sum. It is more recognizable to contemporary set theory by the equivalent definition (subject to the same exception when :
 
 $$\alpha + \beta \eqdf \{ \langle \emptyset, x \rangle | x \in \alpha \} \cup \{ \langle y, \emptyset \rangle | y \in \beta \} $$
 
@@ -747,7 +747,7 @@ The *cardinal sum* of *y* and *x*
 
 $$ \tag*{∗110·02} {}\quad y +_c x = \{ z \mid \exists \alpha \exists \beta [( y = \# \alpha \amp x = \# \beta) \amp z \approx \alpha + \beta ] \} $$
 
-$y +_c x$ expresses the *cardinal addition* of cardinals *y* and *x*. It is the arithmetical sum of “homogeneous cardinals”, cardinals of a uniform type, to which $\alpha$ and $\beta$ are related by $\rN_0 c$ (itself defined at [∗103·01]). The notation indicating that $\alpha$ is a homogeneous cardinal $\alpha$ is $\rN_0 c\pmsq\alpha$, which we might write as $\#_0$ in an extension of our contemporary notation replacing $\#$ above.
+$y +_c x$ expresses the *cardinal addition* of cardinals *y* and *x*. It is the arithmetical sum of “homogeneous cardinals”, cardinals of a uniform type, to which *α* and *β* are related by $\rN_0 c$ (itself defined at [∗103·01]). The notation indicating that *α* is a homogeneous cardinal *α* is $\rN_0 c\pmsq\alpha$, which we might write as $\#_0$ in an extension of our contemporary notation replacing $\#$ above.
 
 The reader can now appreciate the notorious fact that $1 +1=2$, the most elementary truth of arithmetic, is not proved until page 83 of Volume II of *Principia Mathematica*, and even then, almost as an afterthought:
 
@@ -757,7 +757,7 @@ Whitehead and Russell remark that “The above proposition is occasionally usefu
 
 ##### Exponentiation
 
-Exponentiation for cardinals is defined in such a way that it coincides with Cantor’s notion that the cardinality of the powerset of a class $\alpha$ is 2 raised to the power of the cardinality of $\alpha$:
+Exponentiation for cardinals is defined in such a way that it coincides with Cantor’s notion that the cardinality of the powerset of a class *α* is 2 raised to the power of the cardinality of *α*:
 
 $$ \tag*{∗116·72} \lvert\lvert \wp \alpha \rvert\rvert = 2^{\lvert\lvert \alpha \rvert\rvert } $$
 
@@ -767,7 +767,7 @@ Cantor’s Theorem:
 
 $$ \tag*{∗117·661} 2^{y} > y $$
 
-This is Cantor’s theorem that the if a set $\alpha$ has a cardinal number *y* then the cardinal number $2^{y}$ of the powerset of $\alpha$ is greater than *y*.
+This is Cantor’s theorem that the if a set *α* has a cardinal number *y* then the cardinal number $2^{y}$ of the powerset of *α* is greater than *y*.
 
 ##### The Natural Numbers
 
@@ -775,7 +775,7 @@ The most direct comparison with Frege’s development of the natural numbers com
 
 The solution in PM is to guarantee that for each finite set of *n* individuals of type 0, there will be some object not in that set, which can be included in the set defining the successor. That such a new individual can be found is guaranteed by the axiom of infinity, which in effect asserts the existence of distinct individuals of any finite number. It is interesting to note the “axiom” of infinity is not a *primitive proposition* of the logic of PM. Instead it is an additional hypothesis, to be used as an antecedent to mathematical assertions upon which it depends. The issue of whether the system of PM succeeds as *logicism* is thus not settled by noting that an axiom of infinity has to be assumed, but by determining whether that “axiom” is derivable from logical principles alone.
 
-In axiomatic set theory the “axiom of infinity” guarantees the existence of a particular set, the ordinal $\omega$:
+In axiomatic set theory the “axiom of infinity” guarantees the existence of a particular set, the ordinal *ω*:
 
 $$ \exists x [ \emptyset \in x \amp \forall y ( y \in x \supset y \cup \{ y\} \in x ) ] $$
 
@@ -798,13 +798,13 @@ Whitehead and Russell do carry out the step of the logicist program of deriving 
 3. No two numbers have the same successor (assuming the axiom of infinity). $$ \tag*{∗120·31} \ \textrm{Axiom of Infinity} \supset (n +_{c} 1 = m +_{c} 1 \supset n = m) $$
 4. Given the way that the successor operation is defined, it is not a matter of logic that there is an extra individual to add to a set of size *n* to give one of size $n +_{c} 1$. This is guaranteed by adding the axiom of infinity as an hypothesis to the theorem.
 5. 0 is not the successor of any number. $$ \tag*{∗120·124} n +_{c} 1 \neq 0 $$
-6. Any property $\phi$ which belongs to 0, and belongs to the successor of *m* provided that it belongs to *m*, belongs to all natural numbers *n*. $$ \tag*{∗120·13} \forall n \{ [ n \in \rN \; \amp \; \forall m( \phi m \supset \phi (m +_c 1)) \; \amp \; \phi \: 0] \supset \phi n \} $$
+6. Any property *φ* which belongs to 0, and belongs to the successor of *m* provided that it belongs to *m*, belongs to all natural numbers *n*. $$ \tag*{∗120·13} \forall n \{ [ n \in \rN \; \amp \; \forall m( \phi m \supset \phi (m +_c 1)) \; \amp \; \phi \: 0] \supset \phi n \} $$
 
 In contemporary set theory the notion of the successor of a number is defined directly for the ordinals as $s(x) = x \cup \{x \} $ rather than by adding 1, and addition is defined using the familiar recursive definition:
 
 $$ \begin{align} x + 0 & = x\\ x + s(y) & = s (x + y) \end{align} $$
 
-The use of recursive definitions is justified by a theorem proving that they describe a unique function. The induction axiom is justified by showing that any class that contains 0, and for any number *n* contains $s(n)$, will contain all of the numbers in $\omega$. The existence of $\omega$ is guaranteed by the ZF axiom of infinity.
+The use of recursive definitions is justified by a theorem proving that they describe a unique function. The induction axiom is justified by showing that any class that contains 0, and for any number *n* contains $s(n)$, will contain all of the numbers in *ω*. The existence of *ω* is guaranteed by the ZF axiom of infinity.
 
 At this point, after 225 pages in Volume II, the reader will see how to compare the logicist reduction of arithmetic in PM with rival accounts of Frege and of contemporary set theory.
 
@@ -832,7 +832,7 @@ The inductive and reflexive notions of infinity coincide if one assumes that axi
 
 George Boolos (1994: 27)[^boolos-1994] describes the details of this argument and quotes J.R. Littlewood as saying:
 
-> He [Russell] has a secret craving to have proved *some* straight mathematical theorem. As a matter of fact there *is* one: “$2^{2^{\alpha}} > \aleph_0$ if $\alpha$ is infinite”. Perfectly good mathematics.
+> He [Russell] has a secret craving to have proved *some* straight mathematical theorem. As a matter of fact there *is* one: “$2^{2^{\alpha}} > \aleph_0$ if *α* is infinite”. Perfectly good mathematics.
 
 As use of the axiom of choice is explicitly indicated, and many results do not use it, the unique contribution to set theory of PM may be in its indication of what can be proved without assuming choice.
 
@@ -876,7 +876,7 @@ $$P \otimes (Q \oplus R) = (P \otimes Q) \oplus (P \otimes R).$$
 
 For the purposes of defining rational and real numbers as relations between relations, it is necessary to define the ordering relation between individuals related by the relation, that is, in the domain or range (the *field*) of the relations. This is described in the summary of ∗170 and a theorem as follows:
 
-> … $\alpha$ is said to precede $\beta$ … if we consider the two classes $\alpha - \beta$ and $\beta - \alpha$, there are members of $\alpha - \beta$ which are not preceded by any members of $\beta - \alpha$. (Vol. II, 1912: 411 and 1927: 399)
+> … *α* is said to precede *β* … if we consider the two classes $\alpha - \beta$ and $\beta - \alpha$, there are members of $\alpha - \beta$ which are not preceded by any members of $\beta - \alpha$. (Vol. II, 1912: 411 and 1927: 399)
 
 - ∗170·01 $\alpha $ precedes $ \beta $ in the relation $P $ $$ \alpha P_{lc}\beta \equiv \exists x \{ x \in ( \alpha - \beta) \amp \lnot [ \exists y (y \in \beta - \alpha \amp y\relP x)] \} $$
 
@@ -896,7 +896,7 @@ A *series* (*linear ordering*) is defined as a relation that is *irreflexive* $\
 
 ##### Sequents
 
-> Thus sequents of $\alpha$ are its immediate successors. If $\alpha$ has a maximum, the sequents are the immediate successors of the maximum; but if $\alpha$ has no maximum, there will be no one term of $\alpha$ which is immediately succeeded by a sequent of $\alpha$; in this case, if $\alpha$ has a single sequent, the sequent is the “upper limit” of $\alpha$. (PM Vol. II, “Summary of ∗205”, 1912: 577 or 1927: 559)
+> Thus sequents of *α* are its immediate successors. If *α* has a maximum, the sequents are the immediate successors of the maximum; but if *α* has no maximum, there will be no one term of *α* which is immediately succeeded by a sequent of *α*; in this case, if *α* has a single sequent, the sequent is the “upper limit” of *α*. (PM Vol. II, “Summary of ∗205”, 1912: 577 or 1927: 559)
 
 ##### Dedekindian Relations
 
@@ -934,7 +934,7 @@ The discussion of “transfinitely hereditary” properties in ∗257 constitute
 
 ##### Finite Ordinals
 
-It is shown in ∗262 that every infinite well-ordered series consists of a series (well-ordered set) of progressions. ($\omega$ orderings.)
+It is shown in ∗262 that every infinite well-ordered series consists of a series (well-ordered set) of progressions. (*ω* orderings.)
 
 ##### The Series of Alephs
 
@@ -962,7 +962,7 @@ $$\forall j \forall k \forall l [(n = j \times l \amp m = k \times l )\supset l 
 
 ##### Real Numbers
 
-The real numbers $\Theta$ are defined as “the series of segments of the series of ratios”, or the set of Dedekind cuts of the sequence of rational numbers, in their standard ordering. Technically $\Theta$ is a relation in extension. The individuals that are related in the ratios, and thus at the basis of the series of rational numbers, must be infinite in number for the PM version of the real numbers to have the structure we expect. In the introductory material to the section Whitehead and Russell point out that while the construction of the reals thus requires the axiom of infinity, they add it the axiom as an assumption to the theorems where needed and try as much as possible to derive results upon which do not rely on it.
+The real numbers *Θ* are defined as “the series of segments of the series of ratios”, or the set of Dedekind cuts of the sequence of rational numbers, in their standard ordering. Technically *Θ* is a relation in extension. The individuals that are related in the ratios, and thus at the basis of the series of rational numbers, must be infinite in number for the PM version of the real numbers to have the structure we expect. In the introductory material to the section Whitehead and Russell point out that while the construction of the reals thus requires the axiom of infinity, they add it the axiom as an assumption to the theorems where needed and try as much as possible to derive results upon which do not rely on it.
 
 The theory of real numbers in PM is closer to that of Frege than the “arithmetizing” accounts of Dedekind or Cantor. Dedekind postulated that irrational numbers are to be “created” to fill out the gaps in the series of rational numbers that are marked by Dedekind cuts (Dedekind 1872 [1901: 15])[^dedekind-1872], while Cantor (1883: §9, para. 8 [1996: 899]) identified real numbers with the limits of sequences of rational numbers.
 

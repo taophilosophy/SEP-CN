@@ -6,7 +6,7 @@
 
 ## Approaches to Constructive Topology
 
-One of the basic results of classical point set topology is the Heine-Borel theorem (HBT): if a set of open intervals covers the closed unit interval [0,1], then already finitely many of them cover the interval; in other words, [0,1] is *open-cover compact*. Within INT the theorem is still valid by an appeal to the full fan theorem (Dummett [2000]). Moerdijk [1984] has shown that HBT is strictly weaker than the full fan theorem, but we do not know of any natural fan theorem to which the Heine-Borel theorem is equivalent relative to BISH. HBT is one example of how fan theorems facilitate the development of topology within INT; see also Troelstra [1978] and Waaldijk [1996]. However the effectivity of HBT can be called into question, as within RUSS the existence of $\varepsilon$-singular covers (see Section 3.2 above) provides a strong recursive counterexample to the theorem.
+One of the basic results of classical point set topology is the Heine-Borel theorem (HBT): if a set of open intervals covers the closed unit interval [0,1], then already finitely many of them cover the interval; in other words, [0,1] is *open-cover compact*. Within INT the theorem is still valid by an appeal to the full fan theorem (Dummett [2000]). Moerdijk [1984] has shown that HBT is strictly weaker than the full fan theorem, but we do not know of any natural fan theorem to which the Heine-Borel theorem is equivalent relative to BISH. HBT is one example of how fan theorems facilitate the development of topology within INT; see also Troelstra [1978] and Waaldijk [1996]. However the effectivity of HBT can be called into question, as within RUSS the existence of *ε*-singular covers (see Section 3.2 above) provides a strong recursive counterexample to the theorem.
 
 In his practice of analysis, Bishop [1967] took a radical approach by limiting his attention to metric spaces, in which compactness can be defined as completeness plus total boundedness. Moreover, he took the continuity of a function from a compact metric space into a metric space to mean uniform continuity, by definition. This allowed him to regain most of the useful theorems about, for example, suprema and positive measures, without referring to HBT. It is possible to generalise his theory to uniform spaces, but for some applications this is clearly not sufficient: for instance, quotient spaces of uniform spaces need not be uniform spaces, a fact that bars direct applicability to fields such as algebraic topology.
 
@@ -69,7 +69,7 @@ $$ x \bowtie S \Leftrightarrow \exists r \gt 0\,\forall s \in S\, (\varrho(x, s)
 
 The real line $\mathbf{R}$ with its standard metric is such an apartness space. However, if we take the real line with the denial inequality, rather than metric one, then axiom A5 holds if and only if we adopt Markov’s principle; so in the absence of the latter, the resulting space is only a pre-apartness one.
 
-For the rest of this section only, we adopt the convention that a topological space $X$ comes with an inequality relation $\ne$. The topology $\tau$ then induces a topological pre-apartness $\bowtie_{\tau}$ on $X$, defined by
+For the rest of this section only, we adopt the convention that a topological space $X$ comes with an inequality relation $\ne$. The topology *τ* then induces a topological pre-apartness $\bowtie_{\tau}$ on $X$, defined by
 
 $$ x \bowtie_{\tau} S \Leftrightarrow x \in({\sim}S)^{\circ}, $$
 
@@ -79,7 +79,7 @@ $$ \forall x \in X\, \forall U \in \tau\, (x \in U \Rightarrow \forall y \in X\,
 
 then the corresponding pre-apartness is an apartness. Note that on a metric apartness space the apartness corresponding to the metric topology coincides with the metric apartness.
 
-Every pre-apartness $\bowtie$ on an inhabited set induces a natural apartness topology $\tau_{\bowtie}$, in which the *nearly open sets* are the unions of families of apartness complements. In turn, $\tau_{\bowtie}$ induces on $X$ a pre-apartness, which turns out to be the original one. If the pre-apartness $\bowtie$ is induced by a topology $\tau$ on $X$, then every nearly open subset of $X$ is $\tau$-open. When the converse holds, so that the apartness topology and the original one coincide, we say that the topological space $X$ is *topologically consistent*. Topological consistency always holds classically, but need not hold constructively. One condition on $X$ that ensures its topological consistency is that of *topological local decomposability*:
+Every pre-apartness $\bowtie$ on an inhabited set induces a natural apartness topology $\tau_{\bowtie}$, in which the *nearly open sets* are the unions of families of apartness complements. In turn, $\tau_{\bowtie}$ induces on $X$ a pre-apartness, which turns out to be the original one. If the pre-apartness $\bowtie$ is induced by a topology *τ* on $X$, then every nearly open subset of $X$ is *τ*-open. When the converse holds, so that the apartness topology and the original one coincide, we say that the topological space $X$ is *topologically consistent*. Topological consistency always holds classically, but need not hold constructively. One condition on $X$ that ensures its topological consistency is that of *topological local decomposability*:
 
 $$ \forall x \in X\, \forall U \in \tau\, (x \in U \Rightarrow \exists V \in \tau\, (x \in V \wedge X = U \cup{\sim}V). $$
 
@@ -93,7 +93,7 @@ One obvious way to introduce continuity of a mapping $f : (X, \bowtie_X) \righta
 
 $$ f(x) \bowtie_Y f(S) \Rightarrow x \bowtie_X S. $$
 
-If $X$ and $Y$ are metric spaces, then the apartness continuity of $f$ is equivalent to continuity in the usual $\varepsilon$-$\delta$ sense.
+If $X$ and $Y$ are metric spaces, then the apartness continuity of $f$ is equivalent to continuity in the usual *ε*-*δ* sense.
 
 The really hard work, with significant rewards, in the theory of apartness comes when we lift our attention to pre-apartness between subsets of an inhabited set $X$. For this, we require the (set-set) pre-apartness $\bowtie$ to satisfy the following axioms:
 
@@ -166,14 +166,14 @@ A *formal topology* is a triple $\langle A, \le, \cov \rangle$ consisting of a s
 - $\mathbf{T}$ (transitivity): $a \cov V$, whenever $a \cov U$, and for each $b \in U$, $b \cov V$
 - $\mathbf{L}$ (localization): If $b \cov U$ and $a \le b$, then $a \cov a \downarrow U$, where $$ a \downarrow U \equiv \{x \in A : x \le a \wedge \exists y \in U (x \le y\}). $$
 
-A *point* in this topology is an inhabited subset $\alpha$ of basic opens which satisfies these conditions:
+A *point* in this topology is an inhabited subset *α* of basic opens which satisfies these conditions:
 
 - $\mathbf{F}$ (filtering): If $a, b \in \alpha$, then there exists $c \in \alpha$ with $c \le a$ and $c \le b$.
 - $\mathbf{S}$ (splitting): If $a \in \alpha$ and $a \cov U$, then for some $b \in U, b \in \alpha$.
 
 We think of a point as a set of approximations. The filtering property insures that any two approximations have a common refinement, whereas the splitting property allows an approximation to be refined in any way the cover relation allows.
 
-For any set $U \subseteq A$, we let $U^*$ be the set of all points $\alpha$ where $a \in U$ for some $a \in \alpha$. It can be shown that the points together with the sets $U^*$ form a point-set topology in the usual sense, and that formal cover implies point-wise cover:
+For any set $U \subseteq A$, we let $U^*$ be the set of all points *α* where $a \in U$ for some $a \in \alpha$. It can be shown that the points together with the sets $U^*$ form a point-set topology in the usual sense, and that formal cover implies point-wise cover:
 
 $$ a \cov U \Rightarrow \{a\}^* \subseteq U^*. $$
 

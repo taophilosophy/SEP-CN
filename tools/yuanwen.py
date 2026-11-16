@@ -79,6 +79,21 @@ NAKED_ENV_RE = re.compile(
     r'eqnarray\*?|displaymath)\}[\s\S]*?\\end\{\1\}(?!\$)')
 
 
+def _wrap_naked_env(m):
+    """裸排显示环境包 `$$`（ADR-0049 决策 6）；已定界者不动。
+
+    守卫须容忍空白：SEP 输出形如 `$$ \\begin{align}…\\end{align} $$`（`$$` 与
+    `\\begin` 之间有空格），紧邻 lookaround 会漏判并造成**双重包裹**
+    （2026-11-16 全量重转实测 90 件、484 处）。
+    """
+    s = m.string
+    if s[:m.start()].rstrip(' \t').endswith('$$'):
+        return m.group(0)
+    if s[m.end():].lstrip(' \t').startswith('$$'):
+        return m.group(0)
+    return '$$' + m.group(0) + '$$'
+
+
 def strip_closed_comments(region):
     return COMMENT_RE.sub('', region)
 
@@ -414,7 +429,7 @@ def inline_to_md(html, slug=None):
             v = '$$' + v[2:-2] + '$$'
         s = s.replace('\x00%d\x00' % idx, v)
     # ADR-0049 转换层并入：裸排显示环境补 $$ 包裹（防 markdown 吃 \\ 行分隔）
-    s = NAKED_ENV_RE.sub(lambda m: '$$' + m.group(0) + '$$', s)
+    s = NAKED_ENV_RE.sub(_wrap_naked_env, s)
     for idx, val in enumerate(tstore):
         # 嵌套表段原样还原：不解码、不归一（HTML 段不参与 markdown 处理）
         s = s.replace('\x00T%d\x00' % idx, val)

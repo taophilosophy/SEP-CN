@@ -259,7 +259,7 @@ Boole said the *universe of a categorical proposition* has two cases, *true* and
 
 These elective expressions are, of course, the *constituents* of $x$, $y$.
 
-Boole expressed a propositional formula $\Phi(X,Y, \ldots)$ by an elective equation $\phi(x,y, \ldots)$ = 1 by ascertaining all the distinct cases (assignments of truth values) for which the formula holds, and summing their corresponding elective expressions to obtain $\phi$.
+Boole expressed a propositional formula $\Phi(X,Y, \ldots)$ by an elective equation $\phi(x,y, \ldots)$ = 1 by ascertaining all the distinct cases (assignments of truth values) for which the formula holds, and summing their corresponding elective expressions to obtain *φ*.
 
 For example, the elective expression for *$X$ is true or $Y$ is true*, with *or* inclusive, is thus $xy + x(1 - y) + (1 - x)y = 1$, which simplifies to $x + y - xy = 1$.
 
@@ -267,7 +267,7 @@ Boole did not have the modern view that a propositional formula can be considere
 
 By not viewing propositional formulas as functions on $\{$T, F$\}$ Boole missed out on being the inventor of truth tables. His algebraic method of analyzing hypothetical syllogisms was to transform each of the hypothetical premises into an elective equation, and then apply his algebra of logic (which was developed for categorical propositions). For example, the premises *$X$ is true or $Y$ is true*, with *or* inclusive, and *$X$ is false* are expressed by the equations $x + y - xy = 1$ and $x = 0$. From these it immediately follows that $y = 1$, giving the conclusion *$Y$ is true*.
 
-Boole only considered rather simple hypothetical propositions on the grounds these were the only ones encountered in common usage (see *LT*, p. 172). His algebraic approach to propositional logic is easily extended to all propositional formulas as follows. For $\Phi$ a propositional formula the associated elective function $\Phi^*$ is defined recursively as follows:
+Boole only considered rather simple hypothetical propositions on the grounds these were the only ones encountered in common usage (see *LT*, p. 172). His algebraic approach to propositional logic is easily extended to all propositional formulas as follows. For *Φ* a propositional formula the associated elective function $\Phi^*$ is defined recursively as follows:
 
 - $0^* = 0$; $1^* = 1$; $X^* = x$;
 - $(\text{not-}\Phi)^* = 1 - \Phi^*$;
@@ -279,12 +279,12 @@ Boole only considered rather simple hypothetical propositions on the grounds the
 
 Then one has:
 
-1. $\Phi$ is a tautology iff $\Phi^* = 1$ is valid in Boole’s algebra.
+1. *Φ* is a tautology iff $\Phi^* = 1$ is valid in Boole’s algebra.
 2. $\Phi_1$, ... , $\Phi_k \therefore \Phi$ is valid in propositional logic iff $\Phi_{1}^* = 1, \ldots , \Phi_{k}^* = 1 \therefore \Phi^* = 1$ is valid in Boole’s algebra.
 
 This looks quite different from modern propositional logic where one takes a few tautologies, such as $X \rightarrow(Y \rightarrow X)$, as axioms, and inference rules such as modus ponens to form a deductive system.
 
-This translation, from $\Phi$ to $\Phi^*$, viewed as mapping expressions from modern Boolean algebra to polynomials, would be presented in the 1933 paper *Characteristic functions and the algebra of logic* by Hassler Whitney (1907–1989), with the objective of showing that one does not need to learn the algebra of logic [modern Boolean algebra] to verify the equational laws and equational arguments of Boolean algebra—they can be translated into the ordinary algebra with which one is familiar. Howard Aiken (1900–1973), Director of the Harvard Computation Laboratory, would use such translations of logical functions into ordinary algebra in his 1951 book *Synthesis of Electronic Computing and Control Circuits*, specifically stating that he preferred Boole’s numerical function approach to that of Boolean algebra or propositional logic.
+This translation, from *Φ* to $\Phi^*$, viewed as mapping expressions from modern Boolean algebra to polynomials, would be presented in the 1933 paper *Characteristic functions and the algebra of logic* by Hassler Whitney (1907–1989), with the objective of showing that one does not need to learn the algebra of logic [modern Boolean algebra] to verify the equational laws and equational arguments of Boolean algebra—they can be translated into the ordinary algebra with which one is familiar. Howard Aiken (1900–1973), Director of the Harvard Computation Laboratory, would use such translations of logical functions into ordinary algebra in his 1951 book *Synthesis of Electronic Computing and Control Circuits*, specifically stating that he preferred Boole’s numerical function approach to that of Boolean algebra or propositional logic.
 
 ### 3.8 General Theorems of Boole’s Algebra in *MAL*
 

@@ -11,7 +11,7 @@ The axiomatic system provided here is an adaptation of similar axiomatic systems
 I. **Axiom schemes:**
 
 1. All axioms of the minimal propositional temporal logic $\mathbf{K}_{t}$
-2. Universal Instantiation ($\forall$-Elimination): $\forall x \varphi(x) \to \varphi(\tau)$, for any term $\tau$ free for substitution for $x$ in $\varphi$
+2. Universal Instantiation ($\forall$-Elimination): $\forall x \varphi(x) \to \varphi(\tau)$, for any term *τ* free for substitution for $x$ in *φ*
 3. Reflexivity of equality: $\forall x (x = x)$
 4. Extensionality: $\forall x \forall y (x = y \to (\varphi[x/z] \to \varphi[y/z]))$
 5. Future necessity of non-equality: $\forall x\forall y(x \neq y \to G (x \neq y))$
@@ -21,7 +21,7 @@ II. **Inference rules**  (where $\vdash_{\mathrm{CD}}$ denotes derivability in 
 1. Modus Ponens: If $\vdash_{\mathrm{CD}} \varphi \rightarrow \psi$ and $\vdash_{\mathrm{CD}} \varphi$, then $\vdash_{\mathrm{CD}} \psi$
 2. $G$-Necessitation: If $\vdash_{\mathrm{CD}} \varphi$, then $\vdash_{\mathrm{CD}} G \varphi$
 3. $H$-Necessitation: If $\vdash_{\mathrm{CD}} \varphi$, then $\vdash_{\mathrm{CD}} H \varphi$
-4. Universal Generalization ($\forall$-Introduction): If $\vdash_{\mathrm{CD}} \psi \to \varphi(x)$, then $\vdash_{\mathrm{CD}} \psi \to \forall x \varphi$, where $x$ does not occur free in $\psi$
+4. Universal Generalization ($\forall$-Introduction): If $\vdash_{\mathrm{CD}} \psi \to \varphi(x)$, then $\vdash_{\mathrm{CD}} \psi \to \forall x \varphi$, where $x$ does not occur free in *ψ*
 
 III. **Some important theorems:**
 

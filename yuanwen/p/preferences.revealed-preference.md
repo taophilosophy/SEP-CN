@@ -16,7 +16,7 @@ then,
 
 $$\begin{align} \text{for all } \mathcal{B} \text{ with } X_1,X_2 ,\ldots ,X_n &\in \mathcal{B}, \text{ if } X_i\in \mathbf{C}(\mathcal{B}), i\in \{1,\ldots ,n\}, \\ \text{ then } X_1,X_2 ,\ldots ,X_{i-1}&\in \mathbf{C}(\mathcal{B}) \quad\text{(SARP)} \end{align}$$
 
-Simplified, SARP says that if from a set of alternatives $\mathcal{A}_1, X$ is chosen when $Y$ and $Z$ are available, and if in some other set of alternatives $\mathcal{A}_2, Y$ is chosen while $Z$ is available, then there can be no set of alternatives containing alternatives $X$ and $Z$ for which $Z$ is chosen and $X$ is not. (SARP says this for chains of unlimited length). SARP is much stronger than $\alpha , \beta$ and $\gamma$ combined. However, for choice functions that specify choices over all subsets of the alternative set with at most three elements, SARP is equivalent to WARP and hence to properties $\alpha$ and $\beta$ (Sen 1971, 50).
+Simplified, SARP says that if from a set of alternatives $\mathcal{A}_1, X$ is chosen when $Y$ and $Z$ are available, and if in some other set of alternatives $\mathcal{A}_2, Y$ is chosen while $Z$ is available, then there can be no set of alternatives containing alternatives $X$ and $Z$ for which $Z$ is chosen and $X$ is not. (SARP says this for chains of unlimited length). SARP is much stronger than $\alpha , \beta$ and *γ* combined. However, for choice functions that specify choices over all subsets of the alternative set with at most three elements, SARP is equivalent to WARP and hence to properties *α* and *β* (Sen 1971, 50).
 
 ### Second Construction Method
 

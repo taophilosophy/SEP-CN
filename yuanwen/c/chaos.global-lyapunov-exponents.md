@@ -14,7 +14,7 @@ where the matrix $\bJ(\bx)$ is the $n\times n$ Jacobian matrix of partial deriva
 
 $$\tag{A2} \frac{d\varepsilon}{dt} = \bJ(\bx^*)\varepsilon + O(\varepsilon^2). $$
 
-A linear stability analysis results if we neglect terms of $\varepsilon^{2}$ or higher powers in (A2). If $\varepsilon$ is a real-valued vector and $\bJ$ a real-valued matrix (i.e., having no complex values), and we assume a solution of the form $\varepsilon = \lambda e^{st}$, (A2) reduces to the eigenvalue equation
+A linear stability analysis results if we neglect terms of $\varepsilon^{2}$ or higher powers in (A2). If *ε* is a real-valued vector and $\bJ$ a real-valued matrix (i.e., having no complex values), and we assume a solution of the form $\varepsilon = \lambda e^{st}$, (A2) reduces to the eigenvalue equation
 
 $$\tag{A3} \bJ\lambda = s\lambda. $$
 
@@ -46,7 +46,7 @@ In much physics and philosophy literature, something like the following set of c
 2. Some trajectory orbits are aperiodic, meaning that they don’t repeat themselves on any time scales (that we can determine) and are dense in at least some neighborhood of state space.
 3. Trajectories exhibit Chaos$_{\lambda}$.
 
-Although usually suspected as being related to the other two, exponential growth in uncertainties characterized by $\lambda$ is taken to be a property of a particular kind of dynamics that can only exist in nonlinear systems and models.
+Although usually suspected as being related to the other two, exponential growth in uncertainties characterized by *λ* is taken to be a property of a particular kind of dynamics that can only exist in nonlinear systems and models.
 
 Though the favored approaches to defining chaos involve global Lyapunov exponents, there are problems with this way of defining SDIC. First, note the definition Chaos$_{\lambda}$ is formulated in terms of maps, one-dimensional dynamical systems. For two or higher dimensional systems, the definition has to be generalized for flows. This complicates the idea of using a global Lyapunov exponent as a signature for chaos as such systems have as many global Lyapunov exponents as there are dimensions in a state space. Among the global Lyapunov exponents corresponding to each dimension, the largest is denoted as the leading global Lyapunov exponent. The latter exponent typically is used in estimates of the growth of uncertainty in the time series of a chaotic system.
 

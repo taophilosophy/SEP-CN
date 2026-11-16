@@ -18,7 +18,7 @@ His system for bundled tree validity extends the minimal temporal logic $\mathbf
 The inference rules comprise, in addition to (MP), (NEC$_H$), and (NEC$_G$) (see Section 3.5),
 
 - the necessitation rule for $\Box$, and
-- the so-called Gabbay Irreflexivity Rule: If $\vdash (p\land H \lnot p) \to \varphi,$ then $\vdash \varphi,$ provided $p$ does not occur in $\varphi$.
+- the so-called Gabbay Irreflexivity Rule: If $\vdash (p\land H \lnot p) \to \varphi,$ then $\vdash \varphi,$ provided $p$ does not occur in *φ*.
 
 To completely axiomatize Ockhamist validity, Reynolds proposed to add the following infinite axiom scheme, which is supposed to guarantee the “limit closure property”:
 

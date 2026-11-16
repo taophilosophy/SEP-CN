@@ -184,7 +184,7 @@ When $P[h_i \mid c \cdot e \cdot b] = 0$ is due to $P[e \mid h_i \cdot c \cdot b
 
 *Rule RB* goes further by showing how evidence may come to *strongly refute* a hypothesis $h_i$, without fully falsifying it. Suppose now that both $P[h_j \mid c \cdot b] > 0$ and $P[h_i \mid c \cdot b] > 0$. Then, regardless of how plausible or implausible $h_i$ is taken to be as compared to $h_j$, provided that $h_j$ isn’t *way too implausible*, if the body of evidence $e$ is sufficiently unlikely on $h_i$ as compared to $h_j$, then *Rule RB* says that the posterior probability of $h_i$ on that evidence must also be extremely close to 0.
 
-More formally, suppose that $P[h_i \mid c \cdot b] / P[h_j \mid c \cdot b] \le K$, where $K$ may be some very large number. This represents the idea that $h_i$ is initially considered to be up to $K$ times more plausible than $h_j$. Let $\epsilon$ be some extremely small number, as close to 0 as you wish. Then, according to *Rule RB*, to get the value of $P[h_i \mid c \cdot e \cdot b]$ within $\epsilon$ of 0, it suffices for the body of evidence to favor $h_j$ over $h_i$ strongly enough that $P[e \mid h_i \cdot c \cdot b] \lt (\epsilon / K) \times P[e \mid h_j \cdot c \cdot b]$. That is, via *Rule RB*:
+More formally, suppose that $P[h_i \mid c \cdot b] / P[h_j \mid c \cdot b] \le K$, where $K$ may be some very large number. This represents the idea that $h_i$ is initially considered to be up to $K$ times more plausible than $h_j$. Let *ε* be some extremely small number, as close to 0 as you wish. Then, according to *Rule RB*, to get the value of $P[h_i \mid c \cdot e \cdot b]$ within *ε* of 0, it suffices for the body of evidence to favor $h_j$ over $h_i$ strongly enough that $P[e \mid h_i \cdot c \cdot b] \lt (\epsilon / K) \times P[e \mid h_j \cdot c \cdot b]$. That is, via *Rule RB*:
 
 $$\begin{align} &\text{When }~ \frac{P[h_i \mid c \cdot b]}{P[h_j \mid c \cdot b]} \le K, ~\text{ if }~ \frac{P[e \mid h_i \cdot c \cdot b]}{P[e \mid h_j \cdot c \cdot b]} \lt \frac{\epsilon}{K}, \\ &\text{then }~ P[h_i \mid c \cdot e \cdot b] \lt \epsilon. \end{align}$$
 
@@ -350,7 +350,7 @@ That is, the auxiliary hypotheses themselves are subject to evidence that may st
 
 $$ \frac{P[a_r \mid c^* \cdot e^* \cdot d]}{P[a \mid c^* \cdot e^* \cdot d]} = \frac{P[e^* \mid a_r \cdot c^* \cdot d]}{P[e^* \mid a \cdot c^* \cdot d]} \times \frac{P[a_r \mid c^* \cdot d]}{P[a \mid c^* \cdot d]} = \epsilon,$$
 
-for some extremely small value of $\epsilon$.
+for some extremely small value of *ε*.
 
 So, according to this body of evidence, $a$ is much more likely to be true than $a_r$. Intuitively, this provides good epistemic reason to employ $a$ rather than $a_r$ as premises in the evaluation of hypotheses $h_j$ verses $h_i$. When the evidence strongly supports one auxiliary hypothesis over an alternative, it makes good epistemic sense to draw on the most strongly supported auxiliary. Indeed, the Bayesian logic can be shown to reinforce this intuition in a sensible way. The following appendix works through the technical details of a theorem that establishes this claim.
 
@@ -543,7 +543,7 @@ These large sums of binomial factors are difficult to calculate directly. Fortun
 
 $$\begin{align} \frac{\sum_{j = v\cdot z}^{u\cdot z}\; r_j^m\; (1-r_j)^{n-m}}{\sum_{i = 1}^z\; s_i^k\; (1-s_i)^{n-m}} \; &\approxeq \; Beta[v,u \;:\; m+1,\; (n-m)+1] \\ &=\; \frac{\int_{v}^u r^{m} (1-r)^{n-m} \; dr}{\int_{0}^1 s^m (1-s)^{n-m} \; ds}. \end{align}$$
 
-The values of this normalized Beta-distribution function may easily be computed using well-know mathematics and spreadsheet programs. For example, the version of this function supplied by one such spreadsheet program takes the form BETA.DIST($x$, $\alpha$, $\beta$, TRUE). It computes the value of the normalized beta distribution from 0 up to to $x$, where for our purposes $\alpha = m+1$, $\beta = (n-m) +1$. The input value TRUE tells the program to calculate the integral from 0 to $x$ (whereas FALSE would tell the program to calculate the value of the density function at point $x$). Using this spreadsheet version of the function, we calculate the value of the normalized Beta-distribution between $v$ and $u$ by inputing the following formula:
+The values of this normalized Beta-distribution function may easily be computed using well-know mathematics and spreadsheet programs. For example, the version of this function supplied by one such spreadsheet program takes the form BETA.DIST($x$, *α*, *β*, TRUE). It computes the value of the normalized beta distribution from 0 up to to $x$, where for our purposes $\alpha = m+1$, $\beta = (n-m) +1$. The input value TRUE tells the program to calculate the integral from 0 to $x$ (whereas FALSE would tell the program to calculate the value of the density function at point $x$). Using this spreadsheet version of the function, we calculate the value of the normalized Beta-distribution between $v$ and $u$ by inputing the following formula:
 
 $$\begin{align} \tag{$BD$} &\text{BETA.DIST}[u,\; m+1,\; (n-m)+1,\; \textit{TRUE}] \\ &\quad - \text{BETA.DIST}[v,\; m+1,\; (n-m)+1,\; \textit{TRUE}]. \end{align}$$
 

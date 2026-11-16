@@ -373,7 +373,7 @@ Since Newell and Simon’s Turing award lecture, it has been clear that computer
 
 artificial intelligence: logic-based | Church-Turing Thesis | computability and complexity | computation: in physical systems | computational complexity theory | information | information: semantic conceptions of | intention | mathematics, philosophy of | recursive functions | technology, philosophy of | Turing machines
 
-[^abramsky-1995]: Abramsky, Samson & Guy McCusker, 1995, “Games and Full Abstraction for the Lazy $\lambda$-Calculus”, in D. Kozen (ed.), *Tenth Annual IEEEE Symposium on Logic in Computer Science*, IEEE Computer Society Press, pp. 234–43. doi:10.1109/LICS.1995.523259
+[^abramsky-1995]: Abramsky, Samson & Guy McCusker, 1995, “Games and Full Abstraction for the Lazy *λ*-Calculus”, in D. Kozen (ed.), *Tenth Annual IEEEE Symposium on Logic in Computer Science*, IEEE Computer Society Press, pp. 234–43. doi:10.1109/LICS.1995.523259
 
 [^abramsky-1994]: Abramsky, Samson, Pasquale Malacaria, & Radha Jagadeesan, 1994, “Full Abstraction for PCF”, in M. Hagiya & J.C. Mitchell (eds.), *Theoretical Aspects of Computer Software: International Symposium TACS ‘94*, Sendai, Japan, April 19–22, 1994, Springer-Verlag, pp. 1–15.
 

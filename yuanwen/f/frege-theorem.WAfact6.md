@@ -20,7 +20,7 @@ Now to prove Fact 6 about the weak ancestral, assume $R^{*}(a,b)$. We want to sh
 
 $\exists z[R^{+}(a,z) \amp Rzb]$
 
-Notice that by $\lambda$-Conversion, it suffices to show:
+Notice that by *λ*-Conversion, it suffices to show:
 
 $[\lambda w\, \exists z[R^{+}(a,z) \amp Rzw]]b$
 
@@ -32,13 +32,13 @@ So if we can show the conjuncts of the antecedent, we are done. The first conjun
 
 (1)   $\forall u(Rau\rightarrow Pu)$ (2)   $\textrm{Her}(P,R)$
 
-To see what we have to show for (1), we expand the definition of $P$ and simplify by using $\lambda$-Conversion. Thus, we have to show:
+To see what we have to show for (1), we expand the definition of $P$ and simplify by using *λ*-Conversion. Thus, we have to show:
 
 (1)   $\forall u[Rau\rightarrow \exists z(R^{+}(a,z) \amp Rzu)]$
 
 So assume $Rau$, to show $\exists z(R^{+}(a,z) \amp Rzu)$. But it is an immediate consequence of the definition of the weak ancestral $R^{+}$ that $R^{+}$ is reflexive. (This is Fact 4 concerning the weak ancestral, in Section 4, “The Weak Ancestral of $R$”.) So we may conjoin and conclude $R^{+}(a,a)\amp Rau$. From this, we may infer $\exists z(R^{+}(a,z) \amp Rzu)$, by existential generalization, which is what we had to show.
 
-To show (2), we have to show that $P$ is hereditary on $R$. If we expand the definitions of $\textrm{Her}(P,R)$ and $P$ and simplify by using $\lambda$-Conversion, then we have to show, for arbitrarily chosen objects $x,y$:
+To show (2), we have to show that $P$ is hereditary on $R$. If we expand the definitions of $\textrm{Her}(P,R)$ and $P$ and simplify by using *λ*-Conversion, then we have to show, for arbitrarily chosen objects $x,y$:
 
 (2)   $Rxy\rightarrow [\exists z(R^{+}(a,z) \amp Rzx)\rightarrow \exists z(R^{+}(a,z) \amp Rzy)]$
 

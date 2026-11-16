@@ -94,9 +94,9 @@ Different readings of this concise passage have been proposed. According to one,
 
 - $(\alpha)$ Brouwer points out in the above lines that if the conditions and specifications for $A$ are given, then we try to add more information in such a way that, after a certain amount of constructional activity, we can really carry out a construction of $A$ which respects the specifications. Once this is accomplished, we can turn to the “implication” construction for $B$, which yields the construction for $B$ and to the required embedding of the structure for $A$ into the structure for $B$. (van Dalen 2004: 250–251)[^dalen-2004]
 
-According to interpretation $\alpha$, $A \rightarrow B$ just means $A \wedge B$ with the extra information that the construction for $B$ was obtained from that for $A$. On this reading $A \rightarrow B$ can be asserted only after a construction for $A$ has been found. The idea is clear: namely, to avoid hypothetical constructions, and the use of logic they require, by insisting that a construction be supplied that proves the antecedent. (As will be explained in Section 2.1 of the supplementary document Objections to the Proof Interpretation, Freudenthal (1937b)[^freudenthal-1937b] too has suggested this strategy, albeit with a different motivation than this passage in Brouwer’s dissertation.) But, as van Dalen also notices, it is also in effect a rejection of the hypothetical judgement in the general case where one does not know whether there is a construction for $A$.
+According to interpretation *α*, $A \rightarrow B$ just means $A \wedge B$ with the extra information that the construction for $B$ was obtained from that for $A$. On this reading $A \rightarrow B$ can be asserted only after a construction for $A$ has been found. The idea is clear: namely, to avoid hypothetical constructions, and the use of logic they require, by insisting that a construction be supplied that proves the antecedent. (As will be explained in Section 2.1 of the supplementary document Objections to the Proof Interpretation, Freudenthal (1937b)[^freudenthal-1937b] too has suggested this strategy, albeit with a different motivation than this passage in Brouwer’s dissertation.) But, as van Dalen also notices, it is also in effect a rejection of the hypothetical judgement in the general case where one does not know whether there is a construction for $A$.
 
-An alternative reading is $\beta$:
+An alternative reading is *β*:
 
 - $(\beta)$ In order to establish $A \rightarrow B$, one has to conceive of $A$ and $B$ as conditions on constructions, and to show that from the conditions specified by $A$ one obtains the conditions specified by $B$, according to transformations whose composition preserves mathematical constructibility: if, by hypothesis, a construction for $A$ has been made, then we can make a construction for $B$ (van Atten 2009: 128)[^atten-2009].
 
@@ -106,7 +106,7 @@ On this reading, Brouwer’s explanation of the hypothetical judgement avoids hy
 
 Brouwer speaks not of an incompatibility constructed out of a hypothetical mathematical system, but out of some condition on its construction.
 
-Be that as it may, the preservation of constructibility from $A$ to $B$ is essential to both reading $\alpha$ and reading $\beta$, so on either it is clear that Brouwer had the Proof Interpretation of the implication in mind already in 1907. For further discussion of Brouwer’s passage on the hypothetical judgement and the two readings of it mentioned here, see Kuiper 2004, van Dalen 2004, van Dalen 2008, and van Atten 2009.
+Be that as it may, the preservation of constructibility from $A$ to $B$ is essential to both reading *α* and reading *β*, so on either it is clear that Brouwer had the Proof Interpretation of the implication in mind already in 1907. For further discussion of Brouwer’s passage on the hypothetical judgement and the two readings of it mentioned here, see Kuiper 2004, van Dalen 2004, van Dalen 2008, and van Atten 2009.
 
 ### 2.3 Negation
 
@@ -120,9 +120,9 @@ As the rules of logic operate on linguistic objects, and these linguistic object
 
 In the 1908 paper, Brouwer draws a consequence of his general view on logic that he had overlooked in his dissertation: PEM, $A \vee \neg A$, is not valid. Its constructive validity would mean that we have a method that, for any $A$, either gives us a construction for $A$, or shows that such a construction is impossible. But we do not have such a general decision method, and there are many open problems in mathematics. Brouwer states “Every number is finite or infinite” as an example of a general proposition for which so far no constructive proof has been found. As a consequence, he says, it is at present uncertain whether problems such as the following are solvable:
 
-> Is there in the decimal expansion of $\pi$ a digit which occurs more often than any other one?
+> Is there in the decimal expansion of *π* a digit which occurs more often than any other one?
 >
-> Do there occur in the decimal expansion of $\pi$ infinitely many pairs of equal consecutive digits? (Brouwer 1908C: 7 [van Atten & Sundholm 2017: 44])[^atten-2017]
+> Do there occur in the decimal expansion of *π* infinitely many pairs of equal consecutive digits? (Brouwer 1908C: 7 [van Atten & Sundholm 2017: 44])[^atten-2017]
 
 In effect, Brouwer is saying that we can assert the weak negations of the propositions expressed in these questions; hence, these propositions are so-called “Brouwerian counterexamples” or “weak counterexamples” to PEM. On the constructive reading of PEM, of course any as yet unsolved problem is a weak counterexample to PEM. Brouwer began to publish weak counterexamples to PEM in international journals only much later (1921A, 1924N, 1925E).
 
@@ -200,7 +200,7 @@ This is a clear instance of the clause for implication in the Proof Interpretati
 
 ### 3.2 Widening the Scope of the Weak Counterexamples
 
-As we saw above, in the paper from 1908 Brouwer had given weak counterexamples to PEM. In the 1920s Brouwer developed a general technique for constructing weak counterexamples which also made it possible to widen their scope and include principles of analysis. The development began in 1921, when Brouwer gave a weak counterexample to the proposition that every real number has a decimal expansion (Brouwer 1921A). The argument proceeded by defining real numbers whose decimal developments are dependent on specific open problems concerning the decimal development of $\pi$. Brouwer closed by observing that, should these open problems be solved, then other real numbers without decimal expansion can be defined (Brouwer 1921A: 210 [Mancosu 1998: 34])[^mancosu-1998]. The general technique was made explicit in a lecture from 1923 (Brouwer 1924N: 3 and footnote 4 [van Heijenoort 1967: 337 and footnote 5])[^heijenoort-1967] and reached its perfection with the “oscillatory number” method in the first Vienna lecture in 1928 (Brouwer 1929A: 161 [Mancosu 1998: 51])[^mancosu-1998]. The method involves the reduction of the validity of a mathematical principle to the solvability of an open problem of the following type: we have a decidable property $P$ (defined on the natural numbers) for which we have as yet shown neither $\exists xP(x)$ nor $\forall x\neg P(x)$. This reduction is carried out in such a way that it only uses the fact that $P$ induces an open problem of this type, and does not depend on the exact definition of $P$; that is, if the open problem is solved, one can simply replace it by another one of the same type, and exactly the same reduction still works. This uniformity means that, as long as there are open problems of this type at all (and this is practically certain at any time), there is no intuitionistic proof of the general mathematical principle in question. In the 1920s, Brouwer constructed weak counterexamples to the following general mathematical propositions, among others (where $\mathbf{R}$ stands for the set of intuitionistic real numbers, and $\mathbf{Q}$ for the set of rationals):
+As we saw above, in the paper from 1908 Brouwer had given weak counterexamples to PEM. In the 1920s Brouwer developed a general technique for constructing weak counterexamples which also made it possible to widen their scope and include principles of analysis. The development began in 1921, when Brouwer gave a weak counterexample to the proposition that every real number has a decimal expansion (Brouwer 1921A). The argument proceeded by defining real numbers whose decimal developments are dependent on specific open problems concerning the decimal development of *π*. Brouwer closed by observing that, should these open problems be solved, then other real numbers without decimal expansion can be defined (Brouwer 1921A: 210 [Mancosu 1998: 34])[^mancosu-1998]. The general technique was made explicit in a lecture from 1923 (Brouwer 1924N: 3 and footnote 4 [van Heijenoort 1967: 337 and footnote 5])[^heijenoort-1967] and reached its perfection with the “oscillatory number” method in the first Vienna lecture in 1928 (Brouwer 1929A: 161 [Mancosu 1998: 51])[^mancosu-1998]. The method involves the reduction of the validity of a mathematical principle to the solvability of an open problem of the following type: we have a decidable property $P$ (defined on the natural numbers) for which we have as yet shown neither $\exists xP(x)$ nor $\forall x\neg P(x)$. This reduction is carried out in such a way that it only uses the fact that $P$ induces an open problem of this type, and does not depend on the exact definition of $P$; that is, if the open problem is solved, one can simply replace it by another one of the same type, and exactly the same reduction still works. This uniformity means that, as long as there are open problems of this type at all (and this is practically certain at any time), there is no intuitionistic proof of the general mathematical principle in question. In the 1920s, Brouwer constructed weak counterexamples to the following general mathematical propositions, among others (where $\mathbf{R}$ stands for the set of intuitionistic real numbers, and $\mathbf{Q}$ for the set of rationals):
 
 1. The continuum is totally ordered (Brouwer 1924N)
 2. Every set is either finite or infinite (Brouwer 1924N)
@@ -231,16 +231,16 @@ The actual arguments using these methods introduce no new logical phenomena as s
 
 ### 3.4 The Classification of Propositions
 
-In Brouwer 1955, the four possible cases a proposition $\alpha$ may be in at any particular moment are made explicit:
+In Brouwer 1955, the four possible cases a proposition *α* may be in at any particular moment are made explicit:
 
-1. $\alpha$ has been proved to be true;
-2. $\alpha$ has been proved to be false, i.e., absurd;
-3. $\alpha$ has neither been proved to be true nor to be absurd, but an algorithm is known leading to a decision either that $\alpha$ is true or that $\alpha$ is absurd;
-4. $\alpha$ has neither been proved to be true nor to be absurd, nor do we know an algorithm leading to the statement either that $\alpha$ is true or that $\alpha$ is absurd.
+1. *α* has been proved to be true;
+2. *α* has been proved to be false, i.e., absurd;
+3. *α* has neither been proved to be true nor to be absurd, but an algorithm is known leading to a decision either that *α* is true or that *α* is absurd;
+4. *α* has neither been proved to be true nor to be absurd, nor do we know an algorithm leading to the statement either that *α* is true or that *α* is absurd.
 
 In a lecture from 1951, Brouwer lists only cases 1, 2, and 4 from the above list, adding that case 3 “obviously is reducible to the first and second cases” (Brouwer 1981A: 92). That remark emphasizes an important idealization permitted in intuitionistic mathematics: we may make the idealization that, once we have obtained a decision method for a specific proposition, we also know its outcome.
 
-Brouwer also adds that a proposition for which case 4 holds may at some point pass to another case, either because we have in the meantime found a decision method, or because the objects involved in proposition $\alpha$ in the meantime have acquired further properties that permit to make the decision (as may happen for propositions about choice sequences).
+Brouwer also adds that a proposition for which case 4 holds may at some point pass to another case, either because we have in the meantime found a decision method, or because the objects involved in proposition *α* in the meantime have acquired further properties that permit to make the decision (as may happen for propositions about choice sequences).
 
 ### 3.5 Brouwer’s View on the Formalist Program and Gödel’s Incompleteness Theorems
 
@@ -332,7 +332,7 @@ Kolmogorov’s strategy to obtain a (fragment) of formalized intuitionistic logi
 
 No more precise indications are given, so in that sense the paper did little to explain the meaning of intuitionistic logic.
 
-*Ex Falso* was excluded from this fragment: Kolmogorov said that, just like PEM, *Ex Falso* “has no intuitive foundation” (van Heijenoort 1967: 419)[^heijenoort-1967]. In particular, he says that *Ex Falso* is unacceptable for the reason that it asserts something about the consequences of something impossible (van Heijenoort 1967: 421)[^heijenoort-1967]. Note that that is a very strong rejection: it not only rules out *Ex Falso* in its full generality, but also specific instances such as “If 3.15 is an initial segment of $\pi$, then 3.1 is an initial segment of $\pi$”. It also indicates an incoherence in Kolmogorov’s position: one cannot at the same time accept $A \rightarrow (B \rightarrow A)$ as an axiom and deny that anything can be asserted about the consequences of an impossible $B$.
+*Ex Falso* was excluded from this fragment: Kolmogorov said that, just like PEM, *Ex Falso* “has no intuitive foundation” (van Heijenoort 1967: 419)[^heijenoort-1967]. In particular, he says that *Ex Falso* is unacceptable for the reason that it asserts something about the consequences of something impossible (van Heijenoort 1967: 421)[^heijenoort-1967]. Note that that is a very strong rejection: it not only rules out *Ex Falso* in its full generality, but also specific instances such as “If 3.15 is an initial segment of *π*, then 3.1 is an initial segment of *π*”. It also indicates an incoherence in Kolmogorov’s position: one cannot at the same time accept $A \rightarrow (B \rightarrow A)$ as an axiom and deny that anything can be asserted about the consequences of an impossible $B$.
 
 As van Dalen notes, it is not known whether Kolmogorov sent his paper to Brouwer (van Dalen 2005: 555)[^dalen-2005]. The contents of the paper seem to have remained largely unknown outside the Soviet Union for years. Glivenko mentioned the paper in a letter to Heyting of October 13, 1928, as did Kolmogorov in an undated letter to Heyting of 1933 or later (Troelstra 1990: 16)[^troelstra-1990]; but in Heyting 1934 it is, unlike Kolmogorov’s later paper from 1932, neither discussed nor included in the bibliography. The volume of the *Jahrbuch über die Fortschritte der Mathematik* covering 1925, which included a very short notice on Kolmogorov 1925 by V. Smirnov (Leningrad), wasn’t actually published until 1932 (Smirnov 1925)[^smirnov-1925].
 
@@ -824,7 +824,7 @@ Note that Gödel did not take this earlier opportunity to announce his translati
 
 [^colson-2008]: –––, 2008, “Pedagogical Second-order Propositional Calculi”, *Journal of Logic and Computation*, 18(4): 669–695. doi:10.1093/logcom/exn001
 
-[^colson-2009]: –––, 2009, “Pedagogical Second-order $\lambda$-calculus”, *Theoretical Computer Science*, 410(42): 4190–4203. doi:10.1016/j.tcs.2009.04.020
+[^colson-2009]: –––, 2009, “Pedagogical Second-order *λ*-calculus”, *Theoretical Computer Science*, 410(42): 4190–4203. doi:10.1016/j.tcs.2009.04.020
 
 [^dalen-1973]: van Dalen, Dirk, 1973, “Lectures on intuitionism”, in Mathias & Rodgers 1973: 1–94. doi:10.1007/BFb0066771
 

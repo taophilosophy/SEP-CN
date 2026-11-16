@@ -34,7 +34,7 @@ Let $\mathbf{z} = (z_n)_{n\ge 1}$ be a sequence in a metric space $(Z,\varrho)$,
 
 We recall, from earlier in this article, the strong recursive counterexample to the sequential compactness of [0,1], Specker’s [1949] theorem in RUSS: there exists a (Specker) sequence $\mathbf{z}$ in $[0,1]$ that is eventually bounded away from each point of $[0,1]$. What would it take to rule such a counterexample out of our constructive mathematics?
 
-By a *one-point extension* of a metric space $X$ we mean a metric space of the form $X\cup \{\omega\}$ on which the metric $\varrho$ restricted to $X$, is the original one, and $\varrho(\omega ,X) \gt 0$. Here we are adopting the convention that $\varrho(\omega ,X) \gt 0$ is shorthand for
+By a *one-point extension* of a metric space $X$ we mean a metric space of the form $X\cup \{\omega\}$ on which the metric *ϱ* restricted to $X$, is the original one, and $\varrho(\omega ,X) \gt 0$. Here we are adopting the convention that $\varrho(\omega ,X) \gt 0$ is shorthand for
 
 $$ \exists r \gt 0\, \forall x \in X\, (\varrho(\omega ,x) \ge r). $$
 
@@ -52,6 +52,6 @@ Let $Z \equiv X\cup \{\omega \}$ be a one-point extension of $X$, and consider s
 
 $$\begin{align} \lambda_n &= 0 \Rightarrow \varrho(f(x_n),f(x'_n)) \lt \varepsilon ,\\ \lambda_n &= 1 \Rightarrow \varrho(f(x_n),f(x'_n)) \gt \frac{\varepsilon}{2}. \end{align}$$
 
-If $\lambda_n = 0$, set $z_n = \omega$; if $\lambda_n = 1$, set $z_n = x_n$. Using the pointwise continuity of $f$ (we omit the details), we can show that the sequence $(z_n)_{n\ge 1}$ is eventually bounded away from each point of $X$. Hence, by the anti-Specker property of $X$, it is eventually bounded away from the set $X$. It follows that $\lambda_n = 0$, and hence that $\varrho(f(x_n),f(x'_n)) \lt \varepsilon$, for all sufficiently large values of $n$. Since $\varepsilon$ is an arbitrary positive number, the proof is complete.
+If $\lambda_n = 0$, set $z_n = \omega$; if $\lambda_n = 1$, set $z_n = x_n$. Using the pointwise continuity of $f$ (we omit the details), we can show that the sequence $(z_n)_{n\ge 1}$ is eventually bounded away from each point of $X$. Hence, by the anti-Specker property of $X$, it is eventually bounded away from the set $X$. It follows that $\lambda_n = 0$, and hence that $\varrho(f(x_n),f(x'_n)) \lt \varepsilon$, for all sufficiently large values of $n$. Since *ε* is an arbitrary positive number, the proof is complete.
 
 In our present state of knowledge, we can say that the proof-theoretic strength of AS$_{[0,1]}$ lies between that of the uniform continuity theorem (a consequence of FT$_{\Pi^0_1})$ and FT$_D$. Diener [2012] has shown that AS$_{[0,1]}$ is equivalent to every compact metric space having the anti-Specker property, and that a more general form of anti-Specker property, in which one-point extensions are replaced by arbitrary supersets, is equivalent to FT$_{\Pi^0_1})$. Further interconnections between anti-Specker properties, fan theorems, and other principles of constructive mathematics are studied in detail in Dent 2013; see also Diener 2008 (Chapter 4).

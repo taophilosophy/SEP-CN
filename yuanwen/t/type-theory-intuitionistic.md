@@ -59,7 +59,7 @@ When the division theorem is proved in intuitionistic type theory, we do not onl
 
 $$\divi : \forall m, n {:} \N.\, m > 0 \supset \exists q, r {:} \N.\, mq + r = n \wedge m > r $$
 
-to express that $\divi$ is a proof-object for the division theorem, that is, an element of the type representing the division theorem. When propositions are represented as types, the $\forall$-quantifier is identified with the dependent function space former (or general cartesian product) $\Pi$, the $\exists$-quantifier with the dependent pairs type former (or general disjoint sum) $\Sigma$, conjunction $\wedge$ with cartesian product $ \times $, the identity relation = with the type former $\I$ of proof-objects of identities, and the greater than relation $>$ with the type former $\GT$ of proof-objects of greater-than statements. Using “type-notation” we thus write
+to express that $\divi$ is a proof-object for the division theorem, that is, an element of the type representing the division theorem. When propositions are represented as types, the $\forall$-quantifier is identified with the dependent function space former (or general cartesian product) *Π*, the $\exists$-quantifier with the dependent pairs type former (or general disjoint sum) $\Sigma$, conjunction $\wedge$ with cartesian product $ \times $, the identity relation = with the type former $\I$ of proof-objects of identities, and the greater than relation $>$ with the type former $\GT$ of proof-objects of greater-than statements. Using “type-notation” we thus write
 
 $$ \divi : \Pi m, n {:} \N.\, \GT(m,0)\rightarrow \Sigma q, r {:} \N.\, \I(\N,mq + r,n) \times \GT(m,r) $$
 
@@ -71,7 +71,7 @@ Crucially, $\divi$ is not only a function in the classical sense; it is also a f
 
 Intuitionistic type theory can be considered as an extension of first-order logic, much as higher order logic is an extension of first order logic. In higher order logic we find some individual domains which can be interpreted as any sets we like. If there are relational constants in the signature these can be interpreted as any relations between the sets interpreting the individual domains. On top of that we can quantify over relations, and over relations of relations, etc. We can think of higher order logic as first-order logic equipped with a way of introducing new domains of quantification: if $S_1, \ldots, S_n$ are domains of quantification then $(S_1,\ldots,S_n)$ is a new domain of quantification consisting of all the n-ary relations between the domains $S_1,\ldots,S_n$. Higher order logic has a straightforward set-theoretic interpretation where $(S_1,\ldots,S_n)$ is interpreted as the power set $P(A_1 \times \cdots \times A_n)$ where $A_i$ is the interpretation of $S_i$, for $i=1,\ldots,n$. This is the kind of higher order logic or simple theory of types that Ramsey, Church and others introduced.
 
-Intuitionistic type theory can be viewed in a similar way, only here the possibilities for introducing domains of quantification are richer, one can use $\Sigma, \Pi, +, \I$ to construct new ones from old. (Section 3.1; Martin-Löf 1998 [1972])[^martin-löf-1998]. Intuitionistic type theory has a straightforward set-theoretic interpretation as well, where $\Sigma$, $\Pi$ etc are interpreted as the corresponding set-theoretic constructions; see below. We can add to intuitionistic type theory unspecified individual domains just as in HOL. These are interpreted as sets as for HOL. Now we exhibit a difference from HOL: in intuitionistic type theory we can introduce unspecified family symbols. We can introduce $T$ as a family of types over the individual domain $S$:
+Intuitionistic type theory can be viewed in a similar way, only here the possibilities for introducing domains of quantification are richer, one can use $\Sigma, \Pi, +, \I$ to construct new ones from old. (Section 3.1; Martin-Löf 1998 [1972])[^martin-löf-1998]. Intuitionistic type theory has a straightforward set-theoretic interpretation as well, where $\Sigma$, *Π* etc are interpreted as the corresponding set-theoretic constructions; see below. We can add to intuitionistic type theory unspecified individual domains just as in HOL. These are interpreted as sets as for HOL. Now we exhibit a difference from HOL: in intuitionistic type theory we can introduce unspecified family symbols. We can introduce $T$ as a family of types over the individual domain $S$:
 
 $$T(x)\; {\rm type} \;(x{:}S).$$
 
@@ -135,7 +135,7 @@ If we apply this construction to the family $A_n = \E_{m,2n}$ we see that $(\Sig
 
 ### 2.4 Dependent Types
 
-In intuitionistic type theory there are primitive type formers $\Sigma$ and $\Pi$ for general sums and products, and $\I$ for identity types, analogous to the set-theoretic constructions described above. The *identity type* $\I(\N,m,n)$ corresponding to the set $\E_{m,n}$ is an example of a *dependent type* since it depends on the elements $m$*,* *n :* $\N$. It is also called an *indexed family of types* since it is a family of types indexed by $m$ and $n$. Similarly, we can form the general disjoint sum $\Sigma x {:} A.\, B$ and the general cartesian product $\Pi x {:} A.\, B$ of such a family of types $B$ indexed by $x {:} A$, corresponding to the set theoretic sum and product operations above.
+In intuitionistic type theory there are primitive type formers $\Sigma$ and *Π* for general sums and products, and $\I$ for identity types, analogous to the set-theoretic constructions described above. The *identity type* $\I(\N,m,n)$ corresponding to the set $\E_{m,n}$ is an example of a *dependent type* since it depends on the elements $m$*,* *n :* $\N$. It is also called an *indexed family of types* since it is a family of types indexed by $m$ and $n$. Similarly, we can form the general disjoint sum $\Sigma x {:} A.\, B$ and the general cartesian product $\Pi x {:} A.\, B$ of such a family of types $B$ indexed by $x {:} A$, corresponding to the set theoretic sum and product operations above.
 
 Dependent types can also be defined by primitive recursion. An example is the type of $n$-tuples $A^n$ of elements of type $A$ and indexed by $n {:} N$ defined by the equations
 
@@ -196,12 +196,12 @@ The four forms of *categorical* judgment are
 - $\vdash A = A'$, meaning that $A$ and $A'$ are equal types,
 - $\vdash a = a' {:} A$, meaning that $a$ and $a'$ are equal elements of type $A$.
 
-In general, a judgment is *hypothetical*, that is, it is made in a context $\Gamma$, that is, a list $x_1 {:} A_1, \ldots, x_n {:} A_n$ of variables which may occur free in the judgment together with their respective types. Note that the types in a context can depend on variables of earlier types. For example, $A_n$ can depend on $x_1 {:} A_1, \ldots, x_{n-1} {:} A_{n-1}$. The four forms of hypothetical judgments are
+In general, a judgment is *hypothetical*, that is, it is made in a context *Γ*, that is, a list $x_1 {:} A_1, \ldots, x_n {:} A_n$ of variables which may occur free in the judgment together with their respective types. Note that the types in a context can depend on variables of earlier types. For example, $A_n$ can depend on $x_1 {:} A_1, \ldots, x_{n-1} {:} A_{n-1}$. The four forms of hypothetical judgments are
 
-- $\Gamma \vdash A \; {\rm type}$, meaning that $A$ is a well-formed type in the context $\Gamma$,
-- $\Gamma \vdash a {:} A$, meaning that $a$ has type $A$ in context $\Gamma$,
-- $\Gamma \vdash A = A'$, meaning that $A$ and $A'$ are equal types in the context $\Gamma$,
-- $\Gamma \vdash a = a' {:} A$, meaning that $a$ and $a'$ are equal elements of type $A$ in the context $\Gamma$.
+- $\Gamma \vdash A \; {\rm type}$, meaning that $A$ is a well-formed type in the context *Γ*,
+- $\Gamma \vdash a {:} A$, meaning that $a$ has type $A$ in context *Γ*,
+- $\Gamma \vdash A = A'$, meaning that $A$ and $A'$ are equal types in the context *Γ*,
+- $\Gamma \vdash a = a' {:} A$, meaning that $a$ and $a'$ are equal elements of type $A$ in the context *Γ*.
 
 Under the proposition as types interpretation
 
@@ -219,14 +219,14 @@ The decidability of the two analytic judgments ($\vdash a{:}A$ and $\vdash a=b{:
 
 Sometimes also the following forms are explicitly considered to be judgments of the theory:
 
-- $\Gamma \; {\rm context}$, meaning that $\Gamma$ is a well-formed context.
-- $\Gamma = \Gamma'$, meaning that $\Gamma$ and $\Gamma'$ are equal contexts.
+- $\Gamma \; {\rm context}$, meaning that *Γ* is a well-formed context.
+- $\Gamma = \Gamma'$, meaning that *Γ* and $\Gamma'$ are equal contexts.
 
 Below we shall abbreviate the judgment $\Gamma \vdash A \; {\rm type}$ as $\Gamma \vdash A$ and $\Gamma \; {\rm context}$ as $\Gamma \vdash.$
 
 ### 3.3 Inference Rules
 
-When stating the rules we will use the letter $\Gamma$ as a meta-variable ranging over contexts, $A,B,\ldots$ as meta-variables ranging over types, and $a,b,c,d,e,f,\ldots$ as meta-variables ranging over terms.
+When stating the rules we will use the letter *Γ* as a meta-variable ranging over contexts, $A,B,\ldots$ as meta-variables ranging over types, and $a,b,c,d,e,f,\ldots$ as meta-variables ranging over terms.
 
 The first group of inference rules are general rules including rules of assumption, substitution, and context formation. There are also rules which express that equalities are equivalence relations. There are numerous such rules, and we only show the particularly important *rule of type equality* which is crucial for computation in types:
 
@@ -236,21 +236,21 @@ The remaining rules are specific to the type formers. These are classified as fo
 
 ### 3.4 Intuitionistic Predicate Logic
 
-We only give the rules for $\Pi$. There are analogous rules for the other type formers corresponding to the logical constants of typed predicate logic.
+We only give the rules for *Π*. There are analogous rules for the other type formers corresponding to the logical constants of typed predicate logic.
 
 In the following $B[x := a]$ means the term obtained by substituting the term $a$ for each free occurrence of the variable $x$ in $B$ (avoiding variable capture).
 
-$\Pi$-formation. $$\frac{\Gamma \vdash A\hspace{2em} \Gamma, x {:} A \vdash B} {\Gamma \vdash \Pi x {:} A. B}$$
+*Π*-formation. $$\frac{\Gamma \vdash A\hspace{2em} \Gamma, x {:} A \vdash B} {\Gamma \vdash \Pi x {:} A. B}$$
 
-$\Pi$-introduction. $$\frac{\Gamma, x {:} A \vdash b {:} B} {\Gamma \vdash \lambda x. b {:} \Pi x {:} A. B}$$
+*Π*-introduction. $$\frac{\Gamma, x {:} A \vdash b {:} B} {\Gamma \vdash \lambda x. b {:} \Pi x {:} A. B}$$
 
-$\Pi$-elimination. $$\frac {\Gamma \vdash f {:} \Pi x {:} A.B\hspace{2em}\Gamma \vdash a {:} A} {\Gamma \vdash f\,a {:} B[x := a]}$$
+*Π*-elimination. $$\frac {\Gamma \vdash f {:} \Pi x {:} A.B\hspace{2em}\Gamma \vdash a {:} A} {\Gamma \vdash f\,a {:} B[x := a]}$$
 
-$\Pi$-equality. $$\frac {\Gamma, x {:} A \vdash b {:} B\hspace{2em}\Gamma \vdash a {:} A} {\Gamma \vdash (\lambda x.b)\,a = b[x := a] {:} B[x := a]}$$
+*Π*-equality. $$\frac {\Gamma, x {:} A \vdash b {:} B\hspace{2em}\Gamma \vdash a {:} A} {\Gamma \vdash (\lambda x.b)\,a = b[x := a] {:} B[x := a]}$$
 
-This is the rule of $\beta$-conversion. We may also add the rule of $\eta$-conversion: $$\frac {\Gamma \vdash f {:} \Pi x {:} A. B} {\Gamma \vdash \lambda x. f\,x = f {:} \Pi x {:} A. B}.$$
+This is the rule of *β*-conversion. We may also add the rule of *η*-conversion: $$\frac {\Gamma \vdash f {:} \Pi x {:} A. B} {\Gamma \vdash \lambda x. f\,x = f {:} \Pi x {:} A. B}.$$
 
-Furthermore, there are congruence rules expressing that operations introduced by the formation, introduction, and elimination rules preserve equality. For example, the congruence rule for $\Pi$ is
+Furthermore, there are congruence rules expressing that operations introduced by the formation, introduction, and elimination rules preserve equality. For example, the congruence rule for *Π* is
 
 $$\frac{\Gamma \vdash A = A'\hspace{2em} \Gamma, x {:} A \vdash B=B'} {\Gamma \vdash \Pi x {:} A. B = \Pi x {:} A'. B'}.$$
 
@@ -326,20 +326,20 @@ If $A$ and $B$ are equipped with equivalence relations, there is of course no gu
 
 The above completes the description of a core version of intuitionistic type theory close to that of (Martin-Löf 1998 [1972])[^martin-löf-1998].
 
-In 1986 Martin-Löf proposed a reformulation of intuitionistic type theory; see Nordström, Peterson and Smith (1990) for an exposition. The purpose was to give a more compact formulation, where $\lambda$ and $\Pi$ are the only variable binding operations. It is nowadays considered the main version of the theory. It is also the basis for the Agda proof assistant. The 1986 theory has two parts:
+In 1986 Martin-Löf proposed a reformulation of intuitionistic type theory; see Nordström, Peterson and Smith (1990) for an exposition. The purpose was to give a more compact formulation, where *λ* and *Π* are the only variable binding operations. It is nowadays considered the main version of the theory. It is also the basis for the Agda proof assistant. The 1986 theory has two parts:
 
 - the theory of types (the logical framework);
 - the theory of sets (small types).
 
 Remark 4.1. Note that the word “set” is used in several different senses in the type theory community. In the logical framework it means “small type”. In Bishop’s constructive mathematics it means a type with an equivalence relations. To avoid confusion the latter are often called “setoids” or “extensional sets” in type. A third use of the word “set” is in homotopy type theory is as “h-set” meaning a type the identity type of which is a proposition. See below.
 
-The logical framework has only two type formers: $\Pi x {:} A. B$ (usually written $(x {:} A)B$ or $(x {:} A) \rightarrow B$ in the logical framework formulation) and $\U$ (usually called $\Set$). The rules for $\Pi x{:} A. B$ ($(x {:} A) \rightarrow B$) are the same as given above (including $\eta$-conversion). The rules for $\U$ ($\Set$) are also the same, except that the logical framework only stipulates closure under $\Pi$-type formation.
+The logical framework has only two type formers: $\Pi x {:} A. B$ (usually written $(x {:} A)B$ or $(x {:} A) \rightarrow B$ in the logical framework formulation) and $\U$ (usually called $\Set$). The rules for $\Pi x{:} A. B$ ($(x {:} A) \rightarrow B$) are the same as given above (including *η*-conversion). The rules for $\U$ ($\Set$) are also the same, except that the logical framework only stipulates closure under *Π*-type formation.
 
 The other small type formers (“set formers”) are introduced in the theory of sets. In the logical framework formulation each formation, introduction, and elimination rule can be expressed as the typing of a new constant. For example, the rules for natural numbers become
 
 $$\begin{align*} \N &: \Set,\\ 0 &: \N,\\ \s &: \N \rightarrow \N,\\ \R &: (C {:} \N \rightarrow \Set) \rightarrow C\,0 \rightarrow (( x {:} \N) \rightarrow C\,x \rightarrow C\,(\s\,x)) \rightarrow (c {:} \N) \rightarrow C\,c. \end{align*}$$
 
-where we have omitted the common context $\Gamma$, since the types of these constants are closed. Note that the recursion operator $R$ has a first argument $C {:} \N \rightarrow \Set$ unlike in the original formulation.
+where we have omitted the common context *Γ*, since the types of these constants are closed. Note that the recursion operator $R$ has a first argument $C {:} \N \rightarrow \Set$ unlike in the original formulation.
 
 Moreover, the equality rules can be expressed as equations
 
@@ -403,7 +403,7 @@ The inductive definability of types is inherent in the meaning explanations of i
 
 We have already seen the type of natural numbers and the type of well-founded trees as examples of types given by inductive definitions; the natural numbers is an example of an ordinary finitary inductive definition and the well-founded trees of a generalized possibly infinitary inductive definition. The introduction rules describe how elements of these types are inductively generated and the elimination and equality rules describe how functions from these types can be defined by structural recursion on the way these elements are generated. According to the propositions as types principle, the elimination rules are simultaneously rules for proof by structural induction on the way the elements are generated.
 
-The type formers $0, 1, +, \times, \rightarrow, \Sigma,$ and $\Pi$ which interpret the logical constants for intuitionistic predicate logic are examples of degenerate inductive definitions. Even the identity type (in intensional intuitionistic type theory) is inductively generated; it is the type of proofs generated by the reflexivity axiom. Its elimination rule expresses proof by pattern matching on the proof of reflexivity.
+The type formers $0, 1, +, \times, \rightarrow, \Sigma,$ and *Π* which interpret the logical constants for intuitionistic predicate logic are examples of degenerate inductive definitions. Even the identity type (in intensional intuitionistic type theory) is inductively generated; it is the type of proofs generated by the reflexivity axiom. Its elimination rule expresses proof by pattern matching on the proof of reflexivity.
 
 The common structure of the rules of the type formers can be captured by a general schema for inductive definitions (Dybjer 1991)[^dybjer-1991]. This general schema has many useful instances, for example, the type $\List(A)$ of lists with elements of type $A$ has the following introduction rules:
 
@@ -433,7 +433,7 @@ This expresses that there is a function $\T$ which maps a code $a$ to its corres
 
 $$\T(\hat{\N}) = \N.$$
 
-We see that $\U$ is inductively generated with one introduction rule for each small type former, and $\T$ is defined by recursion on these small type formers. The simultaneous inductive-recursive nature of this definition becomes apparent in the rules for $\Pi$ for example. The introduction rule is
+We see that $\U$ is inductively generated with one introduction rule for each small type former, and $\T$ is defined by recursion on these small type formers. The simultaneous inductive-recursive nature of this definition becomes apparent in the rules for *Π* for example. The introduction rule is
 
 $$\frac{\Gamma \vdash a {:} \U\hspace{2em} \Gamma, x {:} \T(a) \vdash b {:} \U} {\Gamma \vdash \hat{\Pi} x {:} a. b {:} \U}$$
 
@@ -451,7 +451,7 @@ A large class of inductive-recursive definitions, including the above, can be ca
 
 ## 5. Meaning Explanations
 
-The consistency of intuitionistic type theory relative to set theory can be proved by model constructions. Perhaps the simplest method is an interpretation whereby each type-theoretic concept is given its corresponding set-theoretic meaning, as outlined in section 2.3. For example the type of functions $A \rightarrow B$ is interpreted as the set of all functions in the set-theoretic sense between the set denoted by $A$ and the set denoted by $B$. To interpret $\U$ we need a set-theoretic universe which is closed under all (set-theoretic analogues of) the type constructors. Such a universe can be proved to exist if we assume the existence of an inaccessible cardinal $\kappa$ and interpret $\U$ by $V_\kappa$ in the cumulative hierarchy.
+The consistency of intuitionistic type theory relative to set theory can be proved by model constructions. Perhaps the simplest method is an interpretation whereby each type-theoretic concept is given its corresponding set-theoretic meaning, as outlined in section 2.3. For example the type of functions $A \rightarrow B$ is interpreted as the set of all functions in the set-theoretic sense between the set denoted by $A$ and the set denoted by $B$. To interpret $\U$ we need a set-theoretic universe which is closed under all (set-theoretic analogues of) the type constructors. Such a universe can be proved to exist if we assume the existence of an inaccessible cardinal *κ* and interpret $\U$ by $V_\kappa$ in the cumulative hierarchy.
 
 Alternatives are realizability models, and for intensional type theory, a model of terms in normal forms. The latter can also be used for proving decidability of the judgments of the theory.
 
@@ -545,17 +545,17 @@ Curry’s correspondence between propositions and types was extended to predicat
 
 Lawvere’s definition of hyperdoctrines preceded intuitionistic type theory but did not go all the way to identifying propositions and types. Nevertheless Lawvere influenced Scott’s (1970)[^scott-1970] work on *constructive validity*, a somewhat preliminary precursor of intuitionistic type theory. After Martin-Löf (1998 [1972]) had presented a more definite formulation of the theory, the first work on categorical models was presented by Cartmell in 1978 with his notions of category with attributes and contextual category (Cartmell 1986)[^cartmell-1986]. However, we will not define these structures here but instead the closely related *categories with families* (Dybjer 1996)[^dybjer-1996] which are formulated so that they directly model a variable-free version of a formulation of intuitionistic type theory with explicit substitutions.
 
-A category with families is a functor  $T {\ :\ } C^{op} \rightarrow \mathbf{Fam}$, where $C$ is the category of contexts and substitutions and $\mathbf{Fam}$ is the category of families of sets. If $\Gamma$ is an object of $C$ (a context), then $T(\Gamma)$ is the family of terms of type $A$ which depend on variables in $\Gamma$. If $\gamma$ is an arrow in $C$ representing a substitution, then the arrow part of the functor represents substitution of $\gamma$ in types and terms. A category with families also has a terminal object and a notion of context comprehension, reminiscent of Lawvere’s comprehension in hyperdoctrines. The terminal object captures the rules for empty contexts and empty substitutions. Context comprehension captures the rules for extending contexts and substitutions, and has projections capturing weakening and assumption of the last variable.
+A category with families is a functor  $T {\ :\ } C^{op} \rightarrow \mathbf{Fam}$, where $C$ is the category of contexts and substitutions and $\mathbf{Fam}$ is the category of families of sets. If *Γ* is an object of $C$ (a context), then $T(\Gamma)$ is the family of terms of type $A$ which depend on variables in *Γ*. If *γ* is an arrow in $C$ representing a substitution, then the arrow part of the functor represents substitution of *γ* in types and terms. A category with families also has a terminal object and a notion of context comprehension, reminiscent of Lawvere’s comprehension in hyperdoctrines. The terminal object captures the rules for empty contexts and empty substitutions. Context comprehension captures the rules for extending contexts and substitutions, and has projections capturing weakening and assumption of the last variable.
 
-Categories with families are algebraic structures which model the general rules of dependent type theory, those which come before the rules for specific type formers, such as $\Pi$, $\Sigma$, identity types, universes, etc. In order to model specific type-former corresponding extra structure needs to be added.
+Categories with families are algebraic structures which model the general rules of dependent type theory, those which come before the rules for specific type formers, such as *Π*, $\Sigma$, identity types, universes, etc. In order to model specific type-former corresponding extra structure needs to be added.
 
 #### 6.1.3 Locally cartesian closed categories
 
-From a categorical perspective the above-mentioned structures may appear somewhat special and ad hoc. A more regular structure which gives rise to models of intuitionistic type theory are the locally cartesian closed categories. These are categories with a terminal object, where each slice category is cartesian closed. It can be shown that the pullback functor has a left and a right adjoint, representing $\Sigma$- and $\Pi$-types, respectively. Locally cartesian closed categories correspond to intuitionistic type theory with extensional identity types and $\Sigma$ and $\Pi$-types (Seely 1984, Clairambault and Dybjer 2014)[^clairambault-2014][^seely-1984]. It should be remarked that the correspondence with intuitionistic type theory is somewhat indirect, since a coherence problem, in the sense of category theory, needs to be solved. The problem is that in locally cartesian closed categories type substituion is represented by pullbacks, but these are only defined up to isomorphism, see Curien (1993)[^curien-1993] and Hofmann (1994)[^hofmann-1994].
+From a categorical perspective the above-mentioned structures may appear somewhat special and ad hoc. A more regular structure which gives rise to models of intuitionistic type theory are the locally cartesian closed categories. These are categories with a terminal object, where each slice category is cartesian closed. It can be shown that the pullback functor has a left and a right adjoint, representing $\Sigma$- and *Π*-types, respectively. Locally cartesian closed categories correspond to intuitionistic type theory with extensional identity types and $\Sigma$ and *Π*-types (Seely 1984, Clairambault and Dybjer 2014)[^clairambault-2014][^seely-1984]. It should be remarked that the correspondence with intuitionistic type theory is somewhat indirect, since a coherence problem, in the sense of category theory, needs to be solved. The problem is that in locally cartesian closed categories type substituion is represented by pullbacks, but these are only defined up to isomorphism, see Curien (1993)[^curien-1993] and Hofmann (1994)[^hofmann-1994].
 
 ### 6.2 Set-Theoretic Models
 
-Intuitionistic type theory is a possible framework for constructive mathematics in Bishop’s sense. Such constructive mathematics is compatible with classical mathematics: a constructive proof in Bishop’s sense can directly be understood as a proof in classical logic. A formal way to understand this is by constructing a set-theoretic model of intuitionistic type theory, where each concept of type theory is interpreted as the corresponding concept in Zermelo-Fraenkel Set Theory. For example, a type is interpreted as a set, and the type of functions in $A \rightarrow B$ is interpreted as the set of all functions in the set-theoretic sense from the set representing $A$ to the set representing $B$. The type of natural numbers is interpreted as the set of natural numbers. The interpretations of identity types, and $\Sigma$ and $\Pi$-types were already discussed in the introduction. And as already mentioned, to interpret the type-theoretic universe we need an inaccessible cardinal.
+Intuitionistic type theory is a possible framework for constructive mathematics in Bishop’s sense. Such constructive mathematics is compatible with classical mathematics: a constructive proof in Bishop’s sense can directly be understood as a proof in classical logic. A formal way to understand this is by constructing a set-theoretic model of intuitionistic type theory, where each concept of type theory is interpreted as the corresponding concept in Zermelo-Fraenkel Set Theory. For example, a type is interpreted as a set, and the type of functions in $A \rightarrow B$ is interpreted as the set of all functions in the set-theoretic sense from the set representing $A$ to the set representing $B$. The type of natural numbers is interpreted as the set of natural numbers. The interpretations of identity types, and $\Sigma$ and *Π*-types were already discussed in the introduction. And as already mentioned, to interpret the type-theoretic universe we need an inaccessible cardinal.
 
 It can be shown that the interpretation outlined above can be carried out in Aczel’s constructive set theory CZF. Hence it does not depend on classical logic or impredicative features of set theory.
 
@@ -571,7 +571,7 @@ Realizability models are also models of the extensional version of intuitionisti
 
 ### 6.4 Model of Normal Forms and Type-Checking
 
-In intuitionistic type theory each type and each well-typed term has a normal form. A consequence of this normal form property is that all the judgments are decidable: for example, given a correct context $\Gamma$, a correct type $A$ and a possibly ill-typed term $a$, there is an algorithm for deciding whether $\Gamma \vdash a {:} A$. This type-checking algorithm is the key component of proof-assistants for Intensional Type Theory, such as Agda.
+In intuitionistic type theory each type and each well-typed term has a normal form. A consequence of this normal form property is that all the judgments are decidable: for example, given a correct context *Γ*, a correct type $A$ and a possibly ill-typed term $a$, there is an algorithm for deciding whether $\Gamma \vdash a {:} A$. This type-checking algorithm is the key component of proof-assistants for Intensional Type Theory, such as Agda.
 
 The correctness of the normal form property can be expressed as a model of normal forms, where each context, type, and term are interpreted as their respective normal forms.
 
@@ -699,7 +699,7 @@ logic, history of: intuitionistic logic | logic: intuitionistic | mathematics, p
 
 [^beeson-1985]: Beeson, Michael, 1985, *Foundations of Constructive Mathematics*, Springer-Verlag, Berlin.
 
-[^berg-2011]: van den Berg, Benno and Richard Garner, 2011, “Types are weak $\omega$-groupoids”, *Proceedings of the London Mathematical Society*, 102(2): 370–394. doi:10.1112/plms/pdq026
+[^berg-2011]: van den Berg, Benno and Richard Garner, 2011, “Types are weak *ω*-groupoids”, *Proceedings of the London Mathematical Society*, 102(2): 370–394. doi:10.1112/plms/pdq026
 
 [^bezem-2014]: Bezem, Marc, Thierry Coquand, and Simon Huber, 2014 [2013], “A model of type theory in cubical sets”, in *19th International Conference on Types for Proofs and Programs (TYPES 2013)*, Ralph Matthes and Aleksy Schubert (eds), Dagstuhl, Germany: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, pp. 107–128.
 

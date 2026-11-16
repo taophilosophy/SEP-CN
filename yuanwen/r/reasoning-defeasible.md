@@ -93,7 +93,7 @@ In contrast, a logical approach to defeasible reasoning fastens on a relationshi
 
 The two approaches are related. In particular, a logical theory of defeasible consequence will have epistemological consequences. It is presumably true that an ideally rational thinker will have a set of beliefs that are closed under defeasible, as well as deductive, consequence. However, a logical theory of defeasible consequence would have a wider scope of application than a merely epistemological theory of inference. Defeasible logic would provide a mechanism for engaging in *hypothetical* reasoning, not just reasoning from actual beliefs.
 
-Conversely, as David Makinson and Peter Gärdenfors have pointed out (Makinson and Gärdenfors 1991, 185–205; Makinson 2005)[^makinson-2005][^makinson-1991], an epistemological theory of belief change can be used to define a set of nonmonotonic consequence relations (one relation for each initial belief state). We can define the consequence relation $\alpha \dproves \beta$, for a given set of beliefs $T$, as holding just in case the result of adding belief $\alpha$ to $T$ would include belief in $\beta$. However, on this approach, there would be many distinct nonmonotonic consequence relations, instead of a single perspective-independent one.
+Conversely, as David Makinson and Peter Gärdenfors have pointed out (Makinson and Gärdenfors 1991, 185–205; Makinson 2005)[^makinson-2005][^makinson-1991], an epistemological theory of belief change can be used to define a set of nonmonotonic consequence relations (one relation for each initial belief state). We can define the consequence relation $\alpha \dproves \beta$, for a given set of beliefs $T$, as holding just in case the result of adding belief *α* to $T$ would include belief in *β*. However, on this approach, there would be many distinct nonmonotonic consequence relations, instead of a single perspective-independent one.
 
 And, as Phan Minh Dung has argued (Dung 1995)[^dung-1995], formal argumentation can also be used to provide a basis for defining a nonmonotonic consequence relation. A formal argument structure $F$ is an ordered pair $⟨A, B⟩$, where $A$ is a set of arguments, and $B$ is a binary relation on $A$ (the *attack* relation). Then we can say that an argument structure $F$ has $p$ has a consequence just in case $p$ is the conclusion of some argument in the optimal *extension* of $F$ (which can be defined in a variety of ways--see section 4.4).
 
@@ -192,9 +192,9 @@ Logical approaches to defeasible reasoning treat the subject as a part of logic:
 
 ### 5.1 Relations of Logical Consequence
 
-A consequence relation is a mathematical relation that models what follows logically from what. Consequence relations can be defined in a variety of ways, such as Hilbert, Tarski, and Scott relations. A Hilbert consequence relation is a relation between pairs of formulas, a Tarski relation is a relation between sets of formulas (possibly infinite) and individual formulas, and a Scott relation is a relation between two sets of formulas. In the case of Hilbert and Tarski relations, $A \vDash B$ or $\Gamma \vDash B$ mean that the formula $B$ follows from formula $A$ or from set of formulas $\Gamma$. In the case of Scott consequence relations, $\Gamma \vDash \Delta$ means that the joint truth of all the members of $\Gamma$ implies (in some sense) the truth of at least one member of $\Delta$. To this point, studies of nonmonotonic logic have defined nonmonotonic consequence relations in the style of Hilbert or Tarski, rather than Scott.
+A consequence relation is a mathematical relation that models what follows logically from what. Consequence relations can be defined in a variety of ways, such as Hilbert, Tarski, and Scott relations. A Hilbert consequence relation is a relation between pairs of formulas, a Tarski relation is a relation between sets of formulas (possibly infinite) and individual formulas, and a Scott relation is a relation between two sets of formulas. In the case of Hilbert and Tarski relations, $A \vDash B$ or $\Gamma \vDash B$ mean that the formula $B$ follows from formula $A$ or from set of formulas *Γ*. In the case of Scott consequence relations, $\Gamma \vDash \Delta$ means that the joint truth of all the members of *Γ* implies (in some sense) the truth of at least one member of $\Delta$. To this point, studies of nonmonotonic logic have defined nonmonotonic consequence relations in the style of Hilbert or Tarski, rather than Scott.
 
-A (Tarski) consequence relation is *monotonic* just in case it satisfies the following condition, for all formulas $p$ and all sets $\Gamma$ and $\Delta$:
+A (Tarski) consequence relation is *monotonic* just in case it satisfies the following condition, for all formulas $p$ and all sets *Γ* and $\Delta$:
 
 **Monotonicity**: If $\Gamma \vDash p$, then $\Gamma \cup \Delta \vDash p$.
 
@@ -204,13 +204,13 @@ Any consequence relation that fails this condition is *nonmonotonic*. A relation
 
 Once monotonicity is given up, the question arises: why call the relation of defeasible consequence a *logical consequence* relation at all? What properties do defeasible consequence and classical logical consequence have in common, that would justify treating them as sub-classes of the same category? What justifies calling nonmonotonic consequence *logical*?
 
-To count as *logical*, there are certain minimal properties that a relation must satisfy. First, the relation ought to permit reasoning by lemmas or subconclusions. That is, if a proposition $p$ already follows from a set $\Gamma$, then it should make no difference to add $p$ to $\Gamma$ as an additional premise. Relations that satisfy this condition are called *cumulative*. Cumulative relations satisfy the following two conditions (where “$C(\Gamma)$” represents the set of defeasible consequences of $\Gamma)$:
+To count as *logical*, there are certain minimal properties that a relation must satisfy. First, the relation ought to permit reasoning by lemmas or subconclusions. That is, if a proposition $p$ already follows from a set *Γ*, then it should make no difference to add $p$ to *Γ* as an additional premise. Relations that satisfy this condition are called *cumulative*. Cumulative relations satisfy the following two conditions (where “$C(\Gamma)$” represents the set of defeasible consequences of $\Gamma)$:
 
 **Cut**: If $\Gamma \subseteq \Delta \subseteq C(\Gamma)$, then $C(\Delta) \subseteq C(\Gamma)$.
 
 **Cautious Monotony**: If $\Gamma \subseteq \Delta \subseteq C(\Gamma)$, then $C(\Gamma) \subseteq C(\Delta)$.
 
-In addition, a defeasible consequence relation ought to be *supraclassical*: if $p$ follows from $q$ in classical logic, then it ought to be included in the defeasible consequences of $q$ as well. A formula $q$ ought to count as an (at least) defeasible consequence of itself, and anything included in the content of $q$ (any formula $p$ that follows from $q$ in classical logic) ought to count as a defeasible consequence of $q$ as well. Moreover, the defeasible consequences of a set $\Gamma$ ought to depend only on the content of the formulas in $\Gamma$, not in how that content is represented. Consequently, the defeasible consequence relation ought to treat $\Gamma$ and the classical logical closure of $\Gamma$ (which we’ll represent as “$Cn(\Gamma)$”) in exactly the same way. A consequence relation that satisfies these two conditions is said to satisfy *full absorption* (see Makinson 1994, 47)[^makinson-1994].
+In addition, a defeasible consequence relation ought to be *supraclassical*: if $p$ follows from $q$ in classical logic, then it ought to be included in the defeasible consequences of $q$ as well. A formula $q$ ought to count as an (at least) defeasible consequence of itself, and anything included in the content of $q$ (any formula $p$ that follows from $q$ in classical logic) ought to count as a defeasible consequence of $q$ as well. Moreover, the defeasible consequences of a set *Γ* ought to depend only on the content of the formulas in *Γ*, not in how that content is represented. Consequently, the defeasible consequence relation ought to treat *Γ* and the classical logical closure of *Γ* (which we’ll represent as “$Cn(\Gamma)$”) in exactly the same way. A consequence relation that satisfies these two conditions is said to satisfy *full absorption* (see Makinson 1994, 47)[^makinson-1994].
 
 **Full Absorption**: $Cn(C(\Gamma)) = C(\Gamma) = C(Cn(\Gamma))$
 
@@ -218,7 +218,7 @@ Finally, a genuinely logical consequence relation ought to enable us to reason b
 
 **Distribution**: $C(\Gamma) \cap C(\Delta) \subseteq C(Cn(\Gamma) \cap Cn(\Delta))$.
 
-Consequence relations that are cumulative, strongly absorptive, and distributive satisfy a number of other desirable properties, including *conditionalization*: If a formula $p$ is a defeasible consequence of $\Gamma \cup \{q\}$, then the material conditional $(q \rightarrow p)$ is a defeasible consequence of $\Gamma$ alone. In addition, such logics satisfy the property of *loop*: if $p_1 \dproves p_2 \ldots p_{n-1} \dproves p_n$ (where “ $\dproves$ ” represents the defeasible consequence relation), then the defeasible consequences of $p_i$ and $p_j$ are exactly the same, for any $i$ or $j$.[^note-2]
+Consequence relations that are cumulative, strongly absorptive, and distributive satisfy a number of other desirable properties, including *conditionalization*: If a formula $p$ is a defeasible consequence of $\Gamma \cup \{q\}$, then the material conditional $(q \rightarrow p)$ is a defeasible consequence of *Γ* alone. In addition, such logics satisfy the property of *loop*: if $p_1 \dproves p_2 \ldots p_{n-1} \dproves p_n$ (where “ $\dproves$ ” represents the defeasible consequence relation), then the defeasible consequences of $p_i$ and $p_j$ are exactly the same, for any $i$ or $j$.[^note-2]
 
 There are three further conditions that have been much discussed in the literature, but whose status remains controversial: *disjunctive rationality*, *rational monotony*, and *consistency preservation*.
 
@@ -226,7 +226,7 @@ There are three further conditions that have been much discussed in the literatu
 
 **Rational Monotony**: If $\Gamma \dproves A$, then either $\Gamma \cup \{B\} \dproves A$ or $\Gamma \dproves \neg B$.
 
-**Consistency Preservation**: If $\Gamma$ is classically consistent, then so is $C(\Gamma)$ (the set of defeasible consequences of $\Gamma)$.
+**Consistency Preservation**: If *Γ* is classically consistent, then so is $C(\Gamma)$ (the set of defeasible consequences of $\Gamma)$.
 
 All three properties seem desirable, but they set a very high standard for the defeasible reasoner.
 
@@ -246,7 +246,7 @@ Default logic fails many of the tests for a logical relation that were introduce
 
 ### 5.4 Nonmonotonic Logic I and Autoepistemic Logic
 
-In both McDermott-Doyle’s Nonmonotonic Logic I and Moore’s Autoepistemic logic (McDermott and Doyle, 1982; Moore, 1985; Konolige 1994)[^konolige-1994][^mcdermott-1982][^moore-1985], a modal operator $M$ (representing a kind of epistemic possibility) is used. Default rules take the following form: $((p \amp Mq) \rightarrow q)$, that is, if $p$ is true and $q$ is “possible” (in the relevant sense), then $q$ is also true. In both cases, the extension of a theory is defined, as in Reiter’s default logic, by means of a fixed-point operation. $Mp$ represents the fact that $\neg p$ does not belong to the extension. For example, in Moore’s case, a set $\Delta$ is a *stable expansion* of a theory $\Gamma$ just in case $\Delta$ is the set of classical consequences of the set $\Gamma \cup \{\neg Mp: p \in \Delta \} \cup \{Mp: p \not\in \Delta \}$. As in the case of Reiter’s default logic, some theories will lack a stable expansion, or have more than one. In addition, these systems fail to incorporate *Specificity*.
+In both McDermott-Doyle’s Nonmonotonic Logic I and Moore’s Autoepistemic logic (McDermott and Doyle, 1982; Moore, 1985; Konolige 1994)[^konolige-1994][^mcdermott-1982][^moore-1985], a modal operator $M$ (representing a kind of epistemic possibility) is used. Default rules take the following form: $((p \amp Mq) \rightarrow q)$, that is, if $p$ is true and $q$ is “possible” (in the relevant sense), then $q$ is also true. In both cases, the extension of a theory is defined, as in Reiter’s default logic, by means of a fixed-point operation. $Mp$ represents the fact that $\neg p$ does not belong to the extension. For example, in Moore’s case, a set $\Delta$ is a *stable expansion* of a theory *Γ* just in case $\Delta$ is the set of classical consequences of the set $\Gamma \cup \{\neg Mp: p \in \Delta \} \cup \{Mp: p \not\in \Delta \}$. As in the case of Reiter’s default logic, some theories will lack a stable expansion, or have more than one. In addition, these systems fail to incorporate *Specificity*.
 
 ### 5.5 Circumscription
 
@@ -260,7 +260,7 @@ Circumscription does have the capacity of representing the existence of *undercu
 
 ### 5.6 Preferential Logics
 
-Circumscription is a special case of a wider class of defeasible logics, the *preferential* logics (Shoham 1987)[^shoham-1987]. In preferential logics, $\Gamma \dproves p$ iff $p$ is true in all of the *most preferred* models of $\Gamma$. In the case of circumscription, the most preferred models are those that minimize the extension of certain predicates, but many other kinds of preference relations can be used instead, so long as the preference relations are transitive and irreflexive (a strict partial order). A structure consisting of a set of models of a propositional or first-order language, together with a preference order on those models, is called a *preferential structure*. The symbol $\prec$ shall represent the preference relation. $M \prec M'$ means that $M$ is strictly preferred to $M'$. A most preferred model is one that is *minimal* in the ordering.
+Circumscription is a special case of a wider class of defeasible logics, the *preferential* logics (Shoham 1987)[^shoham-1987]. In preferential logics, $\Gamma \dproves p$ iff $p$ is true in all of the *most preferred* models of *Γ*. In the case of circumscription, the most preferred models are those that minimize the extension of certain predicates, but many other kinds of preference relations can be used instead, so long as the preference relations are transitive and irreflexive (a strict partial order). A structure consisting of a set of models of a propositional or first-order language, together with a preference order on those models, is called a *preferential structure*. The symbol $\prec$ shall represent the preference relation. $M \prec M'$ means that $M$ is strictly preferred to $M'$. A most preferred model is one that is *minimal* in the ordering.
 
 In order to give rise to a cumulative logic (one that satisfies Cut and Cautious Monotony), we must add an additional condition to the preferential structures, a Limit Assumption (also known as the condition of *stopperedness* or *smoothness*:
 
@@ -292,7 +292,7 @@ Sten Lindström, in a paper written in 1991 (Rott 2022)[^rott-2022] but first pu
 
 Lehmann and Magidor (Lehmann and Magidor 1992)[^lehmann-1992] noticed an interesting coincidence: the metalogical conditions for preferential consequence relations correspond exactly to the axioms for a logic of conditionals developed by Ernest W. Adams (Adams 1975)[^adams-1975].[^note-4] Adams’s logic was based on a conditional, $\Rightarrow$, intended to represent a relation of very high conditional probability: $(p \Rightarrow q)$ means that the conditional probability $Pr(q/p)$ is extremely close to 1. Adams used the standard delta-epsilon definition of the calculus to make this idea precise. Let us suppose that a theory $T$ consists of a set of conditional-free formulas (the facts) and a set of probabilistic conditionals. A conclusion $p$ follows defeasibly from $T$ if and only if every probability function satisfies the following condition:
 
-For every $\delta$, there is an $\varepsilon$ such that, if the probability of every fact in $T$ is assigned a probability at least as high as $1 - \varepsilon$, and every conditional in $T$ is assigned a conditional probability at least as high as $1 - \varepsilon$, then the probability of the conclusion $p$ is at least $1 - \delta$.
+For every *δ*, there is an *ε* such that, if the probability of every fact in $T$ is assigned a probability at least as high as $1 - \varepsilon$, and every conditional in $T$ is assigned a conditional probability at least as high as $1 - \varepsilon$, then the probability of the conclusion $p$ is at least $1 - \delta$.
 
 The resulting defeasible consequence relation is a preferential relation. (It need not, however, be consistency-preserving.) This consequence relation also corresponds to a relation, 0-entailment, defined by Judea Pearl (Pearl 1990)[^pearl-1990], as the common core to all defeasible consequence relations.
 
@@ -360,7 +360,7 @@ The following proposition is logically valid in this logic, representing the pre
 
 $((p \amp(p \Rightarrow q)) \Rightarrow q)$
 
-This system can be the basis for a family of rational nonmonotonic consequence relations that include the Adams $\varepsilon$-entailment system as a proper part (see Koons 2000, 298–319)[^koons-2000].
+This system can be the basis for a family of rational nonmonotonic consequence relations that include the Adams *ε*-entailment system as a proper part (see Koons 2000, 298–319)[^koons-2000].
 
 ### 5.9 Objections to Nonmonotonic Logic
 
@@ -380,7 +380,7 @@ $\Gamma \cup \{p\} \dproves q$ iff $\Gamma \dproves (p \Rightarrow q)$
 
 Morgan is certainly right about this.
 
-However, there are good grounds for thinking that a system of nonmonotonic logic *should* fail to include a generalized deduction theorem. The very nature of defeasible consequence ensures that it must be so. Consider, for example, the left-to-right direction: suppose that $\Gamma \cup \{p\} \dproves q$. Should it follow that $\Gamma \dproves (p \Rightarrow q)$? Not at all. It may be that, normally, if $p$ then $\neg q$, but $\Gamma$ may contain defaults and information that defeat and override this inference. For instance, it might contain the fact $r$ and the default $((r \amp p) \Rightarrow q)$. Similarly, consider the right-to-left direction: suppose that $\Gamma \dproves (p \Rightarrow q)$. Should it follow that $\Gamma \cup \{p\} \dproves q$? Again, clearly not. $\Gamma$ might contain both $r$ and a default $((p \amp r) \Rightarrow \neg q)$, in which case $\Gamma \cup \{p\} \dproves \neg q$.
+However, there are good grounds for thinking that a system of nonmonotonic logic *should* fail to include a generalized deduction theorem. The very nature of defeasible consequence ensures that it must be so. Consider, for example, the left-to-right direction: suppose that $\Gamma \cup \{p\} \dproves q$. Should it follow that $\Gamma \dproves (p \Rightarrow q)$? Not at all. It may be that, normally, if $p$ then $\neg q$, but *Γ* may contain defaults and information that defeat and override this inference. For instance, it might contain the fact $r$ and the default $((r \amp p) \Rightarrow q)$. Similarly, consider the right-to-left direction: suppose that $\Gamma \dproves (p \Rightarrow q)$. Should it follow that $\Gamma \cup \{p\} \dproves q$? Again, clearly not. *Γ* might contain both $r$ and a default $((p \amp r) \Rightarrow \neg q)$, in which case $\Gamma \cup \{p\} \dproves \neg q$.
 
 It would be reasonable, however, to demand that a system of nonmonotonic logic satisfy the following *special deduction theorem*:
 
@@ -493,7 +493,7 @@ artificial intelligence: logic-based | causation: probabilistic | epistemology: 
 
 [^note-4]: Adams’s logic of high conditional probability also corresponds closely to the logic of subjunctive or counterfactual conditionals developed by Robert Stalnaker and David K. Lewis (Lewis 1973)[^lewis-1973]. By deleting both weak centering and the *CV* axiom (which corresponds to Rational Montonoty) from Lewis’s favored logic, *VC*, Adams’s logic results. Adding axiom *CV* produces a logic corresponding to the Lehmann-Magidor-Pearl 1-entailment (see below). The correspondence between counterfactual logics and preferential logics was first noted by Adam Grove (Grove 1988)[^grove-1988].
 
-[^note-5]: Admissibility has also known as “$p$-consistency” (Adams 1975)[^adams-1975] and “$\varepsilon$-consistency” (Pearl 1988)[^pearl-1988]. A preferential consequence relation is *admissible* if and only if, for every $\varepsilon \gt 0$, there exists a probability function $P$ such that, for all propositions $p$ and $q, p \dproves q$ iff $P(q \mid p) \ge 1 - \varepsilon$.
+[^note-5]: Admissibility has also known as “$p$-consistency” (Adams 1975)[^adams-1975] and “*ε*-consistency” (Pearl 1988)[^pearl-1988]. A preferential consequence relation is *admissible* if and only if, for every $\varepsilon \gt 0$, there exists a probability function $P$ such that, for all propositions $p$ and $q, p \dproves q$ iff $P(q \mid p) \ge 1 - \varepsilon$.
 
 [^note-6]: The *entropy* of a probability function is a measure of the expectation of information. To simplify, suppose that there are finitely many models. The entropy of a function $P$ is the sum, over all the models $\mathcal{M}$ of the product of the probability of $\mathcal{M}$ and the negative logarithm (base 2) of that probability.
 

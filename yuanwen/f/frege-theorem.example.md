@@ -14,7 +14,7 @@ one can prove that
 
 $1\in \epsilon[\lambda z \, z+2^{2} =5]$
 
-For it follows from our premise (by $\lambda$-Abstraction) that:
+For it follows from our premise (by *λ*-Abstraction) that:
 
 $[\lambda z \, z+2^{2}=5]1$
 
@@ -22,7 +22,7 @@ Independently, by the logic of identity, we know:
 
 $\epsilon[\lambda z \, z+2^{2}=5] = \epsilon[\lambda z \, z+2^{2}=5]$
 
-So we may conjoin this fact and the result of $\lambda$-Abstraction to produce:
+So we may conjoin this fact and the result of *λ*-Abstraction to produce:
 
 $\epsilon[\lambda z \, z+2^{2}=5] \eqclose \epsilon[\lambda z \, z+2^{2}=5] \amp [\lambda z \, z+2^{2}=5]1$
 

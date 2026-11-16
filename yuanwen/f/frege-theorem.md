@@ -13,7 +13,7 @@ To accomplish these goals, we presuppose only a familiarity with the first-order
 
 ## 1. The Second-Order Predicate Calculus and Theory of Concepts
 
-In this section, we describe the language and logic of the second-order predicate calculus. We then extend this calculus with the classical comprehension principle for concepts and we introduce and explain $\lambda$-notation, which allows one to turn open formulas into complex names of concepts. Although Frege’s own logic is rather different from the modern second-order predicate calculus, the latter’s comprehension principle for concepts and $\lambda$-notation provide us with a logically perspicuous way of representing Frege’s Theorem. We shall sometimes remark on the differences between the calculus presented below and the calculus that Frege developed, but such remarks are not intended to be a scholarly guide to the many subtleties involved in understanding Frege’s original works.
+In this section, we describe the language and logic of the second-order predicate calculus. We then extend this calculus with the classical comprehension principle for concepts and we introduce and explain *λ*-notation, which allows one to turn open formulas into complex names of concepts. Although Frege’s own logic is rather different from the modern second-order predicate calculus, the latter’s comprehension principle for concepts and *λ*-notation provide us with a logically perspicuous way of representing Frege’s Theorem. We shall sometimes remark on the differences between the calculus presented below and the calculus that Frege developed, but such remarks are not intended to be a scholarly guide to the many subtleties involved in understanding Frege’s original works.
 
 ### 1.1 The Language
 
@@ -28,9 +28,9 @@ The object names and variables denote, or take values in, a domain of *objects* 
 
 From these simple terms, one can define the *formulas* of the language as follows:
 
-- If $\Pi$ is any $n$-place relation term and $v_1,\ldots ,v_n$ are any object terms $( n\geq 1)$, then $\Pi v_1\ldots v_n$ is an (atomic) formula.
+- If *Π* is any $n$-place relation term and $v_1,\ldots ,v_n$ are any object terms $( n\geq 1)$, then $\Pi v_1\ldots v_n$ is an (atomic) formula.
 - If $\phi, \psi$ are any formulas, then $\neg\phi$ and $ (\phi\to\psi)$ are (molecular) formulas. (We drop the parenthesis around $(\phi\to\psi)$ when there is no potential for ambiguity.)
-- Where $\phi$ is any formula and $\alpha$ any variable, then $\forall\alpha\phi$ is a (quantified) formula.
+- Where *φ* is any formula and *α* any variable, then $\forall\alpha\phi$ is a (quantified) formula.
 
 So, for example, $Pa$, $Rxy$, etc., are atomic formulas and these assert, respectively, that object $a$ exemplifies the 1-place relation $P$ and that $x$ and $y$ stand in the relation $R$. The formulas $\neg Pa$ and $Pa \to Rxy$ are molecular formulas, and these assert, respectively, that it is *not* the case that $a$ exemplifies $P$, and that *if* $a$ exemplifies $P$ *then* $x$ and $y$ stand in the relation $R$. Finally, here are some examples of quantified formulas:
 
@@ -44,7 +44,7 @@ The language we defined above is *second-order* because the last clause in the d
 
 $$\begin{align*} & \phi \amp \psi \eqdef \neg(\phi \to \neg\psi) \\ & \phi \lor \psi \eqdef \neg\phi \to \psi \\ & \phi\equiv\psi \eqdef (\phi\to\psi) \amp (\psi\to\phi) \\ & \exists\alpha\phi \eqdef \neg\forall\alpha\neg\phi \end{align*}$$
 
-The first of the above defines the conjunction $\phi$ *and* $\psi$; the second defines the disjunction $\phi$ *or* $\psi$; the third defines the biconditional $\phi$ *if and only if* $\psi$ (which we often abbreviate as *iff*); and the last defines the existentially quantified formula *there is an* $\alpha$ *such that* $\phi$. It should be noted here that instead of using a linear string of symbols to express molecular and quantified formulas, Frege developed a two-dimensional notation for such formulas. Since we won’t be using Frege’s notation for complex formulas in what follows, we need not spend time describing it here.[^note-1]
+The first of the above defines the conjunction *φ* *and* *ψ*; the second defines the disjunction *φ* *or* *ψ*; the third defines the biconditional *φ* *if and only if* *ψ* (which we often abbreviate as *iff*); and the last defines the existentially quantified formula *there is an* *α* *such that* *φ*. It should be noted here that instead of using a linear string of symbols to express molecular and quantified formulas, Frege developed a two-dimensional notation for such formulas. Since we won’t be using Frege’s notation for complex formulas in what follows, we need not spend time describing it here.[^note-1]
 
 But even if we put aside Frege’s notation for complex formulas, it is important to point out that Frege didn’t use atomic formulas of the form $Px$, $Rxy$, etc., as we have done. Instead of including $n$-place relation names and variables among his primitive terms, he included primitive function names and variables such as $f$, $g$, $h$, …, and used them to signify *functions*. That is, instead of distinguishing objects and *relations*, Frege distinguished objects from *functions*. Though some developments of the modern predicate calculus include function terms among the simple terms of the language, we have not included them because we shall not need them in the development of Frege’s Theorem.
 
@@ -62,14 +62,14 @@ Thus, formulas such as ‘$x = y$’ are part of the second-order predicate calc
 
 ### 1.2 The Logic
 
-The basic axioms and rules of inference governing statements in our second-order language are similar to those of the first-order predicate calculus with identity, though they’ve been extended to apply to claims involving universal quantifiers binding relation variables. Where $\phi$, $\psi$, and $\chi$ are any formulas, $\alpha$ any variable and $\tau$ any term of the same type as $\alpha$ (i.e., both are object terms or both are $n$-place relation terms), then the following are the basic axioms and rules of second-order logic:
+The basic axioms and rules of inference governing statements in our second-order language are similar to those of the first-order predicate calculus with identity, though they’ve been extended to apply to claims involving universal quantifiers binding relation variables. Where *φ*, *ψ*, and *χ* are any formulas, *α* any variable and *τ* any term of the same type as *α* (i.e., both are object terms or both are $n$-place relation terms), then the following are the basic axioms and rules of second-order logic:
 
 - The axioms for propositional logic. E.g., $\phi \to (\psi \to \phi)$ $(\phi \to (\psi \to \chi)) \to ((\phi \to \psi) \to (\phi \to \chi))$ $(\neg\phi \to \neg\psi) \to ((\neg\phi \to \psi) \to \phi)$
-- Universal Instantiation: $\forall\alpha\phi \to \phi^{\tau}_{\alpha}$, where both $\phi^{\tau}_{\alpha}$ is the result of uniformly substituting $\tau$ for the free occurrences of $\alpha$ in $\phi$, and $\tau$ is substitutable for $\alpha$ (i.e., no variable free in $\tau$ becomes bound by any quantifier in $\phi^{\tau}_{\alpha}$). E.g., where ‘a’ is an object term and ‘P’ is a 1-place relation term, $\forall xPx \to Pa$ $\forall FFa \to Pa$ (The corresponding principle, Existential Introduction, for the existential quantifier, i.e., $\phi^{\tau}_{\alpha}\to \exists \alpha \phi$, is derivable.)
-- Quantifier Distribution: $\forall\alpha(\phi \to \psi) \to (\phi \to \forall\alpha\psi),$ where $\alpha$ is any variable that isn’t free in $\phi$
-- Laws of Identity: $x\eqclose x$ $x\eqclose y \to (\phi \to \phi'),$ where $\phi'$ is the result of substituting one or more occurrences of $y$ for $x$ in $\phi$.
-- Modus Ponens (MP): from $\phi$ and $\phi\to\psi$, we may infer $\psi$.
-- Rule of Generalization (GEN): from $\phi$, we may infer $\forall\alpha\phi$.
+- Universal Instantiation: $\forall\alpha\phi \to \phi^{\tau}_{\alpha}$, where both $\phi^{\tau}_{\alpha}$ is the result of uniformly substituting *τ* for the free occurrences of *α* in *φ*, and *τ* is substitutable for *α* (i.e., no variable free in *τ* becomes bound by any quantifier in $\phi^{\tau}_{\alpha}$). E.g., where ‘a’ is an object term and ‘P’ is a 1-place relation term, $\forall xPx \to Pa$ $\forall FFa \to Pa$ (The corresponding principle, Existential Introduction, for the existential quantifier, i.e., $\phi^{\tau}_{\alpha}\to \exists \alpha \phi$, is derivable.)
+- Quantifier Distribution: $\forall\alpha(\phi \to \psi) \to (\phi \to \forall\alpha\psi),$ where *α* is any variable that isn’t free in *φ*
+- Laws of Identity: $x\eqclose x$ $x\eqclose y \to (\phi \to \phi'),$ where $\phi'$ is the result of substituting one or more occurrences of $y$ for $x$ in *φ*.
+- Modus Ponens (MP): from *φ* and $\phi\to\psi$, we may infer *ψ*.
+- Rule of Generalization (GEN): from *φ*, we may infer $\forall\alpha\phi$.
 
 In what follows, we shall assume familiarity with the above axioms and rules as we derive Frege’s Theorem. As noted, these are essentially the same as the axioms for the first-order predicate calculus, except for the addition of laws for the second-order quantifiers $\forall F$ and $\exists F$ that correspond to the laws governing the first-order quantifiers $\forall x$ and $\exists x$.
 
@@ -89,11 +89,11 @@ Though Frege essentially had a second-order logic in **Gg**, his rules of infere
 
 The modern second-order predicate calculus includes a *comprehension* principle that effectively guarantees that there exists an $n$-place relation corresponding to every open formula with $n$ free object variables $x_1,\ldots,x_n$. We introduce this principle by considering the following 1-place case:
 
-**Comprehension Principle for Concepts**: $\exists G \forall x(Gx \equiv \phi)$, where $\phi$ is any formula in which $G$ doesn’t occur free.
+**Comprehension Principle for Concepts**: $\exists G \forall x(Gx \equiv \phi)$, where *φ* is any formula in which $G$ doesn’t occur free.
 
 Similarly the following is a Comprehension Principle for 2-place Relations:
 
-**Comprehension Principle for 2-place Relations**: $\exists R\forall x\forall y(Rxy \equiv \phi)$, where $\phi$ is any formula in which $R$ doesn’t occur free.
+**Comprehension Principle for 2-place Relations**: $\exists R\forall x\forall y(Rxy \equiv \phi)$, where *φ* is any formula in which $R$ doesn’t occur free.
 
 Although Frege didn’t explicitly formulate these comprehension principles, they are derivable in his system and constitute very important generalizations within his system that reveal its underlying theory of concepts and relations. We can see these principles at work by formulating the following instance of comprehension, where ‘$Ox$’ asserts that $x$ is *odd*:
 
@@ -107,7 +107,7 @@ $\exists R\forall x\forall y(Rxy \equiv (Ox \amp x \gt y))$
 
 This asserts the existence of a relation that objects $x$ and $ y$ bear to one another just in case the complex condition $Ox \amp x \gt y$ holds.
 
-Logicians nowadays typically distinguish the open formula $\phi$ in which the variable $x$ is free from the corresponding name of a concept. For example, they use the notation $[\lambda x \, Ox \amp x \gt 5]$ as the name of the complex concept *being an $x$ such that $x$ is odd and $x$ is greater than* 5 (or, more naturally, ‘being odd and greater than 5’). The term-forming operator $\lambda x$ (which we read as ‘being an $x$ such that’) combines with a formula $\phi$ in which $x$ is free to produce $[\lambda x\,\phi]$. The $\lambda$-expression is a name of the concept expressed by the formula $\phi$. In what follows, the scope of the variable-binding operator $\lambda x$ in $[\lambda x\,\phi]$ applies to the entire formula $\phi$, no matter how complex, so that instead of writing, for example, $[\lambda x\,(Ox \amp x \gt 5)]$, we shall simply write: $[\lambda x\, Ox \amp x \gt 5]$.
+Logicians nowadays typically distinguish the open formula *φ* in which the variable $x$ is free from the corresponding name of a concept. For example, they use the notation $[\lambda x \, Ox \amp x \gt 5]$ as the name of the complex concept *being an $x$ such that $x$ is odd and $x$ is greater than* 5 (or, more naturally, ‘being odd and greater than 5’). The term-forming operator $\lambda x$ (which we read as ‘being an $x$ such that’) combines with a formula *φ* in which $x$ is free to produce $[\lambda x\,\phi]$. The *λ*-expression is a name of the concept expressed by the formula *φ*. In what follows, the scope of the variable-binding operator $\lambda x$ in $[\lambda x\,\phi]$ applies to the entire formula *φ*, no matter how complex, so that instead of writing, for example, $[\lambda x\,(Ox \amp x \gt 5)]$, we shall simply write: $[\lambda x\, Ox \amp x \gt 5]$.
 
 This notation can be extended for relations. The expression:
 
@@ -115,19 +115,19 @@ $[\lambda xy \, Ox \amp x \gt y]$
 
 names the 2-place relation *being an* $x$ *and* $y$ *such that* $x$ *is odd and* $x$ *is greater than* $y$.
 
-It is important to emphasize that Frege didn’t use $\lambda$-notation. By contrast, he thought that predicative expressions such as ‘($\, )$ is happy’ are incomplete expressions and that the concepts they denoted were *unsaturated*. We need not discuss Frege’s reasons for this in this entry, though interested readers may consult his 1892 essay “Concept and Object”.
+It is important to emphasize that Frege didn’t use *λ*-notation. By contrast, he thought that predicative expressions such as ‘($\, )$ is happy’ are incomplete expressions and that the concepts they denoted were *unsaturated*. We need not discuss Frege’s reasons for this in this entry, though interested readers may consult his 1892 essay “Concept and Object”.
 
-For the purposes of understanding Frege’s Theorem, we only need to introduce one axiom that governs $\lambda$-notation, namely, the principle known as $\lambda $-Conversion. Let $\phi$ be any formula and let $\phi^y_x$ be the result of substituting the variable $y$ for free occurrences of $x$ everywhere in $\phi$. Then the principle of $\lambda$-Conversion is:
+For the purposes of understanding Frege’s Theorem, we only need to introduce one axiom that governs *λ*-notation, namely, the principle known as $\lambda $-Conversion. Let *φ* be any formula and let $\phi^y_x$ be the result of substituting the variable $y$ for free occurrences of $x$ everywhere in *φ*. Then the principle of *λ*-Conversion is:
 
-$\lambda$-**Conversion**: $\forall y([\lambda x \, \phi]y \equiv \phi^y_x)$
+*λ*-**Conversion**: $\forall y([\lambda x \, \phi]y \equiv \phi^y_x)$
 
-This asserts: for any object $y$, $y$ falls under the concept $[\lambda x \, \phi]$ if and only if $y$ is such that $\phi^y_x$. So, using our example, the following is an instance of $\lambda$-conversion:
+This asserts: for any object $y$, $y$ falls under the concept $[\lambda x \, \phi]$ if and only if $y$ is such that $\phi^y_x$. So, using our example, the following is an instance of *λ*-conversion:
 
 $\forall y([\lambda x \, Ox \amp x \gt 5]y \equiv Oy \amp y \gt 5)$
 
-This asserts: for any object $y$, $y$ falls under the concept *being odd and greater than* 5 if and only if $y$ is odd and greater than 5. Note that when the quantified variable $y$ is instantiated to some object term, the resulting instance of $\lambda$-Conversion is a biconditional. Thus, among the many consequences of this axiom we find: 6 falls under the concept *being odd and greater than* 5 if and only if 6 is odd and greater than 5 (in this case, the biconditional remains true because both sides are false).
+This asserts: for any object $y$, $y$ falls under the concept *being odd and greater than* 5 if and only if $y$ is odd and greater than 5. Note that when the quantified variable $y$ is instantiated to some object term, the resulting instance of *λ*-Conversion is a biconditional. Thus, among the many consequences of this axiom we find: 6 falls under the concept *being odd and greater than* 5 if and only if 6 is odd and greater than 5 (in this case, the biconditional remains true because both sides are false).
 
-Some logicians call the rule of inference derived from the right-to-left direction of such biconditionals ‘$\lambda$-Abstraction’. For example, the inference from the premise:
+Some logicians call the rule of inference derived from the right-to-left direction of such biconditionals ‘*λ*-Abstraction’. For example, the inference from the premise:
 
 $O6 \amp 6 \gt 5$
 
@@ -135,21 +135,21 @@ to the conclusion:
 
 $[\lambda x \, Ox \amp x \gt 5]6$
 
-is justified by $\lambda$-Abstraction. (Here we have a case of a valid inference in which the premise and the conclusion are both false.)
+is justified by *λ*-Abstraction. (Here we have a case of a valid inference in which the premise and the conclusion are both false.)
 
-The principle of $\lambda$-Conversion can be generalized, so that it governs $n$-place $\lambda$-expressions as well. Here is the 2-place case:
+The principle of *λ*-Conversion can be generalized, so that it governs $n$-place *λ*-expressions as well. Here is the 2-place case:
 
 $\forall z\forall w([\lambda xy\, \phi]zw \equiv \phi^{z,w}_{x,y})$
 
-(In this formula $\phi^{z,w}_{x,y}$ is the result of simultaneously substituting $z$ for $x$ and $w$ for $y$ in $\phi$.)
+(In this formula $\phi^{z,w}_{x,y}$ is the result of simultaneously substituting $z$ for $x$ and $w$ for $y$ in *φ*.)
 
 The reader should construct an instance of this principle using our example $[\lambda xy \, Ox \amp x \gt y].$
 
-It should be noted at this point that instead of using comprehension principles, Frege had a distinguished rule in his system that is equivalent to such principles, namely, his Rule of Substitution. Though Frege’s Rule of Substitution appears to allow the substitution of formulas $\phi$ for free concept variables $F$ in theorems of logic, we can understand this rule in terms of the second-order logic we’ve defined as follows: in any theorem of logic with a free variable $F^{n}$, one may both substitute any $n$-place $\lambda$-expression $[\lambda x_{1}\ldots x_{n}\, \phi]$ for $F^{n}$ and then perform $\lambda$-conversion. For example, in the second-order system we now have, one can infer $\forall x(Ox \amp x \gt 5 \equiv Ox \amp x \gt 5)$ from $\forall y(Fy \equiv Fy)$ by first substituting $[\lambda x \, Ox \amp x \gt 5]$ for $F$ and then using $\lambda$-Conversion on all the resulting subformulas containing the $\lambda$-expression that flank the $\equiv$ sign. Frege’s Rule of Substitution allows one to do all this in one step. Readers interested in learning a bit more about the connection between the Rule of Substitution and Comprehension Principles described above can consult the following supplementary document:
+It should be noted at this point that instead of using comprehension principles, Frege had a distinguished rule in his system that is equivalent to such principles, namely, his Rule of Substitution. Though Frege’s Rule of Substitution appears to allow the substitution of formulas *φ* for free concept variables $F$ in theorems of logic, we can understand this rule in terms of the second-order logic we’ve defined as follows: in any theorem of logic with a free variable $F^{n}$, one may both substitute any $n$-place *λ*-expression $[\lambda x_{1}\ldots x_{n}\, \phi]$ for $F^{n}$ and then perform *λ*-conversion. For example, in the second-order system we now have, one can infer $\forall x(Ox \amp x \gt 5 \equiv Ox \amp x \gt 5)$ from $\forall y(Fy \equiv Fy)$ by first substituting $[\lambda x \, Ox \amp x \gt 5]$ for $F$ and then using *λ*-Conversion on all the resulting subformulas containing the *λ*-expression that flank the $\equiv$ sign. Frege’s Rule of Substitution allows one to do all this in one step. Readers interested in learning a bit more about the connection between the Rule of Substitution and Comprehension Principles described above can consult the following supplementary document:
 
 [Frege’s Rule of Substitution](frege-theorem.rule-substitution.md)
 
-Finally, it is important to point out that the system we have just described, i.e., second-order logic with identity and comprehension principles, extended with $\lambda$-expressions and $\lambda$-Conversion, is consistent. Its axioms are true even in very small interpretations, e.g., ones in which the domain of objects contains a single object and each domain of $n$-place relations $ (n\geq1)$ has just two relations. For example, if the domain of objects contains a single object, say **b**, and the domain of 1-place relations contains two concepts (i.e., one which **b** falls under and one which nothing falls under), then all of the above axioms are true, including the Comprehension Principle for Concepts and 1-place $\lambda$-Conversion. Even so, the system described above requires that every concept has a negation, every pair of concepts has a conjunction, every pair of concepts has a disjunction, etc. The reader should be able to write down instances of the comprehension principle which demonstrate these claims.
+Finally, it is important to point out that the system we have just described, i.e., second-order logic with identity and comprehension principles, extended with *λ*-expressions and *λ*-Conversion, is consistent. Its axioms are true even in very small interpretations, e.g., ones in which the domain of objects contains a single object and each domain of $n$-place relations $ (n\geq1)$ has just two relations. For example, if the domain of objects contains a single object, say **b**, and the domain of 1-place relations contains two concepts (i.e., one which **b** falls under and one which nothing falls under), then all of the above axioms are true, including the Comprehension Principle for Concepts and 1-place *λ*-Conversion. Even so, the system described above requires that every concept has a negation, every pair of concepts has a conjunction, every pair of concepts has a disjunction, etc. The reader should be able to write down instances of the comprehension principle which demonstrate these claims.
 
 Readers whose main goal is to understand Frege’s Theorem can now skip directly to Section 3.
 
@@ -161,7 +161,7 @@ The principle that undermined Frege’s system, Basic Law V, was one that attemp
 
 ### 2.1 Notation for Courses-of-Values of Functions
 
-Frege introduces primitive notation for courses-of-values in **Gg I**, §9. He switched to the lower case Greek letters $\epsilon$ and $\alpha$ when writing the names of courses-of-values and extensions, and placed smooth breathing marks over them to indicate they were variable-binding operators. So:
+Frege introduces primitive notation for courses-of-values in **Gg I**, §9. He switched to the lower case Greek letters *ε* and *α* when writing the names of courses-of-values and extensions, and placed smooth breathing marks over them to indicate they were variable-binding operators. So:
 
 $\stackrel{,}{\epsilon}\! f(\epsilon)$
 
@@ -169,7 +169,7 @@ and
 
 $\stackrel{,}{\alpha}\! g(\alpha)$
 
-designate the course-of-values of the functions $f$ and $g$, respectively. In this notation, the symbols $\stackrel{,}{\epsilon}$ and $\stackrel{,}{\alpha}$ bind the object variables $\epsilon$ and $\alpha$ in the expressions $f(\epsilon)$ and $g(\alpha)$, respectively, and the resulting expression denotes a course-of-values.
+designate the course-of-values of the functions $f$ and $g$, respectively. In this notation, the symbols $\stackrel{,}{\epsilon}$ and $\stackrel{,}{\alpha}$ bind the object variables *ε* and *α* in the expressions $f(\epsilon)$ and $g(\alpha)$, respectively, and the resulting expression denotes a course-of-values.
 
 Here is a pair of examples of Frege’s notation for courses-of-values. This pair of examples comes from **Gg I**, §9. Frege uses the expression:
 
@@ -203,11 +203,11 @@ This principle asserts: the course-of-values of the function $f$ is identical to
 
 ### 2.2 Notation for Extensions of Concepts
 
-Since concepts, for Frege, are functions that always map their arguments to a truth value, we may introduce some new notation to help us represent Frege’s method of forming names of the extensions of concepts. This new notation takes advantage of our $\lambda$-notation for naming concepts, and so allows us to introduce a new kind of function term where Frege introduced a variable-binding operator.
+Since concepts, for Frege, are functions that always map their arguments to a truth value, we may introduce some new notation to help us represent Frege’s method of forming names of the extensions of concepts. This new notation takes advantage of our *λ*-notation for naming concepts, and so allows us to introduce a new kind of function term where Frege introduced a variable-binding operator.
 
-Let us stipulate that where $\Pi$ is any 1-place concept term (name or variable), the notation ‘$\epsilon\Pi$’ designates the extension of the concept $\Pi$. So, for example, $\epsilon F$ denotes the extension of the concept $F$. Note that 1-place $\lambda$-expressions of the form $[\lambda x\,\phi]$ are 1-place concept terms, and so $\epsilon[\lambda x\,\phi]$ is well-formed and designates the extension of the concept $[\lambda x\,\phi]$. Thus, whereas Frege used $\stackrel{,}{\epsilon}$ as a variable-binding operator that binds an object variable in a formula to produce the name of an extension, we are using $\epsilon$ as a term-forming function symbol that applies to 1-place concept terms to produce terms denoting, or ranging over, objects. Thus, when $\epsilon$ is prefixed to a concept name, the resulting expression is a name of an object, and in particular, a name of the extension of the concept denoted by the concept name. When the $\epsilon$ is prefixed to a concept variable, e.g., as in $\epsilon F$, the resulting expression is a kind of complex variable that ranges over extensions: for each value of the variable $F$, $\epsilon F$ denotes the extension of $F$.
+Let us stipulate that where *Π* is any 1-place concept term (name or variable), the notation ‘$\epsilon\Pi$’ designates the extension of the concept *Π*. So, for example, $\epsilon F$ denotes the extension of the concept $F$. Note that 1-place *λ*-expressions of the form $[\lambda x\,\phi]$ are 1-place concept terms, and so $\epsilon[\lambda x\,\phi]$ is well-formed and designates the extension of the concept $[\lambda x\,\phi]$. Thus, whereas Frege used $\stackrel{,}{\epsilon}$ as a variable-binding operator that binds an object variable in a formula to produce the name of an extension, we are using *ε* as a term-forming function symbol that applies to 1-place concept terms to produce terms denoting, or ranging over, objects. Thus, when *ε* is prefixed to a concept name, the resulting expression is a name of an object, and in particular, a name of the extension of the concept denoted by the concept name. When the *ε* is prefixed to a concept variable, e.g., as in $\epsilon F$, the resulting expression is a kind of complex variable that ranges over extensions: for each value of the variable $F$, $\epsilon F$ denotes the extension of $F$.
 
-Here is an example of our notation involving a pair of complex concepts. Consider the concept *that which when added to* 4 *equals* 5, or using $\lambda$-notation, the following concept:
+Here is an example of our notation involving a pair of complex concepts. Consider the concept *that which when added to* 4 *equals* 5, or using *λ*-notation, the following concept:
 
 $[\lambda x \, x+4 = 5]$
 
@@ -219,7 +219,7 @@ Now consider the concept *that which when added to* $2^{2}$ *equals* 5 (i.e., $[
 
 $\epsilon[\lambda x \, x+2^{2} = 5]$
 
-Note that it seems natural to identify these two extensions given that all and only the objects that fall under the first concept fall under the second. Those readers already familiar with the $\lambda$-calculus should remember that $\epsilon[\lambda x~\phi]$ denotes an object, that $[\lambda x~\phi]$ denotes a concept, and that Frege rigorously distinguished objects and concepts and supposed them to constitute mutually exclusive domains.
+Note that it seems natural to identify these two extensions given that all and only the objects that fall under the first concept fall under the second. Those readers already familiar with the *λ*-calculus should remember that $\epsilon[\lambda x~\phi]$ denotes an object, that $[\lambda x~\phi]$ denotes a concept, and that Frege rigorously distinguished objects and concepts and supposed them to constitute mutually exclusive domains.
 
 ### 2.3 Membership in an Extension
 
@@ -242,7 +242,7 @@ In other words, $x$ is an element of $y$ just in case $x$ falls under a concept 
 
 Some readers may wish to examine a somewhat more complex example, in which the above definition of membership is used to prove that 1 $\in \epsilon[\lambda x \, x+2^2 = 5]$ given the premise that $ 1+2^{2} = 5$. ([A More Complex Example](frege-theorem.example.md))
 
-Before we turn to Basic Law V, it is important to mention an important fact about our representation of Frege’s system, in which we’ve introduced the term-forming operator $\epsilon$ into second-order logic with identity. The resulting system has the following principle, which asserts that every concept has an extension, as a theorem:
+Before we turn to Basic Law V, it is important to mention an important fact about our representation of Frege’s system, in which we’ve introduced the term-forming operator *ε* into second-order logic with identity. The resulting system has the following principle, which asserts that every concept has an extension, as a theorem:
 
 **Existence of Extensions**: $\forall G\exists x(x = \epsilon G)$
 
@@ -254,11 +254,11 @@ In second-order logic with identity, this is an instance of $x = x$ (strictly sp
 
 $\exists x(x = \epsilon F)$
 
-But now the Existence of Extensions principle follows by universal generalization on the concept variable $F$. Thus, simply by adding a term-forming operator such as $\epsilon$ to classical logic with identity, it is provable that every concept gets correlated with an extension. Basic Law V will not only imply, but also place a condition on, this correlation.
+But now the Existence of Extensions principle follows by universal generalization on the concept variable $F$. Thus, simply by adding a term-forming operator such as *ε* to classical logic with identity, it is provable that every concept gets correlated with an extension. Basic Law V will not only imply, but also place a condition on, this correlation.
 
 ### 2.4 Basic Law V for Concepts
 
-We can now represent the special case of Frege’s Basic Law V that applies to concepts, using our $\epsilon$ notation:
+We can now represent the special case of Frege’s Basic Law V that applies to concepts, using our *ε* notation:
 
 **Basic Law V** (Special Case): $\epsilon F\eqclose \epsilon G \equivwide \forall x(Fx \equiv Gx)$
 
@@ -294,7 +294,7 @@ In the next subsections, we describe the two ways of deriving a contradiction fr
 
 ### 2.5 First Derivation of the Contradiction
 
-In the Appendix to **Gg II**, Frege shows that a contradiction can be derived from Basic Law V once we formulate the concept *being an x that is the extension of some concept which x doesn’t fall under*. We may use the following $\lambda$-expression to represent this concept:
+In the Appendix to **Gg II**, Frege shows that a contradiction can be derived from Basic Law V once we formulate the concept *being an x that is the extension of some concept which x doesn’t fall under*. We may use the following *λ*-expression to represent this concept:
 
 $[\lambda x \, \exists F (x\eqclose \epsilon F \amp \neg Fx)]$
 
@@ -332,7 +332,7 @@ But we can now instantiate the universally quantified variable to the object $b$
 
 $b\inclose b \equiv [\lambda z \, z\notinclose z]b $
 
-But since $[\lambda z \, z\notinclose z]b \equiv b\notinclose b$ is an instance of $\lambda$-Conversion, it follows by a hypothetical syllogism that:
+But since $[\lambda z \, z\notinclose z]b \equiv b\notinclose b$ is an instance of *λ*-Conversion, it follows by a hypothetical syllogism that:
 
 $b\inclose b \equiv b \notinclose b $
 
@@ -374,11 +374,11 @@ We will not discuss the above research further in the present entry, for none of
 
 Cardinal numbers are the numbers that can be used to answer the question ‘How many $\ldots$ are there?’, and Frege discovered that such numbers bear an interesting relationship to the natural numbers. Frege’s insights concerning this relationship trace back to his work in **Gl**, in which the notion of an extension played very little role. The seminal idea of **Gl** §46 was the observation that a statement of number (e.g., “There are eight planets”) is an assertion about a concept. To explain this idea, Frege noted that one and the same external phenomenon can be counted in different ways; for example, a certain external phenomenon could be counted as 1 army, 5 divisions, 25 regiments, 200 companies, 600 platoons, or 24,000 people. Each way of counting the external phenomenon corresponds to a manner of its conception. The question “How many are there?” is only properly formulated as the question “How many $F$s are there?” where a concept $F$ is supplied. On Frege’s view, the statements of number which answer such questions (e.g., “There are $n$ $F$s”) tell us something about the concept involved. For example, the statement “There are eight planets in the solar system” tells us that the ordinary concept *planet in the solar system* falls under the *second-level* numerical concept *being exemplified by eight objects*.
 
-In **Gl**, Frege then moves from this realization, in which statements of numbers are analyzed as predicating second-level numerical concepts of first-level concepts, to develop an account of the cardinal and natural numbers as ‘self-subsistent’ objects. He introduces a ‘cardinality operator’ on concepts, namely, ‘the number belonging to the concept $ F$’, which designates the cardinal number which numbers the objects falling under $F$. In what follows, we say this more simply as ‘the number of $F$s’ and use the simple notation ‘$\#F$’. Note that the operator # behaves like the $\epsilon$ operator – when it is prefixed to a concept name like *planet* ($P$), then $\#P$ (“the number of planets”) denotes an object; when it is prefixed to a variable like $F$, then $\# F$ ranges over the domain of objects (for each concept that $F$ can take as a value, $\#F$ denotes an object relative to that concept). Frege offers both an implicit (i.e., contextual) and an explicit definition of this operator in **Gl**. Both of these definitions require a preliminary definition of when two concepts $F$ and $G$ are in one-to-one correspondence or ‘equinumerous’. The notion of equinumerosity plays an important and fundamental role in the development of Frege’s Theorem. After developing the definition of equinumerosity, we then discuss Frege’s implicit and explicit definition of the number of $F$s. Only the former is needed for the proof of Frege’s Theorem, however.
+In **Gl**, Frege then moves from this realization, in which statements of numbers are analyzed as predicating second-level numerical concepts of first-level concepts, to develop an account of the cardinal and natural numbers as ‘self-subsistent’ objects. He introduces a ‘cardinality operator’ on concepts, namely, ‘the number belonging to the concept $ F$’, which designates the cardinal number which numbers the objects falling under $F$. In what follows, we say this more simply as ‘the number of $F$s’ and use the simple notation ‘$\#F$’. Note that the operator # behaves like the *ε* operator – when it is prefixed to a concept name like *planet* ($P$), then $\#P$ (“the number of planets”) denotes an object; when it is prefixed to a variable like $F$, then $\# F$ ranges over the domain of objects (for each concept that $F$ can take as a value, $\#F$ denotes an object relative to that concept). Frege offers both an implicit (i.e., contextual) and an explicit definition of this operator in **Gl**. Both of these definitions require a preliminary definition of when two concepts $F$ and $G$ are in one-to-one correspondence or ‘equinumerous’. The notion of equinumerosity plays an important and fundamental role in the development of Frege’s Theorem. After developing the definition of equinumerosity, we then discuss Frege’s implicit and explicit definition of the number of $F$s. Only the former is needed for the proof of Frege’s Theorem, however.
 
 ### 3.1 Equinumerosity
 
-In order to state the definition of equinumerosity, we shall employ the well-known logical notion ‘there exists a unique $x$ such that $\phi$’. To say that there exists a unique $x$ such that $\phi$ is to say: there is some $x$ such that $\phi$, and anything $y$ which is such that $\phi$ is identical to $x$. In what follows, we use the notation ‘$\exists!x\phi$’ to abbreviate this notion of a formula being uniquely satisfied, and we define it formally as follows (where again, $\phi^y_x$ is the result of substituting $y$ for the free occurrences of $x$ in $\phi$:
+In order to state the definition of equinumerosity, we shall employ the well-known logical notion ‘there exists a unique $x$ such that *φ*’. To say that there exists a unique $x$ such that *φ* is to say: there is some $x$ such that *φ*, and anything $y$ which is such that *φ* is identical to $x$. In what follows, we use the notation ‘$\exists!x\phi$’ to abbreviate this notion of a formula being uniquely satisfied, and we define it formally as follows (where again, $\phi^y_x$ is the result of substituting $y$ for the free occurrences of $x$ in *φ*:
 
 $\exists!x\phi \eqdef \exists x[\phi \amp\forall y(\phi^y_x \to y = x)]$
 
@@ -414,7 +414,7 @@ Given the discussion so far, it seems reasonable to suggest that concepts $F$ an
 
 **Facts About Equinumerosity**: 1. $\forall x(Fx \equiv Gx) \to F\apprxclose G $ 2. $F \approx F$ 3. $F\apprxclose G \to G\apprxclose F$ 4. $F\apprxclose G \amp G\apprxclose H \to F\apprxclose H$
 
-The proofs of these facts, in each case, require the identification of a relation that is a witness to the relevant equinumerosity claim. In some cases, it is easy to identify the relation in question. In other cases, the reader should be able to ‘construct’ such relations (using $\lambda$-notation) by considering the examples described above. Facts (2) – (4) establish that equinumerosity is an ‘equivalence relation’ which divides up the domain of concepts into ‘equivalence classes’ of equinumerous concepts.
+The proofs of these facts, in each case, require the identification of a relation that is a witness to the relevant equinumerosity claim. In some cases, it is easy to identify the relation in question. In other cases, the reader should be able to ‘construct’ such relations (using *λ*-notation) by considering the examples described above. Facts (2) – (4) establish that equinumerosity is an ‘equivalence relation’ which divides up the domain of concepts into ‘equivalence classes’ of equinumerous concepts.
 
 ### 3.2 Contextual Definition of ‘The Number of $F$s’: Hume’s Principle
 
@@ -684,7 +684,7 @@ Now to show $\forall x(R^{+}(a,x) \to Px)$, pick an arbitrary object, say $b$, a
 
 $[Fx \amp R^{+}(x,y) \amp \mathit{Her}(F,R)] \to Fy$
 
-This is a theorem of logic containing the free variables $x$, $y$, and $F$. First, we instantiate $x$ and $y$ to $a$ and $b$, respectively. Then, we instantiate $F$ to the concept $[\lambda z \, R^{+}(a,z) \amp Pz]$ and apply $\lambda$-Conversion (though Frege could simply use his Rule of Substitution to achieve the same inference). The concept being instantiated for $F$ is the concept *member of the R-series beginning with a and which falls under P*. The result of instantiating the free variables in Fact (7) and then applying $\lambda$-Conversion yields a rather long conditional, with numerous conjuncts in the antecedent and the claim that $Pb$ in the consequent. Thus, if the antecedent can be established, the proof is done. For those following along with pencil and paper, all of the conjuncts in the antecedent are things we already know, with the exception of the claim that $[\lambda z \, R^{+}(a,z)\amp Pz]$ is hereditary on $R$. However, this claim can be established straightforwardly from things we know to be true (and, in particular, from facts contained in the antecedent of the Principle we are trying to prove, which we assumed as part of our conditional proof). The reader is encouraged to complete the proof as an exercise. For those who would like to check their work, we give the complete Proof of the General Principle of Induction here:
+This is a theorem of logic containing the free variables $x$, $y$, and $F$. First, we instantiate $x$ and $y$ to $a$ and $b$, respectively. Then, we instantiate $F$ to the concept $[\lambda z \, R^{+}(a,z) \amp Pz]$ and apply *λ*-Conversion (though Frege could simply use his Rule of Substitution to achieve the same inference). The concept being instantiated for $F$ is the concept *member of the R-series beginning with a and which falls under P*. The result of instantiating the free variables in Fact (7) and then applying *λ*-Conversion yields a rather long conditional, with numerous conjuncts in the antecedent and the claim that $Pb$ in the consequent. Thus, if the antecedent can be established, the proof is done. For those following along with pencil and paper, all of the conjuncts in the antecedent are things we already know, with the exception of the claim that $[\lambda z \, R^{+}(a,z)\amp Pz]$ is hereditary on $R$. However, this claim can be established straightforwardly from things we know to be true (and, in particular, from facts contained in the antecedent of the Principle we are trying to prove, which we assumed as part of our conditional proof). The reader is encouraged to complete the proof as an exercise. For those who would like to check their work, we give the complete Proof of the General Principle of Induction here:
 
 [Proof of the General Principle of Induction](frege-theorem.proof6.md)
 
@@ -712,7 +712,7 @@ $$\begin{align*} &0 \text{ precedes } \#[\lambda z \, z \leq 0] \\ &1 \text{ pre
 
 For example, the third member of this sequence is true because there are 3 natural numbers (0, 1, and 2) that are less than or equal to 2; so the number 2 precedes the number of numbers less than or equal to 2. Frege’s strategy is to show that the general claim, that $n$ precedes the number of numbers less than or equal to $n$, holds for every natural number. So, given this intuitive understanding of the Lemma on Successors, Frege has a good strategy for proving that every number has a successor. (For the remainder of this subsection, the reader may wish to continue to think of $\mathit{Precedes}^{+}$ in terms of $\leq$.)
 
-Now to prove the Lemma on Successors by induction, we need to reconfigure this Lemma to a form which can be used as the consequent of the Principle of Mathematical Induction; i.e., we need something of the form $\forall n\, Fn$. We can get the Lemma on Successors into this form by ‘abstracting out’ a concept from the Lemma using the right-to-left direction of $\lambda$-Conversion (i.e., $\lambda$-Abstraction) to produce the following equivalent statement of the Lemma:
+Now to prove the Lemma on Successors by induction, we need to reconfigure this Lemma to a form which can be used as the consequent of the Principle of Mathematical Induction; i.e., we need something of the form $\forall n\, Fn$. We can get the Lemma on Successors into this form by ‘abstracting out’ a concept from the Lemma using the right-to-left direction of *λ*-Conversion (i.e., *λ*-Abstraction) to produce the following equivalent statement of the Lemma:
 
 $\forall n [\lambda y \, \mathit{Precedes}(y, \#[\lambda z \, \mathit{Precedes}^{+}(z,y)])]n$
 
@@ -720,7 +720,7 @@ The concept ‘abstracted out’ is the following:
 
 $[\lambda y\, \mathit{Precedes}(y,\#[\lambda z \, \mathit{Precedes}^{+}(z,y)])]$
 
-This is the concept: *being an object* $y$ *which precedes the number of the concept: member of the predecessor series ending in* $y$. Let us abbreviate the $\lambda$-expression that denotes this concept as ‘$Q$’. Our strategy is to instantiate the variable $F$ in the Principle of Mathematical Induction to $Q$. The result is therefore something that has been proved and that we therefore know to be true:
+This is the concept: *being an object* $y$ *which precedes the number of the concept: member of the predecessor series ending in* $y$. Let us abbreviate the *λ*-expression that denotes this concept as ‘$Q$’. Our strategy is to instantiate the variable $F$ in the Principle of Mathematical Induction to $Q$. The result is therefore something that has been proved and that we therefore know to be true:
 
 $Q0 \amp \mathit{HerOn}(Q,N) \to \forall nQn$
 
@@ -740,7 +740,7 @@ Theorem 5 now follows from the Lemma on Successors and the fact that successors 
 
 ### 5.6 Arithmetic
 
-From Frege’s Theorem, one can derive arithmetic. It is an immediate consequence Theorem 5 and the fact that Predecessor is a functional relation that every number has a *unique* successor. That means we can define the successor function by adding definite descriptions of the form ‘the $x$ such that $\phi$’ to our language:
+From Frege’s Theorem, one can derive arithmetic. It is an immediate consequence Theorem 5 and the fact that Predecessor is a functional relation that every number has a *unique* successor. That means we can define the successor function by adding definite descriptions of the form ‘the $x$ such that *φ*’ to our language:
 
 $n' \eqdef$ the $x$ such that $\mathit{Precedes}(n,x)$
 
@@ -803,21 +803,21 @@ In light of these existence claims, a Kantian might well suggest not only that e
 
 Boolos (1985)[^boolos-1985] noted that the Rule of Substitution causes a problem of this kind for Frege’s program given that it is equivalent the Comprehension Principle for Concepts. Boolos suggests a defense for Frege with respect to this particular aspect of his logic, namely, to reinterpret (by paraphrasing) the second-order quantifiers so as to avoid commitment to concepts. (See Boolos 1985 for the details.)[^boolos-1985] Boolos’s suggestion, however, is one which would require Frege to abandon his realist theory of concepts. Moreover, although Boolos’s suggestion might lead us to an epistemological justification of the Comprehension Principle for Concepts, it doesn’t do the same for the Comprehension Principle for Relations, for his reinterpretation of the quantifiers works only for the ‘monadic’ quantifiers (i.e., those ranging over concepts having one argument) and thus doesn’t offer a paraphrase for quantification over relational concepts.
 
-Another problem for a strategy of the type suggested by Boolos is that if the second-order quantifiers are interpreted so that they do not range over a separate domain of entities, then there is nothing appropriate to serve as the denotations of $\lambda$-expressions. Although Frege wouldn’t quite put it this way, our reconstruction suggests that Frege treats open formulas with free object variables as if they denoted concepts. And though Frege doesn’t use $\lambda$-notation, the use of such notation seems to be the most logically perspicuous way of reconstructing his work. The use of such notation faces the same epistemological puzzles that Frege’s Rule of Substitution faces.
+Another problem for a strategy of the type suggested by Boolos is that if the second-order quantifiers are interpreted so that they do not range over a separate domain of entities, then there is nothing appropriate to serve as the denotations of *λ*-expressions. Although Frege wouldn’t quite put it this way, our reconstruction suggests that Frege treats open formulas with free object variables as if they denoted concepts. And though Frege doesn’t use *λ*-notation, the use of such notation seems to be the most logically perspicuous way of reconstructing his work. The use of such notation faces the same epistemological puzzles that Frege’s Rule of Substitution faces.
 
-To see why, note that the Principle of $\lambda$-Conversion:
+To see why, note that the Principle of *λ*-Conversion:
 
 $\forall y([\lambda x\, \phi ]y \equiv \phi^y_x)$
 
 seems to be an analytic truth of logic. It says this:
 
-An object $y$ exemplifies the complex property *being such that* $\phi$ if and only if $y$ is such that $\phi$.
+An object $y$ exemplifies the complex property *being such that* *φ* if and only if $y$ is such that *φ*.
 
-One might argue that this is true in virtue of the very meaning of the $\lambda$-expression, the meaning of $\equiv$, and the meaning of the statement $[\lambda x\, \phi]y$ (which has the form $ Fx)$. However, $\lambda$-Conversion also implies the Comprehension Principle for Concepts, for the latter follows from the former by existential generalization:
+One might argue that this is true in virtue of the very meaning of the *λ*-expression, the meaning of $\equiv$, and the meaning of the statement $[\lambda x\, \phi]y$ (which has the form $ Fx)$. However, *λ*-Conversion also implies the Comprehension Principle for Concepts, for the latter follows from the former by existential generalization:
 
 $\exists F\forall y(Fy \equiv \phi^y_x)$
 
-The point here is that the fact that an existential claim is derivable casts at least some doubt on the purely analytic status of $\lambda$-Conversion. The question of how we obtain knowledge of such principles is still an open question in philosophy. It is an important question to address, since Frege’s most insightful definitions are cast using quantifiers ranging over concepts and relations (e.g., the ancestrals of a relation) and it would be useful to have a philosophical explanation of how such entities and the principles which govern them become known to us. In contemporary philosophy, this question is still poignant, since many philosophers do accept that *properties* and *relations* of various sorts exist. These entities are the contemporary analogues of Frege’s concepts.
+The point here is that the fact that an existential claim is derivable casts at least some doubt on the purely analytic status of *λ*-Conversion. The question of how we obtain knowledge of such principles is still an open question in philosophy. It is an important question to address, since Frege’s most insightful definitions are cast using quantifiers ranging over concepts and relations (e.g., the ancestrals of a relation) and it would be useful to have a philosophical explanation of how such entities and the principles which govern them become known to us. In contemporary philosophy, this question is still poignant, since many philosophers do accept that *properties* and *relations* of various sorts exist. These entities are the contemporary analogues of Frege’s concepts.
 
 ### 6.4 The Existence of Extensions
 
@@ -881,7 +881,7 @@ With regard to this definition, Frege says:
 
 Now trouble for Hume’s Principle begins to arise when we recognize that it is a contextual definition that has the same logical form as this definition for directions. It is central to Frege’s view that the numbers are *objects*, and so he believes that it is incumbent upon him to say *which* objects they are. But the ‘Julius Caesar problem’ is that Hume’s Principle, if considered as the sole principle offering identity conditions for numbers, doesn’t describe the conditions under which an arbitrary object, say Julius Caesar, is or is not to be identified with the number of planets. That is, Hume’s Principle doesn’t define the condition ‘$\#F = x$’, for arbitrary $x$. It only offers identity conditions when $x$ is an object known to be a cardinal number (for then $x = \#G$, for some $G$, and Hume’s Principle tells us when $\#F = \#G$).
 
-In **Gl**, Frege solves the problem by giving his explicit definition of numbers in terms of extensions. (We described this in §4 above.) Unfortunately, this is only a stopgap measure, for when Frege later systematizes extensions in **Gg**, Basic Law V has the same logical form as Hume’s Principle and the above contextual definition of directions. Frege is aware that the Julius Caesar problem affects Basic Law V, as the discussion in **Gg I**, §10 shows. In that section, he says (remembering that for Frege, $\epsilon$ binds object variables and is not a function term):
+In **Gl**, Frege solves the problem by giving his explicit definition of numbers in terms of extensions. (We described this in §4 above.) Unfortunately, this is only a stopgap measure, for when Frege later systematizes extensions in **Gg**, Basic Law V has the same logical form as Hume’s Principle and the above contextual definition of directions. Frege is aware that the Julius Caesar problem affects Basic Law V, as the discussion in **Gg I**, §10 shows. In that section, he says (remembering that for Frege, *ε* binds object variables and is not a function term):
 
 > [**Gg I**, §10:]
 > $\ldots$ this by no means fixes completely the denotation of a name like ‘$\stackrel{,}{\epsilon}\!\Phi(\epsilon)$’. We have only a means of always recognizing a course-of-values if it is designated by a name like ‘$\stackrel{,}{\epsilon}\!\Phi (\epsilon)$’, by which it is already recognizable as a course-of-values. But, we can neither decide, so far, whether an object is a course-of-values that is not given us as such $\ldots$ [from the Furth translation in Frege 1967][^frege-1967][^furth-1967]
@@ -902,7 +902,7 @@ These two questions arise because of a limitation in the logical form of these F
 
 By way of example, consider modern set theory. Zermelo set theory $ (Z)$ has several distinctive set existence principles. For example, consider the well-known Subset (or Separation) Axiom:
 
-**Subset (Separation) Axiom of Z**: $\forall x[\mathit{Set}(x) \to \exists y[\mathit{Set}(y) \amp \forall z(z \in y \equiv (z \in x \amp \phi))]]$, where $\phi$ is any formula in which $y$ isn’t free
+**Subset (Separation) Axiom of Z**: $\forall x[\mathit{Set}(x) \to \exists y[\mathit{Set}(y) \amp \forall z(z \in y \equiv (z \in x \amp \phi))]]$, where *φ* is any formula in which $y$ isn’t free
 
 The Subset Axiom and the other set existence axioms in Z are distinct from Z’s identity principle for sets:
 
@@ -992,11 +992,11 @@ Frege would symbolize this claim as follows:
 
 For a more complete description of Frege’s notation, see R. Cook’s Appendix (“How to Read *Grundgesetze*”) in the Ebert, Rossberg, and Wright translation of Frege 1893/1903, Reck & Awodey (2004, 26–34), Beaney (1997, Appendix 2), Furth (1967)[^furth-1967].
 
-[^note-2]: For those who would like a strictly faithful understanding of Frege’s definition of membership in **Gg I**, §34, a more exact representation would be to use the definite description operator $\iota$ and to cast Frege’s definition as follows, where the symbol $\in$ replaces Frege’s symbol $\frown$ and where $G$ is any unary function symbol:
+[^note-2]: For those who would like a strictly faithful understanding of Frege’s definition of membership in **Gg I**, §34, a more exact representation would be to use the definite description operator *ι* and to cast Frege’s definition as follows, where the symbol $\in$ replaces Frege’s symbol $\frown$ and where $G$ is any unary function symbol:
 
 $x\in y \eqdef \iota\alpha\exists G (y\eqclose \epsilon G \, \amp\, G(x)\! =\! \alpha )$
 
-What’s being defined here is the value of the function $x\in y$. And Frege defines it as: *the* object $\alpha$ such that there exists a function $G$ for which $y$ is the course-of-values for $G$ and $\alpha$ is the value of $G$ for the argument $x$. If we restrict this definition to those functions that are concepts, (a) the course of values $y$ becomes an extension of a concept, and (b) the object $\alpha$ in Frege’s definiens is a truth value and, indeed, signifies the truth-value The True when $x$ falls under the concept $G$. So the claim $G(x) = \alpha$ in Frege’s definition can be represented by the predication $Gx$. That means the variable $\alpha$ is no longer needed and so we can transform Frege’s term definition that identifies the value of the denoting term ‘$x\in y$’ to a formula definition that gives truth conditions for the formula ‘$x \in y$’. We eliminate the variable-binding description operator and the variable $\alpha$ from Frege’s definiens, so that the definiens in Frege’s definition now becomes:
+What’s being defined here is the value of the function $x\in y$. And Frege defines it as: *the* object *α* such that there exists a function $G$ for which $y$ is the course-of-values for $G$ and *α* is the value of $G$ for the argument $x$. If we restrict this definition to those functions that are concepts, (a) the course of values $y$ becomes an extension of a concept, and (b) the object *α* in Frege’s definiens is a truth value and, indeed, signifies the truth-value The True when $x$ falls under the concept $G$. So the claim $G(x) = \alpha$ in Frege’s definition can be represented by the predication $Gx$. That means the variable *α* is no longer needed and so we can transform Frege’s term definition that identifies the value of the denoting term ‘$x\in y$’ to a formula definition that gives truth conditions for the formula ‘$x \in y$’. We eliminate the variable-binding description operator and the variable *α* from Frege’s definiens, so that the definiens in Frege’s definition now becomes:
 
 $x\in y \eqdef \exists G (y\eqclose \epsilon G \amp G(x))$
 
@@ -1042,7 +1042,7 @@ The reader might also find the following observation by W. Demopoulos useful (fr
 
 > The characterization ‘Frege-Russell’ slurs over the fact that for Russell, the number associated with a set (concept of first level) is an entity of higher type than the set itself. Beginning with individuals – entities of lowest type – we proceed first to sets of individuals and then to classes of such sets (corresponding to Frege’s concepts of second level). For Russell, numbers, being classes, are of higher type than sets. But for Frege, extensions, and therefore numbers, belong to the totality of objects *whatever the level of concept with which they are associated*. Thus, while Russell and Frege both subscribe to *some* version of Hume’s Principle, their conceptions of the logical form of the cardinality operator, and therefore, that of the principle itself, are quite different: the operator is type *raising* for Russell [since it takes us from a set to a class], and type *lowering* for Frege [since it takes a concept (set) to an object (individual)]. This difference is fundamental, since it enables Frege to establish – on the basis of Hume’s principle – those of the Peano-Dedekind axioms of arithmetic which assert that the system of natural numbers is Dedekind infinite. By contrast, when the cardinality operator is type raising, Hume’s principle is rather weak, allowing for models of every finite power.
 
-[^note-9]: The higher-order version of the Law of Extensions asserts that a concept G is a member of the extension of the second-order concept *concept equinumerous to F* iff $G$ is equinumerous to $F$. If we temporarily suppose that we can have higher-order $\lambda$-expressions of the form $[\lambda H \, H\apprxclose F]$, then we could represent the extension of the second-order concept just described as:
+[^note-9]: The higher-order version of the Law of Extensions asserts that a concept G is a member of the extension of the second-order concept *concept equinumerous to F* iff $G$ is equinumerous to $F$. If we temporarily suppose that we can have higher-order *λ*-expressions of the form $[\lambda H \, H\apprxclose F]$, then we could represent the extension of the second-order concept just described as:
 
 $\epsilon[\lambda H\, H\apprxclose F]$
 
@@ -1056,7 +1056,7 @@ This principle is used implicitly on several occasions in the derivation of Hume
 
 $[\lambda z \, [\lambda y \, Ayp]z \amp z\neq r]$
 
-But we have applied the following instance of $\lambda$-Conversion to the first conjunct within the matrix of the $\lambda$-expression:
+But we have applied the following instance of *λ*-Conversion to the first conjunct within the matrix of the *λ*-expression:
 
 $[\lambda y \, Ayp]z\equiv Azp$
 

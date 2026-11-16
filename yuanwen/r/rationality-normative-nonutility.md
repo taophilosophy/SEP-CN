@@ -279,7 +279,7 @@ We can also combine these two proposals (Ellsberg 2001)[^ellsberg-2001]:
 
 $$ E(f) = \varrho(\text{est}_p \EU_p(f)) + (1 - \varrho) [(1 - \alpha)(\text{min}_p \EU_p(f)) + \alpha(\text{max}_p \EU_p(f))]$$
 
-This model will rationalize the common preferences for many choices of $\varrho$ and $\alpha$ (setting $\varrho = 0$ or $\alpha = 0$ yields previously-mentioned models).
+This model will rationalize the common preferences for many choices of *ϱ* and *α* (setting $\varrho = 0$ or $\alpha = 0$ yields previously-mentioned models).
 
 We might add additional structure to the representation: to each probability function, the decision-maker assigns a degree of “reliability”, which tracks how much relevant information the decision-maker has about the states of nature (Good 1952; Gärdenfors & Sahlin 1982)[^gärdenfors-1982][^good-1952]. A decision-maker selects a desired threshold level of epistemic reliability. She then considers all probability functions above this threshold, and maximizes the minimum expected utility (Γ-maximin) with respect to these probability functions. (In principle, a different decision rule could be used in this step.) For the decision-maker deciding whether to bet on tennis matches, the above-threshold probability functions for the first match may include only $p(P1 \text{WINS}) \approx 0.5,$ but for the second and third match may also include $p(P1 \text{WINS}) \approx 0$; thus betting on P1 in the first match will have a higher value than betting on P1 in the other matches.
 
@@ -299,7 +299,7 @@ $$ \begin{align} \CEU(f_1) & = 0 + v(\RED)(1 - 0) & = \lfrac{1}{3}\\ \CEU(f_2) &
 
 This assignment recovers the Ellsberg preferences.
 
-Axiomatizations of CEU use a restricted version of the separability condition (the “Comonotonic” Sure-thing Principle or “Comonotonic” Tradeoff Consistency): namely, the condition only holds when all of the acts in its domain are *comonotonic*, i.e., when the worst-to-best ranking of the events coincides for all the acts (Gilboa 1987, Schmeidler 1989, Wakker 1989, Chew & Wakker 1996, Köbberling & Wakker 2003; see also Wakker 2010, who also notes the relationship between CEU and $\alpha$-maximin.)[^chew-1996][^gilboa-1987][^gilboa-1989][^köbberling-2003][^schmeidler-1989][^wakker-1989][^wakker-2010]
+Axiomatizations of CEU use a restricted version of the separability condition (the “Comonotonic” Sure-thing Principle or “Comonotonic” Tradeoff Consistency): namely, the condition only holds when all of the acts in its domain are *comonotonic*, i.e., when the worst-to-best ranking of the events coincides for all the acts (Gilboa 1987, Schmeidler 1989, Wakker 1989, Chew & Wakker 1996, Köbberling & Wakker 2003; see also Wakker 2010, who also notes the relationship between CEU and *α*-maximin.)[^chew-1996][^gilboa-1987][^gilboa-1989][^köbberling-2003][^schmeidler-1989][^wakker-1989][^wakker-2010]
 
 #### 4.3.3 Decision Rules that Select from a Menu
 
@@ -377,7 +377,7 @@ Other proposals hold that we should reject the aggregation norm of expected util
 
 $$\text{AH}(L) = \EU(L) + F(s, m/s^2) + \varepsilon$$
 
-where $\varepsilon$ is an error term. He thus proposes that riskiness is an independently valuable property of a gamble, to be combined with (and traded off against) its expected utility. This proposal essentially treats the riskiness of a gamble as a property that is (dis)valuable in itself (see also Nozick 1993 on symbolic utility)[^nozick-1993].
+where *ε* is an error term. He thus proposes that riskiness is an independently valuable property of a gamble, to be combined with (and traded off against) its expected utility. This proposal essentially treats the riskiness of a gamble as a property that is (dis)valuable in itself (see also Nozick 1993 on symbolic utility)[^nozick-1993].
 
 A final approach treats global sensitivity as a feature of the decision-maker’s way of aggregating utility values. It might be that a decision-maker’s utility and probability function are not yet enough to tell us what he should prefer; he must also decide how much weight to give to what happens in worse states versus what happens in better states. In *risk-weighted expected utility* (Buchak 2013)[^buchak-2013], a generalization of Quiggin’s (1982)[^quiggin-1982] *anticipated utility* and a member of the rank-dependent family (see section 4.3.2), this decision is represented by his *risk function*.
 

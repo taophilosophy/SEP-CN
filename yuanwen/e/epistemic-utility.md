@@ -228,7 +228,7 @@ Second, properties of epistemic utility functions:
 >
 > **Strict Propriety (for epistemic utility functions)** We say that an epistemic utility measure $EU$ is *strictly proper* if, for any probabilistic credence function $P$ defined on $\mathcal{F}$, $$ \sum_{w \in \mathcal{W}_\mathcal{F}} P(w)EU(C, w) $$ is maximized uniquely, among credence functions defined on $\mathcal{F}$, at $C = P$. (That is, each probabilistic credence function expects itself to be best, epistemically speaking.)
 >
-> **Extensionality (for epistemic utility functions)** We say that an epistemic utility measure $EU$ is *extensional* if, whenever $C$ is a probability function on $\mathcal{F}$, and $\pi$ is a permutation of the worlds in $\mathcal{W}_\mathcal{F}$, then $EU(C, w) = EU(\pi(C), \pi(w))$, where $\pi(C)(w) = C(\pi(w))$.
+> **Extensionality (for epistemic utility functions)** We say that an epistemic utility measure $EU$ is *extensional* if, whenever $C$ is a probability function on $\mathcal{F}$, and *π* is a permutation of the worlds in $\mathcal{W}_\mathcal{F}$, then $EU(C, w) = EU(\pi(C), \pi(w))$, where $\pi(C)(w) = C(\pi(w))$.
 >
 > **Additivity (for epistemic utility functions)** We say that an epistemic utility measure $EU$ is *additive* if, for each $X$ in $\mathcal{F}$, there is a scoring rule $s_X$ such that
 >

@@ -514,6 +514,34 @@ class TestAdr0049ConverterRules(unittest.TestCase):
         self.assertIn('$$\\begin{gather}', out)
 
 
+class TestNakedEnvGuard(unittest.TestCase):
+    """R2 裸排环境包裹守卫（ADR-0049 决策 6）：已定界者不动，裸排才包。
+
+    回归背景（2026-11-16 全量重转）：SEP 输出 `$$ \\begin{align}…\\end{align} $$`
+    （`$$` 与 `\\begin` 之间有空格），紧邻 lookaround 漏判 → 双重包裹 90 件 484 处。
+    """
+
+    def _wrap(self, s):
+        from tools.yuanwen import NAKED_ENV_RE, _wrap_naked_env
+        return NAKED_ENV_RE.sub(_wrap_naked_env, s)
+
+    def test_already_delimited_with_space_untouched(self):
+        s = '$$ \\begin{align} a &= b \\end{align} $$'
+        self.assertEqual(self._wrap(s), s)
+
+    def test_bare_env_wrapped(self):
+        s = '\\begin{align} a &= b \\end{align}'
+        self.assertEqual(self._wrap(s), '$$' + s + '$$')
+
+    def test_already_delimited_adjacent_untouched(self):
+        s = '$$\\begin{align} a \\end{align}$$'
+        self.assertEqual(self._wrap(s), s)
+
+    def test_no_double_dollar_created(self):
+        s = '$$ \\begin{gather} x \\end{gather} $$'
+        self.assertEqual(self._wrap(s).count('$$'), 2)
+
+
 def render_one_table(full_html):
     from tools.yuanwen import table_to_md
     return table_to_md(full_html, 't')

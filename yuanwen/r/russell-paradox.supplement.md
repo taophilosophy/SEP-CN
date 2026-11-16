@@ -50,7 +50,7 @@ $x$ was a member of the Beatles
 
 is an ambiguous entity. Before proceeding further, note that there is a question about the logico-metaphysical status of the entity $x$ in the propositional function. Is $x$ a variable object? See (Russell, 1903, ch. VIII). It will become clear that this difficult issue can be side-stepped for the purposes of this discussion.
 
-Russell’s work in 1904 was focused on ruling out propositional functions that allow diagonal arguments using the restrictions of the so-called zigzag theory (Urquhart, 1994, xxvi). The theory is so-called because given a propositional function $\Phi$ that purports to determine a class $u,$ diagonal arguments exploit “a certain zigzag quality,” that $x \not\in u$ when $\Phi x$, or $x \in u$ when ${\sim}\Phi x$ (Russell, 1907, 38):
+Russell’s work in 1904 was focused on ruling out propositional functions that allow diagonal arguments using the restrictions of the so-called zigzag theory (Urquhart, 1994, xxvi). The theory is so-called because given a propositional function *Φ* that purports to determine a class $u,$ diagonal arguments exploit “a certain zigzag quality,” that $x \not\in u$ when $\Phi x$, or $x \in u$ when ${\sim}\Phi x$ (Russell, 1907, 38):
 
 $$(\exists x (\Phi x \wedge x \not\in u)) \vee (\exists x (x \in u \wedge{\sim}\Phi x)).$$
 
@@ -116,7 +116,7 @@ in which $x$ is substituted once for $a$ to yield $q,$ deriving the paradoxical 
 
 $$p~x, x/a; !q.$$
 
-This is not allowed by the syntax of Russell’s substitutional theory, which bars substitution of two variable objects $x$ and $y$, or two occurrences of a variable object $x$ (as above), for a single argument place $a$ (Landini, 2011). For readers familiar with the $\lambda$-calculus, it is a little bit like trying to abstract John shaves himself, i.e.
+This is not allowed by the syntax of Russell’s substitutional theory, which bars substitution of two variable objects $x$ and $y$, or two occurrences of a variable object $x$ (as above), for a single argument place $a$ (Landini, 2011). For readers familiar with the *λ*-calculus, it is a little bit like trying to abstract John shaves himself, i.e.
 
 $$(\lambda x.x \textit{ shaves } x)\text{John}$$
 

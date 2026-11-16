@@ -59,7 +59,7 @@ Predication is understood, as in Boole and his followers, as set membership. In 
 
 ## 4. Fregean Functions and Concepts
 
-Frege’s central ontological distinction is between functions and objects. A function is an unsaturated entity that requires an object as its argument to be, in some sense, complete. In the *Begriffsschrift*, we first see the interpretation of an atomic sentence – $\Phi(A)$ – as meaning that a function $\Phi$ is applied to an argument $A$. In the Begriffsschrift, formulae represent *judgeable contents*. Judgeable contents are remarkably similar to Russellian propositions but also to Bolzano’s propositions-in-themselves and Meinong’s objectives.
+Frege’s central ontological distinction is between functions and objects. A function is an unsaturated entity that requires an object as its argument to be, in some sense, complete. In the *Begriffsschrift*, we first see the interpretation of an atomic sentence – $\Phi(A)$ – as meaning that a function *Φ* is applied to an argument $A$. In the Begriffsschrift, formulae represent *judgeable contents*. Judgeable contents are remarkably similar to Russellian propositions but also to Bolzano’s propositions-in-themselves and Meinong’s objectives.
 
 In the early 1890s, Frege rejects judgeable contents and instead comes to think of sentences as repersenting sentential senses (or “thoughts”) and, as their denotations, truth values (i.e. the True and the False).
 
@@ -265,7 +265,7 @@ So, the more standard treatment of the meanings of predicates is really equivale
 
 Now that we have a whole hierarchy of propositional functions, we should find some work for them to do. One theory in which propositional functions do good work is Montague semantics, developed in the late 1960s by Richard Montague.
 
-In order to understand Montague’s method we need to understand *lambda abstraction*. Lambda abstracts are very similar to Russell’s circumfex variable binders for propositional functions. For the formula $A(x)$ we read the expression $\lambda x[A(x)]$ as a predicate expression. Its extension (in a given possible world) is the set of things that satisfy the formula $A(x)$. Lambda abstractors are governed by two rules, known as $\alpha$-conversion and $\beta$-reduction:
+In order to understand Montague’s method we need to understand *lambda abstraction*. Lambda abstracts are very similar to Russell’s circumfex variable binders for propositional functions. For the formula $A(x)$ we read the expression $\lambda x[A(x)]$ as a predicate expression. Its extension (in a given possible world) is the set of things that satisfy the formula $A(x)$. Lambda abstractors are governed by two rules, known as *α*-conversion and *β*-reduction:
 
 > $(\alpha$-con) $A(a)$ (a formula with $a$ free for $x)$ can be replaced by $\lambda x[A(x)]a$.
 
@@ -289,7 +289,7 @@ Now we can construct a formula that gives the meaning of ‘Zermela barks’:
 
 > $\lambda P[(^{\vee}P)z]^{\wedge}B$
 
-Notice that in constructing the sentence we place the expressions in the same order in which they occur in English. The use of lambda abstracts allows us to reverse the order of two expressions from the way in which they would appear in ordinary statements of a formal logical language (that does not have lambdas). Now we can use $\beta$-reduction to obtain:
+Notice that in constructing the sentence we place the expressions in the same order in which they occur in English. The use of lambda abstracts allows us to reverse the order of two expressions from the way in which they would appear in ordinary statements of a formal logical language (that does not have lambdas). Now we can use *β*-reduction to obtain:
 
 > $(^{\vee \wedge}B)z$
 

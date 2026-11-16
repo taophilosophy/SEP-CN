@@ -17,4 +17,4 @@ Burgess’ (1980) axiomatic system for PBTL extends classical propositional logi
 
 The inference rules comprise, in addition to (MP), (NEC$_H$), and (NEC$_G$) (see Section 3.5),
 
-- a version of the so-called Gabbay Irreflexivity Rule: If $\vdash H\neg\varphi \rightarrow (\neg\varphi \rightarrow (G\varphi \rightarrow \psi)),$ then $\vdash \psi,$ provided $\varphi$ does not occur in $\psi$.
+- a version of the so-called Gabbay Irreflexivity Rule: If $\vdash H\neg\varphi \rightarrow (\neg\varphi \rightarrow (G\varphi \rightarrow \psi)),$ then $\vdash \psi,$ provided *φ* does not occur in *ψ*.

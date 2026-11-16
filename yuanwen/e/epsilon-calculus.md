@@ -48,9 +48,9 @@ The second volume of Hilbert and Bernays’ *Grundlagen der Mathematik* (1939) p
 
 The first and second epsilon theorems are as follows:
 
-**First epsilon theorem:** Suppose $\Gamma \cup \{A\}$ is a set of quantifier-free formulae not involving the epsilon symbol. If $A$ is derivable from $\Gamma$ in the epsilon calculus, then $A$ is derivable from $\Gamma$ in quantifier-free predicate logic.
+**First epsilon theorem:** Suppose $\Gamma \cup \{A\}$ is a set of quantifier-free formulae not involving the epsilon symbol. If $A$ is derivable from *Γ* in the epsilon calculus, then $A$ is derivable from *Γ* in quantifier-free predicate logic.
 
-**Second epsilon theorem:** Suppose $\Gamma \cup \{A\}$ is a set of formulae not involving the epsilon symbol. If $A$ is derivable from $\Gamma$ in the epsilon calculus, then $A$ is derivable from $\Gamma$ in predicate logic.
+**Second epsilon theorem:** Suppose $\Gamma \cup \{A\}$ is a set of formulae not involving the epsilon symbol. If $A$ is derivable from *Γ* in the epsilon calculus, then $A$ is derivable from *Γ* in predicate logic.
 
 In the first epsilon theorem, “quantifier-free predicate logic” is intended to include the substitution rule above, so quantifier-free axioms behave like their universal closures. Since the epsilon calculus includes first-order logic, the first epsilon theorem implies that any detour through first-order predicate logic used to derive a quantifier-free theorem from quantifier-free axioms can ultimately be avoided. The second epsilon theorem shows that any detour through the epsilon calculus used to derive a theorem in the language of the predicate calculus from axioms in the language of the predicate calculus can also be avoided.
 
@@ -94,7 +94,7 @@ Herbrand’s theorem can also be obtained by using cut elimination, via Gentzen�
 
 The version of Herbrand’s theorem stated at the beginning of this section is essentially the special case of (2) in which the formula $A$ is existential. In light of this special case, (1) is equivalent to the assertion that a formula $A$ is derivable in first-order predicate logic if and only if $A^H$ is. The forward direction of this equivalence is much easier to prove; in fact, for any formula $A, A \rightarrow A^H$ is derivable in predicate logic. Proving the reverse direction involves eliminating the additional function symbols in $A^H$, and is much more difficult, especially in the presence of equality. It is here that epsilon methods play a central role.
 
-Given a prenex formula, the *Skolem normal form* $A^S$ is defined dually to $A^H$, i.e., by replacing existentially quantified variables by witnessing functions. If $\Gamma$ is a set of prenex sentences, let $\Gamma^S$ denote the set of their Skolem normal forms. Using the deduction theorem and Herbrand’s theorem, it is not hard to show that the following are pairwise equivalent: $$ \begin{align} \Gamma &\text{ proves } A \\ \Gamma &\text{ proves } A^H \\ \Gamma^S &\text{ proves }A \\ \Gamma^S &\text{ proves } A^H \end{align} $$
+Given a prenex formula, the *Skolem normal form* $A^S$ is defined dually to $A^H$, i.e., by replacing existentially quantified variables by witnessing functions. If *Γ* is a set of prenex sentences, let $\Gamma^S$ denote the set of their Skolem normal forms. Using the deduction theorem and Herbrand’s theorem, it is not hard to show that the following are pairwise equivalent: $$ \begin{align} \Gamma &\text{ proves } A \\ \Gamma &\text{ proves } A^H \\ \Gamma^S &\text{ proves }A \\ \Gamma^S &\text{ proves } A^H \end{align} $$
 
 A striking application of Herbrand’s theorem and related methods is found in Luckhardt’s (1989)[^luckhardt-1989] analysis of Roth’s theorem. For a discussion of useful extensions of Herbrand’s methods, see Sieg 1991. A model-theoretic version of this is discussed in Avigad 2002a.
 
@@ -192,9 +192,9 @@ Applications of the epsilon-operator in formal semantics, and choice functions i
 
 For discussion of the issues and applications of the epsilon operator in linguistics and philosophy of language, see B. H. Slater’s article on epsilon calculi (cited in the Other Internet Resources section below), and the collections von Heusinger & Egli 2000 and von Heusinger & Kempson 2004.
 
-Another application of epsilon calculus is as a general logic for reasoning about arbitrary objects. Meyer Viol 1995a provides a comparison of the epsilon calculus with Fine’s 1985 theory of arbitrary objects. Indeed, the connection is not hard to see. Given the equivalence $\forall x A(x) \equiv$ A$(\varepsilon x (\neg A))$, the term $\varepsilon x (\neg A)$ is an arbitrary object in the sense that it is an object of which $A$ is true iff $A$ is true generally. The connection between $\varepsilon$-terms and Fine’s arbitrary object theory is exploited for philosophical purposes by Bonatti 2022 (abstraction in mathematics), Genco et al 2021 (grounding), and Sandu 2020 (indefinites).)
+Another application of epsilon calculus is as a general logic for reasoning about arbitrary objects. Meyer Viol 1995a provides a comparison of the epsilon calculus with Fine’s 1985 theory of arbitrary objects. Indeed, the connection is not hard to see. Given the equivalence $\forall x A(x) \equiv$ A$(\varepsilon x (\neg A))$, the term $\varepsilon x (\neg A)$ is an arbitrary object in the sense that it is an object of which $A$ is true iff $A$ is true generally. The connection between *ε*-terms and Fine’s arbitrary object theory is exploited for philosophical purposes by Bonatti 2022 (abstraction in mathematics), Genco et al 2021 (grounding), and Sandu 2020 (indefinites).)
 
-In his 1961, Carnap proposed to use the $\varepsilon$-operator to reconstruct the theoretical part of scientific theories (a proposal similar to Ramseyfication; see the entry on theoretical terms in science and [Supplement E to the entry on Carnap](https://plato.stanford.edu/entries/carnap/reconstruct-sci-theories.html#TheoTermSentLogiStruTheo)). This proposal is discussed by Schiemer & Gratzl 2016. Leitgeb 2023 considers an $\varepsilon$-version of Ramsey sentences in the context of a semantics of indeterminacy.
+In his 1961, Carnap proposed to use the *ε*-operator to reconstruct the theoretical part of scientific theories (a proposal similar to Ramseyfication; see the entry on theoretical terms in science and [Supplement E to the entry on Carnap](https://plato.stanford.edu/entries/carnap/reconstruct-sci-theories.html#TheoTermSentLogiStruTheo)). This proposal is discussed by Schiemer & Gratzl 2016. Leitgeb 2023 considers an *ε*-version of Ramsey sentences in the context of a semantics of indeterminacy.
 
 Meyer Viol’s papers 1995a, 1995b contain further proof- and model-theoretic studies of the epsilon calculus; specifically intuitionistic epsilon calculi. Here, the epsilon theorems no longer hold, i.e., introduction of epsilon terms produces non-conservative extensions of intuitionistic logic. Other investigations of epsilon operators in intuitionistic logic can be found in Shirai 1971, Bell 1993a, 1993b, DeVidi 1995, and Baaz & Zach 2022. For epsilon-operators in many-valued logics, see Mostowski 1963, for modal epsilon calculus, Fitting 1975.
 
@@ -260,7 +260,7 @@ anaphora | finitism | Hilbert, David | Hilbert, David: program in the foundation
 
 [^davis-1991]: Davis, M., and R. Fechter, 1991, ‘A free variable version of the first-order predicate calculus’, *Journal of Logic and Computation*, 1: 431–451.
 
-[^devidi-1995]: DeVidi, D., 1995, ‘Intuitionistic $\varepsilon$- and $\tau$-calculi’, *Mathematical Logic Quarterly*, 41: 523–546.
+[^devidi-1995]: DeVidi, D., 1995, ‘Intuitionistic *ε*- and *τ*-calculi’, *Mathematical Logic Quarterly*, 41: 523–546.
 
 [^egli-1995]: Egli, U., and K. von Heusinger, 1995, ‘The epsilon operator and E-type pronouns’, in U. Egli *et al*. (eds.), *Lexical Knowledge in the Organization of Language*, Amsterdam: Benjamins, 121–141 (Current Issues in Linguistic Theory 114).
 
@@ -268,13 +268,13 @@ anaphora | finitism | Hilbert, David | Hilbert, David: program in the foundation
 
 [^ewald-1996]: Ewald, W. B. (ed.), 1996, *From Kant to Hilbert. A Source Book in the Foundations of Mathematics*, Vol. 2, Oxford: Oxford University Press.
 
-[^ferrari-1987]: Ferrari, P. L., 1987, ‘A note on a proof of Hilbert’s second $\varepsilon$-theorem’, *Journal of Symbolic Logic*, 52: 214–215.
+[^ferrari-1987]: Ferrari, P. L., 1987, ‘A note on a proof of Hilbert’s second *ε*-theorem’, *Journal of Symbolic Logic*, 52: 214–215.
 
 [^fine-1985]: Fine, K., 1985, *Reasoning with Arbitrary Objects*, Oxford: Blackwell.
 
 [^fitting-1975]: Fitting, M., 1975, ‘A modal logic epsilon-calculus’, *Notre Dame Journal of Formal Logic*, 16: 1–16.
 
-[^flannagan-1975]: Flannagan, T. B., 1975, ‘On an extension of Hilbert’s second $\varepsilon$-theorem’, *Journal of Symbolic Logic*, 40: 393–397.
+[^flannagan-1975]: Flannagan, T. B., 1975, ‘On an extension of Hilbert’s second *ε*-theorem’, *Journal of Symbolic Logic*, 40: 393–397.
 
 [^genco-2021]: Genco, F. A., F. Poggiolesi, and L. Rossi, 2021, ‘Grounding, quantifiers, and paradoxes’, *Journal of Philosophical Logic*, 50(6): 1417–1448.
 
@@ -308,9 +308,9 @@ anaphora | finitism | Hilbert, David | Hilbert, David: program in the foundation
 
 [^luckhardt-1989]: Luckhardt, H., 1989, ‘Herbrand-Analysen zweier Beweise des Satzes von Roth: Polynomiale Anzahlschranken’, *Journal of Symbolic Logic*, 54: 234–263.
 
-[^maehara-1955]: Maehara, S., 1955, ‘The predicate calculus with $\varepsilon$-symbol’, *Journal of the Mathematical Society of Japan*, 7: 323–344.
+[^maehara-1955]: Maehara, S., 1955, ‘The predicate calculus with *ε*-symbol’, *Journal of the Mathematical Society of Japan*, 7: 323–344.
 
-[^maehara-1957]: –––, 1957, ‘Equality axiom on Hilbert’s $\varepsilon$-symbol’, *Journal of the Faculty of Science*, University of Tokyo, Section 1, 7: 419–435.
+[^maehara-1957]: –––, 1957, ‘Equality axiom on Hilbert’s *ε*-symbol’, *Journal of the Faculty of Science*, University of Tokyo, Section 1, 7: 419–435.
 
 [^mancosu-1998]: Mancosu, P. (ed.), 1998, *From Brouwer to Hilbert. The Debate on the Foundations of Mathematics in the 1920s*, Oxford: Oxford University Press.
 
@@ -352,11 +352,11 @@ anaphora | finitism | Hilbert, David | Hilbert, David: program in the foundation
 
 [^schiemer-2016]: Schiemer, G., and N. Gratzl, 2016, ‘The epsilon-reconstruction of theories and scientific structuralism’, *Erkenntnis*, 81(2): 407–432.
 
-[^shirai-1971]: Shirai, K., 1971, ‘Intuitionistic predicate calculus with $\varepsilon$-symbol’, *Annals of the Japan Association for Philosophy of Science*, 4: 49–67.
+[^shirai-1971]: Shirai, K., 1971, ‘Intuitionistic predicate calculus with *ε*-symbol’, *Annals of the Japan Association for Philosophy of Science*, 4: 49–67.
 
 [^sieg-1991]: Sieg, W., 1991, ‘Herbrand analyses’, *Archive for Mathematical Logic*, 30: 409–441.
 
-[^slater-1986]: Slater, B. H., 1986, ‘E-type pronouns and $\varepsilon$-terms’, *Canadian Journal of Philosophy*, 16: 27–38.
+[^slater-1986]: Slater, B. H., 1986, ‘E-type pronouns and *ε*-terms’, *Canadian Journal of Philosophy*, 16: 27–38.
 
 [^slater-1988]: –––, 1988, ‘Hilbertian reference’, *Noûs*, 22: 283–97.
 
@@ -390,7 +390,7 @@ anaphora | finitism | Hilbert, David | Hilbert, David: program in the foundation
 
 [^winter-1997]: Winter, Y., 1997, ‘Choice functions and the scopal semantics of indefinites’. *Linguistics and Philosophy*, 20: 399–467.
 
-[^yasuhara-1982]: Yasuhara, M., 1982, ‘Cut elimination in $\varepsilon$-calculi’, *Zeitschrift für mathematische Logik und Grundlagen der Mathematik*, 28: 311–316.
+[^yasuhara-1982]: Yasuhara, M., 1982, ‘Cut elimination in *ε*-calculi’, *Zeitschrift für mathematische Logik und Grundlagen der Mathematik*, 28: 311–316.
 
 [^zach-2003]: Zach, R., 2003, ‘The practice of finitism. Epsilon calculus and consistency proofs in Hilbert’s Program’, *Synthese*, 137: 211–259.
 

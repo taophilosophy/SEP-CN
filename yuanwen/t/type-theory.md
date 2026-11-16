@@ -49,9 +49,9 @@ and we have a contradiction as well. (Notice that for defining the predicate $R$
 
 It is clear from this account that an idea of types was already present in Frege’s work: there we find a distinction between objects, predicates (or concepts), predicates of predicates, etc. (This point is stressed in Quine 1940.)[^quine-1940] This hierarchy is called the “extensional hierarchy” by Russell (1959)[^russell-1959], and its necessity was recognised by Russell as a consequence of his paradox.
 
-## 2. Simple Type Theory and the $\lambda$-Calculus
+## 2. Simple Type Theory and the *λ*-Calculus
 
-As we saw above, the distinction: objects, predicates, predicate of predicates, etc., seems enough to block Russell’s paradox (and this was recognised by Chwistek and Ramsey). We first describe the type structure as it is in *Principia* and later in this section we present the elegant formulation due to Church 1940 based on $\lambda$-calculus. The types can be defined as
+As we saw above, the distinction: objects, predicates, predicate of predicates, etc., seems enough to block Russell’s paradox (and this was recognised by Chwistek and Ramsey). We first describe the type structure as it is in *Principia* and later in this section we present the elegant formulation due to Church 1940 based on *λ*-calculus. The types can be defined as
 
 1. $i$ is the type of individuals
 2. $(\,)$ is the type of propositions
@@ -71,7 +71,7 @@ Alternative simpler formulations, which retain only the notion of classes, class
 
 We have objects of type 0, for individuals, objects of type 1, for classes of individuals, objects of type 2, for classes of classes of individuals, and so on. Functions of two or more arguments, like relations, need not be included among primitive objects since one can define relations to be classes of ordered pairs, and ordered pairs to be classes of classes. For example, the ordered pair of individuals *a, b* can be defined to be $\{\{a\},\{a,b\}\}$ where $\{x,y\}$ denotes the class whose sole elements are $x$ and $y$. (Wiener 1914 had suggested a similar reduction of relations to classes.)[^wiener-1914] In this system, all propositions have the form $a(b)$, where $a$ is a sign of type $n+1$ and $b$ a sign of type $n$. Thus this system is built on the concept of an arbitrary class or subset of objects of a given domain and on the fact that the collection of *all subsets* of the given domain can form a new domain of the next type. Starting from a given domain of individuals, this process is then iterated. As emphasised for instance in Scott 1993, in set theory this process of forming subsets is iterated into the *transfinite*.
 
-In these versions of type theory, as in set theory, functions are not primitive objects, but are represented as functional relations. The addition function for instance is represented as a ternary relation by an object of type $(i,i,i)$. An elegant formulation of the simple type theory which extends it by introducing functions as primitive objects was given by Church in 1940. It uses the $\lambda$-calculus notation (Barendregt 1997)[^barendregt-1997]. Since such a formulation is important in computer science, for the connection with category theory, and for Martin-Löf type theory, we describe it in some detail. In this formulation, predicates are seen as a special kind of functions (propositional functions), an idea that goes back to Frege (see for instance Quine 1940)[^quine-1940]. Furthermore, the notion of function is seen as more primitive than the notion of predicates and relations, and a function is not defined anymore as a special kind of relation. (Oppenheimer and Zalta 2011 presents some arguments against such a primitive representation of functions.)[^oppenheimer-2011] The types of this system are defined inductively as follows
+In these versions of type theory, as in set theory, functions are not primitive objects, but are represented as functional relations. The addition function for instance is represented as a ternary relation by an object of type $(i,i,i)$. An elegant formulation of the simple type theory which extends it by introducing functions as primitive objects was given by Church in 1940. It uses the *λ*-calculus notation (Barendregt 1997)[^barendregt-1997]. Since such a formulation is important in computer science, for the connection with category theory, and for Martin-Löf type theory, we describe it in some detail. In this formulation, predicates are seen as a special kind of functions (propositional functions), an idea that goes back to Frege (see for instance Quine 1940)[^quine-1940]. Furthermore, the notion of function is seen as more primitive than the notion of predicates and relations, and a function is not defined anymore as a special kind of relation. (Oppenheimer and Zalta 2011 presents some arguments against such a primitive representation of functions.)[^oppenheimer-2011] The types of this system are defined inductively as follows
 
 1. there are two basic types $i$ (the type of individuals) and $o$ (the type of propositions)
 2. if $A, B$ are types then $A \rightarrow B$, the type of functions from $A$ to $B$, is a type
@@ -118,11 +118,11 @@ $$ A \rightarrow(B\rightarrow C) $$
 
 (association to the right).
 
-For the terms of this logic, we shall not follow Church’s account but a slight variation of it, due to Curry (who had similar ideas before Church’s paper appeared) and which is presented in detail in R. Hindley’s book on type theory. Like Church, we use $\lambda$-calculus, which provides a general notation for functions
+For the terms of this logic, we shall not follow Church’s account but a slight variation of it, due to Curry (who had similar ideas before Church’s paper appeared) and which is presented in detail in R. Hindley’s book on type theory. Like Church, we use *λ*-calculus, which provides a general notation for functions
 
 $$ M ::= x \mid M M \mid \lambda x.M $$
 
-Here we have used the so-called BNF notation, very convenient in computing science. This gives a syntactic specification of the $\lambda$-terms which, when expanded, means:
+Here we have used the so-called BNF notation, very convenient in computing science. This gives a syntactic specification of the *λ*-terms which, when expanded, means:
 
 - every variable is a function symbol;
 - every juxtaposition of two function symbols is a function symbol;
@@ -137,7 +137,7 @@ stands for
 
 $$ (M_1 M_2) M_3 $$
 
-(association to the left). The term $\lambda x.M$ represents the function which to $N$ associates $M[x:=N$]. This notation is so convenient that one wonders why it is not widely used in mathematics. The main equation of $\lambda$-calculus is then $(\beta$-conversion)
+(association to the left). The term $\lambda x.M$ represents the function which to $N$ associates $M[x:=N$]. This notation is so convenient that one wonders why it is not widely used in mathematics. The main equation of *λ*-calculus is then $(\beta$-conversion)
 
 $$ (\lambda x.M) N = M[x:=N] $$
 
@@ -195,7 +195,7 @@ $$ Q = \lambda x.\lambda y.\forall P[\imply (P x) (P y)] $$
 
 This example again illustrates that we can formulate impredicative definitions in simple type theory.
 
-The use of $\lambda$-terms and $\beta$-reduction is most convenient for representing the complex substitution rules that are needed in simple type theory. For instance, if we want to substitute the predicate $\lambda x.Q a x$ for $P$ in the proposition
+The use of *λ*-terms and *β*-reduction is most convenient for representing the complex substitution rules that are needed in simple type theory. For instance, if we want to substitute the predicate $\lambda x.Q a x$ for $P$ in the proposition
 
 $$ \imply (P a) (P b) $$
 
@@ -203,17 +203,17 @@ we get
 
 $$ \imply ((\lambda x.Q a x) a) ((\lambda x.Q a x) b) $$
 
-and, using $\beta$-reduction,
+and, using *β*-reduction,
 
 $$ \imply (Q a a) (Q a b) $$
 
 In summary, simple type theory forbids self-application but not the circularity present in impredicative definitions.
 
-The $\lambda$-calculus formalism also allows for a clearer analysis of Russell’s paradox. We can see it as the definition of the predicate
+The *λ*-calculus formalism also allows for a clearer analysis of Russell’s paradox. We can see it as the definition of the predicate
 
 $$ R x = \neg(x x) $$
 
-If we think of $\beta$-reduction as the process of unfolding a definition, we see that there is a problem already with understanding the definition of R R
+If we think of *β*-reduction as the process of unfolding a definition, we see that there is a problem already with understanding the definition of R R
 
 $$ R R \rightarrow \neg(R R) \rightarrow \neg(\neg(R R)) \rightarrow \ldots $$
 
@@ -271,9 +271,9 @@ As noticed however first by Chwistek, and later by Ramsey, in the presence of th
 
 The axiom of reducibility draws attention to the problematic status of impredicative definitions. To quote Weyl 1946, the axiom of reducibility “is a bold, an almost fantastic axiom; there is little justification for it in the real world in which we live, and none at all in the evidence on which our mind bases its constructions”! So far, no contradictions have been found using the reducibility axiom. However, as we shall see below, proof-theoretic investigations confirm the extreme strength of such a principle.
 
-The idea of the ramified hierarchy has been extremely important in mathematical logic. Russell considered only the finite iteration of the hierarchy: first-order, second-order, etc., but from the beginning, the possibility of extending the ramification transfinitely was considered. Poincaré (1909)[^poincaré-1909] mentions the work of Koenig in this direction. For the example above of numbers of different order, he also defines a number to be inductive of order $\omega$ if it is inductive of all finite orders. He then points out that *x+y* is inductive of order $\omega$ if both $x$ and $y$ are. This shows that the introduction of transfinite orders can in some case play the role of the axiom of reducibility. Such transfinite extension of the ramified hierarchy was analysed further by Gödel who noticed the key fact that the following form of the reducibility axiom is actually *provable*: when one extends the ramified hierarchy of properties over the natural numbers into the transfinite this hierarchy collapses at level $\omega_1$, the least uncountable ordinal (Gödel 1995, and Prawitz 1970)[^gödel-1995][^prawitz-1970]. Furthermore, while at all levels $\lt \omega_1$, the collection of predicates is countable, the collection of predicates at level $\omega_1$ is of cardinality $\omega_1$. This fact was a strong motivation behind Gödel’s model of constructible sets. In this model the collection of all subsets of the set of natural numbers (represented by predicates) is of cardinality $\omega_1$ and is similar to the ramified hierarchy. This model satisfies in this way the Continuum Hypothesis, and gives a relative consistency proof of this axiom. (The motivation of Gödel was originally only to build a model where the collection of all subsets of natural numbers is well-ordered.)
+The idea of the ramified hierarchy has been extremely important in mathematical logic. Russell considered only the finite iteration of the hierarchy: first-order, second-order, etc., but from the beginning, the possibility of extending the ramification transfinitely was considered. Poincaré (1909)[^poincaré-1909] mentions the work of Koenig in this direction. For the example above of numbers of different order, he also defines a number to be inductive of order *ω* if it is inductive of all finite orders. He then points out that *x+y* is inductive of order *ω* if both $x$ and $y$ are. This shows that the introduction of transfinite orders can in some case play the role of the axiom of reducibility. Such transfinite extension of the ramified hierarchy was analysed further by Gödel who noticed the key fact that the following form of the reducibility axiom is actually *provable*: when one extends the ramified hierarchy of properties over the natural numbers into the transfinite this hierarchy collapses at level $\omega_1$, the least uncountable ordinal (Gödel 1995, and Prawitz 1970)[^gödel-1995][^prawitz-1970]. Furthermore, while at all levels $\lt \omega_1$, the collection of predicates is countable, the collection of predicates at level $\omega_1$ is of cardinality $\omega_1$. This fact was a strong motivation behind Gödel’s model of constructible sets. In this model the collection of all subsets of the set of natural numbers (represented by predicates) is of cardinality $\omega_1$ and is similar to the ramified hierarchy. This model satisfies in this way the Continuum Hypothesis, and gives a relative consistency proof of this axiom. (The motivation of Gödel was originally only to build a model where the collection of all subsets of natural numbers is well-ordered.)
 
-The ramified hierarchy has been also the source of much work in proof theory. After the discovery by Gentzen that the consistency of Arithmetic could be proved by transfinite induction (over decidable predicates) along the ordinal $\varepsilon_0$, the natural question was to find the corresponding ordinal for the different levels of the ramified hierarchy. Schütte (1960)[^schütte-1960] found that for the first level of the ramified hierarchy, that is if we extend arithmetic by quantifying only over first-order properties, we get a system of ordinal strength $\varepsilon_{\varepsilon_0}$. For the second level we get the ordinal strength $\varepsilon_{\varepsilon_{ \varepsilon_0}}$, etc. We recall that $\varepsilon_{\alpha}$ denotes the $\alpha$-th $\varepsilon$-ordinal number, an $\varepsilon$-ordinal number being an ordinal $\beta$ such that $\omega^{\beta} = \beta$, see Schütte (1960)[^schütte-1960].
+The ramified hierarchy has been also the source of much work in proof theory. After the discovery by Gentzen that the consistency of Arithmetic could be proved by transfinite induction (over decidable predicates) along the ordinal $\varepsilon_0$, the natural question was to find the corresponding ordinal for the different levels of the ramified hierarchy. Schütte (1960)[^schütte-1960] found that for the first level of the ramified hierarchy, that is if we extend arithmetic by quantifying only over first-order properties, we get a system of ordinal strength $\varepsilon_{\varepsilon_0}$. For the second level we get the ordinal strength $\varepsilon_{\varepsilon_{ \varepsilon_0}}$, etc. We recall that $\varepsilon_{\alpha}$ denotes the *α*-th *ε*-ordinal number, an *ε*-ordinal number being an ordinal *β* such that $\omega^{\beta} = \beta$, see Schütte (1960)[^schütte-1960].
 
 Gödel stressed the fact that his approach to the problem of the continuum hypothesis was not constructive, since it needs the uncountable ordinal $\omega_1$, and it was natural to study the ramified hierarchy along constructive ordinals. After preliminary works of Lorenzen and Wang, Schütte analysed what happens if we proceed in the following more constructive way. Since arithmetic has for ordinal strength $\varepsilon_0$ we consider first the iteration of the ramified hierarchy up to $\varepsilon_0$. Schütte computed the ordinal strength of the resulting system and found an ordinal strength $u(1)\gt \varepsilon_0$. We iterate then ramified hierarchy up to this ordinal $u(1)$ and get a system of ordinal strength $u(2)\gt u(1)$, etc. Each $u(k)$ can be computed in terms of the so-called Veblen hierarchy: $u(k+1)$ is $\phi_{u(k)}(0)$. The limit of this process gives an ordinal called $\Gamma_0$: if we iterate the ramified hierarchy up to the ordinal $\Gamma_0$ we get a system of ordinal strength $\Gamma_0$. Such an ordinal was obtained independently about the same time by S. Feferman. It has been claimed that $\Gamma_0$ plays for predicative systems a role similar to $\varepsilon_0$ for Arithmetic. Recent proof-theoretical works however are concerned with systems having bigger proof-theoretical ordinals that can be considered predicative (see for instance Palmgren 1995).
 
@@ -329,7 +329,7 @@ $$ \forall P =_{df} \text{eq} (\lambda x.T) P $$
 
 The equality at type $o$ is logical equivalence.
 
-One advantage of the intensional formulation is that it allows for a direct notation of proofs based on $\lambda$-calculus (Martin-Löf 1971 and Coquand 1986)[^coquand-1986][^martin-löf-1971].
+One advantage of the intensional formulation is that it allows for a direct notation of proofs based on *λ*-calculus (Martin-Löf 1971 and Coquand 1986)[^coquand-1986][^martin-löf-1971].
 
 ## 6. Extensions of Type System, Polymorphism, Paradoxes
 
@@ -490,7 +490,7 @@ Russell, Bertrand | category theory | Frege, Gottlob | Frege, Gottlob: theorem a
 
 [^hurkens-1995]: Hurkens, A. J. C., 1995, “A simplification of Girard’s paradox. Typed lambda calculi and applications,” in *Lecture Notes in Computer Science* (Volume 902), Berlin: Springer: 266–278.
 
-[^lambek-1980]: Lambek, J., 1980. “From $\lambda$-calculus to Cartesian Closed Categories” in *To H.B. Curry: Essays on Combinatory Logic, $\lambda$-calculus and Formalism*, J. Seldin and J. Hindley (eds.), London, New York: Academic Press. pp. 375–402.
+[^lambek-1980]: Lambek, J., 1980. “From *λ*-calculus to Cartesian Closed Categories” in *To H.B. Curry: Essays on Combinatory Logic, *λ*-calculus and Formalism*, J. Seldin and J. Hindley (eds.), London, New York: Academic Press. pp. 375–402.
 
 [^lambek-1986]: Lambek, J. and Scott, P. J., 1986, *Introduction to higher order categorical logic* (Cambridge Studies in Advanced Mathematics: Volume 7), Cambridge: Cambridge University Press; reprinted 1988.
 

@@ -60,7 +60,7 @@ Since $p_2^*(y) U_1(\alpha, y)$ does not depend on $x$, we have
 
 $$ \begin{align*} \sum_{x\in S_1}\sum_{y\in S_2} b(p_2^*)(x)p_2^*(y)U_1(\alpha, y) &= \sum_{x\in S_1} b(p_2^*)(x)\sum_{y\in S_2}p_2^*(y)U_1(\alpha,y)\\ &= \sum_{x\in S_1}b(p_2^*)(x)U_1(\alpha, p_2^*)\\ &= U_1(\alpha,p_2^*)\sum_{x\in S_1}b(p_2^*)(x)\\ &=U_1(\alpha,p_2^*) \end{align*}$$
 
-Hence, for all $m\in\Delta(S_2)$ we have $\oU_1(s_1^*,m)>0$ which implies for all $m\in\Delta(S_2)$, $U_1(s_1^*,m) > U_1(\alpha, m)$, and so $\alpha$ is strictly dominated by $p_1^*$. QED
+Hence, for all $m\in\Delta(S_2)$ we have $\oU_1(s_1^*,m)>0$ which implies for all $m\in\Delta(S_2)$, $U_1(s_1^*,m) > U_1(\alpha, m)$, and so *α* is strictly dominated by $p_1^*$. QED
 
 ### 2. Proof of Theorem 2.9
 
@@ -85,9 +85,9 @@ Suppose that there is a $y_0\in T_b$ such that $y_0\in\lambda_a(x_0)$ and $x_0\i
 
 Consider a first-order language $\L$ whose signature contains binary relational symbols $R_a(x,y)$ and $R_b(x,y)$ defining $\lambda_a$ and $\lambda_b$ respectively. The language $\L$ is interpreted over qualitative type structures where the interpretation of $R_a$ is the set $\{(t,s) \mid t\in T_a, s\in T_b, \text{ and }s\in\lambda_a(t)\}$.
 
-*Proof of Theorem 2.9.* Consider the formula $\phi$ in $\L$: $$\phi(x):=\exists y (R_a(x,y) \wedge R_b(y,x))$$
+*Proof of Theorem 2.9.* Consider the formula *φ* in $\L$: $$\phi(x):=\exists y (R_a(x,y) \wedge R_b(y,x))$$
 
-Then, the negation of $\phi$ is:
+Then, the negation of *φ* is:
 
 $\neg\phi(x):=\forall y(R_a(x,y)\rightarrow\neg R_b(y,x))$: “all states $x$ where any state $y$ that Ann considers possible is such that Bob does not consider $x$ possible at $y$”. That is, this formulas says that “Ann believes that Bob’s assumption is *wrong*”.
 

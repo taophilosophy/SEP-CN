@@ -13,7 +13,7 @@ Surprisingly, all of these models are exactly equivalent: anything computable in
 
 Part of the impetus for the drive to codify what is computable came from the mathematician David Hilbert. Hilbert believed that all of mathematics could be precisely axiomatized. Once this was done, there would be an “effective procedure”, i.e., an algorithm that would take as input any precise mathematical statement, and, after a finite number of steps, decide whether the statement was true or false. Hilbert was asking for what would now be called a *decision procedure* for all of mathematics.
 
-As a special case of this decision problem, Hilbert considered the validity problem for first-order logic. First-order logic is a mathematical language in which most mathematical statements can be formulated. Every statement in first-order logic has a precise meaning in every appropriate logical structure, i.e., it is true or false in each such structure. Those statements that are true in every appropriate structure are called *valid*. Those statements that are true in some structure are called *satisfiable*. Notice that a formula, $\varphi$, is valid iff its negation, $\neg \varphi$, is not satisfiable.
+As a special case of this decision problem, Hilbert considered the validity problem for first-order logic. First-order logic is a mathematical language in which most mathematical statements can be formulated. Every statement in first-order logic has a precise meaning in every appropriate logical structure, i.e., it is true or false in each such structure. Those statements that are true in every appropriate structure are called *valid*. Those statements that are true in some structure are called *satisfiable*. Notice that a formula, *φ*, is valid iff its negation, $\neg \varphi$, is not satisfiable.
 
 Hilbert called the validity problem for first-order logic, the *entscheidungsproblem*. In a textbook, *Principles of Mathematical Logic* by Hilbert and Ackermann, the authors wrote, “The Entscheidungsproblem is solved when we know a procedure that allows for any given logical expression to decide by finitely many operations its validity or satisfiability.… The entscheidungsproblem must be considered the main problem of mathematical logic.” (Böerger, Grädel, & Gurevich 1997)[^böerger-1997].
 
@@ -21,7 +21,7 @@ In his 1930 Ph.D. thesis, Gödel presented a complete axiomatization of first-or
 
 In particular, since the axioms are easily recognizable, and rules of inference very simple, there is a mechanical procedure that can list out all proofs. Note that each line in a proof is either an axiom, or follows from previous lines by one of the simple rules. For any given string of characters, we can tell if it is a proof. Thus we can systematically list all strings of characters of length 1, 2, 3, and so on, and check whether each of these is a proof. If so, then we can add the proof’s last line to our list of theorems. In this way, we can list out all theorems, i.e., exactly all the valid formulas of first-order logic, can be listed out by a simple mechanical procedure. More precisely, the set of valid formulas is the range of a computable function. In modern terminology we say that the set of valid formulas of first-order logic is *recursively enumerable (r.e.)*.
 
-Gödel’s Completeness theorem was not sufficient, however, to give a positive solution to the *entscheidungsproblem*. Given a formula, $\varphi$, if $\varphi$ is valid then the above procedure would eventually list it out and thus could answer, “Yes, $\varphi$ is valid.” However, if $\varphi$ were not valid then we might never find this fact out. What was missing was a procedure to list out all the non-valid formulas, or equivalently to list out all satisfiable formulas.
+Gödel’s Completeness theorem was not sufficient, however, to give a positive solution to the *entscheidungsproblem*. Given a formula, *φ*, if *φ* is valid then the above procedure would eventually list it out and thus could answer, “Yes, *φ* is valid.” However, if *φ* were not valid then we might never find this fact out. What was missing was a procedure to list out all the non-valid formulas, or equivalently to list out all satisfiable formulas.
 
 A year later, in 1931, Gödel shocked the mathematical world by proving his Incompleteness Theorem: there is no complete and computable axiomatization of the first-order theory of the natural numbers. That is, there is no reasonable list of axioms from which we can prove exactly all true statements of number theory (Gödel 1931)[^gödel-1931].
 
@@ -38,7 +38,7 @@ He thought clearly and abstractly about what it would mean for a machine to perf
 - a finite set, $Q$, of possible states, because any device must be in one of finitely many possible states;
 - a potentially infinite tape, consisting of consecutive cells, $\sigma_{1}, \sigma_{2}, \sigma_{3}$, from some finite alphabet, $\Sigma$; $(\Sigma$ may be any finite set containing at least two symbols. It is convenient to fix $\Sigma = \{0, 1, b\}$ consisting of the binary alphabet plus the blank cell symbol. We usually assume that a finite initial segment of the tape contains binary symbols, and the rest is blank.)
 - a read/write tape head, $h \ge 1$, scanning tape cell $\sigma_{h}$; and finally,
-- a transition function, $\delta : Q \times \Sigma \rightarrow Q \times \Sigma \times \{-1,0,1\}$. (The meaning of the transition function is that from any given state, $q$, looking at any given symbol, $\sigma_{h}, \delta$ tells us the new state the machine should enter, the new symbol that should be written in the current square, and the new head position, $h' = h + d$, where $d \in \{-1,0,1\}$ is the displacement given by $\delta$.)
+- a transition function, $\delta : Q \times \Sigma \rightarrow Q \times \Sigma \times \{-1,0,1\}$. (The meaning of the transition function is that from any given state, $q$, looking at any given symbol, $\sigma_{h}, \delta$ tells us the new state the machine should enter, the new symbol that should be written in the current square, and the new head position, $h' = h + d$, where $d \in \{-1,0,1\}$ is the displacement given by *δ*.)
 
 The linear nature of its memory tape, as opposed to random access memory, is a limitation on computation speed but not power: a Turing machine can find any memory location, i.e., tape cell, but this may be time consuming because it has to move its head step by step along its tape.
 
@@ -118,9 +118,9 @@ We next define the class of *Primitive Recursive Functions*. This is a very inte
 
 We begin with the three *initial* primitive recursive functions:
 
-- $\zeta$, the zero function of arity $0, \zeta$( ) $= 0$;
-- $\eta$, the identity function of arity $1, \eta(n) = n$; and,
-- $\sigma$, the successor function of arity $1, \sigma(n) = n +1$.
+- *ζ*, the zero function of arity $0, \zeta$( ) $= 0$;
+- *η*, the identity function of arity $1, \eta(n) = n$; and,
+- *σ*, the successor function of arity $1, \sigma(n) = n +1$.
 
 Now consider the following two operations:
 
@@ -139,7 +139,7 @@ Define the addition function, $P(x,y)$, as follows:
 
 $$\begin{align} P(0,y) &= \eta(y) \\ P(n+1,y) &= \sigma(P(n,y)) \end{align}$$
 
-(Note that this fits into the definition of primitive recursion because the function $g(x_{1},x_{2},x_{3}) = \eta(\sigma(x_{1}))$ is definable from the initial functions $\eta$ and $\sigma$ by composition.)
+(Note that this fits into the definition of primitive recursion because the function $g(x_{1},x_{2},x_{3}) = \eta(\sigma(x_{1}))$ is definable from the initial functions *η* and *σ* by composition.)
 
 Next, define the multiplication function, $T(x,y)$, as follows:
 
@@ -149,9 +149,9 @@ Next, we define the exponential function, $E(x,y)$. (Usually $0^{0}$ is consider
 
 $$\begin{align} R(0,y) &= \sigma(\zeta(\ )) \\ R(n+1,y) &= T(R(n,y),y). \end{align}$$
 
-Finally we can define $E(x,y) = R(\eta(y),\eta(x))$ by composition. (Recall that $\eta$ is the identity function so this could be more simply written as $E(x,y) = R(y,x)$.)
+Finally we can define $E(x,y) = R(\eta(y),\eta(x))$ by composition. (Recall that *η* is the identity function so this could be more simply written as $E(x,y) = R(y,x)$.)
 
-The exponential function, $E$, grows very rapidly, for example, $E$(10,10) is ten billion, and $E$(50,50) is over $10^{84}$ (and thus significantly more than the estimated number of atoms in the universe). However, there are much faster growing primitive recursive functions. As we saw, $E$ was defined from the slowly growing function, $\sigma$, using three applications of primitive recursion: one for addition, one for multiplication, and then one more for exponentiation. We can continue to apply primitive recursion to build a series of unimaginably fast growing functions. Let’s do just one more step in the series defining the hyper-exponential function, $H(n,m)$ as 2 to the 2 to the 2 to the … to the $m$, with a tower of $n$ 2s. $H$ is primitive recursive because it can be defined from $E$ using one more application of primitive recursion:
+The exponential function, $E$, grows very rapidly, for example, $E$(10,10) is ten billion, and $E$(50,50) is over $10^{84}$ (and thus significantly more than the estimated number of atoms in the universe). However, there are much faster growing primitive recursive functions. As we saw, $E$ was defined from the slowly growing function, *σ*, using three applications of primitive recursion: one for addition, one for multiplication, and then one more for exponentiation. We can continue to apply primitive recursion to build a series of unimaginably fast growing functions. Let’s do just one more step in the series defining the hyper-exponential function, $H(n,m)$ as 2 to the 2 to the 2 to the … to the $m$, with a tower of $n$ 2s. $H$ is primitive recursive because it can be defined from $E$ using one more application of primitive recursion:
 
 $$\begin{align} H(0,y) &= y \\ H(n+1,y) &= E(2,H(n,y)) \end{align}$$
 
@@ -215,7 +215,7 @@ NP is sometimes described as the set of problems, $S$, that have short proofs of
 
 ### 4.1 Reductions and Completeness
 
-There has been a large study of algorithms and the complexity of many important problems is well understood. In particular reductions between problems have been defined and used to compare the relative difficulty of two problems. Intuitively, we say that $A$ is *reducible* to $B$ $(A \le B)$ if there is an easy-to-compute transformation, $\tau$, that maps instances of $A$ to instances of $B$ in a way that preserves membership, i.e., $\tau$(w) $\in B \Leftrightarrow$ w $\in A$.
+There has been a large study of algorithms and the complexity of many important problems is well understood. In particular reductions between problems have been defined and used to compare the relative difficulty of two problems. Intuitively, we say that $A$ is *reducible* to $B$ $(A \le B)$ if there is an easy-to-compute transformation, *τ*, that maps instances of $A$ to instances of $B$ in a way that preserves membership, i.e., *τ*(w) $\in B \Leftrightarrow$ w $\in A$.
 
 Remarkably, a high percentage of naturally occurring computational problems turn out to be complete for one of the above classes. (A problem, $A$, is complete for a complexity class $C$ if $A$ is a member of $C$ and all other problems $B$ in $C$ are no harder than $A$, i.e., $B \le A$. Two complete problems for the same class have equivalent complexity.)
 
@@ -223,7 +223,7 @@ The reason for this completeness phenomenon has not been adequately explained. O
 
 In 1971, Cook proved SAT is NP complete [Cook, 1971][^cook-1971]. Shortly later, Karp showed that many important combinatorial problems were also NP complete, thus establishing the importance of the class NP [Karp, 1972][^karp-1972].
 
-Our definition of reduction above lacked precision, just saying that the mapping $\tau$ must by easy-to-compute. The reductions that Karp used were polynomial-time reductions, i.e., $\tau$ is computable in polynomial time. Since then, many researchers have observed that natural problems remain complete for natural complexity classes under surprisingly weak reductions including logspace reductions [Jones, 1973][^jones-1973], first-order reductions [Immerman, 1999][^immerman-1999], projections [Valiant, 1982][^valiant-1982], and first-order projections [Immerman, 1999][^immerman-1999].
+Our definition of reduction above lacked precision, just saying that the mapping *τ* must by easy-to-compute. The reductions that Karp used were polynomial-time reductions, i.e., *τ* is computable in polynomial time. Since then, many researchers have observed that natural problems remain complete for natural complexity classes under surprisingly weak reductions including logspace reductions [Jones, 1973][^jones-1973], first-order reductions [Immerman, 1999][^immerman-1999], projections [Valiant, 1982][^valiant-1982], and first-order projections [Immerman, 1999][^immerman-1999].
 
 With a very few exceptions, when a natural problem is in NP, it turns out to be either NP complete, or in P. People wondered whether this was always the case. Ladner proved that if P $\ne$ NP, then there is an intermediate problem $I$ that is in NP but not in P and not NP complete [Ladner, 1975][^ladner-1975].
 
@@ -233,7 +233,7 @@ However, these intermediate problems don’t tend to show up. This phenomenon ha
 
 In fact, if one looks closer, all of Schaefer’s satisfiability problems are either NP complete, P complete, $\oplus$L complete, NL complete, L complete, or trivial [Allender et al., 2009][^allender-2009]. That is the non-trivial problems in P may be P complete, or complete for one of these three complexity classes within P. In other words, if we look closer, the NP/P dichotomy phenomenon problem is really a “multi-chotomoy” phenomenon, namely all non-trivial satisfiability problems are complete for one of five well-known complexity classes.
 
-Feder and Vardi studied Schaefer’s dichotomy and conjectured that it holds for all finite-domain Constraint Satisfaction Problems (CSP) [Feder and Vardi, 1999][^feder-1999]. A finite-domain CSP, C, consists of a finite domain, D, and a finite set of relations $R_1, \ldots , R_k$ over D. An instance of C consists of a set of variables, $v_1, \ldots v_n$ and a conjunction of atoms $\varphi \equiv \bigwedge R_i(v_{j_1}, \ldots)$. The answer to the instance, $\varphi$, is “yes”, i.e., $\varphi \in C$ iff there is an assignment of the variables to elements of the domain, D, so that $\varphi$ is satisfied.
+Feder and Vardi studied Schaefer’s dichotomy and conjectured that it holds for all finite-domain Constraint Satisfaction Problems (CSP) [Feder and Vardi, 1999][^feder-1999]. A finite-domain CSP, C, consists of a finite domain, D, and a finite set of relations $R_1, \ldots , R_k$ over D. An instance of C consists of a set of variables, $v_1, \ldots v_n$ and a conjunction of atoms $\varphi \equiv \bigwedge R_i(v_{j_1}, \ldots)$. The answer to the instance, *φ*, is “yes”, i.e., $\varphi \in C$ iff there is an assignment of the variables to elements of the domain, D, so that *φ* is satisfied.
 
 With domains of size 2, a CSP problem is just a satisfiability problem, so Schaefer’s theorem already established the Feder and Vardi conjecture for this case. A simple instance of a CSP with domain size 3 is the 3COLOR problem for undirected graphs. Given such a graph, G, can the vertices of G be colored one of three colors so that no two adjacent vertices have the same color? To write this as a CSP, let $D = \{R,Y,B\}$ be a set of three distinct colors and let the relation $N$ be the not-equal relation on $D$. Then from $G=(V,E)$ the instance of 3COLOR is $$ \varphi_G \quad = \quad \bigwedge_{(u,v)\in E} N(u,v)\; .$$ Note that $\varphi_G$ says that whenever there is an edge in $G$ between vertices $u$ and $v$, then $u$ and $v$ are assigned different colors.
 

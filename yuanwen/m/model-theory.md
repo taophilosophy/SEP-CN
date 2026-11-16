@@ -98,15 +98,15 @@ One wonders how it could happen that for fifty years nobody challenged this nons
 
 ## 3. Model-theoretic consequence
 
-Suppose $L$ is a language of signature $K, T$ is a set of sentences of $L$ and $\phi$ is a sentence of $L$. Then the relation
+Suppose $L$ is a language of signature $K, T$ is a set of sentences of $L$ and *φ* is a sentence of $L$. Then the relation
 
 $$ \Mod(T) \subseteq \Mod(\phi) $$
 
-expresses that every structure of signature $K$ which is a model of $T$ is also a model of $\phi$. This is known as the *model-theoretic consequence relation*, and it is written for short as
+expresses that every structure of signature $K$ which is a model of $T$ is also a model of *φ*. This is known as the *model-theoretic consequence relation*, and it is written for short as
 
 $$ T \vDash \phi $$
 
-The double use of $\vDash$ is a misfortune. But in the particular case where $L$ is first-order, the completeness theorem (see the entry on classical logic) tells us that ‘$T \vDash \phi$’ holds if and only if there is a proof of $\phi$ from $T$, a relation commonly written
+The double use of $\vDash$ is a misfortune. But in the particular case where $L$ is first-order, the completeness theorem (see the entry on classical logic) tells us that ‘$T \vDash \phi$’ holds if and only if there is a proof of *φ* from $T$, a relation commonly written
 
 $$ T \vdash \phi $$
 
@@ -164,7 +164,7 @@ For example if $L$ is a first-order language with identity, whose signature cons
 
 These notions are useful for analysing the strength of database query languages. We can think of the possible states of a database as structures, and a simple Yes/No query becomes a sentence that elicits the answer Yes if the database is a model of it and No otherwise. If one database query language is not reducible to another, then the first can express some query that can’t be expressed in the second.
 
-So we need techniques for comparing the expressive strengths of languages. One of the most powerful techniques available consists of the back-and-forth games of Ehrenfeucht and Fraïssé between the two players Spoiler and Duplicator; see the entry on logic and games for details. Imagine for example that we play the usual first-order back-and-forth game $G$ between two structures $A$ and $B$. The theory of these games establishes that if some first-order sentence $\phi$ is true in exactly one of $A$ and $B$, then there is a number $n$, calculable from $\phi$, with the property that Spoiler has a strategy for $G$ that will guarantee that he wins in at most $n$ steps. So conversely, to show that first-order logic can’t distinguish between $A$ and $B$, it suffices to show that for every finite $n$, Duplicator has a strategy that will guarantee she doesn’t lose $G$ in the first $n$ steps. If we succeed in showing this, it follows that any language which does distinguish between $A$ and $B$ is not reducible to the first-order language of the structures $A$ and $B$.
+So we need techniques for comparing the expressive strengths of languages. One of the most powerful techniques available consists of the back-and-forth games of Ehrenfeucht and Fraïssé between the two players Spoiler and Duplicator; see the entry on logic and games for details. Imagine for example that we play the usual first-order back-and-forth game $G$ between two structures $A$ and $B$. The theory of these games establishes that if some first-order sentence *φ* is true in exactly one of $A$ and $B$, then there is a number $n$, calculable from *φ*, with the property that Spoiler has a strategy for $G$ that will guarantee that he wins in at most $n$ steps. So conversely, to show that first-order logic can’t distinguish between $A$ and $B$, it suffices to show that for every finite $n$, Duplicator has a strategy that will guarantee she doesn’t lose $G$ in the first $n$ steps. If we succeed in showing this, it follows that any language which does distinguish between $A$ and $B$ is not reducible to the first-order language of the structures $A$ and $B$.
 
 These back-and-forth games are immensely flexible. For a start, they make just as much sense on finite structures as they do on infinite; many other techniques of classical model theory assume that the structures are infinite. They can also be adapted smoothly to many non-first-order languages.
 

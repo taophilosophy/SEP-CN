@@ -10,7 +10,7 @@ The proof that 0 falls under $Q$ is relatively straightforward. We want to show:
 
 $[\lambda y \, \mathit{Precedes}(y,\#[\lambda z \, \mathit{Precedes}^{+}(z,y)])]0$
 
-By $\lambda$-Conversion, it suffices to show:
+By *λ*-Conversion, it suffices to show:
 
 $\mathit{Precedes}(0, \#[\lambda z \, \mathit{Precedes}^{+}(z,0)])$
 
@@ -26,7 +26,7 @@ To show that (1) holds, we have to show:
 
 $[\lambda z \, \mathit{Precedes}^{+}(z,0)]0$
 
-But we know, from the definition of $\mathit{Precedes}^{+}$, that $\mathit{Precedes}^{+}(0,0)$, So by $\lambda$-abstraction, we are done.
+But we know, from the definition of $\mathit{Precedes}^{+}$, that $\mathit{Precedes}^{+}(0,0)$, So by *λ*-abstraction, we are done.
 
 To show that (2) holds, we need do no work, since our choice of $F$ requires us to show:
 
@@ -38,7 +38,7 @@ To show (3) holds, we need to show:
 
 $0 = [\lambda u \, [\lambda z \, \mathit{Precedes}^{+}(z,0)]u\amp u\neq 0]$
 
-But, by applying $\lambda$-Conversion, we have to show:
+But, by applying *λ*-Conversion, we have to show:
 
 (A)  $0 = \#[\lambda u \, \mathit{Precedes}^{+}(u,0)\amp u\neq 0]$
 
@@ -46,7 +46,7 @@ To show (A), it suffices to show the following, in virtue of the Lemma Concernin
 
 $\neg\exists x ([\lambda u \, \mathit{Precedes}^{+}(u,0) \amp u\neq 0]x)$
 
-And by $\lambda$-Conversion, it suffices to show:
+And by *λ*-Conversion, it suffices to show:
 
 (B)  $\neg\exists x (\mathit{Precedes}^{+}(x,0)\amp x\neq 0)$
 

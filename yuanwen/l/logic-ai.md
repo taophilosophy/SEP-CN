@@ -568,7 +568,7 @@ In McCarthy 1993b, McCarthy recommends the study of languages containing a const
 
 $$\textit{ist}(c, \phi),$$
 
-where $\textit{ist}$ is read “is-true.” This is analogous to the $\Holds$ construct of the situation calculus—but now $c$ stands for a context, and $\phi$ is a possibly complex propositional representation, which many (including McCarthy) take to refer to a sentence.
+where $\textit{ist}$ is read “is-true.” This is analogous to the $\Holds$ construct of the situation calculus—but now $c$ stands for a context, and *φ* is a possibly complex propositional representation, which many (including McCarthy) take to refer to a sentence.
 
 There are analogies here both to modal logic and to languages with an explicit truth predicate. But the applications that are envisioned for a logic of context create opportunities and problems that are in many ways new. Work on the logic of context subsequent to McCarthy’s original suggestion, includes McCarthy & Buvac 1998, Guha 1991, and some of the papers in the conference volumes Akman *et al*. 2001 and Bouquet *et al*. 1999. For extensions of Richard Montague’s Intensional Logic motivated by McCarthy’s suggestions, see Thomason 2003 and 2005.
 

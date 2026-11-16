@@ -132,11 +132,11 @@ Here there are four branches, and again the typically measure for each branch is
 
 Within this framework, Everett argued that in the limit as the number of measurements gets large, almost all branches in measure $m$ will describe sequences of measurement records that are randomly distributed with the standard quantum statistics. While he just sketched the corresponding results, one can show that:
 
-**Relative Frequency**: For any $\delta>0$ and $\epsilon>0$, there exists a $k$ such that after $k$ measurements the sum of the norm-squared of the amplitude associated with each branch where the distribution of spin-up results is within $\epsilon$ of $|\alpha|^2$ and the distribution of spin-down results is within $\epsilon$ of $|\beta|^2$ is within $\delta$ of one.
+**Relative Frequency**: For any $\delta>0$ and $\epsilon>0$, there exists a $k$ such that after $k$ measurements the sum of the norm-squared of the amplitude associated with each branch where the distribution of spin-up results is within *ε* of $|\alpha|^2$ and the distribution of spin-down results is within *ε* of $|\beta|^2$ is within *δ* of one.
 
 and
 
-**Randomness**: The sum of the norm-squared of the amplitude associated with each branch where the sequence of relative records satisfies any standard criterion for being random goes to one as the number of measurements gets large. This result holds for any criterion of randomness that classifies at most a countable number of $\omega$-length binary sequences as nonrandom.
+**Randomness**: The sum of the norm-squared of the amplitude associated with each branch where the sequence of relative records satisfies any standard criterion for being random goes to one as the number of measurements gets large. This result holds for any criterion of randomness that classifies at most a countable number of *ω*-length binary sequences as nonrandom.
 
 See Hartle (1968), Farhi, Goldstone, and Gutmann (1989), Barrett (1999)[^barrett-1999], and Barrett and Goldbring (2022) for proofs of the first limiting result and the last two references for proofs of the second.
 

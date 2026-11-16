@@ -523,7 +523,7 @@ By way of illustration, the mental state representation below describes my *de r
 
 **[13a]**
 
-internal mental state: $$\cb{\begin{multline} \{ \langle \textrm{ANCH } \R{x}, [\R{x}: \textrm{cup}(\R{x}), \textrm{hold}(\R{i},\R{x})]\rangle ,\\ \langle \textrm{BEL}, [\R{y}: \textrm{contains}(\R{x},\R{y}), \textrm{coffee}(\R{y})]\rangle ,\\ \langle \textrm{DES}, [: \textrm{warm}(\R{y})]\rangle \} \end{multline}}$$
+internal mental state: $$\cb{$$\begin{multline} \{ \langle \textrm{ANCH } \R{x}, [\R{x}: \textrm{cup}(\R{x}), \textrm{hold}(\R{i},\R{x})]\rangle ,\\ \langle \textrm{BEL}, [\R{y}: \textrm{contains}(\R{x},\R{y}), \textrm{coffee}(\R{y})]\rangle ,\\ \langle \textrm{DES}, [: \textrm{warm}(\R{y})]\rangle \} \end{multline}$$}$$
 
 **[13b]**
 
@@ -591,7 +591,7 @@ More formally, an SDRS consists of such a discourse structure graph, where each 
 
 Figure 2 [An extended description of figure 2 is in the supplement.]
 
-Anaphora and presupposition resolution rely on a modified notion of accessibility that incorporates the Right Frontier Constraint (Polanyi 1988)[^polanyi-1988]. The model-theoretic interpretation of an SDRS is built around a set of special interpretation rules for the various discourse relations. Narration for instance comes with a semantic interpretation rule that states that the both relata hold and moreover the main events they introduce stand in a relation of temporal progression. Some notational shortcuts: $K{\pi}$ is the DRS associated with label $\pi$ (i.e. the $K$ such that $\pi : K$ occurs somewhere in the SDRS); $e_{\pi}$ is the unique event discourse referent that occurs in $U(K_{\pi})$ (for readability we left out event referents from the example SDRS above, but for the purpose of modelling narrative temporal progression in SDRT we should treat every verb phrase as introducing an event discourse referent).
+Anaphora and presupposition resolution rely on a modified notion of accessibility that incorporates the Right Frontier Constraint (Polanyi 1988)[^polanyi-1988]. The model-theoretic interpretation of an SDRS is built around a set of special interpretation rules for the various discourse relations. Narration for instance comes with a semantic interpretation rule that states that the both relata hold and moreover the main events they introduce stand in a relation of temporal progression. Some notational shortcuts: $K{\pi}$ is the DRS associated with label *π* (i.e. the $K$ such that $\pi : K$ occurs somewhere in the SDRS); $e_{\pi}$ is the unique event discourse referent that occurs in $U(K_{\pi})$ (for readability we left out event referents from the example SDRS above, but for the purpose of modelling narrative temporal progression in SDRT we should treat every verb phrase as introducing an event discourse referent).
 
 > $f$ verifies $\cb{\textrm{Narration}(\pi_{1},\pi_{2})}$ iff there is an embedding function $g$ such that $f[K_{\cb{\pi_1}}]g$ and $g$ verifies $K_{\cb{\pi_1}},$ and there is an embedding $h$ such that $g[K_{\cb{\pi_2}}]h$ and $h$ verifies $K_{\cb{\pi_2}}$ and moreover $h(e_{\cb{\pi_1}}) \rar h(e_{\cb{\pi_2}})$
 

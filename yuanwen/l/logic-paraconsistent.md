@@ -186,7 +186,7 @@ To be more precise, a (finite) set of formulas, $\Sigma$, can be partitioned int
 
 A chunking strategy has also been applied to capture the inferential mechanism underlying some theories in science and mathematics. In mathematics, the best available theory concerning infinitesimals was inconsistent. In the original calculus of Leibniz, in the calculation of a derivative infinitesimals had to be both zero and non-zero. (Cf. Colyvan 2012, chapter 7. Newton used what he called ‘fluxions’, which play a similar role.)[^colyvan-2012] In order to capture the inference mechanism underlying this (and Bohr’s theory of the atom), we need to add to the chunking a mechanism that allows a limited amount of information to flow between the consistent fragments of these inconsistent but non-trivial theories. That is, certain information from one chunk may permeate into other chunks. The inference procedure underlying the theories must be *Chunk and Permeate*.
 
-Let $C = \{\Sigma_i : i \in I\}$ and $\varrho$ a permeability relation on $C$ such that $\varrho$ is a map from $I \times I$ to subsets of formulas of the language. If $i_0 \in I$, then any structure $\langle C, \varrho , i_0\rangle$ is called a C&P structure on $\Sigma$. If $\mathcal{B}$ is a C&P structure on $\Sigma$, we define the C&P consequences of $\Sigma$ with respect to $\mathcal{B}$, as follows. For each $i \in I$, a set of sentences, $\Sigma_i^n$, is defined by recursion on $n$:
+Let $C = \{\Sigma_i : i \in I\}$ and *ϱ* a permeability relation on $C$ such that *ϱ* is a map from $I \times I$ to subsets of formulas of the language. If $i_0 \in I$, then any structure $\langle C, \varrho , i_0\rangle$ is called a C&P structure on $\Sigma$. If $\mathcal{B}$ is a C&P structure on $\Sigma$, we define the C&P consequences of $\Sigma$ with respect to $\mathcal{B}$, as follows. For each $i \in I$, a set of sentences, $\Sigma_i^n$, is defined by recursion on $n$:
 
 $$ \begin{align*} \Sigma_i^{0} & = \Sigma_i^{\vdash} \\ \Sigma_i^{n+1} & = \left( \Sigma_i^n \cup \bigcup_{j \in I} \left(\Sigma_j^n \cap \rho(j,i)\right) \right)^{\vdash} \\ \end{align*} $$
 
@@ -223,7 +223,7 @@ The thought behind *LFIs* is that we should respect classical logic as much as p
 1. $\exists \Gamma \exists A\exists B(\Gamma , A, \neg A \not\vdash B)$ and
 2. $\forall \Gamma \forall A\forall B(\Gamma, \circ A, A, \neg A \vdash B)$.
 
-Let $\vdash_C$ be the classical consequence (or derivability) relation and $\circ (\Gamma)$ express the consistency of the set of formulas $\Gamma$ such that if $\circ A$ and $\circ B$ then $\circ (A * B)$ where $*$ is any two place logical connective. Then we can capture derivability in the consistent context in terms of the equivalence: $\forall \Gamma \forall B\exists \Delta(\Gamma \vdash_C B$ iff $\circ (\Delta), \Gamma \vdash B)$.
+Let $\vdash_C$ be the classical consequence (or derivability) relation and $\circ (\Gamma)$ express the consistency of the set of formulas *Γ* such that if $\circ A$ and $\circ B$ then $\circ (A * B)$ where $*$ is any two place logical connective. Then we can capture derivability in the consistent context in terms of the equivalence: $\forall \Gamma \forall B\exists \Delta(\Gamma \vdash_C B$ iff $\circ (\Delta), \Gamma \vdash B)$.
 
 Now take the positive fragment of classical logic with *modus ponens* plus double negation elimination $(\neg \neg A \rightarrow A)$ as an axiom and some axioms governing $\circ$:
 
@@ -231,7 +231,7 @@ $$ \begin{align*} \circ A & \rightarrow(A \rightarrow(\neg A \rightarrow B)) \\ 
 
 Then $\vdash$ provides da Costa’s system $C_1$. If we let $A^1$ abbreviate the formula $\neg(A \wedge \neg A)$ and $A^{n+1}$ the formula $(\neg(A^n \wedge \neg A^n ))^1$, then we obtain $C_i$ for each natural number $i$ greater than 1.
 
-To obtain da Costa’s system $C_{\omega}$, instead of the positive fragment of classical logic, we start with positive intuitionist logic. $C_i$ systems for finite $i$ do not rule out $(A^n \wedge \neg A^n \wedge A^{n+1})$ from holding in a theory. By going up the hierarchy to $\omega$, $C_{\omega}$ rules out this possibility. Note, however, that $C_{\omega}$ is not a *LFC* as it does not contain classical positive logic. For the semantics for da Costa’s $C$-systems, see for example da Costa and Alves (1977) and Loparic (1977)[^loparic-1977].
+To obtain da Costa’s system $C_{\omega}$, instead of the positive fragment of classical logic, we start with positive intuitionist logic. $C_i$ systems for finite $i$ do not rule out $(A^n \wedge \neg A^n \wedge A^{n+1})$ from holding in a theory. By going up the hierarchy to *ω*, $C_{\omega}$ rules out this possibility. Note, however, that $C_{\omega}$ is not a *LFC* as it does not contain classical positive logic. For the semantics for da Costa’s $C$-systems, see for example da Costa and Alves (1977) and Loparic (1977)[^loparic-1977].
 
 The LFIs are a powerful expansion of these ideas. A comprehensive overview and further work in this tradition is in Carnielli and Coniglio (2016). Further work on looking for consistency or recovery operators is in Barrio and Carnielli (2020).
 
@@ -273,7 +273,7 @@ As we can see, *LP* invalidates ECQ by assigning a designated value, *both true 
 
 One feature of *LP* which requires some attention is that in *LP* *modus ponens* comes out to be invalid. For if $p$ is both true and false but $q$ false (only), then $p \supset q$ is both true and false and hence is designated. So both $p$ and $p \supset q$ are designated, yet the conclusion $q$ is not. Hence *modus ponens* for $\supset$ is invalid in *LP*. (One way to rectify the problem is to add an appropriate conditional connective as we will see in the section on relevant logics.)
 
-Another way to develop a many-valued paraconsistent logic is to think of an assignment of a truth value not as a function but as a *relation*. Let $P$ be the set of propositional parameters. Then an evaluation, $\eta$, is a subset of $P \times \{0, 1\}$. A proposition may only relate to 1 (true), it may only relate to 0 (false), it may relate to both 1 and 0 or it may relate to neither 1 nor 0. The evaluation is extended to a relation for all formulas by the following recursive clauses:
+Another way to develop a many-valued paraconsistent logic is to think of an assignment of a truth value not as a function but as a *relation*. Let $P$ be the set of propositional parameters. Then an evaluation, *η*, is a subset of $P \times \{0, 1\}$. A proposition may only relate to 1 (true), it may only relate to 0 (false), it may relate to both 1 and 0 or it may relate to neither 1 nor 0. The evaluation is extended to a relation for all formulas by the following recursive clauses:
 
 $$ \begin{align*} \neg A\eta 1 & \textrm{ iff }A\eta 0\\ \neg A\eta 0 & \textrm{ iff }A\eta 1\\ A \wedge B\eta 1 & \textrm{ iff }A\eta 1\textrm{ and }B\eta 1\\ A \wedge B\eta 0 & \textrm{ iff }A\eta 0\textrm{ or }B\eta 0\\ A \vee B\eta 1 & \textrm{ iff }A\eta 1\textrm{ or }B\eta 1\\ A \vee B\eta 0 & \textrm{ iff }A\eta 0\textrm{ and }B\eta 0\\ \end{align*} $$
 

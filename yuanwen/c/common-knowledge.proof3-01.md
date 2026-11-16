@@ -9,11 +9,11 @@
 **Proposition 3.1**. Let $\Omega$ be a finite set of states of the world. Suppose that
 
 1. Agents i and j have a common prior probability distribution $\mu(\cdot)$ over the events of $\Omega$ such that $\mu(\omega) \gt 0$ for each $\omega \in \Omega$, and
-2. It is common knowledge at $\omega$ that $i$’s posterior probability of event $E$ is $q_i(E)$ and that $j$’s posterior probability of $E$ is $q_j(E).$
+2. It is common knowledge at *ω* that $i$’s posterior probability of event $E$ is $q_i(E)$ and that $j$’s posterior probability of $E$ is $q_j(E).$
 
 Then $q_i(E) = q_j(E).$
 
-**Proof.** Let $\mathcal{M}$ be the meet of all the agents’ partitions, and let $\mathcal{M}(\omega)$ be the element of $\mathcal{M}$ containing $\omega$. Since $\mathcal{M}(\omega)$ consists of cells common to every agents information partition, we can write
+**Proof.** Let $\mathcal{M}$ be the meet of all the agents’ partitions, and let $\mathcal{M}(\omega)$ be the element of $\mathcal{M}$ containing *ω*. Since $\mathcal{M}(\omega)$ consists of cells common to every agents information partition, we can write
 
 $$ \mathcal{M}(\omega) = \bigcup_k H_{ik}, $$
 

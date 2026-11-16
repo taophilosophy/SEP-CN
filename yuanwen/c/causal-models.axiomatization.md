@@ -10,7 +10,7 @@ Briggs’ (2012) axiomatization of structural counterfactuals includes two infer
 
 Notation:
 
-- Greek letters $\phi$ , $\psi$, and $\theta$ stand for arbitrary propositions
+- Greek letters *φ* , *ψ*, and *θ* stand for arbitrary propositions
 - Italicized Roman letters *A*, *B* and *C* stand for Boolean propositions
 - Boldface Roman letters $\bA$, $\bB$, and $\bC$ stand for conjunctions of atomic propositions in which no two conjuncts mention the same variable
 - Italicized letter *V*, with or without a subscript, stands for a variable; and italicized lowercase *v*, with or without a subscript, stands for the value of a variable

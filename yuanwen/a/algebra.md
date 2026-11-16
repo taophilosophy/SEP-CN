@@ -33,7 +33,7 @@ Algebra has also played a significant role in clarifying and highlighting notion
 
 ## 1. Elementary algebra
 
-Elementary algebra deals with numerical terms, namely *constants* 0, 1, 1.5, $\pi$, *variables* $x, y,\ldots$, and combinations thereof built with *operations* such as $+$, $-$, $\times$ , $\div$ , $\sqrt{\phantom{x}}$, etc. to form such terms as $x+1, x\times y$ (standardly abbreviated $xy$), $x + 3y$, and $\sqrt{x}$.
+Elementary algebra deals with numerical terms, namely *constants* 0, 1, 1.5, *π*, *variables* $x, y,\ldots$, and combinations thereof built with *operations* such as $+$, $-$, $\times$ , $\div$ , $\sqrt{\phantom{x}}$, etc. to form such terms as $x+1, x\times y$ (standardly abbreviated $xy$), $x + 3y$, and $\sqrt{x}$.
 
 Terms may be used on their own in *formulas* such as $\pi r^2$, or in equations serving as *laws* such as $x+y = y+x$, or as *constraints* such as $2x^2 -x+3 = 5x+1$ or $x^2 + y^2 = 1$.
 
@@ -377,7 +377,7 @@ Algebraic logic got off to an early start with Boole’s introduction of Boolean
 
 ## 6. Free Algebras
 
-Given any system such as integer arithmetic or real arithmetic, we can write $T$ for the set of all definite terms such as $1 + (2/3)$ built from constants and constituting the definite language, and $T[V]$ for the larger indefinite language permitting variables drawn from a set $V$ in place of some of the constant symbols, with terms such as $x + (2/y)$. When $V$ contains only a single variable $“x”$, $T[\{“x”\}]$ is usually abbreviated to $T[“x”]$ or just $T[x$] which is usually unambiguous. This convention extends to the algebra $\Phi$ of terms of $T$ together with its list of operation symbols viewed as operations for combining terms; we write $\Phi[V$] and call it the *term algebra* on $V$.
+Given any system such as integer arithmetic or real arithmetic, we can write $T$ for the set of all definite terms such as $1 + (2/3)$ built from constants and constituting the definite language, and $T[V]$ for the larger indefinite language permitting variables drawn from a set $V$ in place of some of the constant symbols, with terms such as $x + (2/y)$. When $V$ contains only a single variable $“x”$, $T[\{“x”\}]$ is usually abbreviated to $T[“x”]$ or just $T[x$] which is usually unambiguous. This convention extends to the algebra *Φ* of terms of $T$ together with its list of operation symbols viewed as operations for combining terms; we write $\Phi[V$] and call it the *term algebra* on $V$.
 
 This notion of term algebra is a purely syntactic one involving only the operation symbols, constants, and variables of some language. The terms $2 + 3$ and $3 + 2$ are distinct; likewise $x + y$ and $y + x$ are distinct terms. As such they can be considered concrete terms.
 
@@ -433,7 +433,7 @@ This homogeneity remains the case for the free abelian group on 2 generators, wh
 
 ### 6.2 Free rings
 
-With no generators the free monoid, free group, and free ring are all the one-element algebra consisting of just the additive identity 0. A ring with identity means having a multiplicative identity, that is, a word $\varepsilon$. But this makes $\varepsilon$ a generator for the additive group of the ring, and the free abelian group on one generator is the integers. So the free ring with identity on no generators is the integers under addition and now multiplication.
+With no generators the free monoid, free group, and free ring are all the one-element algebra consisting of just the additive identity 0. A ring with identity means having a multiplicative identity, that is, a word *ε*. But this makes *ε* a generator for the additive group of the ring, and the free abelian group on one generator is the integers. So the free ring with identity on no generators is the integers under addition and now multiplication.
 
 The free ring on one generator $x$ must include $x^2 , x^3$, etc. by multiplication, but these can be added and subtracted resulting in polynomials such as $7x^3 -3x^2 +2x$ but without a constant term, with the exception of 0 itself. The distributivity law for rings means that a term such as $(7x+x^2 )(2x^3 +x)$ can be expanded as $7x^2 +x^3 +14x^4 +2x^5$. It should now be clear that these are just ordinary polynomials with no constant term; in particular we are missing the zero-degree polynomial 1 and so this ring has no multiplicative identity. However it is a commutative ring even though we did not specify this. The free ring with identity on one generator introduces 1 as the multiplicative identity and becomes the ordinary one-variable polynomials since now we can form all the integers. Just as with monoids, the free ring with identity on two generators is not commutative, the polynomials $xy$ and $yx$ being distinct. The free *commutative* ring with identity on two generators however consists of the ordinary two-variable polynomials over the integers.
 

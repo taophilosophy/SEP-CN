@@ -28,7 +28,7 @@ A transitive set *A* such that $(A,{\in})$ is a model of **KP** is called an *ad
 
 $$\begin{align} \zL_0 & =\emptyset,\\ \zL_{\lambda} & = \bigcup\{\zL_{\beta}:\beta < \lambda\}\quad {\lambda \textrm{ limit}}\\ \zL_{\beta+1} &= \big\{ X :\; X \subseteq \zL_{\beta};\;X \textrm{ definable over }\;\langle\zL_{\beta}, {\in}\rangle \big\}. \end{align}$$
 
-So any element of $\zL$ of level $\alpha$ is definable from elements of $\zL$ with levels $<\alpha$ and the parameter $\zL_{\alpha}$. An ordinal $\alpha$ is *admissible* if the structure $(\zL_{\alpha},{\in})$ is a model of **KP**.
+So any element of $\zL$ of level *α* is definable from elements of $\zL$ with levels $<\alpha$ and the parameter $\zL_{\alpha}$. An ordinal *α* is *admissible* if the structure $(\zL_{\alpha},{\in})$ is a model of **KP**.
 
 Formulae of $\cL_2$ can be easily translated into the language of set theory. Some of the subtheories of $\bZ_2$ considered above have set-theoretic counterparts, characterized by extensions of **KP**. **KPi** is an extension of **KP** via the axiom
 
@@ -50,7 +50,7 @@ As the above set theories are based on the notion of admissible set it is suitab
 
 In essence, admissible proof theory is a gathering of cut-elimination and collapsing techniques that can handle infinitary calculi of set theory with $\Sigma$ and/or $\Pi_2$ reflection rules, and thus lends itself to ordinal analyses of theories of the form **KP**+ “there are *x* many admissibles” or **KP**+ “there are many admissibles”.
 
-A theory on the verge of admissible proof theory is **KPM**, designed to axiomatize essential features of a recursively Mahlo universe of sets. An admissible ordinal $\kappa$ is said to be *recursively Mahlo* if it satisfies $\Pi_2$-reflection in the above sense but with the extra condition that the reflecting set $\zL_{\rho}$ be admissible as well. The ordinal representation (Rathjen 1990) for **KPM** is built on the assumption that there exists a (weakly) Mahlo cardinal. The novel feature over previous work is that there are two layers of collapsing functions. In all of the ordinal representation systems for admissible proof theory, collapsed ordinals $\psi_{\pi}(\alpha)$ are intrinsically singular, i.e., they can be approached from below by a definable sequence $(\beta_{\xi})_{\xi<\lambda}$ of ordinals $\beta_{\xi}$ with $\xi<\lambda< \psi_{\pi}(\alpha)$. In the representation system for **KPM** this is no longer the case. One needs a collapsing function $\psi_{\ssM}$ whose values $\psi_{\ssM}(\delta)$ are regular ordinals themselves, meaning that they are furnished with their own collapsing function $\xi\mapsto \psi_{\lower{.8ex}{\psi_{M} (\delta)}} (\xi)$. The ordinal analysis for **KPM** was carried out in Rathjen 1991. A different approach to **KPM** using ordinal diagrams is due to Arai (2003).
+A theory on the verge of admissible proof theory is **KPM**, designed to axiomatize essential features of a recursively Mahlo universe of sets. An admissible ordinal *κ* is said to be *recursively Mahlo* if it satisfies $\Pi_2$-reflection in the above sense but with the extra condition that the reflecting set $\zL_{\rho}$ be admissible as well. The ordinal representation (Rathjen 1990) for **KPM** is built on the assumption that there exists a (weakly) Mahlo cardinal. The novel feature over previous work is that there are two layers of collapsing functions. In all of the ordinal representation systems for admissible proof theory, collapsed ordinals $\psi_{\pi}(\alpha)$ are intrinsically singular, i.e., they can be approached from below by a definable sequence $(\beta_{\xi})_{\xi<\lambda}$ of ordinals $\beta_{\xi}$ with $\xi<\lambda< \psi_{\pi}(\alpha)$. In the representation system for **KPM** this is no longer the case. One needs a collapsing function $\psi_{\ssM}$ whose values $\psi_{\ssM}(\delta)$ are regular ordinals themselves, meaning that they are furnished with their own collapsing function $\xi\mapsto \psi_{\lower{.8ex}{\psi_{M} (\delta)}} (\xi)$. The ordinal analysis for **KPM** was carried out in Rathjen 1991. A different approach to **KPM** using ordinal diagrams is due to Arai (2003).
 
 ### D.2 Beyond admissible proof theory
 
@@ -70,41 +70,41 @@ Climbing up in the hierarchy of $\Pi_n$-reflection, stronger cardinal notions ar
 
 $$\exists z (z = \{ {x \in a} : \phi(x) \})$$
 
-for all $\Sigma_1$-formulas $\phi$. The precise relationship is as follows:
+for all $\Sigma_1$-formulas *φ*. The precise relationship is as follows:
 
 Theorem D.3 $\KP+ \Sigma_1$-separation and $(\Pi^{1}_{2}\Hy\bCA) + \BI$ prove the same sentences of second order arithmetic.
 
-The ordinals $\kappa$ such that $\zL_{\kappa} \models \KP+ \Sigma_1$-*Separation* are familiar from ordinal recursion theory.
+The ordinals *κ* such that $\zL_{\kappa} \models \KP+ \Sigma_1$-*Separation* are familiar from ordinal recursion theory.
 
-Definition D.4 An admissible ordinal $\kappa$ is said to be *nonprojectible* if there is no total $\kappa$-recursive function mapping $\kappa$ one-one into some $\beta < \kappa$, where a function $g : \zL_{\kappa} \to \zL_{\kappa}$ is called $\kappa$-*recursive* if it is $\Sigma$ definable in $\zL_{\kappa}$.
+Definition D.4 An admissible ordinal *κ* is said to be *nonprojectible* if there is no total *κ*-recursive function mapping *κ* one-one into some $\beta < \kappa$, where a function $g : \zL_{\kappa} \to \zL_{\kappa}$ is called *κ*-*recursive* if it is $\Sigma$ definable in $\zL_{\kappa}$.
 
-The key to the “largeness” properties of nonprojectible ordinals is that for any nonprojectible ordinal $\kappa$, $\zL_{\kappa}$ is a limit of $\Sigma_1$-elementary substructures, i.e., for every $\beta< \kappa$ there exists a $\beta < \rho < \kappa$ such that $\zL_{\rho}$ is a $\Sigma_1$-elementary substructure of $\zL_{\kappa}$, written $\zL_{\rho}\prec_1 \zL_{\kappa}$.
+The key to the “largeness” properties of nonprojectible ordinals is that for any nonprojectible ordinal *κ*, $\zL_{\kappa}$ is a limit of $\Sigma_1$-elementary substructures, i.e., for every $\beta< \kappa$ there exists a $\beta < \rho < \kappa$ such that $\zL_{\rho}$ is a $\Sigma_1$-elementary substructure of $\zL_{\kappa}$, written $\zL_{\rho}\prec_1 \zL_{\kappa}$.
 
 Such ordinals satisfying $\zL_{\rho} \prec_{1} \zL_{\kappa}$ have strong reflecting properties. For instance, if $\zL_{\rho} \models {C}$ for some set-theoretic sentence *C* (containing parameters from $\zL_{\rho}$), then there exists a $\gamma < \rho$ such that $\zL_{\gamma} \models {C}$. This is because $\zL_{\rho} \models {C}$ implies $\zL_{\kappa} \models \exists \gamma\, {C}^{\zL_{\gamma}}$, hence $\zL_{\rho} \models \exists \gamma\, {C}^{\zL_{\gamma}}$ using $\zL_{\rho} \prec_{1} \zL_{\kappa}$.
 
 The last result makes it clear that an ordinal analysis of $\Pi^{1}_{2}$-comprehension would necessarily involve a proof-theoretic treatment of reflections beyond those surfacing in admissible proof theory. The notion of stability will be instrumental.
 
-Definition D.5 $\alpha$ is $\delta$-*stable* if $\zL_{\alpha}{\prec_1}\zL_{\alpha+\delta}$.
+Definition D.5 *α* is *δ*-*stable* if $\zL_{\alpha}{\prec_1}\zL_{\alpha+\delta}$.
 
 For our purposes we need refinements of this notion, the simplest being provided by $\Pi_n$-reflection for all *n* which suffices to express one step in the $\prec_1$ relation; cf. Richter & Aczel 1973: 1.18.
 
-Lemma D.6 $\zL_{\kappa}\prec_1\zL_{\kappa+1}$ iff $\kappa$ is $\Pi_n$-reflecting for all *n*.
+Lemma D.6 $\zL_{\kappa}\prec_1\zL_{\kappa+1}$ iff *κ* is $\Pi_n$-reflecting for all *n*.
 
-In the following, we will gradually slice $\Pi^1_2$-comprehension into degrees of reflection to achieve a sense of scale. A further refinement of the notion of $\delta$-stability will be addressed next.
+In the following, we will gradually slice $\Pi^1_2$-comprehension into degrees of reflection to achieve a sense of scale. A further refinement of the notion of *δ*-stability will be addressed next.
 
-Definition D.7 $\kappa$ is said to be $\delta$-$\Pi_{n}$-reflecting if whenever ${C}(u,\vec{x})$ is a set-theoretic $\Pi_n$ formula, $a_1,\ldots,a_r{{\in}}\zL_{\kappa}$ and $\zL_{\kappa+\delta}\models {C}[\kappa,a_1,\ldots,a_n]$, then there exists $\kappa_0,\delta_0<\kappa$ such that $a_1,\ldots,a_r{{\in}}\zL_{\kappa_0}$ and $\zL_{\kappa_0+\delta_0}\models {C}[\kappa_0,a_1,\ldots,a_n]$. The notion of $\kappa$ being $\delta$-$\Sigma_{n}$-reflecting is defined in the same vein.
+Definition D.7 *κ* is said to be *δ*-$\Pi_{n}$-reflecting if whenever ${C}(u,\vec{x})$ is a set-theoretic $\Pi_n$ formula, $a_1,\ldots,a_r{{\in}}\zL_{\kappa}$ and $\zL_{\kappa+\delta}\models {C}[\kappa,a_1,\ldots,a_n]$, then there exists $\kappa_0,\delta_0<\kappa$ such that $a_1,\ldots,a_r{{\in}}\zL_{\kappa_0}$ and $\zL_{\kappa_0+\delta_0}\models {C}[\kappa_0,a_1,\ldots,a_n]$. The notion of *κ* being *δ*-$\Sigma_{n}$-reflecting is defined in the same vein.
 
 Putting the previous definition to work, one gets:
 
-Corollary D.8 If $\kappa$ is $\delta+1$-$\Sigma_{1}$-reflecting, then, for all *n*, $\kappa$ is $\delta$-$\Pi_{n}$-reflecting.
+Corollary D.8 If *κ* is $\delta+1$-$\Sigma_{1}$-reflecting, then, for all *n*, *κ* is *δ*-$\Pi_{n}$-reflecting.
 
-At this point let us return to proof theory to explain the need for even further refinements of the preceding notions. Recall that the first nonprojectible ordinal $\rho$ is a limit of smaller ordinals $\rho_n$ such that $\zL_{\rho_n}\prec_1 \zL_{\rho}$. In the ordinal representation system for $({\Pi^1_2\Hy{\bCA}})$, there will be symbols ${\fE}_n$ and ${\fE}_{\omega}$ for $\rho_n$ and $\rho$, respectively. They are proof-theoretic analogues of cardinals with very high degrees of indescribability. They were called “reducible cardinals” in Rathjen 2005b.
+At this point let us return to proof theory to explain the need for even further refinements of the preceding notions. Recall that the first nonprojectible ordinal *ρ* is a limit of smaller ordinals $\rho_n$ such that $\zL_{\rho_n}\prec_1 \zL_{\rho}$. In the ordinal representation system for $({\Pi^1_2\Hy{\bCA}})$, there will be symbols ${\fE}_n$ and ${\fE}_{\omega}$ for $\rho_n$ and *ρ*, respectively. They are proof-theoretic analogues of cardinals with very high degrees of indescribability. They were called “reducible cardinals” in Rathjen 2005b.
 
 The associated infinitary proof system will have rules
 
 $$\tag{\(\iRef_{\Sigma(\zL_{\fE_n+\delta})}\)} \quad\quad\frac{\Gamma\Rightarrow \Delta, C(\vec{s})^{\zL_{\fE_n+\delta}}} {\Gamma \Rightarrow \Delta, (\exists z \in \zL_{\fE_n}) (\exists \vec{x} \in \zL_{\fE_n}) [\iTran(z) \land C(\vec{x})^{z}]}, $$
 
-where ${C}(\vec{x})$ is a $\Sigma$ formula, $\vec{s}$ are set terms of levels $<{\fE}_n+\delta$, and $\delta<{\fE}_{\omega}$. These rules suffice to bring about the embedding $\KP+\Sigma_1$-Separation into the infinitary proof system, but other reflection rules galore will be needed to carry out cut-elimination. For example, there will be “many” ordinals in the pertaining representation system that play the role of $\delta$-$\Pi_{n+1}$-reflecting ordinals by virtue of corresponding reflection rules in the infinitary calculus. The corresponding collapsing functions also have new features. Instead of collapsing a single ordinal they will have to collapse intervals. In that way they are reminiscent of inverses of elementary embeddings, with the latter being associated with very large cardinals in classical set theory.
+where ${C}(\vec{x})$ is a $\Sigma$ formula, $\vec{s}$ are set terms of levels $<{\fE}_n+\delta$, and $\delta<{\fE}_{\omega}$. These rules suffice to bring about the embedding $\KP+\Sigma_1$-Separation into the infinitary proof system, but other reflection rules galore will be needed to carry out cut-elimination. For example, there will be “many” ordinals in the pertaining representation system that play the role of *δ*-$\Pi_{n+1}$-reflecting ordinals by virtue of corresponding reflection rules in the infinitary calculus. The corresponding collapsing functions also have new features. Instead of collapsing a single ordinal they will have to collapse intervals. In that way they are reminiscent of inverses of elementary embeddings, with the latter being associated with very large cardinals in classical set theory.
 
 
 ## Notes（原文脚注，引自主文）

@@ -215,7 +215,7 @@ As its label suggests, virtue reliabilism is a branch of virtue epistemology tha
 
 Most virtue reliabilists do not explicitly use the notion of a “reliable process”, preferring instead the notions of “competence”, “virtue”, “skill” or “ability”. How should we understand these notions? Sosa often characterizes competences in terms of dispositions, for instance:
 
-> A competence is a certain sort of disposition to succeed when you try. So, exercise of a competence involves aiming at a certain outcome. It is a competence in part because it is a disposition to succeed reliably enough when one makes such attempts… It is thus tied to a conditional of the form: if one tried to $\varphi$, one would (likely enough) succeed. (2015: 96)
+> A competence is a certain sort of disposition to succeed when you try. So, exercise of a competence involves aiming at a certain outcome. It is a competence in part because it is a disposition to succeed reliably enough when one makes such attempts… It is thus tied to a conditional of the form: if one tried to *φ*, one would (likely enough) succeed. (2015: 96)
 
 *Epistemic competences*—the sort of competence that is relevant to epistemology—are dispositions of a specific variety: dispositions to arrive at the truth.
 

@@ -14,7 +14,7 @@ We want to show, for an arbitrary object $b$, that if $R ^{+}(a,b)$ then $Pb$. S
 
 $Fx\amp R^{+}(x,y)\amp \mathit{Her}(F,R)\rightarrow Fy$
 
-Instantiate the variable $F$ in this Fact to the property $[\lambda z \, R^{+}(a,z)\amp Pz]$ (that there is such a property is guaranteed by the Comprehension Principle for Relations), and instantiate the variables $x$ and $y$ to the objects $a$ and $b$, respectively. The result (after applying $\lambda$-Conversion) is therefore something that we have established as true:
+Instantiate the variable $F$ in this Fact to the property $[\lambda z \, R^{+}(a,z)\amp Pz]$ (that there is such a property is guaranteed by the Comprehension Principle for Relations), and instantiate the variables $x$ and $y$ to the objects $a$ and $b$, respectively. The result (after applying *λ*-Conversion) is therefore something that we have established as true:
 
 $R^{+}(a,a)\amp Pa\amp R^{+}(a,b)\amp \mathit{Her}([\lambda z \, R^{+}(a,z)\amp Pz], R)\rightarrow$     $R^{+}(a,b)\amp Pb$
 

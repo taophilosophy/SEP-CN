@@ -494,11 +494,11 @@ I want to do what $R$ requires,
 
 **(B)**
 
-$R$ requires that I $\Phi$,
+$R$ requires that I *Φ*,
 
 **$(\PA_2)$**
 
-So, I want to $\Phi$,
+So, I want to *Φ*,
 
 where $(\PA_i )$ is a pro-attitude (desire, intention, acceptance), and (B) a belief. They also argue that if a meaning determining rule $R$ for an expression $e$ requires $e$ to be used correctly, there is no room for such rules in the explanation of speech acts: If a speaker wants to say that $p$, a rule requiring them to use $e$ correctly not only is of no help, there is no “slot” in the practical syllogism into which it would coherently fit (Glüer & Pagin 1998: 223f)[^glüer-1998]. It would thus seem that if an intentional condition on guidance by meaning determining rules can be integrated into a general model of reasons explanation, an alternative way of doing that is required.
 

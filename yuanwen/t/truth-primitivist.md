@@ -480,7 +480,7 @@ Rather than attempting to define the truth predicates with which they are concer
 
 **(Dis)**
 
-For all *L*-sentences $\phi$: $T(\ulcorner\phi\urcorner)$ iff $\phi$.
+For all *L*-sentences *φ*: $T(\ulcorner\phi\urcorner)$ iff *φ*.
 
 In this way, axiomatic theories treat their target truth predicates as primitive predicates. However, it is also important to note that endorsing a particular axiomatic theory of truth doesn’t commit one to holding that the truth predicate that it concerns is *undefinable*. Kentaro Fujimoto and Volker Halbach (2018: 719) bring this point out particularly well (see also Halbach 2011: 3–4, 7–8)[^halbach-2011]:
 

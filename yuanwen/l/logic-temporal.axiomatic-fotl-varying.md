@@ -11,8 +11,8 @@ The axiomatic system below is an adaptation of similar axiomatic systems that ca
 I. **Axiom schemes:**
 
 1. All axioms of the minimal propositional temporal logic $\mathbf{K}_{t}$
-2. Restricted Universal Instantiation ($\forall$-Elimination): $\forall y(\forall x \varphi(x) \rightarrow \varphi[y/x])$, for any $y$ free for substitution for $x$ in $\varphi$
-3. Vacuous Generalization: $\forall x \varphi \leftrightarrow \varphi$, if $x$ does not occur free in $\varphi$
+2. Restricted Universal Instantiation ($\forall$-Elimination): $\forall y(\forall x \varphi(x) \rightarrow \varphi[y/x])$, for any $y$ free for substitution for $x$ in *φ*
+3. Vacuous Generalization: $\forall x \varphi \leftrightarrow \varphi$, if $x$ does not occur free in *φ*
 4. $\forall$-Distributivity: $\forall x (\varphi \rightarrow \psi) \rightarrow (\forall x \varphi \to \forall x \psi)$
 5. $\forall$-Permutation: $\forall x \forall y \varphi \rightarrow \forall y \forall x \varphi$
 6. Reflexivity of equality: $\forall x (x = x)$

@@ -22,7 +22,7 @@ The true proposition $\top$ may be identified with the one element type $\bOne =
 
 A proposition $A$ is deemed to be true if it (i.e, the associated type $\bA$) has an element, that is, if there is a function $\bOne \brightarrow \bA.$ Accordingly the *law of excluded middle* for a proposition $A$ becomes the assertion that there is a function $\bOne \rightarrow A + \varnothing^A$.
 
-In order to deal with the quantifiers we require operations defined on families of types, that is, types $\bPhi(x)$ depending on objects $x$ of some type $\bA$. By analogy with the case $\bA \brightarrow \bB$, a proof $f$ of the proposition $\forall x:\bA \bPhi(x)$, that is, an object of type $\forall x:\bA \bPhi(x)$, should associate with each $x:\bA$ a proof of $\bPhi(x)$. So $f$ is just a function with domain $A$ such that, for each $x:\bA$, $fx$ is of type $\bPhi(x)$. That is, $\forall x:\bA \bPhi(x)$ is the *product* $\Pi x:\bA \bPhi(x)$ of the $\bPhi(x)$’s. We use the $\lambda$-notation in writing $f$ as $\lambda xfx$.
+In order to deal with the quantifiers we require operations defined on families of types, that is, types $\bPhi(x)$ depending on objects $x$ of some type $\bA$. By analogy with the case $\bA \brightarrow \bB$, a proof $f$ of the proposition $\forall x:\bA \bPhi(x)$, that is, an object of type $\forall x:\bA \bPhi(x)$, should associate with each $x:\bA$ a proof of $\bPhi(x)$. So $f$ is just a function with domain $A$ such that, for each $x:\bA$, $fx$ is of type $\bPhi(x)$. That is, $\forall x:\bA \bPhi(x)$ is the *product* $\Pi x:\bA \bPhi(x)$ of the $\bPhi(x)$’s. We use the *λ*-notation in writing $f$ as $\lambda xfx$.
 
 A proof of the proposition $\exists x:\bA \bPhi(x)$, that is, an object of type $\exists x:\bA \bPhi(x)$, should determine an object $x:\bA$ and a proof $y$ of $\bPhi(x)$, and *vice-versa*. So a proof of this proposition is just a pair $(x,y)$ with $x:\bA$ and $y:\bPhi(x)$. Therefore $\exists x:\bA \bPhi(x)$ is the *disjoint union*, or *coproduct* $Cx:\bA \bPhi(x)$ of the $\bPhi(x)$’s.
 
@@ -40,9 +40,9 @@ In **CDTT** the logical version **ACL** of *AC* takes the form of the propositio
 
 **ACLT** $ \forall x:\bA\ \exists y:\bB\bPhi(x,y) \rightarrow \exists f:\bB^{\bA}\ \forall x:\bA\bPhi(x,fx). $
 
-Now **ACLT** is *provable* in **CDTT**, as the following argument shows. To begin with, again following Tait, we introduce the functions $\sigma$, $\pi$, $\pi^{\prime}$ of types $\forall x:\bA(\bPhi(x) \rightarrow \exists x:\bA \bPhi(x)), \exists x:\bA\bPhi(x) \rightarrow \bA$, and $\forall y: (\exists x\bPhi(x)).\bPhi(\pi(y))$ as follows. If $b:\bA$ and $c: \bPhi(b)$, then $\sigma bc$ is $(b, c)$. If $d:\exists x:\bA \bPhi(x)$, then $d$ is of the form $(b, c)$ and in that case $\pi(d) = b$ and $\pi^{\prime}(d) = c$. These yield the equations
+Now **ACLT** is *provable* in **CDTT**, as the following argument shows. To begin with, again following Tait, we introduce the functions *σ*, *π*, $\pi^{\prime}$ of types $\forall x:\bA(\bPhi(x) \rightarrow \exists x:\bA \bPhi(x)), \exists x:\bA\bPhi(x) \rightarrow \bA$, and $\forall y: (\exists x\bPhi(x)).\bPhi(\pi(y))$ as follows. If $b:\bA$ and $c: \bPhi(b)$, then $\sigma bc$ is $(b, c)$. If $d:\exists x:\bA \bPhi(x)$, then $d$ is of the form $(b, c)$ and in that case $\pi(d) = b$ and $\pi^{\prime}(d) = c$. These yield the equations
 
-\begin{align} \pi(\sigma bc) &= b \\ \pi^{\prime}(\sigma bc) &= c \\ \sigma(\pi d)(\pi^{\prime} d) &= d. \end{align}
+$$\begin{align} \pi(\sigma bc) &= b \\ \pi^{\prime}(\sigma bc) &= c \\ \sigma(\pi d)(\pi^{\prime} d) &= d. \end{align}$$
 
 Now let $u$ be a proof of the antecedent $\forall x:\bA\exists y:\bB \bPhi(x, y))$ of **ACLT.** Then, for any $x: \bA,\pi(ux)$ is of type $\bB$ and $\pi^{\prime}(ux)$ is a proof of $\bPhi(x, \pi ux)$. So $s(u) = \lambda x \pi(ux)$ is of type $\bB^{\bA}$ and $t(u) = \lambda x\pi^{\prime}(ux)$ is a proof of $\forall x:\bA \bPhi(x,s(u)x)$. Accordingly $\lambda u\sigma s(u)t(u)$ is a proof of $\forall x:\bA\ \exists y:\bB \bPhi(x, y)) \rightarrow \exists x:\bB^{\bA}\ \forall x:\bA\bPhi(x, fx))$, so that **ACLT** is derivable in **CDTT**.
 

@@ -141,7 +141,7 @@ Degree-denoting pronouns exist in some constructions of Italian Sign Language (L
 
 **(12)**
 
-GIANNI TALL$_{\alpha}$. IX-$\alpha$ 1 METER 70 ‘Gianni is tall. His height is 1.70 meters.’ (Aristodemo 2017: example 2.23)[^aristodemo-2017]
+GIANNI TALL$_{\alpha}$. IX-*α* 1 METER 70 ‘Gianni is tall. His height is 1.70 meters.’ (Aristodemo 2017: example 2.23)[^aristodemo-2017]
 
 More complicated examples can be constructed in which *Ann is taller than Bill* makes available two degree-denoting loci, one corresponding to Ann’s height and the other to Bill’s.
 
@@ -368,7 +368,7 @@ For a context *c*, time of evaluation *t* and world of evaluation *w*: a. PLANE,
 
 **b.**
 
-PLANE-cl$_{\Phi}$, classifier predicate [token with phonetic realization $\Phi$] [[PLANE-cl$_{\Phi}$]]^{*c,t,w*} = $\lambda x_{e}$ . plane'_{*t,w*}(x) and $\boldsymbol{\textbf{proj}(x, \pi_{c}, t, w) = \Phi}$
+PLANE-cl$_{\Phi}$, classifier predicate [token with phonetic realization *Φ*] [[PLANE-cl$_{\Phi}$]]^{*c,t,w*} = $\lambda x_{e}$ . plane'_{*t,w*}(x) and $\boldsymbol{\textbf{proj}(x, \pi_{c}, t, w) = \Phi}$
 
 Evaluation is relative to a context c that provides the viewpoint, $\pi_{c}$. In the lexical entry for the normal noun in (28a), plane'_{*t,w*} is a (metalanguage) predicate of individuals that applies to anything that is an airplane at *t* in *w*. The classifier predicate has the lexical entry in (28b). It has the same conventional component as the normal noun, but adds to it an (iconic) projective condition: for a token of the predicate *PLANE-cl* to be true of an object *x*, *x* should project onto this very token.
 

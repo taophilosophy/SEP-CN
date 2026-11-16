@@ -26,7 +26,7 @@ $(\rightarrow)$ Assume $\epsilon Q\in \epsilon P^{\approx}$ (to show: $Q \approx
 
 $[\lambda x \,\exists H(x\eqclose \epsilon H\amp H\approx P)](\epsilon Q)$
 
-By $\lambda$-conversion, this implies:
+By *λ*-conversion, this implies:
 
 $\exists H(\epsilon Q =\epsilon H\amp H\approx P)$
 
@@ -40,7 +40,7 @@ $(\leftarrow)$ Assume $Q\approx P$ (to show $\epsilon Q\in \epsilon P^{\approx}$
 
 $\exists H(\epsilon Q\eqclose \epsilon H \amp H\approx P)$
 
-And by $\lambda$-Conversion:
+And by *λ*-Conversion:
 
 $[\lambda x \, \exists H(x\eqclose \epsilon H \amp H\approx P)](\epsilon Q)$
 

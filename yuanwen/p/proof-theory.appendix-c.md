@@ -30,7 +30,7 @@ $$\begin{align} \tag{Hyp 1} & B \textrm{ is a bar}\\ \tag{Hyp 2} & \forall s\in 
 
 Clause (Hyp 4) asserts that the property of being in *Q* propagates to a node *s* if all its children belong to *Q*. Since all nodes in the bar belong to *Q* by (Hyp 3), the intuitive idea behind this principle is that the clauses (Hyp 1–4) guarantee that membership in *Q* “percolates” from the bar all the way down to the root.[^note-51]
 
-Brouwer’s justification for the Bar theorem (1927), that is, of the general validity of Bar Induction, rests on the idea that any canonical proof of (Hyp 1) in infinitary logic has a particular structure which allows one, when supplied with proofs of (Hyp 2–4), to transform it into a proof of $Q(\langle \rangle)$. With hindsight, one could say that Brouwer is assuming that a canonical proof is something like a cut-free proof in $\omega$-logic.
+Brouwer’s justification for the Bar theorem (1927), that is, of the general validity of Bar Induction, rests on the idea that any canonical proof of (Hyp 1) in infinitary logic has a particular structure which allows one, when supplied with proofs of (Hyp 2–4), to transform it into a proof of $Q(\langle \rangle)$. With hindsight, one could say that Brouwer is assuming that a canonical proof is something like a cut-free proof in *ω*-logic.
 
 The notions of Definition C.1 can be easily formalized in the language of second order arithmetic. If one doesn’t impose any restrictions on the complexity of the bar *B* and the predicate *Q* (i.e., allowing them to be expressed by any formula of the language), then $\BI_{\igen}$ is surprisingly strong when classical logic is assumed as shown by Howard (1963, section 2.3).
 
@@ -40,7 +40,7 @@ On the other hand, when the ambient logic is intuitionist, $\BI_{\igen}$ is much
 
 ### C.2 An outline of Spector’s interpretation
 
-In his 1960, Spector gave a consistency proof of $\bZ_2$ by means of a functional interpretation. To find a class of functionals sufficient unto the task of lifting the D-interpretation to $\bZ_2$, he defined the so-called bar recursive functionals. The crucial step in the interpretation is to furnish a functional interpretation of the negative translation of $\BI_{\igen}$, which by Theorem C.2 gives rise to an interpretation of $\bZ_2$. For this he extended intuitionist $\BI_{\igen}$ to all finite types. Bar induction for type $\sigma$, $\BI_{\sigma}$, is formulated similar to $\BI_{\igen}$, the difference being that instead of just looking at the tree of all finite sequences of natural numbers $\bbN^*$, one takes the full tree of finite sequences $\langle F_1,\ldots,F_r\rangle$ of objects $F_i$ of type $\sigma$, $\cT_{\sigma}$. A bar of the latter is defined in complete analogy to a bar of $\bbN^*$.
+In his 1960, Spector gave a consistency proof of $\bZ_2$ by means of a functional interpretation. To find a class of functionals sufficient unto the task of lifting the D-interpretation to $\bZ_2$, he defined the so-called bar recursive functionals. The crucial step in the interpretation is to furnish a functional interpretation of the negative translation of $\BI_{\igen}$, which by Theorem C.2 gives rise to an interpretation of $\bZ_2$. For this he extended intuitionist $\BI_{\igen}$ to all finite types. Bar induction for type *σ*, $\BI_{\sigma}$, is formulated similar to $\BI_{\igen}$, the difference being that instead of just looking at the tree of all finite sequences of natural numbers $\bbN^*$, one takes the full tree of finite sequences $\langle F_1,\ldots,F_r\rangle$ of objects $F_i$ of type *σ*, $\cT_{\sigma}$. A bar of the latter is defined in complete analogy to a bar of $\bbN^*$.
 
 Instead of $\BI_{\sigma}$, Spector’s extension of **T** has a scheme, $\bBR_{\sigma}$ for defining functionals by *bar recursion* on the tree $\cT_{\sigma}$. The first step is to interpret the theory $\bHA^{\sharp}+\BI_{\sigma}$ in Spector’s $\bT+\bBR_{\sigma}$, where $\bHA^{\sharp}$ is the theory $\bHA^{\omega}$ augmented by the axioms
 
@@ -52,7 +52,7 @@ The next step, which furnishes the interpretation of classical $\BI_{\igen}$ (an
 
 $$\tag{c2}\label{h1} \forall f\exists n\,P(\bar{f}n) $$
 
-with the predicate $P(c)$ being of the form $\exists Z\,B(Z,c)$ where $B(Z,c)$ is quantifier free and *c* is of type $\sigma$ (see Howard 1968, Lemma 4D). The negative translation of $(\ref{h1})$ is
+with the predicate $P(c)$ being of the form $\exists Z\,B(Z,c)$ where $B(Z,c)$ is quantifier free and *c* is of type *σ* (see Howard 1968, Lemma 4D). The negative translation of $(\ref{h1})$ is
 
 $$ \forall f\,\neg\neg\exists n\, P(\bar{f}n)^N\mbox{; i.e., }\forall f\,\neg\neg \exists n\,\neg\neg \exists Z\,B(Z,\bar{f}n) $$
 
@@ -70,7 +70,7 @@ $$ \tag{\(\forall^2\textrm{-E}\)} \forall X\,A(X) \to A(F) $$
 
 for any arithmetical formula $A(X)$ and arbitrary $\cL_2$-formula $F(u)$, where $A(F)$ arises from $A(X)$ by replacing all occurrences of the form $t\in X$ in the formula by $F(t)$.
 
-Ever since the great successes with the $\omega$-rule, which restored cut elimination in arithmetic, proof theorists were looking for stronger forms of infinitary proof rules that could bring about cut elimination for genuinely impredicative theories. Buchholz was the first who succeeded in finding such a rule. He introduced the Ω-rule in Buchholz 1977a, and extended versions of it are the central tool in Buchholz and Schütte 1988. A sequent calculus version of it was used in Rathjen and Weiermann 1993 to give a proof-theoretic bound on Kruskal’s theorem and this is the version we will briefly discuss. According to the intuitionist interpretation of an implication (called the Brouwer-Heyting-Kolmogorov (BHK) interpretation) the truth of an implication $C\to D$ is explained in terms of a construction that transforms any proof of *C* into a proof of *D*. This idea may serve as a first approach to the Ω-rule:
+Ever since the great successes with the *ω*-rule, which restored cut elimination in arithmetic, proof theorists were looking for stronger forms of infinitary proof rules that could bring about cut elimination for genuinely impredicative theories. Buchholz was the first who succeeded in finding such a rule. He introduced the Ω-rule in Buchholz 1977a, and extended versions of it are the central tool in Buchholz and Schütte 1988. A sequent calculus version of it was used in Rathjen and Weiermann 1993 to give a proof-theoretic bound on Kruskal’s theorem and this is the version we will briefly discuss. According to the intuitionist interpretation of an implication (called the Brouwer-Heyting-Kolmogorov (BHK) interpretation) the truth of an implication $C\to D$ is explained in terms of a construction that transforms any proof of *C* into a proof of *D*. This idea may serve as a first approach to the Ω-rule:
 
 - $(\tilde{\Omega})$If for every cut free proof[^note-54] $\cD$ of $\forall X A(X)$ we have $\cT(\cD)\vdash\Theta\Rightarrow \Xi$, then $\cT$ is considered to be a proof of $\Theta,\forall XF(X)\Rightarrow \Xi$.
 
@@ -78,7 +78,7 @@ Since any cut free proof of $\forall XA(X)$ can be transformed into a proof of $
 
 Definition C.3
 
-- $(\Omega)$If for all finite sets of $\Sigma^1_1$-formulae $\Gamma$ and $\Pi^1_1$-formulae $\Delta$, every cut free proof $\cD$ of $$\Gamma\Rightarrow \Delta, \forall X A(X)$$ can be transformed into a proof $\cT(\cD)$ of $\Gamma,\Theta\Rightarrow \Delta,\Xi$, then $\cT$ is considered to be a proof of $\Theta,\forall XF(X)\Rightarrow \Xi$.
+- $(\Omega)$If for all finite sets of $\Sigma^1_1$-formulae *Γ* and $\Pi^1_1$-formulae $\Delta$, every cut free proof $\cD$ of $$\Gamma\Rightarrow \Delta, \forall X A(X)$$ can be transformed into a proof $\cT(\cD)$ of $\Gamma,\Theta\Rightarrow \Delta,\Xi$, then $\cT$ is considered to be a proof of $\Theta,\forall XF(X)\Rightarrow \Xi$.
 
 With the help of the Ω-rule one obtains an ordinal analysis of (**BI**.); see Buchholz and Schütte 1988 and Rathjen and Weiermann 1993. In view of Brouwer’s speculative justification of bar induction, it is perhaps gratifying to see that a proof-theoretic analysis of (**BI**) can be obtained via a rule that embodies transformations on infinite canonical proof trees.
 

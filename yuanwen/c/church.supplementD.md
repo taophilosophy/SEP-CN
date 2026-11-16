@@ -68,17 +68,17 @@ $$\lambda y \hdot + 1y\ 2$$
 
 $\lambda x \hdot x$ is a Polish diplomat and $x$ is a great pianist *Paderewski*.
 
-In general, when $\ulcorner \lambda \alpha \hdot \Psi\alpha]\urcorner$ is combined with an argument expression $\beta$, it should be read as *the value of the function that assigns Ψ to α for $\beta$ as argument.*
+In general, when $\ulcorner \lambda \alpha \hdot \Psi\alpha]\urcorner$ is combined with an argument expression *β*, it should be read as *the value of the function that assigns Ψ to α for *β* as argument.*
 
-The elegance of the notation as a means for representing functions is obvious. The identity function, which is defined as $I\alpha= \alpha$ for any argument $\alpha,$ is represented by the abstract $\ulcorner \lambda \alpha \hdot \alpha\urcorner$. The function that duplicates or replicates its own argument is represented by the abstract $\ulcorner \lambda \alpha \hdot \alpha\alpha\urcorner$ (Church 1941 [BE: 202]). The constant function, which accepts α as well as any second argument $\beta$ but always maps α to the same value regardless of $\beta$, is represented by the abstract $\ulcorner \hhdot \lambda \alpha \hdot \lambda b \alpha \urcorner$. (Note that Church sometimes adopts Russell’s notational convention (PM) that a greater number of dots indicates an outside bracket, while a smaller number indicates an inside bracket.)
+The elegance of the notation as a means for representing functions is obvious. The identity function, which is defined as $I\alpha= \alpha$ for any argument $\alpha,$ is represented by the abstract $\ulcorner \lambda \alpha \hdot \alpha\urcorner$. The function that duplicates or replicates its own argument is represented by the abstract $\ulcorner \lambda \alpha \hdot \alpha\alpha\urcorner$ (Church 1941 [BE: 202]). The constant function, which accepts α as well as any second argument *β* but always maps α to the same value regardless of *β*, is represented by the abstract $\ulcorner \hhdot \lambda \alpha \hdot \lambda b \alpha \urcorner$. (Note that Church sometimes adopts Russell’s notational convention (PM) that a greater number of dots indicates an outside bracket, while a smaller number indicates an inside bracket.)
 
 λ-abstracts are governed by three rules of inference:
 
-- $\alpha$-conversion: alphabetic changes of bound variables
+- *α*-conversion: alphabetic changes of bound variables
 - λ-contraction: an occurrence of $\ulcorner \lambda \alpha \hdot \Psi\alpha \beta\urcorner$ within a formula is replaced with one of $\Psi\beta$
 - λ-expansion: an occurrence of $\Psi\beta$ within a formula is replaced with one of $\ulcorner \lambda \alpha \hdot \Psi\alpha \beta\urcorner$.
 
-Regarding the last two rules, it is required that Ψβ be the result of uniformly substituting free occurrences of $\beta$ for free occurrences of α throughout Ψα. These two rules are together known as “λ-conversion” (although “λ-contraction” is sometimes known as “$\beta$-reduction” or “λ-concretion” and “$\alpha$-conversion” is sometimes known as “$\alpha$-reduction”.) For example, from
+Regarding the last two rules, it is required that Ψβ be the result of uniformly substituting free occurrences of *β* for free occurrences of α throughout Ψα. These two rules are together known as “λ-conversion” (although “λ-contraction” is sometimes known as “*β*-reduction” or “λ-concretion” and “*α*-conversion” is sometimes known as “*α*-reduction”.) For example, from
 
 Paderewski is a Polish diplomat and Paderewski is a great pianist
 
@@ -149,7 +149,7 @@ For further discussion of Church’s untyped λ-calculus see section 5. (See als
 
 There are two basic observations behind the theory of types, one of which accords well with mathematical practice and the other with common sense. The first observation is that numbers, sets of numbers, sets of sets of numbers, functions, sets of functions, etc., are entities of different types, where types themselves are reflected in the language. This observation accurately reflects the practice of mathematicians who already know the types of the entities that they are thinking about when working in one or another subject area and who will draw type distinctions when working in a more general framework, like set theory, by using different kinds of symbols to designate numbers (e.g., “1”, “2”, “3”…, ), sets of numbers (e.g., “$\stN$”) and sets of sets of numbers (e.g., “$\cP(\stN)$”). The second observation is that entities of a given type apply to entities of the highest type below their type, so do not apply to entities of their own type. This can be seen from the fact that while the expressions “Paderewski is over 5 feet tall”, “Someone is over 5 feet tall”, and “It is commonplace to be a person over 5 feet tall” are intelligible, “Everyone Paderewski”, “Everyone someone”, and “is over 5 feet tall is a commonplace quality to have” are all nonsense.
 
-However, Church formulates his simple theory of types (STT) in a way that uses the λ-calculus to represent the typed entities as functions *qua* rules of correspondence rather than as sets or classes (cf. previous section). All expressions of STT are assigned types, which are the types of the entities that they designate. “$\iota$” symbolizes the type of individuals, “$o$” the type of truth values, and if α and β are type-symbols, then $\ulcorner(\alpha\beta)\urcorner$ is the type-symbol of the type of functions from entities of type α to those of type β. (Church writes this $\ulcorner(\beta\alpha)\urcorner$.) For example, “$(\iota o)$” symbolizes the type of functions from individuals to truth values, and “$(oo)$” symbolizes the type of functions from truth values to truth values.
+However, Church formulates his simple theory of types (STT) in a way that uses the λ-calculus to represent the typed entities as functions *qua* rules of correspondence rather than as sets or classes (cf. previous section). All expressions of STT are assigned types, which are the types of the entities that they designate. “*ι*” symbolizes the type of individuals, “$o$” the type of truth values, and if α and β are type-symbols, then $\ulcorner(\alpha\beta)\urcorner$ is the type-symbol of the type of functions from entities of type α to those of type β. (Church writes this $\ulcorner(\beta\alpha)\urcorner$.) For example, “$(\iota o)$” symbolizes the type of functions from individuals to truth values, and “$(oo)$” symbolizes the type of functions from truth values to truth values.
 
 According to STT, well-formed expressions are limited to:
 
@@ -175,7 +175,7 @@ Now suppose that we want to define *complex* properties and functions of individ
 
 $$\lambda x\hdot \Phi x .$$
 
-In the context of STT we need to proceed beyond second order logic, so we need a more general comprehension axiom scheme stating that an expression $\Psi_{\beta}$ of any type $\beta$ defines a complex function $u$ of type $\ulcorner(\alpha\beta)\urcorner$, which does not occur free in $\Psi_\beta$:
+In the context of STT we need to proceed beyond second order logic, so we need a more general comprehension axiom scheme stating that an expression $\Psi_{\beta}$ of any type *β* defines a complex function $u$ of type $\ulcorner(\alpha\beta)\urcorner$, which does not occur free in $\Psi_\beta$:
 
 $$\exists u_{(\alpha\beta)} \forall x_a \hdot u_{(\alpha\beta)} x_\alpha \approxB \Psi_\beta$$
 

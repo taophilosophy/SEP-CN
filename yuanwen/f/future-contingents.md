@@ -388,7 +388,7 @@ It would of course be fatal for the true futurist theory if it could be demonstr
 
 > “The coin will come up heads. It is possible, though that it will come up tails, and then later it will come up tails again (though at this moment it could come up heads), and then, inevitably, still later it will come up tails yet again.” (Belnap and Green 1994, p. 379)[^belnap-1994]
 
-This statement may be represented in terms of tense logic with $\tau$ representing tails and $\eta$ heads, respectively:
+This statement may be represented in terms of tense logic with *τ* representing tails and *η* heads, respectively:
 
 $$ F(1)\eta \wedge \Diamond F(1)(\tau \wedge \Diamond F(1)\eta \wedge F(1)(\tau \wedge \Box F(1)\tau)) $$
 

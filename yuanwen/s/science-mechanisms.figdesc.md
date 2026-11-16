@@ -32,7 +32,7 @@ A diagram of seven horizontal nodes connected by rightward pointing arrows. From
 - $X_5\phi_4$-ing
 - $\psi_{\textrm{out}}$
 
-The five middle nodes are labeled $\psi$-ing
+The five middle nodes are labeled *ψ*-ing
 
 ### Figure 3 description
 

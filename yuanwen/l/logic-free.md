@@ -127,8 +127,8 @@ One of the goals of supervaluational semantics is to save the laws of classical 
 **Definition 5** (Stage-1 structure $\mathcal{S}_{s1}$). *A stage-1 structure* $\mathcal{S}_{s1}$ is a pair $\langle\cD, \varphi\rangle$, where the following conditions are met:
 
 1. $\cD$ is a possibly empty set.
-2. $\varphi$ is a partial function such that:
-3. •  If a free individual variable $t$ is in $D_\varphi$, the domain of $\varphi$, then for some $d \in \cD$, $\varphi(t) = d$.
+2. *φ* is a partial function such that:
+3. •  If a free individual variable $t$ is in $D_\varphi$, the domain of *φ*, then for some $d \in \cD$, $\varphi(t) = d$.
 4. •  $\varphi(E!) = \cD$.
 5. •  For every $n$-ary predicate $P^n$: $\varphi(P^n) \subseteq \cD^n$.
 6. Every object in $\cD$ has a name in the formal language, i.e. if $d \in \cD$, then $d^\bullet$ (the standard-name of $d$) is in the language.
@@ -145,7 +145,7 @@ A stage-2 structure over a stage-1 structure is defined as follows:
 
 1. $D' \not = \varnothing$, $D \subseteq D'$,
 2. for every $n$-ary predicate $P^n$, $\varphi(P^n) \subseteq \varphi'(P^n)$,
-3. for every free individual variable $t$, if $t$ is in the domain of $\varphi$, then: $\varphi'(t) = \varphi(t)$,
+3. for every free individual variable $t$, if $t$ is in the domain of *φ*, then: $\varphi'(t) = \varphi(t)$,
 4. for every free individual variable $t$, $\varphi(t) \in D'$.
 
 Based on an $\mathcal{S}_{s2}$-structure which is in turn a *completion* (Morscher and Simons 2001a) of an $\mathcal{S}_{s2}$-structure, we define a valuation ${\mathcal V}^{s2}$ as follows:
@@ -160,7 +160,7 @@ Based on an $\mathcal{S}_{s2}$-structure which is in turn a *completion* (Morsch
 6. $\notag {\mathcal V}^{s2}( A\to B)= \begin{cases} \bot, & \text{if}\ {\mathcal V}^{s2}(A)=\top\ and\ {\mathcal V}^{s2}(B)=\bot\\ \top, & \text{otherwise} \end{cases}$
 7. $\notag {\mathcal V}^{s2}( \forall x A)= \begin{cases} \top, & \text{if } \forall d^\bullet: \text{if }{\mathcal V}^{s2}(E!d^\bullet) = \top, \\ & \qquad\text{then } {\mathcal V}^{s2}(A[d^\bullet/x])=\top\\ \bot, & \text{if } \exists d^\bullet, {\mathcal V}^{s2}(E!d^\bullet) = \top \text{ and } {\mathcal V}^{s2}(A[d^\bullet/x])=\bot \end{cases}$
 
-The remaining definitional clauses for the Boolean cases and existentially quantified formulas follow as usual. Now with this at hand, we can define a *supervaluation* $\sigma$ which is based on a stage-1 structure and its stage-2 superstructures; in order to indicate the dependence of $\sigma$ with respect to ${\mathcal V}^{s1}$, we write $\sigma_{{\mathcal V}^{s1}}$, and define:
+The remaining definitional clauses for the Boolean cases and existentially quantified formulas follow as usual. Now with this at hand, we can define a *supervaluation* *σ* which is based on a stage-1 structure and its stage-2 superstructures; in order to indicate the dependence of *σ* with respect to ${\mathcal V}^{s1}$, we write $\sigma_{{\mathcal V}^{s1}}$, and define:
 
 **Definition 9** (Supervaluation $\sigma_{{\mathcal V}^{s1}}$).
 
@@ -173,15 +173,15 @@ Since this semantics is more complicated we define core semantical notions in de
 **Definition 10**.
 
 1. A formula $A$ is *logically true*, or *logically supertrue* iff for all $\mathcal{S}_{s1}$ structures with $\sigma_{\mathcal{S}^{s1}}(A) = \top$. A formula $A$ is *logically false*, or *logically superfalse* iff for all $\mathcal{S}_{s1}$ structures with $\sigma_{\mathcal{S}^{s1}}(A) = \bot$.
-2. A formula $A$ is a *logical consequence* of a set of formulas $\Gamma$, or $A$ is a *logical superconsequence* of $\Gamma$ $(\Gamma \models A)$ iff for all $\mathcal{S}_{s1}$ structures: if $\sigma_{\mathcal{S}^{s1}}(B) = \top$, for all $B \in \Gamma$, then $\sigma_{\mathcal{S}^{s1}}(A) = \top$.
-3. A set of formulas $\Gamma$ is *satisfiable*, or *supersatisfiable* iff there is a $\mathcal{S}_{s1}$ structure with $\sigma_{\mathcal{S}^{s1}}(A) = \top$, for all $A \in \Gamma$.
+2. A formula $A$ is a *logical consequence* of a set of formulas *Γ*, or $A$ is a *logical superconsequence* of *Γ* $(\Gamma \models A)$ iff for all $\mathcal{S}_{s1}$ structures: if $\sigma_{\mathcal{S}^{s1}}(B) = \top$, for all $B \in \Gamma$, then $\sigma_{\mathcal{S}^{s1}}(A) = \top$.
+3. A set of formulas *Γ* is *satisfiable*, or *supersatisfiable* iff there is a $\mathcal{S}_{s1}$ structure with $\sigma_{\mathcal{S}^{s1}}(A) = \top$, for all $A \in \Gamma$.
 4. A formula $A$ is *contingent*, or *supercontigent* iff (1) there is a $\mathcal{S}_{s1}$ structure with $\sigma_{\mathcal{S}^{s1}}(A) = \top$ and a (2) there is a $\mathcal{S}_{s1}$ structure with $\sigma_{\mathcal{S}^{s1}}(A) = \bot$.
 
 Next we offer several examples as a way of elaborating on these definitions.
 
 **Example 2**.
 
-1. $\exists x(x = a)$ is not logically true. Let there be a $\mathcal{S}_{s1}$ structure such that $a$ is not in the domain of $\varphi$; the result follows.
+1. $\exists x(x = a)$ is not logically true. Let there be a $\mathcal{S}_{s1}$ structure such that $a$ is not in the domain of *φ*; the result follows.
 2. $P(a) \models \exists xP(x)$. According to our definition of logical superconsequence, $\exists xP(x)$ follows from $P(a)$ just in case for all $\mathcal{S}_{s1}$ structures: if $\sigma_{\mathcal{S}_{s1}}(P(a)) = \top$, then $\sigma_{\mathcal{S}_{s1}}(\exists xP(x)) = \top,$ now plugging in the clause 1 of Definition 9 we obtain: just in case for all $\mathcal{S}_{s1}$ structures: if ${\mathcal V}^{s2}(P(a)) = \top$ for every completion $\mathcal{S}_{s2}$ of $\mathcal{S}_{s1}$, then ${\mathcal V}^{s2}(\exists xP(x) ) = \top$ for every completion $\mathcal{S}_{s2}$ of $\mathcal{S}_{s1}$.
 3. $P(a) \to \exists xP(x)$ is not logically (super-)true. Suppose that $P(a) \to \exists xP(x)$ is logically (super-)true, i.e. for all $\mathcal{S}_{s1}$ structures, $\sigma_{\mathcal{S}_{s1}}(P(a) \to \exists xP(x)) = \top$, just in case ${\mathcal V}^{s2}(P(a) \to \exists xP(x))=\top$ for all $\sigma_{\mathcal{S}_{s2}}$ over $\sigma_{\mathcal{S}_{s1}}$. There is a valuation ${\mathcal V}^{s1}$ such that ${\mathcal V}^{s1}$ is not defined for $P(a)$, so ${\mathcal V}^{s1}(E!a) = {\mathcal V}^{s1}(P(a)) = \bot$, and the desired result follows.
 4. $\forall xE!x$ is logically (super-)true. ${\mathcal V}^{s2}(\forall xE!x) = \top$ for all $\mathcal{S}_{s2}$ structures over $\mathcal{S}_{s1}$, since: either ${\mathcal V}^{s2}(E!d^\bullet) = \top$ or ${\mathcal V}^{s2}(E!d^\bullet) = \bot$ for all $d^\bullet$. However, for both cases in by definition 8 clause 7: ${\mathcal V}^{s2} (\forall xE!x) = \top$.
@@ -190,7 +190,7 @@ Some remarks about the above examples are in order.
 
 (1) Items 2 and 3 show that strong completeness is not available for logical superconsequence, and with it that compactness fails.
 
-(2) As the previous example highlights the logical consequence relation used in supervaluational semantics is *global* as opposed to the more usual *local*. Local consequence states that $\Gamma$ entails $A$ just in case every model that makes all of $\Gamma$ true, likewise makes $A$ true — the quantifier takes the wide scope. By contrast, global consequence states that if every model makes all of $\Gamma$ true, then every model makes $A$ true -the implication takes the wide scope instead.
+(2) As the previous example highlights the logical consequence relation used in supervaluational semantics is *global* as opposed to the more usual *local*. Local consequence states that *Γ* entails $A$ just in case every model that makes all of *Γ* true, likewise makes $A$ true — the quantifier takes the wide scope. By contrast, global consequence states that if every model makes all of *Γ* true, then every model makes $A$ true -the implication takes the wide scope instead.
 
 ### 2.3 Negative Semantics
 
@@ -199,8 +199,8 @@ Let us now turn to a negative structure, which is defined as follows:
 **Definition 11** (Negative structure $\mathcal{S}_{n}$). A *Negative structure* $\mathcal{S}_{n}$ is a pair $\langle\cD, \varphi\rangle$, where the following conditions are met:
 
 1. $\cD$ is a possibly empty set.
-2. $\varphi$ is a partial function such that:
-3. •  If a free individual variable $t$ is in the domain of $\varphi$, then for some $d \in \cD$, $\varphi(t) = d$.
+2. *φ* is a partial function such that:
+3. •  If a free individual variable $t$ is in the domain of *φ*, then for some $d \in \cD$, $\varphi(t) = d$.
 4. •  $\varphi(E!) = \cD_i$.
 5. •  For every $n$-ary predicate $P^n$: $\varphi(P^n) \subseteq \cD^n$.
 6. Every object in $\cD$ has a name in the formal language, i.e. if $d \in \cD$, then $d^\bullet$ (the standard-name of $d$) is in the language.
@@ -217,7 +217,7 @@ Let us now turn to a negative structure, which is defined as follows:
 
 **Example 3**.
 
-1. $\exists x(x = a)$ is not logically true. Let $\mathcal{S}_n$ be a negative structure with $D = \varnothing$, so no individual variable is in the domain of $\varphi$, so ${\mathcal V}_n(a = a) = \bot$ for all free individual variable, and so ${\mathcal V}_n(\exists x(x = a)) = \bot$.
+1. $\exists x(x = a)$ is not logically true. Let $\mathcal{S}_n$ be a negative structure with $D = \varnothing$, so no individual variable is in the domain of *φ*, so ${\mathcal V}_n(a = a) = \bot$ for all free individual variable, and so ${\mathcal V}_n(\exists x(x = a)) = \bot$.
 2. $P(a) \models \exists xP(x)$ is correct. Suppose it is not, then there is a $\mathcal{S}_n$ structure with ${\mathcal V}_n(P(a)) = \top$, and ${\mathcal V}_n(\exists xP(x)) = \bot$, which is impossible.
 3. $P(a) \to \exists xP(x)$ is logically true, using basically the same argument as before.
 4. $\forall xE!x$ is logically true. For any $\mathcal{S}_n$ with a non-empty domain the claim is obviously true; for any $\mathcal{S}_n$ structure with empty domain it is vacuously true due to clause 6 of definition 6.
@@ -226,7 +226,7 @@ Let us now turn to a negative structure, which is defined as follows:
 
 The approach of utilizing *generalized semantics* was introduced by Pavlović and Gratzl (2021) to facilitate meta-theory. In a nutshell, the idea of this approach is that for the proofs of soundness and completeness, a *description* of a model, rather than a full-blown model, will suffice. This allows for a simplified presentation of semantics (eschewing partial functions) and, given that it has a greater level of generality, can be applied to different particular semantic approaches. Great use of this feature of generalized semantics was made to offer a uniform picture of a variety of positive and negative free logics.
 
-**Definition 13** (Negative structure $\mathcal{S}_{n}$). *A negative structure* $\mathcal{S}_{n}$ is a pair $\langle\cD,\varphi\rangle$, where ${\mathcal D}=a_{1},\ldots, b_{1},\ldots$ countable list of free individual variables, and $\varphi$ an *interpretation function* on $\mathcal{L}:$
+**Definition 13** (Negative structure $\mathcal{S}_{n}$). *A negative structure* $\mathcal{S}_{n}$ is a pair $\langle\cD,\varphi\rangle$, where ${\mathcal D}=a_{1},\ldots, b_{1},\ldots$ countable list of free individual variables, and *φ* an *interpretation function* on $\mathcal{L}:$
 
 - $\varphi(t)=t$, where $t \in \cD$ (to emphasize its dual role we will abuse the notation slightly and write ${\mathcal D}$ as $\varphi(\cD)$)
 - $\varphi({E!})\subseteq \cD$
@@ -264,7 +264,7 @@ A similar investigation is offered for neutral free logics based on strong (Klee
 
 Even though there are multiple possible neutral free logics, there is good reason to see it as a single kind of logic, since the treatment of quantifiers does not vary between these interpretations, and the systems under consideration here vary only the type of implication used.
 
-**Definition 17** (Neutral structure $\mathcal{S}_{nt}$). A *neutral structure* $\mathcal{S}_{nt}$ is a pair $\langle\cD,\varphi\rangle$, where ${\mathcal D}=a_{1},\ldots, b_{1},\ldots$ countable list of free individual variables, and $\varphi$ an *interpretation function* on $\mathcal{L}:$
+**Definition 17** (Neutral structure $\mathcal{S}_{nt}$). A *neutral structure* $\mathcal{S}_{nt}$ is a pair $\langle\cD,\varphi\rangle$, where ${\mathcal D}=a_{1},\ldots, b_{1},\ldots$ countable list of free individual variables, and *φ* an *interpretation function* on $\mathcal{L}:$
 
 - $\varphi(t)=t$, where $t \in \cD$ (to emphasize its dual role we will abuse the notation slightly and write ${\mathcal D}$ as $\varphi(\cD)$)
 - $\varphi({E!})\subseteq \varphi(\cD)$,
@@ -288,7 +288,7 @@ Notice that the neutral structure here is presented as a negative structure in o
 4. $\notag {\mathcal V}^{3}( A\to B)= \begin{cases} \top, & \text{if}\ {\mathcal V}^{3}(A)=\bot \ or\ {\mathcal V}^{3}(B)=\top \\ \bot, & \text{if}\ {\mathcal V}^{3}(A)=\top\ and\ {\mathcal V}^{3}(B)=\bot\\ +, & \text{otherwise} \end{cases}$
 5. $\notag {\mathcal V}^{3}( \forall x A)= \begin{cases} \top, & \text{if for every } t\in \varphi({E!}), {\mathcal V}^{3}(A[t/x])=\top\\ \bot, & \text{if for some } t\in \varphi({E!}), {\mathcal V}^{3}(A[t/x])=\bot\\ +, & \text{otherwise} \end{cases}$
 
-When it comes to supervaluations of this generalized semantics, a completion of a neutral structure, $\varphi '$, is identical to $\varphi$ it completes, except that $\varphi'(P^n) \subseteq \varphi'(D)$ (therefore making it a positive structure) such that $\varphi(P^n) \subseteq \varphi'(P^n)$, and the valuations for atoms do not contain the case for $+$ (thus making it moot for logical symbols).
+When it comes to supervaluations of this generalized semantics, a completion of a neutral structure, $\varphi '$, is identical to *φ* it completes, except that $\varphi'(P^n) \subseteq \varphi'(D)$ (therefore making it a positive structure) such that $\varphi(P^n) \subseteq \varphi'(P^n)$, and the valuations for atoms do not contain the case for $+$ (thus making it moot for logical symbols).
 
 We again offer several examples, to illustrate both the functioning of the two systems, and also their differences.
 
@@ -363,7 +363,7 @@ $E!t \to (\forall x A \to A)$ follows from axiom 3 and logic, in the light of NF
 
 Most of the recent representations of a proof system for free logics has been in the form of sequent calculi. These approaches are favored for their transparency arising from locality — all the relevant information for evaluating an inference step is contained locally at within the point of application, as well as modularity — extensions do not alter the properties of the base system. For an overview of proof theory in general see the entry on proof theory, and for its history and the modern developments we utilize here see the entry on the development of proof theory.
 
-The basic unit of a sequent calculus is a *sequent* $\Gamma \Rightarrow \Delta$, where $\Gamma$ and $\Delta$ are finite multisets of (closed) formulas, intuitively understood as ``if everything left of the arrow holds, then something on the right of the arrow holds''. All the formulas except $\Gamma$ and $\Delta$ in the schematic presentation below are called *active* formulas of the rule if they occur only in the upper sequent(s) and *principal* if they occur in the lower sequent of the rule.
+The basic unit of a sequent calculus is a *sequent* $\Gamma \Rightarrow \Delta$, where *Γ* and $\Delta$ are finite multisets of (closed) formulas, intuitively understood as ``if everything left of the arrow holds, then something on the right of the arrow holds''. All the formulas except *Γ* and $\Delta$ in the schematic presentation below are called *active* formulas of the rule if they occur only in the upper sequent(s) and *principal* if they occur in the lower sequent of the rule.
 
 In this section we will present the sequent calculi for the bivalent positive and negative free logics with and without identity. The base is the classical propositional calculus G3cp:
 
@@ -453,11 +453,11 @@ The basic building block of the system is a (dual-)sequent of the form
 
 $$\Gamma\ |\ \Gamma' \Rightarrow \Delta\ |\ \Delta'$$
 
-where $\Gamma$, $\Gamma'$, $\Delta$ and $\Delta'$ are again multisets, which is notational variation of the generalized propositional sequent calculi for weak and strong Kleene in (Indrzejczak 2021b) (see also Bochman 1998; Degauquier 2016)[^bochman-1998][^degauquier-2016], extended to quantification.
+where *Γ*, $\Gamma'$, $\Delta$ and $\Delta'$ are again multisets, which is notational variation of the generalized propositional sequent calculi for weak and strong Kleene in (Indrzejczak 2021b) (see also Bochman 1998; Degauquier 2016)[^bochman-1998][^degauquier-2016], extended to quantification.
 
 The vertical bar ‘$|$’ is a structural comma (i.e. a structural conjunction between antecedents and a structural disjunction between succedents).
 
-In an implication format, the reading of this sequent is “if everything in $\Gamma$ is true and everything in $\Gamma'$ non-false, then either something in $\Delta$ is non-false or something in $\Delta'$ is true”, while in the negative-conjunction reading it states “it is not the case that everything in $\Gamma$ is true, everything in $\Delta$ is false, everything in $\Gamma'$ is non-false and everything in $\Delta'$ is non-true”.
+In an implication format, the reading of this sequent is “if everything in *Γ* is true and everything in $\Gamma'$ non-false, then either something in $\Delta$ is non-false or something in $\Delta'$ is true”, while in the negative-conjunction reading it states “it is not the case that everything in *Γ* is true, everything in $\Delta$ is false, everything in $\Gamma'$ is non-false and everything in $\Delta'$ is non-true”.
 
 **Quantifier rules:**
 
@@ -740,7 +740,7 @@ Whether such logics can legitimately be considered free is controversial. On old
 
 Historically, quantification over domains containing objects that do not exist has been widely dismissed as ontologically irresponsible. Quine (1948)[^quine-1948] famously maintained that existence is just what an existential quantifier expresses. Yet nothing forces us to interpret “existential” quantification over every domain as expressing existence—or being of any sort. Semantically, an existential quantifier on a variable $x$ is just a logical operator that takes open formulas on $x$ into truth values; the value is T if and only if the open formula is satisfied by at least one object in the quantifier’s domain. That the objects in the domain have or lack any particular ontological status is a philosophical interpretation of the formal semantics. Alex Orenstein (1990)[^orenstein-1990] argues that “existential” is a misnomer and that we should in general call such quantifiers “particular.” That suggestion is followed in the remainder of this section.
 
-Quantifiers ranging over the outer domain of a dual-domain semantics are called *outer quantifiers*, and those ranging over the inner domain *inner quantifiers*. If the inner particular quantifier is interpreted to mean “there exists” and the members of the outer domain are possibilia, then the outer particular quantifier may mean something like “there is possible a thing such that” or “for at least one possible thing.” We shall use the generalized product symbol ‘$\Pi$’ for the outer universal quantifier and the generalized sum symbol ‘$\Sigma$’ for its particular dual. This notation enables us to formalize, for example, the notoriously puzzling but obviously true statement ‘Some things don’t exist’ (Routley 1966)[^routley-1966] as:
+Quantifiers ranging over the outer domain of a dual-domain semantics are called *outer quantifiers*, and those ranging over the inner domain *inner quantifiers*. If the inner particular quantifier is interpreted to mean “there exists” and the members of the outer domain are possibilia, then the outer particular quantifier may mean something like “there is possible a thing such that” or “for at least one possible thing.” We shall use the generalized product symbol ‘*Π*’ for the outer universal quantifier and the generalized sum symbol ‘$\Sigma$’ for its particular dual. This notation enables us to formalize, for example, the notoriously puzzling but obviously true statement ‘Some things don’t exist’ (Routley 1966)[^routley-1966] as:
 
 $$ \Sigma x{\sim}\rE!x. $$
 

@@ -40,11 +40,11 @@ Here for set $X$, $suc(X)$ (the successor of $X)$ is defined as $X\cup \{X\}$. F
 
 **6. Separation schema:** $\forall a\exists x\forall y(y\in x \leftrightarrow y\in a \wedge \phi(y))$,   where $x$ is not free in $\phi(y)$.
 
-Given a set $A$, separation allows one to form a new set, all of whose elements are elements of $A$ and also satisfy a condition described by a formula $\phi$. This set is informally written as: $\{Y\in A : \phi(Y)\}$.
+Given a set $A$, separation allows one to form a new set, all of whose elements are elements of $A$ and also satisfy a condition described by a formula *φ*. This set is informally written as: $\{Y\in A : \phi(Y)\}$.
 
 **$6'$. Restricted separation schema:** This is the same as separation but holds for *bounded* formulas $\phi(y)$ only. A formula is *bounded* if all its quantifiers are bounded; *i.e.*, they occur only in one of the forms $\forall X\in Y$ or $\exists X\in Y$. Bounded formulas are also called restricted or $\Delta_0$-formulas. Accordingly, bounded separation is also called *restricted separation* or *$\Delta_0$ separation*.
 
-In *bounded* separation we require that if quantifiers occur in $\phi$, they do so only in bounded contexts. By so doing, we ensure that quantification acts on “previously” constructed sets only. We thus avoid impredicative contexts in which one quantifies on the whole universe of sets, also including the set under construction (see the section on Predicativity in constructive set theory of the main article).
+In *bounded* separation we require that if quantifiers occur in *φ*, they do so only in bounded contexts. By so doing, we ensure that quantification acts on “previously” constructed sets only. We thus avoid impredicative contexts in which one quantifies on the whole universe of sets, also including the set under construction (see the section on Predicativity in constructive set theory of the main article).
 
 **7. Collection schema:** $\forall a[\forall x\in a \exists y \phi(x,y) \rightarrow \exists b\forall x\in a \exists y\in b \phi(x,y)],$  for all formulas $\phi(x,y)$ where $b$ is not free in $\phi(x,y)$.
 
@@ -77,7 +77,7 @@ Compared with powerset, fullness can be seen as focusing on total relations, tha
 
 **9. $\in$-Induction:** $\forall a(\forall y\in a \phi(y) \rightarrow \phi(a)) \rightarrow \forall a \phi(a)$,   for every formula $\phi(a)$.
 
-Set induction allows us to induct on the membership relation. It states the following: suppose that for an arbitrary set $A$, whenever a property $\phi$ holds of all elements of $A$ then it propagates to $A$ itself; then we can conclude that the property $\phi$ holds of any set $A$.
+Set induction allows us to induct on the membership relation. It states the following: suppose that for an arbitrary set $A$, whenever a property *φ* holds of all elements of $A$ then it propagates to $A$ itself; then we can conclude that the property *φ* holds of any set $A$.
 
 This schema replaces ZF’s axiom of foundation whose usual formulation, as we have explained in the main document, is incompatible with set theories based on intuitionistic logic (for the argument see the supplementary document [Set theoretic principles incompatible with intuitionistic logic](set-theory-constructive.incompatible-set-axs.md).)
 
@@ -107,11 +107,11 @@ We also note that on the basis of CZF minus subset collection, subset collection
 
 We here recall the principles of **Countable** and **Dependent Choice**.
 
-Let $\omega$ denote the set of natural numbers (which exists by the infinity axiom). Countable Choice, **AC$_0$**, is the following principle (for any $\psi)$:
+Let *ω* denote the set of natural numbers (which exists by the infinity axiom). Countable Choice, **AC$_0$**, is the following principle (for any $\psi)$:
 
 $\forall x \in \omega \exists y \in v \psi(x,y) \rightarrow (\exists f: \omega \rightarrow v) \forall x \in \omega \psi(x,f(x))$,
 
-where $f: \omega \rightarrow v$ is an abbreviation for a formal statement expressing the fact that $f$ is a function with domain $\omega$ and range contained in $v$.
+where $f: \omega \rightarrow v$ is an abbreviation for a formal statement expressing the fact that $f$ is a function with domain *ω* and range contained in $v$.
 
 Dependent choice, $\mathbf{DC}$, is the following statement (for any $\psi)$:
 
