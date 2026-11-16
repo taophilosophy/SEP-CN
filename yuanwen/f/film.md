@@ -69,9 +69,9 @@ Films are the product of many individuals working together. This is apparent whe
 
 It might therefore seem surprising that there is a significant tendency among film scholars to treat films as the product of a single individual, its *auteur* or author. On this line of interpretation, the director of the film is the creative intelligence who shapes the entire film in a manner parallel to how we think of, say, literary works being authored.
 
-The idea of the director as *auteur* was first suggested by François Truffaut—later to become one of the central directors in the French New Wave. Truffaut used the term polemically to denigrate the then dominant mode of filmmaking that emphasized the adaptation of great works of literature to the screen. In the attempt to valorize a different style of filmmaking, Truffaut argued that the only films that deserved to be designated art were those in which the director had complete control over its production by writing the screenplay as well as actually directing the actors. Only films made in this way deserved to be given the status of works of art.
+The idea of the director as *auteur* was first suggested by Francois Truffaut—later to become one of the central directors in the French New Wave. Truffaut used the term polemically to denigrate the then dominant mode of filmmaking that emphasized the adaptation of great works of literature to the screen. In the attempt to valorize a different style of filmmaking, Truffaut argued that the only films that deserved to be designated art were those in which the director had complete control over its production by writing the screenplay as well as actually directing the actors. Only films made in this way deserved to be given the status of works of art.
 
-The well-known American film scholar and reviewer, Andrew Sarris, adopted Truffaut’s theory in order to legitimate film studies as an academic discipline. For Sarris, the *auteur* theory was a theory of film evaluation, for it suggested to him that the works of great directors were the only significant ones. In his somewhat idiosyncratic use of the idea, he even argued that the flawed works of major directors were artistically better than masterpieces made by minor ones. A more defensible aspect of his ideas was the emphasis on the entire *oeuvre* of a director. Within film studies, the emphasis on synoptic studies of individual directors is derived from Sarris’ version of the *auteur* theory.
+The well-known American film scholar and reviewer, Andrew Sarris, adopted Truffaut’s theory in order to legitimate film studies as an academic discipline. For Sarris, the *auteur* theory was a theory of film evaluation, for it suggested to him that the works of great directors were the only significant ones. In his somewhat idiosyncratic use of the idea, he even argued that the flawed works of major directors were artistically better than masterpieces made by minor ones. A more defensible aspect of his ideas was the emphasis on the entire *ouvre* of a director. Within film studies, the emphasis on synoptic studies of individual directors is derived from Sarris’ version of the *auteur* theory.
 
 A negative consequence of the influence of *auterism* is the relative neglect of other important contributors to the making of a film. Actors, cinematographers, screenwriters, composers, and art directors all make significant contributions to films that the *auteur* theory underestimates. While Truffaut introduced the term polemically to support a new style of filmmaking, subsequent theorists have tended to ignore the context of his remarks.
 
@@ -143,7 +143,7 @@ Now, however, there is an ongoing debate about the philosophical capacity of fil
 
 Opponents to this point of view have pointed to a number of different ways in which films can do philosophy. Foremost among these is the thought experiment. Thought experiments involve imaginary scenarios in which readers are asked to imagine what things would be like if such-and-such were the case. Those who think that films can actually do philosophy point out that fiction films can function as philosophical thought experiments and thus qualify as philosophical (See Wartenberg 2007)[^wartenberg-2007]. Many films have been suggested as candidates for doing philosophy, including the Wachowski’s 1999 hit *The Matrix*, a film that has engendered more philosophical discussion than any other film, *Memento* (2000), and *Eternal Sunshine of the Spotless Mind* (2004).
 
-Philosophers have also begun to pay attention to a strand of avant-garde filmmaking known as *structural* films. These films are analogues to minimalism in the other arts and thus give rise to the question of whether they are not actual experiments that seek to show necessary criteria for something being a film. If this view is accepted, then these films—examples include *The Flicker* (1995) and *Serene Velocity* (1970)—could be seen as making a contribution to philosophy by identifying such putative necessary features of films. This view, while adopted by Nöel Carroll (See Carroll and Choi 2005; Thomas Wartenberg 2007)[^carroll-2005][^wartenberg-2007], has also been criticized on similar grounds to those used to deny the philosophical potential of fiction films, namely that films cannot actually do the “hard work” of philosophy.
+Philosophers have also begun to pay attention to a strand of avant-garde filmmaking known as *structural* films. These films are analogues to minimalism in the other arts and thus give rise to the question of whether they are not actual experiments that seek to show necessary criteria for something being a film. If this view is accepted, then these films—examples include *The Flicker* (1995) and *Serene Velocity* (1970)—could be seen as making a contribution to philosophy by identifying such putative necessary features of films. This view, while adopted by Nöel Carroll (See Carroll and Choi 2006; Thomas Wartenberg 2007)[^wartenberg-2007], has also been criticized on similar grounds to those used to deny the philosophical potential of fiction films, namely that films cannot actually do the “hard work” of philosophy.
 
 Philosophers working in the Continental tradition have advocated a more sweeping account of film’s contribution to philosophy. Indeed, the term "film-philosophy" has been introduced to refer to the allegedly new form of philosophizing that takes place on film. (See Sinnerbrink 2011 for a discussion of this idea.)[^sinnerbrink-2011]
 
@@ -181,11 +181,11 @@ aesthetics: aesthetic judgment | digital art, philosophy of | emotion
 
 [^arnheim-1957]: Arnheim, Rudolf, 1957. *Film as Art*, Berkeley: University of California Press.
 
-[^badiou-2013]: Badiou, Alain, 2013. *Cinema*, Cambridge: Polity.
+[^badiou-2013]: Badiou, Alain, 2013. *Film Fables*, Cambridge: Polity.
 
-[^bazin-1967]: Bazin, André, 1967 and 1971. *What is Cinema?*, 2 volumes, Hugh Gray (tr.), Berkeley: University of California Press.
+[^bazin-1967]: Bazin, André, 1967 and 1971. *What is Cinema?*, 2 volumes, Hugh Grey (tr.), Berkeley: University of California Press.
 
-[^bordwell-1996]: Bordwell, David, and Nöel Carroll. 1996. *Post-Theory: Reconstructing Film Studies*, Madison: University of Wisconsin Press.
+[^bordwell-1996]: Bordwell, David, and Nöell Carroll. 1996. *Post-Theory: Reconstructing Film Studies*, Madison: University of Wisconsin Press.
 
 [^carel-2011]: Carel, Havi, and Greg Tuck, 2011. *New Takes in Film-Philosophy*, Basingstoke, UK: Palgrave Macmillan.
 
@@ -219,7 +219,7 @@ aesthetics: aesthetic judgment | digital art, philosophy of | emotion
 
 [^falzon-2014]: Falzon, Christopher, 2014. *Philosophy Goes to the Movies: An Introduction to Philosophy, 3rd Edition*, Abingdon, UK: Routledge.
 
-[^frampton-2006]: Frampton, Daniel, 2006. *Filmosophy*, London: Wallflower Press.
+[^frampton-2006]: Frampton, Daniel, 2006. *Filmospohy*, London: Wallflower Press.
 
 [^freeland-1995]: Freeland, Cynthia A., and Thomas E. Wartenberg, 1995. *Philosophy and Film*, New York: Routledge.
 
@@ -233,7 +233,7 @@ aesthetics: aesthetic judgment | digital art, philosophy of | emotion
 
 [^jarvie-1987]: Jarvie, Ian, 1987. *Philosophy of the Film*, New York: Routledge & Kegan Paul.
 
-[^kracauer-1960]: Kracauer, Siegfried, 1960. *Theory of Film: The Redemption of Physical Reality*, New York: Oxford University Press.
+[^krakauer-1960]: Krakauer, Siegfried, 1960. *Theory of Film: The Redemption of Physical Reality*, New York: Oxford University Press.
 
 [^kupfer-1999]: Kupfer, Joseph H., 1999. *Visions of Virtue in Popular Film*, Boulder: Westview Press.
 
@@ -247,9 +247,9 @@ aesthetics: aesthetic judgment | digital art, philosophy of | emotion
 
 [^münsterberg-1916]: Münsterberg, Hugo, 1916. *The Photoplay: A Psychological Study*, New York: D. Appleton and Company.
 
-[^plantinga-1999]: Plantinga, Carl, and Murray Smith (eds.), 1999. *Passionate Views: Film, Cognition, and Emotion*, Baltimore: Johns Hopkins University Press.
+[^plantinga-1999]: Plantinga, Carl, and Grey M. Smith (eds.), 1999. *Passionate Views: Film, Cognition, and Emotion*, Baltimore: Johns Hopkins University Press.
 
-[^rancière-2006]: Rancière, Jacques, 2006. *Film Fables (Talking Images)*, London: Bloomsbury Academic.
+[^ranciere-2006]: Ranciere, Jacques, 2006. *Film Fables (Talking Images)*, London: Bloomsbury Academic.
 
 [^read-2005]: Read, Rupert, and Jerry Goodenough, 2005. *Film as Philosophy: Essays on Cinema After Wittgenstein and Cavell*, London: Palgrave-MacMillan.
 

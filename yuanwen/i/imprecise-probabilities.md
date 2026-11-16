@@ -382,9 +382,9 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^al-najjar-2009]: Al-Najjar, Nabil I., and Jonathan Weinstein, 2009, “The Ambiguity Aversion Literature: A Critical Assessment”, *Economics and Philosophy*, 25: 249–284.
 
-[^augustin-2014]: Augustin, Thomas, Frank P.A. Coolen, Gert de Cooman, and Matthias C.M. Troffaes (eds), 2014, *Introduction to Imprecise Probabilities*, New York: John Wiley and Sons.
+[^augustin-2014]: Augustin, Thomas, Frank P.A. Coolen, Gert de Cooman, and Matthias C.M. Troffaes (eds), 2014, *Introduction to Imprecise Probabilities*, John Wiley and Sons. New York.
 
-[^benétreau-dupin-2015]: Benétreau-Dupin, Yann, 2015, “The Bayesian who knew too much”, *Synthese*, 192(5): 1527–1542.
+[^benétreau-dupin-2015]: Benétreau-Dupin, Yann, 2015, “The Bayesian who knew too much”, *Synthese*, 192:5 1527–1542.
 
 [^binmore-2012]: Binmore, Ken and Lisa Stewart and Alex Voorhoeve, 2012, “How much ambiguity aversion? Finding indifferences between Ellsberg’s risk and ambiguous bets”, *Journal of Risk and Uncertainty*, 45: 215–238.
 
@@ -402,15 +402,15 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^bradley-2015]: Bradley, Seamus, 2015, “How to choose among choice functions”, *Proceedings of the Ninth International Symposium on Imprecise Probability: Theories and Applications*, 57–66 URL = <[http://www.sipta.org/isipta15/data/paper/9.pdf](http://www.sipta.org/isipta15/data/paper/9.pdf)>.
 
-[^bradley-2016]: –––, 2016, “Vague chance?”, *Ergo*, 3: 20.
+[^bradley-2016]: –––, 2016, “Vague chance?”, *Ergo*, 3:20
 
-[^bradley-2019]: –––, 2019, “A counterexample to three imprecise decision theories”, *Theoria*, 85(1): 18–30.
+[^bradley-2019]: –––, 2019, “A counterexample to three imprecise decision theories”, *Theoria*, 85:1 18–30
 
 [^bradley-2014a]: Bradley, Seamus, and Katie Steele, 2014a, “Should Subjective Probabilities be Sharp?” *Episteme*, 11: 277–289.
 
 [^bradley-2014b]: –––, 2014b, “Uncertainty, Learning and the ‘Problem’ of Dilation”, *Erkenntnis*. 79: 1287–1303.
 
-[^bradley-2016-2]: –––, 2016, “Can free evidence be bad? Value of information for the imprecise probabilist”, *Philosophy of Science*, 83(1): 1–28.
+[^bradley-2016-2]: –––, 2016, “Can free evidence be bad? Value of information for the imprecise probabilist”, *Philosophy of Science*, 83:1 1–28
 
 [^brady-2012]: Brady, Michael and Rogério Arthmar, 2012, “Keynes, Boole and the interval approach to probability”, *History of Economic Ideas*, 20:3 65–84.
 
@@ -424,7 +424,7 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^camerer-1992]: Camerer, Colin, and Martin Weber, 1992, “Recent Developments in Modeling Preferences: Uncertainty and Ambiguity”, *Journal of Risk and Uncertainty*, 5: 325–370.
 
-[^carr-2015]: Carr, Jennifer, 2015, “Chancy accuracy and imprecise credence”, *Philosophical Topics*, 29: 67–81.
+[^carr-2015]: Carr, Jennifer, 2015 “Chancy accuracy and imprecise credence”, *Philosophical Topics* 29 67–81.
 
 [^castro-nd]: Castro, Clinton and Casey Hart, forthcoming, “The imprecise impermissivists dilemma”, *Synthese*.
 
@@ -452,7 +452,7 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^elga-2010]: Elga, Adam, 2010, “Subjective Probabilities should be Sharp”, *Philosophers’ Imprint*, 10.
 
-[^elkin-2016]: Elkin, Lee and Gregory Wheeler, 2016, “Resolving peer disagreements through imprecise probabilities”, *Noûs*, 52(2): 260–278.
+[^elkin-2016]: Elkin, Lee and Gregory Wheeler, 2016 “Resolving peer disagreements through imprecise probabilities”, *Noûs*, 52:2 260–278.
 
 [^ellsberg-1961]: Ellsberg, Daniel, 1961, “Risk, ambiguity and the Savage axioms”, *Quarterly Journal of Economics*, 75: 643–696.
 
@@ -460,15 +460,15 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^evren-2011]: Evren, Özgür, and Efe Ok, 2011, “On the multi-utility representation of preference relations”, *Journal of Mathematical Economics*, 47: 554–563.
 
-[^ferson-1996]: Ferson, Scott and Lev R. Ginzburg, 1996, “Different methods are needed to propagate ignorance and variability”, *Reliability Engineering and System Safety*, 54: 133–144.
+[^ferson-1996]: Ferson, Scott and Lev R. Ginzburg,1996, “Different methods are needed to propagate ignorance and variability”, *Reliability Engineering and System Safety*, 54 133–144.
 
-[^ferson-2004]: Ferson, Scott and Janos G. Hajagos, 2004, “Arithmetic with uncertain numbers: Rigorous and (often) best possible answers”, *Reliability Engineering and System Safety*, 85: 135–152.
+[^ferson-2004]: Ferson, Scott and Janos G. Hajagos, 2004, “Arithmetic with uncertain numbers: Rigorous and (often) best possible answers”, *Reliability Engineering and System Safety*, 85 135–152.
 
 [^fine-1973]: Fine, Terrence L., 1973, *Theories of Probability: An Examination of Foundations*, Academic Press. New York.
 
 [^fine-1988]: –––, 1988, “Lower Probability Models for Uncertainty and Nondeterministic Processes”, *Journal of Statistical Planning and Inference*, 20: 389–411.
 
-[^finetti-1964]: de Finetti, Bruno, 1964, “Foresight: Its Logical Laws, Its Subjective Sources”, in *Studies in Subjective Probability*, Henry E. Kyburg and Howard E. Smokler (eds), 97–158, New York: Wiley.
+[^finetti-1964]: de Finetti, Bruno, 1964, “Foresight: Its Logical Laws, Its Subjective Sources”, in *Studies in Subjective Probability Studies in Subjective Probability*, Henry E. Kyburg and Howard E. Smokler (eds), 97–158, Wiley. New York.
 
 [^finetti-1990]: –––, 1990 [1974], *Theory of Probability*, Wiley Classics Library, Vol. 1, Wiley. New York.
 
@@ -494,7 +494,7 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^glymour-1980]: Glymour, Clark, 1980, “Why I am not a Bayesian”, in *Theory and Evidence*, 63–93. Princeton University Press. Princeton.
 
-[^gong-2017]: Gong, Ruobin and Xiao-Li Meng, 2017, “Judicious judgment meets unsettling update: dilation, sure loss and Simpson’s paradox”, URL = <[https://arxiv.org/abs/1712.08946](https://arxiv.org/abs/1712.08946)>.
+[^gong-2017]: Gong, Ruobin and Xiao-Li Meng, 2017 “Judicious judgment meets unsettling update: dilation, sure loss and Simpson’s paradox”, URL = <[https://arxiv.org/abs/1712.08946](https://arxiv.org/abs/1712.08946)>.
 
 [^good-1962]: Good, Irving John, 1962, “Subjective probability as the measure of a non-measurable set”, in *Logic, Methodology and Philosophy of Science: Proceedings of the 1960 International Congress*, 319–329.
 
@@ -502,7 +502,7 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^good-1974]: –––, 1974, “A little learning can be dangerous”, *British Journal for the Philosophy of Science*, 25: 340–342.
 
-[^good-1983]: –––, 1983 [1971], “Twenty-Seven principles of rationality”, in *Good Thinking: The Foundations of Probability and its Applications*, 15–19. Minneapolis: University of Minnesota Press.
+[^good-1983]: –––, 1983 [1971], “Twenty-Seven principles of rationality”, in *Good Thinking: The Foundations of Probability and its Applications Good Thinking: The Foundations of Probability and its Applications*, 15–19. University of Minnesota Press. Minnesota.
 
 [^grize-1987]: Grize, Yves L., and Terrence L. Fine, 1987, “Continuous Lower Probability-Based Models for Stationary Processes with Bounded and Divergent Time Averages”, *The Annals of Probability*, 15: 783–803.
 
@@ -524,7 +524,7 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^harsanyi-1955]: Harsanyi, John, 1955, “Cardinal welfare, individualistic ethics and interpersonal comparisons of utility”, *Journal of Political Economy*, 63: 309–321.
 
-[^hart-2015]: Hart, Casey and Michael Titelbaum, 2015, “Intuitive dilation?”, *Thought*, 4: 252–262.
+[^hart-2015]: Hart. Casey and Michael Titelbaum, 2015 “Intuitive dilation?”, *Thought*, 4 252–262.
 
 [^hartmann-2010]: Hartmann, Stephan, and Patrick Suppes, 2010, “Entanglement, Upper Probabilities and Decoherence in Quantum Mechanics”, in *EPSA Philosophical Issues in the Sciences: Launch of the European Philosophy of Science Association*, Mauricio Suárez, Mauro Dorato, and Miklós Rédei (eds), 93–103, Springer.
 
@@ -574,7 +574,7 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^keynes-1921]: Keynes, J. M., 1921, *A Treatise on Probability*, Macmillan. London.
 
-[^konek-nd]: Konek, Jason, forthcoming, “Epistemic conservativity and imprecise credence”, *Philosophy and Phenomenological Research*.
+[^konek-nd]: Konek, Jason, forthcoming “Epistemic conservativity and imprecise credence”, *Philosophy and Phenomenological Research*
 
 [^koopman-1940]: Koopman, B. O., 1940, “The Bases of Probability”, *Bulletin of the American Mathematical Society*, 46: 763–774.
 
@@ -614,19 +614,19 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^loewer-2001]: Loewer, B., 2001, “Determinism and chance”, *Studies in the History and Philosophy of Modern Physics*, 32: 609–620.
 
-[^lyon-2017]: Lyon, Aidan, 2017, “Vague Credences”, *Synthese*, 194(10): 3931–3954.
+[^lyon-2017]: Lyon, Aidan, 2017, “Vague Credences”, *Synthese*, 194:10 3931–3954.
 
 [^machina-1989]: Machina, Mark J., 1989, “Dynamic Consistency and Non-Expected Utility Models of Choice Under Uncertainty”, *Journal of Economic Literature*, 27: 1622–1668.
 
-[^mayo-wilson-2016]: Mayo-Wilson, Conor and Gregory Wheeler, 2016, “Scoring imprecise credences: a mildly immodest proposal”, *Philosophy and Phenomenological Research*, 93(1): 55–78.
+[^mayo-wilson-2016]: Mayo-Wilson, Conor and Gregory Wheeler, 2016, “Scoring imprecise credences: a mildly immodest proposal”, *Philosophy and Phenomenological Research*, 93:1 55–78.
 
 [^meacham-2011]: Meacham, Christopher, and Jonathan Weisberg, 2011, “Representation Theorems and the Foundations of Decision Theory”, *Australasian Journal of Philosophy*, 89: 641–663.
 
-[^miranda-2008]: Miranda, Enrique, 2008, “A survey of the theory of coherent lower previsions”, *International Journal of Approximate Reasoning*, 48: 628–658.
+[^miranda-2008]: Miranda, Enrique, 2008, “A survey of the theory of coherent lower previsions”, *International Journal of Approcimate Reasoning*, 48: 628–658.
 
 [^miranda-2014]: Miranda, Enrique, and Gert de Cooman, 2014, “Lower previsions”, in Augustin et al. 2014, pp. 28–55.
 
-[^moss-2015]: Moss, Sarah, 2015, “Credal Dilemmas”, *Noûs*, 49(4): 665–683.
+[^moss-2015]: Moss, Sarah, 2015, “Credal Dilemmas”, *Noûs*, 49:4 665–683.
 
 [^norton-2007]: Norton, John, 2007, “Probability disassembled”, *British Journal for the Philosophy of Science*, 58: 141–171.
 
@@ -654,7 +654,7 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^rinard-2015]: –––, 2015, “A decision theory for imprecise probabilities”, *Philosophers’ Imprint*, 15 1–16.
 
-[^ruggeri-2005]: Ruggeri, Fabrizio, David Ríos and Jacinto Martín, 2005, “Robust Bayesian analysis”, *Handbook of Statistics*, 25: 623–667, Amsterdam: Elsevier.
+[^ruggeri-2005]: Ruggeri, Fabrizio, David Ríos and Jacinto Martín, 2005, “Robust Bayesian analysis”, *Handbook of Statistics*, 25 623–667, Elsevier. Amsterdam
 
 [^sahlin-2014]: Sahlin, Nils-Eric, and Paul Weirich, 2014, “Unsharp Sharpness”, *Theoria*, 80: 100–103.
 
@@ -668,7 +668,7 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^schoenfield-2012]: Schoenfield, Miriam, 2012, “Chilling out on epistemic rationality”, *Philosophical Studies*, 158: 197–219.
 
-[^schoenfield-2017]: –––, 2017, “The accuracy and rationality of imprecise credence”, *Noûs*, 51(4): 667–685.
+[^schoenfield-2017]: –––, 2017, “The accuracy and rationality of imprecise credence”, *Noûs*, 51:4 667–685.
 
 [^seidenfeld-1988]: Seidenfeld, Teddy, 1988, “Decision theory without ‘independence’ or without ‘ordering’. What’s the difference?” *Economics and Philosophy*: 267–290.
 
@@ -700,7 +700,7 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^steele-2007]: Steele, Katie, 2007, “Distinguishing indeterminate belief from ‘risk averse’ preference”, *Synthese*, 158: 189–205.
 
-[^stewart-2018]: Stewart, Rush T. and Ignacio Ojea Quintana, 2018, “Probabilistic opinion pooling with imprecise probabilities”, *Journal of Philosophical Logic*, 47(1): 17–45.
+[^stewart-2018]: Stewart, Rush T. and Ignacio Ojea Quintana, 2018 “Probabilistic opinion pooling with imprecise probabilities”, *Journal of Philosophical Logic*, 47:1 17–45.
 
 [^sturgeon-2008]: Sturgeon, Scott, 2008, “Reason and the grain of belief”, *Noûs*, 42: 139–165.
 
@@ -714,19 +714,19 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^topey-2012]: Topey, Brett, 2012, “Coin flips, credences and the Reflection Principle”, *Analysis*, 72: 478–488.
 
-[^trautmann-2016]: Trautmann, Stefan and Gijs van de Kuilen, 2016, “Ambiguity Attitudes”, *Blackwell Handbook of Judgement and Decision-Making*, 89–116.
+[^trautmann-2016]: Trautmann, Stefan and Guijs van der Kuilen, 2016 “Ambiguity Attitudes”, *Blackwell Handbook of Judgement and Decision-Making*, 89–116.
 
 [^troffaes-2007]: Troffaes, Matthias, 2007, “Decision Making under Uncertainty using Imprecise Probabilities”, *International Journal of Approximate Reasoning*, 45: 17–29.
 
 [^troffaes-2014]: Troffaes, Matthias, and Gert de Cooman, 2014, *Lower Previsions*, Wiley. New York.
 
-[^vallinder-2018]: Vallinder, Aron, 2018 “Imprecise Bayesianism and global belief inertia”, *British Journal for the Philosophy of Science*, 69(4): 1205–1230.
+[^vallinder-2018]: Vallinder, Aron, 2018 “Imprecise Bayesianism and global belief inertia”, *British Journal for the Philosophy of Science*, 69:4 1205–1230.
 
 [^vicig-2007]: Vicig, Paolo, Marco Zaffalon, and Fabio G. Cozman, 2007, “Notes on ‘Notes on conditional previsions’”, *International Journal of Approximate Reasoning*, 44: 358–365.
 
 [^vicig-2012]: Vicig, Paolo, and Teddy Seidenfeld, 2012, “Bruno de Finetti and imprecision: Imprecise Probability Does not Exist!” *International Journal of Approximate Reasoning*, 53: 1115–1123.
 
-[^voorhoeve-2016]: Voorhoeve, Alex, Ken Binmore, Arnaldur Stefansson and Lisa Stewart, 2016, “Ambiguity attitudes, framing and consistency”, *Theory and Decision*, 81(3): 313–337.
+[^voorhoeve-2016]: Voorhoeve, Alex, Ken Binmore, Arnaldur Stefansson and Lisa Stewart,2016 “Ambiguity attitudes, framing and consistency”, *Theory and Decision*, 81:3 313–337.
 
 [^walley-1991]: Walley, Peter, 1991, *Statistical Reasoning with Imprecise Probabilities*, *Monographs on Statistics and Applied Probability*, Vol. 42. Chapman and Hall. London.
 
@@ -740,13 +740,13 @@ Many thanks to Teddy Seidenfeld, Greg Wheeler, Paul Pedersen, Aidan Lyon, Catrin
 
 [^wheeler-2014]: Wheeler, Gregory, 2014, “Character matching and the Locke pocket of belief”, in *Epistemology, Context and Formalism*, Franck Lihoreau and Manuel Rebuschi (eds), 185–194, Synthese Library. Dordrecht.
 
-[^wheeler-2011]: Wheeler, Gregory, and Jon Williamson, 2011, “Evidential Probability and Objective Bayesian Epistemology”, in *Philosophy of Statistics*, Prasanta S. Bandyopadhyay and Malcolm Forster (eds), 307–332, North-Holland. Amsterdam.
+[^wheeler-2011]: Wheeler, Gregory, and Jon Williamson, 2011, “Evidential Probability and Objective Bayesian Epistemology”, in *Philosophy of Statistics*, Prasanta S. Bandyopadhyay and Malcom Forster (eds), 307–332, North-Holland. Amsterdam.
 
 [^white-2010]: White, Roger, 2010, “Evidential Symmetry and Mushy Credence”, in *Oxford Studies in Epistemology*, T. Szabo Gendler and J. Hawthorne (eds), 161–186, Oxford University Press.
 
 [^williams-2014]: Williams, J. Robert G., 2014, “Decision-making under indeterminacy”, *Philosophers’ Imprint*, 14: 1–34.
 
-[^williams-1976]: Williams, P. M., 1976, “Indeterminate Probabilities”, in *Formal Methods in the Methodology of Empirical Sciences*, Marian Przełęcki, Klemens Szaniawski, and Ryszard Wójcicki (eds), 229–246, D. Reidel Publishing Company.
+[^williams-1976]: Williams, P. M., 1976, “Indeterminate Probabilities”, in *Formal Methods in the Methodology of Empirical Sciences*, Marian Przelęcki, Klemens Szaniawski, and Ryszard Wójcicki (eds), 229–246, D. Reidel Publishing Company.
 
 [^williams-2007]: –––, 2007, “Notes on conditional previsions”, *International Journal of Approximate Reasoning*, 44: 366–383.
 

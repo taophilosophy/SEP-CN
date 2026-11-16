@@ -219,13 +219,13 @@ Buridan, John [Jean] | causation: medieval theories of | Gregory of Rimini | Ock
 
 [^marsilius-2024]: Marsilius of Inghen [SE4], *Quaestiones super quattuor libros Sententiarum: Super tertium, quaestiones 1–5* , H. Wojtczak and M. Stanek (eds.), Studies in the History of Christian Thought, Volume 199, Leiden: Brill, 2024.
 
-[^marsilius-2014]: Marsilius of Inghen [ISA], *Quaestiones super Isagogen Porphyrii*, ed. H. Wojtczak, Lublin: Towarzystwo Naukowe KUL, 2014.
+[^marsilius-2014]: Marsilius of Inghen [ISA]*, Quaestiones super Isagogen Porphyrii*, ed. H. Wojtczak, Lublin: Towarzystwo Naukowe KUL, 2014.
 
 [^marsilius-2008]: Marsilius of Inghen [PRA], *Quaestiones super librum Praedicamentorum Aristotelis*, ed. H. Wojtczak, Lublin: Towarzystwo Naukowe KUL, 2008.
 
 [^marsilius-1983]: Marsilius of Inghen [TPT], *Treatises on the Properties of Terms*. A First Critical Edition of the Suppositiones, Ampliationes, Appellationes, Restrictiones and Alienationes with Introduction, Translation, Notes, and Appendices, E. P. Bos (ed.), Synthese Historical Library, Volume 22, Dordrecht: D. Reidel, 1983.
 
-[^bakker-2002]: Bakker, P. J. J. M., 2002, “Inhérence, univocité et séparabilité des accidents eucharistiques”, in *La servante et la consolatrice: La philosophie dans des rapports avec la théologie au Moyen Âge*, J.-L. Solère and Z. Kaluza (eds.), Textes et Traditions, Volume 3, Paris: Vrin, 193–245 [contains partial editions of works of Buridan and Marsilius].
+[^bakker-2002]: Bakker, P. J. J. M., 2002, “Inhérence, univocité et séparabilité des accidents eucharistiques”, in *La servante et la consolatrice: La philosophie dans des rapports avec la théologie au Moyen Âge*, J.-L- Solère and Z. Kaluza (eds.), Textes et Traditions, Volume 3, Paris: Vrin, 193–245 [contains partial editions of works of Buridan and Marsilius].
 
 [^bakker-2000]: –––, 2000, “Aristotelian Metaphysics and Eucharistic Theology: John Buridan and Marsilius of Inghen on the Ontological Status of Accidental Being”, in *The Metaphysics and Natural Philosophy of John Buridan*, J.M.M.H. Thijssen and J. Zupko (eds.), Medieval and Early Modern Science, Volume 2, Leiden: Brill, 247–264.
 
@@ -271,9 +271,9 @@ Buridan, John [Jean] | causation: medieval theories of | Gregory of Rimini | Ock
 
 [^ritter-1921]: Ritter, G., 1921, *Studien zur Spätscholastik I: Marsilius von Inghen und die okkamistische Schule in Deutschland*, Heidelberg: Winter.
 
-[^tatarzynski-1979]: Tatarzynski, R., 1979, “Le commentaire à la Metaphysique d’Aristote attribué à Jean de Slupcza. Le choix des questions relatives à la causalité,” *Mediaevalia Philosophica Polonorum*, 24: 133–168.
+[^tatarzynski-1979]: Tatarzynski, R., 1979, “Le commentaire à la Metaphysique d’Aristote attribué à Jean de Slupcza. La choix des questions relatives à la causasalité,” *Mediaevalia Philosophica Polonorum*, 24: 133–168.
 
-[^walz-2008]: Walz, D., and R. Düchting (eds.), 2008, *Marsilius von Inghen. Gedenkschrift 1499 zum einhundertsten Todestag des Gründungsrektors der Universität Heidelberg*, Heidelberg: Mattes.
+[^walz-2008]: Walz, D., and R. Düchting (eds.), 2008, *Marsilius von Inghen. Gedenkschrift 1499 zum einhundertsten Todestag des Gr[special-character:uumlndungsrektors der Universität Heidelberg*, Heidelberg: Mattes.
 
 [^wielgus-1993]: Wielgus, S. (ed.), 1993, *Marsilius von Inghen: Werk und Wirkung: Akten des Zweiten Internationalen Marsilius-von-Inghen-Kongresses*, Lublin: Red. Wydawn. KUL [contains partial editions of works of Marsilius].
 

@@ -223,7 +223,7 @@ The editors are grateful to Jasper Pirasteh for his help in correcting a number 
 
 [^levin-1985]: Levin, I., 1985, *Abraham Ibn Ezra Reader: Annotated texts with Introductions and Commentaries*, New York and Tel Aviv: Israel Matz.
 
-[^sela-2007]: Sela, S., 2007, *Abraham Ibn Ezra: The Book of Reasons. A Parallel Hebrew-English Critical Edition of the Two Versions of the Text*, Leiden: Brill
+[^sela-2007]: Sela, S., 2007, *Abraham Ibn Ezra: The Book of Reasons. A Parallel Hebrew-English Crirical Edition of the Two Versions of the Text*, Leiden: Brill
 
 [^sela-2010]: –––, 2010, *The Book of the world. A parallel hebrew-english critical edition of the two versions of the text.*, Leiden: Brill
 

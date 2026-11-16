@@ -71,7 +71,7 @@ Population dynamics, sometimes referred to as “replicator dynamics”, offers 
 
 Population dynamics models the evolution of populations. A population is a collection of individuals, which are categorized according to type. The types in genetics are genes, in evolutionary game theory, strategies. The types of interest in epistemological models would be types of cognitive apparatuses, or cognitive strategies — ways of responding to environmental cues, ways of manipulating representations, and so forth. Roughly, EEM models focus on the inherited and EET models focus on the learned. The evolution of the population consists in changes of the relative frequency of the different types within the population. Selection, typified by differential reproductive success, is represented as follows. Each type has a growth rate or “fitness”, designated by $w$, and a frequency designated by $p$. The frequency of type $i$ at the next generation $p'_i$ is simply the old frequency multiplied by the fitness and divided by the mean fitness of the population “$\overline{w}$”.
 
-$$p'_i = \frac{p_i \cdot w_i}{\overline{w}} $$
+$$p'_i = p_i \cdot w_i \frasl \overline{w} $$
 
 Division by $\overline{w}$ has the effect of “normalizing” the frequencies, so that they add up to one after each is multiplied by its fitness. It also makes evident that the frequency of a type will increase just in case its fitness is higher than the current population average.
 
@@ -206,7 +206,7 @@ epistemology: naturalism in | evolution: cultural | game theory: evolutionary | 
 
 [^campbell-1974b]: –––, 1974b, “Unjustified Variation and Selective Retention in Scientific Discovery,” in *Studies in the Philosophy of Biology: Reduction and Related Problems*, edited by F J. Ayala and T. Dobzhansky, London: Macmillan, pp. 139–161.
 
-[^campbell-1982]: –––, 1982, “The blind-variation-and-selective-retention Theme,” in *The Cognitive Developmental Psychology of James Mark Baldwin: Current Theory and Research in Genetic Epistemology*, edited by J. M. Broughton and D. J. Freeman-Moir, Norwood, NJ: Ablex, pp. 87–97.
+[^campbell-1982]: –––, 1982, “The ”blind-variation-and-selective-retention“ Theme,” in *The Cognitive Developmental Psychology of James Mark Baldwin: Current Theory and Research in Genetic Epistemology*, edited by J. M. Broughton and D. J. Freeman-Moir, Norwood, NJ: Ablex, pp. 87–97.
 
 [^campbell-1985]: –––, 1985, “Pattern Matching as an Essential in Distal Knowing,” in *Naturalizing Epistemology*, edited by H. Kornblith, Cambridge, MA: MIT Press, 49–70.
 
@@ -246,7 +246,7 @@ epistemology: naturalism in | evolution: cultural | game theory: evolutionary | 
 
 [^hull-2001]: –––, 2001, “In search of epistemological warrant” in *Selection Theory and Social Construction: The Evolutionary Naturalistic Epistemology of Donald T. Campbell*, Cecilia Heyes and David Hull (eds.), Albany, NY: SUNY Press, pp. 155–167.
 
-[^kim-1988]: Kim, Jaegwon, 1988, “What is ‘Naturalized Epistemology’?,” *Philosophical Perspectives 2. Epistemology*, Atascadero: Ridgeview, pp. 381–405.
+[^kim-1988]: Kim, Jagwon., 1988 “What is ‘Naturalized Epistemology’?,” *Philosophical Perspectives 2. Epistemology*, Atascadero: Ridgeview, pp. 381–405.
 
 [^kuhn-1962]: Kuhn, Thomas, 1962, *The Structure of Scientific Revolutions*, Chicago: The University of Chicago Press.
 
@@ -326,7 +326,7 @@ epistemology: naturalism in | evolution: cultural | game theory: evolutionary | 
 
 [^toulmin-1972]: –––, 1972, *Human Understanding: The Collective Use and Evolution of Concepts*, Princeton: Princeton University Press.
 
-[^schaik-2010]: van Schaik, C. P., 2010, “Social learning and culture in animals,” in *Animal Behavior: evolution and Mechanisms*, P. Kappeler (ed.), New York: Springer–Verlag, pp. 623–653.
+[^schaik-2010]: van Schaik, C. P., 2010, “ Social learning and culture in animals,” in *Animal Behavior: evolution and Mechanisms*, P. Kappeler (ed.), New York: Springer–Verlag, pp. 623–653.
 
 [^vollmer-2005]: Vollmer, Gerhard, 2005, “How is it that we can know this world? New arguments in evolutionary epistemology”, in *Darwinism & Philosophy*, V. Hösle and Christian Illies (eds.), Notre Dame, IN: University of Notre Dame Press, pp. 259–274.
 

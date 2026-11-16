@@ -219,7 +219,7 @@ africana-philosophy | Cooper, Anna Julia | Douglass, Frederick | moral epistemol
 
 [^pahissa-2018]: Pahissa, Laura Gimeno, 2018, “‘WE NEED CHARACTER!’: Remembering Alexander Crummell’s Appeal to Postbellum African Americans,” *ES Review: Spanish Journal of English Studies*, 6(6): 143–163.
 
-[^peterson-2011]: Peterson, Carla L., 2011, “Untangling Genealogy’s Tangled Skeins: Alexander Crummell, James McCune Smith, and Nineteenth-Century Black Literary Traditions,” in Caroline F. Levander and Robert S. Levine (eds.), *A Companion to American Literary Studies*, Oxford: Wiley-Blackwell, pp. 500–516.
+[^peterson-2011]: Peterson, Carla L., 2011, “Untangliong Genealogy’s Tangled Skeins: Alexander Crummell, James McCune Smith, and Nineteenth-Century Black Literary Traditions,” in Caroline F. Levander and Robert S. Levine (eds.), *A Companion to American Literary Studies*, Oxford: Wiley-Blackwell, pp. 500–516.
 
 [^ruwe-2019]: Ruwe, Dalitso, 2019, “Between Africa and America: Alexander Crummell’s Moral and Political Philosophy,” *APA Newsletter: Philosophy and the Black Experience*, 18(2): 23–30.
 

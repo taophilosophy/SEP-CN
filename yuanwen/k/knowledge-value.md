@@ -295,7 +295,7 @@ Thanks to Earl Conee, Alan Millar and several referees at the *Stanford Encyclop
 
 [^carter-2017]: –––, 2017, “Virtue Epistemology and Extended Cognition”, in *Routledge Handbook for Virtue Epistemology*, H. Battaly (ed.), London: Routledge.
 
-[^carter-2014]: Carter, J. Adam and Emma C. Gordon, 2014, “Objectual Understanding and the Value Problem”, *American Philosophical Quarterly*, 51(1): 1–14.
+[^carter-2014]: Carter, J. Adam and Emma C. Gordon, 2014 “Objectual Understanding and the Value Problem”, *American Philosophical Quarterly*, 51(1): 1–14.
 
 [^carter-2012]: Carter, J. Adam and Benjamin Jarvis, 2012, “Against Swamping”, *Analysis*, 72(4): 690–699. doi:10.1093/analys/ans118
 
@@ -303,7 +303,7 @@ Thanks to Earl Conee, Alan Millar and several referees at the *Stanford Encyclop
 
 [^carter-2015]: Carter, J. Adam and Duncan Pritchard, 2015, “Knowledge-How and Epistemic Value”, *Australasian Journal of Philosophy*, 93(4): 799–816. doi:10.1080/00048402.2014.997767
 
-[^carter-2020]: Carter, J. Adam and Robert Rupert, 2020, “Epistemic Value in the Subpersonal Vale”, *Synthese*, 198 (10): 9243–9272.
+[^carter-2020]: Carter, J. Adam and Robert Rupert, 2020, “ Epistemic Value in the Subpersonal Vale”, *Synthese*, 198 (10): 9243–9272.
 
 [^chisholm-1986]: Chisholm, Roderick M., 1986, *Brentano and Intrinsic Value*, Cambridge: Cambridge University Press.
 
@@ -335,7 +335,7 @@ Thanks to Earl Conee, Alan Millar and several referees at the *Stanford Encyclop
 
 [^depaul-2003]: DePaul, Michael and Linda Zagzebski (eds), 2003, *Intellectual Virtue: Perspectives from Ethics and Epistemology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199252732.001.0001
 
-[^derose-1992]: DeRose, Keith, 1992, “Contextualism and Knowledge Attributions”, *Philosophy and Phenomenological Research*, 52: 913–29.
+[^derose-1992]: DeRose, Keith, 1992, “Contextualism and Knowledge Attributions”, *Philosophy and Phenomenological Research* , 52: 913–29.
 
 [^dipaolo-2024]: DiPaolo, Joshua, 2024, “Who Knows What? Epistemic Dependence, Inquiry, and Function-First Epistemology”, *Inquiry*, 67(2): 670–687. doi:10.1080/0020174X.2022.2121077
 
@@ -369,7 +369,7 @@ Thanks to Earl Conee, Alan Millar and several referees at the *Stanford Encyclop
 
 [^goldman-1976]: –––, 1976, “Discrimination and Perceptual Knowledge”, *The Journal of Philosophy*, 73(20): 771–791.
 
-[^goldman-1979]: –––, 1979, “What is Justified Belief?” in George Pappas (ed.), *Justification and Knowledge*, Boston: D. Reidel, 1–25.
+[^goldman-1979]: –––, 1979, “What is Justified Belief?” in George Pappas (ed.), *Justification and Knowledge* Boston: D. Reidel: 1–25.
 
 [^goldman-1999]: –––, 1999, *Knowledge in a Social World*, Oxford: Oxford University Press. doi:10.1093/0198238207.001.0001
 
@@ -429,7 +429,7 @@ Thanks to Earl Conee, Alan Millar and several referees at the *Stanford Encyclop
 
 [^jarczewski-2025b]: –––, 2025b, “Virtue Environmentalism: Towards a Robustly Social Virtue Epistemology”, *Synthese*, 206. doi:10.1007/s11229-025-05168-3
 
-[^jarczewski-2025]: Jarczewski, Dominik and Wayne D. Riggs, 2025, “Socializing Virtue Epistemology”, *Episteme*, first view. doi:10.1017/epi.2025.10
+[^jarczewski-2025]: Jarczewski, Dominik and Wayne D. Riggs, 2025, “Socializing Virtue Epistemology”, Episteme, first view. doi:10.1017/epi.2025.10
 
 [^jones-1997]: Jones, Ward E., 1997, “Why Do We Value Knowledge?”, *American Philosophical Quarterly*, 34(4): 423–440.
 
@@ -507,11 +507,11 @@ Thanks to Earl Conee, Alan Millar and several referees at the *Stanford Encyclop
 
 [^pritchard-2009]: –––, 2009, “The Value of Knowledge”, *The Harvard Review of Philosophy*, 16(1): 86–103.
 
-[^pritchard-2010a]: –––, 2010a, “Knowledge and Understanding”, in Duncan Pritchard, Alan Millar & Adrian Haddock (eds.), *The Nature and Value of Knowledge*, Oxford: Oxford University Press: 1–90.
+[^pritchard-2010a]: –––, 2010a, “Knowledge and Understanding”, in Duncan Pritchard, Alan Millar & Adrian Haddock (eds.), *The Nature and Value of Knowledge*, Oxford: Oxford University Press: 1-90.
 
 [^pritchard-2010b]: –––, 2010b, “Cognitive Ability and the Extended Cognition Thesis”, *Synthese*, 175(S1): 133–151. doi:10.1007/s11229-010-9738-y
 
-[^pritchard-2011]: –––, 2011, “What is the Swamping Problem?” in Andrew Reisner & Asbjørn Steglich-Petersen (eds.), *Reasons for Belief*, Cambridge: Cambridge University Press: 244–59.
+[^pritchard-2011]: –––, 2011, “What is the Swamping Problem?” in Andrew Reisner & Asbjørn Steglich-Petersen (eds.), *Reasons for Belief*, Cambridge: Cambridge University Press: 244–59
 
 [^pritchard-2012]: –––, 2012, “Anti-Luck Virtue Epistemology”, *The Journal of Philosophy*, 109(3): 247–279.
 
@@ -609,13 +609,13 @@ Thanks to Earl Conee, Alan Millar and several referees at the *Stanford Encyclop
 
 [^turri-2010]: Turri, John, 2010, “Does Perceiving Entail Knowing?”, *Theoria*, 76(3): 196–206. doi:10.1111/j.1755-2567.2010.01065.x
 
-[^turri-2011a]: –––, 2011a, “Manifest Failure: The Gettier Problem Solved”, *Philosophers’ Imprint*, 11(8): 1–11. URL = <http://hdl.handle.net/2027/spo.3521354.0011.008>
+[^turri-2011a]: –––, 2011a, “Manifest Failure: The Gettier Problem Solved”, *Philosophers’ Imprint*, 11(8): 1–11. URL = <[http://hdl.handle.net/2027/spo.3521354.0011.008](http://hdl.handle.net/2027/spo.3521354.0011.008)>
 
 [^turri-2011b]: –––, 2011b, “Mythology of the Factive”, *Logos & Episteme*, 2(1): 141–150. doi:10.5840/logos-episteme20112155
 
 [^turri-2016a]: –––, 2016a, “Knowledge and Assertion in ‘Gettier’ Cases”, *Philosophical Psychology*, 29(5): 759–775.
 
-[^turri-2016b]: –––, 2016b, “Knowledge Judgments in ‘Gettier’ Cases”, in J. Sytsma & W. Buckwalter (eds.), *A Companion to Experimental Philosophy*, Oxford: Wiley-Blackwell: 337–48.
+[^turri-2016b]: –––, 2016b, “Knowledge Judgments in ‘Gettier’ Cases”, in J. Sytsma & W. Buckwalter (eds.), *A Companion to Experimental Philosophy*, Oxford: Wiley-Blackwell: 337–48
 
 [^turri-2016c]: –––, 2016c, “A New Paradigm for Epistemology From Reliabilism to Abilism”, *Ergo: an Open Access Journal of Philosophy*, 3(8): 189–231.
 

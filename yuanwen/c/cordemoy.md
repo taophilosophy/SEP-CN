@@ -9,11 +9,11 @@ Géraud de Cordemoy (1626–1684) was one of the more important Cartesian philos
 
 Géraud (or Gerauld) de Cordemoy was born in October of 1626, the son of a University of Paris professor. He was the third of four children born to Géraud and Nicole de Cordemoy, and the only son. His father died when he was nine years old, and other than this, almost nothing is known of Cordemoy’s early years. While there is not a record of the date of his marriage (to Marie de Chazelles), the first of his five children is known to have been born on December 7, 1651, when Cordemoy was twenty-five.
 
-Cordemoy earned a living as a lawyer, but was very active in Parisian philosophical circles. He attended various philosophy salons, and was acquainted with the Minim Emmanuel Maignan and the physicist Jacques Rohault, both organizers of philosophical conferences. In 1664, Cordemoy’s essay *Discours de l’action des corps (A Discourse on the action of bodies)* was included, along with a discourse by Rohault, in the posthumous publication of Descartes’ *Le Monde (The World)* by Claude Clerselier. That essay would later become the second of the six discourses which make up one of Cordemoy’s two most important works, *Le Discernement du corps et de l’âme en six discours pour servir à l’éclaircissement de la physique (The Distinction of the body and the soul in six discourses, in order to be useful for the clarification of physics)* (1666). In this work, Cordemoy presents his atomism, his arguments for occasionalism, and his accounts of the distinction of and the interaction between the mind and the body.
+Cordemoy earned a living as a lawyer, but was very active in Parisian philosophical circles. He attended various philosophy salons, and was acquainted with the Minim Emmanuel Maignan and the physicist Jacques Rohault, both organizers of philosophical conferences. In 1664, Cordemoy’s essay *Discours de l’áction des corps (A Discourse on the action of bodies)* was included, along with a discourse by Rohault, in the posthumous publication of Descartes’ *Le Monde (The World)* by Claude Clerselier. That essay would later become the second of the six discourses which make up one of Cordemoy’s two most important works, *Le Discernement du corps et de l’âme en six discours pour servir à l’éclaircissement de la physique (The Distinction of the body and the soul in six discourses, in order to be useful for the clarification of physics)* (1666). In this work, Cordemoy presents his atomism, his arguments for occasionalism, and his accounts of the distinction of and the interaction between the mind and the body.
 
-Cordemoy’s other important work, the *Discours physique de la parole (A Physical discourse on speech)*, appeared in 1668, as did his *Copie d’une lettre écrite à un sçavant religieux de la Compagnie de Jésus (A Copy of a letter written to a learned religious of the Company of Jesus)*. The latter is Cordemoy’s attempt to reconcile Cartesian philosophy with the story of creation as found in the Book of Genesis. The former is an account of speech production, and its popularity led to Cordemoy’s being recognized as one of the more important French philosophers of his time. He was even the model for the character of the Master of Philosophy in Molière’s play *Le Bourgeois Gentilhomme*.
+Cordemoy’s other important work, the *Discours physique de la parole (A Physical discourse on speech)*, appeared in 1668, as did his *Copie d’une lettre ecrite à un sçavant religieux de la Compagnie de Jésus (A Copy of a letter written to a learned religious of the Company of Jesus)*. The latter is Cordemoy’s attempt to reconcile Cartesian philosophy with the story of creation as found in the Book of Genesis. The former is an account of speech production, and its popularity led to Cordemoy’s being recognized as one of the more important French philosophers of his time. He was even the model for the character of the Master of Philosophy in Molière’s play *Le Bourgeois Gentilhomme*.
 
-Other, shorter works by Cordemoy include his *Traitez de Metaphysique (Treatise on Metaphysics)* and his *Traitez sur l’Histoire et la Politique (Treatise on History and Politics)*. At the time of his death, Cordemoy was working on a history of France, which would be completed by his eldest son Louis-Géraud and which appeared in two volumes, in 1685 and 1689. In addition to his philosophical and historical publications, Cordemoy served briefly as the director of *l’Académie française* (having been elected a member in 1675) and was for a time the tutor to the Dauphin, son of King Louis XIV. Shortly after his 58ᵗʰ birthday, Cordemoy suffered a brief illness and died, on October 15, 1684.
+Other, shorter works by Cordemoy include his *Traitez de Metaphysique (Treatise on Metaphysics)* and his *Traitez sur l’Histoire et la Politique (Treatise on History and Politics)*. At the time of his death, Cordemoy was working on a history of France, which would be completed by his eldest son Louis-Géraud and which appeared in two volumes, in 1685 and 1689. In addition to his philosophical and historical publications, Cordemoy served briefly as the director of *l’Academie Français* (having been elected a member in 1675) and was for a time the tutor to the Dauphin, son of King Louis XIV. Shortly after his 58ᵗʰ birthday, Cordemoy suffered a brief illness and died, on October 15, 1684.
 
 ## 2. Atomism
 
@@ -95,15 +95,15 @@ Descartes, René | Desgabets, Robert | La Forge, Louis de | Malebranche, Nicolas
 
 [^cordemoy-1968]: Cordemoy, Géraud de, *Oeuvres philosophiques*, Pierre Clair & François Girbal (eds.), Paris: Presses Universitaires de France, 1968.
 
-[^cordemoy-1664]: –––, 1664, *Discours de l’action des corps*, Paris: Jacques Le Gras.
+[^cordemoy-1664]: –––, 1664, *Discours de l’áction des corps*, Paris: Jacques Le Gras.
 
-[^cordemoy-1666]: –––, 1666, *Le Discernement du corps et de l’âme en six discours pour servir à l’éclaircissement de la physique*, Paris.
+[^cordemoy-1666]: –––, 1666, *Le Discernement du corps et de l’âme en six discours pour servir à l’eclaircissement de la physique*, Paris.
 
 [^cordemoy-1668]: –––, 1668, *Discours physique de la parole*, Paris.
 
 [^cordemoy-1691]: –––, 1691, *Divers Traitez de metaphysique, d’histoire, et de politique*, Paris.
 
-[^cordemoy-1704]: –––, 1704, *Copie d’une lettre écrite à un sçavant religieux de la Compagnie de Jésus*, Paris: Remy.
+[^cordemoy-1704]: –––, 1704, *Copie d’une lettre ecrite à un sçavant religieux de la Compagnie de Jésus*, Paris: Remy.
 
 [^cordemoy-nd]: –––, [PDC], *A Philosophical Discourse Concerning Speech*, Delmar, NY: Scholars’ Facsimiles & Reprints.
 
@@ -117,7 +117,7 @@ Descartes, René | Desgabets, Robert | La Forge, Louis de | Malebranche, Nicolas
 
 [^la-1666]: –––, 1666, *Traité de l’esprit de l’homme et de ses facultez et fonctions, et de son union avec le corps. Suivant les principes de René Descartes*, Paris.
 
-[^rochon-1672]: Rochon, A., 1672, *Lettre d’un philosophe à un cartésien de ses amis*, Paris: Thomas Jolly.
+[^rochon-1672]: Rochon, A., 1672, *Lettre d’un philosophe à un cartesien de ses amis*, Paris: Thomas Jolly.
 
 [^ablondi-2005]: Ablondi, Fred, 2005, *Gerauld de Cordemoy: Atomist, Occasionalist, Cartesian*, Milwaukee: Marquette University Press.
 
@@ -133,7 +133,7 @@ Descartes, René | Desgabets, Robert | La Forge, Louis de | Malebranche, Nicolas
 
 [^garber-1998]: Garber, Daniel; Henry, John; Lynn, Joy; and Gabbey, Alan, 1998, “New Doctrines of Body and Its Power, Place, and Space,” in *The Cambridge History of Seventeenth-Century Philosophy* (2 vols.), D. Garber and M. Ayers (eds.), Cambridge: Cambridge University Press, 553–623.
 
-[^guerrini-1994]: Guerrini, Luigi, 1994, “Occasionalismo e teoria della communicazione in Gerauld de Cordemoy,” *Annali di dipartimento di filosofia*, 9: 63–80.
+[^guerrini-1994]: Guerrini, Luigi, 1994, “Occasinalismo e teoria della communicazione in Gerauld de Cordemoy,” *Annali di dipartimento di filosophia*, 9: 63–80.
 
 [^henkel-2025]: Henkel, Christian, 2025, “Political Theory among Cartesians: Géraud de Cordemoy and Antoine Le Grand,” *History of European Ideas*, 51: 1795–1813.
 
@@ -141,11 +141,11 @@ Descartes, René | Desgabets, Robert | La Forge, Louis de | Malebranche, Nicolas
 
 [^lennon-1993]: –––, 1993, *The Battle of Gods and Giants: The Legacies of Descartes and Gassendi, 1655–1715*, Princeton: Princeton University Press.
 
-[^manning-2012]: Manning, Gideon, 2012, “Descartes, Other Minds and Impossible Human Bodies,” *Philosopher’s Imprint*, 12(16). [Manning 2012 available online](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/descartes-other-minds-and-impossible-human-bodies.pdf?c=phimp;idno=3521354.0012.016;format=pdf).
+[^manning-2012]: Manning, Gideon, 2012, “Descartes, Other Minds and Impossible Human Bodies,” *Philosopher’s Imprint*, 12 (16); [Manning 2012 available online](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/descartes-other-minds-and-impossible-human-bodies.pdf?c=phimp;idno=3521354.0012.016;format=pdf).
 
 [^mouy-1934]: Mouy, Paul, 1934, *Le développement de la physique cartésienne 1646–1712*, Paris: Vrin.
 
-[^nadler-2005]: Nadler, Steven, 2005, “Cordemoy and Occasionalism,” *Journal of the History of Philosophy*, 43: 37–54.
+[^nadler-2005]: Nadler, Steven, 2005, “ Cordemoy and Occasionalism,” *Journal of the History of Philosophy*, 43: 37–54.
 
 [^platt-2020]: Platt, Andrew, 2020, *One True Cause: Causal Powers, Divine Concurrence, and the Seventeenth Century Revival of Occasionalism*, Oxford: Oxford University Press.
 
@@ -153,9 +153,9 @@ Descartes, René | Desgabets, Robert | La Forge, Louis de | Malebranche, Nicolas
 
 [^pyle-2003]: Pyle, Andrew, 2003, *Malebranche*, London: Routledge.
 
-[^rosenfeld-1968]: Rosenfeld, Leonora Cohen, 1968, *From Beast-Machine to Man-Machine: Animal Soul in French Letters from Descartes to La Mettrie*, New York: Octagon Books.
+[^rosenfeld-1968]: Rosenfeld, Leonora Cohen, 1968, *From Beast-Machine to Man-Machine: Animal Soul in French Letters from Descartes to Le Mettre*, New York: Octagon Books.
 
-[^scheib-1997]: Scheib, Andreas, 1997, *Zur Theorie individueller Substanzen bei Géraud de Cordemoy*, New York: P. Lang.
+[^scheib-1997]: Scheib, Andreas, 1997, *Zur Theorie individueller Substanzen bei Géraud de Cordemoy*, New York, Frankfurt am Main: P. Lang.
 
 [^schmaltz-2017]: Schmaltz, Tad, 2017, *Early Modern Cartesianisms: Dutch and French Constructions*, Oxford: Oxford University Press.
 

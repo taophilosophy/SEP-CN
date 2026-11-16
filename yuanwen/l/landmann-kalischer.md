@@ -297,7 +297,7 @@ aesthetic, concept of the | aesthetic experience | aesthetics: aesthetic judgmen
 
 [^egypten-2006]: Egypten, Jürgen, 2006, “Schwester, Huldin, Ritterin. Ida Coblenz, Gertrud Kantorowicz, and Edith Landmann. Jüdische Frauen im Dienste Stefan Georges”, in *Zions Töchter. Jüdische Frauen in Literatur, Kunst und Politik*, Andrea M. Lauritsch (ed.), Wien: Edition Mnemosyne, 149–184.
 
-[^gjesdal-2024]: Gjesdal, Kristin and Nassar (eds.), 2024, *The Oxford Handbook of Nineteenth-Century Women Philosophers in the German Tradition* (Oxford Handbooks), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780190066239.001.0001
+[^gjesdal-2024]: Gjesdal, Kristin and Nassar Nassar (eds.), 2024, *The Oxford Handbook of Nineteenth-Century Women Philosophers in the German Tradition* (Oxford Handbooks), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780190066239.001.0001
 
 [^harada-2009]: Harada, Tetsushi, 2009, “Die Anschauliche Theorie als Fortsetzung der historischen Schule im George-Kreis: Edgar Salin unter dem Einfluss Edith Landmanns”, in Köster, Plumpe, Schefold, and Schönhärl 2009: 195–210. doi:10.1524/9783050061757.195
 
@@ -311,7 +311,7 @@ aesthetic, concept of the | aesthetic experience | aesthetics: aesthetic judgmen
 
 [^köster-2009]: Köster, Roman, Werner Plumpe, Bertram Schefold, and Korinna Schönhärl (eds), 2009, *Das Ideal des schönen Lebens und die Wirklichkeit der Weimarer Republik: Vorstellungen von Staat und Gemeinschaft im George-Kreis* (Wissenskultur und gesellschaftlicher Wandel, Bd. 33), Berlin: Akademie Verlag. doi:10.1524/9783050061757
 
-[^landmann-1955-2]: Landmann, Michael (ed.), 1955, *Edith Landmann*, Amsterdam: Castrum Peregrini.
+[^landmann-1955-2]: Landmann, Michael (ed.), 1955, *Edith Landmann*, Amsterdam: Castrum Peregini.
 
 [^landmann-1980]: ––– (ed.), 1980, *Erinnerungen an Stefan George. Seine Freundschaft mit Julius und Edith Landmann*, Amsterdam: Castrum Peregrini.
 
@@ -353,7 +353,7 @@ aesthetic, concept of the | aesthetic experience | aesthetics: aesthetic judgmen
 
 [^schönhärl-2009]: Schönhärl, Korinna, 2009, “Transcendenz des Erkennens: Erkenntnistheoretische Grundlagen der wissenschaftlichen Methodendiskussion im George-Kreis”, *Archiv für Kulturgeschichte*, 91(2): 445–476. doi:10.7788/akg.2009.91.2.445
 
-[^schönhärl-2010]: –––, 2010, “‘Wie eine Blume die erfroren ist ’—Edith Landmann als Jüngerin Stefan Georges”, in *Stefan George. Dichtung—Ethos—Staat. Denkbilder für ein geheimes europäisches Deutschland*, Bruno Pieger und Bertram Schefold (eds), Berlin: Verlag für Berlin-Brandenburg, 207–242.
+[^schönhärl-2010]: –––, 2010, “‘Wie eine Blume die erforen ist ’—Edith Landmann als Jüngerin Stefan Georges”, in *Stefan George. Dichtung—Ethos—Staat. Denkbilder für ein geheimes europäisches Deutschland*, Bruno Pieger und Bertram Wschefold (eds), Berlin: Verlag für Berlin-Brandenburg, 207–242.
 
 [^schuster-1955]: Schuster, Margaret, 1955, “Edith Landmann als Philosophin”, in M. Landmann 1955: 34–48.
 

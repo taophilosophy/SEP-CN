@@ -444,7 +444,7 @@ For comments on this entry over the years, my thanks to Carla Bagnoli, Graham Bi
 
 [^note-34]: Kant makes an analogous claim about the duties of states. Rulers may not transgress existing borders—that is, they may not wage aggressive or punitive or colonial wars. At the same time, so long as they act peaceably, states may raise disputes and negotiate about territory or other mutual arrangements. See Ripstein 2021: Ch. 9.
 
-[^note-35]: Hieronymi 2021 offers an insightful account of reasoning that ties it closely to rational agency. Her account responds to other contemporary accounts that frame reasons simply as considerations that “count in favor” of an action or conclusion.
+[^note-35]: Hieronymi 2021 offers an insightful account of reasoning that ties it closely to rational agency. Her account responds to other contemporary accounts that frame reasons simply (?) as considerations that “count in favor” of an action or conclusion.
 
 [^note-36]: Schadow 2022 emphasizes the role of the “practical syllogism” in Kant’s idea of maxims and his philosophy of action. A maxim represents a general policy—the “major premise” of practical reasoning. Specific circumstances supply the “minor premise.” An action should be understood as a logical (“syllogistic”) inference from these premises. If there are contradictions between these, then the syllogism is invalid—or more bluntly, we have reasoned badly.
 
@@ -566,7 +566,7 @@ For comments on this entry over the years, my thanks to Carla Bagnoli, Graham Bi
 
 [^mikalsen-2010]: Mikalsen, K. K., 2010, “Testimony and Kant’s Idea of Public Reason,” *Res Publica*, 16(1): 23–40.
 
-[^møller-2020]: Møller, S., 2020, *Kant’s Tribunal of Reason: Legal Metaphor and Normativity in the Critique of Pure Reason*, Cambridge: Cambridge University Press.
+[^møller-2020]: Møller, S., 2020, *Kant’s Tribunal of Reason: Legal Metaphor and Normativity in the* Critique of Pure Reason. Cambridge: Cambridge University Press.
 
 [^mudd-2016]: Mudd, S., 2016, “Rethinking the Priority of Practical Reason in Kant,” *European Journal of Philosophy*, 24(1): 78–102.
 
@@ -608,7 +608,7 @@ For comments on this entry over the years, my thanks to Carla Bagnoli, Graham Bi
 
 [^reath-2013]: –––, 2013, “Formal Approaches to Kant’s Formula of Humanity,” in *Kant on Practical Justification: Interpretive Essays*, S. Baiasu & M. Timmons (eds.), Oxford: Oxford University Press, pp. 201–228.
 
-[^rescher-2000]: Rescher, N., 2000, *Kant and the Reach of Reason: Studies in Kant’s Theory of Rational Systemization*, Cambridge: Cambridge University Press.
+[^rescher-2000]: Rescher, N., 2000, *Kant and the Reach of Reason:* *Studies in Kant’s Theory of Rational Systemization*, Cambridge: Cambridge University Press.
 
 [^ripstein-2021]: Ripstein, A., 2021, *Kant and the Law of War*, New York: Oxford University Press.
 

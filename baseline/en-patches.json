@@ -1,0 +1,37 @@
+{
+  "schema": "sep-cn-en-patches/1",
+  "updated_at": "2026-11-16T07:18:29Z",
+  "note": "ADR-0062：en/ 绝对冻结（与原始网页钉逐字节一致）。本池只承载格式层修正（当前均为缺空格类），由转换层在生成派生物（tools/yuanwen.py 等）时应用；每条 find 命中计数必须等于 expect，不符即该件转换硬失败（防上游漂移静默失配）。文字层缺陷不入池——登记全局勘误表（specs/001-sep-sync-pipeline/results/en-errata.md）并以中文译注承载。",
+  "patches": [
+    {
+      "id": "P-001",
+      "slug": "incommensurability",
+      "file": "en/incommensurability/index.html",
+      "find": "Einstein1949b",
+      "replace": "Einstein 1949b",
+      "expect": 1,
+      "category": "格式层（空格）",
+      "source": "en-errata.md §九 格式层"
+    },
+    {
+      "id": "P-002",
+      "slug": "lakatos",
+      "file": "en/lakatos/index.html",
+      "find": "Lakatos1978a",
+      "replace": "Lakatos 1978a",
+      "expect": 1,
+      "category": "格式层（空格）",
+      "source": "en-errata.md §九 格式层"
+    },
+    {
+      "id": "P-003",
+      "slug": "yorck",
+      "file": "en/yorck/index.html",
+      "find": "pp.23&ndash;69",
+      "replace": "pp. 23&ndash;69",
+      "expect": 1,
+      "category": "格式层（空格）",
+      "source": "en-errata.md §九 格式层"
+    }
+  ]
+}

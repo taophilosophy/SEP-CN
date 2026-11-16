@@ -17,7 +17,7 @@ The history of ideas about economic democracy goes back at least to the 19ᵗʰ 
 
 One example is Proudhon who, already in the 1840s, called for “leaders, instructors, superintendents” in industry to be “chosen from the laborers by the laborers themselves” (Proudhon 1840, §6)[^proudhon-1840], a principle that was realized in worker cooperatives. Worker cooperatives were particularly strong in France, while the UK saw many consumer cooperatives, and Germany cooperative banks – efforts that led to the joint establishment of the International Co-Operative Alliance in 1895 (Cornforth 1992, 186-188)[^cornforth-1992]. Left-wing political parties were started in many countries, splitting, in the second half of the 19ᵗʰ century, into reform-oriented social democratic parties and revolution-oriented socialist parties. The First International, as an international network, was founded in 1864 and held its first congress in 1866, followed by the Second International in 1889.
 
-The term “industrial democracy” was introduced in the late 19ᵗʰ century in the UK (Webb and Webb 1897)[^webb-1897], to denote the call for a democratic organization of unions and the introduction of collective bargaining, i.e. the right of unions to negotiate over wages and working conditions for all workers in a company or industry. Referring to the English term, the term “Wirtschaftsdemokratie” (“economic democracy”) was used in the German union movement in the early decades of the 20ᵗʰ century, where it was considerably broadened. It described a program for putting monopolistic firms under public control, strengthening workers’ voices in all companies through works councils and co-determination, but also supporting workers through workers’ banks and consumer cooperatives and by giving their representatives a greater role in political bodies (Naphtali 1928; for discussion see e.g. Müller-Jentsch 2008; Weinzen 1992)[^müller-jentsch-2008][^naphtali-1928][^weinzen-1992].
+The term “industrial democracy” was introduced in the late 19ᵗʰ century in the UK (Webb and Webb 1897)[^webb-1897], to denote the call for a democratic organization of unions and the introduction of collective bargaining, i.e. the right of unions to negotiate over wages and working conditions for all workers in a company or industry. Referring to the English term, the term “Wirtschaftsdemokratie” (“economic democracy”) was used in the German union movement in the early decades of the 20ᵗʰ century, where it was considerably broadened. It described a program for putting monopolistic firms under public control, strengthening workers’ voices in all companies through works councils and co-determination, but also supporting workers through workers’ banks and consumer cooperatives and by giving their representatives a greater role in political bodies (Napthali 1928; for discussion see e.g. Müller-Jentsch 2008; Weinzen 1992)[^müller-jentsch-2008][^weinzen-1992].
 
 In the 20ᵗʰ century, these ideas fared differently in different countries. Some European countries went quite far in introducing mechanisms of co-determination (see e.g. the entries on different countries in Széll 1992)[^széll-1992]. Since the 1980s, however, the turn towards free-market politics came with an attack on unions, especially in Anglophone countries, but also beyond. It weakened the interest in alternative forms of organizing economic activities, fostering a “there is no alternative” attitude. Unionization rates, like membership in mass organizations in general, declined in many countries. Insofar as the participation of workers, e.g. in self-governing teams, was an issue at all, it was considered from a perspective of employee motivation and efficiency (e.g. Pausch 2013)[^pausch-2013], not as a broader program with connections to political democracy. Research interest in the topic, which was quite active in the 1970s (e.g. Pateman 1970)[^pateman-1970], also declined.
 
@@ -168,7 +168,7 @@ However, over time researchers have used various methodologies to explore this c
 
 One line of research explores how positive, egalitarian experiences at work influence political attitudes and behavior by enabling or encouraging workers to get politically engaged, as predicted by the “spillover argument” (e.g. Budd et al. 2018; Decker and Brähler 2020; Timming and Summers 2018)[^budd-2018][^decker-2020][^timming-2018]. For example, working in companies with more democratic structures has been found, in a study of European cross-country data, to increase political trust and participation (Ryan and Turner 2021)[^ryan-2021]; for male (but not female!) employees in Germany, the presence of works councils increased their political interest (Jirjahn and Lee 2024)[^jirjahn-2024]. Overall, there is robust evidence that higher skill use, higher autonomy, and positive social relations at work are correlated with greater political participation (Selenko et al. 2025, 9–13, 17–18)[^selenko-2025].
 
-Another line of research asks whether the experience of grievances at work, for example job insecurity, might motivate workers to engage in political behavior. This leads to the prediction that it might be *negative*, rather than *positive*, working conditions that increase political participation, for which there is also some evidence (Selenko et al. 2025, 3, 8)[^selenko-2025]. Finally, as Schlachter and Ársælsson (2024) argue on the basis of a qualitative study, there can also be a reversed causality, in the sense that politically engaged individuals choose to work for democratic companies.
+Another line of research asks whether the experience of grievances at work, for example job insecurity, might motivate workers to engage in political behavior. This leads to the prediction that it might be *negative*, rather than *positive*, working conditions that increase political participation, for which there is also some evidence (Selenko et al. 2025, 3, 8)[^selenko-2025]. Finally, as Schlachter and Ársaelsson (2024) argue on the basis of a qualitative study, there can also be a reversed causality, in the sense that politically engaged individuals choose to work for democratic companies.
 
 ### 5.2 Research about European co-determination models and cooperatives
 
@@ -327,7 +327,7 @@ democracy | money and finance, philosophy of | socialism | work and labor
 
 [^ferretti-2024]: Ferretti, Thomas, and Axel Gosseries, 2024, “Are Bicameral Firms Preferable to Codetermination or Worker Cooperatives?”, in Isabelle Ferreras, Tom Malleson, and Joel Rogers (eds.), *Democratizing the Corporation: The Bicameral Firm and Beyond*, London & New York: Verso, 165–179.
 
-[^flecha-2011]: Flecha, Ramon, and Ignacio Santa Cruz, 2011, “Cooperation for Economic Success: The Mondragon Case”, *Analyse & Kritik*, 33(1): 157–170.
+[^flecha-2011]: Flecha, Ramon, and Ignacio Santa Cruz, 2011, “Cooperation for Economic Success: The Mondragon Case”, *Anaylse & Kritik*, 33(1): 157–170.
 
 [^foster-2023]: Foster, John B., 2023, “Planned Degrowth: Ecosocialism and Sustainable Human Development”, *Monthly Review*, 75(3).
 
@@ -337,7 +337,7 @@ democracy | money and finance, philosophy of | socialism | work and labor
 
 [^frega-2019]: Frega, Roberto, Lisa Herzog, and Christian Neuhäuser, 2019, “Workplace Democracy: The Recent Debate”, *Philosophy Compass*, 14(4): e12574.
 
-[^gerlsbeck-2020]: Gerlsbeck, Felix, and Lisa Herzog, 2020, “The Epistemic Potentials of Workplace Democracy”, *Review of Social Economy*, 78(3): 307–330.
+[^gerlsbeck-2020]: Gerlsbeck, Felix, and Lisa Herzog, 2020, “The Epistemic Potentials of Workplace Democracy”, *Review of Social Econonomy*, 78(3): 307–330.
 
 [^gomes-2023]: Gomes, Ana, Anil Verma, and Dieric Guimares, 2023, “Life With Rights: Inclusive Labour Law and Decent Work for Waste Pickers in Brazil”, *International Journal of Comparative Labour Law and Industrial Relations*, 39(4): 359–380.
 
@@ -397,7 +397,7 @@ democracy | money and finance, philosophy of | socialism | work and labor
 
 [^jäger-2022]: Jäger, Simon, Shakked Noy, and Benjamin Schoefer, 2022, “The German Model of Industrial Relations: Balancing Flexibility and Collective Action”, *Journal of Economic Perspectives*, 36(4): 53–80.
 
-[^jensen-1979]: Jensen, Michael C., and William H. Meckling, 1979, “Rights and Production Functions: An Application to Labor-Managed Firms and Codetermination”, *The Journal of Business*, 52(4): 406–469.
+[^jensen-1979]: Jensen, Michael C., and William H. Meckling, 1979, “Rights and Production Functions: An Application to Labor-Managed Firms and Codetermination”, *The Journal of Business*, 52(4): 469–406.
 
 [^jirjahn-2024]: Jirjahn, Uwe, and Thi Xuan Thu Lee, 2024, “Political Spillovers of Workplace Democracy in Germany”, *Annals of Public and Cooperative Economics*, 95(1): 5–31.
 

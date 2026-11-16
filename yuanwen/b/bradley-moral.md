@@ -200,7 +200,7 @@ Aristotle, General Topics: ethics | Bradley, Francis Herbert | character, moral 
 
 [^ce-1888]: 1888, “On Pleasure, Pain, Desire and Volition”, *Mind* (original series), 13(49): 1–36; reprinted in CE I.244–286. doi:10.1093/mind/os-XIII.49.1
 
-[^ce-1901]: 1901, “Some Remarks on Conation”, *Mind*, 10(40): 437–454; reprinted in CE II.387–407. doi:10.1093/mind/X.1.437
+[^ce-1901]: 1901, “Some Remarks on Conation”, *Mind*, 10(40): 437–454; reprinted in CE II.387–407 doi:10.1093/mind/X.1.437
 
 [^ce-1902a]: 1902a, “On Mental Conflict and Imputation”, *Mind*, 11(43): 289–315; reprinted in CE II.444–475. doi:10.1093/mind/XI.1.289
 
@@ -214,9 +214,9 @@ Aristotle, General Topics: ethics | Bradley, Francis Herbert | character, moral 
 
 [^ethical-1876]: *Ethical Studies*, Oxford: Clarendon, 1876; second edition revised, 1927; paperback second edition, with a new introduction by Richard Wollheim, 1962. [[*Ethical Studies*, second edition, available online](https://archive.org/details/ethicalstudies0000brad/page/n5/mode/2up)]
 
-[^ethical-1951]: *Ethical Studies: Selected Essays*, Ralph G. Ross (ed.), Indianapolis, IN: Bobbs-Merrill, 1951. (Note: This volume omits Essays I, VI, VII.)
+[^ethical-1951]: *Ethical Studies: Selected Essays*, Ralph G. Ross (ed.), Indianapolis, IN: Bobbs-Merrill, 1951. (Note: This volume omits Essays I, VI, VII.]
 
-[^collected-1999]: *The Collected Works of F.H. Bradley*, 12 volumes, Carol A. Keene and W. J. Mander (eds), Bristol: Thoemmes, 1999. Volumes 1–5 include previously unpublished materials from Bradley’s archives, while volumes 6–12 are reprinted works. Includes Volumes 1–5, edited by Carol A. Keene Volume 1: 1865–1882: A Pluralistic Approach to Philosophy (unpublished material) Volume 2: 1883–1902: A Focus on Metaphysics and Psychology (unpublished material) Volume 3: 1903–1924: Refinement and Revision (unpublished material) Volume 4: Selected Correspondence, June 1872 – December 1904 Volume 5: Selected Correspondence, January 1905 – June 1924 Volumes 6–12, edited by William J. Mander Volume 6: “F.H. Bradley: Towards a Portrait” (1961), “Ethical Studies” (1927) Volume 7: “The Principles of Logic”, vol. 1(1928) Volume 8: “The Principles of Logic”, vol. 2 (1928) Volume 9: “Appearance and Reality” (1930) Volume 10: “Essays on Truth and Reality” (1914) Volume 11: “Collected Essays”, vol. 1(1935) Volume 12: “Collected Essays”, vol. 2 (1935), “Aphorisms” (1930), “A Note on Christian Morality” (1983), “A Personal Explanation” (1894), “Rational Hedonism” (1895)
+[^collected-1999]: *The Collected Works of F.H. Bradley*, 12 volumes, Carol A. Keene and W. J. Mander (eds), Bristol: Thoemmes, 1999. Volumes 1–5 include previously unpublished materials from Bradley’s archives, while volumes 6–12 are reprinted works. Includes Volumes 1–5, edited by Carol A. Keene Volume 1: 1865–1882: A Pluralistic Approach to Philosophy (unpublished material) Volume 2: 1883–1902: A Focus on Metaphysics and Psychology (unpublished material) Volume 3: 1903–1924: Refinement and Revision (unpublished material) Volume 4: Selected Correspondence, June 1872 – December 1904 Volume 5: Selected Correspondence, January 1905 – June 1924 Volumes 6–12, edited by William J. Mander Volume 6: “F.H. Bradley: Towards a Portrait” (1961), “Ethical Studies” (1927) Volume 7: “The Principles of Logic”, vol. 1(1928) Volume 8: “The Principles of Logic”, vol. 2 (1928) Volume 9: “Appearance ana Reality” (1930) Volume 10: “Essays on Truth and Reality” (1914) Volume11: “Collected Essays”, vol. 1(1935) Volume 12: “Collected Essays”, vol. 2 (1935), “Aphorisms” (1930), “A Note on Christian Morality” (1983), “A Personal Explanation” (1894), “Rational Hedonism” (1895)
 
 [^airaksinen-2012]: Airaksinen, Timo, 2012, “Desire and Happiness”, *Homo Oeconomicus*, 29(3): 393–412.
 
@@ -264,7 +264,7 @@ Aristotle, General Topics: ethics | Bradley, Francis Herbert | character, moral 
 
 [^green-1883]: Green, Thomas Hill, 1883, *Prolegomena to Ethics*, Andrew Cecil Bradley (ed.), Oxford: Clarendon Press, published posthumously.
 
-[^hegel-1807]: Hegel, Georg Wilhelm Friedrich, 1807 [1977], *Phänomenologie des Geistes*, Bamberg und Würzburg: Goebhardt. Translated as *Phenomenology of Spirit*, Arnold V. Miller (trans.), Oxford: Clarendon Press, 1977.
+[^hegel-1807]: Hegel, Georg Wilhelm Friedrich, 1807 [1977], *Phänomenologie des Geistes*, Bamberg und Würzburg: Goebbardt. Translated as *Phenomenology of Spirit*, Arnold V. Miller (trans.), Oxford: Clarendon Press, 1977.
 
 [^hudson-1980]: Hudson, W.D., 1980, *A Century of Moral Philosophy*, Guildford and London: Lutterworth Press.
 
@@ -280,7 +280,7 @@ Aristotle, General Topics: ethics | Bradley, Francis Herbert | character, moral 
 
 [^keene-2009]: –––, 2009, “The Interplay of Bradley’s Social and Moral Philosophy”, in William Sweet (ed.), *The Moral, Social and Political Philosophy of the British Idealists*, Exeter and Charlottesville: Imprint Press, 87–110.
 
-[^krook-1959]: Krook, Dorothea, 1959, *Three Traditions of Moral Thought*, Cambridge: Cambridge University Press.
+[^krook-1959]: Krook, Dorothea, 1959, *Three Traditions of Moral Thought*, Cambridge:: Cambridge University Press.
 
 [^macintyre-1966]: MacIntyre, Alasdair C., 1966 [1998], *A Short History of Ethics*, (Fields of Philosophy), New York: Macmillan. Second edition as *A Short History of Ethics: A History of Moral Philosophy from the Homeric Age to the Twentieth Century*, London: Routledge.
 
@@ -322,7 +322,7 @@ Aristotle, General Topics: ethics | Bradley, Francis Herbert | character, moral 
 
 [^sabine-1915]: Sabine, George H., 1915, “The Social Origin of Absolute Idealism”, *The Journal of Philosophy, Psychology and Scientific Methods*, 12(7): 169–177. doi:10.2307/2013244
 
-[^santayana-1933]: Santayana, George, 1933, *Some Turns of Thought in Modern Philosophy*, London: Cambridge University Press.
+[^santayana-1933]: Santayana George, 1933, *Some Turns of Thought in Modern Philosophy*, London: Cambridge University Press.
 
 [^sidgwick-1874]: Sidgwick, Henry, 1874, *The Methods of Ethics*, London: Macmillan.
 
@@ -352,7 +352,7 @@ Aristotle, General Topics: ethics | Bradley, Francis Herbert | character, moral 
 
 [^wilson-1999]: Wilson, Fred, 1999, “The Significance for Psychology of Bradley’s Humean View of the Self”, *Bradley Studies*, 5(1): 5–44. doi:10.5840/bradley1999512
 
-[^wollheim-1969]: Wollheim, Richard, 1969, *F. H. Bradley*, Harmondsworth and Baltimore: Penguin; First published,, 1959.
+[^wollheim-1969]: Wollheim, Richard, 1969, *F. H. Bradley*, Harmondsworth and Baltimore: Penguin; fFirst published, 1959.
 
 [^wollheim-1993]: –––, 1993, *The Mind and Its Depths*, Cambridge, MA: Harvard University Press.
 

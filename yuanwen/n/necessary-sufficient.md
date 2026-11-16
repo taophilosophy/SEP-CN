@@ -70,7 +70,7 @@ The possibility of ambiguity in these concepts raises a further problem for the 
 
 *B* is a necessary condition of *A* =_{*df*} the absence of *B* is a sufficient condition of the absence of *A*
 
-Ambiguity would threaten this neat interdefinability. In the following section, we will explore whether there is an issue of concern here. The possibility of such ambiguity figures in work by Peter Downing on so-called “subjunctive” conditionals (Downing 1959)[^downing-1959] and is explored subsequently as a more general problem in Wilson (1979)[^wilson-1979], Goldstein et al. (2005), ch. 6, and later writers. The general argument, in brief, is that in some contexts there is a lack of reciprocity between necessary and sufficient conditions understood in a certain way, while in other situations the conditions do relate reciprocally to each other in the way required by the standard theory. If ambiguity is present, then there is no general conclusion that can safely be drawn about reciprocity, or lack of it, between necessary and sufficient conditions. Instead there will be a need to distinguish the sense of condition that is being invoked in a particular context. Without specification of meaning and context, it would also be wrong to make the general claim that sentences like “if *p*, *q*” are generally paraphrasable as “*p* only if *q*”. The philosophical literature contains numerous ways to make sense of the lack of reciprocity between the two kinds of conditions. Using a semi-formal argument, Carsten Held, for example, has suggested a way of explaining why necessary and sufficient conditions are not converses by making appeal to a version of truthmaker theory (Held 2016 – see Other Internet Resources). In what follows, the entry focuses on a rather different and possibly more widely accepted approach: the attempt to make sense of the lack of reciprocity in terms of the difference between inferential, evidential and explanatory uses of conditionals.
+Ambiguity would threaten this neat interdefinability. In the following section, we will explore whether there is an issue of concern here. The possibility of such ambiguity figures in work by Peter Downing on so-called “subjunctive” conditionals (Downing1959) and is explored subsequently as a more general problem in Wilson (1979)[^wilson-1979], Goldstein et al. (2005), ch. 6, and later writers. The general argument, in brief, is that in some contexts there is a lack of reciprocity between necessary and sufficient conditions understood in a certain way, while in other situations the conditions do relate reciprocally to each other in the way required by the standard theory. If ambiguity is present, then there is no general conclusion that can safely be drawn about reciprocity, or lack of it, between necessary and sufficient conditions. Instead there will be a need to distinguish the sense of condition that is being invoked in a particular context. Without specification of meaning and context, it would also be wrong to make the general claim that sentences like “if *p*, *q*” are generally paraphrasable as “*p* only if *q*”. The philosophical literature contains numerous ways to make sense of the lack of reciprocity between the two kinds of conditions. Using a semi-formal argument, Carsten Held, for example, has suggested a way of explaining why necessary and sufficient conditions are not converses by making appeal to a version of truthmaker theory (Held 2016 – see Other Internet Resources). In what follows, the entry focuses on a rather different and possibly more widely accepted approach: the attempt to make sense of the lack of reciprocity in terms of the difference between inferential, evidential and explanatory uses of conditionals.
 
 ## 4. Inferences, Reasons for Thinking, and Reasons Why
 
@@ -164,9 +164,9 @@ I am grateful to Richard Borthwick, Jake Chandler, Laurence Goldstein, Fred Kroo
 
 [^blumberg-1976]: Blumberg, Albert E., 1976. *Logic: A First Course*, New York: Alfred E. Knopf.
 
-[^crupi-2020]: Crupi, Vincenzo and Iacona, Andrea, 2020. “The Evidential Conditional”, *Erkenntnis*. doi:10.1007/s10670-020-00332-2
+[^crupi-2020]: Crupi, Vincenzo and Iacona, Andrea 2020. “The Evidential Conditional”, *Erkenntnis* 2020. doi:10.1007/s10670-020-00332-2
 
-[^crupi-2022]: –––, 2022. “On the Logical Form of Concessive Conditionals”, *Journal of Philosophical Logic*. doi:10.1007/s10992-021-09645-1
+[^crupi-2022]: –––, 2022. “On the Logical Form of Concessive Conditionals”, *Journal of Philosophical Logic*. doi:10.1007/s10992-021-09645-1/li>
 
 [^douven-2008]: Douven, Igor, 2008. “The Evidential Support Theory of Conditionals”, *Synthese*, 164(1): 19–44. doi:10.1007/s11229-007-9214-5
 
@@ -194,13 +194,13 @@ I am grateful to Richard Borthwick, Jake Chandler, Laurence Goldstein, Fred Kroo
 
 [^mccawley-1993]: McCawley, James, 1993. *Everything that Linguists have Always Wanted to Know about Logic*\* (Subtitle: \**But Were Ashamed to Ask*), Chicago: Chicago University Press.
 
-[^moore-2009]: Moore, Brooke N., and Parker, Richard, 2009. *Critical Thinking*, ninth edition, New York: McGraw Hill.
+[^moore-2009]: Moore, Brooke N., and Parker, Richard 2009. *Critical Thinking*, ninth edition, New York: McGraw Hill.
 
-[^nebel-2019]: Nebel, Jacob, 2019. “Normative Reasons as Reasons Why We Ought”, Mind 128(510): 459–484. doi:10.1093/mind/fzy013
+[^nebel-2019]: Nebel, Jacob 2019. “Normative Reasons as Reasons Why We Ought”, Mind 128(510): 459–484. doi:10.1093/mind/fzy013
 
 [^raidl-2021]: Raidl, Eric, Iacona, Andrea, and Crupi, Vincenzo 2021. “The Logic of the Evidential Conditional”, *The Review of Symbolic Logic*, First View: 1–13. doi:10.1017/S1755020321000071
 
-[^rothman-1976]: Rothman, K.J. 1976. “Causes”, *American Journal of Epidemiology*, 104: 587–92.
+[^rothman-1976]: Rothman, K.J. 1976. “Causes”, *American Journal of Epidemiology*, 104:587–92
 
 [^sanford-1989]: Sanford, David H., 1989. *If P, then Q: Conditionals and the Foundations of Reasoning*, London: Routledge.
 
@@ -208,7 +208,7 @@ I am grateful to Richard Borthwick, Jake Chandler, Laurence Goldstein, Fred Kroo
 
 [^southworth-2020]: Southworth, Jason and Swoyer, Chris, 2020. “Critical Reasoning: A User's Manual, v.4.0”. *Philosophy Open Educational Resources*, 2. [[Southworth and Swoyer 2020 available online](https://scholars.fhsu.edu/philosophy_oer/2/)]
 
-[^vanderweele-2017]: VanderWeele, Tyler J., 2017. “Invited Commentary: The Continuing Need for the Sufficient Cause Model Today”, *American Journal of Epidemiology*, 185(11): 1041–1043. doi:10.1093/aje/kwx083
+[^vanderweele-2017]: VanderWeele, Tyler J., 2017. “Invited Commentary: The Continuing Need for the Sufficient Cause Model Today”, *American Journal of Epidemiology*, 185, 11: 1041–1043. doi:10.1093/aje/kwx083
 
 [^von-1997]: Von Fintel, Kai, 1997. “Bare Plurals, Bare Conditionals and Only”, *Journal of Semantics*, 14: 1–56.
 

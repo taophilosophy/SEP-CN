@@ -431,7 +431,7 @@ So, Ramsey concludes that positing this distinction is ill-motivated:
 
 [^note-31]: On bare particulars, see Alston (1954)[^alston-1954], Armstrong (1989: 94ff; 1997: ch 3, 4, 7), Bailey (2012)[^bailey-2012], R. Baker (1967)[^baker-1967], Benovski (2008, 2010), Bergmann (1947)[^bergmann-1947], Brower (2014: 35–41)[^brower-2014], Connolly (2015)[^connolly-2015], Davis (2013a, 2013b)[^davis-2013a][^davis-2013b], Garcia (2015b)[^garcia-2015b], Giberman (2012, 2015)[^giberman-2012][^giberman-2015], Koons & Pickavance (2015: ch 5), Korman (2010)[^korman-2010], Losonsky (1987)[^losonsky-1987], Loux (1997), Moreland (1998, 2001, 2013)[^moreland-1998][^moreland-2001][^moreland-2013], Moreland & Pickavance (2003), Morganti (2011)[^morganti-2011], Oaklander & Rothstein (2000), Pasnau (2011: ch 2), Pickavance (2009, 2014)[^pickavance-2009][^pickavance-2014], Preston (2005)[^preston-2005], Sider (2006)[^sider-2006], and Wildman (2015)[^wildman-2015].
 
-[^note-32]: Aristotle is the most well-known proponent of hylomorphism (see *Metaphysics* VII 8.1034a5–6, *Metaphysics* VII 8.1033b23–25, *Metaphysics* VII 11.1037a29–30, *Metaphysics* VII 15.1039b20–25, and *Metaphysics* XI 9.1058b8–12), but Plato may have beat him to the punch (*Timaeus* 48c–53c).
+[^note-32]: Aristotle is the most well-known proponent of hylomorphism (see *Metaphysics* VII 8.1034a5–6, *Metaphysics* VII 8.1033b23–25, *Metaphysics* VII 11.1037a29–30, *Metaphysics* VII 15.1939b20–25, and *Metaphysics* XI 9.1058b80–12), but Plato may have beat him to the punch (*Timaeus* 48c–53c).
 
 For the contemporary discussion, see Bailey (2015)[^bailey-2015], Bailey & Wilkins (2018), Barnes (2003)[^barnes-2003], Britton (2012)[^britton-2012], Brower (2014)[^brower-2014], Fine (1992, 1994, 1999, 2008)[^fine-1992][^fine-1994][^fine-1999][^fine-2008], Harte (2002)[^harte-2002], Inman (2014)[^inman-2014], Jaworski (2014, 2016)[^jaworski-2014][^jaworski-2016], Johnston (2006)[^johnston-2006], Koons (2014)[^koons-2014], Koslicki (2008)[^koslicki-2008], Koslicki (2018)[^koslicki-2018], Manning (2013)[^manning-2013], Marmodoro (2013)[^marmodoro-2013], Oderberg (2007)[^oderberg-2007], Pasnau (2010: 635–646)[^pasnau-2010], Rea (1998, 2011)[^rea-1998][^rea-2011], Robinson (2014)[^robinson-2014], Sattig (2015)[^sattig-2015], Sellars (1952)[^sellars-1952], Sidelle (2014)[^sidelle-2014], Toner (2010, 2013)[^toner-2010][^toner-2013], and Ward (2014)[^ward-2014].
 
@@ -663,7 +663,7 @@ For the contemporary discussion, see Bailey (2015)[^bailey-2015], Bailey & Wilki
 
 [^laycock-2005]: –––, 2005, “Mass nouns, Count nouns and Non-count nouns: Philosophical Aspects”, *Encyclopedia of Language and Linguistics*, second edition, Amsterdam: Elsevier, pp. 534–538
 
-[^laycock-2006]: –––, 2006, *Words without Objects*, Oxford: Oxford University Press. doi:10.1093/0199281718.001.0001
+[^laycock-2006]: –––, 2006, *Words without Objects:* , Oxford: Oxford University Press. doi:10.1093/0199281718.001.0001
 
 [^lee-2022]: Lee, Seungil, forthcoming, “Bundle Theory and Weak Discernibility”, *Analytic Philosophy*, first online 10 January 2022. doi:10.1111/phib.12255
 
@@ -907,7 +907,7 @@ For the contemporary discussion, see Bailey (2015)[^bailey-2015], Bailey & Wilki
 
 [^inwagen-1998]: –––, 1998, “Meta-Ontology”, *Erkenntnis*, 48(2–3): 233–250. doi:10.1023/A:1005323618026
 
-[^inwagen-2001]: –––, 2001, “It is Nonsensical to Speak of the *Total Number of Objects*”, in *Metaphysik im postmetaphysichen Zeitalter/Metaphysics in the post-metaphysical age*, (Schriftenreihe der Wittgenstein-Gesellschaft, 28), Uwe Meixner (ed.), Wien: ÖBV & HPT Verlagsgesellschaft, pp. 61–71.
+[^inwagen-2001]: –––, 2001, “It is Nonsensical to Speak of the *Total Number of Objects*”, in *Metaphysik im postmetaphysichen Zeitalter/Metaphysics in the post-metaphysical age*, (Schriftenreihe der Wittgenstein-Gesellschaft, 28), Uwe Meixner (ed.), Wien: ÖbvetHpt Verlagsgesellschaft, pp. 61–71.
 
 [^inwagen-2004]: –––, 2004, “A Theory of Properties”, *Oxford Studies in Metaphysics*, 1: 107–138.
 
@@ -919,7 +919,7 @@ For the contemporary discussion, see Bailey (2015)[^bailey-2015], Bailey & Wilki
 
 [^inwagen-2021]: –––, 2021, “What is an Ontological Category?”, *Disputatio*, 10(16): 241–261.
 
-[^inwagen-2023]: –––, 2023, *Being: A Study in Ontology*, Oxford: Oxford University Press.
+[^inwagen-2023]: –––, 2023, *Being: A Study in Ontology*, *Oxford*: Oxford University Press.
 
 [^varzi-2002]: Varzi, Achille C., 2002, “Words and Objects”, in Andrea Bottani, Massimiliano Carrara, and Daniele Giaretta (eds.), *Individuals, Essence, and Identity: Themes of Analytic Metaphysics*, Dordrecht: Kluwer Academic Publishers, pp. 49–75.
 

@@ -4,7 +4,8 @@
 零信任前置的 HTML-first 核查：翻译动笔之前先确认源 HTML 本身格式与内容无恙。
 与 en_integrity.py（包完整性/引用闭包）互补，本工具查内容与结构正确性：
   1. 页面真实性：错误页/风控页标记、</html> 截断；
-  2. typo 候选（启发式，只产候选不裁决——人按 ADR-0038 四类定性）：
+  2. typo 候选（启发式，只产候选不裁决——人按 ADR-0062 两路定性：文字层→
+     全局勘误表＋中文译注，格式层→baseline/en-patches.json 补丁池）：
      词内混入数字/等号（`Cambridh=ge`、`3s` 型）、重复词、异常标点串；
   3. 死链：页内锚点（href="#X" → id/name=X）、站内词条链接（/entries/<slug>/
      须在 baseline/entries.json 目录中）、外链盘点；--net 活体检查
@@ -17,8 +18,10 @@
   8. 段落/标题：空段落（告警）、标题层级跳档（告警）。
 
 机检不作裁判（specs/018 先例）：hard 项是 advance --step s0 的门禁（task_ops
-_source_gate）；warn/info 逐条人工定性，处置出口＝en-errata（ADR-0038 四类）/
-登记待考/豁免留痕。死链只登记不改正文（外链失效属上游时效，不属勘误四类）。
+_source_gate）；warn/info 逐条人工定性，处置出口（ADR-0062，en/ 绝对冻结）＝
+全局勘误表（specs/001-sep-sync-pipeline/results/en-errata.md）＋中文译注；
+格式层问题入 baseline/en-patches.json 补丁池；其余登记待考/豁免留痕。死链只
+登记不改正文（外链失效属上游时效，不属缺陷面）。
 
 用法:
   python tools/en_source_audit.py <slug>...       # 离线审计
@@ -119,7 +122,7 @@ def _check_page(raw, out):
 
 
 def _check_typo(text, out):
-    """启发式候选（warn 级）：只产候选，人按 ADR-0038 四类定性。"""
+    """启发式候选（warn 级）：只产候选，人按 ADR-0062 两路定性（表＋译注／补丁）。"""
     cands = []
     seen = set()
     # 词内混入数字/等号（Lakatos1978a、Cambridh=ge 型；1999a 年份后缀不以字母起头不命中）
@@ -262,7 +265,7 @@ def _net_check(external, out, refresh=False):
             dead.append({"url": url, "status": status})
     out["counts"]["net_checked"] = checked
     for d in dead:
-        d.update(cls="dead_link", note="登记不修（上游时效，不属 ADR-0038 四类）")
+        d.update(cls="dead_link", note="登记不修（上游时效，不属缺陷面；ADR-0062）")
         out["warn"].append(d)
 
 

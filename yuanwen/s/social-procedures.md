@@ -131,7 +131,7 @@ In case $w$ prefers $m$ to her own fiancé $m'$, she swaps: $(m,w)$ replaces $(m
 
 Note that the Gale-Shapley matching algorithm is hugely favourable to the party that is doing the proposing. The proposing party gets a chance to make proposals to any candidate, in order of preference. But at the start of the procedure the receiving party has to say “yes” to any proposal! The result of swapping the roles of the men and the women in the algorithm will also compute a stable match, but one that is more advantageous to the women.
 
-The Gale-Shapley procedure runs in time quadratic in the number of men and women (see, e.g., Cechlárová et al. 2005)[^cechlárová-2005]. Pini et al. (2011) show how participants can easily manipulate the outcome of the procedure by misrepresenting their true preferences. Fortunately, Pini et al. also present an alternative procedure for which manipulation is hard, in that coming up with an individually profitable misrepresentation of one’s preferences is a computationally complex task.
+The Gale-Shapley procedure runs in time quadratic in the number of men and women (see, e.g., Cechlérová et al. 2005)[^cechlérová-2005]. Pini et al. (2011) show how participants can easily manipulate the outcome of the procedure by misrepresenting their true preferences. Fortunately, Pini et al. also present an alternative procedure for which manipulation is hard, in that coming up with an individually profitable misrepresentation of one’s preferences is a computationally complex task.
 
 The Gale-Shapley algorithm has many important applications, also outside of the area of marriage brokering; Gale and Shapley themselves discuss college admission procedures (1962). The next subsection presents another application.
 
@@ -293,9 +293,9 @@ I would like to express my gratitude to Jan van Eijck for the enjoyable time of 
 
 [^steinhaus-1948]: Steinhaus, H., 1948, “The Problem of Fair Division”, *Econometrica*, 16: 101–104.
 
-[^gale-1962]: Gale, D., and L. Shapley, 1962, “College Admissions and the Stability of Marriage”, *American Mathematical Monthly*, 69: 9–15.
+[^gale-1962]: Gale, D., and L. Shapley, L., 1962, “College Admissions and the Stability of Marriage, *American Mathematical Monthly*, 69: 9–15.
 
-[^cechlárová-2005]: Cechlárová, K., and D.F. Manlove, 2005, “The Exchange-Stable Marriage Problem”, *Discrete Applied Mathematics*, 152(1–3): 109–122.
+[^cechlérová-2005]: Cechlérová, K., and D.F. Manlove, 2005, “The Exchange-Stable Marriage Problem”, *Discrete Applied Mathematics*, 152(1–3): 109–122.
 
 [^parikh-2012]: Parikh, R., and M. Pauly, 2012, “What is Social Software?”, in van Eijck and Verbrugge 2012: 3–14.
 
@@ -331,7 +331,7 @@ I would like to express my gratitude to Jan van Eijck for the enjoyable time of 
 
 [^brandenburger-2014]: Brandenburger, A., 2014, *The Language of Game Theory: Putting Epistemics into the Mathematics of Games*, Singapore: World Scientific.
 
-[^bulling-2015]: Bulling, N., and V. Goranko, 2015, “Logics for Reasoning About Strategic Abilities in Multi-Player Games”, in van Benthem, Ghosh, & Verbrugge 2015: 93–136.
+[^bulling-2015]: Bulling, N., and V. Goranko, 2015, “Logics for Reasoning About Strategic Abiliies in Multi-Player Games”, in van Benthem, Ghosh, & Verbrugge 2015: 93–136.
 
 [^camerer-2003]: Camerer, C.F., 2003, *Behavioral Game Theory: Experiments on Strategic Interaction*, Princeton: Princeton University Press.
 
@@ -353,9 +353,9 @@ I would like to express my gratitude to Jan van Eijck for the enjoyable time of 
 
 [^klein-2017]: Klein, D., and E. Pacuit, 2017, “Focusing on Campaigns”, in Başkent, Moss, & Ramanujam 2017, pp. 77–90.
 
-[^meijering-2012]: Meijering, B., H. van Rijn, N. Taatgen, and R. Verbrugge, 2012, “What Eye Movements Can Tell about Theory of Mind in a Strategic Game”, *PLoS ONE*, 7(9), e45961, doi:10.1371/journal.pone.0045961
+[^meijering-2012]: Meijering, B., H. van Rijn, N. Taatgen, and R. Verbrugge, 2012,“What Eye Movements Can Tell about Theory of Mind in a Strategic Game”, *PLoS ONE*, 7(9), e45961, doi:10.1371/journal.pone.0045961
 
-[^meijering-2014]: Meijering, B., N. Taatgen, H. van Rijn, and R. Verbrugge, 2014, “Modeling Inference of Mental States: As Simple as Possible, as Complex as Necessary”, *Interaction Studies*, 15(3): 455–477.
+[^meijering-2014]: Meijering, B., N. Taatgen, H. van Rijn, and R. Verbrugge, 2014, “Modeling Inference of Mental States: As Simple as Possible, as Complex as Necessary“, *Interaction Studies*, 15(3): 455–477.
 
 [^pacuit-2015]: Pacuit, E., 2015, “Strategic Reasoning in Games”, in van Benthem, Ghosh, & Verbrugge 2015: 3–33.
 
@@ -367,7 +367,7 @@ I would like to express my gratitude to Jan van Eijck for the enjoyable time of 
 
 [^sigmund-2010]: Sigmund, K., 2010, *The Calculus of Selfishness*, (Princeton Series in Theoretical and Computational Biology), Princeton and Oxford: Princeton University Press.
 
-[^top-2018]: Top, J., R. Verbrugge, and S. Ghosh, 2018, “An Automated Method for Building Cognitive Models for Turn-Based Games from a Strategy Logic”, *Games*, 9(3): 44. doi:10.3390/g9030044
+[^top-2018]: Top, J., R. Verbrugge, and S. Ghosh, 2018, “An Automated Method for Building Cognitive Models for Turn-Based Games from a Strategy Logic”, *Games*, 9(3),44; doi:10.3390/g9030044
 
 [^vazirani-2007]: Vazirani, V.V., N. Nisan, T. Roughgarden, and E. Tardos (eds.), 2007, *Algorithmic Game Theory*, Cambridge: Cambridge University Press.
 

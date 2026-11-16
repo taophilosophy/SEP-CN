@@ -1,7 +1,25 @@
 {
   "schema": "sep-cn-divergences/1",
-  "updated_at": "2026-11-15T17:13:36Z",
-  "divergences": [
+  "updated_at": "2026-11-16T07:24:23Z",
+  "divergences": [],
+  "tombstones": [
+    {
+      "slug": "social-procedures",
+      "path": "en/social-procedures/index.html",
+      "upstream_sha256": "b0a2311b4426396323f371a258899eaee203bbd104e053befbd0c3fb15d815a7",
+      "local_sha256": "7e9ebcfd2b3ba6cf174514a6849fcbb1972daf4af4e98e68a5188fa9ee8fde77",
+      "bytes": {
+        "upstream": 67666,
+        "local": 67672
+      },
+      "commit": "df7183505",
+      "subject": "015 偿还 social-procedures：偏好表、键标错配与书目分组（en 同改）",
+      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
+      "reason": "en 同改（他会勘误批，提交见 git log；ADR-0038 四类）",
+      "registered_at": "2026-11-14T19:42:00Z",
+      "unregistered_at": "2026-11-14T20:15:31Z",
+      "unregister_reason": "本地字节随 2e8b94641 再勘误变更（Meijering 2014 闭引号）；旧登记 local_sha256 7e9ebcfd 已过期，按现字节重登记"
+    },
     {
       "slug": "albo-joseph",
       "path": "en/albo-joseph/index.html",
@@ -15,7 +33,9 @@
       "subject": "015 偿还 albo-joseph：书目拼写与标点勘误",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目拼写与标点勘误（en 同改，ADR-0038 ①）",
-      "registered_at": "2026-11-14T18:10:01Z"
+      "registered_at": "2026-11-14T18:10:01Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "antonio-rosmini",
@@ -30,7 +50,9 @@
       "subject": "015 偿还 antonio-rosmini：书目区重建、缩写表与正文语病（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目区重建、缩写表与正文语病（en 同改）",
-      "registered_at": "2026-11-14T18:10:02Z"
+      "registered_at": "2026-11-14T18:10:02Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "arabic-islamic-mysticism",
@@ -45,7 +67,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "年份勘误：Sabziwarī 卒年 1797→1873（1797 为生年，同页自相矛盾 ②）",
-      "registered_at": "2026-11-14T18:10:03Z"
+      "registered_at": "2026-11-14T18:10:03Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "blame",
@@ -60,7 +84,9 @@
       "subject": "015 偿还 blame：列表标记、致谢层级、书目标点与斜体",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：列表标记、致谢层级、书目标点与斜体",
-      "registered_at": "2026-11-14T18:10:03Z"
+      "registered_at": "2026-11-14T18:10:03Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "bohr-correspondence",
@@ -75,7 +101,9 @@
       "subject": "……",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "quantentheoretische 拼写与书目标点（ADR-0038 ①；en-errata.md 本轮补登）",
-      "registered_at": "2026-11-14T18:10:04Z"
+      "registered_at": "2026-11-14T18:10:04Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "egoism",
@@ -90,7 +118,9 @@
       "subject": "egoism：en 同步 Korsgaard 缩写与双标点",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "en 同步 Korsgaard 缩写与双标点",
-      "registered_at": "2026-11-14T18:10:05Z"
+      "registered_at": "2026-11-14T18:10:05Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "emerson",
@@ -105,7 +135,9 @@
       "subject": "……",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "书目标点与斜体跨度、(ed.) 复数（ADR-0038 ①）",
-      "registered_at": "2026-11-14T18:10:05Z"
+      "registered_at": "2026-11-14T18:10:05Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "emilie-du-chatelet",
@@ -120,7 +152,9 @@
       "subject": "015 偿还 emilie-du-chatelet：书目拼写、编者标记与年份（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目拼写、编者标记与年份（en 同改）",
-      "registered_at": "2026-11-14T18:10:06Z"
+      "registered_at": "2026-11-14T18:10:06Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "emotion-Christian-tradition",
@@ -145,7 +179,9 @@
           "conflicts": 0,
           "merged": "manual"
         }
-      ]
+      ],
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "epictetus",
@@ -160,7 +196,9 @@
       "subject": "015 偿还 epictetus：重复条目、实体拼写、斜体与空格",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：重复条目、实体拼写、斜体与空格",
-      "registered_at": "2026-11-14T18:10:07Z"
+      "registered_at": "2026-11-14T18:10:07Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "epistemology-language-tibetan",
@@ -175,7 +213,9 @@
       "subject": "1",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "拼写与期刊名重音（Studi/Études/Blackwell，ADR-0038 ①）",
-      "registered_at": "2026-11-14T18:10:09Z"
+      "registered_at": "2026-11-14T18:10:09Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "equal-ed-opportunity",
@@ -190,7 +230,9 @@
       "subject": "……",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "页码区间 1137–1176、机构名、Epigenetics 拼写（ADR-0038 ①②）",
-      "registered_at": "2026-11-14T18:10:10Z"
+      "registered_at": "2026-11-14T18:10:10Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "erasmus",
@@ -205,7 +247,9 @@
       "subject": "015 偿还 erasmus：三条说明脚注译出、haecceities 等勘误",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：三条说明脚注译出、haecceities 等勘误",
-      "registered_at": "2026-11-14T18:10:11Z"
+      "registered_at": "2026-11-14T18:10:11Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "ethics-deontological",
@@ -220,7 +264,9 @@
       "subject": "015 偿还 ethics-deontological：作者拼写与键名、致谢层级、虚词",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：作者拼写与键名、致谢层级、虚词",
-      "registered_at": "2026-11-14T18:10:12Z"
+      "registered_at": "2026-11-14T18:10:12Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "film",
@@ -235,7 +281,9 @@
       "subject": "015 偿还 film：书目人名拼写、键标与书名（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目人名拼写、键标与书名（en 同改）",
-      "registered_at": "2026-11-14T18:10:12Z"
+      "registered_at": "2026-11-14T18:10:12Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "gelukpa",
@@ -250,7 +298,9 @@
       "subject": "？",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "书名 Stages of the Path、转写 lam gtso rnam gsum、斜体合并（ADR-0038 ①）",
-      "registered_at": "2026-11-14T18:10:13Z"
+      "registered_at": "2026-11-14T18:10:13Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "oakeshott",
@@ -265,7 +315,9 @@
       "subject": "015 偿还 oakeshott：小标题、Nicomachean 拼写、条末句点",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：小标题、Nicomachean 拼写、条末句点",
-      "registered_at": "2026-11-14T18:10:14Z"
+      "registered_at": "2026-11-14T18:10:14Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "object",
@@ -280,7 +332,9 @@
       "subject": "015 偿还 object：末级小节标题、页码勘误、出版社与斜体",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：末级小节标题、页码勘误、出版社与斜体",
-      "registered_at": "2026-11-14T18:10:15Z"
+      "registered_at": "2026-11-14T18:10:15Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "object",
@@ -295,7 +349,9 @@
       "subject": "015 偿还 object：末级小节标题、页码勘误、出版社与斜体",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：末级小节标题、页码勘误、出版社与斜体（notes 同批）",
-      "registered_at": "2026-11-14T18:10:16Z"
+      "registered_at": "2026-11-14T18:10:16Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "occasionalism",
@@ -310,7 +366,9 @@
       "subject": "015 偿还 occasionalism：译名统一、斜体残留、书目勘误",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：译名统一、斜体残留、书目勘误",
-      "registered_at": "2026-11-14T18:10:18Z"
+      "registered_at": "2026-11-14T18:10:18Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "sovereignty",
@@ -325,7 +383,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：强标签包裹页码、年份 1999→1998 同页矛盾（②）",
-      "registered_at": "2026-11-14T18:10:19Z"
+      "registered_at": "2026-11-14T18:10:19Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "auriol",
@@ -340,7 +400,9 @@
       "subject": "……",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "auriol 勘误（en 同改，登记册见 en-errata.md；他会 028 试点批）",
-      "registered_at": "2026-11-14T18:17:56Z"
+      "registered_at": "2026-11-14T18:17:56Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "moral-responsibility-empirical",
@@ -355,7 +417,9 @@
       "subject": "015 偿还 moral-responsibility-empirical：括号体例、章节编号与键标（en 同改）",
       "base_commit": "e7c40854ea9507260e30330087be868e07bdffd2",
       "reason": "015 偿还：§3 章节编号 3.1→3.2/3.3、hofmann-2012 页码 OCR、sinnott-2013 标点（ADR-0038 ②①）",
-      "registered_at": "2026-11-14T18:25:22Z"
+      "registered_at": "2026-11-14T18:25:22Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "bodily-awareness",
@@ -370,7 +434,9 @@
       "subject": "015 偿还 bodily-awareness：漏字反义、照录区十八处讹误与键标（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：照录区十八处拼写/标点与人名勘误、Matthen 题名、vignemont forthcoming→2021（ADR-0038 ①②）；书目体例勘误：多行 li 并行、句末句点、期刊名 Communications、引号（他会/网页直改批，提交 9a7a30b69）",
-      "registered_at": "2026-11-14T19:16:55Z"
+      "registered_at": "2026-11-14T19:16:55Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "academic-freedom",
@@ -395,7 +461,9 @@
           "conflicts": 0,
           "merged": "auto"
         }
-      ]
+      ],
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "action",
@@ -410,7 +478,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:48Z"
+      "registered_at": "2026-11-14T19:39:48Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "aesthetics-18th-british",
@@ -425,7 +495,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:49Z"
+      "registered_at": "2026-11-14T19:39:49Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "agrippa-nettesheim",
@@ -440,7 +512,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:49Z"
+      "registered_at": "2026-11-14T19:39:49Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "al-qudat",
@@ -455,7 +529,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:50Z"
+      "registered_at": "2026-11-14T19:39:50Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "alcmaeon",
@@ -470,7 +546,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:51Z"
+      "registered_at": "2026-11-14T19:39:51Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "alexander-crummell",
@@ -485,7 +563,9 @@
       "subject": "015 偿还 lawphil-theory／alexander-crummell：文白句、节标题、拼写",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:51Z"
+      "registered_at": "2026-11-14T19:39:51Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "biology-philosophy",
@@ -500,7 +580,9 @@
       "subject": "015 偿还 biology-philosophy：坏引号、英文导览译出、残件与拼写",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:52Z"
+      "registered_at": "2026-11-14T19:39:52Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "bloch",
@@ -515,7 +597,9 @@
       "subject": "015 偿还 leibniz-modal／leibniz-logic-influence／scholz／bloch：源头勘误＋中文同步",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:52Z"
+      "registered_at": "2026-11-14T19:39:52Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "boolalg-math",
@@ -530,7 +614,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:53Z"
+      "registered_at": "2026-11-14T19:39:53Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "cockburn",
@@ -545,7 +631,9 @@
       "subject": "015 偿还 cockburn：拼写勘误、其他网络资源译出、脚注表述与空格",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:53Z"
+      "registered_at": "2026-11-14T19:39:53Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "conway",
@@ -560,7 +648,9 @@
       "subject": "015 偿还 conway：书名两种写法统一、apokatastasis 拼写、断句与刊名标点",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:54Z"
+      "registered_at": "2026-11-14T19:39:54Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "duhem",
@@ -575,7 +665,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:54Z"
+      "registered_at": "2026-11-14T19:39:54Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "economic-democracy",
@@ -590,7 +682,9 @@
       "subject": "015 偿还 economic-democracy／alyngton：拼写与页码改正、超长段分节",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:55Z"
+      "registered_at": "2026-11-14T19:39:55Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "elisabeth-bohemia",
@@ -605,7 +699,9 @@
       "subject": "015 偿还四条：elisabeth-bohemia／lambert-auxerre／landmann-kalischer／law-ideology（en 同改重转）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:55Z"
+      "registered_at": "2026-11-14T19:39:55Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "epistemology-evolutionary",
@@ -620,7 +716,9 @@
       "subject": "？",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:56Z"
+      "registered_at": "2026-11-14T19:39:56Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "erfurt",
@@ -635,7 +733,9 @@
       "subject": "015 偿还批量：86 个词条统一参考文献标题与 SEP 学会之友链接（附清单）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:56Z"
+      "registered_at": "2026-11-14T19:39:56Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "ibn-ezra",
@@ -650,7 +750,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:57Z"
+      "registered_at": "2026-11-14T19:39:57Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "incommensurability",
@@ -665,7 +767,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:57Z"
+      "registered_at": "2026-11-14T19:39:57Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "incompatibilism-theories",
@@ -690,7 +794,9 @@
           "conflicts": 0,
           "merged": "auto"
         }
-      ]
+      ],
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "intellectual-property",
@@ -705,7 +811,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:58Z"
+      "registered_at": "2026-11-14T19:39:58Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "lady-masham",
@@ -720,7 +828,9 @@
       "subject": "015 偿还批量：86 个词条统一参考文献标题与 SEP 学会之友链接（附清单）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:59Z"
+      "registered_at": "2026-11-14T19:39:59Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "lakatos",
@@ -735,7 +845,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:59Z"
+      "registered_at": "2026-11-14T19:39:59Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "lambert-auxerre",
@@ -750,7 +862,9 @@
       "subject": "015 偿还四条：elisabeth-bohemia／lambert-auxerre／landmann-kalischer／law-ideology（en 同改重转）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:39:59Z"
+      "registered_at": "2026-11-14T19:39:59Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "landmann-kalischer",
@@ -765,7 +879,9 @@
       "subject": "015 偿还四条：elisabeth-bohemia／lambert-auxerre／landmann-kalischer／law-ideology（en 同改重转）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:00Z"
+      "registered_at": "2026-11-14T19:40:00Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "law-ideology",
@@ -780,7 +896,9 @@
       "subject": "015 偿还四条：elisabeth-bohemia／lambert-auxerre／landmann-kalischer／law-ideology（en 同改重转）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:00Z"
+      "registered_at": "2026-11-14T19:40:00Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "leibniz-ethics",
@@ -795,7 +913,9 @@
       "subject": "转换器修正五：跳过缩写表裸姓名条目；015 偿还 leibniz-ethics",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:01Z"
+      "registered_at": "2026-11-14T19:40:01Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "leibniz-evil",
@@ -810,7 +930,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:02Z"
+      "registered_at": "2026-11-14T19:40:02Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "leibniz-logic-influence",
@@ -825,7 +947,9 @@
       "subject": "015 偿还 leibniz-modal／leibniz-logic-influence／scholz／bloch：源头勘误＋中文同步",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:03Z"
+      "registered_at": "2026-11-14T19:40:03Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "leibniz-mind",
@@ -840,7 +964,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:03Z"
+      "registered_at": "2026-11-14T19:40:03Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "leibniz-modal",
@@ -855,7 +981,9 @@
       "subject": "015 偿还 leibniz-modal／leibniz-logic-influence／scholz／bloch：源头勘误＋中文同步",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:04Z"
+      "registered_at": "2026-11-14T19:40:04Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "leucippus",
@@ -870,7 +998,9 @@
       "subject": "015 偿还 leucippus：小标题译出、衍字、照录区句点与卷期体例",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:04Z"
+      "registered_at": "2026-11-14T19:40:04Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "locke-on-medicine",
@@ -885,7 +1015,9 @@
       "subject": "015 偿还 locke-on-medicine：小标题、拼写勘误、引文断句合并",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:05Z"
+      "registered_at": "2026-11-14T19:40:05Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "logic-preference",
@@ -900,7 +1032,9 @@
       "subject": "015 偿还 logic-preference 等九条：图注重复行清理、V2 传递式、照录区勘误",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:06Z"
+      "registered_at": "2026-11-14T19:40:06Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "logic-provability",
@@ -925,7 +1059,9 @@
           "conflicts": 0,
           "merged": "auto"
         }
-      ]
+      ],
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "lorenzo-valla",
@@ -940,7 +1076,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:07Z"
+      "registered_at": "2026-11-14T19:40:07Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "marsilius-inghen",
@@ -955,7 +1093,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:07Z"
+      "registered_at": "2026-11-14T19:40:07Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "mathematics-inconsistent",
@@ -970,7 +1110,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:08Z"
+      "registered_at": "2026-11-14T19:40:08Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "modesty-humility",
@@ -985,7 +1127,9 @@
       "subject": "015 偿还 modesty-humility：书目逗号、Aidōs 转写、引号方向与斜体",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:09Z"
+      "registered_at": "2026-11-14T19:40:09Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "molyneux-problem",
@@ -1000,7 +1144,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:10Z"
+      "registered_at": "2026-11-14T19:40:10Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "montesquieu",
@@ -1015,7 +1161,9 @@
       "subject": "015 偿还 montesquieu：标题姓名体例、法文书名译出、照录区拼写与卷期",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:10Z"
+      "registered_at": "2026-11-14T19:40:10Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "obligationes",
@@ -1030,7 +1178,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:11Z"
+      "registered_at": "2026-11-14T19:40:11Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "organ-donation",
@@ -1045,7 +1195,9 @@
       "subject": "015 偿还 organ-donation：作者名倒置、人名拼写、重复条目、卷号与刊名（en 同改重转）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:11Z"
+      "registered_at": "2026-11-14T19:40:11Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "origin-descent",
@@ -1060,7 +1212,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:12Z"
+      "registered_at": "2026-11-14T19:40:12Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "redistribution",
@@ -1075,7 +1229,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:12Z"
+      "registered_at": "2026-11-14T19:40:12Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "religious-experience",
@@ -1090,7 +1246,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:13Z"
+      "registered_at": "2026-11-14T19:40:13Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "schlegel",
@@ -1105,7 +1263,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:13Z"
+      "registered_at": "2026-11-14T19:40:13Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "scholz",
@@ -1120,7 +1280,9 @@
       "subject": "015 偿还 leibniz-modal／leibniz-logic-influence／scholz／bloch：源头勘误＋中文同步",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:14Z"
+      "registered_at": "2026-11-14T19:40:14Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "sophismata",
@@ -1135,7 +1297,9 @@
       "subject": "015 偿还 sophismata：源头勘误＋小标题与三条说明脚注译出",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:14Z"
+      "registered_at": "2026-11-14T19:40:14Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "spacetime-convensimul",
@@ -1150,7 +1314,9 @@
       "subject": "015 偿还 schema／spacetime-convensimul：叠字、英文括注、拼写",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015/勘误期 en 同改（历史钉被重算污染，2026-11-15 依 ADR-0045 冻结语义回修钉并补登记）",
-      "registered_at": "2026-11-14T19:40:15Z"
+      "registered_at": "2026-11-14T19:40:15Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "social-procedures",
@@ -1165,7 +1331,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "en 同改（819234eeb 六处排印/引号 + 2e8b94641 闭引号；ADR-0038 类①，en-errata.md §四）",
-      "registered_at": "2026-11-14T20:15:32Z"
+      "registered_at": "2026-11-14T20:15:32Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "bradley-moral",
@@ -1180,7 +1348,9 @@
       "subject": "015 偿还 bradley-moral：编者注、书目分组与九处讹误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Goebbardt→Goebhardt、Cambridge::、Santayana 姓名、fFirst、括号不配对、ana/Volume11、缺句点（ADR-0038 ①）",
-      "registered_at": "2026-11-14T20:47:40Z"
+      "registered_at": "2026-11-14T20:47:40Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "arabic-islamic-phil-math",
@@ -1195,7 +1365,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "en 同改（他会勘误批 2026-11-15，ADR-0038 四类；提交见 git log）",
-      "registered_at": "2026-11-14T21:17:41Z"
+      "registered_at": "2026-11-14T21:17:41Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "hutcheson",
@@ -1210,7 +1382,9 @@
       "subject": "015 偿还 hutcheson：卒年、taste 误译、引号体例与书目勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还 hutcheson：1725 逗号、”:, ×2、Interpretated、Kail 逗号、Co..、Clarke 引号空格、Schmitter 句点、writes 冒号、单引号改双引号并补收束、Smart 19743／1974→1973、death in 1755→卒年 1746（ADR-0038 ①②）",
-      "registered_at": "2026-11-14T21:38:59Z"
+      "registered_at": "2026-11-14T21:38:59Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "ockham",
@@ -1225,7 +1399,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还 ockham：Opera Theologica 18→10 卷、Reportio、Epistola 条多余括号、De election(e)、Keele 逗号、Maurer 题名冒号、Spade Ockhams’（ADR-0038 ①②）",
-      "registered_at": "2026-11-14T22:17:41Z"
+      "registered_at": "2026-11-14T22:17:41Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "kant-hume-morality",
@@ -1240,7 +1416,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：doi 0.1093、Bricke 题名窜名、Benthem、Föster→Förster、radcliffe 斜体跨引号、robinson 年份重出与 Surprenant、H 段括注（ADR-0038 ①）",
-      "registered_at": "2026-11-14T22:30:27Z"
+      "registered_at": "2026-11-14T22:30:27Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "kant-reason",
@@ -1255,7 +1433,9 @@
       "subject": "015 偿还 kant-reason：键名、题名斜体、体例与问号占位（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：møller 斜体提前收束、rescher 题名拆斜体（ADR-0038 ①）",
-      "registered_at": "2026-11-14T22:59:03Z"
+      "registered_at": "2026-11-14T22:59:03Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "kant-reason",
@@ -1270,7 +1450,9 @@
       "subject": "015 偿还 kant-reason：键名、题名斜体、体例与问号占位（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：注 35 作者遗留 (?) 占位（ADR-0038 ①）",
-      "registered_at": "2026-11-14T22:59:04Z"
+      "registered_at": "2026-11-14T22:59:04Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "kant-social-political",
@@ -1285,7 +1467,9 @@
       "subject": "015 偿还 kant-social-political：引称挂键、括号句号与书目勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：O’Neill/Waldron 逗号、Yovel 姓名重、Stone 双冒号脱 the、Willaschek-1997 期刊斜体、Fleischacker 句点、Korsgaard/Wilson In→in、Doyle 页码 and（ADR-0038 ①）",
-      "registered_at": "2026-11-14T23:18:56Z"
+      "registered_at": "2026-11-14T23:18:56Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "knowledge-analysis",
@@ -1300,7 +1484,9 @@
       "subject": "！",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Antognazza 年份重、Hirvelä 冒号空格与 doi、Cohen 逗号、Ichikawa 引号未闭与 2017-a、Gibbons/2024 出版地、Pappas 年份、Worsnip 连接号（ADR-0038 ①②）",
-      "registered_at": "2026-11-15T00:10:37Z"
+      "registered_at": "2026-11-15T00:10:37Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "knowledge-value",
@@ -1315,7 +1501,9 @@
       "subject": "015 偿还 knowledge-value：英文残留、73 处挂键、结构小节与书目勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Carter 引号空格与逗号、Jarczewski 期刊斜体、Goldman 标点、DeRose 空格、Pritchard 连字符与句点、Turri 句点与 URL（ADR-0038 ①）",
-      "registered_at": "2026-11-15T00:35:55Z"
+      "registered_at": "2026-11-15T00:35:55Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "aristotle-causality",
@@ -1330,7 +1518,9 @@
       "subject": "015 偿还 aristotle-causality：英文括注、术语表去重与书目勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：PRactice/Cambrdige/Phyiscs/Houskeeper、Bradie 姓名年份、4th Symposium、101: 791、Aristotle’s Biology×2、逗号空格×3、引号空格×2、Stein 2021 句点、Judson 双标点、Furley ’s（ADR-0038 ①）",
-      "registered_at": "2026-11-15T00:49:27Z"
+      "registered_at": "2026-11-15T00:49:27Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "binarium",
@@ -1345,7 +1535,9 @@
       "subject": "015 偿还 binarium：proporitionem、Institut supérieur 与条末逗号（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Institut supérieure→supérieur（ADR-0038 ①）",
-      "registered_at": "2026-11-15T01:16:55Z"
+      "registered_at": "2026-11-15T01:16:55Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "binarium",
@@ -1360,7 +1552,9 @@
       "subject": "015 偿还 binarium：proporitionem、Institut supérieur 与条末逗号（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Baur 拉丁文 proporitionem→proportionem（ADR-0038 ①）",
-      "registered_at": "2026-11-15T01:16:56Z"
+      "registered_at": "2026-11-15T01:16:56Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "timon-phlius",
@@ -1375,7 +1569,9 @@
       "subject": "015 偿还 timon-phlius：结构小节、英文说明与拼写（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Declava→Decleva（ADR-0038 ①）",
-      "registered_at": "2026-11-15T01:23:27Z"
+      "registered_at": "2026-11-15T01:23:27Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "truth-coherence",
@@ -1390,7 +1586,9 @@
       "subject": "015 偿还 truth-coherence：Candlish 年份与加工行（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Candlish 2006→2021（ADR-0038 ②）",
-      "registered_at": "2026-11-15T01:26:58Z"
+      "registered_at": "2026-11-15T01:26:58Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "bergson",
@@ -1405,7 +1603,9 @@
       "subject": "015 偿还 bergson：双挂键、Soulez et Worms 与法文重音（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Soulez & → et、septième édition（ADR-0038 ②①）",
-      "registered_at": "2026-11-15T01:52:35Z"
+      "registered_at": "2026-11-15T01:52:35Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "olympiodorus",
@@ -1420,7 +1620,9 @@
       "subject": "015 偿还 olympiodorus：Opsomer 年份、拼写与译名统一（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Opsomer 2011→2010、Olymiodorus、Twi New→Two New（ADR-0038 ②①）",
-      "registered_at": "2026-11-15T02:01:45Z"
+      "registered_at": "2026-11-15T02:01:45Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "peirce-benjamin",
@@ -1435,7 +1637,9 @@
       "subject": "015 偿还 peirce-benjamin：三子脱姓补 Peirce（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Benjamin Peirce 三子补姓氏 Peirce（ADR-0038 ②）",
-      "registered_at": "2026-11-15T02:04:16Z"
+      "registered_at": "2026-11-15T02:04:16Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "scholem",
@@ -1450,7 +1654,9 @@
       "subject": "015 偿还 scholem：§6 二十余处挂键、Wohlfarth 与 ms 年份、Stanford 书名（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Wohlfarth 姓氏、ms 出版年、zadoff 标点（ADR-0038 ①）",
-      "registered_at": "2026-11-15T02:30:47Z"
+      "registered_at": "2026-11-15T02:30:47Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "environmental-aesthetics",
@@ -1465,7 +1671,9 @@
       "subject": "015 偿还 environmental-aesthetics：英文夹注改序、13 组挂键、书目勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目拼写标点、Hill/Hanich 年份（ADR-0038 ①②④）",
-      "registered_at": "2026-11-15T02:42:15Z"
+      "registered_at": "2026-11-15T02:42:15Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "bayes-theorem",
@@ -1480,7 +1688,9 @@
       "subject": "015 偿还 bayes-theorem：Birnbaum／Spohn／Mortimer 正名、注文挂键、书目引号体例（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Birnbaum/Spohn/Mortimer 正名与拼写（ADR-0038 ①②）",
-      "registered_at": "2026-11-15T02:50:53Z"
+      "registered_at": "2026-11-15T02:50:53Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "bayes-theorem",
@@ -1495,7 +1705,9 @@
       "subject": "015 偿还 bayes-theorem：Birnbaum／Spohn／Mortimer 正名、注文挂键、书目引号体例（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：Birnbaum/Spohn/Mortimer 正名与拼写（ADR-0038 ①②）",
-      "registered_at": "2026-11-15T02:50:54Z"
+      "registered_at": "2026-11-15T02:50:54Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "imprecise-probabilities",
@@ -1510,7 +1722,9 @@
       "subject": "015 偿还 imprecise-probabilities：缺字与 LaTeX 残件、29 处术语夹注改序、书目卷期拼写（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目卷期页冒号、拼写、出版地体例（ADR-0038 ①）",
-      "registered_at": "2026-11-15T03:04:05Z"
+      "registered_at": "2026-11-15T03:04:05Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "buridan",
@@ -1525,7 +1739,9 @@
       "subject": "015 偿还 buridan：脚注区四十余处挂键、书目四分节归位与勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目拼写、编者结构、出版者、重复条目（ADR-0038 ①②）",
-      "registered_at": "2026-11-15T03:21:34Z"
+      "registered_at": "2026-11-15T03:21:34Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "xenocrates",
@@ -1540,7 +1756,9 @@
       "subject": "en 勘误：xenocrates 正文 Fleisher→Fleischer（②类）；此前两轮：Calchi 2020→2023（②类）、研究文献节重复著录删一（③类）；015 轮书目斜体拼写标点（①②）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "累计四轮：015 偿还书目斜体拼写标点（①②）；回炉删研究文献节整条重复著录（③类）；回炉补正文 Calchi 2020→2023（②类）；回炉补正文 Fleisher→Fleischer（②类）",
-      "registered_at": "2026-11-15T03:36:26Z"
+      "registered_at": "2026-11-15T03:36:26Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "holkot",
@@ -1555,7 +1773,9 @@
       "subject": "015 偿还 holkot：13 处双挂键去重、书目三分节归位与勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：缩写统一、书目拼写与年份（ADR-0038 ①②）",
-      "registered_at": "2026-11-15T03:51:40Z"
+      "registered_at": "2026-11-15T03:51:40Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "representation-medieval",
@@ -1570,7 +1790,9 @@
       "subject": "015 偿还 representation-medieval：五六节互换归位、奥利维定名、书目勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目页码、变音符、出版者与标点（ADR-0038 ①）",
-      "registered_at": "2026-11-15T03:59:30Z"
+      "registered_at": "2026-11-15T03:59:30Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "necessary-sufficient",
@@ -1585,7 +1807,9 @@
       "subject": "015 偿还 necessary-sufficient：13 处列表改显式编号、年份勘正与挂键、书目勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：年份矛盾、书目标点体例（ADR-0038 ①②）",
-      "registered_at": "2026-11-15T04:07:13Z"
+      "registered_at": "2026-11-15T04:07:13Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "cordemoy",
@@ -1600,7 +1824,9 @@
       "subject": "015 偿还 cordemoy：法文重音、引号体例、三处挂键与书目勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：法文重音、拼写与书目标点（ADR-0038 ①）",
-      "registered_at": "2026-11-15T04:17:03Z"
+      "registered_at": "2026-11-15T04:17:03Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "simon-faversham",
@@ -1615,7 +1841,9 @@
       "subject": "015 偿还 simon-faversham：尾注九处挂键、布里托定名、书目二分节与勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目拼写、斜体与体例（ADR-0038 ①）",
-      "registered_at": "2026-11-15T04:26:18Z"
+      "registered_at": "2026-11-15T04:26:18Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "paradox-suspense",
@@ -1630,7 +1858,9 @@
       "subject": "015 偿还 paradox-suspense：两处挂键、影片年月史实勘正、书目标点（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：影片年份史实勘正与书目标点（ADR-0038 ①②）",
-      "registered_at": "2026-11-15T04:33:35Z"
+      "registered_at": "2026-11-15T04:33:35Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "gersonides",
@@ -1645,7 +1875,9 @@
       "subject": "015 偿还 gersonides：英文残留与六处挂键、书目三分节归位与勘误（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目拼写重音体例、North 年份（ADR-0038 ①②）",
-      "registered_at": "2026-11-15T04:45:20Z"
+      "registered_at": "2026-11-15T04:45:20Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "logic-fuzzy",
@@ -1660,7 +1892,9 @@
       "subject": "015 偿还 logic-fuzzy：23 组引称挂键、书目勘误与节首残句（en 同改）",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "015 偿还：书目编者拼写、体例与期刊名（ADR-0038 ①）",
-      "registered_at": "2026-11-15T04:57:15Z"
+      "registered_at": "2026-11-15T04:57:15Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "zombies",
@@ -1675,7 +1909,9 @@
       "subject": "en 勘误：zombies 正文 compare Latham 2000, 72f.）后孤立右括号剥除（段内括号 5 开 6 闭，编辑残迹，ADR-0038 ①类已核实）；en-errata 第五节登记；yuanwen 定点重转差量恰为一处、基线哈希随转重算",
       "base_commit": "4ff526e9152ccf67bcdfa4d54463c461148bc27a",
       "reason": "ADR-0038 ①类已核实：正文句末孤立右括号（compare Latham 2000, 72f.)，段内括号 5 开 6 闭，编辑残迹）剥除；en-errata 第五节；yuanwen 定点重转 OTHER=0",
-      "registered_at": "2026-11-15T12:53:49Z"
+      "registered_at": "2026-11-15T12:53:49Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "xenophanes",
@@ -1690,7 +1926,9 @@
       "subject": "en 勘误：xenophanes 正文 B16 引文双写 are 衍字剥除＋B14 clothers→clothes（句法同构与非词拼写，ADR-0038 ①类已核实，drift_scan unchanged 证明上游原文如此）；en-errata 第六节登记；yuanwen 定点重转差量恰为两处、基线哈希随转重算",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "ADR-0038 ①类已核实：B16 引文双写 are 衍字（句法只需一个 are，Ethiopians 分句同构）＋B14 clothers 拼写（非英语词，通行译文 clothes）；回炉 s0 补课发现，en-errata 第六节；yuanwen 定点重转 OTHER=0",
-      "registered_at": "2026-11-15T13:22:08Z"
+      "registered_at": "2026-11-15T13:22:08Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "zhu-xi",
@@ -1705,7 +1943,9 @@
       "subject": "en 勘误：zhu-xi 正文 the Mean of the the nature 重复冠词剥一（句式平行结构非法双 the，ADR-0038 ①类已核实）；en-errata 第六节登记；yuanwen 定点重转差量恰一处",
       "base_commit": "4ff526e9152ccf67bcdfa4d54463c461148bc27a",
       "reason": "ADR-0038 ①类已核实：正文重复冠词（of the the nature），句式平行结构非法双 the 剥一；en-errata 第六节",
-      "registered_at": "2026-11-15T15:09:59Z"
+      "registered_at": "2026-11-15T15:09:59Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     },
     {
       "slug": "yorck",
@@ -1720,26 +1960,9 @@
       "subject": "en 勘误：yorck 书目 pp.23–69 缺空格补一（同页 15 处 pp. N 惯例对照，ADR-0038 ①类已核实）；en-errata 第六节登记；yuanwen 定点重转差量恰为一处、基线哈希随转重算；zh 照录侧同步",
       "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
       "reason": "ADR-0038 ①类已核实：书目 pp. 后缺半角空格（同页 15 处 pp. N 惯例对照）；回炉 s0 补课发现，en-errata 第六节；yuanwen 定点重转差量恰为一处，zh 照录侧同步",
-      "registered_at": "2026-11-15T17:13:36Z"
-    }
-  ],
-  "tombstones": [
-    {
-      "slug": "social-procedures",
-      "path": "en/social-procedures/index.html",
-      "upstream_sha256": "b0a2311b4426396323f371a258899eaee203bbd104e053befbd0c3fb15d815a7",
-      "local_sha256": "7e9ebcfd2b3ba6cf174514a6849fcbb1972daf4af4e98e68a5188fa9ee8fde77",
-      "bytes": {
-        "upstream": 67666,
-        "local": 67672
-      },
-      "commit": "df7183505",
-      "subject": "015 偿还 social-procedures：偏好表、键标错配与书目分组（en 同改）",
-      "base_commit": "d0294236f92adbea0ed40372f5f4e0b7ede6ac1b",
-      "reason": "en 同改（他会勘误批，提交见 git log；ADR-0038 四类）",
-      "registered_at": "2026-11-14T19:42:00Z",
-      "unregistered_at": "2026-11-14T20:15:31Z",
-      "unregister_reason": "本地字节随 2e8b94641 再勘误变更（Meijering 2014 闭引号）；旧登记 local_sha256 7e9ebcfd 已过期，按现字节重登记"
+      "registered_at": "2026-11-15T17:13:36Z",
+      "unregistered_at": "2026-11-16T07:24:23Z",
+      "unregister_reason": "ADR-0062 en/ 绝对冻结：恢复原始钉字节，文字缺陷改由全局勘误表（§九回退补录）＋中文译注承载；格式层改入 baseline/en-patches.json 补丁池"
     }
   ]
 }

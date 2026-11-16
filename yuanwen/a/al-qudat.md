@@ -237,7 +237,7 @@ al-Farabi | al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, 
 
 [^ariankhoo-2023]: Ariankhoo, Masoud and Mohammed Rustom, 2023, “ʿAyn al-Quḍāt’s *Tamhīdāt*: An Ocean of Sufi Metaphysics in Persian”, in Rustom 2023b: 3–17 (ch. 1).
 
-[^awn-1983]: Awn, Peter J., 1983, *Satan’s Tragedy and Redemption: Iblīs in Sufi Psychology* (Studies in the History of Religions : Supplements to Numen 44), Leiden: E.J. Brill.
+[^awn-1983]: Awn, Peter J., 1983, *Satan’s Tragedy and Redemption: Iblīs in Sufi Pyschology* (Studies in the History of Religions : Supplements to Numen 44), Leiden: E.J. Brill.
 
 [^azadpur-2020]: Azadpur, Mohammad, 2020, *Analytic Philosophy and Avicenna: Knowing the Unknown*, New York: Routledge. doi:10.4324/9781003003069
 

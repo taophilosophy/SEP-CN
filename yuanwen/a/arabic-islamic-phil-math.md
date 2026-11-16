@@ -16,7 +16,7 @@ Traces of the philosophical views of Pythagoras and Plato regarding the nature o
 - **Separateness of Mathematical Objects (SM):** Mathematical objects are independent immaterial substances, fully separate (*mufāriq*) from matter and material objects.
 - **Principalness of Mathematical Objects (PM):** Mathematical objects are the principles (*mabādiʾ*) of natural things. Mathematical objects have some sort of primacy over natural forms which makes the latter dependent on (or grounded in or caused by) the former.
 
-Plato was committed to both of these theses. By contrast, the Pythagoreans endorsed only the latter thesis. This is so at least if we trust Aristotle’s report (*Metaphysics* 987b23–987b25). Although Pythagoreanism considers numbers to be the causes and principles of all other existing things, it does not treat numbers as entities that are necessarily separate from matter (Zhmud 1989; De Smet 2022). From our perspective today, this is to some extent surprising because, compared to (PM), (SM) seems to enjoy more *prima facie* plausibility. But precisely because of the presence of strong tendencies towards Pythagoreanism in early Islamic thought (Brentjes 2022)[^brentjes-2022], (PM) was more explicitly defended than (SM). In any case, Avicenna’s brutal criticism of these two theses (along with his more general criticism of the Platonic theory of separate universal forms) made Pythagoreanism and Platonism extremely unpopular in post-Avicennian philosophy. In the *Metaphysics of “The Healing”*, Avicenna (d. 1037) argues against (SM) and (PM) not only by rejecting arguments attributed to the defenders of these two theses (Avicenna [MPh]: chap. VII.2) but also by developing his own positive arguments against them (Avicenna [MPh]: chap. VII.3).
+Plato was committed to both of these theses. By contrast, the Pythagoreans endorsed only the latter thesis. This is so at least if we trust Aristotle’s report (*Metaphysics* 987b23–987b25). Although Pythagoreanism considers numbers to be the causes and principles of all other existing things, it does not treat numbers as entities that are necessarily separate from matter (Zhmud 1989; De Smet 2022). From our perspective today, this is to some extent surprising because, compared to (PM), (SM) seems to enjoy more *prima facie* plausibility. But precisely because of the presence of strong tendencies towards Pythagoreanism in early Islamic thought (Brentjes 2022)[^brentjes-2022], (PM) was more explicitly defended than (SM). In any case, Avicenna’s brutal criticism of these two theses (along with his more general criticism of the Platonic theory of separate universal forms) made Pythagoreanism and Platonism extremely unpopular in post-Avicennian philosophy. In the *Metaphysics of “The Healing”*, Avicenna (d. 937) argues against (SM) and (PM) not only by rejecting arguments attributed to the defenders of these two theses (Avicenna [Mph]: chap. VII.2) but also by developing his own positive arguments against them (Avicenna [MPh]: chap. VII.3).
 
 According to an argument that Avicenna attributes to the defenders of (SM), on the one hand, mathematical objects are separate in definition (or in mind). They can be defined (or conceived) with no reference to matter or material beings. On the other hand, everything that is separate in definition (or in mind) is separate in existence. Therefore, the argument concludes, mathematical objects are separate in existence. They exist as fully separate beings which have no association with matter or material beings (Avicenna [MPh]: chap. VII.2, sec. 5). However, Avicenna finds this argument wanting. He argues that there is a difference between (a) defining (or conceiving) something without the condition of materiality and (b) defining (or conceiving) something with the condition of immateriality. He says that mathematical objects are separate in definition only in the sense of (a). But the second premise of the argument under discussion is true only if the separation in definition is considered in the sense of (b). The mere fact that something can be defined without the condition of materiality does not entail that that thing can exist in the extramental realm fully separate from matter. But mathematical objects cannot be defined with the condition of immateriality. It is not plausible to suppose immateriality as an essential component of the definitions of mathematical objects, or so Avicenna claims. Thus, this argument is fallacious and cannot establish (SM) (Avicenna [MPh], chap. VII.2, secs. 16–17; Marmura 2006: 360–63; Porro 2011: 292–93; Zarepour 2019: sec. 4.1)[^marmura-2006][^porro-2011][^zarepour-2019].
 
@@ -144,7 +144,7 @@ Therefore:
 
 The whole is greater than the part.
 
-The premises themselves of this argument must be justified through the operation of the intellect or the faculty of distinction (to use Ibn al-Haytham’s own terminology) upon the data we receive through our senses (Sabra 1989: vol. I, 133–34; Ighbariah & Wagner 2018)[^ighbariah-2018][^sabra-1989]. The traces of these attitudes towards the axioms and common notions can be found in the works of Fakhr al-Dīn al-Rāzī and some of later *mutakallimūn* (Morrison 2014: 220–22; Hasan 2017: sec. 2.4.2; Ighbariah and Wagner 2018: 66–68)[^hasan-2017][^ighbariah-2018][^morrison-2014].
+The premises themselves of this argument must be justified through the operation of the intellect or the faculty of distinction (to use Ibn al-Haytham’s own terminology) upon the data we receive through our senses (Sabra 1989: vol. I, 133–34; Ighbariah & Wagner 2018)[^ighbariah-2018][^sabra-1989]. The traces of these attitudes towards the axioms and common notions can be found in the works of Fakhr al-Dīn al-Rāzī and some of later *mutikallimūn* (Morrison 2014: 220–22; Hasan 2017: sec. 2.4.2; Ighbariah and Wagner 2018: 66–68)[^hasan-2017][^ighbariah-2018][^morrison-2014].
 
 ### 2.3 *Ars Analytica* and *Ars Inveniendi*
 
@@ -198,7 +198,7 @@ al-Farabi | al-Kindi | Arabic and Islamic Philosophy, disciplines in: metaphysic
 
 [^avicenna-1985]: –––, *Al-Najāt*, Muhammad Taqī Danishpazhūh (ed.), Tehran: Tehran University Press, 1985.
 
-[^avicenna-2005]: –––, [MPh], *The Metaphysics of “The Healing”*, Michael E. Marmura (ed. and trans.), Provo, UT: Brigham Young University Press, 2005.
+[^avicenna-2005]: –––, [Mph], *The Metaphysics of “The Healing”*, Michael E. Marmura (ed. and trans.), Provo, UT: Brigham Young University Press, 2005.
 
 [^avicenna-2009]: –––, *The Physics of “The Healing”*, 4 books. Translated in 2 volumes by Jon McGinnis (ed. and trans.), Provo, UT: Brigham Young University Press, 2009.
 
@@ -206,7 +206,7 @@ al-Farabi | al-Kindi | Arabic and Islamic Philosophy, disciplines in: metaphysic
 
 [^ph2-nd]: [Ph2], *Books III & IV*
 
-[^badawī-1947]: Badawī, ʿAbd al-Raḥmān (ed.), 1947, *Al-muthul al-ʿaqlīya al-aflāṭūnīya*, Cairo: Printing House of the Egyptian Library.
+[^badawī-1947]: Badawī, ʿAbd al-Raḥmān (ed.), 1947, *Al-muthul al-ʿaqlīya al-aflāṭūnīya*, Cairo: Printing House of the Egyption Library.
 
 [^bīrūnī-1934]: al-Bīrūnī, [Astro], *Art of Astrology: Kitāb al-tafhīm li-ʾawaʾil ṣināʿa al-tanjīm*, translated by R. Ramsay Wright, London: LUZAC & co., 1934.
 
@@ -252,13 +252,13 @@ al-Farabi | al-Kindi | Arabic and Islamic Philosophy, disciplines in: metaphysic
 
 [^rāzī-1994]: –––, *Sharḥ ʿUyun al-ḥikma, al-Ṭabīʿīyāt*, M. Hejazi and A. A. Saqa (eds), Tehran, 1994.
 
-[^samaw’al-1972]: al-Samaw’al, *al-Bāhir fī al-jabr* (The splendid book on algebra). Critical edition as *Al-Bahir en Algèbre d’As-Samaw’al*, Salah Ahmad and Roshdi Rashed (eds), Damascus: Presses de l’Université de Damas, 1972.
+[^samaw’al-1972]: al-Samaw’al, *al-Bāhir fī al-jabr* (The splendid book on algebra). Critical edition as *Al-Bahir en Algèbre d’As-Samaw’al*, Salah Ahmad and Roshdi Rashed (eds), Damascus: Presses de l’Université de Damascus, 1972.
 
 [^shahrastānī-1937]: al-Shahrastānī, [*Summa philosophiae*], *The Summa Philosophiae of al-Shahrastānī: Kitāb nihāyatu l-iqdām fī ʿilmi ʾl-kalām*, Alfred Guillaume (ed.), London: Oxford University Press, 1937.
 
 [^sijzī-1996]: al-Sijzī, *Geometrical Treatise on Problem Solving*, Jan P. Hogendijk (ed.), Muhammad Bagheri (trans.), Tehran: Fatemi, 1996.
 
-[^suhrawardī-1999]: Suhrawardī, *The Philosophy of Illumination*, John Walbridge and Hossein Ziai (eds.), Provo, UT: Brigham Young University Press, 1999.
+[^suhrawardī-1999]: Suhrawardī, *The Philosophy of Illumination*, John Walbridge and Hossein Ziai (eds/), Provo, UT: Brigham Young University Press, 1999.
 
 [^brethren-2012]: The Brethren of Purity, [Epistles], *Epistles of the Brethren of Purity: On Arithmetic and Geometry - An Arabic Critical Edition and English Translation of EPISTLES 1 & 2*, Nader El-Bizri (ed./trans.), Oxford: Oxford University Press, 2012.
 
@@ -284,9 +284,9 @@ al-Farabi | al-Kindi | Arabic and Islamic Philosophy, disciplines in: metaphysic
 
 [^benevich-2019]: Benevich, Fedor, 2019, “A Rebellion Against Avicenna? Suhrawardī and Abū l-Barakāt on ‘Platonic Forms’ and ‘Lords of Species’”, *Ishrāq: Islamic Philosophy Yearbook*, 9: 23–53.
 
-[^berggren-2016]: Berggren, J. L., 2016, *Episodes in the Mathematics of Medieval Islam*, second edition, New York: Springer. doi:10.1007/978-1-4939-3780-6
+[^berggren-2016]: Berggren, 2016, *Episodes in the Mathematics of Medieval Islam*, second edition, New York: Springer. doi:10.1007/978-1-4939-3780-6
 
-[^bertolacci-2006]: Bertolacci, Amos, 2006, *The Reception of Aristotle’s Metaphysics in Avicenna’s Kitāb al-Šifāʾ: A Milestone of Western Metaphysical Thought*, (Islamic Philosophy, Theology, and Science 63), Leiden: Brill.
+[^bertolacci-2006]: Bertolacci, Amos, 2006, *The Reception of Aristotle’s Metaphysics in Avicenna’s Kitāb al-Šifāơ: A Milestone of Western Metaphysical Thought*, (Islamic Philosophy, Theology, and Science 63), Leiden: Brill.
 
 [^besthorn-1893]: Besthorn, Rasmus O. and Johan L. Heiberg, 1893, *Codex Leidensis 399, I: Euclidis Elementa ex interpretatione Al-Hadschdschadschii cum commentariis Al-Narizii; Arabice et Latine ediderunt notisque instruxerunt*, Copenhagen: Libraria Gyldendaliana.
 
@@ -320,9 +320,9 @@ al-Farabi | al-Kindi | Arabic and Islamic Philosophy, disciplines in: metaphysic
 
 [^frege-1884]: Frege, Gottlob, 1884, *Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl*, Breslau: w. Koebner; translated by J. L. Austin as *The Foundations of Arithmetic: A Logic-Mathematical Enquiry into the Concept of Number*, Oxford: Blackwell, second revised edition, 1953.
 
-[^goodman-1992]: Goodman, Lenn Evan, 1992 [2006], *Avicenna*, London: Routledge. Updated edition, Ithaca, NY: Cornell University Press, 2006.
+[^goodman-1992]: Goodman, Lenn Evan, 1992 [2006], *Avicenna*, London: Routledge. Updated edition, Ithaca, NY: Cornell University Press, 2006
 
-[^gutas-2001]: Gutas, Dimitri, 2001, “Intuition and Thinking: The Evolving Structure of Avicenna’s Epistemology”, in Wisnovsky 2001: 1–38.
+[^gutas-2001]: Gutas, Dimitri, 2001, “Intuition and Thinking: The Evolving Structure of Avicenna’s Epistemology”, in Wisnovsky 2001:, 1–38.
 
 [^gutas-2003]: –––, 2003, “Medical Theory and Scientific Method in the Age of Avicenna”, in *Before and After Avicenna: Proceedings of the First Conference of the Avicenna Study Group*, David C. Reisman and Ahmed H. Al-Rahim (eds), Leiden: Brill, 145–162.
 
@@ -340,7 +340,7 @@ al-Farabi | al-Kindi | Arabic and Islamic Philosophy, disciplines in: metaphysic
 
 [^kaş-2021]: Kaş, Murat, 2021, “Apprehension and Existence, Appearance and Reality: The Reception of Nafs al-amr Debates after the 13th Century”, *Ilahiyat Studies*, 12(1): 7–39. doi:10.12730/13091719.2021.121.216
 
-[^kiankhah-2015]: Kiankhah, Leila, 2015, “A Research on and a Critical Edition of ‘the Goals of Metaphysics’”, *Sophia Perennis*, 11(2): 119–157. [[Kiankhah 2015 available online](http://www.javidankherad.ir/article_32894.html)]
+[^kiankhah-2015]: Kiankhah, Leila, 2015, “A Research on and a Critical Edition of ‘the Goals of Metaphysics’”, *Sophia Prennis*, 11(2): 119–157. [[Kiankhah 2015 available online](http://www.javidankherad.ir/article_32894.html)]
 
 [^lear-1982]: Lear, Jonathan, 1982, “Aristotle’s Philosophy of Mathematics”, *The Philosophical Review*, 91(2): 161–192. doi:10.2307/2184625
 
@@ -406,7 +406,7 @@ al-Farabi | al-Kindi | Arabic and Islamic Philosophy, disciplines in: metaphysic
 
 [^rashed-2008]: –––, 2008, “The Philosophy of Mathematics”, in Rahman, Street, and Tahiri 2008: 153–182. doi:10.1007/978-1-4020-8405-8_6
 
-[^rashed-2015]: –––, 2015, *Classical Mathematics from al-Khwārizmī to Descartes*, Michael H. Shank (trans.), New York: Routledge. doi:10.4324/9781315753867
+[^rashed-2015]: –––, 2015, *Classical Mathematics from Al-Khwarīzmī to Descartes*, Michael H. Shank (trans.), New York: Routledge. doi:10.4324/9781315753867
 
 [^rashed-2016]: –––, 2016, “Avicenne, « philosophe analytique » des mathématiques”, *Les Études philosophiques*, 2016/2(117): 283–306. doi:10.3917/leph.162.0283
 

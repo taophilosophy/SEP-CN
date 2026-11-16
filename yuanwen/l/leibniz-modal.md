@@ -150,10 +150,10 @@ In conclusion, it has been claimed throughout this piece that Leibniz advances h
 | --- | --- |
 | [RB] | *New Essays on Human Understanding*. Translated by Peter Remnant and Jonathan Bennett. Cambridge: Cambridge University Press, 1981. |
 | [AG] | *Philosophical Essays*. Translated and edited by Roger Ariew and Daniel Garber. Indianapolis: Hackett, 1989. |
-| [L] | *Philosophical Papers and Letters*. Edited and translated by Leroy E. Loemker. 2d ed., Dordrecht: D. Reidel, 1969. |
+| [L] | *Philosophical Papers and Letters*. Edited and translated by Leroy E. Loemker. 2d ed., Dordrect: D. Reidel, 1969. |
 | [G] | *Die philosophischen Schriften*. 7 vols. Edited by C. I. Gerhardt. Berlin, 1875–90. Reprint, Hildesheim: Georg Olms, 1965. Cited by volume and page number |
 | [A] | *Sämtliche Schriften und Briefe*. Edited by the Deutsche Akademie der Wissenschaften zu Berlin. Darmstadt, 1923 ff., Leipzig, 1938 ff., Berlin, 1950 ff. Cited by Series (Reihe), Volume (Band), and page number. |
-| [H] | *Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil*. Translated by E. M. Huggard. La Salle, IL: Open Court, 1985. |
+| [H] | *Theodicy: Essays on the Goodness of God, the Freedom on Man and the Origin of Evil*. Translated by E. M. Huggard. La Salle, IL: Open Court, 1985. |
 
 ### Secondary Sources
 
@@ -191,7 +191,7 @@ Aristotle, General Topics: metaphysics | Descartes, René: modal metaphysics | e
 
 [^cover-1999]: Cover, J.A. and O'Leary-Hawthorne, John, 1999. *Substance and Individuation in Leibniz*, Cambridge: Cambridge University Press.
 
-[^curley-1972]: Curley, Edwin, 1972. “The Root of Contingency,” In Harry G. Frankfurt (ed.), *Leibniz: A Collection of Critical Essays*, New York: Doubleday, pp. 69–97.
+[^curley-1972]: Curley, Edwin, 1972. “The Root of Contingency,” In Harry G. Frankfurt ( ed.), *Leibniz: A Collection of Critical Essays*, New York: Doubleday, pp. 69–97.
 
 [^fitch-1979]: Fitch, Gregory, 1979. “Analyticity and Necessity in Leibniz,” *Journal of the History of Philosophy*, 17: 29–42.
 
@@ -241,7 +241,7 @@ Aristotle, General Topics: metaphysics | Descartes, René: modal metaphysics | e
 
 [^wilson-2000]: Wilson, Catherine, 2000. “Plenitude and Compossibility in Leibniz,” *The Leibniz Review*, 10: 1–20.
 
-[^wilson-1978]: Wilson, Margaret D., 1978/79. “Possible Gods,” *Review of Metaphysics*, 32: 717–33. Reprinted in M. Wilson 1999.
+[^wilson-1978]: Wilson, Margaret D., 1978/9. “Possible Gods,” *Review of Metaphysics*, 32: 717–33. Reprinted in M. Wilson 1999.
 
 [^wilson-1999]: Wilson, Margaret D., 1999. *Ideas and Mechanism: Essays on Early Modern Philosophy*, Princeton: Princeton University Press.
 

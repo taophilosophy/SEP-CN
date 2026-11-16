@@ -79,7 +79,7 @@ Of course, as we all know, astrologers often err in their predictions. Astrologi
 
 The final cause for error has to do with human free will: as we have seen above, our intellect and choice “have the power to move us contrary to that which is determined by the heavenly bodies” (*Wars*, II.2, p. 34). Although he admits that on occasion human choice is able to contravene the celestial bodies, nevertheless this intervention is rare, and true contingency is a rare state of affairs indeed in Gersonides’ ontology. Gersonides presents an argument to show that human choice guided by reason can subvert the celestial bodies despite their general ordering of our lives. The heavenly bodies can order human affairs either by virtue of their difference of position in the heavens, or from the difference of the bodies among themselves. Astral bodies, however, will affect different individuals in different ways; they can also affect an individual differently at different times; and finally, two or more bodies can affect a single individual, resulting in multiple influences that can have contrary effects, echoing the scholastic phrase, “*sapiens dominabitur astris* [the wise man will be ruled by the stars]”. Gersonides notes that humans can contravene these effects: God has provided humans with “the intellectual capacity (*sekhel ba’al takhlit*) that enables us both to act contrary to what has been ordered by the heavenly bodies and to correct, as far as possible, the [astrally ordained] misfortunes that befall us” (*Wars*, II.2, p. 35). Nevertheless, he assures us that whatever happens by chance is “determined and ordered according to this type of determinateness and order” (*Wars*, II.2, p. 34). Outdoing even Plato’s hierarchical structuring in *Republic* IV, Gersonides argues that the ultimate perfection and ordering of society is due to astrological influence.
 
-The commensurability of the motion of heavenly bodies raises an additional concern, having to do with the uniqueness of individual beings and the doctrine of eternal return. Gersonides’ immediate 13ᵗʰ century predecessors Shem-Tov ibn Falaquera and Judah ben Solomon ha-Cohen discussed this issue against the backdrop of Aristotle’s *Gen. Animalia*. In *Gen. Animalia*, Aristotle had established a connection between the life spans and gestations periods of animals and the revolutions of the sun and moon (*Gen. Anim.*, IV.10, 777b17–778a10). Thus the revolutions of the sun measure not only time but also produce the alternating periods of growth and decay. Eschatological predictions are thus tied to the cyclicity of the heavenly bodies. Gersonides did not [to our knowledge] indulge in eschatological and millennial predictions. In fact, Gersonides wrote only one astrological text that has survived, a prognostication based on the conjunction of Saturn and Jupiter to take place in March 1345. Gersonides himself died in 1344, a year before the event in question. As Goldstein has demonstrated, this conjunction was predicted already by Ibn Ezra, and repeated by Abraham Bar Hiyya in his *Megillat ha-Megalleh* where the conjunction was associated with a date of messianic significance that would supposedly take effect in 1358 (Goldstein 1990, p. 3)[^goldstein-1990]. The conjunction was codified by Levi ben Abraham ben Hayyim in his encyclopedia *Livyat Hen*, indicating an awareness in the Jewish community of the messianic significance of this conjunction. According to North, Ibn Ezra was the earliest scholar to record one of the seven methods for the setting up of the astrological houses; Gersonides then computed the astrological houses for the prognostication of 1345 according to Ibn Ezra’s method. (See North 1989, p. 25.)[^north-1989] Goldstein suggests that as the date 1345 approached, the Papal court might have become interested as well in the conjunction. We do know that Gersonides’ text was translated into Latin with the aid of his brother shortly after Gersonides’ death in 1344.
+The commensurability of the motion of heavenly bodies raises an additional concern, having to do with the uniqueness of individual beings and the doctrine of eternal return. Gersonides’ immediate 13ᵗʰ century predecessors Shem-Tov ibn Falaquera and Judah ben Solomon ha-Cohen discussed this issue against the backdrop of Aristotle’s *Gen. Animalia*. In *Gen. Animalia*, Aristotle had established a connection between the life spans and gestations periods of animals and the revolutions of the sun and moon (*Gen. Anim.*, IV.10, 777b17–778a10). Thus the revolutions of the sun measure not only time but also produce the alternating periods of growth and decay. Eschatological predictions are thus tied to the cyclicity of the heavenly bodies. Gersonides did not [to our knowledge] indulge in eschatological and millennial predictions. In fact, Gersonides wrote only one astrological text that has survived, a prognostication based on the conjunction of Saturn and Jupiter to take place in March 1345. Gersonides himself died in 1344, a year before the event in question. As Goldstein has demonstrated, this conjunction was predicted already by Ibn Ezra, and repeated by Abraham Bar Hiyya in his *Megillat ha-Megalleh* where the conjunction was associated with a date of messianic significance that would supposedly take effect in 1358 (Goldstein 1990, p. 3)[^goldstein-1990]. The conjunction was codified by Levi ben Abraham ben Hayyim in his encyclopedia *Livyat Hen*, indicating an awareness in the Jewish community of the messianic significance of this conjunction. According to North, Ibn Ezra was the earliest scholar to record one of the seven methods for the setting up of the astrological houses; Gersonides then computed the astrological houses for the prognostication of 1345 according to Ibn Ezra’s method. (See North 1986, p. 25.) Goldstein suggests that as the date 1345 approached, the Papal court might have become interested as well in the conjunction. We do know that Gersonides’ text was translated into Latin with the aid of his brother shortly after Gersonides’ death in 1344.
 
 In his prognostication, Gersonides predicts that there will be “extraordinary evil with many wars, visions and miraculous signs;” “Diseases and death, and the evil will endure for a long time;” “the absence of good, pleasure and happiness for most of the inhabited world;” “the spilling of much blood and increasing enmity, jealousy, strife, famine, various diseases, drought and dearth” (Goldstein 1990)[^goldstein-1990]. The Black Death, which arrived in Europe in 1347, was thus provided with numerous astrological credentials. The official statement of the medical faculty of the University of Paris, presented to the king in 1348, reported on the conjunction of Saturn and Jupiter in the house of Aquarius on 20 March 1345, which was seen to spread “death and disaster”. It is not hard to see how the conjunction of 1345 came to be associated with the Black Death.
 
@@ -123,9 +123,9 @@ Alexander of Aphrodisias | Arabic and Islamic Philosophy, historical and methodo
 
 [^sefer-nd]: *Sefer Ha-heqesh Ha-yashar* (On Valid Syllogisms, written 1319); translated into Latin as *Liber Syllogismi* *Recti*.
 
-[^sefer-1909]: *Sefer Ma’aseh Hoshev* (*The Work of a Counter*, written 1321; edited and translated into German by Gerson Lange. Frankfurt am Main: Golde, 1909).
+[^sefer-1909]: *Sefer Ma’aseh Hoshev* (*The Work of a Counter*, written 1321; edited and translated into German by Gerson Lange (Frankfurt am Main: Golde, 1909).
 
-[^perush-nd]: *Perush ‘al Sefer Iyob* (*Commentary on Job*, written 1325; Ferrara, 1477).
+[^perush-nd]: *Perush ‘al Sefer lyob* (*Commentary on Job*, written 1325; Ferrara, 1477).
 
 [^sefer-1866]: *Sefer Milhamot Ha-Shem* (*The Wars of the Lord*, written 1329; Riva di Trento, 1560; Leipzig, 1866; Berlin, 1923).
 
@@ -165,7 +165,7 @@ Alexander of Aphrodisias | Arabic and Islamic Philosophy, historical and methodo
 
 [^freudenthal-1992]: Freudenthal, Gad (ed.), 1992, *Studies on Gersonides: A Fourteenth-Century Jewish Philosopher-Scientist*, Leiden: Brill.
 
-[^glasner-2015]: Glasner, Ruth, 2015, *Gersonides: A Portrait of a Fourteenth-Century Philosopher-Scientist*, Oxford: Oxford University Press.
+[^glasner-2015]: Glasner, Ruth. 2015, *Gersonides: A Portrait of a Fourteenth-Century Philosopher-Scientist*, Oxford: Oxford University Press.
 
 [^goldstein-1974]: Goldstein, Bernard R., 1974, “The Astronomical Tables of Rabbi Levi Ben Gerson,” in *Transactions of the Connecticut Academy of Arts and Sciences*, Hamden, CT: Shoestring Press.
 
@@ -175,23 +175,23 @@ Alexander of Aphrodisias | Arabic and Islamic Philosophy, historical and methodo
 
 [^goldstein-1991]: –––, 1991, “Levi Ben Gerson’s Astrology in Historical Perspective,” in *Gersonide En Son Temps*, Gilbert Dahan (ed.), Louvain-Paris: E. Peeters, 287–300.
 
-[^goldstein-1992]: –––, 1992, “Levi Ben Gerson’s Contributions to Astronomy”, in *Studies on Gersonides*, Gad Freudenthal (ed.), Leiden: E.J. Brill.
+[^goldstein-1992]: –––, 1992, Levi Ben Gerson’s Contributions to Astronomy in *Studies on Gersonides*, Gad Freudenthal (ed.), Leiden: E.J. Brill.
 
 [^goldstein-1996]: –––, 1996, “Astronomy and Astrology in the Works of Abraham Ibn Ezra,” *Arabic Sciences and Philosophy*, 6: 9–21.
 
 [^goldstein-1990]: Goldstein, Bernard R., and David Pingree, 1990, “Levi Ben Gerson’s Prognostication for the Conjunction of 1345,” *Transactions of the American Philosophical Society*, 80: 1–60.
 
-[^green-2016]: Green, Alexander, 2016, *The Virtue Ethics of Levi Gersonides*, Palgrave Macmillan.
+[^green-2016]: Green, Alexander, 2016, *The Virtue Ethics of Levi Gersonides*, Palgrave: MacMillan.
 
 [^horwitz-2006]: Horwitz, David, 2006, *Gersonides’ Ethics: The To-a-lot be-Middot in Ralbag’s Biblical Commentaries*, Ph.D. Dissertation, Yeshiva University.
 
-[^husik-1916]: Husik, Isaac, 1916–1918, “Studies in Gersonides,” *Jewish Quarterly Review*, 7 (new series): 553–594; 8 (new series): 113–156, 231–268.
+[^husik-1916]: Husik, Isaac, 1916–1918,“Studies in Gersonides,” *Jewish Quarterly Review*, 7 (new series): 553–594; 8 (new series): 113–156, 231–268.
 
 [^kellner-1979]: Kellner, Menachem, 1979, “R. Levi Ben Gerson: A Bibliographical Essay,” *Studies in Bibliography and Booklore*, 12: 13–23.
 
-[^kellner-2010]: Kellner, Menachem, 2010, *Torah in the Observatory: Gersonides, Maimonides, Song of Songs*. Boston: Academic Studies Press.
+[^kellner-2010]: Kellner, Menachem, 2010, *Torah in the Observatory: Gersonides, Maimonides, Song of Songs*. Boston, Academic Studies Press.
 
-[^klein-braslavy-1989]: Klein-Braslavy, Sara, 1989, “Determinism, Possibility, Choice and Foreknowledge in Ralbag,” *Da’at*, 22: 4–53.
+[^klein-braslavy-1989]: Klein-Braslavy, Sara, 1989, “Determinism, Possibility, Choice and Foreknowledge in Ralbag,” *Da’ at*, 22: 4–53.
 
 [^langermann-1992]: Langermann, Tzvi, 1992, “Gersonides on the Magnet and the Heat of the Sun,” in *Studies on Gersonides*, Gad Freudenthal (ed.), Leiden: E.J. Brill, 267–284.
 
@@ -219,6 +219,6 @@ Alexander of Aphrodisias | Arabic and Islamic Philosophy, historical and methodo
 
 [^samuelson-1972]: Samuelson, Norbert, 1972, “Gersonides’ Account of God’s Knowledge of Particulars,” *Journal of the History of Philosophy*, 10: 399–416.
 
-[^sirat-2003]: Sirat, Colette, Klein-Braslavy, Sara, and Weijers, Olga (eds) 2003, *Les méthodes de travail de Gersonide et le maniement du savoir chez les scolastiques*, Paris: J. Vrin.
+[^sirat-2003]: Sirat, Colette, Klein-Braslavy, Sara, and Weijers, Olga (eds) 2003, *Les methodes de travail de Gersonide et le maniement du savoir chez les scolastiques*, Paris: J. Vrin.
 
-[^touati-1973]: Touati, Charles, 1973, *La Pensée Philosophique et Théologique de Gersonide*, Paris: Les Éditions de Minuit.
+[^touati-1973]: Touati, Charles, 1973, *La Pensée Philosophique et Théologique de Gersonide*, Paris: Les Editions de Minuit.

@@ -91,7 +91,7 @@ Astell, Mary | Cambridge Platonists | Leibniz, Gottfried Wilhelm | Locke, John |
 
 [^locke-1976]: –––, 1976–1989, *The Correspondence of John Locke*, E.S. de Beer (ed.), 8 volumes, Oxford: Clarendon Press. (Correspondence with Locke)
 
-[^masham-1696]: Masham, Damaris, 1696 [1705], *A Discourse Concerning the Love of God*, London: Awnsham and John Churchill, 1696. French translation, *Discours sur l’Amour Divin*, Pierre Coste (trans.), Amsterdam: Pierre de Coup, 1705.
+[^masham-1696]: Masham, Damaris, 1696 [1705], *A Discourse Concerning the Love of God*, London: Awsnsham and John Churchill, 1696. French translation, *Discours sur l’Amour Divin*, Pierre Coste (trans.), Amsterdam: Pierre de Coup, 1705.
 
 [^masham-1705]: –––, 1705 [1747], *Occasional Thoughts in Reference to a Vertuous or Christian Life*, London: A. and J. Churchil, 1705. Second printing, misattributed to Locke, with title, *Thoughts on a Christian Life*, London, T. Waller, 1747.
 
@@ -121,7 +121,7 @@ Astell, Mary | Cambridge Platonists | Leibniz, Gottfried Wilhelm | Locke, John |
 
 [^broad-2019]: –––, 2019, “Damaris Masham on Women and Liberty of Conscience”, in *A Feminist History of Philosophy*, Eileen O’Neill and Mary Lascano (eds.), Dordrecht: Springer, 319–36.
 
-[^buickerood-2005]: Buickerood, James G., 2005. “What Is it With Damaris, Lady Masham? The Historiography of One Early Modern Woman Philosophers”, *Locke Studies*, 5: 179–214.
+[^buickerood-2005]: Buickerood, James G., 2005. “What Is it With Damaris, Lady Masham? The Historiography of One Early Modern Woman Philosopherspecial-character”, *Locke Studies*, 5: 179–214.
 
 [^frankel-1989]: Frankel, Lois, 1989, “Damaris Cudworth Masham, a Seventeenth-Century Feminist Philosopher”, *Hypatia*, 4: 80–90.
 

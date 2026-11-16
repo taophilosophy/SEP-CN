@@ -149,7 +149,7 @@ Aquinas, Thomas | Crescas, Hasdai | evil: problem of | Halevi, Judah | Ibn Rushd
 
 [^ehrlich-2006]: –––, 2006, “A Reassessment of Natural Law in Rabbi Joseph Albo’s Book of Principles”, *Hebraic Political Studies*, 1: 413–439.
 
-[^ehrlich-2008]: –––, 2008, “Het, tshuvah u-kfirah be-Sefer ha-‘Ikkarim le-R. Yosef Albo” [Sin, repentance and heresy in R. Josef Albo’s *Book of Principles*], in *Al ha-tshuvah ve-al ha-geulah: minhat shay le-Binyamin Gross* [On repentance and redemption: presented to Binyamin Gross], D. Schwartz & A. Gross (eds.), Ramat-Gan: Bar-Ilan University Press, pp. 55–80.
+[^ehrlich-2008]: –––, 2008, “Het, tshuvah u-kfirah be-Sefer ha-‘Ikkarim le-R. Yosef Albo” [Sin, repentance and heresy in R. Josepf Albo’s *Book of Principles*], in *Al ha-tshuvah ve-al ha-geulah: minhat shay le-Binyamin Gross* [On repentance and redemption: presented to Binyamin Gross], D. Schwartz & A. Gross (eds.), Ramat-Gan: Bar-Ilan University Press, pp. 55–80.
 
 [^ehrlich-2009a]: –––, 2009a, *Haguto shel R. Yosef Albo: ktivah ezoterit be-shilhey yemey he-beinayim* [The thought of R. Joseph Albo: esoteric writing in the late middle ages], Ramat-Gan: Bar-Ilan University Press.
 
@@ -159,7 +159,7 @@ Aquinas, Thomas | Crescas, Hasdai | evil: problem of | Halevi, Judah | Ibn Rushd
 
 [^ehrlich-2017]: –––, 2017, “*Ekron ha-maamad ba-diyunim al nitshiyut onesh ha-gehenom etsel ha-Ran, Rahak ve-Albo*”, *Daat*, 83: 69–84.
 
-[^gonzalo-1971]: Gonzalo Maeso, D., 1971, “La Judería de Soria y el Rabino José Albo”, *Miscelánea de Estudios Arabes y Hebraicos*, 20 (2): 119–141.
+[^gonzalo-1971]: Gonzalo Maeso, D., 1971, “La Judería de Soria y el Rabino José Albo”, *Misceláneade Estudios Arabes y Hebraicos*, 20 (2): 119–141.
 
 [^graetz-1894]: Graetz, H., 1894, *History of the Jews* (Volume IV), Philadelphia: The Jewish Publication Society of America.
 
@@ -219,7 +219,7 @@ Aquinas, Thomas | Crescas, Hasdai | evil: problem of | Halevi, Judah | Ibn Rushd
 
 [^sarachek-1932]: Sarachek, J., 1932, *The Doctrine of the Messiah in Medieval Jewish Literature*, New York: Hermon Press.
 
-[^schlesinger-1844]: Schlesinger, L., 1844, Introduction to Joseph Albo’s *Buch Ikkarim: Grund- und Glaubenslehren der Mosaischen Religion*, W. Schlesinger & L. Schlesinger (trans.), Frankfurt am Main: [s.n.].
+[^schlesinger-1844]: Schlesinger, L., 1844, Introduction to Joseph Albo’s, *Buch Ikkarim: Grund- und Glaubenslehren der Mosaischen Religion*, W. Schlessinger & L. Schlesinger (trans.), Frankfurt am Main: [s.n.].
 
 [^schwartz-1991]: Schwartz, D., 1991, “*Ha-Yeridah ha-ruhanit datit shel ha-kehilah ha-yehudit bi-sfarad be-sof ha-meah ha-arba‘ ‘esre*” [The spiritual-intellectual decline of the Jewish community in Spain at the end of the fourteenth century], *Pe‘amim*, 46–47: 92–114.
 
@@ -239,7 +239,7 @@ Aquinas, Thomas | Crescas, Hasdai | evil: problem of | Halevi, Judah | Ibn Rushd
 
 [^sirat-1990]: Sirat, C., 1990, *A History of Jewish Philosophy in the Middle Ages*, Cambridge: Cambridge University Press.
 
-[^tänzer-1896]: Tänzer, A., 1896, *Die Religionsphilosophie Josef Albo’s nach seinem werke ‘Ikkarim’: Systematisch Dargestellt und Erläutert*, Frankfurt a.M.: Kauffmann.
+[^tänzer-1896]: Tänzer, A., 1896, *Die Religionsphilosophie Josef Albo’s nach seinem werke ‘Ikkarim’: Systematisch Dragestellt und Erläutert*, Frankfurt a.M.: Kauffmann.
 
 [^waxman-1956]: Waxman, M., 1956, “*Shitato shel R. Yosef Albo be-‘ikkarei ha-dat ve-yahasah le-torat bnei-doro R. Hasdai Crescas ve-R. Shimon ben-Zemah Duran*” [The method of R. Joseph Albo in the principles of religion and its relation to the theory of his contemporaries, R. Hasdai Crescas and R. Shimon ben Zemah Duran], *Bi-shvilei ha-sifrut ve-ha-mahshavah ha-‘ivrit* [Paths in Jewish literature and philosophy], Tel Aviv: Yavne, pp. 135–165.
 

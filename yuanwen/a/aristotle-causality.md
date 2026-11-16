@@ -174,7 +174,7 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [^gourinat-2013]: Gourinat, J.-B., 2013, “‘Origine du mouvement’ et ‘cause efficiente’ chez Aristote,” in C. Viano, C. Natali, and M. Zingano (eds.), *Aitia I: Les quatres causes: origines et interpretation*, Leuven: Peeters, 91–119.
 
-[^henning-2009]: Henning, B., 2009, “The Four Causes,” *Journal of Philosophy*, 106: 137–160.
+[^henning-2009]: Henning, B., 2009, “The Four Causes,”*Journal of Philosophy*, 106: 137–160.
 
 [^hocutt-1974]: Hocutt, M., 1974, “Aristotle’s Four Becauses,” *Philosophy*, 49: 385–399.
 
@@ -188,7 +188,7 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [^mure-1975]: Mure, G. R. G., 1975, “Cause and Because in Aristotle,” *Philosophy*, 50: 356–357.
 
-[^stein-2011]: Stein, N., 2011, “Aristotle’s Causal Pluralism,” *Archiv für Geschichte der Philosophie*, 93: 121–147.
+[^stein-2011]: Stein, N., 2011, “Aristotle’s Causal Pluralism,”*Archiv für Geschichte der Philosophie*, 93: 121–147.
 
 [^stein-2012a]: –––, 2012a, “Causation and Explanation in Aristotle,” *Philosophy Compass*, 6(10): 699–707.
 
@@ -196,7 +196,7 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [^stein-2016]: –––, 2016, “Explanation and Hypothetical Necessity in Aristotle” *Ancient Philosophy*, 36: 353–382.
 
-[^stein-2021]: –––, 2021, “The Supposed Material Cause in *APost* II 11,” *Phronesis*, 66: 27–51.
+[^stein-2021]: –––, 2021, “The Supposed Material Cause in *APost* II 11,” *Phronesis*, 66: 27–51
 
 [^stein-2023]: –––, 2023, *Causality and Causal Explanation in Aristotle.* Oxford: Oxford University Press.
 
@@ -214,15 +214,15 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [^broadie-1990]: Broadie, S., 1990, “Nature and Craft in Aristotelian Teleology,” in D. Devereux and P. Pellegrin (eds.), *Biologie, Logique et Métaphysique chez Aristote*, CNRS: Paris, 389–403; reprinted in S. Broadie, *Aristotle and Beyond: Essays in Metaphysics and Ethics*, Cambridge: Cambridge University Press 2010, 85–100. [This article is printed with the title “Nature, Craft, and *Phronesis* in Aristotle,” *Philosophical Topics*, 15 (1987): 35–50.]
 
-[^la-1976]: La Croce, E., 1976/1977, “El concepto aristotelico de tecnica,” *Ethos*, 4: 253–265.
+[^la-1976]: La Croce, E., 1976/1977,“El concepto aristotelico de tecnica,” *Ethos*, 4: 253–265.
 
 [^jacobs-1978]: Jacobs, W., 1978, “Art and Biology in Aristotle,” in G. C. Simmons (ed.), *Paideia* (Special Aristotle Issue), Brockport/Buffalo: State University College, 16–29.
 
 [^solmsen-1963]: Solmsen, F., 1963, “Nature as Craftsman in Greek Thought,” *Journal of the History of Ideas*, 24: 473–496; reprinted in F. Solmsen, *Kleine Schriften*, Hildesheim: Olms, 332–351.
 
-[^witt-2015]: Witt, C., 2015, “In Defense of the Craft Analogy: Artifacts and Natural Teleology,” in M. Leunissen (ed.), *Aristotle’s Physics: A Critical Guide*, Cambridge: Cambridge University Press, 107–120.
+[^witt-2015]: Witt, C., 2015, “In Defense of the Craft Analogy: Artifacts and Natural Teleology,” in M. Leunissen (ed.), *Aristotle’s Phyiscs: A Critical Guide*, Cambridge: Cambridge University Press, 107–120.
 
-[^balme-1987]: Balme, D., 1987, “Teleology and Necessity,” in A. Gotthelf and J. G. Lennox (eds.), *Philosophical Issues in Aristotle’s Biology*, Cambridge: Cambridge University Press, 275–286.
+[^balme-1987]: Balme, D., 1987, “Teleology and Necessity,” in A. Gotthelf and J. G. Lennox (eds.), *Philosophical Issues in Aristotle Biology*, Cambridge: Cambridge University Press, 275–286.
 
 [^bolton-1997]: Bolton, R., 1997, “The Material Cause: Matter and Explanation in Aristotle’s Natural Science,” in W. Kullmann and S. Föllinger (eds.), *Aristotelische Biologie*, Stuttgart: Steiner, 97–126.
 
@@ -230,7 +230,7 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [^boylan-1984]: –––, 1984, “The Place of Nature in Aristotle’s Teleology,” *Apeiron*, 18: 126–140.
 
-[^bradie-1984]: Bradie, M. and F. D. Miller, 1984, “Teleology and Natural Necessity in Aristotle,” *History of Philosophy Quarterly*, 1: 133–146.
+[^bradie-1984]: Bradie, M., Miller, 1984, F. D., “Teleology and Natural Necessity in Aristotle,” *History of Philosophy Quarterly*, 1: 133–146.
 
 [^byrne-2002]: Byrne, C., 2002, “Aristotle on Physical Necessity and the Limits of Teleological Explanation,” *Apeiron*, 35: 20–46.
 
@@ -246,13 +246,13 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [^cooper-1985]: –––, 1985, “Hypothetical Necessity,” in A. Gotthelf (ed.), *Aristotle on Nature and Living Things*, Pittsburgh: Mathesis Publications, pp. 150–167; reprinted in J. M. Cooper, *Knowledge, Nature and the Good: Essays on Ancient Philosophy*, Princeton: Princeton University Press, 2004, 130–147.
 
-[^cooper-1987]: –––, 1987, “Hypothetical Necessity and Natural Teleology,” in A. Gotthelf and J. G. Lennox (eds.), *Philosophical Issues in Aristotle’s Biology*, Cambridge: Cambridge University Press, 243–274.
+[^cooper-1987]: –––, 1987, “Hypothetical Necessity and Natural Teleology,” in A. Gotthelf and J. G. Lennox (eds.), *Philosophical Issues in Aristotle Biology*, Cambridge: Cambridge University Press, 243–274.
 
 [^friedman-1983]: Friedman, R., 1983, “Matter and Necessity in *Physics* B 9, 200 a 15–30,” *Ancient Philosophy*, 1: 8–12.
 
-[^furley-1999]: Furley, D. J., 1999, “What Kind of Cause is Aristotle’s Final Cause?,” in M. Frede and G. Stricker (eds.), *Rationality in Greek Thought*, Oxford: Oxford University Press, 59–79.
+[^furley-1999]: Furley, D. J., 1999, “What Kind of Cause is Aristotle’ Final Cause?,” in M. Frede and G. Stricker (eds.), *Rationality in Greek Thought*, Oxford: Oxford University Press, 59–79.
 
-[^gotthelf-1976]: Gotthelf, A., 1976/1977, “Aristotle Conception of Final Causality,” *Review of Metaphysics*, 30: 226–254; reprinted with additional notes and a Postscript in A. Gotthelf and J. G. Lennox (eds.), *Philosophical Issues in Aristotle’s Biology*, Cambridge: Cambridge University Press, 1987, 204–242. The original paper with the 1986 Postscript is reprinted in A. Gotthelf, *Teleology, First Principles, and Scientific Method in Aristotle’s Biology*, Oxford: Oxford University Press 2012, 1–44
+[^gotthelf-1976]: Gotthelf, A., 1976/1977,“Aristotle Conception of Final Causality,” *Review of Metaphysics*, 30: 226–254; reprinted with additional notes and a Postscript in A. Gotthelf and J. G. Lennox (eds.), *Philosophical Issues in Aristotle’s Biology*, Cambridge: Cambridge University Press, 1987, 204–242. The original paper with the 1986 Postscript is reprinted in A. Gotthelf, *Teleology, First Principles, and Scientific Method in Aristotle’s Biology*, Oxford: Oxford University Press 2012, 1–44
 
 [^gotthelf-1988]: –––, 1988, “The Place of the Good in Aristotle’s Teleology,” in J. J. Cleary and D. C. Shartin (eds.), *Proceedings of the Boston Colloquium in Ancient Philosophy*, 4: 113–39; reprinted in A. Gotthelf, *Teleology, First Principles, and Scientific Method in Aristotle’s Biology*, Oxford: Oxford University Press 2012, 45–66
 
@@ -264,11 +264,11 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [^johnson-2005]: Johnson, M. R., 2005, *Aristotle on Teleology*, Oxford: Oxford University Press.
 
-[^judson-2005]: Judson, L., 2005, “Aristotelian Teleology,” *Oxford Studies in Ancient Philosophy*, 29: 341–365.
+[^judson-2005]: Judson, L., 2005, “Aristotelian Teleology,”, *Oxford Studies in Ancient Philosophy*, 29: 341–365.
 
 [^leunissen-2010]: Leunissen, M., 2010, *Explanation and Teleology in Aristotle’s Science of Nature*, Cambridge: Cambridge University Press.
 
-[^leunissen-2010-2]: –––, 2010, “Nature as a Good Housekeeper. Secondary Teleology and Material Necessity in Aristotle’s Biology,” in *Apeiron*, 43: 117–142.
+[^leunissen-2010-2]: –––, 2010, “Nature as a Good Houskeeper. Secondary Teleology and Material Necessity in Aristotle’s Biology,” in *Apeiron*, 43: 117–142.
 
 [^leunissen-2010-3]: Leunissen, M., and A. Gotthelf, 2010, “What’s Teleology Got to Do with It? A Reinterpretation of Aristotle’s *Generation of Animals*,” *Phronesis*, 55: 325–356; reprinted in A. Gotthelf, *Teleology, First Principles, and Scientific Method in Aristotle’s Biology*, Oxford: Oxford University Press, 2012, 117–141.
 
@@ -282,7 +282,7 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [^quarantotto-2005]: Quarantotto, D., 2005, *Causa finale, sostanza, essenza in Aristotele, Saggi sulla struttura dei processi teleologici naturali e sulla funzione dei telos*, Napoli: Bibliopolis.
 
-[^sauvé-1992]: Sauvé Meyer, S., 1992, “Aristotle, Teleology, and Reduction,” *Philosophical Review*, 101: 791–825; reprinted in T. Irwin (ed.), *Classical Philosophy. Collected Papers*, New York/London: Routledge, 1995, 81–116.
+[^sauvé-1992]: Sauvé Meyer, S., 1992, “Aristotle, Teleology, and Reduction,” *Philosophical Review*, 101, 791–825; reprinted in T. Irwin (ed.), *Classical Philosophy. Collected Papers*, New York/London: Routledge, 1995, 81–116.
 
 [^scharle-2008]: Scharle, M., 2008, “Elemental Teleology in Aristotle’s *Physics* II 8,” *Oxford Studies in Ancient Philosophy*, 34: 147–184.
 
@@ -294,9 +294,9 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [^bodnár-2005]: Bodnár, I., 2005, “Teleology across Natures,” *Rhizai*, 2: 9–29.
 
-[^boeri-1995]: Boeri, M. D., 1995, “Change and Teleology in Aristotle’s Physics,” *International Philosophical Quarterly*, 34: 87–96.
+[^boeri-1995]: Boeri, M. D., 1995, “Change and Teleology in Aristotle Physics,” *International Philosophical Quarterly*, 34: 87–96.
 
-[^code-2015]: Code, A., 2015, “The Matter of Sleep,” in D. Ebrey, *Theory and Practice in Aristotle’s Natural Science*, Cambridge: Cambridge University Press, 11–45.
+[^code-2015]: Code, A., 2015, “The Matter of Sleep,” in D. Ebrey, *Theory and PRactice in Aristotle’s Natural Science*, Cambrdige: Cambridge University Press, 11–45.
 
 [^fine-1987]: Fine, G., 1987, “Forms as Causes: Plato and Aristotle,” in A. Graeser (ed.), *Mathematics and Metaphysics in Aristotle*, Bern: Haupt, 69–112.
 
@@ -304,7 +304,7 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [^furley-2004]: –––, 2004, “Aristotle and the Atomists on Forms and Final Causes,” in R. W. Sharples, *Perspectives on Greek Philosophy*, Aldershot: Ashgate, 70–84.
 
-[^gaiser-1969]: Gaiser, K., 1969, “Das zweifache Telos bei Aristoteles”, in I. Düring (ed.), *Naturphilosophie bei Aristoteles und Theophrast* (4th Symposium Aristotelicum), Heidelberg: Stiehm, 97–113.
+[^gaiser-1969]: Gaiser, K., 1969, “Das zweifache Telos bei Aristoteles”, in I. Düring (ed.), *Naturphilosophie bei Aristoteles und Theophrast* (4ᵗʰ Simposium Aristotelicum), Heidelberg: Stiehm, 97–113.
 
 [^gotthelf-1989]: Gotthelf, A., 1989, “Teleology and Spontaneous Generation: A Discussion,” *Apeiron* (Special Issue, *Nature, Knowledge and Virtue*, R. Kraut and T. Penner, eds.), 22 (4): 181–193; reprinted in A. Gotthelf, *Teleology, First Principles, and Scientific Method in Aristotle’s Biology*, Oxford: Oxford University Press 2012, 142–150.
 
@@ -324,4 +324,4 @@ Thanks to Christopher Shields, Greg Salmieri, István Bodnár, and Mark Goodwin 
 
 [^turnbull-1958]: Turnbull, R. G., 1958, “Aristotle’s Debt to the ‘Natural Philosophy’ of the *Phaedo*,” *Philosophical Quarterly*, 8: 131–143.
 
-[^wardy-1993]: Wardy, R., 1993, “Aristotelian Rainfall or the Lore of Averages,” *Phronesis*, 38, 18–30.
+[^wardy-1993]: Wardy, R., 1993,“Aristotelian Rainfall or the Lore of Averages,” *Phronesis*, 38, 18–30.

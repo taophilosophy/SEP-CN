@@ -37,15 +37,15 @@ All theorems of propositional calculus are postulates of Theory A.
 
 **$R_1$**
 
-If $\varphi$ and $\varphi\rightarrow\psi$ are theorems of A, then $\psi$ is a theorem of A (*modus ponens*)
+If *φ* and $\varphi\rightarrow\psi$ are theorems of A, then *ψ* is a theorem of A (*modus ponens*)
 
 **$R_2$**
 
-Suppose $\varphi$ is a theorem of A, and $\psi$ is similar to $\varphi$ in all respects except one: wherever a certain variable occurs in $\varphi$, an A-formula occurs in $\psi$. Then $\psi$ is a theorem of A (substitution)
+Suppose *φ* is a theorem of A, and *ψ* is similar to *φ* in all respects except one: wherever a certain variable occurs in *φ*, an A-formula occurs in *ψ*. Then *ψ* is a theorem of A (substitution)
 
 **$R_3$**
 
-Suppose $\varphi$ and $\tau_1\equiv\tau_2$ are theorems of A, $\psi$ is an A-formula, and $\psi$ is similar to $\psi$ in all respects except one: $\tau_1$ occurs in $\psi$ in one or many places where $\tau_2$ occurs in $\varphi$. Then $\psi$ is a theorem of A (replacement)
+Suppose *φ* and $\tau_1\equiv\tau_2$ are theorems of A, *ψ* is an A-formula, and *ψ* is similar to *ψ* in all respects except one: $\tau_1$ occurs in *ψ* in one or many places where $\tau_2$ occurs in *φ*. Then *ψ* is a theorem of A (replacement)
 
 $$\begin{align*} \tag*{\(A_1\)} p> q\rightarrow\neg (q > p)&& \textrm{(\(>\)-asymmetry)}\\ \tag*{\(A_2\)} p>q \land q >r\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\ \tag*{\(A_3\)} p\equiv p&& \textrm{(\(\equiv\)-reflexivity)}\\ \tag*{\(A_4\)} p\equiv q \rightarrow q\equiv p&& \textrm{(\(\equiv\)-symmetry)}\\ \tag*{\(A_5\)} p\equiv q \land q\equiv r \rightarrow p\equiv r&& \textrm{(\(\equiv\)-transitivity)}\\ \tag*{\(A_6\)} p>q\land q\equiv r \rightarrow p>r&& \textrm{(\(>\equiv\)-transitivity)}\\ \tag*{\(A_7\)} p>q\leftrightarrow(p\land \neg q)> (q\land \neg p)&& \textrm{(\(>\)-expansion)}\\ \tag*{\(A_8\)} p\equiv q\leftrightarrow(p\land \neg q)\equiv(q\land \neg p)&& \textrm{(\(\equiv\)-expansion)} \end{align*} $$
 
@@ -53,7 +53,7 @@ $$\begin{align*} \tag*{\(A_1\)} p> q\rightarrow\neg (q > p)&& \textrm{(\(>\)-asy
 
 Halldén proves that Theory A is consistent. He presents several theorems of theory A such as contraposition: $p>q \rightarrow\neg q>\neg p$. He also considers fourteen optional postulates that can be added to Theory A. For example, there is the distribution postulate, $p>(q\land r)\rightarrow p>q \land p>r$, and the connectedness postulate, $p>q \lor p\equiv q \lor q>p$.
 
-**Theory B.** The language of Theory B is a fragment of that of Theory A containing only those sentences that do not contain nested occurrences of $>$ and $\equiv$. Also, if $\varphi>\psi$ or $\varphi\equiv\psi$ occurs in a B-formula, then $\varphi$ and $\psi$ do not contain conjunction or disjunction symbols.
+**Theory B.** The language of Theory B is a fragment of that of Theory A containing only those sentences that do not contain nested occurrences of $>$ and $\equiv$. Also, if $\varphi>\psi$ or $\varphi\equiv\psi$ occurs in a B-formula, then *φ* and *ψ* do not contain conjunction or disjunction symbols.
 
 Theory B consists of the rules and postulates in Figure 2. Postulates $B_1–B_5$ are identical to $A_1–A_5$, $B6$ can be derived from Theory A, and $B_7$ represents connectedness.
 
@@ -93,7 +93,7 @@ The second point of reference is *The Logic of Preference* by von Wright (1963)[
 - qualitative preference vs. measurable value (e.g., utility), and
 - risk-free preference vs. preference under uncertainty.
 
-More concretely, the formal language adopted by von Wright is again a fragment of Halldén’s A-formulas, and it consists of only those sentences that do not contain nested occurrences of $>$ and $\equiv$. However, in contrast to the language of Theory B, if $\varphi>\psi$ or $\varphi\equiv\psi$ occurs in a formula, then $\varphi$ and $\psi$ may contain conjunction or disjunction symbols.
+More concretely, the formal language adopted by von Wright is again a fragment of Halldén’s A-formulas, and it consists of only those sentences that do not contain nested occurrences of $>$ and $\equiv$. However, in contrast to the language of Theory B, if $\varphi>\psi$ or $\varphi\equiv\psi$ occurs in a formula, then *φ* and *ψ* may contain conjunction or disjunction symbols.
 
 Unlike Halldén’s two theories, the logic of preference is not presented as an axiomatic calculus. Instead, it serves as a technique for determining whether a given preference expression (P-expression) represents a logically true proposition.
 
@@ -107,7 +107,7 @@ $$(p>\neg p)\land (\neg q>q)\rightarrow(p\land \neg q>\neg p \land q).$$
 
 As there is no disjunction in the atomic preferences, distribution is vacuous. The third step, amplification, gives the normal form
 
-$$ \begin{align} (p\land q>\neg p\land q) &\land (p\land \neg q>\neg p\land \neg q)\\ &\land (p\land \neg q>p\land q)\\ &\land (\neg p\land \neg q>\neg p\land q) \rightarrow(p\land \neg q>\neg p \land q). \end{align} $$
+$$ $$\begin{align} (p\land q>\neg p\land q) &\land (p\land \neg q>\neg p\land \neg q)\\ &\land (p\land \neg q>p\land q)\\ &\land (\neg p\land \neg q>\neg p\land q) \rightarrow(p\land \neg q>\neg p \land q). \end{align}$$ $$
 
 This formula is a tautology, which can be explained as follows. The formula would be false if and only if the first four constituents
 
@@ -119,11 +119,11 @@ Looking at the five principles concerning preference, one has to be careful beca
 
 **Von Wright’s 5 preference principles**
 
-$$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
+$$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ $$\begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align}$$ $$ $$ $$\begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align}$$ $$
 
 *Figure 3.*
 
-Another contribution by von Wright is his attempt to understand the meaning of preference in terms of “changes”. His analysis reveals a unique way of viewing preference. When can one say that one state of affairs is preferable to another? To answer this question, consider two generic preference states, *p* and *q*. There are four possible cases: $p \land q$, $p \land \neg q$, $\neg p \land q$, and $\neg p \land \neg q$. Any world must necessarily fall into one of these four possibilities. This explains not only the first three principles, which had already been adopted by Halldén, but also the principle of disjunctive distribution, illustrated by $V_4$ in the figure above.
+Another contribution by von Wright is his attempt to understand the meaning of preference in terms of “changes”. His analysis reveals a unique way of viewing preference. When can one say that one state of affairs is preferable to another? To answer this question, consider two generic preference states, *p* and *q*. There are four possible cases: $p \land q$, $p \land \neg q$, $\neg p \land q$, and $\neg p \land \neg q$. Any world must necessarily fall into one of these four possibilities. This explains not only the first three principles, which had already been adopted by Halldén, but also the principle of disjunctive distribution, illustrated by $V_4$ in the table above.
 
 In the case of $p\land q$, “an agent prefers *p* over *q*” means that the agent would prefer to lose *q* (and keep *p*) rather than lose *p* (and keep *q*).
 
@@ -133,7 +133,7 @@ In the case of $\neg p\land q$, “an agent prefers *p* over *q*” means that t
 
 In the case of $\neg p \land \neg q$, “an agent prefers *p* over *q*” means that the agent would prefer to get *p* without *q* rather than get *q* without *p*.
 
-Principle $V_5$ is the so-called *holistic* property of preference. Let $\varphi$ be a formula, and let $PL(\varphi)$ be the set of propositional letters that occur in $\varphi$, which von Wright calls the universe of discourse. Suppose $r \not\in PL(\varphi>\psi)$, then replace every formula $\varphi> \psi$ with the conjunction
+Principle $V_5$ is the so-called *holistic* property of preference. Let *φ* be a formula, and let $PL(\varphi)$ be the set of propositional letters that occur in *φ*, which von Wright calls the universe of discourse. Suppose $r \not\in PL(\varphi>\psi)$, then replace every formula $\varphi> \psi$ with the conjunction
 
 $$((\varphi\land r)> (\psi\land r)) \land ((\varphi\land \neg r)>(\psi\land \neg r)).$$
 
@@ -165,7 +165,7 @@ In order to assign truth values to formulas of the form $\varphi>\psi$, Van Dale
 2. $v(\varphi\lor\psi) = \textrm{max}\{v(\varphi),v(\psi)\}$
 3. $v(\varphi P\psi) = 1$ if $m(\varphi) \lt m(\psi)$ on *A*, or 0 otherwise
 
-For a set $\Gamma$ of formulas, the satisfaction relation is defined by:
+For a set *Γ* of formulas, the satisfaction relation is defined by:
 
 $$\begin{align*} A, m, v \models p &\quad \textrm{ iff}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } v\\ A, v \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } m\\ A \models \varphi &\quad \textrm{ iff}\quad A, m, v\models \varphi \textrm{ for all } m \textrm{ and } v\\ \models \varphi &\quad \textrm{ iff}\quad A \models \varphi \textrm{ for all } A (\varphi \textrm{ is true})\\ A, m, v \models \Gamma &\quad \textrm{ iff}\quad A, m, v \models \Gamma \textrm{ for all } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ iff}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
 
@@ -255,7 +255,7 @@ With this modality, the language gains greater expressive power to define generi
 
 $$\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\lozenge^{\geq}\psi).$$
 
-We can read $\varphi\geq^{\forall\exists}\psi$ as “for each $\varphi$-world, there exists a $\psi$-world which is as good as that $\varphi$-world”. We can define other notions of generic preference in a similar manner. For instance, $\forall\exists$-preference and $\exists\exists$-preference can be defined in the language as follows:
+We can read $\varphi\geq^{\forall\exists}\psi$ as “for each *φ*-world, there exists a *ψ*-world which is as good as that *φ*-world”. We can define other notions of generic preference in a similar manner. For instance, $\forall\exists$-preference and $\exists\exists$-preference can be defined in the language as follows:
 
 1. $\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\langle\geq\rangle\psi)$
 2. $\varphi\geq^{\exists\exists}\psi \coloneq E(\varphi\land\langle\geq\rangle\psi)$
@@ -281,7 +281,7 @@ The complete axiomatization of Halpern (1997)[^halpern-1997] when $\succeq$ is a
 3. $((\varphi_1 \lor \varphi_2)> \varphi_3) \land ((\varphi_1\lor \varphi_3)> \varphi_2)\rightarrow(\varphi_1>(\varphi_2\lor \varphi_3))$
 4. $U (\varphi_1\rightarrow\varphi_2) \land U(\varphi_3\rightarrow\varphi_4)\land(\varphi_1>\varphi_4) \rightarrow(\varphi_2>\varphi_3)$
 5. Gen. $U\varphi,$ for all propositional tautologies.
-6. MP. From $\varphi$ and $\varphi\rightarrow\psi$ infer $\psi$.
+6. MP. From *φ* and $\varphi\rightarrow\psi$ infer *ψ*.
 
 *Figure 7.*
 
@@ -289,7 +289,7 @@ A recent paper by Shi and Sun (2021) explores an alternative method of preferenc
 
 $$\mathcal{M}, w \models \varphi \geq \psi \text{ iff } \begin{cases} (1) \ \forall x \in \llbracket\varphi\rrbracket_w \ \exists y \in \llbracket\psi\rrbracket_w : x \succeq_w y; \\ (2) \ \forall x \in \llbracket\psi\rrbracket_w \ \exists y \in \llbracket\varphi\rrbracket_w : y \succeq_w x \end{cases}$$
 
-where $\llbracket\varphi\rrbracket_w$ denotes the set of *w*-accessible worlds that satisfy $\varphi$. Traditionally applied in fields like denotational semantics, Shi and Sun (2021) extend the Egli-Milner order to preference logic by developing a complete axiomatic system for the “convex order” derived from a total pre-order.
+where $\llbracket\varphi\rrbracket_w$ denotes the set of *w*-accessible worlds that satisfy *φ*. Traditionally applied in fields like denotational semantics, Shi and Sun (2021) extend the Egli-Milner order to preference logic by developing a complete axiomatic system for the “convex order” derived from a total pre-order.
 
 ## 4. Reason-based preference
 
@@ -400,18 +400,18 @@ Two main methodologies are used to model preference change: the Alchourrón, Gä
 
 Sven Ove Hansson (1995)[^hansson-1995] provided a detailed analysis of preference change, identifying four distinct types within the AGM framework:
 
-- **revision**: acquiring a preference for $\varphi$ over $\psi$ with the revision statement “$\varphi$ is preferable to $\psi$”.
-- **contraction**: removing the preference that “$\varphi$ is preferable to $\psi$”.
+- **revision**: acquiring a preference for *φ* over *ψ* with the revision statement “*φ* is preferable to *ψ*”.
+- **contraction**: removing the preference that “*φ* is preferable to *ψ*”.
 - **addition**: adding a new alternative to the set of options considered.
 - **subtraction**: removing an option from the set of options considered.
 
-While belief revision assigns priorities to minimize changes to prior beliefs, Hansson argues that priorities are unsuitable for preference revision. In preference revision, accommodating a new statement like $\varphi\succeq \psi$ can involve adjusting the position of either $\varphi$ or $\psi$. He also proposes a similarity measure to keep the revised preference model as close to the original as possible, along with AGM-style postulates for these operators.
+While belief revision assigns priorities to minimize changes to prior beliefs, Hansson argues that priorities are unsuitable for preference revision. In preference revision, accommodating a new statement like $\varphi\succeq \psi$ can involve adjusting the position of either *φ* or *ψ*. He also proposes a similarity measure to keep the revised preference model as close to the original as possible, along with AGM-style postulates for these operators.
 
-Van Benthem and Liu (2007) developed an extension of dynamic epistemic logic as a way to reason about preference change. A “suggestion” operator was introduced, denoted as $\sharp\varphi$. The formula $[\sharp\varphi]\psi$ means “After $\varphi$ is publicly suggested, $\psi$ holds”, and is defined as:
+Van Benthem and Liu (2007) developed an extension of dynamic epistemic logic as a way to reason about preference change. A “suggestion” operator was introduced, denoted as $\sharp\varphi$. The formula $[\sharp\varphi]\psi$ means “After *φ* is publicly suggested, *ψ* holds”, and is defined as:
 
 $$(\mathcal{M}, s) \models [\sharp \varphi]\psi \quad\textrm{ iff }\quad \mathcal{M}_{\sharp \varphi}, s \models \psi$$
 
-where $\mathcal{M}_{\sharp \varphi}$ is defined with the same domain, valuation, and actual world as $(\mathcal{M}, s)$ but with the preference relations updated by subtracting the preference links from $\varphi$-worlds to $\neg \varphi$-worlds:
+where $\mathcal{M}_{\sharp \varphi}$ is defined with the same domain, valuation, and actual world as $(\mathcal{M}, s)$ but with the preference relations updated by subtracting the preference links from *φ*-worlds to $\neg \varphi$-worlds:
 
 $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ and } \mathfrak{M}, t \models \neg \varphi\}.$$
 
@@ -419,7 +419,7 @@ More generally, in this framework, suggestion $\sharp(\varphi)$ can be understoo
 
 $$(?\neg \varphi ; R) \cup (R ; ?\varphi)$$
 
-indicating that all existing *R* links are retained with the exception of those links from $\varphi$-worlds to $\neg \varphi$-worlds. This setup allows for different types of preference change. For example, adding preference links (making every $\varphi$-world preferable to every $\neg \varphi$-world) can be represented as
+indicating that all existing *R* links are retained with the exception of those links from *φ*-worlds to $\neg \varphi$-worlds. This setup allows for different types of preference change. For example, adding preference links (making every *φ*-world preferable to every $\neg \varphi$-world) can be represented as
 
 $$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
 
@@ -427,7 +427,7 @@ where $\top$ denotes the universal relation. *Radical preference upgrade* is def
 
 $$\Uparrow \varphi(R) := (?\varphi;R;?\varphi)\cup(?\neg \varphi; R;?\neg \varphi) \cup (?\neg \varphi;\top;?\varphi)$$
 
-which makes all $\varphi$-worlds preferable to all $\neg \varphi$-worlds while preserving the original ordering within each group.
+which makes all *φ*-worlds preferable to all $\neg \varphi$-worlds while preserving the original ordering within each group.
 
 This dynamic preference logic extends DEL by supporting various relation-changing operators, and Van Benthem and Liu (2007) provide completeness theorems for these operators. Their results leverage the PDL format, which enables reduction of dynamic modalities and recursive computation of reduction axioms.
 
@@ -439,7 +439,7 @@ The second type of preference change arises in response to changes in belief and
 
 Learning that the sushi was made with old fish changes my belief, which then reverses my initial preference. Here, preference change is a consequence of belief change, making belief change the key element to model.
 
-The AGM framework addresses belief revision by establishing postulates for how a belief set should adapt to new, possibly conflicting, information. Lang and Van der Torre (2008) apply a similar approach to preference change resulting from belief updates. The formal language proposed includes: a dyadic modal operator for belief, $N(\alpha\mid\beta)$, meaning “$\alpha$ is normal (or believed) given $\beta$”; a preference operator, $P(\alpha\mid\beta)$, meaning “$\alpha$ is preferred given $\beta$”; and a dynamic operator, $[*\alpha]\beta$, read as “after learning $\alpha$, $\beta$ holds”. To capture the properties of preference change, they propose eight postulates. Two examples are given below:
+The AGM framework addresses belief revision by establishing postulates for how a belief set should adapt to new, possibly conflicting, information. Lang and Van der Torre (2008) apply a similar approach to preference change resulting from belief updates. The formal language proposed includes: a dyadic modal operator for belief, $N(\alpha\mid\beta)$, meaning “*α* is normal (or believed) given *β*”; a preference operator, $P(\alpha\mid\beta)$, meaning “*α* is preferred given *β*”; and a dynamic operator, $[*\alpha]\beta$, read as “after learning *α*, *β* holds”. To capture the properties of preference change, they propose eight postulates. Two examples are given below:
 
 $$\tag{P1} P\alpha \rightarrow [*\alpha]P\alpha $$
 
@@ -475,11 +475,11 @@ These basic graph updates provide simple ways to restructure a given priority ba
 
 #### 5.3.2 Tracking dynamics
 
-To track changes across different levels—at the world layer and the priority layer—we define a specific technical notion. Given a priority update $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ and a world-level map $\sigma: (\preceq, A) \rightarrow \preceq'$, it is said that $\alpha$ *induces* $\sigma$ if:
+To track changes across different levels—at the world layer and the priority layer—we define a specific technical notion. Given a priority update $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ and a world-level map $\sigma: (\preceq, A) \rightarrow \preceq'$, it is said that *α* *induces* *σ* if:
 
 $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
 
-An operation $\alpha$ is a *PDL-definable operation* if it induces a *PDL*-definable relation transformer $\sigma$ by using tests for formulas in the language, weak and strict basic preference relations *R*, and the universal relation, while allowing arbitrary unions and sequential compositions:
+An operation *α* is a *PDL-definable operation* if it induces a *PDL*-definable relation transformer *σ* by using tests for formulas in the language, weak and strict basic preference relations *R*, and the universal relation, while allowing arbitrary unions and sequential compositions:
 
 $$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
 
@@ -525,13 +525,13 @@ The core problem of *ceteris paribus* preference is how to interpret “all else
 
 When interpreting the phrase “all else being equal”, a natural approach is to use equivalence classes of worlds. This approach has been taken by many researchers in the field. For instance, Doyle and Wellman (1994) defined context-dependent equivalence relations among individuals, which is called contextual equivalence. As a consequence, this means that the equivalence class may vary according to the context under consideration.
 
-Formally, let $\Omega$ be a set of states, and let $\mathcal{E}(\Omega)$ denote the set of all equivalence relations on $\Omega$. The contextual equivalence is defined on a set $\Omega$ as a function $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$ assigning to each set of proposition $\{p, q, \ldots\}$ an equivalence relation $\eta(p, q, \ldots)$. For $w\,\eta(p,q,\ldots)\, w^{\prime}$ , we write $w\approx_{ mod\, p,q,\ldots} w^{\prime}$, meaning that with regard to $p, q, \ldots$, it is the case that *w* and $w^{\prime}$ are the same. Doyle and Wellman (1994) thus proposed dividing the space of possibilities into equivalence classes and ignoring comparison links that go across these classes.
+Formally, let $\Omega$ be a set of states, and let $\mathcal{E}(\Omega)$ denote the set of all equivalence relations on $\Omega$. The contextual equivalence is defined on a set $\Omega$ as a function *η*: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$ assigning to each set of proposition $\{p, q, \ldots\}$ an equivalence relation $\eta(p, q, \ldots)$. For $w\,\eta(p,q,\ldots)\, w^{\prime}$ , we write $w\approx_{ mod\, p,q,\ldots} w^{\prime}$, meaning that with regard to $p, q, \ldots$, it is the case that *w* and $w^{\prime}$ are the same. Doyle and Wellman (1994) thus proposed dividing the space of possibilities into equivalence classes and ignoring comparison links that go across these classes.
 
 Van Benthem, Girard, and Roy (2009) applied this idea to equivalence relations between possible worlds: truth-value equivalence for all relevant modal formulas in some specified set. In addition, they showed how this notion links up with von Wright’s work, and how it applies to game-theoretic solution concepts. They introduced new modalities of the form $\langle \Gamma \rangle\varphi$ into the language, formally defined as
 
 $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi\mid \langle \Gamma \rangle^{\geq}\varphi\mid \langle \Gamma \rangle\varphi,$$
 
-where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, $\Gamma$ defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that *w* and *v* are equal w.r.t. $\Gamma$—they satisfy the same formulas in $\Gamma$.
+where *Γ* is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, *Γ* defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that *w* and *v* are equal w.r.t. *Γ*—they satisfy the same formulas in *Γ*.
 
 A *ceteris paribus* preference model is a quadruple $\mathcal{M}$= $(W, \succeq, \trianglerighteq_{\Gamma}, V)$ where:
 
@@ -539,13 +539,13 @@ A *ceteris paribus* preference model is a quadruple $\mathcal{M}$= $(W, \succeq,
 - $\trianglerighteq_{\Gamma}$ is the binary relation given by $w\trianglerighteq_{\Gamma}v$ iff $w\succeq v$ and $w \approx_{\Gamma} v$
 - the strict subrelation $\trianglerighteq_{\Gamma}$ is defined by $w\succ v$ and $w \approx_{\Gamma} v$
 
-The relation $\trianglerighteq_{\Gamma}$ is essentially an intersection of two relations over worlds: the basic preference relation and truth-value equivalence with respect to the formulas in $\Gamma$. The truth conditions for the new formulas that involve the equivalent classes are:
+The relation $\trianglerighteq_{\Gamma}$ is essentially an intersection of two relations over worlds: the basic preference relation and truth-value equivalence with respect to the formulas in *Γ*. The truth conditions for the new formulas that involve the equivalent classes are:
 
 - $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$  iff   $\exists v$ s.t. $v \trianglerighteq_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
 - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$  iff   $\exists v$ s.t. $v \vartriangleright_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
 - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$  iff   $\exists v$ s.t. $v \approx_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
 
-For those cases where $\Gamma$ is finite, Van Benthem, Girard, and Roy (2009) provide a complete axiomatization. For the features of *ceteris paribus*, the new set of axioms is found in Figure 8.
+For those cases where *Γ* is finite, Van Benthem, Girard, and Roy (2009) provide a complete axiomatization. For the features of *ceteris paribus*, the new set of axioms is found in Figure 8.
 
 Reflexivity axioms for *ceteris paribus* sets where $\varphi\in\Gamma$:
 
@@ -566,7 +566,7 @@ Axioms characterizing the changes to the *ceteris paribus* sets:
 
 *Figure 8:* Axiomatization of *ceteris paribus* preferences by Van Benthem, Girard, and Roy (2009)
 
-In the full language, $\Gamma$ in modalities $\langle\Gamma\rangle\varphi$ can be of an arbitrary size. The follow-up work of Seligman and Girard (2011) presents an axiomatization of part of the full logic, the set of what is called “flexible” validities, and provides an alternative semantics in which all validities are flexible and so completely axiomatized. The axiomatization of infinite arbitrary sets is still an open problem.
+In the full language, *Γ* in modalities $\langle\Gamma\rangle\varphi$ can be of an arbitrary size. The follow-up work of Seligman and Girard (2011) presents an axiomatization of part of the full logic, the set of what is called “flexible” validities, and provides an alternative semantics in which all validities are flexible and so completely axiomatized. The axiomatization of infinite arbitrary sets is still an open problem.
 
 ### 6.2 Computational models of ceteris paribus preferences
 
@@ -611,11 +611,11 @@ For example, if I prefer fish over meat, and I prefer meat over vegetarian food,
 
 In possible world semantics, this can be explained from the fact that models of conditional logic are also preference structures. However, these preference logics developed as counterparts of conditional and deontic logics in the late 1960s and early 1970s, and they were rather different from the preference logics developed in the decade before by Halldén and von Wright.
 
-If we write $\varphi\Rightarrow \psi$ for the conditional “if $\varphi$ then $\psi$”, then under suitable conditions, we can define that $\varphi$ is preferred to $\psi$ if $\varphi\lor \psi$ implies $\varphi$ and not $\psi$:
+If we write $\varphi\Rightarrow \psi$ for the conditional “if *φ* then *ψ*”, then under suitable conditions, we can define that *φ* is preferred to *ψ* if $\varphi\lor \psi$ implies *φ* and not *ψ*:
 
 $$\varphi\geq^{\forall\exists} \psi :=\neg ((\varphi\lor \psi)\Rightarrow \neg \varphi).$$
 
-Then we also have that the conditional “if $\varphi$ then $\psi$” is defined as a preference of $\varphi\land \psi$ over $\varphi\land \neg \psi$:
+Then we also have that the conditional “if *φ* then *ψ*” is defined as a preference of $\varphi\land \psi$ over $\varphi\land \neg \psi$:
 
 $$\varphi\Rightarrow \psi := (\psi\land \varphi)>^{\forall\exists}(\neg \psi\land \varphi).$$
 
@@ -745,9 +745,9 @@ logic: dynamic epistemic | logic: modal | logic: of belief revision | preference
 
 [^liu-2011a]: –––, 2011a, “A Two-Level Perspective on Preference”, *Journal of Philosophical Logic*, 40(3): 421–439. doi:10.1007/s10992-010-9168-9
 
-[^liu-2011b]: –––, 2011b, *Reasoning about Preference Dynamics* (Synthese Library 354), Berlin: Springer. doi:10.1007/978-94-007-1344-4
+[^liu-2011b]: –––, 2011b, *Reasoning about Preference Dynamics* (Synthese Library 354), Berlin: Springerd. doi:10.1007/978-94-007-1344-4
 
-[^makinson-1993]: Makinson, David, 1993, “Five Faces of Minimality”, *Studia Logica*, 52(3): 339–379, doi:10.1007/bf01057652
+[^makinson-1993]: Makinson David, 1993, “Five Faces of Minimality”, *Studia Logica*, 52(3): 339–379, doi:10.1007/bf01057652
 
 [^makinson-1999]: –––, 1999, “On a Fundamental Problem of Deontic Logic”, in *Norms, Logics and Information Systems. New Studies on Deontic Logic and Computer Science*, Paul McNamara and Henry Prakken (eds), Amsterdam: IOS Press, 29–53.
 

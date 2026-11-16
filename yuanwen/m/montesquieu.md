@@ -166,13 +166,13 @@ republicanism
 
 [^cox-1983]: Cox, Iris, 1983, *Montesquieu and the History of French Laws*, Oxford: Voltaire Foundation at the Taylor Institution.
 
-[^durkheim-1960]: Durkheim, Emile, 1960, *Montesquieu and Rousseau: Forerunners of Sociology*, Ann Arbor: University of Michigan Press.
+[^durkheim-1960]: Durkheim, Emile, 1960, *Montesquieu and Rouseau: Forerunners of Sociology*, Ann Arbor: University of Michign Press.
 
-[^hulliung-1976]: Hulliung, Mark, 1976, *Montesquieu and the Old Régime*, Berkeley: University of California Press.
+[^hulliung-1976]: Hulliung, Mark, 1976, *Montesquieu and the Old Régime*, Berkeley: University of California Press
 
 [^keohane-1980]: Keohane, Nannerl, 1980, *Philosophy and the State in France: The Renaissance to the Enlightenment*, Princeton: Princeton University Press.
 
-[^krause-1999]: Krause, Sharon, 1999, “The Politics of Distinction and Disobedience: Honor and the Defense of Liberty in Montesquieu”, *Polity*, 31(3): 469–499.
+[^krause-1999]: Krause, Sharon, 1999, “The Politics of Distinction and Disobedience: Honor and the Defense of Liberty in Montesquieu”, *Polity*, 31 (3): 469-499.
 
 [^oakeshott-1993]: Oakeshott, Michael, 1993, “The Investigation of the ‘Character’ of Modern Politics”, in *Morality and Politics in Modern Europe: The Harvard Lectures*, Shirley Letwin (ed.), New Haven: Yale University Press.
 

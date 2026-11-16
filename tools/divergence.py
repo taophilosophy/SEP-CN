@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
-"""原始物分歧账（ADR-0045）：en/ 批准勘误的双账语义。
+"""原始物分歧账（ADR-0045；ADR-0062 起语义收缩）：en/ 与上游真变的合并与核验。
 
 baseline/entries.json 的 files[].sha256 永远只记「原始网页 sha」（抓取时的上游
-字节钉，ADR-0027/0038）；en/ 就地勘误（ADR-0038 四类）不得改写该钉，逐条登记
-本账（baseline/divergences.json）：
+字节钉，ADR-0027）；ADR-0062 起 en/ **绝对冻结**——与钉逐字节一致，文字层与
+格式层变动一律禁止（文字缺陷→全局勘误表＋中文译注；格式问题→
+baseline/en-patches.json 补丁池）。本账只用于**上游真变**（carry 三方合并）与
+审计面，不再登记文字改正：
 
   {slug, path, upstream_sha256, local_sha256, bytes, commit, subject,
    base_commit, reason, registered_at}
@@ -453,7 +455,7 @@ def main(argv=None):
     r = sub.add_parser("register", help="登记批准分歧")
     r.add_argument("paths", nargs="+", help="en/<slug>/<file> 路径")
     r.add_argument("--commit", help="勘误提交（缺省取该路径最新提交）")
-    r.add_argument("--reason", help="勘误定性说明（ADR-0038 类别）")
+    r.add_argument("--reason", help="分歧原因（ADR-0062：仅上游真变/审计面）")
     r.set_defaults(fn=cmd_register)
     p = sub.add_parser("patch", help="输出原始→本地 unified diff")
     p.add_argument("path")

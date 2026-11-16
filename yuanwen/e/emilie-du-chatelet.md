@@ -9,7 +9,7 @@ In her intellectual work, Du Châtelet focused on natural philosophy, particular
 
 Voltaire implicitly acknowledged her significant contribution—especially on more technical material—to his 1738 *Eléments de la philosophie de Newton*. For many years, it was believed that there was one surviving chapter from an otherwise lost work written by Du Châtelet—her “Essai sur l'optique” (ca. 1736). This chapter is housed among Voltaire's papers in Russia's National Library in St. Petersberg. Judging from that chapter on color formation this earlier essay seems to have been a more developed version of the chapter on optics in Voltaire's book, thus indicating her significant contribution to Voltaire's work. As a fascinating side note on how dynamic Du Châtelet studies are, in recent years fully three *complete* copies of her Essai have been found, one in Bernoulli's papers in Basel (Nagel 2012)[^nagel-2012] and two that have been acquired recently by the Musée des lettres et manuscrits in Paris. In 1737 Du Châtelet entered a competition to explain the nature of fire, conducting her experiments in secret while Voltaire also conducted experiments for his entry to the competition. Both Du Châtelet's and Voltaire's entries aimed to disprove the theory that fire is a material substance, and both were published along with the three winners (including the essay essay by Leonhard Euler, which took the top prize). Du Châtelet returned to this project a number of times thereafter, making significant revisions to the original text as her ideas on the nature of fire matured and changed.
 
-In 1738, she published “Lettre sur les ‘*Eléments de la philosophie de Newton*’” in the *Journal des savants* in which she argued against those who accepted a Cartesian account of attraction. In 1740 she published her *Institutions de physique* (*The Foundations of Physics*) ostensibly a textbook in physics for her son, but in reality a highly original work in natural philosophy (a second edition was published in 1742 under the slightly altered title *Institutions physiques*). It was in this text—her *magnum opus*—that she supplied the metaphysical basis for the Newtonian physics she had long accepted. This metaphysics was Leibnizian and Wolffian in flavor. Her inclusion of a defense of *force vive* (she thus sided with Leibniz on this question) led to her subsequent dispute on the issue with Jean-Jacques Dortous de Mairan. Sometime in the early 1740s she began work on her two-volume translation of and commentary on Newton's *Principia*. She died shortly after she completed this work, which remained unpublished until 1759. It is still the leading French translation of Newton's book.
+In 1738, she published “Lettre sur les ‘*Eléments de la philosophie de Newton*’” in the *Journal des savants* in which she argued against those who accepted a Cartesian account of attraction. In 1740 she published her *Institutions de physique* (*The Foundations of Physics*) ostensibly a textbook in physics for her son, but in reality a highly original work in natural philosophy (a second edition was published in 1742 under the slightly altered title *Institutions physique*). It was in this text—her *magnum opus*—that she supplied the metaphysical basis for the Newtonian physics she had long accepted. This metaphysics was Leibnizian and Wolffian in flavor. Her inclusion of a defense of *force vive* (she thus sided with Leibniz on this question) led to her subsequent dispute on the issue with Jean-Jacques Dortous de Mairan. Sometime in the early 1740s she began work on her two-volume translation of and commentary on Newton's *Principia*. She died shortly after she completed this work, which remained unpublished until 1759. It is still the leading French translation of Newton's book.
 
 While Du Châtelet's primary interest was in natural philosophy, she also had interests in ethics (translating of portions of Mandeville's *Fable of the Bees*), theology and the Bible (writing a book titled *Examens de la Bible***)**, and the source of human happiness (writing a semi-autobiographical book, *Discours sur le bonheur*). Her non-scientific work occasionally touched on the subject of women's social roles and their education.
 
@@ -90,7 +90,7 @@ We shall not go into the details of her argument for the existence and nature of
 
 > All that exists has a sufficient reason for its existence. The sufficient reason for the existence of a being must be within it, or outside it. Now the reason for the existence of a contingent being cannot be within it, for if it carried the sufficient reason for its own existence, it would be impossible for it not to exist, which is contradictory to the definition of a contingent being. So the sufficient reason for the existence of a contingent being must necessarily be outside it…. This sufficient reason cannot be found in another contingent being, nor in a succession of such beings, since the same question will always arise at the end of this chain, however it may be extended. So it must come from a necessary Being that contains the sufficient reason for the existence of all contingent beings, and for his own existence, and this being is God. (IP §19.5–6, p. 139, translation altered)
 
-Lascano has noted the influence of both Leibniz and Locke on Du Châtelet's cosmological proof (Lascano 2011, *passim*)[^lascano-2011]. She also notes that Du Châtelet makes a similar mistake to one Aquinas makes in his Five Ways, in assuming that an infinite chain of causes cannot simply extend into the past with no need of a supermundane cause (Lascano 2011, 756)[^lascano-2011]. It is a shame that Du Châtelet's acquaintance with the ideas of Samuel Clarke (Hutton 2012)[^hutton-2012] did not extend as far as his cosmological proof from contingency to necessity for the existence of God, for if it had, then perhaps she would have sidestepped this error. Nonetheless, again as Lascano points out, her proof is a notable improvement on Locke's, and the key point to be drawn from her discussion of God is that articulated above, namely the importance to Du Châtelet's scientific endeavors of God and the nature of the world he creates.
+Lascano has noted the influence of both Leibniz and Locke on Du Châtelet's cosmological proof (Lascano 2011, *passim*)[^lascano-2011]. She also notes that Du Châtelet makes a similar mistake to one Aquinas makes in his Five Ways, in assuming that an infinite chain of causes cannot simply extend into the past with no need of a supermundane cause (Lascano 2011, 756)[^lascano-2011]. It is a shame that Du Châtelet's acquaintance with the ideas of Samuel Clarke (Hutton 2012) did not extend as far as his cosmological proof from contingency to necessity for the existence of God, for if it had, then perhaps she would have sidestepped this error. Nonetheless, again as Lascano points out, her proof is a notable improvement on Locke's, and the key point to be drawn from her discussion of God is that articulated above, namely the importance to Du Châtelet's scientific endeavors of God and the nature of the world he creates.
 
 ## 4. Metaphysics
 
@@ -256,7 +256,7 @@ Condillac, Étienne Bonnot de | Descartes, René | feminist philosophy, interven
 
 [^du-1740]: –––, *Institutions de physique*, Paris, 1740. [Cited by section number.]
 
-[^du-1988]: –––, *Institutions physiques: Nouvelle edition*, in *Gesammelte Werke* (Abt. 3, Band 28: Materialien und Dokumente), Jean Ecole (ed.), Hildesheim, Zürich, New York: Olms, 1988. (Original publication date: 1742.)
+[^du-1988]: –––, *Institutions physiques: Nouvelle edition*, in *Gesammelte Werke* (Abt. 3, Band 28: Materialien und Dokumente), Jean Ecole (ed.), Hildesheim, Zürich, New York: Olms, 1988. (Original publication date: 1742.]
 
 [^du-1806]: –––, *Lettres inédites de madame de Chastelet à M. le comte d'Argental*, Paris: Déterville, Lenormand, Petit, 1806; reprinted Elbrion Classics, 2005.
 
@@ -270,7 +270,7 @@ Condillac, Étienne Bonnot de | Descartes, René | feminist philosophy, interven
 
 [^newton-1959]: Newton, Isaac, *The Correspondence of Isaac Newton*, 7 volumes, H.W. Turnbull, J.F. Scott, A.R. Hall, and L. Tilling (eds.), Cambridge: Cambridge University Press, 1959–77.
 
-[^voltaire-1968]: Voltaire, *Correspondence and related documents*, Theodore Besterman (ed.), Genève: Institut et Musée Voltaire, 1968–77.
+[^voltaire-1968]: Voltaire, *Correspondence and related documents*, Theodore Besterman (ed.), Genève: Institut et Musee Voltaire, 1968–77.
 
 [^voltaire-1992]: –––, *Eléments de la philosophie de Newton*, Robert L. Walters and W.H. Barber (eds.), Volume 15 of *The Complete Works of Voltaire*, W.H. Barber and Ulla Kölving (gen. eds.), Oxford: University of Oxford Press, 1992. [Original publication 1738.]
 
@@ -298,7 +298,7 @@ Condillac, Étienne Bonnot de | Descartes, René | feminist philosophy, interven
 
 [^della-2010]: Della Rocca, Michael, 2010, “Principle of Sufficient Reason”, *Philosophers' Imprint*, 10(7).
 
-[^detlefsen-nd]: Detlefsen, Karen, forthcoming, “Du Châtelet and Descartes on the Roles of Hypothesis and Metaphysics in Science”, in *Feminism and the History of Philosophy*, Eileen O'Neill and Marcy Lascano (eds.), Dordrecht: Springer Academic Press.
+[^detlefsen-nd]: Detlefsen, Karen, forthcoming, “Du Châtelet and Descartes on the Roles of Hypothesis and Metaphysics in Science”, in *Feminism and the History of Philosophy*, Eileen O'Neill and Marcy Lascano (ed.), Dordrecht: Springer Academic Press.
 
 [^ehrman-1986]: Ehrman, Esther, 1986, *Mme Du Châtelet: Scientist, Philosopher, and Feminist of the Enlightenment*, Leamington Spa: Berg Publishers.
 
@@ -306,19 +306,19 @@ Condillac, Étienne Bonnot de | Descartes, René | feminist philosophy, interven
 
 [^friedman-2008]: Friedman, Michael, 2008, “Descartes and Galileo: Copernicanism and the Metaphysical Foundations of Physics”, in *A Companion to Descartes*, Janet Broughton and John Carriero (eds.), Malden, MA: Blackwell, 69–83.
 
-[^gale-1970]: Gale, George, 1970, “The Physical Theory of Leibniz,” *Studia Leibnitiana*, 2(2): 114–27.
+[^gale-1970]: Gale, George, 1970, “The Physical Theory of Leibniz,” *Studia Leibnitiana*, 2(2):: 114–27.
 
 [^garber-1978]: Garber, Daniel, 1978, “Science and Certainty in Descartes”, in *Descartes: Critical and Interpretive Essays*, Michael Hooker (ed.), Baltimore: The Johns Hopkins University Press, 114–51.
 
-[^gireau-geneaux-2001]: Gireau-Geneaux, Annie, 2001, “Mme Du Châtelet entre Leibniz et Newton: matière, force et substance”, in *Cirey dans la vie intellectuelle: La réception de Newton en France*, François de Gandt (ed.), *Studies on Voltaire and the Eighteenth Century*, 11: 173–186.
+[^gireau-geneaux-2001]: Gireau-Geneaux, Annie, 2001, “Mme Du Châtelet entre Leibniz et Newton: matière, force et substance”, in *Cirey dans la vie intellectualle: La réception de Newton en France*, François de Gandt (ed.), *Studies on Voltaire and the Eighteenth Century*, 11: 173–186.
 
-[^hagengruber-2012]: Hagengruber, Ruth, 2012, “Emilie Du Châtelet between Leibniz and Newton: The Transformation of Metaphysics”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (ed.), London: Springer.
+[^hagengruber-2011]: Hagengruber, Ruth, 2011, “Emilie Du Châtelet between Leibniz and Newton: The Transformation of Metaphysics”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (ed.), London: Springer.
 
 [^hanson-1970]: Hanson, N.R., 1970, “Hypotheses Fingo”, in *The Methodological Heritage of Newton*, Robert E. Butts and John W. Davis (eds.), Toronto: University of Toronto Press, 14–33.
 
 [^harth-1992]: Harth, Erica, 1992, *Cartesian Women: Versions and Subversions of Rational Discourse in the Old Regime*, Ithaca: Cornell University Press.
 
-[^hatfield-1990]: Hatfield, Gary, 1990, “Metaphysics and the New Science”, in *Reappraisals of the Scientific Revolution*, David C. Lindberg and Robert S. Westman (eds.), Cambridge: Cambridge University Press, 93–166.
+[^hatfield-1990]: Hatfield, Gary, 1990, “Metaphysics and the New Science”, in *Reappraisals of the Scientific Revolution*, David C. Lindberg and Robert S. Westman (ed.), Cambridge: Cambridge University Press, 93–166.
 
 [^hettche-2008]: Hettche, Matt, 2008, “Christian Wolff”, *The Stanford Encyclopedia of Philosophy* (Fall 2008 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2008/entries/wolff-christian/](https://plato.stanford.edu/archives/fall2008/entries/wolff-christian/)>.
 
@@ -330,13 +330,13 @@ Condillac, Étienne Bonnot de | Descartes, René | feminist philosophy, interven
 
 [^hutton-2004b]: –––, 2004b, “Women, Science, and Newtonianism: Emilie Du Châtelet versus Francesco Algarotti”, in *Newton and Newtonianism*, J.E. Force and S. Hutton (eds.), Dordrecht: Kluwer, 183–203.
 
-[^hutton-2012]: –––, 2012, “Between Newton and Leibniz: Emilie Du Châtelet and Samuel Clarke”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (ed.), London: Springer.
+[^hutton-2011]: –––, 2011, “Between Newton and Leibniz: Emilie Du Châtelet and Samuel Clarke”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (eds.), London: Springer.
 
 [^iltis-1977]: Iltis, Carolyn, 1977, “Madame Du Châtelet's Metaphysics and Mechanics”, *Studies in the History of Philosophy of Science*, 8(1): 29–48.
 
 [^janiak-2008]: Janiak, Andrew, 2008, *Newton as philosopher*, Cambridge: Cambridge University Press.
 
-[^janiak-nd]: Janiak, Andrew, and Karen Detlefsen, forthcoming, “The Evolution of Chatelet's Natural Philosophy—What the BnF manuscript can tell us about Du Châtelet's intellectual development”, for publication with Institut des textes et manuscrits modernes, Paris, France.
+[^janiak-nd]: Janiak, Andrew, and Karen Detlefsen, forthcoming, “The Evolution of Chatelet's Natural Philosophy—What the BnF manuscript can tell us about Du Châtelet's intellectual development”, for publication with Istitut des textes et manuscrit modernes, Paris, France.
 
 [^janik-1982]: Janik, Linda Gardiner, 1982, “Searching for the metaphysics of science: the structure and composition of madame Du Châtelet's *Institutions de physique*, 1737–1740”, *Studies on Voltaire and the Eighteenth Century*, 201: 85–113.
 
@@ -348,7 +348,7 @@ Condillac, Étienne Bonnot de | Descartes, René | feminist philosophy, interven
 
 [^locqueneux-1995]: Locqueneux, Robert, 1995, “Les *Institutions de physique* de Madame Du Châtelet, ou un traite de paix entre Descartes, Leibniz et Newton”, *Revue du Nord*, 77(312): 859–92.
 
-[^locqueneux-2001]: –––, 2001, “La physique expérimentale vers 1740: expériences, systèmes et hypothèses”, in *Cirey dans la vie intellectuelle: La réception de Newton en France*, François de Gandt (ed.), *Studies on Voltaire and the Eighteenth Century*, 11: 90–111.
+[^locqueneux-2001]: –––, 2001, “La physique expérimentale ver 1740: expériences, systèmes et hypotheses”, in *Cirey dans la vie intellectualle: La réception de Newton en France*, François de Gandt (ed.), *Studies on Voltaire and the Eighteenth Century*, 11: 90–111.
 
 [^look-2013]: Look, Brandon C., 2013, “Gottfried Wilhelm Leibniz”, *The Stanford Encyclopedia of Philosophy* (Spring 2013 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2013/entries/leibniz/](https://plato.stanford.edu/archives/spr2013/entries/leibniz/)>.
 
@@ -370,13 +370,13 @@ Condillac, Étienne Bonnot de | Descartes, René | feminist philosophy, interven
 
 [^moriarty-2006]: Moriarty, Paul Veatch, 2006, “The principle of sufficient reason in Du Châtelet's *Institutions*”, in *Émilie Du Châtelet: rewriting Enlightenment philosophy and science*, Judith P. Zinsser and Julie Candler Hayes (eds.), *Studies on Voltaire and the Eighteenth Century*, 1: 203–225.
 
-[^nagel-2012]: Nagel, Fritz, 2012, “Sancti Bernoulli orate pro nobis”: Emilie Du Châtelet's Rediscovered *Essai sur l'optique* and Her Relation to the Mathematicians from Basel”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (ed.), London: Springer.
+[^nagel-2012]: Nagel, Fritz, 2012, ““Sancti Bernoulli orate pro nobis”. Emilie Du Châtelet's Rediscovered *Essai sur l'optique* and Her Relation to the Mathematicians from Basel”, in *Émilie Du Châtelet: Between Leibniz and Newton*, Ruth Hagengruber (ed.), London: Springer.
 
 [^neeley-1992]: Neeley, Kathryn A., 1992, “Woman as Mediatrix: Women as Writers on Science and Technology in The Eighteenth and Nineteenth Centuries”, *IEEE Transactions on Professional Communication*, 35(4): 208–16.
 
 [^rey-2008]: Rey, Anne-Lise, 2008, “La figure du leibnizianisme dans les *Institutions de physique*”, in *Émilie Du Châtelet: éclairages & documents nouveaux*, Ulla Kölving and Olivier Courcelle (eds.), Paris: Publication du Centre International d'Étude du XVIIIe Siècle 21. Ferney-Voltaire: Centre International d'Étude du XVIIIe Siècle), 231–42.
 
-[^rosenfeld-1972]: Rosenfeld, L., 1972, “Condillac's Influence on French Scientific Thought”, in *The Triumph of Culture: 18ᵗʰ Century Perspectives*, Paul Fritz and David Williams (eds.), Toronto: A.M. Hakkert Ltd.
+[^rosenfeld-1972]: Rosenfeld, L., 1972, “Condillac's Influence on French Scientific Thought”, in *The Triumph of Culture: 18ᵗʰ Century Persepctives*, Paul Fritz and David Williams (eds.), Toronto: A.M. Hakkert Ltd.
 
 [^sakellariadis-1982]: Sakellariadis, Spyros, 1982, “Descartes's use of Empirical Data to Test Hypotheses”, *Isis*, 73(1): 68–76.
 

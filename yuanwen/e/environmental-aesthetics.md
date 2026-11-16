@@ -69,7 +69,7 @@ Indeed, the stark dichotomy between the NEM and the aesthetics of engagement evo
 
 Despite its prevalence, this cognitive/non-cognitive taxonomy is ill-founded from a logical point of view and obscures some central issues in the field. One problem is that it conflicts with a more well-established philosophical usage on which “non-cognitive” means lacking in truth value, or purely emotive. In this sense, most of the views described above would be accurately described as “cognitive”, given that they involve beliefs and judgments. More importantly, this taxonomy runs together two issues—which mental faculties have an important role in aesthetic appreciation and whether scientific understanding is necessary for it—that are better distinguished from one another (Parsons 2023b)[^parsons-2023b]. For instance, the taxonomy separates views that accord central roles to imagination or emotion from those that give an essential role to scientific understanding. But these features are by no means exclusive: scientific understanding can engender emotional responses, and imagination can take flight from, and inform, scientific understanding. It is the second issue that in fact separates these two camps: that is, the salient issue is whether beliefs based in science or natural history are essential, in some sense, for “correct” or “appropriate” aesthetic appreciation, as the NEM asserts, thereby normatively *constraining* permissible forms of imagining, emotional response, and engagement.
 
-On that issue, a number of philosophers have argued that such scientifically informed beliefs are *not* necessary for appropriate appreciation, on grounds many and various: that the NEM’s appeal to science simply confuses facts and values (Berleant 2016; Newman, Varner, & Linquist 2017)[^berleant-2016][^newman-2017]; that it conflicts with the disinterestedness of aesthetic experience (Zangwill 2013)[^zangwill-2013]; that the potential range of such belief is too great (Stecker 1997; Budd 2002)[^budd-2002][^stecker-1997]; that it unduly limits the scope of aesthetic experience (Heyd 2001; Brady 2003; Zangwill 2005b)[^brady-2003][^heyd-2001][^zangwill-2005b]; and that such beliefs are too abstract to affect aesthetic experience (Heyd 2001; Hill & Daniel 2008)[^heyd-2001][^hill-2008]. Some proponents of these criticisms see science as incompatible with aesthetic appreciation altogether, whereas others allow that scientifically-informed appreciation is possible, though merely one of a plurality of valid forms of appreciation (see, e.g., Ross 2005)[^ross-2005].
+On that issue, a number of philosophers have argued that such scientifically informed beliefs are *not* necessary for appropriate appreciation, on grounds many and various: that the NEM’s appeal to science simply confuses facts and values (Berleant 2016; Newman, Varner, & Linquist 2017)[^berleant-2016][^newman-2017]; that it conflicts with the disinterestedness of aesthetic experience (Zangwill 2013)[^zangwill-2013]; that the potential range of such belief is too great (Stecker 1997; Budd 2002)[^budd-2002][^stecker-1997]; that it unduly limits the scope of aesthetic experience (Heyd 2001; Brady 2003; Zangwill 2005b)[^brady-2003][^heyd-2001][^zangwill-2005b]; and that such beliefs are too abstract to affect aesthetic experience (Heyd 2001; Hill & Daniel 2008)[^heyd-2001]. Some proponents of these criticisms see science as incompatible with aesthetic appreciation altogether, whereas others allow that scientifically-informed appreciation is possible, though merely one of a plurality of valid forms of appreciation (see, e.g., Ross 2005)[^ross-2005].
 
 This last point highlights the fact that those who reject the essential role for scientific knowledge proposed by the NEM and related views still face the broader question of how to draw the normative boundaries of nature appreciation. Is any appreciation of a natural environment as acceptable, as appropriate, as any other? An affirmative answer yields a strongly relativist view: any response to nature is permissible, whether based on associations with myth, art, or merely on personal fancy, so long as it enhances one’s appreciation in some way (Heyd 2001; for a classic articulation, see Croce 1902 [1909/1922])[^croce-1902][^heyd-2001]. Among those rejecting the NEM, however, a simple relativism has not been a popular option (Maskit 2014)[^maskit-2014]. More common is an at least tacit appeal to some alternative set of normative constraints.
 
@@ -181,7 +181,7 @@ A final point of interest regarding the aesthetics of animals has been the multi
 
 Mention of animal appreciation in the context of aquaria and other sorts of quasi-scientific displays, such as museum dioramas, points toward a fifth theme: the possibility that environmental appreciation can occur through, or be mediated by, a representation (Semczyszyn 2013a, 2013b; see also Friday 1999)[^friday-1999][^semczyszyn-2013a]. This is an intuitive idea, given the popularity and influence of artistic genres such as wildlife painting, wildlife and nature photography, and nature film. However, in line with the widespread critique of the Picturesque, the “landscape model”, and other art-centric approaches in environmental aesthetics, the idea of mediated nature appreciation has found little support in the literature. Semczyszyn and Friday, however, argue that mediated appreciation is not only valid, but an important dimension of our appreciation of nature and the environment (see also Brady & Prior 2020)[^brady-2020].
 
-Recent writers have explored this general idea in relation to traditional media such as landscape painting (Paden 2015b; Matthes 2020)[^matthes-2020][^paden-2015b], as well as nature photography and film (Parsons 2022; Hanich 2024; for a interesting auditory example see Matthes 2018)[^hanich-2024][^matthes-2018][^parsons-2022][^parsons-2022-2]. The latter furnish examples of ways in which new technologies have radically expanded the possibilities for aesthetic engagement with the natural world by providing new ways of seeing (Lopes 2003)[^lopes-2003]. High speed and time lapse cinematography, for instance, allow for the perception of events that unfold too rapidly or too slowly for humans to witness in unmediated experience, such as the strike of a chameleon’s tongue or the recession of a glacier. A more recent form of such “generative mediation” is digital astrophotography, a technology that allows for the visualization of faint celestial objects such as nebulae (on the aesthetics of astrophotography see Chadwick 2017, 2019; Parsons 2023a; see also Kessler 2012)[^chadwick-2017][^chadwick-2019][^kessler-2012][^parsons-2023a].
+Recent writers have explored this general idea in relation to traditional media such as landscape painting (Paden 2015b; Matthes 2020)[^matthes-2020][^paden-2015b], as well as nature photography and film (Parsons 2022; Hanich 2023; for a interesting auditory example see Matthes 2018)[^matthes-2018][^parsons-2022][^parsons-2022-2]. The latter furnish examples of ways in which new technologies have radically expanded the possibilities for aesthetic engagement with the natural world by providing new ways of seeing (Lopes 2003)[^lopes-2003]. High speed and time lapse cinematography, for instance, allow for the perception of events that unfold too rapidly or too slowly for humans to witness in unmediated experience, such as the strike of a chameleon’s tongue or the recession of a glacier. A more recent form of such “generative mediation” is digital astrophotography, a technology that allows for the visualization of faint celestial objects such as nebulae (on the aesthetics of astrophotography see Chadwick 2017, 2019; Parsons 2023a; see also Kessler 2012)[^chadwick-2017][^chadwick-2019][^kessler-2012][^parsons-2023a].
 
 In addition to its intrinsic interest, the possibility of mediated appreciation relates to a wider debate, mentioned in section 2.1 above, regarding the role of art in the appreciation of nature and the environment. It also connects directly to debates about environmental protection, insofar as the ideal of “really experiencing” a location or animal (i.e., experiencing it in person, rather than through a photograph, painting, or film) is an important driver of tourist traffic that often generates environmental harm and, in some cases, can compromise the location itself (Parsons 2015b)[^parsons-2015b].
 
@@ -468,7 +468,7 @@ The new version of this entry published in 2024 was almost entirely rewritten by
 
 [^emmett-2017]: Emmett, Robert S. and David E. Nye, 2017, *The Environmental Humanities: A Critical Introduction*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/10629.001.0001
 
-[^erzen-2013]: Erzen, Jale and Raffaele Milani (eds), 2013, *Nature and the City: Beauty Is Taking on a New Form* (International Yearbook of Aesthetics 17), Sassari: Edizione EDES.
+[^erzen-2013]: Erzen, Jale and Raffaele Milani (eds), 2013, *Nature and the City: Beauty Is Taking on a New Form* (International Yearbook of Aesthetics 17), Sassari: Edzione Edes.
 
 [^firth-2008]: Firth, Dan, 2008, “The Role of Aesthetic Considerations in a Narrative Based Approach to Nature Conservation”, *Ethics & the Environment*, 13(2): 77–100. doi:10.2979/ETE.2008.13.2.77
 
@@ -498,7 +498,7 @@ The new version of this entry published in 2024 was almost entirely rewritten by
 
 [^gandolfo-2015]: Gandolfo, David I. and Sarah E. Worth, 2015, “Global Standpoint Aesthetics: Towards a Paradigm”, in Ribeiro 2015: 242–254 (ch. 17).
 
-[^gladden-obidzińska-2021]: Gladden-Obidzińska, Bogna J. (ed.), 2021, *Aesthetic Engagement and Sensibility: Reflections on Arnold Berleant’s Work*, special volume 9 of *Contemporary Aesthetics*. [[Gladden-Obidzińska 2021 available online](https://contempaesthetics.org/category/special-volumes/special-volume-9-2021/)].
+[^gladden-obidzińska-2021]: Gladden-Obidzińska, Bogna J. (ed.), 2021, *Aesthetic Engagement and Sensibility: Reflections on Arnold Berleant’s Work*, special issue of *Contemporary Aesthetics* special volume 9. [[Gladden-Obidzińska 2021 available online](https://contempaesthetics.org/category/special-volumes/special-volume-9-2021/)].
 
 [^gobster-1995]: Gobster, Paul H., 1995, “Aldo Leopold’s ‘Ecological Esthetic’: Integrating Esthetic and Biodiversity Values”, *Journal of Forestry*, 93(2): 6–10. doi:10.1093/jof/93.2.6
 
@@ -532,11 +532,11 @@ The new version of this entry published in 2024 was almost entirely rewritten by
 
 [^hanich-2024]: Hanich, Julian, 2024, “When the Wind Is Gently Rustling: Film and the Aesthetics of Natural Beauty”, *Film-Philosophy*, 28(2): 153–180. doi:10.3366/film.2024.0264
 
-[^hargrove-1979]: Hargrove, Eugene C., 1979, “The Historical Foundations of American Environmental Attitudes”, *Environmental Ethics*, 1(3): 209–240. doi:10.5840/enviroethics19791314
+[^hargrove-1979]: Hargrove, Eugene C., 1979, “The Historical Foundations of American Environmental Attitudes” *Environmental Ethics*, 1(3): 209–240. doi:10.5840/enviroethics19791314
 
 [^hargrove-1989]: –––, 1989, *Foundations of Environmental Ethics*, Englewood Cliffs, NJ: Prentice Hall.
 
-[^hepburn-1966]: Hepburn, Ronald W., 1966, “Contemporary Aesthetics and the Neglect of Natural Beauty”, in *British Analytical Philosophy* (International Library of Philosophy and Scientific Method), Bernard Williams and Alan Montefiore (eds), New York: Humanities Press, 285–310.
+[^hepburn-1966]: Hepburn, Ronald W., 1966, “Contemporary Aesthetics and the Neglect of Natural Beauty” (International Library of Philosophy and Scientific Method), in *British Analytical Philosophy*, Bernard Williams and Alan Montefiore (eds), New York: Humanities Press, 285–310.
 
 [^hepburn-1988]: –––, 1988, “The Concept of the Sublime: Has it any Relevance for Philosophy Today?”, *Dialectics and Humanism*, 15(1/2): 137–155.
 
@@ -548,7 +548,7 @@ The new version of this entry published in 2024 was almost entirely rewritten by
 
 [^herrington-2019]: Herrington, Susan and Dominic McIver Lopes, 2019, “Neo-Picturesque”, in Bicknell, Judkins, and Korsmeyer 2019: 133–146 (ch. 11).
 
-[^hettinger-2005]: Hettinger, Ned, 2005, “Allen Carlson’s Environmental Aesthetics and the Protection of the Environment”, *Environmental Ethics*, 27(1): 57–76. doi:10.5840/enviroethics200527141
+[^hettinger-2005]: Hettinger, Ned, 2005, “Allen Carlson’s Environmental Aesthetics and the Protection of the Environment:”, *Environmental Ethics*, 27(1): 57–76. doi:10.5840/enviroethics200527141
 
 [^hettinger-2008]: –––, 2008, “Objectivity in Environmental Aesthetics and Protection of the Environment”, in Carlson and Lintott 2008: 413–437 (ch. 24).
 
@@ -566,7 +566,7 @@ The new version of this entry published in 2024 was almost entirely rewritten by
 
 [^higgins-2017]: Higgins, Kathleen Marie, 2017, “Global Aesthetics-What Can We Do?: Global Aesthetics”, *The Journal of Aesthetics and Art Criticism*, 75(4): 339–349. doi:10.1111/jaac.12403
 
-[^hill-2008]: Hill, Dawn and Terry C. Daniel, 2008, “Foundations for an Ecological Aesthetic: Can Information Alter Landscape Preferences?”, *Society & Natural Resources*, 21(1): 34–49. doi:10.1080/08941920701655700
+[^hill-2007]: Hill, Dawn and Terry C. Daniel, 2007, “Foundations for an Ecological Aesthetic: Can Information Alter Landscape Preferences?”, *Society & Natural Resources*, 21(1): 34–49. doi:10.1080/08941920701655700
 
 [^hollis-2019]: Hollis, Dawn L, 2019, “Mountain Gloom and Mountain Glory: The Genealogy of an Idea”, *ISLE: Interdisciplinary Studies in Literature and Environment*, 26(4): 1038–1061. doi:10.1093/isle/isz044
 
@@ -630,7 +630,7 @@ The new version of this entry published in 2024 was almost entirely rewritten by
 
 [^liu-2014b]: –––, 2014b, “Introduction”, in Liu and Carter 2014a: vii–xvii.
 
-[^loftis-2003]: Loftis, J. Robert, 2003, “Three Problems for the Aesthetic Foundations of Environmental Ethics”, *Philosophy in the Contemporary World*, 10(2): 41–50. doi:10.5840/pcw200310218
+[^loftis-2003]: Loftis, J. Robert, 2003, “Three Problems for the Aesthetic Foundations of Environmental Ethics”:, *Philosophy in the Contemporary World*, 10(2): 41–50. doi:10.5840/pcw200310218
 
 [^lopes-2003]: Lopes, Dominic McIver, 2003, “The Aesthetics of Photographic Transparency”, *Mind*, 112(447): 433–448. doi:10.1093/mind/112.447.433
 
@@ -638,7 +638,7 @@ The new version of this entry published in 2024 was almost entirely rewritten by
 
 [^lopes-2020]: –––, 2020, “Desolation Sound: Social Practices of Natural Beauty”, *Thought: A Journal of Philosophy*, 9(4): 266–273. doi:10.1002/tht3.470
 
-[^lorenz-1950]: Lorenz, Konrad, 1950 [1971], “Ganzheit und Teil in der tierischen und menschlichen Gemeinschaft”, in *Studium Generale: Zeitschrift für die Einheit der Wissenschaften im Zusammenhang ihrer Begriffsbildungen und Forschungsmethoden*, Berlin/Heidelberg: Springer, 455–499. Translated as “Part and Parcel in Animal and Human Societies”, in his *Studies in Animal and Human Behaviour, Volume 2*, Robert Martin (trans.), Cambridge, MA: Harvard University Press, 1971, 115–195. doi:10.1007/978-3-662-38240-0_49 (German)
+[^lorenz-1950]: Lorenz, Konrad, 1950 [1971], “Ganzheit und Teil in der tierischen und menschlichen Gemeinschaft”, in *Studium Generale: Eitschrift für die Einheit der Wissenschaften im Zusammenhang ihrer Begriffsbildungen und Forschungsmethoden*, Berlin/Heidelberg: Springer, 455–499. Translated as “Part and Parcel in Animal and Human Societies”, in his *Studies in Animal and Human Behaviour, Volume 2*, Robert Martin (trans.), Cambridge, MA: Harvard University Press, 1971, 115–195. doi:10.1007/978-3-662-38240-0_49 (German)
 
 [^alvarez-2017]: Łukaszewicz Alvarez, Aleksandra (ed.), 2017, *Aesthetics between Art and Society: Perspectives of Arnold Berleant’s Postkantian Aesthetics of Engagement*, special issue of *ESPES: Journal of the Society of Aesthetics in Slovakia*, 6(2). [[Alvarez 2017 available online](https://espes.ff.unipo.sk/index.php/ESPES/issue/view/9)]
 
@@ -704,7 +704,7 @@ The new version of this entry published in 2024 was almost entirely rewritten by
 
 [^odin-2017]: Odin, Steve, 2017, “Whitehead’s Perspectivism as a Basis for Environmental Ethics and Aesthetics: A Process View on the Japanese Concept of Nature”, in Callicott and McRae 2017: 123–144 (ch. 7).
 
-[^orians-1986]: Orians, Gordon H., 1986, “An Ecological and Evolutionary Approach to Landscape Aesthetics”, in *Landscape Meanings and Values*, Edmund Penning-Rowsell and David Lowenthal (eds), London/Boston: Allen and Unwin, 3–25.
+[^orians-1986]: Orians, Gordon H., 1986, “An Ecological and Evolutionary Approach to Landscape Aesthetics”, in *Landscape Meanings and Values*, Edmund Penning-Rowsell and David Lowenthal (eds), London/Boston: Allen and Unwin, 3–25 (ch. ).
 
 [^orians-1992]: Orians, Gordon H. and Judith H. Heerwagen, 1992, “Evolved Responses to Landscapes”, in *The Adapted Mind: Evolutionary Psychology and the Generation of Culture*, Jerome H. Barkow, Leda Cosmides, and John Tooby (eds), New York: Oxford University Press, 555–580. doi:10.1093/oso/9780195060232.003.0016
 
@@ -798,7 +798,7 @@ The new version of this entry published in 2024 was almost entirely rewritten by
 
 [^runte-2022]: Runte, Alfred, 2022, *National Parks: The American Experience*, fifth edition, Lanham, MD: Lyons Press.
 
-[^ruskin-1846]: Ruskin, John, 1846, *Modern Painters*, Volume 2, London: Smith, Elder & Co.
+[^ruskin-1846]: Ruskin, John, 1846, *Modern Painters*, Volume 2, London: Smith, Elder&Co.
 
 [^russow-1981]: Russow, Lilly-Marlene, 1981, “Why Do Species Matter?”, *Environmental Ethics*, 3(2): 101–112. doi:10.5840/enviroethics19813248
 
@@ -892,7 +892,7 @@ The new version of this entry published in 2024 was almost entirely rewritten by
 
 [^stecker-1997]: Stecker, Robert, 1997, “The Correct and the Appropriate in the Appreciation of Nature”, *The British Journal of Aesthetics*, 37(4): 393–402. doi:10.1093/bjaesthetics/37.4.393
 
-[^stecker-1999]: –––, 1999, “Reflections on Architecture: Buildings as Environments, as Aesthetic Objects and as Artworks”, in *Architecture and Civilization*, Michael H. Mitias (ed.), Amsterdam; Atlanta, GA: Rodopi, 81–94 (ch. 5).
+[^stecker-1999]: –––, 1999, “Reflections on Architecture: Buildings as Environments, as Aesthetic Objects and as Artworks”, in *Architecture and Civilization*, Michael H. Mitias (ed.), Amsterdam ; Atlanta, GA: Rodopi, 81–94 (ch. 5).
 
 [^stecker-2012]: –––, 2012, “Epistemic Norms, Moral Norms, and Nature Appreciation”, *Environmental Ethics*, 34(3): 247–264. doi:10.5840/enviroethics201234321
 
@@ -950,7 +950,7 @@ The new version of this entry published in 2024 was almost entirely rewritten by
 
 [^zangwill-2005a]: –––, 2005a, “In Defence of Extreme Formalism about Inorganic Nature: Reply to Parsons”, *The British Journal of Aesthetics*, 45(2): 185–191. doi:10.1093/aesthj/ayi020
 
-[^zangwill-2005b]: –––, 2005b, “Rocks and Sunsets: A Defence of Ignorant Pleasures”, *Revista di Estetica*, 29: 53–60.
+[^zangwill-2005b]: –––, 2005b, “Rocks and Sunsets: A Defence of Ignorant Pleasures”, *Revista di Estetica,* 29: 53–60.
 
 [^zangwill-2013]: –––, 2013, “Clouds of Illusion in the Aesthetics of Nature”, *The Philosophical Quarterly*, 63(252): 576–596. doi:10.1111/1467-9213.12050
 

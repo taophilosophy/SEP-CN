@@ -224,7 +224,8 @@ def _term_gate(zh_doc):
 def _source_gate(slug):
     """s0_source_checked 校次门禁挂钩（ADR-0052）：en_integrity（包完整性）
     ＋en_source_audit（HTML 本体内容审计，离线档）硬错误拦；告警留 evidence
-    逐条定性（机检不作裁判，ADR-0038 四类处置）。en/ 包缺失即拦（零信任前置）。"""
+    逐条定性（机检不作裁判，按 ADR-0062 两路：文字层→全局勘误表＋中文译注，
+    格式层→baseline/en-patches.json 补丁池）。en/ 包缺失即拦（零信任前置）。"""
     tools_dir = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
                               "tools")
     for script, label in (("en_integrity.py", "en 包完整性"),

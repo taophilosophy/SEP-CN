@@ -139,9 +139,9 @@ Duns Scotus, John | Gregory of Rimini | Ockham [Occam], William | relations: med
 
 [^bolyard-2000]: Bolyard, C., 2000, ‘Knowing *naturaliter*: Auriol’s propositional foundations’, *Vivarium*, 38(1): 162–76.
 
-[^bolyard-2021]: –––, 2021, ‘Medieval Skepticism’, in *The Stanford Encyclopedia of Philosophy*, Spring 2021 Edition, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2021/entries/skepticism-medieval/](https://plato.stanford.edu/archives/fall2008/entries/relations-medieval/)>
+[^bolyard-2021]: –––, 2021, ‘Medieval Skepticism’, in *The Stanford Encyclopedia Philosophy*, Spring 2021 Edition, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2021/entries/skepticism-medieval/](https://plato.stanford.edu/archives/fall2008/entries/relations-medieval/)>
 
-[^brower-2018]: Brower, J. E., 2018, ‘Medieval Theories of Relations’, in *The Stanford Encyclopedia of Philosophy*, Winter 2018 Edition, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2018/entries/relations-medieval/](https://plato.stanford.edu/archives/fall2008/entries/relations-medieval/)>
+[^brower-2018]: Brower, J. E., 2018, ‘Medieval Theories of Relations’, in *The Stanford Encyclopedia Philosophy*, Winter 2018 Edition, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2018/entries/relations-medieval/](https://plato.stanford.edu/archives/fall2008/entries/relations-medieval/)>
 
 [^brown-1964]: Brown, S. F., 1964, ‘The Unity of the Concept of Being in Peter Aureoli’s Scriptum and Commentarium’, Ph.D. dissertation, Université Catholique de Louvain.
 
@@ -171,7 +171,7 @@ Duns Scotus, John | Gregory of Rimini | Ockham [Occam], William | relations: med
 
 [^friedman-1997]: Friedman, R. L., 1997, ‘Conceiving and Modifying Reality: Some Modist Roots of Peter Auriol’s Theory of Concept Formation’, in C. Marmo (ed.), *Vestigia, Imagines, Verba*, Turnhout: Brepols, 305–21.
 
-[^friedman-1999]: –––, 1999, ‘Peter Auriol on Intentions and Essential Predication’, in S. Ebbesen and R. L. Friedman (eds.), *Medieval Analyses in Language and Cognition*, Copenhagen: C.A. Reitzel (commissioned by Royal Danish Academy of Sciences and Letters), 415–430.
+[^friedman-1999]: –––, 1999, ‘Peter Auriol on Intentions and Essential Predication’, in S. Ebbesen and R. L. Friedman (eds.), *Medieval Analyses in Language and Cognition*, Copenhagen: C.A. Rietzel (commissioned by Royal Danish Academy of Sciences and Letters), 415–430.
 
 [^friedman-2000]: –––, 2000, ‘Peter Auriol on Intellectual Cognition of Singulars’, *Vivarium*, 38(1): 177–193.
 
@@ -183,7 +183,7 @@ Duns Scotus, John | Gregory of Rimini | Ockham [Occam], William | relations: med
 
 [^grassi-2018]: –––, 2018, ‘Giovanni Capreolo interprete di Pietro Aureoli’, in L. Bianchi, O. Grassi, C. Panti, *Edizioni, traduzioni, e tradizioni (secoli XII–XVI): studi per Pietro B. Rossi* (Volume 1), Rome: Flumen Sapientiae, pp. 199–214.
 
-[^goris-2002]: Goris, W., 2002, ‘Implicit Knowledge – Being as First Known in Peter of Auriol’, *Recherches de théologie et philosophie médiévales*, 69(1): 33–65.
+[^goris-2002]: Goris, W., 2002, ‘Implicit Knowledge – Being as First Known in Peter of Oriel’, *Recherches de théologie et philosophie médiévales*, 69(1): 33–65.
 
 [^halverson-1998]: Halverson, J. L., 1998, *Peter Aureol on Predestination. A Challenge to Late Medieval Thought*, Leiden: Brill.
 
@@ -195,7 +195,7 @@ Duns Scotus, John | Gregory of Rimini | Ockham [Occam], William | relations: med
 
 [^lička-2016]: Lička, L., 2016, ‘Perception and Objective Being: Peter Auriol on Perceptual Acts and their Objects’, *American Catholic Philosophical Quarterly*, 90(2): 49–76.
 
-[^martin-2026]: Martin, A., 2026, ‘Peter Auriol on Intellectual Memory and Cognition: From the Inner Sense to the Intellect and Back’, *Topoi*, first online 23 January 2026. doi:10.1007/s11245-025-10308-y
+[^martin-2026]: Martin, A., 2026, ‘Peter Auriol on Intellectual Memory and Cognition: From the Inner Sense to the Intellect and Back’, *Topoi*, first online 23 January 2026. doi.org:10.1007/s11245-025-10308-y
 
 [^moaté-2024a]: Moaté, L., 2024a, ‘Concept et langage chez Pierre d’Auriol: le problème de la relation entre nature et suppôt dans le *Commentaire des Sentences*’, *Freiburger Zeitschrift für Philosophie und Theologie*, 24(2): 437–57.
 
@@ -217,7 +217,7 @@ Duns Scotus, John | Gregory of Rimini | Ockham [Occam], William | relations: med
 
 [^pasnau-2002]: –––, 2002, *The Cambridge Translations of Medieval Philosophical Texts*, (Volume 3: *Mind and Knowledge*), Cambridge: Cambridge University Press.
 
-[^pasnau-2008]: –––, 2008, ‘Id Quo Cognoscimus’, in S. Knuuttila and P. Kärkkäinen (eds.), *Theories of Perception in Medieval and Early Modern Philosophy*, Dordrecht: Springer Science.
+[^pasnau-2008]: –––, 2008, ‘Id Quo Cognoscimus’, in S. Knuuttila and P. Kärkkäin (eds.), *Theories of Perception in Medieval and Early Modern Philosophy*, Dordrecht: Springer Science.
 
 [^pasnau-2011]: –––, 2011, *Metaphysical Themes 1274–1671*, Oxford: Oxford University Press.
 

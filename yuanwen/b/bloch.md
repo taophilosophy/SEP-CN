@@ -326,7 +326,7 @@ Benjamin, Walter | Lukács, Georg [György]
 
 [^jameson-1971]: Jameson, Fredric, 1971, *Marxism and Form: Twentieth Century Dialectical Theories of Literature*, Princeton, NJ: Princeton University Press.
 
-[^jay-1984]: Jay, Martin, 1984, *Marxism and Totality: The Adventures of a Concept from Lukács to Habermas*, Berkeley, CA: University of California Press.
+[^jay-1984]: Jay, Martin, 1984, *Marxism and Totality: The Adventures of a Concept from Lukács to Habermas*, Berkeley, LA: University of California Press.
 
 [^kosnoski-2011]: Kosnoski, Jason, 2011, “Specter and Spirit: Ernst Bloch, Jacques Derrida, and the Work of Utopia”, *Rethinking Marxism*, 23(4): 507–523. doi:10.1080/08935696.2011.605282
 
@@ -340,7 +340,7 @@ Benjamin, Walter | Lukács, Georg [György]
 
 [^levitas-2013]: –––, 2013, “Singing Summons the Existence of the Fountain: Bloch, Music, and Utopia” in Thompson and Žižek 2013: 219–45
 
-[^löwy-1988]: Löwy, Michael, 1988 [1992], *Rédemption et utopie: le judaïsme libertaire en Europe Centrale: une étude d’affinité élective*, (Sociologie d’aujourd’hui), Paris: Presses universitaires de France. Translated as *Redemption and Utopia: Jewish Libertarian Thought in Central Europe: A Study in Elective Affinity*, Hope Heaney (trans.), London: Athlone, 1992.
+[^löwy-1988]: Löwy, Michael, 1988 [1992], *Rédemption et utopie: le judaïsme libertaire en Europe Centrale: une étude d’affinité élective*, (Sociologie d’aujourd’hui), Paris: Presses universitaies de France. Translated as *Redemption and Utopia: Jewish Libertarian Thought in Central Europe: A Study in Elective Affinity*, Hope Heaney (trans.), London: Athlone, 1992.
 
 [^lyotard-1976]: Lyotard, Jean-François, 1976, “Puissance de Traces, ou contribution de Bloch à une histoire païenne”, in Raulet 1976: 57–67.
 

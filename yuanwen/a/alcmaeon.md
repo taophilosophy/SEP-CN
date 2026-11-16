@@ -147,7 +147,7 @@ Anaximander | Anaximenes | Aristotle | Empedocles | Philolaus | Plato | Pythagor
 
 [^wachtler-1896]: Wachtler, J., 1896, *De Alcmaeone Crotoniata*, Leipzig: Teubner. (The only full-scale commentary devoted to Alcmaeon. Greek texts of the fragments and testimonia with commentary in Latin.)
 
-[^wöhrle-2022]: Wöhrle, G. (ed.), 2022, *Alkmaion von Kroton, Hippon von Metapont und Menestor von Sybaris*, Berlin/Boston: De Gruyter. (The most complete collection of the evidence for Alcmaeon including the Arabic tradition.)
+[^wöhrle-2022]: Wöhrle, G. (ed.), 2022, *Alkmaion von Kroton, Hippon von Metapont und Menestor von Sybaris*, Berlin/Boston: De Gruyter. (The most complete collection of the evidence for Alcmaeon including the Arabic tradtion.)
 
 [^barnes-1982]: Barnes, Jonathan, 1982, *The Presocratic Philosophers*, London: Routledge.
 
@@ -209,7 +209,7 @@ Anaximander | Anaximenes | Aristotle | Empedocles | Philolaus | Plato | Pythagor
 
 [^laks-2018]: Laks, A., 2018, ‘How Preplatonic Worlds Became Ensouled’, *Oxford Studies in Ancient Philosophy*, 55: 1–34.
 
-[^lanza-1965]: Lanza, D., 1965, ‘Un nuovo frammento di Alcmeone’, *Maia*, 17: 278–80.
+[^lanza-1965]: Lanza, D., 1965, ‘Un nuovo frammento die Alcmeone’, *Maia*, 17: 278–80.
 
 [^lebedev-1993]: Lebedev, Andrei, 1993, ‘Alcmaeon on plants: a new fragment in Nicolaus Damascenus’, *La parola del passato*, 48: 456–60.
 
@@ -261,7 +261,7 @@ Anaximander | Anaximenes | Aristotle | Empedocles | Philolaus | Plato | Pythagor
 
 [^solmsen-1961]: Solmsen, F., 1961, ‘Greek Philosophy and the Discovery of Nerves’, *Museum Helveticum*, 18: 150–97.
 
-[^stella-1939]: Stella, L. A., 1939, ‘Importanza di Alcmeone nella storia del pensiero greco’, *Memorie della Reale Accademia Nazionale dei Lincei*, s. 6, 8(4): 233–87.
+[^stella-1939]: Stella, L. A., 1939, ‘Importanza di Alcmeone nella storia del pensiero greco’, *Memorie della Reale Accademia Nazionnale dei Lincei*, s. 6, 8(4): 233–87.
 
 [^stratton-1917]: Stratton, G. M., 1917, *Theophrastus and the Greek Physiological Psychology before Aristotle*, London: George Allen & Unwin.
 

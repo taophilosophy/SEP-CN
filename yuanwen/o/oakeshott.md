@@ -35,7 +35,7 @@ What Oakeshott calls “Rationalism” is the belief, in his view illusory, that
 
 Political deliberation occurs when a public decision needs to be made and a proposed course of action defended. But deciding which course of action to pursue involves more than simply applying rules or calculating costs and benefits. It requires interpretation and judgment. We must decide which rule to use and then interpret what the rule means in a given situation. If, alternatively, we choose an action based on its likely consequences, we must assess the expected value of those consequences, and this involves making value judgments as well as estimating probabilities. Whether we are applying rules or calculating outcomes, we must work with what we presume to be facts, though these are always uncertain in various ways. For these reasons, there is never a demonstrably correct course of action. Political arguments cannot be proved or disproved; they can only be shown to be more or less convincing than other such arguments. Political discourse, then, is a discourse of contingencies and conjectures, not of certainties or context-independent truths. It is persuasive and rhetorical, not a matter of demonstration or proof (*RP* 70–95).
 
-These are familiar points, made by Oakeshott with particular clarity. What he adds to other philosophical discussions of practical reasoning, such as Aristotle’s treatment of *techne* and *phronēsis* (*Nicomachean Ethics* 1142a) or Kant’s remarks on judgment as the middle term between rules and applications (Kant 1793: 8:275)[^kant-1793], are reflections on how practical, and in particular political, discourse can cause disasters when these points are overlooked. His conclusions rest on a dissection of ideological politics, which, Oakeshott thought, reflects a characteristically modern disposition to substitute rules for judgment in practical reasoning. The rules that are thought to govern practice are not independent of practical activity but abstracted from it. They are “abridgments” of customs, habits, traditions, and skills (*RP* 121). To borrow language from Michael Walzer, they are interpretations rather than discoveries or inventions (Walzer 1987)[^walzer-1987]. And what they interpret are ways of doing things:
+These are familiar points, made by Oakeshott with particular clarity. What he adds to other philosophical discussions of practical reasoning, such as Aristotle’s treatment of *techne* and *phronēsis* (*Nichomachean Ethics* 1142a) or Kant’s remarks on judgment as the middle term between rules and applications (Kant 1793: 8:275)[^kant-1793], are reflections on how practical, and in particular political, discourse can cause disasters when these points are overlooked. His conclusions rest on a dissection of ideological politics, which, Oakeshott thought, reflects a characteristically modern disposition to substitute rules for judgment in practical reasoning. The rules that are thought to govern practice are not independent of practical activity but abstracted from it. They are “abridgments” of customs, habits, traditions, and skills (*RP* 121). To borrow language from Michael Walzer, they are interpretations rather than discoveries or inventions (Walzer 1987)[^walzer-1987]. And what they interpret are ways of doing things:
 
 > the pedigree of every political ideology shows it to be the creature, not of premeditation in advance of political activity, but of meditation upon a manner of politics. (*RP* 51)
 
@@ -171,7 +171,7 @@ categories | history, philosophy of | idealism | nature of law | practical reaso
 
 [^ankersmit-1983]: Ankersmit, F., 1983, *Narrative Logic: A Semantic Analysis of the Historian’s Language*, The Hague: Nijhoff.
 
-[^aristotle-1980]: Aristotle, 4ᵗʰ Century BCE, *The Nicomachean Ethics*, D. Ross (trans.), Oxford: Oxford University Press, 1980.
+[^aristotle-1980]: Aristotle, 4ᵗʰ Century BCE, *The Nichomachean Ethics*, D. Ross (trans.), Oxford: Oxford University Press, 1980.
 
 [^backhurst-2016]: Backhurst, D. and P. Fairfield (eds.), 2016, *Education and Conversation: Exploring Oakeshott’s Legacy*, London: Bloomsbury.
 
@@ -207,7 +207,7 @@ categories | history, philosophy of | idealism | nature of law | practical reaso
 
 [^grant-1990]: Grant, R., 1990, *Oakeshott*, London: Claridge Press.
 
-[^grant-2012]: –––, 2012, “The Pursuit of Intimacy, or Rationalism in Love”, in Franco and Marsh 2012: 15–44.
+[^grant-2012]: –––, 2012, “The Pursuit of Intimacy, or Rationalism in Love”, in Franco and Marsh 2012: 15–44
 
 [^haddock-2005]: Haddock, B., 2005, “Contingency and Judgement in Oakeshott’s Political Thought”, *European Journal of Political Theory*, 4(1): 7–21.
 

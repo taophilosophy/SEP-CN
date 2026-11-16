@@ -236,7 +236,7 @@ I would like to thank the Knut and Alice Wallenberg Foundation (Sweden) for thei
 
 [^longeway-1977]: Longeway, John Lee, 1977, “Simon of Faversham’s Questions on the *Posterior Analytics*: A Thirteenth-Century View of Science”, Ph.D. dissertation, Cornell University. [*Dissertation Abstracts International*, 38(7): 4211–A.]
 
-[^ottaviano-1930]: Ottaviano, Carmelo, 1930, “Le *Quaestiones super libro Praedicamentorum* di Simone di Faversham”, *Atti della Reale Accademia Nazionale dei Lincei*, serie 6, Memorie della Classe di Scienze Morali, Storiche e Filologiche, 3: 257–351.
+[^ottaviano-1930]: Ottaviano, Carmelo, 1930, “Le *Quaestiones super libro Praedicamentorum* di Simone di Faversham”, *Atti della Reale Accademia Nazionale die Lincei*, serie 6, Memorie della Classe di Scienze Morali, Storiche e Filologiche, 3: 257–351.
 
 [^simon-1957]: Simon of Faversham, [SF-OL] 1957, *Magistri Simonis Anglici sive de Faverisham Opera Omnia*. Vol. 1: *Opera logica*, (1) *Quaestiones super libro Porphyrii* (2) *Quaestiones super libro Praedicamentorum* (3) *Quaestiones super libro Perihermeneias* edited by Pasquale Mazarella, Pubblicazioni dell’Instituto universitario di magistero di Catania, serie filosofica, testi critici, 1, Padua: Cedam.
 
@@ -254,7 +254,7 @@ I would like to thank the Knut and Alice Wallenberg Foundation (Sweden) for thei
 
 [^donati-1991]: Donati, Silvia, 1991, “Per lo studio dei commenti alla Fisica del XIII secolo. I: Commenti di probabile origine inglese degli anni 1250–1270 ca.”, *Documenti e Studi sulla tradizione filosofica medievale*, 2(2): 361–441.
 
-[^donati-2003]: –––, 2003, “La discussione sull’unità del concetto di ente nella tradizione di commento della ‘Fisica’: commenti parigini degli anni 1270–1315”, in *Die Logik des Transzendentalen. Festschrift für Jan A. Aertsen zum 65. Geburtstag*, Berlin/NY, 60–139.
+[^donati-2003]: –––, 2003, “La discussione sull’unità del concetto di ente nella tradizione di commento della ‘Fisica’: commenti parigini degli anni 1270–1315”, in *Die Logik des Transzendentalen. Festschrift für Jan A. Aertsen zum 65*, Berlin/NY: Geburtstag, 60–139.
 
 [^ebbesen-1977]: Ebbesen, Sten, 1977, “Can Equivocation be Eliminated?”, *Studia Mediewistyczne*, 18: 103–24.
 
@@ -262,7 +262,7 @@ I would like to thank the Knut and Alice Wallenberg Foundation (Sweden) for thei
 
 [^ebbesen-1980b]: –––, 1980b, “Is ‘*Canis currit*’ Ungrammatical? Grammar in *Elenchi* Commentaries”, *Historiographia Linguistica*, 7: 53–68. doi:10.1075/hl.7.1-2.06ebb
 
-[^ebbesen-1986]: –––, 1986, “Termini accidentales concreti. Texts from the Late 13th Century”, *CIMAGL*, 53: 139–49. <[available online](http://cimagl.saxo.ku.dk/download/53/53Ebbesen37-150.pdf)>
+[^ebbesen-1986]: –––, 1986, “Termini accidentales concreti. Texts from the Late 13ᵗʰ Century”, *CIMAGL*, 53: 139–49. <[available online](http://cimagl.saxo.ku.dk/download/53/53Ebbesen37-150.pdf)>
 
 [^ebbesen-1987]: –––, 1987, “Talking about what is no more. Texts by Peter of Cornwall(?), Richard of Clive, Simon of Faversham and Radulphus Brito”, *CIMAGL*, 55: 158–60. <[available online](http://cimagl.saxo.ku.dk/download/55/55Ebbesen135-168.pdf)>
 
@@ -292,7 +292,7 @@ I would like to thank the Knut and Alice Wallenberg Foundation (Sweden) for thei
 
 [^marmo-1994]: –––, 1994, *Semiotica e linguaggio nella Scolastica: Parigi, Bologna, Erfurt 1270–1330. La semiotica dei modisti*, Rome: Istituto Storico Italiano per il Medioevo.
 
-[^marmo-1995]: –––, 1995, “A Pragmatic Approach to Language in Modism”, in Sten Ebbesen (ed.), *Sprachtheorien in Spätantike und Mittelalter*, vol. 3 of P. Schmitter (ed.), *Geschichte der Sprachtheorie*, Tübingen: Gunter Narr Verlag, 169–83.
+[^marmo-1995]: –––, 1995, “A Pragmatic Approach to Language in Modism”, in Sten Ebbesen (ed.), *Sprachteorien in Spätantiken un Mittelalter*, vol. 3 of P. Schmitter (ed.), *Geschichte der Sprachteorie*, Tübingen: Gunter Narr Verlag, 169–83.
 
 [^marmo-1999]: –––, 1999, “The Semantics of the Modistae”, in Sten Ebbesen and Russell L. Friedman (eds), *Medieval Analyses in Language and Cognition*, Copenhagen: The Royal Danish Academy of Sciences and Letters, 83–104.
 
@@ -314,11 +314,11 @@ I would like to thank the Knut and Alice Wallenberg Foundation (Sweden) for thei
 
 [^ottaviano-1931]: Ottaviano, Carmelo, 1931, “Le opere di Simone di Faversham e la sua posizione nel problem degli universali”, *Archivio di Filosofia*, 1: 15–29.
 
-[^pattin-1955]: Pattin, A., 1955, *De verhouding tussen zijn en wezenheid en de transcendentale relatie in de 2ᵉ helft der xiiiᵉ eeuw*. Verhandelingen van de Koninklijke Vlaamse Academie voor Wetenschappen, Letteren en Schone Kunsten van België Klasse der Letteren, Verhandeling nr. 21. Brussels: Paleis der Academiën.
+[^pattin-1955]: Pattin, A., 1955, *De verhouding tussen zijn en wezenheid en de transcendentale relatie in de 2ᵉ helft der xiiiᵉ* *eeuw*. Verhandelingen van de Koninklijke Vlaamse Academie voor Wetenschappen, Letteren en Schone Kunsten van België; Klasse der Letteren, Verhandeling nr. 21. Brussels: Paleis der Academiën.
 
 [^pickavé-2008]: Pickavé, Martin, 2008, “Simon of Faversham on Aristotle’s *Categories* and the *scientia praedicamentorum*”, in *Medieval Commentaries on Aristotle’s Categories*, L.A. Newton (ed.), Leiden/Boston: Brill, 183–220.
 
-[^pinborg-1967]: Pinborg, Jan, 1967, *Die Entwicklung der Sprachtheorie im Mittelalter*, Münster: Aschendorff.
+[^pinborg-1967]: Pinborg, Jan, 1967, *Die Entwicklung der Sprachtheorie im Mittelalter*, Münster, Aschendorff.
 
 [^pinborg-1971a]: –––, 1971a, “Bezeichnung in der Logik des XIII. Jahrhunderts”, in Albert Zimmermann (ed.), *Albert der Grosse. Seine Zeit, sein Werk, seine Wirkung*, Berlin–New York: De Gruyter, 238–81.
 
@@ -338,9 +338,9 @@ I would like to thank the Knut and Alice Wallenberg Foundation (Sweden) for thei
 
 [^tiné-1990]: –––, 1990, “Simone di Faversham e le scienze”, in *Knowledge and the Sciences in Medieval Philosophy. Proceedings of the Eighth International Congress of Medieval Philosophy (SIEPM)*, edited by Monika Asztalos, John E. Murdoch, and Ilkka Niiniluoto, *Acta Philosophica Fennica*, 48 (2): 638–44.
 
-[^tiné-1996]: –––, 1996, “Simon of Faversham: Proemi alla logica”, in *Aristotle in Britain during the Middle Ages. Proceedings of the SIEPM, April 1994*, edited by John Marenbon, Turnhout: Brepols, 211–31.
+[^tiné-1996]: –––, 1996, “Simon of Faversham: Proemi alla logica”, in *Aristotle in Britain during the Middle Ages*. *Proceedings of the SIEPM, April 1994*, edited by John Marenbon, Turnhout: Brepols, 211–31.
 
-[^vennebusch-1963]: Vennebusch, Joachim, 1963, *Ein anonymer Aristoteleskommentar des xiii. Jahrhunderts: Quaestiones in tres libros de Anima* (Admont: Stiftsbibliothek, cod. lat. 367). Paderborn: F. Schöningh.
+[^vennebusch-1963]: Vennebusch, Joachim, 1963, *Ein anonymer Aristoteleskommentar des xiii.* *Jahrhunderts: Quaestiones in tres libros de Anima* (Admont: Stiftsbibliothek, cod. lat. 367). Paderborn: F. Schöningh.
 
 [^vennebusch-1965]: –––, 1965. “Die *Quaestiones in tres libros De anima* des Simon von Faversham”, *Archiv für Geschichte der Philosophie*, 47: 20–39.
 

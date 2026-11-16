@@ -232,9 +232,9 @@ aesthetic, concept of the | aesthetics: aesthetic judgment | aesthetics: French,
 
 [^home-1762]: Home, H. (Lord Kames), 1762 [2005], *The Elements of Criticism*, 2 vols, P. Jones (ed.), Indianapolis: Liberty Fund.
 
-[^hume-1739]: Hume, D., 1739–40 [1987], *A Treatise of Human Nature*, 2ⁿᵈ ed., L. A. Selby-Bigge (ed.), Oxford: Clarendon Press.
+[^hume-1739]: Hume, D., 1739–40 [1987], *A Treatise of Human Nature*, 2ⁿᵈ ed., L. A. Shelby-Bigge (ed.), Oxford: Clarendon Press.
 
-[^hume-1751]: –––, 1751 [1986], *An Enquiry Concerning the Principles of Morals*, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, 3ʳᵈ ed., L. A. Selby-Bigge (ed.), Oxford: Clarendon Press.
+[^hume-1751]: –––, 1751 [1986], *An Enquiry Concerning the Principles of Morals*, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, 3ʳᵈ ed., L. A. Shelby-Bigge (ed.), Oxford: Clarendon Press.
 
 [^hume-1757]: –––, 1757 [1987], “Of the Standard of Taste,” in *Essays Moral, Political, and Literary*, ed. E. Miller, Indianapolis: Liberty Fund.
 

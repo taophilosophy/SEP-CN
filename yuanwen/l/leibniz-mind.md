@@ -25,7 +25,7 @@ In other writings, Leibniz suggests exactly what characteristic it is of percept
 
 Leibniz’s point is that whatever is the subject of perception and consciousness must be truly one, a single “I” properly regarded as *one* conscious being. An aggregate of matter is not truly one and so cannot be regarded as a single *I* capable of being the subject of a unified mental life. This interpretation fits nicely with Lebniz’s oft-repeated definition of perception as “the representation in the simple of the compound, or of that which is outside” (*Principles of Nature and Grace,* sec.2 (1714)). More explicitly, in a letter to Antoine Arnauld of 9 October 1687, Leibniz wrote that “in natural perception and sensation, it is enough for what is divisible and material and dispersed into many entities to be expressed or represented in a single indivisible entity or in a substance which is endowed with genuine unity.” If perception (and hence, consciousness) essentially involves a representation of a variety of content in a simple, indivisible “I,” then we may construct Leibniz’s argument against materialism as follows: Materialism holds that matter can explain (is identical with, can give rise to) perception. A perception is a state whereby a variety of content is represented in a true unity. Thus, whatever is not a true unity cannot give rise to perception. Whatever is divisible is not a true unity. Matter is infinitely divisible. Hence, matter cannot form a true unity. Hence, matter cannot explain (be identical with, give rise to) perception. If matter cannot explain (be identical to, give rise to) perception, then materialism is false. Hence, materialism is false.
 
-Leibniz rejected materialism on the grounds that it could not, in principle, ever capture the “true unity” of perceptual consciousness, that characteristic of the self which can simultaneously unify a manifoldness of perceptual content. If this is Leibniz’s argument, it is of some historical interest that it bears striking resemblances to contemporary objections to certain materialist theories of mind. Many contemporary philosophers have objected to some versions of materialism on the basis of thought experiments similar to Leibniz’s, experiments designed to show that qualia and consciousness are bound to elude certain materialist conceptions of the mind (cf. Searle 1980; Nagel 1974; McGinn 1989; Jackson 1982)[^jackson-1982][^mcginn-1989][^nagel-1974][^searle-1980]. It is also of historical interest that Leibniz coupled his rejection of materialism with a version of naturalism (or what *he* would have regarded as naturalism - see Jorgensen 2019)[^jorgensen-2019].
+Leibniz rejected materialism on the grounds that it could not, in principle, ever capture the “true unity” of perceptual consciousness, that characteristic of the self which can simultaneously unify a manifoldness of perceptual content. If this is Leibniz’s argument, it is of some historical interest that it bears striking resemblances to contemporary objections to certain materialist theories of mind. Many contemporary philosophers have objected to some versions of materialism on the basis of thought experiments similar to Leibniz’s, experiments designed to show that qualia and consciousness are bound to elude certain materialist conceptions of the mind (cf. Searle 1980; Nagel 1974; McGinn 1989; Jackson 1982)[^jackson-1982][^mcginn-1989][^nagel-1974]. It is also of historical interest that Leibniz coupled his rejection of materialism with a version of naturalism (or what *he* would have regarded as naturalism - see Jorgensen 2019)[^jorgensen-2019].
 
 Leibniz’s rejection of materialist conceptions of the mind was coupled with a strong opposition to dualistic views concerning the relationship between mind and body, particularly the substance dualism that figured in the philosophy of Descartes and his followers. According to this dualism, the world fundamentally consists of two disparate substances: extended material substance (body) and unextended thinking substance (mind). This bifurcation, of course, carries no burden of holding that the operations of the mental are realized by the operations of the physical. But despite his claim that consciousness and perception cannot be realized by, nor reduced to, the mechanical operations of matter, Leibniz found the alternative of postulating two distinct kinds of substance equally implausible.
 
@@ -194,11 +194,11 @@ The editors would like to thank Sally Ferguson for noting and informing us about
 
 [^mcginn-1989]: McGinn, C., 1989. “Can We Solve the Mind-Body Problem,” *Mind*, 98: 346–366.
 
-[^mcrae-1976]: McRae, R., 1976. *Leibniz: Perception, Apperception, and Thought*, Toronto: Toronto University Press.
+[^mcrae-1976]: McRae, R., 1976. *Leibniz: Perception, Apperception, and Thought*, Toronto: Toronto University Press..
 
 [^nagel-1974]: Nagel, T., 1974. “What is it Like to be a Bat?” *Philosophical Review*, 83: 435–450.
 
-[^o’neill-1993]: O’Neill, E., 1993. “Influxus Physicus,” *Causation in Early Modern Philosophy*, S. Nadler (ed.), University Park: Pennsylvania State University Press.
+[^o’neill-1993]: O’Neill, E., 1993. “Influxus Physicus,”*Causation in Early Modern Philosophy*, S. Nadler (ed.), University Park: Pennsylvania State University Press.
 
 [^pratt-1987]: Pratt, V., 1987. *Thinking Machines: The Evolution of Artificial Intelligence*, Oxford: Basil Blackwell.
 
@@ -208,7 +208,7 @@ The editors would like to thank Sally Ferguson for noting and informing us about
 
 [^seager-1991]: Seager, W., 1991. “The Worm in the Cheese: Leibniz, Consciousness, and Matter,” *Studia Leibnitiana*, 23: 79–91.
 
-[^searle-1980]: Searle, J., 1980. “Minds, Brains, and Programs,” *Behavioral and Brain Sciences*, 3: 417–457.
+[^searle-1990]: Searle, J., 1990. “Minds, Brains, and Programs,” *Behavioral and Brain Sciences*, 3: 417–457.
 
 [^simmons-2001]: Simmons, A., 2001. “Changing the Cartesian Mind: Leibniz on Sensation, Representation, and Consciousness,” *Philosophical Review*, 110: 31–75.
 

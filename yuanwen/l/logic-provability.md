@@ -99,23 +99,23 @@ To give some more perspective on complexity, the class P of functions computable
 
 ### 3.3 Failure of strong completeness
 
-Many well-known modal logics $S$ are not only complete with respect to an appropriate class of frames, but even *strongly complete*. In order to explain strong completeness, we need the notion of *derivability from a set of assumptions*. A formula $A$ is derivable from the set of assumptions $\Gamma$ in a modal logic $S$, written as $\Gamma \vdash A$, if $A$ is in $\Gamma$ or $A$ follows from formulas in $\Gamma$ and axioms of $S$ by applications of Modus Ponens and the Generalization Rule. Here, the Generalization Rule can only be applied to derivations without assumptions (see Hakli and Negri 2010).
+Many well-known modal logics $S$ are not only complete with respect to an appropriate class of frames, but even *strongly complete*. In order to explain strong completeness, we need the notion of *derivability from a set of assumptions*. A formula $A$ is derivable from the set of assumptions *Γ* in a modal logic $S$, written as $\Gamma \vdash A$, if $A$ is in *Γ* or $A$ follows from formulas in *Γ* and axioms of $S$ by applications of Modus Ponens and the Generalization Rule. Here, the Generalization Rule can only be applied to derivations without assumptions (see Hakli and Negri 2010).
 
-Now a modal logic $S$ is *strongly complete* if for all (finite or infinite) sets $\Gamma$ and all formulas $A$:
+Now a modal logic $S$ is *strongly complete* if for all (finite or infinite) sets *Γ* and all formulas $A$:
 
-If, on appropriate $S$-frames, $A$ is true in all worlds in which all formulas of $\Gamma$ are true, then $\Gamma \vdash A$ in the logic $S$.
+If, on appropriate $S$-frames, $A$ is true in all worlds in which all formulas of *Γ* are true, then $\Gamma \vdash A$ in the logic $S$.
 
-This condition holds for systems like K, M, K4, S4, and S5. If restricted to finite sets $\Gamma$, the above condition corresponds to completeness.
+This condition holds for systems like K, M, K4, S4, and S5. If restricted to finite sets *Γ*, the above condition corresponds to completeness.
 
-Strong completeness does not hold for provability logic, however, because *semantic compactness* fails. Semantic compactness is the property that for each infinite set $\Gamma$ of formulas,
+Strong completeness does not hold for provability logic, however, because *semantic compactness* fails. Semantic compactness is the property that for each infinite set *Γ* of formulas,
 
-If every finite subset $\Delta$ of $\Gamma$ has a model on an appropriate $S$-frame, then $\Gamma$ also has a model on an appropriate $S$-frame.
+If every finite subset $\Delta$ of *Γ* has a model on an appropriate $S$-frame, then *Γ* also has a model on an appropriate $S$-frame.
 
 As a counterexample, take the infinite set of formulas
 
 $$\begin{align} \Gamma &= \{\Diamond p_0, \Box(p_0 \rightarrow \Diamond p_1), \Box(p_1 \rightarrow \Diamond p_2), \Box(p_2 \rightarrow \Diamond p_3), \ldots, \\ &\qquad\ \Box(p_n \rightarrow \Diamond p_{n+1}), \ldots\} \end{align}$$
 
-Then for every finite subset $\Delta$ of $\Gamma$, one can construct a model on a transitive, conversely well-founded frame and a world in the model where all formulas of $\Delta$ are true. So by modal soundness, GL does not prove $\bot$ from $\Delta$ for any finite $\Delta \subseteq \Gamma$, and *a fortiori* GL does not prove $\bot$ from $\Gamma$, as any GL-proof is finite. On the other hand, it is easy to see that there is no model on a transitive, conversely well-founded frame where in any world, all formulas of $\Gamma$ hold. Thus $\bot$ follows semantically from $\Gamma$, but is not provable from it in GL, contradicting the condition of strong completeness.[^note-2]
+Then for every finite subset $\Delta$ of *Γ*, one can construct a model on a transitive, conversely well-founded frame and a world in the model where all formulas of $\Delta$ are true. So by modal soundness, GL does not prove $\bot$ from $\Delta$ for any finite $\Delta \subseteq \Gamma$, and *a fortiori* GL does not prove $\bot$ from *Γ*, as any GL-proof is finite. On the other hand, it is easy to see that there is no model on a transitive, conversely well-founded frame where in any world, all formulas of *Γ* hold. Thus $\bot$ follows semantically from *Γ*, but is not provable from it in GL, contradicting the condition of strong completeness.[^note-2]
 
 ### 3.4 Topological semantics for provability logic
 
@@ -252,13 +252,13 @@ saying that for any two sentences there is a third sentence which is provable if
 
 ### 5.4 Japaridze’s bimodal and polymodal provability logics
 
-Japaridze’s (1988)[^japaridze-1988] bimodal logic GLB has two $\Box$-like provability operators, denoted by $[0]$ and $[1]$, with their dual $\Diamond$-like operators $\langle 0\rangle$ and $\langle 1\rangle$, respectively. In Japaridze’s interpretation, one can think of $[0]$ as standing for the standard provability predicate in Peano Arithmetic. On the other hand, $[1]$ corresponds to a stronger provability predicate, namely $\omega$-*provabilty*.
+Japaridze’s (1988)[^japaridze-1988] bimodal logic GLB has two $\Box$-like provability operators, denoted by $[0]$ and $[1]$, with their dual $\Diamond$-like operators $\langle 0\rangle$ and $\langle 1\rangle$, respectively. In Japaridze’s interpretation, one can think of $[0]$ as standing for the standard provability predicate in Peano Arithmetic. On the other hand, $[1]$ corresponds to a stronger provability predicate, namely *ω*-*provabilty*.
 
-Let us define the concepts that are needed to understand this intended interpretation of GLB. An arithmetical theory $T$ is defined to be $\omega$-*consistent* if and only if for all formulas A with free variable $x$, $T\vdash \neg\, A(I_n)$ for all $n$ implies that $T \not\vdash \exists x \, A(x)$; here, $I_n$ is the numeral of $n$, i.e., the term $\bs\bs\ldots\bs 0$ with $n$ occurrences of the successor operator $\bs$. Peano Arithmetic (PA) is the most well-known example of an $\omega$-consistent theory (see also Gödel’s incompleteness theorems). Now let PA$^+$ be the arithmetical theory whose axioms are those of PA together with all sentences $\forall x \, \neg \, A(x)$ such that for every $n$, PA$\vdash \neg \, A(I_n)$. Now $\omega$-provability is simply provability in PA$^+$, so it is the dual of $\omega$-consistency.
+Let us define the concepts that are needed to understand this intended interpretation of GLB. An arithmetical theory $T$ is defined to be *ω*-*consistent* if and only if for all formulas A with free variable $x$, $T\vdash \neg\, A(I_n)$ for all $n$ implies that $T \not\vdash \exists x \, A(x)$; here, $I_n$ is the numeral of $n$, i.e., the term $\bs\bs\ldots\bs 0$ with $n$ occurrences of the successor operator $\bs$. Peano Arithmetic (PA) is the most well-known example of an *ω*-consistent theory (see also Gödel’s incompleteness theorems). Now let PA$^+$ be the arithmetical theory whose axioms are those of PA together with all sentences $\forall x \, \neg \, A(x)$ such that for every $n$, PA$\vdash \neg \, A(I_n)$. Now *ω*-provability is simply provability in PA$^+$, so it is the dual of *ω*-consistency.
 
 Japaridze’s bimodal provability logic GLB can be axiomatized by the axioms and rules of GL (see Section 2), formulated separately for [0] and [1]. In addition, GLB has two mixed axioms, namely: $$\tag{Monotonicity} [0] A \rightarrow [1] A $$ $$\tag{\(\Pi^0_1\)-completeness} \langle 0\rangle A \rightarrow [1]\langle 0\rangle A $$ Japaridze’s logic is decidable and has a reasonable Kripke semantics, and it is arithmetically sound and complete with respect to Peano Arithmetic (Japaridze 1988, Boolos 1993)[^boolos-1993][^japaridze-1988].
 
-A polymodal analogue of Japaridze’s GLB, named GLP, has received a lot of attention in recent years. GLP has infinitely many $\Box$-like provability operators, denoted by boxes $[n]$ for every natural number $n$, with their dual $\Diamond$-like operators $\langle n\rangle$. Again, one can think of $[0]$ as standing for the standard provability predicate in Peano Arithmetic, $\langle 1\rangle$ for $\omega$-provability, etcetera. GLP has been axiomatized by starting from the axioms and rules of GL (see Section 2), formulated separately for each $[n]$. In addition, GLP has three mixed axiom schemes, namely, as formulated by Beklemishev (2010): $$ [m] A \rightarrow [n] A, \mbox{ for } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ for } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ for } m \leq n $$
+A polymodal analogue of Japaridze’s GLB, named GLP, has received a lot of attention in recent years. GLP has infinitely many $\Box$-like provability operators, denoted by boxes $[n]$ for every natural number $n$, with their dual $\Diamond$-like operators $\langle n\rangle$. Again, one can think of $[0]$ as standing for the standard provability predicate in Peano Arithmetic, $\langle 1\rangle$ for *ω*-provability, etcetera. GLP has been axiomatized by starting from the axioms and rules of GL (see Section 2), formulated separately for each $[n]$. In addition, GLP has three mixed axiom schemes, namely, as formulated by Beklemishev (2010): $$ [m] A \rightarrow [n] A, \mbox{ for } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ for } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ for } m \leq n $$
 
 GLP has been endowed with a Kripke semantics with respect to which it is complete, and has also been shown to be arithmetically complete with respect to Peano Arithmetic (see Beklemishev 2010a, 2011a)[^beklemishev-2010a][^beklemishev-2011a]. Just like for GL, the decision problem for GLP is PSPACE-complete (Shapirovsky 2008)[^shapirovsky-2008], while its closed fragment is polynomial time decidable (Pakhomov 2014)[^pakhomov-2014].
 
@@ -644,7 +644,7 @@ Note that semantically, it is easy to see that the formula $\Box\Diamond A \righ
 
 [^rybakov-2023]: Rybakov, M., 2023, “Predicate Counterparts of Modal Logics of Provability: High Undecidability and Kripke Incompleteness,” *Logic Journal of the IGPL*, first online 28 February 2023. doi:10.1093/jigpal/jzad002
 
-[^vardanyan-1986]: Vardanyan, V.A., 1986, “Arithmetic Complexity of Predicate Logics of Provability and their Fragments,” *Doklady Akademii Nauk SSSR*, 288: 11–14 (in Russian); English translation in *Soviet Mathematics Doklady*, 33: 569–572.
+[^vardanyan-1986]: Vardanyan, V.A., 1986, “Arithmetic Complexiy of Predicate Logics of Provability and their Fragments,” *Doklady Akademii Nauk SSSR*, 288: 11–14 (in Russian); English translation in *Soviet Mathematics Doklady*, 33: 569–572.
 
 [^visser-2006]: Visser, A. and M. de Jonge, 2006, “No Escape from Vardanyan’s Theorem,” *Archive of Mathematical Logic*, 45(5): 539–554.
 
@@ -820,7 +820,7 @@ Note that semantically, it is easy to see that the formula $\Box\Diamond A \righ
 
 [^kaplan-1960]: Kaplan, D. and R. Montague, 1960, “A Paradox Regained,” *Notre Dame Journal of Formal Logic*, 1(3): 79–90.
 
-[^kennedy-2014]: Kennedy, J., 2014, “Gödel’s 1946 Princeton Bicentennial Lecture: An Appreciation,” in J. Kennedy (ed.), *Interpreting Gödel: Critical Essays*, Cambridge: Cambridge University Press, pp. 109–130.
+[^kennedy-2014]: Kennedy, J., 2014, “Gödel’s 1946 Princeton Bicentennial Lecture: An Appreciation,” in J. Kennedy (ed.), *Interpreting Gödel: Critical Essays*, Cambridge: Cambridh=ge University Press, pp.109–130.
 
 [^koellner-2016]: Koellner, P., 2016, “Gödel’s Disjunction,” in L. Horsten and P. Welch (eds.), *Gödel’s Disjunction: The Scope and Limits of Mathematical Knowledge*, Oxford: Oxford University Press, pp. 148–188.
 

@@ -9,7 +9,7 @@ In discussion, one is normally expected to stick to the truth, at least as far a
 
 As a branch of logic, obligations came to flourish with European medieval logic from the thirteenth century onwards, and they slowly vanished when logic as a discipline, a.k.a. ‘scholastic logic’ retreated in the early modern times. During the peak period in the fourteenth century, many or perhaps even most European logicians wrote a dedicated text on obligations (*de obligationibus*). These texts were either stand-alone treatises or sections in overall presentations of logic. Of the former kind, treatises by Walter Burley (“Treatise on Obligations”, written c. 1302; Latin text in Green [1963], English translation in Kretzmann and Stump [1988]), Roger Swyneshed (written 1330–35; Spade [1977]) and Robert Eland[^note-1] (written 1335–1370; Spade [1980]) have been particularly important in shaping the modern understanding of the topic. Of the latter kind, for example William Ockham’s *Summa logicae* (written c. 1323; Boehner, Gál, & Brown [1974]) and Paul of Venice’s *Logica magna* (written 1397–98; Ashworth [1988]) can be mentioned as outstanding examples.
 
-The technique of obligations assumes a dialectical setting or even something like a game between two persons. This setting is usually very succinctly described in the texts themselves. In a nutshell, what happens in an obligational disputation is that one person, the opponent, is putting forward propositions (*propositiones*)[^note-2] and another person, the respondent, is expected to give direct evaluations of these propositions as they come. There are two main answers, granting the proposition or denying it. Only rarely, the texts allow other answers like doubting the proposition (see e.g., Uckelman, Maat and Rybalko 2008)[^uckelman-2008]. The sequence of propositions put forward and answered is taken to be a temporal sequence, but most authors thought that the truth values of the propositions are not to be taken to change during the disputation.
+The technique of obligations assumes a dialectical setting or even something like a game between two persons. This setting is usually very succinctly described in the texts themselves. In a nutshell, what happens in an obligational disputation is that one person, the opponent, is putting forward propositions (*propositiones*)[^note-2] and another person, the respondent, is expected to give direct evaluations of these propositions as they come. There are two main answers, granting the proposition or denying it. Only rarely, the texts allow other answers like doubting the proposition (see e.g., Uckelman, Maat and Rybalko 2018). The sequence of propositions put forward and answered is taken to be a temporal sequence, but most authors thought that the truth values of the propositions are not to be taken to change during the disputation.
 
 The sequence of propositions evaluated this way is launched by the opponent giving the respondent a specified obligation, in the paradigm case that of granting an obviously false proposition. This specified obligation must be respected throughout the sequence, regardless of how complex the sequence gets. The underlying idea is that although the specified obligation relieves the respondent from always following truth in the evaluations, the requirement of some kind of logical coherence is not suspended.
 
@@ -62,7 +62,7 @@ There are however very central differences between the medieval obligational dis
 
 The main difference between Socratic *elenchus* and medieval obligational disputations is in what happens at the beginning. While Socrates normally challenges his discussion partner on a substantial philosophical thesis whose truth would be important to know, there is no real issue under scrutiny in obligational disputations. The thesis studied in a Socratic *elenchus* is never known to be obviously false, but this is the standard way to start an obligational disputation.
 
-As is well known, Aristotle developed dialectical encounters in a strictly theoretical manner in his *Topics*. One question that is still open in the modern scholarship on obligations is to account for the role of Aristotle’s *Topics* in the development of the obligations genre in the middle ages. Medieval commentaries on *Topics* do not regularly take up to discuss obligations systematically (see Green-Pedersen 1984)[^green-pedersen-1984]. One interesting exception is Boethius of Dacia’s commentary (written in the 1270s; Green-Pedersen & Pinborg 1976)[^green-pedersen-1976], but the rules that he proposes for obligational disputations appear quite different from what we find from the mainstream authors of the genre itself (e.g., Burley, Swyneshed, and Eland). In any case, even judging on the basis of Boethius’ treatment of the technique in the commentary, the technique does not seem a direct descendant of the so called ‘topical’ tradition in logic.
+As is well known, Aristotle developed dialectical encounters in a strictly theoretical manner in his *Topics*. One question that is still open in the modern scholarship on obligations is to account for the role of Aristotle’s *Topics* in the development of the obligations genre in the middle ages. Medieval commentaries on *Topics* do not regularly take up to discuss obligations systematically (see Green-Pedersen 1984)[^green-pedersen-1984]. One interesting exception is Boethius of Dacia’s commentary (written in the 1270s; Breen-Pedersen & Pinborg 1976), but the rules that he proposes for obligational disputations appear quite different from what we find from the mainstream authors of the genre itself (e.g., Burley, Swyneshed, and Eland). In any case, even judging on the basis of Boethius’ treatment of the technique in the commentary, the technique does not seem a direct descendant of the so called ‘topical’ tradition in logic.
 
 There is another medieval descendant of the structure of the Socratic *elenchus* arising more directly from the Aristotelian approach to the technique in his *Topics*. During the thirteenth century, a number of treatises “On the Modes of Opposing and Responding” were written. (Cf. De Rijk 1980, Pérez-Ilzarbe 2011)[^pérez-ilzarbe-2011]. These treatises discuss and develop techniques of winning in a disputation, or in other words ways in which the opponent can force or trick the respondent into granting the opposite of the thesis under dispute, or ways in which the respondent can avoid such contradictions. These treatises form an interesting parallel to the obligations technique, but even there the core feature of obligations – discussing an obviously false thesis – is not to be found.
 
@@ -281,7 +281,7 @@ Burley [Burleigh], Walter | consequence, medieval theories of | Heytesbury, Will
 
 [^green-1963]: Green, Romuald, 1963. “An Introduction to the Logical Treatise *De obligationibus*, with Critical Texts of William of Sherwood [?] and Walter Burley,” 2 vols. Doctoral dissertation. Katholieke Universiteit Leuven. A revised version of this essential but unpublished dissertation has been widely circulated in manuscript form under the title *The Logical Treatise ‘De obligationibus’: An Introduction with Critical Texts of William of Sherwood and Walter Burley*.
 
-[^green-pedersen-1976]: Green-Pedersen, N.J. and J. Pinborg (eds.), 1976. *Questiones super librum Topicorum*, (Boethius of Dacia), Corpus Danicorum Medii Aevi, 6, Copenhagen: Gad.
+[^green-pedersen-1976]: Green-Pedersen, N.J. and J. Pinbord (eds.), 1976. *Questiones super librum Topicorum*, (Boethius of Dacia), Corpus Danicorum Medii Aevi, 6, Copenhagen: Gad.
 
 [^kretzmann-1990a]: Kretzmann, Norman and Barbara Ensign Kretzmann (eds.), 1990a. *The Sophismata of Richard Kilvington*, Oxford: Oxford University Press. (“Auctores Britannici Medii Aevi,” vol. 12.) Latin edition. Translated in Kretzmann & Kretzmann 1990b.
 
@@ -319,7 +319,7 @@ Burley [Burleigh], Walter | consequence, medieval theories of | Heytesbury, Will
 
 [^green-pedersen-1984]: Green-Pedersen, Niels Jørgen, 1984. *The Tradition of Topics in the Middle Ages. The Commentaries on Aristotle’s and Boethius’ ‘Topics’*, München: Philosophia Verlag.
 
-[^keffer-2001]: Keffer, Hajo, 2001. *De obligationibus: Rekonstruktion einer spätmittelalterlichen Disputationstheorie*, Leiden: Brill.
+[^keffer-2001]: Keffer, Hajo, 2001. *De obligationibus: Rekonstruktion einer spätmittelalterlichen Disputationstheorie*, Leiden: Brill
 
 [^kukkonen-2002]: Kukkonen, Taneli, 2002. “Alternatives to Alternatives: Approaches to Aristotle’s Arguments per impossibile,” *Vivarium*, 40: 137–173.
 
@@ -335,7 +335,7 @@ Burley [Burleigh], Walter | consequence, medieval theories of | Heytesbury, Will
 
 [^pérez-ilzarbe-2011]: Pérez-Ilzarbe, Paloma, 2011. “Disputation and Logic in the Medieval Treatises De Modo Opponendi et Respondendi,” *Vivarium*, 49: 127–149.
 
-[^read-2020]: Read, Stephen, 2020. “Swyneshed, Paradox and the Rule of Contradictory Pairs,” *Logica Universalis*, 14: 27–50.
+[^read-2020]: Read, Stephen, 2020. “Swyneshed, Paradox and the Rule of Contradictory Pairs,” *Logica Universalis*, 14: 27–50
 
 [^robinson-1953]: Robinson, Richard, 1953. *Plato’s Earlier Dialectic*, Oxford: Oxford University Press.
 
@@ -353,7 +353,7 @@ Burley [Burleigh], Walter | consequence, medieval theories of | Heytesbury, Will
 
 [^strobino-2011]: Strobino, Riccardo, 2011. “Contexts of Utterance and Evaluation in Peter of Mantua’s Obligationes,” *Vivarium*, 49(1–3): 275–299.
 
-[^stump-1981]: Stump, Eleonore, 1981. “Robert Swyneshed’s Theory of Obligations,” *Medioevo: Rivista di storia della filosofia medievale*, 7: 135–74; reprinted in Stump [1989], pp. 215–49.
+[^stump-1981]: Stump, Eleonore, 1981. “Rober Swyneshed’s Theory of Obligations,” *Medioevo: Rivista di storia della filosofia medievale*, 7: 135–74; reprinted in Stump [1989], pp. 215–49.
 
 [^stump-1982]: –––, 1982. “Obligations: From the Beginning to the Early Fourteenth Century,” in N. Kretzmann, *et al.* (eds.) 1982 (Part A, Chap. 16), pp. 315–34.
 
@@ -375,4 +375,4 @@ Burley [Burleigh], Walter | consequence, medieval theories of | Heytesbury, Will
 
 [^yrjönsuuri-2009]: –––, 2009. “Commitment to Consistency,” in Sintonen (ed.), *The Socratic Tradition: Questioning as Philosophy and as Method* (Texts in Philosophy: Volume 10), London: College Publications.
 
-[^yrjönsuuri-2015]: –––, 2015. “Obligations and Conditionals,” *Vivarium*, 53(2–4): 322–335.
+[^yrjönsuuri-2015]: –––, 2015. “Obligations and Conditionals,” *Vivarium*, 53(2–4): 322–335

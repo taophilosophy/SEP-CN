@@ -1030,12 +1030,51 @@ def update_baseline(slug, patch):
         write_json_verified(path, base)
 
 
+class PatchMismatch(Exception):
+    """格式层补丁命中计数不符（ADR-0062）：上游漂移或补丁池失配，禁静默跳过。"""
+
+
+_EN_PATCH_CACHE = None
+
+
+def _load_en_patches():
+    global _EN_PATCH_CACHE
+    if _EN_PATCH_CACHE is None:
+        _EN_PATCH_CACHE = {}
+        path = repo_path('baseline', 'en-patches.json')
+        if os.path.exists(path):
+            pool = load_json(path)
+            for p in pool.get('patches', []):
+                _EN_PATCH_CACHE.setdefault(p['slug'], []).append(p)
+    return _EN_PATCH_CACHE
+
+
+def apply_en_patches(slug, html):
+    """格式层补丁应用（ADR-0062）：en/ 本体零改动，格式修正只在转换层生效。
+
+    每条 find 命中计数必须等于 expect；不符抛 PatchMismatch（该件转换硬失败，
+    防上游漂移静默失配）。文字层缺陷不在本池（登记全局勘误表＋中文译注）。
+    """
+    for p in _load_en_patches().get(slug, []):
+        n = html.count(p['find'])
+        if n != p['expect']:
+            raise PatchMismatch(
+                '%s 补丁 %s 命中 %d 次，expect %d（上游漂移？先核对 en/ 与 baseline/en-patches.json）'
+                % (slug, p.get('id', '?'), n, p['expect']))
+        html = html.replace(p['find'], p['replace'])
+    return html
+
+
 def convert_entry(slug):
     src_dir = repo_path('en', slug)
     idx_path = os.path.join(src_dir, 'index.html')
     if not os.path.exists(idx_path):
         return {'slug': slug, 'error': 'no local snapshot（先 fetch_entry）'}
     html = read_text(idx_path)
+    try:
+        html = apply_en_patches(slug, html)
+    except PatchMismatch as ex:
+        return {'slug': slug, 'error': str(ex)}
     m, e = parser.HEAD_RE.search(html), parser.TAIL_RE.search(html)
     article = html[m.end():e.start()] if (m and e) else html
     article = strip_closed_comments(article)

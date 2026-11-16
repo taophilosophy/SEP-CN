@@ -276,7 +276,7 @@ action | agency | causation: probabilistic | causation: the metaphysics of | com
 
 [^ekstrom-2019]: –––, 2019. “Toward a Plausible Event-Causal Indeterminist Account of Free Will,” *Synthese*, 196: 127–144.
 
-[^feldman-2003]: Feldman, Richard and Andrei A. Buckareff, 2003. “Reasons Explanations and Pure Agency,” *Philosophical Studies*, 112: 135–45.
+[^feldman-nd]: Feldman, Richard and Andrei A. Buckareff, YEAR. “Reasons Explanations and Pure Agency,” *Philosophical Studies*, 112: 135–45.
 
 [^fischer-1995]: Fischer, John Martin, 1995. “Libertarianism and Avoidability: A Reply to Widerker,” *Faith and Philosophy*, 12: 119–25.
 

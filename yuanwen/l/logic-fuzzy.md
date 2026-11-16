@@ -209,7 +209,7 @@ logic: algebraic propositional | logic: many-valued | logic: substructural | pro
 
 [^běhounek-2009]: Běhounek, Libor, 2009, “Fuzzy Logics Interpreted as Logics of Resources”, in Peliš, Michal (ed.), *The Logica Yearbook 2008*, London: College Publications, pages 9–21.
 
-[^běhounek-2014]: –––, 2014, “In Which Sense Is Fuzzy Logic a Logic For Vagueness?”, in Lukasiewicz, Thomas, Rafael Peñaloza, and Anni-Yasmin Turhan (eds.), *PRUV 2014: Logics for Reasoning About Preferences, Uncertainty, and Vagueness*, (CEUR Workshop Proceedings, Volume 1205), Dresden: CEUR.
+[^běhounek-2014]: –––, 2014, “In Which Sense Is Fuzzy Logic a Logic For Vagueness?”, in Łukasiewicz, Thomas, Rafael Peñaloza, and Anni-Yasmin Turhan (eds.), *PRUV 2014: Logics for Reasoning About Preferences, Uncertainty, and Vagueness*, (CEUR Workshop Proceedings, Volume 1205), Dresden: CEUR.
 
 [^běhounek-2005]: Běhounek, Libor and Petr Cintula, 2005, “Fuzzy Class Theory”, *Fuzzy Sets and Systems*, 154(1): 34–55.
 
@@ -285,13 +285,13 @@ logic: algebraic propositional | logic: many-valued | logic: substructural | pro
 
 [^fedel-2011]: Fedel, Martina, Hykel Hosni, and Franco Montagna, 2011, “A Logical Characterization of Coherence for Imprecise Probabilities”, *International Journal of Approximate Reasoning*, 52(8): 1147–1170, doi: 10.1016/j.ijar.2011.06.004.
 
-[^fermüller-2015]: Fermüller, Christian G., 2015, “Semantic Games for “Semantic Games for Fuzzy Logics”, in Cintula, Petr, Christian G. Fermüller, and Carles Noguera (eds.), 2015, *Handbook of Mathematical Fuzzy Logic*, volume 3, (Studies in Logic, Volume 58), London: College Publications, pages 969–1028.
+[^fermüller-2015]: Fermüller, Christian G., 2015, “Semantic Games for Fuzzy Logics”, Cintula, Petr, Christian G. Fermüller, and Carles Noguera (eds.), 2015, *Handbook of Mathematical Fuzzy Logic*, volume 3, (Studies in Logic, Volume 58), London: College Publications, pages 969–1028.
 
 [^fermüller-2009]: Fermüller, Christian G. and George Metcalfe, 2009, “Giles’s Game and Proof Theory for Łukasiewicz Logic”, *Studia Logica*, 92(1): 27–61. doi:10.1007/s11225-009-9185-2
 
 [^fermüller-2014]: Fermüller, Christian G. and Christoph Roschger, 2014, “Randomized Game Semantics for Semi-Fuzzy Quantifiers”, *Logic Journal of the Interest Group of Pure and Applied Logic*, 22(3): 413–439. doi:10.1093/jigpal/jzt049
 
-[^flaminio-2011]: Flaminio, Tommaso, Lluís Godo, and Enrico Marchioni, 2011, “Reasoning About Uncertainty of Fuzzy Events: An Overview”, in Cintula, Petr, Christian G. Fermüller, Lluís Godo, and Petr Hájek (eds.), *Understanding Vagueness: Logical, Philosophical, and Linguistic Perspectives*, (Studies in Logic, Volume 36), London: College Publications, pages 367–400.
+[^flaminio-2011]: Flaminio, Tommaso, Lluís Godo, and Enrico Marchioni, 2011, “Reasoning About Uncertainty of Fuzzy Events: An Overview”, in Cintula, Petr, Christian G. Fermüller, Lluís Godo, and Petr Hájek(eds.), *Understanding Vagueness: Logical, Philosophical, and Linguistic Perspectives*, (Studies in Logic, Volume 36), London: College Publications, pages 367–400.
 
 [^flaminio-2015]: Flaminio, Tommaso and Tomáš Kroupa, 2015, “States of MV-Algebras”, in Cintula, Petr, Christian G. Fermüller, and Carles Noguera (eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 3, (Mathematical Logic and Foundations, Volume 58), London: College Publications, pages 1183–1236.
 
@@ -307,7 +307,7 @@ logic: algebraic propositional | logic: many-valued | logic: substructural | pro
 
 [^giles-1974]: Giles, Robin, 1974, “A Non-Classical Logic for Physics”, *Studia Logica*, 33(4): 397–415. doi:10.1007/BF02123379
 
-[^gödel-1932]: Gödel, Kurt, 1932, “Zum intuitionistischen Aussagenkalkül”, *Anzeiger der Akademie der Wissenschaften in Wien*, 69: 65–66.
+[^gödel-1932]: Gödel, Kurt, 1932, “Zum intuitionistischen Aussagenkalkül”, *Anzeiger Akademie Der Wissenschaften Wien*, 69: 65–66.
 
 [^godo-2000]: Godo, Lluís, Francesc Esteva, and Petr Hájek, 2000, “Reasoning About Probability Using Fuzzy Logic”, *Neural Network World*, 10(5): 811–823.
 
@@ -325,7 +325,7 @@ logic: algebraic propositional | logic: many-valued | logic: substructural | pro
 
 [^hájek-2003]: Hájek, Petr and Zuzana Haniková, 2003, “A Development of Set Theory in Fuzzy Logic”, in Fitting, Melvin and Ewa Orłowska (eds.), *Beyond Two: Theory and Applications of Multiple-Valued Logic*, (Studies in Fuzziness and Soft Computing, Volume 114), Heidelberg: Springer, pages 273–285.
 
-[^hájek-2011]: Hájek, Petr, Franco Montagna, and Carles Noguera, 2011, “Arithmetical Complexity of First-Order Fuzzy Logics”, in Cintula, Petr, Petr Hájek, and Carles Noguera (eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 2, (Mathematical Logic and Foundations, Volume 38), London: College Publications, pages 853–908.
+[^hájek-2011]: Hájek, Petr, Franco Montagna, Carles Noguera, 2011, “Arithmetical Complexity of First-Order Fuzzy Logics”, in Cintula, Petr, Petr Hájek, and Carles Noguera(eds.), *Handbook of Mathematical Fuzzy Logic*, Volume 2, (Mathematical Logic and Foundations, Volume 38), London: College Publications, pages 853–908.
 
 [^hájek-2003-2]: Hájek, Petr and Vilém Novák, 2003, “The Sorites Paradox and Fuzzy Logic”, *International Journal of General Systems*, 32(4): 373–383. doi:10.1080/0308107031000152522
 
@@ -395,11 +395,11 @@ logic: algebraic propositional | logic: many-valued | logic: substructural | pro
 
 [^novák-2000]: Novák, Vilém, Irina Perfilieva, and Jiří Močkoř, 2000, *Mathematical Principles of Fuzzy Logic*, Dordrecht: Kluwer.
 
-[^nguyen-2005]: Nguyen, Hung T. and Elbert A. Walker, 2005, *A First Course in Fuzzy Logic* (third edition), Boca Raton: Chapman and Hall/CRC.
+[^nguyen-2005]: Nguyen, Hung T. and Elbert A. Walker, 2005, *A First Course in Fuzzy Logic* (third edition), Chapman and Hall/CRC.
 
 [^paris-1997]: Paris, Jeff, 1997, “A Semantics for Fuzzy Logic”, *Soft Computing*, 1(3): 143–147. doi:10.1007/s005000050015
 
-[^paris-2000]: –––, 2000, “Semantics for Fuzzy Logic Supporting Truth Functionality”, in Vilém Novák and Irina Perfilieva (eds.), *Discovering the World with Fuzzy Logic*, (Studies in Fuzziness and Soft Computing, Volume 57), Heidelberg: Springer, pages 82–104.
+[^paris-2000]: –––, 2000, “Semantics for Fuzzy Logic Supporting Truth Functionality”, in Vilém Novák and Irina Perfilieva (eds.), *Discovering the World with Fuzzy Logic*, (Studies in Fuzziness and Soft Computing. Volume 57), Heidelberg: Springer, pages 82–104.
 
 [^pavelka-1979]: Pavelka, Jan, 1979, “On Fuzzy Logic I, II, and III”, *Zeitschrift für Mathematische Logik und Grundlagen der Mathematik*, 25: 45–52, 119–134, and 447–464.
 
@@ -423,7 +423,7 @@ logic: algebraic propositional | logic: many-valued | logic: substructural | pro
 
 [^teheux-2016]: Teheux, Bruno, 2016, “Modal definability based on Łukasiewicz validity relations”, *Studia Logica*, 104(2): 343–363. doi: 10.1007/s11225-015-9643-y
 
-[^takeuti-1984]: Takeuti, Gaisi and Satoko Titani, 1984, “Intuitionistic Fuzzy Logic and Intuitionistic Fuzzy Set Theory”, *Journal of Symbolic Logic*, 49(3): 851–866.
+[^takeuti-1984]: Takeuti, Gaisi and Satako Titani, 1984, “Intuitionistic Fuzzy Logic and Intuitionistic Fuzzy Set Theory”, *Journal of Symbolic Logic*, 49(3): 851–866.
 
 [^takeuti-1992]: –––, 1992, “Fuzzy Logic and Fuzzy Set Theory”, *Archive for Mathematical Logic*, 32(1): 1–32.
 

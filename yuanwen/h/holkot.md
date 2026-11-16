@@ -55,9 +55,9 @@ Holkot responded in a passage for which he is perhaps best known, that there mus
 
 The conclusion is invalid because the subject term in each premise might stand for different people, like Plato and Socrates.
 
-Holkot argued that since Aristotle could not have known about God as three Persons and one divine Essence, he could not have foreseen the need to adjust his logic for such cases, but with some supplementary rules taken from religious authority, like: “every absolute is predicated in the singular and not in the plural about the three persons,” and “unity holds its consequent where the opposition of relation does not stand in the way” (*Sent.* I, q. 5, f. 2ra), Holkot believed the Trinitarian cases could be covered. The logic of faith does not have a large number of additional principles, and it, like Aristotelian logic, is rational because it is subject to the principle of non-contradiction.
+Holkot argued that since Aristotle could not have known about God as three Persons and one divine Essence, he could not have foreseen the need to adjust his logic for such cases, but with some supplementary rules taken from religious authority, like: “every absolute is predicated in the singular and not in the plural about the three persons,” and “unity holds its consequent where the opposition of relation does not stand in the way” (*Sent.* I, q. 5, f. f2ra), Holkot believed the Trinitarian cases could be covered. The logic of faith does not have a large number of additional principles, and it, like Aristotelian logic, is rational because it is subject to the principle of non-contradiction.
 
-Holcot’s view of the relation between faith and reason was very much in the tradition of Anselm, of faith seeking understanding. His adherence to the principle of non-contradiction was uncompromising: “no intellect can assent to the opposite of the first principle or believe that contradictories are true at the same time” (*Quodl.* I, q. 2, in *Exploring*, 38, ll. 165–166). Faith required that reason believe that all of the truths of the faith are compatible, even when at times they could not be demonstrated or shown to be so.
+Holcot’s view of the relation between faith and reason was very much in the tradition of Anselm, of faith seeking understanding. His adherence to the principle of non-contradiction was uncompromising: “no intellect can assent to the opposite of the first principle or believe that contradictories are true at the same time” (*Quod.* I, q. 2, in *Exploring*, 38, ll. 165–166). Faith required that reason believe that all of the truths of the faith are compatible, even when at times they could not be demonstrated or shown to be so.
 
 ## 4. Necessity and Contingency
 
@@ -77,7 +77,7 @@ He then argued that talk of God’s absolute and ordained power was not about a 
 
 The principle of non-contradiction served as the ultimate safeguard of rationality and certainty in Holkot’s system. The role of the principle was particularly important because Holkot, more than perhaps any other late medieval theologian, underscored God’s freedom to set aside ordained laws without incurring any fault or obstacle.
 
-> God can be obliged to no law but that without its observance he can be morally good, because otherwise the divine goodness would depend on creatures, and God would be less good than he is if he were to destroy every creature; and similarly God would begin to be better than he was before the observance of the law. Whence, just as a prince who is above the law can perform some act without sin or evil, which those existing under the law in no way can do without sin, so God in not fulfilling what he promised acts without the evil of falsity or perjury, which someone existing under the law could in no way do (*Quodl.* III, q. 8, in *Seeing the Future*, 103, ll. 537–546).
+> God can be obliged to no law but that without its observance he can be morally good, because otherwise the divine goodness would depend on creatures, and God would be less good than he is if he were to destroy every creature; and similarly God would begin to be better than he was before the observance of the law. Whence, just as a prince who is above the law can perform some act without sin or evil, which those existing under the law in no way can do without sin, so God in not fulfilling what he promised acts without the evil of falsity or perjury, which someone existing under the law could in no way do (*Quodl*. III, q. 8, in *Seeing the Future*, 103, ll. 537–546).
 
 Divine promises, revelations, and enactments were all in Holkot’s view ungrounded in divine goodness in the sense that God was not under obligation because of his goodness to fulfill them or keep them in being. The contingency of the ordained system was a fact of the human condition. So what reassurance could human beings have that keeping faith with God’s precepts would result in their salvation? What would happen if God were to set aside the current law and enact some incompatible alternative, as it would clearly seem to be in God’s power to do? If God did not inform people about such a change, then invincible ignorance would protect them from being held accountable for not following the new laws. Holkot did not believe that God could ask people to obey laws of which they were ignorant because that would require them to do what is impossible and contradictory. And if God did inform people of the new laws, then these laws would supersede the incompatible old set, and the faithful could obey God without being held to contradictory commands.
 
@@ -149,7 +149,7 @@ In the ensuing years, Ockham’s modal view of “time” was joined to a way of
 
 In *De Interpretatione*, chapter 9, Aristotle had bequeathed a difficult problem to the medieval debate about divine foreknowledge. His contention that in order to avoid attaching necessity to all events, propositions about future events were not yet true or false seemed either to deny to God the possibility of knowing the future or to rule out the contingency of events. Boethius had provided a response that held until the fourteenth century, but after Scotus subjected his response to a severe critique, new discussion of the Aristotelian three-valued logic appeared. Campsall distinguished between propositions about the past and present that were “determinately true or false” and propositions about the future that were “indeterminately true or false.” Holkot adopted this way of modally dividing up determinations of truth and falsity:
 
-> . . . future contingents are said to be propositions about the future of which there is no determinate truth or falsity, because although they are true or false, yet those which are true can never have been true and those which are false can never have been false. (*Quodl.* III, q. 1, in *Seeing the Future*, 63, ll. 93–96)
+> . . . future contingents are said to be propositions about the future of which there is no determinate truth or falsity, because although they are true or false, yet those which are true can never have been true and those which are false can never have been false. (*Quod*. III, q. 1, in *Seeing the Future*, 63, ll. 93–96)
 
 By the time of Holcot, the analysis of future contingency in terms of a possible counterfactual past, and the identification of such an analysis with a multi-valued logic, had attained the status of an identifiable tradition. Ockham had not adopted the terminology of “indeterminately true or false” and “contingently true or false” to speak of the truth status of future contingent propositions. He had insisted on a two-valued system in which all propositions are determinately true or false. But Holkot departed from him in this. Holkot’s position reflects a view of modality as primary. Necessity and contingency are fundamental, and judgments of truth mean something different in each modal context, rather than truth being primary, and necessity and contingency providing a different valence to otherwise true propositions. The efforts to grapple with the implications of contingency had come a long way (Slotemaker and Witt 2015, 87–94)[^slotemaker-2015][^slotemaker-2015-2].
 
@@ -215,7 +215,7 @@ All translations are by the authors.
 
 [^allen-1971]: –––, 1971. *The Friar as Critic: Literary Attitudes in the Later Middle Ages*, Nashville: Vanderbilt University Press.
 
-[^courtenay-1972]: Courtenay, William J., 1972. “The King and the Leaden Coin: The Economic Background of ‘Sine qua non’ Causality,” *Traditio*, 28: 185–209; reprinted in William J. Courtenay, *Covenant and Causality in Medieval Thought: Studies in Philosophy, Theology and Economic Practice*, London: Variorum Reprints, 1984.
+[^courtenay-1972]: Courtenay, William J., 1972. “The King and the Leaden Coin: The Economic Background of ‘Sine qua non’ Causality,” *Traditio*, 28: 185–209; reprinted in William J. Courtenay*, Covenant and Causality in Medieval Thought: Studies in Philosophy, Theology and Economic Practice*, London: Variorum Reprints, 1984.
 
 [^courtenay-1980]: –––, 1980. “The Lost Matthew Commentary of Robert Holcot, O.P.,” *Archivum Fratrum Praedicatorum*, 50: 103–112.
 
@@ -239,9 +239,9 @@ All translations are by the authors.
 
 [^gillespie-1971]: Gillespie, Richard E., 1971. “Robert Holcot’s Quodlibeta,” *Traditio*, 27: 480–490.
 
-[^grassi-1979]: Grassi, Onorato, 1979. “Le tesi di Robert Holcot sul valore non scientifico della conoscenza teologica,” *Rivista di filosofia neo-scolastica*, 71: 49–79.
+[^grassi-1979]: Grassi, Onorato, 1979. “Le tesi di Robert Holcot sul valore non scientifico della conoscenza teologica,” *Rivista di filosofia neo-scolastica*, 71: 49-79.
 
-[^hoffmann-1963]: Hoffmann, Fritz, 1963. “Robert Holcot--Die Logik in der Theologie,” in *Die Metaphysik im Mittelalter: Ihr Ursprung und ihre Bedeutung* (Miscellanea Mediaevalia, Number 2), Berlin: Walter de Gruyter, 624–639.
+[^hoffmann-1963]: Hoffmann, Fritz, 1963. “Robert Holcot--Die Logik in der Theologie,” in *Die Metaphysik im Mittelalter: Iher Ursprung und ihre Bedeutung* (Miscellanea Mediaevalia, Number 2), Berlin: Walter de Gruyter, 624–639.
 
 [^hoffmann-1971]: –––, 1971. “Der Satz als Zeichen der theologischen Aussage bei Holcot, Crathorn und Gregor von Rimini,” in *Der Begriff der Repraesentatio im Mittelalter: Stellvertretung, Symbol, Zeichen, Bild* (Miscellanea Mediaevalia, Number 8), Albert Zimmermann (ed.), Berlin: Walter de Gruyter, 296–313.
 
@@ -253,11 +253,11 @@ All translations are by the authors.
 
 [^incandela-1994]: Incandela, Joseph M., 1994. “Robert Holcot, O.P., on Prophecy, the Contingency of Revelation, and the Freedom of God,” *Medieval Philosophy and Theology*, 4: 165–188.
 
-[^keele-2007]: Keele, Rondo, 2007. “Oxford *Quodlibeta* from Ockham to Holcot,” in *Theological quodlibeta in the Middle Ages: the Fourteenth Century*, Christopher Schabel (ed.), Leiden: Brill, 651–692.
+[^keele-2007]: Keele, Rondo, 2007. “Oxford *Quodlibeta* from Ockham to Holcot,” in *Theological* quodlibeta *in the Middle Ages: the Fourteenth Century*, Christopher Schabel (ed.), Leiden: Brill, 651–692
 
 [^kennedy-1993]: Kennedy, Leonard A., 1993. *The Philosophy of Robert Holcot, Fourteenth-Century Skeptic* (Studies in the History of Philosophy, Number 27), Lewiston, NY: Edwin Mellon Press.
 
-[^kirjavainen-1990]: Kirjavainen, Heikki, 1990. “Existential Presuppositions in Semantics According to Ockham and Holcot,” in *Knowledge and the Sciences in Medieval Philosophy* (Volume 2: Eighth International Congress of Medieval Philosophy), Simo Knuuttila, Reijo Työrinoija, and Sten Ebbesen (eds.), Helsinki: Acta Philosophica Fennica, 196–209.
+[^kirjavainen-1990]: Kirjavainen, Heikki, 1990. “Existential Presuppositions in Semantics According to Ockham and Holcot,” in *Knowledge and the Sciences in Medieval Philosophy* (Volume 2: Eighth International Congresss of Medieval Philosophy), Simo Knuuttila, Reijo Työrinoija, and Sten Ebbesen (eds.), Helsinki: Acta Philosophica Fennica, 196–209.
 
 [^kirjavainen-1993]: –––, 1993. “Trinitarian Sophisms in Robert Holcot’s Theology,” in *Sophisms in Medieval Logic and Grammar* (Acts of the Ninth European Symposium for Medieval Logic and Semantics), Stephen Read (ed.), Dordrecht: Kluwer, 348–356.
 
@@ -277,7 +277,7 @@ All translations are by the authors.
 
 [^o’mara-1992]: O’Mara, Philip, 1992. “Robert Holcot’s ‘Ecumenism’ and the Green Knight: Part I,” *The Chaucer Review*, 26(4): 329–342.
 
-[^o’mara-1992-2]: –––, 1992. “Holcot and the ‘Pearl’-Poet: Part II,” *The Chaucer Review*, 27(1): 97–106.
+[^o’mara-1963]: –––, 1963. “Holcot and the ‘Pearl’-Poet: Part II,” *The Chaucer Review*, 27(1): 97–106.
 
 [^rivers-2010]: Rivers, Kimberly A., 2010. *Preaching the Memory of Virtue and Vice: Memory, Images, and Preaching in the Late Middle Ages*, Turnhout: Brepols.
 
@@ -309,11 +309,11 @@ All translations are by the authors.
 
 [^tachau-1982]: Tachau, Katherine, 1982. “The Problem of the *Species in medio* at Oxford in the Generation after Ockham,” *Mediaeval Studies*, 44: 394–443.
 
-[^tachau-1988]: –––, 1988. *Vision and Certitude in the Age of Ockham: Optics, Epistemology and the Foundations of Semantics 1250–1345* (Studien und Texte zur Geistesgeschichte des Mittelalters, Number 22), Leiden: E. J. Brill.
+[^tachau-1988]: –––, 1988. *Vision and Certitude in the Age of Ockham: Optics, Epistemology and the Foundations of Semantics 1250–1345* (Studien und Texte zur geistesgeschichte des Mittelalters, Number 22), Leiden: E. J. Brill.
 
 [^tachau-1987]: –––, 1987. “The Influence of Richard Campsall on 14th-Century Oxford Thought,” in *From Ockham to Wyclif* (Studies in Church History: Volume 5), Anne Hudson and Michael Wilks (eds.), Oxford: Boydell & Brewer, 109–123.
 
-[^tachau-1987-2]: –––, 1987. “Wodeham, Crathorn, and Holcot: The Development of the *complexe significabile*,” in *Logos and Pragma: Essays on the Philosophy of Language in Honor of Professor Gabriel Nuchelmans*, L. M. de Rijk and H. A. G. Braakhuis (eds.), Nijmegen: Ingenium, 161–187.
+[^tachau-1987-2]: –––, 1987. “Wodeham, Crathorn, and Holcot: The Development of the *complexe significabile*,” in *Logos and Pragma: Essays on the Philosophy of Language in Honor of Professor Gabriel Nuchelmans*, L. M. de Riijk and H. A. G. Braakhuis (eds.), Nijmegen: Ingenium, 161–187.
 
 [^tachau-1991]: –––, 1991. “Looking Gravely at Dominican Puns: The ‘Sermons’ of Robert Holcot and Ralph Friseby,” *Traditio*, 46: 337–345.
 

@@ -71,7 +71,7 @@ Clarke, Samuel | Locke, John | Scottish Philosophy: in the 18th Century
 
 [^atherton-1994]: Atherton, Margaret, 1994, *Women Philosophers of the Early Modern Period*, Indianapolis: Hackett Publishing.
 
-[^bigold-2013]: Bigold, Melanie, 2013, *Women of Letters, Manuscript Circulation, and Print Afterlives in the Eighteenth Century: Elizabeth Rowe, Catharine Cockburn, and Elizabeth Carter*, Basingstoke: Palgrave MacMillan.
+[^bigold-2013]: Bigold, Melanie, 2013, *Women of Letters, Manuscript Circulation, and Print Afterlives in the Eigtheenth Century: Elizabeth Rowe, Catharine Cockburn, and Elizabeth Carter*, Basingstoke: Palgrave MacMillan.
 
 [^boeker-2022]: Boeker, Ruth, 2022, “Hutcheson and His Critics and Opponents of the Moral Sense,” in *The Journal of Scottish Philosophy*, 20 (2): 143–161.
 
@@ -121,7 +121,7 @@ Clarke, Samuel | Locke, John | Scottish Philosophy: in the 18th Century
 
 [^sheridan-2022]: –––, 2022, “Locke and Catharine Trotter Cockburn,” in *The Lockean Mind*, Jessica Gordon-Roth and Shelley Weinberg (eds.), New York: Routledge, 27–32.
 
-[^sheridan-2023]: –––, 2023, “Damaris Masham and Catharine Trotter Cockburn: Agency, Virtue, and Fitness in their Moral Philosophies,” in *The Routledge Handbook of Women and Early Modern European Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 506–518.
+[^sheridan-2023]: –––, 2023, “Damaris Masham and Catharine Trotter Cockburn: Agency, Virtue, and Fitness in their Moral Philosophies,” in *The Routledge Handbook of Women and Early Modern Eurpoean Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 506–518.
 
 [^thomas-2013]: Thomas, Emily, 2013, “Catharine Trotter Cockburn on Substantival Space,” in *History of Philosophy Quarterly*, 30 (30): 195–214.
 
@@ -129,7 +129,7 @@ Clarke, Samuel | Locke, John | Scottish Philosophy: in the 18th Century
 
 [^thomas-2017]: –––, 2017, “Creation, Divine Freedom, and Catharine Cockburn: An Intellectualist on Possible Worlds and Contingent Laws,” in *Women and Liberty, 1600–1800*, Jacqueline Broad and Karen Detlefsen (eds.), Oxford: Oxford University Press, 206–220.
 
-[^thomas-2023]: –––, 2023, “Margaret Cavendish, Anne Conway, and Catharine Cockburn on Matter,” in *The Routledge Handbook of Women and Early Modern European Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 112–126.
+[^thomas-2023]: –––, 2023, “Margaret Cavendish, Anne Conway, and Catharine Cockburn on Matter,” in *The Routledge Handbook of Women and Early Modern Eurpoean Philosophy*, Karen Detlefsen and Lisa Shapiro (eds.), New York: Routledge, 112–126.
 
 [^waithe-1991]: Waithe, Mary Ellen, 1991, “Catharine Trotter Cockburn,” in *Modern Women Philosophers, 1600–1900*, Mary Ellen Waithe (ed.), Dordrecht: Kluwer Academic Publishers.
 

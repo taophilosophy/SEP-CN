@@ -116,7 +116,7 @@ The editors would like to thank Kai Wehmeier for his efforts as an external refe
 
 [^scholz-1936]: Scholz, H. and Bachmann, F., 1936, “Der wissenschaftliche Nachlass von Gottlob Frege”, in *Actes du congrès international de philosophie scientifique Sorbonne, Paris 1935*, Vol. VIII: *Histoire de la logique et de la philosophie scientifique*, Paris: Hermann, 24–30.
 
-[^scholz-1961-2]: Scholz, H., and Hasenjaeger, G., 1961, *Grundzüge der mathematischen Logik*, Berlin/Göttingen/Heidelberg: Springer (*Grundlehren der mathematischen Wissenschaften*, 106).
+[^scholz-1961-2]: Scholz, H., and Hasenjaeger, G., 1961, *Grundzüge der mathematischen Logik*, Berlin/Göttingen/Heidelberg: Springer (*Grundlehren der mathematischen Wissenschaften*d,; 106).
 
 [^scholz-1935]: Scholz, H., and Schweitzer, H., 1935, *Die sogenannten Definitionen durch Abstraktion. Eine Theorie der Definitionen durch Bildung von Gleichheitsverwandtschaften*, Leipzig: Kommission bei Felix Meiner (*Forschungen zur Logistik und zur Grundlegung der exakten Wissenschaften*, 3).
 
@@ -140,7 +140,9 @@ The editors would like to thank Kai Wehmeier for his efforts as an external refe
 
 [^neurath-1937]: Neurath, O., 1937, “Die neue Enzyklopädie des wissenschaftlichen Empirismus”, *Scientia* (Milan), Dec. 1937, 309–320, reprinted in Neurath 1981, 801–811.
 
-[^neurath-1981]: –––, 1981, *Gesammelte philosophische und methodologische Schriften*, Vol. 2, ed. by R. Haller and H. Rutte, Vienna: Hölder-Pichler-Tempsky.
+[^neurath-1981]: –––, 1981, *Gesammelte philosophische und methodologische*
+
+[^schriften-nd]: *Schriften*, Vol. 2, ed. by R. Haller and H. Rutte, Vienna: Hölder-Pichler-Tempsky.
 
 [^peckhaus-1993]: Peckhaus, V., 1993, Review of Molendijk 1991, *History and Philosophy of Logic*, 14: 101–107.
 

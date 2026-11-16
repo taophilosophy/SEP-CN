@@ -27,10 +27,10 @@ The basis for Xenophanes’ unhappiness with the poets’ accounts is not explai
 In the well-known fragments B14–16, Xenophanes comments on the general tendency of human beings to conceive of divine beings in human form:
 
 > But mortals suppose that gods are born,
-> wear their own clothes and have a voice and body. (B14)
+> wear their own clothers and have a voice and body. (B14)
 >
 > Ethiopians say that their gods are snub-nosed and black;
-> Thracians that theirs are blue-eyed and red-haired. (B16)
+> Thracians that theirs are are blue-eyed and red-haired. (B16)
 
 B15 adds, probably in a satirical vein, that if horses and oxen had hands and could draw pictures, their gods would look remarkably like horses and oxen. B17, “…and bacchants of pine stand round the well-built house” may represent a criticism of the common ancient belief that a god could assume possession of a physical object so as to offer protection to its possessor. The ridiculing of Pythagoras’ claim to have recognized the soul of a departed friend in the voice of a barking dog (B7), together with the attacks on divination credited to Xenophanes in A52, reflect the broader denial of knowledge of divine attributes and operations set out in B34. Xenophanes is prepared to offer a positive account of the nature of the deity (see the following section) but his position appears to be that while no mortal being will ever know about the gods with any degree of certainty, we can at least avoid adopting beliefs and practices clearly at odds with the special nature any divine being must be assumed to possess.
 

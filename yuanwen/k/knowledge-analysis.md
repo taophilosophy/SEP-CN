@@ -482,7 +482,7 @@ As of the 2026 update, Jonathan Ichikawa has taken sole responsibility for updat
 
 [^antognazza-2015]: Antognazza, Maria Rosa, 2015, “The Benefit to Philosophy of the Study of its History”, *British Journal for the History of Philosophy*, 23(1):161–184. doi:10.1080/09608788.2014.974020
 
-[^antognazza-2020]: –––, 2020, “The Distinction in Kind between Knowledge and Belief”, *Proceedings of the Aristotelian Society*, 120(3): 277–308. doi:10.1093/arisoc/aoaa013
+[^antognazza-2020]: –––, 2020, “The Distinction in Kind between Knowledge and Belief”, *Proceedings of the Aristotelian Society*, 120(3): 2020:277–308. doi:10.1093/arisoc/aoaa013
 
 [^armstrong-1973]: Armstrong, D.M., 1973, *Belief, Truth, and Knowledge*, Cambridge: Cambridge University Press.
 
@@ -506,7 +506,7 @@ As of the 2026 update, Jonathan Ichikawa has taken sole responsibility for updat
 
 [^clarke-2013]: Clarke, Roger, 2013, “Belief Is Credence One (in Context)”, *Philosophers’ Imprint*, 13: 1–18.
 
-[^cohen-1988]: Cohen, Stewart, 1988, “How to Be a Fallibilist”, *Philosophical Perspectives*, Epistemology, 2: 91–123. doi:10.2307/2214070
+[^cohen-1988]: Cohen, Stewart, 1988 “How to Be a Fallibilist”, *Philosophical Perspectives*, Epistemology, 2: 91–123. doi:10.2307/2214070
 
 [^comesaña-2005]: Comesaña, Juan, 2005, “Unsafe Knowledge”, *Synthese*, 146(3): 395–404. doi:10.1007/s11229-004-6213-7
 
@@ -552,7 +552,7 @@ As of the 2026 update, Jonathan Ichikawa has taken sole responsibility for updat
 
 [^gettier-1963]: Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi:10.2307/3326922
 
-[^gibbons-2013]: Gibbons, John, 2013, *The Norm of Belief*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199673391.001.0001
+[^gibbons-2013]: Gibbons, John, 2013, *The Norm of Belief*, Oxford University Press. doi:10.1093/acprof:oso/9780199673391.001.0001
 
 [^goldman-1967]: Goldman, Alvin I., 1967, “A Causal Theory of Knowing”, *Journal of Philosophy*, 64(12): 357–372. doi:10.2307/2024268
 
@@ -582,7 +582,7 @@ As of the 2026 update, Jonathan Ichikawa has taken sole responsibility for updat
 
 [^hawthorne-2003]: –––, 2003, *Knowledge and Lotteries*, New York: Oxford University Press. doi:10.1093/0199269556.001.0001
 
-[^hirvelä-2025]: Hirvelä, Jaakko, 2025, “Metaphysics of Risk and Luck,” *Noûs*, 59(2): 335–348. doi:10.1111/nous.12516
+[^hirvelä-2025]: Hirvelä, Jaakko, 2025, “Metaphysics of Risk and Luck,” *Noûs*, 59(2) :335–348. doi:10.111/nous.12516
 
 [^ichikawa-2011]: Ichikawa, Jonathan, 2011, “Quantifiers, Knowledge, and Counterfactuals”, *Philosophy and Phenomenological Research*, 82(2): 287–313. doi:10.1111/j.1933-1592.2010.00427.x
 
@@ -590,13 +590,13 @@ As of the 2026 update, Jonathan Ichikawa has taken sole responsibility for updat
 
 [^ichikawa-2017-2]: ––– (ed.), 2017-b, *Routledge Handbook of Epistemic Contextualism*, New York: Taylor & Francis.
 
-[^ichikawa-2024]: –––, 2024, *Epistemic Courage*, Oxford: Oxford University Press.
+[^ichikawa-2024]: –––, 2024, *Epistemic Courage*, Oxford University Press.
 
 [^ichikawa-2013]: Ichikawa, Jonathan, and Benjamin Jarvis, 2013, *The Rules of Thought*, Oxford: Oxford University Press.
 
 [^ichikawa-2012]: Ichikawa, Jonathan, Benjamin Jarvis, and Katherine Rubin, 2012, “Pragmatic Encroachment and Belief-Desire Psychology”, *Analytic Philosophy*, 53(4): 327–342. doi:10.1111/j.2153-960X.2012.00564.x
 
-[^ichikawa-2017-3]: Ichikawa, Jonathan, and Carrie Jenkins, 2017-a, “On Putting Knowledge ‘First’”, in J. Adam Carter, Emma C. Gordon, and Benjamin Jarvis (eds.), *Knowledge First: Approaches in Epistemology and Mind*, Oxford: Oxford University Press, pp. 113–131. doi: 10.1093/oso/9780198716310.003.0006
+[^ichikawa-2017-3]: Ichikawa, Jonathan, and Carrie Jenkins, 2017, “On Putting Knowledge ‘First’, in J. Adam Carter, Emma C. Gordon, and Benjamin Jarvis (eds.), *Knowledge First: Approaches in Epistemology and Mind*, Oxford: Oxford University Press, pp. 113–131. doi: 10.1093/oso/9780198716310.003.0006
 
 [^jackson-2020]: Jackson, Elizabeth G., 2020, “The Relationship Between Belief and Credence”, *Philosophy Compass*, 15(6): 1–13. doi:10.1111/phc3.12668
 
@@ -644,7 +644,7 @@ As of the 2026 update, Jonathan Ichikawa has taken sole responsibility for updat
 
 [^owens-2000]: Owens, David, 2000, *Reason without Freedom: The Problem of Epistemic Normativity*, London: Routledge.
 
-[^pappas-2023]: Pappas, George, 2023, “Internalist vs. Externalist Conceptions of Epistemic Justification”, *The Stanford Encyclopedia of Philosophy* (Spring 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/spr2023/entries/justep-intext/>.
+[^pappas-2023]: Pappas, George, “Internalist vs. Externalist Conceptions of Epistemic Justification”, *The Stanford Encyclopedia of Philosophy* (Spring 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/spr2023/entries/justep-intext/>.
 
 [^phillips-2004]: Phillips, Stephen H., and N.S. Ramanuja Tatacharya (trans.), 2004, *Epistemology of Perception: Gaṅgeśa’s “Tattvacintāmaṇi”*, New York: American Institute of Buddhist Studies.
 
@@ -712,7 +712,7 @@ As of the 2026 update, Jonathan Ichikawa has taken sole responsibility for updat
 
 [^williamson-2009]: –––, 2009, “Reply to Alvin Goldman”, in Greenough & Pritchard 2009, pp. 305–312. doi:10.1093/acprof:oso/9780199287512.003.0017
 
-[^worsnip-2017]: Worsnip, Alex, 2017, “Contextualism and Knowledge Norms”, in Ichikawa 2017-b, pp. 177–189.
+[^worsnip-2017]: Worsnip, Alex, 2017, “Contextualism and Knowledge Norms”, in Ichikawa 2017-b, pp. 177-189.
 
 [^wright-2004]: Wright, Crispin, 2004, “Warrant for Nothing (And Foundations for Free)?” *Aristotelian Society Supplementary Volume*, 78(1): 167–212. doi:10.1111/j.0309-7013.2004.00121.x
 

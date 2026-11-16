@@ -333,7 +333,7 @@ attention | blame | bounded rationality | computing: and moral responsibility | 
 
 [^higgins-1999]: Higgins, S. T., & Petry, N. M., 1999, “Contingency management. Incentives for sobriety”, *Alcohol Research & Health: The Journal of the National Institute on Alcohol Abuse and Alcoholism*, 23(2): 122–127.
 
-[^hofmann-2012]: Hofmann, W., Baumeister, R. F., Förster, G., & Vohs, K. D., 2012, “Everyday temptations: An experience sampling study of desire, conflict, and self-control”, *Journal of Personality and Social Psychology*, 102(6): 1318–1335.
+[^hofmann-2012]: Hofmann, W., Baumeister, R. F., Förster, G., & Vohs, K. D., 2012, “Everyday temptations: An experience sampling study of desire, conflict, and self-control”, *Journal of Personality and Social Psychology*, 102(6): 1318–133OB5.
 
 [^hofmann-2012-2]: Hofmann, W., Vohs, K. D., & Baumeister, R. F., 2012, “What people desire, feel conflicted about, and try to resist in everyday life”, *Psychological Science*, 23(6): 582–588.
 
@@ -453,7 +453,7 @@ attention | blame | bounded rationality | computing: and moral responsibility | 
 
 [^simon-1990]: Simon, H. A., 1990, “Bounded rationality”, *Utility and Probability*, 15–18.
 
-[^sinnott-armstrong-2013]: Sinnott-Armstrong, W., & Pickard, H., 2013, “What is addiction?” in K.W.M. Fulford et al. (eds.), *The Oxford Handbook of Philosophy and Psychiatry*, pp. 851–864, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199579563.013.0050
+[^sinnott-armstrong-2013]: Sinnott-Armstrong, W., & Pickard, H., 2013, “What is addiction?” in K.W.M. Fulford et al. (eds.), *The Oxford Handbook of Philosophy and Psychiatry*. pp. 851–864, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199579563.013.0050
 
 [^sinnott-armstrong-2021]: Sinnott-Armstrong, W., & Skorburg, J. A., 2021, “How AI can AID bioethics”, *Journal of Practical Ethics*, 9(1). doi:10.3998/jpe.1175
 

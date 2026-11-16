@@ -5,7 +5,7 @@
 
 As Diogenes Laertius reports (D.L., IV 14 = T 2 IP), Xenocrates (of Chalcedon, a city on the Asian side of the Bosporus opposite Byzantium) became head of the Academy after the death of Speusippus, in 339/338 (“in the second year of the 110th Olympiad”). D.L. adds that he held that position for twenty-five years and died at 82. Accordingly, his life dates are generally given as 396/395–314/313 BCE.
 
-On the death of Plato, when Speusippus became head of the Academy, Xenocrates and Aristotle may have left Athens together at the invitation of Hermeias of Atarneus (Strabo, *Geography*, XIII 57), and Xenocrates returned to succeed Speusippus. According to D.L. (IV 3 = T 21 IP), this was at Speusippus’ request, while the *Academicorum Index Herculanensis* (cols. 6,41–7,18: Fleischer 2018, 175–176 = T 1 IP)[^fleischer-2018] tells us that the younger members of the Academy voted —for the first time—and confirmed Xenocrates (over Heraclides of Pontus and Menedemus of Pyrrha) by a narrow margin as the first elected head of the school. These two accounts, although not incompatible, offer two different versions of the succession, and it does not appear possible to get behind them to what really happened.
+On the death of Plato, when Speusippus became head of the Academy, Xenocrates and Aristotle may have left Athens together at the invitation of Hermeias of Atarneus (Strabo, *Geography*, XIII 57), and Xenocrates returned to succeed Speusippus. According to D.L. (IV 3 = T 21 IP), this was at Speusippus’ request, while the *Academicorum Index Herculanensis* (cols. 6,41–7,18: Fleisher 2018, 175–176 = T 1 IP) tells us that the younger members of the Academy voted —for the first time—and confirmed Xenocrates (over Heraclides of Pontus and Menedemus of Pyrrha) by a narrow margin as the first elected head of the school. These two accounts, although not incompatible, offer two different versions of the succession, and it does not appear possible to get behind them to what really happened.
 
 D.L.’s bibliography (IV 11–14 = T 2 IP) lists over seventy titles attributed to Xenocrates, none of which survives, not even in the form of clearly identifiable quotations in other authors. As with Speusippus, the reconstruction of Xenocrates’ doctrines depends heavily on Aristotle who, frustratingly, often refrains from naming Xenocrates explicitly. Although Aristotle never directly names Xenocrates when discussing his philosophical views, possible references to his doctrines are signalled through certain recurring formulas; for instance, when Aristotle speaks of “those who posited the Forms” (a phrase that often includes Plato and Xenocrates), of “those who posited one nature for mathematical objects and Forms,” or of “those who defined the soul as ‘self-moving number’” (more on this below).
 
@@ -65,7 +65,7 @@ Then he says (6b6–10):
 
 So, while Aristotle portrays Xenocrates’ account of the universe as granting continuity to the universe (in contrast to that of Speusippus), Theophrastus emphasizes its comprehensiveness: Xenocrates provides an account that encompasses every level of reality, from intelligibles to perceptibles (on Xenocrates’ bridging of metaphysical entities to perceptibles, see Horky 2022)[^horky-2022].
 
-Besides offering a general breakdown of the components of Xenocrates’ world (an attempt to reconcile this evidence with other testimonia can be found in Horky 2013)[^horky-2013], Theophrastus’ mention of ‘divine things’ is particularly noteworthy. The claim that these, too, received a specific account and were accommodated within the system appears to reflect a broader tendency, already detectable in Plato’s later dialogues, and further developed within the Academy (especially in the *Epinomis*; see Aronadio-Tulli-Petrucci 2018 and Calchi 2023)[^aronadio-2018][^calchi-2023], to associate traditional gods with metaphysical principles and celestial bodies, thus drawing theology into the domain of metaphysics (for this tendency in the Academy, see Thiel 2006; Dillon 2020; Bartninkas 2023)[^bartninkas-2023][^dillon-2020][^thiel-2006]. A passage in Aëtius (Aëtius, I, 7 30 = fr. 133 IP, see Mansfeld-Runia 2020, 400 n. *ad* §20)[^mansfeld-2020] seems to reflect precisely this kind of theological-metaphysical integration. It reports that Xenocrates identified the One and the Dyad as gods — the former male, the latter female—, regarded the heavenly bodies as divine, and populated his sublunary world with *daimones*. How much of the information preserved in this testimony can be taken at face value is difficult to determine, as reconciling its details with what we know of Xenocrates’ metaphysics raises several problems (as Dillon 2003 rightly notes, against the interpretation proposed by Baltes 1988 and largely accepted by Thiel 2006)[^baltes-1988][^dillon-2003][^thiel-2006]. Yet, even if the specifics are uncertain, this and similar passages still testify to the general tendency to bridge metaphysics and theology.
+Besides offering a general breakdown of the components of Xenocrates’ world (an attempt to reconcile this evidence with other testimonia can be found in Horky 2013)[^horky-2013][^horky-2013-2], Theophrastus’ mention of ‘divine things’ is particularly noteworthy. The claim that these, too, received a specific account and were accommodated within the system appears to reflect a broader tendency, already detectable in Plato’s later dialogues, and further developed within the Academy (especially in the *Epinomis*; see Aronadio-Tulli-Petrucci 2018 and Calchi 2020)[^aronadio-2018], to associate traditional gods with metaphysical principles and celestial bodies, thus drawing theology into the domain of metaphysics (for this tendency in the Academy, see Thiel 2006; Dillon 2020; Bartninkas 2023)[^bartninkas-2023][^dillon-2020][^thiel-2006]. A passage in Aëtius (Aëtius, I, 7 30 = fr. 133 IP, see Mansfeld-Runia 2020, 400 n. *ad* §20)[^mansfeld-2020] seems to reflect precisely this kind of theological-metaphysical integration. It reports that Xenocrates identified the One and the Dyad as gods — the former male, the latter female—, regarded the heavenly bodies as divine, and populated his sublunary world with *daimones*. How much of the information preserved in this testimony can be taken at face value is difficult to determine, as reconciling its details with what we know of Xenocrates’ metaphysics raises several problems (as Dillon 2003 rightly notes, against the interpretation proposed by Baltes 1988 and largely accepted by Thiel 2006)[^baltes-1988][^dillon-2003][^thiel-2006]. Yet, even if the specifics are uncertain, this and similar passages still testify to the general tendency to bridge metaphysics and theology.
 
 We hear more about the gods, *daimones*, and men from Plutarch, who tells us (*De defectu oraculorum* 416c-d = fr. 142 IP) that Xenocrates associated them with types of triangles: gods with equilateral ones, *daimones* with isosceles ones, and men with scalene triangles. Just as isosceles triangles are intermediate between equilateral and scalene triangles, so *daimones* occupy an intermediate position between gods and men. Another version of this association between the souls of *daimones* and triangles is recorded by Proclus (Procl. *In Resp*. 2, 48,4ff. Kroll = fr. 143 IP). More generally, Xenocrates appears to have been the first to develop Plato’s scattered references to the ‘*daimonion*’ into a more systematic daemonological framework (Timotin 2012)[^timotin-2012]. On Xenocrates’ view, daemons can seemingly be good or evil, but in some testimonia, individual souls themselves appear to be identified with their daemons, whose moral stature determines their happiness, as Aristotle records (Arist. *Topics* II, 6 112a 32–37 = fr. 154 IP).
 
@@ -149,7 +149,7 @@ As of the 2025 update, Giulia De Cesaris has taken responsibility for updating a
 
 [^available-nd]: Available collections of fragments:
 
-[^heinze-1892]: Heinze, R., 1892 [1965], *Xenocrates*, Stuttgart: Teubner; reprinted, Hildesheim: G. Olms, 1965.
+[^heinze-1892]: Heinze, R., 1892 [1965], *Xenocrates*, Stuttgart: Teubner, 1892; reprinted, Hildesheim: G. Olms, 1965.
 
 [^isnardi-1982]: Isnardi Parente, M., 1982, *Senocrate-Ermodoro: Frammenti*, Naples: Bibliopolis, 1982; includes an Italian translation of the fragments.
 
@@ -165,7 +165,7 @@ As of the 2025 update, Giulia De Cesaris has taken responsibility for updating a
 
 [^burnyeat-1987]: Burnyeat, M.F., 1987, “Platonism and Mathematics: A Prelude to Discussion,” in A. Graeser (ed.), *Mathematics and Metaphysics in Aristotle*, Bern & Stuttgart: Verlag Paul Haupt, 213–240.
 
-[^calchi-2023]: Calchi, V., 2023, *The Theology of the Epinomis*, Abingdon; New York: Routledge.
+[^calchi-2023]: Calchi, V,. 2023, *The Theology of the* Epinomis, Abingdon; New York: Routledge.
 
 [^carter-2019]: Carter, J., 2019, *Aristotle on Earlier Greek Psychology. The Science of Soul*, Cambridge: Cambridge University Press.
 
@@ -175,19 +175,19 @@ As of the 2025 update, Giulia De Cesaris has taken responsibility for updating a
 
 [^dancy-1999]: Dancy, R.M., 1999, “The Categories of Being in Plato’s *Sophist* 255c–e,” *Ancient Philosophy*, 19: 45–72.
 
-[^dancy-2021]: –––, 2021, “Xenocrates”, *The Stanford Encyclopedia of Philosophy* (Summer 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2021/entries/xenocrates/](https://plato.stanford.edu/archives/sum2021/entries/xenocrates/)>.
+[^dancy-2021]: –– 2021, “Xenocrates”, *The Stanford Encyclopedia of Philosophy* (Summer 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2021/entries/xenocrates/](https://plato.stanford.edu/archives/sum2021/entries/xenocrates/)>.
 
 [^de-2023a]: De Cesaris, G., 2023a, “The So-Called Sempiternalism of the Early Academy”, *Méthexis*, 35: 5–28.
 
-[^de-2023b]: –––, 2023b, “La virtù nell’Academia Antica: il caso di Senocrate,” in A. Motta (ed.), *Platone e la questione della virtù*, Napoli: Loffredo Editore, 179–194.
+[^de-2023b]: –– 2023b, “La virtù nell’Academia Antica: il caso di Senocrate,” in A. Motta (ed.), *Platone e la questione della virtù*, Napoli: Loffredo Editore, 179–194.
 
 [^dillon-2003]: Dillon, J., 2003, *The Heirs of Plato: A Study of the Old Academy (347–274 BC)*, Oxford: Clarendon Press.
 
-[^dillon-2012]: –––, 2012, “The Timaeus in the Old Academy,” in Id. *The Platonic Heritage. Further Studies in the History of Platonism and Early Christianity*, London: Routledge, 80–94.
+[^dillon-2012]: –– 2012, “The Timaeus in the Old Academy,” in Id. *The Platonic Heritage. Further Studies in the History of Platonism and Early Christianity*, London: Routledge, 80–94.
 
-[^dillon-2020]: –––, 2020, “The World-Soul Takes Command: The Doctrine of the World-Soul in the *Epinomis* of Philip of Opus and in the Academy of Polemon,” in C. Helmig (ed.), *World Soul – Anima Mundi: On the Origins and Fortunes of a Fundamental Idea*, Berlin: De Gruyter, 155–66.
+[^dillon-2020]: –– 2020, “The World-Soul Takes Command: The Doctrine of the World-Soul in the *Epinomis* of Philip of Opus and in the Academy of Polemon,” in C. Helmig (ed.), *World Soul – Anima Mundi: On the Origins and Fortunes of a Fundamental Idea*, Berlin: De Gruyter, 155–66.
 
-[^dörrie-1998]: Dörrie, H., Baltes, M., 1998, *Der Platonismus in der Antike. Die philosophische Lehre des Platonismus*, Stuttgart-Bad Cannstatt.
+[^dörrie-1998]: Dörrie, H., Baltes, M., 1998, *Der Platonismus in der Antike. Die philosophisce Lehre des Platonismus*, Stuttgart-Bad Cannstatt.
 
 [^fleischer-2018]: Fleischer, K. J., 2018, *Philodem, Geschichte der Akademie*, Leiden: Brill.
 
@@ -199,25 +199,29 @@ As of the 2025 update, Giulia De Cesaris has taken responsibility for updating a
 
 [^granieri-2021]: Granieri, R., 2021, “Xenocrates and the Two-Category Scheme,” *Apeiron*, 54: 261–285.
 
-[^gutas-2010]: Gutas, D., 2010, *Theophrastus: On First Principles (known as his Metaphysics)*, Leiden-Boston: Brill.
+[^gutas-2010]: Gutas, D., 2010, *Theophrastus* On First Principles (*known as his* Metaphysics), Leiden-Boston: Brill.
 
 [^heath-1926]: Heath, T.L., 1926 [1956], *The Thirteen Books of Euclid’s Elements* (3 volumes), 2nd edition, Cambridge: Cambridge University Press, 1926; reprinted, New York: Dover, 1956.
 
-[^horky-2013]: Horky, Philip Sidney, 2013, “Theophrastus on Platonic and ‘Pythagorean’ Imitation”, *Classical Quarterly*, 63: 686–712.
+[^horky-2013]: Horky P.S., 2013, “Theophrastus on Platonic and ”Pythagorean“ imitation’,” *The Classical Quarterly*, 63: 686–712.
 
-[^horky-2022]: –––, 2022, “Aristotle’s Intermediates and Xenocrates’ Mathematicals,” *Revue de Philosophie Ancienne*, 40: 79–112.
+[^horky-2013-2]: Horky, Philip Sidney, 2013, “Theophrastus on Platonic and ‘Pythagorean’ Imitation”, *Classical Quarterly*, 63: 686–712.
 
-[^mansfeld-2020]: Mansfeld, J., and D. Runia, 2020, *Aëtiana V (4 vols.). An Edition of the Reconstructed Text of the Placita with a Commentary and a Collection of Related Texts*, Leiden: Brill.
+[^horky-2022]: –– 2022, “Aristotle’s Intermediates and Xenocrates’ Mathematicals,” *Revue de Philosophie Ancienne*, 40: 79–112.
+
+[^isnardi-2012-2]: Isnardi Parente, Margherita, 2012, *Senocrate-Ermodoro: Frammenti*, Naples: Bibliopolis, 1982 (includes an Italian translation of the fragments); new, revised edition, by T. Dorandi, Pisa: Edizioni della Normale.
+
+[^mansfeld-2020]: Mansfeld, J., Runia, D, 2020, *Aëtiana V (4 vols.). An Edition of the Reconstructed Text of the Placita with a Commentary and a Collection of Related Texts*, Leiden: Brill.
 
 [^opsomer-2020]: Opsomer, J, 2020, “The Platonic Soul. From the Early Academy to the First Century BCE,” in J. Warren, B. Inwood (eds.), *The Metaphysics of the Soul*, Cambridge: Cambridge University Press, 171–198.
 
-[^petrucci-2022]: Petrucci, F., 2022, *Platone. Timeo*. Introduzione a cura di F. Ferrari, Milano: Fondazione Lorenzo Valla (Mondadori).
+[^petrucci-2022]: Petrucci, F., 2022, “Platone. *Timeo*”. Introduzione a cura di F. Ferrari, Milano: Fondazione Lorenzo Valla (Mondadori).
 
 [^pines-1961]: Pines, S., 1961, “A New Fragment of Xenocrates and Its Implications,” *Transactions of the American Philological Association*, 51: 3–34.
 
-[^raffa-2016]: Raffa, M., 2016, *Claudio Tolemeo. Armonica. Con il Commentario di Porfirio*, Milano: Bompiani.
+[^raffa-2016]: Raffa, M., 2016, *Claudio Tolemeo.* Armonica*. Con il Commentario di Porfirio*, Milano: Bompiani.
 
-[^rashed-2004]: Rashed, M., 2004, “Priorité de l’EΙΔΟΣ ou du ΓΕΝΟΣ entre Andronicos et Alexandre: Vestiges Arabes et Grecs Inédits,” *Arabic Sciences and Philosophy*, 14: 9–63.
+[^rashed-2004]: Rashed, M., 2004, “Priorité de l’EΙΔΟΣ ou du ΓΕΝΟΣ entre Andronicos et Alexandre: Vestiges Arabes et Grecs Inédits,” *Αrabic Sciences and Philosophy*, 14: 9–63.
 
 [^reydams-schils-2012]: Reydams-Schils, G., 2012, “The Academy, the Stoics and Cicero on Plato’s Timaeus,” in A.G. Long (ed.), *Plato and the Stoics*, Cambridge: Cambridge University Press.
 
@@ -227,6 +231,6 @@ As of the 2025 update, Giulia De Cesaris has taken responsibility for updating a
 
 [^thiel-2006]: Thiel, D., 2006, *Die Philosophie des Xenokrates im Kontext der Alten Akademie*, Munich-Leipzig: Saur Verlag.
 
-[^timotin-2012]: Timotin, A., 2012, *La démonologie platonicienne. Histoire de la notion de daimōn de Platon aux derniers néoplatoniciens*, Leiden-Boston: Brill.
+[^timotin-2012]: Timotin, A., 2012, *La démonologie platonicienne. Histoire de la notion de daimōn de Platon aux derniers néoplatoniciens*, Brill: Leiden-Boston.
 
 [^watts-2007]: Watts, Edward, 2007, “Creating the Academy: Historical Discourse and the Shape of Community in the Old Academy,” *The Journal of Hellenic Studies*, 127: 106–122.
