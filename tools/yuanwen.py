@@ -74,24 +74,51 @@ GREEK_UNI = {
 GREEK_C_DEFER = {'Delta', 'mu', 'Omega', 'Sigma', 'Lambda'}
 # SEP 原文裸排显示环境（MathJax processEnvironments 语义）：不包裹则 markdown
 # 把 \\ 行分隔吃成 \ 且未被 math-plugin 保护（specs/032 F1 实证 axiom-choice）。
-NAKED_ENV_RE = re.compile(
-    r'(?<!\$)\\begin\{(align\*?|aligned|gather\*?|gathered|multline\*?|equation\*?|'
-    r'eqnarray\*?|displaymath)\}[\s\S]*?\\end\{\1\}(?!\$)')
+ENV_SPAN_RE = re.compile(
+    r'\\begin\{(align\*?|aligned|gather\*?|gathered|multline\*?|equation\*?|'
+    r'eqnarray\*?|displaymath)\}[\s\S]*?\\end\{\1\}')
 
 
-def _wrap_naked_env(m):
-    """裸排显示环境包 `$$`（ADR-0049 决策 6）；已定界者不动。
+def wrap_naked_envs(s):
+    r"""裸排显示环境包 `$$`（ADR-0049 决策 6）——状态感知，只包数学之外的裸环境。
 
-    守卫须容忍空白：SEP 输出形如 `$$ \\begin{align}…\\end{align} $$`（`$$` 与
-    `\\begin` 之间有空格），紧邻 lookaround 会漏判并造成**双重包裹**
-    （2026-11-16 全量重转实测 90 件、484 处）。
+    两代缺陷的教训（2026-11-16 全量重转＋真页面实测）：
+      1. 紧邻 lookaround 只看一个字符，`$$ \begin{align}` 隔空格即漏判 → 双重包裹；
+      2. 只看紧邻不看上下文，数学**内部**的环境也被再包一层
+         （`$$ \frac{\begin{gathered}…}{} $$`）→ 页面 MathJax 报
+         “Extra close brace or missing open brace”。
+    故按 `$$`/`$` 开关状态判定：处于任一定界内一律原样；状态按行重置
+    （还原后的公式单行不跨行，避免游离 `$` 污染后续行）。
     """
-    s = m.string
-    if s[:m.start()].rstrip(' \t').endswith('$$'):
-        return m.group(0)
-    if s[m.end():].lstrip(' \t').startswith('$$'):
-        return m.group(0)
-    return '$$' + m.group(0) + '$$'
+    out = []
+    display = inline = False
+    i, n = 0, len(s)
+    while i < n:
+        ch = s[i]
+        if ch == '\n':
+            display = inline = False
+            out.append(ch)
+            i += 1
+            continue
+        if s.startswith('$$', i):
+            display = not display
+            out.append('$$')
+            i += 2
+            continue
+        if ch == '$':
+            inline = not inline
+            out.append(ch)
+            i += 1
+            continue
+        m = ENV_SPAN_RE.match(s, i)
+        if m:
+            out.append(m.group(0) if (display or inline) else '$$' + m.group(0) + '$$')
+            i = m.end()
+            continue
+        out.append(ch)
+        i += 1
+    return ''.join(out)
+
 
 
 def strip_closed_comments(region):
@@ -429,7 +456,7 @@ def inline_to_md(html, slug=None):
             v = '$$' + v[2:-2] + '$$'
         s = s.replace('\x00%d\x00' % idx, v)
     # ADR-0049 转换层并入：裸排显示环境补 $$ 包裹（防 markdown 吃 \\ 行分隔）
-    s = NAKED_ENV_RE.sub(_wrap_naked_env, s)
+    s = wrap_naked_envs(s)
     for idx, val in enumerate(tstore):
         # 嵌套表段原样还原：不解码、不归一（HTML 段不参与 markdown 处理）
         s = s.replace('\x00T%d\x00' % idx, val)

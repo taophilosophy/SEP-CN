@@ -316,7 +316,7 @@ $$ \neg A \leftrightarrow \exists n \alpha_1(n) = 1 \ \ \ \ \neg\neg A \leftrigh
 
 Associate with these two sequences the real numbers $r_0$ and $r_1$, where for $i=0,1$:
 
-$$ r_i(n) = \begin{cases} 0 & \text{ if \(\alpha_i(n)\neq 1\)} \\ (-1)^i2^{-m} & $$\begin{align} &\text{if for some \(m\leq n\), \(\alpha_i(m)=1\) and } \\ & \text{for no \(k \lt m\), \(\alpha_i(k)=1.\)} \end{align}$$ \end{cases} $$
+$$ r_i(n) = \begin{cases} 0 & \text{ if \(\alpha_i(n)\neq 1\)} \\ (-1)^i2^{-m} & \begin{align} &\text{if for some \(m\leq n\), \(\alpha_i(m)=1\) and } \\ & \text{for no \(k \lt m\), \(\alpha_i(k)=1.\)} \end{align} \end{cases} $$
 
 Then for $r=r_0 + r_1$, statement $\neg A \vee \neg\neg A$ is implied by $(r\gt 0\vee r\lt 0)$, which shows that $(r\gt 0\vee r\lt 0)$ cannot be proved.
 

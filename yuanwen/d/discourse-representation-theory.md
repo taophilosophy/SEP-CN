@@ -523,7 +523,7 @@ By way of illustration, the mental state representation below describes my *de r
 
 **[13a]**
 
-internal mental state: $$\cb{$$\begin{multline} \{ \langle \textrm{ANCH } \R{x}, [\R{x}: \textrm{cup}(\R{x}), \textrm{hold}(\R{i},\R{x})]\rangle ,\\ \langle \textrm{BEL}, [\R{y}: \textrm{contains}(\R{x},\R{y}), \textrm{coffee}(\R{y})]\rangle ,\\ \langle \textrm{DES}, [: \textrm{warm}(\R{y})]\rangle \} \end{multline}$$}$$
+internal mental state: $$\cb{\begin{multline} \{ \langle \textrm{ANCH } \R{x}, [\R{x}: \textrm{cup}(\R{x}), \textrm{hold}(\R{i},\R{x})]\rangle ,\\ \langle \textrm{BEL}, [\R{y}: \textrm{contains}(\R{x},\R{y}), \textrm{coffee}(\R{y})]\rangle ,\\ \langle \textrm{DES}, [: \textrm{warm}(\R{y})]\rangle \} \end{multline}}$$
 
 **[13b]**
 

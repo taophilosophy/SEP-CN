@@ -80,3 +80,21 @@
 | 残差登记 | 剩余 28 处＝**22 处单 `$` 包裹显示环境**（`$\begin{align*}…$`）＋6 处其他排布；R2 未覆盖的另一类，未修，列 P5 残差待体例裁定（改 `$$` 属改既有形态） |
 | 口径意义 | 本次重转让 `yuanwen` 首次真正等于 `convert(en ⊕ patches)`；"存量不回改"期间派生物与转换器已脱钩，双包缺陷即其证据 |
 
+## 2026-11-16 · P5 续：R2 改状态感知（真页面实测驱动）
+
+上节"残差 28 处"经**真页面渲染**复核后大幅修正——多数是我文本普查器的假阳性。
+
+| 项 | 结果 |
+| ---- | ---- |
+| 渲染验证方法 | dev 服务器（端口 81）＋Chrome headless CDP（`specs/038` 的 mob.mjs 复用），取 `g[data-mml-node="merror"]` 与字面 `$$` 计数 |
+| **单 `$` 包 `align*`（negation 4 处）** | **渲染正常**：`display=null` 但 `mtable` 正常、段落高度容纳、无裁切无重叠（间距 16px vs 块级 20px，仅视觉略紧）。**判定非缺陷，不改**，登记口径 |
+| 真缺陷（第二次 R2 缺陷） | **数学内部的环境被再包一层**：`$$ \frac{$$…$$}{} $$`、`$$\left[ $$…`、`& $$…`。页面实测 hempel 2 merror（“Extra close brace or missing open brace”）＋4 处字面 `$$`，social-choice 4、word-meaning 2、qm 5 |
+| 根因 | R2 守卫只看紧邻一个字符，看不出"该环境已在 `$$…$$`/`$…$` 内部" |
+| 修法 | `wrap_naked_envs` 改为**单遍状态机**：`$$`/`$` 开关判定定界内/外，状态按行重置（还原后公式单行）；数学内一律原样。`test_yuanwen` **62 例全绿** |
+| 重转（第三轮） | 0 失败，**仅 8 件 9 行**改动（全部为删除嵌套 `$$`）：discourse／hempel／intuitionism／principia／qm-consistent-histories／social-choice／type-theory-church／word-meaning |
+| 复探 | hempel **0**、social-choice **0**；`{$$` 残留全库 **0** |
+| 剩余 4 处（上游内容，非转换层） | word-meaning 1：`\left[ \begin{align*}…\end{align*} \right]` 环境嵌进矩阵括号（上游 TeX 结构）；qm 3：重复 `\label` 名。按 ADR-0062 不改 en/、不属转换器缺陷，登记待勘误表定性 |
+| 门禁 | `check_all` 11 项全绿 |
+| 附带发现（登记） | `baseline/entries.json` 每次全量重转都把**全部**词条的 `converted_at` 刷新，内容未变者也刷新 → 本次 1881 行时间戳抖动，掩盖真变更、增大并行冲突面。建议转换器改为「md 字节未变则不写/不更新时间戳」，另立小卡 |
+
+

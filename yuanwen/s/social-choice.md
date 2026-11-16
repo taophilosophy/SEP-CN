@@ -67,7 +67,7 @@ An *aggregation rule* is a function $f$ that assigns to each profile $\langle v_
 
 > *Majority rule*: For each profile $\langle v_1, v_2 , \ldots ,v_n\rangle$,
 >
-> $$ f(v_1,v_2,\ldots,v_n) = \begin{cases} 1 & $$\begin{aligned} &\text{if } v_1+v_2+\cdots+v_n \gt 0 \\ &\text{(there are more 1s than -1s)}\end{aligned}$$ \\ 0 & $$\begin{aligned} &\text{if } v_1+v_2+\cdots+v_n = 0 \\ &\text{(there are as many 1s as -1s)}\end{aligned}$$\\ -1 & $$\begin{aligned} &\text{if } v_1+v_2+\cdots+v_n \lt 0\\ &\text{(there are more -1s than 1s)}\end{aligned}$$ \end{cases}$$
+> $$ f(v_1,v_2,\ldots,v_n) = \begin{cases} 1 & \begin{aligned} &\text{if } v_1+v_2+\cdots+v_n \gt 0 \\ &\text{(there are more 1s than -1s)}\end{aligned} \\ 0 & \begin{aligned} &\text{if } v_1+v_2+\cdots+v_n = 0 \\ &\text{(there are as many 1s as -1s)}\end{aligned}\\ -1 & \begin{aligned} &\text{if } v_1+v_2+\cdots+v_n \lt 0\\ &\text{(there are more -1s than 1s)}\end{aligned} \end{cases}$$
 >
 > *Dictatorship*: For each profile $\langle v_1, v_2 , \ldots ,v_n\rangle$,
 >

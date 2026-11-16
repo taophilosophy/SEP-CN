@@ -93,7 +93,7 @@ Using ${\mathcal F}_2$ allows a discussion of whether $[0]$ or $[1]$ is the case
 
 But is not insisting on the use of ${\mathcal F}_2$ rather than ${\mathcal F}_1$ an absolutely trivial matter best left to esoteric discussions among philosophers? No it is not, as can be seen by introducing a third framework:
 
-$$\begin{equation} $$\begin{aligned}[t] {\mathcal F}_3 & :\ \{ [+],\ [-],\ I-[+]-[-]\};\\ |+\rangle & := (|0\rangle +|1\rangle )/\sqrt{2},\\ |-\rangle & := (|0\rangle -|1\rangle )/\sqrt{2}. \end{aligned}$$ \label{eqn9} \end{equation} $$
+$$\begin{equation} \begin{aligned}[t] {\mathcal F}_3 & :\ \{ [+],\ [-],\ I-[+]-[-]\};\\ |+\rangle & := (|0\rangle +|1\rangle )/\sqrt{2},\\ |-\rangle & := (|0\rangle -|1\rangle )/\sqrt{2}. \end{aligned} \label{eqn9} \end{equation} $$
 
 Since $R|+\rangle = |+\rangle$ and $R|-\rangle = |-\rangle$, both of these have the property $R$. On the other hand, neither has a precise, well defined energy. Since the time development of a state with a precisely defined energy is rather trivial—it does not change—when one is interested in a situation with significant time development the discussion may require the use of something like the framework ${\mathcal F}_3$. Obviously ${\mathcal F}_2$ and ${\mathcal F}_3$ are incompatible, though both are refinements of ${\mathcal F}_1$. Ignoring quantum incompatibility, which has no counterpart in classical physics, can easily lead to quantum paradoxes.
 

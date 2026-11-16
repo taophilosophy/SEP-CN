@@ -515,15 +515,16 @@ class TestAdr0049ConverterRules(unittest.TestCase):
 
 
 class TestNakedEnvGuard(unittest.TestCase):
-    """R2 裸排环境包裹守卫（ADR-0049 决策 6）：已定界者不动，裸排才包。
+    """R2 裸排环境包裹守卫（ADR-0049 决策 6）：只包数学之外的裸环境。
 
-    回归背景（2026-11-16 全量重转）：SEP 输出 `$$ \\begin{align}…\\end{align} $$`
-    （`$$` 与 `\\begin` 之间有空格），紧邻 lookaround 漏判 → 双重包裹 90 件 484 处。
+    回归背景（2026-11-16）：SEP 输出 `$$ \begin{align}…\end{align} $$`（相隔空格）
+    曾被紧邻 lookaround 漏判 → 双重包裹；数学**内部**的环境也被再包一层 →
+    页面 MathJax 报 “Extra close brace or missing open brace”（真页面实测）。
     """
 
     def _wrap(self, s):
-        from tools.yuanwen import NAKED_ENV_RE, _wrap_naked_env
-        return NAKED_ENV_RE.sub(_wrap_naked_env, s)
+        from tools.yuanwen import wrap_naked_envs
+        return wrap_naked_envs(s)
 
     def test_already_delimited_with_space_untouched(self):
         s = '$$ \\begin{align} a &= b \\end{align} $$'
@@ -540,6 +541,21 @@ class TestNakedEnvGuard(unittest.TestCase):
     def test_no_double_dollar_created(self):
         s = '$$ \\begin{gather} x \\end{gather} $$'
         self.assertEqual(self._wrap(s).count('$$'), 2)
+
+    def test_env_inside_display_untouched(self):
+        # hempel 形态：\frac{} 里的 gathered 属数学内部，包了即报错
+        s = '$$ \\frac{\\begin{gathered} x \\\\ y \\end{gathered}}{\\neg Rc} $$'
+        self.assertEqual(self._wrap(s), s)
+
+    def test_env_inside_inline_dollar_untouched(self):
+        # negation 形态：单 $ 内的 align* 渲染正常，不得改写
+        s = '$\\begin{align*} A \\vdash B \\end{align*}$'
+        self.assertEqual(self._wrap(s), s)
+
+    def test_bare_env_after_closed_display_wrapped(self):
+        s = '$$ a $$\n\n\\begin{align} b \\end{align}'
+        self.assertEqual(self._wrap(s), '$$ a $$\n\n$$\\begin{align} b \\end{align}$$')
+
 
 
 def render_one_table(full_html):
