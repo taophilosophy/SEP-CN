@@ -317,29 +317,27 @@ belief | certainty | consciousness | consciousness: and intentionality | conscio
 
 [^note-1]: But consider the following passage from Locke.
 
-> [It is] impossible for any one to perceive, without perceiving that he does perceive. When we see, hear, smell, taste, feel, meditate, or will any thing, we know that we do so. (Locke 1689/1975 II.27.ix)[^locke-1689]
+> [It is] impossible for any one to perceive, without perceiving that he does perceive. When we see, hear, smell, taste, feel, meditate, or will any thing, we know that we do so (1689/1975 II.27.ix).
 
-Is Locke really saying that all of our thoughts and sensations are accompanied by (justified, true) beliefs about those thoughts and sensations? It is more likely that this statement expresses the “higher-order” theory of consciousness, according to which conscious states—which for Locke include thoughts and sensations—are states one is conscious *of*.
+Is Locke really saying that all of our thoughts and sensations are accompanied by (justified, true) beliefs about those thoughts and sensations? It is more likely that this statement expresses the “higher-order” theory of consciousness, according to which conscious states—which for Locke include thoughts and sensations—are states one is conscious *of*.
 
-[^note-2]: One reaction to this worry is to construe privileged self-knowledge as exclusively concerning the epistemic status of self-attributions. Self-attributions may be especially secure even if they result from a process that changes their objects. Compare: Opening the refrigerator door may allow me to know that the light is on *at that moment* even if my opening the door turns the light on. In effect, this is to deny the idea that what’s special about self-knowledge is a matter of *access*, since to impute privileged access is to say that one has some special way of grasping a fact, *prior to* actually grasping it. (This point is discussed further in 3.5.)
+[^note-2]: One reaction to the latter worry is to construe privileged self-knowledge as exclusively concerning the epistemic status of self-attributions. Self-attributions may be especially secure even if they result from a process that changes their objects. Compare: Opening the refrigerator door may allow me to know that the light is on *at that moment* even if my opening the door turns the light on. In effect, this is to deny the idea that what’s special about self-knowledge is a matter of *access*, since to impute privileged access is to say that one has some special way of grasping a fact, *prior to* actually grasping it. (This point is discussed further in Section 3.5.)
 
-[^note-3]: Externalists about mental content maintain that the content of such attitudes are individuated by relation to environmental factors. Externalism's implications for self-knowledge are disputed, and this issue has generated a vast literature. I will largely ignore this issue here, as it is amply treated in the entry on externalism and self-knowledge.
+[^note-3]: Externalists about mental content maintain that the content of such attitudes are individuated by relation to environmental factors, as opposed to how they seem to the subject introspectively. Externalism’s implications for self-knowledge are disputed, and this issue has generated a vast literature. We will largely ignore this issue here, as it is amply treated in the entry on externalism and self-knowledge.
 
-[^note-4]: An interesting side note: inner sense theorists often accept the higher-order perception theory of consciousness. On this theory, conscious states are just those mental states of which the subject has higher-order, quasi-perceptual awareness (see the entry on higher-order theories of consciousness). Combining an inner sense account with a HOP theory of consciousness is one approach to the problem of consciousness (see the entry on consciousness).
+[^note-4]: An interesting side note: inner sense theorists often accept the higher-order perception theory of consciousness. On this theory, conscious states are just those mental states of which the subject has higher-order, quasi-perceptual awareness (see the entry on higher-order theories of consciousness). Combining an inner sense account with a HOP theory of consciousness is one approach to the nature of consciousness (see the entry on consciousness).
 
-[^note-5]: In an earlier paper, Byrne expresses this point in terms of following the rule “If *p*, believe that you believe that *p*” (Byrne 2005)[^byrne-2005].
+[^note-5]: While Salje’s account is most naturally categorized as a self-interpretation account of self-knowledge, it also shares some features with other accounts of self-knowledge. According to Salje, the process of gaining articulatory self-knowledge doesn’t just involve interpreting one’s own thoughts, it also generates new thoughts that we come to know in the process of expressing them (or trying to express them). As we will see, some of these are features of agentialist and expressivist accounts of self-knowledge (see Sections 3.7 and 3.8 respectively).
 
-[^note-6]: By invoking safety, Byrne blocks the objection that the doxastic schema cannot yield knowledge in any case where the first-order belief (the premise *p*) is false. That objection stems from a popular diagnosis of Gettier cases, namely that inference resting on a false premise cannot yield knowledge (see section 3 of the entry on the analysis of knowledge). As Byrne observes, the idea that knowledge requires safety provides for an alternative diagnosis of Gettier cases.
+[^note-6]: In an earlier paper, Byrne expresses this point in terms of following the rule “If *p*, believe that you believe that *p*” (Byrne 2005)[^byrne-2005].
 
-[^note-7]: The reasons account also aims to accommodate an intuition at the core of agentialist accounts (see 3.7): that in self-attributing (or “avowing”) the belief that taxes on the wealthy should be increased, say, one does not simply register this belief as one might register the presence of an itch, but in effect *commits* oneself to it.
+[^note-7]: The reasons account also aims to accommodate an intuition at the core of agentialist accounts (see Section 3.7): that in self-attributing (or “avowing”) the belief that taxes on the wealthy should be increased, say, one does not simply register this belief as one might register the presence of an itch, but in effect *commits* oneself to it.
 
-> [W]hen a self-ascription of a reason-led state [e.g., a belief or intention] is made on the basis of the occurrence of a conscious state in this way, it is not a mere report of that state. It involves the same kind of endorsement and commitment as would be made in entering the first-order, reason-led state itself. (Peacocke 1999: 235)[^peacocke-1999]
+> [W]hen a self-ascription of a reason-led state [e.g., a belief or intention] is made on the basis of the occurrence of a conscious state in this way, it is not a mere report of that state. It involves the same kind of endorsement and commitment as would be made in entering the first-order, reason-led state itself (Peacocke 1999, 235)[^peacocke-1999].
 
 [^note-8]: “Constitutivism” is sometimes used differently, to refer to the thesis that self-attribution of a mental state *constitutes* being in that mental state.
 
-[^note-9]: For Burge, “entitlements are epistemic rights or warrants that need not be understood by or even accessible to the subject” (Burge 1993: 458)[^burge-1993]. In addition to the kind of *permissibility* described here, Burgean entitlement also involves reliability: judgments to which one is epistemically entitled are “well-positioned to achieve or indicate truth in normal circumstances” (ibid.: 507).
-
-[^note-10]: Agentialism is committed to a basic division between two classes of attitudes: avowable, reasons-sensitive attitudes, and reasons-insensitive attitudes. It thus stands in stark opposition not only to purely epistemic accounts of self-knowledge but also to Humeanism about the attitudes (see section 5.3 of the entry on David Hume).
+[^note-9]: For Burge, “entitlements are epistemic rights or warrants that need not be understood by or even accessible to the subject” (Burge 1993, 458)[^burge-1993]. In addition to the kind of *permissibility* described here, Burgean entitlement also involves reliability: judgments to which one is epistemically entitled are “well-positioned to achieve or indicate truth in normal circumstances” (1993, 507).
 
 [^andreotta-2025]: Andreotta, A. and Winokur B, (eds.), 2025, *New Perspectives on Transparency and Self-Knowledge*, New York: Routledge.
 
@@ -485,17 +483,17 @@ Is Locke really saying that all of our thoughts and sensations are accompanied b
 
 [^hill-2009]: –––, 2009, *Consciousness*, Cambridge: Cambridge University Press.
 
-[^horgan-2002]: Horgan, T. and Tienson, J., 2002, “The Intentionality of Phenomenology and the Phenomenology of Intentionality”, in Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*, Oxford: Oxford University Press, 520–533.
-
-[^horgan-2007]: Horgan, T. and U. Kriegel, 2007, “Phenomenal Epistemology: What is Consciousness That We May Know It So Well?” *Philosophical Issues*, 17: 123–144.
-
 [^horgan-2012]: Horgan, T., 2012, “Introspection About Phenomenal Consciousness”, in Smithies and Stoljar 2012: 405–421.
+
+[^horgan-2002]: Horgan, T., and J. Tienson, 2002, “The Intentionality of Phenomenology and the Phenomenology of Intentionality”, in Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*, Oxford: Oxford University Press, 520–533.
+
+[^horgan-2007]: Horgan, T., and U. Kriegel, 2007, “Phenomenal Epistemology: What is Consciousness That We May Know It So Well?” *Philosophical Issues*, 17: 123–144.
 
 [^howell-2006]: Howell, R., 2006, “Self-Knowledge and Self-Reference”, *Philosophy and Phenomenological Research*, 72: 44–70.
 
 [^hume-1739]: Hume, D., 1739–1740/1978, *A Treatise of Human Nature*, L. A. Selby-Bigge (ed.); revised by P.H. Nidditch, Oxford: Oxford University Press.
 
-[^hurlburt-2007]: Hurlburt, R. and E. Schwitzgebel, 2007, *Describing Inner Experience? Proponent Meets Skeptic*, MIT Press.
+[^hurlburt-2007]: Hurlburt, R., and E. Schwitzgebel, 2007, *Describing Inner Experience? Proponent Meets Skeptic*, MIT Press.
 
 [^james-1884]: James, W., 1884, “On Some Omissions of Introspective Psychology”, *Mind*, 33: 1–11.
 
@@ -581,7 +579,7 @@ Is Locke really saying that all of our thoughts and sensations are accompanied b
 
 [^samoilova-2024]: Samoilova Franco, K., 2024, “Pluralism about Introspection”, *Mind and Language*, 2: 293–309.
 
-[^schultheiss-1999]: Schultheiss, O. and J. Brunstein, 1999, “Goal imagery: Bridging the gap between implicit motives and explicit goals”, *Journal of Personality*, 67: 1–38.
+[^schultheiss-1999]: Schultheiss, O., and J. Brunstein, 1999, “Goal imagery: Bridging the gap between implicit motives and explicit goals”, *Journal of Personality*, 67: 1–38.
 
 [^schwitzgebel-2002]: Schwitzgebel, E., 2002, “How Well Do We Know Our Own Conscious Experience? The Case of Visual Imagery”, *Journal of Consciousness Studies*, 9(5–6): 35–53.
 
@@ -591,7 +589,7 @@ Is Locke really saying that all of our thoughts and sensations are accompanied b
 
 [^searle-1983]: Searle, J., 1983, *Intentionality*, Oxford: Oxford University Press.
 
-[^shah-2005]: Shah, N. and D. Velleman, 2005, “Doxastic Deliberation”, *Philosophical Review*, 114: 497–534.
+[^shah-2005]: Shah, N., and J.D. Velleman, 2005, “Doxastic Deliberation”, *Philosophical Review*, 114: 497–534.
 
 [^shields-2011]: Shields, C., 2011, “On Behalf of Cognitive Qualia,” in Bayne and Montague (eds.), *Cognitive Phenomenology*, Oxford: Oxford University Press, 215–235.
 

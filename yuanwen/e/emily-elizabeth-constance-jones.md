@@ -1,376 +1,314 @@
 # Emily Elizabeth Constance Jones
-**First published Fri Mar 25, 2011; substantive revision Fri Aug 7, 2020**
+**First published Fri Mar 25, 2011; substantive revision Sun Nov 15, 2026**
 
 *Ostertag, Gary*
 
-Emily Elizabeth Constance Jones (1848–1922), a contemporary of Bertrand Russell and G. E. Moore at Cambridge University, worked primarily in philosophical logic and ethics. Her most significant contribution to the former area is her application of the intension-extension distinction to singular terms, anticipating Frege’s related distinction between sense and reference and Russell’s pre-“On Denoting” distinction between meaning and denotation. Widely regarded as an authority on philosophical logic by figures as diverse as F. C. S. Schiller and G. F. Stout on the one hand and C. S. Peirce on the other, Jones appeared in published symposia alongside such eminent contemporaries as W. E. Johnson and Bernard Bosanquet and became, in 1896, the first woman to present a paper at the Cambridge Moral Sciences Club. Her major publication, *A New Law of Thought and its Logical Bearings*, published in 1911 by Cambridge University Press, contained an enthusiastic preface by Stout and was received favorably in *Mind*, where the reviewer, Schiller, remarked: “Miss Jones has made a great discovery.” In the same year, Russell delivered a paper to the Moral Sciences Club, subsequently published as “Knowledge by Acquaintance and Knowledge by Description”, responding to a critical paper by Jones, delivered to the same society some months earlier. In ethics, Jones was well known as a defender and expositor of the views of her teacher and mentor, Henry Sidgwick. (Sidgwick regarded Jones as one of his prize students.) Yet, despite the fact that she published numerous articles, a monograph and several textbooks (some going into multiple editions), and was a very visible member of the English philosophical community from the 1890s until her death in 1922, she is now almost entirely forgotten.
+Emily Elizabeth Constance Jones (1848–1922), a contemporary of Bertrand Russell and G. E. Moore at Cambridge University, worked primarily in philosophical logic and ethics. Widely regarded as an authority on philosophical logic by figures as diverse as F. C. S. Schiller and G. F. Stout on the one hand and C. S. Peirce on the other, Jones appeared in published symposia alongside such eminent contemporaries as W. E. Johnson and Bernard Bosanquet. Among her contributions to philosophical logic is her “law of significant assertion,” which maintains that predication consists in “an identity of denotation” combined with “diversity of intension.” She here anticipates, in rough outline, Frege’s distinction between sense and reference—although her own distinction is grafted onto a conception of logical form entirely alien to Frege’s. Her major publication, *A New Law of Thought and its Logical Bearings* (Cambridge University Press, 1911), contains an enthusiastic preface by Stout and was received favorably in *Mind*. In the same year, Russell delivered a paper to the Cambridge Moral Sciences Club, subsequently published as “Knowledge by Acquaintance and Knowledge by Description,” responding to a critical paper by Jones, itself delivered to the same society some months earlier. In ethics, Jones was widely respected as a defender and expositor of the views of her teacher and mentor, Henry Sidgwick (Sidgwick regarded Jones as one of his prize students), and took part in published debates on “rational hedonism” with F. H. Bradley and J. S. Mackenzie. Yet, despite the fact that she published numerous articles, a monograph and several textbooks (some going into multiple editions), and was a very visible member of the English philosophical community from the 1890s until her retirement in 1916, her work was entirely forgotten until almost a century after her death.
 
-Following a biographical sketch (section 1), sections 2–6 focus on Jones’s work in philosophical logic—in particular, her law of significant assertion and her criticisms of Russell; section 7 is devoted to Jones’s contributions to ethical theory. A closing section provides a brief survey of women’s contributions to early analytic philosophy.
+Following a biographical sketch (section 1), sections 2–4 focus on Jones’s work in philosophical logic—in particular, her law of significant assertion and her criticisms of Russell; section 5 is devoted to Jones’s contributions to ethical theory.
 
 ## 1. Biographical Sketch
 
-Born in Wales in 1848, Emily Elizabeth Constance Jones matriculated at Girton College, Cambridge University’s newly established women’s college, in 1875. She studied for the Moral Sciences Tripos under Henry Sidgwick, James Ward and John Neville Keynes, receiving a “First Class”, Sidgwick being among her examiners. (Her brothers’ education took priority over her own, delaying her entry into the academy and occasioning subsequent interruptions.) It was due to the interventions of Sidgwick and Ward that Jones, fluent from childhood in both German and French, was offered to complete, upon graduation, the remaining half of a translation of Hermann Lotze’s massive *Mikrocosmos*, left unfinished by Elizabeth Hamilton (the recently deceased daughter of Sir William Hamilton). Jones later went on to become Sidgwick’s literary executor. Her research in philosophical logic dates from 1884, when she began her career at Girton College as Resident Lecturer in Moral Sciences and was called upon to teach courses in logic; she later became Vice-Mistress and, subsequently, Mistress of Girton. During this period, Jones wrote a number of introductory logic texts, some of which went through several printings. By 1890, in her *Elements of Logic as a Science of Propositions*, whose main philosophical themes are summarized in “The Import of Categorical Propositions” (Jones 1893a), she developed her “law of significant assertion”—the “new law of thought” which would become the focus of her subsequent work in philosophical logic, culminating in the eponymously-titled monograph, published by Cambridge University Press in 1911. During the same period Jones also published numerous papers, as well as an introductory text (Jones 1909), in ethics. While her work in this area was primarily devoted to the exposition, interpretation and defense of Sidgwick’s work, she arguably broke new ground in her attempt at resolving Sidgwick’s dualism of practical reason. Jones was also a capable administrator. When she became Mistress of Girton in 1903, the college was £43,000 in debt (equivalent to £5,185,069 in 2020); at the time of her retirement in 1916, the debt had been paid off and funds had been raised to finance several fellowships. Her death in 1922 was marked by the appearance of substantial obituaries in *Mind*, *Proceedings of the Aristotelian Society* and *The International Journal of Ethics* (now *Ethics*).
+Born in Herefordshire, England, in 1848, Emily Elizabeth Constance Jones entered Girton College, Cambridge University’s recently established women’s college, in 1875. (Her brothers’ education took priority over her own, delaying her entry into the academy and occasioning subsequent interruptions.) Although Girton did not award degrees to women students (full University membership would not be granted until 1948), Jones nonetheless appears to have received a rigorous education: she studied for the Moral Sciences Tripos under Henry Sidgwick, James Ward, and John Neville Keynes, receiving a “First Class,” with Sidgwick among her examiners. As she would recollect, many years later, “I was in a magic world of thought— of great thinkers, of unrivalled teachers—a new heaven and a new earth” (1922, 54). It was due to the interventions of Sidgwick and Ward that Jones, fluent from childhood in both German and French, was offered to complete, upon graduation, the remaining half of a translation of Hermann Lotze’s massive *Mikrocosmos*, left unfinished by Elizabeth Hamilton (the recently deceased daughter of Sir William Hamilton). Jones later went on to become Sidgwick’s literary executor. Her research in philosophical logic dates from 1884, when she began her career at Girton College as Resident Lecturer in Moral Sciences and was called upon to teach courses in logic; she later became Vice-Mistress and, subsequently, Mistress of Girton. During this period, Jones wrote two treatises in logic as well as a short primer, the latter going through several printings. In her *Elements of Logic as a Science of Propositions* (1890), whose main philosophical themes are summarized in “The Import of Categorical Propositions” (1893a), Jones developed her “law of significant assertion”—the “new law of thought” which would become the focus of her subsequent work in philosophical logic, culminating in the eponymously-titled monograph, published by Cambridge University Press in 1911. During the same period Jones also published numerous papers, as well as an introductory text in ethics (Jones 1909). While her writings in this area were primarily devoted to the exposition, interpretation and defense of Sidgwick’s work, she ably defended her hedonistic interpretation of *The Methods of Ethics* and arguably broke new ground in her treatment of a problem the book left unresolved—what Sidgwick referred to as the “dualism of practical reason.” Jones was also a capable administrator. When she became Mistress of Girton in 1903, the college was £43,000 in debt (equivalent to £4,650,656.76 in 2026); at the time of her retirement in 1916, the debt had been paid off, and funds had been raised to finance several fellowships. In addition, undergraduate enrollment increased and new buildings were added. Her death in 1922 was marked by the appearance of substantial obituaries in *Mind*, *Proceedings of the Aristotelian Society* and *The International Journal of Ethics* (now *Ethics*).
 
 ## 2. A New Law of Thought
 
-### 2.1 The Paradox of Predication
+### 2.1 The Problem of Predication
 
-In her autobiography, Jones wrote of an early fascination with issues related to the nature and structure of content:
+In her autobiography, Jones wrote of an early fascination with the nature and structure of content:
 
-> This unsettled question—*what is asserted when you make a statement, and what is the proper form of statement?*—had deeply interested me from the time when I was a student and puzzled over Mill’s and Jevons’ accounts of propositions. (Jones 1922: 71)
+> This unsettled question—*what is asserted when you make a statement, and what is the proper form of statement?*—had deeply interested me from the time when I was a student and puzzled over Mill’s and Jevons’ accounts of propositions. (Jones 1922, 71; emphasis added)
 
-Part of what fascinated her concerned (what I’ll call) the paradox of predication—a paradox that Jones traced to Plato’s *Sophist.* To understand Jones’s main contributions to philosophical logic, it is useful to review Hermann Lotze’s influential discussion, well known to Jones, of this paradox:
+Hermann Lotze formulated the problem as a paradox. This paradox, well known to Jones, provides a helpful entry point to Jones’s central contribution to philosophical logic:
 
 > This absolute connection of two concepts *S* and *P*, in which the one is unconditionally the other, and yet both stand over against each other as different, is a relation quite impracticable in thought; by means of this copula, the simple ‘is’ of the categorical judgment, two different contents cannot be connected at all; they must either fall entirely within one another, or they must remain entirely separate, and the impossible judgment, ‘*S* is *P*’, resolves itself into three others, ‘*S* is *S*’, ‘*P* is *P*’, ‘*S* is not *P*.’ (Lotze 1888, 79)[^lotze-1888]
 
-To predicate *P* of *S* is either to say of *S* what it is not, or it is to say of *S* what it is. That is, it is to say that *S* is not *S* (because it is *P*), or it is to say that it is *S*. We either get a contradiction—we say, in effect, that *S* is not *S*—or an instance of the law of identity—we say that *S* is *S*. Neither option is satisfactory.
+To predicate *P* of *S* is either to say of *S* what it is not, or it is to say of *S* what it is. That is, it is to say that *S* is not *S* (because it is *P*), or it is to say that it, *S*, is *S*. We either get a contradiction—we say, in effect, that *S* is not *S*—or an instance of the law of identity—we say that *S* is *S*. Neither option is satisfactory.
 
-For Lotze, the paradox has an immediate upshot: that the ‘is’ of predication be expunged from logic. Grammatical appearances notwithstanding, the basic form an assertion takes is that of an identity statement or of its negation. This, however, renders him incapable of making sense of (what Jones called) “significant assertion”. The content of an assertion, if it is not to be an absurdity (*A* is not *A*), must be a triviality (*A* is *A*). (Lotze vaguely hints at a pragmatic account of the apparent significance of what he counts as trivialities, remarking that, perhaps, “what we *mean* by them will eventually justify itself.”) As we shall see, Jones does not depart from Lotze’s austere conception of logical form: an affirmative proposition *S is P* states an identity, and is true just in case the extension of *S* = the extension of *P*. However, she is able to graft a notion of intensional content onto Lotze’s logical skeleton, thus avoiding his paradoxical conclusion that, despite appearances, all positive assertion is analyzed in terms of *A* is not *A*.
+For Lotze, the upshot of the paradox is that, grammatical appearances notwithstanding, the basic form an assertion takes is that of an identity statement or its negation. This renders him incapable of making sense of what Jones called “significant assertion.” The content of an assertion, if it is not to be an absurdity (*A* is not *A*), must be a triviality (*A* is *A*). (Lotze vaguely hints at a pragmatic account of the apparent significance of what he counts as trivialities, remarking that, perhaps, “what we mean by them will eventually justify itself.”) As we shall see, Jones does not depart from Lotze’s austere conception of logical form: an affirmative proposition *S is P* states an identity, and is true just in case the extension of *S* = the extension of *P*. However, she is able to graft a notion of intensional content onto Lotze’s logical skeleton, thus avoiding the paradoxical consequences of his claim that all positive assertion is to be analyzed in terms of *A* is *A*.
 
-The debate surrounding this paradox was not marginal, but at the center of contemporary discussion. Although Jones’s own solution falls squarely within the framework of nineteenth century logic, she seems to be responding to worries that were shared by Russell and Moore. Indeed, Dreben and Floyd (1991), who provide a useful discussion of the historical context, argue that the paradox is implicated in Russell and Moore’s break with idealism.
+The debate surrounding this paradox was not marginal, but at the center of contemporary discussion. The notorious “regress” argument developed in the second chapter of Bradley (1893)—well known to Russell and Moore—is a more sophisticated variant of the argument presented by Lotze. (See the entry on Bradley’s Regress.)
+
+The paradox highlights what Donald Davidson called “the problem of predication.” He states it in bracingly simple terms:
+
+> In English, ‘John mortal’ is not a sentence. It becomes one if the word ‘is’ is inserted between noun and adjective. This is a fact of syntax or grammar. *But what is the semantic role of the copula?* This question and related questions about the nature of predication have been evident since Plato. Yet despite the earnest regard which the semantics of natural languages has attracted over the years, no one who was aware of the problem has come up with a satisfactory account of predication. (2005, 76–77; emphasis added)
+
+Davidson emphasized the centrality of the problem: “if we do not understand predication, we do not understand how any sentence works, nor can we account for the structure of the simplest thought that is expressible in language.” Thus, however “niche” the problem may look to contemporary readers, we cannot pretend to understand the nature of linguistic meaning unless we solve it.
+
+While Lotze’s solution to the problem of predication will strike contemporary philosophers of language as implausible, something like Lotze’s approach has approach has been adopted by certain philosophers working on the *metaphysics* of predication. Here, the problem concerns what it is for a particular—this leaf, say—to have, or *instantiate*, the universal, greenness. (This contrasts with the Lotzean concern, which focuses on what it is for the leaf to be *said* to instantiate greenness.) Baxter (2001)[^baxter-2001], for example, holds that what it is for the leaf to instantiate greenness is for there to be an *identity* between an aspect of the universal and an aspect of the particular (see also Armstrong 2004, 46–48)[^armstrong-2004].
 
 ### 2.2 Identity Propositions and Significant Assertion
 
-The distinction between the intension (or connotation) and extension (or denotation) of names, which traces back to the Port Royal Logic, was widely acknowledged by nineteenth century logicians. But the distinction was applied, as a rule, to *general* names, not *proper* names. With regard to proper names, logicians generally sided with John Stuart Mill in holding that they lack connotation. Keynes, for example, writes that proper names are “non-connotative”—that is, “their application is not determined by a conventionally assigned set of attributes” (Keynes 1906, 42)[^keynes-1906].
+The distinction between the intension (or connotation) and extension (or denotation) of names, which traces back to the [Port Royal Logic](https://plato.stanford.edu/entries/port-royal-logic/), was widely acknowledged by nineteenth century logicians. The distinction was applied, as a rule, to general names, not proper names. With regard to proper names, logicians generally sided with John Stuart Mill in holding that they lack connotation. Keynes, for example, maintained that proper names are “non-connotative”—that is, “their application is not determined by a conventionally assigned set of attributes” (Keynes 1906, 42; see also Bosanquet 1888, 48–9)[^keynes-1906][^bosanquet-1888]. As I will argue, Jones seems to have sided with these logicians.
 
-Jones’s “New Law of Thought”—the law of significant assertion—incorporates the distinction as follows.
+Jones’s “New Law of Thought”—the law of significant assertion—incorporates the distinction as follows:
 
 > *The Law of Significant Assertion:*
-> Any Subject of Predication is an identity of denotation in diversity of intension. (Jones 1910–11, 169; 1911b, 2)
+> Any Subject of Predication is an identity of denotation in diversity of intension. (Jones 1890, 46; 1910–11, 169; 1911b, 2)
 
-The general idea is quite straightforward and will have a familiar ring to anyone acquainted with Frege’s sense-reference distinction (or Russell’s pre-“On Denoting” distinction between meaning and denotation), even if the formulation is slightly clumsy: when we predicate a property of an individual or collection *x*, we first identify *x* via an intension *f* and then assert its identity with an individual or collection *y*, where *y* is itself identified via a distinct intension, *g*. We thus combine “identity of denotation” or “denotational oneness” with “diversity of intension”. As she puts it as early as 1893, “the very essence of Categorical statements… is the reference (in affirmatives) of two terms to one object, in such a way as to indicate that the object (or group) pointed out by the one term has also the characteristics signified by the other…” (1893a, 219). Or, as Stout writes in his Preface to Jones (1911b), “every affirmative proposition asserts, and every negative proposition denies, the union of different attributes within the unity of the same thing” (Stout 1911, v)[^stout-1911].
+The general idea is quite straightforward: when we predicate a property of an individual or collection *x*, we first identify *x* via an intension *f* and then assert its identity with an individual or collection *y*, where *y* is itself identified via a distinct intension, *g*. We thus combine “identity of denotation” or “denotational oneness” with “diversity of intension”. As she puts it as early as 1893, “the very essence of Categorical statements… is the reference (in affirmatives) of two terms to one object, in such a way as to indicate that the object (or group) pointed out by the one term has also the characteristics signified by the other…” (1893a, 219). Or, as Stout writes in his Preface to Jones (1911b), “every affirmative proposition asserts, and every negative proposition denies, the union of different attributes within the unity of the same thing” (Stout 1911, *v*)[^stout-1911].
 
-As noted, Jones’s conception of logical form is austere: every positive proposition asserts an identity. Accordingly, she takes the terms of *all F is G* to be the quantifier phrase *all F* and the predicate *G*. (“I understand the *terms* to include the *whole* of any proposition except the copula” [1893–94, 36].) This departs from the then-standard view, which distinguishes, in addition to the copula, subject term (*F*), predicate term (*G*) and quantifier or “term indicator” (*all*). The quantifier, she also notes, is optional, citing ‘Cicero is Tully’ as a case of an identity proposition in which it is absent (1890, 5).
+Note that, for Jones, singular sentences (‘Socrates is mortal’) as well as quantified sentences (‘All humans are mortal’) are both of the subject-predicate (*S* is *P*) form. As we will see in 2.3, her conception of logical form is equally austere: *S* is *P* always asserts an identity. Accordingly, she takes the terms of ‘All humans are mortal’ to be the quantifier phrase ‘All humans’ and the predicate ‘mortal’. (“I understand the terms to include the whole of any proposition except the copula” [1893–94, 36].) This departs from the then-standard view, which distinguishes, in addition to the copula, subject term (‘humans’), predicate term (‘mortal’) and quantifier or “term indicator” (‘all’). It also departs from the Fregean view of the logical forms of quantified sentences, on which a quantifier phrase does not function as a grammatical subject.
 
-There are thus only two forms that can properly be referred to as *logical forms* for Jones—identities and their negations. While Jones holds that *S is P* asserts an “identity of denotation” in “diversity of intension”, *S* *is not P* asserts “difference of denotation” in “intensional diversity”. (Even if one accepts the former analysis, however, the latter is problematic. As Augusta Klein (1911)[^klein-1911] notes, for a statement of the form *S* *is not P* to be informative, more is required than the mere “intensional diversity” of *S* and *P*. To see this note that, while ‘Horses are not house plants’ gives us a case of “difference of denotation” in “intensional diversity”, it is no more informative than ‘Horses are horses.’ For Klein, the intensions must overlap to a significant degree for the claim of their diversity to have any cognitive value.)
+There are thus only two propositional forms that can properly be referred to as *logical forms* for Jones—identities and their negations. While Jones holds that *S is P* asserts an “identity of denotation” in “diversity of intension,” *S is not P* asserts “difference of denotation” in “intensional diversity”. (As an early critic, Augusta Klein (1911)[^klein-1911] noted, for a statement of the latter form to be informative more is required than Jones indicates: the intensions must overlap to a significant degree for the claim of their diversity to be informative.)
 
-Jones thus solves a problem that must be faced by anyone espousing the view that predication is, at root, identity. If assertively uttering a sentence exemplifying ‘*S* is *P*’ is construed as asserting a *proposition* that *A* is *A*, then we fail to capture the point of the assertion. The assertion appears significant and informative; yet the content is trifling—something about which we can hardly be “informed”. If we take the general form of assertion to be an informative identity—to be “an identity of denotation in diversity of intension”—then the problem disappears. The solution, of course, applies to the cases that interested Frege—sentences that are explicitly of the form *A* = *A*. Indeed, Jones’s proposal here is in rough outline that of Frege (1892)[^frege-1892][^frege-1892-2]. (See the entry on Frege—in particular, the section Frege’s Philosophy of Language.)
+Jones thus solves a problem that must be faced by anyone espousing the view that predication is, at root, identity. If assertively uttering a sentence exemplifying *S is P* is construed as asserting a *proposition* of the form *A is A*, then we fail to capture the point of the assertion. The assertion appears significant and informative; yet the content is trifling—something about which we can hardly be “informed.” If we take the general form of assertion to be an informative identity—to be “an identity of denotation in diversity of intension”—then the problem disappears.
 
-It is worth remarking, however, that Jones’s label “a new law of thought” is somewhat misleading. In the nineteenth century, the laws of thought were commonly understood to be the following: *the law of identity*, *the law of non-contradiction*, and *the law of excluded middle*. These are all easily statable in a first-order language. But Jones does not state a new firs-order law, in addition to these three; nor does she explain how the new “law” can supplant the law of identity.
+The solution applies to cases of the kind that interested Frege—sentences that are explicitly of the form *A = A*. For Frege, ‘George Eliot is Mary Ann Evans’ is the model of an identity statement: the sentence is true just in case the individual referred to by ‘George Eliot’ bears the identity relation to the individual referred to by ‘Mary Ann Evans.’ Moreover, it is *informative* because ‘George Eliot’ presents its referent in a manner that differs from the way in which ‘Mary Ann Evans’ presents the same referent. (See the entry on Frege—in particular, the section Frege’s Philosophy of Language.)
+
+While it might seem that Jones and Frege are pointing to the same phenomenon, there are two important differences. First, Jones, like Mill, denies that proper names have connotations in the way that common nouns do. As she writes, “the proper name of a person… must be allowed… to have only a minimum of connotation, while a class-name… may convey a maximum of connotation” (Jones 1890, 35–36; see also Jones 1905/1912, 13). While she acknowledges that there is conventional information associated with a proper name, it is, as she also notes, too minimal to determine an extension. The information she has in mind is metalinguistic in nature: ‘bearer of the name *N*.’
+
+Second, the cases in which Jones does apply her paradigm—the law of significant assertion—are precisely the ones where Frege deems it inapplicable. Jones, for example, takes a generalization like ‘All lions are mammals’ to assert an identity between the lions and (a subset of) the mammals, and invokes her law to explain the informativeness of the statement. But Frege denied that this statement is an identity. While Frege did hold that common nouns like ‘lion’ and ‘mammal’ have a sense, he construed these as functions, and not as singular terms referring to a class.
+
+Thus, while there are superficial similarities, it’s hard to disagree with Frege’s own assessment that there is “no broad agreement” between their views (Frege [BW], 108). See also Peijnenburg and Schaar (2025), who conclude that “the two distinctions differ in important aspects. Frege’s *Bedeutung* is not the same as Jones’s extension, and his *Sinn* is not the same as Jones’s intension.” Green (2023)[^green-2023] also emphasizes the disanalogies.
+
+Caplan (forthcoming) is an important dissenting voice. He argues, however, that the analysis of identity sentences in Jones (1892) is in fact a variant of the metalinguistic theory of identity sentences developed in Frege’s *Begriffsschrift* (Frege 1879)[^frege-1879], not the more well-known theory of Frege (1892)[^frege-1892], described above. On the metalinguistic theory, ‘Cicero = Cicero’ and ‘Cicero = Tully’ convey different metalinguistic propositions and thus differ in information content. See also Janssen-Lauret (2024)[^janssen-lauret-2024], (2025), who argues that Jones anticipates the theory of Frege (1892)[^frege-1892].
+
+### 2.3 Applying the Analysis
+
+As we have seen, Jones analyses affirmative propositions as identity statements. Applying the analysis can be less than straightforward, however. Consider (1):
+
+1. All lions are carnivores.
+
+Which identity statement does (1) assert? On Jones’s view, (1) is true just when ‘all lions’ and ‘carnivores’ have the same extension; it is informative just when the identity holds and the terms convey distinct intensions (Jones 1893–94, 36). But to turn (1) into an identity would seem to require that we take *all lions* and *carnivores* as arguments of the identity relation. The result, however, is a clearly false proposition, in contrast to (1), which is true. In fact, Jones, takes (1) to assert a relation between *all lions* and *some carnivores*, where the latter is understood to be an arbitrary subset of the set of carnivores. The result is that (1) receives what is in effect the following truth condition, which is adequate:
+
+1. The set of lions = *X*, for some subset *X* of the set of carnivores.
+
+She goes on to apply the analysis to a variety of statement forms (see 1911b, 48–53), although nothing like a translation algorithm is provided.
+
+There are also foundational worries. As W. E. Johnson objected in an early exchange with Jones, the analysis seems to presuppose the very notion it seeks to eliminate (Johnson 1892, 23)[^johnson-1892]. Consider (3):
+
+1. Socrates is mortal.
+
+On Jones’s analysis, (3)’s logical form is given by ‘Socrates is identical to some mortal.’ Using contemporary notation, this becomes (4) (recall that, for Jones, ‘some mortal’ refers to a class):
+
+1. $\exists y (y\in \{x | \textit{Mortal}(x)\}\amp \textit{Socrates}=y)$
+
+As Johnson notes, in thus specifying the set of mortals (‘the set of things *x* such that *x* is a mortal’), we are invoking the relation of predication—the very notion that Lotze, and by implication Jones, rejected as unintelligible. (Jones responds in Jones 1893a; see Ostertag 2023 and 2025, 12–14, for discussion; see also Ladd–Franklin 1890, 562, for related criticisms.)[^ostertag-2023][^ostertag-2025]
+
+### 2.4 Significant Assertion and Existence Claims
+
+Jones’s analysis delivers puzzling results when applied to attributions of non-existence and impossibility. Consider (5) and (6).
+
+1. Dragons are non-existent.
+2. Round squares are impossible.
+
+These are analyzed as (7) and (8), respectively:
+
+1. The set of dragons = *X*, for some subset *X* of the set of non-existent things.
+2. The set of round squares = *Y*, for some subset *Y* of the set of impossible things.
+
+As (7) indicates, for (5) to be true, the extension of ‘dragons’ must belong to a given set—the set of non-existent things. But then this extension must exist—*in some sense*. In response, Jones invokes a “region of supposition” a subset of what exists in the broadest sense of that term. Accordingly, (5) states that the set of dragons, which exists in a region of supposition, is a subset of those things not existing in “the region of physical nature.” Similarly, (6), as shown by (8), states that the set of round squares, which exists in this special region, is a subset of those things not existing in “the region of space (or space-imagination)” (1893b, 454).
+
+What Jones saw is that for (5) and (6) to be true (or even false), their subject terms must have an extension. Since the terms have no extension in the physical or imaginable universes, respectively, she invokes a special realm of entities to serve as the universe of discourse: a region of supposition. But then what (5) asserts cannot be that dragons are non-existent in this region. Rather, what it asserts is a different sort of non-existence—namely, the kind of non-existence applicable to physical objects. Similar remarks hold for (8). Thus, the thesis that claims like (5) and (6) presuppose a special universe of discourse comes packaged with an implicit thesis concerning predicates like ’non-existent‘ or ‘impossible’—namely, that their sense is determined by the nature of the subject term.
+
+As Caplan (2023)[^caplan-2023] notes, in claiming that negative existential claims presuppose a more restricted sense of existence, Jones follows Brentano, whom she cites as holding that “the mind in every judgment accepts some object as existent, and regards the proposition expressing the judgment as true” (Jones 1892b, 277; cited in Caplan 2023: 12)[^caplan-2023].
+
+While Jones’s proposals did not attract the attention of commentators, she was working on topics on the agenda of her leading contemporaries, including Russell. Caplan (2023)[^caplan-2023] is a detailed study of Jones’s views on non-existent objects and impossibilia; Caplan (2022a)[^caplan-2022a] presents her views on fictional reference.
+
+### 2.5 The Laws of Thought
+
+The title of Jones’s final book, *A New Law of Thought*, is doubly misleading.
+
+First, the laws of thought were then commonly understood to be the following: *the law of identity*, *the law of non-contradiction*, and *the law of excluded middle*. These can be thought of as schemata or templates (Jones 1911b). But Jones does not state a new schema in addition to these three; nor does she intend the new “law” to supplant the law of identity. The law of identity asserts that *A* is *A*, whereas the new law of thought asserts that such an identity, to count as a predication, must present the successive occurrences of the referent under distinct connotations.
 
 What then is the status of her law, *vis-à-vis* the other laws? The following passage provides some help:
 
-> If we genuinely accept *A* is *A* as the expression of a fundamental and primary logical principle, the difficulty is, how theoretically to get beyond it. If we reject it, what we need, and what we find, to put in its place, is a principle of significant assertion of the form *S* is *P*. The laws of contradiction and excluded middle are laws of the relations of assertions, and they cannot be expressed in satisfactory and unambiguous form without the use of *S* is *P*, *S* is *not* P, propositions. So even for them we require a prior principle, explaining and justifying the *S* is *P* proposition itself. Such a logical principle, based on a new analysis of *S* is *P*, I think I can provide. (1911b, 10–11; emphasis added)
+> If we genuinely accept *A* *is* *A* as the expression of a fundamental and primary logical principle, the difficulty is, how theoretically to get beyond it. If we reject it, what we need, and what we find, to put in its place, is a principle of significant assertion of the form *S is P*. The laws of contradiction and excluded middle are laws of the relations of assertions, and they cannot be expressed in satisfactory and unambiguous form without the use of *S is P*, *S is not P*, propositions. *So even for them we require a prior principle, explaining and justifying the S is P proposition itself*. Such a logical principle, based on a new analysis of *S is P*, I think I can provide. (1911b, 10–11; emphasis added)
 
-For Jones, the laws of contradiction and excluded middle apply exclusively to contentful assertions. Jones’s worry is that the conception of content inherited from Lotze, on which *S is P* is, effectively, *A is A*, is a poor model not only for ordinary assertions, but also of instances of the laws of contradiction and excluded middle. These laws tell us, respectively, that it cannot be the case, for example, *both* that Socrates is mortal and that he is not, and that it must be the case that *either* Socrates is mortal or he is not. In short, they tell us, of a *significant assertion* Φ, that either Φ or its negation obtains, and that Φ and its negation cannot both obtain.
+For Jones, the laws of contradiction and excluded middle apply exclusively to contentful assertions. Jones’s worry is that the conception of content inherited from Lotze, on which *S is P* is, effectively, *A is A*, is a poor model not only for ordinary assertions, but also of instances of the laws of contradiction and excluded middle. These laws tell us, respectively, that it can’t be the case, for example, *both* that Socrates is mortal and that he is not, and that it must be the case that *either* Socrates is mortal or he is not. In short, they tell us, of a *significant assertion* *Φ*, that either *Φ* or its negation obtains, and that *Φ* and its negation cannot both obtain.
 
-Although Jones calls her law a “prior principle”, this does not mean that she takes her law to be *logically* prior to the other laws. These other laws provide us with logical forms that cannot have false instances. Jones’s law does something else: it places a constraint on significant assertion, whether true or false, telling us what conditions an assertion has to meet for it to be a significant instance, not only of identity, but also of contradiction and excluded middle.
+Although Jones calls her law a “prior principle,” this does not mean that she takes her law to be *logically* prior to the other laws. What she is claiming is that, in effect, it is *pragmatically* prior. The other laws provide us with logical forms that cannot have false instances. Jones’s law does something else: it places a constraint on significant assertion, telling us what conditions an assertion has to meet for it to be a significant instance, not only of identity, but also of contradiction and excluded middle.
 
-### 2.3 Observations on Intension and Extension
+The other way in which the label is misleading is that, for Jones, logic is the study of the laws governing the *objects of thought*, not thoughts themselves. “Apprehension and Judgment, considered as mental processes, are the concern of Psychology [whereas] Logic is concerned with what we ought to think” (1890, 45; see also vi, 2).
+
+Still, while she sees clearly that the laws of logic are normative, and thus not a species of psychological law, she does not take logic to be the purely formal enterprise Frege would make it (Peijnenburg and Schaar 2025)[^peijnenburg-2025]. For Jones, logic “implies a knower” (1890, 2; quoted in Peijnenburg and Schaar). If so, we have not moved decisively from the traditional conception.
+
+Nor is it clear that she has taken the decisive step to a realm of objective contents, in the manner of Moore, Russell, and Frege. Janssen-Lauret (2024)[^janssen-lauret-2024] maintains that Jones “made a clear and noticeable advance on her contemporaries.” But, as Preti (2024, 210)[^preti-2024] points out, terminology was in flux at that point, so we can’t take claims about the objectivity of logic at face value. Admittedly, Jones does write: “Logic is *objective*; for it relates objects of thought”. But this is just to make the act-object distinction; it is not yet to suggest a metaphysics of the objects of thought, let alone confer on them mind– or language–independence.
+
+That said, there is no doubt that Jones moved the needle in the direction of the mind-independence of content; but just how far is unclear.
+
+### 2.6 Observations on Intension and Extension
 
 Although the concept of intension plays an important role in Jones’s theory, she recognizes that grasping the intension of a name is neither necessary nor sufficient for grasping its extension. One may grasp the intension of a term and not grasp its extension, or conversely, grasp its extension but not its intension. Although undeveloped, her observations here are remarkably prescient.
 
 Concerning the possibility that grasping an expression’s extension does not require grasping its intension, she writes:
 
-> I know that *metal* in extension denotes gold, silver, copper, iron, lead, tin, mercury, aluminium, etc., and I know these when I see them, but I am not able to give a satisfactory statement of the intension which they have in common…
->
-> Or again I know, or I may know, all the inhabitants of a country parish and be able to greet them correctly by name when I meet them, but may be entirely unable to give a recognizable description of any of them. Or I may know real diamonds from paste, or one disease from another, and always apply the names rightly, and yet be unable to set out even to myself the connotation or intension. (1911b, 13)
+> I know that *metal* in extension denotes gold, silver, copper, iron, lead, tin, mercury, aluminium, etc., and I know these when I see them, but I am not able to give a satisfactory statement of the intension which they have in common… I may know real diamonds from paste, or one disease from another, and always apply the names rightly, and yet be unable to set out even to myself the connotation or intension. (1911b, 13)
 
-The point applies to the intensions of proper names as well as natural kind terms. What these considerations suggest, as similar considerations later suggested to Gareth Evans (1982)[^evans-1982], Saul Kripke (1980) and Hilary Putnam (1975), is that names and natural kind terms do not pick out their referents descriptively: mastery of either proper names or natural kind terms does not require that we associate with them any reference-determining description. Jones, however, doesn’t draw this bold conclusion. In fact, she thinks the observation is harmless, since, on her view, the intension of a term *can* be reconstructed by reflecting on its extension:
+The point applies to the intensions of natural kind terms. What these considerations suggest, as similar considerations later suggested to Saul Kripke (1980)[^kripke-1980] and Hilary Putnam (1975)[^putnam-1975], is that natural kind terms do not pick out their referents descriptively: mastery of a natural kind term does not require that we associate with it any reference-determining description. Jones, however, refrains from drawing this bold conclusion. In fact, she thinks the observation is harmless, since, on her view, the intension of a term *can* be reconstructed by reflecting on its extension:
 
 > What I insist on is that all the names we use have both extension and intension; and either of these may be a guide to the other. I may have the things to which a name applies put before me… and from examination of them reach the intension; or have intension given, and go out and by means of it determine extension. (1911b, 14)
 
 It doesn’t appear, however, that Jones is committing herself to any strong thesis here—that, *contra* Russell, there is a “backward road” from referent to sense; only that, in practice, a term’s intension can often be gleaned from examination of its extension.
 
-In addition, grasping a term’s intension does not guarantee being able to identify its extension:
-
-> On the other hand I may have full descriptive knowledge of a person or plant or precious stone, and yet not be able to recognize the person or plant or jewel though it may much concern me to do so. I may even know much more about a person than his ordinary acquaintances, or even than his dearest friend, and be able to give a much more accurate description of his appearance and manner, and yet not know him when I meet him. (1911b, 13–4)
-
-To connect this observation with the previous, we must assume that the competent use of *N*, where *N* is a name or natural kind term, involves a capacity to recognize *N*’s referent. What this passage then shows is that this recognitional capacity is not grounded in our grasping any reference-securing description or intension. But then grasping a name’s intension does not, by itself, put one in a position to use it to refer.
-
-Of course, the points are, as indicated, undeveloped, and the above interpretation, written in the light of later discussions by Kripke, Putnam and Gareth Evans, may put more weight on Jones’s remarks than they can plausibly bear. But the passage’s placement early on in the monograph reflects an awareness of its significance. (The passage does, of course, fail to register the thought that her observations could undermine a key aspect of her proposal—that names and natural kind terms have intensions, or sense.)
-
-### 2.4 Applying the Analysis
-
-As we have seen, Jones holds that all affirmative propositions are identities. Applying the analysis can be less than straightforward, however. Consider her analysis of (1):
-
-**(1)**
-
-This small fragrant wild flower is Clematis.
-
-On her view, ‘this small fragrant wild flower’ and ‘Clematis’ have the same extension, yet they possess distinct intensions (Jones 1893–94, 36). Jones doesn’t fully work out the details of this proposal, but the idea seems to be that the extension of the subject term is identical to *some* Clematis—a subset of the things in the extension of ‘Clematis’.
-
-As can be seen, the analysis assumes that predicate terms are implicitly quantified. Jones held, following William Hamilton, that quantification is not restricted to subject terms, but applies to predicate terms as well (although the quantifier attaching to the predicate is never articulated). While Hamilton’s doctrine of the quantification of the predicate allowed for all sorts of monstrosities (Kneale and Kneale, 1962, 352–4)[^kneale-1962], the only cases that Jones discusses involve quantifying the predicate with ‘some’, and assigning truth conditions to ‘*Q* + *S* are some *P*’ is relatively straightforward:
-
-| All $S$ is some $P$ | $&#124;S - P^*&#124; = 0$ | where | $P^* \subseteq P$ |
-| --- | --- | --- | --- |
-| Some $S$ is some $P$ | $&#124;S^* \cap P^*&#124; \gt 0$ | where | $S^* \subseteq S$ and $P^* \subseteq P$ |
-
-In each case, we get precisely the truth conditions we would have with a quantifier-free predicate. E.g., ‘All *S* is some *P*’ is true just in case all *S* are *P*.
-
-The endorsement of Hamilton’s view might seem perverse—and, in fact, Jones is elsewhere critical of his view (1906, 35–6)—but it is necessary if Jones is to retain the view that significant assertion is, at root, the assertion of an identity. After all, if ‘All humans are mortal’ asserts an identity, then, given that identity is commutative, it entails the apparently nonsensical ‘Mortals are all humans.’ The result is at least intelligible if we suppose that the predicate is also quantified—if, that is, ‘All humans are mortal’ is just ‘All humans are some mortals.’ For then, the consequence would be ‘Some mortals are all humans,’ which is just the claim that some subset of the set of mortals is identical to the set of (all) humans. (This, of course, is not quite an identity statement, since one of the terms is quantified, but it is the closest we can get to a workable version of Jones’s proposal.)
-
-Hamilton’s doctrine provides a straightforward explanation of the validity of conversion. Indeed, Jones go so far as to claim that conversion itself *presupposes* some such approach: “The possibility of conversion… implies that the predicate, as well as the subject, of any proposition has denotation, and a denotation that is implicitly quantified” (1911b, 3; see also Jones, et al. 1914–15, 364). To be clear, Jones has a non-standard conception of conversion, on which the converse of ‘All humans are mortals’ is ‘Some mortals are humans’ and not, as usually understood, ‘All mortals are humans’ (she follows Keynes 1906, §96)[^keynes-1906]. Jones takes the former, fully articulated, to be ‘All humans are some mortals.’ Conversion switches the positions of the subject and predicate terms, giving us ‘Some mortals are all humans’. Of course, since the original and its converse are both, at logical form, identity statements, this is just an instance of the commutativity of identity (Keynes 1906, §142)[^keynes-1906].
-
-The analysis is applied to a variety of statement forms (see 1911b, 48–53). One cannot escape the impression, however, that Jones, like the Oxbridge logicians generally, “dissected with some crude instruments” (Grattan-Guinness 1985–86, 113)[^grattan-guinness-1985]. Indeed, as W. E. Johnson objected in an early exchange with Jones, the analysis seems to presuppose the very notion it seeks to eliminate—predication (Johnson 1892, 23)[^johnson-1892]. Consider (2):
-
-**(2)**
-
-Socrates is mortal.
-
-On Jones’s analysis, (2)’s logical form is given by ‘Socrates is identical to some mortal.’ Using contemporary notation, this becomes (3) (recall that, for Jones, *some mortal* refers to a class):
-
-**(3)**
-
-$\exists y (y\in \{x | \textit{Mortal}(x)\}\amp \textit{Socrates}=y)$
-
-As Johnson notes, in thus specifying the set of mortals (‘the set of things x such that x is a mortal’), we are invoking the relation of predication—the very notion that Lotze, and by implication Jones, rejected as unintelligible.[^note-1] (Jones responds in Jones 1893a.)
-
-Still, while the Law of Significant Assertion cannot be true in its full generality, a restriction of the law to identity sentences is worth considering. Accordingly, in discussing Jones in relation to Frege and Russell, I will construe The Law of Significant Assertion as a doctrine concerning identity sentences—sentences of the form *a* is *b* (where *a* and *b* are names, demonstratives or descriptions and *is* functions accordingly as the *is* of identity, not predication)—and not as a claim about subject-predicate sentences generally.
+One point Jones fails to register is that her observations threaten to undermine a key aspect of her proposal—that natural kind terms have intension, or sense. The traditional view is that one identifies the extension of a kind term like ‘gold’ by grasping its intension. If it can be shown that I can grasp the extension of a use of ‘gold’ even though I fail to grasp its intension—either I draw a blank or I get it wrong—then the traditional view would seem to be incorrect: intensional mediation is unnecessary for reference determination.
 
 ## 3. Comparison with Frege and Russell
 
-Jones’s analysis of identity sentences has obvious affinities with similar analyses advanced by Frege and the early Russell. In light of this, it is instructive to review how Frege and Russell argue for their respective analyses and compare their arguments with Jones’s own.
+Jones’s analysis of identity sentences has obvious affinities with analyses advanced in Frege (1892)[^frege-1892] and Russell (1903)[^russell-1903]. While Jones denied that ordinary proper names have a reference–determining connotation (see 2.2, above), she saw clearly how her distinction between denotation and connotation could be put to use by those who held otherwise. Jones, once made aware of his views, thus sided with Frege, who held that proper names have sense. In addition, there are parallels between her analysis of identity sentences involving definite descriptions and that of *Principles*–era Russell.
+
+In light of the centrality of the issue to the history of early analytic philosophy, it is worthwhile to review briefly how Frege and Russell argue for their respective analyses and compare their arguments with Jones’s own.
 
 ### 3.1 Comparison with Frege
 
-In the opening paragraph of “On Sense and Reference” (Frege 1892)[^frege-1892][^frege-1892-2], Frege argues that a theory that identifies the semantic value of a name with its referent—the naïve theory—cannot differentiate between the contents of ‘Hesperus = Hesperus’ and ‘Hesperus = Phosphorus’. Given the plausible assumption that the proposition expressed by a sentence is a function of the semantic values of its constituent expressions together with their mode of combination, it seems inevitable that what the latter sentence says is just what the former sentence says—assuming, with the naïve theory, that ‘Hesperus’ and ‘Phosphorus’ possess the same semantic value. Of course, the latter sentence is potentially informative, whereas the former sentence is not. This leads Frege to reject the naïve theory. He also rejects, for reasons that need not detain us, a view according to which identity is a relation between the *names* ‘Hesperus’ and ‘Phosphorus’. The view he settles on is that the contribution that ‘Hesperus’ makes to the propositions expressed by the above-quoted identity sentences is a *sense* —a way of thinking of the referent. (While one might say that *the* semantic value of ‘Hesperus’ is the associated sense, this would be incorrect, since, on Frege’s view, ‘Hesperus’ has two semantic values—its sense, and the referent determined by this sense. The proposition expressed by, e.g., ‘Hesperus = Phosphorus’ is partly determined by this sense, whereas the referent of this sentence—for Frege, its truth-value—is partly determined by the associated referent.)
+In the opening paragraph of “On Sense and Reference” (Frege 1892)[^frege-1892], Frege argues that a theory that identifies the semantic value of a name with its referent—the naïve theory—cannot differentiate between the contents of ‘Hesperus = Hesperus’ and ‘Hesperus = Phosphorus.’ Given the plausible assumption that the proposition expressed by a sentence is a function of the semantic values of its constituent expressions together with their mode of combination, it seems inevitable that what the latter sentence says is just what the former sentence says—assuming, with the naïve theory, that ‘Hesperus’ and ‘Phosphorus’ possess the same semantic value. Of course, the latter sentence is potentially informative, whereas the former sentence is not. This leads Frege to reject the naïve theory. He also rejects, for reasons that need not detain us, a view according to which identity is a relation between the *names* ‘Hesperus’ and ‘Phosphorus.’ The view he settles on is that the contribution that ‘Hesperus’ makes to the propositions expressed by the above-quoted identity sentences is a *sense*—a way of thinking of the referent.
 
-Jones’s argument is similar, but not identical, to Frege’s. She argues that a theory that assimilates all assertion to *A* is *A* must fail to account for cases of significant assertion—cases in which we go beyond “pure tautology”. Frege’s argument is more sophisticated, making implicit appeal to a principle of compositionality, and considering alternative theories of the semantic contents of singular terms. Still, both are concerned to correct a similar—perhaps the same—mistake. Indeed, Jones’s and Frege’s interest in identity may derive from a common source, namely Lotze. (See Gabriel 2002 and Heis 2013 for assessments of Lotze’s role in the development of Frege’s thought.)[^gabriel-2002]
+Jones’s argument is similar, but not identical, to Frege’s. She argues that a theory that assimilates all assertion to *A is A* must fail to account for cases of significant assertion—cases in which we go beyond “pure tautology.” Frege’s argument is more sophisticated, making implicit appeal to a principle of compositionality, and considering alternative theories of the semantic contents of singular terms. Still, both are concerned to correct a similar mistake. Indeed, it might be conjectured that Jones’s and Frege’s interest in identity derive from a common source, namely Lotze. (See Gabriel 2002 and Heis 2013 for assessments of Lotze’s role in the development of Frege’s thought.)[^heis-2013][^gabriel-2002] In addition, Frege held that the sense of a term contributes to the semantic content of the sentence in which it occurs. But it is at best unclear whether Jones holds that connotation is a component of semantic content—of what is said. For discussion, see Caplan (forthcoming, §4), and Ostertag (2025, 22–23)[^ostertag-2025].
 
 ### 3.2 Comparison with Russell
 
 Russell’s analysis of identity sentences in *Principles* §64 falls out of his theory of denoting concepts—concepts that, like intensions, determine an extension. In this section Russell shows how the theory of denoting concepts can explain “why it is ever worthwhile to affirm identity”:
 
-> But the question arises: Why is it ever worth while to affirm identity? The question is answered by the theory of denoting. If we say “Edward VII is the King,” we assert an identity; the reason why this assertion is worth making is, that in the one case the actual term occurs, while in the other a denoting concept takes its place… Often two denoting concepts occur, and the term itself is not mentioned, as in the proposition “the present Pope is the last survivor of his generation.” When a term is given, the assertion of an identity with itself, though true, is perfectly futile, and is never made outside the logic-books; but where denoting concepts are introduced, identity is at once seen to be significant. In this case, of course, there is involved, though not asserted, a relation of the denoting concept to the terms, or of the two denoting concepts to each other. But the *is* which occurs in such propositions does not itself state this further relation, but states pure identity. (Russell 1903; note omitted)[^russell-1903]
+> The question is answered by the theory of denoting. If we say “Edward VII is the King,” we assert an identity; the reason why this assertion is worth making is, that in the one case the actual term occurs, while in the other a denoting concept takes its place… Often two denoting concepts occur, and the term itself is not mentioned, as in the proposition “the present Pope is the last survivor of his generation.” When a term is given, the assertion of an identity with itself, though true, is perfectly futile, and is never made outside the logic-books; but where denoting concepts are introduced, identity is at once seen to be significant. In this case, of course, there is involved, though not asserted, a relation of the denoting concept to the terms, or of the two denoting concepts to each other. But the *is* which occurs in such propositions does not itself state this further relation, but states pure identity. (Russell 1903; note omitted)[^russell-1903]
 
-This bears a striking similarity to Jones’s proposal. When an identity statement relates two “terms”, or individuals, it is trivial and “is never made outside the logic-books”; but when at least one denoting concept is involved, the statement is significant. While these cases “involve” a relation of co-reference between the denoting concepts, or between one denoting concept and the term denoted, this relation is not part of what is stated: the one relation stated remains “pure identity”. Thus, even in the case of an identity statement involving a denoting concept, such as ‘the present Pope is the last survivor of his generation,’ we nonetheless assert an identity involving the individual determined by the denoting concept.
+This bears a striking similarity to Jones’s proposal, where that is recast as a theory of identity statements. When an identity statement relates two “terms”, or individuals, it is trivial and “is never made outside the logic-books”; but when at least one denoting concept is involved, the statement is significant. While these cases “involve” a relation of co-reference between the denoting concepts, or between one denoting concept and the term denoted, this relation is not part of what is stated: the one relation asserted to obtain between the terms remains “pure identity.” Thus, even in the case of an identity statement involving a denoting concept, such as “the present Pope is the last survivor of his generation,” we nonetheless assert an identity involving the individual determined by the denoting concept.
 
-In “The Existential Import of Propositions” (Russell 1905a)[^russell-1905a], the theory of denoting concepts is applied to the problem of vacuous singular terms. Russell explains how the failure of a singular term to denote is compatible with the term’s nonetheless having meaning, if we assume that denoting phrases (such as ‘the present King of France’) and at least certain names (‘Apollo’) express denoting concepts. Jones seems not to have considered the application of her denotation-connotation distinction to the problem of vacuous terms and does not appeal to its utility in this connection in arguing for her proposal.
+## 4. Jones and Russell
 
-## 4. Russell’s Recognition of Jones
+### 4.1 Russell’s Recognition of Jones
 
-As we have seen, Jones’s and Russell’s respective analyses of identity statements are similar and, moreover, similarly motivated. This raises a question: did Russell, prior to their public exchange (discussed below), have any awareness of Jones’s work? Complete ignorance on Russell’s part seems unlikely, considering that her teacher, Ward, and her champion, Stout, were Russell’s teachers at Cambridge.[^note-2] It seems plausible that they would have attempted to interest Russell in the work of someone whose concerns overlapped with his so significantly. Moreover, Russell was a regular reader of the journals to which Jones contributed; in several cases, the two appeared in the same issue of *Mind* or of the *Proceedings of the Aristotelian Society*. (In fact, Jones’s contribution to *The Proceedings of the Aristotelian Society* for 1906–07, which occurs in the same issue as Russell’s “On the Nature of Truth”, is in part a commentary on Russell’s paper.) But then we have another question—why does he never cite her distinction? Surely his audience, in particular readers of *Mind*, members of the Aristotelian Society and members of the Moral Sciences Club (see below), could be expected to be acquainted with it. If so, then it would make sense to mention it, if only to show how his (or Frege’s) version of the distinction is markedly different. Even if there is disagreement with the framework in which the distinction is grounded, Russell’s total silence demands an explanation. After all, in “On Denoting” Russell cites approvingly Bradley’s account of universal generalizations in terms of conditionals, even though he has decisively parted ways with Bradley’s logic. So he was clearly capable of separating a valuable idea from the framework in which it is expressed.
+As we have seen, Jones’s and Russell’s respective analyses of identity statements are similar and, moreover, similarly motivated. This raises a question: did Russell, prior to their public exchange (discussed below), have any awareness of Jones’s work? Complete ignorance on Russell’s part seems unlikely, considering that her teachers at Cambridge, Ward and Stout, were also Russell’s teachers.[^note-1] It seems plausible that they would have attempted to interest Russell in the work of someone whose concerns overlapped with his so significantly. Moreover, Russell was a reader of the journals to which Jones regularly contributed, with the two appearing in the same issue (of *Mind* and of the *Proceedings of the Aristotelian Society*) on several occasions. (In fact, Jones’s contribution to *The Proceedings of the Aristotelian Society* for 1906–07, which occurs in the same issue as Russell’s “On the Nature of Truth”, is in part a commentary on Russell’s paper.) But then we have another question—why, with a notable exception, does he not cite her distinction? Surely his audience, in particular readers of *Mind*, members of the Aristotelian Society and members of the Moral Sciences Club (see below), could be expected to be acquainted with it. If so, then it would make sense to mention it, if only to show how his (or Frege’s) version of the distinction is markedly different. Even if there is disagreement with the framework in which the distinction is grounded, Russell’s total silence demands an explanation. After all, in “On Denoting” Russell cites approvingly Bradley’s account of universal generalizations in terms of conditionals, even though he has decisively parted ways with Bradley’s logic. So he was clearly capable of separating a valuable idea from the framework in which it is expressed.
 
-One document of interest concerning the question of influence is a letter to Philip Jourdain, dated September 5, 1909. Jourdain had sent Russell the draft of a long survey article on Frege’s work, in which he mentions Jones’s distinction, in Jones (1890) and (1982a), between intension and denotation—a distinction endorsed, as he noted in the published version of the article, by Keynes in the fourth (and final) edition of his influential text, *Studies and Exercises in Formal Logic* (Jourdain, 1911–12, 201–2, footnote 153)[^jourdain-1911]. Although Jourdain’s letter is now lost, it appears he is querying Russell about the relation between Jones’s distinction and Frege’s (and, quite possibly, Russell’s related distinction between meaning and denotation). Here Russell responds:
+Of course, there may have been non-philosophical reasons for this differential treatment. Bradley, lifetime fellow of Merton College and author of three widely-studied volumes, was a hugely important figure in philosophy at the time, whereas Jones, although *at* Cambridge, was squarely in the margins. While Girton and Newnham were technically colleges of Cambridge University, students at the women’s colleges were not officially members of the university and thus not eligible to receive degrees at the time (Schuringa 2025, 29)[^schuringa-2025]. The lack of formal recognition certainly had an effect on how the women at the colleges—both students and faculty—were perceived. (This is illustrated by an incident related by Virginia Woolf in *A Room of One’s Own*, where she is reprimanded by a “beadle” for straying onto the grass outside one of the men’s colleges—a privilege extended only to male students and faculty.) As Jones wrote in her autobiography: “The examination of women students at Girton was quite informal, and depended entirely on the good will of the examiners; no examiner need look over the papers of a woman student unless he chose, and our results were not announced with the men’s” (1922, 55). The tone of Jones’s letters to Russell similarly conveys the sense that Russell and his colleagues occupied a different world.
+
+One document of interest concerning the question of influence is a letter to Philip Jourdain, dated September 5, 1909. Jourdain had sent Russell the draft of a long survey article on Frege’s work, in which he mentions Jones’s distinction, in Jones (1890) and (1892a), between intension and denotation—a distinction endorsed, as he noted in the published version of the article, by Keynes in the fourth (and final) edition of his influential text, *Studies and Exercises in Formal Logic* (Jourdain, 1911–12, 201–2, footnote 153)[^jourdain-1911]. Although Jourdain’s letter is now lost, it appears he is querying Russell about the relation between Jones’s distinction and Frege’s (and, quite possibly, Russell’s related distinction between meaning and denotation). Here Russell responds:
 
 > It would seem, from what you say in your letter, that Miss Jones’s distinction of signification and denotation must be much the same as Frege’s Sinn and Bedeutung. But of course *some* such distinction is a commonplace of logic, and everything turns on the form given to the distinction. I have neither Keynes nor Miss Jones here, or I would look up the point. (Grattan-Guinness 1977, 119)[^grattan-guinness-1977]
 
-The note displays a remarkable lack of charity. Russell, instead of expressing interest in the possibility that Jones anticipated Frege on sense and reference, dismisses the distinction as “a commonplace of logic.” Going by what he writes here, *how* it is made, and not the distinction itself, is what is crucial. But until Russell developed the theory of descriptions, the distinction was made informally, both in his own case and in the case of Frege (1892)[^frege-1892][^frege-1892-2]. (While Frege 1893, §11, does present a formal theory of definite descriptions, one which could conceivably be employed as a formal theory of sense, it is doubtful that Russell had this version of Frege’s theory in mind when writing the above.) Surely the distinction had been worth making in the cases of Frege and of his earlier self, even though no particular form seems to have been given to the distinction in either case. Russell’s dismissal is therefore puzzling.
+The note displays a remarkable lack of charity. Russell, instead of expressing interest in the possibility that Jones anticipated Frege on sense and reference, dismisses the distinction as “a commonplace of logic.” Going by what he writes here, *how* the distinction is made, and not the distinction itself, is what is crucial. It is unclear what Russell means by giving the distinction “form,” however, so it is hard to see what, if anything, Russell is getting at here.
 
-Moreover, had Russell consulted Keynes’ account of Jones’s distinction, he would have encountered an example that is quite similar to one used by Frege in the opening paragraph of “On Sense and Reference”:
+One explanation of Russell’s dismissal of Jones’s distinction has to do with his correspondent. Jourdain, a former student of Russell’s, was quite conversant with the developing mathematical logic, had published informed survey articles on Frege, Boole, Jevons, MacColl, and Peano, and had written on Russell’s earlier work on the principles of mathematics. It’s conceivable that Russell resented the fact that Jourdain, expert in both the traditional Oxbridge logic and mathematical logic, took Jones to be touching on a point that he and Frege had already laid claim to—perhaps even beating them to a crucial insight. Matters are made worse by the suggestion that Jones had—however casually and indirectly—influenced Russell. (While Russell did not claim that proper names have sense or connotation, we have seen that his analysis of ‘Edward VII is the King’ does invoke a connotation-like entity—a denoting concept.) Any indication either that he was influenced by Jones, or that she anticipated him in some small way, would be seen by Russell as detracting from the significance of his own contribution. It is one thing to acknowledge a debt to a Frege or to a Peano. Russell saw these men not only as intellectual giants, but also as introducing genuinely revolutionary ideas and techniques into the study of logic and the foundations of mathematics. In contrast, Russell perceived Jones as manifestly not of their caliber and, in any event, thought her contributions to be philosophically quite retrograde. (There is also the fact, already mentioned, that the two, although at the same university, occupied different worlds.) For Russell, mindful of both of the figures he was allying himself with and of the innovation in thought that they were introducing, acknowledging that Jones had anticipated some of his ideas may have been repugnant. Small wonder, then, that he had thus far kept silent on the matter in his published work and correspondence. As it turns out, Jones was subsequently quickly to take credit (in print) for first giving expression to the distinction (see Jones 1910–11), although she refrained from suggesting that her work influenced Russell.
 
-> If out of all triangles we select those which possess the property of having three equal sides, and if again out of all triangles we select those which possess the property of having three equal angles, we shall find that in either case we are left with precisely the same set of triangles. Thus, each side of our equation denotes precisely the same class of objects, but the class is determined or arrived at in two different ways. (Keynes 1906, 190)[^keynes-1906]
+None of this is to deny that there may have been entirely intellectual reasons for Russell’s dismissal. As indicated, Russell clearly saw Jones as a throwback to an earlier period. Thus, even if there was some recognition that she had come upon a distinction quite similar to that between sense and reference, Russell’s indifference could quite easily be attributed to the fact that the insight was presented in the context of a system of logic that he rejected.[^note-2]
 
-Whether or not Keynes and Frege give the same “form” to the distinction, Keynes’s presentation is sufficiently close to Frege’s to suggest that one could hardly be in a position to dismiss the one, but not the other, as “commonplace”.[^note-3]
+### 4.2 The Exchange
 
-One explanation of Russell’s dismissal of Jones’s distinction has to do with his correspondent. Jourdain, a former student of Russell’s, was quite conversant with the developing mathematical logic (at least to a degree—he was a competent, but not quite first-rate, practitioner), went on to publish informed survey articles on (in addition to the piece on Frege already mentioned) Boole, Jevons, MacColl, and Peano, and had written on Russell’s earlier work on the principles of mathematics. It’s conceivable that Russell resented the fact that Jourdain, expert in both Oxbridge logic and mathematical logic, took Jones to be touching on a point that he and Frege had already laid claim to—perhaps even beating them to a crucial insight. Matters are made worse by the suggestion that Jones had—however casually and indirectly—influenced Russell. Any indication either that he was influenced by Jones, or that she anticipated him in some small way, would detract from Russell’s own contribution. It is one thing to acknowledge a debt to a Frege or to a Peano. Russell saw these men not only as intellectual giants, but also as introducing genuinely revolutionary ideas and techniques into the study of logic and the foundations of mathematics. Not only was Jones manifestly *not* of their caliber, she was also philosophically quite retrograde. For Russell, mindful both of the figures he was allying himself with and of the innovation in thought that they were introducing, acknowledging that Jones had anticipated some of his ideas may have been repugnant. Small wonder, then, that he kept silent on the matter in his published work and correspondence. As it turns out, Jones *was* quickly to take credit (in print) for first giving expression to the distinction (see Jones 1910–11), although she sensibly refrained from suggesting that her work influenced Russell.
-
-None of this is to deny that there may have been entirely intellectual reasons for Russell’s dismissal. As indicated, Russell clearly saw Jones as a throwback to an earlier period. Thus, even if there was some recognition that she had come upon a distinction quite similar to that between sense and reference or meaning and denotation, Russell’s indifference could quite easily be attributed to the fact that the insight was grafted onto a system of logic that he rejected.[^note-4]
-
-See Waithe and Cicero (1995, 37–43) for an extended discussion of the relation between Russell and Jones.
-
-## 5. The Exchange
-
-On December 2, 1910, Jones delivered a paper to the Cambridge Moral Sciences Club, titled “Categorical Propositions and the Law of Identity” (later published, under a different title, as Jones 1911a). Russell responded at a meeting three months later, on March 10, 1911, delivering “Knowledge by Acquaintance and Knowledge by Description”. While Russell did not acknowledge being influenced by Jones in his earlier work, nor did he compare her view to Frege’s, it is significant that he took her work seriously enough to merit a public response, one that would be recorded in one of his most influential papers.
+While Russell did not acknowledge being influenced by Jones, it is significant that he took her work seriously enough to merit a public response, one that would be recorded in one of his most influential papers. The paper in question is “Knowledge by Acquaintance and Knowledge by Description,” which Russell delivered to the Cambridge Moral Sciences Club on March 10, 1911. Russell was responding to a paper by Jones, “Categorical Propositions and the Law of Identity,” delivered to the same society three months earlier, on December 2, 1910 (Pitt 1981–82, 112)[^pitt-1981]. (Jones’s paper was published, under a different title, as Jones 1911a.)
 
 The main point of their exchange concerns the following well-known passage in “On Denoting”:
 
-> If *a* is identical with *b*, whatever is true of one is true of the other, and either may be substituted for the other in any proposition without altering the truth or falsehood of that proposition. Now George IV wished to know whether Scott was the author of *Waverley*; and in fact Scott *was* the author of *Waverley*. Hence, we may substitute *Scott* for *the author of ‘Waverley’,* and thereby prove that George IV wished to know whether Scott was Scott. Yet an interest in the law of identity can hardly be attributed to the first gentleman of Europe. (Russell 1905b, 420)[^russell-1905b]
+> If *a* is identical with *b*, whatever is true of one is true of the other, and either may be substituted for the other in any proposition without altering the truth or falsehood of that proposition. Now George IV wished to know whether Scott was the author of *Waverley*; and in fact Scott *was* the author of *Waverley*. Hence, we may substitute *Scott* for *the author of ‘Waverley’*, and thereby prove that George IV wished to know whether Scott was Scott. Yet an interest in the law of identity can hardly be attributed to the first gentleman of Europe. (Russell 1905, 420)[^russell-1905]
 
 Of this passage, Jones writes:
 
-> When George IV asked whether Scott was the author of *Waverley*, what he wanted to know was, whether the intension (‘meaning’, connotation) of *Author of ‘Waverley’* could be assigned to Scott—*i.e.,*—whether identity of denotation could be asserted between *Scott* and *Author of ‘Waverley’.* The “first gentleman of Europe” did not want to know whether Scott was Scott … .
->
-> No doubt, ‘if *a* is identical [in denotation] with *b,*’ whatever is true of the thing denoted by *a* is true of the same thing denoted by *b***—**with the obvious reservation that *a is a* does not convey the information that *a* has the intension (or connotation) *b*. (Jones 1910a, 379–80; the insertion is Jones’s)
+> When George IV asked whether Scott was the author of *Waverley*, what he wanted to know was, whether the intension (‘meaning’, connotation) of *Author of ‘Waverley’* could be assigned to Scott—i.e.,—whether identity of denotation could be asserted between *Scott* and *Author of ‘Waverley’.* The “first gentleman of Europe” did not want to know whether Scott was Scott … No doubt, ‘if *a* is identical [in denotation] with *b*,’ whatever is true of the thing denoted by *a* is true of the same thing denoted by *b*—with the obvious reservation that *a* *is* *a* does not convey the information that *a* has the intension (or connotation) *b*. (Jones 1910a, 379–80; the insertion is Jones’s)
 
-I quote Russell’s response at length:
+Russell responded:
 
-> Miss Jones argues that ‘Scott is the Author of *Waverley*’ asserts identity of denotation between *Scott* and *the author of Waverley*. But there is some difficulty in choosing among alternative meanings of this contention. In the first place, it should be observed that *the Author of Waverley* is not a *mere* name, like *Scott*. *Scott* is merely a noise, or shape conventionally used to designate a certain person; it gives no information about that person, and has nothing that can be called meaning as opposed to denotation. (I neglect the fact, considered above, that names, as a rule, really stand for descriptions.) But the *author of Waverley* is not merely conventionally a name for Scott; the element of mere convention belongs here to the separate words, *the* and *author* and *of* and *Waverley*. Given what these words stand for, *the author of Waverley* is no longer arbitrary. When it is said that Scott is the author of *Waverley*, we are not stating that these are two *names* for one man, as we should be if we said ‘Scott is Sir Walter’. A man’s name is what he is called, but however much Scott had been called the author of *Waverley*, that would not have made him be the author; it was necessary for him to actually write *Waverley*, which was a fact having nothing to do with names. (Russell 1910–11, 27–28)[^russell-1910]
+> Miss Jones argues that ‘Scott is the Author of *Waverley*’ asserts identity of denotation between *Scott* and *the author of Waverley*. But there is some difficulty in choosing among alternative meanings of this contention. In the first place, it should be observed that *the Author of Waverley* is not a mere *name*, like *Scott*. *Scott* is merely a noise, or shape conventionally used to designate a certain person; it gives no information about that person, and has nothing that can be called meaning as opposed to denotation. (I neglect the fact, considered above, that names, as a rule, really stand for descriptions.) But *the author of Waverley* is not merely conventionally a name for Scott; the element of mere convention belongs here to the separate words, *the* and *author* and *of* and *Waverley*. Given what these words stand for, *the author of Waverley* is no longer arbitrary. When it is said that Scott is the author of *Waverley*, we are not stating that these are two names for one man, as we should be if we said ‘Scott is Sir Walter’. A man’s name is what he is called, but however much Scott had been called the author of *Waverley*, that would not have made him be the author; it was necessary for him to actually write *Waverley*, which was a fact having nothing to do with names. (Russell 1910–11, 27–28)[^russell-1910]
 
-This passage expands on a point made in “On Denoting”, where Russell writes:
+This passage expands on a point made in “On Denoting,” where Russell writes:
 
-> Now the relation of meaning and denotation is not merely linguistic through the phrase: there must be a logical relation involved, which we express by saying that the meaning denotes the denotation. (Russell 1905b, 421)[^russell-1905b]
+> Now the relation of meaning and denotation is not merely linguistic through the phrase: there must be a logical relation involved, which we express by saying that the meaning denotes the denotation. (Russell 1905, 421)[^russell-1905]
 
-In his response, Russell explains why it is that the relation between a name and its referent is “merely linguistic through the phrase”, whereas the relation between a description and its denotation must be “logical”. The relation between a name ß and what it stands for is (merely) linguistic in that it is acceptable to specify what ß stands for with the phrase ‘the referent/denotation of ß’. The reason that it is acceptable is because ß has its reference or denotation determined conventionally. Thus, since no analysis is possible, all we can do is state the brute fact captured by the schema ‘ß stands for the referent/denotation of ß’. In contrast, the relation between a description and what it denotes is *logical*—the denotation relation is constrained by the meanings of the constituents of the description and their mode of combination. Thus, if ß is a description, ‘ß stands for the referent/denotation of ß’ does not state a brute fact about our use of ß. Rather, it states a fact that holds in virtue of other facts—facts about the meanings of ß’s constituents and their mode of combination.
+In his response, Russell explains why it is that the relation between a name and its referent is “merely linguistic through the phrase,” whereas the relation between a description and its denotation must be “logical.” The relation between a name ß and what it stands for is (merely) linguistic in that it is acceptable to specify what ß stands for with the phrase ‘the referent/denotation of ß.’ The reason that it is acceptable is because ß has its reference or denotation determined conventionally. Thus, since no analysis is possible, all we can do is state the brute fact captured by the schema ‘ß stands for the referent/denotation of ß.’ In contrast, the relation between a description and what it denotes is *logical*—the denotation relation is constrained by the meanings of the constituents of the description and their mode of combination. Thus, if ß is a description, ‘ß stands for the referent/denotation of ß’ does not state a brute fact about our use of ß. Rather, it states a fact that holds in virtue of other facts—facts about the meanings of ß’s constituents and their mode of combination.
 
 A bit later, he continues:
 
 > If we are to say, as Miss Jones does, that ‘Scott is the author of *Waverley*’ asserts an identity of denotation, we must regard the denotation of ‘the author of *Waverley*’ as the denotation of what is *meant* by ‘the author of *Waverley*’. Let us call the meaning of ‘the author of *Waverley*’ *M*. Thus *M* is what ‘the author of *Waverley*’ means. Then we are to suppose that ‘Scott is the author of *Waverley*’ means ‘Scott is the denotation of *M*’. But here we are explaining our proposition by another of the same form, and thus have made no progress towards a real explanation. ‘The denotation of *M*’, like ‘the author of *Waverley*’¸ has both meaning and denotation, on the theory we are examining. If we call its meaning *M*′, our proposition becomes ‘Scott is the denotation of *M*′’. But this leads to an endless regress. Thus the attempt to regard our proposition as asserting identity of denotation breaks down, and it becomes imperative to find some other analysis. When this analysis has been completed, we shall be able to reinterpret the phrase ‘identity of denotation’, which remains obscure so long as it is taken as fundamental. (Russell 1910–11, 28–29)[^russell-1910]
 
-Let’s unpack this. Russell is here evaluating a hypothesis according to which a description such as ‘the author of *Waverley*’ is, contrary to his own view, meaningful in isolation.[^note-5] To assume that this description is meaningful in isolation is to assume that, for some *M*, ‘the author of *Waverley*’ means *M*. Let’s call this meaning *M\**. Since we accept the following:
+Let’s unpack this. Russell is here evaluating a hypothesis according to which a description such as ‘the author of *Waverley*’ is, contrary to his own view, meaningful in isolation.[^note-3] To assume that this description is meaningful in isolation is to assume that, for some *M*, ‘the author of *Waverley*’ means *M*. Let’s call this meaning *M\**. Since we accept the following:
 
 > The denotation of ‘the author of *Waverley*’ = the denotation of what is *meant* by ‘the author of *Waverley*’
 
 we also accept
 
-> The denotation of ‘the author of *Waverley*’ = the denotation of *M\**
+> The denotation of ‘the author of *Waverley*’ = the denotation of *M*\*
 
-Now the meaning-in-isolation theorist might suggest that our original sentence, ‘Scott is the author of *Waverley*’, means that Scott is the denotation of *M*\*. But, as Russell observes, all this does is to replace one description with another. Since the theorist fails to tell us what ‘the author of *Waverley*’ means in terms that don’t involve an expression equally in need of analysis, we have been given no evidence that this, or any, description is meaningful in isolation.
+Now the meaning-in-isolation theorist might suggest that our original sentence, ‘Scott is the author of *Waverley*,’ means that Scott is the denotation of *M*\*. But, as Russell observes, *all this does is to replace one description with another*. Since the theorist fails to tell us what ‘the author of *Waverley*’ means in terms that don’t involve an expression equally in need of analysis, we have been given no evidence that this, or any, description is meaningful in isolation.
 
 Jones responds:
 
-> Mr. Russell explains my meaning to be that the denotation of *The author of Waverley* is the denotation of what is *meant* by *the author of Waverley*. But I do not accept this. Meaning, intension, of *author* is *authorship*; denotation of *author* is *person of whom authorship is an attribute*. I do not see from the fact of one proposition being explained by another of the same form … it follows that we “have made no progress towards a real explanation.” This would seem to involve that one categorical proposition cannot be explained by other categorical propositions. (Jones 1910–11, 183–184)
+> I do not see from the fact of one proposition being explained by another of the same form… it follows that we “have made no progress towards a real explanation.” This would seem to involve that one categorical proposition cannot be explained by other categorical propositions. (Jones 1910–11, 183–184)
 
-Jones rejects the proposal that what is denoted by *the F* = what is denoted by *the meaning of ‘the F’*. While her reasoning is obscure, the point seems to be that these descriptions cannot co-refer, since they involve different concepts—one, but not the other, involves the concept of denotation. The point is confused, however; clearly, the descriptions are co-denoting—relative to the assumption that ‘the meaning of *the F*’ has a denotation.
+Jones here objects to the regress argument’s conclusion that no real explanation of the *meaning* of denoting phrases can be achieved if we explain a proposition containing such a phrase with another proposition containing a phrase of the same form. While the point is undeveloped, it is nonetheless implied that a categorical proposition *can* indeed be explained by another categorical proposition, so from the fact that *p* and *q* share the same form it does not follow that (e.g.) *q* fails to explain *p* (in the relevant sense of ‘explain’). (Recall that she takes all categorical propositions to possess the same form.) In a similar vein, R. M. Sainsbury writes: “it is unclear what sort of explanation is needed, and why the circularity is vicious. This objection [i.e., Russell’s] must be regarded as therefore inconclusive” (Sainsbury 1979, 105)[^sainsbury-1979]. (Broad (1912)[^broad-1912] responds similarly.) Hylton (1990, 252–53)[^hylton-1990], on the other hand, argues quite persuasively that there is a vicious regress here (Hylton’s remarks are concerned specifically with the passage in “On Denoting,” however).
 
-Her second point is more intriguing: Jones objects to the regress argument’s conclusion that no real explanation of the *meaning* of denoting phrases can be achieved if we explain a proposition containing such a phrase with another proposition containing a phrase of the same form. Once again, however, the point is undeveloped. Nonetheless, it is implied that a categorical proposition *can* indeed be explained by another categorical proposition, so from the fact that *p* and *q* share the same form it does not follow that (e.g.) *q* fails to explain *p* (in the relevant sense of ‘explain’). (Recall that she takes all categorical propositions to possess the same form.) Echoing Jones’s sentiment, R. M. Sainsbury writes, “it is unclear what sort of explanation is needed, and why the circularity is vicious. This objection [i.e., Russell’s] must be regarded as therefore inconclusive” (Sainsbury 1979, 105)[^sainsbury-1979]. (Broad (1912)[^broad-1912] responds similarly.) Hylton (1990, 252–53)[^hylton-1990], on the other hand, argues quite persuasively that there *is* a vicious regress here (Hylton’s remarks are concerned specifically with the passage in “On Denoting”, however).
+The point is developed further in Jones’s reply to Broad (1912)[^broad-1912], responding to Jones (1910–11); see Jones (1913, 528) and Ostertag (2025, 44–45)[^ostertag-2025].
 
-The point is developed further in Jones’s reply to Broad (1912)[^broad-1912], responding to Jones (1910–11):
+### 4.3 Related Criticisms of Russell
 
-> If I say that the import of, *e.g.* Scott is the Author of *Waverley*, is to assert identity of denotation with diversity of intension, I can of course also say that: What is denoted by ‘what is denoted by “Scott”’, is identical with what is denoted by ‘what is denoted by “Author of *Waverley*”’. As Mr. Broad suggests, the repetition in Subject and Predicate is ineffective, and
+An important related criticism, not acknowledged by Russell in subsequent writings (it appeared after his response to Jones in “Knowledge by Acquaintance and Knowledge by Description”) is a critique of a famous passage in *Principia Mathematica*. In arguing that descriptions are incomplete symbols and have no meaning in isolation, Russell claims that although ‘Scott is the author of Waverley’ expresses an identity, ‘the author of Waverley’ cannot be a name. If it were, then it would be a value of *c* in the propositional function ‘Scott is *c*’. But this would mean that ‘Scott is the author of Waverley’ expresses what ‘Scott is Scott’ expresses, which is absurd:
+
+> The “author of *Waverley*” cannot mean the same as “Scott,” or “Scott is the author of *Waverley*” would mean the same as “Scott is Scott” which it plainly does not; nor can the “author of *Waverley*” mean anything other than “Scott” or “Scott is the author of *Waverley*” would be false. Hence the “author of *Waverley*” means nothing. (Whitehead and Russell 1910, 67)[^russell-1910][^whitehead-1910]
+
+Jones observes that the argument “seems to depend on a double use of the word meaning”:
+
+> [W]hen it is said that *the author of Waverley* cannot *mean* the same as *Scott*, *meaning* signifies intension or connotation; plainly intension (or connotation) of *the author of Waverley* and of *Scott*, cannot be the same. But when it is said that *the author of Waverley* cannot *mean* anything other than *Scott*, or *Scott is the author of Waverley* would be false, “mean anything other than *Scott*” must be understood of denotation; if *Scott* and *the author of Waverley* are two distinct persons, clearly *Scott is the author of Waverley* must be false. (My identity-in-diversity theory removes the difficulty at once.) (Jones 1910–11, 175–76)
+
+We can summarize her argument as follows. When Russell argues that ‘author of *Waverley*’ cannot mean the same as ‘Scott’ because this would imply that ‘Scott is the author of *Waverley*’ and ‘Scott is Scott’ express the same proposition, he uses ‘meaning’ in an intensional sense: “plainly intension (or connotation) of *the author of Waverley* and of *Scott*, cannot be the same.” But when he argues that ‘the author of *Waverley*’ *must* mean the same thing as ‘Scott’, he uses ‘meaning’ in the denotational sense. Russell’s premises, disambiguated, can be recast as follows: ‘the author of *Waverley*’ and ‘Scott’ cannot have the same intension; ‘the author of *Waverley*’ and ‘Scott’ must have the same denotation. From these, it does not follow that ‘the author of *Waverley*’ has neither denotation nor connotation—that it lacks meaning.
+
+Jones seems to be perfectly correct here. The *Principia* argument intending to show that descriptions such as ‘the author of *Waverley*’ have no meaning in isolation assumes that an expression can only possess one kind of meaning—and thus that sameness of meaning is either sameness of intension or sameness of denotation—and Jones is quite right to challenge this.
+
+Perkins (2011)[^perkins-2011] provides an alternative reading of the text as well as a useful history of the debate surrounding its interpretation. See also Green (2023)[^green-2023].
+
+## 5. Ethics and Moral Psychology
+
+In addition to her writings in philosophical logic, Jones’s work in ethics and moral psychology “was also of considerable value,” as the idealist philosopher J. S. Mackenzie noted in a memorial notice (1923, 228). These writings center on the interpretation and defense of Sidgwick’s views. Jones showed, against a popular interpretation of *The Methods of Ethics* (*ME*), that Sidgwick’s commitment to the irreducibility of normative vocabulary was fully compatible with his hedonistic utilitarianism. She also grappled with the dualism of the basic principles – of benevolence and prudence – that Sidgwick failed to resolve to his satisfaction.
+
+### 5.1 Practical Hedonism
+
+Shortly after Sidgwick’s death in 1900, a debate arose between F. H. Hayward and Jones in the pages of *The International Journal of Ethics*. Hayward, in his study of *ME*, read Sidgwick as an heir to Kant, a moral rationalist for whom “reason is a motive to the will” (1901, 361). In contrast, Jones read Sidgwick as a “rational hedonist”—i.e., as espousing the view that practical rationality has as its sole end maximizing pleasure.
+
+The controversy centered on Sidgwick’s claim that “the notion which these terms [‘ought’ and ‘right’] have in common is too elementary to admit of any formal definition” (*ME*, 31). The fact that we cannot formulate the logical or conceptual connections between ‘ought’ and ‘right’ suggests that our normative vocabulary cannot be further analyzed. At issue is whether Sidgwick’s position is consistent with rational hedonism. While the idea that the *sui generis* nature of our normative concepts is compatible with—perhaps implied by—moral rationalism, it seems incompatible with the hedonist’s imperative of maximizing pleasure or happiness.
+
+According to Hayward, Sidgwick, in admitting “that the notion of ‘oughtness or ‘rightness’ must be taken as ‘ultimate and unanalyzable’… breaks with hedonism.” As he elaborates:
+
+> No consistent Hedonist would admit that the notion is “ultimate”, and the few who would admit it to be “unanalyzable” would only do so on the ground that a meaningless notion is no notion at all, and therefore certainly unanalyzable. Hedonists contend that, if there is any validity in the notion of “oughtness”, the notion is capable of further analysis into “conduciveness to happiness or to absence of misery”. Sidgwick, therefore, in identifying “oughtness” or “rightness” with “reasonableness”, and maintaining that the notion represented by these words is fundamental to ethics, is far removed from the position of a consistent Hedonism. (1901a, 179)
+
+Hayward poses the question, concerning an action pursued to advance pleasure: “What is the motive to such action? Does the motive lie in the *end*, or in the *reasonableness*? If in the former, then Sidgwick is a Hedonist; if in the latter, he is not” (1901a, 181).
+
+On Hayward’s interpretation of *ME*, the motive lies in the reasonableness. But Jones demurs:
+
+> [T]he recognition that the ethical end, method and criterion must be reasonable, however fully admitted or strongly emphasized, can no more furnish a code of maxims, a rule of procedure, or even a criterion of right action, than the full admission that some statements are true, and an emphatic announcement that we seek the truth, can furnish a standard of truth, or concrete laws of science. We are still left asking, in the one case, What is it that it is reasonable to do? in the other, *Which* are the statements that are to be believed?
 >
-> **(1)**
->
-> Scott
->
-> **(2)**
->
-> What is denoted by ‘Scott’
->
-> **(3)**
->
-> What is denoted by ‘What is denoted by “Scott”’
->
-> have all three the same identical denotation.
->
-> **(1′)**
->
-> Scott is the Author of Waverley.
->
-> If my analysis (as far as denotation is concerned) is applied to this, we get:—
->
-> **(2′)**
->
-> What is denoted by ‘Scott’ is identical with what is denoted by ‘Author of *Waverley*’.
->
-> If the same analysis is applied to (2) we have :—
->
-> **(3′)**
->
-> What is denoted by ‘What is denoted by “Scott”’ is identical with what is denoted by ‘what is denoted by “Author of *Waverley*”’,
->
-> and so on. We have simply a repetition, for each successive more complicated proposition, of the analysis adopted.
->
-> I think that a regress equally “infinite,” equally inevitable, equally innocuous, equally useless, would emerge in the case of any propositional analysis treated in the same way… (Jones 1913, 528)
+> It is the answer to this question which shows whether an ethical thinker is an intuitionist or perfectionist, or egoist, or utilitarian, as the case may be. (Jones 1901, 355)
 
-Jones seems to miss an important point here. The existence of a sequence such as (1′)–(3′) is predicted on both analyses—one according to which ‘Author of *Waverley*’ (or ‘the author of *Waverley*’) has meaning in isolation, and one according to which it does not. Thus, the inevitability of the sequence is of no consequence, as it fails to tell against Russell’s theory.
+Hayward claims that one cannot be a hedonist and at the same time claim that our moral vocabulary is resistant to further analysis. But Jones responds with a powerful analogy. Consider, she suggests, the theorist who takes ‘true’ to be primitive and unanalyzable. Here, the parallel challenge—“How can you tell us not to accept as true a proposition without adequate evidence and yet take ‘true’ to be unanalyzable?”— falls flat. Surely such a theorist can maintain that ‘true’ is basic and yet tell us, without loss of consistency, which statements are reasonable to believe—i.e., are likely to be true. But then the challenge from ultimacy falls flat as well.
 
-To see this, note that Russell could easily acknowledge that a sequence of the following form will exist when ‘*a*’ is either a name or a definite description
+### 5.2 The Dualism of Practical Reason
 
-*a* is the referent of ‘*a*’ *a* is the referent of “the referent of ‘*a*’” *a* is the referent of ‘the referent of “the referent of ‘*a*’”’ $\vdots$
+A central goal of *ME* is to determine the rules guiding practical rationality and to present these as “methods”—“rational procedures for determining right conduct in any particular case” (78). *ME* argues at length for the rationality of benevolence: that our actions should have “Universal Good or Happiness” as their goal (507). But, alongside this primary rule or method, Sidgwick also recognizes a secondary rule of self-love, or egoism. The latter rule, he is forced to acknowledge, is equally rational:
 
-In the case of names, the first clause provides the ultimate explanation for the truth of each succeeding clause. This is not true, however, when ‘*a*’ is a description.
+> [E]ven if a man admits the self-evidence of the principle of Rational Benevolence, he may still hold that his own happiness is an end which it is irrational for him to sacrifice to any other*; and that therefore a harmony between the maxim of Prudence and the maxim of Rational Benevolence must be somehow demonstrated, if morality is to be made completely rational*. (498; emphasis added)
 
-Consider, for example, the following segment of an infinite sequence:
+The dualism of practical reason is precisely this fact, that practical reason is guided by two distinct but potentially incompatible rules. This incompatibility will not always rise to the surface, but there is the possibility that the two methods give divergent results. As Sidgwick writes, in such a case, “practical reason, being divided against itself, would cease to be a motive on either side” (508). This would be unacceptable for a moral rationalist like Sidgwick, who, in requiring self-evidence of his methods would surely also require that their conjunction meet the same requirement.
 
-**(4)**
-
-Scott
-
-**(5)**
-
-the referent of ‘Scott’
-
-**(6)**
-
-the referent of ‘the referent of “Scott”’
-
-We can say that:
-
-(4*)
-
-‘Scott’ refers to (4).
-
-(5*)
-
-‘Scott’ refers to (5).
-
-(6*)
-
-‘Scott’ refers to (6).
-
-Notice, however, that each member of the latter sequence *after* (4*) holds *because* (4*) holds. (Unless, of course, one wants to deny that even ‘Scott’ has meaning in isolation; but this is obviously not Jones’s position.) That is, ‘Scott’ refers to the referent of ‘Scott’ (i.e., (5)) because ‘Scott’ refers to Scott (i.e., (4)).
-
-Now consider the following initial segment of an infinite sequence, (7)–(9), together with the corresponding reference assignments, (7*)–(9*):
-
-**(7)**
-
-the author of *Waverly*
-
-**(8)**
-
-the referent of ‘the author of *Waverly*’
-
-**(9)**
-
-the referent of ‘the referent of “the author of *Waverly*”’
-
-(7*)
-
-‘the author of *Waverly*’ refers to (7)
-
-(8*)
-
-‘the author of *Waverly*’ refers to (8)
-
-(9*)
-
-‘the author of *Waverly*’ refers to (9)
-
-Here we see a contrast with (4*)–(6*): to explain the fact reported by (8*) by citing the fact reported by (7*) is unsatisfying, since (7*) is left unexplained. Moreover, (7*), unlike (4*), does not state a brute semantic fact–a fact that cannot be further explained in semantic terms. It is clear that, if ‘the author of Waverly’ is a singular term and, *contra* Russell, has meaning in isolation, then the relation between it and its denotation, Scott, cannot be like the one that obtains between ‘Scott’ and Scott.
-
-This disanalogy between the two cases may not settle the case in Russell’s favor—perhaps, ‘the author of *Waverly*’, like ‘Scott’, *is* meaningful in isolation after all, even though its meaning (or denotation), unlike that of ‘Scott’, can’t be assigned directly (indeed, Richard Montague provided the tools for constructing precisely such a meaning). Even so, Jones is wrong in thinking that the mere existence of a sequence such as (7*)–(9*) is dispositive.
-
-## 6. Related Criticisms of Russell
-
-An important related criticism, not acknowledged by Russell in subsequent writings (it appeared after his response to Jones in “Knowledge by Acquaintance and Knowledge by Description”) is a critique of a famous passage in *Principia Mathematica*. In arguing that descriptions are incomplete symbols and have no meaning in isolation, Russell claims that although ‘Scott is the author of *Waverley*’ expresses an identity, ‘the author of *Waverley*’ cannot be a name. If it were, then it would be a value of *c* in the propositional function ‘Scott is *c*’. But this would mean that ‘Scott is the author of *Waverley*’ expresses what ‘Scott is Scott’ expresses, which is absurd:
-
-> The “author of *Waverly*” cannot mean the same as “Scott,” or “Scott is the author of *Waverly*” would mean the same as “Scott is Scott” which it plainly does not; nor can the “author of *Waverly*” mean anything other than “Scott” or “Scott is the author of *Waverly*” would be false. Hence the “author of *Waverly*” means nothing. (Whitehead and Russell 1910, 67)[^russell-1910][^whitehead-1910]
-
-Jones observes:
-
-> Granted that *Intension* and *Denotation* are differently defined, this argument seems to depend on a double use of the word meaning—thus: when it is said that *the author of Waverley* cannot *mean* the same as *Scott*, *meaning* signifies intension or connotation; plainly intension (or connotation) of *the author of Waverley* and of *Scott*, cannot be the same. But when it is said that *the author of Waverley* cannot *mean* anything other than *Scott*, or *Scott is the author of Waverley* would be false, “mean anything other than *Scott*” must be understood of denotation; if *Scott* and *the author of Waverley* are two distinct persons, clearly *Scott is the author of Waverley* must be false. (My identity-in-diversity theory removes the difficulty at once.) (Jones 1910–11, 175–76)
-
-Jones’s point can be summarized as follows. When Russell argues that ‘author of *Waverly*’ cannot mean the same as ‘Scott’ because this would imply that ‘Scott is the author of *Waverley*’ and ‘Scott is Scott’ express the same proposition, he uses ‘meaning’ in an intensional sense: “plainly intension (or connotation) of *the author of Waverley* and of *Scott*, cannot be the same.” But when he argues that ‘the author of Waverly’ *must* mean the same thing as ‘Scott’, he uses ‘meaning’ in the denotational sense. Russell’s premises, disambiguated, can be recast as follows: ‘the author of *Waverly*’ and ‘Scott’ cannot have the same intension; ‘the author of *Waverly*’ and ‘Scott’ must have the same denotation. From these, it does not follow that ‘the author of *Waverly*’ has neither denotation nor connotation—that it lacks meaning.
-
-Jones seems to be perfectly correct here. The *Principia* argument intending to show that descriptions such as ‘the author of *Waverly*’ have no meaning in isolation assumes that an expression can only possess one kind of meaning—and thus that sameness of meaning is either sameness of intension or sameness of denotation—and Jones is quite right to challenge this. (But see Perkins 2011 both for an alternative reading of the text as well as a useful history of the debate surrounding its interpretation.)[^perkins-2011]
-
-## 7. The Dualism of Practical Reason
-
-As indicated above, Jones also made significant contributions to ethics and moral psychology. This section will focus on her major contribution to these areas—her attempt at a resolution to a problem that Sidgwick stated in his *The Methods of Ethics* (*ME*), but which he never resolved to his satisfaction: the dualism of practical reason.
-
-A central goal of *ME* is to determine the rules guiding practical rationality and to present these as “methods”—“rational procedures for determining right conduct in any particular case” (78). *ME* argues at length for the rationality of benevolence: that our actions should have “Universal Good or Happiness” as their goal (507). But, alongside this primary rule or method, Sidgwick also recognizes a secondary rule of self-love or egoism. The latter rule, he is forced to acknowledge, is equally rational: “even if a man admits the self-evidence of the principle of Rational Benevolence, he may still hold that his own happiness is an end which it is irrational for him to sacrifice to any other; *and that therefore a harmony between the maxim of Prudence and the maxim of Rational Benevolence must be somehow demonstrated, if morality is to be made completely rational*” (498; emphasis added).
-
-The dualism of practical reason is precisely this fact, that practical reason is guided by two distinct but potentially incompatible rules. This incompatibility will not always rise to the surface, but there is a possibility that the two methods give divergent results. As Sidgwick writes, in such a case, “practical reason, being divided against itself, would cease to be a motive on either side”(508). This would be unacceptable for a moral rationalist like Sidgwick, who, in requiring self-evidence of his methods would surely also require that their conjunction meet the same requirement.
-
-Sidgwick’s dissatisfaction with this state of affairs was not simply intellectual. As Bart Schultz notes in his biography:
+Sidgwick’s dissatisfaction with this state of affairs was not simply intellectual. As Schultz notes in his biography:
 
 > The gloomy last line of the first edition of the *Methods* rang out like an English version of the “crisis of the Enlightenment”, warning that practical reason might be reduced to a “chaos.” (2004, 15; note removed)
 
-Sidgwick rejected a “metaphysical” resolution of the dualism. On this view, selfless actions are rewarded in the afterlife, with God or some other force guaranteeing that self-interest and benevolence coincide. He similarly dismissed the view that the methods coincide due to facts about our evolutionary history—that selectional pressures have seen to it that what we desire for ourselves is precisely what benefits the species as a whole. In each case, we are asked to believe that the circumstances in which the methods deliver conflicting results will simply not arise, either due to “the moral government of the universe” or to the contingencies of natural selection.
+Sidgwick rejected a “metaphysical” resolution of the dualism, wherein selfless actions are rewarded in the afterlife, with God or some other force guaranteeing that self-interest and benevolence coincide. He similarly dismissed the view that the methods coincide due to facts about our evolutionary history—that selectional pressures have seen to it that what we desire for ourselves is precisely what benefits the species as a whole. In each case, we are asked to believe that the circumstances in which the methods deliver conflicting results will simply not arise, either due to “the moral government of the universe” or to the contingencies of natural selection.
 
 Sidgwick’s rationalism had him set a high bar for ethical propositions—that they have the certainty of “any axiom in Arithmetic or Geometry” (507). Since the above resolutions fall far short of these standards, he could not accept them.
 
-Jones addressed the dualism on various occasions throughout her career (Jones 1894, 1894–95, 1895, 1909, 1917–18, 1920), and a full survey of these discussions is not possible here. This section will focus on her most considered response to the dualism, her late publication “Practical Dualism” (Jones 1917–18). Where relevant, I will also quote from her roughly coeval entry on Sidgwick for the *Encyclopaedia of Religion and Ethics* (Jones 1920).
+Jones addressed the dualism throughout her career (Jones 1894, 1894–95, 1895, 1909, 1917–18, 1920), and a full survey of these discussions is not possible here. This section will focus on her most considered response to the dualism, her late publication “Practical Dualism” (Jones 1917–18), occasionally making reference to her final publication, the entry on Sidgwick for the *Encyclopaedia of Religion and Ethics* (Jones 1920)—a work that reveals as much about Jones’s own views as Sidgwick’s.
 
 Jones’s stated aim in “Practical Dualism” is to “deduce” the rule of prudence (or rational self-interest) from benevolence (Jones 1917–18, 323): “The reasonableness of benevolence implies the reasonableness of self-love” (1920, 504). The upshot is that we have reduced our fundamental principles to one, thus solving the problem of the dualism of two methods.
 
 The claim that benevolence entails self-love might strike us as puzzling. At least since *The Republic*, the thought has been that, if there is an entailment, it should go in the opposite direction: self-love entails benevolence, and, accordingly, it is in my interest to promote the happiness of others. But as the following makes clear, Jones’s point is slightly different:
 
-> It would thus appear that Benevolence implies Self-Love, and Rational Benevolence irresistibly leads us back to the rationality of Self-Love as our starting-point. Similarly, in the precepts “Do unto others as ye would (reasonably would) *they should do unto you*,” “Love your neighbour *as yourself*,” it is implied that the love of self is logically prior to, and sets the standard for, love of our neighbour. (1917–18, 324; see also 1920, 504)
+> It would thus appear that Benevolence implies Self-Love, and Rational Benevolence irresistibly leads us back to the rationality of Self-Love as our starting-point. Similarly, in the precepts “Do unto others as *ye would* (reasonably would) *they should do unto you*,” “Love your neighbour *as yourself*,” it is implied that the love of self is logically prior to, and sets the standard for, love of our neighbour. (1917–18, 324; see also 1920, 504)
 
 What Jones is claiming here is that the very formulation of benevolence *presupposes* the rationality of self-love. If we had no independent conception of the value of happiness, then neither self-love nor benevolence would be rationally binding. But the only way that I can come to grasp the value of happiness is by grasping it in my own case. If I grasp the value of your happiness *for you*, it is only because I already grasp the value of my happiness for me:
 
-> Now, a man cannot experience, cannot directly know, any happiness but his own. It must, therefore, be on the ground that *his own* happiness is *to himself* ultimately and intrinsically valuable, valuable in itself, that he can logically regard the happiness of others as ultimately and intrinsically valuable to them. *His reasoned belief in the value for others of their own happiness must be based, it can only be based, on his recognition of the value for himself of his own happiness*. (323; final emphasis added)
+> Now, a man cannot experience, cannot directly know, any happiness but his own. It must, therefore, be on the ground that *his own* happiness is *to himself* ultimately and intrinsically valuable, valuable in itself, that he can logically regard the happiness of others as ultimately and intrinsically valuable to them. *His reasoned belief in the value for others of their own happiness must be based, it can only be based, on his recognition of the value for himself of his own happiness*. (1917–18, 323; final emphasis added)
 
-My appreciation of the intrinsic value of others’ happiness to them is grounded in my appreciation of the intrinsic value of my happiness for me. What this means *logically* is that the principle *presupposes* self-love. That is, the principle of benevolence is neither true nor false if the principle of self-love is false. (See the entry on Presupposition.)
+My appreciation of the intrinsic value of others’ happiness to them is grounded in my appreciation of the intrinsic value, to me, of my happiness. What this means logically is that the principle *presupposes* self-love. That is, the principle of benevolence is neither true nor false if the principle of self-love is false.
 
-Thus it appears that when Jones writes that “rational benevolence implies or includes the rationality of self-love” (328; emphasis added) she does not have logical implication in mind but rather the relation of presupposition. Moreover, this claim is itself far more plausible on the face of it than the claim of logical entailment.
+Thus it appears that when Jones writes that “rational benevolence *implies* or *includes* the rationality of self-love” (328; emphasis added) she does not have logical implication in mind but rather the relation of presupposition. Moreover, this claim is itself far more plausible on the face of it than the claim of logical entailment.
 
-Still, the question arises, what does the claim of presupposition show? It shows at least this much, that the two principles are consistent—relative to the assumption, as Jones is quick to point out, that benevolence is itself non-contradictory (324). This is a significant development, since Sidgwick’s central concern was with the compatibility of the two principles. If benevolence requires that self-love be true for *it* to be true (or false), then the two must be consistent (assuming benevolence is).
+One might challenge Jones’s response in two ways. One might question her assumption that the rule of benevolence presupposes self-love in precisely the way that the Golden Rule presupposes self-love. Broad (1930, 158-9)[^broad-1930], for example, held that benevolence has no such presupposition. On his view, the ethical hedonist (who advocates benevolence) and the rational egoist (who does not) have different conceptions of the good—“my Good [says the egoist] and your Good… are not parts of a total Good.” Since they involve distinct conceptions of the good, the formulation of the one position cannot presuppose the truth of the other. Nonetheless, since they make conflicting commands regarding certain conceivable situations, we cannot rationally subscribe to both.
 
-One might challenge Jones’s response in two ways. One might question her assumption that the rule of benevolence presupposes self-love in precisely the way that the Golden Rule presupposes self-love. Broad (1930, 158–9), for example, held that benevolence has no such presupposition. On his view, the ethical hedonist (who advocates benevolence) and the rational egoist have different conceptions of the good—“my Good [says the egoist] and your Good… are not parts of a total Good.” Since they involve distinct conceptions of the good, the formulation of the one position cannot presuppose the truth of the other. Nonetheless, since they make conflicting commands regarding certain conceivable situations, we cannot rationally subscribe to both.
+The other concern is that she has, at best, shown that one who embraces benevolence cannot consistently reject self-love. But this does not give us a positive argument for the rational egoist to accept benevolence. Jones does argue, in “Practical Dualism,” that as humans we are by nature empathetic, often, through an innate impulse, identifying our happiness with the happiness of others. While it may be possible to argue, on such a basis, that the mere possession of the concept of happiness makes us value it in others as much as we value it in ourselves, it remains the case that this is a psychological fact. It is one thing to claim that we are *by nature* drawn to value happiness in others because we value it in our own case, quite another to claim that we rationally ought to value happiness in others simply because we value it in our own case.
 
-The other concern is that she has, at best, shown that one who embraces benevolence cannot consistently reject self-love. But this does not give us a positive argument for the rational egoist to accept benevolence. Jones does argue, in “Practical Dualism,” that as humans we are by nature empathetic, often, through an innate impulse, identifying our happiness with the happiness of others. While it may be possible to argue, on such a basis, that the mere possession of the concept of happiness makes us value it in others as much as we value it in ourselves, it remains the case that this is a psychological fact. While it may be so that we by nature are drawn to value in others what we value in ourselves, it does not follow that we rationally ought to do so simply because we do so—or even that we ought to do so—in our own case.
+Ostertag and Favia (2020) and Ostertag (2025)[^ostertag-2025] provide more comprehensive accounts of Jones’s responses. See Soames (2014, 263–69)[^soames-2014] and the entries on Henry Sidgwick and Bertrand Russell’s Moral Philosophy for more on the Sidgwickian background.
 
-Ostertag and Favia (2020) presents a more comprehensive account of Jones’s responses. See Soames (2014, 263–69)[^soames-2014] and the entries on Henry Sidgwick and Bertrand Russell’s Moral Philosophy for more on the Sidgwickian background.
+## 6. Conclusion
 
-## 8. Women in Early Analytic Philosophy
+Jones was not the only woman writing in the Anglo–American tradition during this period: C. S. Peirce’s student, Christine Ladd–Franklin (1847–1930), made significant contributions to logic and psychology, and the writings of Victoria Welby (1837–1912) on meaning were widely read. Later figures include Dorothy Wrinch (1894–1976), a Girton student during Jones’s tenure who went on to study under Russell, and Susanne Langer (1895–1985), who wrote a dissertation under Alfred North Whitehead at Radcliffe in 1926. Wrinch, who published papers in *Mind* on, among other things, Russell’s theory of judgment and the theory of relativity, later abandoned philosophy for chemistry, teaching for many years at Smith College. (Senechal’s masterful biography (Senechal 2012)[^senechal-2012] traces Wrinch’s evolution as a scientist.) Langer, who would achieve prominence in the philosophy of art in the 1940s, published several technical articles on type theory and judgement early in her career. Possibly the most prominent woman analytic philosopher of the first half of the twentieth century, however, was another Girton student, Susan Stebbing (1885–1943), Professor of Philosophy at Bedford College, London, and co-founder of the journal *Analysis*. Jones’s administrative savvy provided a jump-start to Stebbing’s career—a grant enabling Stebbing to complete her first book, *Pragmatism and French Voluntarism* (Stebbing 1914, vi)[^stebbing-1914]. Jones also wrote a letter, unearthed and now published by Emily Thomas (Thomas 2026)[^thomas-2026], in support of Stebbing’s application for her position at Bedford College. The fact that Stebbing, through her most successful student, Max Black, is responsible for one of the largest “families” in Josh Dever’s Philosophy Tree (see Other Internet Resources), shows Frederique Janssen-Lauret’s metaphor of Jones and Stebbing as “grandmothers of analytic philosophy” to be quite apt.
 
-Jones was not the only woman approaching philosophical logic and ethics from a broadly analytic perspective during this period: Peirce’s student, Christine Ladd-Franklin (1847–1930), made significant contributions to logic and psychology (see Russinoff 1999 for Ladd-Franklin’s contributions to the algebra of logic)[^russinoff-1999], and the writings of Lady Victoria Welby (1837–1912) on meaning were widely read. Indeed, Peirce wrote a joint review of her *What is Meaning?* and Russell’s *Principles of Mathematics* for *The Nation*. (Dale 1996 discusses Welby’s role in the development of the theory of meaning.)[^dale-1996] Later figures include the philosopher of science, Dorothy Wrinch (1894–1976), a Girton student who went on to study under Russell, and Susanne Langer (1895–1985), who wrote a dissertation under Alfred North Whitehead at Radcliff in 1926. Wrinch, who published papers in *Mind* on, among other things, the unity of the proposition and the theory of relativity, later abandoned philosophy for chemistry, teaching for many years at Smith College. Langer, who would achieve prominence in the philosophy of art beginning in the 1940s, published several technical articles on type theory and related topics early in her career (Langer 1926, 1927; McDaniel 2017 is a useful guide to her early work)[^langer-1926][^langer-1927][^mcdaniel-2017]. Possibly the most prominent woman analytic philosopher of the first half of the twentieth century, however, was another Girton student, L. Susan Stebbing (1885–1943), Professor of Philosophy at Bedford College, London, and co-founder of the journal *Analysis*. Stebbing, through her most successful student, Max Black, is responsible for one of the largest “families” in Josh Dever’s Philosophy Family Tree (see Other Internet Resources).
-
-Waithe (1995)[^waithe-1995][^waithe-1995-2] is an important resource for research into these women, as well as numerous minor figures; see also van der Schaar and Schliesser (2017). On the larger question of the erasure of women from the history of philosophy, from antiquity to the French Revolution, Eileen O’Neill’s essay, “Disappearing Ink” (O’Neill 1998)[^o’neill-1998], remains indispensable.
+On historiographical matters, Connell and Janssen-Lauret (2022) discuss the exclusion of women from histories of analytical philosophy. On the larger question of the erasure of women from the history of philosophy, from antiquity to the French Revolution, Eileen O’Neill’s essay, “Disappearing Ink” (O’Neill 1998)[^o’neill-1998], remains indispensable.
 
 ## References（引用注释）
 
@@ -392,94 +330,139 @@ Waithe (1995)[^waithe-1995][^waithe-1995-2] is an important resource for researc
 
 ## Other Internet Resources
 
-- Josh Dever, [The Philosophy Family Tree](https://buffalo.box.com/shared/static/rfw2te10ti7rdk6ksk0dnqb2zef9qqzk.pdf).
+- [The Philosophy Tree: An Academic Genealogy of Philosophy](https://academictree.org/philosophy/index.php).
 - E. E. Constance Jones, [A New Law of Thought and Its Logical Bearings](http://www.archive.org/details/newlawofthought00joneuoft)
 - E. E. Constance Jones, [Elements of Logic as a Science of Propositions](https://archive.org/details/elementsoflogica00joneiala)
 - E. E. Constance Jones, [An Introduction to General Logic](https://archive.org/details/anintroductiont02jonegoog)
+- J. Peijnenburg and S. Verhaegh. 2023. [Analytic Women](https://aeon.co/essays/the-lost-women-of-early-analytic-philosophy)
 
 ## Related Entries
 
-algebra of logic tradition | Frege, Gottlob | Jevons, William Stanley | Port Royal Logic | Russell, Bertrand | Russell, Bertrand: moral philosophy | Sidgwick, Henry | Stebbing, Susan
+Algebra of Logic Tradition | [Feminist History of Philosophy](https://plato.stanford.edu/entries/feminist-history-of-philosophy) | Frege, Gottlob | Jevons, William Stanley | Langer, Susanne | Moore, George Edward | Port Royal Logic | Psychologism | Russell, Bertrand | Russell, Bertrand: Moral Philosophy | Sidgwick, Henry | Stebbing, Susan
 
 ### Acknowledgements
 
-I would like to thank Amanda Favia, Oliver Marshall, Frank Pupa and Rosemary Twomey for helpful comments on an earlier draft. Thanks also to Ben Caplan for helping sort out the date of Jones’s 1910 lecture to the Cambridge Moral Sciences Club. I remain indebted to Kenneth Blackwell, Rosalind Carey, Juliet Floyd, Nicholas Griffin, Kevin Klement and Consuelo Preti for their help on the first version.
+I would like to thank Ray Buchanan, Ben Caplan, and Consuelo Preti for their helpful comments on the current version of this entry. I remain indebted to friends and colleagues who commented on the previous versions.
 
 ## Notes（原文脚注）
 
-[^note-1]: Note that (3) is quite close to Russell’s analysis of ‘Socrates is *a* mortal’: $\exists y (\textit{Mortal}(y) \amp \textit{Socrates} = y)$. See Russell 1919, 71.
+[^note-1]: Russell and Jones did exchange letters between 1909 and 1911, although only Jones’s side of the correspondence is preserved, so Russell clearly knew of Jones, if not her work. The exchange contains a response to a letter Russell wrote in which he appears to have clarified his response to an earlier letter by Jones – or, possibly, his response to Jones (1910a), which had just appeared in *Mind* (August 5, 1910); a request to attend Russell’s lectures on the principles of mathematics (November 2, 1910); a note a month later thanking Russell for allowing Jones to attend (December 1, 1910); and, finally, a note thanking Russell for agreeing to lecture at Girton on “Philosophy and Common Sense” (June 26, 1911). The letters are reproduced, with useful introduction and notes, in Thomas (2026)[^thomas-2026].
 
-[^note-2]: Russell and Jones did exchange letters sometime between 1909 and 1911, although only Jones’s side of the correspondence is preserved (the letters are dated in month-day format, and the precise year cannot always be determined by reference to external events), so Russell clearly knew of Jones herself, if not her work. The exchange contains a request to attend Russell’s lectures on the principles of mathematics, a note some months later thanking Russell for allowing Jones to attend, a note thanking Russell for agreeing to lecture at Girton on “Philosophy and Common Sense”, and, finally, a response to a letter Russell wrote in which he appears to have clarified his response to an earlier letter by Jones (or, possibly, to Jones 1910).
+[^note-2]: Russell privately expressed reservations about Jones’s philosophical abilities. Regarding a forthcoming meeting of the Moral Sciences Club, which he would be unable to attend, Russell wrote to Lady Ottoline Morrell, on January 14, 1914: “poor Miss Jones (Principal of Girton, inventor of a new law of thought, motherly, prissy, and utterly stupid) is reading” (Russell 1992, 470)[^russell-1992]. The utter disdain expressed here hardly simplifies matters. Possibly the hostility to Jones was due in part to her perceived “stupidity”; but there is also the very real possibility that the reverse is true and the hostility in fact colored his estimation of her abilities. On the other hand, it’s also worth bearing in mind the context of Russell’s remark—a letter to his lover. He may well, for dramatic effect, be overstating his disdain (much as he would, in a letter to Morrell the following year, overstate the impact on him of Wittgenstein’s criticisms).
 
-[^note-3]: Frege’s example, though different from Keynes’s, is sufficiently close to it to make us suspect that Keynes, if not Jones, was influenced by Frege (the text of Jones he cites was completed in 1889, so there can be no question of Jones being influenced by Frege). However, given that Frege’s text was not widely known at the time, and that in any case Keynes did not read German (Skidelsky 1983, 61)[^skidelsky-1983], this appears unlikely.
-
-[^note-4]: Russell, it should be mentioned, later expressed misgivings about Jones’s abilities. Regarding a forthcoming meeting of the Moral Sciences Club, which he would be unable to attend, Russell wrote to Lady Ottoline Morrell, on January 14, 1914: “poor Miss Jones (Principal of Girton, inventor of a new law of thought, motherly, prissy, and utterly stupid) is reading” (Russell 1992, 470)[^russell-1992]. The utter disdain expressed here hardly simplifies matters. Possibly the hostility to Jones was due in part to her perceived “stupidity”; but there is also the very real possibility that the reverse is true and the hostility in fact colored his estimation of her abilities.
-
-[^note-5]: Russell (1905), (1910) held that definite descriptions could not be assigned meanings directly, but admitted only of a contextual definition. When we provide an analysis of a sentence containing a description *the F*, no item corresponding to the description remains. On the contextual definition Russell favored, *the F is G* is defined as: *something is both G and uniquely F*.
+[^note-3]: Russell (1905, 1910)[^russell-1910][^russell-1905] held that definite descriptions could not be assigned meanings directly, but admitted only of a contextual definition. When we provide an analysis of a sentence containing a description *the F*, no item corresponding to the description remains. On the contextual definition Russell favored, *the F is G* is defined as: *something is both G and uniquely F*.
 
 [^anonymous-1921]: Anonymous, 1921–22, “In Memoriam: Miss E. E. Constance Jones,” *Proceedings of the Aristotelian Society*, 22: 224–225.
 
+[^bradley-1895]: Bradley, F. H., 1895, “‘Rational Hedonism’—Note by Mr. Bradley,” *International Journal of Ethics*, 5(3): 383–84.
+
 [^broad-1912]: Broad, C.D, 1912, Review of the *Proceedings of the Aristotelian Society, 1910–1911, Mind*, 21: 260–287.
 
-[^frege-1980]: Frege, G., 1980, *Philosophical and Mathematical Correspondence*, G. Gabriel, *et al*. (eds.), H. Kaal (trans.), Oxford: Blackwell Publishers, 1980.
+[^caplan-2022a]: Caplan, B., 2022a, “E. E. Constance Jones on Existence in Fiction and Imagination,” *Studia Semiotyczne (Semiotic Studies)*, 36(1): 175–191. doi:10.26333/sts.xxxvi1.11
+
+[^caplan-2022b]: –––, 2022b, “E. E. Constance Jones on Unique Existence,” *Asian Journal of Philosophy*, 1: 20. doi:10.1007/s44204-022-00022-6
+
+[^caplan-2023]: –––, 2023, “E. E. Constance Jones on Existence in a Region of Supposition,” *Journal for the History of Analytical Philosophy*, 11(7): 1–26.
+
+[^caplan-nd]: –––, forthcoming, “E. E. Constance Jones on the Import and Significance of Categorical Sentences,” in Vagnetti and Vrahimis (eds.) forthcoming.
+
+[^connell-2022]: Connell, S. M. and F. Janssen-Lauret, 2022, “Lost Voices: Women in Philosophy 1870–1970,” *British Journal for the History of Philosophy*, 30(2): 199–210. doi:10.1080/09608788.2021.1984201
+
+[^connell-2023]: –––, 2023,“‘Bad philosophy’ and ‘Derivative Philosophy’: Labels that Keep Women out of the Canon,” *Metaphilosophy*, 54(2–3): 238–53. doi:10.1111/meta.12613
+
+[^elkind-2024]: Elkind, L., and A. M. Klein (eds.), 2024, *Bertrand Russell, Feminism, and Women Philosophers in his Circle*, Cham: Palgrave Macmillan.
+
+[^frege-1976]: Frege, G., [BW], *Wissenschaftlicher Briefwechsel*, Gottfried Gabriel, Hans Hermes, and Friedrich Kaulbach (eds.), Hamburg: Felix Meiner, 1976.
+
+[^frege-1980]: –––, 1980, *Philosophical and Mathematical Correspondence*, G. Gabriel, *et al*. (eds.), H. Kaal (trans.), Oxford: Blackwell Publishers, 1980.
+
+[^gilliland-1895]: Gilliland, M. H., 1895, “‘Rational Hedonism’ Again,” *International Journal of Ethics*, 5(3): 376–77.
+
+[^green-2023]: Green, K., 2023, “On E. E. Constance Jones’s Account of Categorical Propositions and Her Defense of Frege,” *Australasian Journal of Philosophy*, 101(4): 863–875. doi:10.1080/00048402.2022.2063352
+
+[^green-2026]: –––, 2026, “E. E. Constance Jones and Hermann Lotze,” in Nikolay Milkov and Michele Vagnetti (eds.), *The Philosophy of Rudolph Hermann Lotze*, New York: Routledge, 92–102.
+
+[^hayward-1901a]: Hayward, F. H. 1901a, “The True Significance of Sidgwick’s Ethics,” *International Journal of Ethics*, 11(2): 175–87
+
+[^hayward-1901b]: –––, 1901b, “Mr. Hayward’s Evaluation of Professor Sidgwick’s Ethics: A Reply,” *International Journal of Ethics*, 11(3): 360– 65
+
+[^heis-2013]: Heis, J., 2013, “Frege, Lotze, and Boole,” in Erich H. Reck (ed.), *The Historical Turn in Analytical Philosophy*, Basingstoke: Palgrave Macmillan, pp. 133–8.
 
 [^hicks-1913]: Hicks, L.E., 1913, “Identity as a Principle of Stable Values and as a Principle of Difference,” *Philosophical Review*, 22: 375–394.
 
-[^jourdain-1911]: Jourdain, P. E. B., 1911–12, “The Development of the Theories of Mathematical Logic and the Principles of Mathematics,” *The Quarterly Journal of Pure and Applied Mathematics*, 43: 219–314; page reference is to the reprint in Frege 1980.
+[^janssen-lauret-2024]: Janssen-Lauret, F., 2024, “Grandmothers and Founding Mothers of Analytic Philosophy: Constance Jones, Bertrand Russell, and Susan Stebbing on Complete and Incomplete Symbols,” in Elkind and Klein (eds.) 2024, pp. 207–39. doi:10.1007/978-3-031-33026-1_8
 
-[^keynes-1906]: Keynes, J. N., 1906, *Studies and Exercises in Formal Logic*, London: Macmillan and Co., 4ᵗʰ Edition.
+[^janssen-lauret-2025]: –––, 2025, “Constance Jones, Christine Ladd-Franklin, and Victoria Welby: Grandmothers of analytic philosophy in *Mind*,” in *The Early Years of Mind: Making Contemporary Philosophy and Psychology*, Lukas M. Verburgt (ed.), Oxford: Oxford University Press, pp. 347–69. doi:10.1093/oso/9780192869296.003.0017
+
+[^jourdain-1911]: Jourdain, P. E. B., 1911–12, “The Development of the Theories of Mathematical Logic and the Principles of Mathematics,” *The Quarterly Journal of Pure and Applied Mathematics*, 43: 219–314; page references are to the reprint in Frege 1980.
+
+[^keynes-1906]: Keynes, J. N., 1906, *Studies and Exercises in Formal Logic*, London: Macmillan and Co., 4ᵗʰ edition.
 
 [^klein-1911]: Klein, A., 1911, “Negation Considered as a Statement of Difference in Identity,” *Mind*, 20: 521–29.
 
 [^ladd-franklin-1890]: Ladd-Franklin, C., 1890, Review of *Elements of Logic as a Science of Propositions*, *Mind*, 15: 559–563.
 
+[^mackenzie-1895]: Mackenzie, J. S., 1895, “Rational Hedonism,” *International Journal of Ethics*, 5(2): 218–31
+
 [^mackenzie-1923]: Mackenzie, J. S., 1923, “The Late Miss E. E. Constance Jones, Litt. D,” *International Journal of Ethics*, 33(2): 228.
 
 [^mercier-1914]: Mercier, C., 1914, “Some Fundamentals of Logic,” *Mind* (N.S.), 92: 550–557.
 
-[^ostertag-2020]: Ostertag, G. and A. Favia, 2020, “E. E. Constance Jones on the Dualism of Practical Reason,” *British Journal for the History of Philosophy*, doi:10.1080/09608788.2020.1749828.
+[^ostertag-2023]: Ostertag, G., 2023, “E. E. Constance Jones on Identity and Predication,” in Jeanne Peijnenburg and Sander Verhaegh (eds.), *Women in the History of Analytic Philosophy*, Cham: Springer, pp. 49–66. doi:10.1007/978-3-031-08593-2_3
 
-[^perkins-2011]: Perkins, R., 2011, “Incomplete Symbols in *Principia Mathematica* and Russell’s ‘Definite Proof’,” *Russell: The Journal of Bertrand Russell Studies* (N.S.), 31: 29–44.
+[^ostertag-2025]: –––, 2025. *E. E. Constance Jones*. Cambridge: Cambridge University Press. doi:10.1017/9781009411110
+
+[^ostertag-2020]: Ostertag, G. and A. Favia, 2020, “E. E. Constance Jones on the Dualism of Practical Reason,” *British Journal for the History of Philosophy*, 29(2): 327–42. doi:10.1080/09608788.2020.1749828
+
+[^ostertag-nd]: –––, forthcoming, “E. E. Constance Jones on Moore and the Naturalistic Fallacy,” in Vagnetti and Vrahimis (eds.) forthcoming.
+
+[^peijnenburg-2025]: Peijnenburg, J. and M. van der Schaar, 2025. “E. E. Constance Jones and the Law of Significant Assertion,” in Lydia Moland and Alison Laura Stone (eds.), *The Oxford Handbook of American and British Women Philosophers in the Nineteenth Century*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780197558898.013.20
 
 [^pitt-1981]: Pitt, J., 1981–82, “Russell and the Cambridge Moral Sciences Club,” *Russell*, 1: 103–118.
 
-[^popkin-1999]: Popkin, R., 1999, *The Columbia History of Western Philosophy*, New York: Columbia University Press.
+[^peirce-1902]: Peirce, C. S., 1902, “Material Fallacy,” in *Dictionary of Philosophy and Psychology*, J.M. Baldwin (ed.), New York: Macmillan
+
+[^putnam-1975]: Putnam, H., 1975, “The Meaning of ‘Meaning’,” in H. Putnam, *Mind, Language and Reality: Philosophical Papers* (Volume 2), New York: Cambridge University Press, pp. 215–271.
 
 [^russell-1910]: Russell, B., 1910–11, “Knowledge by Acquaintance and Knowledge by Description,” *Proceedings of the Aristotelian Society*, 11: 108–128; page reference is to the reprint in Russell 1992.
 
-[^russell-1992]: Russell, B., 1992. *The Collected Papers of Bertrand Russell, Vol. 6: Logical and Philosophical Papers: 1909–13*, J. G. Slater (ed.), London: Routledge.
+[^russell-1992]: –––, 1992. *The Collected Papers of Bertrand Russell* (Volume 6: *Logical and Philosophical Papers: 1909–13*), J. G. Slater (ed.), London: Routledge.
 
-[^schiller-1912]: Schiller, F.C.S., 1912, Review of *A New Law of Thought and Its Logical Bearings*, *Mind* (N.S.), 21: 246–250.
+[^schiller-1912]: Schiller, F. C. S., 1912, “Review of *A New Law of Thought and Its Logical Bearings*,” *Mind* (N.S.), 21: 246–250.
+
+[^stebbing-1914]: Stebbing, L. S., 1914, *Pragmatism and French Voluntarism*, Cambridge: Cambridge University Press.
 
 [^stout-1911]: Stout, G.F., 1911, “Preface” to Jones (1911).
 
-[^stout-1922]: Stout, G.F., 1922, “The Late Miss E. E. Constance Jones,” *Mind* (N.S.) 31: 383–384.
+[^stout-1922]: –––, 1922, “The Late Miss E. E. Constance Jones,” *Mind* (N.S.), 31: 383–384.
 
-[^warnock-2004]: Warnock, M., 2004, “Jones, (Emily Elizabeth) Constance”, *Oxford Dictionary of National Biography*, Oxford: Oxford University Press.
+[^thomas-2026]: Thomas, E. 2026, *Letters of English Women Philosophers 1902–1951*, Oxford: Oxford University Press.
 
-[^waithe-1995]: Waithe, M. E. and S. Cicero, 1995, “E.E. Constance Jones,” In Waithe, 1995.
+[^vagnetti-nd]: Vagnetti, M., and A. Vrahimis. (eds.), forthcoming, *Women in the History of Philosophy of Science and Analytic Philosophy*, Cham: Springer.
+
+[^waithe-1995]: Waithe, M. E. and S. Cicero, 1995, “E. E. Constance Jones,” in Waithe 1995.
 
 [^waithe-1995-2]: Waithe, M. E., 1995, *A History of Women Philosophers, Volume 4*, Dordrecht: Kluwer.
 
-[^baldwin-1902]: Baldwin, J. M., 1902, *Dictionary of Philosophy and Psychology.* London: Macmillan.
+[^warnock-2004]: Warnock, M., 2004, “Jones, (Emily Elizabeth) Constance,” *Oxford Dictionary of National Biography*, Oxford: Oxford University Press.
 
-[^chapman-2013]: Chapman, S., 2013, *Susan Stebbing and the Language of Common Sense*, New York: Palgrave Macmillan.
+[^armstrong-2004]: Armstrong, D. M., 2004, *Truth and Truthmakers*, Cambridge: Cambridge University Press.
 
-[^dale-1996]: Dale, R., 1996, “The Theory of Meaning in the Twentieth Century,” in *The Theory of Meaning,* Doctoral dissertation, CUNY Graduate Center.
+[^baxter-2001]: Baxter, D., 2001, “Instantiation as partial identity,” *Australasian Journal of Philosophy*, 79: 449–64.
 
-[^dreben-1991]: Dreben, B. and J. Floyd, 1991, “Tautology: How not to Use a Word,” *Synthese*, 87: 23–50.
+[^bosanquet-1888]: Bosanquet, B., 1888, *Logic, or the Morphology of Knowledge*, Oxford: Clarendon Press.
 
-[^evans-1982]: Evans, G., 1982, *The Varieties of Reference*, Oxford: Oxford University Press.
+[^broad-1930]: Broad, C.D., 1930, *Five Types of Ethical Theory*, London: Routledge & Kegan Paul.
 
-[^frege-1892]: Frege, G., 1892, “Über Sinn und Bedeutung,” *Zeitschrift für Philosophie und philosophische Kritik,* 100: 25–50. Translated as “On Sense and Reference” by Max Black in *Translations from the Philosophical Writings of Gottlob Frege*, Peter Geach and Max Black (eds. and trans.), Oxford: Blackwell, third edition, 1980.
+[^davidson-2005]: Davidson, D., 2005, *Truth and Predication*, Cambridge: Harvard University Press.
 
-[^frege-1892-2]: Frege, G., 1892, *Grundgesetze der Arithmetik,* Band I, Jena: Verlag Hermann Pohle.
+[^frege-1879]: Frege, G. 1879 [1967], “Begriffsschrift, a Formula Language, Modeled upon that of Arithmetic, for Pure Thought,” trans. Stefan Bauer-Mengelberg, in Jean van Heijenoort (ed.), *From Frege to Gödel: A Source Book in Mathematical Logic*, 1879–1931, 5–82, Cambridge: Harvard University Press.
 
-[^gabriel-2002]: Gabriel, G., 2002, “Frege, Lotze, and the Continental Roots of Early Analytic Philosophy,” in *From Frege to Wittgenstein*, E. Reck (ed.), Oxford: Oxford University Press.
+[^frege-1892]: –––, 1892, “Über Sinn und Bedeutung,” *Zeitschrift für Philosophie und philosophische Kritik*, 100: 25–50; translated as “On Sense and Reference” by Max Black in *Translations from the Philosophical Writings of Gottlob Frege*, Peter Geach and Max Black (eds. and trans.), Oxford: Blackwell, third edition, 1980.
+
+[^gabriel-2002]: Gabriel, G., 2002, “Frege, Lotze, and the Continental Roots of Early Analytic Philosophy,” in *From Frege to Wittgenstein*, E. Reck (ed.), Oxford: Oxford University Press, pp. 39–52. doi:10.1093/0195133269.003.0002
 
 [^grattan-guinness-1977]: Grattan-Guinness, I., 1977, *Dear Russell, Dear Jourdain*, New York: Columbia University Press.
-
-[^grattan-guinness-1985]: Grattan-Guinness, I., 1985–86, “Russell’s Logicism versus Oxbridge Logics,” *Russell* 5: 101–131.
 
 [^hylton-1990]: Hylton, P., 1990, *Russell, Idealism, and the Emergence of Analytic Philosophy*, New York: Oxford University Press.
 
@@ -487,46 +470,36 @@ I would like to thank Amanda Favia, Oliver Marshall, Frank Pupa and Rosemary Two
 
 [^johnson-1892]: Johnson, W. E., 1892, “The Logical Calculus. I. General Principles,” *Mind* (N.S.), 1(1): 3–30.
 
-[^kneale-1962]: Kneale, W. and M. Kneale, 1962, *The Development of Logic*, Oxford: Clarendon Press.
+[^kripke-1980]: Kripke, S. A., 1980, *Naming and Necessity*, Cambridge: Harvard University Press.
 
-[^kripke-1982]: Kripke, S. A., 1982, *Naming and Necessity*, Cambridge: Harvard University Press .
+[^lotze-1874]: Lotze, H., 1874, *Logik: Erstes Buch. Vom Denken (reine Logik)*, Leipzig: S. Hirzel.
 
-[^langer-1926]: Langer, S. K., 1926, “Confusion of Symbols and Confusion of Logical Types,” *Mind*, (N.S.) 35: 222–229.
+[^lotze-1888]: –––, 1888, *Logic, in Three Books: Volume One*, Bernard Bosanquet (trans.), Oxford: Clarendon Press.
 
-[^langer-1927]: Langer, S. K., 1927, “A Logical Study of Verbs,” *Journal of Philosophy*, 24: 120–129.
+[^o’neill-1998]: O’Neill, E., 1998, “Disappearing Ink,” in *Philosophy in a Feminist Voice*, J. Kourany (ed.), Princeton: Princeton University Press.
 
-[^lotze-1888]: Lotze, H., 1888, *Logic, in Three Books: Volume One*, Bernard Bosanquet (trans.), Oxford: Clarendon Press.
+[^perkins-2011]: Perkins, R., 2011, “Incomplete Symbols in *Principia Mathematica* and Russell’s ‘Definite Proof’,” *Russell: The Journal of Bertrand Russell Studies* (N.S.), 31: 29–44. doi:10.1353/rss.2011.0008
 
-[^mcdaniel-2017]: McDaniel, K. 2017, “Ontology and Philosophical Methodology in the Early Susanne Langer”, in *Innovations in the History of Analytical Philosophy*, S. Lapointe and C. Pincock (eds.), London: Palgrave Macmillan.
-
-[^o’neill-1998]: O’Neill, E., 1998, “Disappearing Ink,” in *Philosophy in a Feminist Voice*, J. Kourany (ed.)*,* Princeton: Princeton University Press.
-
-[^peirce-1903]: Peirce, C. S., 1903, Review of Victoria Welby, *What is Meaning?* and Bertrand Russell, *The Principles of Mathematics*, *The Nation*, 77: 308—309
+[^preti-2024]: Preti, C., 2024. “Russell and the Women,” *Russell: The Journal of Bertrand Russell Studies*, 44(2): 202–214. doi:10.1353/rss.2024.a947341
 
 [^russell-1903]: Russell, B., 1903, *The Principles of Mathematics*, Cambridge: Cambridge University Press.
 
-[^russell-1905a]: Russell, B., 1905a, “The Existential Import of Propositions,” *Mind*, 14: 398–401. Reprinted in Russell 1994, 486–489.
+[^russell-1905]: –––, 1905, “On Denoting,” *Mind*, 14: 479–493; reprinted in Russell 1994, 414–427.
 
-[^russell-1905b]: Russell, B., 1905b, “On Denoting,” *Mind*, 14: 479–493. Reprinted in Russell 1994, 414–427.
+[^russell-1906]: –––, 1906–7, “On the Nature of Truth,” *Proceedings of the Aristotelian Society*, 7: 28–49.
 
-[^russell-1906]: Russell, B., 1906–7, “On the Nature of Truth,” *Proceedings of the Aristotelian Society*, 7: 28–49.
+[^russell-1994]: –––, 1994, *The Collected Papers of Bertrand Russell* (Volume 4: *Foundations of Logic: 1903–05*), A. Urquhart (ed.), London: Routledge.
 
-[^russell-1919]: Russell, B., 1919, *Introduction to Mathematical Philosophy*, London: George Allen & Unwin.
-
-[^russell-1994]: Russell, B., 1994, *The Collected Papers of Bertrand Russell, Vol. 4: Foundations of Logic: 1903–05*, A. Urquhart (ed.), London: Routledge.
-
-[^russinoff-1999]: Russinoff, S., 1999, “The Syllogism’s Final Solution,” *Bulletin of Symbolic Logic*, 5: 451–469.
-
-[^sainsbury-1979]: Sainsbury, R. M., 1979, *Russell*. London: Routledge & Kegan Paul.
-
-[^schaar-2017]: Schaar, M. van der and E. Schliesser (eds.), 2017, *Women in Early Analytic Philosophy*, special issue of *Journal for the History of Analytical Philosophy*, 5(2).
+[^sainsbury-1979]: Sainsbury, R. M., 1979, *Russell*, London: Routledge & Kegan Paul.
 
 [^schultz-2004]: Schultz, B., 2004, *Henry Sidgwick, Eye of The Universe: An Intellectual Biography*, Cambridge: Cambridge University Press.
 
+[^schuringa-2025]: Schuringa, C., 2025, *A Social History of Analytic Philosophy*, London/New York: Verso. doi:10.1080/10848770.2026.2722752
+
+[^senechal-2012]: Senechal, M., 2012, *I Died for Beauty: Dorothy Wrinch and the Cultures of Science*, Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780199732593.001.0001
+
 [^sidgwick-1906]: Sidgwick, H., 1906 [1981], *The Methods of Ethics*, 7th edition, Indianapolis: Hackett Publishing Company.
 
-[^skidelsky-1983]: Skidelsky, R., 1983, *John Maynard Keynes: Hopes Betrayed, 1883–1920*, London: Macmillan.
+[^soames-2014]: Soames, S., 2014, *The Analytic Tradition in Philosophy* (Volume 1: *The Founding Giants*), Princeton: Princeton University Press.
 
-[^soames-2014]: Soames, S., 2014, *The Analytic Tradition in Philosophy, Volume 1: The Founding Giants*, Princeton: Princeton University Press.
-
-[^whitehead-1910]: Whitehead, A. N., and B. Russell, 1910, *Principia Mathematica*, Volume 1, Cambridge: Cambridge University Press.
+[^whitehead-1910]: Whitehead, A. N., and B. Russell, 1910, *Principia Mathematica* (Volume 1), Cambridge: Cambridge University Press.

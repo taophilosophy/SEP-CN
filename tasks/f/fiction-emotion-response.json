@@ -2,8 +2,16 @@
   "slug": "fiction-emotion-response",
   "kind": "retranslate",
   "zh_doc": "f/fiction-emotion-response.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-16T11:10:45Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-02T16:25:14Z",
   "version_pin": {

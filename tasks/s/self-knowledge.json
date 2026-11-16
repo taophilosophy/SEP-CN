@@ -1,0 +1,22 @@
+{
+  "slug": "self-knowledge",
+  "kind": "retranslate",
+  "zh_doc": "s/self-knowledge.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-16T11:10:45Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-16T11:10:43Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 14, 2026",
+    "archive_edition": null,
+    "sha256": "001c38df43920f49673bfa35690fe5ca29921288b99f04a9fe76f3ec2cfb6b8d"
+  }
+}

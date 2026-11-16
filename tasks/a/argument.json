@@ -2,8 +2,16 @@
   "slug": "argument",
   "kind": "retranslate",
   "zh_doc": "a/argument.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-16T11:10:44Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:56Z",
   "version_pin": {

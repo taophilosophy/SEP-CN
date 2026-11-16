@@ -1,5 +1,5 @@
 # Human Enhancement
-**First published Tue Apr 7, 2015; substantive revision Thu Nov 13, 2025**
+**First published Tue Apr 7, 2015; substantive revision Sun Nov 15, 2026**
 
 *Moseley, Daniel, Juengst, Eric*
 
@@ -30,7 +30,7 @@ Finally, our definition implies that enhancement interventions attempt to improv
 
 ### 1.2 Brief Historical Background
 
-An important part of the orientation for those new to thinking about enhancement ethics is the ways in which current debates are shaped by the history of earlier efforts at perfecting people. At one level, perfectionist and meliorist impulses have deep roots in Western philosophical and religious thinking, which both modern science and medicine have inherited (Roduit 2016; Rothman and Rothman 2004)[^roduit-2016][^rothman-2004] Most advocates and critics of biomedical enhancement share these commitments to the value of human excellence and the use of human effort to improve well-being and reducing suffering in the world, but have disagreeing visions of the ideal (Roduit, Baumann, and Heilinger 2013; Parens 2005)[^parens-2005][^roduit-2013]. Other scholars, recalling the historical imposition of hegemonic religious and political visions of salvation and citizenship, fear the elevation of any canonical account of existing human virtues, in favor of visions that prize people’s capacity to shape their own ideals through reason, autonomy, and democratic deliberation (Sparrow 2014; Buchanan 2011)[^buchanan-2011][^sparrow-2014]. Others, pointing to the consequences of modern individualism for the common good (Persson and Savulescu 2012)[^persson-2012], feel confident about being able to name the constellation of existing human traits that should either be preserved (Kass 1997; Annas 1998; Agar 2013)[^agar-2013][^kass-1997] or enhanced (Bostrom 2003)[^bostrom-2003]. However, almost no one in this literature eschews the development and use of new medical tools for healing purposes (Kamm 2005; Kass 2003)[^kamm-2005][^kass-2003]. Because of this, a first step in our discussion is to scrutinize the distinction between treatment and enhancement, to see if it can help demarcate where different melioristic ideals diverge.
+An important part of the orientation for those new to thinking about enhancement ethics is the ways in which current debates are shaped by the history of earlier efforts at perfecting people. At one level, perfectionist and meliorist impulses have deep roots in Western philosophical and religious thinking, which both modern science and medicine have inherited (Roduit 2016; Rothman and Rothman 2004)[^roduit-2016][^rothman-2004] Most advocates and critics of biomedical enhancement share these commitments to the value of human excellence and the use of human effort to improve well-being and reducing suffering in the world, but have disagreeing visions of the ideal (Roduit, Baumann, and Heilinger 2013; Parens 2005)[^parens-2005][^roduit-2013]. Other scholars, recalling the historical imposition of hegemonic religious and political visions of salvation and citizenship, fear the elevation of any canonical account of existing human virtues, in favor of visions that prize people’s capacity to shape their own ideals through reason, autonomy, and democratic deliberation (Sparrow 2014; Buchanan 2011)[^buchanan-2011][^sparrow-2014]. Others, pointing to the consequences of modern individualism for the common good (Persson and Savulescu 2012)[^persson-2012], feel confident about being able to name the constellation of existing human traits that should either be preserved (Kass 1997; Annas, et al. 2002; Agar 2013)[^agar-2013][^annas-2002][^kass-1997] or enhanced (Bostrom 2003)[^bostrom-2003]. However, almost no one in this literature eschews the development and use of new medical tools for healing purposes (Kamm 2005; Kass 2003)[^kamm-2005][^kass-2003]. Because of this, a first step in our discussion is to scrutinize the distinction between treatment and enhancement, to see if it can help demarcate where different melioristic ideals diverge.
 
 Another, perhaps more visible, backdrop for the enhancement ethics literature is the history of the 20th century eugenics movement, which attempted to “breed better people” and “improve the human gene pool” through socially biased reproductive controls and inducements (Wikler 1999; Buchanan, et al. 2000; Lombardo 2022)[^buchanan-2000][^lombardo-2022][^wikler-1999]. This background prompts questions about the cultural authority of science and the social values it can perpetuate, and it raises fears of slippery slopes that can lead to egregious forms of oppression, by providing a vivid recent counter-narrative to endorsements of enhancement as a way to fulfill our obligations to future generations (Sparrow 2011; Selgelid 2013; Iltis 2016)[^iltis-2016][^selgelid-2013][^sparrow-2011]. The eugenics backdrop tends to skew the burden of proof the other way in the debate, towards a more “precautionary” stance that gives advocates of enhancement the burden of distinguishing their proposals from old style eugenics in order to defend the parts of that ideology that they share (Kitcher 1997; Harris, 2007; Agar 2004)[^agar-2004][^harris-2007][^kitcher-1997].
 
@@ -162,7 +162,7 @@ Second, even if preserving human nature in its current form were desirable, bann
 
 ### 6.2 Moral Standing and Moral Status
 
-As noted in Section 1.1, there is a persistent risk in enhancement debates of conflating the biological and ethical senses of the term ‘human’. In this debate, the risks are even greater, given that the dispute rests on how to best understand being human. In the biological sense, ‘human’ refers to members of the species *Homo sapiens*; to be human in this sense is to be a member of that species. In the evaluative sense or moral sense, ‘human’ refers to being a member of the moral community and having the accompanying moral rights that are owed to members of that community. Buchanan (2013) discusses these conceptual issues as part of an in-depth examination of the moral foundations of the international legal human rights system (Buchanan 2013).
+As noted in Section 1.1, there is a persistent risk in enhancement debates of conflating the biological and ethical senses of the term ‘human’. In this debate, the risks are even greater, given that the dispute rests on how to best understand being human. In the biological sense, ‘human’ refers to members of the species *Homo sapiens*; to be human in this sense is to be a member of that species. In the evaluative sense or moral sense, ‘human’ refers to being a member of the moral community and having the accompanying moral rights that are owed to members of that community. Buchanan (2013)[^buchanan-2013] discusses these conceptual issues as part of an in-depth examination of the moral foundations of the international legal human rights system (Buchanan 2013)[^buchanan-2013].
 
 One type of general objection to this debate, often from post-modernist quarters, is that discussing human nature at all is an intellectual faux pas, and that we are beyond this sort of “essentializing” discussion (DeGrazia 2012)[^degrazia-2012]. This objection is weak. Even if there are no essential human properties, we can still articulate a conception of human nature that identifies characteristics most human beings share that are recalcitrant to being removed or are significantly altered by education, training, or indoctrination, and that play significant explanatory roles in both widespread human behavior and differences between humans and other animals (Buchanan 2011, DeGrazia 2012)[^buchanan-2011][^degrazia-2012].
 
@@ -176,13 +176,13 @@ Some transhumanists, such as James Hughes (2004)[^hughes-2004], argue that we sh
 
 At the same time, if the post-humans actually have enhanced cognitive and moral capacities, they might claim expanded rights proportional to those capacities, thereby entitling them to a broader range of opportunities and freedoms than ordinary humans. This prospect risks creating the very kinds of oppressive hierarchical societies that the human rights tradition was designed to prevent, potentially paving the way for new forms of coercive eugenics and even the eventual extinction of the human species (Mehlman 2012; DeGrazia 2012)[^degrazia-2012][^mehlman-2012].
 
-Susan Levin (2021) offers perhaps the most systematic analysis and trenchant critique of transhumanism in the literature to date. She challenges its core assumptions about the nature of the mind and brain, its utilitarian commitments, its conception of liberal democracy, and its rather crude scientism. Drawing on scientific and philosophical arguments to make her case, she contends that we should not devote our limited scientific and technological resources to the enhancement project, which, she contends, is based on outdated and empirically unsupported assumptions about cognitive psychology, biology, and neuroscience.
+Susan Levin (2021)[^levin-2021] offers perhaps the most systematic analysis and trenchant critique of transhumanism in the literature to date. She challenges its core assumptions about the nature of the mind and brain, its utilitarian commitments, its conception of liberal democracy, and its rather crude scientism. Drawing on scientific and philosophical arguments to make her case, she contends that we should not devote our limited scientific and technological resources to the enhancement project, which, she contends, is based on outdated and empirically unsupported assumptions about cognitive psychology, biology, and neuroscience.
 
 ### 6.3 Revisiting Eugenics
 
 Just as it is metaphysically impossible to preserve our species from further evolution, it is likewise impossible to control that process “from the inside out.” The genetic constitution of our species is continually shaped by environmental forces of selection that lie beyond human abilities to control or even, as the phenomenon of emerging epidemics continues to illustrate, anticipate. Moreover, as disability-studies scholars observe, humanity is in no better position today to decide which human traits deserve promotion than it was during the heyday of the eugenics movement, even if society were willing to tolerate the reproductive policies required to manage even the human portion of evolutionary change (De Melo-Martin 2023).
 
-The unsettling resemblance between the aspirations of early eugenicists and certain proposals advanced by contemporary transhumanists, unfortunately, provides some evidence to support this claim (Sparrow 2011, Levin 2021)[^sparrow-2011]. Such proposals often assume that some genotypes represent “jewels in the genome” (Sikela 2006)[^sikela-2006] while others constitute costly “toxic waste” to be cleansed from the gene pool (Buchanan, Brock, Wikler, and Daniels 2000)[^buchanan-2000][^daniels-2000]. Critics argue that this way of thinking reduces persons to their genotypes and undermines our commitment to moral equality amid biological diversity (Asch and Block 2011)[^asch-2011].
+The unsettling resemblance between the aspirations of early eugenicists and certain proposals advanced by contemporary transhumanists, unfortunately, provides some evidence to support this claim (Sparrow 2011, Levin 2021)[^levin-2021][^sparrow-2011]. Such proposals often assume that some genotypes represent “jewels in the genome” (Sikela 2006)[^sikela-2006] while others constitute costly “toxic waste” to be cleansed from the gene pool (Buchanan, Brock, Wikler, and Daniels 2000)[^buchanan-2000][^daniels-2000]. Critics argue that this way of thinking reduces persons to their genotypes and undermines our commitment to moral equality amid biological diversity (Asch and Block 2011)[^asch-2011].
 
 However difficult these arguments may be to reconstruct, it is important to take seriously the concern that certain biomedical interventions may violate human nature, even in public discussions of policy within a pluralistic society. Whether the concern involves the alteration of a constant of the human condition, like senescence; a “species altering” threat to our collective gene pool; or the corruption of practices designed to celebrate the inherited human traits we value most, these appeals all signal that the intervention in question has deep implications for who we want to become in light of who we have been.
 
@@ -208,15 +208,15 @@ These types of genetic and neurological enhancements, rather than robotic or dro
 
 ### 7.2 The Ethics of Military Enhancements
 
-Military personnel operate within hierarchical institutions in which individual autonomy and genuinely informed consent are constrained. Soldiers often face institutional, social, or economic pressures to accept enhancement interventions, effectively diminishing their voluntary consent (Mehlman, et al. 2013). Autonomy is further limited in contexts where refusal of an enhancement risks career setbacks or loss of operational status (Lin, et al. 2013; Pfaff 2019)[^lin-2013][^pfaff-2019]. Beyond explicit coercion, service members are embedded in a military ethos that valorizes strength, sacrifice, and peak performance, making it difficult to refuse enhancement even when participation appears voluntary. Voluntary consent in these contexts is limited not only by rank and command but also by internalized values and socialized expectations to be the best warrior possible (Eagan 2020)[^eagan-2020]. This pressure can be especially intense within elite units, where refusal of a biomedical enhancement may be perceived as a lack of commitment or even as a liability to the team. These dynamics contribute to the emergence of a “performance caste” within the ranks (Chneiweiss 2012)[^chneiweiss-2012]. Moreover, the military’s cultural framing of the body as “government-issued”, reflected both in lore and in disciplinary actions such as treating sunburn as the “destruction of government property”, further undermines bodily autonomy and complicates ethical assessments of consent. Even in the absence of overt coercion, the structural, cultural, and psychological dimensions of military life render true informed consent highly suspect in enhancement contexts.
+Military personnel operate within hierarchical institutions in which individual autonomy and genuinely informed consent are constrained. Soldiers often face institutional, social, or economic pressures to accept enhancement interventions, effectively diminishing their voluntary consent (Lin, et al. 2013)[^lin-2013]. Autonomy is further limited in contexts where refusal of an enhancement risks career setbacks or loss of operational status (Lin, et al. 2013; Pfaff 2019)[^lin-2013][^pfaff-2019]. Beyond explicit coercion, service members are embedded in a military ethos that valorizes strength, sacrifice, and peak performance, making it difficult to refuse enhancement even when participation appears voluntary. Voluntary consent in these contexts is limited not only by rank and command but also by internalized values and socialized expectations to be the best warrior possible (Eagan 2020)[^eagan-2020]. This pressure can be especially intense within elite units, where refusal of a biomedical enhancement may be perceived as a lack of commitment or even as a liability to the team. These dynamics contribute to the emergence of a “performance caste” within the ranks (Chneiweiss 2012)[^chneiweiss-2012]. Moreover, the military’s cultural framing of the body as “government-issued”, reflected both in lore and in disciplinary actions such as treating sunburn as the “destruction of government property”, further undermines bodily autonomy and complicates ethical assessments of consent. Even in the absence of overt coercion, the structural, cultural, and psychological dimensions of military life render true informed consent highly suspect in enhancement contexts.
 
-Military enhancements also pose risks and side effects that may occur during active service or long after discharge. Commonly used cognitive enhancements, e.g., modafinil or psychostimulants, can impair judgment, impulse control, and long-term psychological health (Lin, et al. 2012) The neurological enhancements suggested by DARPA may pose unknown and potentially irreversible harms on soldiers. These concerns support arguments that military institutions have a duty of care to protect soldiers from foreseeable biomedical risks (Moreno 2012)[^moreno-2012].
+Military enhancements also pose risks and side effects that may occur during active service or long after discharge. Commonly used cognitive enhancements, e.g., modafinil or psychostimulants, can impair judgment, impulse control, and long-term psychological health (Lin, et al. 2013)[^lin-2013] The neurological enhancements suggested by DARPA may pose unknown and potentially irreversible harms on soldiers. These concerns support arguments that military institutions have a duty of care to protect soldiers from foreseeable biomedical risks (Moreno 2012)[^moreno-2012].
 
-Military enhancements raise special concerns about fairness, both within and between military forces. These concerns may arise between enhanced and unenhanced soldiers within the same military institutions or between military institutions, e.g., between one nation that has enhanced soldiers and another nation that does not. Within a single military organization, unequal access to enhancement technologies may create unjust advantages for enhanced personnel (Lin, et al. 2013)[^lin-2013]. Enhanced soldiers might also face greater operational demands, such as increased deployment tempo, leading to higher rates of trauma and fatigue. Additional fairness issues arise from prospective genetic screening in recruitment, which could exclude individuals based on perceived disadvantage, reinforcing inequalities of “the genetic lottery” (Lázaro-Muñoz, G., and E. Juengst, 2015)[^lázaro-muñoz-2015]. Beyond the service period, enhanced soldiers may face unique challenges reintegrating into civilian life. While non-enhanced veterans already confront difficulties transitioning to civilian society (Shay 2002)[^shay-2002], reintegration may be especially complex for those who are genetically, neurologically or robotically enhanced (Eagan 2022; Eagan and Moseley 2025)[^eagan-2025][^moseley-2025][^moseley-2025-2]. Traditionally, soldiers are standardly required to return their government-issued firearms and gear upon discharge. How could they, and should they, return their enhanced brains or robotic limbs? The question of post-service ownership raises new concerns about bodily integrity, medical autonomy, and the potential for the continued state authority over persons’ bodies. If military institutions retain control over enhancements, dis-enhancement may be required at discharge: a practice that may inflict medical and psychological harm.
+Military enhancements raise special concerns about fairness, both within and between military forces. These concerns may arise between enhanced and unenhanced soldiers within the same military institutions or between military institutions, e.g., between one nation that has enhanced soldiers and another nation that does not. Within a single military organization, unequal access to enhancement technologies may create unjust advantages for enhanced personnel (Lin, et al. 2013)[^lin-2013]. Enhanced soldiers might also face greater operational demands, such as increased deployment tempo, leading to higher rates of trauma and fatigue. Additional fairness issues arise from prospective genetic screening in recruitment, which could exclude individuals based on perceived disadvantage, reinforcing inequalities of “the genetic lottery” (Lázaro-Muñoz, G., and E. Juengst, 2015)[^lázaro-muñoz-2015]. Beyond the service period, enhanced soldiers may face unique challenges reintegrating into civilian life. While non-enhanced veterans already confront difficulties transitioning to civilian society (Shay 2002)[^shay-2002], reintegration may be especially complex for those who are genetically, neurologically or robotically enhanced (Eagan 2020; Eagan and Moseley 2025)[^eagan-2020][^eagan-2025][^moseley-2025][^moseley-2025-2]. Traditionally, soldiers are standardly required to return their government-issued firearms and gear upon discharge. How could they, and should they, return their enhanced brains or robotic limbs? The question of post-service ownership raises new concerns about bodily integrity, medical autonomy, and the potential for the continued state authority over persons’ bodies. If military institutions retain control over enhancements, dis-enhancement may be required at discharge: a practice that may inflict medical and psychological harm.
 
-Military enhancements, especially pharmacological ones, also present dual-use risks, which raise broader ethical concerns about unintended outcomes on civilians. Technologies developed for combat applications could be adapted by non-military forces for coercive purposes, e.g., interrogation (Moreno 2012)[^moreno-2012]. On an international scale, the deployment of enhanced soldiers by one nation could trigger an enhancement arms race, destabilizing norms governing permissible warfare (DCDC, 2020; Mehlman, et al. 2013)[^dcdc-2020].
+Military enhancements, especially pharmacological ones, also present dual-use risks, which raise broader ethical concerns about unintended outcomes on civilians. Technologies developed for combat applications could be adapted by non-military forces for coercive purposes, e.g., interrogation (Moreno 2012)[^moreno-2012]. On an international scale, the deployment of enhanced soldiers by one nation could trigger an enhancement arms race, destabilizing norms governing permissible warfare (DCDC, 2020; Lin, et al. 2013)[^dcdc-2020][^lin-2013].
 
-Military enhancements that alter cognition or emotion could disrupt the moral responsibility of soldiers who make decisions in combat. Cognitive enhancements can alter judgment and decision-making capacity, which may complicate attributions of moral responsibility in warfare (Levy 2007)[^levy-2007]. Intuitively, we are aware that people who stay awake too long have diminished decision-making capacity. Soldiers who have been enhanced to stay awake for vastly longer than normal periods may thereby experience impaired decision-making capacities. As Wolfendale (2008) argues, military personnel need to be morally responsible agents and moral responsibility is necessary for integrity and the moral emotions of guilt and remorse, which are central to moral growth and psychological well-being. She contends that military enhancements that diminish soldiers’ capacity to experience these emotions would undermine the moral standing of the military and harm the well-being of warfighters. Relatedly, military enhancements that alter mood, memory, or empathy raise concerns about their impact on personal identity, personality and authenticity. Some argue that heavily enhanced soldiers may no longer be the same persons after receiving the enhancements (Moreno 2012)[^moreno-2012], or that the enhancements may lead soldiers to doubt whether their achievements and actions are genuinely their own (Mehlman, et al. 2013). Addressing such questions requires greater conceptual precision in distinguishing among philosophical notions of identity, selfhood, and authenticity, as discussed earlier in this entry.
+Military enhancements that alter cognition or emotion could disrupt the moral responsibility of soldiers who make decisions in combat. Cognitive enhancements can alter judgment and decision-making capacity, which may complicate attributions of moral responsibility in warfare (Levy 2007)[^levy-2007]. Intuitively, we are aware that people who stay awake too long have diminished decision-making capacity. Soldiers who have been enhanced to stay awake for vastly longer than normal periods may thereby experience impaired decision-making capacities. As Wolfendale (2008)[^wolfendale-2008] argues, military personnel need to be morally responsible agents and moral responsibility is necessary for integrity and the moral emotions of guilt and remorse, which are central to moral growth and psychological well-being. She contends that military enhancements that diminish soldiers’ capacity to experience these emotions would undermine the moral standing of the military and harm the well-being of warfighters. Relatedly, military enhancements that alter mood, memory, or empathy raise concerns about their impact on personal identity, personality and authenticity. Some argue that heavily enhanced soldiers may no longer be the same persons after receiving the enhancements (Moreno 2012)[^moreno-2012], or that the enhancements may lead soldiers to doubt whether their achievements and actions are genuinely their own (Lin, et al. 2013)[^lin-2013]. Addressing such questions requires greater conceptual precision in distinguishing among philosophical notions of identity, selfhood, and authenticity, as discussed earlier in this entry.
 
 Finally, like the treatment/enhancement distinction in medicine, military enhancements face a slippery conceptual distinction with important ethical consequences. Traditionally, the Just War theories that undergird military ethics have eschewed the use of disproportionately destructive offensive innovations, from crossbows in the medieval period to carpet bombing and chemical weapons in modern warfare, while generally accepting defensive innovations such as stronger armor and more effective anti-missile systems. How, then, should we assess a project like DARPA’s PREPARE (PReemptive Expression of Protective Alleles and Response Elements) [Other Internet Resources], which seeks to develop gene-editing interventions to confer soldiers with resistance to radiation and chemical agents beyond the normal human range? These innovations would be enhancements by most criteria and raise many of the moral and philosophical issues surveyed throughout this entry.
 
@@ -252,25 +252,25 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^agar-2024]: –––, 2024. *Dialogues on Human Enhancement*, New York: Routledge.
 
-[^allhoff-2010]: Allhoff, F., Lin, P., Moor, J., and Weckert, J., 2010, “Ethics of human enhancement: 25 questions & answers”, *Studies in Ethics, Law, and Technology*, 4(1). doi:10.2202/1941-6008.1110.
+[^allhoff-2010]: Allhoff, F., P. Lin, J. Moor, and J. Weckert, 2010, “Ethics of human enhancement: 25 questions & answers”, *Studies in Ethics, Law, and Technology*, 4(1). doi:10.2202/1941-6008.1110.
 
 [^anderson-1989]: Anderson, W. F., 1989. “Human Gene Therapy: Why Draw a Line?” *Journal of Medicine and Philosophy*, 14(6): 681–693.
 
 [^annas-2005]: Annas, G., 2005. *American Bioethics*, Oxford: Oxford University Press.
 
-[^annas-2002]: Annas, G. J., with Andrews, L. B. and Isasi, R. M., 2002. “Protecting the Endangered Human: Toward an International Treaty Prohibiting Cloning and Inheritable Alterations”, *American Journal of Law and Medicine*, 28 (2/3): 151–178.
+[^annas-2002]: Annas, G. J., with L. B. Andrews, and R. M. Isasi, 2002. “Protecting the Endangered Human: Toward an International Treaty Prohibiting Cloning and Inheritable Alterations”, *American Journal of Law and Medicine*, 28 (2/3): 151–178.
 
-[^asch-2011]: Asch, A. and Block, J., 2011. “Against the Enhancement Project: Two Perspectives”, *Free Inquiry*, 32(1): 25–33.
+[^asch-2011]: Asch, A. and J. Block, 2011. “Against the Enhancement Project: Two Perspectives”, *Free Inquiry*, 32(1): 25–33.
 
 [^azevedo-2016]: Azevedo, M., 2016. “The Misfortunes of Moral Enhancement”, *The Journal of Medicine and Philosophy*, 41(5): 461–479.
 
 [^basl-2010]: Basl, J., 2010. “State Neutrality and the Ethics of Human Enhancement Technologies”, *AJOB Neuroscience*, 1(2): 41–48.
 
-[^benjamin-1984]: Benjamin, M., Muyskens, J. and Saenger, P., 1984. “Short Children, Anxious Parents: Is Growth Hormone the Answer?” *Hastings Center Report*, 14(2): 5–9.
+[^benjamin-1984]: Benjamin, M., J. Muyskens, and P. Saenger, 1984. “Short Children, Anxious Parents: Is Growth Hormone the Answer?” *Hastings Center Report*, 14(2): 5–9.
 
-[^berger-1991]: Berger, E. M. and Gert, B. M., 1991. “Genetic Disorders and the Ethical Status of Germ-Line Gene Therapy”, *Journal of Medicine and Philosophy*, 16(6): 667–683.
+[^berger-1991]: Berger, E. M., and B. M. Gert, 1991. “Genetic Disorders and the Ethical Status of Germ-Line Gene Therapy”, *Journal of Medicine and Philosophy*, 16(6): 667–683.
 
-[^bernstein-2004]: Bernstein, J., Perlis, C. and Bartolozzi, A. R., 2004. “Normative Ethics in Sports Medicine”, *Clinical Orthopaedics and Related Research*, 420: 309–318.
+[^bernstein-2004]: Bernstein, J., C. Perlis, and A. R. Bartolozzi, 2004. “Normative Ethics in Sports Medicine”, *Clinical Orthopaedics and Related Research*, 420: 309–318.
 
 [^binstock-2003]: Binstock, R., 2003. “The War on Anti-Aging Medicine”, *Gerontologist*, 43: 4–14.
 
@@ -286,25 +286,27 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^brock-1998]: Brock, D., 1998. “Enhancements of Human Function: Some Distinctions for Policymakers”, in E. Parens (ed.), *Enhancing Human Traits*, Washington: Georgetown University Press, pp. 48–69.
 
-[^bublitz-2009]: Bublitz, J. C. and Merkel, R., 2009. “Autonomy and Authenticity of Enhanced Personality Traits”, *Bioethics*, 23(6): 360–374.
+[^bublitz-2009]: Bublitz, J. C., and R. Merkel, 2009. “Autonomy and Authenticity of Enhanced Personality Traits”, *Bioethics*, 23(6): 360–374.
 
-[^buchanan-2000]: Buchanan, A., Brock, D., Wikler, D., and Daniels, N., 2000. *From Chance to Choice: Genetics and Justice*, Cambridge and New York: Cambridge University Press.
+[^buchanan-2000]: Buchanan, A., D. Brock, D. Wikler, and N. Daniels, 2000. *From Chance to Choice: Genetics and Justice*, Cambridge and New York: Cambridge University Press.
 
 [^buchanan-2011]: Buchanan, A., 2011. *Beyond Humanity?: The Ethics of Biomedical Enhancement*, Oxford and New York: Oxford University Press.
+
+[^buchanan-2013]: Buchanan, A., 2013. *The Heart of Human Rights*, Oxford and New York: Oxford University Press.
 
 [^callahan-1995]: Callahan, D., 1995. “Aging and the Life Cycle: A Moral Norm?” in *A World Growing Old: The Coming Health Care Challenges*, Washington: Georgetown University Press, pp. 21–27.
 
 [^caplan-2004]: Caplan, A., 2004. “An Unnatural Process: Why It Is Not Inherently Wrong to Seek a Cure For Aging”, in S. Post and R. Binstock (eds.), *The Fountain of Youth: Cultural, Scientific and Ethical Perspectives on a Biomedical Goal*, Oxford and New York: Oxford University Press, 114–24.
 
-[^carey-2008]: Carey, T. S., Melvin, C. L., and Ranney, L. M., 2008. “Extracting Key Messages from Systematic Reviews”, *Journal of Psychiatric Practice*, 14, Suppl. 1: 28–34.
+[^carey-2008]: Carey, T. S., C. L. Melvin, and L. M. Ranney, 2008. “Extracting Key Messages from Systematic Reviews”, *Journal of Psychiatric Practice*, 14, Suppl. 1: 28–34.
 
-[^carter-2019]: Carter, J., and Pritchard, D., 2019. “The Epistemology of Cognitive Enhancement”, *The Journal of Medicine and Philosophy*, 44(2): 220–242
+[^carter-2019]: Carter, J., and D. Pritchard, 2019. “The Epistemology of Cognitive Enhancement”, *The Journal of Medicine and Philosophy*, 44(2): 220–242
 
-[^chneiweiss-2012]: Chneiweiss, Hervé. 2012. *L’Homme Réparé*, Paris: Plon.
+[^chneiweiss-2012]: Chneiweiss, Hervé, 2012. *L’Homme Réparé*, Paris: Plon.
 
-[^clarke-2016]: Clarke, S., Savulescu, J., Coady, C.A.J., Guibilini, A., and Sanyal, S. (eds.), 2016. *The Ethics of Human Enhancement: Understanding the Debate*, Oxford: Oxford University Press.
+[^clarke-2016]: Clarke, S., J. Savulescu, C.A.J. Coady, A. Guibilini, and S. Sanyal (eds.), 2016. *The Ethics of Human Enhancement: Understanding the Debate*, Oxford: Oxford University Press.
 
-[^clouser-1981]: Clouser, K. D., Culver, C. M. and Gert, B., 1981. “Malady: A New Treatment of Disease”, *The Hastings Center Report*, 11(3): 29–37.
+[^clouser-1981]: Clouser, K. D., C. M. Culver, and B. Gert, 1981. “Malady: A New Treatment of Disease”, *The Hastings Center Report*, 11(3): 29–37.
 
 [^coakley-1998]: Coakley, J. J., 1998. *Sport in Society: Issues and Controversies*, Boston: McGraw-Hill.
 
@@ -322,7 +324,7 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^daniels-2000]: –––, 2000. “Normal Functioning and the Treatment-Enhancement Distinction”, *Cambridge Quarterly of Healthcare Ethics*, 9(03): 309–322.
 
-[^daniels-1994]: Daniels, N. and Sabin, J. E., 1994. “Determining ‘Medical Necessity’ in Mental Health Practice: A Study of Clinical Reasoning and a Proposal for Insurance Policy”, *Hastings Center Report*, 24(6): 5–13.
+[^daniels-1994]: Daniels, N. and J. E. Sabin, 1994. “Determining ‘Medical Necessity’ in Mental Health Practice: A Study of Clinical Reasoning and a Proposal for Insurance Policy”, *Hastings Center Report*, 24(6): 5–13.
 
 [^darpa-2016]: DARPA, 2016. “Boosting Synaptic Plasticity to Accelerate Learning”, *DARPA Press Release*, March 16. [[DARPA 2016 available online](https://www.darpa.mil/news/2016/synaptic-plasticity-learning)]
 
@@ -344,7 +346,7 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^eagan-2020]: Eagan, S., 2020. “Genetic Science and the Future of American War-Fighters”, in D. Messelken and D. Winkler, *Ethics of Medical Innovation, Experimentation, and Enhancement in Military and Humanitarian Contexts*, Cham: Springer, pp. 159–174.
 
-[^eagan-2025]: Eagan, S. and Moseley D.D., 2025. “The Unfinished War: Ethical Challenges in Enhanced Warfighter Reintegration and Long-Term Care”, *AJOB Neuroscience*, 16(4): 321–330.
+[^eagan-2025]: Eagan, S., and D. D. Moseley, 2025. “The Unfinished War: Ethical Challenges in Enhanced Warfighter Reintegration and Long-Term Care”, *AJOB Neuroscience*, 16(4): 321–330.
 
 [^earp-2018]: Earp, B., 2018. “Psychedelic Moral Enhancement”, in Hauskeller and Coyne (eds.) 2018, pp. 415–439. doi:10.1017/S1358246118000474
 
@@ -366,7 +368,7 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^gems-2011]: Gems, D., 2011. “Tragedy and Delight: The Ethics of Decelerated Ageing”, *Philosophical Transactions of the Royal Society of London* (Series B), 366(1561): 108–112.
 
-[^gert-2006]: Gert, B., Culver, C. M., and Clouser, K. D., 2006. *Bioethics: A Systematic Approach*, New York: Oxford University Press.
+[^gert-2006]: Gert, B., C. M. Culver, and K. D. Clouser, 2006. *Bioethics: A Systematic Approach*, New York: Oxford University Press.
 
 [^gilman-2000]: Gilman, S. L., 2000. *Making the Body Beautiful: A Cultural History of Aesthetic Surgery*, Princeton: Princeton University Press.
 
@@ -390,7 +392,7 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^hauskeller-2013]: Hauskeller, M., 2013. *Better Humans?: Understanding the Enhancement Project*, London: Routledge.
 
-[^hauskeller-2018]: Hauskeller, M. and Coyne, L. (eds.), 2018. *Moral Enhancement: Critical Perspectives* (Royal Institute of Philosophy Supplement: Volume 83), Cambridge: Cambridge University Press.
+[^hauskeller-2018]: Hauskeller, M. and L. Coyne (eds.), 2018. *Moral Enhancement: Critical Perspectives* (Royal Institute of Philosophy Supplement: Volume 83), Cambridge: Cambridge University Press.
 
 [^hoberman-1992]: Hoberman, J., 1992. *Mortal Engines: The Science of Performance and the Dehumanization of Sport*, Caldwell: The Blackburn Press.
 
@@ -400,9 +402,9 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^hursthouse-1999]: Hursthouse, R., 1999. *On Virtue Ethics*, Oxford: Oxford University Press.
 
-[^iltis-2016]: Iltis, A.S., 2016. “Prenatal Screening and Prenatal Diagnosis: Contemporary Practices in Light of the Past”, *Journal of Medical Ethics*, 42(6): 334–339.
+[^iltis-2016]: Iltis, A. S., 2016. “Prenatal Screening and Prenatal Diagnosis: Contemporary Practices in Light of the Past”, *Journal of Medical Ethics*, 42(6): 334–339.
 
-[^johnson-2019]: Johnson, Y., Bishop, J., and Toner, G., 2019. “The Moral Imperative to Morally Enhance”, *The Journal of Medicine and Philosophy*, 43 (5): 485–489.
+[^johnson-2019]: Johnson, Y., J. Bishop, and G. Toner, 2019. “The Moral Imperative to Morally Enhance”, *The Journal of Medicine and Philosophy*, 43 (5): 485–489.
 
 [^joyce-2013]: Joyce, R., 2013. “Review of *Unfit for the Future? The Need for Moral Enhancement*, by Ingmar Persson and Julian Savulescu”, *Analysis*, 73(3): 587–589.
 
@@ -412,9 +414,9 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^juengst-2009]: –––, 2009. “What’s Taxonomy Got to Do with It? ‘Species Integrity’, Human Rights, and Science Policy”, in Savulescu, J., and Bostrom, N. (eds.), 2009. *Human Enhancement*, Oxford: Oxford University Press.
 
-[^juengst-2017]: –––, 2017, “Crowdsourcing the Moral Limits of Human Gene Editing?”, *Hastings Center Report*, 47(3): 15–23.
+[^juengst-2017]: –––, 2017. “Crowdsourcing the Moral Limits of Human Gene Editing?”, *Hastings Center Report*, 47(3): 15–23.
 
-[^juengst-2024]: Juengst, E.T., Flatt, A., Conley, J., Davis, A., Henderson, G., MacKay, D., Major, R., Walker, R., Cadigan, R.J., 2024, “Preventive Human Genome Editing and Enhancement: Candidate Criteria for Governance” *Hastings Center Report*, 54(5): 14–23.
+[^juengst-2024]: Juengst, E.T., A. Flatt, J. Conley, A. Davis, C. Henderson, D. MacKay, R. Major, R. Walker, and R. J. Cadigan, 2024. “Preventive Human Genome Editing and Enhancement: Candidate Criteria for Governance” *Hastings Center Report*, 54(5): 14–23.
 
 [^kamm-2005]: Kamm, F. M., 2005. “Is There a Problem with Enhancement?” *The American Journal of Bioethics*, 5(3): 5–14.
 
@@ -438,9 +440,11 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^lázaro-muñoz-2015]: Lázaro-Muñoz, G., and E. Juengst, 2015. “Challenges for Implementing a PTSD Preventive Genomic Sequencing Program in the U.S. Military”, *Case West Journal of International Law*, 47(1): 87–113.
 
+[^levin-2021]: Levin, S.B., 2021. *Posthuman Bliss? The Failed Promise of Transhumanism*, Oxford: Oxford University Press.
+
 [^levy-2007]: Levy, N., 2007. *Neuroethics: Challenges for the 21ˢᵗ Century*, Cambridge: Cambridge University Press.
 
-[^levy-2014a]: Levy, N., Douglas, T., Kahane, G., Terbeck, S., Cowen, P., Hewstone, M., Savulescu, J., 2014a. “Are You Morally Modified? The Moral Effects of Widely Used Pharmaceuticals,”, *Philosophy, Psychiatry, & Psychology*, 21(2): 111–126
+[^levy-2014a]: Levy, N., T. Douglas, G. Kahane, S. Terbeck, P. Cowen, M. Hewstone, J. Savulescu, 2014a. “Are You Morally Modified? The Moral Effects of Widely Used Pharmaceuticals,”, *Philosophy, Psychiatry, & Psychology*, 21(2): 111–126
 
 [^levy-2014b]: –––, 2014b. “Disease, Normality and Current Pharmacological Moral Modification”, *Philosophy, Psychiatry, & Psychology*, 21(2): 135–138
 
@@ -448,17 +452,17 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^liao-2006b]: –––, 2006b. “The Idea of a Duty to Love”, *Journal of Value Inquiry*, 40(1): 1–22.
 
-[^liao-2011]: Liao, S. M. and Roache, R., 2011. “After Prozac”, in J. Savulescu, R. ter Meulen, and G. Kahane (eds.), *Enhancing Human Capacities*, New York: Wiley-Blackwell, pp. 245–256.
+[^liao-2011]: Liao, S. M. and R. Roache, 2011. “After Prozac”, in J. Savulescu, R. ter Meulen, and G. Kahane (eds.), *Enhancing Human Capacities*, New York: Wiley-Blackwell, pp. 245–256.
 
 [^little-1998]: Little, M., 1998. “Cosmetic Surgery, Suspect Norms, and the Ethics of Complicity”, in E. Parens (ed.), *Enhancing Human Traits*, Washington: Georgetown University Press, pp. 162–176.
 
-[^lin-2013]: Lin, P., Mehlman, M., Abney, K., 2013. “Enhanced Warfighters: Risks, Ethics and Policy”. *Case Research Paper Series in Legal Studies Working Paper*, Cleveland, OH: Case Western University, 17.
+[^lin-2013]: Lin, P., M. Mehlman, and K. Abney, 2013. “Enhanced Warfighters: Risks, Ethics and Policy”. *Case Research Paper Series in Legal Studies Working Paper*, Cleveland, OH: Case Western University, 17.
 
 [^loland-2002]: Loland, S., 2002. *Fair Play in Sport: A Moral Norm System*, New York: Routledge.
 
 [^lombardo-2022]: Lombardo, P., 2022. *Three Generations, No Imbeciles: Eugenics, the Supreme Court, and Buck v. Bell, Updated Edition*, Baltimore: Johns Hopkins University Press.
 
-[^mauron-1991]: Mauron, A. and J. Thevoz, 1991. “Germ-Line Engineering: A Few European Voices”, *Journal of Medicine and Philosophy*, 16: 649–666.
+[^mauron-1991]: Mauron, A., and J. Thevoz, 1991. “Germ-Line Engineering: A Few European Voices”, *Journal of Medicine and Philosophy*, 16: 649–666.
 
 [^may-2023]: May, J., 2023. *Neuroethics: Agency in the Age of Brain Science*, Oxford: Oxford University Press.
 
@@ -472,23 +476,23 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^mehlman-2012]: –––, 2012. *Transhumanist Dreams and Dystopian Nightmares*, Baltimore: Johns Hopkins University Press.
 
-[^mehlman-2011]: Mehlman, M. J., Berg, J. W., Juengst, E. T., and Kodish, E., 2011. “Ethical and Legal Issues in Enhancement Research on Human Subjects”, *Cambridge Quarterly of Health Care Ethics* 20(1): 30–45.
+[^mehlman-2011]: Mehlman, M. J., J. W. Berg, E. T. Juengst, and E. Kodish, 2011. “Ethical and Legal Issues in Enhancement Research on Human Subjects”, *Cambridge Quarterly of Health Care Ethics* 20(1): 30–45.
 
 [^miah-2004]: Miah, A., 2004. *Genetically Modified Athletes: Biomedical Ethics, Gene Doping and Sport*, New York: Routledge.
 
 [^moreno-2012]: Moreno, J.D., 2012. *Mind Wars: Brain Science and the Military in the 21ˢᵗ Century*, New York, Bellevue Literary Press.
 
-[^mihailov-2018]: Mihailov, E., and Savulescu, J., 2018, “Social Policy and Cognitive Enhancement: Lessons from Chess”, *Neuroethics*, 11(2): 115–127
+[^mihailov-2018]: Mihailov, E., and J. Savulescu, 2018, “Social Policy and Cognitive Enhancement: Lessons from Chess”, *Neuroethics*, 11(2): 115–127
 
-[^miller-2000]: Miller, F. G., Brody, H., and Chung, K. C., 2000. “Cosmetic Surgery and the Internal Morality of Medicine”, *Cambridge Quarterly of Health Care Ethics*, 9(3): 353–364.
+[^miller-2000]: Miller, F. G., H. Brody, and K. C. Chung, 2000. “Cosmetic Surgery and the Internal Morality of Medicine”, *Cambridge Quarterly of Health Care Ethics*, 9(3): 353–364.
 
 [^moseley-2012]: Moseley, D., 2012. “Self-Creation, Identity and Authenticity: A Study of *A History of Violence and Eastern Promises.*” in S. Riches (ed.) *The Philosophy of David Cronenberg*, Lexington: University Press of Kentucky.
 
 [^moseley-2025]: –––, 2025. “The Promise and Perils of Moral Enhancement with Neurotechnology” *Philosophy and the Mind Sciences*, 6. Accepted.
 
-[^moseley-2023]: Moseley, D., Murray, 2023. “Biomedical Technology and the Ethics of Enhancement” in G. Robson and J. Tsou (eds.), *Technology Ethics: A Philosophical Introduction and Readings*, New York: Routledge, pp.252–260.
+[^moseley-2023]: Moseley, D., and C. Murray, 2023. “Biomedical Technology and the Ethics of Enhancement” in G. Robson and J. Tsou (eds.), *Technology Ethics: A Philosophical Introduction and Readings*, New York: Routledge, pp.252–260.
 
-[^moseley-2025-2]: Moseley, D., and Fröhlich, F., 2025. “Bridging Network Neuroscience and Neuroethics: Can TMS and tACS Solve the Creativity Crisis?” in V. Dubljević and J. Young (eds.), *TMS and Neuroethics*, Cham: Springer.
+[^moseley-2025-2]: Moseley, D., and F. Fröhlich, 2025. “Bridging Network Neuroscience and Neuroethics: Can TMS and tACS Solve the Creativity Crisis?” in V. Dubljević and J. Young (eds.), *TMS and Neuroethics*, Cham: Springer.
 
 [^munthe-2000]: Munthe, C., 2000. “Selected Champions: Making Winners in the Age of Genetic Technology”, in T. Tännsjö and C. Tamburrine (eds.), *Values in Sport: Elitism, Nationalism Gender Equality and the Scientific Manufacture of Winners*, New York: Routledge, pp. 217–231.
 
@@ -512,23 +516,23 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^parks-1999]: Parks, J. A., 1999. “On the Use of Ivf by Post-Menopausal Women”, *Hypatia*, 14(1): 77–96.
 
-[^paulo-2019]: Paulo, N., and Bublitz, C. (eds.), 2019. Special Issue of *Neuroethics*: “Political Implications of Moral Enhancement”, Volume 12.
+[^paulo-2019]: Paulo, N., and C. Bublitz (eds.), 2019. Special Issue of *Neuroethics*: “Political Implications of Moral Enhancement”, Volume 12.
 
-[^persson-2012]: Persson, I. and Savulescu, J., 2012. *Unfit for the Future: The Need for Moral Enhancement*, Oxford: Oxford University Press.
+[^persson-2012]: Persson, I. and J. Savulescu, 2012. *Unfit for the Future: The Need for Moral Enhancement*, Oxford: Oxford University Press.
 
 [^persson-2014]: –––, 2014. “Against Fetishism About Egalitarianism and in Defense of Cautious Bioenhancement”, *The American Journal of Bioethics*, 14(4): 39–42
 
 [^pfaff-2019]: Pfaff, C.A., 2019. “Soldier Enhancement Ethics and the Lessons of World War I”, in T.S. Mallard and N.H. White (eds.), *The Persistent Fire: The Strategic Ethicsl Impact of World War I on the Global Profession of Arms*, Washington, D.C.: National Defense University Press.
 
-[^post-2004]: Post, S. G. and Binstock, R. H., 2004. *The Fountain of Youth: Cultural, Scientific, and Ethical Perspectives on a Biomedical Goal*, New York: Oxford University Press.
+[^post-2004]: Post, S. G., and R. H. Binstock, 2004. *The Fountain of Youth: Cultural, Scientific, and Ethical Perspectives on a Biomedical Goal*, New York: Oxford University Press.
 
 [^puscas-2020]: Puscas, I.M., 2020. “Military Enhancement: Technologies, Ethics and Operational Issues” in D. Messelken and D. Winkler, *Ethics of Medical Innovation, Experimentation, and Enhancement in Military and Humanitarian Contexts*, Cham: Springer, pp. 127–146.
 
 [^roduit-2016]: Roduit, J., 2016. *The Case for Perfection: Ethics in the Age of Human Enhancement*, New York: Peter Lang.
 
-[^roduit-2013]: Roduit, J., Baumann, H., and Heilinger, J. C., 2013. “Human Enhancement and Perfection”, *Journal of Medical Ethics*, 39(10): 647–650. doi:10.1136/medethics-2012–100920
+[^roduit-2013]: Roduit, J., H. Baumann, and J. C. Heilinger, 2013. “Human Enhancement and Perfection”, *Journal of Medical Ethics*, 39(10): 647–650. doi:10.1136/medethics-2012–100920
 
-[^rothman-2004]: Rothman, S. and Rothman, D., 2004. *The Pursuit of Perfection: The Promise and Perils of Medical Enhancement*, New York: Vintage.
+[^rothman-2004]: Rothman, S. and D. Rothman, 2004. *The Pursuit of Perfection: The Promise and Perils of Medical Enhancement*, New York: Vintage.
 
 [^rowlands-2018]: Rowlands, M., 2018. “What is moral enhancement?” *Royal Institute of Philosophy Supplement*, 83: 5–18.
 
@@ -538,7 +542,7 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^savulescu-2009]: Savulescu, J., 2009. “The Moral Prejudice and the Moral Status of Enhanced Beings: What Do We Owe the Gods?”, in Savulescu, J., and Bostrom, N. (eds.), 2009. *Human Enhancement*, Oxford: Oxford University Press.
 
-[^savulescu-2011]: Savulescu, J., ter Meulen, R. and Kahane, G. (eds.), 2011. *Enhancing Human Capacities*, New York: Wiley-Blackwell.
+[^savulescu-2011]: Savulescu, J., R. ter Meulen, and G. Kahane (eds.), 2011. *Enhancing Human Capacities*, New York: Wiley-Blackwell.
 
 [^schechtman-2007]: Schechtman, M., 2007. *The Constitution of Selves.* Ithaca, NY: Cornell University Press.
 
@@ -546,7 +550,7 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^schermer-2008b]: –––, 2008b. “On the Argument That Enhancement Is ‘Cheating’”, *Journal of Medical Ethics*, 34(2): 85–88.
 
-[^scully-2001]: Scully, J. L. and Rehmann-Sutter, C., 2001, “When Norms Normalize: The Case of Genetic ‘Enhancement’”, *Human Gene Therapy*, 12: 87–95.
+[^scully-2001]: Scully, J. L. and C. Rehmann-Sutter, 2001, “When Norms Normalize: The Case of Genetic ‘Enhancement’”, *Human Gene Therapy*, 12: 87–95.
 
 [^selgelid-2014]: Selgelid, M., 2014, “Moderate Eugenics and Human Enhancement”, *Medicine, Health Care and Philosophy*, 17: 3–12.
 
@@ -574,31 +578,33 @@ We would like to thank Allen Buchanan, Jennifer Hawkins, Jonathan Shear, Robert 
 
 [^spitzley-2018]: Spitzley, J., 2018. “Enhancing the Nature-of-Activities Account of Enhancement”, *Neuroethics*, 11(3): 323–335.
 
-[^stevenson-2017]: Stevenson, L., Haberman, D., Wright, P., and Witt, C., 2017. *Thirteen Theories of Human Nature*, seventh edition, Oxford: Oxford University Press.
+[^stevenson-2017]: Stevenson, L., D. Haberman, P. Wright, and C. Witt, 2017. *Thirteen Theories of Human Nature*, seventh edition, Oxford: Oxford University Press.
 
 [^taylor-1991]: Taylor, C., 1991. *The Ethics of Authenticity*, Cambridge: Harvard University Press.
 
 [^tennison-2012]: Tennison, M., 2012. “Moral Transhumanism: The Next Step”, *Journal of Medicine and Philosophy*, 37: 405–416.
 
-[^tolleneer-2013]: Tolleneer, J., Sterckx, S. and Bonte, P., 2013. *Athletic Enhancement, Human Nature and Ethics: Threats and Opportunities of Doping Technologies*, New York: Springer.
+[^tolleneer-2013]: Tolleneer, J., S. Sterckx, and P. Bonte, 2013. *Athletic Enhancement, Human Nature and Ethics: Threats and Opportunities of Doping Technologies*, New York: Springer.
 
 [^trilling-1971]: Trilling, L., 1971. *Sincerity and Authenticity*, Cambridge: Harvard University Press.
 
 [^united-1948]: United Nations General Assembly, 1948. *Universal Declaration of Human Rights*, GA Res 217 A (III), UNGAOR, 3ʳᵈ Session, Supplement No. 13, U.N. Document A/810.
 
-[^walters-1997]: Walters, L. and Palmer, J. G., 1997. *The Ethics of Human Gene Therapy*, New York: Oxford University Press.
+[^walters-1997]: Walters, L. and J. G. Palmer, 1997. *The Ethics of Human Gene Therapy*, New York: Oxford University Press.
 
 [^white-1993]: White, G., 1993. “Human Growth Hormone: The Dilemma of Expanded Use in Children”, *Kennedy Institute of Ethics Journal*, 3(4): 401–409.
 
 [^white-2014]: White, M., 2014. *The Virtues of Captain America: Modern-Day Lessons on Character from a World War II Superhero.* Oxford: Wiley Blackwell.
 
-[^whitehouse-1997]: Whitehouse, P. J., Juengst, E., Mehlman, M., and Murray, T. H., 1997. “Enhancing Cognition in the Intellectually Intact”, *The Hastings Center Report*, 27(3): 14–22.
+[^whitehouse-1997]: Whitehouse, P. J., E. Juengst, M. Mehlman, and T. H. Murray, 1997. “Enhancing Cognition in the Intellectually Intact”, *The Hastings Center Report*, 27(3): 14–22.
 
 [^wikler-1999]: Wikler, D., 1999. “Can We Learn from Eugenics?” *Journal of Medical Ethics*, 25(2): 183–194.
 
 [^wiseman-2014]: Wiseman, H., 2014. “SSRIs as Moral Enhancement Interventions: A Practical Dead End”, *American Journal of Bioethics*, 5(3): 21–30.
 
-[^wiseman-2016]: –––, 2016 *The Myth of the Moral Brain: The Limits of Moral Enhancement*, Cambridge, MA: MIT Press.
+[^wiseman-2016]: –––, 2016. *The Myth of the Moral Brain: The Limits of Moral Enhancement*, Cambridge, MA: MIT Press.
+
+[^wolfendale-2008]: Wolfendale, J., 2008. “Performance-Enhancing Technologies and Moral Responsibility in the Military”, *American Journal of Bioethics*, 8(2): 28-38.
 
 [^zak-2011]: Zak, P. J., 2011. “The Physiology of Moral Sentiments”, *Journal of Economic Behavior and Organization*, 77: 53–65.
 

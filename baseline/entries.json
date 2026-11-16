@@ -7913,15 +7913,16 @@
     },
     {
       "slug": "argument",
-      "fetched_at": "2026-11-14T21:36:12Z",
+      "fetched_at": "2026-11-16T11:01:45Z",
       "source_url": "https://plato.stanford.edu/entries/argument/",
       "title": "Argument and Argumentation",
       "authors": [
-        "Dutilh Novaes, Catarina"
+        "Dutilh Novaes, Catarina",
+        "Lewiński, Marcin"
       ],
       "pubinfo": {
         "first_published": "Jul 16, 2021",
-        "substantive_revision": null
+        "substantive_revision": "Nov 15, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "a/argument.md",
@@ -7943,36 +7944,36 @@
       "files": [
         {
           "path": "en/argument/index.html",
-          "sha256": "512c3af08206af97bcc19452e8454c5407e2e061e950ddd289dd918474b57783",
-          "bytes": 162693,
+          "sha256": "22205c555ebabdbffe7bbbd8281c54d03ce6546d85cdc579f95c02cdf66b7675",
+          "bytes": 200138,
           "kind": "main"
         },
         {
           "path": "en/argument/notes.html",
-          "sha256": "aaf790724565e057d65ceccfd46865945870e7f75922b82fc1aafaf4f86b3a2b",
-          "bytes": 14456,
+          "sha256": "bfae61c590c59bd19c9285c30f91788bea2c401787336232760d4ce841f9cd60",
+          "bytes": 14620,
           "kind": "notes"
         },
         {
           "path": "en/argument/supplement.html",
-          "sha256": "c38870448c6efbd3e8ed73644a2054b787a47de6ebcf215cd58dd55960026ce5",
-          "bytes": 43518,
+          "sha256": "cc1f39c2357d1bb591de2d28071dfd5431306d482e3ed6c9c3c3814b8a5bd1a3",
+          "bytes": 43990,
           "kind": "supplement"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/a/argument.md",
-        "sha256": "9c4a316f88b9a9496a4b89acb781e4b806cb94025de6c09bfda36eee3d6d5953",
-        "source_sha256": "512c3af08206af97bcc19452e8454c5407e2e061e950ddd289dd918474b57783",
-        "converted_at": "2026-11-14T21:45:23Z",
-        "cite_markers": 244,
-        "cite_defs": 230,
+        "sha256": "a62244453f9b85e655672083ee628fe2a6fd4c15fc34aab25d83b351eaa36458",
+        "source_sha256": "22205c555ebabdbffe7bbbd8281c54d03ce6546d85cdc579f95c02cdf66b7675",
+        "converted_at": "2026-11-16T11:03:40Z",
+        "cite_markers": 367,
+        "cite_defs": 321,
         "supplements": [
           "argument.supplement.md"
         ],
         "images": [],
-        "notes": 6
+        "notes": 5
       }
     },
     {
@@ -40638,7 +40639,7 @@
     },
     {
       "slug": "emily-elizabeth-constance-jones",
-      "fetched_at": "2026-10-26T20:37:33Z",
+      "fetched_at": "2026-11-16T11:01:51Z",
       "source_url": "https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/",
       "title": "Emily Elizabeth Constance Jones",
       "authors": [
@@ -40646,14 +40647,18 @@
       ],
       "pubinfo": {
         "first_published": "Mar 25, 2011",
-        "substantive_revision": "Aug 7, 2020"
+        "substantive_revision": "Nov 15, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "e/emily-elizabeth-constance-jones.md",
       "archinfo": {
-        "latest_edition": "Fall 2020",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2020",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Fall 2014",
             "change_type": "minor correction"
@@ -40668,32 +40673,38 @@
           }
         ]
       },
-      "archive_edition": "Fall 2020",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/emily-elizabeth-constance-jones/index.html",
-          "sha256": "e329d2b198ee7988802e848e22d225feb6efe109ba23078e5ae2ddeb247c1f54",
-          "bytes": 104165,
+          "sha256": "c162edbc66d416b85749a9e220b7e5d71a7f40cba48c188286d9ee6c63867ab0",
+          "bytes": 111855,
           "kind": "main"
         },
         {
           "path": "en/emily-elizabeth-constance-jones/notes.html",
-          "sha256": "dcbc48751207ac6097d8cd9d41adc551058cb387fc8811cd1225e2eb519e67c7",
-          "bytes": 15142,
+          "sha256": "5e225a08d032377a5bb9964228faeb0f694a1be8cbe10553391e9ea7753e9ed5",
+          "bytes": 14763,
           "kind": "notes"
+        },
+        {
+          "path": "en/emily-elizabeth-constance-jones/local.js",
+          "sha256": "1a2fd4077ad6b56d491bcb7bacbe8ce5a3d442fc68bde7d2d863f760fd98f44a",
+          "bytes": 138,
+          "kind": "script"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/e/emily-elizabeth-constance-jones.md",
-        "sha256": "6917974ba71742c3583eae079b9dbbfdbc54eb22e66798be91cab89da5d1ecfe",
-        "source_sha256": "e329d2b198ee7988802e848e22d225feb6efe109ba23078e5ae2ddeb247c1f54",
-        "converted_at": "2026-11-14T17:13:52Z",
-        "cite_markers": 44,
-        "cite_defs": 57,
+        "sha256": "4440dd506a0e214332adef58962f164d05e73e9f510e220c3100cb679fba81d7",
+        "source_sha256": "c162edbc66d416b85749a9e220b7e5d71a7f40cba48c188286d9ee6c63867ab0",
+        "converted_at": "2026-11-16T11:03:40Z",
+        "cite_markers": 59,
+        "cite_defs": 76,
         "supplements": [],
         "images": [],
-        "notes": 5
+        "notes": 3
       }
     },
     {
@@ -41293,7 +41304,7 @@
     },
     {
       "slug": "enhancement",
-      "fetched_at": "2026-11-14T21:38:01Z",
+      "fetched_at": "2026-11-16T11:01:58Z",
       "source_url": "https://plato.stanford.edu/entries/enhancement/",
       "title": "Human Enhancement",
       "authors": [
@@ -41302,7 +41313,7 @@
       ],
       "pubinfo": {
         "first_published": "Apr 7, 2015",
-        "substantive_revision": "Nov 13, 2025"
+        "substantive_revision": "Nov 15, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "e/enhancement.md",
@@ -41336,19 +41347,19 @@
       "files": [
         {
           "path": "en/enhancement/index.html",
-          "sha256": "46c75bcc3abdad7b768e5f69c7f85679f303b74dba80d55e211525061b7f02b8",
-          "bytes": 130821,
+          "sha256": "2126958a363e64e5401d0618f9c9cfae5fae69cbea5b7d0c89184b0bc80b7397",
+          "bytes": 131179,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/e/enhancement.md",
-        "sha256": "70636cfdc7ac690ad11ed5930f8542156520f956c47ec5c3d1b77d1c8cd5e480",
-        "source_sha256": "46c75bcc3abdad7b768e5f69c7f85679f303b74dba80d55e211525061b7f02b8",
-        "converted_at": "2026-11-14T21:45:28Z",
-        "cite_markers": 209,
-        "cite_defs": 179,
+        "sha256": "5dc0e02e3ca8d861c716a8eea2a0279d438b994e602882ea0b5300c15d055dc3",
+        "source_sha256": "2126958a363e64e5401d0618f9c9cfae5fae69cbea5b7d0c89184b0bc80b7397",
+        "converted_at": "2026-11-16T11:03:40Z",
+        "cite_markers": 220,
+        "cite_defs": 182,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -50822,7 +50833,7 @@
     },
     {
       "slug": "fiction-emotion-response",
-      "fetched_at": "2026-10-27T18:23:38Z",
+      "fetched_at": "2026-11-16T11:02:01Z",
       "source_url": "https://plato.stanford.edu/entries/fiction-emotion-response/",
       "title": "Emotional Responses to Fiction",
       "authors": [
@@ -50835,25 +50846,30 @@
       "in_article_markers": true,
       "zh_doc": "f/fiction-emotion-response.md",
       "archinfo": {
-        "latest_edition": "Spring 2024",
-        "latest_change_type": "first archived",
-        "history": []
+        "latest_edition": null,
+        "latest_change_type": null,
+        "history": [
+          {
+            "edition": "Spring 2024",
+            "change_type": "first archived"
+          }
+        ]
       },
-      "archive_edition": "Spring 2024",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/fiction-emotion-response/index.html",
-          "sha256": "f389c69a28caeca160abafa1e46d162d4a06f178b38dfbebed5a716b63fe9e5b",
-          "bytes": 130633,
+          "sha256": "2a4654145f5001c7cdb713dad76c79ca8607aec0b4749d6a7e463e99ac721ad0",
+          "bytes": 130682,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/f/fiction-emotion-response.md",
-        "sha256": "109f45e2c386ca5a77f4895e8981c3708be3a2e845f6b1a684ca8ca1c8ebaf9a",
-        "source_sha256": "f389c69a28caeca160abafa1e46d162d4a06f178b38dfbebed5a716b63fe9e5b",
-        "converted_at": "2026-11-14T17:14:20Z",
+        "sha256": "d6e0bdeb81e21d56da155248715c5d6b5074b0fd2285f88f64afbcf1d367cd3d",
+        "source_sha256": "2a4654145f5001c7cdb713dad76c79ca8607aec0b4749d6a7e463e99ac721ad0",
+        "converted_at": "2026-11-16T11:03:41Z",
         "cite_markers": 152,
         "cite_defs": 192,
         "supplements": [],
@@ -63955,7 +63971,7 @@
     },
     {
       "slug": "horkheimer",
-      "fetched_at": "2026-10-26T20:39:33Z",
+      "fetched_at": "2026-11-16T11:02:16Z",
       "source_url": "https://plato.stanford.edu/entries/horkheimer/",
       "title": "Max Horkheimer",
       "authors": [
@@ -63963,14 +63979,18 @@
       ],
       "pubinfo": {
         "first_published": "Jun 24, 2009",
-        "substantive_revision": "Jul 18, 2022"
+        "substantive_revision": "Nov 16, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "h/horkheimer.md",
       "archinfo": {
-        "latest_edition": "Fall 2024",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2024",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Fall 2022",
             "change_type": "substantive content change"
@@ -63993,17 +64013,17 @@
           }
         ]
       },
-      "archive_edition": "Fall 2024",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/horkheimer/index.html",
-          "sha256": "21d2c9af3bdc6e2f9fdf7eb3a7617ca0c6eef5125a85892d687079e70f58c903",
-          "bytes": 96721,
+          "sha256": "d3de9fa3ca672abaa684c7cd78b4e72a8cda3d863e67d89efc89453af508068f",
+          "bytes": 97207,
           "kind": "main"
         },
         {
           "path": "en/horkheimer/notes.html",
-          "sha256": "63fac63c74224e63d2bffeeab49de19228b0e5f7cea5873a771856b58fd4e3de",
+          "sha256": "de722c2461f96e04a6886d14f7bfb38c50812456fc8f6abb92bc9a1d25373cd9",
           "bytes": 18106,
           "kind": "notes"
         }
@@ -64011,11 +64031,11 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/h/horkheimer.md",
-        "sha256": "cb37d07c3abf5795207a6f38fe4fe0c26bf86ce5b11459252310f9fb9aa1083c",
-        "source_sha256": "21d2c9af3bdc6e2f9fdf7eb3a7617ca0c6eef5125a85892d687079e70f58c903",
-        "converted_at": "2026-11-14T17:14:49Z",
-        "cite_markers": 29,
-        "cite_defs": 53,
+        "sha256": "5aea4e8670425c02289e5220752a22145b7b2fd4444bf3cdfd4efe7f7b476fa2",
+        "source_sha256": "d3de9fa3ca672abaa684c7cd78b4e72a8cda3d863e67d89efc89453af508068f",
+        "converted_at": "2026-11-16T11:03:41Z",
+        "cite_markers": 30,
+        "cite_defs": 56,
         "supplements": [],
         "images": [],
         "notes": 5
@@ -74472,7 +74492,7 @@
     },
     {
       "slug": "kant-leibniz",
-      "fetched_at": "2026-11-14T21:39:26Z",
+      "fetched_at": "2026-11-16T11:02:22Z",
       "source_url": "https://plato.stanford.edu/entries/kant-leibniz/",
       "title": "Leibniz’s Influence on Kant",
       "authors": [
@@ -74526,8 +74546,8 @@
       "files": [
         {
           "path": "en/kant-leibniz/index.html",
-          "sha256": "be4df55da3c4eebeec8caa07d0912f65c4eec6dfd34618dbf8919fafe40ee55e",
-          "bytes": 89398,
+          "sha256": "b0552bb26718a48cb02efa6b6d6dcbd2102d8ca5abe06b2b27a3bc950c4b92a2",
+          "bytes": 89400,
           "kind": "main"
         }
       ],
@@ -74535,8 +74555,8 @@
       "yuanwen": {
         "md": "yuanwen/k/kant-leibniz.md",
         "sha256": "62f87cdfec4d6a4f644942249d961936a5507a6dfd9c604a81acf64dc0ad8720",
-        "source_sha256": "be4df55da3c4eebeec8caa07d0912f65c4eec6dfd34618dbf8919fafe40ee55e",
-        "converted_at": "2026-11-14T21:45:33Z",
+        "source_sha256": "b0552bb26718a48cb02efa6b6d6dcbd2102d8ca5abe06b2b27a3bc950c4b92a2",
+        "converted_at": "2026-11-16T11:03:41Z",
         "cite_markers": 2,
         "cite_defs": 38,
         "supplements": [],
@@ -131966,7 +131986,7 @@
     },
     {
       "slug": "self-knowledge",
-      "fetched_at": "2026-11-14T21:41:29Z",
+      "fetched_at": "2026-11-16T11:02:33Z",
       "source_url": "https://plato.stanford.edu/entries/self-knowledge/",
       "title": "Self-Knowledge",
       "authors": [
@@ -132033,20 +132053,20 @@
       "files": [
         {
           "path": "en/self-knowledge/index.html",
-          "sha256": "f9286b8701f1c91f26d2396fb896ada4264b10463baf2b871129a13d69d3817b",
-          "bytes": 122464,
+          "sha256": "001c38df43920f49673bfa35690fe5ca29921288b99f04a9fe76f3ec2cfb6b8d",
+          "bytes": 122472,
           "kind": "main"
         },
         {
           "path": "en/self-knowledge/notes.html",
-          "sha256": "3f6100cc743ec1ae853a2203c6010936b2073179c8343efe55f3e06d11f1d72c",
-          "bytes": 17373,
+          "sha256": "ed3a43a064601443e35b386475f63f2a387b2b0a61bdbdac61652a38aabc8e5a",
+          "bytes": 17249,
           "kind": "notes"
         },
         {
           "path": "en/self-knowledge/supplement.html",
-          "sha256": "3139e1b734566c00559922cf8bd764eb766b3ade9a040bd27056ec1ad49283c8",
-          "bytes": 32971,
+          "sha256": "adcd42b61b219e9e4bee06d7bf5689069ec6a687a36d6e47258971df2e448761",
+          "bytes": 34293,
           "kind": "supplement"
         },
         {
@@ -132059,16 +132079,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/self-knowledge.md",
-        "sha256": "cf00e2899931030892c33ef3c61db670ce77babe601826773415951d228e369f",
-        "source_sha256": "f9286b8701f1c91f26d2396fb896ada4264b10463baf2b871129a13d69d3817b",
-        "converted_at": "2026-11-14T21:45:41Z",
-        "cite_markers": 161,
+        "sha256": "d1d28751cb46f10226586c7c5dffa0b8af0809846603f41d5687099d42161608",
+        "source_sha256": "001c38df43920f49673bfa35690fe5ca29921288b99f04a9fe76f3ec2cfb6b8d",
+        "converted_at": "2026-11-16T11:03:41Z",
+        "cite_markers": 160,
         "cite_defs": 168,
         "supplements": [
           "self-knowledge.supplement.md"
         ],
         "images": [],
-        "notes": 10
+        "notes": 9
       }
     },
     {
@@ -151649,5 +151669,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-16T07:23:11Z"
+  "updated_at": "2026-11-16T11:03:41Z"
 }
