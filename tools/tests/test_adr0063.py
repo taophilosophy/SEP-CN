@@ -33,16 +33,15 @@ class TestPatchAdmission(unittest.TestCase):
         self.assertIsNone(admission("Teubener", "Teubner"))
 
     def test_real_pool_patches_pass(self):
-        path = os.path.join(ROOT, "baseline", "en-patches.json")
-        if not os.path.exists(path):
-            # 池目录化（baseline/en-patches/）在途由并行会话改造，正本格式未定；
-            # 谓词逻辑已由上三条合成用例覆盖，此处不依赖池文件布局。
-            self.skipTest("补丁池正处目录化改造（baseline/en-patches/），本用例跳过")
-        with open(path, encoding="utf-8") as f:
-            pool = json.load(f)
-        for p in pool["patches"]:
-            self.assertIsNotNone(admission(p["find"], p["replace"]),
-                                 "池内补丁 %s 应过准入谓词" % p["id"])
+        # 池已目录化（baseline/en-patches/*.patch，ADR-0063 2026-11-16 裁定）；
+        # 解析唯一实现在 tools/en_patch_lib.py。
+        from tools import en_patch_lib
+        patches = en_patch_lib.load_patches()
+        self.assertTrue(patches, "补丁目录应有正本")
+        for slug, items in patches.items():
+            for p in items:
+                self.assertIsNotNone(admission(p["find"], p["replace"]),
+                                     "池内补丁 %s 应过准入谓词" % p["id"])
 
 
 class TestTailOrder(unittest.TestCase):

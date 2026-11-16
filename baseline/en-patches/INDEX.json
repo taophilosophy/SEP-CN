@@ -1,0 +1,38 @@
+{
+  "schema": "sep-cn-en-patches-dir/1",
+  "generated_at": "2026-11-16T11:18:32Z",
+  "note": "生成物，禁手改；正本为同目录 *.patch（ADR-0063 补丁池目录化）。",
+  "count": 3,
+  "patches": [
+    {
+      "id": "P-001",
+      "slug": "incommensurability",
+      "file": "en/incommensurability/index.html",
+      "expect": 1,
+      "category": "格式层（空格）",
+      "source": "en-errata.md §九 格式层",
+      "patch": "baseline/en-patches/P-001.patch",
+      "sha256": "4b4b7e443395a56eff586e6fc67ae97b81295b2093337270f2501e52c799669c"
+    },
+    {
+      "id": "P-002",
+      "slug": "lakatos",
+      "file": "en/lakatos/index.html",
+      "expect": 1,
+      "category": "格式层（空格）",
+      "source": "en-errata.md §九 格式层",
+      "patch": "baseline/en-patches/P-002.patch",
+      "sha256": "e06c23d80e4b62a7abfb51f1ac1ac2aebd79e039cb930a7207dc622bf01e6d28"
+    },
+    {
+      "id": "P-003",
+      "slug": "yorck",
+      "file": "en/yorck/index.html",
+      "expect": 1,
+      "category": "格式层（空格）",
+      "source": "en-errata.md §九 格式层",
+      "patch": "baseline/en-patches/P-003.patch",
+      "sha256": "159ebec6e9d24942b55c94efe2151d3f510802e39586fc0d1706fc5d8dd1499c"
+    }
+  ]
+}

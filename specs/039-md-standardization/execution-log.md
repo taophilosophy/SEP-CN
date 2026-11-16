@@ -50,3 +50,16 @@
 * 30 件重复 H1 修 `yuanwen.py`（`citation_title` 前置条件），`expect=30` 定点重转。
 * 勘误表 31 行／17 slug 落地核对（§8.1 yorck 零动作、§8.2 四件核读法＋译注）。
 * 存量归一（编号 2076、脚注移段 87）与 416 件回退重走。
+
+## 2026-11-16 · 补丁池目录化（用户裁定：补丁不是虚拟的，放固定文件夹独立存放）
+
+| 项 | 内容 |
+| ---- | ---- |
+| 布局 | `baseline/en-patches/<id>.patch`（一补丁一文件，unified diff＋头注释字段，带 1 行上下文）＋`INDEX.json`（生成物，禁手改）；旧 `baseline/en-patches.json` 已删除 |
+| 解析唯一实现 | 新增 `tools/en_patch_lib.py`（parse/load/admission），转换器、离线体检、迁移脚本共用 |
+| 应用语义 | 行锚定：`find` 取整行、命中数必须 == `expect`、上下文行须在 html 中出现；失配抛 `PatchMismatch`（该件转换硬失败）。`git apply --check` 作独立预演（不写 en/） |
+| 等价性证明 | 3/3 补丁：新行锚定应用 ≡ 旧 token 应用（逐字节），**yuanwen 产物无需重转** |
+| 体检 | `check_en_patches --strict`：3/3 通过、`admission_bad=0`、`index_bad=0`、`git_check_bad=0` |
+| 单测 | 新增 `tools/tests/test_en_patches_dir.py` 13 例；`test_adr0063` 池用例改读目录；两文件 **34 例全绿** |
+| 文档 | AGENTS 硬约束行、`rules/04` s0 出口、`rules/README` 两则判例、ADR-0062 附记（只追加）、ADR-0063 §6、`contracts/cli.md` 权属行 |
+| 迁移脚本 | `specs/039-md-standardization/bin/migrate_en_patches.py`（`--refresh` 幂等再生；本次 `--refresh` 用） |

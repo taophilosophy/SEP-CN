@@ -30,7 +30,7 @@ from html import unescape
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from tools import parser  # noqa: E402
+from tools import en_patch_lib, parser  # noqa: E402
 from tools.common import (  # noqa: E402
     find_zh_doc, load_json, read_text, repo_path, sha256_file, utcnow_iso,
     write_json_verified, write_text_verified)
@@ -1038,29 +1038,36 @@ _EN_PATCH_CACHE = None
 
 
 def _load_en_patches():
+    """读补丁池目录正本（baseline/en-patches/*.patch，ADR-0063 目录化）。
+
+    解析唯一实现在 tools/en_patch_lib.py；本函数只做进程内缓存。
+    """
     global _EN_PATCH_CACHE
     if _EN_PATCH_CACHE is None:
-        _EN_PATCH_CACHE = {}
-        path = repo_path('baseline', 'en-patches.json')
-        if os.path.exists(path):
-            pool = load_json(path)
-            for p in pool.get('patches', []):
-                _EN_PATCH_CACHE.setdefault(p['slug'], []).append(p)
+        _EN_PATCH_CACHE = en_patch_lib.load_patches()
     return _EN_PATCH_CACHE
 
 
 def apply_en_patches(slug, html):
-    """格式层补丁应用（ADR-0062）：en/ 本体零改动，格式修正只在转换层生效。
+    """格式层补丁应用（ADR-0062/0063）：en/ 本体零改动，格式修正只在转换层生效。
 
-    每条 find 命中计数必须等于 expect；不符抛 PatchMismatch（该件转换硬失败，
-    防上游漂移静默失配）。文字层缺陷不在本池（登记全局勘误表＋中文译注）。
+    行锚定：find 为整行；命中计数必须等于 expect，上下文行须在 html 中出现；
+    不符抛 PatchMismatch（该件转换硬失败，防上游漂移静默失配）。
+    文字层缺陷不在本池（登记全局勘误表＋中文译注）。
     """
     for p in _load_en_patches().get(slug, []):
         n = html.count(p['find'])
         if n != p['expect']:
             raise PatchMismatch(
-                '%s 补丁 %s 命中 %d 次，expect %d（上游漂移？先核对 en/ 与 baseline/en-patches.json）'
-                % (slug, p.get('id', '?'), n, p['expect']))
+                '%s 补丁 %s 命中 %d 次，expect %d（上游漂移？先核对 en/ 与 %s）'
+                % (slug, p.get('id', '?'), n, p['expect'],
+                   p.get('patch_file', 'baseline/en-patches/')))
+        for ctx in p.get('context', []):
+            if ctx and ctx not in html:
+                raise PatchMismatch(
+                    '%s 补丁 %s 上下文失配（%s；上游漂移？先核对 en/ 与 %s）'
+                    % (slug, p.get('id', '?'), ctx[:40],
+                       p.get('patch_file', 'baseline/en-patches/')))
         html = html.replace(p['find'], p['replace'])
     return html
 

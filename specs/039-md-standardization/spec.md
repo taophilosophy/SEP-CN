@@ -32,6 +32,8 @@
 
 补丁准入谓词（I3 的判定面）：去空白后 `find ≡ replace` **或** 剥标签后 `find ≡ replace`，二者皆不成立即文字层，禁入池、禁改 `yuanwen`。
 
+补丁正本（2026-11-16 用户裁定“补丁不是虚拟的”）：`baseline/en-patches/<id>.patch` **一补丁一文件**（unified diff 正文＋头注释字段，带 1 行上下文），`INDEX.json` 为生成物禁手改；解析唯一实现 `tools/en_patch_lib.py`；应用为行锚定（命中==`expect`、上下文须在场），失配即该件转换硬失败；`git apply --check` 只读预演。删除单文件旧池 `baseline/en-patches.json`。
+
 四关：C1 结构有效（`en_source_audit`＋`html.parser`）→ C2 准入谓词＋`expect` 命中 → C3 单调改善且全库其余件 diff=0 → C4 重放等值。
 
 ## 阶段与退出门
