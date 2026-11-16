@@ -31,10 +31,10 @@
 0. **方向确认**：按 `rules/08-intent-first.md` 复述用户到底要什么，写清目标、非目标与验收判据；含糊先问不猜，禁止猜着做；动笔前按 `rules/08` §13 筛查适用标准文献（知难行易的重要体现，ADR-0042）。
 1. **基点核对**：`git log --oneline -5`、`git status`；开工先 `python tools/sync_guard.py pull`（判弃自检实拦，ADR-0028），落后不干活。本机定岗见 ADR-0028：M1 只做词条翻译，M2 管其余全部。
 2. **读规则地图**：`rules/README.md` 的规则地图与快速判例。
-3. **跑门禁**：`python tools/check_all.py`（十项门禁加单元测试，共 11 项，应全绿）。
+3. **跑门禁**：`python tools/check_all.py`（十一项门禁加单元测试，共 12 项，应全绿）。
 4. **看进度与任务**：`PROGRESS.md`、`python tools/task_ops.py show <slug>`。
 
-收工：复跑相关检查器；相关文件提交并推送（中文一行信息；提交即推，ADR-0059）；`git log origin/main..main` 为空；不留半成品。推送后站点更新走壳仓拉取制（ADR-0064）：壳仓每 30 分钟定时拉取子模块、有新指针才重建（急用 `gh workflow run -R taophilosophy/taophilosophy.github.io deploy.yml` 手动拉取）；deploy_bump 与 push 触发已按 2026-11-17 裁定撤除。
+收工：复跑相关检查器；相关文件提交并推送（中文一行信息；提交即推，ADR-0059）；`git log origin/main..main` 为空；不留半成品。推送后站点更新走壳仓拉取制（ADR-0064）：壳仓每 30 分钟定时拉取子模块、有新指针才重建；手动两档 `gh workflow run -R taophilosophy/taophilosophy.github.io deploy.yml`（默认＝手动拉取；`-F sync_docs=false`＝不动指针原样重建成站）；deploy_bump 与 push 触发已按 2026-11-17 裁定撤除。
 
 ## 硬约束速览
 
@@ -54,7 +54,7 @@
 | 根目录白名单 | 根层只放白名单条目；散件归 `script/`（本地）、`state/`（运行态）或 `specs/<NNN>-*/` 的 `bin`、`results` 子目录；新增根级条目走 ADR | ADR-0023、`check_junk.py` |
 | 批量改写 | 写回前置门（残余不为 0 禁止写回）、幂等、逐行身份追踪、改写前强制基线还原；**把译法套进正文不属于批量改写** | `rules/05` |
 | 术语落地 | 一致性以概念为单位、条目主题优先（同形不同义分行）；差异先定性 D1–D5 再处置，告警三出口；**禁机械替换**（回源逐句改）；涉译法抉择或登记改动须联网查证留凭证 | `rules/03`、ADR-0048 |
-| 检查 | `check_all.py`（11 项，`--all` 为 14 项）；定点 `check_academic.py --docs <路径> --strict`；推送后 CI 为最终裁判 | `rules/05` |
+| 检查 | `check_all.py`（12 项，`--all` 为 15 项）；定点 `check_academic.py --docs <路径> --strict`；推送后 CI 为最终裁判 | `rules/05` |
 | 体例归一 | s2.4 三轴（术语＋体例＋勘误）：尾序 canonical（`脚注` 恒末位，`译者注释` 可选末节）、编号 `N.` 点号式与原文一致、H1 中英题＋作者括号、pubinfo 引块、勘误承载＝译者注释节（圈号锚点连续编号，句内括注为过渡形态）；空白类告警；判定权只读、规则所有权单表 | `rules/04`、`rules/05`、ADR-0063/0065 |
 | 派生保真 | `yuanwen` 文字 ≡ `en`（I2 重放等值、I3 词元流等值），唯一合法偏离是格式补丁（准入谓词＋命中计数＋勘误表双向追溯）；禁手改产物 | ADR-0062/0063、`rules/05` |
 | 知难行易落实 | 批量批次开工先立卡钉基准、列作废条件；新手段先小样本试金石；自报完成须独立复算；返工先归因登记，同缺口二发升级防线 | ADR-0039、`rules/08` §9–12 |
