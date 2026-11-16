@@ -95,10 +95,25 @@ include_verbatim = true
 glob_ignore_case = false
 
 # Exclude URLs and mail addresses from checking (supports regex).
-exclude = ['.*ip:.*', '.*ftp.freebsd.org.*', '.*localhost.*', '.*\$.*', '.*0\.0\.0\.0.*', 'http://ip/.*']
+# 2026-11-16 适配：删除上一位宿主（FreeBSD 书）遗留的 ftp.freebsd.org / http://ip/ 项。
+exclude = ['.*ip:.*', '.*localhost.*', '.*\$.*', '.*0\.0\.0\.0.*']
 
 # Exclude these filesystem paths from getting checked.
-exclude_path = [".github"]
+# 只查站点内容与治理文档：原文镜像（yuanwen/，逐字符照录的英文侧）、抓取原始物（en/）、
+# 本地草稿（script/）、运行态（state/）、构建产物与测试夹具一律不进链接检查。
+exclude_path = [
+  "^en/",
+  "^yuanwen/",
+  "^script/",
+  "^state/",
+  "^\\.zcode/",
+  "^\\.specify/",
+  "^\\.vitepress/",
+  "^node_modules/",
+  "^tools/tests/fixtures/",
+  "^\\.github/",
+  "^SUMMARY\\.md$",
+]
 
 # URLs to check (supports regex). Has preference over all excludes.
 #include = ['gist\.github\.com.*']

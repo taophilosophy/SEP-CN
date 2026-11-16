@@ -25,7 +25,7 @@ jobs:
 
       - uses: actions/setup-python@v7
         with:
-          python-version: "3.x"
+          python-version: "3.15"
 
       - name: 抓取 SEP 目录并与基线比对
         id: check

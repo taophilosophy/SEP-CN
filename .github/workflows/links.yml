@@ -1,10 +1,12 @@
-name: 🔗 链接检查
+name: 🔗 链接检查（lychee）
 
 # 最小权限（CodeQL actions/missing-workflow-permissions）：检出后跑链接检查，报告以 issue 反馈
 permissions:
   contents: read
   issues: write
 
+# 范围由 .github/lychee.toml 的 exclude_path 单点决定（原文 en/、镜像 yuanwen/、
+# 草稿 script/、构建产物、测试夹具除外），本文件不再重复路径清单。
 on:
   repository_dispatch:
   workflow_dispatch:
@@ -14,13 +16,14 @@ on:
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v7
 
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
-        with: 
+        with:
           fail: true
           format: markdown
           output: ./lychee/out.md

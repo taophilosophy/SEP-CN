@@ -50,7 +50,7 @@ jobs:
       - name: 设置 Python 环境
         uses: actions/setup-python@v7
         with:
-          python-version: '3.15'
+          python-version: '3.15'   # 2026-11-16 用户裁定：导出线随仓基线统一 3.15（原注「暂留 3.13」作废）
 
       - name: 安装 Python 依赖
         run: |
@@ -61,9 +61,11 @@ jobs:
           pip install weasyprint mistune pygments EbookLib beautifulsoup4
 
       # ================= 导出范围过滤（可选） =================
-      # 全量约 2600+ 词条，weasyprint 内存压力大；可按首字母分批导出。
-      # 仅保留：节标题等非链接行、非 a-z 单字母目录的前置节（qian-yan/ 等）
-      # 与所选字母的词条行。
+      # 全量约 2500+ 词条页，weasyprint 内存压力大；可按首字母分批导出。
+      # SUMMARY 为扁平结构（`## A` 分节＋词条行），且占位母行/别名参见行按
+      # ADR-0057/0060 已是**无链接行**：过滤须随所属小节走，否则被排除字母的
+      # 参见行与空节会残留在产物里。非字母目录（qian-yan/、guan-yu/、1/ 等）
+      # 与前置区一律保留。
       - name: 按首字母过滤 SUMMARY（留空则全量）
         if: ${{ inputs.letters != '' }}
         run: |
@@ -72,20 +74,28 @@ jobs:
           letters = {c.strip().lower() for c in "${{ inputs.letters }}".split(',') if c.strip()}
           assert letters, 'letters 输入为空'
           link = re.compile(r'\]\(([^)#]+)')
+          sect = re.compile(r'^##\s+([A-Za-z])\s*$')
           with open('sep-cn/SUMMARY.md', encoding='utf-8') as f:
               src = f.readlines()
-          out = []
+          out, section = [], None  # None＝首个字母小节之前的前置区
           for line in src:
-              m = link.search(line)
+              m = sect.match(line.strip())
               if m:
-                  seg = m.group(1).strip().split('/')[0]
-                  # 非 a-z 单字母目录（qian-yan/ 等）前置节一律保留
+                  section = m.group(1).lower()
+                  if section in letters:
+                      out.append(line)
+                  continue
+              if section is not None and section not in letters:
+                  continue
+              lm = link.search(line)
+              if lm:
+                  seg = lm.group(1).strip().split('/')[0]
                   if len(seg) == 1 and seg.isascii() and seg.isalpha() and seg not in letters:
                       continue
               out.append(line)
           with open('sep-cn/SUMMARY.md', 'w', encoding='utf-8') as f:
               f.writelines(out)
-          print('过滤后保留行数：%d' % len(out))
+          print('过滤后保留行数：%d（原 %d）' % (len(out), len(src)))
           PY
 
       # ================= PDF 生成部分 =================
