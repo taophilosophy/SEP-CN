@@ -62,7 +62,7 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 
 * `markdown.attrs = false`（2026-10-28 裁定）：全库以 `^{…}`/`_{…}` 作上下标约定，正文含大量字面花括号（如 `^{−1}`）。attrs 插件会把尾随花括号吞成 HTML 属性——轻则上下标静默丢失（`u(a_{1})` 渲染成 `u(a`），重则非法属性名（`−½`）炸掉 Vue 模板编译，整页构建失败。**不要重新开启 attrs**。
 * 行内代码统一注入 `v-pre`（vuejs/vitepress#3724）：代码里的 `{{ }}` 与标签不被 Vue 当模板处理。
-* 数学：`math-plugin.mjs` 把 `$…$`、`$$…$$`、`\(…\)`、`\[…\]` 保护为哨兵 token，公式内容原样；MathJax 4.1.3 的 `tex-svg` 离线加载（`/mathjax/tex-svg.js`，specs/024 由 3.2.2 升级；v3 配置原样兼容），`startup.typeset: false`，由主题组件 `MathTypesetter`（挂载于 `doc-top`）在路由变化后手动排版，避免 SPA 切换漏排。
+* 数学：`math-plugin.mjs` 把 `$…$`、`$$…$$`、`\(…\)`、`\[…\]` 保护为哨兵 token，公式内容原样；MathJax 4.1.3 的 `tex-svg` 离线加载（`/mathjax/tex-svg.js`，specs/024 由 3.2.2 升级；v3 配置原样兼容），`startup.typeset: false`，由主题组件 `MathTypesetter`（挂载于 `doc-top`）在路由变化后手动排版，避免 SPA 切换漏排。输出是 SVG，宽高以 `ex` 为单位，**`ex` 由公式容器的字体决定**：霞鹜文楷的 x-height 只有 0.2285em（16px 下 `1ex`=3.66px），直接继承正文会让公式缩到设计尺寸的 46%，因此 `.math-tex`/`.math-display` 固定用等宽体（0.4678em）并把字号放到 1.8em，使公式与汉字同高（约 95%）；`1.8` 是唯一调参处，改前先读 `custom.css` 数学段注释。
 
 ## 双语配对与侧边栏
 
