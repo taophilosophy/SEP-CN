@@ -131,9 +131,10 @@ def main(argv: list[str] | None = None) -> int:
         print('壳仓有 %d 个未推送提交，请先处理（不自动 rebase，避免与并行会话抢）' % ahead)
         return 1
 
-    msg = 'docs 指针前移：%s %s' % (target[:9], subject)
+    brief = subject if len(subject) <= 60 else subject[:59] + '…'
+    msg = 'docs 指针前移：%s %s' % (target[:9], brief)
     if args.dry_run:
-        print('[dry-run] 将执行：git add docs && git commit -m %r%s' % (
+        print('[dry-run] 将执行：git update-index --cacheinfo 160000,%s,docs && git commit -m %r%s' % (target, 
             msg, '' if args.no_push else ' && git push origin main'))
         return 0
 
