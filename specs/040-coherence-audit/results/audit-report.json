@@ -1,0 +1,773 @@
+{
+ "schema": "sep-cn-coherence-audit/1",
+ "at": "2026-11-16T21:28:26Z",
+ "root": "C:\\Users\\ykla\\Documents\\SEP-CN",
+ "A_state_machine": {
+  "ORDER": {
+   "retranslate": [
+    "pending",
+    "cleared",
+    "s0_source_checked",
+    "drafted",
+    "s1_checked",
+    "s2_checked",
+    "s2.4_termchecked",
+    "s2.5_checked",
+    "s3_checked",
+    "r1_reviewed",
+    "r2_reviewed",
+    "r3_reviewed",
+    "done"
+   ],
+   "update": [
+    "pending",
+    "s0_source_checked",
+    "s1_checked",
+    "s2_checked",
+    "s2.4_termchecked",
+    "s2.5_checked",
+    "s3_checked",
+    "r1_reviewed",
+    "r2_reviewed",
+    "r3_reviewed",
+    "done"
+   ]
+  },
+  "STEPS": {
+   "s0": "s0_source_checked",
+   "draft": "drafted",
+   "s1": "s1_checked",
+   "s2": "s2_checked",
+   "s24": "s2.4_termchecked",
+   "s25": "s2.5_checked",
+   "audit": "s2.5_checked",
+   "s3": "s3_checked",
+   "r1": "r1_reviewed",
+   "r2": "r2_reviewed",
+   "r3": "r3_reviewed",
+   "done": "done"
+  },
+  "STEP_EXPECT_PREV": {
+   "s0": [
+    "cleared",
+    "pending"
+   ],
+   "draft": [
+    "s0_source_checked"
+   ],
+   "s1": [
+    "drafted",
+    "s0_source_checked"
+   ],
+   "s2": [
+    "s1_checked"
+   ],
+   "s24": [
+    "s2_checked"
+   ],
+   "s25": [
+    "s2.4_termchecked"
+   ],
+   "audit": [
+    "s2_checked"
+   ],
+   "s3": [
+    "s2.5_checked"
+   ],
+   "r1": [
+    "s3_checked"
+   ],
+   "r2": [
+    "r1_reviewed"
+   ],
+   "r3": [
+    "r2_reviewed"
+   ],
+   "done": [
+    "r3_reviewed"
+   ]
+  },
+  "reach": {
+   "retranslate": {
+    "unreachable": [],
+    "dead_ends": []
+   },
+   "update": {
+    "unreachable": [],
+    "dead_ends": []
+   }
+  },
+  "edges": 50,
+  "viol_target_outside_order": [
+   {
+    "kind": "update",
+    "from": "s0_source_checked",
+    "step": "draft",
+    "to": "drafted"
+   }
+  ],
+  "viol_pred_jump": [
+   {
+    "kind": "retranslate",
+    "from": "pending",
+    "step": "s0",
+    "to": "s0_source_checked",
+    "preds_of_tgt": [
+     "cleared"
+    ]
+   },
+   {
+    "kind": "retranslate",
+    "from": "s0_source_checked",
+    "step": "s1",
+    "to": "s1_checked",
+    "preds_of_tgt": [
+     "drafted"
+    ]
+   },
+   {
+    "kind": "retranslate",
+    "from": "s2_checked",
+    "step": "audit",
+    "to": "s2.5_checked",
+    "preds_of_tgt": [
+     "s2.4_termchecked"
+    ]
+   },
+   {
+    "kind": "update",
+    "from": "s2_checked",
+    "step": "audit",
+    "to": "s2.5_checked",
+    "preds_of_tgt": [
+     "s2.4_termchecked"
+    ]
+   }
+  ],
+  "alias_dead_entry": [
+   {
+    "step": "audit",
+    "table_entry": [
+     "s2_checked"
+    ],
+    "actual_after_remap": [
+     "s2.4_termchecked"
+    ]
+   }
+  ],
+  "doc_state_missing": []
+ },
+ "B_gamma": {
+  "gates": [
+   {
+    "key": "summary",
+    "tool": "check_summary.py",
+    "in_rules05_workflow_table": true,
+    "in_rules05_tool_table": true,
+    "in_cli": true,
+    "in_agents": false
+   },
+   {
+    "key": "mulu",
+    "tool": "check_mulu_s.py",
+    "in_rules05_workflow_table": true,
+    "in_rules05_tool_table": true,
+    "in_cli": false,
+    "in_agents": false
+   },
+   {
+    "key": "docsize",
+    "tool": "check_doc_size.py",
+    "in_rules05_workflow_table": true,
+    "in_rules05_tool_table": true,
+    "in_cli": false,
+    "in_agents": true
+   },
+   {
+    "key": "junk",
+    "tool": "check_junk.py",
+    "in_rules05_workflow_table": true,
+    "in_rules05_tool_table": true,
+    "in_cli": false,
+    "in_agents": true
+   },
+   {
+    "key": "images",
+    "tool": "check_images.py",
+    "in_rules05_workflow_table": true,
+    "in_rules05_tool_table": true,
+    "in_cli": false,
+    "in_agents": false
+   },
+   {
+    "key": "terms",
+    "tool": "check_terms.py",
+    "in_rules05_workflow_table": true,
+    "in_rules05_tool_table": true,
+    "in_cli": true,
+    "in_agents": false
+   },
+   {
+    "key": "quotes",
+    "tool": "check_quotes.py",
+    "in_rules05_workflow_table": true,
+    "in_rules05_tool_table": true,
+    "in_cli": false,
+    "in_agents": false
+   },
+   {
+    "key": "academic",
+    "tool": "check_academic.py",
+    "in_rules05_workflow_table": true,
+    "in_rules05_tool_table": true,
+    "in_cli": true,
+    "in_agents": true
+   },
+   {
+    "key": "mathzh",
+    "tool": "check_math_zh.py",
+    "in_rules05_workflow_table": true,
+    "in_rules05_tool_table": true,
+    "in_cli": true,
+    "in_agents": false
+   },
+   {
+    "key": "divergence",
+    "tool": "divergence.py",
+    "in_rules05_workflow_table": true,
+    "in_rules05_tool_table": true,
+    "in_cli": true,
+    "in_agents": false
+   },
+   {
+    "key": "fidelity",
+    "tool": "check_yuanwen_fidelity.py",
+    "in_rules05_workflow_table": true,
+    "in_rules05_tool_table": true,
+    "in_cli": false,
+    "in_agents": false
+   }
+  ],
+  "rules05_ci_list_missing_vs_GATES": [
+   "fidelity"
+  ],
+  "tools_unregistered_in_rules05": [
+   "common",
+   "compose_from_ledger",
+   "en_patch_lib",
+   "gen_en_summary",
+   "migrate_exec",
+   "rebuild_dir",
+   "registry_azsort",
+   "repair_loop",
+   "summary_sync",
+   "sync_guard",
+   "term_coverage",
+   "term_flow",
+   "term_relations",
+   "termonline_token",
+   "tl_browser_batch",
+   "tl_crawler"
+  ],
+  "rules05_table_ghost": [],
+  "optional_all_items": [
+   "基线完整性审计（本地 en/）",
+   "英文镜像深度复核（本地 en/）",
+   "原始物分歧深核（git 历史）"
+  ],
+  "count": {
+   "gates": 11,
+   "plus_unittest": 12,
+   "with_all": 15
+  }
+ },
+ "C_adr_chain": {
+  "index_count": 65,
+  "index_status": {
+   "0001": "accepted",
+   "0002": "accepted",
+   "0003": "accepted",
+   "0004": "accepted",
+   "0005": "accepted",
+   "0006": "accepted",
+   "0007": "accepted",
+   "0008": "accepted",
+   "0009": "accepted",
+   "0010": "accepted",
+   "0011": "accepted",
+   "0012": "accepted",
+   "0013": "accepted",
+   "0014": "accepted",
+   "0015": "accepted",
+   "0016": "accepted",
+   "0017": "proposed",
+   "0018": "accepted",
+   "0019": "accepted",
+   "0020": "accepted",
+   "0021": "accepted",
+   "0022": "accepted",
+   "0023": "accepted",
+   "0024": "accepted",
+   "0025": "accepted",
+   "0026": "accepted",
+   "0027": "accepted",
+   "0028": "accepted",
+   "0029": "accepted",
+   "0030": "accepted",
+   "0031": "accepted",
+   "0032": "accepted",
+   "0033": "accepted",
+   "0034": "accepted",
+   "0035": "accepted",
+   "0036": "accepted",
+   "0037": "accepted",
+   "0038": "accepted",
+   "0039": "accepted",
+   "0040": "accepted",
+   "0041": "accepted",
+   "0042": "accepted",
+   "0043": "accepted",
+   "0044": "accepted",
+   "0045": "accepted",
+   "0046": "accepted",
+   "0047": "accepted",
+   "0048": "accepted",
+   "0049": "accepted",
+   "0050": "accepted",
+   "0051": "accepted",
+   "0052": "accepted",
+   "0053": "accepted",
+   "0054": "accepted",
+   "0055": "accepted",
+   "0056": "accepted",
+   "0057": "accepted",
+   "0058": "accepted",
+   "0059": "accepted",
+   "0060": "accepted",
+   "0061": "accepted",
+   "0062": "accepted",
+   "0063": "accepted",
+   "0064": "accepted",
+   "0065": "accepted"
+  },
+  "files": [
+   "0001-建立全局治理目录.md",
+   "0002-项目管理加固.md",
+   "0003-垃圾清理机制.md",
+   "0004-单体文件治理.md",
+   "0005-目录重建.md",
+   "0006-学术规范流程.md",
+   "0007-上游同构重建.md",
+   "0008-词条文件化.md",
+   "0009-AZ字母目录.md",
+   "0010-yuanwen图片相对引用.md",
+   "0011-引文原文语言与中文文献翻译.md",
+   "0012-译名依据源与人名表拆分.md",
+   "0013-阿拉伯伊斯兰人名与术语体例.md",
+   "0014-包管理统一bun弃用npm.md",
+   "0015-仓库Wiki折叠退役.md",
+   "0016-规则体系一致性收口.md",
+   "0017-参考文献双形态澄清.md",
+   "0018-知难行易全局规则.md",
+   "0019-渲染产物级门禁与生成器源修复.md",
+   "0020-译文语言质量门禁.md",
+   "0021-LLM辅助初译协议.md",
+   "0022-现代学者人名体例澄清.md",
+   "0023-根目录白名单与散件归置.md",
+   "0024-标题同步改本地门禁与CI只读校验.md",
+   "0025-disability译名按域分用.md",
+   "0026-双机双克隆工作区.md",
+   "0027-原始物入库.md",
+   "0028-双机定岗分工与同步积压线.md",
+   "0029-文本卫生入闸与登记册防回归.md",
+   "0030-原文列取证来源扩展与人名表豁免.md",
+   "0031-人名表籍属生卒取证来源扩展.md",
+   "0032-工具链基线更新与图片引用入闸.md",
+   "0033-译文语体门禁.md",
+   "0034-主代理单干禁调子代理.md",
+   "0035-工作区态目录豁免.md",
+   "0036-词汇表并网与登记册改名.md",
+   "0037-表格与图片体例.md",
+   "0038-en源头勘误与全量重转.md",
+   "0039-知难行易充分落实与返工防线.md",
+   "0040-审计已译环节与题注编号.md",
+   "0041-标准对齐基线与偏离登记.md",
+   "0042-标准文献启发式研读入开工门禁.md",
+   "0043-s2.5-checked前置阶段合并与全量回退.md",
+   "0044-流程过程标准化.md",
+   "0045-原始物双账语义与分歧账.md",
+   "0046-流程增补格式配对与一致性检查.md",
+   "0047-独立形态审校流程.md",
+   "0048-术语落地差异处置标准.md",
+   "0049-孤立希腊字母文字化体例.md",
+   "0050-上游更新引发的置空返工.md",
+   "0051-reopen分类与在途上游同步绕过.md",
+   "0052-源审计前置与HTML本体核查.md",
+   "0053-全量done回炉重走前置环节.md",
+   "0054-终审须用户显式指定会话.md",
+   "0055-构建壳与内容仓分权.md",
+   "0056-GitBook双语双空间变体.md",
+   "0057-SUMMARY占位母行去链接.md",
+   "0058-语体留痕步级时点口径.md",
+   "0059-提交即推自动推送.md",
+   "0060-别名行去链接.md",
+   "0061-CI同类合并为矩阵.md",
+   "0062-en原始物文字冻结与全局勘误表.md",
+   "0063-中文体例归一入s2.4双轴与转换保真不变量.md",
+   "0064-站点部署定时同步.md",
+   "0065-译者注释节与圈号锚点.md"
+  ],
+  "numbering_gap": [],
+  "dangling_index_file": [],
+  "status_mismatch": [
+   {
+    "adr": "0017",
+    "index": "proposed",
+    "file": "状态：**accepted"
+   }
+  ],
+  "referenced": [
+   "0001",
+   "0002",
+   "0003",
+   "0004",
+   "0005",
+   "0006",
+   "0007",
+   "0008",
+   "0009",
+   "0010",
+   "0011",
+   "0012",
+   "0013",
+   "0014",
+   "0015",
+   "0017",
+   "0019",
+   "0020",
+   "0021",
+   "0022",
+   "0023",
+   "0024",
+   "0026",
+   "0027",
+   "0028",
+   "0030",
+   "0032",
+   "0033",
+   "0034",
+   "0035",
+   "0036",
+   "0037",
+   "0038",
+   "0039",
+   "0040",
+   "0041",
+   "0042",
+   "0043",
+   "0044",
+   "0045",
+   "0046",
+   "0047",
+   "0048",
+   "0049",
+   "0050",
+   "0051",
+   "0052",
+   "0053",
+   "0054",
+   "0055",
+   "0056",
+   "0057",
+   "0058",
+   "0059",
+   "0060",
+   "0061",
+   "0062",
+   "0063",
+   "0064",
+   "0065"
+  ],
+  "dangling_refs": {},
+  "supersede_mentions": [
+   {
+    "adr": "0001",
+    "relation": "取代",
+    "other": "0036"
+   },
+   {
+    "adr": "0005",
+    "relation": "部分被取代",
+    "other": "0007"
+   },
+   {
+    "adr": "0007",
+    "relation": "部分被取代",
+    "other": "0008"
+   },
+   {
+    "adr": "0007",
+    "relation": "取代",
+    "other": "0005"
+   },
+   {
+    "adr": "0008",
+    "relation": "部分被取代",
+    "other": "0009"
+   },
+   {
+    "adr": "0009",
+    "relation": "修订",
+    "other": "0008"
+   },
+   {
+    "adr": "0009",
+    "relation": "取代",
+    "other": "0005"
+   },
+   {
+    "adr": "0010",
+    "relation": "修订",
+    "other": "0009"
+   },
+   {
+    "adr": "0012",
+    "relation": "取代",
+    "other": "0036"
+   },
+   {
+    "adr": "0016",
+    "relation": "修订",
+    "other": "0001"
+   },
+   {
+    "adr": "0028",
+    "relation": "修订",
+    "other": "0026"
+   },
+   {
+    "adr": "0039",
+    "relation": "作废",
+    "other": "0039"
+   },
+   {
+    "adr": "0041",
+    "relation": "修订",
+    "other": "7714"
+   },
+   {
+    "adr": "0042",
+    "relation": "修订",
+    "other": "0041"
+   },
+   {
+    "adr": "0043",
+    "relation": "取代",
+    "other": "0040"
+   },
+   {
+    "adr": "0043",
+    "relation": "修订",
+    "other": "0041"
+   },
+   {
+    "adr": "0051",
+    "relation": "修订",
+    "other": "0050"
+   },
+   {
+    "adr": "0051",
+    "relation": "修订",
+    "other": "0050"
+   },
+   {
+    "adr": "0051",
+    "relation": "修订",
+    "other": "0033"
+   },
+   {
+    "adr": "0054",
+    "relation": "取代",
+    "other": "0020"
+   },
+   {
+    "adr": "0059",
+    "relation": "作废",
+    "other": "0028"
+   },
+   {
+    "adr": "0059",
+    "relation": "作废",
+    "other": "0026"
+   },
+   {
+    "adr": "0061",
+    "relation": "作废",
+    "other": "0057"
+   },
+   {
+    "adr": "0062",
+    "relation": "取代",
+    "other": "0038"
+   },
+   {
+    "adr": "0063",
+    "relation": "取代",
+    "other": "0043"
+   },
+   {
+    "adr": "0065",
+    "relation": "取代",
+    "other": "0062"
+   }
+  ]
+ },
+ "D_claims_vs_facts": {
+  "gate_count_statements": {
+   "AGENTS.md": [
+    "3. **跑门禁**：`python tools/check_all.py`（十一项门禁加单元测试，共 12 项，应全绿）"
+   ],
+   "rules/05-ci-and-tools.md": [
+    "* **Python ≥ 3.15**（本地验证 3.15.2；`tools/` 仅标准库，`check_all` 10 项与单元测试全绿）",
+    "| `check_all.py` | 一键全量合规复核（十项门禁 + 单元测试；`--all` 加 baseline_audit、en_integrity 与 "
+   ],
+   "rules/06-governance.md": [
+    "* **一键全量复核**：`python tools/check_all.py`（九项门禁：结构/分类/单体/垃圾/图片引用/术语/引号/学术规范/公式体例 +"
+   ],
+   "rules/09-process-standard.md": [
+    "已运行指标：门禁硬错误数（check_all 10 项）、灭错率候选（校对规程 75%/75%/≤1‱ 模型）、差错率候选（CY/T 266 四档）、密度统计（",
+    "* **收工**：check_all 10 项全绿｜`git log origin/main..main` 为空（提交即推，ADR-0059）｜不留半成品｜本次"
+   ]
+  },
+  "gate_count_actual": {
+   "gates": 11,
+   "plus_unittest": 12,
+   "with_all": 15
+  },
+  "rules_line_claim": {
+   "claimed": "rules/05 74 行",
+   "actual_max": "rules/03-terminology.md 174 行",
+   "all": {
+    "rules/01-repository-structure.md": 80,
+    "rules/02-style.md": 157,
+    "rules/03-terminology.md": 174,
+    "rules/04-translation-workflow.md": 152,
+    "rules/05-ci-and-tools.md": 151,
+    "rules/06-governance.md": 84,
+    "rules/07-academic-norms.md": 69,
+    "rules/08-intent-first.md": 112,
+    "rules/09-process-standard.md": 88
+   }
+  },
+  "revert_scope": {
+   "rules04_has_expansion": true,
+   "tasks_README_line": [
+    "python tools/task_ops.py revert-state <slug> --to s2.5_checked --reason <因>   # 受控回退（仅 s3_"
+   ],
+   "cli_line": [
+    "revert-state <slug> --to s2.5_checked --reason <因> --actor <名>   # 受控回退（仅 s3_checked 及其后；A",
+    "| 任务状态机 | `task_ops.py` | s0 挂 en_integrity＋en_source_audit（ADR-0052）；s3/r3 挂 check_academ"
+   ]
+  },
+  "update_s24_scope": {
+   "rules04": [
+    "| update（更新） | 上游 SEP 修订引发 | pending → s0_source_checked（仅变更段）→ s1_checked（仅变更段）→ s2_check",
+    "**凭证**：一条 evidence 含三段摘要（术语输出／体例 JSON 计数／勘误落地状态）。update 任务仍以 `changes:` 开头；体例轴与勘误轴跑全文档（文档级"
+   ],
+   "tasks_README": [
+    "→ s2_checked（变更段所在节）→ s2.4_termchecked（仅变更段）"
+   ]
+  },
+  "step_hooks": {
+   "code_s25_extra_style": true,
+   "code_s3_extra_mathzh_strict": true,
+   "cli_s25_mentions_style": false,
+   "cli_s3_lines": [
+    "| 任务状态机 | `task_ops.py` | s0 挂 en_integrity＋en_source_audit（ADR-0052）；s3/r3 挂 check_academic；r3 须 --mandate 用户"
+   ]
+  },
+  "divergences": {
+   "active": 0,
+   "tombstones": 113
+  },
+  "baseline": {
+   "entries": 1872,
+   "pin_files": 4524,
+   "yuanwen_recs": 1872
+  },
+  "en_patches": {
+   "index_count": 3,
+   "files": 3
+  },
+  "errata_sec8plus_rows": 31,
+  "phi_witness": {
+   "done_tasks": 2,
+   "done_with_pin": 2
+  }
+ },
+ "E_stale_faces": {
+  "en_patches_json_path": [
+   "divergence:7",
+   "en_source_audit:8",
+   "en_source_audit:23",
+   "task_ops:251"
+  ],
+  "backlog_line": [
+   "sync_guard.py (docstring+cmd_status)"
+  ],
+  "inplace_fix": [],
+  "old_layout_docstring": [
+   "compose_from_ledger.py docstring 仍写 tasks/h/ 与 h/<slug>",
+   "rebuild_dir.py docstring 仍写 <slug>/index.md"
+  ],
+  "render_todo_note": [
+   "check_render_artifacts.py docstring 仍写“待登记 rules/05”"
+  ],
+  "rules/01-repository-structure.md": [
+   "第 70 行含「就地改」：* 图片本地化：镜像侧存 `yuanwen/assets/<slug>/`（上游同名 `imageN.jpg`，ADR-0008），`yua"
+  ],
+  "rules/03-terminology.md": [
+   "第 18 行含「CNKI 翻译助手」：1. **知网系权威源**：CNKI 翻译助手（dict.cnki.net）、术语在线 termonline.cn（全国科学技术名词审定委员",
+   "第 167 行含「CNKI 翻译助手」：* **差异必联网查证**：D3–D5 一律查证，D1/D2 定性不明时同样查证。依据档位照 [ADR-0012](adr/0012-译名依"
+  ],
+  "rules/04-translation-workflow.md": [
+   "第 126 行含「派工单 A2」：3. 边界：s2.5_checked 在途件不适用（状态机 reopen 仅限 done），其变更经派工单 A2 以 `changes:` "
+  ]
+ },
+ "F_adr_miscites": [
+  {
+   "tool": "check_academic.py",
+   "cited": "ADR-0057",
+   "adr0057_title_head": "# 0057. SUMMARY 集群占位母行改为无链接分组行（GitBook 一文件一页）",
+   "expected": "ADR-0058（语体留痕步级时点）"
+  },
+  {
+   "tool": "check_tables_images.py",
+   "cited": "ADR-0036",
+   "adr0036_title_head": "# 0036. 词汇表并网：双表终局结构与术语登记册改名",
+   "expected": "ADR-0037（表格与图片体例）"
+  }
+ ],
+ "G_norm_conflicts": [
+  {
+   "id": "cnki",
+   "a": "rules/03 §译名依据优先级 1：知网系权威源（CNKI 翻译助手、术语在线）",
+   "b": "rules/03 §术语落地：术语在线与 CNKI 翻译助手不再新增查询（2026-11-14 裁定）"
+  },
+  {
+   "id": "en_freeze",
+   "a": "rules/01 图片节：* 图片本地化：镜像侧存 `yuanwen/assets/<slug>/`（上游同名 `imageN.jpg`，ADR-0008），`yua",
+   "b": "ADR-0062 决策 1：en/ 绝对冻结，任何变动禁止（rules/README 判例已改）"
+  },
+  {
+   "id": "reopen_boundary",
+   "a": "rules/04 §上游更新引发的置空返工 边界：3. 边界：s2.5_checked 在途件不适用（状态机 reopen 仅限 done），其变更经派工单 A2 以 `",
+   "b": "ADR-0051 决策：R3 在途绕过含 s2.5_checked，边界一作废"
+  },
+  {
+   "id": "force_push",
+   "a": "rules/06 §历史改写与批次护栏：已裁定允许重写 git 记录（含 force push）",
+   "b": "rules/06 §多机并行 + rules/05 §提交策略：--force 仍禁（ADR-0059）"
+  }
+ ]
+}
