@@ -23,12 +23,17 @@ jobs:
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
+        # 不硬拦，但要保留真实退出码：`fail: true` 让 lychee 如实返回 2，
+        # 再由 continue-on-error 把这一步的失败吞掉——作业保持绿，下方 issue
+        # 步骤仍能凭 lychee_exit_code 拿到报告。用 `fail: false` 反而不行：
+        # 那会给 lychee 加 --no-fail，退出码恒 0，issue 永远不会开（2026-11-16
+        # 实测一次 dispatch：2098 处死链却零 issue）。
+        # 口径依据：本项目 2500 个词条的参考书目天然带大量外部死链与限流
+        # （inphoproject 跳转链、philpapers 429、doi 解析），硬失败会让月度作业
+        # 长期全红、把真回归淹没；本文件头注本来就写着「报告以 issue 反馈」。
+        continue-on-error: true
         with:
-          # 不硬拦：本项目 2500 个词条的参考书目天然带着大量外部死链与限流
-          # （inphoproject 跳转链、philpapers 429、doi 解析），硬失败只会让
-          # 月度作业长期全红、把真回归淹没。按本文件头注的既定口径——「报告以
-          # issue 反馈」——保留 find 结果与 issue，退出码交给下方 issue 步骤消费。
-          fail: false
+          fail: true
           format: markdown
           output: ./lychee/out.md
           args: --config ./.github/lychee.toml './**/*.md'
