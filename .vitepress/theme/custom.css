@@ -165,6 +165,7 @@ html {
   font-size: 13px;
   cursor: pointer;
   white-space: nowrap;
+  text-decoration: none; /* 英文原文页的“⇦ 中文译文”是 <a> */
 }
 
 .bili-btn + .bili-btn {

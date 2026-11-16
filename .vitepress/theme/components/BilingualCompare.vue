@@ -27,6 +27,9 @@ type Show = 'compare' | 'zh' | 'en'
 
 const { page } = useData()
 const enPath = computed(() => page.value.frontmatter?.enPath as string | undefined)
+/** 英文原文页注入的反向指针（config 的 zhPath）：站内没有别的消费方，
+    原文页靠它回到中文词条（2026-11-16 补，此前英文页无回程入口） */
+const zhPath = computed(() => (page.value.frontmatter?.zhPath as string | undefined) || '')
 const hasLS = typeof localStorage !== 'undefined'
 
 const panel = ref<HTMLElement | null>(null)
@@ -582,7 +585,12 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-  <div v-if="enPath" class="bili-toggle-wrap">
+  <!-- 英文原文页：只给回程入口（原文页没有对照面板可开） -->
+  <div v-if="zhPath" class="bili-toggle-wrap">
+    <a class="bili-btn" :href="withBase(zhPath)" title="回到该词条的中文译文">⇦ 中文译文</a>
+  </div>
+
+  <div v-else-if="enPath" class="bili-toggle-wrap">
     <button class="bili-btn" :class="{ on: hideSidebar }" title="隐藏/显示左侧目录（桌面端）" @click="hideSidebar = !hideSidebar">
       ⇤ 目录
     </button>

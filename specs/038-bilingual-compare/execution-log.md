@@ -38,6 +38,18 @@
 5. **移动端**：900 与 420 宽双栏降为整宽面板、控制条折两行（高 67px）、无横向滚动（`overflowX=-15` 即滚动条宽度）。
 6. **构建与门禁**：`SEP_SHARD=ek bun --bun x vitepress build docs`（壳仓入口，死链检查开启、无新增豁免）**通过**，`build complete in 166.52s`，唯一告警为既有的「块 >1600 kB」（specs/037 已定 `chunkSizeWarningLimit: 1600`，数据体积块无拆分手段）。`python tools/check_all.py` 11 项、失败 3，均为存量且与本次改动无关：①直角引号 124 处 / 10 文件（ADR-0059/0060、`shu-yu-biao.md`、`z/zhu-xi.md` 等；本次新增文档全改弯引号，计数由 126 降至 124）；②原始物分歧账 `en/zhu-xi`（登记后又改动，另有会话在办）；③单测 `test_check_summary_headers.AliasFragmentTest.test_dangling_fragment_is_hard_error`（ADR-0057/0060 别名片段门禁改 baseline 全集后测试未同步；本次未触 `tools/`）。
 
+## 2026-11-16 补：英文原文页的回程入口
+
+**起因**：收尾观察发现 `transformPageData` 注入的 `zhPath` 全站没有消费方——旧 `BilingualToggle` 与本组件都只认 `enPath`，从中文页「新窗口」打开的英文原文页没有任何回中文的入口（浏览器后退之外）。
+
+**改动**：`BilingualCompare.vue` 增 `zhPath` 计算属性；模板分两路——`zhPath` 存在（英文页）时导航位只渲染「⇦ 中文译文」药丸（`.bili-btn` 的 `<a>` 形态，`withBase(zhPath)`），不渲染对照面板与「目录/对照原文」按钮；`enPath` 存在（中文页）时维持原样。`custom.css` 的 `.bili-btn` 补 `text-decoration: none`（`<a>` 形态防下划线）。
+
+**验证**（dev，`--dump-dom`）：
+- `/yuanwen/a/abduction` → `bili-toggle-wrap` 内仅 `<a class="bili-btn" href="/a/abduction" title="回到该词条的中文译文">⇦ 中文译文</a>`，`bili-panel` 不出现；同页带 `?bili=1` 也不开面板。
+- `/yuanwen/z/zhu-xi` → 同上（长条目同样配对成功）。
+- `/a/abduction` → 仍是「⇤ 目录 ⇔ 对照原文」两钮＋面板（无回归）。
+- 无配对页 `/guan-yu`、`/yuanwen/README` → 两种入口都不出现（`bili-toggle-wrap` 缺席）。
+
 ## 2026-11-16 未做/另案
 
 - 不复刻参考站设置面板（字号、行距、背景亮度、繁简切换）：spec §1 非目标。
