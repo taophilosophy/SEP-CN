@@ -1,10 +1,29 @@
-# en 源头勘误清单（ADR-0038）
+# 全局勘误表（上游缺陷唯一登记处；ADR-0062，取代 ADR-0038 就地改正线）
 
-范围：`en/<slug>/index.html` 就地改正的逐条凭证。只收“已核实”四类（排印/OCR 手误、同页自相矛盾、结构错位、占位符可自证）；可争议年份、命名选择、版本标记一律不改，另列“待考”。
+**现行口径（2026-11-16 用户裁定，ADR-0062）**：`en/**` **绝对冻结**——与原始网页钉逐字节一致，文字层与格式层变动一律禁止（ADR-0027 最初禁令全面恢复）。缺陷分两路处置：
 
-改正后由 `python tools/yuanwen.py --all-baselined --summary` 全量重转，`baseline/entries.json` 的 `source_sha256` 与 `md` 哈希随重转重算；git 历史即勘误证据。
+* **文字层**（拼写、词序、年份、条目增删、结构错位等）：**不进入任何英文派生物**——`yuanwen/` 等英文 markdown 与 HTML 文字保持一致（忠实转换，上游错字照录）；中文译文按正确读法呈现，并在对应位置插入译注（`（译注：上游原文作“…”，系…之误。）`）承载。本表逐条登记缺陷与参考读法。
+* **格式层**（标签闭合、属性、注释配对等使 HTML 不可解析的标记问题）：以**补丁**形式登记于补丁池目录正本 `baseline/en-patches/<id>.patch`（一补丁一文件，`INDEX.json` 为生成物；含 `find/replace/expect` 命中计数，失配即该件转换硬失败），由转换层在生成派生物时应用；`en/` 本体仍零改动。当前池 3 条（P-001~003，均为缺空格类），解析唯一实现 `tools/en_patch_lib.py`。
 
-## 一、已改正（2026-11-14，18 处／16 文件）
+纯排版空隙类（`pp.` 后缺空格等）归文字层，只入表、不强求译注。
+
+**历史各节（一至七）**为 ADR-0038 时代“就地改正”的存档凭证：其中所载改正已于 2026-11-16 **全部回退**至原始网页钉字节（分歧账注销转 tombstone，yuanwen 忠实重转），仅作缺陷知识与定性依据保留；新条目请按**第八节起的列式**登记，勿沿用“改正”语义。
+
+范围：`en/<slug>/index.html` 的文字缺陷逐条凭证。旧口径（ADR-0038）只收“已核实”四类（排印/OCR 手误、同页自相矛盾、结构错位、占位符可自证）；可争议年份、命名选择、版本标记一律不改，另列“待考”。**命名选择、文体、词序、体例归入“不改”面——2026-11-16 复审确认 yorck 书目 `Renthe-Fink von, Leonhard` 一类属命名选择，已还原。**
+
+## 入表格式（第八节起）
+
+| 列 | 含义 |
+| ---- | ---- |
+| slug | 词条标识 |
+| 位置 | 章节/段落/书目条目定位（可含行号或原串片段） |
+| 上游原文 | 原样引串（不改写） |
+| 缺陷定性 | ①排印/OCR 手误 ②同页自相矛盾 ③结构错位 ④占位符／或“待考” |
+| 参考读法 | 供译文采用或读者参考的正确读法（**不写入 en/**） |
+| 中文承载 | 译注落点（节号/句锚）或“纯排版，无需译注” |
+| 凭证 | 查证方式与日期（页内对照/库内多数形/联网/工具输出） |
+
+## 一、已改正（2026-11-14，18 处／16 文件）〔2026-11-16 已回退，存档〕
 
 | # | slug | 原串 | 改正 | 依据 |
 | ---- | ---- | ---- | ---- | ---- |
@@ -445,7 +464,7 @@
 | logic-fuzzy | gödel-1932 `Anzeiger Akademie Der Wissenschaften Wien` | `Anzeiger der Akademie der Wissenschaften in Wien` | 期刊名体例（①） |
 | logic-fuzzy | paris-2000 `(Studies in Fuzziness and Soft Computing. Volume 57)` | 逗号 | 标点（①） |
 | logic-fuzzy | fermüller-2015 缺 `in` | 补 | 体例（①） |
-| logic-fuzzy | zh 端 `[^supplementary-nd]`／`[^bibliography-nd]` 英文残句 | 改节首说明行「**补充文献：**」 | ①④ |
+| logic-fuzzy | zh 端 `[^supplementary-nd]`／`[^bibliography-nd]` 英文残句 | 改节首说明行“**补充文献：**” | ①④ |
 
 ## 五、2026-11-15 续批（zombies 回炉 s2.5 增项发现）
 
@@ -475,3 +494,68 @@
 | slug | 原串 | 改正 | 依据 |
 | ---- | ---- | ---- | ---- |
 | zhu-xi | 正文 `Lü Zuqian (1134–1181)`（两处） | `Lü Zuqian (1137–1181)` | 生年排印手误（①）；吕祖谦学界通行生卒 1137–1181（钱穆《朱子新学案》、束景南《朱子年谱长编》通行年表），译文已按通行形 |
+
+## 八、2026-11-16 回退战役与新发现（未应用，en/ 冻结后入表）
+
+**回退**：一至七节全部条目于 2026-11-16 按 ADR-0062 回退至原始钉字节（分歧账 112 件 unregister→tombstone，yuanwen 定点重转）——本节以下只记**回退后新发现**的缺陷与定性，均**不再改 en/**。
+
+### 8.1 yorck（本轮复审发现，未应用）
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| yorck | 书目 dilthey-1959 | `Stuttgart: B.G.Teubener.` | ① | B.G. Teubner | 照录区，无需译注 | 库内 `B.G. Teubner` 35 次 vs `Teubener` 1 次 |
+| yorck | 书目 wartenburg-1866/1891 | `in Karfried Grün…der` | ① | Karlfried | 照录区，无需译注 | 库内 `Karlfried Gründer` 9 次 vs `Karfried` 2／`Karlfied` 1 |
+| yorck | 书目 gründer-1965 | `Gr…der, Karlfied` | ① | Karlfried | 同上 | 同上 |
+| yorck | 书目 gründer-1965 | `Entsehungsgeschichtliche` | ① | Entstehungsgeschichtliche | 同上 | 非德语词（Entstehung） |
+| yorck | 书目 ×4 | `Vandenhoeck & Rupprecht` | ①/② | Vandenhoeck & Ruprecht | 同上 | 库内 112 次 vs 4 次；同页 `Van Den Hoeck` 亦错 |
+| yorck | 书目 kaufmann-1928 | `Die Philsophie` | ① | Die Philosophie | 同上 | 非德语词 |
+| yorck | 书目 kaufmann-1930 | `Geistegeschichte` | ① | Geistesgeschichte | 同上 | 库内 89 次 vs 1 次 |
+| yorck | 书目 krakowski-1996 | `Krakowski, Jerezy` | ① | Jerzy | 同上 | 库内 `Jerzy` 40 次 vs 1 次 |
+| yorck | 书目 krakowski-1996 | `Van Den Hoeck & Rupprecht` | ① | Vandenhoeck & Ruprecht | 同上 | 同页三条同社对照 |
+| yorck | 书目 farin-2016 | `pp.23–69` | ①（排版空格） | pp. 23–69 | **纯排版，无需译注** | 同页 15 处 `pp. N` 惯例 |
+| yorck | 书目 renthe-fink-1968 | `Renthe-Fink von, Leonhard` | **不改（命名选择）** | —— | —— | 2026-11-16 复审：贵族介词姓倒序属著录惯例，ADR-0062 决策 1 禁止改 |
+
+### 8.2 本轮会话已应用后回退件（存档参照）
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| xenophanes | 正文 B16 引文 | `Thracians that theirs are are blue-eyed` | ①（衍字） | 单 are | 第 2 节 B16 引文后译注 | 句法同构（Ethiopians 分句）；drift unchanged |
+| xenophanes | 正文 B14 引文 | `wear their own clothers` | ①（非词） | clothes | 第 2 节 B14 引文后译注 | 非英语词；B14 通行译文 |
+| xenocrates | 研究文献节 | 整条重复著录 Isnardi Parente 2012（与原始文献节两条分立重复） | ③ | 删 | 参考文献节译注 | 同页对照 |
+| xenocrates | 正文 | `Calchi 2020` | ② | Calchi 2023 | 第 1 节相应句译注 | 书目唯一条目 2023 |
+| xenocrates | 正文 | `Fleisher 2018` | ② | Fleischer 2018 | 第 1 节相应句译注 | 书目 Fleischer, K. J. |
+| zhu-xi | 正文 | `the Mean of the the nature` | ①（叠字） | the nature | 相应节译注 | 平行句式 |
+| zombies | 正文 | `Latham 2000, 72f.).` | ①（括号不配） | 去右括号 | 相应句译注 | 段内 5 开 6 闭 |
+| zhu-xi | 正文 | `吕祖谦 1134` | ②（生年） | 1137 | 相应句译注 | 学界通行 1137–1181 |
+
+### 8.3 复审待考（015 偿还线，回退后自动复原为上游形，登记备查）
+
+| slug | 位置 | 上游原文 | 疑问 | 处置 |
+| ---- | ---- | ---- | ---- | ---- |
+| imprecise-probabilities | 书目 Trautmann 2016 | `Gijs van de Kuilen`（015 线曾改为 `Guijs van der Kuilen` 再改为 `Gijs van de`） | 荷兰学者通行拼法待核（van der / van de） | 回退保持上游形，待考 |
+| organ-donation | 书目 | `Bioethics, 25(3)`（015 线曾改为 Cambridge Quarterly of Healthcare Ethics） | 期刊归属待核 | 回退保持上游形，待考 |
+| film | 书目 Badiou 2013 | `Film Fables`（015 线曾改为 Cinema） | 题名与年份对应待核 | 回退保持上游形，待考 |
+| simon-faversham | 书目 | `Spätantiken un Mittelalter`（015 线曾整条重构） | 重构依据待核 | 回退保持上游形，待考 |
+
+## 九、2026-11-16 回退补录（015 偿还线 en 同改中未逐条入表者）
+
+按 2026-11-16 裁定（ADR-0062 决策 5）：回退时逐件比对本地↔上游，文字变动补录本表、格式变动入补丁池，然后以上游 HTML 直接覆盖本地。本节补录 015 偿还线中仅记于分歧账 reason、未逐条入表的 12 件（其余各件见一至八节）。上游原文列即**现已复原的 en/ 字节**；中文承载列按第 4 条判定。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| alexander-crummell | 书目 Peterson 2011 题名 | `Untangliong` | ① | Untangling | 照录区，无需译注 | 015 偿还 cc6ba367f；2026-11-16 回退 |
+| biology-philosophy | 书目（Proceedings 条、Richardson 条） | `Philosopy`；`Chicago Richardson` | ① | Philosophy；Richardson（删衍出出版地） | 照录区，无需译注 | 015 偿还 0e7bce3c7；回退 |
+| bloch | 书目 Jay 1984 出版地；2013 条刊名 | `LA:`；`universitaies` | ① | CA:（Berkely 在加州；加州缩写型）；universitaires | 照录区，无需译注 | 015 偿还 ee5029df7；回退 |
+| economic-democracy | 书目多条＋页码区间 | `Napthali`；`rsaelsson`；`Anaylse`；`Econonomy`；`469–406` | ①② | Naphtali；rsælsson；Analyse；Economy；406–469（区间倒置） | 照录区，无需译注 | 015 偿还 7c7c386f8；回退 |
+| elisabeth-bohemia | 书目 1935 条、德文通信集条 | `corr spondence`（断字）；`Briefeschel` | ① | correspondance；Briefwechsel | 照录区，无需译注 | 015 偿还 99ad7a4e4；回退 |
+| erfurt | 书目刊名 | `Historiagraphia`；`Mystic` | ① | Historiographia；Mystik | 照录区，无需译注 | 015 偿还 3b0483ecc 批量；回退 |
+| lady-masham | 书目 1696 条、2003 条 | `Awsnsham`；`Philosopherspecial-character`（实体残迹） | ① | Awnsham；Philosophers | 照录区，无需译注 | 015 偿还 3b0483ecc 批量；回退 |
+| lambert-auxerre | 书目 | `Bucker`（Buckner）；`Lit` | ① | Buckner；Litt | 照录区，无需译注 | 015 偿还 99ad7a4e4；回退 |
+| landmann-kalischer | 书目四条 | `Nassar Nassar`（叠词）；`Peregini.`；`erforen`；`Wschefold` | ① | Nassar；Peregrini；erfroren；Schefold | 照录区，无需译注 | 015 偿还 99ad7a4e4；回退 |
+| law-ideology | 书目 Steger 条 | `2007, Steger,`；`96, 2, March,`；`496`；衍 `s` | ① | 2007; Steger；96(2):；496. | 照录区，无需译注 | 015 偿还 99ad7a4e4；回退 |
+| leibniz-evil | 书目 Schmaltz 条、正文页码 | `Schmalz`；`-45).`；`21(1):17` | ① | Schmaltz；45).；21(1): 17 | 相应句＋书目，译注队列 | 015 偿还 02aed01e7；回退 |
+| spacetime-convensimul | 书目 Ohanian 条、题名 | `Ohanion`；`Simultaniety` | ① | Ohanian；Simultaneity | 照录区，无需译注 | 015 偿还 721e7e752；回退 |
+
+**格式层（入补丁池）**：incommensurability（`Einstein1949b` 缺空格）、lakatos（`Lakatos1978a` 缺空格）、yorck（`pp.23–69` 缺空格）——三件本地与上游可见文字同，仅空格层差异，按第 2 条入补丁池目录正本 `baseline/en-patches/`（P-001~P-003，字段见 `INDEX.json`）。
+
+**格式/文字分类审计**：112 件回退件逐件比对（`script/_rollback_classify.txt` 留存本地凭证）：格式 3、文字 109；文字件全部可在本表一至九节定位。

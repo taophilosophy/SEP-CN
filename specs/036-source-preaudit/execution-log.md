@@ -23,3 +23,15 @@
 * 单测 10/10 绿（新增 error_page 仅页头、大小写不敏感两用例，反向拦截均有断言）；zombies/zeno-elea/zabarella 复跑硬错 0。
 
 * check_terms --docs 定点噪点回修：`s/scholem 首译` 型首现按斜杠拆分出的单字母碎片（s/z 等字头目录前缀）以 `endswith('s.md')` 误配任意 s 结尾文档（zombies 119 条噪点淹没真告警）；修法=单字母碎片不入匹配集，单测 17/17 绿（新增前缀不误配用例），zombies 定点 119→11（全为可定性真案）。
+
+## 2026-11-16 ADR-0062 en 原始物文字冻结：全量回退战役
+
+* 背景：用户裁定链三轮收敛（①禁除格式外修改→②格式也须补丁化、HTML 维持最初禁令→③补丁仅承载格式，英文 markdown 与 HTML 文字一致，中文文字变动用勘误表＋译注→④标准化入整体流程并清扫规则冲突）。ADR-0062 入册；ADR-0038 决策 1「就地改正」作废。
+* 全量回退（112 件）：对分歧账在册每件用 `pristine_bytes` 恢复原始钉字节并 sha256 复核；**逐件分类**本地↔上游差异——可见文字同而仅空格者 3 件（incommensurability `Einstein1949b`、lakatos `Lakatos1978a`、yorck `pp.23–69`，均缺空格类）入补丁池；其余 109 件文字层入全局勘误表（§一至九，其中 §九回退补录 12 件为 015 偿还线未逐条入表者）。分类凭证 `script/_rollback_classify.txt`。
+* 覆盖直写：分歧账 112 件全部 `unregister`→tombstone（113 条历史留 tombstones）；`divergence verify` 全库 4410 文件全 pristine、divergent 0、failures 0。
+* 补丁池建立：`baseline/en-patches.json`（`sep-cn-en-patches/1`，3 条缺空格补丁，逐条验证「应用后 == 原改正态」逐字节一致）；转换层 `tools/yuanwen.py` 接入 `apply_en_patches`（命中计数 != expect 即硬失败）；离线校验 `tools/check_en_patches.py`（3/3 绿）。
+* yuanwen 忠实重转：112 件重转（107 件文本差异回归上游原始形；3 件格式件经补丁复现改正态）；`baseline/entries.json` source_sha256 复原为钉。
+* 规则清扫：AGENTS.md 更新流程行、rules/04（s0 处置出口＋s2.5 修复路径＋s0 引言）、rules/README 快速判例、rules/adr/README（索引 0062＋0038 注记）、specs/001 contracts/cli.md（冻结语义＋补丁池行）、tools/en_source_audit.py／divergence.py／task_ops.py docstring 全部改指 ADR-0062 两路口径。
+* 中文译注（本会话涉件读者可见缺陷）：xenophanes B14 clothers／B16 衍 are（引文后译注一段）、xenocrates Calchi 2020↔2023（句内译注）、Fleisher↔Fleischer（句内译注）、研究文献节重复著录（参考文献节译注行）。其余历史缺陷译注按勘误表「中文承载」列排队补齐。
+* 中文照录区不回退（ADR-0062 决策 7）：zh 保持改正读法，与忠实 yuanwen 的差异由译注解释。
+* 门禁：check_quotes 直角引号违例 118 处/8 文件（并行会话 0057/0059/0060/0028 等 ADR 与 rules 存量「」）一并归一为“”后清零；check_all 其余项见当日运行记录。

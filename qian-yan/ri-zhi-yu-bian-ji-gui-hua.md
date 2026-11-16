@@ -162,3 +162,14 @@
   * 验证：单测新增 3 例夹具（生效后缺→实拦恰 1 处／已留痕→不报／done_at 生效前→整任务免检）全绿；全库 check_academic 由红转 OK；code-scanning 与学术门禁两条挂起线当日均清
   * 池面观察：另有 20 个在途件存在生效后 s2/r1 缺留痕步（14 件 r2_reviewed 的回炉 r1＋6 件 s2.5_checked 的 s2）——到达 done 时按 ADR-0058 决策 3 补记即清，不卡池；18thGerman-preKant 停 r3_reviewed 只差 done，其 r 链留痕口径同此
   * 并行面：zhu-xi 首译登记（引号违例）与 xenocrates 勘误（分歧账 verify）为在途红灯，本会话未触；ADR 号 0057 已被并行会话占用，本裁定顺延 0058
+
+## 2026-11-16 en 原始物文字冻结与全局勘误表（ADR-0062）
+
+用户当日四轮裁定收敛为最终架构并全量落地：
+
+* **en/ 绝对冻结**：与原始网页钉逐字节一致，文字层与格式层变动一律禁止（ADR-0027 最初禁令恢复；ADR-0038 决策 1“就地改正”作废）。112 件历史改正逐件分类（格式 3／文字 109）后以上游字节覆盖，`divergence verify` 4410 文件全 pristine。
+* **补丁池**：`baseline/en-patches.json` 只承载格式层（3 条缺空格补丁），转换层应用、命中计数硬校验（失配即转换硬失败，防上游漂移）；`tools/check_en_patches.py` 离线体检。
+* **英文 markdown 与 HTML 文字一致**：`yuanwen/` 忠实转换、上游错字照录；改正读法只存在于中文成品。
+* **中文文字变动＝勘误表＋译注**：全局勘误表（`specs/001-sep-sync-pipeline/results/en-errata.md`，§一至九）登记全部缺陷与参考读法；读者可见处中文加译注（本日：xenophanes B14/B16、xenocrates Calchi/Fleischer/重复条目四处），其余按表排队。
+* **规则清扫**：AGENTS.md、rules/04（s0 处置出口＋s2.5 修复路径）、rules/README 判例、adr/README 索引、specs/001 contracts/cli.md、三个工具 docstring 统一改指 ADR-0062；check_quotes 直角引号存量（并行会话 ADR“”）一并归一清零。
+* 教训：ADR-0038 的“已核实四类就地改正”边界靠人判不可靠（当日复审即见 yorck 贵族介词姓被当手误改、015 线 `Gijs van de Kuilen` 等存疑改正）；冻结＋补丁＋译注三层把“改原文”的冲动全部转为“登记＋承载”，零信任的源真相面恢复。
