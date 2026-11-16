@@ -312,7 +312,10 @@ def main(argv=None):
                       "checked": len(entries), "deep_checked": deep_checked,
                       "issues": issues[:400], "issue_total": len(issues)},
                      ensure_ascii=False, indent=1))
-    return 1 if (args.gate and issues) else 0
+    # --gate 拦 md-hand-edited / source-drift（真脱钩）；no-baseline 为覆盖缺口，
+    # 告警不拦（2 件历史孤儿待登记，specs/039 P9）
+    blocking = [i for i in issues if i.get('rule') != 'no-baseline']
+    return 1 if (args.gate and blocking) else 0
 
 
 if __name__ == "__main__":

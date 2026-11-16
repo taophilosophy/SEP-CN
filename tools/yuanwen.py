@@ -1064,12 +1064,41 @@ def update_baseline(slug, patch):
     path = repo_path('baseline', 'entries.json')
     with BASELINE_LOCK:
         base = load_json(path)
+        changed = False
         for rec in base['entries']:
-            if rec['slug'] == slug:
-                rec.update(patch)
-                break
-        base['updated_at'] = utcnow_iso()
-        write_json_verified(path, base)
+            if rec['slug'] != slug:
+                continue
+            for k, v in patch.items():
+                # 免抖动（specs/039）：嵌套记录里只有 converted_at 变化时视为
+                # 内容未变——不写、保留旧时间戳，全量重转不得产生 1881 行噪音
+                if isinstance(v, dict) and isinstance(rec.get(k), dict):
+                    sub_old, sub_new = rec[k], dict(v)
+                    ts = sub_new.pop('converted_at', None)
+                    # 旧侧的 converted_at 不参与比较（键集合亦须一致）
+                    same = (set(sub_old) - {'converted_at'} == set(sub_new)
+                            and all(sub_old.get(f) == sv for f, sv in sub_new.items()))
+                    if not same:
+                        if ts:
+                            sub_new['converted_at'] = ts
+                        rec[k] = sub_new
+                        changed = True
+                elif rec.get(k) != v:
+                    rec[k] = v
+                    changed = True
+            break
+        if changed:
+            base['updated_at'] = utcnow_iso()
+            write_json_verified(path, base)
+
+
+def _write_if_changed(path, content):
+    """同字节不写盘（免 mtime/时间戳抖动）；返回是否实际写入。"""
+    if os.path.exists(path):
+        with open(path, encoding='utf-8', newline='') as f:
+            if f.read() == content:
+                return False
+    write_text_verified(path, content)
+    return True
 
 
 class PatchMismatch(Exception):
@@ -1197,7 +1226,7 @@ def convert_entry(slug):
                     sp += ('\n\n## Notes（原文脚注，引自主文）\n\n'
                            + '\n\n'.join(extra))
             sp_path = os.path.join(ydir, '%s.%s.md' % (slug, base))
-            write_text_verified(sp_path, sp)
+            _write_if_changed(sp_path, sp)
             supp_files.append('%s.%s.md' % (slug, base))
 
     # 引用注释（文献 → 脚注）
@@ -1211,7 +1240,7 @@ def convert_entry(slug):
     md = restore_cross_block_math(md, stash)
 
     md_path = os.path.join(ydir, slug + '.md')
-    write_text_verified(md_path, md + '\n')
+    _write_if_changed(md_path, md + '\n')
     if not os.path.exists(md_path):
         raise OSError('yuanwen write failed: %s' % md_path)
 
@@ -1257,7 +1286,7 @@ def write_summary():
             return m.group(0)
 
         out.append(re.sub(r'\]\(([^)#\s]+)(#[^)]*)?\)', _rw, line))
-    write_text_verified(repo_path('yuanwen', 'SUMMARY.md'), '\n'.join(out))
+    _write_if_changed(repo_path('yuanwen', 'SUMMARY.md'), '\n'.join(out))
     return 0
 
 

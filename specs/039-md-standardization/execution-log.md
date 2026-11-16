@@ -39,7 +39,7 @@
 | I2-lite 基线钉 | **零异常**（`md-hand-edited` 0、`source-drift` 0；仅 2 件 `no-baseline`）——全库 `yuanwen` 与转换登记一致，无手改产物 |
 | I3 `--deep` | 1871 件可比，**381 件差异**（20.4%）：缺字为主 139、多字为主 205、双向 37；量级 >200 字母 109 件 |
 
-**残差定性（重要，防误判为缺陷）**：抽 `formal-belief`（缺 49307 字母）、`logic-many-sorted`、`sartre`、`buber` 逐句核对，被报「html 独有」的句子（如 “The heart of subjective probability theory…”）**在 md 中确实存在**。根因是**数学定界符跨度两侧不等价**：html 侧 `\(…\)` 与 md 侧 `$…$` 覆盖范围不同（转换器可能合并/断开跨度），剥离后文本缺口位置不同，叠加多重集后表现为大额字母差。故 381 件**不能计入内容缺陷**，属工具噪声。
+**残差定性（重要，防误判为缺陷）**：抽 `formal-belief`（缺 49307 字母）、`logic-many-sorted`、`sartre`、`buber` 逐句核对，被报“html 独有”的句子（如 “The heart of subjective probability theory…”）**在 md 中确实存在**。根因是**数学定界符跨度两侧不等价**：html 侧 `\(…\)` 与 md 侧 `$…$` 覆盖范围不同（转换器可能合并/断开跨度），剥离后文本缺口位置不同，叠加多重集后表现为大额字母差。故 381 件**不能计入内容缺陷**，属工具噪声。
 
 结论与后续：I3 暂列**审计档**（不进门禁）；门禁面先用 I2-lite（已零异常）＋`check_math`（公式数与内容）＋三校数字对账覆盖数学件。I3 若要升门，须先解决数学跨度归一（候选方案：两侧统一替换为同一哨兵并保证跨度边界来自同一解析，或仅在无数学件上启用）。
 
@@ -95,6 +95,20 @@
 | 复探 | hempel **0**、social-choice **0**；`{$$` 残留全库 **0** |
 | 剩余 4 处（上游内容，非转换层） | word-meaning 1：`\left[ \begin{align*}…\end{align*} \right]` 环境嵌进矩阵括号（上游 TeX 结构）；qm 3：重复 `\label` 名。按 ADR-0062 不改 en/、不属转换器缺陷，登记待勘误表定性 |
 | 门禁 | `check_all` 11 项全绿 |
-| 附带发现（登记） | `baseline/entries.json` 每次全量重转都把**全部**词条的 `converted_at` 刷新，内容未变者也刷新 → 本次 1881 行时间戳抖动，掩盖真变更、增大并行冲突面。建议转换器改为「md 字节未变则不写/不更新时间戳」，另立小卡 |
+| 附带发现（登记） | `baseline/entries.json` 每次全量重转都把**全部**词条的 `converted_at` 刷新，内容未变者也刷新 → 本次 1881 行时间戳抖动，掩盖真变更、增大并行冲突面。建议转换器改为“md 字节未变则不写/不更新时间戳”，另立小卡 |
 
 
+
+## 2026-11-17 · P7 存量归一＋P4 试金石＋免抖动写入＋门禁 12 项（用户裁定：不进行实际翻译流程，做其余工作）
+
+| 项 | 结果 |
+| ---- | ---- |
+| P7 归一（工具 `bin/normalize_zh.py`，--check 钉 → 写 → 幂等） | N 编号加点 **2076 行/367 件**；N2 编号对齐 yuanwen（H2/H3 逐字随原文 token）**53 处/16 件**（含 intellectual-property `4.5→4.4` 错号、aesthetic-testimony 补点、kaspi/kilvington 重复号）；F 脚注移段 **88 件**。合计 376 件 |
+| 词面守恒 | 376 件剥编号后行多重集与 HEAD 全等；不等者仅 3 件＝此前已存在的 P6 未提交件（xenocrates/xenophanes/yorck），非本轮造成 |
+| P4 试金石（results/p4-touchstone.md） | anscombe/abduction/abhidharma/social-procedures/tarski-truth/stub 六类判定全符预期；合成件行为由 35 例单测覆盖 |
+| 检查器修正（假阳性清零） | pubinfo 限首节前题头区（书目 def 与正文叙述不再误报）；h1-form 容嵌套作者括号＋norm_title 剥 `*`/反引号；H3 形态规则撤销（编号一致性由 N2 对齐保证） |
+| 全库残差（登记，翻译面依赖） | 硬档 19 处/13 件：尾节缺失 10（P8 依赖）＋编号 9（对齐跳过件，zh 缺节致计数不等）；`h1-form`/`pubinfo-form`/`errata-apply`/`note-anchor` 全零。**中文体例全库硬门挂起至 P8 完成**，登记前置清单即本行 |
+| 免抖动写入 | `_write_if_changed`（md/补充材料/SUMMARY 同字节不写盘）＋`update_baseline` 嵌套免抖（仅 converted_at 变化视为未变，不写盘、保留旧时间戳）。两处教训：patch 为嵌套结构（平面比较恒假）、比较须把旧侧 converted_at 排除在键集合外 |
+| 免抖动证明 | 全量重转（第 6 轮）`yuanwen/`＋`baseline/entries.json` **零改动**；同时即 I2 重放等值的确定性证明（同源 HTML ⊕ 补丁必得同 md） |
+| 门禁 11→12 项 | `check_all` 增“转换保真（yuanwen≡基线）”`--gate`（I2-lite 全库零异常）；中文体例全库硬门挂起至 P8（前置清单见上） |
+| 挂起（翻译面，本轮不动） | P6 余 14 slug＋12 件 cleared 译注小卡；P8 回退 416 件重走 s2.4（含句内括注→节迁移 365 件）；P9 中文体例全库硬门 |
