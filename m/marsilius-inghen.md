@@ -3,7 +3,7 @@
 
 因根的马西利乌斯（Marsilius of Inghen），先后任巴黎大学（1362—1378）与海德堡大学（1386—1396）的硕士，著述了大量关于逻辑、自然哲学与神学的论著，在许多中世纪晚期与近代早期的大学广为流传。他采纳奥卡姆的威廉与让·布里丹的逻辑-语义进路，同时又捍卫托马斯·阿奎那与波纳文图拉的传统观点。他的思想既照亮唯名论者与实在论者之争，也让人窥见哲学与神学兴趣如何流变——从十四世纪众多作者的批判姿态，到十五世纪对传统特有的追寻。
 
-## 1 生平与著作
+## 1. 生平与著作
 
 因根的马西利乌斯约 1340 年生于奈梅亨——低地国家（尼德兰）东部的一座城市。[^note-1] 较旧的文献常说，他出身奈梅亨附近的一个村庄（因根）；此说有误。它源自对尼古拉斯·普罗温 1396 年在马西利乌斯葬礼上所致、1499 年刊于美因茨的《悼词》的一处误读。[^note-2] 自 1362 年起，马西利乌斯任巴黎大学艺学院硕士，并两度出任该校校长（1367 与 1371 年），同时研习神学。执教巴黎期间，马西利乌斯备受推崇，讲课听者甚众；学生中有许多同胞，其中一些来自奈梅亨及周边村庄。1378 年，他作为大学代表前往蒂沃利，出任大学驻教皇乌尔班六世宫廷的代表。1379 年，他托请同事休·冯·赫尔弗特代管其在巴黎的事务。此后巴黎大学的档案中便不再出现他的名字——他离开巴黎，多半是因为 1378 年教会大分裂的纷乱。同一时期，他与故乡联系未断：1382 年，奈梅亨市政会为他设宴款待。自 1386 年起，马西利乌斯任海德堡大学硕士，与在巴黎一样身兼多项行政职务。他是海德堡大学的创建人之一，1386—1392 年间九度出任校长，1396 年又任一次。1389—1390 年，他与康拉德·冯·佐尔陶一道以大学 **使节** 的身份，负责把大学名册迁呈罗马（卜尼法斯九世）。1390 年代初，马西利乌斯重拾神学：当时讲授神学的硕士有康拉德·冯·佐尔陶（自 1387 年）与克拉科夫的马修（自 1394 年），皆出自布拉格大学。1395/1396 年，他完成《箴言四书》讲稿，成为海德堡大学首位获神学博士者。不久，1396 年 8 月 20 日，他与世长辞。
 
@@ -31,7 +31,7 @@
 
 - 彼得·伦巴德《箴言四书》问题集
 
-## 2 学说
+## 2. 学说
 
 ### 2.1 逻辑与认识论
 
@@ -121,51 +121,13 @@
 
 讨论圣事的因果性时，马西利乌斯随波纳文图拉的阐发：按波纳文图拉，圣事本身并无因果性；圣事每次被正确施行，行动的都是上帝。只有在宽泛意义上，才可说圣事有行动之能。[^note-17]
 
-## 3 影响
+## 3. 影响
 
 马西利乌斯的影响相当可观，尤其经由其逻辑著作与亚里士多德评注。这从存世手稿之夥可见，也可从其他几方面看出。[^note-18] 他对亚里士多德《前分析篇》的评注，1380 年代已在布拉格使用；其逻辑著作（包括《义务论辩》与《推论》）1390 年代在维也纳用作教科书；他对《形而上学》与《物理学》的评注，十五世纪前六十年在克拉科夫讲授。在海德堡、埃尔福特、巴塞尔与弗赖堡诸大学，其著作整个十五世纪都有人研读，尤其作为大学课程的一部分。1499 年，Jacob Wimpfeling 与 Jacob Merstetter 代表海德堡大学 **近代之路** 的博士与硕士刊行一卷书，内有人文主义同仁与学生献给他的警句诗，以及一篇仿马西利乌斯笔法的唯名论辩护（*Via Marsiliana*，马西利乌斯之路）。以警句诗致颂的做法，也见于 1501 年斯特拉斯堡版《箴言四书》评注——该书由 Jacob Wimpfeling 编定，是他那项旨在确立追随让·热尔松之灵修的教育-神学尝试的一部分。在 Wimpfeling 看来，马西利乌斯就是那位法国总监的德国对应者。1489 年以阿伊的彼得之名刊行的《义务论辩》，为 Thomas Bricot、John Major 与多明戈·德·索托所用；《前分析篇》评注则为 Agostino Nifo 所引。在埃尔福特巩固唯名论的 Jodocus Trutvetter 与 Bartholomew of Usingen，屡屡在其著作中提及马西利乌斯。列奥纳多·达·芬奇与伽利略·伽利莱都提到过他对《论生灭》的评注。
 
 马西利乌斯的神学观点似亦有流传。《箴言四书》评注十五世纪上半叶已在克拉科夫知名，并被 Thomas de Strampino 用于其《原理》（*Principia*，1441–1442）。萨拉曼卡大学设有专门讲评因根的马西利乌斯与加布里埃尔·比尔著作的神学教席（*Cátedra de Nominales*，唯名论教席）。其《箴言四书》评注为弗朗西斯科·德·维多利亚、多明戈·德·索托、路易斯·德·莫利纳、弗朗西斯科·苏亚雷斯等西班牙神学家所引，多与上帝预知及恩典问题相关。
 
 马西利乌斯《箴言四书》评注今存九部手稿。旧藏者中有两家布道者图书馆（安斯巴赫与伊斯尼）与两家艺学院图书馆（埃尔福特与莱比锡）。埃尔福特与莱比锡的教学包含研读唯名论作者。十之八九，这些艺学院人士是在研习马西利乌斯的逻辑与物理学著作之后，才对神学著作发生兴趣的。布道者图书馆中藏有这部《箴言四书》评注，足证其著作的影响已越出大学围墙［SE1, xxvii–lv］。
-
-## 脚注
-
-[^note-1]: 此处所作传记信息依据 Ritter 1921, 7–44 与 Hoenen 1993, 7–11；另见 Hawicks and Berger 2021。读者在这些研究中可找到对相关史料的指引。
-
-[^note-2]: 现代校勘本见［OFU］，107–113。
-
-[^note-3]: 见下文文献目录中“著作目录与文献”（Catalogue of Works and Bibliography）标题下所列文献。
-
-[^note-4]: Marsilius of Inghen［SE2］，124：“*… universalia nihil sint praeter signa ad placitum aut naturaliter significativa*”（……共相不过是约定俗成的或自然有所意指的符号）；另见其《亚里士多德〈物理学〉八卷概要》（*Abbreviationes super octo libros Physicorum Aristotelis*），威尼斯 1521 年版，fol. 3ra–b。
-
-[^note-5]: Marsilius of Inghen［TPT］，62：“*Et ideo istam simplicem suppositionem non pono.*”（故我不设这种简单指代）。
-
-[^note-6]: Marsilius of Inghen［PRA］，373：“*… praedicamenta non possunt distingui ex parte rerum.*”（……范畴不能就事物方面加以区分）；同书同页：“*… oportet huiusmodi praedicamenta distingui … per modos suos significandi …*”（……此类范畴须凭其意指样式而区分……）。
-
-[^note-7]: Marsilius of Inghen［PRA］，376：“*Sed quod etiam non ponuntur plura, non potest hoc aliter probari, nisi quia non inveniuntur plures modi praedicandi quam isti decem distincti contra invicem.*”（至于何以不设更多范畴，此事别无他法可证——只因找不到比这十个彼此有别的谓述方式更多的谓述方式）。
-
-[^note-8]: Marsilius of Inghen［PRA］，376：“*Unde si invenirentur plures modi praedicandi quam isti decem … statim crederem, quod essent plura praedicamenta. Sed quia non invenitur aliquis modus praedicandi, quin sit unus illorum … ideo non ponuntur plura praedicamenta quam decem.*”（所以，若能发现多于这十种的谓述方式……我会立刻相信范畴不止这些；但既然找不到哪一种谓述方式不是这十者之一……故所设范畴不多于十）。
-
-[^note-9]: Marsilius of Inghen［PRA］，377：“*… ultra genera generalissima primae intentionis est unum aliud genus generalissimum secundae intentionis seu impositionis sub quo continentur istae: ‘species’, ‘individuum’, ‘praedicabile’, ‘genus’, ‘species’ … et ita tandem erat repertum unum praedicamentum secundae intentionis seu impositionis. Et hoc potest nominari signum vel terminus …*”（……在第一意向的诸最高属之外，另有一个第二意向即约定所立的最高属，其下统摄“种”“个体”“可谓述者”“属”“种”……于是终于发现了一个第二意向即约定所立的范畴；此者可名为符号或词项……）；另见 Marsilius of Inghen［ISA］，38–39。
-
-[^note-10]: 更多细节与史料出处见 Hoenen 2007，尤其 74–84 页。
-
-[^note-11]: 见 Ciola 2018b。但须注意：该版本付印时未附校勘异文（critical apparatus）。
-
-[^note-12]: Marsilius of Inghen［PRI］，fol. 36va：“*… est naturalis inclinatio intellectus ad veritatem. Intellectus enim per veritatem perficitur.*”（……知性有朝向真理的自然倾向；知性正是因真理而臻完善）。
-
-[^note-13]: Marsilius of Inghen［SE0］，fol. 206ra：“*… creationem esse possibilem vel esse factam vel Deum esse creatorem sola fide est creditum ab homine viatore. Patet, quia non est deducibile ex lumine naturali.*”（……创世之可能、抑或已然实现、抑或上帝即是造物主——凡此皆由尘世旅人仅凭信仰而信；此点显然，因为它不能从自然之光推出）。
-
-[^note-14]: 见马西利乌斯《论灵魂》评注的相关段落，校订本载 Pluta 1986, 98–100。
-
-[^note-15]: Marsilius of Inghen［SE2］，107–117。关于马西利乌斯的史料来源，见 Hoenen 1993, 56–61。
-
-[^note-16]: Marsilius of Inghen［SE0］，fol. 191va–vb：“*… si conclusio posset dare occasionem ruinae simplicibus, non concedatur nisi cum debito moderamine, ut veritas elucescat et ruina praecaveatur. Non est enim scientia sacra scientia praesumptionis vel logicalis superstitionis, sed pietatis, quae non destruere debet simplices, sed aedificare.*”（……若结论可能给质朴者招致倾覆之机，便唯有以应有的节制方可予以承认，以使真理显明而倾覆得防。神圣之学并非僭妄之学，亦非逻辑迷信之学，而是虔敬之学——它不该拆毁质朴者，而该造就之）。
-
-[^note-17]: Marsilius of Inghen［SE0］，fol. 480ra–va。关于波纳文图拉作为马西利乌斯的来源，见 Hoenen 1991。
-
-[^note-18]: 关于马西利乌斯影响的一节，依据 Hoenen 1993, 10–15、Walz and Düchting 2008 与 Hoenen 2024 所汇集的数据。
 
 ## 参考文献
 
@@ -240,3 +202,41 @@
 让·布里丹 | 中世纪的因果理论 | 里米尼的格里高利 | 奥卡姆的威廉 | 中世纪的单称词项理论
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+## 脚注
+
+[^note-1]: 此处所作传记信息依据 Ritter 1921, 7–44 与 Hoenen 1993, 7–11；另见 Hawicks and Berger 2021。读者在这些研究中可找到对相关史料的指引。
+
+[^note-2]: 现代校勘本见［OFU］，107–113。
+
+[^note-3]: 见下文文献目录中“著作目录与文献”（Catalogue of Works and Bibliography）标题下所列文献。
+
+[^note-4]: Marsilius of Inghen［SE2］，124：“*… universalia nihil sint praeter signa ad placitum aut naturaliter significativa*”（……共相不过是约定俗成的或自然有所意指的符号）；另见其《亚里士多德〈物理学〉八卷概要》（*Abbreviationes super octo libros Physicorum Aristotelis*），威尼斯 1521 年版，fol. 3ra–b。
+
+[^note-5]: Marsilius of Inghen［TPT］，62：“*Et ideo istam simplicem suppositionem non pono.*”（故我不设这种简单指代）。
+
+[^note-6]: Marsilius of Inghen［PRA］，373：“*… praedicamenta non possunt distingui ex parte rerum.*”（……范畴不能就事物方面加以区分）；同书同页：“*… oportet huiusmodi praedicamenta distingui … per modos suos significandi …*”（……此类范畴须凭其意指样式而区分……）。
+
+[^note-7]: Marsilius of Inghen［PRA］，376：“*Sed quod etiam non ponuntur plura, non potest hoc aliter probari, nisi quia non inveniuntur plures modi praedicandi quam isti decem distincti contra invicem.*”（至于何以不设更多范畴，此事别无他法可证——只因找不到比这十个彼此有别的谓述方式更多的谓述方式）。
+
+[^note-8]: Marsilius of Inghen［PRA］，376：“*Unde si invenirentur plures modi praedicandi quam isti decem … statim crederem, quod essent plura praedicamenta. Sed quia non invenitur aliquis modus praedicandi, quin sit unus illorum … ideo non ponuntur plura praedicamenta quam decem.*”（所以，若能发现多于这十种的谓述方式……我会立刻相信范畴不止这些；但既然找不到哪一种谓述方式不是这十者之一……故所设范畴不多于十）。
+
+[^note-9]: Marsilius of Inghen［PRA］，377：“*… ultra genera generalissima primae intentionis est unum aliud genus generalissimum secundae intentionis seu impositionis sub quo continentur istae: ‘species’, ‘individuum’, ‘praedicabile’, ‘genus’, ‘species’ … et ita tandem erat repertum unum praedicamentum secundae intentionis seu impositionis. Et hoc potest nominari signum vel terminus …*”（……在第一意向的诸最高属之外，另有一个第二意向即约定所立的最高属，其下统摄“种”“个体”“可谓述者”“属”“种”……于是终于发现了一个第二意向即约定所立的范畴；此者可名为符号或词项……）；另见 Marsilius of Inghen［ISA］，38–39。
+
+[^note-10]: 更多细节与史料出处见 Hoenen 2007，尤其 74–84 页。
+
+[^note-11]: 见 Ciola 2018b。但须注意：该版本付印时未附校勘异文（critical apparatus）。
+
+[^note-12]: Marsilius of Inghen［PRI］，fol. 36va：“*… est naturalis inclinatio intellectus ad veritatem. Intellectus enim per veritatem perficitur.*”（……知性有朝向真理的自然倾向；知性正是因真理而臻完善）。
+
+[^note-13]: Marsilius of Inghen［SE0］，fol. 206ra：“*… creationem esse possibilem vel esse factam vel Deum esse creatorem sola fide est creditum ab homine viatore. Patet, quia non est deducibile ex lumine naturali.*”（……创世之可能、抑或已然实现、抑或上帝即是造物主——凡此皆由尘世旅人仅凭信仰而信；此点显然，因为它不能从自然之光推出）。
+
+[^note-14]: 见马西利乌斯《论灵魂》评注的相关段落，校订本载 Pluta 1986, 98–100。
+
+[^note-15]: Marsilius of Inghen［SE2］，107–117。关于马西利乌斯的史料来源，见 Hoenen 1993, 56–61。
+
+[^note-16]: Marsilius of Inghen［SE0］，fol. 191va–vb：“*… si conclusio posset dare occasionem ruinae simplicibus, non concedatur nisi cum debito moderamine, ut veritas elucescat et ruina praecaveatur. Non est enim scientia sacra scientia praesumptionis vel logicalis superstitionis, sed pietatis, quae non destruere debet simplices, sed aedificare.*”（……若结论可能给质朴者招致倾覆之机，便唯有以应有的节制方可予以承认，以使真理显明而倾覆得防。神圣之学并非僭妄之学，亦非逻辑迷信之学，而是虔敬之学——它不该拆毁质朴者，而该造就之）。
+
+[^note-17]: Marsilius of Inghen［SE0］，fol. 480ra–va。关于波纳文图拉作为马西利乌斯的来源，见 Hoenen 1991。
+
+[^note-18]: 关于马西利乌斯影响的一节，依据 Hoenen 1993, 10–15、Walz and Düchting 2008 与 Hoenen 2024 所汇集的数据。

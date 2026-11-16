@@ -10,7 +10,7 @@
 
 在这场论辩中，利害攸关的一个重大方面，是神圣行动与受造物行动之间的关系。连续创造论者可能拒斥创造与保全的区分，认为这是把一种神圣特权归于受造物的企图。另一方面，赞同这一区分的人则可能把连续创造论视为（借用一句话）“那种伪装成对上帝位格的恭维、实则是对上帝之工的高蹈哲学贬损之一”（van Inwagen 1988, 46 n4）[^inwagen-1988]。这场论辩还提出了许多关于因果、时间及其相互关系的有趣问题。
 
-## 1 区分关于神圣保全的诸论题
+## 1. 区分关于神圣保全的诸论题
 
 先区分几个论题，将是有益的。
 
@@ -29,7 +29,7 @@
 
 还有一个论题是偶因论。它主张上帝是受造物持续存在的唯一原因，也是受造物可能卷入其中的每一个其他事件的唯一原因，包括受造物看似影响他物的那些事件。有些人反对连续创造论，理由正是它蕴含偶因论。（见第 3.1 节。）
 
-## 2 支持保全即连续创造的诸论证
+## 2. 支持保全即连续创造的诸论证
 
 ### 2.1 来自上帝的超时间性
 
@@ -77,7 +77,7 @@
 
 “天赋的自我维持性质”这一观念站得住脚吗？克万维格与麦卡恩考察了若干可能的解释，论证这些解释的一致性可疑。他们还提出一个带爱德华兹色彩的论证。使自己存在得以永续的力量，将是一种能在未来某个时刻引起某物发生的能力——而那恰是行使这一力量已不再存在的时刻。没有任何物理事件序列能够充当这种跨越时间之力的基础，因为这样的序列本身也将依赖这类力量。因此，这种力量须得在没有任何中介事件连接的情况下带来未来结果。但任何已不存在之物都无法因果地发挥作用，故不可能存在这样的力量（Kvanvig and McCann 1988, 42–3）[^kvanvig-1988]。
 
-## 3 主张区分创造与保全的诸论证
+## 3. 主张区分创造与保全的诸论证
 
 ### 3.1 来自第二性因果作用
 
@@ -143,6 +143,25 @@
 
 上述考察的论证表明，关于创造与保全的历史讨论与当代论辩，都是多面向的。关于神圣本性、人的本性、因果与时间的种种考量，都与“保全是否应被理解为连续创造”这一议题相关。因此，凡希望在论辩中确立立场者的一项关键任务，便是评估这些形形色色的论证中，哪些最具力量，哪些能被可信的反驳所回应。
 
+## 参考文献
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=creation-conservation)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/creation-conservation/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/creation-conservation/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=creation-conservation&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/creation-conservation/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* Kvanvig, Jonathan and David Vander Laan, “Creation and Conservation,” *Stanford Encyclopedia of Philosophy* (Fall 2017 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2017/entries/creation-conservation/](https://plato.stanford.edu/archives/fall2017/entries/creation-conservation/)>. [This was the previous entry on Creation and Conservation in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=creation-conservation).]
+
+## 相关词条
+
+偶因论 | 苏亚雷斯（Francisco Suárez）
+
 ## 脚注
 
 [^note-1]: 路易斯·E. 洛布（Louis E. Loeb）认为，偶因论是连续创造论的直接后果。见 Loeb 1981, 220。
@@ -177,23 +196,3 @@
 [^vander-2006]: Vander Laan, David, 2006. “Persistence and Divine Conservation,” *Religious Studies*, 42: 159–76.
 [^vander-2022]: –––, 2022. “The Timing of Divine Conservation,” forthcoming in *Philosophical Essays on Divine Causation*, Greg E. Ganssle (ed.), New York, NY: Routledge.
 [^yang-2009]: Yang, Eric Timothy, 2009. “Conservation, Discontinuous Time, and Causal Continuity,” *Religious Studies*, 45: 85–93.
-
-## 参考文献
-
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
-
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=creation-conservation)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/creation-conservation/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/creation-conservation/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=creation-conservation&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/creation-conservation/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* Kvanvig, Jonathan and David Vander Laan, “Creation and Conservation,” *Stanford Encyclopedia of Philosophy* (Fall 2017 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2017/entries/creation-conservation/](https://plato.stanford.edu/archives/fall2017/entries/creation-conservation/)>. [This was the previous entry on Creation and Conservation in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=creation-conservation).]
-
-## 相关词条
-
-偶因论 | 苏亚雷斯（Francisco Suárez）
-

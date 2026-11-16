@@ -4,11 +4,11 @@
 
 法弗舍姆的西蒙（Simon of Faversham，† 1306）是十三世纪的英国学者，主要以亚里士多德逻辑学与自然哲学的注释者而知名。他被视为模态主义者（modist），原因之一，是他在注释亚里士多德《范畴篇》时使用了 *modi praedicandi*（述谓样式）与 *modi essendi*（存在样式）这两个概念（参 Marmo 1999）[^marmo-1999]。作为亚里士多德注释者，西蒙的工作大量倚仗大阿尔伯特对亚里士多德全集的释义。他的问题集注释有时呈现出中世纪关键讨论尚未充分展开的形态；但也提供了独到的展开，例如他在《后分析篇》诸注释中对美诺悖论的讨论，以及他对空指称的处理。凡讨论得到充分展开之处，他都显出良好的哲学分析与巧思。西蒙的著作还具有极大的历史意义：它们代表了十三世纪哲学观念发展中的一个重要阶段。他的著作群相对而言未经充分研究；其中重要的一部分虽已存世，很大一部分却仍未校订。
 
-## 1 生平
+## 1. 生平
 
 法弗舍姆的西蒙约生于 1260 年，出生地是英格兰肯特郡的海港市镇法弗舍姆。[^note-1] 他在牛津大学取得文学硕士学位，随后于 1280 年代在巴黎大学艺学院任教——他的著作大概大多写于那里，尽管其中一些可能在他 1289 年返回牛津后经过修订。晚年，西蒙在牛津大学取得神学博士学位。返回英格兰后，他担任过若干教会职务：1289 年任克罗伊登的副执事，1290 年任博金的执事与普雷斯顿的堂区主任。1304 年，西蒙出任牛津大学校长。1305 年，温切尔西尔大主教任命他为坎特伯雷总执事——这是英格兰非神职人员所能担任的最高教职。放弃该职位后，西蒙改任雷卡尔弗堂区主任，但不久教廷的候选人夺走了这一任命。西蒙于 1306 年在前往教廷的旅途中去世，他此行正是为了就失去任命一事抗争。
 
-## 2 著作
+## 2. 著作
 
 西蒙的哲学著作群主要由对《亚里士多德全集》（*Corpus Aristotelicum*）的注释组成。其中逻辑著作无疑研究得最为透彻，包括以下各种注释：
 
@@ -39,7 +39,7 @@
 
 上述著作大多仅以抄本存世。只有 12.1 已有完整校订本（Ebbesen 2013）[^ebbesen-2013]。《论灵魂》第三卷的诸问题（Sharp 1934）[^sharp-1934] 也已校订，但仅依据一份抄本。此外，第 10、15 种有部分校订本。[^note-3]
 
-## 3 逻辑学
+## 3. 逻辑学
 
 ### 3.1 逻辑的主题与划分
 
@@ -89,7 +89,7 @@
 
 后一主张的论证如下。形如“*S* 是 *P*”的断言[^note-8] 都涉及谓项之意谓对象（下称“谓项”）的相应存在方式。断言所述谓的若是实在偶性（如白、跑等），谓项的相应存在方式是现实存在，故其真理制造者必是外在世界中的事物（Ebbesen 1987: 160）[^ebbesen-1987]。同样，断言所述谓的若是逻辑意向（如是种、是属），谓项的相应存在方式是心灵存在，故其真理制造者是概念。但在本质性述谓中，相应的存在方式既非现实存在，也非心灵存在——本质独立于任何种类的存在；故真理制造者就是被概念化、随后由主项与谓项所意谓的本质（Ebbesen 1987: 160）[^ebbesen-1987]。于是，即使无人存在，“人是动物”依然为真：道理很简单，是动物是成为人的定义性组成部分，也就是说，是动物是人的本质的一部分。
 
-## 4 心理学
+## 4. 心理学
 
 ### 4.1 灵魂的定义与身体／灵魂的关系
 
@@ -123,7 +123,7 @@
 
 所以，只要不出现改变事件进程的意外，一个源自天体、又解释得当的梦，几乎确凿地指示某种有用或有害的未来事件将要发生。
 
-## 5 形而上学
+## 5. 形而上学
 
 西蒙并未写过亚里士多德《形而上学》的注释；即便写过，也未流传下来。不过，他对若干关键形而上学讨论的立场，可以从他对波菲利《导论》与亚里士多德《范畴篇》的注释中看出。下面概述他在两个相关问题上的看法：共相与个体，本质与存在。
 
@@ -172,34 +172,6 @@
 ### 5.3 存在的述谓
 
 最后，在《范畴篇》注释第 27 问中，西蒙干脆选择了“存在的述谓在亚里士多德十范畴上取类比方式”的立场。存在不是作为诸范畴的属而被单义地述谓的，因为它并非单义地述谓实体与偶性。事实上，偶性并非无条件地存在——它们只在同实体的关系中存在，故其存在依赖于实体的存在。但存在相对于实体与偶性也并非纯粹多义，因为偶性正是凭借同实体的关系而在某种意义上存在。于是，存在对实体与偶性乃是类比的：它首要地述谓实体，次要地述谓偶性。
-
-## 脚注
-
-[^note-1]: 关于西蒙生平的更详细叙述，见 Longeway 1977[^longeway-1977]；另见《〈辩谬篇〉问题集》（*Quaestiones super librum Sophisticorum Elenchorum*，Ebbesen 等编）的导言。
-
-[^note-2]: 第 4 种的完整校订本正由 Christina Thomsen Thörnqvist 编订；部分校订本另见 Ebbesen 1986、1987[^ebbesen-1986][^ebbesen-1987]。第 5 种方面，由 Mora-Márquez 领衔的编辑团队正在修订 Longeway 未刊的两个修订本，其中《修订本二》（*Redactio 2*）的修订已告完成。第 6 种见 Green-Pedersen 1973[^green-pedersen-1973]。另有一部对西班牙的彼得《逻辑大全》（*Summulae*）的注释曾归于西蒙名下，但归属存疑；参 De Rijk 1968 与 Tiné 1983[^tiné-1983]。
-
-[^note-3]: 第 10 种见 Zimmermann 1971[^zimmermann-1971]；第 15 种见 Christensen 2015[^christensen-2015]。
-
-[^note-4]: 关于把《工具论》分为 8 种论著而非更常见的 6 种论著这一传统，见 Marmo 1990[^marmo-1990]。
-
-[^note-5]: 有关 *suspicio*（疑念），可参 Marmo 1990[^marmo-1990]。
-
-[^note-6]: 关于这场讨论，见 Mora-Márquez 2015[^mora-márquez-2015]，第 2.1 章。
-
-[^note-7]: 见 Mora-Márquez 2015[^mora-márquez-2015]，第 2.2 章。
-
-[^note-8]: 这里也包括形如“*S* + *V*”的断言，其中 *V* 是人称动词形式，如“一个人跑”。把 *V* 换成“是 + *V* 的现在分词”，此类断言即可表达为“*S* 是 *P*”的形式，如“一个人在跑”。
-
-[^note-9]: … infallibiliter verum est quod talia idola informata a virtute phantastica sunt signa talium effectuum, et tales effectus de necessitate eveniunt nisi fortior motus superveniat, qui[a] illos effectus … impediet … (Ebbesen 2013: 145)[^ebbesen-2013]
-
-[^note-10]: … homo quantum ad secundum esse quod habet extra animam, non est species, quia secundum esse extra particulariter est; sed secundum illud esse quod habet in anima species est. Quia enim intellectus considerat naturam hominis ut una est in pluribus, fundat in ea intentionem specie. (ed. Mazarella SF-OL: 25, 6–11)
-
-[^note-11]: … non est ponere hominem universalem, quia universaliter existat, sed est universale quia universaliter intelligitur circumscribendo omnes condiciones individuantes. (ed. Mazarella SF-OL: 26, 41–27, 2)
-
-[^note-12]: Que enim est causa quare in hiis inferioribus invenitur multitudo suppositorum? … quia materia debita toti uni speciei non invenitur in uno individuo. … Sed in superioribus tota materia debita uni speciei reperitur in uno individuo … (ed. Mazarella SF-OL: 47, 26–31)
-
-[^note-13]: … particulare est duplex: quoddam per materiam, quoddam per subsistentiam, et hoc ultimo modo sunt intelligentiae particulares. Tunc dico quod intellectus meus est particularis, sed non est particularis per materiam, sed per subsistentiam quamdam, inquantum est virtus per se subsistens, non actus alicuius corporis. (ed. Sharp 1934: 329)[^sharp-1934]
 
 ## 参考文献
 
@@ -293,3 +265,31 @@
 ## 致谢
 
 感谢克努特与爱丽丝·瓦伦堡基金会（瑞典）提供的资助。
+
+## 脚注
+
+[^note-1]: 关于西蒙生平的更详细叙述，见 Longeway 1977[^longeway-1977]；另见《〈辩谬篇〉问题集》（*Quaestiones super librum Sophisticorum Elenchorum*，Ebbesen 等编）的导言。
+
+[^note-2]: 第 4 种的完整校订本正由 Christina Thomsen Thörnqvist 编订；部分校订本另见 Ebbesen 1986、1987[^ebbesen-1986][^ebbesen-1987]。第 5 种方面，由 Mora-Márquez 领衔的编辑团队正在修订 Longeway 未刊的两个修订本，其中《修订本二》（*Redactio 2*）的修订已告完成。第 6 种见 Green-Pedersen 1973[^green-pedersen-1973]。另有一部对西班牙的彼得《逻辑大全》（*Summulae*）的注释曾归于西蒙名下，但归属存疑；参 De Rijk 1968 与 Tiné 1983[^tiné-1983]。
+
+[^note-3]: 第 10 种见 Zimmermann 1971[^zimmermann-1971]；第 15 种见 Christensen 2015[^christensen-2015]。
+
+[^note-4]: 关于把《工具论》分为 8 种论著而非更常见的 6 种论著这一传统，见 Marmo 1990[^marmo-1990]。
+
+[^note-5]: 有关 *suspicio*（疑念），可参 Marmo 1990[^marmo-1990]。
+
+[^note-6]: 关于这场讨论，见 Mora-Márquez 2015[^mora-márquez-2015]，第 2.1 章。
+
+[^note-7]: 见 Mora-Márquez 2015[^mora-márquez-2015]，第 2.2 章。
+
+[^note-8]: 这里也包括形如“*S* + *V*”的断言，其中 *V* 是人称动词形式，如“一个人跑”。把 *V* 换成“是 + *V* 的现在分词”，此类断言即可表达为“*S* 是 *P*”的形式，如“一个人在跑”。
+
+[^note-9]: … infallibiliter verum est quod talia idola informata a virtute phantastica sunt signa talium effectuum, et tales effectus de necessitate eveniunt nisi fortior motus superveniat, qui[a] illos effectus … impediet … (Ebbesen 2013: 145)[^ebbesen-2013]
+
+[^note-10]: … homo quantum ad secundum esse quod habet extra animam, non est species, quia secundum esse extra particulariter est; sed secundum illud esse quod habet in anima species est. Quia enim intellectus considerat naturam hominis ut una est in pluribus, fundat in ea intentionem specie. (ed. Mazarella SF-OL: 25, 6–11)
+
+[^note-11]: … non est ponere hominem universalem, quia universaliter existat, sed est universale quia universaliter intelligitur circumscribendo omnes condiciones individuantes. (ed. Mazarella SF-OL: 26, 41–27, 2)
+
+[^note-12]: Que enim est causa quare in hiis inferioribus invenitur multitudo suppositorum? … quia materia debita toti uni speciei non invenitur in uno individuo. … Sed in superioribus tota materia debita uni speciei reperitur in uno individuo … (ed. Mazarella SF-OL: 47, 26–31)
+
+[^note-13]: … particulare est duplex: quoddam per materiam, quoddam per subsistentiam, et hoc ultimo modo sunt intelligentiae particulares. Tunc dico quod intellectus meus est particularis, sed non est particularis per materiam, sed per subsistentiam quamdam, inquantum est virtus per se subsistens, non actus alicuius corporis. (ed. Sharp 1934: 329)[^sharp-1934]

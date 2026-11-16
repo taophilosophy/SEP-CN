@@ -4,7 +4,7 @@
 
 混合逻辑是在普通模态逻辑之上增添表达力而形成的逻辑。最基础的混合逻辑引入所谓“名项”：这是一种新的命题符号，每个名项恰在一个可能世界上为真。其历史可上溯至 Arthur N. Prior 于 20 世纪 60 年代的工作。
 
-## 1 混合逻辑的动机
+## 1. 混合逻辑的动机
 
 在标准 Kripke 语义中，模态逻辑的真相对于某个点集里的点而定。同一命题符号相对于不同点，真值可能不同。这些点通常用以表示可能世界、时间、认知状态、计算机状态等。借此，我们可以形式化真值相对于时间等要素的自然语言语句，例如：
 
@@ -52,7 +52,7 @@ $$ (\mathtt{@_ab \mathbin{\&} @_a\phi) \rightarrow @_b\phi} $$
 
 除名项与满足算子，下文还考察所谓 **约束子** $\mathtt{\forall}$、$\mathtt{\downarrow}$，用以构造公式 $\mathtt{\forall a \phi}$ 与 $\mathtt{{\downarrow} a \phi}$。二者约束名项的方式不同：$\mathtt{\forall}$ 约束子仿照标准一阶全称量词对点作量化，即 $\mathtt{\forall a \phi}$ 相对于 $w$ 为真，当且仅当无论名项 $\mathtt{a}$ 指称何点，$\mathtt{\phi}$ 都相对于 $w$ 为真；$\mathtt{\downarrow}$ 约束子则把名项约束到求值点，即 $\mathtt{{\downarrow} a \phi}$ 相对于 $w$ 为真，当且仅当令 $\mathtt{a}$ 指称 $w$ 时，$\mathtt{\phi}$ 相对于 $w$ 为真。结果表明，$\mathtt{\downarrow}$ 约束子可用 $\mathtt{\forall}$ 定义（见下文）。
 
-## 2 形式语义
+## 2. 形式语义
 
 本词条考察的语言，是在普通命题符号 $\mathtt{p}, \mathtt{q}, \mathtt{r}, …$ 与名项 $\mathtt{a}, \mathtt{b}, \mathtt{c}, …$ 之上建立的普通模态逻辑语言，再加入满足算子与约束子。命题联结词以 $\mathtt{\wedge}$、$\mathtt{\neg}$ 为初始符号，其余按通常方式定义；模态算子以 $\mathtt{\Box}$ 为初始符号，$\mathtt{\Diamond}$ 则定义为 $\mathtt{\neg \Box \neg}$。约束子约束名项；名项何谓自由出现、何谓约束出现，仿照一阶逻辑界定。满足算子不约束名项：$\mathtt{@_a \phi}$ 中自由出现的名项，等于 $\mathtt{\phi}$ 中自由出现的名项再加上 $\mathtt{a}$。记 $\mathtt{\phi[c/a]}$ 为如下结果：把名项 $\mathtt{c}$ 代入 $\mathtt{\phi}$，替换 $\mathtt{a}$ 的全部自由出现。若 $\mathtt{a}$ 在 $\mathtt{\phi}$ 中于 $\mathtt{\forall c}$ 或 $\mathtt{{\downarrow} c}$ 辖域内自由出现，则相应改名 $\mathtt{\phi}$ 里的约束名项 $\mathtt{c}$。
 
@@ -70,7 +70,7 @@ $$ (\mathtt{@_ab \mathbin{\&} @_a\phi) \rightarrow @_b\phi} $$
 
 混合逻辑的语法、语义及许多基本定义，详见手册章节 Areces and ten Cate (2006)。上述语法与语义可有多种扩展，尤其可加入一阶量化；当然，给一阶模态逻辑加入混合逻辑机制，亦可得等价的一阶混合逻辑。一阶混合逻辑的概览见 Braüner (2014)，详论见 Braüner (2011a) 第 6 章，内涵一阶混合逻辑则见同书第 7 章。
 
-## 3 翻译
+## 3. 翻译
 
 混合逻辑可译为带等词的一阶逻辑，而带等词一阶逻辑的（一部分）亦可回译为混合逻辑的（一部分）。所论一阶语言对模态逻辑的每个普通命题符号 $\mathtt{p}$ 设一个 1 元谓词符号 $\mathtt{p^*}$，另设 2 元谓词符号 $\mathtt{R}$ 与 2 元谓词符号 $\mathtt{=}$。谓词符号 $\mathtt{p^*}$ 的解释，使相应模态命题符号 $\mathtt{p}$ 的解释相对于世界而定；$\mathtt{R}$ 以可及关系解释；$\mathtt{=}$ 以世界间的同一关系解释。以 $\mathtt{a}, \mathtt{b}, \mathtt{c},\ldots$ 取遍一阶变元。该语言不含常元与函数符号。一阶变元与混合逻辑的名项视为同一。
 
@@ -100,7 +100,7 @@ Areces, Blackburn, and Marx (2001) 给出了有界片段的多种独立语义刻
 
 上述翻译可推广到一阶混合逻辑，此时目标逻辑为带等词的二类一阶逻辑：一类是世界，一类是个体（见 Braüner (2011a) 第 6 章）。若是内涵一阶混合逻辑，则用三类，第三类为内涵（见同书第 7 章）。
 
-## 4 Arthur N. Prior 与混合逻辑
+## 4. Arthur N. Prior 与混合逻辑
 
 混合逻辑的历史可上溯至 Arthur N. Prior 的混合时态逻辑，即普通时态逻辑的混合化版本。为深入考察，先给出混合时态逻辑的形式定义。其语言同上述混合逻辑，只是以两个模态算子 $\mathtt{G}$、$\mathtt{H}$ 取代单一模态算子 $\mathtt{\Box}$；这两个新算子称 **时态算子**。语义沿用混合逻辑（见前），只将 $\mathtt{\Box}$ 的条款换成 $\mathtt{G}$、$\mathtt{H}$ 的条款。
 
@@ -120,7 +120,7 @@ Prior 引入混合时态逻辑，是与他所谓时态逻辑卷入的四个等�
 
 Hasle (2020) 指出，在 Prior (1967)、Prior (1968)（新版 Prior (2003)）问世之前，Prior 著作中已见混合逻辑观念的痕迹。前述 Øhrstrøm and Hasle (2006) 详述 Prior 的逻辑工作；其生平与著述的全面论述见 Øhrstrøm and Hasle (1995)。Hasle and Øhrstrøm (2016) 则描述 Prior 的方法论进路，尤其是他对形式化及符号逻辑在概念研究中作用的看法。
 
-## 5 Prior 以来混合逻辑的发展
+## 5. Prior 以来混合逻辑的发展
 
 混合逻辑的第一个完全严格定义出自 Bull (1970)，刊于纪念 Prior 的《Theoria》专号。Bull 引入第三类命题符号：它被假定恰在分支时间模型的某一分支（“事件进程”）上为真。这种依解释限制为命题符号分类的想法，后经多位作者发展，见 Blackburn and Tzakova (1999) 第 5 节及 Blackburn and Goranko (2001)。
 
@@ -138,7 +138,7 @@ Blackburn and Jørgensen (2016b) 以混合时态逻辑糅合 Prior 与 Hans Reic
 
 混合逻辑概念应用甚广。例如，Areces and Fervari (2021) 把混合算子加入 XPath——这是广泛用于 XML 的查询语言，而 XML 是描述数字文本的标记语言。混合逻辑也被用来增强规约逻辑的表达力，以刻画计算系统的某些性质，见 Neves, Madeira, Martins, Barbosa (2016)。此外，类似混合逻辑的逻辑在描述逻辑中居核心地位；描述逻辑是人工智能中用于知识表示的一族逻辑，见 Blackburn and Tzakova (1998) 及 Carlos Areces 的博士论文 (2000)。
 
-## 6 混合逻辑的公理
+## 6. 混合逻辑的公理
 
 混合逻辑的公理系统，已有不少论文讨论，如 Gargov and Goranko (1993)、Blackburn (1993)、Blackburn and Tzakova (1999)。Gargov and Goranko (1993) 给出一个混合逻辑公理系统，并证明：若增补一组 **纯** 公式（即所有命题符号均为名项的公式）作为附加公理，则扩展后的系统相对于使这些公理有效的框架类完全。纯公式对应可及关系上的一阶条件（参前述翻译 $\mathrm{ST}_\mathtt{a}$），故凡以可及关系一阶条件刻画的新混合逻辑，其公理系统皆可按需增补公理而统一获得。例如加入公理 $\mathtt{c\rightarrow \Box \neg c}$，所得系统即相对于非自反框架完全（如前所述）。此类规则的讨论见 Blackburn (2000) 第 4 节。
 
@@ -146,7 +146,7 @@ Gargov and Goranko (1993) 的证明系统用一条复杂规则（COV），其含
 
 Blackburn and ten Cate (2006) 考察 **正统** 证明规则（即无附条件的规则），并表明：若欲借纯公式获得扩展完全性，则无约束子混合逻辑的公理系统离不开非正统规则。但在含 $\mathtt{\downarrow}$ 约束子的更强混合逻辑中，可以给出仅用正统规则的公理系统。另见 Braüner (2011a)：其中既有混合逻辑的另一公理系统，也有直觉主义混合逻辑及纳尔逊悖论逻辑 N4 之混合化的公理系统（比较 Costa and Martins (2017) 所论另一悖论混合逻辑）。直觉主义混合逻辑的综述见 Braüner (2011b)。
 
-## 7 混合逻辑的分析性证明方法
+## 7. 混合逻辑的分析性证明方法
 
 较之普通模态逻辑，混合逻辑的表列、Gentzen 与自然演绎证明论运作得颇为顺畅。通常，模态表列、Gentzen 或自然演绎系统皆针对某一特定模态逻辑；事实证明，若不引入元语言机制，便很难统一地为模态逻辑表述此类系统。混合化恰可补救：模态逻辑一经混合化，便能为广泛的逻辑类统一表述表列、Gentzen 与自然演绎系统。Blackburn (2000) 给出的混合逻辑表列系统即具此优点：与 Blackburn and Tzakova (1999) 的公理系统相仿，给表列系统增补一组纯公理（即允许在表列构造中添入表列的纯公式），完全性仍得保持。该表列系统是 Bolander and Braüner (2006) 无约束子混合逻辑判定程序的基础；此线研究由 Bolander and Blackburn (2007)、(2009) 续之。Cerrito and Cialdea (2010) 另提出一种基于表列的混合逻辑判定程序；其他基于证明论的判定程序见 Kaminski and Smolka (2009)，其程序基于涉及简单类型 lambda 演算的高阶混合逻辑表述。
 
@@ -160,7 +160,7 @@ Braüner (2011a) 探讨了混合逻辑的自然演绎证明论，并给出无切
 
 消解演算与模型检验方面亦已有若干成果：消解演算见 Areces, de Rijke, and de Nivelle (2001) 与 Areces and Gorin (2011)；模型检验结果见 Franceschet and de Rijke (2006) 与 Lange (2009)。
 
-## 8 量化混合逻辑
+## 8. 量化混合逻辑
 
 量化混合逻辑另作处理。一阶模态逻辑版本繁多，一阶混合逻辑亦然。一阶混合逻辑的表列系统见 Blackburn and Marx (2002)；自然演绎与公理系统见 Braüner (2011a) 第 6 章，该书第 7 章则论内涵一阶混合逻辑的自然演绎。Indrzejczak (2020) 给出带 lambda 算子以及存在与有定义谓词的一阶混合逻辑 Gentzen 式序列演算。Barbosa, Martins, and Carreteiro (2014) 则公理化了称为等式一阶混合逻辑的一阶混合逻辑片段。
 

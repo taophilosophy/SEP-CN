@@ -16,7 +16,7 @@ RQM 精化了教科书解释：哥本哈根“观察者”所扮角色中的某�
 
 就其自身而言，RQM 在形而上学上是中立的；但它持一种强烈的关系主义立场，因而质疑强实在论（Laudisa 2019）[^laudisa-2019]，其含义见下文。正因这番对实在论的改造，RQM 先后被安放在多种哲学视角之中：建构经验论（van Fraassen 2009）[^fraassen-2009]、新康德主义（Bitbol 2007 [Other Internet Resources], Bitbol 2010）[^bitbol-2010]、反一元论（Dorato 2016）[^dorato-2016]、结构实在论（Candiotto 2017）[^candiotto-2017]、视角实在论（Massimi 2022）[^massimi-2022]、形而上学融贯论（Dorato and Morganti 2022）[^dorato-2022]，以及反基础主义的融贯论。（另见 Brown 2009、Wood 2010 [Other Internet Resources]，尤以 Calosi and Riedel 2024 的讨论最为详尽。）[^brown-2009][^calosi-2024][^riedel-2024] 它与 Dennis Dieks 的视角量子实在论（Dieks 2022, Bene and Dieks 2002）[^bene-2002][^dieks-2022]、与 QBism（Fuchs 2001, 2002 [Other Internet Resources]）[^fuchs-2001]、与 Healey 的实用主义进路（Healey 1989, 2023）[^healey-1989][^healey-2023]，以及与 Zeilinger、Bruckner 所主张的量子理论观点（Zeilinger 1999, Brukner & Zeilinger 2003）[^brukner-2003][^zeilinger-1999]，多有相通。
 
-## 1 主要观念
+## 1. 主要观念
 
 ### 1.1 物理变量的取值
 
@@ -56,7 +56,7 @@ RQM 的立论是：“不同的观察者可以对同一组事件给出不同的�
 
 Heilbron 与 Rovelli（2023）认为，薛定谔的波动力学尽管用途极广，在概念上却有误导之嫌：它助长了对 *ψ* 本体论作用的错误强调。
 
-### 1.5 量子叠加：猫能否半死半活？
+### 1.5. 量子叠加：猫能否半死半活？
 
 若 $\psi'$ 与 $\psi''$ 是系统两个正交的量子态，量子力学便假定系统也可处于态 $\psi = (\psi' +\psi'')/\sqrt{2}$：这就是叠加原理，理论的基石（Dirac 1930）[^dirac-1930]。若 $\psi'$ 是活猫之态、$\psi''$ 是死猫之态，则 *ψ* 便是猫处于死活叠加的态；理论预言，这是猫的一个可能（相对）态。RQM 对此类情形怎么说？猫在某种意义上半死半活吗？
 
@@ -66,7 +66,7 @@ Heilbron 与 Rovelli（2023）认为，薛定谔的波动力学尽管用途极�
 
 也就是说，猫的某一部分与另一部分相互作用时，猫相对于外部世界的态并不坍缩。
 
-## 2 相关问题
+## 2. 相关问题
 
 ### 2.1 信息
 
@@ -141,7 +141,7 @@ $$ \begin{align} & {\lvert \text{自旋向上} \rangle} \times {\lvert \text{pap
 
 测量自旋，就把态投影到两分支之一；两个分支都通向一致。因此，只要不去追索藏在退相干背后的细微干涉现象，RQM 就意味着我们都“看见同一个世界”。
 
-## 3 一般评论
+## 3. 一般评论
 
 ### 3.1 反应、批评与发展
 

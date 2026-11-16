@@ -10,7 +10,7 @@
 
 数学模糊逻辑关注以“部分真”的真值函项说明为基础的逻辑，并按经典数学逻辑的路子来研究：句法、模型论语义、证明系统、完全性等，命题层面和谓词层面都要管（见 Cintula, Fermüller, Hájek, & Noguera 2011、2015）[^cintula-2015][^cintula-2011][^fermüller-2015][^hájek-2011]。
 
-## 1 基于 t-范数的模糊联结词
+## 1. 基于 t-范数的模糊联结词
 
 模糊逻辑的标准真值集合是实数单位区间 $[0,1]$，按自然序 $\leq$ 排列：从完全假（$0$）经过连续不断的中间真值度，到完全真（$1$）（真常项的其他解释与真值的其他集合，见第 5、7 节）。主流数学模糊逻辑有个基本假设：联结词要在真值度集合上按真值函项方式解释，而且在标准设定下，这种真值函项在端点 $0$、$1$ 上要表现得像经典逻辑。若对每个 $x,y \in [0,1]$ 规定 $x \land y = \min\{x,y\}$、$x \lor y = \max\{x,y\}$、$\neg x = 1 - x$，合取、析取与否定的行为就非常自然。
 
@@ -22,7 +22,7 @@
 
 在一般的 t-范数设定里，否定靠剩余来解释：给定左连续 t-范数 $\ast$，令 $\neg_\ast x = x\Rightarrow_\ast 0$。Łukasiewicz t-范数给出否定 $\neg_{Ł} x = 1 - x$（即 Łukasiewicz 否定，或称标准对合否定）；最小与乘积 t-范数给出的否定相同，称为 Gödel 否定：$\neg_\mathrm{G} 0 = 1$，否则为 $0$。
 
-## 2 MTL：一种基础模糊逻辑
+## 2. MTL：一种基础模糊逻辑
 
 用上述类型真值函项解释联结词的最弱逻辑是 MTL（*幺半群 t-范数逻辑*，Esteva & Godo 2001）[^esteva-2001][^esteva-2001-2]。它的原始二元联结词是 $\mathbin{\&}, \to, \wedge$，另有真常项 $\overline{0}$；可导出联结词定义为：$$ \begin{align} \varphi \lor \psi &= ((\varphi \to \psi) \to \psi) \land ((\psi \to \varphi) \to \varphi),\\ \neg \varphi &= \varphi \to \overline{0}, \\ \varphi \leftrightarrow \psi &= (\varphi \to \psi) \land (\psi \to \varphi),\\ \overline{1} &= \neg \overline{0}. \end{align} $$ MTL 的后承关系由所有左连续 t-范数给出的语义来定义。给定左连续 t-范数 $\ast$ 与从命题变元到 $[0,1]$ 的映射，把 $\&$ 解释为 $\ast$、蕴涵 $\to$ 解释为其剩余 $\Rightarrow$、$\land$ 与 $\overline{0}$ 解释为 $\min$ 与 $0$，就得到全部公式的 $\ast$-赋值。
 
@@ -34,7 +34,7 @@ $$ \begin{align} (\varphi \to \psi) & \to ((\psi \to \chi) \to (\varphi \to \chi
 
 推理规则只有 **肯定前件**：由 *φ* 与 $\varphi \to \psi$ 推出 *ψ*。若在这个系统里能从 *Γ* 证明 *φ*——也就是有一个以 *φ* 结尾的有限公式序列，其中每一项或是公理实例、或是 *Γ* 的元素、或由前面各项按 **肯定前件** 得出——就记作 $\Gamma \vdash_\mathrm{MTL} \varphi$。这套希尔伯特式系统是 MTL 的强完全（有穷）公理化：对每个前提集 *Γ*，$\Gamma \models_\mathrm{MTL} \varphi$ 当且仅当 $\Gamma \vdash_\mathrm{MTL} \varphi$。已知 $\mathrm{MTL}$ 的有效性问题可判定，但计算复杂性还未定。
 
-## 3 Łukasiewicz 逻辑
+## 3. Łukasiewicz 逻辑
 
 Łukasiewicz 逻辑是在 MTL 的希尔伯特式证明系统中加入 Wajsberg 公理 $$((\varphi \to \psi) \to \psi) \to ((\psi \to \varphi) \to \varphi)$$ 得到的。它对应的是按 Łukasiewicz t-范数赋值所定义后承关系的有穷版本：对每个 **有限** 公式集 $\Gamma$ 和每个公式 $\varphi$，$\Gamma \models_{Ł} \varphi$ 当且仅当 $\Gamma \vdash_{Ł} \varphi$。[^note-2]
 
@@ -44,11 +44,11 @@ $$ \begin{align} \varphi &\to (\psi \to \varphi)\\ (\varphi \to \psi) &\to ((\ps
 
 Łukasiewicz 逻辑是唯一的基于 t-范数的模糊逻辑：其中所有联结词——包括由 $x \Rightarrow_{Ł} y=\min\{1,1-x+y\}$ 给出的蕴涵——都由连续函数解释。McNaughton 定理（1951）说，在 [0,1] 上解释 Łukasiewicz 逻辑公式的实值函数，正好是整系数的连续分段线性函数。论计算复杂性，它的有效性问题渐近地不比经典逻辑糟：仍是 coNP 完全的。
 
-## 4 Gödel–Dummett 逻辑
+## 4. Gödel–Dummett 逻辑
 
 Gödel–Dummett 逻辑又叫 Dummett 的 LC，或简称 Gödel 逻辑，也是真值取在 $[0,1]$ 中的早期多值逻辑。Michael Dummett（1959）[^dummett-1959] 把它作为直觉主义逻辑加公理 $$(\varphi \to \psi) \lor (\psi \to \varphi)$$ 的扩张提出。这条公式在底层语义（无论 Kripke 式还是代数式）中强制一个线性序；它也出现在 Kurt Gödel 的观察里：直觉主义逻辑不可能用有穷真值表刻画（Gödel 1932）[^gödel-1932]。在模糊逻辑中，Gödel–Dummett 逻辑也可以由 MTL 加公理 $\varphi \to \varphi \mathbin{\&} \varphi$ 得到，这等于要求 $\&$ 幂等，于是两个合取的解释重合。语义上，它还可定义为最小 t-范数给出的后承关系。它的特别之处是：在基于 t-范数的逻辑里，只有它使得公式在给定赋值下的有效性不取决于命题变元的具体取值，而只取决于这些值的相对顺序；因此可以说，Gödel–Dummett 逻辑是关于比较真值的逻辑。和 Łukasiewicz 逻辑一样，检验有效性的计算复杂性仍是 coNP 完全的。
 
-## 5 其他值得注意的模糊逻辑
+## 5. 其他值得注意的模糊逻辑
 
 除了 MTL（所有左连续 t-范数的逻辑）以及 Łukasiewicz、Gödel–Dummett 逻辑（各由某个特定 t-范数诱导），还可以考虑由一组 t-范数 **诱导** 的逻辑，或更一般地，MTL 的任意公理化扩张。特别地，所有 **连续** t-范数的逻辑，即 Hájek 的基本模糊逻辑 BL，就是 MTL 加公理 $$\varphi\mathbin{\&}(\varphi\to{{\psi}}) \to \psi\mathbin{\&}(\psi\to\varphi)$$ 得到的。事实上，任何一组连续 t-范数，其对应逻辑都有有穷公理化（Esteva, Godo, & Montagna 2003; Haniková 2014）[^esteva-2003][^esteva-2003-2][^haniková-2014]；多数情况下，公理化刻画的是从 **有限** 前提集出发的语义后承。第三个著名连续 t-范数（代数乘积）的逻辑叫乘积逻辑，是 BL 加公理 $$\neg\varphi \vee ((\varphi\to\varphi\mathbin{\&}{{\psi}})\to{{\psi}})$$ 的扩张。反过来，并非 MTL 的每个公理化扩张都能有基于 t-范数的语义：比如经典逻辑可公理化为 MTL $+$ $\varphi\vee\neg \varphi$，但排中律在任何基于 t-范数的解释下都不是重言式。
 
@@ -60,7 +60,7 @@ Gödel–Dummett 逻辑又叫 Dummett 的 LC，或简称 Gödel 逻辑，也是�
 
 本节提到的各类命题模糊逻辑（及其一般理论），详尽综述见 *Handbook of Mathematical Fuzzy Logic*（3 卷，Cintula et al. 2011a,b, 2015）[^cintula-2015][^cintula-2011a]。
 
-## 6 谓词逻辑
+## 6. 谓词逻辑
 
 命题逻辑 MTL 可以在一阶谓词语言 $\mathcal{P\!L}$（定义同经典情形）中给出一阶对应物 MTL$\forall$。语义由结构给出：谓词符号解释为把论域元素元组映到真值的函数。确切地说，给定左连续 t-范数 $\ast$，一个 $\ast$-结构 ${\mathbf M}$ 包括：非空元素域 $M$；对每个 $n$ 元函数符号 $f\in \mathcal{P\!L}$ 的一个函数 $f_{\mathbf M}\colon M^n\to M$；对每个 $n$ 元谓词符号 $P\in \mathcal{P\!L}$ 的一个函数 $P_{\mathbf M}\colon M^n\to [0,1]$。把对象变元在 $M$ 中的赋值 ${\mathrm v}$ 固定下来，就能定义项的值（$\|f(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = f_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）和原子公式的真值（$\|P(t_1,\dots,t_n)\|^{\mathbf M}_{\mathrm v} = P_{\mathbf M}(\|t_1\|^{\mathbf M}_{\mathrm v},\dots,\|t_n\|^{\mathbf M}_{\mathrm v})$）。全称或存在量化公式的真值，取公式各实例真值的下确界或上确界，量化变元遍历域 $M$ 的全部元素。形式地：$$ \begin{align} \|\forall x\, \varphi\|^{\mathbf M}_{\mathrm v} & = \inf\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]} \mid a\in M\}\\ \|\exists x\,\varphi\|^{\mathbf M}_{\mathrm v} & = \sup\{\|\varphi\|^{\mathbf M}_{{\mathrm v}[x{:}a]}\mid a\in M\},\\ \end{align} $$ 其中 ${\mathrm v}[x{:}a]$ 是把 $x$ 送到 $a$、其余变元保持不变的赋值。其他公式的值照命题语义算：$\&$ 解释为 $\ast$，蕴涵 $\to$ 解释为其剩余 $\Rightarrow_\ast$，$\land$ 与 $\overline{0}$ 分别解释为 $\min$ 与 $0$。
 
@@ -83,7 +83,7 @@ MTL$\forall$ 的推理规则，是 **肯定前件** 再加 **概括规则**：�
 
 更弱的模糊逻辑的一阶对应物，也可照样从句法、语义两方面研究；综述见 Cintula, Horčík, & Noguera 2014[^cintula-2014]。
 
-## 7 代数语义
+## 7. 代数语义
 
 研究模糊逻辑的一大工具是代数语义。粗略说，就是把实数单位区间换成任意一个集合，把联结词解释成该集合上相应元数的运算。
 
@@ -104,13 +104,13 @@ MTL-链是整个代数类的基本构件：每个 MTL-代数都能分解成链�
 
 代数语义用在一阶模糊逻辑上相当直接：把上一节 $\ast$-结构的定义改一下，不用区间 [0,1] 和 $\ast$ 及其剩余，而用任意 MTL-链及其运算来算公式真值。给定一个命题模糊逻辑，这套推广语义就能给出递归可枚举的重言式集合，以及相应一阶希尔伯特式证明系统的强完全性定理。
 
-## 8 证明论
+## 8. 证明论
 
 给模糊逻辑找分析型证明系统，一直是个不小的挑战。这类系统有些重要特征与 Gentzen 为经典逻辑、直觉主义逻辑建立的矢列演算相同，比如切消性和子公式性质（见“证明论的发展”词条）。Arnon Avron（1991）[^avron-1991] 为 Gödel–Dummett 逻辑引入超矢列演算，是个重大突破。超矢列演算从矢列演算变来：推理规则指涉的是矢列的有限多重集，而不是单个矢列。在元层面，超矢列读作矢列的析取。这样一来，添加额外矢列（外弱化），或在同一个超矢列里把某矢列的多份拷贝换成一份（外收缩），都是可靠的。就 Gödel–Dummett 逻辑说，引入逻辑联结词的规则只需在 Gentzen 直觉主义矢列演算的规则上，给上下矢列各加侧超矢列。例如，右侧引入合取的矢列规则 $$\frac{\Gamma_1 \Rightarrow \phi \hspace{3ex} \Gamma_2 \Rightarrow \psi}{\Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi}$$ 其中 $\Gamma_1$ 与 $\Gamma_2$ 是有限公式序列，变成这样的超矢列规则：$$\frac{H \mid \Gamma_1 \Rightarrow \phi \hspace{3ex} H' \mid \Gamma_2 \Rightarrow \psi}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \phi \wedge \psi }$$ 其中 $H$、$H'$ 是侧超矢列，即以析取方式附加到所示矢列上的有限矢列多重集。光这一步并不改变相应逻辑（这里是直觉主义逻辑）。真正新增的关键结构规则，是所谓通信规则：$$\frac{H \mid \Gamma_1,\Pi_1 \Rightarrow \Delta_1 \hspace{3ex} H' \mid \Gamma_2,\Pi_2 \Rightarrow \Delta_2}{H \mid H' \mid \Gamma_1,\Gamma_2 \Rightarrow \Delta_1 \mid \Pi_2,\Pi_2 \Rightarrow \Delta_2}$$ 这里 $\Gamma_1, \Gamma_2,\Pi_1, \Pi_2$ 是有限公式序列；$\Delta_1$、$\Delta_2$ 或是单个公式，或为空；$H$、$H'$ 仍是侧超矢列。为看清通信规则的作用，下面给出关键公理 $(\varphi \to \psi) \lor (\psi \to \varphi)$ 的推导，通信规则就用在初始（超）矢列的正下方：$$ \frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\displaystyle\frac{\varphi \Rightarrow \varphi \hspace{5ex} \psi \Rightarrow \psi}{\varphi \Rightarrow \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid \psi \Rightarrow \varphi}}{\Rightarrow \varphi \to \psi \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow \psi \to \varphi}}{\Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi) \mid\, \Rightarrow (\varphi \to \psi) \vee (\psi \to \varphi)}}{\Rightarrow (\varphi \to \psi) \lor (\psi \to \varphi)} $$
 
 要给基本模糊逻辑 MTL 配超矢列演算，就得把通信规则加到无收缩版直觉主义逻辑（结构逻辑里研究得很透的例子）的矢列系统上。其他模糊逻辑——尤其是 Łukasiewicz 逻辑——的分析型证明系统，则要更彻底地背离传统演算：超矢列里的矢列成分得按不同于直觉主义、经典矢列的方式来解释。此外还有标签证明系统和各种表列演算。研究现状的详细介绍，见 Metcalfe, Olivetti, & Gabbay 2008[^metcalfe-2008] 以及 Metcalfe 2011[^metcalfe-2011]。
 
-## 9 为真值函项性提供辩护的语义
+## 9. 为真值函项性提供辩护的语义
 
 把中间真值以及相应逻辑联结词的含义，同含模糊、不精确概念的推理的基本模型挂起钩来，很有好处：不只是哲学上有意义，也能更好把握模糊逻辑的应用前景。为此已提出若干语义，替特定的真值函项联结词选择作辩护；这里只简述两个。
 
@@ -135,7 +135,7 @@ Christian Fermüller 与 George Metcalfe（2009）[^fermüller-2009] 指出，Gi
 
 Jeff Paris（2000）[^paris-2000] 综述了支持各种真值函项选择的其他语义，尤其是重随机化语义（Hisdal 1988）[^hisdal-1988]、相似性语义（如 Ruspini 1991）[^ruspini-1991]、可接受性语义（Paris 1997）[^paris-1997] 与近似语义（Paris 2000）[^paris-2000]。Běhounek 2009[^běhounek-2009] 提出的基于资源的语义也值得一提。另外，除上文概述的 Giles 为 Łukasiewicz 逻辑设计的博弈，各种模糊逻辑还有不同形式的评估博弈；Fermüller 2015[^fermüller-2015] 对这类语义博弈作了综述。
 
-## 10 模糊逻辑与模糊性
+## 10. 模糊逻辑与模糊性
 
 人们常说，引入模糊逻辑的主要动机，是要为含模糊谓词、模糊命题的推理建模。模糊性理论不少，但一般认为，容易陷入堆垛悖论是模糊性的主要特征。看下面这个悖论版本：
 
@@ -153,20 +153,6 @@ Jeff Paris（2000）[^paris-2000] 综述了支持各种真值函项选择的其�
 Hájek & Novák 2003[^hájek-2003-2] 另提出一种基于真值度的 **堆垛悖论** 解法：引入一个新联结词，替“几乎可以说是”这一说法建模。这样，他们就在合适的基于 t-范数的模糊逻辑里，用公理理论形式化了 **堆垛** 式推理。
 
 Nicholas J.J. Smith（2005、2008）[^smith-2005][^smith-2008] 主张，模糊性的本质就在所谓 **接近原则** 里：关于不可区分对象的同形式陈述，在真值上应当彼此接近。许多借助模糊逻辑处理堆垛悖论的进路，其标志之一正是与该原则相容。[^note-6]
-
-## 脚注
-
-[^note-1]: 要注意，真值函项性意味着真值度不能解释为概率或信念度，因为后者不是按函项方式结合的：“明天中午出太阳、午夜下雨”的概率，并不（只）由这两个事件的概率决定，因为它们一般并不独立。
-
-[^note-2]: 这个等价对于无限前提集不成立。不过也许出人意料，一般的后承关系仍是通常意义上的紧致：只要每个有限子集都可满足，无限公式集就可满足——也就是存在一个赋值，把其中所有公式都赋值为 $1$。
-
-[^note-3]: 这从剩余性质加上一个直觉推得：蕴涵为真，当且仅当其后续真值不低于前件。确实：$x\leq y$ 当且仅当 $x \ast 1 \leq y$ 当且仅当 $1 \leq x\Rightarrow y$ 当且仅当 $x\Rightarrow y = 1$。
-
-[^note-4]: 设代数 $\mathbf A$ 的域为 [0,1]，$\wedge, \vee, \overline{0}, \overline{1}$ 分别是 $\min$, $\max$, $0$, $1$；则它是 MTL-代数，当且仅当 $\&$ 是左连续 t-范数、$\to$ 是其剩余。任取 MTL-代数 $\mathbf A$，把赋值定义为公式到 $\mathbf A$ 的同态，便可像对 MTL 那样引入后承关系 $\models_{\mathbf A}$，即保持指定值 $\overline{1}$。于是对每个 MTL-代数 $\mathbf A$，$\Gamma\vdash_\mathrm{MTL}\varphi$ 当且仅当 $\Gamma\models_{\mathbf A}\varphi$。
-
-[^note-5]: 这等于要求 $\varphi \mathbin{\&} (\varphi \to \psi) \to \psi$ 是重言式；在通常的模糊逻辑里，它确实是。
-
-[^note-6]: 基于 Łukasiewicz 逻辑、所有联结词都有连续真值函项的表述，尤其如此。但要注意，接近原则大概与 Gödel 逻辑这类模糊逻辑不相容：后者只看真值的相对 *顺序*，不管它们之间的度量距离。
 
 ## 参考文献
 
@@ -314,3 +300,17 @@ Nicholas J.J. Smith（2005、2008）[^smith-2005][^smith-2008] 主张，模糊�
 代数命题逻辑 | 多值逻辑 | 子结构逻辑 | 证明论的发展 | 模糊性
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+## 脚注
+
+[^note-1]: 要注意，真值函项性意味着真值度不能解释为概率或信念度，因为后者不是按函项方式结合的：“明天中午出太阳、午夜下雨”的概率，并不（只）由这两个事件的概率决定，因为它们一般并不独立。
+
+[^note-2]: 这个等价对于无限前提集不成立。不过也许出人意料，一般的后承关系仍是通常意义上的紧致：只要每个有限子集都可满足，无限公式集就可满足——也就是存在一个赋值，把其中所有公式都赋值为 $1$。
+
+[^note-3]: 这从剩余性质加上一个直觉推得：蕴涵为真，当且仅当其后续真值不低于前件。确实：$x\leq y$ 当且仅当 $x \ast 1 \leq y$ 当且仅当 $1 \leq x\Rightarrow y$ 当且仅当 $x\Rightarrow y = 1$。
+
+[^note-4]: 设代数 $\mathbf A$ 的域为 [0,1]，$\wedge, \vee, \overline{0}, \overline{1}$ 分别是 $\min$, $\max$, $0$, $1$；则它是 MTL-代数，当且仅当 $\&$ 是左连续 t-范数、$\to$ 是其剩余。任取 MTL-代数 $\mathbf A$，把赋值定义为公式到 $\mathbf A$ 的同态，便可像对 MTL 那样引入后承关系 $\models_{\mathbf A}$，即保持指定值 $\overline{1}$。于是对每个 MTL-代数 $\mathbf A$，$\Gamma\vdash_\mathrm{MTL}\varphi$ 当且仅当 $\Gamma\models_{\mathbf A}\varphi$。
+
+[^note-5]: 这等于要求 $\varphi \mathbin{\&} (\varphi \to \psi) \to \psi$ 是重言式；在通常的模糊逻辑里，它确实是。
+
+[^note-6]: 基于 Łukasiewicz 逻辑、所有联结词都有连续真值函项的表述，尤其如此。但要注意，接近原则大概与 Gödel 逻辑这类模糊逻辑不相容：后者只看真值的相对 *顺序*，不管它们之间的度量距离。

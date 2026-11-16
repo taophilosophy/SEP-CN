@@ -6,7 +6,7 @@
 
 法拉比著作的确切编年难以确定。他写过阐释柏拉图和亚里士多德的论著、亚里士多德著作的注疏与释义，以及其他一些论著，在其中发展自己的哲学思想，把形而上学与宇宙论观点同其心理学乃至政治哲学统一起来。他关于心理学和认识论问题的看法散见于其论著的多处。因此有必要考察若干部他澄清并完善其相关思想的著作。《存在物的原理》（亦名《政治体制》，*Kitāb al-siyāsa al-madaniyya*）与《德性城邦居民的原理与意见》（*Mabādiʿ ārāʾ ahl al-madīnah al-fāḍilah*），是法拉比处理灵魂的本性、灵魂的认知能力以及理智学说等心理学主题的几部主要著作。此外，还有一部直接处理理智官能的重要论著，即《论理智》（*Risālah fīʾl-ʿaql*）。这部著作显示出亚里士多德的灵魂学说及其阿芙罗蒂西亚的亚历山大解释的影响痕迹。事实上，M. Geoffroy（2002: 191–231）主张，法拉比很可能从未读过亚里士多德《论灵魂》的完整译本，而是通过亚历山大的论著，主要是《论理智》来了解它。法拉比主要在《证明书》（*Kitāb al-burhān*）和《确实性条件书》（*Kitāb Šaraʾiṭ al-yaqīn*）中处理认识论主题，如对科学知识的理解以及证明和确实性的本性。为了涵盖法拉比著作中心理学和认识论问题的多样性，本文作如下划分：
 
-## 1 灵魂的起源与本性
+## 1. 灵魂的起源与本性
 
 法拉比在其最著名的入门著作之一《科学枚举》（*Iḥṣāʾ al-ʿUlūm*）中解释说，物理学这门科学的第八部分专门讨论各种动物所共同具有的东西，即灵魂，它在亚里士多德的《动物志》和《论灵魂》中被研究。法拉比像亚里士多德在《论灵魂》2.1、412a19 中那样描述灵魂，即把它描述为一个潜在地具有生命的自然有机体的形式或现实化（ἐντελέχεια / *antālāshiyā* 或 *at-tamām*）。[^note-1] 生物具有不同的官能：营养官能、感觉官能、欲求官能和理性官能。这些能力在生物中的存在，是由于不同种类的灵魂。这些灵魂及其能力的起源，法拉比从形而上学、宇宙论和生物学的角度加以解释。
 
@@ -24,7 +24,7 @@
 
 在《政治体制》中，法拉比处理质料与形式的关系，说明形式是质料的现实化，在这个意义上形式比质料更卓越；然而质料是形式的基底，没有质料就没有形式（al-Fārābī KS: 39; PR: 36）。由此可见，法拉比是亚里士多德形质论的支持者。这与他把灵魂理解为身体的形式或现实化、因而随身体而朽坏的观点相关。对法拉比而言，正如对亚里士多德一样，灵魂负责人类身体的各种能力或活动。谈到人的灵魂时，法拉比主张，理性部分能够实现自身到这样一种完善程度，以至于它不再需要身体，并且能够非常接近地达到分离存在者的地位（al-Fārābī KS: 42; PR: 38）。换句话说，理性部分能够与它的其他官能——感觉、欲求和想象——相分离，以便通过把自己转变为永恒不灭的理智而达到完善。由此可见，法拉比通过一个相当复杂的本体论和宇宙论过程，对灵魂及其官能的起源作出说明，人的灵魂经由这一过程逐步获得更大的完善。然而，在说明这种完善在于什么之前，我将讨论法拉比对灵魂各官能及其功能的理解。
 
-## 2 灵魂及其官能
+## 2. 灵魂及其官能
 
 在《德性城邦》中，法拉比用整整一章讨论人的灵魂的官能，从最基础、最低级的，即营养，到最完善、最高级的，即理性或理智官能（al-Fārābī VC: 164–175）。营养为植物、动物和人类所共有；接下来是一组官能，即外部感官（触觉、味觉、嗅觉、听觉和视觉）。动物和人类共有这些感官。与这些感觉官能一起，还有欲求官能，人类和动物通过它对其经由感官所知觉的对象产生欲望或厌恶。接着，就内部感官而言，有想象官能，其功能是在感性印象不再呈现于外部感官时把它们保存下来。这一官能还有能力把各种可感物相互结合，在不同组合与分割中把它们联结起来或分开，其中一些组合是假的，一些是真的（al-Fārābī VC: 168–169）。想象官能也与欲求官能相联系，因为人们有可能欲求想象性的表象。这一官能在人类认知中的作用特别重要，将在下一节单独讨论。在法拉比的说明中，最后也是最高的官能是理性或理智官能（*ʿaql*）。
 
@@ -44,7 +44,7 @@
 
 由此可见，理性官能负责人类认知的各个方面。然而，尽管法拉比非常重视这一官能，他也十分关注想象官能本身及其与理性官能的相互作用。接下来的两节将分别更详细地考察想象官能和理性（或理智）官能在人类认知中的作用。
 
-## 3 想象官能的重要性
+## 3. 想象官能的重要性
 
 按照法拉比，想象官能在人类认知活动中非常活跃。如上所述，它的功能是在感性印象不再被知觉为外部刺激时把它们保存下来，并且把这些印象加以结合、组合乃至再现。追随亚里士多德的说明，法拉比认为想象官能介于感觉官能与理性官能之间。事实上，就人类而言，它的功能是为理性提供通过感官获得的印象，但它也以其他方式为理性官能服务，如下文所示。
 
@@ -58,7 +58,7 @@
 
 尽管法拉比关于想象官能的概念偏离亚里士多德的观点，但它结合了来自希腊化传统和中柏拉图主义传统的某些要素，正如 Walzer（1957: 142–148）所指出的，这些要素可能取自波菲利和普罗克洛。其结果是对预言和占卜的心理学说明。近年来，研究亚里士多德《论睡眠中的占卜》阿拉伯文本的学者（Hansberger 2008: 73–74; 2010: 158）[^hansberger-2008]提出，这部著作是理解伊斯兰哲学预言观（包括法拉比的预言观）的重要资料来源。阿拉伯文的《论睡眠中的占卜》是亚里士多德文本的窜改版本，它在新柏拉图主义形而上学框架内提供了对真实梦的不同说明，在这一框架中，一个普遍的理智分发真实梦，一些具有出众心理能力的人能够接收并解释它们。[^note-4] 尽管法拉比的《德性城邦》没有明确提及《论睡眠中的占卜》，但两部论著之间有明显的相似之处。
 
-## 4 理智学说
+## 4. 理智学说
 
 前面已经提到，人类正是通过理智认识可理知者、获得各门科学和各种技艺，并辨别和反思实践事务。在《论理智》（拉丁文名为 *De intellectu*；Ramón Guerrero 2018）[^ramón-2018]中，法拉比完整地说明了“理智”（*ʿaql*；νοῦς，intellect or reason）一词的种种含义，从（1）大多数人对该词的使用开始，然后（2）伊斯兰神学家使用它的方式，最后（3）它在亚里士多德著作中的不同含义，具体说在《后分析篇》《尼各马可伦理学》《论灵魂》和《形而上学》中（al-Fārābī LI: 3–4; OI: 68）。
 
@@ -82,7 +82,7 @@
 
 通过所描述的理智活动过程，主动理智使质料中的形式越来越非质料化，并产生获得理智。既然获得理智与主动理智同属一类，人类理智便因而越来越接近主动理智。在法拉比看来，这恰是人类终极的目标和幸福（*saʿādah*），也是他们达到最终完善的途径：经由理智过程，获得理智逐渐成为这样一个实体，它凭借使自己充分实现为实体的活动而行动，并以此方式在来世（*ḥayāt al-ākhirah*）继续存在（al-Fārābī LI: 27; 31–32; LC: 219–220; OI: 75–76）。通过这一逐渐完善的进程，获得理智最终只在其自身之内活动，把它自身的活动等同于它自身的存在。当达到这一阶段时，身体不再作为其质料而为其存续所需，而最初它对于感觉和想象等活动得以发生是必需的。因此，理智所能达到的最完善状态，是它能够独立于身体而存续。然而，法拉比所理解的获得理智与能动理智之间的关系，受到阿威罗伊的严厉批评，阿威罗伊认为，设想可朽的人类之中的质料理智转变为能动理智层次上的非质料的、永恒实体，是不可能的（Averroes LCD: 387–388）。
 
-## 5 科学知识理论
+## 5. 科学知识理论
 
 如上一节所述，“理智”（*ʿaql*）一词有不同用法。我们已经处理了法拉比在亚里士多德《论灵魂》的心理学语境中使用该词的方式。然而，在说明该词的各种含义时，法拉比还提到它在《后分析篇》2.19 中的用法，在那里亚里士多德在认识论语境中使用 νοῦς 一词，谈到灵魂的一种官能，凭借它获得关于必然的、真的、普遍的前提的确实性。在他的《格言集》中，法拉比用同样的话描述理论理智，他说这一理智
 
@@ -116,62 +116,6 @@ D. Black 意识到，法拉比关于确实性的前三个条件似乎唤起传�
 > 哲学话语被称为证明性的。它力求教导并阐明那些能够提供确实知识的事物中的真理。（al-Fārābī IR: 231）
 
 因此，似乎法拉比具有一种受亚里士多德《后分析篇》启发的、严格的证明性科学概念。尽管如此，尽管法拉比在其哲学概念中给予证明和绝对的确实性以重要地位，他也认为我们的知识并不限于绝对的确实性。他还考虑其他形式的知识，它们可以把我们引向所谓非必然的确实性，正如我们通过非证明性的逻辑技艺获得的各种知识那样。就此而言，法拉比认为，从不同种类的论证，我们可以构想不同程度的确实性，因而构想不同种类的信念（从绝对的确实性到非必然的确实性或强烈的信念）。
-
-## 脚注
-
-[^note-1]: “（……）灵魂就是使有生命的实体——我指可容纳生命的东西——得以实现为实体的东西”（al-Fārābī PA: 116）。
-
-[^note-2]: 唯一把自然世界描述为从主动理智流溢出来的论著是《论理智》。然而在《政治体制》和《德性城邦》中，这一任务被归于天球。
-
-[^note-3]: 关于天体的影响与因果性，进一步的分析与讨论见 Druart 1981: 35–45。
-
-[^note-4]: 参见 Hansberger 2008: 73 与 2010: 158；Daiber 1997: 40。关于一种亚里士多德式的解释但方向不同，见 Streetman 2008: 211–246。
-
-[^note-5]: 关于这些第一原理或实践科学的意义的考察，参见 Druart 1995: 476–485 与 1997: 403–423。
-
-[^note-6]: 关于法拉比对抽象的理解的全面分析，见 Taylor 2006: 151–168。
-
-[^note-7]: 关于这一类比的使用，进一步讨论见 Eastwood 1979: 423–425。
-
-[^note-8]: 关于法拉比对证明的理解，见 Galston 1981: 23–34。关于法拉比在《证明书》中提出的不同类型的证明，见 Strobino 2019, 42–62。
-[^li-1938]: [LI] *Risalat fī’l-‘aql* (*Letter on the Intellect*), M. Bouyges (ed.), Beirut: Imprimerie Catholique, 1938.
-[^es-1953]: [ES] *Iḥṣā’ al-Ulūm* (*Enumeration of the Sciences*), González Palencia (ed.), Madrid/Granada: CSIC, 1953.
-[^ir-1956]: [IR] “Introductory *Risalah* on Logic”, D. M. Dunlop (trans.), *The Islamic Quarterly*, 3 (1956–57): 224–235.
-[^ks-1964]: [KS] *Kitāb al-siyāsa al-madaniyya (also Known as the Treatise on the Principles of Beings)* [or *Political Regime*], F. M. Najjar (ed.), Beirut: Imprimerie Catholique, 1964.
-[^lc-1973]: [LC] “The Letter Concerning the Intellect”, A. Hyman (trans.), in *Philosophy in the Middle Ages. The Christian, Islamic, and Jewish Traditions*, Indianapolis & Cambridge: Hackett Publishing Company, 1973, pp. 215–221.
-[^vc-1985]: [VC] *Mabādi’ ārā’ ahl al-madīnah al-fāḍilah* (*al-Farabi on the Perfect State*) [also known as *The Virtuous City*], R. Walzer (trans.), Oxford: Clarendon Press, 1985.
-[^kb-1986]: [KB & KY] *Kitāb al-Burhān wa Kitāb Šarā’iṭ al-yaqīn* (*Book of Demonstration and Book on the Conditions of Certitude*), M. Fakhry (ed.), Beirut: Dar el-Machreq, 1986–1987.
-[^sa-2001]: [SA] “*Fusūl al-Madanī* (Selected Aphorisms)”, C. E. Butterworth (trans.), in *The Political Writings. Selected Aphorisms and Other Texts*, Ithaca/London: Cornell University Press, 2001, pp. 11–67.
-[^pa-2001]: [PA] “The Philosophy of Aristotle”, C. E. Butterworth (trans.), in *Philosophy of Plato and Aristotle*, Ithaca, New York: Cornell University Press, 2001, pp. 71–130.
-[^bd-2007]: [BD] “Selections from Book of Demonstration”, J. McGinnis & D. C. Reisman (trans.), in *Classical Arabic Philosophy. An Anthology of Sources*, Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2007, pp. 63–68.
-[^oi-2007]: [OI] “On the Intellect”, J. McGinnis & D. C. Reisman (trans.), in *Classical Arabic Philosophy. An Anthology of Sources*, Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2007, pp. 68–78.
-[^pr-2015]: [PR] “Political Regime”, C. E. Butterworth (trans.), in *The Political Writings II. “Political Regime” and “Summary of Plato’s Laws”*, Ithaca, New York: Cornell University Press, 2015, pp. 27–94.
-[^aristotle-1995]: Aristotle, *The Complete Works of Aristotle*, J. Barnes (ed.), Princeton: Bollingen, 1995.
-[^averroes-2009]: Averroes, [LCD] *Averroes (Ibn Rushd) of Cordoba Long Commentary on the De Anima of Aristotle*, R. C. Taylor (trans.) & T-A. Druart (subed.), New Haven & London: Yale University Press, 2009.
-[^black-2006]: Black, D., 2006, “Knowledge (*‘ilm*) and Certitude (*yaqīn*) in al-Fārābī’s Epistemology”, *Arabic Sciences and Philosophy*, 16: 11–45.
-[^d’ancona-2014]: D’Ancona, C., 2014, “Aux Origines du *Dator Formarum*. Plotin, l’*Épître sur la Science Divine*, et al-Fārābī”, E. Coda & C. Martini Bonadeo (eds.), in *De l’Antiquité tardive au Moyen Âge*, Paris: Vrin, pp. 381–413.
-[^daiber-1997]: Daiber, H., 1997, “Salient Trends of the Arabic Aristotle”, G. Endress & R. Kruk (eds.), in *The Ancient Tradition in Christian and Islamic Hellenism: Studies on the Transmission of Greek Philosophy and Science*, Leiden, Brill, pp. 29–41.
-[^davidson-1992]: Davidson, H., 1992, *Alfarabi, Avicenna, & Averroes, on Intellect. Their Cosmologies, Theories of the Active Intellect, & Theories of Human Intellect*, New York/Oxford: Oxford University Press.
-[^druart-1981]: Druart, T-A., 1981, “al-Fārābī’s Causation of the Heavenly Bodies”, P. Morewedge (ed.), in *Islamic Philosophy and Mysticism*, New York: Caravan Books, pp. 35–45.
-[^druart-1995]: –––, 1995, “Al-Fārābī on the Practical and Speculative Aspects of Ethics”, B. C. Bazán, E. Andujar & L. G. Sbrocchi (eds.), in *Les philosophies morales et politiques au Moyen Âge. Moral and Political Philosophies in the Middle Ages*, I, New York/Ottawa/Toronto: Legas, pp. 476–485.
-[^druart-1997]: –––, 1997, “Al-Fārābī, Ethics, and First Intelligibles”, *Documenti e Studi sulla tradizione filosofica medievale*, 8: 403–423.
-[^eastwood-1979]: Eastwood, B., 1979, “Al-Farabi on Extramission, Intromission, and the Use of Platonic Visual Theory”, *Isis*, 70: 423–425.
-[^freudenthal-2003]: Freudenthal, G., 2003, “La *quiddité de l’âme*, traité populaire néoplatonisant faussement attribute à al-Fārābī: traduction annotée et commentée”, *Arabic Sciences and Philosophy*, 13: 173–237.
-[^galston-1981]: Galston, M., 1981, “Al-Farabi on Aristotle’s Theory of Demonstration”, P. Morewedge (ed.), in *Islamic Philosophy and Mysticism*, New York: Caravan Books, pp. 23–34.
-[^geoffroy-2002]: Geoffroy, M., 2002, “La tradition arabe du Περἰ νοῦ d’Alexandre d’Aphrodise et les origines de la théorie farabienne des quatre degrés de l’intellect”, C. D’Ancona & G. Serra (eds.), in *Aristotele e Alessandro di Afrodisia nella Tradizione Araba*, Padova: Il Poligrafo, pp. 191–231.
-[^hansberger-2008]: Hansberger, R., 2008, “How Aristotle Came to Believe in God-given Dreams”, L. Marlow (ed.), in *Dreaming Across Boundaries: The Interpretation of Dreams in Islamic Lands*, Washington, DC/Cambridge: Ilex Foundation/Center for Hellenic Studies, pp. 50–77.
-[^hansberger-2010]: –––, 2010, “*Kitāb al-Ḥiss wa-l-maḥsūs*: Aristotle’s *Parva Naturalia* in Arabic Guise”, C. Grellard & P.-M. Morel (eds.), in *Les Parva naturalia d’Aristote: Fortune Antique et médiévale*, Paris, Publications de la Sorbonne, pp. 143–162.
-[^janos-2010]: Janos, D., 2010, “The Greek and Arabic Proclus and al-Fārābī’s Theory of Celestial Intellection and its Relation to Creation”, *Documenti e Studi sulla tradizione filosofica medievale*, 19: 19–44.
-[^janos-2012]: –––, 2012, *Method, Structure, and Development in al-Fārābī’s Cosmology*, Leiden/Boston: Brill.
-[^kleven-2023]: Kleven, T.J., 2023, “al-Fārābī on What Is Known Prior to the Syllogistic Arts in His Introductory Letter, the Five Aphorisms, and the Book of Dialectic”, K. Krause, L.X. López-Farjeat, N. Oschamn (eds.), in *Contextualizing Premodern Philosophy. Explorations of the Greek, Hebrew, Arabic, and Latin Traditions*, New York-London: Routledge, pp. 276–92.
-[^lópez-farjeat-2022]: López-Farjeat, L.X., 2022, “Las transformaciones de la doctrina aristotélica del intelecto”, *Scripta Medievalia*, 15(1): 31–64.
-[^mahdi-2001]: Mahdi, M., 2001, *Alfarabi and the Foundation of Islamic Political Philosophy*, Chicago: The University of Chicago Press.
-[^ramón-2018]: Ramón Guerrero, R., 2018, “Sobre la traducción en el mundo árabe oriental y sobre la versión latina de la *Epístola de intellectu* de al-Fārābī”, M. Díez Yañez, C. Heusch, P. Justel & A. Saguar, in *Penser la traducción au Moyen Age*, Lyon: ENS Éditions, pp. 125–37.
-[^streetman-2008]: Streetman, W. C., 2008, “‘If it were God who sent them…’: Aristotle and al-Fārābī on Prophetic Vision”, *Arabic Sciences and Philosophy*, 18: 211–246.
-[^strobino-2019]: Strobino, R., 2019, “Varieties of Demonstration in Alfarabi”, *History and Philosophy of Logic*, 40: 42–62.
-[^taylor-2006]: Taylor, R., 2006, “Abstraction in al-Fārābī”, *Proceedings of the American Catholic Philosophical Association*, 80: 151–168.
-[^vallat-2004]: Vallat, P., 2004, *Farabi et l’École D’Alexandrie*, Paris: J. Vrin.
-[^walzer-1957]: Walzer, R., 1957, “Al-Fārābī’s Theory of Prophecy and Divination”, *The Journal of Hellenic Studies*, 77: 142–148.
 
 ## 参考文献
 
@@ -244,3 +188,59 @@ D. Black 意识到，法拉比关于确实性的前三个条件似乎唤起传�
 阿里·法拉比 | 阿里·法拉比的形而上学 | 阿里·法拉比的逻辑与语言哲学 | 阿里·法拉比的社会与宗教哲学 | 阿芙罗蒂西亚的亚历山大 | 阿拉伯和伊斯兰自然哲学与自然科学 | 阿拉伯和伊斯兰心理学与心灵哲学 | 亚里士多德 | 亚里士多德的心理学 | 伊本·西那（阿维森纳）
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+## 脚注
+
+[^note-1]: “（……）灵魂就是使有生命的实体——我指可容纳生命的东西——得以实现为实体的东西”（al-Fārābī PA: 116）。
+
+[^note-2]: 唯一把自然世界描述为从主动理智流溢出来的论著是《论理智》。然而在《政治体制》和《德性城邦》中，这一任务被归于天球。
+
+[^note-3]: 关于天体的影响与因果性，进一步的分析与讨论见 Druart 1981: 35–45。
+
+[^note-4]: 参见 Hansberger 2008: 73 与 2010: 158；Daiber 1997: 40。关于一种亚里士多德式的解释但方向不同，见 Streetman 2008: 211–246。
+
+[^note-5]: 关于这些第一原理或实践科学的意义的考察，参见 Druart 1995: 476–485 与 1997: 403–423。
+
+[^note-6]: 关于法拉比对抽象的理解的全面分析，见 Taylor 2006: 151–168。
+
+[^note-7]: 关于这一类比的使用，进一步讨论见 Eastwood 1979: 423–425。
+
+[^note-8]: 关于法拉比对证明的理解，见 Galston 1981: 23–34。关于法拉比在《证明书》中提出的不同类型的证明，见 Strobino 2019, 42–62。
+[^li-1938]: [LI] *Risalat fī’l-‘aql* (*Letter on the Intellect*), M. Bouyges (ed.), Beirut: Imprimerie Catholique, 1938.
+[^es-1953]: [ES] *Iḥṣā’ al-Ulūm* (*Enumeration of the Sciences*), González Palencia (ed.), Madrid/Granada: CSIC, 1953.
+[^ir-1956]: [IR] “Introductory *Risalah* on Logic”, D. M. Dunlop (trans.), *The Islamic Quarterly*, 3 (1956–57): 224–235.
+[^ks-1964]: [KS] *Kitāb al-siyāsa al-madaniyya (also Known as the Treatise on the Principles of Beings)* [or *Political Regime*], F. M. Najjar (ed.), Beirut: Imprimerie Catholique, 1964.
+[^lc-1973]: [LC] “The Letter Concerning the Intellect”, A. Hyman (trans.), in *Philosophy in the Middle Ages. The Christian, Islamic, and Jewish Traditions*, Indianapolis & Cambridge: Hackett Publishing Company, 1973, pp. 215–221.
+[^vc-1985]: [VC] *Mabādi’ ārā’ ahl al-madīnah al-fāḍilah* (*al-Farabi on the Perfect State*) [also known as *The Virtuous City*], R. Walzer (trans.), Oxford: Clarendon Press, 1985.
+[^kb-1986]: [KB & KY] *Kitāb al-Burhān wa Kitāb Šarā’iṭ al-yaqīn* (*Book of Demonstration and Book on the Conditions of Certitude*), M. Fakhry (ed.), Beirut: Dar el-Machreq, 1986–1987.
+[^sa-2001]: [SA] “*Fusūl al-Madanī* (Selected Aphorisms)”, C. E. Butterworth (trans.), in *The Political Writings. Selected Aphorisms and Other Texts*, Ithaca/London: Cornell University Press, 2001, pp. 11–67.
+[^pa-2001]: [PA] “The Philosophy of Aristotle”, C. E. Butterworth (trans.), in *Philosophy of Plato and Aristotle*, Ithaca, New York: Cornell University Press, 2001, pp. 71–130.
+[^bd-2007]: [BD] “Selections from Book of Demonstration”, J. McGinnis & D. C. Reisman (trans.), in *Classical Arabic Philosophy. An Anthology of Sources*, Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2007, pp. 63–68.
+[^oi-2007]: [OI] “On the Intellect”, J. McGinnis & D. C. Reisman (trans.), in *Classical Arabic Philosophy. An Anthology of Sources*, Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2007, pp. 68–78.
+[^pr-2015]: [PR] “Political Regime”, C. E. Butterworth (trans.), in *The Political Writings II. “Political Regime” and “Summary of Plato’s Laws”*, Ithaca, New York: Cornell University Press, 2015, pp. 27–94.
+[^aristotle-1995]: Aristotle, *The Complete Works of Aristotle*, J. Barnes (ed.), Princeton: Bollingen, 1995.
+[^averroes-2009]: Averroes, [LCD] *Averroes (Ibn Rushd) of Cordoba Long Commentary on the De Anima of Aristotle*, R. C. Taylor (trans.) & T-A. Druart (subed.), New Haven & London: Yale University Press, 2009.
+[^black-2006]: Black, D., 2006, “Knowledge (*‘ilm*) and Certitude (*yaqīn*) in al-Fārābī’s Epistemology”, *Arabic Sciences and Philosophy*, 16: 11–45.
+[^d’ancona-2014]: D’Ancona, C., 2014, “Aux Origines du *Dator Formarum*. Plotin, l’*Épître sur la Science Divine*, et al-Fārābī”, E. Coda & C. Martini Bonadeo (eds.), in *De l’Antiquité tardive au Moyen Âge*, Paris: Vrin, pp. 381–413.
+[^daiber-1997]: Daiber, H., 1997, “Salient Trends of the Arabic Aristotle”, G. Endress & R. Kruk (eds.), in *The Ancient Tradition in Christian and Islamic Hellenism: Studies on the Transmission of Greek Philosophy and Science*, Leiden, Brill, pp. 29–41.
+[^davidson-1992]: Davidson, H., 1992, *Alfarabi, Avicenna, & Averroes, on Intellect. Their Cosmologies, Theories of the Active Intellect, & Theories of Human Intellect*, New York/Oxford: Oxford University Press.
+[^druart-1981]: Druart, T-A., 1981, “al-Fārābī’s Causation of the Heavenly Bodies”, P. Morewedge (ed.), in *Islamic Philosophy and Mysticism*, New York: Caravan Books, pp. 35–45.
+[^druart-1995]: –––, 1995, “Al-Fārābī on the Practical and Speculative Aspects of Ethics”, B. C. Bazán, E. Andujar & L. G. Sbrocchi (eds.), in *Les philosophies morales et politiques au Moyen Âge. Moral and Political Philosophies in the Middle Ages*, I, New York/Ottawa/Toronto: Legas, pp. 476–485.
+[^druart-1997]: –––, 1997, “Al-Fārābī, Ethics, and First Intelligibles”, *Documenti e Studi sulla tradizione filosofica medievale*, 8: 403–423.
+[^eastwood-1979]: Eastwood, B., 1979, “Al-Farabi on Extramission, Intromission, and the Use of Platonic Visual Theory”, *Isis*, 70: 423–425.
+[^freudenthal-2003]: Freudenthal, G., 2003, “La *quiddité de l’âme*, traité populaire néoplatonisant faussement attribute à al-Fārābī: traduction annotée et commentée”, *Arabic Sciences and Philosophy*, 13: 173–237.
+[^galston-1981]: Galston, M., 1981, “Al-Farabi on Aristotle’s Theory of Demonstration”, P. Morewedge (ed.), in *Islamic Philosophy and Mysticism*, New York: Caravan Books, pp. 23–34.
+[^geoffroy-2002]: Geoffroy, M., 2002, “La tradition arabe du Περἰ νοῦ d’Alexandre d’Aphrodise et les origines de la théorie farabienne des quatre degrés de l’intellect”, C. D’Ancona & G. Serra (eds.), in *Aristotele e Alessandro di Afrodisia nella Tradizione Araba*, Padova: Il Poligrafo, pp. 191–231.
+[^hansberger-2008]: Hansberger, R., 2008, “How Aristotle Came to Believe in God-given Dreams”, L. Marlow (ed.), in *Dreaming Across Boundaries: The Interpretation of Dreams in Islamic Lands*, Washington, DC/Cambridge: Ilex Foundation/Center for Hellenic Studies, pp. 50–77.
+[^hansberger-2010]: –––, 2010, “*Kitāb al-Ḥiss wa-l-maḥsūs*: Aristotle’s *Parva Naturalia* in Arabic Guise”, C. Grellard & P.-M. Morel (eds.), in *Les Parva naturalia d’Aristote: Fortune Antique et médiévale*, Paris, Publications de la Sorbonne, pp. 143–162.
+[^janos-2010]: Janos, D., 2010, “The Greek and Arabic Proclus and al-Fārābī’s Theory of Celestial Intellection and its Relation to Creation”, *Documenti e Studi sulla tradizione filosofica medievale*, 19: 19–44.
+[^janos-2012]: –––, 2012, *Method, Structure, and Development in al-Fārābī’s Cosmology*, Leiden/Boston: Brill.
+[^kleven-2023]: Kleven, T.J., 2023, “al-Fārābī on What Is Known Prior to the Syllogistic Arts in His Introductory Letter, the Five Aphorisms, and the Book of Dialectic”, K. Krause, L.X. López-Farjeat, N. Oschamn (eds.), in *Contextualizing Premodern Philosophy. Explorations of the Greek, Hebrew, Arabic, and Latin Traditions*, New York-London: Routledge, pp. 276–92.
+[^lópez-farjeat-2022]: López-Farjeat, L.X., 2022, “Las transformaciones de la doctrina aristotélica del intelecto”, *Scripta Medievalia*, 15(1): 31–64.
+[^mahdi-2001]: Mahdi, M., 2001, *Alfarabi and the Foundation of Islamic Political Philosophy*, Chicago: The University of Chicago Press.
+[^ramón-2018]: Ramón Guerrero, R., 2018, “Sobre la traducción en el mundo árabe oriental y sobre la versión latina de la *Epístola de intellectu* de al-Fārābī”, M. Díez Yañez, C. Heusch, P. Justel & A. Saguar, in *Penser la traducción au Moyen Age*, Lyon: ENS Éditions, pp. 125–37.
+[^streetman-2008]: Streetman, W. C., 2008, “‘If it were God who sent them…’: Aristotle and al-Fārābī on Prophetic Vision”, *Arabic Sciences and Philosophy*, 18: 211–246.
+[^strobino-2019]: Strobino, R., 2019, “Varieties of Demonstration in Alfarabi”, *History and Philosophy of Logic*, 40: 42–62.
+[^taylor-2006]: Taylor, R., 2006, “Abstraction in al-Fārābī”, *Proceedings of the American Catholic Philosophical Association*, 80: 151–168.
+[^vallat-2004]: Vallat, P., 2004, *Farabi et l’École D’Alexandrie*, Paris: J. Vrin.
+[^walzer-1957]: Walzer, R., 1957, “Al-Fārābī’s Theory of Prophecy and Divination”, *The Journal of Hellenic Studies*, 77: 142–148.

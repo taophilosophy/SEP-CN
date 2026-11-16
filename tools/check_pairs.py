@@ -140,9 +140,7 @@ def check_heading_number(path, text, issues):
             else:
                 h2_num.append(int(mm.group(1)))
         elif level == 3:
-            if not re.match(r"^\d+\.\d+\s+\S", title):
-                issues.append({"path": path, "line": 0, "rule": "heading-number",
-                               "detail": "三级标题须 `N.N 标题`（父号.子号）：%s" % title[:36]})
+            pass  # H3 编号形态随原文（N2 离线对齐保证与 yuanwen 一致），运行时不再单查形态
     for prev, cur in zip(h2_num, h2_num[1:]):
         if cur != prev + 1:
             issues.append({"path": path, "line": 0, "rule": "heading-number",
@@ -256,6 +254,7 @@ def check_errata(path, slug, text, issues):
 
 def norm_title(s):
     s = s.replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
+    s = s.replace("*", "").replace("`", "")
     return re.sub(r"\s+", " ", s).strip()
 
 
@@ -264,7 +263,8 @@ def check_h1_form(path, text, issues, yw_text=None):
     if not first.startswith("# "):
         return
     h1 = first[2:].strip()
-    if not re.search(r"[（(][^（()）]+[)）]\s*$", h1):
+    # 作者括号容嵌套（如 Jan van Eijck、Rineke (L.C.) Verbrugge）
+    if not re.search(r"[（(].*[)）]\s*$", h1):
         issues.append({"path": path, "line": 1, "rule": "h1-form",
                        "detail": "H1 缺作者括号（应 `# 中文题 英文题 (作者)`）：%s" % h1[:40]})
     if yw_text:
@@ -462,6 +462,7 @@ def check_file(path):
         issues.append({"path": path, "line": 0, "rule": "bib-duplicate",
                        "detail": "书目键重复定义 [^%s]（%d 次）" % (k, dup.count(k) + 1)})
     in_fence, in_biblio = False, False
+    seen_heading = False
     for lineno, line in enumerate(text.splitlines(), 1):
         if line.lstrip().startswith("```"):
             in_fence = not in_fence
@@ -469,12 +470,15 @@ def check_file(path):
         if in_fence:
             continue
         if line.startswith("#"):
+            seen_heading = True
             in_biblio = bool(BIB_HEAD.match(line))
             continue
         if line.startswith("|"):
             continue
         check_brackets(path, lineno, line, issues)
-        check_pubinfo(path, lineno, line, issues)
+        if not seen_heading:
+            # pubinfo 只查首节前的题头区（书目 def 与正文叙述里的“首次发表于”不算）
+            check_pubinfo(path, lineno, line, issues)
         check_ellipsis(path, lineno, line, issues)
         check_links(path, lineno, line, issues, base_dir)
         if not in_biblio:

@@ -10,7 +10,7 @@
 
 在《鲁拜集》中，海亚姆挑战宗教学说，暗讽教士的伪善，对宗教信仰的几乎每一个方面都提出质疑，并似乎倡导一种人道主义。难怪有人称他为“东方伏尔泰”（Dole 1901, 81）[^dole-1901]。这一西方形象因维多利亚时代附着于东方的异域、浪漫乃至情色意味而固化，又经爱德华·菲茨杰拉德（Edward FitzGerald）19 世纪的《鲁拜集》英译而广为流传。
 
-## 1 生成期
+## 1. 生成期
 
 阿布·法特赫·欧玛尔·伊本·易卜拉欣·海亚姆（Abu'l Fatḥ ʿUmar ibn Ibrāhīm Khayyām），通称欧玛尔·海亚姆，是西方最负盛名的伊朗诗人-科学家。他约于伊历 439 年/公元 1048 年出生在呼罗珊省尼沙布尔（Nayshābūr，原作“Nayshāpūr”）的沙迪亚赫区，[^note-1] 并于伊历 515 至 520 年/公元 1124 至 1129 年间在当地去世。[^note-2] “Khayyām”一词意为“制帐篷者”，因此他的父亲易卜拉欣或先祖很可能以制帐篷为业。据说海亚姆沉默寡言、内敛谦逊。他不愿招收学生，招致论敌批评，说他没有耐心、脾气暴躁、不愿与人分享学问。考虑到《鲁拜集》中观点的激进性质，他或许只是希望在思想上不引人注目而已。
 
@@ -20,7 +20,7 @@
 
 此后他游历赫拉特、赖伊与伊斯法罕（后者为塞尔柱王朝都城），寻访藏书、推算天文，及至健康每况愈下，才返回尼沙布尔，终老于沙迪亚赫区。
 
-## 2 欧玛尔·海亚姆的哲学著作与思想
+## 2. 欧玛尔·海亚姆的哲学著作与思想
 
 海亚姆著述不多，但其著作——迄今已确认约十四种论著——堪称杰作。它们大体可分三类：数学、哲学与诗歌。其中新近整理出版的哲学著作如下（论著标题中的 *risālah*（论著）一词我们不作翻译）：
 
@@ -179,7 +179,7 @@ Aminrazavi 与 Van Brummelen（2017）接着解释道：“更仔细的解读揭
 
 正是基于“是”与“应当”、“理想”与“现实”的区分，《鲁拜集》与海亚姆哲学观点之间的不一致才应得到理解。海亚姆的《鲁拜集》是一位清醒哲学家的作品，而非享乐主义诗人的作品。哲学家-数学家海亚姆基于宇宙中的既有秩序为有神论辩护；而诗人海亚姆——对他来说世间的苦难始终无法解决——则不谈有神论，也不谈任何类型的终末论教义，以此作为人类存在意义问题的解决之道。
 
-## 3 《鲁拜集》（四行诗）
+## 3. 《鲁拜集》（四行诗）
 
 > 树下一块面饼，一壶美酒，外加一部诗卷——还有你在荒野中为我歌唱——荒野也成了天堂。    （《鲁拜集》，FitzGerald 1859, 30; 2009, 21）
 
@@ -285,7 +285,7 @@ Aminrazavi 与 Van Brummelen（2017）接着解释道：“更仔细的解读揭
 
 > 春去秋来周而复始，生命的树叶一片接一片更替。饮酒吧，莫沉思——如贤者所言：“生之忧是毒，酒是其解。”    （《鲁拜集》，Sa'īdī 1994, 58）
 
-## 4 数学家与科学家海亚姆
+## 4. 数学家与科学家海亚姆
 
 > 哲学中被称作 **数学** 的部分，无论就构想还是就认同而言，都是其中最易把握的部分。就其数值部分而言，这是非常明白的事；至于几何部分，同样，凡体质健全、目光敏锐、直觉出色的人，几乎没有什么是不了解的。（《欧几里得著作若干公设困难注》（*Commentary on the Difficulties of Certain Postulates of Euclid's Work*），Rashed and Vahabzadeh, 2000, 217–218）
 
@@ -354,7 +354,7 @@ $$(a + b)^n = a^n + na^{n-1}b + \cdots + nab^{n-1}+ b^n$$
 
 与他的哲学和数学著作一样，海亚姆在其他学科的文本似乎也受到同时代人与后世学者的认真对待。
 
-## 5 海亚姆在西方
+## 5. 海亚姆在西方
 
 ### 5.1 东方主义与欧洲的海亚姆
 
@@ -370,7 +370,7 @@ $$(a + b)^n = a^n + na^{n-1}b + \cdots + nab^{n-1}+ b^n$$
 
 其他受欧玛尔·海亚姆《鲁拜集》影响的人物还有新英格兰超验主义学派的某些成员，包括亨利·沃兹沃斯·朗费罗（Henry Wadsworth Longfellow）、拉尔夫·沃尔多·爱默生（Ralph Waldo Emerson）与亨利·大卫·梭罗（Henry David Thoreau）（Aminrazavi 2013；关于欧玛尔·海亚姆在西方的完整讨论，见 Aminrazavi 2007, 204–278）[^aminrazavi-2007][^aminrazavi-2013]。
 
-## 6 结论
+## 6. 结论
 
 在上述讨论中我们看到，欧玛尔·海亚姆是一位哲人贤士（*ḥakīm*）、一位精神-实用主义者，其《鲁拜集》应被看作对人的处境的哲学评注。我们还讨论了欧玛尔·海亚姆在数学各分支的开创性工作的突出特征。海亚姆的数学天才不仅产出了迄今最精确的历法，他所处理的问题也直到现代仍然切中肯綮。
 
@@ -389,6 +389,22 @@ $$(a + b)^n = a^n + na^{n-1}b + \cdots + nab^{n-1}+ b^n$$
 #### Other Primary Sources
 
 ### Secondary Works
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=umar-khayyam)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/umar-khayyam/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/umar-khayyam/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=umar-khayyam&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/umar-khayyam/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+- “[Omar Khayyam](https://referenceworks.brillonline.com/entries/encyclopaedia-iranica-online/*-COM_12113)”，《伊朗百科全书在线》（*Encyclopaedia Iranica Online*）。作者：Ḥosayn Maʿṣumi Hamadāni, EIr., Sayyed ʿAli Mirafżali, Jos Biegstraaten, Austin O'Malley, William H. Martin, Sandra Mason, Agnès Lenepveu-Hotz, Hamid Tafazoli, Mario Casari 等。© Trustees of Columbia University in the City of New York.
+- [《欧玛尔·海亚姆鲁拜集》古腾堡计划电子书](https://www.gutenberg.org/files/35260/35260-h/35260-h.htm)（菲茨杰拉德译本）。
+
+## 相关词条
+
+法拉比 | 阿拉伯和伊斯兰哲学中的本质与存在 | 无神论和不可知论 | 拉尔夫·沃尔多·爱默生 | 伊壁鸠鲁主义 | 认识论 | 存在 | 自由意志 | 伊本·西那（阿维森纳） | 个体与个体化 | 新柏拉图主义 | 柏拉图 | 性质 | 斯多亚主义 | 亨利·大卫·梭罗
 
 ## 脚注
 
@@ -563,19 +579,3 @@ $$(a + b)^n = a^n + na^{n-1}b + \cdots + nab^{n-1}+ b^n$$
 [^youschkevitch-1973]: Youschkevitch, A., and B. Rosenfeld, 1973, “al-Khayyāmī,” in *Dictionary of Scientific Biography* (Volume 7), C. Gillispie (ed.), New York: Charles Scribner’s Sons, pp. 323–334.
 
 [^zhukovski-1898]: Zhukovski, V. A., 1898, “ ‘Umar Khayyām and the ‘Wandering’ Quatrains,” E.D. Ross (trans.), *Journal of the Royal Asiatic Society*, 30: 349–366.
-
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=umar-khayyam)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/umar-khayyam/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/umar-khayyam/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=umar-khayyam&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/umar-khayyam/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-- “[Omar Khayyam](https://referenceworks.brillonline.com/entries/encyclopaedia-iranica-online/*-COM_12113)”，《伊朗百科全书在线》（*Encyclopaedia Iranica Online*）。作者：Ḥosayn Maʿṣumi Hamadāni, EIr., Sayyed ʿAli Mirafżali, Jos Biegstraaten, Austin O'Malley, William H. Martin, Sandra Mason, Agnès Lenepveu-Hotz, Hamid Tafazoli, Mario Casari 等。© Trustees of Columbia University in the City of New York.
-- [《欧玛尔·海亚姆鲁拜集》古腾堡计划电子书](https://www.gutenberg.org/files/35260/35260-h/35260-h.htm)（菲茨杰拉德译本）。
-
-## 相关词条
-
-法拉比 | 阿拉伯和伊斯兰哲学中的本质与存在 | 无神论和不可知论 | 拉尔夫·沃尔多·爱默生 | 伊壁鸠鲁主义 | 认识论 | 存在 | 自由意志 | 伊本·西那（阿维森纳） | 个体与个体化 | 新柏拉图主义 | 柏拉图 | 性质 | 斯多亚主义 | 亨利·大卫·梭罗

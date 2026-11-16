@@ -6,7 +6,7 @@
 
 本词条讨论会话含义的形式化说明，它明确考虑了说话者与听话者的互动推理（例如双方关于彼此的信念、话语语境的有关方面等），并把会话含义还原性地解释为有目标的、经济最优的语言使用所产生的结果。与传统的含义分析一样，本词条假定句子具有既存的语义意义，并主要关注一般会话含义（generalized conversational implicatures）。
 
-## 1 双向优选论
+## 1. 双向优选论
 
 ### 1.1 双向优选论与数量含义
 
@@ -59,7 +59,7 @@ $$\begin{align} \neg \exists i' &: \langle f,i'\rangle \gt \langle f,i\rangle \\
 
 为了说明（4）被以非刻板方式解读这一直觉，布吕特纳（Blutner 2000）引入了一个更弱的最优概念，它还考虑到一种 **阻断**（*blocking*）的观念：一个形式在语用上被指派的意义，可以说可以从另一个较不优越的形式那里夺走该意义。在当前情形中，对笨拙的形式（4）而言，刻板解读直观上被更廉价的备选表达式（3）所阻断。形式化地说，一个形式—解读配对 $\langle f,i\rangle$ 是 **弱最优**（weakly optimal）[^note-3] 的，当且仅当既不存在强最优的 $\langle f,i'\rangle$ 使得 $\langle f,i'\rangle \gt \langle f,i\rangle$，也不存在强最优的 $\langle f',i\rangle$ 使得 $\langle f',i\rangle \gt \langle f,i\rangle$。所有强最优的形式—解读配对也都是弱最优的。然而，像 $\langle$(4),$i_{\neg st}\rangle$ 这样不强最优的配对仍可以是弱最优的：由于 $\langle$(4),$i_{st}\rangle$ 与 $\langle$(3),$i_{\neg st}\rangle$ 都不强最优，$\langle$(4),$i_{\neg st}\rangle$ 作为一个（弱）最优配对并无不妥。结果，有标记的（4）将获得非刻板的解读。一般而言，应用上述弱最优定义可能很困难，但耶格（Jäger 2002）给出了一个计算弱最优形式—解读配对的简洁算法。
 
-## 2 含义与博弈论
+## 2. 含义与博弈论
 
 第一个系统地探索用博弈论来说明作为 **策略性推理** 的交流的，是普拉尚特·帕里克（Prashant Parikh），见其 1988 年的学位论文（Parikh 1988）。[^parikh-1988] 帕里克的理论基于他所谓的 **部分信息博弈**（*games of partial information*），围绕博弈论的解概念 **帕累托最优纳什均衡** 展开，并在一系列论文与专著中被精炼并应用于各种现象，包括但不限于含义加强的话语意义（例如 Parikh 1991, 1992, 2000, 2001, 2010, 2019, 2024）[^parikh-1991][^parikh-1992][^parikh-2000][^parikh-2001][^parikh-2010][^parikh-2019][^parikh-2024]。[^parikh-1991] 另一个值得注意的早期贡献是阿舍、谢尔与威廉姆斯（Asher, Sher, and Williams 2001）的工作，他们试图用博弈论思想来合理化格赖斯的会话准则。下面我们聚焦于基于所谓信号博弈中迭代推理的含义研究方法。德克尔与范罗艾（Dekker and van Rooij 2000）以及弗兰克与耶格（Franke and Jäger 2012）探讨了优选论与博弈论之间的关系。史蒂文斯与本茨（Stevens and Benz 2018）给出了博弈论语用学的另一份深刻概述。
 
@@ -104,7 +104,7 @@ $$ [\![ `\text{four}{\text{’}} ]\!] \subset [\![ `\text{three}{\text{’}} ]\!
 
 这一语用推理方案的不同扩展在后续工作中被提出。一种是包含概率选择函数来为智能体的近似理性选择建模，从而允许与实验数据有更直接的联系（概述见 Franke & Jäger 2016, Goodman & Frank 2016）[^franke-2016][^goodman-2016]。[^franke-2016][^goodman-2016] 这类概率语用模型已被应用于许多感兴趣的现象，包括对语境中指称表达式的推理（Frank & Goodman 2012）[^frank-2012]、无知含义（Goodman & Stuhlmüller 2013）[^goodman-2013]、标量含义上的语境效应（Degen et al. 2015）[^degen-2015]、数词的非字面解读（Kao et al. 2014）[^kao-2014]、与特定语调相关的语用意义调制（Bergen & Goodman 2015, Stevens 2016）[^bergen-2016][^bergen-2015][^goodman-2016][^stevens-2016]，以及复杂句中的数量含义（Bergen et al. 2016, Potts et al. 2016）。[^bergen-2016][^potts-2016] 这些语用推理模型还被成功用于自然语言处理应用（Andreas & Klein 2016, Monroe et al. 2017）[^andreas-2016][^monroe-2017] 以及语言学研究的其他领域，如社会语言学（Burnett 2019）。[^burnett-2019] 另一个近来的进路是允许所涉及表达式的语义意义具有不确定性，并允许交谈者的信念与偏好以及“共同基础”（common ground）其他方面具有不确定性（例如 Brochhagen 2017）。[^brochhagen-2017] 最后，在近来的工作中，被说明的语用现象已不仅限于一般会话含义，还包括特殊会话含义（particular conversational implicature）、显义（explicatures）或自由充实（free enrichment）（例如 Parikh 2010）[^parikh-2010]、预设分析（Qing et al. 2016）[^qing-2016]，以及礼貌（例如 Clark 2012, Yoon et al. 2020）。[^clark-2012][^yoon-2020]
 
-## 3 结论
+## 3. 结论
 
 双向优选论与博弈论是相当自然且相似的形式化框架，用于形式化格赖斯关于语境中互动性、目标导向的语用推理的观念。近来的发展转向认知博弈论或演化博弈论，或转向用于经验数据的概率模型。最后，我们指出，与这里所探索的类似的形式技术适用于不同领域中更广泛的问题，例如哲学（如 Parikh 2019）[^parikh-2019]、语言演化（如 Ahern and Clark 2014; Brochhagen, Franke, and Rooij 2018; Carcassi 2020）[^ahern-2014][^brochhagen-2018][^carcassi-2020]，以及计算语言学（如 Vogel et al. 2014, Cohn-Gordon, Goodman, and Potts 2019）[^cohn-gordon-2019][^vogel-2014]。[^vogel-2014]
 

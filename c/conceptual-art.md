@@ -4,7 +4,7 @@
 
 艺术哲学所探讨的理论问题极为广泛，其关注对象也多种多样：从旧石器时代的洞穴壁画到后现代诗歌，从音乐如何传达情感的问题到虚构人物的形而上学地位问题。然而直到最近，哲学对观念艺术（conceptual art），即观念主义（conceptualism）的兴趣都相当稀少。何以如此？毕竟，哲学与观念传统之下的种种艺术类型和艺术创作方式有一个共同点：它们都意在促使你去思考、去追问那些迫切的问 题。那些问题是什么？我们又该如何回答它们？
 
-## 1 概念艺术——它是什么？
+## 1. 概念艺术——它是什么？
 
 ### 1.1 导言
 
@@ -44,7 +44,7 @@
 
 基于所有这些理由，观念艺术作品所采用的再现类型，最好以观念的传递来描述。在观念艺术中，实际运作的再现通常可被视为 **语义的**（*semantic*），而非 **描绘的**（*illustrative*）。也就是说，它意在持有并传达一种特定的意义，而不是去描绘某个场景、人物或事件。即使某件作品运用了描绘性再现，观念艺术也仍然把这种再现用于一种独特的语义用途，即意在再现某种肉眼无法看见的东西。相应地，观念艺术家的任务就是沉思并阐明这一意义——成为“意义的创造者”。
 
-## 2 概念艺术的哲学——它是什么？
+## 2. 概念艺术的哲学——它是什么？
 
 总的说来，观念艺术引发的哲学关注可归为两大类。其一是关于观念艺术本身的具体问题，以及支撑那个驱动观念艺术之方案的主张。因此，哲学考察不仅针对方案及其既定目标的内在一致性与融贯性，也针对上面概述的那些特定信条。举例说，“每一件个别的事物、每一个人、每一个事件都是艺术媒介的可能候选者”这一说法究竟意指什么？这种主张难道不会使我们所熟知的“艺术”范畴变得多余？
 
@@ -56,7 +56,7 @@
 
 因此，对观念艺术的哲学思考，并不只是对某一特定艺术形式的哲学思考。它是对最具修正性的那类艺术的哲学思考——这类艺术把自己的任务视为本质上是深刻哲学性的。下面，我们转向观念艺术促使我们思考的五个更具体的哲学主题。
 
-## 3 五个哲学主题
+## 3. 五个哲学主题
 
 ### 3.1 艺术的定义
 
@@ -144,7 +144,7 @@
 
 知识与认知价值虽是观念方案的核心，却引出一系列需要坚实而有说服力的哲学回答的重要问题。或许，例示仍能通过邀请我们以更丰富、更有想象力的方式介入一件艺术作品所提出的问题而服务于认识论目的——以命题所不能为的方式，让我们以某种特定方式思考有哲学意趣的问题？或许，观念艺术价值的关键，在于与作品之间一种更具挑战性的智识关系，在于与所论观念的真实交涉。探究这条路径，或许终将帮助我们看清：观念艺术能够带来的那种非琐碎的认知价值究竟是什么。
 
-## 4 进一步的问题
+## 4. 进一步的问题
 
 围绕这五个哲学主题，还有更多问题有待在观念艺术的关联中考察。就艺术的界定而言，我们需要处理越来越多的担忧：究竟如何区分艺术与非艺术，甚至这里是否真的有（哪怕只是理论上的）区分可划。也就是说，如果观念艺术有时不仅在知觉上与非艺术无法区分，而且一切东西都被说成是（潜在艺术作品的）一部分，那么不可避免的结局或许是：艺术与非艺术之间根本不可能有一条原则性界限。那么，观念方案是否会导致艺术范畴本身的终结？
 
@@ -159,6 +159,24 @@
 ## 参考文献
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conceptual-art)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/conceptual-art/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/conceptual-art/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=conceptual-art&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/conceptual-art/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [artnet：美术、装饰艺术与设计——艺术世界在线](https://www.artnet.com/)
+* [古根海姆在线馆藏（The Guggenheim Collection Online）](https://www.guggenheim.org/new-york/collections/collection-online/)
+* [现代艺术博物馆（The Museum of Modern Art）](https://www.moma.org/)（MoMA）
+* [泰特在线（Tate Online）](https://www.tate.org.uk/)
+
+## 相关词条
+
+美学的概念 | 审美体验 | 审美判断 | 艺术的定义 | 比厄斯利的美学 | 康德的美学与目的论 | 维特根斯坦的美学
 
 ## 脚注
 
@@ -289,21 +307,3 @@
 [^wollheim-1980]: Wollheim, Richard, 1980. *Art and Its Objects*, Cambridge: Cambridge University Press.
 
 [^wood-2002]: Wood, Paul, 2002. *Conceptual Art*, London: Tate Publishing. Series: Movements in Modern Art.
-
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conceptual-art)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/conceptual-art/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/preview/conceptual-art/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=conceptual-art&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/conceptual-art/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [artnet：美术、装饰艺术与设计——艺术世界在线](https://www.artnet.com/)
-* [古根海姆在线馆藏（The Guggenheim Collection Online）](https://www.guggenheim.org/new-york/collections/collection-online/)
-* [现代艺术博物馆（The Museum of Modern Art）](https://www.moma.org/)（MoMA）
-* [泰特在线（Tate Online）](https://www.tate.org.uk/)
-
-## 相关词条
-
-美学的概念 | 审美体验 | 审美判断 | 艺术的定义 | 比厄斯利的美学 | 康德的美学与目的论 | 维特根斯坦的美学

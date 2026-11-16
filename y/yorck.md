@@ -2,9 +2,9 @@
 
 *首次发表于 2012 年 3 月 19 日；2023 年 9 月 8 日实质修订。*
 
-汉斯·路德维希·保罗·约克·冯·瓦滕堡伯爵（1835—1897）是一位德国哲学家。人们知道他，首先是因为他与友人威廉·狄尔泰（Wilhelm Dilthey，1833—1911）多年的合作，也因为他对马丁·海德格尔（Martin Heidegger，1889—1976）和汉斯-格奥尔格·伽达默尔（Hans-Georg Gadamer，1900—2002）的影响。约克与狄尔泰一道，最先阐发了 **历史性** [*Geschichtlichkeit*] 这一特定概念，把它当作人的 **存在论** 的规定性特征。他特别强调 **存在者层面之物与历史之物的一般差别**。所谓差别，即：人们看作、概念化（或审美观照）为永恒自然、本质或理念的东西，同生命那被感受到的历史节律之间的差别。这一节律，即生命沉浸于、归属于那笼罩一切而不断变动的历史波涛。狄尔泰致力于澄清历史科学相对于自然科学的认识论基础；约克不同，他只以历史生命的存在论为务，尤其关注把世代生命联结起来的那条历史纽带（*syndesmos*）与实效关联（*virtuality*）。以历史生命的优先性为根基，约克持一种断然反形而上学的立场，拒斥一切“永恒之相”（*sub specie aeternitatis*）下的知识主张。与这一立场相伴的，是一种基督教的、尤其是路德宗的上帝观：上帝是历史的、人格的，却又完全超越；面对这位上帝，每一个人都在无可逃脱的唯一性中书写自己的人生故事。约克的思想最初为公众所知，靠的是 1923 年他同狄尔泰《通信集》的身后出版（Yorck 1923）。凭借这部书，他影响所及不止于海德格尔（见 Farin 2016、Fagniez 2013、Dastur 2011、Ruin 1994）[^dastur-2011][^fagniez-2013][^farin-2016][^ruin-1994]和伽达默尔（1990），还有米施、罗特哈克、朔勒姆、布尔特曼、马尔库塞等人。1956 到 1970 年间，约克著述的几部未完成断片陆续刊行（见参考文献）。这些文本既勾勒出约克那套系统的历史心理学与哲学史的轮廓，也包含大量思考，讨论时间性如何在思想与形而上学中遭到部分否定或抑制。个中缘由，在于表象与思想本身固有的空间性质。比起他早期《通信集》中的观点，这些晚期著作受到的关注要少得多。
+汉斯·路德维希·保罗·约克·冯·瓦滕堡伯爵（1835—1897）是一位德国哲学家。人们知道他，首先是因为他与友人威廉·狄尔泰（Wilhelm Dilthey，1833—1911）多年的合作，也因为他对马丁·海德格尔（Martin Heidegger，1889—1976）和汉斯-格奥尔格·伽达默尔（Hans-Georg Gadamer，1900—2002）的影响。约克与狄尔泰一道，最先阐发了 **历史性** [*Geschichtlichkeit*] 这一特定概念，把它当作人的 **存在论** 的规定性特征。他特别强调 **存在者层面之物与历史之物的一般差别**。所谓差别，即：人们看作、概念化（或审美观照）为永恒自然、本质或理念的东西，同生命那被感受到的历史节律之间的差别。这一节律，即生命沉浸于、归属于那笼罩一切而不断变动的历史波涛。狄尔泰致力于澄清历史科学相对于自然科学的认识论基础；约克不同，他只以历史生命的存在论为务，尤其关注把世代生命联结起来的那条历史纽带（*syndesmos*）与实效关联（*virtuality*）。以历史生命的优先性为根基，约克持一种断然反形而上学的立场，拒斥一切“永恒之相”（*sub specie aeternitatis*）下的知识主张。与这一立场相伴的，是一种基督教的、尤其是路德宗的上帝观：上帝是历史的、人格的，却又完全超越；面对这位上帝，每一个人都在无可逃脱的唯一性中书写自己的人生故事。约克的思想最初为公众所知，靠的是 1923 年他同狄尔泰《通信集》的身后出版（Yorck 1923）。凭借这部书，他影响所及不止于海德格尔（见 Farin 2016、Fagniez 2013、Dastur 2011、Ruin 1994）[^dastur-2011][^fagniez-2013][^farin-2016][^ruin-1994]和伽达默尔（1990）[^gadamer-1990]，还有米施、罗特哈克、朔勒姆、布尔特曼、马尔库塞等人。1956 到 1970 年间，约克著述的几部未完成断片陆续刊行（见参考文献）。这些文本既勾勒出约克那套系统的历史心理学与哲学史的轮廓，也包含大量思考，讨论时间性如何在思想与形而上学中遭到部分否定或抑制。个中缘由，在于表象与思想本身固有的空间性质。比起他早期《通信集》中的观点，这些晚期著作受到的关注要少得多。
 
-## 1 约克的生平
+## 1. 约克的生平
 
 保罗·约克·冯·瓦滕堡伯爵 1835 年 3 月 1 日生于柏林。祖父是鼎鼎大名的陆军元帅汉斯·大卫·路德维希·约克·冯·瓦滕堡（Hans David Ludwig Yorck von Wartenburg）。这位元帅当年毅然签署《陶罗根专约》——此举起初未经国王授权，实际上已近于叛国——由此揭开了 1813 年普鲁士反对拿破仑的解放战争，约克元帅也因此成为民族英雄。保罗·约克的父亲路德维希·大卫·约克·冯·瓦滕堡（Ludwig David Yorck von Wartenburg）经管家族在西里西亚克莱因厄尔斯（Klein-Oels）的庄园——那里邻近布雷斯劳，即今天的弗罗茨瓦夫——保罗·约克就在庄园长大。这对父母同柏林内外的许多文学、哲学与艺术圈子过从甚密。相识者有弗里德里希·施莱尔马赫（Friedrich Schleiermacher）、路德维希·蒂克（Ludwig Tieck）、贝蒂娜·冯·阿尼姆（Bettina von Arnim）、亚历山大·冯·洪堡（Alexander von Humboldt）、卡尔·奥古斯特·瓦恩哈根（Karl August Varnhagen）、约翰·古斯塔夫·德罗伊森（Johann Gustav Droysen）、卡尔·弗里德里希·申克尔（Karl Friedrich Schinkel）、恩斯特·冯·维尔登布鲁赫（Ernst von Wildenbruch），凡此种种，仅举数例。约克·冯·瓦滕堡家族位列普鲁士与德意志帝国的统治精英；约克毕生对历史与历史实在的热情，正须放在这一传记背景下来看。
 
@@ -14,7 +14,7 @@
 
 自 1890 年代初，约克着手写一部论赫拉克利特的手稿（Yorck 1896/97）和一部题为《意识立场与历史》的书（Yorck 1892–1897）。[^note-1] 临终前，约克声明两书俱未完成、不宜出版。两书都在他身后刊行；用卡尔弗里德·格林德（Karlfried Gründer，1970, 55）的话说，它们不过是“伟大哲学著作”初稿的“草图”。保罗·约克 1897 年 9 月 12 日卒于克莱因厄尔斯。他的孙子彼得·约克伯爵研读过祖父未完成的手稿，后来成为克莱绍圈的核心成员——正是那个德国抵抗小组，策动了 1944 年 7 月 20 日行刺希特勒的未遂行动。
 
-## 2 与狄尔泰的通信
+## 2. 与狄尔泰的通信
 
 1923 年，约克与狄尔泰的《通信集》（Yorck 1923，下文简称 CR）作为两人哲学友谊的一座“纪念”问世（CR, VI）。这部书确立的东西有二：其一，约克堪与狄尔泰比肩，是他忠实的对话者、其事业的热忱合作者；[^note-2] 其二，约克本人就是一位哲学家、一位时代敏锐的观察者，自有其独立地位。
 
@@ -68,7 +68,7 @@
 
 约克频频而醒目地使用 **无根基性**（*Bodenlosigkeit*）、**无根基的思想**（*bodenloses Denken*）这样的字眼，来刻画文艺复兴以来科学技术文明那种单面的理智主义（CR, pp. 39, 103, 250, 230, 143）。于是有人发问：约克对扎根性[*Bodenständigkeit*]的偏好，及其政治意涵，究竟当作何解？[^note-8]
 
-## 3 关于历史与心理学的哲学断片
+## 3. 关于历史与心理学的哲学断片
 
 约克去世半个多世纪后，他的三部哲学断片——皆写于生命最后六年——在 1956 至 1970 年间陆续出版（见参考文献）。其中最重要的一部，题为《意识立场与历史》（*Bewusstseinsstellung und Geschichte*，英译“Stances of Consciousness and History”；下文简称 ST）。它讨论人类历史的源泉与发展，为约克在《通信集》里提过的那些观点提供哲学奠基，并作更细致的探究。下一节呈现这部体系性断片的要点。
 
@@ -176,6 +176,68 @@
 
 > 如果当下这个时代还要有一个历史性的未来[*historische Zukunft*]，那么路德就应当、也必须比康德更切合当下——我这样讲，你不会同意的。（CR, p. 145）
 
+## 参考文献
+
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Primary Literature
+
+#### Works by Paul Yorck von Wartenburg
+
+[^wartenburg-1866]: 1866, *Die Katharsis des Aristoteles und der Oedipus Coloneus des Sophokles*, Berlin: Verlag von Wilhelm Hertz, Bessersche Buchhandlung, reprinted with the title *Examsarbeit von 1865* in Karfried Gründer, 1970, *Zur Philosophie des Grafen Paul Yorck von Wartenburg, Göttingen:* Vandenhoeck & Rupprecht, pp. 154–186.
+[^wartenburg-1891]: 1891, *Das Fragment von 1891*, in Karfried Gründer, 1970, *Zur Philosophie des Grafen Paul Yorck von Wartenburg*, Göttingen: Vandenhoeck & Rupprecht, pp. 308–353.
+[^wartenburg-1892]: 1892–1897, *Bewusstseinsstellung und Geschichte* [*Stances of Consciousness and History*]. in Iring Fetscher, 1991 (2nd edition), 1956 (1st edition), Hamburg: Felix Meiner, pp. 3–156. [Abbreviated as **ST** in the article above.]
+[^wartenburg-1896]: 1896/97, *Heraklit*, Iring Fetscher (ed.) in *Archiv für Philosophie*, 9 (1959): 214–289.
+[^wartenburg-1923]: 1923, *Briefwechsel zwischen Wilhelm Dilthey und dem Grafen Yorck v. Wartenburg* [*Correspondence between Wilhelm Dilthey and Count Yorck von Wartenburg*], with a preface by Sigrid v. d. Schulenburg, Erich Rothacker (ed.), Halle (Saale): Max Niemeyer. [Abbreviated as **CR** in the article above.] [A photo-mechanic reproduction of the 1923 edition has come out in 2011, Bremen: Europäischer Hochschulverlag.]
+[^wartenburg-1939]: 1939 (2nd edition), 1927 (1st edition), Darmstadt, *Italienisches Tagebuch*, Sigrid von der Schulenburg (ed.), Leipzig: Koehler & Amelang.
+
+#### Other Primary Literature
+
+### Secondary Literature
+
+[^hegel-1952]: Hegel, G.W.F., 1952 (1807), *Phänomenologie des Geistes*, Hamburg: Felix Meiner.
+[^heidegger-1977]: Heidegger, Martin, 1977, *Sein und Zeit* (*Gesamtausgabe*, Volume 2), Frankfurt: Vittorio Klostermann.
+[^heidegger-2004]: –––, 2004, *Der Begriff der Zeit* (*Gesamtausgabe*, Volume 64), Frankfurt: Vittorio Klostermann.
+[^dilthey-1959]: Dilthey, Wilhelm, 1959, *Einleitung in die Geisteswissenschaften* (*Gesammelte Schriften*, Volume I), Stuttgart: B.G.Teubener.
+[^dastur-2011]: Dastur, Françoise, 2011, "Paul Yorck von Wartenburg, penser de l’historicité," in C. Bouton and B. Bégout (eds.), *Penser l’histoire. De Karl Marx au sciècles catastrophes*, Paris: Editions de l’éclat, pp. 11-32.
+[^donadio-2008]: Donadio, Francesco, 2008, *L’onda Lunga Della Storicità: Studi sulla religione in Paul Yorck von Wartenburg*, Napoli: Bibliopolis.
+[^fagniez-2013]: Fagniez, Guillaume, 2013, "Comprendre l’historicité: Heidegger et la correspondance de Dilthey et Yorck," in T. Keiling (ed.), *Heideggers Marburger Zeit: Themen, Argumente, Konstellationen*, Frankfurt: Vittorio Klostermann, pp. 269-288.
+[^farin-2016]: Farin, Ingo, 2016, “The Different Notions of History in Heidegger’s Work” in Michael Bowler and Ingo Farin (eds.), *Hermeneutical Heidegger*, Evanston: Northwestern University Press, pp. 23–69.
+[^fetscher-1991]: Fetscher, Iring, 1991 (2nd edition), 1956 (1st edition), “Einleitung” in Graf Paul Yorck von Wartenburg, *Bewusstseinsstellung und Geschichte*, Iring Fetscher (ed.), Hamburg: Felix Meiner Verlag, pp. xix–xlvii.
+[^gadamer-1958]: Gadamer, Hans-Georg, 1958, “*Geschichtlichkeit*” in *Die Religion in Geschichte und Gegenwart.* Handwörterbuch für Theologie und Religionswissenschaft. Vol. II, Kurt Galling (ed.), Tübingen: J.C. Mohr (Paul Siebeck), pp. 1496–1498.
+[^gadamer-1990]: –––, “Der Begriff des Lebens bei Husserl und Graf Yorck,” 1990 in *Wahrheit und Methode: Grundzüge einer philosophischen Hermeneutik*, Tübingen: J.C.B.Mohr (Paul Siebeck), pp. 246–258.
+[^gadamer-1995]: –––, 1995, *Hermeneutik im Rückblick* (*Gesammelte Werke*, Vol. 10), Tübingen: J.C.B. Mohr.
+[^grosse-1997]: Grosse, Jürgen, 1997/98, “Metahistorie statt Geschichte” *Dilthey Jahrbuch*, XI: 203–237.
+[^gründer-1965]: Gründer, Karlfied, 1965, “Entsehungsgeschichtliche Voraussetzungen für Yorcks Frühschriften” in *Colloquium Philosophicum*: Joachim Ritter zum 60. Geburtstag, Basel-Stuttgart, pp. 58–71.
+[^gründer-1970]: –––, 1970, *Zur Philosophie des Grafen Paul Yorck von Wartenburg*, Göttingen: Vandenhoeck & Rupprecht.
+[^hünermann-1967]: Hünermann, Peter, 1967, *Der Durchbruch Geschichtlichen Denkens im 19. Jahrhundert: Johann Gustav Droysen, Wilhelm Dilthey, Graf Paul Yorck von Wartenburg. Ihr Weg und ihre Weisung für die Theologie*. Freiburg: Herder.
+[^jünger-1962]: Jünger, Friedrich Georg, 1962, “Graf Paul von Wartenburg,” in *Sprache und Denken*, Frankfurt Am Main: Vittorio Klostermann, pp. 162–212.
+[^kaufmann-1928]: Kaufmann, Fritz, 1928, “Die Philsophie des Grafen Paul Yorck von Wartenburg” *Jahrbuch für Philosophie und Phänomenologische Forschung*, IX: 1–149.
+[^kaufmann-1930]: –––, 1930, “Yorck’s Geschichtsbegriff” in *Deutsche Vierteljahresschrift für Literaturwissenschaft und Geistegeschichte*, 8: 306–323.
+[^kaufmann-1959]: –––, 1959, “*Wiederbegegnung mit dem Grafen Yorck*,” *Archiv für Philosophie*, 9: 177–213.
+[^krakowski-1996]: Krakowski, Jerezy & Scholtz, Gunter, 1996, *Dilthey und Yorck: Philosophie und Geisteswissenschaften im Zeichen von Geschichtlichkeit und Historismus*, Wrocław: Wydawnictwo Uniwersytetu Wrocławskiego, Acta Universitatis Wratislaviensis No. 1788.
+[^renthe-fink-1968]: Renthe-Fink von, Leonhard, 1968, *Geschichtlichkeit: Ihr terminologischer und begrifflicher Ursprung bei Hegel, Haym, Dilthey und Yorck*, Göttingen: Van Den Hoeck & Rupprecht.
+[^ruin-1994]: Ruin, Hans, 1994, “Yorck von Wartenburg and the Problem of Historical Existence,” *The Journal of the British Society for Phenomenology*, 25(2): 111–130
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=yorck)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/yorck/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=yorck&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/yorck/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+[欢迎向作者提出建议。]
+
+## 相关词条
+
+威廉·狄尔泰 | 汉斯-格奥尔格·伽达默尔 | 格奥尔格·威廉·弗里德里希·黑格尔 | 马丁·海德格尔 | 历史哲学 | 埃德蒙德·胡塞尔 | 弗里德里希·丹尼尔·恩斯特·施莱尔马赫
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
 ## 脚注
 
 [^note-1]: 关于手稿的断代，见 Fetscher（1991, XLIX/L）。
@@ -251,58 +313,3 @@
 > 但你知道我对悖论之物的偏爱。我的理由是：悖论本就是真理的一种性质；而公论[*communis opinio*]不过是概括性半真理的粗浅沉淀，与真理毫无共同之处。它同真理的关系，恰似闪电过后残留的硫磺烟气。真理从来不是元素性的。（CR, 249）
 
 [^note-24]: 与约克不谋而合，海德格尔对狄尔泰步康德与施莱尔马赫后尘、为“精神科学”而驾驭基督教历史生命的做法，也抱有类似的保留。见 Martin Heidegger, *Phänomenologie des Religiösen Lebens*, (Gesamtausgabe, Volume 60), Frankfurt: Vittorio Klostermann, 1995, p. 164；以及 Heidegger, *Phänomenologie der Anschauung und des Ausdrucks*, (Volume 59), Frankfurt: Vittorio Klostermann, 2007, pp. 163–168。
-
-## 参考文献
-
-**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
-
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
-
-### Primary Literature
-
-#### Works by Paul Yorck von Wartenburg
-
-#### Other Primary Literature
-
-### Secondary Literature
-
-[^hegel-1952]: Hegel, G.W.F., 1952 (1807), *Phänomenologie des Geistes*, Hamburg: Felix Meiner.
-[^heidegger-1977]: Heidegger, Martin, 1977, *Sein und Zeit* (*Gesamtausgabe*, Volume 2), Frankfurt: Vittorio Klostermann.
-[^heidegger-2004]: –––, 2004, *Der Begriff der Zeit* (*Gesamtausgabe*, Volume 64), Frankfurt: Vittorio Klostermann.
-[^dilthey-1959]: Dilthey, Wilhelm, 1959, *Einleitung in die Geisteswissenschaften* (*Gesammelte Schriften*, Volume I), Stuttgart: B.G.Teubener.
-[^dastur-2011]: Dastur, Françoise, 2011, "Paul Yorck von Wartenburg, penser de l’historicité," in C. Bouton and B. Bégout (eds.), *Penser l’histoire. De Karl Marx au sciècles catastrophes*, Paris: Editions de l’éclat, pp. 11-32.
-[^donadio-2008]: Donadio, Francesco, 2008, *L’onda Lunga Della Storicità: Studi sulla religione in Paul Yorck von Wartenburg*, Napoli: Bibliopolis.
-[^fagniez-2013]: Fagniez, Guillaume, 2013, "Comprendre l’historicité: Heidegger et la correspondance de Dilthey et Yorck," in T. Keiling (ed.), *Heideggers Marburger Zeit: Themen, Argumente, Konstellationen*, Frankfurt: Vittorio Klostermann, pp. 269-288.
-[^farin-2016]: Farin, Ingo, 2016, “The Different Notions of History in Heidegger’s Work” in Michael Bowler and Ingo Farin (eds.), *Hermeneutical Heidegger*, Evanston: Northwestern University Press, pp. 23–69.
-[^fetscher-1991]: Fetscher, Iring, 1991 (2nd edition), 1956 (1st edition), “Einleitung” in Graf Paul Yorck von Wartenburg, *Bewusstseinsstellung und Geschichte*, Iring Fetscher (ed.), Hamburg: Felix Meiner Verlag, pp. xix–xlvii.
-[^gadamer-1958]: Gadamer, Hans-Georg, 1958, “*Geschichtlichkeit*” in *Die Religion in Geschichte und Gegenwart.* Handwörterbuch für Theologie und Religionswissenschaft. Vol. II, Kurt Galling (ed.), Tübingen: J.C. Mohr (Paul Siebeck), pp. 1496–1498.
-[^gadamer-1990]: –––, “Der Begriff des Lebens bei Husserl und Graf Yorck,” 1990 in *Wahrheit und Methode: Grundzüge einer philosophischen Hermeneutik*, Tübingen: J.C.B.Mohr (Paul Siebeck), pp. 246–258.
-[^gadamer-1995]: –––, 1995, *Hermeneutik im Rückblick* (*Gesammelte Werke*, Vol. 10), Tübingen: J.C.B. Mohr.
-[^grosse-1997]: Grosse, Jürgen, 1997/98, “Metahistorie statt Geschichte” *Dilthey Jahrbuch*, XI: 203–237.
-[^gründer-1965]: Gründer, Karlfied, 1965, “Entsehungsgeschichtliche Voraussetzungen für Yorcks Frühschriften” in *Colloquium Philosophicum*: Joachim Ritter zum 60. Geburtstag, Basel-Stuttgart, pp. 58–71.
-[^gründer-1970]: –––, 1970, *Zur Philosophie des Grafen Paul Yorck von Wartenburg*, Göttingen: Vandenhoeck & Rupprecht.
-[^hünermann-1967]: Hünermann, Peter, 1967, *Der Durchbruch Geschichtlichen Denkens im 19. Jahrhundert: Johann Gustav Droysen, Wilhelm Dilthey, Graf Paul Yorck von Wartenburg. Ihr Weg und ihre Weisung für die Theologie*. Freiburg: Herder.
-[^jünger-1962]: Jünger, Friedrich Georg, 1962, “Graf Paul von Wartenburg,” in *Sprache und Denken*, Frankfurt Am Main: Vittorio Klostermann, pp. 162–212.
-[^kaufmann-1928]: Kaufmann, Fritz, 1928, “Die Philsophie des Grafen Paul Yorck von Wartenburg” *Jahrbuch für Philosophie und Phänomenologische Forschung*, IX: 1–149.
-[^kaufmann-1930]: –––, 1930, “Yorck’s Geschichtsbegriff” in *Deutsche Vierteljahresschrift für Literaturwissenschaft und Geistegeschichte*, 8: 306–323.
-[^kaufmann-1959]: –––, 1959, “*Wiederbegegnung mit dem Grafen Yorck*,” *Archiv für Philosophie*, 9: 177–213.
-[^krakowski-1996]: Krakowski, Jerezy & Scholtz, Gunter, 1996, *Dilthey und Yorck: Philosophie und Geisteswissenschaften im Zeichen von Geschichtlichkeit und Historismus*, Wrocław: Wydawnictwo Uniwersytetu Wrocławskiego, Acta Universitatis Wratislaviensis No. 1788.
-[^renthe-fink-1968]: Renthe-Fink von, Leonhard, 1968, *Geschichtlichkeit: Ihr terminologischer und begrifflicher Ursprung bei Hegel, Haym, Dilthey und Yorck*, Göttingen: Van Den Hoeck & Rupprecht.
-[^ruin-1994]: Ruin, Hans, 1994, “Yorck von Wartenburg and the Problem of Historical Existence,” *The Journal of the British Society for Phenomenology*, 25(2): 111–130
-
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=yorck)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/yorck/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=yorck&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/yorck/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-[欢迎向作者提出建议。]
-
-## 相关词条
-
-威廉·狄尔泰 | 汉斯-格奥尔格·伽达默尔 | 格奥尔格·威廉·弗里德里希·黑格尔 | 马丁·海德格尔 | 历史哲学 | 埃德蒙德·胡塞尔 | 弗里德里希·丹尼尔·恩斯特·施莱尔马赫
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

@@ -4,7 +4,7 @@
 
 没有哪部科学著作比牛顿的《原理》更受哲学家关注。但关注的理由，以及由此形成的关注焦点，一个世纪与另一个世纪之间已大不相同。在 20 世纪，哲学家是在爱因斯坦广义相对论这一新的引力理论背景下看待《原理》的。主要问题涉及牛顿引力理论与爱因斯坦引力理论的关系，以及用后者取代前者的需要说明了科学知识的本性、范围与限度。相比之下，在 18 世纪的大部分时间里，牛顿的引力理论仍处于争论之中，尤其是因为不存在产生引力的机制，特别是不存在接触机制。哲学文献也相应地努力澄清并解决如下争论：《原理》是否应当被视为在方法论上有充分根据。到 1790 年代，在从事轨道力学与物理大地测量研究的人当中，牛顿的引力理论已确立起来；这使《原理》成为科学在最成功状态下的典范。因此，19 世纪对《原理》的哲学兴趣集中到牛顿如何取得这一成功：一部分是为了刻画所获得的知识，一部分是为了在其他研究领域追求类似的知识。不幸的是，三个世纪中相当大一部分哲学文献都受制于一幅过于简单的《原理》图景。本词条的主要目标，是用一幅更公正地对待《原理》内容与方法论之丰富性的图景取代那幅简单化图景。
 
-## 1 概观：这部著作的重要性
+## 1. 概观：这部著作的重要性
 
 回顾起来，在现代物理学与天文学的发展中，没有哪部著作比牛顿的《原理》更具开创性。它断定使行星留在轨道上的力与地面重力同属一类，从而永远终结了至少可追溯至亚里士多德的一种观点：天界需要一门科学，月下界则需要另一门。正如第一版序言所提出的，牛顿引力理论的最终成功，使辨认自然的基本力并用定律刻画这些力成为物理学的主要追求。这一理论的成功还带来一种新的精密科学观念：在这种观念下，观察与理论之间每一个系统性的差异，无论多么微小，都在告诉我们关于世界的重要事情。而且，一旦人们清楚引力理论为精确刻画复杂轨道运动提供了远比观察更有效的手段——正如牛顿在《原理》中处理月球轨道时所提出的那样——物理理论就在回答关于世界的具体问题方面取得了相对于观察的优先地位。
 
@@ -28,7 +28,7 @@
 
 在 18 世纪的大部分时间里，《原理》向哲学家提出的主要挑战，围绕的是：在除超距作用之外没有机制使这些力起作用的情况下，该如何理解一种关于力的数学理论。然而到那个世纪的最后几十年，已几乎没有余地再去质疑引力是否确实按照牛顿所阐明的定律起作用、是否确实足以说明天体与我们海洋的一切运动。没有人能否认，一门科学已经出现，它至少在某些方面远远超出此前的一切，以至于独自成为一般科学终极的典范。于是哲学家的挑战变成：首先阐明这门科学所获得的知识的精确本性与限度，其次说明这一非凡进展在方法论上是如何取得的，以期使其他探究领域能够效仿。
 
-## 2 《原理》的历史背景
+## 2. 《原理》的历史背景
 
 一种常见的看法是：牛顿所做的，是提出他的引力理论来解释开普勒已经确立的轨道运动“定律”；而引力定律的普遍性最终把对开普勒运动的偏离解释为行星之间的引力相互作用。这种看法在好几处都是错的，最直接的一点是：开普勒的“定律”在《原理》之前根本没有确立。开普勒在 17 世纪头二十年提出的计算轨道运动的规则，确实在精度上比此前任何东西都取得了惊人提高。然而开普勒的规则对月球运动并未给出同等精度，即便在行星的情形中，计算位置有时也会偏差达月球宽度的四分之一。更重要的是，到 1680 年，已经提出了若干其他计算轨道的进路，达到了与开普勒大致相同、却并不完全够用的精度。特别是，牛顿熟悉七种不同的计算行星轨道的进路，精度都大致相同。其中只有两种——开普勒的与杰里迈亚·霍罗克斯的——使用开普勒的面积规则（行星相对于太阳在相等时间内扫过相等面积）来确定行星在轨迹上的位置。伊丝玛埃尔·布利奥以及追随他的托马斯·斯特里特（牛顿最初正是从后者的《卡罗来纳天文学》学习轨道天文学）用几何作图取代了面积规则。文森特·温在 1660 年代末采用了另一种几何作图，此前他曾用过一个绕椭圆空焦点摆动的等角运动点；尼古劳斯·梅卡托在 1676 年又添加了一种几何作图。[^note-4] 在这六种替代进路中，只有霍罗克斯以及追随他的斯特里特认真对待开普勒的 3/2 次幂规则（行星周期随其到太阳平均距离的立方之平方根变化），以至于用周期而非位置观测来确定平均距离。[^note-5]
 
@@ -64,7 +64,7 @@
 
 牛顿写作《原理》时的历史背景，涉及一组问题，而第一版的读者认为该书正是在处理这些问题：应当优先采用开普勒的轨道计算进路，还是某种其他进路？是否存在某种经验依据来解决哥白尼体系与第谷体系之争？与计算出的运动相比，真实运动是否复杂而不规则？数学天文学能否成为一门精确科学？当时《原理》的读者没有一个能得益于看到牛顿如何把这些在“哥白尼附释”中串起来，因为该附释直到两百年后才付印。[^note-12] 然而，没有任何东西比这一点更清楚地表明：《原理》范围的扩大，源于牛顿执意要从按他估计充其量只高度近似成立的证据中，得出有资格被称为精确的结论。这就是为什么“哥白尼附释”为阅读《原理》提供了最富启发性的语境。同样，它长期不为人知，也有助于解释《原理》为何一般被读得如此简单化。
 
-## 3 《原理》的三个版本^{[[^note-13]]}
+## 3. 《原理》的三个版本^{[[^note-13]]}
 
 牛顿最初计划写一部两卷本著作：第一卷由从运动定律数学地推出的命题组成，其中包括少数关于阻力作用下运动的命题；第二卷按笛卡尔《原理》的方式写作甚至排版，用这些命题来展开世界体系。到 1686 年中，牛顿已改为一卷三册的结构，第二卷专门讨论阻性介质中的运动。看来使他确信这一主题需要单独一卷的，是摆的衰减实验有望让他测量阻力随速度的变化。[^note-14] 当胡克就平方反比力提出优先权问题时，牛顿放弃了最后一卷原来的版本，改为以一系列数学论证的命题来呈现世界体系，其中许多命题对读者的要求远高于原版本中的任何内容。原版“世界体系”在牛顿去世后的次年付印。原版第一卷的完整文本从未被发现。
 
@@ -84,7 +84,7 @@
 
 第三版于 1726 年问世，距第一版三十九年。其中的大部分改动要么是精细化的改进，要么是新数据。实质性的最重要修订是关于表面重力随纬度变化的，牛顿此时断定，数据表明地球具有均匀密度。后来的版本与译本都以第三版为底本。特别值得注意的是两位耶稣会士勒瑟尔与雅基耶在 1739—42 年出版的版本，因为它逐命题地附有评注，其中许多运用莱布尼茨式微积分，篇幅大致与牛顿正文相当。
 
-## 4 “定义”与绝对空间、时间及运动
+## 4. “定义”与绝对空间、时间及运动
 
 《原理》以一个题为“定义”的部分开篇，其中包括牛顿关于绝对空间、时间与运动的讨论。在《原理》出版后的三个世纪里，没有哪一部分比它受到哲学家更多的讨论。然而不幸的是，一种不细读文本的倾向，使这些讨论中很大一部分造成了不必要的混乱。[^note-18]
 
@@ -116,7 +116,7 @@
 
 同样，认为《原理》中的经验推理并不预设一种无拘束形式的绝对空间，这一主张也不应理解为否认牛顿曾把绝对空间当作他概念化对惯性运动之真实偏离的手段。上文所引运动定律的推论 5，使他有条件引入惯性系的概念，但他没有这样做，也许部分是因为推论 6 表明，即便用惯性系来定义对惯性运动的偏离也不够。不过，在经验上，《原理》遵循天文学实践，把天体运动参照于恒星；而它的一个关键经验结论（第三卷命题 14 推论 1）是：恒星相对于我们行星系统的重心处于静止。
 
-## 5 牛顿的运动定律
+## 5. 牛顿的运动定律
 
 “运动定律”这一名称，在 1660 年代末的《皇家学会哲学汇刊》中曾用来指克里斯托弗·雷恩、约翰·沃利斯与克里斯蒂安·惠更斯提出的、支配碰撞下运动的原理。牛顿在《原理》中给出的三条定律中，只有第一条与这些原理中的任何一条相对应，而且连它的表述也明显不同：“每个物体都保持其静止状态或沿直线匀速运动的状态，除非有外加力迫使它改变该状态”。这条普遍原理在牛顿的引导下后来被称为惯性原理或惯性定律，自皮埃尔·伽桑狄 1641 年的《论由运动者传递的运动》以来就已印行。牛顿大概是在阅读笛卡尔《原理》时首次在印刷物中遇到它；在那里，它由他的头两条“自然定律”所包含，并立即被用来断言“任何作圆周运动的物体都不断倾向于离开它所描画的圆的中心”。这正是笛卡尔断定必须有某种看不见的物质（即涡旋）与行星接触的理由，否则行星就会沿直线飞离。它也是惠更斯在 1673 年《摆钟论》中发展其“落体与它们在摆线上的运动”理论时所依据的三条假设中的第一条：“如果没有重力，并且空气不阻碍物体运动，那么任何物体都将以匀速沿直线继续其既定运动”。牛顿在《论运动》的登记本中把它当作一条“假设”采用，尽管表述未提及外加力：“每个物体在仅受其固有本性之力作用时，都沿直线匀速无限运动，除非有某种外来的东西阻碍它”。《原理》中的表述与《论运动》中的表述——以及就此而言，与所有更早的印行表述——的显著差别，就在于对外加力的提及。在所有更早的表述中，任何偏离直线匀速运动都蕴含存在某种物质性的障碍；而在《原理》中更抽象的表述里，蕴含的是外加力的存在，至于这种力如何实现，则悬而未决。
 
@@ -146,7 +146,7 @@
 
 除了把第二定律的 *F=ma* 形式归给《原理》之外，关于牛顿三条运动定律最普遍的误解，是以为它们本身就足以解决经典力学中的一切问题。那些在 18 世纪发展我们今天所称牛顿力学的人，一直都很清楚这离事实有多远。牛顿的三条运动定律足以解决涉及欧拉所称“质点”的问题。的确，一旦给定了作用在一个质点上的力，三条定律对所有质点都成立，包括位于物体内部的质点。但对于一整串涉及并非质点之物体（无论刚性与否）的著名问题，三条定律必须由进一步的原理来补充。当时也许最简单的一个突出例子，是绳上有两个（或更多）质点摆锤的小弧圆摆问题。惠更斯在《摆钟论》中题为“振动中心”的部分解决了这个问题，并在此过程中为用附加质量来调节摆钟提供了理论基础。[^note-28] 为什么必须补充牛顿三条运动定律才能解决这个问题，很容易看出。考虑一个在刚性绳的长度上带有两个质点的摆。外侧质点会使内侧质点的速度减小，相对于没有外侧质点时它会有的速度；而内侧质点则使外侧质点的速度增大。换句话说，运动沿着连接它们的绳段从内侧质点传递到外侧质点。一旦知道沿绳传递给每个质点的力，牛顿的三条运动定律就足以确定运动。但他的三条定律不足以确定沿绳传递的这个力是什么。要解决这个问题，需要超出它们之外的某种其他原理。在解决这个问题时应优先采用哪条原理，成为贯穿 18 世纪大部分时间的一个著名问题。[^note-29]
 
-## 6 《原理》第一卷
+## 6. 《原理》第一卷
 
 第一卷发展了一种向心力下运动的数学理论。按照欧几里得传统，从运动定律数学地推出的命题被标为定理或问题。定理都具有“如果—那么”形式，使它们能够在给定前件时授权推断后件。[^note-30] 但问题实际上也具有“如果—那么”的逻辑形式，因为它们所提供的（几何风格的）解，授权从给定信息推断未知。因此，思考这些推导出的命题的最佳方式，是把它们看作“推理许可证”。作为这样的东西，这些命题分为三类：（1）从关于运动的信息授权得出关于力的结论；（2）从关于力的信息授权得出关于运动的结论；（3）从关于指向物体各部分的（分）力的信息，授权得出关于指向整个物体的（合）力的结论。
 
@@ -188,7 +188,7 @@
 
 这并不是第一卷中唯一一处牛顿不厌其烦地导出精确“如果……则……”命题的“如果……*quam proxime*，则……*quam proxime*”版本的地方。命题 1 与命题 2 确立：运动纯粹由向心力支配，当且仅当在相等时间内扫过相等面积。命题 3 的第二与第三推论则得出：运动*quam proxime*纯粹由向心力支配，当且仅当*quam proxime*在相等时间内扫过相等面积。同样，在确立开普勒的 3/2 次幂规则对同心匀速圆周运动精确成立、当且仅当在所有轨道上精确的平方反比向心力成立之后，他又补充了概括：“而且普遍地，如果周期时间与半径 *R* 的任意幂 *Rⁿ* 成正比……那么向心力将反比于半径的幂 *R*²*ⁿ*⁻¹，反之亦然。”[^note-37] 这一结果对 *n* 的非整数值也成立；因此又得出：对匀速圆周轨道，3/2 次幂规则*quam proxime*成立，当且仅当向心力*quam proxime*是平方反比的。这些命题——牛顿不厌其烦地表明它们仍以*quam proxime*形式成立——正是他在第三卷中用来断定：使物体留在我们行星系统轨道上的力全都是向心且平方反比的。（相比之下，如前所述，“如果是精确的开普勒椭圆，则精确平方反比”这一命题为真；但“如果是*quam proxime*的开普勒椭圆，则*quam proxime*平方反比”这一命题在椭圆偏心率不大时并不为真，详见 Smith, 2002。）不注意第一卷中的这些*quam proxime*形式，就会看不到牛顿在第三卷中所用近似推理的微妙。
 
-## 7 《原理》第二卷
+## 7. 《原理》第二卷
 
 第二卷的目的是对笛卡尔式观念——也为莱布尼茨所采纳——提供决定性的反驳，即行星由流体涡旋带着绕轨道运行。牛顿的主要论证从第一节开头一直延伸到第七节末尾，占全卷的百分之八十。结束全卷的第九节提供了进一步的、告别性的论证。我们最好先处理这第二个论证，再转向第一个。
 
@@ -214,7 +214,7 @@
 
 事实上，牛顿处理阻力的方式有一个深刻错误，直到 20 世纪初才被理解。阻力并不来自黏滞性与流体惯性等因素各自独立的贡献。因此，由少数几个始终为正的速度幂项组成的任何多项式，都永远不足以表示阻力。第一个迹象出现在达朗贝尔身上：他对牛顿的 **特设** 惯性贡献理论不满，分析了我们今天所称的理想流体绕球体及其他形状物体的流动，结果在所有情形中都发现流体的净力恰好为零。因此，与牛顿相反，并不存在纯粹由流体惯性对阻力所作的那种贡献。阻力总是来自黏滞效应与惯性效应的组合，无论流体的黏滞性多么低。牛顿关于阻力可表示为一项之和、其中一项给出纯粹由流体惯性所作贡献的假设，在经验上是错误的，正如他关于同时性与空间为欧几里得的假设后来被证明错误一样。然而与后一类假设不同，关于阻力的假设是一条死路。牛顿在第二卷中借阻力所达到的一切，只不过是一次曲线拟合。
 
-## 8 《原理》第三卷
+## 8. 《原理》第三卷
 
 除了简短的开头几节“哲学推理法则”与“现象”之外，第三卷与第一卷、第二卷不同，并未划分成节。不过，它的主体确实由四个清楚分开的部分组成：（1）引力定律的推导（命题 1–8）；（2）该定律对轨道物体与旋转物体的蕴含（从命题 8 的推论到命题 24）；（3）从引力定律定量推导若干月球不等项与岁差（命题 25–39）；（4）彗星轨迹的解，附事例与评论（命题 40–42）。下面依次讨论这些部分。
 
@@ -262,7 +262,7 @@
 
 彗星理论所提供的附加证据，凸显了第三卷一个有时被忽视的方面。第三卷中为引力理论积累证据并不以开头的万有引力定律“演绎”告终；而是一直贯穿全卷。在 18 世纪，人们的注意力压倒性地集中在牛顿关于地球形状与表面重力变化的理论、潮汐理论、若干月球不等项的定量推导、岁差的推导以及彗星理论所提供的证据上。这表明，无论当时还是现在，都不应把万有引力的“演绎”与第三卷其余部分孤立起来读，而应把整卷看作对该理论的一项持续的、提供证据的论证。在整卷其余部分的语境中这样读，最恰当的看待方式是：这一“演绎”意在确立万有引力；但只是暂时地确立，作为一项为进一步研究奠定基础的理论，而这一研究将继续为该理论积累证据。
 
-## 9 《原理》的科学成就
+## 9. 《原理》的科学成就
 
 从哈雷对《原理》第一版的匿名书评开始，就存在一种明显倾向，即夸大《原理》所取得的成就，掩盖它留给他人去认识和处理的许多未了结之处。其后果是同样一种倾向：扭曲 18 世纪力学与轨道天文学取得巨大进展的背景，贬低追随牛顿者所面对的困难以及他们在解决这些困难上的成就。《原理》在这方面很特别：列出它的成就而不提其未了结之处，会夸大它所完成的东西；但列出它的未了结之处，又可能低估它非凡的成就。为求平衡，我们在此按顺序列出当时十一个重大科学问题，第三卷对这些问题给出了答案，以及这些答案，还有为这些答案提供证据的论证中最重要的未了结之处。
 
@@ -290,7 +290,7 @@
 
 细心阅读《原理》可以清楚看出，尽管牛顿对任何未了结之处都不明说，他却完全知道这一切，并以某种方式把每一条都标示出来，以惠及极为敏锐的读者。呈现《原理》之后 18 世纪研究史的一种有教益的方式，是追踪每一个未了结之处如何成为突出的关切事项、然后又如何被解决，至少解决到不再以任何方式威胁牛顿引力理论的程度。处理第三卷这些未了结之处的过程直到 1730 年代、牛顿去世之后才开始。在牛顿生前，针对《原理》最紧迫的抱怨是缺少一种机制来解释其作用（除超距作用之外）；而牛顿本人认为超距作用是“如此巨大的荒谬，我相信任何在哲学事务上具有合格思考能力的人都不会陷入其中”。[^note-56] 然而，缺少机制并不是牛顿本人看作《原理》中未了结之处的东西，因为他坚持认为上文所列的一切结论都可以仅凭万有引力定律建立，其中的任何未了结之处也可以仅凭该定律解决，而与造成引力的机制无关。在他去世后的几十年里，以他的引力理论为前提从事研究的人，对机制问题越来越持同样的看法。
 
-## 10 《原理》的方法论
+## 10. 《原理》的方法论
 
 在两段在三个版本中都逐字未变的话里，牛顿宣告《原理》意在展示一种研究经验世界的新方式。然而，第一版序言中关于从运动现象导出力、再由这些力导出运动的说法，以及第一卷第十一节末尾关于把向心力的通用数学理论与现象相比较以发现哪些力的条件实际成立的说法，都没有清楚说明这种新方式究竟是什么。除这两段之外，关于方法论唯一值得注意的说法，就是前文引过的、第二版所加总释中的那段名言，作为最后的告别声明：
 
@@ -313,6 +313,73 @@
 为了实验与观察能够对问题给出受理论中介的答案而发展一种数学理论；这一想法并非始于《原理》。在《摆钟论》中——这部作品是《原理》最着力效仿的——惠更斯发展了一种摆运动的数学理论，使摆长与周期的测量能为如下问题提供稳健而精确的答案：在无空气阻力的情况下，物体在第一秒内下落多远？——这是当时表面重力强度的量度；他还发展了一种匀速圆周运动的数学理论，使圆锥摆高度与周期的测量能为同一问题提供第二个答案。到牛顿开始写《原理》时，摆已经被使用十多年，以回答关于巴黎与其他地点之间表面重力如何变化的问题。牛顿在《原理》中为类似目的使用数学理论时，认为自己必须面对的特殊问题，源于他的如下认识（表达于“哥白尼附释”中）：轨道运动现象极其复杂，因而对多种相互竞争的描述开放。于是问题变成：找到一种方式，使用数学理论从这些现象中得出关于力的物理种类与比例的明确而稳健的答案。这些答案为以逐次逼近的序列追求真实运动开辟了道路，在这个过程中可以不断为理论积累证据，并可能按照牛顿在第四条推理法则中所指出的方式，限定其精确性与普遍适用性。由于“哥白尼附释”当时不为人知，牛顿为绕过这个问题所遵循的新方法的微妙之处，在很大程度上未被注意到。
 
 不用说，这些评论并未回答哲学上最有趣的问题：《原理》的方法如何促成了其引力理论前所未有的成功。不过，希望它们确实消除了一些混乱来源，而这些混乱扭曲了关于《原理》的许多哲学讨论。
+
+## 参考文献
+
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Primary Sources
+
+### Secondary Sources
+
+[^newton-1687]: Newton, Isaac, *Philosophiae Naturalis Principia Mathematica* (“*Mathematical Principles of Natural Philosophy*”), London, 1687; Cambridge, 1713; London, 1726. (Pirated versions of the 1713 edition were also published in Amsterdam in 1714 and 1723.)
+[^newton-1729]: –––, *The Mathematical Principles of Natural Philosophy*, tr. Andrew Motte, to which is added “The Laws of the Moon's Motion, according to Gravity,” by John Machin, London 1729. (The Motte translation of the 1726 edition, without Machin's addendum, has been reissued as *The Principia*, Amherst, NY: Prometheus, 1995.)
+[^newton-1726]: –––, *Philosophiae Naturalis Principia Mathematica*, 1726 edition with commentary by Thomae Le Seur and Francisci Jacquier, S.J., Geneva, 1739-1742.
+[^newton-1759]: –––, *Principes Mathématiques de la Philosophie Naturelle*, tr. Madame la Marquise du Chastellet, with commentary by Alexis-Claude Clairaut and the translator, Paris, 1759.
+[^newton-1934]: –––, *Sir Isaac Newton's Mathematical Principles of Natural Philosophy and his System of the World,* tr. Andew Motte, revised Florian Cajori, Berkeley: University of California Press, 1934. (Includes “System of the World,” the original draft version of Book 3.)
+[^newton-1972]: –––, **[V]** *Isaac Newton's Philosophiae Naturalis Principia Mathematica, the Third Edition with Variant Readings*, ed. A. Koyré and I. B. Cohen, 2 vols., Cambridge: Harvard University Press and Cambridge: Cambridge University Press, 1972.
+[^newton-1999]: –––, **[P]** *The Principia: Mathematical Principles of Natural Philosophy: A New Translation*, tr. I. B. Cohen and Anne Whitman, preceded by “A Guide to Newton's *Principia*” by I. B. Cohen, Berkeley: University of California Press, 1999.
+[^newton-1687-2]: –––, *The Preliminary Manuscripts for Isaac Newton's 1687 Principia, 1684-1686*, Cambridge: Cambridge University Press, 1989.
+[^newton-1684]: –––, **[M]** *The Mathematical Papers of Isaac Newton*, ed. D. T. Whiteside, vol. 6, 1684-1691, Cambridge: Cambridge University Press, 1974. (Includes detailed commentary on much of the mathematics of the *Principia*.)
+[^newton-1962]: –––, **[U]** *Unpublished Scientific Papers of Isaac Newton*, ed. A. R. Hall and M. B. Hall, Cambridge: Cambridge University Press, 1962. (Contains several manuscripts associated with the *Principia*.)
+[^newton-1959]: –––, **[C]** *The Correspondence of Isaac Newton*, ed. H. W. Turnbull, J. F. Scott, A. R. Hall, and L. Tilling, 7 vols., Cambridge: Cambridge University Press, 1959-1984.
+[^newton-2004]: –––, *Philosophical Writings*, ed. A. Janiak, Cambridge: Cambridge University Press, 2004.
+[^descartes-1983]: Descartes, René, **[D]** *Principles of Philosophy*, tr. V. R. Miller and R. P. Miller, Dordrecht: Reidel, 1983. (Citations are to Part and Article, not to page.)
+[^huygens-1888]: Huygens, Christiaan, **[OH]** *Oeuvres Complètes de Christiaan Huygens*, 22 vols., The Hague: Martinus Nijhoff, 1888-1950.
+[^huygens-1673]: –––, **[HO]** *The Pendulum Clock or Geometrical Demonstrations Concerning the Motion of Pendula as Applied to Clocks*, tr. Rcihard J. Blackwell, Ames: Iowa State University. (Translation of *Horologium Oscillatorium*, Paris,1673, **[OH]**, vol. 18.
+[^huygens-1690]: –––, **[HD]** *Discours de la Cause de la Pesanteur,* Leiden, 1690; **[OH]**, vol. 21; reprinted in *Traité de la lumiére* (with which it originally appeared), Paris: Dunod: 1992. (Translations by Karen Bailey, citations to 1690 page numbers.)
+[^leibniz-1689]: Leibniz, G. W., **[L]** “Tentamen de Motuum Coelestium Causis,” *Acta Eruditorum*, 1689; translation in Bertoloni Meli 1993. (Citations are to page numbers in the translation.)
+[^aiton-1972]: Aiton, E. J., 1972, *The Vortex Theory of Planetary Motions*, London: Macdonald.
+[^ball-1893]: Ball, W. W. R., 1893, *An Essay on Newton's* Principia, London: Macmillan; reprinted 1972, New York: Johnson Reprint Corporation
+[^bertoloni-1993]: Bertoloni Meli, D., 1993, *Equivalence and Priority: Newton versus Leibniz*, Oxford: Oxford University Press.
+[^buchwald-2001]: Buchwald, J. Z. and Cohen, I. B. (ed.), 2001, *Isaac Newton's Natural Philosophy*, Cambridge: MIT Press.
+[^cohen-1971]: Cohen, I. B., 1971, *Introduction to Newton's ‘Principia’*, Cambridge: Harvard University Press.
+[^cohen-1980]: –––, 1980, *The Newtonian Revolution*, Cambridge: Cambridge University Press.
+[^cohen-2002]: Cohen, I. B. and Smith, G. E. (ed.), 2002, *The Cambridge Companion to Newton*, Cambridge: Cambridge University Press.
+[^disalle-2006]: Disalle, 2006, *Understanding Space-Time: The Philosophical Development of Physics from Newton to Einstein*, Cambridge: Cambridge University Press.
+[^guicciardini-1999]: Guicciardini, Niccolò, 1999, *Reading the* Principia*: The Debate on Newton's Mathematical Methods for Natural Philosophy from 1687 to 1736*, Cambridge: Cambridge University Press.
+[^herivel-1965]: Herivel, J., 1965, *The Background to Newton's* Principia*: A Study of Newton's Dynamical Researches in the Years 1664-84*, Oxford: Oxford University Press.
+[^palter-1970]: Palter, R. (ed.), 1970, *The Annus Mirabilis of Sir Isaac Newton*, Cambridge: MIT Press.
+[^smith-2002]: Smith, G. E., 2002, “From the Phenomenon of the Ellipse to an Inverse-Square Force: Why Not?”, in *Reading Natural Philosophy: Essays in the History and Philosophy of Science and Mathematics to Honor Howard Stein on his 70ᵗʰ Birthday*, ed. D. B. Malament, La Salle: Open Court, pp. 31-70..
+[^smith-2005]: –––, 2005, “Was Wrong Newton Bad Newton?”, in *Wrong for the Right Reasons*, eds. J. Z. Buchwald and A. Franklin, Berlin: Springer, pp. 127-160.
+[^stein-1967]: Stein, H., 1967, “Newtonian Space-Time,” in Palter 1970, pp. 258-284.
+[^stein-1990]: –––, 1990, “From the Phenomena of Motions to the Forces of Nature: Hypothesis or Deduction?”, *PSA 1990*, Proceedings of the 1990 Biennial Meeting of the Philosophy of Science Association, vol. 2, East Lansing, MI: Philosophy of Science Association, pp. 209-222.
+[^taton-1989]: Taton, R. and Wilson, C. (ed), 1989, *Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part A: Tycho Brahe to Newton*, Cambridge: Cambridge University Press
+[^taton-1995]: –––, 1995, *Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part B: The Eighteenth and Nineteenth Centuries,* Cambridge: Cambridge University Press.
+[^westfall-1971]: Westfall, R. S., 1971, *Force in Newton's Physics: The Science of Dynamics in the Seventeenth Century*, London: Macdonald.
+[^westfall-1980]: –––, 1980, *Never at Rest: A Biography of Isaac Newton*, Cambridge: Cambridge University Press.
+[^yoder-1988]: Yoder, J. G., 1988, *Unrolling Time: Christiaan Huygens and the Mathematization of Nature*, Cambridge: Cambridge University Press.
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=newton-principia)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/newton-principia/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=newton-principia&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/newton-principia/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+- [MacTutor 数学史档案](https://mathshistory.st-andrews.ac.uk/Biographies/Newton/)
+- [牛顿项目](http://www.newtonproject.sussex.ac.uk)
+- [加拿大牛顿项目](http://www.isaacnewton.ca)
+
+## 相关词条
+
+勒内·笛卡尔 | 皮埃尔·迪昂 | 伊曼努尔·康德 | 戈特弗里德·威廉·莱布尼茨 | 恩斯特·马赫 | 艾萨克·牛顿 | 牛顿对空间、时间和运动的观点 | 科学革命 | 威廉·惠威尔
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 
 ## 脚注
 
@@ -435,70 +502,3 @@
 > 在这个主题中，人们发现一种证明，它并不带有几何学中所用的那样高的确定性；它与几何学家所用方法的明显不同在于：他们用确立无疑的原理来证明自己的命题，而在这里，原理要由从它们可推出的推论来检验。主题的性质不允许作别的处理。然而，用这种方式有可能确立一种几乎不亚于确定性的概然性。当假定原理的后果与观察到的现象完全一致，尤其当这类验证为数众多时，情况就是如此；而最重要的是，当人们用假设去预言新现象、并发现预期实现时。
 
 [^note-59]: 关于这一妥协如何形成的细节，见 Koffi Maglo，“The Reception of Newton's Gravitational Theory by Huygens, Varignon, and Maupertuis: How Normal Science may be Revolutionary,” *Perspectives on Science* vol. 11, 2003, pp. 135-169。
-
-## 参考文献
-
-**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
-
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
-
-### Primary Sources
-
-### Secondary Sources
-
-[^newton-1687]: Newton, Isaac, *Philosophiae Naturalis Principia Mathematica* (“*Mathematical Principles of Natural Philosophy*”), London, 1687; Cambridge, 1713; London, 1726. (Pirated versions of the 1713 edition were also published in Amsterdam in 1714 and 1723.)
-[^newton-1729]: –––, *The Mathematical Principles of Natural Philosophy*, tr. Andrew Motte, to which is added “The Laws of the Moon's Motion, according to Gravity,” by John Machin, London 1729. (The Motte translation of the 1726 edition, without Machin's addendum, has been reissued as *The Principia*, Amherst, NY: Prometheus, 1995.)
-[^newton-1726]: –––, *Philosophiae Naturalis Principia Mathematica*, 1726 edition with commentary by Thomae Le Seur and Francisci Jacquier, S.J., Geneva, 1739-1742.
-[^newton-1759]: –––, *Principes Mathématiques de la Philosophie Naturelle*, tr. Madame la Marquise du Chastellet, with commentary by Alexis-Claude Clairaut and the translator, Paris, 1759.
-[^newton-1934]: –––, *Sir Isaac Newton's Mathematical Principles of Natural Philosophy and his System of the World,* tr. Andew Motte, revised Florian Cajori, Berkeley: University of California Press, 1934. (Includes “System of the World,” the original draft version of Book 3.)
-[^newton-1972]: –––, **[V]** *Isaac Newton's Philosophiae Naturalis Principia Mathematica, the Third Edition with Variant Readings*, ed. A. Koyré and I. B. Cohen, 2 vols., Cambridge: Harvard University Press and Cambridge: Cambridge University Press, 1972.
-[^newton-1999]: –––, **[P]** *The Principia: Mathematical Principles of Natural Philosophy: A New Translation*, tr. I. B. Cohen and Anne Whitman, preceded by “A Guide to Newton's *Principia*” by I. B. Cohen, Berkeley: University of California Press, 1999.
-[^newton-1687-2]: –––, *The Preliminary Manuscripts for Isaac Newton's 1687 Principia, 1684-1686*, Cambridge: Cambridge University Press, 1989.
-[^newton-1684]: –––, **[M]** *The Mathematical Papers of Isaac Newton*, ed. D. T. Whiteside, vol. 6, 1684-1691, Cambridge: Cambridge University Press, 1974. (Includes detailed commentary on much of the mathematics of the *Principia*.)
-[^newton-1962]: –––, **[U]** *Unpublished Scientific Papers of Isaac Newton*, ed. A. R. Hall and M. B. Hall, Cambridge: Cambridge University Press, 1962. (Contains several manuscripts associated with the *Principia*.)
-[^newton-1959]: –––, **[C]** *The Correspondence of Isaac Newton*, ed. H. W. Turnbull, J. F. Scott, A. R. Hall, and L. Tilling, 7 vols., Cambridge: Cambridge University Press, 1959-1984.
-[^newton-2004]: –––, *Philosophical Writings*, ed. A. Janiak, Cambridge: Cambridge University Press, 2004.
-[^descartes-1983]: Descartes, René, **[D]** *Principles of Philosophy*, tr. V. R. Miller and R. P. Miller, Dordrecht: Reidel, 1983. (Citations are to Part and Article, not to page.)
-[^huygens-1888]: Huygens, Christiaan, **[OH]** *Oeuvres Complètes de Christiaan Huygens*, 22 vols., The Hague: Martinus Nijhoff, 1888-1950.
-[^huygens-1673]: –––, **[HO]** *The Pendulum Clock or Geometrical Demonstrations Concerning the Motion of Pendula as Applied to Clocks*, tr. Rcihard J. Blackwell, Ames: Iowa State University. (Translation of *Horologium Oscillatorium*, Paris,1673, **[OH]**, vol. 18.
-[^huygens-1690]: –––, **[HD]** *Discours de la Cause de la Pesanteur,* Leiden, 1690; **[OH]**, vol. 21; reprinted in *Traité de la lumiére* (with which it originally appeared), Paris: Dunod: 1992. (Translations by Karen Bailey, citations to 1690 page numbers.)
-[^leibniz-1689]: Leibniz, G. W., **[L]** “Tentamen de Motuum Coelestium Causis,” *Acta Eruditorum*, 1689; translation in Bertoloni Meli 1993. (Citations are to page numbers in the translation.)
-[^aiton-1972]: Aiton, E. J., 1972, *The Vortex Theory of Planetary Motions*, London: Macdonald.
-[^ball-1893]: Ball, W. W. R., 1893, *An Essay on Newton's* Principia, London: Macmillan; reprinted 1972, New York: Johnson Reprint Corporation
-[^bertoloni-1993]: Bertoloni Meli, D., 1993, *Equivalence and Priority: Newton versus Leibniz*, Oxford: Oxford University Press.
-[^buchwald-2001]: Buchwald, J. Z. and Cohen, I. B. (ed.), 2001, *Isaac Newton's Natural Philosophy*, Cambridge: MIT Press.
-[^cohen-1971]: Cohen, I. B., 1971, *Introduction to Newton's ‘Principia’*, Cambridge: Harvard University Press.
-[^cohen-1980]: –––, 1980, *The Newtonian Revolution*, Cambridge: Cambridge University Press.
-[^cohen-2002]: Cohen, I. B. and Smith, G. E. (ed.), 2002, *The Cambridge Companion to Newton*, Cambridge: Cambridge University Press.
-[^disalle-2006]: Disalle, 2006, *Understanding Space-Time: The Philosophical Development of Physics from Newton to Einstein*, Cambridge: Cambridge University Press.
-[^guicciardini-1999]: Guicciardini, Niccolò, 1999, *Reading the* Principia*: The Debate on Newton's Mathematical Methods for Natural Philosophy from 1687 to 1736*, Cambridge: Cambridge University Press.
-[^herivel-1965]: Herivel, J., 1965, *The Background to Newton's* Principia*: A Study of Newton's Dynamical Researches in the Years 1664-84*, Oxford: Oxford University Press.
-[^palter-1970]: Palter, R. (ed.), 1970, *The Annus Mirabilis of Sir Isaac Newton*, Cambridge: MIT Press.
-[^smith-2002]: Smith, G. E., 2002, “From the Phenomenon of the Ellipse to an Inverse-Square Force: Why Not?”, in *Reading Natural Philosophy: Essays in the History and Philosophy of Science and Mathematics to Honor Howard Stein on his 70ᵗʰ Birthday*, ed. D. B. Malament, La Salle: Open Court, pp. 31-70..
-[^smith-2005]: –––, 2005, “Was Wrong Newton Bad Newton?”, in *Wrong for the Right Reasons*, eds. J. Z. Buchwald and A. Franklin, Berlin: Springer, pp. 127-160.
-[^stein-1967]: Stein, H., 1967, “Newtonian Space-Time,” in Palter 1970, pp. 258-284.
-[^stein-1990]: –––, 1990, “From the Phenomena of Motions to the Forces of Nature: Hypothesis or Deduction?”, *PSA 1990*, Proceedings of the 1990 Biennial Meeting of the Philosophy of Science Association, vol. 2, East Lansing, MI: Philosophy of Science Association, pp. 209-222.
-[^taton-1989]: Taton, R. and Wilson, C. (ed), 1989, *Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part A: Tycho Brahe to Newton*, Cambridge: Cambridge University Press
-[^taton-1995]: –––, 1995, *Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part B: The Eighteenth and Nineteenth Centuries,* Cambridge: Cambridge University Press.
-[^westfall-1971]: Westfall, R. S., 1971, *Force in Newton's Physics: The Science of Dynamics in the Seventeenth Century*, London: Macdonald.
-[^westfall-1980]: –––, 1980, *Never at Rest: A Biography of Isaac Newton*, Cambridge: Cambridge University Press.
-[^yoder-1988]: Yoder, J. G., 1988, *Unrolling Time: Christiaan Huygens and the Mathematization of Nature*, Cambridge: Cambridge University Press.
-
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=newton-principia)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/newton-principia/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=newton-principia&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/newton-principia/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-- [MacTutor 数学史档案](https://mathshistory.st-andrews.ac.uk/Biographies/Newton/)
-- [牛顿项目](http://www.newtonproject.sussex.ac.uk)
-- [加拿大牛顿项目](http://www.isaacnewton.ca)
-
-## 相关词条
-
-勒内·笛卡尔 | 皮埃尔·迪昂 | 伊曼努尔·康德 | 戈特弗里德·威廉·莱布尼茨 | 恩斯特·马赫 | 艾萨克·牛顿 | 牛顿对空间、时间和运动的观点 | 科学革命 | 威廉·惠威尔
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

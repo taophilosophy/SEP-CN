@@ -10,7 +10,7 @@
 
 本词条结构如下。第一节阐述理性在康德的知识与形而上学说明中所起的作用，聚焦于《纯粹理性批判》或“第一《批判》”（1781；第二版 1787）。第二节考察其道德哲学，聚焦于《实践理性批判》或“第二《批判》”（1788）。这两节反映康德本人的著作与二手文献的大多数处理，相对独立。因此第三节考虑理论理性与实践理性之间的关系。既然康德很少把理性当作整体来讨论，他的一般观点就是一个解释问题：奥诺拉·奥尼尔给出了最突出的说明。结语强调她那统一解释的哲学趣味。
 
-## 1 理论理性：理性的认知作用与局限
+## 1. 理论理性：理性的认知作用与局限
 
 在《纯粹理性批判》的前半部，康德论证我们通过两种能力获得关于世界的实质性知识：感性与知性。经验判断既依赖 **感官经验** 又依赖 **概念形成**。康德强调以这种方式获得的经验知识的稳固性。
 
@@ -114,7 +114,7 @@
 
 于是康德的问题是：我们如何 **捍卫** 理性以抵御种种怀疑[^note-17]，又如何 **规训** 理性而不窃取论题——例如通过援引本身就可疑的主张（参见 O'Neill 1989: Ch. 1, 1992, 2004 & 2015）[^o’neill-1989][^o’neill-1992][^o’neill-2004][^o’neill-2015]。这就是 **批判** 的中心任务（参见 Bxxxv）：理性对自身的检审。它应当确立理性的能力与界限。它应当就理性的“共同原则”及其权威给出说明。
 
-## 2 实践理性：道德与纯粹实践理性的优先性
+## 2. 实践理性：道德与纯粹实践理性的优先性
 
 第一《批判》只暗示了康德道德理论将采取的形式。[^note-18] 《道德形而上学的奠基》（1785）与《实践理性批判》（1788）中关于实践理性的说明是全新的。康德此时提出实践理性的至上原则——定言命令。它是一条 **命令**：它代表对人类的诫命，人类有需要与偏好、并非完全理性。它是 **定言的** 或无条件的：它必须始终指导我们的行动。
 
@@ -218,7 +218,7 @@
 
 这里的论证大胆但可疑。我们必须设想道德活动将导致幸福。然而人的能动性不能达成这一点：“我［甚至我们所有人一起行动——GW］不能指望产生这［至善］，除非靠我的意志与一位神圣而仁慈的世界作者的意志的和谐”（5:129）。于是康德论证：我们必须“公设”上帝存在。我们还必须公设不朽。唯有如此，我们才能希望自己终将接近德性、从而配得幸福。
 
-## 3 理论理性与实践理性的统一
+## 3. 理论理性与实践理性的统一
 
 我们已经看到理论理性与实践理性之间的一个关联。在回答“我可以希望什么？”这一问题时，康德主张实践理性拥有“优先性”。理论理性可以“像被移交的一件外来财产那样”接受上帝、自由与不朽的公设（5:120）。理论理性至多能表明这些东西并非不可能。我们的实践关切——归根到底，我们的道德义务——要求我们相信它们。再次引用康德的名言：“我不得不扬弃 **知识**，以便为 **信仰** 腾出位置”（Bxxx）。
 
@@ -308,7 +308,7 @@
 
 用几位当代康德主义者的术语说，这一程序 **构成** 了理性。（见 Herman 2007: Ch. 10, Korsgaard 2008, Reath 2013, Bagnoli 2017；Møller 2020 聚焦于康德的法律隐喻。）[^bagnoli-2017][^herman-2007][^korsgaard-2008][^møller-2020][^reath-2013] 理性是思维与行动的唯一无条件（即非他律的）权威。
 
-## 4 结语
+## 4. 结语
 
 没有人怀疑信念与行动受合理性要求的约束。理论推理以认识我们周围的世界为目标（或许也认识我们自己）。实践推理以在世界中造成改变为目标（或许也改变我们自己）。
 
@@ -361,6 +361,29 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 
 
 ### 研究文献
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-reason)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=kant-reason&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/kant-reason/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [波恩康德文献库（Das Bonner Kant-Korpus）](http://www.korpora.org/)，康德著作科学院版第 1–23 卷全文（德语）。
+* [康德学会（Kant-Gesellschaft）](http://www.kant-gesellschaft.de/en/)，德国康德学会，《康德研究》（*Kant-Studien*）出版方。
+* [北美康德学会](https://northamericankantsociety.org/)，含当前康德研究活动的综合网站。
+* [英国康德学会](https://www.ukks.co.uk/)。
+
+## 相关词条
+
+伦理学和政治哲学中的自主权 | 元伦理学中的建构主义 | 康德的美学与目的论 | 康德和休谟论因果关系 | 康德和休谟论道德 | 莱布尼茨对康德的影响 | 康德对形而上学的批判 | 康德的道德哲学 | 康德的数学哲学 | 康德的宗教哲学 | 康德的科学哲学 | 康德的社会与政治哲学 | 道德动机 | 实践理性 | 实践理性与行动结构 | 理性主义与经验主义 | 理性：工具理性 | 道德推理 | 行动的原因：行动者中立与行动者相关 | 行动的理由：内在或外在 | 行动的理由：正当性、动机、解释
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+## 致谢
+
+多年来对本词条提出意见，我要感谢 Carla Bagnoli、Graham Bird、Tatiana Patrone、Alison Stone、Lea Ypi，以及本百科全书的审稿人，包括 R. Lanier Anderson 与 Paul Guyer。对额外的协助，我要感谢 Alix Cohen、Sebastian Gardner、Katharina Kraus、Onora O'Neill、Margit Ruffing 与 Jens Timmermann。我还要衷心感谢 Nick Bunnin 组织了中国哲学暑期班，使我有机会就这一主题作讲座；感谢 Diana Diaconescu 在最近的（2023）修订中提供宝贵的研究协助。
 
 ## 脚注
 
@@ -621,26 +644,3 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 [^wood-1992]: –––, 1992, Review of Onora O’Neill, *Constructions of Reason*, *Philosophical Review*, 101(3): 647–650.
 
 [^ypi-2021]: Ypi, L., 2021, *The Architectonic of Reason: Purposiveness and Systematic Unity in Kant’s Critique of Pure Reason*, Oxford: Oxford University Press.
-
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kant-reason)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=kant-reason&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/sep/kant-reason/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [波恩康德文献库（Das Bonner Kant-Korpus）](http://www.korpora.org/)，康德著作科学院版第 1–23 卷全文（德语）。
-* [康德学会（Kant-Gesellschaft）](http://www.kant-gesellschaft.de/en/)，德国康德学会，《康德研究》（*Kant-Studien*）出版方。
-* [北美康德学会](https://northamericankantsociety.org/)，含当前康德研究活动的综合网站。
-* [英国康德学会](https://www.ukks.co.uk/)。
-
-## 相关词条
-
-伦理学和政治哲学中的自主权 | 元伦理学中的建构主义 | 康德的美学与目的论 | 康德和休谟论因果关系 | 康德和休谟论道德 | 莱布尼茨对康德的影响 | 康德对形而上学的批判 | 康德的道德哲学 | 康德的数学哲学 | 康德的宗教哲学 | 康德的科学哲学 | 康德的社会与政治哲学 | 道德动机 | 实践理性 | 实践理性与行动结构 | 理性主义与经验主义 | 理性：工具理性 | 道德推理 | 行动的原因：行动者中立与行动者相关 | 行动的理由：内在或外在 | 行动的理由：正当性、动机、解释
-
-**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
-
-## 致谢
-
-多年来对本词条提出意见，我要感谢 Carla Bagnoli、Graham Bird、Tatiana Patrone、Alison Stone、Lea Ypi，以及本百科全书的审稿人，包括 R. Lanier Anderson 与 Paul Guyer。对额外的协助，我要感谢 Alix Cohen、Sebastian Gardner、Katharina Kraus、Onora O'Neill、Margit Ruffing 与 Jens Timmermann。我还要衷心感谢 Nick Bunnin 组织了中国哲学暑期班，使我有机会就这一主题作讲座；感谢 Diana Diaconescu 在最近的（2023）修订中提供宝贵的研究协助。

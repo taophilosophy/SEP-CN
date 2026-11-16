@@ -4,7 +4,7 @@
 
 哥白尼（Nicolaus Copernicus，1473–1543）是数学家和天文学家，他提出太阳静止于宇宙中心，地球环绕太阳运行。托勒密（Ptolemy）的宇宙地心模型未能满足亚里士多德（Aristotle）关于一切天体作均匀圆周运动的要求，这令哥白尼深感不安；他认为唯有日心模型才能实现自己的目标。由此他构建起这样一个宇宙图景：行星与太阳的距离同其轨道的大小直接相关。在当时，哥白尼的日心说颇具争议，然而它标志着人们看待世界的方式开始转变，哥白尼也因此被视为通常所谓“科学革命”的开启者。
 
-## 1 生平与著作
+## 1. 生平与著作
 
 尼古拉·哥白尼生于 1473 年 2 月 19 日，是尼古拉·哥白尼（父，Nicolaus Copernicus, Sr.）与芭芭拉·瓦岑罗德（Barbara Watzenrode）四个孩子中最年幼者。其父是位殷实商人，由克拉科夫（Cracow）迁居托伦（Torun）；其母出身托伦一个显赫的商人家庭。托伦坐落于维斯瓦河（Vistula River）畔，曾是汉萨同盟（Hanseatic League）的重要内陆港口。1466 年，条顿骑士团（Teutonic Knights）与结盟波兰王国的普鲁士联盟（Prussian Union）之间的战争告终，含托伦在内的西普鲁士（West Prussia）划归波兰，托伦被宣布为波兰王国的自由城市。于是，这个德国家庭的孩子便成了波兰王室的臣民。
 
@@ -24,7 +24,7 @@
 
 1539 年，维滕贝格大学（University of Wittenberg）的年轻数学家格奥尔格·约阿希姆·雷提库斯（Georg Joachim Rheticus，1514–1574）前来随哥白尼研习。雷提库斯给哥白尼带来若干数学书籍，意在让他见识德语城市印刷的精良。他发表了一篇介绍哥白尼学说的文字，即《初论》（*Narratio prima*，First Report）。尤为重要的是，他说服哥白尼出版《天体运行论》。该书大部分印务由雷提库斯经手；1543 年 5 月 24 日，哥白尼在临终的病榻上捧着一册成书。
 
-## 2 天文学思想与著作
+## 2. 天文学思想与著作
 
 ### 2.1 前哥白尼天文学
 
@@ -107,6 +107,21 @@
 ### C. 其他一手文献译本（Translations of Other Primary Sources）
 
 ### D. 二手文献（Secondary Sources）
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=copernicus)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/copernicus/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=copernicus&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* [尼古拉·哥白尼（Nicolaus Copernicus）](https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/)，《MacTutor 数学史档案》条目，由苏格兰圣安德鲁斯大学数学与统计学院的 J.J. O’Connor 与 E.F. Robertson 维护。
+
+## 相关词条
+
+亚里士多德 | 乔尔丹诺·布鲁诺 | 伽利略·伽利莱 | 约翰内斯·开普勒 | 托马斯·库恩
 
 ## 脚注
 
@@ -245,18 +260,3 @@
 [^westman-2011]: –––, 2011, *The Copernican Question: Prognostication, Skepticism, and Celestial Order*, Berkeley: University of California Press.
 
 [^yates-1979]: Yates, F., 1979, *Giordano Bruno and the Hermetic Tradition*, Chicago: University of Chicago Press, reprint of 1964 edition.
-
-## 学术工具
-
-* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=copernicus)。
-* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/copernicus/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
-* 在 [InPhO](https://www.inphoproject.org/entity?sep=copernicus&redirect=True) 查找与本词条相关的话题与思想家。
-* 在 [PhilPapers](https://philpapers.org/) 查看本词条的增强文献目录及其数据库链接。
-
-## 其他网络资源
-
-* [尼古拉·哥白尼（Nicolaus Copernicus）](https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/)，《MacTutor 数学史档案》条目，由苏格兰圣安德鲁斯大学数学与统计学院的 J.J. O’Connor 与 E.F. Robertson 维护。
-
-## 相关词条
-
-亚里士多德 | 乔尔丹诺·布鲁诺 | 伽利略·伽利莱 | 约翰内斯·开普勒 | 托马斯·库恩

@@ -4,7 +4,7 @@
 
 诡辩家理查德（Richard the Sophister；Richardus Sophista）是一位英国哲学家／逻辑学家，最可能在十三世纪第二个二十五年间的某个时候于牛津求学。其身份尚不确定，但可以确定他是 *Abstractiones* 一书的作者——这部书汇集了一批逻辑上令人困惑的句子，人称“诡辩句”。这些诡辩句之所以令人困惑，缘由各式各样，都出在某些逻辑词或“非范畴词”带来的语义或句法歧义上，例如 “all”、“every”、“or”、“if…then”、“and”、“not”、“begins”、“ceases”、“except”、“necessary”、“possible” 等等。
 
-## 1 *Abstractiones*
+## 1. *Abstractiones*
 
 “*Abstractiones*”这个标题，显然意在体现这批诡辩句以相当概括的方式汇为一集的“摘编”性质。[^note-1] 这部诡辩句集后来成了一种逻辑教科书，用来训练学生识别诡辩性谬误。从十三世纪末一直深入十四世纪，这本书大概在好几所中世纪大学里使用了几十年。人们常称理查德为“Magister Abstractionum”或“Magister Richardus Sophista”，以强调他对这一三百多条诡辩句的大集子所作的大师级处理——尽管只是概括式的。[^note-2] “*sophista*”这个头衔，意思不过是“逻辑学家”。
 
@@ -20,7 +20,7 @@
 
 理查德的 *Abstractiones* 校勘本终于在 2016 年问世，由 Sten Ebbesen、Mary Sirridge 与 E. Jennifer Ashworth 编辑，牛津大学出版社出版，列于 *Auctores Britannici Medii Aevi* 丛书。
 
-## 2 诡辩句举例
+## 2. 诡辩句举例
 
 为了让读者更好地了解 *Abstractiones* 一书的内容，不妨列出书中讨论的几条诡辩句，并只就其中一条展示理查德的处理方式。如前所述，我们这本书包含三百多条诡辩句。随机取样如下：
 
@@ -58,7 +58,7 @@
 
 如前所述，这条诡辩句相对不复杂，其中的明显谬误一眼可见；但理查德的文本越往后，诡辩句越发困难繁复，其中许多会让头脑做复杂的智力杂技。全书指出的谬误都是亚里士多德《辨谬篇》（*De Sophisticis Elenchis*）讨论的标准谬误：语词歧义谬误；偶性谬误；组合与拆分意义谬误；后件谬误；简单与限定意义谬误；多真因谬误；语句歧义；不当指代。
 
-## 3 理查德的身份
+## 3. 理查德的身份
 
 这位 Magister Abstractionum 的身份至今没有定论。不过，*Abstractiones* 两个完整抄本末尾都附有题跋（colophon），我们由此当然知道他名叫“理查德”（Richard）：
 
@@ -71,44 +71,6 @@ De Rijk 提出 Richard Fishacre 之名，不同意 Macray 提出的 Richard Fitz
 处理理查德·鲁弗斯对这一问题的讨论，连同罗吉尔·培根对 “*esse habituale*” 观念的激烈批评，两者交织的复杂性会超出本文范围。这里的关键问题是：理查德·鲁弗斯拥护的学说，是否与诡辩家理查德 *Abstractiones* 中的任何内容严格平行。重要的是不仅要找到术语上的类似，还要找到学说上的类似。理查德·鲁弗斯作出上述区分所用的术语，是 “*esse in habitu*” 与 “*esse in actu*” 的对立；前者他又标为 “*esse simpliciter*”，后者标为 “*esse ut nunc*”。[^note-11] 培根似乎以 “*esse habituale*” 替换了 “*esse in habitu*” 这个表达式；Rufus 则不使用 “*esse habituale*”。如前所述，Pinborg 注意到 Abstractiones 中有 “*esse consequentiae sive habitudinis*” 与 “*esse quod est operatio entis*” 两个表达式。培根也使用 “*esse habitudinis*”，但他似乎认识到 “*esse habituale*” 与 “*esse habitudinis*” 之间的一种区别；他说，后者“用于命题，稍后谈到命题时将会被驳倒”。[^note-12] 这句话或许表明，培根在 “*esse habitudinis*” 上看到的学说问题与他在 “*esse habituale*” 上看到的相同（即它为谈论某种虚构的存在提供了口实）；但这一点无法确证，因为他在《Compendium》中再未回到这个话题。诡辩家理查德并不使用培根与 Rufus 各自那套 “*esse habituale*／*esse actuale*”、“*esse in habitu/esse in actu*” 术语。[^note-13] Pinborg 还注意到，奥卡姆的威廉批评那些作出 “*esse consequentiae sive habitudinis*” 与 “*esse quod est operatio entis*” 之分的人不懂假言命题与直言命题的简单区别；在奥卡姆看来，这种区分的全部内容不过如此。[^note-14] Pinborg 认为奥卡姆的批评可能与培根的论点相同：这套术语会引来对某种虚构存在的谈论。奥卡姆想废除旧术语、改用问题较少的语言，这大概是对的；但重要的问题在于：诡辩家理查德对 “*esse habitudinis*／*esse quod est operatio entis*” 这一区分的使用，是否除命题类型的区别之外还意味着别的什么？他对这一区分的使用，是否像培根的攻击看来适用于理查德·鲁弗斯那个术语上类似的区分那样，同样落在培根的攻击范围之内？
 
 要完整回答这些问题，不仅要详细考察 *Abstractiones* 解答诡辩句时对这一区分的使用，还要考察理查德对“断言非存在”的词项所持的立场，以及他关于否定和否定词项的一般说明。[^note-15] 这些任务显然超出本文范围。至于第一个问题，这里只能记下一件事：*Abstractiones* 中理查德在解答诡辩句时运用这一区分的地方只有三处，而且没有一处可以清楚认定这是他偏好的解答。[^note-16] 更重要的是，理查德在解答诡辩句时对这一区分的运用，似乎与舍伍德的威廉（William of Sherwood）的用法相合；威廉所用的是同一区分（术语作 “*esse habituale*／*esse actuale*”），基本上是借它标记假言命题与直言命题之别。[^note-17] Braakhuis 已经成功地论证，罗吉尔·培根的攻击并不适用于威廉对这一区分的使用，尽管在上述所有作者中，唯有威廉的术语与培根的术语完全相同。[^note-18] 于是，如果培根所攻击的学说不能归于威廉，它同样不能归于诡辩家理查德。看来，理查德·鲁弗斯与诡辩家理查德不能认定为同一人——至少凭这些所谓的学说与术语上的类似不能。
-
-## 脚注
-
-[^note-1]: 萨克森的阿尔伯特（Albert of Saxony）在 *Perutilis Logica* 里讨论排除词 “*tantum*” 的开场段落中，给 “*abstractio*” 一词下了这样的定义：“*Abstractio est dubitabilium propositionum collectio*（abstractio 即令人困惑的命题的汇集）”（Erfurt 抄本，Amploniana，Cod. Q 242，f. 33v）。阿尔伯特这部论著的这一节，1518 年威尼斯版未予刊布。中世纪另一部以 “*Abstractiones*” 为题的已知论著出自某位 Hervaeus Sophista，de Libera 1986 已将其刊布。由此看来，“*abstractio*” 一词似乎指诡辩句的“汇集”，或许还特别强调这类汇集的“摘编”性质。事实上，Hervaeus 的汇集仅用五张对开纸就容纳了约 298 条诡辩句；而理查德在 Digby 24 抄本中用了将近三十张对开纸处理约 305 条诡辩句。
-
-[^note-2]: De Rijk 1962–67, Vol. II, pt 1., 62–85 and 444–447.
-
-[^note-3]: 抄本 B、D、O、P、R 的描述见 de Rijk 1962–67；De Rijk 不知晓抄本 C 与 K。抄本 C 的简要描述见 P.O. Lewry, “Oxford Logic 1250–1275: Nicholas and Peter of Cornwall,” in Lewry 1985, 22。上述抄本的更多描述见 Raedts 1987, 107–111。
-
-[^note-4]: Ebbesen 1987, 136；Lewry 1985。该抄本定年为 1295 年，但 Lewry 指出，作者用了 “*Henricus est rex Angliae*” 这个例子，而亨利死于 1272 年。因此对 Magister Abstractionum 的提及可能早至 1270 年代。
-
-[^note-5]: De Rijk 1986: 27.
-
-[^note-6]: William of Ockham, *Summa Logicae*, ed. Philotheus Boehner, Gideon Gál, and Stephen Brown (St. Bonaventure, N.Y. 1974), 367。虽然这看起来是奥卡姆明确提及 Magister Abstractionum 的唯一一处，但编者们指出了一些他们认为奥卡姆明显想到这位 Magister 的其他地方（如 *Summa Logicae* III-1, c.16, 405；II, c. 4, 262）。关于 Campsall、John of Reading 与亚当·德·沃德汉姆书中的引用，见 *Summa Logicae* 导言，51*, n. 17。
-
-[^note-7]: 设立“情境（*casus*）”——论辩双方有义务在其中各自展开论证——催生了一类特殊的诡辩文献文类，称为 “*obligationes*”（义务论辩）。在 *Abstractiones* 接近结尾处的诡辩句展开中，我们尤其注意到 “*obligatio*” 的技巧。关于义务论辩历史发展的讨论，见 Stump 1982 与 Spade 1982。
-
-[^note-8]: De Rijk 1962–67, Vol. II, 71.
-
-[^note-9]: Pinborg 1976, 1–4.
-
-[^note-10]: 这一问题的文本，见于 Franz Pelster, “Der Oxforder Theologie Richardus Rufus O.F.M. über die Frage, ‘*Utrum Christus in triduo mortis fuerit homo*’”, *Recherches de Théologie Ancienne et Médiévale*, 16 (1949), 259–280。培根的讨论，见 Thomas S. Maloney (ed. & tr.), *Roger Bacon, Compendium of the Study of Theology*, Studien und Texte zur Geistesgeschichte des Mittelalters 20, (Leiden: E. J. Brill, 1988), par. 86–101。
-
-[^note-11]: Pelster 1949: p. 279, ll. 136–144.
-
-[^note-12]: Bacon, *Compendium*, trans. Maloney 1988: par. 103: “*Sed adhuc cavillant de esse habitudinis, sed hoc in propositione habet locum, et ideo destruetur postea, cum de propositionibus fiet sermo*”。值得注意的是，Maloney 把 “*esse habituale*” 与 “*esse habitudinis*” 都译作 “habitual being”（习性存在）；但培根本人的文本足以表明这是两个不同的概念，或许正应因此译作不同的词。
-
-[^note-13]: 与这套术语相关，Lewry（1985, p. 22）把 C 283B 在 folio 207va 上误录为 “*esse habituale sive commune*”（因而或许看到的是培根批评 Rufus 时用的那套术语），而 *Abstractiones* 的抄写者写下的分明是 “*esse habitudinis sive consequentiae*”。
-
-[^note-14]: Ockham, (ed. Boehner et al.,) p. 263.
-
-[^note-15]: 与此特别相关的是对诡辩句 OMNIS PHOENIX EST 的研究——Lewry（1985）p. 22 在其中看到了这位 Magister 采纳培根所批评观念的可能证据。
-
-[^note-16]: 这些地方与下列诡辩句有关：(1) OMNE COLORATUM EST：引入这一区分，是为了解释该诡辩句反驳中某个论证的一个被认为的错误，即 “*Omne coloratum est. Omne album est coloratum. Ergo omne album est*”。据说这个论证在 “*esse*” 上有歧义：第一个前提里是 “*esse operatio entis*”，第二个前提里则是 “*esse habitudinis sive consequentiae*”。理查德接着把前者按直言命题理解，把后者按假言命题理解。奥卡姆的批评（见前注）在此似乎切题：歧义是语义谬误，而命题类型的区分本质上是句法层面的。正如奥卡姆所说，任何命题都可以变成这两种之一。然而重要的观察是：理查德并没有把这一区分当作他本人对该诡辩句偏好的解答，而只是把它当作某些人对反驳中一个论证之错误的说法。(2) OMNIS HOMO DE NECESSITATE EST ANIMAL：这里他同样给出多个解答，第二个解答又是注意与 “*esse*” 相关的语词歧义谬误，如前。但这里似乎清楚，这并不是他偏好的解答；他主张这条诡辩句最好通过应用 “*necessitas*” 的组合与拆分意义来解答。(3) OMNIS ASINUS EST HOMO：这里这一区分再次被提出来，用以解释论证两个前提之间的某种歧义，如：“*Omne animal est homo. Omnis asinus est animal. Ergo omnis asinus est homo*”。
-
-[^note-17]: 这一区分见于 Norman Kretzmann (tr.), *William of Sherwood's Introduction to Logic*, (Minneapolis: University of Minnesota Press, 1966), 125–126，另见 Kretzmann (tr.), *William of Sherwood's Treatise on Syncategorematic Words*, (Minneapolis: University of Minnesota Press, 1968), 92–93。
-
-[^note-18]: Braakhuis 1981, 145–149.
 
 ## 参考文献
 
@@ -152,3 +114,41 @@ De Rijk 提出 Richard Fishacre 之名，不同意 Macray 提出的 Richard Fitz
 沃尔特·伯利 | 奥卡姆的威廉 | 法弗舍姆的西蒙 | 诡辩 | 舍伍德的威廉 | 亚当·德·沃德汉姆
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
+
+## 脚注
+
+[^note-1]: 萨克森的阿尔伯特（Albert of Saxony）在 *Perutilis Logica* 里讨论排除词 “*tantum*” 的开场段落中，给 “*abstractio*” 一词下了这样的定义：“*Abstractio est dubitabilium propositionum collectio*（abstractio 即令人困惑的命题的汇集）”（Erfurt 抄本，Amploniana，Cod. Q 242，f. 33v）。阿尔伯特这部论著的这一节，1518 年威尼斯版未予刊布。中世纪另一部以 “*Abstractiones*” 为题的已知论著出自某位 Hervaeus Sophista，de Libera 1986 已将其刊布。由此看来，“*abstractio*” 一词似乎指诡辩句的“汇集”，或许还特别强调这类汇集的“摘编”性质。事实上，Hervaeus 的汇集仅用五张对开纸就容纳了约 298 条诡辩句；而理查德在 Digby 24 抄本中用了将近三十张对开纸处理约 305 条诡辩句。
+
+[^note-2]: De Rijk 1962–67, Vol. II, pt 1., 62–85 and 444–447.
+
+[^note-3]: 抄本 B、D、O、P、R 的描述见 de Rijk 1962–67；De Rijk 不知晓抄本 C 与 K。抄本 C 的简要描述见 P.O. Lewry, “Oxford Logic 1250–1275: Nicholas and Peter of Cornwall,” in Lewry 1985, 22。上述抄本的更多描述见 Raedts 1987, 107–111。
+
+[^note-4]: Ebbesen 1987, 136；Lewry 1985。该抄本定年为 1295 年，但 Lewry 指出，作者用了 “*Henricus est rex Angliae*” 这个例子，而亨利死于 1272 年。因此对 Magister Abstractionum 的提及可能早至 1270 年代。
+
+[^note-5]: De Rijk 1986: 27.
+
+[^note-6]: William of Ockham, *Summa Logicae*, ed. Philotheus Boehner, Gideon Gál, and Stephen Brown (St. Bonaventure, N.Y. 1974), 367。虽然这看起来是奥卡姆明确提及 Magister Abstractionum 的唯一一处，但编者们指出了一些他们认为奥卡姆明显想到这位 Magister 的其他地方（如 *Summa Logicae* III-1, c.16, 405；II, c. 4, 262）。关于 Campsall、John of Reading 与亚当·德·沃德汉姆书中的引用，见 *Summa Logicae* 导言，51*, n. 17。
+
+[^note-7]: 设立“情境（*casus*）”——论辩双方有义务在其中各自展开论证——催生了一类特殊的诡辩文献文类，称为 “*obligationes*”（义务论辩）。在 *Abstractiones* 接近结尾处的诡辩句展开中，我们尤其注意到 “*obligatio*” 的技巧。关于义务论辩历史发展的讨论，见 Stump 1982 与 Spade 1982。
+
+[^note-8]: De Rijk 1962–67, Vol. II, 71.
+
+[^note-9]: Pinborg 1976, 1–4.
+
+[^note-10]: 这一问题的文本，见于 Franz Pelster, “Der Oxforder Theologie Richardus Rufus O.F.M. über die Frage, ‘*Utrum Christus in triduo mortis fuerit homo*’”, *Recherches de Théologie Ancienne et Médiévale*, 16 (1949), 259–280。培根的讨论，见 Thomas S. Maloney (ed. & tr.), *Roger Bacon, Compendium of the Study of Theology*, Studien und Texte zur Geistesgeschichte des Mittelalters 20, (Leiden: E. J. Brill, 1988), par. 86–101。
+
+[^note-11]: Pelster 1949: p. 279, ll. 136–144.
+
+[^note-12]: Bacon, *Compendium*, trans. Maloney 1988: par. 103: “*Sed adhuc cavillant de esse habitudinis, sed hoc in propositione habet locum, et ideo destruetur postea, cum de propositionibus fiet sermo*”。值得注意的是，Maloney 把 “*esse habituale*” 与 “*esse habitudinis*” 都译作 “habitual being”（习性存在）；但培根本人的文本足以表明这是两个不同的概念，或许正应因此译作不同的词。
+
+[^note-13]: 与这套术语相关，Lewry（1985, p. 22）把 C 283B 在 folio 207va 上误录为 “*esse habituale sive commune*”（因而或许看到的是培根批评 Rufus 时用的那套术语），而 *Abstractiones* 的抄写者写下的分明是 “*esse habitudinis sive consequentiae*”。
+
+[^note-14]: Ockham, (ed. Boehner et al.,) p. 263.
+
+[^note-15]: 与此特别相关的是对诡辩句 OMNIS PHOENIX EST 的研究——Lewry（1985）p. 22 在其中看到了这位 Magister 采纳培根所批评观念的可能证据。
+
+[^note-16]: 这些地方与下列诡辩句有关：(1) OMNE COLORATUM EST：引入这一区分，是为了解释该诡辩句反驳中某个论证的一个被认为的错误，即 “*Omne coloratum est. Omne album est coloratum. Ergo omne album est*”。据说这个论证在 “*esse*” 上有歧义：第一个前提里是 “*esse operatio entis*”，第二个前提里则是 “*esse habitudinis sive consequentiae*”。理查德接着把前者按直言命题理解，把后者按假言命题理解。奥卡姆的批评（见前注）在此似乎切题：歧义是语义谬误，而命题类型的区分本质上是句法层面的。正如奥卡姆所说，任何命题都可以变成这两种之一。然而重要的观察是：理查德并没有把这一区分当作他本人对该诡辩句偏好的解答，而只是把它当作某些人对反驳中一个论证之错误的说法。(2) OMNIS HOMO DE NECESSITATE EST ANIMAL：这里他同样给出多个解答，第二个解答又是注意与 “*esse*” 相关的语词歧义谬误，如前。但这里似乎清楚，这并不是他偏好的解答；他主张这条诡辩句最好通过应用 “*necessitas*” 的组合与拆分意义来解答。(3) OMNIS ASINUS EST HOMO：这里这一区分再次被提出来，用以解释论证两个前提之间的某种歧义，如：“*Omne animal est homo. Omnis asinus est animal. Ergo omnis asinus est homo*”。
+
+[^note-17]: 这一区分见于 Norman Kretzmann (tr.), *William of Sherwood's Introduction to Logic*, (Minneapolis: University of Minnesota Press, 1966), 125–126，另见 Kretzmann (tr.), *William of Sherwood's Treatise on Syncategorematic Words*, (Minneapolis: University of Minnesota Press, 1968), 92–93。
+
+[^note-18]: Braakhuis 1981, 145–149.
