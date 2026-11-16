@@ -93,3 +93,5 @@
 * 单体文档超 1000 行或 100KB → 按文件夹拆分（登记册与生成物豁免），见 [01](01-repository-structure.md) 与 ADR-0004。
 * 根目录出现散件/未知目录 → 迁 `script/`（本地草稿）、`state/`（运行态）或 `specs/<NNN>-*/bin|results/`（入库凭证）；根目录白名单见 [01](01-repository-structure.md) 与 ADR-0023，门禁 `tools/check_junk.py`。
 * 改站点构建 / 主题 / 搜索 → 先读 [`.vitepress/README.md`](../.vitepress/README.md)；命令与门禁口径仍以 [05](05-ci-and-tools.md) 为准。
+* 标准化中文 markdown / 尾序·编号·H1·脚注位次 / 回退重走体例校 → 按 [04](04-translation-workflow.md) s2.4 双轴与 ADR-0063；体例判定表在 04，判定权与规则所有权在 [05](05-ci-and-tools.md)。
+* 动 `en/` 或 `yuanwen/` 的"看起来错了"处 → 先读 ADR-0062 三出口（文字→全局勘误表＋译注；HTML 格式→`baseline/en-patches.json`；转换器缺陷→改 `tools/yuanwen.py`）；`en/` 与 `yuanwen/` 文字一致性由不变量 I2/I3 机检（ADR-0063），禁手改产物。

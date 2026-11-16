@@ -10,10 +10,10 @@
 
 | 类型 | 触发 | 状态序列 |
 | ---- | ---- | -------- |
-| retranslate（重译） | 全量重译战役、错误过多重处理 | pending → cleared → s0_source_checked（源审计前置）→ drafted → s1_checked → s2_checked → s2.4_termchecked（术语校）→ s2.5_checked（审计已译，全文档）→ s3_checked → r1_reviewed → r2_reviewed → r3_reviewed（终审，仅用户显式指定会话执行，ADR-0054）→ done |
-| update（更新） | 上游 SEP 修订引发 | pending → s0_source_checked（仅变更段）→ s1_checked（仅变更段）→ s2_checked（变更段所在节）→ s2.4_termchecked（仅变更段）→ s2.5_checked（仅变更段；基准变更时全文档）→ s3_checked（全文档）→ r1（仅变更段）→ r2（变更段所在节）→ r3（全文档，仅用户显式指定会话执行，ADR-0054）→ done |
+| retranslate（重译） | 全量重译战役、错误过多重处理 | pending → cleared → s0_source_checked（源审计前置）→ drafted → s1_checked → s2_checked → s2.4_termchecked（术语与体例校，ADR-0063 双轴）→ s2.5_checked（审计已译，全文档）→ s3_checked → r1_reviewed → r2_reviewed → r3_reviewed（终审，仅用户显式指定会话执行，ADR-0054）→ done |
+| update（更新） | 上游 SEP 修订引发 | pending → s0_source_checked（仅变更段）→ s1_checked（仅变更段）→ s2_checked（变更段所在节）→ s2.4_termchecked（术语与体例校；体例轴与勘误轴跑全文档）→ s2.5_checked（仅变更段；基准变更时全文档）→ s3_checked（全文档）→ r1（仅变更段）→ r2（变更段所在节）→ r3（全文档，仅用户显式指定会话执行，ADR-0054）→ done |
 
-**禁止跳步**。blocked 标志独立于状态，用 `advance --unblock` 解除。受控回退：`revert-state <slug> --to s2.5_checked` 仅适用于 s3_checked 及其后状态（ADR-0043 全量回退；steps 留史）。
+**禁止跳步**。blocked 标志独立于状态，用 `advance --unblock` 解除。受控回退：`revert-state <slug> --to s2.5_checked` 适用于 s3_checked 及其后状态（ADR-0043 全量回退；steps 留史）；ADR-0063 起目标态扩 `s2.4_termchecked`、源态集扩 `s2.5_checked`（中文体例归一全量回退，416 件口径见 specs/039）。
 
 ## 六道与前置环节的含义（经典出版映射，用户 2026-10-26 裁定；s2.4/s2.5 环节 ADR-0040/0043 增补）
 
@@ -39,9 +39,28 @@
 * **凭证**：机检输出＋镜像轴逐段人审记录，登记任务 steps evidence。
 * **存量补课**：在途件（drafted…r3_reviewed）用 `task_ops.py source-audit <slug>` 追加 s0 记录（状态不迁移），发现缺陷按 [ADR-0040](adr/0040-审计已译环节与题注编号.md) 三层落位；done 存量由 specs/036 按字头批量补做（不改状态机，台账为凭证）。**进 s3 前任务历史必须已有 s0 记录**（`advance` 机检）。
 
-### 术语校环节（s2.4_termchecked，2026-11-14 升独立环节，ADR-0043）
+### 术语与体例校环节（s2.4_termchecked，2026-11-14 立环节 ADR-0043；2026-11-16 扩双轴 ADR-0063）
 
-位置在 s2_checked 之后、s2.5 审计之前（原内嵌于 s1 术语漂移／s3 一致性／r2 语境分流的子项升格，用户裁定）：逐词条对照两登记册（`shu-yu-biao.md`、`ren-ming-biao.md`）核验正文用词；未登记词按“先登记后使用”复查（[03](03-terminology.md)）；登记册生卒列等修正（specs/026 a2 W2）同步于本阶段。操作 `advance --step s24`；机检挂钩 `check_terms --docs`（硬错误拦，告警留 evidence）。**本环节每条告警按 [03](03-terminology.md)“差异五分类”定性（D1–D5）并给出三出口之一（修复／登记／豁免），禁止“看到了不处理”；修复以句/段为单位回源重译或逐处人工改，禁止机械替换；D3–D5 须联网查证并留凭证（[ADR-0048](adr/0048-术语落地差异处置标准.md)）。** MQM Terminology 归本环节。
+位置在 s2_checked 之后、s2.5 审计之前，三条轴依次过，`advance --step s24` 顺序挂 `_term_gate`（术语）与 `_style_gate`（体例＋勘误）。状态名与位次不变，职责扩容。
+
+**术语轴**（ADR-0043，用户 2026-11-14 裁定）：逐词条对照两登记册（`shu-yu-biao.md`、`ren-ming-biao.md`）核验正文用词；未登记词按“先登记后使用”复查（[03](03-terminology.md)）；登记册生卒列等修正（specs/026 a2 W2）同步于本阶段。机检挂钩 `check_terms --docs`（硬错误拦，告警留 evidence）。**本环节每条告警按 [03](03-terminology.md)“差异五分类”定性（D1–D5）并给出三出口之一（修复／登记／豁免），禁止“看到了不处理”；修复以句/段为单位回源重译或逐处人工改，禁止机械替换；D3–D5 须联网查证并留凭证（[ADR-0048](adr/0048-术语落地差异处置标准.md)）。** MQM Terminology 归本环节。
+
+**体例轴**（[ADR-0063](adr/0063-中文体例归一入s2.4双轴与转换保真不变量.md)，2026-11-16 用户批准）——判定表：
+
+| 项 | 判据 | 档 |
+| ---- | ---- | ---- |
+| 尾节齐备与顺序 | `参考文献 > 学术工具 > 其他网络资源 > 相关词条 > 脚注`；`脚注` 恒末位（随 EN `Notes（原文脚注）` 位置） | 硬 |
+| 小节编号 | `## N. 标题`、`### N.N 标题`——点号式，与原文一致；不跳号，层级 ≤6 | 硬 |
+| H1 形态 | `# 中文题 英文题 (作者)`；英文题与 `yuanwen` 同件 H1 一致 | 硬 |
+| 出版信息 | `> *首次发表于 …*` 引块形 | 硬 |
+| 参考文献承载 | `[^key]:` 定义形态，marker ↔ 定义配对闭合 | 硬 |
+| 正文体例 | `check_style`、`check_quotes` 定点档 | 硬 |
+| 空白类 | 行尾空格、3+ 空行、标题前后空行、列表符统一、围栏语言、BOM/LF/收尾换行 | 告警（归一次性修复轮，不拦门） |
+| 豁免 | 桩件、`glossary-maintenance`、带点补充材料子文档 | — |
+
+**勘误轴**（ADR-0062 决策 4 的落地机检）：该件在全局勘误表有行的，按“中文承载”列三值判定——`译注` 者中文禁含上游错字形、必含参考读法且就近含 `译注：`；`照录区，无需译注` 者允许含上游形但禁含译注；`纯排版` 者不检。判据输入即表内“中文承载”与“中文落地”两列，`待定` 按未完成处理。引块照录英文原文者原文不动（引文豁免），译注置于引块之后。
+
+**凭证**：一条 evidence 含三段摘要（术语输出／体例 JSON 计数／勘误落地状态）。update 任务仍以 `changes:` 开头；体例轴与勘误轴跑全文档（文档级不变量，不分变更段）。
 
 ### 审计已译环节（s2.5_checked，audited 更名并扩容，ADR-0040/0043；镜像轴移出至 s0，ADR-0052）
 

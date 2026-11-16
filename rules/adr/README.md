@@ -94,3 +94,4 @@
 | [0060](0060-别名行去链接.md) | 别名词条行去链接（ADR-0057 覆盖面扩展：557 个路径被 1198 行引用，641 行“——见”别名去链接、真实条目行独占入口；空分组门禁豁免别名行、片段残缺门禁改按 baseline 全集；侧栏别名链接消失属预期） | accepted |
 | [0061](0061-CI同类合并为矩阵.md) | 同类 CI 合并为矩阵（checks 门禁矩阵以 `check_all --list-gates` 为唯一事实源、退役 sync-headers/file-name-check/check-images；format 三工具一条流＋禁改区；links 范围单点；render-audit 四片矩阵＋bun 运行时；create-pdf 钉 3.15 且首字母过滤按小节；壳仓 push/sync 部署二合一） | accepted |
 | [0062](0062-en原始物文字冻结与全局勘误表.md) | en 原始物文字冻结与全局勘误表（ADR-0027 最初禁令恢复：`en/` 与原始钉逐字节一致，文字层与格式层一律不改；文字缺陷入全局勘误表＋中文译注，格式问题入 `baseline/en-patches.json` 补丁池由转换层应用、命中计数硬校验；`yuanwen/` 忠实于 HTML 文字；112 件历史改正全量回退、分歧账转 tombstone） | accepted |
+| [0063](0063-中文体例归一入s2.4双轴与转换保真不变量.md) | 中文体例归一入 s2.4 双轴与转换保真不变量（s2.4 扩术语＋体例＋勘误三轴；尾序 canonical 且 `脚注` 末位、编号点号式与原文一致、H1 中英题＋作者括号；I2/I3 机检 `yuanwen` 文字≡`en`、格式补丁准入谓词与 C1–C4 四关；判定权只读与规则所有权矩阵；revert-state 目标扩 s2.4、回退面 416 含 done；规则可判性四件套与测量效度；LaTeX 第三轮否决存档） | accepted |
