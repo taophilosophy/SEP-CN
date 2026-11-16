@@ -115,9 +115,20 @@ html {
 
 /* 放大后仍不撑高行盒：公式行内盒按内容高度算，行距由正文 line-height 决定 */
 
-
 .math-display {
   margin: 1rem 0;
+}
+
+/* 长公式横向滚动盒（2026-11-17 全量矩阵）：长公式的 svg 按自然尺寸排
+   （实测 37.1ex ≈ 500px），而 .math-tex 原是 inline 元素，overflow-x 对
+   inline 不生效——所有 <524px 的手机视口整页横溢 84–164px。改成
+   inline-block + max-width:100% 后，超宽公式在自身盒内滚动，不再撑破页面。 */
+.math-tex {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
 }
 
 .math-tex mjx-container,
@@ -127,9 +138,6 @@ html {
 }
 
 /* 公式复制按钮（2026-10-30）：悬停公式时浮现，复制 TeX 原文 */
-.math-tex {
-  position: relative;
-}
 
 .math-copy {
   position: absolute;

@@ -95,3 +95,30 @@
 - 行距：正文 `line-height:28px` 不变；含上下标的行内公式会把该行撑到约 33px（原本就比正文行高的上下标结构），纯文字行不受影响。
 - 对照面板注入的英文文档共用同一 `.math-tex` 规则，两侧同步生效。
 - 凭证：`results/math-mobile-390.png`、`results/math-desktop-1280.png`。
+
+## 2026-11-17 主题全量矩阵测试（用户：全量测试找 bug＋功能建议；适配 720p/1080p/2K/4K、最新 iPhone/iPad、小米旗舰）
+
+**覆盖面**：19 视口 × 6–8 态 × 亮/暗（`results/full-matrix-20261117.json`，跑批日志 `matrix-run4.log`，截图 `matrix-*.png`）。
+视口：1280×720、1920×1080、1707×960（2K@150%）、2560×1440、3840×2160；iPad mini 744×1133、Air 820×1180、Pro 13 竖 1032×1376／横 1376×1024、Air 横 1180×820；iPhone SE 375×667、15/16 393×852、16 Pro 402×874、16 Pro Max 440×956；安卓 360×800、小米 15 393×873、小米 Ultra 412×915、430×932、手机横屏 852×393。页面：首页／`a/abstract-objects`（公式）／`a/axiom-choice`（公式＋30 行表格）／对照 side·inter·en-only／`yuanwen` 原文页回程。
+
+**测量陷阱（先行记录，此前两轮结论被它污染）**：Chrome 157 的 CDP `Emulation.setDeviceMetricsOverride` 在带 `mobile:true` 时会被词条页（MathJax 隐藏 iframe）重置并钳制到 524px——前几轮手机实测全在 524 宽下进行，`<524` 的溢出根本看不见。解法：`mobile:false`（本主题响应式全走 CSS 媒体查询，与 mobile 旗标无关）＋导航后重发 override＋每视口独立标签页。前一轮（run2/run3）与本轮（run4）的差异即此。
+
+### 发现并修复的 bug
+
+| # | 症状（真机视口实测） | 根因 | 处置 |
+| - | ---- | ---- | ---- |
+| 1 | **所有 ≤440px 手机整页横溢 84–164px**（zh/对照/交错/原文页全态，axiom 达 303–340px） | 长公式 svg 按自然尺寸排（实测 37.1ex≈500px），而 `.math-tex` 是 inline 元素，其上的 `overflow-x:auto` **对 inline 不生效**——旧记录「宽公式在容器内滚动」实际从未生效，只因旧测量在 524px 钳制宽度下做，500px 公式恰好装得下 | `.math-tex` 改 `inline-block; max-width:100%; overflow-x:auto`（custom.css 数学段）：超宽公式在自身盒内滚动，页级溢出归零 |
+| 2 | **2K/4K 对照双栏行长失控**：中文列 1841px（2560 下 1201、1920 下 881），英文面板 1919px——单行 100–190 字符不可读 | side 让位规则把 `.content-container` 的宽度限制全拆了，且无大屏上限；仅英文态英文文档撑满整窗（3840px） | `vp-compat.css` 增 `@media (min-width:1280px)`：side 中文列与 `body.bili-mode .bili-doc > .vp-doc`（面板＋仅英文共用）一律 `max-width:43rem; margin-inline:auto`，在各自栏内居中。≤1279 半屏本就不超 688px，维持原生满宽 |
+
+### 复验（run4，修复后全量重跑）
+
+- **19/19 视口全态 `hOverflow` 干净**（唯一非零值是桌面滚动条的 −15）；axiom 表格在手机上是容器内滚动（合法形态），页级不溢出。
+- 4K：side 中文列 `[609,112,688]`（居中）、面板内英文 `.vp-doc` 688 居中、仅英文内文档 688 居中（宿主仍是整屏滚动容器）；1280 半屏布局不变（561px，帽不触发）。
+- Esc 关闭 19/19 零残留（body 类清空、面板移除）；暗色 `html.dark`＋暖黑底正常；`--bili-bar-h` 与实测条高全视口一致（iPad Pro 竖屏折行 91px 也正确反馈）；触摸目标 ≥30.75px（平板/手机），桌面 19.5px 属鼠标常态。
+- 交错块/复制按钮/回程入口（en 页右下浮窗 `[634,1080,98,40]` 等）各视口在位。
+- 行内公式改 inline-block 后基线完好（`matrix-mathfix-393.png`）：svg 高 21–30px vs 行高 28px，与修前一致。
+
+### 判定不是 bug 的两项（防重查）
+
+- **VPSidebar 宽度随视口增长**（1920 下 505px、3840 下 1465px）：VitePress 2.0-alpha 在 `≥90rem` 用 `calc((100% - (var(--vp-layout-max-width) - 4rem)) / 2 + var(--vp-sidebar-width) - 2rem)` 把侧栏推宽以让正文居中——实测数值与公式精确吻合，上游设计。
+- **iPad Pro 竖屏（1032px）控制条折两行（91px）**：条内 8 控件在半屏面板宽度下放不下；`--bili-bar-h` 已如实反馈，正文留白随之自适应，可用性无损。

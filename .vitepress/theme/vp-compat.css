@@ -224,6 +224,22 @@ body.bili-stack.bili-mode .vp-doc {
   padding: 0;
 }
 
+/* 大屏行长治理（2026-11-17 全量矩阵）：side 让位把中文半屏的宽度限制全拆了，
+   英文面板与仅英文态同理——2K/4K 下中文列实测拉到 1841px、英文 1919px，
+   单行 100–190 字符不可读。≥1280 视口一律压回 43rem，在各自栏内居中。
+   （≤1279 的半屏本来就不超过 688px，维持原生满宽。） */
+@media (min-width: 1280px) {
+  body.bili-side:not(.bili-bottombar) .VPDoc .content-container {
+    max-width: 43rem;
+    margin-inline: auto;
+  }
+
+  body.bili-mode .bili-doc > .vp-doc {
+    max-width: 43rem;
+    margin-inline: auto;
+  }
+}
+
 /* 仅英文：中文正文整体退场，英文栏独享屏幕 */
 body.bili-mode.bili-show-en .VPDoc {
   display: none !important;
