@@ -2,7 +2,7 @@
   "slug": "advance-directives",
   "kind": "retranslate",
   "zh_doc": "a/advance-directives.md",
-  "state": "r2_reviewed",
+  "state": "s2.4_termchecked",
   "steps": [
     {
       "step": "s1",
@@ -94,6 +94,13 @@
       "actor": "A-rework-20261115",
       "at": "2026-11-15T13:10:10Z",
       "evidence": "回炉重走 r2（复审·语言/人名；本会话非初译 actor）。prose 余量 76 条逐条重新定性、0 新实修：de-chain 47（医学伦理与形而上学论述定语链，如丧失数目同一性的案例中/关于患者具体价值和偏好的信息——语义自足，维持豁免）；long-sentence 29（最长 125 字为德格拉齐亚反驳图景复合句，冒号/破折号/分号内嵌切分与源句法对应，逐条复核维持豁免）。passive 0、weak 0、新三则 0。人名核对：罗纳德·德沃金/杰夫·麦克马汉/大卫·德格拉齐亚/西娜·希夫林/珍妮弗·霍金斯等译名括注原文名与 ren-ming-biao 一致，check_terms 0 真实告警（109 条为工具假阳性已定性）。语体结论：现代汉语学术书面语；破折号 57 处仅用于插入与解释，无滥用；一个无滥用；无 AI 腔套话（值得注意的是 1 处源文直承）；无文言句式。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "P8-revert-20261117",
+      "at": "2026-11-17T01:13:16Z",
+      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
     }
   ],
   "blockers": [],

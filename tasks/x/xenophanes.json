@@ -2,7 +2,7 @@
   "slug": "xenophanes",
   "kind": "retranslate",
   "zh_doc": "x/xenophanes.md",
-  "state": "r2_reviewed",
+  "state": "s2.4_termchecked",
   "steps": [
     {
       "step": "clear",
@@ -101,6 +101,13 @@
       "actor": "XY-rework-20261115",
       "at": "2026-11-15T15:33:17Z",
       "evidence": "回炉重走 r2（复审·语言/人名；本会话非初译 actor）。check_prose --strict 0 issue：余量 0、逐条定性面空（原 s2 已 16→0 清账无存留，无豁免清单）。人名核对：克塞诺芬尼（亦作色诺芬尼）/荷马/赫西俄德/毕达哥拉斯/第欧根尼·拉尔修/埃提乌斯/阿特纳奥斯/克莱门/塞克斯都·恩披里柯/辛普里丘/阿那克萨戈拉/恩培多克勒/柏拉图/亚里士多德/泰勒斯/阿那克西曼德/阿那克西美尼/塞奥多雷特/斯托拜乌斯/奥林匹奥多鲁斯/盖伦/希波吕托斯/埃庇米尼得斯/希罗多德/伪普鲁塔克/阿里斯托克勒斯/赫罗迪安/梭伦/欧里庇得斯/皮埃尔·培尔/梅里克·卡索邦/莱布尼茨/伏尔泰/费尔巴哈/弗洛伊德/赫拉克利特/巴门尼德/苏格拉底/麦里梭/芝诺 与 ren-ming-biao 一致；check_terms --docs 0 告警（人名面），并抽样直核 Aristocles/Athenaeus/Casaubon/Stobaeus/Xenophanes 五行译名与籍属在册。语体结论：现代汉语学术书面语；破折号 28 处仅用于插入与解释，无滥用；一个 8 处无滥用；无 AI 腔套话；无文言句式；引文与书目豁免面之外语体合规。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "P8-revert-20261117",
+      "at": "2026-11-17T01:13:18Z",
+      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
     }
   ],
   "blockers": [],

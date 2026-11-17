@@ -13,7 +13,7 @@
 | retranslate（重译） | 全量重译战役、错误过多重处理 | pending → cleared → s0_source_checked（源审计前置）→ drafted → s1_checked → s2_checked → s2.4_termchecked（术语与体例校，ADR-0063 双轴）→ s2.5_checked（审计已译，全文档）→ s3_checked → r1_reviewed → r2_reviewed → r3_reviewed（终审，仅用户显式指定会话执行，ADR-0054）→ done |
 | update（更新） | 上游 SEP 修订引发 | pending → s0_source_checked（仅变更段）→ s1_checked（仅变更段）→ s2_checked（变更段所在节）→ s2.4_termchecked（术语与体例校；体例轴与勘误轴跑全文档）→ s2.5_checked（仅变更段；基准变更时全文档）→ s3_checked（全文档）→ r1（仅变更段）→ r2（变更段所在节）→ r3（全文档，仅用户显式指定会话执行，ADR-0054）→ done |
 
-**禁止跳步**。blocked 标志独立于状态，用 `advance --unblock` 解除。受控回退：`revert-state <slug> --to s2.5_checked` 适用于 s3_checked 及其后状态（ADR-0043 全量回退；steps 留史）；ADR-0063 起目标态扩 `s2.4_termchecked`、源态集扩 `s2.5_checked`（中文体例归一全量回退，416 件口径见 specs/039）。
+**禁止跳步**。blocked 标志独立于状态，用 `advance --unblock` 解除。受控回退：`revert-state <slug> --to s2.5_checked` 适用于 s3_checked 及其后状态（ADR-0043 全量回退；steps 留史）；ADR-0063 起目标态扩 `s2.4_termchecked`、源态集扩 `s2.5_checked`（中文体例归一全量回退，416 件口径见 specs/039）；**回退件三轴在 s25 复检**（advance s24 不可达，ADR-0063 2026-11-17 补记）。
 
 ## 六道与前置环节的含义（经典出版映射，用户 2026-10-26 裁定；s2.4/s2.5 环节 ADR-0040/0043 增补）
 

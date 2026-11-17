@@ -2,7 +2,7 @@
   "slug": "al-farabi",
   "kind": "retranslate",
   "zh_doc": "a/al-farabi.md",
-  "state": "r2_reviewed",
+  "state": "s2.4_termchecked",
   "steps": [
     {
       "step": "clear",
@@ -101,6 +101,13 @@
       "actor": "A-rework-20261115",
       "at": "2026-11-15T16:53:44Z",
       "evidence": "回炉重走 r2（复审·语言/人名；本会话非初译 actor）。prose 余量 28 条逐条重新定性、0 新实修：de-chain 14（哲学术语文定语链，维持豁免）；long-sentence 11（学术史综述复合句，与源句法对应，维持豁免）；weak-verb 1（加以开掘? 无——本件为横跨几个哲学学科句弱动词标记，宾语固定，维持豁免）；passive-bei 1（被构想为——学述被动自然，维持豁免）；exists-there 1（存在着显著的和谐——该论著论证句，与源 there is striking harmony 对应，语义自足维持豁免）。人名核对：法拉比/肯迪/伊本·西那/安萨里/马赫迪/巴特沃斯/哈立德/德鲁阿尔/格曼/古塔斯/门恩/瓦拉/拉希德/扬诺斯/马蒂拉/赖斯曼/尼利亚/阿布拉姆/弗罗伊登塔尔等与 ren-ming-biao 一致，check_terms 0 告警。语体结论：现代汉语学术书面语；破折号仅 2 处，无滥用；一个 13 处无滥用；无 AI 腔套话；无文言句式。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "P8-revert-20261117",
+      "at": "2026-11-17T01:13:16Z",
+      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
     }
   ],
   "blockers": [],

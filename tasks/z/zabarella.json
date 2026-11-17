@@ -2,7 +2,7 @@
   "slug": "zabarella",
   "kind": "retranslate",
   "zh_doc": "z/zabarella.md",
-  "state": "r2_reviewed",
+  "state": "s2.4_termchecked",
   "steps": [
     {
       "step": "clear",
@@ -101,6 +101,13 @@
       "actor": "Z-rework-20261115",
       "at": "2026-11-15T12:05:29Z",
       "evidence": "回炉重走 r2（复审·语体与体例，机检＋通读并行）：①正文数字/年代机检 162↔159 全对齐，余额差仅为日期记法转换（May 17→5 月 17 日、Feb 8→2 月 8 日、5th September→9 月 5 日、15th October→10 月 15 日）与「30 treatises→三十篇」，无实数错漏（与回炉前 r2 凭证结论同构复算）；②九节标题与源一一正对位，尾四节序合模板；③逻辑链重核：§2 两重确定性、§4 综合秩序/分析秩序对举、§5 回归三步（infer→infer 首尾闭合）、§6 双重照亮→普遍照亮者→等同上帝递进、§7 欧几里得类比、§8 两方式与生理学归属推论、§9 兰德尔论题史与「移动靶标」限定，均与源一致；④密度复算（修后文本）：破折号 46 处全职能化、一字线 1（1523—1607）、半字线 156 全在引注/照录区、量词「一个」12 处全实指；⑤语体通读：现代汉语学术书面语，无文言仿古句式；六器机检复跑全绿（style 0/prose 0/math 0/math_zh 0/academic strict 0/pairs 0）。新增问题：0。分级：Critical 0、Major 0、Minor 0。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "P8-revert-20261117",
+      "at": "2026-11-17T01:13:18Z",
+      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
     }
   ],
   "blockers": [],

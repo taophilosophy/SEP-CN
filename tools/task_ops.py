@@ -201,6 +201,13 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
             "进三校前必须已有源审计记录（s0，ADR-0052）：在途件先跑 "
             "task_ops.py source-audit 补课（specs/036），新件先 advance --step s0")
     if step == "s25" and task.get("kind") != "glossary-maintenance":
+        # 三轴并挂（ADR-0063 2026-11-17 补记）：受控回退的目标态是
+        # s2.4_termchecked（视为该 checkpoint 已完成），随后 normal 推进即 s25，
+        # advance s24 对回退件不可达 → 术语/体例/勘误三轴须在 s25 复检，
+        # 否则 P8 回退件整体绕过体例硬门。同一先例见 ADR-0043「s2.4 增项并入
+        # s25 凭证」。三项均只读幂等，正常件在 s24 刚过、此处复检零成本。
+        _term_gate(task.get("zh_doc"))  # 术语轴（rules/03、ADR-0043）
+        _style_gate(task.get("zh_doc"))  # 体例轴＋勘误轴（ADR-0063）
         _audit_gate(task.get("zh_doc"))  # 审计挂钩（rules/04、ADR-0040）
         _audit_independence_gate(task, actor, evidence)  # 同源盲区对冲（specs/027 FR-001）
     task["state"] = STEPS[step]

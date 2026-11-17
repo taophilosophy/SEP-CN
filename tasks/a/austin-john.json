@@ -2,7 +2,7 @@
   "slug": "austin-john",
   "kind": "retranslate",
   "zh_doc": "a/austin-john.md",
-  "state": "r2_reviewed",
+  "state": "s2.4_termchecked",
   "steps": [
     {
       "step": "clear",
@@ -101,6 +101,13 @@
       "actor": "A-rework-20261115",
       "at": "2026-11-15T12:07:24Z",
       "evidence": "回炉重走 r2（复审·语言/人名；本会话非初译 actor）。prose 余量 44 条逐条重新定性、0 新实修：de-chain 17（法学术语文定语链，维持豁免）；long-sentence 17（法学论证复合句，冒号/分号/破折号内嵌切分，与源句法对应，逐条复核维持豁免；含引注行 1）；passive-bei 5（被视为/被描绘为/被约束/被等同于/被遵从——法学程序语自然被动，维持豁免）；weak-verb 3（作出了类似的评价/作出什么样的普遍陈述/作出经验主张——宾语为固定名词，维持豁免）；chenggong-de 1（源文 succeeded 直承，豁免）；exists-there 1（存在着一些实体或派系——政治现实论述句，语义自足，豁免）。人名核对：边沁/穆勒父子/卡莱尔/霍布斯/休谟/布莱克斯通/凯尔森/哈特/德沃金/萨维尼/奥斯丁译名括注原文名与 ren-ming-biao 一致，check_terms 0 告警。语体结论：现代汉语学术书面语；破折号 21 处仅用于插入与解释，无滥用；一个 22 处无滥用；无 AI 腔套话；无文言句式。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "P8-revert-20261117",
+      "at": "2026-11-17T01:13:16Z",
+      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
     }
   ],
   "blockers": [],

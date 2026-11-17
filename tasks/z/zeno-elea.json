@@ -2,7 +2,7 @@
   "slug": "zeno-elea",
   "kind": "retranslate",
   "zh_doc": "z/zeno-elea.md",
-  "state": "r2_reviewed",
+  "state": "s2.4_termchecked",
   "steps": [
     {
       "step": "clear",
@@ -101,6 +101,13 @@
       "actor": "Z-rework-20261115",
       "at": "2026-11-15T12:24:42Z",
       "evidence": "回炉重走 r2（复审·语体与体例，机检＋通读并行）：①正文数字/年代机检：ASCII 数字余额差 24↔24 全对齐（yw ASCII 混形 p0/t1/d2 等位置标记，zh 统一 Unicode 下标 p₀/t₁/d₂），加日期记法转换（Jan 9 2008→2008 年 1 月 9 日、May 12 2025→2025 年 5 月 12 日、5th c.→公元前 5 世纪、3591 藏号一致），无实数错漏；②节标题九级全对位（§1–§3＋六个四级小节＋参考文献四层子节）；③逻辑链重核：二分法无限中点先行、阿基里斯步距递推、飞矢「与等量者相并」三段论、运动队列公设推理（同大小同速→同时间）、处所无穷倒退、§3 通行观点—芝诺自辩—巴恩斯判断三层结构，均与源一致；④密度复算（修后文本）：破折号 19 处全职能化、量词「一个」62 处全实指、AI 高频词 1 处源生；⑤语体通读：现代汉语学术书面语，无文言仿古句式；六器机检复跑全绿（style 0/prose 0/math 0/math_zh 0/academic strict 0/pairs 0）；⑥check_terms 定点 2 告警引注豁免定性沿用。新增问题：0。分级：Critical 0、Major 0、Minor 0。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "P8-revert-20261117",
+      "at": "2026-11-17T01:13:18Z",
+      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
     }
   ],
   "blockers": [],

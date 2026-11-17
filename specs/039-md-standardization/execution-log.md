@@ -134,3 +134,14 @@
 | 词面守恒 | 9 件初筛“不合格”逐件解剖＝两类良性：①转义类 5 件（blockquote/行首字面 `#`→`\#`，文字零变化，首版转义修复的延续）；②键位重排类 feyerabend（恢复的 1991 条目入键后既有引注重挂——**落点经页码核验正确**：`(Feyerabend 1991, p. 526)`→`-1991-2`＝Conversation def，pp. 487–527 含 526；Conversation 条目仍在册）。词级守恒（剥标记/还原转义后 old−new 字母差）＝**0 缺字** |
 | 复算 | sartre/buber I3 `--deep` 归零；`check_all` 12 项全绿 |
 | 遗留 | ①「134 包嵌套 li」扫描量的是良性结构属性，与缺陷无关，作废；②500+ 候选面（195−sartre/buber 等）仍待逐条定性；③zh 侧对应件的 defs 差额由回炉/翻译面消化（用户裁定不动） |
+
+## 2026-11-17 · P8 回退执行（加强复核：先补机检可达性，再动状态机）
+
+| 项 | 结果 |
+| ---- | ---- |
+| **复核发现（阻断级）** | `revert-state --to s2.4_termchecked` 的既定语义是「checkpoint 视为已完成，随后正常推进即 s25」；而 `_term_gate/_style_gate` 只挂 `step=="s24"`（前驱须 `s2_checked`）。**回退件历史中 s24 已消费，advance s24 不可达** → 416 件重走会整体绕过三轴硬门。按 ADR-0043「s2.4 增项并入 s25 凭证」先例，s25 并挂术语＋体例＋勘误三轴（+审计双钩）。ADR-0063 已补记（2026-11-17），rules/04 状态机括注同步。`TestS25ThreeAxes` 3 例锁定（正常路径复检／回退后复检／体例轴失败阻断） |
+| 台账（只读预跑） | `bin/revert_ledger.py`：回退面 **414 件**（s2.5 395／r2 16／r3 1／done 2，glossary 与无 zh_doc 的 legacy 任务除外），三轴机检 **绿 359／红 55**；红灯 `quote-spacing 43 件次、bold-spacing 17、heading-number 15、italic-cjk 14、curly-quotes 10、tail-order 5、no-html 1`。结果 `results/revert-ledger-20261117.{json,md}` |
+| 台账副产（真实漏网） | **P7 归一器枚举 `[a-z]/*.md` 漏掉 `1/` 非字母目录**：`1/18thGerman-preKant.md` 6 处裸号标题未归一 → 已补点并与 yuanwen 编号对齐（硬档余量 0）；`bin/normalize_zh.py` 枚举扩 `[0-9a-z]`。历史 specs/011 一次性脚本同形枚举，属战役遗留不再改 |
+| 回退执行 | `bin/revert_batch.py`（dry-run 默认、`--execute` 写、幂等跳已回退）：先 3 件试金石（append-only revert-state 步抽验通过），再全量 **356 件**，共 **359 件**置 `s2.4_termchecked`，0 失败、3 skipped（已回退）。快照留 `state/p8-snapshot-before-revert.json`（可复算/回滚） |
+| 回退后状态面 | `s2.4_termchecked 359／s2.5_checked 53／r2 1／r3 1／done 1／cleared 166／pending 617`；红 55 件按原状态留存，待修后并入 |
+| 复核门禁 | `check_all` 12 项全绿（过程中发现并修正 ADR 补记 2 处直角引号） |

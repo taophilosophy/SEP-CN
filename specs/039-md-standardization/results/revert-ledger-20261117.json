@@ -1,0 +1,4177 @@
+{
+ "at": "2026-11-17",
+ "total": 414,
+ "green": 359,
+ "red": 55,
+ "by_state": {
+  "r3_reviewed": 1,
+  "s2.5_checked": 395,
+  "r2_reviewed": 16,
+  "done": 2
+ },
+ "rule_hist": {
+  "quote-spacing": 43,
+  "bold-spacing": 17,
+  "heading-number": 15,
+  "italic-cjk": 14,
+  "curly-quotes": 10,
+  "tail-order": 5,
+  "no-html": 1
+ },
+ "rows": [
+  {
+   "slug": "18thGerman-preKant",
+   "state": "r3_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "1/18thGerman-preKant.md",
+   "status": "red",
+   "hard": [
+    "heading-number: 二级标题须点号式 `N. 标题`：1 克里斯蒂安·托马修斯",
+    "heading-number: 二级标题须点号式 `N. 标题`：2 激进哲学",
+    "heading-number: 二级标题须点号式 `N. 标题`：3 沃尔夫与虔敬派之争",
+    "heading-number: 二级标题须点号式 `N. 标题`：4 亚历山大·戈特利布·鲍姆嘉通",
+    "heading-number: 二级标题须点号式 `N. 标题`：5 克里斯蒂安·奥古斯特·克鲁修斯",
+    "heading-number: 二级标题须点号式 `N. 标题`：6 女性与其他代表性不足的思想家"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "abduction",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/abduction.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "abelard",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/abelard.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "abhidharma",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/abhidharma.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "abilities",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/abilities.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "abner-burgos",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "a/abner-burgos.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 69 vs en 45（容差 2）"
+   ]
+  },
+  {
+   "slug": "abortion",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/abortion.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "abrabanel",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/abrabanel.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "abraham-daud",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/abraham-daud.md",
+   "status": "red",
+   "hard": [
+    "bold-spacing: ** 前缺空格: …），而在那部书里**意志**",
+    "bold-spacing: ** 后缺空格: **意志**扮演着决定性的神…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "abstract-objects",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/abstract-objects.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 161 vs en 137（容差 2）"
+   ]
+  },
+  {
+   "slug": "abu-bakr-al-razi",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "a/abu-bakr-al-razi.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "action-perception",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/action-perception.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …学会通过 TVSS“看见”。被动接收…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "action",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/action.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 325 vs en 314（容差 2）"
+   ]
+  },
+  {
+   "slug": "actualism-possibilism-ethics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/actualism-possibilism-ethics.md",
+   "status": "red",
+   "hard": [
+    "bold-spacing: ** 后缺空格: **如果**执行该选项**会…",
+    "bold-spacing: ** 前缺空格: …果**执行该选项**会**",
+    "bold-spacing: ** 后缺空格: **它***会 ** 导致…"
+   ],
+   "warn": [
+    "count-vs-source: 公式数 zh 335 vs yuanwen 404（偏差超 10%）"
+   ]
+  },
+  {
+   "slug": "adaptationism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/adaptationism.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "addams-jane",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/addams-jane.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "adorno",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/adorno.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 右先于左：阿多诺身后出版的若干战后大学讲座课程，连同他的黑格尔书（1963a [1993]），记录"
+   ]
+  },
+  {
+   "slug": "advance-directives",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "a/advance-directives.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "aesthetic-concept",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetic-concept.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 节标题数 zh 13 vs en 16（容差 2）"
+   ]
+  },
+  {
+   "slug": "aesthetic-experience",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetic-experience.md",
+   "status": "red",
+   "hard": [
+    "bold-spacing: ** 前缺空格: …，审美体验是一种**本身**",
+    "bold-spacing: ** 后缺空格: **本身**具有统一、圆满形…",
+    "bold-spacing: ** 前缺空格: …从区分，因此某物**算作**",
+    "bold-spacing: ** 后缺空格: **算作**艺术不可能是其形…",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *看作*",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *是*"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "aesthetic-judgment",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetic-judgment.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：我们也相信，美、丑等审美属性依赖于非审美属性。依赖与心灵独立性相对：它说的是审美属性确实",
+    "count-vs-source: 书目条数 zh 54 vs en 63（容差 2）"
+   ]
+  },
+  {
+   "slug": "aesthetic-testimony",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetic-testimony.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "aesthetics-18th-british",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetics-18th-british.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "aesthetics-18th-french",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetics-18th-french.md",
+   "status": "red",
+   "hard": [
+    "bold-spacing: ** 前缺空格: …聚焦的核心概念是**摹仿**"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 69 vs en 66（容差 2）"
+   ]
+  },
+  {
+   "slug": "aesthetics-critical-theory",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetics-critical-theory.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "aesthetics-existentialist",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetics-existentialist.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "aesthetics-of-everyday",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetics-of-everyday.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "aesthetics-race",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetics-race.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "african-ethics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/african-ethics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "african-sage",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "a/african-sage.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "agrippa-nettesheim",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/agrippa-nettesheim.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "akan-person",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "a/akan-person.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 50 vs en 44（容差 2）"
+   ]
+  },
+  {
+   "slug": "al-din-al-razi",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/al-din-al-razi.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "al-farabi-psych",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/al-farabi-psych.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 46 vs en 38（容差 2）"
+   ]
+  },
+  {
+   "slug": "al-farabi",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "a/al-farabi.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "al-khunaji",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/al-khunaji.md",
+   "status": "red",
+   "hard": [
+    "bold-spacing: ** 后缺空格: **绝对未知者**的例子——即被定…",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *关于命题的*"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "al-kindi",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/al-kindi.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 右引号先于左引号: 尽管肯迪的认识论具有上文所述的反经验主义特征，他却为自然科学的各个分支投入了巨大",
+    "curly-quotes: 右引号先于左引号: 尽管肯迪的认识论具有上文所述的反经验主义特征，他却为自然科学的各个分支投入了巨大"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "al-qudat",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/al-qudat.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "albalag",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/albalag.md",
+   "status": "red",
+   "hard": [
+    "bold-spacing: ** 前缺空格: …的理智，其实体化**就是**",
+    "bold-spacing: ** 后缺空格: **就是**思维这一行为本身…"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 95 vs en 90（容差 2）"
+   ]
+  },
+  {
+   "slug": "alberic-paris",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/alberic-paris.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "albert-great",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/albert-great.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 节标题数 zh 12 vs en 15（容差 2）",
+    "count-vs-source: 书目条数 zh 85 vs en 78（容差 2）"
+   ]
+  },
+  {
+   "slug": "albert-saxony",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "a/albert-saxony.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "albo-joseph",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "a/albo-joseph.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "alcmaeon",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/alcmaeon.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "alexander-crummell",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/alexander-crummell.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 节标题数 zh 11 vs en 14（容差 2）"
+   ]
+  },
+  {
+   "slug": "alexander",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/alexander.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "algebra-logic-tradition",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/algebra-logic-tradition.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "altruism-biological",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/altruism-biological.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "alyngton",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/alyngton.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "analogy-medieval",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/analogy-medieval.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "ancient-soul",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/ancient-soul.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "dangling-link: 相对链接目标缺失 [补充材料：伯内特论希腊人的灵魂概念](ancient-soul.supplement.md)"
+   ]
+  },
+  {
+   "slug": "anscombe",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/anscombe.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …知道我在那样做。”2）“我（仅仅）观…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …断出我在那样做。”3）“我（仅仅）观…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "anselm",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/anselm.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "antiochus-ascalon",
+   "state": "done",
+   "kind": "retranslate",
+   "zh_doc": "a/antiochus-ascalon.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "antonio-rosmini",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/antonio-rosmini.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "arabic-islamic-mysticism",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "a/arabic-islamic-mysticism.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "arabic-islamic-phil-math",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/arabic-islamic-phil-math.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 右引号先于左引号: 柏拉图同时承诺这两条论题。相比之下，毕达哥拉斯派只接受后者。至少若我们信任亚里士"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "aristotle-causality",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aristotle-causality.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "ellipsis-form: 中文语境三点省略号（应六连点 ……）：- [形式与功能：亚里士多德的四因](http://www.historyofphilo",
+    "count-vs-source: 节标题数 zh 14 vs en 18（容差 2）"
+   ]
+  },
+  {
+   "slug": "aristotle-noncontradiction",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aristotle-noncontradiction.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "august-rehberg",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/august-rehberg.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "auriol",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/auriol.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …名经文（13:12“我们如今仿佛对着…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "austin-john",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "a/austin-john.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "autrecourt",
+   "state": "done",
+   "kind": "retranslate",
+   "zh_doc": "a/autrecourt.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "basing-epistemic",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/basing-epistemic.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "bauer",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/bauer.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "bayes-theorem",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/bayes-theorem.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "bayle",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/bayle.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "belief-merging",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/belief-merging.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "bergson",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/bergson.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "bessarion",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/bessarion.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 91 vs en 83（容差 2）"
+   ]
+  },
+  {
+   "slug": "binarium",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/binarium.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "biology-philosophy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/biology-philosophy.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "blame",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/blame.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "bloch",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/bloch.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "cite-authoryear: 文内引注（Bloch 1909）在 en 书目有对应条目而 zh 书目缺失：恩斯特·布洛赫于 1885 年 7 月 8 日生于莱茵河畔的路德维希港，出身铁路",
+    "count-vs-source: 书目条数 zh 118 vs en 101（容差 2）"
+   ]
+  },
+  {
+   "slug": "bodily-awareness",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/bodily-awareness.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "boethius-dacia",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/boethius-dacia.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "boethius",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/boethius.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "bohr-correspondence",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/bohr-correspondence.md",
+   "status": "red",
+   "hard": [
+    "bold-spacing: ** 后缺空格: **当且仅当**在初始定态中电子…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "boolalg-math",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/boolalg-math.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "bradley-moral",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/bradley-moral.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "bradley",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/bradley.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "brentano-judgement",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/brentano-judgement.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：[^note-24]: 布伦塔诺否认直言命题表达这类简单的存在判断（他此时称之为“直接”",
+    "count-vs-source: 书目条数 zh 108 vs en 74（容差 2）"
+   ]
+  },
+  {
+   "slug": "brentano",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/brentano.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "ellipsis-form: 中文语境三点省略号（应六连点 ……）：> “因此，自然科学绝不要求〔…〕我们处处都以同一方式、都以处理力学中最简单情形的样子来"
+   ]
+  },
+  {
+   "slug": "brouwer",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/brouwer.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "dangling-link: 相对链接目标缺失 [弱反例](brouwer.weakcounterex.md)",
+    "dangling-link: 相对链接目标缺失 [强反例](brouwer.strongcounterex.md)"
+   ]
+  },
+  {
+   "slug": "buddha",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/buddha.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "buddhism-chan",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/buddhism-chan.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "buddhism-huayan",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/buddhism-huayan.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "buridan",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/buridan.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "butler-moral",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/butler-moral.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "cambridge-platonists",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cambridge-platonists.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "ellipsis-form: 中文语境三点省略号（应六连点 ……）：亨利·莫尔（Henry More）是剑桥基督学院（Christ’s College）的终"
+   ]
+  },
+  {
+   "slug": "cancer",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cancer.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …和检验关于 CSC“内在致瘤性”的假…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "carneades",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/carneades.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "cassirer",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cassirer.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "causation-medieval",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/causation-medieval.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "certainty",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/certainty.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "change",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/change.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "childhood",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/childhood.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "children",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/children.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "chinese-phil-medicine",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/chinese-phil-medicine.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "chinese-phil-science",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/chinese-phil-science.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "cloning",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cloning.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "cockburn",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cockburn.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "cognitive-science",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cognitive-science.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "collingwood-aesthetics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/collingwood-aesthetics.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 34 vs en 31（容差 2）"
+   ]
+  },
+  {
+   "slug": "colonialism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/colonialism.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "computability",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/computability.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "computing-history",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/computing-history.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …这个词时，“房子”H11 和 H13…"
+   ],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：1936 年，图灵在剑桥大学确立了现代计算机的原理。他描述了一台抽象的计算机器，它有一条"
+   ]
+  },
+  {
+   "slug": "concept-emotion-india",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/concept-emotion-india.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 右先于左：认知之所以是重要性质的另一个原因，在于它不一定是一种缺陷，而其他性质则总是缺陷。缺陷分为",
+    "bracket-pair: （） 右先于左：认知之所以是重要性质的另一个原因，在于它不一定是一种缺陷，而其他性质则总是缺陷。缺陷分为",
+    "bracket-pair: （） 右先于左：认知之所以是重要性质的另一个原因，在于它不一定是一种缺陷，而其他性质则总是缺陷。缺陷分为",
+    "bracket-pair: （） 右先于左：在这一段中，莲花戒在关于蓝色的认知与爱的感受之间划出区分。他的要点是，关于蓝色的认知是一",
+    "bracket-pair: （） 右先于左：在这一段中，莲花戒在关于蓝色的认知与爱的感受之间划出区分。他的要点是，关于蓝色的认知是一",
+    "bracket-pair: （） 右先于左：所以，寂护可能论证，爱与憎正如所有其他认知一样，是一个无始无终的“认知之链”的一部分。他",
+    "bracket-pair: （） 右先于左：所以，寂护可能论证，爱与憎正如所有其他认知一样，是一个无始无终的“认知之链”的一部分。他",
+    "bracket-pair: （） 右先于左：所以，寂护可能论证，爱与憎正如所有其他认知一样，是一个无始无终的“认知之链”的一部分。他",
+    "bracket-pair: （） 右先于左：所以，寂护可能论证，爱与憎正如所有其他认知一样，是一个无始无终的“认知之链”的一部分。他",
+    "bracket-pair: （） 右先于左：所以，寂护可能论证，爱与憎正如所有其他认知一样，是一个无始无终的“认知之链”的一部分。他",
+    "bracket-pair: （） 右先于左：寂护论证的第二部分（b），即爱与憎不同于知觉，令人感兴趣之处在于他主张爱与憎不可能有外在",
+    "bracket-pair: （） 右先于左：寂护论证的第二部分（b），即爱与憎不同于知觉，令人感兴趣之处在于他主张爱与憎不可能有外在",
+    "bracket-pair: （） 右先于左：虽然关于知觉与爱之区别的论证并不表明爱需要先前的经验，但它提出了（至少）两个关于佛教情感",
+    "bracket-pair: （） 右先于左：虽然关于知觉与爱之区别的论证并不表明爱需要先前的经验，但它提出了（至少）两个关于佛教情感"
+   ]
+  },
+  {
+   "slug": "conceptual-art",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/conceptual-art.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "condemnation",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/condemnation.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "confucius",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/confucius.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "conscience",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/conscience.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "contractarianism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/contractarianism.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "conway",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/conway.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "copernicus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/copernicus.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 68 vs en 54（容差 2）"
+   ]
+  },
+  {
+   "slug": "cordemoy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cordemoy.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "cosmology-30s",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cosmology-30s.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …他那“难以置信的”PCP 背后的“哲…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …石，我就放弃它。”1965 年，化石…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "cosmopolitanism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cosmopolitanism.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "crathorn",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/crathorn.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "creation-conservation",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/creation-conservation.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "crescas",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/crescas.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "croce-aesthetics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/croce-aesthetics.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 右先于左：哲学容许作如下划分，对应于精神或心灵活动的不同方式。心灵活动或是理论的（它理解或静观），"
+   ]
+  },
+  {
+   "slug": "cudworth",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cudworth.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "dai-zhen",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/dai-zhen.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 48 vs en 44（容差 2）"
+   ]
+  },
+  {
+   "slug": "david",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/david.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "davidson",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/davidson.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "deductivism-mathematics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/deductivism-mathematics.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 67 vs en 44（容差 2）"
+   ]
+  },
+  {
+   "slug": "delmedigo",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/delmedigo.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "democritus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/democritus.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 节标题数 zh 13 vs en 16（容差 2）"
+   ]
+  },
+  {
+   "slug": "demonstration-medieval",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/demonstration-medieval.md",
+   "status": "red",
+   "hard": [
+    "tail-order: 尾节缺失：参考文献"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "descartes-ethics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/descartes-ethics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "descartes-ideas",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/descartes-ideas.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …更多内容见 SEP“笛卡尔的认识论”…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "descartes-ontological",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/descartes-ontological.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "descartes-physics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/descartes-physics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "descartes-works",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/descartes-works.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "dangling-link: 相对链接目标缺失 [笛卡尔的法学论文](descartes-works.history.md)",
+    "count-vs-source: 节标题数 zh 10 vs en 14（容差 2）"
+   ]
+  },
+  {
+   "slug": "desgabets",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/desgabets.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "dewey-moral",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/dewey-moral.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "dewey-political",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/dewey-political.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "dialectical-school",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/dialectical-school.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 69 vs en 66（容差 2）"
+   ]
+  },
+  {
+   "slug": "digital-art",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/digital-art.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "dilthey",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/dilthey.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 25 vs en 35（容差 2）"
+   ]
+  },
+  {
+   "slug": "diodorus-cronus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/diodorus-cronus.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "disability-care-rationing",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/disability-care-rationing.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …加总问题在 CEA“收益”一侧的适用…"
+   ],
+   "warn": [
+    "bracket-pair: （） 右先于左：若我们考虑的是一项社会政策或面向人群的分配策略，那我们似乎就受程序公平基本原则的约束，这",
+    "bracket-pair: （） 右先于左：若我们考虑的是一项社会政策或面向人群的分配策略，那我们似乎就受程序公平基本原则的约束，这",
+    "bracket-pair: （） 右先于左：若我们考虑的是一项社会政策或面向人群的分配策略，那我们似乎就受程序公平基本原则的约束，这"
+   ]
+  },
+  {
+   "slug": "disability",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/disability.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "double-effect",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/double-effect.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "doxography-ancient",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/doxography-ancient.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 53 vs en 48（容差 2）"
+   ]
+  },
+  {
+   "slug": "du-bos",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/du-bos.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "duhem",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/duhem.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "duns-scotus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/duns-scotus.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "dynamic-choice",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/dynamic-choice.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "early-modern-india",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/early-modern-india.md",
+   "status": "red",
+   "hard": [
+    "heading-number: 二级标题须点号式 `N. 标题`：1.3 句义清单的底层结构"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "ecological-genetics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/ecological-genetics.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：> 费希尔从来没有像他本应做的那样关注［有效种群大小］这个概念……他在分析中使用的种群数",
+    "bracket-pair: （） 不配对（深度 2）：福特在此实际上提出了一个权衡问题：没有迁移时对局部条件的特化适应，与有迁移时对全局条件的"
+   ]
+  },
+  {
+   "slug": "economic-democracy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/economic-democracy.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 166 vs en 157（容差 2）"
+   ]
+  },
+  {
+   "slug": "edwards",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/edwards.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "egoism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/egoism.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 右引号先于左引号: 第二个反对伦理利己主义的论证由 H. A. 普里查德提出。他论证说自身利益是错误"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "ehrenfels",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/ehrenfels.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …aters – ”der Knopf…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …fgegangen“ für das…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "elias",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/elias.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "elisabeth-bohemia",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/elisabeth-bohemia.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "emerson",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/emerson.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …原则遭到了否弃。”Cavell 回答…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "emilie-du-chatelet",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/emilie-du-chatelet.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "environmental-aesthetics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/environmental-aesthetics.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 右先于左：还有些作者转向当代心理学，用它来搭建关于崇高及敬畏之类情感的新理论。比如 Arcange"
+   ]
+  },
+  {
+   "slug": "envy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/envy.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "epictetus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/epictetus.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "epicurus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/epicurus.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "epiphenomenalism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/epiphenomenalism.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "epistemology-evolutionary",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/epistemology-evolutionary.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "epistemology-language-tibetan",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/epistemology-language-tibetan.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "epistemology-latin-america",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/epistemology-latin-america.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "epsilon-calculus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/epsilon-calculus.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "equal-ed-opportunity",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/equal-ed-opportunity.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …人生中取得成功。”K-12 教育对个…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "erasmus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/erasmus.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 节标题数 zh 10 vs en 14（容差 2）",
+    "count-vs-source: 书目条数 zh 76 vs en 73（容差 2）"
+   ]
+  },
+  {
+   "slug": "erfurt",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/erfurt.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 73 vs en 45（容差 2）"
+   ]
+  },
+  {
+   "slug": "erotic-art",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/erotic-art.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "ethics-deontological",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/ethics-deontological.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "euthanasia-voluntary",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/euthanasia-voluntary.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "evil-kinds-origins",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/evil-kinds-origins.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "evolution",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/evolution.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "existentialism-mexican",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/existentialism-mexican.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "experimental-aesthetics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/experimental-aesthetics.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …指出，Kamber“的研究设计十分随…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "faith",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "f/faith.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "falaquera",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "f/falaquera.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …har ha-he‘der*），或在…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …创造”（*beri‘ah*）的解释，…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "film",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "f/film.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "fitness",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "f/fitness.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "frame-problem",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "f/frame-problem.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "fuller-margaret",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "f/fuller-margaret.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "gadamer-aesthetics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/gadamer-aesthetics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "gadamer",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/gadamer.md",
+   "status": "red",
+   "hard": [
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *自我认识*",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *复杂的*",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *有差异的*",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *动态的*",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *与*",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *偏见*",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *前判断*",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *应用*",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *历史*",
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *交谈*"
+   ],
+   "warn": [
+    "bracket-pair: （） 右先于左：伽达默尔的思想在法理论与法理学（见 Mootz 2007）[^mootz-2007]、文"
+   ]
+  },
+  {
+   "slug": "gelukpa",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/gelukpa.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "geometry-19th",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/geometry-19th.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "george-eliot",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/george-eliot.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "gersonides",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/gersonides.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "gianfrancesco-pico",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/gianfrancesco-pico.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "giles",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/giles.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "global-democracy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/global-democracy.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "globalization",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/globalization.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "god-necessary-being",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/god-necessary-being.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …形无形万物的主。”381 年的《尼西…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …太福音》19:26“在上帝凡事都能”…"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 82 vs en 70（容差 2）"
+   ]
+  },
+  {
+   "slug": "godwin",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/godwin.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "gomez-pereira",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/gomez-pereira.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "gorampa",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/gorampa.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "gramsci",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/gramsci.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "gregory-rimini",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/gregory-rimini.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "grotius",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/grotius.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "han-dynasty",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/han-dynasty.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "hare",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/hare.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "harriet-mill",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/harriet-mill.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "hartshorne",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/hartshorne.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 86 vs en 109（容差 2）"
+   ]
+  },
+  {
+   "slug": "hegel-social-political",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/hegel-social-political.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "henricus-regius",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/henricus-regius.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "heraclitus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/heraclitus.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "hilbert-program",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/hilbert-program.md",
+   "status": "red",
+   "hard": [
+    "bold-spacing: ** 前缺空格: …其他公式——它们**在 $T$ 中可证**"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "hobbes-moral",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/hobbes-moral.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "hobbes-science",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/hobbes-science.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 49 vs en 36（容差 2）"
+   ]
+  },
+  {
+   "slug": "holbach",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/holbach.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "holes",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/holes.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "holkot",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/holkot.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "homosexuality",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/homosexuality.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "humanism-civic",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/humanism-civic.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "hume-aesthetics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/hume-aesthetics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "hutcheson",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/hutcheson.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：我们道德情感植根于人性之中，这进一步证明道德并非如巴尔格所暗示的那样是任意的。这是因为我",
+    "bracket-pair: （） 右先于左：但弗兰克纳没有认识到，哈奇森 **确实** 做了这一统计调查。他主张其所述情感是人性的普"
+   ]
+  },
+  {
+   "slug": "iamblichus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/iamblichus.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 207 vs en 178（容差 2）"
+   ]
+  },
+  {
+   "slug": "ibn-ezra",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/ibn-ezra.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "ibn-kammuna",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/ibn-kammuna.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 37 vs en 31（容差 2）"
+   ]
+  },
+  {
+   "slug": "ibn-sina",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/ibn-sina.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 引号不成对（‘…’ 差 1）: 亚里士多德的伦理学提供了这座大厦的基础。去认识、并理性地认识的绝对命令——这是阿"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 82 vs en 71（容差 2）"
+   ]
+  },
+  {
+   "slug": "ibn-taymiyya",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/ibn-taymiyya.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "identity-ethics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/identity-ethics.md",
+   "status": "red",
+   "hard": [
+    "no-html: <https://plato.stanford.edu/archives/spr"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "identity-indiscernible",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/identity-indiscernible.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 右先于左：然而也可以保留一种极宽泛的属性概念，承认“与 \u0000 同一”“在数上不同于 \u0000”之类属性的存"
+   ]
+  },
+  {
+   "slug": "identity-personal",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/identity-personal.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "identity-politics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/identity-politics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "identity",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/identity.md",
+   "status": "red",
+   "hard": [
+    "italic-cjk: 中文强调不应使用斜体，应改为加粗: *，与一座雕像歌利亚\\*"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "ideology",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/ideology.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "idiolects",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/idiolects.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …apprehend“理解”）的，那就…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …ernacular“本地方言”）的用…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: … epithets“措辞的巧妙安排”…"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 90 vs en 85（容差 2）"
+   ]
+  },
+  {
+   "slug": "illumination",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/illumination.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "imaginative-resistance",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/imaginative-resistance.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "immigration",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/immigration.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "immutability",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/immutability.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "implicature-optimality-games",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/implicature-optimality-games.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 引号不成对（‘…’ 差 1）: 1. $P(i_2 \\mid [\\![$‘two’$]\\!]) = ⅓$ 高于任",
+    "curly-quotes: 右引号先于左引号: \\text{three}{\\text{’}} ]\\!] \\subset [\\![",
+    "curly-quotes: 右引号先于左引号: \\text{one}{\\text{’}} ]\\!], $$"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "imprecise-probabilities",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/imprecise-probabilities.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "dangling-link: 相对链接目标缺失 [形式附录](imprecise-probabilities.supplement-forma)",
+    "dangling-link: 相对链接目标缺失 [形式附录](imprecise-probabilities.supplement-forma)",
+    "dangling-link: 相对链接目标缺失 [历史附录](imprecise-probabilities.supplement-histo)"
+   ]
+  },
+  {
+   "slug": "incommensurability",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/incommensurability.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：即便如此，弗莱克已经强调了库恩称为科学革命的那些转变的、导致“不可通约性”的三个相互关联"
+   ]
+  },
+  {
+   "slug": "incompatibilism-theories",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/incompatibilism-theories.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "independence-large-cardinals",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/independence-large-cardinals.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "information-biological",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/information-biological.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "information-semantic",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/information-semantic.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 右先于左：他们主张通道结合，因此通道上的二元复合算子是结合的，即对于所有通道 \u0000 \u0000, 与 \u0000，如"
+   ]
+  },
+  {
+   "slug": "informed-consent",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/informed-consent.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "ingarden",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/ingarden.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 节标题数 zh 14 vs en 18（容差 2）"
+   ]
+  },
+  {
+   "slug": "innateness-cognition",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/innateness-cognition.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "innateness-history",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/innateness-history.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "integrity",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/integrity.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "intellectual-property",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/intellectual-property.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "intensional-trans-verbs",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/intensional-trans-verbs.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 82 vs en 70（容差 2）"
+   ]
+  },
+  {
+   "slug": "intention",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/intention.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "intentionality-ancient",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/intentionality-ancient.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "intuitionism-ethics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/intuitionism-ethics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "intuitionism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/intuitionism.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "israeli",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/israeli.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "it-privacy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/it-privacy.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …资源]）。“智能”RFID 也嵌入公…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …通支付系统。“哑”RFID（基本只包…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "james-ward",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "j/james-ward.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "james",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "j/james.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：詹姆斯 1910 年去世时，仍在研究针对其“纯粹经验”学说的反驳意见、回应《实用主义》的"
+   ]
+  },
+  {
+   "slug": "japanese-aesthetics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "j/japanese-aesthetics.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "dangling-link: 相对链接目标缺失 [银阁寺银沙滩与向月台大图](japanese-aesthetics.ginkakuji.md)",
+    "dangling-link: 相对链接目标缺失 [银阁寺银阁与金阁寺金阁大图](japanese-aesthetics.ginkakuji-kinkakuji.)",
+    "dangling-link: 相对链接目标缺失 [雪舟《泼墨山水》](japanese-aesthetics.splashed-ink.md)",
+    "dangling-link: 相对链接目标缺失 [龙安寺枯山水庭园大图](japanese-aesthetics.ryoanji.md)",
+    "dangling-link: 相对链接目标缺失 [《晚春》剧照放大序列](japanese-aesthetics.late-spring.md)",
+    "dangling-link: 相对链接目标缺失 [《东京物语》剧照放大序列](japanese-aesthetics.tokyo-story.md)"
+   ]
+  },
+  {
+   "slug": "jaspers",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "j/jaspers.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "joane-petrizi",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "j/joane-petrizi.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "justep-coherence",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "j/justep-coherence.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "justice-moral-psych",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "j/justice-moral-psych.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 公式数 zh 5 vs yuanwen 43（偏差超 10%）"
+   ]
+  },
+  {
+   "slug": "justice-virtue",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "j/justice-virtue.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "justus-lipsius",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "j/justus-lipsius.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kant-development",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-development.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kant-hume-morality",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-hume-morality.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 110 vs en 105（容差 2）"
+   ]
+  },
+  {
+   "slug": "kant-judgment",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-judgment.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "dangling-link: 相对链接目标缺失 [共同性原则、康德的概念论与康德的非概念论](kant-judgment.supplement1.md)",
+    "dangling-link: 相对链接目标缺失 [共同性原则、康德的概念论与康德的非概念论](kant-judgment.supplement1.md)",
+    "dangling-link: 相对链接目标缺失 [判断、信念与科学认识](kant-judgment.supplement2.md)",
+    "dangling-link: 相对链接目标缺失 [共同性原则、康德的概念论与康德的非概念论](kant-judgment.supplement1.md)",
+    "dangling-link: 相对链接目标缺失 [判断、信念与科学认识](kant-judgment.supplement2.md)",
+    "dangling-link: 相对链接目标缺失 [判断、信念与科学认识](kant-judgment.supplement2.md)",
+    "dangling-link: 相对链接目标缺失 [康德逻辑的表面局限与混乱是否会损害其判断](kant-judgment.supplement3.md)",
+    "dangling-link: 相对链接目标缺失 [判断的各种使用](kant-judgment.supplement4.md)",
+    "dangling-link: 相对链接目标缺失 [补全康德判断形而上学之图景](kant-judgment.supplement5.md)",
+    "dangling-link: 相对链接目标缺失 [《共同性原则、康德的概念论与康德的非概念](kant-judgment.supplement1.md)",
+    "dangling-link: 相对链接目标缺失 [《共同性原则、康德的概念论与康德的非概念](kant-judgment.supplement1.md)",
+    "dangling-link: 相对链接目标缺失 [《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)",
+    "dangling-link: 相对链接目标缺失 [《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)",
+    "dangling-link: 相对链接目标缺失 [《使用的种类》](kant-judgment.supplement4.md)",
+    "dangling-link: 相对链接目标缺失 [《使用的种类》](kant-judgment.supplement4.md)",
+    "dangling-link: 相对链接目标缺失 [《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)",
+    "dangling-link: 相对链接目标缺失 [《共同性原则、康德的概念论与康德的非概念](kant-judgment.supplement1.md)",
+    "dangling-link: 相对链接目标缺失 [《补全康德判断形而上学之图景》](kant-judgment.supplement5.md)",
+    "dangling-link: 相对链接目标缺失 [《共同性原则、康德的概念论与康德的非概念](kant-judgment.supplement1.md)"
+   ]
+  },
+  {
+   "slug": "kant-mathematics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-mathematics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kant-metaphysics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-metaphysics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kant-mind",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-mind.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kant-reason",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-reason.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 134 vs en 97（容差 2）"
+   ]
+  },
+  {
+   "slug": "kant-religion",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-religion.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 203 vs en 197（容差 2）"
+   ]
+  },
+  {
+   "slug": "kant-science",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-science.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kant-social-political",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-social-political.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kant-spacetime",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-spacetime.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …A 表象为“亮于”B，无须把 A 与…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …；参“知觉的预测”A169–170/…"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 99 vs en 69（容差 2）"
+   ]
+  },
+  {
+   "slug": "kant-transcendental",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-transcendental.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "karl-reinhold",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/karl-reinhold.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kaspi-joseph",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kaspi-joseph.md",
+   "status": "red",
+   "hard": [
+    "heading-number: 小节编号跳号：6 → 6",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …引《创世记》2:5“又没有耕种土地的…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …赛亚书》41:14“雅各的虫”一语的…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "kepler",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kepler.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kierkegaard",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kierkegaard.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …最低”，宗教感 B“最高”。然而这可…"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 194 vs en 187（容差 2）"
+   ]
+  },
+  {
+   "slug": "kilvington",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kilvington.md",
+   "status": "red",
+   "hard": [
+    "heading-number: 小节编号跳号：6 → 6",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …最有趣的是 S47“你知道国王在坐着…"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 139 vs en 98（容差 2）"
+   ]
+  },
+  {
+   "slug": "knowledge-acquaindescrip",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/knowledge-acquaindescrip.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "knowledge-analysis",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/knowledge-analysis.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 157 vs en 121（容差 2）"
+   ]
+  },
+  {
+   "slug": "knowledge-how",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/knowledge-how.md",
+   "status": "red",
+   "hard": [
+    "tail-order: 尾节缺失：参考文献"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "knowledge-value",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/knowledge-value.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kochen-specker",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kochen-specker.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "dangling-link: 相对链接目标缺失 [VC1 证明](kochen-specker.proofvc1.md)",
+    "bracket-pair: （） 不配对（深度 1）：FUNC 的推导本质上在于：从一个变量（即 *f*(*v*(*Q*))，这个数又从另一个"
+   ]
+  },
+  {
+   "slug": "kokugaku-school",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kokugaku-school.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：> 真心（*magokoro*）是凭借产灵（创造）之神与生俱来的心：真心中有的聪慧、有的",
+    "bracket-pair: （） 不配对（深度 1）：> 想想人的身体：有眼睛看，有耳朵听，有嘴说话，有脚行走，有手做千般事——难道不真的奇妙"
+   ]
+  },
+  {
+   "slug": "korean-buddhism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/korean-buddhism.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "korean-confucianism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/korean-confucianism.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "korean-philosophy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/korean-philosophy.md",
+   "status": "red",
+   "hard": [
+    "tail-order: 尾节缺失：参考文献",
+    "heading-number: 二级标题须点号式 `N. 标题`：3.1 儒学",
+    "heading-number: 小节编号跳号：2 → 4",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …Chinul-CW“圆顿成佛论”，2…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "kukai",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kukai.md",
+   "status": "red",
+   "hard": [
+    "tail-order: 尾节缺失：参考文献"
+   ],
+   "warn": [
+    "bracket-pair: （） 右先于左：空海的真言宗佛教设定了四种 **作为** 法身本身的身相。这一“四种法身”（*shish",
+    "bracket-pair: （） 右先于左：空海的真言宗佛教设定了四种 **作为** 法身本身的身相。这一“四种法身”（*shish"
+   ]
+  },
+  {
+   "slug": "kumaarila",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kumaarila.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "la-forge",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/la-forge.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "lady-masham",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/lady-masham.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "lakatos",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/lakatos.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …西几乎全部扔掉。”Russell 1…"
+   ],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：![线描图：看似两个立方体、一个位于另一个中心，但内层立方体其实是贯穿外层立方体的隧道（",
+    "bracket-pair: （） 右先于左：明显的担忧是：这一针对科学合理性理论的元标准，可能让科学哲学失去全部批判锋芒。最好的科学",
+    "count-vs-source: 书目条数 zh 90 vs en 97（容差 2）"
+   ]
+  },
+  {
+   "slug": "lambert-auxerre",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/lambert-auxerre.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "landmann-kalischer",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/landmann-kalischer.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "langer",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/langer.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 右先于左：朗格的博士论文是美国首部全面梳理 19 世纪初至 1926 年逻辑史与意义理论（含现象学",
+    "bracket-pair: （） 右先于左：朗格的博士论文是美国首部全面梳理 19 世纪初至 1926 年逻辑史与意义理论（含现象学"
+   ]
+  },
+  {
+   "slug": "law-ideology",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/law-ideology.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "lawphil-theory",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/lawphil-theory.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "legrand",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/legrand.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "leibniz-ethics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/leibniz-ethics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "leibniz-evil",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/leibniz-evil.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "leibniz-logic-influence",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/leibniz-logic-influence.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "leibniz-mind",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/leibniz-mind.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "leibniz-modal",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/leibniz-modal.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "ellipsis-form: 中文语境三点省略号（应六连点 ……）：莱布尼茨对必然与偶然真理之区分的本性所作的阐明，能够翻译成当代可能世界语义学的术语——这"
+   ]
+  },
+  {
+   "slug": "leucippus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/leucippus.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "locke-on-medicine",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/locke-on-medicine.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 50 vs en 47（容差 2）"
+   ]
+  },
+  {
+   "slug": "logic-dynamic",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/logic-dynamic.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "logic-fuzzy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/logic-fuzzy.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "dangling-link: 相对链接目标缺失 [按主题排列的文献目录](logic-fuzzy.readings-by-topic.md)",
+    "count-vs-source: 书目条数 zh 128 vs en 122（容差 2）"
+   ]
+  },
+  {
+   "slug": "logic-hybrid",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/logic-hybrid.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "logic-infinitary",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/logic-infinitary.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …> κ 的“语言”L(κ,λ) 并无…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …获。比如在“语言”L(ω,ω₁) 里…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …定义的形式系统。”Scott 从未发…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "logic-linear",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/logic-linear.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "logic-massexpress",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/logic-massexpress.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "logic-preference",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/logic-preference.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "logic-relevance",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/logic-relevance.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "dangling-link: 相对链接目标缺失 [逻辑 \u0000](logic-relevance.logicr.md)",
+    "dangling-link: 相对链接目标缺失 [逻辑 \u0000](logic-relevance.logice.md)",
+    "dangling-link: 相对链接目标缺失 [逻辑 \u0000](logic-relevance.logicr.md)",
+    "dangling-link: 相对链接目标缺失 [逻辑 \u0000](logic-relevance.logicnr.md)",
+    "dangling-link: 相对链接目标缺失 [逻辑 \u0000](logic-relevance.logics.md)",
+    "dangling-link: 相对链接目标缺失 [逻辑 \u0000 与 \u0000](logic-relevance.logic-b-dj-dk.md)"
+   ]
+  },
+  {
+   "slug": "logic-substructural",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/logic-substructural.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：三元关系 \u0000 紧跟证明论中前提结合的行为。不同逻辑可给 \u0000 不同条件：前提结合可交换，就"
+   ]
+  },
+  {
+   "slug": "logical-consequence",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/logical-consequence.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "lorenzo-valla",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/lorenzo-valla.md",
+   "status": "red",
+   "hard": [
+    "bold-spacing: ** 前缺空格: …论解释，同时希望**维护**",
+    "bold-spacing: ** 后缺空格: **维护**范畴作为不同词项…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "luxemburg",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/luxemburg.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "lvov-warsaw",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/lvov-warsaw.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 76 vs en 69（容差 2）"
+   ]
+  },
+  {
+   "slug": "mandeville",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/mandeville.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "marsilius-inghen",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/marsilius-inghen.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 60 vs en 42（容差 2）"
+   ]
+  },
+  {
+   "slug": "marsilius-padua",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/marsilius-padua.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "mathematics-inconsistent",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/mathematics-inconsistent.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "model-organisms",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/model-organisms.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "modesty-humility",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/modesty-humility.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "molyneux-problem",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/molyneux-problem.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "montesquieu",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/montesquieu.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "montessori-maria",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/montessori-maria.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …ercy Nunn“最先提出”（1:…"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 135 vs en 130（容差 2）"
+   ]
+  },
+  {
+   "slug": "moral-demands-permissions",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/moral-demands-permissions.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "moral-learning",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/moral-learning.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "moral-responsibility-empirical",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/moral-responsibility-empirical.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：评估道德责任的认知条件时，多数理论家都同意：只查行动者是否在无知之下行事还不够，还得进一"
+   ]
+  },
+  {
+   "slug": "music",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/music.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "natphil-ren",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/natphil-ren.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "necessary-sufficient",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/necessary-sufficient.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "neoplatonism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/neoplatonism.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "newton-philosophy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/newton-philosophy.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "newton-principia",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/newton-principia.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "newton-stm",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/newton-stm.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "newton",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/newton.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "nicole-oresme",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/nicole-oresme.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "nietzsche-aesthetics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/nietzsche-aesthetics.md",
+   "status": "red",
+   "hard": [
+    "heading-number: 二级标题须点号式 `N. 标题`：2.《悲剧的诞生》",
+    "heading-number: 小节编号跳号：1 → 3"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 95 vs en 92（容差 2）"
+   ]
+  },
+  {
+   "slug": "nominalism-metaphysics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/nominalism-metaphysics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "novalis",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/novalis.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "oakeshott",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/oakeshott.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "object",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/object.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …ck，他是 SEP“对象”词条原稿作…"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 290 vs en 255（容差 2）"
+   ]
+  },
+  {
+   "slug": "obligationes",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/obligationes.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "occasionalism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/occasionalism.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 89 vs en 53（容差 2）"
+   ]
+  },
+  {
+   "slug": "ockham",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/ockham.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 180 vs en 127（容差 2）"
+   ]
+  },
+  {
+   "slug": "olympiodorus",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/olympiodorus.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "omnipresence",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/omnipresence.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "omniscience",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/omniscience.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …约伯记》12:13“上帝有智慧与能力…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …罗马书》11:33“上帝丰富的智慧与…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …senkrantz“因果上不可避免”…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "ontology-is",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/ontology-is.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "organ-donation",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/organ-donation.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "organs-sale",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/organs-sale.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "origin-descent",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/origin-descent.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：> 说到自由意志：看见小狗嬉戏，谁也不能怀疑它们有自由意志；若如此，一切动物都有，那么牡"
+   ]
+  },
+  {
+   "slug": "paradox-of-tragedy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "p/paradox-of-tragedy.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "paradox-suspense",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "p/paradox-suspense.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "peirce-benjamin",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "p/peirce-benjamin.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "penbygull",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "p/penbygull.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "peter-damian",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "p/peter-damian.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "peter-spain",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "p/peter-spain.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "petitionary-prayer",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "p/petitionary-prayer.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "prophecy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "p/prophecy.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "qm-relational",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "q/qm-relational.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "qm",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "q/qm.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：接下来须将内积 \u0000 的定义改造一下，使之适用于复空间。设 \u0000 为 \u0000 的复共轭。（当 \u0000",
+    "bracket-pair: （） 右先于左：于是，对一切复数 \u0000 都有 \u0000，而 \u0000 当且仅当 \u0000 是实数。）这样，复空间中 \u0000 与 ",
+    "count-vs-source: 书目条数 zh 54 vs en 38（容差 2）"
+   ]
+  },
+  {
+   "slug": "qt-entangle",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "q/qt-entangle.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "quantum-bayesian",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "q/quantum-bayesian.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 76 vs en 70（容差 2）"
+   ]
+  },
+  {
+   "slug": "quine-nf",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "q/quine-nf.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 右引号先于左引号: u{\\text{’}}) + 1$；若 $",
+    "curly-quotes: 右引号先于左引号: v{\\text{’}}) = \\sigma("
+   ],
+   "warn": [
+    "bracket-pair: （） 右先于左：NF 研究的早期（1937—1952），谁也不知道 NF 到底证不证得出无穷公理。斯佩克"
+   ]
+  },
+  {
+   "slug": "ramsey-economics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/ramsey-economics.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 2）：方程 (1) 表明：消费若为 \u0000，投资便是产出之余。是故拉姆齐的问题亦可表述为：“一国产",
+    "bracket-pair: （） 不配对（深度 1）：为使此点形式化，取 DM 正在慎思的任一日期 \u0000；令 *τ* 表不早于 \u0000 的日期（即 ",
+    "bracket-pair: （） 不配对（深度 1）：方程 (14) 表明 \u0000 以速率 \u0000 作指数增长。这里重申先前的一点：方程 (14) 虽"
+   ]
+  },
+  {
+   "slug": "rationalism-early-modern",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/rationalism-early-modern.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …不可能随之而来。”Lin 写道：“没…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "reasoning-analogy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/reasoning-analogy.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "redistribution",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/redistribution.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …意两点漠然无别。”Thomas Na…"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 62 vs en 45（容差 2）"
+   ]
+  },
+  {
+   "slug": "reflective-equilibrium",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/reflective-equilibrium.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "reid-memory-identity",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/reid-memory-identity.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "reinach",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/reinach.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 67 vs en 79（容差 2）"
+   ]
+  },
+  {
+   "slug": "reism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/reism.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "religion-epistemology",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/religion-epistemology.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "religious-experience",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/religious-experience.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "representation-medieval",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/representation-medieval.md",
+   "status": "red",
+   "hard": [
+    "heading-number: 小节编号跳号：4 → 6",
+    "heading-number: 小节编号跳号：6 → 5"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "repugnant-conclusion",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/repugnant-conclusion.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "richard-sophister",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/richard-sophister.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 39 vs en 21（容差 2）"
+   ]
+  },
+  {
+   "slug": "ricoeur",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/ricoeur.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "risk",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/risk.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "schema",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/schema.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "schlegel",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/schlegel.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "scholem",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/scholem.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "scholz",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/scholz.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …“逻辑斯蒂研讨班”1946 年更名为…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "scientific-explanation-20th",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/scientific-explanation-20th.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 75 vs en 59（容差 2）"
+   ]
+  },
+  {
+   "slug": "sharpe",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/sharpe.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "sikh-philosophy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/sikh-philosophy.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 67 vs en 48（容差 2）"
+   ]
+  },
+  {
+   "slug": "simon-faversham",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/simon-faversham.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 72 vs en 59（容差 2）"
+   ]
+  },
+  {
+   "slug": "social-procedures",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/social-procedures.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "sophismata",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/sophismata.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 38 vs en 35（容差 2）"
+   ]
+  },
+  {
+   "slug": "sovereignty",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/sovereignty.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "spacetime-convensimul",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/spacetime-convensimul.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "spacetime-holearg",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/spacetime-holearg.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "dangling-link: 相对链接目标缺失 [主动与被动协变性](spacetime-holearg.active-passive.md)",
+    "dangling-link: 相对链接目标缺失 [通过地图投影直观理解莱布尼茨等价](spacetime-holearg.leibniz-equivalence.md)",
+    "dangling-link: 相对链接目标缺失 [通过地图投影直观理解莱布尼茨等价](spacetime-holearg.leibniz-equivalence.md)",
+    "dangling-link: 相对链接目标缺失 [作为分析规范自由度之模板的空穴论证](spacetime-holearg.gauge.md)",
+    "count-vs-source: 书目条数 zh 94 vs en 86（容差 2）"
+   ]
+  },
+  {
+   "slug": "stebbing",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/stebbing.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 60 vs en 77（容差 2）"
+   ]
+  },
+  {
+   "slug": "stem-cells",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/stem-cells.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "telesio",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "t/telesio.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "theology-aristotle",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "t/theology-aristotle.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "timon-phlius",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "t/timon-phlius.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "truth-coherence",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "t/truth-coherence.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "umar-khayyam",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "u/umar-khayyam.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 85 vs en 70（容差 2）"
+   ]
+  },
+  {
+   "slug": "william-jevons",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "w/william-jevons.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "william-sherwood",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "w/william-sherwood.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "xenocrates",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "x/xenocrates.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "xenophanes",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "x/xenophanes.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "yorck",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "y/yorck.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "zabarella",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "z/zabarella.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "zeno-elea",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "z/zeno-elea.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 124 vs en 115（容差 2）"
+   ]
+  },
+  {
+   "slug": "zhu-xi",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "z/zhu-xi.md",
+   "status": "red",
+   "hard": [
+    "tail-order: 尾节缺失：参考文献"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "zombies",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "z/zombies.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  }
+ ]
+}

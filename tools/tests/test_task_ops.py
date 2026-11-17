@@ -379,5 +379,77 @@ class TestTaskOps(unittest.TestCase):
         self.assertEqual(t["state"], "pending")
 
 
+class TestS25ThreeAxes(unittest.TestCase):
+    """s2.5 三轴并挂（ADR-0063 2026-11-17 补记）。
+
+    背景：受控回退目标态为 s2.4_termchecked（该 checkpoint 视为已完成），
+    随后正常推进即 s25——advance s24 对回退件不可达。若不把术语/体例/勘误
+    三轴并挂到 s25，P8 的 416 件回退重走会整体绕过体例硬门。
+    """
+
+    def setUp(self):
+        self._dir = tempfile.TemporaryDirectory()
+        self.old = task_ops.TASKS_DIR
+        task_ops.TASKS_DIR = self._dir.name
+        self.calls = []
+        self._old = {n: getattr(task_ops, n) for n in
+                     ("_version_pin", "_clear_gate", "_audit_gate", "_term_gate",
+                      "_source_gate", "_style_gate", "_audit_independence_gate")}
+        task_ops._version_pin = lambda slug: {"pubinfo_date": "Aug 9, 2026",
+                                              "archive_edition": "Fall 2026",
+                                              "sha256": "0" * 64}
+        task_ops._clear_gate = lambda slug: None
+        task_ops._source_gate = lambda slug: None
+        task_ops._audit_independence_gate = lambda task, actor, ev: None
+        task_ops._term_gate = lambda zh: self.calls.append("term")
+        task_ops._style_gate = lambda zh: self.calls.append("style")
+        task_ops._audit_gate = lambda zh: self.calls.append("audit")
+
+    def tearDown(self):
+        task_ops.TASKS_DIR = self.old
+        for n, f in self._old.items():
+            setattr(task_ops, n, f)
+        self._dir.cleanup()
+
+    def _md(self, name):
+        p = os.path.join(self._dir.name, name)
+        write_text(p, "# 测试标题\n\n旧正文。\n")
+        return p
+
+    def _walk_s24(self, slug):
+        task_ops.create(slug, "retranslate", zh_doc=self._md(slug + ".md"))
+        task_ops.clear(slug)
+        for step in ("s0", "draft", "s1", "s2", "s24"):
+            task_ops.advance(slug, step, actor="t", evidence="e")
+
+    def test_normal_path_s25_refires_three_axes(self):
+        self._walk_s24("t-s25a")
+        self.calls.clear()
+        t = task_ops.advance("t-s25a", "s25", actor="t", evidence="两轴比对记录")
+        self.assertEqual(t["state"], "s2.5_checked")
+        self.assertEqual(sorted(self.calls), ["audit", "style", "term"])
+
+    def test_revert_then_s25_refires_three_axes(self):
+        self._walk_s24("t-s25b")
+        task_ops.advance("t-s25b", "s25", actor="t", evidence="e")
+        t = task_ops.revert_state("t-s25b", "s2.4_termchecked",
+                                  "体例归一全量回退（specs/039 P8）", actor="t")
+        self.assertEqual(t["state"], "s2.4_termchecked")
+        self.calls.clear()
+        t = task_ops.advance("t-s25b", "s25", actor="t", evidence="体例轴增项并入 s25")
+        self.assertEqual(t["state"], "s2.5_checked")
+        self.assertEqual(sorted(self.calls), ["audit", "style", "term"])
+
+    def test_style_gate_failure_blocks_s25(self):
+        self._walk_s24("t-s25c")
+
+        def boom(zh):
+            raise task_ops.PreconditionError("体例轴未通过：tail-order")
+        task_ops._style_gate = boom
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("t-s25c", "s25", actor="t", evidence="e")
+        self.assertEqual(task_ops.load_task("t-s25c")["state"], "s2.4_termchecked")
+
+
 if __name__ == "__main__":
     unittest.main()

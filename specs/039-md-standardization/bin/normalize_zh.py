@@ -78,7 +78,7 @@ def align_numbering(text, yw_text):
 
 
 def iter_files():
-    for p in sorted(Path('.').glob('[a-z]/*.md')):
+    for p in sorted(Path('.').glob('[0-9a-z]/*.md')):  # 含 1/ 等非字母目录（2026-11-17 台账发现漏网件）
         if '.' in p.stem or p.stat().st_size < 2048:
             continue
         yield p
