@@ -1,10 +1,15 @@
 {
  "schema": "sep-cn-axiom-audit/1",
- "at": "2026-11-17T00:38:16Z",
+ "at": "2026-11-17T01:07:13Z",
  "axioms": 14,
  "forward_norms": 33,
  "phi_goals": 8,
  "s1_anchor_miss": [],
+ "s1_anchor_count": {
+  "正文锚": 40,
+  "索引": 11
+ },
+ "s1_index_only_axioms": [],
  "s2_carrier_miss": [],
  "t5_nonredundant": true,
  "s3_reverse": {
@@ -33,6 +38,10 @@
   "specs040_G": 0,
   "specs040_A_viol": 0,
   "ok": true
+ },
+ "s6_layering": {
+  "agents_self_index": true,
+  "bad": []
  },
  "fails": []
 }

@@ -140,11 +140,30 @@ def check_carrier(tok, axiom):
     return "未知载体语法 %s" % tok
 
 
-# ---------- S1 锚存在 ----------
+# ---------- S1 锚存在（锚＝规范正文；index:＝AGENTS.md 入口索引，不计权威锚） ----------
 s1_bad = []
+anchor_count = {"正文锚": 0, "索引": 0}
+index_only = []
 for r in axiom_rows:
     aid, anchors = r[0], r[3]
+    body_n = 0
     for a in [x.strip() for x in anchors.split("、") if x.strip()]:
+        if a.startswith("index:"):
+            rest = a[len("index:"):]
+            if "::" not in rest:
+                s1_bad.append("%s 索引缺 :: 分隔：%s" % (aid, a))
+                continue
+            path, kw = rest.split("::", 1)
+            try:
+                text = read(path)
+            except OSError:
+                s1_bad.append("%s 索引文件缺失：%s" % (aid, path))
+                continue
+            if kw not in text:
+                s1_bad.append("%s 索引关键词未命中：%s::%s" % (aid, path, kw))
+            else:
+                anchor_count["索引"] += 1
+            continue
         if "::" not in a:
             s1_bad.append("%s 锚缺 :: 分隔：%s" % (aid, a))
             continue
@@ -156,8 +175,16 @@ for r in axiom_rows:
             continue
         if kw not in text:
             s1_bad.append("%s 锚关键词未命中：%s::%s" % (aid, path, kw))
+        else:
+            body_n += 1
+            anchor_count["正文锚"] += 1
+    if body_n == 0:
+        index_only.append(aid)
 report["s1_anchor_miss"] = s1_bad
+report["s1_anchor_count"] = anchor_count
+report["s1_index_only_axioms"] = index_only
 flag(s1_bad, "S1 锚存在 %d 处失败：%s" % (len(s1_bad), s1_bad[:4]))
+flag(index_only, "S1 仅有索引无正文锚（公理效力悬空）：%s" % index_only)
 
 # ---------- S2 载体存在 ----------
 s2_bad = []
@@ -264,6 +291,21 @@ except OSError:
     report["t4_consistency"] = "specs/040 报告缺失"
     flag(True, "T4 输入缺失：specs/040 audit-report.json 不可读")
 
+# ---------- S6 层级定位（公理最高／AGENTS.md 入口目录／SE 理论哲学方法论） ----------
+s6_bad = []
+agents_md = read("AGENTS.md")
+spec_md = read("specs/041-axiom-system/spec.md")
+if "规则正文一律以" not in agents_md or "rules/" not in agents_md:
+    s6_bad.append("AGENTS.md 未自述为入口索引（缺“规则正文一律以 rules/ 为准”）")
+if "本文件不复制数字" not in agents_md:
+    s6_bad.append("AGENTS.md 未声明不复制数字（ADR-0015 入口定位）")
+for must in ("层级模型", "哲学与方法论论证", "公理层", "入口与目录"):
+    if must not in spec_md:
+        s6_bad.append("spec.md 缺层级定位节内容：%s" % must)
+report["s6_layering"] = {"agents_self_index": "规则正文一律以" in agents_md,
+                         "bad": s6_bad}
+flag(s6_bad, "S6 层级定位 %d 处失败：%s" % (len(s6_bad), s6_bad[:3]))
+
 # ---------- 汇总落盘 ----------
 report["fails"] = fails
 with open(OUT, "w", encoding="utf-8", newline="\n") as f:
@@ -274,12 +316,13 @@ sys.stdout.write("\n")
 
 w = sys.stderr
 w.write("== 公理体系充分性审计（specs/041）==\n")
-w.write("公理 %d 条 | 正向规范 %d 行 | Φ %d 项 | 门禁 %d＋挂钩 %d＋不变量工具 %d\n"
-        % (len(axiom_rows), len(fwd_rows), len(phi_rows), len(GATES), len(HOOK_AXIOMS),
+w.write("公理 %d 条（正文锚 %d＋入口索引 %d）| 正向规范 %d 行 | Φ %d 项 | 门禁 %d＋挂钩 %d＋不变量工具 %d\n"
+        % (len(axiom_rows), anchor_count["正文锚"], anchor_count["索引"],
+           len(fwd_rows), len(phi_rows), len(GATES), len(HOOK_AXIOMS),
            len(INV_TOOLS)))
 if fails:
     for m in fails:
         w.write("[!] %s\n" % m)
 else:
-    w.write("（S1–S5 全绿；T4 一致、T5 非冗余：公理体系对本项目目的充分）\n")
+    w.write("（S1–S6 全绿；T4 一致、T5 非冗余：公理体系对本项目目的充分）\n")
 sys.exit(0)
