@@ -118,8 +118,8 @@
 | Φ1 版本钉 | A3, A4 | GATES academic（task-pin-missing）＋baseline/entries.json |
 | Φ2 保真链 | A1, A4, A11, A12 | GATES divergence＋fidelity；check_en_patches；en_patch_lib |
 | Φ3 结构完整 | A5, R2 | GATES summary/mulu/images＋check_academic 脚注配对 |
-| Φ4 体例合规 | A11, R1 | GATES quotes/mathzh＋check_style＋check_pairs --gate（s24） |
-| Φ5 术语一致 | A5, A13 | GATES terms＋s24 _term_gate |
+| Φ4 体例合规 | A11, R1 | gate:quotes、gate:mathzh＋tool:check_style＋impl:task_ops(_style_gate) |
+| Φ5 术语一致 | A5, A13 | gate:terms＋impl:task_ops(_term_gate)（挂钩所在步随规则演进而变，公理层只钉“有硬挂钩”） |
 | Φ6 语言质量 | A6, R4 | task-style-attest（check_academic）＋check_prose 告警面 |
 | Φ7 内容正确 | A2, A13 | s1/r2 人审留痕＋mech_audit 回溯 |
 | Φ8 流程可审计 | A4, A6, A7, A8, A9, A10, A14 | task_ops steps/mandate/独立性机检＋check_academic 任务面 |
