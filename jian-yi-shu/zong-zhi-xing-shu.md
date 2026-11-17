@@ -3,7 +3,7 @@
 <!-- verify: axioms=28 theorems=2 nodes=16 predicates=35 requirements=18 -->
 
 **日期**：2026-11-18｜**性质**：执行方案（待批）｜**授权**：允许废弃、合并、重组、重置既有翻译、状态、任务书
-**机读件**：`pipeline-17.json`（节点）｜`journal-schema.json`（事件）｜`axioms.json`（公理）
+**机读件**：`rules/pipeline.json`（节点）｜`journal-schema.json`（事件）｜`axioms.json`（公理）
 **计算**：`specs/043-pipeline-axioms/bin/verify_pipeline.py` → 51 项全过｜`results/verify-report.json`
 **查证**：`specs/043-pipeline-axioms/results/completeness-verification.md`
 
@@ -74,7 +74,7 @@
 
 强制六项：`s0`、`s2.4`、`global`、`R1`、`R2`、`R3`。`R1–R3` 是可增不可减的最小集。
 
-每节点的具体动作（共 82 条）见 `pipeline-17.json` 的 `does` 数组。
+每节点的具体动作（共 82 条）见 `rules/pipeline.json` 的 `does` 数组。
 
 ### 2.4 判据变更不再回退，只按包含关系分三档
 
@@ -186,7 +186,7 @@
 | `jian-yi-shu/mu-lu-fen-lei-gui-fan-jian-yi-shu.md` | — | **已实施**（P0–P2，ADR-0067），转已执行归档 |
 | `jian-yi-shu/index.md`、`fu-lu-a.md` | — | 与流程重构无关（2026-10-26 分类核查），不并入 |
 | `specs/043-pipeline-axioms/spec.md` | — | 保留：验证方法规格（35 条谓词的定义与证明） |
-| `pipeline-17.json`／`journal-schema.json`／`axioms.json` | — | 保留：三份机读件，验证器直接消费 |
+| `rules/pipeline.json`／`journal-schema.json`／`axioms.json` | — | 保留：三份机读件，验证器直接消费 |
 
 ---
 
@@ -213,7 +213,7 @@ K 公理登记 10 项  PASS      L 自述一致 6 项   PASS
 
 | 项 | 归属 |
 |---|---|
-| W0–W6 全部实施 | 须开 ADR（建议 ADR-0069「日志为事实、状态为视图」）；W0 打 tag 前不得开始 W1 |
+| W0–W6 全部实施 | 须开 ADR（ADR-0068“日志为事实、状态为视图”）；W0 打 tag 前不得开始 W1 |
 | `R1`／`R2` 差额补判 428 件 | 实施卡，单独排期 |
 | 9 条纯纪律公理转可检 | 依赖 W1／W3 的 `journal_ops` 落地 |
 | ADR 模板增加要求登记项 | 治理会话 |

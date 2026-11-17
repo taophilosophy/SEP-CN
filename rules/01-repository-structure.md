@@ -17,6 +17,7 @@
 | `shu-yu-biao.md` | 术语对照 **登记册** （术语决策的单一事实源；ADR-0036 改名，原 `yi-zhe-shuo-ming.md`） | 是 |
 | `ren-ming-biao.md` | 人名对照 **登记册** （ADR-0012 自术语表拆出） | 是 |
 | `tasks/` | 文档任务状态记录（JSON，按 SEP slug 组织） | 是 |
+| `journal/` | 条目事件日志（NDJSON，按 `journal/<letter>/<slug>.ndjson` 组织；三存储之一的事实源，`state` 为其派生视图，ADR-0068） | 是 |
 | `baseline/` | 词条版本元数据清单（slug、版本日期、存档版名、SHA-256、抓取时间） | 是 |
 | `specs/`、`.specify/` | 工程规格与项目宪法（spec-kit 体系） | 是 |
 | `tools/` | 管线与治理脚本（Python，仅标准库） | 是 |

@@ -1,0 +1,9 @@
+{"seq": 1, "at": "2026-11-01T10:29:42Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "691f8514e2999d0d913c5fcada78aa141ace18c3f0f71afe00a86f5bb23d8ef3", "pubinfo_date": "Nov 9, 2018", "edition": "Fall 2026"}
+{"seq": 2, "at": "2026-11-09T21:55:04Z", "actor": "I-main-20261110", "type": "pass", "attempt": "main", "node": "draft", "gate": []}
+{"seq": 3, "at": "2026-11-09T21:55:05Z", "actor": "I-main-20261110", "type": "pass", "attempt": "main", "node": "s1", "gate": []}
+{"seq": 4, "at": "2026-11-09T21:55:05Z", "actor": "I-main-20261110", "type": "pass", "attempt": "main", "node": "s2", "gate": []}
+{"seq": 5, "at": "2026-11-09T21:55:06Z", "actor": "I-main-20261110", "type": "pass", "attempt": "main", "node": "S3", "gate": []}
+{"seq": 6, "at": "2026-11-09T22:03:06Z", "actor": "I-main-20261110", "type": "pass", "attempt": "main", "node": "R1", "gate": []}
+{"seq": 7, "at": "2026-11-09T22:03:06Z", "actor": "I-main-20261110", "type": "pass", "attempt": "main", "node": "R2", "gate": []}
+{"seq": 8, "at": "2026-11-09T22:03:07Z", "actor": "I-main-20261110", "type": "pass", "attempt": "main", "node": "R3", "gate": []}
+{"seq": 9, "at": "2026-11-14T21:48:08Z", "actor": "adr0045-sync", "type": "rework", "attempt": "main", "from_node": null, "reason": "上游实质修订（2026-11-15 实际比较，compare JSON 在案）：en 已随迁至新上游+勘误，按裁定 reopen 重走"}

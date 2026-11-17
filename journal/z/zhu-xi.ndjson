@@ -1,0 +1,11 @@
+{"seq": 1, "at": "2026-11-08T22:37:04Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "8c729abccaa3a2b2cbcee7ca63e4b3389b2e9a54c43e42feac29463db453f374", "pubinfo_date": "Jan 25, 2025", "edition": "Spring 2025"}
+{"seq": 2, "at": "2026-11-15T15:11:52Z", "actor": "Z-rework-20261115", "type": "pass", "attempt": "main", "node": "s0", "gate": []}
+{"seq": 3, "at": "2026-11-15T16:30:58Z", "actor": "Z-rework-20261115", "type": "pass", "attempt": "main", "node": "draft", "gate": []}
+{"seq": 4, "at": "2026-11-15T17:06:48Z", "actor": "Z-rework-20261115", "type": "pass", "attempt": "main", "node": "s1", "gate": []}
+{"seq": 5, "at": "2026-11-15T17:08:23Z", "actor": "Z-rework-20261115", "type": "pass", "attempt": "main", "node": "s2", "gate": []}
+{"seq": 6, "at": "2026-11-15T17:08:24Z", "actor": "Z-rework-20261115", "type": "pass", "attempt": "main", "node": "s2.4", "gate": []}
+{"seq": 7, "at": "2026-11-15T17:10:20Z", "actor": "Z-rework-20261115", "type": "pass", "attempt": "main", "node": "global", "gate": []}
+{"seq": 8, "at": "2026-11-15T17:12:26Z", "actor": "Z-rework-20261115", "type": "pass", "attempt": "main", "node": "S3", "gate": []}
+{"seq": 9, "at": "2026-11-15T17:23:04Z", "actor": "Z-rework-20261115", "type": "pass", "attempt": "main", "node": "R1", "gate": []}
+{"seq": 10, "at": "2026-11-15T17:25:20Z", "actor": "Z-rework-20261115", "type": "pass", "attempt": "main", "node": "R2", "gate": []}
+{"seq": 11, "at": "2026-11-17T06:28:49Z", "actor": "P8-revert-20261117", "type": "rework", "attempt": "main", "from_node": "s2.4", "reason": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：尾节节名残留（参考文献/References 英文括注）修复后机检归绿，并入回退面；凭证 results/revert-ledger-residual-20261117.json"}

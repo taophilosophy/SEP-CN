@@ -5,7 +5,7 @@
 纯函数，并对真实数据求值，才能说"成立"。本脚本不含推断，只做集合与函数计算。
 
 输入：
-  pipeline-17.json     16 个作业节点与判据归属
+  rules/pipeline.json     16 个作业节点与判据归属
   journal-schema.json  事件模型（节点集只引用，不内嵌）
   axioms.json          28 条公理、2 条定理与谓词映射
   zong-zhi-xing-shu.md 总执行书的自述块
@@ -42,7 +42,7 @@ if getattr(sys.stdout, "encoding", None) and sys.stdout.encoding.lower() not in 
         pass
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
-PIPE = os.path.join(ROOT, "jian-yi-shu", "pipeline-17.json")
+PIPE = os.path.join(ROOT, "rules", "pipeline.json")
 SCHEMA = os.path.join(ROOT, "jian-yi-shu", "journal-schema.json")
 AXIOMS = os.path.join(ROOT, "jian-yi-shu", "axioms.json")
 PLAN = os.path.join(ROOT, "jian-yi-shu", "zong-zhi-xing-shu.md")
@@ -255,7 +255,7 @@ def main():
     rec("E", "E1 节点集不内嵌于事件模型", not has_inline,
         "journal-schema 仍内嵌 %d 个节点" % len(schema.get("nodes", [])))
     rec("E", "E2 nodes_ref 指向 pipeline",
-        _norm(ref.get("source", "")).endswith("pipeline-17.json#nodes"),
+        _norm(ref.get("source", "")).endswith("pipeline.json#nodes"),
         "source=%s" % ref.get("source"))
     rec("E", "E3 nodes_ref.count 与实际相符", ref.get("count") == len(nodes),
         "声明=%s 实际=%d" % (ref.get("count"), len(nodes)))

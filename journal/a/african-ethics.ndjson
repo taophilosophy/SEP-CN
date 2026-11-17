@@ -1,0 +1,10 @@
+{"seq": 1, "at": "2026-10-28T16:36:39Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "d69518e7466f1ce90271509aa778e6e022cea23b7e5b451da9647647b33921d0", "pubinfo_date": "Sep 9, 2010", "edition": "Fall 2011"}
+{"seq": 2, "at": "2026-11-09T07:57:12Z", "actor": "A3-main-20261109", "type": "pass", "attempt": "main", "node": "draft", "gate": []}
+{"seq": 3, "at": "2026-11-09T07:57:12Z", "actor": "A3-main-20261109", "type": "pass", "attempt": "main", "node": "s1", "gate": []}
+{"seq": 4, "at": "2026-11-09T08:36:51Z", "actor": "A4-main-20261109", "type": "pass", "attempt": "main", "node": "s2", "gate": []}
+{"seq": 5, "at": "2026-11-09T08:37:35Z", "actor": "A4-main-20261109", "type": "pass", "attempt": "main", "node": "S3", "gate": []}
+{"seq": 6, "at": "2026-11-09T08:39:36Z", "actor": "A4-main-20261109", "type": "pass", "attempt": "main", "node": "R1", "gate": []}
+{"seq": 7, "at": "2026-11-09T08:40:19Z", "actor": "A4-main-20261109", "type": "pass", "attempt": "main", "node": "R2", "gate": []}
+{"seq": 8, "at": "2026-11-09T10:30:51Z", "actor": "A4-main-20261109", "type": "pass", "attempt": "main", "node": "R3", "gate": []}
+{"seq": 9, "at": "2026-11-15T09:02:34Z", "actor": "pc6-m2.5-revert", "type": "rework", "attempt": "main", "from_node": "global", "reason": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"}
+{"seq": 10, "at": "2026-11-17T01:13:16Z", "actor": "P8-revert-20261117", "type": "rework", "attempt": "main", "from_node": "s2.4", "reason": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"}

@@ -1,0 +1,10 @@
+{"seq": 1, "at": "2026-10-28T16:36:43Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "c40eae9a7c1482a3cc96406267a800acf6b9bae9daf13670bfaf66e57674aa93", "pubinfo_date": "Apr 25, 2024", "edition": "Summer 2024"}
+{"seq": 2, "at": "2026-11-01T05:29:05Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "draft", "gate": []}
+{"seq": 3, "at": "2026-11-01T05:29:05Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "s1", "gate": []}
+{"seq": 4, "at": "2026-11-01T05:29:05Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "s2", "gate": []}
+{"seq": 5, "at": "2026-11-01T05:29:06Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "S3", "gate": []}
+{"seq": 6, "at": "2026-11-01T05:29:06Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "R1", "gate": []}
+{"seq": 7, "at": "2026-11-01T05:29:06Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "R2", "gate": []}
+{"seq": 8, "at": "2026-11-01T05:29:07Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "R3", "gate": []}
+{"seq": 9, "at": "2026-11-14T15:04:23Z", "actor": "pc6-m2.5-revert", "type": "rework", "attempt": "main", "from_node": "global", "reason": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"}
+{"seq": 10, "at": "2026-11-17T06:15:23Z", "actor": "P8-revert-20261117", "type": "rework", "attempt": "main", "from_node": "s2.4", "reason": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：体例机械项修复后复判归绿，并入回退面；机检凭证 results/revert-ledger-after-stylefix-20261117.json"}

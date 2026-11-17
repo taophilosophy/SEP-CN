@@ -1,0 +1,11 @@
+{"seq": 1, "at": "2026-10-28T16:36:33Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "b69db0a3fff7a50c8d34a13e15901168a603b769fab52a7f55ac2dff1aebabe1", "pubinfo_date": "May 20, 2019", "edition": "Fall 2020"}
+{"seq": 2, "at": "2026-10-31T07:25:58Z", "actor": "ses-007-rev", "type": "pass", "attempt": "main", "node": "draft", "gate": []}
+{"seq": 3, "at": "2026-10-31T07:25:58Z", "actor": "ses-007-rev", "type": "pass", "attempt": "main", "node": "s1", "gate": []}
+{"seq": 4, "at": "2026-10-31T07:25:58Z", "actor": "ses-007-rev", "type": "pass", "attempt": "main", "node": "s2", "gate": []}
+{"seq": 5, "at": "2026-10-31T07:25:58Z", "actor": "ses-007-rev", "type": "pass", "attempt": "main", "node": "S3", "gate": []}
+{"seq": 6, "at": "2026-10-31T07:27:58Z", "actor": "ses-007-rev", "type": "pass", "attempt": "main", "node": "R1", "gate": []}
+{"seq": 7, "at": "2026-10-31T07:32:22Z", "actor": "ses-007-rev", "type": "pass", "attempt": "main", "node": "R2", "gate": []}
+{"seq": 8, "at": "2026-10-31T07:32:22Z", "actor": "ses-007-rev", "type": "pass", "attempt": "main", "node": "R3", "gate": []}
+{"seq": 9, "at": "2026-11-04T16:38:42Z", "actor": "governance-session", "type": "rework", "attempt": "main", "from_node": null, "reason": "QA 返工立项（qa-rework，状态保持 done 不动，认领会话按 update 语义只走变更段）：changes: specs/005-translation-campaign/results/qa-prose-2026-10-31-summary.md#返工队列；范围=Critical 定点核对（改前回核英文镜像）+check_prose 语言告警清零或逐条豁免留痕；优先序与作业程序见 "}
+{"seq": 10, "at": "2026-11-15T09:02:34Z", "actor": "pc6-m2.5-revert", "type": "rework", "attempt": "main", "from_node": "global", "reason": "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（specs/028 §0-bis；先行批字头 a＋1）"}
+{"seq": 11, "at": "2026-11-17T06:26:15Z", "actor": "P8-revert-20261117", "type": "rework", "attempt": "main", "from_node": "s2.4", "reason": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：体例/引号机检归绿后并入回退面；凭证 results/revert-ledger-after-stylefix-20261117.json"}

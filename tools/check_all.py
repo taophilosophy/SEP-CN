@@ -4,7 +4,8 @@
 
 覆盖（与 checks.yml CI 一致，另含需本地数据的项；2026-11-17 增第 11 项转换保真，specs/039 P9；
 2026-11-17 增目录布局一致性，ADR-0067）：
-  check_summary / check_layout（layout.json 单一源，L1–L4） / check_mulu_s / check_doc_size /
+  check_summary / check_layout（layout.json 单一源，L1–L4） / check_stages（pipeline.json 判据表，S1–S4） /
+  check_mulu_s / check_doc_size /
   check_junk / check_images / check_terms / check_quotes / check_academic（词条+任务版本钉）/
   check_math_zh（译文侧公式体例，021 九类，D26 接线）/
   divergence（原始物分歧账，ADR-0045：en/ 静默改动未登记即红）/ 单元测试；
@@ -40,6 +41,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GATES = [
     ("SUMMARY 结构审计", "summary", "tools/check_summary.py"),
     ("目录布局一致性", "layout", "tools/check_layout.py"),
+    ("判据登记表一致性", "stages", "tools/check_stages.py"),
     ("分类目录对应性", "mulu", "tools/check_mulu_s.py"),
     ("单体文件大小", "docsize", "tools/check_doc_size.py"),
     ("垃圾与产物入库", "junk", "tools/check_junk.py"),

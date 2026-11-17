@@ -1,0 +1,9 @@
+{"seq": 1, "at": "2026-11-01T10:34:06Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "7d5230900f161b53fe8f151cfdd80501c8a2500c0c67256caecabc95c282ec8a", "pubinfo_date": "Sep 30, 2020", "edition": "Summer 2024"}
+{"seq": 2, "at": "2026-11-07T06:10:30Z", "actor": "?", "type": "pass", "attempt": "main", "node": "draft", "gate": []}
+{"seq": 3, "at": "2026-11-07T06:10:30Z", "actor": "?", "type": "pass", "attempt": "main", "node": "s1", "gate": []}
+{"seq": 4, "at": "2026-11-07T06:10:30Z", "actor": "?", "type": "pass", "attempt": "main", "node": "s2", "gate": []}
+{"seq": 5, "at": "2026-11-07T06:10:34Z", "actor": "?", "type": "pass", "attempt": "main", "node": "S3", "gate": []}
+{"seq": 6, "at": "2026-11-10T14:23:38Z", "actor": "J2-main-20261110", "type": "pass", "attempt": "main", "node": "R1", "gate": []}
+{"seq": 7, "at": "2026-11-10T14:23:38Z", "actor": "J2-main-20261110", "type": "pass", "attempt": "main", "node": "R2", "gate": []}
+{"seq": 8, "at": "2026-11-10T14:26:18Z", "actor": "J2-main-20261110", "type": "pass", "attempt": "main", "node": "R3", "gate": []}
+{"seq": 9, "at": "2026-11-10T15:19:10Z", "actor": "pc6-20261110", "type": "rework", "attempt": "main", "from_node": null, "reason": "语体不合规（文言/半文半白），按 ADR-0033 与用户 2026-11-10 裁定置空返工；凭证 specs/015-style-register-review/results/verdicts.jsonl"}

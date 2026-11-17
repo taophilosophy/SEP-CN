@@ -2,8 +2,8 @@
   "schema": "sep-journal/v2",
   "status": "proposal",
   "date": "2026-11-18",
-  "note": "事件模型与判据类型的机读定义。节点集不在本文件定义，改为引用 pipeline-17，以消除双源。落地须经 ADR；本文件为草案，不参与任何门禁。",
-  "revision": "v2：删除内嵌 nodes 与 mandatory_minimum，改为 nodes_ref／mandatory_ref 指向 pipeline-17；v1 的两份节点定义（18 节点 vs 17 节点）已合并为单一源",
+  "note": "事件模型与判据类型的机读定义。节点集不在本文件定义，改为引用 rules/pipeline.json，以消除双源。落地须经 ADR；本文件为草案，不参与任何门禁。",
+  "revision": "v2：删除内嵌 nodes 与 mandatory_minimum，改为 nodes_ref／mandatory_ref 指向 rules/pipeline.json；v1 的两份节点定义（18 节点 vs 17 节点）已合并为单一源",
 
   "principles": {
     "J4": "日志只追加：任何事件不得修改或删除",
@@ -98,13 +98,13 @@
   ],
 
   "nodes_ref": {
-    "source": "jian-yi-shu/pipeline-17.json#nodes",
+    "source": "rules/pipeline.json#nodes",
     "count": 16,
-    "note": "节点集与次序由 pipeline-17 唯一定义。本文件不再内嵌节点，避免两处各写一套（v1 曾同时存在 18 节点与 17 节点两版）"
+    "note": "节点集与次序由 rules/pipeline.json 唯一定义。本文件不再内嵌节点，避免两处各写一套（v1 曾同时存在 18 节点与 17 节点两版）"
   },
 
   "mandatory_ref": {
-    "source": "jian-yi-shu/pipeline-17.json#mandatory_minimum.nodes",
+    "source": "jian-yi-shu/rules/pipeline.json#mandatory_minimum.nodes",
     "members": ["s0", "s2.4", "global", "R1", "R2", "R3"],
     "rule": "任何 attempt 合回主干前，该集合必须全部 pass；分支内自审不可替代",
     "note": "R1-R3 是最小集不是全集：可增，不可减"

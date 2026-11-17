@@ -1,0 +1,9 @@
+{"seq": 1, "at": "2026-10-28T16:36:39Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "3da32861b6bd7b693e5e63dbace798e9d4411adcd6e34b7d275fbf8703cd709b", "pubinfo_date": "Apr 29, 2026", "edition": "Summer 2026"}
+{"seq": 2, "at": "2026-11-01T07:55:17Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "draft", "gate": []}
+{"seq": 3, "at": "2026-11-01T07:55:17Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "s1", "gate": []}
+{"seq": 4, "at": "2026-11-01T07:55:18Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "s2", "gate": []}
+{"seq": 5, "at": "2026-11-01T07:55:18Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "S3", "gate": []}
+{"seq": 6, "at": "2026-11-01T07:55:18Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "R1", "gate": []}
+{"seq": 7, "at": "2026-11-01T07:55:19Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "R2", "gate": []}
+{"seq": 8, "at": "2026-11-01T07:55:19Z", "actor": "主会话", "type": "pass", "attempt": "main", "node": "R3", "gate": []}
+{"seq": 9, "at": "2026-11-10T16:37:19Z", "actor": "M1-20261111-register", "type": "rework", "attempt": "main", "from_node": null, "reason": "specs/015 语体复核：半文半白（真之/的=0.466；之伦4、是已2、既已1、毋宁5），按 ADR-0033 置空重译"}

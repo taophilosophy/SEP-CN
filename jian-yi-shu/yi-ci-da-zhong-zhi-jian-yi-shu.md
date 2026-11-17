@@ -277,4 +277,4 @@ Seg3 审阅校对   s2.4 → s2.5 → s3 → R1 → R2 → R3 → F3
 | `specs/042-progress-model-v2/bin/reset_audit.py` | 只读体检判官（可复算本文所有数字） |
 | `specs/042-progress-model-v2/results/reset-audit.json` | 体检机读产物 |
 
-未实施任何改动：未改工具、未改任务数据、未改既有 ADR。落地按 `rules/08` §14 属实施类，须另立任务并开 ADR（建议 ADR-0069“日志为事实、状态为视图”）；W0 打 tag 前不得开始 W1。
+未实施任何改动：未改工具、未改任务数据、未改既有 ADR。落地按 `rules/08` §14 属实施类，须另立任务并开 ADR（ADR-0068“日志为事实、状态为视图”）；W0 打 tag 前不得开始 W1。
