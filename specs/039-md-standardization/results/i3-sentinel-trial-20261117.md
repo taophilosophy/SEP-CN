@@ -56,3 +56,22 @@
    ③math-asymmetric 320 件中 203 兼差件的复核）。本轮完成①的方法面与②③的定量底数。
 3. 白名单候选增补：URL/DOI 断行差异（两侧均为机器标识符，簿记面已由
    `check_pairs dangling-link`／`en_integrity` 管辖）——待逐条定性后裁定是否入白名单。
+
+---
+
+## 修正与修复后复测（2026-11-17 晚，5645e67b7 之后）
+
+**归因修正**：本报告「书目嵌套 `<li>` 丢弃」族定性**作废**——A/B 实证嵌套 li 本会进 bib_entries；真机制＝`build_cite_keys` 无姓氏路径整条 continue（主文献区年份起首条目节首无可继承姓氏，sartre 30 条蒸发）。「129 包」扫描量的是良性结构属性。详见 execution-log 2026-11-17 晚节。
+
+**修复后全库复测**（`results/i3-post-citefix-20261117.json`）：
+
+| 项 | 修复前 | 修复后 |
+| ---- | ---- | ---- |
+| text-stream-diff（真候选） | 195 | **164**（−31，键修复消解） |
+| math-asymmetric（判据不适用） | 320 | 320 |
+| math-asymmetric-diff | 203 | 234 |
+| sartre / buber | 真候选 | **归零** |
+
+**164 件聚类**：URL/DOI 族 36（断行与形态差，簿记面已由 check_pairs dangling-link/en_integrity 管，白名单候选）｜Notes 号码族 12（注号数字簿记）｜其他待定性 116（P9 逐条定性面，抽样含 html 侧标签断词形态差）。
+
+**math-asymmetric-diff 234 件抽样 3/3 确认为跨度伪差**（html 未闭合 opener 致 TeX 字母漏入流、md 超限吞段）——审计档分类成立。
