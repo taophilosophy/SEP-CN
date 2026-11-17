@@ -100,7 +100,8 @@
     {"id": "P1", "seg": "seg1", "type": "pipe", "prev": null, "gate": ["fetch_audit"], "desc": "抓取并锁定 sha256"},
     {"id": "P2", "seg": "seg1", "type": "pipe", "prev": "P1", "gate": ["check_en_patches", "divergence"], "desc": "HTML 转英文 markdown，格式差异以虚拟补丁打入"},
     {"id": "P3", "seg": "seg1", "type": "pipe", "prev": "P2", "gate": ["check_yuanwen_fidelity"], "desc": "由 markdown 渲染结果反向校对 HTML"},
-    {"id": "F1", "seg": "seg1", "type": "format", "prev": "P3", "gate": [], "desc": "一段格式闭合"},
+    {"id": "s0", "seg": "seg1", "type": "pipe", "prev": "P3", "mandatory": true, "gate": ["en_integrity", "en_source_audit", "divergence"], "desc": "源审计双轴：HTML 本体核查＋镜像轴保真（ADR-0052）；进 s3 前历史必须有 s0 记录"},
+    {"id": "F1", "seg": "seg1", "type": "format", "prev": "s0", "gate": [], "desc": "一段格式闭合"},
 
     {"id": "P4", "seg": "seg2", "type": "stage", "prev": "F1", "gate": ["check_terms"], "desc": "翻译预处理：术语摘录、errata 注入"},
     {"id": "draft", "seg": "seg2", "type": "stage", "prev": "P4", "gate": [], "desc": "首译"},
@@ -109,23 +110,31 @@
     {"id": "F2", "seg": "seg2", "type": "format", "prev": "s2", "gate": [], "desc": "二段格式闭合"},
 
     {"id": "s2.4", "seg": "seg3", "type": "stage", "prev": "F2", "gate": ["check_terms", "check_pairs", "check_style"], "desc": "术语与体例锁定"},
-    {"id": "s2.5", "seg": "seg3", "type": "stage", "prev": "s2.4", "gate": ["check_math_zh", "check_quotes"], "desc": "全局一致性审计：节集合、脚注总数、密度"},
-    {"id": "s3", "seg": "seg3", "type": "stage", "prev": "s2.5", "gate": ["check_academic"], "desc": "终校"},
+    {"id": "s2.5", "seg": "seg3", "type": "stage", "prev": "s2.4", "mandatory": true, "gate": ["check_math_zh", "check_quotes"], "desc": "全局一致性审计：节集合、脚注总数、密度"},
+    {"id": "X1", "seg": "seg3", "type": "pipe", "prev": "s2.5", "mandatory": false, "gate": [], "desc": "形态横向清账（ADR-0047）：跨词条形态正典化，告警级、不入状态机、不进 check_all"},
+    {"id": "s3", "seg": "seg3", "type": "stage", "prev": "X1", "gate": ["check_academic"], "desc": "终校"},
     {"id": "R1", "seg": "seg3", "type": "review", "prev": "s3", "gate": [], "desc": "初审：Verity 维度"},
     {"id": "R2", "seg": "seg3", "type": "review", "prev": "R1", "gate": [], "desc": "复审：逻辑链与术语一致性"},
-    {"id": "R3", "seg": "seg3", "type": "review", "prev": "R2", "gate": [], "desc": "终审：须用户显式授权（ADR-0054）"},
+    {"id": "R3", "seg": "seg3", "type": "review", "prev": "R2", "mandatory": true, "gate": [], "desc": "终审：须用户显式授权（ADR-0054），--mandate 必填"},
     {"id": "F3", "seg": "seg3", "type": "format", "prev": "R3", "gate": [], "desc": "三段格式闭合"}
   ],
 
   "mandatory_minimum": {
-    "review_nodes": ["R1", "R2", "R3"],
-    "rule": "任何 attempt 合回主干前，review_nodes 必须全部 pass；分支内自审不可替代",
+    "nodes": ["s0", "s2.4", "s2.5", "R1", "R2", "R3"],
+    "rule": "任何 attempt 合回主干前，nodes 必须全部 pass；分支内自审不可替代",
     "note": "R1-R3 是最小集不是全集：可增（专项审核），不可减"
   },
 
   "saturation": {
-    "predicate": "passed(e, attempt) ⊇ {n.id for n in nodes} ∪ mandatory_minimum.review_nodes",
+    "predicate": "passed(e, attempt) ⊇ {n.id for n in nodes} ∪ mandatory_minimum.nodes",
     "note": "nodes 可随 pipeline.json 扩展，故该判定随时可能由真变假"
+  },
+
+  "state_only_entry": {
+    "id": "cleared",
+    "desc": "置空动作，非作业节点：无判据、无交付物，仅表示旧译文作废、等待重译",
+    "applicability": "仅 retranslate 序列；update 序列无此态",
+    "entry_condition": "已登记可信英文基线（baseline/ 有 version_pin），且清空动作可由 git 历史回溯"
   },
 
   "derived_views": {
