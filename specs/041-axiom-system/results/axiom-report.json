@@ -1,0 +1,38 @@
+{
+ "schema": "sep-cn-axiom-audit/1",
+ "at": "2026-11-17T00:06:22Z",
+ "axioms": 14,
+ "forward_norms": 30,
+ "phi_goals": 8,
+ "s1_anchor_miss": [],
+ "s2_carrier_miss": [],
+ "t5_nonredundant": true,
+ "s3_reverse": {
+  "gates": 11,
+  "hooks": [
+   "independence",
+   "r3_mandate",
+   "s24_gates",
+   "s0_gates",
+   "s25_gates",
+   "s3r3_gates"
+  ],
+  "uncovered_axioms": [
+   "A10"
+  ]
+ },
+ "s4_forward": {
+  "norms": 30,
+  "bad": []
+ },
+ "s5_phi": {
+  "goals": 8,
+  "bad": []
+ },
+ "t4_consistency": {
+  "specs040_G": 0,
+  "specs040_A_viol": 0,
+  "ok": true
+ },
+ "fails": []
+}
