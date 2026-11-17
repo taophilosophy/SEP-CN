@@ -1,0 +1,96 @@
+{
+ "root": "C:\\Users\\ykla\\Documents\\SEP-CN",
+ "totals": {
+  "tasks": 1199,
+  "steps_events": 4993,
+  "tasks_with_history": 431,
+  "tasks_without_history": 768,
+  "done_events": 408,
+  "revert_events": 828,
+  "zh_doc_missing": 1
+ },
+ "state_distribution": {
+  "pending": 617,
+  "s2.4_termchecked": 411,
+  "cleared": 166,
+  "s2.5_checked": 3,
+  "done": 1,
+  "checked": 1
+ },
+ "kind_distribution": {
+  "retranslate": 1197,
+  "glossary-maintenance": 1,
+  "daily-check": 1
+ },
+ "highest_node_reached": {
+  "done": 385,
+  "s3": 24,
+  "r2": 16,
+  "r1": 3,
+  "r3": 2,
+  "s0": 1
+ },
+ "no_history_state": {
+  "pending": 617,
+  "cleared": 149,
+  "done": 1,
+  "checked": 1
+ },
+ "reached_done_by_current_state": {
+  "s2.4_termchecked": 366,
+  "cleared": 16,
+  "s2.5_checked": 3
+ },
+ "revert_by_cause": {
+  "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs": 411,
+  "回退到 s2.5_checked；依据：ADR-0053 全量 done 回炉（": 219,
+  "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/": 198
+ },
+ "step_names": {
+  "revert-state": 828,
+  "clear": 594,
+  "s3": 455,
+  "s1": 437,
+  "s2": 437,
+  "draft": 429,
+  "r1": 428,
+  "r2": 423,
+  "done": 408,
+  "r3": 407,
+  "qa-rework": 33,
+  "reopen": 21,
+  "s0": 20,
+  "direction": 20,
+  "rework-open": 15,
+  "post_done_fix": 3,
+  "reset": 2,
+  "rework-s1": 2,
+  "rework-s2": 2,
+  "rework-s3": 2,
+  "rework-r3": 2,
+  "rework-close": 2,
+  "cd-sync": 2,
+  "doc-reset": 2,
+  "tail-normalize": 2,
+  "review-2026-10-27": 1,
+  "commit-mining-traversal": 1,
+  "augment-from-commit-messages": 1,
+  "term-harvest-2026-10-27": 1,
+  "batch1-adjudication-2026-10-27": 1,
+  "rounds-2-4-2026-10-27": 1,
+  "bing-wang-2026-11-13": 1,
+  "update-flow-scan": 1,
+  "drift-marker-scan": 1,
+  "incident-recovery": 1,
+  "cleared": 1,
+  "drafted": 1,
+  "restore": 1,
+  "reconcile-fix": 1,
+  "intent": 1,
+  "s24": 1,
+  "s25": 1
+ },
+ "zh_doc_missing_list": [
+  "qian-yan/ci-hui-biao.md"
+ ]
+}

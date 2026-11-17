@@ -1,0 +1,145 @@
+{
+  "schema": "sep-journal/v1",
+  "status": "proposal",
+  "date": "2026-11-17",
+  "note": "事件日志与判据登记表的机读定义。落地须经 ADR；本文件为草案，不参与任何门禁。",
+
+  "principles": {
+    "J4": "日志只追加：任何事件不得修改或删除",
+    "J5": "视图禁回写：progress.py 不写任何文件",
+    "J7": "事件六类封闭：新增语义须改 pipeline.json，不得新造事件类型"
+  },
+
+  "event_types": {
+    "lock": {
+      "desc": "源钉变更：记录一次上游字节事实的锁定",
+      "required": ["seq", "at", "actor", "type", "sha256"],
+      "optional": ["pubinfo_date", "edition", "source_url"],
+      "invariant": "同一 attempt 内 sha256 变更须开新 attempt"
+    },
+    "pass": {
+      "desc": "某节点判据通过",
+      "required": ["seq", "at", "actor", "type", "node", "attempt", "gate"],
+      "optional": ["witness", "note", "gate_version"],
+      "invariant": "node 必须存在于 pipeline.nodes；gate 非空"
+    },
+    "fail": {
+      "desc": "某节点判据失败",
+      "required": ["seq", "at", "actor", "type", "node", "attempt", "gate", "reason"],
+      "optional": ["witness", "gate_version"],
+      "invariant": "fail 不改变 attempt，仅记录；下游节点不得在 fail 之后 pass"
+    },
+    "rework": {
+      "desc": "开返工分支：不改写既有事件，只新增分支头",
+      "required": ["seq", "at", "actor", "type", "attempt", "from_node", "reason"],
+      "optional": ["scope", "parent_attempt", "arbiter"],
+      "invariant": "attempt 全局唯一；scope 为条目列表时限定分支作用面"
+    },
+    "merge": {
+      "desc": "分支合回主干",
+      "required": ["seq", "at", "actor", "type", "attempt", "into", "verdict", "arbiter"],
+      "optional": ["r_chain"],
+      "invariant": "verdict=accept 前 r_chain 必须覆盖 review 类节点的最小集全部 pass"
+    },
+    "import": {
+      "desc": "迁移期合成快照：承认历史不可考，不推断",
+      "required": ["seq", "at", "actor", "type", "synthetic", "basis"],
+      "optional": ["state_at_import", "note"],
+      "invariant": "synthetic 必须为 true；basis 取值限定 state / rework-only / steps"
+    }
+  },
+
+  "node_types": {
+    "pipe": {
+      "desc": "管线型：判据由 ADR 定义，改动须 ADR",
+      "criteria_source": "rules/adr/*",
+      "replay_on_change": "replace"
+    },
+    "stage": {
+      "desc": "生产型：判据由该环节对应的三位一体定义",
+      "criteria_source": "specs/<NNN>/spec.md",
+      "replay_on_change": "tighten"
+    },
+    "review": {
+      "desc": "验收型：可增不可减，最小集 R1-R3 强制",
+      "criteria_source": "rules/04",
+      "replay_on_change": "replace"
+    },
+    "format": {
+      "desc": "格式型：段末闭合，只处置本段产生的格式问题，零差异也须记录",
+      "criteria_source": "rules/02 + rules/04",
+      "replay_on_change": "widen"
+    }
+  },
+
+  "replay_on_change": {
+    "widen": {
+      "desc": "新判据是旧判据的子集（放宽）：既有 pass 继续有效",
+      "state_migration": 0,
+      "action": "无"
+    },
+    "tighten": {
+      "desc": "新判据是旧判据的超集（收紧）：对既存 pass 重跑新判据",
+      "state_migration": 0,
+      "action": "追加 pass（gate_version+1）或 fail"
+    },
+    "replace": {
+      "desc": "新旧判据互不包含（更换）：开 attempt 分支，合回须 R 链全过",
+      "state_migration": "仅受影响条目",
+      "action": "rework + merge"
+    }
+  },
+
+  "segments": [
+    {"id": "seg1", "name": "英语文本提取", "contract": "出口产物须可由 seg2 单钉消费"},
+    {"id": "seg2", "name": "中文翻译", "contract": "出口产物须为全文一致的中文 markdown"},
+    {"id": "seg3", "name": "审阅与校对", "contract": "出口须含 R 链全部 pass 事件"}
+  ],
+
+  "nodes": [
+    {"id": "P1", "seg": "seg1", "type": "pipe", "prev": null, "gate": ["fetch_audit"], "desc": "抓取并锁定 sha256"},
+    {"id": "P2", "seg": "seg1", "type": "pipe", "prev": "P1", "gate": ["check_en_patches", "divergence"], "desc": "HTML 转英文 markdown，格式差异以虚拟补丁打入"},
+    {"id": "P3", "seg": "seg1", "type": "pipe", "prev": "P2", "gate": ["check_yuanwen_fidelity"], "desc": "由 markdown 渲染结果反向校对 HTML"},
+    {"id": "F1", "seg": "seg1", "type": "format", "prev": "P3", "gate": [], "desc": "一段格式闭合"},
+
+    {"id": "P4", "seg": "seg2", "type": "stage", "prev": "F1", "gate": ["check_terms"], "desc": "翻译预处理：术语摘录、errata 注入"},
+    {"id": "draft", "seg": "seg2", "type": "stage", "prev": "P4", "gate": [], "desc": "首译"},
+    {"id": "s1", "seg": "seg2", "type": "stage", "prev": "draft", "gate": ["check_pairs"], "desc": "对照原文校订"},
+    {"id": "s2", "seg": "seg2", "type": "stage", "prev": "s1", "gate": ["check_style", "check_prose"], "desc": "语体审阅"},
+    {"id": "F2", "seg": "seg2", "type": "format", "prev": "s2", "gate": [], "desc": "二段格式闭合"},
+
+    {"id": "s2.4", "seg": "seg3", "type": "stage", "prev": "F2", "gate": ["check_terms", "check_pairs", "check_style"], "desc": "术语与体例锁定"},
+    {"id": "s2.5", "seg": "seg3", "type": "stage", "prev": "s2.4", "gate": ["check_math_zh", "check_quotes"], "desc": "全局一致性审计：节集合、脚注总数、密度"},
+    {"id": "s3", "seg": "seg3", "type": "stage", "prev": "s2.5", "gate": ["check_academic"], "desc": "终校"},
+    {"id": "R1", "seg": "seg3", "type": "review", "prev": "s3", "gate": [], "desc": "初审：Verity 维度"},
+    {"id": "R2", "seg": "seg3", "type": "review", "prev": "R1", "gate": [], "desc": "复审：逻辑链与术语一致性"},
+    {"id": "R3", "seg": "seg3", "type": "review", "prev": "R2", "gate": [], "desc": "终审：须用户显式授权（ADR-0054）"},
+    {"id": "F3", "seg": "seg3", "type": "format", "prev": "R3", "gate": [], "desc": "三段格式闭合"}
+  ],
+
+  "mandatory_minimum": {
+    "review_nodes": ["R1", "R2", "R3"],
+    "rule": "任何 attempt 合回主干前，review_nodes 必须全部 pass；分支内自审不可替代",
+    "note": "R1-R3 是最小集不是全集：可增（专项审核），不可减"
+  },
+
+  "saturation": {
+    "predicate": "passed(e, attempt) ⊇ {n.id for n in nodes} ∪ mandatory_minimum.review_nodes",
+    "note": "nodes 可随 pipeline.json 扩展，故该判定随时可能由真变假"
+  },
+
+  "derived_views": {
+    "stage_done": "从日志折叠出某 attempt 已 pass 的节点集",
+    "saturate": "上式的集合包含判定",
+    "stale": "lock 事件的 sha256 ≠ en/ 现文件哈希",
+    "attempt": "未被 merge 的最新 rework 分支，无则为 main",
+    "report": "曾达饱和 / 当前口径饱和 / 钉过期，三项并列，不合并为布尔值"
+  },
+
+  "migration": {
+    "from": ["tasks/*.json 的 state 与 steps", "tools/task_ops.py 的 ORDER"],
+    "to": "journal/<letter>/<slug>.ndjson + rules/pipeline.json",
+    "synthetic_rule": "steps 中无任何阶段节点的条目，一律 import{synthetic:true, basis:rework-only}；不得推断中间节点",
+    "irreversible_step": "W1"
+  }
+}
