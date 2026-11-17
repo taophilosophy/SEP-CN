@@ -1,13 +1,14 @@
 {
-  "schema": "sep-journal/v1",
+  "schema": "sep-journal/v2",
   "status": "proposal",
-  "date": "2026-11-17",
-  "note": "事件日志与判据登记表的机读定义。落地须经 ADR；本文件为草案，不参与任何门禁。",
+  "date": "2026-11-18",
+  "note": "事件模型与判据类型的机读定义。节点集不在本文件定义，改为引用 pipeline-17，以消除双源。落地须经 ADR；本文件为草案，不参与任何门禁。",
+  "revision": "v2：删除内嵌 nodes 与 mandatory_minimum，改为 nodes_ref／mandatory_ref 指向 pipeline-17；v1 的两份节点定义（18 节点 vs 17 节点）已合并为单一源",
 
   "principles": {
     "J4": "日志只追加：任何事件不得修改或删除",
     "J5": "视图禁回写：progress.py 不写任何文件",
-    "J7": "事件六类封闭：新增语义须改 pipeline.json，不得新造事件类型"
+    "J7": "事件六类封闭：新增语义须改 pipeline，不得新造事件类型"
   },
 
   "event_types": {
@@ -21,7 +22,7 @@
       "desc": "某节点判据通过",
       "required": ["seq", "at", "actor", "type", "node", "attempt", "gate"],
       "optional": ["witness", "note", "gate_version"],
-      "invariant": "node 必须存在于 pipeline.nodes；gate 非空"
+      "invariant": "node 必须存在于 nodes_ref；gate 非空"
     },
     "fail": {
       "desc": "某节点判据失败",
@@ -39,7 +40,7 @@
       "desc": "分支合回主干",
       "required": ["seq", "at", "actor", "type", "attempt", "into", "verdict", "arbiter"],
       "optional": ["r_chain"],
-      "invariant": "verdict=accept 前 r_chain 必须覆盖 review 类节点的最小集全部 pass"
+      "invariant": "verdict=accept 前 r_chain 必须覆盖 mandatory_ref 全部 pass"
     },
     "import": {
       "desc": "迁移期合成快照：承认历史不可考，不推断",
@@ -96,38 +97,22 @@
     {"id": "seg3", "name": "审阅与校对", "contract": "出口须含 R 链全部 pass 事件"}
   ],
 
-  "nodes": [
-    {"id": "P1", "seg": "seg1", "type": "pipe", "prev": null, "gate": ["fetch_audit"], "desc": "抓取并锁定 sha256"},
-    {"id": "P2", "seg": "seg1", "type": "pipe", "prev": "P1", "gate": ["check_en_patches", "divergence"], "desc": "HTML 转英文 markdown，格式差异以虚拟补丁打入"},
-    {"id": "P3", "seg": "seg1", "type": "pipe", "prev": "P2", "gate": ["check_yuanwen_fidelity"], "desc": "由 markdown 渲染结果反向校对 HTML"},
-    {"id": "s0", "seg": "seg1", "type": "pipe", "prev": "P3", "mandatory": true, "gate": ["en_integrity", "en_source_audit", "divergence"], "desc": "源审计双轴：HTML 本体核查＋镜像轴保真（ADR-0052）；进 s3 前历史必须有 s0 记录"},
-    {"id": "F1", "seg": "seg1", "type": "format", "prev": "s0", "gate": [], "desc": "一段格式闭合"},
+  "nodes_ref": {
+    "source": "jian-yi-shu/pipeline-17.json#nodes",
+    "count": 16,
+    "note": "节点集与次序由 pipeline-17 唯一定义。本文件不再内嵌节点，避免两处各写一套（v1 曾同时存在 18 节点与 17 节点两版）"
+  },
 
-    {"id": "P4", "seg": "seg2", "type": "stage", "prev": "F1", "gate": ["check_terms"], "desc": "翻译预处理：术语摘录、errata 注入"},
-    {"id": "draft", "seg": "seg2", "type": "stage", "prev": "P4", "gate": [], "desc": "首译"},
-    {"id": "s1", "seg": "seg2", "type": "stage", "prev": "draft", "gate": ["check_pairs"], "desc": "对照原文校订"},
-    {"id": "s2", "seg": "seg2", "type": "stage", "prev": "s1", "gate": ["check_style", "check_prose"], "desc": "语体审阅"},
-    {"id": "F2", "seg": "seg2", "type": "format", "prev": "s2", "gate": [], "desc": "二段格式闭合"},
-
-    {"id": "s2.4", "seg": "seg3", "type": "stage", "prev": "F2", "gate": ["check_terms", "check_pairs", "check_style"], "desc": "术语与体例锁定"},
-    {"id": "s2.5", "seg": "seg3", "type": "stage", "prev": "s2.4", "mandatory": true, "gate": ["check_math_zh", "check_quotes"], "desc": "全局一致性审计：节集合、脚注总数、密度"},
-    {"id": "X1", "seg": "seg3", "type": "pipe", "prev": "s2.5", "mandatory": false, "gate": [], "desc": "形态横向清账（ADR-0047）：跨词条形态正典化，告警级、不入状态机、不进 check_all"},
-    {"id": "s3", "seg": "seg3", "type": "stage", "prev": "X1", "gate": ["check_academic"], "desc": "终校"},
-    {"id": "R1", "seg": "seg3", "type": "review", "prev": "s3", "gate": [], "desc": "初审：Verity 维度"},
-    {"id": "R2", "seg": "seg3", "type": "review", "prev": "R1", "gate": [], "desc": "复审：逻辑链与术语一致性"},
-    {"id": "R3", "seg": "seg3", "type": "review", "prev": "R2", "mandatory": true, "gate": [], "desc": "终审：须用户显式授权（ADR-0054），--mandate 必填"},
-    {"id": "F3", "seg": "seg3", "type": "format", "prev": "R3", "gate": [], "desc": "三段格式闭合"}
-  ],
-
-  "mandatory_minimum": {
-    "nodes": ["s0", "s2.4", "s2.5", "R1", "R2", "R3"],
-    "rule": "任何 attempt 合回主干前，nodes 必须全部 pass；分支内自审不可替代",
-    "note": "R1-R3 是最小集不是全集：可增（专项审核），不可减"
+  "mandatory_ref": {
+    "source": "jian-yi-shu/pipeline-17.json#mandatory_minimum.nodes",
+    "members": ["s0", "s2.4", "global", "R1", "R2", "R3"],
+    "rule": "任何 attempt 合回主干前，该集合必须全部 pass；分支内自审不可替代",
+    "note": "R1-R3 是最小集不是全集：可增，不可减"
   },
 
   "saturation": {
-    "predicate": "passed(e, attempt) ⊇ {n.id for n in nodes} ∪ mandatory_minimum.nodes",
-    "note": "nodes 可随 pipeline.json 扩展，故该判定随时可能由真变假"
+    "predicate": "passed(e, attempt) ⊇ nodes_ref ∪ mandatory_ref",
+    "note": "nodes_ref 可随 pipeline 扩展，故该判定随时可能由真变假"
   },
 
   "state_only_entry": {

@@ -47,5 +47,6 @@
 | [040-coherence-audit](040-coherence-audit/spec.md) | 全系统融洽性审计（数理逻辑证明＋计算） | 进行中 | ✓ | ✓ | 单文件 |
 | [041-axiom-system](041-axiom-system/spec.md) | 项目公理体系与形式化充分性审计 | 进行中 | ✓ | ✓ | 单文件 |
 | [042-progress-model-v2](042-progress-model-v2/spec.md) | 进度模型重建（v3 · 三段 · 节点可插 · 类型定判据） | 草案（待用户裁定） | ✓ | ✓ | — |
+| [043-pipeline-axioms](043-pipeline-axioms/spec.md) | 总执行书的公理化验证 | — | ✓ | ✓ | — |
 
-共 41 个规格目录。
+共 42 个规格目录。

@@ -1,0 +1,221 @@
+{
+ "pipeline": "jian-yi-shu/pipeline-17.json",
+ "nodes": 16,
+ "requirements": 18,
+ "producers": 4,
+ "total": 35,
+ "passed": 35,
+ "failed": 0,
+ "results": [
+  {
+   "group": "A",
+   "name": "A1 链首唯一",
+   "ok": true,
+   "detail": "链首=['P1']"
+  },
+  {
+   "group": "A",
+   "name": "A2 链尾唯一",
+   "ok": true,
+   "detail": "链尾=['R3']"
+  },
+  {
+   "group": "A",
+   "name": "A3 无环",
+   "ok": true,
+   "detail": "环=无"
+  },
+  {
+   "group": "A",
+   "name": "A4 链覆盖全部节点",
+   "ok": true,
+   "detail": "遍历 16 / 节点 16"
+  },
+  {
+   "group": "A",
+   "name": "A5 段号沿链单调不减",
+   "ok": true,
+   "detail": "序列=['seg1', 'seg1', 'seg1', 'seg1', 'seg1', 'seg2', 'seg2', 'seg2', 'seg2', 'seg2', 'seg3', 'seg3', 'seg3', 'seg3', 'seg3', 'seg3']"
+  },
+  {
+   "group": "A",
+   "name": "A6 段内连续（不被打断）",
+   "ok": true,
+   "detail": "段串=['seg1', 'seg2', 'seg3']"
+  },
+  {
+   "group": "A",
+   "name": "A7 出度不超过 1（无分叉）",
+   "ok": true,
+   "detail": "分叉=无"
+  },
+  {
+   "group": "B",
+   "name": "B1 判据硬拦唯一",
+   "ok": true,
+   "detail": "多挂=无"
+  },
+  {
+   "group": "B",
+   "name": "B2 硬拦判据已登记",
+   "ok": true,
+   "detail": "未登记=无"
+  },
+  {
+   "group": "B",
+   "name": "B3 登记表反向完备",
+   "ok": true,
+   "detail": "悬挂=无"
+  },
+  {
+   "group": "B",
+   "name": "B4 硬拦节点判据非空",
+   "ok": true,
+   "detail": "空判据=无"
+  },
+  {
+   "group": "C",
+   "name": "C1 强制集是节点子集",
+   "ok": true,
+   "detail": "越界=[]"
+  },
+  {
+   "group": "C",
+   "name": "C2 R1 R2 R3 在强制集内",
+   "ok": true,
+   "detail": "差集=[]"
+  },
+  {
+   "group": "C",
+   "name": "C3 强制节点有承接",
+   "ok": true,
+   "detail": "无判据无动作=无"
+  },
+  {
+   "group": "D",
+   "name": "D1 每个要求都有节点承接",
+   "ok": true,
+   "detail": "无承接=无"
+  },
+  {
+   "group": "D",
+   "name": "D2 承接节点真实存在",
+   "ok": true,
+   "detail": "虚构=[]"
+  },
+  {
+   "group": "D",
+   "name": "D3 每个节点都有归属",
+   "ok": true,
+   "detail": "既无要求也非产出=无"
+  },
+  {
+   "group": "D",
+   "name": "D4 要求无空映射",
+   "ok": true,
+   "detail": "空=无"
+  },
+  {
+   "group": "D",
+   "name": "D5 承接体非空（不空挂）",
+   "ok": true,
+   "detail": "空挂=无"
+  },
+  {
+   "group": "D",
+   "name": "D6 承接节点须有独占要求",
+   "ok": true,
+   "detail": "无独占=无"
+  },
+  {
+   "group": "E",
+   "name": "E1 节点集不内嵌于事件模型",
+   "ok": true,
+   "detail": "journal-schema 仍内嵌 0 个节点"
+  },
+  {
+   "group": "E",
+   "name": "E2 nodes_ref 指向 pipeline",
+   "ok": true,
+   "detail": "source=jian-yi-shu/pipeline-17.json#nodes"
+  },
+  {
+   "group": "E",
+   "name": "E3 nodes_ref.count 与实际相符",
+   "ok": true,
+   "detail": "声明=16 实际=16"
+  },
+  {
+   "group": "E",
+   "name": "E4 强制集引用一致",
+   "ok": true,
+   "detail": "journal=['R1', 'R2', 'R3', 'global', 's0', 's2.4'] pipe=['R1', 'R2', 'R3', 'global', 's0', 's2.4']"
+  },
+  {
+   "group": "F",
+   "name": "F1 replay 值域合法",
+   "ok": true,
+   "detail": "非法=无"
+  },
+  {
+   "group": "F",
+   "name": "F2 replace 档有承接",
+   "ok": true,
+   "detail": "无承接=无"
+  },
+  {
+   "group": "G",
+   "name": "G1 段首接上段链尾",
+   "ok": true,
+   "detail": "无"
+  },
+  {
+   "group": "G",
+   "name": "G2 段尾格式闭合",
+   "ok": true,
+   "detail": "无"
+  },
+  {
+   "group": "H",
+   "name": "H1 type 值域合法",
+   "ok": true,
+   "detail": "非法=无"
+  },
+  {
+   "group": "H",
+   "name": "H2 review 必属强制",
+   "ok": true,
+   "detail": "非强制=无"
+  },
+  {
+   "group": "I",
+   "name": "I1 每节点有产物",
+   "ok": true,
+   "detail": "缺=无"
+  },
+  {
+   "group": "I",
+   "name": "I2 每节点有动作",
+   "ok": true,
+   "detail": "缺=无"
+  },
+  {
+   "group": "J",
+   "name": "J1 pipeline 无重复键",
+   "ok": true,
+   "detail": "重复=无"
+  },
+  {
+   "group": "J",
+   "name": "J2 journal-schema 无重复键",
+   "ok": true,
+   "detail": "重复=无"
+  },
+  {
+   "group": "J",
+   "name": "J3 节点 id 唯一",
+   "ok": true,
+   "detail": "节点 16 唯一 id 16"
+  }
+ ]
+}

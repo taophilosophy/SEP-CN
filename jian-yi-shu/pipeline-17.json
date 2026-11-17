@@ -199,7 +199,7 @@
         "勘误轴：未含者判失败，回 s2 或开 rework",
         "勘误轴：3.2 类必须有译注承载，缺译注即失败"
       ],
-      "criteria": ["check_terms", "check_pairs --gate"],
+      "criteria": ["check_terms", "errata_check"],
       "gate_owner": true,
       "products": ["术语锁定记录", "勘误核销表"],
       "replay_on_change": "tighten"
@@ -282,8 +282,11 @@
         "用户显式授权记录（--mandate）",
         "验收签字"
       ],
-      "criteria": ["CI", "--mandate 必填（ADR-0054）"],
+      "criteria": ["ci_all"],
+      "params": {"mandate": "必填，ADR-0054；缺失即拒"},
       "gate_owner": true,
+      "absorbs_format": true,
+      "format_note": "R3 不做格式修改，但 ci_all 重跑全部门禁含格式项，故承担段末闭合的确认职责",
       "products": ["验收签字"],
       "replay_on_change": "replace"
     }
@@ -304,15 +307,18 @@
     "en_integrity": ["s0"],
     "en_source_audit": ["s0"],
     "check_terms": ["s2.4"],
-    "check_pairs": ["s1", "s2.4"],
+    "check_pairs": ["s1"],
+    "errata_check": ["s2.4"],
     "check_prose": ["s2"],
     "check_math_zh": ["global"],
     "check_quotes": ["global"],
     "check_tables_images": ["global"],
     "check_academic": ["global"],
     "check_style": ["S3"],
+    "markdownlint": ["S3"],
     "check_images": ["S3"],
-    "check_summary": ["S3"]
+    "check_summary": ["S3"],
+    "ci_all": ["R3"]
   },
 
   "migration": {
