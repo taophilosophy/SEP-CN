@@ -58,3 +58,18 @@ python tools/campaign.py claim <批次> --session <你的会话名>
 ## 6. 评审线接管（2026-11-08，用户裁定）
 
 **R-main-20261108 会话负责全部 s3_checked 存量的 r1→r2→r3→done**（当日接管 77 条，约 78 万英文词；用户裁定"现在全部由你负责，不用子代理"，主会话直审）。各词条责任以任务 JSON `steps[].actor` 为准，无需按批次重新认领；原初译会话**不要再自行推进这些词条的 r1–r3**（复核独立性由评审会话满足）。队列顺序与进度看 `tasks/` 状态（s3_checked 只减不增即本线产出）。
+
+## 7. 体例归一重走队列（ADR-0063／specs/039，2026-11-17 移交）
+
+**事实**：408 件在途件经 specs/039 P8 受控回退置于 `s2.4_termchecked`（另 3 件早期件同态），合计 **411 件待重走**；回退只置状态位次，正文未动。回退面与机检底单见 `specs/039/results/revert-ledger-residual-20261117.json` 及 039 execution-log。
+
+**重走工序**（每件，按字头批次认领，`task_ops.py show <slug>` 取件）：
+
+1. **s2.4 三轴增项**（状态不迁，补做后留 evidence）：术语轴 `check_terms --docs`（告警按 rules/03 D1–D5 逐条定性、三出口）；体例轴 `check_pairs --gate`＋`check_style`（P8 台账已跑绿，重走时复跑确认）；勘误轴——该件若在全局勘误表有行，核正确读法在位＋读者可见处译注在位。
+2. `advance --step s25`：机检自动挂 **术语＋体例/勘误＋审计（`check_math_zh`）＋同源独立性**；任一红即拦，禁跳过。
+3. s25 语义部分：两轴比对记录（逐段＋全局）、语体审阅（破折号／“一个”／AI 腔）、散布统计入 evidence；同源盲区对冲——actor 须异于原初译，或 evidence 记明冷置回读/密度统计补偿。
+4. `s3 → r1 → r2` 全重走（r3 仅用户显式指定会话，ADR-0054）；update 任务各步 evidence 以 `changes:` 开头。
+
+**已知必拦件（重走前先修）**：`ibn-sina`（引文多重引号错位，需对照源重排）；`implicature-optimality-games`、`quine-nf`（数学记号区引号，待 check_math 面裁定）。
+
+**纪律**：不得为过闸而调整正文措辞（体例归一不改词面）；红件修复属该件翻译工序，禁止跨件批量套改；本队列的收口判据＝`PROGRESS.md` 中 `s2.4_termchecked` 归零、`check_all` 13 项全绿。
