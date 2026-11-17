@@ -16,11 +16,11 @@ import json
 import os
 import sys
 
-if getattr(sys.stdout, "encoding", None) and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
-    try:
-        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
-    except (AttributeError, ValueError):
-        pass
+# 就地重配置编码：不替换 sys.stdout 对象，避免被 unittest 等宿主导入时缓冲区已关闭
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except (AttributeError, ValueError, OSError):
+    pass
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PIPE = os.path.join(ROOT, "rules", "pipeline.json")
@@ -34,20 +34,8 @@ def load_pipeline(path=PIPE):
         return json.loads(f.read().decode("utf-8"))
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--json", action="store_true")
-    ap.add_argument("--pipe", default=PIPE, help="被验的 pipeline JSON（负向测试用）")
-    args = ap.parse_args()
-
-    pipe_path = args.pipe if os.path.isabs(args.pipe) else os.path.join(ROOT, args.pipe)
-    if not os.path.exists(pipe_path):
-        print("输入缺失: %s（判据唯一事实源，A12 禁静默兜底）" % pipe_path, file=sys.stderr)
-        return 2
-
-    with open(pipe_path, "rb") as f:
-        pipe = json.loads(f.read().decode("utf-8"))
-
+def check(pipe):
+    """纯函数：对 pipeline dict 求值，返回 hits 列表（无 IO，可单测）。"""
     nodes = pipe.get("nodes", [])
     by = {n["id"]: n for n in nodes}
     ids = set(by)
@@ -112,6 +100,24 @@ def main():
     lax = [n["id"] for n in nodes if n.get("type") == "review" and n["id"] not in mand]
     rec("S4", "review 必属强制", not lax, "非强制=%s" % (lax or "无"))
 
+    return hits
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--json", action="store_true")
+    ap.add_argument("--pipe", default=PIPE, help="被验的 pipeline JSON（负向测试用）")
+    args = ap.parse_args()
+
+    pipe_path = args.pipe if os.path.isabs(args.pipe) else os.path.join(ROOT, args.pipe)
+    if not os.path.exists(pipe_path):
+        print("输入缺失: %s（判据唯一事实源，A12 禁静默兜底）" % pipe_path, file=sys.stderr)
+        return 2
+
+    with open(pipe_path, "rb") as f:
+        pipe = json.loads(f.read().decode("utf-8"))
+
+    hits = check(pipe)
     fails = [h for h in hits if not h["ok"]]
     for h in hits:
         print("[%s] %-18s %s%s" % (h["code"], h["name"], "PASS" if h["ok"] else "FAIL",
@@ -119,7 +125,7 @@ def main():
     print("汇总：%d 项，通过 %d，失败 %d" % (len(hits), len(hits) - len(fails), len(fails)))
 
     if args.json:
-        print(json.dumps({"nodes": len(nodes), "total": len(hits),
+        print(json.dumps({"nodes": len(pipe.get("nodes", [])), "total": len(hits),
                           "passed": len(hits) - len(fails), "failed": len(fails),
                           "results": hits}, ensure_ascii=False, indent=1))
     return 0 if not fails else 1

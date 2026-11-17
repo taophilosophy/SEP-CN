@@ -126,14 +126,14 @@
 | 波 | 做什么 | 判据 | 回滚 |
 |---|---|---|---|
 | **W0** | 打 tag `pre-reset-20261118`，冻结 `tasks/` 写入 | tag 存在、工作树干净 | 无需 |
-| **W1** | 派生日志：`steps`→事件；无史者合成 `import{synthetic}`；`state` 转最后一条事件快照 | 事件数 ≥ 4,993；385 件 `done` 在位；768 条 `synthetic` 全标 | 删 `journal/` |
-| **W2** | 落 `rules/pipeline.json`（16 节点 ＋ 四类型 ＋ 三档降级），`check_stages` 四谓词 | 验证器 45 项全过 | 删文件 |
-| **W3** | 双写期：`journal_ops` 与 `task_ops` 并行，只读比对 | 连续 3 批（≥100 条）一致率 100% | 关双写开关 |
-| **W4** | 切读面：`progress.py` 成为唯一读面，`PROGRESS.md` 由它生成 | 新旧读数差异逐条可解释 | 切回旧读面 |
+| **W1** | 派生日志：`steps`→事件；无史者合成 `import{synthetic}`；`state` 转最后一条事件快照 | 事件数 ≥ 4,993；385 件 `done` 在位；766 条 `synthetic` 全标（词条口径） | 删 `journal/` |
+| **W2** | 落 `rules/pipeline.json`（16 节点 ＋ 四类型 ＋ 三档降级），`check_stages` 四谓词 | 验证器 51 项全过 | 删文件 |
+| **W3** | 双写期：`task_ops` 推进时同时写 `journal` 与 `state`，只读比对 | 以测试词条（1–5 个）触发推进，两写产物逐条一致 | 关双写开关 |
+| **W4** | 切读面：`journal_view` 成为唯一读面，`PROGRESS.md` 由它生成 | 新旧读数差异逐条可解释 | 切回旧读面 |
 | **W5** | 删 `ORDER`／`STEPS`／`expected_prev`／`revert-state` 硬编码；`update` 死序列一并删 | 单测全绿；无工具引用旧符号 | revert 单提交 |
 | **W6** | 公理合并：`specs/041` 转存根；`specs/042`／`043` 与本执行书互认 | `specs/README.md` 重生成；`check_layout` L1–L4 归零 | 恢复 041 |
 
-**W1 是唯一不可逆步骤**，其余六波均可单独回滚。W1 的正确性靠三条硬判据兜住：事件数单调不减、385 件 `done` 全在位、768 条 `synthetic` 全标记。
+**W1 是唯一不可逆步骤**，其余六波均可单独回滚。W1 的正确性靠三条硬判据兜住：事件数单调不减、385 件 `done` 全在位、766 条 `synthetic` 全标记（词条口径，`reset_audit` 的 768 含 2 个非词条例行任务）。
 
 ---
 

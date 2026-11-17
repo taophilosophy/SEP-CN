@@ -7,14 +7,11 @@
   pending → cleared → s0_source_checked(源审计前置) → drafted → s1_checked
           → s2_checked → s2.4_termchecked(术语校) → s2.5_checked(审计已译)
           → s3_checked → r1_reviewed → r2_reviewed → r3_reviewed → done
-状态机（update）: pending → s0_source_checked(仅变更段) → s1_checked(仅变更段)
-          → s2_checked(变更段所在节) → s2.4_termchecked(仅变更段)
-          → s2.5_checked(仅变更段) → s3_checked(全文档)
-          → r1(仅变更段) → r2(变更段所在节) → r3(全文档) → done
+状态机（update）已删除（ADR-0068 W5）：零任务使用，上游修订走 reopen --upstream-sync。
 禁止跳步；blocked 标志独立于状态，解除用 advance --unblock。
 合法前驱由 ORDER 单一事实源推导（expected_prev）：目标态不属于该任务 kind 的
-序列即拒（跨 kind 推进），且前驱唯一直接前驱——specs/040 F-01/F-02 收口
-（旧 STEP_EXPECT_PREV 元组并集语义废止）。
+序列即拒，且前驱唯一直接前驱——specs/040 F-01/F-02 收口（旧 STEP_EXPECT_PREV 元组并集语义废止）。
+ORDER 与 STEPS 由 rules/pipeline.json 推导（ADR-0068 W5），不再硬编码序列。
 r3 终审（ADR-0054，用户 2026-11-15 裁定）：仅用户显式指定的会话执行，未指定不进行
 R3、条目停 r2_reviewed；advance --step r3 必须带 --mandate <用户指定记录>。
 s0（ADR-0052）：advance --step s0 自动挂 en_integrity＋en_source_audit；
@@ -38,23 +35,41 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from tools.common import load_json, repo_path, utcnow_iso, write_json_verified
+from tools.journal_lib import (NODE_MAP, NODE_TO_STATE, REVERT_CHECKPOINTS,
+                               append_event, step_to_event)
 
-STEPS = {"s0": "s0_source_checked", "draft": "drafted", "s1": "s1_checked",
-         "s2": "s2_checked",
-         "s24": "s2.4_termchecked", "s25": "s2.5_checked",
-         "audit": "s2.5_checked",  # s25 兼容别名（ADR-0040 时代步名，ADR-0043 更名）
-         "s3": "s3_checked", "r1": "r1_reviewed",
-         "r2": "r2_reviewed", "r3": "r3_reviewed", "done": "done"}
-ORDER = {
-    "retranslate": ["pending", "cleared", "s0_source_checked", "drafted",
-                    "s1_checked", "s2_checked",
-                    "s2.4_termchecked", "s2.5_checked", "s3_checked", "r1_reviewed",
-                    "r2_reviewed", "r3_reviewed", "done"],
-    "update": ["pending", "s0_source_checked", "s1_checked", "s2_checked",
-               "s2.4_termchecked",
-               "s2.5_checked", "s3_checked", "r1_reviewed", "r2_reviewed",
-               "r3_reviewed", "done"],
-}
+
+def _derive_order_steps():
+    """W5：ORDER 与 STEPS 从 rules/pipeline.json 单一源推导，删除硬编码序列。
+
+    ORDER[kind] 的状态序列 = 边界（pending/cleared/done）＋ pipeline 节点链中
+    有 NODE_TO_STATE 映射的节点（按 prev 拓扑序）。STEPS = NODE_MAP 短名 → 状态名。
+    pipeline 缺失即硬失败（A12 禁静默兜底）。
+    """
+    pipe_path = repo_path("rules", "pipeline.json")
+    if not os.path.exists(pipe_path):
+        raise RuntimeError("rules/pipeline.json 不存在（判据唯一事实源，A12）")
+    pipe = load_json(pipe_path)
+    nodes = {n["id"]: n for n in pipe.get("nodes", [])}
+    heads = [i for i in nodes if not nodes[i].get("prev")]
+    chain, cur = [], heads[0] if heads else None
+    while cur:
+        chain.append(cur)
+        nxt = [i for i in nodes if nodes[i].get("prev") == cur]
+        cur = nxt[0] if len(nxt) == 1 else None
+    states = [NODE_TO_STATE[n] for n in chain if n in NODE_TO_STATE]
+    order = {
+        "retranslate": ["pending", "cleared"] + states + ["done"],
+        # update 死序列删除（ADR-0068 W5）：零任务使用，上游修订走 reopen --upstream-sync
+    }
+    steps = {alias: NODE_TO_STATE[node] for alias, node in NODE_MAP.items()}
+    steps["done"] = "done"
+    return order, steps
+
+
+ORDER, STEPS = _derive_order_steps()
+# revert-state 可回退目标态：由 pipeline 的 checkpoint 节点推导（ADR-0043/0063）
+REVERT_TARGETS = tuple(NODE_TO_STATE[c] for c in REVERT_CHECKPOINTS)
 
 
 def expected_prev(kind, step):
@@ -63,7 +78,7 @@ def expected_prev(kind, step):
     取代旧 STEP_EXPECT_PREV 元组表：旧表是「cur ∈ 允许集」的并集语义，跨 kind
     互通（retranslate 可 pending→s0 跳过 clear、可 s0→s1 跳过 draft），且
     `audit` 表项在归一化后永不读取（死条目）。现由 ORDER 单一事实源推导：
-    目标态不属于该 kind 序列即拒（update 漂入 drafted 类越界），前驱唯一。
+    目标态不属于该 kind 序列即拒，前驱唯一。
     """
     tgt = STEPS[step]
     order = ORDER[kind]
@@ -96,6 +111,17 @@ def save_task(task):
     write_json_verified(_os_path(task["slug"]), task)
 
 
+def _journal_append(task, step_name, evidence, actor):
+    """W3 双写：状态推进成功后，向 journal 追加对应事件（P5 只追加）。
+
+    非节点动作（done/clear/block 等）经 step_to_event 返回 None，跳过。
+    """
+    ev = step_to_event(step_name, evidence or "", utcnow_iso(), actor or "task_ops")
+    if ev is None:
+        return
+    append_event(task["slug"], ev)
+
+
 def _baseline_title(slug):
     base = repo_path("baseline", "entries.json")
     if not _os.path.exists(base):
@@ -124,22 +150,17 @@ def _version_pin(slug):
 
 
 def create(slug, kind, zh_doc=None, change_file=None):
-    if kind not in ORDER:
-        raise UsageError("kind 必须是 retranslate|update")
+    if kind != "retranslate":
+        raise UsageError("kind 仅支持 retranslate（update 死序列已删，ADR-0068 W5；"
+                         "上游修订走 reopen --upstream-sync，ADR-0051）")
     if load_task(slug):
         raise PreconditionError("任务已存在: %s" % slug)
     task = {"slug": slug, "kind": kind, "zh_doc": zh_doc, "state": "pending",
             "steps": [], "blockers": [], "created_at": utcnow_iso()}
-    # 版本钉对两种 kind 一并取：update 的变更同样源于登记过的英文源，
-    # check_academic 对词条绑定任务查 pin、缺失即硬错误（2026-11-04 修潜在陷阱）
+    # 版本钉一并取：check_academic 对词条绑定任务查 pin、缺失即硬错误（2026-11-04 修潜在陷阱）
     task["version_pin"] = _version_pin(slug)
-    if kind == "retranslate":
-        if task["zh_doc"] is None:
-            task["zh_doc"] = find_zh_doc({"slug": slug, "title": _baseline_title(slug)})
-    else:
-        if not change_file or not _os.path.exists(change_file):
-            raise PreconditionError("update 任务必须给 --from <baseline/changes/…json>")
-        task["change_file"] = _os.path.abspath(change_file)
+    if task["zh_doc"] is None:
+        task["zh_doc"] = find_zh_doc({"slug": slug, "title": _baseline_title(slug)})
     save_task(task)
     return task
 
@@ -171,7 +192,7 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
         step = "s25"  # 兼容别名（ADR-0043 更名）：归一后统一走 s25 的前驱推导与挂钩派发
     order = ORDER.get(task["kind"])
     if order is None:
-        raise PreconditionError("非法任务类型 %s（状态机仅 retranslate/update）" % task["kind"])
+        raise PreconditionError("非法任务类型 %s（状态机仅 retranslate）" % task["kind"])
     cur = task["state"]
     prev_needed = expected_prev(task["kind"], step)
     if prev_needed is not None and cur != prev_needed:
@@ -179,9 +200,6 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
             "step %s 要求状态 %s，当前 %s（禁止跳步）" % (step, prev_needed, cur))
     if cur not in order:
         raise PreconditionError("非法状态 %s" % cur)
-    if step != "done" and task["kind"] == "update" and step in ("s0", "s1", "s2", "s24", "s25") \
-            and not evidence.startswith("changes:"):
-        raise PreconditionError("update 任务的 %s 证据必须引用变更清单（evidence 以 changes: 开头）" % step)
     if step == "r3" and task.get("kind") != "glossary-maintenance":
         if not str(mandate or "").strip():
             raise PreconditionError(
@@ -217,6 +235,7 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
         step_rec["mandate"] = mandate  # 用户指定终审凭证（ADR-0054）；审计须核对对得上用户当轮发言
     task["steps"].append(step_rec)
     save_task(task)
+    _journal_append(task, step, evidence, actor)  # W3 双写（done/block 经 step_to_event 跳过）
     return task
 
 
@@ -308,6 +327,7 @@ def source_audit(slug, actor, evidence):
                           "at": utcnow_iso(),
                           "evidence": "补课（ADR-0052，状态不迁移）：%s" % evidence})
     save_task(task)
+    _journal_append(task, "s0", "补课（ADR-0052）：%s" % evidence, actor)
     return task
 
 
@@ -324,9 +344,9 @@ def revert_state(slug, to_state, reason, actor):
     task = load_task(slug)
     if not task:
         raise TaskNotFound(slug)
-    if to_state not in ("s2.5_checked", "s2.4_termchecked"):
-        raise UsageError("revert-state 仅支持 --to s2.5_checked 或 s2.4_termchecked"
-                         "（ADR-0043 决策 5、ADR-0063）")
+    if to_state not in REVERT_TARGETS:
+        raise UsageError("revert-state 仅支持 --to %s（由 pipeline checkpoint 推导，ADR-0068 W5）"
+                         % " 或 ".join(REVERT_TARGETS))
     if task.get("kind") == "glossary-maintenance" or task.get("kind") not in ORDER:
         raise PreconditionError("revert-state 不适用于非词条任务")
     if not str(reason or "").strip():
@@ -349,6 +369,8 @@ def revert_state(slug, to_state, reason, actor):
                           "evidence": "回退到 %s；依据：%s" % (to_state, reason)})
     task["state"] = to_state
     save_task(task)
+    _journal_append(task, "revert-state",
+                    "回退到 %s；依据：%s" % (to_state, reason), actor)
     return task
 
 
@@ -468,6 +490,7 @@ def reopen(slug, reason, actor, upstream_sync=False):
         step["bypass"] = "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
     task["steps"].append(step)
     save_task(task)
+    _journal_append(task, "reopen", reason, actor)
     return task
 
 

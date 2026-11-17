@@ -9,6 +9,7 @@ REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 sys.path.insert(0, REPO)
 
 from tools import task_ops  # noqa: E402
+from tools import journal_lib  # noqa: E402
 from tools.common import read_text, write_text  # noqa: E402
 
 
@@ -21,7 +22,9 @@ class TestTaskOps(unittest.TestCase):
         self.old_audit = task_ops._audit_gate
         self.old_term = task_ops._term_gate
         self.old_src = task_ops._source_gate
+        self.old_jdir = journal_lib.JOURNAL_DIR
         task_ops.TASKS_DIR = self._dir.name
+        journal_lib.JOURNAL_DIR = os.path.join(self._dir.name, "journal")
         # 测试打桩：版本钉与基线 gate 注入，生产 gate 不变
         task_ops._version_pin = lambda slug: {"pubinfo_date": "Aug 9, 2026",
                                               "archive_edition": "Fall 2026",
@@ -33,6 +36,7 @@ class TestTaskOps(unittest.TestCase):
 
     def tearDown(self):
         task_ops.TASKS_DIR = self.old
+        journal_lib.JOURNAL_DIR = self.old_jdir
         task_ops._version_pin = self.old_pin
         task_ops._clear_gate = self.old_gate
         task_ops._audit_gate = self.old_audit
@@ -131,16 +135,25 @@ class TestTaskOps(unittest.TestCase):
         self.assertEqual(t["state"], "cleared")
         self.assertEqual(read_text(md), "# 测试标题\n")
 
-    def test_update_requires_change_evidence(self):
-        with tempfile.TemporaryDirectory() as d:
-            cf = os.path.join(d, "change.json")
-            write_text(cf, '{"items": []}')
-            task_ops.create("test-c", "update", change_file=cf)
-            task_ops.advance("test-c", "s0", actor="t", evidence="changes:#item3")
-            with self.assertRaises(task_ops.PreconditionError):
-                task_ops.advance("test-c", "s1", actor="t", evidence="口说无凭")
-            t = task_ops.advance("test-c", "s1", actor="t", evidence="changes:#item3")
-            self.assertEqual(t["state"], "s1_checked")
+    def test_create_rejects_update(self):
+        # ADR-0068 W5：update 死序列删除，create 拒绝非 retranslate
+        with self.assertRaises(task_ops.UsageError):
+            task_ops.create("test-upd", "update", zh_doc=self._md("u.md"))
+
+    def test_journal_double_write_consistency(self):
+        # ADR-0068 W3 双写：完整流程推进后，journal 的 pass 节点序列与推进一致
+        task_ops.create("test-jw", "retranslate", zh_doc=self._md("jw.md"))
+        task_ops.clear("test-jw")
+        for step in ("s0", "draft", "s1", "s2", "s24", "audit", "s3", "r1", "r2"):
+            ev = "e；冷置回读＋密度统计" if step == "audit" else "e"
+            task_ops.advance("test-jw", step, actor="t", evidence=ev)
+        events = journal_lib.read_events("test-jw")
+        pass_nodes = [e["node"] for e in events if e["type"] == "pass"]
+        self.assertEqual(pass_nodes,
+                         ["s0", "draft", "s1", "s2", "s2.4", "global", "S3", "R1", "R2"])
+        # state 与最后 pass 节点一致（r2 → R2 → r2_reviewed）
+        t = task_ops.load_task("test-jw")
+        self.assertEqual(t["state"], "r2_reviewed")
 
     def test_clear_gate_rejected_without_baseline(self):
         # 还原真 gate：仓库基线无此词条 → 必须拒绝（宪法附加约束）
@@ -219,26 +232,6 @@ class TestTaskOps(unittest.TestCase):
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         self.assertEqual(t["state"], "r3_reviewed")
 
-    def test_r3_independence_update_keys_on_s1(self):
-        # update 任务首写步是 s1：独立性相对变更写者判定
-        with tempfile.TemporaryDirectory() as d:
-            cf = os.path.join(d, "change.json")
-            write_text(cf, '{"items": []}')
-            task_ops.create("test-i3", "update", change_file=cf)
-            task_ops.advance("test-i3", "s0", actor="w", evidence="changes:#item3")
-            task_ops.advance("test-i3", "s1", actor="w", evidence="changes:#item3")
-            task_ops.advance("test-i3", "s2", actor="w", evidence="changes:#item3")
-            task_ops.advance("test-i3", "s24", actor="w", evidence="changes:#item3")
-            task_ops.advance("test-i3", "audit", actor="w",
-                             evidence="changes:#item3；冷置回读＋密度统计")
-            for step in ("s3", "r1", "r2"):
-                task_ops.advance("test-i3", step, actor="w", evidence="changes:#item3")
-            with self.assertRaises(task_ops.PreconditionError):
-                task_ops.advance("test-i3", "r3", actor="w", evidence="changes:#item3",
-                                 mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
-            t = task_ops.advance("test-i3", "r3", actor="rev", evidence="changes:#item3",
-                                 mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
-            self.assertEqual(t["state"], "r3_reviewed")
 
     def test_advance_requires_actor_and_evidence(self):
         # actor/evidence 非空机检（FR-017；brouwer draft actor='?' 同类缺口防再犯）
@@ -302,21 +295,6 @@ class TestTaskOps(unittest.TestCase):
                              evidence="三向比对记录；冷置回读＋密度统计")
         self.assertEqual(t["state"], "s2.5_checked")
 
-    def test_update_audit_requires_change_evidence(self):
-        # update 任务 audit 与 s1/s2 同款：证据必须引用变更清单
-        with tempfile.TemporaryDirectory() as d:
-            cf = os.path.join(d, "change.json")
-            write_text(cf, '{"items": []}')
-            task_ops.create("test-u1", "update", change_file=cf)
-            task_ops.advance("test-u1", "s0", actor="t", evidence="changes:#item3")
-            task_ops.advance("test-u1", "s1", actor="t", evidence="changes:#item3")
-            task_ops.advance("test-u1", "s2", actor="t", evidence="changes:#item3")
-            task_ops.advance("test-u1", "s24", actor="t", evidence="changes:#item3")
-            with self.assertRaises(task_ops.PreconditionError):
-                task_ops.advance("test-u1", "audit", actor="t", evidence="口说无凭")
-            t = task_ops.advance("test-u1", "audit", actor="t",
-                                 evidence="changes:#item3；冷置回读＋密度统计")
-            self.assertEqual(t["state"], "s2.5_checked")
 
     def test_audit_independence_same_actor_requires_compensation(self):
         # 审计独立性机检（rules/04 同源盲区对冲、specs/027 FR-001）：
@@ -390,7 +368,9 @@ class TestS25ThreeAxes(unittest.TestCase):
     def setUp(self):
         self._dir = tempfile.TemporaryDirectory()
         self.old = task_ops.TASKS_DIR
+        self.old_jdir = journal_lib.JOURNAL_DIR
         task_ops.TASKS_DIR = self._dir.name
+        journal_lib.JOURNAL_DIR = os.path.join(self._dir.name, "journal")
         self.calls = []
         self._old = {n: getattr(task_ops, n) for n in
                      ("_version_pin", "_clear_gate", "_audit_gate", "_term_gate",
@@ -407,6 +387,7 @@ class TestS25ThreeAxes(unittest.TestCase):
 
     def tearDown(self):
         task_ops.TASKS_DIR = self.old
+        journal_lib.JOURNAL_DIR = self.old_jdir
         for n, f in self._old.items():
             setattr(task_ops, n, f)
         self._dir.cleanup()
