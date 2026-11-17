@@ -167,3 +167,15 @@
 | 回退净增 | 绿件分四批回退：3＋37＋9＋4＝**53 件**；**回退面累计 408/414**（359+3+34+9+3） |
 | 残余红 6 件（登记，非本轮面） | **ibn-sina 1**：引文段多重引号错位（翻译面语义修复，需对照源文重排）；**implicature-optimality-games 3／quine-nf 2**：数学记号区引号（源忠实：`$‘$n\textrm{'}$` 嵌套、`` `\text{’}` `` 反引号入公式），归 check_math 面＋判官待数学域豁免；**尾节缺失 0**（原 5 件全为节名残留，已修） |
 | 门禁 | `check_all` 12 项全绿；台账快照 `results/revert-ledger-residual-20261117.json`（7 面） |
+
+## 2026-11-17 · P9 前置②：I3 候选逐件定性（164 件）＋比对器侧向对称五修
+
+| 项 | 结果 |
+| ---- | ---- |
+| 先证“不是文件陈旧” | 164 件逐件重放 `convert(en⊕patches)`（repo_path 重定向＋`update_baseline` 置空干跑，不写盘不动 baseline）：**164/164 逐字节相同**——差异只可能来自比对器口径或转换器本身 |
+| 比对器五修 | ① 链接目标剥除健壮化（三层方括号 sigla `[[[F] available online](…)`＝jefferson；URL 自带圆括号 `Foo_(bar)`＝philosophy-religion）；② md 面剥 HTML 片段标签＋实体解码（复杂表格原样搬运＝nonwellfounded）；③ 图 alt 两侧同阈（<40 剔除）＋逐图匹配（旧 `.` 贪婪把同行多图路径并进 alt＝japanese-aesthetics）；④ html 侧收 alt 前先剔注释（旧版注释 `<img alt>` 二次计入＝large-cardinals）；⑤ 围栏体分流（含 TeX 控制序列者剔、纯文本示例入流＝linguistics）。单测 `TestMdSideSymmetry` 8 例，全套 17 例通过；试金石 formal-belief/logic-many-sorted 仍归 math-asymmetric、abhidharma/sartre/buber 仍零差异 |
+| 度量 | 旧 164 候选 → **36**；库面 text-stream-diff 164 → **59**（36 保留＋23 件由 math-asymmetric 320 噪声桶晋档，非新增假阳性）；math-asymmetric 320 不变；issue_total 467 → 334。工件 `results/i3-deep-20261117-after-symmetry.json` |
+| 真丢文三族（转 018/023） | **D1** 书目“续行领起”小节整段丢失（`build_cite_keys` continued 分支未吃 `fallback_author`；ibn-bajja 889 字母／watsuji-tetsuro 926；结构扫描命中 5 件 `results/i3-ditto-scan-20261117.json`）；**D2** `<dd>` 尾随 `<p>` 段落丢失（al-khunaji 294 字母）；**D3** 括注/引文文字丢失候选（gadamer 53／action 38／secession 108） |
+| 白名单裁定（本任务生效） | W1 数字簿记、W2 注引用文字化、W3 链接目标不计（死链归 check_pairs/en_integrity）、W4 短 alt 同剔、W5 样式→数学定界归 check_math（待 018 线给跨度内命令判定后重议） |
+| 定性与转移 | 报告 `results/i3-triage-20261117.md`；承接卡 `specs/023-triple-regression-audit/results/i3-transfer-20261117.md`，023 spec A9 登记；**I3 仍不进 GATES**（升门前置余项＝D1/D2 修复后全库复跑＋W5 定案＋残留件全部有归属） |
+| 门禁 | `check_all` 13 项全绿（含第 13 项中文体例归一） |
