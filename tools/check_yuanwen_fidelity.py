@@ -42,6 +42,22 @@ from tools.parser import HEAD_RE, TAIL_RE  # noqa: E402  区域标记与转换�
 
 TOKEN_RE = re.compile(r"[0-9A-Za-z\u00C0-\u024F\u0370-\u03FF\u0400-\u04FF\u4e00-\u9fff]+")
 FENCE_RE = re.compile(r"^```.*?^```", re.S | re.M)
+FENCE_BODY_RE = re.compile(r"^```[^\n]*\n(.*?)^```", re.S | re.M)
+
+
+def _fence_body_repl(match):
+    """围栏体分流（specs/039 I3 三修，linguistics 判例）。
+
+    yuanwen 的围栏主要是显示公式（裸 align/cases 之类，R2 裁定包进围栏），含 TeX
+    控制序列或定界符者归数学面、不入字母流；纯文本示例（linguistics 的 XML 句法
+    样例）是正文内容，整段保留——旧式一律剔围栏，189 字母凭空算作 html 侧独有。
+    """
+    body = match.group(1)
+    if re.search(r"\\[A-Za-z]+|[${}]", body):
+        return " "
+    return "\n" + body + "\n"
+
+
 CODE_RE = re.compile(r"`[^`]*`")
 MATH_RE = re.compile(r"\$\$.*?\$\$|\$[^$\n]+\$", re.S)
 # I3 标定（specs/039 P9 前置）：数学跨度哨兵与失配上限
@@ -50,6 +66,20 @@ MAX_SPAN = 6000          # 超限视为失配 opener（货币 $、缺 closer）�
 BLOCK_RE = re.compile(
     r"</?(?:p|div|br|li|ul|ol|dl|dt|dd|h[1-6]|table|thead|tbody|tr|td|th|"
     r"blockquote|pre|section|figure|figcaption|hr)\b[^>]*>", re.I)
+# 侧向对称（specs/039 I3 三修，2026-11-17）：md 产物里逐字搬运的 HTML 片段
+# （复杂表格、实体）与 html 侧同法剥离／解码；链接与图目标是机器标识符
+# （html 在属性、md 在圆括号），两侧一律不计——簿记面由 check_pairs
+# dangling-link 与 en_integrity 管辖。
+MD_TAG_RE = re.compile(
+    r"</?(?:table|thead|tbody|tfoot|tr|td|th|div|span|img|a|p|br|em|i|b|strong|"
+    r"ul|ol|li|dl|dt|dd|h[1-6]|sup|sub|math|semantics|annotation|caption|figure|"
+    r"blockquote|pre|code|font|center|hr|col|colgroup|small|big|u|s)(?:\s[^<>]*)?/?>",
+    re.I)
+# 目标内允许一层成对圆括号（维基类 URL `…/wiki/Foo_(bar)` 判例，philosophy-religion）
+MD_TARGET_RE = re.compile(
+    r"\((?:https?://(?:[^()]|\([^()]*\))*|mailto:[^()]*|[^()\s]*\.(?:md|html?|png|jpe?g|gif|svg|pdf|js|css)"
+    r"(?:#[^()]*)?|#[^()]*|\.\.?/[^()]*)\)", re.I)
+ALT_MIN = 40             # 长 alt 说明文入流阈值：html_text 与 md_text 两侧同阈
 SUPP_LINE_RE = re.compile(r"^#\s+.*（supplement）\s*$|^>\s*（《.*》词条补充材料.*）\s*$", re.M)
 CONV_NOTE_RE = re.compile(r"^>\s*原文参考文献已转为脚注引用.*$", re.M)
 TITLE_ANNOT = ("（引用注释）", "（原文脚注，引自主文）", "（原文脚注）")
@@ -173,9 +203,12 @@ def html_text(slug):
     raw = read_text(idx)
     m, e = HEAD_RE.search(raw), TAIL_RE.search(raw)
     region = raw[m.end():e.start()] if (m and e) else raw
+    # 注释区不入流（与 _stream_from_text 同口径）：SEP 图常有旧的 <!-- <img alt…> -->
+    # 版本留在注释里，连同 alt 一并收会把图注文本算两遍（large-cardinals 判例）
+    region = re.sub(r"<!--.*?-->", " ", region, flags=re.S)
     # 图 alt 说明文（长文本）是 md 侧可见图注；短 alt 属装饰性图标，不入源流
     alts = [html_lib.unescape(a) for a in re.findall(r'alt="([^"]*)"', region)
-            if len(a) >= 40]
+            if len(a) >= ALT_MIN]
     text, stats = _stream_from_text(raw)
     if alts:
         text += "\n" + "\n".join(alts)
@@ -198,10 +231,16 @@ def md_text(path):
     head, sep, body = t.partition("\n## ")
     head = re.sub(r"^\*[^*\n]+\*\s*$", " ", head, flags=re.M)
     t = head + sep + body
-    t = FENCE_RE.sub(" ", t)
+    t = FENCE_BODY_RE.sub(_fence_body_repl, t)
     t = CODE_RE.sub(" ", t)
+    t = MD_TAG_RE.sub(" ", t)          # 原样搬运的 HTML 片段：标签名不入流
+    t = html_lib.unescape(t)           # 实体解码（&nbsp; 等），与 html 侧对称
     t, stats = strip_math_ex(t)
-    t = re.sub(r"!\[(.*)\]\([^)]*\)", r"\1", t)                 # 图：保 alt 说明（与 html alt 对称）
+    # 图：alt 与 html 侧同阈（短 alt 属装饰性图标不入流，长 alt 是可见图注）；
+    # 旧式 `(.*)` 贪婪在同行多图时把路径并进 alt——一并改为逐图匹配
+    t = re.sub(r"!\[([^\[\]]*)\]\([^()]*\)",
+               lambda m: " %s " % m.group(1) if len(m.group(1)) >= ALT_MIN else " ", t)
+    t = MD_TARGET_RE.sub(" ", t)                                # 链接目标（URL/路径/锚）两侧不计
     t = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", t)              # 链接保留文字
     t = re.sub(r"\[\^[^\]]+\]:", " ", t)                        # 引用注释定义前缀
     t = re.sub(r"\[\^[^\]]+\]", " ", t)                         # marker（注号与键均属簿记）
