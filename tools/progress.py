@@ -1,9 +1,12 @@
 # -*- coding: utf-8 -*-
-"""进度汇总：从 SUMMARY/baseline/tasks 生成 PROGRESS.md（自动生成，不手改）。
+"""进度汇总：从 SUMMARY/baseline/journal/tasks 生成 PROGRESS.md（自动生成，不手改）。
 
 用法: python tools/progress.py [--out PROGRESS.md]
-数据源: SUMMARY.md（条目结构与分类）、baseline/entries.json（已建基线）、
-       tasks/**/*.json（文档任务状态）。输出 rollup 报告，不改任何数据。
+数据源（ADR-0068 W4 切读面后）:
+  SUMMARY.md（条目结构与分类，清单）＋ baseline/entries.json（已建基线，清单）
+  journal/<letter>/<slug>.ndjson（进度事实：pass 事件集合，唯一进度读面）
+  tasks/**/*.json（仅调度侧：例行任务判定、blockers——journal 未迁移，见 ADR-0068）
+输出 rollup 报告，不改任何数据。
 """
 import io
 import json
@@ -13,12 +16,17 @@ import sys
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+# 就地重配置编码：不替换 sys.stdout 对象，避免被 unittest 等宿主导入时缓冲区已关闭
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except (AttributeError, ValueError, OSError):
+    pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-STATES = ["pending", "cleared", "s0_source_checked", "drafted", "s1_checked",
-          "s2_checked",
-          "s2.4_termchecked", "s2.5_checked", "s3_checked",
-          "r1_reviewed", "r2_reviewed", "r3_reviewed", "done"]
+JOURNAL = os.path.join(ROOT, "journal")
+PIPE = os.path.join(ROOT, "rules", "pipeline.json")
+# 核心翻译段（task_ops 状态机覆盖的 10 节点中，存量真实走通的 7 个）：
+# 不含 s0/s2.4/global（后加环节，存量由 revert 到达而非 advance 通过，ADR-0068 发现 2）
+CORE = {"draft", "s1", "s2", "S3", "R1", "R2", "R3"}
 
 
 def unescape(t):
@@ -112,10 +120,54 @@ def load_tasks():
     return tasks
 
 
+def load_pipeline():
+    """读 rules/pipeline.json（判据唯一事实源），返回 (节点集, 强制集)。"""
+    with open(PIPE, "rb") as f:
+        d = json.loads(f.read().decode("utf-8"))
+    nodes = {n["id"] for n in d.get("nodes", [])}
+    mand = set(d.get("mandatory_minimum", {}).get("nodes", []))
+    return nodes, mand
+
+
+def load_journal(journal_dir=JOURNAL):
+    """读 journal/<letter>/<slug>.ndjson，折叠 pass 集合（只增不减，P5）。
+
+    返回 (passed: dict[slug -> set(node)], node_count: Counter)。
+    不读 tasks 的 state——进度事实只认 journal（ADR-0068 W4）。
+    journal_dir 可注入供单元测试隔离。
+    """
+    passed, node_count = {}, Counter()
+    if not os.path.isdir(journal_dir):
+        return passed, node_count
+    for dirpath, _, filenames in os.walk(journal_dir):
+        for fn in filenames:
+            if not fn.endswith(".ndjson"):
+                continue
+            slug = fn[:-7]
+            done = set()
+            path = os.path.join(dirpath, fn)
+            try:
+                with open(path, encoding="utf-8") as f:
+                    for line in f:
+                        line = line.strip()
+                        if not line:
+                            continue
+                        ev = json.loads(line)
+                        if ev.get("type") == "pass" and ev.get("node"):
+                            done.add(ev["node"])
+            except (json.JSONDecodeError, OSError):
+                continue
+            passed[slug] = done
+            node_count.update(done)
+    return passed, node_count
+
+
 def main():
     per_letter, total_alias = load_summary()
     baseline = load_baseline()
     tasks = load_tasks()
+    nodes, mand = load_pipeline()
+    passed, node_count = load_journal()
 
     # 例行/维护任务（非词条绑定：zh_doc 为空、glossary-maintenance 等）不跟词条
     # 状态机，单独计数，不计入在途/阻塞（2026-11-04，D9；与 check_academic 豁免同族）
@@ -128,16 +180,21 @@ def main():
             entry_tasks.append(t)
     tasks = entry_tasks
 
-    states = Counter(t.get('state', '?') for t in tasks)
-    done = [t for t in tasks if t.get('state') == 'done']
-    wip = [t for t in tasks if t.get('state') not in ('pending', 'done')]
+    # 进度读数（journal 口径，ADR-0068 W4）：完成 = CORE ⊆ passed；
+    # 在途 = 有 pass 但未走完 CORE；未开工 = 无 pass。
+    core_done = sorted(s for s, d in passed.items() if CORE <= d)
+    wip_slugs = sorted(s for s, d in passed.items() if d and not (CORE <= d))
+    not_started = sum(1 for d in passed.values() if not d)
+    mand_ok = sum(1 for d in passed.values() if mand <= d)
+    saturate = sum(1 for d in passed.values() if (nodes | mand) <= d)
     blocked = [t for t in tasks if t.get('blockers')]
     total_formal = sum(v[0] for v in per_letter.values())
+    full = nodes | mand
 
     lines = [
         '# 项目进度',
         '',
-        '<!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->',
+        '<!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md（结构）、baseline/entries.json（基线）、journal/（进度事实）、tasks/（仅调度侧阻塞）。 -->',
         '',
         '生成时间：%s（UTC）' % datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M'),
         '',
@@ -149,44 +206,44 @@ def main():
         '|别名词条（— see，不建任务）|%d|' % total_alias,
         '|占位母词条（* 前缀，不建任务）|%d|' % sum(v[2] for v in per_letter.values()),
         '|已建英文基线|%d|' % len(baseline),
-        '|已建任务|%d|' % len(tasks),
+        '|已建任务（journal 词条）|%d|' % len(passed),
         '|例行/维护任务（不计状态机）|%d|' % len(routine),
-        '|已完成（done）|%d|' % len(done),
-        '|在途（drafted 起、done 前）|%d|' % len(wip),
-        '|阻塞|%d|' % len(blocked),
+        '|核心段完成（draft..R3 七节点）|%d|' % len(core_done),
+        '|强制集完成（s0/s2.4/global/R1/R2/R3）|%d|' % mand_ok,
+        '|完整饱和（16 节点全过）|%d|' % saturate,
+        '|在途（已开工未走完核心段）|%d|' % len(wip_slugs),
+        '|未开工（无 pass 事件）|%d|' % not_started,
+        '|阻塞（调度侧，journal 未迁移）|%d|' % len(blocked),
         '',
-        '## 任务状态分布',
+        '## 节点通过数（journal 口径，共 %d 节点）' % len(full),
         '',
-        '|状态|数量|',
+        '|节点|通过数|',
         '|---|---|',
     ]
-    for s in STATES:
-        if states.get(s):
-            lines.append('|%s|%d|' % (s, states[s]))
-    for s, n in sorted(states.items()):
-        if s not in STATES:
-            lines.append('|%s（非标准状态）|%d|' % (s, n))
+    for n in sorted(full):
+        lines.append('|%s|%d|' % (n, node_count.get(n, 0)))
 
-    lines += ['', '## 按首字母（正式词条 / 基线 / 任务 / 完成）', '',
-              '|字母|正式词条|已建基线|已建任务|done|', '|---|---|---|---|---|']
+    lines += ['', '## 按首字母（正式词条 / 基线 / 任务 / 核心段完成）', '',
+              '|字母|正式词条|已建基线|已建任务|核心段完成|', '|---|---|---|---|---|']
     for ch in 'abcdefghijklmnopqrstuvwxyz':
         formal = per_letter.get(ch, [0, 0, 0])[0]
         if not formal:
             continue
         base_n = sum(1 for s in baseline if s.startswith(ch))
-        task_n = sum(1 for t in tasks if t.get('slug', '').startswith(ch))
-        done_n = sum(1 for t in done if t.get('slug', '').startswith(ch))
+        task_n = sum(1 for s in passed if s.startswith(ch))
+        done_n = sum(1 for s in core_done if s.startswith(ch))
         lines.append('|%s|%d|%d|%d|%d|' % (ch.upper(), formal, base_n, task_n, done_n))
 
-    if wip:
-        lines += ['', '## 在途任务', '', '|slug|类型|状态|最后执行|', '|---|---|---|---|']
-        for t in sorted(wip, key=lambda x: x.get('slug', '')):
-            last = t['steps'][-1] if t.get('steps') else {}
-            lines.append('|%s|%s|%s|%s %s|' % (t.get('slug'), t.get('kind'),
-                                               t.get('state'), last.get('actor', ''),
-                                               last.get('at', '')[:10]))
+    if wip_slugs:
+        lines += ['', '## 在途词条（已开工未走完核心段）', '',
+                  '|slug|已过节点数|已过节点|', '|---|---|---|']
+        for s in wip_slugs:
+            d = passed[s]
+            lines.append('|%s|%d|%s|' % (s, len(d), ' '.join(sorted(d))))
+
     if blocked:
-        lines += ['', '## 阻塞任务', '', '|slug|阻塞原因|', '|---|---|']
+        lines += ['', '## 阻塞任务（调度侧，journal 未迁移 blockers）', '',
+                  '|slug|阻塞原因|', '|---|---|']
         for t in blocked:
             lines.append('|%s|%s|' % (t.get('slug'), '；'.join(t.get('blockers'))))
 
@@ -195,8 +252,9 @@ def main():
         else os.path.join(ROOT, 'PROGRESS.md')
     with open(out, 'w', encoding='utf-8', newline='\n') as f:
         f.write('\n'.join(lines))
-    print('生成 %s（正式词条 %d，done %d，在途 %d，阻塞 %d）'
-          % (os.path.relpath(out, ROOT), total_formal, len(done), len(wip), len(blocked)))
+    print('生成 %s（正式词条 %d，核心段完成 %d，在途 %d，强制集完成 %d，完整饱和 %d，阻塞 %d）'
+          % (os.path.relpath(out, ROOT), total_formal, len(core_done), len(wip_slugs),
+             mand_ok, saturate, len(blocked)))
 
 
 if __name__ == '__main__':
