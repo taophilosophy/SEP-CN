@@ -9,7 +9,7 @@
 | 路径 | 职责 | 是否入库 |
 | ---- | ---- | -------- |
 | `<letter>/`（a…z 及个别非字母目录如 `1/`） | 中文词条正文：`<letter>/<slug>.md` + 补充材料 `<slug>.<x>.md`（ADR-0009 A–Z 字母目录 + SEP slug 单文件）；未翻译条目为仅含 H1 的骨架 | 是 |
-| `yuanwen/` | 英文原文**本地库**：`yuanwen/<letter>/<slug>.md` 与中文侧逐字符镜像（ADR-0009）；图片存 `yuanwen/assets/<slug>/` | 否（gitignore，已跟踪演示条目除外） |
+| `yuanwen/` | 英文原文**本地库**：`yuanwen/<letter>/<slug>.md` 与中文侧逐字符镜像（ADR-0009）；图片存 `yuanwen/assets/<slug>/` | 是（ADR-0027 起入库） |
 | `qian-yan/`、`guan-yu/` | 项目说明页（版权、日志、编辑信息等） | 是 |
 | `SUMMARY.md` | **目录结构唯一数据源**，GitBook 侧边栏由它生成 | 是 |
 | `.gitbook.yaml` | GitBook 空间内容配置（ADR-0056）：根层一份对应中文空间；`yuanwen/.gitbook.yaml` 对应英文空间，其 `structure.summary` 指向生成物 `yuanwen/SUMMARY-en.md`（`tools/gen_en_summary.py` 派生，不手改） | 是 |
@@ -24,7 +24,27 @@
 | `.vitepress/` | 本地双语阅读站：配置、主题、构建期准备脚本；构建细节见其 `README.md`（实现说明，非规则） | 是 |
 | `fang-fa-lun/` | **已退役**（2026-11-15 归一化折叠：活条款入 rules/03/06/07，历史版本存 `rules/reference/`；仅存退役存根 README，ADR 历史链接保留） | 是 |
 | `jian-yi-shu/` | 分类目录核查建议书等一次性交付物（不入 SUMMARY） | 是 |
-| `en/`、`script/`、`state/` | 英文原始抓取 HTML、本地草稿脚本、管线本地运行态 | 否（gitignore） |
+| `en/` | 英文原始抓取 HTML（原始网页钉；ADR-0027 起入库，ADR-0062 绝对冻结） | 是 |
+| `script/`、`state/` | 本地草稿脚本、管线本地运行态 | 否（gitignore） |
+| `.git` | 版本库本体；不可变语义由版本历史承担 | 是 |
+| `.autocorrectrc` | 拼写与格式自动修复配置（CI 修复侧） | 是 |
+| `.gitattributes` | 换行与二进制属性（UTF-8/LF 契约的机读面） | 是 |
+| `.gitignore` | 忽略规则；只管不入库，不管可堆放 | 是 |
+| `.markdownlint-cli2.jsonc` | markdownlint 唯一配置（ADR-0061） | 是 |
+| `.secrets`、`.workbuddy`、`.workbuddy-ai`、`.zcode` | 本地凭证、会话记忆与代理配置（ADR-0035 登记例外） | 否 |
+| `AGENTS.md` | AI 代理入口指针；不复制数字、不新增义务（S6） | 是 |
+| `CODE_OF_CONDUCT.md`、`CONTRIBUTING.md` | 行为准则与贡献指南 | 是 |
+| `LICENSE` | 许可（BSD-2-Clause；SEP 文本另受 CC BY-NC-SA 约束） | 是 |
+| `README.md` | 访客说明；不承载规则 | 是 |
+| `RELEASE-NOTES.md` | 发布说明；按版本追加 | 是 |
+| `PROGRESS.md` | 进度汇总（受控生成物，`tools/progress.py` 输出，不手改） | 是 |
+| `assets/` | 词条图片；每件至少被引用一次，禁外链 | 是 |
+| `public/` | 站点静态资产 | 是 |
+| `rules/` | 全局规则与 ADR（宪法为上位；ADR 只追加） | 是 |
+| `package.json`、`bun.lock` | 历史豁免：依赖与构建入口已迁构建壳（ADR-0055） | 否 |
+| `node_modules/` | 本地依赖（可为指向构建壳的联接） | 否 |
+
+> 上表与 `rules/layout.json` 同源：路径集合由 `tools/check_layout.py` 的 L2 谓词双向核对（缺一或多一即红，ADR-0067）。新增根级条目须先登记 layout.json 并走 ADR。
 
 ## 根目录白名单（ADR-0023）
 
@@ -55,6 +75,7 @@
 
 ## 文件命名
 
+* **目录命名域分区**（ADR-0067）：词条目录 `<letter>/` 用 SEP slug；结构目录用英文固定词（`rules`、`specs`、`tools`、`tasks`、`baseline` 等）；`qian-yan/`、`guan-yu/`、`jian-yi-shu/`、`fang-fa-lun/` 为**已冻结的拼音命名域**——只减不增，新增目录一律英文 slug。布局登记以 `rules/layout.json` 为准，`frozen` 条目的增删须走 ADR。
 * 词条文件名一律用 SEP slug（英文，`[a-z0-9.-]`，不得含空格、中文或英文冒号，必须兼容 Windows 文件名要求；集群前缀名如 `plato-cratylus` 原样保留）。2026-10-27 起**废除拼音 slug 命名**（ADR-0005），历史拼音命名文件已随上游同构重建（ADR-0007）删除或入史。
 * 词条为**单文件形态**（ADR-0008/0009）：`<letter>/<slug>.md` 承接正文（letter=slug 首字符，字母目录按 A–Z 排序），补充材料 `<slug>.<x>.md` 点号命名同目录平铺。
 * 双库镜像（ADR-0009）：每个词条在中文侧 `<letter>/<slug>.md` 与英文侧 `yuanwen/<letter>/<slug>.md` 一一对应，相对路径逐字符一致。

@@ -7,15 +7,17 @@
       系统与编辑器杂物（.DS_Store、Thumbs.db、desktop.ini、*~、*.swp、*.tmp、*.bak、*.log）
       一律不得入库。可入库的事实源：baseline/、.github/sep-baseline/、PROGRESS.md（生成但受控）、
       en/ 与 yuanwen/（原始物与转换镜像，ADR-0027 起入库）。
-规则二（根目录白名单，ADR-0023）: 根目录只允许 ROOT_ALLOW 登记的条目（工具链配置、顶层叙事文档、
-      A–Z 词条目录、结构目录、包管理文件）。跟踪清单与工作区（含被忽略物）双向核对——
+规则二（根目录白名单，ADR-0023/0067）: 根目录只允许 `rules/layout.json` 登记的条目（工具链配置、顶层叙事文档、
+      A–Z 词条目录、结构目录、包管理文件）。白名单由该 JSON 生成，本文件不持副本。
+      跟踪清单与工作区（含被忽略物）双向核对——
       根级散件无论 `git add -A` 扫没扫到、忽略规则漏没漏，都算违规。
       会话散件归 `script/`（本地草稿）或 `state/`（运行态）；批次工件归
-      `specs/<NNN>-*/bin|results/`（入库凭证）；新增根目录条目须走 ADR。
+      `specs/<NNN>-*/bin|results/`（入库凭证）；新增根目录条目须先登记 layout.json 并走 ADR。
 豁免: 无——命中即硬错误，由人工迁移/删除，必要时补忽略规则。
 退出码: 0 无垃圾；1 命中。
 """
 import io
+import json
 import os
 import re
 import subprocess
@@ -48,60 +50,29 @@ PATTERNS = [
     (r'^tasks/[a-z]/_', '任务目录内 `_` 前缀散件（非 <slug>.json 命名约定；2026-11-05 D24）'),
 ]
 
-# 根目录白名单（ADR-0023）：唯一允许出现在仓库根层的条目。新增项须走 rules/adr/。
-ROOT_ALLOW = {
-    # 工具链与配置（点前缀）
-    '.git': '版本库本体',
-    '.autocorrectrc': '拼写检查配置',
-    '.gitattributes': 'Git 属性',
-    '.gitignore': '忽略规则',
-    '.markdownlint-cli2.jsonc': 'markdownlint 配置',
-    '.github': 'CI 工作流与基线快照',
-    '.gitbook.yaml': 'GitBook 空间内容配置（根=中文空间；ADR-0056）',
-    '.vitepress': '本地双语阅读站',
-    '.specify': '项目宪法与 spec-kit 脚手架',
-    '.zcode': 'AI 代理配置',
-    '.secrets': '本地凭证（忽略，不入库）',
-    '.workbuddy': '本地工具态（忽略，不入库）',
-    '.workbuddy-ai': 'AI 工作区态（忽略，不入库；ADR-0035）',
-    # 顶层叙事文档（单一事实源与访客文档）
-    'AGENTS.md': 'AI 代理入口指引',
-    'CODE_OF_CONDUCT.md': '行为准则',
-    'CONTRIBUTING.md': '贡献指南',
-    'LICENSE': '许可',
-    'README.md': '访客说明',
-    'RELEASE-NOTES.md': '发布说明',
-    'PROGRESS.md': '进度汇总（受控生成物）',
-    'SUMMARY.md': '目录结构唯一数据源',
-    'mu-lu-s.md': '手工分类目录',
-    'shu-yu-biao.md': '术语登记册（ADR-0036 改名）',
-    'ren-ming-biao.md': '人名对照表',
-    # 结构目录
-    'assets': '词条图片（正文 ../assets/ 引用）',
-    'baseline': '版本钉基线',
-    'en': '原始抓取 HTML（ADR-0027 起入库）',
-    'fang-fa-lun': '翻译工程方法论散页',
-    'guan-yu': '项目说明页',
-    'jian-yi-shu': '一次性交付物',
-    'public': '站点静态资产',
-    'qian-yan': '项目说明页',
-    'rules': '全局规则与 ADR',
-    'script': '本地草稿脚本区（忽略，会话自理）',
-    'specs': '工程规格与执行记录',
-    'state': '管线本地运行态（忽略）',
-    'tasks': '任务状态记录',
-    'tools': '管线与治理脚本',
-    'yuanwen': '英文原文镜像（ADR-0027 起入库）',
-    # 包管理（历史豁免：依赖与构建入口已迁至构建壳，ADR-0055；本地误跑包管理不判垃圾，但不得入库）
-    'package.json': '站点依赖声明（历史豁免，ADR-0055）',
-    'bun.lock': 'bun 锁文件（历史豁免，ADR-0055）',
-    'node_modules': '本地依赖目录（gitignore；本地预览时可为指向构建壳的联接，ADR-0055）',
-}
-# A–Z 词条字母目录 + 个别非字母目录（ADR-0009：digit 开头 slug 归 `1/`）
-ROOT_ALLOW.update({c: '词条字母目录' for c in 'abcdefghijklmnopqrstuvwxyz'})
-ROOT_ALLOW['1'] = '非字母词条目录（digit slug）'
+# 根目录白名单（ADR-0023）：唯一事实源是 rules/layout.json（ADR-0067）。
+# 本文件不再维护条目副本；新增根级条目须先登记 layout.json 并走 ADR。
+LAYOUT = os.path.join(ROOT, 'rules', 'layout.json')
 
-ROOT_FIX_HINT = ('根目录只放白名单条目；散件迁 script/（本地）或 specs/<NNN>-*/bin|results/（入库），'
+
+def root_allow():
+    """从 layout.json 生成白名单：entries 的 path ＋ letter_dirs 展开。
+
+    源缺失即硬失败（A12 禁静默兜底）——没有白名单就不该放行任何根级条目。
+    """
+    if not os.path.exists(LAYOUT):
+        sys.stderr.write('rules/layout.json 缺失：根目录白名单无源（ADR-0067），拒绝放行\n')
+        raise SystemExit(3)
+    with open(LAYOUT, encoding='utf-8') as f:
+        layout = json.load(f)
+    allow = {e['path']: e.get('desc', '') for e in layout['entries']}
+    ld = layout.get('letter_dirs') or {}
+    for c in ld.get('match', ''):
+        allow[c] = '词条字母目录（layout.letter_dirs）'
+    return allow
+
+
+ROOT_FIX_HINT = ('根目录只放 layout.json 登记的条目；散件迁 script/（本地）或 specs/<NNN>-*/results/（入库），'
                  '临时文件写 state/')
 
 
@@ -114,14 +85,15 @@ def tracked_files():
 def root_hits(tracked, root_dir=None):
     """根层白名单核对：跟踪清单（入库存量）与工作区（新增散件）双向。"""
     root_dir = root_dir or ROOT
+    allow = root_allow()
     hits = []
     tracked_tops = {p.split('/')[0] for p in tracked}
-    for top in sorted(tracked_tops - set(ROOT_ALLOW)):
+    for top in sorted(tracked_tops - set(allow)):
         is_dir = os.path.isdir(os.path.join(root_dir, top))
         hits.append((top + ('/' if is_dir else ''),
                      '根目录未登记目录（已入库）' if is_dir else '根目录散件（已入库）'))
     for name in sorted(os.listdir(root_dir)):
-        if name in ROOT_ALLOW:
+        if name in allow:
             continue
         kind = '根目录未登记目录（工作区）' if os.path.isdir(os.path.join(root_dir, name)) else '根目录散件（工作区）'
         hits.append((name, kind))

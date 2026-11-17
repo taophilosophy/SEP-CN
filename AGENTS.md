@@ -31,7 +31,7 @@
 0. **方向确认**：按 `rules/08-intent-first.md` 复述用户到底要什么，写清目标、非目标与验收判据；含糊先问不猜，禁止猜着做；动笔前按 `rules/08` §13 筛查适用标准文献（知难行易的重要体现，ADR-0042）。
 1. **基点核对**：`git log --oneline -5`、`git status`；开工先 `python tools/sync_guard.py pull`（判弃自检实拦，ADR-0028），落后不干活。双机克隆任一机可做全部工作（定岗取消，ADR-0066 收编 2026-11-16 裁定）。
 2. **读规则地图**：`rules/README.md` 的规则地图与快速判例。
-3. **跑门禁**：`python tools/check_all.py`（十一项门禁加单元测试，共 12 项，应全绿）。
+3. **跑门禁**：`python tools/check_all.py`（门禁清单以 `--list-gates` 为准，应全绿；本文件不复制项数）。
 4. **看进度与任务**：`PROGRESS.md`、`python tools/task_ops.py show <slug>`。
 
 收工：复跑相关检查器；相关文件提交并推送（中文一行信息；提交即推，ADR-0059）；`git log origin/main..main` 为空；不留半成品。推送后站点更新走壳仓拉取制（ADR-0064）：壳仓每 30 分钟定时拉取子模块、有新指针才重建；手动两档 `gh workflow run -R taophilosophy/taophilosophy.github.io deploy.yml`（默认＝手动拉取；`-F sync_docs=false`＝不动指针原样重建成站）；deploy_bump 与 push 触发已按 2026-11-17 裁定撤除。

@@ -8,7 +8,7 @@
 
 | 工作流 | 行为 | 触发 |
 | ---- | ---- | ---- |
-| `checks.yml` | 仓库一致性门禁**矩阵**（ADR-0061）：`plan` 作业跑 `tools/check_all.py --list-gates`（`GATES` 是唯一事实源），展开成每门禁一作业——`check_summary.py`（结构审计＋H1 一致性硬门禁，ADR-0024）＋`check_mulu_s.py`＋`check_doc_size.py`（ADR-0004）＋`check_junk.py`（垃圾/产物入库＋根目录白名单，ADR-0023）＋`check_images.py --gate`（图片引用完整性，rules/01）＋`check_terms.py`＋`check_quotes.py`＋`check_academic.py`（rules/07）＋`check_math_zh.py --strict`＋`divergence.py verify`（原始物分歧账，ADR-0045）＋`check_yuanwen_fidelity.py --gate`（转换保真 I2/I3，ADR-0063）＋管线单元测试；`fail-fast: false`，红灯作业名即门禁名，失败日志与图片报告入运行工件 | push / 手动 |
+| `checks.yml` | 仓库一致性门禁**矩阵**（ADR-0061）：`plan` 作业跑 `tools/check_all.py --list-gates`（`GATES` 是唯一事实源），展开成每门禁一作业——`check_summary.py`（结构审计＋H1 一致性硬门禁，ADR-0024）＋`check_layout.py`（`rules/layout.json` 单一源，L1–L4，ADR-0067）＋`check_mulu_s.py`＋`check_doc_size.py`（ADR-0004）＋`check_junk.py`（垃圾/产物入库＋根目录白名单，ADR-0023）＋`check_images.py --gate`（图片引用完整性，rules/01）＋`check_terms.py`＋`check_quotes.py`＋`check_academic.py`（rules/07）＋`check_math_zh.py --strict`＋`divergence.py verify`（原始物分歧账，ADR-0045）＋`check_yuanwen_fidelity.py --gate`（转换保真 I2/I3，ADR-0063）＋管线单元测试；`fail-fast: false`，红灯作业名即门禁名，失败日志与图片报告入运行工件 | push / 手动 |
 | `format.yml` | markdownlint／autocorrect／md-padding 三工具**矩阵**（ADR-0061）：手动触发各自 `--fix` 并各开一条 PR（合并前人工核 diff；禁机械替换译文，rules/05 生成器条）；PR 触发只读 markdownlint（告警级，权威配置根 `.markdownlint-cli2.jsonc`）。禁改区排除 `en/`、`yuanwen/`、两本登记册、`SUMMARY.md`、测试夹具、站点产物 | pull_request / 手动 |
 | `links.yml` | lychee 链接检查；范围单点由 `.github/lychee.toml` 的 `exclude_path` 决定（原文 `en/`、镜像 `yuanwen/`、草稿/运行态/构建产物/夹具不查）。**报告口径（2026-11-16）**：检出死链开 issue，作业本身不硬拦（`fail: true` + `continue-on-error`，以保留真实退出码供 issue 步骤消费；`fail: false` 会加 `--no-fail` 使退出码恒 0、永不开 issue）。日志 `verbose` 保持 `warn`——`trace` 会把每条已检链接写进 job summary，实测 1.7 MB 超 GitHub 1 MB 上限 | 定时（每月 15 日 18:00 UTC）+ 手动 + repository_dispatch |
 | `sep-sync-check.yml` | 每周抓取官方目录与 `.github/sep-baseline/official-snapshot.json` 比对，只报告、不改任何内容文件；报告入运行工件，非 `clean` 时开/更新 issue（`sep-upstream-sync`，抓取/解析失败另标 `sep-sync-broken`） | 定时（周一 18:30 UTC）+ 手动 |
@@ -63,7 +63,9 @@
 | `campaign.py` | 全局统计表与批次调度（specs/005 并行设计）：a–z 批次账本（认领/阶段/断点续上），计数实时推导零漂移，多会话独立无耦合 |
 | `check_math_zh.py` | 译文侧公式体例门禁（021 战役，D26 接线）：C1 宏残留/C2 内侧空白/C3 不可见字符/C4 未转义 %#/C5 中文入公式/C6 裸 $/C7 未转义货币/C8 英连接语/C9 散文 `\\(` 九类；默认 C1–C6+C8 硬错误，`--strict` 加 C7/C9（check_all 与 s3/r3 任务门用 strict） |
 | `check_pairs.py` | 格式配对与一致性预检（ADR-0046，**告警级**，不进 CI）：全角括号/书名号配对与方向（序次语 N）豁免）、文内作者-年份引注与书目一致（en 书目交叉、破折号承接链）、书目键重复、节/书目/公式数量对照（zh vs en/yuanwen）、相对链接悬空、出版信息行形态、省略号六连点；输出 JSON，默认退出码 0，`--strict` 升硬 |
-| `check_all.py` | 一键全量合规复核（十一项门禁 + 单元测试，共 12 项；`--all` 另加 baseline_audit、en_integrity 与 divergence --deep，共 15 项；`--quiet` 只报失败）；`--list-gates` 输出 CI 门禁矩阵 JSON（`checks.yml` 的唯一数据源，ADR-0061，改门禁只改 `GATES`）；收工前/推审前跑一次 |
+| `check_all.py` | 一键全量合规复核（门禁项数以 `--list-gates` 为准，ADR-0061/0067；`--all` 另加 baseline_audit、en_integrity 与 divergence --deep；`--quiet` 只报失败）；`--list-gates` 输出 CI 门禁矩阵 JSON（`checks.yml` 的唯一数据源，改门禁只改 `GATES`）；收工前/推审前跑一次 |
+| `check_layout.py` | 目录布局一致性门禁（ADR-0067）：`rules/layout.json` 为唯一事实源，L1 根⊆声明／L2 `rules/01` 表≡源（双向）／L3 容器有索引或写明理由的 `index_exempt`／L4 specs 容器 schema（必需 `spec.md`、禁 `tmp/`、规格根禁 JSON、`execution-log` 两形态不并存）；只读，`--json` 出机读 |
+| `spec_index.py` | 生成 `specs/README.md` 索引（ADR-0067，生成物不手改）；`--check` 只校验一致性（CI 可用） |
 | `indep_review.py` | 形态横向清账扫描器（ADR-0047，s3 前置独立步骤，**告警级**，不进 CI）：六类判据 `bib-heading-form`（参考文献节名正典，W7）、`pubinfo-form`（出版信息行形态＋与 en 源有无一致，W8）、`bib-subsection`（文献分类子标题丢失）、`style`（check_style 全则，O1）、`quote-adjacent`（引号↔西文邻接，O2，脚注键/链接/转写撇号已遮蔽）、`pairs`（ADR-0046 七则）；默认只扫已译集合，`--letter` 分字头、`--class` 单类、`--all-files` 含存根、`--classes` 列判据 |
 | `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件与 en/ 原始物） |
 | `progress.py` | 生成 `PROGRESS.md` 进度汇总（自动生成，不手改） |
@@ -142,6 +144,7 @@
 | 中文格式规范（空白、列表符、围栏） | `check_style.py`／`check_quotes.py`（门禁）＋ markdownlint/autocorrect（CI 修复） | 判 `en/` 对错 |
 | 中文引号合规 | `check_quotes.py`（全库总检，直角引号＋冲突标记）＋`check_style.py` curly-quotes/quote-spacing（定点） | 判 `en/` 对错 |
 | 术语一致性 | `check_terms.py` | — |
+| 目录布局与容器 schema | `check_layout.py`（ADR-0067） | 手写白名单副本、目录生成器 |
 | 渲染产物 | `check_render_artifacts.py`＋站点构建 | — |
 
 * **一条规则一个 owner**：新增格式或结构规则先在本表认领；同一判据不得有两个实现（现存的 `autocorrect` 与 `check_style` 的 CJK 空格、`md-padding` 与 `check_style` 的空隙为已知双轨，按本表收敛为"门禁判定、CI 修复"分工，判据口径以门禁为准）。

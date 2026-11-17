@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""check_junk 根目录白名单单测（ADR-0023：根级散件咬不住 add -A 的教训）。"""
+"""check_junk 根目录白名单单测（ADR-0023：根级散件咬不住 add -A 的教训；ADR-0067：白名单由 layout.json 生成）。"""
+import json
 import os
 import sys
 import tempfile
@@ -8,7 +9,7 @@ import unittest
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, REPO)
 
-from tools.check_junk import ROOT_ALLOW, root_hits  # noqa: E402
+from tools.check_junk import root_allow, root_hits  # noqa: E402
 
 
 def hits_of(tracked, root_dir):
@@ -57,10 +58,19 @@ class RootAllowlistTest(unittest.TestCase):
         self.assertIn('_f_pipe', hits_of([], self.root))
 
     def test_letter_and_digit_dirs_allowed(self):
+        allow = root_allow()
         for name in list('abcdefghijklmnopqrstuvwxyz') + ['1']:
-            self.assertIn(name, ROOT_ALLOW)
+            self.assertIn(name, allow)
             os.makedirs(os.path.join(self.root, name))
         self.assertEqual(hits_of([], self.root), {})
+
+    def test_allowlist_equals_layout_declaration(self):
+        """白名单必须与 rules/layout.json 声明逐项相等（ADR-0067 单一源）。"""
+        with open(os.path.join(REPO, 'rules', 'layout.json'), encoding='utf-8') as f:
+            layout = json.load(f)
+        declared = {e['path'] for e in layout['entries']}
+        declared |= set((layout.get('letter_dirs') or {}).get('match', ''))
+        self.assertEqual(declared, set(root_allow()))
 
 
 if __name__ == '__main__':

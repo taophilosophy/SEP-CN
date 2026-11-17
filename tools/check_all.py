@@ -2,9 +2,10 @@
 """一键全量合规复核（用户 2026-10-27 指令：新增一整套流程确保项目整体符合
 哲学学术规范并落地；收工前/推审前跑一次，输出逐项门禁结果）。
 
-覆盖（与 checks.yml CI 一致，另含需本地数据的项；2026-11-17 增第 11 项转换保真，specs/039 P9）：
-  check_summary / check_mulu_s / check_doc_size / check_junk / check_images /
-  check_terms / check_quotes / check_academic（词条+任务版本钉）/
+覆盖（与 checks.yml CI 一致，另含需本地数据的项；2026-11-17 增第 11 项转换保真，specs/039 P9；
+2026-11-17 增目录布局一致性，ADR-0067）：
+  check_summary / check_layout（layout.json 单一源，L1–L4） / check_mulu_s / check_doc_size /
+  check_junk / check_images / check_terms / check_quotes / check_academic（词条+任务版本钉）/
   check_math_zh（译文侧公式体例，021 九类，D26 接线）/
   divergence（原始物分歧账，ADR-0045：en/ 静默改动未登记即红）/ 单元测试；
   可选 --all：加 baseline_audit（依赖本地 en/ 原始物）、divergence --deep
@@ -33,10 +34,12 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # (人读名称, 矩阵键, 命令)。命令相对仓库根：门禁走 tools/，单元测试走模块。
 # 可判性四件套登记（rules/08 §14；specs/040 F-10）：机检谓词＝命令本身；预期
 # 命中数＝硬违例 0（常态全绿；fidelity 预期 no-baseline 2 件历史孤儿豁免不拦，
-# specs/039 P9）；幂等＝全部只读判官（ADR-0063 判定权表）；一行回退＝git revert
-# 引入该门禁的提交（GATES 删行即撤，CI 矩阵自动跟随）。
+# specs/039 P9；layout 首次全量预期 L2=0/L3=0/L4=0，L1 恒 0）；幂等＝全部只读判官
+# （ADR-0063 判定权表）；一行回退＝git revert 引入该门禁的提交（GATES 删行即撤，
+# CI 矩阵自动跟随）。
 GATES = [
     ("SUMMARY 结构审计", "summary", "tools/check_summary.py"),
+    ("目录布局一致性", "layout", "tools/check_layout.py"),
     ("分类目录对应性", "mulu", "tools/check_mulu_s.py"),
     ("单体文件大小", "docsize", "tools/check_doc_size.py"),
     ("垃圾与产物入库", "junk", "tools/check_junk.py"),
