@@ -1,0 +1,603 @@
+{
+ "at": "2026-11-17",
+ "total": 55,
+ "green": 37,
+ "red": 18,
+ "by_state": {
+  "r3_reviewed": 1,
+  "s2.5_checked": 53,
+  "r2_reviewed": 1
+ },
+ "rule_hist": {
+  "curly-quotes": 10,
+  "heading-number": 9,
+  "tail-order": 5,
+  "quote-spacing": 2,
+  "bold-spacing": 1
+ },
+ "rows": [
+  {
+   "slug": "18thGerman-preKant",
+   "state": "r3_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "1/18thGerman-preKant.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "abraham-daud",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/abraham-daud.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "action-perception",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/action-perception.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "actualism-possibilism-ethics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/actualism-possibilism-ethics.md",
+   "status": "red",
+   "hard": [
+    "bold-spacing: ** 后缺空格: **它***会 ** 导致…"
+   ],
+   "warn": [
+    "count-vs-source: 公式数 zh 335 vs yuanwen 404（偏差超 10%）"
+   ]
+  },
+  {
+   "slug": "aesthetic-experience",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetic-experience.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "aesthetics-18th-french",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/aesthetics-18th-french.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 69 vs en 66（容差 2）"
+   ]
+  },
+  {
+   "slug": "al-khunaji",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/al-khunaji.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "al-kindi",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/al-kindi.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 右引号先于左引号: 尽管肯迪的认识论具有上文所述的反经验主义特征，他却为自然科学的各个分支投入了巨大",
+    "curly-quotes: 右引号先于左引号: 尽管肯迪的认识论具有上文所述的反经验主义特征，他却为自然科学的各个分支投入了巨大"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "albalag",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/albalag.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 95 vs en 90（容差 2）"
+   ]
+  },
+  {
+   "slug": "anscombe",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/anscombe.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "arabic-islamic-phil-math",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/arabic-islamic-phil-math.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 右引号先于左引号: 柏拉图同时承诺这两条论题。相比之下，毕达哥拉斯派只接受后者。至少若我们信任亚里士"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "auriol",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "a/auriol.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "bohr-correspondence",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "b/bohr-correspondence.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "cancer",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cancer.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "computing-history",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/computing-history.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：1936 年，图灵在剑桥大学确立了现代计算机的原理。他描述了一台抽象的计算机器，它有一条"
+   ]
+  },
+  {
+   "slug": "cosmology-30s",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "c/cosmology-30s.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "demonstration-medieval",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/demonstration-medieval.md",
+   "status": "red",
+   "hard": [
+    "tail-order: 尾节缺失：参考文献"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "descartes-ideas",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/descartes-ideas.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "disability-care-rationing",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/disability-care-rationing.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 右先于左：若我们考虑的是一项社会政策或面向人群的分配策略，那我们似乎就受程序公平基本原则的约束，这",
+    "bracket-pair: （） 右先于左：若我们考虑的是一项社会政策或面向人群的分配策略，那我们似乎就受程序公平基本原则的约束，这",
+    "bracket-pair: （） 右先于左：若我们考虑的是一项社会政策或面向人群的分配策略，那我们似乎就受程序公平基本原则的约束，这"
+   ]
+  },
+  {
+   "slug": "early-modern-india",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/early-modern-india.md",
+   "status": "red",
+   "hard": [
+    "heading-number: 二级标题须点号式 `N. 标题`：1.3 句义清单的底层结构"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "egoism",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/egoism.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 右引号先于左引号: 第二个反对伦理利己主义的论证由 H. A. 普里查德提出。他论证说自身利益是错误"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "ehrenfels",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/ehrenfels.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "emerson",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/emerson.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "equal-ed-opportunity",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/equal-ed-opportunity.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "experimental-aesthetics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "e/experimental-aesthetics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "falaquera",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "f/falaquera.md",
+   "status": "red",
+   "hard": [
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …har ha-he‘der*），或在…",
+    "quote-spacing: 引号与西文/数字之间缺半角空格: …创造”（*beri‘ah*）的解释，…"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "gadamer",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/gadamer.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 右先于左：伽达默尔的思想在法理论与法理学（见 Mootz 2007）[^mootz-2007]、文"
+   ]
+  },
+  {
+   "slug": "god-necessary-being",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "g/god-necessary-being.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 82 vs en 70（容差 2）"
+   ]
+  },
+  {
+   "slug": "hilbert-program",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "h/hilbert-program.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "ibn-sina",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/ibn-sina.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 引号不成对（‘…’ 差 1）: 亚里士多德的伦理学提供了这座大厦的基础。去认识、并理性地认识的绝对命令——这是阿"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 82 vs en 71（容差 2）"
+   ]
+  },
+  {
+   "slug": "identity-ethics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/identity-ethics.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "identity",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/identity.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "idiolects",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/idiolects.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 90 vs en 85（容差 2）"
+   ]
+  },
+  {
+   "slug": "implicature-optimality-games",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/implicature-optimality-games.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 引号不成对（‘…’ 差 1）: 1. $P(i_2 \\mid [\\![$‘two’$]\\!]) = ⅓$ 高于任",
+    "curly-quotes: 右引号先于左引号: \\text{three}{\\text{’}} ]\\!] \\subset [\\![",
+    "curly-quotes: 右引号先于左引号: \\text{one}{\\text{’}} ]\\!], $$"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "it-privacy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/it-privacy.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kant-spacetime",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kant-spacetime.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 99 vs en 69（容差 2）"
+   ]
+  },
+  {
+   "slug": "kaspi-joseph",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kaspi-joseph.md",
+   "status": "red",
+   "hard": [
+    "heading-number: 小节编号跳号：6 → 6"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "kierkegaard",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kierkegaard.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 194 vs en 187（容差 2）"
+   ]
+  },
+  {
+   "slug": "kilvington",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kilvington.md",
+   "status": "red",
+   "hard": [
+    "heading-number: 小节编号跳号：6 → 6"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 139 vs en 98（容差 2）"
+   ]
+  },
+  {
+   "slug": "knowledge-how",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/knowledge-how.md",
+   "status": "red",
+   "hard": [
+    "tail-order: 尾节缺失：参考文献"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "korean-philosophy",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/korean-philosophy.md",
+   "status": "red",
+   "hard": [
+    "tail-order: 尾节缺失：参考文献",
+    "heading-number: 二级标题须点号式 `N. 标题`：3.1 儒学",
+    "heading-number: 小节编号跳号：2 → 4"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "kukai",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kukai.md",
+   "status": "red",
+   "hard": [
+    "tail-order: 尾节缺失：参考文献"
+   ],
+   "warn": [
+    "bracket-pair: （） 右先于左：空海的真言宗佛教设定了四种 **作为** 法身本身的身相。这一“四种法身”（*shish",
+    "bracket-pair: （） 右先于左：空海的真言宗佛教设定了四种 **作为** 法身本身的身相。这一“四种法身”（*shish"
+   ]
+  },
+  {
+   "slug": "lakatos",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/lakatos.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 不配对（深度 1）：![线描图：看似两个立方体、一个位于另一个中心，但内层立方体其实是贯穿外层立方体的隧道（",
+    "bracket-pair: （） 右先于左：明显的担忧是：这一针对科学合理性理论的元标准，可能让科学哲学失去全部批判锋芒。最好的科学",
+    "count-vs-source: 书目条数 zh 90 vs en 97（容差 2）"
+   ]
+  },
+  {
+   "slug": "logic-infinitary",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/logic-infinitary.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "lorenzo-valla",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "l/lorenzo-valla.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "montessori-maria",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "m/montessori-maria.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 135 vs en 130（容差 2）"
+   ]
+  },
+  {
+   "slug": "nietzsche-aesthetics",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "n/nietzsche-aesthetics.md",
+   "status": "red",
+   "hard": [
+    "heading-number: 二级标题须点号式 `N. 标题`：2.《悲剧的诞生》",
+    "heading-number: 小节编号跳号：1 → 3"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 95 vs en 92（容差 2）"
+   ]
+  },
+  {
+   "slug": "object",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/object.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 290 vs en 255（容差 2）"
+   ]
+  },
+  {
+   "slug": "omniscience",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "o/omniscience.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "quine-nf",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "q/quine-nf.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 右引号先于左引号: u{\\text{’}}) + 1$；若 $",
+    "curly-quotes: 右引号先于左引号: v{\\text{’}}) = \\sigma("
+   ],
+   "warn": [
+    "bracket-pair: （） 右先于左：NF 研究的早期（1937—1952），谁也不知道 NF 到底证不证得出无穷公理。斯佩克"
+   ]
+  },
+  {
+   "slug": "rationalism-early-modern",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/rationalism-early-modern.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "redistribution",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/redistribution.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "count-vs-source: 书目条数 zh 62 vs en 45（容差 2）"
+   ]
+  },
+  {
+   "slug": "representation-medieval",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "r/representation-medieval.md",
+   "status": "red",
+   "hard": [
+    "heading-number: 小节编号跳号：4 → 6",
+    "heading-number: 小节编号跳号：6 → 5"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "scholz",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "s/scholz.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "zhu-xi",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "z/zhu-xi.md",
+   "status": "red",
+   "hard": [
+    "tail-order: 尾节缺失：参考文献"
+   ],
+   "warn": []
+  }
+ ]
+}

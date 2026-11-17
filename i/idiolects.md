@@ -106,7 +106,7 @@
 
 他反对第一意义“系统、共享、现成”的论证，出于对多种语言现象的反思，其共同点是：“说者预期被按意图理解，也确实如此，尽管解释者事先并无正确理论”（1986: 440）。格赖斯的例子不合此描述，故不威胁“第一意义（关于按时出席）系事先共享的组合性理论之简单产物”这一想法。词语误用（malapropism）却正合此描述。下面便是马拉克普罗普太太对绝对上尉说的那段话，戴维森论文之题即出于此：
 
-> 这世上若有什么是我要“斥责”（reprehend，误作 apprehend“理解”）的，那就是我这条“神谕之舌”（oracular，误作 vernacular“本地方言”）的用法，以及一席“墓志铭的巧妙错乱”（a nice derangement of epitaphs，误作 a nice arrangement of epithets“措辞的巧妙安排”）！（Richard Sheridan, *The Rivals*, 第三幕第三场）
+> 这世上若有什么是我要“斥责”（reprehend，误作 apprehend “理解”）的，那就是我这条“神谕之舌”（oracular，误作 vernacular “本地方言”）的用法，以及一席“墓志铭的巧妙错乱”（a nice derangement of epitaphs，误作 a nice arrangement of epithets “措辞的巧妙安排”）！（Richard Sheridan, *The Rivals*, 第三幕第三场）
 
 绝对上尉还是弄懂了马拉克普罗普太太话里的第一意义：如果说她“懂”什么，那就是她自己乡谈的用法，以及措辞的巧妙安排。戴维森对此情形给出一个直觉性描述，该描述同样适用于日常交际。随后他论证：这一描述与“第一意义系统、共享、现成因而惯例”的主张不相容。
 

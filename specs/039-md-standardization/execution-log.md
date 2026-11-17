@@ -145,3 +145,14 @@
 | 回退执行 | `bin/revert_batch.py`（dry-run 默认、`--execute` 写、幂等跳已回退）：先 3 件试金石（append-only revert-state 步抽验通过），再全量 **356 件**，共 **359 件**置 `s2.4_termchecked`，0 失败、3 skipped（已回退）。快照留 `state/p8-snapshot-before-revert.json`（可复算/回滚） |
 | 回退后状态面 | `s2.4_termchecked 359／s2.5_checked 53／r2 1／r3 1／done 1／cleared 166／pending 617`；红 55 件按原状态留存，待修后并入 |
 | 复核门禁 | `check_all` 12 项全绿（过程中发现并修正 ADR 补记 2 处直角引号） |
+
+## 2026-11-17 · P8 红件清障：机械体例修复器（53 行）＋二轮回退 37 件
+
+| 项 | 结果 |
+| ---- | ---- |
+| 修复器 v1 事故（记录） | 首版 `style_fix.py` 全行扫描：bold 674／italic 662（检查器仅报 17／14）——**在照录豁免区（书目/脚注定义行）动手**。教训与 memory 的「style 修复器事故链」同型：修复器不得自带判据，必须**由判官点名后动手**。已废弃 v1 计数 |
+| 修复器 v2 设计 | 只改 `check_style` 点名的**行与规则**（quote-spacing／bold-spacing／italic-cjk／no-html）；**逐行改→临时文件复判→该行目标规则清零且无新违例才保留，否则回滚该行**；dry-run 不碰原文件（临时文件复判） |
+| 执行 | 55 件 57 目标行：**改 55／回滚 1／残余 2**；试金石 3 件（lakatos／object／zhu-xi）词面等值、余 issue 0、二跑幂等 0 改动 |
+| 复判 | `check_all` 12 项全绿 |
+| 二轮台账 | `results/revert-ledger-after-stylefix-20261117.json`：55 红 → **绿 37／红 18**（curly-quotes 10／heading-number 9／tail-order 5／quote-spacing 2／bold-spacing 1） |
+| 二轮回退 | 37 件（3 试金石＋34 全量）→ `s2.4_termchecked`；累计回退 **396 件**，余 18 件红留原状态 |

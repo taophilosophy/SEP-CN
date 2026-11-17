@@ -278,7 +278,7 @@
 
 ## 其他网络资源
 
-* Shoemaker, David, “Personal Identity and Ethics”, *Stanford Encyclopedia of Philosophy* (Spring 2025 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/spr2025/entries/identity-ethics/>. [这是本词条在《斯坦福哲学百科全书》中的前一个版本——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=identity-ethics)。]
+* Shoemaker, David, “Personal Identity and Ethics”, *Stanford Encyclopedia of Philosophy* (Spring 2025 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = https://plato.stanford.edu/archives/spr2025/entries/identity-ethics/. [这是本词条在《斯坦福哲学百科全书》中的前一个版本——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=identity-ethics)。]
 
 ## 相关词条
 
