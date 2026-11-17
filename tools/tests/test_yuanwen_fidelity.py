@@ -113,6 +113,26 @@ class TestMdSideSymmetry(unittest.TestCase):
         self.assertNotIn("icon", t)
         self.assertIn("figure description", t)
 
+    def test_angle_bracket_prose_kept(self):
+        # action 判例：源文 `&lt;I will go to the store…&gt;` 转成裸尖括号散文，
+        # 不得被标签剥离整句吃掉（带空格却无属性的“标签”不是标签）
+        t = self._text("<I will go to the store in virtue of this thought>\n")
+        self.assertIn("store", t)
+        self.assertIn("virtue", t)
+
+    def test_attribute_tag_still_stripped(self):
+        t = self._text('<table><tr><td colspan="2">cell</td></tr></table>\n')
+        self.assertIn("cell", t)
+        for tag in ("table", "tr", "td", "colspan"):
+            self.assertNotIn(tag, t)
+
+    def test_marker_before_parenthetical_kept(self):
+        # gadamer/action/secession 判例：`[^key](括注原文)` 不得被链接规则
+        # 当成 `[文字](目标)` 把括注原文删掉
+        t = self._text("见前文[^walhof-2022](on many of the topics, see also the chapters)\n")
+        self.assertIn("chapters", t)
+        self.assertIn("topics", t)
+
     def test_fence_body_kept_for_plain_text(self):
         # linguistics 判例：围栏里是 XML 句法样例（正文内容），不得整段剔除
         t = self._text("```\n<clause>\n<noun>freeway</noun>\n```\n")

@@ -70,11 +70,15 @@ BLOCK_RE = re.compile(
 # （复杂表格、实体）与 html 侧同法剥离／解码；链接与图目标是机器标识符
 # （html 在属性、md 在圆括号），两侧一律不计——簿记面由 check_pairs
 # dangling-link 与 en_integrity 管辖。
-MD_TAG_RE = re.compile(
-    r"</?(?:table|thead|tbody|tfoot|tr|td|th|div|span|img|a|p|br|em|i|b|strong|"
+_MD_TAGS = (
+    r"table|thead|tbody|tfoot|tr|td|th|div|span|img|a|p|br|em|i|b|strong|"
     r"ul|ol|li|dl|dt|dd|h[1-6]|sup|sub|math|semantics|annotation|caption|figure|"
-    r"blockquote|pre|code|font|center|hr|col|colgroup|small|big|u|s)(?:\s[^<>]*)?/?>",
-    re.I)
+    r"blockquote|pre|code|font|center|hr|col|colgroup|small|big|u|s")
+# 裸标签与属性标签分两口：带空格却无 `=` 的“尖括号散文”（`<I will go to the
+# store…>`，action 判例）不是标签，**不得**整句吃掉——只认裸标签、自闭合、
+# 或含属性的形态
+MD_TAG_RE = re.compile(r"</?(?:%s)/?>" % _MD_TAGS, re.I)
+MD_TAG_ATTR_RE = re.compile(r"</?(?:%s)\b(?=[^<>]*=)[^<>]*?>" % _MD_TAGS, re.I)
 # 目标内允许一层成对圆括号（维基类 URL `…/wiki/Foo_(bar)` 判例，philosophy-religion）
 MD_TARGET_RE = re.compile(
     r"\((?:https?://(?:[^()]|\([^()]*\))*|mailto:[^()]*|[^()\s]*\.(?:md|html?|png|jpe?g|gif|svg|pdf|js|css)"
@@ -210,16 +214,20 @@ def html_text(slug):
     alts = [html_lib.unescape(a) for a in re.findall(r'alt="([^"]*)"', region)
             if len(a) >= ALT_MIN]
     text, stats = _stream_from_text(raw)
-    if alts:
-        text += "\n" + "\n".join(alts)
     notes_path = os.path.join(base, "notes.html")
     if os.path.exists(notes_path):
         raw = read_text(notes_path)
         # 注页标题「Notes to <条目>」整元素剔出（md 侧只有「Notes」段题）
         raw = re.sub(r"<h2[^>]*>\s*Notes to[\s\S]{0,300}?</h2>", " Notes ", raw, flags=re.I)
+        # 注页里的图 alt 同样入流（time-travel 判例：长 alt 只存在于 notes.html）
+        nregion = re.sub(r"<!--.*?-->", " ", raw, flags=re.S)
+        alts += [html_lib.unescape(a)
+                 for a in re.findall(r'alt="([^"]*)"', nregion) if len(a) >= ALT_MIN]
         t2, s2 = _stream_from_text(raw)
         text += "\n" + t2
         stats = {k: stats[k] + s2[k] for k in stats}
+    if alts:
+        text += "\n" + "\n".join(alts)
     return text, stats
 
 
@@ -234,16 +242,20 @@ def md_text(path):
     t = FENCE_BODY_RE.sub(_fence_body_repl, t)
     t = CODE_RE.sub(" ", t)
     t = MD_TAG_RE.sub(" ", t)          # 原样搬运的 HTML 片段：标签名不入流
+    t = MD_TAG_ATTR_RE.sub(" ", t)     # 带属性的标签（`<td colspan="2">` 等）
     t = html_lib.unescape(t)           # 实体解码（&nbsp; 等），与 html 侧对称
     t, stats = strip_math_ex(t)
+    # 注号 marker 必须先剔：`[^key](括注原文)` 这种“标记紧随括注”的产物会被
+    # 链接规则误当成 `[文字](目标)` 把括注原文整段当目标删掉（gadamer/action/
+    # secession 判例，2026-11-17 复核）
+    t = re.sub(r"\[\^[^\]]+\]:", " ", t)                        # 引用注释定义前缀
+    t = re.sub(r"\[\^[^\]]+\]", " ", t)                         # marker（注号与键均属簿记）
     # 图：alt 与 html 侧同阈（短 alt 属装饰性图标不入流，长 alt 是可见图注）；
     # 旧式 `(.*)` 贪婪在同行多图时把路径并进 alt——一并改为逐图匹配
     t = re.sub(r"!\[([^\[\]]*)\]\([^()]*\)",
                lambda m: " %s " % m.group(1) if len(m.group(1)) >= ALT_MIN else " ", t)
     t = MD_TARGET_RE.sub(" ", t)                                # 链接目标（URL/路径/锚）两侧不计
     t = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", t)              # 链接保留文字
-    t = re.sub(r"\[\^[^\]]+\]:", " ", t)                        # 引用注释定义前缀
-    t = re.sub(r"\[\^[^\]]+\]", " ", t)                         # marker（注号与键均属簿记）
     for a in TITLE_ANNOT:
         t = t.replace(a, " ")
     t = re.sub(r"^#+\s*", " ", t, flags=re.M)
