@@ -46,5 +46,6 @@
 | [039-md-standardization](039-md-standardization/spec.md) | 中文 Markdown 标准化（s2.4 三轴与派生保真） | — | ✓ | ✓ | 单文件 |
 | [040-coherence-audit](040-coherence-audit/spec.md) | 全系统融洽性审计（数理逻辑证明＋计算） | 进行中 | ✓ | ✓ | 单文件 |
 | [041-axiom-system](041-axiom-system/spec.md) | 项目公理体系与形式化充分性审计 | 进行中 | ✓ | ✓ | 单文件 |
+| [042-progress-model-v2](042-progress-model-v2/spec.md) | 进度模型重建（事件日志 · 分支返工 · 可插 S） | 草案（待用户裁定） | — | ✓ | — |
 
-共 40 个规格目录。
+共 41 个规格目录。
