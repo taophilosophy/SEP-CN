@@ -1,0 +1,68 @@
+{
+  "$comment": "草案（未实施）。rules/layout.json 的字段与枚举定义：每个根级条目与二级容器必须答满七问，答不全不得新增子项。",
+  "version": 1,
+  "generated_by": "jian-yi-shu/mu-lu-fen-lei-gui-fan-jian-yi-shu.md §5.2",
+  "entry": {
+    "path": "根级条目名，不含路径分隔符；二级容器用 '<parent>/<child>'",
+    "domain": ["product", "normative", "evidence", "runtime", "build"],
+    "role": ["source", "derived", "record", "decision", "tool", "asset"],
+    "naming": ["slug", "pinyin", "fixed", "numbered", "dated"],
+    "lifecycle": ["transient", "controlled", "permanent"],
+    "retention": "一句话：何时可删、删前需何凭证",
+    "writer": "唯一写入者：工具名 / 会话角色 / 人类角色",
+    "gate": ["判定该条目合规的检查器命令，可为空数组（仅当属 runtime 且被忽略）"],
+    "index": "索引文件相对路径，或 null（豁免须在 gate 中说明）",
+    "tracked": "布尔：是否入库"
+  },
+  "container": {
+    "path": "同上",
+    "allowed_children": "允许的子项清单；清单外子项即违规",
+    "forbidden_children": "显式禁止的子项（如 tmp/）",
+    "max_depth": "整数：该容器允许的最大嵌套层数"
+  },
+  "examples": [
+    {
+      "path": "rules",
+      "domain": "normative",
+      "role": "decision",
+      "naming": "numbered",
+      "lifecycle": "permanent",
+      "retention": "永久；ADR 只追加，废弃标 superseded",
+      "writer": "治理会话",
+      "gate": ["tools/check_doc_size.py"],
+      "index": "rules/README.md",
+      "tracked": true
+    },
+    {
+      "path": "specs",
+      "domain": "evidence",
+      "role": "record",
+      "naming": "numbered",
+      "lifecycle": "permanent",
+      "retention": "永久；销案注记保留原文",
+      "writer": "承办会话",
+      "gate": ["tools/check_layout.py --specs"],
+      "index": "specs/README.md",
+      "tracked": true,
+      "allowed_children": ["spec.md", "plan.md", "tasks.md", "checklist.md", "contracts/", "execution-log.md", "execution-log/", "bin/", "results/", "README.md"],
+      "forbidden_children": ["tmp/", "*.json（规格根散落）"]
+    },
+    {
+      "path": "state",
+      "domain": "runtime",
+      "role": "record",
+      "naming": "fixed",
+      "lifecycle": "transient",
+      "retention": "随时可删；由 tools/clean.py 清理",
+      "writer": "本地会话",
+      "gate": [],
+      "index": null,
+      "tracked": false
+    }
+  ],
+  "open_items": {
+    "$comment": "需人工裁定的分类项：现有 18 项未在 rules/01 定义者，除字母目录与忽略区外，均需在 layout.json 中补一条。",
+    "count": 18,
+    "rule": "补录前不得新增同类条目"
+  }
+}
