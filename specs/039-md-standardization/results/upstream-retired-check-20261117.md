@@ -29,16 +29,18 @@
 `baseline/retired.json` 的登记说明写的是「抓取物与译文已移除」，但 2026-11-14 的恢复提交
 把这 5 个 en 包又带回了工作树，与登记相矛盾。
 
-**建议处置（待用户裁定，未动）**：`git rm -r` 这 5 个 en 包（无 pin、不在钉账、无 zh、SUMMARY 无对应），
-使工作树与 `retired.json` 一致；若要留档，registry 已写明 `content_recoverable_at`
-（19eb975e…），删后仍可从 git 历史取回。
+**处置（用户批准后已执行，2026-11-17）**：`git rm -r` 这 5 个 en 包（逐个复核定存：
+pin=False、divergences 无条目、SUMMARY 无 `](x/slug.md)` 链接、zh/yuanwen 均无对应件）。
+内容仍可从 git 历史取回；registry 保留 `content_recoverable_at`（19eb975e…）。
 
 ## 三、相邻发现（同一类问题，登记未动）
 
 `yuanwen/p/pineal-gland.figure1..6.md` 六件补充材料镜像：无 en 包、无 zh 件、不在 SUMMARY、
-不在 baseline。上游 `pineal-gland` 为 **Document Retired**（标题 “Descartes and the Pineal Gland”，
-指向 Summer 2026 存档版），且 `retired.json` 未登记该条。
+不在 baseline。上游 `pineal-gland` 为 **Document Retired**（标题 “Descartes and the Pineal Gland”）。
 
-**建议**：① 六件 yuanwen 补充镜像一并删除；② 在 `baseline/retired.json` 补登 `pineal-gland`
-（notice=Document Retired，archive_edition=sum2026，successor=null，zh_lines=0，task=null）。
-两项均属清理性动作，待裁定。
+**更正**：上一版本报告称「`retired.json` 未登记该条」——**误判**（首轮用子串 grep 漏检）。
+复核以 JSON 解析为准：`pineal-gland` 早已登记（title=笛卡尔与松果体 and the pineal gland、
+authors=Lokhorst、archive_edition=spr2017、removed_at=2026-11-12、content_recoverable_at=19eb975e…），
+**无需补登**。
+
+**处置（用户批准后已执行）**：六件补充镜像已删（git rm，2026-11-17）；登记表现状与工作树一致。

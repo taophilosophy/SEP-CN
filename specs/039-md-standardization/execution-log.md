@@ -202,3 +202,5 @@
 | 孤儿 yuanwen 2 件 | `health-well-being-personal-relationships`、`on-utopia` 上游均 **404**（不存在）→ **已删** |
 | en 包无 yuanwen 5 件 | 全部为官方退役件残留包（4 件上游指定后继、后继件在册：`scientific-explanation-20th`／`wisdom-analytic`／`wyclif`／`consciousness-temporal`；`qm-action-distance` 无后继）。非重名、非本地改名，属退役残留；**建议 `git rm` 5 包，待裁定** |
 | 相邻发现 | `yuanwen/p/pineal-gland.figure1..6.md` 六件补充镜像同为孤儿，上游 `pineal-gland` 已退役（sum2026）；建议删除并补登 `retired.json`，**待裁定** |
+| 清理执行（用户批准） | 5 个退役 en 包已 `git rm -r`（`scientific-explanation`/`wisdom`/`wyclif-political`/`time-experience`/`qm-action-distance`，逐个复核定存 pin=False、无分歧账条目、SUMMARY 无链接、zh/yuanwen 无对应）；`pineal-gland` 六件 yuanwen 补充镜像已删 |
+| 更正在案 | 首轮报告称 `pineal-gland` 未登记属**误判**（子串 grep 漏检），JSON 复核确认早已登记（archive=spr2017、removed_at=2026-11-12），无需补登 |
