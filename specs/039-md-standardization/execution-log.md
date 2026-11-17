@@ -179,3 +179,17 @@
 | 白名单裁定（本任务生效） | W1 数字簿记、W2 注引用文字化、W3 链接目标不计（死链归 check_pairs/en_integrity）、W4 短 alt 同剔、W5 样式→数学定界归 check_math（待 018 线给跨度内命令判定后重议） |
 | 定性与转移 | 报告 `results/i3-triage-20261117.md`；承接卡 `specs/023-triple-regression-audit/results/i3-transfer-20261117.md`，023 spec A9 登记；**I3 仍不进 GATES**（升门前置余项＝D1/D2 修复后全库复跑＋W5 定案＋残留件全部有归属） |
 | 门禁 | `check_all` 13 项全绿（含第 13 项中文体例归一） |
+
+## 2026-11-17 晚 · 复核轮：D1/D2 修复落地、D3 改判、判官再修三处（用户“全部批准·加强复核”）
+
+| 项 | 结果 |
+| ---- | ---- |
+| 重放基线 | 全库干跑重转 1873 件：1867 逐字节相同；变更 4 件全为纯新增（+2/+18/+10/+14，0 删行）；2 件无 en 包无法重放（孤儿镜像，见下） |
+| D1（转换器） | `build_cite_keys` continued 分支补节名/兜底键；ibn-bajja 889、watsuji-tetsuro 926、al-khunaji 294 字母差 → clean；四件已重转并重钉基线（`yuanwen.py <slug>` 内建写盘+钉值） |
+| D2（转换器） | dl 分支间隙收编：间隙含 `dt/dd` 开标签不碰（防重复）、`<p>` 段界保留；单测 `TestDlGaps` 3 例 + `TestCitations` 3 例；全套 77 例过 |
+| D3（改判） | gadamer/action/secession “丢文”实为判官假阳性（`[^key](括注)` 被链接规则当目标删），修判官后三件归零；023 卡登记“无待修” |
+| 判官再修 | ⑥ 标签剥离收紧（尖括号散文不吃，action）；⑦ notes 图 alt 入流（time-travel/mally-deontic）；⑧ marker 先于链接规则（gadamer/action/secession） |
+| 试过回退 | “无命令数学跨度保留字母”（W5 并入判据）：全库 47→47 零收益，回退，判据不漂移 |
+| 终局度量 | text-stream-diff 164 → **47**（≥50 字母 7 件，≤10 字母 29 件）；math-asymmetric 320 不变；issue_total 322；工件 `results/i3-deep-20261117-final.json` |
+| 库存异常（登记未动） | 孤儿 yuanwen 2 件（`health-well-being-personal-relationships`、`on-utopia`，无 en/baseline/zh/SUMMARY 引用）；en 包无 yuanwen 5 件（`qm-action-distance`、`scientific-explanation`、`time-experience`、`wisdom`、`wyclif-political`，同源恢复提交，归 specs/001 接入面） |
+| 门禁 | `check_all` 13 项全绿（含转换保真、13 项体例面、77+21 例单测） |

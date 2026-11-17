@@ -17,6 +17,11 @@ class TestStripMathEx(unittest.TestCase):
         self.assertEqual(s, {"spans": 1, "oversize": 0, "unclosed": 0})
         self.assertEqual(t, "a " + SENTINEL + " b")
 
+    def test_tex_command_span_still_dropped(self):
+        t, s = strip_math_ex(r"a \(\mathbf{Fx}\) b")
+        self.assertEqual(s["spans"], 1)
+        self.assertEqual(t, "a " + SENTINEL + " b")
+
     def test_display_pair_multiline(self):
         t, s = strip_math_ex("a $$x\n+y$$ b")
         self.assertEqual(s["spans"], 1)
@@ -54,6 +59,7 @@ class TestStripMathEx(unittest.TestCase):
 
     def test_strip_math_wrapper(self):
         self.assertEqual(strip_math(r"\(x\)"), SENTINEL)
+        self.assertEqual(strip_math(r"\(\alpha\)"), SENTINEL)
 
     def test_closer_escaped_not_matched(self):
         # closer 前带反斜杠不闭合（v1 既有语义保留）

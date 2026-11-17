@@ -301,6 +301,8 @@ def strip_math_ex(text):
             out.append(text[i]); i += 1
             unclosed += 1
             continue
+        # 数学跨度一律按哨兵处理。2026-11-17 试过“无命令跨度保留字母”
+        # （想做 W5 样式→定界的对称化），全库实测候选 47→47、零收益，已回退。
         out.append(SENTINEL)
         spans += 1
         if found - i > MAX_SPAN:
