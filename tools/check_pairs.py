@@ -125,7 +125,32 @@ def check_tail_order(path, text, issues):
                            "detail": "「译者注释」之后仍有其他二级标题：%s" % "、".join(h2[h2.index(ZNOTE_SEC) + 1:][:3])})
 
 
+def _yuanwen_headings(path):
+    """同件 yuanwen 标题 (level, title) 序列——供「编号与原文一致」豁免（ADR-0063）。
+
+    原文偶有作者自身异常：H2 承载 `N.M`（early-modern-india）、重复编号
+    （kaspi-joseph／kilvington 两个 `6.`）、编号倒序（representation-medieval
+    `6.` 在 `5.` 前）。zh 忠实镜像属正确，不得判缺陷；仅当原文无同位形态时才报。
+    """
+    name = os.path.basename(path)
+    letter = os.path.basename(os.path.dirname(os.path.abspath(path)))
+    root = os.path.dirname(os.path.dirname(os.path.abspath(path)))
+    for cand in (os.path.join(root, "yuanwen", letter, name),
+                 os.path.join("yuanwen", letter, name)):
+        if os.path.exists(cand):
+            t = read_text(cand)
+            return [(len(m.group(1)), m.group(2).strip())
+                    for m in re.finditer(r"^(#{2,4})\s+(.+)$", t, re.M)]
+    return []
+
+
 def check_heading_number(path, text, issues):
+    yw = _yuanwen_headings(path)
+    yw_h2 = []
+    for lvl, title in yw:
+        mm = re.match(r"^(\d+)\.", title)
+        if lvl == 2 and mm:
+            yw_h2.append(int(mm.group(1)))
     h2_num = []
     for m in re.finditer(r"^(#{2,4})\s+(.+)$", text, re.M):
         level, title = len(m.group(1)), m.group(2).strip()
@@ -136,6 +161,9 @@ def check_heading_number(path, text, issues):
         if level == 2:
             mm = re.match(r"^(\d+)\.\s+\S", title)
             if not mm:
+                mm2 = re.match(r"^(\d+\.\d+)\s", title)
+                if mm2 and any(lvl == 2 and t.startswith(mm2.group(1)) for lvl, t in yw):
+                    continue  # 原文自身以 H2 承载 N.M（与原文一致）
                 issues.append({"path": path, "line": 0, "rule": "heading-number",
                                "detail": "二级标题须点号式 `N. 标题`：%s" % title[:36]})
             else:
@@ -144,6 +172,8 @@ def check_heading_number(path, text, issues):
             pass  # H3 编号形态随原文（N2 离线对齐保证与 yuanwen 一致），运行时不再单查形态
     for prev, cur in zip(h2_num, h2_num[1:]):
         if cur != prev + 1:
+            if any(x == prev and y == cur for x, y in zip(yw_h2, yw_h2[1:])):
+                continue  # 原文同序异常（重复/倒序）——只报 zh 侧自发偏离
             issues.append({"path": path, "line": 0, "rule": "heading-number",
                            "detail": "小节编号跳号：%d → %d" % (prev, cur)})
 

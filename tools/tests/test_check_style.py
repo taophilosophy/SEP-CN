@@ -64,6 +64,29 @@ class TestCheckStyle(unittest.TestCase):
     def test_code_block_exempt(self):
         self.assertEqual(run("```sh\nls -l \"路径\"\n```\n\n正文引用 `ls -l \"x\"` 保持原样。\n"), [])
 
+    # ---- 2026-11-17 P8 红件复盘：记号区遮蔽（引号判定不得误报） ----
+    def test_footnote_key_apostrophe_not_quote(self):
+        self.assertEqual(run("见 Zhmud 1989[^zhmud’-1989]。\n"), [])
+
+    def test_transliteration_apostrophe_before_digit(self):
+        self.assertEqual(run("校勘本见 Zakariyya’ 1962 年版。\n"), [])
+
+    def test_transliteration_apostrophe_in_h1(self):
+        self.assertEqual(run("# 精诚兄弟社 Ikhwān al-Safā’ (Carmela Baffioni)\n"), [])
+
+    def test_ayn_inside_latin_not_quote_spacing(self):
+        self.assertEqual(run("即（*me-ha-he‘der*）之义。\n"), [])
+
+    def test_denotation_brackets_are_notation(self):
+        self.assertEqual(run("条目 $P(i_2 \\mid [\\![$‘two’$]\\!]) = ⅓$ 高于备选。\n"), [])
+
+    def test_quoted_latin_word_pair_not_split(self):
+        # ‘ate’ 属成对中文引号：词尾撇号遮蔽不得不对称（intensional-trans-verbs 判例）
+        self.assertEqual(run("因此，‘ate’（吃）和 ‘left’（离开）都算。\n"), [])
+
+    def test_real_unpaired_quote_still_flagged(self):
+        self.assertIn("curly-quotes", rules(run("观点：有一种‘义务’……去做事情”。\n")))
+
 
 if __name__ == "__main__":
     unittest.main()

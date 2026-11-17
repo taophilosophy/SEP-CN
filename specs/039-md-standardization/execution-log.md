@@ -156,3 +156,14 @@
 | 复判 | `check_all` 12 项全绿 |
 | 二轮台账 | `results/revert-ledger-after-stylefix-20261117.json`：55 红 → **绿 37／红 18**（curly-quotes 10／heading-number 9／tail-order 5／quote-spacing 2／bold-spacing 1） |
 | 二轮回退 | 37 件（3 试金石＋34 全量）→ `s2.4_termchecked`；累计回退 **396 件**，余 18 件红留原状态 |
+
+## 2026-11-17 · P8 红件清障 II：判官假阳性修复＋真缺陷逐件处置（回退面 414→408）
+
+| 项 | 结果 |
+| ---- | ---- |
+| 判官修复（check_style） | 新 `_mask_notation_extra`（脚注键/链接目标、`[\![… ]\!]` 与 `\llbracket…\rrbracket` 指称括号、拉丁-拉丁 ayn【仅 quote-spacing 面】、词尾撇号+空格+数字/拉丁/括号——**配对面仅遮无未闭合左引号者**，防拆对假阳性）。7 例单测。全库净效果：curly-quotes 62→10（al-kindi/arabic-islamic/ikhwan/falaquera/implicature 部分等消除），无新假阳性（intensional-trans-verbs 51 例回归 0） |
+| 判官修复（check_pairs） | `heading-number` 增 yuanwen 同位豁免：原文自身异常（H2 承载 `N.M`＝early-modern-india；重复编号 `6.`＝kaspi/kilvington；倒序 `6→5`＝representation-medieval）zh 忠实镜像不判缺陷；zh 侧自发偏离仍拦 |
+| 真缺陷修复（判官点名后动手） | korean-philosophy：`### 3.`／`## 3.1` 层级翻转（对照 yuanwen 修正）＋`参考文献（引用注释）`节名残留；nietzsche-aesthetics：`2.《悲剧的诞生》`缺点后空格；egoism：引文外层左引号缺失＋内层 ‘义务’ 按源结构改 `“有一种 **义务** …”`；actualism：`**它***会 **` 嵌套强调畸形态修复；demonstration-medieval／knowledge-how／kukai／zhu-xi：`参考文献（引用注释）`／`References（引用注释）` 节名残留（全库扫=4 件，无遗漏） |
+| 回退净增 | 绿件分四批回退：3＋37＋9＋4＝**53 件**；**回退面累计 408/414**（359+3+34+9+3） |
+| 残余红 6 件（登记，非本轮面） | **ibn-sina 1**：引文段多重引号错位（翻译面语义修复，需对照源文重排）；**implicature-optimality-games 3／quine-nf 2**：数学记号区引号（源忠实：`$‘$n\textrm{'}$` 嵌套、`` `\text{’}` `` 反引号入公式），归 check_math 面＋判官待数学域豁免；**尾节缺失 0**（原 5 件全为节名残留，已修） |
+| 门禁 | `check_all` 12 项全绿；台账快照 `results/revert-ledger-residual-20261117.json`（7 面） |

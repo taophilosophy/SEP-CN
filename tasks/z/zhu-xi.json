@@ -2,7 +2,7 @@
   "slug": "zhu-xi",
   "kind": "retranslate",
   "zh_doc": "z/zhu-xi.md",
-  "state": "r2_reviewed",
+  "state": "s2.4_termchecked",
   "steps": [
     {
       "step": "clear",
@@ -73,6 +73,13 @@
       "actor": "Z-rework-20261115",
       "at": "2026-11-15T17:25:20Z",
       "evidence": "回炉链 r2（复审·语体与体例，机检＋通读并行）：①节标题核销：## 1 生平与著作／## 2 人性论与修养进路／## 3 伦理哲学（3.1 格物与伦理明察及实践、3.2 道德宇宙综合）／## 4 自然哲学（4.1 格物与自然知识及行动、4.2 哲学综合）／## 5 理与气及相关概念的互补／## 6 朱熹的主要诠释者——与源节名一一正对位；②密度复算（终文本）：破折号 58 处逐处审阅职能化；一字线 2（页码照录）；量词「一个」31 处实指；AI 高频词 0 净增（值得注意×1 源生）；③语体通读：现代汉语学术书面语；书面语词（鹄、体认、躬行）为哲学译文通行语；无文言仿古句式；④六器机检终跑全绿：style 0／prose 0 正文（6 引块直引豁免：seg12/14 Arghirescu 二引块、seg27 程颐语录、seg33 Levitin 引块、seg45 Needham 引块、seg31 long——ADR-0020 直引豁免，源语言密度直承）／math 0／math_zh 0／academic strict 0／pairs 0／summary H1 0 HARD 0；⑤check_terms 定点 4 处引注/书目照录豁免在案（Chan/Lau/Li Guangdi/Shu Jingnan）。新增问题：0。分级：Critical 0、Major 0、Minor 0。"
+    },
+    {
+      "step": "revert-state",
+      "status": "ok",
+      "actor": "P8-revert-20261117",
+      "at": "2026-11-17T06:28:49Z",
+      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：尾节节名残留（参考文献/References 英文括注）修复后机检归绿，并入回退面；凭证 results/revert-ledger-residual-20261117.json"
     }
   ],
   "blockers": [],

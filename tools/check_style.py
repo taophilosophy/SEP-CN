@@ -101,6 +101,37 @@ def _connector_line(path, lineno, line, warnings):
                 })
 
 
+def _mask_notation_extra(seg, left_ayn=False):
+    """引号判定前的记号区遮蔽（2026-11-17 P8 红件复盘，等长、不改规则本身）。
+
+    ① 脚注键/标记 `[^…]` 与链接目标 `](…)`——其内撇号是键名（`[^zhmud’-1989]`）；
+    ② SEP 指称括号 `\\llbracket…\\rrbracket` / `[\\![…]\\!]`——数学记号区；
+    ③（仅 `left_ayn=True`，用于 quote-spacing）拉丁-拉丁 ayn `‘`（`me-ha-he‘der`）：
+      **配对计数面不得遮蔽左引号**，否则 `‘ipso facto’` 这类正常中文引号会被拆成
+      单边、凭空多出「引号不成对」假阳性（2026-11-17 实测 intensional-trans-verbs
+      因此从 0 涨到 51，已回归）；配对面交由 `_mask_start_quote` 成对遮蔽。
+    ④ 词尾撇号＋空格＋数字/拉丁/左括号（`Zakariyya’ 1962`、`al-Safā’ (Carmela`）。
+    """
+    seg = re.sub(r"\[\^[^\]]*\]", lambda m: "\x00" * len(m.group(0)), seg)
+    seg = re.sub(r"\]\([^)]*\)", lambda m: "\x00" * len(m.group(0)), seg)
+    seg = re.sub(r"\[\!\[.*?\]\!\]|\\llbracket.*?\\rrbracket",
+                 lambda m: "\x00" * len(m.group(0)), seg)
+    if left_ayn:
+        seg = re.sub(r"(?<=[^\W\d_\u4e00-\u9fff])[’'‘](?=[^\W\d_\u4e00-\u9fff])", "\x00", seg)
+        seg = re.sub(r"(?<=[^\W\d_\u4e00-\u9fff])[’'](?=\s*[0-9A-Za-z(（])", "\x00", seg)
+        return seg
+    # ④ 在配对面只遮「无未闭合左引号」的词尾撇号：`‘ate’（吃）` 的 `’` 是中文引号
+    # 闭合号，一并遮蔽会把成对引号拆成单边（2026-11-17 intensional-trans-verbs
+    # 51 例假阳性即此因，已回归）
+    chars = list(seg)
+    for m in re.finditer(r"(?<=[^\W\d_\u4e00-\u9fff])[’'](?=\s*[0-9A-Za-z(（])", seg):
+        i = m.start()
+        if seg.count("\u2018", 0, i) > seg.count("\u2019", 0, i):
+            continue
+        chars[i] = "\x00"
+    return "".join(chars)
+
+
 def _mask_start_quote(seg):
     """遮蔽 ayn/hamza 式起始撇号（‘Abbāsid）；成对中文单引号（‘Kant’）连同闭合号一起遮蔽，
     避免留下孤立右引号造成“右引号先于左引号”假阳性。"""
@@ -154,6 +185,7 @@ def check_line(path, lineno, line, issues):
         # 成对中文单引号（‘Kant’、‘是-否可观察量’）须连同闭合号一起遮蔽，否则留下孤立
         # 右引号，误报“右引号先于左引号”（2026-11-08 K 批实测）。
         stripped = _mask_start_quote(stripped)
+        stripped = _mask_notation_extra(stripped)
         _math = re.compile(r"\$\$.+?\$\$|\$[^$]+\$")
         stripped = _math.sub("\x00", stripped)
         for ch in stripped:
@@ -172,6 +204,7 @@ def check_line(path, lineno, line, issues):
         _qs = "".join(_qs)
         # 词内转写/所有格撇号（O’Connor、d’Ariste、Kant’s、Shi‘ur）不是引号：等长遮蔽
         _qs = re.sub(r"(?<=[^\W\d_\u4e00-\u9fff])[’'](?=[^\W\d_\u4e00-\u9fff])", "\x00", _qs)
+        _qs = _mask_notation_extra(_qs, left_ayn=True)  # 记号区同款遮蔽（指称括号/词尾撇号+数字等）
         for m in re.finditer(r"[A-Za-z0-9][‘“]|[’”][A-Za-z0-9]", _qs):
             _close = _qs.find("’", m.end())
             _open = _qs.rfind("‘", 0, m.start())

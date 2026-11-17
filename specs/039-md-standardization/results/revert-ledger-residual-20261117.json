@@ -1,0 +1,94 @@
+{
+ "at": "2026-11-17",
+ "total": 7,
+ "green": 4,
+ "red": 3,
+ "by_state": {
+  "s2.5_checked": 6,
+  "r2_reviewed": 1
+ },
+ "rule_hist": {
+  "curly-quotes": 6
+ },
+ "rows": [
+  {
+   "slug": "demonstration-medieval",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "d/demonstration-medieval.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "ibn-sina",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/ibn-sina.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 引号不成对（‘…’ 差 1）: 亚里士多德的伦理学提供了这座大厦的基础。去认识、并理性地认识的绝对命令——这是阿"
+   ],
+   "warn": [
+    "count-vs-source: 书目条数 zh 82 vs en 71（容差 2）"
+   ]
+  },
+  {
+   "slug": "implicature-optimality-games",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "i/implicature-optimality-games.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 引号不成对（‘…’ 差 1）: 1. $P(i_2 \\mid [\\![$‘two’$]\\!]) = ⅓$ 高于任",
+    "curly-quotes: 右引号先于左引号: \\text{three}{\\text{’}} ]\\!] \\subset [\\![",
+    "curly-quotes: 右引号先于左引号: \\text{one}{\\text{’}} ]\\!], $$"
+   ],
+   "warn": []
+  },
+  {
+   "slug": "knowledge-how",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/knowledge-how.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  },
+  {
+   "slug": "kukai",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "k/kukai.md",
+   "status": "green",
+   "hard": [],
+   "warn": [
+    "bracket-pair: （） 右先于左：空海的真言宗佛教设定了四种 **作为** 法身本身的身相。这一“四种法身”（*shish",
+    "bracket-pair: （） 右先于左：空海的真言宗佛教设定了四种 **作为** 法身本身的身相。这一“四种法身”（*shish"
+   ]
+  },
+  {
+   "slug": "quine-nf",
+   "state": "s2.5_checked",
+   "kind": "retranslate",
+   "zh_doc": "q/quine-nf.md",
+   "status": "red",
+   "hard": [
+    "curly-quotes: 右引号先于左引号: u{\\text{’}}) + 1$；若 $",
+    "curly-quotes: 右引号先于左引号: v{\\text{’}}) = \\sigma("
+   ],
+   "warn": [
+    "bracket-pair: （） 右先于左：NF 研究的早期（1937—1952），谁也不知道 NF 到底证不证得出无穷公理。斯佩克"
+   ]
+  },
+  {
+   "slug": "zhu-xi",
+   "state": "r2_reviewed",
+   "kind": "retranslate",
+   "zh_doc": "z/zhu-xi.md",
+   "status": "green",
+   "hard": [],
+   "warn": []
+  }
+ ]
+}
