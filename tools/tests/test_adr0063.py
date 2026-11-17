@@ -3,6 +3,7 @@
 
 跑法: python -m unittest tools.tests.test_adr0063 -v
 """
+import io
 import json
 import os
 import sys
@@ -249,6 +250,41 @@ class TestNoteSection(unittest.TestCase):
         text = self._full("> 引文里不应计锚 ①\n\n[^k]: 定义行 ②\n\n第一句。①",
                           "① 位置：首段。说明。\n")
         self.assertEqual(self._issues(text), [])
+
+class TestGateStateScope(unittest.TestCase):
+    """第 13 项状态感知（ADR-0063）：只有 ≥s2.4 的件硬拦，其余告警不拦。"""
+
+    def _run(self, state):
+        import check_pairs as cp
+        old_state, old_file, old_out = cp._task_state, cp.check_file, sys.stdout
+        cp._task_state = lambda p: state
+        cp.check_file = lambda p: [{"path": p, "line": 0, "rule": "tail-order", "detail": "x"}]
+        buf = io.StringIO()
+        sys.stdout = buf
+        try:
+            rc = cp.main(["--gate", "a/x.md"])
+        finally:
+            cp._task_state, cp.check_file, sys.stdout = old_state, old_file, old_out
+        return rc, json.loads(buf.getvalue())
+
+    def test_in_scope_blocks(self):
+        rc, out = self._run("s2.5_checked")
+        self.assertEqual(rc, 1)
+        self.assertEqual(out["gate"]["hard_in_scope"], 1)
+
+    def test_s24_state_blocks(self):
+        rc, _out = self._run("s2.4_termchecked")
+        self.assertEqual(rc, 1)
+
+    def test_out_of_scope_warns(self):
+        rc, out = self._run("cleared")
+        self.assertEqual(rc, 0)
+        self.assertEqual(out["gate"]["out_of_scope_warn"], 1)
+
+    def test_no_task_warns(self):
+        rc, out = self._run(None)
+        self.assertEqual(rc, 0)
+        self.assertEqual(out["gate"]["out_of_scope_warn"], 1)
 
 
 if __name__ == "__main__":

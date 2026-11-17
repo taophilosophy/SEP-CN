@@ -47,6 +47,7 @@ GATES = [
     ("公式体例总检", "mathzh", "tools/check_math_zh.py --strict"),
     ("原始物分歧账", "divergence", "tools/divergence.py verify"),
     ("转换保真（yuanwen≡基线）", "fidelity", "tools/check_yuanwen_fidelity.py --gate"),
+    ("中文体例归一（s2.4 三轴结构面）", "style", "tools/check_pairs.py --gate --all"),
 ]
 UNIT_TESTS = ("管线单元测试", "unittest", "-m unittest discover -s tools/tests")
 OPTIONAL = [

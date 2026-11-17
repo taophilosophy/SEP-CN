@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 """格式配对与一致性预检（告警级，不进 CI；ADR-0045 流程增补）。
 
-用法: python tools/check_pairs.py <路径>... [--strict]
+用法: python tools/check_pairs.py <路径>... | --all [--strict] [--gate]
+
+--all 枚举全库词条（`[0-9a-z]/*.md`）；--gate 只对体例轴硬档计退出码，且**状态感知**
+（ADR-0063 第 13 项）：仅 ≥s2.4_termchecked 的件硬拦，未到体例面与无任务件按告警计。
 输出: stdout JSON {files, issues:[{path,line,rule,detail}]}
 
 规则（启发式清单，GB/T 15834/15289/26514 与业界引用一致性检查器启发）:
@@ -528,19 +531,58 @@ def check_file(path):
     return issues
 
 
+GATE_STATES = ("s2.4_termchecked", "s2.5_checked", "s3_checked", "r1_reviewed",
+               "r2_reviewed", "r3_reviewed", "done")
+
+
+def _task_state(path):
+    """zh 文件 → 任务状态（无任务返回 None）。
+
+    体例硬门状态感知（ADR-0063 第 13 项）：只有已进入体例面（≥s2.4_termchecked）
+    的件才硬拦；未到该阶段的件（pending/cleared/…）与无任务件（别名桩、补充材料
+    子文档）按告警计——它们走到 s2.4/s2.5 时必被 `_style_gate` 拦，硬门不替人
+    逼未完成件的债，只防已成件的新劣化。
+    """
+    name = os.path.basename(path)
+    slug = name[:-3] if name.endswith(".md") else name
+    letter = os.path.basename(os.path.dirname(os.path.abspath(path)))
+    root = os.path.dirname(os.path.dirname(os.path.abspath(path)))
+    for d in (os.path.join(root, "tasks", letter), os.path.join("tasks", letter)):
+        cand = os.path.join(d, slug + ".json")
+        if os.path.exists(cand):
+            try:
+                with open(cand, encoding="utf-8") as f:
+                    return json.load(f).get("state")
+            except Exception:
+                return None
+    return None
+
+
 def main(argv):
-    args = [a for a in argv if a not in ("--strict", "--gate")]
+    args = [a for a in argv if a not in ("--strict", "--gate", "--all")]
     strict = "--strict" in argv
     gate = "--gate" in argv
+    if "--all" in argv:
+        import glob
+        args = sorted(glob.glob("[0-9a-z]/*.md"))
     if not args:
         print(__doc__)
         return 2
     issues = []
     for p in args:
         issues.extend(check_file(p))
-    print(json.dumps({"files": len(args), "issues": issues}, ensure_ascii=False, indent=1))
+    out = {"files": len(args), "issues": issues}
     if gate:
-        return 1 if any(i["rule"] in HARD_RULES for i in issues) else 0
+        hard = [i for i in issues if i["rule"] in HARD_RULES]
+        in_scope, out_scope = [], []
+        for i in hard:
+            (in_scope if _task_state(i["path"]) in GATE_STATES else out_scope).append(i)
+        out["gate"] = {"hard_in_scope": len(in_scope),
+                       "out_of_scope_warn": len(out_scope),
+                       "scope_states": list(GATE_STATES)}
+        print(json.dumps(out, ensure_ascii=False, indent=1))
+        return 1 if in_scope else 0
+    print(json.dumps(out, ensure_ascii=False, indent=1))
     return 1 if strict and issues else 0
 
 
