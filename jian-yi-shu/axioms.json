@@ -1,0 +1,535 @@
+{
+  "schema": "sep-axioms/v1",
+  "status": "proposal",
+  "date": "2026-11-18",
+  "revision": "整合三套编号：specs/041 的 A1–A14、specs/042 的 C1–C29、specs/043 的 A–J 谓词组。公理重编为 P1–P27，C13／C14 降为定理（可由结构推出），谓词编号保持 A–J 不动。",
+  "note": "公理管“必须怎样”，谓词管“是否满足”。二者不同层，不合并，只建立映射。",
+  "check_kinds": {
+    "struct": "由 35 项结构谓词直接检查（bin/verify_pipeline.py）",
+    "gate": "由 tools/ 下的检查器检查",
+    "audit": "由人工审查节点检查（R1–R3 等）",
+    "discipline": "无自动检查，靠会话纪律与事后抽检"
+  },
+  "groups": [
+    {
+      "id": "I",
+      "name": "真相",
+      "question": "字节可不可信"
+    },
+    {
+      "id": "II",
+      "name": "记录",
+      "question": "历史可不可重放"
+    },
+    {
+      "id": "III",
+      "name": "结构",
+      "question": "主干可不可判"
+    },
+    {
+      "id": "IV",
+      "name": "前置链",
+      "question": "转换忠不忠实"
+    },
+    {
+      "id": "V",
+      "name": "并发分支",
+      "question": "返工会不会污染主干"
+    },
+    {
+      "id": "VI",
+      "name": "机器",
+      "question": "判据可不可改"
+    }
+  ],
+  "axioms": [
+    {
+      "id": "P1",
+      "group": "I",
+      "stmt": "P1 节点完成即锁 Pin(e)，此后 en/ 字节不得改动",
+      "check": {
+        "kind": "gate",
+        "ref": "divergence.py"
+      },
+      "source": [
+        "C1"
+      ],
+      "note": "ADR-0027 起 en/ 入库，冻结由门禁守"
+    },
+    {
+      "id": "P2",
+      "group": "I",
+      "stmt": "译文命题的唯一裁决对象是 En(e)；旧译、缓存、记忆均不作底稿",
+      "check": {
+        "kind": "discipline",
+        "ref": null
+      },
+      "source": [
+        "C2"
+      ],
+      "note": "零信任（宪法 I）；无机器判据，靠会话遵守与抽检"
+    },
+    {
+      "id": "P3",
+      "group": "I",
+      "stmt": "yuanwen 只许格式层偏离 en；实质差异禁入 markdown",
+      "check": {
+        "kind": "gate",
+        "ref": "check_yuanwen_fidelity.py"
+      },
+      "source": [
+        "C3"
+      ],
+      "note": "I2／I3 两条不变量"
+    },
+    {
+      "id": "P4",
+      "group": "II",
+      "stmt": "每条目可追溯到三元钉：pubinfo 日期、存档版名、SHA-256",
+      "check": {
+        "kind": "gate",
+        "ref": "baseline_audit.py"
+      },
+      "source": [
+        "C4"
+      ],
+      "note": "version_pin 字段"
+    },
+    {
+      "id": "P5",
+      "group": "II",
+      "stmt": "事件只追加；撤销以 invalidate 追加，不删除既有事件",
+      "check": {
+        "kind": "discipline",
+        "ref": null
+      },
+      "source": [
+        "C5"
+      ],
+      "note": "journal 落地前由 task_ops 的 steps 保证；落地后由 journal_ops 唯一写入保证"
+    },
+    {
+      "id": "P6",
+      "group": "II",
+      "stmt": "Done／Head／stale／进度比均为派生量，不得回写为事实",
+      "check": {
+        "kind": "discipline",
+        "ref": null
+      },
+      "source": [
+        "C6"
+      ],
+      "note": "progress.py 只读；落地前为设计约束"
+    },
+    {
+      "id": "P7",
+      "group": "III",
+      "stmt": "流程分 Seg1／Seg2／Seg3，全序；增段须改 ADR",
+      "check": {
+        "kind": "struct",
+        "ref": [
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6"
+        ]
+      },
+      "source": [
+        "C7"
+      ],
+      "note": "链闭合（首尾唯一、无环、全覆盖）＋段号非降且段内连续"
+    },
+    {
+      "id": "P8",
+      "group": "III",
+      "stmt": "段内任意相邻节点之间均可插入新节点；插入不改既有节点的相对序与标识",
+      "check": {
+        "kind": "struct",
+        "ref": [
+          "A1",
+          "A7",
+          "J3"
+        ]
+      },
+      "source": [
+        "C8"
+      ],
+      "note": "插入只改 prev 指针；链唯一、出度不超 1、节点 id 唯一，三者共同保证插而不乱"
+    },
+    {
+      "id": "P9",
+      "group": "III",
+      "stmt": "节点类型（pipe／stage／review／format）唯一决定判据来源与降级策略；类型不决定能否插入",
+      "check": {
+        "kind": "struct",
+        "ref": [
+          "H1",
+          "B1",
+          "B2",
+          "B3",
+          "F1",
+          "F2"
+        ]
+      },
+      "source": [
+        "C9"
+      ],
+      "note": "类型值域、判据硬拦唯一与双向登记、降级策略值域；replace 档须有承接"
+    },
+    {
+      "id": "P10",
+      "group": "III",
+      "stmt": "{R1,R2,R3} 为必选最小集，可增不可减、不可跳过",
+      "check": {
+        "kind": "struct",
+        "ref": [
+          "C1",
+          "C2",
+          "C3",
+          "H2"
+        ]
+      },
+      "source": [
+        "C10"
+      ],
+      "note": "强制集含 R 链、有承接；review 类必须属强制"
+    },
+    {
+      "id": "P11",
+      "group": "III",
+      "stmt": "Seg(n+1) 的输入必须等于 Seg(n) 的出口产物",
+      "check": {
+        "kind": "struct",
+        "ref": [
+          "G1"
+        ]
+      },
+      "source": [
+        "C11"
+      ],
+      "note": "段首 prev 必须是上段链尾"
+    },
+    {
+      "id": "P12",
+      "group": "III",
+      "stmt": "每段以格式闭合收口；格式问题不得跨段传染",
+      "check": {
+        "kind": "struct",
+        "ref": [
+          "G2"
+        ]
+      },
+      "source": [
+        "C12"
+      ],
+      "note": "段尾为 format，或显式声明 absorbs_format"
+    },
+    {
+      "id": "P13",
+      "group": "IV",
+      "stmt": "Seg1 之后的一切环节输入必须是 P1 锁定的同一 sha",
+      "check": {
+        "kind": "gate",
+        "ref": "en_integrity.py"
+      },
+      "source": [
+        "C15"
+      ],
+      "note": "单钉输入"
+    },
+    {
+      "id": "P14",
+      "group": "IV",
+      "stmt": "yuanwen = convert(en ⊕ patches) 可确定性重算",
+      "check": {
+        "kind": "gate",
+        "ref": "check_yuanwen_fidelity.py"
+      },
+      "source": [
+        "C16"
+      ],
+      "note": "可重放"
+    },
+    {
+      "id": "P15",
+      "group": "IV",
+      "stmt": "正向验转换等值，反向验渲染结构同构",
+      "check": {
+        "kind": "gate",
+        "ref": "check_yuanwen_fidelity.py"
+      },
+      "source": [
+        "C17"
+      ],
+      "note": "P3 双轴的形式来源"
+    },
+    {
+      "id": "P16",
+      "group": "IV",
+      "stmt": "差异必属 format_only 或 substantive；无法归类从宽判 substantive",
+      "check": {
+        "kind": "gate",
+        "ref": "check_en_patches.py"
+      },
+      "source": [
+        "C18"
+      ],
+      "note": "二分律"
+    },
+    {
+      "id": "P17",
+      "group": "IV",
+      "stmt": "format_only 只以虚拟补丁表达，物理文件均不改",
+      "check": {
+        "kind": "gate",
+        "ref": "check_en_patches.py"
+      },
+      "source": [
+        "C19"
+      ],
+      "note": "补丁池"
+    },
+    {
+      "id": "P18",
+      "group": "IV",
+      "stmt": "substantive 只入全局勘误表与中文译注",
+      "check": {
+        "kind": "gate",
+        "ref": "divergence.py"
+      },
+      "source": [
+        "C20"
+      ],
+      "note": "ADR-0062"
+    },
+    {
+      "id": "P19",
+      "group": "V",
+      "stmt": "并发以 (entry, section) 为写单元，同一单元单写者",
+      "check": {
+        "kind": "discipline",
+        "ref": null
+      },
+      "source": [
+        "C21"
+      ],
+      "note": "落地后由 claim 租约实现"
+    },
+    {
+      "id": "P20",
+      "group": "V",
+      "stmt": "返工在独立 attempt 中进行，merge 前不影响主干",
+      "check": {
+        "kind": "discipline",
+        "ref": null
+      },
+      "source": [
+        "C22"
+      ],
+      "note": "分支隔离"
+    },
+    {
+      "id": "P21",
+      "group": "V",
+      "stmt": "merge 只追加事件，不改写主干历史",
+      "check": {
+        "kind": "discipline",
+        "ref": null
+      },
+      "source": [
+        "C23"
+      ],
+      "note": "合并单向"
+    },
+    {
+      "id": "P22",
+      "group": "V",
+      "stmt": "同一写单元的认领唯一且有租期",
+      "check": {
+        "kind": "gate",
+        "ref": "campaign.py"
+      },
+      "source": [
+        "C24"
+      ],
+      "note": "认领互斥"
+    },
+    {
+      "id": "P23",
+      "group": "V",
+      "stmt": "返工分支只含需返工的条目，不得全量开分支",
+      "check": {
+        "kind": "discipline",
+        "ref": null
+      },
+      "source": [
+        "C25"
+      ],
+      "note": "分支最小化"
+    },
+    {
+      "id": "P24",
+      "group": "VI",
+      "stmt": "判官只读：检查器不修改被检对象",
+      "check": {
+        "kind": "discipline",
+        "ref": null
+      },
+      "source": [
+        "C26"
+      ],
+      "note": "A11 承继；可由代码审查抽检"
+    },
+    {
+      "id": "P25",
+      "group": "VI",
+      "stmt": "显式失败：缺字段、缺源、缺判据一律硬失败，不静默兜底",
+      "check": {
+        "kind": "struct",
+        "ref": [
+          "J1",
+          "J2",
+          "B4"
+        ]
+      },
+      "source": [
+        "C27"
+      ],
+      "note": "J 组查输入卫生，B4 查判据非空"
+    },
+    {
+      "id": "P26",
+      "group": "VI",
+      "stmt": "先登记后使用；禁机械替换，改动须回源逐句",
+      "check": {
+        "kind": "gate",
+        "ref": "check_terms.py"
+      },
+      "source": [
+        "C28"
+      ],
+      "note": "术语主形与登记册一致"
+    },
+    {
+      "id": "P27",
+      "group": "VI",
+      "stmt": "结构化落盘写后读回核验",
+      "check": {
+        "kind": "discipline",
+        "ref": null
+      },
+      "source": [
+        "C29"
+      ],
+      "note": "A14 承继；journal_ops 落地时实现"
+    },
+    {
+      "id": "P28",
+      "group": "II",
+      "stmt": "单一事实源：节点集、判据归属、强制集各只有一处定义，其余为引用",
+      "check": {
+        "kind": "struct",
+        "ref": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ]
+      },
+      "source": [
+        "宪法 III"
+      ],
+      "note": "整合时新增：C 系列遗漏了这条宪法级原则，而 E 组谓词一直在检查它。此前 journal-schema 与 pipeline 各写一套节点（18 vs 17）即违反此条"
+    }
+  ],
+  "theorems": [
+    {
+      "id": "T1",
+      "stmt": "阶段单调：Done(e) 只增不减（除 invalidate 扣除）",
+      "from": [
+        "P5"
+      ],
+      "proof": "P5 规定事件只追加；D(e,a) 定义为 last(e,a,n).k = pass，追加 pass 只会扩大 D，追加 invalidate 才缩小。故单调性由 P5 与 last 语义共同推出，不需独立公理。",
+      "retired_from": "C13"
+    },
+    {
+      "id": "T2",
+      "stmt": "饱和相对性：saturate(e) ⟺ D(e) ⊇ N ∪ M，且随节点可插而随时可变假",
+      "from": [
+        "P8",
+        "P10"
+      ],
+      "proof": "这是 sat 的定义，不是公理。其“随时可变假”的性质由 P8（节点可插，故 N 可增长）推出。",
+      "retired_from": "C14"
+    }
+  ],
+  "retired": [
+    {
+      "old": "C13",
+      "new": "T1",
+      "reason": "可由 P5 与 last 语义推出，降为定理"
+    },
+    {
+      "old": "C14",
+      "new": "T2",
+      "reason": "是定义不是公理，其动态性质由 P8 推出"
+    },
+    {
+      "old": "A1–A14",
+      "new": "P1–P27",
+      "reason": "specs/041 的十四条被 C 系列吸收后重编；A 前缀让位给谓词组，避免同名不同义"
+    },
+    {
+      "old": "C1–C29",
+      "new": "P1–P27 + T1 + T2",
+      "reason": "重编号消除与谓词 C 组的撞号"
+    },
+    {
+      "old": "（无编号）",
+      "new": "P28",
+      "reason": "C 系列未单列单一事实源，但宪法 III 与 E 组谓词都要求；整合时补入"
+    }
+  ],
+  "predicate_groups": {
+    "note": "35 项结构谓词，编号不动；此处只记录它们服务于哪些公理",
+    "A": "结构（链唯一、无环、出度、覆盖、段单调连续）→ P7 P8",
+    "B": "判据（硬拦唯一、双向登记、非空）→ P9 P25",
+    "C": "强制（子集、R 链、有承接）→ P10",
+    "D": "覆盖（要求承接、非空挂、独占）→ 服务充分性，不对应单条公理",
+    "E": "单一源（不内嵌、引用相符）→ P6",
+    "F": "降级（值域、replace 有承接）→ P9",
+    "G": "契约（段首接链尾、段尾闭合）→ P11 P12",
+    "H": "类型（值域、review 必强制）→ P9 P10",
+    "I": "完备（产物与动作非空）→ 服务可执行性",
+    "J": "卫生（无重复键、id 唯一）→ P25"
+  },
+  "service_only_predicates": {
+    "note": "这些谓词检查的是验证目标本身（充分性与可执行性），不对应某条规范公理，故不被公理引用",
+    "ids": [
+      "D1",
+      "D2",
+      "D3",
+      "D4",
+      "D5",
+      "D6",
+      "I1",
+      "I2"
+    ],
+    "reason": "D 组检验 18 条要求是否各有承接，属充分性判据；I 组检验节点是否可执行（有产物、有动作）。二者服务整个验证目的，而非某一条“必须怎样”的规范。"
+  },
+  "coverage_expectation": {
+    "note": "可检率 = (struct + gate + audit) / 全部公理。discipline 类为已知缺口，不是遗漏。",
+    "discipline_ids": [
+      "P2",
+      "P5",
+      "P6",
+      "P19",
+      "P20",
+      "P21",
+      "P23",
+      "P24",
+      "P27"
+    ]
+  }
+}

@@ -3,8 +3,12 @@
  "nodes": 16,
  "requirements": 18,
  "producers": 4,
- "total": 35,
- "passed": 35,
+ "axioms": 28,
+ "theorems": 2,
+ "checkable_axioms": 19,
+ "discipline_axioms": 9,
+ "total": 51,
+ "passed": 51,
  "failed": 0,
  "results": [
   {
@@ -216,6 +220,102 @@
    "name": "J3 节点 id 唯一",
    "ok": true,
    "detail": "节点 16 唯一 id 16"
+  },
+  {
+   "group": "K",
+   "name": "K1 axioms 无重复键",
+   "ok": true,
+   "detail": "重复=无"
+  },
+  {
+   "group": "K",
+   "name": "K2 公理编号连续",
+   "ok": true,
+   "detail": "编号=[1, 2, 3, '…', 27, 28]"
+  },
+  {
+   "group": "K",
+   "name": "K3 检查类型合法",
+   "ok": true,
+   "detail": "非法=无"
+  },
+  {
+   "group": "K",
+   "name": "K4 struct 引用真实谓词",
+   "ok": true,
+   "detail": "悬挂=无"
+  },
+  {
+   "group": "K",
+   "name": "K5 gate 引用真实检查器",
+   "ok": true,
+   "detail": "悬挂=无"
+  },
+  {
+   "group": "K",
+   "name": "K6 每条公理有来源",
+   "ok": true,
+   "detail": "缺源=无"
+  },
+  {
+   "group": "K",
+   "name": "K7 谓词反向完备（无孤立谓词）",
+   "ok": true,
+   "detail": "未被任何公理引用=无"
+  },
+  {
+   "group": "K",
+   "name": "K8 定理引用真实公理",
+   "ok": true,
+   "detail": "悬挂=无"
+  },
+  {
+   "group": "K",
+   "name": "K9 退役条目有去向",
+   "ok": true,
+   "detail": "无去向=无"
+  },
+  {
+   "group": "K",
+   "name": "K10 discipline 清单与实际一致",
+   "ok": true,
+   "detail": "声明-实际=[] 实际-声明=[]"
+  },
+  {
+   "group": "L",
+   "name": "L1 执行书自述块存在且可解析",
+   "ok": true,
+   "detail": "claims={'axioms': '28', 'theorems': '2', 'nodes': '16', 'predicates': '35', 'requirements': '18'}"
+  },
+  {
+   "group": "L",
+   "name": "L2 axioms 与实算一致",
+   "ok": true,
+   "detail": "文档=28 实算=28"
+  },
+  {
+   "group": "L",
+   "name": "L2 nodes 与实算一致",
+   "ok": true,
+   "detail": "文档=16 实算=16"
+  },
+  {
+   "group": "L",
+   "name": "L2 predicates 与实算一致",
+   "ok": true,
+   "detail": "文档=35 实算=35"
+  },
+  {
+   "group": "L",
+   "name": "L2 requirements 与实算一致",
+   "ok": true,
+   "detail": "文档=18 实算=18"
+  },
+  {
+   "group": "L",
+   "name": "L2 theorems 与实算一致",
+   "ok": true,
+   "detail": "文档=2 实算=2"
   }
  ]
 }

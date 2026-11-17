@@ -1,27 +1,38 @@
 # -*- coding: utf-8 -*-
-"""总执行书的公理化验证：把 22 条谓词写成可执行判定，对 pipeline-17.json 逐条算。
+"""总执行书的公理化验证：把 51 条谓词写成可执行判定，对四份输入逐条算。
 
 为何需要：文档里"充分""融洽"是断言，不是结论。只有把每条性质写成返回布尔值的
 纯函数，并对真实数据求值，才能说"成立"。本脚本不含推断，只做集合与函数计算。
 
+输入：
+  pipeline-17.json     16 个作业节点与判据归属
+  journal-schema.json  事件模型（节点集只引用，不内嵌）
+  axioms.json          28 条公理、2 条定理与谓词映射
+  zong-zhi-xing-shu.md 总执行书的自述块
+
 判据分组：
-  A 结构（链的唯一性、无环、覆盖、段单调与连续）
+  A 结构（链的唯一性、无环、覆盖、段单调与连续、出度）
   B 判据（硬拦唯一、双向登记完备、非空）
   C 强制（最小集存在性、R 链在集内、强制节点有承接）
-  D 覆盖（每个要求有节点、每个节点有归属）—— 充分性
-  E 单一源（与 journal-schema 不构成双源）
+  D 覆盖（每个要求有节点、每个节点有归属、承接体非空、独占）—— 充分性
+  E 单一源（不内嵌、引用相符、强制集一致）
   F 降级（值域、replace 需有判据承接）
   G 段契约（段首接上段尾、段尾闭合）
   H 类型（值域、review 必强制）
   I 完备（产物与动作非空）
+  J 输入卫生（JSON 无重复键、节点 id 唯一）
+  K 公理登记（编号、类型、引用、来源、定理、退役、纪律清单）
+  L 文档自述（总执行书声明的数量与实算一致）
 
 用法: python specs/043-pipeline-axioms/bin/verify_pipeline.py [--json PATH]
+      [--pipe PATH] [--schema PATH] [--plan PATH]
 退出码: 0 全部通过；1 存在违反；2 输入缺失。
 """
 import argparse
 import io
 import json
 import os
+import re
 import sys
 
 if getattr(sys.stdout, "encoding", None) and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
@@ -33,6 +44,8 @@ if getattr(sys.stdout, "encoding", None) and sys.stdout.encoding.lower() not in 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 PIPE = os.path.join(ROOT, "jian-yi-shu", "pipeline-17.json")
 SCHEMA = os.path.join(ROOT, "jian-yi-shu", "journal-schema.json")
+AXIOMS = os.path.join(ROOT, "jian-yi-shu", "axioms.json")
+PLAN = os.path.join(ROOT, "jian-yi-shu", "zong-zhi-xing-shu.md")
 
 TYPES = {"pipe", "stage", "review", "format"}
 REPLAY = {"widen", "tighten", "replace"}
@@ -90,12 +103,15 @@ def main():
     ap.add_argument("--json", default=None)
     ap.add_argument("--pipe", default=PIPE, help="被验的 pipeline JSON（负向测试用）")
     ap.add_argument("--schema", default=SCHEMA, help="被验的 journal schema JSON")
+    ap.add_argument("--plan", default=PLAN, help="被验的总执行书 Markdown")
     args = ap.parse_args()
+
+    plan_path = args.plan if os.path.isabs(args.plan) else os.path.join(ROOT, args.plan)
 
     pipe_path = args.pipe if os.path.isabs(args.pipe) else os.path.join(ROOT, args.pipe)
     schema_path = args.schema if os.path.isabs(args.schema) else os.path.join(ROOT, args.schema)
 
-    for p in (pipe_path, schema_path):
+    for p in (pipe_path, schema_path, AXIOMS):
         if not os.path.exists(p):
             print("输入缺失: %s" % p, file=sys.stderr)
             return 2
@@ -111,9 +127,13 @@ def main():
     owner = {k: v for k, v in pipe["criteria_owner"].items() if k != "note"}
 
     rows = []
+    pred_ids = set()
 
     def rec(g, name, ok, detail=""):
         rows.append({"group": g, "name": name, "ok": bool(ok), "detail": detail})
+        m = re.match(r"^([A-J])(\d+)\s", name)
+        if m:
+            pred_ids.add(m.group(1) + m.group(2))
 
     # ---------- A 结构 ----------
     heads = [i for i in order if not by[i].get("prev")]
@@ -295,6 +315,87 @@ def main():
     rec("J", "J2 journal-schema 无重复键", not dup_s, "重复=%s" % (sorted(set(dup_s)) or "无"))
     rec("J", "J3 节点 id 唯一", len(ids) == len(nodes), "节点 %d 唯一 id %d" % (len(nodes), len(ids)))
 
+    # ---------- K 公理登记册 ----------
+    ax, dup_ax = load(AXIOMS)
+    axs = ax.get("axioms", [])
+    ths = ax.get("theorems", [])
+    ax_ids = [a["id"] for a in axs]
+    th_ids = [t["id"] for t in ths]
+    KINDS = set(ax.get("check_kinds", {}).keys())
+
+    rec("K", "K1 axioms 无重复键", not dup_ax, "重复=%s" % (sorted(set(dup_ax)) or "无"))
+
+    nums = sorted(int(i[1:]) for i in ax_ids if i.startswith("P") and i[1:].isdigit())
+    rec("K", "K2 公理编号连续", nums == list(range(1, len(nums) + 1)),
+        "编号=%s" % (nums[:3] + ["…"] + nums[-2:] if len(nums) > 5 else nums))
+
+    bad_kind = [a["id"] for a in axs if a["check"]["kind"] not in KINDS]
+    rec("K", "K3 检查类型合法", not bad_kind, "非法=%s" % (bad_kind or "无"))
+
+    dangling_pred, dangling_gate = [], []
+    for a in axs:
+        k, r = a["check"]["kind"], a["check"]["ref"]
+        if k == "struct":
+            refs = r if isinstance(r, list) else [r]
+            dangling_pred += ["%s->%s" % (a["id"], x) for x in refs if x not in pred_ids]
+        elif k == "gate" and r:
+            if not os.path.exists(os.path.join(ROOT, "tools", r)):
+                dangling_gate.append("%s->%s" % (a["id"], r))
+    rec("K", "K4 struct 引用真实谓词", not dangling_pred, "悬挂=%s" % (dangling_pred or "无"))
+    rec("K", "K5 gate 引用真实检查器", not dangling_gate, "悬挂=%s" % (dangling_gate or "无"))
+
+    no_src = [a["id"] for a in axs if not a.get("source")]
+    rec("K", "K6 每条公理有来源", not no_src, "缺源=%s" % (no_src or "无"))
+
+    referenced = set()
+    for a in axs:
+        if a["check"]["kind"] == "struct":
+            r = a["check"]["ref"]
+            referenced |= set(r if isinstance(r, list) else [r])
+    svc = set(ax.get("service_only_predicates", {}).get("ids", []))
+    unref = sorted(pred_ids - referenced - svc)
+    rec("K", "K7 谓词反向完备（无孤立谓词）", not unref, "未被任何公理引用=%s" % (unref or "无"))
+
+    bad_from = []
+    for t in ths:
+        bad_from += ["%s->%s" % (t["id"], f) for f in t.get("from", []) if f not in ax_ids]
+    rec("K", "K8 定理引用真实公理", not bad_from, "悬挂=%s" % (bad_from or "无"))
+
+    pool = set(ax_ids) | set(th_ids)
+    bad_ret = [x["old"] for x in ax.get("retired", [])
+               if not any(p in (x.get("new") or "") for p in pool)]
+    rec("K", "K9 退役条目有去向", not bad_ret, "无去向=%s" % (bad_ret or "无"))
+
+    declared_disc = set(ax.get("coverage_expectation", {}).get("discipline_ids", []))
+    actual_disc = {a["id"] for a in axs if a["check"]["kind"] == "discipline"}
+    rec("K", "K10 discipline 清单与实际一致", declared_disc == actual_disc,
+        "声明-实际=%s 实际-声明=%s" % (sorted(declared_disc - actual_disc), sorted(actual_disc - declared_disc)))
+
+    # ---------- L 总执行书自述一致 ----------
+    if os.path.exists(plan_path):
+        with open(plan_path, encoding="utf-8") as fh:
+            txt = fh.read()
+        m = re.search(r"<!--\s*verify:(.*?)-->", txt, re.S)
+        claims = {}
+        if m:
+            for kv in m.group(1).split():
+                if "=" in kv:
+                    k, v = kv.strip().split("=", 1)
+                    claims[k] = v
+        actual = {
+            "axioms": len(axs),
+            "theorems": len(ths),
+            "nodes": len(nodes),
+            "predicates": len(pred_ids),
+            "requirements": len(REQUIREMENTS),
+        }
+        rec("L", "L1 执行书自述块存在且可解析", bool(claims), "claims=%s" % (claims or "无"))
+        for k, v in sorted(actual.items()):
+            rec("L", "L2 %s 与实算一致" % k,
+                claims.get(k) == str(v), "文档=%s 实算=%s" % (claims.get(k), v))
+    else:
+        rec("L", "L1 总执行书存在", False, "未找到 %s" % plan_path)
+
     # ---------- 汇总 ----------
     fails = [r for r in rows if not r["ok"]]
     width = max(len(r["name"]) for r in rows)
@@ -302,13 +403,22 @@ def main():
         flag = "PASS" if r["ok"] else "FAIL"
         print("[%s] %-*s  %s" % (r["group"], width, r["name"], flag) +
               ("" if r["ok"] else "  -> " + r["detail"]))
-    print("\n汇总：%d 项，通过 %d，失败 %d" % (len(rows), len(rows) - len(fails), len(fails)))
+
+    checkable = sum(1 for a in axs if a["check"]["kind"] in ("struct", "gate", "audit"))
+    rate = (100.0 * checkable / len(axs)) if axs else 0.0
+    print("\n公理：%d 条，定理 %d 条；可机检/人检 %d 条（%.0f%%），纯纪律 %d 条"
+          % (len(axs), len(ths), checkable, rate, len(axs) - checkable))
+    print("汇总：%d 项，通过 %d，失败 %d" % (len(rows), len(rows) - len(fails), len(fails)))
 
     out = {
         "pipeline": os.path.relpath(pipe_path, ROOT).replace("\\", "/"),
         "nodes": len(nodes),
         "requirements": len(REQUIREMENTS),
         "producers": len(PRODUCERS),
+        "axioms": len(axs),
+        "theorems": len(ths),
+        "checkable_axioms": checkable,
+        "discipline_axioms": len(axs) - checkable,
         "total": len(rows),
         "passed": len(rows) - len(fails),
         "failed": len(fails),
