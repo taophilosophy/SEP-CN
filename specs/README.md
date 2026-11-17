@@ -45,8 +45,8 @@
 | [038-bilingual-compare](038-bilingual-compare/spec.md) | 中英比较界面重做（specs/038） | — | — | ✓ | 单文件 |
 | [039-md-standardization](039-md-standardization/spec.md) | 中文 Markdown 标准化（s2.4 三轴与派生保真） | — | ✓ | ✓ | 单文件 |
 | [040-coherence-audit](040-coherence-audit/spec.md) | 全系统融洽性审计（数理逻辑证明＋计算） | 进行中 | ✓ | ✓ | 单文件 |
-| [041-axiom-system](041-axiom-system/spec.md) | 项目公理体系与形式化充分性审计 | 进行中 | ✓ | ✓ | 单文件 |
-| [042-progress-model-v2](042-progress-model-v2/spec.md) | 进度模型重建（v3 · 三段 · 节点可插 · 类型定判据） | 草案（待用户裁定） | ✓ | ✓ | — |
+| [041-axiom-system](041-axiom-system/spec.md) | 项目公理体系与形式化充分性审计（存根） | 已整合（存根） | ✓ | ✓ | 单文件 |
+| [042-progress-model-v2](042-progress-model-v2/spec.md) | 进度模型重建（v3 · 三段 · 节点可插 · 类型定判据） | 已整合（C 系列并入 `rules/axioms.json` P 系列；三级结构落地为 `rules/pipeline.json`） | ✓ | ✓ | — |
 | [043-pipeline-axioms](043-pipeline-axioms/spec.md) | 总执行书的公理化验证 | — | ✓ | ✓ | — |
 
 共 42 个规格目录。

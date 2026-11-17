@@ -5,14 +5,14 @@
 ## 内容
 
 * 每个词条一个文件：`journal/<letter>/<slug>.ndjson`，每行一个事件，按 `seq` 递增，只追加（P5）。
-* 事件六类（`jian-yi-shu/journal-schema.json` 定义）：`lock`（源钉）、`pass`（节点判据通过）、`fail`（节点判据失败）、`rework`（开返工分支）、`merge`（分支合回）、`import`（迁移期合成快照，`synthetic:true`）。
+* 事件六类（`rules/journal-schema.json` 定义）：`lock`（源钉）、`pass`（节点判据通过）、`fail`（节点判据失败）、`rework`（开返工分支）、`merge`（分支合回）、`import`（迁移期合成快照，`synthetic:true`）。
 * 本目录由 `tools/journal_migrate.py`（一次性迁移，ADR-0068 W1）生成；后续推进由 `tools/journal_ops.py` 写入（W3 起）。
 
 ## 怎么读
 
 * 派生视图：`python tools/journal_view.py`（只读，不写文件）。
 * 节点集与判据归属：`rules/pipeline.json`（唯一事实源，`tools/check_stages.py` 校验）。
-* 事件模型：`jian-yi-shu/journal-schema.json`。
+* 事件模型：`rules/journal-schema.json`。
 
 ## 迁移口径（2026-11-18）
 

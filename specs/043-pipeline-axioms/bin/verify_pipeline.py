@@ -43,8 +43,8 @@ if getattr(sys.stdout, "encoding", None) and sys.stdout.encoding.lower() not in 
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 PIPE = os.path.join(ROOT, "rules", "pipeline.json")
-SCHEMA = os.path.join(ROOT, "jian-yi-shu", "journal-schema.json")
-AXIOMS = os.path.join(ROOT, "jian-yi-shu", "axioms.json")
+SCHEMA = os.path.join(ROOT, "rules", "journal-schema.json")
+AXIOMS = os.path.join(ROOT, "rules", "axioms.json")
 PLAN = os.path.join(ROOT, "jian-yi-shu", "zong-zhi-xing-shu.md")
 
 TYPES = {"pipe", "stage", "review", "format"}

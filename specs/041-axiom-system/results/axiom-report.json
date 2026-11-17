@@ -1,6 +1,6 @@
 {
  "schema": "sep-cn-axiom-audit/1",
- "at": "2026-11-17T01:08:59Z",
+ "at": "2026-11-17T23:00:22Z",
  "axioms": 14,
  "forward_norms": 33,
  "phi_goals": 8,
@@ -13,7 +13,7 @@
  "s2_carrier_miss": [],
  "t5_nonredundant": true,
  "s3_reverse": {
-  "gates": 11,
+  "gates": 14,
   "hooks": [
    "independence",
    "r3_mandate",
@@ -43,5 +43,7 @@
   "agents_self_index": true,
   "bad": []
  },
- "fails": []
+ "fails": [
+  "S3 反向接地 3 处失败：['门禁 layout 无公理映射', '门禁 stages 无公理映射', '门禁 style 无公理映射']"
+ ]
 }

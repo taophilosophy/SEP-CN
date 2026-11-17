@@ -1,8 +1,8 @@
 {
   "schema": "sep-axioms/v1",
-  "status": "proposal",
+  "status": "accepted",
   "date": "2026-11-18",
-  "revision": "整合三套编号：specs/041 的 A1–A14、specs/042 的 C1–C29、specs/043 的 A–J 谓词组。公理重编为 P1–P27，C13／C14 降为定理（可由结构推出），谓词编号保持 A–J 不动。",
+  "revision": "整合三套编号：specs/041 的 A1–A14、specs/042 的 C1–C29、specs/043 的 A–J 谓词组。公理重编为 P1–P28（含整合时补入的 P28 单一事实源），C13／C14 降为定理（可由结构推出），谓词编号保持 A–J 不动。",
   "note": "公理管“必须怎样”，谓词管“是否满足”。二者不同层，不合并，只建立映射。",
   "check_kinds": {
     "struct": "由 35 项结构谓词直接检查（bin/verify_pipeline.py）",

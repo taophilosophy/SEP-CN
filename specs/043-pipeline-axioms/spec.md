@@ -1,7 +1,7 @@
 # 总执行书的公理化验证
 
-**日期**：2026-11-18｜**性质**：形式验证（可执行）｜**对象**：`jian-yi-shu/pipeline-17.json` 与 `jian-yi-shu/journal-schema.json`
-**判定器**：`bin/verify_pipeline.py`｜**机读结果**：`results/verify-report.json`
+**日期**：2026-11-18｜**性质**：形式验证（可执行）｜**对象**：`rules/pipeline.json` 与 `rules/journal-schema.json`（均已于 ADR-0068 W6 转正）
+**判定器**：`bin/verify_pipeline.py`｜**机读结果**：`results/verify-report.json`｜**互认**：本 spec 为 `jian-yi-shu/zong-zhi-xing-shu.md`（总执行书）的形式验证方法，公理登记册为 `rules/axioms.json`（P1–P28）
 
 ## 方向声明
 
@@ -294,5 +294,5 @@
 |---|---|
 | `bin/verify_pipeline.py` | 35 条谓词的可执行判定器，含重复键检测与非法输入保护 |
 | `results/verify-report.json` | 机读结果（35/35，含逐项 detail） |
-| `jian-yi-shu/pipeline-17.json` | 被验对象，本轮修正 4 处（判据改名、补登记、参数分离、段尾声明） |
-| `jian-yi-shu/journal-schema.json` | 升 v2，删除内嵌节点，改引用单一源 |
+| `rules/pipeline.json` | 被验对象，本轮修正 4 处（判据改名、补登记、参数分离、段尾声明） |
+| `rules/journal-schema.json` | 升 v2，删除内嵌节点，改引用单一源 |

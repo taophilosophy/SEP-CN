@@ -1,5 +1,5 @@
 {
-  "$comment": "草案（未实施）。rules/layout.json 的字段与枚举定义：每个根级条目与二级容器必须答满七问，答不全不得新增子项。",
+  "$comment": "已实施归档（2026-11-18）。字段与枚举定义已固化到 rules/layout.json（43 条目，含 journal/ 登记），本文件为历史 schema 草案，留史备查。",
   "version": 1,
   "generated_by": "jian-yi-shu/mu-lu-fen-lei-gui-fan-jian-yi-shu.md §5.2",
   "entry": {
@@ -61,8 +61,8 @@
     }
   ],
   "open_items": {
-    "$comment": "需人工裁定的分类项：现有 18 项未在 rules/01 定义者，除字母目录与忽略区外，均需在 layout.json 中补一条。",
+    "$comment": "已补录（2026-11-18）：原 18 项未定义者已全部补录进 rules/layout.json（现 43 条目），本字段为历史快照。",
     "count": 18,
-    "rule": "补录前不得新增同类条目"
+    "rule": "补录前不得新增同类条目（已满足）"
   }
 }

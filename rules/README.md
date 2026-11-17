@@ -33,6 +33,9 @@
 | ---- | ---- | ---- | ---- |
 | 宪法 | `.specify/memory/constitution.md` | 最高原则 | 治理会话 |
 | 约束性规则 | `rules/01-09` + `rules/adr/`（决策记录）；单文件超 300 行/30KB 按主题拆为 `rules/0X/` 目录 | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
+| 判据机读件 | `rules/pipeline.json` | 16 作业节点、四类型、三档降级、`criteria_owner`——节点与判据唯一事实源（ADR-0068 W2 转正） | 治理会话（修订走 ADR） |
+| 公理登记 | `rules/axioms.json` | P1–P28 公理 + 定理 + 退役映射 + 谓词映射——公理唯一登记册（整合 041/042/043 三套，ADR-0068 W6 转正） | 治理会话（修订走 ADR） |
+| 事件模型 | `rules/journal-schema.json` | 六类事件、四节点类型、三档降级语义，`nodes_ref` 指 `pipeline.json`——事件日志模型唯一源（ADR-0068 W6 转正） | 治理会话（修订走 ADR） |
 | 参考方法论 | `rules/reference/`（[engineering-doctrine](reference/engineering-doctrine/README.md)：G0-G5 门禁、32 条总纲、知难行易（00b）、FR/NFR、交付清单） | 方法论基线，**不具约束力**，采纳进 rules/ 才生效 | 全体可读 |
 | 站点实现文档 | [`.vitepress/README.md`](../.vitepress/README.md) | 阅读站构建、主题、搜索、双语配对的实现说明（**非规则**，冲突以 rules/ 为准；ADR-0015） | 站点会话 |
 | 工程规格 | `specs/<NNN>-*/spec.md`（+ plan/tasks/checklist）——含 [specs/005 全流程翻译与债务偿还规划书](../specs/005-translation-campaign/spec.md) | 单项工程规格与验收 | 该工程会话 |
