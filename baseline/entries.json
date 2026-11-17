@@ -3393,14 +3393,14 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/a/al-khunaji.md",
-        "sha256": "b43e98acdd0fc4c920cc6a0801f71c6db87d4e430c676ec4d9b8aa6822029d5f",
+        "sha256": "3d7465461b1be9065080c2d624c530ca465d9b88c7bd2e569363b62696a1fe0d",
         "source_sha256": "c402e76728fa107b7fb0b206fe42eb9362cc6b4885f159d222f7c1e7f6fe165b",
-        "converted_at": "2026-11-16T15:21:38Z",
         "cite_markers": 51,
         "cite_defs": 62,
         "supplements": [],
         "images": [],
-        "notes": 1
+        "notes": 1,
+        "converted_at": "2026-11-17T09:00:50Z"
       }
     },
     {
@@ -65239,17 +65239,17 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/i/ibn-bajja.md",
-        "sha256": "d0bad7d68ee069b2ed3869282509d3f291ef6fadc9476fb0190c38d82e529232",
+        "sha256": "0ea4f68f32aca934f877d5e15c0fbcc79c1b8657935f9dbf1e906931664fa1d5",
         "source_sha256": "374709d16cb8cad3f291bf7400115940e107fb411df8b5e5aeeef4dfe3a95300",
-        "converted_at": "2026-11-16T15:26:19Z",
         "cite_markers": 60,
-        "cite_defs": 166,
+        "cite_defs": 175,
         "supplements": [
           "ibn-bajja.aristotle-soul-arabic.md",
           "ibn-bajja.ibn-bajja-biography.md"
         ],
         "images": [],
-        "notes": 32
+        "notes": 32,
+        "converted_at": "2026-11-17T09:00:50Z"
       }
     },
     {
@@ -134024,7 +134024,7 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/sign-language-semantics.md",
-        "sha256": "33fc57165ec7c24d32b37460e993d9652676813058973ce0cef0725625b30ba0",
+        "sha256": "124615200207a56480dfab985f8a284542b9c7191e363613abe58c14dc7ad64d",
         "source_sha256": "285acb257012aebd7962e0ffb12d0b599f9f81ca2a53d35ce8b75697476a184b",
         "cite_markers": 126,
         "cite_defs": 102,
@@ -134064,7 +134064,7 @@
           "yuanwen/assets/sign-language-semantics/picture-world-2.svg"
         ],
         "notes": 0,
-        "converted_at": "2026-11-16T23:34:36Z"
+        "converted_at": "2026-11-17T09:00:51Z"
       }
     },
     {
@@ -148473,14 +148473,14 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/w/watsuji-tetsuro.md",
-        "sha256": "fd4f7aa5b38d337895e59554c86cdb80815d55d4674971adeeeef366b8daec1d",
+        "sha256": "4450a5ef02c78e86166a451244ad5cde4ceb6b65dc160d286d3d878fdfe22991",
         "source_sha256": "5e563bf93cb934243282c7502f4784ff65d93450ca18c445ab954ca2de897365",
-        "converted_at": "2026-11-16T15:32:59Z",
         "cite_markers": 32,
-        "cite_defs": 57,
+        "cite_defs": 64,
         "supplements": [],
         "images": [],
-        "notes": 0
+        "notes": 0,
+        "converted_at": "2026-11-17T09:00:51Z"
       }
     },
     {
@@ -151669,5 +151669,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-16T23:35:38Z"
+  "updated_at": "2026-11-17T09:00:51Z"
 }

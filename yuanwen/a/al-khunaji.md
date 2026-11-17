@@ -205,6 +205,10 @@ Coincidental (*ittifāqiyya*) conditional: this is an extensional connective and
 
 “If $p$ then $q$” is true if and only if both $p$ and $q$ are true, merely coinciding with one another.
 
+In neither case is there any implicative relation between the two sides.
+
+Avicenna used both definitions of coincidental conditionals. According to Khūnajī, Avicenna confuses the two definitions and in various places, in particular in hypothetical syllogisms, tried to resolve the confusion by considering both definitions separately (*Kashf al-Asrār*, 323–327).
+
 **(2)**
 
 Disjunctive (literally: disjunctive hypothetical=*sharṭiyya munfaṣila*) which is roughly similar to what we know as a disjunctive proposition. There are three different kinds of disjunctives according to Arabic logicians based on their truth conditions: (i) Real (*haqīqiyya*) disjunction: the two propositions cannot be both true or both false. Consequently, if a real disjunction holds between two propositions, either they are contradictory, or one is equivalent to the contradictory of the other.

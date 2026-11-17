@@ -110,6 +110,20 @@ Heidegger, Martin | Japanese Philosophy | Japanese Philosophy: Kyoto School | Ni
 
 [^watsuji-1992]: Watsuji Tetsurō, 1992, *Watsuji Tetsurō Zenshū (Complete Works of Watsuji Tetsurō)*, 27 vols., Abe Yoshishigo et al., Tokyo: Iwanami Shoten.
 
+[^work-1969]: –––, 1969, “Japanese Ethical Thought in the Noh Plays of the Muromachi Period,” David Dilworth and Umeyo Hirano (trans.), *Monumenta Nipponica*, 24: 457–98.
+
+[^work-1988]: –––, 1988 [1961], *Climate and Culture: A Philosophical Study*, Geoffrey Bownas (trans.), New York: Greenwood Press; revised and reprinted from *A Climate: A Philosophical Study*, Geoffrey Bownas (trans.), Tokyo: Ministry of education and Hokuseido Press, 1961.
+
+[^work-1996]: –––, 1996, *Watsuji Tetsurō’s Rinrigaku: Ethics in Japan*, Yamamoto Seisaku and Robert E. Carter (trans.), Albany: State University of New York Press.
+
+[^work-1998]: –––, 1998, “The Japanese Spirit,” “The Significance of Ethics as the Study of Man,” and “The Way of the Japanese Subject”, in *Sourcebook for Modern Japanese Philosophy: Selected Documents*, translated and edited by D. Dilworth and V. Viglielmo (with Agustin Jacinto Zavala), Westport, CT, and London: Greenwood Press, 231–87.
+
+[^work-2011]: –––, 2011, *Purifying Zen: Watsuji Tetsurō’s Shamōn Dōgen*, Steve Bein (trans.), Honolulu: University of Hawai‘i Press.
+
+[^work-2011-2]: –––, 2011, “Watsuji Tetsurō” selections in *Japanese Philosophy: A Sourcebook*, James W. Hesig, Thomas P. Kasulis, and John C. Maraldo (eds.), Honolulu: University of Hawai’i Press, 850–69.
+
+[^work-2012]: –––, 2012, *Pilgrimages to the Ancient Temples in Nara*, Hiroshi Nara (trans.), Portland, Maine: Merwin Asia.
+
 [^abe-1985]: Abe, Masao, 1985, *Zen and Western Thought*, in William R. LaFleur (ed.), Honolulu: University of Hawai‘i Press.
 
 [^arima-1969]: Arima, Tatsuo, 1969, *The Failure of Freedom: A Portrait of Modern Japanese Intellectuals*, Cambridge, Mass.: Harvard University Press.

@@ -75,6 +75,8 @@ SARKOZY 👆_{left} OBAMA 👆_{right} _{left}TELL_{right} ‘Sarkozy told Obama
 
 👉_{right} WILL WIN ELECTION. that he, Obama, would win the election.’
 
+[Short video clip of the sentence, no audio](https://youtu.be/4u8GoVjvn4g)
+
 In sign language linguistics, signs are transcribed in capital letters, as was the case above, and loci are encoded by way of letters (*a*, *b*, *c*, …), starting from the signer’s dominant side (right for a right-handed signer, left for a left-handed signer). The upward fingers used to establish positions for Sarkozy and Obama are called ‘classifiers’ and are glossed here as *CL* (with the conventions of Section 4.2. the gloss would be *PERSON-cl*; classifiers are just one way to establish the position of antecedents, and they are not essential here). Pronouns involving pointing with the index finger are glossed as *IX*. With these conventions, the sentence in (6) can be represented as in (7). (Examples are followed by the name of the language, as well as the reference of the relevant video when present in the original source; thus ‘LSF 4, 235’ indicates that the sentence is from LSF, and can be found in the video referenced as 4, 235.)
 
 **(7)**
@@ -183,6 +185,8 @@ a. UNDERSTAND (LSF) ![COMPRENDRE (UNDERSTAND): thumb and first two fingers apart
 
 REFLECT (LSF) ![REFLÉCHIR (REFLECT): curved index finger touches the forehead ](../assets/sign-language-semantics/image009-crop.png) [Short video clip of REFLECT (LSF), no audio](https://www.elix-lsf.fr/spip.php?page=signes&id_article=206984&lang=fr)
 
+*Credits: La langue des signes - dictionnaire bilingue LSF-français*. IVT 1986
+
 Wilbur (2008)[^wilbur-2008][^wilbur-2008-2] posits that in ASL and other sign languages, this phonological cue, the “rapid deceleration of the movement to a complete stop”, is an overt manifestation of the morpheme EndState, yielding inherently telic lexical predicates. If Wilbur’s analysis is correct, this is another possible instance of visibility of an abstract component of Logical Forms that is not usually overt in spoken languages. An alternative is that an abstract version of iconicity is responsible for this observation (Kuhn 2015)[^kuhn-2015], as we will see in Section 3.2.
 
 It is also possible that the analysis of this phonological cue varies across languages. Of note, both ASL and LSF have exceptions to the generalization (Davidson et al. 2019)[^davidson-2019], for example ASL *SLEEP* is atelic but ends with deceleration and contact between the fingers; LSF *RESIDE* is similarly atelic but ends with deceleration and contact. In contrast, in Croatian Sign Language (HZJ), endmarking appears to be a regular morphological process, allowing a verb stem to alternate between an end-marked and non-endmarked form (Milković 2011)[^milković-2011].
@@ -275,6 +279,8 @@ a. *TROPHY* in ASL, repetition on a line: ![The TROPHY sign repeated to the sign
 
 *TROPHY* in ASL, repetition as a triangle: ![The TROPHY sign repeated to the signer's middle left, upper front, and middle right](../assets/sign-language-semantics/image018.png)
 
+*Credits:* M. Bonnet
+
 Punctuated (= easy to count) repetitions yield meanings with precise thresholds (often with an ‘exactly’ reading, e.g., ‘exactly three trophies’ for three punctuated iterations); unpunctuated repetitions yield vague thresholds and often ‘at least’ readings (e.g., ‘several trophies’ for three unpunctuated iterations). While one may take the distinction to be conventional, it might have an iconic source. In essence, unpunctuated iterations result in a kind of pictorial vagueness on which the threshold is hard to discern; deriving the full range of ‘exactly’ and ‘at least’ readings is non-trivial, however (Schlenker & Lamberton 2022)[^schlenker-2022].
 
 In the verbal domain, pluractionals (referring to pluralities of events) can be created by repeating a verb, for instance in LSF and ASL. A complete analysis seems to require both conventionalized grammatical components and iconic components. The form of reduplication—as identical reduplication or as alternating two-handed reduplication—appears to conventionally communicate the distribution of events with respect to either time or to participants. But a productive iconic rule also appears to be involved, as the number and speed of the repetitions gives an idea of the number and speed of the denoted events (Kuhn & Aristodemo 2017)[^aristodemo-2017][^kuhn-2017]; again, the iconic contribution can be at-issue.
@@ -360,6 +366,8 @@ HERE ANYTIME __ SAME-TIME TAKE-OFF, DANGEROUS. ‘Here, whenever ___ take off at
 
 ⁷PLANE-cl_{*a*} PLANE-cl_{*b*} ‘two planes side by side/next to each other’
 
+(ASL, 35, 1916, 4 judgments; [short video clip of the sentences, no audio](https://youtu.be/Wyt1AsP6ASk))
+
 To capture these differences, one can posit the following lexical entries for the normal noun and for its classifier predicate version. Importantly, the interpretation of *PLANE-cl* in (28b) is defined for a particular token of the sign (not a type), produced with a phonetic realization Φ.
 
 **(28)**
@@ -439,6 +447,8 @@ Post-speech: #His enemy, Asterix won’t punish— ![slapping gesture](../assets
 **c.**
 
 Pro-speech His enemy, Asterix won’t ![slapping gesture](../assets/sign-language-semantics/image027-black.png) . $\Rightarrow$ Asterix won’t slap his enemy
+
+(*Picture credits*: M. Bonnet)
 
 Only pro-speech gestures, as in (32c), make at-issue contributions by default (possibly in addition to other contributions). In this respect, they ‘match’ the behavior of iconic modulations, iconic plurals and pluractionals, and classifier predicates. But unlike these, pro-speech gestures are not words and are correspondingly expressively limited. For instance, abstract psychological verbs *UNDERSTAND* (=(15a)) and especially *REFLECT* (=(15b)) can be modulated in rich iconic ways in LSF—e.g., if the hand movement of *REFLECT* starts slow and ends fast, this conveys that the reflection intensified (Schlenker 2018a)[^schlenker-2018a]. But there are no clear pro-speech gestures with the same abstract meanings, and thus one cannot hope to emulate with pro-speech gestures the contributions of *UNDERSTAND* and *REFLECT*, including when they are enriched by iconic modulations.
 

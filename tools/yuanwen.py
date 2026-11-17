@@ -777,8 +777,31 @@ def render_blocks(blocks, ctx):
                                                count=1, flags=re.I),
                                         t == 'ol', ctx.slug))
         elif t == 'dl':
+            # specs/039 D2 → 023 卡（al-khunaji 判例，2026-11-17）：`<dd>` 内嵌套
+            # `<dl>` 时，非贪婪匹配在内部 `</dd>` 处截断，外层 `<dd>` 的尾随 `<p>`
+            # 段落落在 match 间隙里被静默丢弃（“In neither case …”“Avicenna used
+            # both definitions …”）。间隙里若有成段文字则收编；间隙含 `dt/dd`
+            # 开标签者不碰（防重复输出，结构畸形件仍交审计器逐件定案）。
+            def _emit_gap(gap):
+                if not gap.strip() or re.search(r'<(?:dt|dd)\b', gap, re.I):
+                    return
+                # 段边界按 <p> 保留（同一间隙里两段不得并成一段）
+                for part in re.split(r'</?p\b[^>]*>', gap, flags=re.I):
+                    gtxt = inline_to_md(
+                        re.sub(r'</?(?:dl|dt|dd)\b[^>]*>', ' ', part, flags=re.I), ctx.slug)
+                    gtxt = re.sub(r'\s+', ' ', gtxt).strip()
+                    if not gtxt:
+                        continue
+                    if ctx.in_bib:
+                        ctx.bib_entries.append((gtxt, ctx.bib_section))
+                    else:
+                        ctx.emit('', _escape_leading_hash(gtxt))
+
+            pos = 0
             for dm in re.finditer(r'<dt[^>]*>(.*?)</dt>|<dd[^>]*>(.*?)</dd>',
                                   inner, re.S | re.I):
+                _emit_gap(inner[pos:dm.start()])
+                pos = dm.end()
                 if dm.group(1) is not None:
                     # 2026-10-30：dt 内容首尾常带空格/内含星号，无条件 `**%s**`
                     # 会产生星内空格（永不渲染）或跨距配对——strip 后仅对无星内容加粗
@@ -798,6 +821,7 @@ def render_blocks(blocks, ctx):
                             txt = inline_to_md(chunk, ctx.slug)
                             if txt:
                                 ctx.emit('', _escape_leading_hash(txt))
+            _emit_gap(inner[pos:])
         elif t == 'pre':
             code = unescape(re.sub(r'<[^>]+>', '', inner))
             ctx.emit('', '```\n%s\n```' % code.strip('\n'))
@@ -869,8 +893,19 @@ def build_cite_keys(entry_texts, fallback_author=None):
         year, suffix = (ym.group(1), ym.group(2).lower()) if ym else (None, '')
         if continued:
             surnames = list(prev_surnames)
+            if not surnames and section:
+                # 续行小节（「Works by X」）标题是唯一作者线索，与前一并分支同法
+                sec = _section_author(section)
+                if sec:
+                    surnames = [sec]
+            if not surnames and fallback_author:
+                # specs/039 D1 → 023 卡（ibn-bajja/watsuji 判例，2026-11-17）：小节
+                # 首条即续行（`———, 1976, …`）且节内无可继承姓氏时，旧式整节 continue
+                # ——两节文献（含条目内公式）从产物蒸发（889/926 字母）。兜底键只保
+                # 定义行不生文内标记，文字保真优先于键名语义。
+                surnames = [fallback_author]
             if not surnames:
-                # 文献表以续行（———）开头且无前条可继承：跳过该条
+                # 既无继承姓、无节名、无兜底：只能跳过（罕见）
                 continue
         else:
             # 无年份条目（如版本卷次引用）：作者名在条目头部，

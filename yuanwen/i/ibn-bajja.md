@@ -674,6 +674,24 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^asín-1940]: Asín Palacios, Miguel, 1940, “Avempace botánico”, *Al-Andalus*, 5: 255–299.
 
+[^books-1976]: –––, 1976, *Ta‛liqat fi Kitab Bari Arminiyas wa min Kitab al-‛Ibara li-Abi Nasr al-Farabi*, Muhammad Salim Salim (ed.), Cairo: al-Hay’a al-Misriyya al-‛Amma li-l-Kitab, repr. 2019.
+
+[^books-1978b]: –––, 1978b, *Kitab tadbir al-mutawahhid*, Ma‛an Ziyada (ed.), Beirut: Dar al-Fikr al-Islami – Dar al-Fikr.
+
+[^books-1987]: –––, 1987, *Ta‛aliq Ibn Bâjja ‛alà l-burhan*, in *Al-Mantiq ‛ind al-Farabi*, Majid Fakhry (ed.), Beirut: Dar al-Mashreq.
+
+[^books-1999a]: –––, 1999a, *Sharh al-Athar al-῾Ulwiyya li-Bn Bâjja*, Muhammad Musa῾id (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5, pp. 9–85.
+
+[^books-1999b]: –––, 1999b, *Kitab an-Nafs*, Jamal Rashaq (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5, pp. 86–211.
+
+[^books-2006a]: –––, 2006a, *Risalat al-wida*‛*. Carta del adiós y otros tratados filosóficos*, Spanish translation by Joaquín Lomba. Madrid: Trotta.
+
+[^books-2006b]: –––, 2006b, *Irtiyaḍ fi Kitab at-Tahlil*, Muhammad Alwuzad, ῾Abd al-῾Aziz Lam῾ul, Muhammad Musa῾id, Jamal Rashaq (eds.), Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5.
+
+[^books-2009]: –––, 2009, *Kalam fì l-qiyas*, Muhammad Musa῾id, Muhammad Abu Hafs, Jamal Rashaq. Fez (eds), Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 6.
+
+[^books-2021]: –––, 2021, *Commentary on Aristotle’s* On generation and corruption. Critical edition and translation with an introduction and glossaries by Corrado la Martire, Berlin : De Gruyter.
+
 [^ahwani-1951]: Ahwani, Ahmad Fu’ad, 1951, “Risalat al-ittisal li-Abi Bakr ibn as-Sa’igh”, in *Talkhis kitab an-nafs li-Abi l-Walid Ibn Rushd wa-arba‛ rasa’il*, Cairo: Maktabat an-Nahḍa al-Misriyya, pp. 102–118.
 
 [^druart-1980]: Druart, Thérèse-Anne, 1980, “Le traité d’Avempace sur « Les choses au moyen desquelles on peut connaître l’intellect agent »” *Bulletin de Philosophie Médiévale*, 22: 73–77. doi:10.1484/J.BPM.3.258

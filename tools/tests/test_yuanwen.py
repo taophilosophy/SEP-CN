@@ -634,5 +634,61 @@ class TestTitleDedupeAndHashEscape20261117(unittest.TestCase):
         self.assertEqual(_escape_leading_hash(''), '')
 
 
+    def test_continued_led_section_uses_fallback(self):
+        # specs/039 D1（ibn-bajja 判例）：小节首条即续行、节内无可继承姓氏时，
+        # 旧式整节 continue（889/926 字母蒸发）；兜底键保定义行
+        keys = build_cite_keys(['———, 1976, Ta’liqat fi Kitab Bari Arminiyas.'],
+                               fallback_author='ibn-bajja')
+        self.assertEqual(len(keys), 1)
+        self.assertEqual(keys[0]['key'], 'ibn-bajja-1976')
+        self.assertIn('Ta’liqat', keys[0]['text'])
+
+    def test_continued_led_section_uses_section_author(self):
+        # 有节标题时优先用节名（「Works by Bohr」），兜底键只在无节名时登场
+        keys = build_cite_keys([('———, 1934, Atomic Theory.', 'Works by Bohr')],
+                               fallback_author='bohr')
+        self.assertEqual(keys[0]['key'], 'bohr-1934')
+
+    def test_abbrev_bare_name_still_dropped(self):
+        # 缩写表裸姓名条目（无年份、无内容）逻辑不受 D1 兜底影响
+        keys = build_cite_keys(['Descartes, René', 'Leibniz, G. W.'])
+        self.assertEqual(keys, [])
+
+
+class TestDlGaps(unittest.TestCase):
+    """specs/039 D2（al-khunaji 判例）：`<dd>` 内嵌 `<dl>` 截断后，外层尾随
+    `<p>` 段落落在 match 间隙，旧式静默丢弃。"""
+
+    def _render(self, inner):
+        ctx = Ctx('probe')
+        render_blocks([{'type': 'dl', 'inner': inner}], ctx)
+        return '\n'.join(ctx.out)
+
+    def test_nested_dl_trailing_paragraphs_kept(self):
+        inner = ('<dd>Coincidental conditional: two interpretations:'
+                 '<dl class="sentag"><dt>(i)</dt><dd>weak reading.</dd>'
+                 '<dt>(ii)</dt><dd>strong reading, merely coinciding.</dd></dl>'
+                 '</dd></dl><p>In neither case is there any implicative relation.</p>'
+                 '<p>Avicenna used both definitions of coincidental conditionals.</p></dd>'
+                 '<dt>(2)</dt><dd>Disjunctive conditional.</dd>')
+        out = self._render(inner)
+        self.assertIn('In neither case is there any implicative relation', out)
+        self.assertIn('Avicenna used both definitions', out)
+        self.assertIn('Disjunctive conditional', out)
+
+    def test_wellformed_dl_no_extra_output(self):
+        out = self._render('<dt>term</dt><dd>definition</dd>')
+        self.assertNotIn('定义', out)
+        self.assertEqual(out.count('**term**'), 1)
+        self.assertEqual(out.count('definition'), 1)
+
+    def test_gap_with_nested_dt_not_duplicated(self):
+        # 畸形件保守处理：间隙含 dt/dd 开标签则不收编（防重复输出）
+        inner = ('<dd>a<dl><dt>x</dt><dd>b</dd></dl></dd><dt>orphan</dt>'
+                 '<dd>c</dd>')
+        out = self._render(inner)
+        self.assertEqual(out.count('orphan'), 1)
+
+
 if __name__ == '__main__':
     unittest.main()
