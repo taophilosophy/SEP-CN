@@ -1,0 +1,340 @@
+{
+  "schema": "sep-pipeline/v2",
+  "status": "proposal",
+  "date": "2026-11-17",
+  "revision": "重构：18 节点收敛为 17（16 作业 + 1 入口动作），五组判据重复归零；check_style 由挂三处收敛为挂一处",
+  "note": "本文件管“有哪些工位、每个工位做什么”；journal-schema.json 管“怎么记事件”。二者不重复。",
+
+  "principles": [
+    "一个节点只对一个对象负责：对象变了就是两个节点，哪怕工序名相同",
+    "写者与判官不同一：转换器不给自己发合格证",
+    "判据只在一个节点硬拦：其余节点可复用同一工具做辅助，退出码不由它决定"
+  ],
+
+  "segments": [
+    {"id": "seg1", "name": "英语文本提取", "contract": "出口产物可被 seg2 以单一 sha256 消费"},
+    {"id": "seg2", "name": "中文翻译", "contract": "出口产物为全文一致的中文 markdown"},
+    {"id": "seg3", "name": "审阅校对", "contract": "出口须含 mandatory_minimum 全部 pass 事件"}
+  ],
+
+  "state_only_entry": {
+    "id": "cleared",
+    "desc": "置空动作，非作业节点：无判据、无交付物，仅表示旧译文作废、等待重译",
+    "does": [
+      "前置校验：version_pin 存在且可信，s0 已 pass",
+      "旧译文移入历史，不删 git 历史",
+      "保留旧 steps 作为凭证",
+      "发 cleared 事件"
+    ],
+    "criteria": ["version_pin 存在（机检）"]
+  },
+
+  "nodes": [
+    {
+      "id": "P1", "seg": "seg1", "type": "pipe", "prev": null, "mandatory": true,
+      "label": "抓取锁钉",
+      "does": [
+        "按 baseline/catalog.json 的 URL 请求上游页面（重试、编码、UA）",
+        "原样保存 HTML 到 en/<slug>/index.html，不清洗、不加包裹层",
+        "计算 SHA-256，记录 pubinfo_date 与 archive_edition",
+        "写 version_pin",
+        "与既有 pin 比对：变化则发 lock 事件并标 stale，未变只记时间戳"
+      ],
+      "criteria": ["fetch_audit"],
+      "gate_owner": true,
+      "products": ["en/<slug>/index.html", "lock 事件"],
+      "replay_on_change": "replace"
+    },
+    {
+      "id": "P2", "seg": "seg1", "type": "pipe", "prev": "P1", "mandatory": true,
+      "label": "转换",
+      "does": [
+        "解析 HTML：DOM 树、文本节点、属性、注释",
+        "生成 markdown：标题层级、段落、有序与无序与嵌套列表、表格、公式定界符、脚注、引用块、图片",
+        "格式差异（序号、缩进、空白、无语义标签）生成虚拟补丁，写 baseline/en-patches/",
+        "实质差异（缺字、错字、标签致语义丢失）登记为待勘误，不在此处修",
+        "写 yuanwen/<letter>/<slug>.md，与 en 逐字符镜像（ADR-0009）"
+      ],
+      "criteria": ["check_en_patches", "divergence"],
+      "gate_owner": true,
+      "products": ["yuanwen/*.md", "baseline/en-patches/"],
+      "replay_on_change": "replace"
+    },
+    {
+      "id": "P3", "seg": "seg1", "type": "pipe", "prev": "P2", "mandatory": true,
+      "label": "保真校验",
+      "axes": ["结构轴", "文字轴"],
+      "reconstructed": "吸收原 s0 的镜像文字轴；两轴同属转换保真，对象相同、层面不同",
+      "does": [
+        "结构轴：把 yuanwen 的 markdown 渲染回结构树",
+        "结构轴：逐项比对节层级深度与顺序、列表层级与条目数、表列数与对齐、脚注序号与键位、数学块位置与定界符、图片 alt 与路径",
+        "结构轴：差异三分——转换器缺陷回 P2、源缺陷转 s0、格式类入补丁池",
+        "文字轴：逐段比对 en 文本节点与 yuanwen 段落，字符级差异",
+        "文字轴：用 norm 归并判类，norm 相等为 3.1 格式，不等为 3.2 实质",
+        "文字轴：3.2 类登记进全局勘误表，不改 md、不改 HTML"
+      ],
+      "criteria": ["check_yuanwen_fidelity"],
+      "gate_owner": true,
+      "products": ["反校报告（结构差异清单 + 字符差异分类表）"],
+      "replay_on_change": "replace"
+    },
+    {
+      "id": "s0", "seg": "seg1", "type": "pipe", "prev": "P3", "mandatory": true,
+      "label": "源完整性",
+      "axes": ["源本体"],
+      "reconstructed": "瘦身为单轴：镜像轴移出至 P3；源的信任不等于转换的忠实",
+      "does": [
+        "页面真实性：是否真是目标词条页（标题、作者、SEP 编号）",
+        "截断检查：标签闭合、末段完整、无省略号截断",
+        "结构完整性：目录锚点可跳、注释配对、脚注定义与引用一一对应",
+        "内容嫌疑：明显 typo、重复段落、乱码、编码错误",
+        "资源：图片可达、公式渲染错误、表格错行",
+        "出结论：可信、可疑（列清单）、不可用（阻断）"
+      ],
+      "criteria": ["en_integrity", "en_source_audit"],
+      "gate_owner": true,
+      "products": ["s0 事件", "疑点清单"],
+      "replay_on_change": "replace"
+    },
+    {
+      "id": "F1", "seg": "seg1", "type": "format", "prev": "s0", "mandatory": true,
+      "label": "镜像格式闭合",
+      "does": [
+        "markdown 语法：标题不跳级、表格有对齐行、代码块闭合、公式定界符配对",
+        "HTML 实体转义正确（&amp;、&#124;）",
+        "行尾空白、连续空行、文件末换行",
+        "零差异也写一条 pass，否则无法区分“没查”与“查了没问题”"
+      ],
+      "criteria": [],
+      "gate_owner": false,
+      "products": ["F1 事件"],
+      "replay_on_change": "widen"
+    },
+
+    {
+      "id": "P4", "seg": "seg2", "type": "stage", "prev": "F1", "mandatory": true,
+      "label": "预处理",
+      "does": [
+        "术语摘录：从 yuanwen 抽候选术语，与登记册比对，分已定、待定、冲突三类",
+        "errata 注入：取该条目的全局勘误条目，把参考读法写进提示词",
+        "结构清单：本节标题、层级、必须保留的锚点",
+        "组装提示词（ADR-0021 骨架：术语摘录 + 标题 + errata + 体例要求）"
+      ],
+      "criteria": ["check_terms"],
+      "gate_owner": false,
+      "products": ["术语摘录表", "提示词"],
+      "replay_on_change": "tighten"
+    },
+    {
+      "id": "draft", "seg": "seg2", "type": "stage", "prev": "P4", "mandatory": true,
+      "label": "初译",
+      "does": [
+        "step1 忠实初译：逐句对应，不增不减，保留原文语序痕迹",
+        "step2 语言优化：去欧化、调语序、润色",
+        "双版留档：step1 作一校对照底，step2 为成稿对象",
+        "结构对齐：节标题、脚注、引用块、图片位置与 yuanwen 一一对应"
+      ],
+      "criteria": [],
+      "gate_owner": false,
+      "products": ["译文（step2）", "双版账本"],
+      "replay_on_change": "replace"
+    },
+    {
+      "id": "s1", "seg": "seg2", "type": "stage", "prev": "draft", "mandatory": true,
+      "label": "一校",
+      "does": [
+        "逐节核销：漏译、错译、增译、未译",
+        "事实核查：人名、年代、书名、编号、专名",
+        "残留外文碎片检查（须为 0）",
+        "对照 step1 查幻觉：润色是否引入原文没有的内容",
+        "出对照记录（账本 diff 或锚点表）"
+      ],
+      "criteria": ["check_pairs"],
+      "gate_owner": true,
+      "products": ["对照记录"],
+      "replay_on_change": "tighten"
+    },
+    {
+      "id": "s2", "seg": "seg2", "type": "stage", "prev": "s1", "mandatory": true,
+      "label": "二校",
+      "reconstructed": "判据收窄：不挂 check_style，体例项全部移到 S3，避免两处同档",
+      "does": [
+        "去欧化：长定语、被动句、倒装、的的不休",
+        "破折号与“一个”滥用检查",
+        "语体确认：现代汉语学术书面语、无文言仿古",
+        "句读与节奏：短句合并、长句切分",
+        "出修改 diff 与语体结论"
+      ],
+      "criteria": ["check_prose"],
+      "gate_owner": true,
+      "products": ["修改 diff", "语体结论"],
+      "replay_on_change": "tighten"
+    },
+    {
+      "id": "F2", "seg": "seg2", "type": "format", "prev": "s2", "mandatory": true,
+      "label": "中文段内格式闭合",
+      "does": [
+        "标题层级与 SUMMARY 一致",
+        "列表标记统一、缩进层级正确",
+        "正文内标点全半角",
+        "图片引用路径可解析",
+        "书内链接与脚注键位不悬空"
+      ],
+      "criteria": [],
+      "gate_owner": false,
+      "products": ["F2 事件"],
+      "replay_on_change": "widen"
+    },
+
+    {
+      "id": "s2.4", "seg": "seg3", "type": "stage", "prev": "F2", "mandatory": true,
+      "label": "术语与勘误锁定",
+      "axes": ["术语轴", "勘误轴"],
+      "reconstructed": "三轴瘦身为双轴：体例轴移出至 S3，消除与 s3 的同档重复",
+      "does": [
+        "术语轴：逐条比对译文术语与登记册主形",
+        "术语轴：别名是否已归并、有无未登记新词",
+        "术语轴：一词多译、多词一译的冲突",
+        "勘误轴：取该条目的全局勘误条目，逐条核销译文是否含参考读法",
+        "勘误轴：未含者判失败，回 s2 或开 rework",
+        "勘误轴：3.2 类必须有译注承载，缺译注即失败"
+      ],
+      "criteria": ["check_terms", "check_pairs --gate"],
+      "gate_owner": true,
+      "products": ["术语锁定记录", "勘误核销表"],
+      "replay_on_change": "tighten"
+    },
+    {
+      "id": "global", "seg": "seg3", "type": "stage", "prev": "s2.4", "mandatory": true,
+      "label": "全局一致性",
+      "axes": ["全局"],
+      "reconstructed": "两轴收敛为单轴：删除逐段轴（与 s1 同谓词同对象），只保留 s2.5 自己声明的独特价值",
+      "does": [
+        "节集合对账：SUMMARY 声明与文档实际，逐节名比对",
+        "脚注：定义数等于引用数，键位无重复，序号连续",
+        "书目：条数、条目与正文引用一一对应",
+        "密度统计：破折号、“一个”、连接号、括号套用的全文密度",
+        "图表：表号连续、图号连续、题注完整",
+        "跨节一致性：同一术语在不同节的形态是否一致"
+      ],
+      "criteria": ["check_math_zh", "check_quotes", "check_tables_images", "check_academic"],
+      "gate_owner": true,
+      "products": ["审计记录（changes: 开头）"],
+      "replay_on_change": "tighten"
+    },
+    {
+      "id": "S3", "seg": "seg3", "type": "stage", "prev": "global", "mandatory": true,
+      "label": "体例终校",
+      "reconstructed": "由“s3 三校”正名并扩容：吸收原 s2.4 体例轴、原 s3、原 F3、原 X1 的单件可判部分；check_style 由挂三处收敛为唯一硬拦点",
+      "does": [
+        "引号形态（弯引号）、中西文之间空格",
+        "连接号三形、顿号新规、括号套用",
+        "表号表题与表身空值、题注细则",
+        "节名与行形态正典化（吸收 X1 的单件可判部分）",
+        "交付格式：图片引用、跨文档链接、SUMMARY 条目、H1 与文件名一致",
+        "markdownlint 全绿"
+      ],
+      "criteria": ["check_style", "markdownlint", "check_images", "check_summary"],
+      "gate_owner": true,
+      "products": ["s3 凭证（含适用规范基线结论）"],
+      "replay_on_change": "tighten",
+      "coverage_note": "交付格式四项均已有既有覆盖（check_images 查悬空与大小写、check_summary 查 H1 与 SUMMARY、check_style 查引号空格连接号、global 查脚注键位），故合并 F3 不产生新判据，不触发全库重跑"
+    },
+    {
+      "id": "R1", "seg": "seg3", "type": "review", "prev": "S3", "mandatory": true,
+      "label": "受众适切性",
+      "reconstructed": "改判据：从“对照原文自审 + 通读语体”（等于重做 s1+s2）改为 MQM 的 Verity 维度",
+      "does": [
+        "抽 3 至 5 段，假设读者为哲学专业本科生，判断能否读懂",
+        "术语是否符合中文哲学界习惯用法（不是字面正确）",
+        "需要背景知识处是否有足够提示（不增译，但不得无限定）",
+        "语体是否与全书一致（不是好文笔，是同一本书）",
+        "签字"
+      ],
+      "criteria": ["须独立于译者"],
+      "gate_owner": false,
+      "products": ["适切性记录"],
+      "replay_on_change": "replace"
+    },
+    {
+      "id": "R2", "seg": "seg3", "type": "review", "prev": "R1", "mandatory": true,
+      "label": "连贯性",
+      "reconstructed": "改判据：从“逐句回核原文”（等于 s1）改为逻辑链与跨节连贯",
+      "does": [
+        "全文逻辑链：论证步骤是否连贯、有无跳跃",
+        "指代：代词指向是否明确",
+        "跨节呼应：前文承诺后文兑现、术语首次出现是否给定义",
+        "段落衔接：有无孤段、突然转折",
+        "问题单：逐处位置与改前改后，禁机械批量"
+      ],
+      "criteria": ["问题单形态"],
+      "gate_owner": false,
+      "products": ["复核记录"],
+      "replay_on_change": "replace"
+    },
+    {
+      "id": "R3", "seg": "seg3", "type": "review", "prev": "R2", "mandatory": true,
+      "label": "交付验收",
+      "does": [
+        "CI 全绿（14 项门禁）",
+        "交付清单完整：正文、图片、脚注、书目、SUMMARY、H1",
+        "上游 pin 仍有效（stale 为假）",
+        "用户显式授权记录（--mandate）",
+        "验收签字"
+      ],
+      "criteria": ["CI", "--mandate 必填（ADR-0054）"],
+      "gate_owner": true,
+      "products": ["验收签字"],
+      "replay_on_change": "replace"
+    }
+  ],
+
+  "mandatory_minimum": {
+    "nodes": ["s0", "s2.4", "global", "R1", "R2", "R3"],
+    "rule": "任何 attempt 合回主干前，nodes 必须全部 pass；分支内自审不可替代",
+    "note": "R1 至 R3 是最小集不是全集：可增，不可减"
+  },
+
+  "criteria_owner": {
+    "note": "每个检查器的硬拦点唯一；非 gate_owner 的挂载只做辅助，不决定退出码",
+    "fetch_audit": ["P1"],
+    "check_en_patches": ["P2"],
+    "divergence": ["P2"],
+    "check_yuanwen_fidelity": ["P3"],
+    "en_integrity": ["s0"],
+    "en_source_audit": ["s0"],
+    "check_terms": ["s2.4"],
+    "check_pairs": ["s1", "s2.4"],
+    "check_prose": ["s2"],
+    "check_math_zh": ["global"],
+    "check_quotes": ["global"],
+    "check_tables_images": ["global"],
+    "check_academic": ["global"],
+    "check_style": ["S3"],
+    "check_images": ["S3"],
+    "check_summary": ["S3"]
+  },
+
+  "migration": {
+    "state_names": "全部保留，1,199 条任务零迁移",
+    "relaxed_nodes": ["s2.4（三轴→双轴）", "global（两轴→单轴）", "s2（交出体例项）"],
+    "relaxed_effect": "放宽档，既有 pass 继续有效，0 搬迁",
+    "rejudge_required": {
+      "nodes": ["R1", "R2"],
+      "reason": "判据更换，新旧互不包含",
+      "scope": 428,
+      "detail": "385 件 done + 24 件 s3 + 16 件 r2 + 3 件 r1",
+      "mitigation": "差额补判：旧记录已覆盖的维度不重做，只补缺口维度"
+    },
+    "merged_zero_cost": ["F3 并入 S3（四项交付格式判据均已有覆盖）", "X1 单件部分并入 S3"]
+  },
+
+  "not_adopted": [
+    {"proposal": "合并 s1 与 s2 为一次校订", "reason": "MQM 的 Accuracy 与 Fluency 是两个维度，合并会丢失问题分类能力"},
+    {"proposal": "合并 P2 与 P3", "reason": "写者不能给自产发合格证"},
+    {"proposal": "取消 F1 与 F2", "reason": "段末闭合防格式缺陷跨段传染"},
+    {"proposal": "R1 至 R3 减为 R1 至 R2", "reason": "R 是最小集可增不可减；R3 承载 --mandate 授权门槛"},
+    {"proposal": "彻底取消 X1", "reason": "跨词条形态问题客观存在，移出主线而非取消"},
+    {"proposal": "合并 global 与 S3", "reason": "一个是内容全局自洽，一个是形式合规，对象不同"}
+  ]
+}
