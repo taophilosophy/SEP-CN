@@ -193,3 +193,12 @@
 | 终局度量 | text-stream-diff 164 → **47**（≥50 字母 7 件，≤10 字母 29 件）；math-asymmetric 320 不变；issue_total 322；工件 `results/i3-deep-20261117-final.json` |
 | 库存异常（登记未动） | 孤儿 yuanwen 2 件（`health-well-being-personal-relationships`、`on-utopia`，无 en/baseline/zh/SUMMARY 引用）；en 包无 yuanwen 5 件（`qm-action-distance`、`scientific-explanation`、`time-experience`、`wisdom`、`wyclif-political`，同源恢复提交，归 specs/001 接入面） |
 | 门禁 | `check_all` 13 项全绿（含转换保真、13 项体例面、77+21 例单测） |
+
+### 上游退役件复核（同日，用户指示）与清理
+
+| 项 | 结果 |
+| ---- | ---- |
+| 方法 | 逐条访问 `plato.stanford.edu/entries/<slug>/`（间隔 ≥6s），与 `baseline/retired.json`、SUMMARY、本地后继包三方对照；报告 `results/upstream-retired-check-20261117.md` |
+| 孤儿 yuanwen 2 件 | `health-well-being-personal-relationships`、`on-utopia` 上游均 **404**（不存在）→ **已删** |
+| en 包无 yuanwen 5 件 | 全部为官方退役件残留包（4 件上游指定后继、后继件在册：`scientific-explanation-20th`／`wisdom-analytic`／`wyclif`／`consciousness-temporal`；`qm-action-distance` 无后继）。非重名、非本地改名，属退役残留；**建议 `git rm` 5 包，待裁定** |
+| 相邻发现 | `yuanwen/p/pineal-gland.figure1..6.md` 六件补充镜像同为孤儿，上游 `pineal-gland` 已退役（sum2026）；建议删除并补登 `retired.json`，**待裁定** |
