@@ -118,6 +118,30 @@ class TermHarvestTests(unittest.TestCase):
             if c['en'] == 'United Provinces':
                 self.assertNotEqual(c['type'], 'arabic')
 
+    def test_termhood_guard_rejects_noise(self):
+        # specs/046 治本：确定性/高置信非术语在提取端拦下
+        doc = os.path.join(self.corpus, 'doc-noise.md')
+        # 泛词（单字 quoted / 通用搭配 phrase / cjk 虚词 / 结构标题 topic /
+        # 数学残渣 / 书目残片）全部不得入池；真术语对照须入池。
+        open(doc, 'w', encoding='utf-8').write(
+            'The reader says “good” and “true” and “yes” throughout.\n'
+            'It takes place too much; this makes sense in many cases.\n'
+            '之乎者也矣焉哉\n'
+            '## Introduction\n'
+            '## Further Reading\n'
+            '$$x \\rightarrow \\cdot$$ inline math\n'
+            'Thābit b. For wrote nothing. Zorpian mereology matters.\n')
+        code, out = self.run_harvest('--letter', 'a')
+        self.assertEqual(code, 0)
+        pool = self.load_pool()
+        keys = {c['en'].casefold() for c in pool['candidates']}
+        for bad in ('good', 'true', 'yes', 'take place', 'takes place',
+                    'makes sense', '之乎者也矣焉哉', 'introduction',
+                    'reading', 'b. for'):
+            self.assertNotIn(bad.casefold(), keys, '泛词/残渣不应入池: %s' % bad)
+        # 对照：真术语仍入池（DOC1 的斜体术语，不是泛词）
+        self.assertIn('quuxological realism', keys)
+
     def test_missing_corpus_errors(self):
         code, out = self.run_harvest('--corpus',
                                      os.path.join(self.tmp, 'nope'))

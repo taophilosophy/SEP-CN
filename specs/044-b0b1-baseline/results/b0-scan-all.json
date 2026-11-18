@@ -2,42 +2,17 @@
  "summary": {
   "schema": "sep-cn-b0-scan/1",
   "total": 1872,
-  "b0_pass": 1858,
-  "b0_fail": 14,
+  "b0_pass": 1863,
+  "b0_fail": 9,
   "no_snapshot": 0,
   "predicate_fail_count": {
    "math_brace": 3,
-   "math_delim": 9,
-   "section": 2
+   "math_delim": 6
   }
  },
  "failed": [
   {
-   "slug": "cambridge-platonists",
-   "failed": [
-    "section"
-   ]
-  },
-  {
-   "slug": "causation-probabilistic",
-   "failed": [
-    "math_delim"
-   ]
-  },
-  {
    "slug": "common-knowledge",
-   "failed": [
-    "math_delim"
-   ]
-  },
-  {
-   "slug": "computing-history",
-   "failed": [
-    "section"
-   ]
-  },
-  {
-   "slug": "connectives-logic",
    "failed": [
     "math_delim"
    ]
@@ -61,12 +36,6 @@
    ]
   },
   {
-   "slug": "logic-preference",
-   "failed": [
-    "math_delim"
-   ]
-  },
-  {
    "slug": "logic-propositional",
    "failed": [
     "math_brace"
@@ -79,7 +48,7 @@
    ]
   },
   {
-   "slug": "proof-theory",
+   "slug": "questions",
    "failed": [
     "math_delim"
    ]

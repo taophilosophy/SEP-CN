@@ -559,3 +559,21 @@
 **格式层（入补丁池）**：incommensurability（`Einstein1949b` 缺空格）、lakatos（`Lakatos1978a` 缺空格）、yorck（`pp.23–69` 缺空格）——三件本地与上游可见文字同，仅空格层差异，按第 2 条入补丁池目录正本 `baseline/en-patches/`（P-001~P-003，字段见 `INDEX.json`）。
 
 **格式/文字分类审计**：112 件回退件逐件比对（`script/_rollback_classify.txt` 留存本地凭证）：格式 3、文字 109；文字件全部可在本表一至九节定位。
+
+## 十、2026-11-18 B0 全库遍历新发现（specs/044 判定器，ADR-0072 决策 1）
+
+**来源**：`specs/044-b0b1-baseline` 的 B0 十谓词对 1,872 词条全库遍历（`b0_scan_all.py`），通过 1,863 / 失败 9；判据修正（排除 `\[2ex]` align 间距、LaTeX 命令名识别、section 允许人名式 h2）后定性如下。8 件真实疏漏入表（文字层，en/ 冻结不改），1 件（questions）为判据歧义不入表。epistemic-game / goedel / logic-propositional 的定界符计数均配对，失败源为**花括号**：嵌套定界符或孤立花括号，逐条见凭证列。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| phil-bio-latin-america | 正文 §2 | `Kuhn (1962 [1970\)` | ① | `Kuhn (1962 [1970])`（右方括号误植为 LaTeX 闭定界符 `\)`） | 相应句，译注队列 | specs/044 试金石＋栈匹配：全文 `\)` 比 `\(` 多 1，孤立处唯一 |
+| ramsey | 正文 §3 冗余真理论 | `\(a\) has \)(R\) to \(b\)` | ① | `\(a\) has \(R\) to \(b\)`（`\)` 误植于 "has" 与 "(R)" 之间，两处同型） | 相应句，译注队列 | 栈匹配孤立 `\)` ×2（同型错位）；同段对照 `\(a\) has \(R\)` 正确形 |
+| discourse-representation-theory | §3.2 验证条件列表 | `\(g\)[K']h\)` | ① | `\(g\)[K']\(h\)`（`\)` 误植，应为闭 `\)` 后接 `\(h\)`；或 `\([K']h\)` 视上下文） | 相应句，译注队列 | 栈匹配孤立 `\)` ×1；上下文 `\(g\)[K']h\)` 与 `\(h\)` verifies 对照 |
+| common-knowledge | §2 Figure 1.2 后首句 | `At each stage i\), the agent` | ① | `At each stage \(i\)`, the agent`（`\)` 误植，应为 `\(i\)`） | 相应句，译注队列 | 栈匹配孤立 `\)` ×1；`i\)` 前无对应 `\(` |
+| typelogical-grammar | §2 范畴类型列表两处 | `\(<em>B</em> &otimes; <em>A</em>)`；`((np\s)/np)\(<em>np</em>\s\)` | ① | 定界符与 HTML `<em>` 标签交错错位：`\(` 后内容含未闭标签或反向——人审定为"`\(` 应在 `<em>` 之外"或"标签应移出公式" | 相应句，译注队列 | 栈匹配未配对 `\(` ×2；两处均为 `\(`+`<em>` 交错，MathJax 渲染必错 |
+| epistemic-game | §2 多处（162 个公式） | `\text{ if, and only if, \(x\succeq_i y\)`；`\mbox{ \(i\)` | ① | `\(` 嵌套于 `\text{}`/`\mbox{}` 内——MathJax 不支持嵌套定界符，应为 `\text{if, and only if, }x\succeq_i y`（文本出 `text` 后再开公式） | 相应公式，译注队列 | 修正后判据逐公式扫描：162 个嵌套定界符公式；首例 `\text{...\(x\)` 净 depth=1 |
+| goedel | §2 定理陈述 | `2^{\kappa\)`；`\(+}\)` | ① | `2^{\kappa}\)`（闭花括号误植为 `\)`）与孤立 `\(+}\)`（多 `}`）——两处花括号错位 | 相应公式，译注队列 | 修正后判据逐公式扫描：54 个；首例 `\(\kappa , 2^{\kappa\)` 净 depth=1、次例 `\(+}\)` depth<0 |
+| logic-propositional | §3 自然演绎规则 | `\AxiomC{\(\rA\supset\rB\)` 等 | ① | `\(` 嵌套于 `\AxiomC{...}` 花括号内未闭合——应为 `\AxiomC{\(\rA\supset\rB\)}`（闭 `\)` 后补 `}`） | 相应规则图，译注队列 | 修正后判据逐公式扫描：274 个；首例 `\begin{prooftree} \AxiomC{\(\rA\supset\rB\)` 净 depth=1 |
+| questions | §2 定义式 | `\(C\in X\)\(\{P\}\)` | —（判据歧义） | `\(` 为 LaTeX 换行命令 `\` + 字面 `(`（非定界符），MathJax 渲染为换行后接括号，**疑似合法** | 无需译注 | 全文 `\(`=324/`\)`=324 配对（简单计数）；`(?<!\)` 排除后差 1 源于该处 `\(` 的配对 `\)` 前为 `}`、无法对称排除；留待人审确认渲染 |
+
+**本节小结**：8 件入表（①类，均 en/ 冻结照录、译文按参考读法承载）；questions 判据歧义不入表（渲染验证后人审裁定）。math_brace 三词条（epistemic-game/goedel/logic-propositional）定界符计数配对、失败源为花括号嵌套/错位，已按公式级扫描凭证定位。

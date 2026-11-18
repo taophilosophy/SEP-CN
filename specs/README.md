@@ -48,5 +48,11 @@
 | [041-axiom-system](041-axiom-system/spec.md) | 项目公理体系与形式化充分性审计（存根） | 已整合（存根） | ✓ | ✓ | 单文件 |
 | [042-progress-model-v2](042-progress-model-v2/spec.md) | 进度模型重建（v3 · 三段 · 节点可插 · 类型定判据） | 已整合（C 系列并入 `rules/axioms.json` P 系列；三级结构落地为 `rules/pipeline.json`） | ✓ | ✓ | — |
 | [043-pipeline-axioms](043-pipeline-axioms/spec.md) | 总执行书的公理化验证 | — | ✓ | ✓ | — |
+| [044-b0b1-baseline](044-b0b1-baseline/spec.md) | 044 — B0/B1 前置基线：HTML 模板一致性与 markdown 跨词条一致性的公理化充分性证明 | — | ✓ | ✓ | — |
+| [045-parallelism](045-parallelism/spec.md) | 045 — 全翻译流程并行性的公理化证明：充分性、一致性、完备性 | — | ✓ | — | — |
+| [046-standards-compliance](046-standards-compliance/spec.md) | 046 — 规范对齐公理体系：翻译质量/校对/参考文献/工具链安全/合规的充分性、一致性、完备性 | — | ✓ | ✓ | — |
+| [047-structural-reverse-check](047-structural-reverse-check/spec.md) | 047 — 结构反向核验：md ↔ HTML 结构比对补 I2 自证盲区 | — | — | — | — |
+| [048-independent-judge](048-independent-judge/spec.md) | 048 — 独立模型族辅助判官：GEMBA-MQM 落地（供人审，不替代） | — | — | — | — |
+| [049-enhancements](049-enhancements/spec.md) | 049 — 翻译增强三件：术语自动提取回填 / 回译核验 / 实时术语提示 | — | — | — | — |
 
-共 42 个规格目录。
+共 48 个规格目录。

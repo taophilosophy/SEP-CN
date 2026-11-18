@@ -34,14 +34,22 @@ SRC_RE = re.compile(r'\bsrc="([^"]*)"', re.I)
 
 
 def _math_brace_ok(raw):
-    """公式内 TeX 花括号平衡（复用 en_source_audit._check_math 语义）。"""
+    """公式内 TeX 花括号平衡（复用 en_source_audit._check_math 语义）。
+
+    正确区分三类：转义花括号（跳过不计）、\\command 命令名（跳过整个命令）、
+    普通 { } 花括号（计 depth）。旧实现 i += 2 把 \\in/\\num/\\dturnstile 等命令
+    的 \\ 与首字母当转义跳过，导致命令参数花括号被误判为不平衡。
+    """
     for m in re.finditer(r"\\\(.*?\\\)|\\\[.*?\\\]", raw, re.S):
         tex = m.group(0)
-        depth, i, bad = 0, 0, False
-        while i < len(tex):
+        depth, i, n, bad = 0, 0, len(tex), False
+        while i < n:
             c = tex[i]
             if c == "\\":
-                i += 2
+                j = i + 1
+                while j < n and tex[j].isalpha():
+                    j += 1
+                i = j if j > i + 1 else j + 1  # 命令名跳过；\{ \} 等跳过 2 字符
                 continue
             if c == "{":
                 depth += 1
@@ -65,12 +73,16 @@ def b0_predicates(html):
     p["pubinfo"] = bool(parser.PUBINFO_RE.search(html))
     p["title"] = bool(parser.META_RE.search(html))
     blocks = parser.parse_entry(html).get("blocks", [])
-    p["section"] = any(b.get("type") == "h2" and b.get("section") for b in blocks)
+    p["section"] = any(b.get("type") == "h2" for b in blocks)
     low = html.lower()
     p["no_truncation"] = "</html>" in low
     p["no_error_page"] = not any(mk in low[:4000] for mk in esa.MARKERS)
-    p["math_delim"] = (len(re.findall(r"\\\(", html)) == len(re.findall(r"\\\)", html))
-                       and len(re.findall(r"\\\[", html)) == len(re.findall(r"\\\]", html)))
+    # 负向后顾排除 \\[2ex]/\\[10pt] 等 align 换行间距（\\ 的第二个 \ 与 [ 被误判为 \[）
+    _op = len(re.findall(r"(?<!\\)\\\(", html))
+    _cp = len(re.findall(r"(?<!\\)\\\)", html))
+    _ob = len(re.findall(r"(?<!\\)\\\[", html))
+    _cb = len(re.findall(r"(?<!\\)\\\]", html))
+    p["math_delim"] = (_op == _cp and _ob == _cb)
     p["math_brace"] = _math_brace_ok(html)
     p["table_row"] = all(re.search(r"<tr[\s>]", t, re.I) for t in TABLE_RE.findall(html))
     p["img_src"] = all(SRC_RE.search(t) for t in IMG_RE.findall(html))

@@ -125,8 +125,209 @@ TOPIC_GENERIC = {
     'further reading', 'academic tools', 'other internet resources',
     'related entries', 'appendix', 'appendices', 'summary', 'notes',
     'acknowledgments', 'primary literature', 'secondary literature',
-    'glossary', 'see also', 'historical dictionary',
+    'glossary', 'see also', 'historical dictionary', 'reading',
 }
+
+# ---------------------------------------------------------------------------
+# 术语性守卫（2026-11-18，specs/046 术语提取降噪）
+# 治本：在提取端就拦下「非术语」——单字泛词、通用搭配、结构标题、书目残片、
+# 句子级串、古汉语虚词。确定性残渣自动拦；语义泛词用保守泛词表拦，
+# 全部可在预筛账（specs/008 results/prescreen-*）复核撤销。
+# ---------------------------------------------------------------------------
+
+# ① 单字泛词：quoted/italic/foreign 单字命中即非术语（术语后缀/非拉丁原文除外）
+COMMON_SINGLE = set('''good true false yes no real natural possible impossible
+proof theorem rule definition element system person proposition formal internal
+external absolute relative religion god optimism pessimism knowledge belief truth
+reality existence world object thing kind sort way case part point fact idea concept
+view theory sense reason language meaning value action right law state property
+quality relation mind body soul spirit life death experience perception thought
+argument conclusion premise statement sentence term word name being entity cause
+effect function structure process event phenomenon content form matter substance
+essence accident category universal particular individual whole unity plurality
+necessity possibility contingency actuality potentiality freedom liberty justice
+equality duty obligation virtue vice happiness pleasure pain evil wrong moral
+aesthetic logic metaphysics epistemology ontology ethics political social science
+philosophy nature artificial normative descriptive analytic synthetic necessary
+sufficient contingent actual ideal material abstract concrete general singular
+diverse same similar identical distinct one two three first second third
+important central crucial basic several various different recent widely generally
+usually often sometimes always never already still yet also just even only very
+quite rather somewhat particularly especially specifically actually really simply
+merely mainly mostly largely partly fully completely entirely almost nearly
+approximately roughly today now here there'''.split())
+
+# ② 短语不良词元：phrase 路含此集合词元即泛搭配（取最不可能构成哲学术语的实动词/副词）
+PHRASE_BAD = set('''take takes took taken taking make makes made making give gives
+gave given giving get gets got getting go goes went gone going come comes came coming
+put puts putting say says said saying see sees saw seen call calls called find finds
+found show shows shown happen happens happened occur occurs occurred remain remains
+seem seems seemed appear appears become becomes became play plays played want wants
+wanted try tries tried look looks looked feel feels felt too much many later earlier
+ago already still yet also just even only very quite rather somewhat actually really
+simply merely mostly largely partly fully completely entirely almost nearly
+approximately roughly'''.split())
+
+# ③ 古汉语虚词/常用字（单字 cjk 命中即非术语；概念字 理道仁義德性心情智禮孝忠勇廉恥法術勢 保留）
+CJK_FUNC = set('之乎者也矣焉哉而則乃然若如其此彼所以為於于與及皆亦又且夫蓋故可非有能得欲見聞知行成同明利虛則是一二三四五六七八九十')
+
+# ④ 英文句首虚词（阿位序列末词命中即书目残片 "b. For"/"b. The"）
+EN_SENT_STOP = set('''the for in of and but this that a an to as at by on or
+with from is are was were be been being if then than so such not no nor'''.split())
+
+# ⑤ 术语后缀（单字/短语术语性弱信号：命中即可越过泛词表）
+RE_TERM_SUFFIX = re.compile(
+    r'(ism|isms|ology|ologies|tion|sion|ity|ities|ness|ship|hood|ment|ence|ance|'
+    r'graphy|cracy|nomy|metry|geny|morphism|logy|ist)s?$', re.I)
+
+# ⑥ 结构标题（topic 路命中即非术语）
+STRUCT_HEAD = re.compile(
+    r'^(introduction|chapter|appendix|supplement|notes?|references?|bibliograph|'
+    r'further reading|related entries|academic tools|other internet|acknowledg|'
+    r'summary|conclusion|see also|primary literat|secondary literat|glossary|'
+    r'historical dictionary|figure|table|preface|foreword|afterword)\b', re.I)
+
+# ⑦ 出版社/城市残片（foreign/arabic 序列含之即书目残片）
+PUB_BAD = {'press', 'university', 'publishing', 'publisher', 'edition',
+           'editions', 'volume', 'volumes', 'translated', 'translation',
+           'library', 'bombay', 'leiden', 'leipzig', 'dordrecht', 'kluwer',
+           'springer', 'routledge', 'blackwell', 'clarendon', 'hackett',
+           'kegan', 'wiley', 'elsevier', 'brill', 'tuebingen', 'muenchen',
+           'milano', 'firenze', 'louwain', 'leuven'}
+# ⑧ 书目缩写残片（"b." "p." "ed." 等）
+BIB_RE = re.compile(
+    r'(?<![A-Za-z])(b|p|pp|ed|eds|vol|vols|no|nos|trans|n\.d|s\.v|cf|et al|'
+    r'ibid|op\. ?cit|repr)\.', re.I)
+
+# ⑨ 数学/LaTeX 残渣词元（未包在 $..$ 里的残留命令；剥反斜杠后成普通词）
+MATH_TOKENS = {'cdot', 'rightarrow', 'leftarrow', 'uparrow', 'downarrow',
+               'langle', 'rangle', 'frac', 'sqrt', 'varnothing', 'mathbb',
+               'vdash', 'forall', 'exists', 'mapsto', 'subseteq', 'supseteq',
+               'infty', 'neg', 'land', 'lor', 'leq', 'geq', 'equiv', 'iff',
+               'lim', 'sum', 'prod', 'int', 'partial', 'nabla', 'otimes',
+               'oplus', 'ast', 'circ', 'simeq', 'approx', 'cong', 'neq',
+               'pm', 'mp', 'dagger', 'bot', 'top', 'notin', 'subset', 'supset',
+               'cap', 'cup', 'emptyset', 'mathcal', 'textbf', 'textsf',
+               'mathrm', 'texttt', 'emph', 'operatorname', 'mathrel',
+               'mathbin', 'bigcup', 'bigcap', 'dots', 'quad', 'qquad',
+               'varepsilon', 'imath', 'ket', 'bra', 'vec', 'bar', 'amp',
+               'colon'}
+
+# ⑩ 子句/句子标志（系动词/助动词/报道动词；术语是名词短语，含量词动词即句子片段）。
+# 刻意排除 will / being / matter：free will、human being、prime matter 等均为术语。
+CLAUSE_TOKENS = {'is', 'are', 'am', 'was', 'were', 'be', 'been', 'has', 'have',
+                 'had', 'do', 'does', 'did', 'would', 'can', 'could', 'may',
+                 'might', 'must', 'shall', 'should', 'said', 'says', 'wrote',
+                 'writes', 'argues', 'argued', 'cannot',
+                 "isn't", "aren't", "wasn't", "weren't", "doesn't", "don't",
+                 "didn't", "won't", "shouldn't", "couldn't", "wouldn't",
+                 "mightn't", "mustn't", "can't"}
+
+# ⑩b 外语路 English 残片尾词（foreign 候选含之即 "术语+英语普通词" 解析残片）
+CLOSING_WORDS = {'chap', 'chapter', 'vol', 'volume', 'ed', 'edition', 'trans',
+                 'translator', 'pp', 'himself', 'herself', 'itself',
+                 'themselves', 'works', 'term', 'person', 'care', 'disciple',
+                 'perspective', 'structures', 'section', 'ibid'}
+
+
+# ⑪ 全普通词短语白名单（"全普通词→泛搭配"规则的例外：这些确是真术语）
+TERM_KEEP = {
+    'natural kind', 'natural kinds', 'natural law', 'natural right',
+    'natural rights', 'natural language', 'natural selection', 'natural theology',
+    'true belief', 'good will', 'common good', 'common sense', 'public reason',
+    'public interest', 'public good', 'civil society', 'social contract',
+    'general will', 'basic structure', 'original position', 'veil of ignorance',
+    'moral luck', 'moral sense', 'moral law', 'free will', 'private property',
+    'social justice', 'distributive justice', 'corrective justice', 'common law',
+    'good faith', 'perfect duty', 'imperfect duty', 'general term', 'singular term',
+}
+
+
+def termhood_ok(raw, typ):
+    """术语性守卫：返回 True 表示可入池，False 表示确定性/高置信非术语。
+
+    治本核心（specs/046）：把「单字泛词、通用搭配、结构标题、书目残片、
+    句子级串、古汉语虚词」在提取端就拦下。只拦确定性/高置信非术语，
+    语义待定者一律放行留给人审（机检为筛、人审为判，ADR-0070）。
+    """
+    toks = WORD_RE.findall(raw)
+    low = [w.casefold() for w in toks]
+    # ⓪ 数学/LaTeX 残渣（未包在 $..$ 里漏网的命令词）
+    if '\\' in raw or (set(low) & MATH_TOKENS):
+        return False
+    # ⓪b 子句/句子片段（系动词/助动词/报道动词 → 非名词性术语）
+    for t in toks:
+        b = t.casefold().replace('\u2019', "'").replace('\u2018', "'")
+        if b in CLAUSE_TOKENS:
+            return False
+    # ⓪c 连字符/重复残片（"suárez- suárez-"、"löwenstein- özbe-"）
+    if any(t.endswith('-') and len(t.strip('-')) >= 3 for t in toks):
+        return False
+    _stem = Counter(t.strip('-').casefold() for t in toks)
+    if any(v >= 2 and len(k) >= 3 for k, v in _stem.items()):
+        return False
+    # ⓪d 跨句粘连（phrase 滑窗跨句界产生 "theory Instead"/"requires" 类；
+    # 词元含句内大写专名亦非术语）——由提取端句界断窗兜底，此处拦形容词化副词尾
+    if typ == 'phrase' and re.search(r'\b(Instead|Like|Also|Moreover|'
+                                     r'However|Thus|Therefore|Rather|'
+                                     r'According)\b', raw):
+        return False
+    # ① 单字泛词（quoted/italic/foreign）
+    if typ in ('quoted', 'italic', 'foreign') and len(toks) == 1:
+        if low[0] in COMMON_SINGLE and not RE_TERM_SUFFIX.search(low[0]) \
+                and not NONASCII_LATIN.search(raw):
+            return False
+    # ② 通用搭配（phrase）
+    if typ == 'phrase':
+        if any(w in PHRASE_BAD for w in low):
+            return False
+        if len(low) >= 2 and all(w in COMMON_SINGLE for w in low) \
+                and re.sub(r'\s+', ' ', raw.strip().casefold()) not in TERM_KEEP \
+                and not any(RE_TERM_SUFFIX.search(w) for w in low):
+            return False
+    # ③ 阿位书目残片（末词为英文句首虚词）
+    if typ == 'arabic' and toks and low[-1] in EN_SENT_STOP:
+        return False
+    if typ == 'arabic' and toks and (len(toks) >= 2) and any(w in PUB_BAD for w in low):
+        return False
+    # ④ 结构标题（topic）：标题/节名不是原子术语，从严
+    if typ == 'topic':
+        if STRUCT_HEAD.match(raw.strip()):
+            return False
+        if re.search(r'\bsupplement\b', raw, re.I):
+            return False
+        if len(toks) > 3:
+            return False
+        # 含连词的复合标题（"Descartes and Ethics"/"X or Y"）非术语；
+        # 含 of/on 的（"problem of evil"/"identity of indiscernibles"）可为术语，保留
+        if re.search(r'\b(and|or)\b', raw):
+            return False
+    # ⑤ cjk 虚词与句子级串
+    if typ == 'cjk':
+        s = raw.strip()
+        if len(s) == 1 and s in CJK_FUNC:
+            return False
+        # 纯虚词/常用字串（如「之乎者也矣焉哉」）非术语
+        han = [ch for ch in s if '\u4e00' <= ch <= '\u9fff'
+               or '\u3400' <= ch <= '\u4dbf']
+        if len(han) >= 2 and all(ch in CJK_FUNC for ch in han):
+            return False
+        if len(s) > 8:
+            return False
+    # ⑥ foreign/arabic 书目残片（出版社/城市/缩写）
+    if typ in ('foreign', 'arabic') and (BIB_RE.search(raw)
+                                          or (len(toks) >= 2 and any(w in PUB_BAD for w in low))):
+        return False
+    # ⑥b foreign 解析残片：English 尾词，或「英语小写词 + 非拉丁原文」混排
+    #    （"Künne chap"/"Gödel's inner model"/"disciple Kamalaśīla"/"structures dào"）
+    if typ == 'foreign':
+        if any(w in CLOSING_WORDS for w in low):
+            return False
+        has_nonascii = any(ord(ch) > 127 for ch in raw)
+        has_ascii_lower = any(re.fullmatch(r"[a-z][a-z'\-]*", t) for t in toks)
+        if has_nonascii and has_ascii_lower:
+            return False
+    return True
 
 
 def clean_phrase(text):
@@ -165,6 +366,13 @@ def extract_slug(path):
     """单篇五路提取 → Counter(键 → 频次) 与原始形、类型映射。"""
     text = open(path, encoding='utf-8').read()
     text = re.sub(r'```.*?```', ' ', text, flags=re.S)  # 代码块剔除
+    # 数学模式剔除（2026-11-18 specs/046 治本）：$..$ / $$..$$ / \(..\) / \[..\]。
+    # 旧版漏剔，反斜杠被 WORD_RE 剥掉后残留 cdot/rightarrow/langle 等，
+    # 曾产出 "mid cdot"「rightarrow rightarrow」类 LaTeX 残渣（freq 数百）。
+    text = re.sub(r'\$\$.*?\$\$', ' ', text, flags=re.S)
+    text = re.sub(r'\$[^$\n]*\$', ' ', text)
+    text = re.sub(r'\\\(.*?\\\)', ' ', text, flags=re.S)
+    text = re.sub(r'\\\[.*?\\\]', ' ', text, flags=re.S)
     # 尾部站点节裁剪：参考文献/学术工具/相关条目（书目作者对与导航噪声主源）
     text = re.split(r'\n## (?:References|Bibliography|Academic Tools|'
                     r'Other Internet Resources|Related Entries)[^\n]*\n',
@@ -184,6 +392,9 @@ def extract_slug(path):
             if NONASCII_LATIN.search(raw) or GERMAN_SUFFIX_RE.search(raw) \
                     or key in FOREIGN_LEXICON:
                 typ = 'foreign'
+        # 术语性守卫（2026-11-18 specs/046 治本）：确定性/高置信非术语在提取端拦下
+        if not termhood_ok(raw, typ):
+            return
         counter[key] += 1
         forms.setdefault(key, raw.strip())
         prev = types.get(key)
