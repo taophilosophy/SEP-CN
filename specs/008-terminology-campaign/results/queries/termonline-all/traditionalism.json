@@ -1,0 +1,52 @@
+{
+ "key": "traditionalism",
+ "term": "traditionalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:35:49+00:00",
+ "status": "ok",
+ "note": "variant=traditionalism; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "既是食品又是中药材的物质",
+   "en": "substances traditionally used both as medicine and food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.36",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "传统上作为食品食用，且列入《中华人民共和国药典》中、可以作为中药材使用的物质。"
+  },
+  {
+   "cn": "食药物质目录",
+   "en": "lists of substances traditionally used both as medicine and food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.38",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "符合有传统上作为食品食用的习惯、已经列入《中华人民共和国药典》、安全性评估未发现食品安全问题、不违反相关资源保护法律规定四条要求的食药物质的信息列表；由国家卫生健康委会同市场监管总局制定、公布并实施动"
+  },
+  {
+   "cn": "食药物质安全性评价",
+   "en": "safety evaluation of substances traditionally used both as medicine and food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.37",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "由具有资质的机构通过对食药物质的成分分析、卫生学检验、毒理学评价等方法，并分析其主要药理活性成分的特殊毒性评价资料，对食药物质的食用安全性进行全面评估的过程。"
+  },
+  {
+   "cn": "食药物质传统食用方式",
+   "en": "tradtitional eating habits of substances traditionally used both as medicine and food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.39",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "根据传统饮食习惯或记录的历史食用方式，如粉碎、切片、压榨、炒制、水煮、酒泡等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "scientific naturalism",
+ "term": "scientific naturalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:26:44+00:00",
+ "status": "ok",
+ "note": "variant=scientific naturalism; 审定公布名词库=1295; 海峡两岸名词对照库=312; 其他来源数据库=105; 预公布名词数据库=106; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "科学规划",
+   "en": "scientific planning",
+   "source": "风景园林名词",
+   "wordNumber": "04.0352",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "以科学的思维方式，科学的分析手段与方法，按照科学的规划程序进行的符合客观实际的规划活动。"
+  },
+  {
+   "cn": "科学分类",
+   "en": "scientific classification",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "按照一定的标准，根据各门科学的区别和联系，依据事物的矛盾和运动形式的特殊性，确定每门科学在科学总联系中的地位，揭示整个科学的内部联系和层次结构，从而把科学区分成不同的门类。"
+  },
+  {
+   "cn": "科研规范",
+   "en": "scientific norm",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.050",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "约束科学研究人员的规范、准则。包括科研人员的道德规范、科研成果的评价规范、科研的技术规范等。科研规范的内容渗入科研全过程，对参与其中的人员形成道德和学术上的约束，是科学研究能够良好进行的重要保证。"
+  },
+  {
+   "cn": "科学实在论",
+   "en": "scientific realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为科学理论不断逼近客观真理，它们假设的不可观察实体也真实存在。"
+  },
+  {
+   "cn": "科学进步",
+   "en": "scientific progress",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.029",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "科学研究向某一个特定的方向发展。如不断逼近真理或解决问题的能力提升。"
+  },
+  {
+   "cn": "科学变迁",
+   "en": "scientific change",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.030",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "科学在发展历程中，其理论、概念、方法等都可能发生的变化。"
+  },
+  {
+   "cn": "科学推理",
+   "en": "scientific reasoning",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.076",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "科学家在科学实践中通过概括与抽象得出规律。"
+  },
+  {
+   "cn": "科学合理性",
+   "en": "scientific rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.126",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学符合严格程序（如逻辑方法）或具有实现目标（如带近真理或解决问题）的有效性。"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "大多数科学家们放弃旧范式而接受新方案时，实现范式转换的过程。在这一过程中，往往社会性因素起主要作用，而非遵守普遍适用的合理性规则。"
+  },
+  {
+   "cn": "科学研究",
+   "en": "scientific research",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.001",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "旨在发现新事实和新理论知识的认识活动。运用严密系统的科学方法，以认识世界、探索真理为目标的活动过程。"
+  },
+  {
+   "cn": "科学方法",
+   "en": "scientific method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.006",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究的方法或科学认识的方法，是人们进行研究活动的程序、方式、手段和规则。"
+  },
+  {
+   "cn": "科学方法论",
+   "en": "scientific methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.007",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "以科学方法的性质、功能、内在联系及应用范围等为研究对象的哲学分支。"
+  },
+  {
+   "cn": "科学认识",
+   "en": "scientific epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由认识主体、认识客体和实现主客体相互作用的中介三个要素组成的，以认识世界、创新知识为目标的动态过程。"
+  },
+  {
+   "cn": "科学仪器",
+   "en": "scientific instrument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.020",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究中运用的物质工具和设备等。"
+  },
+  {
+   "cn": "科学语言",
+   "en": "scientific language",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.021",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学交流运用的书写符号系统。精确性和经验性是其突出的特征。"
+  },
+  {
+   "cn": "科学符号",
+   "en": "scientific symbol",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.026",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究中用来表示现象、事实、理论及其相互关系等的人工书写形式。"
+  },
+  {
+   "cn": "科学经验",
+   "en": "scientific experience",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究中在受控条件下通过观察和实验等取得的可靠数据等研究资料。"
+  },
+  {
+   "cn": "科学事实",
+   "en": "scientific fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究中发现的真实可靠的现象或现象之间的关系。"
+  },
+  {
+   "cn": "科学文献",
+   "en": "scientific literature",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究中使用的资料。如数据、论文及著作等。"
+  },
+  {
+   "cn": "科学发现",
+   "en": "scientific discovery",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.036",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "科学活动中对未知现象或规律的揭示。包括事实和理论两个方面。"
+  },
+  {
+   "cn": "前科学",
+   "en": "pre-scientific",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据库",
+   "en": "scientific database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "本质",
+   "en": "nature",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本位记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "还原记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归化,自然化",
+   "en": "naturalization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自然化",
+   "en": "naturalization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve\",\"nature preserve\",\"nature sanctuary",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve\",\"nature preserve\",\"nature sanctuary",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural draft\",\"natural ventilation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自然景物",
+   "en": "natural object\",\"natural scene",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve\",\"nature sanctuary",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural draft\",\"natural draught",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "科学计算可视化",
+   "en": "visualization in scientific computing",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "归化植物",
+   "en": "naturalized plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "归化种",
+   "en": "naturalized species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学可视化",
+   "en": "scientific visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据",
+   "en": "scientific data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学发现",
+   "en": "scientific discovery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学共同体",
+   "en": "scientific community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学计算",
+   "en": "scientific computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据库",
+   "en": "scientific databases",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学大数据",
+   "en": "Scientific Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科研众筹",
+   "en": "scientific research crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国科学数据》",
+   "en": "China Scientific Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据行动",
+   "en": "Scientific Data Movement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据引用",
+   "en": "scientific data citation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型科学范式",
+   "en": "data-intensive scientific paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据索引",
+   "en": "Scientific Data Index (SDI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据重用",
+   "en": "reuse of scientific data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据质量评价",
+   "en": "scientific data quality evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学会",
+   "en": "scientific society",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "从事某一学科的人组成的、便于进行学术交流，开展学术活动和进行友好交往的群众性学术研究团体。"
+  },
+  {
+   "cn": "科学争论",
+   "en": "scientific debate",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.13",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "因概念、方法、解释和应用等方面出现分歧而发生的论争，是科学知识集体生产的一个重要组成部分，也是科学发展最重要的创造性因素之一。"
+  },
+  {
+   "cn": "科学激励",
+   "en": "scientific inspiration",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.16",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "促成科学的兴起与发展的重要因素之一，分为外在因素和内在因素：前者包括社会经济、军事等实用的需要以及宗教、文化等价值因素；后者指科学的内在激励方式，比如对科学发现优先权的竞争。"
+  },
+  {
+   "cn": "科学范式",
+   "en": "scientific paradigm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "某一段时期内公认的科学模型或模式，并在此期间为实践共同体提供了典型问题和解答。通常表现为处于该模型或模式下的研究者都承诺同样的规则和标准来从事科学实践。"
+  },
+  {
+   "cn": "科学生产率",
+   "en": "scientific productivity",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "描述科学家的科学成果的产出率的指标。"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "科学共同体做出的一系列新的承诺或共识，并建立一个科学实践的新基础，即科学共同体专业承诺发生了转移，打破了传统的活动，实现从一个范式到另一个范式的转变过程。"
+  },
+  {
+   "cn": "科学必然性",
+   "en": "scientific inevitability",
+   "source": "马克思主义",
+   "wordNumber": "01.0054",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与哲学必然性相区别。是科学研究的对象。是指事物内部、现象背后的不依赖于人的意识而存在的事物联系与发展过程的本质，是自然、社会和人类思维所固有的客观规律性。科学的任务就是要透过复杂的偶然现象来揭露事物发"
+  },
+  {
+   "cn": "科学社会主义",
+   "en": "scientific socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0003",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由马克思、恩格斯为无产阶级和全人类解放而创立和不断发展的科学，是由资本主义社会转向社会主义社会和社会主义、共产主义社会发展规律的科学。科学社会主义有广义和狭义两种理解∶广义上，科学社会主义即共产主义学"
+  },
+  {
+   "cn": "科学执政",
+   "en": "scientific governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0678",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "结合中国实际不断探索和遵循共产党执政规律、社会主义建设规律、人类社会发展规律，以科学的理论、科学的思想、科学的制度、科学的方式组织和带领人民共同建设中国特色社会主义。"
+  },
+  {
+   "cn": "科学辩证法",
+   "en": "scientific dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0076",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代德拉·沃尔佩（Galvano DellaVolpe）提出“新实证主义的马克思主义”，认为马克思的辩证法，其本质是“科学的辩证法”，是对客观事物本质和规律的揭示，是一种实证的逻辑，而非抽"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "大多数科学家们放弃旧范式而接受新方案时，实现范式转换的过程。在这一过程中，往往社会性因素起主要作用，而非遵守普遍适用的合理性规则。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "naturalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "以自然现象（如日、月、水、火）等为对象的信仰，原被理解为“原始宗教”的标志。研究表明，它只是人与自然建立的关系的一种表现形式。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "马克思主义",
+   "wordNumber": "01.0138",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物在自然环境中遵循自然规律的自然属性和行为。自在的自然具有自然性，人化的自然不仅具有自然性，还具有社会性。"
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0137",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“自然”与“物质”是同一层次或者同等程度的范畴，但自然范畴的内涵更丰富、更具体。从具体层次讲，自然较多的是作为人类活动环境的意义而被使用，是与社会、历史、文化等概念相对应的范畴。"
+  },
+  {
+   "cn": "科学研究纲领",
+   "en": "scientific research program",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "典型的描述重大科学成就的单位，由硬核、与之相关的由辅助假说构成的“保护带”和启发法构成。"
+  },
+  {
+   "cn": "非洲科学社会主义",
+   "en": "African scientific socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0259",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "非洲社会主义的一个重要流派，宣称奉行马克思主义的科学社会主义，是一种自称的“科学社会主义”。该模式认为马克思主义普遍适用于非洲地区，提出以社会主义、共产主义为最终目标，并在执政时期实行了一系列激进措施"
+  },
+  {
+   "cn": "自然主义伦理学",
+   "en": "ethical naturalism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.148",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "从自然规律和人的生理、心理特征中引申出道德要求，在人的自然本性中寻找决定人的行为目的、动机和原则，并依据自然科学的材料和方法加以论证而建立起来的伦理学理论。试图从自然科学角度研究人类社会面临的道德问题"
+  },
+  {
+   "cn": "科学知识社会学",
+   "en": "sociology of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "一种以科学知识本身作为学术考察对象而形成的包括科学哲学、科学史、科学社会学和科学文化的批判性研究领域，认为科学知识的构成完全是社会性的，主张将科学知识纳入到社会学分析之中，探讨社会因素对科学知识形成的"
+  },
+  {
+   "cn": "科学知识的体系化",
+   "en": "systematic of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "把科学知识加以整理，转变为简洁的和相互关联的系统的理论阐述。"
+  },
+  {
+   "cn": "科学知识的积累",
+   "en": "accumulation of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "在科学领域中，经验—实证性知识和理论知识逐步累积和增长的过程。科学社会学认为，科学知识是经过社会与文化环境诸因素的影响，选择性积累的结果。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "argument continues",
+ "term": "argument continues",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:27:34+00:00",
+ "status": "ok",
+ "note": "variant=argument continues; 审定公布名词库=928; 海峡两岸名词对照库=219; 其他来源数据库=27; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由蒯因、普特南等人提出的一个数学实在论论证。该论证认为，如果作为关于世界之最佳理论的自然科学无法避免对数学对象的指称，那么就应当接受数学对象的客观实在性。"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.514",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "D. 查莫斯（D. Chalmers）给出的一种“可设想性论证”的思想实验。如果一种在物理行为层面和人类完全一样，但却没有意识经验或感受性的僵尸的存在是可设想的，那么就可以推论出僵尸的存在是可能的。因"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "笛卡儿在《第六沉思》中最早提出这类论证：由某情形是可设想的，推导出它也是可能存在的。D. 查莫斯（D. Chalmers）的僵尸论证是典型的可设想性论证。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "争论性幻听",
+   "en": "argument hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "听到几种声音对受检者某方面表达观点不一致，甚至相互之间发生争吵的一种言语性幻听。"
+  },
+  {
+   "cn": "标度论证",
+   "en": "scaling argument",
+   "source": "物理学名词",
+   "wordNumber": "05.1095",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力迫论证",
+   "en": "forcing argument",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0228",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "这是集合论中的力迫方法在可计算性中的应用，它被广泛应用于可计算性理论。"
+  },
+  {
+   "cn": "权威论证",
+   "en": "authoritative argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0275",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "援引有关权威人士或机构的意见来证实自己论点的可信度，争取他人支持自己主张的政策说服行为。"
+  },
+  {
+   "cn": "政策论证",
+   "en": "policy argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0277",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "政策参与者旨在影响有关政策而寻找有利的资讯，以强化本身的政策主张并提出反证，以抗辩其他不同主张的做法。"
+  },
+  {
+   "cn": "辐角原理",
+   "en": "argument principle",
+   "source": "数学名词",
+   "wordNumber": "05.0402",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变函数",
+   "en": "argument function",
+   "source": "数学名词",
+   "wordNumber": "05.0690",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "商业论证",
+   "en": "business argumentation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.009",
+   "subjectFullName": "化工（五）_研发与工程化_研发项目管理",
+   "subjectName": "研发项目管理",
+   "publishYear": "2021",
+   "definition": "用来对还缺乏充分定义的所选方案的收益进行有效性论证的文档化的经济可行性研究报告，是启动后续项目管理活动的依据。"
+  },
+  {
+   "cn": "论辩修辞学",
+   "en": "argumentative rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.011",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "现代英、美修辞学的一个分支。以20世纪初的逻辑实证主义哲学为基础，继承了亚里士多德古典修辞学的研究方法，研究各种论辩技巧，分析使论辩顺利开始、发展以及取得良好效果的条件，考证文章的真假值等。"
+  },
+  {
+   "cn": "自变量",
+   "en": "argument,independent variable",
+   "source": "物理学名词",
+   "wordNumber": "01.0072",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "中文屋论证",
+   "en": "Chinese room argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.581",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由J. 瑟尔（J. Searle）提出的反驳计算机也能思考的思想实验。想象一个被锁在房间中完全不懂中文的人，借助一部处理中文符号的英语指南，将屋中的中文符号向外输出，以回复输入屋内的用中文符号提出的问"
+  },
+  {
+   "cn": "近点幅角",
+   "en": "argument of periapsis",
+   "source": "天文学名词",
+   "wordNumber": "03.072",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "轨道近点和升交点间的角距离，从升交点起沿运动方向度量。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类推论证",
+   "en": "argument by analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近点辐角",
+   "en": "argument of periapsis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近心点辐角",
+   "en": "argument of pericenter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本国产业论，本国产业保护论",
+   "en": "home industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "产业多样化论",
+   "en": "diversified industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业保护论",
+   "en": "industry protection argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内市场论",
+   "en": "home market argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近地点引数",
+   "en": "argument of perigee",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纬度自变量",
+   "en": "argument of latitude",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "零知识交互式论证",
+   "en": "zero-knowledge interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续性状",
+   "en": "continuous character\",\"continuous trait",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "连续毛细血管",
+   "en": "continuous capillary",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "继续比赛!",
+   "en": "Continue!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续数据",
+   "en": "continuous data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续转移",
+   "en": "continuous transfer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续控球",
+   "en": "continuous possession",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续旋转",
+   "en": "continuous spin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续动作",
+   "en": "continuous movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "穷则变，变则通，通则久",
+   "en": "Extreme –Change –Continuity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础平台连续性",
+   "en": "basic platform continuity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "业务连续性管理",
+   "en": "business continuity management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时空连续性",
+   "en": "time and space continuity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "继续！",
+   "en": "Carry on! Continue! Gyesok! Kyesok!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自强不息",
+   "en": "Strive Continuously to Strengthen Oneself",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违背比赛连续性原则",
+   "en": "violation of the principle that play shall be continuous",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "继续母乳喂养",
+   "en": "continued breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "6个月以后的婴幼儿在添加其他食物的基础上仍进行的母乳喂养。"
+  },
+  {
+   "cn": "连续监测",
+   "en": "continuous monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在所关心的时期内的不间断的放射性监测。"
+  },
+  {
+   "cn": "连续方式",
+   "en": "continuous mode",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.56",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线发生装置中电能以连续形式施加于X射线管的加载方式。"
+  },
+  {
+   "cn": "连续变量",
+   "en": "continuous variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.42",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在某界限内连续作微量变化的变量。"
+  },
+  {
+   "cn": "连续性生长",
+   "en": "continuous growth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "体格生长的连续过程。即从受精卵到长大成人的过程中，体格生长在不断进行。"
+  },
+  {
+   "cn": "连续性服务",
+   "en": "continuous service",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.4",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "通过全生命周期覆盖、服务流程无缝衔接、健康信息动态追踪，为社区居民提供从出生到死亡、从健康到疾病、从急性干预到慢性管理的全程化、不间断的健康服务。其目标是确保居民在不同健康阶段、不同服务场景中都能获得"
+  },
+  {
+   "cn": "持续治疗",
+   "en": "continuous treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.038",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "相对于传统固定周期治疗而言的、延长治疗时间的治疗模式。"
+  },
+  {
+   "cn": "文化连续性",
+   "en": "cultural continuity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "文化在长时段历史中所呈现的“层叠性”特征，即文化的发展依靠积累、凝结与积淀，必然呈现为连续渐进的形态。即使是文化衰退，也具有递减的连续性。与文化断层、文化突变相对。"
+  },
+  {
+   "cn": "连续性理论",
+   "en": "continuity theory",
+   "source": "社会学名词",
+   "wordNumber": "3.15.4.3",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年与老龄化相关理论",
+   "subjectName": "老年与老龄化相关理论",
+   "publishYear": "2025",
+   "definition": "解释老年人晚年生活差异性的理论。认为人在成长过程中既有变化又有连续性，随着年龄的增长，主要的个性特点更为明显或终身变化不大；如果人们一生始中维持自己喜爱的角色、保持适应的技巧，那他们就可以成功地老龄化"
+  },
+  {
+   "cn": "连续使用稳定性",
+   "en": "continuous application stability",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒剂反复多次使用至规定时间和次数后，仍满足消毒要求的能力。"
+  },
+  {
+   "cn": "持续消毒作用",
+   "en": "continuous disinfection action",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.27",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒剂在较长时间（>24h）对物体表面的微生物仍具有杀菌能力的现象。"
+  },
+  {
+   "cn": "连续性服务",
+   "en": "continuity of care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.5.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "一种以孕产妇为中心的助产服务提供方式，强调关注孕产妇健康需求，从初诊预约至产后阶段在服务计划、组织管理和服务提供方面给予持续的支持。"
+  },
+  {
+   "cn": "继续医学教育",
+   "en": "continuing medical education",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6.7",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "医疗卫生专业人员在完成基础医学教育和毕业后医学教育后，为了更新知识、提高专业技能、适应医学科学发展及满足职业需求而进行的系统性、终身学习过程。"
+  },
+  {
+   "cn": "乳液连续相",
+   "en": "emulsified liquor continue phase",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.13.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "乳化液体系外部的分散介质"
+  },
+  {
+   "cn": "氡连续测量",
+   "en": "continuous measurement of radon",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.5.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量",
+   "subjectName": "氡及其子体测量",
+   "publishYear": "2025",
+   "definition": "氡测量时，在固定的时间间隔内进行的不间断的并能够得到每一时间间隔结果的测量。"
+  },
+  {
+   "cn": "连续生产制",
+   "en": "system of continuous production",
+   "source": "马克思主义",
+   "wordNumber": "03.0313",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "一种充分利用现有机器设备的工时制度，即工人轮班不停地工作，节假日也不例外，不让机器空闲下来。苏联建设社会主义的初期为加快劳动生产进展，采取了这种办法。"
+  },
+  {
+   "cn": "中等强度持续运动",
+   "en": "moderate intensity continuous training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.12",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "40-59%储备心率、46-63%最大摄氧量或64-76%最大心率的运动强度下进行的长时间持续运动。是有氧运动的一种。"
+  },
+  {
+   "cn": "避孕方法续用率",
+   "en": "continuous use of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "在某一时点（一般以满某年而计），在同时启用某种避孕方法的所有使用者中，持续使用该方法的使用者所占的百分比。本指标在一定程度上反映该避孕方法使用者的依从性。"
+  },
+  {
+   "cn": "留治率",
+   "en": "ratio of continuing treatment",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "各级救治机构每通过百名伤病员留治的人数，反映战事稳定程度和各救治机构的留治能力，为组织救治工作和筹划床位提供依据。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

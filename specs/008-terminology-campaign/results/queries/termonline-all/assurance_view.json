@@ -1,0 +1,792 @@
+{
+ "key": "assurance view",
+ "term": "assurance view",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:43:34+00:00",
+ "status": "ok",
+ "note": "variant=assurance view; 审定公布名词库=354; 海峡两岸名词对照库=204; 其他来源数据库=37; 预公布名词数据库=112; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "保证性",
+   "en": "assurance",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0572",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "员工的知识、礼貌、自信和可信的能力以及服务机构能胜任提供服务的能力。"
+  },
+  {
+   "cn": "视景",
+   "en": "view",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.349",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "从一个给定观察点所见的客观画面。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0217",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "根据有关标准和规定，用正投影法将机件向投影面投影所得到的图形。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0009",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "供用户和数据库管理员了解和使用的数据库的逻辑结构。每个视图抽象地描述了整个数据库的一个侧面。"
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "航海科技名词",
+   "wordNumber": "07.0293",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.207",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "为保障某一产品、过程或服务的质量达到要求所必需的全部有计划、有组织的活动。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "兽医学名词",
+   "wordNumber": "03.095",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "质量管理的一部分。使用户确信产品能满足规定的质量要求。"
+  },
+  {
+   "cn": "保障等级",
+   "en": "assurance level",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0260",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "在信息系统和产品的评估中，对评估对象所采用的安全措施的评级划分。"
+  },
+  {
+   "cn": "信息保障",
+   "en": "information assurance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0259",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "保障和管理数字信息及数据的使用、处理、存储和传输风险的实践，以及达到保障和管理目的的系统和过程。"
+  },
+  {
+   "cn": "合理保证",
+   "en": "reasonable assurance",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0351",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师在财务报表审计中提供的一种高度但非绝对的保证。"
+  },
+  {
+   "cn": "鉴证业务",
+   "en": "assurance engagement",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0430",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师对鉴证对象信息做出结论，以增强除责任方之外的预期使用者对鉴证对象信息信任程度的业务。"
+  },
+  {
+   "cn": "计量保证",
+   "en": "metrological assurance",
+   "source": "计量学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "在法制计量中用于保证测量结果可信性的所有法规、技术手段和必要的活动。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "放射医学与防护名词",
+   "wordNumber": "01.031",
+   "subjectFullName": "放射医学与防护_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "为使项目，过程或服务达到既定质量要求，并提供足够置信度而必须实行的所有计划的、系统的活动。已广泛地应用于各个领域和行业，但赋予不同的具体内涵。"
+  },
+  {
+   "cn": "地质可靠程度",
+   "en": "geological assurance",
+   "source": "资源科学技术名词",
+   "wordNumber": "16.058",
+   "subjectFullName": "资源科学技术_矿产资源学",
+   "subjectName": "矿产资源学",
+   "publishYear": "2008",
+   "definition": "反映矿产勘查阶段工作成果的不同精度，分为探明的、控制的、推断的和预测的四种。"
+  },
+  {
+   "cn": "计量保证",
+   "en": "metrological assurance",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.009",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "产品保证",
+   "en": "product assurance",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.038",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.061",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "维修性保证",
+   "en": "maintainability assurance",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.218",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.1038",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "阿苏尔杆组",
+   "en": "Assur group",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0036",
+   "subjectFullName": "机械工程（一）_机构与机器人学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "自由度等于零并且不能再拆分的平面低副构件组。"
+  },
+  {
+   "cn": "保险",
+   "en": "assurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确保",
+   "en": "assurance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保险人",
+   "en": "assurer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保险单",
+   "en": "assurance policy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险公司",
+   "en": "assurance company",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确保等级",
+   "en": "assurance level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "共同承保人",
+   "en": "co-assurer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确保操作",
+   "en": "assured operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赤道面观",
+   "en": "equatorial view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "极面观",
+   "en": "polar view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壳环面观",
+   "en": "girdle view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壳面观",
+   "en": "valve view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视因数",
+   "en": "view factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海底观光",
+   "en": "submarine view",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信任保障",
+   "en": "Trust Assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全保障",
+   "en": "security assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全视角传输",
+   "en": "full view transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全保障",
+   "en": "big data security assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全方位信息保证认证",
+   "en": "overall information assurance and authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "两不愁三保障",
+   "en": "two assurances and three guarantees",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视场",
+   "en": "field of view (FOV)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球治理观",
+   "en": "views on global governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "调整杠铃位置",
+   "en": "assure the position of the bar",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 30998-2014 信息技术 软件安全保障规范》",
+   "en": "GB/T 30998-2014 Information technology — Software safety assurance specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 30273-2013 信息安全技术 信息系统安全保障通用评估指南》",
+   "en": "GB/T 30273-2013 Information security technology — Common methodology for information systems security assurance evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奏启",
+   "en": "Memorial or Statement to Present One’s View to the Emperor",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 18336.3-2015 信息技术 安全技术 信息技术安全评估准则 第3部分：安全保障组件》",
+   "en": "GB/T 18336.3-2015 Information technology — Security techniques — Evaluation criteria for IT security — Part 3: Security assurance components",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/Z 29830.1-2013 信息技术 安全技术 信息技术安全保障框架 第1部分：综述和框架》",
+   "en": "GB/Z 29830.1-2013 Information technology — Security technology — A framework for IT security assurance — Part 1: Overview and framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 43.0.8-2017 设备和操作活动的信息保障 人与信息交互的人工智能 通用原则》",
+   "en": "GOST R 43.0.8-2017 Information assurance for equipment and operational activity ― Artificial intelligence of human-information interaction ― General principles",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《EN ISO/IEC 27041-2016 信息技术 安全技术 确保事件调查方法的适用性和充分性的指南》",
+   "en": "EN ISO/IEC 27041:2016 Information technology — Security techniques — Guidance on assuring suitability and adequacy of incident investigative method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保证保险",
+   "en": "guaranteed insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足质量要求所必需的计划和系统措施。"
+  },
+  {
+   "cn": "信息保障",
+   "en": "information assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "利用信息技术实施学校突发公共卫生事件及相关信息收集、处理、分析、发布和传递等工作，并采取分级负责的方式进行实施的活动。"
+  },
+  {
+   "cn": "物质保障",
+   "en": "material assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "各级人民政府、相关部门和学校储备处理学校突发公共卫生事件的物资和能力，发生事件时，根据应急处理工作需要调用储备物资，并及时补充卫生应急储备物资的活动。"
+  },
+  {
+   "cn": "经费保障",
+   "en": "funding assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "用于支出突发公共卫生事件应急处理工作，保障突发公共卫生事件应急基础设施项目建设，以及按规定落实对突发公共卫生事件应急处理专业技术机构的财政补助政策和突发公共卫生事件应急处理的费用。"
+  },
+  {
+   "cn": "历史观",
+   "en": "historical view",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0138",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对历史发展演变规律的认知，包括对自身国家、民族、文化发展历史的认同和认知，以及自身国家、民族、文化同他者交往历史的认知。在中国，核心是对中华人民共和国、中华民族发展历史的认同。"
+  },
+  {
+   "cn": "健康观",
+   "en": "health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "人类对健康与疾病的本质认识，建立在特定医学模式基础上，并随着医学模式的演变而改变。"
+  },
+  {
+   "cn": "无菌保证期",
+   "en": "sterility assurance period",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.6",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "灭菌包装内的物品灭菌后可以保持无菌状态的时间。"
+  },
+  {
+   "cn": "合作机制保障",
+   "en": "cooperation mechanism assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "各有关部门加强战略合作，共同完善信息共享、应急响应联动、应急资源共享、开展共训共练等方面的合作与交流，切实提高合作协同应急处置能力的工作机制。"
+  },
+  {
+   "cn": "人员保障",
+   "en": "human resources assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "各有关部门按照“平战结合、因地制宜，分类管理、分级负责，统一管理、协调运转”的原则建立的突发公共卫生事件应急处理队伍，并加强管理和培训，支持应急处置工作的活动。"
+  },
+  {
+   "cn": "消极健康观",
+   "en": "negative health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "生物医学模式下基于疾病的发生、发展和转归关系为依据的健康疾病观，以疾病为中心，“健康即无病”。"
+  },
+  {
+   "cn": "健康观",
+   "en": "view of health",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.03",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对健康的根本观点和态度。传统的健康观认为“无病即健康”，世界卫生组织提出：“健康不仅指一个人身体有没有出现疾病或虚弱现象，而是指一个人生理、心理和社会适应能力的完好状态”。人的健康应是综合性的、全"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "现代医学模式下从生物学、心理学和社会学多个维度改善和控制健康影响因素的健康观。"
+  },
+  {
+   "cn": "死亡观",
+   "en": "view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.026",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对死亡的根本观点。不同文化、不同宗教有着不同的死亡态度。"
+  },
+  {
+   "cn": "生命观",
+   "en": "view of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对生命的本质、价值等诸方面的根本看法和总的观点。统摄和支配着人们对待生命的态度、情感、意志和行为选择。"
+  },
+  {
+   "cn": "药品供应保障制度",
+   "en": "Pharmaceutical Supply Assurance Framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "根据国家法律法规，制定生产、流通、招采、使用和评审等各环节的制度，旨在保障药品安全有效、价格合理、供应充分。"
+  },
+  {
+   "cn": "唯物主义死亡观",
+   "en": "materialistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.0269999999999997",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为死亡是一种自然现象的观念。世界上任何事物都要经历产生、发展和消亡的过程，死亡是不以人的意志为转移的客观规律，精神依赖于物质性的身体而存在，否认灵魂及灵魂不灭。"
+  },
+  {
+   "cn": "大健康观",
+   "en": "comprehensive view on health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.1",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "以大健康为基础，强调从“以治病为中心”转向“以健康为中心”，涵盖了生理、心理、社会适应和道德健康等多维度的健康观。"
+  },
+  {
+   "cn": "二元论死亡观",
+   "en": "dualistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.029",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "一种混合着唯心主义和唯物主义的死亡观念。认为灵魂和身体是两个独立的实体，死亡是灵魂与身体的分离，身体消亡而灵魂不灭。"
+  },
+  {
+   "cn": "唯心主义死亡观",
+   "en": "idealistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.028",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为死亡是超自然现象的观念。认为人的灵魂不依赖于物质性的身体而存在，灵魂不灭，死亡是灵魂对尘世的超脱。"
+  },
+  {
+   "cn": "核爆炸景象",
+   "en": "view of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.45",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸时，产生特异的外观景象。除地下（水下）爆炸外，其共同的特点是依次出现闪光、火球、蘑菇状烟云，并发出巨大响声。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

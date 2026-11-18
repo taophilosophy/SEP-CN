@@ -1,0 +1,682 @@
+{
+ "key": "function theory",
+ "term": "function theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:26:17+00:00",
+ "status": "ok",
+ "note": "variant=function theory; 审定公布名词库=5236; 海峡两岸名词对照库=1492; 其他来源数据库=267; 预公布名词数据库=357; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "有机职能论",
+   "en": "organic function theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0470",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "由戴维斯(Ralph C. Davis)于1934年提出，对法约尔理论进行了系统化修订，认为管理职能具有逻辑上的有机关系，包括计划、组织和控制三种。"
+  },
+  {
+   "cn": "职能鉴定论",
+   "en": "functional appraisal theory",
+   "source": "档案学名词",
+   "wordNumber": "03.02.007",
+   "subjectFullName": "档案学_档案管理_档案鉴定",
+   "subjectName": "档案鉴定",
+   "publishYear": "2024",
+   "definition": "波兰档案学者卡林斯基提出的档案鉴定理论，要求按照文件形成机关在政府机构体系中的地位和职能的重要性来确定档案文件的价值及保管期限，即形成机关地位越高、职能越重要，档案文件的价值相应就越大。"
+  },
+  {
+   "cn": "函数构造论",
+   "en": "constructive theory of functions",
+   "source": "数学名词",
+   "wordNumber": "05.0532",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "函数逼近论",
+   "en": "approximation theory of functions",
+   "source": "数学名词",
+   "wordNumber": "05.0533",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "密度泛函理论",
+   "en": "density functional theory,DFT",
+   "source": "冶金学名词",
+   "wordNumber": "04.0799",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "多电子体系基态的总能量是密度的泛函，即体系的所有能量可由该体系内电子分布表述，不考虑电子运动的细节。该理论为凝聚态物理和计算化学领域最常用的量子力学方法之一。是基于量子力学和玻恩–奥本海默绝热近似的从"
+  },
+  {
+   "cn": "密度泛函理论",
+   "en": "density functional theory,DFT",
+   "source": "物理学名词",
+   "wordNumber": "08.1310",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "密度泛函理论",
+   "en": "density functional theory,DFT",
+   "source": "化学名词",
+   "wordNumber": "04.1388",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "用电子密度代替波函数来作为表述基础，研究多电子体系的一种量子力学方法。现代密度泛函理论是在1964年霍恩伯格和科恩证明的两个定理基础上发展起来的。1965年科恩和沈吕九提出了具体处理方法，为密度泛函理"
+  },
+  {
+   "cn": "密度泛函理论",
+   "en": "density functional theory，DFT",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "用电子密度代替波函数作为表述基础，研究多电子体系的一种量子力学方法。"
+  },
+  {
+   "cn": "相对论[性]密度泛函理论",
+   "en": "relativistic density-functional theory",
+   "source": "物理学名词",
+   "wordNumber": "06.0170",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "机能系统理论",
+   "en": "theory of functional system",
+   "source": "心理学名词",
+   "wordNumber": "04.138",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "将人体各功能理解为系统结构来研究心理活动的一种理论。以卢里亚(A. R. Luriya)为代表。"
+  },
+  {
+   "cn": "档案职能鉴定理论",
+   "en": "theory of file identification function",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0592",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "根据文件产生机关职能的重要程度、等级地位鉴定其保存价值的理论。"
+  },
+  {
+   "cn": "性格机能类型论",
+   "en": "theory of character function type",
+   "source": "心理学名词",
+   "wordNumber": "02.760",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "贝恩(A.Bain)和里博(T.Ribot)提出的一种性格类型理论。即依据智力、情绪和意志将性格划分为理智型、情绪型、意志型和其他一些中间类型。"
+  },
+  {
+   "cn": "痛觉特殊功能说",
+   "en": "specific function theory of pain",
+   "source": "心理学名词",
+   "wordNumber": "02.351",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为皮肤及皮肤下组织的游离神经末梢是特殊的痛觉感受器的痛觉学说。"
+  },
+  {
+   "cn": "含时密度泛函理论",
+   "en": "time-dependent density functional theory",
+   "source": "物理学名词",
+   "wordNumber": "08.1311",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "自旋极化密度泛函理论",
+   "en": "spin-polarized density functional theory",
+   "source": "物理学名词",
+   "wordNumber": "08.1315",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.014",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "某种事物或物质系统所发挥的特定作用或效果，或完成特定任务达到预期目的的效果。"
+  },
+  {
+   "cn": ".函数",
+   "en": ". function",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0550",
+   "subjectFullName": "地球物理学_勘探地球物理学_井筒_放射性勘探",
+   "subjectName": "放射性勘探",
+   "publishYear": "2022",
+   "definition": ".意义为垂直波慢度，为 . -p变换中在时间轴上的截距。 "
+  },
+  {
+   "cn": "函数",
+   "en": "function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0007",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "可被程序调用的相对独立的一个程序模块。通常用于实现程序的部分功能或某个特定功能，可以接受调用方传递的参数，并作为函数值返回调用结果。"
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0703",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "价值工程对象能满足某种需求的效用或属性。"
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.239",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "执行一个单一操作，并能够返回一个值或更多的值的过程。"
+  },
+  {
+   "cn": "功能系统理论，机能系统理论",
+   "en": "theory of functional system",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "痛觉特殊功能说",
+   "en": "specific function theory of pain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "函数",
+   "en": "function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "函数",
+   "en": "function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "功能主义，机能主义",
+   "en": "functionalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "官能度",
+   "en": "functionality",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "官能度",
+   "en": "functionality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "功能性",
+   "en": "functionality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能基因组学",
+   "en": "functional genomics\",\"function genomics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲函数",
+   "en": "impulse function\",\"pulse function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "假花学说",
+   "en": "pseudoanthial theory\",\"pseudoanthium theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "真花学说",
+   "en": "euanthial theory\",\"euanthium theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后成论，渐成论",
+   "en": "postformation theory\",\"epigenesis theory",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "景观功能",
+   "en": "landscape function",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拍卖理论",
+   "en": "auction theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哈希函数",
+   "en": "hash function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BM25函数",
+   "en": "BM25 function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "功能主义分层理论",
+   "en": "functional theory of stratification",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "当代社会分层理论的一个重要流派。从结构功能主义的视角来分析社会分层和社会不平等问题，认为分层和不平等现象有其社会功能，即把有才能的人选拔出来并放置于重要的社会位置上。"
+  },
+  {
+   "cn": "犯罪功能论",
+   "en": "theory of functions of crime",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.053",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的关于犯罪作用的理论。他认为犯罪不仅是社会中的正常现象，而且也是社会所需要的现象。犯罪在社会中发挥着重要的功能，对社会的进步起着有益的作用，主要表"
+  },
+  {
+   "cn": "新古典“结构-功能论”",
+   "en": "neo-classical structural functionalism theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0648",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国人类学家张继焦结合人类学文化研究的相关理论与中国社会实践而形成的理论体系。新理论范式认为，在当下的经济社会结构转型中，中国人类学急需更包容性地容纳文化研究的各个流派，形成新的理论或者研究范式。在英"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在时间和技术条件一定的情况下，生产某种产品时投入的生产要素数量与生产出该产品的数量间的关系。"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "用来表明生产给定产量与最低成本之间关系的函数"
+  },
+  {
+   "cn": "心肺功能",
+   "en": "cardiopulmonary function",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "心、肺及其所代表的循环系统、呼吸系统为身体活动提供足够氧气和养分的能力。"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

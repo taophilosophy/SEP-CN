@@ -1,0 +1,812 @@
+{
+ "key": "privileged position",
+ "term": "privileged position",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:28:23+00:00",
+ "status": "ok",
+ "note": "variant=privileged position; 审定公布名词库=1653; 海峡两岸名词对照库=545; 其他来源数据库=152; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "特权模式",
+   "en": "privileged mode",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0160",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "操作系统或控制系统的一种状态。在该状态下可以执行特权操作。"
+  },
+  {
+   "cn": "特权指令",
+   "en": "privileged instruction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0684",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "由处理器提供的只能在特权态执行的指令。通常用于读写计算机系统的硬件状态。"
+  },
+  {
+   "cn": "借阅权限",
+   "en": "borrowing privileges",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.125",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_外借服务",
+   "subjectName": "外借服务",
+   "publishYear": "2019",
+   "definition": "图书馆对读者借阅册数与借阅期限的规定。"
+  },
+  {
+   "cn": "用户权限",
+   "en": "user privilege",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.102",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "对用户在信息系统中能够使用的资源的限定。由系统管理员根据系统设置的安全规则或者安全策略给用户设置权限，用户可以访问而且只能访问自己被授权的功能和访问数据。"
+  },
+  {
+   "cn": "记者特权",
+   "en": "journalists' privilege",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.085",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "根据宪法和有关制定法，新闻工作者享有的免于被迫做证，拒绝向陪审团等审判、质询机关提供秘密消息或消息来源的权利。中国现行法律没有关于记者特权的规定。"
+  },
+  {
+   "cn": "最小特权",
+   "en": "minimum privilege",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0181",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "主体的访问权限的最低限度。即执行授权活动所必需的那些权利。"
+  },
+  {
+   "cn": "访问特权",
+   "en": "access privilege",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0223",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "授予用户的访问数据库的权限。"
+  },
+  {
+   "cn": "特权令",
+   "en": "Privilege Order",
+   "source": "世界历史名词",
+   "wordNumber": "02.0565",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "1213年8月25日在圣保罗教堂召开的贵族会议上，坎特伯雷大主教斯提芬·郎顿宣读的亨利一世加冕时颁布的缓和教俗矛盾的敕令。"
+  },
+  {
+   "cn": "出版者特权",
+   "en": "publisher's privilege",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.086",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "出版者如果在出版物中对执行公务的国家公务员或政府雇员的行为进行正当的评论，可享有免于受到“诽谤”指控的权利。但如果有证据表明该出版材料含有“实际恶意”，则出版者无论是明知或出于过失而刊登了不实之内容，"
+  },
+  {
+   "cn": "免疫豁免部位",
+   "en": "immunological privileged site",
+   "source": "器官移植学名词",
+   "wordNumber": "02.072",
+   "subjectFullName": "器官移植学_器官移植免疫学",
+   "subjectName": "器官移植免疫学",
+   "publishYear": "2020",
+   "definition": "机体某些特定部位，其在解剖上与免疫细胞隔绝或在局部微环境中存在抑制免疫应答的机制，从而一般不对外来抗原(包括移植物抗原)产生应答。"
+  },
+  {
+   "cn": "免疫豁免部位",
+   "en": "immunological privileged site",
+   "source": "免疫学名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "机体某些特定部位，其在解剖上与免疫细胞隔绝或在局部微环境中存在抑制免疫应答的机制，从而一般不对外来抗原(包括移植物抗原)产生应答。"
+  },
+  {
+   "cn": "免疫特惠器官",
+   "en": "immunologically privileged organ",
+   "source": "医学名词 第六分册",
+   "wordNumber": "09.242",
+   "subjectFullName": "医学_器官移植学",
+   "subjectName": "器官移植学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "免疫特惠区",
+   "en": "immunologically privileged site",
+   "source": "医学名词 第六分册",
+   "wordNumber": "09.243",
+   "subjectFullName": "医学_器官移植学",
+   "subjectName": "器官移植学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "科希策特权法",
+   "en": "Privilege of Koszyce",
+   "source": "世界历史名词",
+   "wordNumber": "02.0895",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1374年9月17日，波兰国王路易一世的文告，在同意国王女儿继承王位的条件下，授予贵族免除土地税的特权。"
+  },
+  {
+   "cn": "最小特权原则",
+   "en": "principle of least privilege",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0206",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "在系统中的每个主体都只具有合法任务所需的最严格的权限集或最低许可。"
+  },
+  {
+   "cn": "奥托特权",
+   "en": "Privilege by Otto I",
+   "source": "世界历史名词",
+   "wordNumber": "02.0598",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "德意志国王奥托一世(912-973)剥夺巴伐利亚公爵对主教的任职权，自己任命巴伐利亚主教，归还部分已经还俗的教产，并授予原属公爵的司法权，史称“奥托特权”。"
+  },
+  {
+   "cn": "胎位",
+   "en": "position",
+   "source": "兽医学名词",
+   "wordNumber": "01.051",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿的位置。即在母体中胎儿背部和母体背部或腹部的位置关系。"
+  },
+  {
+   "cn": "体位",
+   "en": "position",
+   "source": "消化内镜学名词",
+   "wordNumber": "4.051",
+   "subjectFullName": "消化内镜学_消化内镜管理_患者管理",
+   "subjectName": "患者管理",
+   "publishYear": "2021",
+   "definition": "内镜诊疗过程中为方便检查，患者身体所保持的一定姿势。"
+  },
+  {
+   "cn": "就位",
+   "en": "position",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.742",
+   "subjectFullName": "化工（五）_工程建设_施工过程",
+   "subjectName": "施工过程",
+   "publishYear": "2021",
+   "definition": "将机器设备按设计文件的规定摆放到安装位置的过程。"
+  },
+  {
+   "cn": "对准",
+   "en": "position",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1017",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "为将物体放置于所需的正确位置而进行的动作。从开始放置物体至一定方位的瞬间开始，到物体已被安置于正确方位的瞬间结束。"
+  },
+  {
+   "cn": "特权，使用权",
+   "en": "privilege",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "特权",
+   "en": "privilege",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特惠进口",
+   "en": "privileged import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特许债券",
+   "en": "bond privileged",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应优先偿还的债务",
+   "en": "privileged debt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特权方式",
+   "en": "privileged mode",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特权命令",
+   "en": "privileged command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特权指令",
+   "en": "privileged instruction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最小特权",
+   "en": "minimum privilege",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存取特权，访问特权",
+   "en": "access privilege",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "免疫豁免部位， 免疫特惠区",
+   "en": "immunological privileged site",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫豁免区",
+   "en": "immune privilege site",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "海关提供的特惠措施",
+   "en": "special customs-privileged facility",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最小特权原则",
+   "en": "principle of least privilege",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "假脱机操作员特权级别",
+   "en": "spooling operator privilege class",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "把位",
+   "en": "position",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阳",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正片",
+   "en": "positive",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "○1position fixing○2 positioning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特权滥用",
+   "en": "privilege abuse",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "授权管理基础设施",
+   "en": "privilege management infrastructure (PMI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "standing position\",\"upright position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹲踞姿势",
+   "en": "squat position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "extended position\",\"stretched position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团身姿势",
+   "en": "C position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "屈体姿势",
+   "en": "B position\",\"pike position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "A position\",\"straight position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意姿势",
+   "en": "D position\",\"free position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开始姿势",
+   "en": "initial position\",\"ready position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "阵地战",
+   "en": "positional war",
+   "source": "马克思主义",
+   "wordNumber": "05.0008",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西主张在共产党领导的“总体革命”中，无产阶级及其政党在文化领导权的获取方式上应当采用的，是不同于俄国十月革命的“运动战”，即采取暴力夺权的那种方式，而是应当在市民社会领域对资产阶级的思想阵地不断实"
+  },
+  {
+   "cn": "正面启发法",
+   "en": "positive heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家通过研究纲领发展理论与设计实验，主动解决问题或预测现象。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "党员主体地位",
+   "en": "Partys principal position",
+   "source": "马克思主义",
+   "wordNumber": "03.0775",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "广大党员是党的一切活动的主体，在党内生活和党的建设实践中居于自主、积极、主动的地位。这主要表现在：广大党员有明确的主体意识，具备较高的参政议政素质和能力，能够积极参与党内事务，认真履行义务，积极行使权"
+  },
+  {
+   "cn": "持续性枕横位",
+   "en": "persistent occipitotransverse position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆侧方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性枕后位",
+   "en": "persistent occipitoposterior position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆后方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "社会经济地位",
+   "en": "social economic position",
+   "source": "社会医学名词",
+   "wordNumber": "3.4.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "个人在社会体系中所处的位置，由性别、年龄、种族、教育、职业、收入等社会特征共同决定。"
+  },
+  {
+   "cn": "无条件积极关注",
+   "en": "unconditional positive regard",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "咨询者对求咨者做的所有事情都给予积极关注，即使客观上消极的行为也要接受的态度。在学校心理咨询中，指咨询者对求咨者的优点和进步保持高度敏感，用积极的眼光去看待求咨者在咨询室里的变化，尊重、理解对方。"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "现代医学模式下从生物学、心理学和社会学多个维度改善和控制健康影响因素的健康观。"
+  },
+  {
+   "cn": "患者定位装置",
+   "en": "patient positioning device",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.20",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗时用来固定患者体位的辅助工具，通常包括定位板、托架、热塑膜、负压袋等。"
+  },
+  {
+   "cn": "多关节型幼年特发性关节炎（RF阳性型）",
+   "en": "polyarticular JIA, RF positive",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "发病最初6个月有5个或以上关节受累的JIA，类风湿因子阳性。约占JIA的10%。大小关节均可受累，关节症状较重。"
+  },
+  {
+   "cn": "党的历史方位",
+   "en": "historical position of the party",
+   "source": "马克思主义",
+   "wordNumber": "03.0641",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党在十六大提出的科学概念，指党在时代和历史发展中所处的位置。认清党的历史方位，是党制定正确的理论、路线、方针、政策的根本前提，关系到党的事业的兴衰成败。中国共产党自身建设的全部历史经验证明，党的建设的"
+  },
+  {
+   "cn": "现代社会的实证法",
+   "en": "positive law in modern society",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "对应现代社会的法律。通过特定决定创设法律，法律的有效性基础来自于决定本身，而不是更高的规范。"
+  },
+  {
+   "cn": "抗日游击战争的战略地位",
+   "en": "strategic position of antiJapanese guerrilla warfare",
+   "source": "马克思主义",
+   "wordNumber": "03.0427",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《抗日游击战争的战略问题》《论持久战》等文中指出：抗日战争中，游击战辅助了正规战，把自己也变为正规战。在整个抗日战争中，尤其是在战略相持阶段，游击战是主要的战争形式。忽视抗日游击战争的战略地位"
+  },
+  {
+   "cn": "IgG4 阳性浆细胞浸润",
+   "en": "immunoglobulin G4 positive plasma cell infiltration",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.10.1.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_IgG4相关疾病_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "IgG4 相关疾病患者IgG4 阳性浆细胞弥漫性浸润的免疫病理学表现。偶有淋巴滤泡形成，浸润的浆细胞呈多克隆性，有时可见浆母细胞。"
+  },
+  {
+   "cn": "灾难性卫生支出相对差距",
+   "en": "mean catastrophic health payment positive gap",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.1.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "发生灾难性卫生支出家庭自付费用占家庭收入的百分比，与贫困线标准的差距之和，除以发生灾难性卫生支出家庭数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

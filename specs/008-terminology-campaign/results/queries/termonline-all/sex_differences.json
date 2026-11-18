@@ -1,0 +1,802 @@
+{
+ "key": "sex differences",
+ "term": "Sex differences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:41:31+00:00",
+ "status": "ok",
+ "note": "variant=Sex differences; 审定公布名词库=2155; 海峡两岸名词对照库=886; 其他来源数据库=100; 预公布名词数据库=93; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "生理性别差异",
+   "en": "sex difference;biological difference",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.042",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "体现在社交活动中的男女生理结构与生物属性方面的区别与特征。与“社会性别差异”相对。"
+  },
+  {
+   "cn": "性",
+   "en": "sex",
+   "source": "男科及性医学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "男科及性医学_学科概论",
+   "subjectName": "学科概论",
+   "publishYear": "2023",
+   "definition": "男性和女性个体的特征性区别。这些特征包括生殖结构、功能、表型和基因型等。"
+  },
+  {
+   "cn": "性别",
+   "en": "sex",
+   "source": "兽医学名词",
+   "wordNumber": "07.214",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "雌雄两性的特质区别。"
+  },
+  {
+   "cn": "性别鉴定",
+   "en": "sex discrimination,sexing",
+   "source": "畜牧学名词",
+   "wordNumber": "02.197",
+   "subjectFullName": "畜牧学_饲养管理_禽饲养",
+   "subjectName": "禽饲养",
+   "publishYear": "2020",
+   "definition": "对初生雏禽进行公、母性别判别。分为肛门鉴别、仪器鉴别和伴性性状自别等方法。"
+  },
+  {
+   "cn": "性别",
+   "en": "sex,gender",
+   "source": "计划生育名词",
+   "wordNumber": "08.005",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "男女两性存在的多种特征性差异。"
+  },
+  {
+   "cn": "性别",
+   "en": "sex,sexuality",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "27.055",
+   "subjectFullName": "组织学与胚胎学_胚胎学_泌尿系统和生殖系统的发生",
+   "subjectName": "泌尿系统和生殖系统的发生",
+   "publishYear": "2014",
+   "definition": "男女或雌雄两性的特质区别。"
+  },
+  {
+   "cn": "性别决定",
+   "en": "sex determination",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.011",
+   "subjectFullName": "性腺疾病_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "男女性别分化方向决定的过程。由于性染色体上性别决定因子的控制，胚胎出现了男性或女性的性别差异。在人体中，染色体核型XY为男性，XX为女性。"
+  },
+  {
+   "cn": "性外激素",
+   "en": "sex pheromone",
+   "source": "农学名词",
+   "wordNumber": "10.104",
+   "subjectFullName": "植物保护_作物虫害",
+   "subjectName": "作物虫害",
+   "publishYear": "2025",
+   "definition": "昆虫释放的引诱同种异性个体产生性行为的化学物质。"
+  },
+  {
+   "cn": "性信息素",
+   "en": "sex pheromone",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "9.0304",
+   "subjectFullName": "生物化学与分子生物学_激素与维生素_激素_昆虫激素",
+   "subjectName": "昆虫激素",
+   "publishYear": "2024",
+   "definition": "成虫分泌到体外的、对同种异性个体有引诱作用的信息化学物质。"
+  },
+  {
+   "cn": "性伦理学",
+   "en": "sex ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.155",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "应用伦理学的一个分支。主要研究人的性行为对美好或美德生活的贡献，并试图确定人们在进行某些性行为时应该遵循或必须避免的道德义务。"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "男科及性医学名词",
+   "wordNumber": "01.009",
+   "subjectFullName": "男科及性医学_学科概论",
+   "subjectName": "学科概论",
+   "publishYear": "2023",
+   "definition": "传授人类性与生殖的生理、心理、行为等方面知识的过程。"
+  },
+  {
+   "cn": "性染色质",
+   "en": "sex chromatin",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "真核细胞的性染色体在间期细胞核中表现出来的一种特殊结构。可通过染色显示。性染色质检测可作为染色体检查前的一种初筛方法，在男性不育症或两性畸形等病症中有一定的诊断价值，亦可用于法医学或胎儿性别鉴定等。"
+  },
+  {
+   "cn": "性染色体",
+   "en": "sex chromosome",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.008",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "与性别决定有关的染色体。如人与哺乳动物中的X和Y染色体。人类的性染色体因男女性别不同而不同，女性为XX，男性为XY。"
+  },
+  {
+   "cn": "性别决定",
+   "en": "sex determination",
+   "source": "男科及性医学名词",
+   "wordNumber": "4.002",
+   "subjectFullName": "男科及性医学_性发育",
+   "subjectName": "性发育",
+   "publishYear": "2023",
+   "definition": "决定未分化性腺向睾丸或卵巢方向发育的过程。"
+  },
+  {
+   "cn": "性征",
+   "en": "sex characteristics",
+   "source": "男科及性医学名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "男科及性医学_性发育",
+   "subjectName": "性发育",
+   "publishYear": "2023",
+   "definition": "区分一种性别与另一种性别的特征。"
+  },
+  {
+   "cn": "性激素",
+   "en": "sex hormone",
+   "source": "男科及性医学名词",
+   "wordNumber": "07.042",
+   "subjectFullName": "男科及性医学_男性生殖系统疾病诊断",
+   "subjectName": "男性生殖系统疾病诊断",
+   "publishYear": "2023",
+   "definition": "由性腺（睾丸、卵巢）和肾上腺皮质网状带分泌，能刺激生殖器官、生殖细胞成熟及第二性征发育的一组类固醇激素。临床常通过检测催乳素（PRL）、卵泡刺激素（FSH）、黄体生成素（LH）、睾酮（T）、雌二醇（E"
+  },
+  {
+   "cn": "性别决定",
+   "en": "sex determination",
+   "source": "兽医学名词",
+   "wordNumber": "07.215",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "决定动物雌、雄异性性别的方式。"
+  },
+  {
+   "cn": "遗传性别",
+   "en": "genetic sex",
+   "source": "兽医学名词",
+   "wordNumber": "07.216",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "受孕时，由精子与卵子携带的性染色体决定的性别。由其决定性腺性别(睾丸或卵巢)，进而决定内、外生殖器向雄性或雌性的发育。"
+  },
+  {
+   "cn": "性潮红",
+   "en": "sex flush",
+   "source": "生殖医学名词",
+   "wordNumber": "8.018",
+   "subjectFullName": "生殖医学_性与性功能障碍",
+   "subjectName": "性与性功能障碍",
+   "publishYear": "2022",
+   "definition": "性兴奋后，全身多处皮肤由于血管舒张，尤其是胸前和颈部，可出现粉红色潮红及皮疹。"
+  },
+  {
+   "cn": "性染色体",
+   "en": "sex chromosome",
+   "source": "生殖医学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "人类体细胞23对染色体中与性别决定有关的1对染色体。男性为XY染色体，女性为XX染色体。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference\",\"sex difference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别",
+   "en": "sex\",\"sexuality",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性别",
+   "en": "sex\",\"sexuality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "性别分化",
+   "en": "sex differentiation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性别决定",
+   "en": "sex determination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性别嵌合体",
+   "en": "sex mosaic",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性染色质",
+   "en": "sex chromatin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "遗传性别",
+   "en": "genetic sex",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性反转，性逆转，性转换",
+   "en": "sex reversal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性激素",
+   "en": "sex hormone",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性逆转（=性反转）",
+   "en": "sex reversal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性指数",
+   "en": "sex index",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性转换（=性反转）",
+   "en": "sex reversal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性别歧视",
+   "en": "sex discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性驱力",
+   "en": "sex drive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性染色体",
+   "en": "sex chromosome",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别转变",
+   "en": "sex change",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "性激素",
+   "en": "sex hormone",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "性比",
+   "en": "sex ratio",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "性诱剂",
+   "en": "sex attractant",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高度差",
+   "en": "landing difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同异",
+   "en": "Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大同异/小同异",
+   "en": "Major Commonality and Difference / Minor Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合同异",
+   "en": "Unify Similarity and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "求同存异",
+   "en": "Seek Common Ground While Setting Aside Differences",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以国为国，以天下为天下",
+   "en": "Rule a State or a Country with Different Methods",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坐忘",
+   "en": "Forget the Difference and Opposition Between Self and the Universe",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因地因企因人分类帮扶",
+   "en": "to provide assistance specifically designed to suit different regions, enterprises and people",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "突出重点、统筹兼顾、分类指导、分区施策",
+   "en": "to focus on key issues, strengthen coordination, give sector-specific guidance, and apply targeted policies to different areas ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "六人赛艇",
+   "en": "six",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备！",
+   "en": "Set!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备！",
+   "en": "Set!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盘",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盘",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二传",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference, sex difference",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "男性和女性在生理、心理、行为及社会文化层面表现出的群体性差异。生物学因素（如基因、激素）奠定生理分化基础（如生殖系统、疾病倾向），而社会文化建构（如性别角色、教育机会、刻板印象）影响行为模式、认知能力"
+  },
+  {
+   "cn": "生理性别",
+   "en": "sex",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "生理学和解剖学意义划分不同性别的标准，被认为是两性之间与生俱来的天然差别。简称“性别”。3.2.1.2  社会性别  gender"
+  },
+  {
+   "cn": "性",
+   "en": "sex",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "以达到高潮为中心环节和本质标志，以生殖器反应为最终表现形式的人类身心过程，由生物因素、心理因素与社会因素三种因素构成。"
+  },
+  {
+   "cn": "线性生长性别差异",
+   "en": "sex difference in linear growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "随着年龄增加和青春期发育，男女间身高水平和增长速度的差别"
+  },
+  {
+   "cn": "生长发育性别差异",
+   "en": "sex difference in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "不同性别儿童在生长发育表现上存在差异的生长发育特点。"
+  },
+  {
+   "cn": "第二性",
+   "en": "second sex",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.16",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "源自法国哲学家、女权主义先驱者西蒙·波伏娃在20世纪中叶出版的同名著作，用于描述妇女作为“他者”在社会和文化中所处的生存处境和附属地位的著名概念。与作为第一性和主体的男性相比，妇女只是被动的第二性。"
+  },
+  {
+   "cn": "性工作者",
+   "en": "sex worker",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "依靠出卖肉体和色相挣钱的人。以女性为主，亦有男性。女性主义认为这个职业不该受到人们的歧视，但在对这个职业应该最终消灭或取缔、应逐步实行非罪化还是完全合法化的问题上，女性主义者之间一直存在分歧和争论。"
+  },
+  {
+   "cn": "性别比",
+   "en": "sex ratio",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.5",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "用来指称男女人口数量的比例，通常以每100名女性人口所对应的男性人口数量为计算标准，包含出生人口性别比与成人性别比。"
+  },
+  {
+   "cn": "性征",
+   "en": "sex character",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.3",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "男女在生理、心理、社会等方面的性别特征，包括第一性征（生殖器构造）、第二性征（青春期发育特征）和第三性征（男性气质和女性气质）。"
+  },
+  {
+   "cn": "婚前性活动",
+   "en": "premarital sex",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.2",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "在结婚之前发生的性活动。"
+  },
+  {
+   "cn": "婚外性活动",
+   "en": "extramarital sex",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "已婚人士在婚姻对象之外进行的性活动。"
+  },
+  {
+   "cn": "性犯罪",
+   "en": "sex crimes",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "违反刑法的性活动，其本质是通过对他人身体的伤害，侵犯他人的权益和社会秩序。"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "关于性知识、性道德和性行为等方面的教育，一般应在青少年中实施，但不限于这一年龄段。"
+  },
+  {
+   "cn": "性度",
+   "en": "sex degree",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "一个人所具有的男性或女性心理特征的程度。美国心理学家塔曼和玛依罗根据男性度与女性度两个维度将人们的性别特征分为四种情况：男性化、女性化、男女双性化、非男非女化。"
+  },
+  {
+   "cn": "性权利",
+   "en": "sex right",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "个人在性活动中享有的权利，如选择性对象、享受性爱等。"
+  },
+  {
+   "cn": "未采取避孕措施",
+   "en": "unprotected sex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "在发生性关系时未采取使用安全套、避孕药、体外射精等方式避免妊娠的行为。"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "教导青少年了解性基本知识，正确对待和处理性发育过程中各种问题的教育活动，促使其学习如何与异性正常交往。"
+  },
+  {
+   "cn": "性生理",
+   "en": "sex physiology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "受到适当的性刺激，在性心理的驱动下，神经、内分泌和生殖系统协调产生的一系列生理反应的过程。"
+  },
+  {
+   "cn": "性心理",
+   "en": "sex psychology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "围绕性征、性欲和性行为而展开的心理活动，由性意识、性感情、性知识、性经验和性观念等组成。"
+  },
+  {
+   "cn": "性意识",
+   "en": "sex awareness",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "对性的感觉、作用和地位的自我认识，是性心理活动的基础。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

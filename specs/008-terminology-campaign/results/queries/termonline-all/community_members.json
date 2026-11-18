@@ -1,0 +1,762 @@
+{
+ "key": "community members",
+ "term": "community members",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:38:49+00:00",
+ "status": "ok",
+ "note": "variant=community members; 审定公布名词库=1629; 海峡两岸名词对照库=652; 其他来源数据库=149; 预公布名词数据库=358; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "段",
+   "en": "member",
+   "source": "地质学名词",
+   "wordNumber": "07.01.102",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "比“组”低一级、比“ 层” 高一级的岩石地层单位。代表“组”内具有明显岩石特征的一段地层。一个组可以全部或部分地分成几个段，可用地名加“段”或用岩石名称加“段”来命名。"
+  },
+  {
+   "cn": "构件",
+   "en": "member",
+   "source": "土木工程名词",
+   "wordNumber": "05.067",
+   "subjectFullName": "土木工程_建筑结构_构件及部件",
+   "subjectName": "构件及部件",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "构件",
+   "en": "member",
+   "source": "船舶工程名词",
+   "wordNumber": "04.017",
+   "subjectFullName": "船舶工程_船体结构、强度及振动",
+   "subjectName": "船体结构、强度及振动",
+   "publishYear": "1998",
+   "definition": "板与骨架的统称。"
+  },
+  {
+   "cn": "杆件",
+   "en": "member",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0386",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "段",
+   "en": "member",
+   "source": "地质学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "公社社员墙",
+   "en": "Wall of the Member Commune",
+   "source": "世界历史名词",
+   "wordNumber": "01.0142",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "巴黎郊区拉雪兹神甫墓地北的一堵墙，巴黎公社战士最后抵抗牺牲的地点。"
+  },
+  {
+   "cn": "格构式构件",
+   "en": "latticed members",
+   "source": "土木工程名词",
+   "wordNumber": "04.214",
+   "subjectFullName": "土木工程_结构工程_钢结构",
+   "subjectName": "钢结构",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "杆件",
+   "en": "bar,member",
+   "source": "土木工程名词",
+   "wordNumber": "02.047",
+   "subjectFullName": "土木工程_工程力学_材料力学",
+   "subjectName": "材料力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "构件",
+   "en": "member,element",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.533",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "北庵庄段",
+   "en": "Beianzhuang Member",
+   "source": "地质学名词",
+   "wordNumber": "07.04.275",
+   "subjectFullName": "地质学_地史学与地层学_岩石地层学",
+   "subjectName": "岩石地层学",
+   "publishYear": "2026",
+   "definition": "分布于鲁西安丘—淄博。正层型为山东新泰汶镇南北庵庄剖面。为灰色中薄层微晶灰岩、厚层云斑状灰岩，上部夹少量薄层白云岩。含头足类、三叶虫、牙形石化石。时代属早—中奥陶世。"
+  },
+  {
+   "cn": "成员星",
+   "en": "member star",
+   "source": "天文学名词",
+   "wordNumber": "08.623",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "属于星团(或其他恒星集团)成员的恒星。"
+  },
+  {
+   "cn": "星系团成员",
+   "en": "cluster member",
+   "source": "天文学名词",
+   "wordNumber": "08.792",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "属于星系团成员的星系。"
+  },
+  {
+   "cn": "成员星系",
+   "en": "member galaxy",
+   "source": "天文学名词",
+   "wordNumber": "07.096",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "组成各类星系集团的各个星系。"
+  },
+  {
+   "cn": "星团成员",
+   "en": "cluster member",
+   "source": "天文学名词",
+   "wordNumber": "08.201",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "属于星团成员的恒星。"
+  },
+  {
+   "cn": "支柱",
+   "en": "supporting member",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.021",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "由圆管、底板、端板组成的支承构件。"
+  },
+  {
+   "cn": "导管分子",
+   "en": "vessel member",
+   "source": "植物学名词",
+   "wordNumber": "03.0942",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "组成导管的每一个细胞。为长管状细胞。幼时为生活细胞，在发育成熟过程中细胞壁发生次生加厚和原生质体的解体，变为死细胞，细胞两端的初生壁溶解形成穿孔。"
+  },
+  {
+   "cn": "维成员",
+   "en": "dimension member",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0360",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "维的一个取值或者不同维层次取值的组合。"
+  },
+  {
+   "cn": "渠道成员",
+   "en": "channel member",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0522",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "形成一个分销渠道的各个公司或组织。"
+  },
+  {
+   "cn": "竖杆",
+   "en": "vertical member",
+   "source": "土木工程名词",
+   "wordNumber": "05.156",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "腹杆",
+   "en": "web member",
+   "source": "土木工程名词",
+   "wordNumber": "05.155",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "构件",
+   "en": "member",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "成员星",
+   "en": "member star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "成员星系",
+   "en": "member galaxy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "星团成员",
+   "en": "cluster member",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "星系团成员",
+   "en": "cluster member",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "会员公司",
+   "en": "member corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "会员银行",
+   "en": "member bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "次要构件",
+   "en": "secondary member",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "关键构件",
+   "en": "critical member",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "主要构件",
+   "en": "primary member",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟成员",
+   "en": "virtual member",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "构件",
+   "en": "structural member",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "配合件",
+   "en": "matching member",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "次要构件",
+   "en": "secondary member",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "连续构件",
+   "en": "continuous member",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重要构件",
+   "en": "primary member",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "主要构件",
+   "en": "primary member",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "端员矿物",
+   "en": "end-member mineral",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "自行成员星",
+   "en": "proper motion member",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纵向强力构件",
+   "en": "longitudinal strength member",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "船员",
+   "en": "crew member",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通信传输",
+   "en": "communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赛艇队成员",
+   "en": "crew member\",\"crewman\",\"crewwoman",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据群落",
+   "en": "data community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链社区",
+   "en": "blockchain community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学共同体",
+   "en": "scientific community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Apache社区",
+   "en": "Apache community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社群动力学",
+   "en": "community dynamics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生活共同体",
+   "en": "living community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络社群",
+   "en": "Network Community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线社区",
+   "en": "online community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术社群",
+   "en": "technical community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识型社群",
+   "en": "knowledge community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社群经济",
+   "en": "community economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互动群落",
+   "en": "interactive community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流动党员",
+   "en": "mobile party members",
+   "source": "马克思主义",
+   "wordNumber": "03.0747",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "离开本单位或居住地党组织外出务工经商或从事其它正当职业，无固定地点或无法转移组织关系的中共党员；外地或者外单位流入本地或本单位未转移组织关系的中共党员。"
+  },
+  {
+   "cn": "口袋党员",
+   "en": "pocket party members",
+   "source": "马克思主义",
+   "wordNumber": "03.0758",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "特指组织关系长期放在“口袋”中，人在一处、组织关系在另一处，不办理组织关系接转手续的党员。"
+  },
+  {
+   "cn": "社会共同体",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "人类历史上由共同生活和社会互动形成的、建立在一定文化认同基础上的、以特定关系和纽带联系起来的稳定的人群联合体。前现代社会人类群体存在的普遍形式。其特征和形式与一定的社会生产方式相联系并受此发展状况影响"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.1",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围，小到村庄、邻里、教区，大到城镇、城市。有时也指不受地理空间限制、具有共同兴趣爱好、分布广泛而又紧密联"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "聚居在一定地域中，有着互动关系和共同文化的人群的生活共同体。一般认为其基本的构成要素包括：一定数量的、以一定生产关系为基础组织起来的人口；一定的地域界限；居民间的认同意识；一套规范和组织系统。"
+  },
+  {
+   "cn": "共同体",
+   "en": "community",
+   "source": "马克思主义",
+   "wordNumber": "03.0074",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定区域的居民、团体或国家在共同条件下结成的集体组织。德国古典社会学家滕尼斯将共同体分为血缘共同体，地缘共同体，精神共同体。马克思主要从所有制的角度解读共同体。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0081",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以一定地理区域为基础的社会群体。具体特征有：有一定的地理区域，有一定数量的人口，居民之间有共同的意识和利益，并有着较密切的社会交往。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "若干社会群体(家庭、氏族)或社会组织(机关、团体)聚集在某一地域里所形成的一个生活上相互关联的大集体。一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围"
+  },
+  {
+   "cn": "共产主义",
+   "en": "communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0014",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）人类最理想的社会制度。人类社会发展的高级形态。根据马克思和恩格斯的设想，共产主义社会是人类社会发展史上继资本主义社会之后的一种以生产资料公有制为基础的、消灭了一切剥削关系的社会形态。它实行“各尽"
+  },
+  {
+   "cn": "交往",
+   "en": "communication",
+   "source": "马克思主义",
+   "wordNumber": "01.0147",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯在《德意志意识形态》中提出的概念，指各个人、民族、国家之间的交流、往来及相互作用行为。交往是从物质生产中发展起来的，交往及其形式由生产决定，但“生产本身又是以个人彼此之间的交往为前提的”"
+  },
+  {
+   "cn": "公社",
+   "en": "commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0007",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "建立在公有制基础上，工业、农业和手工业直接结合的自给自足的经济共同体。其普遍的特征，是土地公有、农业和手工业结合、协作劳动、经济自给自足、彼此独立等等。"
+  },
+  {
+   "cn": "党员修养",
+   "en": "accomplishment of party members",
+   "source": "马克思主义",
+   "wordNumber": "03.0492",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "共产党员在学习和实践中，自觉提高个人思想觉悟、道德水准，提高马克思主义理论和科学文化知识水平，不断增强党性。"
+  },
+  {
+   "cn": "党员标准",
+   "en": "standards of Party members",
+   "source": "马克思主义",
+   "wordNumber": "03.0719",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党章对党员提出的条件和要求。党员标准由申请入党的条件、党员的基本条件和党员的义务与权利三个方面的内容构成。它们互相联系，各有侧重，从不同角度、不同层次规定了党员标准的各个方面，共同构成了党员标准的有机"
+  },
+  {
+   "cn": "党员的权利",
+   "en": "rights of Party members",
+   "source": "马克思主义",
+   "wordNumber": "03.0720",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党章规定的党员应当享有党内的各项权利。按照党章规定，中国共产党党员享有八个方面的权利。"
+  },
+  {
+   "cn": "党员的义务",
+   "en": "duties of Party members",
+   "source": "马克思主义",
+   "wordNumber": "03.0721",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党章规定的党员对党应尽的责任，是党对党员的基本要求，是党员条件的具体化，也是衡量一个党员是否合格的具体标准。按照党章规定，中国共产党党员必须履行八个方面的义务。"
+  },
+  {
+   "cn": "党组",
+   "en": "leading Party members groups",
+   "source": "马克思主义",
+   "wordNumber": "03.0790",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党《党章》规定，在中央和地方国家机关、人民团体、经济组织、文化组织和其他非党组织的领导机关，可以成立党组。党组不是党组织，只是党组织的派出工作机构，不具备党组织所具备的独立权利，比如不能发展党"
+  },
+  {
+   "cn": "生活社区",
+   "en": "living community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "以居民日常居住为核心功能，融合生活、社交、休闲、服务等功能的综合性地域空间。其本质是通过物理空间与人文环境的有机结合，满足居民从“生存需求”到“生活品质”的多层次需求。"
+  },
+  {
+   "cn": "社区营养",
+   "en": "community nutrition",
+   "source": "社会医学名词",
+   "wordNumber": "11.3.16",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务内容",
+   "publishYear": "2025",
+   "definition": "在社区范围内，运用营养科学理论、技术及社会性措施，系统性地研究并解决社区人群的膳食结构、营养需求、饮食行为及相关健康问题，通过营养教育、政策干预、环境支持等手段，改善居民营养状况，预防营养性疾病，提升"
+  },
+  {
+   "cn": "地方共同社会",
+   "en": "rural community",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.32",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "围绕农业生产所构成的各社会组织及共同的社区生活。杨开道将美国社会学家麦基弗(R.M.Maclver）的社区概念引入农村社会学研究中，提出这个概念，认为中国农村是一种地方共同社会。对这种社会的分析，应从"
+  },
+  {
+   "cn": "城市社区",
+   "en": "urban community",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "在一定的城市地域范围内生活的人们所组成的社会生活共同体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

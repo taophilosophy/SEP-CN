@@ -1,0 +1,792 @@
+{
+ "key": "ethical cultivation",
+ "term": "ethical cultivation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:26:40+00:00",
+ "status": "ok",
+ "note": "variant=ethical cultivation; 审定公布名词库=278; 海峡两岸名词对照库=31; 其他来源数据库=37; 预公布名词数据库=162; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "伦理意识养成",
+   "en": "cultivation of ethics consciousness",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.078",
+   "subjectFullName": "自然辩证法_科技伦理_科技伦理教育",
+   "subjectName": "科技伦理教育",
+   "publishYear": "2024",
+   "definition": "通过一定的途径，将伦理原则、伦理观念、伦理知识内化为主体的伦理意识，并使这种意识上升为一种道德情感，从而指导实践的过程。伦理意识养成需要通过适当的教育方式和舆论氛围，也需要道德主体自觉提高伦理意识水平"
+  },
+  {
+   "cn": "培养",
+   "en": "cultivation",
+   "source": "微生物学名词",
+   "wordNumber": "09.171",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "人为地为特定微生物提供适宜条件使其生长繁殖的过程。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.127",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "从价值和信念体系中产生并涉及权利和义务的道德规范。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "核医学名词",
+   "wordNumber": "06.0239",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "研究人与人、人与社会之间行为规范和原则的一门科学。"
+  },
+  {
+   "cn": "道德标准",
+   "en": "ethics",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0945",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "一系列解释行为好坏对错的行为准则。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "教育学名词",
+   "wordNumber": "01.094",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "培养",
+   "en": "culture,cultivation",
+   "source": "化学工程名词",
+   "wordNumber": "06.154",
+   "subjectFullName": "化学工程_生物化学工程_生化反应工程_细胞生长与代谢",
+   "subjectName": "细胞生长与代谢",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "栽培床",
+   "en": "cultivation bed",
+   "source": "农学名词",
+   "wordNumber": "14.195",
+   "subjectFullName": "农业工程_农业生物环境与设施设备",
+   "subjectName": "农业生物环境与设施设备",
+   "publishYear": "2025",
+   "definition": "按照一定规格修筑，用于作物育苗或种植的设施。"
+  },
+  {
+   "cn": "森林培育",
+   "en": "forest cultivation",
+   "source": "风景园林名词",
+   "wordNumber": "12.0167",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "通过树木和森林利用太阳能和其他物质进行生物转化，生产人类所需的食物、工业原料、生物能源等的一种生产过程，同时创造并保护人类和生物生存所需的环境的活动。"
+  },
+  {
+   "cn": "农耕文化",
+   "en": "cultivation culture",
+   "source": "风景园林名词",
+   "wordNumber": "05.0260",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "由农民在长期农业生产中形成的一种适应农业生产、生活需要的国家制度、礼俗制度、文化教育等的文化集合。"
+  },
+  {
+   "cn": "撂荒",
+   "en": "shifting cultivation",
+   "source": "农学名词",
+   "wordNumber": "08.023",
+   "subjectFullName": "作物栽培与耕作_种植制度",
+   "subjectName": "种植制度",
+   "publishYear": "2025",
+   "definition": "耕地较长时期弃而不种，或休耕年限超过两年以上的土地利用方式。"
+  },
+  {
+   "cn": "精确栽培",
+   "en": "precise cultivation",
+   "source": "农学名词",
+   "wordNumber": "08.073",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "采用栽培方案设计、生长动态监测、因苗管理调控、产量品质预测及农情信息服务等在内的精确化技术措施及装备进行的现代作物栽培管理的方式。"
+  },
+  {
+   "cn": "清洁栽培",
+   "en": "clean cultivation",
+   "source": "农学名词",
+   "wordNumber": "08.074",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "在作物生产全过程中采用清洁的生产程序、技术和管理，尽量少用或不用化学农用品，减少作物生产过程中污染物的产生，确保农产品无毒无害和环境安全的综合栽培措施。"
+  },
+  {
+   "cn": "垄作",
+   "en": "ridge cultivation",
+   "source": "农学名词",
+   "wordNumber": "08.157",
+   "subjectFullName": "作物栽培与耕作_土壤耕作",
+   "subjectName": "土壤耕作",
+   "publishYear": "2025",
+   "definition": "在耕层筑起垄台和垄沟，将作物种植在垄台上的耕法。"
+  },
+  {
+   "cn": "培养理论",
+   "en": "cultivation theory",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.079",
+   "subjectFullName": "新闻学与传播学_大众传播_传播效果",
+   "subjectName": "传播效果",
+   "publishYear": "2022",
+   "definition": "认为电视等大众传播媒介通过长期潜移默化的影响，在某种程度上塑造了受众的文化框架、社会认知和思维方式。由美国学者乔治·格伯纳(George Gerbner)提出。"
+  },
+  {
+   "cn": "草地培育",
+   "en": "grassland cultivation ",
+   "source": "草学名词",
+   "wordNumber": "2.0016",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "牧草栽培",
+   "en": "forage cultivation ",
+   "source": "草学名词",
+   "wordNumber": "3.0036",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "草坪耕作",
+   "en": "turf cultivation ",
+   "source": "草学名词",
+   "wordNumber": "4.082",
+   "subjectFullName": "草学_种子和育种_草坪学",
+   "subjectName": "草坪学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "共培养",
+   "en": "co cultivation ",
+   "source": "草学名词",
+   "wordNumber": "5.0125",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "保护种植",
+   "en": "protected cultivation ",
+   "source": "草学名词",
+   "wordNumber": "6.0027",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "栽培",
+   "en": "cultivation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "培养器",
+   "en": "cultivator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "栽培",
+   "en": "cultivate",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "培养",
+   "en": "culture\",\"cultivation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表面培养",
+   "en": "surface cultivation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "垦殖指数",
+   "en": "cultivation index",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "绿洲农业",
+   "en": "oasis cultivation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "迁徙耕作",
+   "en": "shifting cultivation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "连续培养",
+   "en": "continuous cultivation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "玻片培养",
+   "en": "slide cultivation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "划线培养",
+   "en": "streak cultivation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "斜面培养",
+   "en": "slant cultivation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非纯培养",
+   "en": "xenic cultivation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "无异生培养(纯净培养)",
+   "en": "axenic cultivation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "栽培类型",
+   "en": "cultivated form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "栽培性状",
+   "en": "cultivated character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耕作土壤",
+   "en": "cultivated soil",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "合乎道德的投资",
+   "en": "ethical investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "气候栽培界限",
+   "en": "climatic cultivation limit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "慎独",
+   "en": "Shendu&nbsp;(Ethical Self-cultivation)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "Ethics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风教",
+   "en": "Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "养气",
+   "en": "Cultivating Qi",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理算法",
+   "en": "ethical algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据伦理",
+   "en": "Data Ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络伦理",
+   "en": "Internet ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业信用培育",
+   "en": "enterprise credit cultivation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能准则（IBM）",
+   "en": "AI Ethics (IBM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信贷专营机构培育",
+   "en": "cultivation of credit franchise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理数据管理协议",
+   "en": "ethical data management protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "修己安人",
+   "en": "Cultivate Oneself to Benefit Others",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "修德振兵",
+   "en": "Cultivate Virtue and Strengthen the Army",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党的作风建设",
+   "en": "promoting ethical standards within the Party",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "致乐以治心",
+   "en": "Cultivate the Mind by Immersing in Music",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知言养气",
+   "en": "Understanding True Meanings of Statements and Cultivating Uprightness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权自律",
+   "en": "Self-Regulation and Professional Ethics for Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教化",
+   "en": "cultivation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.18",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "把外在的社会道德观念灌输于人的社会化或者文化化的过程。荀子认为，人与生俱来的自然本能固然包含不道德的一面，但经灌输道德观念之后，能够理解并运用这些道德准则进行自我约束。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "社会成员与其他社会成员和外界互动中应当遵守的基于社会习俗和道德的规范总和。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人相处的各种道德准则及规范的理论或道理。"
+  },
+  {
+   "cn": "伦理绝对主义",
+   "en": "ethical absolutism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1520000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为人的道德观念、道德情感、道德情操和道德品质源于永恒不变的神性、理性或人的自然性，是绝对完美的；否定道德发展的相对性、历史性、民族性和进步性，主张建立一种适用于一切历史时代和一切民族的绝对的道德真理"
+  },
+  {
+   "cn": "伦理性宗教",
+   "en": "ethical religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.8",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "以伟大导师所形成的价值理想或模范、伦理约束力为核心的宗教，佛教、儒教和道教被认为是其典型。"
+  },
+  {
+   "cn": "伦理两难",
+   "en": "ethical dilemmas",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "当专业核心价值观和伦理守则中对专业人员的责任与义务要求发生相互之间冲突的情形时，社会工作者必须决定何种价值优先考虑而出现的困难。常见的有：为案主保守秘密与生命价值优先原则；个人价值与职业价值之间、个人"
+  },
+  {
+   "cn": "伦理社会主义",
+   "en": "ethical socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0328",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪末产生于德国的一种以康德唯心主义伦理思想为基础的“社会主义”学说。主要代表人物是新康德主义者赫尔曼·柯亨（（Hermann Cohen）等。认为社会由低级到高级的发展不是不同的社会制度的更替,"
+  },
+  {
+   "cn": "伦理困境",
+   "en": "ethical dilemma",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.063",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在特定的伦理境遇下，依据不同的伦理学理论、原则和规范，存在相互矛盾的解决方案而面临的困境。是不同道德体系冲突的集中反映。"
+  },
+  {
+   "cn": "伦理辩护",
+   "en": "ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对某些现象、行为或观点的合理性进行道德论证的行为。"
+  },
+  {
+   "cn": "伦理客观主义",
+   "en": "ethical objectivism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1540000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用客观主义观点认识和解释道德现象、道德本质的伦理学理论。认为道德现象的产生与道德判断是独立于人的，与人们的需要、利益没有任何关联。"
+  },
+  {
+   "cn": "自然主义伦理学",
+   "en": "ethical naturalism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.148",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "从自然规律和人的生理、心理特征中引申出道德要求，在人的自然本性中寻找决定人的行为目的、动机和原则，并依据自然科学的材料和方法加以论证而建立起来的伦理学理论。试图从自然科学角度研究人类社会面临的道德问题"
+  },
+  {
+   "cn": "伦理相对主义",
+   "en": "ethical relativism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.153",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为道德现象的认识、理论和评价没有绝对的对与错，只有因立场不同、条件差异而相互对立的伦理学理论。在涉及伦理困境的境遇中，这种理论有一定的适用性。其实质是主观唯心主义的，不承认道德的历史继承性，最终会导"
+  },
+  {
+   "cn": "伦理主观主义",
+   "en": "ethical subjectivism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.155",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用主观主义观点认识和解释道德本质与道德判断的伦理观点。认为道德是人的精神产物，道德判断必须以人们对各种道德现象的反映方式、道德心理为基础。"
+  },
+  {
+   "cn": "直觉主义伦理学",
+   "en": "ethical intuitionism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.159",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为道德概念和道德判断不能通过经验和理性来认识和确证，只能靠先天的道德直觉来把握的伦理学理论。包括：价值论直觉主义、义务论直觉主义。前者认为“善的”和“善的事物”只能通过直觉来直接接受它或否定它，而不"
+  },
+  {
+   "cn": "伦理学体系",
+   "en": "ethical system",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.004",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "伦理学范畴、理论、原则、规范、准则及伦理实践的统一体。"
+  },
+  {
+   "cn": "伦理评价",
+   "en": "ethical evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.036",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准，对行为进行善恶判断或褒贬的活动。主要通过社会舆论、内心信念、传统习俗等途径来实现，对人具有道德激励和道德谴责的作用。是促使道德主体将道德观念转化为道德实践的重要环节。"
+  },
+  {
+   "cn": "美德伦理学",
+   "en": "virtue ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.131",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "将“美德”视为伦理学的基本范畴、把品格判断作为最基本的道德判断，强调人应当过一种有德性的生活的伦理学理论。"
+  },
+  {
+   "cn": "经济伦理",
+   "en": "economic ethics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.63",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "调节和规范人们从事经济活动的一系列伦理原则和道德规范。是人们通过社会化习得的关于处理经济活动以及其中涉及的人际关系的道德伦理规定。"
+  },
+  {
+   "cn": "商谈伦理",
+   "en": "discourse ethics",
+   "source": "马克思主义",
+   "wordNumber": "05.0038",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯认为交往行为实质上是一种商谈关系，强调在商谈伦理规导下，通过主体之间理解达到合理一致的真理，实现交往理性从理论向实践层面的转换，最终在社会成员之间相互理解和平相处的基础上达到文明进步目标。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,352 @@
+{
+ "key": "simplifying assumptions",
+ "term": "simplifying assumptions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:26:03+00:00",
+ "status": "ok",
+ "note": "variant=simplifying assumptions; 审定公布名词库=46; 海峡两岸名词对照库=9; 其他来源数据库=4; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "假设",
+   "en": "assumption",
+   "source": "物理学名词",
+   "wordNumber": "01.0148",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "简写本",
+   "en": "simplified edition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.123",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "对原版本内容用简明语言缩写的版本。"
+  },
+  {
+   "cn": "简化画法",
+   "en": "simplified representation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0197",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "包括规定画法、省略画法、示意画法等在内的图示方法。"
+  },
+  {
+   "cn": "简要著录",
+   "en": "simplified description",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.433",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "对识别文献所必需的特定特征进行著录的方法。"
+  },
+  {
+   "cn": "简化编目",
+   "en": "simplified cataloging",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.373",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "只记录识别文献所必需的基本著录项目和必要的检索点的著录方法。适当省去若干款目或款目中的若干著录事项。"
+  },
+  {
+   "cn": "简化符号",
+   "en": "simplified symbol",
+   "source": "建筑学名词",
+   "wordNumber": "09.0423",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "省略部分符号细节的图形符号。"
+  },
+  {
+   "cn": "简体",
+   "en": "simplified form",
+   "source": "语言学名词",
+   "wordNumber": "02.037",
+   "subjectFullName": "语言学_文字学_汉字的起源和发展演变",
+   "subjectName": "汉字的起源和发展演变",
+   "publishYear": "2011",
+   "definition": "汉字经过简化所形成的相对简省的字形。"
+  },
+  {
+   "cn": "简易驼峰",
+   "en": "simplified hump",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0454",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "简化模型",
+   "en": "simplified model",
+   "source": "自动化名词",
+   "wordNumber": "03.129",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "裘布依假设",
+   "en": "Dupuit assumption",
+   "source": "地质学名词",
+   "wordNumber": "16.03.074",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "潜水流计算的一种概化假定。针对潜水含水层，裘布依假设地下水的垂向流速可以忽略不计，单宽流量正比于潜水面坡度、潜水面相对底板的高度与渗透系数的乘积。"
+  },
+  {
+   "cn": "普雷斯顿假设",
+   "en": "Preston assumption",
+   "source": "光学名词",
+   "wordNumber": "06.165",
+   "subjectFullName": "光学_光学材料",
+   "subjectName": "光学材料",
+   "publishYear": "2021",
+   "definition": "描述光学元件抛光过程的线性微分方程。由普雷斯顿(F. W. Preston)于 1927 年提出，假设在将影响加工过程的因素进行经验性的简化基础上指出在一定范围内工件表面材料去除率与抛光工具对工件的正"
+  },
+  {
+   "cn": "行为假设",
+   "en": "behavioral assumption",
+   "source": "经济学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "所有经济理论的一部分，即关于人类动机方式的设定。"
+  },
+  {
+   "cn": "荷载组合",
+   "en": "loading assumption",
+   "source": "电力名词",
+   "wordNumber": "22.039",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "根据国家标准、法规、当地气象数据等确定的用于线路设计的荷载条件的组合。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "化学名词",
+   "wordNumber": "03.0209",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "关于1个或多个随机变量总体未知分布参数和性质的假设。如果随机变量分布形式已知，而仅涉及分布中的未知参数的统计假设，称为“参数假设(parameterassumption)”。"
+  },
+  {
+   "cn": "政策假设分析法",
+   "en": "assumption analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0301",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "对政策问题的冲突性假设进行创造性综合的一种方法。"
+  },
+  {
+   "cn": "简化玻片试验",
+   "en": "simplified slide test",
+   "source": "计划生育名词",
+   "wordNumber": "03.105",
+   "subjectFullName": "计划生育_计划生育临床_诊断_男性部分",
+   "subjectName": "男性部分",
+   "publishYear": "2019",
+   "definition": "一种使用玻片来评估精子-宫颈黏液相互作用的体外试验。"
+  },
+  {
+   "cn": "简化轧制过程",
+   "en": "simplified rolling process",
+   "source": "冶金学名词",
+   "wordNumber": "09.0300",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "采用理想化和简化的轧制模型进行研究的轧制过程。一般假设工具为刚性工具，轧件无宽展，沿每一高度截面上质点变形均匀，其运动之水平速度一样等。"
+  },
+  {
+   "cn": "简化字",
+   "en": "simplified Chinese character",
+   "source": "语言学名词",
+   "wordNumber": "02.186",
+   "subjectFullName": "语言学_文字学_汉字政策、应用研究等",
+   "subjectName": "汉字政策、应用研究等",
+   "publishYear": "2011",
+   "definition": "与“繁体字”相对。中华人民共和国成立后，在已经流行的简体字形基础上，经过主管部门组织专家系统整理和改进，再由国家正式公布的字形相对简化的汉字。"
+  },
+  {
+   "cn": "简化生物圈模型",
+   "en": "simplified biosphere model",
+   "source": "地理学名词",
+   "wordNumber": "25.131",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "关于全球变化对全球环境影响的一组方程，它涉及气候系统、土壤－植被系统的内部过程。"
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.608",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "数理逻辑用于知识表示时，假定没有被断言为真的句子是假的，或体现为“失败即否定”原则，即假定未证明为真的句子是假的。"
+  },
+  {
+   "cn": "闭合假设",
+   "en": "closure assumptions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "简化字",
+   "en": "simplified Hanzi\",\"simplified Chinese character",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简化生物圈模型",
+   "en": "simplified biosphere model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "强碰撞假设",
+   "en": "strong collision assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域平衡假设",
+   "en": "assumption of local equilibrium",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "回归同质假设",
+   "en": "assumption of homogeneity of regression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "放大透镜",
+   "en": "amplifying lens",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "简单支付验证",
+   "en": "simplified payment verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性假设",
+   "en": "assumption about human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简化通关手续",
+   "en": "to simplify procedures for customs clearance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简化对外投资审批程序",
+   "en": "simplify procedures for reviewing outbound investment",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "简化疾病活动度指数",
+   "en": "simplified disease activity index, SDAI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "一种用于评估类风湿关节炎疾病活动度的指标。采用以下指标的直接总和：压痛关节数、肿胀关节数（均采用28-关节计数法）、患者总体评估、医生总体评估（均0-10量表）、CRP水平（mg/dL）。疾病缓解的临"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

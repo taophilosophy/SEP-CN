@@ -1,0 +1,652 @@
+{
+ "key": "resistance reactions",
+ "term": "resistance reactions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:32:46+00:00",
+ "status": "ok",
+ "note": "variant=resistance reactions; 审定公布名词库=3074; 海峡两岸名词对照库=1044; 其他来源数据库=92; 预公布名词数据库=109; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "反作用力",
+   "en": "reaction",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0305",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构动力学",
+   "subjectName": "机构动力学",
+   "publishYear": "2021",
+   "definition": "当物体受到外力作用时，在约束中产生并作用在被约束物体上的力。"
+  },
+  {
+   "cn": "反[作用]力",
+   "en": "reaction",
+   "source": "土木工程名词",
+   "wordNumber": "02.018",
+   "subjectFullName": "土木工程_工程力学_理论力学",
+   "subjectName": "理论力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐药性",
+   "en": "resistance",
+   "source": "麻醉学名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "病原体或肿瘤细胞对药物的敏感性或反应性降低甚至消失的现象。"
+  },
+  {
+   "cn": "抵抗",
+   "en": "resistance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.027",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "文化意义上的不合作。是青少年亚文化和后殖民研究的关键概念。抵抗来自福柯的权力理论，即权力总是生产对于其效果的反对和抵抗。在霸权理论和霍尔意识形态研究中，抵抗是一种反权力。在卡斯特的集体身份认同理论中，"
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance ",
+   "source": "草学名词",
+   "wordNumber": "7.0363",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0030",
+   "subjectFullName": "地球物理学_地球电磁学_地电学",
+   "subjectName": "地电学",
+   "publishYear": "2022",
+   "definition": "一定体积的物体抵抗电流传输 (运动)的力。与物体两端的电压成正比，与两端之间传输的电流成反比。 "
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "动物学名词",
+   "wordNumber": "7.0586",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统受到外部干扰后维持系统结构功能原状的能力。"
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "电力名词",
+   "wordNumber": "01.192",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "对于端子为A和B的电阻性二端元件或二端电路,端子间电压<img src='/root/syzx/static/spz/dianli3.01.192.02.png'/>除以元件或电路中电流i的商:<im"
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "精神医学名词",
+   "wordNumber": "04.029",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "受检者对于揭示其无意识中被压抑记忆的过程产生抵抗的现象。可以来自本我、自我或超我层面，可以是无意识的，也可以是有意识的。"
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "物理学名词",
+   "wordNumber": "02.0380",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "冶金学名词",
+   "wordNumber": "04.0431",
+   "subjectFullName": "冶金学_冶金物理化学_冶金电化学",
+   "subjectName": "冶金电化学",
+   "publishYear": "2019",
+   "definition": "物质对电流的阻碍作用。单位为欧姆，用Ω表示。"
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "植物学名词",
+   "wordNumber": "13.0553",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统受到外部干扰后维持系统结构功能原状的能力。"
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.419",
+   "subjectFullName": "呼吸病学_肺功能_脉冲振荡技术",
+   "subjectName": "脉冲振荡技术",
+   "publishYear": "2018",
+   "definition": "呼吸总阻抗中同相位的成分，实质是呼吸系统的黏性阻力。用R表示。"
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "林学名词",
+   "wordNumber": "03.198",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "生态系统受到干扰后产生变化的大小。为衡量系统受外界干扰而保持原状的能力。"
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "地方病学名词",
+   "wordNumber": "07.063",
+   "subjectFullName": "地方病学_鼠疫_宿主",
+   "subjectName": "宿主",
+   "publishYear": "2016",
+   "definition": "宿主动物和人在感染鼠疫后对鼠疫菌的耐受及产生抗体的能力。"
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "计量学名词",
+   "wordNumber": "10.024",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "导电物体阻碍传导电流通过的能力。单位是欧姆(Ω)。"
+  },
+  {
+   "cn": "抗力",
+   "en": "resistance",
+   "source": "建筑学名词",
+   "wordNumber": "13.0082",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "结构或结构构件承受作用效应的能力。"
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "心理学名词",
+   "wordNumber": "15.005",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "个体在咨询过程中面临某些威胁性成分时的无意识抵抗。表现为压抑、回避等反应。"
+  },
+  {
+   "cn": "耐药性",
+   "en": "resistance",
+   "source": "药学名词",
+   "wordNumber": "04.037",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "病原体对药物的敏感性下降甚至消失的现象。"
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "生态学名词",
+   "wordNumber": "07.307",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统受到干扰后产生变化的大小。为衡量系统受外界干扰而保持原状的能力。"
+  },
+  {
+   "cn": "表面反应阻力",
+   "en": "surface reaction resistance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反应",
+   "en": "reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反作用",
+   "en": "reaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抵抗力,抗性",
+   "en": "resistance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐药性，抗药性",
+   "en": "resistance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "electric resistance\",\"resistance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电阻率",
+   "en": "resistivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电阻率",
+   "en": "resistivity\",\"electric resistivity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "单分子反应",
+   "en": "monomolecular reaction\",\"unimolecular reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "气化反应",
+   "en": "gasification reaction\",\"gasifying reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合成反应",
+   "en": "synthesis reaction\",\"synthetic reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反应黏合",
+   "en": "reaction adhesion\",\"reaction bonding",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "加成反应",
+   "en": "addition reaction\",\"additive reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体对某种外源化学物产生的抵抗性，即使高剂量暴露也不会产生明显毒作用的现象。"
+  },
+  {
+   "cn": "交叉反应",
+   "en": "cross reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "抗体或活化淋巴细胞不仅与其诱生抗原发生特异性结合，也可与其他非诱生抗原中相同或相似的表位发生特异性结合的现象。"
+  },
+  {
+   "cn": "光触媒反应",
+   "en": "photocatalytic reaction",
+   "source": "消毒学",
+   "wordNumber": "2.2.6.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "在光催化剂作用下进行的化学反应。"
+  },
+  {
+   "cn": "核反应",
+   "en": "nuclear reaction",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.22",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "用粒子轰击原子核引起原子核的状态发生变化或形成新的原子核的过程。"
+  },
+  {
+   "cn": "光核反应",
+   "en": "photonuclear reaction",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.42",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "光子轰击靶核发生的核反应。均为吸热反应，典型的反应阈能约在10MeV。通常发射中子，是医用加速器防护中常考虑的问题。"
+  },
+  {
+   "cn": "放射反应",
+   "en": "radiation reaction",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "接触射线时间不长（一般几个月到2年），受照剂量不大或短期超剂量照射，机体出现某些无力型神经衰弱症状；自身对照白细胞数增加或减少，或波动幅度较大，分类可有嗜酸性或嗜碱性粒细胞增加，而又无其他原因可寻者，"
+  },
+  {
+   "cn": "危机反应",
+   "en": "crisis reaction",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "个人处于需要超过寻常的能力才能应对的处境时作出的反应。"
+  },
+  {
+   "cn": "应激反应",
+   "en": "stress reaction",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "机体受到伤害性刺激时，以血液中促肾上腺皮质激素和糖皮质激素水平急剧升高为标志，引起的一系列生理、心理、行为等方面的非特异性适应性全身反应。"
+  },
+  {
+   "cn": "交叉反应",
+   "en": "cross reaction",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.21",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "抗原(或抗体)除与其相应抗体(或抗原)发生特异性反应外，还与其他抗体(或抗原)发生反应的现象。"
+  },
+  {
+   "cn": "阿蒂斯反应",
+   "en": "Arthus reaction",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.2.19",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "即向动物皮下多次注射相同的无毒性抗原，局部可出现炎症细胞浸润，并继发水肿、出血、坏死等剧烈炎症反应。抗原刺激机体产生大量抗体，后续注入的相同抗原由皮下向血管内渗透，而血流中相应抗体向血管外弥散，二者在"
+  },
+  {
+   "cn": "生化反应",
+   "en": "biochemical reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.55",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "使用化学或生物学方法，检测细菌对糖、蛋白质等基质的分解能力和代谢产物，用于鉴别细菌的反应"
+  },
+  {
+   "cn": "特异质反应",
+   "en": "idiosyncratic reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.4",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体对外源化学物的异常敏感或异常不敏感的一种遗传性异常反应。"
+  },
+  {
+   "cn": "美拉德反应",
+   "en": "maillard reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.70",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "还原糖与游离氨基酸或蛋白质分子中的游离氨基，在高温等条件下发生的一系列反应。可产生一些风味物质，并生成类黑精等深棕色大分子物质。"
+  },
+  {
+   "cn": "抗力测试仪",
+   "en": "resistance tester",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于测定试验微生物抗力，鉴定生物指示物和化学指示物并对温度、浓度、压力及其作用时间均有严格规定的专用设备。如压力蒸汽灭菌指示物抗力测定仪、环氧乙烷灭菌指示物抗力测定仪和过氧化氢气体灭菌指示物抗力测定仪"
+  },
+  {
+   "cn": "心理阻抗",
+   "en": "psychological resistance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，求咨者在咨询中出现的各种下意识的自我保护现象。如每次咨询都迟到，交谈时注意力分散、态度消极、漠视对方或情绪急躁。多见于幼儿期有过创伤体验或受压抑的求咨者，也可能因咨询者因素导致。"
+  },
+  {
+   "cn": "抗阻运动",
+   "en": "resistance exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_儿童青少年身体活动指南",
+   "subjectName": "儿童青少年身体活动指南",
+   "publishYear": "2025",
+   "definition": "肌肉在收缩时人为地给予一定的外加阻力，使运动时肌肉张力达到较高的程度，以提高肌力和肌肉耐力的运动方式。"
+  },
+  {
+   "cn": "消毒剂耐受性",
+   "en": "disinfectant resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.68",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "微生物（尤为病原微生物）对消毒剂产生高度耐受的特性"
+  },
+  {
+   "cn": "交叉抗性",
+   "en": "cross resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.113",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某种微生物对多种抗生素具有抗性的现象。"
+  },
+  {
+   "cn": "呼吸阻力",
+   "en": "breathing resistance",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.1.1.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "佩戴面具时呼吸气流通过面具所产生的摩擦力，包括呼气阻力和吸气阻力。"
+  },
+  {
+   "cn": "反抗型依恋",
+   "en": "resistant attachment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "痛苦、反抗的依恋行为。对母亲的离开过度敏感，表现非常痛苦和极度反抗，对母亲纠缠不休又抵抗母亲拥抱，既寻求接触又对接触表示反抗。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

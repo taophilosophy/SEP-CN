@@ -1,0 +1,742 @@
+{
+ "key": "social recognition",
+ "term": "social recognition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:36:10+00:00",
+ "status": "ok",
+ "note": "variant=social recognition; 审定公布名词库=4079; 海峡两岸名词对照库=983; 其他来源数据库=171; 预公布名词数据库=695; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0249",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）分子间特异结合的相互作用。如，转运RNA（tRNA）分子与氨基酰tRNA合成酶的相互作用。（2）免疫细胞与抗原之间的相互作用。"
+  },
+  {
+   "cn": "再认",
+   "en": "recognition",
+   "source": "行为医学名词",
+   "wordNumber": "4.034",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "过去的经验或识记过的事物再次呈现时的辨认过程。"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "生理学名词",
+   "wordNumber": "02.166",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "再认",
+   "en": "recognition",
+   "source": "心理学名词",
+   "wordNumber": "02.559",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "过去的经验或识记过的事物再次呈现时的辨认过程。"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "药学名词",
+   "wordNumber": "05.346",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "大分子间特异结合的相互作用。"
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "电子学名词",
+   "wordNumber": "05.154",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语音识别",
+   "en": "voice recognition,speech recognition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0433",
+   "subjectFullName": "计算机科学技术_人工智能_模式识别",
+   "subjectName": "模式识别",
+   "publishYear": "2018",
+   "definition": "让机器通过识别和理解，将人的语音信号转换为相应的文本或命令的过程。"
+  },
+  {
+   "cn": "语音识别",
+   "en": "voice recognition; speech recognition",
+   "source": "农学名词",
+   "wordNumber": "16.221",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "将语音信号转换为相应的文本等相关数据的过程。"
+  },
+  {
+   "cn": "面孔识别",
+   "en": "facial recognition",
+   "source": "心理学名词",
+   "wordNumber": "02.456",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "自动辨认出图像中面孔的能力。"
+  },
+  {
+   "cn": "智能识别",
+   "en": "intelligent recognition",
+   "source": "农学名词",
+   "wordNumber": "16.218",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "利用人工智能等方法进行的模式识别。"
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "农学名词",
+   "wordNumber": "16.219",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "根据特征、属性或结构，确定一个物体、行为或现象属于某个模式类别或模式个体的过程。"
+  },
+  {
+   "cn": "图像识别",
+   "en": "image recognition",
+   "source": "农学名词",
+   "wordNumber": "16.222",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "对图像进行处理、分析和理解，以识别各种不同模式的目标和对象的过程。"
+  },
+  {
+   "cn": "文字辨识",
+   "en": "character recognition",
+   "source": "档案学名词",
+   "wordNumber": "04.03.075",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献编纂中，对档案材料中错别字、古体字、通假字、避讳字、贬写字、帖写字、异体字、草书以及勾改符号等难以辨识的文字符号加以准确释读辨认的工作。"
+  },
+  {
+   "cn": "身份识别",
+   "en": "identity recognition",
+   "source": "档案学名词",
+   "wordNumber": "06.02.016",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "用于区分操作者角色和权限的技术方法。"
+  },
+  {
+   "cn": "身份识别",
+   "en": "identity recognition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.081",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "利用密码技术（尤其是公钥密码技术）设计出安全性高的协议的一种技术方法。"
+  },
+  {
+   "cn": "同种异型识别",
+   "en": "allogeneic recognition",
+   "source": "兽医学名词",
+   "wordNumber": "14.263",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "对同种异型抗原的识别，主要指识别非己MHC分子。"
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "兽医学名词",
+   "wordNumber": "14.265",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "模式识别受体对病原体相关分子模式的 识别。"
+  },
+  {
+   "cn": "语音辨识",
+   "en": "voice recognition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.045",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "用计算机把指定语音的背景杂音过滤掉后进行声波分析，据其特色进行识别的过程。"
+  },
+  {
+   "cn": "字符识别",
+   "en": "character recognition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.092",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "一种利用计算机自动识别字符的技术。"
+  },
+  {
+   "cn": "模式识别",
+   "en": "model recognition",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "14.049",
+   "subjectFullName": "新闻学与传播学_媒介环境_媒介影响研究与人类环境",
+   "subjectName": "媒介影响研究与人类环境",
+   "publishYear": "2022",
+   "definition": "电子时代的认识论特征，与“观点”的方法相对。由麦克卢汉、洛根等人提出。电子时代的信息超载使数据分类让位于模式识别。面对信息超载时，脑子倚重模式识别，以求理解。“观点”的方法是一种左脑的运行机制，导致分"
+  },
+  {
+   "cn": "再认",
+   "en": "recognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "识别",
+   "en": "recognition",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "面孔识别，人脸识别，面部识别",
+   "en": "face recognition\",\"facial recognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "轮廓识别",
+   "en": "contour recognition\",\"outline recognition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "细胞识别",
+   "en": "cell recognition",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "识别蛋白",
+   "en": "recognition protein",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "识别反应",
+   "en": "recognition reaction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "识别序列",
+   "en": "recognition sequence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "图形识别",
+   "en": "pattern recognition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "再认阈限",
+   "en": "recognition threshold",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我认识",
+   "en": "self recognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "再认广度",
+   "en": "recognition span",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分子识别",
+   "en": "molecular recognition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "物种识别",
+   "en": "species recognition",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲缘识别",
+   "en": "kin recognition",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物特征识别",
+   "en": "biometric recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人脸识别",
+   "en": "face recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模式识别",
+   "en": "pattern recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人像识别技术",
+   "en": "facial recognition technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子目标识别",
+   "en": "quantum target recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人脸识别支付",
+   "en": "face recognition payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交金融",
+   "en": "Social Finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交基金",
+   "en": "social fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交性投资者",
+   "en": "social investor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会承认",
+   "en": "social recognition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会或社会群体通过正式或非正式方式对人们某种身份地位、行为、观念、活动表示肯定、同意和认可。"
+  },
+  {
+   "cn": "生物识别",
+   "en": "biological recognition",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.57",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过计算机与光学、声学、生物传感器和生物统计学原理等高科技手段密切结合，利用动物固有的生理特性（如指纹、脸像、虹膜等）和行为特征（如笔迹、声音、步态等）来进行食品身份鉴定的技术。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "社会规范和文化价值在个体身上内化(internalize)的过程。个体在家庭、学校等社会环境中，通过多种形式的人际互动，以及知识、技能的学习，学会扮演社会角色，认同并接受群体的规范体系和意义体系，并依"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0158",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过社会互动而形成个体的社会属性，促使个体与社会保持一致性，实现个体的社会生活的过程。具体来说，是自然人通过各种方式逐渐学习社会知识、技能与规范，熟悉社会的风俗、习惯、道德、法律，确立生活目标、价值观"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0170",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与资本主义对立的思想体系和社会制度。社会主义一词来源于古拉丁文，一说由socialis（同伴的、同伙的）一词引出，一说由socius（喜欢社交的）一词引出，原有社会的、共同的、集体的生活之意。科学社会"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "自然人成长为社会人的过程。即一个人出生以后，通过与其他社会成员、群体和组织的互动、学习和接受社会知识、技能和规范，不断适应社会生活的过程。"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  },
+  {
+   "cn": "社会福利社会化",
+   "en": "socialization of social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "中国经济体制改革后社会福利领域改革的指导思想，即从计划经济下福利制度中的单位小社会转向建设市场经济为导向下的社会保障制度。包括投资主体多元化、服务对象公众化、服务方式多样化和服务队伍专业化四个方面的内"
+  },
+  {
+   "cn": "社会主义社会建设",
+   "en": "social construction of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0689",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义的社会建设中“社会”是整个社会主义社会发展中与其经济、政治、文化相并列的一个领域。社会主义的社会建设，是通过动员社会力量、整合社会资源、协调利益关系、发展社会事业、完善社会功能、健全社会保障、"
+  },
+  {
+   "cn": "承认政治",
+   "en": "politics of recognition",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.7",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "在自由主义取向的国家所出现的以族群、性别、文化等为内容的政治正义诉求，及其所带来的对经典自由主义理念的挑战；其哲学根基是黑格尔所阐述的“相互承认的法权”，美国政治哲学家泰勒认为，承认的政治是多元文化社"
+  },
+  {
+   "cn": "承认理论",
+   "en": "theory of recognition",
+   "source": "马克思主义",
+   "wordNumber": "05.0044",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "法兰克福学派第三代社会批判理论集大成者霍耐特（Axel Honneth）用米德（George Herbert Mead）的社会心理学改造青年黑格尔的相互承认理论，进一步明确了承认关系结构，并阐发了承认"
+  },
+  {
+   "cn": "抗原识别受体",
+   "en": "antigen recognition receptor",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.8",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "T细胞、B细胞表面的T细胞受体和B细胞受体。前者可特异性识别抗原肽-MHC分子复合物，后者可特异性识别抗原的B细胞表位。"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.38",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "识别病原体(或某些内源性成分)相关分子模式的一类受体分子，介导固有免疫应答。"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "识别固有分子模式，即病原体相关分子模式和损伤相关分子模式的专一性受体，包括Toll 样受体(TLR)、NOD 样受体(NLR)、RIG 样受体(RLR)和C 型凝集素受体(CLR)，以及甘露糖受体、清"
+  },
+  {
+   "cn": "社会认知",
+   "en": "social cognition",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "个人对他人的心理状态、行为动机、意向等作出推测与判断的过程。社会认知的过程既是基于认知者的既有经验及对有关线索的分析而进行的，又必须通过认知者的思维活动（包括一定程度的信息加工、推理、分类和归纳）来进"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

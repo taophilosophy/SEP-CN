@@ -1,0 +1,812 @@
+{
+ "key": "political engagement",
+ "term": "political engagement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:35:07+00:00",
+ "status": "ok",
+ "note": "variant=political engagement; 审定公布名词库=191; 海峡两岸名词对照库=30; 其他来源数据库=21; 预公布名词数据库=56; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "啮合",
+   "en": "engagement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0142",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "一对齿轮的齿依次交替地接触，从而实现一定规律的相对运动的过程和形态。"
+  },
+  {
+   "cn": "衔接",
+   "en": "engagement",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.115",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "礼貌",
+   "en": "politeness",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.149",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "运用交往策略，如字斟句酌等，避免冒犯他人面子的一种表达人际关系积极意义的语言行为。此处与社交礼仪有关礼貌的一般规则含义不同。"
+  },
+  {
+   "cn": "正常啮合",
+   "en": "normal engagement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0418",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_谐波齿轮传动",
+   "subjectName": "谐波齿轮传动",
+   "publishYear": "2021",
+   "definition": "柔轮齿与刚轮齿的接触点位于齿廓工作段之内。"
+  },
+  {
+   "cn": "业务约定书",
+   "en": "engagement letter",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0390",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "会计师事务所与被审计单位签订的，用以记录和确认审计业务的委托与受托关系、审计目标和范围、双方的责任以及报告的格式等事项的书面协议。"
+  },
+  {
+   "cn": "鉴证业务",
+   "en": "assurance engagement",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0430",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师对鉴证对象信息做出结论，以增强除责任方之外的预期使用者对鉴证对象信息信任程度的业务。"
+  },
+  {
+   "cn": "邦咯条约",
+   "en": "Pangkor Engagement",
+   "source": "世界历史名词",
+   "wordNumber": "04.0341",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "1874年1月，英国殖民者迫使马来半岛霹雳王室在邦咯岛签订的条约，使霹雳成为英国的被保护邦。"
+  },
+  {
+   "cn": "接合机构",
+   "en": "engaging mechanism",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0337",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器主要零部件",
+   "subjectName": "离合器主要零部件",
+   "publishYear": "2021",
+   "definition": "具有使接合元件产生接合动作的部件。"
+  },
+  {
+   "cn": "接合元件",
+   "en": "engaging element",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0339",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器主要零部件",
+   "subjectName": "离合器主要零部件",
+   "publishYear": "2021",
+   "definition": "能实现主、从动部分离合功能的嵌合副或摩擦副。"
+  },
+  {
+   "cn": "接合过程",
+   "en": "engaging process",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0379",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器性能参数",
+   "subjectName": "离合器性能参数",
+   "publishYear": "2021",
+   "definition": "操纵离合器后，使从动部分随主动部分运转直至同步的过程。"
+  },
+  {
+   "cn": "接合时间",
+   "en": "engaging time",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0382",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器性能参数",
+   "subjectName": "离合器性能参数",
+   "publishYear": "2021",
+   "definition": "接合过程所需要的时间。"
+  },
+  {
+   "cn": "接合频率",
+   "en": "engaging frequency",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0385",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器性能参数",
+   "subjectName": "离合器性能参数",
+   "publishYear": "2021",
+   "definition": "离合器单位时间内的接合次数。"
+  },
+  {
+   "cn": "注意锁定",
+   "en": "engaging attention",
+   "source": "生理学名词",
+   "wordNumber": "03.753",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "换档元件",
+   "en": "engaging element",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.126",
+   "subjectFullName": "机械工程_汽车_底盘_自动传动系统",
+   "subjectName": "自动传动系统",
+   "publishYear": "2013",
+   "definition": "在换档过程中，以分离或接合来实现换档的元件。如离合器、制动器等。"
+  },
+  {
+   "cn": "啮合力",
+   "en": "engaging force",
+   "source": "电子学名词",
+   "wordNumber": "08.023",
+   "subjectFullName": "电子学_机电元及其他电子元件",
+   "subjectName": "机电元及其他电子元件",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "政务类公务员",
+   "en": "political appointee,political official",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0313",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "由选举产生或政治任命，具有严格的任期，与内阁共进退的公务员。在中国，指由人民代表大会选举产生或人大常委会决定任命的各级政府组成人员。"
+  },
+  {
+   "cn": "政治哲学",
+   "en": "political philosophy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.813",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "研究政治现象的内在本性和政治活动的相关准则等规范性问题的哲学分支。试图从哲学层面审视公正、民主、自由、国家、公民、权利、义务等政治观念及其实践。"
+  },
+  {
+   "cn": "政治技术",
+   "en": "political technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.074",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类理性为处理社会组织方式和秩序方式而在特定条件下经过长期实践形成和发展起来的知识和操作程序。"
+  },
+  {
+   "cn": "政论漫画",
+   "en": "political cartoon",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.022",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻报刊",
+   "subjectName": "新闻报刊",
+   "publishYear": "2022",
+   "definition": "包含表达艺术家意见的漫画。通常结合艺术技巧如夸张和讽刺来质疑权力，并提请注意腐败、政治暴力和其他社会弊病。"
+  },
+  {
+   "cn": "时政新闻",
+   "en": "political news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.103",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "国家或地方政治生活中新近或正在发生的事实的报道。主要关注党政机关及其领导人、各种社会组织和机构在处理国家、地方政治生活以及国际关系方面的方针、政策和活动。"
+  },
+  {
+   "cn": "政治心理学",
+   "en": "political psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "政策性价格",
+   "en": "political price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政治地理学",
+   "en": "political geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "政治社会学",
+   "en": "political sociology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "政治生态学",
+   "en": "political ecology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "政治算术",
+   "en": "Political Arithmetick",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "政治哲学",
+   "en": "political philosophy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "政治地图",
+   "en": "political map",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "政委",
+   "en": "political officer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地盘政治",
+   "en": "turf politics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "文化政治学",
+   "en": "cultural politics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "解约",
+   "en": "break of engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "没有约定的发盘",
+   "en": "offer without engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有约束力发盘",
+   "en": "offer with engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电啮合长度",
+   "en": "electrical engagement length",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "从事捕鱼的船舶",
+   "en": "vessel engaged in fishing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "离合机构",
+   "en": "engaging and disengaging gear",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "触点插拔力",
+   "en": "contact engaging and separating force",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "清除水雷船",
+   "en": "vessel engaged in mineclearance operation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "行政区划略图",
+   "en": "index to boundaries\",\"index to  political boundaries",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "重复交锋",
+   "en": "double engagement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "政策风险",
+   "en": "political risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代码政治",
+   "en": "code politics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多次转移",
+   "en": "change of engagement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交锋",
+   "en": "engage\",\"fence\",\"bind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "政治人假设",
+   "en": "political man hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深化政治巡视",
+   "en": "deepening political inspection",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不争",
+   "en": "Not Engaging in Contention",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国政治事务部",
+   "en": "Department of Political Affairs",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政治",
+   "en": "Decree and Governance / Politics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党的政治纪律和政治规矩",
+   "en": "the political discipline and political rules of the Party",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "党的政治建设",
+   "en": "the Party's political building",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网络问政",
+   "en": "online participation in political affairs",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "先胜后战",
+   "en": "Be Sure of Winning Before Engaging in War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党是最高政治领导力量",
+   "en": "The Party is the highest force for political leadership.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色社会主义政治发展道路",
+   "en": "the socialist path of making political advance with Chinese characteristics",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国共产党与世界政党高层对话会",
+   "en": "CPC in Dialogue with World Political Parties High-level Meeting",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不战在我",
+   "en": "<div> Do not Engage the Enemy If Victory Is Not Guaranteed.</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "战法必本于政胜",
+   "en": "Methods of Warfare Must Be Based on the Success of Politics.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗大精神",
+   "en": "the spirit of the Military and Political University of Resistance Against Japanese Aggression",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "政治",
+   "en": "politics",
+   "source": "马克思主义",
+   "wordNumber": "03.0216",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "政治是社会的上层建筑，经济的集中表现，产生于一定的经济基础，给予经济发展以巨大影响，并在社会上层建筑中居于统率地位。在阶级社会里，阶级斗争、政治权力、处理阶级关系是政治的核心内容。政治处理的主要是国家"
+  },
+  {
+   "cn": "接案",
+   "en": "engagement，contract",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者与潜在的服务对象开始接触、了解其需求、帮助其逐渐成为服务对象并接受服务的过程，是社会工作助人活动的开端。"
+  },
+  {
+   "cn": "政治资本主义",
+   "en": "political capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.10",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "依赖于政治权威的支持，或以其他方式与政府相关联以实现私人经济利益的资本主义模式。马克斯•韦伯根据创造利益的关键因素的不同和赢利模式的不同提出的资本主义理想类型。"
+  },
+  {
+   "cn": "政治社会学",
+   "en": "political sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.6.1.1",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_政治社会学",
+   "subjectName": "政治社会学",
+   "publishYear": "2025",
+   "definition": "用社会学的观点和方法研究政治现象的一门综合性学科。着重研究政治系统与社会环境的相互关系，探讨政治系统在社会结构中的存在条件等。"
+  },
+  {
+   "cn": "政治正确",
+   "en": "political correctness",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.8",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "使用在政治倾向上显得“中立”和“中性”的语言和词汇来描述人与事物，旨在避免因褒贬性表述而带来的价值偏见和符号暴力，体现对各种弱势群体的尊重。"
+  },
+  {
+   "cn": "政治文化",
+   "en": "political culture",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.9",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "某一族群在一定时期所持有的政治认同、政治理想与政治情感等要素的总和。美国政治学家G.A.阿尔蒙德认为它是客观政治现实在社会心理层面的反映。"
+  },
+  {
+   "cn": "政治宗教",
+   "en": "political religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.10",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "植根于具体的文化与政治环境之下的、有关统治的意识形态或信仰的理论与实践。"
+  },
+  {
+   "cn": "政治经济学",
+   "en": "political economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0001",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以人类社会的生产关系或经济制度为研究对象的科学，主要阐明人类社会各个发展阶段上支配物质资料的生产、交换、分配和消费等经济活动的规律。"
+  },
+  {
+   "cn": "政党",
+   "en": "political party",
+   "source": "马克思主义",
+   "wordNumber": "03.0215",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "代表特定阶级、阶层或集团的利益并为之进行斗争的政治组织。它在社会生活和国家机关中进行广泛的政治活动，并以取得政权和维护政权作为自己的重要目标。是阶级斗争的工具，通常由本阶级、阶层或集团中最积极的分子组"
+  },
+  {
+   "cn": "政治暴力",
+   "en": "political violence",
+   "source": "马克思主义",
+   "wordNumber": "03.0217",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为了政治目的而使用的包括军队、警察、法庭、监狱等所有物质力量。它是政治权力的基础和后盾，但不是政治权力本身。政治暴力往往是在政治权力的合法性得不到认同时所诉诸的最后手段。"
+  },
+  {
+   "cn": "政治斗争",
+   "en": "political struggle",
+   "source": "马克思主义",
+   "wordNumber": "03.0218",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "各阶级、阶层、政党、民族、国家和政治力量之间围绕着政治权力所进行的斗争。它是阶级斗争的高级形式。核心是国家政权问题，即统治阶级要保持统治地位，被统治阶级要争得统治地位。政治斗争有时也指一定阶级、阶层内"
+  },
+  {
+   "cn": "政治解放",
+   "en": "political liberation",
+   "source": "马克思主义",
+   "wordNumber": "03.0219",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级革命推翻封建专制制度、等级特权和宗教统治，使民主和法制成为国家制度。政治解放虽然把国家从宗教中解放出来，把人从宗教的枷锁中解放出来，但并不要求人们放弃和废除宗教，不要触动私有财产，它本身还不是"
+  },
+  {
+   "cn": "政治制度",
+   "en": "political system",
+   "source": "马克思主义",
+   "wordNumber": "03.0220",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "特定社会中统治阶级实现其阶级专政的政权组织形式及有关国家权力的性质、组织、分配、运作等方面的制度,包括国家的管理形式、结构形式,选举制度和人民行使的政治权利等。"
+  },
+  {
+   "cn": "政治国家",
+   "en": "political state",
+   "source": "马克思主义",
+   "wordNumber": "03.0253",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯和列宁使用过的一个概念，是从黑格尔那里借用来的一个比较抽象的哲学概念，只具有政治职能的国家，与消失了政治职能只具有简单管理职能的非政治国家相对而言。政治职能即一个阶级统治另一个阶级的阶级"
+  },
+  {
+   "cn": "政治教育",
+   "en": "political education",
+   "source": "马克思主义",
+   "wordNumber": "04.0078",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "依据苏俄人民委员会1920年2月23日的法令，成立了隶属于地方（州、县、省）国民教育局的政治教育委员会，以及直属苏维埃俄国人民委员会的政治教育总委员会。主要任务是领导教育战线的政治工作，开展群众性的文"
+  },
+  {
+   "cn": "政治冷淡主义",
+   "en": "political indifferentism",
+   "source": "马克思主义",
+   "wordNumber": "04.0324",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪70年代国际共产主义运动中一种放弃政治活动的思潮。主要代表为米哈伊尔·亚历山德罗维奇·巴枯宁（Miklhail Alexandrovich Bakunin）及其门徒。该思潮反对无产阶级组成政党"
+  },
+  {
+   "cn": "政治无意识",
+   "en": "political unconscious",
+   "source": "马克思主义",
+   "wordNumber": "05.0192",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "美国马克思主义评论家弗雷德里克·詹姆逊 （Fredric Jameson）在被称为\"马克思主义的三部曲\"之一《政治无意识》(1981年)中，并没有直接进入到阶级的言说中来，而是代之以诸多文学文本并从历"
+  },
+  {
+   "cn": "政治人类学",
+   "en": "political anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.027",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "政治学和文化人类学（民族学）的交叉学科。"
+  },
+  {
+   "cn": "性政治",
+   "en": "sexual politics",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "激进女性主义将个人生活政治化的一个基本概念，源自美国女权主义者米利特(Kate Millett）1970年出版的同名著作，认为与性相关的各个层面包括性意识、性关系、性身份等都是性别不平等的政治体现，是"
+  },
+  {
+   "cn": "身体政治",
+   "en": "body politics",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.19",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女性主义的一个核心议题。认为女性身体既是父权制下被物化和规训的客体，同时也是女性赋权的工具。身体本身是性别政治和权力支配的产物，但也可以作为一种政治抗争的武器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

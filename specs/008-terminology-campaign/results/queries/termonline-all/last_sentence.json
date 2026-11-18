@@ -1,0 +1,792 @@
+{
+ "key": "last sentence",
+ "term": "last sentence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:28:31+00:00",
+ "status": "ok",
+ "note": "variant=last sentence; 审定公布名词库=1721; 海峡两岸名词对照库=776; 其他来源数据库=143; 预公布名词数据库=50; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "末次间冰期",
+   "en": "last interglacial",
+   "source": "地质学名词",
+   "wordNumber": "08.02.021",
+   "subjectFullName": "地质学_第四纪地质学_第四纪冰期与古气候",
+   "subjectName": "第四纪冰期与古气候",
+   "publishYear": "2026",
+   "definition": "距今13万~7.1万年的第四纪最后一次间冰期。"
+  },
+  {
+   "cn": "终霜",
+   "en": "last frost",
+   "source": "农学名词",
+   "wordNumber": "13.054",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "每年冬末春初最后一次出现的霜。"
+  },
+  {
+   "cn": "终雪",
+   "en": "last snow",
+   "source": "农学名词",
+   "wordNumber": "13.137",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "一年内夏季之前的最后一次降雪。"
+  },
+  {
+   "cn": "尽间",
+   "en": "last room",
+   "source": "风景园林名词",
+   "wordNumber": "07.0114",
+   "subjectFullName": "风景园林_风景园林建筑_传统建筑构成",
+   "subjectName": "传统建筑构成",
+   "publishYear": "2025",
+   "definition": "梢间外边的间。如只有五开间，便无尽间。有时尽间与梢间通用。"
+  },
+  {
+   "cn": "终室",
+   "en": "last loculus",
+   "source": "动物学名词",
+   "wordNumber": "5.0239",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "有孔虫多个房室构成的壳，其最后形成的房室。"
+  },
+  {
+   "cn": "终室",
+   "en": "last loculus",
+   "source": "动物学名词",
+   "wordNumber": "5.1792",
+   "subjectFullName": "动物学_无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2021",
+   "definition": "头足类软体动物背楯的腹面分为前后两部分，前部平滑部分。"
+  },
+  {
+   "cn": "酒尾",
+   "en": "last distillate",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1386",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_酒",
+   "subjectName": "酒",
+   "publishYear": "2020",
+   "definition": "蒸馏后期截取出的酒精度较低的酒-水混合物，含有较多沸点高的酯类、酸类和醇类。"
+  },
+  {
+   "cn": "末次冰期",
+   "en": "Last Glaciation",
+   "source": "地理学名词",
+   "wordNumber": "11.105",
+   "subjectFullName": "地理学_冰川学",
+   "subjectName": "冰川学",
+   "publishYear": "2006",
+   "definition": "约始于距今7.5万年，结束于距今1万年的冰期。是第四纪的最后一次冰期。"
+  },
+  {
+   "cn": "下弦",
+   "en": "last quarter",
+   "source": "航海科技名词",
+   "wordNumber": "03.0083",
+   "subjectFullName": "航海科学技术_天文航海",
+   "subjectName": "天文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "末项",
+   "en": "last term",
+   "source": "数学名词",
+   "wordNumber": "04.0131",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "复圆",
+   "en": "last contact; last contact of umbra",
+   "source": "天文学名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "主要食相之一，月面与日面或月球与地球本影第二次外切的现象。也常指此食相发生的时刻。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "末次冰期",
+   "en": "last glacial period",
+   "source": "地质学名词",
+   "wordNumber": "08.02.019",
+   "subjectFullName": "地质学_第四纪地质学_第四纪冰期与古气候",
+   "subjectName": "第四纪冰期与古气候",
+   "publishYear": "2026",
+   "definition": "第四纪冰期的最后一次冰期。约开始于7万年前，结束于1.15万年前。这期间曾出现几次冰川的前进及消退，盛冰期发生于约2.1万年前。"
+  },
+  {
+   "cn": "末次冰盛期",
+   "en": "Last Glacial Maximum",
+   "source": "地理学名词",
+   "wordNumber": "11.106",
+   "subjectFullName": "地理学_冰川学",
+   "subjectName": "冰川学",
+   "publishYear": "2006",
+   "definition": "末次冰期中气候最寒冷、冰川规模最大的时期。即末次冰期晚冰阶，距今3.2～1万年。"
+  },
+  {
+   "cn": "最后不合法航次",
+   "en": "illegitimate last vayage",
+   "source": "航海科技名词",
+   "wordNumber": "13.0153",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "最后合法航次",
+   "en": "legitimate last vayage",
+   "source": "航海科技名词",
+   "wordNumber": "13.0152",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "费马大定理",
+   "en": "Fermat last theorem",
+   "source": "数学名词",
+   "wordNumber": "04.0180",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "末离时",
+   "en": "last exit time",
+   "source": "数学名词",
+   "wordNumber": "09.0332",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "终雪",
+   "en": "last snow",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最后背书人",
+   "en": "last endorser",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "末次冰期",
+   "en": "Last Glaciation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "最后优先级",
+   "en": "last priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终室",
+   "en": "last loculus",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "下弦",
+   "en": "last quarter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "复圆",
+   "en": "last contact\",\"last contact of umbra",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最后一个野人",
+   "en": "Last Savage\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Menotti, Gian Carlo"
+  },
+  {
+   "cn": "最后交易日",
+   "en": "last trading day",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最终价格法",
+   "en": "last price method",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "末现面",
+   "en": "last-appearance datum",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "末次冰盛期",
+   "en": "Last Glacial Maximum",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "最后不合法航次",
+   "en": "illegitimate last voyage",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最后合法航次",
+   "en": "legitimate last voyage",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最后机会原则",
+   "en": "last opportunity rule",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最终失效",
+   "en": "last ply failure\",\"LPF",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "下弦",
+   "en": "last quarter\",\"third quarter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最后一跳（投、掷）",
+   "en": "last trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最后一圈",
+   "en": "last lap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三次试举",
+   "en": "last attempt\",\"third lift",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“最后一公里”（脱贫）",
+   "en": "the last-mile” (in poverty alleviation)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解决好生活必需品供应的“最后一公里”问题",
+   "en": "to ensure the “last kilometer” delivery of daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "推动紧密持久的中法全面战略伙伴关系",
+   "en": "promoting the close and lasting China-France comprehensive strategic partnership",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "行百里者半九十",
+   "en": "On reaching the last leg of a journey, you are only half way there.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "鞠躬尽瘁，死而后已",
+   "en": "I will work heart and soul for my country to the day I draw my last breath.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "先天下之忧而忧，后天下之乐而乐",
+   "en": "I wish to be the first to worry about the nation’s woes and the last to share in its prosperity.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "淡泊明志，宁静致远",
+   "en": "Indifference to Fame and Fortune Characterizes a High Aim in Life, and Leading a Quiet Life Helps One Accomplish Something Lasting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "快速的",
+   "en": "fast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脱靶！",
+   "en": "Lost!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "装置桅杆",
+   "en": "mast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桅杆",
+   "en": "mast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "施瓦贝恩屈伸",
+   "en": "cast\",\"Schwabenkippe",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "两周患病天数",
+   "en": "days of illness during last two-week",
+   "source": "社会医学名词",
+   "wordNumber": "8.2.1.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务需要",
+   "publishYear": "2025",
+   "definition": "被调查居民中，平均在过去两周内经历的患病天数。"
+  },
+  {
+   "cn": "两周就诊率",
+   "en": "rate of outpatient visits during last two-week",
+   "source": "社会医学名词",
+   "wordNumber": "8.6.1.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务利用",
+   "publishYear": "2025",
+   "definition": "每百名被调查者中，在过去两周内因病、伤、保健等健康原因就诊于医疗卫生机构的人数或人次数。"
+  },
+  {
+   "cn": "两周患者就诊率",
+   "en": "rate of ill persons using outpatients service during last two-week",
+   "source": "社会医学名词",
+   "wordNumber": "8.6.1.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务利用",
+   "publishYear": "2025",
+   "definition": "每百名被调查患者中，在过去两周内因病、伤、保健等健康原因就诊于医疗卫生机构的人数或人次数。"
+  },
+  {
+   "cn": "冲击伤",
+   "en": "blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "由核爆炸、炸药或其他爆炸所产生的冲击波直接或间接作用于人体引起的损伤。"
+  },
+  {
+   "cn": "快中子",
+   "en": "fast neutrons",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.4.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理",
+   "subjectName": "中子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "能量高于某一特定值的中子。该值可因不同的研究领域而异，在中子核反应研究中，这个值一般选为10keV；在反应堆物理中，通常选为0.1 MeV；在辐射屏蔽和剂量学中，常选为1MeV。"
+  },
+  {
+   "cn": "最小二乘方",
+   "en": "least squares",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.86",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "使得拟合所得的残差的平方和最小，并据此计算参数估计值和拟合数据的常用技术。"
+  },
+  {
+   "cn": "社区失落论",
+   "en": "community lost",
+   "source": "社会学名词",
+   "wordNumber": "3.17.2.5",
+   "subjectFullName": "社会学名词_分支社会学_社区_西方社区概念",
+   "subjectName": "西方社区概念",
+   "publishYear": "2025",
+   "definition": "随着城市化的发展，城市居民之间的关系由亲密性的首属关系向非人格化的次属关系转化，成员之间原先的信任合作和富有人情味让位于物质利益计算和冷漠疏离，相互守望的传统社区共同体也逐渐消失的理论观点。代表人物是"
+  },
+  {
+   "cn": "肥大细胞",
+   "en": "mast cells",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "一类胞质内富含嗜碱性颗粒的细胞。颗粒中含组胺，肝素和各种酶类。同骨髓造血前体细胞一样表达CD34，主要分布于黏膜和皮下疏松结缔组织，其细胞表面表达高亲和力FceRI，可结合游离IgE，参与I型超敏反应"
+  },
+  {
+   "cn": "冲击伤",
+   "en": "blast injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "核爆炸时产生的冲击波直接或间接作用于人员和物体引起的损伤。"
+  },
+  {
+   "cn": "中和位育论",
+   "en": "East-Balance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0632",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国社会学家、优生学家、民族学家和教育学家潘光旦引用儒家经典《中庸》里的“致中和，天地位焉，万物育焉”之义提炼而成的核心研究概念，被视为其新人文思想的核心。“位育”为“安其所”“遂其生”，即天地万物各"
+  },
+  {
+   "cn": "抗酸染色",
+   "en": "acid fast stain",
+   "source": "消毒学",
+   "wordNumber": "6.2.10",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "用以确定其是否存在抗酸杆菌的染色方法。"
+  },
+  {
+   "cn": "直接冲击伤",
+   "en": "direct blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "冲击波直接作用于人体引起的损伤。"
+  },
+  {
+   "cn": "间接冲击伤",
+   "en": "indirect blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.2.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "冲击波通过物体、建筑物等作用于人体引起的损伤。"
+  },
+  {
+   "cn": "快中子反应堆",
+   "en": "fast neutron reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.6",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "由快中子引起核裂变并维持链式反应的反应堆。"
+  },
+  {
+   "cn": "普通最小二乘方",
+   "en": "ordinary least squares",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.87",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "使回归方程的残差平方和最小的参数点估计方法。"
+  },
+  {
+   "cn": "东亚模式",
+   "en": "east asian model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "东亚地区，包括日本、亚洲“四小龙”以及“东盟”一些国家所采取的政府主导的外向型经济发展模式。该模式使上述国家在20世纪70年代至90年代初出现经济持续高速增长，并在20世纪80年代先后进入世界中等发达"
+  },
+  {
+   "cn": "基本药物目录",
+   "en": "essential medicines list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.2.3",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "适应基本医疗卫生需求，剂型适宜，价格合理，能够保障供应，公众可公平获得的药品的目录清单。"
+  },
+  {
+   "cn": "医保药品目录",
+   "en": "reimbursement drug list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "经医疗保险管理部门遴选纳入医疗保险基金支付范围的药品清单。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

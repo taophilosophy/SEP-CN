@@ -1,0 +1,722 @@
+{
+ "key": "life-friendly conditions",
+ "term": "life-friendly conditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:43:48+00:00",
+ "status": "ok",
+ "note": "variant=life-friendly conditions; 审定公布名词库=4465; 海峡两岸名词对照库=1449; 其他来源数据库=321; 预公布名词数据库=190; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "步行友好",
+   "en": "pedestrian-friendly",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.183",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "使步行者能够在不受或少受机动车等交通干扰的环境中便捷、愉快、安全地活动。"
+  },
+  {
+   "cn": "用户友好",
+   "en": "user-friendly",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.265",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "图书情报机构服务及信息系统设计的原则之一。是按照用户的信息行为、习惯和偏好，提供可以满足用户需求的服务方式。"
+  },
+  {
+   "cn": "环保涂料",
+   "en": "eco-friendly coating",
+   "source": "精细化工名词",
+   "wordNumber": "05.0056",
+   "subjectFullName": "精细化工_涂料_通用涂料",
+   "subjectName": "通用涂料",
+   "publishYear": "2025",
+   "definition": "在性能指标、安全指标符合各自产品标准的前提下，符合国家环境标志产品提出的技术要求的油漆产品。"
+  },
+  {
+   "cn": "环境友好型社会",
+   "en": "environmentally friendly society",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.111",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "在社会经济发展的各个环节遵从自然规律，节约资源、保护环境，以最小的环境投入达到社会经济的最大化发展，不仅形成人类社会与自然和谐共处、可持续发展，而且形成经济与自然相互促进，建立人与环境良性互动的关系。"
+  },
+  {
+   "cn": "环境友好添加剂",
+   "en": "environmentally friendly additive",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0860",
+   "subjectFullName": "化工（一）_催化剂、助剂、添加剂",
+   "subjectName": "催化剂、助剂、添加剂",
+   "publishYear": "2017",
+   "definition": "无致癌物、致基因诱变和畸变物，不含氯和亚硝酸盐，不含除钾和钙以外的金属，生物降解能力大于20%的添加剂。"
+  },
+  {
+   "cn": "环境友好聚合物",
+   "en": "environmental friendly polymer",
+   "source": "化学名词",
+   "wordNumber": "05.0099",
+   "subjectFullName": "化学_高分子化学_高分子物质",
+   "subjectName": "高分子物质",
+   "publishYear": "2016",
+   "definition": "具有满意的使用性能和优良的环境协调性，不会对环境造成破坏的聚合物。"
+  },
+  {
+   "cn": "用户友好界面",
+   "en": "user-friendly interface",
+   "source": "自动化名词",
+   "wordNumber": "04.312",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "电力名词",
+   "wordNumber": "10.471",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "汽轮发电机组的构件或设备从初投运直至由于损伤失效或经济性下降等原因,而不能继续服役所经历的总时间。"
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "电气工程名词",
+   "wordNumber": "28.113",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "适老性户外环境",
+   "en": "age friendly outdoor environment",
+   "source": "风景园林名词",
+   "wordNumber": "05.0159",
+   "subjectFullName": "风景园林_风景园林规划_城乡绿地系统分类",
+   "subjectName": "城乡绿地系统分类",
+   "publishYear": "2025",
+   "definition": "适于老年人使用的绿化、水体、道路、庭院等户外环境及设施。"
+  },
+  {
+   "cn": "环境友好钢材",
+   "en": "environment-friendly steel product",
+   "source": "冶金学名词",
+   "wordNumber": "01.0059",
+   "subjectFullName": "冶金学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "设计和制造钢材产品时充分考虑下游的装备制造业和社会应用中的环境负荷，而且不含或少量含有各类有害元素，便于装备报废后再循环的铁碳合金材料。如超轻汽车车体钢材、高磁性能电机材料、免润滑涂层钢板和耐腐蚀涂层"
+  },
+  {
+   "cn": "即位条件",
+   "en": "Conditions",
+   "source": "世界历史名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国最高枢密院为限制君主制，于1730年对安娜女皇登基所提出的条件。安娜表示应允，后又拒绝，并解散了最高枢密院。"
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0693",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "基本网系统中，条件集 B 的元素称为条件。条件类似于一般佩特里网中的库所，不过它的容量值为1。"
+  },
+  {
+   "cn": "调质",
+   "en": "conditioning",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "粉状物料或料坯经水、热处理，特性产生明显变化的工序。可使淀粉部分糊化、蛋白质变性、有害病菌灭活、有害因子钝化及物料软化，提高制粒质量和效能。"
+  },
+  {
+   "cn": "调浆",
+   "en": "conditioning",
+   "source": "冶金学名词",
+   "wordNumber": "03.0070",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "将矿粉或矿浆调节成所需要的矿浆浓度或使矿浆与药剂充分混合的过程。"
+  },
+  {
+   "cn": "调温调湿",
+   "en": "conditioning",
+   "source": "林学名词",
+   "wordNumber": "11.163",
+   "subjectFullName": "林学_木材科学与技术_木材保护与功能性改良",
+   "subjectName": "木材保护与功能性改良",
+   "publishYear": "2016",
+   "definition": "对木材或其他材料的含水量调整，使其达到符合使用要求的水平。"
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "06.0661",
+   "subjectFullName": "化学_放射化学_核燃料循环化学",
+   "subjectName": "核燃料循环化学",
+   "publishYear": "2016",
+   "definition": "在高放废物储存或地质处置之前，将其中的某些元素转化为适合于安全储存的化学形态的操作。如将易挥发的放射性碘转化为稳定的碘化银。"
+  },
+  {
+   "cn": "老化",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "03.2126",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "色谱柱或分离通道的预处理过程。在气相色谱中一般是在升高温度的同时给色谱柱通载气，以除去色谱柱中的残留溶剂和易挥发性杂质，并使固定相分布更均匀，性能更稳定；在液相色谱中，常常是用流动相通过色谱柱，在毛细"
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0485",
+   "subjectFullName": "材料科学技术_天然材料_皮革",
+   "subjectName": "皮革",
+   "publishYear": "2011",
+   "definition": "使干燥后的皮革重新吸收一定量的水分，从而使皮革中的水分分布均匀并使其水分含量符合后续的机械做软需要的操作。"
+  },
+  {
+   "cn": "吐沙",
+   "en": "conditioning",
+   "source": "水产名词",
+   "wordNumber": "08.472",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "将活的贝类放在盛有清洁海水的容器中，以除去其体内的沙子和泥土。"
+  },
+  {
+   "cn": "友善行为",
+   "en": "friendly behavior",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "用户友好的",
+   "en": "user-friendly",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "环境友好聚合物",
+   "en": "environmental friendly polymer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "平均寿命",
+   "en": "average life\",\"mean life",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望,估计寿命",
+   "en": "life expectance\",\"life expectancy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生活史,生活周期",
+   "en": "life cycle\",\"life history",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生命带",
+   "en": "life zone\",\"life belt",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生活周期（=生活史）",
+   "en": "life cycle (=life history)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "救生索",
+   "en": "life line",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "安全索",
+   "en": "life line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "救生索",
+   "en": "life-line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生活周期",
+   "en": "life cycle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "友善",
+   "en": "Friendly and Kind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尊生",
+   "en": "Respect Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "好生",
+   "en": "Cherish Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工生命",
+   "en": "artificial life",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字生命",
+   "en": "digital life",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "救生衣",
+   "en": "life jacket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "救生衣",
+   "en": "life jacket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源节约型环境友好型社会",
+   "en": "resource-conserving and environment-friendly society",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绿色生活方式和绿色消费",
+   "en": "eco-friendly lifestyle and green consumption",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "友善访问员",
+   "en": "friendly visitor",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "18世纪中期，在欧美慈善机构里作为志愿者从事探访贫苦家庭工作的女性，是社会工作者的前身。受宗教理念影响，许多赋闲在家的中产阶级妇女自愿承担起访问贫困家庭的工作，后来又直接服务于改善贫民状况协会和慈善组"
+  },
+  {
+   "cn": "爱婴医院",
+   "en": "baby-friendly hospital",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "鼓励世界各地的医疗卫生机构为更好地保护、促进和支持母乳喂养而采取一系列优化制度和措施。该行动由联合国儿童基金会和世界卫生组织发起。中国的爱婴行动从1992年爱婴医院创建开始，后拓展了母婴安全和照护模式"
+  },
+  {
+   "cn": "亲青服务",
+   "en": "youth-friendly service",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.3.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "为青少年提供的亲切、友好和优质的生殖健康咨询与服务，是世界卫生组织倡导发展的促进青春期生殖健康的一项重要措施。其理念为“以青少年需求为本”。"
+  },
+  {
+   "cn": "儿童友好环境",
+   "en": "child-friendly environment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康促进",
+   "subjectName": "妇幼健康促进",
+   "publishYear": "2025",
+   "definition": "在保障儿童安全的基础上，最大限度地促进儿童天性发展的生存成长环境。要求环境能够满足儿童成长的生理、心理、社会交往和自我实现的健康需求，包括儿童友好社区、儿童友好城市、儿童友好医院、儿童友好街道等。"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒器械从投入使用开始，在规定使用条件下，能有效使用的期限。"
+  },
+  {
+   "cn": "生命",
+   "en": "life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.016",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "生物体所具有的活动能力，是核酸、蛋白质和其他大分子物质存在的一种形式。"
+  },
+  {
+   "cn": "爱婴行动",
+   "en": "baby-friendly hospital initiative",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "鼓励世界各地的卫生设施更好地支持母乳喂养，促进母亲及其婴儿获得最佳保健的实践。该行动由联合国儿童基金会和世界卫生组织于1991年发起。"
+  },
+  {
+   "cn": "“亲青”服务",
+   "en": "adolescent and youth-friendly services",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "在尊重青少年权利和需求的前提下，为青少年提供的可及、可接受、可负担的一系列适宜、便利、有效的生殖健康咨询和服务。"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "使用寿命",
+   "en": "useful life",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "消毒设备的有效使用期限。"
+  },
+  {
+   "cn": "承诺寿命",
+   "en": "promised life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在规定的使用条件下，厂家承诺产品能正常使用且符合消毒要求的期限。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "放射性核素完全衰变为子体核素前存在的平均时间。符号为τ。是衰变常数（λ）的倒数。即τ=1/λ；其与半衰期（T1/2）的关系为：τ=T1/2 /ln2。"
+  },
+  {
+   "cn": "社会生活",
+   "en": "social life",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "一种以一定的社会关系为纽带，由社会的经济、政治、文化、心理、环境诸因素综合作用形成的一系列复杂而多层次的社会活动现象。既指人类整个社会物质的和精神的活动，也指社会的物质生产活动和社会组织的公共活动领域"
+  },
+  {
+   "cn": "生命历程",
+   "en": "life course",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "在人的一生中，经由年龄分化而体现出来的生活道路。亦指一种社会生活史研究范式。其分析框架包括三个方面的内容：生命历程的社会意义；社会模式的代际传递；宏观结构对个人生命史的影响。"
+  },
+  {
+   "cn": "生活机会",
+   "en": "life-chances",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取各种有价物品和改善地位状况的可能性，尤其指获取教育和向上流动机会以及其他物质产品的可能性。源于马克斯•韦伯的社会分层分析。马克斯•韦伯认为，这些机会决定了阶级状态。后被广泛应用于社会流动分析。"
+  },
+  {
+   "cn": "平均预期寿命",
+   "en": "life expectancy",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.8",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "0岁年龄组人口的平均生存年数。它是生命表中的重要内容，是国际上用来评价一个国家人口的生存质量和健康水平的重要参考指标之一。"
+  },
+  {
+   "cn": "生命表",
+   "en": "life table",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "根据当前的年龄别死亡率计算出来，表示某一人口的每一年龄组的死亡概率及平均预期寿命的表格。它完整全面地勾勒出了人口的死亡状况。"
+  },
+  {
+   "cn": "物质生活",
+   "en": "material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0183",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类为了自身生存和发展而进行的物质生活资料的生产、分配、消费等活动，是人类生存不可缺少的基本方式。物质生活的生产方式制约着整个社会生活、政治生活、精神生活的过程。"
+  },
+  {
+   "cn": "精神生活",
+   "en": "spiritual life",
+   "source": "马克思主义",
+   "wordNumber": "01.0190",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在社会物质生活基础上所进行的精神生产、思想观念传播与变革和精神享受，体现着人类对真善美的渴望和追求，包括科研、创作、学习、文化娱乐和信仰等活动，是人区别于动物的生活方式，也是人的发展程度的标志。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

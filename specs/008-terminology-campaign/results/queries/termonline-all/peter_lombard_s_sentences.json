@@ -1,0 +1,742 @@
+{
+ "key": "peter lombard's sentences",
+ "term": "Peter Lombard’s Sentences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:39:21+00:00",
+ "status": "ok",
+ "note": "variant=Peter Lombard’s Sentences; 审定公布名词库=579; 海峡两岸名词对照库=171; 其他来源数据库=20; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原子[语]句",
+   "en": "atomic sentence,primitive sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "彼得原理",
+   "en": "Peter principle",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0588",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "彼得(Laurence J. Peter)1968年提出的对组织与人事管理的批判，他对组织中的晋升问题进行分析，指出不胜任的根源，认为只要有足够的时间和等级，每个人终将会被提升到不称职的岗位。他试图从"
+  },
+  {
+   "cn": "开船旗",
+   "en": "blue peter",
+   "source": "航海科技名词",
+   "wordNumber": "14.0022",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "分析句",
+   "en": "analytical sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "只要通过理解组成句子的每一个词语就能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "综合句",
+   "en": "synthetic sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "需要通过理解组成句子的每一个词语以及一些与外部世界相关的东西才能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "句子对齐",
+   "en": "sentence alignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0563",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "给定互为译文的双语文本，在其句子间按照翻译关系建立对应关系的过程、技术和方法。"
+  },
+  {
+   "cn": "单句",
+   "en": "simple sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.140",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“复句”相对。指一个由词或短语，加上语调构成的语言表达单位。例如，“谁？”“好好学习！”“书是人类进步的阶梯。”"
+  },
+  {
+   "cn": "感叹句",
+   "en": "exclamatory sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来表示强烈感情、带有感叹语气的句子。句中常用“真”“多么”“简直”“太”等有强调作用的词语，句尾可以加语气词“啊”，句末标点用感叹号。例如，“真好啊！”"
+  },
+  {
+   "cn": "句群",
+   "en": "sentence group",
+   "source": "语言学名词",
+   "wordNumber": "04.148",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由几个在逻辑上有密切联系、共同表达一个中心意思的各自独立的句子组成的语言使用单位。例如，“公园里寂静无声，一片荒凉。但是特别寂静的却是他白天破窗而入的校舍。校舍里非常寂静，似乎他每走一步不仅校舍里可以"
+  },
+  {
+   "cn": "陈述句",
+   "en": "declarative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.155",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来叙述或说明情况、带有陈述语调的句子。句尾可以用语气词“啊”“呢”“了”“的”等，句末标点符号一般用句号。"
+  },
+  {
+   "cn": "句型",
+   "en": "sentence pattern",
+   "source": "语言学名词",
+   "wordNumber": "04.150",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句子的结构类型。句子从结构上可以分为单句和复句两大类型。其中单句又可分为主谓句和非主谓句，复句又可分为联合复句和偏正复句。"
+  },
+  {
+   "cn": "倒装句",
+   "en": "inversional sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.177",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "为了突出重要部分或者先说重要部分再追加其他部分的句子。是口语句法中的一种特有现象。句子语音上前半部分重读，补充部分轻读；语义重点在前半部分；句末语气词出现在前半部分；整个结构不能按照正常的短语结构来分"
+  },
+  {
+   "cn": "祈使句",
+   "en": "imperative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.162",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。要求、命令、禁止或建议、请求对方做某事或不做某事的句子。全句用降调，句末标点用句号或感叹号。祈使句的主语一般是第二人称，不过常常省略。表示命令、禁止的祈使句语气较为急促简短，句末标点常用感"
+  },
+  {
+   "cn": "判断句",
+   "en": "equational sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.170",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "动词谓语句的一种。这种句式的谓语动词为表示断定的“是”等动词。例如，“他是学生。”"
+  },
+  {
+   "cn": "存现句",
+   "en": "existential sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.171",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "动词谓语句的一种。这种句式表示在某处存在、出现或消失了某个人或物。处所词位于句首作主语，句子的宾语表示存现的主体。句中谓语动词后边通常带“着”或“了”。例如，“台上坐着主席团。”“家里来了客人。”"
+  },
+  {
+   "cn": "省略句",
+   "en": "ellipsis sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.178",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "在一定语境中某个句法成分没有出现的句子。例如，甲：“你喝什么？”乙：“啤酒。”其中答话“啤酒”就是省略句，省略了“我喝”两个词。句中被省略的成分可以添补出来，而且只有一种添补的可能。"
+  },
+  {
+   "cn": "疑问句",
+   "en": "interrogative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.156",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来表示疑问、带有疑问语调的句子。句中可以用表示疑问的语气词、副词，句末标点符号一般用问号。根据结构形式特点和语义重点，可分为是非问句、反复问句、特指问句和选择问句。例如，“你去吗？”“你"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "彼得·格莱姆斯",
+   "en": "Peter Grimes",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "开船旗",
+   "en": "blue peter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "沃洛克",
+   "en": "Warlock\",\"Peter(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "施莱尔",
+   "en": "Schreier\",\"Peter(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拉贝",
+   "en": "Raabe\",\"Peter(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多诺霍",
+   "en": "Donohoe\",\"Peter(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "凯廷",
+   "en": "Katin\",\"Peter(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "席克勒",
+   "en": "Schickele\",\"Peter(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "门宁",
+   "en": "Mennin\",\"Peter(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "皮尔斯，彼得",
+   "en": "Pears\",\"Peter(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "马格",
+   "en": "Maag\",\"Peter(瑞士)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "科内利乌斯",
+   "en": "Cornelius\",\"Peter(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伯努瓦，彼得",
+   "en": "Benoit\",\"Peter(比利时)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "弗兰克尔，彼得",
+   "en": "Frankl\",\"Peter(匈牙利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "彼特斯",
+   "en": "Peters\",\"Carl(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "斯克尔索普",
+   "en": "Sculthorpe\",\"Peter(澳大利亚)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "佩塔斯",
+   "en": "Peters",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "点对点网络借款",
+   "en": "peer-to-peer lending",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "点对点网络",
+   "en": "peer-to-peer network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对等分享模式",
+   "en": "peer-to-peer sharing model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对等共创生产",
+   "en": "peer production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "4米线",
+   "en": "4-meter line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "6米线",
+   "en": "6-meter line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一米线",
+   "en": "one meter spacing in line (to wait in line at an interval of 1 meter)  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "500米口径球面射电望远镜",
+   "en": "Five-hundred-meter Aperture Spherical Radio Telescope (FAST)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 12054-1989 数据处理 转义序列的登记规程》",
+   "en": "GB/T 12054-1989 Data processing — Procedure for registration of escape sequences",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "pH计",
+   "en": "pH meter",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "测定溶液酸碱度的仪器。"
+  },
+  {
+   "cn": "照射量计",
+   "en": "exposure meter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备",
+   "subjectName": "辐射监测设备",
+   "publishYear": "2025",
+   "definition": "测量X射线、γ射线照射量用仪器。"
+  },
+  {
+   "cn": "剂量仪",
+   "en": "dose meter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "可用于测量各种电离辐射束的照射量和照射量率，吸收剂量和吸收剂量率，剂量当量和剂量当量率的仪器、装置或系统的总称。如静电计加上电离室的整套装置。"
+  },
+  {
+   "cn": "巡测仪",
+   "en": "survey meter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "检查场所电离辐射水平的携带式仪器。"
+  },
+  {
+   "cn": "放射性活度测量仪",
+   "en": "radioactivity meter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.59",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种经过刻度、用以测定辐射体的放射性活度并带有指示器或记录装置的仪器。"
+  },
+  {
+   "cn": "放射性同位素仪表",
+   "en": "radioisotope meter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.2",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "通过射线与物质相互作用（如电离、激发、吸收、散射等）实现物质非电参数测量的一类仪表。"
+  },
+  {
+   "cn": "放射性活度测量仪",
+   "en": "radioactivity meter",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.18",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "测量辐射发射体的放射性活度的辐射测量装置。用于测定放射源或样品中所含放射性物质的放射性活度。测量装置主要包括探测器、探测器的附属装置和信号处理系统。"
+  },
+  {
+   "cn": "同侪文化",
+   "en": "peer culture",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.4",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "由同龄人构成的社会群体的文化。"
+  },
+  {
+   "cn": "同辈督导",
+   "en": "peer supervision",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.50",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "由社会工作从业人员相互之间进行督导的方式。有时不被视为一种严格意义上的社会工作督导方式。"
+  },
+  {
+   "cn": "同伴效应",
+   "en": "peer effect",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.3",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "同伴之间相互影响行为，包括一组人的行为影响组内个体行为的内生交互，一组人的外生特征影响个体行为的背景交互，和因为一组人具有相似特征或者环境而导致相似行为的相关效应。"
+  },
+  {
+   "cn": "同伴关系",
+   "en": "peer relationship",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "同龄人间或心理发展水平相当的个体间在交往过程中建立和发展起来的一种人际关系。"
+  },
+  {
+   "cn": "同伴压力",
+   "en": "peer pressure",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.8.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "同辈团体中大多数成员的意见所形成的一种会使每个成员与大多数人保持一致，从而改变态度、价值观、行为方式以适应团体规范的一种力量。"
+  },
+  {
+   "cn": "同伴教育",
+   "en": "peer education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "利用青少年的集群倾向进行健康教育的过程。首先从群体中挑选出一些有影响力和号召力的人进行培训，使其掌握一定知识和技巧，并鼓励其向周围青少年传播这些知识和技能，达到共同受教育的目的。"
+  },
+  {
+   "cn": "表面污染测量仪",
+   "en": "surface contamination meter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.1.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_α、β粒子辐射监测设备",
+   "subjectName": "α、β粒子辐射监测设备",
+   "publishYear": "2025",
+   "definition": "测量物体表面放射性污染程度的辐射测量仪。"
+  },
+  {
+   "cn": "剂量率仪",
+   "en": "dose rate meter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "测量电离辐射剂量率（包括吸收剂量率、比释动能率、周围剂量当量率、定向剂量当量率等）的仪器。"
+  },
+  {
+   "cn": "放射性测厚仪",
+   "en": "radioactive thickness meter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.6",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用物质对射线的吸收或反散射而测量物质厚度的仪表。"
+  },
+  {
+   "cn": "放射性流量计",
+   "en": "radioactive flow meter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.7",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用放射性同位素放出的射线与物质的作用而测量物质流量的仪表。"
+  },
+  {
+   "cn": "随动式物位计",
+   "en": "tracking level meter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.8",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "放射源与探测器的位置随被测物位的改变而移动的物位计。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

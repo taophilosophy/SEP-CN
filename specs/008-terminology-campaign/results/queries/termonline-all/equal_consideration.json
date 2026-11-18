@@ -1,0 +1,782 @@
+{
+ "key": "equal consideration",
+ "term": "equal consideration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:35:24+00:00",
+ "status": "ok",
+ "note": "variant=equal consideration; 审定公布名词库=206; 海峡两岸名词对照库=72; 其他来源数据库=19; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "较大事故",
+   "en": "considerable accident",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.109",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "造成3人以上（含3人）10人以下死亡，或者10人以上（含10人）50人以下重伤（包括急性工业中毒），或者1000万元以上（含1000万元）5000万元以下直接经济损失的事故。"
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.261",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "(1)在模拟传输中，为了减少传输信号的线性失真，针对信道传递函数偏离其理想形状而进行的补偿过程。(2)在数字传输中，为了减少传输信道中因失真而导致符号间干扰的一种措施。"
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.579",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "实现均衡的器件。"
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.300",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "将瞬间要求确定的故障监控阈低值与依据不一致性要求确定的故障监控阈高值，进行综合均衡处理的技术措施。"
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "07.331",
+   "subjectFullName": "机械工程_仪器仪表_实验室仪器和装置_振动测量仪器_振动测量仪测试方法",
+   "subjectName": "振动测量仪测试方法",
+   "publishYear": "2003",
+   "definition": "调整电子放大器和控制系统的增益，使在所要求的频谱内，各输出的振幅与输入的信号幅值之比为常数。"
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "电气工程名词",
+   "wordNumber": "16.179",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "均压线",
+   "en": "equalizer",
+   "source": "电气工程名词",
+   "wordNumber": "07.202",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "均衡梁",
+   "en": "equalizer",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0214",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "等式",
+   "en": "equality",
+   "source": "数学名词",
+   "wordNumber": "01.0043",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相等",
+   "en": "equality",
+   "source": "数学名词",
+   "wordNumber": "01.0044",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "电子学名词",
+   "wordNumber": "03.438",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "较大安全事故",
+   "en": "considerable safety accident",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.054",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "造成3人以上10人以下死亡，或者10人以上50人以下重伤，或者1000万元以上5000万元以下直接经济损失的生产安全事故。"
+  },
+  {
+   "cn": "较大突发环境事件",
+   "en": "considerable environmental accident",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.068",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "凡符合下列情形之一的，为较大突发环境事件：①因环境污染直接导致3人以上10人以下死亡或10人以上50人以下中毒或重伤的；②因环境污染疏散、转移人员5000人以上1万人以下的；③因环境污染造成直接经济损"
+  },
+  {
+   "cn": "较大突发环境事件",
+   "en": "considerable environmental accident",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.524",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "凡符合下列情形之一的，为较大突发环境事件：①因环境污染直接导致3人以上10人以下死亡或10人以上50人以下中毒或重伤的；②因环境污染疏散、转移人员5000人以上1万人以下的；③因环境污染造成直接经济损"
+  },
+  {
+   "cn": "体贴精神与主动结构",
+   "en": "consideration and initiating structure",
+   "source": "心理学名词",
+   "wordNumber": "12.088",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "领导者为实现组织目标采取维护员工关系和主动构建任务的领导风格。"
+  },
+  {
+   "cn": "均等卵裂",
+   "en": "equal cleavage",
+   "source": "兽医学名词",
+   "wordNumber": "07.073",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "分裂面将分裂球完全分割成两半，子细胞完全分开的分裂类型。多数动物的卵，不仅卵黄分布均匀，分出的分裂球的大小一般相差不多。"
+  },
+  {
+   "cn": "等补偿",
+   "en": "equal compensation ",
+   "source": "草学名词",
+   "wordNumber": "2.0509",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "均等卵裂",
+   "en": "equal cleavage",
+   "source": "动物学名词",
+   "wordNumber": "4.023",
+   "subjectFullName": "动物学_动物胚胎学_胚胎卵裂",
+   "subjectName": "胚胎卵裂",
+   "publishYear": "2021",
+   "definition": "卵黄分布均匀的均黄卵卵裂时产生两个子细胞大小基本相等的一种完全卵裂方式。如海胆、文昌鱼和哺乳类等动物。"
+  },
+  {
+   "cn": "等增强",
+   "en": "equal enhancement",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.153",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "病灶内造影增强信号等于周围组织的声像特征。"
+  },
+  {
+   "cn": "非法报酬",
+   "en": "illegal consideration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "即期现金报酬",
+   "en": "immediate cash consideration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "均等卵裂",
+   "en": "equal cleavage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "等二叉分枝，等二歧分枝",
+   "en": "equal dichotomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等二歧分枝（=等二叉分枝）",
+   "en": "equal dichotomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均等分裂",
+   "en": "equal division",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同声",
+   "en": "equal voices",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "等额分期付款",
+   "en": "equal installment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "均等分裂",
+   "en": "equal division",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "等高法",
+   "en": "equal altitudes",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "均等卵裂",
+   "en": "equal cleavage",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "平衡阀",
+   "en": "equalizing valve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平衡槽",
+   "en": "equalization tank",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等式约束",
+   "en": "equality constraint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压力平衡器",
+   "en": "pressure equalizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "外汇平衡基金，平准基金",
+   "en": "equalization fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外汇平准账户",
+   "en": "equalization account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "直方图等化",
+   "en": "histogram equalization",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "直方图均衡化",
+   "en": "histogram equalization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "平等",
+   "en": "Equality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "恕",
+   "en": "Being Considerate / Forgiveness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩相同",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平等权",
+   "en": "right of equality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "齐物",
+   "en": "Seeing Things as Equal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据平权",
+   "en": "equal rights to data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字机会均等化",
+   "en": "Equalization of Digital Opportunity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "十二平均律",
+   "en": "The Twelve-tone Equal Temperament",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "均无贫",
+   "en": "With Equality, There Is No Poverty.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "见贤思齐",
+   "en": "When Seeing a Person of High Caliber, Strive to Be His Equal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法者天子所与天下公共也",
+   "en": "The Law Must Be Respected Equally by the Son of Heaven and All the People.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治大国若烹小鲜",
+   "en": "Governing a big country is like cooking small fish. (Those who govern the country must be meticulous and thoughtful and take all factors into consideration, so that their policies and measures benefit everyone.)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平等",
+   "en": "equality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.125",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间在经济、政治、文化等方面处于同等地位，具有同等发展机会，享有同等的权利。"
+  },
+  {
+   "cn": "权利平等",
+   "en": "equal rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0139",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人与人之间在政治、经济、文化等方面具有的同等地位和同等权利。马克思主义认为，真正的权利平等只有在消灭了阶级的共产主义社会才能实现。而权利平等又包含权利相对平等和绝对平等两重涵义。"
+  },
+  {
+   "cn": "男女同工同酬",
+   "en": "equal pay for equal work",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "所有劳动主体遵守等量劳动换取等量报酬的原则，不因性别而遭遇差别对待。这是体现劳动、工作的性别平等的一个基本原则，也是实现劳动性别平等的一条重要途径。"
+  },
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不因性别因素歧视他人或被他人歧视，不同性别间享有平等权利。通常包括不同性别在机会、过程和结果等不同方面的平等。"
+  },
+  {
+   "cn": "民族平等",
+   "en": "national equality",
+   "source": "马克思主义",
+   "wordNumber": "04.0092",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "民族平等是马克思主义解决民族问题的根本原则之一。民族不分大小一律平等。建立在私有制基础上的剥削制度，是造成社会不平等和民族不平等的根源。只有消灭阶级剥削制度，消灭一切阶级差别，才能彻底实现民族平等。各"
+  },
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "source": "社会医学名词",
+   "wordNumber": "3.12",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "性别平等",
+   "publishYear": "2025",
+   "definition": "不因性别因素歧视他人或被他人歧视，不同性别间享有平等权利。通常包括不同性别在机会、过程和结果等不同方面的平等。"
+  },
+  {
+   "cn": "民族平等",
+   "en": "ethnic equality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0124",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "民族不分大小、强弱、历史长短，一律平等，任何民族不能享有任何特权。各民族在社会生活各个领域和相互交往中处于同等的地位，享有同样的权利。民族平等既是马克思主义民族理论的根本原则，也是无产阶级及其政党处理"
+  },
+  {
+   "cn": "统筹兼顾适当安排",
+   "en": "overall consideration and proper arrangement",
+   "source": "马克思主义",
+   "wordNumber": "02.0381",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《关于正确处理人民内部矛盾的问题》中提出的方针。要求作计划、办事、想问题都要从国情出发。解决各种矛盾要从对全体人民的统筹兼顾这个观点出发,就当时当地的实际可能条件,同各方面的人协商,作出各种适"
+  },
+  {
+   "cn": "平等医疗权",
+   "en": "equal medical right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.029",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者在就医过程中享有的不受歧视、人格平等、公平对待的权利。"
+  },
+  {
+   "cn": "绝对平等王国",
+   "en": "absolute equality kingdom",
+   "source": "马克思主义",
+   "wordNumber": "04.0284",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "空想社会主义和小资产阶级社会主义关于未来社会经济、政治等各个方面都绝对平等主义的设想。在批判资本主义剥削和不平等方面具有积极意义，但它是超阶级、超历史的空想，受到马克思和恩格斯的批判。"
+  },
+  {
+   "cn": "平等机会政策",
+   "en": "policy on equal-opportunities",
+   "source": "社会学名词",
+   "wordNumber": "4.3.2.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策类型",
+   "subjectName": "社会政策类型",
+   "publishYear": "2025",
+   "definition": "通过提升公民参与社会经济事务的能力，保障其参与的基本权利与机会。与平等收入政策相对应的一种预防性的社会政策。"
+  },
+  {
+   "cn": "统筹兼顾",
+   "en": "unified planning with due consideration for all concerned",
+   "source": "马克思主义",
+   "wordNumber": "02.0428",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "统一筹划,兼顾各方。其核心是统筹各方面利益关系，充分调动各方面积极性。毛泽东首先提出统筹兼顾的思想，邓小平、江泽民、胡锦涛、习近平等党和国家领导人继承和发展了统筹兼顾的思想。统筹兼顾是科学发展观的根本"
+  },
+  {
+   "cn": "四个同样重要",
+   "en": "four points of equal importance",
+   "source": "马克思主义",
+   "wordNumber": "03.0622",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民2002年视察中国人民大学时提出“四个同样重要”，即“哲学社会科学与自然科学同样重要，培养高水平的哲学社会科学家与培养高水平的自然科学家同样重要，提高全民族的哲学社会科学素质与提高全民族的自然科"
+  },
+  {
+   "cn": "医际平等关系",
+   "en": "equal relation among medical staff",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.102",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "不同专业的医务人员之间建立在相互尊重、信任、独立和专业基础上的，以平等沟通、协作共事为特征的工作关系。"
+  },
+  {
+   "cn": "效率优先兼顾公平",
+   "en": "giving priority to efficiency with due consideration to fairness",
+   "source": "马克思主义",
+   "wordNumber": "02.0406",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1993年11月中国共产党第十四届中央委员会第三次全体会议通过的《中共中央关于建立社会主义市场经济体制若干问题的决定》中所确立的社会主义初级阶段的收入分配原则。坚持效率优先就要以承认一定差别为前提提高"
+  },
+  {
+   "cn": "夫妻平权",
+   "en": "equal rights between wife and husband",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "家庭内部丈夫和妻子之间享有平等权利，包括夫妻双方共同拥有家庭财产的支配权，共同分担家务和孩子养育的责任，以及彼此尊重对方在教育、就业、个人发展等社会生活方面的自主选择权 。"
+  },
+  {
+   "cn": "基本公共服务均等化",
+   "en": "equal access to basic public services",
+   "source": "马克思主义",
+   "wordNumber": "03.0706",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "政府要为社会成员提供基本的、与经济社会发展水平相适应的、能够体现公平正义原则的大致均等的公共产品和服务，是人们生存和发展最基本的条件的均等。"
+  },
+  {
+   "cn": "基本公共卫生服务均等化",
+   "en": "equalization of essential public health service",
+   "source": "社会医学名词",
+   "wordNumber": "8.5.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务提供",
+   "publishYear": "2025",
+   "definition": "无论性别、年龄、种族、居住地、职业、收入水平等因素，每位居民都能平等地获得基本公共卫生服务的政策。"
+  },
+  {
+   "cn": "基本公共卫生服务均等化",
+   "en": "equal access to basic public health service",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "每个公民都能平等地获得包括计划免疫、妇幼保健、院前急救、采供血以及传染病、慢性病、地方病的预防控制等基本公共卫生服务的机会。"
+  },
+  {
+   "cn": "中央人民政府政务院关于保障一切散居的少数民族成分享有民族平等权利的决定",
+   "en": "Decision on safeguarding the equal rights of all scattered ethnic minorities",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0092",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华人民共和国第一部保障散居少数民族权益的规范性文件。1952 年2 月22 日由中央人民政府政务院通过，同年8 月13 日公布。规定了散居少数民族的公民权利、政治权利、宗教信仰自由、语言文字等权利及"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

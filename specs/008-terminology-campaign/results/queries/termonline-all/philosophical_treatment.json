@@ -1,0 +1,812 @@
+{
+ "key": "philosophical treatment",
+ "term": "philosophical treatment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:35:44+00:00",
+ "status": "ok",
+ "note": "variant=philosophical treatment; 审定公布名词库=765; 海峡两岸名词对照库=153; 其他来源数据库=27; 预公布名词数据库=88; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "《哲学书简》",
+   "en": "Philosophical Letters",
+   "source": "世界历史名词",
+   "wordNumber": "05.0115",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1826-1831年，俄国哲学家恰达耶夫写的作品，对俄国在世界历史和政治中起的作用做了严厉的批评，认为俄国远远落后于西方国家，对世界历史进程毫无贡献。"
+  },
+  {
+   "cn": "哲学语义学",
+   "en": "philosophical semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.010",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。对语言中的意义进行哲理研究。"
+  },
+  {
+   "cn": "哲理语言学",
+   "en": "philosophical linguistics",
+   "source": "语言学名词",
+   "wordNumber": "01.013",
+   "subjectFullName": "语言学_理论语言学_学科",
+   "subjectName": "学科",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。一方面研究语言对理解和阐明哲学概念的作用，一方面研究语言学理论、方法以及观察结果的哲学地位。主要包括语言本体论和语言研究方法论。"
+  },
+  {
+   "cn": "哲学王",
+   "en": "philosopher king",
+   "source": "教育学名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古希腊哲学家柏拉图在其著作《理想国》中构想的理想国家统治者的形象。其核心在于利用哲学领悟的原理对国家进行治理。"
+  },
+  {
+   "cn": "哲学家之船",
+   "en": "Philosophers Ships",
+   "source": "世界历史名词",
+   "wordNumber": "05.0405",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1922年9月和11月，苏俄政府用船只遣送一批知识分子离境，其中有别尔嘉耶夫、洛斯基等著名哲学家。史称“哲学家之船”。"
+  },
+  {
+   "cn": "哲学的计算机建模",
+   "en": "philosophical computer modeling",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.691",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "将计算机建模用于哲学研究的一种重要的哲学研究手段。已在逻辑学、认识论、科学哲学（科学发现及评价）、心灵哲学、语言哲学、生物哲学（人工生命）、伦理学以及政治哲学等领域展现出广阔的发展前景。"
+  },
+  {
+   "cn": "美洲哲学学会",
+   "en": "American Philosophical Society",
+   "source": "世界历史名词",
+   "wordNumber": "03.0010",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1769年，在费城建立的学术团体，领导人为富兰克林，宗旨为“推动一切能够洞察事物本质的哲学研究”。"
+  },
+  {
+   "cn": "雅典三大哲学家",
+   "en": "Three Philosophers in Athens",
+   "source": "世界历史名词",
+   "wordNumber": "02.0393",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "雅典古典时期的三位最著名的希腊哲学家，分别是苏格拉底、柏拉图和亚里士多德。"
+  },
+  {
+   "cn": "《自然科学哲学问题（丛刊）》",
+   "en": "Philosophical Problems in Natural Science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.091",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "讨论自然科学领域哲学问题的季刊杂志。以译介国外科学哲学为主，对中国自然辩证法学界了解国外研究，推动理论和实践研究有重要影响与作用。1979年创建，1989年停刊。"
+  },
+  {
+   "cn": "自然科学哲学问题",
+   "en": "philosophical problems in natural science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.092",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "包括三个方面：历史范畴，指源自苏联传统的对自然科学领域的哲学问题研究；研究范式，指以辩证法方式对自然科学中的哲学问题的研究；研究领域，指专门自然科学领域的哲学问题研究。"
+  },
+  {
+   "cn": "量子力学的哲学诠释",
+   "en": "philosophical interpretation of quantum mechanics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.364",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "关于量子力学的形式体系所描述的微观世界究竟是或应该是什么样的以及这种描述是否完备与客观的各种理解。主要包括哥本哈根解释、系综解释、隐变量解释、多世界解释以及模态解释等。"
+  },
+  {
+   "cn": "科学技术中的哲学问题",
+   "en": "philosophical problems in science and technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "泛指在各门自然科学和工程技术中的哲学问题研究。包括两大类：自然科学哲学问题和工程技术哲学问题研究。这种研究是中国自然辩证法早期研究传统，也是联系科学技术界与哲学家的研究桥梁。"
+  },
+  {
+   "cn": "处理",
+   "en": "treatment",
+   "source": "农学名词",
+   "wordNumber": "01.182",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "全称“试验处理(experimental treatment)”。一个试验单元内的水平的总称。单因素试验中，每一个水平就是一个处理；多因素试验中，不同因素的水平相互组合构成一个处理。"
+  },
+  {
+   "cn": "白土精制",
+   "en": "clay treatment,clay treating",
+   "source": "石油名词",
+   "wordNumber": "06.0105",
+   "subjectFullName": "石油_石油炼制_石油炼制工艺过程",
+   "subjectName": "石油炼制工艺过程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "冷处理",
+   "en": "cryogenic treatment,subzero treatment",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.187",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_淬火",
+   "subjectName": "淬火",
+   "publishYear": "2021",
+   "definition": "钢件淬火冷却到室温后，继续在0℃以下的介质中冷却的热处理工艺。冷却到液氮温度(–196℃)的冷处理称为深冷处理。"
+  },
+  {
+   "cn": "冷处理",
+   "en": "subzero treatment,cold treatment",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1416",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_热处理",
+   "subjectName": "热处理",
+   "publishYear": "2011",
+   "definition": "材料或工件淬火冷却到室温后，继续在一般制冷设备或低温介质中冷却的工艺。"
+  },
+  {
+   "cn": "深冷处理",
+   "en": "subzero treatment,cryogenic treatment",
+   "source": "航天科学技术名词",
+   "wordNumber": "13.176",
+   "subjectFullName": "航天科学技术_航天制造工艺",
+   "subjectName": "航天制造工艺",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "地基处理",
+   "en": "ground treatment,foundation treatment",
+   "source": "土木工程名词",
+   "wordNumber": "03.007",
+   "subjectFullName": "土木工程_土力学与地基基础_土力学与地基基础一般名词",
+   "subjectName": "土力学与地基基础一般名词",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "诸子学",
+   "en": "zhu zi xue;learning of the various philosophers",
+   "source": "中国古代史名词",
+   "wordNumber": "1.359",
+   "subjectFullName": "中国古代史_通论_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "先秦至汉魏以来诸子百家的思想学说。其著述多被收入“诸子略”或“子部”，魏晋将之分为先秦的“古诸子家”和汉以来的“近世子家”，后世又连同当代思想家合称“今古诸子”。晚出诸子的共同点是思想学说自成一家，或"
+  },
+  {
+   "cn": "低温治疗",
+   "en": "hypothermia treatment",
+   "source": "神经外科学名词",
+   "wordNumber": "16.357",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科治疗技术",
+   "subjectName": "神经外科治疗技术",
+   "publishYear": "2026",
+   "definition": "通过物理学方法将患者的核心温度降低，减慢心率及呼吸，降低全身代谢，尤其是脑代谢，控制颅内压，改善临床预后的治疗方法。包括中度低温（30℃左右）、亚低温（34℃左右）。"
+  },
+  {
+   "cn": "哲学家",
+   "en": "philosopher",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "哲学心理学",
+   "en": "philosophical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "爱奥尼亚哲学家",
+   "en": "Ionian philosophers",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "冷处理",
+   "en": "cold treatment\",\"subzero treatment",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "气候疗法",
+   "en": "climatic treatment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物处理",
+   "en": "biological treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理处理",
+   "en": "physical treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "厌氧处理",
+   "en": "anaerobic treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "预防处理",
+   "en": "preventative treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表面处理",
+   "en": "surface treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二级处理",
+   "en": "secondary treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "好氧处理",
+   "en": "aerobic treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "三级处理",
+   "en": "tertiary treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "处理工厂",
+   "en": "treatment plant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "高级处理",
+   "en": "advanced treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "土壤处理",
+   "en": "soil treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "处理设备",
+   "en": "treatment device",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一级处理",
+   "en": "primary treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化学处理",
+   "en": "chemical treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "地下水处理",
+   "en": "groundwater treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理趣",
+   "en": "<div> Philosophical Substance Through Artistic Appeal</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "紧急救治",
+   "en": "emergency treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外科处置",
+   "en": "surgical treatment   ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "智慧水厂",
+   "en": "intelligent water treatment plant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隔空诊疗",
+   "en": "online diagnosis and treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诊断、治疗、追踪和筛查",
+   "en": "diagnosis, treatment, tracing and screening",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "污染集中处理",
+   "en": "centralized treatment of medical waste",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隔离治疗",
+   "en": "to receive treatment in isolation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "方舱医院",
+   "en": "temporary treatment centers; Fangcang shelter hospitals",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《新型冠状病毒感染的肺炎诊疗方案》",
+   "en": "Diagnosis and Treatment Protocol for COVID-19",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "早发现、早报告、早诊断、早隔离、早治疗",
+   "en": "early detection, reporting, diagnosis, isolation and treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高救治水平",
+   "en": "to improve the quality of medical treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "固体废物资源化无害化",
+   "en": "recycling and hazard-free treatment of solid waste",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医防结合",
+   "en": "Emphasis is needed on both prevention and treatment.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视人如己",
+   "en": "Treat Others the Way You Treat Yourself",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "休舱",
+   "en": "to close temporary treatment centers; to cease/wind up operations",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“一人一方案”“一人一团队”",
+   "en": "a dedicated team and a personalized treatment plan for each patient",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "推广全面系统有效的防控指南",
+   "en": "to promote control and treatment protocols that are comprehensive, systematic and effective",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开展国际联防联控",
+   "en": "to make a collective response for control and treatment at the international level ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应治尽治",
+   "en": "All confirmed patients should be treated.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "哲学的党性",
+   "en": "philosophical party spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0198",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "（1）哲学的派别性，即基于哲学基本问题的不同回答而形成的唯物主义和唯心主义这两条基本路线、两个基本派别。（2）哲学的阶级性。哲学作为一种社会意识形态，同其他社会意识形态一样，其性质也不能不为社会存在所"
+  },
+  {
+   "cn": "自然哲学医学模式",
+   "en": "natural philosophical medical model",
+   "source": "社会医学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "自然哲学医学模式",
+   "publishYear": "2025",
+   "definition": "将健康、疾病与人类生活的自然环境和社会环境相联系的朴素、辩证和整体的医学观和方法论。其核心思想认为人体与自然界存在内在统一性，均由特定成分构成，这些成分之间保持平衡就是健康状态，平衡被打破则导致疾病。"
+  },
+  {
+   "cn": "毛泽东哲学思想",
+   "en": "philosophical thought of Mao Zedong",
+   "source": "马克思主义",
+   "wordNumber": "01.0227",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为代表的中国共产党人把马克思列宁主义哲学思想与中国革命和建设的具体实践相结合的产物，以《矛盾论》《实践论》为代表作，是马克思列宁主义哲学思想的中国化理论。"
+  },
+  {
+   "cn": "脱脂处理",
+   "en": "degreasing treatment",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.15",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "去除载体（滤纸片除外）上脂类物质以便指示菌均匀分布的处理方法。即将制备菌片所用载体于染菌前，放在含洗涤剂的水中煮沸 30 分钟，以自来水洗净，再用蒸馏水煮沸 10分钟，用蒸馏水漂洗至 pH值呈中性、晾"
+  },
+  {
+   "cn": "焚烧处理",
+   "en": "incineration treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "废物在高温条件下发生热分解、燃烧等反应，实现无害化和减量化的过程。"
+  },
+  {
+   "cn": "微波处理",
+   "en": "microwave treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "利用微波或微波与高温蒸汽组合作用杀灭医疗废物中病原微生物，使其消除潜在的感染性危害的处理方法。"
+  },
+  {
+   "cn": "化学法处理",
+   "en": "chemical treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2.4",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "采用化学消毒剂杀灭医疗废物中的病原微生物，消除其潜在的感染性危害的处理方法。"
+  },
+  {
+   "cn": "样品处理",
+   "en": "samples treatment",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "对采集的样品或分析对象根据其性质，工作目的和分析方法进行不同预处理的操作过程。通过处理可使样品的状态符合所选择的分析技术并达到试验用样要求。"
+  },
+  {
+   "cn": "治疗处方",
+   "en": "treatment prescription",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "临床医生对放射治疗中患者的治疗范围和剂量分布的定量要求，如照射部位或体积、照射总剂量、分次剂量、分次数、危及器官限量等。"
+  },
+  {
+   "cn": "治疗参数",
+   "en": "treatment parameter",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.10",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗中，表征患者所受辐射照射的要素。如：辐射能量、吸收剂量、治疗时间等。"
+  },
+  {
+   "cn": "治疗验证",
+   "en": "treatment verification",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在治疗前或治疗中，通过各种手段（体模测量、治疗日志分析等）验证患者治疗准确性的过程。"
+  },
+  {
+   "cn": "介入",
+   "en": "intervention，treatment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者和服务对象采取实际行动，按照服务协议落实社会工作计划的目标，解决预估中确认的问题，帮助服务对象改变，从而实现助人计划的环节。"
+  },
+  {
+   "cn": "不公正对待",
+   "en": "unfair treatment",
+   "source": "马克思主义",
+   "wordNumber": "05.0108",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "罗默在采用资产阶级新古典经济学的分析方法，对马克思剥削理论的“资本主义制度的不公正”中的“剥削”“阶级”等理论重新解释，由此得出社会不公正的根源是生产资料的初始分配的不公正和生产方式的差异性的思想。"
+  },
+  {
+   "cn": "一般治疗",
+   "en": "general treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "传染病和其他各种疾病所必需的基础治疗。包括隔离、消毒、护理和心理治疗。"
+  },
+  {
+   "cn": "支持治疗",
+   "en": "supportive treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.2",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "根据各种疾病的不同阶段而采取的合理饮食，补充营养，维持水、电解质和酸碱平衡，增强患者体质和免疫功能的各项措施。"
+  },
+  {
+   "cn": "对症治疗",
+   "en": "symptomatic treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "根据病情采取的解除症状和病痛的治疗。包括降温、止痛、镇静、吸氧、止咳、防治出血等，可达到减少机体消耗和保护重要器官的目的。"
+  },
+  {
+   "cn": "手术治疗",
+   "en": "surgical treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.7",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "通过外科手术切除机体病灶、促进疾病恢复的治疗方法。"
+  },
+  {
+   "cn": "终止治疗",
+   "en": "terminating treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.037",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "根据临床诊疗标准，结合患者或其家属意愿，终止对因治疗措施的医疗行为。"
+  },
+  {
+   "cn": "姑息治疗",
+   "en": "palliative treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.042999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "对所患疾病已经治疗无效的患者提供疼痛控制，以及心理、社会和精神支持，帮助患者维持最佳生存质量的医疗照顾措施。"
+  },
+  {
+   "cn": "对症治疗",
+   "en": "symptomatic treatment",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.6.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "采用的治疗措施目的仅限于改善临床症状的治疗方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

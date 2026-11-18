@@ -1,0 +1,662 @@
+{
+ "key": "climate scientists",
+ "term": "climate scientists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:30:28+00:00",
+ "status": "ok",
+ "note": "variant=climate scientists; 审定公布名词库=615; 海峡两岸名词对照库=423; 其他来源数据库=10; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "科学家共同体",
+   "en": "scientist community",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.078",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "由从事科学研究的具有共同信念、共同价值观念的，遵从特定科学规范的科学家组成的正式或非正式的社会组织。具有科学交流、评价、承认、相互监督等重要功能。"
+  },
+  {
+   "cn": "情报学家",
+   "en": "information scientist",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.188",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "在情报学或情报事业领域造诣深厚，为情报理论和实践做出突出贡献，影响卓著的学科带头人或学科专家。"
+  },
+  {
+   "cn": "图书馆学家",
+   "en": "library scientist",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.187",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "在图书馆学或图书馆事业领域造诣深厚，为图书馆理论和实践做出突出贡献，影响卓著的学科带头人或学科专家。"
+  },
+  {
+   "cn": "科学家的生产率",
+   "en": "productivity of scientists",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.076",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "由美国学者A. J. 洛特卡（A. J. Lotka）于1926年率先提出。是指科学家（科研人员）在科学上表现出的能力和工作效率。通常用科学家生产的科学文献的数量来衡量。"
+  },
+  {
+   "cn": "科学家的社会角色",
+   "en": "social role of scientist",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.067",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "科学家在社会中扮演的角色和发挥的独特作用。不同时代、不同国家科学家的社会角色有所不同。在现代科学出现前，生产科学知识的往往是哲学家、数学家或技术工匠等。16、17世纪之后，随着科学研究的专业化、职业化"
+  },
+  {
+   "cn": "科学家的社会责任",
+   "en": "social responsibility of scientist",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "科学家在社会发展中应当履行的职责。科学家的基本责任是推进科学知识的进步，除科学研究外，科学家还应促进科学知识的传播，关注科学与社会的关系。一般来说，由于科学家具备专门知识，能够预见科学发展的风险与远景"
+  },
+  {
+   "cn": "气候",
+   "en": "climate ",
+   "source": "草学名词",
+   "wordNumber": "3.0483",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "林学名词",
+   "wordNumber": "02.122",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "某一地区多年的大气状态。包括平均状态和极端状态。"
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "大气科学名词",
+   "wordNumber": "07.022",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "以对某一地区气象要素进行长期统计(平均值、方差、极值概率等)为特征的天气状况的综合表现。"
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.016",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "地球与大气之间长期的物质与能量交换过程所形成的一种自然环境因子。"
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0533",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋气象学",
+   "subjectName": "海洋气象学",
+   "publishYear": "2007",
+   "definition": "某地或某地区的多年平均天气状况、特征及其变化规律。"
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "生态学名词",
+   "wordNumber": "09.057",
+   "subjectFullName": "生态学_全球生态学",
+   "subjectName": "全球生态学",
+   "publishYear": "2006",
+   "definition": "一个地区长期平均的天气状况。"
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "地理学名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "地理学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2006",
+   "definition": "某一地区多年的天气和大气活动的综合状况(平均值、方差、极值概率等)。"
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "电气工程名词",
+   "wordNumber": "27.036",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "航海科技名词",
+   "wordNumber": "07.0043",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "草原气候",
+   "en": "grassland climate; prairie climate; steppe climate",
+   "source": "农学名词",
+   "wordNumber": "13.106",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "干旱气候与湿润气候之间的过渡性气候带，呈马蹄形环绕沙漠气候区。主要特点是气候干燥，以夏季降雨为主。适于牧草生长。"
+  },
+  {
+   "cn": "海洋性气候",
+   "en": "oceanic climate,maritime climate",
+   "source": "林学名词",
+   "wordNumber": "02.141",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "通常指海洋邻近区域的气候。以降水较多、温度变化和缓为其主要特征。"
+  },
+  {
+   "cn": "海洋［性］气候",
+   "en": "marine climate; ocean climate",
+   "source": "农学名词",
+   "wordNumber": "13.108",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "受海洋影响显著的岛屿和近海地区，以降水较多及气温变化和缓为主要特征的气候。"
+  },
+  {
+   "cn": "湿润气候",
+   "en": "humid climate; wet climate",
+   "source": "农学名词",
+   "wordNumber": "13.111",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "以空气湿润及降水丰沛为主要特征的气候，年降水量在800~1600mm之间。自然植被主要为森林。"
+  },
+  {
+   "cn": "气候带",
+   "en": "climatic belt,climatic zone",
+   "source": "林学名词",
+   "wordNumber": "02.139",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "根据气候要素或气候因子的带状分布特征而划分的纬向或高度带。"
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "气候",
+   "en": "climate",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "气候适应",
+   "en": "climatization",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候带",
+   "en": "climate zone\",\"climatic zone",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候距平",
+   "en": "climatic anomaly\",\"climate anomaly",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候敏感性",
+   "en": "climatic sensitivity\",\"climate sensitivity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候异常",
+   "en": "climatic anomaly\",\"climate anomaly",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候预报",
+   "en": "climatic forecast\",\"climate forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候噪声",
+   "en": "climatic noise\",\"climate noise",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候展望，气候预估",
+   "en": "climate projection\",\"climatic outlook",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候振动",
+   "en": "climatic fluctuation\",\"climate fluctuation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候带",
+   "en": "climate zone\",\"climatic zone",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "草原气候",
+   "en": "steppe climate\",\"prairie climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候带",
+   "en": "climatic zone\",\"climatic belt",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候区",
+   "en": "climatic region\",\"climatic province",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候带",
+   "en": "climatic belt\",\"climatic zone",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "气候顶极",
+   "en": "climatic climax",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候顶极群落",
+   "en": "climatic climax",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学家",
+   "en": "data scientist",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府间气候变化专门委员会",
+   "en": "Intergovernmental Panel on Climate Change",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作应对气候变化",
+   "en": "cooperation in addressing climate change",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应对气候变化与国家自主行动",
+   "en": "addressing climate change and intended national actions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "终极场景",
+   "en": "ultimate scenario",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "太极",
+   "en": "Taiji (The Supreme Ultimate)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学家的矛盾心理",
+   "en": "ambivalence of scientists",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究中奖励系统和规范系统之间产生的紧张和矛盾。具体表现为两种价值观的冲突：一方面，鼓励独创性价值使得科学家要求他人承认其研究发现的优先权；另一方面，鼓励要适当谦虚的价值则要求科学家不能过于强调自己"
+  },
+  {
+   "cn": "科学家的社会角色",
+   "en": "social roles of scientists",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.10",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家作为知识分子在社会生活中所履行的不同社会角色。科学家具有不同的社会圈、社会地位以及承担着不同的功能。科学家的社会角色是伴随着科学体制化的过程发展的。"
+  },
+  {
+   "cn": "科学（家）共同体",
+   "en": "scientific community/community of scientists",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.11",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "对科学基本问题持有共同看法、并在科学实践中形成单一传统的科学家所组成的研究群体。"
+  },
+  {
+   "cn": "社会气氛",
+   "en": "social climate",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "某一社会环境中的人们能够感知到的具有相同持续性的一般气氛，能影响每个成员的情绪和行为。"
+  },
+  {
+   "cn": "气候因素",
+   "en": "climate factor",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "对人类社会生活或动植物生活有影响的各种气象的总称，包括光、热、气压、气 流和湿气等，而以气温、雨量和气流为气候的三项主要因素。"
+  },
+  {
+   "cn": "微小气候",
+   "en": "micro climate",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "局部地区小范围内的特定气候,包括气温、气湿、气流等。"
+  },
+  {
+   "cn": "热带气候",
+   "en": "tropical climate",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "位于热带地区（南北回归线之间）的气候类型。其最显著的特点是全年高温，年平均气温一般在20℃以上。"
+  },
+  {
+   "cn": "干寒气候",
+   "en": "dry-cold climate",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.1.1",
+   "subjectFullName": "军事预防医学_寒区军事卫生_寒区",
+   "subjectName": "寒区",
+   "publishYear": "2025",
+   "definition": "干燥而寒冷，天气温度低并且相对湿度小的气候类型，常见于北方冬季。"
+  },
+  {
+   "cn": "地理气候因素",
+   "en": "geographic climate factor",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "由日照时数、平均气温、气温年均差、平均地表温度、年降水量、年均相对湿度、海拔高度、大气压、平均水气压等指标反映的对生长发育具有明显影响的因素。"
+  },
+  {
+   "cn": "湿寒气候",
+   "en": "humid-cold climate",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.1.2",
+   "subjectFullName": "军事预防医学_寒区军事卫生_寒区",
+   "subjectName": "寒区",
+   "publishYear": "2025",
+   "definition": "潮湿而寒冷，天气温度低并且相对湿度大的气候类型，人的体感温度大幅低于所处环境的气温，常见于南方冬季。"
+  },
+  {
+   "cn": "热带沙漠气候",
+   "en": "tropical desert climate",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.1.4",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "分布在南北回归线至南北纬30°之间的大陆内部或大陆西岸，年平均气温高，年温差和日温差均较大，降水稀少的气候。"
+  },
+  {
+   "cn": "热带雨林气候",
+   "en": "tropical rainforest climate",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.1.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "分布在赤道南北两侧10°之间，常年高温、潮湿、多雨的气候。"
+  },
+  {
+   "cn": "热带季风气候",
+   "en": "tropical monsoon climate",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.1.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "分布在北纬10°至北回归线的亚洲大陆南岸地区，全年高温，旱雨季明显，降水受季风影响显著的气候。"
+  },
+  {
+   "cn": "热带草原气候",
+   "en": "tropical savanna climate",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.1.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "分布在南北纬10°至南北回归线之间，全年高温，干季和湿季明显的气候。"
+  },
+  {
+   "cn": "联合国气候变化框架公约",
+   "en": "United Nations Framework Convention on Climate Change(UNFCCC)",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.16",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "国际社会为应对气候变化共同签署的一项国际公约。1992年5月在纽约联合国总部通过，6月在巴西里约热内卢召开的世界各国政府首脑参加的联合国环境与发展会议期间开放签署，1994年3月21日正式生效。"
+  },
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "通常有两种含义：一是自然科学家或被认为属于自然科学家所持的典型的方法和态度；二是对自然科学方法之功效的过分依赖，即把科学的权威扩展到人们现在所承认的范围以外的尝试，把科学当作是唯一可能的理解方式。"
+  },
+  {
+   "cn": "主城市",
+   "en": "the primate city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.9.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_发展中国家的城市",
+   "subjectName": "发展中国家的城市",
+   "publishYear": "2025",
+   "definition": "发展中国家城市发展中出现的一个或数个超大城市的现象。这些城市的人口和影响力远远大于此国家或地区中的其他城市，表现出社会经济发展的极其不均衡问题。"
+  },
+  {
+   "cn": "根本的归因偏差",
+   "en": "ultimate attribution error",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "基本归因错误在群际过程中的一种表现形式，指人们在对群体行为进行归因时所存在的偏袒内群体、歧视外群体的偏差，即人们倾向于将外群体的消极负面的行为归因为其所拥有的稳定特质，将外群体的积极正面的行为视为例外"
+  },
+  {
+   "cn": "兵民是胜利之本",
+   "en": "soldiers and the people are the ultimate source of victory",
+   "source": "马克思主义",
+   "wordNumber": "03.0403",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东人民战争思想的重要观点，是中国共产党反对国民党片面抗日、主张全面抗战思想的集中表述。1938年5月，毛泽东在《论持久战》中指出：“战争的伟力之最深厚的根源，存在于民众之中”，主张进行全军全民的总"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

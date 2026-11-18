@@ -1,0 +1,792 @@
+{
+ "key": "health disparities",
+ "term": "health disparities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:41:10+00:00",
+ "status": "ok",
+ "note": "variant=health disparities; 审定公布名词库=4372; 海峡两岸名词对照库=902; 其他来源数据库=139; 预公布名词数据库=1116; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "教育不平衡",
+   "en": "educational disparities",
+   "source": "教育学名词",
+   "wordNumber": "14.155",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "不同地区教育发展（办学条件、教育质量和规模等）出现严重的不合理差距的现象。亦指某地区内不同教育类别和层次之间的严重不匹配现象。"
+  },
+  {
+   "cn": "双眼视差",
+   "en": "binocular disparity",
+   "source": "生物物理学名词",
+   "wordNumber": "04.147",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "双眼注视外界一点时，由于双眼观察角度不同而使两个视网膜像之间产生的位置差异。"
+  },
+  {
+   "cn": "差别影响",
+   "en": "disparate impact",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0365",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源管理法规",
+   "subjectName": "人力资源管理法规",
+   "publishYear": "2016",
+   "definition": "在人事选拔与录用中对弱势人群存在的隐性的不公平性。"
+  },
+  {
+   "cn": "差别待遇",
+   "en": "disparate treatment",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源管理法规",
+   "subjectName": "人力资源管理法规",
+   "publishYear": "2016",
+   "definition": "由于种族、性别、国别或残疾等情况等所致的显性歧视。"
+  },
+  {
+   "cn": "视网膜像差",
+   "en": "retinal disparity",
+   "source": "心理学名词",
+   "wordNumber": "02.404",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "因双眼位置不同导致双眼视网膜成像的差异。"
+  },
+  {
+   "cn": "空间差异",
+   "en": "spatial disparity",
+   "source": "地理学名词",
+   "wordNumber": "18.017",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "不同地域范畴社会经济发展水平及其结构的差异。"
+  },
+  {
+   "cn": "人员个性差异",
+   "en": "staff personality disparity",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.108",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "个人心理特征的不同之处。概括起来可以归纳为气质差异、能力差异与性格差异。这三个范畴的复杂组合，构成了个体带有稳定性和倾向性的各不相同的个性特征。"
+  },
+  {
+   "cn": "人员气质差异",
+   "en": "staff temperament disparity",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.109",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "气质是人们通常所说的“脾气”、“秉性”或“性情”，是指人心理活动的速度、强度和灵活性方面表现出来的动力特征。根据希波利特的观点，气质可以划分为胆汁质、多血质、黏液质和抑郁质四类。每种类型都有其独特心理"
+  },
+  {
+   "cn": "成对不等性码",
+   "en": "paired-disparity code",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.468",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以相反极性的两个信号电平之一来表示输入数据的一部分或全部的代码。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "急救医学名词",
+   "wordNumber": "03.879",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "没有疾病和虚弱，且身体、心理和社会各方面都处于相互协调的和谐状态。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "行为医学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "行为医学_总论_行为决定健康",
+   "subjectName": "行为决定健康",
+   "publishYear": "2022",
+   "definition": "机体没有疾病和虚弱的状态，包括躯体健康、心理健康、社会适应良好和道德良好4个方面。1990年世界卫生组织把健康定义为，健康不仅是没有疾病，而且包括躯体健康、心理健康、社会适应良好和道德健康。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "计划生育名词",
+   "wordNumber": "01.041",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_生殖健康",
+   "subjectName": "生殖健康",
+   "publishYear": "2019",
+   "definition": "由世界卫生组织提出，指没有疾病和不适，并且有良好的体质、心理状态及社会适应能力的生命状态。世界卫生组织制定了人体健康的10项标准：①精力充沛，能十分自如地应付和处理日常工作及生活。②精神乐观，态度积极"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "老年医学名词",
+   "wordNumber": "02.030",
+   "subjectFullName": "老年医学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2017",
+   "definition": "没有疾病和虚弱，且身体、心理和社会各方面都处于相互协调的和谐状态。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.038",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "由世界卫生组织提出的，没有疾病或衰弱，且身体、心理都和社会适应的完好状态。"
+  },
+  {
+   "cn": "养生",
+   "en": "health maintenance,health preservation",
+   "source": "老年医学名词",
+   "wordNumber": "08.020",
+   "subjectFullName": "老年医学_传统老年医学",
+   "subjectName": "传统老年医学",
+   "publishYear": "2017",
+   "definition": "是指在中医学理论指导下，研究提高人体健康水平，增强体质，预防疾病，以及延缓衰老、延年益寿的方法。原则是保养正气和防御疾病，主要包括顺时摄生、调摄精神、饮食调养、运动健身、房事有节、起居有常、慎避外邪等"
+  },
+  {
+   "cn": "健康体检",
+   "en": "health examination,health inspection",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "08.002",
+   "subjectFullName": "全科医学与社区卫生_社区健康管理",
+   "subjectName": "社区健康管理",
+   "publishYear": "2014",
+   "definition": "为了早期发现身体潜在的疾病，以便早期诊断、早期治疗，从而达到预防保健的目的而进行的体格检查。"
+  },
+  {
+   "cn": "健康效应",
+   "en": "health effect",
+   "source": "地质学名词",
+   "wordNumber": "18.04.039",
+   "subjectFullName": "地质学_环境地质学_环境污染",
+   "subjectName": "环境污染",
+   "publishYear": "2026",
+   "definition": "环境中某种病原因子作用于人体后使人健康状况发生改变的效应。"
+  },
+  {
+   "cn": "生态健康",
+   "en": "ecological health",
+   "source": "风景园林名词",
+   "wordNumber": "12.0102",
+   "subjectFullName": "风景园林_风景园林生态_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2025",
+   "definition": "人与环境关系的健康，是测度人的生产生活环境及其赖以生存的生命支持系统的代谢过程和服务功能完好程度的系统指标。包括人体和人群的生理和心理生态健康，人居物理环境、生物环境和代谢环境（包括衣食住行玩、劳作、"
+  },
+  {
+   "cn": "健康促进",
+   "en": "health promotion",
+   "source": "急救医学名词",
+   "wordNumber": "03.855",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "运用行政的或组织的手段，广泛协调社会各相关部门及社区、家庭和个人，使其履行各自对健康的责任，共同维护和促进健康的一种社会行为和社会战略。"
+  },
+  {
+   "cn": "健康老年人",
+   "en": "health elderly",
+   "source": "急救医学名词",
+   "wordNumber": "03.896",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "具备形体健康、功能正常、没有疾病、心理健康、适应社会五条标准的老年人。"
+  },
+  {
+   "cn": "视网膜像差",
+   "en": "retinal disparity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双眼像差",
+   "en": "binocular disparity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间差异",
+   "en": "spatial disparity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "不等性奇偶检验码，成对不均等性码",
+   "en": "paired-disparity code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "视差梯度",
+   "en": "gradient of disparity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心理健康",
+   "en": "mental health",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "健康心理学",
+   "en": "health psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "健康岛",
+   "en": "health island",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "健康指标",
+   "en": "health indicator",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "健康与保健地理学",
+   "en": "geography of health and health care",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "职业健康心理学",
+   "en": "occupational health psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保健用盐生植物",
+   "en": "halophytic health plant",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "健康地理",
+   "en": "geography of health",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "健康生态学",
+   "en": "ecology of health",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "保健药品",
+   "en": "health care medicine",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "世界卫生组织",
+   "en": "World Health Organization\",\"WHO",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保健地理",
+   "en": "geography of health care",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "公共保健系统",
+   "en": "public health care system",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "环境健康风险评价",
+   "en": "environmental health risk assessment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "航海健康申报书",
+   "en": "maritime declaration of health",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "健康筛查",
+   "en": "health screening",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "健康码",
+   "en": "health code  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生系统",
+   "en": "health system",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世界卫生组织",
+   "en": "World Health Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子健康档案",
+   "en": " electronic health record",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市体检",
+   "en": "city health examination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "家庭健康系统",
+   "en": "home health system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康码",
+   "en": "health QR code",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康监控器具",
+   "en": "health monitoring device",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康申报表",
+   "en": "health declaration form",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生检疫",
+   "en": "health and quarantine",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绿码",
+   "en": "green (health) code  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "  数字化健康证明",
+   "en": "digital health certificate    ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "突发公共卫生事件",
+   "en": "public health emergency",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一线医护人员",
+   "en": "frontline health workers",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗人员",
+   "en": "medical personnel/workers; health workforce; health workers",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人口健康信息平台",
+   "en": "population health information platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康状况差异",
+   "en": "disparity in health status",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "不同地区或同一地区不同人群间健康状况存在的差别。"
+  },
+  {
+   "cn": "卫生服务利用差异",
+   "en": "disparity in health care utilization",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "不同地区或同一地区不同人群在门诊服务利用、住院服务利用、预防保健服务利用等方面的不均等的现象。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "不仅是没有疾病和衰弱状态，而是一种在身体上、精神上和社会适应上的完好状态。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "身体、心理和社会适应的完好状态，而不仅仅是没有疾病或虚弱。"
+  },
+  {
+   "cn": "总体健康",
+   "en": "general health",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体对自身健康状态的综合判断。反映患者在疾病和治疗的影响下对自身健康总的感受，以及对未来生活的期望与选择。"
+  },
+  {
+   "cn": "健康公平",
+   "en": "health equity",
+   "source": "社会医学名词",
+   "wordNumber": "3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "社会中的每个人都应有平等的机会获得卫生资源、服务和健康状态，不因社会地位不同而造成健康差异。"
+  },
+  {
+   "cn": "健康优先",
+   "en": "health priority",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.9",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "把健康摆在优先发展的战略地位，将促进健康的理念融入公共政策制定的全领域和实施的全过程。"
+  },
+  {
+   "cn": "健康责任",
+   "en": "health responsibility",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.064",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "政府、社区及个人对个体和群体健康所承担的义务。政府和社区应制定有助于促进个体和群体健康的政策，提供健康的环境；个人应保持健康的生活方式，为自身、他人及群体健康提供支持。"
+  },
+  {
+   "cn": "卫生管理人员",
+   "en": "health administrator",
+   "source": "消毒学",
+   "wordNumber": "5.1.10.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业中从事卫生管理的人员。"
+  },
+  {
+   "cn": "健康效应",
+   "en": "health effect",
+   "source": "放射卫生学",
+   "wordNumber": "1.4",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "人体受到电离辐射照射引起的从变化、损伤、损害到危害的种种改变。"
+  },
+  {
+   "cn": "卫生监督",
+   "en": "health inspection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6",
+   "subjectFullName": "放射卫生学_放射卫生监管",
+   "subjectName": "放射卫生监管",
+   "publishYear": "2025",
+   "definition": "行政机关依据法律法规的规定对个人、法人和组织从事与卫生有关的事项许可，对执行卫生法律法规的情况进行监督检查，并对违法行为做出处理的行政执法行动。"
+  },
+  {
+   "cn": "健康状况",
+   "en": "health status",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.7",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "反映某个人或某个人群整体健康状况的指标，现有的健康状况指标有健康结果指标（发病率、死亡率等）、医疗服务利用指标（门诊数、住院天数等）、主观健康评价指标等。"
+  },
+  {
+   "cn": "健康职业",
+   "en": "health occupations",
+   "source": "社会学名词",
+   "wordNumber": "3.11.3.3",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康角色与关系",
+   "subjectName": "健康角色与关系",
+   "publishYear": "2025",
+   "definition": "泛指所有的健康服务提供职业，包括正式系统中的职业（如医生、护士、药剂师、牙医等），相关的健康工作者（如医学实验室人员、职业治疗师），以及替代医疗职业（比如针灸师）。"
+  },
+  {
+   "cn": "医疗专业",
+   "en": "health professions",
+   "source": "社会学名词",
+   "wordNumber": "3.11.3.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康角色与关系",
+   "subjectName": "健康角色与关系",
+   "publishYear": "2025",
+   "definition": "专业(profession）是一种需要广泛、系统性知识、技能或科学训练的职业。具备对知识体系的独占或垄断能力，并获得社会大众对此权威的认可，是专业不可或缺的要件。医疗专业即医疗领域中符合上述条件的职业"
+  },
+  {
+   "cn": "健康服务",
+   "en": "health care",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "采用医疗和预防的手段，使个人身体保持健康，以及提高身体机能的服务。它的范围比医疗服务(medical care)更宽，还包括了预防服务，比如洗牙、健身等。"
+  },
+  {
+   "cn": "健康促进",
+   "en": "health promotion",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.5",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "通过诸如健康检查、健康教育、健康咨询等公共卫生的手段，促进人们健康水平提供的一种方式。或是指20世纪60年代开始的一项社会运动，旨在将人们的注意力从只是关注疾病治疗转移到健康的生活习惯和行为上。"
+  },
+  {
+   "cn": "健康服务的消费主义",
+   "en": "health consumerism",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.3",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "服务对象将健康服务当作一种商品，自行从市场上选择和购买他们认为最合适的服务的价值观和行为取向。这种意识在20世纪60年代后期开始出现，在其影响下，旧有的“医生—病人”关系向“提供者—消费者”关系转变，"
+  },
+  {
+   "cn": "环境健康",
+   "en": "environmental health",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.2",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "有关人与环境相互作用导致的健康和疾病的研究、实践和社会关注的领域。"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "health insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.4.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_医疗保险",
+   "subjectName": "医疗保险",
+   "publishYear": "2025",
+   "definition": "国家通过立法建立医疗保险基金，在社会成员患病需要医治时，根据疾病类型为其提供基本医疗费用补偿的一种社会保险制度。按照强制性社会保险原则，基本医疗保险费应由用人单位和职工个人按时足额缴纳。"
+  },
+  {
+   "cn": "卫生经济学",
+   "en": "health economics",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "利用经济学基本理论和方法，研究卫生领域经济现象和规律的学科。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

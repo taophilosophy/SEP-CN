@@ -1,0 +1,712 @@
+{
+ "key": "opportunity costs",
+ "term": "opportunity costs",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:38:45+00:00",
+ "status": "ok",
+ "note": "variant=opportunity costs; 审定公布名词库=659; 海峡两岸名词对照库=152; 其他来源数据库=23; 预公布名词数据库=80; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "农学名词",
+   "wordNumber": "19.081",
+   "subjectFullName": "农业经济与管理_农业产业经济",
+   "subjectName": "农业产业经济",
+   "publishYear": "2025",
+   "definition": "为采用某种决策行为所须放弃的其他多种可选行为中的最大价值。"
+  },
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.039",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "在资源有限的情况下，用于某项目的某种资源，若用于其他用途可能获得的最大效益。"
+  },
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "经济学名词",
+   "wordNumber": "03.106",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "将一种经济资源投入某一特定用途之后，所放弃的在其他用途中所能得到的最大收益。机会成本存在的原因在于经济资源的稀缺性。当一种经济资源同时存在多种用途时，每一个使用该种经济资源的经济主体都要面对使用该种资"
+  },
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0489",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "在经济资源有限的情况下，由于选择某一投资方案而必须放弃的其他投资方案所产生的收益。"
+  },
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.115",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "将一项资源用于某一项目或方案时由于其他项目或方案不可能再使用这些资源，由此付出的代价及带来的损失。"
+  },
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "药学名词",
+   "wordNumber": "10.037",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "某种资源分配到一种用途上而放弃另一种用途可能得到的最大价值。"
+  },
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "某项资源未能得到充分利用而放弃掉的获利机会所带来的成本。"
+  },
+  {
+   "cn": "机会代价",
+   "en": "opportunity cost",
+   "source": "生态学名词",
+   "wordNumber": "07.327",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "由于选择一种方案而放弃另一种方案的收益。"
+  },
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "水利科学技术名词",
+   "wordNumber": "16.030",
+   "subjectFullName": "水利科学技术_水利经济_水利工程费用",
+   "subjectName": "水利工程费用",
+   "publishYear": "1997",
+   "definition": "一种资源(如资金或劳力等)用于本项目而放弃用于其他机会时，所可能损失的利益。"
+  },
+  {
+   "cn": "机会成本法",
+   "en": "opportunity cost method",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.162",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "运用机会成本计算资源价值的方法。将某种资源安排特种用途，而放弃其他用途所造成的损失、付出的代价，就是该种资源的机会成本。"
+  },
+  {
+   "cn": "教育机会成本",
+   "en": "educational opportunity cost",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.093",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "它是教育间接成本的主要组成部分。一般包括：学生所放弃的收入；教育部门的免税成本；教育部门的潜在租金等。"
+  },
+  {
+   "cn": "教育机会成本",
+   "en": "opportunity cost of education",
+   "source": "教育学名词",
+   "wordNumber": "14.035",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "社会或受教育者个人因选择教育而放弃的可能获得的利益的经济价值。"
+  },
+  {
+   "cn": "汽车运输机会成本",
+   "en": "motor transport opportunity cost",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.440",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "机会",
+   "en": "opportunity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0926",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "出现缺陷的可能性。"
+  },
+  {
+   "cn": "机会主义",
+   "en": "opportunism",
+   "source": "经济学名词",
+   "wordNumber": "05.050",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "关于交易行动者的行为动机的假设。机会主义，就是为了追求私利而不择手段，突出的表现是不按规则办事。机会主义使人具有随机应变，投机取巧为自己谋取最大利益的行为倾向。机会主义使市场主体有损人利己的可能，而且"
+  },
+  {
+   "cn": "机会主义",
+   "en": "opportunism",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1043",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在信息不对称的情况下，人们没有完全如实地披露所有的信息及所做的损人利己的行为。"
+  },
+  {
+   "cn": "机会主义",
+   "en": "Opportunism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0096",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "国际工人运动和工人阶级政党内反对马克思主义的资产阶级思潮，其表现为左倾机会主义或者右倾机会主义。"
+  },
+  {
+   "cn": "人力资源机会成本法",
+   "en": "human resource opportunity cost method",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.247",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "运用假设企业职工离职使企业所蒙受的经济损失，作为企业人力资产计价依据的方法。"
+  },
+  {
+   "cn": "机会研究",
+   "en": "opportunity study",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.072",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "根据国民经济与社会发展规划、地区发展规划、行业发展规划等政策，在一个确定的地区或行业内，结合资源分布、市场预测、建设布局等条件，为寻求有价值的投资机会而进行的准备性调查研究。"
+  },
+  {
+   "cn": "广告时机",
+   "en": "advertising opportunity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.262",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "确定广告发布的时间和空间范围。"
+  },
+  {
+   "cn": "机会代价,择机代价",
+   "en": "opportunity cost",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社会机会成本",
+   "en": "social opportunity cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资机会",
+   "en": "investment opportunity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "介入机会,插入机会",
+   "en": "intervening opportunity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "机会因子",
+   "en": "opportunity factor",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "成本",
+   "en": "cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最后机会原则",
+   "en": "last opportunity rule",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "成本估计",
+   "en": "cost estimate\",\"cost estimation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "费用函数",
+   "en": "cost function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资源成本",
+   "en": "resources cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "制造成本",
+   "en": "manufacturing cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "更换费用",
+   "en": "replacement cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单位成本",
+   "en": "unit cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "成本因子",
+   "en": "cost factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "财务会计成本",
+   "en": "financing cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "安装成本",
+   "en": "installation cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生产成本",
+   "en": "production cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "成本曲线",
+   "en": "cost curve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "成本效益",
+   "en": "cost effectiveness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "成本核算",
+   "en": "cost accounting",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数字化机遇",
+   "en": "digital opportunity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球数字机遇",
+   "en": "global digital opportunity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字机会均等化",
+   "en": "Equalization of Digital Opportunity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "零边际成本",
+   "en": "zero marginal cost",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织信息成本",
+   "en": "organizations’ information cost",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享中间成本",
+   "en": "intermediate cost in sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据促发展：挑战与机遇》（联合国）",
+   "en": "Big Data for Development: Opportunities and Challenges (UN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天时地利人和",
+   "en": "Opportune Time, Geographic Advantage, and Unity of the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "当仁不让",
+   "en": "When Facing an Opportunity to Exercise Benevolence, Do Not Yield.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“破、立、降”",
+   "en": "cutting ineffective supply, fostering new growth drivers, and reducing costs",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.6",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "将一项资源用于某一项目或方案时，其余项目或方案失去再使用这些资源的可能性，这些可能性的潜在收益。"
+  },
+  {
+   "cn": "机会主义",
+   "en": "opportunism",
+   "source": "马克思主义",
+   "wordNumber": "04.0316",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工人运动或无产阶级政党内部出现的违背马克思主义根本原则，为求得暂时利益而牺牲无产阶级根本利益的政治思潮。19世纪40年代产生于法国的蒲鲁东主义,60、70年代德国工人运动中的拉萨尔主义,都是自由资本主"
+  },
+  {
+   "cn": "机会平等",
+   "en": "fair opportunity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.057",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "每一个人平等地拥有获得社会资源、利益分配、资格待遇的可能性。"
+  },
+  {
+   "cn": "成本",
+   "en": "cost",
+   "source": "马克思主义",
+   "wordNumber": "02.0217",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品经营生产中消耗的生产资料价值和相当于工资的价值部分之和。是产品价值的一部分。预付成本需从其经营收入中取得补偿，以保证再生产的正常进行。"
+  },
+  {
+   "cn": "手卫生指征",
+   "en": "hand hygiene opportunity",
+   "source": "消毒学",
+   "wordNumber": "4.3.1.4",
+   "subjectFullName": "消毒学_消毒应用_皮肤黏膜消毒",
+   "subjectName": "皮肤黏膜消毒",
+   "publishYear": "2025",
+   "definition": "评估手卫生行为的指标，常用于医疗机构和其他健康设施中的卫生管理，在接触患者前、无菌操作前，体液暴露后、接触患者后和接触患者周围环境后提示需进行手卫生的情形。"
+  },
+  {
+   "cn": "不同机会理论",
+   "en": "differential opportunity theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为社会特定群体因为经济社会地位低下，获取社会资源的合法机会受到限制，而其生活环境使其有机会接触非法手段时，这些群体就会采取非法手段，从而导致犯罪。"
+  },
+  {
+   "cn": "教育机会",
+   "en": "opportunity of education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.7.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "选择任何教育渠道接受教育并取得学业成功的机会。每个社会成员在自然、社会或文化方面的不利条件均可在教育中得到补偿，社会成员不论其种族、民族、性别、宗教信仰、经济地位和政治地位等方面有何不同，都可享有同等"
+  },
+  {
+   "cn": "交易成本",
+   "en": "transaction cost",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.23",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "完成一笔交易时，交易双方在买卖前后所产生的各种与此交易相关的成本。通常包括协调成本和激励成本两大类。由科斯(R.H.Coase）于1937年提出。"
+  },
+  {
+   "cn": "成本价格",
+   "en": "cost price",
+   "source": "马克思主义",
+   "wordNumber": "02.0218",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值中，用以补偿消耗的生产资料价值和劳动力价值的部分。它由资本家企业生产商品所耗费的不变资本的价值和可变资本的价值构成。成本价格是历史范畴。在资本主义商品经济中，成本价格是商品销售价格的最低界限，"
+  },
+  {
+   "cn": "固定成本",
+   "en": "fixed cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "成本总额在一定时期和一定业务范围内，服务量增减变动时保持一定的成本。"
+  },
+  {
+   "cn": "可变成本",
+   "en": "variable cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "成本总额与服务量的总数成正比例增减变动的成本。"
+  },
+  {
+   "cn": "混合成本",
+   "en": "mixed cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "同时具有固定成本和变动成本的特点，包含部分固定成本和部分变动成本的成本。"
+  },
+  {
+   "cn": "直接成本",
+   "en": "direct cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目而能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "间接成本",
+   "en": "indirect cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目，但不能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "无形成本",
+   "en": "intangible cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.6",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "难以用市场价格直接表现的成本。"
+  },
+  {
+   "cn": "平均成本",
+   "en": "average cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "一定范围和一定时期内成本耗费的平均水平。"
+  },
+  {
+   "cn": "边际成本",
+   "en": "marginal cost ",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "每一单位新增生产的产品（或者购买的产品）带来的总成本的增量。"
+  },
+  {
+   "cn": "显性成本",
+   "en": "explicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "通过成本会计计算得来的成本。"
+  },
+  {
+   "cn": "隐性成本",
+   "en": "implicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "易忽略的及难以测量的成本，包括作为成本项目的机器设备和厂房等固定资本折旧费、企业主自己投入的资本的利息、企业家才能应得的报酬等。"
+  },
+  {
+   "cn": "增量成本",
+   "en": "incremental cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "因某一项决策的实施所带来的成本的变化量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

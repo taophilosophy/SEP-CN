@@ -1,0 +1,802 @@
+{
+ "key": "best evidence",
+ "term": "best evidence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:36:22+00:00",
+ "status": "ok",
+ "note": "variant=best evidence; 审定公布名词库=4925; 海峡两岸名词对照库=1038; 其他来源数据库=166; 预公布名词数据库=230; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "证据",
+   "en": "evidence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.067",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "能够支撑假说可靠性的事实。"
+  },
+  {
+   "cn": "电子证据",
+   "en": "electronic evidence",
+   "source": "档案学名词",
+   "wordNumber": "06.01.014",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "案件发生过程中形成的，以数字化形式存储、处理、传输的，能够证明案件事实的数据。经过科学管理的电子文件可以充当电子证据。"
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "经验证据",
+   "en": "empirical evidence",
+   "source": "行为医学名词",
+   "wordNumber": "3.301",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "通过感官的感觉（如触觉、视觉、听觉、嗅觉和味觉）所获得的结果和证据。"
+  },
+  {
+   "cn": "证据生成者",
+   "en": "evidence creator",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.067",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医疗信息系统集成规范中，创建已完成检查的附加影像、关键影像和相关文档，并发送至归档服务器的应用程序。"
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0114",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "它是一种不精确推理理论，满足比贝叶斯概率论更弱的条件，具有直接表达“不确定”和“不知道”的能力，以处理不确定信息。"
+  },
+  {
+   "cn": "审核证据",
+   "en": "audit evidence",
+   "source": "林学名词",
+   "wordNumber": "06.386",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "与审核准则有关的并且能够证实的记录、事实陈述或其他信息。"
+  },
+  {
+   "cn": "客观证据",
+   "en": "objective evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0711",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "支持事物存在或其真实性的数据，可通过观察、测量、试验或其他手段获得。"
+  },
+  {
+   "cn": "审计证据",
+   "en": "audit evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0388",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师为了得出审计结论和形成审计意见而使用的信息，包括构成财务报表基础的会计记录所含有的信息和其他信息。"
+  },
+  {
+   "cn": "故障迹象",
+   "en": "fault evidence",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "一种可以鉴别的偏差，通过它可以识别出功能故障或隐患故障的发生。"
+  },
+  {
+   "cn": "最佳估计值",
+   "en": "best estimate",
+   "source": "地质学名词",
+   "wordNumber": "13.08.082",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "根据测量值计算出的最接近待测量真值的计算值。"
+  },
+  {
+   "cn": "畅销书",
+   "en": "best seller",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.040",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "在一定时期内销量大的一般图书。"
+  },
+  {
+   "cn": "畅销书",
+   "en": "best seller",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.056",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "受到读者热烈欢迎、销售量很高的图书。"
+  },
+  {
+   "cn": "最佳图书",
+   "en": "best book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.055",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "书评家在新近出版的图书中精心挑选出的某一领域或某一类图书中最具有代表性的图书。"
+  },
+  {
+   "cn": "最佳实践",
+   "en": "best practice",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0546",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "在实践中总结出来并被证实有效的技术、方法、过程或者活动。将其应用于某类任务可以期望获得较好的产出结果。"
+  },
+  {
+   "cn": "最佳适配法",
+   "en": "best-fit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0485",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种分配资源的方法。最先分配大小最接近申请量的可用资源。"
+  },
+  {
+   "cn": "畅销品",
+   "en": "best seller",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0662",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售得非常好的商品。"
+  },
+  {
+   "cn": "代销",
+   "en": "best effort",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0239",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "投资银行同意帮助发行公司向公众销售证券，但实际上自己并不购买证券。投资银行仅仅扮演公众与发行公司间的中介，这样，银行就不必承担按约定价格将证券销售给公众的风险。"
+  },
+  {
+   "cn": "尽力而为服务",
+   "en": "best effort",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.119",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "标准的因特网服务模式。在网络接口发生拥塞时，不顾及用户或应用，马上丢弃数据包，直到业务量有所减少为止。"
+  },
+  {
+   "cn": "最佳逼近",
+   "en": "best approximation",
+   "source": "数学名词",
+   "wordNumber": "010.0084",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "古气候证据",
+   "en": "paleoclimate evidence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轶事型证据",
+   "en": "anecdotal evidence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不确定证据",
+   "en": "uncertain evidence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最优价格",
+   "en": "best price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最佳适配[法]",
+   "en": "best-fit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "效标关联证据",
+   "en": "criterion related evidence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "初步证据",
+   "en": "prima facie evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最佳无偏估计量",
+   "en": "best unbiased estimator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可获得的最优价格",
+   "en": "best price obtainable",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "尽力投递",
+   "en": "best-effort delivery",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最佳优先搜索",
+   "en": "best-first search",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鼠患检查",
+   "en": "inspection of rat evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最优通行税率",
+   "en": "best prevailing tariff rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最佳线性无偏估计",
+   "en": "best linear unbiased estimate\",\"BLUE",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最佳线性无偏预测",
+   "en": "best linear unbiased prediction\",\"BLUP",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最佳线性无偏估计量",
+   "en": "best linear unbiased estimator\",\"BLUE",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "侧副隆起",
+   "en": "collateral eminence",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "额隆起",
+   "en": "frontal eminence",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "电子证据",
+   "en": "e-evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字证据",
+   "en": "digital evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机证据",
+   "en": "computer evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链证据",
+   "en": "blockchain evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能证据摘录",
+   "en": "intelligent evidence excerpt",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据电文证据",
+   "en": "data message evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "次优报价",
+   "en": "second best offer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最佳优先搜索",
+   "en": "best-first search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术性证据审查",
+   "en": "review of technical evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多媒体示证",
+   "en": "multimedia demonstration of evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息取证",
+   "en": "information collection for evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以明显优势获胜",
+   "en": "win by evident superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最好成绩标记",
+   "en": "marker of best throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "商业区块链存证",
+   "en": "blockchain-based evidence for business",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证取证技术",
+   "en": "technology for taking notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证证据保全技术",
+   "en": "technology for preserving notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证证据交换技术",
+   "en": "technology for exchanging notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐秀",
+   "en": "Latent Sentiment and Evident Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子合同区块链存证",
+   "en": "blockchain-based evidence for e-contract",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "证据规则",
+   "en": "rules of evidence",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.21",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "理性学科的一个特征，其主要作用在于为评价某种特定研究或理性工作是否具有有效性和价值提供理性标准和依据。"
+  },
+  {
+   "cn": "四重证据法",
+   "en": "quadruple evidence method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0236",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文学人类学研究的“四重证据法”以王国维提出的“二重证据法”为发端，经历了20 世纪“三重证据法”的探索，于21 世纪初形成“四重证据法”方法论。第一重证据指传世文献，第二重证据指地下文献（包括甲骨文、"
+  },
+  {
+   "cn": "证据权重",
+   "en": "weight of evidence, WOE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.32",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对获得的反映某一因素或状况引起生物、系统或（亚）人群健康不良作用的所有证据进行评估和加权的一种方法。"
+  },
+  {
+   "cn": "调查取证",
+   "en": "investigation and evidence collection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "有管辖权的行政机关对决定立案处理的违法案件，为查明案件的违法事实而依法进行的专门调查、获取证据和采取强制措施的活动。"
+  },
+  {
+   "cn": "二重证据法",
+   "en": "method of dual evidence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0071",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国近代学家王国维创立的一种文史研究方法，对20 世纪中国学术研究产生了巨大的影响，主要指“纸上之材料”与“地下之新材料”相互印证。"
+  },
+  {
+   "cn": "循征系统评价",
+   "en": "evidence-based systematic review",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "全面收集所有相关、可靠的高质量临床研究并进行科学的定量合成(荟萃分析)从而得出综合可靠结论的过程"
+  },
+  {
+   "cn": "最佳线性无偏估计量",
+   "en": "best linear unbiased estimator",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.93",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "依照一定规则根据总体的样本的统计值而得到的对总体的估计值。该估价值的期望等于总体的真值，且该估计值的方差在所有的其他估价值的方差中最小。"
+  },
+  {
+   "cn": "最佳矫正视力",
+   "en": "best corrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以最适当镜片进行屈光矫正后所能达到的最佳视力。"
+  },
+  {
+   "cn": "优劣尺度法",
+   "en": "best-worst scaling method,BWS",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "通过让受访者在一系列具有不同属性水平组合的健康产品或服务选项中，不断选择出最好的和最差的选项，评估受访者对选项或属性的偏好的方法。"
+  },
+  {
+   "cn": "被测量真值最佳估计",
+   "en": "best estimate of the true quantity value of the measurand",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "给定实验结果和被测量的所有先验信息，被测量真值概率分布的期望值。"
+  },
+  {
+   "cn": "从妻居",
+   "en": "uxorilocal residence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0384",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "母系氏族时期流行的一种婚姻居住形式，指婚后丈夫到妻子家定居的习俗。它是由于女性地位不断提高由望门居演变而来。由从前的男子偶居女子处改为迁移到女子氏族公社居住，双方在一个共产制经济单位中生活。这种婚姻中"
+  },
+  {
+   "cn": "从夫居",
+   "en": "virilocal residence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0383",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "父系制时代的一种婚姻形式，指夫妇二人婚后居住于丈夫家的习俗。从夫居的产生是由于生产力不断发展，男子在生产中占据主导地位，而妇女沦为从属地位的结果。"
+  },
+  {
+   "cn": "街居制",
+   "en": "residence-based administration",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.10",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "在城市基层域为单位建立的行政管理和社会管理相结合的管理体制。"
+  },
+  {
+   "cn": "同居共财",
+   "en": "residence and wealth sharing",
+   "source": "社会学名词",
+   "wordNumber": "3.1.2.3",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_世系",
+   "subjectName": "世系",
+   "publishYear": "2025",
+   "definition": "家庭所有成员长期稳定地居住在一所或毗邻的几所房屋之内（有户籍制度的情况下都登记在国家的一个户籍之中）、家庭的全部生产资料和生活资料为家庭成员所共有、由家长实施支配权的生活组织方式和家产制度。"
+  },
+  {
+   "cn": "静止",
+   "en": "rest",
+   "source": "马克思主义",
+   "wordNumber": "01.0023",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质运动在一定条件下、一定范围内处于暂时稳定与平衡的状态。静止是暂时的、有条件的、相对的。"
+  },
+  {
+   "cn": "抗链球菌溶血素O试验",
+   "en": "antistreptolysin O test, ASO test",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.2.7",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_炎症指标",
+   "subjectName": "炎症指标",
+   "publishYear": "2025",
+   "definition": "以β链球菌溶血素O为抗原，检测待测血清中相应抗体滴度，用于辅助诊断风湿热的试验。"
+  },
+  {
+   "cn": "民俗带",
+   "en": "folklore belt",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0019",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "同一民俗的传播地带，是依据不同文化区域形成的民俗流传地段。民俗带有确定带和模糊带之分，不同民俗带的边缘构成交插带，同一民俗带中所传承的民俗基本一致。"
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.15",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "对于能罩住口和鼻、与面部密合的防护口罩，或能罩住眼睛、口和鼻、与头面部密合的面罩，确定其对使用者适合程度的检验。"
+  },
+  {
+   "cn": "泄露测试",
+   "en": "leak test",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.13",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于检测封闭腔体的密闭情况，以确保灭菌器能够正常运行并防止可能危险的测试方法。通常应用于消毒灭菌过程的开始阶段，以确保消毒灭菌过程中的蒸汽、环氧乙烷气体、蒸汽甲醛等气体不会发生泄漏。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "negative introspection",
+ "term": "negative introspection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:30:36+00:00",
+ "status": "ok",
+ "note": "variant=negative introspection; 审定公布名词库=1117; 海峡两岸名词对照库=328; 其他来源数据库=28; 预公布名词数据库=53; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "内省性",
+   "en": "introspection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0014",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "一种理性假设，认为当智能体知道或不知道某个事实时，便能知道自己知道或不知道该事实。"
+  },
+  {
+   "cn": "内省",
+   "en": "introspection",
+   "source": "心理学名词",
+   "wordNumber": "04.145",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "个体对自己的内心活动进行观察，并用语言表述出来的过程。"
+  },
+  {
+   "cn": "内省",
+   "en": "introspection",
+   "source": "教育学名词",
+   "wordNumber": "01.239",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "在内心省察自己思想、言行有无过失的一种自我道德教育方法。强调道德教育中的主观能动性，讲究修养方法。"
+  },
+  {
+   "cn": "内倾性收敛",
+   "en": "introspective closure",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.638",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "形式化模型通常将内倾性和收敛原则视为认知代理（主体）的整体性质。"
+  },
+  {
+   "cn": "内省法",
+   "en": "introspective method",
+   "source": "心理学名词",
+   "wordNumber": "04.146",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "通过分析被试报告自我心理活动资料得出结论的心理学研究方法。"
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "测绘学名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "影像色调与景物的明暗程度相反或色彩为互补色的像片。"
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "物理学名词",
+   "wordNumber": "04.0793",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "否定[的]",
+   "en": "negative",
+   "source": "数学名词",
+   "wordNumber": "01.0067",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "负调控",
+   "en": "negative regulation;negative control",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.045",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "转录、翻译或信号转导的调控过程被一些因子（如阻遏蛋白）所阻遏的调控方式。可使基因表达水平下降以及基因产物（RNA或蛋白质）数量减少。"
+  },
+  {
+   "cn": "负均衡",
+   "en": "negative balance",
+   "source": "地质学名词",
+   "wordNumber": "16.05.061",
+   "subjectFullName": "地质学_水文地质学_水文地质调查",
+   "subjectName": "水文地质调查",
+   "publishYear": "2026",
+   "definition": "某一均衡区,在一定均衡期内，总补给量小于总消耗量时的水均衡。"
+  },
+  {
+   "cn": "消极空间",
+   "en": "negative space",
+   "source": "风景园林名词",
+   "wordNumber": "07.0030",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "无计划性、能够让人产生消极的反应，用来分析建筑空间与人之间关系，不能或仅部分满足人的意图的空间。"
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.057",
+   "subjectFullName": "总论_激素_激素分泌方式与作用机制",
+   "subjectName": "激素分泌方式与作用机制",
+   "publishYear": "2025",
+   "definition": "靶器官、组织或细胞分泌的激素反向作用于上级内分泌腺体，进而抑制和减弱其激素分泌的作用，使机体系统达到或保持平衡或稳态的调节方式。"
+  },
+  {
+   "cn": "负［向］选择",
+   "en": "negative selection",
+   "source": "农学名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "一些等位基因在自然或人工选择中被高频率淘汰的现象。"
+  },
+  {
+   "cn": "负催化",
+   "en": "negative catalysis",
+   "source": "精细化工名词",
+   "wordNumber": "08.0327",
+   "subjectFullName": "精细化工_其他精细化学品_催化剂",
+   "subjectName": "催化剂",
+   "publishYear": "2025",
+   "definition": "通过降低反应速率或延缓化学反应的进行，从而抑制反应达到化学平衡的作用。与催化作用相反。"
+  },
+  {
+   "cn": "负吸附",
+   "en": "negative adsorption",
+   "source": "精细化工名词",
+   "wordNumber": "08.0329",
+   "subjectFullName": "精细化工_其他精细化学品_催化剂",
+   "subjectName": "催化剂",
+   "publishYear": "2025",
+   "definition": "吸附质分子吸附到催化剂表面需要更高的能量，导致界面浓度低于本体相时的吸附现象。"
+  },
+  {
+   "cn": "负趋性",
+   "en": "negative taxis",
+   "source": "农学名词",
+   "wordNumber": "10.117",
+   "subjectFullName": "植物保护_作物虫害",
+   "subjectName": "作物虫害",
+   "publishYear": "2025",
+   "definition": "离开刺激源的运动。"
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0027",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_概述_水溶性维生素",
+   "subjectName": "水溶性维生素",
+   "publishYear": "2024",
+   "definition": "代谢产物通过对酶的调节使代谢速度变慢的过程。"
+  },
+  {
+   "cn": "负片",
+   "en": "negative film",
+   "source": "档案学名词",
+   "wordNumber": "05.04.023",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "载有负像的缩微胶片。用N表示。"
+  },
+  {
+   "cn": "反面启发法",
+   "en": "negative heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.163",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "禁止性的方法论规则。告诉科学家要避免什么，以防止把经验反驳的矛头指向硬核。"
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.737",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "控制论中的核心概念之一。在反馈过程中，目标值与输出值的偏差导致偏差缩小的一种控制方式。"
+  },
+  {
+   "cn": "内省",
+   "en": "introspection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "负超螺旋",
+   "en": "negative supercoiling\",\"negative supercoil",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "软性底片",
+   "en": "soft negative\",\"flat negative",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "负趋化性",
+   "en": "negative chemotaxis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "负染色",
+   "en": "negative staining",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负干涉",
+   "en": "negative interference",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负向地性（=负向重力性）",
+   "en": "negative gravitropism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负向重力性，负向地性",
+   "en": "negative gravitropism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负选择",
+   "en": "negative selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负离子",
+   "en": "negative ion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负催化作用",
+   "en": "negative catalysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负电阻",
+   "en": "negative resistance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负吸附",
+   "en": "negative adsorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负共沸混合物",
+   "en": "negative azeotrope",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负催化剂",
+   "en": "negative catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负偏差",
+   "en": "negative deviation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反求诸己",
+   "en": "Introspection",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内省",
+   "en": "Introspection",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假阴性",
+   "en": "false negative",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负压救护车",
+   "en": "negative pressure ambulance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负压房间",
+   "en": "negative pressure room",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "市场准入负面清单",
+   "en": "market access negative list",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据开放负面清单制度",
+   "en": "negative list system for open public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新冠病毒检测为阳性/阴性",
+   "en": "to test positive/negative for the coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "各国应该联手加大宏观政策对冲力度。",
+   "en": "Countries need to leverage and coordinate their macro policies to counteract the negative impact.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阴性偏差",
+   "en": "negative deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阳性结果，而可替代方法却得出未经证实的印性结果，如果后者被证明为阳性，这种偏离便是一个假阴性"
+  },
+  {
+   "cn": "负染",
+   "en": "negative staining",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.3.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "常用于不透光液体标本镜检的染色方法。其染色处理过程并非针对菌体本身，生物膜可用此法进行目测观察。"
+  },
+  {
+   "cn": "否定的辩证法",
+   "en": "negative dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0027",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "出自西奥多·阿多诺（Theodore Adorno）1966年出版的《否定的辩证法》。在对传统辩证法批判的基础上，他不认同传统辩证法的肯定－否定－否定之否定的圆满逻辑，他对人的主体地位进行了反思，由此"
+  },
+  {
+   "cn": "绝对否定",
+   "en": "absolute negative",
+   "source": "马克思主义",
+   "wordNumber": "05.0029",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿多诺提出的概念。他认为从柏拉图到黑格尔的辩证法都服务于形而上学的目的，即把辩证法禁锢在主体的肯定性目的中。他用绝对否定代替否定之否定，声称否定一个否定，并不导致肯定，这只能证明否定得不够彻底，真正的"
+  },
+  {
+   "cn": "反面启发法",
+   "en": "negative heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.163",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "禁止性的方法论规则。告诉科学家要避免什么，以防止把经验反驳的矛头指向硬核。"
+  },
+  {
+   "cn": "负外部效应",
+   "en": "negative externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且不利的影响。"
+  },
+  {
+   "cn": "消极情绪",
+   "en": "negative emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不能使人感到满足，使人与人之间的关系趋于紧张的情绪状态。如恐惧、痛苦、愤怒、忧虑等。"
+  },
+  {
+   "cn": "部分阴性分析法",
+   "en": "partial negative analysis",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.11",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "通过直接观察指示微生物在液体培养基中的生长情况，来间接确定试验菌的存活情况计算D值的方法。"
+  },
+  {
+   "cn": "负压病房",
+   "en": "negative pressure room",
+   "source": "消毒学",
+   "wordNumber": "4.6.18",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过特殊通风装置，使病房的空气按照由清洁区向污染区方向流动，病房内的压力低于室外压力的病房。"
+  },
+  {
+   "cn": "负二项分布",
+   "en": "negative binomial distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.28",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个已知事件在伯努利试验中每次出现的概率是p，在一连串伯努利试验中，一件事件刚好在第r+k次试验中出现第r次的离散概率分布。其概率函数为。"
+  },
+  {
+   "cn": "消极健康观",
+   "en": "negative health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "生物医学模式下基于疾病的发生、发展和转归关系为依据的健康疾病观，以疾病为中心，“健康即无病”。"
+  },
+  {
+   "cn": "多关节型幼年特发性关节炎（RF阴性型）",
+   "en": "polyarticular JIA, RF negative",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "发病最初6个月有5个或以上关节受累的JIA，类风湿因子阴性。"
+  },
+  {
+   "cn": "负压手术室",
+   "en": "negative pressure operating room",
+   "source": "消毒学",
+   "wordNumber": "4.6.16",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "设独立空气处理系统，室内空气静压低于相邻相通环境空气静压，为伴有经呼吸道（空气或飞沫）传播疾病的患者实施手术的房间。"
+  },
+  {
+   "cn": "冲击波负压",
+   "en": "negative pressure of shock wave",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.50",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "稀疏区内低于正常大气压的那部分压力。冲击波的杀伤破坏作用主要是由超压和动压造成的，既往认为其在致伤过程中所起作用不大，但新近的研究表明，在一定条件下，其致伤作用与超压相似。"
+  },
+  {
+   "cn": "负向生长发育长期变化",
+   "en": "negative secular trend in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "以儿童少年青春期延后、成年身高降低为表现的长期变化。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

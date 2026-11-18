@@ -1,0 +1,652 @@
+{
+ "key": "population growth",
+ "term": "population growth",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:37:34+00:00",
+ "status": "ok",
+ "note": "variant=population growth; 审定公布名词库=1591; 海峡两岸名词对照库=715; 其他来源数据库=52; 预公布名词数据库=184; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "种群增长",
+   "en": "population growth ",
+   "source": "草学名词",
+   "wordNumber": "7.0236",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "种群增长",
+   "en": "population growth",
+   "source": "动物学名词",
+   "wordNumber": "7.0374",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "在一定条件下建立的种群随时间进程而逐渐增大的过程。"
+  },
+  {
+   "cn": "种群增长",
+   "en": "population growth",
+   "source": "植物学名词",
+   "wordNumber": "13.0138",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "种群大小随时间而逐渐增加的过程。"
+  },
+  {
+   "cn": "种群增长",
+   "en": "population growth",
+   "source": "昆虫学名词",
+   "wordNumber": "06.045",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "在一定条件下建立的昆虫种群随时间进程而逐渐增大的过程。"
+  },
+  {
+   "cn": "种群增长曲线",
+   "en": "population growth curve",
+   "source": "动物学名词",
+   "wordNumber": "7.0377",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "描述种群增长速率的曲线。"
+  },
+  {
+   "cn": "城市人口增长",
+   "en": "urban population growth",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.042",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）总体规划",
+   "subjectName": "城市（镇）总体规划",
+   "publishYear": "2021",
+   "definition": "在一定时期内由出生、死亡和迁入、迁出等因素的消长，导致城市人口数量增加或减少的变动状况。"
+  },
+  {
+   "cn": "人口零增长",
+   "en": "zero population growth",
+   "source": "计划生育名词",
+   "wordNumber": "01.112",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "出生人数加迁入人数正好等于死亡人数加迁出人数。实际是一个与生育替代率有关的概念，是人口增减处于平衡状态的指标。即意味着生育更替水平和速度是稳定的。"
+  },
+  {
+   "cn": "人口负增长",
+   "en": "negative population growth",
+   "source": "计划生育名词",
+   "wordNumber": "01.113",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "人口规模的净下降。即出生人数加迁入人数低于死亡人数加迁出人数。"
+  },
+  {
+   "cn": "城市人口增长率",
+   "en": "urban population growth rate",
+   "source": "建筑学名词",
+   "wordNumber": "07.0022",
+   "subjectFullName": "建筑学_城乡规划_城乡规划总论",
+   "subjectName": "城乡规划总论",
+   "publishYear": "2014",
+   "definition": "一年内城市人口增长的绝对数量与同期该城市年平均总人口数之比。"
+  },
+  {
+   "cn": "蜂群增长率",
+   "en": "population growth rate of colony",
+   "source": "畜牧学名词",
+   "wordNumber": "09.100",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂分类、育种",
+   "subjectName": "蜜蜂分类、育种",
+   "publishYear": "2020",
+   "definition": "单位时间内蜂群中蜜蜂数量增减的比率。由蜂群繁殖力、工蜂寿命、发育时龄、抗病力、抗逆性、蜜粉源条件等因素决定。"
+  },
+  {
+   "cn": "城市人口自然增长",
+   "en": "natural growth of urban population",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.043",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）总体规划",
+   "subjectName": "城市（镇）总体规划",
+   "publishYear": "2021",
+   "definition": "人口再生产的变化量。即出生人数与死亡人数的净差值。"
+  },
+  {
+   "cn": "人口自然增长率",
+   "en": "natural growth rate of population",
+   "source": "经济学名词",
+   "wordNumber": "07.076",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "在一定时期内(通常为一年)人口自然增加数(出生人数减去死亡人数之差)与该时期内平均人数(或期中人数)之比。通常用千分率表示，在数值上等于人口出生率与死亡率之差。"
+  },
+  {
+   "cn": "群体",
+   "en": "population",
+   "source": "农学名词",
+   "wordNumber": "06.303",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在一定的时间和空间范围内，具有一定共同特性个体的集合。"
+  },
+  {
+   "cn": "居群",
+   "en": "population ",
+   "source": "草学名词",
+   "wordNumber": "4.0651",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "种群",
+   "en": "population",
+   "source": "动物学名词",
+   "wordNumber": "7.0328",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "占有一定地域（空间）的一群同种个体的自然组合。"
+  },
+  {
+   "cn": "群体",
+   "en": "population",
+   "source": "畜牧学名词",
+   "wordNumber": "04.288",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "一个物种内由可互相交配的个体组成的集合。可以是一个品种或一个品系的所有个体，也可以是品种(系)内在某个地区或某个场内的所有个体。"
+  },
+  {
+   "cn": "总体",
+   "en": "population",
+   "source": "畜牧学名词",
+   "wordNumber": "04.621",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "一个统计问题研究对象的全体，是具有某种(或某些)共同特征的元素的集合。"
+  },
+  {
+   "cn": "人口",
+   "en": "population",
+   "source": "计划生育名词",
+   "wordNumber": "01.081",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "生活在一定社会生产方式、一定时间、一定地域，实现其生命活动并构成社会生活主体，具有一定数量和质量的人所组成的社会群体。"
+  },
+  {
+   "cn": "总体",
+   "en": "population",
+   "source": "冶金学名词",
+   "wordNumber": "04.0687",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "研究对象的所有可能的观测结果。"
+  },
+  {
+   "cn": "种群",
+   "en": "population",
+   "source": "植物学名词",
+   "wordNumber": "13.0120",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "在特定时空中生活、相互影响、彼此能交配繁殖的同种个体的集合。"
+  },
+  {
+   "cn": "种群增长",
+   "en": "population growth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种群增长",
+   "en": "population growth",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种群增长",
+   "en": "population growth",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "种群生长",
+   "en": "population growth",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "种群增长率",
+   "en": "population growth rate",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种群增长曲线",
+   "en": "population growth curve",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种群增长率",
+   "en": "population growth rate",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种群增长曲线",
+   "en": "population growth curve",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛种群生长",
+   "en": "logistic population growth",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "几何种群增长",
+   "en": "geometric population growth",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种群零增长",
+   "en": "zero population growth",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛种群增长",
+   "en": "logistic population growth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "种群指数生长",
+   "en": "exponential population growth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "居群（=种群）",
+   "en": "population",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种群，居群",
+   "en": "population",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群体",
+   "en": "population",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总体",
+   "en": "population",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总体",
+   "en": "population",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "种群",
+   "en": "population",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种群",
+   "en": "population",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "总体",
+   "en": "population",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据增长",
+   "en": "data growth",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "包容性增长",
+   "en": "inclusive growth",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "易感人群",
+   "en": "susceptible/vulnerable population",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总体",
+   "en": "population",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.43",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "研究者所要研究的某种事物的全体范围。"
+  },
+  {
+   "cn": "种群",
+   "en": "population",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0225",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "同一时间生活在一定自然区域内同种生物的所有个体。"
+  },
+  {
+   "cn": "全人群",
+   "en": "whole population",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.123",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某一地区作为研究对象的全部人口，包括食用关注食品的人群和非食用人群"
+  },
+  {
+   "cn": "易感人群",
+   "en": "susceptible population",
+   "source": "消毒学",
+   "wordNumber": "4.6.7",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "对某种传染病缺乏特异性免疫力而容易被感染的人群。"
+  },
+  {
+   "cn": "边缘群体",
+   "en": "marginal population",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.10",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "因与主流文化、主流价值观或主导社会体制不同而被边缘化的群体，其中那些处于两种文化边缘的人群，既不为原来的文化又不为现在的文化群体所接纳；那些价值定向与社会主导的规范相异的人群，常被社会视为“异己”人群"
+  },
+  {
+   "cn": "种群生态理论",
+   "en": "population ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "探讨在特定边界内具有共同形态的全部组织的创立、成长及死亡的过程及其与环境转变的关系的理论。强调环境对组织的选择和组织对环境的适应，是组织学研究借用生物种群生态学方法的成果。由汉南(M.T.Hannan"
+  },
+  {
+   "cn": "人口增长",
+   "en": "population increase",
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "特定时间内，出生、死亡和迁移的相互作用导致人口总量的增加。"
+  },
+  {
+   "cn": "稳定人口",
+   "en": "stable population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "在封闭人口系统中，人口的出生率和死亡率保持稳定，人口总数以固定的速率持续增加（或减少）的人口。稳定人口是较静止人口更接近现实的一种人口模型，现已成为人口数据分析和人口预测研究的必不可少的方法。"
+  },
+  {
+   "cn": "封闭人口",
+   "en": "closed population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口中没有发生迁移活动，出生和死亡成为影响人口规模变动的两个因素。"
+  },
+  {
+   "cn": "人口惯性",
+   "en": "population momentum",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.8",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口达到生育更替水平后继续增长的趋势。"
+  },
+  {
+   "cn": "人口分布",
+   "en": "population distribution",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "人口居住与分布的模式。"
+  },
+  {
+   "cn": "人口密度",
+   "en": "population density",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "单位面积土地上的人口数。例如，每平方英里土地上的人口数，又比如每平方公里耕地上的人口数。"
+  },
+  {
+   "cn": "人口登记",
+   "en": "population register",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "政府搜集人口数据的制度，这个制度要求连续记录所有或部分人口信息及社会经济特征。"
+  },
+  {
+   "cn": "常住人口",
+   "en": "resident population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "经常居住在某一地区的人口，是在普查区内经常居住的人数。包括常住该地而临时外出的人口，不包括临时寄住的人口。"
+  },
+  {
+   "cn": "户籍人口",
+   "en": "household population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "一般分为家庭户人口与集体户人口。家庭户人口是指有婚姻、血缘或收养关系，居住在一起并分别注册为一户的全部人口，以主管人为户主。单身居住也注册为一个家庭户，本人即户主，也属于家庭户人口。集体户人口是因工作"
+  },
+  {
+   "cn": "农业人口",
+   "en": "agricultural population",
+   "source": "马克思主义",
+   "wordNumber": "03.0127",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "农业人口指从事农业生产（包括林、牧、渔业）和以农业收入为主要生活来源的全部人口，包括实际从事农业生产的人口以及由他们所抚养的人口。按照马克思主义理论，乡村农业人口的分散和大城市工业人口的集中，仅仅适应"
+  },
+  {
+   "cn": "脆弱人群",
+   "en": "vulnerable population",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.1.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "由于遗传、生理等特点的缘故，对自然环境、社会环境适应能力相对弱，对致病因素的抵御能力较差、自食其力能力低的部分健康人群。"
+  },
+  {
+   "cn": "易感人群",
+   "en": "susceptible population",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.2.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "对某一特定病因缺乏足够抵抗力的人群。暴露于这种病因后，可能会受到感染或发病。"
+  },
+  {
+   "cn": "人群分布",
+   "en": "population distribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.29",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "疾病在不同人群中的分布特征。一般按人群的不同年龄、性别、职业、种族等来分组描述疾病的发生、死亡等强度（频率），可以帮助确定危险人群和探索致病因素。"
+  },
+  {
+   "cn": "流动人口",
+   "en": "migrant population",
+   "source": "社会医学名词",
+   "wordNumber": "3.14",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "流动人口",
+   "publishYear": "2025",
+   "definition": "暂时离开常住地的短期迁移人口。可按空间尺度分类，如流动距离（省际、县际、乡际）或流向（农村与城市间流动）；按时间尺度划分为定期流动（每日、季节性、周期性）与非定期流动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

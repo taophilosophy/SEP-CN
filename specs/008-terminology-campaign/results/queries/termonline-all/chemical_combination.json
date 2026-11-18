@@ -1,0 +1,772 @@
+{
+ "key": "chemical combination",
+ "term": "chemical combination",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:28:58+00:00",
+ "status": "ok",
+ "note": "variant=chemical combination; 审定公布名词库=1814; 海峡两岸名词对照库=548; 其他来源数据库=58; 预公布名词数据库=138; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "化合",
+   "en": "chemical combination",
+   "source": "化学名词",
+   "wordNumber": "01.0330",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "由两种或者两种以上的单质或化合物发生反应，生成一种化合物的过程。例如氢气和氧气化合生成水。"
+  },
+  {
+   "cn": "化合水",
+   "en": "chemical combined water",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.240",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "以<img src='/root/syzx/static/spz/huagongII1.02.240.01.png'/>、<img src='/root/syzx/static/spz/huagong"
+  },
+  {
+   "cn": "合并",
+   "en": "combination",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1054",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "对于无法取消而又必需的工序或动作，通过合并或将多人操作改进成单人或单台操作，以实现省时简化的方法研究分析原则。"
+  },
+  {
+   "cn": "组合化",
+   "en": "combination",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0741",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "对不同的显性知识进行组织与加工的过程。比如撰写报告、构建模型等。"
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "微生物学名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "由属名和一个或多个加词组成的属以下、种或种以下分类单元的名称。"
+  },
+  {
+   "cn": "搭配",
+   "en": "combination",
+   "source": "语言学名词",
+   "wordNumber": "04.260",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "指词项之间的习惯性同现。例如，“白”表示“雪或霜的颜色”时经常和实体搭配，而表示“没有效果”时经常和动作行为搭配，因此也可以说搭配体现了词的意义上的组合关系。"
+  },
+  {
+   "cn": "联合",
+   "en": "combination",
+   "source": "医学名词 第五分册",
+   "wordNumber": "05.036",
+   "subjectFullName": "医学_眼科学_眼屈光学",
+   "subjectName": "眼屈光学",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "数学名词",
+   "wordNumber": "03.0007",
+   "subjectFullName": "数学_组合学·一般数学系统_组合学",
+   "subjectName": "组合学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "联合收割机",
+   "en": "combine; combine harvester",
+   "source": "农学名词",
+   "wordNumber": "14.086",
+   "subjectFullName": "农业工程_农业机械化与装备",
+   "subjectName": "农业机械化与装备",
+   "publishYear": "2025",
+   "definition": "能够一次完成谷物收割、脱粒、分离和清选作业的收获联合作业机械。按行走和动力配置分为自走式、悬挂式和牵引式，按谷物喂入方式分为全喂入式和半喂入式。"
+  },
+  {
+   "cn": "化学品",
+   "en": "chemical",
+   "source": "林学名词",
+   "wordNumber": "06.398",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "森林经营中所使用的化肥、杀虫剂、杀菌剂、除草剂、激素等化学物质。"
+  },
+  {
+   "cn": "化学品",
+   "en": "chemicals",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "01.011",
+   "subjectFullName": "化工（二）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "各种化学元素组成的天然或人造的单质、化合物和混合物。"
+  },
+  {
+   "cn": "化学物质",
+   "en": "chemical substance,chemicals",
+   "source": "化学名词",
+   "wordNumber": "01.0060",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "天然或人工合成的单质与化合物的总称。"
+  },
+  {
+   "cn": "转换接箍",
+   "en": "combination coupling,combination collar",
+   "source": "石油名词",
+   "wordNumber": "12.0659",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "混合性皱纹",
+   "en": "combination wrinkle;combination line",
+   "source": "整形外科名词",
+   "wordNumber": "14.113",
+   "subjectFullName": "整形外科_头颈部整形与美容_面颈部美容手术",
+   "subjectName": "面颈部美容手术",
+   "publishYear": "2026",
+   "definition": "皮肤组织松弛、表情肌收缩等多种原因引起的皱纹。机制复杂，如鼻唇沟皱纹、口周皱纹等。"
+  },
+  {
+   "cn": "联合基础",
+   "en": "combined footing,combined foundation",
+   "source": "土木工程名词",
+   "wordNumber": "03.170",
+   "subjectFullName": "土木工程_土力学与地基基础_浅基础",
+   "subjectName": "浅基础",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "化学去壳",
+   "en": "chemical decladding,chemical decanning",
+   "source": "化学名词",
+   "wordNumber": "06.0597",
+   "subjectFullName": "化学_放射化学_核燃料循环化学",
+   "subjectName": "核燃料循环化学",
+   "publishYear": "2016",
+   "definition": "用化学试剂溶解的方法去除乏燃料元件的包壳。"
+  },
+  {
+   "cn": "化学外加剂",
+   "en": "chemical admixture,chemical additive",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0712",
+   "subjectFullName": "材料科学技术_无机非金属材料_胶凝材料及混凝土",
+   "subjectName": "胶凝材料及混凝土",
+   "publishYear": "2011",
+   "definition": "为改善水泥净浆、砂浆和混凝土某些性能而掺入的化学品。依靠物理、化学或物理化学作用，常用的有减水剂、引气剂、缓凝剂、早强剂、速凝剂、防水剂等。"
+  },
+  {
+   "cn": "化学清洗",
+   "en": "chemical cleaning,chemical picking",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0370",
+   "subjectFullName": "海洋科学技术_海洋技术_海水资源开发技术",
+   "subjectName": "海水资源开发技术",
+   "publishYear": "2007",
+   "definition": "利用酸、碱、有机螯合剂、分散剂等化学药剂，将设备内附着的水垢、污泥等沉积物溶解、剥离的过程。"
+  },
+  {
+   "cn": "化学品船",
+   "en": "chemical tanker,chemical carrier",
+   "source": "船舶工程名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "船舶工程_船舶种类及船舶检验、国际公约和证书",
+   "subjectName": "船舶种类及船舶检验、国际公约和证书",
+   "publishYear": "1998",
+   "definition": "运载液态化学物质的液货船。"
+  },
+  {
+   "cn": "组合排水",
+   "en": "combination drainage",
+   "source": "农学名词",
+   "wordNumber": "12.161",
+   "subjectFullName": "农业水利_农田排水",
+   "subjectName": "农田排水",
+   "publishYear": "2025",
+   "definition": "采用不同类型排水措施的组合，排除多余的地表水和地下水的措施。"
+  },
+  {
+   "cn": "化合",
+   "en": "chemical combination",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "组合器",
+   "en": "combiner",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "化学品",
+   "en": "chemical",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化学物质",
+   "en": "chemicals\",\"chemical substance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "化学外加剂",
+   "en": "chemical additive\",\"chemical admixture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "化学清洗",
+   "en": "chemical cleaning\",\"chemical picking",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双名组合",
+   "en": "binary combination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "串级组合",
+   "en": "cascade combination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合音",
+   "en": "combination tone",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组合电极",
+   "en": "combination electrode",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组合峰",
+   "en": "combination line",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "物种组合",
+   "en": "species combination",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混合型债券",
+   "en": "combination bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "联合交易",
+   "en": "combination deal",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "联合配额",
+   "en": "combination quota",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "作物组合",
+   "en": "crop combination",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "亲本组合",
+   "en": "parental combination",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据组合",
+   "en": "data combination",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combine\",\"combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合拳",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配合",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作组合",
+   "en": "complex combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编排扣分",
+   "en": "combination fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双重障碍",
+   "en": "double combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式多重障碍",
+   "en": "closed combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开放式多重障碍",
+   "en": "open combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "战术配合",
+   "en": "tactical combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全能项目",
+   "en": "combined event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合防守",
+   "en": "combined marking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全能项目",
+   "en": "combined event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人旋转",
+   "en": "combined spin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合并",
+   "en": "combination",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.4",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "通过资产收购或者合同订立等方式，实现两个或多个卫生服务机构合为一体的行为。"
+  },
+  {
+   "cn": "化合氯",
+   "en": "combined chlorine",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.1.4",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "水中氯与氨的化合物，其中包括NH2Cl、NHCl2、NHCl3等。"
+  },
+  {
+   "cn": "复合伤",
+   "en": "combined injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体同时或相继遭受两种或两种以上不同性质致伤因素的共同作用而引起的复合损伤。"
+  },
+  {
+   "cn": "复合效应",
+   "en": "combined effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.4.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "机体遭受两种或两种以上致伤因素的作用后所产生的损伤效应。单一伤之间可相互影响，使原单伤的表现不完全相同于单独发生的损伤。"
+  },
+  {
+   "cn": "联合免疫缺陷",
+   "en": "combined immunodeficiencies",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "一组因淋巴细胞出现发育缺陷或Ｔ细胞、Ｂ细胞之间相互作用信号障碍，而引起的一类体液免疫与细胞免疫同时缺陷导致的疾病。患者通常为新生儿或婴幼儿。根据免疫缺陷致的病情严可分为严重联合免疫缺陷病和部分性联合免"
+  },
+  {
+   "cn": "化学再生",
+   "en": "chemical recycling",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.24",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "再生过程中，回收塑料的基础聚合物分子分解为单体/其他起始物、低聚物，再重新聚合成基础聚合物的再生技术。"
+  },
+  {
+   "cn": "化学灾害",
+   "en": "chemical disaster",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学灾害",
+   "subjectName": "化学灾害",
+   "publishYear": "2025",
+   "definition": "由于人为、技术、战争或者自然的因素所造成的化学物生产、贮存、运输和使用过程中发生的重大和特大突发性化学品泄露事故，并由此引起的人员伤害和社会危害。"
+  },
+  {
+   "cn": "化学监测",
+   "en": "chemical monitoring",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.2",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "使用化学指示物对灭菌过程或灭菌效果进行的监测。"
+  },
+  {
+   "cn": "化学消毒",
+   "en": "chemical disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1",
+   "subjectFullName": "消毒学_消毒技术",
+   "subjectName": "消毒技术",
+   "publishYear": "2025",
+   "definition": "使用化学制剂清除或杀灭有害微生物，以预防控制感染发生和传染病传播的处理。"
+  },
+  {
+   "cn": "化学指示物",
+   "en": "chemical indicator",
+   "source": "消毒学",
+   "wordNumber": "3.1.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "根据暴露于某种灭菌（消毒）程序所产生的化学或物理变化，在一个或多个预定程序参数上显现变化的指示器材。"
+  },
+  {
+   "cn": "化学性废物",
+   "en": "chemical waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.6",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "具有毒性、腐蚀性、易燃性、反应性的废弃化学物品。"
+  },
+  {
+   "cn": "化学法处理",
+   "en": "chemical treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2.4",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "采用化学消毒剂杀灭医疗废物中的病原微生物，消除其潜在的感染性危害的处理方法。"
+  },
+  {
+   "cn": "化学蚀刻",
+   "en": "chemical etching",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "固体核径迹探测器的辐射损伤经过化学试剂蚀刻形成可观察径迹的过程。"
+  },
+  {
+   "cn": "化学剂量计",
+   "en": "chemical dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.7",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "将含有稀溶质的溶液密封在辐照容器内制成的一类剂量计的总称。"
+  },
+  {
+   "cn": "化学去污",
+   "en": "chemical decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.11",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "用化学方法去除或降低物体表面放射性污染的过程。"
+  },
+  {
+   "cn": "化学性环境污染",
+   "en": "chemical pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "由于自然灾害、工业生产、人类活动等使地区环境的化学组成发生变化，使得对人体有害的化学物质成分增加。"
+  },
+  {
+   "cn": "化学分析法",
+   "en": "chemical analysis",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "通过收集食物消费量，并在实验室中测定被调查对象一日内全部食物的营养成分，准确地获得各种营养素和生物活性成分摄入量的膳食调查方法。"
+  },
+  {
+   "cn": "化学性污染",
+   "en": "chemical pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "由各种有毒有害的有机和无机化学物质对食品造成的污染。"
+  },
+  {
+   "cn": "化学侦检法",
+   "en": "chemical detection",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.7.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂侦检",
+   "subjectName": "化学战剂侦检",
+   "publishYear": "2025",
+   "definition": "根据毒剂与化学试剂反应后生成的不同颜色、沉淀或荧光等判断有无毒剂存在、鉴别毒剂种类及染毒程度的方法。"
+  },
+  {
+   "cn": "化学洗消法",
+   "en": "chemical decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "通过消毒剂与毒剂的化学反应破坏毒剂原有结构，使之成为无毒或毒性较低的物质的洗消方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

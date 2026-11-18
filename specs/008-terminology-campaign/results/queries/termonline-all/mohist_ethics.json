@@ -1,0 +1,792 @@
+{
+ "key": "mohist ethics",
+ "term": "Mohist ethics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:43:38+00:00",
+ "status": "ok",
+ "note": "variant=Mohist ethics; 审定公布名词库=475; 海峡两岸名词对照库=111; 其他来源数据库=41; 预公布名词数据库=288; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.127",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "从价值和信念体系中产生并涉及权利和义务的道德规范。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "核医学名词",
+   "wordNumber": "06.0239",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "研究人与人、人与社会之间行为规范和原则的一门科学。"
+  },
+  {
+   "cn": "道德标准",
+   "en": "ethics",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0945",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "一系列解释行为好坏对错的行为准则。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "教育学名词",
+   "wordNumber": "01.094",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "生态伦理学",
+   "en": "ecological ethics",
+   "source": "风景园林名词",
+   "wordNumber": "12.0103",
+   "subjectFullName": "风景园林_风景园林生态_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2025",
+   "definition": "研究生态的伦理价值和人类对待自然的行为规范的一门边缘学科。"
+  },
+  {
+   "cn": "环境伦理",
+   "en": "environmental ethics",
+   "source": "风景园林名词",
+   "wordNumber": "13.0011",
+   "subjectFullName": "风景园林_其他_景观社会学",
+   "subjectName": "景观社会学",
+   "publishYear": "2025",
+   "definition": "人类与自然的道德关系，也包括与环境有关的具体的道德、价值和行为规范。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.434",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "技术伦理",
+   "en": "technological ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.115",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "约束和调节技术行为的道德规范和价值观念的总称。"
+  },
+  {
+   "cn": "救生艇伦理学",
+   "en": "lifeboat ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.246",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "20世纪60年代由加勒特·哈丁（Garret Hardin）提出。将国家比作救生艇，能够乘坐救生艇的成员有限，救生艇上的人们要想过上好生活，必须用道德约束个人活动，避免人口盲目增加，而穷国人口增加破坏"
+  },
+  {
+   "cn": "研究伦理",
+   "en": "research ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.006",
+   "subjectFullName": "自然辩证法_科技伦理_科学伦理",
+   "subjectName": "科学伦理",
+   "publishYear": "2024",
+   "definition": "研究科学研究活动中应该遵循的基本伦理原则和道德规范，以及对科学研究活动的伦理评价和审查。当科学研究活动的对象、过程和结果涉及生态安全、社会安全和人身安全，以及对人格尊严、自主选择和合法权益的保护时，在"
+  },
+  {
+   "cn": "纳米伦理",
+   "en": "nano ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.015",
+   "subjectFullName": "自然辩证法_科技伦理_高技术伦理",
+   "subjectName": "高技术伦理",
+   "publishYear": "2024",
+   "definition": "研究纳米技术研究、开发和应用中的伦理问题的应用伦理学分支。来自人们对纳米技术带来的不确定性的担忧，具体涉及纳米毒理学、纳米机器人、纳米鸿沟等方面的伦理问题，需要对纳米技术进行预测性伦理评估和阶段性伦理"
+  },
+  {
+   "cn": "功利主义伦理学",
+   "en": "utilitarianism ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.027",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "一个西方伦理学分支。在技术伦理方面主要体现为强调技术应用要以对绝大多数人有益的最大的善为目的，注重对技术应用的功利效果进行伦理评价，注重技术应用的后果而不是技术人员最初的意向和应承担的义务或责任。"
+  },
+  {
+   "cn": "预防伦理",
+   "en": "precautionary ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.045",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "以预防原则为基础的伦理观念和行为。涉及对科学、技术与工程可能引起的公共危害或者环境风险进行伦理视角的预测，并且采取负责任的相应措施以避免危害和风险的发生。预防伦理注重通过对行为的后果进行预测，来避免将"
+  },
+  {
+   "cn": "商谈伦理",
+   "en": "discourse ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.053",
+   "subjectFullName": "自然辩证法_科技伦理_工程伦理",
+   "subjectName": "工程伦理",
+   "publishYear": "2024",
+   "definition": "由J. 哈贝马斯（J. Habermas）提出的伦理理念。主张一切道德规范的有效性要由交谈获得的一致同意来保证。商谈伦理体现了对不同道德主体地位的尊重，把道德的理性基础从“意识理性”转换为“交往合理性"
+  },
+  {
+   "cn": "伦理委员会",
+   "en": "ethics committee",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.083",
+   "subjectFullName": "自然辩证法_科技伦理_科技伦理教育",
+   "subjectName": "科技伦理教育",
+   "publishYear": "2024",
+   "definition": "一般用于医学领域，指的是由医学专业人员、法律专家及非医务人员组成的独立组织。其职责为核查临床试验方案及附件是否合乎道德，确保受试者的安全、健康和权益受到保护。"
+  },
+  {
+   "cn": "医学伦理学",
+   "en": "medical ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.103",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "运用伦理学的理论框架和方法去研究临床医学、公共卫生学、医学科研实践，调节医务人员与患者关系的学科。属于应用伦理学范畴和医学学科体系的重要组成部分。"
+  },
+  {
+   "cn": "美德论",
+   "en": "virtue ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.105",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "研究和思考人要生活得好或实现卓越应该具备的品格或道德品质即美德的学说。属于规范伦理学的一种。在西方哲学中该学说的创立者是柏拉图和亚里士多德，在东方则是孔子和孟子。"
+  },
+  {
+   "cn": "性伦理学",
+   "en": "sex ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.155",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "应用伦理学的一个分支。主要研究人的性行为对美好或美德生活的贡献，并试图确定人们在进行某些性行为时应该遵循或必须避免的道德义务。"
+  },
+  {
+   "cn": "生殖伦理学",
+   "en": "reproductive ethics",
+   "source": "生殖医学名词",
+   "wordNumber": "12.001",
+   "subjectFullName": "生殖医学_生殖伦理",
+   "subjectName": "生殖伦理",
+   "publishYear": "2022",
+   "definition": "研究生殖行为规范和原则的科学。"
+  },
+  {
+   "cn": "算法伦理",
+   "en": "algorithm ethics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.084",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "算法在设计和运行过程中应恪守的价值观念和道德规范。算法伦理关涉的议题有：算法本身的自主性、算法偏见、算法歧视、算法透明性、责任分配、企业对算法所得数据的控制、个人与集体的隐私安全等。新闻传播领域聚焦于"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合乎道德的投资",
+   "en": "ethical investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "伦理守则,伦理规范",
+   "en": "code of ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "湿对流",
+   "en": "moist convection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿绝热线",
+   "en": "moist adiabat",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿模式",
+   "en": "moist model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿润气候",
+   "en": "moist climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿舌",
+   "en": "moist tongue",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿物料",
+   "en": "moist materials",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "湿草甸",
+   "en": "moist meadow",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "湿森林",
+   "en": "moist forest",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "湿制颗粒",
+   "en": "moist granulation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "片岩",
+   "en": "schist",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "片岩",
+   "en": "schist",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "环境伦理",
+   "en": "environmental ethnics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "起重机",
+   "en": "hoist",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "湿绝热过程",
+   "en": "moist adiabatic process",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿斜压不稳定",
+   "en": "moist baroclinic instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿热灭菌",
+   "en": "moist heat sterilization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "Ethics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据伦理",
+   "en": "Data Ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络伦理",
+   "en": "Internet ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理算法",
+   "en": "ethical algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能准则（IBM）",
+   "en": "AI Ethics (IBM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理数据管理协议",
+   "en": "ethical data management protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慎独",
+   "en": "Shendu&nbsp;(Ethical Self-cultivation)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党的作风建设",
+   "en": "promoting ethical standards within the Party",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数权自律",
+   "en": "Self-Regulation and Professional Ethics for Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网行业职业道德建设",
+   "en": "development of professional ethics in the Internet industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国互联网行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Internet Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《人工智能行业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for the AI Industry (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国大数据行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Big Data Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国数据中心行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Data Center Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网终端安全服务自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Internet Terminal Security Services (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《移动通信转售企业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Mobile Communication Resale Enterprises (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网搜索引擎服务自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Internet Search Engine Services (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中关村大数据产业联盟行业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Zhongguancun Big Data Industry Alliance (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "社会成员与其他社会成员和外界互动中应当遵守的基于社会习俗和道德的规范总和。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人相处的各种道德准则及规范的理论或道理。"
+  },
+  {
+   "cn": "美德伦理学",
+   "en": "virtue ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.131",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "将“美德”视为伦理学的基本范畴、把品格判断作为最基本的道德判断，强调人应当过一种有德性的生活的伦理学理论。"
+  },
+  {
+   "cn": "经济伦理",
+   "en": "economic ethics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.63",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "调节和规范人们从事经济活动的一系列伦理原则和道德规范。是人们通过社会化习得的关于处理经济活动以及其中涉及的人际关系的道德伦理规定。"
+  },
+  {
+   "cn": "商谈伦理",
+   "en": "discourse ethics",
+   "source": "马克思主义",
+   "wordNumber": "05.0038",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯认为交往行为实质上是一种商谈关系，强调在商谈伦理规导下，通过主体之间理解达到合理一致的真理，实现交往理性从理论向实践层面的转换，最终在社会成员之间相互理解和平相处的基础上达到文明进步目标。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.207",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "治疗伦理",
+   "en": "therapeutic ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.033",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "临床治疗过程中涉及的伦理问题及规范。"
+  },
+  {
+   "cn": "诊断伦理",
+   "en": "diagnostic ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.022",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在疾病诊断过程中约束和调节医疗行为的道德规范和价值观念的总称。"
+  },
+  {
+   "cn": "儿科伦理",
+   "en": "pediatric ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.064",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在对新生儿至14 岁患者疾病诊治过程中涉及的伦理问题及应遵循的伦理规范。包括细心采集病史，及时诊治；密切观察病情，精心护理；重视儿童保护工作等。"
+  },
+  {
+   "cn": "疾病伦理",
+   "en": "disease ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.006",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "人们在看待和处理疾病问题时所涉及的伦理问题及规范。"
+  },
+  {
+   "cn": "医学伦理学",
+   "en": "medical ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.005",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "研究临床医学、公共卫生、医学科研等方面的医学道德问题，确立医学活动中应该遵循的道德规范的学科。"
+  },
+  {
+   "cn": "临床伦理学",
+   "en": "clinical ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.17",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究医学伦理学的基本理论、原则和规范在临床医学和临床实践中具体运用的伦理学理论。重点研究医患之间、医务人员之间及医务人员与社会之间的伦理关系，涉及临床诊疗、检查、康复及新技术临床应用等伦理问题。"
+  },
+  {
+   "cn": "死亡伦理",
+   "en": "death ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.001",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "对死亡现象及其本质规律与意义的伦理判断、伦理规范和伦理原则体系。"
+  },
+  {
+   "cn": "心理治疗伦理",
+   "en": "psychotherapy ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1909999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "心理治疗从业人员在心理治疗过程中应当遵循的伦理规范和要求。"
+  },
+  {
+   "cn": "康复伦理",
+   "en": "rehabilitation ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.07",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在康复医疗活动中涉及的伦理问题及应遵循的伦理规范。"
+  },
+  {
+   "cn": "应用伦理学",
+   "en": "applied ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.136",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "以伦理学的理论与规范为指导，研究和解决现实生活中的道德问题的伦理学学科。研究领域包括个人生活、家庭生活、职业生活、公共生活、经济生活、政治生活及国际关系等诸多方面。"
+  },
+  {
+   "cn": "健康伦理",
+   "en": "health ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.052",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "研究人们维护自身健康、促进他人健康和公共健康等活动中的伦理问题及应遵循的伦理规范和道德要求。"
+  },
+  {
+   "cn": "性伦理学",
+   "en": "sex ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.193",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "应用伦理学的一个分支。主要研究人的性行为对美好或美德生活的贡献，并试图确定人们在进行某些性行为时应该遵循或必须避免的道德义务。"
+  },
+  {
+   "cn": "人格主义伦理学",
+   "en": "personalist ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.138",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为人格是第一性的实在，是一种精神性的道德品格，是支配、控制或调整自我的“欲望”“意志”和“感情”的精神或道德主体的伦理学理论。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

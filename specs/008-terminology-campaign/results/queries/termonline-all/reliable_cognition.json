@@ -1,0 +1,782 @@
+{
+ "key": "reliable cognition",
+ "term": "reliable cognition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:43:11+00:00",
+ "status": "ok",
+ "note": "variant=reliable cognition; 审定公布名词库=1322; 海峡两岸名词对照库=411; 其他来源数据库=44; 预公布名词数据库=54; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "行为医学名词",
+   "wordNumber": "19.01",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "测验的可靠程度。反映测量结果的一致性、再现性和稳定性。大小用信度系数衡量，反映在多大程度上可以保证测量工具本身的精确性。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0218",
+   "subjectFullName": "机械工程（一）_机械强度_结构可靠性",
+   "subjectName": "结构可靠性",
+   "publishYear": "2021",
+   "definition": "产品在规定的条件下和规定的时间内完成规定功能的能力。"
+  },
+  {
+   "cn": "可靠度",
+   "en": "reliability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0221",
+   "subjectFullName": "机械工程（一）_机械强度_结构可靠性",
+   "subjectName": "结构可靠性",
+   "publishYear": "2021",
+   "definition": "产品在规定的条件下和规定的时间内，完成规定功能的概率。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.509",
+   "subjectFullName": "畜牧学_遗传育种_育种技术",
+   "subjectName": "育种技术",
+   "publishYear": "2020",
+   "definition": "衡量估计育种值准确性的一种度量。等于估计育种值与真实育种值的相关系数的平方。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "电力名词",
+   "wordNumber": "25.001",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "元件或系统在规定的条件下和规定的时间内完成规定功能的能力。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "结核病学名词",
+   "wordNumber": "03.546",
+   "subjectFullName": "结核病学_结核病诊断_诊断方法_细菌学诊断",
+   "subjectName": "细菌学诊断",
+   "publishYear": "2019",
+   "definition": "由准确性和重复性决定的检测可信性。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "物理学名词",
+   "wordNumber": "08.0992",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "置信度",
+   "en": "reliability",
+   "source": "物理学名词",
+   "wordNumber": "01.0277",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0463",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "系统（包括全部硬件和软件在内）在规定的环境及时间里正确执行所要求的任务并实现既定目标的概率。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0559",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息系统按指定的功能提供可靠而令人信任的服务的特性。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "化学名词",
+   "wordNumber": "03.0855",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "在给定条件下分析方法达到预期分析结果的概率。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0559",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "产品在设计的使用寿命期内，在规定的条件下一致地完成规定功能的能力。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.105",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对同一对象进行多次心理测验所得结果的一致性程度。以反映测验的有效性或准确性。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "心理学名词",
+   "wordNumber": "03.215",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "一个测验在测量中所表现的一致性程度。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "药学名词",
+   "wordNumber": "10.083",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "生存质量量表测量结果的可靠程度或可重复程度。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.181",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "在相同条件下用某测量工具(如筛检试验)重复测量同一受试者时获得相同结果的稳定程度。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0801",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_运行",
+   "subjectName": "运行",
+   "publishYear": "2013",
+   "definition": "成功地完成预期运行功能的概率。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.008",
+   "subjectFullName": "机械工程_汽车_汽车维修_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "产品在规定的条件下和规定的时间内完成规定功能的能力。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "09.067",
+   "subjectFullName": "机械工程_拖拉机_整机_整机性能及参数",
+   "subjectName": "整机性能及参数",
+   "publishYear": "2013",
+   "definition": "拖拉机在规定的使用条件、规定时间内完成规定功能的能力。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.306",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在给定条件下和规定的时间间隔内，产品(装备)执行所需功能的能力。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "置信度",
+   "en": "reliability",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可靠度",
+   "en": "reliability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性检验",
+   "en": "reliability test",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "设备可靠性",
+   "en": "equipment reliability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "过程可靠性",
+   "en": "process reliability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信度系数",
+   "en": "reliability coefficient",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "观察者信度",
+   "en": "observer reliability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "评分者信度",
+   "en": "scorer reliability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性顺序",
+   "en": "reliability ranking",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地图可靠性",
+   "en": "map reliability",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性示意图",
+   "en": "reliability diagram",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "编图资料示意图",
+   "en": "reliability diagram",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "封装可靠性",
+   "en": "package reliability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可靠服务",
+   "en": "Reliable Service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心知",
+   "en": "Mind Cognition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境认知",
+   "en": "environmental cognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知计算",
+   "en": "cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知盈余",
+   "en": "cognitive surplus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机系统可靠性",
+   "en": "computer system reliability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机硬件可靠性",
+   "en": "computer hardware reliability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知功能模拟",
+   "en": "cognitive function simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性及安全性评测",
+   "en": "reliability and security evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨媒体感知计算",
+   "en": "cross-media cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知与智能服务",
+   "en": "cognitive computing and intelligent service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超可靠低时延通信",
+   "en": "ultra-reliable and low-latency communication (URLLC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 4087-2009 数据的统计处理和解释 二项分布可靠度单侧置信下限》",
+   "en": "GB/T 4087-2009 Statistical interpretation of data — One-sided confidence lower limit of reliability for binomial distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可重复使用口罩",
+   "en": "reusable mask",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "认知机",
+   "en": "cognitron",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主可控战略",
+   "en": "self-reliance strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.69",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "一种评估测量程序的可重复性、稳定性的量度。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "研究所得结果的可靠程度。通过测量结果的稳定性及一致性来判断，通常用信度系数来评价。"
+  },
+  {
+   "cn": "认识",
+   "en": "cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0155",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人脑在实践基础上对客观事物的能动反映，体现了认识主体的能动性、选择性和创造性。包括感性认识和理性认识。从生动的直观到抽象的思维，从抽象的思维到实践，是认识的辩证发展过程。"
+  },
+  {
+   "cn": "可靠性评价",
+   "en": "reliability evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.33",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价检测报告或发表论文的内在质量的方法。仅与试验过程以及所产生的结果有关。"
+  },
+  {
+   "cn": "评分者信度",
+   "en": "scorer reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.72",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "由多位不同评分者分别独立评阅同一份测验问卷，再估计所给分数的一致性的量度。"
+  },
+  {
+   "cn": "社会认知",
+   "en": "social cognition",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "个人对他人的心理状态、行为动机、意向等作出推测与判断的过程。社会认知的过程既是基于认知者的既有经验及对有关线索的分析而进行的，又必须通过认知者的思维活动（包括一定程度的信息加工、推理、分类和归纳）来进"
+  },
+  {
+   "cn": "感性认识",
+   "en": "perceptual cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0240",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的低级阶段，人们在实践中，通过感觉器官直接接触外界事物，在头脑中产生对对象的现象、外部联系的认识。其特征是直接感受性、形象性、生动性，表现形式是感觉、知觉、表象，表现内容是事物的表象、外部联系"
+  },
+  {
+   "cn": "理性认识",
+   "en": "rational cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0241",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的高级阶段，是人们在感性认识的基础上，凭借抽象思维把握到的关于事物的本质、内部联系和规律的认识，具有抽象性、间接性、普遍性等特点，表现形式是概念、判断、推理。"
+  },
+  {
+   "cn": "认知功能",
+   "en": "cognitive functioning",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "大脑接收、处理、存储和利用信息的一系列高级心理过程。包括时间与地点的定向、理解力、抽象思维、注意力、记忆力以及解决问题的能力等。是个体完成各种活动所需要的基本能力。"
+  },
+  {
+   "cn": "认知图",
+   "en": "cognitive map",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "展示研究对象的认知模式的网络状图形。其中，网络的节点表示特定的概念，节点间的联系表示概念间的关系。"
+  },
+  {
+   "cn": "认知一致",
+   "en": "cognitive agreement",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究者对某些命题或观点所持的相同看法。具体表现为不同的研究者对该命题或观点具有相似的知识结构。不同研究者之间的争论或冲突，常常是因为不同的价值观和利益造成的，而他们在认识上都是一致的。"
+  },
+  {
+   "cn": "认知不协调",
+   "en": "cognitive dissonance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "当个人的认知系统内的两种及以上的认知（如偏好、态度、观念、价值观或信念）存在不一致时，或者当个人行为与自有的信念、情感或者价值观不一致时所体验到的冲突状态。"
+  },
+  {
+   "cn": "认知人类学",
+   "en": "cognitive anthropology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "研究心智、语言和文化诸因素的关系，在认知心理学和结构语言学影响下发展起来，同时与结构人类学也有很大渊源。主要关注文化知识在日常生活中的组织和应用（如分类、推理）。"
+  },
+  {
+   "cn": "认知理论",
+   "en": "cognitive theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "以认知心理学为基础形成和发展起来的一种社会工作理论。该理论认为人的行为主要受制于理性思考，而不是潜意识的本能。不良行为主要产生于认知上的错误或理性思维能力的缺乏，社会工作的主要任务是帮助服务对象获得对"
+  },
+  {
+   "cn": "认知限制",
+   "en": "cognitive limitation",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.6",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体面对高度复杂的问题，无法实现效用最大化，这为危害健康行为的产生提供了一种解释。"
+  },
+  {
+   "cn": "认知疗法",
+   "en": "cognitive therapy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "认为个体出现心理问题的根源在于其在解释事件时往往带有负性自动化思维，因此主要通过矫正学生心理健康求咨者的不合理信念、不当思维过程来帮助其解决心理问题。"
+  },
+  {
+   "cn": "认知人类学",
+   "en": "cognitive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0597",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的一个分支学科和研究取向，研究人类认知模式在其所处文化与社会情境中形成与变化的过程。"
+  },
+  {
+   "cn": "认知障碍",
+   "en": "cognitive disorder",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.018",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "与学习记忆及思维判断有关的大脑高级智能加工过程出现异常，引起严重学习、记忆障碍，同时伴有失语、失用、失认或失行等改变的病理状态。"
+  },
+  {
+   "cn": "认知语言学",
+   "en": "cognitive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0013",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。20 世纪70 年代末兴起，认为语言能力是人类认知能力的一部分。对一些重要的语言学问题提出新的解释。例如，在范畴化问题上提出了原型理论，认为在多义词的诸多意义中，原型词义是中心，其他"
+  },
+  {
+   "cn": "再测信度",
+   "en": "test-retest reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以评估回答人在不同时点上对同一个测量的反应的稳定或不稳定程度的量度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

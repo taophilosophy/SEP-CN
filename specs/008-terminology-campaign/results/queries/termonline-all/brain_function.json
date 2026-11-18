@@ -1,0 +1,802 @@
+{
+ "key": "brain function",
+ "term": "brain function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:42:47+00:00",
+ "status": "ok",
+ "note": "variant=brain function; 审定公布名词库=4209; 海峡两岸名词对照库=1038; 其他来源数据库=133; 预公布名词数据库=135; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "脑功能监测",
+   "en": "brain function monitoring",
+   "source": "神经外科学名词",
+   "wordNumber": "17.015",
+   "subjectFullName": "医学_神经外科学_神经外科重症监护_神经外科重症监护相关技术及设备",
+   "subjectName": "神经外科重症监护相关技术及设备",
+   "publishYear": "2026",
+   "definition": "利用脑电图、诱发电位、脑机接口、近红外和功能磁共振等技术对大脑功能状态进行的监测。目的是获取出反映脑功能状态的指标。"
+  },
+  {
+   "cn": "脑功能仪",
+   "en": "brain function meter",
+   "source": "电子学名词",
+   "wordNumber": "25.049",
+   "subjectFullName": "电子学_生物医学电子学",
+   "subjectName": "生物医学电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "脑功能区",
+   "en": "brain functional area",
+   "source": "神经外科学名词",
+   "wordNumber": "10.037",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_疼痛",
+   "subjectName": "疼痛",
+   "publishYear": "2026",
+   "definition": "负责某种神经功能的大脑特定区域。包括运动、感觉、视觉、语言、阅读及记忆等高级皮质功能。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "神经外科学名词",
+   "wordNumber": "2.003",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_概述",
+   "subjectName": "概述",
+   "publishYear": "2026",
+   "definition": "中枢神经系统的重要器官。位于颅腔内，脑沟和脑回将其分为大脑、间脑、小脑和脑干四部分，是人体中主管意识、知觉、运动、思维、记忆等的重要器官，是神经系统的主要部分。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "动物学名词",
+   "wordNumber": "6.1158",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2021",
+   "definition": "脊椎动物头骨中的软神经组织的器官。为感觉、智力和神经活动的协调中心。可区分为5个部分：大脑、间脑、中脑、小脑和延脑。随着脊椎动物的进化，脑5部分分化明显化和脑高级中枢功能向大脑皮质转移。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "神经病学名词",
+   "wordNumber": "02.004",
+   "subjectFullName": "神经病学_临床神经解剖学",
+   "subjectName": "临床神经解剖学",
+   "publishYear": "2020",
+   "definition": "中枢神经系统的重要器官。位于颅腔内，脑沟和脑回将其分为大脑、间脑、小脑和脑干4个部分。有支配精神意识、进行思维活动的功能。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "心理学名词",
+   "wordNumber": "05.016",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "位于颅腔内，由脑干、间脑、小脑和大脑两半球组成。是中枢神经系统的组成部分。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "中医药学名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "奇恒之腑之一，位于颅内，由髓汇聚而成，为神明汇聚之所，有支配精神意识，进行思维活动的功能。"
+  },
+  {
+   "cn": "轻微脑功能失调",
+   "en": "minimal brain dys-function",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.189",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "描述智力正常儿童脑功能轻微损害，年幼儿童的各种认知和情感的轻度行为变化，可影响行为能力。"
+  },
+  {
+   "cn": "大脑功能偏侧化",
+   "en": "lateralization of brain function",
+   "source": "心理学名词",
+   "wordNumber": "10.033",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "大脑两半球在功能上的专门化过程。"
+  },
+  {
+   "cn": "脑梅毒瘤",
+   "en": "brain syphiloma,brain gumma",
+   "source": "医学名词 第六分册",
+   "wordNumber": "02.156",
+   "subjectFullName": "医学_神经外科学",
+   "subjectName": "神经外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "智力外流",
+   "en": "brain drain",
+   "source": "经济学名词",
+   "wordNumber": "06.054",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "最初主要是指发展中国家在国内完成学业后的高级专门人才，如工程师、科学家、医生、教授等，迁移到发达国家的一种国际移民活动。后来人们把从发展中国家到发达国家接受高级专门教育的留学人员滞留不归也划入智力外流"
+  },
+  {
+   "cn": "人才流失",
+   "en": "brain drain",
+   "source": "计划生育名词",
+   "wordNumber": "01.176",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "优秀或有特长的人从本地、本单位流动或转移出去而流失的现象。"
+  },
+  {
+   "cn": "人才外流",
+   "en": "brain drain",
+   "source": "教育学名词",
+   "wordNumber": "14.170",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "在一个国家接受教育和培训的专业技术人员迁移到另一个国家去工作的现象。"
+  },
+  {
+   "cn": "脑死亡",
+   "en": "brain death",
+   "source": "普通外科学名词",
+   "wordNumber": "07.026",
+   "subjectFullName": "医学_普通外科学_危重疾病",
+   "subjectName": "危重疾病",
+   "publishYear": "2026",
+   "definition": "包括脑干的全脑功能不可逆的永久性丧失。"
+  },
+  {
+   "cn": "脑干",
+   "en": "brain stem",
+   "source": "神经外科学名词",
+   "wordNumber": "2.021",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_概述",
+   "subjectName": "概述",
+   "publishYear": "2026",
+   "definition": "位于间脑和脊髓之间的神经结构。自上而下由中脑、脑桥、延髓三部分组成。内部结构主要有神经核、上下行传导束和网状结构。是大脑、小脑与脊髓相互联系的重要通路。主要功能是维持个体生命活动，包括心跳、呼吸、消化"
+  },
+  {
+   "cn": "脑温",
+   "en": "brain temperature",
+   "source": "神经外科学名词",
+   "wordNumber": "3.016",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "脑部的实际温度。在健康状态下，正常人体体温为36～37.4℃，大脑温度高于体温1℃左右，约为38℃。"
+  },
+  {
+   "cn": "脑电生理",
+   "en": "brain electrophysiology",
+   "source": "神经外科学名词",
+   "wordNumber": "3.018",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "利用电生理学技术研究大脑的结构和功能变化。常见手段包括脑电图、脑磁图和单元记录等。"
+  },
+  {
+   "cn": "脑死亡",
+   "en": "brain death",
+   "source": "神经外科学名词",
+   "wordNumber": "3.022",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "脑部神经元全面坏死导致的包括脑干在内的全脑活动的不可逆性丧失。表现为不可逆性深昏迷，无自主呼吸，一切脑干反射均消失。"
+  },
+  {
+   "cn": "脑肿瘤",
+   "en": "brain tumor",
+   "source": "神经外科学名词",
+   "wordNumber": "6.001",
+   "subjectFullName": "医学_神经外科学_中枢神经系统肿瘤",
+   "subjectName": "中枢神经系统肿瘤",
+   "publishYear": "2026",
+   "definition": "生长在颅腔的病理性新生物的总称。可起源于脑、脑膜、神经、血管及脑附件，或由身体的其他脏器恶性肿瘤转移侵入颅内而形成。大多可产生颅内压升高及局灶性神经功能损害症状。"
+  },
+  {
+   "cn": "脑功能模块",
+   "en": "brain function module",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑功能仪",
+   "en": "brain function meter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑",
+   "en": "brain\",\"encephalon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑",
+   "en": "brain\",\"encephalon",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "脑干",
+   "en": "brain stem",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑屏障",
+   "en": "brain barrier",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑曲",
+   "en": "brain flexure",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑原基",
+   "en": "brain rudiment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑褶",
+   "en": "brain fold",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "割裂脑，［分］裂脑",
+   "en": "split brain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑成像",
+   "en": "brain imaging",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑细胞",
+   "en": "brain cell",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑损伤",
+   "en": "brain damage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑可塑性",
+   "en": "brain plasticity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑波",
+   "en": "brain wave",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑成像",
+   "en": "brain imaging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑科学",
+   "en": "brain science",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑模型",
+   "en": "brain model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑干",
+   "en": "brain stem",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "脑模型",
+   "en": "brain model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工脑",
+   "en": "artificial brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "农业大脑",
+   "en": "agricultural brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济大脑",
+   "en": "Economic Brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市大脑",
+   "en": "city brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "ET大脑",
+   "en": "ET brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑计算",
+   "en": "brain-inspired computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑科学",
+   "en": "Brain-Inspired Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑模拟系统",
+   "en": "brain simulation system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类脑图谱",
+   "en": "human brain atlas",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑处理器",
+   "en": "brain-inspired processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云脑时代",
+   "en": "cloud brain age",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑机接口",
+   "en": "Brain-Computer Interface",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑智能",
+   "en": "brain-inspired intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑机协同",
+   "en": "brain-computer synergy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人脑计划",
+   "en": "Human Brain Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市超脑",
+   "en": "iFlytek Super Brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑智能机器人",
+   "en": "brain-inspired intelligent robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "媒体大脑",
+   "en": "Media Brain (Xinhua News Agency)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑功能发育",
+   "en": "development of brain function",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "脑组织和功能随年龄增长的发展变化过程。额叶、枕叶的初级感觉运动皮质最先成熟，然后小脑、顶枕叶、额叶皮质下中枢发育成熟，最后与执行功能、注意控制有关的额叶成熟；脑结构的发育成熟伴随相应的脑功能成熟。"
+  },
+  {
+   "cn": "脑发育",
+   "en": "brain development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑经过神经胚形成、前脑发育、神经元增殖、神经元移行、神经组织全面发展和功能完善、髓鞘形成等六个阶段的发展变化过程。"
+  },
+  {
+   "cn": "脑死亡",
+   "en": "brain death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.025",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "脑血流完全停止和脑部广泛性梗死所致的包括脑干在内的全脑功能不可逆地丧失。它是继心肺死亡标准后的一种科学的死亡标准。"
+  },
+  {
+   "cn": "控脑武器",
+   "en": "control brain weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "主要通过物理和化学手段对人脑造成影响，控制人脑思维活动的武器。它基于对人脑信息的获取、解读、传播和控制，通过直接影响和控制人类思维来发挥作用。"
+  },
+  {
+   "cn": "脑死亡标准",
+   "en": "brain death criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.033",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "以大脑、小脑和脑干在内的全脑功能的不可逆性丧失为基础的死亡标准。"
+  },
+  {
+   "cn": "脑诱发电位",
+   "en": "Brain Evoked Potential, BEP",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.2.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "当感觉系统（如视觉、听觉、躯体感觉）接受刺激（如光、声音、电流）或大脑执行认知任务（如记忆、决策）时，神经元会产生同步化电信号，经传导路径到达皮层或皮层下结构，形成可检测的电位变化。"
+  },
+  {
+   "cn": "放射性脑损伤",
+   "en": "radiation induced brain injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "电离辐射照射超过剂量阈值（分次照射累积剂量大于55Gy，一次或等效一次照射剂量大于10Gy）而导致的脑组织损伤。临床主要表现为脑水肿所致的颅压增高症状和脑组织坏死所致的定位障碍。"
+  },
+  {
+   "cn": "大脑发育加速期",
+   "en": "period of accelerated brain development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "胎儿期最后3个月和婴儿出生后头两年的阶段。成人脑一半以上的重量都在该阶段获得。"
+  },
+  {
+   "cn": "学习大脑活动特征",
+   "en": "brain activity characteristics of learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "参与学习过程中大脑皮质具有的特定的功能活动特性。"
+  },
+  {
+   "cn": "控脑武器损伤",
+   "en": "injuries of control brain weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.3.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "由控制操纵人类大脑思维活动的武器导致的损伤。其中物理控脑武器借电磁波、声波、光波等物理手段刺激干扰大脑，影响情绪、意识等；精神控脑武器则通过药物、催眠、心理暗示等控制人的思维和行为。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "脑死亡供体移植",
+   "en": "organ transplantation from brain-dead donors",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.032",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "依据脑死亡标准，将脑死亡者作为器官供体的移植。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在时间和技术条件一定的情况下，生产某种产品时投入的生产要素数量与生产出该产品的数量间的关系。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

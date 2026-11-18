@@ -1,0 +1,682 @@
+{
+ "key": "historical explanation",
+ "term": "historical explanation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:30:32+00:00",
+ "status": "ok",
+ "note": "variant=historical explanation; 审定公布名词库=430; 海峡两岸名词对照库=61; 其他来源数据库=9; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "说明",
+   "en": "explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.100",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "寻找现象或事件的原因或机制。"
+  },
+  {
+   "cn": "训释",
+   "en": "explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用语言来表述文献语言意义的工作。根据训释目的不同，可分为声训、形训和义训，根据训释的语言结构方式不同，可分为直训和义界。"
+  },
+  {
+   "cn": "解释",
+   "en": "explanation",
+   "source": "自动化名词",
+   "wordNumber": "05.105",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "结构说明",
+   "en": "structural explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "利用数学模型来说明物理世界中的特征，它显示被说明项如何反事实地依赖于模型的其他数学元素。"
+  },
+  {
+   "cn": "宏观说明",
+   "en": "macro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于大尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "微观说明",
+   "en": "micro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于小尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "概率说明",
+   "en": "probabilistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学说明的一种方式。它的前提包含适当的初始条件加上统计规律。"
+  },
+  {
+   "cn": "近因说明",
+   "en": "proximate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当某个有待说明的现象出现时，若科学家的注意力是放在一系列环环相扣的因果链上，从而找出时空上先于并邻接且又造成该现象之发生的原因，此时科学家所给出的说明就是近因说明。"
+  },
+  {
+   "cn": "终极说明",
+   "en": "ultimate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.457",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当生物学家想要说明一个有意义的生物学事件、性状或是过程时，他们会把它看成一种适应，是经过随机变化、自然选择之后而有的适应环境的结果，即便生物学家对进化历史中的许多细节仍然不清楚，但他们把这样的适应现象"
+  },
+  {
+   "cn": "机制说明",
+   "en": "mechanistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "通过某种方式或途径，对动力系统元素之间的作用的关系及其功能进行描述，分析动力系统的工作原理、相互作用产生的原因以及产生的过程。"
+  },
+  {
+   "cn": "科学解释",
+   "en": "scientific explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.198",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "依据科学理论，对有关的各种经验事实及其内在联系进行解释，从而在整体上把握对象的活动。"
+  },
+  {
+   "cn": "说课",
+   "en": "lesson explanation",
+   "source": "教育学名词",
+   "wordNumber": "02.213",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师对同伴教师解释自己的教学设计的一种教研形式。"
+  },
+  {
+   "cn": "互训",
+   "en": "mutual explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "两个词互相训释的直训。例如“排，挤也”“挤，排也”。"
+  },
+  {
+   "cn": "集解",
+   "en": "assembly explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.016",
+   "subjectFullName": "语言学_训诂学_训诂体式",
+   "subjectName": "训诂体式",
+   "publishYear": "2011",
+   "definition": "①汇集各家对同一部经典的注释，有时也补充汇集者自己的阐释的训诂体式。其名称有集解、集注等。例如南朝宋代裴骃的《史记集解》、宋代朱熹的《四书集注》。②合经与传注兼而解之的编纂样式。例如晋代杜预的《春秋经"
+  },
+  {
+   "cn": "单训",
+   "en": "unilateral explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.026",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "训释词与被训释词只是单向训释的直训。例如“璐，玉也”。"
+  },
+  {
+   "cn": "专书训释",
+   "en": "explanation compilated",
+   "source": "语言学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "脱离了典籍原文，按一定原则编排在专书中的训释。例如《说文解字》《方言》等专书中的训释。"
+  },
+  {
+   "cn": "历史词语",
+   "en": "historism,historical word",
+   "source": "语言学名词",
+   "wordNumber": "05.107",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "历史上曾经存在过而后来已经消亡的指称历史事件、人物、现象、行为的词语。例如，“朝歌，古地名，位于河南省北部的淇县。商朝武乙、文丁、帝乙、帝辛四代殷王在此建都，改称朝歌。周灭商后，封康叔在朝歌建立卫国。"
+  },
+  {
+   "cn": "历史主义",
+   "en": "historism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.175",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "认为对任何现象的正确理解都应该从该现象的历史发展过程中获得。"
+  },
+  {
+   "cn": "历史名园",
+   "en": "historic garden,historic park",
+   "source": "林学名词",
+   "wordNumber": "09.077",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "历史悠久，知名度高，体现传统造园艺术并被审定为文物保护单位的园林。"
+  },
+  {
+   "cn": "古迹",
+   "en": "historic site,historic relic",
+   "source": "林学名词",
+   "wordNumber": "09.118",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "先民在历史、文化、建筑、艺术上的具体遗产或遗址。"
+  },
+  {
+   "cn": "史实性",
+   "en": "historicity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史气候",
+   "en": "historical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "历史序列",
+   "en": "historical sequence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "历史汇率",
+   "en": "historical rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "历史海洋学",
+   "en": "historical oceanography",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "访古旅游",
+   "en": "historical tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史地理学",
+   "en": "historical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史地理知识论",
+   "en": "historical geosophy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史地貌学",
+   "en": "historical geomorphology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史地名",
+   "en": "historical name",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史地图",
+   "en": "historical map",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史地图集",
+   "en": "historical atlas",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史环境",
+   "en": "historical environment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史景观",
+   "en": "historical landscape",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史气候",
+   "en": "historical climate",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史区",
+   "en": "historical region",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史生态",
+   "en": "historical ecology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史生物地理学",
+   "en": "historical biogeography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史学派",
+   "en": "historical school",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史规则",
+   "en": "historical rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "说知",
+   "en": "Knowledge from Explanation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释学习",
+   "en": "explanation-based learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗史",
+   "en": "Historical Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流行病学史",
+   "en": "historical epidemiology",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新的历史特点的伟大斗争",
+   "en": "the great struggle with many historical features",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "良史",
+   "en": "Trustworthy Historian / Factual History",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "史才三长",
+   "en": "Three Strengths of a Good Historian",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "历史主义",
+   "en": "historism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.175",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为对任何现象的正确理解都应该从该现象的历史发展过程中获得。"
+  },
+  {
+   "cn": "历史唯物主义",
+   "en": "historical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0007",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义辩证唯物主义在社会历史观中的运用，是揭示人类社会发展最一般规律的科学。其基本观点是：社会存在决定社会意识，物质生产实践及生产方式是社会历史发展的决定力量，生产力、生产关系的矛盾运动是社会发展"
+  },
+  {
+   "cn": "历史人物",
+   "en": "historical personage",
+   "source": "马克思主义",
+   "wordNumber": "03.0104",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "对人类社会历史发展进程产生过重要影响的人物。历史人物既包括代表先进生产力和先进阶级，在历史上起过显著作用、对历史发展产生重要影响的杰出人物，如先进的政治家、思想家、军事家、科学家、文学艺术家、创造发明"
+  },
+  {
+   "cn": "历史任务",
+   "en": "historical tasks",
+   "source": "马克思主义",
+   "wordNumber": "03.0105",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类社会发展进程中需要完成的、具有重大现实作用和历史进步意义的使命或工作。历史任务通常是事关全局的，具有战略意义的重大任务。如无产阶级肩负着消灭阶级剥削和压迫、实现共产主义、解放全人类的历史使命。"
+  },
+  {
+   "cn": "历史虚无主义",
+   "en": "historical nihilism",
+   "source": "马克思主义",
+   "wordNumber": "04.0387",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "不加具体分析而盲目否定人类社会的历史发展过程,甚至否定历史文化,否定民族文化、民族传统、民族精神,否定一切的历史观点和思想倾向。其特征就是否认人类社会过去的一切,否认人类社会历史的存在。历史虚无主义总"
+  },
+  {
+   "cn": "历史民俗学",
+   "en": "historical folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0469",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究历史上的民俗事象与民俗理论的学问。包括民俗史与民俗学史两个部分，民俗史是对综合或者单项的民俗事象的历史的探究与叙述，包括通时的或断代的事象的探究与叙述；民俗学史是关于民俗事象的思想史、理论史，也包"
+  },
+  {
+   "cn": "历史特殊论",
+   "en": "historical particularism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0545",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国历史学派的重要理论观点之一，这一观点认为每个民族的文化都有其自身的独特历史，因此必须在每个民族的特点中研究每个民族。要理解或解释某一特定文化，最正确的做法就是用人类学资料来重新恢复某个民族的历史发"
+  },
+  {
+   "cn": "历史意识",
+   "en": "historical consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0208",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类直觉、认识、解释自身历史发展进程的意识和能力。历史意识的呈现方式有历史文本、蕴含历史信息的非历史文本、为某一历史学派持有的历史观念或历史方法，为某一民族、国家或地域特有的历史思考传统等。"
+  },
+  {
+   "cn": "历史观",
+   "en": "historical view",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0138",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对历史发展演变规律的认知，包括对自身国家、民族、文化发展历史的认同和认知，以及自身国家、民族、文化同他者交往历史的认知。在中国，核心是对中华人民共和国、中华民族发展历史的认同。"
+  },
+  {
+   "cn": "历史人类学",
+   "en": "historical anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0205",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在人类学与历史学相互渗透、结合的基础上形成和发展起来的，试图从历史学角度去研究和回答人类学问题的学科。"
+  },
+  {
+   "cn": "历史对照",
+   "en": "historical control",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "为了研究某种疗法效果或某种特条件的影响，给研究组或病例组选择过去案例某些研究结果或案例作为对照比较的方法"
+  },
+  {
+   "cn": "历史评价",
+   "en": "historical evaluation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0209",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "历史主体对社会现象做出价值评判的过程和结论。历史评价发生的前提是客观存在的历史事实，以及主体对历史事实的认识和价值取向。"
+  },
+  {
+   "cn": "历史语言学",
+   "en": "historical linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。描写与研究一种或多种语言在一定时间跨度内所经历的种种变化。内容和方法与“历时语言学”基本相同。研究的材料可以是不同时期该语言的文献记录，也可以是历时或共时亲属语言的同源语料，后一种研"
+  },
+  {
+   "cn": "历史记忆",
+   "en": "historical memory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0207",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "法国社会学家莫里斯·阿布瓦赫（Maurice Halbwachs）在《集体记忆》中提到的概念，意在强调历史带有记忆的性质，后含义被拓宽为“人们对过去的记忆与表述”。"
+  },
+  {
+   "cn": "历史事件",
+   "en": "historical events",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0206",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类历史发展过程中具有一定时间长度与空间跨度的“过去的”事件。"
+  },
+  {
+   "cn": "历史考古学",
+   "en": "historical archaeology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0075",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "考古人类学的重要分支，主要以文字记载时代的实物资料为对象，与以无文字记载时代的实物资料为研究对象的史前考古学相对应。历史考古学除实物资料以外，还可以利用文献记载进行考据、训诂等互证性的研究。"
+  },
+  {
+   "cn": "生态历史唯物主义",
+   "en": "ecological historical materialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0086",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "泰德·本顿（Ted Benton）提出的概念。他认为，历史唯物主义理论与生态学之间有一个“裂缝”，传统的历史唯物主义的物质生产、经济发展以及人的解放的概念中都缺乏生态学视域，因此，他提出要以生态学理论"
+  },
+  {
+   "cn": "美国历史学派",
+   "en": "American Historical School",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0544",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪末至20 世纪初形成于美国，盛行于1890 年至1930 年间，其创始人为美国人类学家博厄斯。该学派既批判19 世纪“书斋”人类学家推测历史的研究方法，力主亲身进行田野调查；同时，也批判单线"
+  },
+  {
+   "cn": "历史研究法",
+   "en": "historical research method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0518",
+   "subjectFullName": "民族学与文化学_民俗学_民俗学方法",
+   "subjectName": "民俗学方法",
+   "publishYear": "2025",
+   "definition": "追溯民俗事象的纵向历史联系。任何民俗事象的产生、发展和演变都表现为一定的历史过程，民俗事象不仅在民间流传，而且在历史文献中早有记载，借助古籍文献资料，可以追溯某一民俗的原始形态和它以后的发展以及今天的"
+  },
+  {
+   "cn": "历史文献研究",
+   "en": "historical literature review",
+   "source": "社会医学名词",
+   "wordNumber": "4.7.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "文献研究",
+   "publishYear": "2025",
+   "definition": "通过对历史文献的查阅、分析和整理，进而找出事物本质属性，同时揭示当前关注的一些问题或对未来进行预测，以考察客观的历史为目的的研究方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

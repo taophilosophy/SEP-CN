@@ -1,0 +1,682 @@
+{
+ "key": "replication studies",
+ "term": "replication studies",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:30:45+00:00",
+ "status": "ok",
+ "note": "variant=replication studies; 审定公布名词库=847; 海峡两岸名词对照库=295; 其他来源数据库=116; 预公布名词数据库=69; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "农学名词",
+   "wordNumber": "06.110",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "以亲代遗传物质（DNA或RNA）为模板按照碱基配对原则合成子代分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0098",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA或RNA基因组以亲代核酸链作为合成模板，按照碱基互补配对原则合成子代核酸链进行扩增的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "兽医学名词",
+   "wordNumber": "16.177",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "病毒吸附并侵入易感细胞内，以其核酸为模板合成子代病毒核酸和蛋白质等组分，装配子代病毒粒子，最后释放到细胞外的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.044",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由核酸模板链复制出相同核酸链的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "畜牧学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "在DNA聚合酶的催化作用下，以亲代DNA分子为模板合成子代DNA分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "植物学名词",
+   "wordNumber": "16.0174",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "以亲代DNA分子为模板按照碱基配对原则合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0347",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "证券产品的一种设计方法。某种证券运作业绩良好，可以将其作为参照标准，再设计一只新证券，在同样的方式、方法下运作，以期望能够取得与原证券具有相同的风险特性和收益率，给投资者创造出更多的获取收益的机会。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "药学名词",
+   "wordNumber": "05.334",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "用亲代分子作为合成的模板，由一个亲代DNA或一个亲代RNA合成一个新的子代分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "微生物学名词",
+   "wordNumber": "04.073",
+   "subjectFullName": "微生物学_病毒学",
+   "subjectName": "病毒学",
+   "publishYear": "2012",
+   "definition": "以病毒粒子的基因组为模板，产生与其完全一致的一定数量的子代病毒粒子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.161",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "以亲代DNA分子为模板按照碱基配对原则合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "遗传学名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "以亲代DNA分子为模板合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.617",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "含有一个复制起点并能促进质粒DNA分子在宿主细胞中复制的一段DNA序列。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "畜牧学名词",
+   "wordNumber": "04.104",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "有一个复制起始点并能促进DNA分子复制的DNA序列。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "遗传学名词",
+   "wordNumber": "03.215",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "有一个复制起始点并能促进DNA分子复制的DNA序列。"
+  },
+  {
+   "cn": "复制聚合酶",
+   "en": "replication polymerase",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0317",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_转移酶",
+   "subjectName": "转移酶",
+   "publishYear": "2024",
+   "definition": "大肠埃希菌细胞内真正负责重新合成DNA的DNA聚合酶Ⅲ。编号：EC 2.7.7.7。"
+  },
+  {
+   "cn": "DNA复制",
+   "en": "DNA replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0099",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA合成过程中，以亲代DNA两条链为模板合成两个子代DNA分子的过程。其中每一个子代DNA分子包含一条亲代链和一条新合成的链。具有高保真性。"
+  },
+  {
+   "cn": "复制叉",
+   "en": "replication fork",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.011",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "正在进行复制的双链DNA分子所形成的Y形叉状结构。其中已解旋的两条亲代单链以及正在进行合成的新链构成了Y形的头部，尚未解旋的亲代DNA双链构成了Y形的尾部。"
+  },
+  {
+   "cn": "复制泡",
+   "en": "replication bubble",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0111",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA复制过程中，每个复制起点都产生两个复制叉，进入链的延长阶段后，两个复制叉向相反的方向移动，形成的空泡状结构。"
+  },
+  {
+   "cn": "半保留复制",
+   "en": "semiconservative replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0112",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "复制时亲代DNA分子两条链解开为两股单链，各自作为合成新链的模板，从而形成两个子代DNA分子，因重新合成的每一个双链DNA分子中各保留一条亲代DNA单链的复制方式而得名。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replicating fork\",\"replication fork",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制滑移,复制跳格",
+   "en": "replication slipping\",\"replication slippage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制眼(=复制泡)",
+   "en": "replication eye(=replication bubble)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replication fork",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "散乱复制",
+   "en": "dispersive replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半不连续复制",
+   "en": "semidiscontinuous replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制结合",
+   "en": "replication banding",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制带",
+   "en": "replication band",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "θ复制",
+   "en": "theta replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "保守性复制",
+   "en": "conservative replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单向复制",
+   "en": "unidirectional replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半保留复制",
+   "en": "semiconservative  replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半不连续复制",
+   "en": "semicontinuous replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "并行复制",
+   "en": "concurrent replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可复制性",
+   "en": "replicability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "格",
+   "en": "Examine / Study",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时远程复制",
+   "en": "real-time remote replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有效性和安全性研究",
+   "en": "safety and efficacy studies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冠状病毒工作组",
+   "en": "Coronavirus Study Group (CSG)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "格物致知",
+   "en": "Study Things to Acquire Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多副本一致性管理规则",
+   "en": "management rule for consistency of replications",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "历史溯源法",
+   "en": "longitudinal studies",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0665",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在某一社区建立固定调查点，对于一个群体进行有间隔性的长期持续不断的观察，以研究这一群体在总体上或局部上发生的演变，从中发现历史演变的特点、原因和规律。"
+  },
+  {
+   "cn": "受众研究",
+   "en": "audience studies",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.1",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "对大众媒介的传播对象的研究。通过社会调查或社会科学的各种统计和分析技术把握大众传播对象的各项特征，如年龄、性别、教育程度、心理特点等，了解传播信息对接受者的影响和接受程度，以便改善和提升传播效果。"
+  },
+  {
+   "cn": "身体研究",
+   "en": "body studies",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.6",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "探讨高度现代性社会条件下人与其身体之间关联方式的反思性，亦即自我、身体与死亡之间关系的文明化身体的跨学科研究。"
+  },
+  {
+   "cn": "青年研究",
+   "en": "youth studies",
+   "source": "社会学名词",
+   "wordNumber": "3.16.2.3",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年研究",
+   "subjectName": "青年研究",
+   "publishYear": "2025",
+   "definition": "关注青年的发展、历史、文化、心理和政治的跨学科研究领域。不仅研究具体的青年文化，也研究青年在所处社会中的关系、角色和责任，研究者来自社会学、教育学、文学、历史、政治学、宗教学等人文社会科学学科。"
+  },
+  {
+   "cn": "双语学",
+   "en": "bilingual studies",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.002",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究言语社区内使用的两种或多种语言或方言间关系的学问。"
+  },
+  {
+   "cn": "队列研究",
+   "en": "cohort study",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "将研究人群按是否暴露于某因素或暴露的程度进行分组，在特定的观察时间内，追踪各组与暴露因素相关的结局并比较其差异，从而判定暴露因素与结局之间有无因果关联及关联程度的一种观察性研究方法。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对发生在某一或较少数自然条件下的社会现象进行深入理解的研究策略。"
+  },
+  {
+   "cn": "跨文化研究",
+   "en": "crosscultural study",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.10",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "对他者文化进行的研究行为。起初是人类学之父泰勒(E.Tylor）、摩尔根(L.H.Morgan）建立起的一种解释他者社会文化现象的比较方法，也是当初人类学中文化进化论者广泛使用的方法，运用传统的历史资"
+  },
+  {
+   "cn": "案例分析",
+   "en": "case study",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "将案例和一些列思考题提供给学习者，要求学习者根据自己的认知（所学过的知识、生活经验、价值观等）进行思考和分析讨论，提出自己的看法和办法的教学方法。"
+  },
+  {
+   "cn": "学习指导",
+   "en": "study guidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "在教学环境中，教师以学生学习的心理过程为依据，为学生的自主学习等创设有利环境，对学生的学习动机、过程、方法进行指导和引导，从而促进学生发展的教学行为方式。"
+  },
+  {
+   "cn": "学习策略",
+   "en": "study strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "学生在学习过程中对信息的操纵和加工的能力，也是提高学习效率的关键。"
+  },
+  {
+   "cn": "学习方法",
+   "en": "study method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "通过学习实践总结出的具有通用性的解决相关问题的规则和程序。"
+  },
+  {
+   "cn": "文献计量法",
+   "en": "bibliometric study",
+   "source": "社会医学名词",
+   "wordNumber": "4.7.5",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "文献研究",
+   "publishYear": "2025",
+   "definition": "针对某一具体研究问题所发表的所有文献，采用统计学量化分析方法描述文献在年代、作者、主题等方面的分布结构及变化规律，从而评价和预测该研究的现状及发展趋势的方法。"
+  },
+  {
+   "cn": "流行病学调查",
+   "en": "epidemiologic study",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "对涉及食物中毒人群中的疾病或者健康状况分布及其决定因素进行调查研究，提出控制食物中毒的措施对策"
+  },
+  {
+   "cn": "社区研究",
+   "en": "community study",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0673",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "使用人类学中的田野工作、参与观察、访谈等手段，在具有文化相似性的小型社会中进行相关研究的社会科学基础研究方法。人类学家主张将社区视为一个“整体”，对社区中的政治、经济及文化等方面进行彻底而细微的观察与"
+  },
+  {
+   "cn": "队列研究",
+   "en": "cohort study",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.38",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "将研究人群按是否暴露于某因素或暴露的程度进行分组，在特定的观察时间内，追踪各组与暴露因素相关的结局并比较其差异，从而判定暴露因素与结局之间有无因果关联及关联程度的一种观察性研究方法。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对特定个体或组织进行观察和调查，在充分认识问题或事件的特殊性的基础上来考虑普遍性的研究方法。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0658",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "以一个人、一个团体或一个事件为研究对象，广泛搜集各种资料，综合运用各种方法（包括质的方法和量的方法）和分析技术，对复杂情境中的现象进行深入探究的研究方法。"
+  },
+  {
+   "cn": "队列研究",
+   "en": "cohort study",
+   "source": "社会医学名词",
+   "wordNumber": "4.3.1.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定量研究",
+   "publishYear": "2025",
+   "definition": "将人群按是否暴露于某可疑因素及其暴露程度分为不同组，追踪其各组的结局，比较不同组之间结局频率的差异，从而判定暴露因素与结局之间因果关联及关联大小的一种观察性研究方法。"
+  },
+  {
+   "cn": "比较研究法",
+   "en": "comparative study",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0651",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "对两个或两个以上的事物或对象加以对比，以找出它们之间的相似性与差异性的一种分析方法。比较研究法也可以理解为是根据一定的标准，对两个或两个以上有联系的事物进行考察，寻找其异同，探求普遍规律与特殊规律的方"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

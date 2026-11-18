@@ -1,0 +1,712 @@
+{
+ "key": "physical possibility",
+ "term": "physical possibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:41:24+00:00",
+ "status": "ok",
+ "note": "variant=physical possibility; 审定公布名词库=615; 海峡两岸名词对照库=183; 其他来源数据库=45; 预公布名词数据库=136; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0337",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "事物发生的概率。是包含在事物之中并预示着事物发展趋势的量化指标。"
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0110",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种基于模糊集和模糊逻辑，利用可能性度量和必要性度量处理不确定性的方法。"
+  },
+  {
+   "cn": "生产可能性",
+   "en": "production possibility",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "指现有资源在一定的技术条件下可能生产的最大产量组合。"
+  },
+  {
+   "cn": "可能候选者",
+   "en": "possible candidate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0243",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "选取的自然数作为满足某条件的证据的可能候选者。"
+  },
+  {
+   "cn": "可能世界",
+   "en": "possible world",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0016",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "克里普克（Kripke）提出的一种表述模态逻辑语义的基本单元。每一个可能世界是一种特定的语境，规定了在此语境中哪些模态命题为真，哪些为假。通过模态推理可以从一个可能世界到达另一个可能世界。"
+  },
+  {
+   "cn": "可能结局",
+   "en": "possible outcomes",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0244",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求的策略的最终结局。由于一个需求对应一个图灵机，而一个图灵机计算一个部分函数，因此针对一个需求的策略的最终结局依赖于需求所对应的图灵机的规律。"
+  },
+  {
+   "cn": "可能通行能力",
+   "en": "possible capacity",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "生产可能性曲线",
+   "en": "production possibility curve",
+   "source": "经济学名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "表示经济社会在既定资源和技术条件下所能生产的各种商品最大数量的组合。该曲线反映了资源稀缺性与选择性的经济学特征。"
+  },
+  {
+   "cn": "如何可能说明",
+   "en": "how-possible explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.431",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "援引事实以显示该事件可以发生，并且没有不能发生的好理由。"
+  },
+  {
+   "cn": "可能世界语义",
+   "en": "possible world semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0017",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "利用“可能世界”的思想去定义逻辑上可能性、必然性和偶然性的一种语义。"
+  },
+  {
+   "cn": "可照时数",
+   "en": "possible sunshine duration",
+   "source": "建筑学名词",
+   "wordNumber": "10.0155",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "在一定的时间段内，太阳光照射在某一特定地点的建筑物上的累计时间。"
+  },
+  {
+   "cn": "物理[学]",
+   "en": "physics",
+   "source": "物理学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "物理学_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "可照时数",
+   "en": "duration of possible sunshine ",
+   "source": "草学名词",
+   "wordNumber": "3.0573",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "可照时数",
+   "en": "duration of possible sunshine",
+   "source": "大气科学名词",
+   "wordNumber": "01.417",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "日出至日没的总时数。以小时为单位。"
+  },
+  {
+   "cn": "可照时数",
+   "en": "duration of possible sunshine",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.137",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "日出至日没的总时数,以小时为单位。"
+  },
+  {
+   "cn": "海洋油气预测储量",
+   "en": "offshore possible hydrocarbon reserve",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0219",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋矿产资源开发技术",
+   "subjectName": "海洋矿产资源开发技术",
+   "publishYear": "2007",
+   "definition": "对经过预探井钻探已获得油气流、油气层或油气显示的海上圈闭，根据区域地质条件分析和类比估算出的可能存在的油气藏地质储量。"
+  },
+  {
+   "cn": "推测储量",
+   "en": "inferred reserves,possible reserves",
+   "source": "石油名词",
+   "wordNumber": "02.1032",
+   "subjectFullName": "石油_油气地质勘探_油气资源评价",
+   "subjectName": "油气资源评价",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "物理归档",
+   "en": "physical filing；physical archiving",
+   "source": "档案学名词",
+   "wordNumber": "06.03.011",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "将电子文件通过网络或者脱机载体保存进电子文件管理系统的归档方式。电子文件的管理权限同步向档案部门移交。"
+  },
+  {
+   "cn": "物理双星",
+   "en": "physical double; physical pair",
+   "source": "天文学名词",
+   "wordNumber": "08.334",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "互绕公共质量中心做周期性轨道运动的两个恒星级天体系统。"
+  },
+  {
+   "cn": "海洋物理学",
+   "en": "marine physics,ocean physics",
+   "source": "海洋科技名词",
+   "wordNumber": "01.0004",
+   "subjectFullName": "海洋科学技术_总论_一级分支学科名词",
+   "subjectName": "一级分支学科名词",
+   "publishYear": "2007",
+   "definition": "研究海洋的声、光、电、磁学现象及其变化规律的学科。"
+  },
+  {
+   "cn": "可能性界限",
+   "en": "possibility boundaries",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可能误差",
+   "en": "possible error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可能自我",
+   "en": "possible self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可照时数",
+   "en": "duration of possible sunshine",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋物理学",
+   "en": "marine physics\",\"ocean physics",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "物理图[谱]",
+   "en": "physical map",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理障碍",
+   "en": "physical barrier",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "形态学个体",
+   "en": "physical individual",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理模[态]",
+   "en": "physical mode",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理气候",
+   "en": "physical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理气候学",
+   "en": "physical climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理气象[学]",
+   "en": "physical meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然地理学",
+   "en": "physical geography",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然环境",
+   "en": "physical environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物理吸收",
+   "en": "physical absorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理处理",
+   "en": "physical treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理常数",
+   "en": "physical constant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理分离",
+   "en": "physical separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理示踪剂",
+   "en": "physical tracer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物色",
+   "en": "Physical Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理模型",
+   "en": "physical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理结构",
+   "en": "physical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理数据",
+   "en": "physical data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实体场景",
+   "en": "physical scenario",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "陆上训练",
+   "en": "physical training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "physical trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "physical trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "马克思主义",
+   "wordNumber": "01.0064",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由事物内部矛盾引起的，包含在事物中的预示事物发展变化的种种趋势，或事物转化的潜在因素，是潜在的尚未实现的东西。"
+  },
+  {
+   "cn": "可能病例",
+   "en": "possible case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，病例临床标本无实验室阳性结果或未采集到病例的临床标本，但具有典型的临床症状体征的病例。"
+  },
+  {
+   "cn": "可能性与现实性",
+   "en": "possibility and actuality",
+   "source": "马克思主义",
+   "wordNumber": "01.0066",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "可能性与现实性是对立统一的关系。二者相互区别，不能等同。只有具备充分客观根据的可能性才能转化为现实性。二者又是统一的，它们相互依存、相互包含、相互转化。可能性作为潜在趋势存在于现实性之中，是还没有实现"
+  },
+  {
+   "cn": "生产可能性边界",
+   "en": "production possibility frontier，PPF",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "在既定资源和技术条件下所能生产或提供的各种商品或服务的最大数量组合。"
+  },
+  {
+   "cn": "体格发育",
+   "en": "physical development, physical growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "人体外部形态、身体比例和体型等方面随年龄而发生变化的过程。"
+  },
+  {
+   "cn": "物理监测",
+   "en": "physical monitoring",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.1",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "使用内置或外配记录仪对灭菌器压力、温度等物理参数进行的监测。"
+  },
+  {
+   "cn": "物理消毒",
+   "en": "physical disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2",
+   "subjectFullName": "消毒学_消毒技术",
+   "subjectName": "消毒技术",
+   "publishYear": "2025",
+   "definition": "利用热、辐射、紫外线、静电等物理因子或过滤方式杀灭或清除有害微生物的消毒处理。"
+  },
+  {
+   "cn": "实体防护",
+   "en": "physical protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.7.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_设施防护安全",
+   "subjectName": "设施防护安全",
+   "publishYear": "2025",
+   "definition": "保护核材料或授权设施的措施，旨在防止未经授权获取或移除裂变材料或破坏保障措施。"
+  },
+  {
+   "cn": "物理去污",
+   "en": "physical decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.10",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "利用机械方法去除或降低物体表面放射性污染的过程。"
+  },
+  {
+   "cn": "体力劳动",
+   "en": "physical labor",
+   "source": "马克思主义",
+   "wordNumber": "01.0126",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“脑力劳动”相对。以消耗体力为主的劳动，脑力劳动在其中起辅助作用。体力劳动与脑力劳动的分离是历史的产物，随着生产力的发展，体力劳动和脑力劳动的对立差别将逐渐缩小、消除。"
+  },
+  {
+   "cn": "物理治疗",
+   "en": "physical therapy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "应用力、电、光、声、磁、冷、热、水等方法对疾病进行预防、治疗和康复的方法。是物理医学与康复的一个重要组成部分。通常分运动疗法和物理因子疗法。"
+  },
+  {
+   "cn": "体能",
+   "en": "physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体具备的能胜任日常工作和学习而不感到疲劳，同时有余力能充分享受休闲娱乐生活，又可应付突发紧急状况的能力。"
+  },
+  {
+   "cn": "身体活动",
+   "en": "physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "由骨骼肌收缩引起的，导致机体能量消耗增加的一切活动，包括职业性、交通性、日常生活体力活动及闲暇时的体育锻炼。"
+  },
+  {
+   "cn": "生理自我",
+   "en": "physical self",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个人对自己身躯的认识。是自我意识最原始形态。"
+  },
+  {
+   "cn": "物质环境因素",
+   "en": "physical environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "人类赖以生存的物质基础。其与社会环境、生产生活方式共同决定儿童青少年生长发育的可实现性。"
+  },
+  {
+   "cn": "物理性环境污染",
+   "en": "physical pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "现代工业生产、通信信息生产使用、现代生活等过程中由物理因素引起的环境污染。包括噪声污染、电磁辐射污染、放射性污染等。"
+  },
+  {
+   "cn": "体育锻炼",
+   "en": "physical exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "以身体练习和运动负荷为手段 ,以健身健美、娱乐休闲、保健康复、心理智能锻炼为活动内容 ,为增强体质、增进身心健康 ,提高和保持机体能力而进行的一类体育运动。"
+  },
+  {
+   "cn": "物理性污染",
+   "en": "physical pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "食品中杂质超过规定的含量，或食品吸附、吸收外来的放射性核素引起的食品污染。"
+  },
+  {
+   "cn": "体育课",
+   "en": "physical education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_体力活动与体育锻炼",
+   "subjectName": "体力活动与体育锻炼",
+   "publishYear": "2025",
+   "definition": "在一定单位时间内，使学生能在身体、运动认知、运动技能、情感和社会方面和谐发展的教学活动。"
+  },
+  {
+   "cn": "健康体检",
+   "en": "physical examination",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学生体质与健康状况监测",
+   "subjectName": "学生体质与健康状况监测",
+   "publishYear": "2025",
+   "definition": "学校组织开展的为维护学生身体健康从而达到预防保健的目的而进行的体格检查。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

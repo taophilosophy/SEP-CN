@@ -1,0 +1,812 @@
+{
+ "key": "target non-consequentialist",
+ "term": "target non-consequentialist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:31:09+00:00",
+ "status": "ok",
+ "note": "variant=target non-consequentialist; 审定公布名词库=4142; 海峡两岸名词对照库=1411; 其他来源数据库=277; 预公布名词数据库=256; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "非靶标生物",
+   "en": "non-target organism",
+   "source": "农学名词",
+   "wordNumber": "10.253",
+   "subjectFullName": "植物保护_农药",
+   "subjectName": "农药",
+   "publishYear": "2025",
+   "definition": "除防治对象外的其他生物。如蜜蜂、鸟、水生生物和家蚕等。"
+  },
+  {
+   "cn": "非靶向筛查",
+   "en": "non-targeted screening",
+   "source": "农学名词",
+   "wordNumber": "18.035",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "不针对特定物质时，检测所有物质在所关注的浓度水平是否存在的方法。"
+  },
+  {
+   "cn": "非目标性状评价",
+   "en": "non-target trait evaluation",
+   "source": "农学名词",
+   "wordNumber": "15.371",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "对生物体通过遗传改良而期望改进的特性之外的其他特征和特性所做出的评价。"
+  },
+  {
+   "cn": "靶对非靶[摄取]比",
+   "en": "target to non-target ratio,T/NT",
+   "source": "化学名词",
+   "wordNumber": "06.0730",
+   "subjectFullName": "化学_放射化学_应用放射化学",
+   "subjectName": "应用放射化学",
+   "publishYear": "2016",
+   "definition": "放射性药物作用目标器官或组织中的放射性浓度(单位质量或体积中的放射性活度)与其他器官或组织中的放射性浓度之比值。"
+  },
+  {
+   "cn": "靶标",
+   "en": "target",
+   "source": "精细化工名词",
+   "wordNumber": "03.0186",
+   "subjectFullName": "精细化工_农药_生物测定",
+   "subjectName": "生物测定",
+   "publishYear": "2025",
+   "definition": "农药使用的最终目标物，即有害生物个体或种群。"
+  },
+  {
+   "cn": "标板",
+   "en": "target",
+   "source": "档案学名词",
+   "wordNumber": "05.04.018",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "用以表示原件或缩微品特征和内容的被摄对象。是由一个或几个符号组成的平板。"
+  },
+  {
+   "cn": "靶点",
+   "en": "target",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.114",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_代谢工程_弗兰克-沃尔夫法",
+   "subjectName": "弗兰克-沃尔夫法",
+   "publishYear": "2021",
+   "definition": "能够与特定分子结合并产生效应的生物分子。通常靶点的种类有受体、酶、离子通道和核酸等。"
+  },
+  {
+   "cn": "觇标",
+   "en": "target",
+   "source": "测绘学名词",
+   "wordNumber": "02.470",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "观测照准目标及安置测量仪器的测量标架。"
+  },
+  {
+   "cn": "靶",
+   "en": "target",
+   "source": "物理学名词",
+   "wordNumber": "09.1651",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "靶",
+   "en": "target",
+   "source": "核医学名词",
+   "wordNumber": "02.0347",
+   "subjectFullName": "核医学_核医学相关基础学科_核药学",
+   "subjectName": "核药学",
+   "publishYear": "2018",
+   "definition": "外源性探针进入生物体后发生特异性结合的生物分子。如蛋白质、DNA等。"
+  },
+  {
+   "cn": "靶子",
+   "en": "target",
+   "source": "化学名词",
+   "wordNumber": "06.0201",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "将靶材料装入靶托中制成。靶子需具备热稳定性，耐辐照性能好，辐照后易于处理。"
+  },
+  {
+   "cn": "靶",
+   "en": "target",
+   "source": "药学名词",
+   "wordNumber": "07.163",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "药物起作用的初始点。如细胞、蛋白质、受体、离子通道和基因等。"
+  },
+  {
+   "cn": "目标代码",
+   "en": "target",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.381",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "由编译器或汇编器产生，从程序源代码翻译而来的代码。通常指的是可以直接被系统中央处理器执行的机器代码。"
+  },
+  {
+   "cn": "靶材",
+   "en": "target",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1849",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_晶体生长",
+   "subjectName": "晶体生长",
+   "publishYear": "2011",
+   "definition": "在溅射沉积技术中用做阴极的材料。该阴极材料在带正电荷的阳离子撞击下以分子、原子或离子的形式脱离阴极而在阳极表面重新沉积。"
+  },
+  {
+   "cn": "目标",
+   "en": "target",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.163",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "靶",
+   "en": "target",
+   "source": "电气工程名词",
+   "wordNumber": "21.174",
+   "subjectFullName": "电气工程_工业加速器",
+   "subjectName": "工业加速器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "靶点",
+   "en": "target",
+   "source": "医学名词 第六分册",
+   "wordNumber": "02.381",
+   "subjectFullName": "医学_神经外科学",
+   "subjectName": "神经外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "靶向",
+   "en": "targeting",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0818",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "改变特定目标（分子、细胞、个体等）产生生物学效应的策略。如：外源基因在宿主细胞基因组DNA预期位置上的定向插入；药物分子对效应靶组织或细胞的定向传送或作用。"
+  },
+  {
+   "cn": "靶向",
+   "en": "targeting",
+   "source": "生物物理学名词",
+   "wordNumber": "12.029",
+   "subjectFullName": "生物物理学_纳米生物学_纳米生物效应",
+   "subjectName": "纳米生物效应",
+   "publishYear": "2018",
+   "definition": "根据特定细胞器、细胞、组织、器官等的生理学和病理学特点，使药物或纳米材料可以选择性地进入到特定细胞器、细胞、组织、器官等的方法。根据靶向行为可分为主动靶向和被动靶向。"
+  },
+  {
+   "cn": "目标市场",
+   "en": "target market",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.075",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目咨询",
+   "subjectName": "项目咨询",
+   "publishYear": "2021",
+   "definition": "企业期望并有能力占领和开拓的市场。能为企业带来最佳营销机会与最大经济效益，对该目标市场要进行主要竞争对手和竞争优劣势分析。"
+  },
+  {
+   "cn": "靶对非靶[摄取]比",
+   "en": "target to non-target ratio",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "靶材",
+   "en": "target",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "靶子",
+   "en": "target",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "觇牌",
+   "en": "target",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "目标",
+   "en": "target",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶",
+   "en": "target",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "靶向, 寻靶作用",
+   "en": "targeting",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "靶船",
+   "en": "target craft\",\"target ship",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "目标市场",
+   "en": "target market",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "目标市场",
+   "en": "target market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "目标",
+   "en": "object\",\"target",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "靶器官",
+   "en": "target organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "靶细胞",
+   "en": "target cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "靶组织",
+   "en": "target tissue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "地面目标",
+   "en": "ground target",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分布目标",
+   "en": "distributed target",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "目标区",
+   "en": "target area",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干目标",
+   "en": "coherent target",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "靶效率",
+   "en": "target efficiency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "靶管",
+   "en": "target tube",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无效部位",
+   "en": "invalid target\",\"non-valid target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶",
+   "en": "target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶",
+   "en": "target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶",
+   "en": "target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶",
+   "en": "target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "移动靶",
+   "en": "moving target\",\"running target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效部位",
+   "en": "target area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则靶",
+   "en": "regular target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "试射靶",
+   "en": "sighting target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计分员",
+   "en": "target scorer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶线",
+   "en": "target line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "送靶器",
+   "en": "target carrier",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换靶员",
+   "en": "target changer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报靶裁判员",
+   "en": "target officer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶箱",
+   "en": "target box",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "衬靶",
+   "en": "backing target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不规则靶",
+   "en": "irregular target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记分靶",
+   "en": "record target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单靶",
+   "en": "single target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换靶",
+   "en": "target changing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非靶向筛查技术",
+   "en": "non-targeted screening technology",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.11",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "利用高灵敏高分辨质谱仪，通过全扫描的方式，对所有具有质谱响应的物质都进行筛查扫描分析，通过目标的（准）分子离子峰以及二级碎片离子信息，对各类痕量物质进行识别的技术。"
+  },
+  {
+   "cn": "目标微生物",
+   "en": "target microorganism",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒对象上的致病微生物或指示微生物，是消毒操作时需要重点关注并确保杀灭的微生物。"
+  },
+  {
+   "cn": "靶部位",
+   "en": "target region",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.5",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在人体摄入放射性物质后，吸收辐射能量的体内的一个解剖学部位。该部位可能是一个器官或某一特定组织，例如胃肠道、膀胱、骨骼和呼吸道。"
+  },
+  {
+   "cn": "靶组织",
+   "en": "target tissue",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.6",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中吸收辐射能量的机体组织。"
+  },
+  {
+   "cn": "靶器官",
+   "en": "target organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.7",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中吸收辐射能量的机体器官。"
+  },
+  {
+   "cn": "组织目标",
+   "en": "organizational target",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织通过自身的活动去争取达到的某种有待实现的未来状态，是组织开展活动的依据和动力，代表着一个组织的未来和发展方向，并受到组织环境、组织成员和组织内部机构几者之间相互作用的制约。"
+  },
+  {
+   "cn": "靶细胞",
+   "en": "target cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.29",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "可被细胞毒性T细胞或NK细胞等效应细胞或抗体等效应分子识别并杀伤的细胞。"
+  },
+  {
+   "cn": "支出目标制",
+   "en": "expenditure target",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.14.2",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "卫生服务购买者预先设定医疗服务支付价格及可容许的医疗服务实际利用增长率，结余留用，超支分担的支付方式。"
+  },
+  {
+   "cn": "靶组织",
+   "en": "target tissue",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.35",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源性化学物进入机体呈现毒作用并引起典型病变的体内某个特定部位或一组细胞。"
+  },
+  {
+   "cn": "靶窗",
+   "en": "target windows",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.2.4",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "机体大多数器官对致畸作用的特殊敏感期。"
+  },
+  {
+   "cn": "目标抽样",
+   "en": "target sampling",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.17",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "用来获得断面状态的即时信息所开展的抽样计划，通常为不公开抽样"
+  },
+  {
+   "cn": "靶向测序",
+   "en": "targeted sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "利用多重聚合酶链反应或杂交捕获的方法对目标基因 组区域进行富集并测序的一种技术。优 势在于有效降低成本、获得更深的覆盖度。"
+  },
+  {
+   "cn": "靶剂量",
+   "en": "target organ dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.17",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "分布到或出现在特定组织中的化学物剂量。"
+  },
+  {
+   "cn": "辐射靶学说",
+   "en": "radiation target theory",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.22",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "细胞内存在着对辐射敏感的区域，称之为“靶”，靶的体积只有细胞的若干分之一。当辐射击中敏感的靶区时才引起致死性损伤，产生辐射生物效应，而且细胞辐射敏感性的高低取决于靶的大小。"
+  },
+  {
+   "cn": "目标收入模型",
+   "en": "target income model",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "在目标收入假定下，医生人数增长导致了更高的收费以维持医生个人收入不变的模型。"
+  },
+  {
+   "cn": "重点服务人群",
+   "en": "priority target population",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.2.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "在卫生服务中需要优先关注的群体，通常包括0～6岁儿童、孕产妇、老年人、慢性病患者、严重精神障碍患者和肺结核患者等。"
+  },
+  {
+   "cn": "目标收益定价",
+   "en": "targeted revenue pricing",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "在成本基础上按照目标收益率水平进行定价的方法。"
+  },
+  {
+   "cn": "目标强化",
+   "en": "targeted food fortification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "以增加某类特殊人群而不是所有人群的营养素摄入量而采用的食品营养强化方法，如婴幼儿辅食、儿童和孕妇专用饼干等。"
+  },
+  {
+   "cn": "靶向筛查技术",
+   "en": "targeted screening technology",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.10",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "基于质谱、色谱等仪器，通过与标准品的出峰时间、检测器信号等对物质进行识别的技术。"
+  },
+  {
+   "cn": "民办非企业单位",
+   "en": "non-governmental non-enterprise units",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "企业、事业单位、社会团体和其他社会力量以及公民个人利用非国有资产创办的、从事非营利性社会服务活动的社会组织，如民办学校、民办研究所、民办博物馆等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

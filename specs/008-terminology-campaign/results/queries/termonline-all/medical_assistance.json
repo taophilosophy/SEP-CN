@@ -1,0 +1,802 @@
+{
+ "key": "medical assistance",
+ "term": "medical assistance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:40:54+00:00",
+ "status": "ok",
+ "note": "variant=medical assistance; 审定公布名词库=3222; 海峡两岸名词对照库=884; 其他来源数据库=201; 预公布名词数据库=340; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "医疗援助",
+   "en": "medical assistance",
+   "source": "航海科技名词",
+   "wordNumber": "14.0161",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "助手",
+   "en": "assistant",
+   "source": "兽医学名词",
+   "wordNumber": "18.003",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "协助术者进行手术的人。"
+  },
+  {
+   "cn": "药饲",
+   "en": "medicated",
+   "source": "水产名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "水产_水产生物病害及防治",
+   "subjectName": "水产生物病害及防治",
+   "publishYear": "2002",
+   "definition": "将药物拌入饲料投喂养殖动物的一种疾病防治方法。"
+  },
+  {
+   "cn": "灾害救援",
+   "en": "disaster assistance",
+   "source": "急救医学名词",
+   "wordNumber": "05.039",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_应急预案",
+   "subjectName": "应急预案",
+   "publishYear": "2025",
+   "definition": "针对突发、具有破坏力的灾害事件采取的一系列紧急救援措施。包括应急响应、现场救援、次生灾害预防、恢复重建等活动。"
+  },
+  {
+   "cn": "技术援助",
+   "en": "technical assistance",
+   "source": "经济学名词",
+   "wordNumber": "06.070",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "一种并非简单资金转移的外援，是无偿派出专家、技术人员、科学家、教育工作人员、经济顾问和咨询人员到发展中国家帮助其发展项目，目的是确保发展中国家能够有效率地使用接受的援助，从而促进经济增长。"
+  },
+  {
+   "cn": "发展援助",
+   "en": "development assistance",
+   "source": "经济学名词",
+   "wordNumber": "06.092",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "发达国家和国际组织给予发展中国家的援助。其目的是促进后者的经济发展，援助的方式为贷款或赠与。援助的内容可分为两种，一种是计划援助，指范围较广的援助，如对农业或教育事业的援助；一种是项目援助，指对特定项"
+  },
+  {
+   "cn": "切实协助",
+   "en": "substantial assistance",
+   "source": "运动医学名词",
+   "wordNumber": "09.038",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "包括：①在署名的书面文件中，透露他/她所掌握的全部兴奋剂违规信息；②积极配合调查和审判与该信息有关的案件，如果反兴奋剂组织或听证委员会提出要求，在听证会上作证。此外，提供的信息必须可靠，必须包括已经开"
+  },
+  {
+   "cn": "再就业援助",
+   "en": "outplacement assistance",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0788",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_薪酬管理",
+   "subjectName": "薪酬管理",
+   "publishYear": "2016",
+   "definition": "为失业人员再就业提供的帮助。"
+  },
+  {
+   "cn": "社会救助",
+   "en": "social assistance",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.087",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "政府对有救助需要的人群提供的免费服务和收入保障机制。经费来源主要是政府财政开支。"
+  },
+  {
+   "cn": "灾害救援",
+   "en": "disaster assistance",
+   "source": "医学名词 第六分册",
+   "wordNumber": "10.178",
+   "subjectFullName": "医学_急诊医学",
+   "subjectName": "急诊医学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "海事援助",
+   "en": "maritime assistance",
+   "source": "航海科技名词",
+   "wordNumber": "14.0162",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "麻醉助手",
+   "en": "anesthesia assistant",
+   "source": "兽医学名词",
+   "wordNumber": "18.004",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "负责麻醉且在手术过程中根据需要调整麻醉深度，监控麻醉状况的助手。"
+  },
+  {
+   "cn": "器械助手",
+   "en": "apparatus assistant",
+   "source": "兽医学名词",
+   "wordNumber": "18.005",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "负责器械及敷料的供应和传递的助手。"
+  },
+  {
+   "cn": "佐药",
+   "en": "assistant drug",
+   "source": "兽医学名词",
+   "wordNumber": "19.454",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "方剂中协助君药、臣药以治疗兼证与次要症状，或制约君药、臣药的毒性与烈性，或用作反佐的药物的统称。"
+  },
+  {
+   "cn": "助理编辑",
+   "en": "assistant editor",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.026",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "出版专业技术职务中和新闻专业技术职务中编辑类别的初级专业技术职务名称。"
+  },
+  {
+   "cn": "助理导演",
+   "en": "assistant director",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.092",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "导演的重要助手之一。"
+  },
+  {
+   "cn": "助力运动",
+   "en": "assistant exercise",
+   "source": "烧伤学名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "烧伤学_烧伤康复与整形_烧伤康复治疗",
+   "subjectName": "烧伤康复治疗",
+   "publishYear": "2019",
+   "definition": "借助外力辅助患者主动肌肉收缩来完成运动的训练方式。外力包括器械（如滑轮和重量）、健侧肢体或他人帮助。常是电刺激运动向主动运动过渡的中间形式，可作为肌力 1~2级患者的肌力训练。"
+  },
+  {
+   "cn": "学生助理馆员",
+   "en": "student assistant",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.210",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "在大学或学校图书馆中，兼职从事书架整理、文献外借、清洁等辅助性工作，并获取酬劳的在校学生。"
+  },
+  {
+   "cn": "助理馆员",
+   "en": "assistant librarian",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.198",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "我国图书资料系列职称的初等级别。获得该职称的图书馆员应具有系统的专业基本知识和解决业务工作中常见问题的能力、在图书情报理论与实践方面取得有一定价值的研究成果，并经专业职务评审机构认可。"
+  },
+  {
+   "cn": "网络助手",
+   "en": "network assistant",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0865",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "网络管理者的辅助功能单元。驻留在包含网络管理者的计算机系统中，并且被网络管理者所控制；数据库管理系统可以被用作网络助手。"
+  },
+  {
+   "cn": "医疗援助",
+   "en": "medical assistance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "技术援助",
+   "en": "technical assistance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双边援助",
+   "en": "bilateral assistance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海事援助",
+   "en": "maritime assistance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "媒染助剂",
+   "en": "mordant assistant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "辅助性状",
+   "en": "assistant trait",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "驾助",
+   "en": "assistant officer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "轮助",
+   "en": "assistant engineer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "邻助作用",
+   "en": "neighboring group assistance\",\"anchimeric assistance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "医学胚胎学",
+   "en": "medical embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "医疗气候学",
+   "en": "medical climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗气象学",
+   "en": "medical meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学模式",
+   "en": "medical model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "医学心理学",
+   "en": "medical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "医用纤维",
+   "en": "medical fiber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "医用回旋加速器",
+   "en": "medical cyclotron",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "医学地理学",
+   "en": "medical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "医学气象学",
+   "en": "medical meteorology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "医学免疫学",
+   "en": "medical immunology",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "医学遗传学",
+   "en": "medical genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "助手",
+   "en": "assistant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助手",
+   "en": "assistant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助手",
+   "en": "assistant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助手",
+   "en": "assistant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助攻",
+   "en": "assist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助攻",
+   "en": "assist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助攻",
+   "en": "assist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助杀",
+   "en": "assist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助攻",
+   "en": "assist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外力协助",
+   "en": "outside assistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "未经许可的辅助行为",
+   "en": "unauthorised assistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "未经许可的辅助行为",
+   "en": "unauthorized assistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "允许的辅助行为",
+   "en": "authorized assistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字化助手",
+   "en": "digital assistant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "助理教练员",
+   "en": "assistant coach",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二助手",
+   "en": "assistant second",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助理裁判员",
+   "en": "assistant referee",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助理教练员",
+   "en": "assistant coach",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医疗救助",
+   "en": "medical assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "政府和社会为因病而无经济能力进行治疗的贫困人员提供基本的疾病预防、救治以及医疗健康服务等专项帮助和支持的一项社会救济制度。"
+  },
+  {
+   "cn": "医疗救助",
+   "en": "medical assistance",
+   "source": "社会医学名词",
+   "wordNumber": "12.4.5",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "贫困人口卫生保健",
+   "publishYear": "2025",
+   "definition": "通过政府拨款和社会捐助等多渠道筹资，为因经济困难无法承担医疗费用的群体提供医疗费用减免或补贴，旨在减轻其因重大疾病或意外伤害产生的高额医疗负担，保障其基本医疗权益的重要社会保障制度。"
+  },
+  {
+   "cn": "军事医疗援助伦理",
+   "en": "ethics of military medical assistance",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.213",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "负责军事医疗援助的相关人员需要遵循的伦理规范和要求。"
+  },
+  {
+   "cn": "医学化",
+   "en": "medicalization",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "日常生活越来越多地进入医学领域，受到医学的影响和控制，尤其是把社会上或者道德上认为不合适的行为贴上医学标签、委托医学职业予以治疗的过程。其关键在于对原来不属于医学范畴的问题进行医学定义。它跟医学职业声"
+  },
+  {
+   "cn": "医学化",
+   "en": "medicalization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.024",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "把非医疗问题当作医疗问题对待和定义的过程。"
+  },
+  {
+   "cn": "社会救助",
+   "en": "social assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "国家和社会对因各类风险而陷入生活严重困难的社会成员予以资金、物质帮助并提供相关服务的各种措施的总和。主要包括贫困救助与灾害救助。"
+  },
+  {
+   "cn": "生产救助",
+   "en": "production assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "国家和社会对有一定生产经营能力的贫困家庭或个人，从政策、资金、物资、技术、信息等方面给予扶持，使其通过生产经营活动摆脱贫困的社会救助制度。"
+  },
+  {
+   "cn": "生活救助",
+   "en": "living assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "为保障公民的基本生存权，国家对生活在国家法定或地方法定最低生活保障标准之下的贫困家庭及个人进行现金、实物或服务等救助的社会救助制度。"
+  },
+  {
+   "cn": "教育救助",
+   "en": "education assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "国家和社会为保障适龄人口能够获得接受教育的机会，向贫困地区和贫困学生提供各种政策优惠以及资金和物质帮助的一种社会救济制度。"
+  },
+  {
+   "cn": "住房救助",
+   "en": "housing assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "政府向低收入家庭和其他需要保障的特殊家庭或个人提供现金补贴或直接提供住房的社会救济制度。"
+  },
+  {
+   "cn": "对口支援",
+   "en": "Pairing Assistance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0047",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "以中央政府为主导，由经济发达或实力较强的地方政府对经济欠发达或实力较弱的民族地区实施援助的一种政策性行为。主要类型有：灾难援助、经济援助、医疗援助、教育援助等。"
+  },
+  {
+   "cn": "社会救助",
+   "en": "social assistance",
+   "source": "社会医学名词",
+   "wordNumber": "3.11.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会保障体系",
+   "publishYear": "2025",
+   "definition": "国家和社会对因各类风险而陷入生活严重困难的社会成员予以资金、物质帮助并提供相关服务的各种措施的总和。主要包括贫困救助与灾害救助。"
+  },
+  {
+   "cn": "医事法",
+   "en": "medical jurisprudence",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.185",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "在卫生法中主要调整医疗服务法律关系的法律法规总称。"
+  },
+  {
+   "cn": "医疗器械",
+   "en": "medical instrument",
+   "source": "消毒学",
+   "wordNumber": "4.6.9",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "直接或者间接用于人体的仪器、设备、器具、体外诊断试剂及校准物、材料以及其他类似或者相关的物品。"
+  },
+  {
+   "cn": "医用织物",
+   "en": "medical textile",
+   "source": "消毒学",
+   "wordNumber": "4.6.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医院内可重复使用的纺织品，包括患者使用的衣物、床单、被罩、枕套；工作人员使用的工作服、帽；手术衣、手术铺单；病床隔帘、窗帘等。"
+  },
+  {
+   "cn": "医疗用水",
+   "en": "medical water",
+   "source": "消毒学",
+   "wordNumber": "4.6.11",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构用于诊疗活动和器械处理时使用的水。"
+  },
+  {
+   "cn": "医用清洗剂",
+   "en": "medical detergent",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "增强水对诊疗器械、器具及其相关物品上污物清洗效果的制剂。"
+  },
+  {
+   "cn": "医用级",
+   "en": "medical grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "符合医药相关的法律法规和质量安全标准，用此级别原料加工制造的医药产品有效成分纯度达到治疗和预防疾病的要求。"
+  },
+  {
+   "cn": "医疗废物",
+   "en": "medical waste",
+   "source": "消毒学",
+   "wordNumber": "7.2",
+   "subjectFullName": "消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "医疗卫生机构在医疗、预防、保健以及其他相关活动中产生的具有直接或者间接感染性、毒性以及其他危害性的废物。"
+  },
+  {
+   "cn": "医疗照射",
+   "en": "medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.2.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类",
+   "subjectName": "照射人员分类",
+   "publishYear": "2025",
+   "definition": "患者或受检者因自身医学诊断、治疗或健康检查所受到的照射；知情但自愿帮助和安慰患者的人员（不包括职业受照人员）所受到的照射；以及生物医学研究计划中志愿者受到的照射。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

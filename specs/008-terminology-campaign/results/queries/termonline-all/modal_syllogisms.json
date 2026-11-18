@@ -1,0 +1,712 @@
+{
+ "key": "modal syllogisms",
+ "term": "modal syllogisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:36:32+00:00",
+ "status": "ok",
+ "note": "variant=modal syllogisms; 审定公布名词库=2574; 海峡两岸名词对照库=777; 其他来源数据库=161; 预公布名词数据库=234; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "心理学名词",
+   "wordNumber": "02.645",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在传统逻辑中，一个命题(结论)必然是从另外两个命题(前提)中得出的一种推论方法。包括大前提、小前提和结论法。"
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "生物物理学名词",
+   "wordNumber": "04.087",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "各类特异化感觉系统接收其适宜刺激的基本模式。"
+  },
+  {
+   "cn": "模态结构主义",
+   "en": "modal structuralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.286",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由赫尔曼提出的一种数学结构主义立场。主张借助二阶模态逻辑重解数学，避免对结构或结构中的位置进行量化。"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张通过关于可能世界的虚构故事来理解模态。其最强版本关于模态陈述的真值条件是：P是可能的，当且仅当P在虚构故事F的语言中的翻译根据F成立；P是必然的，当且仅当P在虚构故事F的语言中的翻译总是成立。"
+  },
+  {
+   "cn": "众数",
+   "en": "modal number",
+   "source": "血液学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "细胞中的染色体数目。"
+  },
+  {
+   "cn": "模态分析",
+   "en": "modal analysis",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0091",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "将线性定常系统振动微分方程组中的物理坐标变换为模态坐标，使方程组解耦，成为一组以模态坐标及模态参数描述的独立方程。"
+  },
+  {
+   "cn": "模态参数",
+   "en": "modal parameter",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0092",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "模态的特征参数，即振动系统的各阶固有频率、振型、模态质量、模态刚度与模态阻尼。"
+  },
+  {
+   "cn": "模态刚度",
+   "en": "modal stiffness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0093",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "与特定的振动模态相关的刚度元素。"
+  },
+  {
+   "cn": "模态密度",
+   "en": "modal density",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0094",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "每单位带宽的模态数。"
+  },
+  {
+   "cn": "模态试验",
+   "en": "modal test",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0127",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "为确定系统模态参数所做的振动试验。通常先由激励和响应关系得出频率响应矩阵，再由曲线拟合等方法识别出各阶模态参数。"
+  },
+  {
+   "cn": "振型偏心距",
+   "en": "modal eccentricity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0222",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "第n阶振型不平衡量除以第n阶模态质量的值。"
+  },
+  {
+   "cn": "振型灵敏度",
+   "en": "modal sensitivity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0223",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "振型位移矢量的变化量与振型偏心距(振型不平衡量除以模态质量)的变化量的比值。"
+  },
+  {
+   "cn": "振型平衡",
+   "en": "modal balancing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0276",
+   "subjectFullName": "机械工程（一）_机械动力学_平衡与平衡装备",
+   "subjectName": "平衡与平衡装备",
+   "publishYear": "2021",
+   "definition": "平衡挠性转子的一种方法，分别在有影响的各阶挠曲主振型下进行不平衡校正，使振幅减小到规定范围之内。"
+  },
+  {
+   "cn": "模态算子",
+   "en": "modal operator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0010",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "作用于模态命题语句，表达“必然”“可能”“应当”“必须”“允许”“禁止”等意义的逻辑符号。"
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0932",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "逻辑的一个分支，它研究必然、可能及其相关概念的逻辑性质。"
+  },
+  {
+   "cn": "常态嗓音",
+   "en": "modal voice",
+   "source": "语言学名词",
+   "wordNumber": "03.143",
+   "subjectFullName": "语言学_语音学_发音语音学",
+   "subjectName": "发音语音学",
+   "publishYear": "2011",
+   "definition": "一种发声类型。发声时，声门作为一个单一的整体起作用，声带有规律地振动，并且每个周期都完全闭合，没有任何摩擦噪声。"
+  },
+  {
+   "cn": "能愿动词",
+   "en": "modal verb",
+   "source": "语言学名词",
+   "wordNumber": "04.065",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "表示行为或状况的可能、必要或意愿的动词。例如“能”“愿意”“应该”。用在动词、形容词前边。"
+  },
+  {
+   "cn": "模态分析",
+   "en": "modal analysis",
+   "source": "航天科学技术名词",
+   "wordNumber": "03.433",
+   "subjectFullName": "航天科学技术_航天器",
+   "subjectName": "航天器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "模态试验",
+   "en": "modal test",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.176",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "模态辨识",
+   "en": "modal identification",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.173",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定言三段论,直言三段论",
+   "en": "categorical syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线性三段论",
+   "en": "linear syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "调式的",
+   "en": "modal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙模型",
+   "en": "world modal",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模[式]色散",
+   "en": "modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式噪声",
+   "en": "modal noise",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态双折射性",
+   "en": "modal birefringence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态展开",
+   "en": "modal expansion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模间色散",
+   "en": "inter-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模内色散",
+   "en": "intra-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地形模型",
+   "en": "terrain model\",\"relief model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "立体模型",
+   "en": "relief model\",\"stereo model",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "分项",
+   "en": "discipline\",\"modality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奖牌",
+   "en": "medal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风教",
+   "en": "Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崇德",
+   "en": "Moral Elevation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模型论",
+   "en": "model theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑模型",
+   "en": "brain model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "KANO模型",
+   "en": "KANO model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "source": "消毒学",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "用来区别不同消毒器械的编号。"
+  },
+  {
+   "cn": "德性",
+   "en": "moral",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.111",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德品性。个人在长期的道德实践中表现出来的比较稳定的、一贯的行为特征和心理倾向。通过道德认识、道德情感、道德信念、道德意志和道德行为等因素表现出来。"
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.90",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于分析具有层次结构数据的统计模型。"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.071000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在布朗斯坦提出的医患关系模式中，指医务人员只是关心疾病的处理、科学知识的解释以及标准技术和常规技能的应用，较少考虑患者的期望和感受的一种模式类型。在该种模式中医生拥有绝对权威，患者被动服从医生的判断与"
+  },
+  {
+   "cn": "节操",
+   "en": "moral integrity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "气节和操守的统称。前者表示一个人的精神力量，后者表示其道德品质。坚守某种被誉为高尚品质的行为表现。"
+  },
+  {
+   "cn": "模型膳食",
+   "en": "model diets",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种假设固定的默认消费水平的膳食暴露评估筛选方法，通常用于食品和饮料分类。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "道德评价",
+   "en": "moral evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准对人们的道德行为和各种道德现象所作的善恶是非判断。包括自我评价和他人评价。其评价依据是动机与效果、目的与手段的辩证统一。"
+  },
+  {
+   "cn": "萨奇曼模式",
+   "en": "Suchman's model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.073",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "由美国医学社会学家马克·萨奇曼（Mark Suchman）提出，用于分析患者如何理解、解释和应对疾病，强调疾病认知的社会文化建构性，主张患者的疾病行为（如就医、服药、康复）不仅受生物医学因素影响，更与"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "Probit model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.76",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种二元响应模型，由切斯特·布利斯（Chester Bliss）提出。"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "隔室模型",
+   "en": "compartment model",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.41",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "以隔室为组成单位，用动力学参数表达进入体内的放射性核素在体内转运规律的数学模型。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "模型设定",
+   "en": "model specification",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.97",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "建立自变量与因变量及其关系的过程。包括变量的构成、函数形式的选择和误差项的假定。"
+  },
+  {
+   "cn": "对数单位模型",
+   "en": "logit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.103",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将某一变量的某个类别的几率作为因变量，其他变量作为自变量的一种分析定类数据的模型。在数学上等价于对数线性模型。"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "probit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.106",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "因变量为两分变量，应用概率单位链接函数的回归模型。"
+  },
+  {
+   "cn": "边缘模型",
+   "en": "marginal model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.112",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "对一组变量的边缘分布、甚至它们的联合分布设定限制的统计模型。"
+  },
+  {
+   "cn": "饱和模型",
+   "en": "saturated model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.116",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "参数数量等于数据值的统计模型。"
+  },
+  {
+   "cn": "发展模式",
+   "en": "development model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "一些国家或地区在发展过程中遵循或形成的独特的发展原则、发展方向、发展道路、发展方式等。"
+  },
+  {
+   "cn": "道义经济学",
+   "en": "moral economics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.40",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "受生存伦理支配的经济活动。斯科特(James C.Scott）用此概念强调了生存规则的道德涵义。借助对东南亚农民反叛的考察与分析，他指出，农民追求的不是收入的最大化，而是“安全第一”的生存伦理，以及相"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

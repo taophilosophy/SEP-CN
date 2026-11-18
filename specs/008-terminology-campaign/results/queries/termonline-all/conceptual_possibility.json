@@ -1,0 +1,592 @@
+{
+ "key": "conceptual possibility",
+ "term": "conceptual possibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:41:58+00:00",
+ "status": "ok",
+ "note": "variant=conceptual possibility; 审定公布名词库=90; 海峡两岸名词对照库=36; 其他来源数据库=8; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0337",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "事物发生的概率。是包含在事物之中并预示着事物发展趋势的量化指标。"
+  },
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "兽医学名词",
+   "wordNumber": "07.080",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "由受精卵进一步发育形成的早期胚胎结构。包括胚胎本身、胎盘和胎膜。"
+  },
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "畜牧学名词",
+   "wordNumber": "05.299",
+   "subjectFullName": "畜牧学_繁殖_受精、妊娠、分娩",
+   "subjectName": "受精、妊娠、分娩",
+   "publishYear": "2020",
+   "definition": "孕畜子宫内的胎儿、胎膜和胎水三者的总称。"
+  },
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "21.028",
+   "subjectFullName": "组织学与胚胎学_胚胎学_配子发生、受精和胚前期发育",
+   "subjectName": "配子发生、受精和胚前期发育",
+   "publishYear": "2014",
+   "definition": "受精卵分裂分化所产生的早胚结构的统称。包括胚体及其附属结构。"
+  },
+  {
+   "cn": "概念主义",
+   "en": "conceptualism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.271",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为数学对象是人心中的概念或观念，是某种心理对象。它肯定数学对象存在（区别于唯名论），但否认这些对象独立于我们而存在（区别于柏拉图主义）。"
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.612",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在信息科学中，对为某些目的而选取的一部分世界而建立的抽象、简化的视图。"
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "心理学名词",
+   "wordNumber": "15.093",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师对当事人及其心理问题形成的整体的、专业的理解。"
+  },
+  {
+   "cn": "概念主义",
+   "en": "conceptualism",
+   "source": "语言学名词",
+   "wordNumber": "01.186",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "一种哲学观点。认为普遍性只以概念的形式存在于人的心智之中。乔姆斯基把语言看做人脑中的心理客体，这种语言观归属于心智主义（mentalism）。"
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0110",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种基于模糊集和模糊逻辑，利用可能性度量和必要性度量处理不确定性的方法。"
+  },
+  {
+   "cn": "生产可能性",
+   "en": "production possibility",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "指现有资源在一定的技术条件下可能生产的最大产量组合。"
+  },
+  {
+   "cn": "可能候选者",
+   "en": "possible candidate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0243",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "选取的自然数作为满足某条件的证据的可能候选者。"
+  },
+  {
+   "cn": "可能世界",
+   "en": "possible world",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0016",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "克里普克（Kripke）提出的一种表述模态逻辑语义的基本单元。每一个可能世界是一种特定的语境，规定了在此语境中哪些模态命题为真，哪些为假。通过模态推理可以从一个可能世界到达另一个可能世界。"
+  },
+  {
+   "cn": "可能结局",
+   "en": "possible outcomes",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0244",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求的策略的最终结局。由于一个需求对应一个图灵机，而一个图灵机计算一个部分函数，因此针对一个需求的策略的最终结局依赖于需求所对应的图灵机的规律。"
+  },
+  {
+   "cn": "可能通行能力",
+   "en": "possible capacity",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "概念相交组配",
+   "en": "conceptual intersection",
+   "source": "档案学名词",
+   "wordNumber": "03.04.048",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "用两个或两个以上具有概念交叉关系的同级主题词组配表达其相应的下位概念。"
+  },
+  {
+   "cn": "概念设计",
+   "en": "conceptual design",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.076",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "化工工艺过程开发中的一个重要环节。它依据新工艺的基础研究和模型试验的结果进行工业规模生产流程的预想设计。"
+  },
+  {
+   "cn": "概念规划",
+   "en": "conceptual planning",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.014",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "对发展中具有方向性、战略性的重大问题进行集中专门研究的成果，从经济、社会、环境的角度提出发展的综合目标体系和发展战略，强调思路的创新性、前瞻性和指导性，是介于发展战略规划和建设规划之间的一种新的规划。"
+  },
+  {
+   "cn": "概念设计",
+   "en": "conceptual design",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.134",
+   "subjectFullName": "化工（五）_研发与工程化_工程化研究",
+   "subjectName": "工程化研究",
+   "publishYear": "2021",
+   "definition": "依据基础研究的结果、文献中的数据以及现有类似装置的操作数据和工程经验，按照所开发的新技术工业化规模所做出的预设计，用以指导过程研究及提出对开展基础研究进一步的试验要求。"
+  },
+  {
+   "cn": "概念设计",
+   "en": "conceptual design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0020",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计流程",
+   "subjectName": "设计流程",
+   "publishYear": "2021",
+   "definition": "在明确任务之后，经过抽象化，拟定功能结构，寻求适当的作用原理及其组合，确定出基本的求解路径，得出求解方案的设计。"
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0008",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库中数据的整体逻辑结构的描述。"
+  },
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可能性界限",
+   "en": "possibility boundaries",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可能误差",
+   "en": "possible error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可能自我",
+   "en": "possible self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概念式触发",
+   "en": "conceptual priming",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念效标",
+   "en": "conceptual criterion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念变量",
+   "en": "conceptual variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念定义",
+   "en": "conceptual definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念模型",
+   "en": "conceptual model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概念模型",
+   "en": "conceptual model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "概念圖示",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念模型",
+   "en": "conceptual model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念分析",
+   "en": "conceptual analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念检索",
+   "en": "conceptual retrieval",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念库",
+   "en": "conceptual base",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念聚类",
+   "en": "conceptual clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "取境",
+   "en": "Qujing (Conceptualize an Aesthetic Feeling)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尽最大可能控制疫情波及范围",
+   "en": "to make every possible effort to curb the spread of the disease",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "做好返程人员疫情防控",
+   "en": "to take measures to help returnees from infected regions in order to prevent any possible spread of the coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 19114.32-2008 工业自动化系统与集成 工业制造管理数据：资源应用管理 第32部分：资源应用管理数据的概念模型》",
+   "en": "GB/T 19114.32-2008 Industrial automation systems and integration — Industrial manufacturing management data: Resource usage management — Part 32: Conceptual model for resources usage management data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "马克思主义",
+   "wordNumber": "01.0064",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由事物内部矛盾引起的，包含在事物中的预示事物发展变化的种种趋势，或事物转化的潜在因素，是潜在的尚未实现的东西。"
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.31",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "为了得出有理论意义的结论，对日常生活中使用的词语进行明确界定的过程。"
+  },
+  {
+   "cn": "可能病例",
+   "en": "possible case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，病例临床标本无实验室阳性结果或未采集到病例的临床标本，但具有典型的临床症状体征的病例。"
+  },
+  {
+   "cn": "概念实在论",
+   "en": "conceptual realism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是具有现实的、真实的和独立的存在的一种学说。"
+  },
+  {
+   "cn": "概念唯名论",
+   "en": "conceptual nominalism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是人为构建出来的，在现实中并没有对应的存在物，是一种名义上的存在物的学说。"
+  },
+  {
+   "cn": "概念史",
+   "en": "conceptual history",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.22",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种关于概念的历史形成及其转化对社会科学的影响的研究，亦即关于概念形成的历史社会学。在英语世界中，它以观念论取向的语境脉络分析为主，而在德语世界中，是以社会取向的语境脉络分析为主，两者均属于历史社会学"
+  },
+  {
+   "cn": "可能性与现实性",
+   "en": "possibility and actuality",
+   "source": "马克思主义",
+   "wordNumber": "01.0066",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "可能性与现实性是对立统一的关系。二者相互区别，不能等同。只有具备充分客观根据的可能性才能转化为现实性。二者又是统一的，它们相互依存、相互包含、相互转化。可能性作为潜在趋势存在于现实性之中，是还没有实现"
+  },
+  {
+   "cn": "主题概念阵",
+   "en": "thematic conceptual matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据一个研究主题，列出所有相关概念的行列交叉表格。"
+  },
+  {
+   "cn": "概念聚类阵",
+   "en": "conceptually clustered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.12",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把同概念相关的术语汇集起来的行列交叉表格。其基本原则是概念的一致性。"
+  },
+  {
+   "cn": "生产可能性边界",
+   "en": "production possibility frontier，PPF",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "在既定资源和技术条件下所能生产或提供的各种商品或服务的最大数量组合。"
+  },
+  {
+   "cn": "可能派",
+   "en": "Possibiliste",
+   "source": "马克思主义",
+   "wordNumber": "04.0330",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "法国社会主义运动中的机会主义派别，以布鲁斯、马隆等人为首；他们在1882年造成法国工人党的分裂，并成立新党“法国社会主义革命工人党”。这个派别的领袖们反对革命的策略，他们宣布改良主义的原则，即只争取“"
+  },
+  {
+   "cn": "背景效应",
+   "en": "contextual effects",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.139",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "回答人在回答一组题目或测试时，在先的回答对后续的回答产生的影响。是问题的次序效应之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

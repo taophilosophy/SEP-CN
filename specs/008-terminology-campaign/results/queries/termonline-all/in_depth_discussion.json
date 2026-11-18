@@ -1,0 +1,762 @@
+{
+ "key": "in-depth discussion",
+ "term": "in-depth discussion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:27:02+00:00",
+ "status": "ok",
+ "note": "variant=in-depth discussion; 审定公布名词库=4291; 海峡两岸名词对照库=816; 其他来源数据库=431; 预公布名词数据库=652; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "深度报道",
+   "en": "in depth reporting",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.09",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "记者对重要社会问题或重要新闻事件进行深入探索，力求全面深刻和立体呈现事实的报道体裁。"
+  },
+  {
+   "cn": "深度报道",
+   "en": "in-depth coverage",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.099",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "系统反映重大新闻事件和社会问题，深入挖掘和阐明事件的因果关系以揭示其实质和意义，追踪和探索其发展趋向的报道方式。"
+  },
+  {
+   "cn": "[网络]纵深防御",
+   "en": "defence in depth",
+   "source": "电力名词",
+   "wordNumber": "06.172",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "基于任何一个防护点都可以而且几乎肯定会被击破这一概念的安全体系。这意味着多层次的安全防护和检测,即使在单一系统上也是如此。该体系提供以下特性:①使攻击者面临必须在不被察觉的条件下突破旁路每一层安全防护"
+  },
+  {
+   "cn": "纵深防御",
+   "en": "defense in depth",
+   "source": "电力名词",
+   "wordNumber": "17.732",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "作为必须贯彻于核活动全过程的核安全基本原则。使核设施和核活动置于多重保护之下,即使发生某个故障,亦将有适当的措施及时探测、补救或纠正,而不致危及工作人员、公众和环境。"
+  },
+  {
+   "cn": "深入访谈法",
+   "en": "in-depth interview",
+   "source": "计划生育名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "通过访谈员与被访谈者围绕与某医疗器械相关的某个主体或范围进行的较为自由的交谈，直到获取足够的风险信息量。根据被访谈对象的数量可分为个人深入访谈和专题小组讨论。"
+  },
+  {
+   "cn": "纵深防御",
+   "en": "defense in depth",
+   "source": "核医学名词",
+   "wordNumber": "02.0552",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "针对核设施和涉核实践给定的安全目标而采取的多重防护措施。确保即使其中一种防护措施失效仍能达到所确定的安全目标。"
+  },
+  {
+   "cn": "深入访谈",
+   "en": "in-depth interview",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.083",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "一种访谈形式，一般以一对一、面对面的方式进行。由调查员和调查对象进行直接对话，收集符合调查目的的资料。"
+  },
+  {
+   "cn": "纵深防御",
+   "en": "defense in depth",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.210",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "针对给定的安全目标运用多种防护措施，使得即使其中一种防护措施失效，仍能达到该安全目标。"
+  },
+  {
+   "cn": "最大啮入深度",
+   "en": "maximum depth in engaging",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0420",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_谐波齿轮传动",
+   "subjectName": "谐波齿轮传动",
+   "publishYear": "2021",
+   "definition": "在啮合状态下，柔轮变形后长半轴(或短半轴)上的齿顶圆与刚轮齿顶圆半径之差的绝对值。"
+  },
+  {
+   "cn": "深度",
+   "en": "depth",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0220",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "软件结构中控制的层数。"
+  },
+  {
+   "cn": "市场深度",
+   "en": "depth",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0211",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "在一个给定的买卖报价下可以交易的股票数量。"
+  },
+  {
+   "cn": "光照深度",
+   "en": "depth of light in water",
+   "source": "光学名词",
+   "wordNumber": "27.060",
+   "subjectFullName": "光学_环境光学、空间光学与自适应光学",
+   "subjectName": "环境光学、空间光学与自适应光学",
+   "publishYear": "2021",
+   "definition": "水体中光线透射的深度。光照强度随着水深的增加呈指数下降。清澈大洋区，光照深度可达200 m；浑浊沿岸带水体区，有效的光线透射很少超过30 m水深。海洋水体因此形成了浅薄的透光带和深厚的无光带。"
+  },
+  {
+   "cn": "梁高",
+   "en": "beam depth,girder depth",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.026",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "震源深度",
+   "en": "focal depth,earthquake depth",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "震源深度",
+   "en": "focal depth; earthquake depth",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1384",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "地下发生地震时最先发生破裂的点 (或爆炸、矿山坍塌或任何一种激发地震波的源最先发生的点 )称为震源，震源在地面上的投影称为震中，震源至地面的垂直距离即震源至震中的距离称为震源深度。 "
+  },
+  {
+   "cn": "讨论线索",
+   "en": "discussion thread",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0774",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "在论坛或公告板上由某个特定文章引发的一系列文章。"
+  },
+  {
+   "cn": "讨论法",
+   "en": "discussion method",
+   "source": "教育学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "在教师的指导下，学生以全班或小组为单位，围绕某一中心论题，各抒己见，共同探讨，从而有效获得知识的教学方法。"
+  },
+  {
+   "cn": "码头前水深",
+   "en": "water depth in front of wharf",
+   "source": "水产名词",
+   "wordNumber": "10.023",
+   "subjectFullName": "水产_渔业工程与渔港",
+   "subjectName": "渔业工程与渔港",
+   "publishYear": "2002",
+   "definition": "码头前在设计低水位时保证设计船型满载吃水作业所需要的水深。"
+  },
+  {
+   "cn": "震源深度",
+   "en": "hypocentral depth",
+   "source": "地质学名词",
+   "wordNumber": "11.02.004",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "震源与其地面铅直投影点之间的距离。"
+  },
+  {
+   "cn": "深度带",
+   "en": "depth zone",
+   "source": "地质学名词",
+   "wordNumber": "06.03.007",
+   "subjectFullName": "地质学_变质岩岩石学_变质带与变质相",
+   "subjectName": "变质带与变质相",
+   "publishYear": "2026",
+   "definition": "以埋藏深度为标准划分的变质带。由塞德霍尔姆(J.J.Sederholm)首先提出，他认为变质程度主要与埋藏深度有关，变质温度、压力都随深度而增加，并划分出浅变质带与深变质带。"
+  },
+  {
+   "cn": "深度",
+   "en": "depth",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "小组讨论",
+   "en": "panel discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "树冠厚度",
+   "en": "crown depth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标准[水层]深度",
+   "en": "standard depth",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光学厚度",
+   "en": "optical depth",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回波厚度",
+   "en": "echo depth",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合深度",
+   "en": "mixing depth",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "碎波深度",
+   "en": "breaker depth",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泡沫深度",
+   "en": "froth depth",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "共轭深度",
+   "en": "conjugate depth",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合深度",
+   "en": "mixing depth",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "临界深度",
+   "en": "critical depth",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "滤池深度",
+   "en": "filter depth",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "深层心理学",
+   "en": "depth psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "深度［知觉］线索",
+   "en": "depth cue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "深度知觉",
+   "en": "depth perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "深度访谈",
+   "en": "depth interview",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脫碳深度",
+   "en": "decarburized depth",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "食深",
+   "en": "eclipse depth",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "临界深度",
+   "en": "critical depth",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "深度",
+   "en": "depth",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "型深",
+   "en": "depth",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测深仪",
+   "en": "depth finder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水深",
+   "en": "water depth",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事出于沈思，义归乎翰藻",
+   "en": "Recording History in an In-depth Way and Presenting It in Eloquent Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深度优先搜索",
+   "en": "depth-first search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "界内!",
+   "en": "In!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "早转",
+   "en": "in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "称体重",
+   "en": "weigh in\",\"weighing-in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延长局",
+   "en": "additional inning\",\"extra inning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "收紧",
+   "en": "haul\",\"pull in\",\"haul in\",\"take in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "称体重",
+   "en": "weigh in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "称体重",
+   "en": "weigh-in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界内！",
+   "en": "Good! In!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下网",
+   "en": "net in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纵深防御",
+   "en": "defense in depth",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.7.4",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_设施防护安全",
+   "subjectName": "设施防护安全",
+   "publishYear": "2025",
+   "definition": "针对给定的安全目标运用多种防护措施，使得即使其中某一种防护措施失效，仍能达到该安全目标。"
+  },
+  {
+   "cn": "深度访谈",
+   "en": "in-depth inerview",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "为了获得关于研究主题更加全面而细致的信息而进行的较长时间的访谈。一般包括无结构访谈，半结构访谈，有时也包括叙事访谈和生命史访谈。"
+  },
+  {
+   "cn": "深度旅游",
+   "en": "in-depth travel",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0201",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "游览者在做了大量的调查后，在目的地停留较长的一段时间，通过参与当地日常生活、文化活动和社交互动，获得更深层次的文化体验和理解的旅游形式。"
+  },
+  {
+   "cn": "深入访谈",
+   "en": "in-depth interview",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "根据访问提纲，通过与研究对象面对面的深入交谈了解其对某些问题的想法、感觉与行为的定性调查方法。"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "小组讨论",
+   "en": "group discussion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "在教育者或组织者的引导下，通过集体讨论的形式，对所学课题或规定的题目提出各自的看法，从而加深对已学知识的理解和运用的教学方法。也适用于以改变态度、提高决策能力和沟通技能为目的教学内容。"
+  },
+  {
+   "cn": "基准深度",
+   "en": "base depth",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.25",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "体模内包含辐射束轴上最大吸收剂量90%点的平面所在的深度。"
+  },
+  {
+   "cn": "深度剂量",
+   "en": "depth dose",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.27",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在辐射束轴上，被照射物体表面下某一特定深度处的吸收剂量。"
+  },
+  {
+   "cn": "选题小组讨论",
+   "en": "nominal group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过程序化的小组讨论过程，发现问题、确定优先领域、筛选评价指标等的研究方法。通常由具有各种不同既得利益、不同思想意识和不同专业水平的人组成一个小组发掘问题，并把所发现的问题按其重要程度排列出来。"
+  },
+  {
+   "cn": "专题小组讨论",
+   "en": "focus group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过召集一小组同类人员，对某一研究议题进行讨论，得出结论的定性调查方法。"
+  },
+  {
+   "cn": "平均穿透深度",
+   "en": "mean penetration depth",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.13",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "辐射粒子进入物体穿行的平均距离。"
+  },
+  {
+   "cn": "深度剂量曲线",
+   "en": "depth dose curve",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.28",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在源皮距和辐射野面积一定时，辐射束轴上的吸收剂量随深度而变化的关系曲线。"
+  },
+  {
+   "cn": "伦理深度访谈法",
+   "en": "ethical depth interview",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.236",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "研究者和被调查对象之间就某一伦理主题，通过一对一的无结构或半结构式的深度交流，获得丰富生动的定性资料，从中归纳和概括出某种伦理结论的方法。"
+  },
+  {
+   "cn": "百分深度剂量",
+   "en": "percentage depth dose，PDD",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.29",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "模体内照射野中心轴上某一深度d处的吸收剂量Dd与参考点深度的吸收剂量Dd0的比值。"
+  },
+  {
+   "cn": "内群体",
+   "en": "in-group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "成员经常参与其间的活动，对其有团结、忠心、亲密及合作感觉，在心理上自觉认同并归属于其中的群体。与“外群体”相对。"
+  },
+  {
+   "cn": "住院病人",
+   "en": "in-patient",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.66",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "住进医院接受观察或治疗的病人。"
+  },
+  {
+   "cn": "姻亲",
+   "en": "in-laws",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0391",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "因婚姻关系而产生的亲属，分为血亲的配偶、配偶的血亲两种。姻亲同血亲一样，也有直系与旁系、尊亲属与卑亲属之分。"
+  },
+  {
+   "cn": "原位杀菌",
+   "en": "sterilization in place",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.14",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "未拆卸设备或组件，在密闭的条件下，用一定温度和浓度的杀菌介质，或用蒸汽、热水、过热水对被杀菌表面进行强力作用而达到杀菌要求。"
+  },
+  {
+   "cn": "包内指示物",
+   "en": "indicator in bag",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.1.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "置于灭菌包内部，用于检测灭菌包是否达到灭菌合格要求的指示物。如第四类、第五类化学指示物。"
+  },
+  {
+   "cn": "学校消毒",
+   "en": "disinfection in school",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.6",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "在学校中，对校内餐饮活动、环境等进行的消毒。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

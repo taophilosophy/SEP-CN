@@ -1,0 +1,742 @@
+{
+ "key": "primary importance",
+ "term": "primary importance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:34:56+00:00",
+ "status": "ok",
+ "note": "variant=primary importance; 审定公布名词库=1482; 海峡两岸名词对照库=648; 其他来源数据库=48; 预公布名词数据库=78; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "初级进口替代",
+   "en": "primary import substitution",
+   "source": "经济学名词",
+   "wordNumber": "06.126",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "从发展农产品加工工业部门着手，主要投资于非耐用消费品生产的进口替代。"
+  },
+  {
+   "cn": "导入",
+   "en": "import",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0574",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）将当前系统之外的某个指定位置上的一批数据输入到系统中。（2）一种改变元素可见性的表示法，使其他作用域或名字空间的元素可以在本作用域或名字空间内被直接引用。"
+  },
+  {
+   "cn": "重要值",
+   "en": "importance value",
+   "source": "植物学名词",
+   "wordNumber": "13.0278",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "表示群落中物种相对重要性的一种复合定量指标。通常用物种的几个数量特征相对值来计算，但计算的方法并不统一。"
+  },
+  {
+   "cn": "重要值",
+   "en": "importance value",
+   "source": "林学名词",
+   "wordNumber": "03.063",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "研究某个种在群落中的地位和作用的综合数量指标。是相对密度、相对频度、相对优势度的总和。其值一般介于0~300之间。"
+  },
+  {
+   "cn": "重要性抽样技术",
+   "en": "importance sampling",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0416",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "通过尺度变换来修改决定仿真输出结果的概率测度，使本来发生概率很小的稀有事件频繁发生，从而加快仿真速度，能够在较短的时间内得到稀有事件。"
+  },
+  {
+   "cn": "重要值",
+   "en": "importance value",
+   "source": "生态学名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "研究某个种在群落中的地位和作用的综合数量指标。是相对密度、相对频度、相对优势度的总和。其值一般介于0～300之间。"
+  },
+  {
+   "cn": "通报",
+   "en": "important notification",
+   "source": "档案学名词",
+   "wordNumber": "02.01.056",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "领导指导性文件的一种。适用于表彰先进、批评错误、传达重要精神和告知重要情况。"
+  },
+  {
+   "cn": "要辑",
+   "en": "important album",
+   "source": "档案学名词",
+   "wordNumber": "08.02.021",
+   "subjectFullName": "档案学_中国档案事业史_档案工作制度",
+   "subjectName": "档案工作制度",
+   "publishYear": "2024",
+   "definition": "较为重要但无须永远保存之文件组成的案卷。"
+  },
+  {
+   "cn": "重点书",
+   "en": "important book",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.039",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "列入某级规划，在出版中享有资源优先配置权的图书。"
+  },
+  {
+   "cn": "重要负荷",
+   "en": "important load",
+   "source": "电力名词",
+   "wordNumber": "23.095",
+   "subjectFullName": "电力_配电与用电",
+   "subjectName": "配电与用电",
+   "publishYear": "2020",
+   "definition": "突然停止供电时,造成巨大的经济损失或社会影响的负荷。"
+  },
+  {
+   "cn": "重要件",
+   "en": "important part",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.098",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "重要负载",
+   "en": "important load",
+   "source": "航海科技名词",
+   "wordNumber": "15.1123",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "技术引进",
+   "en": "technology import",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.098",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "从别的国家或地区有计划、分步骤地输入先进技术成果，并使之得到移植应用的过程。"
+  },
+  {
+   "cn": "引进稿",
+   "en": "imported manuscript",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.02.010",
+   "subjectFullName": "编辑与出版学_编辑_组稿",
+   "subjectName": "组稿",
+   "publishYear": "2022",
+   "definition": "出版单位通过著作权贸易或出版交流活动获取的稿件。"
+  },
+  {
+   "cn": "技术引进",
+   "en": "technology import",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.209",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "一个国家或地区的企业、研究单位、机构通过一定方式从本国或其他国家、地区的企业、研究单位、机构获得先进适用的技术的行为。"
+  },
+  {
+   "cn": "进口税",
+   "en": "import tariff",
+   "source": "经济学名词",
+   "wordNumber": "11.084",
+   "subjectFullName": "经济学_财政与税收经济学",
+   "subjectName": "财政与税收经济学",
+   "publishYear": "2020",
+   "definition": "关税中的一大类。进口国家的海关在外国商品输入本国境内市场时，对进口这些外国商品的商家所征收的正常进口关税。"
+  },
+  {
+   "cn": "进口附加税",
+   "en": "import surtax",
+   "source": "经济学名词",
+   "wordNumber": "11.085",
+   "subjectFullName": "经济学_财政与税收经济学",
+   "subjectName": "财政与税收经济学",
+   "publishYear": "2020",
+   "definition": "一国对进口商品随征收关税正税，另外附加征收的一类关税。一般是临时性的或一次性的。征收附加税的理由很多，主要目的是在财政收入或经济保护等方面补充正税之不足。"
+  },
+  {
+   "cn": "进口替代",
+   "en": "import replacing",
+   "source": "经济学名词",
+   "wordNumber": "13.016",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "一国采取各种措施，逐渐在国内市场以本国产品替代进口品，为本国工业发展创造有利条件，实现本国工业化的政策。它是内向型经济发展战略的产物。"
+  },
+  {
+   "cn": "进口许可证",
+   "en": "import license",
+   "source": "经济学名词",
+   "wordNumber": "13.070",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "企业或机构在进口商品之前向政府主管部门申请领取的允许进口的必备证件。所有商品的进口均需进口许可证，否则一律不准进口，或被视为走私而依法查处。"
+  },
+  {
+   "cn": "进口补贴",
+   "en": "import subsidy",
+   "source": "经济学名词",
+   "wordNumber": "13.084",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "一国政府为了降低某些稀缺或重要产品进口价格，鼓励这些产品的进口，在进口时给予进口商的现金补贴或财政上的优惠待遇。"
+  },
+  {
+   "cn": "进口",
+   "en": "import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "导入",
+   "en": "import",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重要值",
+   "en": "importance value",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重要负载",
+   "en": "important load",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同化物输入",
+   "en": "assimilate import",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "补偿性进口",
+   "en": "compensation import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单边进口",
+   "en": "unilateral import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内消费进口",
+   "en": "retained import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "黄金输入",
+   "en": "gold import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术引进",
+   "en": "technology import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "间接进口",
+   "en": "indirect import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口保证金，进口押金",
+   "en": "import deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口报单",
+   "en": "import declaration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口报关单",
+   "en": "import entry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口壁垒",
+   "en": "import barrier",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口补贴",
+   "en": "import subsidy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口成本",
+   "en": "import cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口承诺",
+   "en": "import commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口程序",
+   "en": "import procedure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口代理商",
+   "en": "import agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "重要性采样",
+   "en": "importance sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民以食为天",
+   "en": "Food Is of Primary Importance to the People.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贵宾",
+   "en": "very important person",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重要数据加密规则",
+   "en": "rule for encrypting important data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据导入导出标准",
+   "en": "data import and export standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "严控境外疫情输入",
+   "en": "strict control of imported infection ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生命重于泰山。",
+   "en": "Saving lives is of paramount importance. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人命关天",
+   "en": "Life Is as Important as Heaven.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "首届中国国际进口博览会",
+   "en": "the first China International Import Expo",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风险防控主体责任",
+   "en": "primary responsibility for risk prevention and control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违规披露、不披露重要信息罪",
+   "en": "crime of submitting false reports or reports concealing important facts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脱贫攻坚是以人民为中心发展思想的重 要体现",
+   "en": "Poverty alleviation is an important embodiment of the people-centered philosophy of development.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生命安全和生物安全领域的重大科技成果是国之重器。",
+   "en": "Major scientific and technological achievements in the fields of life safety and biosecurity are of vital importance to our country.  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进口食品添加剂",
+   "en": "imported food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "产自中国境外，通过中国海关报关验放后进入中国境内的食品添加剂产品"
+  },
+  {
+   "cn": "一级防护",
+   "en": "primary protection",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.1",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "在医疗卫生活动中，为避免相关人员感染而采取的一般等级的防护措施，包括穿戴工作服、工作帽、手套、口罩等。"
+  },
+  {
+   "cn": "基准物质",
+   "en": "primary standard",
+   "source": "消毒学",
+   "wordNumber": "6.1.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有确定的化学组成和足够的纯度，性质稳定，可用于直接配制标准溶液或标定滴定分析中操作溶液的物质。"
+  },
+  {
+   "cn": "初级限值",
+   "en": "primary limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "《电离辐射防护与辐射源安全基本标准》中规定的个人受到辐射剂量或辐射危险不得超过的值。"
+  },
+  {
+   "cn": "主屏蔽",
+   "en": "primary shielding",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.36",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "用于屏蔽主射束的屏蔽体。"
+  },
+  {
+   "cn": "初级辐射",
+   "en": "primary radiation",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "直接由靶或辐射源发出的电离辐射。"
+  },
+  {
+   "cn": "初级准直器",
+   "en": "primary collimator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.2",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "对从源射出的辐射束进行第一次准直的装置。"
+  },
+  {
+   "cn": "首属群体",
+   "en": "primary group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "个人最初加入的首先接受社会化的群体，其成员间相互熟悉、了解，因而以感情为基础结成具有亲密的、面对面交往与合作特征的社会群体。最早由美国社会学家库利(Charles Horton Cooley）在《社会"
+  },
+  {
+   "cn": "第一要务",
+   "en": "primary task",
+   "source": "马克思主义",
+   "wordNumber": "03.0824",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，高质量发展是全面建设社会主义现代化国家的首要任务。发展是党执政兴国的第一要务。"
+  },
+  {
+   "cn": "一级医院",
+   "en": "primary hospital ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.3.3",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "向一个社区(人口一般在10万以下）提供基本医疗、预防、保健和康复服务的基层医疗机构。"
+  },
+  {
+   "cn": "初级情绪",
+   "en": "primary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "在出生后第1年的早期出现的情绪。如快乐、厌恶、惊奇、悲伤、愤怒、恐惧。"
+  },
+  {
+   "cn": "一级模型",
+   "en": "primary model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.93",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "预测微生物学经典分类方法中用于描述微生物量与时间之间的函数关系的模型。"
+  },
+  {
+   "cn": "基层卫生",
+   "en": "primary health",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.1",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "普及适宜的、技术可靠、社会能接受和负担的技术，使全体人民公平地获得基本卫生服务。"
+  },
+  {
+   "cn": "初生云团",
+   "en": "primary cloud",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.2.5.2",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器",
+   "subjectName": "化学武器",
+   "publishYear": "2025",
+   "definition": "毒剂弹爆炸或飞机布洒后即刻形成的毒剂云团，具有毒剂初始浓度高、持续时间较短、危害纵深远和杀伤作用大的特点。"
+  },
+  {
+   "cn": "毛茶",
+   "en": "primary tea",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.23",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "鲜叶经过初加工后的产品。"
+  },
+  {
+   "cn": "最小重要变化",
+   "en": "minimal important change, MIC",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "患者角度认为有治疗或护理效果的最小分数变化。"
+  },
+  {
+   "cn": "基层卫生服务",
+   "en": "primary health service",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.2",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "卫生系统的核心组成部分，以可及性、公平性、综合性为原则，为全体居民提供预防、医疗、保健、康复、健康教育等一体化服务，旨在通过资源下沉和社区参与，实现全民健康覆盖和健康公平。"
+  },
+  {
+   "cn": "初级宇宙射线",
+   "en": "primary cosmic rays",
+   "source": "放射卫生学",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "由初级银河系宇宙辐射和初级太阳系宇宙辐射所构成的高能电离辐射，主要是高能质子、氦原子核和重带电粒子。"
+  },
+  {
+   "cn": "原初作用过程",
+   "en": "primary effect process",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "电离辐射作用于机体，从照射时起到细胞学上观察到可见损伤的这段时间内，在细胞内进行着电离辐射直接激发或电离物质分子（原子）及其强化的过程。"
+  },
+  {
+   "cn": "原发辐射分解产物",
+   "en": "primary radiolysis products",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.28",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "在电离辐射作用下，物质分子（如水等）发生电离或激发后直接产生的中间产物。这些产物通常包括自由基、离子、激发态分子等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "best science",
+ "term": "best science",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:33:45+00:00",
+ "status": "ok",
+ "note": "variant=best science; 审定公布名词库=5450; 海峡两岸名词对照库=1077; 其他来源数据库=201; 预公布名词数据库=273; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "最佳估计值",
+   "en": "best estimate",
+   "source": "地质学名词",
+   "wordNumber": "13.08.082",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "根据测量值计算出的最接近待测量真值的计算值。"
+  },
+  {
+   "cn": "畅销书",
+   "en": "best seller",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.040",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "在一定时期内销量大的一般图书。"
+  },
+  {
+   "cn": "畅销书",
+   "en": "best seller",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.056",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "受到读者热烈欢迎、销售量很高的图书。"
+  },
+  {
+   "cn": "最佳图书",
+   "en": "best book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.055",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "书评家在新近出版的图书中精心挑选出的某一领域或某一类图书中最具有代表性的图书。"
+  },
+  {
+   "cn": "最佳实践",
+   "en": "best practice",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0546",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "在实践中总结出来并被证实有效的技术、方法、过程或者活动。将其应用于某类任务可以期望获得较好的产出结果。"
+  },
+  {
+   "cn": "最佳适配法",
+   "en": "best-fit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0485",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种分配资源的方法。最先分配大小最接近申请量的可用资源。"
+  },
+  {
+   "cn": "畅销品",
+   "en": "best seller",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0662",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售得非常好的商品。"
+  },
+  {
+   "cn": "代销",
+   "en": "best effort",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0239",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "投资银行同意帮助发行公司向公众销售证券，但实际上自己并不购买证券。投资银行仅仅扮演公众与发行公司间的中介，这样，银行就不必承担按约定价格将证券销售给公众的风险。"
+  },
+  {
+   "cn": "尽力而为服务",
+   "en": "best effort",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.119",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "标准的因特网服务模式。在网络接口发生拥塞时，不顾及用户或应用，马上丢弃数据包，直到业务量有所减少为止。"
+  },
+  {
+   "cn": "最佳逼近",
+   "en": "best approximation",
+   "source": "数学名词",
+   "wordNumber": "010.0084",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最佳拟合",
+   "en": "best fit",
+   "source": "数学名词",
+   "wordNumber": "010.0140",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最佳估计值",
+   "en": "best estimate",
+   "source": "地质学名词",
+   "wordNumber": "06.487",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最佳放牧场放牧",
+   "en": "best pasture grazing ",
+   "source": "草学名词",
+   "wordNumber": "2.0563",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "最佳拟合模型",
+   "en": "best-fitting model",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1900",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "观测值与理论值按一定拟合准则 (如使某个失配函数值为最小 )达到最佳拟合时的模型。 "
+  },
+  {
+   "cn": "最佳拟合矢量",
+   "en": "best-fitting vector",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0169",
+   "subjectFullName": "地球物理学_地球动力学_板块构造",
+   "subjectName": "板块构造",
+   "publishYear": "2022",
+   "definition": "对两个板块接触边界段描述其相对运动的观测量进行最佳拟合的欧拉矢量。 "
+  },
+  {
+   "cn": "最高效率点",
+   "en": "best efficiency point",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.335",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "机泵设备效率达到最高时的运行点。"
+  },
+  {
+   "cn": "k最佳列表",
+   "en": "k-best list",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0614",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种处理结果输出策略。即不仅仅输出最佳结果，而是同时输出评价最优的前k个结果，以供后续处理阶段进一步评价和选择。"
+  },
+  {
+   "cn": "最佳无偏估计量",
+   "en": "best unbiased estimator",
+   "source": "化学名词",
+   "wordNumber": "03.0144",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "具有无偏性、有效性、一致性和充分性的估计量。"
+  },
+  {
+   "cn": "最优调和解",
+   "en": "best compromise solution",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0220",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "由于多目标间的矛盾性，多目标决策问题通常并不存在最优解，而是有几个非劣解，但这些非劣解并不能同时付诸实施，还必须按照使价值或期望效用极大；使属性值(目标函数值)与目的值(或愿望值)的偏差极小；以及在权"
+  },
+  {
+   "cn": "最佳一致逼近",
+   "en": "best uniform approximation",
+   "source": "数学名词",
+   "wordNumber": "010.0087",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最优价格",
+   "en": "best price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最佳适配[法]",
+   "en": "best-fit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最佳无偏估计量",
+   "en": "best unbiased estimator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可获得的最优价格",
+   "en": "best price obtainable",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "尽力投递",
+   "en": "best-effort delivery",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最佳优先搜索",
+   "en": "best-first search",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最优通行税率",
+   "en": "best prevailing tariff rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最佳线性无偏估计",
+   "en": "best linear unbiased estimate\",\"BLUE",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最佳线性无偏预测",
+   "en": "best linear unbiased prediction\",\"BLUP",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最佳线性无偏估计量",
+   "en": "best linear unbiased estimator\",\"BLUE",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "海洋科学",
+   "en": "marine science\",\"ocean science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大气科学",
+   "en": "atmospheric science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息[科学]",
+   "en": "information science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境科学",
+   "en": "environmental science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表面科学",
+   "en": "surface science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "能源科学",
+   "en": "energy science",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为科学",
+   "en": "behavioral science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "材料科学",
+   "en": "materials science",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "次优报价",
+   "en": "second best offer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最佳优先搜索",
+   "en": "best-first search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最好成绩标记",
+   "en": "marker of best throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "物尽其用",
+   "en": "make the best use of everything",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数尽其用",
+   "en": "make the best use of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公民科学",
+   "en": "citizen science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉利德科学公司",
+   "en": "Gilead Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "计算社会科学",
+   "en": "computational social science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑科学",
+   "en": "Brain-Inspired Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学素养",
+   "en": "data science literacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学加速器",
+   "en": "data science accelerator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最佳线性无偏估计量",
+   "en": "best linear unbiased estimator",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.93",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "依照一定规则根据总体的样本的统计值而得到的对总体的估计值。该估价值的期望等于总体的真值，且该估计值的方差在所有的其他估价值的方差中最小。"
+  },
+  {
+   "cn": "最佳矫正视力",
+   "en": "best corrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以最适当镜片进行屈光矫正后所能达到的最佳视力。"
+  },
+  {
+   "cn": "优劣尺度法",
+   "en": "best-worst scaling method,BWS",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "通过让受访者在一系列具有不同属性水平组合的健康产品或服务选项中，不断选择出最好的和最差的选项，评估受访者对选项或属性的偏好的方法。"
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "用科学的方法，研究人类社会种种现象或事物的构成、本质及其变化规律的学科总和。"
+  },
+  {
+   "cn": "科学伦理学",
+   "en": "ethicsof science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从伦理学角度考察科学的一门学科。主要研究科学技术活动领域道德规范之形成和变化规律，分析科学技术与社会道德的相互关系和相互作用，跨越科学学和伦理学，处于哲学、科学社会学、伦理学、科学心理学、科学经济学和"
+  },
+  {
+   "cn": "大科学",
+   "en": "big science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要指具有投资强度大、多学科交叉、研究目标宏大、需要昂贵且复杂的实验设备等特征的规模比较大的科学研究，既包括巨额投资的“工程式”研究，也包括跨学科合作的大规模、大尺度的前沿性科学研究项目。"
+  },
+  {
+   "cn": "小科学",
+   "en": "little science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要以科学家个人或科学小团体的兴趣为主，凭借个人或小团体努力来追求科学真理的科学研究，这种研究往往集中在某个学科内部，是比较典型的传统的科学研究模式。"
+  },
+  {
+   "cn": "硬科学",
+   "en": "hard science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与技术科学两大系统学科与其交叉学科的统称。因借用电子计算机的“硬件”而得名。其研究内容包括数学、物理学、化学、天文学、地理学、生物科学以及技术工程等学科。"
+  },
+  {
+   "cn": "软科学",
+   "en": "soft science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与社会科学相结合的交叉科学。主要研究决策和管理实践中提出的复杂性、系统性课题，其目的是为解决各类复杂社会问题提出可供选择的各种途径、方案、措施和对策。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "牢固地建立在一种或多种过去科学成就基础上的研究。这些科学成就为某个科学共同体在一段时期内公认为是进一步实践的基础。"
+  },
+  {
+   "cn": "民族科学",
+   "en": "ethno-science",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "关于原住民人文（属地语言学、历史学、宗教学、经济学等）地理（属地生态学、植物学、动物学、色彩）等方面的文化分类知识体系的研究，目前被延伸至文化遗产的应用性研究。"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "马克思主义",
+   "wordNumber": "01.0218",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究社会现象的科学，包括经济学、政治学、法学、文学、民族学、史学、语言学、社会学等。广义的社会科学还包括哲学。社会科学除具有科学性质外，还具有上层建筑、意识形态的性质。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家们不质疑范式本身，而是在范式的指导下通过解谜活动扩大范式的应用范围。在常规科学中存在着明晰的合理性规则，常规科学的研究因其成果的积累而不断进步。"
+  },
+  {
+   "cn": "暴露科学",
+   "en": "exposure science",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "收集和分析所需定量和定性的信息，以了解受体与物理、化学或生物应激之间的暴露情况的科学"
+  },
+  {
+   "cn": "文化科学",
+   "en": "cultural sciences",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "理解、诠释而非寻找或证实文化的或社会的一种超越实体的一整套理论与方法，它的研究对象是某文化的价值表达系统及由此表现的独特历史观，涉及观念、信仰、意义、价值，与象征主义、符号学和认知哲学在知识谱系中相辅"
+  },
+  {
+   "cn": "科学史",
+   "en": "history of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "研究人类对自然界和社会的科学理解和认知发展过程的一门学问。科学史利用了思想史和社会史两个面向的历史研究方法，可分为内部史和外部史研究。"
+  },
+  {
+   "cn": "科学哲学",
+   "en": "philosophy of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从哲学角度考察科学的一门学科，是自然科学与社会科学的交叉学科。它以整个科学活动和科学理论为研究对象，主要探讨科学的本质、科学知识的获得和检验、科学的逻辑结构等有关科学认识论和科学方法论方面的基本问题。"
+  },
+  {
+   "cn": "科学社会学",
+   "en": "sociology of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "以科学活动的内部社会关系、科学和社会之间的相互关系、科学和其他社会建制之间的相互作用以及科学活动中的人为研究对象的一门分支社会学。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

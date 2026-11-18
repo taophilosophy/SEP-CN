@@ -1,0 +1,542 @@
+{
+ "key": "explicit discussion",
+ "term": "explicit discussion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:39:14+00:00",
+ "status": "ok",
+ "note": "variant=explicit discussion; 审定公布名词库=127; 海峡两岸名词对照库=46; 其他来源数据库=7; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "显性信息",
+   "en": "explicit information",
+   "source": "农学名词",
+   "wordNumber": "16.021",
+   "subjectFullName": "农业信息_农业数据与信息",
+   "subjectName": "农业数据与信息",
+   "publishYear": "2025",
+   "definition": "以文字、符号、图形等易于识别方式表达的信息。"
+  },
+  {
+   "cn": "显定义",
+   "en": "explicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.039",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念给出了完整与准确意义的定义。"
+  },
+  {
+   "cn": "显式表达式",
+   "en": "explicit expression",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "描述化工过程系统的各类方程，表达所含变量的某种约束等式关系。等式的表达形式为y=φ(x)，未知变量x可被显式表达。"
+  },
+  {
+   "cn": "显式方案",
+   "en": "explicit scheme",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.171",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "当f=0时的时间积分方案，其内存占用量较小，但只具有一阶截差精度，且条件稳定，时间步长的大小受到限制。"
+  },
+  {
+   "cn": "显序",
+   "en": "explicit order",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.388",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "物理学家玻姆在1980年出版的《整体性与隐序》一书中提出的用来说明亚原子粒子奇特行为的一个概念。是在所有隐序的总的整体性内所包含的一种具体的突出形式，意指事物展开的分离形式。"
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.545",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "对先前经验的有意识记忆。"
+  },
+  {
+   "cn": "外显知识",
+   "en": "explicit knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.546",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "可通过媒介被明确表述、记载、传递的知识。"
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "麻醉学名词",
+   "wordNumber": "03.008",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_麻醉风险",
+   "subjectName": "麻醉风险",
+   "publishYear": "2024",
+   "definition": "与特定时间、地点或任务有关的事实或事件的记忆，或是对以前学得知识的记忆。即与直觉和意识有关的记忆。包括情景记忆和语义记忆。"
+  },
+  {
+   "cn": "明示义",
+   "en": "explicit meaning",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.063",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "符号的字面意义，属于意义的核心部分。"
+  },
+  {
+   "cn": "外显行为",
+   "en": "explicit behavior",
+   "source": "行为医学名词",
+   "wordNumber": "1.002",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "受到神经系统调控、能够被直接观察到的行为。如躯体运动、情绪等外部活动。"
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "行为医学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "对过去经验有意识的记忆过程。"
+  },
+  {
+   "cn": "显性成本",
+   "en": "explicit cost",
+   "source": "经济学名词",
+   "wordNumber": "03.109",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "厂商会计账户中看得见的实际货币支出。显性成本包括厂商支付的原材料费用、工资费用、市场营销费用等。一般而言，通过成本会计计算得来的成本即是显性成本。"
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "生理学名词",
+   "wordNumber": "03.707",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "增意标引",
+   "en": "explicit indexing",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.729",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_标引",
+   "subjectName": "标引",
+   "publishYear": "2019",
+   "definition": "对隐含主题标引时，把文献题名中没有显露，但实际存在的主题标引出来的方式。隐含主题往往是文献中心主题的相关主题或衍生主题。"
+  },
+  {
+   "cn": "显性知识",
+   "en": "explicit knowledge",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.084",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以文字、符号、图形等方式表达的知识。通常以出版物、数据库、技术文档等形式存在。"
+  },
+  {
+   "cn": "显性主题",
+   "en": "explicit subject",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "文献明显论述的主题，即根据文献内容的字面表述能够直接概括出的主题。一般不易被标引者遗漏。"
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.080",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "有意识回忆先前经历的记忆过程。常用测验包括自由回忆、线索回忆和再认等。"
+  },
+  {
+   "cn": "外显编码",
+   "en": "explicit coding",
+   "source": "生物物理学名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "只需要一个神经元或神经元集群的活动就能表达某个特定对象的编码或表征。"
+  },
+  {
+   "cn": "显式并行性",
+   "en": "explicit parallelism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0158",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "通过硬件（如超长指令字）或软件（如并行线程）等明显地标示出来的并行性。"
+  },
+  {
+   "cn": "显性知识",
+   "en": "explicit knowledge",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0660",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "通常以语言、书面文字、图表和数学公式等表述的知识。"
+  },
+  {
+   "cn": "显格式",
+   "en": "explicit scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显式法",
+   "en": "explicit method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "显函数",
+   "en": "explicit function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "外显学习",
+   "en": "explicit learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外显知识",
+   "en": "explicit knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显格式",
+   "en": "explicit scheme",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "显式并行性",
+   "en": "explicit parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "显式路由",
+   "en": "explicit route",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "显式请求",
+   "en": "explicit request",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "显式预约",
+   "en": "explicit reservation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半显式格式",
+   "en": "semi-explicit scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显式差分格式",
+   "en": "explicit difference scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "小组讨论",
+   "en": "panel discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自由式讨论",
+   "en": "free floating discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "后向显式拥塞通知",
+   "en": "backward explicit congestion notification\",\"BECN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前向显式拥塞指示",
+   "en": "forward explicit congestion indication\",\"FECI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无领导小组讨论",
+   "en": "leaderless group discussion\",\"LGD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "隐函数",
+   "en": "implicit function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "隐式法",
+   "en": "implicit method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "显性数据",
+   "en": "explicit data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目的明确",
+   "en": "explicit purpose",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "明确权限授予",
+   "en": "explicit permission grant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比显兴隐",
+   "en": "Make Analogy Explicit and Association Implicit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知人论世",
+   "en": "Know Others and Discuss Their World",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性数据",
+   "en": "implicit data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因势利导",
+   "en": "Exploit Favorable Situation to Pursue the Goal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "显性成本",
+   "en": "explicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "通过成本会计计算得来的成本。"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "小组讨论",
+   "en": "group discussion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "在教育者或组织者的引导下，通过集体讨论的形式，对所学课题或规定的题目提出各自的看法，从而加深对已学知识的理解和运用的教学方法。也适用于以改变态度、提高决策能力和沟通技能为目的教学内容。"
+  },
+  {
+   "cn": "选题小组讨论",
+   "en": "nominal group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过程序化的小组讨论过程，发现问题、确定优先领域、筛选评价指标等的研究方法。通常由具有各种不同既得利益、不同思想意识和不同专业水平的人组成一个小组发掘问题，并把所发现的问题按其重要程度排列出来。"
+  },
+  {
+   "cn": "专题小组讨论",
+   "en": "focus group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过召集一小组同类人员，对某一研究议题进行讨论，得出结论的定性调查方法。"
+  },
+  {
+   "cn": "隐性成本",
+   "en": "implicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "易忽略的及难以测量的成本，包括作为成本项目的机器设备和厂房等固定资本折旧费、企业主自己投入的资本的利息、企业家才能应得的报酬等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

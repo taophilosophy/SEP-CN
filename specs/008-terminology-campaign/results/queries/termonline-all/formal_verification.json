@@ -1,0 +1,762 @@
+{
+ "key": "formal verification",
+ "term": "formal verification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:28:54+00:00",
+ "status": "ok",
+ "note": "variant=formal verification; 审定公布名词库=2480; 海峡两岸名词对照库=789; 其他来源数据库=90; 预公布名词数据库=165; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.243",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "源于希尔伯特提议将数学对象看作没有任何指称的纯符号。形式主义把数学推理看作严格按照规则进行的符号转换。在当代数学基础研究中，形式主义者倾向于认为那些独立于公理集合论系统的数学命题是无意义的。"
+  },
+  {
+   "cn": "缩甲醛化",
+   "en": "formalization",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0352",
+   "subjectFullName": "化工（七）_合成纤维_聚乙烯醇纤维",
+   "subjectName": "聚乙烯醇纤维",
+   "publishYear": "2022",
+   "definition": "一种聚乙烯醇缩甲醛纤维后处理工艺。通过聚乙烯醇与甲醛的缩醛化反应，将非晶区的羟基进行封闭，提高纤维的耐热水性能的工艺过程。"
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.096",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻真实",
+   "subjectName": "新闻真实",
+   "publishYear": "2022",
+   "definition": "注重表面超过内容，注重形式超过实效的思想和行为。在宣传方面表现为用程式化的会议，说空话、套话代替实际的工作；新闻方面表现为用花哨或煽情的词句和表演造势，替代对具体事实进行全面客观的交代。"
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "语言学名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "与“功能主义”相对。语言学的一种分析方法。从形式角度来分析语言，特别是生成分析追求的目标。指支配一种分析法的规则、原则、条件等能以精确和严格的方式界定。"
+  },
+  {
+   "cn": "形式化",
+   "en": "formalization",
+   "source": "语言学名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "转换生成语法使用的一种方法。即理论或规则都用形式逻辑或者数学语言清晰明确地阐释出来。"
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "数学名词",
+   "wordNumber": "02.0308",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "农学名词",
+   "wordNumber": "18.084",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "全称“计量检定（metrological verification）”。查明和确认测量仪器符合法定要求的活动。包括检查、加标记和(或)出具检定证书。"
+  },
+  {
+   "cn": "核件",
+   "en": "verification",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.114",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "按运输包装基本单元要求对同一客户的出版物核点包件。"
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "电力名词",
+   "wordNumber": "02.119",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "查明和确认计量器具是否符合法定要求的程序,包括检查、测试、加标记和(或)出具检定证书。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "物理学名词",
+   "wordNumber": "01.0134",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0503",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "评价系统或部件，以确定软件开发周期中的一个给定阶段的产品是否满足在阶段的开始确立的需求的过程。在形式化方法中，特指检查一个模型是否满足给定属性的过程。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0758",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "通过提供客观证据对规定要求已得到满足的认定。"
+  },
+  {
+   "cn": "可检验性",
+   "en": "verification",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0346",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "根据假设与预测方法，能对预测结果进行重现的一种特性。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "药学名词",
+   "wordNumber": "09.032",
+   "subjectFullName": "药学_药事管理",
+   "subjectName": "药事管理",
+   "publishYear": "2014",
+   "definition": "证明任何程序、生产过程、设备、物料、活动或系统确实能达到预期结果的有文件证明的一系列活动。"
+  },
+  {
+   "cn": "确认",
+   "en": "verification",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.345",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "确定一个操作是否正确完成的行为或确定一个设想的条件是否实际上存在的操作。"
+  },
+  {
+   "cn": "检验",
+   "en": "verification",
+   "source": "生态学名词",
+   "wordNumber": "10.077",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "考察生态模型的内部结构的合理性和逻辑性，以及模型是否按预定的要求做出反应等。"
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.044",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.047",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "数学名词",
+   "wordNumber": "01.0025",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "电子学名词",
+   "wordNumber": "17.010",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "检定，检验",
+   "en": "verification",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "确认",
+   "en": "verification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "检定，验证",
+   "en": "verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正式报告",
+   "en": "formal report",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "形式运算",
+   "en": "formal operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "式量电位",
+   "en": "formal potential",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "形式合成",
+   "en": "formal synthesis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "正式订单",
+   "en": "formal order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "正式收据",
+   "en": "formal receipt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "正式通知",
+   "en": "formal notice",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "形式演算",
+   "en": "formal calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形参",
+   "en": "formal parameter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式方法",
+   "en": "formal method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式规约",
+   "en": "formal specification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式描述",
+   "en": "formal description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式推理",
+   "en": "formal reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式系统",
+   "en": "formal system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式语言",
+   "en": "formal language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "核对成绩",
+   "en": "verification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "核对成绩",
+   "en": "verification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式语言理论",
+   "en": "formal language theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "效验",
+   "en": "Verification and Validation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单支付验证",
+   "en": "simplified payment verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "QKD组网验证",
+   "en": "QKD Networking Verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "手机短信密码验证",
+   "en": "SMS code verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参验",
+   "en": "Cross-checking and Verification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准试验验证",
+   "en": "standard testing and verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比对验证模式",
+   "en": "comparison and verification mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反对“四风”",
+   "en": "oppose the “Four Forms of Decadence” (formalism, bureaucratism, hedonism, and extravagance)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子保密通信“京沪干线”技术验证与应用示范项目（中国）",
+   "en": "Technical Verification and Application Demonstration Project for the Beijing-Shanghai Quantum Communication Network (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "苦吟",
+   "en": "Painstaking Versification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "志愿者资格认证",
+   "en": "volunteer certification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式论",
+   "en": "formalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0155",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "认为主流经济学中理性人假设和利益最大化原则同样适用于人类学研究的学派观点，常与本质论对应。其特点是：以研究市场经济的西方经济学理论为基础，以其方法论作为方法论指导，有意识地将上诉理论和方法应用于非西方"
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.19",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "查明和确认计量器具是否符合法定要求的程序，包括检查、测试、加标记和（或）出具检定证书。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.13",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "确定危害分析与关键控制点（HACCP）体系是否按照计划运转，或计划是否需要修改，以及再被确认生效使用的方法、程序、检测及审核手段。"
+  },
+  {
+   "cn": "正式群体",
+   "en": "formal group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "正规化程度高，有一定的目标，其成员间的互动采取制度化、规范化的方式，成员彼此间的权利、义务关系都有明确的且常常是书面形式的规定。与“非正式群体”相对。"
+  },
+  {
+   "cn": "正式组织",
+   "en": "formal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们为了达到某种共同目标，将其行为彼此协调与联合起来所形成的具有一定结构和特定功能的社会团体，具有正式、公开的组织目标、组织结构、组织规范和组织活动，其成员间的关系由正式的规章制度加以规定和约束。与“"
+  },
+  {
+   "cn": "形式公正",
+   "en": "formal justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.029",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "手段和程序的公正。指在达成公正结果的过程中，采取的手段、程序应该是合理的。"
+  },
+  {
+   "cn": "正式语体",
+   "en": "formal style",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0095",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“非正式语体”相对。在正式场合使用的语体。通常更加书面语化，语音、词汇和语法较合乎规范。"
+  },
+  {
+   "cn": "反对形式主义",
+   "en": "opposing formalism",
+   "source": "马克思主义",
+   "wordNumber": "04.0155",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在1992年的南方谈话中，针对当时会议多、文章长、讲话长，而且内容重复等诸多形式主义现象，强调形式主义也是官僚主义。"
+  },
+  {
+   "cn": "治疗验证",
+   "en": "treatment verification",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在治疗前或治疗中，通过各种手段（体模测量、治疗日志分析等）验证患者治疗准确性的过程。"
+  },
+  {
+   "cn": "方法验证",
+   "en": "method verification",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.38",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "实验室通过核查，提供客观有效证据证明满足检测方法规定要求的过程。"
+  },
+  {
+   "cn": "正式控制",
+   "en": "formal social control",
+   "source": "社会学名词",
+   "wordNumber": "2.10.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会控制与社会越轨",
+   "subjectName": "社会控制与社会越轨",
+   "publishYear": "2025",
+   "definition": "通过建立制度化的社会规范体系来对人们的社会行为进行制约和限制的社会控制。主要是通过建立政治制度、法律法规和其他具有普遍约束力的社会制度实现，并依靠国家权力对这一社会规范体系予以维护，确保人们对社会规范"
+  },
+  {
+   "cn": "形式非理性法",
+   "en": "formal unrational law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.4.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的理性化",
+   "subjectName": "法律的理性化",
+   "publishYear": "2025",
+   "definition": "程序明确，有效性取决于执法者或立法者的神圣魔法的法律。当事人在仪式信仰告白的陈述上有任何错误，都会失去补偿或遭致败诉，法官严格遵守诉讼程序与传统的证据方法，因此法律具有“形式性”。但法律所依凭的是魔法"
+  },
+  {
+   "cn": "形式理性法",
+   "en": "formal rational law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.4.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的理性化",
+   "subjectName": "法律的理性化",
+   "publishYear": "2025",
+   "definition": "规则构成一个完整的体系，通过对规则的逻辑推理就能得出特定案件裁判的法律形式。裁判只依据法律规则做出，无需考虑法律之外的因素，因此是形式的。而且，裁判是从法律规则中推理出来的，因此是理性的。主要表现为欧"
+  },
+  {
+   "cn": "监督核查",
+   "en": "inspection and verification",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "卫生行政部门依法对可能产生职业病危害的建设项目的验收活动和验收结果进行的核查。"
+  },
+  {
+   "cn": "灭菌设备性能验证",
+   "en": "sterilization equipment performance verification",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "使用物理、化学和生物的方法对设备的灭菌参数和灭菌程序进行鉴定，以检验灭菌程序是否能始终符合灭菌要求的过程。"
+  },
+  {
+   "cn": "多孔型灭菌过程验证装置",
+   "en": "porous sterilization process verification device",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "敷料型PCD，用多孔材料代表预定抗力的辅料型灭菌过程验证装置。用于监测普通手术包等敷料型物品的灭菌效果。"
+  },
+  {
+   "cn": "灭菌过程化学验证装置",
+   "en": "chemical verification device for sterilization process",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "内部放置化学指示物的灭菌过程验证装置。化学指示物应为五类和六类指示物。"
+  },
+  {
+   "cn": "灭菌过程生物验证装置",
+   "en": "biological verification device for sterilization process",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "内部放置生物指示物的灭菌过程验证装置。"
+  },
+  {
+   "cn": "存活杀灭特征验证法",
+   "en": "verification method of survival-kill response characteristics",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "使用不少于50个相同的样本，通过存活时间（或存活剂量）和杀灭时间（或杀灭剂量）来验证D值的方法。"
+  },
+  {
+   "cn": "职业性放射性疾病诊断首次鉴定",
+   "en": "initial verification of diagnosis of occupational radiation disease",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "当事人对职业性放射性疾病诊断机构作出的职业病诊断有异议的，可以在接到职业病诊断证明书一定时间内，向职业性放射性疾病诊断机构所在地设区的市级卫生健康主管部门申请的鉴定。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

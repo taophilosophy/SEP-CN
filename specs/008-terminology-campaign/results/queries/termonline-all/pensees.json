@@ -1,0 +1,112 @@
+{
+ "key": "pensees",
+ "term": "Pensées",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:31:45+00:00",
+ "status": "ok",
+ "note": "variant=Pensées; 审定公布名词库=8; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "月经",
+   "en": "menstruation,menses",
+   "source": "生理学名词",
+   "wordNumber": "11.065",
+   "subjectFullName": "生理学_生殖生理学",
+   "subjectName": "生殖生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "月经失调",
+   "en": "irregular menses",
+   "source": "运动医学名词",
+   "wordNumber": "06.110",
+   "subjectFullName": "运动医学_医务监督_运动卫生",
+   "subjectName": "运动卫生",
+   "publishYear": "2019",
+   "definition": "月经周期、月经持续时间、经血量三者之一超过正常范围的变化。"
+  },
+  {
+   "cn": "五官感觉",
+   "en": "five senses",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "通过五官反映的各种感觉的统称。马克思美学思想把五官感觉分为两个层类：一是动物的五官感觉，即动物的快感；二是人的五官感觉，由前者升华而至，即人的美感的起点，并继而再升华为“感觉的人性”，即美感形成。"
+  },
+  {
+   "cn": "感官观察",
+   "en": "observation with senses",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.064",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "直接利用感觉器官进行的观察。"
+  },
+  {
+   "cn": "透镜式色灯信号机",
+   "en": "multi-lenses signal",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0054",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "经血潴留",
+   "en": "retention of menses",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.306",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "透镜组",
+   "en": "lens combination,combination of lenses",
+   "source": "物理学名词",
+   "wordNumber": "04.0341",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "复辞",
+   "en": "repetition of the same Chinese character or word in different senses or grammatical functions",
+   "source": "语言学名词",
+   "wordNumber": "08.171",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "复叠的一种。连续或间隔重复同一个字或词，但其意义或句法功能有所不同。例如，“把一切沉睡在黑暗怀里的东西，毁灭，毁灭，毁灭呀！”"
+  },
+  {
+   "cn": "月经",
+   "en": "menstruation\",\"menses",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "见闻之知",
+   "en": "Knowledge from One’s Senses",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

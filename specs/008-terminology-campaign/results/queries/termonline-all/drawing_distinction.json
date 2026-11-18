@@ -1,0 +1,812 @@
+{
+ "key": "drawing distinction",
+ "term": "drawing distinction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:37:13+00:00",
+ "status": "ok",
+ "note": "variant=drawing distinction; 审定公布名词库=2183; 海峡两岸名词对照库=515; 其他来源数据库=135; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "特异性",
+   "en": "distinctiveness",
+   "source": "心理学名词",
+   "wordNumber": "07.038",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "凯利归因理论中进行归因时所利用的一类信息，即行动者是否对同类其他刺激做出相同的反应。"
+  },
+  {
+   "cn": "模型辨识",
+   "en": "model distinction",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0042",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "对于给定系统，利用所测得的输入输出数据，从一组给定的模型中，确定一个与测得数据相容性最好的模型。"
+  },
+  {
+   "cn": "特征词",
+   "en": "distinctive word",
+   "source": "语言学名词",
+   "wordNumber": "07.110",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "能够区别方言间的差别，可以作为方言区分和鉴别的一批词语。这些词对内具有一致性、对外具有排他性，能够反映某个方言区词汇特征。例如闽方言的“厝”（房子）。"
+  },
+  {
+   "cn": "区别符号",
+   "en": "distinctive mark",
+   "source": "语言学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "语言学_文字学_汉字的形体",
+   "subjectName": "汉字的形体",
+   "publishYear": "2011",
+   "definition": "古汉字中为区别字形和分化新字而附加在某些字上，形体简单且一般没有实际含义的区别性符号。古汉字中常用的区别符号有“一”“ヽ”“丨”“口”等。"
+  },
+  {
+   "cn": "区别特征",
+   "en": "distinctive feature",
+   "source": "语言学名词",
+   "wordNumber": "03.261",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "用来描写和分析语音系统差异的最小音系单位。区别特征可视作音位定义的组成部分，把音位视为一组区别特征的集合；也可视作一个取代音位概念的概念。后一观点将区别特征视为音系分析的最小单位，并用区别特征取代音位"
+  },
+  {
+   "cn": "品种特异性",
+   "en": "variety distinctness",
+   "source": "农学名词",
+   "wordNumber": "06.552",
+   "subjectFullName": "作物基因组学与遗传育种_种子科学与种业",
+   "subjectName": "种子科学与种业",
+   "publishYear": "2025",
+   "definition": "一个品种区别于其他品种的特异性状。特异性品种至少有一个以上性状明显区别于已知品种。"
+  },
+  {
+   "cn": "牵伸",
+   "en": "drawing",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0124",
+   "subjectFullName": "化工（七）_合成纤维_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "纤维在张力状态下，沿纤维轴向被拉长变细的过程。"
+  },
+  {
+   "cn": "拉深",
+   "en": "drawing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.115",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_冲压",
+   "subjectName": "冲压",
+   "publishYear": "2021",
+   "definition": "变形区在一拉一压的应力状态作用下，使板料(浅的空心坯)成形为空心件(深的空心件)而厚度基本不变的加工方法。"
+  },
+  {
+   "cn": "拉拔",
+   "en": "drawing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.210",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_拉拔",
+   "subjectName": "拉拔",
+   "publishYear": "2021",
+   "definition": "坯料在牵引力作用下通过模孔拉出，使之产生塑性变形而得到截面缩小、长度增加的工艺。"
+  },
+  {
+   "cn": "图",
+   "en": "drawing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0161",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "用点、线、符号、文字和数字等描绘事物几何特性、形态、位置及大小的一种形式。"
+  },
+  {
+   "cn": "拉深",
+   "en": "drawing",
+   "source": "冶金学名词",
+   "wordNumber": "09.0886",
+   "subjectFullName": "冶金学_金属加工_锻造、冲压及其他",
+   "subjectName": "锻造、冲压及其他",
+   "publishYear": "2019",
+   "definition": "变形区在一拉一压的应力状态作用下，使板料(浅的空心坯)成形为空心件(深的空心件)而厚度基本不变的加工方法。"
+  },
+  {
+   "cn": "拉拔",
+   "en": "drawing",
+   "source": "冶金学名词",
+   "wordNumber": "09.0012",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "坯料借助拉力通过锥形模孔使断面缩减并成形的一种塑性加工方法。"
+  },
+  {
+   "cn": "图纸",
+   "en": "drawing",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0529",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "根据招标–施工合同，在整套招标中应用的工程图及由雇主根据合同发出的补充和修改图。"
+  },
+  {
+   "cn": "拔长",
+   "en": "drawing",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1242",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_塑性加工技术",
+   "subjectName": "塑性加工技术",
+   "publishYear": "2011",
+   "definition": "使坯料横断面积减小而长度增加的锻造工序。"
+  },
+  {
+   "cn": "拉延",
+   "en": "drawing",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1298",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_塑性加工技术",
+   "subjectName": "塑性加工技术",
+   "publishYear": "2011",
+   "definition": "用凸模把板料冲挤入凹模，以形成具有凹模模腔形状的立体制件的冲压方法。"
+  },
+  {
+   "cn": "拉拔",
+   "en": "drawing",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1279",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_塑性加工技术",
+   "subjectName": "塑性加工技术",
+   "publishYear": "2011",
+   "definition": "在外加拉拔力作用下，迫使坯料通过模孔，以获得相应形状与尺寸制品的塑性加工方法。"
+  },
+  {
+   "cn": "拉延",
+   "en": "drawing",
+   "source": "航天科学技术名词",
+   "wordNumber": "13.036",
+   "subjectFullName": "航天科学技术_航天制造工艺",
+   "subjectName": "航天制造工艺",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "图",
+   "en": "drawing",
+   "source": "电气工程名词",
+   "wordNumber": "01.935",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "拉拔",
+   "en": "drawing",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "观察-理论区分",
+   "en": "observational-theoretical distinction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.050",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "观察来自直接经验，是连接科学信念与经验世界的桥梁；理论无法直接观察，需以观察提供的证据作为基础。"
+  },
+  {
+   "cn": "特异性",
+   "en": "distinctiveness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拉拔",
+   "en": "drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "拉长",
+   "en": "drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "拉延",
+   "en": "drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "离生雄蕊",
+   "en": "adelphia\",\"distinct stamen",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空拉",
+   "en": "sink drawing\",\"mandrelless drawing\",\"hollow drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "玻璃拉制",
+   "en": "glass drawing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "旋转延伸",
+   "en": "spin-drawing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "超拉伸",
+   "en": "super drawing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绘图纸",
+   "en": "drawing paper",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绘图仪",
+   "en": "drawing apparatus",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "镜画",
+   "en": "mirror drawing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拉拔模具",
+   "en": "drawing die",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "拉拔速度",
+   "en": "drawing speed",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "深冲",
+   "en": "deep drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "型材拉拔",
+   "en": "section drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "拉拔力",
+   "en": "drawing force",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "热拉",
+   "en": "hot drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "制图纸",
+   "en": "drawing paper",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "线材拉拔",
+   "en": "wire drawing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "别名",
+   "en": "Distinct Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平分",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "按桨",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉弓",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标举兴会",
+   "en": "Distinctiveness and Spontaneity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw\",\"draw of lots",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉弓手",
+   "en": "drawing hand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签记录表",
+   "en": "drawing sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区隔",
+   "en": "distinction",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0625",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家布尔迪厄（Pierre Bourdieu）提出的概念，指某种特定文化趣味在同类实践中的位置和差异，这种差异是生物性的、心理的，同时也维持了群体的边界。"
+  },
+  {
+   "cn": "等级差别",
+   "en": "class distinction",
+   "source": "马克思主义",
+   "wordNumber": "03.0049",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在阶级社会，不同等级由于在经济社会关系中所处的地位不同而享有各自不同的政治经济权力。"
+  },
+  {
+   "cn": "民族差别",
+   "en": "ethnic distinction",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0004",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "各民族之间表现在政治、经济、社会和文化等领域的差异，特别是生产方式、语言、文化、风俗习惯以及心理认同等方面的差异。各民族间的差别是民族现象长期发展的结果，将随着民族自身和民族交往的发展而发展变化，直到"
+  },
+  {
+   "cn": "四个划清",
+   "en": "four distinctions",
+   "source": "马克思主义",
+   "wordNumber": "03.0692",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十七届四中全会通过的《中共中央关于加强和改进新形势下党的建设若干重大问题的决定》提出：“加强党的意识形态工作和思想政治工作，引导党员、干部增强政治敏锐性和政治鉴别力，筑牢思想防线，自觉划清马克思主"
+  },
+  {
+   "cn": "主位与客位区别",
+   "en": "emic and etic distinction",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.17",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "在文化研究中，被研究的文化群体成员持有的观念和类别（主位）与研究者使用的观念和类别（客位）之间的区别。由语言学家肯尼思·派克于1954年提出。"
+  },
+  {
+   "cn": "绘人测验",
+   "en": "Draw-a-Man test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.29.6",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童发育和智能的筛查性工具之一。由美国心理学家古迪纳夫(F.Goodenough)于1926年首次提出的反映儿童的空间构想、人面记忆提取和手眼协调等方面功能的他评测验。适用于5～12岁儿童。"
+  },
+  {
+   "cn": "金瓶掣签",
+   "en": "Drawing Lots from the Golden Urn",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0201",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "清朝制定的管理藏、蒙古地区藏传佛教活佛转世的制度，乃于金瓶中抽签，以确认藏、蒙地区藏传佛教大活佛转世灵童。始创于乾隆五十七年（1799 年），至今沿用。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "解冻",
+   "en": "thawing",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.50",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "随着冰晶的融化，细胞内亲水胶质体吸收水分，出现水分逐渐向细胞内扩散和渗透的现象。"
+  },
+  {
+   "cn": "溺水",
+   "en": "drowning",
+   "source": "社会医学名词",
+   "wordNumber": "13.2.3",
+   "subjectFullName": "社会病",
+   "subjectName": "意外伤害",
+   "publishYear": "2025",
+   "definition": "人体部分或全部浸于液体介质中，并由此造成的损害。其并非时间上某一点的概念，而是一个动态过程。其损害主要为液体介质进入呼吸道造成呼吸功能障碍，从而引起缺氧，另外长时间遭受淹溺也可以导致意外低体温等。"
+  },
+  {
+   "cn": "伤病员去向统计",
+   "en": "statistics of destination of patients",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤病员的救治、康复和转归情况的统计分析，原始资料主要来自战斗伤员登记册和住院病员登记簿，主要统计指标包括归队率、后送率、留治率、残疾率等。"
+  },
+  {
+   "cn": "儿童溺水",
+   "en": "child drowning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "当儿童淹没/沉浸在水中时，导致不能呼吸的事件。其后果可以分为死亡、病态和无病态三类。"
+  },
+  {
+   "cn": "儿童溺水",
+   "en": "child drowning",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_儿童伤害",
+   "subjectName": "儿童伤害",
+   "publishYear": "2025",
+   "definition": "儿童的呼吸道浸没在水中，呼吸道被水、污泥、杂草等杂质阻塞，喉头、气管发生反射性射痉挛，引起窒息和缺氧的状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

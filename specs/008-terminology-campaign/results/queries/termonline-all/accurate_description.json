@@ -1,0 +1,732 @@
+{
+ "key": "accurate description",
+ "term": "accurate description",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:36:58+00:00",
+ "status": "ok",
+ "note": "variant=accurate description; 审定公布名词库=500; 海峡两岸名词对照库=178; 其他来源数据库=31; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "说明",
+   "en": "description",
+   "source": "档案学名词",
+   "wordNumber": "02.04.032",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "表达方式中的一种。对客观事物的性质、状态、特征、成因、构造、功能、用途所进行的介绍解说和阐释。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "动物学名词",
+   "wordNumber": "2.0073",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "对分类单元的特征进行规范性的表述。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "植物学名词",
+   "wordNumber": "02.0123",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "通过记录植物的性状状态而将植物的特征列出来的过程。"
+  },
+  {
+   "cn": "[书目]著录",
+   "en": "description",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0432",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "在编制文献目录时，对文献信息的内容和形式特征进行分析、选择和记录的过程。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "微生物学名词",
+   "wordNumber": "02.073",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "对特定微生物菌株的分类学特征进行规范性的表述。"
+  },
+  {
+   "cn": "譬况",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "09.190",
+   "subjectFullName": "语言学_音韵学_语音通转和古音学",
+   "subjectName": "语音通转和古音学",
+   "publishYear": "2011",
+   "definition": "早期的汉字注音法的一种。以同音字或近音字比拟被注音字的读音，或对其发音特征加以描写。包括长言、短言、急气、缓气、内言、外言等。"
+  },
+  {
+   "cn": "摹状词",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "①词汇学指摹写事物情状的词。例如“哗啦啦”“油汪汪”。②逻辑语义学指表示单独概念的词项之一，通过描述单一对象的唯一特性来指称该对象。"
+  },
+  {
+   "cn": "性状描述",
+   "en": "description",
+   "source": "中医药学名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "以现代科学手段，从宏观角度对药材或饮片的外形特征用科学名词进行详细准确的描述。"
+  },
+  {
+   "cn": "摹状[词]",
+   "en": "description",
+   "source": "数学名词",
+   "wordNumber": "02.0020",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "精确检索",
+   "en": "accurate search,precise search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.125",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "与“模糊检索”相对。检索词和返回结果的检索字段字符和长度完全一致的检索方法。相对于模糊检索，精确检索的查准率较高，但查全率会下降。"
+  },
+  {
+   "cn": "自准区仿真",
+   "en": "self-accurate area simulation",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.592",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "矿床描述模式",
+   "en": "description model",
+   "source": "地质学名词",
+   "wordNumber": "14.02.066",
+   "subjectFullName": "地质学_矿床学_成矿作用与成矿控制因素",
+   "subjectName": "成矿作用与成矿控制因素",
+   "publishYear": "2026",
+   "definition": "用文字、图表的形式对某一类矿床的成矿环境、矿床地质、地球物理、地球化学特征等本质属性进行的高度概括。是该类矿床基本特征的客观反映，不含主观推断因素。"
+  },
+  {
+   "cn": "档案著录",
+   "en": "archival description",
+   "source": "档案学名词",
+   "wordNumber": "03.04.001 ",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "对档案内容和形式特征等进行分析、选择和记录的过程。"
+  },
+  {
+   "cn": "著录标识符号",
+   "en": "description identifier",
+   "source": "档案学名词",
+   "wordNumber": "03.04.020",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "著录时辅助著录项所使用的标识符号，一般用“-”表示。"
+  },
+  {
+   "cn": "著录格式",
+   "en": "description format",
+   "source": "档案学名词",
+   "wordNumber": "03.04.021",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "著录项目在条目中的排列顺序及其表达方式。"
+  },
+  {
+   "cn": "科学描述",
+   "en": "scientific description",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.195",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "依靠概念、判断和理论等科学语言对客观物质世界的事实、属性和规律进行描述的活动。"
+  },
+  {
+   "cn": "经验描述",
+   "en": "empirical description",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.196",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "对观察实验所揭示的客观世界中发生的经验事实所进行的描述与记录。"
+  },
+  {
+   "cn": "理论描述",
+   "en": "theoretical description",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.197",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "通过建构理论模型对研究对象的性质、特征进行的描述。"
+  },
+  {
+   "cn": "量化描述",
+   "en": "quantitative description",
+   "source": "行为医学名词",
+   "wordNumber": "19.023",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "对测验的结果进行数量化描述。包括数量化和划分范畴。"
+  },
+  {
+   "cn": "图像描述",
+   "en": "image description",
+   "source": "光学名词",
+   "wordNumber": "17.008",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "基于所选择的图像表示来描述图像的方法。例如，区域可由其边界表示，边界可用特征对其进行描述，如长度、连接端点的直线的方向，以及边界上凹陷的数量。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据库描述",
+   "en": "database description",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图像描述",
+   "en": "image description",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "土地标定",
+   "en": "land description",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "作业描述",
+   "en": "job description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定性描述",
+   "en": "qualitative description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式描述",
+   "en": "pattern description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区域描述，区域描绘",
+   "en": "region description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "设备描述",
+   "en": "device description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事件描述",
+   "en": "event description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "瞬时描述",
+   "en": "instantaneous description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式描述",
+   "en": "formal description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形状描述",
+   "en": "shape description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自描述",
+   "en": "self-description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原始描记",
+   "en": "original description",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "深厚描述[研究法]",
+   "en": "thick descriptions",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "描述胚胎学",
+   "en": "descriptive embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "描述性名称",
+   "en": "descriptive name",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "描述气候学",
+   "en": "descriptive climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "描述气象学",
+   "en": "descriptive meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "精准用户画像",
+   "en": "accurate user persona",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述统计",
+   "en": "descriptive statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述性分析",
+   "en": "descriptive analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全民参保精准识别",
+   "en": "accurate identification for universal social insurance coverage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准对接劳务输出地和输入地",
+   "en": "to accurately connect both ends of labor transfer   ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源描述框架",
+   "en": "Data Resource Description Framework (RDF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2707-2014 互联网主机网络安全属性描述格式》",
+   "en": "YD/T 2707-2014 Host network security attribute description format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 34945-2017 信息技术 数据溯源描述模型》",
+   "en": "GB/T 34945-2017 Information technology — Data provenance descriptive model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 32627-2016 信息技术 地址数据描述要求》",
+   "en": "GB/T 32627-2016 Information technology — Description requirement for address data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190910-T-469 信息安全技术 网络安全漏洞标识与描述规范》",
+   "en": "20190910-T-469 Information security technology — Vulnerability identification and description specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 28517-2012 网络安全事件描述和交换格式》",
+   "en": "GB/T 28517-2012 Network incident object description and exchange format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36343-2018 信息技术 数据交易服务平台 交易数据描述》",
+   "en": "GB/T 36343-2018 Information technology — Data transaction service platform — Transaction data description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GM/T 0001.1-2012 祖冲之序列密码算法 第1部分：算法描述》",
+   "en": "GM/T 0001.1-2012 ZUC stream cipher algorithm — Part 1: Description of the algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/IEEE 1016-2009 信息技术标准 系统设计 软件设计说明》",
+   "en": "ANSI/IEEE 1016-2009 Standard for information technology — Systems design — Software design descriptions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疫情信息发布依法做到公开、透明、及时、准确",
+   "en": "The release of epidemic information must be open, transparent, timely and accurate as prescribed by the law.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38619-2020 工业物联网 数据采集结构化描述规范》",
+   "en": "GB/T 38619-2020  Industrial Internet of Things — Specification of structured description for data acquisition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "厚描",
+   "en": " thick description",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.19",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "一种关于文化的解释学及著述范式。由象征人类学代表人物格尔茨(C.Geertz）提出。强调文化科学面对的认知对象是人们编织的意义网络，有别于行为或心理，功能或结构。"
+  },
+  {
+   "cn": "深描",
+   "en": "thick description",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0613",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一种民族志方法论、认识论及在此基础上的民族志写作。深描是指不仅描述行为本身，更要揭示行为与其背后的文化意义之间的联系。该概念由美国人类学家格尔茨（Clifford Geertz）在其著作《文化的解释》"
+  },
+  {
+   "cn": "描述性统计",
+   "en": "descriptive statistics",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "运用表格、图形和数字来概括数据特征的统计方法。包括单变量和多变量描述统计。"
+  },
+  {
+   "cn": "描述伦理学",
+   "en": "descriptive ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1320000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "依据社会调查等研究方法对道德现象进行经验性的描述或从社会的实际状况再现道德现象，侧重于揭示人们对于某种行为在伦理方面的善恶、对错的看法，而不是给出伦理评判的伦理学理论。"
+  },
+  {
+   "cn": "描写语言学",
+   "en": "descriptive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0007",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。对特定时间的特定语言或方言的各种形式或用法作出全面的、客观的、精确的说明。强调客观性是为了与规定性语言学（prescriptive linguistics）相对比：描写语言学提倡如实"
+  },
+  {
+   "cn": "完整准确理解毛泽东思想",
+   "en": "understand Mao Zedong thought completely and accurately",
+   "source": "马克思主义",
+   "wordNumber": "03.0510",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在中共十届三中全会上对毛泽东思想的阐述。邓小平指出，毛泽东同志在不同的时间、条件对同样的问题讲的话，有时分寸不同，着重点不同，甚至一些提法也不同。不能够只从个别词句来理解毛泽东思想，而必须从毛泽"
+  },
+  {
+   "cn": "治疗处方",
+   "en": "treatment prescription",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "临床医生对放射治疗中患者的治疗范围和剂量分布的定量要求，如照射部位或体积、照射总剂量、分次剂量、分次数、危及器官限量等。"
+  },
+  {
+   "cn": "处方审核",
+   "en": "prescription review",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "对开方医生的资质、药品处方是否符合相关规定的审核。"
+  },
+  {
+   "cn": "电子处方",
+   "en": "electronic prescription",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.4.1.3",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "由注册的执业医师和执业助理医师在诊疗活动中为患者开具的、由取得药学专业技术职务任职资格的药学专业技术人员审核、调配、核对，并作为患者用药凭证的电子医疗文书。"
+  },
+  {
+   "cn": "大处方",
+   "en": "extraordinary prescription",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.098",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "单张处方总药费超过规定数额。临床常表现为无适应证用药、无正当理由开具高价药、为同一患者同时开具两种以上药理作用相同药物的处方等。"
+  },
+  {
+   "cn": "健康处方",
+   "en": "health prescription",
+   "source": "社会医学名词",
+   "wordNumber": "7.14",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康处方",
+   "publishYear": "2025",
+   "definition": "以医嘱的形式对服务对象的行为和生活方式给予的指导，主要是针对其健康问题进行有关疾病防治知识、用药知识及生活方式等方面的宣传指导，是健康教育的一种方式。"
+  },
+  {
+   "cn": "灌装精度",
+   "en": "filling accuracy",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.13",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "成品瓶中啤酒的净含量与标准值偏离程度的量化指标。"
+  },
+  {
+   "cn": "社会卫生处方",
+   "en": "social health prescription",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.10",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "在对社会卫生问题作出社会诊断的基础上，找出产生社会卫生问题的原因，提出改善社会卫生状况，提高人群健康水平的社会卫生策略和措施。"
+  },
+  {
+   "cn": "准确因子",
+   "en": "accuracy factor, Af",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.109",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "每一个预测值的点与等值线之间的平均距离，可以衡量预测值和观测值之间的接近程度。一般用来验证预测模型的准确"
+  },
+  {
+   "cn": "毌丘俭纪功碑",
+   "en": "Guanqiu Jian Contribution Inscription",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.031",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "曹魏时期安邑侯毌丘俭平定高句丽反叛所立的纪功碑。由赭红色含石英粒岩石凿刻而成。1906 年，发现于吉林集安。仅碑之左上角残存。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

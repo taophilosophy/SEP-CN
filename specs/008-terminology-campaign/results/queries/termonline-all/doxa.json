@@ -1,0 +1,362 @@
+{
+ "key": "doxa",
+ "term": "doxa",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:43:18+00:00",
+ "status": "ok",
+ "note": "variant=doxa; 审定公布名词库=45; 海峡两岸名词对照库=14; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "双能X射线吸收法",
+   "en": "dual energy X-ray absorptiometry,DEXA,DXA",
+   "source": "核医学名词",
+   "wordNumber": "04.1220",
+   "subjectFullName": "核医学_临床核医学_骨关节系统核医学_骨关节系统疾病诊疗技术",
+   "subjectName": "骨关节系统疾病诊疗技术",
+   "publishYear": "2018",
+   "definition": "以两种不同能量的X射线源代替放射性核素源测定骨密度的技术。原理与双光子γ射线吸收法相似。"
+  },
+  {
+   "cn": "基节",
+   "en": "coxa",
+   "source": "动物学名词",
+   "wordNumber": "5.2167",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_螯肢动物亚门",
+   "subjectName": "螯肢动物亚门",
+   "publishYear": "2021",
+   "definition": "螯肢动物步足的第一节。与躯体相连。"
+  },
+  {
+   "cn": "基节",
+   "en": "coxa",
+   "source": "动物学名词",
+   "wordNumber": "5.2396",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_多足动物亚门",
+   "subjectName": "多足动物亚门",
+   "publishYear": "2021",
+   "definition": "多足动物附肢最基部、与躯体相连的部分。"
+  },
+  {
+   "cn": "基节",
+   "en": "coxa",
+   "source": "动物学名词",
+   "wordNumber": "5.2466",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_六足动物亚门",
+   "subjectName": "六足动物亚门",
+   "publishYear": "2021",
+   "definition": "昆虫足近基部的第一节。使足与躯体相连，多为圆筒形或圆锥形。"
+  },
+  {
+   "cn": "基节",
+   "en": "coxa",
+   "source": "古生物学名词",
+   "wordNumber": "02.0458",
+   "subjectFullName": "古生物学_古无脊椎动物学_节肢动物门",
+   "subjectName": "节肢动物门",
+   "publishYear": "2009",
+   "definition": "足近基部的第一节，使足与躯体相连，多为圆筒形或圆锥形。"
+  },
+  {
+   "cn": "多巴",
+   "en": "DOPA",
+   "source": "昆虫学名词",
+   "wordNumber": "08.121",
+   "subjectFullName": "昆虫学_昆虫生理与生化",
+   "subjectName": "昆虫生理与生化",
+   "publishYear": "2000",
+   "definition": "昆虫体壁中酪氨酸转化为黑色素的中间产物。"
+  },
+  {
+   "cn": "基节",
+   "en": "coxa,coxae (复)",
+   "source": "昆虫学名词",
+   "wordNumber": "03.254",
+   "subjectFullName": "昆虫学_昆虫外部形态",
+   "subjectName": "昆虫外部形态",
+   "publishYear": "2000",
+   "definition": "足的基部与体躯连接的足节。"
+  },
+  {
+   "cn": "双能X射线吸收法",
+   "en": "dual-energy X-ray absorptiometry,DEXA",
+   "source": "运动医学名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "通过应用2种高、低不同能量(高能量80~100keV和低能量40~50keV)的光子透过机体某一部位，原始的光子能量以指数方式衰减，不同密度的组织衰减光子的程度不同，记录2种不同能量光子被不同组织衰减"
+  },
+  {
+   "cn": "双能X射线吸收法",
+   "en": "dual energy X-ray absorptiometry,DEXA",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "01.053",
+   "subjectFullName": "肠外肠内营养学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "根据不同能量的X射线通过人体组织时的衰减和吸收状况，测定人体骨骼无机盐、体脂和瘦体重含量的方法。"
+  },
+  {
+   "cn": "须[肢]基节",
+   "en": "palpal coxa,palpcoxa,pedipalpal coxa",
+   "source": "昆虫学名词",
+   "wordNumber": "11.032",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "螨类须肢基节与颚基融合，不可活动。"
+  },
+  {
+   "cn": "基节",
+   "en": "coxopodite;coxa",
+   "source": "动物学名词",
+   "wordNumber": "5.201",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "甲壳动物附肢的第一节。与躯体相连。"
+  },
+  {
+   "cn": "生殖基节",
+   "en": "genital coxa",
+   "source": "动物学名词",
+   "wordNumber": "5.2038",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "甲壳动物毛虾雄虾第三对胸足后面的显著乳状突起。"
+  },
+  {
+   "cn": "多哈回合",
+   "en": "Doha Round",
+   "source": "经济学名词",
+   "wordNumber": "13.180",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "2001年11月在多哈启动的第九轮多边贸易谈判。其宗旨是促进世贸组织成员削减贸易壁垒，通过更公平的贸易环境来促进全球特别是较贫穷国家的经济发展。多哈回合涉及八个谈判领域：农业、非农产品市场准入、服务、"
+  },
+  {
+   "cn": "L–多巴",
+   "en": "L-dopa",
+   "source": "植物学名词",
+   "wordNumber": "12.0266",
+   "subjectFullName": "植物学_植物化学_植物主要化学成分",
+   "subjectName": "植物主要化学成分",
+   "publishYear": "2019",
+   "definition": "从豆科植物蚕豆(Vicia faba)中分离得到的氨基酸。是中枢神经系统传导和调节剂，治疗震颤麻痹症。"
+  },
+  {
+   "cn": "五福花型",
+   "en": "Adoxa type",
+   "source": "植物学名词",
+   "wordNumber": "08.0190",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "四孢子胚囊的一种类型。四核的大孢子中，珠孔端和合点端各2个核，即成2+2的排列，仅经一次分裂产生8核，构成含1个卵器、2个极核和3个反足细胞的胚囊。"
+  },
+  {
+   "cn": "同和教育",
+   "en": "dowa education",
+   "source": "教育学名词",
+   "wordNumber": "05.192",
+   "subjectFullName": "教育学_比较教育_日本教育",
+   "subjectName": "日本教育",
+   "publishYear": "2013",
+   "definition": "日本旨在消除针对部落民的歧视的教育。后来外延逐步扩大，还包括消除对在日外国人、女性、残疾人歧视的教育，并有被“人权教育”一词取代的倾向。"
+  },
+  {
+   "cn": "艾绒",
+   "en": "moxa wool",
+   "source": "中医药学名词",
+   "wordNumber": "08.665",
+   "subjectFullName": "中医药学_针灸学_针灸疗法及其他",
+   "subjectName": "针灸疗法及其他",
+   "publishYear": "2004",
+   "definition": "由艾叶制成的色泽灰白，柔软如绒的施灸材料。"
+  },
+  {
+   "cn": "艾炷",
+   "en": "moxa cone",
+   "source": "中医药学名词",
+   "wordNumber": "08.666",
+   "subjectFullName": "中医药学_针灸学_针灸疗法及其他",
+   "subjectName": "针灸疗法及其他",
+   "publishYear": "2004",
+   "definition": "由艾绒制成的圆锥形艾团。"
+  },
+  {
+   "cn": "艾条",
+   "en": "moxa stick",
+   "source": "中医药学名词",
+   "wordNumber": "08.668",
+   "subjectFullName": "中医药学_针灸学_针灸疗法及其他",
+   "subjectName": "针灸疗法及其他",
+   "publishYear": "2004",
+   "definition": "用棉纸包裹艾绒制成的圆柱形长卷。"
+  },
+  {
+   "cn": "扁平髋",
+   "en": "coxa plana",
+   "source": "医学名词 第六分册",
+   "wordNumber": "05.046",
+   "subjectFullName": "医学_骨科学",
+   "subjectName": "骨科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "弓形骨针",
+   "en": "toxa",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "多巴",
+   "en": "DOPA",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "底节（甲壳生物）",
+   "en": "coxopodite\",\"coxa",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "L-多巴",
+   "en": "L-dopa",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生殖基节",
+   "en": "genital coxa",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "多巴氧化酶",
+   "en": "dopa-oxidase\",\"dopase",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "基节",
+   "en": "coxa\",\"coxae(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "须[肢]基节",
+   "en": "palpal coxa\",\"palpcoxa",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "给我们安宁",
+   "en": "Dona nobis pacem",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Vaughan Williams, Ralph"
+  },
+  {
+   "cn": "布赖特",
+   "en": "Bright\",\"Dora Estella(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "3, 4-二羟苯丙氨酸, 多巴",
+   "en": "3\",\"4-dihydroxy phenylalanine\",\"DOPA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多巴",
+   "en": "3-(3\",\"4-dihydroxyphenyl)alanine\",\"DOPA",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基节",
+   "en": "coxa\",\"basipodite(甲壳动物)",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "OXA复合体",
+   "en": "oxidase assembly complex\",\"OXA complex",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "安全体系结构",
+   "en": "data-oriented security architecture (DOSA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}
