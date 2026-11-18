@@ -1,0 +1,752 @@
+{
+ "key": "analogical inference",
+ "term": "analogical inference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:39:22+00:00",
+ "status": "ok",
+ "note": "variant=analogical inference; 审定公布名词库=1431; 海峡两岸名词对照库=464; 其他来源数据库=147; 预公布名词数据库=96; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "类比推理",
+   "en": "analogical inference",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0099",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "由于认识到当前新情况与已知熟悉情况在某些方面相似，从而推出两者在其他相关方面也相似的推理方式。"
+  },
+  {
+   "cn": "推理",
+   "en": "inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.043",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由一个或几个已知的判断（前提），推导出一个未知的结论的思维过程。"
+  },
+  {
+   "cn": "推论",
+   "en": "inference",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "根据研究证据推导出的结论，是基于证据的判断。"
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "具有母体化合物核心结构特征的化合物。如核苷类似物、肽类似物等。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.121",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "根据对象之间的某些相同或相似的性质，推断它们在其他性质上可能存在相同或相似的一种推理形式。类比是一种主观的不充分的似真推理。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "动物学名词",
+   "wordNumber": "2.0266",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "模拟",
+   "en": "analog",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "某种范畴的表达方式，如实地反映另一种范畴。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "物理学名词",
+   "wordNumber": "01.0128",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "植物学名词",
+   "wordNumber": "02.0207",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0020",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "动量、质量传递与简单的热量传递——导热有相同的分子动力学机理和相似的数学表达式，这种关系称为类比。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "心理学名词",
+   "wordNumber": "02.627",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据两种事物之间性质的异同，用一种特定事物的性质来说明另一种特定事物，即借助前者理解后者的认知过程。"
+  },
+  {
+   "cn": "[结构]类似物",
+   "en": "analog",
+   "source": "药学名词",
+   "wordNumber": "03.267",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "与现有药物分子在化学结构上具有相似性的化合物。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "古生物学名词",
+   "wordNumber": "01.0066",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "不同类群生物的器官虽来源和结构不同，却功能相似的现象。如蝙蝠和蝴蝶的翅膀。"
+  },
+  {
+   "cn": "同功器官",
+   "en": "analogy",
+   "source": "生态学名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "功能相同，外表类似，但来源上不相同，结构不相同的器官。同功器官不说明在进化上有共同来源，只是具有相似的功能。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "化学工程名词",
+   "wordNumber": "03.021",
+   "subjectFullName": "化学工程_传递过程与单元操作_传递过程与单元操作基本概念",
+   "subjectName": "传递过程与单元操作基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference,reasoning",
+   "source": "心理学名词",
+   "wordNumber": "02.643",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从若干已知的判断得出新判断的思维形式。是借助已有的知识对事物进行间接的认识。"
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于不确定的信念的推理理论。用信念测度（而非古典逻辑的真与假）来建立科学工作中诸如相反证据所导致的不确定信念的推理模式和形式模型。"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "在经典的统计归纳、推理、估计和假设检验的基础上发展起来的一种推理方法。推理时不仅要根据当前所观察到的样本信息，而且还要根据推理者过去有关的经验和知识。"
+  },
+  {
+   "cn": "似然推理",
+   "en": "plausible inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.045",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "根据模糊输入和模糊规则，按照确定好的推理方法进行推理，得到模糊输出量的过程。"
+  },
+  {
+   "cn": "定性推理",
+   "en": "qualitative inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.046",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "从物理系统、生命系统的结构描述出发，导出行为描述，以便预测系统行为并给出原因解释。"
+  },
+  {
+   "cn": "模拟推理",
+   "en": "analogical inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analog",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "[结构]类似物",
+   "en": "analog",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "武断推论",
+   "en": "arbitrary inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意识推理",
+   "en": "unconscious inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直接推理",
+   "en": "direct inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归纳推理",
+   "en": "inductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟电路",
+   "en": "analog circuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟信号",
+   "en": "analog signal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非数字配套机制",
+   "en": "analog complement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类比学习",
+   "en": "learning by analogy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赋比兴",
+   "en": "Narrative, Analogy, and Association",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模数转换",
+   "en": "analog-to-digital conversion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比显兴隐",
+   "en": "Make Analogy Explicit and Association Implicit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "举一反三",
+   "en": "Infer Three Other Related Aspects from One Concept",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情采芬芳，比类寓意",
+   "en": "Use Analogy and Metaphor to Imply Sentiment and Meaning, and Let Passion and Style Bask in Each Other’s Fragrance and Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "葫芦柄",
+   "en": "anatomical handle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分析的马克思主义",
+   "en": "analytical Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0078",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪70年代在英美等国兴起的具有较大影响的马克思主义研究学派。其特点是将现代数学、数理逻辑和模型分析等分析哲学的研究方法与研究路向应用到重新理解与解读马克思主义。"
+  },
+  {
+   "cn": "分析纯",
+   "en": "analytical reagent, AR",
+   "source": "消毒学",
+   "wordNumber": "6.1.3.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "化学试剂的纯度规格，属于二级品，标签颜色为金光红，分析纯试剂主成分含量很高，纯度较高。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference, sex difference",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "男性和女性在生理、心理、行为及社会文化层面表现出的群体性差异。生物学因素（如基因、激素）奠定生理分化基础（如生殖系统、疾病倾向），而社会文化建构（如性别角色、教育机会、刻板印象）影响行为模式、认知能力"
+  },
+  {
+   "cn": "压差",
+   "en": "pressure difference",
+   "source": "消毒学",
+   "wordNumber": "4.6.18.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过工程技术使房间内外产生的气压之差，使空气得以定向流动，防止病原体扩散。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "参考条件下待测量参考值（Cr,0）的响应R0。      ，Gr,0是相应的指示值。"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "不是被测量却能影响测量结果的量。"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.10",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "在应急照射情况或现存照射情况下，设定的一个剂量、危险或活度浓度水平。高于这个水平，允许照射的发生是不适当的；低于这个水平，防护和安全的最优化方案可继续执行。参考水平值的选择取决于所考虑的可能发生照射的"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，某一特定人群，具有典型的形态特性、组织特性、生理特性等的数据库，以便于对人群中不同个体能在同一生物学基础上统一对待，对不同群体间能用统一的标准进行比较。"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的男性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的女性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "参考体模",
+   "en": "reference phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.13",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会第110号出版物（ICRP，2009）中定义的人体计算模型（基于医学成像数据的男性或女性体素模型）、第89号出版物（ICRP，2002）中定义了男性参考人和女性参考人的解剖和生理特征"
+  },
+  {
+   "cn": "参考工作人员",
+   "en": "reference worker",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.14",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "由全身生物动力学、人体呼吸道、人体消化道和剂量学等模型和参数组成的理想化成人。其生物动力学模型的结构和参数值，以参考男性的参数值为依据，未考虑性别、年龄、种族和其他个体特异性特征的变化。"
+  },
+  {
+   "cn": "参考平面",
+   "en": "reference plane",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.36",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在模体中吸收剂量最大值处或与辐射类型相对应的某一特定深度下垂直辐射束轴且平行于模体表面的平面。"
+  },
+  {
+   "cn": "参考点",
+   "en": "reference point",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.40",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "参考平面与辐射束轴相交处的点。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural difference",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "广义指世界不同地域、不同社会的文化之间所存在的差别，狭义指人类信仰与行为层面的差别。一般取其广义。"
+  },
+  {
+   "cn": "参照群体",
+   "en": "reference group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "人们作为判断和评价人物、事物或社会现象的标准或仿效模范的群体，一般具有规范和比较两大功能。美国社会学家海曼(Hyman）1942年在研究个人对自身地位的看法时首次提出。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别之间的差异。存在于生理结构和遗传因素中，也存在于社会环境和文化氛围中。女性主义认为它不是性别歧视的理由，不应导致性别不平等。"
+  },
+  {
+   "cn": "社会影响",
+   "en": "social influence",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2025",
+   "definition": "4.1.16.1  权威人格  authoritarian personality"
+  },
+  {
+   "cn": "阶级差别",
+   "en": "class difference",
+   "source": "马克思主义",
+   "wordNumber": "03.0090",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同阶级之间在经济利益、政治地位、社会地位和思想观念等方面存在的不同。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

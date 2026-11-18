@@ -1,0 +1,642 @@
+{
+ "key": "empirical consciousness",
+ "term": "empirical consciousness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:42:17+00:00",
+ "status": "ok",
+ "note": "variant=empirical consciousness; 审定公布名词库=186; 海峡两岸名词对照库=38; 其他来源数据库=8; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "经验［性］模型",
+   "en": "empirical model",
+   "source": "农学名词",
+   "wordNumber": "16.167",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "根据实验数据归纳而得到的描述因变量与自变量之间关系的定量化表达。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "利用实测数据归纳而得到的规律，定量描述因变量和自变量之间关系的数学模型。"
+  },
+  {
+   "cn": "经验适当性",
+   "en": "empirical adequacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.016",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "B. 范·弗拉森（B. van Fraassen）提出的约束科学理论的原则，即科学的目的就是要恰当地描述可观察世界中的所有可观察现象。"
+  },
+  {
+   "cn": "经验内容",
+   "en": "empirical content",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "理论所能包含的可观察性信息。理论的经验内容越多，它出错的可能性也越大。"
+  },
+  {
+   "cn": "经验等价性",
+   "en": "empirical equivalence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.018",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "两个科学理论可以给出对经验事实的相同解释或相同预测。"
+  },
+  {
+   "cn": "经验科学",
+   "en": "empirical science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.028",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "偏重于经验描述与实验方法的科学。通常与注重数学演绎的“形式科学”相对。"
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "在科学研究中通过观察、实验等方法直接从研究对象那里收集第一手观察或实验数据资料，并以此为基础开展的研究。与“理论性研究”相对。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.179",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "根据科学事实和经验知识而建立的模型。"
+  },
+  {
+   "cn": "经验描述",
+   "en": "empirical description",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.196",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "对观察实验所揭示的客观世界中发生的经验事实所进行的描述与记录。"
+  },
+  {
+   "cn": "经验预见",
+   "en": "empirical prediction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.201",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "科学理论对经验事实的预见。包括对经验事实、经验规律的重复性预见以及对未知的新颖事实的预见。"
+  },
+  {
+   "cn": "经验学派",
+   "en": "Empirical School",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.167",
+   "subjectFullName": "新闻学与传播学_传播总论_学科与学派",
+   "subjectName": "学科与学派",
+   "publishYear": "2022",
+   "definition": "形成于20世纪初，以功能主义为主要理论指导，在传播研究中注重经验材料和实证考察。该学派以美国传播研究学者为主。"
+  },
+  {
+   "cn": "经验证据",
+   "en": "empirical evidence",
+   "source": "行为医学名词",
+   "wordNumber": "3.301",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "通过感官的感觉（如触觉、视觉、听觉、嗅觉和味觉）所获得的结果和证据。"
+  },
+  {
+   "cn": "经验延迟",
+   "en": "empirical delay",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "根据经验值设定扫描延迟时间的方法。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "冶金学名词",
+   "wordNumber": "04.0757",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "通过数理统计处理实测数据，实现定量描述输入和输出变量之间关系的一种数学模型。"
+  },
+  {
+   "cn": "经验公式",
+   "en": "empirical formula",
+   "source": "物理学名词",
+   "wordNumber": "01.0092",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0038",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "由实测数据归纳而得到的定量描述因变量与自变量之间关系的数学模型。"
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical rule",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0049",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "人们从生活经验中归纳获得的关于事物因果关系或属性状态的法则或知识。"
+  },
+  {
+   "cn": "经验式",
+   "en": "empirical equation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0033",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "科学实验和生产实践中从一组实验数据出发建立的近似表达式。"
+  },
+  {
+   "cn": "实验式",
+   "en": "empirical formula",
+   "source": "化学名词",
+   "wordNumber": "01.0009",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "表示化合物中各原子最简比例的方式。"
+  },
+  {
+   "cn": "经验学派",
+   "en": "empirical school",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0433",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "管理丛林学派之一，以戴尔(Ernest Dale)为代表，主张通过分析经验来研究管理，认为管理是一门艺术而不是科学，从有价值的经验中提取一般结论。"
+  },
+  {
+   "cn": "经验公式",
+   "en": "empirical formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法",
+   "en": "empirical method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验方程式",
+   "en": "empirical equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实证效度",
+   "en": "empirical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验心理学",
+   "en": "empirical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical law",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验系统",
+   "en": "empirical system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罗马帝国[时期]",
+   "en": "Roman Empire",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验洪水公式",
+   "en": "empirical flood formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实证效标计分法",
+   "en": "empirical criterion keying",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验杂波模式",
+   "en": "empirical clutter model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验正交函数",
+   "en": "empirical orthogonal function\",\"EOF",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "半经验气候模式",
+   "en": "semi-empirical climate model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "识",
+   "en": "Vijñāna / Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“四个意识”",
+   "en": "the “Four Consciousnesses” (maintain political integrity, think in terms of the big picture, follow the leadership core, and keep in alignment with the central Party leadership)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经验世界",
+   "en": "empirical world",
+   "source": "马克思主义",
+   "wordNumber": "01.0181",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们通过感觉器官获得的关于客观事物的现象和外部联系的认识，是人们在社会实践或日常生活中自发地形成或世代相传的对外部世界的基本观点和看法。其基本表现形式是常识，是最普通、最平常但又持久、经常起作用的知识"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "马克思主义",
+   "wordNumber": "01.0011",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界长期发展的产物，是人脑的机能，是物质世界在人脑中的主观映像。意识也是社会的产物。意识由物质决定，又具有相对独立性和能动性，能够能动地反映和改造世界。"
+  },
+  {
+   "cn": "文化自觉",
+   "en": "cultural consciousness",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.45",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "生活在一定文化中的人对其文化有“自知之明”，明白其来历、形成过程、所具有的特色和发展趋势的状态。这个文化自觉的历程概括起来即“各美其美，美人之美，美美与共，和而不同”。 费孝通晚年针对不同文化如何相互"
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "人们在社会互动和心灵交往中形成的、对社会存在（即社会物质生活及其过程）的总体反映。人类社会生活的精神方面总和。包括各种社会意识形式和社会心理。历史唯物主义最基本的范畴之一。也是社会理论的重要范畴。"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "某一阶级（主要是指无产阶级或工人阶级）认识到其共同的阶级利益并为追求其阶级利益而采取阶级行动，是马克思阶级理论的一个重要概念。"
+  },
+  {
+   "cn": "性别意识",
+   "en": "gender consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "儿童伴随整个成长过程形成的关于自身性别的自我意识以及性别观念上的认知和预期，也指成人对于性别的自我认知和敏感度。在女性主义看来，也可以是人们对于社会性别概念的认识和理解。"
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们关于法和法律现象的观点和态度。"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同但又有所关联的含义：一是指个体对自己身心活动的觉察，指向内在的心理过程、不为人知的私密性特征或经验以及能够为人所观察、知晓的公开性特征或经验；二是指个体在特定社会情境下过于从他人角度关注自我"
+  },
+  {
+   "cn": "群体意识",
+   "en": "group consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "有两层含义：一是指群体经验或有关群体的集体意识，如群体成员共享的信仰、 价值观念和规范准则等；另一是指群体成员资格在群体成员的自我意象及经验中的地位。"
+  },
+  {
+   "cn": "民族自觉",
+   "en": "national consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0121",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "民族自觉是指一个民族对本民族的民族特性、生存状态及生存意义的认识、反思和觉悟。它既包括对本民族的主观的自觉意识，也包括由主观自觉意识所支配的维护民族利益、推动民族发展的各种活动。民族意识有一个由自发转"
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0167",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会存在即社会物质生活及其过程在社会精神领域中的反映，是精神现象的总和，包括各种社会意识形式和社会心理。是历史唯物主义最基本的范畴之一。社会意识取决于社会存在，在阶级社会具有鲜明的阶级性。同时，社会意"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "马克思主义",
+   "wordNumber": "05.0004",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "反映一个阶级特殊利益和要求的理论、观点和情绪的总和，是一个阶级对自身的阶级地位和阶级利益的自觉体会和认识。阶级意识是由阶级存在决定的，表现为不同阶级之间尖锐的意识形态和思想斗争。卢卡奇在《历史与阶级意"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由自我概念、自我评价和自我体验等共同组成的心理过程。"
+  },
+  {
+   "cn": "历史意识",
+   "en": "historical consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0208",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类直觉、认识、解释自身历史发展进程的意识和能力。历史意识的呈现方式有历史文本、蕴含历史信息的非历史文本、为某一历史学派持有的历史观念或历史方法，为某一民族、国家或地域特有的历史思考传统等。"
+  },
+  {
+   "cn": "国家意识",
+   "en": "national consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0144",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民的国家认同，即公民作为国家一分子维护国家统一、领土完整、安全发展等方面利益的意识。"
+  },
+  {
+   "cn": "公民意识",
+   "en": "civic consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0145",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民的公民身份认同，即公民作为一国公民，并承担国家规定的公民权利义务的意识。"
+  },
+  {
+   "cn": "四个意识",
+   "en": "Four Consciousnesses",
+   "source": "马克思主义",
+   "wordNumber": "03.0801",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2016年1月29日，中央政治局会议首次公开提出四个意识，即：全体党员要有政治意识、大局意识、核心意识、看齐意识。"
+  },
+  {
+   "cn": "三个意识",
+   "en": "three consciousnesses",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0143",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "即国家意识、公民意识和法治意识。"
+  },
+  {
+   "cn": "意识觉醒小组",
+   "en": "consciousness-raising group",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "美国在20世纪60-70年代女权运动中流行的一种组织活动方式。妇女们聚在一起讲述自己的生活经历、遭遇的不公以及抗争，进而使她们长期受蒙蔽和受压抑的自我无意识得以觉醒，实现自我赋权。"
+  },
+  {
+   "cn": "对象意识",
+   "en": "consciousness of object",
+   "source": "马克思主义",
+   "wordNumber": "01.0130",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人以主体之外的客体世界为对象的意识，是主体关于对象世界的状态、属性、结构、规律等的认知和把握。对象意识不是与主体无关的意识，恰恰相反，它是主客体相互作用的产物，总是存在于主体大脑中，为主体自我所意识。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

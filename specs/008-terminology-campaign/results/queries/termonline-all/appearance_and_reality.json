@@ -1,0 +1,782 @@
+{
+ "key": "appearance and reality",
+ "term": "Appearance and Reality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:48:54+00:00",
+ "status": "ok",
+ "note": "variant=Appearance and Reality; 审定公布名词库=10000; 海峡两岸名词对照库=2079; 其他来源数据库=1314; 预公布名词数据库=1122; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "外观",
+   "en": "appearance",
+   "source": "农学名词",
+   "wordNumber": "18.058",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "农产品的所有可见特性。"
+  },
+  {
+   "cn": "作物长相",
+   "en": "crop appearance",
+   "source": "农学名词",
+   "wordNumber": "07.063",
+   "subjectFullName": "作物生理生态_生长与发育生理",
+   "subjectName": "生长与发育生理",
+   "publishYear": "2025",
+   "definition": "作物主要器官性状表现和个体群体生长状态的表象特征。是对长势形象化的描述，如株形、叶色、穗相等。"
+  },
+  {
+   "cn": "鹅卵石征",
+   "en": "cobblestone appearance",
+   "source": "消化病学名词",
+   "wordNumber": "15.012",
+   "subjectFullName": "消化病_炎症性肠病_炎症性肠病生理病理",
+   "subjectName": "炎症性肠病生理病理",
+   "publishYear": "2022",
+   "definition": "在活动性克罗恩病中，病变呈节段性（非连续性）分布，纵行溃疡周围黏膜正常或增生，呈鹅卵石样。病变之间黏膜外观正常（非弥漫性），为内镜下和X射线钡剂造影时克罗恩病的特征性表现。"
+  },
+  {
+   "cn": "色貌",
+   "en": "color appearance",
+   "source": "光学名词",
+   "wordNumber": "05.098",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "观察者对视野中的颜色刺激根据其视知觉的不同表象而区分的颜色知觉属性。物体的色貌特征用色貌属性参数(包括视明度、明度、视彩度、彩度、色饱和度、色相等)来表示。"
+  },
+  {
+   "cn": "颗粒样改变",
+   "en": "granular appearance",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.074",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "散在3个以上、与颗粒形态类似的隆起。"
+  },
+  {
+   "cn": "结节样改变",
+   "en": "nodular appearance",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.076",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "内镜下可见与结节类似的形态。"
+  },
+  {
+   "cn": "铺路石样改变",
+   "en": "cobblestone appearance",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.077",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "内镜下可见大小不一、排列成卵石样的隆 起。"
+  },
+  {
+   "cn": "外观检查",
+   "en": "appearance inspection",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0413",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_罐藏",
+   "subjectName": "罐藏",
+   "publishYear": "2020",
+   "definition": "重点是检查双重卷边外观是否正常，是否紧密结合，是否有露舌、夹边、起皱断裂等现象。"
+  },
+  {
+   "cn": "容貌康复",
+   "en": "appearance rehabilitation",
+   "source": "烧伤学名词",
+   "wordNumber": "01.134",
+   "subjectFullName": "烧伤学_烧伤概论_烧伤的临床过程",
+   "subjectName": "烧伤的临床过程",
+   "publishYear": "2019",
+   "definition": "对缺损的颜面部外观修复和功能重建。烧伤毁容会给患者带来严重的精神负担，只重功能、不重容貌，不能称其为满意的康复，只有容貌改善，才能帮助患者走向社会。"
+  },
+  {
+   "cn": "始现电势",
+   "en": "appearance potential",
+   "source": "物理学名词",
+   "wordNumber": "08.0621",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "外表吸引力",
+   "en": "appearance attractiveness",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.051",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "心理测定者，根据自己对被测定者之美丑的主观感觉进行笼统的判别。通常没有具体的客观标准。"
+  },
+  {
+   "cn": "色表",
+   "en": "color appearance",
+   "source": "建筑学名词",
+   "wordNumber": "10.0028",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "与色刺激和材料质地有关的颜色的主观感知特性。"
+  },
+  {
+   "cn": "色相",
+   "en": "color appearance",
+   "source": "建筑学名词",
+   "wordNumber": "09.0448",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "色彩所呈现出的相貌。借以区分色彩的品种、类别。通常以循环的色相环来表示。历史上曾有多种划分的色相环，常用的为10色相环和12色相环。10色相环的顺时针排序为：红、黄红、黄、黄绿、绿、蓝绿、蓝、蓝紫、紫"
+  },
+  {
+   "cn": "外貌吸引力",
+   "en": "appearance attraction",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0052",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "牙面外观",
+   "en": "dentofacial appearance",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0374",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "路容",
+   "en": "highway appearance",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.560",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "薄膜外观",
+   "en": "film appearance",
+   "source": "石油名词",
+   "wordNumber": "07.0340",
+   "subjectFullName": "石油_石油化工_石油化工性质及测试方法",
+   "subjectName": "石油化工性质及测试方法",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "精液外观",
+   "en": "semen appearance;appearance of semen;appearance of ejaculate",
+   "source": "男科及性医学名词",
+   "wordNumber": "07.065",
+   "subjectFullName": "男科及性医学_男性生殖系统疾病诊断",
+   "subjectName": "男性生殖系统疾病诊断",
+   "publishYear": "2023",
+   "definition": "射出体外的精液液化后的肉眼观。正常液化精液标本呈均质、灰白色外观，禁欲时间较长者可呈淡黄色。如果精子浓度非常低，精液可较为透明；有红细胞时，精液可呈红色、褐色；黄疸患者、服用维生素或药物者的精液可呈黄"
+  },
+  {
+   "cn": "云雾多发区",
+   "en": "place appearing cloud and fog frequently",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.095",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "云雾及雾凇、雨凇出现频率较高的地方。"
+  },
+  {
+   "cn": "实在",
+   "en": "reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "实存的与可能存在的东西。古代唯物主义认为这种东西是水、无定限体、气、火、种子、原子。唯心主义认为这种东西是感觉、观念、精神实体、绝对理念的世界。"
+  },
+  {
+   "cn": "再现立体感比例",
+   "en": "appearance ratio",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "现实",
+   "en": "reality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "末现面",
+   "en": "last-appearance datum",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "表现世界",
+   "en": "world of appearances",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "出现电势谱[学]",
+   "en": "appearance potential spectroscopy，APS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现实疗法",
+   "en": "reality therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实原则",
+   "en": "reality principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会现实",
+   "en": "social reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据真实性",
+   "en": "data reality",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人工现实",
+   "en": "artificial reality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augment reality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "迟现抗原-5",
+   "en": "very late appearing antigen-5， VLA-5",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality\",\"VR",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality\",\"VR",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality\",\"VR",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实技术",
+   "en": "virtual reality technology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实核心",
+   "en": "heart of reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现实世界模式化",
+   "en": "modelization of reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实界面",
+   "en": "virtual-reality interface",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程出庭",
+   "en": "remote court appearance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "Augmented Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无用之用",
+   "en": "The Advantage of Appearing Useless",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安时处顺",
+   "en": "Face Reality Calmly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality (AR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合现实",
+   "en": "mixed reality (MR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚实交互",
+   "en": "virtual reality interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拟容取心",
+   "en": "Compare Appearances to Grasp the Essence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "把问题解决在萌芽之时、成灾之前",
+   "en": "to eliminate risks at the source and resolving problems when they first appear",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传切",
+   "en": "give and go\",\"pass and cut",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "干城",
+   "en": "Shield and Fortress / Dukes and Princes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多元协作制衡",
+   "en": "multiparty collaboration and check-and-balance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实智能建模技术",
+   "en": "intelligent modeling technology of virtual reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "往复",
+   "en": "Disappearance and Reappearance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "库欣面容",
+   "en": "Cushingoid appearance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.1.4",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "面圆如满月、面色红润的体征，常伴痤疮、体毛增多等，见于皮质醇增多症以及长期应用肾上腺皮质激素的病人。"
+  },
+  {
+   "cn": "鸥翼征",
+   "en": "Gull Wing Appearance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.16",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "髋臼骨折累及髋臼顶部时，导致髋臼顶发生压缩性骨折，X线片显示髋臼顶部呈现典型的双弧影，类似于飞行中海鸥张开的翅膀。"
+  },
+  {
+   "cn": "名实分离",
+   "en": "separation of name and reality",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "因社会变迁产生的经学理想社会与现实之间的分立，以及由此产生的社会心理上的不适应状态。费孝通提出的概念。具体而言，自诸子百家定于一尊之后，要解释社会变迁，往往通过注释的方式来使经典与社会变动相适应。乡土"
+  },
+  {
+   "cn": "社会实在",
+   "en": "social reality",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "以物质实在为基础的、依赖于人类共同的风俗、习惯、制度和活动而存在和维系的事实。"
+  },
+  {
+   "cn": "客观实在性",
+   "en": "objective reality",
+   "source": "马克思主义",
+   "wordNumber": "01.0196",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "独立于人的意识之外，不依赖于意识的物质世界。唯心主义认为，唯一的客观实在是感觉、意识、理念和绝对精神等。唯物主义则认为客观实在性是物质唯一的“特性”，它不依赖于人的意识而存在，但又为人的意识所感知和反"
+  },
+  {
+   "cn": "三严三实专题教育",
+   "en": "special subject education of Three stricts and three realities",
+   "source": "马克思主义",
+   "wordNumber": "04.0278",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "按照党中央关于在县处级以上领导干部中开展“三严三实”专题教育的部署，中共中央政治局于12月28日至29日召开专题民主生活会，围绕中央政治局带头践行严以修身、严以用权、严以律己、谋事要实、创业要实、做人"
+  },
+  {
+   "cn": "生长发育调查与评价",
+   "en": "growth and development investigation and appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用科学的方法对个体或群体儿童少年的生长发育状况进行观察、测量、分析和评价的过程。"
+  },
+  {
+   "cn": "谦恭",
+   "en": "humble and respectfulness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.097",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在相互交往过程中所表现出的辞让和谦逊的品德或作风。要求为人处世均应在充分尊重他人，正确评估自身的基础上做到虚怀若谷，以礼待人。"
+  },
+  {
+   "cn": "消杀",
+   "en": "disinfection and pesticide",
+   "source": "消毒学",
+   "wordNumber": "1.1.2",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "全称消毒与杀虫，杀灭与清除有害微生物或媒介生物的处理。"
+  },
+  {
+   "cn": "检测与评价",
+   "en": "testing and evaluation",
+   "source": "消毒学",
+   "wordNumber": "6",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "利用物理、化学、微生物和动物实验的方法，将生产、科研、生活等各方面的有关信息通过检查与测量的方法，赋予定性或定量结果并判定是否合格的过程。"
+  },
+  {
+   "cn": "采样分析",
+   "en": "sampling and analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "采集有代表性的环境介质样品用物理或化学的方法进行分离、浓集、用适当的计数装置或谱仪测定其放射性活度的操作过程。"
+  },
+  {
+   "cn": "监督核查",
+   "en": "inspection and verification",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "卫生行政部门依法对可能产生职业病危害的建设项目的验收活动和验收结果进行的核查。"
+  },
+  {
+   "cn": "士大夫",
+   "en": "literati and officialdom",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "在中国古代封建制度下介乎庶人与卿大夫之间的一个阶级。其中一种是帮助卿大夫佐治政事的有官禄的小吏，另一种是无官禄的“士民”，与农工商同列“四民”。封建解体后，士阶层兴起，成为秦以后中国文化和知识主要担纲"
+  },
+  {
+   "cn": "公共与私人",
+   "en": "public and private",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.20",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女性主义者进行社会批判的一个重要切入点，认为所谓男人与社会、政治、文化等公共领域相关而女人与家庭、情感、身体等私人领域相关的二元思维模式奠定了两性之间的等级制基础和性别统治的合理性。消除性别不平等"
+  },
+  {
+   "cn": "共同体与社会",
+   "en": "Gemeinschaft and Gesellschaft",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "德国社会学家滕尼斯(Ferdinand Tὂnnies）提出的两个概念。分别指人类的两种聚合形态以及与之相联的思维与行为方式。"
+  },
+  {
+   "cn": "狩猎—采集社会",
+   "en": "hunting and gathering",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "以采集生活地域上的植物、猎捕动物的办法获取食物的社会。据考证大约始于1万年前，是人类早期的生产与生活方式。随着农业与游牧的技术扩张与稳定逐渐走入绝境。"
+  },
+  {
+   "cn": "歧视与不平等",
+   "en": "discrimination and inequality",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "出于各种原因对他人做出贬低的评价和对待，使他人不能得到平等待遇。在社会工作者与案主或其他专业人员沟通时，应避免不当的负面评论与歧视。社会工作者应以一种关怀与尊重的态度对待每个人，关注个别差异和文化及种"
+  },
+  {
+   "cn": "分析和综合",
+   "en": "analysis and synthesis",
+   "source": "马克思主义",
+   "wordNumber": "01.0042",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "统一的辩证思维过程的两个不同方面和不同方法。分析是深入对象内部，对其各个部分、方面、因素和层次及发展阶段分别加以考察，以找出对象的各个方面和发展阶段的本质特征的思维过程；综合是在分析基础上，将分析揭示"
+  },
+  {
+   "cn": "个别与一般",
+   "en": "generality and particularity",
+   "source": "马克思主义",
+   "wordNumber": "01.0044",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "辩证法的一对范畴。个别，指单一事物的个体性、独特性，使事物彼此区别；一般，指一类事物或一切事物普遍具有的共性和本质。二者是辩证的统一。一般不能脱离个别而存在，个别总是同一般相联结，一般比个别深刻，个别"
+  },
+  {
+   "cn": "有限和无限",
+   "en": "finite and infinite",
+   "source": "马克思主义",
+   "wordNumber": "01.0045",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "有限是指客观事物及其运动在时间和空间上有始有终、有边际、可穷尽的属性；无限是指物质世界及其运动在时间和空间上无始无终、无边际、不可穷尽的属性。无限存在于有限之中，通过有限表现出自身的多样性；有限之中包"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

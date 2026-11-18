@@ -1,0 +1,742 @@
+{
+ "key": "data sequence",
+ "term": "data sequence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:42:28+00:00",
+ "status": "ok",
+ "note": "variant=data sequence; 审定公布名词库=2304; 海峡两岸名词对照库=1305; 其他来源数据库=1019; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "序列数据",
+   "en": "sequence data",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0495",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "有先后次序的一组（有限或无限多个）数据。例如基因数据、蛋白质数据等。"
+  },
+  {
+   "cn": "序列数据挖掘",
+   "en": "sequence data mining",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0496",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "以序列数据为挖掘对象的数据挖掘。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.072",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "客观事物的符号表示。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2622",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "能够以各种形式表现与存储，适合于人类或自动装置解读和处理的各种事实、数字、字符等各种符号的集合。 "
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.016",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "数字、字母与符号的集合。系客观事物与主观思维的具体表达，不限于数值。现常指可由计算机处理的信息单元。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "物理学名词",
+   "wordNumber": "01.0192",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0001",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "客观事物的符号表示。在计算机科学中，指所有能输入到计算机中并被计算机程序处理的符号的总称。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0095",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "描述事件或事物的属性、过程及其关系的符号序列。比如自然语言符号、科学符号、数字以及图形图像等。数据具有形式和内容两个方面。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.479",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "对某一目标或现象进行定性或定量描述的数字、文字、符号、图形、图像等。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0826",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "数据标识数据",
+   "en": "data identification data",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.118",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "数据帧中标识数据帧信息和序号的数据。"
+  },
+  {
+   "cn": "数据采集",
+   "en": "data capture,data acquisition,data collection",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.388",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "通过仪器设备采集地理信息的过程。"
+  },
+  {
+   "cn": "工程数据",
+   "en": "engineering data,telemetry data",
+   "source": "光学名词",
+   "wordNumber": "21.103",
+   "subjectFullName": "光学_光学遥感技术",
+   "subjectName": "光学遥感技术",
+   "publishYear": "2021",
+   "definition": "卫星星上用于监控管理星上执行卫星任务及支撑卫星运行的仪器、设备或分系统的状态及测控数据。如卫星姿态轨道控制数据、电源及温度控制数据、星上数据管理数据、数据采集与传输等设备或系统的状态或统计数据。"
+  },
+  {
+   "cn": "数据志",
+   "en": "data lineage,data provenance",
+   "source": "测绘学名词",
+   "wordNumber": "05.028",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "数据的历史沿革信息，包括获取或生产数据使用的原始资料说明、数据处理中的参数、步骤等情况及负责单位的相关信息等。"
+  },
+  {
+   "cn": "数据处理",
+   "en": "data handling,data processing",
+   "source": "化学名词",
+   "wordNumber": "03.0116",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "通过对数据的进一步解析，提取蕴含在数据中的原始信息并转化为人们所需要的数据、信息和知识的一系列操作。"
+  },
+  {
+   "cn": "海量数据",
+   "en": "massive data,mass data",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0104",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "巨大的、空前浩瀚的数据。包括各种空间数据、报表统计数据、文字、声音、图像、超文本等各种数据形式。"
+  },
+  {
+   "cn": "数据库",
+   "en": "data base,data bank",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.524",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "长期储存在计算机内、有组织的、可共享的大量数据的集合。数据库中的数据按一定的数据模型组织、描述和储存，具有较小的冗余度、较高的数据独立性和易扩展性，并可为多用户共享。"
+  },
+  {
+   "cn": "数据目录",
+   "en": "data catalogue,data directory",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.544",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "将数据按一定的规则编排形成的名目。"
+  },
+  {
+   "cn": "数据层",
+   "en": "data layer,data coverage",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.488",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "由一些地理特征相关的数据所组成的数据集。"
+  },
+  {
+   "cn": "语料搜集",
+   "en": "data collection,data capture",
+   "source": "语言学名词",
+   "wordNumber": "06.331",
+   "subjectFullName": "语言学_辞书学_辞书现代化",
+   "subjectName": "辞书现代化",
+   "publishYear": "2011",
+   "definition": "辞书编纂中汇集编纂所需的原始语料。从语言形式上分为书面语料和口语语料，从搜集方式上分为摘引文献、语言调查以及参考辞书等，从搜集手段上分为人工搜集和借助电子技术搜集。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资料",
+   "en": "data",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据获取，数据采集，数据收集",
+   "en": "data capture\",\"data acquisition\",\"data collection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据库",
+   "en": "data base\",\"data bank",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "观察数据，观察资料",
+   "en": "observation data\",\"O data",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问卷数据",
+   "en": "questionnaire data\",\"Q data",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据处理",
+   "en": "data handling\",\"data processing",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数据层",
+   "en": "data layer\",\"data coverage",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据处理",
+   "en": "data handling\",\"data processing",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据目录",
+   "en": "data catalogue\",\"data directory",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整性",
+   "en": "data completeness\",\"data integrity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据转换",
+   "en": "data conversion\",\"data transfer",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据更新",
+   "en": "data  revision\",\"data update",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数据获取",
+   "en": "data acquisition\",\"data collection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数据库",
+   "en": "data bank\",\"data base",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "输入数据",
+   "en": "input data\",\"enter data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据管理",
+   "en": "data management\",\"data administration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据技术",
+   "en": "Data Technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据",
+   "en": "Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据新闻",
+   "en": "data news",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "暗数据",
+   "en": "dark data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据传输",
+   "en": "data transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据包",
+   "en": "data package",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据网",
+   "en": "data network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据哲学",
+   "en": "Data Philosophy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据人",
+   "en": "data man",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据伦理",
+   "en": "Data Ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据中立性",
+   "en": "data neutrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据收集",
+   "en": "data collection",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "就某个具体的主题，有计划、有目的地准备、收集和记录相关信息的研究行动。"
+  },
+  {
+   "cn": "定性资料",
+   "en": "qualitative data",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以文字、图形、录音、录像等非数字形式表现出来的研究资料。"
+  },
+  {
+   "cn": "定量数据",
+   "en": "quantitative data",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在某一数值量度上，由测量得到的研究资料。"
+  },
+  {
+   "cn": "数据管理",
+   "en": "data management",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "对数据进行编制和存储的研究行动。可以使他人接触数据和重复数据分析。"
+  },
+  {
+   "cn": "访谈资料",
+   "en": "interview data",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在面对面的互动过程中，通过访谈者向被访者提问而收集到的资料。"
+  },
+  {
+   "cn": "数据档案",
+   "en": "data archive",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "获取、存储、传播数字型资料的资源中心。可以帮助以研究和教学为目的的二次分析。"
+  },
+  {
+   "cn": "数据分析",
+   "en": "data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "审查、清理、转换以及模型数据，从中发现有用信息，以便获取研究发现，支持决策制定的过程。"
+  },
+  {
+   "cn": "数据审核",
+   "en": "data audit",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.21",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "哨点医院和地方机构对监测数据的自查核实，保证监测数据的真实性、可靠和完整"
+  },
+  {
+   "cn": "数据缺口",
+   "en": "data gap",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.119",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "执行全面可靠的风险评估所需的关键信息或数据的缺失或不足，从而妨碍做出正确的决策、准确特征化风险或在评估过程中制定健壮的估算的能力。"
+  },
+  {
+   "cn": "靶向测序",
+   "en": "targeted sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "利用多重聚合酶链反应或杂交捕获的方法对目标基因 组区域进行富集并测序的一种技术。优 势在于有效降低成本、获得更深的覆盖度。"
+  },
+  {
+   "cn": "测序技术",
+   "en": "sequencing techniques",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.70",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对多聚体中单体排列顺序进行测定的方法。如测定DNA、寡肽、多糖链基本组成单位残基(核苷酸、氨基酸、单糖等)的排列顺序。"
+  },
+  {
+   "cn": "流行病学资料分析",
+   "en": "epidemiological data analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.22.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "通过对疾病的流行病学特征进行分析，以确定疾病的病因、传播途径和风险因素等的过程。"
+  },
+  {
+   "cn": "定性资料分析",
+   "en": "qualitative data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "使用描述、归类、比较、关联的方法从定性资料（文本、影像、档案等）中发现概念和概念间联系的过程。"
+  },
+  {
+   "cn": "定量数据分析",
+   "en": "quantitative data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.18",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "应用统计理论和统计模型，从调查数据中发现有效信息，以便获取研究发现，支持决策制定的过程。"
+  },
+  {
+   "cn": "定类数据分析",
+   "en": "categorical data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.108",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以定类或定序变量作为因变量的统计分析。"
+  },
+  {
+   "cn": "固定样本数据分析",
+   "en": "panel data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.154",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "对固定样本数据做的统计分析。固定样本数据由对每一抽样单位多次重复的观测构成。"
+  },
+  {
+   "cn": "负载理论的数据",
+   "en": "theory-laden data",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.170",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "数据会受观察者所持有的理论预设或信念影响。"
+  },
+  {
+   "cn": "数据录入系统",
+   "en": "data entry system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "使用计算机程序将学生健康档案数据进行输入的网络平台。"
+  },
+  {
+   "cn": "数据统计系统",
+   "en": "data statistics system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "通过计算机程序收集和分析学生健康档案数据，按照用户需求总结出一定规律的网络平台。"
+  },
+  {
+   "cn": "数据报告系统",
+   "en": "data push system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "根据国家相关规定和各级客户需求，通过计算机程序定期向教育和卫生行政部门、疾病预防控制机构、学校、学生及其监护人等各级客户端提供学生健康数据的网络平台。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

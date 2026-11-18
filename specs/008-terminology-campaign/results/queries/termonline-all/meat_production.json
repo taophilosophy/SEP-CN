@@ -1,0 +1,732 @@
+{
+ "key": "meat production",
+ "term": "meat production",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:42:52+00:00",
+ "status": "ok",
+ "note": "variant=meat production; 审定公布名词库=7147; 海峡两岸名词对照库=1703; 其他来源数据库=276; 预公布名词数据库=454; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "肉制品",
+   "en": "meat product",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0916",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_肉与肉制品",
+   "subjectName": "肉与肉制品",
+   "publishYear": "2020",
+   "definition": "以肉为主要原料加工而成的食品。"
+  },
+  {
+   "cn": "发酵肉制品",
+   "en": "fermented meat product",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0949",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_肉与肉制品",
+   "subjectName": "肉与肉制品",
+   "publishYear": "2020",
+   "definition": "在微生物发酵、肌肉内源酶或脱水的作用下产生特殊风味和质地的肉制品。产品呈酸性，保存时间长，通常可生吃。"
+  },
+  {
+   "cn": "腌腊制品",
+   "en": "cured meat product",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0956",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_肉与肉制品",
+   "subjectName": "肉与肉制品",
+   "publishYear": "2020",
+   "definition": "原料肉经腌制、晾晒或烘焙等工艺制成的肉制品。"
+  },
+  {
+   "cn": "调理肉制品",
+   "en": "prepared meat product",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0970",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_肉与肉制品",
+   "subjectName": "肉与肉制品",
+   "publishYear": "2020",
+   "definition": "原料肉配以辅料经预处理加工而成的生或熟的肉制品。"
+  },
+  {
+   "cn": "罐藏肉制品",
+   "en": "canned meat product",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0971",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_肉与肉制品",
+   "subjectName": "肉与肉制品",
+   "publishYear": "2020",
+   "definition": "原料肉经过预处理、罐装、排气、密封、灭菌等制成的肉制品。"
+  },
+  {
+   "cn": "禽肉类",
+   "en": "poultry meat product",
+   "source": "运动医学名词",
+   "wordNumber": "05.063",
+   "subjectFullName": "运动医学_运动营养_食物营养",
+   "subjectName": "食物营养",
+   "publishYear": "2019",
+   "definition": "来源于鸡、鸭、鹅、鹌鹑、鸽子等动物的肉类及其制品。其所含蛋白质为利用率高的优质蛋白，含量约为20%，脂肪含量差别大。运动人群膳食中可选择脂肪含量低的禽肉作为蛋白质类的食物来源。推荐正常成年人每天摄入畜"
+  },
+  {
+   "cn": "畜产品",
+   "en": "livestock meat product",
+   "source": "运动医学名词",
+   "wordNumber": "05.062",
+   "subjectFullName": "运动医学_运动营养_食物营养",
+   "subjectName": "食物营养",
+   "publishYear": "2019",
+   "definition": "来源于猪、牛、羊等动物的肉类及其制品。其所含蛋白质为利用率高的优质蛋白，含量约为20%；脂肪为饱和脂肪，人体不宜摄入过多。运动人群膳食中可选择脂肪含量低的牛、羊肉作为蛋白质的食物来源，少选或不选脂肪含"
+  },
+  {
+   "cn": "肉类加工厂",
+   "en": "meat product plant",
+   "source": "建筑学名词",
+   "wordNumber": "02.1006",
+   "subjectFullName": "建筑学_建筑类型及组成_工业建筑",
+   "subjectName": "工业建筑",
+   "publishYear": "2014",
+   "definition": "以可供使用的动物经屠宰后加工(冷加工、热加工、腌制、干制、烟熏、罐藏)而制成各种肉食品的工厂。"
+  },
+  {
+   "cn": "低温肉制品",
+   "en": "low-temperature meat product",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0972",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_肉与肉制品",
+   "subjectName": "肉与肉制品",
+   "publishYear": "2020",
+   "definition": "以较低的温度（肉的中心温度达到68~72℃）进行巴氏杀菌的肉制品。"
+  },
+  {
+   "cn": "高温肉制品",
+   "en": "high temperature meat product",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0973",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_肉与肉制品",
+   "subjectName": "肉与肉制品",
+   "publishYear": "2020",
+   "definition": "经过121℃高温蒸煮杀菌的肉制品。"
+  },
+  {
+   "cn": "中式肉制品",
+   "en": "Chinese-style meat product",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0974",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_肉与肉制品",
+   "subjectName": "肉与肉制品",
+   "publishYear": "2020",
+   "definition": "具有中国传统特色的肉制品。主要包括腌腊制品、酱卤制品、熏烧烤制品和干制品等。"
+  },
+  {
+   "cn": "西式肉制品",
+   "en": "western-style meat product",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0975",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_肉与肉制品",
+   "subjectName": "肉与肉制品",
+   "publishYear": "2020",
+   "definition": "起源于欧洲，以低温加工为主要特色的肉制品。主要包括培根、香肠和火腿制品等。"
+  },
+  {
+   "cn": "肉",
+   "en": "meat",
+   "source": "畜牧学名词",
+   "wordNumber": "06.001",
+   "subjectFullName": "畜牧学_畜产品与加工_肉",
+   "subjectName": "肉",
+   "publishYear": "2020",
+   "definition": "畜禽屠宰后所得可食部分的统称。包括胴体(骨除外)、头、蹄、尾、内脏。"
+  },
+  {
+   "cn": "肉的成熟",
+   "en": "meat aging,meat conditioning",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0929",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_肉与肉制品",
+   "subjectName": "肉与肉制品",
+   "publishYear": "2020",
+   "definition": "鲜肉在冻结点以上温度环境下贮藏，期间自发的肌肉生化反应使其风味和嫩度得到改善的过程。"
+  },
+  {
+   "cn": "采肉",
+   "en": "meat separation,meat collection",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1096",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2020",
+   "definition": "鱼糜制备过程中，用机械方法将鱼体的皮骨除掉而把鱼肉分离出来的过程。一般用采肉机取肉，速度快、温升低。"
+  },
+  {
+   "cn": "肉粉",
+   "en": "meat meal",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0162",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "禽畜肉或肉纤维质经干燥和研磨，或经其他加工处理过程制成的不含添加物的产品。"
+  },
+  {
+   "cn": "人造肉",
+   "en": "artificial meat",
+   "source": "农学名词",
+   "wordNumber": "15.090",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "以植物蛋白、动物干细胞或微生物发酵蛋白为原料，通过一定的技术手段，制做出的传统肉的替代品。技术手段有挤压、干细胞培养、静电纺丝、3D打印等。可模仿动物肉的口感、质地、色泽和结构等。"
+  },
+  {
+   "cn": "冷冻肉",
+   "en": "frozen meat",
+   "source": "畜牧学名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "畜牧学_畜产品与加工_肉",
+   "subjectName": "肉",
+   "publishYear": "2020",
+   "definition": "在低于–23℃的环境下，中心温度降至–15℃的肉。"
+  },
+  {
+   "cn": "红肉",
+   "en": "red meat",
+   "source": "畜牧学名词",
+   "wordNumber": "06.003",
+   "subjectFullName": "畜牧学_畜产品与加工_肉",
+   "subjectName": "肉",
+   "publishYear": "2020",
+   "definition": "含有较多肌红蛋白、呈现红色的肉。如牛肉、羊肉、猪肉。"
+  },
+  {
+   "cn": "白肉",
+   "en": "white meat",
+   "source": "畜牧学名词",
+   "wordNumber": "06.004",
+   "subjectFullName": "畜牧学_畜产品与加工_肉",
+   "subjectName": "肉",
+   "publishYear": "2020",
+   "definition": "肌红蛋白含量较少的肉类。如鸡肉、鸭肉、鹅肉。"
+  },
+  {
+   "cn": "磨肉机",
+   "en": "meat mill",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "碎肉机",
+   "en": "meat chopper",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "鱼肉分选机",
+   "en": "meat separator",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生产量",
+   "en": "production",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生产量",
+   "en": "production",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生成物",
+   "en": "product",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生产力",
+   "en": "productivity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "鱼粉加工船",
+   "en": "fish meat factory ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "泥炭制品",
+   "en": "peat production",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "精益生产",
+   "en": "lean production",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "净生产量",
+   "en": "net production",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "净生产量",
+   "en": "net production",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "净生产量",
+   "en": "net production",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地图生产",
+   "en": "map production",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "智能化生产",
+   "en": "intelligent production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对等共创生产",
+   "en": "peer production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息生产力",
+   "en": "information productivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据生产力",
+   "en": "Data Productivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "极致生产力",
+   "en": "extreme productivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据商品",
+   "en": "data product",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "服务产品化",
+   "en": "service productization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络产品",
+   "en": "network product",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生产全球化",
+   "en": "globalization of production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无忧生产",
+   "en": "worry-free production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能生产线",
+   "en": "intelligent production line",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "清洁生产产业",
+   "en": "clean-production industries",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物基肉制品",
+   "en": "plant-based meat products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.26",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "以植物原料（如豆类、谷物类等，也包括藻类及真菌类等）或其加工品作为蛋白质、脂肪的来源，添加或不添加其他辅料、食品添加剂（含营养强化剂），经加工制成的具有类似畜、禽、水产等动物肉制品质构、风味、形态等特"
+  },
+  {
+   "cn": "速冻调制肉制品",
+   "en": "quick-frozen prepared meat products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "以鲜、冻畜禽肉及畜禽副产品为主要原料，经清洗、配料后，用相关加工工艺调制（或加热成熟），采用速冻工艺（产品热中心温度≤-18°C），在低温状态下贮存、运输和销售的预包装食品。"
+  },
+  {
+   "cn": "鲜肉",
+   "en": "fresh meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.1",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "屠宰后立即出售或冷藏条件下短期储存的畜禽肉。"
+  },
+  {
+   "cn": "冷冻肉",
+   "en": "frozen meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "经预冷排酸、急冻的肉品。一般在–18℃以下贮藏，深层肉温达–15℃。"
+  },
+  {
+   "cn": "畜肉类罐头",
+   "en": "meat can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.1",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以处理后的猪、牛、羊等畜肉及其内脏为原料制成的罐藏食品。"
+  },
+  {
+   "cn": "腌腊肉制品",
+   "en": "cured meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.5",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "以鲜冻、畜禽肉或其可食副产品为原料，添加或不添加辅料，经腌制、烘干或晒干、风干等工艺加工而成的非即食肉制品。"
+  },
+  {
+   "cn": "冷却肉",
+   "en": "chilled meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.2",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "畜禽宰后经过充分冷却，并在后续的加工、贮运和销售过程中始终保持在-1~7℃的生鲜肉。"
+  },
+  {
+   "cn": "畜肉",
+   "en": "livestock meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "可食用的猪、牛、羊等牲畜肉的统称。"
+  },
+  {
+   "cn": "焙烤肉",
+   "en": "baked meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.28",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "以畜禽肉或其可食副产品等为主要原料，配以调味料（含食品添加剂）在介质燃点之下的温度范围，通过干热（烘）的方式使物料脱水熟化的过程。"
+  },
+  {
+   "cn": "咸肉",
+   "en": "salted meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.8",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "以鲜冻畜肉为主要原料，配以其他铺料，经腌制等工艺加工而成的非即食肉制品。"
+  },
+  {
+   "cn": "熏烧焙烤盐焗肉制品",
+   "en": "smoked baked and salt roasted meat products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.11",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "以畜禽肉或其可食副产品等为主要原料，配以调味料（含食品添加剂）.经腌（卤）、煮等工序进行前处理，再以烟气或蒸汽或火苗或其他热介质进行熏烤或烧烤或焙烤或盐焗等工序制成的熟肉制品。"
+  },
+  {
+   "cn": "鲜家禽肉",
+   "en": "fresh poultry meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.6.2",
+   "subjectFullName": "食品卫生学_食品_禽肉",
+   "subjectName": "禽肉",
+   "publishYear": "2025",
+   "definition": "屠宰后立即出售或暂时冷藏的鸡、鸭、鹅、鸽、鹌鹑、火鸡、鸵鸟等家禽的肉。"
+  },
+  {
+   "cn": "风干肉",
+   "en": "dry-cured meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.12",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "俗称“肉干”。瘦肉加热、干燥后，制成的一种水分含量极少的肉制品。如肉松、肉干。加工后脂肪含量减少，B 族维生素受到一定程度破坏，其他营养物质变化不大。"
+  },
+  {
+   "cn": "冷却禽肉",
+   "en": "chilled poultry meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.6.3",
+   "subjectFullName": "食品卫生学_食品_禽肉",
+   "subjectName": "禽肉",
+   "publishYear": "2025",
+   "definition": "活禽屠宰加工后，经冷却处理保存在0~4℃的禽肉。"
+  },
+  {
+   "cn": "清蒸类畜肉罐头",
+   "en": "steamed meat can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.1.1",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将处理后的原料直接装入容器，在罐中加入食盐、胡椒、洋葱和月桂叶等而制成的罐藏食品。"
+  },
+  {
+   "cn": "烟熏类畜肉罐头",
+   "en": "smoked meat can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.1.4",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将经处理后的原料经预腌制、烟熏而制成的罐藏食品。"
+  },
+  {
+   "cn": "腌制类畜肉罐头",
+   "en": "cured meat can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.1.3",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将处理后的原料经混合盐（食盐、亚硝酸钠、砂糖等按一定配比组成的盐类）腌制等工序制成的罐藏食品。"
+  },
+  {
+   "cn": "细胞培育肉",
+   "en": "cell-cultured meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.31",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "基于细胞生物学、组织工程学和食品工程学等技术在体外培养动物肌肉组织，并经过色泽和风味调整、营养物质补充以及物理成型等加工过程制成的模拟肉制品。"
+  },
+  {
+   "cn": "冷冻禽肉",
+   "en": "frozen poultry meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.6.4",
+   "subjectFullName": "食品卫生学_食品_禽肉",
+   "subjectName": "禽肉",
+   "publishYear": "2025",
+   "definition": "经冻结处理后其中心温度在-15℃以下的禽肉。"
+  },
+  {
+   "cn": "生产",
+   "en": "production",
+   "source": "马克思主义",
+   "wordNumber": "02.0002",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以一定的劳动方式、一定的生产资料所有制为基础的劳动者与生产资料结合的形式，从而结合起来的人们改造自然及生产物质资料的过程。广义的生产除了物质财富之外，还包括精神财富的创造和人类自身生产等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

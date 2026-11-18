@@ -1,0 +1,322 @@
+{
+ "key": "aboutness",
+ "term": "aboutness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:38:03+00:00",
+ "status": "ok",
+ "note": "variant=aboutness; 审定公布名词库=22; 海峡两岸名词对照库=1; 其他来源数据库=7; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "读者信息",
+   "en": "information about readers",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.025",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "读者对出版物的需求、评价和反应，是制订选题计划和编写书稿的依据之一，也是评价出版物效果的有效反馈。"
+  },
+  {
+   "cn": "摆臂",
+   "en": "move-about arm",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "14.0126",
+   "subjectFullName": "机械工程_工程机械_土方机械_装载机",
+   "subjectName": "装载机",
+   "publishYear": "2013",
+   "definition": "保证铲装机构左右摆动的零件。"
+  },
+  {
+   "cn": "问月经",
+   "en": "inquiring about menstruation",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0116",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "通过询问月经史，尤其是有无停经史以及量、色、质的变化，以测定妇女是否妊娠及审察妇科病证的诊断方法。"
+  },
+  {
+   "cn": "问初潮",
+   "en": "inquiring about menarche",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0105",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "询问月经初潮相关情况，以审察妇科病证的诊断方法，包括询问初潮的年龄、经血的色、量、质及伴随症状等。"
+  },
+  {
+   "cn": "问汗",
+   "en": "inquiry about sweating",
+   "source": "中医药学名词",
+   "wordNumber": "04.282",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "询问病人出汗的情况，以了解病情的诊断方法。包括问汗的有无、多少、性状，出汗的部位、时间、特点及伴随症状等。"
+  },
+  {
+   "cn": "迂回线",
+   "en": "round about line",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0420",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "少谈些政治，多谈些经济",
+   "en": "talk less about politics,and more about economics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.069",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "列宁1918年关于苏维埃报刊主要任务的认识。进入社会主义建设时期以后，苏俄报刊上充斥政治空谈，列宁要求少谈这样的政治，不要总是报道政治领导人的活动和日常的例行公事；多谈经济，是指搜集、周密地审核和研究"
+  },
+  {
+   "cn": "国情教育",
+   "en": "education about national conditions",
+   "source": "教育学名词",
+   "wordNumber": "07.127",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "对学生进行国家基本状况的教育。"
+  },
+  {
+   "cn": "俄共(布)关于工会问题的争论",
+   "en": "Dispute about Trade Unions",
+   "source": "世界历史名词",
+   "wordNumber": "05.0385",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "发生在1920-1921年间，俄共党内“工人反对派”、“民主集中派”等提出工会国家化等要求，受到以列宁为首的中央多数派反对。"
+  },
+  {
+   "cn": "问带下",
+   "en": "inquiring about vaginal discharge",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0113",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "询问妇女带下量、色、质及气味的变化，以审察妇科病证的诊断方法。"
+  },
+  {
+   "cn": "问周期",
+   "en": "inquiring about menstrual cycle",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0106",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "询问月经周期相关情况，以审察妇科病证的诊断方法。"
+  },
+  {
+   "cn": "问孕候",
+   "en": "inquiring about pregnant symptoms",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0117",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "通过询问停经后的伴随症状，以测定妇女是否妊娠及审察妇科病证的诊断方法。"
+  },
+  {
+   "cn": "问乳汁",
+   "en": "inquiring about breast milk",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0120",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "询问及观察产妇排出乳汁的量、色、质的变化，以及伴随的乳房症状，以诊断产后病的诊断方法。"
+  },
+  {
+   "cn": "典型报道",
+   "en": "news reports about typical examples",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.096",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "新闻机构或新闻工作者选取一定时期产生或出现的同类事物中最突出、最具代表性的人物、事件、经验或问题，集中笔墨对其进行报道。用以示范经验或警示教训，指导工作、引导舆论。"
+  },
+  {
+   "cn": "驼峰迂回线",
+   "en": "round about line of hump",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0428",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "价值观",
+   "en": "sense of worth;opinion about value",
+   "source": "行为医学名词",
+   "wordNumber": "4.085",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体按照客观事物对其自身及社会的意义或重要性进行评价和选择的原则、信念和标准。对个人的思想和行为具有一定的导向调节作用。是个体思想意识的核心。"
+  },
+  {
+   "cn": "迂回运输",
+   "en": "round about traffic,circuitous tra- ffic",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0109",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "微阵列实验最低限度信息标准",
+   "en": "Minimum Information About a Microarray Experiment;MIAME",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0993",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_生物芯片技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "微阵列基因表达数据组织发布的关于微阵列实验数据信息提交最低标准的指南。确定了对于解释和验证结果所必需的微阵列数据注释和交换最小信息描述的需求。目前已经获得主要的数据库的存储支持，也被许多科学期刊作为基"
+  },
+  {
+   "cn": "睡眠障碍的信念和态度量表",
+   "en": "dysfunctional beliefs and attitudes about sleep;DBAS",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.453",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_睡眠相关量表和问卷",
+   "subjectName": "睡眠相关量表和问卷",
+   "publishYear": "2022",
+   "definition": "一种用来辨别严重影响患者情绪的非理性念头的量表。涉及对失眠原因的理解，对失眠后果的估计，对睡眠的期望，对控制和预测睡眠的能力评价，对促进睡眠行为的认识。由加拿大睡眠专家莫林（Morin）于1995年编"
+  },
+  {
+   "cn": "关于《真理报》刊登广告的争论",
+   "en": "Debate about Ban on Advertising in Pravda",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.138",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_历史事件",
+   "subjectName": "历史事件",
+   "publishYear": "2022",
+   "definition": "1922年4月2日，列宁在党的十一大上对已通过的关于禁止《真理报》刊登广告的决议提出批评。他认为，在新经济政策条件下从黄金储备或税收中为党报拨款是不对的。党报应通过刊登广告增加收入，减轻国家负担。列宁"
+  },
+  {
+   "cn": "掉抢",
+   "en": "come about",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反复抢风转变航向",
+   "en": "tack about\",\"beating about\",\"tacking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人性假设",
+   "en": "assumption about human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "六经皆史",
+   "en": "The Six Confucian Classics Are All About History.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "见微知著",
+   "en": "Learning About What Is Forthcoming by Observing Tiny Clues",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编造并传播证券、期货交易虚假信息罪",
+   "en": "crime of fabricating and disseminating false information about securities and futures trading",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "面对面！",
+   "en": "Face about! Face each other! Face to face! Jwawoo-hyangwoo! Turn to front!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "先天下之忧而忧，后天下之乐而乐",
+   "en": "I wish to be the first to worry about the nation’s woes and the last to share in its prosperity.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "《苗防备览》",
+   "en": "A Book about Miao",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0306",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清代后期关于湖南西部和贵州东北部苗族地区地理、政治、经济、风习等方面之综合性著作。作者严如煜（1759—1826），曾任晚清湖南巡抚姜晟幕僚。全书共22 卷，14 门，内容丰富详赡。"
+  },
+  {
+   "cn": "政策和策略思想",
+   "en": "thought about policy and tactic",
+   "source": "马克思主义",
+   "wordNumber": "03.0429",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想的重要组成部分。其主要内容包括：政策和策略的重要性；制定和执行政策和策略的守则和方法；对敌斗争、统一战线的政策和策略。这些思想集中体现在《目前抗日统一战线中的策略问题》《论政策》《关于打退第"
+  },
+  {
+   "cn": "《御制喇嘛说》",
+   "en": "Doctrine about Lama by Imperial Order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0308",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清乾隆帝论述喇嘛教宗旨及清廷对该教所持政策之文。撰于乾隆五十七年（1792），对喇嘛教在蒙、藏地区之活动与发展具有重大影响。此文刻于石碑，立于雍和宫。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

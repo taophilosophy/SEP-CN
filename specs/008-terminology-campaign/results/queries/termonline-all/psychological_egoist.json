@@ -1,0 +1,672 @@
+{
+ "key": "psychological egoist",
+ "term": "psychological egoist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:48:46+00:00",
+ "status": "ok",
+ "note": "variant=psychological egoist; 审定公布名词库=483; 海峡两岸名词对照库=180; 其他来源数据库=25; 预公布名词数据库=65; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "利己性自杀",
+   "en": "egoistic suicide",
+   "source": "行为医学名词",
+   "wordNumber": "13.035",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "为了个人利益而自杀的现象。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "行为医学名词",
+   "wordNumber": "4.002",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "研究人的心智与行为、心理现象及其规律的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "计划生育名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "应用反应论和信息论等理论和方法，研究心理事实、心理规律和心理机制的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "老年医学名词",
+   "wordNumber": "10.001",
+   "subjectFullName": "老年医学_老年心理学",
+   "subjectName": "老年心理学",
+   "publishYear": "2017",
+   "definition": "研究人的心理现象的发生、发展和活动规律的学科。心理现象是心理活动的表现形式，包括感觉、知觉、记忆、想象、思维、情感、意志等心理过程及在这些心理过程中形成与表现出来的需要、兴趣、理想、信念、态度、性格、"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "心理学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "心理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "研究人的心智与行为的学科。"
+  },
+  {
+   "cn": "心理战",
+   "en": "psychological warfare,psychological operation",
+   "source": "心理学名词",
+   "wordNumber": "16.045",
+   "subjectFullName": "心理学_军事心理学",
+   "subjectName": "军事心理学",
+   "publishYear": "2014",
+   "definition": "运用特定信息向对象施加心理影响，瓦解对方、团结友方、巩固己方，以实现己方军事、政治目标的活动。"
+  },
+  {
+   "cn": "性心理",
+   "en": "sexual psychology;sex psychology",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.001",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "随着性生理和脑发育的逐渐成熟，个体在特定社会环境、文化背景的影响下形成的对性及性活动的认知、体验、观念、情感等心理活动。"
+  },
+  {
+   "cn": "精神医学",
+   "en": "psychiatry,psychological",
+   "source": "精神医学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "精神医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "研究精神障碍的病因、发病机制、临床特点、发展规律和病程转归、治疗、预防，以及在公共卫生领域开展各种精神卫生服务，并为医学其他学科提供从“人是一个整体”的角度理解疾病、理解受检者思维方式的医学分支学科。"
+  },
+  {
+   "cn": "心理失衡",
+   "en": "psychological imbalance",
+   "source": "急救医学名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "急救医学_海上医学救援_基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "正常心理活动中的局部异常状态。不存在心理状态的病理性变化，具有明显的偶发性和暂时性，常与一定的情境相关联而诱发，脱离该情景，个体的心理活动则完全正常。"
+  },
+  {
+   "cn": "心理学个体主义",
+   "en": "psychological individualism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.552",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "一种认为个体的某些重要心理属性，如心理语义内容，是由其内部状态而非其所处的社会历史文化环境所决定的哲学观点。"
+  },
+  {
+   "cn": "心理学功能主义",
+   "en": "psychological functionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.553",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "主张心理状态仅仅是在一个特定物理系统中起因果作用的功能状态。某种特定类型的心理状态不依赖于心灵的内在构造，而是由系统中的输入、输出及内部组成部分的功能作用的方式决定的。"
+  },
+  {
+   "cn": "精神依赖性",
+   "en": "psychological dependence",
+   "source": "麻醉学名词",
+   "wordNumber": "07.113",
+   "subjectFullName": "麻醉学_疼痛诊疗_慢性疼痛诊疗_药物治疗副作用",
+   "subjectName": "药物治疗副作用",
+   "publishYear": "2024",
+   "definition": "强烈、迫切地要求服用某种药品以获得愉快与满足的欲望。致使成瘾者因非医疗目的而强制使用药物。"
+  },
+  {
+   "cn": "心理性危害",
+   "en": "psychological hazard",
+   "source": "麻醉学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "麻醉学_麻醉科质量管理_职业安全与防护",
+   "subjectName": "职业安全与防护",
+   "publishYear": "2024",
+   "definition": "麻醉或手术过程中可能出现的源于精神心理因素的危害。"
+  },
+  {
+   "cn": "心理平衡",
+   "en": "psychological balance",
+   "source": "行为医学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "行为医学_总论_行为决定健康",
+   "subjectName": "行为决定健康",
+   "publishYear": "2022",
+   "definition": "内心世界的和谐状态。人们用升华、幽默、外化、合理化等手段来调节对事物得失的认识。"
+  },
+  {
+   "cn": "心理应激源",
+   "en": "psychological stressor",
+   "source": "行为医学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "来自人脑内的紧张性信息。主要指冲突、挫折和各种原因导致的心理性刺激。"
+  },
+  {
+   "cn": "心理危机",
+   "en": "psychological crisis",
+   "source": "行为医学名词",
+   "wordNumber": "13.063",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "面临重大事件或遭遇时，运用可调动的资源和应对机制仍无法解决困难时心身失衡的紧急状态。"
+  },
+  {
+   "cn": "心理依赖",
+   "en": "psychological dependence",
+   "source": "行为医学名词",
+   "wordNumber": "15.028",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "物质令使用者产生一种愉快满足或欣快的感觉，驱使使用者为寻求这种感觉而反复使用物质的状态。"
+  },
+  {
+   "cn": "心理评估",
+   "en": "psychological assessment",
+   "source": "行为医学名词",
+   "wordNumber": "19.033",
+   "subjectFullName": "行为医学_行为心理评估_心理评估_心理测验与测评",
+   "subjectName": "心理测验与测评",
+   "publishYear": "2022",
+   "definition": "应用心理学理论和多种心理测量方法获得信息，对个体心理现象做全面、系统、客观描述、评价、鉴定、诊断的过程。"
+  },
+  {
+   "cn": "心理素质",
+   "en": "psychological quality",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.276",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科肿瘤与环境",
+   "subjectName": "妇科肿瘤与环境",
+   "publishYear": "2022",
+   "definition": "一个人在社会生活中思想与行为的具体表现。包括一个人全部的心理方面的能力表征，与生理和精神相区别，主要包括个性、性格和气质；智力、感觉、知觉、记忆、思维、想象、注意力、意志力等；心理适应能力、自我意识、"
+  },
+  {
+   "cn": "心理测验",
+   "en": "psychological test",
+   "source": "手外科学名词",
+   "wordNumber": "06.0200",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "依据心理学原理和技术，以客观的标准化程序对人的心理现象或行为进行量化分析和描述的科学手段。包含行为样本、客观测量和标准化三个基本要素。康复心理学中，常用的心理测验包括智力测验、记忆力测验、人格测验、精"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "女性心理学，妇女心理学",
+   "en": "women psychology\",\"female psychology\",\"feminine psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我心理学",
+   "en": "ego psychology\",\"self psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析心理学",
+   "en": "analytical psychology\",\"analytic psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "咨询心理学",
+   "en": "counseling psychology\",\"consulting psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理定价",
+   "en": "psychological pricing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理机制",
+   "en": "psychological mechanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理建构",
+   "en": "psychological construct",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理区隔",
+   "en": "psychological segmentation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理战",
+   "en": "psychological warfare",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理倦怠",
+   "en": "psychological burnout",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理时间",
+   "en": "psychological time",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理逆反",
+   "en": "psychological reactance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理统计学",
+   "en": "psychological statistics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理相容性",
+   "en": "psychological compatibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理测量",
+   "en": "psychological measurement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理性依赖",
+   "en": "psychological dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理应激，心理压力",
+   "en": "psychological stress",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理场",
+   "en": "psychological field",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理类型",
+   "en": "psychological type",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理创伤",
+   "en": "psychological trauma",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心理疏导",
+   "en": "psychological counseling",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《新冠肺炎疫情心理疏导工作方案》",
+   "en": "Work Plan on Psychological Counseling for People Affected by COVID-19",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "利己主义",
+   "en": "egoism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "升起",
+   "en": "hoist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST ISO/IEC 17788-2016 信息技术 云计算 综述和词汇》",
+   "en": "GOST ISO/IEC 17788:2016 Information technology — Cloud computing — Overview and vocabulary",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心理压力",
+   "en": "psychological stress",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.11",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "生活中的刺激事件和内在要求对心理造成的困惑或威胁。"
+  },
+  {
+   "cn": "心理评价",
+   "en": "psychological evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.3.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用心理指标评价环境热舒适程度的过程。"
+  },
+  {
+   "cn": "心理危机",
+   "en": "psychological crisis",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "个人遇到应激或挫折而自己不能解决或处理时，发生的心理失衡状态。"
+  },
+  {
+   "cn": "心理逆反",
+   "en": "psychological reactance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "在个人的自由遭到实际的或者想象的威胁时作出的抗拒反应。个体通过挑战规则或做出不被允许的行为以重申其选择的自由。"
+  },
+  {
+   "cn": "心理阻抗",
+   "en": "psychological resistance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，求咨者在咨询中出现的各种下意识的自我保护现象。如每次咨询都迟到，交谈时注意力分散、态度消极、漠视对方或情绪急躁。多见于幼儿期有过创伤体验或受压抑的求咨者，也可能因咨询者因素导致。"
+  },
+  {
+   "cn": "精神暴力",
+   "en": "psychological violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.3",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "任何有意为之并损害女性心理健康和造成精神痛苦的的言语或行为，主要包括恐吓、威胁、吼叫、嘲笑、侮辱、霸道、监视控制、歧视等。"
+  },
+  {
+   "cn": "心理干预",
+   "en": "psychological intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "在心理学理论指导下，有计划、按步骤地对一定对象的心理活动、个性特征或行为问题施加影响，使之发生朝向预期目标变化的过程。"
+  },
+  {
+   "cn": "心理人类学派",
+   "en": "psychological anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0554",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪30 年代前后，美国历史学派中的一些学家开始转向民族心理和文化现象的研究，从探索民族性格入手，到研究特定民族的文化模式、变迁和表现等等，他们注重生理学、心理学的人类行为心理研究，主要代表人物"
+  },
+  {
+   "cn": "心理弹性",
+   "en": "psychological resilience",
+   "source": "社会医学名词",
+   "wordNumber": "13.8.3",
+   "subjectFullName": "社会病",
+   "subjectName": "社会心理应激",
+   "publishYear": "2025",
+   "definition": "个体在面对逆境、压力、创伤或重大变化时，能够积极适应、有效恢复并保持良好发展的能力。"
+  },
+  {
+   "cn": "心理学派",
+   "en": "Psychological School",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0441",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "产生于19 世纪末20 世纪初，以奥地利精神病医师、心理学家、精神分析学派创始人弗洛伊德（Sigmund Freud）的精神分析学派理论为基本指导思想来论述、分析民俗文化的实质，形成了民俗学中的心理学"
+  },
+  {
+   "cn": "心理应激",
+   "en": "psychological stress",
+   "source": "社会医学名词",
+   "wordNumber": "13.8.2",
+   "subjectFullName": "社会病",
+   "subjectName": "社会心理应激",
+   "publishYear": "2025",
+   "definition": "机体在某种环境刺激作用下，由于客观要求和应付能力不平衡所产生的一种适应环境的紧张反应状态。其产生可提高人的警觉水平，从而应付各种环境变化的挑战。若过度，有害于人体的身心健康。"
+  },
+  {
+   "cn": "社会心理学",
+   "en": "social psychology",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "一门侧重描述和解释群体中的个体或个体同群体相互作用的学科。内容涉及社会情境、社会化、社会性的认知、情感、思维、动机、态度及社会行为模式等方面，并由此扩展为对人际与大众传播心理乃至集群行为的研究等。"
+  },
+  {
+   "cn": "心理指标",
+   "en": "psychology parameter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "反映儿童青少年心理健康状况的指标，包括是否有抑郁、焦虑情绪，是否有自伤、自杀等相关行为等"
+  },
+  {
+   "cn": "性心理",
+   "en": "sex psychology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "围绕性征、性欲和性行为而展开的心理活动，由性意识、性感情、性知识、性经验和性观念等组成。"
+  },
+  {
+   "cn": "医学心理学",
+   "en": "medical psychology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.19",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "心理学与医学相结合的一门交叉学科。将心理学的理论和技术应用于医学领域，探索心理因素在人体健康以及疾病的发生、发展、诊断、治疗、预防与医疗护理中的作用。"
+  },
+  {
+   "cn": "民族心理",
+   "en": "ethnic psychology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0486",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一个民族作为一个大群体所具有的典型心理特点，通过该民族成员个体表现出来。民族心理特点是一个民族长期在特定的自然环境与社会环境的制约下，在历史文化的积淀过程中形成的，并通过一定的生产和生活方式及各种文化"
+  },
+  {
+   "cn": "心理民俗学",
+   "en": "psychology folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0501",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究民俗与心理相互关系的学科，认为社会民俗是民众集体无意识和集体有意识的综合表现。"
+  },
+  {
+   "cn": "道德心理",
+   "en": "moral psychology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.015",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "具有一定道德倾向性的比较稳定的心理特征的总和，是道德知识、道德行为、社会道德要求以及道德文化的心理反映。"
+  },
+  {
+   "cn": "压抑性心理机制",
+   "en": "repressed psychological mechanisms",
+   "source": "马克思主义",
+   "wordNumber": "05.0051",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，伴随着科学技术与消费社会为特征的现代社会的发展，人的异化主要不是外在力量的统治与压抑，而是更多地表现为人的“自我异化”，即压抑性的心理机制。"
+  },
+  {
+   "cn": "学校心理咨询",
+   "en": "school psychological counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校环境中，由受过专业训练的心理咨询师或学校心理教师，通过心理商谈技术、程序和方法，向学生提供心理辅导和支持服务，帮助学生应对各种心理挑战，解决发展中遇到的困惑，克服不良情绪状态的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

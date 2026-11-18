@@ -1,0 +1,742 @@
+{
+ "key": "connectionist networks",
+ "term": "Connectionist networks",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:37:15+00:00",
+ "status": "ok",
+ "note": "variant=Connectionist networks; 审定公布名词库=1496; 海峡两岸名词对照库=482; 其他来源数据库=263; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "连接机制学习",
+   "en": "connectionist learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0318",
+   "subjectFullName": "计算机科学技术_人工智能_神经网络",
+   "subjectName": "神经网络",
+   "publishYear": "2018",
+   "definition": "模拟人脑生理结构（脑神经细胞间的互连机制）来实现人工神经网络的学习功能。"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.039",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "由节点和连线构成且使其信息相互联系，代表信息传输、接收、共享的虚拟系统。它借助文字阅读、图片查看、影音播放、下载传输、游戏聊天等，形成了不同于现实世界的虚拟世界。"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "电力名词",
+   "wordNumber": "01.238",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "网络拓扑学中,将理想电路元件及其相互连接作为整体看待的集。"
+  },
+  {
+   "cn": "∏形网络",
+   "en": "∏-network",
+   "source": "电力名词",
+   "wordNumber": "01.255",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "由三条串联支路构成的二端对网络,每个端对由两头的支路之一的两节点构成,最头上的两个节点连接成一等位点。<img src='/root/syzx/static/spz/dianli3.01.255.01"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "物理学名词",
+   "wordNumber": "03.0321",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "化学名词",
+   "wordNumber": "05.0727",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "组成单元或链段间通过许多插入的键相互连接，并使高分子整体扩展到微相边界的一种高度分枝聚合物结构。"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.661",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "由相互连接的节点和弧段组成的系统结构。"
+  },
+  {
+   "cn": "网[络]",
+   "en": "network",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.022",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在物理上或/和逻辑上,按一定拓扑结构连接在一起的多个节点和链路的集合。"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "地理学名词",
+   "wordNumber": "25.038",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "由具有无结构性质的节点与相互作用关系构成的体系。"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "电气工程名词",
+   "wordNumber": "01.456",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0029",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "П形网络",
+   "en": "П-network",
+   "source": "电气工程名词",
+   "wordNumber": "01.483",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "Г形网络",
+   "en": "Г-network",
+   "source": "电气工程名词",
+   "wordNumber": "01.481",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "同步网",
+   "en": "synchronization network,synchronized network,synchronous network",
+   "source": "通信科学技术名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "通信科学技术_支撑网络",
+   "subjectName": "支撑网络",
+   "publishYear": "2007",
+   "definition": "产生时间或频率基准,用来提供基准定时信号的网络。"
+  },
+  {
+   "cn": "传感网络",
+   "en": "transducer network,sensor network",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0056",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "由多个传感器构成、用于输出大空间范围中多点或多参量传感信号的网络。"
+  },
+  {
+   "cn": "电网结构",
+   "en": "network structure,network configuration",
+   "source": "电力名词",
+   "wordNumber": "04.048",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "电力网中主要电气元件的电气连接形式。"
+  },
+  {
+   "cn": "网络变换",
+   "en": "network transformation,network conversion",
+   "source": "电力名词",
+   "wordNumber": "04.086",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "按等效原理将一种网络变换为另一种便于计算(易于处理)的网络。"
+  },
+  {
+   "cn": "网络文献",
+   "en": "network document,network literature",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.619",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_数字资源建设",
+   "subjectName": "数字资源建设",
+   "publishYear": "2019",
+   "definition": "存在于互联网中，可以通过网络查询、获取、阅读的文献总称。具有信息量大、类型复杂、语种多样、分布广泛的特点。"
+  },
+  {
+   "cn": "网络模式学说",
+   "en": "network hypothesis,network theory",
+   "source": "呼吸病学名词",
+   "wordNumber": "04.036",
+   "subjectFullName": "呼吸病学_呼吸运动调节_呼吸中枢和呼吸节律",
+   "subjectName": "呼吸中枢和呼吸节律",
+   "publishYear": "2018",
+   "definition": "呼吸节律的产生依赖于延髓内呼吸神经元之间复杂的相互联系和相互作用的学说。"
+  },
+  {
+   "cn": "网络管理",
+   "en": "network management,network administration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0841",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "网络的运行和维护。包括监视和控制网络部件、配置网络以及分配网络资源。"
+  },
+  {
+   "cn": "连接机制神经网络",
+   "en": "connectionist neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接[机制]学习",
+   "en": "connectionist learning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接机制体系结构",
+   "en": "connectionist architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "网[络]",
+   "en": "network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连网",
+   "en": "networking",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络-网络接口",
+   "en": "network-network interface\",\"NNI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道路网络／公路网",
+   "en": "road networks",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "河网",
+   "en": "drainage networks",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贸易网络",
+   "en": "trade networks",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neutral networks",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network\",\"net",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "胞内网",
+   "en": "intracellular network",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "毛细血管网",
+   "en": "capillary network",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "弹性网",
+   "en": "elastic network",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞外网",
+   "en": "extracellular network",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "连接机制学习",
+   "en": "connectionist learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络身份",
+   "en": "network identity (network ID)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复杂网络",
+   "en": "complex network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机网",
+   "en": "Computer Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络时延",
+   "en": "network delay",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络拥塞",
+   "en": "network congestion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络协议",
+   "en": "network protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络工程",
+   "en": "network engineering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "先进网络",
+   "en": "Advanced Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络体系结构",
+   "en": "network architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "确定性网络",
+   "en": "deterministic network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据网",
+   "en": "data network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络虚拟化",
+   "en": "network virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互动网络",
+   "en": "interaction network",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体之间互动所形成的网络结构。每个个体都是网络中的一个节点，每两个节点之间相互联系构成整个网络。"
+  },
+  {
+   "cn": "网络组织",
+   "en": "network organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.11",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "在现代信息通信技术的支撑下，由基于共同的目标、价值、兴趣或利益的企业实体自发联合而成，通过正式契约或非正式契约聚合起来的互相依赖、共担风险的长期合作、相对稳定的组织形式。"
+  },
+  {
+   "cn": "组织网络",
+   "en": "organizational network",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.8",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "广义指一些相关企业借助于现代信息技术，通过长期契约和股权的形式，为达到共享技术，分摊费用以及满足市场需求等目标而联结起来的一种合作性企业组织群体。狭义指企业中的多个部门组合成相互合作的网络，各网络结点"
+  },
+  {
+   "cn": "沟通网",
+   "en": "communication network",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.10",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部各种可利用的人际沟通渠道所结成的构架。人际沟通常常受到可利用的沟通渠道的限制，这些渠道所构成的不同结构和不同性质的沟通网络，决定着信息交流的取向和质量。"
+  },
+  {
+   "cn": "网络边界",
+   "en": "network boundary",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "研究者基于分析的方便对社会网络的范围做出的人为限定。有些社会网络本身具有明显的边界，比如与世隔绝的村落中的人际关系网；然而绝大部分现实生活中的社会网络不具有明确边界，研究者一般根据关系类型、交往内容、"
+  },
+  {
+   "cn": "个人网",
+   "en": "personal network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "或称自我中心网(egocentric network）。是以个人为中心的社会关系的总和。小到局限在直接交往范围里的家庭成员网，大到通过直接和间接纽带联系着的数以千计的社交关系网。个人网是与整体网相对的"
+  },
+  {
+   "cn": "整体网",
+   "en": "whole network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "一定网络边界内的社会关系的总和。多用于分析具有相对明确范围的社会网络，比如村落共同体、工作组织，或学校班级内的关系网络。整体网是与个体网相对的概念，是以网络内全体成员间关系为分析对象，其结构形态是分析"
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.4",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "由许多节点连接起来构成的一种社会结构。节点通常是指个人或组织，社会网络代表各种社会关系，经由这些社会关系，把各种人或组织连接起来。"
+  },
+  {
+   "cn": "网络社会",
+   "en": "network society",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.45",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "由新技术变革引发的一种全新的社会结构。这一社会结构源于数字信息和通信技术所构成的技术模式与社会组织以及社会的变化之间的相互作用，其基本特征包括基于创新、全球化与分散性集中的资本主义经济；强调适应性和弹"
+  },
+  {
+   "cn": "网络反腐",
+   "en": "network anticorruption",
+   "source": "马克思主义",
+   "wordNumber": "03.0781",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以网络为平台，通过网络舆论、网络举报而对国家工作人员进行监督的行为，是反腐败斗争的新方式。网络作为一种工具，具有快捷、低成本、低风险的技术优势，但也存在信息失真、扩散的问题，网络反腐的有序进行必须依靠"
+  },
+  {
+   "cn": "网络外部性",
+   "en": "network externalities",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.3",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "使用网络产品不仅使消费者受益或受损，还能使其他消费者或非消费者受益或受损的一种特性。"
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "社会医学名词",
+   "wordNumber": "3.6.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会治理",
+   "publishYear": "2025",
+   "definition": "由许多节点连接起来构成的一种社会结构。节点通常是指个人或组织，社会网络代表各种社会关系，经由这些社会关系，把各种人或组织连接起来。"
+  },
+  {
+   "cn": "网络分析法",
+   "en": "network analysis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0104",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "从个人的活动追溯其全面的社会关系的方法。都市人类学家用网络分析法揭示了都市居民组织、经济、政治、亲属等关系的目的和过程，及这些社会关系的结构和功能。"
+  },
+  {
+   "cn": "事件流网络",
+   "en": "event flow network",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.6",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现在某一期间或某一过程中研究对象所经历的各个具体事件及其相互关联的一种图表。"
+  },
+  {
+   "cn": "事件状态网络",
+   "en": "event-state network",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据事件发生的顺序表现个案所经历的各种状态以及状态间关系的图表。"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "表现概念间语义关系的网络图.是一种常见的知识呈现形式。"
+  },
+  {
+   "cn": "社会网络分析",
+   "en": "social network analysis",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "具有共同方法论视角的一套分析技术。用于描述分析作为节点的行动者之间的关系，并分析因这些社会关系重复出现而产生的社会结构及其对人们行为和观念的影响。可根据划分依据不同进行分类。比如，根据研究对象可分为个"
+  },
+  {
+   "cn": "社会支持网",
+   "en": "social support network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "个体拥有的可以满足工具性或情感性需要的关系网络，其内容可以涵盖信息分享、情感陪伴、劳务服务、财物交流等多方面，对个体抵御疾病、缓解压力有积极效果。"
+  },
+  {
+   "cn": "网络系统学习",
+   "en": "network system learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "将与某教育项目有关的知识、信息和技能分门别类，编制成教学软件，放在学校计算机局域网上，学生通过计算机终端连接网络进行学习。"
+  },
+  {
+   "cn": "社会支持网",
+   "en": "social support network",
+   "source": "社会医学名词",
+   "wordNumber": "3.5.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "个体拥有的可以满足工具性或情感性需要的关系网络，其内容可以涵盖信息分享、情感陪伴、劳务服务、财物交流等多方面，对个体抵御疾病、缓解压力有积极效果。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

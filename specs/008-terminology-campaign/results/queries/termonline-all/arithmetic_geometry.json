@@ -1,0 +1,442 @@
+{
+ "key": "arithmetic geometry",
+ "term": "arithmetic geometry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:33:43+00:00",
+ "status": "ok",
+ "note": "variant=arithmetic geometry; 审定公布名词库=290; 海峡两岸名词对照库=110; 其他来源数据库=3; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "算术",
+   "en": "arithmetic",
+   "source": "数学名词",
+   "wordNumber": "04.0001",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算术化",
+   "en": "arithmetization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0370",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "把逻辑公式变换成代数表达式的方法。例如：利用规则① x∧y↔x·y ；<img src='/root/syzx/static/spz/jsjkx3.02.0370.001.png'/>；③ x∨y↔1"
+  },
+  {
+   "cn": "算术化",
+   "en": "arithmetization",
+   "source": "数学名词",
+   "wordNumber": "02.0137",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "几何[学]",
+   "en": "geometry",
+   "source": "数学名词",
+   "wordNumber": "08.0001",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算术性癫痫",
+   "en": "arithmetic epilepsy",
+   "source": "神经病学名词",
+   "wordNumber": "12.123",
+   "subjectFullName": "神经病学_癫痫",
+   "subjectName": "癫痫",
+   "publishYear": "2020",
+   "definition": "反射性癫痫的一种类型。常在做简单计算时诱发，也有因解难题时诱发的癫痫发作。多表现为失神发作、全面强直阵挛发作、复杂部分性发作。"
+  },
+  {
+   "cn": "算术平均值",
+   "en": "arithmetic mean",
+   "source": "冶金学名词",
+   "wordNumber": "04.0690",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "将一组测量值的代数和除以测量值的个数所得的商。"
+  },
+  {
+   "cn": "算术平均",
+   "en": "arithmetic mean",
+   "source": "物理学名词",
+   "wordNumber": "01.0262",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "算术移位",
+   "en": "arithmetic shift",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0202",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "不改变符号位的移位操作。"
+  },
+  {
+   "cn": "运算流水线",
+   "en": "arithmetic pipeline",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0232",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "执行算术运算的流水线。"
+  },
+  {
+   "cn": "算术公式",
+   "en": "arithmetic formula",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0277",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "每一个门的出度都是1的代数线路。"
+  },
+  {
+   "cn": "方法库",
+   "en": "arithmetic base",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0148",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "存储在计算机内的基本算法，如数学方法、数理统计方法、经济数学方法等的相应程序集合。"
+  },
+  {
+   "cn": "算术操作",
+   "en": "arithmetic operation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0195",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "按照算术规则进行的运算。包括加、减、乘、除和求绝对值等。"
+  },
+  {
+   "cn": "算术下溢",
+   "en": "arithmetic underflow",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0197",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "在算术运算过程中，运算结果的绝对值太小，超出机器所能表示的范围所产生的现象。"
+  },
+  {
+   "cn": "运算寄存器",
+   "en": "arithmetic register",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0229",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "运算器中的数据寄存器。用来存放将要参加运算的操作数。"
+  },
+  {
+   "cn": "算术上溢",
+   "en": "arithmetic overflow",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0196",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "在算术运算过程中，运算结果的绝对值太大，超过机器所能表示的范围所产生的现象。"
+  },
+  {
+   "cn": "运算器",
+   "en": "arithmetic unit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0231",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "执行各种算术运算和逻辑操作的部件。能完成加、减、乘、除四则运算，与、或、非、异或等逻辑操作，以及移位、比较、位操作和传送等操作。"
+  },
+  {
+   "cn": "算术平均值",
+   "en": "arithmetic mean",
+   "source": "化学名词",
+   "wordNumber": "03.0149",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在等精度测量中，1个被测定量n个测量值的代数和除以n而得到的商。"
+  },
+  {
+   "cn": "算术平均数",
+   "en": "arithmetic mean",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.125",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "一组变量值之和除以变量值个数所得的商。反映一组观测值在数量上的平均水平。"
+  },
+  {
+   "cn": "形式化算术",
+   "en": "formalized arithmetic",
+   "source": "数学名词",
+   "wordNumber": "02.0117",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算术系统",
+   "en": "arithmetic system",
+   "source": "数学名词",
+   "wordNumber": "02.0138",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "算术平均",
+   "en": "arithmetic mean",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "算术平均",
+   "en": "arithmetic mean",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "算术平均值",
+   "en": "arithmetic mean",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "算术表达式",
+   "en": "arithmetic expression",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术乘积",
+   "en": "arithmetic product",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术检验",
+   "en": "arithmetic check",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术码",
+   "en": "arithmetic code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术平均",
+   "en": "arithmetic mean",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术上溢",
+   "en": "arithmetic overflow",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术下溢",
+   "en": "arithmetic underflow",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术移位",
+   "en": "arithmetic shift",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术运算",
+   "en": "arithmetic operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运算寄存器",
+   "en": "arithmetic register",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运算流水线",
+   "en": "arithmetic pipeline",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运算速度",
+   "en": "arithmetic speed",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矩阵算术",
+   "en": "matrix arithmetics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂几何形状",
+   "en": "catalyst geometry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "图像几何学",
+   "en": "image geometry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何",
+   "en": "computational geometry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.2-1988 数据处理词汇 第2部分：算术和逻辑运算》",
+   "en": "GB/T 5271.2-1988 Data processing — Vocabulary — Section 2: Arithmetic and logic operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算学",
+   "en": "arithmetic",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0325",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国古代对数学的称号；殷墟出土的甲骨文中有计数的文字中就有十进制的计数法。《史记•夏本纪》中记载了大禹治水时使用了规、矩、准、绳等工具。战国时期的诸子学说中也有关于算学名词的定义和命题。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

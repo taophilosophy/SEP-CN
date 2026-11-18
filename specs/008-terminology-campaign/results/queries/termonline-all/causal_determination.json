@@ -1,0 +1,712 @@
+{
+ "key": "causal determination",
+ "term": "causal determination",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:47:35+00:00",
+ "status": "ok",
+ "note": "variant=causal determination; 审定公布名词库=1869; 海峡两岸名词对照库=708; 其他来源数据库=40; 预公布名词数据库=82; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物之间具有某种确定的生成关系。作为生成条件的事物称为前因，作为生成结果的事物称为后果。前因可分为内因（事物内部原因）和外因（事物外部原因）。"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1634",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "前后发生的事件之间具有因果关系的性质。 "
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "物理学名词",
+   "wordNumber": "06.0074",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "生物物理学名词",
+   "wordNumber": "07.150",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "描述两个事件之间的关系，其中一个事件为另一个事件的结果。"
+  },
+  {
+   "cn": "因果律",
+   "en": "causality",
+   "source": "电子学名词",
+   "wordNumber": "05.193",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "因果分析",
+   "en": "causal analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.130",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "为了确定某一现象的变化原因，在研究对象的先行情况中，把与其变化相关的现象和其他非相关现象进行区分，或在研究对象的后行情况中，把与之变化结果相关的现象和其他的现象区分，并进行分析的过程。"
+  },
+  {
+   "cn": "因果信号",
+   "en": "causal signal",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1635",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在脉冲信号未输入前没有输出的信号。 "
+  },
+  {
+   "cn": "因果函数",
+   "en": "causal function",
+   "source": "物理学名词",
+   "wordNumber": "05.0895",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果变换",
+   "en": "causal transform",
+   "source": "物理学名词",
+   "wordNumber": "05.0896",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0105",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "研究因果关系及其推理规则的一类推理方法的统称。"
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0042",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "研究事件之间因果依赖关系的逻辑。"
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution",
+   "source": "心理学名词",
+   "wordNumber": "07.031",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "对于行为、事件的因果解释和推论。"
+  },
+  {
+   "cn": "因果推论",
+   "en": "causal inference",
+   "source": "心理学名词",
+   "wordNumber": "03.203",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "根据实验设计中关于自变量、因变量的界定，采用统计方法对变量间的因果关系进行分析的过程。"
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "地理学名词",
+   "wordNumber": "21.021",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "反映x和y两个变量之间非对应关系的一种数学模型，在旅游学中有比较广泛的运用。如旅游者行为研究、目的地选择、居民对旅游发展的态度和旅游者目的地服务的感知等。"
+  },
+  {
+   "cn": "因果子波",
+   "en": "causal wavelet",
+   "source": "石油名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "因果系统",
+   "en": "causal system",
+   "source": "电子学名词",
+   "wordNumber": "05.194",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冗余因果性",
+   "en": "redundant causality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.071",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "某事件的发生存在多个原因，但其中某些原因即使不发生，该事件也可能发生。"
+  },
+  {
+   "cn": "格兰杰因果关系",
+   "en": "Granger causality",
+   "source": "生物物理学名词",
+   "wordNumber": "07.151",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "英国经济学家，2003年诺贝尔经济学奖获得者格兰杰(C. Granger)提出的一种确定某一时间序列是否能预测另一时间序列的统计假设检验。即如果时间序列X与时间序列Y之间存在格兰杰因果关系，那么X值可"
+  },
+  {
+   "cn": "格兰杰因果关系",
+   "en": "Granger causality",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0637",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "一个变量信息的加入对另一变量具有预测作用的一种关系。最早由格兰杰(Clive W. J. Granger)于1969年提出。"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "因果律，因果性",
+   "en": "causality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果性研究",
+   "en": "causal research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果系统",
+   "en": "causal system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果启发法",
+   "en": "causality heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution\",\"attribution of causality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "决定",
+   "en": "determination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "测定",
+   "en": "determination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决定",
+   "en": "determination",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "行列式",
+   "en": "determinant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "行列式",
+   "en": "determinant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决定论",
+   "en": "determinism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "决定子",
+   "en": "determinant",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "决定子",
+   "en": "determinant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "因果分析系统",
+   "en": "causal analysis system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果消息日志",
+   "en": "causal message logging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "RCM模型",
+   "en": "Rubin causal model (RCM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主决定权",
+   "en": "right to self-determination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "立中制节",
+   "en": "Determine the Proper Way for Expressing Human Feelings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地理",
+   "en": "The Laws Determining the Physical Features of the Land/Geography",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坚决打赢疫情防控的人民战争、总体战、阻击战",
+   "en": "be determined to fight and win the battle against the epidemic by mobilizing all resources, and blocking the spread of the virus ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动作结束",
+   "en": "termination of routine",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故",
+   "en": "Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大故",
+   "en": "Major Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小故",
+   "en": "Minor Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "变量之间非对称的影响和效应关系。其中，因是一组因素或先决条件的函数，果是一组可能的结果。"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "马克思主义",
+   "wordNumber": "01.0050",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "客观事物普遍联系相互作用的形式之一。有因必有果；有果必有因。原因与结果的这种必然联系，就是因果关系。但前后相继的现象并不一定都是因果联系；因果关系具有多种多样的形式。"
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.119",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "基于因果关系理论，描述变量间因果关系的模型。"
+  },
+  {
+   "cn": "决定论",
+   "en": "determinism",
+   "source": "马克思主义",
+   "wordNumber": "01.0195",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "认为世界上一切事物普遍存在着因果制约性、必然性和规律性的哲学学说，与“非决定论”相对。"
+  },
+  {
+   "cn": "因果关系判定原则",
+   "en": "principle of causality",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "判定接触电离辐射与所患疾病之间的因果关系，应满足时序性原则、生物学合理性原则及生物学梯度原则。"
+  },
+  {
+   "cn": "自我决定",
+   "en": "self-determination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "在案主清醒和可以衡量后果对案主无害的情况下，社会工作者要充分尊重案主自我选择和自我决定的权利的原则。"
+  },
+  {
+   "cn": "社会决定论",
+   "en": "social determinism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为社会主体的活动和历史发展主要是由外在于主体的社会环境、社会结构、社会关系、社会文化决定的学说。不排斥经济、技术对社会发展的影响，但强调其归根结底也是一定的伦理、政治与文化等社会价值的体现。与技"
+  },
+  {
+   "cn": "文化决定论",
+   "en": "cultural determinism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.10",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "社会研究的一种理论取向，强调社会母系统中的文化子系统对其他子系统（经济、政治等）的决定作用。该取向一方面发掘了文化对社会母系统及其他子系统的推动、引导、决定作用，另一方面却容易导致简单化、以偏概全和脱"
+  },
+  {
+   "cn": "地理决定论",
+   "en": "geographical determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.1",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种认为地理环境因素决定社会历史状态和民族性格的观点。萌芽于古希腊时代，兴起和流传于近代社会学、地理学和历史哲学中。"
+  },
+  {
+   "cn": "生物决定论",
+   "en": "biological determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种把社会现象解释为因某些人的生物或遗传的特征所引起的观点。"
+  },
+  {
+   "cn": "技术决定论",
+   "en": "technological determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.8",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "主张依靠科学技术进步来解决所有的生态问题。基于对技术进步的这种认识，认为技术给人类创造了空间的物质利益，尽管同时带来了生态危机的副作用，但它们同样可以用来治理这些副作用。是与自然保护主义相对的一种生态"
+  },
+  {
+   "cn": "技术决定论",
+   "en": "technical determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0575",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家怀特（Leslie Alvin White）的核心思想。怀特认为，文化进化是普遍的，任何文化都可分为技术、社会组织和意识形态三种体系，其中技术体系是最基本的，决定着社会组织和意识形态体系的"
+  },
+  {
+   "cn": "社会决定因素",
+   "en": "social determinant",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "在那些直接导致疾病的因素之外，由人们居住和工作环境中社会分层的基本结构和社会条件不同所产生的影响健康的因素。包括人们出生、成长、工作、生活和老去的环境，以及塑造日常生活环境的更广泛的力量和系统。"
+  },
+  {
+   "cn": "结构性决定因素",
+   "en": "structural determinants",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.7.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼健康决定因素",
+   "subjectName": "妇幼健康决定因素",
+   "publishYear": "2025",
+   "definition": "影响健康的植根于社会经济和政治背景下的关键因素，体现为权利、财富和资源的分配方式。个体层面包括社会地位、教育、职业、收入、性别、种族和民族，宏观层面包括政治、社会政策和文化、社会规范和价值观。"
+  },
+  {
+   "cn": "中间决定因素",
+   "en": "intermediate determinants",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.7.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼健康决定因素",
+   "subjectName": "妇幼健康决定因素",
+   "publishYear": "2025",
+   "definition": "影响健康的物质环境、心理社会环境、行为和／或生物因素，以及卫生系统本身。"
+  },
+  {
+   "cn": "机械决定论",
+   "en": "mechanical determinism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.163",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "在古典力学基础上建立起来的，盛行于17 至18 世纪，认为一切事物具有必然性、因果制约性和客观规律性，否认偶然性和人的主观能动性的哲学理论。"
+  },
+  {
+   "cn": "社会决定论",
+   "en": "social determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0517",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学年刊学派的核心观点，该范式认为社会事实自成其类，要用社会事实解释社会，不可简化到心理；社会事实独立于个体并大于个体之和，因此对个体有强制性；强制力来源于无形而有力的集体意识和集体表象。"
+  },
+  {
+   "cn": "文化决定论",
+   "en": "culture determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0516",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "该理论认为文化有其发生、发展和消失的规律，每一种文化都有它独特的特点，这些都不属于生物的范畴，与个人无关，以及非因果关系，并认为只有文化才能决定一切。"
+  },
+  {
+   "cn": "语言决定论",
+   "en": "linguistic determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0023",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "关于语言与思维关系的一种观点。由19 世纪德国文化人类学家洪堡特（Wilhelm vonHumboldt）提出。认为语言决定人们认识和理解外部世界的方式。20 世纪发展成为萨丕尔—沃尔夫假说。与“人类"
+  },
+  {
+   "cn": "动态功能测定",
+   "en": "dynamic function determination",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.8",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将某种能参与体内给定器官的生理学过程或代谢过程的放射性核素或标记物引入体内，测量放射性核素数量在该器官中随时间的变化，以反映器官功能的一种技术。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

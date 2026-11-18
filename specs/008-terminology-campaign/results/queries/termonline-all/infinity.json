@@ -1,0 +1,462 @@
+{
+ "key": "infinity",
+ "term": "infinity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:45:28+00:00",
+ "status": "ok",
+ "note": "variant=infinity; 审定公布名词库=161; 海峡两岸名词对照库=65; 其他来源数据库=30; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 19 条）",
+ "hits": [
+  {
+   "cn": "无穷",
+   "en": "infinity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.302",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "历史上，“无穷”一词有多种模糊的含义，如无限制、无终点、无定形、超越性等。今天，它通常指与自然数的任何前段都没有一一对应的复多。"
+  },
+  {
+   "cn": "潜无穷",
+   "en": "potential infinity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.290",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "与实无穷对立的一种无穷观，认为无穷作为一个过程，永远不可完成。以自然数数列0，1，2，3……为例，潜无穷的观点认为，这样的递增过程是无穷无尽的，因此无穷不可视为一个整体。"
+  },
+  {
+   "cn": "实无穷",
+   "en": "actual infinity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.292",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为可把无穷视作一个整体，是已经完成了构造的实体，与潜无穷的立场不同。"
+  },
+  {
+   "cn": "零无限远",
+   "en": "null infinity",
+   "source": "天文学名词",
+   "wordNumber": "07.606",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "共形图上的一种边界，由光无限时间传播定义的时空极限。"
+  },
+  {
+   "cn": "实无穷",
+   "en": "actual infinity",
+   "source": "数学名词",
+   "wordNumber": "02.0301",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "潜无穷",
+   "en": "potential infinity",
+   "source": "数学名词",
+   "wordNumber": "02.0302",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远空间",
+   "en": "space at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0399",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远点",
+   "en": "point at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0400",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远直线",
+   "en": "line at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0401",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远平面",
+   "en": "plane at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0402",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷远[虚]圆",
+   "en": "circle at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0404",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高等财经教育",
+   "en": "higher education infinance",
+   "source": "教育学名词",
+   "wordNumber": "08.009",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "由高等财经院校或系科为主实施的以传授财经学科知识，培养从事财经专业工作所需能力为主要内容的高等教育。"
+  },
+  {
+   "cn": "人力资源无限性",
+   "en": "infinity of human resources",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.033",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "每一代人所拥有的智力资源都是有限的，但人类一代又一代的延续过程是无限的。每一代人都把他们的知识和技术以及其他认识自然和社会的成果传授给下一代，每一代人都在前一代所达到的认识高度继续向前探索新的领域，而"
+  },
+  {
+   "cn": "无穷远[虚]圆点",
+   "en": "circular points at infinity",
+   "source": "数学名词",
+   "wordNumber": "08.0403",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无限",
+   "en": "infinite",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "观测对象的描述参量赋值没有边界，或参量赋值已经超过可观测的数量范围。人类具有不断把“有限”边界向其推动的观测能力。"
+  },
+  {
+   "cn": "无穷[的]",
+   "en": "infinite",
+   "source": "数学名词",
+   "wordNumber": "01.0128",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "亲和力",
+   "en": "affinity",
+   "source": "麻醉学名词",
+   "wordNumber": "02.098",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "药物与靶部位（受体或酶）的结合能力。药物与受体结合产生效应不仅要有亲和力，还要有内在活性。两药亲和力相等时其效应强度取决于内在活性强弱，当内在活性相等时则取决于亲和力的大小。"
+  },
+  {
+   "cn": "亲和力",
+   "en": "affinity",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.082",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "与靶部位（受体或酶）的结合能力。药物与受体结合产生效应不仅要有亲和力，还要有内在活性。两药亲和力相等时其效应强度取决于内在活性强弱，当内在活性相等时则取决于亲和力的大小。"
+  },
+  {
+   "cn": "亲和势",
+   "en": "affinity",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0221",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "反应的摩尔吉布斯自由能变化的负值。"
+  },
+  {
+   "cn": "亲和势",
+   "en": "affinity",
+   "source": "物理学名词",
+   "wordNumber": "05.1112",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "亲和势",
+   "en": "affinity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "亲和力",
+   "en": "affinity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "精神错乱",
+   "en": "insanity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亲和力",
+   "en": "affinity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "亲和力",
+   "en": "affinity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "亲和力",
+   "en": "affinity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "亲和力",
+   "en": "affinity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "亲和性",
+   "en": "affinity",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "①亲和性 ②亲和力",
+   "en": "affinity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "无限稀释",
+   "en": "infinite dilution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无限回流",
+   "en": "infinite reflux",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无限种群",
+   "en": "infinite population",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "无限群体",
+   "en": "infinite population",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无穷集",
+   "en": "infinite set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无穷目标",
+   "en": "infinite goal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无限网",
+   "en": "infinite net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亲和色谱［法］",
+   "en": "affinity chromatography",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "亲和超滤",
+   "en": "affinity ultrafiltration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "亲和膜",
+   "en": "affinity membrane",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "亲和沉淀",
+   "en": "affinity precipitation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无穷",
+   "en": "Limitlessness / Infinity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物质世界的无限性",
+   "en": "infinity of the material world",
+   "source": "马克思主义",
+   "wordNumber": "01.0029",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界在时间和空间上无始无终，无边无际，不可穷尽。整个物质世界是无限的，但具体事物及其发展过程却是有限的，物质世界的无限性存在于具体事物的有限性之中，无数的有限构成无限。"
+  },
+  {
+   "cn": "姻亲",
+   "en": "affinity",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.22",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "通过联姻建立的相对稳定的亲属关系及亲属性。反映了亲属制度及其亲属称谓中的横向关系，与表达纵向关系的“血亲”共同构成了亲属制度及其亲属称谓系统。"
+  },
+  {
+   "cn": "有限和无限",
+   "en": "finite and infinite",
+   "source": "马克思主义",
+   "wordNumber": "01.0045",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "有限是指客观事物及其运动在时间和空间上有始有终、有边际、可穷尽的属性；无限是指物质世界及其运动在时间和空间上无始无终、无边际、不可穷尽的属性。无限存在于有限之中，通过有限表现出自身的多样性；有限之中包"
+  },
+  {
+   "cn": "姻亲关系",
+   "en": "relationship by affinity",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.38",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "以婚姻关系为纽带的一种亲属关系。一般包括血亲的配偶、配偶的血亲、配偶的血亲的配偶等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

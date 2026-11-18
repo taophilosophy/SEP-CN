@@ -1,0 +1,632 @@
+{
+ "key": "conclusions drawn",
+ "term": "conclusions drawn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:34:08+00:00",
+ "status": "ok",
+ "note": "variant=conclusions drawn; 审定公布名词库=199; 海峡两岸名词对照库=57; 其他来源数据库=35; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "结论",
+   "en": "conclusion",
+   "source": "数学名词",
+   "wordNumber": "01.0010",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实验结论",
+   "en": "experimental conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.082",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "在整理、分析实验结果的基础上推导、总结出的某种假设或者推论。"
+  },
+  {
+   "cn": "设计总结",
+   "en": "design conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.131",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "工程设计结束后，设计人员对自身设计工作所做的总结。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "林学名词",
+   "wordNumber": "06.388",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "考虑了审核目的和所有审核发现后得出的审核结果。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0808",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "审核组考虑了审核目标和所有审核发现后得出的最终审核结果。"
+  },
+  {
+   "cn": "拉伸丝",
+   "en": "drawn yarn",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0067",
+   "subjectFullName": "化工（七）_合成纤维_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "对长丝进行拉伸、定型，获得一定取向和结晶的丝束。"
+  },
+  {
+   "cn": "冷拔钢丝",
+   "en": "cold drawn wire,hard drawn wire",
+   "source": "建筑学名词",
+   "wordNumber": "12.0209",
+   "subjectFullName": "建筑学_建筑材料及制品_材料制品",
+   "subjectName": "材料制品",
+   "publishYear": "2014",
+   "definition": "热轧盘条钢筋在常温下经冷拔减小直径、增加强度的钢丝。"
+  },
+  {
+   "cn": "冷拔钢丝",
+   "en": "cold-drawn wire",
+   "source": "冶金学名词",
+   "wordNumber": "09.0565",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "用冷拔方法生产的钢丝。此外还有用冷轧、温拔等方法生产者。"
+  },
+  {
+   "cn": "冷拉棒材",
+   "en": "cold-drawn bar",
+   "source": "冶金学名词",
+   "wordNumber": "09.0555",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "用冷拉制成的圆、方、六角等各种棒材。一般尺寸在3~80mm之间。"
+  },
+  {
+   "cn": "全拉伸丝",
+   "en": "fully drawn yarn",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0804",
+   "subjectFullName": "材料科学技术_高分子材料_纤维_其他纤维",
+   "subjectName": "其他纤维",
+   "publishYear": "2011",
+   "definition": "由纺丝纺拉伸一步法得到的高结晶度取向卷绕丝。"
+  },
+  {
+   "cn": "拉制玻璃光纤",
+   "en": "drawn glass fiber",
+   "source": "电气工程名词",
+   "wordNumber": "05.273",
+   "subjectFullName": "电气工程_电线、电缆及光缆",
+   "subjectName": "电线、电缆及光缆",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "冷拉率",
+   "en": "cold-drawn rate",
+   "source": "公路交通科技名词",
+   "wordNumber": "09.089",
+   "subjectFullName": "公路交通科学技术_材料与结构试验及设备",
+   "subjectName": "材料与结构试验及设备",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "冷拔钢丝",
+   "en": "cold-drawn wire",
+   "source": "公路交通科技名词",
+   "wordNumber": "08.131",
+   "subjectFullName": "公路交通科学技术_筑路用材料及性能",
+   "subjectName": "筑路用材料及性能",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "刻画符号",
+   "en": "carved or drawn marks",
+   "source": "档案学名词",
+   "wordNumber": "08.01.003",
+   "subjectFullName": "档案学_中国档案事业史_中国古代档案",
+   "subjectName": "中国古代档案",
+   "publishYear": "2024",
+   "definition": "原始社会时期遗留下来的主要刻画、描画在陶器上的几何形或像具体事物之形的符号。主要见于仰韶、马家窑、龙山、良渚和大汶口等文化遗址中，与原始汉字有一定关系。"
+  },
+  {
+   "cn": "胶片绘制动画",
+   "en": "drawn on film animation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.04.060",
+   "subjectFullName": "编辑与出版学_出版物_音像制品与电子出版物",
+   "subjectName": "音像制品与电子出版物",
+   "publishYear": "2022",
+   "definition": "在电影胶片上直接绘制制作而成的动画。"
+  },
+  {
+   "cn": "冷拔钢丝",
+   "en": "cold drawn steel wire",
+   "source": "土木工程名词",
+   "wordNumber": "01.169",
+   "subjectFullName": "土木工程_工程材料_配筋材料",
+   "subjectName": "配筋材料",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "钢丝冷拔试验",
+   "en": "wire cold-drawn test",
+   "source": "公路交通科技名词",
+   "wordNumber": "09.088",
+   "subjectFullName": "公路交通科学技术_材料与结构试验及设备",
+   "subjectName": "材料与结构试验及设备",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "冲压外圈滚针轴承",
+   "en": "drawn cup needle roller bearing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0670",
+   "subjectFullName": "机械工程（一）_机械零件_滚动轴承_各种滚动轴承",
+   "subjectName": "各种滚动轴承",
+   "publishYear": "2021",
+   "definition": "外圈由薄钢板精密冲压成形的向心滚针轴承，结构空间小，且具有较大负荷容量，可一端封口或两端开口。"
+  },
+  {
+   "cn": "放出体",
+   "en": "drawn-out body of ore",
+   "source": "冶金学名词",
+   "wordNumber": "02.0859",
+   "subjectFullName": "冶金学_采矿_地下采矿",
+   "subjectName": "地下采矿",
+   "publishYear": "2019",
+   "definition": "从放矿点放矿时，放出的矿石在采场崩落矿岩堆中原来所占据的空间形体，为一近似的旋转椭球体。"
+  },
+  {
+   "cn": "冷拉率控制张拉",
+   "en": "prestressing by cold-drawn rate",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.727",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "已开出汇票",
+   "en": "drawn bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "全拉伸丝",
+   "en": "fully drawn yarn",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "指定式汇票",
+   "en": "bill drawn to order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国外付款的汇票",
+   "en": "bill drawn for payment abroad",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "见票即付汇票",
+   "en": "bill drawn payable at sight",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无记名汇票",
+   "en": "bill drawn payable to bearer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "按规定日期付款的汇票",
+   "en": "bill drawn payable at fixed date",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信用证汇票",
+   "en": "bill drawn on a letter of credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "按跟单信用证所开的汇票",
+   "en": "bill of exchange drawn under a documentary credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出票后若干日付款的汇票",
+   "en": "bill drawn payable at certain time after date",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "见票后若干日付款的汇票",
+   "en": "bill drawn payable at certain time after sight",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "排水道",
+   "en": "drain",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "排放口",
+   "en": "drain",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "疏水",
+   "en": "drain",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非金属夹杂",
+   "en": "non-metallic inclusions",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "放泄阀",
+   "en": "drain valve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "排泄泵",
+   "en": "drain pump",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "排泄管",
+   "en": "drain pipe",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "排泄阱",
+   "en": "drain trap",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "小收煞",
+   "en": "Midpoint Conclusion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不分胜负的比赛",
+   "en": "drawn match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平分",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "按桨",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉弓",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw\",\"draw of lots",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平局",
+   "en": "draw\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw\",\"toss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离岗时检查结论",
+   "en": "examination conclusion when leaving the post",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.23",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据离岗时职业健康检查结果，对受检者提出的意见：包括可以离岗或转相关医疗机构进一步检查。"
+  },
+  {
+   "cn": "绘人测验",
+   "en": "Draw-a-Man test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.29.6",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童发育和智能的筛查性工具之一。由美国心理学家古迪纳夫(F.Goodenough)于1926年首次提出的反映儿童的空间构想、人面记忆提取和手眼协调等方面功能的他评测验。适用于5～12岁儿童。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

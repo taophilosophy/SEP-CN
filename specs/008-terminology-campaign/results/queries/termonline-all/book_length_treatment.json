@@ -1,0 +1,742 @@
+{
+ "key": "book-length treatment",
+ "term": "book-length treatment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:49:27+00:00",
+ "status": "ok",
+ "note": "variant=book-length treatment; 审定公布名词库=1896; 海峡两岸名词对照库=485; 其他来源数据库=81; 预公布名词数据库=110; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "图书",
+   "en": "book",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.001",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "用文字或图画、符号等记录知识于纸张等载体，并具有相当篇幅的非连续出版物。"
+  },
+  {
+   "cn": "图书",
+   "en": "book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "用文字、图画或其他信息符号，手写或印刷于纸张等载体上，具有相当篇幅，用来表达思想并制成卷册的著作物。"
+  },
+  {
+   "cn": "图书",
+   "en": "book",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0382",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "由出版社(商)出版的不包括封面和封底在内49页以上的印刷品，具有特定的书名和著者名，编有国际标准书号，有定价并取得版权保护的出版物。"
+  },
+  {
+   "cn": "旧书",
+   "en": "(1)worn book (2)ancient book (3)secondhand book,used book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.063",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "（1）外观上破旧的书。（2）出版年代久远的书，尤其指线装书。（3）已使用过的二手书。"
+  },
+  {
+   "cn": "图书评介",
+   "en": "book review,book report,book appraisal",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.228",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_其他服务形式",
+   "subjectName": "其他服务形式",
+   "publishYear": "2019",
+   "definition": "对图书的内容、特点等进行介绍、分析、评论的行为。  "
+  },
+  {
+   "cn": "禁书",
+   "en": "prohibited book,banned book,suppressed book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.064",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "被教会、当局或非官方的团体组织禁止出版或者销售的图书。其内容被认为具有反抗性或威胁性。"
+  },
+  {
+   "cn": "长度",
+   "en": "length",
+   "source": "物理学名词",
+   "wordNumber": "01.0041",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "长度",
+   "en": "length",
+   "source": "数学名词",
+   "wordNumber": "08.0020",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "图书典藏",
+   "en": "book reservation,book collection",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆对其藏书定期或不定期进行的有计划的整顿工作。包括藏书的剔除、清点、调拨、交换、赠送和集中保存等。"
+  },
+  {
+   "cn": "书架",
+   "en": "book stack,book shelf",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.237",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书馆建筑与设施",
+   "subjectName": "图书馆建筑与设施",
+   "publishYear": "2019",
+   "definition": "图书馆内排列、存放藏书的基本设备。多选用钢、木材单独制成或耐用钢材外镶嵌装饰木板混合制成，也有的用钢筋混凝土制成。根据宽度、高度和是否可移动而分为多种，包括单面书架、双面书架、密集书架、积层书架等。"
+  },
+  {
+   "cn": "书车",
+   "en": "book truck,book cart",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.268",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书馆建筑与设施",
+   "subjectName": "图书馆建筑与设施",
+   "publishYear": "2019",
+   "definition": "图书馆内用于水平方向运送图书的工具。一般有两层或三层书架，下面带有转动灵活的小车轮。"
+  },
+  {
+   "cn": "财产登记簿",
+   "en": "stock book,accounting book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.414",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "图书馆按入藏顺序逐种或逐册（件）登录入藏文献的记录册。通过总括登记号码与总括登记簿相关联。财产登记簿是图书馆的财产账，是保证图书财产完整和检查每册书的入藏历史的重要依据。"
+  },
+  {
+   "cn": "图书运送升降机",
+   "en": "book hoist,book lift",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.290",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书馆建筑与设施",
+   "subjectName": "图书馆建筑与设施",
+   "publishYear": "2019",
+   "definition": "图书馆里将图书从一层楼或书库运到另一层楼或书库，或从书库运到借书处的一种专门的机械装置。"
+  },
+  {
+   "cn": "电子图书",
+   "en": "electronic book,e-book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.605",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_数字资源建设",
+   "subjectName": "数字资源建设",
+   "publishYear": "2019",
+   "definition": "以数字形式制作、出版、存取和使用的图书。一般以磁性或电子载体为存储载体，并借助一定的阅读软件和设备读取。"
+  },
+  {
+   "cn": "数字化图书",
+   "en": "digital book,e-book",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0471",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "用二进制数字记录图书内容的各种载体。"
+  },
+  {
+   "cn": "书市",
+   "en": "book bazaar;book fair",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.128",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "由众多出版、发行单位参加的，集中展示、销售出版物的活动。"
+  },
+  {
+   "cn": "电子书",
+   "en": "electronic book;e book",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.13",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "①将文字、图片、声音、影像等信息以数字化形式存储与传播的出版物，借助计算机或其他电子设备进行生产、出版与阅读。它由三种要素构成：电子书的内容；电子书的阅读终端，如Kindle等采用电子墨水技术的阅读器"
+  },
+  {
+   "cn": "新书",
+   "en": "new book;fresh book",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.032",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "出版单位新近出版的图书。"
+  },
+  {
+   "cn": "誊录簿",
+   "en": "transcribed book",
+   "source": "档案学名词",
+   "wordNumber": "09.01.011",
+   "subjectFullName": "档案学_外国档案事业史_外国档案名称与种类",
+   "subjectName": "外国档案名称与种类",
+   "publishYear": "2024",
+   "definition": "古代一种文书处理形式。用誊写或摘要方式登记文件或账目的簿册。起源于罗马共和国末期，元老院凡通过的法律和决议，必须誊写在誊录簿上才能生效。到中世纪，成为文书处理中最流行的形式，由此发展为各种式样的誊录簿"
+  },
+  {
+   "cn": "末日审判书",
+   "en": "Domesday Book",
+   "source": "档案学名词",
+   "wordNumber": "09.01.015",
+   "subjectFullName": "档案学_外国档案事业史_外国档案名称与种类",
+   "subjectName": "外国档案名称与种类",
+   "publishYear": "2024",
+   "definition": "英国一种古代档案。是英王威廉(征服者）于1086年下令对被他征服的英格兰进行土地普查时编制的清册。调查时因该清册将一部分自由民降为农奴，居民受到威逼，感到惊恐，认为该清册犹如教会所描写的上帝对死者的“"
+  },
+  {
+   "cn": "昼长处理",
+   "en": "day length treatment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "昼长处理",
+   "en": "day-length treatment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "订舱",
+   "en": "booking",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "船长",
+   "en": "length",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "车钟记录簿",
+   "en": "telegraph book\",\"bell book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "账面价值",
+   "en": "book value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "马利纳曲集",
+   "en": "Mulliner Book",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mulliner, Thomas "
+  },
+  {
+   "cn": "结账",
+   "en": "closing book",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "决算",
+   "en": "closing book",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品销售账",
+   "en": "merchandise book",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "测深手簿",
+   "en": "sounding book",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "手簿",
+   "en": "record book",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "外业手簿",
+   "en": "field book",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "橘皮书",
+   "en": "orange book",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "书肺",
+   "en": "book-lung",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "舱位登记簿",
+   "en": "space book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航海日志",
+   "en": "log book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "指南",
+   "en": "guide book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "成批预订",
+   "en": "block booking",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "足长",
+   "en": "foot length",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "艇长",
+   "en": "length",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长度",
+   "en": "length",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长度",
+   "en": "length",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长度",
+   "en": "length",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艇长",
+   "en": "length",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船身长度",
+   "en": "boat length\",\"length",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四书",
+   "en": "Four Books",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "趟",
+   "en": "lap\",\"length",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "趟",
+   "en": "lap\",\"length",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉距",
+   "en": "draw length",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游泳距离",
+   "en": "swim length",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulation\",\"rule-book\",\"rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "市净率",
+   "en": "Price-to-Book Ratio",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身长",
+   "en": "length",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "仰卧位测量得到的头、脊柱和下肢的总长度，一般用于３岁以下儿童。"
+  },
+  {
+   "cn": "书本上的法",
+   "en": "law in book",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.15",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "国家制定或认可的、以成文形式出现但未必被人们实际遵循的规范。与行动中的法相对应。"
+  },
+  {
+   "cn": "反对本本主义",
+   "en": "oppose book worship",
+   "source": "马克思主义",
+   "wordNumber": "03.0346",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "本本主义与教条主义同义,是主观主义的一种表现形式。主要特点是一切从书本出发，死记硬背，生搬硬套，不从实际出发，拒绝对具体情况做具体的分析。1930年5月，毛泽东为了反对当时红军中存在的本本主义，专门了"
+  },
+  {
+   "cn": "顶臀长",
+   "en": "crown-rump length",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童仰卧位时头顶部最高点至臀部最低点的长度，主要反映脊柱的生长。"
+  },
+  {
+   "cn": "《苗防备览》",
+   "en": "A Book about Miao",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0306",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清代后期关于湖南西部和贵州东北部苗族地区地理、政治、经济、风习等方面之综合性著作。作者严如煜（1759—1826），曾任晚清湖南巡抚姜晟幕僚。全书共22 卷，14 门，内容丰富详赡。"
+  },
+  {
+   "cn": "剂量长度乘积",
+   "en": "dose-length product，DLP",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.68",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "容积CT剂量指数与沿人体长轴的扫描长度的乘积。"
+  },
+  {
+   "cn": "消毒产品说明书",
+   "en": "instruction book of disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.4",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "应用文字、数字、符号、图案、表格等方式，对某一消毒产品性能、使用范围、使用方法、注意事项等内容进行具体介绍的文件。"
+  },
+  {
+   "cn": "《蛮书》",
+   "en": "Book on the southwest outlyingdistrict",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0266",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "唐人樊绰撰，记载南诏史事。共十卷。对今云南地区之自然地理、城镇、交通、里程、物产，特别是对南诏历史、政治、经济、军事、各民族的生活习俗、山川、交通城镇及境外诸国，均有系统阐述。"
+  },
+  {
+   "cn": "脱脂处理",
+   "en": "degreasing treatment",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.15",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "去除载体（滤纸片除外）上脂类物质以便指示菌均匀分布的处理方法。即将制备菌片所用载体于染菌前，放在含洗涤剂的水中煮沸 30 分钟，以自来水洗净，再用蒸馏水煮沸 10分钟，用蒸馏水漂洗至 pH值呈中性、晾"
+  },
+  {
+   "cn": "焚烧处理",
+   "en": "incineration treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "废物在高温条件下发生热分解、燃烧等反应，实现无害化和减量化的过程。"
+  },
+  {
+   "cn": "微波处理",
+   "en": "microwave treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "利用微波或微波与高温蒸汽组合作用杀灭医疗废物中病原微生物，使其消除潜在的感染性危害的处理方法。"
+  },
+  {
+   "cn": "化学法处理",
+   "en": "chemical treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2.4",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "采用化学消毒剂杀灭医疗废物中的病原微生物，消除其潜在的感染性危害的处理方法。"
+  },
+  {
+   "cn": "样品处理",
+   "en": "samples treatment",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "对采集的样品或分析对象根据其性质，工作目的和分析方法进行不同预处理的操作过程。通过处理可使样品的状态符合所选择的分析技术并达到试验用样要求。"
+  },
+  {
+   "cn": "治疗处方",
+   "en": "treatment prescription",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "临床医生对放射治疗中患者的治疗范围和剂量分布的定量要求，如照射部位或体积、照射总剂量、分次剂量、分次数、危及器官限量等。"
+  },
+  {
+   "cn": "治疗参数",
+   "en": "treatment parameter",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.10",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗中，表征患者所受辐射照射的要素。如：辐射能量、吸收剂量、治疗时间等。"
+  },
+  {
+   "cn": "治疗验证",
+   "en": "treatment verification",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在治疗前或治疗中，通过各种手段（体模测量、治疗日志分析等）验证患者治疗准确性的过程。"
+  },
+  {
+   "cn": "介入",
+   "en": "intervention，treatment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者和服务对象采取实际行动，按照服务协议落实社会工作计划的目标，解决预估中确认的问题，帮助服务对象改变，从而实现助人计划的环节。"
+  },
+  {
+   "cn": "不公正对待",
+   "en": "unfair treatment",
+   "source": "马克思主义",
+   "wordNumber": "05.0108",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "罗默在采用资产阶级新古典经济学的分析方法，对马克思剥削理论的“资本主义制度的不公正”中的“剥削”“阶级”等理论重新解释，由此得出社会不公正的根源是生产资料的初始分配的不公正和生产方式的差异性的思想。"
+  },
+  {
+   "cn": "一般治疗",
+   "en": "general treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "传染病和其他各种疾病所必需的基础治疗。包括隔离、消毒、护理和心理治疗。"
+  },
+  {
+   "cn": "支持治疗",
+   "en": "supportive treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.2",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "根据各种疾病的不同阶段而采取的合理饮食，补充营养，维持水、电解质和酸碱平衡，增强患者体质和免疫功能的各项措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

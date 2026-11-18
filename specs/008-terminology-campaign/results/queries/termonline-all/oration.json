@@ -1,0 +1,762 @@
+{
+ "key": "oration",
+ "term": "Oration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:47:04+00:00",
+ "status": "ok",
+ "note": "variant=Oration; 审定公布名词库=3037; 海峡两岸名词对照库=643; 其他来源数据库=64; 预公布名词数据库=120; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "凹凸板式蒸发器",
+   "en": "embossed plate evap_x001F_orator",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0448",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "将板压成凹凸对应的形状，焊在一起形成制冷剂通道的一种蒸发器。"
+  },
+  {
+   "cn": "羟联",
+   "en": "olation",
+   "source": "化学名词",
+   "wordNumber": "01.0480",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "羟基的氧原子与两个或两个以上的中心原子相连接。"
+  },
+  {
+   "cn": "日粮",
+   "en": "ration",
+   "source": "水产名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "水产_饲料和肥料",
+   "subjectName": "饲料和肥料",
+   "publishYear": "2002",
+   "definition": "一只饲养动物一昼夜采食的、能满足其营养需要的饲料量。"
+  },
+  {
+   "cn": "日粮",
+   "en": "ration",
+   "source": "水产名词",
+   "wordNumber": "12.005",
+   "subjectFullName": "水产_水产饲料与肥料",
+   "subjectName": "水产饲料与肥料",
+   "publishYear": "2002",
+   "definition": "一只饲养动物一昼夜采食的、能满足其营养需要的饲料量。"
+  },
+  {
+   "cn": "手术",
+   "en": "operation",
+   "source": "普通外科学名词",
+   "wordNumber": "13.001",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "医疗机构及其医务人员以诊断或治疗疾病为目的，在人体局部开展去除病变组织、修复损伤、重建形态或功能、移植细胞组织或器官、植入医疗器械等医学操作的医疗技术。"
+  },
+  {
+   "cn": "建造",
+   "en": "formation",
+   "source": "地质学名词",
+   "wordNumber": "10.01.117",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在空间上和时间上有密切成因联系的岩石自然共生组合。按组成建造的岩石性质，可分为沉积建造、岩浆建造、变质建造等。在不同的地壳构造单元有不同的建造形成。因而研究建造对研究地壳的形成和演化有重要意义。在地质"
+  },
+  {
+   "cn": "组",
+   "en": "formation",
+   "source": "地质学名词",
+   "wordNumber": "07.01.101",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "比“群” 低一级的正式岩石地层单位。是岩石地层单位系统的基本单位，具有岩性、岩相和变质程度的一致性。用地名加“组”来命名。"
+  },
+  {
+   "cn": "转动",
+   "en": "rotation",
+   "source": "地质学名词",
+   "wordNumber": "09.02.093",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "运动的物体在不改变形状和体积前提下围绕某一轴的转动位移。运动物体上，除转动轴上各点外，其他各点都绕同一转动轴线作半径不同的圆周运动。"
+  },
+  {
+   "cn": "音长",
+   "en": "duration",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.48.4",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "发某个音段或语音成分所用的时间。由声波持续的时间长短确定，以秒或毫秒为单位。"
+  },
+  {
+   "cn": "选址",
+   "en": "location",
+   "source": "风景园林名词",
+   "wordNumber": "07.0073",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "建筑物或建筑群的建造地点的选择。景观环境中的选址既要考虑与地形地貌相结合，也要考虑人文背景，应通过对环境影响综合评估进行判断。"
+  },
+  {
+   "cn": "绵延",
+   "en": "duration",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.050",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "内心深处连续变化、没有确定流向的心理流。这种心理流与时间、意识、生命、实践和上帝永恒有关，具有连续性、时间性、异质性、简单性、众多性、潜在性等特征。代表人物是奥古斯丁、托马斯·阿奎那、牛顿和柏格森。"
+  },
+  {
+   "cn": "自转",
+   "en": "rotation",
+   "source": "天文学名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "天体或天体系统绕质心的定点旋转。"
+  },
+  {
+   "cn": "创造",
+   "en": "creation",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.003",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人们为实现某种目的并使用某种手段而把以前没有的事物创立或者制造出来的过程及其结果。具体包括发明、创建和创作等活动。"
+  },
+  {
+   "cn": "[信号]持续时间",
+   "en": "duration",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.184",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "多导睡眠监测中一些生物信号以连续变化的波形表现，其中一个完整周期持续的时间。测量一个波谷至下一个波谷的时间。单位为秒（s）。"
+  },
+  {
+   "cn": "创作",
+   "en": "creation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.01.016",
+   "subjectFullName": "编辑与出版学_著作权_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "直接产生文学、艺术和科学作品的智力活动。"
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "行为医学名词",
+   "wordNumber": "2.095",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "按照一定的程序和技术要求进行的行为活动。"
+  },
+  {
+   "cn": "轮作",
+   "en": "rotation ",
+   "source": "草学名词",
+   "wordNumber": "6.0031",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "充气",
+   "en": "aeration",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0744",
+   "subjectFullName": "机械工程（一）_传动_液压传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "向液压元件如蓄能器中充入压缩气体的过程。"
+  },
+  {
+   "cn": "工序",
+   "en": "operation",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "01.011",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "工件在一个工位上被加工或装配所连续完成的所有工步的一部分工艺过程。"
+  },
+  {
+   "cn": "松砂",
+   "en": "aeration",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.125",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_造型材料",
+   "subjectName": "造型材料",
+   "publishYear": "2021",
+   "definition": "使型砂松散和降低型砂容积密度的过程。"
+  },
+  {
+   "cn": "羟联",
+   "en": "olation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "ration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "群系",
+   "en": "formation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "突起",
+   "en": "enation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续时间",
+   "en": "duration",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风蚀[作用]",
+   "en": "eolation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "旋转，回转",
+   "en": "rotation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自转",
+   "en": "rotation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "充气",
+   "en": "aeration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "曝气",
+   "en": "aeration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸着",
+   "en": "sorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分率",
+   "en": "fraction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶胶化",
+   "en": "solation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分数",
+   "en": "fraction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记号",
+   "en": "notation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "吸着",
+   "en": "sorption",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "通气",
+   "en": "aeration",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "编排",
+   "en": "formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站位",
+   "en": "formation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转换位",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "twist\",\"rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据监护",
+   "en": "data curation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无边界经营",
+   "en": "borderless operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值创造",
+   "en": "value creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运营优化",
+   "en": "operation optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用创造",
+   "en": "credit creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器创作",
+   "en": "machine creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协作操作",
+   "en": "collaborative operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“清乡”",
+   "en": "“pacification” operation",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "旋转投掷",
+   "en": "throwing rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运动持续时间",
+   "en": "duration",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "每次运动所持续的时间。即达到运动处方所要求强度的持续时间。"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.8",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "被认知为由共同历史、文化和共同祖先所连结起来的共同体。"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "马克思主义",
+   "wordNumber": "03.0115",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人类社会发展的一定历史阶段形成的社会共同体之一。它是在共同语言、共同地域、共同经济生活、共同文化上的共同心理素质的稳定的共同体，是人类进入阶级社会的产物。在人类社会发展到共产主义后，各民族将融为一体"
+  },
+  {
+   "cn": "奥兰人",
+   "en": "Oraon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0021",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "南亚民族之一。人口超过500 万（2016）。现主要聚集在印度，在尼泊尔、不丹和孟加拉国都有分布。属蒙古人种南亚类型。使用孟加拉语，属于印欧语系伊朗语族。生产方式以农业为主，同时也作为雇佣劳工和工人工"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "无菌操作",
+   "en": "sterile operation",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.4",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "杜绝微生物污染特定环境或物品的操作过程。"
+  },
+  {
+   "cn": "存活分数",
+   "en": "survival fraction",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "某一剂量照射后存活的细胞数占未照射时细胞数的份额。"
+  },
+  {
+   "cn": "吸收分数",
+   "en": "absorbed fraction",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.6.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学",
+   "subjectName": "放射毒理学",
+   "publishYear": "2025",
+   "definition": "在某一源部位内某种辐射类型发射的能量被特定靶组织吸收的分数。"
+  },
+  {
+   "cn": "滞留份额",
+   "en": "retention fraction",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.36",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在组织或器官内滞留量占了该放射性核素初始进入量的份额。"
+  },
+  {
+   "cn": "排除份额",
+   "en": "excretion fraction",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.44",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便等排泄途径的排出量占初始进入量的比例。"
+  },
+  {
+   "cn": "社会形态",
+   "en": "social formation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "一定历史发展阶段上以一定的生产关系为基础的经济基础和上层建筑的统一体。一定社会经济结构、政治结构和文化结构的具体的历史的统一。马克思主义特有的范畴。"
+  },
+  {
+   "cn": "印象形成",
+   "en": "impression formation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "通过对自身所掌握的各种信息进行加工、整理从而形成对他人印象的过程。"
+  },
+  {
+   "cn": "态度形成",
+   "en": "attitude formation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "人对某些事物从不曾有态度到出现某种态度的过程。通常包括了顺从、认同和内化3个阶段。并非所有人对所有事的态度都完成这一全部过程，有人对某一事物的态度可能完成了整个过程，但对另一些事物的态度则可能停留在服"
+  },
+  {
+   "cn": "公益捐赠",
+   "en": "charity donation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.29",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "自然人、法人或其他组织基于自愿原则，为支持社会公益事业而将自己有权处分的合法财产向相应的社会组织进行捐赠的活动。"
+  },
+  {
+   "cn": "社会形态",
+   "en": "social formation",
+   "source": "马克思主义",
+   "wordNumber": "03.0004",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“社会经济形态”。历史唯物主义用以标志社会具体的历史的存在形式的范畴，是人类社会一定历史阶段上的经济、政治、文化等制度的总和，或社会的经济基础与上层建筑的具体的历史的统一，包括社会的经济形态、政治"
+  },
+  {
+   "cn": "睡眠时间",
+   "en": "sleep duration",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "实际入睡的总时间。正常情况下，因人、年龄和生活环境而异。"
+  },
+  {
+   "cn": "配子赠送",
+   "en": "gamete donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "自愿捐赠精子或者卵子的做法。我国相关法规规定，禁止以任何形式买卖精子、卵子和胚胎，严格禁止各种代孕行为。"
+  },
+  {
+   "cn": "卵子赠送",
+   "en": "oocyte donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "育龄妇女将卵子赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "精子赠送",
+   "en": "sperm donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "由人类精子库采集健康志愿供精者的精液，冻存并通过检疫后提供给男方患不可逆无精子症或有严重遗传疾病的不孕夫妇，以达到治疗不孕或优生的目的的做法。"
+  },
+  {
+   "cn": "胚胎赠送",
+   "en": "embryo donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "接受体外受精胚胎移植技术助孕的夫妇将胚胎赠与不育夫妇的做法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

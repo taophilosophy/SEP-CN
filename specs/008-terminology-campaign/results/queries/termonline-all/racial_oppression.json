@@ -1,0 +1,712 @@
+{
+ "key": "racial oppression",
+ "term": "racial oppression",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:35:49+00:00",
+ "status": "ok",
+ "note": "variant=racial oppression; 审定公布名词库=3541; 海峡两岸名词对照库=1025; 其他来源数据库=142; 预公布名词数据库=526; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "种族优越感",
+   "en": "racial superiority",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0311",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_跨文化组织行为",
+   "subjectName": "跨文化组织行为",
+   "publishYear": "2016",
+   "definition": "认为自己民族的文化价值体系优于其他民族的文化价值体系的知觉。"
+  },
+  {
+   "cn": "人种地理学",
+   "en": "racial geography",
+   "source": "地理学名词",
+   "wordNumber": "17.032",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "研究以人类遗传特征为基准而划分的人种的地理分布的学科。"
+  },
+  {
+   "cn": "种族隔离制度",
+   "en": "System of Racial Segregation",
+   "source": "世界历史名词",
+   "wordNumber": "01.0655",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "南非白人种族统治集团压迫、歧视非白人族群的法规政策。始于1913年的“原住民土地法”，1948年以法律方式执行。在国际舆论和制裁的压力下，1994年废止。"
+  },
+  {
+   "cn": "种族平等大会",
+   "en": "Congress of Racial Equality",
+   "source": "世界历史名词",
+   "wordNumber": "03.0217",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1942年成立的主张通过非暴力直接行动来解决种族和工业冲突的民间组织。"
+  },
+  {
+   "cn": "心下痞",
+   "en": "epigastric oppression",
+   "source": "中医药学名词",
+   "wordNumber": "04.375",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "自觉心下胃脘部满闷堵塞，按之却柔软不痛的表现。"
+  },
+  {
+   "cn": "压迫性溃疡",
+   "en": "oppressive ulcer",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "01.066",
+   "subjectFullName": "中医药学_外科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "压迫所致的溃疡，呈浅盘状，初期皮肤暗紫，逐渐变黑并坏死，滋水、液化、腐烂，脓液有臭味，可深及筋膜、肌肉、骨膜的表现。"
+  },
+  {
+   "cn": "会阴尿道压迫避孕法",
+   "en": "urethro-perineal oppression",
+   "source": "计划生育名词",
+   "wordNumber": "03.073",
+   "subjectFullName": "计划生育_计划生育临床_避孕方法",
+   "subjectName": "避孕方法",
+   "publishYear": "2019",
+   "definition": "性交中，男性有射精感时，用示指、中指从阴囊和肛门间向耻骨方向紧压，使精液逆行射入膀胱；然后再放松，同时将阴茎撤出。"
+  },
+  {
+   "cn": "胸闷",
+   "en": "oppression in chest",
+   "source": "中医药学名词",
+   "wordNumber": "04.366",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "自觉胸中堵塞不畅、满闷不舒的表现。"
+  },
+  {
+   "cn": "消痞化积",
+   "en": "relieving oppression and masses",
+   "source": "中医药学名词",
+   "wordNumber": "05.270",
+   "subjectFullName": "中医药学_治疗学_内治法",
+   "subjectName": "内治法",
+   "publishYear": "2004",
+   "definition": "用具有行气化滞、消除痞胀作用的方药，治疗食积气滞证的治法。"
+  },
+  {
+   "cn": "面部表情",
+   "en": "facial expression",
+   "source": "行为医学名词",
+   "wordNumber": "4.077",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "由面部（眼部、颜面、口部）皮肤、肌肉和腺体分泌变化所组成的复合模式。"
+  },
+  {
+   "cn": "面部表情",
+   "en": "facial expression",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.129",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "由人面部的一个或多个肌肉的运动所形成的动作或状态。非语言交际的一种形式。情感情绪变化在面部可观察到的表现。这些运动表达个体对观察者的情绪状态是表达人类之间的社会信息的主要手段，也发生在大多数其他哺乳动"
+  },
+  {
+   "cn": "面部表情",
+   "en": "facial expression",
+   "source": "心理学名词",
+   "wordNumber": "02.724",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "面部皮肤、肌肉和腺体分泌变化所组成的复合模式。"
+  },
+  {
+   "cn": "面部沟通",
+   "en": "communication with facial expression",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.028",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "一种反应在人的面部肌肉上，如眉毛、眼睛、眼睑、鼻根、面颊、嘴、颏等部位的情绪符号或表情讯息的直接显示。"
+  },
+  {
+   "cn": "轴压试验",
+   "en": "axial compression test",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.098",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "轴压比",
+   "en": "axial compression ratio",
+   "source": "土木工程名词",
+   "wordNumber": "16.068",
+   "subjectFullName": "土木工程_地震工程与防震工程",
+   "subjectName": "地震工程与防震工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "轴径向反应器",
+   "en": "axial-radial reactor",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.116",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "引导部分流体以轴径向二维流动的方式通过径向床顶部的催化剂自封区域，充分利用该区域催化剂，而在床层其余区域保持径向流动的固定床反应器。"
+  },
+  {
+   "cn": "三轴压缩试验",
+   "en": "three-axial compression test",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "桡神经卡压综合征",
+   "en": "radial nerve compression syndrome;radial nerve entrapment syndrome",
+   "source": "神经外科学名词",
+   "wordNumber": "15.034",
+   "subjectFullName": "医学_神经外科学_周围神经肿瘤_周围神经系统结构及其他疾病",
+   "subjectName": "周围神经系统结构及其他疾病",
+   "publishYear": "2026",
+   "definition": "桡动脉在走行过程中，由于局部解剖因素或外在因素的影响，在由骨骼、肌肉、筋膜、韧带等组织组成的骨纤维管道或间隙中受到牵拉与压迫，出现受压神经支配区功能损失的综合征。"
+  },
+  {
+   "cn": "混流式水轮机",
+   "en": "radial-axial flow hydroturbine",
+   "source": "电力名词",
+   "wordNumber": "16.009",
+   "subjectFullName": "电力_水电站机电设备",
+   "subjectName": "水电站机电设备",
+   "publishYear": "2020",
+   "definition": "轴面水流从径向流入转轮,在转轮中改变方向后从轴向流出的水轮机。"
+  },
+  {
+   "cn": "坳陷",
+   "en": "depression",
+   "source": "地质学名词",
+   "wordNumber": "10.01.124",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地壳上各种不同成因的下沉构造单元。包括盆地、坳槽等。"
+  },
+  {
+   "cn": "人种地理学",
+   "en": "racial geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "种族迫害",
+   "en": "racial persecutions",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "面部表情",
+   "en": "facial expression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辐板",
+   "en": "radial plate\",\"radiale",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "光纤轴向压缩",
+   "en": "fiber axial compression",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "压型化石",
+   "en": "compression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "印痕化石",
+   "en": "impression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "压榨",
+   "en": "expression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压缩",
+   "en": "compression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压抑",
+   "en": "repression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抑郁",
+   "en": "depression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "压制",
+   "en": "suppression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "洼地",
+   "en": "depression",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "填洼",
+   "en": "depression",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "洼地",
+   "en": "depression",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻抑",
+   "en": "suppression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达式",
+   "en": "expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "胸闷",
+   "en": "chest distress; chest oppression",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "踏板足印",
+   "en": "impression\",\"mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据压缩",
+   "en": "data compression",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总印象",
+   "en": "general impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艺术印象分",
+   "en": "artistic impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正面",
+   "en": "facial\",\"front",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正立",
+   "en": "facial stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激光镭迪尔级",
+   "en": "Laser Radial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人像识别技术",
+   "en": "facial recognition technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "种族性遗传影响",
+   "en": "racial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "共同血缘和一些可稳定遗传的体质特征在上下代之间的传递过程。"
+  },
+  {
+   "cn": "青春期发育种族影响",
+   "en": "racial influence on puberty",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "不同种族在青春期体格和性发育等方面存在明显差异的现象。"
+  },
+  {
+   "cn": "被压迫阶级",
+   "en": "oppressed class",
+   "source": "马克思主义",
+   "wordNumber": "03.0038",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中在政治上处于被支配地位的阶级。如奴隶社会的奴隶阶级、封建社会的农民阶级和资本主义社会的无产阶级，由于经济上处于被剥削的地位，而在政治上也处于被压迫的地位。"
+  },
+  {
+   "cn": "体格发育种族影响",
+   "en": "racial influence on physical development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "体格生长存在明显种族差异的现象。不同种族身高、坐高、下肢长等体格发育指标存在显著差异。"
+  },
+  {
+   "cn": "体型发育种族影响",
+   "en": "racial influence on body type development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "不同种族存在鲜明外形特征差异的现象。"
+  },
+  {
+   "cn": "非剥削性的经济压迫",
+   "en": "non exploitative economic oppression",
+   "source": "马克思主义",
+   "wordNumber": "05.0110",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "赖特（Eric Olin Wright）认为，剥削有三个前提条件：第一，反向的相互依赖原则。第二，排除性原则。第三，占有原则。赖特认为如果只满足三个条件中的前两个条件，就是非剥削性经济压迫。在非剥削性"
+  },
+  {
+   "cn": "抑郁",
+   "en": "depression",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "负性情感的增强的情绪状态。患者表现为情绪低落，忧心忡忡，愁眉不展，唉声叹气。严重者忧郁沮丧，外界的一切均引不起兴趣、悲观失望，感到自己一无是处，毫无生趣，度日如年。"
+  },
+  {
+   "cn": "萧条",
+   "en": "depression",
+   "source": "马克思主义",
+   "wordNumber": "02.0294",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "经济周期中危机之后的一个阶段，特征为社会生产不再继续下降，工厂、银行不再继续倒闭而呈停滞状态。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "印象形成",
+   "en": "impression formation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "通过对自身所掌握的各种信息进行加工、整理从而形成对他人印象的过程。"
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "人们在初次交往时所形成对彼此的最初印象。这种最初印象并非总是正确，但却总是最鲜明、最牢固的，并且在很大程度上影响着双方后续的交往。"
+  },
+  {
+   "cn": "印象管理",
+   "en": "impression management",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "个体通过一定的方式影响别人形成的对自己的印象的过程，是自我调节的一个重要方面。其中隐含了一种基本动机，即人们渴望被别人积极看待，避免被别人消极看待。"
+  },
+  {
+   "cn": "免疫抑制",
+   "en": "immune suppression",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.7.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫调节",
+   "subjectName": "免疫调节",
+   "publishYear": "2025",
+   "definition": "体内外因素所致免疫系统功能降低或消失的现象。"
+  },
+  {
+   "cn": "压缩性骨折",
+   "en": "compression fracture",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.1.11",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_骨及关节疾病",
+   "subjectName": "骨及关节疾病",
+   "publishYear": "2025",
+   "definition": "多由垂直压缩的间接暴力所致，骨松质因压缩而变形的骨折。常发生在下胸椎、上腰椎，椎体呈楔状。"
+  },
+  {
+   "cn": "抑郁障碍",
+   "en": "depression disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以显著、持久的弥散性情绪低落为显著特征的心理障碍。可分为破坏性心境失调障碍、持续性抑郁障碍等类型等；其中，破坏性心境失调障碍常见于儿童少年。"
+  },
+  {
+   "cn": "心理卫生问题筛查",
+   "en": "depression screening",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "通过标准化的量表，早期发现少数有心理问题或心理障碍的学生的过程。旨在对被筛查出的学生给予科学有效的心理咨询和辅导，及时转介干预，使他们尽快摆脱障碍，调控自我，提高其心理健康水平。"
+  },
+  {
+   "cn": "产后抑郁",
+   "en": "postpartum depression, PPD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "产后出现的，以抑郁为主的短暂情感紊乱。表现为从短暂的心境低落到伴有焦虑和恐惧的严重抑郁，伴有对婴儿及其父亲的漠不关心、敌意及睡眠紊乱等。"
+  },
+  {
+   "cn": "时空压缩",
+   "en": "time-space compression",
+   "source": "社会学名词",
+   "wordNumber": "2.9.9.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_全球化",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "因现代科技的进步以及资本积累追求减少周转时间和以时间消灭空间的历史发展。使得时间越来越具有加速的特征，空间上的各种障碍被克服，从而给人们带来的一种时间和空间显得被压缩了的感觉或体验。由戴维·哈维（D."
+  },
+  {
+   "cn": "书写表达障碍",
+   "en": "written expression disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以拼写准确性，语法、标点准确性，和书面表达清晰度或条理性明显受损为特征的一种特定学习障碍。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

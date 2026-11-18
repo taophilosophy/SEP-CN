@@ -1,0 +1,792 @@
+{
+ "key": "national security",
+ "term": "National Security",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:37:42+00:00",
+ "status": "ok",
+ "note": "variant=National Security; 审定公布名词库=867; 海峡两岸名词对照库=338; 其他来源数据库=518; 预公布名词数据库=230; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "国家安全",
+   "en": "national security",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.001",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "国家处于没有危险的客观状态，并免于受到威胁的主观恐惧。维护国家安全是任何国家内政外交的首要任务。国家安全包含多样主题，但国民的安全和利益是国家安全的核心和国家安全活动的根本目的。"
+  },
+  {
+   "cn": "国家安全法",
+   "en": "National Security Act",
+   "source": "世界历史名词",
+   "wordNumber": "03.0183",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1947年颁布的有关改组美国安全防务体制的法案。"
+  },
+  {
+   "cn": "国家安全联盟",
+   "en": "National Security League",
+   "source": "世界历史名词",
+   "wordNumber": "03.0135",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "第一次世界大战期间倡导美国进行备战活动最积极的民间组织。"
+  },
+  {
+   "cn": "国家安全委员会",
+   "en": "National Security Council,NSC",
+   "source": "世界历史名词",
+   "wordNumber": "03.0184",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1947年，根据《国家安全法》设立的美国国家安全事务的最高顾问机构。"
+  },
+  {
+   "cn": "联合国安全理事会",
+   "en": "United Nations Security Council",
+   "source": "世界历史名词",
+   "wordNumber": "01.0486",
+   "subjectFullName": "世界历史_综合_国家集团、国际组织",
+   "subjectName": "国家集团、国际组织",
+   "publishYear": "2012",
+   "definition": "联合国负责维护国际和平与安全的常设机构。"
+  },
+  {
+   "cn": "国家安全志愿民兵队",
+   "en": "Volunteer Militia for National Security",
+   "source": "世界历史名词",
+   "wordNumber": "03.0695",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_意大利",
+   "subjectName": "意大利",
+   "publishYear": "2012",
+   "definition": "1923年2月1日，在黑衫队基础上改组成的法西斯准军事民兵组织。"
+  },
+  {
+   "cn": "保障",
+   "en": "security",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类在创造人工自然的过程中，对采取、加工和控制活动提供支持、保护和服务的过程及结果。在技术上主要涉及信息的交流（通信）和物质的流通（输运）等领域。"
+  },
+  {
+   "cn": "证券",
+   "en": "security",
+   "source": "经济学名词",
+   "wordNumber": "12.098",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "用来证明持有人享有的某种特定权益的凭证。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "电力名词",
+   "wordNumber": "06.103",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "远动系统避免被控系统处在潜在危险或不稳定状态的能力。这种能力是针对因设备误动和未检出的信息差错而产生故障的后果。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0560",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "顾客使用产品时保证人身和环境免遭危害的能力。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0560",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息系统不受来自系统外部的自然灾害和人为的破坏，防止非法使用者对系统资源，特别是信息的非法使用的特性。"
+  },
+  {
+   "cn": "安全",
+   "en": "security",
+   "source": "航海科技名词",
+   "wordNumber": "14.0033",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "电子学名词",
+   "wordNumber": "21.117",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同乡会",
+   "en": "nation",
+   "source": "教育学名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "欧洲中世纪大学中按照师生地域来源所组成的自治团体。"
+  },
+  {
+   "cn": "国有化",
+   "en": "nationalization",
+   "source": "经济学名词",
+   "wordNumber": "04.090",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "将私人企业的生产资料通过购买、没收等多种方式收归国家所有的过程。"
+  },
+  {
+   "cn": "国有化",
+   "en": "nationalization",
+   "source": "世界历史名词",
+   "wordNumber": "01.0665",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "生产资料从其他所有制形式转归国家所有的形式。"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "地理学名词",
+   "wordNumber": "17.040",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "属于民族的一种感情以及坚持区域和民族单元与自治统一关系同时存在的一种政治意识形态。"
+  },
+  {
+   "cn": "国家书目",
+   "en": "national bibliography,national catalog",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.348",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "揭示报道一个国家一定时期内全部出版物的综合性统计登记书目。是一个国家各项书目工作及国际书目控制的基础，通常采用最详细的级次进行著录。一般由国家图书馆等特定机构依靠呈缴本制度进行，全面充分地反映各类出版"
+  },
+  {
+   "cn": "粮食安全",
+   "en": "food security",
+   "source": "农学名词",
+   "wordNumber": "01.219",
+   "subjectFullName": "总论_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "反映一个国家或地区的粮食供给能力，以及所有人能够获得所需粮食的能力及状态。"
+  },
+  {
+   "cn": "安全检查",
+   "en": "security check",
+   "source": "风景园林名词",
+   "wordNumber": "03.0278",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "为发现在项目施工中可能导致安全事故的危险因素而开展的检验、查看等活动。"
+  },
+  {
+   "cn": "安全[性]",
+   "en": "security",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全",
+   "en": "security",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "保证金",
+   "en": "security money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "担保押金",
+   "en": "security deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "低风险资本",
+   "en": "security capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抵押有价证券",
+   "en": "pledged security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①法定担保 ②合法证券",
+   "en": "legal security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股权凭证",
+   "en": "equity security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际市场证券",
+   "en": "intercourse security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际证券",
+   "en": "international security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "记名证券",
+   "en": "inscribed security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可交易证券",
+   "en": "tradable security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可转换证券",
+   "en": "convertible security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "适销证券",
+   "en": "marketable security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "受托管理人证券",
+   "en": "trustee security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "替代担保",
+   "en": "substitute security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资证券",
+   "en": "investment security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外国证券",
+   "en": "foreign security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "未注日期证券",
+   "en": "undated security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国防工业安全",
+   "en": "national defense industry security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家网络空间安全战略（中国）",
+   "en": "National Cyberspace Security Strategy (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《国家网络安全战略》（加拿大）",
+   "en": "National Cyber Security Strategy (Canada)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家医疗保障局（国家医保局）",
+   "en": "National Healthcare Security Administration (NHSA)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稳妥性",
+   "en": "security",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总体国家安全观",
+   "en": "a holistic approach to national security",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贵阳国家大数据安全靶场（中国）",
+   "en": "Guiyang National Big Data Security Range (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《保护国民信息安全战略》（日本）",
+   "en": "Protection of National Information Security Strategy (Japan)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国安全理事会；反恐怖主义委员会",
+   "en": "United Nations Security Council Counter-Terrorism Committee",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全芯片",
+   "en": "security chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能安防",
+   "en": "Smart Security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网安全",
+   "en": "IoT security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全标准",
+   "en": "Security Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全基础",
+   "en": "Security Foundation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全建设",
+   "en": "security improvement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防范认知",
+   "en": "Security Awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全虚拟化",
+   "en": "security virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全管理",
+   "en": "Security Management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总体国家安全观",
+   "en": "holistic approach to national security",
+   "source": "马克思主义",
+   "wordNumber": "03.0799",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2014年4月15日习近平主持召开中央国家安全委员会第一次会议时提出。指以人民安全为宗旨，以政治安全为根本，以经济安全为基础，以军事、科技、文化、社会安全为保障，健全国家安全体系，增强国家安全能力。党"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.8",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "被认知为由共同历史、文化和共同祖先所连结起来的共同体。"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "马克思主义",
+   "wordNumber": "03.0115",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人类社会发展的一定历史阶段形成的社会共同体之一。它是在共同语言、共同地域、共同经济生活、共同文化上的共同心理素质的稳定的共同体，是人类进入阶级社会的产物。在人类社会发展到共产主义后，各民族将融为一体"
+  },
+  {
+   "cn": "民族化",
+   "en": "nationalization",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "在文化交流中，通过借鉴、吸收、转化和创造等方式，将外来文化转化为本民族文化的组成部分。"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "马克思主义",
+   "wordNumber": "03.0120",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级处理民族问题的理论、原则、纲领和政策。它从民族观念出发,把本民族利益置于其他民族之上，不同的历史时期和不同的国家起着不同的作用。"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0019",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "主张民族（nation）与国家（state）边界相一致的思想观念、理论主张、社会行动，是形成和建构民族国家的理论基础和实践信条"
+  },
+  {
+   "cn": "核安保",
+   "en": "nuclear security",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "预防、侦查涉及或直接针对核材料与其他放射性物质、相关设施或活动的犯罪行为或故意的未经授权行为并对之做出响应的措施。主要包括法律法规体系、设计基准威胁、实物保护、放射性物质运输安保、技术和设备研发、核安"
+  },
+  {
+   "cn": "社会保障",
+   "en": "social security",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "广义指社会成员在年老、疾病、伤残、失业、生育及遭遇灾害之时，国家依法向其提供一定的资金、实物或服务以保障其基本生活的支持制度。狭义指收入保障体系，特别是社会保险及社会救助体系。国家为维护社会公平和促进"
+  },
+  {
+   "cn": "补充保障",
+   "en": "supplemental security",
+   "source": "社会学名词",
+   "wordNumber": "4.3.12.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_补充保障",
+   "subjectName": "补充保障",
+   "publishYear": "2025",
+   "definition": "社会保障体系中非政府强制的个人、企业自愿参与的保障部分，是我国社会保障体系中一个重要组成。涉及商业保险以及员工福利等。"
+  },
+  {
+   "cn": "医疗保障",
+   "en": "medical security",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "通过立法规定国家、企业和个人的权利与义务，动员全社会的力量,通过筹集和支付资金、组织卫生服务和医疗物资的提供,分担社会成员的疾病风险,保障人群健康的一种社会保障制度安排。"
+  },
+  {
+   "cn": "健康保障",
+   "en": "health security",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "国家、社会、个人为化解健康风险所采取的一系列行为的总和。包括为维护人民健康的各类医疗卫生服务提供、各种医疗卫生资源筹集分配和使用方法等制度安排。"
+  },
+  {
+   "cn": "信息安全",
+   "en": "information security",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "为卫生信息数据处理系统建立和采用的技术，保护医疗卫生系统中的数据信息等免受偶然和恶意的原因而遭到破坏、更改和泄露。"
+  },
+  {
+   "cn": "粮食安全",
+   "en": "food security",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.6",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通常为食品数量的安全，是否有足够得到或提供足够食物，为一项重要国策。所有人在任何时间都能在物质、经济和社会层面上获取数量充足、安全并富含营养的食物，满足对健康饮食及不同食物偏好。"
+  },
+  {
+   "cn": "国民性",
+   "en": "national character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0558",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一个国家或人群在与自然、社会、历史的多重关系中形成的一系列习惯、态度、情感，奠定其稳定的人格特征和文化品质，使之与其他社会相区别。各个民族都具有区别于其他民族的一些人格特征。"
+  },
+  {
+   "cn": "国家标准",
+   "en": "national standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由国家标准机构通过并公开发布的标准。此类标准的标准代号，强制性使用GB，推荐性使用GB/T。"
+  },
+  {
+   "cn": "国民财富",
+   "en": "national wealth",
+   "source": "马克思主义",
+   "wordNumber": "02.0026",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在一定时点上，一国全社会所有成员所拥有的全部物质资料的总和。包括国民财产、自然资源、一国外汇储备和对外债权等。它是一个国家或地区经济繁荣程度的重要标志之一，反映了居民的经济实力和福利水平。"
+  },
+  {
+   "cn": "国债",
+   "en": "national debt",
+   "source": "马克思主义",
+   "wordNumber": "02.0251",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "中央政府发行的债务。国家以其信用为基础，按照债的一般原则，通过向社会筹集资金所形成的债权债务关系。"
+  },
+  {
+   "cn": "国家工厂",
+   "en": "national workshop",
+   "source": "马克思主义",
+   "wordNumber": "03.0078",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年二月革命结束后，法国临时政府将因危机和革命失业的工人编进了所谓国家工场，其目的是分裂工人阶级和反对革命。巴黎六月起义失败后，国家工厂解散。"
+  },
+  {
+   "cn": "国民议会",
+   "en": "national assembly",
+   "source": "马克思主义",
+   "wordNumber": "03.0085",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由全体国民选举产生拥有立法权的国家权力机关，是西方民主政治制度的一种形式。"
+  },
+  {
+   "cn": "民族解放",
+   "en": "national liberation",
+   "source": "马克思主义",
+   "wordNumber": "03.0117",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界各被压迫民族反对帝国主义、殖民主义和种族主义，争取民族独立、民族自决和民族平等的革命运动。它主要指亚洲、非洲和拉丁美洲等帝国主义殖民地和半殖民地民族反抗帝国主义的统治和压迫，争取国家独立的资产阶级"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

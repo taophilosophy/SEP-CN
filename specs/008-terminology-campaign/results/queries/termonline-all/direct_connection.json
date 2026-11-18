@@ -1,0 +1,782 @@
+{
+ "key": "direct connection",
+ "term": "direct connection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:51:21+00:00",
+ "status": "ok",
+ "note": "variant=direct connection; 审定公布名词库=4083; 海峡两岸名词对照库=1170; 其他来源数据库=158; 预公布名词数据库=149; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "土木工程名词",
+   "wordNumber": "12.274",
+   "subjectFullName": "土木工程_燃气与供热_热力站与热用户",
+   "subjectName": "热力站与热用户",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "方向附合导线",
+   "en": "direction-connecting traverse",
+   "source": "测绘学名词",
+   "wordNumber": "06.200",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "从一条已知坐标和方位角的已知边开始布设导线，附合到另一条仅有已知方位角而无已知坐标的一种导线。"
+  },
+  {
+   "cn": "混水连接",
+   "en": "water-mixing direct connection",
+   "source": "土木工程名词",
+   "wordNumber": "12.276",
+   "subjectFullName": "土木工程_燃气与供热_热力站与热用户",
+   "subjectName": "热力站与热用户",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "建筑学名词",
+   "wordNumber": "13.0056",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "构件间以某种方式的结合。能传递竖向力和水平力而不能传递弯矩的构件相互连接方式称为铰接；能传递竖向力和水平力，又能传递弯矩的构件相互连接方式称为刚接；能传递竖向力、水平力和部分弯矩且容许有一定变形的构件"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信系统中，为传送信号在功能单元之间建立的关联。"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "土木工程名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "联结",
+   "en": "connection",
+   "source": "电气工程名词",
+   "wordNumber": "01.622",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "联络",
+   "en": "connection",
+   "source": "数学名词",
+   "wordNumber": "08.1014",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "电子学名词",
+   "wordNumber": "21.093",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "联号",
+   "en": "connective",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.298",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "表示不同标引词之间在同一文献中联系程度强弱的一种专用标引符号。它揭示标引词之间是否具有逻辑组配关系，防止出现假联系和错误组配，提高系统的查准率。使用联号的结果类似于标引词分组。"
+  },
+  {
+   "cn": "药隔",
+   "en": "connective",
+   "source": "植物学名词",
+   "wordNumber": "03.0406",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "雄蕊中介于花粉囊之间花药的部分。"
+  },
+  {
+   "cn": "联结词",
+   "en": "connective",
+   "source": "数学名词",
+   "wordNumber": "02.0026",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连",
+   "en": "connect",
+   "source": "风景园林名词",
+   "wordNumber": "08.0731",
+   "subjectFullName": "风景园林_风景园林工程_风景园林假山",
+   "subjectName": "风景园林假山",
+   "publishYear": "2025",
+   "definition": "山石与山石之间水平方向的相互搭接。连石要根据山石的自然轮廓、并注意连石之间的大小同、连缝或紧或疏以形成岩石自然风化后的节理。"
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.724",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "拓扑学中的基本概念。若X中除了空集和X本身外没有别的既开又闭的子集，则称拓扑空间X具有连通性。"
+  },
+  {
+   "cn": "连接度",
+   "en": "connectivity",
+   "source": "植物学名词",
+   "wordNumber": "13.0587",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "从生态功能和过程上描述景观中各单元之间相互联系的程度。是测定景观的功能特征。"
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0776",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "给定一个图 G，若对于G 中任意两个节点 s,t ，在 G 中有从 s 到 t 的路径，则称 G 是连通的。"
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.344",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "衡量网络复杂性的量度，常用γ指数和α指数计算。其中，γ指数等于给定空间网络体节点连线数与可能存在的所有连线数之比,α指数用于衡量环路，节点被交替路径连接的程度，等于当前存在的环路数与可能存在的最大环路"
+  },
+  {
+   "cn": "连接度",
+   "en": "connectivity",
+   "source": "生态学名词",
+   "wordNumber": "08.052",
+   "subjectFullName": "生态学_景观生态学",
+   "subjectName": "景观生态学",
+   "publishYear": "2006",
+   "definition": "从生态功能上描述景观中各单元之间相互联系的程度。"
+  },
+  {
+   "cn": "连通度",
+   "en": "connectivity",
+   "source": "数学名词",
+   "wordNumber": "03.0122",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connect",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自动直接连接制",
+   "en": "automatic direct connection system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "药隔",
+   "en": "connective",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "联系性",
+   "en": "connectivity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "提示记号",
+   "en": "direct",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方向性，指向性",
+   "en": "directivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection\",\"link",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锁状联合",
+   "en": "clamp connection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "法兰连接",
+   "en": "flange connection",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抑制性联结",
+   "en": "inhibitory connection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "轨迹连接",
+   "en": "tracking connection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文件夹连接",
+   "en": "folder connection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "线连接",
+   "en": "line connection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "联系测量",
+   "en": "connection survey",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "对象连接",
+   "en": "object connection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多点连接",
+   "en": "multipoint connection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反向连接",
+   "en": "backward connection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非交换连接",
+   "en": "nonswitched connection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "衔接",
+   "en": "connect\",\"connecting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接连接",
+   "en": "indirect connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情感连接",
+   "en": "emotional connection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技巧连接动作",
+   "en": "acrobatic connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接动作",
+   "en": "connecting move",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接电缆",
+   "en": "connecting cable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接导线",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接电缆",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《连通2020目标议程》",
+   "en": "Connect 2020 Agenda",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧互通",
+   "en": "Intelligent Connectivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础设施互联互通",
+   "en": "infrastructure connectivity",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直接融资",
+   "en": "direct financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0062",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义哲学语境下，“关系”同“联系”。关系反映事物与事物、本质与本质、现象与现象、本质与现象之间相互联系的哲学范畴，是事物相互联系的必要因素。辩证唯物主义认为，关系是客观的，它存在于事物之间。"
+  },
+  {
+   "cn": "辩证关系",
+   "en": "dialectical connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0039",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种事物内部要素之间以及不同事物之间既对立又统一的矛盾关系。从世界观角度看，辩证关系是客观事物存在的状态，从方法论角度看，辩证关系是我们认识事物的普遍方法。"
+  },
+  {
+   "cn": "本质联系",
+   "en": "essential connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0061",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部符合规律性的固有的、稳定的、必然的、深刻的联系，对事物的性质及其发展方向起着主要的决定性作用。"
+  },
+  {
+   "cn": "外在联系",
+   "en": "external connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0072",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在联系”相对。这种关系不是原有的，属于非本质、非必然关系，对事物性质没有决定性的影响。"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0075",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在联系”相对。是事物之间存在固有的、本质的、必然性的关联，对事物性质具有决定作用。"
+  },
+  {
+   "cn": "结缔组织",
+   "en": "connective tissue",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.1.1",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_基本组织",
+   "subjectName": "基本组织",
+   "publishYear": "2025",
+   "definition": "由细胞和大量细胞外基质构成的一种基本组织。不同类型结缔组织所含细胞数量、形态结构和功能不同。狭义上指固有结缔组织，包括疏松结缔组织、致密结缔组织、脂肪组织和网状组织。广义上还包括血液、淋巴、软骨和骨组"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  },
+  {
+   "cn": "直接服务",
+   "en": "direct service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "以个人、家庭和群体为关注对象，针对个人、家庭和群体采取的服务行动。其重点在于改变家庭或群体内的人际交往，或改变个人、家庭和小群体与其环境中的个人或社会系统的关系和互动方式。"
+  },
+  {
+   "cn": "直接成本",
+   "en": "direct cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目而能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "直接效益",
+   "en": "direct benefit",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "可直接观察和测量的实行某项干预措施带来的卫生服务利用和成本减少等。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "直接致癌物",
+   "en": "direct carcinogen",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.1.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "不经过体内代谢活化就具有致癌作用的化学物。"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "定向抽样",
+   "en": "directed sampling",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对目标样品群体（如商品类型或地理区域）对于在监测项目中提示具有潜在健康风险中可疑问题开展调查或者证实过程"
+  },
+  {
+   "cn": "风向",
+   "en": "wind direction",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.3.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "风的来向。"
+  },
+  {
+   "cn": "直接接触传播",
+   "en": "direct contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "易感者与传染者直接接触而导致病原体传播的过程。"
+  },
+  {
+   "cn": "直接冲击伤",
+   "en": "direct blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "冲击波直接作用于人体引起的损伤。"
+  },
+  {
+   "cn": "人民直接管理",
+   "en": "peoples direct management",
+   "source": "马克思主义",
+   "wordNumber": "03.0149",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人民直接组织政府来管理国家和社会，是人民当家作主的一种管理形式。马克思和恩格斯认为，巴黎公社的组织原则就是人民直接管理。在共产主义社会，阶级、政党或其他政治组织消亡后，人民直接管理社会公共事务。"
+  },
+  {
+   "cn": "直接抗球蛋白试验",
+   "en": "direct antiglobulin test",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.25",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "用于诊断胎儿有核红细胞增多症、新生儿溶血病和自身免疫性溶血性贫血症的试验。依据某些患者红细胞表面含不完全抗体，滴加抗人球蛋白血清后可出现凝集现象。"
+  },
+  {
+   "cn": "直接经济损失",
+   "en": "direct economic loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由于预防和治疗疾病所直接消耗的经济资源，包括在医药保健部门购买卫生服务所消耗的经济资源、在非卫生保健部门所消耗的经济资源、或在治疗疾病过程中支持性活动的费用和疾病导致的财产损失。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

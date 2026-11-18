@@ -1,0 +1,762 @@
+{
+ "key": "caring relationships",
+ "term": "caring relationships",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:44:51+00:00",
+ "status": "ok",
+ "note": "variant=caring relationships; 审定公布名词库=1878; 海峡两岸名词对照库=444; 其他来源数据库=55; 预公布名词数据库=260; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "关系",
+   "en": "relationship",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.044",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "两人或多人之间对沟通行为的一系列期望与改变现存关系模式的动态交际过程与互动的结果。"
+  },
+  {
+   "cn": "联系",
+   "en": "relationship",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0011",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "实体间的相互关联。"
+  },
+  {
+   "cn": "保育",
+   "en": "care",
+   "source": "教育学名词",
+   "wordNumber": "06.054",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "成人（家长或看护者）为0～6、7岁儿童提供的、满足其生命安全、身体健康发育成长所需要的物质条件和看护照顾。"
+  },
+  {
+   "cn": "双重关系",
+   "en": "multiple relationship,dual relationship",
+   "source": "心理学名词",
+   "wordNumber": "15.087",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师与当事人之间除了咨询关系外还同时或相继存在着其他关系的情形。"
+  },
+  {
+   "cn": "产前照顾",
+   "en": "antenatal care,prenatal care",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "对孕妇进行的医疗照顾。从确认她们怀孕开始，到第一产程前或结束妊娠为止。"
+  },
+  {
+   "cn": "亲代照料",
+   "en": "parental care,brood care",
+   "source": "昆虫学名词",
+   "wordNumber": "07.172",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "成虫对后代(卵或幼龄幼虫)的照料和保护。"
+  },
+  {
+   "cn": "产前保健",
+   "en": "antenatal care,prenatal care",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.046",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "亲密关系",
+   "en": "intimate relationships",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.167",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "受礼貌、习俗、情感和情绪影响的一种具有私人性和独特性的社交联系。"
+  },
+  {
+   "cn": "平行关系",
+   "en": "parallel relationship",
+   "source": "档案学名词",
+   "wordNumber": "02.02.016",
+   "subjectFullName": "档案学_文件管理_文件工作及其管理",
+   "subjectName": "文件工作及其管理",
+   "publishYear": "2024",
+   "definition": "处于同一组织系统和专业系统的同级组织之间的关系。"
+  },
+  {
+   "cn": "关系营销",
+   "en": "relationship marketing",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.143",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "把营销活动当成是一个企业与消费者、供应商、分销商、竞争者、政府机构及其他公众发生互动作用的过程。其核心是建立和发展与这些公众的良好关系。"
+  },
+  {
+   "cn": "关系讯息",
+   "en": "relationship message",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.013",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "一种人际沟通的信息类型。涉及沟通者关系性质与归属的言语陈述方式。此类信息经常以非言语方式传递对交往关系的看法或暗示，通常理解为“话是怎么说的”。"
+  },
+  {
+   "cn": "关系初始",
+   "en": "relationship initiative",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.048",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "人际沟通发生时最先开始出现的并有意与他人建立联系的交往形态。"
+  },
+  {
+   "cn": "关系维持",
+   "en": "relationship maintenance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.049",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "人际沟通发生时保持关系正常运行且出现令人满意效果的交往形态。"
+  },
+  {
+   "cn": "关系修复",
+   "en": "relationship repair",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.051",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "人际关系发展中以修正错误的方式寻求对受到损害的关系进行补救，以防止关系解体的交往形态。"
+  },
+  {
+   "cn": "关系解体",
+   "en": "relationship dissolution",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.052",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "因双方的交往行为出现差错而使人际关系走到终点的一种交往形态。"
+  },
+  {
+   "cn": "关系技术",
+   "en": "relationship technology",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.053",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "建立在互联网基础上的，能对关系交往的全球化、虚拟化和人本化进行管理的网络技能。"
+  },
+  {
+   "cn": "关系网",
+   "en": "relationship network",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.081",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "在不同的地点，拥有共同交往渠道，经常联络而自发形成的关系群体。"
+  },
+  {
+   "cn": "种内关系",
+   "en": "intraspecific relationship ",
+   "source": "草学名词",
+   "wordNumber": "2.0379",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "衰减关系",
+   "en": "attenuation relationship",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2201",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "地震动关系的很普遍的工程术语。将地面运动参量(如震级、震源至场地距离或断层类型)相联系的数学表示式。其系数通常由地震记录的统计分析求得。 "
+  },
+  {
+   "cn": "亲缘关系",
+   "en": "kinship;relationship",
+   "source": "动物学名词",
+   "wordNumber": "2.0268",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "生物类群在系统发生上所显示的某种血缘关系。"
+  },
+  {
+   "cn": "联系",
+   "en": "relationship",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亲代照料",
+   "en": "parental care\",\"brood care",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "异速生长关系",
+   "en": "allometric relationship",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种间关系",
+   "en": "interspecific relationship",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种内关系",
+   "en": "intraspecific relationship",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "函数关系",
+   "en": "functional relationship",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "性质关联式",
+   "en": "property relationship",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "线性关系",
+   "en": "linear relationship",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "曲线关系",
+   "en": "curvilinear relationship",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非对称关系",
+   "en": "asymmetrical relationship",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感关系",
+   "en": "affectionate relationship",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重关系",
+   "en": "dual relationship",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "交换关系",
+   "en": "exchange relationship",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "陪伴关系",
+   "en": "consort relationship",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "食物关系",
+   "en": "food relationship",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种间关系",
+   "en": "interspecific relationship",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种内关系",
+   "en": "intraspecific relationship",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "空间关系",
+   "en": "spatial relationship",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑关系",
+   "en": "topological relationship",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "关系模型",
+   "en": "relationship model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据关系",
+   "en": "data relationship",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系挖掘",
+   "en": "relationship mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "护理机器人",
+   "en": "caring robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能看护",
+   "en": "smart care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程关爱",
+   "en": "remote care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "居家看护",
+   "en": "home care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "整合照料",
+   "en": "integrated care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户关系网络",
+   "en": "user relationship network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症监护室",
+   "en": "intensive care unit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧养老",
+   "en": "Smart Elderly Care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无介入看护",
+   "en": "non-interventional care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "养老管家",
+   "en": "elderly care app",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧医疗",
+   "en": "smart medical care",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“互联网+”养老",
+   "en": "Internet Plus elderly care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人际关系",
+   "en": "interpersonal relationships",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在交往过程中借由思想、情感、行为等表现的相互之间吸引或排拒、合作或竞争、领导或服从等关系。"
+  },
+  {
+   "cn": "家庭关系",
+   "en": "family relationships",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.35",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭成员间的人际互动或联系。作为社会关系的一种，包括夫妻关系、亲子关系、兄弟姐妹关系、婆媳关系、妯娌关系、祖孙关系、姑嫂关系、叔侄关系等等。在一夫一妻制下，主要为婚姻（夫妻）关系与血缘（亲子）关系，其"
+  },
+  {
+   "cn": "人际关系",
+   "en": "interpersonal relationships",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.9",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "个体在社会交往过程中与他人形成的各种联系、互动模式及情感联结的总和。包括亲属关系、朋友关系、同事关系、邻里关系、伴侣关系等多种类型，是影响个体生理健康与心理健康的重要社会因素。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relationship",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人们在社会交往中形成的以生产关系和权力关系为基础的各种相互联系和关系的总称。如血缘和亲缘关系、地缘关系、业缘关系等。"
+  },
+  {
+   "cn": "组织关系",
+   "en": "organizational relationship",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部和组织之间各种关系的总和。内部关系是指组织内部成员之间、组织成员与组织之间、组织内部各局部之间，以及各局部与整个组织之间的相互作用、相互影响的状态；组织之间关系是指组织与组织之间的相互作用、相"
+  },
+  {
+   "cn": "性别关系",
+   "en": "gender relationship",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.16",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别在社会中的互动性、互动形态及特质等。受性别观念、制度和文化等多重因素影响。"
+  },
+  {
+   "cn": "亲密关系",
+   "en": "close relationship",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "交往双方彼此影响、相互依赖程度极强的关系模式。其特点为两人存在持久的频繁互动，共享许多兴趣爱好，经常共同参与各类活动，相互影响力很大。"
+  },
+  {
+   "cn": "关系建立",
+   "en": "relationship building",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者与服务对象之间为解决问题而进行的联结过程，其表现为双方之间达成一定的信任和默契，或正式签订服务契约。"
+  },
+  {
+   "cn": "供求关系",
+   "en": "supplydemand relationship",
+   "source": "马克思主义",
+   "wordNumber": "02.0021",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品经济条件下商品的市场供给和需求之间通过竞争形成的均衡或失衡的关系，是商品（服务）和消费相互制约关系的市场反映。"
+  },
+  {
+   "cn": "党群关系",
+   "en": "Partymasses relationship",
+   "source": "马克思主义",
+   "wordNumber": "03.0740",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "政党与人民群众的关系。具体是指政党与组成社会的各个团体、公民以及自治性组织的关系。对于在野的选举型政党来说，处理好党群关系是获得政权的唯一通途；对于执政党来说，处理好党群关系是为了巩固执政基础，扩大执"
+  },
+  {
+   "cn": "同伴关系",
+   "en": "peer relationship",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "同龄人间或心理发展水平相当的个体间在交往过程中建立和发展起来的一种人际关系。"
+  },
+  {
+   "cn": "亲密关系",
+   "en": "intimate relationship",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "主体体验到的，同时可能被社会所认可的一种亲近的社交联系。是人际关系的一种，宽泛地说，可包括家庭、婚姻、恋爱、性爱和友谊等关系。"
+  },
+  {
+   "cn": "人际关系技能",
+   "en": "relationship skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "建立和维持健康和支持性关系，并与不同的个人和群体进行有效沟通的能力。"
+  },
+  {
+   "cn": "戏谑关系",
+   "en": "joking relationship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.054",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国人类学家拉德克利夫-布朗（Alfred Reginald Ra-deliffe-Brown）在研究亲属关系时提出的观点，戏谑关系是指一种存在于两个人（或两个团体）间的关系，按照习俗，一方可以向另一"
+  },
+  {
+   "cn": "夫妻关系",
+   "en": "marriage relationship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0394",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "家庭的基本关系之一，指由合法婚姻而产生的男女之间的人身和财产方面的权利义务关系。夫妻关系是家庭产生的前提、基础和核心。"
+  },
+  {
+   "cn": "角色关系",
+   "en": "role relationship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0107",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "言语交际参与者之间的身份关系。例如教师—学生、父亲—儿子、顾客—营业员等。"
+  },
+  {
+   "cn": "医护关系",
+   "en": "doctor-nurse relationship;medical relationship",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.015",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "医生和护士在为服务对象共同服务过程中所形成的工作性人际关系。"
+  },
+  {
+   "cn": "健康服务",
+   "en": "health care",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "采用医疗和预防的手段，使个人身体保持健康，以及提高身体机能的服务。它的范围比医疗服务(medical care)更宽，还包括了预防服务，比如洗牙、健身等。"
+  },
+  {
+   "cn": "暂时休养服务",
+   "en": "respite care",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.10",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "通过将老年人接到养老机构或者派人上门提供临时性的照料，使长期照料失能老年人的家属得以短期的解脱（休息），以便更好地照料老年人的服务方式。按提供方式，可分为居家喘息服务、社区喘息服务和机构喘息服务。"
+  },
+  {
+   "cn": "家庭照顾",
+   "en": "family care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.46",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "需要照顾的老年人等由其家庭成员提供照顾的照顾方式。。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

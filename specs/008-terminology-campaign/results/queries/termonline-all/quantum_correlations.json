@@ -1,0 +1,642 @@
+{
+ "key": "quantum correlations",
+ "term": "quantum correlations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:53:26+00:00",
+ "status": "ok",
+ "note": "variant=quantum correlations; 审定公布名词库=694; 海峡两岸名词对照库=223; 其他来源数据库=125; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "量子关联",
+   "en": "quantum correlation",
+   "source": "光学名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "多体系量子系统中，各系统之间不能用经典概率论解释的关联。"
+  },
+  {
+   "cn": "关联",
+   "en": "correlation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0005",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "对测得的多组实验数据，代入根据某种经验模型或理论模型所建立的数学方程式中，以确定模型中的未知参数的方法。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "化学名词",
+   "wordNumber": "04.1438",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "由于体系中组成的粒子之间存在相互作用，所以在不同空间位置的粒子的几种性质之间存在相互联系；同样，同一粒子在不同时间前后的几种性质之间也可以存在相互联系，这些都称之为相关。前者称为空间相关，后者为时间相"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "心理学名词",
+   "wordNumber": "03.122",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "变量间相互关系的测度。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.134",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "分析两个对称或“平等”的指标之间关联程度的方法。侧重定性分析变量间的伴随关 系。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "大气科学名词",
+   "wordNumber": "07.209",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "指两个不同气象要素或同一气象要素在不同时间和空间的相互关联。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "遗传学名词",
+   "wordNumber": "06.232",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "用相关系数来计量的两个或几个随机变量协同变化的程度。当变量间呈现同一方向的变化趋势时称为正相关，反之则称为负相关。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "地理学名词",
+   "wordNumber": "25.089",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "存在于两个或两个以上变量的统计联系。"
+  },
+  {
+   "cn": "关联",
+   "en": "correlation",
+   "source": "化学工程名词",
+   "wordNumber": "07.005",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "对射变换",
+   "en": "correlation",
+   "source": "数学名词",
+   "wordNumber": "08.0362",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "联系数",
+   "en": "correlate",
+   "source": "测绘学名词",
+   "wordNumber": "02.386",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "条件平差中为求条件极值而引入的一系列不定乘数。"
+  },
+  {
+   "cn": "相关器",
+   "en": "correlator",
+   "source": "石油名词",
+   "wordNumber": "03.0575",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "能表现出某物质或物理量特性的最小单元。一个物理量存在的最小的不可分割的基本单位。"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "物理学名词",
+   "wordNumber": "06.0373",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "电气工程名词",
+   "wordNumber": "01.176",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "空间关联",
+   "en": "space correlation,spatial correlation",
+   "source": "物理学名词",
+   "wordNumber": "05.0883",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "地层对比",
+   "en": "stratigraphic correlation",
+   "source": "地质学名词",
+   "wordNumber": "07.01.007",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "根据岩性、化石、地质事件、同位素测年以及地球物理特征等对不同地区的地层进行地层层位比较研究，证明这些地区的地层在层位上是否相当，在时间上是否等时或穿时等。是研究区域地层变化规律的主要方法之一。"
+  },
+  {
+   "cn": "相关分析",
+   "en": "correlation analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.670",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "对不同变量的数据之间的相关性的探究。"
+  },
+  {
+   "cn": "关联分析",
+   "en": "correlation analysis",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.115",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "在交易数据、关系数据或其他载体中，查找存在于项目集合或对象集合之间的频繁模式、关联、相关性或因果结构的做法。用于发现交易数据库中不同商品之间的联系。"
+  },
+  {
+   "cn": "01.84[配]对关联",
+   "en": "pairing correlation",
+   "source": "核科学技术名词",
+   "wordNumber": "1.084",
+   "subjectFullName": "核科学技术_核物理_相互作用类",
+   "subjectName": "相互作用类",
+   "publishYear": "2024",
+   "definition": "核子配对所导致的两体关‍联。"
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关联",
+   "en": "correlation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "相关，相关性",
+   "en": "correlation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "联系数",
+   "en": "correlate",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "相关器",
+   "en": "correlator",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "功能相关",
+   "en": "functional correlation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生长相关性",
+   "en": "growth correlation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相关分析",
+   "en": "correlation analysis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相关系数",
+   "en": "correlation coefficient",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单相关",
+   "en": "simple correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型相关",
+   "en": "canonical correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复相关",
+   "en": "multiple correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "交叉相关",
+   "en": "cross-correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "距平相关",
+   "en": "anomaly correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "相关分析",
+   "en": "correlation analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "相关系数",
+   "en": "correlation coefficient",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子科技",
+   "en": "Quantum Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子引力",
+   "en": "quantum gravity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子密码学",
+   "en": "quantum cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子计算",
+   "en": "Quantum Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子比特",
+   "en": "quantum bit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "相关",
+   "en": "correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个定距或定比尺度变量的统计关联。"
+  },
+  {
+   "cn": "虚假相关",
+   "en": "spurious correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.28",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "不存在因果关联的两个或多个变量间的相关关系。"
+  },
+  {
+   "cn": "半偏相关",
+   "en": "semipartial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.73",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以量度一个受到其他预测变量控制的被调节的自变量对因变量的关系的统计量。"
+  },
+  {
+   "cn": "双列相关",
+   "en": "biserial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.74",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以估计一个人为的两分变量和一个连续变量的关联强度的相关指标。"
+  },
+  {
+   "cn": "多元相关",
+   "en": "multiple correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归中，反映多于两个变量的变量间的线性关系的量度。用多元判定系数r2表示。"
+  },
+  {
+   "cn": "偏相关",
+   "en": "partial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.77",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在多元线性回归中，用以表示当其他自变量保持恒定，某一自变量与因变量之间的相关关系。"
+  },
+  {
+   "cn": "序列相关",
+   "en": "serial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.155",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个时间序列过程的接续的值有非零的协方差时的相关关系。"
+  },
+  {
+   "cn": "关联性分析",
+   "en": "correlation analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.22.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "用于评估两个或多个变量之间关系的强度和方向的一种统计方法。相关系数范围为-1 到1。"
+  },
+  {
+   "cn": "相关性评价",
+   "en": "correlation evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.34",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价数据和/或试验对于特定危害识别或风险评估的适合程度，主要考虑暴露相关性、生物学相关性、效应相关性以及人类相关性四大要素，从而评价毒理学数据是否与特定目的的食品安全风险评估有关的过程。"
+  },
+  {
+   "cn": "典型相关分析",
+   "en": "canonical correlation analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.71",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "利用两个综合变量之间的相关关系反映两组指标之间的整体相关性的多元统计分析方法。由美国数理统计学家荷泰林首先提出。"
+  },
+  {
+   "cn": "组内相关系数",
+   "en": "intraclass correlation coefficient",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.75",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "组内有某种特定联系的多组数据两两之间的平均相关系数。等于组间方差与总方差之比。"
+  },
+  {
+   "cn": "斯皮尔曼相关系数",
+   "en": "Spearman correlation coefficient",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.80",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将两个随机变量的样本值按数据的⼤⼩顺序排列位次而得出变量的秩，并根据变量的秩而计算的积矩相关系数。由英国心理学家、统计学家斯皮尔曼（Charles Spearman）根据积差相关的概念推导而来。"
+  },
+  {
+   "cn": "皮尔逊相关系数",
+   "en": "Pearson's correlation coefficient",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.79",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "估计两个变量的线性相关关系的方向和强度的系数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

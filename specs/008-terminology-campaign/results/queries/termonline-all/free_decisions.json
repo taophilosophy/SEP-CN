@@ -1,0 +1,792 @@
+{
+ "key": "free decisions",
+ "term": "free decisions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:40:48+00:00",
+ "status": "ok",
+ "note": "variant=free decisions; 审定公布名词库=1893; 海峡两岸名词对照库=611; 其他来源数据库=137; 预公布名词数据库=73; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "决定",
+   "en": "decision",
+   "source": "档案学名词",
+   "wordNumber": "02.01.053",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "领导指导性文件的一种。适用于对重要事项作出决策和部署、奖惩有关单位和人员、变更或者撤销下级机关不适当的决定事项。"
+  },
+  {
+   "cn": "决策",
+   "en": "decision",
+   "source": "数学名词",
+   "wordNumber": "09.0517",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "判决",
+   "en": "decision",
+   "source": "电子学名词",
+   "wordNumber": "05.142",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.109",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "以决策节点、状态节点和连线组成的，表示单阶段或多阶段决策的树状结构图。"
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree ",
+   "source": "草学名词",
+   "wordNumber": "3.0448",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "经济学名词",
+   "wordNumber": "10.177",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "风险型决策中，一种处理多阶段和多种可能性问题的方法。"
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0280",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "一个流程图形式的树结构，其中每个中间结点代表某个属性或某组属性上的测试，每个分支则对应了该测试的不同结果，每个叶结点代表某个类别或预测结果。从训练数据中产生决策树的算法，通常被称为决策树学习算法或决策"
+  },
+  {
+   "cn": "判定树",
+   "en": "decision tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0402",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "在计算复杂性和通信复杂性理论中，决策树模型是一个计算或通信的模型，在其中一个算法或通信过程被看作一个基本的决策树，即基于比较的一个分支操作的系列，这些比较被指定为计算代价的单元。"
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0187",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "以决策结点、状态结点和连线组成的，表示单阶段或多阶段决策的树状结构图。"
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "药学名词",
+   "wordNumber": "10.055",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "根据逻辑关系将分析问题绘制成的一个树形图。按照从树根至树梢的顺序，列出所有可能事件的发展过程和概率，然后逐步计算各节点治疗选项的潜在健康产出和成本。"
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "语言学名词",
+   "wordNumber": "11.085",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "一种具有判别功能的树形结构。其中结点代表一些确定分类的具体条件。它实际上是一种分类规则，通过它对输入的对象集合进行分类。"
+  },
+  {
+   "cn": "决策树[形图]",
+   "en": "decision tree",
+   "source": "大气科学名词",
+   "wordNumber": "05.532",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "由决策结点、方案枝、客观状态结点、概率枝、损益值几部分组成的树形图。它把一系列具有风险性的抉择环节联系成一个统一的整体，可以统观全局、取优舍劣，是决策分析的有效工具。"
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "化学工程名词",
+   "wordNumber": "05.171",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "数学名词",
+   "wordNumber": "011.0567",
+   "subjectFullName": "数学_运筹学_决策论·价值论",
+   "subjectName": "决策论?价值论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "自动化名词",
+   "wordNumber": "03.293",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "决策树法",
+   "en": "decision-tree method,decision tree",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_情报研究",
+   "subjectName": "情报研究",
+   "publishYear": "2019",
+   "definition": "利用树形决策图，选择最优方案的综合性决策分析方法。基本形式是将决策的不同方案和可能产生的不同情况及其概率等因素，以树形图的形式来进行客观反映，再按决策的原则和程序，逐步计算不同方案的收益期望值，最后选"
+  },
+  {
+   "cn": "决策者",
+   "en": "decision maker",
+   "source": "风景园林名词",
+   "wordNumber": "03.0373",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "（1）广义是指决策机构、享有决策权力的人和对决策有较大影响的人。（2）狭义是指根据法律在政府中占决策职位的直接决策者。决策者具有法定的政策制定权力，参与政策制定的全过程。"
+  },
+  {
+   "cn": "经济决策",
+   "en": "economic decision",
+   "source": "风景园林名词",
+   "wordNumber": "03.0372",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "政府、企业以及个人在确定行动政策或方案以及选择实施这些政策或方案的有效方法时所进行的一系列活动。"
+  },
+  {
+   "cn": "投资决策",
+   "en": "investment decision",
+   "source": "风景园林名词",
+   "wordNumber": "03.0041",
+   "subjectFullName": "风景园林_风景园林管理_行业和部门管理",
+   "subjectName": "行业和部门管理",
+   "publishYear": "2025",
+   "definition": "投资者为了实现其预期的投资目标，运用—定的科学理论、方法和手段，通过一定的程序，对若干个可行性的投资方案进行研究论证，从中选出最满意的投资方案的过程。"
+  },
+  {
+   "cn": "经营决策",
+   "en": "management decision",
+   "source": "风景园林名词",
+   "wordNumber": "03.0363",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "企业等经济组织决定企业的生产经营目标和达到生产经营目标的战略和策略，即决定做什么和如何去做的过程。"
+  },
+  {
+   "cn": "判决，决策",
+   "en": "decision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策分析",
+   "en": "decision analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决策变量",
+   "en": "decision variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计决策",
+   "en": "statistical decision",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "绝对决策",
+   "en": "absolute decision",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "决策法则",
+   "en": "decision rule",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "投资决策",
+   "en": "investment decision",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "决策规则，判定规则",
+   "en": "decision rule",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "决策模型",
+   "en": "decision model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "决策表",
+   "en": "decision table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策规则",
+   "en": "decision rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策过程",
+   "en": "decision procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判决",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策论",
+   "en": "decision theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "判定！",
+   "en": "Decision! Hantei!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多数裁判员判定",
+   "en": "majority decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判灯",
+   "en": "decision light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决定性打击",
+   "en": "decisive blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜剑",
+   "en": "decisive hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚球",
+   "en": "free shot\",\"free throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策树学习",
+   "en": "decision tree learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能决策体系",
+   "en": "AI decision system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "根据点数判决胜负",
+   "en": "decision by points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优势裁决",
+   "en": "decision of superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由使用",
+   "en": "free use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无障碍区",
+   "en": "free zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  },
+  {
+   "cn": "决策阈",
+   "en": "decision threshold",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "被测量的估计量值，在用于量化物理效应的被测量的给定测量程序，实际测量值超过该值时，可判定该物理效应存在。"
+  },
+  {
+   "cn": "决策模型",
+   "en": "decision modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一个事件中研究对象所做出的各个具体选择，以及选择间的逻辑次序的图表。"
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "为了到达目标，采用一定的科学方法和手段，从两个以上的方案中选择一个满意方案的分析判断过程。"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decision tree analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "将决策过程各个阶段之间的结构绘制成树状箭线图，利用其进行选择、分割分析。"
+  },
+  {
+   "cn": "决策树模型",
+   "en": "decision tree model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种描述在不确定性情况下进行选择的逻辑结构的静态决策分析模型，包括所有相关的决策选择、对应结果及其概率。"
+  },
+  {
+   "cn": "组织决策",
+   "en": "organizational decision-making",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.10",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织为了实现某一特定目标，依据一定的情况和条件对要解决的问题做出决定，并付诸实施的过程。"
+  },
+  {
+   "cn": "群体决策",
+   "en": "group decision-making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "群体综合多个个体的资源，从而获得了更全面的信息，为决策提供了更大的选择空间。与“个人决策”相对。但研究指出，未必比个体决策更加客观。"
+  },
+  {
+   "cn": "决策分析模型",
+   "en": "decision analytic model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种在不确定性情况下进行决策的定量分析方法。呈现各决策可选项的结果及其发生的概率，通过概率加权的方法得到各选项的期望价值并做出决策。"
+  },
+  {
+   "cn": "决策能力",
+   "en": "decision making skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "权衡不同选择并考虑其不同后果以便作出正确决定的能力。有助于个体在面对健康方面的问题时，作出有利于自身健康的决定。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "负责任的决策",
+   "en": "responsible decision-making",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "在不同情况下对个人行为和社会交往作出体现关怀并具有建设性意义的选择的能力。"
+  },
+  {
+   "cn": "护理决策",
+   "en": "nursing decision-making",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.02",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "护士根据护理专业理论和经验，针对临床工作中的实际情况，经过调查研究和科学思维，从一系列备选方案中确定最佳护理方案的过程。"
+  },
+  {
+   "cn": "伦理决策",
+   "en": "ethical decision-making",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.035",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在实践活动和情境中，基于伦理学的理论、方法、规范、原则及法律规范等，进行伦理判断和行为选择，拟定决策方案的活动过程。"
+  },
+  {
+   "cn": "游离棉酚",
+   "en": "free gossypol",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.11",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油脂中呈游离状态存在的有毒多酚类化合物。"
+  },
+  {
+   "cn": "游离碘",
+   "en": "free iodine",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.2.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "含碘消毒剂在水溶液或醇溶液中释出的碘离子，是含碘消毒剂的主要杀菌形态。"
+  },
+  {
+   "cn": "游离氨",
+   "en": "free ammonia",
+   "source": "消毒学",
+   "wordNumber": "2.1.12.12",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以氨分子和氢氧化铵形式存在的氨，控制季铵盐质量的指标之一。"
+  },
+  {
+   "cn": "自由电子",
+   "en": "free electron",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "受原子核束缚小、在外力作用下易于从原子上脱落，可以在物体中自由移动的电子。影响物体的导电性和导热性。"
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.27",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "最外层轨道含有不成对电子的分子、离子、原子或原子团。具有较活泼的化学性质。"
+  },
+  {
+   "cn": "价值中立",
+   "en": "value free",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "在研究过程中，只客观地陈述事实而不做价值判断的研究方式。"
+  },
+  {
+   "cn": "自由贸易",
+   "en": "free trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0176",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家权力不加干涉的商品和服务自由交换的经济活动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

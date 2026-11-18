@@ -1,0 +1,792 @@
+{
+ "key": "careful consideration",
+ "term": "careful consideration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:36:20+00:00",
+ "status": "ok",
+ "note": "variant=careful consideration; 审定公布名词库=304; 海峡两岸名词对照库=21; 其他来源数据库=38; 预公布名词数据库=189; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "较大事故",
+   "en": "considerable accident",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.109",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "造成3人以上（含3人）10人以下死亡，或者10人以上（含10人）50人以下重伤（包括急性工业中毒），或者1000万元以上（含1000万元）5000万元以下直接经济损失的事故。"
+  },
+  {
+   "cn": "较大安全事故",
+   "en": "considerable safety accident",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.054",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "造成3人以上10人以下死亡，或者10人以上50人以下重伤，或者1000万元以上5000万元以下直接经济损失的生产安全事故。"
+  },
+  {
+   "cn": "较大突发环境事件",
+   "en": "considerable environmental accident",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.068",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "凡符合下列情形之一的，为较大突发环境事件：①因环境污染直接导致3人以上10人以下死亡或10人以上50人以下中毒或重伤的；②因环境污染疏散、转移人员5000人以上1万人以下的；③因环境污染造成直接经济损"
+  },
+  {
+   "cn": "较大突发环境事件",
+   "en": "considerable environmental accident",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.524",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "凡符合下列情形之一的，为较大突发环境事件：①因环境污染直接导致3人以上10人以下死亡或10人以上50人以下中毒或重伤的；②因环境污染疏散、转移人员5000人以上1万人以下的；③因环境污染造成直接经济损"
+  },
+  {
+   "cn": "保育",
+   "en": "care",
+   "source": "教育学名词",
+   "wordNumber": "06.054",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "成人（家长或看护者）为0～6、7岁儿童提供的、满足其生命安全、身体健康发育成长所需要的物质条件和看护照顾。"
+  },
+  {
+   "cn": "体贴精神与主动结构",
+   "en": "consideration and initiating structure",
+   "source": "心理学名词",
+   "wordNumber": "12.088",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "领导者为实现组织目标采取维护员工关系和主动构建任务的领导风格。"
+  },
+  {
+   "cn": "产前照顾",
+   "en": "antenatal care,prenatal care",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "对孕妇进行的医疗照顾。从确认她们怀孕开始，到第一产程前或结束妊娠为止。"
+  },
+  {
+   "cn": "亲代照料",
+   "en": "parental care,brood care",
+   "source": "昆虫学名词",
+   "wordNumber": "07.172",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "成虫对后代(卵或幼龄幼虫)的照料和保护。"
+  },
+  {
+   "cn": "产前保健",
+   "en": "antenatal care,prenatal care",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.046",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "重症监护",
+   "en": "intensive care",
+   "source": "急救医学名词",
+   "wordNumber": "01.010",
+   "subjectFullName": "急救医学_急救概论_急救基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "在医院内对各类危重症患者运用各种先进医疗技术、现代化监护和抢救设备，实施集中的加强治疗和护理的过程。"
+  },
+  {
+   "cn": "家庭护理",
+   "en": "home care",
+   "source": "急救医学名词",
+   "wordNumber": "03.914",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年护理",
+   "subjectName": "老年护理",
+   "publishYear": "2025",
+   "definition": "以家庭为中心的护理，是为了促进家庭系统及家庭成员达到最佳健康状态而进行的，在居家环境中提供的护理服务活动。"
+  },
+  {
+   "cn": "临终照料",
+   "en": "terminal care",
+   "source": "急救医学名词",
+   "wordNumber": "03.915",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年护理",
+   "subjectName": "老年护理",
+   "publishYear": "2025",
+   "definition": "对已失去治愈希望的患者在生命即将结束时所实施的一种积极的综合护理。是临终关怀的重要组成部分。"
+  },
+  {
+   "cn": "临终关怀",
+   "en": "hospice care",
+   "source": "急救医学名词",
+   "wordNumber": "03.916",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年护理",
+   "subjectName": "老年护理",
+   "publishYear": "2025",
+   "definition": "向临终患者及其家属提供的一种全面的照料。包括生理、心理、社会等方面，使临终患者生命得到尊重，症状得到控制，生活质量得到提高，家属的身心健康得到维护和增强，使患者在临终时能够无痛苦、安宁、舒适地走完人生"
+  },
+  {
+   "cn": "缓和照顾",
+   "en": "palliative care",
+   "source": "急救医学名词",
+   "wordNumber": "03.917",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年护理",
+   "subjectName": "老年护理",
+   "publishYear": "2025",
+   "definition": "当患者患有对根治性治疗或延长生命的治疗不再反应的疾病和预期寿命相对短的疾病时，多功能执业团队对患者及其亲属提供的积极的、整体的医疗与照护。"
+  },
+  {
+   "cn": "自我照顾",
+   "en": "self-care",
+   "source": "急救医学名词",
+   "wordNumber": "03.921",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年护理",
+   "subjectName": "老年护理",
+   "publishYear": "2025",
+   "definition": "患者自己参与某种护理活动，并在其中发挥主动性、创造性，使其更加完善、理性地达到健康目标的行为。"
+  },
+  {
+   "cn": "日间护理",
+   "en": "day care",
+   "source": "急救医学名词",
+   "wordNumber": "03.926",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年护理",
+   "subjectName": "老年护理",
+   "publishYear": "2025",
+   "definition": "在白天以群体方式提供生活照顾、医疗、护理、保健及休闲服务，晚上则返回家中的护理形式。"
+  },
+  {
+   "cn": "结构式照护",
+   "en": "structural care",
+   "source": "急救医学名词",
+   "wordNumber": "03.930",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年护理",
+   "subjectName": "老年护理",
+   "publishYear": "2025",
+   "definition": "对病情严重、依赖度高、无家庭照护资源的老年人提供全天候住院服务的照护形式。包括医疗、护理、康复、个人日常生活照顾等。"
+  },
+  {
+   "cn": "社区式照护",
+   "en": "community care",
+   "source": "急救医学名词",
+   "wordNumber": "03.931",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年护理",
+   "subjectName": "老年护理",
+   "publishYear": "2025",
+   "definition": "将服务提供给老年人居住社区的照护形式。包括技术性的医疗护理、一般性的个人照护、社会支持等。"
+  },
+  {
+   "cn": "产前检查",
+   "en": "prenatal care",
+   "source": "妇产科学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "产前检查与孕期保健_产前检查",
+   "subjectName": "产前检查",
+   "publishYear": "2025",
+   "definition": "通过对孕妇及胎儿的监护，达到及早发现母胎异常情况的孕妇检查。规范的产前检查能够及早防治妊娠并发症或合并症，及时发现胎儿异常，评估孕妇及胎儿的安危，确定分娩时机和分娩方式，保障母胎安全。内容包括详细询问"
+  },
+  {
+   "cn": "围产期保健",
+   "en": "perinatal care",
+   "source": "妇产科学名词",
+   "wordNumber": "11.049",
+   "subjectFullName": "产前检查与孕期保健_围产期保健",
+   "subjectName": "围产期保健",
+   "publishYear": "2025",
+   "definition": "孕期、产时、产褥期进行的一系列预防疾病和保护健康的措施。有助于确保母婴安全，降低孕产妇死亡率和围生儿死亡率。包括孕期保健、产时保健、产褥期保健、新生儿保健、哺乳期保健等。"
+  },
+  {
+   "cn": "非法报酬",
+   "en": "illegal consideration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "即期现金报酬",
+   "en": "immediate cash consideration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "亲代照料",
+   "en": "parental care\",\"brood care",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "亲代抚育",
+   "en": "parental care",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亲代抚育",
+   "en": "parental care",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "异亲抚育",
+   "en": "alloparent care",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "亲代抚育",
+   "en": "parental care",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "医疗",
+   "en": "medical care",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保健药品",
+   "en": "health care medicine",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保健地理",
+   "en": "geography of health care",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "公共保健系统",
+   "en": "public health care system",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "冠心病监护病房",
+   "en": "coronary care unit，CCU",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "监护病房",
+   "en": "intensive care unit，ICU",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "危重病人监护系统",
+   "en": "critical patient care system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "健康与保健地理学",
+   "en": "geography of health and health care",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "有害干扰",
+   "en": "harmful interference",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有害物质",
+   "en": "harmful substance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有害昆虫",
+   "en": "harmful insect",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "有害藻华",
+   "en": "harmful algal bloom\",\"HAB\",\"harmful algal red tide",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有害货",
+   "en": "harmful cargo\",\"noxious cargo",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "恕",
+   "en": "Being Considerate / Forgiveness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能看护",
+   "en": "smart care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程关爱",
+   "en": "remote care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "居家看护",
+   "en": "home care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "护理机器人",
+   "en": "caring robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "整合照料",
+   "en": "integrated care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症监护室",
+   "en": "intensive care unit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧养老",
+   "en": "Smart Elderly Care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无介入看护",
+   "en": "non-interventional care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "养老管家",
+   "en": "elderly care app",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧医疗",
+   "en": "smart medical care",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“互联网+”养老",
+   "en": "Internet Plus elderly care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为老服务商",
+   "en": "elderly care service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症监护病房/重症监护病区",
+   "en": "intensive care unit (ICU)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "慎思明辨",
+   "en": "Careful Reflection and Clear Discrimination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能养老监护设备",
+   "en": "intelligent elderly care monitoring equipment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医者仁心",
+   "en": "The Caring Heart of a Physician",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医养结合",
+   "en": "combination of medical and health care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康服务",
+   "en": "health care",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "采用医疗和预防的手段，使个人身体保持健康，以及提高身体机能的服务。它的范围比医疗服务(medical care)更宽，还包括了预防服务，比如洗牙、健身等。"
+  },
+  {
+   "cn": "暂时休养服务",
+   "en": "respite care",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.10",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "通过将老年人接到养老机构或者派人上门提供临时性的照料，使长期照料失能老年人的家属得以短期的解脱（休息），以便更好地照料老年人的服务方式。按提供方式，可分为居家喘息服务、社区喘息服务和机构喘息服务。"
+  },
+  {
+   "cn": "家庭照顾",
+   "en": "family care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.46",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "需要照顾的老年人等由其家庭成员提供照顾的照顾方式。。"
+  },
+  {
+   "cn": "机构照顾",
+   "en": "institutional care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.47",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "需要照顾的老年人等由专门的照料机构予以照顾的照顾方式。在中国，老年人的专门照顾机构有社会福利院、敬老院、老年公寓、老年护理院等。"
+  },
+  {
+   "cn": "社区照顾",
+   "en": "community care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.49",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "在国家宏观指导和政策扶持下，按照“属地养老”的原则，以社区为依托，充分利用现有的资源和条件，为满足日常生活自理有困难的城市老年人的日常生活照顾需求而提供的养老服务。内容包括建立和发展老年福利设施、开展"
+  },
+  {
+   "cn": "围产保健",
+   "en": "perinatal care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "以孕产妇和胎婴儿为对象，以保障母子健康为目的，运用围产医学的理论、技术和方法，提供生理、心理和社会适应等内容的系统性综合保健服务。"
+  },
+  {
+   "cn": "孕期保健",
+   "en": "antenatal care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "从确定妊娠之日始至临产前，为保障孕妇及胎儿的健康所提供的产前检查、健康教育、咨询、健康状况评估、健康指导、妊娠合并症和并发症处理等为主要内容的系统保健服务。包含孕早期、孕中期和孕晚期保健。"
+  },
+  {
+   "cn": "产时保健",
+   "en": "intrapartum care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "医疗机构在产妇住院分娩过程中，为保障母婴安全并促进产妇形成积极的分娩体验所采取的系列服务措施，包括对产妇和胎儿进行全产程监护、支持照顾、安全助产以及对新生儿进行评估及处理。"
+  },
+  {
+   "cn": "妊娠间隔期保健",
+   "en": "interpregnancy care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "为妊娠间隔期妇女提供产后照护、疾患筛查、健康教育和健康管理的专业服务。目的是最大程度的确保妇女在前次分娩或流产后、再次妊娠时、以及后续生命历程的健康。"
+  },
+  {
+   "cn": "流产后保健",
+   "en": "postabortion care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "为孕妇在自然流产或人工流产后提供的专业服务和健康管理，包括避孕服务、并发症管理和其他所需的医疗保健服务。"
+  },
+  {
+   "cn": "更年期保健",
+   "en": "climacteric care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "帮助妇女顺利地度过更年期，减少更年期在生理上、心理上不适症状的保健服务，包括定期健康体检、妇科疾病诊治、健康教育与心理咨询等。"
+  },
+  {
+   "cn": "儿童照护",
+   "en": "child care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "养育人和家庭为儿童提供健康生长发育所需的食物、卫生保健、刺激和情感支持的行为。"
+  },
+  {
+   "cn": "婚前保健",
+   "en": "premarital care",
+   "source": "社会医学名词",
+   "wordNumber": "12.1.2",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "妇女卫生保健",
+   "publishYear": "2025",
+   "definition": "以提高出生人口素质为目的，对准备结婚的男女双方所进行的婚前医学检查、婚前卫生指导和婚前卫生咨询服务的统称。"
+  },
+  {
+   "cn": "临终关怀",
+   "en": "hospice care",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.0360000000000005",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "对已失去治愈希望、生存时间有限（通常预期生存期少于6 个月）的患者，在其生命即将结束时为患者及其家属提供护理、心理及社会支持，帮助患者舒适、安详、有尊严地离世的人道关怀性服务。"
+  },
+  {
+   "cn": "孕产妇保健",
+   "en": "maternity care",
+   "source": "社会医学名词",
+   "wordNumber": "12.1.5",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "妇女卫生保健",
+   "publishYear": "2025",
+   "definition": "为保证和维护孕产妇健康所提供的服务，包括产前、围生期、产后照顾、育儿和基本避孕等服务。"
+  },
+  {
+   "cn": "产时保健",
+   "en": "intrapartum care",
+   "source": "社会医学名词",
+   "wordNumber": "12.1.6",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "妇女卫生保健",
+   "publishYear": "2025",
+   "definition": "在产妇分娩过程中，为保证产妇和新生儿安全所采取的一切保障措施。这段时间虽短，但极重要。要做到“五防、一加强”。五防是防滞产、防感染、防产伤、防出血、防窒息；一加强是加强对高危妊娠的产时监护和产程处理。"
+  },
+  {
+   "cn": "安宁疗护",
+   "en": "hospice care",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.044",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "由医生、护士、营养师、心理咨询师、社会工作者、志愿者等组成专业团队，采取多学科协作模式，为患者提供旨在控制疼痛、缓解不适症状，提高其生存质量的舒缓医疗照护。"
+  },
+  {
+   "cn": "安宁疗护",
+   "en": "palliative care",
+   "source": "社会医学名词",
+   "wordNumber": "12.3.10",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "老年人卫生保健",
+   "publishYear": "2025",
+   "definition": "为疾病终末期患者在临终前通过控制痛苦和不适症状，提供身体、心理、精神等方面的照料和人文关怀等服务，以提高生命质量，帮助患者舒适、有尊严地离世，同时为患者家庭提供支持服务。"
+  },
+  {
+   "cn": "统筹兼顾适当安排",
+   "en": "overall consideration and proper arrangement",
+   "source": "马克思主义",
+   "wordNumber": "02.0381",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《关于正确处理人民内部矛盾的问题》中提出的方针。要求作计划、办事、想问题都要从国情出发。解决各种矛盾要从对全体人民的统筹兼顾这个观点出发,就当时当地的实际可能条件,同各方面的人协商,作出各种适"
+  },
+  {
+   "cn": "卫生保健制度",
+   "en": "health care system",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.073",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "国家筹集、分配和使用卫生保健资源，为个人和公众提供防病治病等医疗卫生服务的综合性措施和制度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

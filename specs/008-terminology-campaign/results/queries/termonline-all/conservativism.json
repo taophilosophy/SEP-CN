@@ -1,0 +1,62 @@
+{
+ "key": "conservativism",
+ "term": "Conservativism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:45:01+00:00",
+ "status": "ok",
+ "note": "variant=Conservativism; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "会计稳健性",
+   "en": "accounting conservatism",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0250",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业在财务报告中确认好消息比确认坏消息时需要更高可靠性的程度。"
+  },
+  {
+   "cn": "保守性偏差",
+   "en": "conservatism bias",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0154",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "进行贝叶斯推断时出现的一种偏误。具有保守性偏差特点的投资者对先验概率(先验信念或旧数据)赋予过高权重，低估新信息的权重，因而修正原有观点的速度比较慢。"
+  },
+  {
+   "cn": "新保守主义",
+   "en": "Neo-conservatism",
+   "source": "世界历史名词",
+   "wordNumber": "03.0269",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "20世纪80年代开始形成的一种美国政治哲学，主张使用美国的经济和军事力量在其他国家推行美式自由、民主和人权。"
+  },
+  {
+   "cn": "保守性",
+   "en": "conservatism",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "文化保守主义",
+   "en": "cultural conservatism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.12",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "伴随着现代化过程而产生的文化思潮，在形式上拒斥现代化、崇尚民族传统文化，而在实际上是有选择地吸纳现代化成果、促成民族文化发展。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

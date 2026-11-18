@@ -1,0 +1,762 @@
+{
+ "key": "verification principle",
+ "term": "verification principle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:52:53+00:00",
+ "status": "ok",
+ "note": "variant=verification principle; 审定公布名词库=1136; 海峡两岸名词对照库=269; 其他来源数据库=82; 预公布名词数据库=125; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "农学名词",
+   "wordNumber": "18.084",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "全称“计量检定（metrological verification）”。查明和确认测量仪器符合法定要求的活动。包括检查、加标记和(或)出具检定证书。"
+  },
+  {
+   "cn": "核件",
+   "en": "verification",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.114",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "按运输包装基本单元要求对同一客户的出版物核点包件。"
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "电力名词",
+   "wordNumber": "02.119",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "查明和确认计量器具是否符合法定要求的程序,包括检查、测试、加标记和(或)出具检定证书。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "物理学名词",
+   "wordNumber": "01.0134",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0503",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "评价系统或部件，以确定软件开发周期中的一个给定阶段的产品是否满足在阶段的开始确立的需求的过程。在形式化方法中，特指检查一个模型是否满足给定属性的过程。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0758",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "通过提供客观证据对规定要求已得到满足的认定。"
+  },
+  {
+   "cn": "可检验性",
+   "en": "verification",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0346",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "根据假设与预测方法，能对预测结果进行重现的一种特性。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "药学名词",
+   "wordNumber": "09.032",
+   "subjectFullName": "药学_药事管理",
+   "subjectName": "药事管理",
+   "publishYear": "2014",
+   "definition": "证明任何程序、生产过程、设备、物料、活动或系统确实能达到预期结果的有文件证明的一系列活动。"
+  },
+  {
+   "cn": "确认",
+   "en": "verification",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.345",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "确定一个操作是否正确完成的行为或确定一个设想的条件是否实际上存在的操作。"
+  },
+  {
+   "cn": "检验",
+   "en": "verification",
+   "source": "生态学名词",
+   "wordNumber": "10.077",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "考察生态模型的内部结构的合理性和逻辑性，以及模型是否按预定的要求做出反应等。"
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.044",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.047",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "数学名词",
+   "wordNumber": "01.0025",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "电子学名词",
+   "wordNumber": "17.010",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "证实",
+   "en": "authentication,verification",
+   "source": "电子学名词",
+   "wordNumber": "05.176",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "方法验证",
+   "en": "method verification",
+   "source": "农学名词",
+   "wordNumber": "18.082",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "提供客观有效证据证明满足检测方法规定要求的实验室核查。"
+  },
+  {
+   "cn": "在线验证",
+   "en": "online verification",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.254",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "通过线上工作流的设置，实现对企业各项作业及管理活动线上验证的方式。"
+  },
+  {
+   "cn": "订货审核",
+   "en": "ordering verification",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.089",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "发行组织系统内部管理层按照业务操作规程对订货情况进行审查核实。"
+  },
+  {
+   "cn": "盘存",
+   "en": "inventory verification",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.061",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "依据库存信息，定期对出版物实际存货状况进行核对、清点、记录的活动。"
+  },
+  {
+   "cn": "品种真实性",
+   "en": "variety verification ",
+   "source": "草学名词",
+   "wordNumber": "4.015",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "检定，检验",
+   "en": "verification",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "确认",
+   "en": "verification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "检定，验证",
+   "en": "verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "校验统计",
+   "en": "verification statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "校验样本",
+   "en": "verification sample",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "预报检验",
+   "en": "forecast verification",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自我确证",
+   "en": "self verification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "编辑校核",
+   "en": "edit verification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "置信度测试",
+   "en": "verification test",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "程序验证",
+   "en": "program verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规约验证",
+   "en": "specification verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击键验证",
+   "en": "keystroke verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "假设验证",
+   "en": "hypothesis verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "签名验证",
+   "en": "signature verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "设计验证",
+   "en": "design verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "说话人确认",
+   "en": "speaker verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "系统验证",
+   "en": "system verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求验证",
+   "en": "requirements verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "验证算法",
+   "en": "verification algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "核对成绩",
+   "en": "verification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "核对成绩",
+   "en": "verification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "效验",
+   "en": "Verification and Validation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单支付验证",
+   "en": "simplified payment verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "QKD组网验证",
+   "en": "QKD Networking Verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "手机短信密码验证",
+   "en": "SMS code verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "万物之理",
+   "en": "Universal Principle",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多语言原则",
+   "en": "multilingual principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通知原则",
+   "en": "notice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性原则",
+   "en": "integrity principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目的性原则",
+   "en": "purpose principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择原则",
+   "en": "choice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转移原则",
+   "en": "transfer principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全原则",
+   "en": "security principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.19",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "查明和确认计量器具是否符合法定要求的程序，包括检查、测试、加标记和（或）出具检定证书。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.13",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "确定危害分析与关键控制点（HACCP）体系是否按照计划运转，或计划是否需要修改，以及再被确认生效使用的方法、程序、检测及审核手段。"
+  },
+  {
+   "cn": "治疗验证",
+   "en": "treatment verification",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在治疗前或治疗中，通过各种手段（体模测量、治疗日志分析等）验证患者治疗准确性的过程。"
+  },
+  {
+   "cn": "方法验证",
+   "en": "method verification",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.38",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "实验室通过核查，提供客观有效证据证明满足检测方法规定要求的过程。"
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "马克思主义",
+   "wordNumber": "04.0059",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指导言论和行动的理论规定。在社会生活中，原则常被作为人们言行的准则。在具体科学中含有公理性质的意思。原则是人们在社会实践中对客观事物及其规律进行的抽象，是一般原理。原则具有相对稳定性，但并不是凝固不变"
+  },
+  {
+   "cn": "监督核查",
+   "en": "inspection and verification",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "卫生行政部门依法对可能产生职业病危害的建设项目的验收活动和验收结果进行的核查。"
+  },
+  {
+   "cn": "时序性原则",
+   "en": "chronological principle",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "职业性放射性疾病一定发生在职业接触电离辐射之后，并符合放射性疾病生物学潜隐期的客观规律。"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "与特定法律有联系，建立、证明或补充、批评、修正现存法律规则的价值、理念及其体系。"
+  },
+  {
+   "cn": "谨慎原则",
+   "en": "precautionary principle",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "如果一个行动或政策有可能引发危害公众或环境的风险，在没有一致的科学意见认为行动或政策有害的情况下，证明行动无害的举证责任就落在那些要采取行动的人身上。"
+  },
+  {
+   "cn": "头尾发展律",
+   "en": "cephalocaudal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿至婴幼儿期体格和粗大动作发育遵循从头部到尾部发展的程序性。"
+  },
+  {
+   "cn": "近侧发展律",
+   "en": "proximodistal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿期至儿童期体格发育遵循从身体的近端（或中心）到远端（或外周）发展的程序性。表现为躯干的生长先于四肢，四肢的近端生长先于远端。"
+  },
+  {
+   "cn": "相互作用原理",
+   "en": "interrelated principle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "个体的行为嵌套于具体的社会关系之中，受社会影响的同时也在影响社会的学说。"
+  },
+  {
+   "cn": "参与原则",
+   "en": "participation principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务的制定、执行与评估过程中，应确保公众、社区和各类相关利益方的积极参与，提升政策的可接受性、适用性与持续性。"
+  },
+  {
+   "cn": "保密原则",
+   "en": "confidentiality principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.074",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "医务人员、研究人员及相关机构对患者或研究参与者在诊疗或参与医学活动过程中提供的个人信息、健康状况、医疗记录等隐私数据负有严格保密义务，未经当事人明确授权不得向第三方泄露的伦理原则。"
+  },
+  {
+   "cn": "裂变原则",
+   "en": "fission principle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0541",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国人类学家埃文斯-普理查德（Evans-Pritchard）在其代表作《努尔人》一书中提出，该原则是在一种无国家的社会组织中被注意到的社会组织原则。在无国家社会中，人们根据血缘关系的亲疏来组成不同的"
+  },
+  {
+   "cn": "干预原则",
+   "en": "intervention principle",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.24",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "在核事故状态下,对公众等实施干预所必须遵循的基本原则,包括干预的正当化,干预最优化以及干预应首先着眼于避免严重的确定性效应的发生。"
+  },
+  {
+   "cn": "个案处理原则",
+   "en": "individual principle",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂安全性评价适用原则之一。没有一个固定的检验和评价模式能适用于所有食品添加剂，因此不应建立标准化和强制化的食品添加剂安全性评价试验程序，不同食品添加剂安全性评价所需的试验资料应有所不同。"
+  },
+  {
+   "cn": "经济原则",
+   "en": "economy principle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0043",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "法国语言学家马丁内（A. Martinet）1962 年提出语言演变的原则。即语言演变的动力来自于交际的需要和人的自然惰性之间的冲突。前者促使人类创造新的、复杂的语言单位；后者则要求在言语过程中尽量减"
+  },
+  {
+   "cn": "道德原则",
+   "en": "moral principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0390000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "一定社会或阶级用以调整人们行为、相互利益关系的普遍性准则。"
+  },
+  {
+   "cn": "天理",
+   "en": "heavenly principles",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.068",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "儒家所信奉的本然之性，或客观存在的道德法则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

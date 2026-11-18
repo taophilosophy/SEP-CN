@@ -1,0 +1,762 @@
+{
+ "key": "observation reports",
+ "term": "observation reports",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:40:21+00:00",
+ "status": "ok",
+ "note": "variant=observation reports; 审定公布名词库=1325; 海峡两岸名词对照库=390; 其他来源数据库=66; 预公布名词数据库=89; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "记者观察",
+   "en": "reporter's observation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.263",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "记者在深入调查和认真研究社会问题的基础上，以亲身观察者的身份对报道对象直接发表议论，并具有较强个人情感色彩的一类新闻述评。它可以独立成篇，也可以附在记者采写的报道之后。"
+  },
+  {
+   "cn": "报道",
+   "en": "report;reporting",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.095",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "记者借助传播工具向受众报告新闻或对新闻进行评述的一种新闻体裁和工作形式。"
+  },
+  {
+   "cn": "报告",
+   "en": "report",
+   "source": "档案学名词",
+   "wordNumber": "02.01.060",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "报请性文件的一种。适用于向上级机关汇报工作、反映情况、回复询问。"
+  },
+  {
+   "cn": "报告",
+   "en": "report",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.181",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "（1）说明个人或机构活动成果的文献。（2）向上级机关汇报工作、反映情况、提出意见或者建议，答复上级机关的询问时使用的公文。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.051",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "通过感官（包括使用仪器获得的信息）收集经验证据的过程。"
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "物理学名词",
+   "wordNumber": "01.0105",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.138",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "细察事物的现象、动向，是一种有目的、有计划、比较持久的活动。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "物理学名词",
+   "wordNumber": "01.0106",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "留验",
+   "en": "observation",
+   "source": "航海科技名词",
+   "wordNumber": "13.0344",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "可观察性",
+   "en": "observability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "事物或现象能被人的感官（通过仪器）直接经验或知觉到的可能性。"
+  },
+  {
+   "cn": "观察者",
+   "en": "observer",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.052",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "观察活动的主体。即进行科学观察的人，决定观察仪器的使用和观察对象的选择。"
+  },
+  {
+   "cn": "可观测量",
+   "en": "observable",
+   "source": "物理学名词",
+   "wordNumber": "06.0543",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "能观性",
+   "en": "observability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0924",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "系统的状态变量可由外部变量（输入变量和输出变量）的实测值来重构或估计的一种性能。如果根据系统的外部变量的实测值能够估计或重构出全部的状态变量，称系统为完全能观的，否则称系统为不完全能观的。"
+  },
+  {
+   "cn": "可观察性",
+   "en": "observability",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.049",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "个体可以看到一项创新结果的可能性程度。观察到结果的创新，容易被采纳。"
+  },
+  {
+   "cn": "气象观测员",
+   "en": "observer",
+   "source": "大气科学名词",
+   "wordNumber": "02.003",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "在各级气象台站或哨所中从事地面、日(辐)射或高空等各种气象观测工作的人员的总称。"
+  },
+  {
+   "cn": "可观测性",
+   "en": "observability",
+   "source": "化学工程名词",
+   "wordNumber": "05.187",
+   "subjectFullName": "化学工程_过程系统工程_过程控制",
+   "subjectName": "过程控制",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "可观测性",
+   "en": "observability",
+   "source": "数学名词",
+   "wordNumber": "012.0463",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "观测器",
+   "en": "observer",
+   "source": "数学名词",
+   "wordNumber": "012.0488",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "观测器",
+   "en": "observer",
+   "source": "电子学名词",
+   "wordNumber": "23.045",
+   "subjectFullName": "电子学_自控与三遥技术",
+   "subjectName": "自控与三遥技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可观测性",
+   "en": "observability",
+   "source": "电子学名词",
+   "wordNumber": "23.058",
+   "subjectFullName": "电子学_自控与三遥技术",
+   "subjectName": "自控与三遥技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "报告",
+   "en": "report",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "报表",
+   "en": "report",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报告",
+   "en": "report",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "报道基因",
+   "en": "reporter gene\",\"reporter",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "观测员",
+   "en": "observer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可观测性",
+   "en": "observability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "观测仪",
+   "en": "observer",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "观测器",
+   "en": "observer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可观测性",
+   "en": "observability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可观察性",
+   "en": "observability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "观测点",
+   "en": "observation spot\",\"observation  station",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "倾斜观测",
+   "en": "oblique observation\",\"tilt  observation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "常规观测",
+   "en": "routine observation，regular observation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "气象报告",
+   "en": "meteorological report",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天气报告",
+   "en": "weather report",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天气转劣报告",
+   "en": "deterioration report",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非正式报告",
+   "en": "informal report",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正式报告",
+   "en": "formal report",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "观",
+   "en": "Observation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上举报",
+   "en": "online reporting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "观看台",
+   "en": "observation terrace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "观象",
+   "en": "Observing Images",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全信息通报制度",
+   "en": "data security reporting system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违规披露、不披露重要信息罪",
+   "en": "crime of submitting false reports or reports concealing important facts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "综合地球观测系统",
+   "en": "integrated earth observation system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "两周观察期",
+   "en": "two-week observation period",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学观察",
+   "en": "medical watch; medical observation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地球观测组织",
+   "en": "Group on Earth Observations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全风险报告机制",
+   "en": "data security risk reporting mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "员工健康监测和报告",
+   "en": "employee health monitoring and reporting  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "美国国家生态观测网络",
+   "en": "National Ecological Observation Network (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "芝麻签证报告",
+   "en": "Zhima credit report for visa application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全情况报告制度",
+   "en": "reporting system for big data security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.17",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "观察者根据研究课题，利用眼睛、耳朵等感觉器官和其他科学手段，有目的地对研究对象进行考察，以取得研究所需资料的一种资料收集方法。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "观察者根据研究课题，利用眼睛、耳朵等感觉器官和其他科学手段，有目的地对研究对象进行考察，以取得研究所需资料的一种资料收集方法。"
+  },
+  {
+   "cn": "总结报告",
+   "en": "summary report",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.14.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "职业健康检查机构对委托单位（用人单位）出具的书面报告，对本次职业健康检查结果的全面总结，一般包括单位基本信息、检查结果分析和适任性评价三部分内容。基本信息包括受检单位名称、放射因素名称、应检人数、实检"
+  },
+  {
+   "cn": "个体报告",
+   "en": "individual report",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.14.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "通过填写《放射工作人员职业健康检查表》对检查结果进行总结，包括检查结果异常分析和建议，需要复查确定的，应明确复查的内容和时间，将复查结果附上；并由主检医师对检查结果进行审核后给出处理建议和适任性意见并"
+  },
+  {
+   "cn": "报告内容",
+   "en": "report content",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得突发公共卫生事件相关信息后，对于符合报告要求的事件按照由下至上报告的原则，向所在地区人民政府卫生行政部门或有关单位报告事件信息和事件发生、发展、控制过程的信息。"
+  },
+  {
+   "cn": "病例报告",
+   "en": "case report",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "对某种疾病在临床上出现的未报道过的疾病或治疗现象的详细介绍，是描述性研究中最基本的一种形式，属于定性研究的范畴。"
+  },
+  {
+   "cn": "责任报告人",
+   "en": "responsible reporter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "在执行职务过程中发现符合报告要求的突发公共卫生事件相关信息，负责向所在地区人民政府卫生行政部门或有关单位报告、履行法律规定义务的医护人员、检疫人员、疾病预防控制人员、乡村医生和个体开业医生。"
+  },
+  {
+   "cn": "报告偏倚",
+   "en": "reporting bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "在调查过程中研究对象对某些信息的故意夸大或缩小所导致的系统误差。"
+  },
+  {
+   "cn": "报告程序",
+   "en": "reporting procedure",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得突发公共卫生事件相关信息后，对照标准研判，对于符合报告要求的事件，向所在地区人民政府卫生行政部门或有关单位报告时按规定需遵循的流程。"
+  },
+  {
+   "cn": "发病率报告",
+   "en": "morbidity reporting",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.10",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "对一定时间内一定人群出现因食物中毒所引的疾病新病例数量进行报告"
+  },
+  {
+   "cn": "强制性报告",
+   "en": "mandatory reporting",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.027999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "按照法律法规或规章要求，医疗卫生机构及其执业人员在发现法定传染病病例、疫情或其他突发原因不明的传染病等法定情形时，必须依规向有关部门报告的制度。"
+  },
+  {
+   "cn": "实验室观察",
+   "en": "laboratory observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.18",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在实验室中对研究对象、观察情景与条件进行严密控制的情况下进行的观察。"
+  },
+  {
+   "cn": "结构观察",
+   "en": "structured observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一组预先确定的规则和程序而实施的非参与观察。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "由研究者参与到被研究群体的日常生活中，记录他们的经历和观察的定性研究方法。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "间接观察法",
+   "en": "indirect observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "除疲劳客观症状外，根据疲倦的感觉，设计问卷，用以评价、比较和分析学习负荷的方法。"
+  },
+  {
+   "cn": "生理学法",
+   "en": "physiological observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过测定视觉功能状态，间接反映脑力工作能力的水平，以分析和评价疲劳程度的方法。常用的方法为明视持久度、临界闪光融合频率。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "研究者要深入到被研究群体所在社区的日常生活中，将自己视为社区的成员之一，在与研究对象互动的同时，按事先准备的提纲，观察并记录他们的经历、体验和行为等，获取第一手资料的方法。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "人类学研究中搜集一手资料的最基本的方法。它要求研究者在较长时间内置身于被观察者的社区之中，通过参与他们的日常活动来观察当地社会文化，在参与和观察之间保持一种平衡。"
+  },
+  {
+   "cn": "虚假检验报告",
+   "en": "false testing report",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.32",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "检验检测机构违反国家法律法规、职业道德和技术标准，故意或重大过失地出具与实际情况不符的检验检测结论的文件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

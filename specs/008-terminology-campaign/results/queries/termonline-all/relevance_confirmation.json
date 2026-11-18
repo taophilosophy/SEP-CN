@@ -1,0 +1,582 @@
+{
+ "key": "relevance confirmation",
+ "term": "relevance confirmation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:40:10+00:00",
+ "status": "ok",
+ "note": "variant=relevance confirmation; 审定公布名词库=107; 海峡两岸名词对照库=65; 其他来源数据库=13; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "相关度",
+   "en": "relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.167",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "信息检索结果对用户信息需求的满足程度。"
+  },
+  {
+   "cn": "相关性",
+   "en": "relevance",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0545",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "被检出的信息与信息用户的需求之间的相关度。"
+  },
+  {
+   "cn": "样地直观记录",
+   "en": "relevé",
+   "source": "植物学名词",
+   "wordNumber": "13.0237",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "通过视觉记录植物习性和生境的数据描述一个区域内的植被特征的方法。"
+  },
+  {
+   "cn": "可验证性",
+   "en": "confirmability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "认为一个陈述有认知意义，当且仅当这个陈述和其他辅助假说合取时，能够推导出观察命题，并且这些观察命题不能由辅助假说单独推出。"
+  },
+  {
+   "cn": "关联性",
+   "en": "relevance,association",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0644",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "系统内部各组成部分之间、系统与环境之间所具有的相互依赖、相互作用和相互制约的特性。"
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.072",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "抽取有助于提高检得结果相关度的关键词用于原有检索式的修改，再据此检得更有用的相关结果。"
+  },
+  {
+   "cn": "相关度排序",
+   "en": "relevance ranking",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.153",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "综合运用检索模型（如布尔模型、向量空间模型、概率模型等）对检索结果进行处理，按检索结果与检索表达式的相关程度进行计算和评估比较，根据计算结果对文档排序的一种方法。"
+  },
+  {
+   "cn": "互逆相关性",
+   "en": "reversible relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用以描述查全率、查准率两个指标相对关系的概念，即当查全率增大时查准率减小，查全率减小时查准率增大。"
+  },
+  {
+   "cn": "查准评定",
+   "en": "relevance judgement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.169",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用户在某一特定时间按照一定标准对信息检索结果满足用户需求的程度进行评判的过程。"
+  },
+  {
+   "cn": "相关性原理",
+   "en": "relevance principle",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.201",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "系统方法论的基本原则之一，也是情报学的一个基本原理。系统的要素之间、要素与系统整体之间、系统与环境之间是普遍联系的，它们互相制约、互相影响、不可分割开来。任何一种情报结构都是按一定规则相互关联的，研究"
+  },
+  {
+   "cn": "用户相关性",
+   "en": "user relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.168",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用户及其代理与检索系统间的关系。受到用户偏好、兴趣、时效、完整性、信息价值和针对性的影响，是衡量检索系统与用户情报问题匹配程度的重要指标。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0343",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "通过在信息检索过程中加入用户交互过程，从而把检索模式从一次进行变成交互式的多次进行，提高检索的准确率。"
+  },
+  {
+   "cn": "相干逻辑",
+   "en": "relevance logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0046",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "基于“蕴涵是意义之间的必然联系”这种观点提出的一类逻辑系统。旨在清除真值蕴涵不要求前件与后件之间具有有意义的联系所导致的“蕴涵怪论”。"
+  },
+  {
+   "cn": "价值相关性",
+   "en": "value relevance",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0249",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业的会计数据与其股票价格之间的相关程度。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0551",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "用户对检索系统返回的检索结果进行相关性判断，检索系统从用户认为相关的文献中选择重要的语词或表达式形成新的查询式，以使二次检索结果更接近用户的查询需求。"
+  },
+  {
+   "cn": "相关尺寸",
+   "en": "relevant size",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0338",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "在视图上表示与给定直角坐标系的两坐标轴既不平行、也不垂直的直线(或曲线)或平面(或曲面)位置的两个坐标尺寸。"
+  },
+  {
+   "cn": "有关参量",
+   "en": "relevant parameter",
+   "source": "物理学名词",
+   "wordNumber": "05.1046",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相关方",
+   "en": "relevant side",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0713",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "与组织的业绩或成就有利益关系的个人或团体。"
+  },
+  {
+   "cn": "关联故障",
+   "en": "relevant fault",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.188",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "样地记录[表]",
+   "en": "relevé",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "关联失效",
+   "en": "relevant failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "验证性偏倚",
+   "en": "confirmation bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保兑手续费",
+   "en": "confirmation commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购货确认书",
+   "en": "purchase confirmation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最后确认",
+   "en": "final confirmation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投递证实",
+   "en": "delivery confirmation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保兑信用证",
+   "en": "confirmed credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保兑银行",
+   "en": "confirming bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付商行",
+   "en": "confirming house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付书",
+   "en": "confirming order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "订单确认书",
+   "en": "confirmation of order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "发盘确认书",
+   "en": "confirmation of offer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫证实信号",
+   "en": "call-confirmation signal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接收证实",
+   "en": "confirmation of receipt",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保兑信用证",
+   "en": "confirmed L/C",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不可撤销保兑信用证",
+   "en": "confirmed irrevocable credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信用证确认手续费",
+   "en": "L/C confirmation commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不可撤销保兑信用证",
+   "en": "irrevocable and confirmed credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确认议付信用证",
+   "en": "confirmed negotiation L/C",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据资产确权",
+   "en": "data asset confirmation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保兑仓融资",
+   "en": "confirming warehouse financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权法定",
+   "en": "Legislative Confirmation of Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应治尽治",
+   "en": "All confirmed patients should be treated.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应收尽收",
+   "en": "All suspected and confirmed patients should be admitted to the hospital. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优雅",
+   "en": "elegance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优雅",
+   "en": "elegance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "典雅",
+   "en": "Classical Elegance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "冲淡",
+   "en": "Quiet Elegance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主可控战略",
+   "en": "self-reliance strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "散郁陶，托风采",
+   "en": "Words Can Dispel One’s Pent-up Feelings and Display One’s Elegance.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，具有某种疾病的临床症状体征以及实验室诊断证据的病例。"
+  },
+  {
+   "cn": "确诊病例数",
+   "en": "confirmed cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "经过流行病学资料、临床表现和实验室检查后确诊患某种疾病的人数。"
+  },
+  {
+   "cn": "食源性疾病确诊病例",
+   "en": "confirmed cases of foodborne disease",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "符合《食源性疾病监测报告工作规范（试行）》附录“食源性疾病报告名录”中食源性疾病判定标准的病例。"
+  },
+  {
+   "cn": "进出境水生动物相关场地消毒",
+   "en": "disinfection of relevant venues for entry-exit aquatic animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.5.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对具有染疫风险的进出境水生动物相关场所清除且杀灭病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "没收官僚资本",
+   "en": "confiscation of bureaucratcapital",
+   "source": "马克思主义",
+   "wordNumber": "02.0339",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国新民主主义革命的三大经济纲领之一。在新民主主义革命的后期，中国共产党在已解放的城市中开展了没收以蒋、宋、孔、陈为首的官僚资本。新中国成立后，人民政府迅速没收了原来属于国民党政府和官僚资产阶级的一切"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

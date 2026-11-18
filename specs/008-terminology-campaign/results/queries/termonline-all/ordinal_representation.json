@@ -1,0 +1,682 @@
+{
+ "key": "ordinal representation",
+ "term": "Ordinal representation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:40:52+00:00",
+ "status": "ok",
+ "note": "variant=Ordinal representation; 审定公布名词库=713; 海峡两岸名词对照库=267; 其他来源数据库=38; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "序数词",
+   "en": "ordinal",
+   "source": "语言学名词",
+   "wordNumber": "04.076",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“基数词”相对。表示次序先后的数词。例如“第一”“第五”。"
+  },
+  {
+   "cn": "序数",
+   "en": "ordinal",
+   "source": "数学名词",
+   "wordNumber": "02.0176",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "source": "数学名词",
+   "wordNumber": "08.0211",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "动物学名词",
+   "wordNumber": "7.0481",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "近代群落生态学研究的一种方法。通过排序可以把很多实体（如森林的林分）作为点，并以属性为坐标轴，在一维或多维空间中，按其相似关系将它们排列起来。"
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "生态学名词",
+   "wordNumber": "06.323",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "近代群落生态学研究的一种方法，通过排序可以把很多实体例如森林的林分作为点，并以属性为坐标轴，在一维或多维空间中，按其相似关系将它们排列起来。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.009",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "用象征符号代替或再现事物，通过代替，引起我们对该事物的想象。"
+  },
+  {
+   "cn": "表象",
+   "en": "representation",
+   "source": "物理学名词",
+   "wordNumber": "06.0427",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.108",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "外界信息在系统内部的一种表达方式。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "心理学名词",
+   "wordNumber": "02.494",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "反映外部现实的内部认知符号。"
+  },
+  {
+   "cn": "可表示性",
+   "en": "representability",
+   "source": "数学名词",
+   "wordNumber": "02.0083",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scaling",
+   "source": "测绘学名词",
+   "wordNumber": "04.312",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "定量表示制图对象之间相对差别（顺序）的一种量表方法。"
+  },
+  {
+   "cn": "序回归",
+   "en": "ordinal regression",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0245",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "样本的标签是等级，学习的目标是给定样本，预测等级，使得预测的等级跟真实等级尽可能接近。"
+  },
+  {
+   "cn": "序量",
+   "en": "ordinal quantity",
+   "source": "计量学名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "计量学_计量学通用名词_量和单位",
+   "subjectName": "量和单位",
+   "publishYear": "2015",
+   "definition": "由约定测量程序定义的量。与同类的其他量可按大小排序，但这些量之间无代数运算关系。"
+  },
+  {
+   "cn": "顺序变量",
+   "en": "ordinal variable",
+   "source": "心理学名词",
+   "wordNumber": "02.060",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对象的某种属性的大小或多少排出顺序的既无相等单位，又无绝对零点的变量。"
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scale",
+   "source": "心理学名词",
+   "wordNumber": "03.316",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "表示一个变量的不同值有次序关系(大于或小于)的一种量表。"
+  },
+  {
+   "cn": "序数效用",
+   "en": "ordinal utility",
+   "source": "药学名词",
+   "wordNumber": "10.011",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "用排序来反映偏好的一种效用表示方法，排列成序的效用间的差距大小没有意义。"
+  },
+  {
+   "cn": "序数和",
+   "en": "ordinal sum",
+   "source": "数学名词",
+   "wordNumber": "02.0177",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "序数积",
+   "en": "ordinal product",
+   "source": "数学名词",
+   "wordNumber": "02.0178",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "序数幂",
+   "en": "ordinal power",
+   "source": "数学名词",
+   "wordNumber": "02.0179",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "超穷序数",
+   "en": "transfinite ordinal",
+   "source": "数学名词",
+   "wordNumber": "02.0180",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有序的",
+   "en": "ordinal",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征[再现]",
+   "en": "representation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表示",
+   "en": "representation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序变量",
+   "en": "ordinal variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顺序数据",
+   "en": "ordinal data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scaling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "群落排序",
+   "en": "community ordination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "污水条例",
+   "en": "sewer ordinance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号表征",
+   "en": "symbolic representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内部表征",
+   "en": "internal representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问题表征",
+   "en": "problem representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本表示",
+   "en": "text representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络表示学习",
+   "en": "network representation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚符号表示",
+   "en": "sub-symbolic representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据表示规范",
+   "en": "unstructured data representation specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全要素数字表达技术",
+   "en": "total-factor digital representation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 18142-2017 信息技术 数据元素值表示 格式记法》",
+   "en": "GB/T 18142-2017 Information technology — Representation of data elements values — Notation of the format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "太空互联网",
+   "en": "Orbital Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普通犯规",
+   "en": "ordinary foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定序尺度",
+   "en": "ordinal scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.40",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一个具有逻辑次序的类别集合对测量对象进行分类的测量方式。该逻辑次序可能是从低到高或从贫到富，例如回答人对某个服务的态度可以划分作非常不满意、不满意、满意和非常满意四个等级。"
+  },
+  {
+   "cn": "序数效用论",
+   "en": "ordinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用序数词来表示消费者偏好次序的理论，主要分析工具是无差异曲线和预算线。"
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representations",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "某一群体所共享的价值、观念及实践系统。作为一种社会共识性的知识体系，它具有双重功能，一是为个体在特定生活世界中的生存进行定向，二是提供可借以进行社会交流及对现实世界与个体、群体历史进行明晰分类的符号，"
+  },
+  {
+   "cn": "门诊共济",
+   "en": "outpatient co-ordination",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "统筹共济、账户共济的总称。参保人在定点服务机构发生的符合健康保险政策范围内的普通门诊费用可纳入统筹基金支付范围进行报销，称为统筹共济；参保人的个人账户可在家庭范围内与其配偶、子女、父母共济使用，称为账"
+  },
+  {
+   "cn": "性别参政比例制",
+   "en": "gender proportional representation in political participation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "旨在保障不同性别平等参政的一种制度安排，通常以立法或决策的方式设定了弱势性别群体权力参与的最低比例。但这种制度安排究竟有利于还是不利于促进不同性别参政权和决策权的平等，甚至实质上是否是对妇女的一种保护"
+  },
+  {
+   "cn": "代表性个人",
+   "en": "representative person",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在受照人群中接受剂量较高的能代表人群的个人。国际放射防护委员会（ICRP）在其101号出版物中指出，代表性个人的剂量等于或替代关键人群组的平均剂量，这为评价代表性个人的剂量提供了指导。关键人群组的概念"
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self-presentation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "任何旨在制造、保持、修改他人对自己的印象的行为，系社会互动的一个重要方面。由美国社会学家戈夫曼(Erving Goffman）提出的相关理论认为，人们总是倾向于通过根据当下的社会情景或人际背景，有意识"
+  },
+  {
+   "cn": "神判法",
+   "en": "ordeal",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "让被控诉的人接受痛苦或危险的考验的一种审判方法。无恙即被神力判定无罪，受伤或致死则证明有罪。神判表明社会公正机制与宗教有关。"
+  },
+  {
+   "cn": "代表性土壤样品",
+   "en": "representative soil samples",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "土壤采集中所获得的一定量的土壤样品，它与被取样的总体在性质与特点上完全相同。"
+  },
+  {
+   "cn": "原罪",
+   "en": "original sin",
+   "source": "马克思主义",
+   "wordNumber": "04.0023",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "基督教的一种教义。该教称人类始祖亚当因违背上帝命令，吃禁果而犯下的罪，传给后世子孙，绵延不绝，故称“原罪”。"
+  },
+  {
+   "cn": "基数效用论",
+   "en": "cardinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用基数词来表示消费者效用数量的理论。该理论认为，效用是消费者在消费商品时所得到的满足，可以用数值来衡量和相加。消费者均衡的条件是花在每一种商品上的最后一单位货币所带来的边际效用都相等，每一种商品所"
+  },
+  {
+   "cn": "普通物体表面",
+   "en": "ordinary object surfaces",
+   "source": "消毒学",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "学校、托幼机构、医疗卫生机构、公共场所、家庭等各种场所的物品、用具、器械和设施的表面。"
+  },
+  {
+   "cn": "普通最小二乘方",
+   "en": "ordinary least squares",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.87",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "使回归方程的残差平方和最小的参数点估计方法。"
+  },
+  {
+   "cn": "常人",
+   "en": "ordinary person/layman",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "经营日常生活的普通人，相对于贵族或精英而言的“凡人”，与柳田国男(Yanagida Kunio）的“常民”(jyoomin）概念同义。加芬克尔 (H.Garfunkel）借助此概念证明日常实践理性活动"
+  },
+  {
+   "cn": "四项基本原则",
+   "en": "Four Cardinal Principles",
+   "source": "马克思主义",
+   "wordNumber": "03.0514",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1979年3月30日邓小平在理论工作务虚会上作了题为《坚持四项基本原则》的讲话，提出了必须坚持的“四项基本原则”。四项基本原则包括：第一，必须坚持社会主义道路；第二，必须坚持无产阶级专政；第三，必须坚"
+  },
+  {
+   "cn": "原麦汁浓度",
+   "en": "original wort concentration",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.3",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "啤酒发酵前麦芽汁所含的糖度。"
+  },
+  {
+   "cn": "三纲",
+   "en": "three cardinal guides",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.072",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "封建礼教所提倡的人与人之间的道德标准，指君为臣纲，父为子纲，夫为妻纲，要求臣、子、妻必须绝对服从君、父、夫。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

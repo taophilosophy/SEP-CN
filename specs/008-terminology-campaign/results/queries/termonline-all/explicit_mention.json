@@ -1,0 +1,692 @@
+{
+ "key": "explicit mention",
+ "term": "explicit mention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:44:17+00:00",
+ "status": "ok",
+ "note": "variant=explicit mention; 审定公布名词库=1710; 海峡两岸名词对照库=441; 其他来源数据库=29; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "明引",
+   "en": "explicit quotation mentioning its author or origin",
+   "source": "语言学名词",
+   "wordNumber": "08.244",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "与“暗引”相对。引用的一种。直接引用原文，并用引号标明，多注明作者或出处。例如，“我们中国有句农谚：‘不行春风，难得秋雨’。”"
+  },
+  {
+   "cn": "显性信息",
+   "en": "explicit information",
+   "source": "农学名词",
+   "wordNumber": "16.021",
+   "subjectFullName": "农业信息_农业数据与信息",
+   "subjectName": "农业数据与信息",
+   "publishYear": "2025",
+   "definition": "以文字、符号、图形等易于识别方式表达的信息。"
+  },
+  {
+   "cn": "显定义",
+   "en": "explicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.039",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念给出了完整与准确意义的定义。"
+  },
+  {
+   "cn": "显式表达式",
+   "en": "explicit expression",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "描述化工过程系统的各类方程，表达所含变量的某种约束等式关系。等式的表达形式为y=φ(x)，未知变量x可被显式表达。"
+  },
+  {
+   "cn": "显式方案",
+   "en": "explicit scheme",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.171",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "当f=0时的时间积分方案，其内存占用量较小，但只具有一阶截差精度，且条件稳定，时间步长的大小受到限制。"
+  },
+  {
+   "cn": "显序",
+   "en": "explicit order",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.388",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "物理学家玻姆在1980年出版的《整体性与隐序》一书中提出的用来说明亚原子粒子奇特行为的一个概念。是在所有隐序的总的整体性内所包含的一种具体的突出形式，意指事物展开的分离形式。"
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.545",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "对先前经验的有意识记忆。"
+  },
+  {
+   "cn": "外显知识",
+   "en": "explicit knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.546",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "可通过媒介被明确表述、记载、传递的知识。"
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "麻醉学名词",
+   "wordNumber": "03.008",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_麻醉风险",
+   "subjectName": "麻醉风险",
+   "publishYear": "2024",
+   "definition": "与特定时间、地点或任务有关的事实或事件的记忆，或是对以前学得知识的记忆。即与直觉和意识有关的记忆。包括情景记忆和语义记忆。"
+  },
+  {
+   "cn": "明示义",
+   "en": "explicit meaning",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.063",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "符号的字面意义，属于意义的核心部分。"
+  },
+  {
+   "cn": "外显行为",
+   "en": "explicit behavior",
+   "source": "行为医学名词",
+   "wordNumber": "1.002",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "受到神经系统调控、能够被直接观察到的行为。如躯体运动、情绪等外部活动。"
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "行为医学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "对过去经验有意识的记忆过程。"
+  },
+  {
+   "cn": "显性成本",
+   "en": "explicit cost",
+   "source": "经济学名词",
+   "wordNumber": "03.109",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "厂商会计账户中看得见的实际货币支出。显性成本包括厂商支付的原材料费用、工资费用、市场营销费用等。一般而言，通过成本会计计算得来的成本即是显性成本。"
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "生理学名词",
+   "wordNumber": "03.707",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "增意标引",
+   "en": "explicit indexing",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.729",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_标引",
+   "subjectName": "标引",
+   "publishYear": "2019",
+   "definition": "对隐含主题标引时，把文献题名中没有显露，但实际存在的主题标引出来的方式。隐含主题往往是文献中心主题的相关主题或衍生主题。"
+  },
+  {
+   "cn": "显性知识",
+   "en": "explicit knowledge",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.084",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以文字、符号、图形等方式表达的知识。通常以出版物、数据库、技术文档等形式存在。"
+  },
+  {
+   "cn": "显性主题",
+   "en": "explicit subject",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "文献明显论述的主题，即根据文献内容的字面表述能够直接概括出的主题。一般不易被标引者遗漏。"
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.080",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "有意识回忆先前经历的记忆过程。常用测验包括自由回忆、线索回忆和再认等。"
+  },
+  {
+   "cn": "外显编码",
+   "en": "explicit coding",
+   "source": "生物物理学名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "只需要一个神经元或神经元集群的活动就能表达某个特定对象的编码或表征。"
+  },
+  {
+   "cn": "显式并行性",
+   "en": "explicit parallelism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0158",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "通过硬件（如超长指令字）或软件（如并行线程）等明显地标示出来的并行性。"
+  },
+  {
+   "cn": "显格式",
+   "en": "explicit scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显式法",
+   "en": "explicit method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "显函数",
+   "en": "explicit function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "外显学习",
+   "en": "explicit learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外显记忆",
+   "en": "explicit memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外显知识",
+   "en": "explicit knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显格式",
+   "en": "explicit scheme",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "显式并行性",
+   "en": "explicit parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "显式路由",
+   "en": "explicit route",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "显式请求",
+   "en": "explicit request",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "显式预约",
+   "en": "explicit reservation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半显式格式",
+   "en": "semi-explicit scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显式差分格式",
+   "en": "explicit difference scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后向显式拥塞通知",
+   "en": "backward explicit congestion notification\",\"BECN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前向显式拥塞指示",
+   "en": "forward explicit congestion indication\",\"FECI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "迪布瓦，弗朗索瓦",
+   "en": "Dubois\",\"François Clément Théodore(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不灵敏核极化转移增益法",
+   "en": "INEPT （=insensitive nucleus enhance-ment by polarization transfer）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "隐函数",
+   "en": "implicit function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "隐式法",
+   "en": "implicit method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内隐自我主义",
+   "en": "implicit egotism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显性数据",
+   "en": "explicit data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目的明确",
+   "en": "explicit purpose",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "明确权限授予",
+   "en": "explicit permission grant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比显兴隐",
+   "en": "Make Analogy Explicit and Association Implicit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性数据",
+   "en": "implicit data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区段裁判员",
+   "en": "section judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网绳",
+   "en": "tension cord",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运动检测",
+   "en": "motion detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "显性成本",
+   "en": "explicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "通过成本会计计算得来的成本。"
+  },
+  {
+   "cn": "隐性成本",
+   "en": "implicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "易忽略的及难以测量的成本，包括作为成本项目的机器设备和厂房等固定资本折旧费、企业主自己投入的资本的利息、企业家才能应得的报酬等。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体感知外界事物后所产生的一种体验。包括正向体验如愉快、兴奋、满足和自豪等，负向体验如恐惧、抑郁、焦虑和紧张等。"
+  },
+  {
+   "cn": "运动",
+   "en": "motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0021",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的存在方式及其固有属性，包括一切物质形态的一切变化，从简单的位置变动到复杂的人类思维，都是运动形式。运动与物质不可分割，没有不运动的物质，也没有离开物质的运动。运动是永恒的、绝对的。物质运动的源泉"
+  },
+  {
+   "cn": "会同馆",
+   "en": "Huitong Mansion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0253",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "元、明、清三朝主管接待边疆少数民族及外国使臣的机构。初设于元至元九年（1272）。乾隆十三年（1748），将四译馆并入，更名为“会同四译馆”，由礼部管辖。"
+  },
+  {
+   "cn": "退休费",
+   "en": "pension expense",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.4",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "职工退休后，根据国家退休制度规定，以货币形式领取的生活费用。"
+  },
+  {
+   "cn": "伤残抚恤",
+   "en": "disability pension",
+   "source": "社会学名词",
+   "wordNumber": "4.3.11.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会优抚",
+   "subjectName": "社会优抚",
+   "publishYear": "2025",
+   "definition": "国家或政府依法对伤残军人及其家属提供保障其基本生活的现金或服务的社会优抚项目。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "消极情绪",
+   "en": "negative emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不能使人感到满足，使人与人之间的关系趋于紧张的情绪状态。如恐惧、痛苦、愤怒、忧虑等。"
+  },
+  {
+   "cn": "初级情绪",
+   "en": "primary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "在出生后第1年的早期出现的情绪。如快乐、厌恶、惊奇、悲伤、愤怒、恐惧。"
+  },
+  {
+   "cn": "次级情绪",
+   "en": "secondary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "2岁时出现的自我意识和自我评价的情绪。与认知发展有关，如尴尬、害羞、内疚、嫉妒和骄傲。"
+  },
+  {
+   "cn": "剖宫产术",
+   "en": "cesarean section",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.17.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经腹部和子宫切口娩出胎儿的一种外科手术方式。按手术时机分为择期剖宫产和急诊剖宫产两种。"
+  },
+  {
+   "cn": "道德情感",
+   "en": "moral emotion",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们基于一定的道德认识，对道德行为产生的爱憎或好恶的内心感受。对符合道德准则的行为感到满意、愉快、光荣，对不符合道德准则的行为感到义愤、内疚、羞耻。"
+  },
+  {
+   "cn": "绝对运动",
+   "en": "absolute motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0024",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "运动是物质的固有属性和根本存在方式，运动是普遍的、永恒的、无条件的，因而是绝对的。世界是永恒运动着的物质世界。"
+  },
+  {
+   "cn": "相对运动",
+   "en": "relative motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0025",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物体对特定参考系而言的相对位置的连续变动，运动是绝对的；但从不同的参考系观察运动的情况是不一样的。"
+  },
+  {
+   "cn": "反应截面",
+   "en": "reaction cross section",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.35",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "入射粒子和靶核之间发生特定核反应的概率。"
+  },
+  {
+   "cn": "四分体系",
+   "en": "four-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在部落社会两半族间平代通婚的基本制度（被称为“二分法”）的基础上，再加代际区分后所构成的四个类别。是对二分法更加精致的表述形式。以亲属制度为择偶规范，其中包含一整套类别间通婚和继嗣规则。"
+  },
+  {
+   "cn": "八分体系",
+   "en": "eight-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在四分法原有区分基础上再加一层亚半族区分（半族、亚半族和代别），由此构成部落社会外婚规则的八个类别，其中包含一整套类别间通婚和继嗣规则。用以协调和指导部落内半族和亚半族间的平代通婚。"
+  },
+  {
+   "cn": "剖宫产率",
+   "en": "cesarean section rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区采用剖宫产手术分娩的活产数，与同期当地活产数之比。"
+  },
+  {
+   "cn": "紧急剖宫产",
+   "en": "emergency cesarean section",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.10",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "产妇在发生先兆临产前、后进行的计划外剖宫产术，是快速终止妊娠、挽救孕产妇和胎儿生命的有效手段。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,642 @@
+{
+ "key": "people's intuitions",
+ "term": "people’s intuitions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:50:40+00:00",
+ "status": "ok",
+ "note": "variant=people’s intuitions; 审定公布名词库=213; 海峡两岸名词对照库=8; 其他来源数据库=118; 预公布名词数据库=116; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.579",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "一种不经逻辑分析而认识、了解事物的无意识的思维方式。具有快速、冲动的特点。包括认知、情感和行为等成分。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0395",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "人脑所具有的一种不经过逻辑推理或没有任何根据而突发性地直接把握对象的本质的能力。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "心理学名词",
+   "wordNumber": "02.676",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一种不经过分析、推理的认识过程而直接快速地进行判断的认识能力。"
+  },
+  {
+   "cn": "数学直觉",
+   "en": "mathematical intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.295",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "哲学上“直觉”的用法很多，针对不同的哲学，“直觉”有不同的含义和用法。从数学哲学的历史看，希尔伯特和布劳威尔关于“数学直觉”的思想受到康德哲学中“直觉”的影响。"
+  },
+  {
+   "cn": "语言直觉",
+   "en": "linguistic intuition",
+   "source": "语言学名词",
+   "wordNumber": "01.111",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "指人们对于自己使用的语言的判断能力，特别是判断一个句子是否能够接受以及句子之间是否具有关联性。既指对语言的直觉，也指如何对语言作分析的直觉。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitional knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.077",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "体现为一种先验的道德意识、内在的道德判断能力，同时也是主体的自觉性。当遇到不可预定的变化时，不必求助他人或经典，仅凭直觉就可以做出反应，判断道德上的是非问题，采取合适的道德行为。"
+  },
+  {
+   "cn": "直观教学",
+   "en": "intuitional instruction",
+   "source": "教育学名词",
+   "wordNumber": "04.088",
+   "subjectFullName": "教育学_外国教育史_近现代",
+   "subjectName": "近现代",
+   "publishYear": "2013",
+   "definition": "欧洲近代以经验主义和自然主义为基础，根据儿童思维发展的特点，在教学过程中采用具体形象的语言和教具进行教学的教育原则和方法。"
+  },
+  {
+   "cn": "直观法",
+   "en": "intuitional method",
+   "source": "教育学名词",
+   "wordNumber": "06.185",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "让幼儿运用看、听、闻、尝、触、摸等多种感官活动，直接感知所要认识的事物或现象，形成关于事物与现象的初步认识的教学方法。"
+  },
+  {
+   "cn": "直觉思维",
+   "en": "intuitive thinking",
+   "source": "心理学名词",
+   "wordNumber": "02.657",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对事物现象及其变化的直接感触而做判断的思维方式。"
+  },
+  {
+   "cn": "医学审美直觉",
+   "en": "medical aesthetic intuition",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.049",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "医学审美主体不以概念为媒介而对医学审美客体的直接观察和认识作用，经过内在心理的特殊处理而形成的一种顿悟性反映。"
+  },
+  {
+   "cn": "直观性原则",
+   "en": "principle of intuition",
+   "source": "教育学名词",
+   "wordNumber": "02.140",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教学原则之一。在教学中要通过学生观察所学事物、利用直观教具或教师语言的形象描述引导学生形成对所习得之事物、过程的清晰表象，丰富他们的感性知识，从而有利于他们正确理解书本知识和发展认识能力。"
+  },
+  {
+   "cn": "医学审美直觉",
+   "en": "medical aesthetic intuition",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0039",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "直观分析法",
+   "en": "intuitive analysis method",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.120",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "用比较极差大小的方法来分析各因素的影响的一种定性分析方法。"
+  },
+  {
+   "cn": "直觉思维法",
+   "en": "intuitive thinking method",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0084",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "充分利用直觉思维和灵感思维来得到问题新的解法或新的发现的方法。"
+  },
+  {
+   "cn": "直觉决策",
+   "en": "intuitive decision making",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0045",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "决策者将以往积累的、在某一特定领域丰富的知识、经验等信息重新加以认知，从而迅速做出的决策。"
+  },
+  {
+   "cn": "直觉的政策预测",
+   "en": "intuitive policy forecasting",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0256",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "预测者通过主观判断，而非基于归纳或演绎的推理方法，对未来情况所做的政策预测。"
+  },
+  {
+   "cn": "直觉动作思维",
+   "en": "intuitive-action thinking",
+   "source": "心理学名词",
+   "wordNumber": "02.658",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "依靠对事物的直接感知和实际动作解决问题的思维方式。"
+  },
+  {
+   "cn": "致良知",
+   "en": "zhi liang zhi;extension of innate or intuitive knowledge",
+   "source": "中国古代史名词",
+   "wordNumber": "8.504",
+   "subjectFullName": "中国古代史_明清_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "王阳明提出的以先天良知为目标的个人修养方法。"
+  },
+  {
+   "cn": "直觉主义",
+   "en": "intuitionism",
+   "source": "数学名词",
+   "wordNumber": "02.0305",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "直觉主义",
+   "en": "intuitionism; intuitionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.242",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "以布劳威尔为代表的一种数学哲学立场。认为数学是心灵的构造，一个数学命题的真等同于构造出关于它的证明。在直觉主义数学中，排中律不是普遍有效的，所有实数上的全函数都是连续的。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直觉学习",
+   "en": "intuitive learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直觉思维",
+   "en": "intuitive thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "惠民和济局",
+   "en": "People's Welfare Pharmacies",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "原住民",
+   "en": "indigenous people",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "海外犹太人",
+   "en": "diaspora people",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "原住民,自然人",
+   "en": "Naturv鰈ker\",\"the primitive peoples",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "惠民和剂局",
+   "en": "The Bureau of People's Welfare Pharma-cies",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "人民陪审员制度",
+   "en": "system of people’s assessors",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "人怨伤国",
+   "en": "People’s Grievances Harm the Country.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民心相通",
+   "en": "closer people-to-people ties",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "制民之产",
+   "en": "Sustaining the People's Livelihood",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人民代表大会制度",
+   "en": "the People's Congress system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世界人民的梦想",
+   "en": "reams of all peoples",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "养民",
+   "en": "Nurturing the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "爱民",
+   "en": "Love the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "惠民",
+   "en": "Benefit the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保民",
+   "en": "Protect the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人民法院信息化",
+   "en": "IT-based development of the people’s court",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "华南人民抗日游击队",
+   "en": "Southern China People’s Counter-Japanese Guerrilla Force",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "就业是最大的民生",
+   "en": "Employment is pivotal to people's wellbeing.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "民无信不立",
+   "en": "Without People’s Trust the State Will Not Survive.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中华人民共和国网络安全法》",
+   "en": "Cybersecurity Law of the People’s Republic of China",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感性直观",
+   "en": "perceptual intuition",
+   "source": "马克思主义",
+   "wordNumber": "01.0180",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在康德哲学中，感性直观可指称两个方面：（1）指“自在之物”作用于“自我”所引起的知觉和印象，称作“经验的直观”，这是后天得来的感性认识；（2）指纯粹的形式，即时间和空间，称作“纯粹直观”或“先天的直观"
+  },
+  {
+   "cn": "道德直觉",
+   "en": "moral intuition",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.025",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "无须借助经验证明和逻辑推理，凭借经验知识、记忆表象而作出的道德选择或道德评价。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitive knowledge",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.104",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与生俱来的、先天具有的判断是非善恶的道德意识和道德本能。是人的天赋善良本心的能动作用，主宰着人的一切道德行为，是人的最高的道德理性和道德本能。"
+  },
+  {
+   "cn": "科学中的直觉",
+   "en": "intuition in science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究中由移情作用、共同生活和社会心理状态等感性器官提供直接的感官证据。这些由生活体验构成的感官见证，对科学发现和研究起着激发作用，是证明有效科学知识的重要基础。"
+  },
+  {
+   "cn": "直观行动思维",
+   "en": "intuitive action thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "根据对事物现象及其变化的直接感触而做出判断的思维方式。"
+  },
+  {
+   "cn": "直觉主义伦理学",
+   "en": "ethical intuitionism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.159",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为道德概念和道德判断不能通过经验和理性来认识和确证，只能靠先天的道德直觉来把握的伦理学理论。包括：价值论直觉主义、义务论直觉主义。前者认为“善的”和“善的事物”只能通过直觉来直接接受它或否定它，而不"
+  },
+  {
+   "cn": "人民报刊",
+   "en": "peoples press",
+   "source": "马克思主义",
+   "wordNumber": "03.0143",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "专制制度下与官方、半官方报刊相对应的民主主义的民营报刊。在资本主义社会，它主要指与资产阶级创办的报刊相对应的工人创办的报刊。马克思、恩格斯常常利用这类报刊揭露资本主义的本质，并与各种错误思潮进行论战。"
+  },
+  {
+   "cn": "人民革命",
+   "en": "peoples revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0144",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以广大人民群众为主体的，旨在推翻旧的、落后的社会制度，建立新的、适合生产力发展要求的社会制度的社会运动。在资本主义社会，人民革命指无产阶级领导的、旨在推翻资产阶级统治的革命运动。"
+  },
+  {
+   "cn": "人民意志",
+   "en": "peoples will",
+   "source": "马克思主义",
+   "wordNumber": "03.0147",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广大人民群众的利益、愿望和要求。民主是人民意志的一种实现形式。但在奴隶社会、封建社会和资本主义社会生产资料私有制占统治地位和少数人成为统治阶级的时代，人民的意志并无法以“真正民主”或“实质民主”的形态"
+  },
+  {
+   "cn": "人民战争",
+   "en": "peoples war",
+   "source": "马克思主义",
+   "wordNumber": "03.0148",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "被压迫阶级或被压迫民族为谋求自身的解放，发动和依靠广大人民群众进行的战争。其基本原则是在政治、经济、军事上充分依靠广大人民群众。这种战争实行正规军与游击队相结合，武装群众与非武装群众相结合的作战方式。"
+  },
+  {
+   "cn": "人民教育",
+   "en": "peoples education",
+   "source": "马克思主义",
+   "wordNumber": "03.0465",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东教育思想的核心，体现社会主义教育的本质。毛泽东为1950年5月1日创刊的《人民教育》杂志题词：“恢复和发展人民教育是当前重要任务之一。”明确了教育为人民，人民办教育的办学方向。"
+  },
+  {
+   "cn": "人民民主",
+   "en": "peoples democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0763",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义民主的形式之一,社会主义国家人民当家作主、管理国家、实行无产阶级专政的国家形式。在苏联、东欧、中国等社会主义国家实行的一种政治制度，它体现了工人阶级等广大劳动人民的当家作主。人民民主本质上是社"
+  },
+  {
+   "cn": "人民宪章",
+   "en": "Peoples Charter",
+   "source": "马克思主义",
+   "wordNumber": "04.0034",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1838年5月8日，宪章派以法案的形式，公布了争取普选权的6点要求，即人民宪章。人民宪章为英国宪章运动的纲领性文件。宪章规定，年满21岁的成年男子都有选举权；无记名投票，保障选民运用其选举权；取消议员"
+  },
+  {
+   "cn": "人民委员会",
+   "en": "Peoples Committee",
+   "source": "马克思主义",
+   "wordNumber": "04.0422",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1946年3月以前苏联部长会议、各加盟共和国部长会议和自治共和国部长会议的正式名称。这一名称是1917年十月革命以后立即采用的，目的是强调新政府是按照苏维埃（代表群众）的意志建立的，政府各部门不再由传"
+  },
+  {
+   "cn": "人民武装",
+   "en": "peoples armed forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0146",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "属于人民群众，并为争取和保护人民的利益而战斗的武装力量。它与由反动政府掌握的武装力量相对立。在马克思和恩格斯的著作中，它经常指与反动政府控制的常备军相对的，由无产阶级和人民群众组成的非正规的武装力量。"
+  },
+  {
+   "cn": "人民直接管理",
+   "en": "peoples direct management",
+   "source": "马克思主义",
+   "wordNumber": "03.0149",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人民直接组织政府来管理国家和社会，是人民当家作主的一种管理形式。马克思和恩格斯认为，巴黎公社的组织原则就是人民直接管理。在共产主义社会，阶级、政党或其他政治组织消亡后，人民直接管理社会公共事务。"
+  },
+  {
+   "cn": "人民民主专政",
+   "en": "peoples democratic dictatorship",
+   "source": "马克思主义",
+   "wordNumber": "03.0341",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工人阶级（经过共产党）领导的、以工农联盟为基础的、实行人民民主和人民专政的国家政权。毛泽东指出：“对人民内部的民主方面和对反动派的专政方面，互相结合起来，就是人民民主专政。”中华人民共和国成立后，人民"
+  },
+  {
+   "cn": "全过程人民民主",
+   "en": "wholeprocess peoples democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0819",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在庆祝中国共产党成立100周年大会上，习近平指出：“践行以人民为中心的发展思想，发展全过程人民民主”。这一重要论断，深刻揭示了人民民主是一种与现实接通、与人民利益相连的具有操作性的民主形态，是我国人民"
+  },
+  {
+   "cn": "全民国家和全民党",
+   "en": "whole peoples country and the whole peoples party",
+   "source": "马克思主义",
+   "wordNumber": "05.0222",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1961年10月苏共在其二十二大纲领中提出的观点。苏共认为：“无产阶级专政在保证社会主义，即共产主义第一阶段取得完全的最终的胜利，保证社会过渡到全面展开的共产主义建设之后，就完成了自己的历史使命；从国"
+  },
+  {
+   "cn": "泰国人",
+   "en": "Thai people",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0136",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "亚洲现代民族（nation)，拥有泰王国国籍和公民身份的人们共同体。人口约为6619 万（2020年）。全国共有30 多个民族。泰语为国语。90%以上的民众信仰佛教，马来族信奉伊斯兰教，还有少数民众信"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

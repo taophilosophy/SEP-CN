@@ -1,0 +1,752 @@
+{
+ "key": "condition requires",
+ "term": "Condition requires",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:51:51+00:00",
+ "status": "ok",
+ "note": "variant=Condition requires; 审定公布名词库=1372; 海峡两岸名词对照库=358; 其他来源数据库=135; 预公布名词数据库=51; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "需要量",
+   "en": "requirement",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_基础研究",
+   "subjectName": "基础研究",
+   "publishYear": "2019",
+   "definition": "在最适宜环境条件下，正常、健康生长或达到理想状态对各种营养物质种类和数量的最低要求。一个群体平均值，不包括一切可能增加需要量而设定的保险系数。"
+  },
+  {
+   "cn": "需求",
+   "en": "requirement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0230",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "可计算性中的一个条件通常涉及所有图灵机，因此每一个图灵机要求一个子条件，这个子条件就称为一个需求。"
+  },
+  {
+   "cn": "需求",
+   "en": "requirement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0127",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "用户或其他利益相关者对被开发的软件产品所提出的要求和期望，包括功能需求和非功能需求。"
+  },
+  {
+   "cn": "要求",
+   "en": "requirement",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0537",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "明示的、通常隐含的或必须履行的需求或期望。"
+  },
+  {
+   "cn": "工程地质条件",
+   "en": "engineering geologic requirement,engineering geologic condition",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0063",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0693",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "基本网系统中，条件集 B 的元素称为条件。条件类似于一般佩特里网中的库所，不过它的容量值为1。"
+  },
+  {
+   "cn": "即位条件",
+   "en": "Conditions",
+   "source": "世界历史名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国最高枢密院为限制君主制，于1730年对安娜女皇登基所提出的条件。安娜表示应允，后又拒绝，并解散了最高枢密院。"
+  },
+  {
+   "cn": "法定准备金",
+   "en": "required reserve",
+   "source": "经济学名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "为了保持商业银行的流动性，中央银行规定的商业银行必须存在中央银行的存款。"
+  },
+  {
+   "cn": "保留图书",
+   "en": "required reading",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.481",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "（1）从一般馆藏中挑选出来单独收藏并限制借阅期限的藏书。通常为“热门”书刊、教学中指定学生阅读的参考书等。这类文献多有相对固定的利用期，所以保留藏书通常是临时的。（2）供推荐购书者优先借阅的图书。"
+  },
+  {
+   "cn": "必要功能",
+   "en": "required function",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0707",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "在当前设计方式下，为支撑基本功能而必需的辅助功能。"
+  },
+  {
+   "cn": "必备要素",
+   "en": "required element",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0853",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "在标准中必须存在的要素。"
+  },
+  {
+   "cn": "需用产能",
+   "en": "required capacity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0161",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在特定期限内完成某一预定产出所必需的产能。"
+  },
+  {
+   "cn": "必修课程",
+   "en": "required course",
+   "source": "教育学名词",
+   "wordNumber": "02.053",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "在一定阶段学习的学生必须修读的课程。是为保证这一阶段所有学生的基本学力而开发的课程。"
+  },
+  {
+   "cn": "需用推力",
+   "en": "thrust required",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.281",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "维持航空器作水平等速直线飞行所需的推力。"
+  },
+  {
+   "cn": "需用功率",
+   "en": "power required",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.282",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "维持航空器水平等速直线飞行所需的功率。"
+  },
+  {
+   "cn": "需求时间",
+   "en": "required time",
+   "source": "电气工程名词",
+   "wordNumber": "28.102",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "需风量",
+   "en": "required airflow",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "08.012",
+   "subjectFullName": "煤炭科学技术_煤矿安全_矿山通风",
+   "subjectName": "矿山通风",
+   "publishYear": "1996",
+   "definition": "为供人员呼吸，稀释和排出有害气体、浮尘，以创造良好气候条件所需要的风量。"
+  },
+  {
+   "cn": "需求时间",
+   "en": "required time",
+   "source": "电子学名词",
+   "wordNumber": "18.101",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "调质",
+   "en": "conditioning",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "粉状物料或料坯经水、热处理，特性产生明显变化的工序。可使淀粉部分糊化、蛋白质变性、有害病菌灭活、有害因子钝化及物料软化，提高制粒质量和效能。"
+  },
+  {
+   "cn": "调浆",
+   "en": "conditioning",
+   "source": "冶金学名词",
+   "wordNumber": "03.0070",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "将矿粉或矿浆调节成所需要的矿浆浓度或使矿浆与药剂充分混合的过程。"
+  },
+  {
+   "cn": "需求",
+   "en": "requirement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求时间",
+   "en": "required time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "需光量",
+   "en": "light requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "功需要量",
+   "en": "work requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "通风需求",
+   "en": "ventilation requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "功率需要量",
+   "en": "power requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "需光量",
+   "en": "light requirement",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "需水量",
+   "en": "water requirement",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "额定保证金",
+   "en": "margin requirement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "需氧量",
+   "en": "oxygen requirement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "养分需要",
+   "en": "nutrient requirement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "营养需要",
+   "en": "nutritional requirement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间需求",
+   "en": "space requirement",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "规定速度",
+   "en": "speed required",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求分析",
+   "en": "requirement analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "漏掉规定动作",
+   "en": "missing required element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准化需求",
+   "en": "Data Standardization Requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户文档要求",
+   "en": "user documentation requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准扩展性需求",
+   "en": "extensibility requirement of standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全通用要求",
+   "en": "general requirement for security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全扩展要求",
+   "en": "special requirement for security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "善胜兵者，先自修理",
+   "en": "Success in War Requires Good Organization.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用例需求工作组",
+   "en": "Use Cases and Requirements Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "必备要素",
+   "en": "required element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中必不可少的要素。"
+  },
+  {
+   "cn": "建筑要求",
+   "en": "construction requirement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "为满足生产、生活的良好环境条件，对建设用地上的建筑物布置和建筑物之间的群体关系做出的技术规定。"
+  },
+  {
+   "cn": "儿童能量需要量",
+   "en": "child energy requirement",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "儿童基础代谢、生长所需、食物的热力作用、活动和排泄损耗所需的能量总和。"
+  },
+  {
+   "cn": "四个必然要求",
+   "en": "four inevitable requirements",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0148",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "铸牢中华民族共同体意识是维护各民族根本利益的必然要求，是实现中华民族伟大复兴的必然要求，是巩固和发展平等团结互助和谐社会主义民族关系的必然要求，是党的民族工作开创新局面的必然要求。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "气体安全要求",
+   "en": "safety requirement of gases",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.17",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "考虑其他的溶解性和活性对气体安全进行分类。SR代表安全要求（safety requirement），SR-0气体在呼吸道任何部位都不会被明显吸收，SR-1气体会导致每个区域的部分吸收，SR-2气体在胸"
+  },
+  {
+   "cn": "平均需要量",
+   "en": "estimated average requirement, EAR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某一特定性别、年龄及生理状况群体中个体对某营养素需求量的平均值。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "最低执行限量",
+   "en": "minimum required performance limit, MRPL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.46",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "样品中至少必须检出和确证的分析物的最小含量"
+  },
+  {
+   "cn": "放射工作人员健康要求",
+   "en": "health requirements for radiation worker",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.25",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "在正常、异常或紧急情况下，放射工作人员都能准确无误地履行其职责的健康条件。"
+  },
+  {
+   "cn": "中国式现代化的本质要求",
+   "en": "essential requirements of Chinese modernization",
+   "source": "马克思主义",
+   "wordNumber": "03.0822",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持中国共产党领导，坚持中国特色社会主义，实现高质量发展，发展全过程人民民主，丰富人民精神世界，实现全体人民共同富裕，促进人与自然和谐共生，推动构建人类命运共同体，创造人类文明新形态。"
+  },
+  {
+   "cn": "青春期女性营养需要",
+   "en": "nutritional requirement of adolescent girl",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "女性在青春期为维持生命、生长发育和各种生理活动对营养素需求的生理状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

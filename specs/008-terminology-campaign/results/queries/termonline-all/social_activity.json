@@ -1,0 +1,722 @@
+{
+ "key": "social activity",
+ "term": "social activity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:38:37+00:00",
+ "status": "ok",
+ "note": "variant=social activity; 审定公布名词库=5615; 海峡两岸名词对照库=1513; 其他来源数据库=188; 预公布名词数据库=835; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "社交活动",
+   "en": "social activity",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.013",
+   "subjectFullName": "物理医学与康复_康复功能评定_康复信息",
+   "subjectName": "康复信息",
+   "publishYear": "2014",
+   "definition": "人与人之间进行的交往、互动。有广义和狭义之分，广义的社交活动包括平时在路上碰见熟人打招呼，与别人通电话等；狭义的社交活动就是参加一定时间内在固定场所举行的特定人群的活动，比如酒会、舞会、新闻发布会、相"
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "行为医学名词",
+   "wordNumber": "1.027",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "集体活动中的个体或社会成员表现出的有利于集体和社会发展的特性。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "行为医学名词",
+   "wordNumber": "5.002",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体接受社会教化、习得言语、行为及其内在心理结构，从自然人转为合格社会成员的过程。"
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "动物学名词",
+   "wordNumber": "7.0319",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "个体在特定的社群生活环境中，通过各种学习行为调整自己的适应性并积极作用于社群生活的过程。是动物个体和社群相互作用的结果。"
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "动物学名词",
+   "wordNumber": "7.032",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "动物种群中的个体倾向于在社会群体中形成合作社会的程度。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0739",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "通过面对面的个人经验交流来分享隐性知识的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "心理学名词",
+   "wordNumber": "07.010",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "地质学名词",
+   "wordNumber": "13.01.107",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "为使理想溶液(或极稀溶液)的热力学公式适用于实际溶液，用来代替浓度的一种物理量。在电解质溶液中指实际发挥作用的有效浓度。有效浓度与实际浓度的比值称为“活度系数（activity coefficient"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0174",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）某种物质的化学或物理反应能力。如某种酶、药物、激素或其他物质的效能。 （2）某种放射活性物质的强度。"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.084",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "对于生物反应，是表示酶、细胞等促进反应的能力。"
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "行为医学名词",
+   "wordNumber": "1.012",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "（1）机体运动或为某种目的而行动。（2）一切物体（事物）的动态变化。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.054",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_电镀与化学镀",
+   "subjectName": "电镀与化学镀",
+   "publishYear": "2021",
+   "definition": "在标准状态下，溶液中组分的热力学浓度。即矫正真实溶液与理想溶液性质的偏差。"
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "运动医学名词",
+   "wordNumber": "07.070",
+   "subjectFullName": "运动医学_运动康复_物理治疗技术_运动治疗",
+   "subjectName": "运动治疗",
+   "publishYear": "2019",
+   "definition": "泛指一切物体或事物的动态变化。在运动医学与康复医学范畴特指与躯体运动相关的动态变化。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "冶金学名词",
+   "wordNumber": "04.0159",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "为校正真实溶液对理想液态混合物所产生的偏差引入的概念，为组元在真实溶液中表现出的实际活动能力。活度是与浓度比值或分压比值有关的无量纲量。"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1111",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1108",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1109",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0219",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "为使理想溶液的热力学公式适用于真实溶液，用来代替浓度的一种物理量。即某物质的“有效浓度”。"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1108",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0160",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "能够独立执行的工作单元。是工作流的基本构成单位。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活化，激活",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂，激活剂",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活（=活化）",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活剂（=活化剂）",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化",
+   "en": "activation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活化［作用］",
+   "en": "activation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交金融",
+   "en": "Social Finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交基金",
+   "en": "social fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交性投资者",
+   "en": "social investor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会技术",
+   "en": "social technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会救济",
+   "en": "social remedy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会活动",
+   "en": "social activity",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会成员彼此为对象，为了共同的利益、目标、或兴趣所从事的种种集体活动。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "社会规范和文化价值在个体身上内化(internalize)的过程。个体在家庭、学校等社会环境中，通过多种形式的人际互动，以及知识、技能的学习，学会扮演社会角色，认同并接受群体的规范体系和意义体系，并依"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0158",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过社会互动而形成个体的社会属性，促使个体与社会保持一致性，实现个体的社会生活的过程。具体来说，是自然人通过各种方式逐渐学习社会知识、技能与规范，熟悉社会的风俗、习惯、道德、法律，确立生活目标、价值观"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0170",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与资本主义对立的思想体系和社会制度。社会主义一词来源于古拉丁文，一说由socialis（同伴的、同伙的）一词引出，一说由socius（喜欢社交的）一词引出，原有社会的、共同的、集体的生活之意。科学社会"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "自然人成长为社会人的过程。即一个人出生以后，通过与其他社会成员、群体和组织的互动、学习和接受社会知识、技能和规范，不断适应社会生活的过程。"
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  },
+  {
+   "cn": "社会福利社会化",
+   "en": "socialization of social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "中国经济体制改革后社会福利领域改革的指导思想，即从计划经济下福利制度中的单位小社会转向建设市场经济为导向下的社会保障制度。包括投资主体多元化、服务对象公众化、服务方式多样化和服务队伍专业化四个方面的内"
+  },
+  {
+   "cn": "社会主义社会建设",
+   "en": "social construction of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0689",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义的社会建设中“社会”是整个社会主义社会发展中与其经济、政治、文化相并列的一个领域。社会主义的社会建设，是通过动员社会力量、整合社会资源、协调利益关系、发展社会事业、完善社会功能、健全社会保障、"
+  },
+  {
+   "cn": "社会支持",
+   "en": "social support",
+   "source": "社会医学名词",
+   "wordNumber": "3.5",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "通过帮助或安慰他人，协助其应对生理、心理及社会压力的行为。支持来源于个人社会网络，包括家庭成员、朋友或支持团体等。支持形式包括实际帮助、物质援助及情感支持。"
+  },
+  {
+   "cn": "社会功能状态",
+   "en": "social wellbeing",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "反映个体参与基本和复杂人际互动的状态。包含社会交往和社会资源。"
+  },
+  {
+   "cn": "社会公正",
+   "en": "social justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0269999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "社会行为层面的公正。政府在分配社会资源时公而不偏，根据基本需求人人平等，非基本需求合理差等原则进行宏观卫生资源的分配。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0087",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个体认识到他属于特定的社会群体，同时也认识到作为群体成员带给他的情感和价值意义。"
+  },
+  {
+   "cn": "社会侵蚀",
+   "en": "social erosion",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.24",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国乡村在近代遭遇的农村经济破产和社会结构破坏的双重过程。费孝通在20世纪40年代提出，一方面城镇资本通过地租加重对乡村剥夺，另一方面农民遭遇金融竭蹶而抵押土地借高利贷，使乡村地权外流，由此失去生活保"
+  },
+  {
+   "cn": "社会约制",
+   "en": "social control",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.35",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "以积极或消极的方式使人团体化、社会化，不致于妨碍社会、逾越团体的方式。这一概念源于西方，最早由吴泽霖引入中国。社会约制的需要来自四种比较普遍的心理：保守心、好新心、求显心、社交心。约制的方法有两类：武"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

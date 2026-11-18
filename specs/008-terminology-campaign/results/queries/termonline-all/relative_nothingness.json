@@ -1,0 +1,682 @@
+{
+ "key": "relative nothingness",
+ "term": "relative nothingness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:47:58+00:00",
+ "status": "ok",
+ "note": "variant=relative nothingness; 审定公布名词库=1316; 海峡两岸名词对照库=467; 其他来源数据库=30; 预公布名词数据库=59; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "相对性",
+   "en": "relativity",
+   "source": "物理学名词",
+   "wordNumber": "06.0001",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "地质学名词",
+   "wordNumber": "18.03.016",
+   "subjectFullName": "地质学_环境地质学_农业生态地质环境",
+   "subjectName": "农业生态地质环境",
+   "publishYear": "2026",
+   "definition": "空气中水汽压与相同温度下饱和水汽压的百分比；或湿空气的绝对湿度与相同温度下可能达到的最大绝对湿度之比；也可表示为湿空气中水蒸气分压力与相同温度下水的饱和压力之比。"
+  },
+  {
+   "cn": "相对丰度",
+   "en": "relative abundance",
+   "source": "地质学名词",
+   "wordNumber": "13.02.048",
+   "subjectFullName": "地质学_地球化学_元素地球化学",
+   "subjectName": "元素地球化学",
+   "publishYear": "2026",
+   "definition": "元素丰度的表示方法之一。以某种元素为基数表示的元素丰度相对比值。例如常以原子数/10⁶硅原子(或10⁴硅原子、10²硅原子)为单位表示的元素丰度值。其中，以原子数/10⁶硅原子为单位的相对丰度常用于宇"
+  },
+  {
+   "cn": "相对时代",
+   "en": "relative age",
+   "source": "地质学名词",
+   "wordNumber": "07.01.030",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "运用生物地层学方法确定的地层相对新老关系或时代相对早晚顺序。如奥陶纪是晚于寒武纪，早于志留纪的一段时间，所确定的地层单位的时代是相对的。"
+  },
+  {
+   "cn": "相对密实度",
+   "en": "relative compactedness",
+   "source": "地质学名词",
+   "wordNumber": "17.02.109",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "砂类土最大孔隙比与天然孔隙比之差和最大孔隙比与最小孔隙比之差的比值。是无黏性粗粒土密实程度的指标。根据此指标，可将砂类土的密实程度划分为疏松的、中等的和紧密的3类。"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "农学名词",
+   "wordNumber": "13.062",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "空气中实际水汽压与同温度下饱和水汽压之比。用于表征空气中水汽多少的物理量，用百分率表示。"
+  },
+  {
+   "cn": "相对性状",
+   "en": "relative character",
+   "source": "农学名词",
+   "wordNumber": "06.125",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由一对等位基因所决定并有明显差异的性状。"
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "农学名词",
+   "wordNumber": "19.240",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "相对于社会平均生活水平有一段差距的贫困状态。"
+  },
+  {
+   "cn": "相对迁移率",
+   "en": "relative mobility",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0077",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_电泳技术",
+   "subjectName": "电泳技术",
+   "publishYear": "2024",
+   "definition": "电泳或薄层层析等分离时，样品（如蛋白质、核酸等）相对移动速度的表示方法。一般多以标准分子量物质或前沿染料移动距离做参照来计算。"
+  },
+  {
+   "cn": "相对运动",
+   "en": "relative motion",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.054",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "基于某种参照系观测到的客观事物运动。受观测者所使用参照系的影响，无法确认事物是否属于绝对运动，但可以通过相对运动的“变化规律”来理解和描述绝对运动。"
+  },
+  {
+   "cn": "相对空间",
+   "en": "relative space",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.057",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "边界与形态受观测者所使用参考系影响的空间，是被特定方法观测到的空间。人类通过相对空间的特征变化与规律，来理解绝对空间。"
+  },
+  {
+   "cn": "相对时间",
+   "en": "relative time",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.062",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "基于某种观察条件所获得的时间参量值。伽利略揭示，对“空间”参量不能采用上帝式直观来赋值。爱因斯坦相对论揭示，对“时间”参量也不能用上帝式直观来赋值。"
+  },
+  {
+   "cn": "相对专一性",
+   "en": "relative specificity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0056",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "某种酶可作用于一类化合物或一种化学键催化一类化学反应的现象。如脂肪酶不仅水解脂肪，也能水解简单的酯类；磷酸酶对一般的磷酸酯都有作用，无论是甘油的还是一元醇或酚的磷酸酯均可被其水解。"
+  },
+  {
+   "cn": "相对生物利用度",
+   "en": "relative bioavailability",
+   "source": "麻醉学名词",
+   "wordNumber": "02.028",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "某药物指定剂型的利用度按100%计算时，该药物其他剂型在相同剂量下吸收的百分率。"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.164",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_睡眠环境与睡眠卫生",
+   "subjectName": "睡眠环境与睡眠卫生",
+   "publishYear": "2022",
+   "definition": "单位体积空气中，实际水蒸气的分压与相同温度和体积下水饱和蒸气压的百分比。也就是绝对湿度与最高湿度的比值，其数值显示水蒸气的饱和度。"
+  },
+  {
+   "cn": "相对密度",
+   "en": "relative density",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.065",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "减去片基或未印刷的承印物的密度后的密度值。"
+  },
+  {
+   "cn": "相对灵敏度",
+   "en": "relative sensitivity",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.02.077",
+   "subjectFullName": "编辑与出版学_音像复制_磁带复制",
+   "subjectName": "磁带复制",
+   "publishYear": "2022",
+   "definition": "在被测磁带和基准带上，以基准偏磁和相同音频电流所录两信号的输出电平之差，以分贝表示。"
+  },
+  {
+   "cn": "相对剥夺感",
+   "en": "relative deprivation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.212",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "个人感觉对被剥夺了自己认为有权享受的东西的不满体验，或是个人合理的期待与实际得到的价值之间存在差距的感受。缘于个人根据自己的教育水平、知识能力、工作努力、家世条件等，期望得到一定的社会地位及收入，如果"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity ",
+   "source": "草学名词",
+   "wordNumber": "3.0685",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "相对定位",
+   "en": "relative positioning",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1355",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "通过在多个测站上进行同步观测，测定测站之间相对位置的工作。 "
+  },
+  {
+   "cn": "关系调",
+   "en": "relative",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相对紧张度，相对挺胀度",
+   "en": "relative turgidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对挺胀度（=相对紧张度）",
+   "en": "relative turgidity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "厚度型",
+   "en": "relative topography",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对日照",
+   "en": "relative sunshine",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对涡度",
+   "en": "relative vorticity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对丰度",
+   "en": "relative abundance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对黑度",
+   "en": "relative blackness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对饱和度",
+   "en": "relative saturation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对吸收率",
+   "en": "relative absorptivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对增益",
+   "en": "relative gain",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对黏度",
+   "en": "relative viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对挥发度",
+   "en": "relative volatility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对误差",
+   "en": "relative error",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对吸附能力",
+   "en": "relative adsorptivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对速度",
+   "en": "relative velocity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对偏差",
+   "en": "relative deviation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对过饱和度",
+   "en": "relative supersaturation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无往不复",
+   "en": "Nothing That Disappears Fails to Reappear.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兄弟齐心，其利断金",
+   "en": "When brothers come together, there is nothing they cannot achieve.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "顺无不行，果无不彻",
+   "en": "When What You Say Is Justified, There Is Nothing You Cannot Accomplish. When You Act Decisively, You Will Succeed.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假阴性",
+   "en": "false negative",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对剥夺",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "缺乏某种事物的人与拥有这种事物的人相比较，感觉自己应该拥有的东西被剥夺的一种主观感受。由社会心理学家斯托福尔(Samuel Stouffer）等人提出。被广泛应用于社会不平等和社会公正问题讨论。与“绝"
+  },
+  {
+   "cn": "相对剥夺感",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "人们对自己的现实处境与某种预期或者某种参照物相比较时，对两者之间的差异产生的不满足的消极感受。"
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "社会成员基本生存需求得到满足，没有机会或能力体验当地一定经济社会条件下所公认的生活水准的状态。世界银行《1981年世界发展报告》的描述是：“当某些人、某些家庭或某些群体没有足够的资源去获取他们那个社会"
+  },
+  {
+   "cn": "相对运动",
+   "en": "relative motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0025",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物体对特定参考系而言的相对位置的连续变动，运动是绝对的；但从不同的参考系观察运动的情况是不一样的。"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0210",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的相对性。(1)从整个物质世界来说，任何真理只是对无限宇宙的一个部分、一个方面的正确认识。世界上尚有许多事物、方面没有被认识或未被完全认识。(2)从某一特定事物来说，任何真理性认识，只是对它的某些"
+  },
+  {
+   "cn": "相对工资",
+   "en": "relative wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0148",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“绝对工资”相对应。一国工人单位时间的工资与外国工人单位时间工资的比值。在国际贸易理论中，决定各国之间诸类贸易问题的多是各国的相对工资水平，而非绝对工资水平。同样，在说明一国工资水平对国际贸易的影响"
+  },
+  {
+   "cn": "相对贫困化",
+   "en": "relative pauperization",
+   "source": "马克思主义",
+   "wordNumber": "02.0171",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义社会中无产阶级在社会国民收入中所得份额相对下降的趋势。随着劳动生产率的提高，使工人工作日中的必要劳动时间缩短，剩余劳动时间延长，因而剩余价值率和剩余价值量不断提高，无产阶级的收入在整个国民收入"
+  },
+  {
+   "cn": "相对危险度",
+   "en": "relative risk",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.39",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "一种反映暴露与发病（死亡）关联强度的指标，表明暴露组发病（死亡）的危险是对照组的多少倍，通常包括率比和危险度比。"
+  },
+  {
+   "cn": "相对密度",
+   "en": "relative density",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "一定温度下，一定体积的香料或香精的质量与相同温度下同样体积的蒸馏水的质量之比。是香料或香精的主要理化指标之一。"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "在一定温度下，空气中实际水汽压与同温度下的饱和水汽压的百分比。"
+  },
+  {
+   "cn": "相对静止",
+   "en": "relatively static",
+   "source": "马克思主义",
+   "wordNumber": "01.0026",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质运动的一种特殊状态，标志物质的绝对运动在一定条件下、一定范围内出现的暂时稳定与平衡的状态。"
+  },
+  {
+   "cn": "文化相对性",
+   "en": "cultural relativity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "一个判断文化差异之价值的概念和观念。强调特定的社会、自然环境产生特定的文化。在不同文化中，其行为准则、行为模式之价值必须以该文化系统自身之标准来衡量。"
+  },
+  {
+   "cn": "相对危险",
+   "en": "relative risk，RR",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "反映暴露与发病（死亡）关联强度的指标。表明暴露组发病（死亡）的危险是对照组的倍数，通常包括率比和危险度比。"
+  },
+  {
+   "cn": "相对探测效率",
+   "en": "relative detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "在探测器探头前表面距离为25cm处，HPGe探测器与标准的圆柱形NaI（Tl）闪烁晶体（Φ×h：7.62cm×7.62cm）探测器测量60Co源1332.49keVγ射线的全能峰峰面积的比值。"
+  },
+  {
+   "cn": "相对扩展不确定度",
+   "en": "relative expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.28",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "扩展不确定度除以测量结果的百分率。"
+  },
+  {
+   "cn": "相对均匀分布",
+   "en": "relative uniform distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.31",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在全身各组织或器官内相对平均的分布。"
+  },
+  {
+   "cn": "相对表面剂量",
+   "en": "relative surface dose",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.41",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "模体表面处于一特定距离时，在模体中辐射束轴上0.5 mm深度处的吸收剂量与最大吸收剂量的比值。"
+  },
+  {
+   "cn": "相对剩余价值",
+   "en": "relative surplus value",
+   "source": "马克思主义",
+   "wordNumber": "02.0123",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在工作日长度不变的条件下，要获取更多的剩余价值就只能通过缩短必要劳动时间，从而相应延长剩余劳动时间的办法来实现。这种通过缩短必要劳动时间，相应地延长剩余劳动时间而生产的剩余价值，叫做相对剩余价值。"
+  },
+  {
+   "cn": "相对过剩人口",
+   "en": "relative surplus population",
+   "source": "马克思主义",
+   "wordNumber": "02.0167",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义社会中相对于资本增值需要而过剩的处于失业、半失业状态的人口。劳动力的供给超过资本对它的需要的相对过剩人口有三种形式：流动过剩人口指短期内失业的工人，主要存在于城市和工业中心；潜在过剩人口指农业"
+  },
+  {
+   "cn": "相对生物效能",
+   "en": "relative biological effectiveness，RBE",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.23",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "X射线或γ射线引起某一生物效应所需剂量与所观察的电离辐射引起同等生物效应所需剂量的比值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

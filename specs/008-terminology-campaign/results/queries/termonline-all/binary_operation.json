@@ -1,0 +1,692 @@
+{
+ "key": "binary operation",
+ "term": "binary operation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:34:24+00:00",
+ "status": "ok",
+ "note": "variant=binary operation; 审定公布名词库=2443; 海峡两岸名词对照库=623; 其他来源数据库=138; 预公布名词数据库=112; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "二进制操作",
+   "en": "binary operation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0290",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "对二进制数所进行的操作或运算。"
+  },
+  {
+   "cn": "二元运算",
+   "en": "binary operation",
+   "source": "数学名词",
+   "wordNumber": "03.0335",
+   "subjectFullName": "数学_组合学·一般数学系统_泛代数",
+   "subjectName": "泛代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二进制",
+   "en": "binary",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.185",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "使用数码0和1，以及基数2的固定基数数制。"
+  },
+  {
+   "cn": "二进制[的]",
+   "en": "binary",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.167",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以2为基数的计数制。其中只有两个可能的不同值或状态的选择、机会或状况。"
+  },
+  {
+   "cn": "二元系相图",
+   "en": "binary diagram",
+   "source": "地质学名词",
+   "wordNumber": "13.05.031",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "独立组分数为2的体系相图。常用压力-组分图、温度-组分图等表示相平衡的关系。"
+  },
+  {
+   "cn": "双重星系",
+   "en": "binary galaxies",
+   "source": "天文学名词",
+   "wordNumber": "08.788",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "两个视位置很接近的星系，或具有物理联系，或由投影效应所致。"
+  },
+  {
+   "cn": "二体碰撞",
+   "en": "binary collision",
+   "source": "天文学名词",
+   "wordNumber": "03.026",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "多体问题中的两个质点相碰的现象。"
+  },
+  {
+   "cn": "双星出现率",
+   "en": "binary frequency",
+   "source": "天文学名词",
+   "wordNumber": "08.056",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "属于双星的恒星在全部恒星中所占的比例。"
+  },
+  {
+   "cn": "吸积双星",
+   "en": "accreting binary",
+   "source": "天文学名词",
+   "wordNumber": "08.151",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "主星与伴星之间有吸积物质流的一类密近双星。"
+  },
+  {
+   "cn": "活动双星",
+   "en": "active binary",
+   "source": "天文学名词",
+   "wordNumber": "08.152",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "表现出强的Hα发射，CaⅡ的H，K线发射，射电和X射线发射以及光变曲随时间变化等活动现象的双星。"
+  },
+  {
+   "cn": "天体测量双星",
+   "en": "astrometric binary",
+   "source": "天文学名词",
+   "wordNumber": "08.160",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "通过天体测量方法发现其自行行迹为曲线，并可用存在某伴星来解释其行迹而发现的物理双星。"
+  },
+  {
+   "cn": "[射电]脉冲双星",
+   "en": "binary pulsar",
+   "source": "天文学名词",
+   "wordNumber": "08.169",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "子星之一是射电脉冲星的物理双星。"
+  },
+  {
+   "cn": "双星系统",
+   "en": "binary system",
+   "source": "天文学名词",
+   "wordNumber": "08.171",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "两颗恒星组成的恒星系统。"
+  },
+  {
+   "cn": "激变双星",
+   "en": "cataclysmic binary",
+   "source": "天文学名词",
+   "wordNumber": "08.188",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "由一颗白矮星和一颗充满洛希瓣、一般为晚型恒星组成的、亮度变化和质量转移密切相关的半接双星。"
+  },
+  {
+   "cn": "椭球双星",
+   "en": "ellipsoidal binary",
+   "source": "天文学名词",
+   "wordNumber": "08.227",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "两子星呈椭球状，因其合成亮度随位相 (轨道上的相对位置)按一定规律变化而被发现的物理双星。"
+  },
+  {
+   "cn": "硬双星",
+   "en": "hard binary",
+   "source": "天文学名词",
+   "wordNumber": "08.253",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "处在大批快速运动小质量天体(简称“质点”)环境中的结合能比环境温度(后者以速度弥散的平方与质点平均质量的乘积来表示)高得多的物理双星。"
+  },
+  {
+   "cn": "互作用双星",
+   "en": "interacting binary",
+   "source": "天文学名词",
+   "wordNumber": "08.270",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "两子星的演化与单星显著不同的密近双星。"
+  },
+  {
+   "cn": "干涉双星",
+   "en": "interferometric binary",
+   "source": "天文学名词",
+   "wordNumber": "08.274",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "能用干涉测量法判知的物理双星。"
+  },
+  {
+   "cn": "视双星",
+   "en": "apparent binary",
+   "source": "天文学名词",
+   "wordNumber": "08.325",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "视位置很靠近但没有物理联系的两颗恒星。"
+  },
+  {
+   "cn": "过接双星",
+   "en": "overcontact binary",
+   "source": "天文学名词",
+   "wordNumber": "08.327",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "相接双星中两颗子星的中心之间距离小于两颗子星的半径之和的双星。"
+  },
+  {
+   "cn": "二进制运算",
+   "en": "binary operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二进制[的]",
+   "en": "binary",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二进制",
+   "en": "binary",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二进制[的]",
+   "en": "binary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二元性状",
+   "en": "binary character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双名",
+   "en": "binary name",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双名组合",
+   "en": "binary combination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二叉树",
+   "en": "binary tree",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双气旋",
+   "en": "binary cyclones",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双台风",
+   "en": "binary typhoons",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二元催化剂",
+   "en": "binary catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双循环",
+   "en": "binary cycle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二元共沸液",
+   "en": "binary azeotrope",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二元蒸馏",
+   "en": "binary distillation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二元系［统］",
+   "en": "binary system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二元混和物",
+   "en": "binary mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二段体",
+   "en": "binary form",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "爆发双星",
+   "en": "eruptive binary",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "测光双星",
+   "en": "photometric binary",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "磁双星",
+   "en": "magnetic binary",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "工作人员",
+   "en": "operator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无边界经营",
+   "en": "borderless operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运营优化",
+   "en": "operation optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协作操作",
+   "en": "collaborative operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“清乡”",
+   "en": "“pacification” operation",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "操作系统",
+   "en": "operating system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "操作风险",
+   "en": "operational risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "操作技术",
+   "en": "operational technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二分型",
+   "en": "binary",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "仅使用两个类别去测量一个性质或属性的测量方式。"
+  },
+  {
+   "cn": "二元对立",
+   "en": "binary opposition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0571",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一组意义相反的概念，彼此相互排斥、形成对比，但并非是一种矛盾关系，而是结构的、互为补充的关系。在瑞士语言学家索绪尔开创的结构语言学中，通过二元对立可建立语言单位的意义，每一个单位通过与其他词汇的对等划"
+  },
+  {
+   "cn": "二元化学武器",
+   "en": "binary chemical weapon",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.2.4",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器",
+   "subjectName": "化学武器",
+   "publishYear": "2025",
+   "definition": "将两种无毒或低毒性前体化学物质分隔装填在同一弹体不同隔室内，在弹药发射或爆炸过程中，两种前体化学物质混合并相互作用，生成一种新的剧毒化学物质的化学武器。"
+  },
+  {
+   "cn": "二元过氧乙酸",
+   "en": "binary peroxyacetic acid",
+   "source": "消毒学",
+   "wordNumber": "2.1.14.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "过氧乙酸性质不稳定，一般需要在使用前由A剂（过氧化氢）与B剂（乙酸、硫酸或盐酸）按一定比例混合生成。商品态的A、B剂称为二元过氧乙酸。"
+  },
+  {
+   "cn": "二元包装消毒产品",
+   "en": "binary packaging disinfection product",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "原料分为两个最小包装，使用时应混合的消毒产品。"
+  },
+  {
+   "cn": "无菌操作",
+   "en": "sterile operation",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.4",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "杜绝微生物污染特定环境或物品的操作过程。"
+  },
+  {
+   "cn": "手术率",
+   "en": "operation rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "救治机构对每百名伤员经手术治疗的人数，反映各救治机构的手术工作量以及伤员得到手术救治的普遍程度，为组织调配手术力量提供依据。"
+  },
+  {
+   "cn": "变性手术",
+   "en": "transsexual operation",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.051",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过整形外科技术（组织移植和器官再造），使易性癖患者的生物学性别与其心理性别相符的手术。"
+  },
+  {
+   "cn": "操作限值",
+   "en": "operation limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来减少偏离关键限值风险的指标或参数。"
+  },
+  {
+   "cn": "工作区",
+   "en": "operating area",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.4",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "指安全柜内从左侧到右侧、从后侧到前窗内侧，高于前窗玻璃下沿约5cm到工作台面进行操作的区域。"
+  },
+  {
+   "cn": "战时洗消",
+   "en": "operational decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.7",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "对作战行动必需的器材、物资、人员及区域进行的洗消，以最大限度地减少核生化有害物的接触和扩散，保证作战行动的顺利进行。"
+  },
+  {
+   "cn": "普通手术部",
+   "en": "general operation department",
+   "source": "消毒学",
+   "wordNumber": "4.6.15",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "由非洁净手术室、非洁净辅助用房等一部分或全部组成的独立的功能区域。"
+  },
+  {
+   "cn": "在役去污",
+   "en": "decontamination in operation",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "对处于在役状态的受污染系统、部件和设备等去污过程。"
+  },
+  {
+   "cn": "操作学习理论",
+   "en": "operation reinforcement theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.32",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "以斯金纳(B.F.Skinner）为代表人物提出的关于人类行为习得的理论。其重视环境对行为的影响，提出人的行为B=f(E）（环境）的公式，认为人们的一生都处在学习的环境之中，获得满足的行为会得到增强，"
+  },
+  {
+   "cn": "巴巴罗萨作战计划",
+   "en": "Barbarossa Operation Plan",
+   "source": "马克思主义",
+   "wordNumber": "04.0120",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "法西斯德国侵略苏联的战争计划。以神圣罗马帝国皇帝腓特烈一世的绰号“巴巴罗萨”为代号得名。1940年7月下旬希特勒下令秘密制定该计划，11月底由陆军总司令勃劳希契呈报希特勒，12月18日，以“巴巴罗萨”"
+  },
+  {
+   "cn": "健康保险运行",
+   "en": "health insurance operation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "以健康结果为目的的健康经济风险分担和健康维护、风险干预和战略购买的治理、筹资、购买和服务包设计等运行环节的总和"
+  },
+  {
+   "cn": "医院运营管理",
+   "en": "hospital operation management ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "对医院提供医疗服务的直接资源进行有效的整合利用，以实现投入产出效率、效益和效能的最优化过程。"
+  },
+  {
+   "cn": "剂量作业试验",
+   "en": "dose operation test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "在限定时间内让被试完成指定的作业，根据其完成作业的数量和产生的错误来判断其高级神经功能状态的方法。"
+  },
+  {
+   "cn": "军事作业环境",
+   "en": "military operation environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军人在平战时所从事作业的环境，包括自然环境和人工环境。"
+  },
+  {
+   "cn": "军事作业卫生",
+   "en": "military operation hygiene",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "针对军事作业环境因素对官兵健康与军事作业能力的影响，研究和评价其影响规律，提出维护军人军事作业能力、保障军人健康的对策和措施的多学科交叉的前沿新学科。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

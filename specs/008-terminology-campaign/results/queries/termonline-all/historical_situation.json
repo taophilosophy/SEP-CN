@@ -1,0 +1,782 @@
+{
+ "key": "historical situation",
+ "term": "historical situation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:45:08+00:00",
+ "status": "ok",
+ "note": "variant=historical situation; 审定公布名词库=1851; 海峡两岸名词对照库=596; 其他来源数据库=51; 预公布名词数据库=82; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "局势",
+   "en": "situation",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0288",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "从每个局中人的策略集中各取一个策略组成的策略组。"
+  },
+  {
+   "cn": "情景",
+   "en": "situation",
+   "source": "语言学名词",
+   "wordNumber": "12.087",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "言语交际活动的情况。由话题、参与者、场所等要素构成。"
+  },
+  {
+   "cn": "局势",
+   "en": "situation",
+   "source": "数学名词",
+   "wordNumber": "011.0404",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "历史词语",
+   "en": "historism,historical word",
+   "source": "语言学名词",
+   "wordNumber": "05.107",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "历史上曾经存在过而后来已经消亡的指称历史事件、人物、现象、行为的词语。例如，“朝歌，古地名，位于河南省北部的淇县。商朝武乙、文丁、帝乙、帝辛四代殷王在此建都，改称朝歌。周灭商后，封康叔在朝歌建立卫国。"
+  },
+  {
+   "cn": "历史主义",
+   "en": "historism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.175",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "认为对任何现象的正确理解都应该从该现象的历史发展过程中获得。"
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic situation",
+   "source": "兽医学名词",
+   "wordNumber": "02.052",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "动物疫病的发生、发展以及相关情况。"
+  },
+  {
+   "cn": "自然情境",
+   "en": "natural situation",
+   "source": "行为医学名词",
+   "wordNumber": "7.006",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_预防与干预",
+   "subjectName": "预防与干预",
+   "publishYear": "2022",
+   "definition": "让个体处于一种自然环境，从亲身体验中感受学习的情景。"
+  },
+  {
+   "cn": "社会情境",
+   "en": "social situation",
+   "source": "行为医学名词",
+   "wordNumber": "7.007",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_预防与干预",
+   "subjectName": "预防与干预",
+   "publishYear": "2022",
+   "definition": "社会环境中直接影响个体或群体行为或心理的部分。"
+  },
+  {
+   "cn": "标准情境",
+   "en": "standard situation",
+   "source": "行为医学名词",
+   "wordNumber": "19.022",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "要求受测者处于所要观察分析心理现象的最佳时期，用同样刺激方法引起的反应。测验要求对行为样本、测验方法、测验程序、实施评分者等均应有标准化设计。"
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic situation",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0205",
+   "subjectFullName": "食品科学技术_食品安全_食品安全检测与检疫_检验检疫",
+   "subjectName": "检验检疫",
+   "publishYear": "2020",
+   "definition": "疫病发生和蔓延发展的情况。"
+  },
+  {
+   "cn": "情报室",
+   "en": "situation room",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.198",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "一种搜集、分析、整理情报的场所。作为情报或知识中心的空间区域，它有以下功能：包含多种情报或市场导向的演示，作为互联网、内联网、数据库、知识地图的展示中心和情报存储地，以提供最新科学技术研究进展。"
+  },
+  {
+   "cn": "情景演算",
+   "en": "situation calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0056",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "麦卡锡（McCarthy）于1963年提出的一种对动作与变化进行表示和推理的谓词逻辑语言。常用于行为推理、规划、诊断等知识表示与推理研究领域。"
+  },
+  {
+   "cn": "混合局势",
+   "en": "mixed situation",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0302",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "每个局中人各取其混合策略之一时构成的混合策略组。"
+  },
+  {
+   "cn": "情境管理",
+   "en": "situation management",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0445",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "认为情境因素是管理的决定因素，重视情境分析，主张通过适应情境提高管理效率。"
+  },
+  {
+   "cn": "纯局势",
+   "en": "pure situation",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0297",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "博弈各方选定一个纯策略形成的一个局势。"
+  },
+  {
+   "cn": "协调情景",
+   "en": "congruent situation",
+   "source": "语言学名词",
+   "wordNumber": "12.095",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "交际者按恰当的角色关系，在恰当的场所谈论恰当的话题的情景。"
+  },
+  {
+   "cn": "语言状况",
+   "en": "language situation",
+   "source": "语言学名词",
+   "wordNumber": "12.211",
+   "subjectFullName": "语言学_社会语言学_语言规划与语言教育",
+   "subjectName": "语言规划与语言教育",
+   "publishYear": "2011",
+   "definition": "某时某地语言使用的总体情况。包括该地区通用哪几种语言，有多少人使用这些语言，在什么情况下使用这些语言。"
+  },
+  {
+   "cn": "阻塞形势",
+   "en": "blocking situation",
+   "source": "大气科学名词",
+   "wordNumber": "06.173",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "西风带中出现阻塞高压时的温压场形势。"
+  },
+  {
+   "cn": "天气形势",
+   "en": "synoptic situation",
+   "source": "大气科学名词",
+   "wordNumber": "06.256",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "天气图上温压场等配置所显示的大气综合状况。"
+  },
+  {
+   "cn": "资源态势",
+   "en": "resource situation",
+   "source": "资源科学技术名词",
+   "wordNumber": "01.033",
+   "subjectFullName": "资源科学技术_资源科学总论",
+   "subjectName": "资源科学总论",
+   "publishYear": "2008",
+   "definition": "不同尺度地域范围内（全球、国家或地区）资源存在、分布、空间组合和开发利用的状态，是对资源现实状况及发展趋势的描述。"
+  },
+  {
+   "cn": "史实性",
+   "en": "historicity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "天气形势",
+   "en": "synoptic situation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阻塞形势",
+   "en": "blocking situation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应激情境",
+   "en": "stressful situation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "资源态势",
+   "en": "resources situation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "情景演算",
+   "en": "situation calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交叉相遇局面",
+   "en": "crossing situation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "天气形势",
+   "en": "synoptic situation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "具体情形",
+   "en": "concrete situations",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "情境特质",
+   "en": "situational characteristic",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境线索",
+   "en": "situational cue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境测验",
+   "en": "situational test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境自我",
+   "en": "situational self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境动机",
+   "en": "situational motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境归因",
+   "en": "situational attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境面试",
+   "en": "situational interview",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境学习",
+   "en": "situated learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情景自动机",
+   "en": "situated automaton",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "历史气候",
+   "en": "historical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "历史序列",
+   "en": "historical sequence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "势",
+   "en": "Situation / Trend",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "态势感知",
+   "en": "situation awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗史",
+   "en": "Historical Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流行病学史",
+   "en": "historical epidemiology",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网络态势可视化",
+   "en": "network situation visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全态势分析",
+   "en": "cybersecurity situation analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全态势监管",
+   "en": "security situation supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融网络安全态势感知平台",
+   "en": "financial network security situation awareness platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正确大局观",
+   "en": "the correct perspective of overall situation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "形势积极向好",
+   "en": "The situation is witnessing positive changes.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆行者",
+   "en": "people who brave a dangerous situation ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "素位而行",
+   "en": "Do What Is Proper for Your Situation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因势利导",
+   "en": "Exploit Favorable Situation to Pursue the Goal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新的历史特点的伟大斗争",
+   "en": "the great struggle with many historical features",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "掌握情况，不漏一人",
+   "en": "to have full knowledge of the situation (of the community) and leave no one unchecked",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子模拟",
+   "en": "quantum simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字仿真",
+   "en": "digital simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "历史主义",
+   "en": "historism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.175",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为对任何现象的正确理解都应该从该现象的历史发展过程中获得。"
+  },
+  {
+   "cn": "情境中心",
+   "en": "situation-centered",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0562",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美籍华裔人类学家许烺光（Francis L. K. Hsu）在论及中西文化及人际关系时提出的概念，与西方文化的“个人中心”相对，指中国人在人际关系中因相互依赖性而表现出的个体在群体中恰当的地位及行为模"
+  },
+  {
+   "cn": "市场状态",
+   "en": "market situation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取就业机会和有价物品的能力。最初由马克斯•韦伯提出，后经洛克伍德(David Lockwood）和戈德索普(John Goldthorpe）等人的细化和操作化，成为韦伯派阶级分析理论划分阶级位置"
+  },
+  {
+   "cn": "现状",
+   "en": "present situation",
+   "source": "马克思主义",
+   "wordNumber": "03.0205",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "目前的状况，是现有的自然界和社会现象所揭示的事物有规则的存在方式。"
+  },
+  {
+   "cn": "镶嵌式活动",
+   "en": "mosaic situation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "学习时大脑皮层部分区域为兴奋（工作）状态，另一部分为抑制（休息）状态的劳逸结合工作原则。随着学习性质的改变，皮层上的兴奋区与抑制区，工作区与休息区发生相互轮换。"
+  },
+  {
+   "cn": "粮情",
+   "en": "grain situation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.20",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "粮食在储藏时的状态以及影响其变化的各种因素。主要包括粮温、水分含量、储粮有害生物的种类及数量、粮堆气体成分及浓度等"
+  },
+  {
+   "cn": "言语交际情景",
+   "en": "situational context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0117",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "由话题、参与者、场所、社会背景等构成的言语交际活动的情况。"
+  },
+  {
+   "cn": "语境意义",
+   "en": "situated meaning",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0111",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "在具体语境条件下表达和传递的话语意义，一个话语单位的实际意义往往取决于所处的不同语境。语境可分文本上下文的小语境和语言社会文化背景的大语境。互动社会语言学认为话语和语境相互作用。"
+  },
+  {
+   "cn": "历史唯物主义",
+   "en": "historical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0007",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义辩证唯物主义在社会历史观中的运用，是揭示人类社会发展最一般规律的科学。其基本观点是：社会存在决定社会意识，物质生产实践及生产方式是社会历史发展的决定力量，生产力、生产关系的矛盾运动是社会发展"
+  },
+  {
+   "cn": "历史人物",
+   "en": "historical personage",
+   "source": "马克思主义",
+   "wordNumber": "03.0104",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "对人类社会历史发展进程产生过重要影响的人物。历史人物既包括代表先进生产力和先进阶级，在历史上起过显著作用、对历史发展产生重要影响的杰出人物，如先进的政治家、思想家、军事家、科学家、文学艺术家、创造发明"
+  },
+  {
+   "cn": "历史任务",
+   "en": "historical tasks",
+   "source": "马克思主义",
+   "wordNumber": "03.0105",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类社会发展进程中需要完成的、具有重大现实作用和历史进步意义的使命或工作。历史任务通常是事关全局的，具有战略意义的重大任务。如无产阶级肩负着消灭阶级剥削和压迫、实现共产主义、解放全人类的历史使命。"
+  },
+  {
+   "cn": "历史虚无主义",
+   "en": "historical nihilism",
+   "source": "马克思主义",
+   "wordNumber": "04.0387",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "不加具体分析而盲目否定人类社会的历史发展过程,甚至否定历史文化,否定民族文化、民族传统、民族精神,否定一切的历史观点和思想倾向。其特征就是否认人类社会过去的一切,否认人类社会历史的存在。历史虚无主义总"
+  },
+  {
+   "cn": "历史民俗学",
+   "en": "historical folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0469",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究历史上的民俗事象与民俗理论的学问。包括民俗史与民俗学史两个部分，民俗史是对综合或者单项的民俗事象的历史的探究与叙述，包括通时的或断代的事象的探究与叙述；民俗学史是关于民俗事象的思想史、理论史，也包"
+  },
+  {
+   "cn": "历史特殊论",
+   "en": "historical particularism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0545",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国历史学派的重要理论观点之一，这一观点认为每个民族的文化都有其自身的独特历史，因此必须在每个民族的特点中研究每个民族。要理解或解释某一特定文化，最正确的做法就是用人类学资料来重新恢复某个民族的历史发"
+  },
+  {
+   "cn": "历史意识",
+   "en": "historical consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0208",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类直觉、认识、解释自身历史发展进程的意识和能力。历史意识的呈现方式有历史文本、蕴含历史信息的非历史文本、为某一历史学派持有的历史观念或历史方法，为某一民族、国家或地域特有的历史思考传统等。"
+  },
+  {
+   "cn": "历史观",
+   "en": "historical view",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0138",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对历史发展演变规律的认知，包括对自身国家、民族、文化发展历史的认同和认知，以及自身国家、民族、文化同他者交往历史的认知。在中国，核心是对中华人民共和国、中华民族发展历史的认同。"
+  },
+  {
+   "cn": "历史人类学",
+   "en": "historical anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0205",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在人类学与历史学相互渗透、结合的基础上形成和发展起来的，试图从历史学角度去研究和回答人类学问题的学科。"
+  },
+  {
+   "cn": "历史对照",
+   "en": "historical control",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "为了研究某种疗法效果或某种特条件的影响，给研究组或病例组选择过去案例某些研究结果或案例作为对照比较的方法"
+  },
+  {
+   "cn": "历史评价",
+   "en": "historical evaluation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0209",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "历史主体对社会现象做出价值评判的过程和结论。历史评价发生的前提是客观存在的历史事实，以及主体对历史事实的认识和价值取向。"
+  },
+  {
+   "cn": "历史语言学",
+   "en": "historical linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。描写与研究一种或多种语言在一定时间跨度内所经历的种种变化。内容和方法与“历时语言学”基本相同。研究的材料可以是不同时期该语言的文献记录，也可以是历时或共时亲属语言的同源语料，后一种研"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

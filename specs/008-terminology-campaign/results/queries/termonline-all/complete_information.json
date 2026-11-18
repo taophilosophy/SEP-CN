@@ -1,0 +1,662 @@
+{
+ "key": "complete information",
+ "term": "complete information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:52:05+00:00",
+ "status": "ok",
+ "note": "variant=complete information; 审定公布名词库=4502; 海峡两岸名词对照库=1003; 其他来源数据库=592; 预公布名词数据库=143; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "完全信息",
+   "en": "complete information",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.667",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在经济学与博弈论中，指参与者在经济和博弈行为中，完全了解并可共享全部市场或博弈规制（包括所有参与者采取的策略）以及其他参与者的收益等知识时所获得的完备而准确的信息。"
+  },
+  {
+   "cn": "完全信息",
+   "en": "complete information",
+   "source": "经济学名词",
+   "wordNumber": "03.152",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人对所有参与人的策略空间及策略组合下的支付有着完全的了解。博弈论中的完全信息是指每个参与人在知道所有参与人的策略组合的条件下都能确定地掌握所有参与人的支付。若一个博弈是完全信息博弈，则意味着所有参"
+  },
+  {
+   "cn": "完全信息",
+   "en": "complete information",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1036",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "市场参与者拥有对于某种经济环境状态的全部知识。"
+  },
+  {
+   "cn": "全信息",
+   "en": "complete information,comprehensive information",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.210",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "认识主体关于事物运动状态及其变化方式的全方位表述。包括语法信息（外在形式）、语义信息（内在含义）和语用信息（效用价值）三个层面。"
+  },
+  {
+   "cn": "完全[的]",
+   "en": "complete",
+   "source": "数学名词",
+   "wordNumber": "01.0062",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "1-完全的",
+   "en": "1-complete",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0172",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定计算可枚举集合 A ，如果对任何计算可枚举集合 X ， X<img src='/root/syzx/static/spz/jsjkx3.02.0170.002.png'/>A 均成立，则称 A 是"
+  },
+  {
+   "cn": "σ完备",
+   "en": "σ-complete,sigma-complete",
+   "source": "数学名词",
+   "wordNumber": "07.0132",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完备性",
+   "en": "completeness",
+   "source": "物理学名词",
+   "wordNumber": "06.0500",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整度",
+   "en": "completeness",
+   "source": "生物物理学名词",
+   "wordNumber": "02.234",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "衍射实验中实际收集到的独立的衍射点数与理论上可以收集到的独立的衍射点数的比值。代表了所收集衍射数据的完整性，最高为100%。"
+  },
+  {
+   "cn": "完备性",
+   "en": "completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0956",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "形式系统的一种性质：语义上为真的推论都可以用推理规则在语法上推导出来。"
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "数学名词",
+   "wordNumber": "02.0079",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完备化",
+   "en": "completion",
+   "source": "数学名词",
+   "wordNumber": "07.0016",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "数学名词",
+   "wordNumber": "02.0079",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完全信息期望值",
+   "en": "expected value of completely information",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0213",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在没有完全信息时的期望损失与在理想状态下的期望损失之差。"
+  },
+  {
+   "cn": "水下完井",
+   "en": "subsea completion,underwater  completion",
+   "source": "石油名词",
+   "wordNumber": "08.0431",
+   "subjectFullName": "石油_海洋石油技术_海上钻井工程",
+   "subjectName": "海上钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "完全性再生",
+   "en": "complete regeneration",
+   "source": "普通外科学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "医学_普通外科学_修复",
+   "subjectName": "修复",
+   "publishYear": "2026",
+   "definition": "组织缺损后，能够通过原组织的再生恢复原来的结构与功能的过程。"
+  },
+  {
+   "cn": "完全型尿道上裂",
+   "en": "complete epispadias",
+   "source": "整形外科名词",
+   "wordNumber": "20.027",
+   "subjectFullName": "整形外科_会阴部整形_男性会阴与外生殖器畸形",
+   "subjectName": "男性会阴与外生殖器畸形",
+   "publishYear": "2026",
+   "definition": "尿道上裂中最为严重的类型。特点是尿道口位于膀胱颈部位，形成漏斗状，伴有尿失禁，常合并耻骨联合分离或膀胱外翻，需要更复杂的手术治疗。男性患者还可能有阴茎短小、阴茎向背侧弯曲等畸形，以及性功能障碍和尿路感"
+  },
+  {
+   "cn": "完全显性",
+   "en": "complete dominance",
+   "source": "农学名词",
+   "wordNumber": "06.115",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "杂合子中显性基因在表型中完全表现，杂合子的表型与显性基因纯合子表型相同的现象。"
+  },
+  {
+   "cn": "完全骨折",
+   "en": "complete fracture",
+   "source": "急救医学名词",
+   "wordNumber": "03.479",
+   "subjectFullName": "急救医学_日常医学急救_外科学_骨折",
+   "subjectName": "骨折",
+   "publishYear": "2025",
+   "definition": "骨的完整性或连续性全部破坏或中断的一类骨折。管状骨多见。根据X线片上骨折线的方向可分为横行骨折、斜行骨折、螺旋形骨折、粉碎性骨折、嵌插骨折、压缩骨折及骨骺分离。"
+  },
+  {
+   "cn": "完全流产",
+   "en": "complete abortion",
+   "source": "急救医学名词",
+   "wordNumber": "03.632",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_流产",
+   "subjectName": "流产",
+   "publishYear": "2025",
+   "definition": "妊娠物已全部排出，阴道出血逐渐停止，腹痛消失，妇科检查时可见宫颈口关闭，子宫迅速复旧，子宫大小正常的临床表现。"
+  },
+  {
+   "cn": "完整性",
+   "en": "completeness",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全显性",
+   "en": "complete dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全叶",
+   "en": "complete leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全熔合反应",
+   "en": "complete fusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "完全显性",
+   "en": "complete dominance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全抗原",
+   "en": "complete antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全吞噬",
+   "en": "complete phagocytosis",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全抗原",
+   "en": "complete antigen",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全外显率",
+   "en": "complete penetrance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全选择",
+   "en": "complete selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全连锁",
+   "en": "complete linkage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全集",
+   "en": "complete set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全进位",
+   "en": "complete carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全图",
+   "en": "complete graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全问题",
+   "en": "complete problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全变态",
+   "en": "complete metamorphosis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "完全燃烧",
+   "en": "complete combustion",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "完全蛋白质",
+   "en": "complete protein",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "全变态",
+   "en": "complete metamorphosis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "成人",
+   "en": "Complete Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自杀死亡",
+   "en": "complete suicide",
+   "source": "社会医学名词",
+   "wordNumber": "13.3.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "自我伤害",
+   "publishYear": "2025",
+   "definition": "有自杀意念和行为并导致死亡的现象。"
+  },
+  {
+   "cn": "变色完全",
+   "en": "discoloration completion",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在化学监测中，以颜色变化作为消毒灭菌效果的判定依据时，指示物达到了终点色的现象。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "整机寿命",
+   "en": "complete machine life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "成套或整体单机、单台形式的消毒器械的寿命。"
+  },
+  {
+   "cn": "完全缓解",
+   "en": "complete response，CR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归",
+   "subjectName": "预后与转归",
+   "publishYear": "2025",
+   "definition": "治疗后疾病完全控制，症状、体征、检查异常完全消失的状态。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "完全积累制",
+   "en": "completely accumulative system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "根据长期收支平衡为原则来确定费率的基金筹集模式"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "信息可见性",
+   "en": "information visibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "一种对信息存在特性的描述。"
+  },
+  {
+   "cn": "信息时效性",
+   "en": "information timeliness",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.5",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息发挥作用是有时间限度的，在恰当的时刻得以利用才会发挥其最大效能的特性。"
+  },
+  {
+   "cn": "信息过载",
+   "en": "information overload",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "卫生信息超过了医护人员患者等个人或医疗系统所能接受、处理或有效利用的范围的一种状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

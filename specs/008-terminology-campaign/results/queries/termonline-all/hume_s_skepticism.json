@@ -1,0 +1,442 @@
+{
+ "key": "hume's skepticism",
+ "term": "Hume’s skepticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:35:30+00:00",
+ "status": "ok",
+ "note": "variant=Hume’s skepticism; 审定公布名词库=106; 海峡两岸名词对照库=35; 其他来源数据库=5; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "怀疑精神",
+   "en": "skeptical spirit",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究者对已有的科学成就及科学权威的有根据的质疑态度。"
+  },
+  {
+   "cn": "谨慎推理",
+   "en": "skeptical reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0032",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "一种非单调推理模式。只有当一个命题在所有非单调语义模型中为真时，才认为该命题为真。"
+  },
+  {
+   "cn": "审计职业怀疑",
+   "en": "audit professional skepticism",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0353",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师执行审计业务时保持怀疑的一种态度。包括采取质疑的思维方式，对可能表明存在由于错误或舞弊而导致的错报的迹象保持警觉，以及对审计证据进行审慎评价。"
+  },
+  {
+   "cn": "休谟原则",
+   "en": "Hume’s principle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.309",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一种抽象原则，隐含地定义了“数相等”。其形式为：概念F的数等于概念G的数当且仅当F与G之间一一对应。"
+  },
+  {
+   "cn": "肱骨",
+   "en": "humerus，humerus(拉)",
+   "source": "兽医学名词",
+   "wordNumber": "06.021",
+   "subjectFullName": "兽医学_家畜解剖学",
+   "subjectName": "家畜解剖学",
+   "publishYear": "2023",
+   "definition": "柱状长骨。斜位于胸侧壁前下方，分为近端、肱骨体和远端。近端后部有肱骨头，与肩胛骨远端的关节盂成关节；近端前部内、外侧分别有小结节和大结节，两者之间有结节间沟，供臂二头肌腱通过。肱骨体略呈圆柱状，近中部"
+  },
+  {
+   "cn": "肱骨",
+   "en": "humerus",
+   "source": "动物学名词",
+   "wordNumber": "6.0629",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_骨骼系统",
+   "subjectName": "骨骼系统",
+   "publishYear": "2021",
+   "definition": "支撑上臂的长骨。"
+  },
+  {
+   "cn": "肱骨",
+   "en": "humerus",
+   "source": "手外科学名词",
+   "wordNumber": "03.0128",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "上肢骨中最粗且最长的管状骨。由体及上、下两端组成。上端由半球形的肱骨头与肩胛骨的关节盂组成肩关节，下端与尺、桡骨的上端构成肘关节。"
+  },
+  {
+   "cn": "肱骨",
+   "en": "humerus",
+   "source": "运动医学名词",
+   "wordNumber": "01.115",
+   "subjectFullName": "运动医学_运动解剖_人体运动执行体系",
+   "subjectName": "人体运动执行体系",
+   "publishYear": "2019",
+   "definition": "位于上臂，是上肢骨中最长、最大的骨块。上端有半球形的肱骨头与肩胛骨的关节盂组成肩关节；下端与尺骨、桡骨的上端构成肘关节。是典型的长骨。可分为一体两端。"
+  },
+  {
+   "cn": "肱骨",
+   "en": "humerus",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0572",
+   "subjectFullName": "人体解剖学_运动系统_附肢骨",
+   "subjectName": "附肢骨",
+   "publishYear": "2014",
+   "definition": "上肢骨中最粗且最长的管状骨。由体及上、下两端组成。"
+  },
+  {
+   "cn": "腐殖质",
+   "en": "humus",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0140",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "用于定义某些由有机物分解进化产生的土壤组分。"
+  },
+  {
+   "cn": "腐殖质",
+   "en": "humus",
+   "source": "林学名词",
+   "wordNumber": "02.192",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "土壤中由动植物残体形成的、完全分解的、无定形的且有一定稳定性的高分子有机化合物。"
+  },
+  {
+   "cn": "胡伯尔求积式",
+   "en": "Huber’s formula",
+   "source": "林学名词",
+   "wordNumber": "06.094",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "测算树干材积的数学公式之一。<img src='/root/syzx/static/spz/linxue2.06.094.1.png'/>。式中：V为树干材积，<img src='/root/syzx"
+  },
+  {
+   "cn": "人的行为",
+   "en": "human’s behavior",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.009",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人对内外环境因素刺激所做出的能动反应。"
+  },
+  {
+   "cn": "五液",
+   "en": "five humors",
+   "source": "中医药学名词",
+   "wordNumber": "03.093",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "五脏所化生的液体，即汗、涕、泪、涎、唾。"
+  },
+  {
+   "cn": "腐殖质",
+   "en": "humic substances,humics",
+   "source": "土木工程名词",
+   "wordNumber": "11.141",
+   "subjectFullName": "土木工程_给水与排水工程_取水与水质",
+   "subjectName": "取水与水质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "土壤腐殖质",
+   "en": "soil humus",
+   "source": "农学名词",
+   "wordNumber": "09.116",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "土壤中除去未分解和半分解动植物残体及微生物体以外的有机物质的总称。"
+  },
+  {
+   "cn": "腐殖质层",
+   "en": "humus horizon",
+   "source": "农学名词",
+   "wordNumber": "09.149",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "地表或有机质层下面，与矿质部分充分混合的腐殖质聚积层。"
+  },
+  {
+   "cn": "腐殖质组型",
+   "en": "humus form",
+   "source": "林学名词",
+   "wordNumber": "02.198",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "根据森林土壤表层不同凋落物层次的形态和分解状况等而划分的组合。"
+  },
+  {
+   "cn": "腐殖质层",
+   "en": "humus layer",
+   "source": "林学名词",
+   "wordNumber": "02.197",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "森林土壤矿质土层上的由完全分解的凋落物而形成的有机物层次。"
+  },
+  {
+   "cn": "腐殖质积累[作用]",
+   "en": "humus accumulation",
+   "source": "林学名词",
+   "wordNumber": "02.159",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "土壤中有机质的腐殖质化大于有机质的矿质化而使土壤腐殖质有明显积累的现象。"
+  },
+  {
+   "cn": "肱骨",
+   "en": "humerus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肱骨",
+   "en": "humerus",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖质",
+   "en": "humics",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖质",
+   "en": "humus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖质",
+   "en": "humus",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖质",
+   "en": "humus",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖质",
+   "en": "humus",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖质层",
+   "en": "humus horizon\",\"humus layer",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖质湖",
+   "en": "humus lake",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "海水腐殖质",
+   "en": "seawater humus",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海洋腐殖质",
+   "en": "marine humus",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "陆源腐殖质",
+   "en": "terrigenous humus",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "污泥腐殖质",
+   "en": "sludge humus",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖质积累作用",
+   "en": "humus accumulation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "孤峰",
+   "en": "hums",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "肱骨滑车",
+   "en": "trochlea of humerus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肱骨髁",
+   "en": "condyle of humerus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肱骨体",
+   "en": "shaft of humerus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肱骨小头",
+   "en": "capitulum of humerus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "粗腐殖质",
+   "en": "raw humus\",\"mor",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天人感应",
+   "en": "Nature and Humans Respond to Each Other.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《奇点临近》（〔美〕雷·库兹韦尔）",
+   "en": "The Singularity Is Near: When Humans Transcend Biology (Ray Kurzweil, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有组织的怀疑",
+   "en": "organized skepticism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.9",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学精神特质的重要组成部分，指一种制度化的对科学家同行工作的批评态度，具体包括对已确立的规则、权威、既定程序的某些基础以及一般的神圣领域提出疑问。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

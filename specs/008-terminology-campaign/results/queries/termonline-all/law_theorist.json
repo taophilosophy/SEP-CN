@@ -1,0 +1,712 @@
+{
+ "key": "law theorist",
+ "term": "law theorist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:53:30+00:00",
+ "status": "ok",
+ "note": "variant=law theorist; 审定公布名词库=2821; 海峡两岸名词对照库=864; 其他来源数据库=187; 预公布名词数据库=222; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "定律",
+   "en": "law",
+   "source": "物理学名词",
+   "wordNumber": "01.0140",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "法律",
+   "en": "law",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.001",
+   "subjectFullName": "放射医学与防护_法规与条约_法规与标准",
+   "subjectName": "法规与标准",
+   "publishYear": "2014",
+   "definition": "体现国家意志、依靠国家强制力保证执行、规定和调整国家某一方面社会关系或基本行为规则的文件。我国的法律由国家立法机关制定经全国人大常委会通过后，以国家主席令公布。"
+  },
+  {
+   "cn": "法科",
+   "en": "law",
+   "source": "教育学名词",
+   "wordNumber": "08.078",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。（1）广义的法科包括政治学、社会学。（2）狭义的法科指法律学。包括刑法、民法、商法、国际法等学科。"
+  },
+  {
+   "cn": "μ律",
+   "en": "μ-law",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.445",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信技术中，北美通常采用的压扩标准。"
+  },
+  {
+   "cn": "新闻法",
+   "en": "law of journalism;press law;journalism law",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.003",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "以宪法为依据的关于新闻传播活动的法律。调整新闻活动中各种社会关系，保障社会公共利益和公民、法人的相关合法权益的法律规范的总称。广义的新闻法包括现有法律体系中所有适用于新闻传播活动的法律、法规、规章等规"
+  },
+  {
+   "cn": "环境法",
+   "en": "environmental law",
+   "source": "地质学名词",
+   "wordNumber": "18.01.039",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由国家制定，强制执行的关于保护环境和自然资源，防治污染和其他公害的法律。"
+  },
+  {
+   "cn": "衰变定律",
+   "en": "decay law",
+   "source": "地质学名词",
+   "wordNumber": "13.03.013",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "不同放射性物质在衰变过程中原子数随时间呈负指数函数衰减的规律。"
+  },
+  {
+   "cn": "黑林定律",
+   "en": "Hering law",
+   "source": "整形外科名词",
+   "wordNumber": "15.081",
+   "subjectFullName": "整形外科_眼睑整形与美容_眼部检查",
+   "subjectName": "眼部检查",
+   "publishYear": "2026",
+   "definition": "双侧上睑提肌受到的神经支配作用是相同的，对于上睑下垂患者，其下垂侧或下垂更严重一侧会代偿性地引起双侧神经支配作用增强，导致对侧眼睑位置假性抬高。用于上睑下垂患者健侧神经支配作用增强与否的判断。由德国埃"
+  },
+  {
+   "cn": "双晶律",
+   "en": "twin law",
+   "source": "地质学名词",
+   "wordNumber": "02.00.113",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "双晶中单体的连生规律。它由双晶面、双晶轴或双晶中心的方向来规定，并常给予一定的专门名称。"
+  },
+  {
+   "cn": "压密定律",
+   "en": "compression law",
+   "source": "地质学名词",
+   "wordNumber": "17.02.149",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "土在有侧限条件下受压时，在压力变化范围不大时，孔隙比的变化与压力的变化成正比。"
+  },
+  {
+   "cn": "流变律",
+   "en": "rheological law",
+   "source": "地质学名词",
+   "wordNumber": "09.02.120",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "表述稳态流动条件下，应变速率和应力、温度的关系表达式：<img src='/root/syzx/static/spz/2026.dizhi18.png'/>=f(δ,t)=Af′(δ)exp(-q/R"
+  },
+  {
+   "cn": "物候学定律",
+   "en": "phenology law",
+   "source": "农学名词",
+   "wordNumber": "13.156",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "某地物候现象出现的时间存在周年变化，且与所处的地理环境及气候状况存在一定数学关系的规律。"
+  },
+  {
+   "cn": "埃瓦尔德定律",
+   "en": "Ewald law",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.3.1",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "有关半规管平面和内淋巴流动方向，以及诱发性眼震和头部运动方向之间关系的定律。"
+  },
+  {
+   "cn": "弗洛朗定律",
+   "en": "Flourens law",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.8.3.5",
+   "subjectFullName": "耳科_眩晕疾病",
+   "subjectName": "眩晕疾病",
+   "publishYear": "2025",
+   "definition": "眼震运动的平面与受刺激的半规管平面相同的现象。"
+  },
+  {
+   "cn": "守恒律",
+   "en": "conservation law",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.345",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "物理系统的某些属性或可观察量在一系列变化下保持不变的规律。如质量守恒定律、动量守恒定律、电荷守恒定律、能量守恒与转化定律等。"
+  },
+  {
+   "cn": "统计规律",
+   "en": "statistical law",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.393",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "由大量子系统所组成的复杂系统在宏观上所满足的规律。最初是在热力学系统研究中，将系统的各种宏观性质看作其大量做无规则热运动的微观组成粒子的各个微观量的统计平均值，以此来反映系统的整体性规律。"
+  },
+  {
+   "cn": "经验定律",
+   "en": "experiential law",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.030",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "在实验或观察的基础上由归纳及类比等方法得出的现象之间的稳定关联。"
+  },
+  {
+   "cn": "红化定律",
+   "en": "reddening law",
+   "source": "天文学名词",
+   "wordNumber": "04.449",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "由于星际介质对星光的散射和吸收而导致观测到的星光偏红的规律。"
+  },
+  {
+   "cn": "施密特定律",
+   "en": "Schmidt law",
+   "source": "天文学名词",
+   "wordNumber": "07.130",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "恒星(面)形成率正比于气体(面)密度的n次方的经验关系，1< n < 3。"
+  },
+  {
+   "cn": "衰变定律",
+   "en": "decay law",
+   "source": "核科学技术名词",
+   "wordNumber": "1.114",
+   "subjectFullName": "核科学技术_核物理_放射性和衰变类",
+   "subjectName": "放射性和衰变类",
+   "publishYear": "2024",
+   "definition": "放射性原子核的数量随时间而变化的规‍律。"
+  },
+  {
+   "cn": "定律",
+   "en": "law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分配定律",
+   "en": "distribution law\",\"distributive law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物发生律（=重演律）",
+   "en": "biogenetic law (=recapitulation law)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重演律",
+   "en": "recapitulation law",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "个体发生律",
+   "en": "ontogenetic law",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生物发生律",
+   "en": "biogenetic law",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "重演律",
+   "en": "recapitulation law",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物气候定律",
+   "en": "bioclimatic law",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比尔定律",
+   "en": "Beer law",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "玻意耳定律",
+   "en": "Boyle law",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "布格定律",
+   "en": "Bouguer law",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[乘]幂[定]律",
+   "en": "power law",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基尔霍夫定律",
+   "en": "Kirchhoff law",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拉乌尔定律",
+   "en": "Raoult law",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物气候律",
+   "en": "bioclimate law",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "指数律",
+   "en": "exponential law",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "菲克定律",
+   "en": "Fick law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "阿马加定律",
+   "en": "Amagat law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "控制律",
+   "en": "control law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似定律",
+   "en": "similar law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "法",
+   "en": "Law/ Dharma",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公法",
+   "en": "public law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私法",
+   "en": "private law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律移植",
+   "en": "law transplant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人法",
+   "en": "robot law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算法律",
+   "en": "computational law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生物安全法",
+   "en": "biosecurity law  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "摩尔定律",
+   "en": "Moore’s law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "梅特卡夫定律",
+   "en": "Metcalfe’s law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "格雷欣法则",
+   "en": "Gresham’s Law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律",
+   "en": "law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度",
+   "subjectName": "社会制度",
+   "publishYear": "2025",
+   "definition": "国家制定或认可的，由国家强制力保证实施的，旨在规定社会成员之间权利和义务，并具有普遍约束力的各种行为规范的总和。"
+  },
+  {
+   "cn": "规律",
+   "en": "law",
+   "source": "马克思主义",
+   "wordNumber": "01.0033",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物发展过程中本身所固有的本质的、必然的、稳定的内在联系。规律具有不以人的意志为转移的客观实在性。"
+  },
+  {
+   "cn": "法",
+   "en": "law",
+   "source": "马克思主义",
+   "wordNumber": "04.0040",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家按照统治阶级的利益和意志制定或认可，并由国家强制力保证其实施的行为规范的总和。法是上层建筑的重要部分，由经济基础决定，为经济基础服务。法的目的在于维护有利于统治阶级的社会关系和社会秩序，是统治阶级"
+  },
+  {
+   "cn": "一般规律",
+   "en": "general law universal law",
+   "source": "马克思主义",
+   "wordNumber": "01.0034",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "整个世界或一定范围内事物普遍具有的规律。由于事物存在和发展的无限性，一般规律和特殊规律的区分是相对的，在一定条件下为一般规律，而在另一条件下则可变为特殊规律，反之亦然。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "自然法",
+   "en": "natural law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会制度",
+   "subjectName": "社会学一般概念社会制度",
+   "publishYear": "2025",
+   "definition": "基于自然秩序本身所产生的正义、平等等理性原则的总和，独立于社会意识形态的价值体系。"
+  },
+  {
+   "cn": "压制性法律",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.1",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "制裁方式是惩罚性的法律。其目的是要损害当事人的财产、名誉、生命和自由，或者剥夺当事人所享用的某些事物，如刑法。"
+  },
+  {
+   "cn": "补偿性法律",
+   "en": "restorative law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.2",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "不具有惩罚性的法律。旨在恢复原有状态或重建正常状态与关系的法律。如民法、商业法、诉讼法等。"
+  },
+  {
+   "cn": "古代法",
+   "en": "archaic law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "对应古代社会的法律。尼克拉斯·卢曼认为在社会演化过程中存在着古代法、前现代高等文明的法和现代社会的实证法三种法律。古代法对应古代社会，制定法律的行为与依据法律做出决定的行为并未区分开，出现冲突后，人们"
+  },
+  {
+   "cn": "习惯法",
+   "en": "customary law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "个人与团体之间反复出现并得到人们承认的一种相互作用的法律模式。罗伯托·昂格尔提出的三种不同的法律类型之一，除习惯法外，其他为官僚法和法律秩序。"
+  },
+  {
+   "cn": "官僚法",
+   "en": "bureaucratic law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.6",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "人们必须遵循的明确规则。该规则由国家确立和强制执行。该法律具备实证性，而且是由国家制定、颁布和强制实施的，具备公共性。"
+  },
+  {
+   "cn": "压制型法",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.8",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "反映居支配地位的道德，以维护权威为首要目的，法律机构容易直接受到政治权力影响的一种法律。P.诺内特和P.塞尔兹尼克将社会中的法律现象分为三种类型，即压制型法、自治型法和回应型法。"
+  },
+  {
+   "cn": "自治型法",
+   "en": "autonomous law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.9",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "与政治相分离，规则被严格适用的法律秩序。"
+  },
+  {
+   "cn": "回应型法",
+   "en": "responsive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.10",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "裁判过程并非严格适用法律规则，而是充分考虑法律目的，由此取得了开放性与灵活性的一种法律类型。"
+  },
+  {
+   "cn": "活法",
+   "en": "living law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.13",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "实际上支配社会生活的规范。自由法学派创始人欧根·埃利希提出的概念，如日常社会生活中完成的契约和交易，区别于国家实施的法律。"
+  },
+  {
+   "cn": "官方法",
+   "en": "official law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "一国合法权威认可的法律体系及其组成部分。"
+  },
+  {
+   "cn": "非官方法",
+   "en": "unofficial law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "没有被合法权威正式认可，但在实践中被一定范围的人们普遍认可的法律体系及其组成部分。"
+  },
+  {
+   "cn": "固有法",
+   "en": "indigenous law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.6",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "起源于一个民族固有文化的法。或者在移植现代西方法之前存在于非西方民族固有文化中的法。"
+  },
+  {
+   "cn": "移植法",
+   "en": "transplanted law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "一个民族从异族文化中移植来的法。或者非西方国家从现代西方国家移植来的法律。"
+  },
+  {
+   "cn": "宗教法",
+   "en": "religious law",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.1",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "以宗教教义为基础，调整特定社会关系、个人的行为或思想的规范体系。“神的话语是法”，即神的话语不可以被政治等其他力量所修改或决定。如犹太教的哈拉卡和伊斯兰教的沙里亚法规，二者都是“遵守之道”。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

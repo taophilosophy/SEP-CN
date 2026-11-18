@@ -1,0 +1,742 @@
+{
+ "key": "backwards induction solution",
+ "term": "backwards induction solution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:39:55+00:00",
+ "status": "ok",
+ "note": "variant=backwards induction solution; 审定公布名词库=4393; 海峡两岸名词对照库=1358; 其他来源数据库=142; 预公布名词数据库=152; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "逆向归纳",
+   "en": "backward induction",
+   "source": "经济学名词",
+   "wordNumber": "03.169",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "一种求解动态博弈均衡的方法。指的是从动态博弈的最后一个阶段开始分析，逐步向前归纳出各阶段参与人的选择策略。在完全且完美的动态博弈中，先行行动的理性参与人，在前面阶段选择策略时，必然会考虑随后行动的参与"
+  },
+  {
+   "cn": "逆向市场",
+   "en": "backwardation",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0528",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "当现货价格高于期货价格，基差为正值的市场状态。"
+  },
+  {
+   "cn": "归纳",
+   "en": "induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.081",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "从经验观察的特例中推论出普遍的定律或原理。"
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0468",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "可诱导基因在一定的环境中表达增强的过程。"
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "动物学名词",
+   "wordNumber": "4.0551",
+   "subjectFullName": "动物学_动物胚胎学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2021",
+   "definition": "在胚胎发育中，一个细胞群体或组织引起另一个细胞群体或组织定向分化的过程。"
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "生理学名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诱发",
+   "en": "induction",
+   "source": "核医学名词",
+   "wordNumber": "04.0048",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤学基础",
+   "subjectName": "肿瘤学基础",
+   "publishYear": "2018",
+   "definition": "通过物理、化学或生物因素活化体内潜伏性病原导致发病的过程。"
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "20.068",
+   "subjectFullName": "组织学与胚胎学_胚胎学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "在胚胎发育中，一个细胞群体或组织引起另一个细胞群体或组织定向分化的过程。"
+  },
+  {
+   "cn": "入职教育",
+   "en": "induction",
+   "source": "教育学名词",
+   "wordNumber": "09.136",
+   "subjectFullName": "教育学_教师教育_教育、培训层次、类别、内容",
+   "subjectName": "教育、培训层次、类别、内容",
+   "publishYear": "2013",
+   "definition": "进入专业岗位前接受的，与从事岗位工作需要相关的专业教育。"
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "遗传学名词",
+   "wordNumber": "05.028",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "(1)胚胎中的一个区域影响另一个区域，使其沿一条新途径进行分化。(2)某些环境因子的刺激使基因或操纵子进入转录状态。"
+  },
+  {
+   "cn": "诱发",
+   "en": "induction",
+   "source": "昆虫学名词",
+   "wordNumber": "10.037",
+   "subjectFullName": "昆虫学_昆虫病理学",
+   "subjectName": "昆虫病理学",
+   "publishYear": "2000",
+   "definition": "活化潜伏性病原导致发病。"
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0034",
+   "subjectFullName": "地球物理学_地球电磁学_地电学",
+   "subjectName": "地电学",
+   "publishYear": "2022",
+   "definition": "闭合回路的一种属性。当通过闭合回路的电流改变时，会出现电动势抵抗电流的改变。分为自感和互感。 "
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "电力名词",
+   "wordNumber": "01.197",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "对于端子为A和B的电感性二端元件,磁通链ψ除以元件中电流i的商:<img src='/root/syzx/static/spz/dianli3.01.197.01.png'/>式中:ψ的符号由该磁通链"
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "物理学名词",
+   "wordNumber": "03.0613",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "计量学名词",
+   "wordNumber": "10.029",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "描述由于线圈电流变化，在本线圈中或在另一线圈中引起感应电动势效应的电路参数。单位是亨利(H)。"
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "电气工程名词",
+   "wordNumber": "01.415",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "电子学名词",
+   "wordNumber": "02.051",
+   "subjectFullName": "电子学_静电与静磁",
+   "subjectName": "静电与静磁",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "反向推理",
+   "en": "backward inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.050",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由结论出发，为验证该结论的正确性去知识库中查找证据。"
+  },
+  {
+   "cn": "反传工况",
+   "en": "backward condition",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1364",
+   "subjectFullName": "机械工程（一）_传动_液力传动_性能参数",
+   "subjectName": "性能参数",
+   "publishYear": "2021",
+   "definition": "在超越工况中，涡轮在外载荷带动下，泵轮从动力机吸收功率的工况。"
+  },
+  {
+   "cn": "后向关联",
+   "en": "backward linkage",
+   "source": "经济学名词",
+   "wordNumber": "08.130",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "通过需求联系与其他部门发生的关联。当甲产业在经济活动过程中向乙产业提供了产出，则对乙产业来说，它与甲产业的关系就是后向关联的关系。"
+  },
+  {
+   "cn": "交割延期费",
+   "en": "backwardation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反向链接",
+   "en": "backward chaining\",\"backward link",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "诱发",
+   "en": "induction",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电介质常数",
+   "en": "inductivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向后差分",
+   "en": "backward difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆向反应",
+   "en": "backward reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "逆向进料",
+   "en": "backward feed",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "后向掩蔽",
+   "en": "backward masking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逆向条件反射",
+   "en": "backward conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "后向散射",
+   "en": "backward scattering",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逆[向]反应",
+   "en": "backward reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "后向散射率",
+   "en": "backward scatterance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "后向联系",
+   "en": "backward linkage",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "反向串扰",
+   "en": "backward crosstalk",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反向电流",
+   "en": "backward current",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反向电压",
+   "en": "backward voltage",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体后倾",
+   "en": "backward lean",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后平衡",
+   "en": "backward scale",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "施托克里向后",
+   "en": "Stockli backward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后空翻",
+   "en": "backward salto",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后滚翻",
+   "en": "backward roll",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后弓箭步",
+   "en": "backward lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向后转体",
+   "en": "backward twisting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后跳",
+   "en": "backward jump",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背传",
+   "en": "backward pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "移至后排",
+   "en": "moving backward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向后起跳",
+   "en": "backward take-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳学习",
+   "en": "inductive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解空间",
+   "en": "solution space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "催经止孕",
+   "en": "menstrual induction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.12.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "事后避孕的一种方式。在发生无保护性交后，特别是多次无保护性交后，在月经延迟1周内使用负压吸引或药物诱导月经来潮。其目的是有孕止孕、无孕催经。"
+  },
+  {
+   "cn": "归纳法",
+   "en": "inductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "就某个特定的主题，观察和收集数据，积累事实，从而得出一般原理的推理程序。"
+  },
+  {
+   "cn": "标准溶液",
+   "en": "standard solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.7",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "已知其主体成分准确浓度或其他特性量值的溶液。"
+  },
+  {
+   "cn": "储存溶液",
+   "en": "storage solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "比使用浓度高，使用前需要稀释的浓标准溶液。"
+  },
+  {
+   "cn": "染色液",
+   "en": "staining solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.11",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能使生物体着色的化学物质。"
+  },
+  {
+   "cn": "脱色液",
+   "en": "destaining solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.12",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能够除去染色后的细菌菌体上的染色剂，从而对细菌进行鉴别的试剂。"
+  },
+  {
+   "cn": "采样液",
+   "en": "sampling solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "空气微生物采样时，收集和保存所采集微生物的液体，如含中和剂的磷酸盐缓冲液、生理盐水等。"
+  },
+  {
+   "cn": "逆推顺述",
+   "en": "backward observation from now",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0213",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "将在自己的田野点观察到的、依然活着的结构要素，推到它们有材料可证的历史起点，然后再从这个起点，将这些结构要素一一向晚近叙述，最后概括出该区域历史的结构过程。"
+  },
+  {
+   "cn": "煤酚皂溶液",
+   "en": "saponated cresol solution",
+   "source": "消毒学",
+   "wordNumber": "2.1.9.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "由邻位甲酚、间位甲酚、对位甲酚三种甲酚异构体与皂液组成。为棕黄色或红色粘稠液体，有酚臭味，甲酚含量约50%（v/v)，溶于水和乙醇，呈碱性，性能稳定。"
+  },
+  {
+   "cn": "磷酸盐缓冲液",
+   "en": "phosphate buffer solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.6.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "由无水磷酸氢二钠和磷酸二氢钾配制成的pH值为7.2，浓度为0.03mol/L的中性缓冲液。"
+  },
+  {
+   "cn": "胰蛋白胨生理盐水溶液",
+   "en": "tryptone saline solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.6.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "胰蛋白胨和氯化钠溶于蒸馏水制成的pH值为7.0±0.2的试验试剂。常用做试验菌的稀释用液。"
+  },
+  {
+   "cn": "放射性标准溶液",
+   "en": "radioactive standard solution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.32",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "已准确标定过放射性浓度的溶液。"
+  },
+  {
+   "cn": "原液稳定性",
+   "en": "stock solution stability",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "乳化香精原液以2500r/min-3000r/min转速离心15min后保持不分层状态的能力。是乳化香精的主要理化指标之一。"
+  },
+  {
+   "cn": "电感耦合等离子体质谱法",
+   "en": "inductively coupled plasma mass spectrometry, ICP-MS",
+   "source": "消毒学",
+   "wordNumber": "6.1.13.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "用氩形成的等离子体使待测元素原子化和离子化，如此形成的离子通过一系列的锥孔，进入高真空质量分析室，元素的同位素由其质荷比鉴别，元素的量由特征的质谱峰的强度计算。是一种痕量(10-6~10-9)和超痕量"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

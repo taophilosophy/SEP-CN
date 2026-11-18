@@ -1,0 +1,762 @@
+{
+ "key": "medical information",
+ "term": "medical information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:38:55+00:00",
+ "status": "ok",
+ "note": "variant=medical information; 审定公布名词库=5008; 海峡两岸名词对照库=1142; 其他来源数据库=671; 预公布名词数据库=407; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "医学信息",
+   "en": "medical information",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统概念",
+   "subjectName": "医学影像信息系统概念",
+   "publishYear": "2020",
+   "definition": "包括生物医学和卫生健康领域的各类消息、信号、指令、数据、情报、知识等客观的信息。其形式可以是文字、声音、影像、数字、符号、手势、姿态、情景、状态、实物等。同时也包括人类的信息活动。"
+  },
+  {
+   "cn": "医学信息",
+   "en": "medical information",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.035",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "与生命健康科学有关的信息。来源于人类对生命科学的研究、发明和理论创见。"
+  },
+  {
+   "cn": "医学情报学",
+   "en": "medical information science",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.167",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "运用情报学的理论和方法来研究医学领域尤其是医学情报交流过程中的情报学问题的综合性学科。包括研究医学情报的产生、形成、搜集、组织、传递、吸收和使用等。"
+  },
+  {
+   "cn": "医学信息系统",
+   "en": "medical information system,MIS",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.008",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统概念",
+   "subjectName": "医学影像信息系统概念",
+   "publishYear": "2020",
+   "definition": "结合生物医学和卫生健康的科学理论与方法，应用信息技术解决医疗卫生和健康问题，为临床和管理决策提供支持的信息系统。"
+  },
+  {
+   "cn": "医学影像信息系统",
+   "en": "medical imaging information system,MIIS",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.016",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统概念",
+   "subjectName": "医学影像信息系统概念",
+   "publishYear": "2020",
+   "definition": "以计算机和网络为基础，与各种影像成像设备相连接，利用海量存储和关系型数据库技术，以数字化方式收集、压缩、存储、管理、传输、检索查询、显示浏览、处理、发布、远程会诊医学影像信息；以计算机化的方式预约登记"
+  },
+  {
+   "cn": "药饲",
+   "en": "medicated",
+   "source": "水产名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "水产_水产生物病害及防治",
+   "subjectName": "水产生物病害及防治",
+   "publishYear": "2002",
+   "definition": "将药物拌入饲料投喂养殖动物的一种疾病防治方法。"
+  },
+  {
+   "cn": "药历",
+   "en": "medication profile,medication record",
+   "source": "药学名词",
+   "wordNumber": "08.103",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "为保证用药安全有效，由药师建立的患者治疗或预防疾病进行药物治疗过程的记录。包括为影响患者预后结果的专业活动(方案制定，实施，疗效、不良反应观察，评价、调整，患者教育)等内容。有纸质和电子两种形式。"
+  },
+  {
+   "cn": "医学信息学",
+   "en": "medical informatics",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.002",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统概念",
+   "subjectName": "医学影像信息系统概念",
+   "publishYear": "2020",
+   "definition": "研究生物医学信息、数据和知识，对其进行存储、检索并有效利用，以便在卫生管理、临床控制和知识分析过程中做出决策及解决问题的学科。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.09",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "①与物质、能量一起构成基本的存在形式。按照信息论的定义, 信息就是不确定性的消除。②以文字、图像、音视频、姿态、纪念物等符号或空间布局、位置排序等为载体的表现形式，可以被人或其他接收端所采集、感知和识"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "经济学名词",
+   "wordNumber": "10.181",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "世界上一切事物的状态和特征的反映。它普遍存在于自然界、人类社会、人们的认识及思维过程中。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "广义指客观事物存在、运动和变化的方式、特征、规律及其表现形式。狭义指用来消除随机不确定性的东西。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0029",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "处理后的数据。可用于人们对管理和决策的支持。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "化学名词",
+   "wordNumber": "03.0341",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "(1)广义上是指将试验数据、信号中所蕴含的意义，经过加工处理变为人们所接受的知识。(2)按照信息论的观点，信息是指对事物认识不确定性的减小。"
+  },
+  {
+   "cn": "情报",
+   "en": "information",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0505",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "针对特定需求被激活的知识。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0105",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "数据的内容和含义。同样的信息可以用不同形式的数据表达。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "建筑学名词",
+   "wordNumber": "14.0800",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "用来传送一定信息量的符号、序列(例如字母、数字)或连续时间的函数(例如图像)。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "心理学名词",
+   "wordNumber": "11.034",
+   "subjectFullName": "心理学_工程心理学",
+   "subjectName": "工程心理学",
+   "publishYear": "2014",
+   "definition": "刺激所载有的不确定性的倒数。用比特[lg2·(1/i)]表达，其中i是刺激发生的概率。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以适合于通信、存储或处理的形式来表示的知识或消息。"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0003",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "数学名词",
+   "wordNumber": "012.0005",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医学胚胎学",
+   "en": "medical embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "医疗气候学",
+   "en": "medical climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗气象学",
+   "en": "medical meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学模式",
+   "en": "medical model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "医学心理学",
+   "en": "medical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "医用纤维",
+   "en": "medical fiber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "医用回旋加速器",
+   "en": "medical cyclotron",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "医学地理学",
+   "en": "medical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "医学气象学",
+   "en": "medical meteorology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "医学免疫学",
+   "en": "medical immunology",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "医学遗传学",
+   "en": "medical genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "医学成像",
+   "en": "medical imaging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医学电子学",
+   "en": "medical electronics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医用回旋加速器",
+   "en": "medical cyclotron",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医学观察",
+   "en": "medical watch; medical observation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医学排查",
+   "en": "medical screening",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学巡查",
+   "en": "medical inspection",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体检",
+   "en": "medical examination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医疗服务",
+   "en": "medical service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务检查",
+   "en": "medical control",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务代表",
+   "en": "medical delegate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务方案",
+   "en": "medical guidelines",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医药规范",
+   "en": "medical code",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医疗队",
+   "en": "medical team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医疗信息整合技术",
+   "en": "medical information integration technology ",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "将来自不同医疗部门和信息源的临床、诊断、治疗及患者健康数据，通过技术手段进行有效整合、共享和分析的相关方法总称。"
+  },
+  {
+   "cn": "职业健康检查备案信息",
+   "en": "occupational medical examination filing information",
+   "source": "放射卫生学",
+   "wordNumber": "8.4.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射工作人员职业健康管理",
+   "subjectName": "放射工作人员职业健康管理",
+   "publishYear": "2025",
+   "definition": "开展职业健康检查的医疗机构向卫生行政部门备案的信息，包括机构名称、地址、检查类别和项目及工作场所、设备、人员、制度等。"
+  },
+  {
+   "cn": "医学化",
+   "en": "medicalization",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "日常生活越来越多地进入医学领域，受到医学的影响和控制，尤其是把社会上或者道德上认为不合适的行为贴上医学标签、委托医学职业予以治疗的过程。其关键在于对原来不属于医学范畴的问题进行医学定义。它跟医学职业声"
+  },
+  {
+   "cn": "医学化",
+   "en": "medicalization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.024",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "把非医疗问题当作医疗问题对待和定义的过程。"
+  },
+  {
+   "cn": "医事法",
+   "en": "medical jurisprudence",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.185",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "在卫生法中主要调整医疗服务法律关系的法律法规总称。"
+  },
+  {
+   "cn": "医疗器械",
+   "en": "medical instrument",
+   "source": "消毒学",
+   "wordNumber": "4.6.9",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "直接或者间接用于人体的仪器、设备、器具、体外诊断试剂及校准物、材料以及其他类似或者相关的物品。"
+  },
+  {
+   "cn": "医用织物",
+   "en": "medical textile",
+   "source": "消毒学",
+   "wordNumber": "4.6.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医院内可重复使用的纺织品，包括患者使用的衣物、床单、被罩、枕套；工作人员使用的工作服、帽；手术衣、手术铺单；病床隔帘、窗帘等。"
+  },
+  {
+   "cn": "医疗用水",
+   "en": "medical water",
+   "source": "消毒学",
+   "wordNumber": "4.6.11",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构用于诊疗活动和器械处理时使用的水。"
+  },
+  {
+   "cn": "医用清洗剂",
+   "en": "medical detergent",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "增强水对诊疗器械、器具及其相关物品上污物清洗效果的制剂。"
+  },
+  {
+   "cn": "医用级",
+   "en": "medical grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "符合医药相关的法律法规和质量安全标准，用此级别原料加工制造的医药产品有效成分纯度达到治疗和预防疾病的要求。"
+  },
+  {
+   "cn": "医疗废物",
+   "en": "medical waste",
+   "source": "消毒学",
+   "wordNumber": "7.2",
+   "subjectFullName": "消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "医疗卫生机构在医疗、预防、保健以及其他相关活动中产生的具有直接或者间接感染性、毒性以及其他危害性的废物。"
+  },
+  {
+   "cn": "医疗照射",
+   "en": "medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.2.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类",
+   "subjectName": "照射人员分类",
+   "publishYear": "2025",
+   "definition": "患者或受检者因自身医学诊断、治疗或健康检查所受到的照射；知情但自愿帮助和安慰患者的人员（不包括职业受照人员）所受到的照射；以及生物医学研究计划中志愿者受到的照射。"
+  },
+  {
+   "cn": "医学社会学",
+   "en": "medical sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.11.1.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_医学社会学学科界定",
+   "subjectName": "医学社会学学科界定",
+   "publishYear": "2025",
+   "definition": "社会学的一个分支，用社会学的方法研究医疗健康领域的问题，包括医生、病人等医学领域的角色规范和角色关系，健康、疾病、就医行为等医学现象的社会学解释，对健康和疾病的各类文化反映，以及对各类医疗机构的组织研"
+  },
+  {
+   "cn": "医疗救助",
+   "en": "medical assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "政府和社会为因病而无经济能力进行治疗的贫困人员提供基本的疾病预防、救治以及医疗健康服务等专项帮助和支持的一项社会救济制度。"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institute",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.64",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "提供医疗服务的机构。其职责是诊疗伤病、收容伤病员、健康检查、预防接种、接生等。可按所有权、服务对象、患者住院期的长短、规模大小、设备和编制等来分类，如传染病院、妇产科医院、联合诊所、医疗站、卫生所等。"
+  },
+  {
+   "cn": "医疗社会保险",
+   "en": "medical insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.84",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "国家通过立法方式强制性地向法定范围的劳动者及其他社会成员征缴医疗保险基金，在劳动者（或公民）因患病、负伤、年老、生育、失业或其他原因收入中断需要医疗费用时，由国家或企业提供医疗和物质保障的一种社会保险"
+  },
+  {
+   "cn": "医疗规制",
+   "en": "medical regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府从资源有效配置和服务的公平供给出发，确定医疗服务机构的产品或服务价格标准，并对个人或保险机构支付给医疗机构费用进行调节与控制的方法。主要包括准入规制、质量规制和信息规制等。"
+  },
+  {
+   "cn": "卫生技术人员",
+   "en": "medical personnel",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "在卫生领域提供医疗卫生服务的专业人员，包括医师（士）、护师（士）、药师（士）、技师（士）及其他卫生专业人员等。"
+  },
+  {
+   "cn": "医学教育",
+   "en": "medical education",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医学教育人才市场",
+   "subjectName": "医学教育人才市场",
+   "publishYear": "2025",
+   "definition": "由医科院校为主实施的以传授医学或药学知识，培养从事医务工作所需能力为主要内容的教育。"
+  },
+  {
+   "cn": "医疗保障",
+   "en": "medical security",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "通过立法规定国家、企业和个人的权利与义务，动员全社会的力量,通过筹集和支付资金、组织卫生服务和医疗物资的提供,分担社会成员的疾病风险,保障人群健康的一种社会保障制度安排。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

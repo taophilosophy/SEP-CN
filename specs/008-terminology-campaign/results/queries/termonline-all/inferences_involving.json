@@ -1,0 +1,592 @@
+{
+ "key": "inferences involving",
+ "term": "inferences involving",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:49:59+00:00",
+ "status": "ok",
+ "note": "variant=inferences involving; 审定公布名词库=189; 海峡两岸名词对照库=64; 其他来源数据库=10; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "参与",
+   "en": "involvement",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.017",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "涉入或参加某种沟通或交际的活动。"
+  },
+  {
+   "cn": "推理",
+   "en": "inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.043",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由一个或几个已知的判断（前提），推导出一个未知的结论的思维过程。"
+  },
+  {
+   "cn": "推论",
+   "en": "inference",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "根据研究证据推导出的结论，是基于证据的判断。"
+  },
+  {
+   "cn": "工作参与度",
+   "en": "working involvement",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.095",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "组织成员在心理上对工作的认可程度。参与度高的组织成员对所从事的工作有很强的认同感，且对工作表现和生产效率具有直接的积极影响。"
+  },
+  {
+   "cn": "任务卷入",
+   "en": "task involvement",
+   "source": "精神医学名词",
+   "wordNumber": "03.401",
+   "subjectFullName": "精神医学_诊断分类_儿童情绪与行为障碍",
+   "subjectName": "儿童情绪与行为障碍",
+   "publishYear": "2019",
+   "definition": "对某项活动保持注意并继续坚持直到某种程度完成的过程。"
+  },
+  {
+   "cn": "读者参与",
+   "en": "reader involvement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.307",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "图书馆请用户参与到图书馆管理工作的计划、讨论、决策和实施的现象。具体可包括文献采访、读者服务、图书馆决策等内容，是图书馆服务和管理的新形式。"
+  },
+  {
+   "cn": "员工参与",
+   "en": "employee involvement",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0358",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源管理法规",
+   "subjectName": "人力资源管理法规",
+   "publishYear": "2016",
+   "definition": "组织为提高经营效率，鼓励员工参与其所在职位的设计、组织和管理的活动。"
+  },
+  {
+   "cn": "工作卷入",
+   "en": "job involvement",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0429",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_职位分析与设计",
+   "subjectName": "职位分析与设计",
+   "publishYear": "2016",
+   "definition": "心理上对工作认同和在行为上投入的程度。"
+  },
+  {
+   "cn": "消费者卷入",
+   "en": "consumer involvement",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0204",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "消费者在对一个营销刺激反应中所从事的参与和积极处理信息的程度。"
+  },
+  {
+   "cn": "家庭参与",
+   "en": "family involvement",
+   "source": "教育学名词",
+   "wordNumber": "06.072",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "家长对托幼机构工作的介入。"
+  },
+  {
+   "cn": "会话投入",
+   "en": "conversational involvement",
+   "source": "语言学名词",
+   "wordNumber": "12.134",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "会话过程中，个人感受到与他人的事情、思想、措辞等有情感联系而积极参与。“高度投入”（high involvement）的会话风格常表现为与别人的话轮重叠、不留间歇等。"
+  },
+  {
+   "cn": "推理",
+   "en": "inference,reasoning",
+   "source": "心理学名词",
+   "wordNumber": "02.643",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从若干已知的判断得出新判断的思维形式。是借助已有的知识对事物进行间接的认识。"
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于不确定的信念的推理理论。用信念测度（而非古典逻辑的真与假）来建立科学工作中诸如相反证据所导致的不确定信念的推理模式和形式模型。"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "在经典的统计归纳、推理、估计和假设检验的基础上发展起来的一种推理方法。推理时不仅要根据当前所观察到的样本信息，而且还要根据推理者过去有关的经验和知识。"
+  },
+  {
+   "cn": "似然推理",
+   "en": "plausible inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.045",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "根据模糊输入和模糊规则，按照确定好的推理方法进行推理，得到模糊输出量的过程。"
+  },
+  {
+   "cn": "定性推理",
+   "en": "qualitative inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.046",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "从物理系统、生命系统的结构描述出发，导出行为描述，以便预测系统行为并给出原因解释。"
+  },
+  {
+   "cn": "正向推理",
+   "en": "forward inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.049",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "按照由条件推出结论的方向进行的推理方式，它从一组事实出发，使用一定的推理规则，来证明目标事实或命题的成立。"
+  },
+  {
+   "cn": "反向推理",
+   "en": "backward inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.050",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由结论出发，为验证该结论的正确性去知识库中查找证据。"
+  },
+  {
+   "cn": "双向推理",
+   "en": "bidirectional inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.051",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "既自顶向下，又自底向上的推理，直至某个中间界面上两方向结果相符便成功结束。"
+  },
+  {
+   "cn": "任意推断",
+   "en": "arbitrary inference",
+   "source": "行为医学名词",
+   "wordNumber": "2.109",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "不经严格推理，在缺乏事实依据的情况下，草率地得出结论。"
+  },
+  {
+   "cn": "自我卷入",
+   "en": "ego involvement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "任务参与",
+   "en": "task involvement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "武断推论",
+   "en": "arbitrary inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意识推理",
+   "en": "unconscious inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直接推理",
+   "en": "direct inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归纳推理",
+   "en": "inductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性推理",
+   "en": "uncertain inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多路推理",
+   "en": "multiline inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟推理",
+   "en": "analogical inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "启发式推理",
+   "en": "heuristic inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统计推理",
+   "en": "statistic inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有我之境，无我之境",
+   "en": "Scene Involving the Self / Scene Not Involving the Self",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "举一反三",
+   "en": "Infer Three Other Related Aspects from One Concept",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "求同存异",
+   "en": "Seek Common Ground While Setting Aside Differences",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "适应公众获取信息渠道的变化",
+   "en": "to meet people’s evolving ways of acquiring information",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "第424次香山科学会议（中国）",
+   "en": "The 424th Session of Xiangshan Science Conferences (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法与时变，礼与俗化",
+   "en": "Laws Change Along with Evolving Times; Rites Shift Along with Changing Customs",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "男性参与",
+   "en": "male involvement",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.1.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_计划生育服务",
+   "subjectName": "计划生育服务",
+   "publishYear": "2025",
+   "definition": "强调男子在两性关系和家庭生育计划中的共同责任。具有负责任的性行为、生殖与避孕行为、预防性传播疾病的行为；承担母婴健康保护和促进的责任；对家庭收入、儿童教育、营养与健康的共同贡献；促进性别平等的责任等。"
+  },
+  {
+   "cn": "社区参与",
+   "en": "community involvement",
+   "source": "社会医学名词",
+   "wordNumber": "3.16",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社区参与",
+   "publishYear": "2025",
+   "definition": "社区居民自愿参与社区事务或活动的过程，旨在促进社区发展与改善社区居民生活质量。"
+  },
+  {
+   "cn": "青少年参与策略",
+   "en": "involvement of adolescents and young people",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "在健康促进过程中，青少年作为主体参与规划、实施、监测和评估，促进伙伴关系和建立开放的沟通渠道，促进实现共同目标的政策制定方法。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0091",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "不同性别由于社会心理差异所呈现的不同的言语特征。"
+  },
+  {
+   "cn": "年龄差异",
+   "en": "age differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0093",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一言语社区内不同年龄段的人在使用语言变体上的差别。通常老年人的语言变体比较传统和保守，年轻人的语言变体比较简化和创新。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0046",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同地区、民族的人们所持有的文化的差别。"
+  },
+  {
+   "cn": "代别",
+   "en": "generation differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0092",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一个言语社区内不同代际之间的言语差别。"
+  },
+  {
+   "cn": "消灭阶级和阶级差别",
+   "en": "eliminate class and class differences",
+   "source": "马克思主义",
+   "wordNumber": "03.0023",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会上不再存在任何阶级，人与人之间不再存在阶级关系。阶级是在社会生产力有了一定发展而又发展不足的条件下产生的。消灭阶级和阶级差别的物质前提是社会生产力的高度发展。阶级是否消亡是社会主义社会与共产主义社"
+  },
+  {
+   "cn": "搁置争议共同开发",
+   "en": "shelving differences and seeking joint development",
+   "source": "马克思主义",
+   "wordNumber": "04.0158",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在解决某些国际争端时可以暂时不涉及两国的主权争议，共同开发诸如海底石油之类的自然资源。这是一种和平解决国际争端的方式，是邓小平将“一国两制”思想延伸到某些国际问题的处理上提出的解决方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

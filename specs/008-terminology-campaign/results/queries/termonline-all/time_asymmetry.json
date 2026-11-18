@@ -1,0 +1,802 @@
+{
+ "key": "time asymmetry",
+ "term": "time asymmetry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:37:23+00:00",
+ "status": "ok",
+ "note": "variant=time asymmetry; 审定公布名词库=3506; 海峡两岸名词对照库=1274; 其他来源数据库=285; 预公布名词数据库=92; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "不对称性",
+   "en": "asymmetry",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.080",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物特征在某种变换操作下不具有保持和原来一样的属性。是跨物理学、生物学、社会学与系统论等学科的概念。"
+  },
+  {
+   "cn": "非对称性",
+   "en": "asymmetry",
+   "source": "物理学名词",
+   "wordNumber": "01.0166",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不对称",
+   "en": "asymmetry",
+   "source": "药学名词",
+   "wordNumber": "03.056",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "在分子的立体结构中，因缺乏对称面，对称中心或交替对称轴等对称因素的结构特征。"
+  },
+  {
+   "cn": "不对称",
+   "en": "asymmetry",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0020",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "不对称",
+   "en": "asymmetry",
+   "source": "地质学名词",
+   "wordNumber": "04.058",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不对称碎斑系",
+   "en": "asymmetry porphyroclast",
+   "source": "地质学名词",
+   "wordNumber": "09.06.075",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "残斑尾部形态不对称的碎斑系。是变形岩石中的一种运动学标志。包括δ型和σ型。"
+  },
+  {
+   "cn": "颜面不对称畸形",
+   "en": "facial asymmetry",
+   "source": "整形外科名词",
+   "wordNumber": "12.116",
+   "subjectFullName": "整形外科_颅颌面整形_颅颌面畸形",
+   "subjectName": "颅颌面畸形",
+   "publishYear": "2026",
+   "definition": "颜面形态左右侧的比例明显不协调与不对称导致的畸形。首要的病理特征是颌骨的不对称，因而导致颜面软组织不对称。"
+  },
+  {
+   "cn": "乳房不对称",
+   "en": "breast asymmetry",
+   "source": "整形外科名词",
+   "wordNumber": "18.07",
+   "subjectFullName": "整形外科_乳房整形_乳房形态异常",
+   "subjectName": "乳房形态异常",
+   "publishYear": "2026",
+   "definition": "两侧乳房在大小、形态、位置上有明显差异的现象。通常可以通过体积、轮廓、测量径线的差异反映出来。胸廓不对称也是原因之一。"
+  },
+  {
+   "cn": "鼻孔不对称",
+   "en": "nostril asymmetry",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.5.28",
+   "subjectFullName": "鼻科_鼻畸形",
+   "subjectName": "鼻畸形",
+   "publishYear": "2025",
+   "definition": "两侧鼻孔大小、高低不一的外鼻畸形。"
+  },
+  {
+   "cn": "膜不对称性",
+   "en": "membrane asymmetry",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0039",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜流动性",
+   "subjectName": "膜流动性",
+   "publishYear": "2024",
+   "definition": "组成细胞膜的脂质和膜蛋白质在内外层不对称分布的现象。如磷脂酰胆碱多定位于质膜的外层，而磷脂酰丝氨酸则多分布在其内层。"
+  },
+  {
+   "cn": "重子不对称性",
+   "en": "baryon asymmetry",
+   "source": "天文学名词",
+   "wordNumber": "07.472",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "可观测宇宙中重子远远多于反重子的不对称性。"
+  },
+  {
+   "cn": "不对称因子",
+   "en": "asymmetry factor",
+   "source": "光学名词",
+   "wordNumber": "01.616",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "散射角余弦按散射相函数的加权平均值。是散射相函数的一阶矩，其值域范围为[–1，1]，表示散射量在散射方向所占的权重。"
+  },
+  {
+   "cn": "表观遗传非对称性",
+   "en": "epigenetic asymmetry",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.473",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "具有相同DNA序列的两个基因组，对基因的表达和抑制具有不同调控方式的特性。如发生不同的可逆和可遗传的修饰。"
+  },
+  {
+   "cn": "不对称循环",
+   "en": "asymmetry cycle",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0108",
+   "subjectFullName": "机械工程（一）_机械强度_结构疲劳",
+   "subjectName": "结构疲劳",
+   "publishYear": "2021",
+   "definition": "恒幅循环载荷中，最大载荷与最小载荷的绝对值不相等的循环。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry",
+   "source": "电力名词",
+   "wordNumber": "06.425",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "在社会政治、经济等活动中,一些成员拥有其他成员无法拥有的信息,由此造成信息的不对称。能产生交易关系和契约安排的不公平或者市场效率降低问题。"
+  },
+  {
+   "cn": "电荷不对称性",
+   "en": "charge asymmetry",
+   "source": "物理学名词",
+   "wordNumber": "09.1060",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "膜不对称性",
+   "en": "membrane asymmetry",
+   "source": "生物物理学名词",
+   "wordNumber": "03.019",
+   "subjectFullName": "生物物理学_膜与细胞生物物理学_生物膜组成、性质和动态",
+   "subjectName": "生物膜组成、性质和动态",
+   "publishYear": "2018",
+   "definition": "膜蛋白或脂质分子在脂双层的内、外两个半层中分布不均匀的特性。如有些膜蛋白主要分布于脂双层的外层或内层，而磷脂分子亦然，如磷脂酰胆碱多定位于脂双层的外侧，而磷脂酰丝氨酸则多分布其内侧。"
+  },
+  {
+   "cn": "非对称参数",
+   "en": "asymmetry parameter",
+   "source": "化学名词",
+   "wordNumber": "03.2622",
+   "subjectFullName": "化学_分析化学_仪器分析_能谱分析",
+   "subjectName": "能谱分析",
+   "publishYear": "2016",
+   "definition": "考虑非偏振X射线从孤立原子击出的光电子与入射X射线成角度γ对不同轨道光电子强度分布影响的1个因子。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0134",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "由于相关利益各方针对同一事务所拥有的信息在诸多方面的不同，导致利益各方在利益的产生、分配、控制和处置上存在严重的失衡。"
+  },
+  {
+   "cn": "峰不对称度",
+   "en": "peak asymmetry",
+   "source": "药学名词",
+   "wordNumber": "06.324",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "为衡量正常色谱峰与不正常色谱峰的指标。用T表示，<img src='/root/syzx/static/spz/yaoxue2.06.324.01.png'/>。T在0.95~1.05之间为对称峰；小"
+  },
+  {
+   "cn": "不对称",
+   "en": "asymmetry",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非对称因子",
+   "en": "asymmetry factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "报偿不对称",
+   "en": "payoff asymmetry",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "膜不对称性",
+   "en": "membrane asymmetry",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "峰不对称度",
+   "en": "peak asymmetry",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非对称参数β",
+   "en": "asymmetry parameter β",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "资源占有潜力不对称",
+   "en": "resource-holding potential asymmetry\",\"RHP asymmetry",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "左右不对称",
+   "en": "left-right asymmetry",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "目标不对称",
+   "en": "asymmetry of object",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "时值",
+   "en": "time",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "时刻",
+   "en": "time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "timing",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "定时，计时",
+   "en": "timing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干时间",
+   "en": "coherence time\",\"decorrelation time",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "凝固时间",
+   "en": "set time\",\"setting time",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "停滞时间",
+   "en": "dead time\",\"detention time",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "四四拍子",
+   "en": "common time\",\"perfect time",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时滞",
+   "en": "time lag\",\"time delay",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时",
+   "en": "Time / Timing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时间到！",
+   "en": "Time!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "暂停！",
+   "en": "Time!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"time-keeping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "掌握时机",
+   "en": "timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "体能发育不均衡性",
+   "en": "asymmetry in physical fitness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "儿童少年体能指标在不同年龄的发育速度有快有慢的特点。"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "马克思主义",
+   "wordNumber": "01.0027",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质存在的基本形式之一，指物质运动的持续性、顺序性和间隔性，时间具有一维性，即不可逆性。"
+  },
+  {
+   "cn": "时间贴现",
+   "en": "time discount",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "个体在面对不同时间点的收益或损失时，倾向于高估近期收益、低估远期收益的现状，适用于疾病经济负担评估中一些时间跨度长的评估。"
+  },
+  {
+   "cn": "辐射时间",
+   "en": "irradiation time",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.19",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "采用辐照的方式进行消毒的作用时间。"
+  },
+  {
+   "cn": "暴露时间",
+   "en": "exposure time",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "灭菌对象与消毒因子有效接触的时间。"
+  },
+  {
+   "cn": "存活时间",
+   "en": "survival time",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，暴露于杀菌因子，生物指示物中微生物存活的最长时间。"
+  },
+  {
+   "cn": "响应时间",
+   "en": "response time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当暴露于被测量的变量逐步改变时，传感器输出90%变化的信号所需要的时间。"
+  },
+  {
+   "cn": "持续时间",
+   "en": "holding time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在某灭菌阶段，灭菌器内以及装载内所有位置的灭菌变量持续保持在规定限值内的时间。"
+  },
+  {
+   "cn": "崩解时间",
+   "en": "disintegration time",
+   "source": "消毒学",
+   "wordNumber": "6.1.14.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "崩解试验时，固体消毒剂裂碎成细小颗粒且完全溶解所需的时间。"
+  },
+  {
+   "cn": "代时",
+   "en": "generation time",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在细菌培养过程中，对数期中细胞数目或生物量增加一倍所需要的时间。"
+  },
+  {
+   "cn": "死时间",
+   "en": "dead time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.14",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，两个相继出现，并能被分辨开的脉冲或电离事件之间的最小时间间隔(τ)。"
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，能检测脉冲信号的时间。亦即总的测量时间扣除死时间后的时间。"
+  },
+  {
+   "cn": "时间防护",
+   "en": "time protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "缩短接触电离辐射的时间以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "加载时间",
+   "en": "loading time",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.44",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "将阳极输入功率加于X射线管的时间。"
+  },
+  {
+   "cn": "照射时间",
+   "en": "irradiation time",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.45",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "照射持续时间，通常是辐射量率超过某一规定水平的时间。"
+  },
+  {
+   "cn": "定时开关",
+   "en": "time switch",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.1",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "预置照射时间的一种装置。当照射到达预置时间时给出停止照射的信号并终止照射。"
+  },
+  {
+   "cn": "劳动时间",
+   "en": "labor time",
+   "source": "马克思主义",
+   "wordNumber": "02.0193",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "计量生产商品所耗费的劳动量的单位。劳动本身的量则用劳动的持续时间来计量。一定的时间单位，如小时、日是劳动时间的尺度。劳动时间有个别劳动时间和社会必要劳动时间之别。"
+  },
+  {
+   "cn": "周转时间",
+   "en": "turnover time",
+   "source": "马克思主义",
+   "wordNumber": "02.0199",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "预付资本价值经历一次循环或再生产过程所持续的时间。或者说，它是从资本价值以一定的形式预付时起，到处在过程中的资本价值回到同一形式上的一段时间。它等于资本的生产时间和流通时间之和。"
+  },
+  {
+   "cn": "时间偏好",
+   "en": "time preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体愿意用当前的效用去交换未来效用的偏好。是当前和未来效用的边际替代率。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

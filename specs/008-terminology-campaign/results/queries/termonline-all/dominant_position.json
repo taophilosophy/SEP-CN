@@ -1,0 +1,802 @@
+{
+ "key": "dominant position",
+ "term": "dominant position",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:44:28+00:00",
+ "status": "ok",
+ "note": "variant=dominant position; 审定公布名词库=1881; 海峡两岸名词对照库=643; 其他来源数据库=155; 预公布名词数据库=50; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "显性",
+   "en": "dominant",
+   "source": "农学名词",
+   "wordNumber": "06.114",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由显性等位基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "优势者",
+   "en": "dominant",
+   "source": "动物学名词",
+   "wordNumber": "7.0413",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "群居性动物中，个体差异（包括行为和生理学水平方面产生差异）对食物或配偶等关键资源的均有优先利用权力者。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance ",
+   "source": "草学名词",
+   "wordNumber": "2.0361",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "动物学名词",
+   "wordNumber": "7.0462",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "某个种在群落中地位和作用的大小。但其具体定义和计算方法意见不一。法国学者布朗凯（J. Branquet）主张以盖度、所占空间大小或重量来表示优势度，并指出在不同群落中应采用不同指标。另一些学者认为盖度"
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.335",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由显性基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "植物学名词",
+   "wordNumber": "10.0028",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "由显性等位基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "植物学名词",
+   "wordNumber": "13.0277",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "物种在群落中的作用和地位的大小。通常用多度–盖度级或重要值等来表示。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "林学名词",
+   "wordNumber": "03.062",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "某个种在群落中所具有的作用和地位的大小。经常用相对多度来表示。"
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "遗传学名词",
+   "wordNumber": "02.025",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "由显性等位基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "生态学名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某个种在群落中所具有的作用和地位的大小。经常用相对多度来表示。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "昆虫学名词",
+   "wordNumber": "06.114",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "某种昆虫个体数占群落中总虫数的百分率大小，或它对群落所起作用的程度。"
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.045",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "优势序位",
+   "en": "dominance hierarchy;dominance order;dominance system",
+   "source": "动物学名词",
+   "wordNumber": "7.0318",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "依据个体在社群中的优势程度由高到低所排列的顺序。"
+  },
+  {
+   "cn": "超显性",
+   "en": "over dominant,super dominant",
+   "source": "水产名词",
+   "wordNumber": "05.181",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "等位基因在杂合时的表现型值或生理功能优于其任一纯合体的现象。"
+  },
+  {
+   "cn": "显性突变",
+   "en": "dominant mutation",
+   "source": "农学名词",
+   "wordNumber": "15.149",
+   "subjectFullName": "农业生物技术_细胞工程",
+   "subjectName": "细胞工程",
+   "publishYear": "2025",
+   "definition": "在杂合状态下即可显现其表型效应的突变。"
+  },
+  {
+   "cn": "显性致死",
+   "en": "dominant lethal",
+   "source": "农学名词",
+   "wordNumber": "06.117",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "显性基因导致生物不能形成正常的配子或者受精卵，胚胎在发育中异常、致死或个体在发育中致死的现象。"
+  },
+  {
+   "cn": "优势种",
+   "en": "dominant species",
+   "source": "风景园林名词",
+   "wordNumber": "12.0026",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "在群落的每一层中个体数量最多、盖度最大、生活力最强、生态作用最大，并决定着该层群落的外貌、结构和群落环境的主要特征，从而也决定着群落组成的植物种。这些种的增长使群落组成结构和群落生境发生相应的变化。"
+  },
+  {
+   "cn": "显性性状",
+   "en": "dominant trait",
+   "source": "风景园林名词",
+   "wordNumber": "09.0134",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "显性等位基因支配的性状。具有一对相对性状的纯合亲本进行杂交，子一代为杂合体，相应的等位基因中其中一个对表现出的性状有明显影响，另一个则暂时不表现。"
+  },
+  {
+   "cn": "显性性状",
+   "en": "dominant character",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.080",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "在杂合子中表现出来的性状。"
+  },
+  {
+   "cn": "显性基因",
+   "en": "dominant gene",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.081",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "在杂合子的两个不同等位基因中，决定显性性状的基因。"
+  },
+  {
+   "cn": "属音",
+   "en": "dominant",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "优势者",
+   "en": "dominant",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "优势[度]",
+   "en": "dominance",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "优势序位",
+   "en": "dominance hierarchy\",\"dominance order\",\"dominance system",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "显性上位",
+   "en": "dominant epistasis\",\"dominance epistasis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显性效应",
+   "en": "dominant effect\",\"dominance effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "半显性（=不完全显性）",
+   "en": "semi-dominance (=incomplete dominance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "部分显性（=不完全显性）",
+   "en": "partial dominance (=incomplete dominance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显性基因",
+   "en": "dominant gene",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "显性等位基因",
+   "en": "dominant allele",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优势种",
+   "en": "dominant species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主要本征值",
+   "en": "dominant eigenvalue",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "主宰",
+   "en": "dominate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主控式创新",
+   "en": "dominant innovation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "制数据权",
+   "en": "data dominance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主导技术社群",
+   "en": "dominant technical community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "standing position\",\"upright position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹲踞姿势",
+   "en": "squat position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "extended position\",\"stretched position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团身姿势",
+   "en": "C position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "屈体姿势",
+   "en": "B position\",\"pike position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主宰",
+   "en": "dominance",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "城市生态学中用于解释城市中各种因素分布规律的一条准则。通过对于城市土地及其位置的竞争，某些人群或功能因素主导了城市某区域的生态分布。"
+  },
+  {
+   "cn": "支配",
+   "en": "domination",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.9",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "权力行使的一种方式，指能够使特定人群服从命令的可能性。马克斯•韦伯按照服从的动机和基础将其分为法理型、传统型与卡理斯马型等三种。"
+  },
+  {
+   "cn": "优势法则",
+   "en": "dominant rule",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮层从作用于机体的大量刺激中，选择最重要、最符合自己目的的少数刺激，在相应大脑皮层区域形成优势兴奋灶，以确保该区域高效工作的活动特性。"
+  },
+  {
+   "cn": "绝对优势方案",
+   "en": "absolute dominance",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.7.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "相比于其他方案，成本较低且效果较好的方案。"
+  },
+  {
+   "cn": "男性霸权",
+   "en": "male-dominated",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.12",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "男权制社会中以男性为主导和中心的等级制统治模式，男性占据统治者和主导者的地位，拥有统治权和主导权，女性则处在被统治和被支配的地位。"
+  },
+  {
+   "cn": "社会支配性取向",
+   "en": "social dominance orientation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.19.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群际关系",
+   "subjectName": "群际关系",
+   "publishYear": "2025",
+   "definition": "人们对于特定社会环境中不同群体之间等级差异的接受程度，尤其是对于优势群体( superior group) 支配劣势群体(inferior group) 的接受程度。一般来说，具有高社会支配取向的人更"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "阵地战",
+   "en": "positional war",
+   "source": "马克思主义",
+   "wordNumber": "05.0008",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西主张在共产党领导的“总体革命”中，无产阶级及其政党在文化领导权的获取方式上应当采用的，是不同于俄国十月革命的“运动战”，即采取暴力夺权的那种方式，而是应当在市民社会领域对资产阶级的思想阵地不断实"
+  },
+  {
+   "cn": "正面启发法",
+   "en": "positive heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家通过研究纲领发展理论与设计实验，主动解决问题或预测现象。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "党员主体地位",
+   "en": "Partys principal position",
+   "source": "马克思主义",
+   "wordNumber": "03.0775",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "广大党员是党的一切活动的主体，在党内生活和党的建设实践中居于自主、积极、主动的地位。这主要表现在：广大党员有明确的主体意识，具备较高的参政议政素质和能力，能够积极参与党内事务，认真履行义务，积极行使权"
+  },
+  {
+   "cn": "持续性枕横位",
+   "en": "persistent occipitotransverse position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆侧方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性枕后位",
+   "en": "persistent occipitoposterior position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆后方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "社会经济地位",
+   "en": "social economic position",
+   "source": "社会医学名词",
+   "wordNumber": "3.4.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "个人在社会体系中所处的位置，由性别、年龄、种族、教育、职业、收入等社会特征共同决定。"
+  },
+  {
+   "cn": "无条件积极关注",
+   "en": "unconditional positive regard",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "咨询者对求咨者做的所有事情都给予积极关注，即使客观上消极的行为也要接受的态度。在学校心理咨询中，指咨询者对求咨者的优点和进步保持高度敏感，用积极的眼光去看待求咨者在咨询室里的变化，尊重、理解对方。"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "现代医学模式下从生物学、心理学和社会学多个维度改善和控制健康影响因素的健康观。"
+  },
+  {
+   "cn": "患者定位装置",
+   "en": "patient positioning device",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.20",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗时用来固定患者体位的辅助工具，通常包括定位板、托架、热塑膜、负压袋等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

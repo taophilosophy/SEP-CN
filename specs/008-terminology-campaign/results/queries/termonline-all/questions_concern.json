@@ -1,0 +1,772 @@
+{
+ "key": "questions concern",
+ "term": "questions concern",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:51:17+00:00",
+ "status": "ok",
+ "note": "variant=questions concern; 审定公布名词库=658; 海峡两岸名词对照库=81; 其他来源数据库=44; 预公布名词数据库=64; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "提问",
+   "en": "question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者通过提问题向采访对象了解新闻事实的新闻采访方式。"
+  },
+  {
+   "cn": "约束关心",
+   "en": "constraint concern",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0991",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "由个性特征组成的向量的一个元素，可和其他元素结合起来，用以反映理性的程度。"
+  },
+  {
+   "cn": "横切关注点",
+   "en": "crosscutting concerns",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0384",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "跨越多个模块的关注点。横切关注点如果不能有效地分离和模块化，将使系统难以设计、理解、实现和演化。"
+  },
+  {
+   "cn": "十问",
+   "en": "ten questions",
+   "source": "中医药学名词",
+   "wordNumber": "04.259",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "古人所总结的问诊十项重点内容，即“一问寒热二问汗，三问头身四问便，五问饮食六问胸，七聋八渴俱当辨，九因脉色察阴阳，十从气味章神见”。"
+  },
+  {
+   "cn": "直接提问",
+   "en": "overt question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.068",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者单刀直入地向采访对象提出问题的一种手法。"
+  },
+  {
+   "cn": "隐含提问",
+   "en": "implied question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.069",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者旁敲侧击地向采访对象提出问题的一种手法。"
+  },
+  {
+   "cn": "激将法提问",
+   "en": "prodding question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.07",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者在采访时有意使用一些刺激性语言迫使采访对象回应的一种提问手法。"
+  },
+  {
+   "cn": "试验性提问",
+   "en": "test question",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.142",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "为获取最佳检索结果而进行的试验性操作。一般需对服务对象进行探索性提问，制订最初的检索方案，并根据反馈意见不断地修改，直至检索方案与服务对象的需求基本匹配或完全匹配。"
+  },
+  {
+   "cn": "咨询问题",
+   "en": "reference question",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.205",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借",
+   "subjectName": "文献传递与馆际互借",
+   "publishYear": "2019",
+   "definition": "图书馆用户在寻找专门信息或使用图书馆资源与服务时以现场、电话或互联网的方式提出的请求。"
+  },
+  {
+   "cn": "倾向型问题",
+   "en": "tendentious question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.079",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "提问者提出的表达了自己的倾向，给对方以暗示和诱导的问题。"
+  },
+  {
+   "cn": "复合型问题",
+   "en": "combined question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.080",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "一句话中包括了两个或两个以上问题的问题。"
+  },
+  {
+   "cn": "试探型问题",
+   "en": "probing question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.078",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "提问者提出的对对方进行试探，以证实某种估测的问题。"
+  },
+  {
+   "cn": "克什米尔问题",
+   "en": "Kashmir Question",
+   "source": "世界历史名词",
+   "wordNumber": "01.0703",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "印巴分治后，印度和巴基斯坦之间因克什米尔归属问题而引起的争端。"
+  },
+  {
+   "cn": "魁北克问题",
+   "en": "Quebec Question",
+   "source": "世界历史名词",
+   "wordNumber": "03.0302",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_加拿大",
+   "subjectName": "加拿大",
+   "publishYear": "2012",
+   "definition": "加拿大因为魁北克省的法裔居民要求该省独立而造成的民族矛盾问题。"
+  },
+  {
+   "cn": "东方问题",
+   "en": "Eastern Question",
+   "source": "世界历史名词",
+   "wordNumber": "01.0700",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "世界近代史上欧洲列强为争夺东边奥斯曼帝国所属领土和权益的一系列国际问题。"
+  },
+  {
+   "cn": "特指问句",
+   "en": "specific question",
+   "source": "语言学名词",
+   "wordNumber": "04.159",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "疑问句的一种。用疑问代词或由疑问代词加其他词组成的短语对具体的人、物、时间、场所、方式、原因、工具等提出疑问，句尾可用语气词“呢”“啊”（不用“吗”），全句带疑问语调。发问者希望对方做出具体的回答。例"
+  },
+  {
+   "cn": "选择问句",
+   "en": "alternative question",
+   "source": "语言学名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "疑问句的一种。发问者提出两个或几个具体项目请对方选择，项目之间往往用“还是”连接，句尾可用语气词“呢”“啊”（不用“吗”），全句带疑问语调。例如，“咱们今天去还是明天去？”“你寒假去广州还是深圳？”"
+  },
+  {
+   "cn": "无危",
+   "en": "least concern,LC",
+   "source": "植物学名词",
+   "wordNumber": "13.0636",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "当一分类单位被评估未达到极危、濒危、渐危或近危标准的状况。该分类单位即列为无危。广泛分布和种类丰富的分类单位都属于该等级。"
+  },
+  {
+   "cn": "非贸易关注",
+   "en": "non-trade concern",
+   "source": "农学名词",
+   "wordNumber": "19.191",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "国际贸易中未能反映的成员国多方面社会与福利问题。如粮食安全、环境保护、农村发展、就业和扶贫等。这些问题的常规解决方式有悖于世界贸易组织贸易规则，需要给予特别的豁免安排。"
+  },
+  {
+   "cn": "关注污染物",
+   "en": "contaminant of concern",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.618",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "根据场地污染特征和场地利益相关方意见，确定需要进行调查和风险评估的污染物。"
+  },
+  {
+   "cn": "问题回答系统",
+   "en": "question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常见问题",
+   "en": "frequently asked questions\",\"FAQ",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基于知识的问答系统",
+   "en": "knowledge-based question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船舶碰撞民事管辖权某些规定的国际公约",
+   "en": "International Convention on Certain Rules Concerning Civil Jurisdiction in Matters of Collision",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一国有船舶豁免某些规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules Concerning the Immunity of State-owned Ships",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "音乐会",
+   "en": "concert",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "音乐会咏叹调",
+   "en": "concert aria",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "音乐会音高",
+   "en": "concert pitch",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "交响吹奏乐团",
+   "en": "concert band",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "音乐会序曲",
+   "en": "concert overture",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "协和音",
+   "en": "concord",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "协和和弦",
+   "en": "concord",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "癌[症]",
+   "en": "cancer",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "癌[症]",
+   "en": "cancer",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "意大利协奏曲",
+   "en": "Italian Concerto",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bach, Johann Sebastian"
+  },
+  {
+   "cn": "加冕协奏曲",
+   "en": "Coronation Concerto",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mozart, Wolfgang Amadeus"
+  },
+  {
+   "cn": "康科德奏鸣曲",
+   "en": "Concord Sonata",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Ives, Charles"
+  },
+  {
+   "cn": "乌木协奏曲",
+   "en": "Ebony Concerto",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Stravinsky, Igor"
+  },
+  {
+   "cn": "概念同化",
+   "en": "concept assimilation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛装备的抗议",
+   "en": "protest concerning equipment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对参赛资格的抗议",
+   "en": "protest concerning eligibility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛线路的抗议",
+   "en": "protest concerning the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛的抗议",
+   "en": "protest concerning the race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对计时和成绩的抗议",
+   "en": "protest concerning timing and results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高度重视公共利益",
+   "en": "serious concern for the public good",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源权益",
+   "en": "rights and interests concerning data resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际关注的突发公共卫生事件",
+   "en": "public health emergency of international concern (PHEIC)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "及时回应社会关切",
+   "en": "to provide timely responses to public concerns",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《关于推进公安信息化发展若干问题的意见》（中国）",
+   "en": "Opinions on Several Issues Concerning IT-Based Development of the Police (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位卑未敢忘忧国",
+   "en": "Whatever my status, I will never lay aside my concern for the nation.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "《关于建立“一带一路”国际商事争端解决机制和机构的意见》",
+   "en": "Opinion Concerning the Establishment of the Belt and Road International Commercial Dispute Resolution Mechanism and Institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《关于互联网法院审理案件若干问题的规定》（中国）",
+   "en": "Provisions of the Supreme People’s Court on Several Issues Concerning the Adjudication of Cases by Internet Courts (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念图",
+   "en": "concept map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发运营理念",
+   "en": "DevOps concept",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲民",
+   "en": "people-concerned",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "引导、稳定一般民众，培育和维持社会秩序的施政和制度建设。语出《大学》中“大学之道，在明明德，在亲民，在止于至善。”后世儒家对此多有阐释，如在宋儒那里，解释分别侧重教育（德治）或养民（财，事功）等不同方"
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "关注水平",
+   "en": "level of concern, LOC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "为保护消费者健康而制定的用于临时管理的食品中某危害因素的含量水平"
+  },
+  {
+   "cn": "关注浓度水平",
+   "en": "concentration level of concern",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.45",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对判断样品中物质或分析物是否符合法规规定和要求的有决定性意义的浓度。如容许限浓度。"
+  },
+  {
+   "cn": "老龄工作",
+   "en": "work concerning the aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.8",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "为解决人口老龄化带来的经济社会发展问题、满足老年人的特殊需要的所有工作。"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "source": "马克思主义",
+   "wordNumber": "04.0069",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁在1912—1916年间写了7本关于民族问题的笔记，其中《民族问题（Ⅱ）笔记》阐述了反对大俄罗斯主义、反对乌克兰资产阶级民族主义观点。在《民族问题提纲》中从十个方面论述俄国民族问题，以及党解决民族"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0212",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "矛盾的特殊性原理在理论和实践中的运用。它要求在马克思主义原理指导下，从客观实际出发，具体分析矛盾的特殊性，并找出解决矛盾的正确方法，是马克思主义的重要方法论原则。"
+  },
+  {
+   "cn": "毒理学关注阈值",
+   "en": "threshold of toxicological concern, TTC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在对大量化学物的化学结构特征和相关毒理学数据分析的基础上，为不同类别化学物的暴露水平建立的一个安全阈值。如果暴露量低于该阈值，就可以预测其不会对人体健康造成危害。"
+  },
+  {
+   "cn": "统筹兼顾",
+   "en": "unified planning with due consideration for all concerned",
+   "source": "马克思主义",
+   "wordNumber": "02.0428",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "统一筹划,兼顾各方。其核心是统筹各方面利益关系，充分调动各方面积极性。毛泽东首先提出统筹兼顾的思想，邓小平、江泽民、胡锦涛、习近平等党和国家领导人继承和发展了统筹兼顾的思想。统筹兼顾是科学发展观的根本"
+  },
+  {
+   "cn": "权为民所用情为民所系利为民所谋",
+   "en": "exercising power for the people showing concern for them and working for their interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0766",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "权为民所用，就是要正确看待和运用手中的权力，用人民赋予的权力服务于人民、造福于人民，绝不以权谋私；情为民所系，就是要坚持与人民群众心连心，倾听群众呼声，关心群众疾苦，切实帮助群众解决实际困难，绝不脱离"
+  },
+  {
+   "cn": "跳出历史周期率的第二个答案",
+   "en": "the second answer to the question of how to escape the historical cycle of rise and fall",
+   "source": "马克思主义",
+   "wordNumber": "03.0831",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在党的二十大报告中强调，“经过不懈努力，党找到了自我革命这一跳出治乱兴衰历史周期率的第二个答案，自我净化、自我完善、自我革新、自我提高能力显著增强，管党治党宽松软状况得到根本扭转，风清气正的党内"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "马克思主义",
+   "wordNumber": "01.0205",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "反映事物的本质特征和内部联系的思维形式，是人类理性认识的基本形式之一。概念的产生是感性反映形式上升到理性反映形式的标志。"
+  },
+  {
+   "cn": "康采恩",
+   "en": "konzern",
+   "source": "马克思主义",
+   "wordNumber": "02.0308",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "德语“多种企业集团”的音译。把分属于不同经济部门的许多企业联合而形成的更高级形式的垄断组织。参加康采恩的有数以百计的不同部门的工业企业、运输公司、商业公司、银行、保险公司和服务性行业，而其中是以金融控"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个人在社会化过程中逐渐形成的关于自身及其与所处环境之间关系的多维度、多层次的认知和评价，其中包括对自身生理特征、心理特征、人际关系状况、社会角色与地位、成长史、未来发展预期等方面内容的认知和评价。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己各个方面的看法和情感的总和。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "correct description",
+ "term": "correct description",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:49:04+00:00",
+ "status": "ok",
+ "note": "variant=correct description; 审定公布名词库=2426; 海峡两岸名词对照库=767; 其他来源数据库=61; 预公布名词数据库=45; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "说明",
+   "en": "description",
+   "source": "档案学名词",
+   "wordNumber": "02.04.032",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "表达方式中的一种。对客观事物的性质、状态、特征、成因、构造、功能、用途所进行的介绍解说和阐释。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "动物学名词",
+   "wordNumber": "2.0073",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "对分类单元的特征进行规范性的表述。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "植物学名词",
+   "wordNumber": "02.0123",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "通过记录植物的性状状态而将植物的特征列出来的过程。"
+  },
+  {
+   "cn": "[书目]著录",
+   "en": "description",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0432",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "在编制文献目录时，对文献信息的内容和形式特征进行分析、选择和记录的过程。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "微生物学名词",
+   "wordNumber": "02.073",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "对特定微生物菌株的分类学特征进行规范性的表述。"
+  },
+  {
+   "cn": "譬况",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "09.190",
+   "subjectFullName": "语言学_音韵学_语音通转和古音学",
+   "subjectName": "语音通转和古音学",
+   "publishYear": "2011",
+   "definition": "早期的汉字注音法的一种。以同音字或近音字比拟被注音字的读音，或对其发音特征加以描写。包括长言、短言、急气、缓气、内言、外言等。"
+  },
+  {
+   "cn": "摹状词",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "①词汇学指摹写事物情状的词。例如“哗啦啦”“油汪汪”。②逻辑语义学指表示单独概念的词项之一，通过描述单一对象的唯一特性来指称该对象。"
+  },
+  {
+   "cn": "性状描述",
+   "en": "description",
+   "source": "中医药学名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "以现代科学手段，从宏观角度对药材或饮片的外形特征用科学名词进行详细准确的描述。"
+  },
+  {
+   "cn": "摹状[词]",
+   "en": "description",
+   "source": "数学名词",
+   "wordNumber": "02.0020",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "纠正",
+   "en": "correct",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0741",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为消除已发现的不合格情况所采取的措施。"
+  },
+  {
+   "cn": "校正",
+   "en": "correction",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.189",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "修改稿件的一种具体方式。主要是对稿件内容与形式方面存在的问题进行修正。"
+  },
+  {
+   "cn": "更正",
+   "en": "correction",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.251",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "编辑部为改正已发表的文章中存在的错误在后期的刊物上所发的公开声明。"
+  },
+  {
+   "cn": "校正",
+   "en": "correction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.050",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "改正稿件中不准确的内容和不规范的写法。"
+  },
+  {
+   "cn": "γ校正",
+   "en": "γ correction",
+   "source": "光学名词",
+   "wordNumber": "17.125",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "对光电成像的整个过程中各个环节的非线性响应使用γ次幂函数对图像进行校正的技术。"
+  },
+  {
+   "cn": "修正",
+   "en": "correction",
+   "source": "电力名词",
+   "wordNumber": "02.118",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "将测量误差用代数方法加到实测结果上,以消除或减小被测仪器仪表的系统误差的处理过程。"
+  },
+  {
+   "cn": "修正",
+   "en": "correction",
+   "source": "物理学名词",
+   "wordNumber": "01.0110",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "校正",
+   "en": "correction",
+   "source": "物理学名词",
+   "wordNumber": "01.0109",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "校正",
+   "en": "correction",
+   "source": "核医学名词",
+   "wordNumber": "03.0330",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "对测量结果或图像偏离真实情况的因素进行的纠正。"
+  },
+  {
+   "cn": "修正",
+   "en": "correction",
+   "source": "计量学名词",
+   "wordNumber": "01.089",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "对估计的系统误差的补偿。"
+  },
+  {
+   "cn": "修正值",
+   "en": "correction",
+   "source": "心理学名词",
+   "wordNumber": "03.241",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "为了调整实验数据与实际数据之间存在的偏差而引入的数值。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "矫味药",
+   "en": "correctant （=corrective）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "正确性",
+   "en": "correctness",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "修正，校正",
+   "en": "correction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正确性",
+   "en": "correctness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矫味药",
+   "en": "corrective",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "数据库描述",
+   "en": "database description",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图像描述",
+   "en": "image description",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "土地标定",
+   "en": "land description",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "作业描述",
+   "en": "job description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定性描述",
+   "en": "qualitative description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式描述",
+   "en": "pattern description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区域描述，区域描绘",
+   "en": "region description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "设备描述",
+   "en": "device description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事件描述",
+   "en": "event description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "瞬时描述",
+   "en": "instantaneous description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式描述",
+   "en": "formal description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形状描述",
+   "en": "shape description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自描述",
+   "en": "self-description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原始描记",
+   "en": "original description",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "校正！",
+   "en": "Correction!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "校正",
+   "en": "correction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述统计",
+   "en": "descriptive statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述性分析",
+   "en": "descriptive analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合法攻击",
+   "en": "correct blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "修正完成时间",
+   "en": "corrected time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射箭校具",
+   "en": "shooting correction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正义",
+   "en": "Correct Meaning / Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纠正权",
+   "en": "right to correction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "adjust\",\"adjustment\",\"correction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源描述框架",
+   "en": "Data Resource Description Framework (RDF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纠错编码",
+   "en": "error correction code (ECC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可纠错",
+   "en": "right to error correction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正确历史观",
+   "en": "the correct perspective of history",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正确大局观",
+   "en": "the correct perspective of overall situation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "厚描",
+   "en": " thick description",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.19",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "一种关于文化的解释学及著述范式。由象征人类学代表人物格尔茨(C.Geertz）提出。强调文化科学面对的认知对象是人们编织的意义网络，有别于行为或心理，功能或结构。"
+  },
+  {
+   "cn": "深描",
+   "en": "thick description",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0613",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一种民族志方法论、认识论及在此基础上的民族志写作。深描是指不仅描述行为本身，更要揭示行为与其背后的文化意义之间的联系。该概念由美国人类学家格尔茨（Clifford Geertz）在其著作《文化的解释》"
+  },
+  {
+   "cn": "描述性统计",
+   "en": "descriptive statistics",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "运用表格、图形和数字来概括数据特征的统计方法。包括单变量和多变量描述统计。"
+  },
+  {
+   "cn": "描述伦理学",
+   "en": "descriptive ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1320000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "依据社会调查等研究方法对道德现象进行经验性的描述或从社会的实际状况再现道德现象，侧重于揭示人们对于某种行为在伦理方面的善恶、对错的看法，而不是给出伦理评判的伦理学理论。"
+  },
+  {
+   "cn": "描写语言学",
+   "en": "descriptive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0007",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。对特定时间的特定语言或方言的各种形式或用法作出全面的、客观的、精确的说明。强调客观性是为了与规定性语言学（prescriptive linguistics）相对比：描写语言学提倡如实"
+  },
+  {
+   "cn": "本底校正",
+   "en": "background correction",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.18",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "对待测样品和空白样品分别进行同样的测量，并从待测样品测得的结果中减去空白样品的测量结果的过程。"
+  },
+  {
+   "cn": "衰变校正",
+   "en": "decay correction",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.21",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "补偿数据采集期间因核素物理衰变而引起的计数率下降。数据采集期间其计数率会随核素衰变而不断下降，因此由总计数得到的计数率将与采集时间的长短相关。需要依据衰变规律对采集期间的计数进行校正，一般校正到采集起"
+  },
+  {
+   "cn": "政治正确",
+   "en": "political correctness",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.8",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "使用在政治倾向上显得“中立”和“中性”的语言和词汇来描述人与事物，旨在避免因褒贬性表述而带来的价值偏见和符号暴力，体现对各种弱势群体的尊重。"
+  },
+  {
+   "cn": "矫正教育",
+   "en": "correctional education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.6.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在治疗、改变和塑造越轨者观念与心理行为，培养越轨者重新遵循社会规范的心理能力和社会能力的教育过程。"
+  },
+  {
+   "cn": "司法矫正",
+   "en": "judicial correction",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.75",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "与监禁矫正相对的行刑方式。根据我国现行法律的规定，将被判处管制、宣告缓刑、裁定假释、剥夺政治权利并在社会上服刑、暂予监外执行的罪犯置于社区内，由专门的国家机关，在相关社会团体和民间组织以及社会志愿者的"
+  },
+  {
+   "cn": "社区矫正",
+   "en": "community correction",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.76",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "将符合社区矫正条件的罪犯置于社区内，由专门国家机关，在相关社会团体和民间组织以及社会志愿者的协助下，在判决、裁定或决定确定的期限内，矫正其犯罪心理和行为恶习，并促进其顺利回归社会。与在监狱执行的“监狱"
+  },
+  {
+   "cn": "纠正措施",
+   "en": "corrective action",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.3",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "分析关键控制点产生偏离的原因并进行改正和消除，使其回到受控状态，以防止再次发生而制定的措施。"
+  },
+  {
+   "cn": "矫正社会工作",
+   "en": "correctional social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.77",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "社会工作专业人员或志愿人士，在专业价值观指引下，运用专业理论和方法、技术，为罪犯（或具有犯罪危险性的人员）及其家人，在审判、监禁处遇、社会处遇或刑释期间，提供思想教育、心理辅导、行为纠正、信息咨询、就"
+  },
+  {
+   "cn": "避孕方法正确使用",
+   "en": "correct use of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "使用者规范的避孕行为。为确保某种避孕方法最大程度地发挥避孕效果，始终严格按照产品或技术的使用说明，坚持和正确地使用该方法。"
+  },
+  {
+   "cn": "最佳矫正视力",
+   "en": "best corrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以最适当镜片进行屈光矫正后所能达到的最佳视力。"
+  },
+  {
+   "cn": "非线性校正",
+   "en": "correction for non-linearity",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "剂量当量值在变化时的响应和参考响应的商。"
+  },
+  {
+   "cn": "屈光充分矫正",
+   "en": "full-correction of refraction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在屈光矫正情形下当平行光线经调节静止的屈光系统后成像在视网膜黄斑中心凹处的状态。"
+  },
+  {
+   "cn": "屈光未充分矫正",
+   "en": "under-correction of refraction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在屈光矫正情形下当平行光线经调节静止的屈光系统后成像落在视网膜黄斑中心凹处的前面或后面的状态。成像在视网膜前为近视欠矫，成像在视网膜后为远视欠矫。"
+  },
+  {
+   "cn": "中国特色解决民族问题的正确道路",
+   "en": "correct Chineseway to address ethnic issues",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0128",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国特色解决民族问题的正确道路是中国特色社会主义道路的重要组成部分，是中国共产党坚持把马克思主义民族理论同中国民族问题实际相结合、同中华优秀传统文化相结合的产物。铸牢中华民族共同体意识是这条正确道路在"
+  },
+  {
+   "cn": "限期改正",
+   "en": "make correction within a prescribed time",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "行政主体责令违法行为人停止和纠正违法行为，以恢复原状，维持法定的秩序或者状态，具有事后救济性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

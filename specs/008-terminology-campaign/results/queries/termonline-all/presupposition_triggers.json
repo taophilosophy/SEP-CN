@@ -1,0 +1,502 @@
+{
+ "key": "presupposition triggers",
+ "term": "presupposition triggers",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:38:59+00:00",
+ "status": "ok",
+ "note": "variant=presupposition triggers; 审定公布名词库=110; 海峡两岸名词对照库=18; 其他来源数据库=12; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "预设",
+   "en": "presupposition",
+   "source": "语言学名词",
+   "wordNumber": "01.157",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "语义学和语用学术语。①指说话人说某一句子时持有的前提。②与“焦点”相对。指句子中说话人已经设定的信息，也是旧信息。例如，说“张三没有打老婆”时，预设“张三有老婆”。"
+  },
+  {
+   "cn": "预设",
+   "en": "presupposition",
+   "source": "语言学名词",
+   "wordNumber": "01.157",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "①在语义学和语用学中，指某种情况成立所必须满足的条件，也指说话人在说某句话时所持有的假设。这时与所作出的判断相对。②指两个陈述之间的某种逻辑关系。这时与蕴涵相对。"
+  },
+  {
+   "cn": "扳机",
+   "en": "trigger",
+   "source": "生殖医学名词",
+   "wordNumber": "6.012",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "在卵泡发育成熟后通过药物人工控制诱导卵母细胞成熟（即达到第二次减数分裂中期）的干预措施。"
+  },
+  {
+   "cn": "触发器",
+   "en": "trigger",
+   "source": "物理学名词",
+   "wordNumber": "09.1650",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "触发",
+   "en": "trigger",
+   "source": "呼吸病学名词",
+   "wordNumber": "12.065",
+   "subjectFullName": "呼吸病学_机械通气_呼吸机",
+   "subjectName": "呼吸机",
+   "publishYear": "2018",
+   "definition": "因触动而引起某种反应的现象。"
+  },
+  {
+   "cn": "触发器",
+   "en": "trigger",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0712",
+   "subjectFullName": "计算机科学技术_系统软件_中间件",
+   "subjectName": "中间件",
+   "publishYear": "2018",
+   "definition": "一种用于驱动程序执行的机制。用于在软件的状态或行为发生变化时，启动或执行预先设定的程序。"
+  },
+  {
+   "cn": "止滑器",
+   "en": "trigger",
+   "source": "船舶工程名词",
+   "wordNumber": "12.047",
+   "subjectFullName": "船舶工程_船舶工艺",
+   "subjectName": "船舶工艺",
+   "publishYear": "1998",
+   "definition": "设置于油脂滑道滑轨两边控制下水船舶自行下滑的止动装置。"
+  },
+  {
+   "cn": "触发",
+   "en": "triggering",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2413",
+   "subjectFullName": "地球物理学_地震科学_地震观测技术",
+   "subjectName": "地震观测技术",
+   "publishYear": "2022",
+   "definition": "仪器(如加速度仪 )由于预先设定的水平的地震运动而启动。 "
+  },
+  {
+   "cn": "触发",
+   "en": "triggering",
+   "source": "电力名词",
+   "wordNumber": "21.107",
+   "subjectFullName": "电力_高压直流输电",
+   "subjectName": "高压直流输电",
+   "publishYear": "2020",
+   "definition": "使阀或换流臂正向导通的控制作用。"
+  },
+  {
+   "cn": "触发",
+   "en": "triggering",
+   "source": "电气工程名词",
+   "wordNumber": "15.370",
+   "subjectFullName": "电气工程_电力电子技术",
+   "subjectName": "电力电子技术",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "触发",
+   "en": "triggering",
+   "source": "电子学名词",
+   "wordNumber": "17.046",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "扳机点",
+   "en": "trigger point",
+   "source": "妇产科学名词",
+   "wordNumber": "6.055",
+   "subjectFullName": "妇科急慢性腹痛_滋养细胞疾病",
+   "subjectName": "滋养细胞疾病",
+   "publishYear": "2025",
+   "definition": "按压肌肉筋膜时能够激惹疼痛的某一特定位置。具有深层组织敏感、结节、放射痛三个特点。"
+  },
+  {
+   "cn": "触发因子",
+   "en": "trigger factor",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0656",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_异构酶",
+   "subjectName": "异构酶",
+   "publishYear": "2024",
+   "definition": "具有肽基脯氨酰顺反异构酶活性的酶。属于FK506结合蛋白质家族，具有多种功能。是大肠杆菌中与核糖体大亚基结合的分子伴侣，帮助新生肽链的折叠。"
+  },
+  {
+   "cn": "呼吸机触发",
+   "en": "ventilator trigger",
+   "source": "麻醉学名词",
+   "wordNumber": "03.160",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_呼吸机",
+   "subjectName": "呼吸机",
+   "publishYear": "2024",
+   "definition": "在辅助通气（同步呼吸）时，呼吸机检测到患者吸气负压而触发由呼气期或静息状态转为吸气期的转换方式。"
+  },
+  {
+   "cn": "吸气触发",
+   "en": "inspiratory trigger",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.065",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_气道正压通气治疗",
+   "subjectName": "气道正压通气治疗",
+   "publishYear": "2022",
+   "definition": "按设定要求完成呼吸机送气的信号触发。包括定时触发和自主触发两种基本形式。"
+  },
+  {
+   "cn": "地震触发器",
+   "en": "seismic trigger",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2372",
+   "subjectFullName": "地球物理学_地震科学_地震观测技术",
+   "subjectName": "地震观测技术",
+   "publishYear": "2022",
+   "definition": "强震仪的一个重要组成部分。使地震仪在地震发生时能自动投入正常工作的装置。常用的有摆式触发器和落球式触发器两大类。 "
+  },
+  {
+   "cn": "呼吸触发",
+   "en": "respiratory trigger",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.335",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振特殊成像技术_磁共振生理同步采集技术",
+   "subjectName": "磁共振生理同步采集技术",
+   "publishYear": "2020",
+   "definition": "以呼气末为触发点开始采集，至下一次吸气前停止采集，数据采集发生于呼吸运动相对平台期的呼吸门控技术。"
+  },
+  {
+   "cn": "触发事件",
+   "en": "trigger event",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.038",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在卫生信息交换标准（HL7）中，现实世界中发生的事件产生系统间数据流动的需求。"
+  },
+  {
+   "cn": "扳机拇",
+   "en": "trigger thumb",
+   "source": "手外科学名词",
+   "wordNumber": "05.1266",
+   "subjectFullName": "手外科学_手外科学分论_其他上肢疾病",
+   "subjectName": "其他上肢疾病",
+   "publishYear": "2020",
+   "definition": "拇长屈肌腱狭窄性腱鞘炎。患者拇指屈伸时有枪械扳机样阻挡感。"
+  },
+  {
+   "cn": "容积触发",
+   "en": "volume trigger",
+   "source": "呼吸病学名词",
+   "wordNumber": "12.071",
+   "subjectFullName": "呼吸病学_机械通气_呼吸机",
+   "subjectName": "呼吸机",
+   "publishYear": "2018",
+   "definition": "呼吸机通过流量或容积传感器感知吸气容积大小的信号触发方式。当吸气容积达到预设水平时，呼吸机启动一次呼吸。"
+  },
+  {
+   "cn": "触发器",
+   "en": "trigger",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "触发",
+   "en": "triggering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "触发机制",
+   "en": "trigger mechanism",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "激发作用，触发作用",
+   "en": "trigger action",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "触发价格，有连锁反应的价格",
+   "en": "trigger price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "触发因子",
+   "en": "trigger factor",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "触发管",
+   "en": "trigger tube",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "触发极",
+   "en": "trigger electrode",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "施密特触发器",
+   "en": "Schmidt trigger",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "边沿触发",
+   "en": "edge triggering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "引发因子",
+   "en": "triggering factor",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "触发器",
+   "en": "flip-flop\",\"trigger",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "膜触发假说",
+   "en": "membrane trigger hypothesis",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "计数触发器",
+   "en": "trigger flip-flop",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "边缘触发时钟",
+   "en": "edge-triggered clocking",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起动隙缝",
+   "en": "starter gap\",\"trigger gap",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单稳[触发]电路",
+   "en": "monostable trigger-action circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蜕皮引发激素",
+   "en": "ecdysis triggering hormone\",\"ETH",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "触发器",
+   "en": "trigger",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扳机",
+   "en": "trigger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扳机",
+   "en": "trigger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扳机护环",
+   "en": "trigger guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扳机控制",
+   "en": "trigger control",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扳机护环",
+   "en": "trigger guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两级触发器",
+   "en": "double-stage trigger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣扳机",
+   "en": "pull the trigger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舷外桨架",
+   "en": "outrigger\",\"racing shell\",\"rigger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "“打虎”“拍蝇”“猎狐”",
+   "en": "“taking out tigers,” “swatting flies,” and “hunting down foxes” (anti-corruption actions against high-ranking officials, low-ranking officials, and fugitive officials that fled overseas)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "帝国主义和一切反动派都是纸老虎",
+   "en": "imperialism and all reactionaries are paper tigers",
+   "source": "马克思主义",
+   "wordNumber": "03.0445",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东剖析帝国主义本质的著名论断。帝国主义和一切反动派具有真老虎和纸老虎的两重性。从本质上看，从长期上看，从战略上看，它是纸老虎，从这点上建立我们的战略思想。另一方面它又是活的铁的真的会吃人的老虎，从"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

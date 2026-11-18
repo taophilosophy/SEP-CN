@@ -1,0 +1,732 @@
+{
+ "key": "simulation process",
+ "term": "simulation process",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:41:47+00:00",
+ "status": "ok",
+ "note": "variant=simulation process; 审定公布名词库=3702; 海峡两岸名词对照库=1281; 其他来源数据库=175; 预公布名词数据库=126; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "仿真过程",
+   "en": "simulation process",
+   "source": "自动化名词",
+   "wordNumber": "04.641",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "过程模拟",
+   "en": "process simulation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.291",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "通过计算机技术模拟突发事件发生过程，预测相关后果，作为编制应急预案的依据之一的模型或活动。"
+  },
+  {
+   "cn": "流程模拟",
+   "en": "process simulation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.150",
+   "subjectFullName": "化工（五）_研发与工程化_工程化研究",
+   "subjectName": "工程化研究",
+   "publishYear": "2021",
+   "definition": "以化工工艺过程的机理模型为基础，采用数学方法来描述化工过程，建立数学模型的方法。通过数学模型，进行工艺过程物料衡算、热量衡算、设备尺寸估算、能量分析和工艺参数调整模拟。"
+  },
+  {
+   "cn": "过程模拟",
+   "en": "process simulation",
+   "source": "化学工程名词",
+   "wordNumber": "05.034",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "工艺模拟",
+   "en": "processing simulation",
+   "source": "电子学名词",
+   "wordNumber": "14.267",
+   "subjectFullName": "电子学_半导体器件与集成电路",
+   "subjectName": "半导体器件与集成电路",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "仿真过程时间",
+   "en": "simulation process time",
+   "source": "自动化名词",
+   "wordNumber": "04.564",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "结晶过程模拟",
+   "en": "crystallization process simulation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.041",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "针对多相、多组分传热与传质的结晶过程的模拟。"
+  },
+  {
+   "cn": "流程模拟系统",
+   "en": "process simulation system",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.082",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "用于流程模拟、分析、优化的计算机软件系统，分为通用流程模拟系统和专用流程模拟系统。"
+  },
+  {
+   "cn": "过程仿真软件",
+   "en": "process simulation software",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.132",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "用数学模型代替实际装置形成的软件。是整个过程仿真培训系统的核心。"
+  },
+  {
+   "cn": "高级过程模拟",
+   "en": "advanced process simulation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.137",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "采用图形化自动建模等技术，全面动态模拟过程系统特性的先进技术。"
+  },
+  {
+   "cn": "批处理仿真",
+   "en": "batch processing simulation",
+   "source": "自动化名词",
+   "wordNumber": "04.638",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.020",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "在模型上做实验，以寻求原型中过程的规律性。模型如果是物理实体，则称为物理模拟；模型如果是数学模型，且模拟是用计算机进行的，则称为数学模拟或数值模拟。"
+  },
+  {
+   "cn": "仿真",
+   "en": "simulation",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.007",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "利用模型复现实际系统中发生的本质过程，并通过对系统模型的实验，研究存在的或设计中的系统。"
+  },
+  {
+   "cn": "拟真",
+   "en": "simulation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.115",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "象征符号的高度抽象阶段。它不是对本真事物的模仿，也不是工业上的复制生产，而是从符号的编码中复制出来的存在，缺乏现实参考。这一概念由法国哲学家让·鲍德里亚提出。"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.225",
+   "subjectFullName": "城乡规划学_城乡规划总述_成果表达",
+   "subjectName": "成果表达",
+   "publishYear": "2021",
+   "definition": "在设立特定规则、关系、变量和程序下再现及推演实际事件和过程的一种研究或演示方法。"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0045",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "在模型上做实验，以寻求原型中过程规律的方法。"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "物理学名词",
+   "wordNumber": "01.0113",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0120",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "利用数据处理系统来描述一个实际或抽象系统中选定的一些行为特性。"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "心理学名词",
+   "wordNumber": "11.055",
+   "subjectFullName": "心理学_工程心理学",
+   "subjectName": "工程心理学",
+   "publishYear": "2014",
+   "definition": "利用模型或装置，通过改变特定条件或参数观察发生的变化，以预测真实系统的功能或特性。"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "生态学名词",
+   "wordNumber": "10.075",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "不是去求系统方程的解析解，而是从系统某初始状态出发，去计算短暂时间之后接着发生的状态，再以此为初始状态不断的重复，就能展示系统的行为模式。"
+  },
+  {
+   "cn": "过程模拟",
+   "en": "process simulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工艺模拟",
+   "en": "processing simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模拟,仿真",
+   "en": "simulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "模拟器",
+   "en": "simulator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "仿真器，模拟器",
+   "en": "simulator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟器，仿真器",
+   "en": "simulator",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "模拟，类比",
+   "en": "simulation\",\"emulation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "仿真",
+   "en": "simulation\",\"emulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation\",\"modeling",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation\",\"analogy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟试验",
+   "en": "simulation test",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候模拟",
+   "en": "climate simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同时相关",
+   "en": "simulation correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候模拟",
+   "en": "phenological simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "计算机模拟",
+   "en": "computer simulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "量子模拟",
+   "en": "quantum simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字仿真",
+   "en": "digital simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机模拟",
+   "en": "stochastic simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟仿真技术",
+   "en": "simulation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑模拟系统",
+   "en": "brain simulation system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知功能模拟",
+   "en": "cognitive function simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡罗模拟",
+   "en": "Monte Carlo simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市规划仿真",
+   "en": "urban planning simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据仿真模型",
+   "en": "data simulation model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市网络安全仿真靶场",
+   "en": "urban cybersecurity simulation range",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧盟“活地球模拟器”项目",
+   "en": "Living Earth Simulator Project (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行进",
+   "en": "proceed",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "一种运用计算机技术，依据理论模型模仿系统的运作方式，以获取科学知识或建构虚拟世界的方法。"
+  },
+  {
+   "cn": "掩盖",
+   "en": "concealment, simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.34",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在加工过程中通过添加化学物质或其他手段，使原本含有的有害成分被隐蔽或降低的食品欺诈行为。"
+  },
+  {
+   "cn": "仿真体模",
+   "en": "simulation phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.6",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "由人体组织等效（对电离辐射的吸收和/或散射作用与人体组织基本相同）材料构成的物体，既可代表整个人体，也可代表特定的人体局部。在各种辐射测量中，仿真体模可用于模拟人体实际情况。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "MR模拟定位机",
+   "en": "MR simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.18",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径磁共振扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "食品模拟物",
+   "en": "food simulant",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.57",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "能够接近真实地反映食品接触材料及制品中组分向与之接触的食品中的迁移，具有某类食品的典型共性，用于模拟食品进行迁移试验的测试介质。"
+  },
+  {
+   "cn": "模拟样品",
+   "en": "simulated sample",
+   "source": "消毒学",
+   "wordNumber": "6.1.11",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "对真实样品的模仿，能表现其关键特性，对真实样品具有代表性的用于试验的样品。"
+  },
+  {
+   "cn": "蒙特卡洛模拟",
+   "en": "Monte carlo simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.85",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种以概率统计理论为指导的算法。该方法通过某种“实验”的方法，以这种事件出现的频率估计这一随机事件的概率，或者得到这个随机变量的某些数字特征，并将其作为问题的解。"
+  },
+  {
+   "cn": "微观仿真模型",
+   "en": "micro-simulation model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在卫生经济学评价中，一种利用计算机技术模拟政策对微观决策单元(如个人、家庭或企业)的影响及其产生的宏观效果,用于预测疾病发病或死亡趋势以及总医疗费用的决策分析模型。"
+  },
+  {
+   "cn": "X射线模拟定位机",
+   "en": "X-ray simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.16",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "用于在正式放射治疗前模拟患者治疗状态，获取患者解剖或功能信息的X射线影像设备。"
+  },
+  {
+   "cn": "消毒模拟现场试验",
+   "en": "disinfection simulation field test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学试验中，用于验证消毒剂或消毒器械对模拟消毒对象上人工污染微生物消毒效果的试验方法。"
+  },
+  {
+   "cn": "热环境模拟舱",
+   "en": "hot environment-simulating cabin",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.12",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境模拟舱",
+   "subjectName": "热环境模拟舱",
+   "publishYear": "2025",
+   "definition": "在小空间范围内人工调节温度和湿度，模拟热环境的大型实验设备。"
+  },
+  {
+   "cn": "模拟医疗器械管腔",
+   "en": "simulated medical device lumen",
+   "source": "消毒学",
+   "wordNumber": "6.2.29.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "材质、内径和长短与医疗器械厂家提供的说明书中最难灭菌的消毒对象相一致的管腔，用于验证微生物的灭菌效果。常用硬式镜不锈钢材料管腔、软式镜聚四氟乙烯材料管腔为模拟管腔。"
+  },
+  {
+   "cn": "模拟胃肠液消化模型",
+   "en": "simulated gastrointestinal digestion model",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.35",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "通过模拟动物消化生理特点，采用与动物体内相近的消化环境和消化酶系，在体外评定受试物的消化吸收，能在一定程度上真实模仿动物体内环境的模型。主要可适用于替代生物活体的动物实验和科学研究。"
+  },
+  {
+   "cn": "人工模拟污染物清洗试验",
+   "en": "artificial simulated pollutant cleaning test",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "清洗剂或清洗机对标准模拟污染物（脱色卡）的去除效果的试验方法。"
+  },
+  {
+   "cn": "过程",
+   "en": "process",
+   "source": "马克思主义",
+   "wordNumber": "01.0092",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质运动在时间上的持续和在空间上的广延，是矛盾存在和发展的形式。唯物辩证法认为，过程是物质、运动和时间、空间的辩证统一。任何事物都是过程的集合体，都是作为过程而出现并向前发展的。"
+  },
+  {
+   "cn": "含油脂食品模拟物校正因子",
+   "en": "correction factor of fatty food simulant",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.64",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "因含油脂食品模拟物的提取能力高于实际含油脂食品，因此用于校正植物油等含油脂食品模拟物的迁移量测定结果的校正因子。"
+  },
+  {
+   "cn": "过程分析法",
+   "en": "process analysis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0604",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家特纳（Victor Turner）针对要如何去探索仪式象征意义而提出的研究方法，即任何有关象征的实证研究至少需要从三个不同层面来进行分析。（1）当地人（包括当地仪式专家和普通人）对仪式、象"
+  },
+  {
+   "cn": "民族过程",
+   "en": "ethnic process",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0011",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "20 世纪60 到70 年代，苏联民族学界提出的一种民族理论，强调民族是一种历史过程，我国民族理论界一般将其理解为民族的形成、发展和消亡过程。"
+  },
+  {
+   "cn": "政策过程",
+   "en": "policy process",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "政策从问题识别、议程设置、政策制定、政策采纳、政策执行到政策评估的连续阶段和活动序列，涵盖政策生命周期的主要环节。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

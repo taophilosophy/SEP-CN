@@ -1,0 +1,542 @@
+{
+ "key": "famous discussion",
+ "term": "famous discussion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:50:03+00:00",
+ "status": "ok",
+ "note": "variant=famous discussion; 审定公布名词库=103; 海峡两岸名词对照库=28; 其他来源数据库=5; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "名洞",
+   "en": "famous cave",
+   "source": "风景园林名词",
+   "wordNumber": "04.0105",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "因自然景观奇特，历史文化丰厚而闻名，可观赏游览的洞穴。"
+  },
+  {
+   "cn": "名湖",
+   "en": "famous lake",
+   "source": "风景园林名词",
+   "wordNumber": "04.0144",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏、文化或科学价值且具有广泛知名度的湖。"
+  },
+  {
+   "cn": "名泉",
+   "en": "famous spring",
+   "source": "风景园林名词",
+   "wordNumber": "04.0143",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏、文化或科学价值且具有广泛知名度的泉。"
+  },
+  {
+   "cn": "名桥",
+   "en": "famous bridge",
+   "source": "风景园林名词",
+   "wordNumber": "04.0183",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "在历史上具有广泛知名度的桥梁。如潮州湘子桥、河北赵州桥、泉州洛阳桥、北京卢沟桥等。"
+  },
+  {
+   "cn": "名楼",
+   "en": "famous tower",
+   "source": "风景园林名词",
+   "wordNumber": "04.0182",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "在历史上具有广泛知名度的楼阁。如鹳雀楼、滕王阁、岳阳楼、黄鹤楼等。"
+  },
+  {
+   "cn": "名石",
+   "en": "famous stone",
+   "source": "风景园林名词",
+   "wordNumber": "04.0106",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏价值，且闻名遐迩的石头。"
+  },
+  {
+   "cn": "名瀑",
+   "en": "famous waterfall",
+   "source": "风景园林名词",
+   "wordNumber": "04.0145",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏、文化或科学价值且具有广泛知名度的瀑布。"
+  },
+  {
+   "cn": "名木",
+   "en": "famous tree",
+   "source": "风景园林名词",
+   "wordNumber": "09.0084",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物类型",
+   "subjectName": "风景园林植物类型",
+   "publishYear": "2025",
+   "definition": "珍贵、稀有的或具有重要历史价值、纪念意义的树木。"
+  },
+  {
+   "cn": "名花",
+   "en": "famous flower",
+   "source": "林学名词",
+   "wordNumber": "09.285",
+   "subjectFullName": "林学_风景园林_园林植物与观赏园艺",
+   "subjectName": "园林植物与观赏园艺",
+   "publishYear": "2016",
+   "definition": "知名度高、品质优良的观赏植物。"
+  },
+  {
+   "cn": "风景名胜",
+   "en": "famous scenery,famous scenic site",
+   "source": "建筑学名词",
+   "wordNumber": "08.0170",
+   "subjectFullName": "建筑学_风景园林_风景名胜区",
+   "subjectName": "风景名胜区",
+   "publishYear": "2014",
+   "definition": "著名的自然或人文景点、景区和风景区域。"
+  },
+  {
+   "cn": "风景名胜",
+   "en": "scenery,famous scenery,famous scenic site",
+   "source": "林学名词",
+   "wordNumber": "09.111",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "著名的自然或人文景点、景区和风景区域。"
+  },
+  {
+   "cn": "风景名胜公园",
+   "en": "famous scenic park",
+   "source": "林学名词",
+   "wordNumber": "09.087",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "位于城市建设用地范围内，以文物古迹、风景名胜点(区)为主形成的具有城市公园功能的绿地。"
+  },
+  {
+   "cn": "风景名胜公园",
+   "en": "famous scenic park",
+   "source": "建筑学名词",
+   "wordNumber": "08.0019",
+   "subjectFullName": "建筑学_风景园林_城市绿地",
+   "subjectName": "城市绿地",
+   "publishYear": "2014",
+   "definition": "位于城市建设用地范围内，以文物古迹、风景名胜点(区)为主形成的具有城市公园功能的绿地。"
+  },
+  {
+   "cn": "古树名木",
+   "en": "ancient and famous tree",
+   "source": "风景园林名词",
+   "wordNumber": "01.0049",
+   "subjectFullName": "风景园林_总论_风景园林管理",
+   "subjectName": "风景园林管理",
+   "publishYear": "2025",
+   "definition": "树龄在100年以上的树木，或具有重要历史、文化、科研、景观价值以及纪念意义的树木。"
+  },
+  {
+   "cn": "洛阳名园",
+   "en": "famous garden in Luoyang",
+   "source": "风景园林名词",
+   "wordNumber": "02.0047",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "北宋时期洛阳城郊的花园、宅园、别墅，多数是在唐代旧园故址上修葺改建的。根据李格非《洛阳名园记》，这些园林多为山水园，在宅旁园地里就低凿池、引水注沼，因高累土为山，但少叠石，建筑依景而设，布置自由散漫。"
+  },
+  {
+   "cn": "名人档案",
+   "en": "archives of famous persons",
+   "source": "档案学名词",
+   "wordNumber": "01.02.032",
+   "subjectFullName": "档案学_总论_档案及其种类",
+   "subjectName": "档案及其种类",
+   "publishYear": "2024",
+   "definition": "著名人士在从事非公务活动中形成并保存的档案。"
+  },
+  {
+   "cn": "缙绅",
+   "en": "jin shen;famous gentleman",
+   "source": "中国古代史名词",
+   "wordNumber": "1.294",
+   "subjectFullName": "中国古代史_通论_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "身份学识受到社会推崇的士人。缙亦作“搢”，绅即衣带，本指插笏于带，笏为备忘的记事手板。战国秦汉上朝之官须佩带执笏，遂渐以此特指识礼有学的官方人士，明清多指有功名的士人。"
+  },
+  {
+   "cn": "风景名胜区",
+   "en": "landscape and famous scenery",
+   "source": "生态学名词",
+   "wordNumber": "17.091",
+   "subjectFullName": "生态学_城市生态学、生态工程学和产业生态学",
+   "subjectName": "城市生态学、生态工程学和产业生态学",
+   "publishYear": "2006",
+   "definition": "指风景资源集中、环境优美、具有一定规模、知名度和游览条件，可供人们游览欣赏、休憩娱乐或进行科学文化活动的地域。"
+  },
+  {
+   "cn": "讨论线索",
+   "en": "discussion thread",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0774",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "在论坛或公告板上由某个特定文章引发的一系列文章。"
+  },
+  {
+   "cn": "讨论法",
+   "en": "discussion method",
+   "source": "教育学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "在教师的指导下，学生以全班或小组为单位，围绕某一中心论题，各抒己见，共同探讨，从而有效获得知识的教学方法。"
+  },
+  {
+   "cn": "小组讨论",
+   "en": "panel discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自由式讨论",
+   "en": "free floating discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无领导小组讨论",
+   "en": "leaderless group discussion\",\"LGD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法美联合大洋中部海下研究",
+   "en": "French-American Mid-Ocean Undersea Study\",\"FAMOUS",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "存储器总线",
+   "en": "rambus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阿莫尔型小行星",
+   "en": "Amors",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "奖励关税，优惠税",
+   "en": "favour tax",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特别优惠",
+   "en": "special favour",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大学城",
+   "en": "campus town",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "扇出限制",
+   "en": "fanout limit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "园区网",
+   "en": "campus network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "芥毛",
+   "en": "famulus\",\"famuli(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "边缘支",
+   "en": "marginal ramus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "坐骨耻骨支",
+   "en": "ischiopubic ramus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "飞逝的爱情",
+   "en": "Amour Fugitif\",\"L’",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Cherubini, Maria Luigi"
+  },
+  {
+   "cn": "钩脉",
+   "en": "hamus\",\"hami(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "耻骨下支",
+   "en": "inferior pubic ramus\",\"inferior ramus of pubis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "下颌支",
+   "en": "ramus of mandible",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "坐骨支",
+   "en": "ramus of ischium",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "耻骨上支",
+   "en": "superior ramus of pubis\",\"superior branch of pubis\",\"superior pubic ramus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "知人论世",
+   "en": "Know Others and Discuss Their World",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧校园",
+   "en": "smart campus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无线校园",
+   "en": "wireless campus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科技校园",
+   "en": "data technology campus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "小组讨论",
+   "en": "group discussion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "在教育者或组织者的引导下，通过集体讨论的形式，对所学课题或规定的题目提出各自的看法，从而加深对已学知识的理解和运用的教学方法。也适用于以改变态度、提高决策能力和沟通技能为目的教学内容。"
+  },
+  {
+   "cn": "选题小组讨论",
+   "en": "nominal group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过程序化的小组讨论过程，发现问题、确定优先领域、筛选评价指标等的研究方法。通常由具有各种不同既得利益、不同思想意识和不同专业水平的人组成一个小组发掘问题，并把所发现的问题按其重要程度排列出来。"
+  },
+  {
+   "cn": "专题小组讨论",
+   "en": "focus group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过召集一小组同类人员，对某一研究议题进行讨论，得出结论的定性调查方法。"
+  },
+  {
+   "cn": "校园文化",
+   "en": "campus culture",
+   "source": "社会学名词",
+   "wordNumber": "3.16.6.6",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年文化",
+   "subjectName": "青年文化",
+   "publishYear": "2025",
+   "definition": "学校的传统、目标、环境、实践、制度规范等因素综合形成的指导学生行为和认识的参考框架。群体内成员在互动中形成共同的日常生活、学习和社交活动方式，发展出特有的思维方式、行为模式、归属感和社会化氛围。"
+  },
+  {
+   "cn": "校园环境",
+   "en": "campus environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校周围的境况及其中可以直接、间接影响学生学习和发展的各种自然因素和社会因素的总体。"
+  },
+  {
+   "cn": "校园平面布局",
+   "en": "campus layout",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "为保证功能分区合理，对学校建筑、体育场地、绿地、道路及广场、停车场进行设置的教育行政措施。"
+  },
+  {
+   "cn": "校园环境卫生",
+   "en": "campus environmental hygiene",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校物质环境",
+   "subjectName": "学校物质环境",
+   "publishYear": "2025",
+   "definition": "校园内为师生提供安全、健康、适用、高效的学习及使用空间中教学卫生和生活设施的卫生条件。包括体育场地、饮水、采光、照明、通风换气、采暖、厕所等设施的卫生情况。"
+  },
+  {
+   "cn": "校园基础急诊医疗服务",
+   "en": "basic emergency medical care on campus",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_校园基础急诊医疗服务",
+   "subjectName": "校园基础急诊医疗服务",
+   "publishYear": "2025",
+   "definition": "学校针对急性疾病、意外伤害和其他突发健康问题采取的基础性应急医疗响应策略。旨在及时有效地识别、评估和应对紧急状况，包括现场救助、院前急救评估和处理、联系医院准备急救、尽快转送到医院救治。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

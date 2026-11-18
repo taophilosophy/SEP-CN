@@ -1,0 +1,792 @@
+{
+ "key": "biv argument",
+ "term": "BIV argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:41:13+00:00",
+ "status": "ok",
+ "note": "variant=BIV argument; 审定公布名词库=682; 海峡两岸名词对照库=163; 其他来源数据库=253; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由蒯因、普特南等人提出的一个数学实在论论证。该论证认为，如果作为关于世界之最佳理论的自然科学无法避免对数学对象的指称，那么就应当接受数学对象的客观实在性。"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.514",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "D. 查莫斯（D. Chalmers）给出的一种“可设想性论证”的思想实验。如果一种在物理行为层面和人类完全一样，但却没有意识经验或感受性的僵尸的存在是可设想的，那么就可以推论出僵尸的存在是可能的。因"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "笛卡儿在《第六沉思》中最早提出这类论证：由某情形是可设想的，推导出它也是可能存在的。D. 查莫斯（D. Chalmers）的僵尸论证是典型的可设想性论证。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "争论性幻听",
+   "en": "argument hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "听到几种声音对受检者某方面表达观点不一致，甚至相互之间发生争吵的一种言语性幻听。"
+  },
+  {
+   "cn": "标度论证",
+   "en": "scaling argument",
+   "source": "物理学名词",
+   "wordNumber": "05.1095",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力迫论证",
+   "en": "forcing argument",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0228",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "这是集合论中的力迫方法在可计算性中的应用，它被广泛应用于可计算性理论。"
+  },
+  {
+   "cn": "权威论证",
+   "en": "authoritative argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0275",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "援引有关权威人士或机构的意见来证实自己论点的可信度，争取他人支持自己主张的政策说服行为。"
+  },
+  {
+   "cn": "政策论证",
+   "en": "policy argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0277",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "政策参与者旨在影响有关政策而寻找有利的资讯，以强化本身的政策主张并提出反证，以抗辩其他不同主张的做法。"
+  },
+  {
+   "cn": "辐角原理",
+   "en": "argument principle",
+   "source": "数学名词",
+   "wordNumber": "05.0402",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变函数",
+   "en": "argument function",
+   "source": "数学名词",
+   "wordNumber": "05.0690",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "商业论证",
+   "en": "business argumentation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.009",
+   "subjectFullName": "化工（五）_研发与工程化_研发项目管理",
+   "subjectName": "研发项目管理",
+   "publishYear": "2021",
+   "definition": "用来对还缺乏充分定义的所选方案的收益进行有效性论证的文档化的经济可行性研究报告，是启动后续项目管理活动的依据。"
+  },
+  {
+   "cn": "论辩修辞学",
+   "en": "argumentative rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.011",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "现代英、美修辞学的一个分支。以20世纪初的逻辑实证主义哲学为基础，继承了亚里士多德古典修辞学的研究方法，研究各种论辩技巧，分析使论辩顺利开始、发展以及取得良好效果的条件，考证文章的真假值等。"
+  },
+  {
+   "cn": "自变量",
+   "en": "argument,independent variable",
+   "source": "物理学名词",
+   "wordNumber": "01.0072",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "中文屋论证",
+   "en": "Chinese room argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.581",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由J. 瑟尔（J. Searle）提出的反驳计算机也能思考的思想实验。想象一个被锁在房间中完全不懂中文的人，借助一部处理中文符号的英语指南，将屋中的中文符号向外输出，以回复输入屋内的用中文符号提出的问"
+  },
+  {
+   "cn": "近点幅角",
+   "en": "argument of periapsis",
+   "source": "天文学名词",
+   "wordNumber": "03.072",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "轨道近点和升交点间的角距离，从升交点起沿运动方向度量。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类推论证",
+   "en": "argument by analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近点辐角",
+   "en": "argument of periapsis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近心点辐角",
+   "en": "argument of pericenter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本国产业论，本国产业保护论",
+   "en": "home industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "产业多样化论",
+   "en": "diversified industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业保护论",
+   "en": "industry protection argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内市场论",
+   "en": "home market argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近地点引数",
+   "en": "argument of perigee",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纬度自变量",
+   "en": "argument of latitude",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "零知识交互式论证",
+   "en": "zero-knowledge interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幼稚产业保护论",
+   "en": "infant industry argument for protection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "位交织奇偶性，比特交织奇偶性",
+   "en": "bit interleaved parity\",\"BIP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augment reality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "8比特交错奇偶性",
+   "en": "bit interleaved parity 8\",\"BIP-8",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位，比特",
+   "en": "bit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大篆",
+   "en": "<div> Greater Seal Script / Big Seal Script</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "衔铁",
+   "en": "bit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "衔铁",
+   "en": "bit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "悲慨",
+   "en": "<div> Depressed and Enraged</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据",
+   "en": "Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子比特",
+   "en": "quantum bit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大勒衔",
+   "en": "curb bit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小勒衔",
+   "en": "snaffle bit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小勒衔",
+   "en": "snaffle bit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大勒衔",
+   "en": "curb bit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文学",
+   "en": "<div> Literature / Scholars / Education Officials</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隶书",
+   "en": "<div> Clerical Script / Official Script</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宗教",
+   "en": "<div> Buddhist Teachings / Religious Sect</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大力发球",
+   "en": "big serve\",\"cannonball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "面罩护颈",
+   "en": "bib\",\"neck guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三思而行",
+   "en": "<div> Think Carefully Before Taking Action</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "大科学",
+   "en": "big science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要指具有投资强度大、多学科交叉、研究目标宏大、需要昂贵且复杂的实验设备等特征的规模比较大的科学研究，既包括巨额投资的“工程式”研究，也包括跨学科合作的大规模、大尺度的前沿性科学研究项目。"
+  },
+  {
+   "cn": "大资产阶级",
+   "en": "big bourgeoisie",
+   "source": "马克思主义",
+   "wordNumber": "03.0372",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "掌握垄断资本，操纵社会经济和政治统治权的垄断资产阶级。在殖民地半殖民地国家，指官僚资产阶级、买办资产阶级。是新民主主义革命的主要对象。"
+  },
+  {
+   "cn": "大拒绝",
+   "en": "big refusal",
+   "source": "马克思主义",
+   "wordNumber": "05.0032",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞认为现存发达工业社会的一切都不符合人类社会应然状况，不符合人的本性和需求，压抑人的自由，使人不能得到真正的幸福，因此必须进行社会革命。大拒绝战略就是把一切造反者联合起来与发达工业社会作对，与一"
+  },
+  {
+   "cn": "生物农药",
+   "en": "bio-pesticide",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.1.17",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "利用生物体或其代谢产物开发的农用抗病虫害制剂。"
+  },
+  {
+   "cn": "生物调节剂",
+   "en": "bio-regulator",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.11.2",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "生物体内自然产生的微量化学物质，对生物体的生理过程、新陈代谢和神经活动等具有重要的调节作用，是生物体正常生理功能的基础，具有低剂量、高活性、速效性等作用特点。"
+  },
+  {
+   "cn": "就仓干燥",
+   "en": "in-bin drying",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.23",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "新收获的高水分粮食按规定装入符合条件的仓房后,就在原仓采用机械通风方式干燥,干燥完成后粮食继续在该仓内储藏的技术。"
+  },
+  {
+   "cn": "预算影响分析",
+   "en": "budget impact analysis,BIA",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "衡量一种新的医疗干预措施（如药品或诊疗技术）纳入医保支付范围后对医保基金支出净影响的分析方法。"
+  },
+  {
+   "cn": "打破大锅饭",
+   "en": "break the big pot",
+   "source": "马克思主义",
+   "wordNumber": "03.0533",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平针对我国过去经济工作中存在的平均主义倾向提出的改革主张。改革开放初期的口号，也是国企改革第一个阶段中的主要任务。“打破大锅饭”主要内容是改变分配制度和用人制度，推行经济生产责任制，实行按劳付酬。"
+  },
+  {
+   "cn": "招采合一",
+   "en": "procurement integrated with bid",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6.2.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "将招标和采购合二为一的采购模式，改变招标定价、采购定量的模式。"
+  },
+  {
+   "cn": "健康医疗大数据",
+   "en": "big data in healthcare ",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.4",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "在疾病防治、健康管理等过程中产生的与健康医疗相关的多方面数据。"
+  },
+  {
+   "cn": "预防艾滋病教育",
+   "en": "HIV/AIDS prevention education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "围绕预防艾滋病，通过多种形式教学活动开展的综合性健康教育。旨在帮助学生了解预防艾滋病相关知识、培养其健康的生活方式、增强自我保护意识和抵御艾滋病侵袭的能力。"
+  },
+  {
+   "cn": "食品安全大数据",
+   "en": "food safety big data",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.55",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "由若干个食品安全数据集合组成，食品安全数据集来源于不同业态的各种品类的食品或食用农产品生产过程或者质量管理过程中产生的数据或数组。"
+  },
+  {
+   "cn": "基准摄入量",
+   "en": "benchmark intake, BI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.25",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种物质引起预先设定的效应水平的摄入量"
+  },
+  {
+   "cn": "妊娠合并HIV感染",
+   "en": "pregnancy complicated with HIV infection",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.6.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕妇在妊娠前或妊娠期受到人类免疫缺陷病毒（HIV）感染的妊娠合并症。孕妇感染后可加速病程，加重病情；同时可通过妊娠期宫内、分娩时产道和产后哺乳过程传染给胎婴儿。"
+  },
+  {
+   "cn": "生物-心理-社会医学模式",
+   "en": "bio-psycho-social medical model",
+   "source": "社会医学名词",
+   "wordNumber": "2.5",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "从生物、心理及社会三个维度分析和处理健康与疾病问题的医学观与方法论。"
+  },
+  {
+   "cn": "Ⅳ类环境",
+   "en": "class IV environment",
+   "source": "消毒学",
+   "wordNumber": "4.6.4",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构内对环境微生物指标有要求的场所，如普通门（急）诊及其检查、治疗室，感染性疾病科门诊和病区等污染区域。"
+  },
+  {
+   "cn": "基准摄入量置信区间下限",
+   "en": "benchmark intake lower confidence limit, BIL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.26",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "经统计学方法得到的基准摄入量可信区间的下限值"
+  },
+  {
+   "cn": "中华民族大家庭",
+   "en": "Big Family of the Chinese Nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0113",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "对中国社会主义民族关系的形象概括，即指中华民族和各民族的关系是一个大家庭和家庭成员的关系，各民族的关系是一个大家庭里不同成员的关系。"
+  },
+  {
+   "cn": "言语残疾四级",
+   "en": "speech disability grade IV",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.2.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "能进行简单会话，但用较长句或长篇表达困难，语音清晰度在46%~65%之间，言语表达能力未达到四级测验水平的言语残疾。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

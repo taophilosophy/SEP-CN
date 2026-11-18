@@ -1,0 +1,772 @@
+{
+ "key": "without justification",
+ "term": "without justification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:48:12+00:00",
+ "status": "ok",
+ "note": "variant=without justification; 审定公布名词库=166; 海峡两岸名词对照库=29; 其他来源数据库=24; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "辩护",
+   "en": "justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "用以证明或维护某个理论或行为的根据。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.050",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "核医学名词",
+   "wordNumber": "02.0434",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "放射防护三原则之一。除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得进行辐射相关实践的原则。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "放射医学与防护_放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害(包括辐射危害)。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "码速调整",
+   "en": "justification",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.262",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以受控方式改变数字信号的数字速率的处理过程。这种过程不丢失或损伤信息。其目的是使与复用设备不同步的各支路得到复用。"
+  },
+  {
+   "cn": "论证",
+   "en": "justification",
+   "source": "数学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "justification,justify",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1317",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "为适应规定文件格式的要求，对数位、文字或符号位置向左或向右进行调整、排列或移位的动作。"
+  },
+  {
+   "cn": "归纳辩护",
+   "en": "inductive justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.085",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "为归纳推理的合理性和有效性提供的辩护。"
+  },
+  {
+   "cn": "辩护的语境",
+   "en": "context of justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "分析实验观察如何支持理论假说的情境条件。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "[辐射照射]实践的正当性",
+   "en": "justification of practice",
+   "source": "化学名词",
+   "wordNumber": "06.0392",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "国际放射防护委员会(ICRP)提出的辐射防护三原则之一。即辐射照射的实践，除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得采取此种实践。"
+  },
+  {
+   "cn": "不充分理由效应",
+   "en": "insufficient justification effect",
+   "source": "心理学名词",
+   "wordNumber": "07.087",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "当外部理由不足以支持行为时，人们用主观理由做行为理由补充，以寻求心理平衡的现象。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.244",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "码速调整",
+   "en": "code rate justification",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0378",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "无后效",
+   "en": "without aftereffect",
+   "source": "数学名词",
+   "wordNumber": "09.0289",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无转子硫化仪",
+   "en": "curemeter without rotator,vulcameter without rotator",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.1216",
+   "subjectFullName": "材料科学技术_高分子材料_高分子材料性能及其测试方法",
+   "subjectName": "高分子材料性能及其测试方法",
+   "publishYear": "2011",
+   "definition": "将未硫化橡胶放入恒温模腔内，在下模腔的水平摆动剪切作用下，测定胶料硫化过程中对下模腔反作用力矩(表征硫化程度)连续变化的仪器。"
+  },
+  {
+   "cn": "无先兆偏头痛",
+   "en": "migraine without aura",
+   "source": "神经外科学名词",
+   "wordNumber": "10.024",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_疼痛",
+   "subjectName": "疼痛",
+   "publishYear": "2026",
+   "definition": "最常见的偏头痛类型。反复发作，多位于单侧的搏动性疼痛，疼痛程度为中度或重度，可因日常体力活动加重；头痛期常伴有恶心和呕吐、怕光和怕声。头痛常持续4～72小时，头痛前无先兆症状。"
+  },
+  {
+   "cn": "白文本",
+   "en": "text without annotation",
+   "source": "档案学名词",
+   "wordNumber": "04.03.033",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "编者对选入的档案材料正文不做任何更改、说明的出版形式。"
+  },
+  {
+   "cn": "无尿道下裂阴茎下弯",
+   "en": "chordee without hypospadias",
+   "source": "男科及性医学名词",
+   "wordNumber": "08.019",
+   "subjectFullName": "男科及性医学_阴茎疾病",
+   "subjectName": "阴茎疾病",
+   "publishYear": "2023",
+   "definition": "不伴有尿道下裂、尿道口开口于阴茎头端、阴茎勃起时向腹侧下弯的先天性阴茎畸形。实质是位于阴茎腹侧的尿道周围组织结构在胎儿时发育不良，阴茎多短小，腹侧皮肤多有异常，勃起时向腹侧弯曲。"
+  },
+  {
+   "cn": "无人继承作品",
+   "en": "work without inheritance",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.03.027",
+   "subjectFullName": "编辑与出版学_著作权_著作权主体",
+   "subjectName": "著作权主体",
+   "publishYear": "2022",
+   "definition": "著作权无人继承又无人受遗赠的作品。"
+  },
+  {
+   "cn": "不充分理由，理由不足",
+   "en": "insufficient justification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线确认",
+   "en": "line justification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "○1justification○2 adjustment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无霜日",
+   "en": "day without frost",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无词歌",
+   "en": "Songs Without Words",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "没有约定的发盘",
+   "en": "offer without engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无担保贷款",
+   "en": "loan without security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权背书",
+   "en": "endorsement without recourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权背书，无担保背书",
+   "en": "indorsement without recourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权贷款",
+   "en": "without-recourse financing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权的汇票",
+   "en": "draft without recourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无放回抽样",
+   "en": "sampling without replacement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无转子硫化仪",
+   "en": "curemeter without rotator\",\"extensional rheometer\",\"vulcameter without rotator",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "无压余挤压",
+   "en": "extrusion without remnant material",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "无钨硬质合金",
+   "en": "cemented carbide without tungsten",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "开立无追索权汇票条款",
+   "en": "drawing without recourse clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "没有法定汇率的货币",
+   "en": "currency without legal rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无外汇进口",
+   "en": "import without foreign exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权信用证",
+   "en": "without-recourse L/C",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权信用证",
+   "en": "without-recourse letter of credit (=without-recourse L/C)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "没有失误",
+   "en": "course without fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不言之教",
+   "en": "Influence Others Without Preaching",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "没有硝烟的战争",
+   "en": "a war without smoke",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轻量级四人单桨无舵手",
+   "en": "lightweight four without coxswain",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无球假动作",
+   "en": "fake without the ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乐而不淫，哀而不伤",
+   "en": "Express Enjoyment Without Indulgence and Express Grief Without Excessive Distress",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师出有名",
+   "en": "Fighting a War with a Moral Justification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自选动作",
+   "en": "dive without limit\",\"voluntary dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有教无类",
+   "en": "Education for All Without Discrimination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不战而胜",
+   "en": "Win Without Resorting to War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "卧游",
+   "en": "Enjoy Sceneries Without Physically Travelling",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "睦内图外",
+   "en": "Unity Within and Expansion Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "善胜者不争",
+   "en": "Win a War Without Fighting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "攻其无备，出其不意",
+   "en": "Attack Unexpectedly and Without Warning",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无一字无来历",
+   "en": "No Word Is Without a Source.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兵强而无义者残",
+   "en": "A Strong Army Without Righteousness Is Destructive.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外师造化，中得心源",
+   "en": "Draw Artistic Inspiration from Both Within and Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "酌奇而不失其贞",
+   "en": "Seek Novelty Without Deviating from the Proper Way",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民无信不立",
+   "en": "Without People’s Trust the State Will Not Survive.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理辩护",
+   "en": "ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对某些现象、行为或观点的合理性进行道德论证的行为。"
+  },
+  {
+   "cn": "医学伦理辩护",
+   "en": "medical ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.2229999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "依据医学伦理学理论、原则和规范，对某一医学行为或医疗活动的合理性进行解释、说明的活动。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiation practice",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护三原则",
+   "subjectName": "放射防护三原则",
+   "publishYear": "2025",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程，即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射或现存照射情况下，确定一个建议的防护行动或补救行"
+  },
+  {
+   "cn": "医疗照射正当性",
+   "en": "justification of medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.7.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "医疗照射的实践，对受照个人或社会带来的利益足以弥补其可能引起的辐射危害（包括健康与非健康危害），才可以实施该实践。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiological practice",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.18",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "开展医疗照射、工业探伤、核设施运行等涉电离辐射活动前，须确保实践总体利益大于辐射危害及其他社会、经济风险。仅当该实践能为个人或社会带来净利益时，才属“正当的”，反之则不应开展。"
+  },
+  {
+   "cn": "无隔膜式电解槽",
+   "en": "electrobath without membrane",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "槽内仅设有阴阳电极，并有进、出口的封闭式电解槽。"
+  },
+  {
+   "cn": "无发展的增长",
+   "en": "growth without development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.4.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_其他发展理论",
+   "subjectName": "其他发展理论",
+   "publishYear": "2025",
+   "definition": "黄宗智对中国明清时期商品化和经济不发展并存现象的一种理论解释。他认为中国明清时期的商品化主要是由人口压力推动的过密型商品化，它可能带来的增长是有限的，不会带来资本的积累，其结果是商品化和经济不发展现象"
+  },
+  {
+   "cn": "去骨类禽罐头",
+   "en": "poultry can without bones",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.2.2",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将处理好的原料经去骨、切块、预煮后，加入调味盐（精盐、胡椒粉、味精等）等工序制成的罐藏食品。"
+  },
+  {
+   "cn": "白烧类禽罐头",
+   "en": "cooked poultry can without condiments",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.2.1",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将处理好的原料经切块（或不切块）、装罐，加入少许盐（或稀盐水）等工序制成的罐藏食品。"
+  },
+  {
+   "cn": "进口无国标食品",
+   "en": "imported food without national standard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.40",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "由境外生产经营的，尚未进口且我国未制定公布相应食品安全国家标准的食品。"
+  },
+  {
+   "cn": "不使用安全套的性行为",
+   "en": "unprotected sex/ sex without a condom",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "发生性行为时未使用或未正确使用安全套，属于无保护性行为，会增加怀孕、感染性传播疾病的风险。"
+  },
+  {
+   "cn": "保湿无水保活运输",
+   "en": "alive transportation retaining moisture without water",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.21",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "活体水产品运输过程巾采用保湿材料使其体表保持潮湿，并将温度控制在接近其生态冰温的条件"
+  },
+  {
+   "cn": "自愿无偿原则",
+   "en": "principle of voluntariness consent to donation without compensation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.073",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "要求器官捐献应当由捐献者及其亲属完全自主决定并坚持无偿捐献的伦理原则。是保障人的基本权利和人格尊严的具体体现。"
+  },
+  {
+   "cn": "衣冠冢",
+   "en": "tomb containing personal effects of the deceased without remains",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0275",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "仅埋葬死者穿戴过的衣帽、无遗体的墓葬，起源于氏族社会后期；后世的衣冠冢通常也因各种原因无法安葬遗体，而被迫改葬衣物作为替代。"
+  },
+  {
+   "cn": "先奏后斩先斩后奏斩而不奏不斩不奏",
+   "en": "report first and then act to act first and report afterwards to act without reporting not to report and not to act",
+   "source": "马克思主义",
+   "wordNumber": "03.0438",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "针对王明等人“一切经过统一战线”“一切服从统一战线”的思想，毛泽东在《统一战线中的独立自主问题》一文中提出的关于统一战线中既统一、又独立的策略方针。旨在不破坏统一战线的基础上，大胆开展工作，扩大革命力"
+  },
+  {
+   "cn": "四有新人",
+   "en": "youngsters withfour qualities",
+   "source": "马克思主义",
+   "wordNumber": "03.0524",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1980年5月邓小平给《中国少年报》和《辅导员》杂志的题词:“希望全国的小朋友，立志做有理想、有道德、有文化、有纪律的人，立志为人民作贡献，为祖国作贡献，为人类作贡献。”“四有”指有理想、有道德、有文"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

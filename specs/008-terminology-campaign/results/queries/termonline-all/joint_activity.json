@@ -1,0 +1,712 @@
+{
+ "key": "joint activity",
+ "term": "joint activity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:49:49+00:00",
+ "status": "ok",
+ "note": "variant=joint activity; 审定公布名词库=4659; 海峡两岸名词对照库=1558; 其他来源数据库=168; 预公布名词数据库=217; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "地质学名词",
+   "wordNumber": "09.05.025",
+   "subjectFullName": "地质学_构造地质学_中、小尺度面状、线状构造",
+   "subjectName": "中、小尺度面状、线状构造",
+   "publishYear": "2026",
+   "definition": "岩石受力出现的没有发生明显位移的破裂。广泛发育于浅部地壳变形岩石中。在西文文献中，节理指那些仅仅有张开但没有发生位移的破裂，而具有一定位移的破裂称为剪切破裂。"
+  },
+  {
+   "cn": "接头",
+   "en": "joint",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0078",
+   "subjectFullName": "化工（八）_管道_管道组成件及管道支承件",
+   "subjectName": "管道组成件及管道支承件",
+   "publishYear": "2021",
+   "definition": "用于连接两个管件或部件与设备的零件。"
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "电力名词",
+   "wordNumber": "01.743",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "岩体因各种成因切割成具有一定几何形状岩块的裂隙系统。其裂面两侧岩体中未发生错动(实际的或潜在的)的破裂面。按其成因可分为原生节理、构造节理和次生节理。"
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "冶金学名词",
+   "wordNumber": "02.0247",
+   "subjectFullName": "冶金学_采矿_岩石力学",
+   "subjectName": "岩石力学",
+   "publishYear": "2019",
+   "definition": "岩石在自然条件下形成的裂纹或裂缝。"
+  },
+  {
+   "cn": "关节",
+   "en": "joint",
+   "source": "核医学名词",
+   "wordNumber": "04.1098",
+   "subjectFullName": "核医学_临床核医学_骨关节系统核医学_骨关节系统解剖生理基础",
+   "subjectName": "骨关节系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "骨与骨之间可活动的连接部分。连接面有关节软骨，周围有关节囊、韧带加固、内面有滑膜与滑膜液，便于不同角度和程度的活动。"
+  },
+  {
+   "cn": "关节",
+   "en": "joint",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "06.009",
+   "subjectFullName": "中医药学_骨伤科学_解剖生理",
+   "subjectName": "解剖生理",
+   "publishYear": "2013",
+   "definition": "骨骼间连接部位。"
+  },
+  {
+   "cn": "连接点",
+   "en": "joint",
+   "source": "水产名词",
+   "wordNumber": "03.251",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "无结网片中目脚间的连接结构。"
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "水利科学技术名词",
+   "wordNumber": "06.041",
+   "subjectFullName": "水利科学技术_水利勘测、工程地质_工程地质（水利）",
+   "subjectName": "工程地质（水利）",
+   "publishYear": "1997",
+   "definition": "将岩体切割成具有一定几何形状的岩块的裂隙系统。也是岩体中未发生位移的(包括实际的或潜在的)破裂面。"
+  },
+  {
+   "cn": "接缝",
+   "en": "joint",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.457",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "接头",
+   "en": "joint",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "地质学名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "关节",
+   "en": "joint",
+   "source": "自动化名词",
+   "wordNumber": "05.173",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "地质学名词",
+   "wordNumber": "13.01.107",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "为使理想溶液(或极稀溶液)的热力学公式适用于实际溶液，用来代替浓度的一种物理量。在电解质溶液中指实际发挥作用的有效浓度。有效浓度与实际浓度的比值称为“活度系数（activity coefficient"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0174",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）某种物质的化学或物理反应能力。如某种酶、药物、激素或其他物质的效能。 （2）某种放射活性物质的强度。"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.084",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "对于生物反应，是表示酶、细胞等促进反应的能力。"
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "行为医学名词",
+   "wordNumber": "1.012",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "（1）机体运动或为某种目的而行动。（2）一切物体（事物）的动态变化。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.054",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_电镀与化学镀",
+   "subjectName": "电镀与化学镀",
+   "publishYear": "2021",
+   "definition": "在标准状态下，溶液中组分的热力学浓度。即矫正真实溶液与理想溶液性质的偏差。"
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "运动医学名词",
+   "wordNumber": "07.070",
+   "subjectFullName": "运动医学_运动康复_物理治疗技术_运动治疗",
+   "subjectName": "运动治疗",
+   "publishYear": "2019",
+   "definition": "泛指一切物体或事物的动态变化。在运动医学与康复医学范畴特指与躯体运动相关的动态变化。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "冶金学名词",
+   "wordNumber": "04.0159",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "为校正真实溶液对理想液态混合物所产生的偏差引入的概念，为组元在真实溶液中表现出的实际活动能力。活度是与浓度比值或分压比值有关的无量纲量。"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1111",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "接头",
+   "en": "coupling joint\",\"joint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "滑车关节（=屈戌关节）",
+   "en": "hinge joint\",\"ginglymus joint\",\"trochoid joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "屈戌关节，滑车关节",
+   "en": "hinge joint\",\"ginglymus joint\",\"trochoid joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活化，激活",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂，激活剂",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活（=活化）",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活剂（=活化剂）",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化",
+   "en": "activation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球节",
+   "en": "fetlock joint",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据活动",
+   "en": "data activity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活数据学",
+   "en": "Activation Dataology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景激活",
+   "en": "scenario activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动进攻",
+   "en": "active wrestling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加力推挡",
+   "en": "active block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动反击",
+   "en": "active counterattack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "44关节疾病活动度评分",
+   "en": "disease activity score using 28 joint counts, DAS44",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "全身44处关节的评估类风湿关节炎疾病活动度的复合指标。包括Ritchie关节指数、肿胀关节总数、血沉和患者基于视觉模拟评分量表做出的总体健康评分（GH），计算公式较复杂。"
+  },
+  {
+   "cn": "28关节疾病活动度评分",
+   "en": "disease activity score using 28 joint counts, DAS28",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "包括全身28处关节的评估类风湿关节炎疾病活动度的复合指标。包括关节肿胀和压痛数、ESR或CRP及患者总体健康评分。DAS28>5.1：高疾病活动度，DAS28为3.2-5.1：中等疾病活动度，DAS2"
+  },
+  {
+   "cn": "联合分布",
+   "en": "joint distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个或两个以上随机变量的概率分布函数。"
+  },
+  {
+   "cn": "联合家庭",
+   "en": "joint family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.11",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭中任何一代含有两对以上夫妻的家庭。例如父母和两对或两对以上已婚子女组成的家庭。"
+  },
+  {
+   "cn": "联合劳动",
+   "en": "joint labor",
+   "source": "马克思主义",
+   "wordNumber": "03.0108",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思依据人类社会发展的客观规律提出的关于未来共产主义社会劳动的基本形式。其特点是：全社会劳动者在生产资料共同占有的基础上，自由地结合起来，自主地进行创造性的劳动。"
+  },
+  {
+   "cn": "寰枢关节",
+   "en": "atlantoaxial joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.5",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由 2 个由寰枕侧块的下关节面和枢椎的上关节面，以及l 个由枢椎齿突的前关节面和寰椎前弓后面的齿凹共同构成的关节。关节囊薄而松弛。是只有1个运动轴的车轴关节，寰椎与颅一同绕垂直轴做左右回旋运动。"
+  },
+  {
+   "cn": "胸肋关节",
+   "en": "sternocostal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.6",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "肋骨借肋软骨与胸骨连结的关节。由第1- 7 肋的内侧端与胸骨的肋切迹构成。关节囊薄而松弛，关节腔为一窄隙。有胸肋轴状韧带、 肋剑突韧带加固。属于微动关节。"
+  },
+  {
+   "cn": "胸锁关节",
+   "en": "sternoclavicular joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.7",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由锁骨的胸骨端关节面和胸骨柄的锁骨切迹组成的关节。上肢与躯干之间连结的唯一关节。关节腔内有关节盘。关节囊坚韧，周围有韧带加固。有3个运动轴，绕矢状轴可 做上下运动；绕垂直轴可做前后运动；绕冠状轴可做回"
+  },
+  {
+   "cn": "肩关节",
+   "en": "shoulder joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.8",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由肩胛骨的关节盂和肱骨头组成的关节。相连两骨关节面大小相差较大。关节窝周缘有关节唇加深关节盂。关节囊薄弱且松弛，附着在关节盂周缘和肱骨解剖颈之间，关节囊 壁内有由滑膜包裹的肱二头肌长头腱通过， 此腱有"
+  },
+  {
+   "cn": "肘关节",
+   "en": "elbow joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.9",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由肱骨远侧端和桡尺骨近端关节面组成的关节。包括3个小关节：肱尺关节、肱桡关 节及桡尺近侧关节，它们共同包裹在一个关节囊内。"
+  },
+  {
+   "cn": "腕关节",
+   "en": "wrist joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.10",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由手的舟骨、月骨和三角骨的近侧关节面作为关节头，桡骨的腕关节面和尺骨头下方的关节盘作为关节窝而构成的关节。"
+  },
+  {
+   "cn": "掌指关节",
+   "en": "metacarpophalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.11",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由掌骨小头与第1节指骨底构成的关节。共 有5个，在形态上近似球窝关节，但机能上因受两侧韧带的限制，第 2- 5 掌指关节能 做屈、伸、内收、外展及环转运动；第 1 掌指关节仅能做屈伸运动，当关节微屈时"
+  },
+  {
+   "cn": "指间关节",
+   "en": "interphalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.12",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由各指相邻两节指骨的底和滑车构成的关节。"
+  },
+  {
+   "cn": "骶髂关节",
+   "en": "sacroiliac joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.15",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由髂骨的耳状面与骶骨的耳状面构成的关节。关节面扁平，彼此对合非常紧密，属平面关节。关节囊紧张，紧贴于关节面周缘。周围有许多强韧的韧带加强，关节腔狭小， 呈裂隙状，活动性很小，有利于支持体重和传递重力。"
+  },
+  {
+   "cn": "髋关节",
+   "en": "hip joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.16",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由髋骨的髋臼和股骨头的关节面构成的关节。是典型的球窝关节。"
+  },
+  {
+   "cn": "膝关节",
+   "en": "knee joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.17",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由股骨的内、外侧髁与胫骨的内、外侧髁的关节面组成的股胫关节，以及股骨的髌面与髌骨的关节面组成的髌股关节两部分构成的关节。人体内结构最复杂的关节。关节囊广阔松弛，各部厚薄不一，附着于各关节面 的周缘，其"
+  },
+  {
+   "cn": "跖趾关节",
+   "en": "metatarsophalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.18",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由跖骨头与近节趾骨底构成的关节。"
+  },
+  {
+   "cn": "趾间关节",
+   "en": "interphalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.19",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "趾骨与趾骨之间构成的关节。"
+  },
+  {
+   "cn": "关节畸形",
+   "en": "joint deformity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.3",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "由于各种原因使关节脱离正常形态和结构的状态，可见于关节炎。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

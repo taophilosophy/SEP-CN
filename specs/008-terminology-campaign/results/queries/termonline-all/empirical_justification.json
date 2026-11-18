@@ -1,0 +1,482 @@
+{
+ "key": "empirical justification",
+ "term": "empirical justification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:49:56+00:00",
+ "status": "ok",
+ "note": "variant=empirical justification; 审定公布名词库=114; 海峡两岸名词对照库=25; 其他来源数据库=4; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "辩护",
+   "en": "justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "用以证明或维护某个理论或行为的根据。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.050",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "核医学名词",
+   "wordNumber": "02.0434",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "放射防护三原则之一。除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得进行辐射相关实践的原则。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "放射医学与防护_放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害(包括辐射危害)。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "码速调整",
+   "en": "justification",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.262",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以受控方式改变数字信号的数字速率的处理过程。这种过程不丢失或损伤信息。其目的是使与复用设备不同步的各支路得到复用。"
+  },
+  {
+   "cn": "论证",
+   "en": "justification",
+   "source": "数学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "justification,justify",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1317",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "为适应规定文件格式的要求，对数位、文字或符号位置向左或向右进行调整、排列或移位的动作。"
+  },
+  {
+   "cn": "归纳辩护",
+   "en": "inductive justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.085",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "为归纳推理的合理性和有效性提供的辩护。"
+  },
+  {
+   "cn": "辩护的语境",
+   "en": "context of justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "分析实验观察如何支持理论假说的情境条件。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "[辐射照射]实践的正当性",
+   "en": "justification of practice",
+   "source": "化学名词",
+   "wordNumber": "06.0392",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "国际放射防护委员会(ICRP)提出的辐射防护三原则之一。即辐射照射的实践，除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得采取此种实践。"
+  },
+  {
+   "cn": "不充分理由效应",
+   "en": "insufficient justification effect",
+   "source": "心理学名词",
+   "wordNumber": "07.087",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "当外部理由不足以支持行为时，人们用主观理由做行为理由补充，以寻求心理平衡的现象。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.244",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "码速调整",
+   "en": "code rate justification",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0378",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "经验［性］模型",
+   "en": "empirical model",
+   "source": "农学名词",
+   "wordNumber": "16.167",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "根据实验数据归纳而得到的描述因变量与自变量之间关系的定量化表达。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "利用实测数据归纳而得到的规律，定量描述因变量和自变量之间关系的数学模型。"
+  },
+  {
+   "cn": "经验适当性",
+   "en": "empirical adequacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.016",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "B. 范·弗拉森（B. van Fraassen）提出的约束科学理论的原则，即科学的目的就是要恰当地描述可观察世界中的所有可观察现象。"
+  },
+  {
+   "cn": "经验内容",
+   "en": "empirical content",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "理论所能包含的可观察性信息。理论的经验内容越多，它出错的可能性也越大。"
+  },
+  {
+   "cn": "经验等价性",
+   "en": "empirical equivalence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.018",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "两个科学理论可以给出对经验事实的相同解释或相同预测。"
+  },
+  {
+   "cn": "经验科学",
+   "en": "empirical science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.028",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "偏重于经验描述与实验方法的科学。通常与注重数学演绎的“形式科学”相对。"
+  },
+  {
+   "cn": "不充分理由，理由不足",
+   "en": "insufficient justification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线确认",
+   "en": "line justification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "○1justification○2 adjustment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验公式",
+   "en": "empirical formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法",
+   "en": "empirical method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验方程式",
+   "en": "empirical equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实证效度",
+   "en": "empirical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验心理学",
+   "en": "empirical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical law",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验系统",
+   "en": "empirical system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罗马帝国[时期]",
+   "en": "Roman Empire",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "经验洪水公式",
+   "en": "empirical flood formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实证效标计分法",
+   "en": "empirical criterion keying",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验杂波模式",
+   "en": "empirical clutter model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验正交函数",
+   "en": "empirical orthogonal function\",\"EOF",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "师出有名",
+   "en": "Fighting a War with a Moral Justification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理辩护",
+   "en": "ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对某些现象、行为或观点的合理性进行道德论证的行为。"
+  },
+  {
+   "cn": "医学伦理辩护",
+   "en": "medical ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.2229999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "依据医学伦理学理论、原则和规范，对某一医学行为或医疗活动的合理性进行解释、说明的活动。"
+  },
+  {
+   "cn": "经验世界",
+   "en": "empirical world",
+   "source": "马克思主义",
+   "wordNumber": "01.0181",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们通过感觉器官获得的关于客观事物的现象和外部联系的认识，是人们在社会实践或日常生活中自发地形成或世代相传的对外部世界的基本观点和看法。其基本表现形式是常识，是最普通、最平常但又持久、经常起作用的知识"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiation practice",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护三原则",
+   "subjectName": "放射防护三原则",
+   "publishYear": "2025",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程，即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射或现存照射情况下，确定一个建议的防护行动或补救行"
+  },
+  {
+   "cn": "医疗照射正当性",
+   "en": "justification of medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.7.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "医疗照射的实践，对受照个人或社会带来的利益足以弥补其可能引起的辐射危害（包括健康与非健康危害），才可以实施该实践。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiological practice",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.18",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "开展医疗照射、工业探伤、核设施运行等涉电离辐射活动前，须确保实践总体利益大于辐射危害及其他社会、经济风险。仅当该实践能为个人或社会带来净利益时，才属“正当的”，反之则不应开展。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,632 @@
+{
+ "key": "terminology intro",
+ "term": "terminology intro",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:42:42+00:00",
+ "status": "ok",
+ "note": "variant=terminology intro; 审定公布名词库=185; 海峡两岸名词对照库=51; 其他来源数据库=52; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "术语",
+   "en": "term,terminology",
+   "source": "语言学名词",
+   "wordNumber": "05.232",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "各门学科的专门用语，在专业范围内表示单一的专门概念，如语言学术语“主语”、哲学术语“物质”、政治经济学术语“商品”等。在一定条件下，某些术语可由专门意义引申出一般的意义，从而获得全民性，成为一般词语。"
+  },
+  {
+   "cn": "地层术语",
+   "en": "stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.023",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "各地层类别中使用的地层单位术语。可分为正式地层术语和非正式地层术语两类。"
+  },
+  {
+   "cn": "图书馆术语",
+   "en": "library terminology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "图书馆及相关领域用来表示概念的词或短语的集合。用来正确标记图书馆及其相关领域中的事物、现象、特性、关系和过程，具有专业性、系统性、单义性和科学性的特点。"
+  },
+  {
+   "cn": "术语服务",
+   "en": "terminology service",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对词表元数据和词表内容以及其他知识组织资源（如规范文档、分类表等）进行浏览、查询、应用等各种万维网服务的统称。术语服务通过万维网应用程序接口（API）支持计算机对词表及其内容的访问和调用，是在网络环境"
+  },
+  {
+   "cn": "术语抽取",
+   "en": "terminology extraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0250",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "信息抽取研究领域的一部分。目的是从给定语料中抽取出有关术语（表达概念的词语）及其定义。"
+  },
+  {
+   "cn": "术语标准",
+   "en": "terminology standard",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0893",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "以各种专用术语为对象所制定的标准。包括术语、定义(或解释性说明)和外文对应的词等。"
+  },
+  {
+   "cn": "术语库",
+   "en": "terminology bank",
+   "source": "语言学名词",
+   "wordNumber": "11.275",
+   "subjectFullName": "语言学_计算语言学_语言资源",
+   "subjectName": "语言资源",
+   "publishYear": "2011",
+   "definition": "存储专业术语的数据库。数据库中的每条记录是一个专业术语和与该术语有关的各种信息。例如，注释、类别、出处、语言学特征、其他语种的译名等。"
+  },
+  {
+   "cn": "移植命名学",
+   "en": "transplantation terminology",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.018",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "术中即刻组织扩张术",
+   "en": "intro-operation tissue expansion",
+   "source": "整形外科名词",
+   "wordNumber": "4.077",
+   "subjectFullName": "整形外科_组织移植_皮瓣移植",
+   "subjectName": "皮瓣移植",
+   "publishYear": "2026",
+   "definition": "术中组织即时扩张的治疗方法。方法是在术中注液至皮肤血运中断，持续5～10分钟，放液至皮肤血运恢复3～5分钟，连续3～5个周期，可使局部皮肤增加8%～15%的有效使用面积，能直接修复小面积皮肤缺损。"
+  },
+  {
+   "cn": "术语词典",
+   "en": "terminological dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.166",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。汇集某一学科或专业门类术语，并给出定义的词典。"
+  },
+  {
+   "cn": "正式地层术语",
+   "en": "formal stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.024",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "根据地层规范，给予恰当定义和命名的地层单位术语。"
+  },
+  {
+   "cn": "非正式地层术语",
+   "en": "informal stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.025",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "仅作为普通名称使用，而不属于已明确定义的地层单位术语。如砂质组、笔石带等。非正式地层单位术语不必给予地理专名。"
+  },
+  {
+   "cn": "统一名词术语",
+   "en": "unification of terminology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.020",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对稿件的名词术语进行核对，使之符合规范的编辑加工活动。"
+  },
+  {
+   "cn": "档案术语学",
+   "en": "studies of archival terminology",
+   "source": "档案学名词",
+   "wordNumber": "01.01.012",
+   "subjectFullName": "档案学_总论_档案学学科",
+   "subjectName": "档案学学科",
+   "publishYear": "2024",
+   "definition": "研究档案学专门用语规范化、标准化的理论和原则的档案学分支学科。"
+  },
+  {
+   "cn": "费米面学",
+   "en": "fermiology",
+   "source": "物理学名词",
+   "wordNumber": "05.0603",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内含子",
+   "en": "intron",
+   "source": "农学名词",
+   "wordNumber": "15.007",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "真核生物基因内的非编码序列，在RNA产物成熟过程中被剪切去除。"
+  },
+  {
+   "cn": "内含子",
+   "en": "intron",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0258",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "基因中被转录成前体转录物但随后通过将其两侧序列（外显子）拼接在一起而从转录物中移除的DNA片段。"
+  },
+  {
+   "cn": "内含子",
+   "en": "intron",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.063",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "插在真核生物基因两个编码序列之间、不编码蛋白质的一段非编码序列。是基因转录的一部分，但不出现在最终的mRNA转录物中。"
+  },
+  {
+   "cn": "内含子",
+   "en": "intron",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.256",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "存在于真核生物基因中、无编码意义而被切除的序列。"
+  },
+  {
+   "cn": "内含子",
+   "en": "intron",
+   "source": "畜牧学名词",
+   "wordNumber": "04.079",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "真核生物基因中阻断基因线性表达的序列，为外显子之间的非编码序列。"
+  },
+  {
+   "cn": "移植命名学",
+   "en": "transplantation terminology",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "术语抽取",
+   "en": "terminology extraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "术语[数据]库，专业词库",
+   "en": "terminological database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "术语词典，专业词典",
+   "en": "terminological dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地名术语",
+   "en": "terminology of geographical names",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "内含子",
+   "en": "intron",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内含子",
+   "en": "intron",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内含子",
+   "en": "intron",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内含子",
+   "en": "intron",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内含子",
+   "en": "intron",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "制图符号学",
+   "en": "cartographic seminology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "硝基染料",
+   "en": "nitro dye",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硝基化合物",
+   "en": "nitro-compound",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "tRNA内含子",
+   "en": "tRNA intron",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内含子移动",
+   "en": "intron mobility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内含子早现",
+   "en": "intron early",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "归巢内含子",
+   "en": "homing intron",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "核内含子",
+   "en": "nuclear intron",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内含子归巢",
+   "en": "intron homing",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内含子套索",
+   "en": "intron lariat",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标准术语",
+   "en": "Standard Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人术语",
+   "en": "Robot Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网术语",
+   "en": "IoT Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据术语",
+   "en": "Big Data Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云计算术语",
+   "en": "Cloud Computing Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能术语",
+   "en": "Artificial Intelligence Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据术语标准",
+   "en": "data terminology standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据管理术语",
+   "en": "unstructured data management terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190851-T-469 信息技术 人工智能 术语》",
+   "en": "20190851-T-469 Information technology — Artificial intelligence — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190805-T-469 信息技术 计算机视觉 术语》",
+   "en": "20190805-T-469 Information technology — Computer vision — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20173817-T-469 信息技术 穿戴式设备 术语》",
+   "en": "20173817-T-469 Information technology — Wearable device — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 33847-2017 信息技术 中间件术语》",
+   "en": "GB/T 33847-2017 Information technology — Middleware terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 35295-2017 信息技术 大数据 术语》",
+   "en": "GB/T 35295-2017 Information technology — Big data — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38247-2019 信息技术 增强现实 术语》",
+   "en": "GB/T 38247-2019 Information technology — Augmented reality — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 34078.1-2017 基于云计算的电子政务公共平台总体规范 第1部分：术语和定义》",
+   "en": "GB/T 34078.1-2017 General specification of electronic government common platform based on cloud computing — Part 1: Terminology and definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党内民主",
+   "en": "intra-Party democracy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亲属称谓",
+   "en": "kinship terminology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "用于指称各类亲属的称谓制度。在一些民族中有对称和引称的区分。"
+  },
+  {
+   "cn": "默多克亲属制度分类法",
+   "en": "Murdock kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0405",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家默多克（George Peter Murdock）将世界所有的亲属称谓制度归纳为六类。①夏威夷式：夏威夷型的称谓只用性别和辈份来区分亲属，即同性别同辈分是一种称谓，同性别不同辈分或同辈分不"
+  },
+  {
+   "cn": "摩尔根亲属制度",
+   "en": "Morgan kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0403",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国民族学家摩尔根（Lewis Henry Morgan）是亲属制度的创始者，他先后在《人类家庭的血亲和姻亲制度》《古代社会》等名著中介绍和阐述了人类历史上存在过的三种亲属制度：马来亚式、图兰尼亚式和"
+  },
+  {
+   "cn": "罗维亲属制度",
+   "en": "Lowio kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0404",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家（Robert Lowie）以尊一辈的血亲为基础，辅以支系、旁系之别，提出“四分法”。①行辈型：把旁系的亲属称谓依辈分全部纳入直系的亲属称谓体系中。②二分合并式：把旁系的亲属称谓一分为二，"
+  },
+  {
+   "cn": "关节腔注射",
+   "en": "intra-articular injection",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.8",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "在无菌技术操作下，用空针刺入关节腔，向关节内注射药物的治疗方法。用于治疗关节疾病。"
+  },
+  {
+   "cn": "一分为二",
+   "en": "one divides into two",
+   "source": "马克思主义",
+   "wordNumber": "01.0228",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东对于对立统一规律的一种简括、形象的表述。任何一个事物都包含着两个相互对立而又相互联系的对立面,对立面之间又统一又斗争,在一定条件下,各自向相反的方面转化。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

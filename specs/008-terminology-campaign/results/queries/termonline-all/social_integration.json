@@ -1,0 +1,712 @@
+{
+ "key": "social integration",
+ "term": "social integration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:37:56+00:00",
+ "status": "ok",
+ "note": "variant=social integration; 审定公布名词库=5220; 海峡两岸名词对照库=1278; 其他来源数据库=259; 预公布名词数据库=741; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "社会契约整合理论",
+   "en": "integrative social contract theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0032",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "认为应当将实证因素(是什么)和规范因素(应该是什么)并入商业道德中来制定决策的伦理观点，即要求决策人综合考虑实证和规范两方面因素。"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrality;integrity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0365",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "用来衡量自然和/或文化遗产及其特征的整体性和无缺憾性。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.138",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "将要素或子系统组合成具有结构和功能的系统，以实现系统要素或子系统之间的资源共享和协同工作，形成更有价值和效率的新整体。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "兽医学名词",
+   "wordNumber": "04.545",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "反射中枢对传入神经传来的刺激信息加以分析、综合和储存的过程。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "兽医学名词",
+   "wordNumber": "16.197",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "在病毒携带的整合酶的作用下，前病毒DNA插入细胞基因组DNA的过程。"
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.112",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "收录文献丰富、内容全面的类书或丛书。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.035",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一段DNA分子插入基因组DNA的重组过程。"
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0518",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "将机器人和其他设备或另一台机器(含其他机器人)组合成能完成如零部件生产的有益工作的机器系统。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "生理学名词",
+   "wordNumber": "01.035",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "整体性",
+   "en": "integration",
+   "source": "生物物理学名词",
+   "wordNumber": "07.132",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "每个意识状态都只觉知到单一的“场景”，不可能把这个场景分解成一些独立的成分，即意识经验是统一的、协调一致的特性。"
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0292",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）把多个软件、硬件（或两者兼有）合成为一个完整的系统的过程。（2）把多个系统进行整合，使之相互协同工作、信息共享的过程。"
+  },
+  {
+   "cn": "集成性",
+   "en": "integration",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0351",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "来自不同的信息源的数据进入数据仓库之前必须进行合理的重组、转换与集成，成为相互关联的数据，是数据仓库的一种特性。"
+  },
+  {
+   "cn": "一体化",
+   "en": "integration",
+   "source": "教育学名词",
+   "wordNumber": "10.028",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "西欧以正常化思想为依据的、用多种方式把残疾儿童安置在普通教育机构中接受教育的一种教育思想和特殊教育组织形式。"
+  },
+  {
+   "cn": "整合",
+   "en": "Integration",
+   "source": "遗传学名词",
+   "wordNumber": "03.562",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "一段DNA分子插入基因组DNA的重组过程。"
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "化学工程名词",
+   "wordNumber": "05.103",
+   "subjectFullName": "化学工程_过程系统工程_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "积分法",
+   "en": "integration",
+   "source": "数学名词",
+   "wordNumber": "05.0150",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数据积分",
+   "en": "integrating",
+   "source": "生物物理学名词",
+   "wordNumber": "02.240",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "根据数据归一化得到的信息，对每一个衍射点出现的位置进行衍射强度的积分，从而获取每一个收集到的衍射点的衍射强度的过程。是衍射数据处理的核心步骤。"
+  },
+  {
+   "cn": "整合子",
+   "en": "integrator",
+   "source": "生物物理学名词",
+   "wordNumber": "07.121",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "对外界刺激有整合作用和Ⅰ型兴奋性的神经元振子。"
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "化学名词",
+   "wordNumber": "03.2095",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "按时间累积计算检测系统所产生的电信号的仪器。"
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "药学名词",
+   "wordNumber": "06.379",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "色谱分析仪器中按时间累积检测系统所产生电信号的仪器。"
+  },
+  {
+   "cn": "社会整合",
+   "en": "social integration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "整合[作用]",
+   "en": "integration",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "集成度",
+   "en": "○1integrity○2integration level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "积分",
+   "en": "integral",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社会寄生",
+   "en": "social parasitism\",\"social symbiosis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "基因整合，遗传整合",
+   "en": "gene integration\",\"genetic integration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交金融",
+   "en": "Social Finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交基金",
+   "en": "social fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交性投资者",
+   "en": "social investor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会技术",
+   "en": "social technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会救济",
+   "en": "social remedy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会整合",
+   "en": "social integration",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会不同的要素、各组成部分在一定的共同利益、文化精神和社会规范基础上结合为一个统一、协调的整体的过程。与“社会解组”相对。"
+  },
+  {
+   "cn": "医养结合",
+   "en": "integrated health and social care",
+   "source": "社会医学名词",
+   "wordNumber": "12.3.9",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "老年人卫生保健",
+   "publishYear": "2025",
+   "definition": "将医疗卫生服务与养老服务有机整合的服务模式。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.27",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "泛指把分散的诸要素组合在一起，形成一个有序的整体。社会学区分了社会整合与系统整合，前者指社会行动者之间和谐或冲突的关系，而后者则指社会系统作为一个整体，各部分之间相容与不相容的关系。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "社会规范和文化价值在个体身上内化(internalize)的过程。个体在家庭、学校等社会环境中，通过多种形式的人际互动，以及知识、技能的学习，学会扮演社会角色，认同并接受群体的规范体系和意义体系，并依"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0158",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过社会互动而形成个体的社会属性，促使个体与社会保持一致性，实现个体的社会生活的过程。具体来说，是自然人通过各种方式逐渐学习社会知识、技能与规范，熟悉社会的风俗、习惯、道德、法律，确立生活目标、价值观"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0170",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与资本主义对立的思想体系和社会制度。社会主义一词来源于古拉丁文，一说由socialis（同伴的、同伙的）一词引出，一说由socius（喜欢社交的）一词引出，原有社会的、共同的、集体的生活之意。科学社会"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "自然人成长为社会人的过程。即一个人出生以后，通过与其他社会成员、群体和组织的互动、学习和接受社会知识、技能和规范，不断适应社会生活的过程。"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  },
+  {
+   "cn": "社会福利社会化",
+   "en": "socialization of social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "中国经济体制改革后社会福利领域改革的指导思想，即从计划经济下福利制度中的单位小社会转向建设市场经济为导向下的社会保障制度。包括投资主体多元化、服务对象公众化、服务方式多样化和服务队伍专业化四个方面的内"
+  },
+  {
+   "cn": "社会主义社会建设",
+   "en": "social construction of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0689",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义的社会建设中“社会”是整个社会主义社会发展中与其经济、政治、文化相并列的一个领域。社会主义的社会建设，是通过动员社会力量、整合社会资源、协调利益关系、发展社会事业、完善社会功能、健全社会保障、"
+  },
+  {
+   "cn": "社会互动",
+   "en": "social interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会互动",
+   "subjectName": "社会互动",
+   "publishYear": "2025",
+   "definition": "个体之间、群体之间，或个体与群体之间相互采取社会行动的过程，通常是一方对另一方采取社会行动，另一方相应作出反应性社会行动。人类存在的重要方式，是社会发展的动力所在。"
+  },
+  {
+   "cn": "社会交往",
+   "en": "social interaction",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体参与社会活动并与他人互动的过程。"
+  },
+  {
+   "cn": "社会支持",
+   "en": "social support",
+   "source": "社会医学名词",
+   "wordNumber": "3.5",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "通过帮助或安慰他人，协助其应对生理、心理及社会压力的行为。支持来源于个人社会网络，包括家庭成员、朋友或支持团体等。支持形式包括实际帮助、物质援助及情感支持。"
+  },
+  {
+   "cn": "社会功能状态",
+   "en": "social wellbeing",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "反映个体参与基本和复杂人际互动的状态。包含社会交往和社会资源。"
+  },
+  {
+   "cn": "社会公正",
+   "en": "social justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0269999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "社会行为层面的公正。政府在分配社会资源时公而不偏，根据基本需求人人平等，非基本需求合理差等原则进行宏观卫生资源的分配。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

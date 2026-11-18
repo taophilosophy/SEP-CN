@@ -1,0 +1,642 @@
+{
+ "key": "epistemological idealism",
+ "term": "epistemological idealism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:42:20+00:00",
+ "status": "ok",
+ "note": "variant=epistemological idealism; 审定公布名词库=241; 海峡两岸名词对照库=63; 其他来源数据库=6; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "研究知识的本质、知识的辩护以及信念的合理性的哲学分支。"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "研究认识的本质及其发展过程的哲学理论。对心理学研究者的科学观与方法论都有重要影响。"
+  },
+  {
+   "cn": "认识整体论",
+   "en": "epistemological holism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.014",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由W. V. 蒯因（W. V. Quine）提出。认为必须将科学理论作为整体加以检测，无法孤立地对某一科学假说加以检测。"
+  },
+  {
+   "cn": "进化认识论",
+   "en": "evolutionary epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认识论的一种自然主义进路，即强调自然选择在感知和认知机制的适应性形成中的作用。"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.501",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "瑞士心理学家J. 皮亚杰（J. Piaget）提出的一种研究认识（知识）的结构、发生、发展过程及其心理起源的学说。主张把建构主义与结构主义统一起来，将认识论作为目标和起点，采用发生学的方法，以儿童心智"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.818",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "通过社会互动来为集体知识提供理性证成的认识论观点。也指从社会维度对知识和信息的评价，或更简单地理解为社会互动的维度可以提供认知辩护。"
+  },
+  {
+   "cn": "科学认识",
+   "en": "scientific epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由认识主体、认识客体和实现主客体相互作用的中介三个要素组成的，以认识世界、创新知识为目标的动态过程。"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "美国著名图书馆学家谢拉（J.H.Shera）在20世纪60年代提出的图书馆学理论，是谢拉图书馆学思想体系的理论基础。该理论揭示了社会文化交流的基本规律，明确了社会文化与图书馆学的关系，确定图书馆学的职"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "皮亚杰(J. Piaget)创立的理论。强调用发生学的方法来研究认识发生发展的过程、结构及其心理起源。"
+  },
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.224",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "在科学研究中，往往忽略较难处理的变量，从而使得理论或模型可以更加简单地说明现象。"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "行为医学名词",
+   "wordNumber": "1.083",
+   "subjectFullName": "行为医学_总论_行为决定健康",
+   "subjectName": "行为决定健康",
+   "publishYear": "2022",
+   "definition": "（1）对未来事物有根据、合理的美好想象和希望。（2）对于某事物臻于最完善境界的观念。"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0199",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定一个上半格 L =( L ,≤,∨)，称一个子集合 I<img src='/root/syzx/static/spz/jsjkx3.02.0167.002.png'/>L 形成 L 的一个理想，若"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "数学名词",
+   "wordNumber": "04.0935",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "技术认识论",
+   "en": "epistemology of technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "探究技术知识、技术发明、技术变迁的解释，创造人工物过程中设计的逻辑，技术问题的来源及类型，技术传统，技术设计的层级结构，技术思维等的理论。"
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.007",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "溶液中的任一组分在全部浓度范围内都符合拉乌尔定律的溶液。"
+  },
+  {
+   "cn": "理想气体",
+   "en": "ideal gas",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.020",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "满足pV=nRT气体状态方程的气体。"
+  },
+  {
+   "cn": "理想元素",
+   "en": "ideal elements",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.279",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "在物理学中指在现实世界中没有的事物。比如“理想气体”“绝对光滑的平面”“不受外力作用的物体”等；在数学哲学中则常指无穷。"
+  },
+  {
+   "cn": "理想型",
+   "en": "ideal type",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.802",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "由德国社会理论家M. 韦伯（M. Weber）提出。主张社会科学就是构造抽象的假设性概念，抓住研究对象的典型性，以此为参考系刻画实际对象与此的一致性与差异，是一种区别于自然科学的方法论。"
+  },
+  {
+   "cn": "理想化方法",
+   "en": "idealization method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.164",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "纯化、简化研究对象，使研究对象处于理想的纯粹状态下进行科学研究的方法。如理想模型与理想实验。"
+  },
+  {
+   "cn": "理想模型",
+   "en": "ideal model",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.177",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "为了方便研究而建立的高度抽象的、具有某种极限特征的理想化客体。"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "认识学",
+   "en": "epistemology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "新实证主义认识论",
+   "en": "neo-positivist epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理想板",
+   "en": "ideal plate\",\"ideal tray",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想品种",
+   "en": "ideal variety",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想流体",
+   "en": "ideal fluid",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想气候",
+   "en": "ideal climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想循环",
+   "en": "ideal cycle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想流动",
+   "en": "ideal flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想混合物",
+   "en": "ideal mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想反应器",
+   "en": "ideal reactor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想功",
+   "en": "ideal work",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想级",
+   "en": "ideal stage",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想自我",
+   "en": "ideal self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理想化自我",
+   "en": "idealized self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我理想",
+   "en": "ego ideal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "应然数权",
+   "en": "ideal data rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理想跑动线路",
+   "en": "ideal line of running",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "君子固穷",
+   "en": "A Man of Virtue Maintains His Ideals even in Frustrations.&nbsp;",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0156",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类认识的来源、本质、过程、方法、检验标准和发展规律的哲学理论，是哲学体系的一个重要组成部分。马克思主义哲学坚持以实践为基础，把辩证法应用于认识论，创立了革命的能动的反映论。"
+  },
+  {
+   "cn": "认识论断裂",
+   "en": "epistemological rupture",
+   "source": "马克思主义",
+   "wordNumber": "05.0067",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》。指理论总问题的转换。阿尔都塞认为马克思以1845年为标志，从早期人道主义的意识形态立场转向了科学的立场。"
+  },
+  {
+   "cn": "以兴趣为导向的认识论",
+   "en": "interestoriented epistemology",
+   "source": "马克思主义",
+   "wordNumber": "05.0042",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯以弗洛伊德的心理分析为出发点，认为“兴趣”是人类认识的根本内驱力，指出认识兴趣是多样的，包括技术的认识兴趣、实践的认识兴趣和解放的认识兴趣，只有在“兴趣”的引导下人们才不断产生新的认识领域。"
+  },
+  {
+   "cn": "医学认识论",
+   "en": "medical epistemology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.179",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "运用认识论的基本观点，研究医学认识的对象、来源、本质、发展过程和规律，以及医学认识与医学实践的关系的理论。"
+  },
+  {
+   "cn": "唯心主义",
+   "en": "idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0004",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "哲学两大基本派别之一，与唯物主义相对立。在哲学的基本问题上，唯心主义主张精神第一性，物质第二性，精神是世界的本原，物质是精神、意识的产物，世界统一于精神。"
+  },
+  {
+   "cn": "哲学就是认识论",
+   "en": "philosophy is epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0249",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1964年8月24日就日本物理学家坂田昌一的文章的谈话中提出的哲学命题。这一概括是将哲学作为世界观和方法论的广义认识论来看待的，是对列宁关于哲学是“伟大的认识工具”的科学论断的继承和发挥。"
+  },
+  {
+   "cn": "思辨唯心主义",
+   "en": "speculative idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0104",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯在《神圣家族》中使用的术语。马克思、恩格斯批判黑格尔颠倒了精神和物质、思维和存在之间的关系。马克思认为，这样一来，全部外化的历史和外化的整个复归，不过是抽象的、绝对的思维的生产史，即逻辑"
+  },
+  {
+   "cn": "客观唯心主义",
+   "en": "objective idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0199",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "与“主观唯心主义”相对。唯心主义哲学的基本形态之一。客观唯心主义认为不依赖于人类，不依赖于人的意识而独立存在着的“客观精神”，“理念”等是唯一的客观实在，是第一性的，是物质世界的本原；而客观世界则是客"
+  },
+  {
+   "cn": "道德理想",
+   "en": "moral ideal",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.02",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德追求的最高境界。包括个人道德理想和社会道德理想两个方面。前者指基于一定道德要求的认识，自觉向往和追求的理想人格；后者指理想的社会道德状况。"
+  },
+  {
+   "cn": "职业理想",
+   "en": "professional ideal",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.045",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们确立的与职业目标相联系的愿望。既是职业道德的要求，又有利于职业道德的实现。"
+  },
+  {
+   "cn": "共产主义理想信念",
+   "en": "communist ideals and beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0553",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对共产主义的理论和原则有了深刻的认识和理解并有了情感基础而产生的对共产主义的真诚信仰和坚强信心的思想意识。它是无产阶级世界观成熟的标志，是建立在马克思和恩格斯创立的科学社会主义理论之上的，是促使革命者"
+  },
+  {
+   "cn": "共产主义理想",
+   "en": "ideal of the communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0020",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级以马克思主义为指导、要在全世界建立共产主义社会的理想信念。"
+  },
+  {
+   "cn": "党的最高理想",
+   "en": "highest ideal of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0717",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即党的最终奋斗目标，是党的最高纲领的核心内容。中国共产党党章明确规定，党的最高理想和最终目标是实现共产主义。"
+  },
+  {
+   "cn": "中国特色社会主义共同理想",
+   "en": "common ideal of socialism with chinese characteristics",
+   "source": "马克思主义",
+   "wordNumber": "03.0698",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义核心价值体系基本内容的一部分。即坚定对中国共产党的信任，坚定走中国特色社会主义道路，坚定实现中华民族的伟大复兴。"
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "马克思主义",
+   "wordNumber": "01.0088",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "认为世界有两种各自独立、性质不同的本原，即思维和物质两个实体的哲学学说。它坚持意识离开物质而独立存在，其实质是唯心主义哲学观。。哲学史上二元论的著名代表人物之一是法国笛卡儿。"
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "社会医学名词",
+   "wordNumber": "2.4.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物医学模式",
+   "publishYear": "2025",
+   "definition": "将事物划分为两种具有独立性且相互对立的根本属性的理论或方法。通常用于解释物质与精神、身体与意识等不同层面之间的关系。"
+  },
+  {
+   "cn": "社会唯实论",
+   "en": "social realism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为社会是由各种制度和规范构成的实在的有机整体，个体源于社会，社会外在和优先于个体，并对个体具有强制性的社会理论。因与西方中世纪经院哲学正统派概念唯实论有相通之处而得名。与“社会唯名论”相对。"
+  },
+  {
+   "cn": "概念实在论",
+   "en": "conceptual realism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是具有现实的、真实的和独立的存在的一种学说。"
+  },
+  {
+   "cn": "性别二元论",
+   "en": "dualism of gender",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "以男人和女人以及相应的分野为隐喻的一种思维模式，对应于西方认知传统中的二元结构，即理性和情感、心智和肉体、客观和主观、主体和客体、公共和私人等范畴之间的对立和等级关系，由此形成一种等级制的统治逻辑。"
+  },
+  {
+   "cn": "人类—自然二元论",
+   "en": "human-nature dualism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.9",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种认为人类属于一个较高等级，与其他处于较低等级的动物界和非人类是相互分离的观点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

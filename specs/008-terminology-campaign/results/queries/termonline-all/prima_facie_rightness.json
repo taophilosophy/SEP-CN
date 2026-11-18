@@ -1,0 +1,782 @@
+{
+ "key": "prima facie rightness",
+ "term": "prima facie rightness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:43:22+00:00",
+ "status": "ok",
+ "note": "variant=prima facie rightness; 审定公布名词库=1419; 海峡两岸名词对照库=439; 其他来源数据库=201; 预公布名词数据库=68; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "相",
+   "en": "facies",
+   "source": "地理学名词",
+   "wordNumber": "02.056",
+   "subjectFullName": "地理学_自然地理学",
+   "subjectName": "自然地理学",
+   "publishYear": "2006",
+   "definition": "景观形态单位的最低一级，相当于初级地貌形态内的地貌部位，对地理观察或作用具有均匀和/或统一性质的地理单元，体系内物理和化学性质完全均一的部分。"
+  },
+  {
+   "cn": "陆相",
+   "en": "nonmarine facies,continental facies",
+   "source": "石油名词",
+   "wordNumber": "02.0231",
+   "subjectFullName": "石油_油气地质勘探_含油气盆地沉积学",
+   "subjectName": "含油气盆地沉积学",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "起爆药",
+   "en": "initiating explosive,prima-ry explosive",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.254",
+   "subjectFullName": "煤炭科学技术_矿井建设_矿井爆破",
+   "subjectName": "矿井爆破",
+   "publishYear": "1996",
+   "definition": "在较小外界能量作用下，可急速由爆燃转爆轰的炸药。"
+  },
+  {
+   "cn": "大地构造相",
+   "en": "tectonic facies",
+   "source": "地质学名词",
+   "wordNumber": "10.01.002",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "形成于相似构造环境，具有类似岩石-构造组合的地质单元。主要依据地层、沉积特点、岩浆活动、古地理与古构造格局、变形样式、变质程度等划分确定。"
+  },
+  {
+   "cn": "火成岩相",
+   "en": "igneous facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.011",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "反映火成岩生成环境和形成条件的岩体特征的总和。包括侵入岩相和火山岩相。"
+  },
+  {
+   "cn": "侵入岩相",
+   "en": "intrusive facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.030",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "反映侵入岩形成环境和条件的岩体特征的总和。根据其侵位深度划分为深成相、中深成相和浅成相；在侵入岩体内部还可以分为中心相、过渡相、边缘相等。"
+  },
+  {
+   "cn": "边缘相",
+   "en": "border facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.034",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "位于岩体边部，其成分偏基性，因岩浆冷却快而结晶程度较差，多呈细粒、隐晶质或斑状结构；常见流动构造和围岩捕虏体。"
+  },
+  {
+   "cn": "中心相",
+   "en": "central facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.035",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "位于岩体内部，成分偏酸性，因岩浆冷却缓慢而矿物结晶较好，多呈较自形的中粗粒结构或似斑状结构、块状构造，无或很少发育围岩捕虏体。"
+  },
+  {
+   "cn": "过渡相",
+   "en": "transitional facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.036",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "位于中心相和边缘相之间，其成分和组构特征也介于两者之间。"
+  },
+  {
+   "cn": "火山岩相",
+   "en": "volcanic facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.038",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "火山作用产物在空间上分布的格局、产出方式及其外貌特征。根据火山岩的形成条件及产出方式，主要划分为溢流相、爆发相、侵出相、火山颈相、次火山岩相和火山沉积相。"
+  },
+  {
+   "cn": "爆发相",
+   "en": "explosive facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.040",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "常见的一种火山岩相。在火山喷发开始阶段和高潮阶段最发育。由强烈的火山爆发产生的火山碎屑岩组成，主要有空落堆积、碎屑流堆积、火山基浪堆积、火山泥流堆积等。"
+  },
+  {
+   "cn": "侵出相",
+   "en": "extrusion facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.041",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "火山喷发晚期，因大量挥发分的逸失和黏度变大，失去爆发能力和流动性的酸性或碱性残余岩浆，在火山通道上部或火山口周围裂隙中被挤出地表而形成陡峭的岩钟、岩针等。"
+  },
+  {
+   "cn": "次火山岩相",
+   "en": "subvocanic facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.043",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "与火山岩同源、同成分，空间上紧密相连，但因岩浆喷发晚期压力不足，未能喷出地表而在近地表处侵位固结成岩。由不同岩性的次火山岩所组成。"
+  },
+  {
+   "cn": "地球化学相",
+   "en": "geochemical facies",
+   "source": "地质学名词",
+   "wordNumber": "13.01.110",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地球化学体系中结构相同、成分和性质均一，并以界面相互分开的组成部分。组成地球化学体系的基本单元。"
+  },
+  {
+   "cn": "成岩相",
+   "en": "diagenetic facies",
+   "source": "地质学名词",
+   "wordNumber": "05.02.022",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积成岩作用",
+   "subjectName": "沉积成岩作用",
+   "publishYear": "2026",
+   "definition": "一定成岩环境下，各种成岩作用反映在岩石的岩石学、矿物学和地球化学特征上的总和。可根据成岩环境和成岩作用进行分类。例如碳酸盐岩的成岩相可划分为海水成岩相、大气淡水成岩相、混合水成岩相和埋藏成岩相四大类。"
+  },
+  {
+   "cn": "沉积相",
+   "en": "sedimentary facies",
+   "source": "地质学名词",
+   "wordNumber": "05.05.005",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "一个沉积环境中所有的原生沉积特征的总和。是沉积环境的物质表现，包括岩石组构、成分、古生物特征、岩石地球化学特征等。如按沉积自然地理环境可分为陆相、海相、海陆过渡相等。"
+  },
+  {
+   "cn": "相序",
+   "en": "facies sequence",
+   "source": "地质学名词",
+   "wordNumber": "05.05.009",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "沉积岩层中从一种相逐渐过渡到另外一种相的系列相组合顺序。相序的顶部和底部可以是突变的或侵蚀接触，或者是古土壤。单个岩层只能提供沉积时局部的条件，而相序则可提供整个沉积环境特征，以及它们随时间的发展和变"
+  },
+  {
+   "cn": "相模式",
+   "en": "facies model",
+   "source": "地质学名词",
+   "wordNumber": "05.05.011",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "以相序递变规律为基础，以现代沉积环境和沉积物特征的研究为依据，从大量沉积相发育和演化研究实例中高度概括，归纳出的具有普遍意义的沉积相空间组合形式。"
+  },
+  {
+   "cn": "陆相",
+   "en": "continental facies",
+   "source": "地质学名词",
+   "wordNumber": "05.05.015",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "在大陆沉积环境中形成的沉积。按自然地理环境可细分为残积相、坡积相、洪积相、湖泊相、沼泽相、沙漠相等。其特点是相变大，不能在很大范围内保持均一的岩性。岩石类型包括碎屑岩、黏土岩、化学岩、生物化学岩等。"
+  },
+  {
+   "cn": "海相",
+   "en": "marine facies",
+   "source": "地质学名词",
+   "wordNumber": "05.05.017",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "在海洋沉积环境中形成的沉积。按海底地形和海水深度，可分为滨海相、陆棚相、半深海相、深海相等。其特点是相变不大，可以在较大范围内保持均一的岩性。主要岩石类型是碎屑岩、黏土岩、铁质岩、锰质岩、硅质岩、碳酸"
+  },
+  {
+   "cn": "初步证据",
+   "en": "prima facie evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相",
+   "en": "facies",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相",
+   "en": "facies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "十字军东征的伦巴尔第",
+   "en": "Lombardi alla Prima Crociata",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Verdi, Giuseppe"
+  },
+  {
+   "cn": "半深海相",
+   "en": "hemipelagic facies\",\"bathyal facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "群丛相",
+   "en": "faciation\",\"facies",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相",
+   "en": "phase\",\"facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "指相化石",
+   "en": "facies-fossil",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "成岩相",
+   "en": "diagenetic facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "冲积相",
+   "en": "alluvial facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地震相",
+   "en": "seismic facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "河口相",
+   "en": "estuarine facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "珊瑚相",
+   "en": "coralline facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "示源岩相",
+   "en": "alimentation facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "远洋相",
+   "en": "eupelagic facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "变质相",
+   "en": "metamorphic facies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "沉积相",
+   "en": "sedimentary facies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "绿片岩相",
+   "en": "greenschist facies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "陆架相",
+   "en": "shelf facies\",\"continental shelf facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "右板",
+   "en": "right lamina\",\"right plate",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "扶正",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆平",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右边锋",
+   "en": "outside right\",\"right winger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右手拳",
+   "en": "right\",\"right-hand blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右前卫",
+   "en": "inside right\",\"right halfback",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排污权",
+   "en": "emission right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水权",
+   "en": "water right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权",
+   "en": "Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宪法权利",
+   "en": "constitutional rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民事权利",
+   "en": "civil rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私权利",
+   "en": "private right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物权",
+   "en": "real right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人身权",
+   "en": "personal right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格权",
+   "en": "personality right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财产权",
+   "en": "property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据库权",
+   "en": "database right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权利",
+   "en": "rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0138",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会不同阶级在政治、经济、文化等方面享有的不同权力和利益。在阶级社会，公民的权利是按照财产状况分级规定的。而被统治阶级要争得权利，就要使这个阶级的要求和权利成为整个社会本身的权利和要求，才能引起社"
+  },
+  {
+   "cn": "民权",
+   "en": "civil rights",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "公民在政治领域享有的民主权利。公民能参与立法等政治活动，并且其身体、言论、信仰、居住、集会等自由权利要受到法律保护。"
+  },
+  {
+   "cn": "性权利",
+   "en": "sex right",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "个人在性活动中享有的权利，如选择性对象、享受性爱等。"
+  },
+  {
+   "cn": "业主维权",
+   "en": "homeowners rights",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.18",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "业主作为房屋的产权所有人，自己或通过业主委员会组织起来，争取与自己相关的住房及其他权益的活动。"
+  },
+  {
+   "cn": "社会权利",
+   "en": "social right",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "公民维持其社会存在的基本权利，包括生存权、健康权、受教育权、工作权、居住权和资产拥有权等。英国社会学家、社会政策学家马歇尔（T.H.Marshall）提出。"
+  },
+  {
+   "cn": "新右派",
+   "en": "new right",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "20世纪80年代盛行的社会政治思潮。经济上新自由主义和政治上新保守主义的集合。以里根和撒切尔政府为代表，在国家社会福利政策实施领域接受新自由主义思想，主张自由市场和个人责任，强化私有化，削弱国家的作用"
+  },
+  {
+   "cn": "权利平等",
+   "en": "equal rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0139",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人与人之间在政治、经济、文化等方面具有的同等地位和同等权利。马克思主义认为，真正的权利平等只有在消灭了阶级的共产主义社会才能实现。而权利平等又包含权利相对平等和绝对平等两重涵义。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "法权",
+   "en": "legal rights",
+   "source": "马克思主义",
+   "wordNumber": "05.0157",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国艾蒂安·巴里巴尔（Etienne Balibar）认为“所有权”的关系就是所有制，“所有权”的法律，就是法律意义上的所有权或法权。在其看来，政治与构建政治的暴力之间的关系是不能通过权利、制度、意识"
+  },
+  {
+   "cn": "语言权",
+   "en": "language rights",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0167",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "社会成员或群体学习和使用语言的权利。"
+  },
+  {
+   "cn": "医师权利",
+   "en": "physician right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.004",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医师在执业活动中享有的正当权力和利益。包括法定权利和道德权利。一般说来，医师的法定权利都是其道德权利，而其道德权利不一定是其法定权利，二者并非完全一致，在特定情形下甚至可能会出现冲突。"
+  },
+  {
+   "cn": "健康权",
+   "en": "health right",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.6",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "一项基本人权，人人享有能达到的最高体质和心理健康标准的权利。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.128",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定的社会历史条件下每个人按其本质和尊严而自由、平等地享有或应该享有的基本权利。是满足人的生存和发展所必需的且应当享有的基本权利。如生命权、健康权等。"
+  },
+  {
+   "cn": "民族权利",
+   "en": "ethnic rights",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.001",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "各民族在国家宪法和相关法律规定下享有的权利。"
+  },
+  {
+   "cn": "堕胎权",
+   "en": "right of abortion",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "妇女怀孕后自主选择人工流产的权利。在美国，堕胎权一直是司法探讨以及不同政治、宗教和社会团体争论的焦点之一。反对者通常以保护生命权为理由，支持者则以保护女性身体的自主选择权为理由，因而争取堕胎权是女权主"
+  },
+  {
+   "cn": "教育权利",
+   "en": "right of education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.7",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "作为国家公民所享有的受教育的权利，以及受教育者作为学生区别于其他公民所应该享受的具体权利。"
+  },
+  {
+   "cn": "死亡权利",
+   "en": "right to die",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.14",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "人在到达生命终点之前，主动选择死亡方式、死亡时间和地点等的权利。对这一权利的争议颇多，目前尚未达成共识。"
+  },
+  {
+   "cn": "继承权",
+   "en": "right of inheritance",
+   "source": "马克思主义",
+   "wordNumber": "04.0014",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继承人依法取得被继承人遗产的权利。包括两种含义：（1）客观意义上的继承权。它是指继承开始前，公民依照法律的规定或者遗嘱的指定而接受被继承人遗产的资格，即继承人所具有的继承遗产的权利能力。（2）主观意义"
+  },
+  {
+   "cn": "患者权利",
+   "en": "health-seeker right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0280000000000005",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者享有的从国家和社会获得医疗服务的权利。"
+  },
+  {
+   "cn": "健康权利",
+   "en": "right of health",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.062999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "个体享有的免受疾病、残疾及相关风险损害的基本权利。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

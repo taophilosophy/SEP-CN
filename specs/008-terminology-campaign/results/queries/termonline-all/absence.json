@@ -1,0 +1,512 @@
+{
+ "key": "absence",
+ "term": "absence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:34:28+00:00",
+ "status": "ok",
+ "note": "variant=absence; 审定公布名词库=136; 海峡两岸名词对照库=8; 其他来源数据库=5; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "缺失",
+   "en": "absence,loss",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0004",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "失神发作",
+   "en": "absence seizure",
+   "source": "行为医学名词",
+   "wordNumber": "17.09",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_癫痫",
+   "subjectName": "癫痫",
+   "publishYear": "2022",
+   "definition": "以意识障碍为主，没有任何先兆的突然发作。患者正在进行着的动作突然中断，发呆，可伴有短暂的双眼上翻。"
+  },
+  {
+   "cn": "失神发作",
+   "en": "absence seizure",
+   "source": "生物物理学名词",
+   "wordNumber": "04.173",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "以短暂的意识丧失为主要特征的，没有任何先兆的、突然开始的癫发作。"
+  },
+  {
+   "cn": "失神发作",
+   "en": "absence seizure",
+   "source": "老年医学名词",
+   "wordNumber": "04.376",
+   "subjectFullName": "老年医学_老年临床医学_老年神经系统疾病",
+   "subjectName": "老年神经系统疾病",
+   "publishYear": "2017",
+   "definition": "癫<img src='/root/syzx/static/spz/laonianyixue1.04.376.png'/>发作的一种类型，特征为突然发生和迅速终止的意识障碍。脑电图表现为规律和对称的３周"
+  },
+  {
+   "cn": "失神发作",
+   "en": "absence seizure",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.290",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "一种癫痫症状。发作时突然动作停止，双眼茫然凝视，对外界没有反应，持续数秒至数十秒钟后又突然恢复发作前正在进行的活 动。"
+  },
+  {
+   "cn": "失神发作",
+   "en": "absence seizure",
+   "source": "医学名词 第四分册",
+   "wordNumber": "07.322",
+   "subjectFullName": "医学_神经病学",
+   "subjectName": "神经病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "前列腺缺如",
+   "en": "prostatic absence",
+   "source": "男科及性医学名词",
+   "wordNumber": "10.002",
+   "subjectFullName": "男科及性医学_前列腺疾病",
+   "subjectName": "前列腺疾病",
+   "publishYear": "2023",
+   "definition": "在胚胎发育过程中，由附属性腺分化异常导致的前列腺组织缺失。常伴有精囊缺如。"
+  },
+  {
+   "cn": "死锁消除",
+   "en": "deadlock absence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0463",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "死锁发生之后，消除死锁形成的条件，使系统继续运行。"
+  },
+  {
+   "cn": "胸腹隔膜缺失",
+   "en": "pleuroperitoneal absence",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "26.009",
+   "subjectFullName": "组织学与胚胎学_胚胎学_体腔和系膜的发生",
+   "subjectName": "体腔和系膜的发生",
+   "publishYear": "2014",
+   "definition": "胸腹隔膜未发生的一种先天畸形。多发生在左侧。由于胸腹隔膜缺失，胃和十二指肠等上腹部脏器可经此缺失处入出胸腔。"
+  },
+  {
+   "cn": "缺如",
+   "en": "congenital absence",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0005",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "离席时长",
+   "en": "dispatcher absence time;absence time",
+   "source": "急救医学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "急救医学_急救质控_调度质控_调度员质控",
+   "subjectName": "调度员质控",
+   "publishYear": "2025",
+   "definition": "单班次内调度员离席时长的总和。计量单位为分钟。"
+  },
+  {
+   "cn": "附睾缺如",
+   "en": "absence of epididymis",
+   "source": "男科及性医学名词",
+   "wordNumber": "09.153",
+   "subjectFullName": "男科及性医学_阴囊及其内容物疾病",
+   "subjectName": "阴囊及其内容物疾病",
+   "publishYear": "2023",
+   "definition": "在胚胎发育过程中，因睾酮水平低下，中肾管不发育或发育不全，导致附睾完全或部分缺失的先天畸形。常合并输精管缺如，精子排出受阻，临床表现主要为无精子症。"
+  },
+  {
+   "cn": "漏订",
+   "en": "absence of subscribing ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.093",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "销货店因疏忽而未在征订单上填写订数或没有填足需要的数量，所造成的图书征订上的遗漏。"
+  },
+  {
+   "cn": "失神[性癫痫]发作",
+   "en": "absence epileptic seizure",
+   "source": "神经病学名词",
+   "wordNumber": "12.012",
+   "subjectFullName": "神经病学_癫痫",
+   "subjectName": "癫痫",
+   "publishYear": "2020",
+   "definition": "以突然发生和迅速终止的以意识丧失为发作形式的全面性癫痫发作。表现为短暂的意识丧失和正在进行动作的中断，通常持续5～15s，脑电图呈3Hz的棘慢复合波。非典型失神发作的起始和终止均较典型失神缓慢，除意识"
+  },
+  {
+   "cn": "无子宫",
+   "en": "absence of uterus",
+   "source": "计划生育名词",
+   "wordNumber": "03.738",
+   "subjectFullName": "计划生育_计划生育临床_优生优育",
+   "subjectName": "优生优育",
+   "publishYear": "2019",
+   "definition": "子宫畸形的一种类型。胚胎时期，两侧中肾旁管横向延伸受阻，未达到中线即停止发育，则无子宫形成。常合并先天性无阴道，但可有正常卵巢。第二性征表现一般不受影响。患者临床常无阳性体征，故青春前期常不易发现，青"
+  },
+  {
+   "cn": "无笑靥",
+   "en": "absence of dimple",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "04.298",
+   "subjectFullName": "医学美学与美容医学_美容外科学",
+   "subjectName": "美容外科学",
+   "publishYear": "2015",
+   "definition": "多为先天性笑肌纤维止点未与口轮匝肌外缘真皮形成索带样粘连，故在微笑时颊部前缘皮肤不出现陷窝状凹陷。"
+  },
+  {
+   "cn": "阴道缺失",
+   "en": "absence of vagina",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "04.429",
+   "subjectFullName": "医学美学与美容医学_美容外科学",
+   "subjectName": "美容外科学",
+   "publishYear": "2015",
+   "definition": "因为手术、外伤或发育的原因引起的阴道完全闭锁或缺如。"
+  },
+  {
+   "cn": "附睾缺如",
+   "en": "absence of epididymis",
+   "source": "泌尿外科学名词",
+   "wordNumber": "02.172",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统畸形",
+   "subjectName": "泌尿、男性生殖系统畸形",
+   "publishYear": "2014",
+   "definition": "胚胎期中肾导管完全未发育导致附睾不发育的先天性畸形。临床表现为无精子症。"
+  },
+  {
+   "cn": "无子宫",
+   "en": "absence of uterus",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "27.094",
+   "subjectFullName": "组织学与胚胎学_胚胎学_泌尿系统和生殖系统的发生",
+   "subjectName": "泌尿系统和生殖系统的发生",
+   "publishYear": "2014",
+   "definition": "由中肾旁管未发生或发育不全，或双侧中肾旁管的中下段未能在中线合并导致的子宫缺如。"
+  },
+  {
+   "cn": "无阴道",
+   "en": "absence of vagina",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "27.122",
+   "subjectFullName": "组织学与胚胎学_胚胎学_泌尿系统和生殖系统的发生",
+   "subjectName": "泌尿系统和生殖系统的发生",
+   "publishYear": "2014",
+   "definition": "因中肾旁管尾端未形成窦结节，也未诱导出窦阴道球，致使未能生成阴道的先天畸形。"
+  },
+  {
+   "cn": "失神状态",
+   "en": "absence state",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "胸腹隔膜缺失",
+   "en": "pleuroperitoneal absence",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "死锁消除",
+   "en": "deadlock absence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无阴道",
+   "en": "absence of vagina",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "无子宫",
+   "en": "absence of uterus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "香精回收",
+   "en": "essence recovery",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "本周蛋白",
+   "en": "Bence-Jones protein",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "本周蛋白",
+   "en": "Bence-Jones protein",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逃剑",
+   "en": "absence of blade\",\"absence of contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拟容取心",
+   "en": "Compare Appearances to Grasp the Essence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离形得似",
+   "en": "Transcend the Outer Form to Capture the Essence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚当子孙皆兄弟，兄弟犹如手足亲。（援助伊朗，源自古波斯诗人萨迪）",
+   "en": "The sons of Adam are limbs of one, having been created of one essence.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人学的空场",
+   "en": "absence of man",
+   "source": "马克思主义",
+   "wordNumber": "05.0061",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特《辩证理性批判》中指出，真正的马克思主义是活生生、富有生命力的，而他所处时代却把马克思主义变成了教条，脱离了具体的生活和历史，忽视了人的存在，出现了“人学的空场”，他要挽救马克思主义在实践中的僵化"
+  },
+  {
+   "cn": "因病缺课",
+   "en": "absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "学生因为患病不能参加学校正常的学习和生活的现象。是反映学校群体性疾病流行情况的敏感指标，也是反映学生健康状况和学校预防保健水平的重要指标。"
+  },
+  {
+   "cn": "因病缺课率",
+   "en": "absence rate due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "常以月、周为单位，计算因病缺课的人时数或人日数占授课总人时数或总人日数的比率。为适应学校教学日历，以四周代替一月来登记和统计时，又称月病假率。计算人日数时，通常因病缺课3个学时记为半天；超过3个学时，"
+  },
+  {
+   "cn": "因病缺课缺勤管理",
+   "en": "management of absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校卫生工作人员对师生员工因病缺课/缺勤情况及诊疗信息，进行登记并按规定上报的过程。"
+  },
+  {
+   "cn": "因病缺课缺勤登记",
+   "en": "registration of absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校（含托幼机构）发现师生员工有传染病早期症状、疑似传染病病人及其他因病缺课/缺勤等情况，及时报告给学校传染病疫情报告人，学校传染病疫情报告人立即开展排查，并对排查情况详细记录的过程。"
+  },
+  {
+   "cn": "因病缺课缺勤报告",
+   "en": "report of absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校按属地卫生行政部门和教育主管部门要求，每日在规定时间前上报当日师生员工缺课/缺勤监测信息，无缺课/缺勤信息的学校实行“零报告”的过程。"
+  },
+  {
+   "cn": "因病缺课登记追踪",
+   "en": "absence registration and tracking due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "班主任每日登记因病缺课学生的病情，包括发病时间、症状、就诊缺课，并协助学校传染病疫情报告人及时了解病情变化及对转归情况进行追踪的行为。是贯彻落实早期发现、早期报告、早期处置传染病的制度要求。"
+  },
+  {
+   "cn": "平均因病缺课日数",
+   "en": "average days of absence due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "全校（或全班）全学期因病缺课人日数与该学期全校学生平均人数的比值。为学生一学期内平均每人因病缺课日数，反映学生健康状况的指标。"
+  },
+  {
+   "cn": "因病缺课休学退学报告",
+   "en": "reporting on the leave, absence and drop out of school because of disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "班主任每日登记学生因病缺课情况，追踪病情和转归情况并上报学校传染病报告人，经报告人初步核实后，如发现传染病或疑似传染病，应在规定时限内上报给属地疾病预防机构和教育行政部门的报告制度。"
+  },
+  {
+   "cn": "本质",
+   "en": "essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0059",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“现象”相对。事物的内在性质，事物的全体及构成事物的主要要素、内部联系。它由事物内在矛盾决定，是决定事物性质和发展趋势的方面，具有一般性、稳定性和深刻性。它隐藏在现象背后并表现在现象之中。"
+  },
+  {
+   "cn": "内在本质",
+   "en": "internal essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0063",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在表现”相对。事物因内部矛盾的决定作用在发生、发展、变化过程中所表现的内部联系性和客观形式。"
+  },
+  {
+   "cn": "人的本质",
+   "en": "human essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0134",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人区别于其他物的本质规定性。马克思指出：“人的本质并不是单个人所固有的抽象物。在其现实性上，它是一切社会关系的总和。”人的本质是人作为实践的存在、自我创造的主体性存在和社会历史性存在所体现的特性。"
+  },
+  {
+   "cn": "现象与本质",
+   "en": "phenomena and essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0060",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物的内部联系和外在表现的两个方面。两者对立统一。其统一性在于，二者相互联系、相互依赖。本质是现象的根据；本质决定现象，并通过现象表现出来；现象依赖本质，是本质的表现。二者相互区别，现象是外显的、易变"
+  },
+  {
+   "cn": "社会主义的本质",
+   "en": "essence of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0585",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平于1992年初在南方谈话中提出：社会主义的本质，是解放生产力，发展生产力，消灭剥削，消除两极分化，最终达到共同富裕。是把生产力与生产关系相结合的社会主义经济本质、"
+  },
+  {
+   "cn": "原强",
+   "en": "essence of strong nation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "通过提倡“群学”这一修齐治平之学，来培养和提高民众素质，建立良好社会基础，以达到国家富强的主张与做法。是严复主张的民本原则的体现。严复在《原强》一文中，强调强国保种在于培植民众在体、智、德三方面的潜力"
+  },
+  {
+   "cn": "本周蛋白",
+   "en": "Bence-Jones protein, BJP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.36",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "尿液中发现的单克隆球蛋白或免疫球蛋白轻链。分子量22-24kDa，能自由通过肾小球滤过膜，可见于多发性骨髓瘤、巨球蛋白血症、原发性淀粉样变性等。"
+  },
+  {
+   "cn": "弃其糟粕取其精华",
+   "en": "discard its dross and select its essence",
+   "source": "马克思主义",
+   "wordNumber": "03.0462",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "发扬旧事物中的积极因素,抛弃旧事物中的消极因素。毛泽东在《新民主主义论》中提出，有批判地吸收和继承文化遗产，对外国的东西决不能生吞活剥地毫无批判地吸收。"
+  },
+  {
+   "cn": "淋巴干细胞缺乏引起的重症联合免疫缺陷",
+   "en": "severe combined immunodeficiency due to absent lymphoid stem cells(SCID)",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "由于淋巴样干细胞先天性分化异常，婴儿生后缺乏T细胞和B细胞，故使体液免疫和细胞免疫均发生缺陷的疾病。可分为X-性联遗传型、常染色体隐性遗传型和散发型，属于联合免疫缺陷病的重型。临床表现为出生后6个月内"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

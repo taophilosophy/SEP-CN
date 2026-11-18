@@ -1,0 +1,772 @@
+{
+ "key": "human morality",
+ "term": "human morality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:45:42+00:00",
+ "status": "ok",
+ "note": "variant=human morality; 审定公布名词库=1034; 海峡两岸名词对照库=227; 其他来源数据库=94; 预公布名词数据库=222; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "经济学名词",
+   "wordNumber": "05.043",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人们在社会生活实践中形成的关于善恶、是非的观念、情感和行为习惯，并依靠社会舆论和良心指导的人格完善与调节人与人、人与社会、人与自然关系的规范体系。道德是由经济关系最终决定、按照善恶标准来评价并依靠社会"
+  },
+  {
+   "cn": "人力资源品德",
+   "en": "moral character of human resources",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.052",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "一个人用来调节与处理对己对人对事的稳定行为特征与倾向，其外表现为行为态度与行为特征，其内表现为个人信念与行为准则。"
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "心理学名词",
+   "wordNumber": "12.053",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "成员在追求共同组织目标时表现出来的一致性和持续性。"
+  },
+  {
+   "cn": "人力资源品德开发",
+   "en": "moral qualities development of human resources",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.298",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "即开发者对被开发者的内在心理和价值意识等特质，以及外在的行为活动和行为习惯的塑造与挖掘过程。"
+  },
+  {
+   "cn": "学术道德",
+   "en": "academic morality",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.009",
+   "subjectFullName": "自然辩证法_科技伦理_科学伦理",
+   "subjectName": "科学伦理",
+   "publishYear": "2024",
+   "definition": "从事学术活动的主体在进行学术研究、学术评价活动、学术奖励的整个过程及结果中，处理个人与他人、个人与社会等方面关系时所应遵循的道德规范和行为准则的总和。以在学术界约定俗成并得到学者普遍认同和共同遵守的道"
+  },
+  {
+   "cn": "医德",
+   "en": "medical morality",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.085",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "从事医学职业的医务人员在其职业活动中应该具备的道德素养和品质，是协调医务人员与患者、医务人员之间以及与社会之间关系的行为准则。"
+  },
+  {
+   "cn": "语言道德性",
+   "en": "linguistic morality",
+   "source": "行为医学名词",
+   "wordNumber": "9.062",
+   "subjectFullName": "行为医学_医患行为_医患沟通",
+   "subjectName": "医患沟通",
+   "publishYear": "2022",
+   "definition": "医患交流过程中，语言表达要符合社会和伦理学的道德准则与规范要求，遵守严肃、高尚和保密性原则。"
+  },
+  {
+   "cn": "性道德",
+   "en": "sex morality",
+   "source": "行为医学名词",
+   "wordNumber": "12.004",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "人类调整性行为及相关活动的社会规范的总和。"
+  },
+  {
+   "cn": "行政道德",
+   "en": "administrative morality",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0058",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "行政机关及其工作人员在行使公共权力、管理公共事务、提供公共服务的过程中所必须遵循的行为准则与规范。"
+  },
+  {
+   "cn": "他律道德",
+   "en": "heteronomous morality",
+   "source": "心理学名词",
+   "wordNumber": "06.090",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰提出的道德发展的第一阶段(5～10岁)。儿童认为道德规则是权威制定的，是外在的，祖传的，不可改变的。"
+  },
+  {
+   "cn": "自律道德",
+   "en": "autonomous morality",
+   "source": "心理学名词",
+   "wordNumber": "06.091",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰提出的道德发展的第二阶段(10岁以后)。儿童认识到道德规则是灵活的，社会约定的，必要时也可做出修改。"
+  },
+  {
+   "cn": "前习俗道德",
+   "en": "preconventional morality",
+   "source": "心理学名词",
+   "wordNumber": "06.092",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "科尔伯格(L. Kohlberg)提出的道德发展的第一种水平。儿童是基于对权威的服从或行为的奖励或惩罚结果做出道德判断。"
+  },
+  {
+   "cn": "习俗道德",
+   "en": "conventional morality",
+   "source": "心理学名词",
+   "wordNumber": "06.093",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "科尔伯格提出的道德发展第二种水平。儿童道德判断的标准是遵守社会规范以确保和睦的人际关系和社会秩序。"
+  },
+  {
+   "cn": "后习俗道德",
+   "en": "postconventional morality",
+   "source": "心理学名词",
+   "wordNumber": "06.094",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "科尔伯格提出的道德发展的最高水平。个体是依据抽象的道德原则和普世价值观对道德的标准做出界定。"
+  },
+  {
+   "cn": "道德体系",
+   "en": "morality system",
+   "source": "教育学名词",
+   "wordNumber": "01.185",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "一系列具有内在逻辑关系的道德范畴、道德原则、道德规范组成的有机整体。"
+  },
+  {
+   "cn": "公德",
+   "en": "public morality",
+   "source": "教育学名词",
+   "wordNumber": "01.200",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "存在于社会公共生活中人们应予遵循的道德规范和行为准则。"
+  },
+  {
+   "cn": "私德",
+   "en": "private morality",
+   "source": "教育学名词",
+   "wordNumber": "01.201",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "存在于私人生活中人们应予遵循的道德规范和行为准则。"
+  },
+  {
+   "cn": "公民道德",
+   "en": "civic morality",
+   "source": "教育学名词",
+   "wordNumber": "01.202",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "一个社会中全体成员必须共同遵循的道德规范。"
+  },
+  {
+   "cn": "道德行为者",
+   "en": "moral agent",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.227",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "能够在不同主体的相互关系中道德地或体现道德感地行动，能够承担起伦理义务和道德责任，也能够为自己的行为负责的人。"
+  },
+  {
+   "cn": "道德顾客",
+   "en": "moral patient",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.228",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "道德行为者做出道德行为的对象。或许不能如道德行为者那样承担起义务和责任，但是其某些状态可能受到道德行为者的影响而获得价值提升或遭受利益损害。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自律道德",
+   "en": "autonomous morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "习俗道德",
+   "en": "conventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "前习俗道德",
+   "en": "preconventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "他律道德",
+   "en": "heteronomous morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "后习俗道德",
+   "en": "postconventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德推理",
+   "en": "moral reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德解离",
+   "en": "moral disengagement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德两难",
+   "en": "moral dilemma",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德焦虑",
+   "en": "moral anxiety",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德发展",
+   "en": "moral development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织士气",
+   "en": "organizational morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人体解剖学",
+   "en": "human anatomy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人体胚胎学",
+   "en": "human embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人类气候",
+   "en": "human climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人类生物气候学",
+   "en": "human bioclimatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人类生物气象学",
+   "en": "human biometeorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "德性",
+   "en": "Virtuous Nature / Morals as Human Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风教",
+   "en": "Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崇德",
+   "en": "Moral Elevation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人",
+   "en": "Human Being; Humanity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "称情立文",
+   "en": "Establish Moral Standards in Keeping with Human Feelings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源",
+   "en": "Human Resources",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人乳头（状）瘤病毒",
+   "en": "human papillomavirus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人本计算",
+   "en": "human computation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类增强",
+   "en": "human enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "基于社会普遍认同的善恶标准，用来评价人们行为是否符合公序良俗，并指引和调整社会成员之间关系的准则与规范的总和。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "马克思主义",
+   "wordNumber": "01.0154",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种社会意识形态，以善恶为评价标准，依靠社会舆论和主体内在信念的力量来评价和调整人们之间相互关系的行为原则和规范的总和。道德是一个历史范畴，受社会生产方式制约。随生产方式的变化，形成不同的道德要求和道"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们共同生活、工作的行为准则和规范及其在人们内心形成的品德。它通过人们的自律和他律对社会生活起约束作用。"
+  },
+  {
+   "cn": "德性",
+   "en": "moral",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.111",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德品性。个人在长期的道德实践中表现出来的比较稳定的、一贯的行为特征和心理倾向。通过道德认识、道德情感、道德信念、道德意志和道德行为等因素表现出来。"
+  },
+  {
+   "cn": "体育品德",
+   "en": "sports morality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在体育运动中应当遵循的行为规范以及形成的价值追求和精神风貌，对维护社会规范、树立良好的社会风尚具有积极作用。"
+  },
+  {
+   "cn": "私德",
+   "en": "private morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0090000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在私人生活和私人交往中所应当遵循的道德行为准则和规范及所表现的道德品质。"
+  },
+  {
+   "cn": "底线道德",
+   "en": "bottomline morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.06",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人类最基本的道德准则和道德要求，是人类必须遵守的最低道德标准和道德评判的最低要求。"
+  },
+  {
+   "cn": "公德",
+   "en": "public morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.008",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在履行社会整体的义务中应当普遍遵守的道德行为准则和规范。其作用在于维护社会正常秩序。"
+  },
+  {
+   "cn": "节操",
+   "en": "moral integrity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "气节和操守的统称。前者表示一个人的精神力量，后者表示其道德品质。坚守某种被誉为高尚品质的行为表现。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "道德评价",
+   "en": "moral evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准对人们的道德行为和各种道德现象所作的善恶是非判断。包括自我评价和他人评价。其评价依据是动机与效果、目的与手段的辩证统一。"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "社会风气",
+   "en": "social morale",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会整体或局部在一定时空范围内所流行的观念、爱好、习尚和风貌。社会经济、政治、文化和道德等状况的综合反映，也是民族文化传统、生活习惯、行为方式、思维模式、价值观、精神面貌的某种体现。"
+  },
+  {
+   "cn": "道义经济学",
+   "en": "moral economics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.40",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "受生存伦理支配的经济活动。斯科特(James C.Scott）用此概念强调了生存规则的道德涵义。借助对东南亚农民反叛的考察与分析，他指出，农民追求的不是收入的最大化，而是“安全第一”的生存伦理，以及相"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "道德共同体",
+   "en": "moral community",
+   "source": "马克思主义",
+   "wordNumber": "05.0065",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "晚年萨特在变革世界的方式上开始从暴力转向道德，希望用道德共同体来为个体自由和希望奠定基础。他把追寻道德的努力和消除匮乏的努力视作两种主要的合乎人性的态度，并指出道德的可能性基础在于兄弟关系的普遍性，即"
+  },
+  {
+   "cn": "道德风险",
+   "en": "moral hazard",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "健康保险的第三方付费，引起参保者或医疗机构健康态度和行为上的改变，导致健康服务需求额外增加的行为"
+  },
+  {
+   "cn": "道德发展",
+   "en": "moral development",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.22",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "个体心理发展的一个方面。个体认识社会伦理道德规则和准则，形成道德认知、道德情感和道德行为的过程。既受到个体周围社会文化环境的影响，也受到个体成熟、认知及情绪发展，特别是其从事的交往活动和道德教育的制约"
+  },
+  {
+   "cn": "道德多元化",
+   "en": "moral pluralism",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.033",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "人类社会交往中呈现出的道德理论、道德原则、道德规范、道德选择的多样性。"
+  },
+  {
+   "cn": "道德境界",
+   "en": "moral state",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.042",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在道德修养过程中形成的道德觉悟和情操所达到的水平。由于人们所处地位和个人道德修养不同，道德境界有高低之别。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

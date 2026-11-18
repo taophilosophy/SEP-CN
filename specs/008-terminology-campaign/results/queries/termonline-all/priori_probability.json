@@ -1,0 +1,722 @@
+{
+ "key": "priori probability",
+ "term": "priori probability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:40:41+00:00",
+ "status": "ok",
+ "note": "variant=priori probability; 审定公布名词库=408; 海峡两岸名词对照库=188; 其他来源数据库=15; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "先验概率",
+   "en": "priori probability",
+   "source": "植物学名词",
+   "wordNumber": "02.0259",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "根据以往经验和分析得到的概率。"
+  },
+  {
+   "cn": "等概率假设",
+   "en": "postulate of equal a priori probabilities",
+   "source": "物理学名词",
+   "wordNumber": "05.0523",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "等概率原理",
+   "en": "principle of equal a priori probabilities",
+   "source": "化学名词",
+   "wordNumber": "04.1447",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "孤立体系的所有可到达的微观状态出现的概率相等。是统计力学的基本假设。"
+  },
+  {
+   "cn": "先验界限",
+   "en": "a priori bound",
+   "source": "数学名词",
+   "wordNumber": "06.0329",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "先验估计",
+   "en": "a priori estimate",
+   "source": "数学名词",
+   "wordNumber": "06.0330",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "先验估计",
+   "en": "a priori estimate",
+   "source": "自动化名词",
+   "wordNumber": "03.267",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "冶金学名词",
+   "wordNumber": "04.0675",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "表示随机事件发生可能性大小的量，是在0到1之间的实数。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "表征随机事件发生可能性大小的一个度量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "物理学名词",
+   "wordNumber": "05.0522",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "化学名词",
+   "wordNumber": "03.0127",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "表示1个随机事件发生可能性大小的数。该数在0与1之间取值。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大气科学名词",
+   "wordNumber": "07.243",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "表征随机事件发生可能性大小的量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "电气工程名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "数学名词",
+   "wordNumber": "09.0029",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概率流",
+   "en": "probability current,probability flux",
+   "source": "物理学名词",
+   "wordNumber": "06.0534",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "动物学名词",
+   "wordNumber": "2.0203",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "根据以往经验和分析得到的概率。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0188",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在试验进行以前，根据已经知道的，试验结果的各种“原因”所发生的概率。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "语言学名词",
+   "wordNumber": "11.156",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "根据训练集样本直接得出的概率。是后验概率的基础。"
+  },
+  {
+   "cn": "前概率",
+   "en": "prior probability",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.448",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "数学名词",
+   "wordNumber": "09.0047",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概率评估",
+   "en": "probability estimation",
+   "source": "农学名词",
+   "wordNumber": "18.163",
+   "subjectFullName": "农产品质量安全_农产品质量安全管理",
+   "subjectName": "农产品质量安全管理",
+   "publishYear": "2025",
+   "definition": "通过概率分布来表征不同人群经口、皮和呼吸暴露化学物后产生对健康不利效应的可能性及严重程度，同时描述上述结果的变异性和不确定性的过程。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "priori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "事前比较",
+   "en": "priori comparison",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率,前概率",
+   "en": "prior probability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "后验概率",
+   "en": "posteriori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率分布",
+   "en": "probability distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率函数",
+   "en": "probability function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率论",
+   "en": "probability theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率模式",
+   "en": "probability model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率评分",
+   "en": "probability score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率预报",
+   "en": "probability forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洪水概率",
+   "en": "flood probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后验概率",
+   "en": "posterior probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候概率",
+   "en": "climatic probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "条件概率",
+   "en": "conditional probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算可移植性",
+   "en": "computational portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云应用可移植性",
+   "en": "cloud application portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云数据可移植性",
+   "en": "cloud data portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准可移植性",
+   "en": "portability of standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据可携权",
+   "en": "right to data portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "优先裁判权",
+   "en": "priority\",\"right of way",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序指示器",
+   "en": "priority order indicator\",\"rotation indicator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先通行、免费通行",
+   "en": "priority and toll-free access",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "爱人为大",
+   "en": "Caring for Others is the Top Priority.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《BS ISO/IEC 19941-2017 信息技术 云计算 互操作性和可移植性》",
+   "en": "BS ISO/IEC 19941:2017 Information technology — Cloud computing — Interoperability and portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "保证总体中的所有单位有相同被选取的概率或机会的抽样方式。"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "活到某一确切年龄x岁的一批人在满x+n岁之前可能死亡的比例。即在确切年龄x岁与x+n岁之间死亡人数(ndx）与活到确切年龄x岁的尚存人数(lx）之比，一般记作nqx。"
+  },
+  {
+   "cn": "暴露概率",
+   "en": "exposure probability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.71",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "受个体行为、环境条件和病原体传播途径等因素影响，个体或群体接触到某种病原体的可能性。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "遵循随机原则，按照某种特定的概率抽取样本的方法。获得的样本信息可以通过统计学方法推论总体。"
+  },
+  {
+   "cn": "感染概率",
+   "en": "probability of infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.72",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定条件下，受个体易感性、病原体传播途径和环境因素等多种因素影响，个体或群体感染某种病原体的可能性。"
+  },
+  {
+   "cn": "非概率抽样",
+   "en": "non-probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "不遵循随机原则抽取样本的方法。样本的选择往往受到研究者的主观判断、方便性或其他非随机因素的影响。获得的样本信息一般不能通过统计学方法推论总体。"
+  },
+  {
+   "cn": "标称危险[概率]系数",
+   "en": "nominal risk [probability] coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "对代表性人群（上海、大阪、广岛、长崎、瑞典、英国和美国）性别平均和受照年龄平均的终生危险估计，单位是10-2Sv-1。其含义是某人群受1Sv剂量照射以后该人群相对于未受照射人群癌症终生危险增加的百分数"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "患病概率",
+   "en": "probability of disease occurrence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.73",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定时间内，一个人或者一个群体发生某种疾病的可能性。在微生物学中，多用于某种疾病微生物致使生物体发生某种疾病的可能性。"
+  },
+  {
+   "cn": "最大可能数",
+   "en": "most probable number, MPN",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.111",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "结合微生物学与统计学的检测数值表示法，由统计模型，推算实际菌数最可能落在信赖区间的位置，即该样品最可能有多少细菌的估测值。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  },
+  {
+   "cn": "布里布里人",
+   "en": "Bribri",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0343",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "中美洲哥斯达黎加境内的土著人，分布在哥斯达黎加南部地区，居民约为12200 人（2000年），信奉天主教，把西班牙语作为第一语言或主要语言，布里布里人已经放弃传统的生活方式，完全融入哥斯达黎加社会。"
+  },
+  {
+   "cn": "朊病毒",
+   "en": "prion",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.122",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "主要由不含核酸的、高度抵抗理化灭活的传染性蛋白质PrPSc 组成。可引起人或动物致死性神经系统退行性病变。"
+  },
+  {
+   "cn": "前次剖宫产",
+   "en": "prior cesarean delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.7.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在本次妊娠前有子宫切开的分娩经历。"
+  },
+  {
+   "cn": "健康优先",
+   "en": "health priority",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.9",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "把健康摆在优先发展的战略地位，将促进健康的理念融入公共政策制定的全领域和实施的全过程。"
+  },
+  {
+   "cn": "普米语",
+   "en": "Primi language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0244",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国普米族使用的语言。属汉藏语系藏缅语族羌语支。分布在云南宁蒗、丽江、兰坪、维西以及四川木里、九龙等县，使用人口约4 万。分南北两个方言。"
+  },
+  {
+   "cn": "健康促进优先项目",
+   "en": "health promotion priority",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校基于对本校学生、教职员工的主要身心健康问题的了解，根据其严重程度、可干预性、可行性等方面的特点，针对优先健康问题开展的干预活动。"
+  },
+  {
+   "cn": "重点服务人群",
+   "en": "priority target population",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.2.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "在卫生服务中需要优先关注的群体，通常包括0～6岁儿童、孕产妇、老年人、慢性病患者、严重精神障碍患者和肺结核患者等。"
+  },
+  {
+   "cn": "优先风险评估",
+   "en": "priority risk assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据风险的严重程度、发生概率以及可能产生的影响等因素，综合确定风险优先处理排序或级别的系统化评估策略。"
+  },
+  {
+   "cn": "健康保险可携带性",
+   "en": "portability of health insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "参保人可以随工作地或居住地转换而保留健康保险关系及其所积累的健康保险受益值的制度安排，携带方式包括异地就医和保险关系转移接续。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

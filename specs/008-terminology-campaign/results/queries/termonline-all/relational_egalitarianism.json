@@ -1,0 +1,692 @@
+{
+ "key": "relational egalitarianism",
+ "term": "relational egalitarianism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:41:06+00:00",
+ "status": "ok",
+ "note": "variant=relational egalitarianism; 审定公布名词库=852; 海峡两岸名词对照库=181; 其他来源数据库=46; 预公布名词数据库=76; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "要闻集录",
+   "en": "Relation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "世界报业学会认定的第一份现代报纸。1605年，由德国出版商约翰·卡罗勒斯(Johann Carolus)在斯特拉斯堡出版。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "具有相同属性集的元组的集合。一个关系对应一个二维表。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "数学名词",
+   "wordNumber": "01.0036",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同义关系",
+   "en": "synonymous relation,equivalent relation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.288",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "在特定领域内，具有相同的内涵和外延的两个概念之间的关系。包括同义词之间、学名与俗称之间、旧称与新称之间、简称与全称之间、同一产品的正式命名与绰号和型号之间、不同译名之间、不同拼写形式之间、倒置词序与自"
+  },
+  {
+   "cn": "河相关系",
+   "en": "hydrogeometric relation,hydromorphology relation",
+   "source": "水利科学技术名词",
+   "wordNumber": "03.223",
+   "subjectFullName": "水利科学技术_水力学、河流动力学、海岸动力学_河流动力学（水利）",
+   "subjectName": "河流动力学（水利）",
+   "publishYear": "1997",
+   "definition": "处于动力平衡状态的河流河床形态特征与流域来水来沙条件和河床组成之间的定量关系。"
+  },
+  {
+   "cn": "关系实在论",
+   "en": "relational realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.008",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由相对论、量子物理所启发的实在论立场，认为具有实在性的不是个体对象，而是对象之间的关系。"
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.085",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "创建在关系模型基础上的数据库。借助于集合代数等数学概念和方法来处理数据库中的数据，同时也是一组拥有正式描述性的表格，该表格是表征数据项特殊关系和性质的集合。"
+  },
+  {
+   "cn": "关系交往",
+   "en": "relational communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.045",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "由两个沟通者同时发送和接收讯息而产生相互联系的交际活动。通过使用言语和非言语同时进行编码与解码，界定人际关系性质的讯息生产、交换与意义形成与协商的互动过程。也被视作“人际沟通”的同义词。"
+  },
+  {
+   "cn": "关系越界",
+   "en": "relational transgression",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.05",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "人际关系交往中的任何一方以外显或内隐的行为方式违反关系规范与规则的交往形态。"
+  },
+  {
+   "cn": "关系能力",
+   "en": "relational competence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.166",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "能觉察沟通者之间的相互联系和沟通关系发生微妙变化的社交感受力与把控力。"
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.036",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "一种数据库类型，是建立在关系模型基础上的数据库。通过集合代数等数学概念和方法来处理数据库中的数据，关系模型由关系数据结构、关系操作集合、关系完整性约束三部分组成。具有逻辑结构简明、操作方便和数据处理灵"
+  },
+  {
+   "cn": "关系型自虐",
+   "en": "relational masochism",
+   "source": "行为医学名词",
+   "wordNumber": "13.019",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自伤行为",
+   "subjectName": "自伤行为",
+   "publishYear": "2022",
+   "definition": "有强烈的情感依附倾向，通过体验痛苦来维持或连接某段关系的心理倾向。如通过不知疲倦地工作来引起别人关爱、关注自己。"
+  },
+  {
+   "cn": "关系描绘子",
+   "en": "relational descriptors",
+   "source": "光学名词",
+   "wordNumber": "17.035",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "描述图像区域或边界的子结构间相互关联的参数。"
+  },
+  {
+   "cn": "关系数据",
+   "en": "relational data",
+   "source": "测绘学名词",
+   "wordNumber": "05.054",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "描述地理实体之间在空间和属性上相互关联、邻接、包含等特征的数据。"
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "电力名词",
+   "wordNumber": "12.168",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "基于关系模式,将信息存储在表格中(按行和列存储数据),利用一张表格中的某些列的数据查找其他表格中数据的数据库或数据库管理系统。"
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0077",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "采用关系数据模型的数据库。"
+  },
+  {
+   "cn": "关系模式",
+   "en": "relational schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0025",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "对关系的逻辑结构和特征的描述。"
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0017",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "以关系作为运算对象的代数系统。在数据库中用代数运算来定义关系查询的一种形式化语言。"
+  },
+  {
+   "cn": "关系演算",
+   "en": "relational calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0018",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "以一阶谓词演算为基础定义的一种抽象的关系查询语言。"
+  },
+  {
+   "cn": "关系模型",
+   "en": "relational model",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0172",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "用二维表的形式表示实体和实体间关系的数据模型。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系操作符，关系算子",
+   "en": "relational operator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系连接",
+   "en": "relational join",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "相关螺旋",
+   "en": "relational coiling",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系逻辑",
+   "en": "relational logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系演算",
+   "en": "relational calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"guanxi",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "七情",
+   "en": "seven relations",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系亲缘",
+   "en": "floral relation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "查诺克关系式",
+   "en": "Charnock relation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候关系",
+   "en": "phenological relation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "热力学关系",
+   "en": "thermodynamic relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "麦克斯韦关系",
+   "en": "Maxwell relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "位相关系",
+   "en": "phase relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系式",
+   "en": "recursive relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络公关",
+   "en": "online public relations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法条关联",
+   "en": "Related Legal Provisions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交锋后的判罚",
+   "en": "penalty related to fencing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "关系合同理论",
+   "en": "relational contract theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.60",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从交易的社会关系嵌入性出发而提出的合同理论。该理论认为交易各方在长期合作中可以不追求对契约的所有细节达成一致，而仅订立一个具有灵活性和适应性的契约。与正式契约依赖法律执行不同，关系契约的执行依赖于契约"
+  },
+  {
+   "cn": "生产关系",
+   "en": "relations of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0004",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在物质资料生产和再生产过程中形成的社会经济关系。包括：作为其基础的生产资料所有制形式，生产资料和劳动力的结合方式，直接生产过程中的关系（狭义生产关系），产品分配关系，交换关系等。"
+  },
+  {
+   "cn": "社会主义民族关系",
+   "en": "socialist ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0398",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义制度下建立起来的新型民族关系。其基本特征是：各民族地位平等、团结、互助、和谐。毛泽东在《论十大关系》《关于正确处理人民内部矛盾的问题》中多次强调克服大汉族主义、地方民族主义。"
+  },
+  {
+   "cn": "新型民族关系",
+   "en": "new ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0607",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "平等、团结、互助、和谐是中国社会主义民族关系的基本特征。民族平等、民族团结、各民族共同繁荣是中国处理民族关系的基本原则。民族平等是民族团结的政治基础，民族平等和民族团结是各民族共同繁荣的前提条件，共同"
+  },
+  {
+   "cn": "代际关系",
+   "en": "relation between generations",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "不同代际人群通过资源的分配与共享、感情的交流与沟通以及道德义务的意识与承担等发生这样或那样的交往关系。广义指社会上因地缘、业缘和其他关系产生的不同代际之间的交往关系。狭义的指家庭内因血缘和姻缘产生的交"
+  },
+  {
+   "cn": "医学道德关系",
+   "en": "medical moral relation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.225",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "人们在医学活动中所结成的人与人、人与环境、人与社会等不同要素之间的关系。主要包括医患道德关系、医际道德关系和医社道德关系等。"
+  },
+  {
+   "cn": "消毒相关用品",
+   "en": "disinfection related supplies",
+   "source": "消毒学",
+   "wordNumber": "3.2",
+   "subjectFullName": "消毒学_消毒用品",
+   "subjectName": "消毒用品",
+   "publishYear": "2025",
+   "definition": "在实施消毒的过程中，对消毒起促进作用或用于消毒作业人员防护等的装备。"
+  },
+  {
+   "cn": "任务相关监测",
+   "en": "task-related monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为特定操作提供有关操作和管理方面的即时决策而进行的监测。"
+  },
+  {
+   "cn": "工伤",
+   "en": "work-related injury",
+   "source": "社会学名词",
+   "wordNumber": "3.18.6.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_工伤保险",
+   "subjectName": "工伤保险",
+   "publishYear": "2025",
+   "definition": "劳动者在从事生产劳动或职业活动或者与职业活动有关活动时受到的伤害，既包括意外事故导致的伤害，也包括职业病。为“职业性伤害”的简称。"
+  },
+  {
+   "cn": "健康相关行为",
+   "en": "health-related behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "一切与个体、群体的健康和疾病有关的行为，一般分为健康促进行为和健康危险行为。"
+  },
+  {
+   "cn": "妊娠相关死亡",
+   "en": "pregnancy-related mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "妇女在妊娠至终止妊娠后 42 天内或1年内的死亡，无论死因如何（产科和非产科），包括因意外和偶然原因导致的死亡。"
+  },
+  {
+   "cn": "亲属活体供者",
+   "en": "living related donor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.027000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "与器官受体存在亲属关系的器官供体。包括器官受体的配偶、直系血亲或者三代以内的旁系血亲。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

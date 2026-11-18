@@ -1,0 +1,682 @@
+{
+ "key": "domain restriction",
+ "term": "domain restriction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:48:50+00:00",
+ "status": "ok",
+ "note": "variant=domain restriction; 审定公布名词库=1493; 海峡两岸名词对照库=442; 其他来源数据库=69; 预公布名词数据库=156; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "数学名词",
+   "wordNumber": "01.0061",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0162",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "蛋白质或核酸分子中含有的、与特定功能相关的一些连续的或不连续的氨基酸或核苷酸残基形成的区域。分子结构未知时，根据功能而限定的蛋白质分子的一定区域。如催化区和跨膜区。在细胞膜内由脂质构成的特殊功能脂微区"
+  },
+  {
+   "cn": "结构域",
+   "en": "domain",
+   "source": "畜牧学名词",
+   "wordNumber": "07.438",
+   "subjectFullName": "畜牧学_饲料与营养_营养生理与生化_营养生化",
+   "subjectName": "营养生化",
+   "publishYear": "2020",
+   "definition": "生物大分子中具有特异结构和独立功能的区域。"
+  },
+  {
+   "cn": "畴",
+   "en": "domain",
+   "source": "物理学名词",
+   "wordNumber": "08.1980",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "[结构]域",
+   "en": "domain",
+   "source": "生物物理学名词",
+   "wordNumber": "02.034",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质结构",
+   "subjectName": "蛋白质结构",
+   "publishYear": "2018",
+   "definition": "蛋白质多肽链内一段类似球形的结构和功能都具有相对独立性的折叠区。介于二级结构与三级结构之间的一个层次，是蛋白质三级结构的基本单位。"
+  },
+  {
+   "cn": "论域",
+   "en": "domain",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0890",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "一个完全偏序集。它是代数的，并且它的紧致元素集是可数的。在指称语义中，程序的语义用论域中的元素表示。"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0873",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "计算机网络的一部分，其资源和编址被一个特定的管理机构控制，划分方案可以基于地理位置或组织机构。"
+  },
+  {
+   "cn": "场域",
+   "en": "domain",
+   "source": "语言学名词",
+   "wordNumber": "12.099",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "受共同行为规则制约并由一组符合惯例的言语情景构成的活动领域。例如，中国居住在民族自治区域的少数民族在家庭领域内惯用少数民族语言，而在公共服务领域内则用汉语。"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "02.016",
+   "subjectFullName": "细胞生物学_细胞化学",
+   "subjectName": "细胞化学",
+   "publishYear": "2009",
+   "definition": "多肽链内一段类似球形的结构和功能都具有相对独立性的折叠区。"
+  },
+  {
+   "cn": "[结构]域",
+   "en": "domain",
+   "source": "免疫学名词",
+   "wordNumber": "1.085",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "多肽链内一段类似球形的折叠区。多数结构域具有一定的一级结构和相应功能。"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "通信科学技术名词",
+   "wordNumber": "02.096",
+   "subjectFullName": "通信科学技术_通信网络",
+   "subjectName": "通信网络",
+   "publishYear": "2007",
+   "definition": "在因特网上，每一网络所涉及的范围。它是域名系统命名层次结构的一部分。例如：“.com(商业机构)”、“.edu(教育机构)”、“.gov(政府部门)”。最高层次的域通常为国名。例如“.cn(中国)”。"
+  },
+  {
+   "cn": "磁畴",
+   "en": "domain",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "10.071",
+   "subjectFullName": "机械工程_仪器仪表_仪器仪表材料_磁性材料(仪器仪表)",
+   "subjectName": "磁性材料(仪器仪表)",
+   "publishYear": "2003",
+   "definition": "磁性材料内自发磁化区域，在该区域内自发磁化强度在大小与方向上基本是均匀的。"
+  },
+  {
+   "cn": "定义域",
+   "en": "domain",
+   "source": "数学名词",
+   "wordNumber": "01.0101",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "晶畴",
+   "en": "domain",
+   "source": "地质学名词",
+   "wordNumber": "04.172",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切酶",
+   "en": "restriction enzyme,restriction endonuclease",
+   "source": "核医学名词",
+   "wordNumber": "06.0123",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "能够识别DNA上特定碱基序列，并在这个位点将DNA剪切的酶。"
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease,restriction nuclease",
+   "source": "遗传学名词",
+   "wordNumber": "03.725",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "特异性识别短的DNA序列并且切割靶位点或别处的DNA双链酶。主要分I型、II型、III型等三类：I型限制酶结合在特定的识别序列上，但在近乎随机的位置上切割DNA；II型限制酶的结合和切割都在同一识别序"
+  },
+  {
+   "cn": "HECT结构域",
+   "en": "HECT domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0266",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "最初得名自“与E6-AP蛋白C端同源（homologous to the E6-AP C-terminus，HECT）”。是E3泛素连接酶中常见的蛋白质结合结构域。可与相对应的E2泛素结合酶结合，并可"
+  },
+  {
+   "cn": "限制",
+   "en": "restraint;restriction",
+   "source": "地质学名词",
+   "wordNumber": "10.03.040",
+   "subjectFullName": "地质学_大地构造学_其他大地构造学说",
+   "subjectName": "其他大地构造学说",
+   "publishYear": "2026",
+   "definition": "两个不同时期的构造成分，彼此走向显著不同，较晚构造终止于较早构造的复合现象。"
+  },
+  {
+   "cn": "限制弧",
+   "en": "restriction arc",
+   "source": "地质学名词",
+   "wordNumber": "10.03.042",
+   "subjectFullName": "地质学_大地构造学_其他大地构造学说",
+   "subjectName": "其他大地构造学说",
+   "publishYear": "2026",
+   "definition": "由于边界条件限制，致使在边界附近产生的弧形构造。"
+  },
+  {
+   "cn": "限盐",
+   "en": "salt restriction",
+   "source": "肝病学名词",
+   "wordNumber": "8.4.4.1",
+   "subjectFullName": "肝病学_肝硬化及其并发症_肝硬化腹水",
+   "subjectName": "肝硬化腹水",
+   "publishYear": "2024",
+   "definition": "饮食中钠摄入80～120mmol/d（4～6g/d）的控制措施。可减少腹水潴留，但长期严格限钠会导致患者食欲减退及低钠血症，加重营养不良。而且，血浆低钠时肾素-血管紧张素-醛固酮系统活性增强，尿钠排泄"
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相克",
+   "en": "restriction",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "内部级",
+   "en": "restricted",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "领域",
+   "en": "domain",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[结构]域",
+   "en": "domain",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切核酸酶,限制酶",
+   "en": "restriction endonuclease\",\"restriction enzyme",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "限制性酶(=限制性内切核酸酶)",
+   "en": "restriction enzyme(=restriction endonuclease)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "约束",
+   "en": "restriction\",\"constraint",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "限制性[酶切]片段",
+   "en": "restriction fragment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制[性酶切]位点",
+   "en": "restriction site",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间障碍",
+   "en": "steric restriction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "限制酶",
+   "en": "restriction enzyme",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "旅行限制",
+   "en": "travel restrictions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限定空间",
+   "en": "restricted space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "领域工程师",
+   "en": "domain engineer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户域",
+   "en": "user domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知控制域",
+   "en": "perceptual control domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目标对象域",
+   "en": "target object domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源交换域",
+   "en": "resource exchange domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权力制约",
+   "en": "power restriction",
+   "source": "马克思主义",
+   "wordNumber": "03.0772",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了防治权力的滥用和腐败，而对权力进行制衡与约束。它既包括公民权利对国家权力的制约，也包括国家权力之间的分权制约，如西方的三权分立。中国共产党借鉴但不照搬西方国家在权力制约的经验，正在探索建立、健全决"
+  },
+  {
+   "cn": "职业限制",
+   "en": "occupational restriction",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "保险公司为了控制风险，对一些高风险职业进行限制或者不承保的现象。"
+  },
+  {
+   "cn": "广告限制",
+   "en": "advertising restriction ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.2.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策",
+   "subjectName": "健康危害行为公共政策",
+   "publishYear": "2025",
+   "definition": "对危害健康产品的广告加以限制，例如禁止香烟广告。"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在限定条件下可作为消毒剂原料的物质，在一定限定值以下使用。"
+  },
+  {
+   "cn": "受约束的比转换能",
+   "en": "restricted cema",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位质量物质中，电子产生电离、激发过程中，扣除释出的动能大于特定值的δ粒子动能后，其他能量损失的总和。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "限制口粮",
+   "en": "restricted rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "要求携带最少装备、短期（少于10 天）内完成特殊任务时食用的单兵口粮，由于携带物品体积和重量的限制，其体积和重量均小于作战口粮。"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数>2.0（胎龄≤37周）或>2.2（胎龄>37周），身长/头围>1.36的小于胎龄儿。多始于胎儿早期，常与遗传因素和宫内感染等有关，胎儿体重、身长和头围受到同等程度的影响。往往脑发育受限。"
+  },
+  {
+   "cn": "非匀称型小于胎龄儿",
+   "en": "asymmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数<2.0（胎龄≤37周）或<2.2（胎龄>37周），身长/头围<1.36的小于胎龄儿。多发生于胎儿晚期，常与母亲营养不良或高血压等有关，出生体重明显低于正常，身长和头围尚与胎龄一致。"
+  },
+  {
+   "cn": "青春期节食",
+   "en": "adolescent restrictive eating",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.2.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "儿童青少年尤其是青春期女孩为了获得或保持苗条身材、惧怕体重增加而采取控制食物量或限制食物品种的饮食行为。"
+  },
+  {
+   "cn": "信息域",
+   "en": "domain of information",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.189",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由D. 夏佩尔（D. Shapere）提出。指科学中一系列信息逐渐集合成的领域，具有如下特征：①集合依赖各信息间的内在联系；②信息域蕴含着人们关心的问题；③这些问题是重要的；④科学技术有解决该问题的能"
+  },
+  {
+   "cn": "胎儿生长受限",
+   "en": "fetal growth restriction, FGR",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "胎儿在宫内生长发育指标未达到预期值的状态。一般表现为胎儿的估测体重或腹围小于相应胎龄的第10百分位数。"
+  },
+  {
+   "cn": "限制性会阴切开",
+   "en": "restrictive use of episiotomy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.15",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "分娩过程对产妇不进行常规会阴切开，当出现会阴过紧或胎儿过大、估计分娩时会阴撕裂难以避免，或母儿有病理情况急需结束分娩等情况时才考虑实施会阴切开的策略。"
+  },
+  {
+   "cn": "禁用物质",
+   "en": "prohibited and restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "不能作为消毒剂原料使用的物质。"
+  },
+  {
+   "cn": "利用限制改造资本主义工商业",
+   "en": "utilizing restricting and transforming capitalist industry and commerce",
+   "source": "马克思主义",
+   "wordNumber": "02.0356",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国资本主义工商业社会主义改造的基本政策。即：通过国家行政机关的管理、国营经济的领导和工人群众的监督，利用资本主义工商业的有利于国计民生的积极作用，限制它们的不利于国计民生的消极作用，鼓励和指导它们转"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

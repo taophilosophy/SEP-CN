@@ -1,0 +1,702 @@
+{
+ "key": "internal coherence",
+ "term": "internal coherence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:46:04+00:00",
+ "status": "ok",
+ "note": "variant=internal coherence; 审定公布名词库=3432; 海峡两岸名词对照库=1320; 其他来源数据库=364; 预公布名词数据库=232; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2648",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "两个波场同相的程度。波场与自身、波场与其他波场之间对于某种内秉物理量的关联性质。数学上表示为两个归一化的互功率谱，是时间域的相关性在频率域的对应。 "
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "光学名词",
+   "wordNumber": "01.524",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "频率相同、偏振态相同、相位差恒定的两列光波相遇时在时域或者空间会产生局部光强增大或减小的现象。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1258",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "生物物理学名词",
+   "wordNumber": "02.337",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "对电子波干涉现象显著程度的描述。理想的相干性电子波应具有单一的波长，或者说所有电子具有相同的能量；此外，不同空间位置发射的电子除了具有相同的能量外还需要有同步变化的相位，即具有稳定的相位差。良好的相干"
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0600",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "对连续的函数进行离散采样时，其相邻位置的采样值具有某种相似性。"
+  },
+  {
+   "cn": "连贯",
+   "en": "coherence",
+   "source": "语言学名词",
+   "wordNumber": "04.265",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "话语分析术语。指一篇口头或书面话语（语篇）前后内容、文气的一致性或功能联系。它是话语组织的一个假设原则，即我们首先假设话语组织是连贯的，在此基础上来研究话语中体现一致性的各种手段。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "大气科学名词",
+   "wordNumber": "02.225",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "使两个或多个波动具有能够产生干涉效应的相位关联的属性。包括时间相干性和空间相干性，前者指空间同一点在不同时刻的波之间存在稳定的相位关联，后者指同一时刻空间不同点的波之间存在着稳定的相位关联。"
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.354",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在电磁辐射中，使所有波前同相的条件。相干将能量高度集中，使红外、可见光和紫外有可能长距离传输，原因是这些射线几乎完全平行。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.145",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_显微镜_显微镜一般名词",
+   "subjectName": "显微镜一般名词",
+   "publishYear": "2003",
+   "definition": "光波能相互干涉的性质。相干光相干系数值接近1,非相干光相干系数值为零,部分相干光相干系数处于大于零和小于1之间。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "石油名词",
+   "wordNumber": "03.0354",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherency",
+   "source": "光学名词",
+   "wordNumber": "01.525",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "①描述两束光波产生干涉能力的一个物理量。②描述一个波列在同一时间不同位置或者在同一位置不同时间的振动间有恒定相位关系的特性。它分为空间相干性、时间相干性和部分相干性三种。"
+  },
+  {
+   "cn": "相干",
+   "en": "coherent",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.557",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "横向相干性",
+   "en": "lateral coherence,transverse coherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1271",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相干加强",
+   "en": "coherence emphasis; coherence enhancement",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0461",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "叠加后根据相似性突出有效波、削弱干扰波的一种处理程序。通常是根据相邻记录道之间波形的相似性，用相关函数来衡量两个以上记录道时间序列的相似程度，并按相似程度的大小对记录进行加权，使相似性高的波得到加强，"
+  },
+  {
+   "cn": "相干滤波",
+   "en": "coherence filtering",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2586",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "基于地震相干处理技术，滤除两个信号中的相干噪声以增强相干信号、压制相干噪声和随机噪声的滤波方法。 "
+  },
+  {
+   "cn": "相干函数",
+   "en": "coherence function",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2649",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "描述相干性的函数。 "
+  },
+  {
+   "cn": "相干叠加",
+   "en": "coherence stack",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0460",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "如果两波频率相等，在观察时间内波动不中断，而且在相遇处振动方向几乎沿着同一直线，它们叠加后产生的合振动加强，两波相干，这样的叠加称为相干叠加。 "
+  },
+  {
+   "cn": "相干长度",
+   "en": "coherence length",
+   "source": "光学名词",
+   "wordNumber": "01.531",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述光源出射光的波列在介质中的持续长度的一个物理量。定义为各个相干波列在介质中的平均传播距离。数值上等于光源的相干时间与该光波在介质中传播速度的乘积。"
+  },
+  {
+   "cn": "空间相干性",
+   "en": "spatial coherence",
+   "source": "光学名词",
+   "wordNumber": "01.533",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述部分相干光在空间某些点光扰动的相位变化量之间关联程度的一个参量。以这些光扰动传播到其后面空间的叠加光场产生的干涉条纹对比度来表示。它与时间相干性同时存在，是表征部分相干光场特性的重要参量。"
+  },
+  {
+   "cn": "时间相干性",
+   "en": "temporal coherence",
+   "source": "光学名词",
+   "wordNumber": "01.534",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述部分相干光传播到空间某点不同时刻相位变化量的关联程度的一个物理量。对于点光源(如激光器)，它以相干时间或光波频率宽度Δν的倒数来表示，决定了其纵模的质量。对于准单色扩展光源，它同时具有时间相干性和"
+  },
+  {
+   "cn": "同调",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚",
+   "en": "coherence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "部分同调",
+   "en": "partial coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间相干",
+   "en": "spatial coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间相干",
+   "en": "temporal coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干谱",
+   "en": "coherence spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干元素",
+   "en": "coherence element",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相位同调",
+   "en": "phase coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相关效应",
+   "en": "coherence effect",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "高速缓存一致性",
+   "en": "cache coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间相干",
+   "en": "spatial coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "频率相干",
+   "en": "frequency coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干带宽",
+   "en": "coherence bandwidth",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干时间",
+   "en": "coherence time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干调制",
+   "en": "coherence modulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干长度",
+   "en": "coherence length",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相关检查",
+   "en": "coherence check",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子相干性",
+   "en": "quantum coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缓存一致性",
+   "en": "cache coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内部创业",
+   "en": "internal entrepreneurship",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准",
+   "en": "International Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际仲裁委员会",
+   "en": "international jury",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际级",
+   "en": "international class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际出口带宽",
+   "en": "international Internet bandwidth",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际劳工组织",
+   "en": "International Labour Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "个体经过一定形式的学习，将某些社会意识、道德规范等观念体系转化为个体心理结构的过程。是个体对外界文化的一种适应过程。法国社会学家涂尔干(Emile Durkheim)最早提出，指社会意识向个体意识的转"
+  },
+  {
+   "cn": "内照射",
+   "en": "internal exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "放射性核素进入机体内，对机体组织产生的照射。"
+  },
+  {
+   "cn": "内在效度",
+   "en": "internal validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "研究者从某一经验研究的结果中进行因果推论的信心。"
+  },
+  {
+   "cn": "内在本质",
+   "en": "internal essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0063",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在表现”相对。事物因内部矛盾的决定作用在发生、发展、变化过程中所表现的内部联系性和客观形式。"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0075",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在联系”相对。是事物之间存在固有的、本质的、必然性的关联，对事物性质具有决定作用。"
+  },
+  {
+   "cn": "内在对立",
+   "en": "internal opposition",
+   "source": "马克思主义",
+   "wordNumber": "01.0085",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "处于同一体中的矛盾双方相互排斥、相互反对、相互否定的属性。它体现着矛盾双方相互分离的趋势。"
+  },
+  {
+   "cn": "关节内紊乱",
+   "en": "internal derangement",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.11",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "关节局部疼痛、弹响、功能失调的病理现象。"
+  },
+  {
+   "cn": "内部审计",
+   "en": "internal audit",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "与“外部审计”相对，由医疗机构单位内部的独立机构和人员对本单位的财政财务收支等经济活动进行的事前和事后的审查和评价。"
+  },
+  {
+   "cn": "内部评价",
+   "en": "internal evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由系统或组织内部实施的评估活动，以获得可信和实用的证据，为计划改进、政策实施和决策提供支撑，并影响组织的学习和决策行为。"
+  },
+  {
+   "cn": "内部一致性信度",
+   "en": "internal consistency",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "量表中测量同一个概念的多个计量指标的一致性程度，目前普遍使用克朗巴赫a 系数(Cronbach’s a coefficient)来检验量表的一致性程度。"
+  },
+  {
+   "cn": "内剂量",
+   "en": "internal dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "生物体可利用的剂量，也可看做是被机体吸收进入血液循环所对应的那部分外剂量"
+  },
+  {
+   "cn": "内部审计",
+   "en": "internal audit",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.3.4",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "健康教育活动过程中，由参与该活动人员对是否按项目要求投入资金、分配是否符合需要进行判断的活动。"
+  },
+  {
+   "cn": "内照射",
+   "en": "internal exposure",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.33",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "进入人体内的放射性核素对人体造成的照射。"
+  },
+  {
+   "cn": "内部损伤",
+   "en": "internal defect",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.16",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "水果或蔬菜沿切线纵向或横向切割后，检查出的果肉损伤。"
+  },
+  {
+   "cn": "内暴露量",
+   "en": "internal exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "环境介质中某种因素进入机体或与机体发生相互作用的有效剂量"
+  },
+  {
+   "cn": "国际标准",
+   "en": "international standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "国际标准化组织（ISO）、国际电工委员会（IEC）和国际电信联盟（ITU）制定的标准，以及国际标准化组织确认并公布的其他国际组织制定的标准。"
+  },
+  {
+   "cn": "国际价值",
+   "en": "international value",
+   "source": "马克思主义",
+   "wordNumber": "02.0286",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界市场上商品的价格以国际价值为基础。商品的国际价值本质上也是无差别的人类劳动的凝结，商品的国际价值量是由世界范围的平均必要劳动决定的。"
+  },
+  {
+   "cn": "第一国际",
+   "en": "First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0398",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "第一个无产阶级国际联合组织。1964年9月28日,为了抗议沙皇俄国对波兰人民起义的血腥镇压,英、法、德、意、波兰等国工人代表在伦敦圣马丁会堂举行国际工人会议，马克思应邀出席会议。第一国际当时的名称是国"
+  },
+  {
+   "cn": "第二国际",
+   "en": "Second International",
+   "source": "马克思主义",
+   "wordNumber": "04.0401",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继第一国际之后建立的第二个世界无产阶级国际组织，是在19世纪80年代工人运动新高涨、马克思主义广泛传播和各国无产阶级政党普遍建立的形势下于1889年在巴黎建立的。第二国际成立初期与各国党内和国际内的无"
+  },
+  {
+   "cn": "第三国际",
+   "en": "Third International",
+   "source": "马克思主义",
+   "wordNumber": "04.0414",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第一次世界大战后出现了新的国际形势，需要建立一个新的国际来领导无产阶级革命。1919年3月2—6日，共产国际（第三国际）在莫斯科举行了第一次代表（成立）大会，大会通过了列宁起草的《共产国际宣言》、《共"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

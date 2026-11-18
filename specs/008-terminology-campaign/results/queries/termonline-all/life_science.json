@@ -1,0 +1,702 @@
+{
+ "key": "life science",
+ "term": "life science",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:45:49+00:00",
+ "status": "ok",
+ "note": "variant=life science; 审定公布名词库=4094; 海峡两岸名词对照库=1269; 其他来源数据库=352; 预公布名词数据库=216; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "生命科学",
+   "en": "life science;bioscience",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0015",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "研究生命现象、生命活动的本质、特征和发生发展规律，以及各种生物之间和生物与环境之间相互关系的学科。"
+  },
+  {
+   "cn": "空间生命科学",
+   "en": "space life science",
+   "source": "生物物理学名词",
+   "wordNumber": "01.016",
+   "subjectFullName": "生物物理学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "研究宇宙空间环境(如真空、高温、低温、失重和宇宙辐射)中生命现象及其活动规律的学科。是空间科学与生命科学的交叉学科。主要包括空间生物学、空间生理学、空间医学、空间站生物医学工程、宇宙生物学，以及空间生"
+  },
+  {
+   "cn": "空间生命科学",
+   "en": "space life science",
+   "source": "航天科学技术名词",
+   "wordNumber": "01.131",
+   "subjectFullName": "航天科学技术_航天学综合术语",
+   "subjectName": "航天学综合术语",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "电力名词",
+   "wordNumber": "10.471",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "汽轮发电机组的构件或设备从初投运直至由于损伤失效或经济性下降等原因,而不能继续服役所经历的总时间。"
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "电气工程名词",
+   "wordNumber": "28.113",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "贮存期",
+   "en": "shelf life,storage life",
+   "source": "林学名词",
+   "wordNumber": "11.317",
+   "subjectFullName": "林学_木材科学与技术_人造板及木基复合材料",
+   "subjectName": "人造板及木基复合材料",
+   "publishYear": "2016",
+   "definition": "在一定的条件下，制得的树脂胶能保持其使用性能指标的存放时间。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "average life,mean life",
+   "source": "化学名词",
+   "wordNumber": "06.0036",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "在某特定状态下原子核的平均存活时间。对于按指数规律衰变的体系，平均寿命是在该特定状态下核数减少到原来的1/e的平均时间。"
+  },
+  {
+   "cn": "生命[地]带",
+   "en": "life zone,life belt",
+   "source": "生态学名词",
+   "wordNumber": "09.055",
+   "subjectFullName": "生态学_全球生态学",
+   "subjectName": "全球生态学",
+   "publishYear": "2006",
+   "definition": "地球上有规律分布的生物地带。"
+  },
+  {
+   "cn": "使用寿命",
+   "en": "service life,useful life",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.170",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生活史",
+   "en": "life history,life cycle",
+   "source": "水产名词",
+   "wordNumber": "01.321",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "生物在一生中所经历生长发育和繁殖阶段的全部过程。"
+  },
+  {
+   "cn": "贮存寿命",
+   "en": "storage life,shelf life",
+   "source": "电气工程名词",
+   "wordNumber": "28.117",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "使用寿命",
+   "en": "useful life,service life",
+   "source": "电气工程名词",
+   "wordNumber": "28.118",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "救生筏",
+   "en": "life-raft,life-float",
+   "source": "石油名词",
+   "wordNumber": "08.1011",
+   "subjectFullName": "石油_海洋石油技术_海洋石油安全、消防、救生与环保",
+   "subjectName": "海洋石油安全、消防、救生与环保",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "救生索",
+   "en": "life line",
+   "source": "船舶工程名词",
+   "wordNumber": "05.324",
+   "subjectFullName": "船舶工程_船舶舾装",
+   "subjectName": "船舶舾装",
+   "publishYear": "1998",
+   "definition": "系于救生圈上不打纽结的具有一定长度、直径和断裂强度的可浮细索。"
+  },
+  {
+   "cn": "安全索",
+   "en": "life line",
+   "source": "船舶工程名词",
+   "wordNumber": "05.387",
+   "subjectFullName": "船舶工程_船舶舾装",
+   "subjectName": "船舶舾装",
+   "publishYear": "1998",
+   "definition": "为在恶劣海况时行走的安全，在甲板上临时配置的绳索。"
+  },
+  {
+   "cn": "寿命",
+   "en": "lifetime,life",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.168",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "半衰期",
+   "en": "half life",
+   "source": "地质学名词",
+   "wordNumber": "13.03.015",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "放射性同位素衰变到其原始量的一半所需要的时间。"
+  },
+  {
+   "cn": "适用期",
+   "en": "pot life",
+   "source": "精细化工名词",
+   "wordNumber": "05.0385",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "多组分分装的涂料相互混合后可使用的最长时间。"
+  },
+  {
+   "cn": "适用期",
+   "en": "pot life",
+   "source": "精细化工名词",
+   "wordNumber": "07.0128",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "胶黏剂从各组分混合均匀开始至能维持其可用性能的时间。"
+  },
+  {
+   "cn": "储存期",
+   "en": "storage life",
+   "source": "精细化工名词",
+   "wordNumber": "07.0142",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "胶黏剂在一定条件下保持其操作性能并能达到规定强度的存放时间。"
+  },
+  {
+   "cn": "生命科学",
+   "en": "life science\",\"bioscience",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "平均寿命",
+   "en": "average life\",\"mean life",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望,估计寿命",
+   "en": "life expectance\",\"life expectancy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生活史,生活周期",
+   "en": "life cycle\",\"life history",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生命带",
+   "en": "life zone\",\"life belt",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生活周期（=生活史）",
+   "en": "life cycle (=life history)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "救生索",
+   "en": "life line",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "安全索",
+   "en": "life line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "救生索",
+   "en": "life-line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生活周期",
+   "en": "life cycle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生活史",
+   "en": "life history",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生命表",
+   "en": "life table",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生命带",
+   "en": "life zone",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "离子寿命",
+   "en": "ion life",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "储存寿命",
+   "en": "storage life",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经济寿命",
+   "en": "economic life",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "储存期限",
+   "en": "shelf life",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂寿命",
+   "en": "catalyst life",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "半衰期",
+   "en": "half life",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "使用期",
+   "en": "serviceable life",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "尊生",
+   "en": "Respect Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "好生",
+   "en": "Cherish Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工生命",
+   "en": "artificial life",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字生命",
+   "en": "digital life",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "救生衣",
+   "en": "life jacket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "救生衣",
+   "en": "life jacket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "救生衣信号",
+   "en": "life jacket signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乐生",
+   "en": "To Delight in Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒器械从投入使用开始，在规定使用条件下，能有效使用的期限。"
+  },
+  {
+   "cn": "生命",
+   "en": "life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.016",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "生物体所具有的活动能力，是核酸、蛋白质和其他大分子物质存在的一种形式。"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "使用寿命",
+   "en": "useful life",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "消毒设备的有效使用期限。"
+  },
+  {
+   "cn": "承诺寿命",
+   "en": "promised life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在规定的使用条件下，厂家承诺产品能正常使用且符合消毒要求的期限。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "放射性核素完全衰变为子体核素前存在的平均时间。符号为τ。是衰变常数（λ）的倒数。即τ=1/λ；其与半衰期（T1/2）的关系为：τ=T1/2 /ln2。"
+  },
+  {
+   "cn": "社会生活",
+   "en": "social life",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "一种以一定的社会关系为纽带，由社会的经济、政治、文化、心理、环境诸因素综合作用形成的一系列复杂而多层次的社会活动现象。既指人类整个社会物质的和精神的活动，也指社会的物质生产活动和社会组织的公共活动领域"
+  },
+  {
+   "cn": "生命历程",
+   "en": "life course",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "在人的一生中，经由年龄分化而体现出来的生活道路。亦指一种社会生活史研究范式。其分析框架包括三个方面的内容：生命历程的社会意义；社会模式的代际传递；宏观结构对个人生命史的影响。"
+  },
+  {
+   "cn": "生活机会",
+   "en": "life-chances",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取各种有价物品和改善地位状况的可能性，尤其指获取教育和向上流动机会以及其他物质产品的可能性。源于马克斯•韦伯的社会分层分析。马克斯•韦伯认为，这些机会决定了阶级状态。后被广泛应用于社会流动分析。"
+  },
+  {
+   "cn": "平均预期寿命",
+   "en": "life expectancy",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.8",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "0岁年龄组人口的平均生存年数。它是生命表中的重要内容，是国际上用来评价一个国家人口的生存质量和健康水平的重要参考指标之一。"
+  },
+  {
+   "cn": "生命表",
+   "en": "life table",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "根据当前的年龄别死亡率计算出来，表示某一人口的每一年龄组的死亡概率及平均预期寿命的表格。它完整全面地勾勒出了人口的死亡状况。"
+  },
+  {
+   "cn": "物质生活",
+   "en": "material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0183",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类为了自身生存和发展而进行的物质生活资料的生产、分配、消费等活动，是人类生存不可缺少的基本方式。物质生活的生产方式制约着整个社会生活、政治生活、精神生活的过程。"
+  },
+  {
+   "cn": "精神生活",
+   "en": "spiritual life",
+   "source": "马克思主义",
+   "wordNumber": "01.0190",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在社会物质生活基础上所进行的精神生产、思想观念传播与变革和精神享受，体现着人类对真善美的渴望和追求，包括科研、创作、学习、文化娱乐和信仰等活动，是人区别于动物的生活方式，也是人的发展程度的标志。"
+  },
+  {
+   "cn": "社会生活",
+   "en": "social life",
+   "source": "马克思主义",
+   "wordNumber": "03.0165",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们为了生存和发展而以一定生产方式结合起来而进行的各种社会活动的总称，是社会主体的人与生活环境以一定方式相结合的特殊活动形式。包括人们的物质生活、政治生活和精神生活。"
+  },
+  {
+   "cn": "生活方式",
+   "en": "life style",
+   "source": "马克思主义",
+   "wordNumber": "03.0173",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在一定的历史时期与社会条件下，各个民族、阶级和社会群体的生活模式。狭义指个人及其家庭的日常生活的活动方式，广义指社会群体、地区、民族、国家等具有若干共同特征的生活模式。"
+  },
+  {
+   "cn": "生活方式",
+   "en": "life style",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "个体在日常生活中表现出的相对稳定的行为模式总和。包括作息节律、饮食习惯、运动娱乐方式、社交方式等。"
+  },
+  {
+   "cn": "生活技能",
+   "en": "life skills",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "个体保持良好心理状态，并且在与他人、社会和环境的相互关系中表现出适应和积极行为的能力。"
+  },
+  {
+   "cn": "期望寿命",
+   "en": "life expectancy",
+   "source": "社会医学名词",
+   "wordNumber": "9.23",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "期望寿命",
+   "publishYear": "2025",
+   "definition": "在一定的年龄别死亡率水平下，同时出生的一代人活到某一岁数时，尚能生存的平均年数。反映居民健康水平和社会经济发展水平及医疗卫生服务水平。"
+  },
+  {
+   "cn": "期望寿命",
+   "en": "life expectancy",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.11",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "根据一个国家或地区的某一人群的年龄组死亡率，通过寿命表计算某一年龄的人能够存活的平均年数。"
+  },
+  {
+   "cn": "储藏寿命",
+   "en": "storage life",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.12",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "特定贮存条件下，从产品进入流通环节开始到产品质量下降至不适宜消费之间的时间。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

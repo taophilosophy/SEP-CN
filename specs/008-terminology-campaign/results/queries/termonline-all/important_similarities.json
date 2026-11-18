@@ -1,0 +1,662 @@
+{
+ "key": "important similarities",
+ "term": "important similarities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:39:14+00:00",
+ "status": "ok",
+ "note": "variant=important similarities; 审定公布名词库=181; 海峡两岸名词对照库=285; 其他来源数据库=16; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "动物学名词",
+   "wordNumber": "7.0464",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "群落间或样方间的相似程度。"
+  },
+  {
+   "cn": "相似[性]",
+   "en": "similarity",
+   "source": "物理学名词",
+   "wordNumber": "01.0474",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "生物物理学名词",
+   "wordNumber": "06.076",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "两条序列做对位排列比对时，在同一位置上出现同一种氨基酸或不同氨基酸，但却具有相似的特性。是对两条序列关系的定量描述。相似性程度用相同或相似氨基酸数目相加的总数占比对序列的氨基酸总数的百分比表示。"
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "药学名词",
+   "wordNumber": "06.187",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "不同的物质在理化性质上具有相近或相似的性质。就是“相似者相溶”原理的应用。"
+  },
+  {
+   "cn": "相似[的]",
+   "en": "similar",
+   "source": "数学名词",
+   "wordNumber": "08.0120",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "自动化名词",
+   "wordNumber": "04.567",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "导入",
+   "en": "import",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0574",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）将当前系统之外的某个指定位置上的一批数据输入到系统中。（2）一种改变元素可见性的表示法，使其他作用域或名字空间的元素可以在本作用域或名字空间内被直接引用。"
+  },
+  {
+   "cn": "相似褶皱",
+   "en": "similar fold",
+   "source": "地质学名词",
+   "wordNumber": "09.03.072",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "组成褶皱的各褶皱面作相似的弯曲，各面曲率相同，但无共同的曲率中心，褶皱的形态不随深度而变化的褶皱。在理想的相似褶皱中，褶皱岩层中平行轴面测量的视厚度在各部位保持一致，而其真厚度则表现为两翼变薄而转折端"
+  },
+  {
+   "cn": "自相似[性]",
+   "en": "self-similarity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1815",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "一个物体和它本身的一部分完全或几乎完全相似的性质。 "
+  },
+  {
+   "cn": "几何相似",
+   "en": "geometric similarity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1357",
+   "subjectFullName": "机械工程（一）_传动_液力传动_性能参数",
+   "subjectName": "性能参数",
+   "publishYear": "2021",
+   "definition": "两液力元件过流部分及相应的各线性尺寸成比例和相应角度相等的工况。"
+  },
+  {
+   "cn": "运动相似",
+   "en": "kinematic similarity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1358",
+   "subjectFullName": "机械工程（一）_传动_液力传动_性能参数",
+   "subjectName": "性能参数",
+   "publishYear": "2021",
+   "definition": "几何相似的液力元件的转速比相同的工况。"
+  },
+  {
+   "cn": "动力相似",
+   "en": "dynamic similarity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1359",
+   "subjectFullName": "机械工程（一）_传动_液力传动_性能参数",
+   "subjectName": "性能参数",
+   "publishYear": "2021",
+   "definition": "具有几何相似和运动相似的工况。"
+  },
+  {
+   "cn": "相似像",
+   "en": "similar image",
+   "source": "光学名词",
+   "wordNumber": "14.010",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "物体经理想光学系统所成的像。"
+  },
+  {
+   "cn": "相似理论",
+   "en": "similarity theory",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.105",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "说明自然界和工程中各相似现象相似原理的学说。是研究自然现象中个性与共性，或特殊与一般的关系以及内部矛盾与外部条件之间的关系的理论。"
+  },
+  {
+   "cn": "相似性设计",
+   "en": "similar design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0102",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "在相似理论指导下，通过模化方法和模型试验，实现系列产品的设计。"
+  },
+  {
+   "cn": "自相似",
+   "en": "self-similarity",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.132",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统相关技术",
+   "subjectName": "医学影像信息系统相关技术",
+   "publishYear": "2020",
+   "definition": "一种形状的每一部分在几何上相似于整体，一般对分形而言。"
+  },
+  {
+   "cn": "相似性检索",
+   "en": "similarity retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.095",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "在给定的样本文献集合中查找出与检索词内容相似的文献的过程。"
+  },
+  {
+   "cn": "相似性测度",
+   "en": "similarity measure",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.174",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "衡量一篇文献是否满足一个特定的用户提问，或者衡量文献向量空间中任意两篇文献相类似的程度。"
+  },
+  {
+   "cn": "相似群",
+   "en": "similarity group",
+   "source": "物理学名词",
+   "wordNumber": "01.0485",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "文献相似度",
+   "en": "document similarity",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.099",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "两组文献在相关信息描述方面的相似程度的数值度量。"
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相似性",
+   "en": "similarity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "进口",
+   "en": "import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "导入",
+   "en": "import",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "动力相似",
+   "en": "dynamic similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "谱相似[性]",
+   "en": "spectral similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相似理论",
+   "en": "similarity theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "运动学相似",
+   "en": "kinematic similarity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "运动相似",
+   "en": "kinematic similarity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "几何相似",
+   "en": "geometric similarity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似定律",
+   "en": "similar law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动力学相似性",
+   "en": "dynamic similarity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似变换",
+   "en": "similarity transformation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似性解",
+   "en": "similarity solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似理论",
+   "en": "similarity theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "假设相似性",
+   "en": "assumed similarity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重要性采样",
+   "en": "importance sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贵宾",
+   "en": "very important person",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合同异",
+   "en": "Unify Similarity and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心同理同",
+   "en": "People of Similar Natures and Emotions Will Have Similar Understanding.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重要数据加密规则",
+   "en": "rule for encrypting important data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据导入导出标准",
+   "en": "data import and export standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "严控境外疫情输入",
+   "en": "strict control of imported infection ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人命关天",
+   "en": "Life Is as Important as Heaven.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生命重于泰山。",
+   "en": "Saving lives is of paramount importance. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "首届中国国际进口博览会",
+   "en": "the first China International Import Expo",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不似之似",
+   "en": "Dissimilar in Form but Similar in Spirit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民以食为天",
+   "en": "Food Is of Primary Importance to the People.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违规披露、不披露重要信息罪",
+   "en": "crime of submitting false reports or reports concealing important facts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脱贫攻坚是以人民为中心发展思想的重 要体现",
+   "en": "Poverty alleviation is an important embodiment of the people-centered philosophy of development.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生命安全和生物安全领域的重大科技成果是国之重器。",
+   "en": "Major scientific and technological achievements in the fields of life safety and biosecurity are of vital importance to our country.  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进口食品添加剂",
+   "en": "imported food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "产自中国境外，通过中国海关报关验放后进入中国境内的食品添加剂产品"
+  },
+  {
+   "cn": "最小重要变化",
+   "en": "minimal important change, MIC",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "患者角度认为有治疗或护理效果的最小分数变化。"
+  },
+  {
+   "cn": "三个代表重要思想",
+   "en": "important thought of Three Represents",
+   "source": "马克思主义",
+   "wordNumber": "03.0620",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以江泽民为核心的第三代中央领导集体创立的党的指导思想的构成部分。其主要内容是：中国共产党要始终代表中国先进生产力的发展要求、要始终代表中国先进文化的前进方向、要始终代表中国最广大人民的根本利益。它是中"
+  },
+  {
+   "cn": "重要战略机遇期",
+   "en": "period of important strategic opportunities",
+   "source": "马克思主义",
+   "wordNumber": "04.0187",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党中央对当前国际国内形势作出的一个科学判断。主要是指国际国内各种因素综合作用形成的，能为国家（地区、集团）经济社会发展提供良好机会和境遇，并对其历史命运产生全局性、长远性、决定性影响的某一特定历史时期"
+  },
+  {
+   "cn": "四个同样重要",
+   "en": "four points of equal importance",
+   "source": "马克思主义",
+   "wordNumber": "03.0622",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民2002年视察中国人民大学时提出“四个同样重要”，即“哲学社会科学与自然科学同样重要，培养高水平的哲学社会科学家与培养高水平的自然科学家同样重要，提高全民族的哲学社会科学素质与提高全民族的自然科"
+  },
+  {
+   "cn": "稳定压倒一切",
+   "en": "Stability is of overriding importance",
+   "source": "马克思主义",
+   "wordNumber": "04.0171",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志针对改革发展稳定关系而提出的在社会主义现代化和改革开放进程中必须千方百计保持社会稳定的重要论断。邓小平在1989年2月26日会见美国总统布什时说：“中国的问题，压倒一切的是需要稳定。没有稳定"
+  },
+  {
+   "cn": "进口无国标食品",
+   "en": "imported food without national standard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.40",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "由境外生产经营的，尚未进口且我国未制定公布相应食品安全国家标准的食品。"
+  },
+  {
+   "cn": "重要军事活动卫生保障",
+   "en": "health security for important military activities",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.1.2.5",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤预防医学保障",
+   "subjectName": "军队卫勤预防医学保障",
+   "publishYear": "2025",
+   "definition": "根据重要军事活动时人员特点、作业环境特点、人员聚集特点和作业特点，研究复合因素对人员影响的规律，从而提供综合性的卫生学保障措施。"
+  },
+  {
+   "cn": "进出口食品合格评定",
+   "en": "import and export food conformity assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.6",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "海关依据进出口商品检验相关法律、行政法规的规定对进口食品实施的一种评审活动。包括向中国境内出口食品的境外国家（地区）食品安全管理体系评估和审查、境外生产企业注册、进出口商备案和合格保证、进境动植物检疫"
+  },
+  {
+   "cn": "习近平总书记关于加强和改进民族工作的重要思想",
+   "en": "General Secretary Xi Jinping’ s important thoughts on strengthening and improving ethnic work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0002",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "习近平新时代中国特色社会主义思想的重要组成部分，是做好新时代党的民族工作的根本遵循，主要内容包括：必须坚持党对民族工作的领导；坚持中华民族伟大复兴的历史方位，以铸牢中华民族共同体意识为主线，推动各民族"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

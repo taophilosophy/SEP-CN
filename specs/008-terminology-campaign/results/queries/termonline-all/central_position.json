@@ -1,0 +1,782 @@
+{
+ "key": "central position",
+ "term": "central position",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:33:46+00:00",
+ "status": "ok",
+ "note": "variant=central position; 审定公布名词库=6615; 海峡两岸名词对照库=2053; 其他来源数据库=471; 预公布名词数据库=316; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "集中主义",
+   "en": "centralism",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.086",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法",
+   "subjectName": "城市规划理论与方法",
+   "publishYear": "2021",
+   "definition": "强调通过集中发展来提高大城市发展效益并解决相应城市问题的一系列规划理论思想。"
+  },
+  {
+   "cn": "集权化",
+   "en": "centralization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0103",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "决策权在很大程度上向处于较高的管理层次的职位集中的组织状态和组织过程。"
+  },
+  {
+   "cn": "中枢论",
+   "en": "centralism",
+   "source": "心理学名词",
+   "wordNumber": "04.148",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "与外周论相对。把心理事件的起因置于身体之内，认知心理学是其典型代表。"
+  },
+  {
+   "cn": "央化",
+   "en": "centralization",
+   "source": "语言学名词",
+   "wordNumber": "03.063",
+   "subjectFullName": "语言学_语音学_一般语音学",
+   "subjectName": "一般语音学",
+   "publishYear": "2011",
+   "definition": "一种语流音变现象。狭义指前元音和后元音（广义指外围元音）在发音时舌位向中央位置靠拢。例如普通话“棉花”［miεn xua］变读为［miεn xuǝ］。"
+  },
+  {
+   "cn": "扶正器",
+   "en": "centralizer",
+   "source": "石油名词",
+   "wordNumber": "04.0059",
+   "subjectFullName": "石油_石油地球物理测井",
+   "subjectName": "石油地球物理测井",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "中心化子",
+   "en": "centralizer",
+   "source": "数学名词",
+   "wordNumber": "04.1759",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "集中性",
+   "en": "centrality",
+   "source": "自动化名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "胎位",
+   "en": "position",
+   "source": "兽医学名词",
+   "wordNumber": "01.051",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿的位置。即在母体中胎儿背部和母体背部或腹部的位置关系。"
+  },
+  {
+   "cn": "体位",
+   "en": "position",
+   "source": "消化内镜学名词",
+   "wordNumber": "4.051",
+   "subjectFullName": "消化内镜学_消化内镜管理_患者管理",
+   "subjectName": "患者管理",
+   "publishYear": "2021",
+   "definition": "内镜诊疗过程中为方便检查，患者身体所保持的一定姿势。"
+  },
+  {
+   "cn": "就位",
+   "en": "position",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.742",
+   "subjectFullName": "化工（五）_工程建设_施工过程",
+   "subjectName": "施工过程",
+   "publishYear": "2021",
+   "definition": "将机器设备按设计文件的规定摆放到安装位置的过程。"
+  },
+  {
+   "cn": "对准",
+   "en": "position",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1017",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "为将物体放置于所需的正确位置而进行的动作。从开始放置物体至一定方位的瞬间开始，到物体已被安置于正确方位的瞬间结束。"
+  },
+  {
+   "cn": "头寸",
+   "en": "position",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0037",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "个体或组织在某一时刻所拥有的某种特定金融资产的数量状况。"
+  },
+  {
+   "cn": "职位",
+   "en": "position",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0349",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "与一定职务、权力和责任相对应的，由相应规格的公务员来承担的工作岗位。"
+  },
+  {
+   "cn": "位",
+   "en": "position",
+   "source": "电子学名词",
+   "wordNumber": "08.045",
+   "subjectFullName": "电子学_机电元及其他电子元件",
+   "subjectName": "机电元及其他电子元件",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正片",
+   "en": "positive",
+   "source": "测绘学名词",
+   "wordNumber": "03.062",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "影像色调与景物的明暗程度一致或色彩一致的像片。"
+  },
+  {
+   "cn": "定位",
+   "en": "positioning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0487",
+   "subjectFullName": "计算机科学技术_计算机硬件_存储设备",
+   "subjectName": "存储设备",
+   "publishYear": "2018",
+   "definition": "在磁盘中指将磁头移动到指定位置的操作。"
+  },
+  {
+   "cn": "摆位",
+   "en": "positioning",
+   "source": "核医学名词",
+   "wordNumber": "03.0275",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "根据成像目的和设备要求，让患者在检查床上保持某种体位的操作。"
+  },
+  {
+   "cn": "就位",
+   "en": "positioning",
+   "source": "土木工程名词",
+   "wordNumber": "06.236",
+   "subjectFullName": "土木工程_桥梁工程_桥梁施工",
+   "subjectName": "桥梁施工",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "体位保持",
+   "en": "positioning",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0169",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "中央分隔带",
+   "en": "central separator,central mall",
+   "source": "土木工程名词",
+   "wordNumber": "06.021",
+   "subjectFullName": "土木工程_桥梁工程_桥梁总体规划与设计",
+   "subjectName": "桥梁总体规划与设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中心性",
+   "en": "centrality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "把位",
+   "en": "position",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阳",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正片",
+   "en": "positive",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "中央体",
+   "en": "central body\",\"corpus centrale(拉)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "中央沟",
+   "en": "central sulcus\",\"central groove",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中丝",
+   "en": "central wire\",\"central thread",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "○1position fixing○2 positioning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中央栓（=中央颗粒）",
+   "en": "central plug (=central granule)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中枢突",
+   "en": "central process",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央部",
+   "en": "central part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央层",
+   "en": "central stratum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央动脉",
+   "en": "central artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央骨",
+   "en": "central bone",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央管",
+   "en": "central canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央乳糜管",
+   "en": "central lacteal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央小叶",
+   "en": "central lobule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中央节",
+   "en": "central nodule",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中央颗粒",
+   "en": "central granule",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中场",
+   "en": "central court",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "central line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "standing position\",\"upright position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹲踞姿势",
+   "en": "squat position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "extended position\",\"stretched position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团身姿势",
+   "en": "C position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "屈体姿势",
+   "en": "B position\",\"pike position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集权化",
+   "en": "centralization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.11",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "把组织决策权、控制权和人事配备权等与计划和决策相关的组织权力，向组织的最高领导层集中的过程或组织行为。与“分权化”相对。"
+  },
+  {
+   "cn": "中央集权",
+   "en": "centralization",
+   "source": "马克思主义",
+   "wordNumber": "03.0226",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“地方分权”相对。国家权力集中由中央政府统一行使的制度。在这种制度下，地方政权在中央政权的严格控制下行使职权，由中央委派的官员或由地方选出的官员代表中央管理地方行政事务，地方居民没有自治权或地方虽设"
+  },
+  {
+   "cn": "中非人",
+   "en": "Central African",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0209",
+   "subjectFullName": "民族学与文化学_世界民族_非洲地区",
+   "subjectName": "非洲地区",
+   "publishYear": "2025",
+   "definition": "非洲现代民族（nation）,拥有中非共和国国籍和公民身份的人们共同体，人口约为590 万（2024 年）。共有巴雅、班达、班图、桑戈等60 多个民族，其中巴雅族人数最多，班达族分布最广。官方语言为法"
+  },
+  {
+   "cn": "向心性肥胖",
+   "en": "central obesity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.1.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "身体脂肪分布以躯干、尤其以腹部为主的肥胖。男性腰臀比超过0.9或女性腰臀比超过0.8的肥胖者。"
+  },
+  {
+   "cn": "中央厨房",
+   "en": "central kitchen",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.32",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "由餐饮单位建立的，具有独立场所及设施设备，集中完成食品成品或者半成品加工制作并配送的食品经营者。"
+  },
+  {
+   "cn": "国家政府",
+   "en": "central government",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "在全国范围内行使行政、立法、财政和监管职能的最高级别政府机构，主要包括国家级各部委、国务院、最高人民法院、最高人民检察院及其他直属机关。"
+  },
+  {
+   "cn": "民主集中制",
+   "en": "democratic centralism",
+   "source": "马克思主义",
+   "wordNumber": "03.0281",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党的根本组织原则，它是党内民主和集中的辩证统一，即在高度民主的基础上，实行高度的集中。马克思恩格斯为共产主义者同盟和国际工人协会起草的章程中规定各级委员会及其领导人由选举产生,有关决议须无记"
+  },
+  {
+   "cn": "集中检疫",
+   "en": "centralized quarantine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.33",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "在进入市场流通前，活畜统一进入定点屠宰场所，由专业检疫人员按照相关法律法规、检疫标准和规定程序，进行宰前、宰后检查，并由动物卫生监督机构出具检疫证明、加施检疫标志的过程。"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "阵地战",
+   "en": "positional war",
+   "source": "马克思主义",
+   "wordNumber": "05.0008",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西主张在共产党领导的“总体革命”中，无产阶级及其政党在文化领导权的获取方式上应当采用的，是不同于俄国十月革命的“运动战”，即采取暴力夺权的那种方式，而是应当在市民社会领域对资产阶级的思想阵地不断实"
+  },
+  {
+   "cn": "正面启发法",
+   "en": "positive heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家通过研究纲领发展理论与设计实验，主动解决问题或预测现象。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "中枢性性早熟",
+   "en": "central precocious puberty",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "因下丘脑－垂体－性腺轴的提前激活导致女孩在8岁以前出现乳房发育和男孩在9岁以前出现睾丸发育的现象。"
+  },
+  {
+   "cn": "资本集中",
+   "en": "centralization of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0164",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "个别资本通过相互结合而形成较大的资本。它可以通过许多小资本并入或合并成大资本或大资本兼并小资本等多种途径来增大单个资本总量。"
+  },
+  {
+   "cn": "药品集中采购",
+   "en": "centralized drug procurement",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.3.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "采购主体采取量价挂钩的方式，寻求降低药品采购价格的药品采购方式。"
+  },
+  {
+   "cn": "集中式供水",
+   "en": "centralized water supply",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校饮用水卫生监督",
+   "subjectName": "学校饮用水卫生监督",
+   "publishYear": "2025",
+   "definition": "自水源集中取水，经统一净化处理和消毒后，通过输配水管送到服务用户或者公共取水点的供水方式。包括城建部门建设的各级城市公共供水和各单位自建设施供水。"
+  },
+  {
+   "cn": "党员主体地位",
+   "en": "Partys principal position",
+   "source": "马克思主义",
+   "wordNumber": "03.0775",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "广大党员是党的一切活动的主体，在党内生活和党的建设实践中居于自主、积极、主动的地位。这主要表现在：广大党员有明确的主体意识，具备较高的参政议政素质和能力，能够积极参与党内事务，认真履行义务，积极行使权"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

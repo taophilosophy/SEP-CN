@@ -1,0 +1,712 @@
+{
+ "key": "facie plausibility",
+ "term": "facie plausibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:34:31+00:00",
+ "status": "ok",
+ "note": "variant=facie plausibility; 审定公布名词库=578; 海峡两岸名词对照库=82; 其他来源数据库=25; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于不确定的信念的推理理论。用信念测度（而非古典逻辑的真与假）来建立科学工作中诸如相反证据所导致的不确定信念的推理模式和形式模型。"
+  },
+  {
+   "cn": "似然推理",
+   "en": "plausible inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.045",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "根据模糊输入和模糊规则，按照确定好的推理方法进行推理，得到模糊输出量的过程。"
+  },
+  {
+   "cn": "相",
+   "en": "facies",
+   "source": "地理学名词",
+   "wordNumber": "02.056",
+   "subjectFullName": "地理学_自然地理学",
+   "subjectName": "自然地理学",
+   "publishYear": "2006",
+   "definition": "景观形态单位的最低一级，相当于初级地貌形态内的地貌部位，对地理观察或作用具有均匀和/或统一性质的地理单元，体系内物理和化学性质完全均一的部分。"
+  },
+  {
+   "cn": "陆相",
+   "en": "nonmarine facies,continental facies",
+   "source": "石油名词",
+   "wordNumber": "02.0231",
+   "subjectFullName": "石油_油气地质勘探_含油气盆地沉积学",
+   "subjectName": "含油气盆地沉积学",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "大地构造相",
+   "en": "tectonic facies",
+   "source": "地质学名词",
+   "wordNumber": "10.01.002",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "形成于相似构造环境，具有类似岩石-构造组合的地质单元。主要依据地层、沉积特点、岩浆活动、古地理与古构造格局、变形样式、变质程度等划分确定。"
+  },
+  {
+   "cn": "火成岩相",
+   "en": "igneous facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.011",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "反映火成岩生成环境和形成条件的岩体特征的总和。包括侵入岩相和火山岩相。"
+  },
+  {
+   "cn": "侵入岩相",
+   "en": "intrusive facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.030",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "反映侵入岩形成环境和条件的岩体特征的总和。根据其侵位深度划分为深成相、中深成相和浅成相；在侵入岩体内部还可以分为中心相、过渡相、边缘相等。"
+  },
+  {
+   "cn": "边缘相",
+   "en": "border facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.034",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "位于岩体边部，其成分偏基性，因岩浆冷却快而结晶程度较差，多呈细粒、隐晶质或斑状结构；常见流动构造和围岩捕虏体。"
+  },
+  {
+   "cn": "中心相",
+   "en": "central facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.035",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "位于岩体内部，成分偏酸性，因岩浆冷却缓慢而矿物结晶较好，多呈较自形的中粗粒结构或似斑状结构、块状构造，无或很少发育围岩捕虏体。"
+  },
+  {
+   "cn": "过渡相",
+   "en": "transitional facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.036",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "位于中心相和边缘相之间，其成分和组构特征也介于两者之间。"
+  },
+  {
+   "cn": "火山岩相",
+   "en": "volcanic facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.038",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "火山作用产物在空间上分布的格局、产出方式及其外貌特征。根据火山岩的形成条件及产出方式，主要划分为溢流相、爆发相、侵出相、火山颈相、次火山岩相和火山沉积相。"
+  },
+  {
+   "cn": "爆发相",
+   "en": "explosive facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.040",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "常见的一种火山岩相。在火山喷发开始阶段和高潮阶段最发育。由强烈的火山爆发产生的火山碎屑岩组成，主要有空落堆积、碎屑流堆积、火山基浪堆积、火山泥流堆积等。"
+  },
+  {
+   "cn": "侵出相",
+   "en": "extrusion facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.041",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "火山喷发晚期，因大量挥发分的逸失和黏度变大，失去爆发能力和流动性的酸性或碱性残余岩浆，在火山通道上部或火山口周围裂隙中被挤出地表而形成陡峭的岩钟、岩针等。"
+  },
+  {
+   "cn": "次火山岩相",
+   "en": "subvocanic facies",
+   "source": "地质学名词",
+   "wordNumber": "04.02.043",
+   "subjectFullName": "地质学_火成岩岩石学_岩体产状",
+   "subjectName": "岩体产状",
+   "publishYear": "2026",
+   "definition": "与火山岩同源、同成分，空间上紧密相连，但因岩浆喷发晚期压力不足，未能喷出地表而在近地表处侵位固结成岩。由不同岩性的次火山岩所组成。"
+  },
+  {
+   "cn": "地球化学相",
+   "en": "geochemical facies",
+   "source": "地质学名词",
+   "wordNumber": "13.01.110",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地球化学体系中结构相同、成分和性质均一，并以界面相互分开的组成部分。组成地球化学体系的基本单元。"
+  },
+  {
+   "cn": "成岩相",
+   "en": "diagenetic facies",
+   "source": "地质学名词",
+   "wordNumber": "05.02.022",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积成岩作用",
+   "subjectName": "沉积成岩作用",
+   "publishYear": "2026",
+   "definition": "一定成岩环境下，各种成岩作用反映在岩石的岩石学、矿物学和地球化学特征上的总和。可根据成岩环境和成岩作用进行分类。例如碳酸盐岩的成岩相可划分为海水成岩相、大气淡水成岩相、混合水成岩相和埋藏成岩相四大类。"
+  },
+  {
+   "cn": "沉积相",
+   "en": "sedimentary facies",
+   "source": "地质学名词",
+   "wordNumber": "05.05.005",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "一个沉积环境中所有的原生沉积特征的总和。是沉积环境的物质表现，包括岩石组构、成分、古生物特征、岩石地球化学特征等。如按沉积自然地理环境可分为陆相、海相、海陆过渡相等。"
+  },
+  {
+   "cn": "相序",
+   "en": "facies sequence",
+   "source": "地质学名词",
+   "wordNumber": "05.05.009",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "沉积岩层中从一种相逐渐过渡到另外一种相的系列相组合顺序。相序的顶部和底部可以是突变的或侵蚀接触，或者是古土壤。单个岩层只能提供沉积时局部的条件，而相序则可提供整个沉积环境特征，以及它们随时间的发展和变"
+  },
+  {
+   "cn": "相模式",
+   "en": "facies model",
+   "source": "地质学名词",
+   "wordNumber": "05.05.011",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "以相序递变规律为基础，以现代沉积环境和沉积物特征的研究为依据，从大量沉积相发育和演化研究实例中高度概括，归纳出的具有普遍意义的沉积相空间组合形式。"
+  },
+  {
+   "cn": "陆相",
+   "en": "continental facies",
+   "source": "地质学名词",
+   "wordNumber": "05.05.015",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "在大陆沉积环境中形成的沉积。按自然地理环境可细分为残积相、坡积相、洪积相、湖泊相、沼泽相、沙漠相等。其特点是相变大，不能在很大范围内保持均一的岩性。岩石类型包括碎屑岩、黏土岩、化学岩、生物化学岩等。"
+  },
+  {
+   "cn": "似真性排序",
+   "en": "plausibility ordering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相",
+   "en": "facies",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相",
+   "en": "facies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "半深海相",
+   "en": "hemipelagic facies\",\"bathyal facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "群丛相",
+   "en": "faciation\",\"facies",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相",
+   "en": "phase\",\"facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "指相化石",
+   "en": "facies-fossil",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "成岩相",
+   "en": "diagenetic facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "冲积相",
+   "en": "alluvial facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地震相",
+   "en": "seismic facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "河口相",
+   "en": "estuarine facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "珊瑚相",
+   "en": "coralline facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "示源岩相",
+   "en": "alimentation facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "远洋相",
+   "en": "eupelagic facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "变质相",
+   "en": "metamorphic facies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "沉积相",
+   "en": "sedimentary facies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "绿片岩相",
+   "en": "greenschist facies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "陆架相",
+   "en": "shelf facies\",\"continental shelf facies",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "颜面",
+   "en": "face\",\"facies(复)\",\"facia(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "拍面",
+   "en": "face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上段",
+   "en": "eolgool\",\"face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拍面",
+   "en": "face\",\"strings",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人脸识别",
+   "en": "face recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "靶面",
+   "en": "target face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶面",
+   "en": "target face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白斑脸",
+   "en": "bald face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击打脸部",
+   "en": "attack the face\",\"hit the face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "面对面！",
+   "en": "Face about! Face each other! Face to face! Jwawoo-hyangwoo! Turn to front!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "面罩",
+   "en": "face mask\",\"mask",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关闭拍面",
+   "en": "close the racket face\",\"closed racket face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打开拍面",
+   "en": "open the racket face\",\"open racket face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安时处顺",
+   "en": "Face Reality Calmly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人脸识别支付",
+   "en": "face recognition payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "桨面",
+   "en": "face of paddle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "禁止面对面就餐",
+   "en": "Diners are not allowed to sit face to face.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关闭拍面",
+   "en": "close the racket face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平拍面",
+   "en": "flat racket\",\"flat racket face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "穿过靶面",
+   "en": "pass through the target face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "面对面访谈",
+   "en": "face to face interview",
+   "source": "社会医学名词",
+   "wordNumber": "4.3.2.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定量研究",
+   "publishYear": "2025",
+   "definition": "调查者到调查现场找到被调查者，按照问卷条目逐项询问被调查对象，根据其回答填写调查问卷收集信息的方法。"
+  },
+  {
+   "cn": "防护面屏",
+   "en": "face shield",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.12",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "可以直接戴在头上或者连接在防护头盔上，既可以保护眼部，也可以保护面部的防护装备。"
+  },
+  {
+   "cn": "面子",
+   "en": "mianzi，face",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "个人或群体对其行为在社会舆论中受到好评的期待，由此形成与竞争或互惠联系在一起的人际关系。中国本土词，经19世纪末美国公理会传教士明恩浦的使用，逐渐成为描述中国人特有的文化心理现象的特定名词。"
+  },
+  {
+   "cn": "表面效度",
+   "en": "face validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.80",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "外行人从表面上判断的指标是否真的测量到所欲测量的概念的程度。"
+  },
+  {
+   "cn": "满月脸",
+   "en": "moon face",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.1.5",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "面部肥胖似满月的体征。是脸部脂肪堆积的结果，通常与各种原因所致皮质醇增多症相关。"
+  },
+  {
+   "cn": "表面效度",
+   "en": "face validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "从表面上直观判断量表的条目是否都是与研究者想要测量的问题有关。是一个由专家主观评价的测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "面部挤压伤",
+   "en": "face squeeze",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.3.2.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "潜水员作业过程中，由于供气调节阀失灵、供气不足等原因造成面罩内压力低于外界水压而引起的面部组织损伤。多发生于潜水员戴用眼鼻面罩或全面罩轻潜水过程中。"
+  },
+  {
+   "cn": "面具脸",
+   "en": "mask-like face",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.1.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "系统性硬化症患者皮肤受累后出现的特征性面容改变，表现为面部皮肤变紧、皮纹减少至消失，表情减少并僵硬。"
+  },
+  {
+   "cn": "一次性使用医用口罩",
+   "en": "single-use medical face mask",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.6",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "在普通医疗环境中佩戴，覆盖口、鼻及下颌，阻隔口腔和鼻腔呼出或喷出污染物的一次性使用口罩，其过滤效率符合相关标准的要求。"
+  },
+  {
+   "cn": "医用防护口罩",
+   "en": "protective face mask for medical use",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.3",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "对空气中非油性颗粒物过滤效率不低于95.0%，可阻隔飞沫、血液、体液、分泌物等，并阻止经空气传播的直径不大于5微米感染因子或近距离接触经飞沫传播疾病而发生感染的口罩。"
+  },
+  {
+   "cn": "慢性病治疗功能评价系统",
+   "en": "the functional assessment of chronic illness therapy, FACIT",
+   "source": "社会医学名词",
+   "wordNumber": "5.4.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "一种慢性病患者生命质量量表系统。其是由一个测量癌症患者生命质量共性部分的量表（共性模块）和针对一些特定癌症、某些慢性病、治疗和症状的特异模块构成的量表群。由美国结局研究与教育中心的塞拉（Cella）等"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

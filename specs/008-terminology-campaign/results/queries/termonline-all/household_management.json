@@ -1,0 +1,752 @@
+{
+ "key": "household management",
+ "term": "household management",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:51:31+00:00",
+ "status": "ok",
+ "note": "variant=household management; 审定公布名词库=1901; 海峡两岸名词对照库=253; 其他来源数据库=248; 预公布名词数据库=170; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "集体户",
+   "en": "institutional household,collective household",
+   "source": "计划生育名词",
+   "wordNumber": "01.140",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "以集体共同住宿生活为单位的立户者。"
+  },
+  {
+   "cn": "家用洗涤剂",
+   "en": "household detergent",
+   "source": "精细化工名词",
+   "wordNumber": "06.0078",
+   "subjectFullName": "精细化工_表面活性剂",
+   "subjectName": "表面活性剂",
+   "publishYear": "2025",
+   "definition": "以住宅和家庭设备、用具、衣物和精细物品为对象的洗涤剂。分为衣物用洗涤剂、住宅用洗涤剂、厨房用洗涤剂和精细物品用洗涤剂四类。"
+  },
+  {
+   "cn": "户籍",
+   "en": "household registration",
+   "source": "农学名词",
+   "wordNumber": "19.237",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "国家户政管理机构对自然人按户记载家庭人口基本信息的档案资料。被用作人口管理手段，甚至是就学、就业、社会福利等的分类管理依据。"
+  },
+  {
+   "cn": "专业户",
+   "en": "specialized household",
+   "source": "经济学名词",
+   "wordNumber": "15.051",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "在中国农村中，根据自身的技能、特长和市场的状况，形成专门从事某项生产和经营的农户，如养猪专业户、运输专业户等。"
+  },
+  {
+   "cn": "户籍登记",
+   "en": "household registration",
+   "source": "计划生育名词",
+   "wordNumber": "01.122",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "公民到户籍登记机关申报本户有关人口状况的记载。"
+  },
+  {
+   "cn": "豪斯霍尔德变换",
+   "en": "Householder transformation",
+   "source": "数学名词",
+   "wordNumber": "010.0456",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "豪斯霍尔德矩阵",
+   "en": "Householder matrix",
+   "source": "数学名词",
+   "wordNumber": "010.0457",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "豪斯霍尔德法",
+   "en": "Householder method",
+   "source": "数学名词",
+   "wordNumber": "010.0458",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "家电涂料",
+   "en": "household appliance coating",
+   "source": "精细化工名词",
+   "wordNumber": "05.0133",
+   "subjectFullName": "精细化工_涂料_通用涂料",
+   "subjectName": "通用涂料",
+   "publishYear": "2025",
+   "definition": "大小家用电器的整机和零部件涂装专用的涂料。主要是金属（冷轧钢板或铝合金材料）箱体外壳和零部件，以及塑料零部件两大类。"
+  },
+  {
+   "cn": "家庭联产承包责任制",
+   "en": "household contract system",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.276",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "农民以家庭为单位向集体经济组织承包土地等生产资料和生产任务的农业生产责任制形式。是我国现阶段农村的一项基本经济制度。"
+  },
+  {
+   "cn": "专业农户",
+   "en": "specialized farmer household",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.290",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "农村中从事特定农业生产并获得主要经济收入的农户。"
+  },
+  {
+   "cn": "单身户",
+   "en": "one-person household",
+   "source": "计划生育名词",
+   "wordNumber": "01.139",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "独身生活的个人组成的户。指独立生活的终身未婚、离婚后未再婚或尚未正式结婚的成年男性或女性。"
+  },
+  {
+   "cn": "家庭电话普及率",
+   "en": "household telephone penetration",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.010",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "拥有电话服务的家庭所占的百分比。是普遍服务水平的基本度量。"
+  },
+  {
+   "cn": "家用电器",
+   "en": "household [electrical] appliance",
+   "source": "电气工程名词",
+   "wordNumber": "23.002",
+   "subjectFullName": "电气工程_日用电器",
+   "subjectName": "日用电器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "管理",
+   "en": "management",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "管理者在特定的环境下，对组织的各类资源进行有效的计划、组织、领导和控制，以实现组织目标的活动过程。"
+  },
+  {
+   "cn": "管理",
+   "en": "management",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.001",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "通过获取信息、决策、计划、组织、领导、控制和创新等职能的发挥来分配、协调、有效整合一切可以调用的资源，以实现既定目标的活动。"
+  },
+  {
+   "cn": "管理者",
+   "en": "manager",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.182",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "工程共同体中处于不同层次和岗位的领导者或负责人。相对于工程师和工人，他们是具有组织、协调、指挥和决策等才能的复合型人才，能够从总体、全局出发考虑问题，把自己所负责的部门目标与工程总体目标挂钩，自觉维护"
+  },
+  {
+   "cn": "易管理性",
+   "en": "manageability",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0207",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息系统的应用程序及其所有重要支持服务和设备易于监视，以便采取可能的纠正和预防操作的特性。"
+  },
+  {
+   "cn": "管理站",
+   "en": "manager",
+   "source": "自动化名词",
+   "wordNumber": "04.342",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "户籍",
+   "en": "hu ji;household register",
+   "source": "中国古代史名词",
+   "wordNumber": "1.304",
+   "subjectFullName": "中国古代史_通论_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "以户为单位登记人口等项资料的官方簿籍。起源甚早，战国秦汉趋于完备，每年八月案比。魏晋以来分黄、白籍，常检籍、土断，别其户等，北魏至隋唐由乡里配合州县编定，综合登录丁口、身份、田土等项，据以征发赋役。宋"
+  },
+  {
+   "cn": "家庭综合保险单",
+   "en": "household policy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "另类家庭",
+   "en": "alternative households",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "家庭金融公司",
+   "en": "household finance corporation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "管理",
+   "en": "management",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可管理性，易管理性",
+   "en": "manageability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存储管理",
+   "en": "memory management\",\"storage management",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统管理",
+   "en": "ecosystem management",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "目标管理",
+   "en": "objective management",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "维修管理",
+   "en": "maintenance management",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "废物管理",
+   "en": "waste management",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冲突管理",
+   "en": "conflict management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "参与管理",
+   "en": "participative management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "疼痛管理",
+   "en": "pain management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人事管理",
+   "en": "personnel management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时间管理",
+   "en": "time management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "印象管理,印象整饰",
+   "en": "impression management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯管理",
+   "en": "career management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "危机管理",
+   "en": "crisis management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "绩效管理",
+   "en": "performance management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "贫困户",
+   "en": "poor households",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "家庭服务机器人",
+   "en": "household service robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "管理系统",
+   "en": "Management System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风险管理",
+   "en": "risk management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偏好管理",
+   "en": "preference management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "管道管理",
+   "en": "pipeline management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享管理",
+   "en": "sharing management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "管理风险",
+   "en": "management risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集群管理",
+   "en": "cluster management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "管理标准",
+   "en": "Management Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标识管理",
+   "en": "labelling management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全管理",
+   "en": "Security Management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "痕迹化管理",
+   "en": "trace management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "户籍",
+   "en": "household registration",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "中国历代政府为掌握户口数量而设置的一种簿籍登记制度。现代户籍制度的建立是以1958年的《中华人民共和国户口登记条例》为标志，对第一次明确将城乡居民区分为“农业户口”和“非农业户口”，并据此逐渐形成城乡"
+  },
+  {
+   "cn": "分家",
+   "en": "household division",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "因家庭内部的人口增加所引发的家庭生活空间的重新组合，往往伴随家庭成员的财产和责权的移动。"
+  },
+  {
+   "cn": "户籍人口",
+   "en": "household population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "一般分为家庭户人口与集体户人口。家庭户人口是指有婚姻、血缘或收养关系，居住在一起并分别注册为一户的全部人口，以主管人为户主。单身居住也注册为一个家庭户，本人即户主，也属于家庭户人口。集体户人口是因工作"
+  },
+  {
+   "cn": "低保户",
+   "en": "household with low insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.80",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国家庭人均纯收入低于当地最低生活保障标准的居（村）民，享受最低生活保障补助的家庭。"
+  },
+  {
+   "cn": "监督管理",
+   "en": "supervision management",
+   "source": "消毒学",
+   "wordNumber": "5",
+   "subjectFullName": "消毒学_监督管理",
+   "subjectName": "监督管理",
+   "publishYear": "2025",
+   "definition": "行政机关依据相关法律法规和标准开展的对消毒产品生产、经营、使用环节进行监督和管理的行政执法行为。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "在质量方面的指挥和控制活动，通常包括制定质量方针和质量目标以及质量策划、质量控制、质量保证和质量改进。"
+  },
+  {
+   "cn": "应急管理",
+   "en": "emergency management",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.10",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "避免事故发生或减轻事故后果，需要立即采取某些超出正常工作程序的行动。"
+  },
+  {
+   "cn": "数据管理",
+   "en": "data management",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "对数据进行编制和存储的研究行动。可以使他人接触数据和重复数据分析。"
+  },
+  {
+   "cn": "组织管理",
+   "en": "organizational management",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.9",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "管理者运用权威，通过协调组织内部人力、物力、财力等要素，实现组织目标的活动和过程。"
+  },
+  {
+   "cn": "印象管理",
+   "en": "impression management",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "个体通过一定的方式影响别人形成的对自己的印象的过程，是自我调节的一个重要方面。其中隐含了一种基本动机，即人们渴望被别人积极看待，避免被别人消极看待。"
+  },
+  {
+   "cn": "个案管理",
+   "en": "case management",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "个案工作的一种模式，即结合各种不同专业的工作人员为案主提供服务的过程，社会工作者在其中主要负责服务协调的工作。包括申请、结案，调查、诊断，计划拟定，执行计划，监督、协调，评估、结案6个程序。"
+  },
+  {
+   "cn": "财政管理",
+   "en": "financial management",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.36",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "对有关社会服务输送方案所需要的财物资源的确认和获取，并确保这些资源被有效使用和妥善记载的活动。"
+  },
+  {
+   "cn": "人事管理",
+   "en": "personnel management",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.37",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "对社会服务机构的专业人员、半专业人员和志愿人员的任用，培训与发展，激励和维持的活动。"
+  },
+  {
+   "cn": "服务管理",
+   "en": "service management",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.40",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "社会服务机构对相关服务进行的管理，通常包括竞标、资金计划、需求评估、方案设计、执行和检讨等。"
+  },
+  {
+   "cn": "管理模式",
+   "en": "management model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "强调督导对被督导者负有行政管理和督促检查职责的督导模式。其按机构计划安排的工作任务进行督导，即是否能完成工作任务是督导最关注部分，并且是以技术为本的。督导是“问题—解决”取向的，着重帮助被督导者解决完"
+  },
+  {
+   "cn": "生产管理",
+   "en": "production management",
+   "source": "马克思主义",
+   "wordNumber": "02.0136",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "对企业的生产经营活动进行组织、计划、指挥、监督和调节等一系列职能的总称。旨在充分运用企业拥有的人力、物力、财力，使之发挥最大的效果，以达到企业的既定目标。"
+  },
+  {
+   "cn": "民主管理",
+   "en": "democratic management",
+   "source": "马克思主义",
+   "wordNumber": "03.0571",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民主管理是相对于权威管理而言的，指管理者遵循公正的原则，采用民主的方式。比如：民主选举、民主决策、民主监督等，发挥成员的积极主动性，协调组织成员的行为，以实现个体的自我管理和组织的科学管理。"
+  },
+  {
+   "cn": "社会管理",
+   "en": "social management",
+   "source": "马克思主义",
+   "wordNumber": "04.0205",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "政府和社会组织为促进社会系统协调运转，对社会系统的组成部分、社会生活的不同领域以及社会发展的各个环节进行组织、协调、指导、规范、监督和纠正社会失灵的过程。"
+  },
+  {
+   "cn": "成本管理",
+   "en": "cost management",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.6",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "医疗机构对医疗服务所消耗所有资源的货币进行的管理。"
+  },
+  {
+   "cn": "膳食管理",
+   "en": "dietary management",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "按照规定制定并执行贯穿膳食制作全过程的场所及设施设备清洗消毒、维修保养校验、原料采购至供餐全过程控制管理、餐具饮具清洗消毒、食品添加剂使用管理等的制度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

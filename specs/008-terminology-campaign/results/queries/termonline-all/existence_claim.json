@@ -1,0 +1,612 @@
+{
+ "key": "existence claim",
+ "term": "existence claim",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:36:37+00:00",
+ "status": "ok",
+ "note": "variant=existence claim; 审定公布名词库=114; 海峡两岸名词对照库=80; 其他来源数据库=7; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "存在[性]",
+   "en": "existence",
+   "source": "数学名词",
+   "wordNumber": "01.0032",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "索赔",
+   "en": "claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0331",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_费用管理",
+   "subjectName": "费用管理",
+   "publishYear": "2016",
+   "definition": "合同当事人的一方因对方未履行或不能正确履行义务而受到损失时，向对方提出的赔偿要求。"
+  },
+  {
+   "cn": "索赔",
+   "en": "claim",
+   "source": "水利科学技术名词",
+   "wordNumber": "09.200",
+   "subjectFullName": "水利科学技术_水利工程施工_施工管理（水利）",
+   "subjectName": "施工管理（水利）",
+   "publishYear": "1997",
+   "definition": "在工程承包合同执行过程中，由于合同当事人双方的某一方负责的原因给另一方造成经济损失或工期延误，通过合法程序向对方要求补偿或赔偿的活动。"
+  },
+  {
+   "cn": "索赔",
+   "en": "claims",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.154",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "存在空间",
+   "en": "existence space",
+   "source": "建筑学名词",
+   "wordNumber": "01.0098",
+   "subjectFullName": "建筑学_总论_建筑空间及建筑形式美学基础",
+   "subjectName": "建筑空间及建筑形式美学基础",
+   "publishYear": "2014",
+   "definition": "取决于人及其群体在其中的实际存在状况或存在方式的客观性空间。挪威建筑师诺伯格–舒尔茨(C.?Norberg-Schulz)所提出的关于存在空间的要素，以及从宏观到微观不同阶段的知觉图式体系等概念，丰富"
+  },
+  {
+   "cn": "实际胶质",
+   "en": "existent gum",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.1194",
+   "subjectFullName": "化工（一）_分析、化验、评定",
+   "subjectName": "分析、化验、评定",
+   "publishYear": "2017",
+   "definition": "在规定试验条件下，测得燃料的蒸发残留物。是判断油品安定性的指标，用mg/100mL表示。"
+  },
+  {
+   "cn": "实际胶质",
+   "en": "existent gum",
+   "source": "石油名词",
+   "wordNumber": "06.0331",
+   "subjectFullName": "石油_石油炼制_石油炼制产品性质及评价",
+   "subjectName": "石油炼制产品性质及评价",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "原地形标高",
+   "en": "existing elevation",
+   "source": "风景园林名词",
+   "wordNumber": "08.0065",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程地形整理",
+   "subjectName": "风景园林工程地形整理",
+   "publishYear": "2025",
+   "definition": "原有地面的相对或绝对高度。"
+  },
+  {
+   "cn": "存在约束",
+   "en": "existing constraint",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0217",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "键属性的值不能为空的一种约束。"
+  },
+  {
+   "cn": "现有竞争者",
+   "en": "existing rivalry",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0614",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "同行业中，已经存在的服务于同一目标市场的企业竞争对手。"
+  },
+  {
+   "cn": "既有线",
+   "en": "existing line",
+   "source": "土木工程名词",
+   "wordNumber": "08.141",
+   "subjectFullName": "土木工程_铁路工程_铁路设计",
+   "subjectName": "铁路设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "既有铁路",
+   "en": "existing railway",
+   "source": "铁道科学技术名词",
+   "wordNumber": "01.0032",
+   "subjectFullName": "铁道科学技术_铁道工程总类",
+   "subjectName": "铁道工程总类",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "现有公路",
+   "en": "existing highway",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "旧桥",
+   "en": "existing bridge",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "营养声称",
+   "en": "nutrition claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0453",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "对食品营养相关特性的描述和说明，如能量水平、蛋白质含量水平、钠含量水平等。其中包括含量声称和比较声称。"
+  },
+  {
+   "cn": "含量声称",
+   "en": "content claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0454",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "有关食品中能量或营养成分含量水平的描述和说明。相关声称用语包括“含有”“高”“低”“无”等。"
+  },
+  {
+   "cn": "比较声称",
+   "en": "comparative claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0455",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "与消费者熟知的同类食品的营养成分含量或能量值进行比较之后的声称。相关声称用语包括“增加”或“减少”等。"
+  },
+  {
+   "cn": "属性声称",
+   "en": "property claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0456",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "对食品营养属性的声称,如强化、多维、脱脂、瘦等。"
+  },
+  {
+   "cn": "健康声称",
+   "en": "health claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0458",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "任何叙述、建议或暗示在某个食品种类、某种食品或其成分之一与健康之间存在某种关系的声称。"
+  },
+  {
+   "cn": "声明期",
+   "en": "claim period",
+   "source": "林学名词",
+   "wordNumber": "06.429",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "对某一特定的产品或产品组，企业为了使用认证标识或做出认证声明而确定的计算认证原料滚动百分比的时间期限。其最长期限为12个月。"
+  },
+  {
+   "cn": "疑存",
+   "en": "existence doubtful",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "现行抵押",
+   "en": "existing mortgage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现有数据",
+   "en": "existing data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "现有船",
+   "en": "existing ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保险索赔",
+   "en": "insurance claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不良债权",
+   "en": "bad claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "估损人",
+   "en": "claim assessor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际间的债权",
+   "en": "international claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合理的索赔",
+   "en": "legitimate claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币债权",
+   "en": "money claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融债权",
+   "en": "financial claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "理赔",
+   "en": "claim settlement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "市场索赔",
+   "en": "market claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔代理人",
+   "en": "claim agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔单证",
+   "en": "claim document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔金额",
+   "en": "claim amount",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔清单",
+   "en": "claim note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔书",
+   "en": "claim letter",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔条款",
+   "en": "claim clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔通知",
+   "en": "claim notice",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "恍惚",
+   "en": "Intangible Existence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化核赔",
+   "en": "digital claims appraisal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三界",
+   "en": "Traidhātuka / Three Realms of Existence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理一分殊",
+   "en": "There Is But One Li (Universal Principle), Which Exists in Diverse Forms.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "夹绳器",
+   "en": "clam cleat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协和万邦",
+   "en": "Coexistence of All in Harmony",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存在",
+   "en": "being existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0012",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在不同派别的哲学中，“存在”这一范畴在不同意义上被使用。在马克思主义哲学中，存在是物质的同义语。"
+  },
+  {
+   "cn": "营养声称",
+   "en": "nutrition claim",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.36",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "对食品营养特性的描述和说明，营养声称包括含量声称和比较声称。"
+  },
+  {
+   "cn": "非压抑性生存",
+   "en": "non  repressive existence",
+   "source": "马克思主义",
+   "wordNumber": "05.0052",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，真正人道的文明可以使人从压抑性生存转变为非压抑性生存，主要表现在两个方面，即异化劳动转变为消遣，性欲升华为爱欲。"
+  },
+  {
+   "cn": "现存照射情况",
+   "en": "existing exposure situation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.1.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类",
+   "subjectName": "照射情况分类",
+   "publishYear": "2025",
+   "definition": "在需要做出采取控制措施的决定时已经存在的照射情况。包括应控制的天然本底辐射的照射；放射性残留物质的照射，这些放射性残留物质来自过去实践（它未曾受到过审管控制）或来自已宣布应急照射情况结束后的核或放射应"
+  },
+  {
+   "cn": "食品真实属性声称",
+   "en": "food authenticity claim",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.12",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在食品标签或销售包装上，对食品的原料、配料、品种、规格、质量、等级、产地等可以判断真假的属性进行的声明和公示。"
+  },
+  {
+   "cn": "营养成分功能声称",
+   "en": "function claim of nutrients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.3",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "严格采用标准用语对某营养成分可以维持人体正常生长、发育和正常生理功能等作用进行的描述和声明。"
+  },
+  {
+   "cn": "损害索赔权",
+   "en": "right to claim damage",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.032",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者在就医过程中因医疗机构及其医务人员过错而权益受损时，享有的获得经济赔偿的权利。"
+  },
+  {
+   "cn": "物质存在的基本形式",
+   "en": "basic forms of material existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0020",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "时间是物质运动的持续性、间隔性和顺序性。空间是物质运动的广延性、伸张性。时间和空间是与运动着的物质不可分离的基本存在形式，不存在与物质分离的绝对时空。"
+  },
+  {
+   "cn": "保健食品功能声称",
+   "en": "function claim of health food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.4",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "严格采用标准用语对保健食品的保健功能进行描述和声明，并在食品标签上进行标注。包括营养素补充剂功能声称和非营养素补充剂功能声称。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方声称",
+   "en": "claims of formula of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.11",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "采用标准用语对婴幼儿配方乳粉产品适用月龄和/或配方中使用的原料来源进行描述和声明，并在食品标签上进行标注，但不得涉及疾病防治、保健益智等内容。"
+  },
+  {
+   "cn": "和平共处",
+   "en": "peaceful coexistence",
+   "source": "马克思主义",
+   "wordNumber": "03.0274",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1919年底列宁提出的社会主义国家处理与不同社会制度国家间关系的原则。其主要内容是：社会主义国家在忠实履行无产阶级国际主义义务的前提下，除了对帝国主义发动侵略战争进行必要自卫外，争取用和平方式解决彼此"
+  },
+  {
+   "cn": "长期共存互相监督",
+   "en": "longterm coexistence and mutual supervision",
+   "source": "马克思主义",
+   "wordNumber": "03.0396",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1956年4月，毛泽东在《论十大关系》中提出的正确处理中国共产党与各民主党派关系的方针。“长期共存”指坚持在共同政治基础上的多党派长期合作；“互相监督”需坚持中国共产党领导和社会主义道路等六项政治标准"
+  },
+  {
+   "cn": "和平共处五项原则",
+   "en": "Five Principles of Peaceful Coexistence",
+   "source": "马克思主义",
+   "wordNumber": "03.0503",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党和中华人民共和国处理国家之间关系的基本原则，这五项原则是：互相尊重主权和领土完整、互不侵犯、互不干涉内政、平等互利、和平共处。该原则最早是由周恩来于1953年12月31日在中国和印度两国政府"
+  },
+  {
+   "cn": "三和路线",
+   "en": "Peaceful coexistence peace contests and peaceful transition lines",
+   "source": "马克思主义",
+   "wordNumber": "05.0220",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "赫鲁晓夫在苏共20大提出的和平共处、和平竞赛、和平过渡的统称。是赫鲁晓夫时期苏联对外战略的主要内容。1956年在苏共二十大上，赫鲁晓夫全面系统地阐述了其对外政策主张：与西方国家和平共处，在和平竞赛中超"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

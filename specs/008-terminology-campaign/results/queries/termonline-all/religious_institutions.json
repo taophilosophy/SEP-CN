@@ -1,0 +1,782 @@
+{
+ "key": "religious institutions",
+ "term": "religious institutions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:45:35+00:00",
+ "status": "ok",
+ "note": "variant=religious institutions; 审定公布名词库=200; 海峡两岸名词对照库=30; 其他来源数据库=42; 预公布名词数据库=111; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "宗教建筑",
+   "en": "religious building",
+   "source": "风景园林名词",
+   "wordNumber": "04.0178",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "安置神祗、进行宗教活动及教徒修行、居住的场所。"
+  },
+  {
+   "cn": "教会档案馆",
+   "en": "religious archives",
+   "source": "档案学名词",
+   "wordNumber": "09.02.012",
+   "subjectFullName": "档案学_外国档案事业史_外国档案机构",
+   "subjectName": "外国档案机构",
+   "publishYear": "2024",
+   "definition": "伴随着基督教会组织体系的建立而产生的档案管理机构。教会档案馆起源于4世纪中叶，负责保存教皇的命令、信件和账目，以及与教皇特权和恩赐有关的文件，从13世纪起其发展成为一种馆藏国际化的档案管理机构。"
+  },
+  {
+   "cn": "宗教出版物",
+   "en": "religious publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.024",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "有关宗教及宗教内容的公开发行的或宗教团体内部性资料的出版物的统称。"
+  },
+  {
+   "cn": "宗教控制",
+   "en": "religious control",
+   "source": "行为医学名词",
+   "wordNumber": "5.048",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "以教规和宗教仪式作为社会控制手段，通过教育和惩罚两种方式约束其信徒的行为。"
+  },
+  {
+   "cn": "宗教地图",
+   "en": "religious map",
+   "source": "测绘学名词",
+   "wordNumber": "04.019",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "反映宗教种类、分布及文化特点的地图。"
+  },
+  {
+   "cn": "宗教建筑",
+   "en": "religious architecture",
+   "source": "建筑学名词",
+   "wordNumber": "02.1130",
+   "subjectFullName": "建筑学_建筑类型及组成_农业建筑",
+   "subjectName": "农业建筑",
+   "publishYear": "2014",
+   "definition": "供安置神祇、进行宗教活动及教徒修行、居住的场所。在建筑文化史上是一种重要的建筑类型。"
+  },
+  {
+   "cn": "宗教教育",
+   "en": "religious education",
+   "source": "教育学名词",
+   "wordNumber": "01.096",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "（1）在一些国家学校中开设的宗教知识教育，旨在帮助学生发展认同感和归属感，同时理解、尊重不同宗教信仰，促进不同宗教之间的和谐相处。（2）宗教院校开展的以培养宗教人才为目的的教育。"
+  },
+  {
+   "cn": "宗教改革",
+   "en": "Religious Reformation",
+   "source": "世界历史名词",
+   "wordNumber": "02.1201",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "16世纪，从德国开始漫延欧洲诸国的反对罗马天主教会的社会运动，提出以信仰得救为核心和建立廉俭教会的系统理论。"
+  },
+  {
+   "cn": "宗教骑士团",
+   "en": "Religious Chivalry",
+   "source": "世界历史名词",
+   "wordNumber": "02.0531",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "第一次十字军东侵之后，西欧天主教会与封建主为保卫其在东方侵占的领地而组织的宗教性封建军事团体。"
+  },
+  {
+   "cn": "宗教活动",
+   "en": "religious activities",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.193",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "宗教信徒举行的各种宗教与法事活动。"
+  },
+  {
+   "cn": "制度",
+   "en": "institution",
+   "source": "经济学名词",
+   "wordNumber": "05.031",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人类共同遵守的人为设定的办事规章或行动准则。诺思把制度定义为一个社会“博弈规则”，博弈规则可以分为两类：正式规则（如宪法、产权制度和合同）和非正式规则（如行为规范、道德和习俗）。许多情况下，制度也是某"
+  },
+  {
+   "cn": "胡斯宗教改革",
+   "en": "Hussite Religious Reformation",
+   "source": "世界历史名词",
+   "wordNumber": "02.0900",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "15世纪初，在捷克人民反对教会的过程中，以胡斯为首的宗教改革家批判天主教会而主张实行的宗教改革。"
+  },
+  {
+   "cn": "新闻制度",
+   "en": "news institutions",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.013",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "执政党、立法和行政机关用以保障、管理新闻媒体运作的规范系统与规则体系。这些规范与规则，既明示于正式的法律法规和文件章程，也可能以默契、惯例的方式产生作用和影响。"
+  },
+  {
+   "cn": "档案机构",
+   "en": "archival institution",
+   "source": "档案学名词",
+   "wordNumber": "01.04.008",
+   "subjectFullName": "档案学_总论_档案事业与档案机构",
+   "subjectName": "档案事业与档案机构",
+   "publishYear": "2024",
+   "definition": "依法承担档案管理职责的组织机构。"
+  },
+  {
+   "cn": "工程制度",
+   "en": "engineering institution",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.019",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "围绕工程活动形成的一系列行为规范、规章、条例和法律等的总和。"
+  },
+  {
+   "cn": "出版单位",
+   "en": "publishing institution",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.027",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "从事出版活动的专业机构，主要有出版社、报社、杂志社等。"
+  },
+  {
+   "cn": "出版机构",
+   "en": "publishing institution",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.028",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "承担编辑出版任务的机构。"
+  },
+  {
+   "cn": "主管单位",
+   "en": "superintendent institution",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.029",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "主办出版机构的单位的上级单位。"
+  },
+  {
+   "cn": "正式制度",
+   "en": "formal institution",
+   "source": "经济学名词",
+   "wordNumber": "05.032",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "社会已经形成、由法律法规或其他权威文件规范的制度。一般而言，正式制度具有强制约束力的，如政治制度、法律制度、产权制度、人口制度、就业制度和婚姻制度等。由于正式制度是指导和规范人们行为的一种准则，与公平"
+  },
+  {
+   "cn": "非正式制度",
+   "en": "informal institution",
+   "source": "经济学名词",
+   "wordNumber": "05.033",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人们在长期生活交往过程中无意识形成的，它是人们约定俗成、共同恪守的行为准则。因而具有持久的生命力，并构成代代相传的文化的一部分，它主要包括价值信念、伦理规范、道德观念、风俗习惯、意识形态等因素。它们同"
+  },
+  {
+   "cn": "宗教显露",
+   "en": "religious revelation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "放款机构",
+   "en": "lending institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币制度",
+   "en": "monetary institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融机构",
+   "en": "financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资机构",
+   "en": "investing institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信贷机构",
+   "en": "credit institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信托机构",
+   "en": "fiduciary institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "机构投资者",
+   "en": "institutional investor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "由常设仲裁机构处理的仲裁",
+   "en": "institutional arbitration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际货币机构",
+   "en": "international monetary institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融机构",
+   "en": "international financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互助储蓄机构",
+   "en": "mutual saving institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通金融机构",
+   "en": "ordinary financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人金融机构",
+   "en": "private financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "回回药物院",
+   "en": "Muslin Medical Institute",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "京师药物院，广惠司",
+   "en": "Capital Medical Institute",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融协会",
+   "en": "Institute of International Finance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人非金融机构",
+   "en": "private non-financial institute",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际海洋学院",
+   "en": "International Ocean Institute， IOI",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "美国石油协会分级",
+   "en": "American Petroleum Institute Classification",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "政府机构改革",
+   "en": "government institutional reform",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "宗教",
+   "en": "<div> Buddhist Teachings / Religious Sect</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技机构监管",
+   "en": "supervision on Fintech institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国小额信贷机构联席会",
+   "en": "China Microfinance Institution Association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "英国标准协会",
+   "en": "British Standards Institution (BSI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据交易服务机构",
+   "en": "data trading service institution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合格境内机构投资者",
+   "en": "Qualified Domestic Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合格境外机构投资者",
+   "en": "Qualified Foreign Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "武汉病毒所",
+   "en": "Wuhan Institute of Virology",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提出抗议请求",
+   "en": "institute a protest protocol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技机构内控",
+   "en": "internal control of Fintech institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疾病预防控制机构",
+   "en": "disease prevention and control institutions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "党的制度建设",
+   "en": "the Party's institutional development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人民币合格境外机构投资者",
+   "en": "RMB Qualified Foreign Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧洲电信标准学会",
+   "en": "European Telecommunications Standards Institute (ETSI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宗教仪式",
+   "en": "religious rite,religious ritual",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "各个宗教及其派别所实践的、具有特定含义、规则和功能等的典礼或仪轨。"
+  },
+  {
+   "cn": "宗教符号",
+   "en": "religious symbol",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.17",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "通过建筑物、艺术品、自然物或现象等方式建立的宗教表达形式。"
+  },
+  {
+   "cn": "宗教多元论",
+   "en": "religious pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "认为不同信仰体系可以和谐并存、共同发挥其作用的理论。强调不同宗教有相通的方面，承认多样性，提倡宗教宽容。"
+  },
+  {
+   "cn": "宗教拒世",
+   "en": "religious rejection",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.7",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "马克斯·韦伯用来说明救赎宗教中拒斥现世的伦理立场的概念。在他的研究中，禁欲与神秘主义是两种对立的拒世形态。"
+  },
+  {
+   "cn": "宗教经济",
+   "en": "religious economy",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.19",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "当代宗教社会学中，以理性选择理论为基础，以供给需求关系等社会经济理论和方法来分析个体、群体的宗教行为模式的研究领域。"
+  },
+  {
+   "cn": "宗教补偿",
+   "en": "religious compensator",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.20",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "宗教社会学中理性选择学派提出的基本概念，认为个体的宗教行为是理性的选择，在此前提下，认为宗教对个人提供了某种奖励或报偿。"
+  },
+  {
+   "cn": "宗教个人主义",
+   "en": "religious individualism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "现代社会中普遍存在的一个倾向，即在道德与信仰方面更强调个人的选择，而非首先从宗教传统中寻求指导。"
+  },
+  {
+   "cn": "宗教认同",
+   "en": "religious identity",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.22",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "用宗教的归属、边界、关联来定义自我的特征。有集体认同、社会认同和自我认同三个层次。"
+  },
+  {
+   "cn": "宗教体验",
+   "en": "religious experience",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.23",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "威廉·詹姆士（William James）用来表示任何结合宗教的对象和相应的情感经验的术语，是宗教的一个核心内容，也是宗教性的关键维度。"
+  },
+  {
+   "cn": "宗教激动",
+   "en": "religious thrill",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.24",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "由某一信仰或崇拜导致强烈的生理、心理的体验。"
+  },
+  {
+   "cn": "宗教共同体",
+   "en": "religious community",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.1",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "从宗教的共同行动、团体生活中产生关联纽带，将个体团结在群体之中，由此所形成的具有凝聚力的团结的共同体。"
+  },
+  {
+   "cn": "宗教组织",
+   "en": "religious organization",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "以特定信仰或宗教形式为基础形成的各种组织形式的总称。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "宗教膜拜",
+   "en": "religious cult",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.6",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "以某一或某些特定的上帝或神灵、甚至圣人或具有通灵能力的个人为对象的宗教信仰与实践，往往与社会的某些宗教制度有关，但表现形式较为新奇或特异。"
+  },
+  {
+   "cn": "宗教法",
+   "en": "religious law",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.1",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "以宗教教义为基础，调整特定社会关系、个人的行为或思想的规范体系。“神的话语是法”，即神的话语不可以被政治等其他力量所修改或决定。如犹太教的哈拉卡和伊斯兰教的沙里亚法规，二者都是“遵守之道”。"
+  },
+  {
+   "cn": "宗教立法",
+   "en": "religious legislation",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "体现出现代国家的宗教立场、宗教政策的相关立法的总称。"
+  },
+  {
+   "cn": "宗教教派",
+   "en": "religious denominations",
+   "source": "马克思主义",
+   "wordNumber": "04.0027",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "宗教社会学用语。从一种较大的宗教团体中分裂出来的小团体。自认为其信仰是唯一真正的信仰，并负有恢复宗教真面貌的使命。在教派中，一般有较强烈的共同情感与宗教上的自我认同感。"
+  },
+  {
+   "cn": "宗教教育",
+   "en": "religious education",
+   "source": "马克思主义",
+   "wordNumber": "04.0028",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广义的宗教教育指一切与宗教有关的教育制度和活动；狭义的宗教教育指直接由宗教组织承办、以培养宗教神职人员为目的、以宗教神学知识为内容的教育制度。"
+  },
+  {
+   "cn": "宗教人类学",
+   "en": "religious anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0298",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一门研究宗教现象的文化人类学（民族学）分支学科，关注宗教信仰、仪式、神话、宗教实践等方面的社会文化现象，并试图理解它们对个体和社会的影响。"
+  },
+  {
+   "cn": "宗教庆典",
+   "en": "religious celebrations",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0236",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "旨在礼赞神，是古老宗教文化传统的一部分，几乎出现于所有宗教信仰体系之中。它包括传统的礼仪、礼制、习俗和宗教仪式，以及每年举行的大型活动，如斋戒、宗教节、礼拜等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

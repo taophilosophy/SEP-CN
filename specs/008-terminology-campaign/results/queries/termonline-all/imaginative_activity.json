@@ -1,0 +1,742 @@
+{
+ "key": "imaginative activity",
+ "term": "imaginative activity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:45:19+00:00",
+ "status": "ok",
+ "note": "variant=imaginative activity; 审定公布名词库=1796; 海峡两岸名词对照库=661; 其他来源数据库=35; 预公布名词数据库=158; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "想象",
+   "en": "imagination",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.218",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "根据研究目的，将感觉、知觉、表象按照原理和事物的逻辑再现、改造、组合，以探索规律的创造性思维活动。"
+  },
+  {
+   "cn": "想象",
+   "en": "imagination",
+   "source": "行为医学名词",
+   "wordNumber": "4.048",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "大脑中形成从未在客观世界感知到的表象或观念的过程。"
+  },
+  {
+   "cn": "想象",
+   "en": "imagination",
+   "source": "心理学名词",
+   "wordNumber": "02.501",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "大脑中形成从未在客观世界感知到的表象或观念的过程。"
+  },
+  {
+   "cn": "想象",
+   "en": "imagine",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0394",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "在大脑意识控制下，思维对感官感知并储存的形象信息进行分解并重新组合的活动。"
+  },
+  {
+   "cn": "器官芽",
+   "en": "imaginal disc,imaginal bud",
+   "source": "昆虫学名词",
+   "wordNumber": "05.158",
+   "subjectFullName": "昆虫学_昆虫发育与生活史",
+   "subjectName": "昆虫发育与生活史",
+   "publishYear": "2000",
+   "definition": ""
+  },
+  {
+   "cn": "想象表象",
+   "en": "imaginative image",
+   "source": "行为医学名词",
+   "wordNumber": "4.047",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "对已有的表象进行改造而形成的新形象。"
+  },
+  {
+   "cn": "想象表象",
+   "en": "imaginative image",
+   "source": "心理学名词",
+   "wordNumber": "02.497",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对已有表象改造而成的新形象。"
+  },
+  {
+   "cn": "道德想象力",
+   "en": "moral imagination",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.033",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "在道德情境中发挥主体的想象力，通过移情的方式尽可能地洞察道德情境中的各种处境，并且在道德困境中发挥想象力的作用，寻求或创造新的可能性。其内涵既包括以道德的方式想象各种可能性，也包括尽可能地想象关于道德"
+  },
+  {
+   "cn": "创造想象",
+   "en": "creative imagination",
+   "source": "行为医学名词",
+   "wordNumber": "4.049",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "不依据现成的语言描述或图样示意，独立创造出新形象的过程。具有首创性、独立性和新颖性的特点。"
+  },
+  {
+   "cn": "再造想象",
+   "en": "reproductive imagination",
+   "source": "行为医学名词",
+   "wordNumber": "4.05",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "以经验、记忆为基础，根据语言描述或图样示意，在头脑中形成新形象的过程。"
+  },
+  {
+   "cn": "合理想象",
+   "en": "rational imagination",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.093",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻真实",
+   "subjectName": "新闻真实",
+   "publishYear": "2022",
+   "definition": "为新闻虚构辩护的一种理由。这类虚构的特点是：用想象来连接事实的碎片，把想象的情节作为真事实情加以叙述。"
+  },
+  {
+   "cn": "再造想象",
+   "en": "reproductive imagination",
+   "source": "心理学名词",
+   "wordNumber": "02.502",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "以经验、记忆为基础，根据语言描述或图样示意，在头脑中形成相应新形象的过程。"
+  },
+  {
+   "cn": "创造想象",
+   "en": "creative imagination",
+   "source": "心理学名词",
+   "wordNumber": "02.503",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "不依据现成的语言描述或图样示意，独立地创造出新形象的过程。"
+  },
+  {
+   "cn": "有意想象",
+   "en": "voluntary imagination",
+   "source": "心理学名词",
+   "wordNumber": "02.504",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "有预定目的、主动地进行的想象。"
+  },
+  {
+   "cn": "无意想象",
+   "en": "involuntary imagination",
+   "source": "心理学名词",
+   "wordNumber": "02.505",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "无预定目的和计划的想象。"
+  },
+  {
+   "cn": "地理学想象力",
+   "en": "geographical imagination",
+   "source": "地理学名词",
+   "wordNumber": "17.031",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "对地方、空间和景观在构成和引导社会生活方面重要性的一种洞察。"
+  },
+  {
+   "cn": "形象思维",
+   "en": "imaginal thinking",
+   "source": "行为医学名词",
+   "wordNumber": "4.038",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "运用表象进行认知操作的思维活动。在头脑中对已有的表象进行加工、改造，形成新形象的心理过程。"
+  },
+  {
+   "cn": "成虫盘",
+   "en": "imaginal disc",
+   "source": "动物学名词",
+   "wordNumber": "4.0412",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "全变态昆虫（如鳞翅目、双翅目）胚胎发育阶段由特定区域的表皮细胞内陷形成的囊状结构。其内为未分化细胞团。在从幼虫到成虫变态的过程中，分别发育为腿、触角、翅、口器等器官。"
+  },
+  {
+   "cn": "形象思维",
+   "en": "imaginal thinking",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.171",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "以直观形象和表象为支柱的思维过程。通过概括事物形象而产生。"
+  },
+  {
+   "cn": "形象记忆",
+   "en": "imaginal memory",
+   "source": "心理学名词",
+   "wordNumber": "02.528",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "以感知过的事物形象为内容的记忆。"
+  },
+  {
+   "cn": "想象",
+   "en": "imagination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成虫器官芽，成虫盘",
+   "en": "imaginal disc\",\"imaginal bud",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "想象表象",
+   "en": "imaginative image",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "再造想象",
+   "en": "reproductive imagination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意想象",
+   "en": "involuntary imagination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "创造性想象",
+   "en": "creative imagination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地理学想象力",
+   "en": "geographical imagination",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "想象暴露法",
+   "en": "imaginal exposure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "形象记忆",
+   "en": "imaginal memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成虫盘",
+   "en": "imaginal disc",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "成体器官发生",
+   "en": "imaginal organogenesis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "器官芽",
+   "en": "imaginal disc",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "神思",
+   "en": "Imaginative  Contemplation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "幻中有真",
+   "en": "Truth in Imagination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据活动",
+   "en": "data activity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活数据学",
+   "en": "Activation Dataology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景激活",
+   "en": "scenario activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动进攻",
+   "en": "active wrestling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加力推挡",
+   "en": "active block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动反击",
+   "en": "active counterattack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据自激活",
+   "en": "data self-activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化活动",
+   "en": "International Standardization Activities",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "想象",
+   "en": "imagination",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.11",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "大脑中形成从未在客观世界感知到的表象或观念的过程。"
+  },
+  {
+   "cn": "想象能力发展",
+   "en": "imagination development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.6",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑从简单的自由联想到创造性想象的能力随年龄增长的发展变化过程。在1岁半至2岁左右产生，2岁以后发展迅速。"
+  },
+  {
+   "cn": "有意想象",
+   "en": "voluntary imagination",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.6.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "有预定目的、主动地进行想象的过程。"
+  },
+  {
+   "cn": "创造想象",
+   "en": "creative imagination",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不依据现成的语言描述或图样示意，独立地创造出新形象的过程。"
+  },
+  {
+   "cn": "想象的共同体",
+   "en": "imagined community",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.38",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "本尼迪克特·安德森提出，把民族定义为一种文化建构的产物。历史上这些民族、民族属性和民族主义的形成和发展主要取决于：宗教信仰的领土化、古典王朝家族的衰微、时间观念的改变、资本主义与印刷术之间的交互作用、"
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "脂肪酶活动度",
+   "en": "lipase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.7",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "一定量试样中的脂肪酶与纯油脂作用所生成的游离脂肪酸的量，用中和1 克试样（干基）中生成的游离脂肪酸所消耗的氢氧化钾的毫克数表示。"
+  },
+  {
+   "cn": "淀粉酶活性",
+   "en": "diastase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.25",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "淀粉酶催化淀粉水解成糖的能力，即1 克蜂蜜所含的淀粉酶在40℃、1 小时内转化1%淀粉溶液的毫升数。酶值的高低与蜂蜜的新鲜程度、成熟度、加工工艺、储藏时间有关。"
+  },
+  {
+   "cn": "酶活力",
+   "en": "enzyme activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "酶在一定条件下催化某一特定反应的能力，是表达酶制剂产品的一个特征性专属指标"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "radioactive activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位时间内放射性核素发生核衰变的总数。符号为A。SI单位：贝可[勒尔]，记作Bq。"
+  },
+  {
+   "cn": "比活度",
+   "en": "specific activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位质量的放射性活度。SI单位为贝可每千克，记作Bq·kg-1。"
+  },
+  {
+   "cn": "活度浓度",
+   "en": "activity concentration",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.5",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位体积的放射性活度。SI单位为贝可每立方米，记作Bq·m-3；或贝可每升，记作Bq·L-1。"
+  },
+  {
+   "cn": "核活动",
+   "en": "nuclear activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "任何研究、生产、提取、加工、处理、应用、搬运、贮存或处置放射性物质或核材料的活动，以及在陆上、水上或空中交通线上运输放射性物质或核材料的活动，或任何其他转移或使用放射性物质或核材料的活动。"
+  },
+  {
+   "cn": "危险活度",
+   "en": "dangerous activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "特定放射源的核素在设定的多种照射情景条件下足以引起人体严重有害的组织反应的最小活度估算值。"
+  },
+  {
+   "cn": "验收活动",
+   "en": "acceptance activity",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对可能产生职业病危害的建设项目在施工完成后，建设单位对职业病防护设施进行的自我评价，合格后该项目方可投入生产和使用。"
+  },
+  {
+   "cn": "活动记录",
+   "en": "activity record",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析一个行动中在时间和空间上各个动作发生顺序和关系的图表，例如一次手术的各个动作和环节。"
+  },
+  {
+   "cn": "社会活动",
+   "en": "social activity",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会成员彼此为对象，为了共同的利益、目标、或兴趣所从事的种种集体活动。"
+  },
+  {
+   "cn": "活动理论",
+   "en": "activity theory",
+   "source": "社会学名词",
+   "wordNumber": "3.15.4.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年与老龄化相关理论",
+   "subjectName": "老年与老龄化相关理论",
+   "publishYear": "2025",
+   "definition": "由美国学者哈韦格斯特(Robert Havighurst）提出的一种社会老年学领域的理论，是脱离理论的反命题，认为老年人应积极参与社会。只有参与，才能使老年人重新认识自我，保护生命的活力。"
+  },
+  {
+   "cn": "感性活动",
+   "en": "perceptual activity",
+   "source": "马克思主义",
+   "wordNumber": "01.0178",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的、活生生的、现实的实践活动，它体现了实践的能动性、主体性。在人的感性活动中把握对象，是马克思主义哲学同旧唯物主义的根本区别。"
+  },
+  {
+   "cn": "身体活动",
+   "en": "physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "由骨骼肌收缩引起的，导致机体能量消耗增加的一切活动，包括职业性、交通性、日常生活体力活动及闲暇时的体育锻炼。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

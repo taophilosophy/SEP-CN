@@ -1,0 +1,782 @@
+{
+ "key": "strategy functions",
+ "term": "strategy functions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:42:35+00:00",
+ "status": "ok",
+ "note": "variant=strategy functions; 审定公布名词库=2893; 海峡两岸名词对照库=685; 其他来源数据库=178; 预公布名词数据库=142; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "职能战略制定",
+   "en": "functional strategy formulation",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0755",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "企业内主要职能部门制订的短期战略计划，是将企业战略转化为职能部门具体行动计划的过程。"
+  },
+  {
+   "cn": "职能[层]战略",
+   "en": "functional-level strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0677",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "在公司层战略的指导下，为了保证公司层战略和业务层战略的贯彻实施而在企业特定管理领域由中层管理人员参与制定的具体战略。"
+  },
+  {
+   "cn": "战略",
+   "en": "strategy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.099",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播战略",
+   "subjectName": "组织传播战略",
+   "publishYear": "2022",
+   "definition": "制定一个组织的长期目标，以及为达到这些目标所采取的行动与资源的分配。广义上，它涉及理性确定组织的重大利益及其目标。狭义上，指通过对资源的利用和劳动效率的合理调配，来实现组织目标并获得竞争优势。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "经济学名词",
+   "wordNumber": "03.160",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人在给定信息集情况下的行动规则。参与人的策略规定了参与人在何种条件下采取何种行动，是一种相机抉择的行动方案。与参与人的行动不同，策略是一种完备的行动规则。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0231",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求而设计的能行过程，它是一个算法过程，但可能需要无穷次做动作才能满足所对应的需求。"
+  },
+  {
+   "cn": "战略",
+   "en": "strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0591",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "组织为求得长期生存和不断发展，为创造和保持竞争优势，对组织的发展目标、达到目标的途径和手段的总体规划。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0284",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "局中人在对策中采用的一个可行的自始至终通盘筹划的行动方案。"
+  },
+  {
+   "cn": "检索策略",
+   "en": "retrieval strategy,search strategy",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.121",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "为实现检索目标而制订的全盘计划和方案，是对整个检索过程的谋划和指导。包括分析检索课题、选择检索系统、确定检索词、构造检索式、实施检索操作、调整检索策略等。"
+  },
+  {
+   "cn": "生态对策",
+   "en": "bionomic strategy,ecological strategy",
+   "source": "生态学名词",
+   "wordNumber": "04.117",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "指各种生物在进化过程中形成针对不同环境的各种特有的对策。"
+  },
+  {
+   "cn": "策略",
+   "en": "policy,strategy",
+   "source": "数学名词",
+   "wordNumber": "011.0398",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "庇护所策略",
+   "en": "refuge strategy",
+   "source": "农学名词",
+   "wordNumber": "15.387",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "抗虫转基因作物在田间种植过程中，通过种植一定比例的非转基因作物来稀释田间抗性等位基因的变异频率，延迟害虫耐受性进化的一种解决方案。"
+  },
+  {
+   "cn": "文献战略",
+   "en": "documentation strategy",
+   "source": "档案学名词",
+   "wordNumber": "03.02.012",
+   "subjectFullName": "档案学_档案管理_档案鉴定",
+   "subjectName": "档案鉴定",
+   "publishYear": "2024",
+   "definition": "美国档案学者海伦·塞穆尔斯于20世纪80年代提出的档案鉴定思想，主要是针对某一正在进行的事项、活动或地域，多机构合作制订确保对该事项、活动或地域进行充分记录的计划。20世纪90年代，她又提出了“机构职"
+  },
+  {
+   "cn": "战略效益",
+   "en": "strategy benefit",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.105",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "对整个企业的生存和发展具有关键作用的效益。如项目对企业层的战略目标所做出的贡献。"
+  },
+  {
+   "cn": "检索策略",
+   "en": "retrieval strategy",
+   "source": "档案学名词",
+   "wordNumber": "06.03.018",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "在分析检索课题内容实质的基础上，选择检索系统、检索途径，确定检索词及其相互逻辑关系等的信息检索方案，其实质是对检索过程的科学规划。"
+  },
+  {
+   "cn": "监察方法",
+   "en": "watchdog strategy",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.156",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "通过偶尔接受使评价函数值变差的点来避免马拉托斯效应的方法。如果在接受一系列这样的点后仍然无法使评价函数充分改进，则返回到这一系列点之前的迭代点，进行常规的迭代搜索。"
+  },
+  {
+   "cn": "采购策略",
+   "en": "procurement strategy",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.062",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "旨在确定物资采购及操作执行的管理原则，以提高采购效率、采购操作规范性及采购总成本的控制水平的方法。"
+  },
+  {
+   "cn": "组织战略",
+   "en": "organizational strategy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.031",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "组织依据自身的资源、能力和使命，在考虑各类相关者利益的前提下，以对自身进行定位的方式，做出的决策和行动。"
+  },
+  {
+   "cn": "传播战略",
+   "en": "communication strategy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.1",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播战略",
+   "subjectName": "组织传播战略",
+   "publishYear": "2022",
+   "definition": "为特定的传播客体(如政府、企业、服务、品牌、产品)制定的，受到一定限制，涵盖多个规划期，且具有全面约束力的传播行动计划。其重点是决定传播客体、目标受众、讯息、措施、时机和执行区域，从而实现战略性传播目"
+  },
+  {
+   "cn": "竞争性战略",
+   "en": "competitive strategy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.102",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播战略",
+   "subjectName": "组织传播战略",
+   "publishYear": "2022",
+   "definition": "组织总体战略制约下的子战略。它既可以在组织外部建立一定的竞争优势,又可以在内部获得较好的协同效应。"
+  },
+  {
+   "cn": "濡化策略",
+   "en": "acculturation strategy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "新闻学与传播学_跨文化传播_跨文化传播基础",
+   "subjectName": "跨文化传播基础",
+   "publishYear": "2022",
+   "definition": "两种不同文化的群体在连续接触的过程中所导致的文化模式的变化，包括相互影响、相互吸引的双向过程，可以导致两种文化彼此的改变，而非仅仅是弱势文化的改变。濡化过程包括两个方面：一是“保持文化和身份”；一是“"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生态对策",
+   "en": "ecological strategy\",\"bionomic strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "编码策略",
+   "en": "coding strategy\",\"encoding strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生态对策",
+   "en": "bionomic strategy\",\"ecological strategy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "庇护所策略",
+   "en": "refuge strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化对策",
+   "en": "evolutionary strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候策略",
+   "en": "climatological strategy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应性策略",
+   "en": "adaptation strategy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "控制策略",
+   "en": "control strategy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "认知策略",
+   "en": "cognitive strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推广策略",
+   "en": "promotion strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理解策略",
+   "en": "comprehension strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "复述策略",
+   "en": "rehearsal strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习策略",
+   "en": "learning strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "应对策略",
+   "en": "coping strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织策略",
+   "en": "organizational strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "精细加工策略",
+   "en": "elaboration strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生殖对策",
+   "en": "reproductive strategy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "K对策",
+   "en": "K-strategy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "r对策",
+   "en": "r-strategy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平台战略",
+   "en": "platform strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化战略",
+   "en": "Standardization Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学习策略",
+   "en": "learning strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全战略",
+   "en": "Security Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO 2016–2020战略规划》",
+   "en": "ISO Strategy 2016–2020",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技战略",
+   "en": "Fintech Strategies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据战略",
+   "en": "Big Data Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宽带中国战略",
+   "en": "Broadband China Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主可控战略",
+   "en": "self-reliance strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容战略",
+   "en": "Digital Inclusion Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元数据管理策略",
+   "en": "metadata management strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府战略",
+   "en": "Digital Government Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动政务策略",
+   "en": "mobile government strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "i-Japan战略",
+   "en": "i-Japan Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化战略",
+   "en": "international standardization strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据使用策略",
+   "en": "data usage strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "为实现卫生目标制定的总体行动方针与实施路径，强调系统性和可操作性，是政策落实的实践框架。"
+  },
+  {
+   "cn": "家庭策略",
+   "en": "family strategy",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.6",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭面临新的外部环境时，家庭及其成员的决策过程和决策时机。例如何时让孩子离家谋生，何时更换住所，何时控制家庭规模等。"
+  },
+  {
+   "cn": "适应策略",
+   "en": "adaptive strategy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.46",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "社会群体在一定时期为了调整和解决来自其内部和外部的压力所采取的行动计划。"
+  },
+  {
+   "cn": "两步走战略",
+   "en": "twostep strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0803",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九大对实现“两个一百年”奋斗目标做出的两步走的战略安排：即从2020年到2035年，在全面建成小康社会的基础上，再奋斗15年，基本实现社会主义现代化；从2035年到本世纪中叶，在基本实现现代化的"
+  },
+  {
+   "cn": "劳工战略",
+   "en": "workforce strategy",
+   "source": "马克思主义",
+   "wordNumber": "05.0195",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国左翼思想家、《新观察家》周刊的创始人安德列·高兹（Andre Gorz）在“新工人阶级论”的基础上提出的一种反资本主义的结构改革战略，即反对劳工运动的传统领导形式，提倡以“新工人阶级”为变革的主要"
+  },
+  {
+   "cn": "沟通策略",
+   "en": "communication strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "根据国家健康促进政策和战略，通过宣传、教育和促进健康的生活方式和负责任的行为，改变导致青少年处于持续不良健康状态的潜在行为模式和态度的行动方案。"
+  },
+  {
+   "cn": "学习策略",
+   "en": "study strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "学生在学习过程中对信息的操纵和加工的能力，也是提高学习效率的关键。"
+  },
+  {
+   "cn": "卫生策略",
+   "en": "health strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "为实现卫生目标而制定的中长期行动框架，涵盖体系建设、疾病防控与健康促进，强调协调与可持续。"
+  },
+  {
+   "cn": "5T策略",
+   "en": "5 T strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.5.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "采用谈话(talking)，培训(training)，教学(teaching)，工具(tools)和照顾(taking care)的方式，以促进和支持学生心理健康的策略。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "三步走战略",
+   "en": "Threestep Development Strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0583",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1987年10月党的十三大提出的中国经济建设分的总体战略部署：第一步从1981年到1990年，国民生产总值翻一番，解决人民的温饱问题；第二步从1991年到20世纪末，国民生产总值再翻一番，人民生活达到"
+  },
+  {
+   "cn": "可持续发展战略",
+   "en": "sustainable development strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0632",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "可持续发展是20世纪80年代提出的一种新发展观，指实现可持续发展的行动计划和纲领，是国家在多个领域实现可持续发展的总称。其核心思想是：经济发展、保护资源和保护生态环境协调一致。它包含两个基本要素即“需"
+  },
+  {
+   "cn": "四个全面",
+   "en": "FourPronged Comprehensive Strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0793",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“四个全面”战略布局是以习近平同志为核心的党中央治国理政战略思想的重要内容。其主要内容包括：全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。“四个全面”战略布局集中体现了时代和实践发展对党"
+  },
+  {
+   "cn": "战略和策略",
+   "en": "strategy and tactic",
+   "source": "马克思主义",
+   "wordNumber": "04.0082",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "战略是对战争全局的筹划和指导，泛指对全局性、高层次的重大问题的筹划和指导。策略指在政治斗争中，为实现一定的战略任务，根据形势的发展而制定的行动准则和斗争方式。泛指善于灵活运用适合当时情况的斗争方式和方"
+  },
+  {
+   "cn": "走出去战略",
+   "en": "going global strategy",
+   "source": "马克思主义",
+   "wordNumber": "04.0186",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国政府大力支持的海外投资战略，指中国企业充分利用国内和国外“两个市场、两种资源”，通过对外直接投资、对外工程承包、对外劳务合作等形式积极参与国际竞争与合作，实现我国经济可持续发展的现代化强国战略。"
+  },
+  {
+   "cn": "食品安全战略",
+   "en": "food safety strategy",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "针对特定时期主要食品安全问题采取行动的一致性框架。"
+  },
+  {
+   "cn": "全球卫生策略",
+   "en": "global health strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "国际社会为促进全球健康公平与合作而制定的战略框架，涵盖疾病防控、体系建设与可持续发展。"
+  },
+  {
+   "cn": "健康治理策略",
+   "en": "health governance strategy",
+   "source": "社会医学名词",
+   "wordNumber": "6.2.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "健康治理体系",
+   "publishYear": "2025",
+   "definition": "多元健康治理主体为实现全民健康目标，共同制定和实施的一整套方向性、系统性、协同性规划方案和行动路径。"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
