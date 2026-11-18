@@ -1,0 +1,742 @@
+{
+ "key": "early preemption",
+ "term": "early preemption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:29:54+00:00",
+ "status": "ok",
+ "note": "variant=early preemption; 审定公布名词库=368; 海峡两岸名词对照库=56; 其他来源数据库=15; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "中断",
+   "en": "preemption",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0152",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "机器故障使得工件加工的停止。"
+  },
+  {
+   "cn": "早熟性",
+   "en": "earliness,early maturity",
+   "source": "畜牧学名词",
+   "wordNumber": "02.223",
+   "subjectFullName": "畜牧学_饲养管理_禽饲养",
+   "subjectName": "禽饲养",
+   "publishYear": "2020",
+   "definition": "母禽开始产蛋的日龄较早的性状，为培育和选择高产蛋用家禽的一个指标。"
+  },
+  {
+   "cn": "提前期",
+   "en": "earliness",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.207",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "客户要求的交货日期减去产品加工完毕的日期。"
+  },
+  {
+   "cn": "三早",
+   "en": "early discovery/early rehabilitation/early education,EEE",
+   "source": "教育学名词",
+   "wordNumber": "10.038",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "中国对残疾儿童的早期发现（或诊断）、早期康复（或治疗）及早期教育（或训练）的早期干预措施。"
+  },
+  {
+   "cn": "早稻",
+   "en": "early rice",
+   "source": "农学名词",
+   "wordNumber": "02.013",
+   "subjectFullName": "粮食作物_谷类作物",
+   "subjectName": "谷类作物",
+   "publishYear": "2025",
+   "definition": "春种夏收，生育期较短、成熟期较早的一种栽培稻类型。从播种到成熟在125d以内。感光性弱，在长日照或短日照条件下，只要满足温度条件就可正常抽穗成熟。"
+  },
+  {
+   "cn": "早期妊娠",
+   "en": "early pregnancy",
+   "source": "急救医学名词",
+   "wordNumber": "03.613",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_妊娠",
+   "subjectName": "妊娠",
+   "publishYear": "2025",
+   "definition": "从妊娠开始到妊娠12周末的阶段。为受精卵着床、胚胎发育、主要器官完成分化并初步成形的时期。"
+  },
+  {
+   "cn": "早期流产",
+   "en": "early abortion",
+   "source": "急救医学名词",
+   "wordNumber": "03.633",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_流产",
+   "subjectName": "流产",
+   "publishYear": "2025",
+   "definition": "妊娠满12周之前的流产。自然流产中早期流产占80%以上，早期流产中2/3为隐性流产。"
+  },
+  {
+   "cn": "早衰",
+   "en": "early senescence",
+   "source": "农学名词",
+   "wordNumber": "07.028",
+   "subjectFullName": "作物生理生态_生长与发育生理",
+   "subjectName": "生长与发育生理",
+   "publishYear": "2025",
+   "definition": "作物在生长后期未成熟前，整株叶片黄枯死亡的现象。"
+  },
+  {
+   "cn": "早期囊胚",
+   "en": "early blastocyst",
+   "source": "妇产科学名词",
+   "wordNumber": "9.014",
+   "subjectFullName": "妊娠生理_生殖细胞、受精及胚胎早期发生",
+   "subjectName": "生殖细胞、受精及胚胎早期发生",
+   "publishYear": "2025",
+   "definition": "桑葚胚进一步分裂发育形成的球状幼胚。"
+  },
+  {
+   "cn": "早熟性",
+   "en": "early maturity",
+   "source": "农学名词",
+   "wordNumber": "07.030",
+   "subjectFullName": "作物生理生态_生长与发育生理",
+   "subjectName": "生长与发育生理",
+   "publishYear": "2025",
+   "definition": "作物品种生育期较短、成熟期较早的特性。"
+  },
+  {
+   "cn": "早期流产",
+   "en": "early abortion",
+   "source": "妇产科学名词",
+   "wordNumber": "13.003",
+   "subjectFullName": "妊娠并发症_自然流产",
+   "subjectName": "自然流产",
+   "publishYear": "2025",
+   "definition": "发生在妊娠12周前的流产。"
+  },
+  {
+   "cn": "早期宇宙",
+   "en": "early universe",
+   "source": "天文学名词",
+   "wordNumber": "07.408",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "通常指大爆炸宇宙论中复合期以前的宇宙。"
+  },
+  {
+   "cn": "早期诊断",
+   "en": "early diagnosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.316",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "在发病初期建立的诊断。有助于疾病的早期防治。"
+  },
+  {
+   "cn": "早饱",
+   "en": "early satiety",
+   "source": "消化病学名词",
+   "wordNumber": "1.089",
+   "subjectFullName": "消化病_总论_症状",
+   "subjectName": "症状",
+   "publishYear": "2022",
+   "definition": "进食后很快感觉胃内饱胀不适，与进餐量不成比例，以至于不能完成正常餐量的现象。"
+  },
+  {
+   "cn": "预警",
+   "en": "early-warning",
+   "source": "地球物理学名词",
+   "wordNumber": "11.0035",
+   "subjectFullName": "地球物理学_灾害学",
+   "subjectName": "灾害学",
+   "publishYear": "2022",
+   "definition": "在重大自然灾害发生前，由政府主管灾害部门依法向相关地区社会公众发布防灾避险的紧急信号，从而减少灾害所造成的社会公众生命财产损失的行为。 "
+  },
+  {
+   "cn": "早饱",
+   "en": "early satiety",
+   "source": "消化内镜学名词",
+   "wordNumber": "5.014",
+   "subjectFullName": "消化内镜学_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2021",
+   "definition": "进少量食物即出现饱胀感。患者摄入食物的容量远远小于平时，常见于各种慢性胃病，尤其是功能性消化不良。"
+  },
+  {
+   "cn": "早期增强",
+   "en": "early enhancement",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.157",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "病灶开始增强的时间早于周围组织的声像特征。"
+  },
+  {
+   "cn": "早期断乳",
+   "en": "early weaning",
+   "source": "畜牧学名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "畜牧学_饲养管理_猪饲养",
+   "subjectName": "猪饲养",
+   "publishYear": "2020",
+   "definition": "仔猪出生后3～5周龄断乳。"
+  },
+  {
+   "cn": "泌乳初期",
+   "en": "early lactation",
+   "source": "畜牧学名词",
+   "wordNumber": "02.143",
+   "subjectFullName": "畜牧学_饲养管理_牛饲养",
+   "subjectName": "牛饲养",
+   "publishYear": "2020",
+   "definition": "一般指产犊到产犊后15天以内的时间。"
+  },
+  {
+   "cn": "早期修复",
+   "en": "early repair",
+   "source": "手外科学名词",
+   "wordNumber": "04.0028",
+   "subjectFullName": "手外科学_上肢损伤",
+   "subjectName": "上肢损伤",
+   "publishYear": "2020",
+   "definition": "创伤后在清创手术同时恢复解剖结构的手术处理。"
+  },
+  {
+   "cn": "抢先",
+   "en": "preemption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "早期发育",
+   "en": "early development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "早材",
+   "en": "early wood",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "早熟品种",
+   "en": "early variety",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "童年早期",
+   "en": "early childhood",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "早期音乐",
+   "en": "early music",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "早期宇宙",
+   "en": "early universe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "早势垒",
+   "en": "early barrier",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "早期指示者",
+   "en": "early indicator",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "内含子早现",
+   "en": "intron early",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "早期基因",
+   "en": "early gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "早期反转录转座子，早期逆转座子",
+   "en": "early retrotransponson",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "早期抗原",
+   "en": "early antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "早期内体",
+   "en": "early endosome",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "早期失效",
+   "en": "early failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生态位优先占领假说",
+   "en": "niche-preemption hypothesis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "外胚层原腔",
+   "en": "early ectoblastic cavity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "早期选择模型",
+   "en": "early selective model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "极早期宇宙",
+   "en": "very early universe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "早光谱型",
+   "en": "early spectral type",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "防微杜渐",
+   "en": "Take Precautions Early",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "失业预警",
+   "en": "unemployment early warning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预警指令",
+   "en": "early warning instruction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "半截击球",
+   "en": "early ball\",\"half volley\",\"pickup shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大数据预警系统",
+   "en": "big data-based early warning system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "早发现、早报告、早诊断、早隔离、早治疗",
+   "en": "early detection, reporting, diagnosis, isolation and treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险监测预警机制",
+   "en": "financial risk monitoring and early warning mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险预警干预机制",
+   "en": "financial risk early warning and intervention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全监测预警制度",
+   "en": "data security monitoring and early warning mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全风险检测预警机制",
+   "en": "data security risk detection and early warning mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全事件预警通报制度",
+   "en": "early warning system for big data security incidents",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防灾减灾预报预警信息平台",
+   "en": "forecast and early warning platform for disaster prevention and mitigation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疫情防控预警预测机制",
+   "en": "early warning and forecasting mechanism for epidemic prevention and control",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "早期效应",
+   "en": "early effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "机体受到电离辐射照射后数月（一般为3个月）内发生的损伤效应，例如胃肠道反应、白细胞降低、皮肤受照后出现局部红斑等。"
+  },
+  {
+   "cn": "早期发现",
+   "en": "early detection",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.5.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学生体质与健康状况监测",
+   "subjectName": "学生体质与健康状况监测",
+   "publishYear": "2025",
+   "definition": "在尽可能早的阶段将出现症状的病例进行确诊的诊疗技术。"
+  },
+  {
+   "cn": "早期疲劳",
+   "en": "early fatigue",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷",
+   "subjectName": "学习负荷",
+   "publishYear": "2025",
+   "definition": "疲劳的第一阶段。机理是优势兴奋性降低，不能实行对周围区域的抑制，出现所谓的内抑制障碍。主要表现为上课时坐立不安，小动作多，注意力转移等。特点是兴奋过程或内抑制过程之一发生障碍。"
+  },
+  {
+   "cn": "青春早期",
+   "en": "early adolescence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_青春期保健",
+   "subjectName": "青春期保健",
+   "publishYear": "2025",
+   "definition": "月经初潮前体格生长突增的阶段，伴随性器官和第二性征开始发育。"
+  },
+  {
+   "cn": "早吸吮",
+   "en": "early-sucking",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.36.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在新生儿出生后与母亲进行持续皮肤接触的基础上，当其出现觅乳征象时，指导母亲开始母乳喂养，帮助新生儿吸吮乳头，促进早期母乳喂养的保健措施。此时吸吮反射最强，有助于母乳喂养成功，加强宫缩减少产后出血。"
+  },
+  {
+   "cn": "早期防护行动",
+   "en": "early protective action",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.11.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在核或辐射应急情况下在数天乃至数周内可能采取并仍然有效的防护行动。最常见的有避迁和较长期限制消费可能受污染食品。"
+  },
+  {
+   "cn": "青春发动时相提前",
+   "en": "early pubertal timing",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "青春发动期乳房、阴毛、外生殖器发育和月经初潮等事件出现时间相对提前的现象。一般以人群性器官和第二性征发育等事件出现时间的前1/4位数作为提前的划界值。"
+  },
+  {
+   "cn": "预警行为",
+   "en": "early warning behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "提醒人们采取适当的措施来防范或应对可能的问题、预防伤害事故发生的正确处理行为，如乘飞机、乘车时系安全带等。"
+  },
+  {
+   "cn": "预警分级",
+   "en": "early warning classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "依据可能发生和可以预警的突发公共事件可能造成的危害程度、紧急程度和发展势态进行的分级，一般划分为四级：Ⅰ级（特别严重）、Ⅱ级（严重）、Ⅲ级（较重）和Ⅳ级（一般），依次用红色、橙色、黄色和蓝色表示。"
+  },
+  {
+   "cn": "初期评价",
+   "en": "early-term evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "在项目启动时按照既定评价指标集进行的基线评估和调查。"
+  },
+  {
+   "cn": "早孕建册",
+   "en": "early pregnancy register",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕13周前孕妇在指定医疗保健机构建立《孕产妇保健手册》，用于系统记录全孕产期的健康状况，同时给予早孕保健方面指导的过程。"
+  },
+  {
+   "cn": "孕早期自然流产",
+   "en": "early spontaneous abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.4.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_自然流产",
+   "subjectName": "自然流产",
+   "publishYear": "2025",
+   "definition": "13周末前妊娠的自然终止。"
+  },
+  {
+   "cn": "儿童早期营养",
+   "en": "early childhood nutrition",
+   "source": "社会医学名词",
+   "wordNumber": "3.9.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "三岁以内儿童的营养状况，直接影响其生长发育、免疫功能及长期健康。"
+  },
+  {
+   "cn": "生命早期暴露量",
+   "en": "early-life exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.14",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物在孕期和儿童期以特定的频率出现于目标生物、系统或（亚）人群中的浓度或量"
+  },
+  {
+   "cn": "儿童早期发展",
+   "en": "early childhood development",
+   "source": "社会医学名词",
+   "wordNumber": "3.9",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "从孕期到出生后8 年，通过对儿童的营养、健康、早期学习、回应性照护和安全保障方面开展科学综合干预，以发挥儿童潜能，使儿童的体格、心理、认知、情感和社会适应性达到健康完美状态的理念，0-3 岁这一时期尤"
+  },
+  {
+   "cn": "儿童早期发展",
+   "en": "early childhood development, ECD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "从受孕到出生后8年期间，儿童的认知、身体、语言、气质、社会情感及运动的发育过程。此期间的科学综合干预有助于改善儿童发育的潜能，0-3岁这一时期尤为重要。"
+  },
+  {
+   "cn": "早期类风湿关节炎",
+   "en": "early rheumatoid arthritis，ERA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.3.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "病程＜6-12个月的类风湿关节炎。"
+  },
+  {
+   "cn": "过早初次性行为年龄",
+   "en": "early sexual debut age",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "发生第一次性行为时的年龄，反映青少年的性活跃状态。"
+  },
+  {
+   "cn": "早开奶率",
+   "en": "early initiation of breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "出生后一小时内接触母亲乳房的2岁以下儿童数占年龄段儿童总数的百分比。"
+  },
+  {
+   "cn": "孕早期检查率",
+   "en": "early pregnancy attendance rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区在孕早期（妊娠12周前）接受过1次及以上产前检查的产妇人数与同期当地活产数之比。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

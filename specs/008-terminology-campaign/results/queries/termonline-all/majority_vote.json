@@ -1,0 +1,762 @@
+{
+ "key": "majority vote",
+ "term": "majority vote",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:31:26+00:00",
+ "status": "ok",
+ "note": "variant=majority vote; 审定公布名词库=429; 海峡两岸名词对照库=212; 其他来源数据库=49; 预公布名词数据库=43; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "多数投票制",
+   "en": "majority voting",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0417",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种定义函数的方法，按取最大多数意见为函数值的方法进行，若有多个候选元具有相同的最大多数得票，则可在这些候选元中随机选取一个。"
+  },
+  {
+   "cn": "投票交易",
+   "en": "vote trading",
+   "source": "经济学名词",
+   "wordNumber": "05.077",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "投票者在同时就两个或两个以上的问题提案进行投票时，如果投票者对这些问题具有不同的偏好强度，他们会愿意就那些与其关系重大的问题互投赞成票。"
+  },
+  {
+   "cn": "表决数据",
+   "en": "voted data",
+   "source": "石油名词",
+   "wordNumber": "08.0180",
+   "subjectFullName": "石油_海洋石油技术_海洋石油勘探",
+   "subjectName": "海洋石油勘探",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "投票悖论",
+   "en": "voting paradox",
+   "source": "经济学名词",
+   "wordNumber": "05.078",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "在通过多数原则实现个人选择到集体选择的转换过程中所遇到的障碍或非传递性。18世纪由法国思想家孔多塞（Condorcet）提出。假设甲、乙、丙三人，面对a、b、c三个备选方案。由于甲、乙都认为b好于c，"
+  },
+  {
+   "cn": "电话投票",
+   "en": "vote over telephony",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.079",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "提供特定电话号码，供大众打电话投票，以进行大规模意见调查的业务。"
+  },
+  {
+   "cn": "主修课程",
+   "en": "major",
+   "source": "教育学名词",
+   "wordNumber": "05.076",
+   "subjectFullName": "教育学_比较教育_美国教育",
+   "subjectName": "美国教育",
+   "publishYear": "2013",
+   "definition": "美国本科生课程中保证知识深度的课程。通常由一个学科或两个以上相关学科的若干课程构成，为学生提供学科的知识和研究方法。"
+  },
+  {
+   "cn": "预测平均热感觉",
+   "en": "predictive mean vote,PMV",
+   "source": "建筑学名词",
+   "wordNumber": "10.0489",
+   "subjectFullName": "建筑学_建筑物理_建筑气候学",
+   "subjectName": "建筑气候学",
+   "publishYear": "2014",
+   "definition": "表征人体热反应(冷热感)的评价指标，代表了同一环境中大多数人的冷热感觉的平均。"
+  },
+  {
+   "cn": "一元一票逻辑",
+   "en": "one dollar/one vote",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.063",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "消费者通过市场机制获取媒介内容的消费者主权(consumer sovereignty)的实质逻辑。消费者主权强调，消费者通过消费表达其消费意愿和消费偏好。但实际上，受众获得媒体内容凭借的是其消费能力，"
+  },
+  {
+   "cn": "多[数载流]子",
+   "en": "majority carrier",
+   "source": "物理学名词",
+   "wordNumber": "08.1576",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多数规则",
+   "en": "majority rule",
+   "source": "物理学名词",
+   "wordNumber": "05.1086",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "道德多数派",
+   "en": "Moral Majority",
+   "source": "世界历史名词",
+   "wordNumber": "03.0270",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1979年建立，80年代末解体的一个作为基督教福音派进行院外活动的政治组织。"
+  },
+  {
+   "cn": "多数载流子",
+   "en": "majority carrier",
+   "source": "材料科学技术名词",
+   "wordNumber": "06.0010",
+   "subjectFullName": "材料科学技术_半导体材料_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "在n型半导体中，电子的浓度大于空穴的浓度，称电子为多数载流子。在p型半导体中，空穴为多数载流子。"
+  },
+  {
+   "cn": "多数人语言",
+   "en": "majority language",
+   "source": "语言学名词",
+   "wordNumber": "12.150",
+   "subjectFullName": "语言学_社会语言学_语言接触与双语",
+   "subjectName": "语言接触与双语",
+   "publishYear": "2011",
+   "definition": "一个国家中人口占多数的民族使用的语言。例如中国的汉语。"
+  },
+  {
+   "cn": "多数载流子",
+   "en": "majority carrier",
+   "source": "电气工程名词",
+   "wordNumber": "02.238",
+   "subjectFullName": "电气工程_导电材料及半导体材料",
+   "subjectName": "导电材料及半导体材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "多数载流子",
+   "en": "majority carrier",
+   "source": "电子学名词",
+   "wordNumber": "13.067",
+   "subjectFullName": "电子学_半导体物理与半导体材料",
+   "subjectName": "半导体物理与半导体材料",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "大数判决译码",
+   "en": "majority decoding",
+   "source": "电子学名词",
+   "wordNumber": "05.091",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "大地震",
+   "en": "major earthquake",
+   "source": "地质学名词",
+   "wordNumber": "11.02.022",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "里氏震级≥7级且＜8级的地震。"
+  },
+  {
+   "cn": "主[要]元素",
+   "en": "major element",
+   "source": "地质学名词",
+   "wordNumber": "13.02.016",
+   "subjectFullName": "地质学_地球化学_元素地球化学",
+   "subjectName": "元素地球化学",
+   "publishYear": "2026",
+   "definition": "泛指在各种地质体中质量分数＞1%的元素。"
+  },
+  {
+   "cn": "大暑",
+   "en": "Major Heat",
+   "source": "农学名词",
+   "wordNumber": "01.162",
+   "subjectFullName": "总论_二十四节气",
+   "subjectName": "二十四节气",
+   "publishYear": "2025",
+   "definition": "第12个节气，太阳运行至黄经120°~135°区间，通常在每年7月22日至24日进入。天气最热的时节，是喜温作物生长最快的时期。大暑三候包括腐草为萤（Firefly Hatches inDecayin"
+  },
+  {
+   "cn": "大寒",
+   "en": "Major Cold",
+   "source": "农学名词",
+   "wordNumber": "01.174",
+   "subjectFullName": "总论_二十四节气",
+   "subjectName": "二十四节气",
+   "publishYear": "2025",
+   "definition": "第24个节气，太阳运行至黄经300°~315°区间，通常于每年1月19日至21日进入。预示天气严寒，是积肥沤肥的时机。大寒三候包括鸡始乳（HenStarts to Hatch Eggs）、征鸟厉疾（R"
+  },
+  {
+   "cn": "大菱形肌",
+   "en": "rhomboideus major\",\"rhomboid major",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "多数决定门",
+   "en": "majority gate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多数载流子",
+   "en": "majority carrier",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "多数股东",
+   "en": "majority shareholder",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①多数股权 ②多数权益",
+   "en": "majority interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大数判决译码，择多译码",
+   "en": "majority decoding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大语种",
+   "en": "majority language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多数载流子",
+   "en": "majority carrier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大钳",
+   "en": "major forceps",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "大圆肌",
+   "en": "teres major",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胸大肌",
+   "en": "pectoralis major",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腰大肌",
+   "en": "psoas major",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "主效基因",
+   "en": "major gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主波",
+   "en": "major wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主槽",
+   "en": "major trough",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主脊",
+   "en": "major ridge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "癫<img src='/root/syzx/static/spz/hxlaxinli1.dianxian.png'/>大发作",
+   "en": "major epilepsy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大调音阶",
+   "en": "major scale",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大低音音栓",
+   "en": "major bass",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大笛音栓",
+   "en": "major flute",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "电子选举",
+   "en": "e-voting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多数裁判员判定",
+   "en": "majority decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大节",
+   "en": "Major Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大故",
+   "en": "Major Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "严重犯规",
+   "en": "major foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能重大产品",
+   "en": "major AI product",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大外车",
+   "en": "major outer wheel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "再次严重犯规",
+   "en": "additional major foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准文件投票和评议",
+   "en": "voting and commenting on international standardization documents",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三者合议取多数规则",
+   "en": "majority of three rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重大动物疫病",
+   "en": "major infectious animal diseases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负责任大国",
+   "en": "a responsible major country",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大车",
+   "en": "major wheel\",\"o-guruma",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大外刈",
+   "en": "major outer reaping throw\",\"major outside-leg reaping throw\",\"o-soto-gari",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色大国外交",
+   "en": "major country diplomacy with Chinese characteristics",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全委会票决制",
+   "en": "committee voting system",
+   "source": "马克思主义",
+   "wordNumber": "03.0749",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "地方党委全委会通过无记名投票表决干部任职（推荐或提名）的办法。"
+  },
+  {
+   "cn": "多数人语言",
+   "en": "majority language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0131",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“少数民族语言”相对。一个国家中人口占多数的民族使用的语言。例如中国的汉语。"
+  },
+  {
+   "cn": "特大事故",
+   "en": "major accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.1.7",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "大型核设施（如动力反应堆）放射性物质向环境大量释放，包括短寿命和长寿命放射性裂变产物的混合物，等效放射性物质量超过1016Bq131I的情况。可能导致严重的健康影响，可能涉及到多个国家，具有长期的环境"
+  },
+  {
+   "cn": "严重缺陷",
+   "en": "major anomaly",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "严重影响患者生存、健康和外貌，需要采取较复杂的内外科、矫形科治疗或干预的出生缺陷"
+  },
+  {
+   "cn": "五条重大原则",
+   "en": "five major principles",
+   "source": "马克思主义",
+   "wordNumber": "03.0828",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，前进道路上，必须牢牢把握以下重大原则：坚持和加强党的全面领导，坚持中国特色社会主义道路，坚持以人民为中心的发展思想，坚持深化改革开放，坚持发扬斗争精神。"
+  },
+  {
+   "cn": "主要组织相容性复合体",
+   "en": "major histocompatibility complex，MHC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.45",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "编码主要组织相容性抗原的一组紧密连锁的基因群。编码产物是抗原提呈和T细胞活化的关键分子，在启动特异性免疫应答和免疫调节中起重要作用。器官移植中MHC是决定个体间组织相容性的主要基因，参与移植物排斥。组"
+  },
+  {
+   "cn": "主诊断分类",
+   "en": "major diagnostic categories，MDCs",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.16.5",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "主要诊断按解剖系统及其他大类目进行的分类。"
+  },
+  {
+   "cn": "社会工作专业",
+   "en": "the major of social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "高等教育中训练、研究社会工作的学科知识部门。内容涉及助人的价值理念、助人的科学方法和技巧、受助者和助人者的行为规律及其相关的理论等。"
+  },
+  {
+   "cn": "婚前医学检查主要疾病",
+   "en": "major disease of premarital examination",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "婚前医学检查发现的与婚育有关的疾病，包括严重遗传性疾病、 指定传染病、有关精神病及影响结婚和生育的其他疾病。"
+  },
+  {
+   "cn": "儿童重性抑郁障碍",
+   "en": "major depressive disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "至少持续2周的发作（尽管绝大多数的发作持续更久），涉及情感、认知和植物神经功能的明显变化和发作间缓解的一种精神疾病。发作时核心症状是抑郁心境，或对几乎所有活动丧失兴趣或愉悦。儿童可能表现为情绪易激惹。"
+  },
+  {
+   "cn": "重大慢性病过早死亡率",
+   "en": "premature mortality from major chronic diseases",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.6.1",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "30 岁到70 岁（不含70 岁）人群因心脑血管疾病、恶性肿瘤、糖尿病或慢性呼吸系统疾病导致死亡的概率。反映居民健康水平，以重大及慢性病预防和控制水平。"
+  },
+  {
+   "cn": "人民军队的三大任务",
+   "en": "three major tasks of the peoples army",
+   "source": "马克思主义",
+   "wordNumber": "03.0409",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "打仗、做群众工作、生产三项任务，是毛泽东关于军队建设的重要指导思想。毛泽东早在红军时期就提出这一思想，其具体内容在各个历史时期有所变化。"
+  },
+  {
+   "cn": "社会主义现代化建设中的十二个重大关系",
+   "en": "twelve major relationships in the socialist modernization",
+   "source": "马克思主义",
+   "wordNumber": "03.0644",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在推进社会主义现代化建设进程中，必须处理好的十二个带有全局性的重大关系，即：改革、发展、稳定的关系；速度和效益的关系；经济建设和人口、资源、环境的关系；第一、二、三产业的关系；东部地区和中西部地区的关"
+  },
+  {
+   "cn": "党的建设两大历史性课题",
+   "en": "two major historical tasks of the Party building",
+   "source": "马克思主义",
+   "wordNumber": "03.0626",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "不断提高领导水平和执政水平，不断提高拒腐防变和抵御风险的能力。由以江泽民为核心的党的第三代中央领导集体提出。2002年11月8日，“进一步解决提高党的领导水平和执政水平、提高拒腐防变和抵御风险能力这两"
+  },
+  {
+   "cn": "十年来三件大事",
+   "en": "three major events in the past decade marked",
+   "source": "马克思主义",
+   "wordNumber": "03.0826",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，十八大召开至今已经十年了。十年来，我们经历了对党和人民事业具有重大现实意义和深远历史意义的三件大事：一是迎来中国共产党成立一百周年，二是中国特色社会主义进入新时代，三是完成脱贫攻坚"
+  },
+  {
+   "cn": "小道理服从大道理",
+   "en": "minor principles should be subordinated to major ones",
+   "source": "马克思主义",
+   "wordNumber": "04.0139",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志提出的处理和解决全局与局部、大局与小局矛盾的基本原则。1979年3月，邓小平在党的理论工作务虚会上指出：“在社会主义制度之下，个人利益要服从集体利益，局部利益要服从整体利益，暂时利益要服从长"
+  },
+  {
+   "cn": "票据",
+   "en": "note",
+   "source": "马克思主义",
+   "wordNumber": "02.0255",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "载明一定金额、在一定到期日、由债务人向债权人支付款项的信用证券。票据可以转让流通，由货币支付手段的职能产生。"
+  },
+  {
+   "cn": "少数民族",
+   "en": "ethnic minority",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0028",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "新中国汉族之外的其他55 个民族的总称，因其人口规模或55 个民族的整体人口规模相对汉族人口规模较少而得名。1953 年人口普查各少数民族人口约占全国总人口6%，2020年人口普查各少数民族人口约占全"
+  },
+  {
+   "cn": "散居民族",
+   "en": "scattered minority",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.003",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "相对于聚居民族而言，包括居住在民族自治地方之外的少数民族以及居住在民族自治地方以内但未实行区域自治的少数民族。"
+  },
+  {
+   "cn": "世居民族",
+   "en": "native minority",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0031",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "在某地居住三代以上的民族，中国学界该词在20 世纪80 年代之后频繁使用，常用来表述某一区域民族构成的历史变化，或描述民族文化的传统与特色。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

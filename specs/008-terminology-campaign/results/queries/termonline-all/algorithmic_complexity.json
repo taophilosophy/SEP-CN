@@ -1,0 +1,762 @@
+{
+ "key": "algorithmic complexity",
+ "term": "algorithmic complexity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:30:21+00:00",
+ "status": "ok",
+ "note": "variant=algorithmic complexity; 审定公布名词库=1172; 海峡两岸名词对照库=447; 其他来源数据库=95; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "算法复杂性",
+   "en": "algorithmic complexity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.700",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "在一个标准通用的计算机上，通过模拟我们约定的标准语言，来描述一个系统所需的最短程序的长度。"
+  },
+  {
+   "cn": "算法复杂性",
+   "en": "algorithm complexity",
+   "source": "物理学名词",
+   "wordNumber": "11.0733",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": "个别轨道不可预测性的度量。"
+  },
+  {
+   "cn": "算法复杂性",
+   "en": "algorithm complexity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0261",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "针对某个特定算法的计算复杂性，但不限于使用图灵机作为衡量时间和空间复杂性的模型，例如可以使用常规计算机的指令执行数作为时间复杂性，所使用的存储单元数作为空间复杂性。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.092",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "解决某一问题（或一类问题）的程序化方法。其是在有限步骤内，用一组完全确定的程序规则来求解问题。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.659",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "能够使目标计算机完成特定任务或目标的一系列自控制逻辑指令。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.083",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "指导计算机完成特定命令的指令集，目的是用来解决特定的问题。目前算法在新闻传播业的应用主要包括两个方面：运用算法实现的自动化写作，以及对海量信息的筛选与分发。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "生物物理学名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "在数学和计算机科学中按设定的步骤进行计算、数据处理和逻辑推理的操作流程。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0720",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "解决给定问题的确定的计算机指令序列，用以系统地描述解决问题的步骤。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "心理学名词",
+   "wordNumber": "02.686",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "解决某个特定问题的一种方法或程序。保证最终解决问题。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.613",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "对特定问题求解步骤的一种描述，它是指令的有限序列，其中每一条指令表示一个或多个操作。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "地理学名词",
+   "wordNumber": "25.006",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "模型分析的一组可行的、确定的和有穷的规则。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "化学工程名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "化学工程_过程系统工程_过程系统工程",
+   "subjectName": "过程系统工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "数学名词",
+   "wordNumber": "02.0261",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "数学名词",
+   "wordNumber": "02.0261",
+   "subjectFullName": "数学_数值分析_数值分析基本概念",
+   "subjectName": "数值分析基本概念",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "ε算法",
+   "en": "ε-algorithm,epsilon-algorithm",
+   "source": "数学名词",
+   "wordNumber": "010.0341",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "η算法",
+   "en": "η-algorithm,eta-algorithm",
+   "source": "数学名词",
+   "wordNumber": "010.0342",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "检索算法",
+   "en": "search algorithm,retrieval algorithm",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.015",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在信息检索的过程中所运用算法的总称。典型算法包括向量空间模型、概率检索模型、语言模型、布尔模型、推理网络、扩展布尔检索、潜在语义标引、神经网络、遗传算法、模糊集等。"
+  },
+  {
+   "cn": "最大期望算法",
+   "en": "expectationmaximization algorithm,EM algorithm",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0718",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "依赖无法观测的隐藏变量的概率模型中，采取如下步骤：第一步计算期望，第二步最大化似然值，进而迭代估计参数的一种方法。"
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.720",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "在本体论上，指事物的组分多元、结构复杂、功能多样等特性；在认识论上，指以传统理论或途径难以理解、难以分析以及难以处理的事物的特性。"
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0340",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "混沌性的局部与整体之间的非线性形式。是环境条件改变的时候，不同行为模式之间的转换能力较弱的动态表现。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复杂性",
+   "en": "complexity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "络合剂",
+   "en": "complexant\",\"complexing agent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "络合剂",
+   "en": "complexant （=complexing agent）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "情结",
+   "en": "complex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "复合体",
+   "en": "complex",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "络合物",
+   "en": "complex",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "络合作用",
+   "en": "complexation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "复形",
+   "en": "complex",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "络合物",
+   "en": "complex",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "络合物",
+   "en": "complex",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "算法性思维,定程式思维",
+   "en": "algorithmic thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "近似算法",
+   "en": "approximation algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行算法",
+   "en": "parallel algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概率算法",
+   "en": "probabilistic algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组合算法",
+   "en": "combinatorial algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排序算法",
+   "en": "sorting algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贪婪算法",
+   "en": "greedy algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "备忘录算法",
+   "en": "memorandum algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法设计",
+   "en": "Algorithm Design",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提升算法",
+   "en": "boosting algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法歧视",
+   "en": "algorithm discrimination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理算法",
+   "en": "ethical algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法信任",
+   "en": "algorithm trust",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "梅特罗波利斯算法",
+   "en": "Metropolis algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "络合剂",
+   "en": "complexing agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.6",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能提供电子对的配位基，并能与金属离子形成络合物的化合物。如果配位基中有两个或以上提供电子对的键合原子，而且在其间相隔2个或3个其他原子时，结构上常成环状或螯环。"
+  },
+  {
+   "cn": "复杂器械",
+   "en": "complex device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.6",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "结构精细、复杂、易损，对清洗、消毒、灭菌处理有特殊方法和技术要求的医疗器械。"
+  },
+  {
+   "cn": "文化丛",
+   "en": "cultural complex",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "在历史上产生和发展起来的一组功能上相互联系、相互整合的文化物质体系，即相近相关的文化特质相互作用，并在时空中以一个单位而持续存在的现象。"
+  },
+  {
+   "cn": "复杂社会",
+   "en": "complex societies",
+   "source": "社会学名词",
+   "wordNumber": "4.2.6.13",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会组织",
+   "subjectName": "社会组织",
+   "publishYear": "2025",
+   "definition": "以社会分工为基本特色的有机整体。复杂社会是现代人衡量文明的形成的标准。"
+  },
+  {
+   "cn": "复杂劳动",
+   "en": "complex labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0055",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "需要经过专门训练和培养，具有特定文化知识和技能的质量较高的劳动者从事的劳动。在商品经济中通过各种市场机制，复杂劳动等于倍加或自乘的简单劳动。"
+  },
+  {
+   "cn": "免疫复合物",
+   "en": "immune complex",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.41",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "抗体与可溶性抗原结合而形成的复合物。抗体量足以交联抗原时形成大的免疫复合物，由网状内皮系统中表达Fc受体和补体受体的细胞所清除；抗原过量时则形成小的可溶性免疫复合物，沉积于小血管而造成小血管损伤。"
+  },
+  {
+   "cn": "俄狄浦斯情结",
+   "en": "Oedipus complex",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0442",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "奥地利精神病医师、心理学家、精神分析学派创始人弗洛伊德提出的观点，指男孩在潜意识当中渴望取代父亲，成为母亲伴侣的情感倾向。他认为，处在性器期的男孩会将母亲视为爱慕和性欲的对象，并将父亲视为其对手和阻碍"
+  },
+  {
+   "cn": "厄勒克特拉情结",
+   "en": "Electra complex",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0443",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "奥地利精神病医师、心理学家、精神分析学派创始人弗洛伊德提出的观点，指女孩在潜意识当中渴望取代母亲，成为父亲伴侣的情感倾向。最初，女孩的爱慕对象是直接照料她的母亲。但到了性器期，女孩发现自己没有男性生殖"
+  },
+  {
+   "cn": "复杂社会",
+   "en": "complex society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0017",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种分工发达、人口规模庞大的社会组织形态，与简单社会相对。复杂社会的复杂化一般包括一个社会的规模、其组成部分的数量和特点、其整合的特殊社会功能的多样性、其拥有的独特社会人格的数量及其多样性、社会功能整"
+  },
+  {
+   "cn": "络合氯消毒剂",
+   "en": "complex chloride disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以含氯离子配位体络合物为主要有效成分的含氯消毒剂。"
+  },
+  {
+   "cn": "络合碘消毒剂",
+   "en": "complex iodine disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.2.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "碘与表面活性剂和增溶剂形成的以含碘离子配位体络合物为主要成分的含碘消毒剂。"
+  },
+  {
+   "cn": "发现者情结",
+   "en": "discoverer’s complex",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家中普遍存在的追求科学发现优先权的心理情结，即对“最先发现”的强调和追求。"
+  },
+  {
+   "cn": "复配食品添加剂",
+   "en": "complex food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.24",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "为了改善食品品质、便于食品加工，将两种或两种以上单一品种的食品添加剂，添加或不添加辅料，经物理方法混匀而成的食品添加剂。"
+  },
+  {
+   "cn": "主要组织相容性复合体",
+   "en": "major histocompatibility complex，MHC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.45",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "编码主要组织相容性抗原的一组紧密连锁的基因群。编码产物是抗原提呈和T细胞活化的关键分子，在启动特异性免疫应答和免疫调节中起重要作用。器官移植中MHC是决定个体间组织相容性的主要基因，参与移植物排斥。组"
+  },
+  {
+   "cn": "食品用天然香味复合物",
+   "en": "natural food flavors complex",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.1.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "通过物理方法或酶法或微生物法工艺从动植物来源材料中获得的具有香味物质的制剂（由多种成分组成）。这些动植物来源材料可以是未经加工的也可以是通过传统食品制备工艺加工过的。"
+  },
+  {
+   "cn": "急性全身性免疫复合物病",
+   "en": "acute systemic immune complex disease",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.9.27",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "由于大量免疫复合物形成，并在多器官沉积所引起的急性免疫反应。属于免疫复合物介导的急性III型超敏反应。病因与反复接触外源性抗原导致机体产生大量抗体有关，皮疹是最主要的临床表现，严重者可有喉头水肿，肾小"
+  },
+  {
+   "cn": "复配食品添加剂辅料",
+   "en": "adjuncts for complex food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.24.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "为复配食品添加剂的加工、贮存、溶解等工艺目的而添加的食品原料"
+  },
+  {
+   "cn": "攻膜复合物抑制因子",
+   "en": "membrane attack complex inhibitory factor，MACIF",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.22",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "通过阻断攻膜复合物的形式保护宿主细胞免受补体攻击的一类细胞表面蛋白质。"
+  },
+  {
+   "cn": "复杂劳动向简单劳动还原问题",
+   "en": "issue of reduction of complex labor to simple labor",
+   "source": "马克思主义",
+   "wordNumber": "05.0120",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "西方一些学者曾质疑马克思《资本论》“比较复杂的劳动只是自乘的或不如说多倍的简单劳动”的观点，认为这是马克思劳动价值论中应该解决却未能解决好的问题，甚至认为马克思对复杂劳动向简单劳动还原问题的处理是零碎"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

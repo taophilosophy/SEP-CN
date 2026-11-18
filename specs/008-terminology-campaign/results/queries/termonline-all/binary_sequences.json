@@ -1,0 +1,662 @@
+{
+ "key": "binary sequences",
+ "term": "binary sequences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:30:13+00:00",
+ "status": "ok",
+ "note": "variant=binary sequences; 审定公布名词库=1218; 海峡两岸名词对照库=526; 其他来源数据库=23; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "二进制",
+   "en": "binary",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.185",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "使用数码0和1，以及基数2的固定基数数制。"
+  },
+  {
+   "cn": "二进制[的]",
+   "en": "binary",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.167",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以2为基数的计数制。其中只有两个可能的不同值或状态的选择、机会或状况。"
+  },
+  {
+   "cn": "序列分析仪",
+   "en": "sequencer",
+   "source": "药学名词",
+   "wordNumber": "05.200",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "自动测定多肽链中氨基酸序列的一种仪器。其工作原理是基于埃德曼降解法的重复应用。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "地质学名词",
+   "wordNumber": "07.02.016",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "一套相对整合的、成因上有联系的、其顶和底以不整合面或与这些不整合面可以对比的整合面为界的地层单元。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0138",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "多聚体中单体的线性排列顺序。如多肽链中氨基酸残基的排列顺序及多核苷酸链中核苷酸的排列顺序。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "药学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "构成生物大分子结构单元的排列次序。如DNA分子是由4种核苷酸(A，T，G，C)排列组成，DNA序列就是组成某一DNA分子的核苷酸的排列次序。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0208",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋矿产资源开发技术",
+   "subjectName": "海洋矿产资源开发技术",
+   "publishYear": "2007",
+   "definition": "相对整合的成因上有联系的地层序列。"
+  },
+  {
+   "cn": "序列征",
+   "en": "sequence",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.496",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "石油名词",
+   "wordNumber": "02.0861",
+   "subjectFullName": "石油_油气地质勘探_石油地震地层学",
+   "subjectName": "石油地震地层学",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "数学名词",
+   "wordNumber": "05.0026",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "地质学名词",
+   "wordNumber": "02.033",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "δ序列",
+   "en": "δ sequence",
+   "source": "遗传学名词",
+   "wordNumber": "03.581",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "Ty转座子两端长约300bp的正向重复序列。"
+  },
+  {
+   "cn": "chi序列",
+   "en": "chi sequence,χsequence",
+   "source": "遗传学名词",
+   "wordNumber": "03.430",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "大肠杆菌中与同源重组活性较高有关的一段序列，即GCTGGTGG，既是recBC的识别序列，又是其激活序列。"
+  },
+  {
+   "cn": "二元系相图",
+   "en": "binary diagram",
+   "source": "地质学名词",
+   "wordNumber": "13.05.031",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "独立组分数为2的体系相图。常用压力-组分图、温度-组分图等表示相平衡的关系。"
+  },
+  {
+   "cn": "双重星系",
+   "en": "binary galaxies",
+   "source": "天文学名词",
+   "wordNumber": "08.788",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "两个视位置很接近的星系，或具有物理联系，或由投影效应所致。"
+  },
+  {
+   "cn": "二体碰撞",
+   "en": "binary collision",
+   "source": "天文学名词",
+   "wordNumber": "03.026",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "多体问题中的两个质点相碰的现象。"
+  },
+  {
+   "cn": "双星出现率",
+   "en": "binary frequency",
+   "source": "天文学名词",
+   "wordNumber": "08.056",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "属于双星的恒星在全部恒星中所占的比例。"
+  },
+  {
+   "cn": "吸积双星",
+   "en": "accreting binary",
+   "source": "天文学名词",
+   "wordNumber": "08.151",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "主星与伴星之间有吸积物质流的一类密近双星。"
+  },
+  {
+   "cn": "活动双星",
+   "en": "active binary",
+   "source": "天文学名词",
+   "wordNumber": "08.152",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "表现出强的Hα发射，CaⅡ的H，K线发射，射电和X射线发射以及光变曲随时间变化等活动现象的双星。"
+  },
+  {
+   "cn": "天体测量双星",
+   "en": "astrometric binary",
+   "source": "天文学名词",
+   "wordNumber": "08.160",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "通过天体测量方法发现其自行行迹为曲线，并可用存在某伴星来解释其行迹而发现的物理双星。"
+  },
+  {
+   "cn": "二进制[的]",
+   "en": "binary",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二进制",
+   "en": "binary",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二进制[的]",
+   "en": "binary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "序列器",
+   "en": "sequencer",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模进",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "继叙咏",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "二元性状",
+   "en": "binary character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双名",
+   "en": "binary name",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双名组合",
+   "en": "binary combination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二叉树",
+   "en": "binary tree",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双气旋",
+   "en": "binary cyclones",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双台风",
+   "en": "binary typhoons",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二元催化剂",
+   "en": "binary catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双循环",
+   "en": "binary cycle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模式微生物基因组测序、数据挖掘及功能解析全球合作计划",
+   "en": "Global Catalogue of Microorganisms 10K Type Strain Sequencing Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 12054-1989 数据处理 转义序列的登记规程》",
+   "en": "GB/T 12054-1989 Data processing — Procedure for registration of escape sequences",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二分型",
+   "en": "binary",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "仅使用两个类别去测量一个性质或属性的测量方式。"
+  },
+  {
+   "cn": "二元对立",
+   "en": "binary opposition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0571",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一组意义相反的概念，彼此相互排斥、形成对比，但并非是一种矛盾关系，而是结构的、互为补充的关系。在瑞士语言学家索绪尔开创的结构语言学中，通过二元对立可建立语言单位的意义，每一个单位通过与其他词汇的对等划"
+  },
+  {
+   "cn": "二元化学武器",
+   "en": "binary chemical weapon",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.2.4",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器",
+   "subjectName": "化学武器",
+   "publishYear": "2025",
+   "definition": "将两种无毒或低毒性前体化学物质分隔装填在同一弹体不同隔室内，在弹药发射或爆炸过程中，两种前体化学物质混合并相互作用，生成一种新的剧毒化学物质的化学武器。"
+  },
+  {
+   "cn": "二元过氧乙酸",
+   "en": "binary peroxyacetic acid",
+   "source": "消毒学",
+   "wordNumber": "2.1.14.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "过氧乙酸性质不稳定，一般需要在使用前由A剂（过氧化氢）与B剂（乙酸、硫酸或盐酸）按一定比例混合生成。商品态的A、B剂称为二元过氧乙酸。"
+  },
+  {
+   "cn": "靶向测序",
+   "en": "targeted sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "利用多重聚合酶链反应或杂交捕获的方法对目标基因 组区域进行富集并测序的一种技术。优 势在于有效降低成本、获得更深的覆盖度。"
+  },
+  {
+   "cn": "测序技术",
+   "en": "sequencing techniques",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.70",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对多聚体中单体排列顺序进行测定的方法。如测定DNA、寡肽、多糖链基本组成单位残基(核苷酸、氨基酸、单糖等)的排列顺序。"
+  },
+  {
+   "cn": "二元包装消毒产品",
+   "en": "binary packaging disinfection product",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "原料分为两个最小包装，使用时应混合的消毒产品。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "二代测序",
+   "en": "next-generation sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一次可以对几十万至数亿条DNA模板同时进行序列测定的技术。是对传统桑格 （Sanger）测序革命性的改变， 核心思想是边合成边测序。"
+  },
+  {
+   "cn": "单分子测序",
+   "en": "\"single molecule sequencing\"",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "“第三代测序技术 (third generation sequencing technique)”。在DNA测序时，不需要经过PCR扩增，对每一条DNA分子进行单独测序的技术。为单分子实时DNA测序。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对不同年龄组的儿童少年进行横向调查，然后在间隔一定的时间后，对同一批儿童少年进行一次或多次重复调查，从而构成追踪性调查设计的一种方法。该方法可克服追踪调查所需年限太长、样本易流失等缺点。"
+  },
+  {
+   "cn": "比哈尔人",
+   "en": "Bihars",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0025",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "印度民族之一。人口约为1038 万（2011 年）。主要分布在比哈尔邦及其周边地区，巴基斯坦、孟加拉和尼泊尔等国也有分布。属欧罗巴人种印度地中海类型，混有达罗毗荼人血统。操比哈尔语，属印欧语系印度-伊"
+  },
+  {
+   "cn": "尿液标本",
+   "en": "urinary specimen",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.20.13",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "从人体采集的尿液样本，用于尿液理化性质及内容物非生理性改变的检测以及对病原体的培养。"
+  },
+  {
+   "cn": "尿失禁",
+   "en": "urinary incontinence",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.21",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "清醒状态下尿液不自主流出的现象。漏出道可以是尿道，称为尿道源性尿失禁，如神经源性膀胱。漏出道也可以是其他腔道（如阴道），称为尿道外尿失禁，如输尿管异位开口等。"
+  },
+  {
+   "cn": "尿潴留",
+   "en": "urinary retention",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.22",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "膀胱充满尿液不能排出，导致膀胱过度膨胀、膀胱内压力增高的状态。分为急性和慢性。常见于良性前列腺增生、尿道损伤和狭窄、神经源性膀胱、脊髓或颅脑疾病或损伤的患者。"
+  },
+  {
+   "cn": "原发性胆汁性胆管炎",
+   "en": "primary biliary cholangitis，PBC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.17.10",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_其他风湿免疫病",
+   "subjectName": "其他风湿免疫病",
+   "publishYear": "2025",
+   "definition": "一种自身免疫介导的肝内胆管损伤而导致慢性胆汁淤积性肝脏疾病。最终出现纤维化、肝硬化甚至肝功能衰竭，约90%~95%患者血清中可检测到线粒体抗体，主要病理特征是慢性进行性非化脓性胆管炎。"
+  },
+  {
+   "cn": "围绝经期压力性尿失禁",
+   "en": "perimenopausal stress urinary incontinence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.5.6",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "围绝经期发生的，腹压突然增加而导致尿液不自主流出的现象。主要原因是卵巢功能减退及泌尿道发生退行性改变，使得尿道张力及尿道内压力下降，膀胱内压力超过尿道内压力。"
+  },
+  {
+   "cn": "乳基婴儿配方食品",
+   "en": "diary-based infants formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.2",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "以乳类及乳蛋白制品为主要蛋白质来源，加入适量的维生素、矿物质和（或）其他原料，仅用物理方法生产加工制成的适用于正常婴儿食用的产品。"
+  },
+  {
+   "cn": "泌尿系统改变",
+   "en": "changes in the urinary system",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.5.2.6",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业机体变化",
+   "subjectName": "高温作业机体变化",
+   "publishYear": "2025",
+   "definition": "高温作业时，肾血流量和肾小球滤过率下降，尿中可出现蛋白、红细胞管型，甚至可出现肾功能不全。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

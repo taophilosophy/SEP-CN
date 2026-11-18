@@ -1,0 +1,802 @@
+{
+ "key": "close examination",
+ "term": "close examination",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:17:59+00:00",
+ "status": "ok",
+ "note": "variant=close examination; 审定公布名词库=1067; 海峡两岸名词对照库=255; 其他来源数据库=82; 预公布名词数据库=61; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "闭卷考试",
+   "en": "closed-book examination",
+   "source": "教育学名词",
+   "wordNumber": "02.218",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "答卷时不可以查阅任何资料的考试方式。"
+  },
+  {
+   "cn": "相度",
+   "en": "examination",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "06.037",
+   "subjectFullName": "中医药学_骨伤科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "通过观察损伤肢体的外观，度量其损伤程度。"
+  },
+  {
+   "cn": "考试",
+   "en": "examination",
+   "source": "教育学名词",
+   "wordNumber": "02.216",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "检查、评定学业成绩和教学效果的一种方法。根据一定的教育目的，让学生按照一定的方式来解答试题，并对其解答结果评等级或记分数，具有评定、诊断、反馈、预测和激励的功能。包括口试、笔试和操作考试等形式。"
+  },
+  {
+   "cn": "审查",
+   "en": "examine",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.031",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "检查和核对文件资料是否规范和正确的过程。在放射卫生防护领域，通常是针对许可、注册等审批事项的申请资料或技术报告、计划、标准、著作等文件资料进行的审查。"
+  },
+  {
+   "cn": "合闸",
+   "en": "closing",
+   "source": "电力名词",
+   "wordNumber": "19.295",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "开关从分位置转换到合位置。"
+  },
+  {
+   "cn": "紧密度",
+   "en": "closeness",
+   "source": "生物物理学名词",
+   "wordNumber": "06.157",
+   "subjectFullName": "生物物理学_生物信息学_系统生物学与合成生物学",
+   "subjectName": "系统生物学与合成生物学",
+   "publishYear": "2018",
+   "definition": "网络中某个节点的中心性度量。一般定义为该节点到网络中其他可达节点平均最短路径的倒数值。"
+  },
+  {
+   "cn": "成交",
+   "en": "closing",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0642",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售人员与顾客达成订单。是销售过程的一个阶段。"
+  },
+  {
+   "cn": "结账",
+   "en": "closing",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0060",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "在会计期末计算并结转各账户的本期发生额和余额，结束账簿记录的程序。"
+  },
+  {
+   "cn": "[闭]合",
+   "en": "closing",
+   "source": "电气工程名词",
+   "wordNumber": "09.395",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "影像学检查",
+   "en": "imaging examination;imageological examination",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.115",
+   "subjectFullName": "总论_内分泌代谢性疾病诊断与治疗",
+   "subjectName": "内分泌代谢性疾病诊断与治疗",
+   "publishYear": "2025",
+   "definition": "借助X线片、B超、磁共振成像（MRI）、计算机体层成像（CT）、正电子发射体层成像（PET）等对内分泌腺形态、大小及占位性病变进行检查的方法。"
+  },
+  {
+   "cn": "影像学检查",
+   "en": "imaging examination;imageological examination",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.164",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_妇科检查及方法",
+   "subjectName": "妇科检查及方法",
+   "publishYear": "2022",
+   "definition": "借助某种介质（如X线、电磁场、超声波等）与人体相互作用，把人体内部组织器官结构、密度以影像方式呈现出来的技术。供医生根据影像信息进行判断，从而对人体健康状况进行评价。"
+  },
+  {
+   "cn": "细胞学检查",
+   "en": "cytological examination",
+   "source": "普通外科学名词",
+   "wordNumber": "12.027",
+   "subjectFullName": "医学_普通外科学_常用诊断技术",
+   "subjectName": "常用诊断技术",
+   "publishYear": "2026",
+   "definition": "用多种方法从机体获得细胞标本，通过观察其形态特征变化来诊断疾病的操作。其标本主要包括体液自然脱落细胞、器官黏膜上皮细胞及细针穿刺获得的细胞。"
+  },
+  {
+   "cn": "组织学检查",
+   "en": "histological examination",
+   "source": "普通外科学名词",
+   "wordNumber": "12.028",
+   "subjectFullName": "医学_普通外科学_常用诊断技术",
+   "subjectName": "常用诊断技术",
+   "publishYear": "2026",
+   "definition": "用多种方法从机体获得组织标本，通过观察其形态特征变化来诊断疾病的操作。其标本主要来自手术切取或粗针穿刺获得的组织。"
+  },
+  {
+   "cn": "双合诊检查",
+   "en": "bimanual examination",
+   "source": "普通外科学名词",
+   "wordNumber": "19.182",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "一手的两指或一指放入阴道，另一手在腹部配合的一种检查方法。目的在于检查阴道、宫颈、宫体、输卵管、卵巢、宫旁结缔组织及骨盆腔有无异常。"
+  },
+  {
+   "cn": "三合诊检查",
+   "en": "trimanual examination",
+   "source": "普通外科学名词",
+   "wordNumber": "19.183",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "一手的一指放入直肠、一指放入阴道，另一手在腹部配合的一种检查方法。有助于检查骨盆腔较后部及子宫直肠窝的情况。"
+  },
+  {
+   "cn": "外阴部检查",
+   "en": "vulval examination",
+   "source": "妇产科学名词",
+   "wordNumber": "2.014",
+   "subjectFullName": "妇科症状、体征及检查_妇科体格检查",
+   "subjectName": "妇科体格检查",
+   "publishYear": "2025",
+   "definition": "通过目测及触诊对外阴进行初步的常规检查。包括观察外阴发育及阴毛分布，注意大阴唇、小阴唇及会阴部位有无皮炎、溃疡、赘生物或色素减退等变化；观察阴蒂、尿道口及处女膜情况，有无会阴侧切及陈旧撕裂瘢痕；必要时"
+  },
+  {
+   "cn": "双合诊检查",
+   "en": "bimanual examination",
+   "source": "妇产科学名词",
+   "wordNumber": "2.016",
+   "subjectFullName": "妇科症状、体征及检查_妇科体格检查",
+   "subjectName": "妇科体格检查",
+   "publishYear": "2025",
+   "definition": "应用经阴道、腹部联合检查法了解盆腔脏器情况的检查。检查者一只手的两指或一指放入阴道，另一只手在腹部配合检查。目的主要是扪清阴道壁、宫颈、宫体、输卵管、卵巢、子宫韧带及宫旁结缔组织，了解女性内生殖器情况"
+  },
+  {
+   "cn": "三合诊检查",
+   "en": "rectovaginal examination",
+   "source": "妇产科学名词",
+   "wordNumber": "2.021",
+   "subjectFullName": "妇科症状、体征及检查_妇科体格检查",
+   "subjectName": "妇科体格检查",
+   "publishYear": "2025",
+   "definition": "应用经直肠、阴道、腹部联合检查法进行的盆腔检查。是双合诊检查的补充，有助于查清盆腔后部及子宫直肠窝的情况。"
+  },
+  {
+   "cn": "呼吸检查",
+   "en": "breath examination",
+   "source": "急救医学名词",
+   "wordNumber": "07.027",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救设备与检查项目_急救检查项目",
+   "subjectName": "急救检查项目",
+   "publishYear": "2025",
+   "definition": "通过视、触、叩、听基本的物理方法对患者呼吸状态做出判断的检查。包括呼吸方式、频率、节律和幅度、深度、时相，以及呼吸音、啰音（性质、位置及量）、呼吸运动是否左右对称，呼气有无特殊气味等。"
+  },
+  {
+   "cn": "脉搏检查",
+   "en": "pulse examination",
+   "source": "急救医学名词",
+   "wordNumber": "07.028",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救设备与检查项目_急救检查项目",
+   "subjectName": "急救检查项目",
+   "publishYear": "2025",
+   "definition": "用指腹触及动脉搏动最明显处，感知其频率、节律及力度的检查。常见检查部位有颈动脉、肱动脉、桡动脉、股动脉、足背动脉，通过脉搏检查可以初步判断被检查者的血液循环情况。"
+  },
+  {
+   "cn": "亲密性",
+   "en": "closeness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定量检查",
+   "en": "quantitative examination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "金相检查",
+   "en": "metallographic examination",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "水质检查",
+   "en": "water examination",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "加密探测",
+   "en": "development examination",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "超声波探伤",
+   "en": "ultrasonic examination",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "健康检查",
+   "en": "medical examination",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "密集和声",
+   "en": "close harmony",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "密近交会",
+   "en": "close encounter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "场外收盘价",
+   "en": "kerb close",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "拉到顶",
+   "en": "close up",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "抢风",
+   "en": "close haul",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "闭锁脉序",
+   "en": "closed venation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "封闭系统",
+   "en": "closed system",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "郁闭植被",
+   "en": "closed vegetation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "闭合单体",
+   "en": "closed cell",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "闭合流域，闭合盆地",
+   "en": "closed basin",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "闭合系统",
+   "en": "closed system",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式叶轮",
+   "en": "closed impeller",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "闭环",
+   "en": "closed loop",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "体检",
+   "en": "medical examination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "验马",
+   "en": "veterinary examination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "验马",
+   "en": "veterinary examination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格",
+   "en": "Examine / Study",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "枪支检查员",
+   "en": "firearms examiner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "密切接触者",
+   "en": "close contact",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贴身带球",
+   "en": "close dribble",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式防守姿势",
+   "en": "closed guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛道关闭",
+   "en": "closed arena",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭站姿",
+   "en": "closed stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式多重障碍",
+   "en": "closed combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离中心度",
+   "en": "closeness centrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "闭幕式",
+   "en": "closing ceremony",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "城市体检",
+   "en": "city health examination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "近射",
+   "en": "close-range shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近风航行",
+   "en": "sail close-hauled",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关闭击剑线",
+   "en": "close a line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭气室",
+   "en": "closed cell foam",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关闭拍面",
+   "en": "closed racket position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "细胞遗传学检查",
+   "en": "cytogenetic examination",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "用细胞学和遗传学相结合的方法研究与遗传学现象相关的细胞变化的检查，包括外周血淋巴细胞染色体畸变分析和微核试验。"
+  },
+  {
+   "cn": "健康体检",
+   "en": "physical examination",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学生体质与健康状况监测",
+   "subjectName": "学生体质与健康状况监测",
+   "publishYear": "2025",
+   "definition": "学校组织开展的为维护学生身体健康从而达到预防保健的目的而进行的体格检查。"
+  },
+  {
+   "cn": "孕前医学检查",
+   "en": "preconception examination",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕前保健",
+   "subjectName": "孕前保健",
+   "publishYear": "2025",
+   "definition": "通过对孕前夫妇高危因素的评估，及夫妇双方的体格检查、实验室和影像学等辅助检查，发现将会影响孕妇身体健康和未来胎儿健康的疾病，以及影响受孕的疾病的服务。"
+  },
+  {
+   "cn": "肉眼检查",
+   "en": "gross examination",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.12",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "取适量食品样品于白色瓷盘上，在自然光下观察色泽和状态，嗅其气味。常用于鲜、冻动物性水产品质量检测的方法。"
+  },
+  {
+   "cn": "过度检查",
+   "en": "over examination",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.027",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "为患者提供超出其自身疾病和临床诊断实际需求的医疗检查行为。"
+  },
+  {
+   "cn": "显微镜检查",
+   "en": "microscopic examination",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.114",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种使用显微镜来观察并分析细胞、细菌、病毒等微小生物的结构和特征的技术。"
+  },
+  {
+   "cn": "健康体检",
+   "en": "physical examination",
+   "source": "社会医学名词",
+   "wordNumber": "7.15",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康体检",
+   "publishYear": "2025",
+   "definition": "通过医学手段和方法对无症状个体或群体进行的系统化身体检查。旨在了解受检者健康状况、早期发现疾病线索及健康隐患的预防性诊疗行为。"
+  },
+  {
+   "cn": "亲密关系",
+   "en": "close relationship",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "交往双方彼此影响、相互依赖程度极强的关系模式。其特点为两人存在持久的频繁互动，共享许多兴趣爱好，经常共同参与各类活动，相互影响力很大。"
+  },
+  {
+   "cn": "封闭社会",
+   "en": "closed society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "缺乏信息公开交流和社会自由流动、思想单一僵化、社会等级化的极权社会。最早由哲学家亨利·伯格森提出。与“开放社会”相对。。"
+  },
+  {
+   "cn": "封闭小组",
+   "en": "closed group",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "小组成员固定的小组。从小组聚会开始到结束都是相同的成员组合，不会随时间的变化而增加或减少组员。一般来说，深刻的互动关系和一些特殊的治疗关系都是在封闭的小组中完成的。"
+  },
+  {
+   "cn": "封闭人口",
+   "en": "closed population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口中没有发生迁移活动，出生和死亡成为影响人口规模变动的两个因素。"
+  },
+  {
+   "cn": "职业健康检查",
+   "en": "occupational health examination",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "为评价放射工作人员健康状况而进行的医学检查。包括上岗前、在岗期间和离岗时的职业健康检查。"
+  },
+  {
+   "cn": "甲状腺功能检查",
+   "en": "thyroid function examination",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "通过检测血液中的甲状腺激素水平来评估甲状腺功能，一般分为甲功3项和5项，其中甲功3项包括血清总或游离甲状腺素（TT4/FT4）、血清总或游离三碘甲状腺原氨酸（TT3/FT3）和促甲状腺激素（TSH）。"
+  },
+  {
+   "cn": "常规医学检查",
+   "en": "routine medical examination",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.15",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "一般指普通健康检查和大多数职业健康检查常包括的检查项目，包括内科、外科和其他专科的常规检查和实验室常规检查，如血常规、尿常规、肝功能、肾功能检查，心电图、腹部B超和胸部X线摄影等。"
+  },
+  {
+   "cn": "特殊医学检查",
+   "en": "special medical examination",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "一般指细胞遗传学检查和眼科检查等，其中细胞遗传学检查包括外周血淋巴细胞染色体畸变分析和淋巴细胞微核试验；眼科检查包括视力、色觉、眼底和裂隙灯检查。"
+  },
+  {
+   "cn": "检查结果处理",
+   "en": "examination result processing",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.22",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "针对职业健康检查结果给出的处理意见，包括复查或其他处理意见。"
+  },
+  {
+   "cn": "科举社会",
+   "en": "imperial examination society",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "用于解释读书人通过科举考试选拔获得从政资格，进而领导社会的概念。这同样出自钱穆的中国社会演变论。这种社会上承游士社会和郎吏社会，中心力量即知识分子，自隋唐科举制度始，至宋成熟，一直存续到清科举制度结束"
+  },
+  {
+   "cn": "科举制度",
+   "en": "imperial examination system",
+   "source": "社会学名词",
+   "wordNumber": "3.12.9.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "中国历代封建王朝通过考试选拔官吏的一种制度。由于采用分科取士的办法，所以叫做科举。科举制从隋朝大业元年(公元605年）开始实行，到清朝光绪三十一年(公元1905年）举行最后一科进士考试为止。"
+  },
+  {
+   "cn": "应试教育",
+   "en": "examination-oriented education",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.3",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "以考试成绩衡量学生优劣、以获取好成绩为目标的教育制度。与“素质教育”相对。"
+  },
+  {
+   "cn": "X线检查",
+   "en": "X-ray examination",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "利用X线的生物效应进行疾病检查的方法。检查方法有透视、常规摄影、高千伏摄影、体层摄影、造影等。是风湿免疫病学影像诊断的主要方法之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

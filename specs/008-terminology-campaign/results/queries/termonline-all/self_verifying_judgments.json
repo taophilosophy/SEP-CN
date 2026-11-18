@@ -1,0 +1,742 @@
+{
+ "key": "self-verifying judgments",
+ "term": "self-verifying judgments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:16:39+00:00",
+ "status": "ok",
+ "note": "variant=self-verifying judgments; 审定公布名词库=1146; 海峡两岸名词对照库=474; 其他来源数据库=77; 预公布名词数据库=82; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "自我判断",
+   "en": "self-judgment",
+   "source": "行为医学名词",
+   "wordNumber": "5.018",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体为自己行为确立某个目标，以此来判断自己的行为与“标准”之间的差距，并引起肯定或否定自我评价的过程。"
+  },
+  {
+   "cn": "可证实性",
+   "en": "verifiability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.038",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "在逻辑上有被经验证实的可能性。"
+  },
+  {
+   "cn": "判断力",
+   "en": "judgment",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.165",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对事物、信息的分析决断能力。"
+  },
+  {
+   "cn": "检验装置",
+   "en": "verifying unit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1298",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "数据传输系统中，用于验证数据流中是否存在错误的装置。"
+  },
+  {
+   "cn": "软件验证程序",
+   "en": "software verifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0512",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "用来验证软件正确性等性质的程序。"
+  },
+  {
+   "cn": "验证保护",
+   "en": "verified protection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0222",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "系统设计经过形式化安全验证的安全保护。"
+  },
+  {
+   "cn": "道威判据",
+   "en": "Dove judgment",
+   "source": "光学名词",
+   "wordNumber": "14.275",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "一个定义光学系统分辨能力的判据，即两个相邻像点之间的衍射斑中心距为0.85倍的艾里斑半径时，这两个点恰好被光学系统分辨。"
+  },
+  {
+   "cn": "专家判断",
+   "en": "expert judgment",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0246",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "根据在应用领域、知识领域、专业学科、行业等的专长对于当前活动提供的适当判断。"
+  },
+  {
+   "cn": "审美判断",
+   "en": "aesthetic judgment",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对审美对象给予美丑等评价的心理过程。"
+  },
+  {
+   "cn": "专家判断法",
+   "en": "expert judgment",
+   "source": "药学名词",
+   "wordNumber": "10.101",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "向具有特定专业知识的人征求意见的方法。通常采用小组座谈的方式，其目的在于当某些变量难以获得时，利用专家经验做出快速评估。"
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgment",
+   "source": "教育学名词",
+   "wordNumber": "01.223",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "依据一定的道德行为准则对自己或他人的行为作出是非、善恶评定的逻辑思维形式。"
+  },
+  {
+   "cn": "标准容积段",
+   "en": "verified volume section",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "02.152",
+   "subjectFullName": "机械工程_仪器仪表_工业自动化仪表与系统_流量测量仪表_流量测量校验装置和方法",
+   "subjectName": "流量测量校验装置和方法",
+   "publishYear": "2003",
+   "definition": "在两个检测开关之间容积经过校准的一段管道。"
+  },
+  {
+   "cn": "审计职业判断",
+   "en": "audit professional judgment",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0352",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "在审计准则、财务报告编制基础和职业道德要求的框架下，审计师综合运用相关知识、技能和经验，做出的适合审计业务具体情况的、有根据的行动决策。"
+  },
+  {
+   "cn": "医学审美判断",
+   "en": "medical aesthetic judgment",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "医学审美主体通过知觉感悟或理性论证，对特定观赏对象的审美特性和价值进行分析和概括的审美思维过程。它不同于逻辑认知判断和道德判断，是一种具有审美主体的情感因素和个性特征的主观判断。"
+  },
+  {
+   "cn": "医学审美判断",
+   "en": "medical aesthetic judgment",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0034",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "布鲁氏菌病疫情核实",
+   "en": "verifying brucellosis epidemic situation",
+   "source": "地方病学名词",
+   "wordNumber": "08.015",
+   "subjectFullName": "地方病学_布鲁菌病_流行病学",
+   "subjectName": "流行病学",
+   "publishYear": "2016",
+   "definition": "接到布鲁氏菌病疫情报告后，疾病预防控制人员通过病例确认及听取疫情介绍、座谈等，初步掌握疫情范围、程度、性质等的过程。"
+  },
+  {
+   "cn": "概率可检测证明验证者",
+   "en": "probabilistically checkable proofs verifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0375",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个概率多项式时间算法 V ，它通过随机地查一个证明表Π中的少量几位来判定是否接受一个输入 x 。"
+  },
+  {
+   "cn": "春秋笔法",
+   "en": "rhetoric of hidden judgments",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.183",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "文笔曲折，意含褒贬的文字。其语义源出《左传·成公十四年》：“《春秋》之称，微而显，志而晦，婉而成章，尽而不污，惩恶而劝善。”后人称其为孔子写史书的春秋笔法。其要义是以合乎礼法作为标准，既包括不隐晦事实"
+  },
+  {
+   "cn": "判断动词",
+   "en": "judgment verb,copular verb",
+   "source": "语言学名词",
+   "wordNumber": "04.064",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "用在名词性词语前边表示断定的动词。例如“是”。"
+  },
+  {
+   "cn": "炉况判断",
+   "en": "judgment of BF running",
+   "source": "冶金学名词",
+   "wordNumber": "05.0815",
+   "subjectFullName": "冶金学_钢铁冶金_炼铁",
+   "subjectName": "炼铁",
+   "publishYear": "2019",
+   "definition": "根据各有关操作指标的显示来分析炉子冶炼状况及其发展趋势，并做出判断。"
+  },
+  {
+   "cn": "置信度",
+   "en": "verifiability",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "验证者",
+   "en": "verifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检验装置",
+   "en": "verifying unit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序验证器",
+   "en": "program verifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软件验证程序",
+   "en": "software verifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "验证化保护",
+   "en": "verified protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "验证化设计",
+   "en": "verified design",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "视频缓冲查证器",
+   "en": "video buffering verifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情境判断测验",
+   "en": "situational judgment test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自交不育性",
+   "en": "self-sterility\",\"self-infertility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自固化",
+   "en": "self-cure\",\"self-curing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真实［自］我，现实［自］我，实际［自］我",
+   "en": "real self\",\"actual self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我一致性",
+   "en": "self consistency\",\"self congruence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我评价",
+   "en": "self assessment\",\"self evaluation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我",
+   "en": "ego\",\"self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自净作用",
+   "en": "self-purification",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "自[体]适应",
+   "en": "self-adaptation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "自体受精",
+   "en": "self-fertilization",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "自[我]调节",
+   "en": "self-regulation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "裁定",
+   "en": "judgment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无法判定",
+   "en": "judgment impossible",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主观判断",
+   "en": "judgment call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无法判断",
+   "en": "impossible judgment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确认比赛结果",
+   "en": "verify the results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判",
+   "en": "judge\",\"referee\",\"judgment\",\"refereeing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自治",
+   "en": "Self-discipline / Self-control",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "己（我）",
+   "en": "Self (Myself)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自金融",
+   "en": "self-finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自融资",
+   "en": "self-financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自学习",
+   "en": "self-learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自我赋权",
+   "en": "self-empowerment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自知",
+   "en": "Know One’s Self / Self-knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0316",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "假鬼神意志裁决争论之是非曲直的一种活动；建立在神灵、鬼魂崇拜基础之上。一是用于驱逐灾魔。巫师念咒语，来回跳跃，表示以神的威力压倒邪恶；二是用于解决内部纠纷，裁决宗教诉讼。有捞油锅、捏鸡蛋、吃血酒等多种"
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.031",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "根据道德标准或道德直觉判定自己或他人行为及其结果的善恶与道德责任的过程。是对道德现象作出断定的思维活动。"
+  },
+  {
+   "cn": "适任性评价",
+   "en": "judgment on worker fitness",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.19",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据放射工作人员健康要求对健康检查结果进行综合分析，并对其是否适任拟承担或所承担的放射工作做出评价和签发。"
+  },
+  {
+   "cn": "自净",
+   "en": "self-purification",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "利用日光照射和风、雨等作用使环境污染的生物、化学和放射物质自然衰亡，达到无害化的过程。"
+  },
+  {
+   "cn": "自身消毒",
+   "en": "self disinfection",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对用于清洗、消毒和漂洗器械使用的水和水溶液接触的机器自身所有的液体输送系统、腔体、水槽和其他部件进行的消毒。"
+  },
+  {
+   "cn": "自检",
+   "en": "self-inspection",
+   "source": "消毒学",
+   "wordNumber": "5.1.11.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业根据产品执行标准对所生产的消毒产品自行检验的过程。"
+  },
+  {
+   "cn": "自吸收",
+   "en": "self-absorption",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "电离辐射被辐射体材料本身所吸收的一种现象。在放射源中称为源自吸收。在测量α或β放射源活度中，自吸收需要修正。如用4πβ计数管进行测量时，需要采用各种制源技术制成薄膜源，降低自吸收。"
+  },
+  {
+   "cn": "自我评估",
+   "en": "self-assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.19",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "由高级管理人员和其他级别的管理人员执行的常规和持续过程，以评估其所有职责领域的绩效有效性。"
+  },
+  {
+   "cn": "自屏蔽",
+   "en": "self-shielding",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.11",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "源物质本身及其结构材料对源辐射的屏蔽。"
+  },
+  {
+   "cn": "自组织",
+   "en": "self-organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "不存在外部因素的控制、管理和引导，系统按照相互默契的某种规则，各尽其责而又协调地自动地形成有序结构的过程。艾什比(W.R.Ashby）首先提出自组织概念，之后学者将之应用于社会组织分析。与“他组织”相"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个人在社会化过程中逐渐形成的关于自身及其与所处环境之间关系的多维度、多层次的认知和评价，其中包括对自身生理特征、心理特征、人际关系状况、社会角色与地位、成长史、未来发展预期等方面内容的认知和评价。"
+  },
+  {
+   "cn": "自我构念",
+   "en": "self construal",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "美国心理学家马库斯(Hazel Markus）与日本心理学家北山(Shinobu Kitayama）在有关东西方文化因素对个体社会化过程影响的分析中提出的概念，指个体自我建构的与他人关系的认知结构性表"
+  },
+  {
+   "cn": "自我认同",
+   "en": "self identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "美国心理学家埃里克森(Erik Homburger Erikson）等人在青少年群体心理发展研究中提出的概念，常用于发展心理学领域，指青少年因其需要、情感、能力、目标、价值观等特质被整合为统一的人格框"
+  },
+  {
+   "cn": "自我意象",
+   "en": "self image",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体围绕“我是怎样一个人”、“我能干什么”等问题所“刻画”并认可的自我“图像”或“肖像”。具体包括自己如何看待自己，他人如何看待自己，以及自己如何看待他人如何看待自己等三个方面的内容。既可能是积极的，"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同但又有所关联的含义：一是指个体对自己身心活动的觉察，指向内在的心理过程、不为人知的私密性特征或经验以及能够为人所观察、知晓的公开性特征或经验；二是指个体在特定社会情境下过于从他人角度关注自我"
+  },
+  {
+   "cn": "自我觉察",
+   "en": "self-awareness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同含义：一是指个体对作为观察与分析客体的自我的知觉，包括身体感觉、动作及心理过程等；二是指个体对自己作为一个与他人相区隔，拥有一己知觉、情绪、情感、思想的独立个体的理解。"
+  },
+  {
+   "cn": "自我知觉",
+   "en": "self-perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "贝姆(Daryl Bem)于20世纪70年代提出的理论，认为如果有关自我的内部线索不牢固、模糊或无法解释，人们即有可能通过观察自己的行为并分析其外在背景来获得自我认识，甚至得出为何产生这种行为的逻辑性"
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体在已有经验基础上所形成的有关“自我”的结构化的心理表征，它既包括以具体的事件和情境为基础的认知表征(如“我昨天在会上发言时犹豫不决”) ，也包括较为概括的、来自本人或他人评价的认知表征(如“我为人"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self-presentation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "任何旨在制造、保持、修改他人对自己的印象的行为，系社会互动的一个重要方面。由美国社会学家戈夫曼(Erving Goffman）提出的相关理论认为，人们总是倾向于通过根据当下的社会情景或人际背景，有意识"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

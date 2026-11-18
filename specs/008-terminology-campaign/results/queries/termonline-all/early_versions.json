@@ -1,0 +1,782 @@
+{
+ "key": "early versions",
+ "term": "early versions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:23:08+00:00",
+ "status": "ok",
+ "note": "variant=early versions; 审定公布名词库=431; 海峡两岸名词对照库=71; 其他来源数据库=24; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "转胎位术",
+   "en": "version",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.415",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "内转胎位术",
+   "en": "internal version",
+   "source": "妇产科学名词",
+   "wordNumber": "18.047",
+   "subjectFullName": "异常分娩_胎位异常",
+   "subjectName": "胎位异常",
+   "publishYear": "2025",
+   "definition": "肩先露分娩时的一种助产技术。接产者将一只手伸入宫腔，抓住一只或者两只胎足，并将其牵出宫颈口，同时经腹向对侧推动胎儿身体上部，使胎位转为臀先露后进行臀牵引分娩。"
+  },
+  {
+   "cn": "增订本",
+   "en": "updated version",
+   "source": "档案学名词",
+   "wordNumber": "04.03.027",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献编纂中，指将初编的档案材料与初编出版后发现的遗漏材料和新材料沿用原编纂体例统一编排而成的档案文献出版物。"
+  },
+  {
+   "cn": "洁本",
+   "en": "expurgated version",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.183",
+   "subjectFullName": "图书馆·情报与文献学_文献学_版本学",
+   "subjectName": "版本学",
+   "publishYear": "2019",
+   "definition": "（1）版面干净、整洁的本子。（2）又称“节本”。书籍的部分内容经过处理后的版本。（3）由于书籍的部分内容被认为有伤风化或不利于读者阅读而遭删除处理后的版本。"
+  },
+  {
+   "cn": "版本管理",
+   "en": "version management",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0285",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "对数据对象的多个版本进行的保存、修改和维护。版本记录了数据对象某个时刻的状态。"
+  },
+  {
+   "cn": "版本控制",
+   "en": "version control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0437",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "软件配置管理的一项内容。对程序、文档等项目制品的版本变更进行管理的活动。"
+  },
+  {
+   "cn": "版本升级",
+   "en": "version upgrade",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0439",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "使用新版本软件替代旧版本软件的活动。一般对旧版本的漏洞打上补丁，或者通过添加新的应用功能来更新软件，使软件更加完善好用。"
+  },
+  {
+   "cn": "版本管理",
+   "en": "version management",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.013",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "根据书籍编辑、印制、软件或数据修改等方面的内容不同而进行的系统性管理。"
+  },
+  {
+   "cn": "外转胎位术",
+   "en": "external version",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.416",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "内转胎位术",
+   "en": "internal version",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.417",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "联合转胎位术",
+   "en": "combined version",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.418",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "IPv4协议",
+   "en": "IP version 4",
+   "source": "通信科学技术名词",
+   "wordNumber": "05.020",
+   "subjectFullName": "通信科学技术_通信协议",
+   "subjectName": "通信协议",
+   "publishYear": "2007",
+   "definition": "因特网上现行的最重要最基本的协议，IP协议的第4版本。"
+  },
+  {
+   "cn": "IPv6协议",
+   "en": "IP version 6",
+   "source": "通信科学技术名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "通信科学技术_通信协议",
+   "subjectName": "通信协议",
+   "publishYear": "2007",
+   "definition": "下一代的因特网协议，IP协议的第6版本，其基本功能与IPv4协议相同，但QoS、安全性更好，支持移动性，并大大增加了地址空间。"
+  },
+  {
+   "cn": "早熟性",
+   "en": "earliness,early maturity",
+   "source": "畜牧学名词",
+   "wordNumber": "02.223",
+   "subjectFullName": "畜牧学_饲养管理_禽饲养",
+   "subjectName": "禽饲养",
+   "publishYear": "2020",
+   "definition": "母禽开始产蛋的日龄较早的性状，为培育和选择高产蛋用家禽的一个指标。"
+  },
+  {
+   "cn": "提前期",
+   "en": "earliness",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.207",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "客户要求的交货日期减去产品加工完毕的日期。"
+  },
+  {
+   "cn": "文件稿本",
+   "en": "versions of records",
+   "source": "档案学名词",
+   "wordNumber": "02.01.067",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "文件在起草直至正式定稿制作完成的过程中形成的一系列具有不同外形特征、不同作用、不同价值的文稿和文本的统称。"
+  },
+  {
+   "cn": "稿本项",
+   "en": "version of document",
+   "source": "档案学名词",
+   "wordNumber": "03.04.011",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "著录项目之一。档案文件的文稿、文本、版本的著录项目。"
+  },
+  {
+   "cn": "征求意见稿",
+   "en": "version for commentary",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.02.017",
+   "subjectFullName": "编辑与出版学_编辑_组稿",
+   "subjectName": "组稿",
+   "publishYear": "2022",
+   "definition": "在定稿前用以向有关各方征求意见的稿件。"
+  },
+  {
+   "cn": "原作版本附注",
+   "en": "original version note",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.596",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "当在编文献为原作的复制品（如摹真本或缩微制品等）时，用于记录其原版文献的书目信息。"
+  },
+  {
+   "cn": "过程的等价形",
+   "en": "version of process",
+   "source": "数学名词",
+   "wordNumber": "09.0196",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "版本",
+   "en": "version",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本",
+   "en": "version",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "版本管理",
+   "en": "version management",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本合并",
+   "en": "version merging",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本检验",
+   "en": "checkout version",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本一致",
+   "en": "version reconciliation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本一致性",
+   "en": "synchronization version",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本管理",
+   "en": "version management",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "版本号",
+   "en": "version number",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "版本控制",
+   "en": "version control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "版本升级",
+   "en": "version upgrade",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协议版本",
+   "en": "protocol version\",\"PV",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "N版本编程",
+   "en": "N-version programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "早期发育",
+   "en": "early development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "早材",
+   "en": "early wood",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "早熟品种",
+   "en": "early variety",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "童年早期",
+   "en": "early childhood",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "早期音乐",
+   "en": "early music",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "早期宇宙",
+   "en": "early universe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "早势垒",
+   "en": "early barrier",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "互联网协议第六版（IPv6）",
+   "en": "Internet Protocol version 6 (IPv6)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防微杜渐",
+   "en": "Take Precautions Early",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "失业预警",
+   "en": "unemployment early warning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预警指令",
+   "en": "early warning instruction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "半截击球",
+   "en": "early ball\",\"half volley\",\"pickup shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大数据预警系统",
+   "en": "big data-based early warning system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "早发现、早报告、早诊断、早隔离、早治疗",
+   "en": "early detection, reporting, diagnosis, isolation and treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险监测预警机制",
+   "en": "financial risk monitoring and early warning mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险预警干预机制",
+   "en": "financial risk early warning and intervention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全监测预警制度",
+   "en": "data security monitoring and early warning mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全风险检测预警机制",
+   "en": "data security risk detection and early warning mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全事件预警通报制度",
+   "en": "early warning system for big data security incidents",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防灾减灾预报预警信息平台",
+   "en": "forecast and early warning platform for disaster prevention and mitigation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疫情防控预警预测机制",
+   "en": "early warning and forecasting mechanism for epidemic prevention and control",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "早期效应",
+   "en": "early effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "机体受到电离辐射照射后数月（一般为3个月）内发生的损伤效应，例如胃肠道反应、白细胞降低、皮肤受照后出现局部红斑等。"
+  },
+  {
+   "cn": "早期发现",
+   "en": "early detection",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.5.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学生体质与健康状况监测",
+   "subjectName": "学生体质与健康状况监测",
+   "publishYear": "2025",
+   "definition": "在尽可能早的阶段将出现症状的病例进行确诊的诊疗技术。"
+  },
+  {
+   "cn": "早期疲劳",
+   "en": "early fatigue",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷",
+   "subjectName": "学习负荷",
+   "publishYear": "2025",
+   "definition": "疲劳的第一阶段。机理是优势兴奋性降低，不能实行对周围区域的抑制，出现所谓的内抑制障碍。主要表现为上课时坐立不安，小动作多，注意力转移等。特点是兴奋过程或内抑制过程之一发生障碍。"
+  },
+  {
+   "cn": "青春早期",
+   "en": "early adolescence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_青春期保健",
+   "subjectName": "青春期保健",
+   "publishYear": "2025",
+   "definition": "月经初潮前体格生长突增的阶段，伴随性器官和第二性征开始发育。"
+  },
+  {
+   "cn": "早吸吮",
+   "en": "early-sucking",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.36.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在新生儿出生后与母亲进行持续皮肤接触的基础上，当其出现觅乳征象时，指导母亲开始母乳喂养，帮助新生儿吸吮乳头，促进早期母乳喂养的保健措施。此时吸吮反射最强，有助于母乳喂养成功，加强宫缩减少产后出血。"
+  },
+  {
+   "cn": "早期防护行动",
+   "en": "early protective action",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.11.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在核或辐射应急情况下在数天乃至数周内可能采取并仍然有效的防护行动。最常见的有避迁和较长期限制消费可能受污染食品。"
+  },
+  {
+   "cn": "青春发动时相提前",
+   "en": "early pubertal timing",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "青春发动期乳房、阴毛、外生殖器发育和月经初潮等事件出现时间相对提前的现象。一般以人群性器官和第二性征发育等事件出现时间的前1/4位数作为提前的划界值。"
+  },
+  {
+   "cn": "预警行为",
+   "en": "early warning behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "提醒人们采取适当的措施来防范或应对可能的问题、预防伤害事故发生的正确处理行为，如乘飞机、乘车时系安全带等。"
+  },
+  {
+   "cn": "预警分级",
+   "en": "early warning classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "依据可能发生和可以预警的突发公共事件可能造成的危害程度、紧急程度和发展势态进行的分级，一般划分为四级：Ⅰ级（特别严重）、Ⅱ级（严重）、Ⅲ级（较重）和Ⅳ级（一般），依次用红色、橙色、黄色和蓝色表示。"
+  },
+  {
+   "cn": "初期评价",
+   "en": "early-term evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "在项目启动时按照既定评价指标集进行的基线评估和调查。"
+  },
+  {
+   "cn": "早孕建册",
+   "en": "early pregnancy register",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕13周前孕妇在指定医疗保健机构建立《孕产妇保健手册》，用于系统记录全孕产期的健康状况，同时给予早孕保健方面指导的过程。"
+  },
+  {
+   "cn": "孕早期自然流产",
+   "en": "early spontaneous abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.4.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_自然流产",
+   "subjectName": "自然流产",
+   "publishYear": "2025",
+   "definition": "13周末前妊娠的自然终止。"
+  },
+  {
+   "cn": "儿童早期营养",
+   "en": "early childhood nutrition",
+   "source": "社会医学名词",
+   "wordNumber": "3.9.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "三岁以内儿童的营养状况，直接影响其生长发育、免疫功能及长期健康。"
+  },
+  {
+   "cn": "生命早期暴露量",
+   "en": "early-life exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.14",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物在孕期和儿童期以特定的频率出现于目标生物、系统或（亚）人群中的浓度或量"
+  },
+  {
+   "cn": "儿童早期发展",
+   "en": "early childhood development",
+   "source": "社会医学名词",
+   "wordNumber": "3.9",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "从孕期到出生后8 年，通过对儿童的营养、健康、早期学习、回应性照护和安全保障方面开展科学综合干预，以发挥儿童潜能，使儿童的体格、心理、认知、情感和社会适应性达到健康完美状态的理念，0-3 岁这一时期尤"
+  },
+  {
+   "cn": "儿童早期发展",
+   "en": "early childhood development, ECD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "从受孕到出生后8年期间，儿童的认知、身体、语言、气质、社会情感及运动的发育过程。此期间的科学综合干预有助于改善儿童发育的潜能，0-3岁这一时期尤为重要。"
+  },
+  {
+   "cn": "早期类风湿关节炎",
+   "en": "early rheumatoid arthritis，ERA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.3.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "病程＜6-12个月的类风湿关节炎。"
+  },
+  {
+   "cn": "过早初次性行为年龄",
+   "en": "early sexual debut age",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "发生第一次性行为时的年龄，反映青少年的性活跃状态。"
+  },
+  {
+   "cn": "早开奶率",
+   "en": "early initiation of breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "出生后一小时内接触母亲乳房的2岁以下儿童数占年龄段儿童总数的百分比。"
+  },
+  {
+   "cn": "孕早期检查率",
+   "en": "early pregnancy attendance rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区在孕早期（妊娠12周前）接受过1次及以上产前检查的产妇人数与同期当地活产数之比。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

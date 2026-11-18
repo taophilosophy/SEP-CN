@@ -1,0 +1,692 @@
+{
+ "key": "strengthening justification",
+ "term": "strengthening justification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:16:50+00:00",
+ "status": "ok",
+ "note": "variant=strengthening justification; 审定公布名词库=108; 海峡两岸名词对照库=32; 其他来源数据库=18; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "辩护",
+   "en": "justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "用以证明或维护某个理论或行为的根据。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.050",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "核医学名词",
+   "wordNumber": "02.0434",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "放射防护三原则之一。除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得进行辐射相关实践的原则。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "放射医学与防护_放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害(包括辐射危害)。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "码速调整",
+   "en": "justification",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.262",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以受控方式改变数字信号的数字速率的处理过程。这种过程不丢失或损伤信息。其目的是使与复用设备不同步的各支路得到复用。"
+  },
+  {
+   "cn": "论证",
+   "en": "justification",
+   "source": "数学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "justification,justify",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1317",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "为适应规定文件格式的要求，对数位、文字或符号位置向左或向右进行调整、排列或移位的动作。"
+  },
+  {
+   "cn": "归纳辩护",
+   "en": "inductive justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.085",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "为归纳推理的合理性和有效性提供的辩护。"
+  },
+  {
+   "cn": "辩护的语境",
+   "en": "context of justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "分析实验观察如何支持理论假说的情境条件。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "[辐射照射]实践的正当性",
+   "en": "justification of practice",
+   "source": "化学名词",
+   "wordNumber": "06.0392",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "国际放射防护委员会(ICRP)提出的辐射防护三原则之一。即辐射照射的实践，除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得采取此种实践。"
+  },
+  {
+   "cn": "不充分理由效应",
+   "en": "insufficient justification effect",
+   "source": "心理学名词",
+   "wordNumber": "07.087",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "当外部理由不足以支持行为时，人们用主观理由做行为理由补充，以寻求心理平衡的现象。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.244",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "码速调整",
+   "en": "code rate justification",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0378",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "速率强化",
+   "en": "rate strengthening",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1595",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "描述总是产生无震滑动的断层剪切强度与滑动速度的正比例关系。 "
+  },
+  {
+   "cn": "速度强化",
+   "en": "velocity strengthening",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1659",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "控制断层面滑动的一种本构关系。描述阻碍滑动的应力随着滑动速度的增加而逐渐增加的现象。 "
+  },
+  {
+   "cn": "增强改性",
+   "en": "strengthening modification",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1409",
+   "subjectFullName": "化工（八）_化工设备_造粒及成型设备",
+   "subjectName": "造粒及成型设备",
+   "publishYear": "2021",
+   "definition": "在聚合物中加入纤维状增强材料以改进其力学性能的方法。"
+  },
+  {
+   "cn": "纤维强化",
+   "en": "fiber strengthening",
+   "source": "冶金学名词",
+   "wordNumber": "07.0411",
+   "subjectFullName": "冶金学_金属学_断裂与强化",
+   "subjectName": "断裂与强化",
+   "publishYear": "2019",
+   "definition": "将硬纤维加入材料基体中作为第二相而使材料强度和硬度提高的方法。"
+  },
+  {
+   "cn": "固溶强化",
+   "en": "solution strengthening",
+   "source": "冶金学名词",
+   "wordNumber": "07.0407",
+   "subjectFullName": "冶金学_金属学_断裂与强化",
+   "subjectName": "断裂与强化",
+   "publishYear": "2019",
+   "definition": "合金元素固溶于基体金属中造成一定程度的晶格畸变从而使合金强度提高的方法。"
+  },
+  {
+   "cn": "弥散强化",
+   "en": "dispersion strengthening",
+   "source": "冶金学名词",
+   "wordNumber": "07.0410",
+   "subjectFullName": "冶金学_金属学_断裂与强化",
+   "subjectName": "断裂与强化",
+   "publishYear": "2019",
+   "definition": "采用粉末冶金或内氧化等工艺方法，在材料基体中产生细小弥散的第二相质点而使材料强度和硬度提高的方法。"
+  },
+  {
+   "cn": "不充分理由，理由不足",
+   "en": "insufficient justification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线确认",
+   "en": "line justification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "○1justification○2 adjustment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "补强剂",
+   "en": "strengthening agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表面强化",
+   "en": "surface strengthening",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "弥散强化",
+   "en": "dispersion strengthening",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "相变强化",
+   "en": "transformation strengthening",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "沉淀强化",
+   "en": "precipitation strengthening",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "抗冰加强",
+   "en": "ice strengthening",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "壮阳",
+   "en": "strengthening yang",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "晶粒细化强化",
+   "en": "grain refinement strengthening",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "固溶强化",
+   "en": "solid solution strengthening",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "弥散强化相",
+   "en": "dispersion strengthening phase",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "橡胶补强剂",
+   "en": "rubber-strengthening agent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "表面机械强化",
+   "en": "mechanical surface strengthening",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "碳化物强化高温合金",
+   "en": "carbide-strengthening superalloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "间隙固溶强化",
+   "en": "interstitial solid solution strengthening\",\"substitutional solution strengthening",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "热强化玻璃",
+   "en": "heat-strengthened glass",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "弥散强化材料",
+   "en": "dispersion strengthened materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "固溶强化高温合金",
+   "en": "solid solution strengthening superalloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "党的纪律建设",
+   "en": "strengthening Party discipline",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提升网上传播能力",
+   "en": "to strengthen online communication",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全面增强执政本领",
+   "en": "comprehensively strengthening the governance ability",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "师出有名",
+   "en": "Fighting a War with a Moral Justification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自强不息",
+   "en": "Strive Continuously to Strengthen Oneself",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "修德振兵",
+   "en": "Cultivate Virtue and Strengthen the Army",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强化公共卫生法治保障",
+   "en": "to strengthen the legal framework of public health",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "做好重点地区疫情防控",
+   "en": "strengthen epidemic prevention and control in key regions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群防群控",
+   "en": "to strengthen society-wide efforts to contain the epidemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强农惠农富农",
+   "en": "strengthen agriculture, benefit farmers, and raise rural living standards",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "简政放权、放管结合、优化服务改革[“放、管、服”改革]",
+   "en": "the reform of streamlining administration，delegating power, strengthening regulation and improving service",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "坚定信心、同舟共济、科学防治、精准施策",
+   "en": "to strengthen confidence and solidarity and take science-based and targeted measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加强领导能力、应对能力、组织动员能力、贯彻执行能力",
+   "en": "to strengthen the ability to lead, respond, mobilize, and to execute orders ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加强病毒溯源和传播机理研究",
+   "en": "to strengthen research on the origin and transmission mechanism of the virus ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“七个强化”",
+   "en": "the “Seven Strengthening” (strengthening theoretical competence, the sense of mission, responsibility, work in poverty alleviation, the awareness of development, honesty and self-discipline, and organizational construction)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强化党政一把手负总责（脱贫）",
+   "en": "strengthening the responsibility of the principal leader of the Party and government (in poverty alleviation)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "法治国家、法治政府、法治社会一体建设",
+   "en": "a holistic approach to strengthening the rule of law in the country, in its government, and in society",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "突出重点、统筹兼顾、分类指导、分区施策",
+   "en": "to focus on key issues, strengthen coordination, give sector-specific guidance, and apply targeted policies to different areas ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "伦理辩护",
+   "en": "ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对某些现象、行为或观点的合理性进行道德论证的行为。"
+  },
+  {
+   "cn": "医学伦理辩护",
+   "en": "medical ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.2229999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "依据医学伦理学理论、原则和规范，对某一医学行为或医疗活动的合理性进行解释、说明的活动。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiation practice",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护三原则",
+   "subjectName": "放射防护三原则",
+   "publishYear": "2025",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程，即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射或现存照射情况下，确定一个建议的防护行动或补救行"
+  },
+  {
+   "cn": "医疗照射正当性",
+   "en": "justification of medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.7.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "医疗照射的实践，对受照个人或社会带来的利益足以弥补其可能引起的辐射危害（包括健康与非健康危害），才可以实施该实践。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiological practice",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.18",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "开展医疗照射、工业探伤、核设施运行等涉电离辐射活动前，须确保实践总体利益大于辐射危害及其他社会、经济风险。仅当该实践能为个人或社会带来净利益时，才属“正当的”，反之则不应开展。"
+  },
+  {
+   "cn": "骨骼强健性体力活动",
+   "en": "bone-strengthening activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_儿童青少年身体活动指南",
+   "subjectName": "儿童青少年身体活动指南",
+   "publishYear": "2025",
+   "definition": "对骨骼产生冲击力或张力，促进骨骼特定部位的生长和强度的体力活动。包括跑步、跳绳和举重等。"
+  },
+  {
+   "cn": "肌肉强健性体力活动",
+   "en": "muscle-strengthening activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_儿童青少年身体活动指南",
+   "subjectName": "儿童青少年身体活动指南",
+   "publishYear": "2025",
+   "definition": "增加骨骼肌力量、爆发力、耐力和质量的体力活动。"
+  },
+  {
+   "cn": "积极防御巩固国防",
+   "en": "active defenseing and strengthening national defence",
+   "source": "马克思主义",
+   "wordNumber": "04.0161",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国当前反侵略战争所采取的方针。积极防御本身不只是防御，防御中有进攻，本身就包括持久作战。"
+  },
+  {
+   "cn": "以改革创新的精神加强党的建设",
+   "en": "strengthen party building in a spirit of reform and innovation",
+   "source": "马克思主义",
+   "wordNumber": "03.0651",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十七大根据新的形势和任务，提出要以改革创新精神全面推进党的建设新的伟大工程。这为新世纪新阶段全面推进党的建设新的伟大工程提供了指导原则和行动纲领，是我们党顺利完成执政使命、正确应对新课题新考验和解"
+  },
+  {
+   "cn": "习近平总书记关于加强和改进民族工作的重要思想",
+   "en": "General Secretary Xi Jinping’ s important thoughts on strengthening and improving ethnic work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0002",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "习近平新时代中国特色社会主义思想的重要组成部分，是做好新时代党的民族工作的根本遵循，主要内容包括：必须坚持党对民族工作的领导；坚持中华民族伟大复兴的历史方位，以铸牢中华民族共同体意识为主线，推动各民族"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

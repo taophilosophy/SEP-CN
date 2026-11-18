@@ -1,0 +1,802 @@
+{
+ "key": "distinction itself",
+ "term": "distinction itself",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:23:04+00:00",
+ "status": "ok",
+ "note": "variant=distinction itself; 审定公布名词库=1253; 海峡两岸名词对照库=439; 其他来源数据库=83; 预公布名词数据库=88; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "自身的外在",
+   "en": "outside itself",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.131",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "关于身体和精神之外的观点。康德认为灵魂、宇宙和上帝是外在的，不可以被认识。费希特认为“非我”是外在的。黑格尔认为外在是绝对精神的外在，是精神的外壳。费尔巴哈和马克思认为客观物质世界是外在的。"
+  },
+  {
+   "cn": "特异性",
+   "en": "distinctiveness",
+   "source": "心理学名词",
+   "wordNumber": "07.038",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "凯利归因理论中进行归因时所利用的一类信息，即行动者是否对同类其他刺激做出相同的反应。"
+  },
+  {
+   "cn": "自稠[的]",
+   "en": "dense in itself",
+   "source": "数学名词",
+   "wordNumber": "08.0467",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "模型辨识",
+   "en": "model distinction",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0042",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "对于给定系统，利用所测得的输入输出数据，从一组给定的模型中，确定一个与测得数据相容性最好的模型。"
+  },
+  {
+   "cn": "特征词",
+   "en": "distinctive word",
+   "source": "语言学名词",
+   "wordNumber": "07.110",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "能够区别方言间的差别，可以作为方言区分和鉴别的一批词语。这些词对内具有一致性、对外具有排他性，能够反映某个方言区词汇特征。例如闽方言的“厝”（房子）。"
+  },
+  {
+   "cn": "区别符号",
+   "en": "distinctive mark",
+   "source": "语言学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "语言学_文字学_汉字的形体",
+   "subjectName": "汉字的形体",
+   "publishYear": "2011",
+   "definition": "古汉字中为区别字形和分化新字而附加在某些字上，形体简单且一般没有实际含义的区别性符号。古汉字中常用的区别符号有“一”“ヽ”“丨”“口”等。"
+  },
+  {
+   "cn": "区别特征",
+   "en": "distinctive feature",
+   "source": "语言学名词",
+   "wordNumber": "03.261",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "用来描写和分析语音系统差异的最小音系单位。区别特征可视作音位定义的组成部分，把音位视为一组区别特征的集合；也可视作一个取代音位概念的概念。后一观点将区别特征视为音系分析的最小单位，并用区别特征取代音位"
+  },
+  {
+   "cn": "品种特异性",
+   "en": "variety distinctness",
+   "source": "农学名词",
+   "wordNumber": "06.552",
+   "subjectFullName": "作物基因组学与遗传育种_种子科学与种业",
+   "subjectName": "种子科学与种业",
+   "publishYear": "2025",
+   "definition": "一个品种区别于其他品种的特异性状。特异性品种至少有一个以上性状明显区别于已知品种。"
+  },
+  {
+   "cn": "自动缓解",
+   "en": "false release by itself",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0683",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "观察-理论区分",
+   "en": "observational-theoretical distinction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.050",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "观察来自直接经验，是连接科学信念与经验世界的桥梁；理论无法直接观察，需以观察提供的证据作为基础。"
+  },
+  {
+   "cn": "事实-价值区分",
+   "en": "fact-value distinction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "由D. 休谟（D. Hume）提出。讨论“应然”的价值判断与描述“实然”的经验事实分属不同范畴，前者不能由后者直接推论得出。"
+  },
+  {
+   "cn": "辨义成分",
+   "en": "distinguisher,distinctive feature",
+   "source": "语言学名词",
+   "wordNumber": "06.284",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "将同一概念范畴的一个语言单位与另一个语言单位区别开来的意义特征，可以用来解释语词意义或定义术语概念。"
+  },
+  {
+   "cn": "鲜映性",
+   "en": "distinctness of image",
+   "source": "精细化工名词",
+   "wordNumber": "05.0428",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "漆膜的平滑性和光泽的依存性质。用数字化等级表示。"
+  },
+  {
+   "cn": "离生雄蕊",
+   "en": "adelphia,distinct stamen",
+   "source": "植物学名词",
+   "wordNumber": "03.0374",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "各自分离的雄蕊。如大多数被子植物。"
+  },
+  {
+   "cn": "离散元法",
+   "en": "distinct element method",
+   "source": "水利科学技术名词",
+   "wordNumber": "05.040",
+   "subjectFullName": "水利科学技术_岩石力学、土力学、岩土工程_岩石力学（水利）",
+   "subjectName": "岩石力学（水利）",
+   "publishYear": "1997",
+   "definition": "由康德尔建立的应用于不连续岩体的数值求解方法。即将含不连续面的岩体看作若干块刚体组成，块体之间靠角点作用力维持平衡。角点接触力用弹簧和黏性元件描述，并服从牛顿第二定律。块体的位移和转动根据牛顿定律用动"
+  },
+  {
+   "cn": "义项划分",
+   "en": "sense discrimination,sense distinction",
+   "source": "语言学名词",
+   "wordNumber": "06.283",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "对多义词头不同意义的区分与编排。每一义项除用序号标志外，还根据实际需要配有区别符、引导词和注释等。"
+  },
+  {
+   "cn": "文白异读",
+   "en": "literary versus colloquial distinction",
+   "source": "语言学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "方言中来历相同、意义相同而由于语体不同所产生的一字两读或者多读现象。异读音中往往一个是文读音，另一个是白读音。例如北京话“剥”字文读音是［po⁵⁵］，白读音是［pɑu⁵⁵］。"
+  },
+  {
+   "cn": "明视距离",
+   "en": "distance of distinct vision",
+   "source": "物理学名词",
+   "wordNumber": "04.0389",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "从言的/从物的区别",
+   "en": "de dicto, de re distinction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.261",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "在信念、模态等内涵语境中，一个陈述可以有从言与从物两种解读方式。前者对内涵算子作宽辖域的解读，强调句子；后者对内涵算子作窄辖域的解读，强调事物。"
+  },
+  {
+   "cn": "分尖团",
+   "en": "sharp and round initial distinction",
+   "source": "语言学名词",
+   "wordNumber": "07.085",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "汉语方言里中古精组字今读细音的和中古见晓组字今读细音的在声母上存在音位对立的语音现象。如精母字“酒”与见母字“九”在不同的方言里面声母今读情况各不相同：有的方言（如北京话），声母相同，说明不分尖团；有"
+  },
+  {
+   "cn": "特异性",
+   "en": "distinctiveness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "离生雄蕊",
+   "en": "adelphia\",\"distinct stamen",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分心",
+   "en": "distraction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "岛状间断分布",
+   "en": "island disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛北极间断分布",
+   "en": "holarctic disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛南极间断分布",
+   "en": "holantarctic disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "古热带间断分布",
+   "en": "paleotropical disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环极间断分布",
+   "en": "circumpolar disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洲际间断分布",
+   "en": "intercontinental disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "任选目的港",
+   "en": "optional destination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分布区间断",
+   "en": "areal disjunction",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "目的地管理",
+   "en": "destination management",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "目的地选择",
+   "en": "destination choice",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "染色体分离",
+   "en": "chromosome disjunction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "别名",
+   "en": "Distinct Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标举兴会",
+   "en": "Distinctiveness and Spontaneity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "充实之谓美",
+   "en": "Moral Fulfillment Is Beauty Itself.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天人之分",
+   "en": "Distinction Between Man and Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群己界分",
+   "en": "distinction between authority and individuality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "别材别趣",
+   "en": "Distinct Subject and Artistic Taste",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词别是一家",
+   "en": "Ci Poems Have a Distinctive Style.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色自由贸易港",
+   "en": "free trade port with distinctive Chinese features",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世界眼光、国际标准、中国特色、高点定位",
+   "en": "global vision, international standards, distinctive Chinese features, and future-oriented goals",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "己（我）",
+   "en": "Self (Myself)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际旅游消费中心",
+   "en": "international tourism and consumption destination",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区隔",
+   "en": "distinction",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0625",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家布尔迪厄（Pierre Bourdieu）提出的概念，指某种特定文化趣味在同类实践中的位置和差异，这种差异是生物性的、心理的，同时也维持了群体的边界。"
+  },
+  {
+   "cn": "自在之物",
+   "en": "thing in itself",
+   "source": "马克思主义",
+   "wordNumber": "01.0118",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德哲学概念，指超经验的、不可认识的存在之物，是现象的基础，灵魂、宇宙和上帝都是自在之物，虽不能被认识却可以被信仰。马克思主义立足于实践，认为随着实践发展，自在之物将转变为为我之物，自然终将被认识。"
+  },
+  {
+   "cn": "等级差别",
+   "en": "class distinction",
+   "source": "马克思主义",
+   "wordNumber": "03.0049",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在阶级社会，不同等级由于在经济社会关系中所处的地位不同而享有各自不同的政治经济权力。"
+  },
+  {
+   "cn": "民族差别",
+   "en": "ethnic distinction",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0004",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "各民族之间表现在政治、经济、社会和文化等领域的差异，特别是生产方式、语言、文化、风俗习惯以及心理认同等方面的差异。各民族间的差别是民族现象长期发展的结果，将随着民族自身和民族交往的发展而发展变化，直到"
+  },
+  {
+   "cn": "四个划清",
+   "en": "four distinctions",
+   "source": "马克思主义",
+   "wordNumber": "03.0692",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十七届四中全会通过的《中共中央关于加强和改进新形势下党的建设若干重大问题的决定》提出：“加强党的意识形态工作和思想政治工作，引导党员、干部增强政治敏锐性和政治鉴别力，筑牢思想防线，自觉划清马克思主"
+  },
+  {
+   "cn": "主位与客位区别",
+   "en": "emic and etic distinction",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.17",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "在文化研究中，被研究的文化群体成员持有的观念和类别（主位）与研究者使用的观念和类别（客位）之间的区别。由语言学家肯尼思·派克于1954年提出。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "伤病员去向统计",
+   "en": "statistics of destination of patients",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤病员的救治、康复和转归情况的统计分析，原始资料主要来自战斗伤员登记册和住院病员登记簿，主要统计指标包括归队率、后送率、留治率、残疾率等。"
+  },
+  {
+   "cn": "自净",
+   "en": "self-purification",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "利用日光照射和风、雨等作用使环境污染的生物、化学和放射物质自然衰亡，达到无害化的过程。"
+  },
+  {
+   "cn": "自身消毒",
+   "en": "self disinfection",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对用于清洗、消毒和漂洗器械使用的水和水溶液接触的机器自身所有的液体输送系统、腔体、水槽和其他部件进行的消毒。"
+  },
+  {
+   "cn": "自检",
+   "en": "self-inspection",
+   "source": "消毒学",
+   "wordNumber": "5.1.11.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业根据产品执行标准对所生产的消毒产品自行检验的过程。"
+  },
+  {
+   "cn": "自吸收",
+   "en": "self-absorption",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "电离辐射被辐射体材料本身所吸收的一种现象。在放射源中称为源自吸收。在测量α或β放射源活度中，自吸收需要修正。如用4πβ计数管进行测量时，需要采用各种制源技术制成薄膜源，降低自吸收。"
+  },
+  {
+   "cn": "自我评估",
+   "en": "self-assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.19",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "由高级管理人员和其他级别的管理人员执行的常规和持续过程，以评估其所有职责领域的绩效有效性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

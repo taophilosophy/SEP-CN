@@ -1,0 +1,722 @@
+{
+ "key": "theorists maintain",
+ "term": "theorists maintain",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:31:30+00:00",
+ "status": "ok",
+ "note": "variant=theorists maintain; 审定公布名词库=220; 海峡两岸名词对照库=53; 其他来源数据库=21; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "保持系",
+   "en": "maintainer ",
+   "source": "草学名词",
+   "wordNumber": "4.0342",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "维修性",
+   "en": "maintainability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0246",
+   "subjectFullName": "机械工程（一）_机械强度_结构可靠性",
+   "subjectName": "结构可靠性",
+   "publishYear": "2021",
+   "definition": "产品在规定的条件下和规定的时间内，按规定的程序和方法进行维修时，保持或恢复到规定状态的能力。"
+  },
+  {
+   "cn": "可维修性",
+   "en": "maintainability",
+   "source": "电力名词",
+   "wordNumber": "25.006",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "元件或系统在规定的使用条件下和规定的时间内,按规定的程序和方法实施维修时,保持或恢复能执行规定功能状态的能力。"
+  },
+  {
+   "cn": "可维护性",
+   "en": "maintainability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0484",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "系统可以被修复缺陷、增强功能的容易程度。"
+  },
+  {
+   "cn": "可维护性",
+   "en": "maintainability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0457",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在设备设计与安装阶段为设备修理提供方便和效率的特性。"
+  },
+  {
+   "cn": "维护",
+   "en": "maintaining",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0134",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_管理阶段与模式",
+   "subjectName": "管理阶段与模式",
+   "publishYear": "2016",
+   "definition": "在设施使用过程中，为保证其正常工作，对各种设备、物业等进行的维修和保养。"
+  },
+  {
+   "cn": "维修保养方便性",
+   "en": "maintainability",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.031",
+   "subjectFullName": "机械工程_汽车_汽车维修_维护",
+   "subjectName": "维护",
+   "publishYear": "2013",
+   "definition": "技术保养及维修时零部件拆装的方便程度。"
+  },
+  {
+   "cn": "维修保养方便性",
+   "en": "maintainability",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "09.071",
+   "subjectFullName": "机械工程_拖拉机_整机_整机性能及参数",
+   "subjectName": "整机性能及参数",
+   "publishYear": "2013",
+   "definition": "技术保养及维修时零部件拆装的方便程度。"
+  },
+  {
+   "cn": "可维护性",
+   "en": "maintainability",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "在给定条件下使用规定的程序和资源进行维护时，在规定使用条件下设备保持在或恢复到能执行要求功能状态的能力。"
+  },
+  {
+   "cn": "维修性",
+   "en": "maintainability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.211",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "[可]维修性",
+   "en": "maintainability",
+   "source": "电气工程名词",
+   "wordNumber": "28.067",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "[可]维修度",
+   "en": "maintainability",
+   "source": "电气工程名词",
+   "wordNumber": "28.128",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "可维护性",
+   "en": "maintainability",
+   "source": "数学名词",
+   "wordNumber": "011.0614",
+   "subjectFullName": "数学_运筹学_可靠性理论·更新论",
+   "subjectName": "可靠性理论?更新论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "维修性",
+   "en": "maintainability",
+   "source": "电子学名词",
+   "wordNumber": "18.061",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可维护性",
+   "en": "maintainability",
+   "source": "自动化名词",
+   "wordNumber": "04.321",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "维持呼吸",
+   "en": "maintain respiration",
+   "source": "植物学名词",
+   "wordNumber": "11.0281",
+   "subjectFullName": "植物学_植物生理学_植物呼吸作用",
+   "subjectName": "植物呼吸作用",
+   "publishYear": "2019",
+   "definition": "呼吸作用所产生的能量和中间产物主要用于维持植物细胞存活的呼吸方式。"
+  },
+  {
+   "cn": "保持系",
+   "en": "maintainer line",
+   "source": "农学名词",
+   "wordNumber": "06.259",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在雄性不育三系法杂交育种体系中，正常自交系与雄性不育系母本杂交，使母本结实，其子代又能保持母本雄性不育特性的品系。"
+  },
+  {
+   "cn": "保持系",
+   "en": "maintainer line",
+   "source": "风景园林名词",
+   "wordNumber": "09.0186",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "能够保持质不育世代相传的品系。"
+  },
+  {
+   "cn": "保持命令",
+   "en": "maintained command",
+   "source": "电力名词",
+   "wordNumber": "06.067",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "一种输出信号到运行设备的命令,它能维持其信号直到状态改变被执行为止,或者到长于最慢运行设备响应的预定延时结束为止。输出信号的持续时间是与启动信号的持续时间无关的。"
+  },
+  {
+   "cn": "保持系",
+   "en": "maintainer line",
+   "source": "植物学名词",
+   "wordNumber": "10.0074",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "在雄性不育三系法杂交育种体系中，正常自交系与雄性不育系母本杂交，使母本结实，其子代又能保持母本雄性不育特性的品系。"
+  },
+  {
+   "cn": "维护者",
+   "en": "maintainer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "维修性，可维护性",
+   "en": "maintainability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "维修性",
+   "en": "maintainability",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "维持呼吸",
+   "en": "maintain respiration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保持系",
+   "en": "maintainer line",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保持系",
+   "en": "maintainer line",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "维护深度",
+   "en": "maintained depth",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "软件维护员",
+   "en": "software maintainer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保管期",
+   "en": "maintaining period",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软件可维护性，软件易维护性",
+   "en": "software maintainability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自持放电",
+   "en": "self-maintained discharge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非自持放电",
+   "en": "non-self-maintained discharge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船舶动力装置可维修性",
+   "en": "marine power plant maintainability",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "山,山地",
+   "en": "mountain",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "山脉",
+   "en": "mountain range\",\"mountain chain",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "高山气压表",
+   "en": "mountain barometer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "山地冰川",
+   "en": "mountain glacier",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "山地观测",
+   "en": "mountain observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "山地气候",
+   "en": "mountain climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "山地气候学",
+   "en": "mountain climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保持战略定力",
+   "en": "maintain strategic resolve",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保持战略定力",
+   "en": "maintain strategic focus",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "保持最终静止姿势",
+   "en": "maintain in final motionless position\",\"maintain the weight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经济行稳致远",
+   "en": "maintain sustainable economic growth",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "保持桥姿势",
+   "en": "maintain a bridge position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保持步频",
+   "en": "maintain the stride rate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "见素抱朴",
+   "en": "Maintain Originality and Embrace Simplicity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平准",
+   "en": "Maintain Prices at an Appropriate Level",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保障全国生活必需品市场总体稳定",
+   "en": "to maintain an overall balance in the market for daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "君子固穷",
+   "en": "A Man of Virtue Maintains His Ideals even in Frustrations.&nbsp;",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "养兵千日，用兵一时",
+   "en": "Maintain an Army a Thousand Days for Use at a Critical Time",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“四个意识”",
+   "en": "the “Four Consciousnesses” (maintain political integrity, think in terms of the big picture, follow the leadership core, and keep in alignment with the central Party leadership)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主帆",
+   "en": "mainsail",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艮",
+   "en": "Gen (Mountain)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "山地赛排名",
+   "en": "mountain classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "山地自行车赛",
+   "en": "mountain bike\",\"MTB",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "他山之石，可以攻玉",
+   "en": "Use Stones from Another Mountain to Polish One’s Jade",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚怀若谷",
+   "en": "An Open Mind as Broad as a Mountain Valley",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独立自主",
+   "en": "maintain independence and keep the initiative",
+   "source": "马克思主义",
+   "wordNumber": "01.0247",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "正确处理本国革命事业和国际革命事业、本国革命力量和革命政党同国际革命力量及组织、本国建设事业与国际援助间相互关系的根本原则。是从中国实际出发，依靠群众进行革命和建设的必然结论。它与实事求是、群众路线共"
+  },
+  {
+   "cn": "密切联系群众",
+   "en": "maintain close ties with the masses",
+   "source": "马克思主义",
+   "wordNumber": "03.0490",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党的三大作风之一。要求把全心全意地为人民服务，一切从人民群众的利益出发，向人民负责的原则作为一切工作的出发点。"
+  },
+  {
+   "cn": "瘴气说",
+   "en": "miasmatic theories",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.10",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种解释病因的理论，它将特定的环境条件和/或特定地点与疾病暴发联系起来进行解释。"
+  },
+  {
+   "cn": "全球化理论",
+   "en": "globalizationrelated theories",
+   "source": "马克思主义",
+   "wordNumber": "05.0096",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪80年代以来，以资本主义全球化为主要批判对象的一系列理论的总称，包括依附理论、后殖民理论、世界体系理论、晚期资本主义文化批评理论、后工业社会理论、“第三条道路”理论、文明冲突论等。"
+  },
+  {
+   "cn": "理论的韧性",
+   "en": "tenacity of theories",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "理论具有免于被证伪的属性特征：当它面临反常时，可以通过增加或修改辅助假说或特设假说来维护理论的硬核，使理论能够重新解释反常而趋于完善。"
+  },
+  {
+   "cn": "社会工作的理论",
+   "en": "theories of social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "社会工作理论中用来对社会工作实践本身的性质、目的、过程、方法进行说明的那部分内容。"
+  },
+  {
+   "cn": "阶级调和论",
+   "en": "theories of class conciliation",
+   "source": "马克思主义",
+   "wordNumber": "03.0097",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "否认或淡化阶级矛盾和阶级斗争，主张阶级之间利益妥协和阶级合作的理论观点。它夸大不同阶级的利益共同性，认为不必经过阶级斗争就能够解决阶级对立和矛盾，一概反对暴力革命。"
+  },
+  {
+   "cn": "发展理论的马克思主义",
+   "en": "neoMarxist theories of development",
+   "source": "马克思主义",
+   "wordNumber": "05.0093",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "当代发展中国家现代化及社会发展的理论，这一理论基于对“剥削”的开放式的全球审视而不只局限于经典马克思主义的内部性分析路径，具体包括依附理论和世界体系理论。代表作有苏联的《社会学手册》（1976）、民主"
+  },
+  {
+   "cn": "主要理论与方法",
+   "en": "main theories and methods",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学校心理咨询最常遵循的理论和方法。主要包括精神分析理论、认知疗法和以人为中心疗法三种。"
+  },
+  {
+   "cn": "急性重型高原病",
+   "en": "acute severe mountain sickness",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.3.1.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原病",
+   "subjectName": "高原病",
+   "publishYear": "2025",
+   "definition": "由平原快速进入高原时，因缺氧导致的临床上患者症状比较严重、病情危急、治疗困难比较大的疾病，一般包括高原肺水肿和高原脑水肿。"
+  },
+  {
+   "cn": "格登山纪功碑",
+   "en": "Stele of Gedeng Mountain",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0617",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代纪念性碑刻。位于新疆昭苏县苏木拜河东岸格登山上。乾隆帝自撰碑文，记录清军在格登山平定达瓦齐的过程，以满、汉、藏、蒙古四体文字镌刻。"
+  },
+  {
+   "cn": "封山育林",
+   "en": "mountain closure for forest restoration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0087",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以封禁为基本手段，利用林木自然更新能力，把疏林、灌丛或散生树木的林地封禁起来，逐渐培育成林的措施；是传统的培育森林、扩大森林资源的方法。"
+  },
+  {
+   "cn": "老祖宗不能丢又要讲新话",
+   "en": "our forefathers cannot be forgotten and develop new theories",
+   "source": "马克思主义",
+   "wordNumber": "04.0165",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对待马克思主义的一种科学、实事求是、与时俱进的态度。即必须坚持马克思主义的基本原理，同时马克思主义不是静止的封闭的教条，而是一个开放发展的体系，要在坚持中发展马克思主义和在发展中坚持马克思主义，不断根"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

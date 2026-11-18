@@ -1,0 +1,472 @@
+{
+ "key": "english sentences",
+ "term": "English sentences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:28:17+00:00",
+ "status": "ok",
+ "note": "variant=English sentences; 审定公布名词库=69; 海峡两岸名词对照库=19; 其他来源数据库=9; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "英国式装置",
+   "en": "English mounting",
+   "source": "天文学名词",
+   "wordNumber": "06.119",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "一种非对称式赤道装置。其纬轴以十字形构件连接于极轴的中部；纬轴的一端固定望远镜，另一端安装平衡重；极轴则支撑在南、北两个立柱的轴承座上。"
+  },
+  {
+   "cn": "英吉利海峡",
+   "en": "English Channel",
+   "source": "海洋科技名词",
+   "wordNumber": "01.0065",
+   "subjectFullName": "海洋科学技术_总论_公用名词",
+   "subjectName": "公用名词",
+   "publishYear": "2007",
+   "definition": "位于英国和法国之间，沟通大西洋与北海的重要国际航运水道。"
+  },
+  {
+   "cn": "原子[语]句",
+   "en": "atomic sentence,primitive sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分析句",
+   "en": "analytical sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "只要通过理解组成句子的每一个词语就能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "综合句",
+   "en": "synthetic sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "需要通过理解组成句子的每一个词语以及一些与外部世界相关的东西才能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "句子对齐",
+   "en": "sentence alignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0563",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "给定互为译文的双语文本，在其句子间按照翻译关系建立对应关系的过程、技术和方法。"
+  },
+  {
+   "cn": "单句",
+   "en": "simple sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.140",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“复句”相对。指一个由词或短语，加上语调构成的语言表达单位。例如，“谁？”“好好学习！”“书是人类进步的阶梯。”"
+  },
+  {
+   "cn": "感叹句",
+   "en": "exclamatory sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来表示强烈感情、带有感叹语气的句子。句中常用“真”“多么”“简直”“太”等有强调作用的词语，句尾可以加语气词“啊”，句末标点用感叹号。例如，“真好啊！”"
+  },
+  {
+   "cn": "句群",
+   "en": "sentence group",
+   "source": "语言学名词",
+   "wordNumber": "04.148",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由几个在逻辑上有密切联系、共同表达一个中心意思的各自独立的句子组成的语言使用单位。例如，“公园里寂静无声，一片荒凉。但是特别寂静的却是他白天破窗而入的校舍。校舍里非常寂静，似乎他每走一步不仅校舍里可以"
+  },
+  {
+   "cn": "陈述句",
+   "en": "declarative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.155",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来叙述或说明情况、带有陈述语调的句子。句尾可以用语气词“啊”“呢”“了”“的”等，句末标点符号一般用句号。"
+  },
+  {
+   "cn": "句型",
+   "en": "sentence pattern",
+   "source": "语言学名词",
+   "wordNumber": "04.150",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句子的结构类型。句子从结构上可以分为单句和复句两大类型。其中单句又可分为主谓句和非主谓句，复句又可分为联合复句和偏正复句。"
+  },
+  {
+   "cn": "倒装句",
+   "en": "inversional sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.177",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "为了突出重要部分或者先说重要部分再追加其他部分的句子。是口语句法中的一种特有现象。句子语音上前半部分重读，补充部分轻读；语义重点在前半部分；句末语气词出现在前半部分；整个结构不能按照正常的短语结构来分"
+  },
+  {
+   "cn": "祈使句",
+   "en": "imperative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.162",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。要求、命令、禁止或建议、请求对方做某事或不做某事的句子。全句用降调，句末标点用句号或感叹号。祈使句的主语一般是第二人称，不过常常省略。表示命令、禁止的祈使句语气较为急促简短，句末标点常用感"
+  },
+  {
+   "cn": "判断句",
+   "en": "equational sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.170",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "动词谓语句的一种。这种句式的谓语动词为表示断定的“是”等动词。例如，“他是学生。”"
+  },
+  {
+   "cn": "存现句",
+   "en": "existential sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.171",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "动词谓语句的一种。这种句式表示在某处存在、出现或消失了某个人或物。处所词位于句首作主语，句子的宾语表示存现的主体。句中谓语动词后边通常带“着”或“了”。例如，“台上坐着主席团。”“家里来了客人。”"
+  },
+  {
+   "cn": "省略句",
+   "en": "ellipsis sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.178",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "在一定语境中某个句法成分没有出现的句子。例如，甲：“你喝什么？”乙：“啤酒。”其中答话“啤酒”就是省略句，省略了“我喝”两个词。句中被省略的成分可以添补出来，而且只有一种添补的可能。"
+  },
+  {
+   "cn": "疑问句",
+   "en": "interrogative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.156",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来表示疑问、带有疑问语调的句子。句中可以用表示疑问的语气词、副词，句末标点符号一般用问号。根据结构形式特点和语义重点，可分为是非问句、反复问句、特指问句和选择问句。例如，“你去吗？”“你"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "英国组曲",
+   "en": "English Suites",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bach, Johann Sebastian"
+  },
+  {
+   "cn": "英国式装置",
+   "en": "English mounting",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "英吉利海峡",
+   "en": "English Channel",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "英国猫",
+   "en": "English Cat\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Henze, Hans Werner"
+  },
+  {
+   "cn": "一首英国组曲",
+   "en": "English Suite\",\"An",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Jones, Parry "
+  },
+  {
+   "cn": "低音英国管音栓",
+   "en": "double English horn",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "单词句",
+   "en": "single word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双词句",
+   "en": "two word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "未完成语句测验",
+   "en": "incomplete sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "乱句测验",
+   "en": "disarranged sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子完成测验",
+   "en": "sentence completion test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "花园路径句子",
+   "en": "garden path sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "误句概率",
+   "en": "sentence error probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句型",
+   "en": "sentential form\",\"sentence pattern",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三统历",
+   "en": "Three Sequences Calendar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "英式握拍",
+   "en": "continental grip\",\"English grip\",\"service grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 12054-1989 数据处理 转义序列的登记规程》",
+   "en": "GB/T 12054-1989 Data processing — Procedure for registration of escape sequences",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

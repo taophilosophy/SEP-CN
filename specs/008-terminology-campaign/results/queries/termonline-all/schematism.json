@@ -1,0 +1,142 @@
+{
+ "key": "schematism",
+ "term": "schematism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:19:18+00:00",
+ "status": "ok",
+ "note": "variant=schematism; 审定公布名词库=10; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "模型眼",
+   "en": "schematic eye",
+   "source": "光学名词",
+   "wordNumber": "28.029",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "模拟眼睛构造的具有简化屈光性质的光学系统模型。其中古尔斯特兰德(Gullstrand)模型眼较为精密。"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic diagram",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0180",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "表示系统、设备的工作原理及其组成部分的相互关系的简图。"
+  },
+  {
+   "cn": "示意画法",
+   "en": "schematic representation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0200",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "用规定符号和(或)较形象的图线绘制图样的表意性图示方法。"
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "物理学名词",
+   "wordNumber": "01.0154",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "核医学名词",
+   "wordNumber": "03.0583",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "采用简洁明了的方式说明复杂事物原理或结构关系绘成的略图。"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic drawing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0446",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "表示系统、设备的工作原理及其组成部分相互关系的简图。"
+  },
+  {
+   "cn": "方案设计",
+   "en": "schematic design",
+   "source": "建筑学名词",
+   "wordNumber": "06.0075",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_设计阶段",
+   "subjectName": "设计阶段",
+   "publishYear": "2014",
+   "definition": "对拟建的项目按设计依据的规定进行设计创作的过程，对项目的总体布局、功能安排、建筑造型等提出可能且可行的技术文件，是建筑工程设计的最初阶段。"
+  },
+  {
+   "cn": "模型眼",
+   "en": "schematic eye",
+   "source": "医学名词 第五分册",
+   "wordNumber": "05.003",
+   "subjectFullName": "医学_眼科学_眼屈光学",
+   "subjectName": "眼屈光学",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "机构简图",
+   "en": "schematic diagram of mechanism",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0050",
+   "subjectFullName": "机械工程（一）_机构与机器人学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "用特定的构件和运动副符号来表示机构的一种简化示意图，仅着重表示其机构组成特征。"
+  },
+  {
+   "cn": "方案设计",
+   "en": "schematic design;scheme design;conceptual design",
+   "source": "风景园林名词",
+   "wordNumber": "06.0067",
+   "subjectFullName": "风景园林_风景园林设计_设计内容和指标",
+   "subjectName": "设计内容和指标",
+   "publishYear": "2025",
+   "definition": "立足园林绿化项目场地现状，分析问题并确定设计定位，对功能、容量、内容、风格和特色进行整体安排的设计活动。"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

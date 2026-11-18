@@ -1,0 +1,782 @@
+{
+ "key": "divine substance",
+ "term": "divine substance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:17:52+00:00",
+ "status": "ok",
+ "note": "variant=divine substance; 审定公布名词库=1877; 海峡两岸名词对照库=469; 其他来源数据库=90; 预公布名词数据库=114; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "卜",
+   "en": "bu;divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.468",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "用火灼龟甲、兽骨，据所产生裂纹形态预测吉凶的活动。殷商盛行，兼用“龟卜”“骨卜”，所用卜骨多为牛胛骨，亦有兽骨及少量人头骨，甲则多为龟腹、背甲。周人多用“龟卜”，用筮则称占。后世泛指各种占卜术。"
+  },
+  {
+   "cn": "贞人",
+   "en": "zhen ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.109",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "殷墟甲骨卜辞中所见占卜过程的具体主持者。约相当于后世的卜官。"
+  },
+  {
+   "cn": "卜人",
+   "en": "bu ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.128",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "商周王室或贵族家族中主持占卜仪式的史官。"
+  },
+  {
+   "cn": "太卜",
+   "en": "tai bu;grand diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.108",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "卜官之长。在周王室与诸侯国中掌管占卜事务。后世为负责具体占卜之事的官称。"
+  },
+  {
+   "cn": "风角",
+   "en": "feng jiao;wind divination",
+   "source": "中国古代史名词",
+   "wordNumber": "1.494",
+   "subjectFullName": "中国古代史_通论_思想文化_科技",
+   "subjectName": "科技",
+   "publishYear": "2022",
+   "definition": "观察风向、云气声色以占吉凶的知识技术。相传始于黄帝时期，商周已据四面八方风向、风力占测气候、农事、疾疫，相关数术战国以来受阴阳五行说影响而系统化，汉以来多以此称，常归入数术的五行类，其术趋于琐杂。"
+  },
+  {
+   "cn": "卜辞",
+   "en": "bu ci;divination inscriptions",
+   "source": "中国古代史名词",
+   "wordNumber": "2.397",
+   "subjectFullName": "中国古代史_先秦_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "商周时期契刻在卜骨、卜甲上的占卜记录，分为前辞、命辞、占辞、验辞、用辞（也称“孚辞”）等部分。"
+  },
+  {
+   "cn": "卜夕",
+   "en": "bu xi;evening divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.469",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "殷商卜问夜晚有无灾祸、忧虑的仪式。殷墟甲骨文有卜“夕无忧”之辞。"
+  },
+  {
+   "cn": "习卜",
+   "en": "xi bu;repeat divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.471",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "因袭前事而重复占卜。殷墟甲骨文有“习兹卜”“习龟卜”，西周亦有此习。"
+  },
+  {
+   "cn": "筮",
+   "en": "shi;counting rod divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.473",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "以蓍草为工具的占卦活动。商周数字卦即在此基础上发展而来，西周以来盛行。"
+  },
+  {
+   "cn": "占候",
+   "en": "zhan hou;divine and observe",
+   "source": "中国古代史名词",
+   "wordNumber": "1.493",
+   "subjectFullName": "中国古代史_通论_思想文化_科技",
+   "subjectName": "科技",
+   "publishYear": "2022",
+   "definition": "观察天象以推测自然及人事变化的知识、技术。占指预测，候指观察。相传尧舜时已设专官掌之，商周为史官之职，秦汉以来从属于天人关系理论而发展出一系列数术，基此观察认识天文、气候、光影物象，以预测其趋势，占示"
+  },
+  {
+   "cn": "神州",
+   "en": "Shen Zhou;the Divine Land",
+   "source": "中国古代史名词",
+   "wordNumber": "1.552",
+   "subjectFullName": "中国古代史_通论_历史地理_总体名词",
+   "subjectName": "总体名词",
+   "publishYear": "2022",
+   "definition": "大九州理论中的中国之称。战国邹衍始名儒家所称的“中国”为“赤县神州”，秦汉以来仍沿此称，而“中国”范围已广及统一王朝治下各地。"
+  },
+  {
+   "cn": "卜筮简",
+   "en": "bu shi jian;divination slips",
+   "source": "中国古代史名词",
+   "wordNumber": "2.396",
+   "subjectFullName": "中国古代史_先秦_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "战国时期记载封君、官僚卜筮祝祷文字的一种简册。在包山楚简、望山楚简、新蔡葛陵楚简中都有发现。"
+  },
+  {
+   "cn": "三卜制",
+   "en": "san bu zhi;thrice divination system",
+   "source": "中国古代史名词",
+   "wordNumber": "2.472",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "以3块甲骨占卜一事。殷商甲骨文显示，人们有时会用多块甲骨反复占卜一事，从“二卜”多至“六卜”，以卜用三骨最为常见。"
+  },
+  {
+   "cn": "物质",
+   "en": "substance,matter",
+   "source": "物理学名词",
+   "wordNumber": "01.0048",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "致甲状腺肿物质",
+   "en": "goitrogenic substance",
+   "source": "普通外科学名词",
+   "wordNumber": "14.113",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "除碘以外的能够导致甲状腺肿大的其他物质。此类物质多存在于土壤、水、粮食、蔬菜、药物和烟草中，其主要作用为干扰甲状腺对碘的捕获，造成碘缺乏而发生甲状腺肿大。"
+  },
+  {
+   "cn": "结晶质",
+   "en": "crystalline substance",
+   "source": "地质学名词",
+   "wordNumber": "02.00.007",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "组成物质的内部质点(分子、原子、离子)在三维空间呈规律性、周期性重复排列，具有格子构造的固态物质。"
+  },
+  {
+   "cn": "变生非晶质",
+   "en": "metamict substance",
+   "source": "地质学名词",
+   "wordNumber": "02.00.013",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "含有强放射性元素(如铀、钍等)的晶质矿物，因放射性元素蜕变使其内部晶格遭受破坏，转变为非晶质。"
+  },
+  {
+   "cn": "P物质",
+   "en": "substance P",
+   "source": "消化病学名词",
+   "wordNumber": "3.106",
+   "subjectFullName": "消化病_胃十二指肠_胃十二指肠生理",
+   "subjectName": "胃十二指肠生理",
+   "publishYear": "2022",
+   "definition": "广泛分布于脑、脊髓、周围神经及肠神经系统中的神经肽。作为神经递质和神经调节剂发挥作用。有促使小肠及胆囊平滑肌收缩、促进小肠蠕动、抑制胆汁分泌、促进基础胰液及小肠的外分泌、抑制小肠吸收等作用。"
+  },
+  {
+   "cn": "物质成瘾",
+   "en": "substance addiction",
+   "source": "行为医学名词",
+   "wordNumber": "7.069",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "对物质强烈渴求，并反复应用，以取得快感或避免戒断后产生痛苦为特点的一种精神和躯体病理状态。"
+  },
+  {
+   "cn": "精神活性物质",
+   "en": "psychoactive substance",
+   "source": "行为医学名词",
+   "wordNumber": "15.001",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "来自体外，能够影响人类情绪、行为，改变意识状态，并有致依赖作用的一类化学物质。"
+  },
+  {
+   "cn": "神圣之诗",
+   "en": "Divine Poem\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Scriabin (Skriabin), Alexander"
+  },
+  {
+   "cn": "分泌物",
+   "en": "secretion substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "虎斑物质",
+   "en": "tigroid substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "间隙物质",
+   "en": "gap substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "黏液物质",
+   "en": "mucoid substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经营养物质",
+   "en": "neurotrophic substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生甲质",
+   "en": "onychogenic substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[细]胞间质",
+   "en": "intercellular substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小梁质",
+   "en": "trabecular substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "釉柱间质",
+   "en": "interrod substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脂肪质",
+   "en": "fatty substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "后含物",
+   "en": "ergastic substance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生长物质",
+   "en": "growth substance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[细]胞间质",
+   "en": "intercellular substance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基准物",
+   "en": "standard substance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物质依赖",
+   "en": "substance dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "纤维间质",
+   "en": "interfibrillary substance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "单质",
+   "en": "elementary substance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "电活性物质",
+   "en": "electroactive substance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "名实",
+   "en": "Name and Substance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言有物，行有恒",
+   "en": "Talk Substance; Act with Perseverance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "衔华佩实",
+   "en": "Harmony Between Substance and Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理趣",
+   "en": "<div> Philosophical Substance Through Artistic Appeal</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "dive\",\"diving save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃射门",
+   "en": "dive shot\",\"diving shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水运动",
+   "en": "diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字鸿沟",
+   "en": "digital divide",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "diving retrieve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水比赛",
+   "en": "diving competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳台跳水",
+   "en": "platform diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人跳水",
+   "en": "synchronized diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳板跳水",
+   "en": "springboard diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水池",
+   "en": "diving pool",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水设施",
+   "en": "diving installation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水队",
+   "en": "diving group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "臂立起跳",
+   "en": "diving\",\"push off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.34",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "通过研究观察各种征兆所得到的不完全的依据来判断未知事物或预测未来的方法。通常被看成是巫术的组成部分，也与宗教有密切关联。"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0301",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "通过自然的、心理的或其他技法获得世间事物的信息以预测未来吉凶祸福的巫术；见于古今中外各地区。在西方，其主要形式为占星术，还有水晶球、纸牌等方式。在中国古代，“占”指观察，“卜”指烧灼龟壳，占卜最初指根"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0316",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "假鬼神意志裁决争论之是非曲直的一种活动；建立在神灵、鬼魂崇拜基础之上。一是用于驱逐灾魔。巫师念咒语，来回跳跃，表示以神的威力压倒邪恶；二是用于解决内部纠纷，裁决宗教诉讼。有捞油锅、捏鸡蛋、吃血酒等多种"
+  },
+  {
+   "cn": "实体",
+   "en": "substance",
+   "source": "马克思主义",
+   "wordNumber": "01.0009",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "古希腊哲学家亚里士多德（Aristotle）首创的范畴，指万物不变的本原，万物由它而生成，最后复归于它。马克思主义哲学吸取了以往哲学中关于实体的丰富思想，形成了物质范畴，以物质范畴扬弃了实体概念。"
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "对物质持续性或间歇性过度使用的状况。"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在限定条件下可作为消毒剂原料的物质，在一定限定值以下使用。"
+  },
+  {
+   "cn": "标准物质",
+   "en": "standard substance",
+   "source": "消毒学",
+   "wordNumber": "6.1.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有一种或多种足够均匀和精确确定了特性值、用以校准设备、评价测量方法或给材料赋值的纯的或混合的气体、液体或固体物质。"
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "对烟草、酒精、毒品和其他违禁药物中任意一种的过度或不恰当使用的行为。"
+  },
+  {
+   "cn": "放射性物质",
+   "en": "radioactive substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "原子核能发生衰变，放出肉眼看不见也感觉不到，只能用专门的仪器才能探测到的射线的物质。如¹³¹I多见于奶制品的污染。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "可溶性抗菌物质",
+   "en": "soluble antibacterial substance",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.17",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "抗（抑）菌剂与相应材料非紧密结合，在使用过程中（如水洗，汗液等）抗（抑）菌剂可从相应材料中溶出的物质。"
+  },
+  {
+   "cn": "非溶出性抗菌物质",
+   "en": "insoluble antibacterial substance",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.18",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "抗（抑）菌剂与相应材料紧密结合，在使用过程中（如水洗，汗液等）抗（抑）菌剂不可从相应材料中溶出的物质。"
+  },
+  {
+   "cn": "有机干扰物",
+   "en": "organic interfering substance",
+   "source": "消毒学",
+   "wordNumber": "6.2.13",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "常用于消毒学试验的试验试剂，人为加入试验中能够影响消毒剂消毒效果的有机物，常用的有牛血清白蛋白、小牛血清、腐殖酸等。"
+  },
+  {
+   "cn": "丙烯酰胺前体物质",
+   "en": "acrylamide precursor substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.15.7",
+   "subjectFullName": "食品卫生学_食品_焙烤类食品",
+   "subjectName": "焙烤类食品",
+   "publishYear": "2025",
+   "definition": "在焙烤等高温加工条件下，食品中可通过美拉德反应生成两烯酰胺的成分，主要为还原糖和天门冬酰胺。"
+  },
+  {
+   "cn": "军用化学物质",
+   "en": "military chemical substances",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质",
+   "subjectName": "军用化学物质",
+   "publishYear": "2025",
+   "definition": "用于军事目的或军事活动的化学物质。通常包括化学战剂、军事工业毒物和军事活动中可能遇到的有毒化学物质（生物、物理和化学因素）。"
+  },
+  {
+   "cn": "食品用香精香料",
+   "en": "food flavoring substances",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "符合国家卫生标准的用于食品赋香的香料和香精的统称"
+  },
+  {
+   "cn": "挥发性物质含量",
+   "en": "volatile substances content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.6",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "在特定条件下对酒类进行干燥所损失物质（乙醇除外）的质量。"
+  },
+  {
+   "cn": "物质使用障碍",
+   "en": "substance use disorder, SUD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "单次或重复使用一种或多种精神活性物质导致的精神或行为障碍。精神活性物质有酒精、阿片类、大麻类、镇静催眠药、可卡因、兴奋剂、致幻剂、烟草和挥发性溶剂等。"
+  },
+  {
+   "cn": "禁用物质",
+   "en": "prohibited and restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "不能作为消毒剂原料使用的物质。"
+  },
+  {
+   "cn": "有意添加物质",
+   "en": "intentionally added substance， IAS",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.45",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在食品接触材料及制品的生产过程中特别添加的，在制造过程或最终产品中具有或曾经起过作用，用于制造聚合物的起始物质、单体、添加剂、溶剂、聚合物生产助剂、聚合助剂和着色剂等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

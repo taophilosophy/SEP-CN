@@ -1,0 +1,672 @@
+{
+ "key": "linear transformation",
+ "term": "linear transformation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:32:54+00:00",
+ "status": "ok",
+ "note": "variant=linear transformation; 审定公布名词库=3614; 海峡两岸名词对照库=812; 其他来源数据库=81; 预公布名词数据库=80; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "线性变换",
+   "en": "linear transformation",
+   "source": "光学名词",
+   "wordNumber": "17.075",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "灰度变换函数是一个线性函数的图像变换。这种变换使得图像的灰度范围被放大或者缩小。"
+  },
+  {
+   "cn": "线性变换",
+   "en": "linear transformation",
+   "source": "物理学名词",
+   "wordNumber": "01.0469",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "线性变换",
+   "en": "linear transformation",
+   "source": "数学名词",
+   "wordNumber": "04.0697",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "幂零线性变换",
+   "en": "nilpotent linear transformation",
+   "source": "数学名词",
+   "wordNumber": "04.0709",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分式线性变换",
+   "en": "fractional linear transformation",
+   "source": "数学名词",
+   "wordNumber": "05.0482",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "直接线性变换",
+   "en": "direct linear transformation,DLT",
+   "source": "测绘学名词",
+   "wordNumber": "03.201",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "非地形摄影测量中，不单独解求内、外方位元素，用像点坐标与其对应的物方空间坐标直接变换关系式进行像片数学处理的方法。"
+  },
+  {
+   "cn": "半单线性变换",
+   "en": "semi-simple linear transformation",
+   "source": "数学名词",
+   "wordNumber": "04.0708",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非奇异线性变换",
+   "en": "non-singular linear transformation",
+   "source": "数学名词",
+   "wordNumber": "04.0703",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "灰度非线性变换",
+   "en": "non-linear transformation of gray",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.126",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字X射线成像技术",
+   "subjectName": "数字X射线成像技术",
+   "publishYear": "2020",
+   "definition": "灰度数据的输入与输出之间呈非线性关系的影像处理方法。"
+  },
+  {
+   "cn": "线性变换的矩阵",
+   "en": "matrix of a linear transformation",
+   "source": "数学名词",
+   "wordNumber": "04.0701",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "LVDT位移传感器",
+   "en": "linear variabledifferential transformer position transducer",
+   "source": "电力名词",
+   "wordNumber": "12.065",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "基于铁心可动变压器原理,来测量直线位移的传感器。由一个初级线圈、两个次级线圈、铁心、线圈骨架、外壳等部件组成。当铁心由中间向两边移动时,次级两个线圈输出电压之差与铁心移动呈线性关系。"
+  },
+  {
+   "cn": "线性",
+   "en": "linear",
+   "source": "核医学名词",
+   "wordNumber": "02.0394",
+   "subjectFullName": "核医学_核医学相关基础学科_辐射损伤与放射生物学",
+   "subjectName": "辐射损伤与放射生物学",
+   "publishYear": "2018",
+   "definition": "量与量之间按比例、成直线的关系。可以列出回归方程、相关系数和线性图。"
+  },
+  {
+   "cn": "线性[的]",
+   "en": "linear",
+   "source": "数学名词",
+   "wordNumber": "07.0003",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "线性化",
+   "en": "linearization",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.079",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "使数字输出值与阶调值成近似正比关系的操作。"
+  },
+  {
+   "cn": "线性",
+   "en": "linearity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2164",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "若 x和 y是变量， a是常数， F(ax)= aF(x)， F(x+y)=F(x)+F(y)，则称函数 F是线性的。若一个系统的输出可以表示为输入与脉冲响应的卷积，则称该系统是线性的。在一个线性系统"
+  },
+  {
+   "cn": "线性化",
+   "en": "linearization",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2167",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "将一个方程线性化意味着对该方程作线性近似，通常只保留泰勒展开的一阶项求得，或者在等效线性化中，通过选择一个线性系统的参量，使一个非线性系统与该线性系统响应近似的、某种可测量的量之差最小。 "
+  },
+  {
+   "cn": "线性关系",
+   "en": "linearity",
+   "source": "经济学名词",
+   "wordNumber": "10.067",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "两个变量之间存在一次函数关系。如果把两个变量分别作为点的横坐标与纵坐标，其图像是平面上的一条直线，则这两个变量之间的关系就是线性关系。"
+  },
+  {
+   "cn": "线性",
+   "en": "linearity",
+   "source": "药学名词",
+   "wordNumber": "06.050",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "在设计的范围内，测试结果(响应值)与试样中被测物的浓度或量直接呈正比关系的程度，或说供试物浓度的变化与试验结果成线性关系。数据要求应列出回归方程、相关系数和线性图。"
+  },
+  {
+   "cn": "线性",
+   "en": "linearity",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.331",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在规定工作范围内，器件、网络或传输媒介符合叠加原理的工作属性。"
+  },
+  {
+   "cn": "线性度",
+   "en": "linearity",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "01.045",
+   "subjectFullName": "机械工程_仪器仪表_总论_仪器仪表基本名词",
+   "subjectName": "仪器仪表基本名词",
+   "publishYear": "2003",
+   "definition": "校准曲线接近规定直线的吻合程度。"
+  },
+  {
+   "cn": "线性变换",
+   "en": "linear transformation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "线性转换",
+   "en": "linear transformation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线性变换",
+   "en": "linear transformation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "线性变换",
+   "en": "linear transformation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接线性变换",
+   "en": "direct linear transformation\",\"DLT",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "变换",
+   "en": "transform\",\"transformation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性的",
+   "en": "linear",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性",
+   "en": "linearity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "线性化",
+   "en": "linearization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "线性度",
+   "en": "linearity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "换算",
+   "en": "transformation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "转化体",
+   "en": "transformant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "变换",
+   "en": "transform",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "变压器",
+   "en": "transformer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "线性规划",
+   "en": "linear programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性结构",
+   "en": "linear structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据变换",
+   "en": "data transformation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化转型",
+   "en": "Digital Transformation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物化",
+   "en": "Transformation of Things",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逆变换采样法",
+   "en": "inverse transform sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性表位",
+   "en": "linear epitope",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.23",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "蛋白质中能与T/B 细胞抗原受体结合的单个小区域的氨基酸序列。"
+  },
+  {
+   "cn": "直线加速器",
+   "en": "linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.3",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "将带电粒子沿直线路径加速的粒子加速器。"
+  },
+  {
+   "cn": "线性回归",
+   "en": "linear regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.83",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用回归方程表现一个随机变量的条件均值（因变量）同一个或多个解释变量（自变量）的对应值之间关系的统计分析方法。"
+  },
+  {
+   "cn": "线性生长",
+   "en": "linear growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "以骨骼生长为基础，反映人体长度生长的特征。"
+  },
+  {
+   "cn": "细胞转化",
+   "en": "cell transformation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "具有正常生长特性的细胞转变为具有无限分裂恶性肿瘤生长特性细胞的过程。正常细胞在体外经辐射、病毒或化学致癌物等处理以及长期的体外培养，均有可能向恶性转化。"
+  },
+  {
+   "cn": "社会转型",
+   "en": "social transformation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "伴随着经济和政治体制、社会结构、社会形态、文化价值系统、行为方式、生活方式等发生深刻变化，社会系统由一种类型向另一种类型过渡。"
+  },
+  {
+   "cn": "社会主义改造",
+   "en": "socialist transformation",
+   "source": "马克思主义",
+   "wordNumber": "02.0335",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1953年至1956年中国共产党领导的在全国范围内变生产资料私有制为社会主义公有制的社会主义革命。包括农业社会主义改造、手工业社会主义改造和资本主义工商业社会主义改造。社会主义改造的完成标志社会着主义"
+  },
+  {
+   "cn": "文化转型",
+   "en": "culture transformation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0051",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "因内部或外部力量推动而导致某个族群文化发生改变和适应的过程。"
+  },
+  {
+   "cn": "线衰减系数",
+   "en": "linear attenuation coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，其光子注量减少的份额。SI单位为每米，记作m-1。"
+  },
+  {
+   "cn": "电子直线加速器",
+   "en": "electron linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.7",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "利用射频电场加速电子的直线轨道加速器。由电子枪、加速管、射频功率源、射频传输、真空系统、冷却水、束流引出和控制等系统组成。被广泛地应用于肿瘤的放射治疗。"
+  },
+  {
+   "cn": "质子直线加速器",
+   "en": "proton linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.8",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "利用高频电场沿直线轨道加速质子的加速器。"
+  },
+  {
+   "cn": "对数线性模型",
+   "en": "log-linear model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.107",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把列联表的网格频数的对数表示为各变量及其交互效应的线性模型。"
+  },
+  {
+   "cn": "价值转形问题",
+   "en": "value transformation problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0122",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在马克思的劳动价值论中，价值转化为生产价格被学术界称为价值转形理论。"
+  },
+  {
+   "cn": "线碰撞阻止本领",
+   "en": "linear collision stopping power",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子在物质中穿行单位长度时，因电离、激发过程所损失的能量。SI单位为焦耳每米，记作J·m-1。"
+  },
+  {
+   "cn": "线辐射阻止本领",
+   "en": "linear radioactive stopping power",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子在物质中穿行单位长度时，因轫致辐射过程所损失的能量。SI单位为焦耳每米，记作J·m-1。"
+  },
+  {
+   "cn": "线能量转移系数",
+   "en": "linear energy transfer coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，光子能量向次级电子转移的份额。SI单位为米，记作m-1。"
+  },
+  {
+   "cn": "线能量吸收系数",
+   "en": "linear energy absorption coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，光子能量向次级电子转移，且通过次级电子的电离、激发过程被物质吸收的份额。SI单位为每米，记作m-1。"
+  },
+  {
+   "cn": "传能线密度",
+   "en": "linear energy transfer，LET",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "射线粒子在单位长度运动径迹上损失的平均能量。单位为千电子伏特每毫米，记作keV·mm-1。其大小取决于粒子所载电荷和粒子质量。"
+  },
+  {
+   "cn": "探测器剂量线性",
+   "en": "dose linear of detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.30",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "辐射探测器的响应与所测量的剂量值保持线性关系的现象。"
+  },
+  {
+   "cn": "广义线性模型",
+   "en": "generalized linear models (glm)",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "基于线性模型的结构，容纳了非正态和定类以及定序因变量的单一的统一的模型理论形式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

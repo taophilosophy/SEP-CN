@@ -1,0 +1,752 @@
+{
+ "key": "restricted utility",
+ "term": "restricted utility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:16:12+00:00",
+ "status": "ok",
+ "note": "variant=restricted utility; 审定公布名词库=956; 海峡两岸名词对照库=219; 其他来源数据库=36; 预公布名词数据库=67; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "数学名词",
+   "wordNumber": "01.0061",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "经济学名词",
+   "wordNumber": "03.052",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "物品或服务满足人们需要的能力，或消费者消费一定数量的商品所得到的满足程度。效用表明的是商品与个人愉悦或痛苦程度之间的关系，它在很大程度上是个人福利的同义词。"
+  },
+  {
+   "cn": "公用工程",
+   "en": "utility",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.084",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "维持化工装置正常运行的辅助设施的总称。主要包括给水排水、供气（汽）、供电、供暖、制冷等。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0197",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在有风险的情况下，为使决策者所作的决策符合其价值，达到预期的最优效果，对各种决策后果(包括决策者对后果的偏爱)进行量化赋以某种数值的一种度量。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "药学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "消费者在消费商品时所感受到的满足程度。"
+  },
+  {
+   "cn": "利用率",
+   "en": "utilance",
+   "source": "电气工程名词",
+   "wordNumber": "22.277",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切酶",
+   "en": "restriction enzyme,restriction endonuclease",
+   "source": "核医学名词",
+   "wordNumber": "06.0123",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "能够识别DNA上特定碱基序列，并在这个位点将DNA剪切的酶。"
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease,restriction nuclease",
+   "source": "遗传学名词",
+   "wordNumber": "03.725",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "特异性识别短的DNA序列并且切割靶位点或别处的DNA双链酶。主要分I型、II型、III型等三类：I型限制酶结合在特定的识别序列上，但在近乎随机的位置上切割DNA；II型限制酶的结合和切割都在同一识别序"
+  },
+  {
+   "cn": "限制环境",
+   "en": "restricted environment",
+   "source": "行为医学名词",
+   "wordNumber": "3.188",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传和环境变异",
+   "subjectName": "遗传和环境变异",
+   "publishYear": "2022",
+   "definition": "与丰富环境相对，只有非生物刺激，不涉及社交刺激。"
+  },
+  {
+   "cn": "限制类投资",
+   "en": "restricted investment",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.220",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目决策",
+   "subjectName": "项目决策",
+   "publishYear": "2021",
+   "definition": "政府根据法律法规、经济发展和行业要求，以及环保和技术水平等，确定为不具有先进性或与未来发展冲突而限制投资的项目。"
+  },
+  {
+   "cn": "约束性报价",
+   "en": "restricted bid",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.237",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目决策",
+   "subjectName": "项目决策",
+   "publishYear": "2021",
+   "definition": "在并购及其他交易中，由卖方提交并对买卖双方拥有法律效力的报价。"
+  },
+  {
+   "cn": "限定空间",
+   "en": "restricted space",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0461",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "由限位装置限制的最大空间中不可超出的部分空间。"
+  },
+  {
+   "cn": "约束选择",
+   "en": "restricted selection",
+   "source": "畜牧学名词",
+   "wordNumber": "04.427",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "在多性状选择时，在一些性状获得最大改进的同时，保持另一些性状不发生改变的选择方法。"
+  },
+  {
+   "cn": "半开架",
+   "en": "restricted access",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.455",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "介于闭架和开架之间的一种书刊提供方式。将书籍陈列在带有玻璃的书柜里，书脊向外，玻璃中间留有一小条空隙。读者能看到书名和书的外貌，但不能自取。借书时读者可以从玻璃空隙中指明要借哪一本书，由馆员取出再给读"
+  },
+  {
+   "cn": "限阅图书",
+   "en": "restricted book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.131",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_外借服务",
+   "subjectName": "外借服务",
+   "publishYear": "2019",
+   "definition": "根据图书馆馆藏使用政策，对使用权限和使用方式有一定限制的图书。"
+  },
+  {
+   "cn": "受限工作",
+   "en": "restricted work",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0989",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "工人无法完全掌控工作节奏的纯手工或人–机联合操作。"
+  },
+  {
+   "cn": "限制股",
+   "en": "restricted stock",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0457",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "子公司或者非子公司所拥有的，由发行人或者发行人子公司在私下交易中出售的非记名股票。"
+  },
+  {
+   "cn": "禁区",
+   "en": "restricted area",
+   "source": "建筑学名词",
+   "wordNumber": "14.0690",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "不允许未授权人员出入(或窥视)的防护区域或部位。"
+  },
+  {
+   "cn": "局限性转导",
+   "en": "restricted transduction",
+   "source": "微生物学名词",
+   "wordNumber": "06.108",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "噬菌体的一种转导方式，噬菌体只将携带的供体菌染色体的特定DNA片段导入受体菌的过程。"
+  },
+  {
+   "cn": "有限词典",
+   "en": "restricted dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.169",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "与“普通词典”“详尽词典”相对。词典的一种类型。只局限于收录和解释语言的某种变体、功能和专业类别。"
+  },
+  {
+   "cn": "内部级",
+   "en": "restricted",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相克",
+   "en": "restriction",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "公用设施",
+   "en": "utility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实用程序",
+   "en": "utility program\",\"utility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公共设施",
+   "en": "utilities",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "利用",
+   "en": "utilization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "限制性酶(=限制性内切核酸酶)",
+   "en": "restriction enzyme(=restriction endonuclease)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切核酸酶,限制酶",
+   "en": "restriction endonuclease\",\"restriction enzyme",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "限制性问题",
+   "en": "restricted problem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "限制信用证",
+   "en": "restricted credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "限制性取用",
+   "en": "restricted usage",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "约束选择",
+   "en": "restricted selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "限航区",
+   "en": "restricted area",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "限制性[酶切]片段",
+   "en": "restriction fragment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制[性酶切]位点",
+   "en": "restriction site",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间障碍",
+   "en": "steric restriction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "限制酶",
+   "en": "restriction enzyme",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "出口限制",
+   "en": "export restriction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "限定空间",
+   "en": "restricted space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "旅行限制",
+   "en": "travel restrictions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "边际效用价值论",
+   "en": "marginal utility theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人数据利用",
+   "en": "personal data utilization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水资源利用",
+   "en": "water resources utilization",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制处理权",
+   "en": "right to restrict processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "限制利用",
+   "en": "limitations in the utilization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "FAIR化有限开放数据",
+   "en": "FAIR data with restricted access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据限制处理权",
+   "en": "right to restrict data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件采购使用限制策略",
+   "en": "software purchase and use restriction policy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非法利用信息网络罪",
+   "en": "crime of illegally utilizing information network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "制天命而用之",
+   "en": "Grasp and Utilize the Endowments of Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据“聚通用”",
+   "en": "Government Data Aggregation, Circulation and Utilization (Guiyang, China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "武汉市以外地区解除离鄂通道管控",
+   "en": "Areas in Hubei, with the exception of Wuhan City, lifted outbound transport restrictions.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "物品或服务满足人们需要的能力，或消费者消费一定数量的商品所得到的满足程度。"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在限定条件下可作为消毒剂原料的物质，在一定限定值以下使用。"
+  },
+  {
+   "cn": "受约束的比转换能",
+   "en": "restricted cema",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位质量物质中，电子产生电离、激发过程中，扣除释出的动能大于特定值的δ粒子动能后，其他能量损失的总和。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "限制口粮",
+   "en": "restricted rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "要求携带最少装备、短期（少于10 天）内完成特殊任务时食用的单兵口粮，由于携带物品体积和重量的限制，其体积和重量均小于作战口粮。"
+  },
+  {
+   "cn": "权力制约",
+   "en": "power restriction",
+   "source": "马克思主义",
+   "wordNumber": "03.0772",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了防治权力的滥用和腐败，而对权力进行制衡与约束。它既包括公民权利对国家权力的制约，也包括国家权力之间的分权制约，如西方的三权分立。中国共产党借鉴但不照搬西方国家在权力制约的经验，正在探索建立、健全决"
+  },
+  {
+   "cn": "职业限制",
+   "en": "occupational restriction",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "保险公司为了控制风险，对一些高风险职业进行限制或者不承保的现象。"
+  },
+  {
+   "cn": "广告限制",
+   "en": "advertising restriction ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.2.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策",
+   "subjectName": "健康危害行为公共政策",
+   "publishYear": "2025",
+   "definition": "对危害健康产品的广告加以限制，例如禁止香烟广告。"
+  },
+  {
+   "cn": "公共工程",
+   "en": "public utility",
+   "source": "马克思主义",
+   "wordNumber": "03.0058",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为促进就业和经济社会发展而主要由国家兴办的建设项目。如在亚洲，气候和土地条件需要中央集权的政府兴办水利灌溉等公共工程，以履行行政之外的经济职能。而在法国路易·拿破仑·波拿巴（Louis-Napoléo"
+  },
+  {
+   "cn": "总效用",
+   "en": "total utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "在一定时间内，消费者消费某种商品或服务总的满足程度之和"
+  },
+  {
+   "cn": "边际效用",
+   "en": "marginal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者从增加一单位某种商品的消费所获得满足程度的增加。"
+  },
+  {
+   "cn": "基数效用论",
+   "en": "cardinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用基数词来表示消费者效用数量的理论。该理论认为，效用是消费者在消费商品时所得到的满足，可以用数值来衡量和相加。消费者均衡的条件是花在每一种商品上的最后一单位货币所带来的边际效用都相等，每一种商品所"
+  },
+  {
+   "cn": "效用最大化",
+   "en": "utility maximization",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者通过采用最佳方法和进行精确计算来使得自身的效用水平达到最大的行为。效用最大化是消费者的理性行为。"
+  },
+  {
+   "cn": "序数效用论",
+   "en": "ordinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用序数词来表示消费者偏好次序的理论，主要分析工具是无差异曲线和预算线。"
+  },
+  {
+   "cn": "预期效用",
+   "en": "expected utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.3.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "按风险发生概率为权重进行加权计算所得出的效用值"
+  },
+  {
+   "cn": "健康效用",
+   "en": "health utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "人们对特定健康水平或生命质量的满意或偏好程度。"
+  },
+  {
+   "cn": "利用限制改造资本主义工商业",
+   "en": "utilizing restricting and transforming capitalist industry and commerce",
+   "source": "马克思主义",
+   "wordNumber": "02.0356",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国资本主义工商业社会主义改造的基本政策。即：通过国家行政机关的管理、国营经济的领导和工人群众的监督，利用资本主义工商业的有利于国计民生的积极作用，限制它们的不利于国计民生的消极作用，鼓励和指导它们转"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数>2.0（胎龄≤37周）或>2.2（胎龄>37周），身长/头围>1.36的小于胎龄儿。多始于胎儿早期，常与遗传因素和宫内感染等有关，胎儿体重、身长和头围受到同等程度的影响。往往脑发育受限。"
+  },
+  {
+   "cn": "非匀称型小于胎龄儿",
+   "en": "asymmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数<2.0（胎龄≤37周）或<2.2（胎龄>37周），身长/头围<1.36的小于胎龄儿。多发生于胎儿晚期，常与母亲营养不良或高血压等有关，出生体重明显低于正常，身长和头围尚与胎龄一致。"
+  },
+  {
+   "cn": "青春期节食",
+   "en": "adolescent restrictive eating",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.2.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "儿童青少年尤其是青春期女孩为了获得或保持苗条身材、惧怕体重增加而采取控制食物量或限制食物品种的饮食行为。"
+  },
+  {
+   "cn": "科学的效用",
+   "en": "utility of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.26",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学在现实生活中，包括宗教、经济、技术、军事、乃至自我发展等方面所能产生的功用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

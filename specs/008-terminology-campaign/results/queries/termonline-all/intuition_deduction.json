@@ -1,0 +1,762 @@
+{
+ "key": "intuition deduction",
+ "term": "intuition deduction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:33:05+00:00",
+ "status": "ok",
+ "note": "variant=intuition deduction; 审定公布名词库=2120; 海峡两岸名词对照库=345; 其他来源数据库=96; 预公布名词数据库=215; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.579",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "一种不经逻辑分析而认识、了解事物的无意识的思维方式。具有快速、冲动的特点。包括认知、情感和行为等成分。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0395",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "人脑所具有的一种不经过逻辑推理或没有任何根据而突发性地直接把握对象的本质的能力。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "心理学名词",
+   "wordNumber": "02.676",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一种不经过分析、推理的认识过程而直接快速地进行判断的认识能力。"
+  },
+  {
+   "cn": "扣除",
+   "en": "deduction",
+   "source": "核医学名词",
+   "wordNumber": "03.0602",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "按设定原则和标准去除待处理数据中部分与分析目标无关数据的图像运算方法。如图像本底扣除。"
+  },
+  {
+   "cn": "免赔额",
+   "en": "deductible",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0433",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "保险合同有的规定损失在一定限度内不予理赔，免赔额是保险人不负赔偿责任的最高损失额度。"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "航海科技名词",
+   "wordNumber": "13.0192",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "数学直觉",
+   "en": "mathematical intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.295",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "哲学上“直觉”的用法很多，针对不同的哲学，“直觉”有不同的含义和用法。从数学哲学的历史看，希尔伯特和布劳威尔关于“数学直觉”的思想受到康德哲学中“直觉”的影响。"
+  },
+  {
+   "cn": "语言直觉",
+   "en": "linguistic intuition",
+   "source": "语言学名词",
+   "wordNumber": "01.111",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "指人们对于自己使用的语言的判断能力，特别是判断一个句子是否能够接受以及句子之间是否具有关联性。既指对语言的直觉，也指如何对语言作分析的直觉。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitional knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.077",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "体现为一种先验的道德意识、内在的道德判断能力，同时也是主体的自觉性。当遇到不可预定的变化时，不必求助他人或经典，仅凭直觉就可以做出反应，判断道德上的是非问题，采取合适的道德行为。"
+  },
+  {
+   "cn": "直觉思维",
+   "en": "intuitive thinking",
+   "source": "心理学名词",
+   "wordNumber": "02.657",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对事物现象及其变化的直接感触而做判断的思维方式。"
+  },
+  {
+   "cn": "直观教学",
+   "en": "intuitional instruction",
+   "source": "教育学名词",
+   "wordNumber": "04.088",
+   "subjectFullName": "教育学_外国教育史_近现代",
+   "subjectName": "近现代",
+   "publishYear": "2013",
+   "definition": "欧洲近代以经验主义和自然主义为基础，根据儿童思维发展的特点，在教学过程中采用具体形象的语言和教具进行教学的教育原则和方法。"
+  },
+  {
+   "cn": "直观法",
+   "en": "intuitional method",
+   "source": "教育学名词",
+   "wordNumber": "06.185",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "让幼儿运用看、听、闻、尝、触、摸等多种感官活动，直接感知所要认识的事物或现象，形成关于事物与现象的初步认识的教学方法。"
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0051",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "将问题的所有子问题分层罗列，从最高层开始，并逐步向下扩展的一种逻辑分析方法。"
+  },
+  {
+   "cn": "推力减额",
+   "en": "thrust deduction",
+   "source": "船舶工程名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "在一定航速下，船后螺旋桨发出的推力(T)与船被拖曳时的总阻力(RT)之差额。一般以ΔT表示：ΔT=T－RT"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "一种由一般到个别的论证方法。由一般原理出发推导出关于个别情况的结论，其前提和结论之间有必然联系。"
+  },
+  {
+   "cn": "论证诊断［法］",
+   "en": "deductive diagnosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.329",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "在检查患病动物所搜集的症状中分出主要症状和次要症状，所设想的疾病能够解释主要症状且又和多数次要症状不相矛盾时建立的诊断。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0102",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "从前提出发，运用逻辑规则推出结论的一种推理方法。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "心理学名词",
+   "wordNumber": "02.644",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从一般原则得出关于具体事例的结论。其主要形式为三段论。"
+  },
+  {
+   "cn": "医学审美直觉",
+   "en": "medical aesthetic intuition",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.049",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "医学审美主体不以概念为媒介而对医学审美客体的直接观察和认识作用，经过内在心理的特殊处理而形成的一种顿悟性反映。"
+  },
+  {
+   "cn": "直观性原则",
+   "en": "principle of intuition",
+   "source": "教育学名词",
+   "wordNumber": "02.140",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教学原则之一。在教学中要通过学生观察所学事物、利用直观教具或教师语言的形象描述引导学生形成对所习得之事物、过程的清晰表象，丰富他们的感性知识，从而有利于他们正确理解书本知识和发展认识能力。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演绎",
+   "en": "deduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "直觉学习",
+   "en": "intuitive learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直觉思维",
+   "en": "intuitive thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本原演绎",
+   "en": "primitive deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锁演绎",
+   "en": "lock deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性演绎",
+   "en": "linear deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎规则",
+   "en": "deduction rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动演绎",
+   "en": "automatic deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假设─演绎",
+   "en": "hypothetico-deductive",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "演绎模拟",
+   "en": "deductive simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据",
+   "en": "deductive data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据库",
+   "en": "deductive database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地图演绎法",
+   "en": "cartographic deduction method",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "推力减额因数",
+   "en": "thrust deduction factor",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分判罚",
+   "en": "deduction penalty\",\"deduction point\",\"gamjeom\",\"sanction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduce\",\"penalize\",\"deduction\",\"penalty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points\",\"penalty of points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "起付线",
+   "en": "deductible",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "被保险人在发生医疗费用后，先自付一定额度的医疗费用，其余费用全部或部分由医疗保险机构支付的保险设计"
+  },
+  {
+   "cn": "感性直观",
+   "en": "perceptual intuition",
+   "source": "马克思主义",
+   "wordNumber": "01.0180",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在康德哲学中，感性直观可指称两个方面：（1）指“自在之物”作用于“自我”所引起的知觉和印象，称作“经验的直观”，这是后天得来的感性认识；（2）指纯粹的形式，即时间和空间，称作“纯粹直观”或“先天的直观"
+  },
+  {
+   "cn": "道德直觉",
+   "en": "moral intuition",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.025",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "无须借助经验证明和逻辑推理，凭借经验知识、记忆表象而作出的道德选择或道德评价。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitive knowledge",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.104",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与生俱来的、先天具有的判断是非善恶的道德意识和道德本能。是人的天赋善良本心的能动作用，主宰着人的一切道德行为，是人的最高的道德理性和道德本能。"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从一般的概念或给定的规则中得出更具体的结论的推理程序。"
+  },
+  {
+   "cn": "科学中的直觉",
+   "en": "intuition in science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究中由移情作用、共同生活和社会心理状态等感性器官提供直接的感官证据。这些由生活体验构成的感官见证，对科学发现和研究起着激发作用，是证明有效科学知识的重要基础。"
+  },
+  {
+   "cn": "直观行动思维",
+   "en": "intuitive action thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "根据对事物现象及其变化的直接感触而做出判断的思维方式。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "催经止孕",
+   "en": "menstrual induction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.12.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "事后避孕的一种方式。在发生无保护性交后，特别是多次无保护性交后，在月经延迟1周内使用负压吸引或药物诱导月经来潮。其目的是有孕止孕、无孕催经。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "探测效率",
+   "en": "detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在一定的探测条件下，探测器探测到的某种辐射的粒子数与在同一时间间隔内放射源所发射出的该种辐射粒子数的比值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

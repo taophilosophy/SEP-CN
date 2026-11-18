@@ -1,0 +1,672 @@
+{
+ "key": "ideal circumstances",
+ "term": "ideal circumstances",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:20:03+00:00",
+ "status": "ok",
+ "note": "variant=ideal circumstances; 审定公布名词库=287; 海峡两岸名词对照库=81; 其他来源数据库=14; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "行为医学名词",
+   "wordNumber": "1.083",
+   "subjectFullName": "行为医学_总论_行为决定健康",
+   "subjectName": "行为决定健康",
+   "publishYear": "2022",
+   "definition": "（1）对未来事物有根据、合理的美好想象和希望。（2）对于某事物臻于最完善境界的观念。"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0199",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定一个上半格 L =( L ,≤,∨)，称一个子集合 I<img src='/root/syzx/static/spz/jsjkx3.02.0167.002.png'/>L 形成 L 的一个理想，若"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "数学名词",
+   "wordNumber": "04.0935",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.224",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "在科学研究中，往往忽略较难处理的变量，从而使得理论或模型可以更加简单地说明现象。"
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.007",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "溶液中的任一组分在全部浓度范围内都符合拉乌尔定律的溶液。"
+  },
+  {
+   "cn": "理想气体",
+   "en": "ideal gas",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.020",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "满足pV=nRT气体状态方程的气体。"
+  },
+  {
+   "cn": "理想元素",
+   "en": "ideal elements",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.279",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "在物理学中指在现实世界中没有的事物。比如“理想气体”“绝对光滑的平面”“不受外力作用的物体”等；在数学哲学中则常指无穷。"
+  },
+  {
+   "cn": "理想型",
+   "en": "ideal type",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.802",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "由德国社会理论家M. 韦伯（M. Weber）提出。主张社会科学就是构造抽象的假设性概念，抓住研究对象的典型性，以此为参考系刻画实际对象与此的一致性与差异，是一种区别于自然科学的方法论。"
+  },
+  {
+   "cn": "理想模型",
+   "en": "ideal model",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.177",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "为了方便研究而建立的高度抽象的、具有某种极限特征的理想化客体。"
+  },
+  {
+   "cn": "理想滤波器",
+   "en": "ideal filter",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2593",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "能使通频带内信号的幅值和相位都不失真，阻带内的频率成分都衰减为零，其通带和阻带之间有明显分界线的滤波器。 "
+  },
+  {
+   "cn": "理想流体",
+   "en": "ideal fluid",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0017",
+   "subjectFullName": "地球物理学_地壳流体科学_流体类型与性质",
+   "subjectName": "流体类型与性质",
+   "publishYear": "2022",
+   "definition": "假设的、没有黏性的一种不可压缩流体。 "
+  },
+  {
+   "cn": "理想城市",
+   "en": "ideal city",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.080",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法",
+   "subjectName": "城市规划理论与方法",
+   "publishYear": "2021",
+   "definition": "（1）基于特定哲学思想、社会理想或科学技术而建构或想象的完美城市的统称。（2）文艺复兴时期许多学者提出的一种城市模式，城市呈规则的几何化平面布局。"
+  },
+  {
+   "cn": "理想蛋白质",
+   "en": "ideal protein",
+   "source": "畜牧学名词",
+   "wordNumber": "07.235",
+   "subjectFullName": "畜牧学_饲料与营养_饲料营养价值评定",
+   "subjectName": "饲料营养价值评定",
+   "publishYear": "2020",
+   "definition": "饲料中各种氨基酸之间的比例与动物营养需要相一致的蛋白质。"
+  },
+  {
+   "cn": "理想变压器",
+   "en": "ideal transformer",
+   "source": "电力名词",
+   "wordNumber": "01.375",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "两端对处瞬时功率之和恒等于零,且输入电压和输出电压之比等于常数K的二端对网络。理想变压器的输入电压<img src='/root/syzx/static/spz/dianli3.01.375.02.p"
+  },
+  {
+   "cn": "理想回转器",
+   "en": "ideal gyrator",
+   "source": "电力名词",
+   "wordNumber": "01.377",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "两端对处瞬时功率之和恒等于零,且输入电压和输出电压之比等于常数R的二端对网络。理想变压器的输入电压<img src='/root/syzx/static/spz/dianli3.01.375.02.p"
+  },
+  {
+   "cn": "理想气体",
+   "en": "ideal gas",
+   "source": "电力名词",
+   "wordNumber": "01.440",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "严格遵守理想气体状态方程<img src='/root/syzx/static/spz/dianli3.01.440.01.png'/>的假想气体。"
+  },
+  {
+   "cn": "理想功率",
+   "en": "ideal power",
+   "source": "电力名词",
+   "wordNumber": "10.061",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "在单位时间内蒸汽膨胀做功的等熵焓降值转换成的机械功。"
+  },
+  {
+   "cn": "理想材料",
+   "en": "ideal materials",
+   "source": "冶金学名词",
+   "wordNumber": "09.0032",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "在塑性力学研究中，常对现实材料性质做某些抽象，以利于数学表达和研究方便的材料。属于流变学的研究范畴。"
+  },
+  {
+   "cn": "理想气体",
+   "en": "ideal gas",
+   "source": "冶金学名词",
+   "wordNumber": "04.0100",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "为假想的、从微观角度看是分子本身的体积和分子间作用力都可以忽略不计的气体。它在任何情况下都严格遵守玻–马定律、盖·吕萨克定律和查理定律。从而一定量理想气体体积与压力乘积等于其物质的量与温度及气体常数R"
+  },
+  {
+   "cn": "理想钟",
+   "en": "ideal clock",
+   "source": "物理学名词",
+   "wordNumber": "06.0045",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理想板",
+   "en": "ideal plate\",\"ideal tray",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想品种",
+   "en": "ideal variety",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想流体",
+   "en": "ideal fluid",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想气候",
+   "en": "ideal climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想循环",
+   "en": "ideal cycle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想流动",
+   "en": "ideal flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想混合物",
+   "en": "ideal mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想反应器",
+   "en": "ideal reactor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想功",
+   "en": "ideal work",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想级",
+   "en": "ideal stage",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想自我",
+   "en": "ideal self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我理想",
+   "en": "ego ideal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "理想坐标",
+   "en": "ideal coordinates",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "理想共聚合",
+   "en": "ideal copolymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "理想溶液",
+   "en": "ideal solution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "理想城市",
+   "en": "ideal city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理想景观",
+   "en": "ideal landscape",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理想摆",
+   "en": "ideal pendulum",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "应然数权",
+   "en": "ideal data rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理想跑动线路",
+   "en": "ideal line of running",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情节提取",
+   "en": "circumstance retrieval and reorganization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "君子固穷",
+   "en": "A Man of Virtue Maintains His Ideals even in Frustrations.&nbsp;",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意不称物，文不逮意",
+   "en": "Ideas Cannot Match Actual Things and Words Cannot Fully Express Ideas.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文以载道",
+   "en": "Literature Is the Vehicle of Ideas.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《产业战略：人工智能领域行动》（英国）",
+   "en": "Industrial Strategy: Artificial Intelligence Sector Deal (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三不朽",
+   "en": "Set Moral Examples, Perform Great Deeds, and Spread Noble Ideas",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道不欲杂",
+   "en": "The Fundamental Principle Should Not Be a Mixture of Ideas.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "夺胎换骨",
+   "en": "Express the Ideas in Earlier&nbsp;Literary Works in a New Way",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文成规矩，思合符契",
+   "en": "The Sage’s Compositions Set the Rules of Writing, and His Ideas Fit Perfectly with Objective Things.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三期叠加",
+   "en": "simultaneously deal with the slowdown in economic growth, make difficult structural adjustments, and absorb the effects of previous economic stimulus policies",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "唯心主义",
+   "en": "idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0004",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "哲学两大基本派别之一，与唯物主义相对立。在哲学的基本问题上，唯心主义主张精神第一性，物质第二性，精神是世界的本原，物质是精神、意识的产物，世界统一于精神。"
+  },
+  {
+   "cn": "道德理想",
+   "en": "moral ideal",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.02",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德追求的最高境界。包括个人道德理想和社会道德理想两个方面。前者指基于一定道德要求的认识，自觉向往和追求的理想人格；后者指理想的社会道德状况。"
+  },
+  {
+   "cn": "职业理想",
+   "en": "professional ideal",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.045",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们确立的与职业目标相联系的愿望。既是职业道德的要求，又有利于职业道德的实现。"
+  },
+  {
+   "cn": "思辨唯心主义",
+   "en": "speculative idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0104",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯在《神圣家族》中使用的术语。马克思、恩格斯批判黑格尔颠倒了精神和物质、思维和存在之间的关系。马克思认为，这样一来，全部外化的历史和外化的整个复归，不过是抽象的、绝对的思维的生产史，即逻辑"
+  },
+  {
+   "cn": "客观唯心主义",
+   "en": "objective idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0199",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "与“主观唯心主义”相对。唯心主义哲学的基本形态之一。客观唯心主义认为不依赖于人类，不依赖于人的意识而独立存在着的“客观精神”，“理念”等是唯一的客观实在，是第一性的，是物质世界的本原；而客观世界则是客"
+  },
+  {
+   "cn": "共产主义理想",
+   "en": "ideal of the communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0020",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级以马克思主义为指导、要在全世界建立共产主义社会的理想信念。"
+  },
+  {
+   "cn": "共产主义理想信念",
+   "en": "communist ideals and beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0553",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对共产主义的理论和原则有了深刻的认识和理解并有了情感基础而产生的对共产主义的真诚信仰和坚强信心的思想意识。它是无产阶级世界观成熟的标志，是建立在马克思和恩格斯创立的科学社会主义理论之上的，是促使革命者"
+  },
+  {
+   "cn": "党的最高理想",
+   "en": "highest ideal of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0717",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即党的最终奋斗目标，是党的最高纲领的核心内容。中国共产党党章明确规定，党的最高理想和最终目标是实现共产主义。"
+  },
+  {
+   "cn": "中国特色社会主义共同理想",
+   "en": "common ideal of socialism with chinese characteristics",
+   "source": "马克思主义",
+   "wordNumber": "03.0698",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义核心价值体系基本内容的一部分。即坚定对中国共产党的信任，坚定走中国特色社会主义道路，坚定实现中华民族的伟大复兴。"
+  },
+  {
+   "cn": "观念",
+   "en": "idea",
+   "source": "马克思主义",
+   "wordNumber": "01.0016",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "客观事物在人脑中的一种能动反映形式，同物质相区别，泛指人们对事物的印象、认识、看法。"
+  },
+  {
+   "cn": "实践理念",
+   "en": "practical idea",
+   "source": "马克思主义",
+   "wordNumber": "01.0121",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "实践活动除了要遵循外部世界的客观尺度，还要体现自己的需要和目的，即内在尺度。实践活动在实际进行之前，必须在头脑中观念地建构起这两种尺度的统一模式，在观念上首先实现两种尺度的统一，这种统一的模式观念就是"
+  },
+  {
+   "cn": "主体思想",
+   "en": "Juche idea",
+   "source": "马克思主义",
+   "wordNumber": "05.0236",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "朝鲜劳动党和朝鲜民主主义人民共和国的指导思想，指以人为中心的世界观、以实现人民群众的自主性为目标的革命思想，强调人民群众是革命和建设的主人和推动力。由金日成创立，金正日加以深化发展。"
+  },
+  {
+   "cn": "两种改革开放观",
+   "en": "two ideas of reform and opening up",
+   "source": "马克思主义",
+   "wordNumber": "04.0386",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在改革开放过程中，始终存在两种不同的改革观的较量。邓小平指出：“有一些人打着拥护改革开放的旗帜，想把中国引导到资本主义，他是要改变我们社会的性质。”在1989年他指出：“某些人所谓的改革，应该换个名字"
+  },
+  {
+   "cn": "以革命两手对付反革命两手",
+   "en": "using revolutionary doublefaced tactics to deal with the doublefaced tactics taken by counterrevolutionaries",
+   "source": "马克思主义",
+   "wordNumber": "03.0444",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "革命人民对敌斗争的一个策略原则。“两手”是指武装进攻的手段与和平谈判的手段。抗日战争胜利后，蒋介石反动集团为了消灭共产党和人民军队，采用武装进攻解放区与和平谈判反革命两手。中国共产党以自卫战争与和平谈"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

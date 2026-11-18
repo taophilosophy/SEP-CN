@@ -1,0 +1,602 @@
+{
+ "key": "one's judgment",
+ "term": "one’s judgment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:18:40+00:00",
+ "status": "ok",
+ "note": "variant=one’s judgment; 审定公布名词库=62; 海峡两岸名词对照库=10; 其他来源数据库=132; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "判断力",
+   "en": "judgment",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.165",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对事物、信息的分析决断能力。"
+  },
+  {
+   "cn": "自我判断",
+   "en": "self-judgment",
+   "source": "行为医学名词",
+   "wordNumber": "5.018",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体为自己行为确立某个目标，以此来判断自己的行为与“标准”之间的差距，并引起肯定或否定自我评价的过程。"
+  },
+  {
+   "cn": "道威判据",
+   "en": "Dove judgment",
+   "source": "光学名词",
+   "wordNumber": "14.275",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "一个定义光学系统分辨能力的判据，即两个相邻像点之间的衍射斑中心距为0.85倍的艾里斑半径时，这两个点恰好被光学系统分辨。"
+  },
+  {
+   "cn": "专家判断",
+   "en": "expert judgment",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0246",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "根据在应用领域、知识领域、专业学科、行业等的专长对于当前活动提供的适当判断。"
+  },
+  {
+   "cn": "审美判断",
+   "en": "aesthetic judgment",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对审美对象给予美丑等评价的心理过程。"
+  },
+  {
+   "cn": "专家判断法",
+   "en": "expert judgment",
+   "source": "药学名词",
+   "wordNumber": "10.101",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "向具有特定专业知识的人征求意见的方法。通常采用小组座谈的方式，其目的在于当某些变量难以获得时，利用专家经验做出快速评估。"
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgment",
+   "source": "教育学名词",
+   "wordNumber": "01.223",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "依据一定的道德行为准则对自己或他人的行为作出是非、善恶评定的逻辑思维形式。"
+  },
+  {
+   "cn": "审计职业判断",
+   "en": "audit professional judgment",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0352",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "在审计准则、财务报告编制基础和职业道德要求的框架下，审计师综合运用相关知识、技能和经验，做出的适合审计业务具体情况的、有根据的行动决策。"
+  },
+  {
+   "cn": "医学审美判断",
+   "en": "medical aesthetic judgment",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "医学审美主体通过知觉感悟或理性论证，对特定观赏对象的审美特性和价值进行分析和概括的审美思维过程。它不同于逻辑认知判断和道德判断，是一种具有审美主体的情感因素和个性特征的主观判断。"
+  },
+  {
+   "cn": "医学审美判断",
+   "en": "medical aesthetic judgment",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0034",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "判断动词",
+   "en": "judgment verb,copular verb",
+   "source": "语言学名词",
+   "wordNumber": "04.064",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "用在名词性词语前边表示断定的动词。例如“是”。"
+  },
+  {
+   "cn": "炉况判断",
+   "en": "judgment of BF running",
+   "source": "冶金学名词",
+   "wordNumber": "05.0815",
+   "subjectFullName": "冶金学_钢铁冶金_炼铁",
+   "subjectName": "炼铁",
+   "publishYear": "2019",
+   "definition": "根据各有关操作指标的显示来分析炉子冶炼状况及其发展趋势，并做出判断。"
+  },
+  {
+   "cn": "群体判断过程模型",
+   "en": "group judgment process model",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0178",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "成员在决策中通过社会交互过程对先前的认知判断进行调整和校正，并权衡各类信息以形成新型群体判断的理论。"
+  },
+  {
+   "cn": "[飞行]安全判断准则",
+   "en": "flight-safety judgment criterion",
+   "source": "航天科学技术名词",
+   "wordNumber": "02.009",
+   "subjectFullName": "航天科学技术_航天运载器",
+   "subjectName": "航天运载器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "春秋笔法",
+   "en": "rhetoric of hidden judgments",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.183",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "文笔曲折，意含褒贬的文字。其语义源出《左传·成公十四年》：“《春秋》之称，微而显，志而晦，婉而成章，尽而不污，惩恶而劝善。”后人称其为孔子写史书的春秋笔法。其要义是以合乎礼法作为标准，既包括不隐晦事实"
+  },
+  {
+   "cn": "放射工作的适任性评价",
+   "en": "judgment on worker’ fitness for radiation work",
+   "source": "放射医学与防护名词",
+   "wordNumber": "11.202",
+   "subjectFullName": "放射医学与防护_放射性疾病诊断、治疗与健康监护_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2014",
+   "definition": "由有授权资格的医师根据相应的健康标准对各类不同的健康检查结果进行分析并对其工作的适任性做出评价和签发证书。"
+  },
+  {
+   "cn": "相石",
+   "en": "judging stone",
+   "source": "风景园林名词",
+   "wordNumber": "08.0720",
+   "subjectFullName": "风景园林_风景园林工程_风景园林假山",
+   "subjectName": "风景园林假山",
+   "publishYear": "2025",
+   "definition": "假山堆叠前对山石的形态、皴纹、质地和色泽四方面进行观察、审度及权衡的方法。"
+  },
+  {
+   "cn": "法官室",
+   "en": "judge’s suite",
+   "source": "建筑学名词",
+   "wordNumber": "02.0141",
+   "subjectFullName": "建筑学_建筑类型及组成_公检法建筑",
+   "subjectName": "公检法建筑",
+   "publishYear": "2014",
+   "definition": "供法官专用的办公及附属空间。"
+  },
+  {
+   "cn": "断事官",
+   "en": "duan shi guan;judge",
+   "source": "中国古代史名词",
+   "wordNumber": "7.123",
+   "subjectFullName": "中国古代史_辽金元_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "元朝至明初掌管司法事务的官职，源于蒙古国所设的札鲁忽赤。元朝建立后，札鲁忽赤成为大宗正府官员的专称，另设此职于诸王府及中书省、枢密院、宣政院等机构，各地行省一度亦设。明初设于五军都督府等机构，后废。"
+  },
+  {
+   "cn": "士师时代",
+   "en": "Period of the Judges",
+   "source": "世界历史名词",
+   "wordNumber": "02.0192",
+   "subjectFullName": "世界历史_古代中世纪_古代西亚",
+   "subjectName": "古代西亚",
+   "publishYear": "2012",
+   "definition": "约公元前13世纪后半期至扫罗称王(公元前1020年)，死海西南 “便雅悯”(Benjamin)和“犹太”(Judah)部落组成 “犹太”联盟，首领曰“士师”(Judges)，故名。"
+  },
+  {
+   "cn": "情境判断测验",
+   "en": "situational judgment test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "判断",
+   "en": "judgement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "原基",
+   "en": "rudiment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑原基",
+   "en": "brain rudiment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视原基",
+   "en": "optic rudiment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "海胆原基",
+   "en": "echinus rudiment",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augment reality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原基",
+   "en": "primodium\",\"rudiment\",\"anlage",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "腰痕骨",
+   "en": "pelvic rudiment bone",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "裁定",
+   "en": "judgment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判",
+   "en": "judge\",\"referee\",\"judgment\",\"refereeing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无法判定",
+   "en": "judgment impossible",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主观判断",
+   "en": "judgment call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无法判断",
+   "en": "impossible judgment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "台下裁判员",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "副裁判员",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "侧面裁判员",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "边角裁判员",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁决",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员",
+   "en": "judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判长",
+   "en": "head judge\",\"judge-referee\",\"superior judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "障碍赛裁判员",
+   "en": "jump judge\",\"obstacle judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.031",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "根据道德标准或道德直觉判定自己或他人行为及其结果的善恶与道德责任的过程。是对道德现象作出断定的思维活动。"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0316",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "假鬼神意志裁决争论之是非曲直的一种活动；建立在神灵、鬼魂崇拜基础之上。一是用于驱逐灾魔。巫师念咒语，来回跳跃，表示以神的威力压倒邪恶；二是用于解决内部纠纷，裁决宗教诉讼。有捞油锅、捏鸡蛋、吃血酒等多种"
+  },
+  {
+   "cn": "适任性评价",
+   "en": "judgment on worker fitness",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.19",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据放射工作人员健康要求对健康检查结果进行综合分析，并对其是否适任拟承担或所承担的放射工作做出评价和签发。"
+  },
+  {
+   "cn": "职业病诊断与鉴定管理办法",
+   "en": "administration regulations for diagnosis and judge of occupational diseases",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.5.1.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关规章_放射卫生相关部门规章",
+   "subjectName": "放射卫生相关部门规章",
+   "publishYear": "2025",
+   "definition": "为了规范职业病诊断与鉴定工作，加强职业病诊断与鉴定管理而制定的部门规章。2021 年1月4日以国家卫生健康委员会令第6号公布，自公布之日起施行。"
+  },
+  {
+   "cn": "风险研判",
+   "en": "risk judgement",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.10",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "当出现食品安全问题或现有信息提示存在风险隐患时，对食品安全问题或信息进行分析并提出初步结论和建议，为确定优先解决的管理问题和为进一步的风险评估数据需求提供基本信息的过程。"
+  },
+  {
+   "cn": "摸着石头过河",
+   "en": "grope ones way across the river",
+   "source": "马克思主义",
+   "wordNumber": "03.0522",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1980年12月在中央工作会议上，陈云讲话称：“我们要改革，但是步子要稳。……随时总结经验，也就是要‘摸着石头过河’”。邓小平对陈云提出的“摸着石头过河说”完全赞同。 邓小平强调“摸着石头过河”, 就"
+  },
+  {
+   "cn": "小道理服从大道理",
+   "en": "minor principles should be subordinated to major ones",
+   "source": "马克思主义",
+   "wordNumber": "04.0139",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志提出的处理和解决全局与局部、大局与小局矛盾的基本原则。1979年3月，邓小平在党的理论工作务虚会上指出：“在社会主义制度之下，个人利益要服从集体利益，局部利益要服从整体利益，暂时利益要服从长"
+  },
+  {
+   "cn": "抓大放小",
+   "en": "to invigorate large enterprises while relaxing control over small ones",
+   "source": "马克思主义",
+   "wordNumber": "02.0411",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在深化国有企业改革、推进国有企业战略性改组中提出的一个重要方针。“抓大”，是指着力培育实力雄厚、竞争力强的大型企业和企业集团，使其可以成为跨地区、跨行业、跨所有制和跨国经营的大企业集团。“放小”，是指"
+  },
+  {
+   "cn": "惩前毖后治病救人",
+   "en": "learn from past mistakes to avoid future ones cure the sickness to save the patient",
+   "source": "马克思主义",
+   "wordNumber": "03.0482",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在延安整风运动中提出的对待犯错误同志的方针，也成为中国共产党解决党内矛盾、开展党内斗争时一贯坚持的重要方针，用以达到既弄清思想，又团结同志的目的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

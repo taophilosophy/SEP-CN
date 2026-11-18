@@ -1,0 +1,722 @@
+{
+ "key": "developmental plasticity",
+ "term": "developmental plasticity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:31:15+00:00",
+ "status": "ok",
+ "note": "variant=developmental plasticity; 审定公布名词库=1423; 海峡两岸名词对照库=411; 其他来源数据库=135; 预公布名词数据库=240; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "植物学名词",
+   "wordNumber": "08.0363",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "生物发育轨迹受到环境影响发生改变的现象。"
+  },
+  {
+   "cn": "发展可塑性",
+   "en": "developmental plasticity",
+   "source": "心理学名词",
+   "wordNumber": "06.049",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "变化的开放性。在其限度内发展可以采取许多不同的形式，这取决于个体的生物、环境历史条件与当前生活条件的不同结合。"
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "地质学名词",
+   "wordNumber": "03.01.103",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "矿物在外力或高温、高压条件下，极易发生塑性变形，可以塑造各种形状而不破碎的性质。"
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1584",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在外加载荷作用下，介质能稳定地发生持久变形而不破坏其完整性的性质。 "
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.184",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "造血干细胞、骨髓间充质干细胞、神经干细胞等成体干细胞具有的跨系甚至跨胚层分化的特性。"
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "动物学名词",
+   "wordNumber": "7.0081",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物的结构、形态和功能受环境因子的影响而产生差异的一种自然属性。"
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "生理学名词",
+   "wordNumber": "03.686",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0329",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品流变学特性",
+   "subjectName": "食品流变学特性",
+   "publishYear": "2020",
+   "definition": "在外力作用下，材料能稳定地发生永久变形而不破坏其完整性的能力。"
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "物理学名词",
+   "wordNumber": "02.0633",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "化学名词",
+   "wordNumber": "04.1729",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "固体物质受外力作用变形后，能完全或部分保持其变形的性质。"
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "教育学名词",
+   "wordNumber": "06.010",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "个体的身体和心理对环境作出反应，并因此发生变化和适应的可能性。"
+  },
+  {
+   "cn": "可塑度",
+   "en": "plasticity",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0618",
+   "subjectFullName": "材料科学技术_高分子材料_橡胶",
+   "subjectName": "橡胶",
+   "publishYear": "2011",
+   "definition": "未硫化的橡胶试样在恒定压力作用下产生变形，当外力解除且经规定时间恢复后，试样的永久形变的度量值。"
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.306",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "土木工程名词",
+   "wordNumber": "02.051",
+   "subjectFullName": "土木工程_工程力学_材料力学",
+   "subjectName": "材料力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "土壤学名词",
+   "wordNumber": "03.276",
+   "subjectFullName": "土壤学_土壤物理",
+   "subjectName": "土壤物理",
+   "publishYear": "1998",
+   "definition": "土壤在一定含水量时，在外力作用下能成形，当外力去除后仍能保持塑形的性质。"
+  },
+  {
+   "cn": "塑性力学",
+   "en": "plasticity",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "发育生物学",
+   "en": "developmental biology",
+   "source": "兽医学名词",
+   "wordNumber": "07.019",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "应用现代生物学技术研究多细胞生物体从生殖细胞的发生、受精、胚胎发育、生长到衰老、死亡的机制和规律的学科。"
+  },
+  {
+   "cn": "发育毒理学",
+   "en": "developmental toxicology",
+   "source": "兽医学名词",
+   "wordNumber": "11.005",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "研究外源化学物对子代发育过程有害影响作用，并为防止其有害作用提供科学依据的一门毒理学分支学科。"
+  },
+  {
+   "cn": "发育毒性",
+   "en": "developmental toxicity",
+   "source": "兽医学名词",
+   "wordNumber": "11.073",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "外源化学物对受试动物子代成年之前诱发的任何有害影响。包括对出生前的胚胎、胎儿以及出生后的幼子的结构及功能的影响。"
+  },
+  {
+   "cn": "生长发育迟滞",
+   "en": "developmental delay",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.081",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "在生长发育过程中出现速度放慢或顺序异常，未能达到按照个体的年龄一般能够达到的预期发育水平的发育障碍现象。"
+  },
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发展可塑性",
+   "en": "developmental plasticity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "发育潜能",
+   "en": "developmental potency\",\"developmental potentiality",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育途径（=发育网络）",
+   "en": "developmental pathway (=developmental network)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可塑度",
+   "en": "plasticity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "增塑剂",
+   "en": "plasticizer\",\"plasticity agent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "发生场",
+   "en": "developmental field",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "发育机制",
+   "en": "developmental mechanism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "发育生物学",
+   "en": "developmental biology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "发育场，发育域",
+   "en": "developmental field",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育重塑",
+   "en": "developmental repatterning",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育多态现象",
+   "en": "developmental polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育轨迹",
+   "en": "developmental trajectory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育畸形",
+   "en": "developmental malformation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育节律",
+   "en": "developmental rhythm",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "橡皮泥板",
+   "en": "plasticine board",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弓箭步刺",
+   "en": "development",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据开发",
+   "en": "data development",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新发展",
+   "en": "innovative development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "协调发展",
+   "en": "coordinated development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绿色发展",
+   "en": "green development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开放发展",
+   "en": "open development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共享发展",
+   "en": "shared development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绿色发展",
+   "en": "green development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "循环发展",
+   "en": "circular development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "永续发展",
+   "en": "sustainable development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "为适应积极或消极的生活经历而发生改变的能力。表现为在发育过程中同一基因型在不同环境条件下能够产生不同生理和形态学特性。"
+  },
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在发育过程中，同一基因型在不同环境条件下能够产生不同生理和形态学特性。是生命体为适应环境而调整其生长发育轨迹的一种模式。"
+  },
+  {
+   "cn": "发展主义",
+   "en": "developmentism",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.8",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "以发展经济为出发点，目的在于推动拉美发展的“经济发展主义”学说。以劳尔·普雷维（R.Prebisch）什为代表的拉美经济学家提出了一系列关于拉美国家工业化和现代化的理论观点和政策主张，逐步形成了这一学"
+  },
+  {
+   "cn": "发展路径",
+   "en": "developmental approach",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.9",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "从事物的发生、成长、变化做历时态的考察从而做出对比说明的方式，与从事物的组成、结构上考察的共时态解释是相对应的方式。"
+  },
+  {
+   "cn": "发育年龄",
+   "en": "developmental age",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "个体生理、心理成熟程度对应于群体平均水平所在年龄。"
+  },
+  {
+   "cn": "发育可逆",
+   "en": "developmental reversibility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "宫内或生命早期发育阶段畸变的表型被外源性因素修复的现象。"
+  },
+  {
+   "cn": "发育表型",
+   "en": "developmental phenotype",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "生命体在基因和环境共同作用下，在发育过程中表现出的一系列形态和功能特征。"
+  },
+  {
+   "cn": "发育编程",
+   "en": "developmental programming",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在生长发育关键期，暴露于应激源对个体器官系统发育及其功能造成永久性改变的过程。"
+  },
+  {
+   "cn": "发育毒性",
+   "en": "developmental toxicity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.9.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女职业卫生保健",
+   "subjectName": "妇女职业卫生保健",
+   "publishYear": "2025",
+   "definition": "发育中的有机体自配子阶段至受精卵、胚胎和胎儿期，乃至出生后至性成熟各个发育阶段中，受职业有害因素影响产生的毒性效应。表现为受精卵发育异常，胎儿畸形、流产或死胎，生长发育迟缓以及出生后功能发育障碍等。"
+  },
+  {
+   "cn": "发育商",
+   "en": "developmental quotient",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.27",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童神经心理发展所达到的程度，即发育年龄（DA）除以实际年龄（CA）的百分比（发育年龄/实际年龄×100）。"
+  },
+  {
+   "cn": "发展性阅读障碍",
+   "en": "developmental dyslexia",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "智力正常儿童在发展过程中没有明显的神经或器质性损伤，阅读能力却显著落后于其相应智力水平或生理年龄的一种神经发育障碍。"
+  },
+  {
+   "cn": "发育毒性",
+   "en": "developmental toxicity",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.2.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "出生前后接触有害因素，子代个体发育为成体之前诱发的任何有害影响，主要表现为发育生物体死亡、生长改变、结构异常、功能缺陷。"
+  },
+  {
+   "cn": "塑料",
+   "en": "plastic",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.21",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "一种高分子材料。可作为β射线、中子屏蔽材料，密度为1.4g·cm-3。"
+  },
+  {
+   "cn": "增塑剂",
+   "en": "plasticizer",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.6",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "能降低高分子材料玻璃化转变温度并提高塑性的低挥发性或无挥发性的助剂。"
+  },
+  {
+   "cn": "发展型社会福利",
+   "en": "developmental social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.86",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "社会福利的一种形态。以人的全面发展为目标，要求以人为中心来设计社会福利制度或计划，立足于社区生活和社区发展，重视动员每一个社会成员积极参与，启发人们挖掘自身的潜力，强调人的尊严和自我实现，追求物质生活"
+  },
+  {
+   "cn": "发展型社会工作",
+   "en": "developmental social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.87",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "社会工作的一种模式。其以支持和促进服务对象的全面发展为目的，相信人的发展动力与潜能，并致力于以各种方法去释放这种发展的可能性，实现服务对象可持续发展。"
+  },
+  {
+   "cn": "抗菌塑料",
+   "en": "antibacterial plastic",
+   "source": "消毒学",
+   "wordNumber": "3.1.13.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "具有抗菌作用的塑料。"
+  },
+  {
+   "cn": "塑料闪烁体",
+   "en": "plastic scintillator",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.35",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种有机闪烁物质在塑料中的固溶体，通常由基质闪烁物质及移波剂组成。"
+  },
+  {
+   "cn": "全面发育迟缓",
+   "en": "global developmental delay, GDD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "属于神经发育障碍性疾病的一类，是智力障碍的过渡诊断。专用于5岁前，在2个及2个以上能区（粗大运动/精细运动、语言、社交、认知及社会适应能力等）没有达到预期发育水平的儿童。"
+  },
+  {
+   "cn": "发育性协调障碍",
+   "en": "developmental coordination disorder, DCD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "在具有正常技能学习和使用情况下，协调运动技能的获得和使用显著低于儿童其生理年龄应该达到的预期水平，主要表现为动作笨拙和运动技能的缓慢或不精确的一种神经发育障碍。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

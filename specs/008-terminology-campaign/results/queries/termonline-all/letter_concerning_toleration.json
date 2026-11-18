@@ -1,0 +1,762 @@
+{
+ "key": "letter concerning toleration",
+ "term": "Letter concerning Toleration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:28:47+00:00",
+ "status": "ok",
+ "note": "variant=Letter concerning Toleration; 审定公布名词库=2736; 海峡两岸名词对照库=897; 其他来源数据库=222; 预公布名词数据库=108; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "书札",
+   "en": "letter",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.265",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "“书信”的书面语。在纸张尚未发明和应用之前，一般把文字都记录在竹木片上，写字用的小木片叫“札”。纸张出现以后，“札”渐渐被纸所替代，而“札”字则沿用至今。"
+  },
+  {
+   "cn": "横切关注点",
+   "en": "crosscutting concerns",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0384",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "跨越多个模块的关注点。横切关注点如果不能有效地分离和模块化，将使系统难以设计、理解、实现和演化。"
+  },
+  {
+   "cn": "约束关心",
+   "en": "constraint concern",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0991",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "由个性特征组成的向量的一个元素，可和其他元素结合起来，用以反映理性的程度。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "toleration",
+   "source": "生态学名词",
+   "wordNumber": "14.202",
+   "subjectFullName": "生态学_污染生态学",
+   "subjectName": "污染生态学",
+   "publishYear": "2006",
+   "definition": "生物对进入其体内的有害元素积累的忍耐能力。"
+  },
+  {
+   "cn": "通排法",
+   "en": "letter-by-letter arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.089",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以字母为单位，逐个字母排比次序而不考虑字面成族要求的排列方法。"
+  },
+  {
+   "cn": "容许度",
+   "en": "tolerance",
+   "source": "农学名词",
+   "wordNumber": "18.138",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "单位质量或一定数量农产品中，不符合所标注等级或规格的允许百分比范围。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "麻醉学名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "连续用药后药效递减，要增大剂量才可以产生疗效的现象。"
+  },
+  {
+   "cn": "允许偏差",
+   "en": "tolerance",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0053",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "养分的测定值与标明值之间的允许差值。"
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "行为医学名词",
+   "wordNumber": "15.034",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "物质使用者必须增加使用剂量和（或）频率才能获得所需效果，或使用原来的剂量达不到预期效果的一种状态。"
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "精神医学名词",
+   "wordNumber": "03.084",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "由于连续使用某药而对药物某一剂量的反应下降的现象。如经常饮酒或大量饮酒的人，需要更高剂量的酒精才能获得原来较低剂量就能获得的效果。生理和心理社会因素都会对产生这种现象有影响。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "感染病学名词",
+   "wordNumber": "01.0634",
+   "subjectFullName": "感染病学_总论_抗感染治疗",
+   "subjectName": "抗感染治疗",
+   "publishYear": "2019",
+   "definition": "机体对药物反应性降低的一种状态。在长期用药过程中，药物效应会逐渐减弱，需加大剂量才能取得原来强度的效应。也可反映对药物不良反应的耐受性，即从不耐受到耐受的过程。"
+  },
+  {
+   "cn": "容限",
+   "en": "tolerance",
+   "source": "物理学名词",
+   "wordNumber": "04.0539",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.090",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "药物常用剂量对机体不再有疗效的现象。其发生的机制可因药物性质的不同而异。其产生的机制有两种： ①药物代谢加速，绝大多数由于肝药酶活性增加； ②受体数目减少或对药物的亲和力降低。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "生物物理学名词",
+   "wordNumber": "04.294",
+   "subjectFullName": "生物物理学_神经生物物理学_脑高级功能",
+   "subjectName": "脑高级功能",
+   "publishYear": "2018",
+   "definition": "机体对药物(物理、化学刺激作用)反应性降低的一种状态。"
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1066",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "产品特征或过程特征参数值允许存在的变动量；或者是工作单元完成时间允许存在的差异。"
+  },
+  {
+   "cn": "公差",
+   "en": "tolerance",
+   "source": "计量学名词",
+   "wordNumber": "02.026",
+   "subjectFullName": "计量学_几何量_几何要素及算法评价",
+   "subjectName": "几何要素及算法评价",
+   "publishYear": "2015",
+   "definition": "上公差限与下公差限之差，或最大允许值与最小允许值之差。是一个没有符号的量。"
+  },
+  {
+   "cn": "容忍度",
+   "en": "tolerence",
+   "source": "心理学名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "多元回归中，对于自变量是否存在多重共线性的检验指标。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "药学名词",
+   "wordNumber": "07.141",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "连续用药后药效递减，要增大剂量才可以产生疗效的现象。"
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.417",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在一定测量条件下规定的测量误差绝对值的允许值。"
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance",
+   "source": "生态学名词",
+   "wordNumber": "02.043",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "对不利环境条件的忍耐力。"
+  },
+  {
+   "cn": "铅字",
+   "en": "letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "字母",
+   "en": "letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "容忍度",
+   "en": "tolerance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "容限，容差",
+   "en": "tolerance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公差",
+   "en": "tolerance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "非注册股票",
+   "en": "letter stock",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "留置权证书",
+   "en": "lien letter",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "书面合同",
+   "en": "letter contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "书信协议",
+   "en": "letter agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔书",
+   "en": "claim letter",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信汇",
+   "en": "letter transfer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "链式邮件",
+   "en": "chain letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铅字质量",
+   "en": "letter quality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式信件",
+   "en": "form letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成交函",
+   "en": "fixing letter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "区号",
+   "en": "zone letter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛装备的抗议",
+   "en": "protest concerning equipment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对参赛资格的抗议",
+   "en": "protest concerning eligibility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家名的字母缩写",
+   "en": "national letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记字母",
+   "en": "marker letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛线路的抗议",
+   "en": "protest concerning the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛的抗议",
+   "en": "protest concerning the race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对计时和成绩的抗议",
+   "en": "protest concerning timing and results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "容错计算",
+   "en": "fault-tolerant computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本地容灾",
+   "en": "local disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据容灾",
+   "en": "data disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用容灾",
+   "en": "application disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源权益",
+   "en": "rights and interests concerning data resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高度重视公共利益",
+   "en": "serious concern for the public good",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高优容差",
+   "en": "highly optimized tolerance (HOT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络容错路由",
+   "en": "network fault-tolerant routing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲民",
+   "en": "people-concerned",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "引导、稳定一般民众，培育和维持社会秩序的施政和制度建设。语出《大学》中“大学之道，在明明德，在亲民，在止于至善。”后世儒家对此多有阐释，如在宋儒那里，解释分别侧重教育（德治）或养民（财，事功）等不同方"
+  },
+  {
+   "cn": "宽容",
+   "en": "toleration",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.095",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "宽宏有气量，不计较或不追究。能够包容、容忍、宽恕与自己不同的意见、分歧、信仰等。"
+  },
+  {
+   "cn": "封面信",
+   "en": "cover letter",
+   "source": "社会医学名词",
+   "wordNumber": "4.8.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "问卷",
+   "publishYear": "2025",
+   "definition": "一封致被调查者的短信，通常放在问卷的最前面。内容包括调查者的身份、调查目的、意义和主要内容。目的是希望取得被调查者的信任和合作。"
+  },
+  {
+   "cn": "老龄工作",
+   "en": "work concerning the aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.8",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "为解决人口老龄化带来的经济社会发展问题、满足老年人的特殊需要的所有工作。"
+  },
+  {
+   "cn": "允许水平",
+   "en": "tolerance level",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对个人剂量系统的性能设定的可接受水平。"
+  },
+  {
+   "cn": "免疫耐受",
+   "en": "immune tolerance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.7.2",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫调节",
+   "subjectName": "免疫调节",
+   "publishYear": "2025",
+   "definition": "免疫系统对特定抗原的特异性无应答状态。包括天然免疫耐受与诱导免疫耐受。"
+  },
+  {
+   "cn": "热耐受",
+   "en": "heat tolerance",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.8",
+   "subjectFullName": "军事预防医学_热区军事卫生_热耐受",
+   "subjectName": "热耐受",
+   "publishYear": "2025",
+   "definition": "人体在高温环境下，通过生理、生化和行为等机制来适应高温条件，并维持自身生理功能正常运转的能力。"
+  },
+  {
+   "cn": "免疫耐受",
+   "en": "immune tolerance",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.11",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "免疫系统对某些抗原的特异性无反应状态。"
+  },
+  {
+   "cn": "关注浓度水平",
+   "en": "concentration level of concern",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.45",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对判断样品中物质或分析物是否符合法规规定和要求的有决定性意义的浓度。如容许限浓度。"
+  },
+  {
+   "cn": "关注水平",
+   "en": "level of concern, LOC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "为保护消费者健康而制定的用于临时管理的食品中某危害因素的含量水平"
+  },
+  {
+   "cn": "毒理学关注阈值",
+   "en": "threshold of toxicological concern, TTC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在对大量化学物的化学结构特征和相关毒理学数据分析的基础上，为不同类别化学物的暴露水平建立的一个安全阈值。如果暴露量低于该阈值，就可以预测其不会对人体健康造成危害。"
+  },
+  {
+   "cn": "乳糖耐量试验",
+   "en": "lactose tolerance test",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.2.6",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "诊断肠道乳糖酶缺乏的一种实验室检查方法。口服乳糖后检测血葡萄糖水平，从而评估乳糖酶缺乏的状况。"
+  },
+  {
+   "cn": "耐热锻炼",
+   "en": "heat tolerance exercise",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.11.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境卫生防护",
+   "subjectName": "热环境卫生防护",
+   "publishYear": "2025",
+   "definition": "寒区、温区人员进驻热区之前，或热区人员开展的耐受热环境的锻炼。"
+  },
+  {
+   "cn": "最大耐受剂量",
+   "en": "maximum tolerable dose, MTD",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.5",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "受试实验动物对受试物所能耐受的最大剂量，超过该剂量将引起个别动物死亡。"
+  },
+  {
+   "cn": "最大耐受剂量",
+   "en": "maximal tolerance dose，MTD",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.22",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "已达到最大染毒剂量而无动物死亡的剂量。"
+  },
+  {
+   "cn": "每日可耐受摄入量",
+   "en": "tolerable daily intake, TDI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.48",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "人体终生每日摄入某种环境污染物（如铅、汞污染物），不产生可检测到的对健康产生危害的量。以每千克体重可摄入的量表示，即mg/kg 体重。"
+  },
+  {
+   "cn": "中国不允许乱",
+   "en": "China will tolerate no disturbances",
+   "source": "马克思主义",
+   "wordNumber": "04.0151",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平1989年3月4日在同中央负责同志谈话时提出的论断。“中国不允许乱”，是我党执政的重要历史经验，是中国人民的根本利益所在，是坚持人民民主专政的应有之义，对于我们治国理政具有重要的现实意义和深远的"
+  },
+  {
+   "cn": "暂定每周可耐受摄入量",
+   "en": "provisional tolerable weekly intake, PTWI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对在人体内半衰期较长且有蓄积毒性的食品污染物所使用的健康指导值，代表人类消费健康且有营养的食品时，不可避免的每周允许摄入的污染物量。基于人类现有知识制定，依据新的证据进行更新。"
+  },
+  {
+   "cn": "暂定每月可耐受摄入量",
+   "en": "provisional tolerable monthly intake, PTMI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.51",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对在人体内具有很长半衰期的蓄积性食品污染物所使用的健康指导值，代表人类消费健康且有营养的食品时，不可避免的每月允许摄入的污染物量。基于人类现有知识制定，依据新的证据进行更新。"
+  },
+  {
+   "cn": "可耐受最高摄入量",
+   "en": "tolerable upper intake level, UL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.59",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "平均每日摄入某种营养素的最高限量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

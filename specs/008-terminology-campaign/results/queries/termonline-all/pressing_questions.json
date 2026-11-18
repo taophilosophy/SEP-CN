@@ -1,0 +1,762 @@
+{
+ "key": "pressing questions",
+ "term": "pressing questions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:24:48+00:00",
+ "status": "ok",
+ "note": "variant=pressing questions; 审定公布名词库=1335; 海峡两岸名词对照库=418; 其他来源数据库=92; 预公布名词数据库=36; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "提问",
+   "en": "question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者通过提问题向采访对象了解新闻事实的新闻采访方式。"
+  },
+  {
+   "cn": "十问",
+   "en": "ten questions",
+   "source": "中医药学名词",
+   "wordNumber": "04.259",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "古人所总结的问诊十项重点内容，即“一问寒热二问汗，三问头身四问便，五问饮食六问胸，七聋八渴俱当辨，九因脉色察阴阳，十从气味章神见”。"
+  },
+  {
+   "cn": "直接提问",
+   "en": "overt question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.068",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者单刀直入地向采访对象提出问题的一种手法。"
+  },
+  {
+   "cn": "隐含提问",
+   "en": "implied question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.069",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者旁敲侧击地向采访对象提出问题的一种手法。"
+  },
+  {
+   "cn": "激将法提问",
+   "en": "prodding question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.07",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者在采访时有意使用一些刺激性语言迫使采访对象回应的一种提问手法。"
+  },
+  {
+   "cn": "试验性提问",
+   "en": "test question",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.142",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "为获取最佳检索结果而进行的试验性操作。一般需对服务对象进行探索性提问，制订最初的检索方案，并根据反馈意见不断地修改，直至检索方案与服务对象的需求基本匹配或完全匹配。"
+  },
+  {
+   "cn": "咨询问题",
+   "en": "reference question",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.205",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借",
+   "subjectName": "文献传递与馆际互借",
+   "publishYear": "2019",
+   "definition": "图书馆用户在寻找专门信息或使用图书馆资源与服务时以现场、电话或互联网的方式提出的请求。"
+  },
+  {
+   "cn": "倾向型问题",
+   "en": "tendentious question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.079",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "提问者提出的表达了自己的倾向，给对方以暗示和诱导的问题。"
+  },
+  {
+   "cn": "复合型问题",
+   "en": "combined question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.080",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "一句话中包括了两个或两个以上问题的问题。"
+  },
+  {
+   "cn": "试探型问题",
+   "en": "probing question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.078",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "提问者提出的对对方进行试探，以证实某种估测的问题。"
+  },
+  {
+   "cn": "克什米尔问题",
+   "en": "Kashmir Question",
+   "source": "世界历史名词",
+   "wordNumber": "01.0703",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "印巴分治后，印度和巴基斯坦之间因克什米尔归属问题而引起的争端。"
+  },
+  {
+   "cn": "魁北克问题",
+   "en": "Quebec Question",
+   "source": "世界历史名词",
+   "wordNumber": "03.0302",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_加拿大",
+   "subjectName": "加拿大",
+   "publishYear": "2012",
+   "definition": "加拿大因为魁北克省的法裔居民要求该省独立而造成的民族矛盾问题。"
+  },
+  {
+   "cn": "东方问题",
+   "en": "Eastern Question",
+   "source": "世界历史名词",
+   "wordNumber": "01.0700",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "世界近代史上欧洲列强为争夺东边奥斯曼帝国所属领土和权益的一系列国际问题。"
+  },
+  {
+   "cn": "特指问句",
+   "en": "specific question",
+   "source": "语言学名词",
+   "wordNumber": "04.159",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "疑问句的一种。用疑问代词或由疑问代词加其他词组成的短语对具体的人、物、时间、场所、方式、原因、工具等提出疑问，句尾可用语气词“呢”“啊”（不用“吗”），全句带疑问语调。发问者希望对方做出具体的回答。例"
+  },
+  {
+   "cn": "选择问句",
+   "en": "alternative question",
+   "source": "语言学名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "疑问句的一种。发问者提出两个或几个具体项目请对方选择，项目之间往往用“还是”连接，句尾可用语气词“呢”“啊”（不用“吗”），全句带疑问语调。例如，“咱们今天去还是明天去？”“你寒假去广州还是深圳？”"
+  },
+  {
+   "cn": "压制",
+   "en": "pressing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.086",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_压制及成形",
+   "subjectName": "压制及成形",
+   "publishYear": "2021",
+   "definition": "将型腔内粉末加压制成具有预定形状和尺寸压坯的过程。"
+  },
+  {
+   "cn": "压榨",
+   "en": "pressing",
+   "source": "植物学名词",
+   "wordNumber": "12.0283",
+   "subjectFullName": "植物学_植物化学_植物化学成分提取与鉴定方法",
+   "subjectName": "植物化学成分提取与鉴定方法",
+   "publishYear": "2019",
+   "definition": "利用机械力将含水较多的果实及蔬菜或含油多的种子挤压，得到汁液或油液的一种提取方法。"
+  },
+  {
+   "cn": "[造纸]压榨",
+   "en": "pressing",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0316",
+   "subjectFullName": "材料科学技术_天然材料_纸",
+   "subjectName": "纸",
+   "publishYear": "2011",
+   "definition": "纸张通过纸机上的压辊挤压出水分，并提高紧度的过程。"
+  },
+  {
+   "cn": "压制",
+   "en": "pressing",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1777",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_粉体成型与烧结技术",
+   "subjectName": "粉体成型与烧结技术",
+   "publishYear": "2011",
+   "definition": "在模腔或其他型腔内将粉末或坯料加压制成具有预定形状、尺寸坯块的工艺。"
+  },
+  {
+   "cn": "压榨",
+   "en": "pressing",
+   "source": "水产名词",
+   "wordNumber": "08.395",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "用外力挤压出物料中的液汁。"
+  },
+  {
+   "cn": "压榨",
+   "en": "pressing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "压制",
+   "en": "pressing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "[造纸]压榨",
+   "en": "pressing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "问题回答系统",
+   "en": "question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "压丝器",
+   "en": "thread press\",\"silk press",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "真空压制",
+   "en": "vacuum pressing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热压",
+   "en": "hot pressing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等静压制",
+   "en": "isostatic pressing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "冷压",
+   "en": "cold pressing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "干压成形",
+   "en": "dry-pressing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "热压",
+   "en": "hot pressing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "等静压",
+   "en": "isostatic pressing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "热压",
+   "en": "hot pressing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "层压压制机",
+   "en": "lamination press",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "滤泥机",
+   "en": "mud press",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "浸渍压榨机",
+   "en": "steeping press",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压模",
+   "en": "press mold",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真空压制机",
+   "en": "vacuum press",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压模机",
+   "en": "molding press",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热压机",
+   "en": "hot press",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "紧逼",
+   "en": "pressing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紧逼",
+   "en": "pressing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紧逼",
+   "en": "press\",\"pressing\",\"pressure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紧逼",
+   "en": "press",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紧逼",
+   "en": "press",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紧逼",
+   "en": "press",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "压剑",
+   "en": "pressing\",\"pressure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "压迫式进攻",
+   "en": "press\",\"pressurize",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "压迫式进攻",
+   "en": "press\",\"pressurize",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "新闻中心",
+   "en": "press center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记者采访区",
+   "en": "press area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "踩板",
+   "en": "press the springboard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紧逼",
+   "en": "press\",\"pressurize\",\"pressure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交叉换位",
+   "en": "crossing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "更衣室",
+   "en": "dressing room",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "人民报刊",
+   "en": "peoples press",
+   "source": "马克思主义",
+   "wordNumber": "03.0143",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "专制制度下与官方、半官方报刊相对应的民主主义的民营报刊。在资本主义社会，它主要指与资产阶级创办的报刊相对应的工人创办的报刊。马克思、恩格斯常常利用这类报刊揭露资本主义的本质，并与各种错误思潮进行论战。"
+  },
+  {
+   "cn": "利群书社",
+   "en": "Liqun Press",
+   "source": "马克思主义",
+   "wordNumber": "04.0445",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "五四运动时期的进步团体。由恽代英在武昌发起，1920年初联合武昌进步社团成立的联合组织，1921年夏天改组为共存社。以“利群助人，服务群众”为宗旨，在武汉地区的知识青年中发生过广泛的影响。"
+  },
+  {
+   "cn": "压榨油",
+   "en": "pressed oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.3.3",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "利用机械压榨方法从油料中提取的油脂。"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "source": "马克思主义",
+   "wordNumber": "04.0069",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁在1912—1916年间写了7本关于民族问题的笔记，其中《民族问题（Ⅱ）笔记》阐述了反对大俄罗斯主义、反对乌克兰资产阶级民族主义观点。在《民族问题提纲》中从十个方面论述俄国民族问题，以及党解决民族"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0212",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "矛盾的特殊性原理在理论和实践中的运用。它要求在马克思主义原理指导下，从客观实际出发，具体分析矛盾的特殊性，并找出解决矛盾的正确方法，是马克思主义的重要方法论原则。"
+  },
+  {
+   "cn": "冷压法",
+   "en": "cold press method",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.3.9",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "在室温下通过挤压或研磨等机械方法从柑橘、柠檬等水果外果皮中提取精油的方法"
+  },
+  {
+   "cn": "跳出历史周期率的第二个答案",
+   "en": "the second answer to the question of how to escape the historical cycle of rise and fall",
+   "source": "马克思主义",
+   "wordNumber": "03.0831",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在党的二十大报告中强调，“经过不懈努力，党找到了自我革命这一跳出治乱兴衰历史周期率的第二个答案，自我净化、自我完善、自我革新、自我提高能力显著增强，管党治党宽松软状况得到根本扭转，风清气正的党内"
+  },
+  {
+   "cn": "加工系数",
+   "en": "processing factor",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.59",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "加工后产品中的物质残留量与加工前的物质残留量之比。"
+  },
+  {
+   "cn": "辐照加工",
+   "en": "irradiation processing",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.2",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "采用电离辐射对材料进行加工处理的一种工艺过程。包括辐照灭菌、辐照保鲜、辐照改性、辐照去污等。"
+  },
+  {
+   "cn": "热力杀菌",
+   "en": "thermal processing",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.10",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "食品在密闭容器内密封后利用高温消灭致病性微生物的处理手段。"
+  },
+  {
+   "cn": "冷加工",
+   "en": "cold processing",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.52",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "包括肉类、鱼类的冷却与冻结；果蔬的预冷与速冻；各种冷冻食品的加工等。主要涉及冷却与冻结装置。"
+  },
+  {
+   "cn": "蛋制品加工",
+   "en": "egg product processing",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.25",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "以鲜蛋类为原料，加工成蛋制品的过程及工艺。"
+  },
+  {
+   "cn": "检查结果处理",
+   "en": "examination result processing",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.22",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "针对职业健康检查结果给出的处理意见，包括复查或其他处理意见。"
+  },
+  {
+   "cn": "核燃料加工",
+   "en": "nuclear fuel processing",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.10",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "从沥青铀矿或其他含铀矿石中提取铀、浓缩铀的生产，对铀金属的冶炼、加工和生产，以及其他放射性元素、同位素标记、核反应堆燃料元件的制造。还包括核废物处置活动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

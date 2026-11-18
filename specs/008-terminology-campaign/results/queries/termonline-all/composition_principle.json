@@ -1,0 +1,742 @@
+{
+ "key": "composition principle",
+ "term": "Composition Principle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:30:49+00:00",
+ "status": "ok",
+ "note": "variant=Composition Principle; 审定公布名词库=1895; 海峡两岸名词对照库=713; 其他来源数据库=174; 预公布名词数据库=141; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "建筑构图原理",
+   "en": "principle of architectural composition",
+   "source": "建筑学名词",
+   "wordNumber": "01.0077",
+   "subjectFullName": "建筑学_总论_建筑空间及建筑形式美学基础",
+   "subjectName": "建筑空间及建筑形式美学基础",
+   "publishYear": "2014",
+   "definition": "建筑形式美的构成规律及其运用方法。来源于形式美学的基本法则，但运用于建筑学，还需考虑审美主体(使用者)对功能的要求以及技术上的可实施性。尺度、比例、对称、均衡、对比、统一、节奏、韵律、主从、虚实、协调"
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "物理学名词",
+   "wordNumber": "01.0139",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "数学名词",
+   "wordNumber": "01.0020",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "组成",
+   "en": "composition",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0207",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "由部分或个体组合成的集合体。 "
+  },
+  {
+   "cn": "排版",
+   "en": "composition",
+   "source": "测绘学名词",
+   "wordNumber": "04.335",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "按页面设计要求将图文组成规定版式的过程。"
+  },
+  {
+   "cn": "复合",
+   "en": "composition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0115",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "函数复合算子。例如：给定函数 f(x),g(y) ，复合算子定义函数 h(y)=f(g(y)) 。 "
+  },
+  {
+   "cn": "组合",
+   "en": "composition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0323",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "聚合的一种特殊形式，它表明整体对象与部分对象之间具有紧密的拥有关系和共同的生存周期。"
+  },
+  {
+   "cn": "关系复合",
+   "en": "composition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0121",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "已知 x、y间关系<img src='/root/syzx/static/spz/jsjkx3.08.0121.001.png'/>， y、z间关系<img src='/root/syzx/stati"
+  },
+  {
+   "cn": "组合",
+   "en": "composition",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0234",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "部分和整体具有统一的生存期的整体与部分的关联关系。"
+  },
+  {
+   "cn": "作文",
+   "en": "composition",
+   "source": "教育学名词",
+   "wordNumber": "07.142",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "（1）学生练习写作的活动。（2）学生作为练习所写的文章。"
+  },
+  {
+   "cn": "复合",
+   "en": "composition",
+   "source": "数学名词",
+   "wordNumber": "01.0058",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "复合性",
+   "en": "compositeness",
+   "source": "物理学名词",
+   "wordNumber": "09.1242",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "复合材料",
+   "en": "composite,composite materials",
+   "source": "建筑学名词",
+   "wordNumber": "12.0007",
+   "subjectFullName": "建筑学_建筑材料及制品_材料分类",
+   "subjectName": "材料分类",
+   "publishYear": "2014",
+   "definition": "由异质、异性、异形的有机聚合物、无机非金属、金属等材料作为基体或增强体，通过复合工艺组合而成的材料。"
+  },
+  {
+   "cn": "复合材料",
+   "en": "composite,composite materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "由异质、异性、异形的有机聚合物、无机非金属、金属等材料作为基体或增强体，通过复合工艺组合而成的材料。除具备原材料的性能外，同时能产生新的性能。"
+  },
+  {
+   "cn": "分解原理",
+   "en": "decomposition principle",
+   "source": "数学名词",
+   "wordNumber": "011.0154",
+   "subjectFullName": "数学_运筹学_线性规划",
+   "subjectName": "线性规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系组成",
+   "en": "floral composition,floristic composition",
+   "source": "植物学名词",
+   "wordNumber": "02.0404",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "一个地区或某个植被类型中所有物种的科、属和区系成分的组成情况。"
+  },
+  {
+   "cn": "双晶接合面",
+   "en": "composition plane;composition surface",
+   "source": "地质学名词",
+   "wordNumber": "02.00.114",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "双晶中两个单晶体间实际邻接的公共界面。也就是两个单晶体间在内部结构上互不连续的分界面。它可以是规则的平面，也可以是不规则的曲折面。当接合面为一规则平面时，其方向可用平行于相应晶面的方式来表示。大多数("
+  },
+  {
+   "cn": "复合传感器",
+   "en": "composite transducer,composite sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0055",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "由多种不同类型的敏感元件或传感器组合而成、具有多种功能的传感器。"
+  },
+  {
+   "cn": "复合移植术",
+   "en": "composite transplantation,composite graft",
+   "source": "手外科学名词",
+   "wordNumber": "05.0238",
+   "subjectFullName": "手外科学_手外科学分论_组织移植",
+   "subjectName": "组织移植",
+   "publishYear": "2020",
+   "definition": "以同一供血系统作为血供来源、包含不同组织学来源的组织瓣移植术。"
+  },
+  {
+   "cn": "复合膜",
+   "en": "composite membrane,thinfilm composite",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0290",
+   "subjectFullName": "海洋科学技术_海洋技术_海水资源开发技术",
+   "subjectName": "海水资源开发技术",
+   "publishYear": "2007",
+   "definition": "用两种不同的膜材料，分别制成具有分离功能的致密层和起支撑作用的多孔支撑层组成的膜。"
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "组成",
+   "en": "composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "组成",
+   "en": "composition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拼版",
+   "en": "composition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "复合材料",
+   "en": "composite materials\",\"composite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系组成",
+   "en": "floral composition\",\"floristic composition",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "苦味素",
+   "en": "bitter principle",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "费马原理",
+   "en": "Fermat principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转化原理",
+   "en": "conversion principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操作原理",
+   "en": "operating principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最小值原理",
+   "en": "minimum principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "杠杆原理",
+   "en": "lever principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "极大值原理",
+   "en": "maximum principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动量原理",
+   "en": "momentum principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "基本原理",
+   "en": "fundamental principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "打折扣原则，打折扣原理",
+   "en": "discounting principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "快乐原则",
+   "en": "pleasure principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "万物之理",
+   "en": "Universal Principle",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多语言原则",
+   "en": "multilingual principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通知原则",
+   "en": "notice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性原则",
+   "en": "integrity principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目的性原则",
+   "en": "purpose principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择原则",
+   "en": "choice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转移原则",
+   "en": "transfer principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全原则",
+   "en": "security principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准入原则",
+   "en": "access principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "执行原则",
+   "en": "implementation principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大节",
+   "en": "Major Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小节",
+   "en": "Minor Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "马克思主义",
+   "wordNumber": "04.0059",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指导言论和行动的理论规定。在社会生活中，原则常被作为人们言行的准则。在具体科学中含有公理性质的意思。原则是人们在社会实践中对客观事物及其规律进行的抽象，是一般原理。原则具有相对稳定性，但并不是凝固不变"
+  },
+  {
+   "cn": "时序性原则",
+   "en": "chronological principle",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "职业性放射性疾病一定发生在职业接触电离辐射之后，并符合放射性疾病生物学潜隐期的客观规律。"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "与特定法律有联系，建立、证明或补充、批评、修正现存法律规则的价值、理念及其体系。"
+  },
+  {
+   "cn": "谨慎原则",
+   "en": "precautionary principle",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "如果一个行动或政策有可能引发危害公众或环境的风险，在没有一致的科学意见认为行动或政策有害的情况下，证明行动无害的举证责任就落在那些要采取行动的人身上。"
+  },
+  {
+   "cn": "头尾发展律",
+   "en": "cephalocaudal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿至婴幼儿期体格和粗大动作发育遵循从头部到尾部发展的程序性。"
+  },
+  {
+   "cn": "近侧发展律",
+   "en": "proximodistal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿期至儿童期体格发育遵循从身体的近端（或中心）到远端（或外周）发展的程序性。表现为躯干的生长先于四肢，四肢的近端生长先于远端。"
+  },
+  {
+   "cn": "相互作用原理",
+   "en": "interrelated principle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "个体的行为嵌套于具体的社会关系之中，受社会影响的同时也在影响社会的学说。"
+  },
+  {
+   "cn": "参与原则",
+   "en": "participation principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务的制定、执行与评估过程中，应确保公众、社区和各类相关利益方的积极参与，提升政策的可接受性、适用性与持续性。"
+  },
+  {
+   "cn": "保密原则",
+   "en": "confidentiality principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.074",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "医务人员、研究人员及相关机构对患者或研究参与者在诊疗或参与医学活动过程中提供的个人信息、健康状况、医疗记录等隐私数据负有严格保密义务，未经当事人明确授权不得向第三方泄露的伦理原则。"
+  },
+  {
+   "cn": "裂变原则",
+   "en": "fission principle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0541",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国人类学家埃文斯-普理查德（Evans-Pritchard）在其代表作《努尔人》一书中提出，该原则是在一种无国家的社会组织中被注意到的社会组织原则。在无国家社会中，人们根据血缘关系的亲疏来组成不同的"
+  },
+  {
+   "cn": "干预原则",
+   "en": "intervention principle",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.24",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "在核事故状态下,对公众等实施干预所必须遵循的基本原则,包括干预的正当化,干预最优化以及干预应首先着眼于避免严重的确定性效应的发生。"
+  },
+  {
+   "cn": "个案处理原则",
+   "en": "individual principle",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂安全性评价适用原则之一。没有一个固定的检验和评价模式能适用于所有食品添加剂，因此不应建立标准化和强制化的食品添加剂安全性评价试验程序，不同食品添加剂安全性评价所需的试验资料应有所不同。"
+  },
+  {
+   "cn": "经济原则",
+   "en": "economy principle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0043",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "法国语言学家马丁内（A. Martinet）1962 年提出语言演变的原则。即语言演变的动力来自于交际的需要和人的自然惰性之间的冲突。前者促使人类创造新的、复杂的语言单位；后者则要求在言语过程中尽量减"
+  },
+  {
+   "cn": "道德原则",
+   "en": "moral principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0390000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "一定社会或阶级用以调整人们行为、相互利益关系的普遍性准则。"
+  },
+  {
+   "cn": "天理",
+   "en": "heavenly principles",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.068",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "儒家所信奉的本然之性，或客观存在的道德法则。"
+  },
+  {
+   "cn": "身体成分",
+   "en": "body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "组成人体质量的各组成成分的含量，包括肌肉、骨骼、脂肪、水和矿物质等。"
+  },
+  {
+   "cn": "信息公开原则",
+   "en": "information disclosure principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.039",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "公共卫生从业人员在公众赋予的资源和授权的范围内为社会提供其所拥有的信息，及时采取有效的行动。"
+  },
+  {
+   "cn": "共济原则",
+   "en": "principle of solidarity",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.038",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据社会成员之间公正享有利益和义务的社会伦理理念，政府、社群和个体之间互助、密切合作解决公共卫生问题的行为准则。"
+  },
+  {
+   "cn": "社会公平原则",
+   "en": "social equity principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务中，强调健康资源、服务机会与健康结果在各社会群体之间的公平分配，保障任何人不因社会经济地位、地域、性别、族群等因素而在获得健康服务上受到不公待遇。"
+  },
+  {
+   "cn": "相称性原则",
+   "en": "principle of proportionality",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.041",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在公共卫生活动中，为了促进公共卫生、公众健康，所采取的可能且不可避免地影响个人权益或加重个人负担的任何措施，应能够达到服务目标人群的公共卫生目的，且不存在达到这一目的的更宽松措施的伦理准则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,702 @@
+{
+ "key": "epistemic permissivism",
+ "term": "epistemic permissivism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:33:28+00:00",
+ "status": "ok",
+ "note": "variant=epistemic permissivism; 审定公布名词库=169; 海峡两岸名词对照库=10; 其他来源数据库=43; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "认识相对性",
+   "en": "epistemic relativity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.013",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为知识仅相对于某一特定语境、社群、文化或个体才有效。"
+  },
+  {
+   "cn": "认知最佳",
+   "en": "epistemic optimality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.648",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "心灵哲学中一种用来解决信息与内容之间错误表征问题的观点。认为当且仅当一个被表征事物存在一个认知最优条件，且这些条件被满足时，获得的信息就正确地表征了事物的内容。"
+  },
+  {
+   "cn": "认识主体",
+   "en": "epistemic subject",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "与认识客体构成某种实践关系和认识关系的个人（科学家）或群体（科学共同体）。与“认识客体”相对。"
+  },
+  {
+   "cn": "认识客体",
+   "en": "epistemic object",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.014",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "自然界中进入主体的特定认识领域中的物质系统，是认识主体所要理解和认识的对象。与“认识主体”相对。"
+  },
+  {
+   "cn": "认识工具",
+   "en": "epistemic implement",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "认识活动借以展开的方法、仪器及概念框架等。"
+  },
+  {
+   "cn": "认识论暴力",
+   "en": "epistemic violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.014",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "帝国主义以科学、普遍真理和宗教救赎等话语对殖民地文化进行排斥、贬低和重新塑造的行为。一方面，将帝国主义对前殖民地的政治和军事占领合法化，另一方面，剥夺了殖民地人民的文化主体性、迫使其处于依附状态。这一"
+  },
+  {
+   "cn": "认知逻辑",
+   "en": "epistemic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0012",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "泛指刻画“知道”“相信”等认知概念的逻辑系统。"
+  },
+  {
+   "cn": "认知的不确定性",
+   "en": "epistemic uncer-tainty",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1982",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "在地震危险性分析中，由于对模型参量的知识不完全和所采用的方法的局限性引起的不确定性。可以通过改进模拟方法和分析方法减小认知的不确定性。 "
+  },
+  {
+   "cn": "传染型余震序列模型",
+   "en": "epistemic type aftershock sequence; ETAS",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2217",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "将自相似思想引入大森 -宇津公式，假定任何一次地震均产生自己的高阶余震，利用条件强度函数建立的余震发生模型。 "
+  },
+  {
+   "cn": "流行",
+   "en": "epidemic",
+   "source": "感染病学名词",
+   "wordNumber": "01.0326",
+   "subjectFullName": "感染病学_总论_感染病流行病学",
+   "subjectName": "感染病流行病学",
+   "publishYear": "2019",
+   "definition": "某传染病在某地近年来发病率显著超过该病散发性发病水平的现象。"
+  },
+  {
+   "cn": "流行",
+   "en": "epidemic",
+   "source": "结核病学名词",
+   "wordNumber": "05.045",
+   "subjectFullName": "结核病学_结核病预防与控制_流行与控制",
+   "subjectName": "流行与控制",
+   "publishYear": "2019",
+   "definition": "某传染病在某地近年来发病率显著超过该病散发性发病水平。"
+  },
+  {
+   "cn": "流行",
+   "en": "epidemic",
+   "source": "地方病学名词",
+   "wordNumber": "01.037",
+   "subjectFullName": "地方病学_总论_流行病学",
+   "subjectName": "流行病学",
+   "publishYear": "2016",
+   "definition": "某地区某病的发病率显著超过历年(散发)发病率水平的现象。"
+  },
+  {
+   "cn": "流行",
+   "en": "epidemic",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.080",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "某病在某地区显著超过其历年发病率水平的现象。应根据不同病种、不同时期、不同历史情况进行判定。"
+  },
+  {
+   "cn": "天行赤眼",
+   "en": "epidemic red eye,epidemic conjunctivitis",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "04.240",
+   "subjectFullName": "中医药学_眼科学_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2013",
+   "definition": "感受疫疠之气，以白睛暴发红赤，痒涩微痛，畏光流泪为主要表现的传染性眼病。"
+  },
+  {
+   "cn": "天行赤眼",
+   "en": "epidemic red eye,epidemic keratoconjunctivitis",
+   "source": "中医药学名词",
+   "wordNumber": "014.028",
+   "subjectFullName": "中医药学_外科疾病",
+   "subjectName": "外科疾病",
+   "publishYear": "2004",
+   "definition": "以白睛暴发红赤，痒涩微痛，畏光流泪为主要表现的传染性眼病。"
+  },
+  {
+   "cn": "上位效应",
+   "en": "epistatic effect",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.146",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "影响同一性状的两对非等位基因，其中一对基因（显性或隐性的）抑制或掩盖另一对显性基因的作用时所表现的遗传效 应。"
+  },
+  {
+   "cn": "上位效应",
+   "en": "epistatic effect",
+   "source": "畜牧学名词",
+   "wordNumber": "04.354",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "不同基因座的基因之间的交互作用所产生的效应。"
+  },
+  {
+   "cn": "上位方差",
+   "en": "epistatic variance",
+   "source": "畜牧学名词",
+   "wordNumber": "04.371",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "在非加性遗传方差中，由基因的上位效应所导致的方差组分。"
+  },
+  {
+   "cn": "上位基因",
+   "en": "epistatic gene",
+   "source": "植物学名词",
+   "wordNumber": "10.0102",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "在上位效应中，起掩盖作用的基因。"
+  },
+  {
+   "cn": "翼上骨",
+   "en": "epipteric bone",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0887",
+   "subjectFullName": "人体解剖学_运动系统_体质人类学",
+   "subjectName": "体质人类学",
+   "publishYear": "2014",
+   "definition": "翼区的蝶、顶、额和颞4骨间单独的小骨块。"
+  },
+  {
+   "cn": "翼上骨",
+   "en": "epipteric bone",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "上位基因",
+   "en": "epistatic gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上位离差",
+   "en": "epistatic deviation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上位显性",
+   "en": "epistatic dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上位基因",
+   "en": "epistatic gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "上位方差",
+   "en": "epistatic variance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "上位效应",
+   "en": "epistatic effect",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "流行性产卵",
+   "en": "epidemic spawning",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "上位效应",
+   "en": "epistatic effect\",\"epistasis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然疫源地",
+   "en": "natural epidemic focus",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "疫情监测",
+   "en": "epidemic monitoring",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情峰值",
+   "en": "epidemic peak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic; outbreak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "出入境防疫",
+   "en": "epidemic prevention at borders",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情防控",
+   "en": "epidemic prevention and control ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "战胜疫情",
+   "en": "to prevail over the epidemic; to beat the epidemic; to win the battle against the epidemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数字抗疫",
+   "en": "combating epidemic with digital technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据病源追踪",
+   "en": "big data-enabled epidemic tracking",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "差异化精准防控策略",
+   "en": "precise and differentiated epidemic control strategies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社区疫情防控",
+   "en": "community-based epidemic prevention and control",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学战疫",
+   "en": "science-based approach in fighting the epidemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重大疫情防控体制机制",
+   "en": "mechanism for major epidemic prevention and control",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "  统筹推进疫情防控和脱贫攻坚",
+   "en": "to coordinate epidemic control with poverty alleviation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": " 疫情防控重点地区",
+   "en": "key regions in epidemic prevention and control",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "战胜疫情的中坚力量",
+   "en": "core forces in victory over the epidemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "把握好防疫管控的度",
+   "en": "Moderation is required in epidemic prevention and control.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "广泛普及疫情防控知识",
+   "en": "to disseminate information on epidemic prevention and control",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "做好重点地区疫情防控",
+   "en": "strengthen epidemic prevention and control in key regions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "  严厉打击涉疫违法犯罪",
+   "en": "to take firm action against epidemic-related crimes",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.002",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由致病性生物因子如细菌、病毒等引起的传染性疾病及其发生和蔓延发展的情况。"
+  },
+  {
+   "cn": "疫区",
+   "en": "epidemic area",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.2.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "遭受生物战剂袭击区域出现病例后，经过评估划分需要实施管控的病例所在区域。"
+  },
+  {
+   "cn": "疫情发布",
+   "en": "epidemic information release",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.019",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由疫情发生地及以上人民政府或政府委托的相关部门依法按规定进行及时、准确、客观、全面的疫情信息公开的工作。"
+  },
+  {
+   "cn": "疫情预警",
+   "en": "epidemic outbreak alert",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.02",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在传染病或突发公共卫生事件发生之前，根据以往总结的规律或监测到的可能风险，向相关部门发出紧急信号，报告危险情况，以避免危害在不知情或者准备不足的情况下发生，从而最大限度降低危害所造成的损失的行为。"
+  },
+  {
+   "cn": "疫情报告",
+   "en": "epidemic situation report",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.017999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据法律法规，在发现法定传染病患者或疑似传染病患者时，遵循属地管理原则，按照国家或卫生行政部门规定的内容、程序、方式和时限进行报告的行为和制度。"
+  },
+  {
+   "cn": "疫点消毒",
+   "en": "disinfection in epidemic focus",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.11",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对传染源所在家庭及其周围或居住场所开展的消毒。"
+  },
+  {
+   "cn": "疫区消毒",
+   "en": "disinfection in epidemic area",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.12",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对病原体可能传播的区域开展的消毒。"
+  },
+  {
+   "cn": "防疫物资储备",
+   "en": "epidemic prevention materials reserve",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校根据可能发生的传染病疫情，按照学校规模、学生数量以及传染病预防控制要求储备一定数量的物资，掌握物资储备要求、使用方法、注意事项和使用期限等，并对物资进行管理的过程。"
+  },
+  {
+   "cn": "学校传染病疫情报告人",
+   "en": "school epidemic information reporter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "负责传染病疫情及相关突发公共卫生事件报告的学校专职或兼职卫生专业技术人员、保健教师，或经培训合格的学校其他在编人员。"
+  },
+  {
+   "cn": "防疫消毒车",
+   "en": "epidemic prevention and disinfection vehicle",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.6",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "装备有传染病防控所需的消毒、防护等设备和物品，用于传染病疫情现场处置的车辆。"
+  },
+  {
+   "cn": "传染病流行过程",
+   "en": "epidemic process of infectious disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "传染病在人群中发生、蔓延和转归的过程。"
+  },
+  {
+   "cn": "学校传染病流行",
+   "en": "infectious disease epidemic in school",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "当学校或师生员工群体中，短期内某种传染病发病率突然超过该病历年的一般发病率水平时的现象。"
+  },
+  {
+   "cn": "学校传染病疫情处置",
+   "en": "school infectious disease epidemic disposal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "达到传染病症状或相关疾病预警指标时，学校及时上报属地疾病预防控制机构和教育主管部门，并协助卫生健康部门开展相关处置工作的过程。"
+  },
+  {
+   "cn": "军队防疫消毒",
+   "en": "epidemic prevention disinfection in army",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.1",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "军队为阻止和控制传染病的发生和流行采取的卫生处理措施。"
+  },
+  {
+   "cn": "生物袭击区域划定",
+   "en": "determination of contaminate or epidemic area",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "生物袭击后遭受生物战剂污染区域范围的判断或疫区划定。"
+  },
+  {
+   "cn": "疫情报告属地管理原则",
+   "en": "principle for territorial management of epidemic reporting",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.033999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在中国传染病防控体系中，疫情信息的发现、报告和初步处置由病例所在地的医疗卫生机构或责任单位负责，并逐级上报至属地卫生健康行政部门和疾控中心的管理制度。"
+  },
+  {
+   "cn": "飞行卫生防疫保障",
+   "en": "health and epidemic prevention guarantee of flight",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.5.1",
+   "subjectFullName": "军事预防医学_军队流行病学_航空流行病学",
+   "subjectName": "航空流行病学",
+   "publishYear": "2025",
+   "definition": "为保障飞行任务的完成而采取的综合性卫生学流行病学措施。其主要目的是为安全飞行创造良好的卫生学条件，确保飞行人员的身体健康和飞行安全。"
+  },
+  {
+   "cn": "战时军队卫生防疫",
+   "en": "military health and epidemic prevention in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.6.4",
+   "subjectFullName": "军事预防医学_军队流行病学_军队传染病预防与控制",
+   "subjectName": "军队传染病预防与控制",
+   "publishYear": "2025",
+   "definition": "运用公共卫生与预防医学理论、方法及技术，探索疾病发生流行规律、评估环境有害因素威胁，进而采取措施预防控制疾病（尤其传染病流行），以促进维护保障对象身心健康的活动。"
+  },
+  {
+   "cn": "进出境动物防疫消毒",
+   "en": "epidemic prevention and disinfection of entry-exit animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "通过物理、化学、生物等技术方法，清除并杀灭进出境动物及其运输工具、笼具、铺垫材料、饲草以及进境动物隔离检疫场中所有病原体的消毒措施。"
+  },
+  {
+   "cn": "进出境动物产品防疫消毒",
+   "en": "epidemic prevention and disinfection of entry-exit animal product",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.3",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对进出境动物产品可能携带的病原体，通过物理、化学、生物等技术方法防止动物疫病发生蔓延的消毒措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

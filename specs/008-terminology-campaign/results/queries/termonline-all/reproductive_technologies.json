@@ -1,0 +1,772 @@
+{
+ "key": "reproductive technologies",
+ "term": "reproductive technologies",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:27:22+00:00",
+ "status": "ok",
+ "note": "variant=reproductive technologies; 审定公布名词库=1521; 海峡两岸名词对照库=313; 其他来源数据库=411; 预公布名词数据库=95; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "辅助生殖技术",
+   "en": "assisted reproductive technology,ART",
+   "source": "计划生育名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "计划生育_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2019",
+   "definition": "对配子、胚胎或基因物质进行体内外系统操作获得新生命的技术。包括人工授精、体外受精胚胎移植及其衍生技术。"
+  },
+  {
+   "cn": "辅助生殖技术",
+   "en": "assisted reproductive technology;ART",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.123",
+   "subjectFullName": "性腺疾病_男性内分泌及相关疾病_诊断与治疗",
+   "subjectName": "诊断与治疗",
+   "publishYear": "2025",
+   "definition": "运用医学技术和方法对精子、卵子、受精卵或胚胎进行人工操作，使不育不孕夫妇达到受孕目的的技术。包括人工授精和体外受精–胚胎移植技术及其各种衍生技术。"
+  },
+  {
+   "cn": "辅助生殖技术",
+   "en": "assisted reproductive technology;ART",
+   "source": "男科及性医学名词",
+   "wordNumber": "14.042",
+   "subjectFullName": "男科及性医学_男性不育与辅助生殖",
+   "subjectName": "男性不育与辅助生殖",
+   "publishYear": "2023",
+   "definition": "依据生殖规律，对配子、合子、胚胎进行人工操作，以达到受孕目的的技术。分为人工授精和体外受精-胚胎移植技术及其衍生的各种技术。"
+  },
+  {
+   "cn": "辅助生殖技术",
+   "en": "assisted reproductive technology;ART",
+   "source": "生殖医学名词",
+   "wordNumber": "6.001",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "运用医学技术和方法对精子、卵子、受精卵或胚胎进行人工操作，使不育不孕夫妇达到受孕目的的技术。包括人工授精和体外受精-胚胎移植技术及其各种衍生技术。"
+  },
+  {
+   "cn": "生殖",
+   "en": "reproduction",
+   "source": "男科及性医学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "男科及性医学_学科概论",
+   "subjectName": "学科概论",
+   "publishYear": "2023",
+   "definition": "生物产生后代、繁衍种族的过程。包括有性生殖和无性生殖。是生物界普遍存在的一种生命现象。"
+  },
+  {
+   "cn": "真实再现",
+   "en": "reproduction",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.068",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻采访编辑制作",
+   "subjectName": "广播电视新闻采访编辑制作",
+   "publishYear": "2022",
+   "definition": "一种以真实事件为依据，通过多种手法复制人物、细节、环境、场景等，重新展现事件面貌的拍摄方法。在非新闻类的电视纪实中，虽然可以谨慎使用这一方法，但须以字幕或特殊编辑手段加以说明，以免误导观众。"
+  },
+  {
+   "cn": "生殖",
+   "en": "reproduction",
+   "source": "生殖医学名词",
+   "wordNumber": "1.002",
+   "subjectFullName": "生殖医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "生物为维持物种延续而由亲代繁衍出新的与自己相似子代个体的行为。是生命的基本特征之一。在高等动物中，生殖是通过两性生殖细胞结合来实现的。"
+  },
+  {
+   "cn": "繁殖",
+   "en": "reproduction",
+   "source": "畜牧学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "畜牧学_繁殖_繁殖生理",
+   "subjectName": "繁殖生理",
+   "publishYear": "2020",
+   "definition": "生物产生新的个体的过程。"
+  },
+  {
+   "cn": "生殖",
+   "en": "reproduction",
+   "source": "生理学名词",
+   "wordNumber": "11.001",
+   "subjectFullName": "生理学_生殖生理学",
+   "subjectName": "生殖生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生殖",
+   "en": "reproduction",
+   "source": "计划生育名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "计划生育_生殖医学基础_生殖",
+   "subjectName": "生殖",
+   "publishYear": "2019",
+   "definition": "生物为维持物种延续而由亲代繁衍出新的与自己相似子代个体的行为。是生命的基本特征之一。在高等动物中，生殖是通过两性生殖细胞结合来实现的。"
+  },
+  {
+   "cn": "生殖",
+   "en": "reproduction",
+   "source": "植物学名词",
+   "wordNumber": "08.0001",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "以生殖细胞发育下一代新个体的方式。分为无性生殖和有性生殖两种类型。"
+  },
+  {
+   "cn": "再现",
+   "en": "reproduction",
+   "source": "心理学名词",
+   "wordNumber": "02.558",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "过去的经验或识记过的事物在头脑中重新出现或在行为上重新表现出来的过程。包括再认和回忆。"
+  },
+  {
+   "cn": "生殖",
+   "en": "reproduction",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "20.020",
+   "subjectFullName": "组织学与胚胎学_胚胎学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "生物产生后代、繁衍种族的过程。是生物界普遍存在的一种生命现象。"
+  },
+  {
+   "cn": "繁殖",
+   "en": "reproduction",
+   "source": "资源科学技术名词",
+   "wordNumber": "13.090",
+   "subjectFullName": "资源科学技术_动物资源学",
+   "subjectName": "动物资源学",
+   "publishYear": "2008",
+   "definition": "生物产生新的个体的过程。"
+  },
+  {
+   "cn": "繁殖",
+   "en": "reproduction",
+   "source": "水产名词",
+   "wordNumber": "01.078",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "生物为延续种族所进行的产生后代的生理过程。"
+  },
+  {
+   "cn": "辅助生殖技术伦理",
+   "en": "ethics in assisted reproductive technology",
+   "source": "生殖医学名词",
+   "wordNumber": "12.013",
+   "subjectFullName": "生殖医学_生殖伦理",
+   "subjectName": "生殖伦理",
+   "publishYear": "2022",
+   "definition": "涉及辅助生殖技术中的人工授精、体外受精的伦理问题。"
+  },
+  {
+   "cn": "生殖功能",
+   "en": "reproductive capability,reproductive function",
+   "source": "计划生育名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "计划生育_生殖医学基础_生殖",
+   "subjectName": "生殖",
+   "publishYear": "2019",
+   "definition": "生物繁衍后代的功能和效能。"
+  },
+  {
+   "cn": "生殖内分泌学",
+   "en": "reproductive endocrinology",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "总论_学科概述",
+   "subjectName": "学科概述",
+   "publishYear": "2025",
+   "definition": "研究生殖系统与内分泌系统功能联系和疾病防治的学科。"
+  },
+  {
+   "cn": "生殖毒性",
+   "en": "reproductive toxicity",
+   "source": "精细化工名词",
+   "wordNumber": "03.0204",
+   "subjectFullName": "精细化工_农药_毒性与毒理",
+   "subjectName": "毒性与毒理",
+   "publishYear": "2025",
+   "definition": "农药对亲代繁殖功能或能力的影响和（或）对子代生长发育的损害效应。"
+  },
+  {
+   "cn": "生殖隔离",
+   "en": "reproductive isolation",
+   "source": "农学名词",
+   "wordNumber": "06.030",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "个体间不能交配或交配后产生不育后代的现象。是界定物种的最基本特性。"
+  },
+  {
+   "cn": "辅助生殖技术",
+   "en": "assisted reproductive technology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生殖",
+   "en": "reproduction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生殖",
+   "en": "reproduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "reproduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "再现",
+   "en": "reproduction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生殖率,繁殖率",
+   "en": "reproduction rate\",\"reproductive rate",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "繁殖期（=生殖期）",
+   "en": "reproductive period",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生殖工程",
+   "en": "reproductive engineering",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生殖期，繁殖期",
+   "en": "reproductive period",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生殖周期",
+   "en": "reproductive cycle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生殖隔离",
+   "en": "reproductive isolation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生殖器官",
+   "en": "reproductive organ",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "繁殖周期",
+   "en": "reproductive cycle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生殖行为，繁殖行为",
+   "en": "reproductive behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "再造想象",
+   "en": "reproductive imagination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "再造思维",
+   "en": "reproductive thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生殖毒性",
+   "en": "reproductive toxicity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "生殖失败",
+   "en": "reproductive failure",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生殖对策",
+   "en": "reproductive strategy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生殖潜能",
+   "en": "reproductive potential",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据技术",
+   "en": "Data Technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算技术",
+   "en": "computing technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术奇点",
+   "en": "Technological Singularity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人技术",
+   "en": "robot technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子科技",
+   "en": "Quantum Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字技术",
+   "en": "digital technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术性失业",
+   "en": "technological unemployment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科技保险",
+   "en": "technology insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理科技",
+   "en": "Governance Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术治理",
+   "en": "technology governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理技术",
+   "en": "governance technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会技术",
+   "en": "social technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然技术",
+   "en": "natural technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识技术",
+   "en": "knowledge technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "操作技术",
+   "en": "operational technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辅助生殖技术",
+   "en": "assisted reproductive technology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "运用医学技术和方法对配子（精子和卵子）、合子（受精卵）、胚胎进行人工操作，以达到受孕目的的技术。"
+  },
+  {
+   "cn": "再生产",
+   "en": "reproduction",
+   "source": "马克思主义",
+   "wordNumber": "02.0208",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生产的反复进行。一般说来生产总是再生产，社会生产是自然方面（生产资料与人的劳动相结合生产出产品）和社会方面（生产是在一定历史的社会关系下进行的），再生产是物质资料再生产和社会生产关系的再生产的统一。"
+  },
+  {
+   "cn": "人口再生产",
+   "en": "population reproduction，human reproduction",
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "人口新一代出生、成长和老一代衰老、死亡不断重复的过程，通过时代更替实现人口的延续和更替。"
+  },
+  {
+   "cn": "辅助生殖技术信息管理",
+   "en": "information management of assisted reproductive technology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.6.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生信息管理",
+   "subjectName": "妇幼卫生信息管理",
+   "publishYear": "2025",
+   "definition": "对开展辅助生殖技术服务过程中产生的信息进行的收集、整理、存储、处理与统计分析等过程。"
+  },
+  {
+   "cn": "辅助生殖医学伦理委员会",
+   "en": "ethics committee on assisted reproductive technology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.7.13",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生项目管理",
+   "subjectName": "妇幼卫生项目管理",
+   "publishYear": "2025",
+   "definition": "提供辅助生殖医学服务机构内部的伦理审查组织，其职责包括审查和批准辅助生殖技术的使用、制定相关伦理准则和指导方针、解决与辅助生殖医学相关的伦理争议。"
+  },
+  {
+   "cn": "生殖健康",
+   "en": "reproductive health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "与生殖系统及其功能和过程所涉一切事宜，包括身体、精神和社会等方面的健康状态，而不仅仅指没有疾病或虚弱。"
+  },
+  {
+   "cn": "生殖健康",
+   "en": "reproductive health",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_生殖健康",
+   "subjectName": "生殖健康",
+   "publishYear": "2025",
+   "definition": "在生理、心理和社会的完好状态中完成生殖过程，而不仅是生殖过程没有疾病和失调。包括人们具备生殖能力，妇女能安全妊娠和分娩，婴儿能存活并健康成长，没有健康危害地实现生育调节，有安全和满意的性生活。"
+  },
+  {
+   "cn": "生殖毒性",
+   "en": "reproductive toxicity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.9.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女职业卫生保健",
+   "subjectName": "妇女职业卫生保健",
+   "publishYear": "2025",
+   "definition": "对成年男性或女性的性功能和生育能力造成不利影响及对后代的发育可能造成不利影响的毒性。"
+  },
+  {
+   "cn": "生殖健康",
+   "en": "reproductive health",
+   "source": "社会医学名词",
+   "wordNumber": "12.1.9",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "妇女卫生保健",
+   "publishYear": "2025",
+   "definition": "与生殖系统、生殖功能和生殖过程相关的，包括身体、精神和社会等方面的健康状态。内涵不仅包括性健康（即有满意、安全的性生活），还包括具有生育能力，可以自由决定是否生育、何时生育及生育多少子女等。"
+  },
+  {
+   "cn": "生殖伦理学",
+   "en": "reproductive ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.194",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究生殖行为规范和原则的科学。"
+  },
+  {
+   "cn": "微生物繁殖",
+   "en": "microbial reproduction",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "微生物分裂、复制增加个体数目的过程。"
+  },
+  {
+   "cn": "社会再生产",
+   "en": "social reproduction",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "社会结构（尤其是阶级结构）通过某种方式从一代延续到下一代。布迪厄认为其主要机制是教育。教育通过文化专断和符号暴力等方式，把主导性的价值规范灌输给下一代人，从而有助于集团或阶级之间的权力关系再生产。"
+  },
+  {
+   "cn": "精英再生产",
+   "en": "elite reproduction",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.27",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "虽然社会结构发生变化，但是原有的精英仍然保持其精英地位。社会结构变迁过程中精英人群的变化模式之一。"
+  },
+  {
+   "cn": "文化再生产",
+   "en": "cultural reproduction",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.20",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "文化中的价值观和规范在不同代际之间的转换，是文化得以持续存在、不断再现的机制，其中学校教育是实现文化再生产的重要场所。法国社会学家布迪厄(Pieer Bourdieu）在分析阶级再生产时最早提出了此概"
+  },
+  {
+   "cn": "资本主义再生产",
+   "en": "capitalist reproduction",
+   "source": "马克思主义",
+   "wordNumber": "02.0154",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义再生产是以生产资料私有制为基础，以雇佣劳动为条件，以榨取剩余价值为目的的不断反复进行的社会生产过程。它是物质资料再生产和资本主义生产关系再生产的统一。"
+  },
+  {
+   "cn": "扩大再生产",
+   "en": "expanded reproduction",
+   "source": "马克思主义",
+   "wordNumber": "02.0209",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "相对于简单再生产而言的另一种再生产的形式，生产过程在扩大规模上的重复进行。主要有两种形式或方式：外延的扩大再生产和内含的扩大再生产。"
+  },
+  {
+   "cn": "社会主义再生产",
+   "en": "socialist reproduction",
+   "source": "马克思主义",
+   "wordNumber": "02.0321",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "社会主义条件下社会生产不断重复，不断更新的过程，是物质资料的再生产、劳动力的再生产和生产关系的再生产的统一，包括生产（直接生产过程）、分配、交换、消费四个环节。"
+  },
+  {
+   "cn": "粗人口再生产率",
+   "en": "gross reproductive rate",
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "如果妇女按照某年年龄别生育率度过她们的育龄期，平均每个妇女的活产女儿数。"
+  },
+  {
+   "cn": "生殖健康咨询",
+   "en": "reproductive health counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "在生殖保健及相关服务中，服务人员通过双向交流，了解服务对象的生殖健康问题、需求，评估其知识、态度和能力，帮助其认识风险，做出知情、自主选择和决定，制定可行计划。"
+  },
+  {
+   "cn": "生殖保健",
+   "en": "reproductive health care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_生殖健康",
+   "subjectName": "生殖健康",
+   "publishYear": "2025",
+   "definition": "通过预防和解决生殖健康问题而促进生殖健康的一系列方法、技术和服务。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

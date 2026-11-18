@@ -1,0 +1,672 @@
+{
+ "key": "probability relations",
+ "term": "probability relations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:30:10+00:00",
+ "status": "ok",
+ "note": "variant=probability relations; 审定公布名词库=1018; 海峡两岸名词对照库=265; 其他来源数据库=72; 预公布名词数据库=100; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "冶金学名词",
+   "wordNumber": "04.0675",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "表示随机事件发生可能性大小的量，是在0到1之间的实数。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "表征随机事件发生可能性大小的一个度量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "物理学名词",
+   "wordNumber": "05.0522",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "化学名词",
+   "wordNumber": "03.0127",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "表示1个随机事件发生可能性大小的数。该数在0与1之间取值。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大气科学名词",
+   "wordNumber": "07.243",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "表征随机事件发生可能性大小的量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "电气工程名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "数学名词",
+   "wordNumber": "09.0029",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概率流",
+   "en": "probability current,probability flux",
+   "source": "物理学名词",
+   "wordNumber": "06.0534",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "要闻集录",
+   "en": "Relation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "世界报业学会认定的第一份现代报纸。1605年，由德国出版商约翰·卡罗勒斯(Johann Carolus)在斯特拉斯堡出版。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "具有相同属性集的元组的集合。一个关系对应一个二维表。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "数学名词",
+   "wordNumber": "01.0036",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概率评估",
+   "en": "probability estimation",
+   "source": "农学名词",
+   "wordNumber": "18.163",
+   "subjectFullName": "农产品质量安全_农产品质量安全管理",
+   "subjectName": "农产品质量安全管理",
+   "publishYear": "2025",
+   "definition": "通过概率分布来表征不同人群经口、皮和呼吸暴露化学物后产生对健康不利效应的可能性及严重程度，同时描述上述结果的变异性和不确定性的过程。"
+  },
+  {
+   "cn": "归纳概率",
+   "en": "inductive probability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.084",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "一种从已有事件概率推出未来事件概率的概率。通常其大小会随着获取的证据的增多而改变。"
+  },
+  {
+   "cn": "主观概率",
+   "en": "subjective probability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.233",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "把概率解释为主观置信度。"
+  },
+  {
+   "cn": "跃迁概率",
+   "en": "transition probability",
+   "source": "核科学技术名词",
+   "wordNumber": "1.143",
+   "subjectFullName": "核科学技术_核物理_放射性和衰变类",
+   "subjectName": "放射性和衰变类",
+   "publishYear": "2024",
+   "definition": "在单位时间内由某一能级跃迁到另一能级的粒子数与该能级原有粒子数之‍比。"
+  },
+  {
+   "cn": "气候概率",
+   "en": "climatic probability ",
+   "source": "草学名词",
+   "wordNumber": "3.051",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "条件概率",
+   "en": "conditional probability",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1786",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "一个事件在另一个事件已经发生条件下的发生概率。 "
+  },
+  {
+   "cn": "概率密度",
+   "en": "probability density",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1790",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "连续统计变量的函数，对其在某一给定的区间积分给出该统计变量落在该区间的概率。 "
+  },
+  {
+   "cn": "累计概率",
+   "en": "cumulative probability",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1809",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在不确定分析中，当期望值相对较低，需进一步了解统计对象发生在某一区间的可能性有多大，则应计算这个区间内所有可能取值的概率之和，用 P(NPV≥0)表示。 "
+  },
+  {
+   "cn": "超越概率",
+   "en": "exceedance probability",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1811",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在一定时间段内，某场地可能遭遇超过给定的地震烈度值或某一指定的地震动参量值的概率。 "
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后验概率",
+   "en": "posteriori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "priori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率分布",
+   "en": "probability distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率函数",
+   "en": "probability function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率论",
+   "en": "probability theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率模式",
+   "en": "probability model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率评分",
+   "en": "probability score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率预报",
+   "en": "probability forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洪水概率",
+   "en": "flood probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后验概率",
+   "en": "posterior probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候概率",
+   "en": "climatic probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "条件概率",
+   "en": "conditional probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反应概率",
+   "en": "reaction probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络公关",
+   "en": "online public relations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "保证总体中的所有单位有相同被选取的概率或机会的抽样方式。"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "活到某一确切年龄x岁的一批人在满x+n岁之前可能死亡的比例。即在确切年龄x岁与x+n岁之间死亡人数(ndx）与活到确切年龄x岁的尚存人数(lx）之比，一般记作nqx。"
+  },
+  {
+   "cn": "暴露概率",
+   "en": "exposure probability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.71",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "受个体行为、环境条件和病原体传播途径等因素影响，个体或群体接触到某种病原体的可能性。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "遵循随机原则，按照某种特定的概率抽取样本的方法。获得的样本信息可以通过统计学方法推论总体。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "感染概率",
+   "en": "probability of infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.72",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定条件下，受个体易感性、病原体传播途径和环境因素等多种因素影响，个体或群体感染某种病原体的可能性。"
+  },
+  {
+   "cn": "非概率抽样",
+   "en": "non-probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "不遵循随机原则抽取样本的方法。样本的选择往往受到研究者的主观判断、方便性或其他非随机因素的影响。获得的样本信息一般不能通过统计学方法推论总体。"
+  },
+  {
+   "cn": "生产关系",
+   "en": "relations of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0004",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在物质资料生产和再生产过程中形成的社会经济关系。包括：作为其基础的生产资料所有制形式，生产资料和劳动力的结合方式，直接生产过程中的关系（狭义生产关系），产品分配关系，交换关系等。"
+  },
+  {
+   "cn": "社会主义民族关系",
+   "en": "socialist ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0398",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义制度下建立起来的新型民族关系。其基本特征是：各民族地位平等、团结、互助、和谐。毛泽东在《论十大关系》《关于正确处理人民内部矛盾的问题》中多次强调克服大汉族主义、地方民族主义。"
+  },
+  {
+   "cn": "新型民族关系",
+   "en": "new ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0607",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "平等、团结、互助、和谐是中国社会主义民族关系的基本特征。民族平等、民族团结、各民族共同繁荣是中国处理民族关系的基本原则。民族平等是民族团结的政治基础，民族平等和民族团结是各民族共同繁荣的前提条件，共同"
+  },
+  {
+   "cn": "代际关系",
+   "en": "relation between generations",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "不同代际人群通过资源的分配与共享、感情的交流与沟通以及道德义务的意识与承担等发生这样或那样的交往关系。广义指社会上因地缘、业缘和其他关系产生的不同代际之间的交往关系。狭义的指家庭内因血缘和姻缘产生的交"
+  },
+  {
+   "cn": "医学道德关系",
+   "en": "medical moral relation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.225",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "人们在医学活动中所结成的人与人、人与环境、人与社会等不同要素之间的关系。主要包括医患道德关系、医际道德关系和医社道德关系等。"
+  },
+  {
+   "cn": "关系合同理论",
+   "en": "relational contract theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.60",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从交易的社会关系嵌入性出发而提出的合同理论。该理论认为交易各方在长期合作中可以不追求对契约的所有细节达成一致，而仅订立一个具有灵活性和适应性的契约。与正式契约依赖法律执行不同，关系契约的执行依赖于契约"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

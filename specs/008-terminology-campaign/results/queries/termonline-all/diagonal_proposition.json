@@ -1,0 +1,672 @@
+{
+ "key": "diagonal proposition",
+ "term": "diagonal proposition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:32:03+00:00",
+ "status": "ok",
+ "note": "variant=diagonal proposition; 审定公布名词库=154; 海峡两岸名词对照库=19; 其他来源数据库=8; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0014",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "斜剖线",
+   "en": "diagonal",
+   "source": "船舶工程名词",
+   "wordNumber": "02.155",
+   "subjectFullName": "船舶工程_船舶总体",
+   "subjectName": "船舶总体",
+   "publishYear": "1998",
+   "definition": "斜交于基面和中线面，但垂直于中站面的斜平面与船体型表面的交线。"
+  },
+  {
+   "cn": "对角线",
+   "en": "diagonal",
+   "source": "数学名词",
+   "wordNumber": "08.0113",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对角化",
+   "en": "diagonalization",
+   "source": "物理学名词",
+   "wordNumber": "01.0444",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对角线方法",
+   "en": "diagonalization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0152",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种函数构造方法，它针对一个给定的函数序列，比如 {f(n)} ，构造函数 f 使得对每一个 n ， f 和<img src='/root/syzx/static/spz/jsjkx3.02.0152"
+  },
+  {
+   "cn": "对角[线]化",
+   "en": "diagonalization",
+   "source": "数学名词",
+   "wordNumber": "010.0400",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对全部相关对象的特征描述。"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0499",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种标记了谓词及其论元角色的语料库。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0294",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "品牌所赖以形成差异化与定位的所有利益的组合。是一个品牌的完整定位，回答顾客关于“为什么我应该买你的产品”的问题。"
+  },
+  {
+   "cn": "米勒–莫迪利安尼定理",
+   "en": "MillerModigliani proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0558",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "该理论认为，在不考虑公司所得税，且资本市场完备和企业经营风险相同等假设条件下，当资本结构不同时，公司的资本结构与其市场价值无关；在考虑公司所得税后，公司的资本结构与其市场价值正相关；在考虑公司所得税及"
+  },
+  {
+   "cn": "命题演算",
+   "en": "proposition calculus",
+   "source": "语言学名词",
+   "wordNumber": "11.097",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "由命题与命题联结词构成的更复杂的命题，以及这样的命题之间的推理关系的运算。"
+  },
+  {
+   "cn": "逆命题",
+   "en": "converse proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "否命题",
+   "en": "negative proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.520",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有表征内容的心理状态，反映了认知主体和某类抽象对象（心理内容）之间的特定关系。如信念、欲望和意图等。连接态度的命题必须是具有真值的对象。"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0937",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "数理逻辑中基本的形式系统，用于描述命题及其逻辑关系。"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "心理学名词",
+   "wordNumber": "02.540",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆信息储存方式是以命题形式对信息进行表征，不受母语及感觉通道的影响。"
+  },
+  {
+   "cn": "命题函数",
+   "en": "propositional function",
+   "source": "数学名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0022",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题μ演算",
+   "en": "propositional μ-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0934",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在命题模态逻辑中引入最大、最小不动点算子得到的形式系统，可用于描述并发系统的时序性质。"
+  },
+  {
+   "cn": "斜剖线",
+   "en": "diagonal\",\"diagonal line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对角化[方法]",
+   "en": "diagonalization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜距法",
+   "en": "diagonal offsetting\",\"diagonal setting",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "斜角带",
+   "en": "diagonal band",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "对角线层析",
+   "en": "diagonal chromatography",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "对角线电泳",
+   "en": "diagonal electrophoresis",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "对角目镜",
+   "en": "diagonal eyepiece",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "对角线测试",
+   "en": "diagonal test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分块对角矩阵",
+   "en": "block diagonal matrix",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对角线形号角天线",
+   "en": "diagonal horn antenna",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜置式内燃机",
+   "en": "inclined engine\",\"diagonal engine",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "斜角带核",
+   "en": "nucleus of diagonal band",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "符值比例法",
+   "en": "proportion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直线型碳",
+   "en": "digonal carbon",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "直线型杂化",
+   "en": "digonal hybridization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对角",
+   "en": "diagonal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜传",
+   "en": "diagonal pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜传",
+   "en": "diagonal pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对角防守",
+   "en": "diagonal parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜传",
+   "en": "diagonal pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜对肢",
+   "en": "diagonal pair",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在对角线",
+   "en": "on the diagonal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "source": "马克思主义",
+   "wordNumber": "04.0189",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民就发展两岸关系、推进祖国和平统一进程的若干重大问题提出的八项主张和看法，即：坚持一个中国的原则；对于台湾同外国发展民间性经济文化关系，我们不持异议；再次建议双方就“正式结束两岸敌对状态、逐步实现"
+  },
+  {
+   "cn": "共付比",
+   "en": "co-pay proportion",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "保险机构和被保险人按一定比例共同支付医疗费用，可以是一个固定的比率，也可以是变动的比率。"
+  },
+  {
+   "cn": "高比例母乳喂养",
+   "en": "high-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的80%及以上。"
+  },
+  {
+   "cn": "中等比例母乳喂养",
+   "en": "medium-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的20%～79%"
+  },
+  {
+   "cn": "低比例母乳喂养",
+   "en": "low-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的20%以下。"
+  },
+  {
+   "cn": "疾病构成比",
+   "en": "proportion of incidence",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "某事物内部各组成部分在整体中所占的比重。"
+  },
+  {
+   "cn": "食源性传播占比",
+   "en": "proportion of foodborne transmission",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "食源性传播引起的疾病负担占总的疾病负担的比例。"
+  },
+  {
+   "cn": "后运方法构成比",
+   "en": "proportion of evacuation methods",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "各级救治机构每百名伤员采用不同后运方法的百分构成比。后运方法常分步行、担架、救护车、回程空车、卡车、船、卫生列车、飞机及其他。"
+  },
+  {
+   "cn": "卫生技术人员占比",
+   "en": "proportion of health technicians",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "卫生技术人员在卫生人力资源中的比重，等于卫生技术人员数/卫生人员总数*100%"
+  },
+  {
+   "cn": "身体比例变化",
+   "en": "change of body proportion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "身体发育过程中头占身长（身高）的比例、上肢占身长（身高）的比例、坐高占身长（身高）的比例和腰臀比、腰高比、肩宽／骨盆宽的变化。"
+  },
+  {
+   "cn": "麻醉方法构成比",
+   "en": "proportion of anesthesia methods",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.8",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "每百名手术伤员采用不同麻醉方法的百分比。"
+  },
+  {
+   "cn": "工作量及其比例情况分析",
+   "en": "workload and proportion analysis",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2.2.1.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "通过分析病床、住院、门诊和医疗技术科室等方面工作量及其比例情况，反映医院人力、物力和技术效果是否得到正常发挥。工作量越大，表示完成的任务越多。治疗的疑难病种越多，表示发挥技术的效能越高。"
+  },
+  {
+   "cn": "医院卫生技术人员占比",
+   "en": "proportion of hospital health technicians ",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "医院卫生技术人员在卫生人力资源中的比重，等于各类医院中卫生技术人员数/卫生人员总数*100%"
+  },
+  {
+   "cn": "基层卫生机构卫生技术人员占比",
+   "en": "proportion of primary health workers",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.4",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "基层卫生机构卫生技术人员在卫生人力资源中的比重，等于基层卫生机构卫生技术人员数/卫生人员总数*100%"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "伤类构成比",
+   "en": "proportion of types of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员致伤原因划分的各类伤员数占伤员总数的百分比。致伤原因常分为炸伤、枪伤、压挫伤、烧伤、冻伤、震荡伤、毒气伤、刀刃伤、混合伤,可用以评价武器效能。"
+  },
+  {
+   "cn": "非战斗伤构成比",
+   "en": "proportion of non-battle injuries",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.6",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "非战斗伤伤员中不同的伤类、伤情所占百分比。"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "火线救护种类构成比",
+   "en": "proportion of fire rescue types",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "连、营火线救护每百名伤员中，自救、互救、卫救及未包扎分别所占百分比，用来分析火线抢救力量是否足够以及战前包扎训练是否有效等，统计时皆以第一次救护者为准。"
+  },
+  {
+   "cn": "老年系数",
+   "en": "old population coefficient,proportion of old population",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.4",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "某一时间点人口中老年人口所占的比重，通常用百分比表示，也称老年人口系数、老年人口比例、老年人口比重。老年系数是反映人口老龄化程度最直接、最基本的指标，通常有两种：60岁及以上老年系数或65岁及以上老年"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

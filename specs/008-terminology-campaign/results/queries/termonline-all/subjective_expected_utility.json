@@ -1,0 +1,742 @@
+{
+ "key": "subjective expected utility",
+ "term": "subjective expected utility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:28:07+00:00",
+ "status": "ok",
+ "note": "variant=subjective expected utility; 审定公布名词库=1219; 海峡两岸名词对照库=217; 其他来源数据库=44; 预公布名词数据库=101; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "主观期望效用理论",
+   "en": "subjective expected utility theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0158",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "以主观期望效用值做出期望效用判断的决策模型。"
+  },
+  {
+   "cn": "期望效用",
+   "en": "expected utility",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0004",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "个体在不确定条件下可能获得的各种结果的效用的依概率的加权平均数。"
+  },
+  {
+   "cn": "期望效用理论",
+   "en": "expected utility theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0269",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "20世纪50年代，冯·诺伊曼(John von Neumann)和摩根斯坦(Oskar Morgenstern)在公理化假设，即效用关系的完备性、传递性与替换性、决策者偏好的一致性等的基础上，运用逻辑"
+  },
+  {
+   "cn": "预期",
+   "en": "expectation",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.223",
+   "subjectFullName": "城乡规划学_城乡规划总述_成果表达",
+   "subjectName": "成果表达",
+   "publishYear": "2021",
+   "definition": "对事物未来发展变化趋势的预先设想。"
+  },
+  {
+   "cn": "期望",
+   "en": "expectancy",
+   "source": "心理学名词",
+   "wordNumber": "02.127",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "主观上希望某一特定事件发生的心理倾向。"
+  },
+  {
+   "cn": "期望",
+   "en": "expectation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.411",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "(1)对以概率<img src='/root/syzx/static/spz/fangshefanghu1.04.411.1.png'/>取值<img src='/root/syzx/static/s"
+  },
+  {
+   "cn": "期望",
+   "en": "expectation",
+   "source": "语言学名词",
+   "wordNumber": "11.155",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "随机变量的一种数字特征。描述了随机变量的平均值，是随机变量按其取值概率的加权平均。"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.191",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "一个核心哲学概念，与意识、能动/施为(agency)、人格、现实和真理相关，存在多种定义。三个常见的定义认为，主体性意味着以下的质量或条件：①狭义上意味着一个拥有有意识的经验，如视觉、感觉、信念和欲"
+  },
+  {
+   "cn": "受试对象",
+   "en": "subject    ",
+   "source": "核医学名词",
+   "wordNumber": "06.0233",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "接受试验的对象。包括健康人、患者，临床前研究时包括其他动物。"
+  },
+  {
+   "cn": "对象",
+   "en": "subject",
+   "source": "核医学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "进行任何操作、行为或思考时作为目标的人或事物。"
+  },
+  {
+   "cn": "主题",
+   "en": "subject",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0349",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "在较高层次上将组织信息系统中的数据综合、归类并进行分析利用的抽象。在逻辑意义上，对应于组织中某一宏观分析领域所涉及的分析对象。"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "心理学名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "作为主体的人的自主性、能动性和创造性。在认识方面表现为选择性、建构性与预见性。"
+  },
+  {
+   "cn": "科目",
+   "en": "subject",
+   "source": "教育学名词",
+   "wordNumber": "02.028",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "与相对独立的学科知识领域相对应的课程。如语文、数学、艺术等。"
+  },
+  {
+   "cn": "主语",
+   "en": "subject",
+   "source": "语言学名词",
+   "wordNumber": "04.180",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“谓语”相对。句法成分之一。通常由体词性成分充当，也可以由谓词性成分充当。通常位于谓语的前边，是谓语陈述的对象。例如，“我看见他了”“做学问需要扎实的基础”。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "经济学名词",
+   "wordNumber": "03.052",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "物品或服务满足人们需要的能力，或消费者消费一定数量的商品所得到的满足程度。效用表明的是商品与个人愉悦或痛苦程度之间的关系，它在很大程度上是个人福利的同义词。"
+  },
+  {
+   "cn": "公用工程",
+   "en": "utility",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.084",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "维持化工装置正常运行的辅助设施的总称。主要包括给水排水、供气（汽）、供电、供暖、制冷等。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0197",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在有风险的情况下，为使决策者所作的决策符合其价值，达到预期的最优效果，对各种决策后果(包括决策者对后果的偏爱)进行量化赋以某种数值的一种度量。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "药学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "消费者在消费商品时所感受到的满足程度。"
+  },
+  {
+   "cn": "利用率",
+   "en": "utilance",
+   "source": "电气工程名词",
+   "wordNumber": "22.277",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "期望杂合度",
+   "en": "expected heterozygosity",
+   "source": "畜牧学名词",
+   "wordNumber": "04.314",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "在群体处于哈迪-温伯格平衡的假设下根据基因频率计算的杂合度。"
+  },
+  {
+   "cn": "被试",
+   "en": "subject",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望,估计寿命",
+   "en": "life expectance\",\"life expectancy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "公用设施",
+   "en": "utility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实用程序",
+   "en": "utility program\",\"utility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公共设施",
+   "en": "utilities",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "利用",
+   "en": "utilization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expected value",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "预期收益",
+   "en": "expected yield",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expected value",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "期望价值",
+   "en": "expectancy value",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会期望",
+   "en": "social expectation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色期待",
+   "en": "role expectation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "期望理论",
+   "en": "expectancy theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expectation value",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望， 估计寿命",
+   "en": "life expectance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "人口预期寿命",
+   "en": "life expectance",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "期望值",
+   "en": "expectation value",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望值",
+   "en": "life expectancy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "期望[值]",
+   "en": "expectation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据主体",
+   "en": "data subject",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预期价值",
+   "en": "expected value (EV)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最大期望算法",
+   "en": "expectation maximization algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律主体",
+   "en": "subject of law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边际效用价值论",
+   "en": "marginal utility theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人数据利用",
+   "en": "personal data utilization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水资源利用",
+   "en": "water resources utilization",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标准主体定义",
+   "en": "definition of standard subjects",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "限制利用",
+   "en": "limitations in the utilization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "别材别趣",
+   "en": "Distinct Subject and Artistic Taste",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非法利用信息网络罪",
+   "en": "crime of illegally utilizing information network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "制天命而用之",
+   "en": "Grasp and Utilize the Endowments of Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预期效用",
+   "en": "expected utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.3.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "按风险发生概率为权重进行加权计算所得出的效用值"
+  },
+  {
+   "cn": "预期效用理论",
+   "en": "expected utility theory",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "决策者在面对风险或不确定的前景时，基于期望效用最大化原则，通过比较期望效用值来做出期望效用最大化的决策行为。"
+  },
+  {
+   "cn": "主体",
+   "en": "subject",
+   "source": "马克思主义",
+   "wordNumber": "01.0157",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与客体相对应的一个功能性范畴，指实践、认识、价值、审美等对象性关系的主导者、支配者。马克思说“主体是人，客体是自然”，但并非任何人都是主体，主体是有意识、能思维、从事社会实践活动和认识活动的个人或社会"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "马克思主义",
+   "wordNumber": "01.0158",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义在批判地改造旧哲学基础上，认为主体性是人的一种功能属性，是人在一定实践、认识、价值、审美等活动中所表现出的主导地位、决定作用、支配态势，其核心是人的主动性、能动性、自主性和创造性。"
+  },
+  {
+   "cn": "主观性",
+   "en": "subjectivity",
+   "source": "马克思主义",
+   "wordNumber": "01.0163",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）认识的片面性、独断性，从主观臆测或“先入之见”观察和分析问题的思想方法，是主观主义思想方法。（2）概念、范畴等逻辑思维形式的一种特性，具有抽象性、分隔性、主体性、意识能动性特征。"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0598",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "被意识建构的自我认知。主体性在人类学中超越了法国哲学家笛卡尔的身心二元对立学说引发了互为主体的讨论。人类学传统上以研究异文化的他者为主，研究者与被研究者这种主体双方的关系在它的学术“基因”中就已存在。"
+  },
+  {
+   "cn": "效用",
+   "en": "utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "物品或服务满足人们需要的能力，或消费者消费一定数量的商品所得到的满足程度。"
+  },
+  {
+   "cn": "期望频次",
+   "en": "expected ffrequency",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.110",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个事件发生的平均次数。"
+  },
+  {
+   "cn": "角色期待",
+   "en": "role expectation",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "社会或群体对处于一定角色位置的个体所应表现出来的行为的一种期待。这种角色的行为是被社会规范化了的行为，是社会对个体的制约，亦是社会整合的必要前提。"
+  },
+  {
+   "cn": "平均预期寿命",
+   "en": "life expectancy",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.8",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "0岁年龄组人口的平均生存年数。它是生命表中的重要内容，是国际上用来评价一个国家人口的生存质量和健康水平的重要参考指标之一。"
+  },
+  {
+   "cn": "期望寿命",
+   "en": "life expectancy",
+   "source": "社会医学名词",
+   "wordNumber": "9.23",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "期望寿命",
+   "publishYear": "2025",
+   "definition": "在一定的年龄别死亡率水平下，同时出生的一代人活到某一岁数时，尚能生存的平均年数。反映居民健康水平和社会经济发展水平及医疗卫生服务水平。"
+  },
+  {
+   "cn": "期望寿命",
+   "en": "life expectancy",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.11",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "根据一个国家或地区的某一人群的年龄组死亡率，通过寿命表计算某一年龄的人能够存活的平均年数。"
+  },
+  {
+   "cn": "角色期望",
+   "en": "role expectation",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.044",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "群体或社会对病患角色行为所持有的期待和要求。"
+  },
+  {
+   "cn": "主觉验光",
+   "en": "subjective refraction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "采用单纯插片法或综合验光仪法，通过判断被检者对不同屈光状态微小变化的反应情况确定屈光参数的一种主观测量方法。"
+  },
+  {
+   "cn": "个体主体",
+   "en": "individual subject",
+   "source": "马克思主义",
+   "wordNumber": "01.0159",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "个体主体是相对于群体主体、人类主体、社会主体而言的，指个人在社会、政治、经济等生活中获得主体地位和独立属性。个体主体是历史地生成的，群体活动、需求、性能必须通过个体主体才能得到实现和确证。"
+  },
+  {
+   "cn": "旅游主体",
+   "en": "tourism subject",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0195",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "即旅游者，旅游者把旅游动机转变为旅游行为是与旅游相关的一切社会现象和关系发生的基础，因而旅游者在旅游活动中处于中心地位。"
+  },
+  {
+   "cn": "公共工程",
+   "en": "public utility",
+   "source": "马克思主义",
+   "wordNumber": "03.0058",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为促进就业和经济社会发展而主要由国家兴办的建设项目。如在亚洲，气候和土地条件需要中央集权的政府兴办水利灌溉等公共工程，以履行行政之外的经济职能。而在法国路易·拿破仑·波拿巴（Louis-Napoléo"
+  },
+  {
+   "cn": "总效用",
+   "en": "total utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "在一定时间内，消费者消费某种商品或服务总的满足程度之和"
+  },
+  {
+   "cn": "边际效用",
+   "en": "marginal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者从增加一单位某种商品的消费所获得满足程度的增加。"
+  },
+  {
+   "cn": "基数效用论",
+   "en": "cardinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用基数词来表示消费者效用数量的理论。该理论认为，效用是消费者在消费商品时所得到的满足，可以用数值来衡量和相加。消费者均衡的条件是花在每一种商品上的最后一单位货币所带来的边际效用都相等，每一种商品所"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,732 @@
+{
+ "key": "joint probability",
+ "term": "joint probability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:25:55+00:00",
+ "status": "ok",
+ "note": "variant=joint probability; 审定公布名词库=3166; 海峡两岸名词对照库=1020; 其他来源数据库=146; 预公布名词数据库=78; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "联合概率",
+   "en": "joint probability",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.451",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "遗传病联合概率",
+   "en": "joint probability of genetic disorder",
+   "source": "生殖医学名词",
+   "wordNumber": "10.267",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "前概率和条件概率的乘积。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "冶金学名词",
+   "wordNumber": "04.0675",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "表示随机事件发生可能性大小的量，是在0到1之间的实数。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "表征随机事件发生可能性大小的一个度量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "物理学名词",
+   "wordNumber": "05.0522",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "化学名词",
+   "wordNumber": "03.0127",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "表示1个随机事件发生可能性大小的数。该数在0与1之间取值。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大气科学名词",
+   "wordNumber": "07.243",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "表征随机事件发生可能性大小的量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "电气工程名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "数学名词",
+   "wordNumber": "09.0029",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概率流",
+   "en": "probability current,probability flux",
+   "source": "物理学名词",
+   "wordNumber": "06.0534",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "概率评估",
+   "en": "probability estimation",
+   "source": "农学名词",
+   "wordNumber": "18.163",
+   "subjectFullName": "农产品质量安全_农产品质量安全管理",
+   "subjectName": "农产品质量安全管理",
+   "publishYear": "2025",
+   "definition": "通过概率分布来表征不同人群经口、皮和呼吸暴露化学物后产生对健康不利效应的可能性及严重程度，同时描述上述结果的变异性和不确定性的过程。"
+  },
+  {
+   "cn": "归纳概率",
+   "en": "inductive probability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.084",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "一种从已有事件概率推出未来事件概率的概率。通常其大小会随着获取的证据的增多而改变。"
+  },
+  {
+   "cn": "主观概率",
+   "en": "subjective probability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.233",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "把概率解释为主观置信度。"
+  },
+  {
+   "cn": "跃迁概率",
+   "en": "transition probability",
+   "source": "核科学技术名词",
+   "wordNumber": "1.143",
+   "subjectFullName": "核科学技术_核物理_放射性和衰变类",
+   "subjectName": "放射性和衰变类",
+   "publishYear": "2024",
+   "definition": "在单位时间内由某一能级跃迁到另一能级的粒子数与该能级原有粒子数之‍比。"
+  },
+  {
+   "cn": "气候概率",
+   "en": "climatic probability ",
+   "source": "草学名词",
+   "wordNumber": "3.051",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "条件概率",
+   "en": "conditional probability",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1786",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "一个事件在另一个事件已经发生条件下的发生概率。 "
+  },
+  {
+   "cn": "概率密度",
+   "en": "probability density",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1790",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "连续统计变量的函数，对其在某一给定的区间积分给出该统计变量落在该区间的概率。 "
+  },
+  {
+   "cn": "累计概率",
+   "en": "cumulative probability",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1809",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在不确定分析中，当期望值相对较低，需进一步了解统计对象发生在某一区间的可能性有多大，则应计算这个区间内所有可能取值的概率之和，用 P(NPV≥0)表示。 "
+  },
+  {
+   "cn": "超越概率",
+   "en": "exceedance probability",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1811",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在一定时间段内，某场地可能遭遇超过给定的地震烈度值或某一指定的地震动参量值的概率。 "
+  },
+  {
+   "cn": "概率增益",
+   "en": "probability gain",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2237",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "在一定条件下事件 (如地震 )发生的概率由于另一种或另几种现象 (如地震前兆 )的出现的增加量。 "
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后验概率",
+   "en": "posteriori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "priori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率分布",
+   "en": "probability distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率函数",
+   "en": "probability function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率论",
+   "en": "probability theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率模式",
+   "en": "probability model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率评分",
+   "en": "probability score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率预报",
+   "en": "probability forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洪水概率",
+   "en": "flood probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后验概率",
+   "en": "posterior probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候概率",
+   "en": "climatic probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "条件概率",
+   "en": "conditional probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反应概率",
+   "en": "reaction probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率分布",
+   "en": "probability distribution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "球节",
+   "en": "fetlock joint",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共商共治",
+   "en": "joint governance through consultation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合成作战指挥系统",
+   "en": "joint operations command system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "英国联合信息系统委员会",
+   "en": "Joint Information Systems Committee (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多元共治",
+   "en": "joint governance with multiple participants",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共建共享",
+   "en": "joint contribution and shared benefits",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《欧盟标准化联合倡议》",
+   "en": "Joint Initiative on Standardization (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化联席会议机制",
+   "en": "joint conference mechanism for standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险联防联控机制",
+   "en": "joint prevention and control mechanism for financial risks",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国-世卫组织联合考察专家组",
+   "en": "China-WHO Joint Mission on Coronavirus Disease 2019 (COVID-19) ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国务院联防联控机制",
+   "en": "Joint Prevention and Control Mechanism of the State Council ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "保证总体中的所有单位有相同被选取的概率或机会的抽样方式。"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "活到某一确切年龄x岁的一批人在满x+n岁之前可能死亡的比例。即在确切年龄x岁与x+n岁之间死亡人数(ndx）与活到确切年龄x岁的尚存人数(lx）之比，一般记作nqx。"
+  },
+  {
+   "cn": "暴露概率",
+   "en": "exposure probability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.71",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "受个体行为、环境条件和病原体传播途径等因素影响，个体或群体接触到某种病原体的可能性。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "遵循随机原则，按照某种特定的概率抽取样本的方法。获得的样本信息可以通过统计学方法推论总体。"
+  },
+  {
+   "cn": "感染概率",
+   "en": "probability of infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.72",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定条件下，受个体易感性、病原体传播途径和环境因素等多种因素影响，个体或群体感染某种病原体的可能性。"
+  },
+  {
+   "cn": "非概率抽样",
+   "en": "non-probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "不遵循随机原则抽取样本的方法。样本的选择往往受到研究者的主观判断、方便性或其他非随机因素的影响。获得的样本信息一般不能通过统计学方法推论总体。"
+  },
+  {
+   "cn": "联合分布",
+   "en": "joint distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个或两个以上随机变量的概率分布函数。"
+  },
+  {
+   "cn": "联合家庭",
+   "en": "joint family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.11",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭中任何一代含有两对以上夫妻的家庭。例如父母和两对或两对以上已婚子女组成的家庭。"
+  },
+  {
+   "cn": "联合劳动",
+   "en": "joint labor",
+   "source": "马克思主义",
+   "wordNumber": "03.0108",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思依据人类社会发展的客观规律提出的关于未来共产主义社会劳动的基本形式。其特点是：全社会劳动者在生产资料共同占有的基础上，自由地结合起来，自主地进行创造性的劳动。"
+  },
+  {
+   "cn": "寰枢关节",
+   "en": "atlantoaxial joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.5",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由 2 个由寰枕侧块的下关节面和枢椎的上关节面，以及l 个由枢椎齿突的前关节面和寰椎前弓后面的齿凹共同构成的关节。关节囊薄而松弛。是只有1个运动轴的车轴关节，寰椎与颅一同绕垂直轴做左右回旋运动。"
+  },
+  {
+   "cn": "胸肋关节",
+   "en": "sternocostal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.6",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "肋骨借肋软骨与胸骨连结的关节。由第1- 7 肋的内侧端与胸骨的肋切迹构成。关节囊薄而松弛，关节腔为一窄隙。有胸肋轴状韧带、 肋剑突韧带加固。属于微动关节。"
+  },
+  {
+   "cn": "胸锁关节",
+   "en": "sternoclavicular joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.7",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由锁骨的胸骨端关节面和胸骨柄的锁骨切迹组成的关节。上肢与躯干之间连结的唯一关节。关节腔内有关节盘。关节囊坚韧，周围有韧带加固。有3个运动轴，绕矢状轴可 做上下运动；绕垂直轴可做前后运动；绕冠状轴可做回"
+  },
+  {
+   "cn": "肩关节",
+   "en": "shoulder joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.8",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由肩胛骨的关节盂和肱骨头组成的关节。相连两骨关节面大小相差较大。关节窝周缘有关节唇加深关节盂。关节囊薄弱且松弛，附着在关节盂周缘和肱骨解剖颈之间，关节囊 壁内有由滑膜包裹的肱二头肌长头腱通过， 此腱有"
+  },
+  {
+   "cn": "肘关节",
+   "en": "elbow joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.9",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由肱骨远侧端和桡尺骨近端关节面组成的关节。包括3个小关节：肱尺关节、肱桡关 节及桡尺近侧关节，它们共同包裹在一个关节囊内。"
+  },
+  {
+   "cn": "腕关节",
+   "en": "wrist joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.10",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由手的舟骨、月骨和三角骨的近侧关节面作为关节头，桡骨的腕关节面和尺骨头下方的关节盘作为关节窝而构成的关节。"
+  },
+  {
+   "cn": "掌指关节",
+   "en": "metacarpophalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.11",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由掌骨小头与第1节指骨底构成的关节。共 有5个，在形态上近似球窝关节，但机能上因受两侧韧带的限制，第 2- 5 掌指关节能 做屈、伸、内收、外展及环转运动；第 1 掌指关节仅能做屈伸运动，当关节微屈时"
+  },
+  {
+   "cn": "指间关节",
+   "en": "interphalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.12",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由各指相邻两节指骨的底和滑车构成的关节。"
+  },
+  {
+   "cn": "骶髂关节",
+   "en": "sacroiliac joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.15",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由髂骨的耳状面与骶骨的耳状面构成的关节。关节面扁平，彼此对合非常紧密，属平面关节。关节囊紧张，紧贴于关节面周缘。周围有许多强韧的韧带加强，关节腔狭小， 呈裂隙状，活动性很小，有利于支持体重和传递重力。"
+  },
+  {
+   "cn": "髋关节",
+   "en": "hip joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.16",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由髋骨的髋臼和股骨头的关节面构成的关节。是典型的球窝关节。"
+  },
+  {
+   "cn": "膝关节",
+   "en": "knee joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.17",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由股骨的内、外侧髁与胫骨的内、外侧髁的关节面组成的股胫关节，以及股骨的髌面与髌骨的关节面组成的髌股关节两部分构成的关节。人体内结构最复杂的关节。关节囊广阔松弛，各部厚薄不一，附着于各关节面 的周缘，其"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "desired conclusion",
+ "term": "desired conclusion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:23:37+00:00",
+ "status": "ok",
+ "note": "variant=desired conclusion; 审定公布名词库=633; 海峡两岸名词对照库=132; 其他来源数据库=28; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "结论",
+   "en": "conclusion",
+   "source": "数学名词",
+   "wordNumber": "01.0010",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "希望的服务",
+   "en": "desired service",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0415",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "一个顾客真正希望能够从一次服务接触中获得的服务质量水平。"
+  },
+  {
+   "cn": "预期值",
+   "en": "desired value",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0601",
+   "subjectFullName": "机械工程_动力机械_内燃机_监控系统",
+   "subjectName": "监控系统",
+   "publishYear": "2013",
+   "definition": "系统设计时要求受控条件应保持的值。"
+  },
+  {
+   "cn": "期望值",
+   "en": "desired value",
+   "source": "电气工程名词",
+   "wordNumber": "28.034",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "期望车速",
+   "en": "desired speed",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.080",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "期望输出",
+   "en": "desired output",
+   "source": "石油名词",
+   "wordNumber": "03.0712",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "尿意",
+   "en": "micturition desire",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.045",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_症状_生殖系统症状",
+   "subjectName": "生殖系统症状",
+   "publishYear": "2022",
+   "definition": "膀胱壁的感受器受到刺激后冲动上传到脑干和大脑皮质高级中枢产生的排尿感觉。生理性见于膀胱尿量充盈到一定程度时（400～500ml）。肿瘤压迫膀胱也可产生尿意。"
+  },
+  {
+   "cn": "便意",
+   "en": "defecation desire",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.046",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_症状_生殖系统症状",
+   "subjectName": "生殖系统症状",
+   "publishYear": "2022",
+   "definition": "直肠壁内的感受器受到刺激后冲动上传到达大脑皮质高级中枢所产生的排便感觉。肿瘤压迫直肠也可引起便意。"
+  },
+  {
+   "cn": "尿意",
+   "en": "micturition desire",
+   "source": "生理学名词",
+   "wordNumber": "08.123",
+   "subjectFullName": "生理学_肾脏生理学",
+   "subjectName": "肾脏生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire",
+   "source": "计划生育名词",
+   "wordNumber": "08.008",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "进行性活动的欲望。是人类进入青春期之后常见的生理、心理现象。"
+  },
+  {
+   "cn": "智能体的愿望",
+   "en": "agent desire",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0164",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的思维属性之一。表示智能体希望达到或者希望保持的状态。"
+  },
+  {
+   "cn": "渴求产品",
+   "en": "desirable product",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "既能为消费者提供高的即时满意感又能为消费者提供高的长期利益的产品。"
+  },
+  {
+   "cn": "社会称许性",
+   "en": "social desirability",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0047",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织行为研究",
+   "subjectName": "组织行为研究",
+   "publishYear": "2016",
+   "definition": "以反映一般社会价值倾向的方式而不是自己实际想法行事或作答的倾向。"
+  },
+  {
+   "cn": "社会称许性",
+   "en": "social desirability",
+   "source": "心理学名词",
+   "wordNumber": "12.109",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "应答者按照通行社会价值判断做出表现而非自己实际情况反应的倾向。"
+  },
+  {
+   "cn": "实验结论",
+   "en": "experimental conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.082",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "在整理、分析实验结果的基础上推导、总结出的某种假设或者推论。"
+  },
+  {
+   "cn": "设计总结",
+   "en": "design conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.131",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "工程设计结束后，设计人员对自身设计工作所做的总结。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "林学名词",
+   "wordNumber": "06.388",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "考虑了审核目的和所有审核发现后得出的审核结果。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0808",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "审核组考虑了审核目标和所有审核发现后得出的最终审核结果。"
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire,libido",
+   "source": "泌尿外科学名词",
+   "wordNumber": "10.037",
+   "subjectFullName": "泌尿外科学_男科",
+   "subjectName": "男科",
+   "publishYear": "2014",
+   "definition": "个体渴望与另一个体发生性关系或肉体接触的愿望。"
+  },
+  {
+   "cn": "信念-欲望论题",
+   "en": "belief-desire thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.564",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "一个关于意向的假说。主张对于任一意向行为，都有相应的信念-欲望对，因果地导致该意向行为并使其合理化。"
+  },
+  {
+   "cn": "期望",
+   "en": "desire",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "目标值",
+   "en": "desired value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "目标产物",
+   "en": "desired product",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会称许性",
+   "en": "social desirability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "性欲望障碍",
+   "en": "sexual desire disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "安格尔布雷什特",
+   "en": "Inghelbrecht\",\"Desire Emile(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信念-期望-意图模型",
+   "en": "belief-desire-intention model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信念-欲望心智理论",
+   "en": "belief desire theory of mind",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "闭合角",
+   "en": "concluded angle",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "发生权",
+   "en": "concession",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "锢囚",
+   "en": "occlusion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "包藏",
+   "en": "occlusion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内含物",
+   "en": "inclusion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "包藏",
+   "en": "occlusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "包裹体",
+   "en": "inclusion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "包含",
+   "en": "inclusion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "混乱性",
+   "en": "confusion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "夹杂物",
+   "en": "inclusion",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "欲",
+   "en": "Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "寡欲",
+   "en": "Restraining Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小收煞",
+   "en": "Midpoint Conclusion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无欲",
+   "en": "Having No Excessive Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "七情六欲",
+   "en": "Seven Emotions and Six Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "淡泊",
+   "en": "Quiet Living with No Worldly Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无欲则刚",
+   "en": "People with No Covetous Desires Stand Upright.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容性",
+   "en": "Digital Inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融包容性",
+   "en": "financial inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子包容",
+   "en": "e-inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容战略",
+   "en": "Digital Inclusion Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠水平",
+   "en": "digital inclusion level",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠金融",
+   "en": "digital financial inclusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件定义体系结构",
+   "en": "software-defined architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容计划（英国）",
+   "en": "Digital Inclusion Programme (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字普惠金融体系",
+   "en": "Digital Financial Inclusion System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件定义存储",
+   "en": "software-defined storage (SDS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "推动人对异性（有时是同性）发生兴趣、进行求偶和性行为活动的一种内在力量。当人的身体发育到某种程度时，由于性机能的成熟与作用，在性激素的刺激下产生对性的需求及性行为活动。"
+  },
+  {
+   "cn": "人欲",
+   "en": "human desire",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人本能的欲望。"
+  },
+  {
+   "cn": "离岗时检查结论",
+   "en": "examination conclusion when leaving the post",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.23",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据离岗时职业健康检查结果，对受检者提出的意见：包括可以离岗或转相关医疗机构进一步检查。"
+  },
+  {
+   "cn": "惊厥",
+   "en": "convulsion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "表现为突然发作的全身性或局限性肌群强直性和阵挛性抽动，多伴有意识障碍。"
+  },
+  {
+   "cn": "租让制",
+   "en": "concession system",
+   "source": "马克思主义",
+   "wordNumber": "02.0323",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联新经济政策时期国家资本主义的一种形式。1920年11月苏维埃俄国公布《关于租让组织一般条件的命令》，规定由苏维埃俄国同外国资本家签订合同，把暂时无力经营或开发的企业、矿山、森林区等租给这些资本家经"
+  },
+  {
+   "cn": "社会包容",
+   "en": "social inclusion",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "社会的制度体系对具有不同社会特征的社会成员及其所表现的各种社会行为不加排斥的宽容对待、平等相处，并扶持弱者、共同发展的状态。"
+  },
+  {
+   "cn": "输精管栓堵术",
+   "en": "vas occlusion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.1.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "经阴囊皮肤穿刺的方法将液态高分子化合物聚醚型聚氨酯弹性体或者硅橡胶，加压注入输精管腔内，在管内迅速固化为栓子，堵塞输精管腔以阻止精子排出，达到永久性避孕目的的一种手术方法。"
+  },
+  {
+   "cn": "导出限值",
+   "en": "derived limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.9",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "为放射防护工作实际需要，根据实用与特定情况的一定模型，由初级限值确定的限制值。例如，空气污染、表面污染、环境介质污染等的限值。"
+  },
+  {
+   "cn": "输卵管黏堵绝育术",
+   "en": "chemical tube occlusion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.2.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "通过导管将化学粘堵剂注入输卵管，引发输卵管内膜化学性损伤、粘连，继发输卵管阻塞，以达到永久性避孕目的的一种手术方法。"
+  },
+  {
+   "cn": "导出干预水平",
+   "en": "derived intervention level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.7.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_干预准则与水平",
+   "subjectName": "干预准则与水平",
+   "publishYear": "2025",
+   "definition": "与干预水平相对应的环境中放射性活度水平或剂量率，可直接与实际监测结果相比较的量。"
+  },
+  {
+   "cn": "包涵体肌炎",
+   "en": "inclusion body myositis，IBM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "以肌细胞中存在包涵体为主要病理特征的慢性肌病，分散发性包涵体肌炎和遗传性包涵体肌炎两种类型。"
+  },
+  {
+   "cn": "限定日剂量",
+   "en": "defined daily dose,DDD",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2.3.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "当一种药物用于其主要适应症时，假定的成人每天平均使用剂量。"
+  },
+  {
+   "cn": "用药频度",
+   "en": "defined daily doses,DDDs",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2.3.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "以限定日剂量为单位计量某种药物的使用量，即药品实际总使用量与限定日剂量的比值，反映对该药的选择倾向性。"
+  },
+  {
+   "cn": "惊厥型氧中毒",
+   "en": "convulsion type of oxygen toxicity",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.5.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "机体较短时间吸入200～300kPa 的氧气，发生的以惊厥为主要临床特征的氧中毒。"
+  },
+  {
+   "cn": "导出空气浓度",
+   "en": "derived air concentration，DAC",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.2",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "年摄入量限值除以参考人在一年工作或生活时间中吸入的空气体积所得的商。"
+  },
+  {
+   "cn": "产权清晰",
+   "en": "clearly defined property rights",
+   "source": "马克思主义",
+   "wordNumber": "02.0423",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以法律的形式明确企业出资者的所有权与企业法人的财产权，使二者权利和责任的界定清晰，即企业在产权的所有、占有、使用、处置和收益等相关权利的归属明确。"
+  },
+  {
+   "cn": "植物源酶制剂",
+   "en": "plant-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由植物的可食或非可食部分直接提取的，用于食品加工，具有特殊催化功能的生物制品。"
+  },
+  {
+   "cn": "动物源酶制剂",
+   "en": "animal-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由动物的可食或非可食部分直接提取的，用于食品加工，具有特殊催化功能的生物制品。"
+  },
+  {
+   "cn": "微生物源酶制剂",
+   "en": "microorganism-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由传统或通过基因修饰的微生物（包括但不限于细菌、放线菌、真菌菌种）发酵、提取制得，用于食品加工，具有特殊催化功能的生物制品"
+  },
+  {
+   "cn": "限定日费用",
+   "en": "defined daily dose cost,DDDc",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2.3.4",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "一种药物的总费用与该药用药频度的比值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

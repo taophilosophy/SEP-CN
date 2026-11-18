@@ -1,0 +1,782 @@
+{
+ "key": "unrestricted composition",
+ "term": "unrestricted composition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:32:44+00:00",
+ "status": "ok",
+ "note": "variant=unrestricted composition; 审定公布名词库=1342; 海峡两岸名词对照库=562; 其他来源数据库=124; 预公布名词数据库=50; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "非受限工作",
+   "en": "unrestricted job",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0990",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "工人能够掌控工作节奏的纯手工或人–机联合操作。"
+  },
+  {
+   "cn": "非限制文法",
+   "en": "unrestricted grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.171",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "乔姆斯基层级中的一种短语结构语法。其规则在生成符号串的过程中没有附加任何限制。规则表示为： u::=v，其中u、v为符号串，且u非空。由非限制文法生成的语言称为0型语言，也称为递归可枚举语言。"
+  },
+  {
+   "cn": "无限制潜水艇战",
+   "en": "Unrestricted Submarine Warfare",
+   "source": "世界历史名词",
+   "wordNumber": "01.0289",
+   "subjectFullName": "世界历史_综合_第一次世界大战",
+   "subjectName": "第一次世界大战",
+   "publishYear": "2012",
+   "definition": "1917年2月，德国为封锁英国海上通道，宣布使用潜艇对任何驶往英国的商船不宣而战的作战行动。"
+  },
+  {
+   "cn": "非限定风险评估模式",
+   "en": "unrestricted risk assessment model",
+   "source": "兽医学名词",
+   "wordNumber": "03.067",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "对不采取任何降低风险措施的进口动物或产品可能带来的风险进行评估的方法。"
+  },
+  {
+   "cn": "组成",
+   "en": "composition",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0207",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "由部分或个体组合成的集合体。 "
+  },
+  {
+   "cn": "排版",
+   "en": "composition",
+   "source": "测绘学名词",
+   "wordNumber": "04.335",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "按页面设计要求将图文组成规定版式的过程。"
+  },
+  {
+   "cn": "复合",
+   "en": "composition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0115",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "函数复合算子。例如：给定函数 f(x),g(y) ，复合算子定义函数 h(y)=f(g(y)) 。 "
+  },
+  {
+   "cn": "组合",
+   "en": "composition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0323",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "聚合的一种特殊形式，它表明整体对象与部分对象之间具有紧密的拥有关系和共同的生存周期。"
+  },
+  {
+   "cn": "关系复合",
+   "en": "composition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0121",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "已知 x、y间关系<img src='/root/syzx/static/spz/jsjkx3.08.0121.001.png'/>， y、z间关系<img src='/root/syzx/stati"
+  },
+  {
+   "cn": "组合",
+   "en": "composition",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0234",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "部分和整体具有统一的生存期的整体与部分的关联关系。"
+  },
+  {
+   "cn": "作文",
+   "en": "composition",
+   "source": "教育学名词",
+   "wordNumber": "07.142",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "（1）学生练习写作的活动。（2）学生作为练习所写的文章。"
+  },
+  {
+   "cn": "复合",
+   "en": "composition",
+   "source": "数学名词",
+   "wordNumber": "01.0058",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "复合性",
+   "en": "compositeness",
+   "source": "物理学名词",
+   "wordNumber": "09.1242",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "复合材料",
+   "en": "composite,composite materials",
+   "source": "建筑学名词",
+   "wordNumber": "12.0007",
+   "subjectFullName": "建筑学_建筑材料及制品_材料分类",
+   "subjectName": "材料分类",
+   "publishYear": "2014",
+   "definition": "由异质、异性、异形的有机聚合物、无机非金属、金属等材料作为基体或增强体，通过复合工艺组合而成的材料。"
+  },
+  {
+   "cn": "复合材料",
+   "en": "composite,composite materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "由异质、异性、异形的有机聚合物、无机非金属、金属等材料作为基体或增强体，通过复合工艺组合而成的材料。除具备原材料的性能外，同时能产生新的性能。"
+  },
+  {
+   "cn": "植物区系组成",
+   "en": "floral composition,floristic composition",
+   "source": "植物学名词",
+   "wordNumber": "02.0404",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "一个地区或某个植被类型中所有物种的科、属和区系成分的组成情况。"
+  },
+  {
+   "cn": "双晶接合面",
+   "en": "composition plane;composition surface",
+   "source": "地质学名词",
+   "wordNumber": "02.00.114",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "双晶中两个单晶体间实际邻接的公共界面。也就是两个单晶体间在内部结构上互不连续的分界面。它可以是规则的平面，也可以是不规则的曲折面。当接合面为一规则平面时，其方向可用平行于相应晶面的方式来表示。大多数("
+  },
+  {
+   "cn": "复合传感器",
+   "en": "composite transducer,composite sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0055",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "由多种不同类型的敏感元件或传感器组合而成、具有多种功能的传感器。"
+  },
+  {
+   "cn": "复合移植术",
+   "en": "composite transplantation,composite graft",
+   "source": "手外科学名词",
+   "wordNumber": "05.0238",
+   "subjectFullName": "手外科学_手外科学分论_组织移植",
+   "subjectName": "组织移植",
+   "publishYear": "2020",
+   "definition": "以同一供血系统作为血供来源、包含不同组织学来源的组织瓣移植术。"
+  },
+  {
+   "cn": "复合膜",
+   "en": "composite membrane,thinfilm composite",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0290",
+   "subjectFullName": "海洋科学技术_海洋技术_海水资源开发技术",
+   "subjectName": "海水资源开发技术",
+   "publishYear": "2007",
+   "definition": "用两种不同的膜材料，分别制成具有分离功能的致密层和起支撑作用的多孔支撑层组成的膜。"
+  },
+  {
+   "cn": "无限制轨道",
+   "en": "unrestricted orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "无限制进口",
+   "en": "unrestricted import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "非限制文法",
+   "en": "unrestricted grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不定用途的信贷",
+   "en": "unrestricted use credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "组成",
+   "en": "composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "组成",
+   "en": "composition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拼版",
+   "en": "composition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "复合材料",
+   "en": "composite materials\",\"composite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "无条件最惠国条款",
+   "en": "unrestricted most-favoured nation clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系组成",
+   "en": "floral composition\",\"floristic composition",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分解协调",
+   "en": "composition decomposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大气成分",
+   "en": "atmospheric composition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气溶胶成分",
+   "en": "aerosol composition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进料组成",
+   "en": "feed composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平衡组成",
+   "en": "equilibrium composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "局部组成",
+   "en": "local composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "组成规格",
+   "en": "composition specification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真实组成",
+   "en": "real composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总组成",
+   "en": "overall composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模压成分",
+   "en": "molding composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "达名",
+   "en": "Unrestricted Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文成规矩，思合符契",
+   "en": "The Sage’s Compositions Set the Rules of Writing, and His Ideas Fit Perfectly with Objective Things.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对抗",
+   "en": "opposition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限定空间",
+   "en": "restricted space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单套比赛",
+   "en": "competition III\",\"pattern competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团体比赛",
+   "en": "competition I\",\"group competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体成分",
+   "en": "body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "组成人体质量的各组成成分的含量，包括肌肉、骨骼、脂肪、水和矿物质等。"
+  },
+  {
+   "cn": "体成分发育",
+   "en": "body composition development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "身体成分在儿童青少年时期随时间不断变化和完善的过程。"
+  },
+  {
+   "cn": "乳成分标准化",
+   "en": "milk composition standardization",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.25",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "通过调整原料乳中脂肪、蛋白和非脂肪乳固体之间的比例关系，使其符合产品的要求，之后进行加工的方法。"
+  },
+  {
+   "cn": "复合强化食品",
+   "en": "composite fortified food",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.4.9",
+   "subjectFullName": "食品卫生学_食品添加剂_食品营养强化剂",
+   "subjectName": "食品营养强化剂",
+   "publishYear": "2025",
+   "definition": "强化了两种或两种以上营养素的食品。"
+  },
+  {
+   "cn": "复合防护材料",
+   "en": "composite protective material",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.12",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "由多种吸收X、γ射线的金属元素和硅沙等按一定比例和粒度混合而成的干粉状防护材料，其基本成分为硫酸钡、氧化铁、氧化铅等，可采用重晶石矿石粉、铁矿粉和铅矿粉等混合制成。"
+  },
+  {
+   "cn": "组合危险分数",
+   "en": "composite risk score",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.4",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "当死亡原因存在多种危险因素时计算的危险分数的组合结果，可以反映危险因素之间对健康影响的综合效应。"
+  },
+  {
+   "cn": "资本价值构成",
+   "en": "value composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0160",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不变资本同可变资本之间的比例，即资本中用于生产资料的价值和用于劳动力的价值的比例。资本的价值构成的高低主要取决于资本的技术构成。"
+  },
+  {
+   "cn": "资本技术构成",
+   "en": "technical composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0161",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本总量中生产资料数量同劳动力数量之间的比例，这种比例的大小，取决于生产技术的发展水平，故称为资本技术构成。资本技术构成反映劳动生产率的水平，表现为与资本价值构成。"
+  },
+  {
+   "cn": "资本有机构成",
+   "en": "organic composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0162",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由资本技术构成决定并反映资本技术构成变化的资本价值构成，用不变资本同可变资本的百分比来表示。资本有机构成随着资本积累的增加和生产技术的发展而不断提高。"
+  },
+  {
+   "cn": "体成分模型",
+   "en": "model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "反映人体内在结构成分特征的形式化表达。"
+  },
+  {
+   "cn": "体成分发育种族差异",
+   "en": "ethnic difference in body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "不同遗传背景下的种族，其体成分发育存在差异性的现象。"
+  },
+  {
+   "cn": "二成分模型",
+   "en": "two-component model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "将人体内在结构分为体脂重和去脂体重这两种成分的形式化表达。"
+  },
+  {
+   "cn": "多成分模型",
+   "en": "multi-component model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "在二成分模型基础上将人体内在结构进一步分为多种基本成分的形式化表达。有三成分、四成分、五成分等多种模型。"
+  },
+  {
+   "cn": "体成分发育年龄特征",
+   "en": "age characteristics of body composition development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "体成分发育在不同年龄儿童中所呈现的特征。"
+  },
+  {
+   "cn": "新民主主义五种经济成分",
+   "en": "five economic compositions of new democracy",
+   "source": "马克思主义",
+   "wordNumber": "02.0341",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在党的七届二中全会上指出，国营经济是社会主义性质的，合作社经济是半社会主义性质的，加上私人资本主义，加上个体经济，加上国家和私人合作的国家资本主义经济，这些就是人民共和国的几种主要的经济成分，这"
+  },
+  {
+   "cn": "体成分发育性别特征",
+   "en": "sex difference in development of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "体成分发育在不同性别儿童中所呈现的特征。"
+  },
+  {
+   "cn": "有机构成提高论",
+   "en": "theory of enhancement of organic composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "05.0138",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "有机构成提高论立足于马克思主义的价值理论和有机构成理论，来考察有机构成提高与利润率下降、经济危机产生之间的联系。"
+  },
+  {
+   "cn": "中国公民民族成份登记管理办法",
+   "en": "Measures for the Administration of Ethnic Composition Registration of Chinese Citizens",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.009",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "规范公民民族成份的管理工作的部门规章。2015 年5 月20 日，国家民委委务会议审议通过，并经公安部同意，2015 年6 月16 日由国家民委和公安部联合发布，自2016 年1 月1 日起施行。规定"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

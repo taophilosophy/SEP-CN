@@ -1,0 +1,752 @@
+{
+ "key": "general justification",
+ "term": "general justification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:32:33+00:00",
+ "status": "ok",
+ "note": "variant=general justification; 审定公布名词库=3213; 海峡两岸名词对照库=896; 其他来源数据库=178; 预公布名词数据库=163; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "辩护",
+   "en": "justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "用以证明或维护某个理论或行为的根据。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.050",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "核医学名词",
+   "wordNumber": "02.0434",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "放射防护三原则之一。除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得进行辐射相关实践的原则。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "放射医学与防护_放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害(包括辐射危害)。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "码速调整",
+   "en": "justification",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.262",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以受控方式改变数字信号的数字速率的处理过程。这种过程不丢失或损伤信息。其目的是使与复用设备不同步的各支路得到复用。"
+  },
+  {
+   "cn": "论证",
+   "en": "justification",
+   "source": "数学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "justification,justify",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1317",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "为适应规定文件格式的要求，对数位、文字或符号位置向左或向右进行调整、排列或移位的动作。"
+  },
+  {
+   "cn": "归纳辩护",
+   "en": "inductive justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.085",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "为归纳推理的合理性和有效性提供的辩护。"
+  },
+  {
+   "cn": "辩护的语境",
+   "en": "context of justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "分析实验观察如何支持理论假说的情境条件。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "[辐射照射]实践的正当性",
+   "en": "justification of practice",
+   "source": "化学名词",
+   "wordNumber": "06.0392",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "国际放射防护委员会(ICRP)提出的辐射防护三原则之一。即辐射照射的实践，除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得采取此种实践。"
+  },
+  {
+   "cn": "不充分理由效应",
+   "en": "insufficient justification effect",
+   "source": "心理学名词",
+   "wordNumber": "07.087",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "当外部理由不足以支持行为时，人们用主观理由做行为理由补充，以寻求心理平衡的现象。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.244",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "码速调整",
+   "en": "code rate justification",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0378",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "生成",
+   "en": "generate",
+   "source": "语言学名词",
+   "wordNumber": "01.193",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "原为数学术语，乔姆斯基在《句法结构》中将其引入语言学研究。指一种语法能够界定一种语言中所有合乎语法的句子的能力。转换生成语法就是一套规则，可以衍生出一种语言中的无限多个句子。"
+  },
+  {
+   "cn": "发电机",
+   "en": "generator",
+   "source": "风景园林名词",
+   "wordNumber": "08.1147",
+   "subjectFullName": "风景园林_风景园林工程_风景园林机械",
+   "subjectName": "风景园林机械",
+   "publishYear": "2025",
+   "definition": "将机械能或其他可再生能源转变成电能的能量转换设备。园林中常用轻便式的汽油发电机，用于临时用电。"
+  },
+  {
+   "cn": "代",
+   "en": "generation",
+   "source": "档案学名词",
+   "wordNumber": "05.04.022",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "在逐级制作过程中缩微品所处的辈次。"
+  },
+  {
+   "cn": "泛化",
+   "en": "generalization",
+   "source": "行为医学名词",
+   "wordNumber": "2.018",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "通过选择性强化和消退习得对条件刺激及其类似（或相近）刺激做出相同或近似反应的过程。"
+  },
+  {
+   "cn": "[世]代",
+   "en": "generation",
+   "source": "动物学名词",
+   "wordNumber": "7.0296",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "动物从胚胎或卵离开母体到性成熟成体并开始繁殖为止的发育周期。"
+  },
+  {
+   "cn": "泛化",
+   "en": "generalization",
+   "source": "动物学名词",
+   "wordNumber": "2.0256",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "本来非常专门化、专一化或特殊化的物种或结构变得较一般而适应性范围变大的过程。与特化相对应。"
+  },
+  {
+   "cn": "不充分理由，理由不足",
+   "en": "insufficient justification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线确认",
+   "en": "line justification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "○1justification○2 adjustment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "泛化",
+   "en": "generalization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概括",
+   "en": "generalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "综合",
+   "en": "generalization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "泛化",
+   "en": "generalization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泛化",
+   "en": "generalization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "[世]代",
+   "en": "generation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "发电机",
+   "en": "generator",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相生",
+   "en": "generation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "孢子体世代（=无性世代）",
+   "en": "sporophyte generation (=asexual generation)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "配子体世代（=有性世代）",
+   "en": "gametophyte generation (=sexual generation)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "放射性核素发生器",
+   "en": "radioisotope generator\",\"radionuclide generator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基本组织学",
+   "en": "general histology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "一般能力,普通能力",
+   "en": "general ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生",
+   "en": "Generate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共名",
+   "en": "General Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常识",
+   "en": "General Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通用数据",
+   "en": "general data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普通病区",
+   "en": "general ward",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一般性错误",
+   "en": "general fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预赛",
+   "en": "general competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总印象",
+   "en": "general impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全体召回",
+   "en": "general recall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伦理辩护",
+   "en": "ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对某些现象、行为或观点的合理性进行道德论证的行为。"
+  },
+  {
+   "cn": "医学伦理辩护",
+   "en": "medical ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.2229999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "依据医学伦理学理论、原则和规范，对某一医学行为或医疗活动的合理性进行解释、说明的活动。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiation practice",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护三原则",
+   "subjectName": "放射防护三原则",
+   "publishYear": "2025",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程，即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射或现存照射情况下，确定一个建议的防护行动或补救行"
+  },
+  {
+   "cn": "医疗照射正当性",
+   "en": "justification of medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.7.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "医疗照射的实践，对受照个人或社会带来的利益足以弥补其可能引起的辐射危害（包括健康与非健康危害），才可以实施该实践。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiological practice",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.18",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "开展医疗照射、工业探伤、核设施运行等涉电离辐射活动前，须确保实践总体利益大于辐射危害及其他社会、经济风险。仅当该实践能为个人或社会带来净利益时，才属“正当的”，反之则不应开展。"
+  },
+  {
+   "cn": "概括",
+   "en": "generalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0017",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们形成和深化对客体本质认识的一种思维过程和思维方法，即在思维活动中，把关于具有相同特征和属性的若干客观事物的初步认识，提炼和升华为更具普遍性或深刻性的范畴和结论，以拓展认识的广度和深度。概括是以实践"
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.04",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "出自同一祖先关系的人，不论其年龄的差别，只要是世数或辈份相同的人，即为一世代。一个世代通常包括同父、同母或父母均同的一代后裔。"
+  },
+  {
+   "cn": "总体健康",
+   "en": "general health",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体对自身健康状态的综合判断。反映患者在疾病和治疗的影响下对自身健康总的感受，以及对未来生活的期望与选择。"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "通用标准",
+   "en": "general standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.13",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "包含某个或多个特定领域普遍适用的条款的标准。"
+  },
+  {
+   "cn": "公意",
+   "en": "general will",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "全体公民，即主权者的共同利益的表达。卢梭借此去定义有别于单个人的特殊意志的、指向所有人的共同利益的那种意志。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "普遍进化",
+   "en": "general evolution",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "人类文化发展为特点的总体变化模式。表现为由简单到复杂的趋向，强调演进的动因在于技术进步和人类摄取能量的不断提高而发展的模式。与“单线进化”、“多线进化”相对。"
+  },
+  {
+   "cn": "总体资本家",
+   "en": "general capitalist",
+   "source": "马克思主义",
+   "wordNumber": "02.0125",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本主义社会中，单个资本之间互相联系、互相依存形成总社会资本，总社会资本的人格化就是总体资本家。这一概念从社会整体的宏观角度来考察资本同劳动的对立，揭示资产阶级对无产阶级的剥削和压迫的总体关系。"
+  },
+  {
+   "cn": "一般商品",
+   "en": "general commodity",
+   "source": "马克思主义",
+   "wordNumber": "02.0191",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的一种特殊的社会职能。货币，作为固定地充当一般等价物的商品，它是价值额的独立表现，可以衡量一切商品的价值，具有与一切商品直接交换的能力，这种社会职能使它成为作为一般等价物的一般商品。"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0069",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》，指文本的深层结构，即一种思想产生和发展时所处的意识形态环境与这一思想的内在整体。"
+  },
+  {
+   "cn": "一般治疗",
+   "en": "general treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "传染病和其他各种疾病所必需的基础治疗。包括隔离、消毒、护理和心理治疗。"
+  },
+  {
+   "cn": "政府卫生筹资",
+   "en": "general taxation",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "政府作为筹资主体通过税收渠道筹集资金并分配和使用于卫生领域的一种卫生筹资模式"
+  },
+  {
+   "cn": "综合医院",
+   "en": "general hospital ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.4.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "设一定数量的病床、各类临床专科（如内科、外科、儿科、妇产科、眼科、耳鼻喉科、皮肤科等）、医技部门（如药剂、检验、影像等）以及相应人员与设备的医院。"
+  },
+  {
+   "cn": "总体预案",
+   "en": "general plan",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "明确学校各类突发公共事件分级分类和预案框架体系，规定应对学校突发公共事件的组织体系、工作机制等内容，用于指导预防和处置学校各类突发公共事件的文件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

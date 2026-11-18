@@ -1,0 +1,722 @@
+{
+ "key": "rational explanation",
+ "term": "rational explanation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:18:06+00:00",
+ "status": "ok",
+ "note": "variant=rational explanation; 审定公布名词库=1461; 海峡两岸名词对照库=339; 其他来源数据库=158; 预公布名词数据库=207; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "说明",
+   "en": "explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.100",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "寻找现象或事件的原因或机制。"
+  },
+  {
+   "cn": "训释",
+   "en": "explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用语言来表述文献语言意义的工作。根据训释目的不同，可分为声训、形训和义训，根据训释的语言结构方式不同，可分为直训和义界。"
+  },
+  {
+   "cn": "解释",
+   "en": "explanation",
+   "source": "自动化名词",
+   "wordNumber": "05.105",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "结构说明",
+   "en": "structural explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "利用数学模型来说明物理世界中的特征，它显示被说明项如何反事实地依赖于模型的其他数学元素。"
+  },
+  {
+   "cn": "宏观说明",
+   "en": "macro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于大尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "微观说明",
+   "en": "micro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于小尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "概率说明",
+   "en": "probabilistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学说明的一种方式。它的前提包含适当的初始条件加上统计规律。"
+  },
+  {
+   "cn": "近因说明",
+   "en": "proximate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当某个有待说明的现象出现时，若科学家的注意力是放在一系列环环相扣的因果链上，从而找出时空上先于并邻接且又造成该现象之发生的原因，此时科学家所给出的说明就是近因说明。"
+  },
+  {
+   "cn": "终极说明",
+   "en": "ultimate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.457",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当生物学家想要说明一个有意义的生物学事件、性状或是过程时，他们会把它看成一种适应，是经过随机变化、自然选择之后而有的适应环境的结果，即便生物学家对进化历史中的许多细节仍然不清楚，但他们把这样的适应现象"
+  },
+  {
+   "cn": "机制说明",
+   "en": "mechanistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "通过某种方式或途径，对动力系统元素之间的作用的关系及其功能进行描述，分析动力系统的工作原理、相互作用产生的原因以及产生的过程。"
+  },
+  {
+   "cn": "科学解释",
+   "en": "scientific explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.198",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "依据科学理论，对有关的各种经验事实及其内在联系进行解释，从而在整体上把握对象的活动。"
+  },
+  {
+   "cn": "说课",
+   "en": "lesson explanation",
+   "source": "教育学名词",
+   "wordNumber": "02.213",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师对同伴教师解释自己的教学设计的一种教研形式。"
+  },
+  {
+   "cn": "互训",
+   "en": "mutual explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "两个词互相训释的直训。例如“排，挤也”“挤，排也”。"
+  },
+  {
+   "cn": "集解",
+   "en": "assembly explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.016",
+   "subjectFullName": "语言学_训诂学_训诂体式",
+   "subjectName": "训诂体式",
+   "publishYear": "2011",
+   "definition": "①汇集各家对同一部经典的注释，有时也补充汇集者自己的阐释的训诂体式。其名称有集解、集注等。例如南朝宋代裴骃的《史记集解》、宋代朱熹的《四书集注》。②合经与传注兼而解之的编纂样式。例如晋代杜预的《春秋经"
+  },
+  {
+   "cn": "单训",
+   "en": "unilateral explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.026",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "训释词与被训释词只是单向训释的直训。例如“璐，玉也”。"
+  },
+  {
+   "cn": "专书训释",
+   "en": "explanation compilated",
+   "source": "语言学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "脱离了典籍原文，按一定原则编排在专书中的训释。例如《说文解字》《方言》等专书中的训释。"
+  },
+  {
+   "cn": "日粮",
+   "en": "ration",
+   "source": "水产名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "水产_饲料和肥料",
+   "subjectName": "饲料和肥料",
+   "publishYear": "2002",
+   "definition": "一只饲养动物一昼夜采食的、能满足其营养需要的饲料量。"
+  },
+  {
+   "cn": "日粮",
+   "en": "ration",
+   "source": "水产名词",
+   "wordNumber": "12.005",
+   "subjectFullName": "水产_水产饲料与肥料",
+   "subjectName": "水产饲料与肥料",
+   "publishYear": "2002",
+   "definition": "一只饲养动物一昼夜采食的、能满足其营养需要的饲料量。"
+  },
+  {
+   "cn": "合理化",
+   "en": "rationalization",
+   "source": "行为医学名词",
+   "wordNumber": "10.078",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "个体以个人需要为理由解释自己不能改变的事实，或为自己辩解，用自我能接受、能宽恕的理由代替自己行为的真实动机或理由的一种自我防御机制。"
+  },
+  {
+   "cn": "配给",
+   "en": "rationing",
+   "source": "经济学名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "一切经济活动，包括整个国民经济的决策，企业的产供销等日常经济活动决策，以及家庭和个人的经济活动如职业的选择、消费品的购买及选择等方面的决策，都集中于国家手中。"
+  },
+  {
+   "cn": "理性",
+   "en": "ration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合理化,文饰［作用］",
+   "en": "rationalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性化",
+   "en": "rationalization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有理函数",
+   "en": "rational function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有理数",
+   "en": "rational number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理性思考",
+   "en": "rational thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性知识",
+   "en": "rational knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性心理学",
+   "en": "rational psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性形而上学",
+   "en": "rational metaphysics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理性主体",
+   "en": "rational agent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理性筛选",
+   "en": "rational screening",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "限额出口",
+   "en": "rationed export",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "振幅比",
+   "en": "amplitude ration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "口粮",
+   "en": "food ration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "集体合理化",
+   "en": "collective rationalizing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "配给交易",
+   "en": "rationing transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "配给证",
+   "en": "rationing coupon",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "说知",
+   "en": "Knowledge from Explanation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释学习",
+   "en": "explanation-based learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际足球联合会",
+   "en": "International Federation of Association Football（英语）；Fédération Internationale de Football Association（法语）",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家标准",
+   "en": "National Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家网络安全",
+   "en": "National Cybersecurity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国徽",
+   "en": "national emblem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家代表队",
+   "en": "national selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家单项协会",
+   "en": "national federation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国歌",
+   "en": "national anthem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家名的字母缩写",
+   "en": "national letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国民生产总值",
+   "en": "Gross National Product",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "马克思主义",
+   "wordNumber": "01.0172",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）思维发展的高级阶段，与“感性”相对，指形成概念，进行判断、分析、综合、比较、推理、计算等方面的能力和活动。（2）与感觉、知觉、情感和欲望相对的性格特征，指按照事物存在的真实状况和发展的内在规律处"
+  },
+  {
+   "cn": "唯理论",
+   "en": "rationalism",
+   "source": "马克思主义",
+   "wordNumber": "01.0175",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）与经验主义相对，认为具有普遍必然性的可靠知识不是、也不可能来自经验，而是从先天的、不可否认的“自明之理”出发，经过严密的逻辑推理得到的。（2）轻视感性经验的作用，仅从概念出发，用逻辑推理和理性思"
+  },
+  {
+   "cn": "理性资本主义",
+   "en": "rational capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.9",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "现代社会以理性原则建立的资本主义贸易、生产和金融模式。存在的前提条件包括市场的交易自由、发达的货币经济、劳动力的商品化、诸如簿记制度等理性技术的运用，经营组织与家产分离或产权的明晰化、法律保障、经济生"
+  },
+  {
+   "cn": "理性认识",
+   "en": "rational cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0241",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的高级阶段，是人们在感性认识的基础上，凭借抽象思维把握到的关于事物的本质、内部联系和规律的认识，具有抽象性、间接性、普遍性等特点，表现形式是概念、判断、推理。"
+  },
+  {
+   "cn": "理性选择",
+   "en": "rational choice",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "理性人目标最优化或效用最大化，即理性人趋向于采取最优策略，以最小成本获得最大收益。"
+  },
+  {
+   "cn": "合理膳食",
+   "en": "rational diet",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "通过合理的膳食组成和科学的烹调加工，使从膳食中摄入的能量和各种营养素与机体需要保持平衡，既能满足人体生长发育、生理及身体活动的需要，又不存在营养相关健康问题的膳食。"
+  },
+  {
+   "cn": "公众理性",
+   "en": "public rational",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.22",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "与组织具有现实或潜在利益关系或者影响一个组织实现其目标能力的任何群体基于经验事实而把握客观规律的思维能力，其核心在于公共性，区别于个人理性。"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "救生食品",
+   "en": "survival rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "军人遇险待救时用于维持生存的专用食品，要求能量高、体积小、重量轻、携带方便、储存期长和食用方便等。"
+  },
+  {
+   "cn": "军用食品",
+   "en": "military rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产、供应的各类制式食品，主要供部队不能供应热食时使用，通常由军需部门统一组织生产和调拨，具有营养合理、适口性好、易消化吸收、体积小、重量轻、携带食用方便、安全卫生、耐贮存等特点。"
+  },
+  {
+   "cn": "野战食品",
+   "en": "field rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "部队人员行军、作战和一些特殊情况下热食供应困难时食用的制式食品，主要包括压缩干粮、脱水米饭、自加热食品、单兵口粮等。"
+  },
+  {
+   "cn": "限制口粮",
+   "en": "restricted rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "要求携带最少装备、短期（少于10 天）内完成特殊任务时食用的单兵口粮，由于携带物品体积和重量的限制，其体积和重量均小于作战口粮。"
+  },
+  {
+   "cn": "远航食品",
+   "en": "voyage rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "供海勤、空勤人员远航时食用的食品，主要分为舰艇远航食品和飞行远航食品。"
+  },
+  {
+   "cn": "价值理性",
+   "en": "value rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动者相信特定的行为无条件地具有价值，行动者强调追求动机的纯正和选择正确的手段去实现目的，而不管其结果如何的行动取向。"
+  },
+  {
+   "cn": "工具理性",
+   "en": "instrumental rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.7",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动只由追求功利的动机所驱使，行动者纯粹从效用最大化的角度考虑，在行动中漠视人的情感和精神价值，借助理性算计达到预期目的的行动取向。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "一种关注所有生命形态和谐共生的理性形式。它把人类视为生态系统中的一个有机组成部分，与其他生命系统相互联系、相互影响，共同构建生物共同体的和谐、健康、稳定、完整与统一。行为决策以保护经济资源、促进生态系"
+  },
+  {
+   "cn": "社会理性",
+   "en": "social rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "社会中的个体以整个社会或群体的利益为目标，使社会或群体利益最大化的思维倾向和行动动力。"
+  },
+  {
+   "cn": "法律的理性化",
+   "en": "legal rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.7.4.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的理性化",
+   "subjectName": "法律的理性化",
+   "publishYear": "2025",
+   "definition": "法律从实质理性逐渐转变形式理性的过程。马克斯·韦伯提出的概念，主要体现为法律是由规则构成的体系，通过逻辑推理能够从普遍规则推导出适用于个案的决定。"
+  },
+  {
+   "cn": "合理性规范",
+   "en": "rationality norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.12",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "用批评的眼光看待所有人类存在的现象，旨在使它们更加有序一致，并获得普遍的理解。该规范主要强调科学的逻辑性和真理性，即科学知识应当符合逻辑规则，并且符合具体经验事实。"
+  },
+  {
+   "cn": "交往理性",
+   "en": "communicative rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0037",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯重建历史唯物主义的哲学用语，强调在交往中，不同的参与者克服掉了他们最初的那些纯粹主观的观念，同时，为了共同的合理信念而确立起了客观世界的同一性及其生活语境的主体间性，从而实现文明理性的重建。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

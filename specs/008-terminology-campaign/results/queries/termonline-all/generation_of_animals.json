@@ -1,0 +1,682 @@
+{
+ "key": "generation of animals",
+ "term": "Generation of Animals",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:25:33+00:00",
+ "status": "ok",
+ "note": "variant=Generation of Animals; 审定公布名词库=10000; 海峡两岸名词对照库=8077; 其他来源数据库=1970; 预公布名词数据库=2791; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "“九八一代”",
+   "en": "Generation of 1898",
+   "source": "世界历史名词",
+   "wordNumber": "03.0784",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_西班牙、葡萄牙",
+   "subjectName": "西班牙、葡萄牙",
+   "publishYear": "2012",
+   "definition": "美西战争后，西班牙涌现的一批进步作家，他们在西班牙掀起了一场新的思想文化运动。"
+  },
+  {
+   "cn": "动物",
+   "en": "animal",
+   "source": "动物学名词",
+   "wordNumber": "1.0001",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "能自由活动的或至少在生活史某一阶段能自由活动的、多细胞（除原生动物为单细胞外）、无细胞壁的一类异养真核生物。根据其身体中有无脊柱或脊索分为脊椎动物和无脊椎动物两大类。"
+  },
+  {
+   "cn": "实验动物化",
+   "en": "laboratorization of animal",
+   "source": "兽医学名词",
+   "wordNumber": "09.003",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "从家畜（禽）、野生动物中选择适当物种培育成实验动物的过程。物种选择要遵从具有科学研究所需的重要生物学特性、体型较小、易饲养管理和繁殖的基本原则。"
+  },
+  {
+   "cn": "泛灵论",
+   "en": "animism",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.093",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "关于自然界一切事物和现象都为精灵所控制的学说。是宗教和唯心主义的来源之一。认为人、动植物和自然界的事物，不仅有被感知的特征，而且还有灵魂。灵魂真实存在，具有能动性、可经验性和单子性或绵延性。"
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.097",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "利用人的视觉暂留特点把系列关联画面顺序展现，给人以连续的活动景象视觉的绘画艺术表现形式。"
+  },
+  {
+   "cn": "动漫",
+   "en": "anime",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.099",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "将动态漫画的概念与数码合成等技术相结合，在平面上展现动态画面效果的艺术形式。"
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0280",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "采用图形与图像的处理技术，借助于编程或软件生成一系列的图像画面。以一定的速度（如每秒16张）连续播放静止图像的方法产生物体运动的效果。"
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.171",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "利用人的视觉残留特性使连续播放的静态画面相互衔接而形成的动态效果。"
+  },
+  {
+   "cn": "普通动物",
+   "en": "conventional animal,CV animal",
+   "source": "核医学名词",
+   "wordNumber": "06.0201",
+   "subjectFullName": "核医学_核医学研究_实验动物学基础",
+   "subjectName": "实验动物学基础",
+   "publishYear": "2018",
+   "definition": "在微生物学控制上要求最低的动物。要求不携带人畜共患病和动物烈性传染病的病原。因价格低，故经常用于教学实验中。"
+  },
+  {
+   "cn": "清洁动物",
+   "en": "clean animal,CL animal",
+   "source": "核医学名词",
+   "wordNumber": "06.0200",
+   "subjectFullName": "核医学_核医学研究_实验动物学基础",
+   "subjectName": "实验动物学基础",
+   "publishYear": "2018",
+   "definition": "除普通动物应排除的病原外，不携带对动物危害大和对科学研究干扰大的病原的动物。"
+  },
+  {
+   "cn": "悉生动物",
+   "en": "gnotobiotic animal,GN animal",
+   "source": "核医学名词",
+   "wordNumber": "06.0198",
+   "subjectFullName": "核医学_核医学研究_实验动物学基础",
+   "subjectName": "实验动物学基础",
+   "publishYear": "2018",
+   "definition": "对无菌动物人工投予某些已知微生物(一般为埃希大肠杆菌、葡萄球菌及乳酸杆菌等)而获得的动物。根据投入已知菌的种类，分别称为单菌、双菌、三菌或多菌动物。是实验动物按微生物学控制程度分类中的一种。"
+  },
+  {
+   "cn": "普通级动物",
+   "en": "conventional animal,CV animal",
+   "source": "免疫学名词",
+   "wordNumber": "4.007",
+   "subjectFullName": "免疫学_畜牧免疫",
+   "subjectName": "畜牧免疫",
+   "publishYear": "2007",
+   "definition": "未经规范的微生物学控制，饲养于开放环境，临床表现健康，无人畜共患病原体的动物。"
+  },
+  {
+   "cn": "清洁级动物",
+   "en": "clean animal,CL animal",
+   "source": "免疫学名词",
+   "wordNumber": "4.008",
+   "subjectFullName": "免疫学_畜牧免疫",
+   "subjectName": "畜牧免疫",
+   "publishYear": "2007",
+   "definition": "种群来自无菌动物、悉生动物或无特定病原动物，种系清楚，饲育在较洁净的环境中，饲料、饮水清洁，温度较恒定的动物。"
+  },
+  {
+   "cn": "悉生动物",
+   "en": "gnotobiotic animal,GN animal",
+   "source": "免疫学名词",
+   "wordNumber": "4.01",
+   "subjectFullName": "免疫学_畜牧免疫",
+   "subjectName": "畜牧免疫",
+   "publishYear": "2007",
+   "definition": "对无菌动物人工投予某些已知微生物(一般为埃希大肠杆菌、葡萄球菌及乳酸杆菌等)而获得。根据投入已知菌的种类，分别称为单菌、双菌、三菌或多菌动物。"
+  },
+  {
+   "cn": "走兽",
+   "en": "squatting animal;running animal",
+   "source": "风景园林名词",
+   "wordNumber": "07.0403",
+   "subjectFullName": "风景园林_风景园林建筑_瓦作",
+   "subjectName": "瓦作",
+   "publishYear": "2025",
+   "definition": "垂脊下端上之雕饰。包括龙、凤、狮子、天马、海马、狻猊、狎鱼、獬豸、斗牛、行什。"
+  },
+  {
+   "cn": "片头动画",
+   "en": "title animation;preamble animation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.04.054",
+   "subjectFullName": "编辑与出版学_出版物_音像制品与电子出版物",
+   "subjectName": "音像制品与电子出版物",
+   "publishYear": "2022",
+   "definition": "放在电影、电视剧、电视栏目、电脑游戏等正式内容之前，通常用节目内容典型片段和3D动画组合演绎而成的动画。"
+  },
+  {
+   "cn": "动物检疫审批",
+   "en": "approval of importing animal and animal product",
+   "source": "兽医学名词",
+   "wordNumber": "03.039",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "出入境检验检疫机构对货主或其代理人的申请进行审验，依据国家有关法律、法规决定是否批准其从境外引进或过境动物检疫物要求的过程。"
+  },
+  {
+   "cn": "动物传染病",
+   "en": "infectious disease of animal",
+   "source": "兽医学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "由病原微生物感染动物引起的，具有一定潜伏期和临诊表现，并具有传染性的疾病。"
+  },
+  {
+   "cn": "动物源性食品",
+   "en": "food of animal origin",
+   "source": "兽医学名词",
+   "wordNumber": "03.087",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "来自活体动物的原材料经加工或半加工，供人类消费的食品，以及蛋类、奶及奶制品、蜂蜜等。"
+  },
+  {
+   "cn": "动物产品可追溯性",
+   "en": "traceability of animal product",
+   "source": "兽医学名词",
+   "wordNumber": "03.098",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "通过登记的识别码，追溯特定动物产品的养殖历史、加工过程或所处场所的能力。"
+  },
+  {
+   "cn": "动物",
+   "en": "animal",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "泛灵论",
+   "en": "animism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "穴居动物,洞穴动物",
+   "en": "cavernicolous animal\",\"burrowing animal",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "污水动物",
+   "en": "saprobic animal\",\"saprobiotic animal",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "普通级动物， 常规动物",
+   "en": "conventional animal， CV animal",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "清洁级动物， 最低限度疾病动物",
+   "en": "clean animal， CL animal",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "悉生动物，已知菌动物",
+   "en": "gnotobiotic animal， GN animal",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "原动物鉴定",
+   "en": "identification of original animal",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "世代离散",
+   "en": "discrete of generation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世代重叠",
+   "en": "overlapping of generation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世代交替",
+   "en": "alternation of generation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "世代交替",
+   "en": "alternation of generations",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世代交替",
+   "en": "alternation of generations",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世代交替",
+   "en": "alternation of generations",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "世代交替",
+   "en": "alternation of generations",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "克隆动物",
+   "en": "cloned animal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胎生动物",
+   "en": "viviparous animal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "转基因动物",
+   "en": "transgenic animal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "权利泛化",
+   "en": "generalization of rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动物试验",
+   "en": "animal testing",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网络动漫",
+   "en": "online animation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生",
+   "en": "Generate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活体农贸市场",
+   "en": "live animal market",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自生",
+   "en": "Spontaneous Generation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本生成",
+   "en": "text generation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "万物有灵论",
+   "en": "animism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "一种相信自然现象都是具有生命或灵魂、或认为某种神灵能够使物体具有生命现象的信仰观念。"
+  },
+  {
+   "cn": "万物有灵",
+   "en": "animism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0304",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "万物有灵观念有两个基本信条：一是相信所有生物的灵魂在身体死亡或消失之后能够继续存在；二是相信各种神灵可以影响和控制物质世界和人的今生来世，同时神灵和人是相通的，人的行为会引起神灵的高兴或不悦。灵魂以三"
+  },
+  {
+   "cn": "染疫动物处理",
+   "en": "disposal of infected animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.4.3",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对检疫阳性动物及隔离期间病死畜采取的焚烧、深埋等处理措施。"
+  },
+  {
+   "cn": "动物模型",
+   "en": "animal model",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "生物医学研究过程中，建立起来的具有人类疾病模拟表现的动物实验对象及相关实验材料。用于研究各种因素对人体作用的原因、机制、诊断指标和治疗方法等。一般常用小鼠、大鼠、家兔、犬等制作而成。"
+  },
+  {
+   "cn": "畜牧",
+   "en": "animal husbandry",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0229",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "采用畜、禽等已经被我们人类人工饲养驯化的动物，或者鹿、麝、狐、貂、水獭、鹌鹑等野生动物的生理机能，通过人工饲养、繁殖，使其将牧草和饲料等植物能转变为动物能，以取得肉、蛋、奶、羊毛、山羊绒、皮张、蚕丝和"
+  },
+  {
+   "cn": "动物崇拜",
+   "en": "animal worship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0285",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一种自然崇拜，由万物有灵观念发展而来；以禽类、兽类、鱼类、虫类等动物为祭祀的对象。通常，此种动物与某一神灵被认为具有密切的关系。"
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.04",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "出自同一祖先关系的人，不论其年龄的差别，只要是世数或辈份相同的人，即为一世代。一个世代通常包括同父、同母或父母均同的一代后裔。"
+  },
+  {
+   "cn": "概括",
+   "en": "generalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0017",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们形成和深化对客体本质认识的一种思维过程和思维方法，即在思维活动中，把关于具有相同特征和属性的若干客观事物的初步认识，提炼和升华为更具普遍性或深刻性的范畴和结论，以拓展认识的广度和深度。概括是以实践"
+  },
+  {
+   "cn": "动物源性饲料消毒",
+   "en": "disinfection of animal-derived feed",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.3.5",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对用动物及其副产品为原料加工制成的饲料可能携带的病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "动物源性传染病",
+   "en": "infectious diseases of animal origin",
+   "source": "消毒学",
+   "wordNumber": "7.1.7",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "以动物为传染源，由患病或携带病原微生物的动物通过各种不同传播方式传染给人的疾病。"
+  },
+  {
+   "cn": "一般价值形式",
+   "en": "general form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0063",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程的第三阶段。一切商品的价值都以充当一般等价物的商品来表现的价值形式。以一般等价物为媒介的商品交换代替了直接的物物交换，扩大的价值形式也就发展到了一般价值形式，这一发展是一次质的飞跃。价"
+  },
+  {
+   "cn": "资本的总公式",
+   "en": "general formula of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0090",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "G-W-G’，是资本运动的最一般形式，作为资本的货币直接在流通领域内表现出来的资本运动的形式。这表示预付货币额作为资本经过一定的运动又回到原来的形式，并带来一个增值额即剩余价值。这个公式集中反映了产业"
+  },
+  {
+   "cn": "一般剥削理论",
+   "en": "general theory of exploitation",
+   "source": "马克思主义",
+   "wordNumber": "05.0105",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "罗默（Paul M. Romer）运用博弈理论，借助分析哲学的方法，把马克思古典的剥削理论放在更一般化的历史条件下来考察，创制了“社会必要剥削”“社会主义的剥削”等新概念，臆断提出了“一般剥削理论”。"
+  },
+  {
+   "cn": "畜牧民俗",
+   "en": "animal husbandry folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0048",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人们对牲畜的饲养和使用方面的规矩和习惯，包括适于畜牧的生态环境，牲畜的种类及其比例，牧场的自然条件及冬夏季节的变换情况，牧民组织分工，放牧的技巧和经验，禽、畜神崇拜，牲口的繁殖与医疗，产品的处理民俗（"
+  },
+  {
+   "cn": "动物性食物中毒",
+   "en": "animal food poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用含有毒成分的动物性食品所致中毒型食源性疾病。"
+  },
+  {
+   "cn": "动物蛋白质水解物",
+   "en": "hydrolyzed animal protein",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.16.4",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "动物性蛋白在酸或酶作用下水解而得的产物。含有丰富的小肽及游离L-型氨基酸，可用作食品调味料和风味增强剂"
+  },
+  {
+   "cn": "食用动物油脂",
+   "en": "edible animal fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "以经动物卫生监督机构检疫、检验合格的生猪、牛、羊、鸡、鸭的板油、肉腰、网膜或附着于内脏器官的纯脂肪组织为原料，炼制成的食用油脂。"
+  },
+  {
+   "cn": "资本主义总危机理论",
+   "en": "theory of general crisis of capitalism",
+   "source": "马克思主义",
+   "wordNumber": "05.0219",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "由斯大林提出的理论。他在1928年12月肯定共产国际六大的结论时首先使用了“资本主义总危机”的概念。后来他进一步阐释，“世界资本主义体系的总危机是在第一次世界大战时期开始的。”“这种总危机……既不是单"
+  },
+  {
+   "cn": "进出境陆生动物消毒",
+   "en": "disinfection of entry-exit terrestrial animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.4",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对进出境陆生动物及与其相关的物料和场所可能携带的病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "陆生动物隔离区域消毒",
+   "en": "disinfection of terrestrial animal isolation area",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.4.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对具有染疫风险的进出境陆生动物隔离区域清除且杀灭所有的病原体所进行的消毒措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,732 @@
+{
+ "key": "non-zero probability",
+ "term": "non-zero probability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:31:33+00:00",
+ "status": "ok",
+ "note": "variant=non-zero probability; 审定公布名词库=3386; 海峡两岸名词对照库=1094; 其他来源数据库=168; 预公布名词数据库=137; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "零探测概率",
+   "en": "zero detection probability",
+   "source": "电子学名词",
+   "wordNumber": "24.160",
+   "subjectFullName": "电子学_核电子学",
+   "subjectName": "核电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不漏失概率",
+   "en": "non-leakage probability",
+   "source": "物理学名词",
+   "wordNumber": "10.0375",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "中子不泄漏概率",
+   "en": "neutron non-leakage probability",
+   "source": "电力名词",
+   "wordNumber": "17.073",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "中子未从介质系统表面泄漏出去,而是继续留在该介质系统中参与后续反应的概率。"
+  },
+  {
+   "cn": "非零和博弈",
+   "en": "non zero sum game",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.054",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "表示在不同策略组合下各博弈方的得益之和是不确定的变量。如果某些战略的选取可以使各方利益之和变大，同时又能使各方的利益得到增加，那么，就可能出现参加方相互合作的局面。与“零和博弈”相对。"
+  },
+  {
+   "cn": "非零和对策",
+   "en": "non-zero-sum game",
+   "source": "经济学名词",
+   "wordNumber": "10.171",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "博弈中各方的收益或损失的总和不是零值。在这种状况下，自己的所得并不与他人的所失的大小相等，也可能“损人不利己”，所以博弈双方存在“双赢”的可能，进而合作。"
+  },
+  {
+   "cn": "非零和对策",
+   "en": "non-zero-sum game",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0311",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "所有局中人的支付之和不为零的对策。"
+  },
+  {
+   "cn": "非零色散光纤",
+   "en": "non-zero dispersion fiber",
+   "source": "通信科学技术名词",
+   "wordNumber": "09.136",
+   "subjectFullName": "通信科学技术_光纤传输与接入",
+   "subjectName": "光纤传输与接入",
+   "publishYear": "2007",
+   "definition": "在符合ITU-TG.655建议的光纤中，一类在1550nm附近的色散不为零的光纤。"
+  },
+  {
+   "cn": "非零和对策",
+   "en": "non-zero-sum game",
+   "source": "数学名词",
+   "wordNumber": "011.0438",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "冶金学名词",
+   "wordNumber": "04.0675",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "表示随机事件发生可能性大小的量，是在0到1之间的实数。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "表征随机事件发生可能性大小的一个度量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "物理学名词",
+   "wordNumber": "05.0522",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "化学名词",
+   "wordNumber": "03.0127",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "表示1个随机事件发生可能性大小的数。该数在0与1之间取值。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大气科学名词",
+   "wordNumber": "07.243",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "表征随机事件发生可能性大小的量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "电气工程名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "数学名词",
+   "wordNumber": "09.0029",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "零点",
+   "en": "zero",
+   "source": "风景园林名词",
+   "wordNumber": "08.0067",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程地形整理",
+   "subjectName": "风景园林工程地形整理",
+   "publishYear": "2025",
+   "definition": "地形整理中不挖不填的点。"
+  },
+  {
+   "cn": "零点",
+   "en": "zero",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0897",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "控制系统传递函数分子多项式的根。"
+  },
+  {
+   "cn": "零",
+   "en": "zero",
+   "source": "数学名词",
+   "wordNumber": "04.0003",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "零点",
+   "en": "zero",
+   "source": "数学名词",
+   "wordNumber": "05.0389",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "零点",
+   "en": "zero",
+   "source": "电子学名词",
+   "wordNumber": "03.325",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "零探测概率",
+   "en": "zero detection probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "零点",
+   "en": "Zero",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "零",
+   "en": "zero",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "后验概率",
+   "en": "posteriori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "priori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率分布",
+   "en": "probability distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率函数",
+   "en": "probability function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率论",
+   "en": "probability theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率模式",
+   "en": "probability model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率评分",
+   "en": "probability score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率预报",
+   "en": "probability forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洪水概率",
+   "en": "flood probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后验概率",
+   "en": "posterior probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候概率",
+   "en": "climatic probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "条件概率",
+   "en": "conditional probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "零分",
+   "en": "love\",\"zero",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效动作！",
+   "en": "Non!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "零边际成本",
+   "en": "zero marginal cost",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "零日漏洞",
+   "en": "zero-day vulnerability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "零数据丢失",
+   "en": "zero data loss",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "零知识证明",
+   "en": "zero-knowledge proof",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无为",
+   "en": "Non-action",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可抵赖性",
+   "en": "non-repudiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非消耗性",
+   "en": "non-consumability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非概率抽样",
+   "en": "non-probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "不遵循随机原则抽取样本的方法。样本的选择往往受到研究者的主观判断、方便性或其他非随机因素的影响。获得的样本信息一般不能通过统计学方法推论总体。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "保证总体中的所有单位有相同被选取的概率或机会的抽样方式。"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "活到某一确切年龄x岁的一批人在满x+n岁之前可能死亡的比例。即在确切年龄x岁与x+n岁之间死亡人数(ndx）与活到确切年龄x岁的尚存人数(lx）之比，一般记作nqx。"
+  },
+  {
+   "cn": "暴露概率",
+   "en": "exposure probability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.71",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "受个体行为、环境条件和病原体传播途径等因素影响，个体或群体接触到某种病原体的可能性。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "遵循随机原则，按照某种特定的概率抽取样本的方法。获得的样本信息可以通过统计学方法推论总体。"
+  },
+  {
+   "cn": "零形式",
+   "en": "zero form",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0064",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "一种理论上假设的抽象语言单位。旨在使语言单位或语言结构的分析保持均衡性和对称性。在语流中没有任何显性的实现形式，用符号Ǿ 表示。例如英语有的名词单数和复数形式同形，如deer、sheep，可以认为其复"
+  },
+  {
+   "cn": "感染概率",
+   "en": "probability of infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.72",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定条件下，受个体易感性、病原体传播途径和环境因素等多种因素影响，个体或群体感染某种病原体的可能性。"
+  },
+  {
+   "cn": "零和权力",
+   "en": "zero-sum power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.4",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "非合作性的权力及其行使。在严格竞争的条件下，这种权力关系的双方中的一方的收益必然意味着另一方的损失，双方的收益和损失相加总和永远为“零”，即不存在合作的可能。"
+  },
+  {
+   "cn": "民办非企业单位",
+   "en": "non-governmental non-enterprise units",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "企业、事业单位、社会团体和其他社会力量以及公民个人利用非国有资产创办的、从事非营利性社会服务活动的社会组织，如民办学校、民办研究所、民办博物馆等。"
+  },
+  {
+   "cn": "标称危险[概率]系数",
+   "en": "nominal risk [probability] coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "对代表性人群（上海、大阪、广岛、长崎、瑞典、英国和美国）性别平均和受照年龄平均的终生危险估计，单位是10-2Sv-1。其含义是某人群受1Sv剂量照射以后该人群相对于未受照射人群癌症终生危险增加的百分数"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "患病概率",
+   "en": "probability of disease occurrence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.73",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定时间内，一个人或者一个群体发生某种疾病的可能性。在微生物学中，多用于某种疾病微生物致使生物体发生某种疾病的可能性。"
+  },
+  {
+   "cn": "最大可能数",
+   "en": "most probable number, MPN",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.111",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "结合微生物学与统计学的检测数值表示法，由统计模型，推算实际菌数最可能落在信赖区间的位置，即该样品最可能有多少细菌的估测值。"
+  },
+  {
+   "cn": "药品零差率",
+   "en": "zero drug markup policy ",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6.2.7",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "医疗机构在销售基本药物过程中，按购进价格出售给患者的管理模式。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "非单向流",
+   "en": "non-unidirectional flow",
+   "source": "消毒学",
+   "wordNumber": "1.8.22.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "送入洁净室（区）的送风以诱导方式与室（区）内空气混合的气流分布类型。"
+  },
+  {
+   "cn": "不透气材料",
+   "en": "non-breathable material",
+   "source": "消毒学",
+   "wordNumber": "3.1.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "空气、蒸汽等不能穿透的材料。可用于灭菌医疗器械的包装，包括但不限于塑料薄膜、塑料托盘、铝塑膜等。"
+  },
+  {
+   "cn": "非织造布",
+   "en": "non-woven fabric",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.16",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由定向或随机排列的纤维构成，具有布的外观和某些性能的材料。如多采用聚丙烯（pp材质）粒料为原料，经高温熔融、喷丝、铺纲、热压卷取连续一步法生产而成。"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整皮肤接触而不与黏膜接触的物品。"
+  },
+  {
+   "cn": "无包膜病毒",
+   "en": "non-enveloped virus",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "外表面没有包裹由糖蛋白和脂肪组成的囊膜的病毒。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

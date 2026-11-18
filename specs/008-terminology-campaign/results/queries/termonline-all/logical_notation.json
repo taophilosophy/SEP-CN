@@ -1,0 +1,702 @@
+{
+ "key": "logical notation",
+ "term": "logical notation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:23:19+00:00",
+ "status": "ok",
+ "note": "variant=logical notation; 审定公布名词库=2871; 海峡两岸名词对照库=1116; 其他来源数据库=97; 预公布名词数据库=98; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "标记符号",
+   "en": "notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.213",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "可以构成类目或概念标记的字符，如数字、字母、自然语言中的词及其缩写形式（文字标记）和其他符号。一般数字与字母可以单独构成分类标记，是基本的标记符号，词及其缩写和其他符号不能单独构成分类标记，是辅助的标"
+  },
+  {
+   "cn": "表示法",
+   "en": "notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0023",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "用于对模型进行表达的文字或图形符号体系。"
+  },
+  {
+   "cn": "μ记号",
+   "en": "μ-notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0923",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "形式系统中表示递归函数（不动点）的符号系统。"
+  },
+  {
+   "cn": "λ表示法",
+   "en": "λ-notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0903",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "λ演算系统中用来表示函数的方法。"
+  },
+  {
+   "cn": "颜色标号",
+   "en": "colour notation",
+   "source": "精细化工名词",
+   "wordNumber": "05.0427",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "（1）通过目视比较试样与《中国颜色体系标准样册》或《孟赛尔颜色图册》中色块而确定试样颜色的色调、明度和彩度。（2）根据试样在光源、2°视场并排除镜面光泽条件下测得的CIE系统刺激值（Y）和色度坐标（x"
+  },
+  {
+   "cn": "空间注记",
+   "en": "space notation",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.354",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "使用图画、照片、文字等形式对空间要素、使用和感受等进行的标注和记录。"
+  },
+  {
+   "cn": "整数标记制",
+   "en": "integer notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.162",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "将全部分类标记都视为整数的一种标记制度。在排列标记符号时，先按位数多少排列，位数相同时再从前往后逐位比较来决定次序的分类方法。区别于“小数标记制”。"
+  },
+  {
+   "cn": "层累标记制",
+   "en": "hierarchical notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "分类时以标记符号的长度显示类目等级层次的标记制度，即分类号的位数与类目的等级数相对应的标记制度。层累制的分类号可反映类目之间的隶属和并列关系。具体编号方法：用一位数字或一个字母来标志大类，再加一位数字"
+  },
+  {
+   "cn": "分段组合标记制",
+   "en": "faceted notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "分面标记制的一种类型。通常以特定符号表示主题的各个构成方面，从而使整个分类号由各个具有相对独立性的节段构成。可充分表达复杂主题的构成因子，但是号码冗长，成分复杂。"
+  },
+  {
+   "cn": "小数标记制",
+   "en": "decimal notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "将全部分类标记都视为小数的一种标记制度。是由纯阿拉伯数字构成的层累制分类标记的一种结构模式。其规则是采用0~9十个数字作为分类标记，每次可划分为十个类目，加一位数字予以标记。类目级位与分类号位数相对应"
+  },
+  {
+   "cn": "范畴号",
+   "en": "category notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.343",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "款目词在范畴索引中的类目归属，是查找范畴索引的依据。"
+  },
+  {
+   "cn": "回溯标记制",
+   "en": "retrospective notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.167",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "一种结构型标记制度。通过直接将分类表中的类号与位于其前的分面的类号组合，以表达一个复杂概念的类号。"
+  },
+  {
+   "cn": "let记号",
+   "en": "let-notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0922",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "函数式语言中一种描述函数（或语句）中变量取值的符号体系。"
+  },
+  {
+   "cn": "动作表示法",
+   "en": "action notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0873",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "动作语义描述中所使用的形式化表示方法。"
+  },
+  {
+   "cn": "入级标志",
+   "en": "class notation",
+   "source": "船舶工程名词",
+   "wordNumber": "01.148",
+   "subjectFullName": "船舶工程_船舶种类及船舶检验、国际公约和证书",
+   "subjectName": "船舶种类及船舶检验、国际公约和证书",
+   "publishYear": "1998",
+   "definition": "船级社在授予的入级符号后所附加的表征船舶类型、特种任务、货物种类、航区、冰区加强以及其他含义的一个或一组标志。"
+  },
+  {
+   "cn": "字母数字符号",
+   "en": "alphanumeric notation",
+   "source": "电气工程名词",
+   "wordNumber": "01.923",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "肯德尔记号",
+   "en": "Kendall notation",
+   "source": "数学名词",
+   "wordNumber": "011.0536",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "序数记号",
+   "en": "ordinal notation",
+   "source": "数学名词",
+   "wordNumber": "02.0290",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "顺序标记制",
+   "en": "non-hierachical notation,ordinal notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.169",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "利用标记符号固有的顺序来标记全部类目的分类标记制度。只标明类目排列次序，从号码长度上不能判断类目的上下位类及同位类关系，属于非结构型标记制。顺序标记制构成的分类号十分简短，不能显示类目之间的隶属和并列"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "通常指人们思考问题，从某些已知条件出发，推出合理的结论的规律。"
+  },
+  {
+   "cn": "记号",
+   "en": "notation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记法",
+   "en": "notation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比例记谱法",
+   "en": "proportional notation\",\"proportionate notation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有量记谱法",
+   "en": "mensural notation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记数信用证",
+   "en": "notation credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "八进制记数法",
+   "en": "octal notation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "十六进制记数法",
+   "en": "hexadecimal notation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二进制记数法",
+   "en": "binary notation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "点分十进制记法",
+   "en": "dotted decimal notation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record\",\"logic record",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑效度",
+   "en": "logical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑思维",
+   "en": "logical thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑表达",
+   "en": "logical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑查询",
+   "en": "logical query",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑单元",
+   "en": "logical unit",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑关系",
+   "en": "logical relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "工尺谱",
+   "en": "Gong-che Notation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑数据模型",
+   "en": "logical data model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程语言",
+   "en": "logic programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BAN类逻辑",
+   "en": "Burrows-Abadi-Needham (BAN) logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "否定",
+   "en": "negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0089",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部所包含促使事物发展和转化的方面，也指事物通过它转化为另一事物的关节点。唯物辩证法认为，否定是由事物内部矛盾运动引起的质变。"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.8",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "被认知为由共同历史、文化和共同祖先所连结起来的共同体。"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "马克思主义",
+   "wordNumber": "03.0115",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人类社会发展的一定历史阶段形成的社会共同体之一。它是在共同语言、共同地域、共同经济生活、共同文化上的共同心理素质的稳定的共同体，是人类进入阶级社会的产物。在人类社会发展到共产主义后，各民族将融为一体"
+  },
+  {
+   "cn": "资本循环",
+   "en": "rotation of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0190",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指产业资本从一定的职能形式出发，顺次经过购买、生产、销售三个阶段，分别地采取货币资本、生产资本、商品资本三种职能形式，实现了价值的增殖，并回到原来出发点的全过程。"
+  },
+  {
+   "cn": "公益捐赠",
+   "en": "charity donation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.29",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "自然人、法人或其他组织基于自愿原则，为支持社会公益事业而将自己有权处分的合法财产向相应的社会组织进行捐赠的活动。"
+  },
+  {
+   "cn": "辩证否定",
+   "en": "dialectical negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0093",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“抽象否定”相对。是事物的自我否定，是事物发展和相互联系的环节，其实质是“扬弃”。辩证的否定是辩证法的批判的革命的实质所在。"
+  },
+  {
+   "cn": "抽象否定",
+   "en": "abstract negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0094",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“辩证否定”相对，是完全否定的形而上学观点。它割裂肯定和否定之间的辩证关系，在绝对不相容的对立中思维，把肯定和否定对立起来，也就是否定中完全不存在肯定。认为否定就是否定一切，或宣布某一物不存在，或用"
+  },
+  {
+   "cn": "配子赠送",
+   "en": "gamete donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "自愿捐赠精子或者卵子的做法。我国相关法规规定，禁止以任何形式买卖精子、卵子和胚胎，严格禁止各种代孕行为。"
+  },
+  {
+   "cn": "卵子赠送",
+   "en": "oocyte donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "育龄妇女将卵子赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "精子赠送",
+   "en": "sperm donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "由人类精子库采集健康志愿供精者的精液，冻存并通过检疫后提供给男方患不可逆无精子症或有严重遗传疾病的不孕夫妇，以达到治疗不孕或优生的目的的做法。"
+  },
+  {
+   "cn": "胚胎赠送",
+   "en": "embryo donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "接受体外受精胚胎移植技术助孕的夫妇将胚胎赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "器官捐献",
+   "en": "organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.045",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "依据自然人生前意愿或死后其家属的共同意愿，将其部分或全部器官捐献给他人或医学科学事业的行为。"
+  },
+  {
+   "cn": "基因突变",
+   "en": "gene mutation",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "基因中DNA 序列的变化，包括碱基置换和移码突变两种类型。"
+  },
+  {
+   "cn": "基因组突变",
+   "en": "genomic mutation",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.4",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "基因组中染色体数目的改变。"
+  },
+  {
+   "cn": "洗消站",
+   "en": "decontamination station",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.8",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "对受到污染的人员、车辆、装备、服装等进行彻底洗消的场所。"
+  },
+  {
+   "cn": "否定之否定规律",
+   "en": "law of the negation of negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0222",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法的基本规律之一。揭示了事物在发展的过程中，由肯定到否定，再由否定到否定之否定，经过两次否定达到更高阶段的规律。表明事物由于内部矛盾所引起的发展是螺旋式上升、波浪式前进。它指明新事物代替旧事物"
+  },
+  {
+   "cn": "现代民族",
+   "en": "modern nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0033",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "马克思主义经典作家对近代以来民族所做的界定，具体包括资本主义民族和社会主义民族，前者指资本主义上升时期的民族或已进入资本主义社会的民族，后者是在推翻资本主义制度以后，在对旧式民族进行社会主义改造的基础"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

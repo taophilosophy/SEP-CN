@@ -1,0 +1,692 @@
+{
+ "key": "test function",
+ "term": "test function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:35:25+00:00",
+ "status": "ok",
+ "note": "variant=test function; 审定公布名词库=7890; 海峡两岸名词对照库=1756; 其他来源数据库=210; 预公布名词数据库=363; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "检验函数",
+   "en": "test function",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "检验函数",
+   "en": "test function,critical function",
+   "source": "数学名词",
+   "wordNumber": "09.0606",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "功能试验",
+   "en": "function test",
+   "source": "航海科技名词",
+   "wordNumber": "15.1048",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "功能测试",
+   "en": "functional test",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.015",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "为指出一条电路、设备或部分设备在实际工作情况下是否具有某些功能所做的测试。"
+  },
+  {
+   "cn": "功能测试",
+   "en": "function testing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.144",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "在电子出版物制作过程中，检测其每一部分是否符合功能设计要求的措施。"
+  },
+  {
+   "cn": "甲状腺功能检查",
+   "en": "thyroid function test",
+   "source": "普通外科学名词",
+   "wordNumber": "14.206",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "为评价甲状腺功能状态进行的血清学检查。包括甲状腺素、三碘甲腺原氨酸、促甲状腺激素、游离三碘甲腺原氨酸、游离甲状腺素、甲状腺球蛋白抗体、甲状腺过氧化物酶抗体等测定。"
+  },
+  {
+   "cn": "上睑提肌功能试验",
+   "en": "levator function test",
+   "source": "整形外科名词",
+   "wordNumber": "15.08",
+   "subjectFullName": "整形外科_眼睑整形与美容_眼部检查",
+   "subjectName": "眼部检查",
+   "publishYear": "2026",
+   "definition": "上睑提肌提升上睑功能的检查方法。以拇指按压眉骨阻断额肌作用，尽力向上看，上睑缘从下至上提高的幅度为上睑提肌肌力。根据提高幅度可判断上睑提肌肌力大小。"
+  },
+  {
+   "cn": "内分泌功能试验",
+   "en": "endocrine function test",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.099",
+   "subjectFullName": "总论_内分泌代谢性疾病诊断与治疗",
+   "subjectName": "内分泌代谢性疾病诊断与治疗",
+   "publishYear": "2025",
+   "definition": "通过药物激发或抑制激素分泌，评估腺体反馈调节能力，确定内分泌功能状态的试验。包括兴奋试验、抑制试验、负荷试验等。"
+  },
+  {
+   "cn": "性腺功能试验",
+   "en": "gonadal function test",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.109",
+   "subjectFullName": "总论_内分泌代谢性疾病诊断与治疗",
+   "subjectName": "内分泌代谢性疾病诊断与治疗",
+   "publishYear": "2025",
+   "definition": "通过给予外源性促性腺激素释放激素或促性腺激素，分别评估垂体分泌促性腺激素或性腺分泌性腺激素的能力，以判定下丘脑–垂体–性腺轴功能的试验。"
+  },
+  {
+   "cn": "前庭功能检查",
+   "en": "vestibular function test",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.3.6",
+   "subjectFullName": "耳科_耳检查法",
+   "subjectName": "耳检查法",
+   "publishYear": "2025",
+   "definition": "通过测试前庭自发性或诱发性体征，用以判断前庭系统的功能状态、病变部位与程度的方法。"
+  },
+  {
+   "cn": "平衡功能检查",
+   "en": "balance function test",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.3.6.1",
+   "subjectFullName": "耳科_耳检查法",
+   "subjectName": "耳检查法",
+   "publishYear": "2025",
+   "definition": "评价受试者在静态或动态条件下维持身体平衡能力的检查方法。"
+  },
+  {
+   "cn": "肺功能检查",
+   "en": "pulmonary function test",
+   "source": "麻醉学名词",
+   "wordNumber": "05.011",
+   "subjectFullName": "麻醉学_重症监护与治疗_重症医学病房",
+   "subjectName": "重症医学病房",
+   "publishYear": "2024",
+   "definition": "运用特定的手段和仪器对受试者的呼吸功能进行检测及评价。明确呼吸功能是否减退、减退程度和类型等，为疾病诊断提供依据，对治疗效果和病情发展进行评价；对外科手术的可行性和术后并发症进行评估；对呼吸困难的原因"
+  },
+  {
+   "cn": "性腺功能试验",
+   "en": "gonadal function test",
+   "source": "男科及性医学名词",
+   "wordNumber": "13.032",
+   "subjectFullName": "男科及性医学_男性性腺疾病及功能异常",
+   "subjectName": "男性性腺疾病及功能异常",
+   "publishYear": "2023",
+   "definition": "通过给予外源性促性腺激素释放激素或促性腺激素，分别评估垂体分泌促性腺激素或性腺分泌性腺激素的能力，以判定下丘脑-垂体-性腺轴功能的试验。"
+  },
+  {
+   "cn": "肝机能检验",
+   "en": "liver function test",
+   "source": "兽医学名词",
+   "wordNumber": "13.206",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "检测肝机能状态的实验室检查。包括蛋白质代谢的检验、胆红素代谢的检验、燃料摄取与排泄功能检验以及血清酶学检验等。"
+  },
+  {
+   "cn": "肝功能试验",
+   "en": "liver function test",
+   "source": "消化病学名词",
+   "wordNumber": "12.099",
+   "subjectFullName": "消化病_肝脏_肝脏疾病诊断",
+   "subjectName": "肝脏疾病诊断",
+   "publishYear": "2022",
+   "definition": "为发现肝脏损伤及了解、评估肝脏各种功能状态而开展的各种实验室检查方法。可反映肝脏代谢、分泌、合成、解毒及免疫功能和肝损伤状态。用于肝脏疾病的诊断、疗效评估和预后判断。"
+  },
+  {
+   "cn": "肺功能检查",
+   "en": "pulmonary function test",
+   "source": "烧伤学名词",
+   "wordNumber": "04.024",
+   "subjectFullName": "烧伤学_特殊类型烧伤_吸入性损伤",
+   "subjectName": "吸入性损伤",
+   "publishYear": "2019",
+   "definition": "采用一系列方法检测肺的气体交换功能。包括肺容量测定，肺通气功能测定，通气、血流在肺内分布及通气血流比例测定，气体弥散、肺顺应性、气道阻力、小气道功能等的测定，以及运动试验、动脉血气分析等。"
+  },
+  {
+   "cn": "精子功能试验",
+   "en": "sperm function test",
+   "source": "计划生育名词",
+   "wordNumber": "03.102",
+   "subjectFullName": "计划生育_计划生育临床_诊断_男性部分",
+   "subjectName": "男性部分",
+   "publishYear": "2019",
+   "definition": "用于评估精子受精能力的试验。"
+  },
+  {
+   "cn": "肺功能检查",
+   "en": "pulmonary function test",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.035",
+   "subjectFullName": "呼吸病学_肺功能_肺功能测定方法",
+   "subjectName": "肺功能测定方法",
+   "publishYear": "2018",
+   "definition": "运用特定的手段和仪器对受试者的呼吸功能进行的检测和评价。明确呼吸功能是否减退、减退程度和类型等，为疾病诊断提供依据，对治疗效果和病情发展进行评价；对外科手术的可行性和术后并发症的发生进行评估；对呼吸困"
+  },
+  {
+   "cn": "肺功能检查",
+   "en": "pulmonary function test",
+   "source": "老年医学名词",
+   "wordNumber": "04.118",
+   "subjectFullName": "老年医学_老年临床医学_老年呼吸系统疾病",
+   "subjectName": "老年呼吸系统疾病",
+   "publishYear": "2017",
+   "definition": "肺通气和换气功能的检查。用以获得肺生理及病理状态指标测量值，对肺做出质与量的评价，明确肺病理变化对功能损伤的程度和类型，快速缩小鉴别诊断的范围，提示并指导进一步的诊疗计划和对劳动力、手术耐受性等能力的"
+  },
+  {
+   "cn": "言语功能测试",
+   "en": "speech function test",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0247",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "功能试验",
+   "en": "function test",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功能测试",
+   "en": "functional test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测验特征函数",
+   "en": "test characteristic function",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功能无关测试",
+   "en": "function-independent testing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测试",
+   "en": "test\",\"testing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "台架试验",
+   "en": "testing-bed test",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测试",
+   "en": "testing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "心理测验",
+   "en": "mental test\",\"psychological test\",\"psychological testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "黏附试验",
+   "en": "adhesion test\",\"adhesive test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对照试验",
+   "en": "contrast test\",\"control test",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "测试台",
+   "en": "test desk\",\"test bench",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳步测试",
+   "en": "galloping test\",\"leapfrog test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性试验",
+   "en": "destructive test\",\"destruction test",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "卡方检验，χ2 检验",
+   "en": "chi-square test（=χ2-test）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "团体测验",
+   "en": "group test\",\"group testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "检漏试验",
+   "en": "leak testing （=leak test）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦试验",
+   "en": "friction test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "测试文本",
+   "en": "test text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测交",
+   "en": "test cross",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发芽试验",
+   "en": "germination test",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "兴奋剂检测",
+   "en": "dope test\",\"doping test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科目",
+   "en": "reprise\",\"test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "渗透测试",
+   "en": "Penetration Test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "检测样本",
+   "en": "test sample",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "试剂盒",
+   "en": "test kit",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假设检验",
+   "en": "hypothesis testing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件测试",
+   "en": "software testing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.15",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "对于能罩住口和鼻、与面部密合的防护口罩，或能罩住眼睛、口和鼻、与头面部密合的面罩，确定其对使用者适合程度的检验。"
+  },
+  {
+   "cn": "泄露测试",
+   "en": "leak test",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.13",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于检测封闭腔体的密闭情况，以确保灭菌器能够正常运行并防止可能危险的测试方法。通常应用于消毒灭菌过程的开始阶段，以确保消毒灭菌过程中的蒸汽、环氧乙烷气体、蒸汽甲醛等气体不会发生泄漏。"
+  },
+  {
+   "cn": "产品检验",
+   "en": "production test",
+   "source": "消毒学",
+   "wordNumber": "5.1.11",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "对消毒产品质量进行检验的过程。"
+  },
+  {
+   "cn": "崩解试验",
+   "en": "disintegration test",
+   "source": "消毒学",
+   "wordNumber": "6.1.14",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "采用升降式崩解仪，在一定条件下测得的固体消毒剂全部崩解并通过筛网所需时间的试验。"
+  },
+  {
+   "cn": "稳定性试验",
+   "en": "stability test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "通过比较长期试验和加速试验前后有效成分的含量或杀灭微生物能力的变化来评价其稳定性，测定消毒剂有效期的试验。"
+  },
+  {
+   "cn": "消毒学试验",
+   "en": "disinfectionology test",
+   "source": "消毒学",
+   "wordNumber": "6.2",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "评价消毒产品杀灭、清除和抑制有害微生物效果和影响因素的试验，通常包括实验室试验、模拟现场试验和现场试验三个阶段。"
+  },
+  {
+   "cn": "试验微生物",
+   "en": "test microorganism",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒试验中使用的微生物，如铜绿假单胞菌、枯草杆菌黑色变种芽孢、脊髓灰质炎病毒Ⅰ型疫苗株。"
+  },
+  {
+   "cn": "定量试验",
+   "en": "quantitative test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以活菌计数或病毒滴度测量值为结果判定标准的试验方法。"
+  },
+  {
+   "cn": "定性试验",
+   "en": "qualitative test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以阴性或阳性为结果判定标准的试验方法。包括定性消毒试验和定性灭菌试验。"
+  },
+  {
+   "cn": "载体试验",
+   "en": "carrier test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验微生物附着于载体，用于测试消毒因子对试验微生物杀灭效果的消毒实验室试验。"
+  },
+  {
+   "cn": "悬液试验",
+   "en": "suspension test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验微生物悬浮于液体介质中，用于测试消毒因子对试验微生物杀灭效果的消毒实验室试验。"
+  },
+  {
+   "cn": "细菌杀灭试验",
+   "en": "bactericidal test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在标准实验条件下，以悬液法或载体法测试消毒因子对试验菌杀灭效果的试验。"
+  },
+  {
+   "cn": "能量试验",
+   "en": "energy test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价连续加入细菌悬液对消毒剂杀菌作用的影响，确定消毒剂用于多次消毒污秽物品时的实用剂量的试验，如浸洗拖布的消毒液、浸泡污染医疗器械的消毒液、浸泡洗手消毒液等。"
+  },
+  {
+   "cn": "灭菌试验",
+   "en": "sterilization test",
+   "source": "消毒学",
+   "wordNumber": "6.2.29",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价消毒剂或消毒器械灭菌效果的试验。"
+  },
+  {
+   "cn": "鲎试验",
+   "en": "limulus test",
+   "source": "消毒学",
+   "wordNumber": "6.2.31",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "利用鲎试剂与细菌内毒素及β-葡聚糖反应，检测食品、水源、药品、医疗器械、动物体液等不同样品中的内毒素含量的试验。"
+  },
+  {
+   "cn": "无菌检验",
+   "en": "sterility test",
+   "source": "消毒学",
+   "wordNumber": "6.2.33",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "为确定单元产品或其部分上有无活微生物而进行的检验。"
+  },
+  {
+   "cn": "抗菌试验",
+   "en": "antibacterial test",
+   "source": "消毒学",
+   "wordNumber": "6.2.34",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "检测与评价产品抗菌能力的试验方法。"
+  },
+  {
+   "cn": "浸渍试验",
+   "en": "immersion test",
+   "source": "消毒学",
+   "wordNumber": "6.2.34.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验菌悬液滴染于抗菌织物样片上，样片上浸出的抗菌物质和试验菌的作用，测定抗菌织物抗菌效果，评价溶出性抗菌织物抗菌效果的试验方法。"
+  },
+  {
+   "cn": "奎因试验",
+   "en": "quine test",
+   "source": "消毒学",
+   "wordNumber": "6.2.34.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验菌悬液滴染于硬质抗菌样片上，覆盖以培养基，使试验菌与抗菌样片充分接触，评价非溶出性硬质表面抗（抑）菌产品抗菌效果的试验方法。"
+  },
+  {
+   "cn": "贴膜试验",
+   "en": "film test",
+   "source": "消毒学",
+   "wordNumber": "6.2.34.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验菌悬液滴染于抗菌材料样品表面，用塑料薄膜覆盖使两者充分接触，用于评价硬质材料表面的抗菌效果的试验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

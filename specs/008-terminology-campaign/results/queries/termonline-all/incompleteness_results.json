@@ -1,0 +1,672 @@
+{
+ "key": "incompleteness results",
+ "term": "incompleteness results",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:30:35+00:00",
+ "status": "ok",
+ "note": "variant=incompleteness results; 审定公布名词库=230; 海峡两岸名词对照库=55; 其他来源数据库=24; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "结式",
+   "en": "resultant",
+   "source": "数学名词",
+   "wordNumber": "04.0553",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实验结果",
+   "en": "experimental result",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.081",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "实验过程中观察和记录得到的各种实验现象、实验数据等。"
+  },
+  {
+   "cn": "测量结果",
+   "en": "measurement result",
+   "source": "电力名词",
+   "wordNumber": "02.131",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "与其他有用的相关信息一起赋予被测量的一组量值。测量结果通常包含这组量值的相关信息。测量结果通常表示为单个被测量的量值和一个测量不确定度。"
+  },
+  {
+   "cn": "检索结果",
+   "en": "search result",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.149",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "检索工具或检索系统在执行检索过程后，用户得到的满足检索要求的查找结果。"
+  },
+  {
+   "cn": "零结果",
+   "en": "zero result",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.178",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "整个查找程序结束后未得到任何成效或满足需求的结果的现象。"
+  },
+  {
+   "cn": "未修正结果",
+   "en": "uncorrected result",
+   "source": "计量学名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "系统误差修正前的测量结果。"
+  },
+  {
+   "cn": "已修正结果",
+   "en": "corrected result",
+   "source": "计量学名词",
+   "wordNumber": "01.091",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "系统误差修正后的测量结果。"
+  },
+  {
+   "cn": "结果激励",
+   "en": "result encourage",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.239",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "该激励包括在完全激励之中，它表示对一项工作的期望值与任务完成后导致的外在奖励的期望值以及外在奖励的效价综合的奖励评价。"
+  },
+  {
+   "cn": "已修正结果",
+   "en": "corrected result",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.135",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "未修正结果",
+   "en": "uncorrected result",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.134",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "显著性结果",
+   "en": "significant result",
+   "source": "电子学名词",
+   "wordNumber": "18.012",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "仿真结果",
+   "en": "simulation result",
+   "source": "自动化名词",
+   "wordNumber": "04.652",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "测量结果",
+   "en": "measurement result,result of measurement",
+   "source": "计量学名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "与其他有用的相关信息一起赋予被测量的一组量值。"
+  },
+  {
+   "cn": "合成不平衡",
+   "en": "resultant unbalance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0238",
+   "subjectFullName": "机械工程（一）_机械动力学_平衡与平衡装备",
+   "subjectName": "平衡与平衡装备",
+   "publishYear": "2021",
+   "definition": "沿转子分布的所有不平衡矢量的矢量和。"
+  },
+  {
+   "cn": "合力偶",
+   "en": "resultant couple",
+   "source": "物理学名词",
+   "wordNumber": "02.0563",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合速度",
+   "en": "resultant velocity",
+   "source": "物理学名词",
+   "wordNumber": "02.0325",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合力",
+   "en": "resultant force",
+   "source": "物理学名词",
+   "wordNumber": "02.0332",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合力",
+   "en": "resultant force",
+   "source": "建筑学名词",
+   "wordNumber": "13.0003",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "两个及两个以上力交会时形成的力。两个以上的分力的合力，可用“力的多边形法”求出。"
+  },
+  {
+   "cn": "结果补语",
+   "en": "resultive complement",
+   "source": "语言学名词",
+   "wordNumber": "04.209",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "补语的一种。由单个动词或形容词充当，而且直接与述语动词相连接，表示动作行为的结果。例如，“洗〈干净〉”“学〈会〉”。"
+  },
+  {
+   "cn": "结果宾语",
+   "en": "resultive object",
+   "source": "语言学名词",
+   "wordNumber": "04.195",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "宾语的一种。在语义上是述语动词所表示的动作的结果。例如，“盖房子”“写信”。"
+  },
+  {
+   "cn": "生成物",
+   "en": "resultant",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合力",
+   "en": "resultant",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不完全性",
+   "en": "incompleteness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "显著性结果",
+   "en": "significant result",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合成风",
+   "en": "resultant wind",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合成音",
+   "en": "resultant tone",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不完全性理论",
+   "en": "incompleteness theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全再生",
+   "en": "incomplete regeneration",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "不完全显性",
+   "en": "incomplete dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全合同",
+   "en": "incomplete contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不完全票据",
+   "en": "incomplete bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不完全变态",
+   "en": "incomplete metamorphosis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全外显率",
+   "en": "incomplete penetrance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抗体",
+   "en": "incomplete antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抗原",
+   "en": "incomplete antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全吞噬",
+   "en": "incomplete phagocytosis",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抗原",
+   "en": "incomplete antigen",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全冗余",
+   "en": "incomplete redundancy",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全显性",
+   "en": "incomplete dominance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不完全连锁",
+   "en": "incomplete linkage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "比赛结果",
+   "en": "result",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "results card\",\"results sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "results sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "result sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "result card",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抱",
+   "en": "incomplete hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵容不完整球队",
+   "en": "incomplete team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确认比赛结果",
+   "en": "verify the results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最终成绩单",
+   "en": "final results list",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩",
+   "en": "performance\",\"result\",\"score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定级结果组合",
+   "en": "combination of classification results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宣告结果",
+   "en": "announcement of the results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛成绩",
+   "en": "final time\",\"final result",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "官方结果",
+   "en": "official result\",\"official score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "table of results\",\"tournament table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对计时和成绩的抗议",
+   "en": "protest concerning timing and results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩单",
+   "en": "result sheet\",\"score- list\",\"scoresheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有病不治，常得中医",
+   "en": "Self-treating an Illness Can Usually Get a Good Result.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 10092-2009 数据的统计处理和解释 测试结果的多重比较》",
+   "en": "GB/T 10092-2009 Statistical interpretation of data — Multiple comparison for test results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“双随机一公开”监管平台",
+   "en": "platform for oversight through random selection of both inspectors and entities and public release of results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "残缺家庭",
+   "en": "incomplete family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.18",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "核心家庭中配偶一方因离婚、死亡、出走、分居等原因致使家庭成员不全的家庭。相对于完整家庭而言。"
+  },
+  {
+   "cn": "监测结果报告",
+   "en": "monitoring results report",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生健康体检机构在结束检查后，反馈学生个体和群体体检项目的客观结果、健康评价结果并给出健康指导建议的资料。"
+  },
+  {
+   "cn": "抽检结果",
+   "en": "sampling inspection result",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.5",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品抽样、检验后产生的数据和检验结论。"
+  },
+  {
+   "cn": "检查结果处理",
+   "en": "examination result processing",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.22",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "针对职业健康检查结果给出的处理意见，包括复查或其他处理意见。"
+  },
+  {
+   "cn": "异常结果调查",
+   "en": "investigation of abnormal result",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "当工作人员职业外照射个人监测结果超过调查水平时进行的调查。"
+  },
+  {
+   "cn": "妇女常见病筛查异常管理",
+   "en": "management of abnormal result of woman's common disease screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "对妇女常见病筛查中发现的异常或可疑患者进行追踪、随访、诊断或治疗的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

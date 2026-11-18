@@ -1,0 +1,752 @@
+{
+ "key": "bodily resurrection",
+ "term": "bodily resurrection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:18:03+00:00",
+ "status": "ok",
+ "note": "variant=bodily resurrection; 审定公布名词库=1452; 海峡两岸名词对照库=333; 其他来源数据库=44; 预公布名词数据库=61; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "人身伤害",
+   "en": "bodily injury",
+   "source": "电气工程名词",
+   "wordNumber": "29.025",
+   "subjectFullName": "电气工程_电气安全",
+   "subjectName": "电气安全",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "平离",
+   "en": "leaving bodily",
+   "source": "航海科技名词",
+   "wordNumber": "09.0110",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "躯体痛苦障碍",
+   "en": "bodily distress disorder",
+   "source": "行为医学名词",
+   "wordNumber": "16.185",
+   "subjectFullName": "行为医学_其他神经行为障碍_躯体痛苦及躯体体验障碍",
+   "subjectName": "躯体痛苦及躯体体验障碍",
+   "publishYear": "2022",
+   "definition": "涉及各种使个体感到痛苦不适的躯体症状，同时个体对这些症状过度或超出限度关注的精神障碍。"
+  },
+  {
+   "cn": "形体感知综合障碍",
+   "en": "bodily psychosensory disturbance",
+   "source": "精神医学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者感到自己体形发生了明显变化的一种感觉障碍。如觉得头变得很大，或四肢变得细如钢丝等。"
+  },
+  {
+   "cn": "躯体痛苦及躯体体验障碍",
+   "en": "disorder of bodily distress and bodily experience",
+   "source": "行为医学名词",
+   "wordNumber": "16.184",
+   "subjectFullName": "行为医学_其他神经行为障碍_躯体痛苦及躯体体验障碍",
+   "subjectName": "躯体痛苦及躯体体验障碍",
+   "publishYear": "2022",
+   "definition": "个体对自身躯体体验的紊乱。包含躯体痛苦障碍和躯体完整性烦恼。"
+  },
+  {
+   "cn": "地震体波",
+   "en": "seismic body wave,bodily seismic wave",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋CT",
+   "en": "spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "X射线管和探测器围绕被检者连续旋转，检查床以一定的速度纵向连续移动，X射线连续曝光并采集数据，扫描轨迹呈螺旋状的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "造影CT",
+   "en": "angiogram computed tomography,angiogram CT",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "利用阳性或阴性对比剂使被检查器官或结构与周围形成密度差，然后再行CT扫描的检查方法。分为血管造影CT、非血管造影CT和CT血管成像三种。"
+  },
+  {
+   "cn": "CT透视",
+   "en": "CT fluoroscopy",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "结合快速扫描、快速重建和快速显示技术，实现CT影像实时显示的一种扫描方法。主要用于CT引导下的穿刺活检或介入治疗。"
+  },
+  {
+   "cn": "C臂CT",
+   "en": "C-arm computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.070",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "利用C臂带动X射线管和平板探测器围绕人体做旋转运动，探测器进行旋转采集，获得容积扫描数据，经计算机重建获得类似CT影像的一种技术。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "器官移植学名词",
+   "wordNumber": "07.015",
+   "subjectFullName": "器官移植学_器官移植影像学",
+   "subjectName": "器官移植影像学",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减的值。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "神经病学名词",
+   "wordNumber": "05.049",
+   "subjectFullName": "神经病学_神经病诊断技术_神经影像学",
+   "subjectName": "神经影像学",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是 Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。脑灰质的CT值为（36 ±4）Hu，脑"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.096",
+   "subjectFullName": "放射医学与防护_医用放射防护_放射诊断",
+   "subjectName": "放射诊断",
+   "publishYear": "2014",
+   "definition": "用来表示与X射线CT影像每个像素对应区域相关的X射线衰减平均值的量。通常以Hu为单位。某物质CT值的表达式为：<img src='/root/syzx/static/spz/fangshefanghu"
+  },
+  {
+   "cn": "螺旋CT",
+   "en": "spiral CT",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.080",
+   "subjectFullName": "放射医学与防护_医用放射防护_放射诊断",
+   "subjectName": "放射诊断",
+   "publishYear": "2014",
+   "definition": "扫描轨迹呈螺旋状前进，可快速、不间断地完成容积扫描的装置。分为单层螺旋CT、双层螺旋CT和多层螺旋CT。"
+  },
+  {
+   "cn": "大孔径CT",
+   "en": "big aperture computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像设备",
+   "subjectName": "计算机体层成像设备",
+   "publishYear": "2020",
+   "definition": "扫描机架孔径尺寸较大的（一般大于70cm），主要用于放疗定位的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "非螺旋CT",
+   "en": "non-spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.040",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "每一层面扫描时检查床不动，X射线管和探测器围绕被检者旋转一周，完成一次数据采集，然后移动检查床，进行下一层面的数据采集，直至所需检查部位全部扫描完成，扫描轨迹呈不连续的环形的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "双源CT",
+   "en": "dual source computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "在扫描机架内安装有两套X射线管和两套探测器系统的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "单排螺旋CT",
+   "en": "single row spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.045",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "在机架Z轴方向上只有一排探测器的螺旋 CT。"
+  },
+  {
+   "cn": "CT值线性",
+   "en": "CT number linearity",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.056",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "物质的X射线衰减系数与影像学上所表现的CT值之间的线性关系。"
+  },
+  {
+   "cn": "复活交响曲",
+   "en": "Resurrection Symphony",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mahler, Gustav"
+  },
+  {
+   "cn": "平离",
+   "en": "leaving bodily",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "身体-运动智力",
+   "en": "bodily kinesthetic intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胎",
+   "en": "body",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "泛油",
+   "en": "oily",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "板层小体",
+   "en": "lamellar body\",\"multilamellar body",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "摄动体",
+   "en": "disturbing body\",\"perturbing body",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "受摄体",
+   "en": "disturbed body\",\"perturbed body",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "含油污水",
+   "en": "oily sewage\",\"oily water",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "荧光小体,F小体",
+   "en": "fluorescence body\",\"F body",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "包含体",
+   "en": "inclusion body\",\"occluded body",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "一级水手",
+   "en": "able-bodied seaman\",\"AB",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "甲体",
+   "en": "nail body\",\"body of nail",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "上颌体",
+   "en": "body of maxilla\",\"maxillary body",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体",
+   "en": "body",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体波浪",
+   "en": "body wave",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手线",
+   "en": "body wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手线",
+   "en": "body wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体阻挡",
+   "en": "body checking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "假动作",
+   "en": "body fake\",\"body feint\",\"fake\",\"feint",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "身体",
+   "en": "body",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "哲学传统中意指相对于灵魂的躯体，即生物事实以外的，以文化事实、社会事实为基础的肉体表达系统。"
+  },
+  {
+   "cn": "身体政治",
+   "en": "body politics",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.19",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女性主义的一个核心议题。认为女性身体既是父权制下被物化和规训的客体，同时也是女性赋权的工具。身体本身是性别政治和权力支配的产物，但也可以作为一种政治抗争的武器。"
+  },
+  {
+   "cn": "身体研究",
+   "en": "body studies",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.6",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "探讨高度现代性社会条件下人与其身体之间关联方式的反思性，亦即自我、身体与死亡之间关系的文明化身体的跨学科研究。"
+  },
+  {
+   "cn": "身体语言",
+   "en": "body language",
+   "source": "社会学名词",
+   "wordNumber": "4.1.14.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_沟通",
+   "subjectName": "沟通",
+   "publishYear": "2025",
+   "definition": "非语词性的身体符号，包括目光与面部表情、身体运动与触摸、身体姿势与外表、身体之间的空间距离等。"
+  },
+  {
+   "cn": "关节游离体",
+   "en": "loose body",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "剥脱性骨软骨炎、关节内骨软骨骨折、骨性关节炎和滑膜软骨瘤病骨造成的脱落碎屑或骨块形成的游离体。其在关节内游离移动时引起关节绞锁、疼痛和活动障碍。以膝、肘、髋和踝关节多见。"
+  },
+  {
+   "cn": "米粒体",
+   "en": "rice body",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.8",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "在关节腔内或滑囊内,多发的类似于米粒大小的游离体。大部分表面光滑,直径通常为2~7mm,位于积液内，形成米粒体性滑囊炎。部分学者认为米粒体是脱落的滑膜的微梗死灶被滑液中的纤维蛋白包裹所致；还有研究认为"
+  },
+  {
+   "cn": "风湿小体",
+   "en": "Aschoff body",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.29",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "风湿病的增生期或肉芽肿期，心肌间质，心内膜下和皮下结缔组织中，在胶原纤维间水肿，基质蛋白多糖增多，纤维素样坏死的基础上，出现巨噬细胞增生、聚集，吞噬纤维素样坏死物后所形成的风湿细胞。小体中心有类纤维蛋"
+  },
+  {
+   "cn": "体型",
+   "en": "body shape",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "身体各部位大小比例的形态特征总和。"
+  },
+  {
+   "cn": "身体成分",
+   "en": "body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "组成人体质量的各组成成分的含量，包括肌肉、骨骼、脂肪、水和矿物质等。"
+  },
+  {
+   "cn": "体重",
+   "en": "body weight",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "称量得到的身体重量。是营养状况评定中最简单又重要的指标。"
+  },
+  {
+   "cn": "异物",
+   "en": "foreign body",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据加工要求或食品标准不应该含有的物质。既包括食品原辅料本身含有，但产品要求剔除的物质，如肉中的骨头，菜中的菜根，也包括原本不属于食品原辅料的一部分而混入产品的物质，如金属和杂草等。"
+  },
+  {
+   "cn": "全身挤压伤",
+   "en": "body squeeze",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.3.2.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "潜水员作业时，因下潜过快、供气不足或中断、排气过度等，致潜水服内压低于外界水压，软质潜水服内气体挤入金属硬质头盔，使身体下部血液和淋巴液挤向头、颈、上胸部，引发组织损伤的疾病。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

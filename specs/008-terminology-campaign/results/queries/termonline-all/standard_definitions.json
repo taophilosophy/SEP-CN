@@ -1,0 +1,752 @@
+{
+ "key": "standard definitions",
+ "term": "standard definitions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:19:04+00:00",
+ "status": "ok",
+ "note": "variant=standard definitions; 审定公布名词库=1376; 海峡两岸名词对照库=453; 其他来源数据库=280; 预公布名词数据库=132; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "医学影像技术学名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "医学影像技术学_普通X射线成像技术_普通X射线成像基础",
+   "subjectName": "普通X射线成像基础",
+   "publishYear": "2020",
+   "definition": "影像能够反映被测物体微细结构的综合能力。受分辨力、模糊度、颗粒程度及再现性等影响。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0272",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0690",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "影像上各细部影纹及其边界的清晰程度。"
+  },
+  {
+   "cn": "义界",
+   "en": "definition",
+   "source": "语言学名词",
+   "wordNumber": "10.030",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用定义来表述词义内容的训释方式。典型的义界结构是“义值差+主训词”。例如“观，谛视也”，其中“谛”为义值差，“视”为主训词。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.257",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "数学名词",
+   "wordNumber": "01.0012",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "电子学名词",
+   "wordNumber": "10.261",
+   "subjectFullName": "电子学_真空电子学",
+   "subjectName": "真空电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有定",
+   "en": "definite",
+   "source": "语言学名词",
+   "wordNumber": "04.098",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“无定”相对。语法和语义学术语。名词的语法性质之一，指说话人认为听说双方都能识别确认的对象。例如“客人来了”里的“客人”就是有定的。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition,intelligibility",
+   "source": "建筑学名词",
+   "wordNumber": "10.0254",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "表征语言单位可被识别的程度。脉冲响应中的有益声能(对清晰度有帮助的声能，取直达声能和50ms以内的反射声能)占全部声能的比例。符号为D，单位为dB(分贝)。"
+  },
+  {
+   "cn": "显定义",
+   "en": "explicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.039",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念给出了完整与准确意义的定义。"
+  },
+  {
+   "cn": "隐定义",
+   "en": "implicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.040",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念的定义中出现的其他概念所作的定义。"
+  },
+  {
+   "cn": "操作定义",
+   "en": "operational definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.041",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "可以通过一系列操作性陈述来给出定义。"
+  },
+  {
+   "cn": "实指定义",
+   "en": "ostensive definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.042",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "当概念的意义难以用语言定义时，可以通过举出例证的方法来给出。"
+  },
+  {
+   "cn": "非直谓定义",
+   "en": "impredicative definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.267",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "违反恶性循环原则的定义或刻画。常见于古典数学（如有界实数集的“上确界”的定义）和日常表达（如对“这个屋子里个子最高的人”的刻画）。"
+  },
+  {
+   "cn": "内含子界定",
+   "en": "intron definition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0261",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "由剪接因子同时识别内含子5′剪接位点、分支点及3′剪接位点的过程。多见于小内含子（100～300个核苷酸）的剪接，如酿酒酵母含内含子的基因。"
+  },
+  {
+   "cn": "外显子界定",
+   "en": "exon definition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0262",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "由剪接因子识别3′剪接位点和下一个内含子5′剪接位点，形成一个跨外显子复合物、进而将其转换为跨内含子复合物的过程。"
+  },
+  {
+   "cn": "操作定义",
+   "en": "operational definition",
+   "source": "物理学名词",
+   "wordNumber": "08.0118",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "流程定义",
+   "en": "process definition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0155",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "工作流技术中对业务流程步骤的描述。它由若干个活动组成。包括流程的基本信息、流程的开始和结束条件、组成的活动、活动间流转的规则以及流程相关数据等信息。"
+  },
+  {
+   "cn": "问题定义",
+   "en": "problem definition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0081",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "问题的叙述。包括用于解决问题的数据、方法、过程和算法的描述。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作性定义",
+   "en": "operational definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念定义",
+   "en": "conceptual definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "属性定义",
+   "en": "attribute definition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据定义",
+   "en": "data definition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "弧定义",
+   "en": "arc definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "弦定义",
+   "en": "chord definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定义阶段",
+   "en": "definition phase",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文件定义",
+   "en": "file definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "周期性定义",
+   "en": "period definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定义性出现",
+   "en": "definitional occurrence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有限花序",
+   "en": "definite inflorescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "既定轨道",
+   "en": "definitive orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "确定时",
+   "en": "definitive time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "正式命名",
+   "en": "definite designation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "确定保险",
+   "en": "definite insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定价格",
+   "en": "definite price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定使用货币",
+   "en": "definitive money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定询价",
+   "en": "definite inquiry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数据域定义标准",
+   "en": "data domain definition standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准主体定义",
+   "en": "definition of standard subjects",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准设计和定义",
+   "en": "data standard design and definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超高清",
+   "en": "Ultra High Definition",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公益界定",
+   "en": "public interest definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "日本标准化组织相关标准",
+   "en": "Japanese Standards Association Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准术语",
+   "en": "Standard Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元数据标准",
+   "en": "metadata standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准组织实施",
+   "en": "Standard Implementation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准系统",
+   "en": "standard system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准培训",
+   "en": "standard training",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据库标准",
+   "en": "database standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病例定义",
+   "en": "case definition",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "通过明确的临床诊断标准及对时间、空间和人群的限值确定的标准化条件，用于确定某个体是否处于某种健康相关状况。"
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "按照规定的程序经协商一致制定并由公认机构批准，共同使用和重复使用的规则、导则、指南或特性的文件，旨在一定范围内获得最佳秩序。"
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "为了在既定范围内获得最佳秩序，促进共同效益，对现实问题或潜在问题确立共同使用和重复使用的条款以及编制、发布和应用标准的活动。"
+  },
+  {
+   "cn": "行业标准",
+   "en": "sector standard，industry standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "对没有国家标准而又需要在全国某个行业范围内统一技术要求，由国务院有关行政主管部门组织制定的公益类标准。"
+  },
+  {
+   "cn": "产前诊断确诊率",
+   "en": "prenatal definite diagnosis rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.22",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区接受产前诊断的孕产妇中确诊的先天性缺陷和/或遗传性疾病的人数，与同期当地孕产妇产前诊断人数之比。"
+  },
+  {
+   "cn": "标准预防",
+   "en": "standard prevention",
+   "source": "消毒学",
+   "wordNumber": "1.7.2",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "基于患者的血液、体液、分泌物(不包括汗液)、排泄物、非完整皮肤和黏膜均可能具有传染性的原则，针对医疗机构所有患者和医务人员采取的一组预防感染的措施。包括手卫生，并根据预期可能的暴露选用手套、面罩、隔离"
+  },
+  {
+   "cn": "基准物质",
+   "en": "primary standard",
+   "source": "消毒学",
+   "wordNumber": "6.1.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有确定的化学组成和足够的纯度，性质稳定，可用于直接配制标准溶液或标定滴定分析中操作溶液的物质。"
+  },
+  {
+   "cn": "标准物质",
+   "en": "standard substance",
+   "source": "消毒学",
+   "wordNumber": "6.1.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有一种或多种足够均匀和精确确定了特性值、用以校准设备、评价测量方法或给材料赋值的纯的或混合的气体、液体或固体物质。"
+  },
+  {
+   "cn": "标准溶液",
+   "en": "standard solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.7",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "已知其主体成分准确浓度或其他特性量值的溶液。"
+  },
+  {
+   "cn": "标准样品",
+   "en": "standard sample",
+   "source": "消毒学",
+   "wordNumber": "6.1.9",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "足够均匀，具有一个或多个精确特性量值，可作为其他测量值是否准确的参照标准的样品。"
+  },
+  {
+   "cn": "标准菌株",
+   "en": "standard strain",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "由国内或国际菌种保藏机构保藏，遗传学特性得到确认和保证并可追溯的菌株。是在给某细菌定名、分类记载和发表时，为了使定名准确和作为分类概念的准则，以纯粹活菌（可繁殖）状态所保存的菌种。"
+  },
+  {
+   "cn": "生物安全标准",
+   "en": "biosafety standard",
+   "source": "消毒学",
+   "wordNumber": "7.1.1",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "用于规范生物安全领域相关研究、开发、生产、检验和应用等活动，经协商一致制定并由公认机构批准，共同使用和重复使用的规范性文件。"
+  },
+  {
+   "cn": "标准不确定度",
+   "en": "standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.23",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "以标准偏差表示的测量不确定度。"
+  },
+  {
+   "cn": "国际标准",
+   "en": "international standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "国际标准化组织（ISO）、国际电工委员会（IEC）和国际电信联盟（ITU）制定的标准，以及国际标准化组织确认并公布的其他国际组织制定的标准。"
+  },
+  {
+   "cn": "区域标准",
+   "en": "regional standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由区域标准化组织或区域标准组织通过并公开发布的标准。"
+  },
+  {
+   "cn": "国家标准",
+   "en": "national standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由国家标准机构通过并公开发布的标准。此类标准的标准代号，强制性使用GB，推荐性使用GB/T。"
+  },
+  {
+   "cn": "地方标准",
+   "en": "local standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "为满足地方自然条件、风俗习惯等特殊技术要求，由省级标准化行政主管部门和经其批准的设区的市级标准化行政主管部门在农业、工业、服务业以及社会事业等领域制定的在本行政区域内适用的标准。"
+  },
+  {
+   "cn": "团体标准",
+   "en": "association standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "依法成立的社会团体为满足市场和创新需要，协调相关市场主体共同制定的、供团体成员或社会自愿采用的标准。"
+  },
+  {
+   "cn": "企业标准",
+   "en": "enterprise standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.7",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由企业通过供该企业使用的标准。"
+  },
+  {
+   "cn": "强制性标准",
+   "en": "mandatory standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.8",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "保障人身健康和财产安全的标准以及法律、行政法规规定强制执行的标准。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

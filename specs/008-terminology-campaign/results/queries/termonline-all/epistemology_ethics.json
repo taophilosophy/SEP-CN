@@ -1,0 +1,782 @@
+{
+ "key": "epistemology ethics",
+ "term": "epistemology ethics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:30:58+00:00",
+ "status": "ok",
+ "note": "variant=epistemology ethics; 审定公布名词库=255; 海峡两岸名词对照库=47; 其他来源数据库=31; 预公布名词数据库=288; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "研究知识的本质、知识的辩护以及信念的合理性的哲学分支。"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "研究认识的本质及其发展过程的哲学理论。对心理学研究者的科学观与方法论都有重要影响。"
+  },
+  {
+   "cn": "进化认识论",
+   "en": "evolutionary epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认识论的一种自然主义进路，即强调自然选择在感知和认知机制的适应性形成中的作用。"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.501",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "瑞士心理学家J. 皮亚杰（J. Piaget）提出的一种研究认识（知识）的结构、发生、发展过程及其心理起源的学说。主张把建构主义与结构主义统一起来，将认识论作为目标和起点，采用发生学的方法，以儿童心智"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.818",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "通过社会互动来为集体知识提供理性证成的认识论观点。也指从社会维度对知识和信息的评价，或更简单地理解为社会互动的维度可以提供认知辩护。"
+  },
+  {
+   "cn": "科学认识",
+   "en": "scientific epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由认识主体、认识客体和实现主客体相互作用的中介三个要素组成的，以认识世界、创新知识为目标的动态过程。"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "美国著名图书馆学家谢拉（J.H.Shera）在20世纪60年代提出的图书馆学理论，是谢拉图书馆学思想体系的理论基础。该理论揭示了社会文化交流的基本规律，明确了社会文化与图书馆学的关系，确定图书馆学的职"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "皮亚杰(J. Piaget)创立的理论。强调用发生学的方法来研究认识发生发展的过程、结构及其心理起源。"
+  },
+  {
+   "cn": "认识整体论",
+   "en": "epistemological holism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.014",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由W. V. 蒯因（W. V. Quine）提出。认为必须将科学理论作为整体加以检测，无法孤立地对某一科学假说加以检测。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.127",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "从价值和信念体系中产生并涉及权利和义务的道德规范。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "核医学名词",
+   "wordNumber": "06.0239",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "研究人与人、人与社会之间行为规范和原则的一门科学。"
+  },
+  {
+   "cn": "道德标准",
+   "en": "ethics",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0945",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "一系列解释行为好坏对错的行为准则。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "教育学名词",
+   "wordNumber": "01.094",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "技术认识论",
+   "en": "epistemology of technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "探究技术知识、技术发明、技术变迁的解释，创造人工物过程中设计的逻辑，技术问题的来源及类型，技术传统，技术设计的层级结构，技术思维等的理论。"
+  },
+  {
+   "cn": "生态伦理学",
+   "en": "ecological ethics",
+   "source": "风景园林名词",
+   "wordNumber": "12.0103",
+   "subjectFullName": "风景园林_风景园林生态_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2025",
+   "definition": "研究生态的伦理价值和人类对待自然的行为规范的一门边缘学科。"
+  },
+  {
+   "cn": "环境伦理",
+   "en": "environmental ethics",
+   "source": "风景园林名词",
+   "wordNumber": "13.0011",
+   "subjectFullName": "风景园林_其他_景观社会学",
+   "subjectName": "景观社会学",
+   "publishYear": "2025",
+   "definition": "人类与自然的道德关系，也包括与环境有关的具体的道德、价值和行为规范。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.434",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "技术伦理",
+   "en": "technological ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.115",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "约束和调节技术行为的道德规范和价值观念的总称。"
+  },
+  {
+   "cn": "救生艇伦理学",
+   "en": "lifeboat ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.246",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "20世纪60年代由加勒特·哈丁（Garret Hardin）提出。将国家比作救生艇，能够乘坐救生艇的成员有限，救生艇上的人们要想过上好生活，必须用道德约束个人活动，避免人口盲目增加，而穷国人口增加破坏"
+  },
+  {
+   "cn": "研究伦理",
+   "en": "research ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.006",
+   "subjectFullName": "自然辩证法_科技伦理_科学伦理",
+   "subjectName": "科学伦理",
+   "publishYear": "2024",
+   "definition": "研究科学研究活动中应该遵循的基本伦理原则和道德规范，以及对科学研究活动的伦理评价和审查。当科学研究活动的对象、过程和结果涉及生态安全、社会安全和人身安全，以及对人格尊严、自主选择和合法权益的保护时，在"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "认识学",
+   "en": "epistemology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "新实证主义认识论",
+   "en": "neo-positivist epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "合乎道德的投资",
+   "en": "ethical investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "伦理守则,伦理规范",
+   "en": "code of ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "环境伦理",
+   "en": "environmental ethnics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "粗肌丝",
+   "en": "thick myofilament\",\"thick filament",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "民俗旅游",
+   "en": "ethnic tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "民族地理学",
+   "en": "ethnic geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "民族聚居区",
+   "en": "ethnic enclaves",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "软件度量学",
+   "en": "software metrics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "质量度量学",
+   "en": "quality metrics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "粗段",
+   "en": "thick segment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "粗肌丝",
+   "en": "thick myofilament",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "粗丝",
+   "en": "thick filament",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "厚皮",
+   "en": "thick skin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "厚膜",
+   "en": "thick film",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "Ethics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据伦理",
+   "en": "Data Ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络伦理",
+   "en": "Internet ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理算法",
+   "en": "ethical algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能准则（IBM）",
+   "en": "AI Ethics (IBM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理数据管理协议",
+   "en": "ethical data management protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慎独",
+   "en": "Shendu&nbsp;(Ethical Self-cultivation)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党的作风建设",
+   "en": "promoting ethical standards within the Party",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数权自律",
+   "en": "Self-Regulation and Professional Ethics for Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网行业职业道德建设",
+   "en": "development of professional ethics in the Internet industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国互联网行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Internet Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《人工智能行业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for the AI Industry (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国大数据行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Big Data Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国数据中心行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Data Center Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网终端安全服务自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Internet Terminal Security Services (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《移动通信转售企业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Mobile Communication Resale Enterprises (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网搜索引擎服务自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Internet Search Engine Services (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0156",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类认识的来源、本质、过程、方法、检验标准和发展规律的哲学理论，是哲学体系的一个重要组成部分。马克思主义哲学坚持以实践为基础，把辩证法应用于认识论，创立了革命的能动的反映论。"
+  },
+  {
+   "cn": "以兴趣为导向的认识论",
+   "en": "interestoriented epistemology",
+   "source": "马克思主义",
+   "wordNumber": "05.0042",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯以弗洛伊德的心理分析为出发点，认为“兴趣”是人类认识的根本内驱力，指出认识兴趣是多样的，包括技术的认识兴趣、实践的认识兴趣和解放的认识兴趣，只有在“兴趣”的引导下人们才不断产生新的认识领域。"
+  },
+  {
+   "cn": "医学认识论",
+   "en": "medical epistemology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.179",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "运用认识论的基本观点，研究医学认识的对象、来源、本质、发展过程和规律，以及医学认识与医学实践的关系的理论。"
+  },
+  {
+   "cn": "认识论断裂",
+   "en": "epistemological rupture",
+   "source": "马克思主义",
+   "wordNumber": "05.0067",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》。指理论总问题的转换。阿尔都塞认为马克思以1845年为标志，从早期人道主义的意识形态立场转向了科学的立场。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "社会成员与其他社会成员和外界互动中应当遵守的基于社会习俗和道德的规范总和。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人相处的各种道德准则及规范的理论或道理。"
+  },
+  {
+   "cn": "哲学就是认识论",
+   "en": "philosophy is epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0249",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1964年8月24日就日本物理学家坂田昌一的文章的谈话中提出的哲学命题。这一概括是将哲学作为世界观和方法论的广义认识论来看待的，是对列宁关于哲学是“伟大的认识工具”的科学论断的继承和发挥。"
+  },
+  {
+   "cn": "美德伦理学",
+   "en": "virtue ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.131",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "将“美德”视为伦理学的基本范畴、把品格判断作为最基本的道德判断，强调人应当过一种有德性的生活的伦理学理论。"
+  },
+  {
+   "cn": "经济伦理",
+   "en": "economic ethics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.63",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "调节和规范人们从事经济活动的一系列伦理原则和道德规范。是人们通过社会化习得的关于处理经济活动以及其中涉及的人际关系的道德伦理规定。"
+  },
+  {
+   "cn": "商谈伦理",
+   "en": "discourse ethics",
+   "source": "马克思主义",
+   "wordNumber": "05.0038",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯认为交往行为实质上是一种商谈关系，强调在商谈伦理规导下，通过主体之间理解达到合理一致的真理，实现交往理性从理论向实践层面的转换，最终在社会成员之间相互理解和平相处的基础上达到文明进步目标。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.207",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "治疗伦理",
+   "en": "therapeutic ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.033",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "临床治疗过程中涉及的伦理问题及规范。"
+  },
+  {
+   "cn": "诊断伦理",
+   "en": "diagnostic ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.022",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在疾病诊断过程中约束和调节医疗行为的道德规范和价值观念的总称。"
+  },
+  {
+   "cn": "儿科伦理",
+   "en": "pediatric ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.064",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在对新生儿至14 岁患者疾病诊治过程中涉及的伦理问题及应遵循的伦理规范。包括细心采集病史，及时诊治；密切观察病情，精心护理；重视儿童保护工作等。"
+  },
+  {
+   "cn": "疾病伦理",
+   "en": "disease ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.006",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "人们在看待和处理疾病问题时所涉及的伦理问题及规范。"
+  },
+  {
+   "cn": "医学伦理学",
+   "en": "medical ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.005",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "研究临床医学、公共卫生、医学科研等方面的医学道德问题，确立医学活动中应该遵循的道德规范的学科。"
+  },
+  {
+   "cn": "临床伦理学",
+   "en": "clinical ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.17",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究医学伦理学的基本理论、原则和规范在临床医学和临床实践中具体运用的伦理学理论。重点研究医患之间、医务人员之间及医务人员与社会之间的伦理关系，涉及临床诊疗、检查、康复及新技术临床应用等伦理问题。"
+  },
+  {
+   "cn": "死亡伦理",
+   "en": "death ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.001",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "对死亡现象及其本质规律与意义的伦理判断、伦理规范和伦理原则体系。"
+  },
+  {
+   "cn": "心理治疗伦理",
+   "en": "psychotherapy ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1909999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "心理治疗从业人员在心理治疗过程中应当遵循的伦理规范和要求。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

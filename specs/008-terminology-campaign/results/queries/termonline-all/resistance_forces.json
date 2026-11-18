@@ -1,0 +1,732 @@
+{
+ "key": "resistance forces",
+ "term": "resistance forces",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:16:09+00:00",
+ "status": "ok",
+ "note": "variant=resistance forces; 审定公布名词库=3682; 海峡两岸名词对照库=891; 其他来源数据库=109; 预公布名词数据库=99; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "抗力",
+   "en": "resistance force",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.258",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "阻力",
+   "en": "drag force,resistance",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.221",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "拖曳阻力",
+   "en": "resistance force of drag",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "03.084",
+   "subjectFullName": "机械工程_汽车_汽车行驶性能_操纵稳定性",
+   "subjectName": "操纵稳定性",
+   "publishYear": "2013",
+   "definition": "车轮外倾角为0°时，为保持侧偏角，由路面作用在车轮上的纵向力。"
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0382",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构动力学",
+   "subjectName": "机构动力学",
+   "publishYear": "2021",
+   "definition": "施加于物体上可改变其静止或运动状态的作用。"
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "物理学名词",
+   "wordNumber": "02.0135",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "建筑学名词",
+   "wordNumber": "13.0001",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "物体间的相互作用。其效果是使物体改变运动状态或发生变形。作用力与反作用力，总是同时存在，它们的大小相等、方向相反、沿同一直线分别作用在两个物体上。"
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "土木工程名词",
+   "wordNumber": "02.006",
+   "subjectFullName": "土木工程_工程力学_理论力学",
+   "subjectName": "理论力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "强制",
+   "en": "forcing",
+   "source": "电气工程名词",
+   "wordNumber": "16.092",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "耐药性",
+   "en": "resistance",
+   "source": "麻醉学名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "病原体或肿瘤细胞对药物的敏感性或反应性降低甚至消失的现象。"
+  },
+  {
+   "cn": "抵抗",
+   "en": "resistance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.027",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "文化意义上的不合作。是青少年亚文化和后殖民研究的关键概念。抵抗来自福柯的权力理论，即权力总是生产对于其效果的反对和抵抗。在霸权理论和霍尔意识形态研究中，抵抗是一种反权力。在卡斯特的集体身份认同理论中，"
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance ",
+   "source": "草学名词",
+   "wordNumber": "7.0363",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0030",
+   "subjectFullName": "地球物理学_地球电磁学_地电学",
+   "subjectName": "地电学",
+   "publishYear": "2022",
+   "definition": "一定体积的物体抵抗电流传输 (运动)的力。与物体两端的电压成正比，与两端之间传输的电流成反比。 "
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "动物学名词",
+   "wordNumber": "7.0586",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统受到外部干扰后维持系统结构功能原状的能力。"
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "电力名词",
+   "wordNumber": "01.192",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "对于端子为A和B的电阻性二端元件或二端电路,端子间电压<img src='/root/syzx/static/spz/dianli3.01.192.02.png'/>除以元件或电路中电流i的商:<im"
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "精神医学名词",
+   "wordNumber": "04.029",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "受检者对于揭示其无意识中被压抑记忆的过程产生抵抗的现象。可以来自本我、自我或超我层面，可以是无意识的，也可以是有意识的。"
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "物理学名词",
+   "wordNumber": "02.0380",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "冶金学名词",
+   "wordNumber": "04.0431",
+   "subjectFullName": "冶金学_冶金物理化学_冶金电化学",
+   "subjectName": "冶金电化学",
+   "publishYear": "2019",
+   "definition": "物质对电流的阻碍作用。单位为欧姆，用Ω表示。"
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "植物学名词",
+   "wordNumber": "13.0553",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统受到外部干扰后维持系统结构功能原状的能力。"
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.419",
+   "subjectFullName": "呼吸病学_肺功能_脉冲振荡技术",
+   "subjectName": "脉冲振荡技术",
+   "publishYear": "2018",
+   "definition": "呼吸总阻抗中同相位的成分，实质是呼吸系统的黏性阻力。用R表示。"
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抵抗力",
+   "en": "resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "阻抗",
+   "en": "resistance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抵抗力,抗性",
+   "en": "resistance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "resistance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐药性，抗药性",
+   "en": "resistance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电阻",
+   "en": "electric resistance\",\"resistance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电阻率",
+   "en": "resistivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电阻率",
+   "en": "resistivity\",\"electric resistivity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "浮力",
+   "en": "buoyancy force\",\"buoyant force",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多基因抗[病]性",
+   "en": "multigenic resistance\",\"polygenic resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗药性",
+   "en": "insecticide resistance\",\"pesticide resistance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗寒性",
+   "en": "cold resistance\",\"winter resistance",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "剩余阻力",
+   "en": "residual resistance\",\"residuary resistance",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "强迫波",
+   "en": "forced wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强迫对流",
+   "en": "forced convection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "力",
+   "en": "force",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻力",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗拒",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力",
+   "en": "resistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "受迫性失误",
+   "en": "forced error",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封杀出局",
+   "en": "force out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封杀",
+   "en": "force play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗日根据地",
+   "en": "resistance base",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "力量动作",
+   "en": "force part\",\"strength part\",\"force element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气",
+   "en": "Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "血气",
+   "en": "Vitality / Vital Force",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗性",
+   "en": "resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体对某种外源化学物产生的抵抗性，即使高剂量暴露也不会产生明显毒作用的现象。"
+  },
+  {
+   "cn": "生产力",
+   "en": "productive forces",
+   "source": "马克思主义",
+   "wordNumber": "02.0005",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们利用自然、改造和保护自然进行物质资料生产的能力，是一定历史发展阶段的物质生产基础。马克思认为人类社会生产的共同活动方式就是生产力，它由人的要素（劳动者）和物的要素（生产资料）两大实体性要素以及渗透"
+  },
+  {
+   "cn": "进步力量",
+   "en": "progressive forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0369",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工人、农民和城市小资产阶级，他们是统一战线的基础，抗日的主要依靠力量。中国共产党关于抗日民族统一战线的策略总方针是发展进步势力，争取中间势力，孤立顽固势力。"
+  },
+  {
+   "cn": "中间势力",
+   "en": "middle forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0370",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民族资产阶级、开明绅士和地方实力派。中国共产党关于抗日民族统一战线的策略总方针是发展进步势力，争取中间势力，孤立顽固势力。争取中间力量要有一定的条件：一是共产党要有充足的力量；二是尊重他们的利益；三是"
+  },
+  {
+   "cn": "顽固势力",
+   "en": "diehard forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0371",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "主要是指大地主、大资产阶级的抗日派，即以蒋介石集团为代表的国民党亲英美派。他们采取两手政策，既主张抗日，又限共、溶共、反共并摧残进步势力。共产党必须采取革命的两面政策，对它既联合又斗争。"
+  },
+  {
+   "cn": "强迫喂养",
+   "en": "forced feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "不识儿童的需求，由养育人负责决定孩子何时进食、怎样进食以及进食量的喂养方式，使儿童受到各种外来力的持续作用。"
+  },
+  {
+   "cn": "社会力量",
+   "en": "social force",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会中能够对社会主体产生影响的种种社会综合作用力。包括官方组织的与民间的社会各方面力量。特指非官方的社会团体和各界民众的力量。具有合力性、广泛性和多样性。"
+  },
+  {
+   "cn": "物质力量",
+   "en": "material force",
+   "source": "马克思主义",
+   "wordNumber": "01.0184",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "可以改变事物原先运动或发展状态的各种能力，它独立于人的意识之外，是一种客观存在。物质力量有两种：相反相成的和相辅相成的，在一定条件下二者有同一性，即可能处于同一体或互相转化。"
+  },
+  {
+   "cn": "劳动力",
+   "en": "labor force",
+   "source": "马克思主义",
+   "wordNumber": "02.0093",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在劳动过程中使用的体力和智力的总和。劳动力对于任何一种社会都是生产的主体,是生产力的主导因素。"
+  },
+  {
+   "cn": "反革命势力",
+   "en": "counterrevolutionary force",
+   "source": "马克思主义",
+   "wordNumber": "03.0054",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中不顾社会生产力的发展和革命要求、逆历史潮流而动的阶级或力量。为了维护反动统治，统治阶级的各阶层乃至被统治阶级中被分解出来的帮凶，都可沦为反革命势力。"
+  },
+  {
+   "cn": "抗力测试仪",
+   "en": "resistance tester",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于测定试验微生物抗力，鉴定生物指示物和化学指示物并对温度、浓度、压力及其作用时间均有严格规定的专用设备。如压力蒸汽灭菌指示物抗力测定仪、环氧乙烷灭菌指示物抗力测定仪和过氧化氢气体灭菌指示物抗力测定仪"
+  },
+  {
+   "cn": "心理阻抗",
+   "en": "psychological resistance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，求咨者在咨询中出现的各种下意识的自我保护现象。如每次咨询都迟到，交谈时注意力分散、态度消极、漠视对方或情绪急躁。多见于幼儿期有过创伤体验或受压抑的求咨者，也可能因咨询者因素导致。"
+  },
+  {
+   "cn": "抗阻运动",
+   "en": "resistance exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_儿童青少年身体活动指南",
+   "subjectName": "儿童青少年身体活动指南",
+   "publishYear": "2025",
+   "definition": "肌肉在收缩时人为地给予一定的外加阻力，使运动时肌肉张力达到较高的程度，以提高肌力和肌肉耐力的运动方式。"
+  },
+  {
+   "cn": "消毒剂耐受性",
+   "en": "disinfectant resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.68",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "微生物（尤为病原微生物）对消毒剂产生高度耐受的特性"
+  },
+  {
+   "cn": "交叉抗性",
+   "en": "cross resistance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.113",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某种微生物对多种抗生素具有抗性的现象。"
+  },
+  {
+   "cn": "呼吸阻力",
+   "en": "breathing resistance",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.1.1.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "佩戴面具时呼吸气流通过面具所产生的摩擦力，包括呼气阻力和吸气阻力。"
+  },
+  {
+   "cn": "反抗型依恋",
+   "en": "resistant attachment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "痛苦、反抗的依恋行为。对母亲的离开过度敏感，表现非常痛苦和极度反抗，对母亲纠缠不休又抵抗母亲拥抱，既寻求接触又对接触表示反抗。"
+  },
+  {
+   "cn": "微生物抵抗力",
+   "en": "microbial resistibility",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在特定条件下，微生物对理化因子表现出的抵抗能力，常用D值表示。"
+  },
+  {
+   "cn": "人民武装",
+   "en": "peoples armed forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0146",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "属于人民群众，并为争取和保护人民的利益而战斗的武装力量。它与由反动政府掌握的武装力量相对立。在马克思和恩格斯的著作中，它经常指与反动政府控制的常备军相对的，由无产阶级和人民群众组成的非正规的武装力量。"
+  },
+  {
+   "cn": "第一生产力",
+   "en": "primary productive force",
+   "source": "马克思主义",
+   "wordNumber": "03.0566",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平于1988年9月5日在会见捷克斯洛伐克总统胡萨克时的谈话中提出的重要论断。他说：“马克思说过，科学技术是生产力，事实证明这话讲得很对。依我看，科学技术是第一生产力。”这个论断为新时期我国制定科教"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

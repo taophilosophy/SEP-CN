@@ -1,0 +1,802 @@
+{
+ "key": "decision rule",
+ "term": "decision rule",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:27:00+00:00",
+ "status": "ok",
+ "note": "variant=decision rule; 审定公布名词库=1664; 海峡两岸名词对照库=496; 其他来源数据库=154; 预公布名词数据库=105; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "决策规则",
+   "en": "decision rule",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0104",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "进行决策的一系列程序和判断标准。"
+  },
+  {
+   "cn": "决策规则",
+   "en": "decision rule",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.306",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在分类系统中，指分类依据的准则、规则或函数。"
+  },
+  {
+   "cn": "贝叶斯决策规则",
+   "en": "Bayes decision rule",
+   "source": "语言学名词",
+   "wordNumber": "11.143",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "基于贝叶斯理论的模式识别方法所采用的决策规则。该规则用最小错误率或最小风险的原则来决定对象所属的类别。"
+  },
+  {
+   "cn": "安全判决准则",
+   "en": "safety decision rule",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.106",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "决定",
+   "en": "decision",
+   "source": "档案学名词",
+   "wordNumber": "02.01.053",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "领导指导性文件的一种。适用于对重要事项作出决策和部署、奖惩有关单位和人员、变更或者撤销下级机关不适当的决定事项。"
+  },
+  {
+   "cn": "决策",
+   "en": "decision",
+   "source": "数学名词",
+   "wordNumber": "09.0517",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "判决",
+   "en": "decision",
+   "source": "电子学名词",
+   "wordNumber": "05.142",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人们在技术实践中为保证其行为的正当、合理和有效而遵守的规矩、程序和章程。它指导技术活动的可靠进行和技术目的的顺利完成。"
+  },
+  {
+   "cn": "法则",
+   "en": "rule",
+   "source": "物理学名词",
+   "wordNumber": "01.0144",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定则",
+   "en": "rule",
+   "source": "物理学名词",
+   "wordNumber": "01.0143",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "50%规则",
+   "en": "50% rule ",
+   "source": "草学名词",
+   "wordNumber": "4.0109",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "12/23规则",
+   "en": "12/23 rule",
+   "source": "免疫学名词",
+   "wordNumber": "2.251",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "免疫球蛋白可变区基因重排和重组的规律。机制为：抗原受体基因重排与重组信号序列密切相关，其所间隔的碱基数对片段间的有效重组十分关键，带有12bp间隔序列的基因片段仅与带有23bp间隔序列的片段相结合。"
+  },
+  {
+   "cn": "札依采夫规则",
+   "en": "Zaitsev rule,Saytzeff rule 　",
+   "source": "化学名词",
+   "wordNumber": "02.1015",
+   "subjectFullName": "化学_有机化学_物理有机化学_反应机理",
+   "subjectName": "反应机理",
+   "publishYear": "2016",
+   "definition": "在二级或三级卤代烃的消除反应中，通常消去含氢较少的β-碳上的氢原子。这个规则现在进一步延伸为：当消除反应可生成两个或更多个烯烃时，热力学稳定的烯烃为主要产物。"
+  },
+  {
+   "cn": "决策者",
+   "en": "decision maker",
+   "source": "风景园林名词",
+   "wordNumber": "03.0373",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "（1）广义是指决策机构、享有决策权力的人和对决策有较大影响的人。（2）狭义是指根据法律在政府中占决策职位的直接决策者。决策者具有法定的政策制定权力，参与政策制定的全过程。"
+  },
+  {
+   "cn": "经济决策",
+   "en": "economic decision",
+   "source": "风景园林名词",
+   "wordNumber": "03.0372",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "政府、企业以及个人在确定行动政策或方案以及选择实施这些政策或方案的有效方法时所进行的一系列活动。"
+  },
+  {
+   "cn": "投资决策",
+   "en": "investment decision",
+   "source": "风景园林名词",
+   "wordNumber": "03.0041",
+   "subjectFullName": "风景园林_风景园林管理_行业和部门管理",
+   "subjectName": "行业和部门管理",
+   "publishYear": "2025",
+   "definition": "投资者为了实现其预期的投资目标，运用—定的科学理论、方法和手段，通过一定的程序，对若干个可行性的投资方案进行研究论证，从中选出最满意的投资方案的过程。"
+  },
+  {
+   "cn": "经营决策",
+   "en": "management decision",
+   "source": "风景园林名词",
+   "wordNumber": "03.0363",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "企业等经济组织决定企业的生产经营目标和达到生产经营目标的战略和策略，即决定做什么和如何去做的过程。"
+  },
+  {
+   "cn": "决策程序",
+   "en": "decision process",
+   "source": "风景园林名词",
+   "wordNumber": "03.0376",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "提出问题、分析问题、解决问题遵循科学的完整的动态过程。"
+  },
+  {
+   "cn": "决策管理",
+   "en": "decision management",
+   "source": "风景园林名词",
+   "wordNumber": "03.0369",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "决策者通过制定决策，采用适合于本企业的决策模式，以达到企业管理的一种管理方法。"
+  },
+  {
+   "cn": "决策指标",
+   "en": "decision index",
+   "source": "风景园林名词",
+   "wordNumber": "03.0374",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "制定决策的定量化标准与尺度。"
+  },
+  {
+   "cn": "决策法则",
+   "en": "decision rule",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "决策规则，判定规则",
+   "en": "decision rule",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "决策规则",
+   "en": "decision rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策规则",
+   "en": "decision rule",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯决策规则",
+   "en": "Bayesian decision rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判决，决策",
+   "en": "decision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "12/23规则",
+   "en": "12/23 rule",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "网线",
+   "en": "ruling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "决策分析",
+   "en": "decision analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决策变量",
+   "en": "decision variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计决策",
+   "en": "statistical decision",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "绝对决策",
+   "en": "absolute decision",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "投资决策",
+   "en": "investment decision",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判决",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "则",
+   "en": "Rules",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulation\",\"rule-book\",\"rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策论",
+   "en": "decision theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "判定！",
+   "en": "Decision! Hantei!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多数裁判员判定",
+   "en": "majority decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判灯",
+   "en": "decision light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决定性打击",
+   "en": "decisive blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜剑",
+   "en": "decisive hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "启发式规则",
+   "en": "heuristic rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  },
+  {
+   "cn": "决策阈",
+   "en": "decision threshold",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "被测量的估计量值，在用于量化物理效应的被测量的给定测量程序，实际测量值超过该值时，可判定该物理效应存在。"
+  },
+  {
+   "cn": "决策模型",
+   "en": "decision modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一个事件中研究对象所做出的各个具体选择，以及选择间的逻辑次序的图表。"
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "为了到达目标，采用一定的科学方法和手段，从两个以上的方案中选择一个满意方案的分析判断过程。"
+  },
+  {
+   "cn": "纸面规则",
+   "en": "paper rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.16",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "以成文形式出现、有适用可能的规则。美国现实主义法学的代表人物卡尔·卢埃林提出的概念。"
+  },
+  {
+   "cn": "实在规则",
+   "en": "real rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.17",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "被实际适用的规则。美国现实主义法学的代表人物卡尔·卢埃林提出的概念，与纸面规则相对应。"
+  },
+  {
+   "cn": "法律规则",
+   "en": "legal rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "某种设立特定行为方式的法律规制的正式文字表述。"
+  },
+  {
+   "cn": "立宪统治",
+   "en": "constitutional rule",
+   "source": "马克思主义",
+   "wordNumber": "03.0106",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "制定宪法，并依照宪法的规定设立国家机构和政府组织来管理社会的统治形式。立宪君主制和立宪共和制都是立宪统治的具体形式。但无论那种立宪制度，只要是生产资料私有制占据统治地位，就没有改变资产阶级专政的统治实"
+  },
+  {
+   "cn": "罗默法则",
+   "en": "Romer rule",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "医院提供的病床数量越多其使用率越高，病床数与使用率两者呈正相关关系的规律。"
+  },
+  {
+   "cn": "优势法则",
+   "en": "dominant rule",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮层从作用于机体的大量刺激中，选择最重要、最符合自己目的的少数刺激，在相应大脑皮层区域形成优势兴奋灶，以确保该区域高效工作的活动特性。"
+  },
+  {
+   "cn": "习俗规则",
+   "en": "mores rule",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.046",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民俗在养成或习得过程中惯习的制约性，主要表现为两种情况：一种是自然而然地沿着惯习本身的惰性沿袭而来，即自古而然、从来如此和习以为常的状况；另一种是基于某种利益的需求，有目的地遵守既定的先验模型惯习的状"
+  },
+  {
+   "cn": "规则功利论",
+   "en": "rule utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.009",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为人类行为的道德价值应以与之相关的共同准则的功利效果为标准，而不应以具体行为本身的功利结果为标准的理论。也就是说，某一行为是道德的，当且仅当该行为符合效用原则确定的某个规则，遵循这个规则比遵循其他规"
+  },
+  {
+   "cn": "规则义务论",
+   "en": "rule-deontology",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.006",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "主张行为的对错要看它是否符合伦理原则和准则，人们的行为只要服从这些规则和准则，就是道德的和正当的，而不必考虑行为效果的理论。"
+  },
+  {
+   "cn": "组织规范",
+   "en": "organizational rules",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.13",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织中形成的行为标准和准则，由公共道德、组织意识和组织规章制度等组成，作用在于规范和统一成员的行为，以制度保证实现组织的目标，协调成员与组织之间、组织成员相互之间的关系。"
+  },
+  {
+   "cn": "家规",
+   "en": "family rules",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0148",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在社会习俗的影响制约下形成的，由家族成员共同遵守的不成文的法规、条例，用以约束家族成员的行为，维护家长权威和家族统一，协调族内的人际关系。家法是家长和长辈惩诚、制裁家族成员所依的准绳；靠传统、习惯的民"
+  },
+  {
+   "cn": "统治阶级",
+   "en": "ruling class",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.11",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "基于经济地位、政治权势或文化霸权等因素，以组织化方式行使国家权力、管理国家事务的团体。精英统治理论的基本范畴，意大利政治理论家莫斯卡认为，任何社会中都存在统治阶级和被统治阶级。"
+  },
+  {
+   "cn": "统治阶级",
+   "en": "ruling class",
+   "source": "马克思主义",
+   "wordNumber": "03.0183",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在经济上、政治上、思想上占统治地位的阶级。如奴隶社会的奴隶主阶级、封建社会的地主阶级、资本主义社会的资产阶级。无产阶级和劳动人民只有夺取政权，建立无产阶级专政，才能变被统治阶级为统治阶级，尽快发展社会"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decision tree analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "将决策过程各个阶段之间的结构绘制成树状箭线图，利用其进行选择、分割分析。"
+  },
+  {
+   "cn": "组织决策",
+   "en": "organizational decision-making",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.10",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织为了实现某一特定目标，依据一定的情况和条件对要解决的问题做出决定，并付诸实施的过程。"
+  },
+  {
+   "cn": "群体决策",
+   "en": "group decision-making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "群体综合多个个体的资源，从而获得了更全面的信息，为决策提供了更大的选择空间。与“个人决策”相对。但研究指出，未必比个体决策更加客观。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "received attention",
+ "term": "received attention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:20:37+00:00",
+ "status": "ok",
+ "note": "variant=received attention; 审定公布名词库=871; 海峡两岸名词对照库=319; 其他来源数据库=60; 预公布名词数据库=36; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.011",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "心理活动的指向性。心理活动或意识在某一时刻所处的状态，表现为对一定对象的指向和集中。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "生理学名词",
+   "wordNumber": "03.750",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "精神医学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "精神医学_症状与体征_注意障碍症状",
+   "subjectName": "注意障碍症状",
+   "publishYear": "2019",
+   "definition": "个体的精神活动集中地指向于一定对象的心理现象。不是一种独立的心理过程，与感知觉、记忆和思维等心理过程相互影响。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.212",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "约束认知或心理加工过程，使其指向和集中于有关信息，以增进这些信息加工速度和准确性的过程。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "心理学名词",
+   "wordNumber": "02.464",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "心理活动的指向性。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.181",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "从同时呈现的几个物体或思维序列中选择一个对象的过程。一般是指人们集中于某种特殊内、外环境刺激而不被其他刺激分散的能力。"
+  },
+  {
+   "cn": "接收者",
+   "en": "receiver",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.108",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "讯息的接受方。"
+  },
+  {
+   "cn": "接收机",
+   "en": "receiver",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0285",
+   "subjectFullName": "地球物理学_地球电磁学_探测电性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "通过传感器和电子线路测量电磁场信号的仪器。 "
+  },
+  {
+   "cn": "接料盘",
+   "en": "receiver",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.1081",
+   "subjectFullName": "机械工程（一）_机械零件_筛网",
+   "subjectName": "筛网",
+   "publishYear": "2021",
+   "definition": "紧贴地装配在筛子下面以承接通过所有筛子的那部分物料的盘。"
+  },
+  {
+   "cn": "吸热器",
+   "en": "receiver",
+   "source": "电力名词",
+   "wordNumber": "18.158",
+   "subjectFullName": "电力_新能源发电",
+   "subjectName": "新能源发电",
+   "publishYear": "2020",
+   "definition": "集热器的一部分,用于最终接收投射或反射太阳辐射的装置,它包括吸热体和任何附带的透明盖层。"
+  },
+  {
+   "cn": "接收器",
+   "en": "receiver",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0061",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机集成电路",
+   "subjectName": "计算机集成电路",
+   "publishYear": "2018",
+   "definition": "接收信号的装置。"
+  },
+  {
+   "cn": "贮液器",
+   "en": "receiver",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0233",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷设备",
+   "subjectName": "制冷设备",
+   "publishYear": "2013",
+   "definition": "制冷系统中用于储存液体制冷剂的容器。"
+  },
+  {
+   "cn": "受话人",
+   "en": "receiver",
+   "source": "语言学名词",
+   "wordNumber": "12.122",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "语言交际中接受信息的一方。会话中指听话人，书面交际时指读者。"
+  },
+  {
+   "cn": "接收机",
+   "en": "receiver",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.530",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "工作于通信链路的目的地端，接收信号并加以处理或转换供本地使用的设备。"
+  },
+  {
+   "cn": "贮液器",
+   "en": "receiver",
+   "source": "水产名词",
+   "wordNumber": "09.423",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "贮存和调节供应制冷系统中各部分液态制冷剂的容器。"
+  },
+  {
+   "cn": "受话器",
+   "en": "receiver",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0071",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "受货人",
+   "en": "receiver",
+   "source": "航海科技名词",
+   "wordNumber": "13.0078",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "贮液器",
+   "en": "receiver",
+   "source": "航海科技名词",
+   "wordNumber": "15.0643",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "接收机",
+   "en": "receiver",
+   "source": "电子学名词",
+   "wordNumber": "03.290",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "接收",
+   "en": "receive",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.072",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "收到从通信系统中送出的信号、消息或其他形式的数据。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "接收机",
+   "en": "receiver",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "储液器",
+   "en": "receiver",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "接收机",
+   "en": "receiver",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款",
+   "en": "receivables",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "注意广度",
+   "en": "attention span",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉注意",
+   "en": "auditory attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意力经济",
+   "en": "attention economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意注意,不随意注意",
+   "en": "involuntary attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分配性注意",
+   "en": "divided attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有意注意,随意注意",
+   "en": "voluntary attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择注意",
+   "en": "selective attention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "引起注意装置",
+   "en": "attention device",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意力聚焦",
+   "en": "attention focusing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意转移",
+   "en": "attentional shifting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意过程",
+   "en": "attentional process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意阶段",
+   "en": "attentive stage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意分配",
+   "en": "distribution of attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集中注意力阶段",
+   "en": "focused attention stage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意力",
+   "en": "attention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球队员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球球员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球球员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球队员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球队员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球队员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球队员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receiving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意力机制",
+   "en": "attention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意：淘汰！",
+   "en": "Attention: elimination!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立正！",
+   "en": "Attention! Charyeot!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打接发球方",
+   "en": "receiver pair\",\"receiving pair",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "attention\",\"guard position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停足",
+   "en": "stand to attention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球手",
+   "en": "catcher\",\"receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "从同时呈现的几个物体或思维序列中选择一个对象的过程。一般是指人们集中于某种特殊内、外环境刺激而不被其他刺激分散的能力。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.12",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "个体的精神活动集中地指向于一定对象的心理现象。不是一种独立的心理过程，与感知觉、记忆和思维等心理过程相互影响。"
+  },
+  {
+   "cn": "注意力发展",
+   "en": "attention development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "心理活动对一定对象有选择的集中能力随年龄增长的发展变化过程。注意力的发展与神经系统的发育以及心理活动的发展高度相关。"
+  },
+  {
+   "cn": "无意注意",
+   "en": "involuntary attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由强烈的、新颖的或感兴趣的事物引发的无预定目的和意志努力的注意。"
+  },
+  {
+   "cn": "有意注意",
+   "en": "voluntary attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "自觉的、因预定目的产生的，经过意志努力保持的注意。"
+  },
+  {
+   "cn": "有意注意时间",
+   "en": "intentional attention to time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "有预定的目的，需要一定意志努力的注意所维持的时间。"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "多发生于儿童时期的神经和精神障碍。主要表现为明显的与年龄不相符的注意力分散、行为冲动、活动过度等特征，常伴学习困难和社会适应能力下降。"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "多发于儿童期的一种神经和精神障碍。主要表现为注意力集中困难、注意广度缩小、不分场合的活动过度和行为冲动等特点，常伴有认知障碍和学习困难，往往其智力基本正常。"
+  },
+  {
+   "cn": "重占有的生存方式",
+   "en": "Pay attention to the living way of possession",
+   "source": "马克思主义",
+   "wordNumber": "05.0055",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于弗洛姆《占有还是生存》，指注重对现存物的占有与消费，而不是基于人的生命活动的创造和自我创造，从而导致物化人格。现代社会以重占有的生存方式为主导。"
+  },
+  {
+   "cn": "三大纪律八项注意",
+   "en": "Three Main Rules of Discipline and Eight Points for Attention",
+   "source": "马克思主义",
+   "wordNumber": "03.0412",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在领导革命斗争实践中提出并不断得到充实的人民军队的优良传统和行动准则，是人民解放军统一的革命纪律。三大纪律是：一切行动听指挥，不拿群众一针一线，一切缴获要归公；八项注意是：说话和气，买卖公平，借"
+  },
+  {
+   "cn": "梅毒感染孕产妇获得治疗的比例",
+   "en": "percentage of receiving treatment among pregnant women with syphilis infection",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.18",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区梅毒感染孕产妇中获得抗梅毒治疗的人数，与同期该地区梅毒感染孕产妇人数之比。"
+  },
+  {
+   "cn": "5岁以下腹泻儿童接受口服补液疗法比例",
+   "en": "percentage of receiving oral rehydration therapy among children with diarrhea under 5",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.8.11",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区最近两周患腹泻的0~59月龄儿童中接受口服补液疗法的人数，与最近两周患腹泻的0~59月龄儿童数之比。"
+  },
+  {
+   "cn": "衰减",
+   "en": "attenuation",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.29",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "辐射在通过物质时与物质发生各种相互作用致使辐射强度减少的过程。"
+  },
+  {
+   "cn": "滞留",
+   "en": "retention",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "摄入放射性物质后的给定时间内，放射性物质在某一器官或全身内的沉积状态及动态变化过程。"
+  },
+  {
+   "cn": "注意力不集中",
+   "en": "inattention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "主动性注意不足，被动性注意相对亢进的现象。主要表现为听课、做作业或其他活动难以持久，易被无关刺激吸引、分心，维持注意力时间明显低于同龄正常儿童。"
+  },
+  {
+   "cn": "个人感知到的需要",
+   "en": "perceived need",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "人们主观上认为自己罹患疾病或为了预防疾病应该获得的某种卫生服务。"
+  },
+  {
+   "cn": "衰减倍数",
+   "en": "attenuation multiple",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.23",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "设置屏蔽之前某关心点处的周围剂量当量与设置屏蔽之后该点周围剂量当量的比值。"
+  },
+  {
+   "cn": "衰减当量",
+   "en": "attenuation equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.30",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "相对于参考物质的厚度。即在规定的辐射线束和几何条件下以该厚度的参考物质代替所考虑的物质时，具有相同的衰减程度。"
+  },
+  {
+   "cn": "滞留份额",
+   "en": "retention fraction",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.36",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在组织或器官内滞留量占了该放射性核素初始进入量的份额。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

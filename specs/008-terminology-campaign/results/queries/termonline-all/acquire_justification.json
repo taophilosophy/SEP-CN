@@ -1,0 +1,672 @@
+{
+ "key": "acquire justification",
+ "term": "acquire justification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:34:57+00:00",
+ "status": "ok",
+ "note": "variant=acquire justification; 审定公布名词库=166; 海峡两岸名词对照库=32; 其他来源数据库=8; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "辩护",
+   "en": "justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "用以证明或维护某个理论或行为的根据。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.050",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "核医学名词",
+   "wordNumber": "02.0434",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "放射防护三原则之一。除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得进行辐射相关实践的原则。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "放射医学与防护_放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害(包括辐射危害)。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "码速调整",
+   "en": "justification",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.262",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以受控方式改变数字信号的数字速率的处理过程。这种过程不丢失或损伤信息。其目的是使与复用设备不同步的各支路得到复用。"
+  },
+  {
+   "cn": "论证",
+   "en": "justification",
+   "source": "数学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "justification,justify",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1317",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "为适应规定文件格式的要求，对数位、文字或符号位置向左或向右进行调整、排列或移位的动作。"
+  },
+  {
+   "cn": "归纳辩护",
+   "en": "inductive justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.085",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "为归纳推理的合理性和有效性提供的辩护。"
+  },
+  {
+   "cn": "辩护的语境",
+   "en": "context of justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "分析实验观察如何支持理论假说的情境条件。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "[辐射照射]实践的正当性",
+   "en": "justification of practice",
+   "source": "化学名词",
+   "wordNumber": "06.0392",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "国际放射防护委员会(ICRP)提出的辐射防护三原则之一。即辐射照射的实践，除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得采取此种实践。"
+  },
+  {
+   "cn": "不充分理由效应",
+   "en": "insufficient justification effect",
+   "source": "心理学名词",
+   "wordNumber": "07.087",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "当外部理由不足以支持行为时，人们用主观理由做行为理由补充，以寻求心理平衡的现象。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.244",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "码速调整",
+   "en": "code rate justification",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0378",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "后天性脑穿通畸形",
+   "en": "acquired porencephaly",
+   "source": "神经外科学名词",
+   "wordNumber": "12.073",
+   "subjectFullName": "医学_神经外科学_中枢神经系统先天性疾病_脑先天性疾病",
+   "subjectName": "脑先天性疾病",
+   "publishYear": "2026",
+   "definition": "各种原因导致后天性脑组织破坏所引起的畸形。包括产伤、颅脑外伤（尤其是颅脑火器伤）、颅内血肿、颅内炎症、窒息、脑部手术、脑梗死等各种造成脑实质内腔洞或裂隙与脑室或蛛网膜下腔相通。"
+  },
+  {
+   "cn": "后天性乳头缺损",
+   "en": "acquired athelia",
+   "source": "整形外科名词",
+   "wordNumber": "18.098",
+   "subjectFullName": "整形外科_乳房整形_乳房形态异常",
+   "subjectName": "乳房形态异常",
+   "publishYear": "2026",
+   "definition": "由外伤、手术或感染等后天因素造成的乳头外形和结构的破坏。可伴有感觉和哺乳功能障碍。"
+  },
+  {
+   "cn": "后天性[耳]聋",
+   "en": "acquired deafness",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.9.1.5",
+   "subjectFullName": "耳科_耳鸣耳聋",
+   "subjectName": "耳鸣耳聋",
+   "publishYear": "2025",
+   "definition": "出生后由各种因素导致的听力损失。"
+  },
+  {
+   "cn": "获得性免疫",
+   "en": "acquired immunity",
+   "source": "农学名词",
+   "wordNumber": "10.061",
+   "subjectFullName": "植物保护_作物病害",
+   "subjectName": "作物病害",
+   "publishYear": "2025",
+   "definition": "植物在个体发育中，经人工接种或感染某种病原物后产生的防卫反应特性。"
+  },
+  {
+   "cn": "获得性隐睾",
+   "en": "acquired cryptorchidism",
+   "source": "男科及性医学名词",
+   "wordNumber": "09.084",
+   "subjectFullName": "男科及性医学_阴囊及其内容物疾病",
+   "subjectName": "阴囊及其内容物疾病",
+   "publishYear": "2023",
+   "definition": "因外伤、腹股沟手术等原因，完成正常生理性下降过程的睾丸移位到阴囊上方任一位置的疾病。"
+  },
+  {
+   "cn": "获得性易栓症",
+   "en": "acquired thrombophilia",
+   "source": "生殖医学名词",
+   "wordNumber": "5.024",
+   "subjectFullName": "生殖医学_不孕不育诊断与治疗技术_不孕不育诊断技术",
+   "subjectName": "不孕不育诊断技术",
+   "publishYear": "2022",
+   "definition": "由多种疾病及如手术、创伤及激素替代治疗等因素诱发的全身及胎盘动静脉血栓。"
+  },
+  {
+   "cn": "不充分理由，理由不足",
+   "en": "insufficient justification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线确认",
+   "en": "line justification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "○1justification○2 adjustment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盘购方，兼并方",
+   "en": "acquirer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "需方",
+   "en": "acquirer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "获得性状",
+   "en": "acquired character\",\"acquired trait",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "获得抗性",
+   "en": "acquired resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "习得需要",
+   "en": "acquired need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "习得性失读症",
+   "en": "acquired dyslexia",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "获得抗性",
+   "en": "acquired resistance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "被购企业",
+   "en": "acquired enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "获得性免疫",
+   "en": "acquired immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "获得性免疫",
+   "en": "acquired immunity",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "获得性状",
+   "en": "acquired character",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "购方企业",
+   "en": "acquiring enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "获得性免疫耐受性",
+   "en": "acquired immunological tolerance",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "获得性免疫缺陷病",
+   "en": "acquired immunodeficiency disease",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人工获得性免疫",
+   "en": "artificially acquired immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "资源吸收器官",
+   "en": "resource-acquiring organ",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "局部获得抗性",
+   "en": "local acquired resistance\",\"LAR",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "艾滋病",
+   "en": "acquired immunodeficiency syndrome",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "银行卡收单服务",
+   "en": "bank card acquiring service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师出有名",
+   "en": "Fighting a War with a Moral Justification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "格物致知",
+   "en": "Study Things to Acquire Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医院/院内感染",
+   "en": "nosocomial infection; hospital-acquired infection",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应公众获取信息渠道的变化",
+   "en": "to meet people’s evolving ways of acquiring information",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "化性起伪",
+   "en": "Transform Intrinsic Evil Nature to Develop Acquired Nature of Goodness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "功崇惟志，业广惟勤",
+   "en": "Great accomplishments require ambition and tireless effort.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "伦理辩护",
+   "en": "ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对某些现象、行为或观点的合理性进行道德论证的行为。"
+  },
+  {
+   "cn": "医学伦理辩护",
+   "en": "medical ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.2229999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "依据医学伦理学理论、原则和规范，对某一医学行为或医疗活动的合理性进行解释、说明的活动。"
+  },
+  {
+   "cn": "获得性血友病",
+   "en": "acquired hemophilia",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.39",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "由体内产生抑制凝血因子Ⅷ的特异性自身抗体引起的出血性疾病。"
+  },
+  {
+   "cn": "后天性耳聋",
+   "en": "acquired deafness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "出生时听力正常，后因疾病、外伤、中毒、噪音等而导致听觉器官或神经系统受损而失去听力的耳聋。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiation practice",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护三原则",
+   "subjectName": "放射防护三原则",
+   "publishYear": "2025",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程，即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射或现存照射情况下，确定一个建议的防护行动或补救行"
+  },
+  {
+   "cn": "医疗照射正当性",
+   "en": "justification of medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.7.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "医疗照射的实践，对受照个人或社会带来的利益足以弥补其可能引起的辐射危害（包括健康与非健康危害），才可以实施该实践。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiological practice",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.18",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "开展医疗照射、工业探伤、核设施运行等涉电离辐射活动前，须确保实践总体利益大于辐射危害及其他社会、经济风险。仅当该实践能为个人或社会带来净利益时，才属“正当的”，反之则不应开展。"
+  },
+  {
+   "cn": "医院感染",
+   "en": "hospital acquired infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.5",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在医疗机构内获得的感染，包括在住院期间发生的感染和在院内获得、出院后发生的感染，但不包括入院前已开始或者入院时已处于潜伏期的感染。"
+  },
+  {
+   "cn": "获得性免疫缺陷综合征",
+   "en": "acquired immunodeficiency syndrome",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由人类免疫缺陷病毒感染引起的以T细胞免疫功能缺陷为主的一组免疫缺陷病。"
+  },
+  {
+   "cn": "获得性免疫缺陷综合征",
+   "en": "acquired immunodeficiency syndrome，AIDS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "由人类免疫缺陷病毒感染造成的一种严重免疫缺陷综合征。HIV主要攻击CD4+T淋巴细胞，引起免疫功能丧失。潜伏期平均为8～9年，发病后可并发机会性感染及肿瘤，严重者可导致死亡。"
+  },
+  {
+   "cn": "获得性血管神经性水肿",
+   "en": "acquired angioneurotic oedema，AAE",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.9.20",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "表现为各种过敏症状或荨麻疹及反复发作水肿的疾病。通常累及颜面部、嘴唇、咽喉、上肢、生殖器等。可为免疫性、非免疫性或原发性。通常为过敏所致，血管紧张素转化酶抑制剂类药物可导致该病。"
+  },
+  {
+   "cn": "艾滋病",
+   "en": "acquired immune deficiency syndrome，AIDS",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.022",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "全称“获得性免疫缺陷综合征”。由感染人类免疫缺陷病毒（human immunodeficiencyvirus，HIV）引起的一种破坏性和危害性极大的传染病。主要通过性接触、血液和母婴传播。HIV 可严"
+  },
+  {
+   "cn": "艾滋病污名化",
+   "en": "acquired immune deficiency syndrome stigmatization",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.024",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "对艾滋病感染者及与之有关的个体、团体或社区的负面的态度或信念如偏见、轻视、诋毁等。"
+  },
+  {
+   "cn": "艾滋病治疗",
+   "en": "acquired immune deficiency syndrome treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.029",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "人感染艾滋病病毒后，采取的对症、支持、抗病毒和免疫系统恢复等综合治疗方法。"
+  },
+  {
+   "cn": "艾滋病病毒筛查",
+   "en": "acquired immune deficiency syndrome screening",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.027000000000001",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在充分保障艾滋病病毒感染者和艾滋病病人权利的前提下，运用医学检验手段和技术对被筛查对象血液中的艾滋病病毒抗体进行检测，以确定是否被艾滋病病毒感染的防治措施。"
+  },
+  {
+   "cn": "艾滋病歧视",
+   "en": "acquired immune deficiency syndrome discrimination",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.025",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "对艾滋病个体或群体的不公正对待。是艾滋病患者或感染者被污名化所导致的不当行为，它可直接或间接影响其生存质量，对其抗病毒治疗和服药依从性等均具有不同程度影响。"
+  },
+  {
+   "cn": "艾滋病防治",
+   "en": "acquired immune deficiency syndrome prevention and control",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.023",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依照法律法规和相关政策，国家、社会和医疗卫生专业人员利用医学专业知识和社会制度安排，对艾滋病病毒的传播实施干预措施，并对患病及感染人群进行治疗，促进艾滋病患者及易感人群的有效预防、治疗、护理以及救助的"
+  },
+  {
+   "cn": "艾滋病防治伦理",
+   "en": "acquired immune deficiency syndrome prevention and treatment ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.058",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在防治艾滋病的过程中涉及的伦理问题及应遵循的伦理规范。包括尊重患者，消除其心理疑虑；及时报告疫情，防止传染；普及性病防治知识，预防性病传播；明确诊断，积极治疗；减少歧视，为患者保密等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

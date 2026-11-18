@@ -1,0 +1,802 @@
+{
+ "key": "repetition rank",
+ "term": "repetition rank",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:16:01+00:00",
+ "status": "ok",
+ "note": "variant=repetition rank; 审定公布名词库=1204; 海峡两岸名词对照库=521; 其他来源数据库=63; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "复述",
+   "en": "repetition",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.172",
+   "subjectFullName": "物理医学与康复_康复功能评定_言语障碍评定",
+   "subjectName": "言语障碍评定",
+   "publishYear": "2014",
+   "definition": "患者言语能力的一项检测内容，即要求患者重复检查者说的数、词、短语和长句，必须准确无误，不能漏掉关键词。在要求患者重复检查者说的词句时，有复述障碍者常不能准确复述检查者说出的内容。"
+  },
+  {
+   "cn": "重读",
+   "en": "repetition",
+   "source": "教育学名词",
+   "wordNumber": "14.186",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "由于学生学业、健康或操行等原因，不得升入高一年级而留在原来的年级重新学习的现象。"
+  },
+  {
+   "cn": "反复",
+   "en": "repetition",
+   "source": "语言学名词",
+   "wordNumber": "08.158",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。连续或间隔反复使用同一词语、句子或句群，又可分为连续反复和间隔反复两种。"
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "动物学名词",
+   "wordNumber": "2.002",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "分类单元在分类系统中的位置。"
+  },
+  {
+   "cn": "秩次",
+   "en": "rank",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.127",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "变量值按照从小到大顺序所编的秩序号。"
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "植物学名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "根据种系发生关系决定分类单位在分类系统中的位置。"
+  },
+  {
+   "cn": "职级",
+   "en": "rank",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0353",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "难易程度、责任轻重、所需资格条件及工作性质相同或充分相似的职位集合。"
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "微生物学名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "根据系统发育关系决定分类单元在分类系统中的位置。"
+  },
+  {
+   "cn": "品级",
+   "en": "Rank",
+   "source": "世界历史名词",
+   "wordNumber": "05.0022",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "18世纪初至20世纪初，按照官阶表制定的帝俄官员等级，共14等，最高为第1等。"
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "昆虫学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "根据系统发育关系决定的分类单元在分类系统中的位置。"
+  },
+  {
+   "cn": "可重复性",
+   "en": "repetitiveness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0713",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "佩特里网的一种结构性质。一个网 N称为可重复网是指存在初始标识<img src='/root/syzx/static/spz/jsjkx3.02.0635.001.png'/>，使得在网系统（N,<i"
+  },
+  {
+   "cn": "排序",
+   "en": "ranking",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0484",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "数据之间的内部关系，决定它们的先后次序。"
+  },
+  {
+   "cn": "重复频率",
+   "en": "repetition rate",
+   "source": "光学名词",
+   "wordNumber": "01.103",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述光学脉冲特性的一个物理量。以每秒的脉冲数量来表示，其单位为Hz。"
+  },
+  {
+   "cn": "重读率",
+   "en": "repetition rate",
+   "source": "教育学名词",
+   "wordNumber": "14.193",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "在特定年级中出现的重读学生数占学年末该年级学生总数的比例。"
+  },
+  {
+   "cn": "重稿检查",
+   "en": "repetition check",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.056",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "为防止重复发稿，将上版稿件与当期所有签发上版稿件及历史见报稿件进行的相似度检查。"
+  },
+  {
+   "cn": "复测法",
+   "en": "repetition method",
+   "source": "测绘学名词",
+   "wordNumber": "06.029",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "观测一个水平角的n倍角，并取其中数，求得该角值的方法。"
+  },
+  {
+   "cn": "重复启动",
+   "en": "repetition priming",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.193",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "在两个相邻刺激中，前一个刺激对后续刺激的加工有促进作用的现象。常表现为反应时间缩短。"
+  },
+  {
+   "cn": "重复扩张",
+   "en": "repetition expansion",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "医学美学与美容医学_美容外科学",
+   "subjectName": "美容外科学",
+   "publishYear": "2015",
+   "definition": "在皮肤软组织扩张术中，如果一次扩张不足以修复全部病变区时，可在二期手术转移后的扩张皮瓣下再次置入扩张器，进行重复扩张的方法。"
+  },
+  {
+   "cn": "复测经纬仪",
+   "en": "repetition theodolite",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.225",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_大地测量仪器_经纬仪",
+   "subjectName": "经纬仪",
+   "publishYear": "2003",
+   "definition": "带有复测机构的经纬仪。"
+  },
+  {
+   "cn": "例行复述",
+   "en": "routine repetition",
+   "source": "航海科技名词",
+   "wordNumber": "14.0142",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "管列",
+   "en": "rank",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "秩",
+   "en": "rank",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "重复性",
+   "en": "repetitiveness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重复率",
+   "en": "repetition rate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复测法",
+   "en": "repetition method",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "重复频率",
+   "en": "repetition frequency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重复周期",
+   "en": "repetition interval",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动重发",
+   "en": "automatic repetition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "例行复述",
+   "en": "routine repetition",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重复序列",
+   "en": "repetitive sequence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重复性聚合物",
+   "en": "repetitive polymer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重复操作",
+   "en": "repetitive operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重复DNA",
+   "en": "repetitive DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重复序列",
+   "en": "repetitive sequence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重复DNA",
+   "en": "repetitive DNA",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重复序列",
+   "en": "repetitive sequence",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可重复向量",
+   "en": "repetitive vector",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "秩相关，等级相关",
+   "en": "rank correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重复灯",
+   "en": "repetition lamp",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重复灯",
+   "en": "repetition lamp",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名赛",
+   "en": "ranking round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作重复",
+   "en": "repetition of elements",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排序学习",
+   "en": "learning to rank",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排序融合算法",
+   "en": "rank aggregation algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification\",\"ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification\",\"ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世界杯排名",
+   "en": "World Cup Ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名表",
+   "en": "ranking list\",\"biography",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在线排序学习",
+   "en": "online learning to rank",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification\",\"placing\",\"ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "学习排序算法",
+   "en": "learning-to-rank (LTR) algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "明分使群",
+   "en": "Proper Ranking Leads to Collaboration.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "搜索引擎广告排名算法",
+   "en": "ranking algorithm for search engine advertising",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“打虎”“拍蝇”“猎狐”",
+   "en": "“taking out tigers,” “swatting flies,” and “hunting down foxes” (anti-corruption actions against high-ranking officials, low-ranking officials, and fugitive officials that fled overseas)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网上信访",
+   "en": "online petition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自行车架",
+   "en": "rack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "马克思主义",
+   "wordNumber": "03.0048",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在阶级社会为了维护少数统治阶级的特权而形成的等级森严的阶层。不同的等级之间，乃至同一阶级、阶层之间也存在着不同的特权差异，并且其间壁垒森严。"
+  },
+  {
+   "cn": "市民等级",
+   "en": "civil rank",
+   "source": "马克思主义",
+   "wordNumber": "03.0176",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "西欧中世纪封建城市的居民，主要指手工业者和商人。他们受到封建领主的司法和行政管辖，担负赋税和劳役。13—14世纪以后，该等级开始分化，一些大行东逐渐演变为剥削雇佣工人的资本家，成为市民阶级，而一些小行"
+  },
+  {
+   "cn": "风险分级",
+   "en": "risk ranking",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.11",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据对目标人群健康造成不良影响的可能性和严重性，对食源性危害和/或食品的公共健康风险进行系统分析并排序的过程"
+  },
+  {
+   "cn": "等级评价",
+   "en": "rank value method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "应用离差法原理，根据符合正态分布的计量资料的均值、标准差和位置的远近，划分成5、7或9个等级，建立某指标（如身高、体重）正常值的方法。"
+  },
+  {
+   "cn": "风险分级管理",
+   "en": "risk ranking management",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.14",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "以风险分析为基础，结合食品生产经营者的食品类别、经营业态及生产经营规模、食品安全管理能力和监督管理记录情况，按照风险评价指标，划分食品生产经营者风险等级，并结合当地监管资源和监管能力，对食品生产经营者"
+  },
+  {
+   "cn": "NF-κB受体激活蛋白",
+   "en": "receptor activator of NF-κB, RANK",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.33",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "属肿瘤坏死因子受体超家族成员(TNFRSF11A)。主要表达于某些活化T细胞、树突状细胞、造血细胞前体，与其配体RANKL相互作用参与破骨细胞分化、淋巴细胞发育和淋巴结形成，并为活化的T细胞、树突状细"
+  },
+  {
+   "cn": "银行",
+   "en": "bank",
+   "source": "马克思主义",
+   "wordNumber": "02.0260",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "经营货币、信用业务的金融企业。通过办理存款、贷款、汇兑、储蓄、结算等业务充当信用中介人。资本主义制度下，银行经营货币资本，通过存贷款的利息差额和中介费等分享剩余价值。"
+  },
+  {
+   "cn": "银行资本",
+   "en": "bank capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0261",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "投资者为经营银行业而投入的自有资本或通过各种途径集中起来的货币资本。银行资本包括现金（金、银行券）、有价证券。银行资本充当信用中介促进了资本周转和集中，结算业务则节省了流通费用。其利润来源于对职能资本"
+  },
+  {
+   "cn": "银行券",
+   "en": "bank note",
+   "source": "马克思主义",
+   "wordNumber": "02.0262",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "银行发行的一种信用货币，从货币作为支付手段的职能产生。银行以贴现的商业票据作抵押，发行以银行信用作担保的银行券，持有者可用以代替金属货币，这使得银行券成为流通的货币。"
+  },
+  {
+   "cn": "银行信贷",
+   "en": "bank credit",
+   "source": "马克思主义",
+   "wordNumber": "02.0263",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "银行信贷是银行吸收存款、发放贷款等活动的统称，它是以商业银行、储蓄贷款协会、信用合作社等金融机构为信用中介的金融活动的最主要形式。"
+  },
+  {
+   "cn": "银行国有化",
+   "en": "bank nationalization",
+   "source": "马克思主义",
+   "wordNumber": "02.0319",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "将银行收归国家所有的过程。银行国有化是国家所有制经济形成过程中的一条重要途径。资本主义国家利用银行国有化来为整个资产阶级整体服务。"
+  },
+  {
+   "cn": "条目池",
+   "en": "item bank",
+   "source": "社会医学名词",
+   "wordNumber": "5.4.1.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "所有备选的有关条目的集合。"
+  },
+  {
+   "cn": "柔然",
+   "en": "Rou Ran",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0045",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名、古地方政权名。源于东胡。以游牧为主，兼事狩猎。初依附于北魏，后建立柔然汗国。555 年，柔然汗国被北魏灭亡，族众部分融入各民族中，部分西迁。"
+  },
+  {
+   "cn": "人乳库",
+   "en": "human milk bank",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.19",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "招募母乳捐赠者，收集捐赠母乳，并负责母乳的筛查、加工、储存和分配工作的非营利性专业机构。"
+  },
+  {
+   "cn": "放射性气体衰变箱",
+   "en": "radioactive gas decay tank",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.6.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "用于收集、贮存（或加压贮存）含有短半衰期放射性核素的气体的容器。"
+  },
+  {
+   "cn": "社区名誉保护原则",
+   "en": "principle of preserving the reputation of the community",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.043",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在疫情防控过程中，为避免将种族、地域等社区特征与传染性疾病相联系，造成对某些社区及其人群的歧视而制定的避免社区名誉受到不正当损害的行为准则。"
+  },
+  {
+   "cn": "坦克兵作业卫生",
+   "en": "operation hygiene of tank soldiers",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.9.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "识别、评价、预测和控制坦克作业环境中的不良因素对作业者健康和作业效能的影响，创造安全、健康和高效的作业环境和作业方式，提高作业效率，保障作业者健康的卫生措施。"
+  },
+  {
+   "cn": "钱庄",
+   "en": "old-style Chinese private bank",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0082",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国清代以办理存款、放款为主，间或经营汇兑的一种信用机构，起源于经营银、钱兑换的钱摊，主要分布在长江流域和东南各大城市；放款对象主要是商业行号。"
+  },
+  {
+   "cn": "NF-κB受体激活蛋白配体",
+   "en": "receptor activator of NF-κB ligand, RANKL",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.34",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "属肿瘤坏死因子超家族成员(TNFRSF11)，可诱导RANK阳性T细胞NF-κB的核转位，参与破骨细胞分化，参与淋巴结形成和淋巴细胞发育，提高混合淋巴细胞反应中树突状细胞对初始T细胞的刺激能力，延长I"
+  },
+  {
+   "cn": "银行中心的社会主义模式或证券社会主义模式",
+   "en": "bank centric market socialism or coupon socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0177",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "美国经济学家约翰·罗默（John E.Roemer）在《社会主义的未来》中提出。主张设定两种货币，即现金货币和证券货币。政府在公共企业内把证券货币分给每个21岁以上的成年人，并允许他们在有生之年对拥有"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

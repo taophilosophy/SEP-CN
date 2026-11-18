@@ -1,0 +1,712 @@
+{
+ "key": "human communities",
+ "term": "human communities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:20:45+00:00",
+ "status": "ok",
+ "note": "variant=human communities; 审定公布名词库=1897; 海峡两岸名词对照库=571; 其他来源数据库=195; 预公布名词数据库=298; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "人文地图",
+   "en": "humanities human map",
+   "source": "测绘学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "反映社会和上层建筑各个领域的事物和现象，即人文现象的各种地图。"
+  },
+  {
+   "cn": "人力资源生活性",
+   "en": "human resource humanism",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.044",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "人力资源以人身作为天然载体，蕴藏在生命个体之中，是一种活的资源，并与人的自然生理特征相联系，具有生活性。要维持发展现有的人力资源，就必须保证人力资源拥有者的生活条件与费用。"
+  },
+  {
+   "cn": "人文主义",
+   "en": "humanism",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.310",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "狭义为专业术语。广义是对文艺复兴时期出现的文化思想、文化理想的一种概括性总结。作为一种新思想理念，是对中世纪基督教会强权统治的一种反动，核心内容是“人”，亦称人本主义。主要内容包括：主张人性、人权，否"
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "心理学名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "倾向于人文关怀价值取向的哲学思潮与流派。"
+  },
+  {
+   "cn": "人文学科",
+   "en": "humanities",
+   "source": "教育学名词",
+   "wordNumber": "04.079",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "拉丁文原意为“人性、教养”，欧洲14—15世纪文艺复兴运动中指以人和自然为对象的世俗学问。同“神学学科”相对。"
+  },
+  {
+   "cn": "人文主义",
+   "en": "Humanism",
+   "source": "世界历史名词",
+   "wordNumber": "02.1193",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "中世纪后期出现的，社会价值取向倾向于对人的个性的关怀，注重强调维护人性尊严，提倡宽容，反对暴力，主张自由平等和自我价值体现的一种哲学思潮与世界观。"
+  },
+  {
+   "cn": "人居环境",
+   "en": "human settlement,human habitat",
+   "source": "建筑学名词",
+   "wordNumber": "07.0043",
+   "subjectFullName": "建筑学_城乡规划_城乡规划总论",
+   "subjectName": "城乡规划总论",
+   "publishYear": "2014",
+   "definition": "人类集聚或居住的生存环境，特别是指建筑、城市、风景园林等整合的人工建成环境。"
+  },
+  {
+   "cn": "人与人之间传播",
+   "en": "human-to-human transmission",
+   "source": "感染病学名词",
+   "wordNumber": "01.0316",
+   "subjectFullName": "感染病学_总论_感染病流行病学",
+   "subjectName": "感染病流行病学",
+   "publishYear": "2019",
+   "definition": "传染病的病原体以感染的人作为传染源，通过适当的传播途径传给易感者，并导致易感人群被感染的传播方式。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "风景园林名词",
+   "wordNumber": "13.0014",
+   "subjectFullName": "风景园林_其他_景观社会学",
+   "subjectName": "景观社会学",
+   "publishYear": "2025",
+   "definition": "在一定地域内发生各种社会关系和社会活动，有特定的生活方式，并具有成员归属感的人群所组成的一个相对独立的社会实体。"
+  },
+  {
+   "cn": "群落",
+   "en": "community",
+   "source": "风景园林名词",
+   "wordNumber": "12.0001",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "在一定时间内聚集于一定生境中的不同种群所组成的生物系统。虽然是由植物、动物、微生物等各种生物有机体组成，但仍是一个具有一定成分和外貌比较一致的组合体；一个群落中的不同种群不是杂乱无章地散布，而是有序而"
+  },
+  {
+   "cn": "传播",
+   "en": "communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.001",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "人的一种基本存在方式。在一定社会结构与社会关系中，人借助一定媒介，通过象征符号完成的以信息传递与交流为特性的互动行为。①同义词“交流”“沟通”。用于强调交际关系的双向性与平等的意义。②同义词“交往”。"
+  },
+  {
+   "cn": "群落",
+   "en": "community ",
+   "source": "草学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "社群",
+   "en": "community",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.066",
+   "subjectFullName": "新闻学与传播学_公共关系_公共关系构成",
+   "subjectName": "公共关系构成",
+   "publishYear": "2022",
+   "definition": "在某些边界线、地区或领域内发生作用的一切社会关系。既可以是实际的地理区域或是在某区域内发生的社会关系；也可以是存在于较抽象的、思想上的关系。具有稳定的群体结构和较一致的群体意识；成员有一致的行为规范、"
+  },
+  {
+   "cn": "通信",
+   "en": "communication",
+   "source": "动物学名词",
+   "wordNumber": "7.0308",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "通过使用相互理解的信息和信息规则从一个个体或群体传递到另一个个体或群体的行为。涉及的步骤常包括通信动机的形成、信息编码（如嗅觉、视觉、味觉等）、信息组成、信息传输、受体动物的信息解码和决策等。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "城乡规划学_社区与住房规划_城乡社区发展及规划理论与方法",
+   "subjectName": "城乡社区发展及规划理论与方法",
+   "publishYear": "2021",
+   "definition": "（1）由居住在一定范围内的个人、家庭及社会群体所组成的社会生活共同体，居民之间有共同的意识和利益以及较密切的社会交往。（2）互联网环境下出现的，按照行业职业、特定话题或爱好等进行分类或具有运营性质的网"
+  },
+  {
+   "cn": "沟通",
+   "en": "communication",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.112",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "人与人之间交换意见、观点和情感的过程。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0568",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "居住在一定区域内的人们所组成的社会生活共同体。"
+  },
+  {
+   "cn": "沟通",
+   "en": "communication",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0208",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_领导与权力",
+   "subjectName": "领导与权力",
+   "publishYear": "2016",
+   "definition": "人际之间、人与群体或组织间进行思想与感情信息的传递和反馈的过程。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "建筑学名词",
+   "wordNumber": "07.0275",
+   "subjectFullName": "建筑学_城乡规划_详细规划",
+   "subjectName": "详细规划",
+   "publishYear": "2014",
+   "definition": "一般指以街道、居住区等为基础，由一定数量的社会成员组成的、有着共同意识和利益以及较密切交往的社会群体。"
+  },
+  {
+   "cn": "沟通",
+   "en": "communication",
+   "source": "心理学名词",
+   "wordNumber": "07.093",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "人与人之间信息、情感和物品形式的交流。"
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群落",
+   "en": "community",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共因子方差比,共同度",
+   "en": "communality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沟通",
+   "en": "communication",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群落",
+   "en": "community",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "通信",
+   "en": "communication",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "通信[学]",
+   "en": "communication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通信性",
+   "en": "communicativeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通讯",
+   "en": "communication",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "沟通",
+   "en": "communication",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "交通",
+   "en": "communication",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "通信",
+   "en": "communication",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "人体解剖学",
+   "en": "human anatomy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人体胚胎学",
+   "en": "human embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人类气候",
+   "en": "human climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人类生物气候学",
+   "en": "human bioclimatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人类生物气象学",
+   "en": "human biometeorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人为失误，人误",
+   "en": "human error",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肉眼",
+   "en": "human eye",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "人",
+   "en": "Human Being; Humanity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通信传输",
+   "en": "communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源",
+   "en": "Human Resources",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人乳头（状）瘤病毒",
+   "en": "human papillomavirus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人本计算",
+   "en": "human computation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类增强",
+   "en": "human enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人道主义",
+   "en": "humanism",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "起源于欧洲15世纪文艺复兴运动以来的思想体系，核心是尊重人性，维护人的尊严与价值。"
+  },
+  {
+   "cn": "人化",
+   "en": "humanization",
+   "source": "马克思主义",
+   "wordNumber": "01.0132",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人通过劳动把自己的本质力量凝聚和体现在对象上，使对象对人而言不再是异己的、对立的，而成为人的世界的一部分。"
+  },
+  {
+   "cn": "人类命运共同体",
+   "en": "human community with a Shared Future",
+   "source": "马克思主义",
+   "wordNumber": "03.0800",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2011年以来中国政府和领导人关于国际关系和人类社会未来的新理念。其基本内涵是：各国共处一个地球、一个世界，在追求本国利益时应兼顾他国合理关切，在谋求本国发展中要促进各国共同发展。"
+  },
+  {
+   "cn": "社会共同体",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "人类历史上由共同生活和社会互动形成的、建立在一定文化认同基础上的、以特定关系和纽带联系起来的稳定的人群联合体。前现代社会人类群体存在的普遍形式。其特征和形式与一定的社会生产方式相联系并受此发展状况影响"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.1",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围，小到村庄、邻里、教区，大到城镇、城市。有时也指不受地理空间限制、具有共同兴趣爱好、分布广泛而又紧密联"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "聚居在一定地域中，有着互动关系和共同文化的人群的生活共同体。一般认为其基本的构成要素包括：一定数量的、以一定生产关系为基础组织起来的人口；一定的地域界限；居民间的认同意识；一套规范和组织系统。"
+  },
+  {
+   "cn": "交往",
+   "en": "communication",
+   "source": "马克思主义",
+   "wordNumber": "01.0147",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯在《德意志意识形态》中提出的概念，指各个人、民族、国家之间的交流、往来及相互作用行为。交往是从物质生产中发展起来的，交往及其形式由生产决定，但“生产本身又是以个人彼此之间的交往为前提的”"
+  },
+  {
+   "cn": "公社",
+   "en": "commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0007",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "建立在公有制基础上，工业、农业和手工业直接结合的自给自足的经济共同体。其普遍的特征，是土地公有、农业和手工业结合、协作劳动、经济自给自足、彼此独立等等。"
+  },
+  {
+   "cn": "共产主义",
+   "en": "communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0014",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）人类最理想的社会制度。人类社会发展的高级形态。根据马克思和恩格斯的设想，共产主义社会是人类社会发展史上继资本主义社会之后的一种以生产资料公有制为基础的、消灭了一切剥削关系的社会形态。它实行“各尽"
+  },
+  {
+   "cn": "共同体",
+   "en": "community",
+   "source": "马克思主义",
+   "wordNumber": "03.0074",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定区域的居民、团体或国家在共同条件下结成的集体组织。德国古典社会学家滕尼斯将共同体分为血缘共同体，地缘共同体，精神共同体。马克思主要从所有制的角度解读共同体。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0081",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以一定地理区域为基础的社会群体。具体特征有：有一定的地理区域，有一定数量的人口，居民之间有共同的意识和利益，并有着较密切的社会交往。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "若干社会群体(家庭、氏族)或社会组织(机关、团体)聚集在某一地域里所形成的一个生活上相互关联的大集体。一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "人伦",
+   "en": "human ethic",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "人们在社会中按年龄、智力、职业等分工而建立的社会秩序以及由此产生的彼此关系以及对关系的道德准则。也指父子、君臣、长幼、夫妇、朋友等“五伦”，为中国传统社会包含了血缘、文化、政治关系的总括和道德准则。"
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "研究城市环境的空间分布以及人与环境关系的学说。由以派克(Robert E.Park）、伯吉斯（Ernest W.Burgess）等社会学者为代表的芝加哥学派于20世纪20年代创立，强调城市的物质环境对"
+  },
+  {
+   "cn": "人的需要",
+   "en": "human needs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "人感受到自身内在的物质或者精神上的缺乏，为了维持生存和发展，而对于外界事物的摄取欲望和要求。"
+  },
+  {
+   "cn": "人的本质",
+   "en": "human essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0134",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人区别于其他物的本质规定性。马克思指出：“人的本质并不是单个人所固有的抽象物。在其现实性上，它是一切社会关系的总和。”人的本质是人作为实践的存在、自我创造的主体性存在和社会历史性存在所体现的特性。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "人力资本",
+   "en": "human capital",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.1.2",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求",
+   "subjectName": "健康需求",
+   "publishYear": "2025",
+   "definition": "人内在的生产能力和知识，通过包括教育、培训、健康、经验、技巧等投资而获得的人力资产的经济价值总和。"
+  },
+  {
+   "cn": "人类地理学",
+   "en": "human geography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0508",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪，德国民族学家拉采尔（Friedrich Ratzel）创用了“人类地理学”一词，探讨环境对人类活动及演化的影响，认为存在着协调的人地关系。拉策尔在强调地理环境对人的决定性意义的同时，也考虑"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

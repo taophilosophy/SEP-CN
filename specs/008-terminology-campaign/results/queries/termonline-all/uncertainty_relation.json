@@ -1,0 +1,702 @@
+{
+ "key": "uncertainty relation",
+ "term": "uncertainty relation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:16:23+00:00",
+ "status": "ok",
+ "note": "variant=uncertainty relation; 审定公布名词库=3702; 海峡两岸名词对照库=1305; 其他来源数据库=153; 预公布名词数据库=220; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "不确定[度]关系",
+   "en": "uncertainty relation",
+   "source": "物理学名词",
+   "wordNumber": "06.0448",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "经济学名词",
+   "wordNumber": "03.072",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "经济主体既不能确定某种经济事件在未来产生的结果，也不能确定经济事件产生各种结果的可能性大小。出现不确定性的原因在于经济主体作为决策者在很大程度上对未来的认识是不完全的，或者经济主体的行为本身就具有不确"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0329",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "当一个事件或变量取值无法准确确定时，通常用可能发生的概率或区间表示。在进行风险特征描述时，应对所有可能的不确定性进行明确的描述和必要的解释。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.593",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "表征合理地赋予被测量值的分散性，与测量结果相联系的参数。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "物理学名词",
+   "wordNumber": "01.0283",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0024",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "表征某随机变量发生的不可靠性的物理量。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "化学名词",
+   "wordNumber": "03.0381",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "与测量结果相关联的、表征合理的赋予被测量的值分散性的参数。是描述未定误差特征的量值。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0338",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "系统对于环境信息完全性程度的反馈和可知性程度。"
+  },
+  {
+   "cn": "金融不确定性",
+   "en": "uncertainty",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0061",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "个体在承受风险情况下其偏好的特征。厌恶风险的人们在相同的成本下更倾向于做出低风险的选择。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "药学名词",
+   "wordNumber": "10.020",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "当一个事件或变量取值无法准确确定，通常用可能发生的概率或区间表示。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "从属于测量结果的一个参数，它表示测量值的离中趋势，从而通过以离中趋势来表明测量结果正确性的精密度。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "地理学名词",
+   "wordNumber": "25.027",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "系统状态过程随机或者无规律可循。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "化学工程名词",
+   "wordNumber": "07.024",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "不定度",
+   "en": "uncertainty",
+   "source": "数学名词",
+   "wordNumber": "012.0028",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "电子学名词",
+   "wordNumber": "17.033",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相对不确定度",
+   "en": "relative uncertainty",
+   "source": "电力名词",
+   "wordNumber": "02.136",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "不确定度与被测量值之比。"
+  },
+  {
+   "cn": "测量不确定度",
+   "en": "measurement uncertainty",
+   "source": "农学名词",
+   "wordNumber": "18.021",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "根据所用到的信息，表征赋予被测量量值分散的非负参数。"
+  },
+  {
+   "cn": "不确定系数",
+   "en": "uncertainty factor",
+   "source": "农学名词",
+   "wordNumber": "18.167",
+   "subjectFullName": "农产品质量安全_农产品质量安全管理",
+   "subjectName": "农产品质量安全管理",
+   "publishYear": "2025",
+   "definition": "一种简约系数。观察到的或估计的未观察到不良作用水平除以该系数，可得到一个认为是安全的或无可察觉风险的标准。"
+  },
+  {
+   "cn": "不确定性原理",
+   "en": "uncertainty principle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.376",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "W. K. 海森伯（W. K. Heisenberg）于1927年提出。其指出：不可能同时精确确定一个基本粒子的位置和动量。两个不对易的力学量（如坐标与位置）不能同时具有确定的值。也被称为“测不准原理"
+  },
+  {
+   "cn": "科学不确定性",
+   "en": "scientific uncertainty",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.045",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "科学研究和科学成果的应用不可完全预期的特征。由于科学认识对象的日益复杂，和认识主体的局限性，知识在生产、应用，以及决策过程中有许多不确定性，为科学探索、科学在人类社会中的应用带来不可预期的风险。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不明阶段",
+   "en": "uncertainty phase",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最大误差圆",
+   "en": "circle of uncertainty",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "[船位]误差圆",
+   "en": "circle of uncertainty",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"guanxi",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系亲缘",
+   "en": "floral relation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "查诺克关系式",
+   "en": "Charnock relation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候关系",
+   "en": "phenological relation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "热力学关系",
+   "en": "thermodynamic relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "麦克斯韦关系",
+   "en": "Maxwell relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "位相关系",
+   "en": "phase relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系式",
+   "en": "recursive relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "倒数关系",
+   "en": "reciprocal relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据高度不确定性",
+   "en": "high uncertainty of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络公关",
+   "en": "online public relations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法条关联",
+   "en": "Related Legal Provisions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.3",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对所关注的生物体、系统或（亚）人群当前或未来状态的不完全了解的程度。例如缺乏对某一数量“真实”值的了解、缺乏对哪个可选模型最能描述所关注系统的了解，或缺乏哪种分布函数及其参数能代表所关注数值的了解。"
+  },
+  {
+   "cn": "测量不确定度",
+   "en": "measurement uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.22",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "利用可获得的信息，表征赋予被测量量值分散性的非负参数。"
+  },
+  {
+   "cn": "标准不确定度",
+   "en": "standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.23",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "以标准偏差表示的测量不确定度。"
+  },
+  {
+   "cn": "扩展不确定度",
+   "en": "expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.27",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "合成标准不确定度与一个大于1的数字因子的乘积。"
+  },
+  {
+   "cn": "不确定性分析",
+   "en": "uncertainty analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.4",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "发现估计值中的不确定性来源并对结果误差的大小和方向进行评估的过程。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "expanded uncertainty",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "与测量结果相关联的、表征合理的赋予被测量的值分散性的参数。是描述未定误差特征的量值。"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "相对扩展不确定度",
+   "en": "relative expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.28",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "扩展不确定度除以测量结果的百分率。"
+  },
+  {
+   "cn": "不确定系数",
+   "en": "uncertainty factor, UF",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.40",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在制定健康指导值时所应用的从实验动物外推到人（假定人最敏感）或从部分个体外推到一般人群时的复合系数。"
+  },
+  {
+   "cn": "合成标准不确定度",
+   "en": "combined standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.26",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "由在一个测量模型中各输入量的标准不确定度获得的输出量的标准不确定度。"
+  },
+  {
+   "cn": "疾病的不确定性",
+   "en": "uncertainty of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "疾病的发生具有偶然性和突发性，其进展、严重程度、结局状态等难以准确预测。包括个体发病率不确定、疾病治疗效果的不确定、消费者健康状况以及对医疗服务的需求存在不确定性等。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "医疗服务不确定性",
+   "en": "uncertainty of medical service",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "卫生服务供给的特点。服务前，一种治疗方法对患有特定疾病的特定个体是否有效存在不确定性，服务过程中存在各种不确定因素，导致医疗服务的结果也具有不确定性。既不能确定某事件在未来产生的结果，也不能确定事件产"
+  },
+  {
+   "cn": "代际关系",
+   "en": "relation between generations",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "不同代际人群通过资源的分配与共享、感情的交流与沟通以及道德义务的意识与承担等发生这样或那样的交往关系。广义指社会上因地缘、业缘和其他关系产生的不同代际之间的交往关系。狭义的指家庭内因血缘和姻缘产生的交"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

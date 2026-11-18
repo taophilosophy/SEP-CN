@@ -1,0 +1,752 @@
+{
+ "key": "history and class consciousness",
+ "term": "History and Class Consciousness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:20:25+00:00",
+ "status": "ok",
+ "note": "variant=History and Class Consciousness; 审定公布名词库=10000; 海峡两岸名词对照库=2128; 其他来源数据库=1351; 预公布名词数据库=1206; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "历史与社会课",
+   "en": "history and socialstudy",
+   "source": "教育学名词",
+   "wordNumber": "07.176",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "在一定时间单位内，对学生进行历史、社会等教育的教学活动。"
+  },
+  {
+   "cn": "建筑历史与理论",
+   "en": "architectural history and theory",
+   "source": "建筑学名词",
+   "wordNumber": "04.0012",
+   "subjectFullName": "建筑学_建筑教育_建筑教育内容",
+   "subjectName": "建筑教育内容",
+   "publishYear": "2014",
+   "definition": "研究中外建筑历史的发展、理论和流派、建筑哲学思想和方法论等的专业领域。包括中国建筑史、外国建筑史、中国古代建筑法式制度、西方建筑理论及历史、建筑文化遗产保护理论等。"
+  },
+  {
+   "cn": "影视史学",
+   "en": "film and television history",
+   "source": "世界历史名词",
+   "wordNumber": "01.0038",
+   "subjectFullName": "世界历史_综合_世界历史学派、分支学科",
+   "subjectName": "世界历史学派、分支学科",
+   "publishYear": "2012",
+   "definition": "20世纪后期，在历史研究和认识中，以视觉影像及相应文字或语言传达和再现历史的新兴分支学科。"
+  },
+  {
+   "cn": "阶级",
+   "en": "class",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.028",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "马克思主义、社会学以及文化研究领域中的关键词。是与特定生产方式相联系的、以生产资料占有多少为区分标准的人群与权力的划分。在经典马克思主义理论中，它是一个重要的政治经济学术语；在社会学马克思主义理论中，"
+  },
+  {
+   "cn": "纲",
+   "en": "class",
+   "source": "动物学名词",
+   "wordNumber": "2.0028",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "介于门和目之间的分类阶元。由亲缘关系相近的亚纲或目组成。"
+  },
+  {
+   "cn": "类目",
+   "en": "class",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.197",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "文献分类中具有某种或某些共同属性的事物的集合。代表具有共同属性的一组主题文献，是组成文献分类表的基本单元，包括类名、类号、类的注释等。"
+  },
+  {
+   "cn": "纲",
+   "en": "class",
+   "source": "植物学名词",
+   "wordNumber": "02.0031",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "介于界和目之间的生物分类阶元。"
+  },
+  {
+   "cn": "类",
+   "en": "class",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0309",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "由一组抽取出共同属性、操作和语义的对象所构成集合。为属于该集合的全部对象实例提供了统一的抽象描述。"
+  },
+  {
+   "cn": "类",
+   "en": "class",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0225",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "具有相似属性和行为一组对象的抽象表示。"
+  },
+  {
+   "cn": "班级",
+   "en": "class",
+   "source": "教育学名词",
+   "wordNumber": "07.109",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "学校将一定数量且具有某些相同条件的学生组织在一起，对学生实施教育的基本单位。"
+  },
+  {
+   "cn": "课堂",
+   "en": "class",
+   "source": "教育学名词",
+   "wordNumber": "02.177",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "由教师和学生组成的学习共同体。是学校教学的基本形态。"
+  },
+  {
+   "cn": "类别",
+   "en": "class",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.339",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "具有相同属性特征的一组对象集合的统称。"
+  },
+  {
+   "cn": "阶级",
+   "en": "class",
+   "source": "世界历史名词",
+   "wordNumber": "02.0038",
+   "subjectFullName": "世界历史_古代中世纪_原始社会",
+   "subjectName": "原始社会",
+   "publishYear": "2012",
+   "definition": "按列宁的定义：所谓阶级，就是这样一些集团，这些集团在历史上一定社会生产体系中所处的地位不同，对生产资料的关系（这种关系大部分是在法律上明文规定了的）不同，在社会劳动组织中所起的作用不同，因而领得自己所"
+  },
+  {
+   "cn": "纲",
+   "en": "class",
+   "source": "昆虫学名词",
+   "wordNumber": "02.064",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "介于界和目之间的生物分类阶元。"
+  },
+  {
+   "cn": "类",
+   "en": "class",
+   "source": "数学名词",
+   "wordNumber": "01.0079",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "班",
+   "en": "class",
+   "source": "数学名词",
+   "wordNumber": "08.0247",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "组",
+   "en": "class",
+   "source": "数学名词",
+   "wordNumber": "09.0468",
+   "subjectFullName": "数学_概率论_数理统计_样本·统计量",
+   "subjectName": "样本?统计量",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "园林史",
+   "en": "landscape history,garden history",
+   "source": "林学名词",
+   "wordNumber": "09.008",
+   "subjectFullName": "林学_风景园林_园林史",
+   "subjectName": "园林史",
+   "publishYear": "2016",
+   "definition": "园林及其相关因素发生、发展和演变的历 史。"
+  },
+  {
+   "cn": "既往史",
+   "en": "past history,previous history",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.006",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "既往的疾病、手术、外伤和输血等与疾病相关的历史。"
+  },
+  {
+   "cn": "园林史",
+   "en": "landscape history,garden history",
+   "source": "建筑学名词",
+   "wordNumber": "08.0035",
+   "subjectFullName": "建筑学_风景园林_园林史",
+   "subjectName": "园林史",
+   "publishYear": "2014",
+   "definition": "园林及其相关因素发生、发展和演变的历史。"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciouness",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "纲",
+   "en": "class",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纲",
+   "en": "class",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "class",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类",
+   "en": "class",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纲",
+   "en": "class",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "纲",
+   "en": "class",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生活史",
+   "en": "life history",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物历史学",
+   "en": "plant history",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应力史",
+   "en": "stress history",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "个案历史",
+   "en": "case history",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "热史",
+   "en": "thermal history",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "热历史",
+   "en": "thermal history",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地方历史",
+   "en": "local history",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "环境史",
+   "en": "environmental history",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "计量史",
+   "en": "quantitative history",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "口述历史",
+   "en": "oral history",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "历史模型",
+   "en": "history model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "史",
+   "en": "History",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "级别",
+   "en": "class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别",
+   "en": "class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "class\",\"type",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智慧课堂",
+   "en": "smart class",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克级",
+   "en": "Olympic class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际级",
+   "en": "international class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别规则",
+   "en": "class rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别徽章",
+   "en": "class insignia",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别协会",
+   "en": "class association",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "级别信号",
+   "en": "class signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子组",
+   "en": "ladies’ class\",\"women’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子比赛",
+   "en": "ladies’ class\",\"women’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "咏史诗",
+   "en": "Poetry on History",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "某一阶级（主要是指无产阶级或工人阶级）认识到其共同的阶级利益并为追求其阶级利益而采取阶级行动，是马克思阶级理论的一个重要概念。"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "马克思主义",
+   "wordNumber": "05.0004",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "反映一个阶级特殊利益和要求的理论、观点和情绪的总和，是一个阶级对自身的阶级地位和阶级利益的自觉体会和认识。阶级意识是由阶级存在决定的，表现为不同阶级之间尖锐的意识形态和思想斗争。卢卡奇在《历史与阶级意"
+  },
+  {
+   "cn": "消灭阶级和阶级差别",
+   "en": "eliminate class and class differences",
+   "source": "马克思主义",
+   "wordNumber": "03.0023",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会上不再存在任何阶级，人与人之间不再存在阶级关系。阶级是在社会生产力有了一定发展而又发展不足的条件下产生的。消灭阶级和阶级差别的物质前提是社会生产力的高度发展。阶级是否消亡是社会主义社会与共产主义社"
+  },
+  {
+   "cn": "跨国阶级与阶级斗争",
+   "en": "transnational class and class struggle",
+   "source": "马克思主义",
+   "wordNumber": "05.0139",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "由于资本主义全球化，形成了跨国资产阶级与跨国劳动阶级。当前的阶级冲突已经不完全是一国内部的阶级冲突，世界范围内的主要冲突之一是南北国家垄断资产阶级的统治联盟和南北国家被统治阶级联盟之间的冲突。"
+  },
+  {
+   "cn": "历史",
+   "en": "history",
+   "source": "马克思主义",
+   "wordNumber": "04.0051",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广义的历史包括自然史和人类史，也泛指一切事物的变化发展过程。狭义的历史指人类社会已发生的事件、经历的过程。自然史通常是在没有人的意识参与的情况下进行的，而人类史则是由有意识的人所创造的。自从人类产生以"
+  },
+  {
+   "cn": "阶级",
+   "en": "class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "在收入、身份、社会地位等方面存在明显差异的社会群体。社会科学界存在多种相互争议的定义，比较著名的定义来自马克思和韦伯等理论家。"
+  },
+  {
+   "cn": "阶级",
+   "en": "class",
+   "source": "马克思主义",
+   "wordNumber": "03.0089",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会人群在一定的生产关系中由于所处的生产资料所有制及其经济政治地位的不同而形成的不同集团。各阶级内部由地位的不同而形成不同的阶层。阶级形成的条件是生产力的发展、社会分工和剩余产品的出现，使生产资料逐步"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "马克思主义",
+   "wordNumber": "01.0011",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界长期发展的产物，是人脑的机能，是物质世界在人脑中的主观映像。意识也是社会的产物。意识由物质决定，又具有相对独立性和能动性，能够能动地反映和改造世界。"
+  },
+  {
+   "cn": "口述史",
+   "en": "oral history",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.18",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从历史事件的见证人或参与者那里收集和分析他们对过去事件的讲述。"
+  },
+  {
+   "cn": "历史多元论",
+   "en": "pluralistic history",
+   "source": "社会学名词",
+   "wordNumber": "2.9.5.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁理论",
+   "subjectName": "社会变迁理论",
+   "publishYear": "2025",
+   "definition": "认为决定历史发展变迁的因素是多元的，各种因素独立存在并影响着社会的发展变迁的理论。美国实用主义哲学家詹姆士、杜威等人都持历史多元论观点。"
+  },
+  {
+   "cn": "思想史",
+   "en": "intellectual history",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.1",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "关于人类理智创造和理解随着时间的推移而不断传播、存续和变化过程的一种研究。主张思想是人类理智能力的功能，而创造和理解则是人类思想或理智能力的表现，认识到人类生活的有意义性并将这一理解与人类生活的意义紧"
+  },
+  {
+   "cn": "总体史",
+   "en": "total history",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.15",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种涉及社会生活的诸方面的历史，将不同领域视为一个整体的各个组成部分，而要理解其中任何一个领域，都要将其置于整体的历史之中。"
+  },
+  {
+   "cn": "概念史",
+   "en": "conceptual history",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.22",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种关于概念的历史形成及其转化对社会科学的影响的研究，亦即关于概念形成的历史社会学。在英语世界中，它以观念论取向的语境脉络分析为主，而在德语世界中，是以社会取向的语境脉络分析为主，两者均属于历史社会学"
+  },
+  {
+   "cn": "世界历史",
+   "en": "world history",
+   "source": "马克思主义",
+   "wordNumber": "03.0175",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义关于人类发展的重要观点。随着社会生产力的发展、贸易自由的实现和世界市场的建立，随着现代工业生产以及与之相适应的生活条件的趋于一致，各国人民之间的民族分隔日益消失。原始封闭状态由于日益完善的生"
+  },
+  {
+   "cn": "《十善福白史》",
+   "en": "White History",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0293",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "全称《崇高至上转轮圣王十善福白史》。又称《杂噶拉斡尔第汗所编之经卷源流》。蒙古文史书。汉译名作《杂噶拉斡尔第汗所编之经卷源流》。主要记述元代史迹，特别是佛教教规，并增加明代蒙古的历史和藏传佛教格鲁派在"
+  },
+  {
+   "cn": "医学史",
+   "en": "medical history",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.181",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "结合不同历史时期的政治、经济、文化和科学技术对医学发展的影响，研究医学发展过程及其规律的学科。"
+  },
+  {
+   "cn": "《安宁史》",
+   "en": "Anning History",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0305",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "以察哈台维吾尔文撰写。作者为新疆维吾尔族学者毛拉·穆萨·赛拉米（Molla MusaSayrami）。成书于1903—1904 年，现收藏于新疆博物馆。叙述了有关宇宙、人类起源的传说和新疆有史以来至近"
+  },
+  {
+   "cn": "《黄史》",
+   "en": "Yellow History",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0289",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "蒙古文历史文献。成书于1662 年，作者不详。书中除了记述北元时期的蒙古诸汗史外，还详尽地记载了组成蒙古六万户和四万户的诸部情况，及卫拉特部谱系等内容。"
+  },
+  {
+   "cn": "生活史",
+   "en": "life history",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0667",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "常是关键报道人或叙述者的生活史，提供个人对文化的存在和变迁的文化叙述。"
+  },
+  {
+   "cn": "应急等级",
+   "en": "emergency class",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.12",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "有必要立即做出相似应急响应的一系列状态。用来向响应部门和公众通报所需的响应水平。针对每个应急等级，预先规定了响应部门的初始行动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,752 @@
+{
+ "key": "completeness proof",
+ "term": "completeness proof",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:29:25+00:00",
+ "status": "ok",
+ "note": "variant=completeness proof; 审定公布名词库=853; 海峡两岸名词对照库=143; 其他来源数据库=18; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "证明",
+   "en": "proof",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.154",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "根据已知为真的判断，来确定另一判断真实性的思维过程。广义上包括实践检验。"
+  },
+  {
+   "cn": "校样",
+   "en": "proof",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.247",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "将已经初步编辑完成的稿件和版面打印出来准备校对的样张。"
+  },
+  {
+   "cn": "校样",
+   "en": "proof",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.05.009",
+   "subjectFullName": "编辑与出版学_编辑_校对",
+   "subjectName": "校对",
+   "publishYear": "2022",
+   "definition": "根据发排稿排版后印出的供校对使用的样张。"
+  },
+  {
+   "cn": "证[明]",
+   "en": "proof",
+   "source": "数学名词",
+   "wordNumber": "01.0024",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "打样",
+   "en": "proofing ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.136",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "在信息载体上，呈现仿真印刷效果的影像，或制作出具有仿真影像的印张。"
+  },
+  {
+   "cn": "打样",
+   "en": "proofing",
+   "source": "测绘学名词",
+   "wordNumber": "04.355",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "在正式印刷前，预先复制样图的过程。"
+  },
+  {
+   "cn": "完备性",
+   "en": "completeness",
+   "source": "物理学名词",
+   "wordNumber": "06.0500",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整度",
+   "en": "completeness",
+   "source": "生物物理学名词",
+   "wordNumber": "02.234",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "衍射实验中实际收集到的独立的衍射点数与理论上可以收集到的独立的衍射点数的比值。代表了所收集衍射数据的完整性，最高为100%。"
+  },
+  {
+   "cn": "完备性",
+   "en": "completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0956",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "形式系统的一种性质：语义上为真的推论都可以用推理规则在语法上推导出来。"
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "数学名词",
+   "wordNumber": "02.0079",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "数学名词",
+   "wordNumber": "02.0079",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "1-完全的",
+   "en": "1-complete",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0172",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定计算可枚举集合 A ，如果对任何计算可枚举集合 X ， X<img src='/root/syzx/static/spz/jsjkx3.02.0170.002.png'/>A 均成立，则称 A 是"
+  },
+  {
+   "cn": "完备化",
+   "en": "completion",
+   "source": "数学名词",
+   "wordNumber": "07.0016",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完全[的]",
+   "en": "complete",
+   "source": "数学名词",
+   "wordNumber": "01.0062",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "σ完备",
+   "en": "σ-complete,sigma-complete",
+   "source": "数学名词",
+   "wordNumber": "07.0132",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "直接证明",
+   "en": "direct proof",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.156",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑证明的一种方法。依照推理规则直接从论据的真实性推出论题真实性的一种论证。"
+  },
+  {
+   "cn": "间接证明",
+   "en": "indirect proof",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.157",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "一种与“直接证明”相对的逻辑证明方法。常用的是反证，通过否定一个命题会导致与其他先前已被肯定的命题发生矛盾，从而确立这个命题成立。"
+  },
+  {
+   "cn": "小样",
+   "en": "galley proof",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.248",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "稿件正文和标题录入后打印出的样张。"
+  },
+  {
+   "cn": "清样",
+   "en": "final proof",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.25",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "小样、大样经过校对修改后打印出的样张。"
+  },
+  {
+   "cn": "清样",
+   "en": "clean proof",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.05.029",
+   "subjectFullName": "编辑与出版学_编辑_校对",
+   "subjectName": "校对",
+   "publishYear": "2022",
+   "definition": "改完版后重新打印的未经再次校对的纸样。"
+  },
+  {
+   "cn": "证明",
+   "en": "proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打样",
+   "en": "proofing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "完整性",
+   "en": "completeness",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防爆",
+   "en": "explosion proof",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抗腐蚀",
+   "en": "corrosion proof",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "打样图",
+   "en": "proof plot",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "彩色校样",
+   "en": "color proof",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "分色样张",
+   "en": "progressive proof",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "开印样",
+   "en": "press proof",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "样张",
+   "en": "proof copy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "构造性证明",
+   "en": "constructive proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互式证明",
+   "en": "interactive proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正确性证明",
+   "en": "correctness proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证明策略",
+   "en": "proof strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证明树",
+   "en": "proof tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识证明",
+   "en": "knowledge proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终止性证明",
+   "en": "termination proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防风雨的",
+   "en": "weather-proof",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "防水的",
+   "en": "water-proof",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成人",
+   "en": "Complete Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "零知识证明",
+   "en": "zero-knowledge proof",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "NP完全性理论",
+   "en": "theory of NP-completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人行程证明",
+   "en": "proof of travel; travel records ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全支配权",
+   "en": "right to complete dominance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一本胜",
+   "en": "complete win\",\"ippon-gachi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "试举成功",
+   "en": "completed attempt\",\"good lift",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双缰",
+   "en": "complete bridle\",\"double bridle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心悦诚服",
+   "en": "Be Completely Convinced and Follow Willingly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "记分获胜",
+   "en": "complete win\",\"decision by points\",\"win by score\",\"win on points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成竹于胸",
+   "en": "<p class=\"MsoNormal\"> Have&nbsp;a Complete Image of the Bamboo Before Drawing It / Have&nbsp;a Fully Formed Picture in the Mind’ Eye</p>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "患在土崩，不在瓦解",
+   "en": "Calamity Is Collapse Like a Landslide, Not a Few Roof-tiles Coming Loose.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "死亡证明",
+   "en": "death proof",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.023",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "基于临床诊断开具的包括死亡时间、地点和原因等在内的具有法律效力的文书。"
+  },
+  {
+   "cn": "变色完全",
+   "en": "discoloration completion",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在化学监测中，以颜色变化作为消毒灭菌效果的判定依据时，指示物达到了终点色的现象。"
+  },
+  {
+   "cn": "自杀死亡",
+   "en": "complete suicide",
+   "source": "社会医学名词",
+   "wordNumber": "13.3.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "自我伤害",
+   "publishYear": "2025",
+   "definition": "有自杀意念和行为并导致死亡的现象。"
+  },
+  {
+   "cn": "营舍防潮",
+   "en": "barrack damp proof",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.1.2.3.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为使营舍内的空气湿度、渗水、凝水等减少或降低至不影响人体健康、生活和工作，且不引起人体不舒适、不影响设备设施的正常运行和寿命的程度，通过建筑结构或人工措施，以各种物理、化学方法进行通风、排水等的操作。"
+  },
+  {
+   "cn": "坑道防潮",
+   "en": "tunnel moisture proofing",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "采用各种物理、化学方法或通风、排水等工程技术手段，使坑道中空气湿度、坑道内的渗水、凝水等减少或降低至不影响人体健康、生活和工作，且不引起人体不舒适、不影响设备设施的正常运行和寿命的程度。"
+  },
+  {
+   "cn": "整机寿命",
+   "en": "complete machine life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "成套或整体单机、单台形式的消毒器械的寿命。"
+  },
+  {
+   "cn": "完全缓解",
+   "en": "complete response，CR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归",
+   "subjectName": "预后与转归",
+   "publishYear": "2025",
+   "definition": "治疗后疾病完全控制，症状、体征、检查异常完全消失的状态。"
+  },
+  {
+   "cn": "完全积累制",
+   "en": "completely accumulative system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "根据长期收支平衡为原则来确定费率的基金筹集模式"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "青少年自杀死亡",
+   "en": "completed suicide in adolescent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.6.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "青少年有意图并采取行动而最终导致死亡的结果。其死亡有鲜明的“自我施予性”。"
+  },
+  {
+   "cn": "全营养配方食品",
+   "en": "nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.16",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "学校建设项目竣工验收",
+   "en": "school building projects completion acceptance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校预防性卫生监督",
+   "subjectName": "学校预防性卫生监督",
+   "publishYear": "2025",
+   "definition": "学校建设项目竣工后，对照已经卫生审查的设计图纸，对该项目的建筑施工、设备安装是否符合设计要求进行现场查验并提出意见的过程。"
+  },
+  {
+   "cn": "特定全营养配方食品",
+   "en": "special nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.17",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群在特定疾病或医学状况下的营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "非全营养配方食品",
+   "en": "nutritionally non-complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.29",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "不能作为单一营养来源，可满足目标人群部分营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "肿瘤全营养配方食品",
+   "en": "nutritionally complete formula foods for cancer",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.21",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为适应肿瘤患者代谢特点及肿瘤细胞分化特性，适当提高脂肪和蛋白质的供能比以及其他免疫功能相关营养素含量，使其可作为单一营养来源满足肿瘤患者营养需求的配方食品。"
+  },
+  {
+   "cn": "糖尿病全营养配方食品",
+   "en": "nutritionally complete formula food for diabetes",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.18",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为满足糖尿病患者的特殊需求，调整其营养素构成后加工配制而成，以改善糖尿病患者血糖及营养代谢相关指标的能够作为单一营养来源满足患者营养需求的配方食品。"
+  },
+  {
+   "cn": "《白古通纪》",
+   "en": "Complete Annals of Ancient Bai People",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0301",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "全名为《白古通玄峰年运志》，简称《白古通》；作者不详。是一部用白文撰写的白族历史典籍，大约成书于元末或明初。"
+  },
+  {
+   "cn": "肌肉衰减综合征全营养配方食品",
+   "en": "nutritionally complete formula foods for sarcopenia",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.23",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为适应患者肌肉流失、运动能力下降的生理特点，使用更易消化吸收的蛋白质并提高其供能比，适当调整氨基酸模式及微量营养素成分，使其可作为单一营养来源满足肌肉衰减综合征患者"
+  },
+  {
+   "cn": "肾病全营养配方食品",
+   "en": "nutritionally complete formula foods for renal diseases",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.20",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，根据肾病患者的病理生理特点，分别调整其营养素构成后加工配制而成的能够作为单一营养来源满足肾病患者营养需求的配方食品。"
+  },
+  {
+   "cn": "完整准确理解毛泽东思想",
+   "en": "understand Mao Zedong thought completely and accurately",
+   "source": "马克思主义",
+   "wordNumber": "03.0510",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在中共十届三中全会上对毛泽东思想的阐述。邓小平指出，毛泽东同志在不同的时间、条件对同样的问题讲的话，有时分寸不同，着重点不同，甚至一些提法也不同。不能够只从个别词句来理解毛泽东思想，而必须从毛泽"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

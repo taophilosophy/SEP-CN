@@ -1,0 +1,742 @@
+{
+ "key": "selective attention",
+ "term": "selective attention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:25:51+00:00",
+ "status": "ok",
+ "note": "variant=selective attention; 审定公布名词库=1654; 海峡两岸名词对照库=537; 其他来源数据库=39; 预公布名词数据库=65; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "生理学名词",
+   "wordNumber": "03.751",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.217",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "个体在同时呈现的两种以上的刺激中选择一种而忽略其他刺激的心理过程。"
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "心理学名词",
+   "wordNumber": "02.468",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在面临干扰或竞争刺激时，保持在行为或认知定向上的注意。"
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.184",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "选择有关活动、任务，而忽略无关刺激(如外界的噪声、内在的担心等的能力。与有意向选择某项活动有关。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.011",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "心理活动的指向性。心理活动或意识在某一时刻所处的状态，表现为对一定对象的指向和集中。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "生理学名词",
+   "wordNumber": "03.750",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "精神医学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "精神医学_症状与体征_注意障碍症状",
+   "subjectName": "注意障碍症状",
+   "publishYear": "2019",
+   "definition": "个体的精神活动集中地指向于一定对象的心理现象。不是一种独立的心理过程，与感知觉、记忆和思维等心理过程相互影响。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.212",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "约束认知或心理加工过程，使其指向和集中于有关信息，以增进这些信息加工速度和准确性的过程。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "心理学名词",
+   "wordNumber": "02.464",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "心理活动的指向性。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.181",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "从同时呈现的几个物体或思维序列中选择一个对象的过程。一般是指人们集中于某种特殊内、外环境刺激而不被其他刺激分散的能力。"
+  },
+  {
+   "cn": "眼球经济",
+   "en": "attention economy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.069",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济",
+   "subjectName": "传媒经济",
+   "publishYear": "2022",
+   "definition": "经营消费者的注意力，并把这种无形资产转换成有形的经济效益或广告价值、资本价值的配置过程。"
+  },
+  {
+   "cn": "不随意注意",
+   "en": "involuntary attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.012",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "由强烈、新颖或感兴趣的事物引发的无预定目的和意志努力的注意。"
+  },
+  {
+   "cn": "随意注意",
+   "en": "voluntary attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.013",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "自觉的、有预定目的、需要一定意志努力的注意。"
+  },
+  {
+   "cn": "分配性注意",
+   "en": "divided attention",
+   "source": "生理学名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意锁定",
+   "en": "engaging attention",
+   "source": "生理学名词",
+   "wordNumber": "03.753",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意广度",
+   "en": "attention span",
+   "source": "精神医学名词",
+   "wordNumber": "02.156",
+   "subjectFullName": "精神医学_症状与体征_注意障碍症状",
+   "subjectName": "注意障碍症状",
+   "publishYear": "2019",
+   "definition": "同一时间内个体能够清楚觉察或知觉的客体数量。"
+  },
+  {
+   "cn": "注意广度",
+   "en": "attention span",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.170",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "同一时间内个体能够清楚觉察或知觉的客体数量。"
+  },
+  {
+   "cn": "内隐注意",
+   "en": "covert attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.222",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "将注意朝向特定的刺激且不伴随头部或眼睛的运动。"
+  },
+  {
+   "cn": "外显注意",
+   "en": "overt attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.221",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "将注意朝向特定的刺激且伴随头部或眼睛的运动。"
+  },
+  {
+   "cn": "内源性注意",
+   "en": "endogenous attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.216",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "在个体原有经验驱动下产生的注意。其需要个体的主观解释自主性、概念驱动的加工过 程。"
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择注意",
+   "en": "selective attention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意广度",
+   "en": "attention span",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉注意",
+   "en": "auditory attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意力经济",
+   "en": "attention economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意注意,不随意注意",
+   "en": "involuntary attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分配性注意",
+   "en": "divided attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有意注意,随意注意",
+   "en": "voluntary attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "引起注意装置",
+   "en": "attention device",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意力聚焦",
+   "en": "attention focusing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意转移",
+   "en": "attentional shifting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意过程",
+   "en": "attentional process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意阶段",
+   "en": "attentive stage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "注意力",
+   "en": "attention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意力机制",
+   "en": "attention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意：淘汰！",
+   "en": "Attention: elimination!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立正！",
+   "en": "Attention! Charyeot!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代表队",
+   "en": "selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选拔",
+   "en": "select",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "attention\",\"guard position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停足",
+   "en": "stand to attention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亲缘选择",
+   "en": "kin selection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家代表队",
+   "en": "national selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选举",
+   "en": "Select and Recommend",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准备站姿",
+   "en": "attention stance\",\"ready stance\",\"pyeonhi seogi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "云服务商选择",
+   "en": "cloud service provider selection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "从同时呈现的几个物体或思维序列中选择一个对象的过程。一般是指人们集中于某种特殊内、外环境刺激而不被其他刺激分散的能力。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.12",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "个体的精神活动集中地指向于一定对象的心理现象。不是一种独立的心理过程，与感知觉、记忆和思维等心理过程相互影响。"
+  },
+  {
+   "cn": "注意力发展",
+   "en": "attention development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "心理活动对一定对象有选择的集中能力随年龄增长的发展变化过程。注意力的发展与神经系统的发育以及心理活动的发展高度相关。"
+  },
+  {
+   "cn": "无意注意",
+   "en": "involuntary attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由强烈的、新颖的或感兴趣的事物引发的无预定目的和意志努力的注意。"
+  },
+  {
+   "cn": "有意注意",
+   "en": "voluntary attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "自觉的、因预定目的产生的，经过意志努力保持的注意。"
+  },
+  {
+   "cn": "有意注意时间",
+   "en": "intentional attention to time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "有预定的目的，需要一定意志努力的注意所维持的时间。"
+  },
+  {
+   "cn": "选择性分布",
+   "en": "selective distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.32",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素选择在某些特定器官或组织分布的现象。"
+  },
+  {
+   "cn": "选择型福利",
+   "en": "selective welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "提供社会救助或社会支持给部分特定人群，特别是困难群体，基于家庭财产调查的社会福利模式。在某种程度上等同于剩余型福利。"
+  },
+  {
+   "cn": "选择偏倚",
+   "en": "selection bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象的选择不当，导致入选者与未选入者特征上存在差异，如缺乏代表性、暴露组与对照组可比性差等，而导致的研究结果偏离真实，从而产生的系统误差。"
+  },
+  {
+   "cn": "选择性偏误",
+   "en": "selection bias",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.156",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在研究过程中，因样本选择的非随机性而导致结论存在的偏差。"
+  },
+  {
+   "cn": "文化选择",
+   "en": "cultural selection",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "与自然选择相对应的人的实践活动，在不同的存在方式之间所从事的选择。具体到特定社会中，指人们于一定的文化环境下在两种或两种以上的文化及行为方式中所进行的选择。"
+  },
+  {
+   "cn": "自然选择",
+   "en": "natural selection",
+   "source": "马克思主义",
+   "wordNumber": "01.0146",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文关于物种进化的学说。生物随着自然环境的变化而发生变异，有利的偶然的遗传特征在繁殖中保存下来，不利的则淘汰。生物的生存能力也因而产生差异，导致必然的物种灭绝或进化及多样性。马克思、恩格斯和列宁都给"
+  },
+  {
+   "cn": "逆选择",
+   "en": "adverse selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.7",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "在医疗保险市场中，由于投保人和承保人信息的不对称，即参保者个人比保险机构更了解自己的疾病风险情况，参保者在健康时往往参加医疗保险的意愿不强，而有病时更愿意参加医疗保险的行为。"
+  },
+  {
+   "cn": "风险选择",
+   "en": "risk selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "保险人为追求利润最大化，选择吸纳健康状况良好的人群，拒绝健康状况较差或具有较高健康风险人群参保的行为"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "多发生于儿童时期的神经和精神障碍。主要表现为明显的与年龄不相符的注意力分散、行为冲动、活动过度等特征，常伴学习困难和社会适应能力下降。"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "多发于儿童期的一种神经和精神障碍。主要表现为注意力集中困难、注意广度缩小、不分场合的活动过度和行为冲动等特点，常伴有认知障碍和学习困难，往往其智力基本正常。"
+  },
+  {
+   "cn": "选择培养基",
+   "en": "selective culture medium",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "用来促进或抑制一定类型的生物体（如细胞或细菌等）的培养基。"
+  },
+  {
+   "cn": "选择性流产",
+   "en": "sex-selective abortion",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "孕妇或相关者有选择地进行人工流产、终止妊娠的行为，包括性别选择性流产、病理选择性流产、社会文化原因选择性流产等。而性别选择性流产大多受男孩偏好的影响，会导致男性新生婴儿性别比偏高的不良后果，这在中国是"
+  },
+  {
+   "cn": "基本药物遴选",
+   "en": "essential medicine selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.2.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "按照“突出基本、防治必需、保障供应、优先使用、保证质量、降低负担”的功能定位，坚持中西药并重、临床首选的原则，参照国际经验合理确定基本药物品种（剂型）的过程。"
+  },
+  {
+   "cn": "供体选择准则",
+   "en": "donor selection criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.05",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "用于评估和筛选器官、组织或细胞移植供体的医学、伦理及安全性标准。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
