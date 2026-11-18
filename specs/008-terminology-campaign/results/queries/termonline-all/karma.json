@@ -1,0 +1,502 @@
+{
+ "key": "karma",
+ "term": "karma",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:54:42+00:00",
+ "status": "ok",
+ "note": "variant=karma; 审定公布名词库=64; 海峡两岸名词对照库=14; 其他来源数据库=1; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "卡玛合金",
+   "en": "Karma alloy",
+   "source": "冶金学名词",
+   "wordNumber": "08.0533",
+   "subjectFullName": "冶金学_金属材料_功能材料",
+   "subjectName": "功能材料",
+   "publishYear": "2019",
+   "definition": "一种耐热性好，电阻率高，电阻温度系数小的镍(Ni)-铬(Cr)电阻合金材料。"
+  },
+  {
+   "cn": "镍铬铝铁电阻合金",
+   "en": "karma resistance alloy",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "10.028",
+   "subjectFullName": "机械工程_仪器仪表_仪器仪表材料_电阻材料(仪器仪表)",
+   "subjectName": "电阻材料(仪器仪表)",
+   "publishYear": "2003",
+   "definition": "合金牌号为6J22或NiCr20AlFe的一种精密电阻合金。"
+  },
+  {
+   "cn": "比释动能",
+   "en": "kerma",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.148",
+   "subjectFullName": "医学影像技术学_X射线防护_常用的辐射量及其单位",
+   "subjectName": "常用的辐射量及其单位",
+   "publishYear": "2020",
+   "definition": "不带电粒子在质量为dm的某种物质中释放出来的全部带电粒子的初始动能总和（<img src='/root/syzx/static/spz/yixueyingxiang1.07.148.01.png'/>"
+  },
+  {
+   "cn": "比释动能",
+   "en": "kerma",
+   "source": "电力名词",
+   "wordNumber": "17.844",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "不带电粒子(如中子、γ光子等)在质量为dm的某一物质内产生的全部电离粒子具有的初始动能的总和dE与该物质质量dm之比,即比释动能<img src='/root/syzx/static/spz/dian"
+  },
+  {
+   "cn": "比释动能",
+   "en": "kerma",
+   "source": "计量学名词",
+   "wordNumber": "14.118",
+   "subjectFullName": "计量学_光学_电离辐射剂量",
+   "subjectName": "电离辐射剂量",
+   "publishYear": "2015",
+   "definition": "不带电电离粒子在单位质量的某一物质内释放出来的全部带电电离粒子的初始动能的总和。用符号 K 表示。单位为戈瑞(Gy)。"
+  },
+  {
+   "cn": "比释动能",
+   "en": "kerma",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.095",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射量和单位",
+   "subjectName": "电离辐射量和单位",
+   "publishYear": "2014",
+   "definition": "不带电粒子在质量为dm的某种物质中释放出来的全部带电粒子的初始动能总和<img src='/root/syzx/static/spz/fangshefanghu1.04.095.1.png'/>除以d"
+  },
+  {
+   "cn": "中垛",
+   "en": "parma",
+   "source": "昆虫学名词",
+   "wordNumber": "11.122",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "缘垛正中的一个，有时较大，色淡而明亮。"
+  },
+  {
+   "cn": "比释动能",
+   "en": "kerma,kinetic energy released in matter",
+   "source": "物理学名词",
+   "wordNumber": "09.0277",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "比释动能",
+   "en": "kinetic energy released in material,kerma",
+   "source": "核医学名词",
+   "wordNumber": "02.0500",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "非带电粒子在单位质量物质中传递给带电粒子的动能。即物质内因非带电粒子所释放的所有带电粒子初始动能的总和除以该物质质量的商。单位为Gy。"
+  },
+  {
+   "cn": "自回归移动平均",
+   "en": "autoregressive moving average,ARMA",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0250",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "由博克思和詹金斯于20世纪70年代初提出的一著名时间序列预测方法。"
+  },
+  {
+   "cn": "向量自回归移动平均模型",
+   "en": "vector ARMA model,VARMA model",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0695",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "对向量建立的自回归移动平均模型。"
+  },
+  {
+   "cn": "卡门涡",
+   "en": "Karman vortex",
+   "source": "电力名词",
+   "wordNumber": "16.120",
+   "subjectFullName": "电力_水电站机电设备",
+   "subjectName": "水电站机电设备",
+   "publishYear": "2020",
+   "definition": "紧接导叶或转轮叶片出口后所发生的脱流旋涡涡列。涡列与叶片产生共振时可引起水轮机的激烈振动和噪声,并可诱发叶片产生裂纹。"
+  },
+  {
+   "cn": "卡尔曼方程",
+   "en": "Karman equation",
+   "source": "冶金学名词",
+   "wordNumber": "09.0337",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "由卡尔曼提出的用截面法计算轧制压力的微分方程式。由于求解时需设定某些假设或近似条件，故又出现许多公式，如采利科夫轧制力公式等。"
+  },
+  {
+   "cn": "卡门常数",
+   "en": "Karman constant",
+   "source": "大气科学名词",
+   "wordNumber": "05.230",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "对数风速廓线的数学表达式中出现的常数。"
+  },
+  {
+   "cn": "比释动能因子",
+   "en": "kerma factor",
+   "source": "核科学技术名词",
+   "wordNumber": "4.057",
+   "subjectFullName": "核科学技术_辐射物理_辐射效应与损伤",
+   "subjectName": "辐射效应与损伤",
+   "publishYear": "2024",
+   "definition": "对于单能中子，中子的比释动能与该单能中子注量的比值称为比释动能因子。计算公式如下：(Fn)E,Z=K/Φ，(Fn)E,Z是能量为E的中子在被辐照物质Z中的比释动能因子；K是比释动能，单位是rad或 c"
+  },
+  {
+   "cn": "比释动能率",
+   "en": "kerma rate",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.149",
+   "subjectFullName": "医学影像技术学_X射线防护_常用的辐射量及其单位",
+   "subjectName": "常用的辐射量及其单位",
+   "publishYear": "2020",
+   "definition": "在时间间隔dt内比释动能的增量dK除以dt的商，即<img src='/root/syzx/static/spz/yixueyingxiang1.07.149.01.png'/>=dK/dt。式中<i"
+  },
+  {
+   "cn": "比释动能率",
+   "en": "kerma rate",
+   "source": "核医学名词",
+   "wordNumber": "02.0501",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "在时间间隔dt内比释动能的增量dK除以dt的商。"
+  },
+  {
+   "cn": "比释动能率",
+   "en": "kerma rate",
+   "source": "计量学名词",
+   "wordNumber": "14.119",
+   "subjectFullName": "计量学_光学_电离辐射剂量",
+   "subjectName": "电离辐射剂量",
+   "publishYear": "2015",
+   "definition": "单位时间间隔内的比释动能。用符号 <img src='/root/syzx/static/spz/jiliang1.14.119.1.png'/>表示，<img src='/root/syzx/sta"
+  },
+  {
+   "cn": "比释动能率",
+   "en": "kerma rate",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.096",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射量和单位",
+   "subjectName": "电离辐射量和单位",
+   "publishYear": "2014",
+   "definition": "在时间间隔dt内比释动能的增量dK除以dt的商。即：<img src='/root/syzx/static/spz/fangshefanghu1.04.096.1.png'/>,式中：<img src"
+  },
+  {
+   "cn": "卡门涡街",
+   "en": "Karman vortex street",
+   "source": "物理学名词",
+   "wordNumber": "02.0812",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "中垛",
+   "en": "parma",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "自回归滑动平均",
+   "en": "autoregressive moving-average\",\"ARMA",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡门常数",
+   "en": "Karman constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡门滤波",
+   "en": "Karman filtering",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡门涡",
+   "en": "Karman vortex",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡门涡街",
+   "en": "Karman vortex street",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡门湍流相似理论",
+   "en": "Karman turbulent similarity theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡曼涡旋",
+   "en": "von Karman vortex",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冯卡门数",
+   "en": "von Karman number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "冯卡门类比",
+   "en": "von Karman analogy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "冯卡门涡街",
+   "en": "von Karman vortex street",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "冯卡门积分法",
+   "en": "von Karman integral method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "空气比释动能率常数",
+   "en": "air kerma rate constant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冯卡门边界层理论",
+   "en": "von Karman boundary layer theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "业",
+   "en": "Karma",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果报应",
+   "en": "karma",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.10",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "佛教对人的行为及其后果的教义，用以说明人生和社会差别的原因，建立劝善止恶的统摄性的道德法则。"
+  },
+  {
+   "cn": "噶玛巴",
+   "en": "Karma pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0432",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教噶举派活佛转世系统称号，噶玛噶举为噶举派四大支系之一，玛尔巴译师（1012-1097）和米拉日巴（1040-1123）为其祖师。此派由都松钦巴（1110-1193 年）在康藏噶玛地方建噶玛丹萨"
+  },
+  {
+   "cn": "比释动能",
+   "en": "kerma",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.5",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "物质内因非带电粒子所释放的所有带电粒子初始动能的总和除以该物质质量的商。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "马尔马人",
+   "en": "Marma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0012",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "孟加拉国民族之一。人口约为4.6 万人（2016 年）。主要生活在孟加拉国吉大港山区及以南诸县。操缅甸若开方言，属汉藏语系缅甸语族缅甸支，文字为缅甸字母，部分人通晓孟加拉语文。信仰上保留万物有灵的同时"
+  },
+  {
+   "cn": "碰撞比释动能",
+   "en": "collision kerma",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位质量物质中，不带电粒子释出的所有次级电子的初始动能，而后以电离、激发方式损失的能量总和。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "辐射比释动能",
+   "en": "radioactive kerma",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.7",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位质量物质中，不带电粒子释出的所有次级电子的初始动能，而后以轫致辐射方式损失的能量总和。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "喀喇汗王朝",
+   "en": "Kara Khanate",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0181",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古政权名。唐朝末年，回鹘部落西迁，其中一支在汗族庞特勤的带领下投奔葛逻禄部，并逐渐臣服其他突厥部族，建立了政权，12 世纪分裂为东西两部，分别于1211 年、1212 年灭亡。"
+  },
+  {
+   "cn": "空气比释动能率",
+   "en": "air kerma rate",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位时间内，不带电电离粒子在单位质量的空气内释放出来的全部带电粒子的初始动能的总和。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "空气比释动能强度",
+   "en": "air kerma strength",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "在自由空气中，源的长轴的中垂线上距源长轴中点距离d处的空气比释动能率与d平方的乘积。记作戈瑞平方米每小时（Gy·m2·h-1)。"
+  },
+  {
+   "cn": "参考空气比释动能率",
+   "en": "reference air kerma rate",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "在空气中距源1m参考距离处，对空气衰减和散射修正后的比释动能率。记作戈瑞每小时（Gy·h-1）。"
+  },
+  {
+   "cn": "空气比释动能率常数",
+   "en": "air kerma rate constant",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "在自由空气中，距离单位活度点源单位距离处的空气比释动能率，Γδ，记作戈瑞平方米每贝可秒"
+  },
+  {
+   "cn": "入射空气比释动能率",
+   "en": "incident air kerma rate",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.65",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "单位时间间隔内，在受检者或体模表面射线束中心轴上测量得到的由入射线束产生的空气比释动能。"
+  },
+  {
+   "cn": "入射表面空气比释动能率",
+   "en": "entrance surface air kerma rate",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.66",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "单位时间间隔内，在受检者或体模表面位置中心线束轴上，实际测量得到的空气比释动能。它包括入射到受检者或体模表面的辐射及其反向散射辐射。"
+  },
+  {
+   "cn": "空气比释动能面积乘积",
+   "en": "air kerma-area product，KAP",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.67",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在垂直于射束轴线的平面内，空气比释动能与照射野面积的乘积。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

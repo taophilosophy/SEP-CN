@@ -1,0 +1,642 @@
+{
+ "key": "constrained maximization",
+ "term": "constrained maximization",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:13:33+00:00",
+ "status": "ok",
+ "note": "variant=constrained maximization; 审定公布名词库=374; 海峡两岸名词对照库=60; 其他来源数据库=9; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "有约束优化",
+   "en": "constrained optimization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.089",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化变量受到约束条件限制的优化。"
+  },
+  {
+   "cn": "约束满足",
+   "en": "constrained satisfaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.025",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "变量集合中所有变量的取值使得约束集中的每个约束都成立，或更进一步，并使目标函数最大化。"
+  },
+  {
+   "cn": "约束规划",
+   "en": "constrained programming",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.026",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "一种用于处理难解组合优化问题的声明式规划范式，通过采用约束传递和约束一致性机制进行搜索。"
+  },
+  {
+   "cn": "约束传播",
+   "en": "constrained propagation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.027",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "通过不断检测局部变量约束的一致性进行求解的一种方法。其特征是通过减小变量值域或新增约束条件缩减状态搜索空间。"
+  },
+  {
+   "cn": "约束优化",
+   "en": "constrained optimization",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.169",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_代谢工程_弗兰克-沃尔夫法",
+   "subjectName": "弗兰克-沃尔夫法",
+   "publishYear": "2021",
+   "definition": "在自变量满足约束条件的情况下，使目标函数最小化的过程。其中约束条件既可以是等式约束，也可以是不等式约束。"
+  },
+  {
+   "cn": "约束运动",
+   "en": "constrained motion",
+   "source": "物理学名词",
+   "wordNumber": "02.0571",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "压缩模量",
+   "en": "constrained modulus",
+   "source": "建筑学名词",
+   "wordNumber": "13.0290",
+   "subjectFullName": "建筑学_建筑结构_地基与基础",
+   "subjectName": "地?基与基础",
+   "publishYear": "2014",
+   "definition": "土体在侧向完全不能变形条件下，竖向应力增量与竖向应变增量的比值。"
+  },
+  {
+   "cn": "约束运行",
+   "en": "constrained operation",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.183",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "约束优化",
+   "en": "constrained optimization",
+   "source": "化学工程名词",
+   "wordNumber": "05.143",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "约束运动",
+   "en": "constrained motion",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "约束对策",
+   "en": "constrained game",
+   "source": "数学名词",
+   "wordNumber": "011.0472",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "约束力",
+   "en": "constraining force",
+   "source": "物理学名词",
+   "wordNumber": "02.0161",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "限制粒径",
+   "en": "constrained grain size",
+   "source": "地质学名词",
+   "wordNumber": "17.02.008",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "在颗粒分析累积曲线上，相当于累积百分率为60%的粒径。"
+  },
+  {
+   "cn": "测井约束反演",
+   "en": "logging constrained inversion",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0506",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "在地球物理反演过程中，利用测井数据对求解的参量模型提供变化范围的约束，如物性变化的上下限；或对参量模型中的部分参量赋予已知条件，如物性参量或已知点深度参量等，这种利用测井数据作为约束条件的反演称为测井"
+  },
+  {
+   "cn": "安全约束调度",
+   "en": "security constrained dispatch",
+   "source": "电力名词",
+   "wordNumber": "06.104",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "在给定的电力系统运行方式中,在保证有功功率平衡的条件下,通过对发电机组有功出力的控制(必要时降低或切除部分负荷),来解除支路潮流越限,并使可控机组运行费用最低的调度方式。"
+  },
+  {
+   "cn": "有约束交易计划",
+   "en": "constrained trading schedule",
+   "source": "电力名词",
+   "wordNumber": "06.288",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "在满足系统负荷平衡,考虑网络安全约束的条件下制定的交易计划。"
+  },
+  {
+   "cn": "约束优化法",
+   "en": "constrained optimization method",
+   "source": "冶金学名词",
+   "wordNumber": "04.0735",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "自变量满足约束条件的情况下目标函数最小化问题的处理方法。约束条件既可以是等式约束也可以是不等式约束。"
+  },
+  {
+   "cn": "产能约束资源",
+   "en": "capacity-constrained resource",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0518",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "利用率接近产能的任何资源，如果安排不当它可能成为瓶颈。"
+  },
+  {
+   "cn": "强制性晶体生长",
+   "en": "constrained crystal growth",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0960",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_凝固与铸造技术",
+   "subjectName": "凝固与铸造技术",
+   "publishYear": "2011",
+   "definition": "在强制散热条件下合金的凝固过程。其特征是结晶界面附近控制为正的温度梯度，结晶潜热通过固相散失。"
+  },
+  {
+   "cn": "受限非晶相",
+   "en": "constrained amorphous phase",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0206",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "部分结晶聚合物中非晶相内分子运动受邻接晶相限制的部分。"
+  },
+  {
+   "cn": "条件平差",
+   "en": "constrained adjustment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "强制符合条件",
+   "en": "condition for constrained  annexation\",\"constraining  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "受限非晶相",
+   "en": "constrained amorphous phase",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "强制性晶体生长",
+   "en": "constrained crystal growth",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "最大获利者",
+   "en": "maximizer",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "限于吃水船",
+   "en": "vessel constrained by her draught",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "肖斯塔科维奇，马克辛",
+   "en": "Shostakovich\",\"Maxim(俄国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非强制性晶体生长",
+   "en": "non-constrained crystal growth\",\"free crystal growth",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "混合利润最大化",
+   "en": "mixed profit maximization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最平幅度逼近",
+   "en": "maximally flat amplitude approximation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最平时延逼近",
+   "en": "maximally flat delay approximation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最大可摄取量",
+   "en": "maximal permissible intake\",\"MPI",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "废物最小化",
+   "en": "waste minimization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "限制",
+   "en": "constraint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "约束［条件］",
+   "en": "constraint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "约束",
+   "en": "constraint",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "约束",
+   "en": "restriction\",\"constraint",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无约束优化",
+   "en": "unconstrained optimization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操纵限制",
+   "en": "steering constraints",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "信息约束",
+   "en": "information constraints",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "大用",
+   "en": "Maximal Functioning",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最大期望算法",
+   "en": "expectation maximization algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "铭箴",
+   "en": "Epigraph and Maxim",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最大信息系数",
+   "en": "maximal information coefficient (MIC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无约束问题",
+   "en": "unconstrained problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "旷达",
+   "en": "Broad-mindedness / Unconstrained Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "豪放派",
+   "en": "<p class=\"MsoNormal\"> The <i>Haofang</i>&nbsp;School / The Bold and Unconstrained School</p>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以武汉市为主战场的全国本土疫情传播已基本阻断",
+   "en": "The domestic coronavirus outbreak, centered in the city of Wuhan, has been contained in China/is now effectively under control in China.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "效用最大化",
+   "en": "utility maximization",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者通过采用最佳方法和进行精确计算来使得自身的效用水平达到最大的行为。效用最大化是消费者的理性行为。"
+  },
+  {
+   "cn": "效用最大化模型",
+   "en": "utility maximization model",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "假定医院决策者追求服务数量与质量两个目标最大化的模型"
+  },
+  {
+   "cn": "利润最大化模型",
+   "en": "profit maximization model",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "假定所有医院目标都是谋求利润最大化的模型。为了实现该目标，医院应选择在需求曲线上边际成本曲线与边际收益曲线相交点的价格。"
+  },
+  {
+   "cn": "收入最大化模型",
+   "en": "income maximization model",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "假定医院的服务目标是实现业务收入最大化的模型。"
+  },
+  {
+   "cn": "最大心率",
+   "en": "maximal heart rate",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在进行运动负荷时，随着运动量的增加，耗氧量和心率也增加，在最大负荷强度时，耗氧量和心率不能继续增加时心率达到的最高水平。"
+  },
+  {
+   "cn": "最大摄氧量",
+   "en": "maximal oxygen uptake",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "采用直接测定法（自行车功率计、运动平台等）或间接测定法（踏阶法），获得机体心肺功能发挥到最大水平时的氧耗量。"
+  },
+  {
+   "cn": "最大耐受剂量",
+   "en": "maximal tolerance dose，MTD",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.22",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "已达到最大染毒剂量而无动物死亡的剂量。"
+  },
+  {
+   "cn": "最大摄氧量",
+   "en": "maximal oxygen uptake, VO2max",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "人体在进行有大量肌肉群参加的长时间剧烈活动中，当氧运输系统功能和肌肉利用氧的能力达到最高水平时，每分钟所能摄取的氧量。"
+  },
+  {
+   "cn": "成本最小化分析",
+   "en": "cost-minimization analysis, CMA",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在项目的产出或效果、效益和效用没有差别的情况下比较不同措施的成本，选择成本最小的卫生保健项目、计划或干预措施的分析方法。"
+  },
+  {
+   "cn": "剂量约束",
+   "en": "dose constraint",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "作为在计划照射情况下源的防护与安全最优化的一个参数，用以限定最优化选择的边界。"
+  },
+  {
+   "cn": "危险约束",
+   "en": "risk constraint",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "一个预测的和源相关的个人危险值，在计划照射情况下，作为该源防护和安全最优化的参数，并用作最优化中方案选择范围的一个边界。"
+  },
+  {
+   "cn": "参与约束",
+   "en": "participation constraint",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "购买者与提供者签订的用以规定卫生服务购买具体内容的合约，如购买者的目标、提供的具体服务类型、数量、价格、提供方式，以及交易和支付的方式、双方的收益和风险的分担机制等。，在委托–代理理论中关于委托人在进"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "激励相容约束",
+   "en": "incentive compatibility constraint",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "在委托–代理理论中关于委托人在进行激励机制的设计时所面临的一个约束条件。在委托人不知道代理人的类型(不能完全观测到代理人所选择的行动)的情况下，代理人在所设计的机制下必须有积极性选择委托人希望他选择的"
+  },
+  {
+   "cn": "自含式生物指示物",
+   "en": "self-contained biological indicator",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.7",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "内层包装中含有细菌复苏生长所需培养基的生物指示物。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

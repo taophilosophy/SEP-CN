@@ -1,0 +1,792 @@
+{
+ "key": "realism according",
+ "term": "realism according",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:03:31+00:00",
+ "status": "ok",
+ "note": "variant=realism according; 审定公布名词库=309; 海峡两岸名词对照库=121; 其他来源数据库=27; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "source": "心理学名词",
+   "wordNumber": "04.073",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "一种哲学理论。既承认外部世界的客观实在性，也把感觉、观念等看作客观实在，否认精神是物质发展的产物。"
+  },
+  {
+   "cn": "现实主义",
+   "en": "realism",
+   "source": "语言学名词",
+   "wordNumber": "01.058",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "语言学的一种观点。主张不要为了维护一种假定、一种原则、一种方法而抛掉某些极其重要的语言事实。即当运用某些结构主义方法不能说明事实的时候，可以不受某一种方法的拘束。"
+  },
+  {
+   "cn": "谐香",
+   "en": "accord",
+   "source": "精细化工名词",
+   "wordNumber": "08.0762",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "由为数不多的几种香料在一定配比下，所形成的一个既和谐而又有一定香气特征的香气组合。"
+  },
+  {
+   "cn": "科学实在论",
+   "en": "scientific realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为科学理论不断逼近客观真理，它们假设的不可观察实体也真实存在。"
+  },
+  {
+   "cn": "外部实在论",
+   "en": "external realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.004",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为外部世界独立于心灵、语言和理论，真理是语言与世界之间的符合，理想理论也有可能是错误的。"
+  },
+  {
+   "cn": "内在实在论",
+   "en": "internal realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.005",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为真理总是在认识上受到限制，是相对于概念体系的，没有“上帝之眼”。"
+  },
+  {
+   "cn": "形而上学实在论",
+   "en": "metaphysical realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.006",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为世界独立于人类或其他认知主体而存在，世界的对象及其属性决定了世界的本质。"
+  },
+  {
+   "cn": "建构实在论",
+   "en": "constructive realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.007",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "试图既保持科学知识的实在性，又承认相对主义的合理性，主张客观实在是人类进行认识建构的结果。"
+  },
+  {
+   "cn": "关系实在论",
+   "en": "relational realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.008",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由相对论、量子物理所启发的实在论立场，认为具有实在性的不是个体对象，而是对象之间的关系。"
+  },
+  {
+   "cn": "结构实在论",
+   "en": "structural realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.009",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "约翰·沃勒尔（John Worrall）提出，科学革命前后的理论在数学结构上具有连续性，因此结构是实在的。现有认识结构实在论、本体结构实在论等多个版本。"
+  },
+  {
+   "cn": "反实在论",
+   "en": "anti-realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.010",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "科学哲学认为不可观测的实体都不真实存在，但通常承认可观察实体真实存在。"
+  },
+  {
+   "cn": "朴素实在论",
+   "en": "naive realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.033",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "根据自己的经验，直观地、朴素地和自发地相信客观世界是不依赖于人的意识而独立存在的宏观实在。"
+  },
+  {
+   "cn": "实体实在论",
+   "en": "entity realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.034",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由I. 哈金（I. Hacking）提出。认为成熟科学所指明的实体是真实存在的，但关于这些实体的科学理论有可能出错。"
+  },
+  {
+   "cn": "实验实在论",
+   "en": "experimental realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.035",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由I. 哈金（I. Hacking）提出。认为如果我们可以通过实验手段来有效利用实体（如电子），那么该实体就是真实存在的。"
+  },
+  {
+   "cn": "渐近实在论",
+   "en": "convergent realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.218",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "科学不断逼近真理，这往往体现在旧科学理论能够由新科学理论推导得出，科学指称也具有连续性。"
+  },
+  {
+   "cn": "直接实在论",
+   "en": "direct realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.580",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "认为知觉主体是直接感知到外部世界中的对象的观点。"
+  },
+  {
+   "cn": "批判实在论",
+   "en": "critical realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.788",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "一种研究世界、人类行为者以及二者之间相互作用的实在论学说。主张社会整体性存在的本体论地位，以实现人类自由解放作为社会科学的认识旨趣。"
+  },
+  {
+   "cn": "社会主义现实主义",
+   "en": "Socialist Realism",
+   "source": "世界历史名词",
+   "wordNumber": "05.0437",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "20世纪苏联文学和艺术重要流派，从1932年起得到苏联官方支持，成为唯一的创作方法。"
+  },
+  {
+   "cn": "别洛韦日协议",
+   "en": "Belavezha Accords",
+   "source": "世界历史名词",
+   "wordNumber": "05.0524",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1991年12月8日，苏联俄罗斯、白俄罗斯和乌克兰三个加盟共和国领导人在别洛韦日签署了《关于成立独立国家联合体的协议》，苏联实际上停止存在。"
+  },
+  {
+   "cn": "奥斯陆协议",
+   "en": "Oslo Accord",
+   "source": "世界历史名词",
+   "wordNumber": "04.0365",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西亚",
+   "subjectName": "西亚",
+   "publishYear": "2012",
+   "definition": "1993年9月13日，巴勒斯坦解放组织主席阿拉法特和以色列总理拉宾在华盛顿正式签署的有关加沙—杰里科先行自治的协议，确立 “以土地换和平”的巴以和谈原则。即《临时自治安排原则宣言》。"
+  },
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实主义",
+   "en": "realism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "真实感显示",
+   "en": "realism display，realism rendering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实验真实性",
+   "en": "experimental realism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "真实感图形",
+   "en": "photo-realism graphic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现实",
+   "en": "reality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "释谱",
+   "en": "realize",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "手风琴",
+   "en": "accordion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "折叠地图",
+   "en": "accordion",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "录制",
+   "en": "recording",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "和弦配置",
+   "en": "chording",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "和弦唱准",
+   "en": "chording",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "种族歧视",
+   "en": "racism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实疗法",
+   "en": "reality therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实原则",
+   "en": "reality principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地理学二元论",
+   "en": "geographical dualism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社会二元论",
+   "en": "social dualism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社会现实",
+   "en": "social reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "循名责实",
+   "en": "Hold Actualities According to Its Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "依法不予开放",
+   "en": "access rejected according to the law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "率性",
+   "en": "Acting in Accordance with Human Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以义制事",
+   "en": "Handle Matters According to Morality and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "爱人以德",
+   "en": "Love the People in Accordance with Rules of Moral Conduct",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哀乐中节",
+   "en": "Express Grief and Joy in Accordance with the Rules of Propriety",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“一国两制”，依法办事",
+   "en": "to uphold the principle of \"one country, two systems,\" act in accordance with the law",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "Augmented Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安时处顺",
+   "en": "Face Reality Calmly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality (AR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合现实",
+   "en": "mixed reality (MR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚实交互",
+   "en": "virtual reality interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "磁记录设备",
+   "en": "magnetic recording equipment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "铺瓦式写记录",
+   "en": "shingled write recording",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "叠瓦式磁记录",
+   "en": "shingled magnetic recording",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会唯实论",
+   "en": "social realism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为社会是由各种制度和规范构成的实在的有机整体，个体源于社会，社会外在和优先于个体，并对个体具有强制性的社会理论。因与西方中世纪经院哲学正统派概念唯实论有相通之处而得名。与“社会唯名论”相对。"
+  },
+  {
+   "cn": "概念实在论",
+   "en": "conceptual realism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是具有现实的、真实的和独立的存在的一种学说。"
+  },
+  {
+   "cn": "别洛韦日协定",
+   "en": "Belavezha accords",
+   "source": "马克思主义",
+   "wordNumber": "04.0251",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1991年12月8日，苏联的3个加盟共和国领导人--俄罗斯总统叶利钦、乌克兰总统克拉夫丘克、白俄罗斯最高苏维埃主席舒什克维奇在白俄罗斯的别洛韦日丛林秘密会晤，签署了关于建立独立国家联合体（简称独联体）"
+  },
+  {
+   "cn": "按劳分配",
+   "en": "distribution according to work",
+   "source": "马克思主义",
+   "wordNumber": "02.0141",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会主义公有制的个人消费品的分配原则。即在对社会总产品作了各项必要的社会扣除以后，企业按照个人的劳动数量和质量分配个人消费品或收入。"
+  },
+  {
+   "cn": "按需分配",
+   "en": "distribution according to needs",
+   "source": "马克思主义",
+   "wordNumber": "03.0025",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会高级阶段个人消费品的分配原则。即在迫使个人奴隶般地服从分工的情形已经消失，劳动成了生活的第一需要，随着个人的全面发展，生产力高度发达，“集体财富的一切源泉都充分涌流”之后，实行各人尽其所能"
+  },
+  {
+   "cn": "革命现实主义和革命浪漫主义相结合",
+   "en": "combine revolutionary realism with revolutionary romanticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0463",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据毛泽东1958年关于中国新诗“形式是民歌，内容应是现实主义和浪漫主义对立的统一”的精神而提出的文艺创作的一种方法。要求文艺工作者从无产阶级的立场出发，以马克思主义为指导去观察和表现生活，把客观现实"
+  },
+  {
+   "cn": "按生产要素分配",
+   "en": "distribution according to factors of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0412",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "依据生产要素产权关系进行收益分配的方式和原则。与多种所有制共同发展相联系。"
+  },
+  {
+   "cn": "依法治国",
+   "en": "rule the country in accordance with law",
+   "source": "马克思主义",
+   "wordNumber": "03.0648",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以江泽民为核心的党的第三代领导集体在我国社会经济步入新的发展时期所提出的重要治国方略，其主要内容是指广大人民群众在党的领导下，依照宪法和法律规定，通过各种途径和形式管理国家事务，管理经济文化事业，管理"
+  },
+  {
+   "cn": "按劳分配主体型分配方式",
+   "en": "distribution systerm both main distribution according to work and a variety of distribution methods",
+   "source": "马克思主义",
+   "wordNumber": "02.0388",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "按劳分配为主体、多种分配方式并存的社会主义初级阶段的基本分配制度。多种分配方式指除按劳动分配外，还包括按其它生产要素分配。它是由我国现阶段的公有制为主体、多种所有制经济共同发展的根本经济制度所决定的。"
+  },
+  {
+   "cn": "唯心主义",
+   "en": "idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0004",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "哲学两大基本派别之一，与唯物主义相对立。在哲学的基本问题上，唯心主义主张精神第一性，物质第二性，精神是世界的本原，物质是精神、意识的产物，世界统一于精神。"
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "马克思主义",
+   "wordNumber": "01.0088",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "认为世界有两种各自独立、性质不同的本原，即思维和物质两个实体的哲学学说。它坚持意识离开物质而独立存在，其实质是唯心主义哲学观。。哲学史上二元论的著名代表人物之一是法国笛卡儿。"
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "社会医学名词",
+   "wordNumber": "2.4.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物医学模式",
+   "publishYear": "2025",
+   "definition": "将事物划分为两种具有独立性且相互对立的根本属性的理论或方法。通常用于解释物质与精神、身体与意识等不同层面之间的关系。"
+  },
+  {
+   "cn": "种族主义",
+   "en": "racism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.208",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "认为某一种族里的每一成员都具有该种族特定的品质或者能力，并以此区分人群及种族间优劣的观点。在这种理念中，人的健康与疾病常常被贴上种族的标签。"
+  },
+  {
+   "cn": "社会实在",
+   "en": "social reality",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "以物质实在为基础的、依赖于人类共同的风俗、习惯、制度和活动而存在和维系的事实。"
+  },
+  {
+   "cn": "思辨唯心主义",
+   "en": "speculative idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0104",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯在《神圣家族》中使用的术语。马克思、恩格斯批判黑格尔颠倒了精神和物质、思维和存在之间的关系。马克思认为，这样一来，全部外化的历史和外化的整个复归，不过是抽象的、绝对的思维的生产史，即逻辑"
+  },
+  {
+   "cn": "客观实在性",
+   "en": "objective reality",
+   "source": "马克思主义",
+   "wordNumber": "01.0196",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "独立于人的意识之外，不依赖于意识的物质世界。唯心主义认为，唯一的客观实在是感觉、意识、理念和绝对精神等。唯物主义则认为客观实在性是物质唯一的“特性”，它不依赖于人的意识而存在，但又为人的意识所感知和反"
+  },
+  {
+   "cn": "客观唯心主义",
+   "en": "objective idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0199",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "与“主观唯心主义”相对。唯心主义哲学的基本形态之一。客观唯心主义认为不依赖于人类，不依赖于人的意识而独立存在着的“客观精神”，“理念”等是唯一的客观实在，是第一性的，是物质世界的本原；而客观世界则是客"
+  },
+  {
+   "cn": "记录水平",
+   "en": "recording level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.11",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "审管部门所规定的剂量或摄入量的一个数值。当工作人员接受的剂量或摄入量达到或超过这一数值时，则应记入他们的个人受照记录。"
+  },
+  {
+   "cn": "种族主义",
+   "en": "race racism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "将区别于其他人种的某些共同遗传和体质特征扩大到社会与文化领域的一种解释,并以人种这一社会差异和政治经济不平等的象征符号为核心概念发展出的意识形态和涉及广泛的社会现象。"
+  },
+  {
+   "cn": "性别二元论",
+   "en": "dualism of gender",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "以男人和女人以及相应的分野为隐喻的一种思维模式，对应于西方认知传统中的二元结构，即理性和情感、心智和肉体、客观和主观、主体和客体、公共和私人等范畴之间的对立和等级关系，由此形成一种等级制的统治逻辑。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,442 @@
+{
+ "key": "algebraic geometry",
+ "term": "algebraic geometry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:04:49+00:00",
+ "status": "ok",
+ "note": "variant=algebraic geometry; 审定公布名词库=502; 海峡两岸名词对照库=101; 其他来源数据库=9; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "代数几何[学]",
+   "en": "algebraic geometry",
+   "source": "数学名词",
+   "wordNumber": "04.1016",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "几何[学]",
+   "en": "geometry",
+   "source": "数学名词",
+   "wordNumber": "08.0001",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数的",
+   "en": "algebraic",
+   "source": "数学名词",
+   "wordNumber": "04.0397",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数的李代数",
+   "en": "algebraic Lie algebra",
+   "source": "数学名词",
+   "wordNumber": "04.1993",
+   "subjectFullName": "数学_代数学_代数几何学_代数群",
+   "subjectName": "代数群",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数",
+   "en": "algebras",
+   "source": "数学名词",
+   "wordNumber": "04.1472",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数学",
+   "en": "algebra",
+   "source": "数学名词",
+   "wordNumber": "04.0388",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "构造几何学",
+   "en": "structural geometry",
+   "source": "地质学名词",
+   "wordNumber": "09.01.003",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究不同尺度构造的形状、产状、方位、大小，以及各构造要素之间和相关构造之间的几何和空间关系的构造地质学分支学科。是构造运动学和动力学分析的基础。"
+  },
+  {
+   "cn": "射线几何学",
+   "en": "ray geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0801",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "波传播过程中从源到达接收点的射线的几何学。 "
+  },
+  {
+   "cn": "分形几何学",
+   "en": "fractal geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2247",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "以不规则几何形态为研究对象的几何学。 "
+  },
+  {
+   "cn": "旁线装置",
+   "en": "broadside geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0201",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "当发射与接收两线圈一起移动逐点观测时，称为动源系统、动源式装置，其中收发线圈分别在测线与旁线上称为旁线装置。 "
+  },
+  {
+   "cn": "成像几何",
+   "en": "imaging geometry",
+   "source": "测绘学名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "描述图像与物体投影关系的几何模型。"
+  },
+  {
+   "cn": "射影几何",
+   "en": "projective geometry",
+   "source": "测绘学名词",
+   "wordNumber": "03.198",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "射影变换下保持不变的图形性质的几何学分支。"
+  },
+  {
+   "cn": "核面几何",
+   "en": "epipolar geometry",
+   "source": "测绘学名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "描述同名像点与物点共面关系的几何模型。"
+  },
+  {
+   "cn": "随机几何学",
+   "en": "stochastic geometry",
+   "source": "物理学名词",
+   "wordNumber": "08.0604",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "闵可夫斯基几何",
+   "en": "Minkowski geometry",
+   "source": "物理学名词",
+   "wordNumber": "06.0063",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内禀几何",
+   "en": "intrinsic geometry",
+   "source": "物理学名词",
+   "wordNumber": "06.0240",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空几何",
+   "en": "spacetime geometry",
+   "source": "物理学名词",
+   "wordNumber": "06.0241",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何",
+   "en": "computational geometry",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0561",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "采用计算机对几何问题进行表示、查找、度量、计算和分析的一门学科。"
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0605",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "研究具有非整数维几何物体的学科。"
+  },
+  {
+   "cn": "几何着色器",
+   "en": "geometry shader",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0755",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "图形处理流程中生成几何基元（点、线段、三角形）的核心函数。几何着色器在顶点着色器之后运行。"
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂几何形状",
+   "en": "catalyst geometry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "图像几何学",
+   "en": "image geometry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "水力几何形态",
+   "en": "hydraulic geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "欧几里得几何学",
+   "en": "Euclidean geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "统一几何空间",
+   "en": "coincident geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "行星几何学",
+   "en": "planetary geometry",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "参数几何",
+   "en": "parametric geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "构造几何",
+   "en": "constructive geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "几何变形",
+   "en": "geometry deformation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何[学]",
+   "en": "computational geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图像几何学",
+   "en": "image geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分子几何[结构]",
+   "en": "molecular geometry",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "代数模型",
+   "en": "algebraic model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代数规约",
+   "en": "algebraic specification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数简化",
+   "en": "algebraic simplification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数逻辑",
+   "en": "algebraic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何",
+   "en": "computational geometry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数值代数",
+   "en": "numerical algebra",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

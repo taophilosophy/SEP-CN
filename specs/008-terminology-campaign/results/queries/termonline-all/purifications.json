@@ -1,0 +1,462 @@
+{
+ "key": "purifications",
+ "term": "Purifications",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:58:02+00:00",
+ "status": "ok",
+ "note": "variant=Purifications; 审定公布名词库=136; 海峡两岸名词对照库=30; 其他来源数据库=0; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "提纯",
+   "en": "purification",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.104",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "除去某种物质所含的杂质，使其纯度提高的过程。包括蒸发、结晶、萃取、离子交换、色谱分离等方法。"
+  },
+  {
+   "cn": "净化",
+   "en": "purification",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0007",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "对SO₂气体中重金属、砷、氟等有害杂质进行分离的过程。分为干法收尘和稀硫酸洗涤净化两个过程。"
+  },
+  {
+   "cn": "提纯",
+   "en": "purification",
+   "source": "冶金学名词",
+   "wordNumber": "06.0004",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "除去目标产物中杂质的过程。"
+  },
+  {
+   "cn": "提纯",
+   "en": "purification",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.043",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "除去某种物质所含的杂质，使其纯度提高的过程。包括蒸发、结晶、萃取、离子交换、色谱分离等方法。"
+  },
+  {
+   "cn": "纯化",
+   "en": "purification",
+   "source": "物理学名词",
+   "wordNumber": "08.0844",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "纯化",
+   "en": "purification",
+   "source": "核医学名词",
+   "wordNumber": "03.0064",
+   "subjectFullName": "核医学_核医学设备与操作_核药物生产装置和辅助设备_核药物生产装置",
+   "subjectName": "核药物生产装置",
+   "publishYear": "2018",
+   "definition": "将要制备的放射性核素从靶材料中分离、提纯的过程。"
+  },
+  {
+   "cn": "纯化",
+   "en": "purification",
+   "source": "药学名词",
+   "wordNumber": "05.265",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "从一样品中除掉杂质，得到只含一种类型分子的过程。"
+  },
+  {
+   "cn": "纯化",
+   "en": "purification",
+   "source": "微生物学名词",
+   "wordNumber": "09.226",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "从含有多种微生物的样品中获得单一微生物的操作过程。"
+  },
+  {
+   "cn": "净化",
+   "en": "purification",
+   "source": "土木工程名词",
+   "wordNumber": "12.039",
+   "subjectFullName": "土木工程_燃气与供热_燃气气源",
+   "subjectName": "燃气气源",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "提纯",
+   "en": "purification",
+   "source": "水产名词",
+   "wordNumber": "05.267",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "按照良种标准和选种要求，提高良种纯度和保持良种优良性状的措施。"
+  },
+  {
+   "cn": "湿法提纯",
+   "en": "wet purification,hydro-purification",
+   "source": "冶金学名词",
+   "wordNumber": "06.0169",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "在水溶液体系中进行物料组分分离提纯的冶金过程。"
+  },
+  {
+   "cn": "生物净化",
+   "en": "biological purification",
+   "source": "地质学名词",
+   "wordNumber": "18.01.028",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "通过生物的新陈代谢作用，使污染的环境得到净化，提高环境对污染物的承载负荷，增加环境容量的作用。"
+  },
+  {
+   "cn": "血液净化",
+   "en": "blood purification",
+   "source": "神经外科学名词",
+   "wordNumber": "17.183",
+   "subjectFullName": "医学_神经外科学_神经外科重症监护_神经外科重症相关诊断和治疗",
+   "subjectName": "神经外科重症相关诊断和治疗",
+   "publishYear": "2026",
+   "definition": "把患者的血液引出体外并通过一种净化装置除去其中某些致病物质，净化血液，达到治疗疾病目的的技术。应包括血液透析、血液滤过、血液灌流、血浆置换、免疫吸附等。"
+  },
+  {
+   "cn": "净化系统",
+   "en": "purification system",
+   "source": "风景园林名词",
+   "wordNumber": "08.0654",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "对环境污染物有一定程度自净消纳能力的系统。"
+  },
+  {
+   "cn": "化学净化",
+   "en": "chemical purification",
+   "source": "风景园林名词",
+   "wordNumber": "08.0656",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "通过化学作用使环境中的污染物转化使其浓度降低或消除的过程。"
+  },
+  {
+   "cn": "沼气净化",
+   "en": "biogas purification",
+   "source": "农学名词",
+   "wordNumber": "14.285",
+   "subjectFullName": "农业工程_农业生物质与农村能源",
+   "subjectName": "农业生物质与农村能源",
+   "publishYear": "2025",
+   "definition": "去除沼气中的水、氨气、硫化氢和其他微量杂质的过程。"
+  },
+  {
+   "cn": "物理净化",
+   "en": "physical purification",
+   "source": "风景园林名词",
+   "wordNumber": "08.0655",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "水体中污染物经稀释、扩散和沉降等物理作用使浓度逐渐降低的过程。"
+  },
+  {
+   "cn": "微生物净化",
+   "en": "microbial purification",
+   "source": "风景园林名词",
+   "wordNumber": "08.0658",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "利用土壤和水体中的细菌和真菌，将有机污染物逐渐分解成无机物，从而起到生物净化作用的方法。"
+  },
+  {
+   "cn": "种子提纯",
+   "en": "seed purification",
+   "source": "农学名词",
+   "wordNumber": "06.512",
+   "subjectFullName": "作物基因组学与遗传育种_种子科学与种业",
+   "subjectName": "种子科学与种业",
+   "publishYear": "2025",
+   "definition": "在种子生产中去除混入的异品种和退化的个体，保持品种纯度和特性的过程。"
+  },
+  {
+   "cn": "生态净化",
+   "en": "eco-purification",
+   "source": "风景园林名词",
+   "wordNumber": "08.0657",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "运用生态手段（通常是植物吸收、微生物分解等）对污染体进行净化的过程。"
+  },
+  {
+   "cn": "提纯",
+   "en": "purification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "净化[作用]",
+   "en": "purification",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "纯化",
+   "en": "purification",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自净作用",
+   "en": "self-purification",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "自净化",
+   "en": "self purification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "初级净化",
+   "en": "primary purification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水净化",
+   "en": "water purification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "后净化",
+   "en": "after purification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "间歇净化",
+   "en": "batch purification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "离心纯化",
+   "en": "centrifugal purification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "净化过程",
+   "en": "purification process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物净化",
+   "en": "biological purification",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自净作用",
+   "en": "self-purification",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物净化",
+   "en": "biological purification",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "水[体]净化",
+   "en": "water purification",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自净作用",
+   "en": "self-purification",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "细胞纯化",
+   "en": "cell purification",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "废气净化",
+   "en": "exhaust purification",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "净化系统",
+   "en": "purification system",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "海水自净[作用]",
+   "en": "seawater self-purification",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "净化",
+   "en": "purification",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.1.3",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护方法",
+   "subjectName": "内照射防护方法",
+   "publishYear": "2025",
+   "definition": "采用吸附、过滤、除尘、凝聚沉淀、离子交换、蒸发、贮存衰变、去污等方式，降低空气、水中放射性物质浓度、降低物体表面放射性水平的过程。"
+  },
+  {
+   "cn": "自净",
+   "en": "self-purification",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "利用日光照射和风、雨等作用使环境污染的生物、化学和放射物质自然衰亡，达到无害化的过程。"
+  },
+  {
+   "cn": "战时水质净化",
+   "en": "drinking water purification in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.7",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，采用一定的工艺、设备去除水中物理、化学和生物污染物，达到符合相关标准的要求的过程。"
+  },
+  {
+   "cn": "战时小分队水质净化",
+   "en": "drinking water purification for team in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.7.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，以小分队为基础单位，采用一定的工艺、设备，去除水中物理、化学和生物污染物，保障饮用水安全的过程。"
+  },
+  {
+   "cn": "战时单兵水质净化",
+   "en": "drinking water purification for single soldier in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.7.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，以单兵为基础单位，采用一定的工艺、设备，去除水中物理、化学和生物污染物，保障饮用水安全的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

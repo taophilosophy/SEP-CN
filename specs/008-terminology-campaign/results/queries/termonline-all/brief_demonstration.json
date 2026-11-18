@@ -1,0 +1,572 @@
+{
+ "key": "brief demonstration",
+ "term": "Brief Demonstration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:57:55+00:00",
+ "status": "ok",
+ "note": "variant=Brief Demonstration; 审定公布名词库=56; 海峡两岸名词对照库=12; 其他来源数据库=24; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "吹风会",
+   "en": "briefing;briefing meeting",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.064",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "针对一个有可能引起很大争议的决策，有关机构或组织先借助媒体放出风声来试探舆论反应的一种行为。媒体通过吹风会了解情况，但一般不直接报道吹风会，也不公布发布人。"
+  },
+  {
+   "cn": "简讯",
+   "en": "news brief",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.093",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "200字以内新闻五要素（人物、时间、地点、事件、缘由）俱全的短消息。"
+  },
+  {
+   "cn": "短暂性疼痛",
+   "en": "brief pain",
+   "source": "手外科学名词",
+   "wordNumber": "05.1029",
+   "subjectFullName": "手外科学_手外科学分论_上肢周围神经",
+   "subjectName": "上肢周围神经",
+   "publishYear": "2020",
+   "definition": "由轻微损伤刺激引起，持续时间短暂的一过性疼痛。"
+  },
+  {
+   "cn": "简要书目记录",
+   "en": "brief record",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.393",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "与“详细书目记录”相对。包含最基本的数据项（内容）的书目记录。该记录只包含基本字段和子字段。"
+  },
+  {
+   "cn": "简码",
+   "en": "brief-code",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1106",
+   "subjectFullName": "计算机科学技术_计算机应用_中文信息处理",
+   "subjectName": "中文信息处理",
+   "publishYear": "2018",
+   "definition": "一类汉字输入码。按字形编制。常用汉字的简码只取其前一个、两个或三个字根，目的是提高输入汉字的速度。"
+  },
+  {
+   "cn": "情报简报",
+   "en": "intelligence briefing",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.064",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "由竞争情报机构或部门编发的，以口头或书面形式表达的简短报告。旨在向决策者和管理者及时传递有关竞争环境、竞争对手、竞争战略等方面的动态信息，为决策者制订战略计划提供依据和建议。"
+  },
+  {
+   "cn": "规划论证",
+   "en": "planning demonstration",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.048",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "规划草案经专业委员会讨论和评估并由专业委员会出具报告的过程。"
+  },
+  {
+   "cn": "示范效应",
+   "en": "demonstration effect",
+   "source": "经济学名词",
+   "wordNumber": "06.104",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "由美国经济学家杜森贝里(James Stemble Duesenberry)提出的一个概念。外国的生活方式通过各种媒体对一国公民产生模仿的心理并采取一定的行动。"
+  },
+  {
+   "cn": "示范装置",
+   "en": "demonstration plant",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0054",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "起示范作用的装置。"
+  },
+  {
+   "cn": "示范课",
+   "en": "demonstration lesson",
+   "source": "教育学名词",
+   "wordNumber": "07.138",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "在一定单位时间内，由具有先进教育理念和较高素质教师实施、可供学习研讨的课堂教学活动。"
+  },
+  {
+   "cn": "演示法",
+   "en": "demonstration method",
+   "source": "教育学名词",
+   "wordNumber": "02.155",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师在课堂上通过展示各种实物、模型、图片等直观教具，或进行示范性实验，让学生通过观察获得知识的教学方法。"
+  },
+  {
+   "cn": "示范效应",
+   "en": "demonstration effect",
+   "source": "地理学名词",
+   "wordNumber": "21.030",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "游客数量的增加通常对目的地带来一定的社会、文化及经济影响。其中当地社区的一部分居民模仿游客的行为称为示范效应。"
+  },
+  {
+   "cn": "验证机",
+   "en": "demonstration engine",
+   "source": "航空科学技术名词",
+   "wordNumber": "05.320",
+   "subjectFullName": "航空科学技术_推进技术与航空动力装置",
+   "subjectName": "推进技术与航空动力装置",
+   "publishYear": "2003",
+   "definition": "为在型号研制之前验证发动机总体方案的性能、结构强度及加力燃烧室与主发动机之间和高低压压气机之间的匹配、各系统之间的协调性、初步的耐久性和可靠性的验证发动机。"
+  },
+  {
+   "cn": "演示飞行",
+   "en": "demonstration flight",
+   "source": "航空科学技术名词",
+   "wordNumber": "14.022",
+   "subjectFullName": "航空科学技术_飞行、飞行试验与测试技术",
+   "subjectName": "飞行、飞行试验与测试技术",
+   "publishYear": "2003",
+   "definition": "通过飞行测试手段，把某种现象或事件显示记录下来，以验证某种理论、方案或认识是否正确的飞行。"
+  },
+  {
+   "cn": "示教检眼镜",
+   "en": "demonstration ophthalmoscope",
+   "source": "医学名词 第五分册",
+   "wordNumber": "03.286",
+   "subjectFullName": "医学_眼科学_眼科检查",
+   "subjectName": "眼科检查",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "示范装置",
+   "en": "demonstration unit",
+   "source": "化学工程名词",
+   "wordNumber": "01.055",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "指示代词",
+   "en": "demonstrative pronoun",
+   "source": "语言学名词",
+   "wordNumber": "04.085",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "用来指称人或事物的代词。例如“这”“那”。"
+  },
+  {
+   "cn": "核定产能",
+   "en": "demonstrated capacity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0163",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "原设计产能已不能反映实际情况，重新调查核实的产能。"
+  },
+  {
+   "cn": "简讯",
+   "en": "brief;news flash",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.077",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "以简明文字最快速报道新闻的一种消息体裁。"
+  },
+  {
+   "cn": "简明疼痛量表",
+   "en": "brief pain inventory",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.291",
+   "subjectFullName": "物理医学与康复_康复功能评定_疼痛评定",
+   "subjectName": "疼痛评定",
+   "publishYear": "2014",
+   "definition": "由威斯康辛大学神经科疼痛小组研制，将感觉、情感和评价三个因素分别量化的疼痛评定量表。包括了有关疼痛原因、疼痛性质、对生活的影响、疼痛部位等描述词，并采用数字分级评分法描述疼痛程度，从多方面对疼痛进行评"
+  },
+  {
+   "cn": "简码",
+   "en": "brief-code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天气汇报",
+   "en": "de-briefing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "示范装置",
+   "en": "demonstration unit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "示范效应",
+   "en": "demonstration effect",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "短期心理动力疗法",
+   "en": "brief psychodynamic therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "短期精神障碍",
+   "en": "brief psychotic disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "短期精神分析疗法,简短心理分析疗法",
+   "en": "brief psychoanalytic treatment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演示程序",
+   "en": "demonstration program\",\"demo",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简明症状量表",
+   "en": "Brief Symptom Inventory\",\"BSI",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "简明精神病评定量表",
+   "en": "Brief Psychiatric Rating Scale\",\"BPRS",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "短程心理治疗,短期心理治疗",
+   "en": "short term psychotherapy\",\"brief psycho therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "悲伤疗法",
+   "en": "grief therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表演项目",
+   "en": "demonstration sport",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛前说明会",
+   "en": "pre-race briefing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家自主创新示范区",
+   "en": "national innovation demonstration zone",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化示范项目",
+   "en": "Demonstration Projects in Standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多媒体示证",
+   "en": "multimedia demonstration of evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协调发展示范区",
+   "en": "demonstration zone of coordinated development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "航空物流空间信息服务示范",
+   "en": "air logistics spatial information service demonstration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全示范试点城市",
+   "en": "big data security demonstration pilot city",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全认证示范区",
+   "en": "big data security certification demonstration zone",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新发展示范区",
+   "en": "demonstration zone of innovation-driven development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区域一体化发展示范区",
+   "en": "demonstration zone of integrated regional development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国家大数据新型工业化示范基地",
+   "en": "national demonstration base of big data industrialization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数字素养：NMC地平线项目战略简报》",
+   "en": "Digital Literacy: An NMC Horizon Project Strategic Brief",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简史三部曲（《人类简史》《未来简史》《今日简史》）（〔以色列〕尤瓦尔·赫拉利）",
+   "en": "The Brief History Trilogy — Sapiens: A Brief History of Humankind; Homo Deus: A Brief History of Tomorrow; 21 Lessons for the 21st Century (Yuval Noah Harari, Israel)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务进农村综合示范",
+   "en": "comprehensive demonstration of e-commerce in rural areas",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国力量、中国精神、中国效率",
+   "en": "China has demonstrated strength, character and efficiency in fighting against the epidemic. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "长三角生态绿色一体化发展示范区",
+   "en": "demonstration zone of green and integrated ecological development of the Yangtze River Delta",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子保密通信“京沪干线”技术验证与应用示范项目（中国）",
+   "en": "Technical Verification and Application Demonstration Project for the Beijing-Shanghai Quantum Communication Network (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "广州南沙粤港澳全面合作示范区",
+   "en": "demonstration zone of all-round cooperation among Guangdong, Hong Kong and Macao in Nansha, Guangzhou",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "珠海横琴粤港澳深度合作示范区",
+   "en": "demonstration zone of in-depth cooperation among Guangdong, Hong Kong and Macao in Hengqin, Zhuhai",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "示范教学",
+   "en": "demonstration teaching",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "教师通过演示，让学生亲自练习，以加深对内容的理解，掌握相关技能的教学方法。"
+  },
+  {
+   "cn": "《黑鞑事略》",
+   "en": "Brief Records of the Black Tatars",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0283",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "南宋彭大雅所撰蒙古见闻录，徐霆作疏。介绍了蒙古国主要人物﹑地理气候﹑牧猎方式﹑语言文字﹑历法﹑官制、风俗习惯﹑经济生活及军事作战等情况，是研究13 世纪前半期蒙古史的珍贵资料。"
+  },
+  {
+   "cn": "民族团结进步示范区示范单位",
+   "en": "demonstration area and unit of ethnic unity and progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0102",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国民族团结进步创建活动中涌现出来的民族团结工作表现突出、有一定示范作用的地区和单位。根据《全国民族团结进步示范区示范单位创建命名管理办法》，示范区的范围包括市（地区、自治州、盟）、县（市、区、旗）、"
+  },
+  {
+   "cn": "哀伤辅导",
+   "en": "grief counseling",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.047000000000001",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "对丧亲者的哀伤状况进行评估，并根据其哀伤情况给予相应的干预措施，防止其情绪向严重哀伤演变的心理支持服务。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

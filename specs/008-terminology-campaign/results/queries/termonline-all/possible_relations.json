@@ -1,0 +1,692 @@
+{
+ "key": "possible relations",
+ "term": "possible relations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:05:26+00:00",
+ "status": "ok",
+ "note": "variant=possible relations; 审定公布名词库=778; 海峡两岸名词对照库=175; 其他来源数据库=68; 预公布名词数据库=92; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0337",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "事物发生的概率。是包含在事物之中并预示着事物发展趋势的量化指标。"
+  },
+  {
+   "cn": "可能候选者",
+   "en": "possible candidate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0243",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "选取的自然数作为满足某条件的证据的可能候选者。"
+  },
+  {
+   "cn": "可能世界",
+   "en": "possible world",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0016",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "克里普克（Kripke）提出的一种表述模态逻辑语义的基本单元。每一个可能世界是一种特定的语境，规定了在此语境中哪些模态命题为真，哪些为假。通过模态推理可以从一个可能世界到达另一个可能世界。"
+  },
+  {
+   "cn": "可能结局",
+   "en": "possible outcomes",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0244",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求的策略的最终结局。由于一个需求对应一个图灵机，而一个图灵机计算一个部分函数，因此针对一个需求的策略的最终结局依赖于需求所对应的图灵机的规律。"
+  },
+  {
+   "cn": "可能通行能力",
+   "en": "possible capacity",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0110",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种基于模糊集和模糊逻辑，利用可能性度量和必要性度量处理不确定性的方法。"
+  },
+  {
+   "cn": "生产可能性",
+   "en": "production possibility",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "指现有资源在一定的技术条件下可能生产的最大产量组合。"
+  },
+  {
+   "cn": "如何可能说明",
+   "en": "how-possible explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.431",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "援引事实以显示该事件可以发生，并且没有不能发生的好理由。"
+  },
+  {
+   "cn": "可能世界语义",
+   "en": "possible world semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0017",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "利用“可能世界”的思想去定义逻辑上可能性、必然性和偶然性的一种语义。"
+  },
+  {
+   "cn": "可照时数",
+   "en": "possible sunshine duration",
+   "source": "建筑学名词",
+   "wordNumber": "10.0155",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "在一定的时间段内，太阳光照射在某一特定地点的建筑物上的累计时间。"
+  },
+  {
+   "cn": "生产可能性曲线",
+   "en": "production possibility curve",
+   "source": "经济学名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "表示经济社会在既定资源和技术条件下所能生产的各种商品最大数量的组合。该曲线反映了资源稀缺性与选择性的经济学特征。"
+  },
+  {
+   "cn": "要闻集录",
+   "en": "Relation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "世界报业学会认定的第一份现代报纸。1605年，由德国出版商约翰·卡罗勒斯(Johann Carolus)在斯特拉斯堡出版。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "具有相同属性集的元组的集合。一个关系对应一个二维表。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "数学名词",
+   "wordNumber": "01.0036",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "推测储量",
+   "en": "inferred reserves,possible reserves",
+   "source": "石油名词",
+   "wordNumber": "02.1032",
+   "subjectFullName": "石油_油气地质勘探_油气资源评价",
+   "subjectName": "油气资源评价",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "可照时数",
+   "en": "duration of possible sunshine ",
+   "source": "草学名词",
+   "wordNumber": "3.0573",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "可照时数",
+   "en": "duration of possible sunshine",
+   "source": "大气科学名词",
+   "wordNumber": "01.417",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "日出至日没的总时数。以小时为单位。"
+  },
+  {
+   "cn": "可照时数",
+   "en": "duration of possible sunshine",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.137",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "日出至日没的总时数,以小时为单位。"
+  },
+  {
+   "cn": "海洋油气预测储量",
+   "en": "offshore possible hydrocarbon reserve",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0219",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋矿产资源开发技术",
+   "subjectName": "海洋矿产资源开发技术",
+   "publishYear": "2007",
+   "definition": "对经过预探井钻探已获得油气流、油气层或油气显示的海上圈闭，根据区域地质条件分析和类比估算出的可能存在的油气藏地质储量。"
+  },
+  {
+   "cn": "同义关系",
+   "en": "synonymous relation,equivalent relation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.288",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "在特定领域内，具有相同的内涵和外延的两个概念之间的关系。包括同义词之间、学名与俗称之间、旧称与新称之间、简称与全称之间、同一产品的正式命名与绰号和型号之间、不同译名之间、不同拼写形式之间、倒置词序与自"
+  },
+  {
+   "cn": "可能误差",
+   "en": "possible error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可能自我",
+   "en": "possible self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可能性界限",
+   "en": "possibility boundaries",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可照时数",
+   "en": "duration of possible sunshine",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "七情",
+   "en": "seven relations",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"guanxi",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系亲缘",
+   "en": "floral relation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "查诺克关系式",
+   "en": "Charnock relation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候关系",
+   "en": "phenological relation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "热力学关系",
+   "en": "thermodynamic relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "麦克斯韦关系",
+   "en": "Maxwell relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "位相关系",
+   "en": "phase relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系式",
+   "en": "recursive relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "倒数关系",
+   "en": "reciprocal relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际关系",
+   "en": "interpersonal relation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "交错关系",
+   "en": "false relation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络公关",
+   "en": "online public relations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法条关联",
+   "en": "Related Legal Provisions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "马克思主义",
+   "wordNumber": "01.0064",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由事物内部矛盾引起的，包含在事物中的预示事物发展变化的种种趋势，或事物转化的潜在因素，是潜在的尚未实现的东西。"
+  },
+  {
+   "cn": "可能病例",
+   "en": "possible case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，病例临床标本无实验室阳性结果或未采集到病例的临床标本，但具有典型的临床症状体征的病例。"
+  },
+  {
+   "cn": "可能性与现实性",
+   "en": "possibility and actuality",
+   "source": "马克思主义",
+   "wordNumber": "01.0066",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "可能性与现实性是对立统一的关系。二者相互区别，不能等同。只有具备充分客观根据的可能性才能转化为现实性。二者又是统一的，它们相互依存、相互包含、相互转化。可能性作为潜在趋势存在于现实性之中，是还没有实现"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "生产可能性边界",
+   "en": "production possibility frontier，PPF",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "在既定资源和技术条件下所能生产或提供的各种商品或服务的最大数量组合。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "生产关系",
+   "en": "relations of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0004",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在物质资料生产和再生产过程中形成的社会经济关系。包括：作为其基础的生产资料所有制形式，生产资料和劳动力的结合方式，直接生产过程中的关系（狭义生产关系），产品分配关系，交换关系等。"
+  },
+  {
+   "cn": "社会主义民族关系",
+   "en": "socialist ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0398",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义制度下建立起来的新型民族关系。其基本特征是：各民族地位平等、团结、互助、和谐。毛泽东在《论十大关系》《关于正确处理人民内部矛盾的问题》中多次强调克服大汉族主义、地方民族主义。"
+  },
+  {
+   "cn": "新型民族关系",
+   "en": "new ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0607",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "平等、团结、互助、和谐是中国社会主义民族关系的基本特征。民族平等、民族团结、各民族共同繁荣是中国处理民族关系的基本原则。民族平等是民族团结的政治基础，民族平等和民族团结是各民族共同繁荣的前提条件，共同"
+  },
+  {
+   "cn": "代际关系",
+   "en": "relation between generations",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "不同代际人群通过资源的分配与共享、感情的交流与沟通以及道德义务的意识与承担等发生这样或那样的交往关系。广义指社会上因地缘、业缘和其他关系产生的不同代际之间的交往关系。狭义的指家庭内因血缘和姻缘产生的交"
+  },
+  {
+   "cn": "医学道德关系",
+   "en": "medical moral relation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.225",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "人们在医学活动中所结成的人与人、人与环境、人与社会等不同要素之间的关系。主要包括医患道德关系、医际道德关系和医社道德关系等。"
+  },
+  {
+   "cn": "关系合同理论",
+   "en": "relational contract theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.60",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从交易的社会关系嵌入性出发而提出的合同理论。该理论认为交易各方在长期合作中可以不追求对契约的所有细节达成一致，而仅订立一个具有灵活性和适应性的契约。与正式契约依赖法律执行不同，关系契约的执行依赖于契约"
+  },
+  {
+   "cn": "消毒相关用品",
+   "en": "disinfection related supplies",
+   "source": "消毒学",
+   "wordNumber": "3.2",
+   "subjectFullName": "消毒学_消毒用品",
+   "subjectName": "消毒用品",
+   "publishYear": "2025",
+   "definition": "在实施消毒的过程中，对消毒起促进作用或用于消毒作业人员防护等的装备。"
+  },
+  {
+   "cn": "任务相关监测",
+   "en": "task-related monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为特定操作提供有关操作和管理方面的即时决策而进行的监测。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

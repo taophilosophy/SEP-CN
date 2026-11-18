@@ -1,0 +1,672 @@
+{
+ "key": "precise definitions",
+ "term": "precise definitions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:10:26+00:00",
+ "status": "ok",
+ "note": "variant=precise definitions; 审定公布名词库=365; 海峡两岸名词对照库=116; 其他来源数据库=36; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "医学影像技术学名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "医学影像技术学_普通X射线成像技术_普通X射线成像基础",
+   "subjectName": "普通X射线成像基础",
+   "publishYear": "2020",
+   "definition": "影像能够反映被测物体微细结构的综合能力。受分辨力、模糊度、颗粒程度及再现性等影响。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0272",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "物理学名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0690",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "影像上各细部影纹及其边界的清晰程度。"
+  },
+  {
+   "cn": "义界",
+   "en": "definition",
+   "source": "语言学名词",
+   "wordNumber": "10.030",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用定义来表述词义内容的训释方式。典型的义界结构是“义值差+主训词”。例如“观，谛视也”，其中“谛”为义值差，“视”为主训词。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.257",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "定义",
+   "en": "definition",
+   "source": "数学名词",
+   "wordNumber": "01.0012",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "电子学名词",
+   "wordNumber": "10.261",
+   "subjectFullName": "电子学_真空电子学",
+   "subjectName": "真空电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有定",
+   "en": "definite",
+   "source": "语言学名词",
+   "wordNumber": "04.098",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“无定”相对。语法和语义学术语。名词的语法性质之一，指说话人认为听说双方都能识别确认的对象。例如“客人来了”里的“客人”就是有定的。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "农学名词",
+   "wordNumber": "18.014",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "在规定条件下，对同一或类似被测对象重复测量所得示值或测得值间的一致程度。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "兽医学名词",
+   "wordNumber": "11.096",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "在限定条件下，用某种分析方法重复测定同一均质样品所得测定值的彼此接近程度。通常以变异系数表示。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2676",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "被测量的测得值之间的一致程度。 "
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "测绘学名词",
+   "wordNumber": "01.033",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在相同观测条件下，对某一量的重复测量中各观测值间的接近程度。"
+  },
+  {
+   "cn": "精确性",
+   "en": "precision",
+   "source": "畜牧学名词",
+   "wordNumber": "04.635",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "同一物体的重复观察值或对某参数的重复估计值彼此之间的接近程度。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.587",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "在规定条件下，独立测试结果间的一致程度。"
+  },
+  {
+   "cn": "精确度",
+   "en": "precision",
+   "source": "冶金学名词",
+   "wordNumber": "04.0679",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "使用同种备用样品进行重复测定所得到的结果之间重现性高低的程度。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "物理学名词",
+   "wordNumber": "01.0271",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "精［密］度",
+   "en": "precision",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0023",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "多次测量同一物理量所得数据可重现性的量度。"
+  },
+  {
+   "cn": "精确率",
+   "en": "precision",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0609",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "语言信息处理系统性能评价指标之一。是机器正确发现的实体数量占机器发现的所有实体数量的百分比，用来衡量机器自动处理的准确性。"
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "核医学名词",
+   "wordNumber": "03.0175",
+   "subjectFullName": "核医学_核医学设备与操作_探测设备",
+   "subjectName": "探测设备",
+   "publishYear": "2018",
+   "definition": "在一定测量条件下，对某一量的多次测量中各观测值间的离散程度。"
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "清晰度",
+   "en": "definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精[密]度",
+   "en": "precision",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "精［密］度",
+   "en": "precision",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "精度",
+   "en": "precision",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "精密度",
+   "en": "precision",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "精度",
+   "en": "precision",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "精确性",
+   "en": "precision",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "精[密]度",
+   "en": "precision",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精[密]度",
+   "en": "precision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作性定义",
+   "en": "operational definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念定义",
+   "en": "conceptual definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "属性定义",
+   "en": "attribute definition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据定义",
+   "en": "data definition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "弧定义",
+   "en": "arc definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "弦定义",
+   "en": "chord definition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定义阶段",
+   "en": "definition phase",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文件定义",
+   "en": "file definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "周期性定义",
+   "en": "period definition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定义性出现",
+   "en": "definitional occurrence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精准农业",
+   "en": "precision agriculture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准营销",
+   "en": "precision marketing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准治理",
+   "en": "precision governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准化服务",
+   "en": "precision services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准监督",
+   "en": "precision supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准医疗",
+   "en": "precision medicine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慢射",
+   "en": "precision shooting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "慢射比赛",
+   "en": "precision stage",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精准度",
+   "en": "sighting\",\"precision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超高清",
+   "en": "Ultra High Definition",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公益界定",
+   "en": "public interest definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准招商",
+   "en": "precision investment attraction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能精准执行",
+   "en": "intelligent precision execution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据域定义标准",
+   "en": "data domain definition standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病例定义",
+   "en": "case definition",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "通过明确的临床诊断标准及对时间、空间和人群的限值确定的标准化条件，用于确定某个体是否处于某种健康相关状况。"
+  },
+  {
+   "cn": "精准医学",
+   "en": "precision medicine",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.4.2.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "一种将个人基因组成、环境与生活习惯差异考虑在内的疾病预防和治疗的模式。"
+  },
+  {
+   "cn": "精准发酵",
+   "en": "precision fermentation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.20",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "利用细菌、酵母或真菌等微生物通过控制生产系统生产特定目标产品的技术，包括精准工业（微生物）发酵生产的蛋白质和氨基酸、酶、维生素、色素、具有生物活性的物质（如功能多糖、脂肪等）。"
+  },
+  {
+   "cn": "产前诊断确诊率",
+   "en": "prenatal definite diagnosis rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.22",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区接受产前诊断的孕产妇中确诊的先天性缺陷和/或遗传性疾病的人数，与同期当地孕产妇产前诊断人数之比。"
+  },
+  {
+   "cn": "问题界定与分析解释",
+   "en": "problem definition, analysis and explanation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "通过对服务对象自身、外部环境以及服务对象的系统进行详细描述，以确定服务对象问题的发生原因与现状，并鉴定服务对象的优势与资源的专业活动。"
+  },
+  {
+   "cn": "20%美国风湿病学会改善",
+   "en": "American college of rheumatology 20% definition, ACR20",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度变化的改善标准，是临床试验的标准结局测量指标。定义：关节肿胀和压痛数（28-关节计数法）有20%的改善以及下列5项参数中至少3项有20%改善：1"
+  },
+  {
+   "cn": "50%美国风湿病学会改善",
+   "en": "American college of rheumatology 50% definition, ACR50",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度中等的改善标准，是临床试验的标准结局测量指标。定义：关节肿胀和压痛数（28-关节计数法）有50%的改善以及下列5项参数中至少3项有50%改善：1"
+  },
+  {
+   "cn": "70%美国风湿病学会改善",
+   "en": "American college of rheumatology 70% definition, ACR70",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度大幅变化的改善标准，是临床试验的标准结局测量指标。其定义为：关节肿胀和压痛数（28-关节计数法）有70%的改善以及下列5项参数中至少3项有70%"
+  },
+  {
+   "cn": "格林模式",
+   "en": "precede-proceed model",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "通过对围绕目标人群的社会、流行病学、教育生态学以及政策等因素进行综合评价后，找出相关影响项目成败的促进与制约因素，规划与评价项目的启动、实施和完成项目的具有灵活性、可扩展性的循证模式。"
+  },
+  {
+   "cn": "格林模式",
+   "en": "precede-proceed model",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.2.3",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "美国学者劳伦斯·格林提出的健康教育模式，是从“结果入手”，用演绎的方法进行思考，即从最终的结果追溯到最初的起因的模式，包括了两个组成部分：诊断阶段和执行阶段。"
+  },
+  {
+   "cn": "消毒产品配方",
+   "en": "recipe of disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.7",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品中各种原料的组成和比例。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

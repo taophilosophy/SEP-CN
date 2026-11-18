@@ -1,0 +1,772 @@
+{
+ "key": "sudden enlightenment",
+ "term": "sudden enlightenment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:54:46+00:00",
+ "status": "ok",
+ "note": "variant=sudden enlightenment; 审定公布名词库=324; 海峡两岸名词对照库=154; 其他来源数据库=17; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "启蒙运动",
+   "en": "Enlightenment",
+   "source": "世界历史名词",
+   "wordNumber": "03.0451",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "17世纪至18世纪欧洲资产阶级和人民大众反封建的思想文化运动。"
+  },
+  {
+   "cn": "科学启蒙",
+   "en": "scientific enlightenment",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.305",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "传播和确立科学理性、科学方法的价值与地位，破除宗教信仰、知识愚昧的思想反思与解放。在西方主要是指以哥白尼“太阳中心说”为标志的挣脱教会统治的近代科学独立、确立进程，在中国则主要指洋务运动中西方科学文化"
+  },
+  {
+   "cn": "开明营销",
+   "en": "enlightened marketing",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0111",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "一个公司的营销活动应该支持该营销系统最佳的长期绩效表现的一种营销哲学。"
+  },
+  {
+   "cn": "开明专制",
+   "en": "Enlightened Despotism",
+   "source": "世界历史名词",
+   "wordNumber": "03.0575",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "18世纪下半叶，普鲁士、奥地利、法国和俄国等封建专制君主为巩固统治，装扮“开明”，宣称进行自上而下的改革而得名。"
+  },
+  {
+   "cn": "巴西启蒙运动",
+   "en": "Enlightenment in Brazil",
+   "source": "世界历史名词",
+   "wordNumber": "04.0707",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "18世纪下半叶，巴西的思想文化运动，使资产阶级的自由主义和改良思想渗透整个社会。"
+  },
+  {
+   "cn": "猝死",
+   "en": "sudden death",
+   "source": "急救医学名词",
+   "wordNumber": "03.041",
+   "subjectFullName": "急救医学_日常医学急救_内科学_循环系统",
+   "subjectName": "循环系统",
+   "publishYear": "2025",
+   "definition": "平素身体健康或貌似健康的患者在出乎意料的短时间内因自然疾病而突然死亡的现象。世界卫生组织（WHO）界定的猝死为从疾病急性发作到死亡时间为6小时之内。"
+  },
+  {
+   "cn": "突发性[耳]聋",
+   "en": "sudden deafness",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.9.1.5.8",
+   "subjectFullName": "耳科_耳鸣耳聋",
+   "subjectName": "耳鸣耳聋",
+   "publishYear": "2025",
+   "definition": "72h内突然发生的原因不明的感音神经性听力损失。至少在相邻的两个频率听力下降不低于20dB HL。"
+  },
+  {
+   "cn": "闪伤",
+   "en": "sudden sprain",
+   "source": "兽医学名词",
+   "wordNumber": "19.825",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "多因剧烈运动，腰部肌筋受到突然牵拉所引起的病证。"
+  },
+  {
+   "cn": "骤变式物种形成",
+   "en": "sudden speciation",
+   "source": "植物学名词",
+   "wordNumber": "02.0350",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "在较短时间内快速或跳跃式地形成新物种的过程。"
+  },
+  {
+   "cn": "骤扩",
+   "en": "sudden enlargement",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0122",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "流体流经直径突然增大的管子的现象。"
+  },
+  {
+   "cn": "骤缩",
+   "en": "sudden contraction",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0123",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "流体流经直径突然缩小的管子的现象。"
+  },
+  {
+   "cn": "猝死",
+   "en": "sudden death",
+   "source": "核医学名词",
+   "wordNumber": "04.0523",
+   "subjectFullName": "核医学_临床核医学_心血管系统核医学_临床常见心血管病",
+   "subjectName": "临床常见心血管病",
+   "publishYear": "2018",
+   "definition": "因潜在疾病突然发作或恶化，平时貌似健康的人发生的意外、急骤性死亡的现象。"
+  },
+  {
+   "cn": "突然失效",
+   "en": "sudden failure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1279",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "事先没有任何迹象，维护过程中也未发现异常而在运行中突然出现故障的情况。"
+  },
+  {
+   "cn": "暴盲",
+   "en": "sudden blindness",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "04.364",
+   "subjectFullName": "中医药学_眼科学_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2013",
+   "definition": "以眼外观端好，而一眼或双眼视力急剧下降至失明为主要表现的眼病。包括眼底血管性疾病及视神经疾病，如视网膜静脉阻塞、视网膜动脉阻塞、视网膜血管炎、急性视神经炎、缺血性视神经病变等。"
+  },
+  {
+   "cn": "暴聋",
+   "en": "sudden deafness",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.223",
+   "subjectFullName": "中医药学_耳鼻喉科学_耳病",
+   "subjectName": "耳病",
+   "publishYear": "2013",
+   "definition": "以单耳或双耳听力骤然减退为主要表现的耳病。"
+  },
+  {
+   "cn": "卒痛",
+   "en": "sudden pain",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "01.044",
+   "subjectFullName": "中医药学_外科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "痛突然发作，痛势急剧的表现。"
+  },
+  {
+   "cn": "卒死",
+   "en": "sudden death",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0005",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以6小时以内不明原因突然发生的意识丧失，寸口、人迎、趺阳脉搏动消失，呼吸暂停，全身青紫，瞳神散大，四肢厥冷等为主要表现的危急重证。"
+  },
+  {
+   "cn": "薄厥",
+   "en": "sudden syncope",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0013",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以突然发生的眩晕、头痛，烦躁不安，偏身麻木，甚则神志不清，汗出，息促等为主要表现的危急重病。"
+  },
+  {
+   "cn": "暴喘",
+   "en": "sudden dyspnea",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0027",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以痰鸣如吼，气息喘促，汗出淋漓，不能平卧，胸高胁胀，面色发暗，苔黄黏腻，脉滑数等为主要表现的危急重证。"
+  },
+  {
+   "cn": "暴咳",
+   "en": "sudden cough",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0399",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以骤然发作剧烈咳嗽为主要表现的病症。"
+  },
+  {
+   "cn": "启蒙运动",
+   "en": "enlightenment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "突然失效",
+   "en": "sudden failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平流层爆发[性]增温",
+   "en": "stratospheric sudden warming",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "暗条突逝",
+   "en": "filament sudden disappearance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "爆发式物种形成（=骤变式物种形成）",
+   "en": "sudden speciation\",\"explosive speciation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "骤变式物种形成，爆发式物种形成",
+   "en": "sudden speciation\",\"explosive speciation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "场强突异",
+   "en": "sudden field anomaly\",\"SFA",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "电离层突扰",
+   "en": "sudden ionospheric disturbance\",\"SID",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "频率突漂",
+   "en": "sudden frequency drift\",\"SFD",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相位突异",
+   "en": "sudden phase anomaly\",\"SPA",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相位突然异常",
+   "en": "sudden phase anomaly\",\"SPA",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "跳跃式物种形成（=骤变式物种形成）",
+   "en": "saltational speciation (=sudden speciation)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天电突增",
+   "en": "sudden enhancement of atmospherics\",\"SEA",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙噪声突然吸收",
+   "en": "sudden cosmic noise absorption\",\"SCNA",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "短波突衰",
+   "en": "sudden short wave fade-out\",\"SSWF\",\"M鰃el-Dellinger effect",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潮滩（=潮坪）",
+   "en": "wadden",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "舵",
+   "en": "rudder",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "舵",
+   "en": "rudder",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "舵角限位器",
+   "en": "rudder stop\",\"rudder stopper",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "流线型舵",
+   "en": "streamline rudder\",\"hydrofoil rudder",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "师法之化",
+   "en": "Enlightenment Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一箭定胜负",
+   "en": "sudden-death arrow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抢七局",
+   "en": "sudden death\",\"tie-break game\",\"tie-breaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蒙以养正",
+   "en": "Enlighten the Ignorant and Make Them Follow the Right Path",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "舵",
+   "en": "rudder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舵",
+   "en": "rudder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舵",
+   "en": "rudder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舵索",
+   "en": "cable for rudder\",\"rudder line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "玄同",
+   "en": "Hidden Harmony",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "舵叶",
+   "en": "rudder blade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脚舵",
+   "en": "foot rudder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舵叶",
+   "en": "rudder blade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子克朗（瑞典）",
+   "en": "e-Krona (Sweden)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "舵叶主构体",
+   "en": "rudder main piece",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "瑞典国家数据服务",
+   "en": "National Data Service (Sweden)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《爆发：大数据时代预见未来的新思维》（〔美〕艾伯特–拉斯洛·巴拉巴西）",
+   "en": "Bursts: The Hidden Patterns Behind Everything We Do (Albert-László Barabási, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "启蒙运动",
+   "en": "enlightenment",
+   "source": "马克思主义",
+   "wordNumber": "03.0137",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一般特指18世纪以法国百科全书派为代表的资产阶级进步思想家所进行的思想解放运动。它以理性为核心，用朴素唯物论批判封建专制的理论基础唯心论；用无神论和自然神论否定天主教义权威和宗教偶像；用“天赋人权”观"
+  },
+  {
+   "cn": "启蒙时代",
+   "en": "age of enlightenment",
+   "source": "马克思主义",
+   "wordNumber": "03.0136",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "17世纪和18世纪发端于西欧国家的一个思想解放时期。这一时期的思想以反对宗教蒙昧主义和封建等级制度为宗旨，提倡理性和科学，认为科学和艺术知识的理性发展可以改进人类生活。启蒙时代是资产阶级思想观念形成和"
+  },
+  {
+   "cn": "启蒙的辩证法",
+   "en": "dialectic of enlightenment",
+   "source": "马克思主义",
+   "wordNumber": "05.0026",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马克斯·霍克海默（M. Max Horkheime）与西奥多·阿多诺（Theodore Adorno）《启蒙辩证法》书中提出的概念。认为启蒙的根本目标就是要使人们摆脱恐惧，树立自主，但是，被彻底启蒙的"
+  },
+  {
+   "cn": "核与放射性突发事件",
+   "en": "nucleus and radiation sudden events",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.35",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "核电厂或其他核设施因操作失误或设备故障等原因发生的任何意外事件。释放的放射性物质可通过空气、土壤、水等途径污染食物。"
+  },
+  {
+   "cn": "争取开明绅士",
+   "en": "persuade the enlightened gentry to resist against Japanese",
+   "source": "马克思主义",
+   "wordNumber": "03.0439",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的对待抗日战争和解放战争时期一部分具有民主色彩的地主和富农分子的政策。开明绅士是中间势力，争取开明绅士，有利于孤立中国革命的主要敌人。"
+  },
+  {
+   "cn": "肃慎",
+   "en": "Sushen",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0017",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。先秦时期分布于长白山以北至黑龙江中下游广大地区，包括语言、习俗相近之众多部落或部落集团。"
+  },
+  {
+   "cn": "双重负担",
+   "en": "double burden",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "就业者身兼工作和家庭双职，既要承受来自职场的薪资劳动压力，又要承担无偿的家务劳动、家庭劳动和养老抚幼的重任。与男性相比较，妇女所承担的双重负担更重，压力更大。"
+  },
+  {
+   "cn": "照料者负担",
+   "en": "caregiver burden",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.9",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "长期照料体弱老年人时产生的个人精力和时间的限制、经济紧张以及心理上的挫败感。"
+  },
+  {
+   "cn": "暴露负荷",
+   "en": "exposure burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "暴露量除以暴露表面积的值。例如，基于皮肤擦拭样品的皮肤暴露测量，表示为每单位皮肤表面积的残留量。"
+  },
+  {
+   "cn": "疾病负担",
+   "en": "burden of disease，burden of illness",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "疾病、伤残（失能）和过早死亡对健康和社会造成的总损失。"
+  },
+  {
+   "cn": "苏丹红",
+   "en": "Sudan red",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.6.3",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "人工合成的一种工业染料。是亲脂性偶氮化合物，主要包括Ⅰ、Ⅱ、Ⅲ和Ⅳ四种类型，我国禁止用于食品。"
+  },
+  {
+   "cn": "流行病学负担评估",
+   "en": "epidemiological burden assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "采用流行病学指标量化疾病对人群健康及公共卫生系统影响的综合性分析方法。常用流行病学指标如健康调整寿命年、伤残调整寿命年、与健康有关的生存质量等综合指标。"
+  },
+  {
+   "cn": "食源性疾病负担",
+   "en": "foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "生物性致病因子、化学性污染物等危害通过食物传播引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "概率性负担评估",
+   "en": "probabilistic burden assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "应用概率评估的方法进行疾病流行病学负担评估。"
+  },
+  {
+   "cn": "经济负担评估",
+   "en": "economic burden assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "测算和分析由于发病、伤残（失能）、过早死亡给患者本人、家庭以及社会带来的经济损失和由于预防治疗疾病所消耗的经济资源。"
+  },
+  {
+   "cn": "全球疾病负担",
+   "en": "global burden of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "全面描述不同国家、不同时间、年龄和性别的死亡率和伤残情况，量化数百种疾病、伤害和风险因素所导致的健康损失，以便改善卫生系统并消除不公平的一种方法。"
+  },
+  {
+   "cn": "生物性食源性疾病负担",
+   "en": "biological foodborne diseases burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.10",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "微生物病原体、生物毒素等致病因子通过食物传播引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "化学性食源性疾病负担",
+   "en": "chemical foodborne diseases burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "食源性化学污染物引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "食源性寄生虫病疾病负担",
+   "en": "parasitic foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.10.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "摄入含寄生虫的食物而引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "食源性肠道疾病负担",
+   "en": "enteric foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.10.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "摄入了污染有霍乱弧菌、甲型肝炎病毒等细菌、病毒的食物而引起的肠道疾病导致的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

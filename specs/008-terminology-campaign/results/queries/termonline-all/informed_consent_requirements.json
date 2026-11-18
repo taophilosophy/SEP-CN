@@ -1,0 +1,762 @@
+{
+ "key": "informed consent requirements",
+ "term": "informed consent requirements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:15:54+00:00",
+ "status": "ok",
+ "note": "variant=informed consent requirements; 审定公布名词库=3244; 海峡两岸名词对照库=888; 其他来源数据库=672; 预公布名词数据库=189; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.114",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "由知情和同意两部分组成。包含两层含义即个人对医疗干预或参加医学研究的知情后的自主授权和在进行诊断、治疗或研究之前获得患者或受试者在法律上或制度上有效的同意。"
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.012",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_媒体与传播伦理总论",
+   "subjectName": "媒体与传播伦理总论",
+   "publishYear": "2022",
+   "definition": "最初指医生必须为患者提供足够的相关信息，以便后者做出是否接受治疗、参与试验或医学研究活动的自主决策。现在该术语指涉范围扩大到更多的与隐私保护相关的领域。它主要泛指这样一种情形：当组织或个人需要使用他人"
+  },
+  {
+   "cn": "知情同意书",
+   "en": "informed consent",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "10.01",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤临床试验",
+   "subjectName": "妇科肿瘤临床试验",
+   "publishYear": "2022",
+   "definition": "患者表示自愿进行医疗治疗的证明文件。"
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "器官移植学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "器官移植学_供器官的获取与保存",
+   "subjectName": "供器官的获取与保存",
+   "publishYear": "2020",
+   "definition": "患者对自己的病情和医生据此做出诊断与治疗方案的明了和认可。医生必须向患者提供做出诊断和治疗方案的根据，即病情资料，并说明这种治疗方案的益处、负效应、危险性及可能发生的其他意外情况，使患者能自主地做出决"
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.082",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "向受试者告知一项研究的各方面情况后，根据其自愿同意与否确定是否参加该项临床研究的过程。如同意需签署知情同意书。"
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.106",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "在治疗中了解情况的前提下签署同意书的过程。"
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "核医学名词",
+   "wordNumber": "06.0235",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "向受试者告知试验性质、试验目的、可能的受益和危险、可供选用的其他治疗方法及符合《赫尔辛基宣言》规定的受试者的权利和义务等，使受试者充分了解后确认其同意参加该临床试验的过程。"
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "心理学名词",
+   "wordNumber": "15.085",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "结成咨询关系的一种程序性事项，向当事人告知他们即将参与的活动或经历，并获得当事人认可。"
+  },
+  {
+   "cn": "知情同意书",
+   "en": "informed consent form",
+   "source": "生殖医学名词",
+   "wordNumber": "12.01",
+   "subjectFullName": "生殖医学_生殖伦理",
+   "subjectName": "生殖伦理",
+   "publishYear": "2022",
+   "definition": "患者表示自愿进行医疗治疗及参与研究处置的文件证明。"
+  },
+  {
+   "cn": "知情同意书",
+   "en": "informed consent form",
+   "source": "核医学名词",
+   "wordNumber": "06.0236",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "在充分知情后受试者表示自愿参加某一试验的书面文件。由受试者本人或其授权、法律承认的代表签名、注明日期后生效。"
+  },
+  {
+   "cn": "知情同意书",
+   "en": "informed consent form",
+   "source": "药学名词",
+   "wordNumber": "09.099",
+   "subjectFullName": "药学_药事管理",
+   "subjectName": "药事管理",
+   "publishYear": "2014",
+   "definition": "每位受试者为表示自愿参加某项实验而签署的文书。"
+  },
+  {
+   "cn": "知情同意书签署率",
+   "en": "informed consent signing rate",
+   "source": "急救医学名词",
+   "wordNumber": "04.046",
+   "subjectFullName": "急救医学_急救质控_院前急救质控_现场救治质控",
+   "subjectName": "现场救治质控",
+   "publishYear": "2025",
+   "definition": "急救人员向患者本人或其家属等说明伤病情况的客观事实后，患者本人或其家属等代理人在病情告知书上签字表示知情同意的患者数量占同期急救患者总量的百分比。知情同意书签署率=签署知情同意书的患者数量÷同期急救患"
+  },
+  {
+   "cn": "知情同意原则",
+   "en": "principle of informed consent",
+   "source": "妇产科学名词",
+   "wordNumber": "12.003",
+   "subjectFullName": "遗传咨询、产前筛查与产前诊断_遗传咨询",
+   "subjectName": "遗传咨询",
+   "publishYear": "2025",
+   "definition": "遗传咨询过程中，应确保咨询对象对于所有涉及自身及家庭成员的健康状态及疾病风险、遗传学检测可能出现的临床意义不明的基因变异、不同个体诊疗计划的利弊均有充分的理解，并确保完全自主地进行医疗方案选择的原则。"
+  },
+  {
+   "cn": "麻醉知情同意书",
+   "en": "informed consent of anesthesia",
+   "source": "麻醉学名词",
+   "wordNumber": "08.057",
+   "subjectFullName": "麻醉学_麻醉科质量管理_麻醉信息学",
+   "subjectName": "麻醉信息学",
+   "publishYear": "2024",
+   "definition": "麻醉前麻醉医师向患者、近亲属或授权委托人告知拟施麻醉的相关情况，并由患者、近亲属或授权委托人签署是否同意麻醉意见的医学文书。"
+  },
+  {
+   "cn": "知情同意权",
+   "en": "right of informed consent",
+   "source": "生殖医学名词",
+   "wordNumber": "12.009",
+   "subjectFullName": "生殖医学_生殖伦理",
+   "subjectName": "生殖伦理",
+   "publishYear": "2022",
+   "definition": "知情权和同意权两个密切相连权利的统称。知情权是同意权得以存在的前提和基础，同意权又是知情权的价值体现，强调患者的知情同意权，主要目的在于通过赋予医疗机构及其医务人员相应的告知义务，使患者在了解自己将面"
+  },
+  {
+   "cn": "信息披露制度",
+   "en": "information disclosure requirement",
+   "source": "经济学名词",
+   "wordNumber": "12.174",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "上市公司为保障投资者利益和接受社会公众的监督而依照法律规定必须公开或公布其有关信息和资料的规定。它既包括发行前的披露，也包括上市后的持续信息公开。"
+  },
+  {
+   "cn": "信息披露制度",
+   "en": "information disclosure requirement",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0785",
+   "subjectFullName": "管理科学技术_金融工程_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "上市公司为保障投资者利益和接受社会公众的监督而依照法律、法规、规章等必须公开或公布其有关信息和资料的规定。"
+  },
+  {
+   "cn": "推定同意",
+   "en": "presumed consent",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.168",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "适用于器官移植中尸体捐献场合的一种供体获取方式。即当死者无生前的自愿捐献同意时，如果没有明确的反对捐赠其器官的意思表达，可以推定其同意。"
+  },
+  {
+   "cn": "制造共识",
+   "en": "manufacturing consent",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.029",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "揭示新闻媒体如何建立并维护统治集团的经济、政治和社会议程的理论。这一理论由爱德华·S.赫尔曼(Edward S.Herman)和诺姆·乔姆斯基(Noam Chomsky)提出，用以分析美国大众媒体依赖"
+  },
+  {
+   "cn": "活体肝移植知情同意",
+   "en": "informed consent in living liver transplantation",
+   "source": "器官移植学名词",
+   "wordNumber": "10.008",
+   "subjectFullName": "器官移植学_肝移植_活体肝移植",
+   "subjectName": "活体肝移植",
+   "publishYear": "2020",
+   "definition": "医师向肝移植受者告知活体肝移植的各方面情况后，受者自愿同意并接受活体肝移植的过程。"
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "需求",
+   "en": "requirement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能需求",
+   "en": "functional requirements",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接口需求",
+   "en": "interface requirements",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实现需求",
+   "en": "implementation requirements",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "物理需求",
+   "en": "physical requirements",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "系统需求",
+   "en": "system requirements",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性能需求",
+   "en": "performance requirements",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求分析",
+   "en": "requirements analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求工程",
+   "en": "requirements engineering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求规约",
+   "en": "requirements specification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求阶段",
+   "en": "requirements phase",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求审查",
+   "en": "requirements inspection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求验证",
+   "en": "requirements verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "用户需求",
+   "en": "user requirements",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "需光量",
+   "en": "light requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "功需要量",
+   "en": "work requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "通风需求",
+   "en": "ventilation requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "功率需要量",
+   "en": "power requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人同意",
+   "en": "personal consent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "需求分析",
+   "en": "requirement analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规定速度",
+   "en": "speed required",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 20269-2006 信息安全技术 信息系统安全管理要求》",
+   "en": "GB/T 20269-2006 Information security technology — Information system security management requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《JIS Q27001-2014 信息技术 安全技术 信息安全管理系统 要求》",
+   "en": "JIS Q27001:2014 Information technology — Security techniques — Information security management systems — Requirements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20173825-T-469 信息技术服务 数据资产 管理要求》",
+   "en": "20173825-T-469 Information technology service — Data asset — Management requirements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB 4943.1-2011 信息技术设备 安全 第1部分：通用要求》",
+   "en": "GB 4943.1-2011 Information technology equipment — Safety — Part 1: General requirements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准化需求",
+   "en": "Data Standardization Requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户文档要求",
+   "en": "user documentation requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "漏掉规定动作",
+   "en": "missing required element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《EN ISO/IEC 27001-2017 信息技术 安全技术 信息安全管理体系 要求》",
+   "en": "EN ISO/IEC 27001:2017 Information technology — Security techniques — Information security management systems — Requirements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《SNI ISO/IEC 27001-2013 信息技术 安全技术 信息安全管理体系 要求》",
+   "en": "SNI ISO/IEC 27001:2013 Information technology — Security techniques — Information security management systems — Requirements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38672-2020 信息技术 大数据 接口基本要求》",
+   "en": "GB/T 38672-2020 Information technology — Big data — Interface basic requirements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "向潜在的研究参与者表明研究的目的、内容、方式以及可能的影响，再由潜在的参与者自己决定是否参与研究的沟通过程。"
+  },
+  {
+   "cn": "知情同意",
+   "en": "informed consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.013",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "尊重个人自主的具体体现，包括知情和同意两方面。在医疗活动中，医务人员应向患者提供包括诊断措施及结果、治疗方案、病情预后等方面的真实、全面信息，患者或其家属有自由表达其接受或拒绝诊疗措施的权利，医务人员"
+  },
+  {
+   "cn": "知情同意权",
+   "en": "informed consent right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者享有的获知自身有关诊疗信息并进行自主选择的权利。"
+  },
+  {
+   "cn": "知情同意原则",
+   "en": "principle of informed consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在医学实践中，患者及其家属、研究参与者或公众享有知悉和是否认可对本人拟采取的医学措施及其预后等情况并做出自主选择的权利。这是尊重原则在医学实践中的具体应用。"
+  },
+  {
+   "cn": "代理同意",
+   "en": "proxy consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.016",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "由法定或指定代理人表示同意。在医学活动中，当不能或不易取得患者、研究参与者本人对医学信息的认知和决定时，由其代理人代理其获得医学信息并作出同意或不同意某一医学处置方案的行为。"
+  },
+  {
+   "cn": "推定同意",
+   "en": "presumed consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.052",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "在公民生前未表示不同意死后捐献其器官的情况下，由其家属推定其同意捐献或医务人员依据国家法律推定其同意捐献的器官捐献制度。前者称为家属推定同意，后者称为法律推定同意。"
+  },
+  {
+   "cn": "明示同意",
+   "en": "express consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.051",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "实际上的、明确表示了的同意。就器官捐献而言，指器官供体或器官受体应该在充分知情的条件下，经深思熟虑后，自愿明确表达愿意捐献其器官或者接受器官移植手术。"
+  },
+  {
+   "cn": "建筑要求",
+   "en": "construction requirement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "为满足生产、生活的良好环境条件，对建设用地上的建筑物布置和建筑物之间的群体关系做出的技术规定。"
+  },
+  {
+   "cn": "必备要素",
+   "en": "required element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中必不可少的要素。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "四个必然要求",
+   "en": "four inevitable requirements",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0148",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "铸牢中华民族共同体意识是维护各民族根本利益的必然要求，是实现中华民族伟大复兴的必然要求，是巩固和发展平等团结互助和谐社会主义民族关系的必然要求，是党的民族工作开创新局面的必然要求。"
+  },
+  {
+   "cn": "儿童能量需要量",
+   "en": "child energy requirement",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "儿童基础代谢、生长所需、食物的热力作用、活动和排泄损耗所需的能量总和。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  },
+  {
+   "cn": "平均需要量",
+   "en": "estimated average requirement, EAR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某一特定性别、年龄及生理状况群体中个体对某营养素需求量的平均值。"
+  },
+  {
+   "cn": "气体安全要求",
+   "en": "safety requirement of gases",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.17",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "考虑其他的溶解性和活性对气体安全进行分类。SR代表安全要求（safety requirement），SR-0气体在呼吸道任何部位都不会被明显吸收，SR-1气体会导致每个区域的部分吸收，SR-2气体在胸"
+  },
+  {
+   "cn": "非正式群体",
+   "en": "informal group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "正规化程度低，其成员间的互动以个人好恶、兴趣等为基础自发形成，多采取随意的、常规的方式，成员的权利、义务及彼此的关系没有明确的尤其是成文的规定。与“正式群体”相对。"
+  },
+  {
+   "cn": "非正式组织",
+   "en": "informal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们在正式组织所安排的共同工作和相互接触中自然形成的以感情、爱好等情绪为基础的松散的、没有正式规定的群体。最早由美国管理学家埃尔顿·梅奥(Elton Mayo）通过“霍桑实验”提出。与“正式组织”相对"
+  },
+  {
+   "cn": "非正规就业",
+   "en": "informal employment",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.12",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "在非正规部门的就业以及在正规部门的非正规就业，如临时工、非全日制弹性就业等。就业者以家政工、独立自雇的小业主、街头小贩等为多数，共同特点是收入来源和工作不稳定，社会保障不完善。大多数社会中妇女是非正规"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

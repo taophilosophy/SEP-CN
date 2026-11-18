@@ -1,0 +1,722 @@
+{
+ "key": "auditory experiences",
+ "term": "auditory experiences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:10:47+00:00",
+ "status": "ok",
+ "note": "variant=auditory experiences; 审定公布名词库=436; 海峡两岸名词对照库=103; 其他来源数据库=18; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "听觉惊吓反应实验",
+   "en": "auditory shock response experiment",
+   "source": "行为医学名词",
+   "wordNumber": "6.081",
+   "subjectFullName": "行为医学_行为学动物实验技术_动物行为实验技术",
+   "subjectName": "动物行为实验技术",
+   "publishYear": "2022",
+   "definition": "通过设置不同音频刺激的幅度、频率和时程等参数，检测动物对听觉惊吓反应程度的实验。"
+  },
+  {
+   "cn": "听骨",
+   "en": "auditory ossicle",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.1.3.1.11",
+   "subjectFullName": "耳科_耳解剖",
+   "subjectName": "耳解剖",
+   "publishYear": "2025",
+   "definition": "人体最小且相互连接的一组小骨。位于鼓室内，起传导及放大声音的作用。包括锤骨、砧骨和镫骨。"
+  },
+  {
+   "cn": "听觉",
+   "en": "auditory sense",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "声波作用于听觉器官，使其感受细胞兴奋，并通过听神经发放冲动，经各级听觉中枢处理后引起的声音感觉。"
+  },
+  {
+   "cn": "听阈",
+   "en": "auditory threshold",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.1",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "（1）人耳刚好能听到的最小声音强度；（2）一个人分辨出一个声音存在所需要的最小声音强度。"
+  },
+  {
+   "cn": "听域",
+   "en": "auditory domain",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.3",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "不同频率振动的听阈曲线与最大可听阈曲线所包含的面积。"
+  },
+  {
+   "cn": "幻听",
+   "en": "auditory hallucination",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.36",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "没有声音刺激时出现对声音的知觉体验。受试者认为听到声音但实际上没有发声的一种病理状态。"
+  },
+  {
+   "cn": "听觉适应",
+   "en": "auditory adaptation",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.38",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "持续的声音刺激引起听觉感受性下降的现象。"
+  },
+  {
+   "cn": "听觉疲劳",
+   "en": "auditory fatigue",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.39",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "听觉器官在高强声的持续刺激后出现的听觉敏度下降的现象。"
+  },
+  {
+   "cn": "听觉敏度",
+   "en": "auditory acuity",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.45",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "辨别声音频率、声强的能力。"
+  },
+  {
+   "cn": "幻听",
+   "en": "auditory hallucination",
+   "source": "行为医学名词",
+   "wordNumber": "3.262",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "没有声音刺激时出现对声音的知觉体验。受检者认为听到声音但实际上没有发声的一种病理状态。"
+  },
+  {
+   "cn": "听弦",
+   "en": "auditory string",
+   "source": "动物学名词",
+   "wordNumber": "3.053",
+   "subjectFullName": "动物学_动物组织学_主要器官组织_感觉器官组织结构",
+   "subjectName": "感觉器官组织结构",
+   "publishYear": "2021",
+   "definition": "膜螺旋板的基膜中含有的大量的胶原样细丝束。自内向外呈放射状走行，其振动频率随听弦的长度和直径而不同。"
+  },
+  {
+   "cn": "听[基]板",
+   "en": "auditory placode",
+   "source": "动物学名词",
+   "wordNumber": "4.0443",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "后脑两侧的表面外胚层增厚形成的两块板状结构。发育成听泡。"
+  },
+  {
+   "cn": "听窝",
+   "en": "auditory pit",
+   "source": "动物学名词",
+   "wordNumber": "4.0444",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "听板向间充质内陷入形成的凹陷。"
+  },
+  {
+   "cn": "听小骨",
+   "en": "auditory ossicle",
+   "source": "动物学名词",
+   "wordNumber": "6.0464",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_骨骼系统",
+   "subjectName": "骨骼系统",
+   "publishYear": "2021",
+   "definition": "哺乳动物中耳鼓室内的3块小骨。包括镫骨、砧骨和锤骨，借韧带形成听骨链，传导声波振动。"
+  },
+  {
+   "cn": "听觉器官",
+   "en": "auditory organ",
+   "source": "动物学名词",
+   "wordNumber": "6.1258",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_感觉器官",
+   "subjectName": "感觉器官",
+   "publishYear": "2021",
+   "definition": "脊椎动物能检测声音的感觉器官。"
+  },
+  {
+   "cn": "听觉仿真",
+   "en": "auditory simulation",
+   "source": "测绘学名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "通过对地理环境中各地物的声音（音效、音量和音位）的模拟来营造环境气氛的技术。"
+  },
+  {
+   "cn": "听觉适应",
+   "en": "auditory adaptation",
+   "source": "生理学名词",
+   "wordNumber": "03.407",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "听觉疲劳",
+   "en": "auditory fatigue",
+   "source": "生理学名词",
+   "wordNumber": "03.408",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "听觉可塑性",
+   "en": "auditory plasticity",
+   "source": "生理学名词",
+   "wordNumber": "03.436",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "听觉失认[症]",
+   "en": "auditory agnosia",
+   "source": "神经病学名词",
+   "wordNumber": "04.036",
+   "subjectFullName": "神经病学_神经病学症状与体征",
+   "subjectName": "神经病学症状与体征",
+   "publishYear": "2020",
+   "definition": "听力正常却不能辨别以往熟悉的声音的一种失认症。病变多位于双侧听觉联络皮质、双侧颞上回中部皮质、左侧颞叶皮质下白质。"
+  },
+  {
+   "cn": "听觉细胞",
+   "en": "auditory cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "听弦",
+   "en": "auditory string",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "听觉适应",
+   "en": "auditory adaptation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉疲劳",
+   "en": "auditory fatigue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉空间",
+   "en": "auditory space",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉掩蔽",
+   "en": "auditory masking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "幻听",
+   "en": "auditory hallucination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉注意",
+   "en": "auditory attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉显示",
+   "en": "auditory display",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉区",
+   "en": "auditory area",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉编码",
+   "en": "auditory coding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉定位",
+   "en": "auditory localization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听知觉",
+   "en": "auditory perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "耳道",
+   "en": "auditory canal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉阈限",
+   "en": "auditory threshold",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉失认症",
+   "en": "auditory agnosia",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉后像",
+   "en": "auditory afterimage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉皮质",
+   "en": "auditory cortex",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉线索",
+   "en": "auditory cue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听窝",
+   "en": "auditory pit",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "场景体验",
+   "en": "scenario experience",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体验层次",
+   "en": "experience level",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子互联网实验",
+   "en": "Quantum Internet Experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲知",
+   "en": "Knowledge from Personal Experience",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型量子互联网实验",
+   "en": "new quantum Internet experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "布丰投针实验",
+   "en": "Buffon’s needle experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消费扶贫体验活动",
+   "en": "experience of poverty alleviation through consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子保密通信实验网（美国）",
+   "en": "Quantum Secure Communication Experiment Network (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "前事不忘,后事之师",
+   "en": "Past Experience, If Not Forgotten, Is a Guide for the Future.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情往会悲，文来引泣",
+   "en": "An Author Who Invests Emotionally in a Lament Can Experience Grief. A Lament Written in This Way Can Move Readers to Tears.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云审计者",
+   "en": "cloud auditor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "听觉发育",
+   "en": "auditory development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "声波作用于听觉器官，使其感受细胞兴奋，并通过听神经发放冲动，经各级听觉中枢分析后引起的感觉能力随年龄增长的发展变化过程。2岁内是最关键的时期。"
+  },
+  {
+   "cn": "听觉测评",
+   "en": "auditory assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.23",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对儿童的听觉察知能力、听觉分辨能力、听觉识别能力和听觉理解能力进行相关评估的过程。"
+  },
+  {
+   "cn": "经验",
+   "en": "experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0202",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人们在实践中通过自己的感觉器官直接感知外界事物而获得的对客观事物的表面现象和外部联系的认识，是人们在社会生活、实践中获得的感性知识。经验是一切科学理论的基础和直接本源；同时也有待于深化，上升为理论。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "通过操控一个或多个自变量的变化，考察一个或多个因变量的相应变化，从而确立自变量和因变量间因果关系的研究策略。"
+  },
+  {
+   "cn": "宗教体验",
+   "en": "religious experience",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.23",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "威廉·詹姆士（William James）用来表示任何结合宗教的对象和相应的情感经验的术语，是宗教的一个核心内容，也是宗教性的关键维度。"
+  },
+  {
+   "cn": "感性经验",
+   "en": "perceptual experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0179",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人在实践中，在感性认识阶段通过感觉器官获取的经验和认识，它是对事物表面现象或外部联系的认识，它表现为感觉、知觉、表象等认识形式。"
+  },
+  {
+   "cn": "自我体验",
+   "en": "self-experience",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体为提高自身的道德水平，在道德实践中根据一定的理论、原则和规范，自觉地进行自我培养的过程。"
+  },
+  {
+   "cn": "情绪体验",
+   "en": "emotional experience",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "人在主观上感受或意识到的情绪状况。"
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi-experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "研究者不随机地把实验单位分配到不同实验组的实验方法。"
+  },
+  {
+   "cn": "霍桑试验",
+   "en": "Hawthorne experiment",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0178",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业人类学中的一个的研究案例。1924～1932 年，以提高生产效率为根本目的，一批管理学家在美国芝加哥附近的西方电气公司霍桑工厂进行实验研究。霍桑实验的基本假设是：作业条件的改善有利于作业效率的提高"
+  },
+  {
+   "cn": "女性经验",
+   "en": "women’s experiences",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "来源于女性日常生活、却被歪曲或排斥在主流知识及知识传承体系之外的经验。女性主义认为它与男性经验之间是不可互为替代的。这种被边缘化的经验具有主流经验所不具备的批判性优势，可证明主流知识并非具有客观性和普"
+  },
+  {
+   "cn": "传帮带",
+   "en": "passing on experience",
+   "source": "马克思主义",
+   "wordNumber": "04.0145",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "前辈对晚辈在文化知识、技术技能、工作经验等方面给予传授、帮助和带动。改革之初，邓小平深刻认识到中国共产党内部干部老化问题以及选好接班人的重要性和紧迫性，强调老干部用实际行动抓紧搞好“传帮带”。"
+  },
+  {
+   "cn": "儿童期不良经历",
+   "en": "childhood adverse experience",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "18岁以下儿童经历的创伤性事件，包括受到暴力或虐待，被忽视或遗弃，失去至亲，在父母有精神疾病、父母有药物滥用或酒精成瘾、父母坐牢、父母离异家庭中成长等。这些事件会对儿童身心健康和福祉产生持续不良影响。"
+  },
+  {
+   "cn": "濒死体验",
+   "en": "near-death experience",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.004",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "遭受严重创伤或疾病导致即将死亡但又意外获得恢复的人或在毁灭性境遇中侥幸脱险的人所叙述的面临死亡威胁时刻的主观体验。"
+  },
+  {
+   "cn": "实验哲学",
+   "en": "philosophy of experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对科学实验的本体论、方法论和知识论层面上的研究。"
+  },
+  {
+   "cn": "伦理思想实验法",
+   "en": "ethical thought experiment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.234",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "基于特定的伦理学理论、素材等材料，设定理想化的伦理情境，提出若干伦理问题，以激发人们伦理思考的实验方法。"
+  },
+  {
+   "cn": "离散选择实验",
+   "en": "discrete choice experiment,DCE",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "通过对受访者提供一系列不同属性水平的健康产品或服务的假设方案组合，询问受访者对方案的选择，测量其对方案的偏好的方法。"
+  },
+  {
+   "cn": "一切经过试验",
+   "en": "all things should be experimented",
+   "source": "马克思主义",
+   "wordNumber": "04.0175",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在不同类型的客观事物中选择不同的典型进行试验，从而总结概括出该类事物中带有一般规律性的东西，把经过试验后取得的经验再普遍推广，借以指导各项工作顺利开展的一种工作方法。中国共产党提出的“放手发动群众，一"
+  },
+  {
+   "cn": "核设施运行经验反馈",
+   "en": "experience feedback of nuclear installation operation",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.8.8",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "系统地评价核设施运行经验和研究对安全重要异常事件或征兆，确认直接及根本原因，制定纠正措施，并将这些信息及时返回到核设施相关人员或供给同类其他核设施（或从同类其他核设施获得）的活动。"
+  },
+  {
+   "cn": "新民主主义革命的基本经验",
+   "en": "Basic Experience of the newdemocratic revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0359",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "武装斗争，党的建设。毛泽东在《<共产党人>发刊词》指出：“统一战线，武装斗争，党的建设，是中国共产党在中国革命中战胜敌人的三个法宝”。正确地理解和处理了这三个问题及其相互关系，就等于正确地领导了全部中"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

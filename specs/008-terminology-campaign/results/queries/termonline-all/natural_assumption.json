@@ -1,0 +1,752 @@
+{
+ "key": "natural assumption",
+ "term": "natural assumption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:04:23+00:00",
+ "status": "ok",
+ "note": "variant=natural assumption; 审定公布名词库=2362; 海峡两岸名词对照库=859; 其他来源数据库=111; 预公布名词数据库=86; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "人性假设",
+   "en": "human nature assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0167",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "管理者在管理过程中对人的本质属性的基本看法。"
+  },
+  {
+   "cn": "假设",
+   "en": "assumption",
+   "source": "物理学名词",
+   "wordNumber": "01.0148",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裘布依假设",
+   "en": "Dupuit assumption",
+   "source": "地质学名词",
+   "wordNumber": "16.03.074",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "潜水流计算的一种概化假定。针对潜水含水层，裘布依假设地下水的垂向流速可以忽略不计，单宽流量正比于潜水面坡度、潜水面相对底板的高度与渗透系数的乘积。"
+  },
+  {
+   "cn": "普雷斯顿假设",
+   "en": "Preston assumption",
+   "source": "光学名词",
+   "wordNumber": "06.165",
+   "subjectFullName": "光学_光学材料",
+   "subjectName": "光学材料",
+   "publishYear": "2021",
+   "definition": "描述光学元件抛光过程的线性微分方程。由普雷斯顿(F. W. Preston)于 1927 年提出，假设在将影响加工过程的因素进行经验性的简化基础上指出在一定范围内工件表面材料去除率与抛光工具对工件的正"
+  },
+  {
+   "cn": "行为假设",
+   "en": "behavioral assumption",
+   "source": "经济学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "所有经济理论的一部分，即关于人类动机方式的设定。"
+  },
+  {
+   "cn": "荷载组合",
+   "en": "loading assumption",
+   "source": "电力名词",
+   "wordNumber": "22.039",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "根据国家标准、法规、当地气象数据等确定的用于线路设计的荷载条件的组合。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "化学名词",
+   "wordNumber": "03.0209",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "关于1个或多个随机变量总体未知分布参数和性质的假设。如果随机变量分布形式已知，而仅涉及分布中的未知参数的统计假设，称为“参数假设(parameterassumption)”。"
+  },
+  {
+   "cn": "政策假设分析法",
+   "en": "assumption analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0301",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "对政策问题的冲突性假设进行创造性综合的一种方法。"
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.608",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "数理逻辑用于知识表示时，假定没有被断言为真的句子是假的，或体现为“失败即否定”原则，即假定未证明为真的句子是假的。"
+  },
+  {
+   "cn": "应变等价假定",
+   "en": "strain equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0161",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "应力作用在受损材料上引起的应变与有效应力作用在无损材料上引起的应变等价的假定。基于应变等价假定，受损结构的本构关系可通过无损时的形式描述，只需将其中名义应力换成有效应力即可。"
+  },
+  {
+   "cn": "应力等价假定",
+   "en": "stress equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0162",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "损伤状态下真实应变对应的应力和与虚构无损状态下有效应变对应的应力等价的假定。"
+  },
+  {
+   "cn": "能量等价假定",
+   "en": "energy equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0163",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "损伤状态下真实应变和应力对应的弹性余能和虚构无损伤状态下有效应变和有效应力对应的弹性余能等价的假定。"
+  },
+  {
+   "cn": "平面应变假设",
+   "en": "plane-strain assumption",
+   "source": "冶金学名词",
+   "wordNumber": "09.0301",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "轧件在变形区内，轧件无宽展；沿每一高度截面上质点变形均匀；其运动之水平速度一样的假设。"
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0058",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "雷·赖特（Ray Reiter)于1978年提出的一种处理含否定词的演绎数据库查询语句的方法。可抽象成如下非单调推理机制：在封闭世界中若不知道某命题是否为真，则认定此命题为假。"
+  },
+  {
+   "cn": "社会人假设",
+   "en": "social person assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0169",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "由梅奥(George Elton Mayo)等提出的人性假设。其基本观点是：人不是孤立存在的，而是作为某一群体成员的社会存在；人不仅有经济需求，而且有社会需求；人的思想和行为不仅由理性支配，而且在更多"
+  },
+  {
+   "cn": "强碰撞假设",
+   "en": "strong collision assumption",
+   "source": "化学名词",
+   "wordNumber": "04.0276",
+   "subjectFullName": "化学_物理化学_化学动力学",
+   "subjectName": "化学动力学",
+   "publishYear": "2016",
+   "definition": "在单分子反应速率理论中假设每次碰撞都能进行有效的能量传递。"
+  },
+  {
+   "cn": "经济人假设",
+   "en": "economic person assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0168",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "由亚当·斯密(Adam Smith)提出，经过大卫·李嘉图(David Ricardo)、约翰·米尔(John Stuart Mill)等人论证的人性假设。其基本观点是：人是自利的，以理性追求自身利益"
+  },
+  {
+   "cn": "薄层假定",
+   "en": "thin layer assumption",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.395",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "天然自然",
+   "en": "natural nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "自然辩证法_自然哲学_自然概论",
+   "subjectName": "自然概论",
+   "publishYear": "2024",
+   "definition": "还没有受到人类实践活动影响或者改造的那部分自然界。与“人工自然”相对。随着人类认识和实践能力的提高，人工自然的范围不断扩大，天然自然的范围不断缩小。"
+  },
+  {
+   "cn": "会计基本假设",
+   "en": "accounting postulate,accounting assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0013",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "对会计核算所处时间、空间环境、所运用的货币单位等所作的合理设定。会计基本假设包括会计主体假设、持续经营假设、会计期间假设和货币计量假设。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "闭合假设",
+   "en": "closure assumptions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强碰撞假设",
+   "en": "strong collision assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域平衡假设",
+   "en": "assumption of local equilibrium",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本位记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "还原记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本质",
+   "en": "nature",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "归化,自然化",
+   "en": "naturalization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自然化",
+   "en": "naturalization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve\",\"nature preserve\",\"nature sanctuary",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve\",\"nature preserve\",\"nature sanctuary",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "回归同质假设",
+   "en": "assumption of homogeneity of regression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural draft\",\"natural ventilation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自然景物",
+   "en": "natural object\",\"natural scene",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural draft\",\"natural draught",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve\",\"nature sanctuary",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "天然产物",
+   "en": "natural product",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天然单性结实，自然单性结实",
+   "en": "natural parthenocarpy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人性假设",
+   "en": "assumption about human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "飘逸",
+   "en": "Natural Grace",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然梯度",
+   "en": "natural gradient",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然技术",
+   "en": "natural technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然人",
+   "en": "natural person",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天然障碍",
+   "en": "natural obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天然障碍",
+   "en": "natural obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性",
+   "en": "Xing (Nature)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据界",
+   "en": "data nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "妙造自然",
+   "en": "Perfect Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0137",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“自然”与“物质”是同一层次或者同等程度的范畴，但自然范畴的内涵更丰富、更具体。从具体层次讲，自然较多的是作为人类活动环境的意义而被使用，是与社会、历史、文化等概念相对应的范畴。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "naturalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "以自然现象（如日、月、水、火）等为对象的信仰，原被理解为“原始宗教”的标志。研究表明，它只是人与自然建立的关系的一种表现形式。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "马克思主义",
+   "wordNumber": "01.0138",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物在自然环境中遵循自然规律的自然属性和行为。自在的自然具有自然性，人化的自然不仅具有自然性，还具有社会性。"
+  },
+  {
+   "cn": "自然死亡",
+   "en": "natural death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.013999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人的生命的自然终结。"
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.16",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "利用建筑物内外空气的密度差引起的热压或风压，促使空气流动而进行的通风换气方式。"
+  },
+  {
+   "cn": "自然菌",
+   "en": "natural bacteria",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "存在于消毒对象上的、非人工污染的细菌。"
+  },
+  {
+   "cn": "自然干燥",
+   "en": "natural drying",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.21",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "实验制备染菌载体过程中，将试验微生物悬液涂染试验载体后，在室温条件下使染菌载体干燥的过程。"
+  },
+  {
+   "cn": "天然反应堆",
+   "en": "natural reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.10",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "自然界发生自持式裂变反应的地理区域，如加蓬共和国的奥克洛铀矿裂变区。"
+  },
+  {
+   "cn": "自然法",
+   "en": "natural law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会制度",
+   "subjectName": "社会学一般概念社会制度",
+   "publishYear": "2025",
+   "definition": "基于自然秩序本身所产生的正义、平等等理性原则的总和，独立于社会意识形态的价值体系。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "自然界",
+   "en": "natural world",
+   "source": "马克思主义",
+   "wordNumber": "01.0139",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类活动的环境，是不依赖于人的意识而存在的客观实在，是人类赖以生存的物质基础，与社会、历史、文化等概念相对应。广义的自然界包括人类社会，人也是自然界的产物。"
+  },
+  {
+   "cn": "自然规律",
+   "en": "natural law",
+   "source": "马克思主义",
+   "wordNumber": "01.0140",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "自然界内在固有的本质联系，具有不以人的意志为转移的客观必然性。自然规律在一定条件下具有可重复性，只要条件具备，合乎规律的现象必然重复出现。"
+  },
+  {
+   "cn": "自然属性",
+   "en": "natural attribute",
+   "source": "马克思主义",
+   "wordNumber": "01.0142",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "自然界事物本身固有的面貌、活动规律、特性等。"
+  },
+  {
+   "cn": "自然选择",
+   "en": "natural selection",
+   "source": "马克思主义",
+   "wordNumber": "01.0146",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文关于物种进化的学说。生物随着自然环境的变化而发生变异，有利的偶然的遗传特征在繁殖中保存下来，不利的则淘汰。生物的生存能力也因而产生差异，导致必然的物种灭绝或进化及多样性。马克思、恩格斯和列宁都给"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "自然经济",
+   "en": "natural economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0322",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "以自给自足为特征的经济形式。生产是为了直接满足生产者个人或经济单位的需要，而不是为了交换的经济形式。它没有社会分工，每一个生产者或经济单位，不但生产自己需要的农产品，而且直接生产自己需要的大部分的手工"
+  },
+  {
+   "cn": "自然类",
+   "en": "natural kind",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.193",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对状态、事物、事态的一种分类。在该分类中的所有成员所共有的性质可以独立于分类者的个人或社会偏好。"
+  },
+  {
+   "cn": "天然抗体",
+   "en": "natural antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.16",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "未经明显自然感染或人工免疫而在体内产生的血清抗体，多属IgM类。如人体内针对远缘动物多糖分子的抗体、针对ABO红细胞血型物质的抗体等。"
+  },
+  {
+   "cn": "自然换气",
+   "en": "natural ventilation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.3.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "不借助设备使外界自然风进入室内进行流通和交换的通风方式。"
+  },
+  {
+   "cn": "自然绝经",
+   "en": "natural menopause",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "卵巢内卵泡生理性耗竭所致的绝经，无明显病理原因。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

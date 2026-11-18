@@ -1,0 +1,792 @@
+{
+ "key": "famous distinction",
+ "term": "famous distinction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:10:54+00:00",
+ "status": "ok",
+ "note": "variant=famous distinction; 审定公布名词库=372; 海峡两岸名词对照库=64; 其他来源数据库=22; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "特异性",
+   "en": "distinctiveness",
+   "source": "心理学名词",
+   "wordNumber": "07.038",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "凯利归因理论中进行归因时所利用的一类信息，即行动者是否对同类其他刺激做出相同的反应。"
+  },
+  {
+   "cn": "名洞",
+   "en": "famous cave",
+   "source": "风景园林名词",
+   "wordNumber": "04.0105",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "因自然景观奇特，历史文化丰厚而闻名，可观赏游览的洞穴。"
+  },
+  {
+   "cn": "名湖",
+   "en": "famous lake",
+   "source": "风景园林名词",
+   "wordNumber": "04.0144",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏、文化或科学价值且具有广泛知名度的湖。"
+  },
+  {
+   "cn": "名泉",
+   "en": "famous spring",
+   "source": "风景园林名词",
+   "wordNumber": "04.0143",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏、文化或科学价值且具有广泛知名度的泉。"
+  },
+  {
+   "cn": "名桥",
+   "en": "famous bridge",
+   "source": "风景园林名词",
+   "wordNumber": "04.0183",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "在历史上具有广泛知名度的桥梁。如潮州湘子桥、河北赵州桥、泉州洛阳桥、北京卢沟桥等。"
+  },
+  {
+   "cn": "名楼",
+   "en": "famous tower",
+   "source": "风景园林名词",
+   "wordNumber": "04.0182",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "在历史上具有广泛知名度的楼阁。如鹳雀楼、滕王阁、岳阳楼、黄鹤楼等。"
+  },
+  {
+   "cn": "名石",
+   "en": "famous stone",
+   "source": "风景园林名词",
+   "wordNumber": "04.0106",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏价值，且闻名遐迩的石头。"
+  },
+  {
+   "cn": "名瀑",
+   "en": "famous waterfall",
+   "source": "风景园林名词",
+   "wordNumber": "04.0145",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏、文化或科学价值且具有广泛知名度的瀑布。"
+  },
+  {
+   "cn": "名木",
+   "en": "famous tree",
+   "source": "风景园林名词",
+   "wordNumber": "09.0084",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物类型",
+   "subjectName": "风景园林植物类型",
+   "publishYear": "2025",
+   "definition": "珍贵、稀有的或具有重要历史价值、纪念意义的树木。"
+  },
+  {
+   "cn": "名花",
+   "en": "famous flower",
+   "source": "林学名词",
+   "wordNumber": "09.285",
+   "subjectFullName": "林学_风景园林_园林植物与观赏园艺",
+   "subjectName": "园林植物与观赏园艺",
+   "publishYear": "2016",
+   "definition": "知名度高、品质优良的观赏植物。"
+  },
+  {
+   "cn": "风景名胜",
+   "en": "famous scenery,famous scenic site",
+   "source": "建筑学名词",
+   "wordNumber": "08.0170",
+   "subjectFullName": "建筑学_风景园林_风景名胜区",
+   "subjectName": "风景名胜区",
+   "publishYear": "2014",
+   "definition": "著名的自然或人文景点、景区和风景区域。"
+  },
+  {
+   "cn": "模型辨识",
+   "en": "model distinction",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0042",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "对于给定系统，利用所测得的输入输出数据，从一组给定的模型中，确定一个与测得数据相容性最好的模型。"
+  },
+  {
+   "cn": "特征词",
+   "en": "distinctive word",
+   "source": "语言学名词",
+   "wordNumber": "07.110",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "能够区别方言间的差别，可以作为方言区分和鉴别的一批词语。这些词对内具有一致性、对外具有排他性，能够反映某个方言区词汇特征。例如闽方言的“厝”（房子）。"
+  },
+  {
+   "cn": "区别符号",
+   "en": "distinctive mark",
+   "source": "语言学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "语言学_文字学_汉字的形体",
+   "subjectName": "汉字的形体",
+   "publishYear": "2011",
+   "definition": "古汉字中为区别字形和分化新字而附加在某些字上，形体简单且一般没有实际含义的区别性符号。古汉字中常用的区别符号有“一”“ヽ”“丨”“口”等。"
+  },
+  {
+   "cn": "区别特征",
+   "en": "distinctive feature",
+   "source": "语言学名词",
+   "wordNumber": "03.261",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "用来描写和分析语音系统差异的最小音系单位。区别特征可视作音位定义的组成部分，把音位视为一组区别特征的集合；也可视作一个取代音位概念的概念。后一观点将区别特征视为音系分析的最小单位，并用区别特征取代音位"
+  },
+  {
+   "cn": "品种特异性",
+   "en": "variety distinctness",
+   "source": "农学名词",
+   "wordNumber": "06.552",
+   "subjectFullName": "作物基因组学与遗传育种_种子科学与种业",
+   "subjectName": "种子科学与种业",
+   "publishYear": "2025",
+   "definition": "一个品种区别于其他品种的特异性状。特异性品种至少有一个以上性状明显区别于已知品种。"
+  },
+  {
+   "cn": "风景名胜",
+   "en": "scenery,famous scenery,famous scenic site",
+   "source": "林学名词",
+   "wordNumber": "09.111",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "著名的自然或人文景点、景区和风景区域。"
+  },
+  {
+   "cn": "风景名胜公园",
+   "en": "famous scenic park",
+   "source": "林学名词",
+   "wordNumber": "09.087",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "位于城市建设用地范围内，以文物古迹、风景名胜点(区)为主形成的具有城市公园功能的绿地。"
+  },
+  {
+   "cn": "风景名胜公园",
+   "en": "famous scenic park",
+   "source": "建筑学名词",
+   "wordNumber": "08.0019",
+   "subjectFullName": "建筑学_风景园林_城市绿地",
+   "subjectName": "城市绿地",
+   "publishYear": "2014",
+   "definition": "位于城市建设用地范围内，以文物古迹、风景名胜点(区)为主形成的具有城市公园功能的绿地。"
+  },
+  {
+   "cn": "观察-理论区分",
+   "en": "observational-theoretical distinction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.050",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "观察来自直接经验，是连接科学信念与经验世界的桥梁；理论无法直接观察，需以观察提供的证据作为基础。"
+  },
+  {
+   "cn": "特异性",
+   "en": "distinctiveness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "离生雄蕊",
+   "en": "adelphia\",\"distinct stamen",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "法美联合大洋中部海下研究",
+   "en": "French-American Mid-Ocean Undersea Study\",\"FAMOUS",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分心",
+   "en": "distraction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "岛状间断分布",
+   "en": "island disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛北极间断分布",
+   "en": "holarctic disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛南极间断分布",
+   "en": "holantarctic disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "古热带间断分布",
+   "en": "paleotropical disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环极间断分布",
+   "en": "circumpolar disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洲际间断分布",
+   "en": "intercontinental disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "任选目的港",
+   "en": "optional destination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分布区间断",
+   "en": "areal disjunction",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "目的地管理",
+   "en": "destination management",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "目的地选择",
+   "en": "destination choice",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "别名",
+   "en": "Distinct Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标举兴会",
+   "en": "Distinctiveness and Spontaneity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天人之分",
+   "en": "Distinction Between Man and Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群己界分",
+   "en": "distinction between authority and individuality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "别材别趣",
+   "en": "Distinct Subject and Artistic Taste",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词别是一家",
+   "en": "Ci Poems Have a Distinctive Style.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色自由贸易港",
+   "en": "free trade port with distinctive Chinese features",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世界眼光、国际标准、中国特色、高点定位",
+   "en": "global vision, international standards, distinctive Chinese features, and future-oriented goals",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧校园",
+   "en": "smart campus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无线校园",
+   "en": "wireless campus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科技校园",
+   "en": "data technology campus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区隔",
+   "en": "distinction",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0625",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家布尔迪厄（Pierre Bourdieu）提出的概念，指某种特定文化趣味在同类实践中的位置和差异，这种差异是生物性的、心理的，同时也维持了群体的边界。"
+  },
+  {
+   "cn": "等级差别",
+   "en": "class distinction",
+   "source": "马克思主义",
+   "wordNumber": "03.0049",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在阶级社会，不同等级由于在经济社会关系中所处的地位不同而享有各自不同的政治经济权力。"
+  },
+  {
+   "cn": "民族差别",
+   "en": "ethnic distinction",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0004",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "各民族之间表现在政治、经济、社会和文化等领域的差异，特别是生产方式、语言、文化、风俗习惯以及心理认同等方面的差异。各民族间的差别是民族现象长期发展的结果，将随着民族自身和民族交往的发展而发展变化，直到"
+  },
+  {
+   "cn": "四个划清",
+   "en": "four distinctions",
+   "source": "马克思主义",
+   "wordNumber": "03.0692",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十七届四中全会通过的《中共中央关于加强和改进新形势下党的建设若干重大问题的决定》提出：“加强党的意识形态工作和思想政治工作，引导党员、干部增强政治敏锐性和政治鉴别力，筑牢思想防线，自觉划清马克思主"
+  },
+  {
+   "cn": "主位与客位区别",
+   "en": "emic and etic distinction",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.17",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "在文化研究中，被研究的文化群体成员持有的观念和类别（主位）与研究者使用的观念和类别（客位）之间的区别。由语言学家肯尼思·派克于1954年提出。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "校园文化",
+   "en": "campus culture",
+   "source": "社会学名词",
+   "wordNumber": "3.16.6.6",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年文化",
+   "subjectName": "青年文化",
+   "publishYear": "2025",
+   "definition": "学校的传统、目标、环境、实践、制度规范等因素综合形成的指导学生行为和认识的参考框架。群体内成员在互动中形成共同的日常生活、学习和社交活动方式，发展出特有的思维方式、行为模式、归属感和社会化氛围。"
+  },
+  {
+   "cn": "校园环境",
+   "en": "campus environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校周围的境况及其中可以直接、间接影响学生学习和发展的各种自然因素和社会因素的总体。"
+  },
+  {
+   "cn": "校园平面布局",
+   "en": "campus layout",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "为保证功能分区合理，对学校建筑、体育场地、绿地、道路及广场、停车场进行设置的教育行政措施。"
+  },
+  {
+   "cn": "校园环境卫生",
+   "en": "campus environmental hygiene",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校物质环境",
+   "subjectName": "学校物质环境",
+   "publishYear": "2025",
+   "definition": "校园内为师生提供安全、健康、适用、高效的学习及使用空间中教学卫生和生活设施的卫生条件。包括体育场地、饮水、采光、照明、通风换气、采暖、厕所等设施的卫生情况。"
+  },
+  {
+   "cn": "伤病员去向统计",
+   "en": "statistics of destination of patients",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤病员的救治、康复和转归情况的统计分析，原始资料主要来自战斗伤员登记册和住院病员登记簿，主要统计指标包括归队率、后送率、留治率、残疾率等。"
+  },
+  {
+   "cn": "校园基础急诊医疗服务",
+   "en": "basic emergency medical care on campus",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_校园基础急诊医疗服务",
+   "subjectName": "校园基础急诊医疗服务",
+   "publishYear": "2025",
+   "definition": "学校针对急性疾病、意外伤害和其他突发健康问题采取的基础性应急医疗响应策略。旨在及时有效地识别、评估和应对紧急状况，包括现场救助、院前急救评估和处理、联系医院准备急救、尽快转送到医院救治。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

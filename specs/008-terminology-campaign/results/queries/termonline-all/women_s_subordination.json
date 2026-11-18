@@ -1,0 +1,732 @@
+{
+ "key": "women's subordination",
+ "term": "women’s subordination",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:09:38+00:00",
+ "status": "ok",
+ "note": "variant=women’s subordination; 审定公布名词库=63; 海峡两岸名词对照库=13; 其他来源数据库=67; 预公布名词数据库=64; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "从属性",
+   "en": "subordination",
+   "source": "数学名词",
+   "wordNumber": "05.0504",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "从属者",
+   "en": "subordinate",
+   "source": "动物学名词",
+   "wordNumber": "7.0414",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "群居性动物中，对食物或配偶等关键资源利用被优势者排斥于外围，处于从属地位者。"
+  },
+  {
+   "cn": "从属褶皱",
+   "en": "subordinate fold",
+   "source": "地质学名词",
+   "wordNumber": "09.03.112",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "发育于大褶皱内部，并与其有成因联系且具有一定几何关系的次一级褶皱。在大褶皱不同部位，褶皱形态有所差异，褶皱轴面可以与大褶皱平行或斜交，但褶皱枢纽与之产状相同。大褶皱翼部从属褶皱常为不对称褶皱，在两翼分"
+  },
+  {
+   "cn": "从属价值",
+   "en": "subordinate value",
+   "source": "档案学名词",
+   "wordNumber": "01.03.005",
+   "subjectFullName": "档案学_总论_档案价值",
+   "subjectName": "档案价值",
+   "publishYear": "2024",
+   "definition": "文件对其他机关和个人利用者的第二价值。"
+  },
+  {
+   "cn": "下组配检索",
+   "en": "subordinate search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.080",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "以经过选择的某一类目的特定下位类为目标进行检索的方法。可提高查准率和专指度。"
+  },
+  {
+   "cn": "下位类",
+   "en": "subordinate class",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.206",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "与“上位类”相对。分类法中表示类目等级隶属关系的概念。在类目划分过程中，一个类目经过一次划分所形成的一系列概念是这个类目的下位类。下位类的属性必定存在于上位类之中。分类时能归入下位类的图书一定也能归入"
+  },
+  {
+   "cn": "下位概念",
+   "en": "subordinate concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.286",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "与“上位概念”相对。具有从属关系的概念间，外延较小的概念。它的外延完全包含于另一个概念的外延之中。"
+  },
+  {
+   "cn": "从属机构",
+   "en": "subordinate body",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.535",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "组织上从属于大机构的下属小机构。 "
+  },
+  {
+   "cn": "从属关系",
+   "en": "subordinate relation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.283",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "叙词表中下位叙词与上位叙词之间的隶属关系。从属关系的概念之间存在一种限定关系，即上位概念的属性或特征必然存在于下位概念之中或对下位概念产生限定作用。"
+  },
+  {
+   "cn": "从属种",
+   "en": "subordinate species",
+   "source": "植物学名词",
+   "wordNumber": "13.0303",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "群落中除优势种以外的其他物种。"
+  },
+  {
+   "cn": "辅线系",
+   "en": "subordinate series",
+   "source": "物理学名词",
+   "wordNumber": "04.1730",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "次级债券",
+   "en": "subordinated debenture",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0518",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "偿还次序优于公司股本权益、但低于公司一般债务的一种债券。"
+  },
+  {
+   "cn": "下位学习",
+   "en": "subordinate learning",
+   "source": "心理学名词",
+   "wordNumber": "09.038",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "新学习的内容比原有内容的包摄性和概括性低的一种学习方式。"
+  },
+  {
+   "cn": "附属国",
+   "en": "subordinate country",
+   "source": "世界历史名词",
+   "wordNumber": "01.0721",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "源于资本主义的殖民政策。名义上享有一定主权，实际上内政外交完全依附于某个大国或强国并受其控制的国家。"
+  },
+  {
+   "cn": "偏正短语",
+   "en": "subordinate phrase",
+   "source": "语言学名词",
+   "wordNumber": "04.126",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "短语按内部句法结构关系分类的一种。由修饰语和中心语两部分组成。通常修饰语在前，中心语在后，修饰语对中心语作出修饰限制说明。偏正短语又分成两种：定中短语和状中短语。前者是体词性的，例如“我的朋友”“三本"
+  },
+  {
+   "cn": "从属种",
+   "en": "subordinate species",
+   "source": "生态学名词",
+   "wordNumber": "06.006",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "群落中除优势种以外的其他物种。"
+  },
+  {
+   "cn": "偏义复合词",
+   "en": "subordination compound word",
+   "source": "语言学名词",
+   "wordNumber": "05.184",
+   "subjectFullName": "语言学_语义学、词汇学_构词法、构词单位、造词法",
+   "subjectName": "构词法、构词单位、造词法",
+   "publishYear": "2011",
+   "definition": "由两个意义相近、相关或相反、相对的词素组成，只取其中一个词素义作为词义的复合词。例如“缓急”，意义偏向“急”。"
+  },
+  {
+   "cn": "不相属关系",
+   "en": "non subordinate relationship",
+   "source": "档案学名词",
+   "wordNumber": "02.02.017",
+   "subjectFullName": "档案学_文件管理_文件工作及其管理",
+   "subjectName": "文件工作及其管理",
+   "publishYear": "2024",
+   "definition": "既非同一组织系统又非同一专业系统的任何组织之间的关系。"
+  },
+  {
+   "cn": "下行文",
+   "en": "records to subordinate",
+   "source": "档案学名词",
+   "wordNumber": "02.02.020",
+   "subjectFullName": "档案学_文件管理_文件工作及其管理",
+   "subjectName": "文件工作及其管理",
+   "publishYear": "2024",
+   "definition": "上级领导、指导机关向所属下级机关主送的公文。"
+  },
+  {
+   "cn": "从属卵泡",
+   "en": "subordinate follicle,SF",
+   "source": "畜牧学名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "畜牧学_繁殖_繁殖生理",
+   "subjectName": "繁殖生理",
+   "publishYear": "2020",
+   "definition": "优势卵泡以外的其他卵泡。"
+  },
+  {
+   "cn": "从属者",
+   "en": "subordinate",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "从属种",
+   "en": "subordinate species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "从属建构",
+   "en": "subordinate construct",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "从属种",
+   "en": "subordinate species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "副验潮站",
+   "en": "secondary tide station\",\"subordinate station",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "男声合唱团",
+   "en": "men’s choir\",\"men’s chorus",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "奥肯体",
+   "en": "Oken’s body",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "多普勒谱矩",
+   "en": "Doppler spectral moments",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "力矩法",
+   "en": "method of moments",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "妇女的爱情与生活",
+   "en": "Frauenliebe und-Leben (Women’s Love and Life)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schumann, Robert"
+  },
+  {
+   "cn": "配矩法",
+   "en": "method of moments matching",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "男声合唱",
+   "en": "male voice choir\",\"men’s choir\",\"men’s chorus",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "女性心理学，妇女心理学",
+   "en": "women psychology\",\"female psychology\",\"feminine psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "女子比赛",
+   "en": "women’s category\",\"women’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子单打",
+   "en": "women’s singles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子双打",
+   "en": "women’s doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子单打",
+   "en": "women’s singles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子双打",
+   "en": "women’s doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子比赛",
+   "en": "women’s competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子双打",
+   "en": "women’s doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子单打",
+   "en": "women’s singles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹦床女子双人同步赛",
+   "en": "trampoline women’s synchro",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子团体",
+   "en": "women’s team event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子组",
+   "en": "ladies’ class\",\"women’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子比赛",
+   "en": "ladies’ class\",\"women’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子沙滩排球赛",
+   "en": "women’s beach volleyball match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际女子职业网球协会",
+   "en": "Women's Tennis Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "男子比赛",
+   "en": "men’s category\",\"men’s class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子78公斤以上级",
+   "en": "over 78kg women heavyweight women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "“慰安妇”",
+   "en": "“comfort women”",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "男子单打",
+   "en": "men’s singles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子双打",
+   "en": "men’s doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组织隶属",
+   "en": "organizational subordination",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "在特定科层组织体系中，下级组织依据级别对上级组织的层级归属关系，可分为行政隶属和行业隶属两类，前者多发生在国有制或集体制组织之间，后者可覆盖所有组织。"
+  },
+  {
+   "cn": "从属市场",
+   "en": "subordinate market",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.37",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从属于社会关系的市场。社会关系为市场活动提供了必需的参考框架，市场参与者会在市场活动中建构起自己独特的意义和认知。泽利泽用此该概念来描述以格兰诺维特等制度主义学者所代表的一种市场认知传统，否定市场在社"
+  },
+  {
+   "cn": "属下阶层",
+   "en": "subordinate class",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.16",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "处于从属地位的、被动的、缺乏自主意识和权力的社会群体。葛兰西(Antonio Gramsci)最早提出这一概念用以分析意大利南部的农民，美国后殖民理论批评家斯皮瓦克(G.C.Spivak）后来继承和发"
+  },
+  {
+   "cn": "小道理服从大道理",
+   "en": "minor principles should be subordinated to major ones",
+   "source": "马克思主义",
+   "wordNumber": "04.0139",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志提出的处理和解决全局与局部、大局与小局矛盾的基本原则。1979年3月，邓小平在党的理论工作务虚会上指出：“在社会主义制度之下，个人利益要服从集体利益，局部利益要服从整体利益，暂时利益要服从长"
+  },
+  {
+   "cn": "下级服从上级",
+   "en": "lower level is subordinate to the higher level",
+   "source": "马克思主义",
+   "wordNumber": "04.0173",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的下级组织服从上级组织。它是民主集中制的基本要求，是处理党的上下级组织之间相互关系的原则。其具体要求是：党的下级组织要服从上级组织的领导，要结合本地区、本部门的实际情况，贯彻执行上级组织的决定，如上"
+  },
+  {
+   "cn": "妇女解放",
+   "en": "women’s liberation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.8",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "妇女摆脱受压迫处境和从属地位，实现性别平等的过程和结果。"
+  },
+  {
+   "cn": "女性研究",
+   "en": "women’s studies",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "诞生于20世纪70年代西方女性主义运动的一个跨学科研究领域，倡导女性的主体地位以及社会性别视角。最初旨在揭示女性受压迫状况和性别不平等的根源，后转为批判学术界以及知识领域的性别主义倾向，试图建构女性主"
+  },
+  {
+   "cn": "女性经验",
+   "en": "women’s experiences",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "来源于女性日常生活、却被歪曲或排斥在主流知识及知识传承体系之外的经验。女性主义认为它与男性经验之间是不可互为替代的。这种被边缘化的经验具有主流经验所不具备的批判性优势，可证明主流知识并非具有客观性和普"
+  },
+  {
+   "cn": "妇女赋权",
+   "en": "women’s empowerment",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.2",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "性别与发展理论中的一个重要概念。指通过赋予妇女在政治、经济和社会参与等方面与男子同等的权利和机会，转变那些存在性别歧视和不平等的结构和制度，提高妇女的社会、政治和经济地位，让妇女成为发展的主体。"
+  },
+  {
+   "cn": "妇女地位",
+   "en": "women’s status",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "妇女相对于男人而言的社会位置，是对妇女在政治、经济、劳动就业、教育、健康、家庭等不同领域所处位置的综合评价，可以用复杂的指标体系来衡量，是衡量性别平等程度和社会人权状况的一个重要指标。在男性中心社会中"
+  },
+  {
+   "cn": "妇联",
+   "en": "women’s federation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.56",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "在中国共产党领导下代表妇女的人民团体。其基本职能是团结、动员广大妇女参与经济建设和社会发展，代表和维护妇女利益，促进男女平等。"
+  },
+  {
+   "cn": "妇女的无偿劳动",
+   "en": "women’s unpaid work",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "女性在家庭中付出的繁重而又没有报酬的劳动，包括生养孩子、照料家人、家务琐事等等，这些劳动的价值往往得不到承认或被低估。时间利用是测量无偿劳动的好方法，两性之间在无偿劳动时间的花费上存在明显的差异，女性"
+  },
+  {
+   "cn": "女权运动",
+   "en": "movement for women’s rights",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.5",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "以妇女争取与男子获得同等机会与权利、并建立一个免于歧视的社会为目标的运动。"
+  },
+  {
+   "cn": "妇女常见病",
+   "en": "woman's common disease",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "发生在女性生殖器官或乳腺的常见疾病，主要包括宫颈疾病、乳腺疾病、生殖道感染及其他生殖系统疾病。"
+  },
+  {
+   "cn": "女性增权",
+   "en": "women empowerment",
+   "source": "社会医学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "性别平等",
+   "publishYear": "2025",
+   "definition": "妇女通过获取权力和资源，掌控自身生活并获得做出战略选择能力的过程。"
+  },
+  {
+   "cn": "妇女保健部",
+   "en": "department of women's health care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.3.2.1.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼健康体系",
+   "subjectName": "妇幼健康体系",
+   "publishYear": "2025",
+   "definition": "妇幼保健机构设置的一级业务部门，是围绕非孕期妇女人群健康问题设置医疗保健服务的组织形式。主要提供群体保健、青春期保健、更老年期保健、乳腺保健、妇科常见病防治以及中医妇科等服务，同时负责对基层进行妇女保"
+  },
+  {
+   "cn": "打工妹",
+   "en": "rural migrant women",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "最早用来称呼20世纪90年代市场经济兴起之后受雇于东南沿海地区三资企业的外地农村未婚女性劳动力，后扩展为对所有从农村到城市打工的流动女性、尤其是青年女性劳动力的统称。"
+  },
+  {
+   "cn": "妇女社会工作",
+   "en": "women social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.53",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "针对妇女在自我成长过程中，在参与政治、经济、社会、文化和家庭生活过程中遇到的个体或群体问题而开展的社会工作服务。其目的是为妇女的全面发展创造有利的社会条件和社会环境。"
+  },
+  {
+   "cn": "妇女解放",
+   "en": "emancipation of women",
+   "source": "马克思主义",
+   "wordNumber": "04.0010",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "妇女在社会上和家庭中与男子有平等地位和权力。废除妇女在家庭和社会生活中无权的、不平等的、附属的地位，使妇女从被奴役、被压迫、被统治中解放出来。妇女不平等的社会地位，根源于私有制和男子占有财产。"
+  },
+  {
+   "cn": "妇女全生命周期保健",
+   "en": "woman's life course health care; woman's life cycle health care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇女健康",
+   "subjectName": "妇女健康",
+   "publishYear": "2025",
+   "definition": "为女童期到青春期、育龄期、更年期和老年期各阶段女性提供能够满足其生理、心理和社会需求的一系列技术、方法和服务。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

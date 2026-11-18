@@ -1,0 +1,772 @@
+{
+ "key": "adult education",
+ "term": "adult education",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:01:40+00:00",
+ "status": "ok",
+ "note": "variant=adult education; 审定公布名词库=2397; 海峡两岸名词对照库=489; 其他来源数据库=89; 预公布名词数据库=213; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "成人教育",
+   "en": "adult education",
+   "source": "教育学名词",
+   "wordNumber": "12.008",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "利用各种空间和渠道、资源和方式，为达到生理成熟年龄，特别是已经具备一定适应能力与责任能力、直接承担一定社会义务和职责的人们所建构的一种教育系统以及所实施的一种教育活动。"
+  },
+  {
+   "cn": "成人教育工作者",
+   "en": "adult education worker",
+   "source": "教育学名词",
+   "wordNumber": "12.014",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "成人教育活动的开发者、组织者、管理者和教学者。"
+  },
+  {
+   "cn": "成人教育课程",
+   "en": "adult education curriculum",
+   "source": "教育学名词",
+   "wordNumber": "12.113",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "成人学校或其他承担成人教育和成人培训职能的机构为成人学习者在学习内容和进程、学习活动与方式等方面所作出的全部安排。"
+  },
+  {
+   "cn": "成人教育学院",
+   "en": "adult education college",
+   "source": "教育学名词",
+   "wordNumber": "12.066",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "（1）普通高校为满足社会各种成人群体教育需求和学习需求而设置的，利用多种形式对其开展学历教育和非学历教育的机构。（2）亦指培养成人教育系统教学和管理人员的成人高等学校。"
+  },
+  {
+   "cn": "成人教育哲学",
+   "en": "adult educational philosophy",
+   "source": "教育学名词",
+   "wordNumber": "12.167",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "成人教育学科体系的一门基础性学科。运用哲学观点和方法研究成人教育与成人学习的本质和规律、地位和作用、源点和目的、内容和方法、过程和控制以及师生关系等一系列基本问题。"
+  },
+  {
+   "cn": "成人教育社会学",
+   "en": "adult educational sociology",
+   "source": "教育学名词",
+   "wordNumber": "12.169",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "成人教育学科体系的分支学科之一。从社会学视角研究各种成人教育现象、成人教育问题及其与社会各系统之间的相互关系。"
+  },
+  {
+   "cn": "成人教育心理学",
+   "en": "adult educational psychology",
+   "source": "教育学名词",
+   "wordNumber": "12.168",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "成人教育学科体系的分支学科之一。研究成人教育过程中各种心理现象及其变化与发展。"
+  },
+  {
+   "cn": "成人教育评价",
+   "en": "adult educational evaluation",
+   "source": "教育学名词",
+   "wordNumber": "12.013",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "将成人教育的现实状况与成人教育的预设目标加以比较、评价的过程，以确定成人教育预设目标的实际达到程度。"
+  },
+  {
+   "cn": "成人教育制度",
+   "en": "adult educational system",
+   "source": "教育学名词",
+   "wordNumber": "12.011",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "（1）狭义上是指有关机构依法对各级各类成人教育活动所制定的政策性、法律性的规范。（2）广义上是指依据相关政策性、法律性规范而建立并运行的成人教育体系。"
+  },
+  {
+   "cn": "成人教育管理学",
+   "en": "adult educational management",
+   "source": "教育学名词",
+   "wordNumber": "12.170",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "成人教育学科体系的分支学科之一。探究成人教育的行政、组织、领导、管理和学校工作的规律，以及相关的政策与法规、制度与原则、形式与方法等。"
+  },
+  {
+   "cn": "比较成人教育",
+   "en": "comparative adult education",
+   "source": "教育学名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "教育学_比较教育_学科与国际组织",
+   "subjectName": "学科与国际组织",
+   "publishYear": "2013",
+   "definition": "比较教育的一个研究领域。主要针对不同国家、民族或地区，以成年人为对象的各类教育进行比较研究，从中探索和发现成人教育发展规律。"
+  },
+  {
+   "cn": "成人基础教育",
+   "en": "adult basic education",
+   "source": "教育学名词",
+   "wordNumber": "12.055",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "对成人所进行的基础知识或基本能力教育。包括初级的读、写、算教育以及基本的社会、社区生活知识与能力教育等。"
+  },
+  {
+   "cn": "成人创业教育",
+   "en": "adult entrepreneurship education",
+   "source": "教育学名词",
+   "wordNumber": "12.081",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "为成人所实施的创业知识、创业能力等的教育活动，以及创业设计、创业实践等的训练活动。旨在促进他们的创业活动，提高他们的创业成功概率。"
+  },
+  {
+   "cn": "成人职业教育",
+   "en": "adult vocational education",
+   "source": "教育学名词",
+   "wordNumber": "12.080",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "对成人所实施的，以习得或更新职业知识、劳动技能及改善工作态度为核心任务的教育与培训活动。旨在帮助他们获得就业能力或就业资格，抑或促进他们职业生涯的持续发展。"
+  },
+  {
+   "cn": "成人初等教育",
+   "en": "adult elementary education",
+   "source": "教育学名词",
+   "wordNumber": "12.056",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "对学龄期失去初等教育机会或未能达到小学毕业程度的成人所实施的基础教育。"
+  },
+  {
+   "cn": "成人高等教育",
+   "en": "adult higher education",
+   "source": "教育学名词",
+   "wordNumber": "12.058",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "按照相关规定，采取多种方式，对在职或非在职成人所实施的属高等教育范畴的教育活动。"
+  },
+  {
+   "cn": "成人中等教育",
+   "en": "adult secondary education",
+   "source": "教育学名词",
+   "wordNumber": "12.057",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "在初等教育基础上，对成人实施的中等层次的文化知识教育或专业技术教育。"
+  },
+  {
+   "cn": "成人教育目的",
+   "en": "aim of adult education",
+   "source": "教育学名词",
+   "wordNumber": "12.012",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "对成人教育活动意图比较广泛和概略的陈述。通常包括个体发展或人才培养的总体要求，以及通过教育活动使成人学习者在知识、能力等方面所要达到的预期结果。"
+  },
+  {
+   "cn": "成人正规教育",
+   "en": "formal education for adult",
+   "source": "教育学名词",
+   "wordNumber": "12.010",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "对成人实施初等、中等和高等学历教育的总称。"
+  },
+  {
+   "cn": "成人高等院校",
+   "en": "adult higher education institution",
+   "source": "教育学名词",
+   "wordNumber": "12.068",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "为在职或非在职成人设立的高等教育院校。包括管理干部学院、职工大学、职工业余大学、农民业余大学、广播电视大学、函授大学、教育学院、普通大学设置的夜大学、函授部或成人教育学院等。"
+  },
+  {
+   "cn": "成体",
+   "en": "adult",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "成体",
+   "en": "adult",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "成虫",
+   "en": "adult\",\"imago",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "成年心理学",
+   "en": "adult psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成虫羽化",
+   "en": "adult emergence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "隐成虫",
+   "en": "pharate adult",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "成螨",
+   "en": "adult\",\"imago\",\"prosopon",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "成虫",
+   "en": "adult\",\"imago\",\"prosopon",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "成蜱",
+   "en": "adult\",\"imago\",\"prosopon",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "成体干细胞",
+   "en": "adult stem cell",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "成体干细胞",
+   "en": "adult stem cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "成体干细胞",
+   "en": "adult stem cell",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "成体干细胞",
+   "en": "adult stem cell",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯教育",
+   "en": "career education",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地理教育",
+   "en": "geographical education",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "教育地图集",
+   "en": "education atlas",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "胸腺培育， 胸腺驯育",
+   "en": "thymic education",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "胸腺驯育",
+   "en": "thymic education",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "教育测验",
+   "en": "educational testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "教育年龄",
+   "en": "educational age",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "乐教",
+   "en": "Music Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网教育",
+   "en": "Internet education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程教育",
+   "en": "distance education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛在教育",
+   "en": "ubiquitous education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "师法之化",
+   "en": "Enlightenment Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因材施教",
+   "en": "Audience-based Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化",
+   "en": "Wenhua (Cultural Education)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融消费者教育",
+   "en": "financial consumer education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教育扶贫",
+   "en": "poverty alleviation through education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧文教",
+   "en": "Smart Culture and Education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教育与培训2020（ET 2020）",
+   "en": "Education and Training 2020 (ET 2020)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教化",
+   "en": "Shaping the Mind Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有教无类",
+   "en": "Education for All Without Discrimination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教学为先",
+   "en": "Education Must Be Placed First.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "老年人",
+   "en": "older adults",
+   "source": "社会医学名词",
+   "wordNumber": "12.3.1",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "老年人卫生保健",
+   "publishYear": "2025",
+   "definition": "达到或超过老年年龄界限的人。目前国际通常使用的老年年龄界限包含60 岁和65 岁两类。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "成人识字率",
+   "en": "adult literacy rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.7",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "成人识字率",
+   "publishYear": "2025",
+   "definition": "15 岁以上的人口中识字者的百分比。反映人口文化素质和教育普及率的正向指标。"
+  },
+  {
+   "cn": "失能老年人",
+   "en": "disabled older adults",
+   "source": "社会医学名词",
+   "wordNumber": "12.3.5",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "老年人卫生保健",
+   "publishYear": "2025",
+   "definition": "因衰老、疾病、伤残等因素部分或完全丧失生活自理能力，需要持续依赖他人或外部支持以完成日常生活活动的老年人。"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "关于性知识、性道德和性行为等方面的教育，一般应在青少年中实施，但不限于这一年龄段。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "家庭教育",
+   "en": "family education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.2",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "家庭中由家长对其子女实施的教育，具有终身教育的特点。家庭教育既是学校教育的基础，又是学校教育的补充和延伸。"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "自由教育",
+   "en": "liberal education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "西方教育史上的一种教育理想，因不同时代涵义有所不同。希腊时期为培养自由民的教育，中世纪时期指通过自由七艺的培养皈依基督的神性，现代自由教育则强调人格的全面发展。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "人文教育",
+   "en": "humanistic education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在通过涵养文化素质塑造健全人格的人性化教育。"
+  },
+  {
+   "cn": "公民教育",
+   "en": "civil education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "培育公民参与国家和社会公共生活、维护公民权利和履行公民义务的各种教育手段。"
+  },
+  {
+   "cn": "公共教育",
+   "en": "public education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "由国家、团体或个人向社会单独或混合提供，为全社会成员分享并服务于全社会的教育形式。"
+  },
+  {
+   "cn": "义务教育",
+   "en": "compulsory education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "适龄儿童和青少年都必须接受，国家、社会、家庭必须予以保证的公益性教育。"
+  },
+  {
+   "cn": "继续教育",
+   "en": "further education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.3",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "面向正规学校教育后所有社会成员,特别是成人的教育活动，是终身学习体系的组成部分。"
+  },
+  {
+   "cn": "国民教育",
+   "en": "popular education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.4",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "每个出生在特定国度中的人都有权接受的教育。例如在未成年前须接受的义务教育，以及此后的职业技术教育、中等教育和高等教育等。"
+  },
+  {
+   "cn": "精英教育",
+   "en": "elite education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.5",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养国家和社会精英的专门教育。与“大众教育”相对。"
+  },
+  {
+   "cn": "绅士教育",
+   "en": "gentle education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.6",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "由洛克提出的教育理念，目的是培养身心健全、有学识礼的具有典型英国资产阶级理想人格的绅士阶层。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

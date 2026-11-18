@@ -1,0 +1,742 @@
+{
+ "key": "completeness question",
+ "term": "completeness question",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:59:01+00:00",
+ "status": "ok",
+ "note": "variant=completeness question; 审定公布名词库=515; 海峡两岸名词对照库=71; 其他来源数据库=17; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "完备性",
+   "en": "completeness",
+   "source": "物理学名词",
+   "wordNumber": "06.0500",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整度",
+   "en": "completeness",
+   "source": "生物物理学名词",
+   "wordNumber": "02.234",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "衍射实验中实际收集到的独立的衍射点数与理论上可以收集到的独立的衍射点数的比值。代表了所收集衍射数据的完整性，最高为100%。"
+  },
+  {
+   "cn": "完备性",
+   "en": "completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0956",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "形式系统的一种性质：语义上为真的推论都可以用推理规则在语法上推导出来。"
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "数学名词",
+   "wordNumber": "02.0079",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "数学名词",
+   "wordNumber": "02.0079",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "1-完全的",
+   "en": "1-complete",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0172",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定计算可枚举集合 A ，如果对任何计算可枚举集合 X ， X<img src='/root/syzx/static/spz/jsjkx3.02.0170.002.png'/>A 均成立，则称 A 是"
+  },
+  {
+   "cn": "完备化",
+   "en": "completion",
+   "source": "数学名词",
+   "wordNumber": "07.0016",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完全[的]",
+   "en": "complete",
+   "source": "数学名词",
+   "wordNumber": "01.0062",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "σ完备",
+   "en": "σ-complete,sigma-complete",
+   "source": "数学名词",
+   "wordNumber": "07.0132",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "提问",
+   "en": "question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者通过提问题向采访对象了解新闻事实的新闻采访方式。"
+  },
+  {
+   "cn": "水下完井",
+   "en": "subsea completion,underwater  completion",
+   "source": "石油名词",
+   "wordNumber": "08.0431",
+   "subjectFullName": "石油_海洋石油技术_海上钻井工程",
+   "subjectName": "海上钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整性",
+   "en": "data completeness",
+   "source": "测绘学名词",
+   "wordNumber": "05.113",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "说明数据集在要素、要素属性和要素关系三方面的遗漏和多余信息。"
+  },
+  {
+   "cn": "完备性关系",
+   "en": "completeness relation",
+   "source": "物理学名词",
+   "wordNumber": "06.0501",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "测地完备性",
+   "en": "geodesic completeness",
+   "source": "物理学名词",
+   "wordNumber": "06.0282",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "PSPACE完全性",
+   "en": "PSPACE-completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0341",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果一个多项式空间可识别的语言 A 还满足条件：任意一个多项式空间识别的语言 X 均对数空间多一归约到 A ，则称 A 是多项式空间完全的。量词布尔公式的判定性问题QBF在对数空间多一归约下就是一个P"
+  },
+  {
+   "cn": "语义完备性",
+   "en": "semantic completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0067",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一个形式系统是语义完备的，当且仅当系统中的任一重言式都是定理。"
+  },
+  {
+   "cn": "文法完备性",
+   "en": "syntactic completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0068",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "形式系统的任意公式 A，要么A是定理，要么非A 是定理。"
+  },
+  {
+   "cn": "完美完全性",
+   "en": "perfect completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0421",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个随机算法接受一个肯定输入的概率为１。"
+  },
+  {
+   "cn": "#P完全性",
+   "en": "#P-completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0379",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个函数属于#P且任何一个#P函数都可以多项式时间归约于它。瓦利安特（Valiant）1979年证明了积和式是#P 完全的。"
+  },
+  {
+   "cn": "完整基金",
+   "en": "completeness fund",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0077",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "用于构建消极组合基准的特定指数，不通过客户的积极组合管理，能使客户的投资组合实现完全分散化。"
+  },
+  {
+   "cn": "完整性",
+   "en": "completeness",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模完整性",
+   "en": "mode completeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全显性",
+   "en": "complete dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全叶",
+   "en": "complete leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全熔合反应",
+   "en": "complete fusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "完全显性",
+   "en": "complete dominance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全抗原",
+   "en": "complete antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全吞噬",
+   "en": "complete phagocytosis",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全抗原",
+   "en": "complete antigen",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全外显率",
+   "en": "complete penetrance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全选择",
+   "en": "complete selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全连锁",
+   "en": "complete linkage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "野外补测",
+   "en": "field completion",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "S完备化",
+   "en": "S completion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "T完备化",
+   "en": "T-completion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全集",
+   "en": "complete set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全进位",
+   "en": "complete carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全图",
+   "en": "complete graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全问题",
+   "en": "complete problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成人",
+   "en": "Complete Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "NP完全性理论",
+   "en": "theory of NP-completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完全支配权",
+   "en": "right to complete dominance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一本胜",
+   "en": "complete win\",\"ippon-gachi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "试举成功",
+   "en": "completed attempt\",\"good lift",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双缰",
+   "en": "complete bridle\",\"double bridle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心悦诚服",
+   "en": "Be Completely Convinced and Follow Willingly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道问学",
+   "en": "Quest for Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "记分获胜",
+   "en": "complete win\",\"decision by points\",\"win by score\",\"win on points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成竹于胸",
+   "en": "<p class=\"MsoNormal\"> Have&nbsp;a Complete Image of the Bamboo Before Drawing It / Have&nbsp;a Fully Formed Picture in the Mind’ Eye</p>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "变色完全",
+   "en": "discoloration completion",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在化学监测中，以颜色变化作为消毒灭菌效果的判定依据时，指示物达到了终点色的现象。"
+  },
+  {
+   "cn": "自杀死亡",
+   "en": "complete suicide",
+   "source": "社会医学名词",
+   "wordNumber": "13.3.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "自我伤害",
+   "publishYear": "2025",
+   "definition": "有自杀意念和行为并导致死亡的现象。"
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "整机寿命",
+   "en": "complete machine life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "成套或整体单机、单台形式的消毒器械的寿命。"
+  },
+  {
+   "cn": "完全缓解",
+   "en": "complete response，CR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归",
+   "subjectName": "预后与转归",
+   "publishYear": "2025",
+   "definition": "治疗后疾病完全控制，症状、体征、检查异常完全消失的状态。"
+  },
+  {
+   "cn": "完全积累制",
+   "en": "completely accumulative system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "根据长期收支平衡为原则来确定费率的基金筹集模式"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "青少年自杀死亡",
+   "en": "completed suicide in adolescent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.6.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "青少年有意图并采取行动而最终导致死亡的结果。其死亡有鲜明的“自我施予性”。"
+  },
+  {
+   "cn": "全营养配方食品",
+   "en": "nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.16",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0212",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "矛盾的特殊性原理在理论和实践中的运用。它要求在马克思主义原理指导下，从客观实际出发，具体分析矛盾的特殊性，并找出解决矛盾的正确方法，是马克思主义的重要方法论原则。"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "source": "马克思主义",
+   "wordNumber": "04.0069",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁在1912—1916年间写了7本关于民族问题的笔记，其中《民族问题（Ⅱ）笔记》阐述了反对大俄罗斯主义、反对乌克兰资产阶级民族主义观点。在《民族问题提纲》中从十个方面论述俄国民族问题，以及党解决民族"
+  },
+  {
+   "cn": "学校建设项目竣工验收",
+   "en": "school building projects completion acceptance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校预防性卫生监督",
+   "subjectName": "学校预防性卫生监督",
+   "publishYear": "2025",
+   "definition": "学校建设项目竣工后，对照已经卫生审查的设计图纸，对该项目的建筑施工、设备安装是否符合设计要求进行现场查验并提出意见的过程。"
+  },
+  {
+   "cn": "特定全营养配方食品",
+   "en": "special nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.17",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群在特定疾病或医学状况下的营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "非全营养配方食品",
+   "en": "nutritionally non-complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.29",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "不能作为单一营养来源，可满足目标人群部分营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "肿瘤全营养配方食品",
+   "en": "nutritionally complete formula foods for cancer",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.21",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为适应肿瘤患者代谢特点及肿瘤细胞分化特性，适当提高脂肪和蛋白质的供能比以及其他免疫功能相关营养素含量，使其可作为单一营养来源满足肿瘤患者营养需求的配方食品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

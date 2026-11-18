@@ -1,0 +1,632 @@
+{
+ "key": "coherence theories",
+ "term": "Coherence theories",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:08:43+00:00",
+ "status": "ok",
+ "note": "variant=Coherence theories; 审定公布名词库=2414; 海峡两岸名词对照库=775; 其他来源数据库=155; 预公布名词数据库=259; jwt-direct（JWT 直连，raw 略；已滤维基 18 条）",
+ "hits": [
+  {
+   "cn": "真理的融贯论",
+   "en": "coherence theory of truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.068",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "认为陈述为真当且仅当它与一个陈述系统中的其他陈述都不矛盾。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2648",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "两个波场同相的程度。波场与自身、波场与其他波场之间对于某种内秉物理量的关联性质。数学上表示为两个归一化的互功率谱，是时间域的相关性在频率域的对应。 "
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "光学名词",
+   "wordNumber": "01.524",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "频率相同、偏振态相同、相位差恒定的两列光波相遇时在时域或者空间会产生局部光强增大或减小的现象。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1258",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "生物物理学名词",
+   "wordNumber": "02.337",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "对电子波干涉现象显著程度的描述。理想的相干性电子波应具有单一的波长，或者说所有电子具有相同的能量；此外，不同空间位置发射的电子除了具有相同的能量外还需要有同步变化的相位，即具有稳定的相位差。良好的相干"
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0600",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "对连续的函数进行离散采样时，其相邻位置的采样值具有某种相似性。"
+  },
+  {
+   "cn": "连贯",
+   "en": "coherence",
+   "source": "语言学名词",
+   "wordNumber": "04.265",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "话语分析术语。指一篇口头或书面话语（语篇）前后内容、文气的一致性或功能联系。它是话语组织的一个假设原则，即我们首先假设话语组织是连贯的，在此基础上来研究话语中体现一致性的各种手段。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "大气科学名词",
+   "wordNumber": "02.225",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "使两个或多个波动具有能够产生干涉效应的相位关联的属性。包括时间相干性和空间相干性，前者指空间同一点在不同时刻的波之间存在稳定的相位关联，后者指同一时刻空间不同点的波之间存在着稳定的相位关联。"
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.354",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在电磁辐射中，使所有波前同相的条件。相干将能量高度集中，使红外、可见光和紫外有可能长距离传输，原因是这些射线几乎完全平行。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.145",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_显微镜_显微镜一般名词",
+   "subjectName": "显微镜一般名词",
+   "publishYear": "2003",
+   "definition": "光波能相互干涉的性质。相干光相干系数值接近1,非相干光相干系数值为零,部分相干光相干系数处于大于零和小于1之间。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "石油名词",
+   "wordNumber": "03.0354",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherency",
+   "source": "光学名词",
+   "wordNumber": "01.525",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "①描述两束光波产生干涉能力的一个物理量。②描述一个波列在同一时间不同位置或者在同一位置不同时间的振动间有恒定相位关系的特性。它分为空间相干性、时间相干性和部分相干性三种。"
+  },
+  {
+   "cn": "相干",
+   "en": "coherent",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.557",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "横向相干性",
+   "en": "lateral coherence,transverse coherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1271",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相干加强",
+   "en": "coherence emphasis; coherence enhancement",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0461",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "叠加后根据相似性突出有效波、削弱干扰波的一种处理程序。通常是根据相邻记录道之间波形的相似性，用相关函数来衡量两个以上记录道时间序列的相似程度，并按相似程度的大小对记录进行加权，使相似性高的波得到加强，"
+  },
+  {
+   "cn": "相干滤波",
+   "en": "coherence filtering",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2586",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "基于地震相干处理技术，滤除两个信号中的相干噪声以增强相干信号、压制相干噪声和随机噪声的滤波方法。 "
+  },
+  {
+   "cn": "相干函数",
+   "en": "coherence function",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2649",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "描述相干性的函数。 "
+  },
+  {
+   "cn": "相干叠加",
+   "en": "coherence stack",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0460",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "如果两波频率相等，在观察时间内波动不中断，而且在相遇处振动方向几乎沿着同一直线，它们叠加后产生的合振动加强，两波相干，这样的叠加称为相干叠加。 "
+  },
+  {
+   "cn": "相干长度",
+   "en": "coherence length",
+   "source": "光学名词",
+   "wordNumber": "01.531",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述光源出射光的波列在介质中的持续长度的一个物理量。定义为各个相干波列在介质中的平均传播距离。数值上等于光源的相干时间与该光波在介质中传播速度的乘积。"
+  },
+  {
+   "cn": "空间相干性",
+   "en": "spatial coherence",
+   "source": "光学名词",
+   "wordNumber": "01.533",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述部分相干光在空间某些点光扰动的相位变化量之间关联程度的一个参量。以这些光扰动传播到其后面空间的叠加光场产生的干涉条纹对比度来表示。它与时间相干性同时存在，是表征部分相干光场特性的重要参量。"
+  },
+  {
+   "cn": "同调",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚",
+   "en": "coherence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "部分同调",
+   "en": "partial coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间相干",
+   "en": "spatial coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间相干",
+   "en": "temporal coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干谱",
+   "en": "coherence spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干元素",
+   "en": "coherence element",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相位同调",
+   "en": "phase coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相关效应",
+   "en": "coherence effect",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "高速缓存一致性",
+   "en": "cache coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间相干",
+   "en": "spatial coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "频率相干",
+   "en": "frequency coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干带宽",
+   "en": "coherence bandwidth",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干时间",
+   "en": "coherence time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干调制",
+   "en": "coherence modulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干长度",
+   "en": "coherence length",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相关检查",
+   "en": "coherence check",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子相干性",
+   "en": "quantum coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缓存一致性",
+   "en": "cache coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "瘴气说",
+   "en": "miasmatic theories",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.10",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种解释病因的理论，它将特定的环境条件和/或特定地点与疾病暴发联系起来进行解释。"
+  },
+  {
+   "cn": "全球化理论",
+   "en": "globalizationrelated theories",
+   "source": "马克思主义",
+   "wordNumber": "05.0096",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪80年代以来，以资本主义全球化为主要批判对象的一系列理论的总称，包括依附理论、后殖民理论、世界体系理论、晚期资本主义文化批评理论、后工业社会理论、“第三条道路”理论、文明冲突论等。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "克伦巴赫等人在20世纪60至70年代初提出一种测量理论。思想上，认为测量对象的值受到测量条件和环境的影响；概念上，用全域分数代替了经典测量理论的真分数，用概括化系数代替了信度；技术上，应用方法分析技术"
+  },
+  {
+   "cn": "社会理论",
+   "en": "social theory",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以社会学视角和方法对人类社会现象及问题所进行的各种系统性的理论探讨。重点涉及一切关于社会何以构成、存续和变迁的理论思考，以及关于这类理论思考何以可能（或合理）的认识论探讨。与“应用社会学”相对。"
+  },
+  {
+   "cn": "冲突理论",
+   "en": "conflict theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "与结构功能主义理论相对立的社会学理论流派，该派理论家借鉴马克思的阶级冲突理论或马克斯•韦伯的权力冲突观点，强调个人或群体之间的经济利益冲突和权力冲突，对结构功能主义理论（特别是功能主义社会分层理论）提"
+  },
+  {
+   "cn": "现代化理论",
+   "en": "modernization theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪50、60年代，以塔尔科特帕森斯、列维（M.J.Levy）、英克尔斯（A.Inkeles）和艾森斯塔德（S.N.Eisenstadt）等人为代表，以研究传统社会的现代转化为主旨的理论。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "紧张理论",
+   "en": "strain theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为当一些人无法通过合法手段达到社会普遍认可的成功目标时，就会产生挫折感等紧张情绪，从而形成个人的目标和社会规范之间的冲突状态，进而引发越轨行为或者犯罪行为。由美国社会学家"
+  },
+  {
+   "cn": "标签理论",
+   "en": "labeling theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。把越轨行为分为初级越轨行为和继发越轨行为，并认为越轨行为的性质不在于行为本身，而是社会的定义和解释。因此，只有当一个行为被社会定义为越轨行为时，其行为者才会成为越轨行为者。"
+  },
+  {
+   "cn": "立场论",
+   "en": "standpoint theory",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义认识论的一种主流观点，对传统认识论中的主客体两分法和价值中立的客观性原则持批判态度，认为从妇女日常生活经验和边缘化的底层立场出发，可以产生比男性主流知识更少偏见、更具有客观性的好知识。"
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.14",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究多个个体或团队之间在特定条件制约下的对局里，利用相关方的策略而实施对应策略的理论。认为参加斗争或竞争的各方有不同的目标或利益，为了达到各自的目标和利益，各方必须考虑对手各种可能的行动方案，并力图选"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "认为没有普遍适用的、最合理的管理模式与原则，内部特征与所处环境的要求相匹配的组织适应性最强，所以组织必须随机制宜地处理管理问题的理论观点。"
+  },
+  {
+   "cn": "品味理论",
+   "en": "taste theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.32",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "布迪厄以美学品味的议题为基础所发展出的社会阶层化理论。认为品味，也即人们对于饮食、文化和艺术表演的喜好等都是阶级指标，人们的这些消费倾向都对应于个人在社会中的位置。"
+  },
+  {
+   "cn": "法律思想",
+   "en": "legal theory",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "关于法和法律现象的观点、理论和学说。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

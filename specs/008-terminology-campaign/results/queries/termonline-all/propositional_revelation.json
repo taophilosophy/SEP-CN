@@ -1,0 +1,712 @@
+{
+ "key": "propositional revelation",
+ "term": "propositional revelation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:14:18+00:00",
+ "status": "ok",
+ "note": "variant=propositional revelation; 审定公布名词库=889; 海峡两岸名词对照库=261; 其他来源数据库=72; 预公布名词数据库=111; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0014",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "显示原理",
+   "en": "revelation principle",
+   "source": "经济学名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "在机制设计过程中，对于每个导致参与人撒谎的契约而言，存在着一个契约使得对于每一个自然状态而言这两个契约能够得到相同的结果，并且使得参与人没有积极性进行撒谎。"
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.520",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有表征内容的心理状态，反映了认知主体和某类抽象对象（心理内容）之间的特定关系。如信念、欲望和意图等。连接态度的命题必须是具有真值的对象。"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0937",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "数理逻辑中基本的形式系统，用于描述命题及其逻辑关系。"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "心理学名词",
+   "wordNumber": "02.540",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆信息储存方式是以命题形式对信息进行表征，不受母语及感觉通道的影响。"
+  },
+  {
+   "cn": "命题函数",
+   "en": "propositional function",
+   "source": "数学名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0022",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题μ演算",
+   "en": "propositional μ-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0934",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在命题模态逻辑中引入最大、最小不动点算子得到的形式系统，可用于描述并发系统的时序性质。"
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对全部相关对象的特征描述。"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0499",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种标记了谓词及其论元角色的语料库。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0294",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "品牌所赖以形成差异化与定位的所有利益的组合。是一个品牌的完整定位，回答顾客关于“为什么我应该买你的产品”的问题。"
+  },
+  {
+   "cn": "米勒–莫迪利安尼定理",
+   "en": "MillerModigliani proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0558",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "该理论认为，在不考虑公司所得税，且资本市场完备和企业经营风险相同等假设条件下，当资本结构不同时，公司的资本结构与其市场价值无关；在考虑公司所得税后，公司的资本结构与其市场价值正相关；在考虑公司所得税及"
+  },
+  {
+   "cn": "命题演算",
+   "en": "proposition calculus",
+   "source": "语言学名词",
+   "wordNumber": "11.097",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "由命题与命题联结词构成的更复杂的命题，以及这样的命题之间的推理关系的运算。"
+  },
+  {
+   "cn": "逆命题",
+   "en": "converse proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "否命题",
+   "en": "negative proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "阿米巴虫的启示",
+   "en": "revelation of amoeba",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "14.066",
+   "subjectFullName": "新闻学与传播学_媒介环境_媒介影响研究与人类环境",
+   "subjectName": "媒介影响研究与人类环境",
+   "publishYear": "2022",
+   "definition": "人的感知系统中触觉的根本性，即触觉仿佛是感知的源头。由莱文森阐释。阿米巴虫因为没有人的五官等感知方式，它可能死于第一次对火的拥抱，但它却永远不会像人那样遭遇视觉幻象(很多时候眼见并非为实)。与触觉相比"
+  },
+  {
+   "cn": "直接显示原理",
+   "en": "direct revelation principle",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1030",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "给定一个类型空间，至少存在一个说真话的机制，使得从类型空间到配置空间的映射是可行的。"
+  },
+  {
+   "cn": "命题编码理论",
+   "en": "propositional code theory",
+   "source": "心理学名词",
+   "wordNumber": "02.541",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆中只有一种编码形式的理论。即只有命题形式的、语义的、抽象的表征。"
+  },
+  {
+   "cn": "命题网络模型",
+   "en": "propositional network model",
+   "source": "心理学名词",
+   "wordNumber": "02.539",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由命题表征表达的概念之间的关系建立的模型。网络中的节点表示概念，连线表示概念间的联系。"
+  },
+  {
+   "cn": "宗教显露",
+   "en": "religious revelation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "再冻[作用]，复冰现象",
+   "en": "regelation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复冰作用",
+   "en": "regelation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "比例控制器",
+   "en": "proportional controller",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例控制",
+   "en": "proportional control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例度",
+   "en": "proportional band",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例增益",
+   "en": "proportional gain",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例灵敏度",
+   "en": "proportional sensitivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例元件",
+   "en": "proportional element",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例作用",
+   "en": "proportional action",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均衡凝固",
+   "en": "proportional solidification",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "比例抽样",
+   "en": "proportional sampling",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "比例阀",
+   "en": "proportional valve",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "隐显",
+   "en": "Concealment and Revelation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "5G革命",
+   "en": "5G revolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链监管",
+   "en": "Blockchain Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技监管",
+   "en": "Fintech Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用监管",
+   "en": "credit regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法规制",
+   "en": "algorithm regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "能源革命",
+   "en": "energy revolution",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比赛时间",
+   "en": "regulation time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "新贸易革命",
+   "en": "New Trade Revolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "淡中心化",
+   "en": "less-centralized regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "source": "马克思主义",
+   "wordNumber": "04.0189",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民就发展两岸关系、推进祖国和平统一进程的若干重大问题提出的八项主张和看法，即：坚持一个中国的原则；对于台湾同外国发展民间性经济文化关系，我们不持异议；再次建议双方就“正式结束两岸敌对状态、逐步实现"
+  },
+  {
+   "cn": "规章",
+   "en": "regulation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.18",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "各级领导机关及其职能部门、社会团体、企事业单位，为实施管理，规范工作、活动和有关人员行为，在其职权范围内制定并发布实施的、具有行政约束力和道德行为准则的规范性文书的总称。"
+  },
+  {
+   "cn": "革命",
+   "en": "revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0026",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以激烈或暴力乃至流血的方式进行社会制度根本变革的方式或手段。迄今的一切革命，都是为了建立一种新的所有制以反对另一种所有制的革命。政权要从一个阶级手里转到另一个阶级手里。"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "正比计数管",
+   "en": "proportional counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.21",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种工作在气体放电正比区的计数管。"
+  },
+  {
+   "cn": "按比例规律",
+   "en": "law of proportional",
+   "source": "马克思主义",
+   "wordNumber": "02.0177",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "按比例分配社会劳动的规律的简称，是社会生产与社会需要之间矛盾运动以及整个国民经济协调发展的规律。按比例规律的内在要求是，表现为人财物的社会总劳动要依据需要按比例地分配在社会生产和国民经济中。随着社会分"
+  },
+  {
+   "cn": "产品监管",
+   "en": "product regulation",
+   "source": "消毒学",
+   "wordNumber": "5.2",
+   "subjectFullName": "消毒学_监督管理",
+   "subjectName": "监督管理",
+   "publishYear": "2025",
+   "definition": "行政机关依据相关法律法规和标准对消毒产品开展监督和管理的行政执法行为。"
+  },
+  {
+   "cn": "地方性法规",
+   "en": "local regulation",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "法定的地方国家权力机关依照法定的权限，在不与宪法、法律和行政法规相抵触的前提下，制定和颁布的在本行政区域范围内实施的管理规定。"
+  },
+  {
+   "cn": "管理革命",
+   "en": "managerial revolution",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "随着财产所有权和控制的逐渐分离，职业经理人取代公司所有者（资本家）成为决策者和控制者。由伯纳姆(James Burnham）在《管理革命》一书中提出。伯纳姆等人注意到资本主义社会一个重要变化，认为这一"
+  },
+  {
+   "cn": "社会革命",
+   "en": "social revolution",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "一个社会的国家政权、阶级结构、社会结构和支配性意识形态迅速而根本的变革。"
+  },
+  {
+   "cn": "工业革命",
+   "en": "industrial revolution",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "从18世纪中期至20世纪初，西方资本主义生产从工场手工业形态向机器大工业形态的大转变过程。"
+  },
+  {
+   "cn": "技术革命",
+   "en": "technological revolution",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "人类在改造客观世界的生产工具、工艺流程等方面的根本性变革。人类迄今为止经历了三次大的技术革命：始于18世纪60年代的蒸汽动力革命，始于19世纪70年代的电力革命，始于20世纪40、50年代的信息技术革"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "科学共同体做出的一系列新的承诺或共识，并建立一个科学实践的新基础，即科学共同体专业承诺发生了转移，打破了传统的活动，实现从一个范式到另一个范式的转变过程。"
+  },
+  {
+   "cn": "智慧型规范",
+   "en": "smart regulation",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.8",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一系列特定的环境管理理论认为管理环境行动的最好方式就是将各种各样的方法和行动者聚集在一起，从而培养对“可持续发展”目标的遵从。"
+  },
+  {
+   "cn": "自我调节",
+   "en": "self-regulation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.6.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我发展",
+   "subjectName": "自我发展",
+   "publishYear": "2025",
+   "definition": "广义指人们给自己制定行为标准，用自己能够控制的奖赏或惩罚来加强、维护或改变自己行为的过程。狭义指自我强化，即当人们达到了自己制定的标准时，用自己能够控制的奖赏来加强和维持自己的行为的过程。"
+  },
+  {
+   "cn": "精神革命",
+   "en": "spiritual revolution",
+   "source": "马克思主义",
+   "wordNumber": "01.0188",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们思想观念、思维方式、价值观念、认知模式等的变革，摒除旧的僵化的保守的思想观念、思维方式，确立新的积极进取、充满活力和创新精神的新观念、新思想。"
+  },
+  {
+   "cn": "经济革命",
+   "en": "economic revolution",
+   "source": "马克思主义",
+   "wordNumber": "02.0015",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "本质上是社会生产方式的变革。它是基于社会生产力的大发展，社会生产关系发生全面调整或根本性变革。"
+  },
+  {
+   "cn": "共产主义革命",
+   "en": "communist revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0021",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级以马克思主义为指导、为实现共产主义而在世界范围内开展反对资产阶级、消灭私有制的阶级斗争。工人革命的第一步是使无产阶级上升为统治阶级，争得民主，一步一步地夺取资产阶级的全部资本，把一切生产工具集"
+  },
+  {
+   "cn": "不断革命",
+   "en": "permanent revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0029",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义向社会主义转变的途径和方式。马克思总结了1848年欧洲革命的经验，指出无产阶级的战斗口号应该是不断革命。无产阶级的社会主义就是宣布不断革命，就是无产阶级的阶级专政，这种专政是达到消灭一切阶级差"
+  },
+  {
+   "cn": "暴力革命",
+   "en": "violent revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0032",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "革命阶级用来夺取政权实现社会形态变革的方式。在阶级社会，统治阶级无不运用暴力维护其统治。暴力是每一个孕育着新社会的旧社会的助产婆。资本主义社会中的被统治阶级——无产阶级一般都要通过暴力革命推翻资产阶级"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

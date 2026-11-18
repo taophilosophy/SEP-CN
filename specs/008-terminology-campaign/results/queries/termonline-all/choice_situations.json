@@ -1,0 +1,802 @@
+{
+ "key": "choice situations",
+ "term": "choice situations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:13:51+00:00",
+ "status": "ok",
+ "note": "variant=choice situations; 审定公布名词库=332; 海峡两岸名词对照库=120; 其他来源数据库=44; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "局势",
+   "en": "situation",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0288",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "从每个局中人的策略集中各取一个策略组成的策略组。"
+  },
+  {
+   "cn": "情景",
+   "en": "situation",
+   "source": "语言学名词",
+   "wordNumber": "12.087",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "言语交际活动的情况。由话题、参与者、场所等要素构成。"
+  },
+  {
+   "cn": "局势",
+   "en": "situation",
+   "source": "数学名词",
+   "wordNumber": "011.0404",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "理论选择",
+   "en": "theory choice",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.061",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "科学家在相互竞争的理论中选择最可被接受的理论。"
+  },
+  {
+   "cn": "技术选择",
+   "en": "technological choice",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.089",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "决策者为了实现一定的经济、技术和社会目标，考虑系统内外客观因素的制约，对各种技术路线、技术方针、技术措施和技术方案进行分析比较，选取最佳方案的过程。"
+  },
+  {
+   "cn": "配偶选择",
+   "en": "mate choice",
+   "source": "行为医学名词",
+   "wordNumber": "3.229",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_社会遗传学",
+   "subjectName": "社会遗传学",
+   "publishYear": "2022",
+   "definition": "从众多的求偶者中选择配偶。通常是雌性选择雄性，因为雌性的生殖投资大于雄性，所以一般雄性是求偶者，但有少数例外。"
+  },
+  {
+   "cn": "社会选择",
+   "en": "social choice",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.171",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "将社会成员的偏好集结成为群体偏好的过程，也指个人价值与社会价值之间的协调结果。"
+  },
+  {
+   "cn": "公共选择",
+   "en": "public choice",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.206",
+   "subjectFullName": "城乡规划学_城乡规划总述_相关学科",
+   "subjectName": "相关学科",
+   "publishYear": "2021",
+   "definition": "由社会公众共同决定所属公共物品的分配、使用、转让等处置方式的行为与过程。"
+  },
+  {
+   "cn": "集体选择",
+   "en": "collective choice",
+   "source": "经济学名词",
+   "wordNumber": "05.011",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "各参与者依据某种协商规则，相互协商而确定集体行动方案的过程。它具备集体性、规则性、强制性和政治性的特点。"
+  },
+  {
+   "cn": "个人选择",
+   "en": "personal choice",
+   "source": "经济学名词",
+   "wordNumber": "05.012",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "每个人独立做出自觉自愿的决定。收益和风险均由该个人承担，且其决定不会影响他人，也不会受他人影响。"
+  },
+  {
+   "cn": "公共选择",
+   "en": "public choice",
+   "source": "经济学名词",
+   "wordNumber": "05.063",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "现代微观经济学的一个重要分支。其核心内容是，公共选择者(官员、政党、政府、选民等)的行为特征；不同规则下政治决策可能产生的结果；民主政治活动在现实生活中的运行方式以及如何来设计和选择一个能改善公共决策"
+  },
+  {
+   "cn": "社会选择",
+   "en": "social choice",
+   "source": "经济学名词",
+   "wordNumber": "05.070",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "研究个人与社会之间关系的理论。社会选择的基本问题：给定若干个备选方案作为决策范围，再给定有关的准则，要找出一种选择方法，该方法在某些方面应体现出上述准则。例如，我们要求它满足帕累托一致性条件。"
+  },
+  {
+   "cn": "知情选择",
+   "en": "informed choice",
+   "source": "计划生育名词",
+   "wordNumber": "01.030",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_计划生育国策",
+   "subjectName": "计划生育国策",
+   "publishYear": "2019",
+   "definition": "广义是指了解事情的内情后再做出选择。避孕方法知情选择是指公民在计划生育专业人员指导下，充分了解现行的各种避孕方法，结合自身情况，自主、自愿且负责任地选择适宜、安全、有效的避孕节育方法。"
+  },
+  {
+   "cn": "延迟选择",
+   "en": "delayed choice",
+   "source": "物理学名词",
+   "wordNumber": "06.0789",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "技术选择",
+   "en": "technology choice",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0217",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_技术管理",
+   "subjectName": "技术管理",
+   "publishYear": "2016",
+   "definition": "决策者为了实现既定的经济技术和社会目标，对多种技术路线、技术方针、技术措施和技术方案进行比较选优的过程。"
+  },
+  {
+   "cn": "职业生涯选择",
+   "en": "career choice",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0619",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "从自己的职业期望、职业理想出发，依据自己的兴趣、能力、特点等自身素质，从社会现有的职业中选择一种适合自己的职业。"
+  },
+  {
+   "cn": "职业选择",
+   "en": "occupational choice",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0591",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "个人对于就业的种类、方向的挑选和确定。"
+  },
+  {
+   "cn": "职业选择",
+   "en": "occupational choice",
+   "source": "心理学名词",
+   "wordNumber": "12.082",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "个体从自身职业期望、职业理想出发，依据自己的兴趣、能力、特征等素质条件，选择一种适合自己职业的过程。"
+  },
+  {
+   "cn": "道德选择",
+   "en": "moral choice",
+   "source": "教育学名词",
+   "wordNumber": "01.191",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "人们为达到某一道德目标而在多种道德可能性中作出自主取舍的行为取向和行为方式。"
+  },
+  {
+   "cn": "语言选择",
+   "en": "language choice",
+   "source": "语言学名词",
+   "wordNumber": "12.203",
+   "subjectFullName": "语言学_社会语言学_语言规划与语言教育",
+   "subjectName": "语言规划与语言教育",
+   "publishYear": "2011",
+   "definition": "选择通用语、官方语言或标准语的过程。"
+  },
+  {
+   "cn": "迫选,强迫选择",
+   "en": "forced choice",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择标准",
+   "en": "choice criteria",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "配偶选择",
+   "en": "mate choice",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "目的地选择",
+   "en": "destination choice",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "模板选择",
+   "en": "copy choice",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雌性选择",
+   "en": "female choice",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "选择行为",
+   "en": "choice behavior",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "具体情形",
+   "en": "concrete situations",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "天气形势",
+   "en": "synoptic situation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阻塞形势",
+   "en": "blocking situation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应激情境",
+   "en": "stressful situation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "资源态势",
+   "en": "resources situation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "情景演算",
+   "en": "situation calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交叉相遇局面",
+   "en": "crossing situation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "天气形势",
+   "en": "synoptic situation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "情境特质",
+   "en": "situational characteristic",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境线索",
+   "en": "situational cue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境测验",
+   "en": "situational test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境自我",
+   "en": "situational self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境动机",
+   "en": "situational motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择原则",
+   "en": "choice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "势",
+   "en": "Situation / Trend",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "态势感知",
+   "en": "situation awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of ends\",\"choice of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "守场员选杀",
+   "en": "fielder’s choice",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择发球权",
+   "en": "choice of service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择球篮",
+   "en": "choice of basket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络态势可视化",
+   "en": "network situation visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全态势分析",
+   "en": "cybersecurity situation analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全态势监管",
+   "en": "security situation supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of sides\",\"option of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融网络安全态势感知平台",
+   "en": "financial network security situation awareness platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正确大局观",
+   "en": "the correct perspective of overall situation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "形势积极向好",
+   "en": "The situation is witnessing positive changes.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆行者",
+   "en": "people who brave a dangerous situation ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "修辞立诚",
+   "en": "Establish Credibility Through Careful Choice of Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "素位而行",
+   "en": "Do What Is Proper for Your Situation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因势利导",
+   "en": "Exploit Favorable Situation to Pursue the Goal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会选择",
+   "en": "social choice",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "按一定的方式和规则将社会成员个人的偏好、意愿恰切地集结（或聚合）成社会性的偏好、意愿的过程。反映个人偏好与集体选择之间的关系。通常受文化传统、价值观念、模仿和从众心理等社会因素影响。典型的事例是投票选"
+  },
+  {
+   "cn": "择偶",
+   "en": "mate choice",
+   "source": "社会学名词",
+   "wordNumber": "3.1.3.2",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_婚姻制度",
+   "subjectName": "婚姻制度",
+   "publishYear": "2025",
+   "definition": "以缔结婚姻、组织家庭为目的的男女两性相互选择的行为。是双方的互动，而且其标准会随一定社会政治、经济状况及主导价值观念的变化而变化。"
+  },
+  {
+   "cn": "理性选择",
+   "en": "rational choice",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "理性人目标最优化或效用最大化，即理性人趋向于采取最优策略，以最小成本获得最大收益。"
+  },
+  {
+   "cn": "语言选择",
+   "en": "language choice",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0179",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "选用通用语、官方语言或标准语的过程。"
+  },
+  {
+   "cn": "道德选择",
+   "en": "moral choice",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.03",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "行为主体在一定目的和道德意识支配下，对某种道德行为所作出的自觉判断和取舍。"
+  },
+  {
+   "cn": "情境中心",
+   "en": "situation-centered",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0562",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美籍华裔人类学家许烺光（Francis L. K. Hsu）在论及中西文化及人际关系时提出的概念，与西方文化的“个人中心”相对，指中国人在人际关系中因相互依赖性而表现出的个体在群体中恰当的地位及行为模"
+  },
+  {
+   "cn": "市场状态",
+   "en": "market situation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取就业机会和有价物品的能力。最初由马克斯•韦伯提出，后经洛克伍德(David Lockwood）和戈德索普(John Goldthorpe）等人的细化和操作化，成为韦伯派阶级分析理论划分阶级位置"
+  },
+  {
+   "cn": "现状",
+   "en": "present situation",
+   "source": "马克思主义",
+   "wordNumber": "03.0205",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "目前的状况，是现有的自然界和社会现象所揭示的事物有规则的存在方式。"
+  },
+  {
+   "cn": "镶嵌式活动",
+   "en": "mosaic situation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "学习时大脑皮层部分区域为兴奋（工作）状态，另一部分为抑制（休息）状态的劳逸结合工作原则。随着学习性质的改变，皮层上的兴奋区与抑制区，工作区与休息区发生相互轮换。"
+  },
+  {
+   "cn": "粮情",
+   "en": "grain situation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.20",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "粮食在储藏时的状态以及影响其变化的各种因素。主要包括粮温、水分含量、储粮有害生物的种类及数量、粮堆气体成分及浓度等"
+  },
+  {
+   "cn": "言语交际情景",
+   "en": "situational context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0117",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "由话题、参与者、场所、社会背景等构成的言语交际活动的情况。"
+  },
+  {
+   "cn": "语境意义",
+   "en": "situated meaning",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0111",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "在具体语境条件下表达和传递的话语意义，一个话语单位的实际意义往往取决于所处的不同语境。语境可分文本上下文的小语境和语言社会文化背景的大语境。互动社会语言学认为话语和语境相互作用。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "社会选择理论",
+   "en": "social choice theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.23",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "研究社会成员的选择如何集合成集体的选择的理论。探讨个人价值与社会选择之间的冲突与一致的条件。经济学家阿罗(Kenneth J． Arrow)和森(Amartya K.Sen)是该领域的代表人物。"
+  },
+  {
+   "cn": "理性选择理论",
+   "en": "rational choice theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.10",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "以宏观的社会系统行为作为研究目标，以微观的个人行动作为研究的起点，以合理性说明有目的的行动的理论。其中，合理性是行动的基础，最大限度地获取收益是行动的原则，通过研究个人行动的结合如何产生制度结构，以及"
+  },
+  {
+   "cn": "公共选择理论",
+   "en": "public choice theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.12",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "以经济人本性作为政治行为和过程分析的基础的理论。以布坎南(James McGill Buchanan)为首的公共选择学派把经济人引入政治市场的分析所提出的理论观点。"
+  },
+  {
+   "cn": "两个大局",
+   "en": "two overall situations",
+   "source": "马克思主义",
+   "wordNumber": "03.0568",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一是沿海地区加快对外开放，较快地先发展起来，内地要顾全这个大局。另一个是沿海地区发展到一定时期，拿出更多的力量帮助内地发展，沿海地区也要顾全这个大局。"
+  },
+  {
+   "cn": "计划照射情况",
+   "en": "planned exposure situation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.1.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类",
+   "subjectName": "照射情况分类",
+   "publishYear": "2025",
+   "definition": "源的有计划操作或能造成源照射的有计划活动所导致的照射情况。由于在开始实施欲进行的活动前能够做好防护与安全预防措施，因此从一开始就能够限制相关照射和出现概率。"
+  },
+  {
+   "cn": "现存照射情况",
+   "en": "existing exposure situation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.1.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类",
+   "subjectName": "照射情况分类",
+   "publishYear": "2025",
+   "definition": "在需要做出采取控制措施的决定时已经存在的照射情况。包括应控制的天然本底辐射的照射；放射性残留物质的照射，这些放射性残留物质来自过去实践（它未曾受到过审管控制）或来自已宣布应急照射情况结束后的核或放射应"
+  },
+  {
+   "cn": "应急照射情况",
+   "en": "emergency exposure situation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.1.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类",
+   "subjectName": "照射情况分类",
+   "publishYear": "2025",
+   "definition": "作为事故、恶意行动或任何其他未预期事件的结果，并需要立即采取行动以避免或减轻其有害后果而发生的照射情况。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

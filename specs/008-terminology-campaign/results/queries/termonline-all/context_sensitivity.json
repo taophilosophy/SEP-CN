@@ -1,0 +1,782 @@
+{
+ "key": "context sensitivity",
+ "term": "context sensitivity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:05:14+00:00",
+ "status": "ok",
+ "note": "variant=context sensitivity; 审定公布名词库=2006; 海峡两岸名词对照库=523; 其他来源数据库=105; 预公布名词数据库=113; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "上下文敏感",
+   "en": "context-sensitive,context-aware",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.103",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "检索系统自动地对上下文内容、上下文变化及上下文历史进行感知和应用，以便为用户提供完成相关任务的信息和服务。是提高人机交互智能性的重要途径。"
+  },
+  {
+   "cn": "上下文有关文法",
+   "en": "context sensitive grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.172",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "乔姆斯基层级中的一种短语结构语法。其规则左部符号串的长度不大于规则右部符号串的长度。规则表示为：xUy::=xuy，其中U为非终结符号，x、y、u为符号串，且u非空。"
+  },
+  {
+   "cn": "上下文相关语言",
+   "en": "context sensitive language",
+   "source": "语言学名词",
+   "wordNumber": "01.138",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "形式语言的一种。是可以被上下文有关文法定义的形式语言。它是在理论和实践中都使用最少的语言。"
+  },
+  {
+   "cn": "上下文敏感文法",
+   "en": "context-sensitive grammar",
+   "source": "自动化名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "上下文有关语言",
+   "en": "context-sensitive language,CSL",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0481",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "由上下文有关文法产生的语言。"
+  },
+  {
+   "cn": "上下文有关文法",
+   "en": "context-sensitive grammar,CSG",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0480",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "乔姆斯基谱系中的1型文法。这种文法规定：产生式 α→β中，α和β都可以是由变量和终极符组成的串，但α的长度不能大于β的长度（即要求|α|≤|β| ）。"
+  },
+  {
+   "cn": "时量相关半衰期",
+   "en": "context sensitive half time",
+   "source": "麻醉学名词",
+   "wordNumber": "02.030",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "持续静脉输注某种药物一定时间后停药，药物血浆浓度下降50%所需要的时间。"
+  },
+  {
+   "cn": "时量相关半衰期",
+   "en": "context-sensitive half-time",
+   "source": "器官移植学名词",
+   "wordNumber": "08.004",
+   "subjectFullName": "器官移植学_器官移植麻醉学",
+   "subjectName": "器官移植麻醉学",
+   "publishYear": "2020",
+   "definition": "持续静脉输注某种药物一定时间后停药，药物血浆浓度下降50%所需要的时间。"
+  },
+  {
+   "cn": "背景",
+   "en": "context",
+   "source": "档案学名词",
+   "wordNumber": "06.01.018",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件所处的环境。文件的构成要素之一。文件的背景信息包括文件之间的相互关系、形成文件的业务活动、文件的技术环境等。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.122",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "构成事件、陈述、观念的背景的情境条件。它们据此才能得到完整的理解与评价。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.067",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "沟通行为或交往活动发生的环境或场合。为理解沟通行为与现象提供的背景和参照。"
+  },
+  {
+   "cn": "上下文",
+   "en": "context",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.101",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "位于关键词前部或后部的词句或文字。它是关键词所处的语言环境，影响关键词的含义。通过阅读上下文，有助于理解和鉴别某关键词所具有的准确含义和用法，判断文献是否相关。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0884",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "语言（自然语言或人工语言）上下文环境。它包括语言因素，也包括非语言因素（特别是当涉及自然语言的时候）。"
+  },
+  {
+   "cn": "情景",
+   "en": "context",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0385",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "事件发生时的背景、环境、时间、空间等因素。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "心理学名词",
+   "wordNumber": "02.798",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "话语等语言学信息与说话的场所等非语言信息提供的背景。"
+  },
+  {
+   "cn": "文脉",
+   "en": "context",
+   "source": "建筑学名词",
+   "wordNumber": "07.0324",
+   "subjectFullName": "建筑学_城乡规划_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2014",
+   "definition": "建筑与周围环境的关系。其形成在历史、社会、文化、时间等维度上存在着发展的连续性。"
+  },
+  {
+   "cn": "菌肉",
+   "en": "context",
+   "source": "微生物学名词",
+   "wordNumber": "03.305",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "层菌在担子果的上表面与子实下层或菌髓之间的菌丝组织。"
+  },
+  {
+   "cn": "上下文检索",
+   "en": "context search,context retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.102",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "一种嵌入上下文环境中的智能信息检索方法。允许用户通过提问扩展法不断选择和修正与提问有关的上下文属性值，而系统通过来自文档和用户反馈的上下文信息不断拓展和修正，形成与检索词相关的最佳匹配，直至将所需资源"
+  },
+  {
+   "cn": "菌肉",
+   "en": "context,flesh",
+   "source": "植物学名词",
+   "wordNumber": "05.0307",
+   "subjectFullName": "植物学_真菌学",
+   "subjectName": "真菌学",
+   "publishYear": "2019",
+   "definition": "层菌在担子果的上表面与子实层下层或菌髓之间的菌丝组织。"
+  },
+  {
+   "cn": "语境原理",
+   "en": "context principle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.314",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "不能探寻孤立语词的含义，语词的意义只能在句子中理解。一般认为源于弗雷格。"
+  },
+  {
+   "cn": "上下文有关文法",
+   "en": "context-sensitive grammar\",\"CSG",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上下文有关语言",
+   "en": "context-sensitive language\",\"CSL",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语境，上下文",
+   "en": "context",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "菌肉",
+   "en": "context\",\"flesh",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情境特殊性",
+   "en": "context specificity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境依赖",
+   "en": "context dependent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "上下文效应,语境效应，背景效应",
+   "en": "context effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地域背景",
+   "en": "areal context",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "服务器上下文（环境）",
+   "en": "server context",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "上下文切换",
+   "en": "context switch",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语境分析，上下文分析",
+   "en": "context analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语境机制",
+   "en": "context mechanism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度，敏感度",
+   "en": "sensitivity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "敏感度",
+   "en": "sensitivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度，敏感性",
+   "en": "sensitivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "敏感性",
+   "en": "sensitivity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "上下文无关语言",
+   "en": "context-free language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏感数据",
+   "en": "sensitive data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时间敏感网络",
+   "en": "time-sensitive networking (TSN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国防敏感信息",
+   "en": "national defense sensitive information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏感信息全生命周期管理",
+   "en": "full-lifecycle management of sensitive information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏感数据隔离交互层",
+   "en": "sensitive data isolation and interaction layer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子重力探测灵敏度世界纪录",
+   "en": "world record for quantum gravity detection sensitivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容法定",
+   "en": "statutory content",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无效比赛",
+   "en": "no contest",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛区",
+   "en": "contest area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛垫",
+   "en": "contest mat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停止比赛",
+   "en": "stop contest",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛时间",
+   "en": "contest time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接触！",
+   "en": "Contact!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "剑身接触",
+   "en": "contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接触",
+   "en": "contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背景图",
+   "en": "context chart",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "角色和群体间的相互关系构成的网络图形。用以表现个体行为所产生的组织背景。"
+  },
+  {
+   "cn": "文化语境",
+   "en": "cultural context",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "源于语言学及语义学分析，在文本与语境的关系中，特指个别文化事象置身其中、并赖以发生意义的整体性系统。"
+  },
+  {
+   "cn": "语境",
+   "en": "linguistic context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0106",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "影响语言发生变异的社会环境。也指言语交际活动所处的社会环境，包括情景和社会文化背景。研究语言变异不能离开具体的语言使用的社会环境，是社会语言学有别于一般语言学的一个特征。"
+  },
+  {
+   "cn": "民俗语境",
+   "en": "folklore context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0499",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民俗赖以生成和传演的环境以及赋予民俗以特殊意义的上下文关系。其中“上下文”既可以是一个民俗单元内的上下文，也可以是作为整体民俗与其他相关元素组成的结构关系。"
+  },
+  {
+   "cn": "言语交际情景",
+   "en": "situational context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0117",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "由话题、参与者、场所、社会背景等构成的言语交际活动的情况。"
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "反映探测系统探测视野内所发生事件的能力。一般用很低活度的放射源进行测定，用单位活度的辐射源所产生的计数率表示。"
+  },
+  {
+   "cn": "增敏剂",
+   "en": "sensitizer",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "一种不定期接触能够诱导免疫介导的超敏反应（包括过敏性光敏反应）的物质，并且再次接触该物质后超敏反应会更加明显。"
+  },
+  {
+   "cn": "敏感性检验",
+   "en": "sensitivity testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.10",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "按预先设定的评价基准，对样品的特性进行评定。用于选择或培训评价员，包括阈检验和稀释检验。"
+  },
+  {
+   "cn": "光敏性",
+   "en": "light sensitivity",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "某些电离辐射剂量计在辐照前后，表征辐射效应的某个量在光照（可见光或紫外光）作用下发生变化（增多或减少）的特性。这种特性多存在于一些无源剂量计，如热释光剂量计、化学剂量计等。"
+  },
+  {
+   "cn": "敏感",
+   "en": "immunity sensitivity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "机体对无害物质产生过敏反应。"
+  },
+  {
+   "cn": "亚硫酸盐敏感",
+   "en": "sulfite sensitivity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.5.4",
+   "subjectFullName": "食品卫生学_食源性疾病_其他食源性疾病",
+   "subjectName": "其他食源性疾病",
+   "publishYear": "2025",
+   "definition": "亚硫酸盐是食品中常见的漂白剂、防腐剂和抗氧化剂，由于食用含有该物质的食物而出现哮喘、过敏或其他异常反应的疾病。"
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "排除某个研究后，重新估计合并效应量，并与未排除前的荟萃分析结果进行比较，并对合并效应量的影响程度及结果稳健性进行分析的过程。"
+  },
+  {
+   "cn": "致敏",
+   "en": "sensitization, priming",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.20",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "以不足以使生物系统产生反应的少量刺激物作用于该系统，却能使其对特定的刺激物产生更为强大的生理响应的现象。如小剂量的脂质炎症因子提高炎细胞对炎症介质的敏感性，从而增强了炎性细胞的浸润和吞噬等功能。"
+  },
+  {
+   "cn": "敏感人群",
+   "en": "sensitive population",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.129",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "因暴露而容易受到不良健康影响的人群，包括儿童、孕妇及老人等"
+  },
+  {
+   "cn": "疾病的文化解释",
+   "en": "cultural context of illness",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "影响健康和疾病定义的具体的社会文化因素。现有的研究显示，文化差异会造成对疼痛、饥饿等客观生理现象的不同主观体验，也会造成对疾病的不同解释，以及对身体各个器官的重视程度的不同等。"
+  },
+  {
+   "cn": "放射敏感器官",
+   "en": "radiation sensitive organ",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "人体不同组织器官对放射的敏感性不同，通常骨髓、卵巢、睾丸、眼晶状体和甲状腺敏感，也是放射工作人员职业健康检查中重点关注的组织器官。"
+  },
+  {
+   "cn": "性别敏感政策",
+   "en": "gender-sensitive policies",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "具有社会性别意识和敏感性的公共政策。认为不同性别的生存与发展是由社会性别关系、社会性别权力、社会性别地位等决定的，因而不同性别有着不同的需求以及可能相冲突的利益点，需要充分评估和考察每一项政策显性和隐"
+  },
+  {
+   "cn": "致敏淋巴细胞",
+   "en": "primed lymphocyte，sensitized lymphocyte",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.2.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "经抗原初次刺激而发生克隆扩增的特异性T细胞和B细胞。"
+  },
+  {
+   "cn": "非乳糜泻麸质敏感",
+   "en": "non-celiac gluten sensitivity, NCGS",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.5.5",
+   "subjectFullName": "食品卫生学_食源性疾病_其他食源性疾病",
+   "subjectName": "其他食源性疾病",
+   "publishYear": "2025",
+   "definition": "在没有乳糜泻和小麦过敏的情况下，因摄入含谷蛋白食物而出现肠道和肠道外症状的一种疾病。"
+  },
+  {
+   "cn": "核探测器灵敏体积",
+   "en": "sensitive volume of nuclear detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "核辐射探测器中对核辐射灵敏，并用于探测的那部分体积。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

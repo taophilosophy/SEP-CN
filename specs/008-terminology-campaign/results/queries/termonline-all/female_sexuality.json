@@ -1,0 +1,742 @@
+{
+ "key": "female sexuality",
+ "term": "female sexuality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:15:24+00:00",
+ "status": "ok",
+ "note": "variant=female sexuality; 审定公布名词库=930; 海峡两岸名词对照库=223; 其他来源数据库=19; 预公布名词数据库=119; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "女性性功能障碍",
+   "en": "female sexual dysfunction",
+   "source": "男科及性医学名词",
+   "wordNumber": "18.054",
+   "subjectFullName": "男科及性医学_性反应与性功能",
+   "subjectName": "性反应与性功能",
+   "publishYear": "2023",
+   "definition": "女性性反应周期中的一个或多个环节发生障碍，或出现与性交有关的疼痛，以致不能产生满意性交所必需的性生理反应及性快感的疾病。主要包括女性性兴趣/性唤起障碍、女性性高潮障碍、生殖器-盆腔疼痛/插入障碍。"
+  },
+  {
+   "cn": "女性性功能障碍",
+   "en": "female sexual dysfunction",
+   "source": "计划生育名词",
+   "wordNumber": "04.065",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "由于缺乏正确的性知识及某些心理因素引起的性欲低下、阴道痉挛、性欲亢进、性厌恶及性唤起障碍等。"
+  },
+  {
+   "cn": "女性性唤起障碍",
+   "en": "female sexual arousal disorder",
+   "source": "行为医学名词",
+   "wordNumber": "12.036",
+   "subjectFullName": "行为医学_性行为及其障碍_性功能障碍",
+   "subjectName": "性功能障碍",
+   "publishYear": "2022",
+   "definition": "女性持续或反复无法达到或维持充分的性兴奋，并由此产生显著的心理痛苦及性伴侣关系方面的问题。"
+  },
+  {
+   "cn": "女性性唤起障碍",
+   "en": "female sexual arousal disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.277",
+   "subjectFullName": "精神医学_诊断分类_心理生理障碍",
+   "subjectName": "心理生理障碍",
+   "publishYear": "2019",
+   "definition": "女性在性活动过程中，从激发性冲动开始，直至性活动完全结束，仍部分或完全没有达到性兴奋的程度，也没有性兴奋时所具有的阴道润滑、生殖器充血肿胀等性兴奋的生理反应。即女性在整个性活动过程中没有性兴奋所引起的"
+  },
+  {
+   "cn": "女性性兴趣或性唤起障碍",
+   "en": "female sexual interest/arousal dysfunction;female sexual interest/arousal disorder",
+   "source": "男科及性医学名词",
+   "wordNumber": "21.001",
+   "subjectFullName": "男科及性医学_女性性功能障碍",
+   "subjectName": "女性性功能障碍",
+   "publishYear": "2023",
+   "definition": "女性持续或反复出现的性幻想、性行为欲望的显著降低或缺乏，或无法获得或维持足够的性兴奋，引起显著的痛苦或人际方面的困难的性功能障碍。"
+  },
+  {
+   "cn": "女性性功能指数",
+   "en": "female sexual function index;FSFI",
+   "source": "男科及性医学名词",
+   "wordNumber": "21.006",
+   "subjectFullName": "男科及性医学_女性性功能障碍",
+   "subjectName": "女性性功能障碍",
+   "publishYear": "2023",
+   "definition": "主要用于评估过去 4 周内异性恋女性性功能情况（包括性欲、性唤起、阴道的润滑度、性高潮、性生活满意度和性交疼痛）的一种自评量表。一般认为中国城市女性总分低于23.45分时患有性功能障碍，分数越低，性功"
+  },
+  {
+   "cn": "性素质",
+   "en": "sexuality",
+   "source": "男科及性医学名词",
+   "wordNumber": "01.007",
+   "subjectFullName": "男科及性医学_学科概论",
+   "subjectName": "学科概论",
+   "publishYear": "2023",
+   "definition": "一切与性相关的生物、心理、社会、伦理等多元素的集合。是一个整体性的多维概念。"
+  },
+  {
+   "cn": "性别",
+   "en": "sexuality",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.010",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "个体遗传和结构的性特征差异。"
+  },
+  {
+   "cn": "性蚜",
+   "en": "sexuale",
+   "source": "昆虫学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "昆虫学_昆虫发育与生活史",
+   "subjectName": "昆虫发育与生活史",
+   "publishYear": "2000",
+   "definition": "进行两性生殖的雄蚜和雌蚜。"
+  },
+  {
+   "cn": "有性雌蚜",
+   "en": "amphigonic female,gamic female",
+   "source": "昆虫学名词",
+   "wordNumber": "05.113",
+   "subjectFullName": "昆虫学_昆虫发育与生活史",
+   "subjectName": "昆虫发育与生活史",
+   "publishYear": "2000",
+   "definition": "行两性生殖的雌蚜，一般无翅。"
+  },
+  {
+   "cn": "女性假两性畸形",
+   "en": "female pseudohermaphroditism",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.158",
+   "subjectFullName": "性腺疾病_女性内分泌及相关疾病_女性内分泌相关疾病",
+   "subjectName": "女性内分泌相关疾病",
+   "publishYear": "2025",
+   "definition": "染色体核型为46，XX，具有正常发育的卵巢、子宫和输卵管的个体，外生殖器的分化呈男性化倾向，且具有完全或不完全的男性第二性征的两性畸形。先天性肾上腺皮质增生和21-羟化酶缺陷是其最常见原因。此外，女性"
+  },
+  {
+   "cn": "母本",
+   "en": "female parent",
+   "source": "农学名词",
+   "wordNumber": "06.149",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "杂交时提供雌配子的亲本。"
+  },
+  {
+   "cn": "雌性不育",
+   "en": "female sterility",
+   "source": "农学名词",
+   "wordNumber": "06.254",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "植物雌蕊发育不正常且不能受精结实引起的不育现象。"
+  },
+  {
+   "cn": "女同性恋",
+   "en": "female homosexuality",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.017",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "只对同是女性的成员持续表现性爱的倾向。是性取向的一种。"
+  },
+  {
+   "cn": "雌原核",
+   "en": "female pronucleus",
+   "source": "兽医学名词",
+   "wordNumber": "07.051",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "减数分裂完成后的卵细胞的细胞核。只含有该物种染色体含量的一半遗传物质。"
+  },
+  {
+   "cn": "女用避孕套",
+   "en": "female condom",
+   "source": "生殖医学名词",
+   "wordNumber": "7.025",
+   "subjectFullName": "生殖医学_生殖调控",
+   "subjectName": "生殖调控",
+   "publishYear": "2022",
+   "definition": "用聚氨酯或乳胶制成的一种柔软、宽松袋状物。长15～17cm，开口处连接一直径为7cm的柔韧环，套内游离一直径为6.5cm的内环。内环封闭，使用时内环置于阴道内6～9cm处，外环覆盖外阴，阻隔精子通过阴"
+  },
+  {
+   "cn": "女性阅读",
+   "en": "female reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.004",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "成年女性阅读符合女性思维方式、认知心理，有一定女性主义倾向或立场的读物的行为。"
+  },
+  {
+   "cn": "阴模成型",
+   "en": "female molding",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0959",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "片材受热软化后，凹模抽真空，大气压与真空的压力差使片材被拉伸而紧贴在凹模型腔上成型的一种真空成型方法。"
+  },
+  {
+   "cn": "女性不孕症",
+   "en": "female infertility",
+   "source": "行为医学名词",
+   "wordNumber": "17.165",
+   "subjectFullName": "行为医学_相关行为疾病_妇科相关行为疾病",
+   "subjectName": "妇科相关行为疾病",
+   "publishYear": "2022",
+   "definition": "由女性自身原因导致的不孕症状。通常为未采取避孕措施、正常同居2年以上、有正常性生活而未妊娠的症状。"
+  },
+  {
+   "cn": "阴转子",
+   "en": "female rotor",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.0089",
+   "subjectFullName": "化工（八）_化工机器_压缩机",
+   "subjectName": "压缩机",
+   "publishYear": "2021",
+   "definition": "双螺杆压缩机具有一对互相啮合、相反旋向的螺旋形齿转子，其齿面凹下的转子。"
+  },
+  {
+   "cn": "性别",
+   "en": "sexuality",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "性蚜",
+   "en": "sexuale",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "有性雌蚜",
+   "en": "amphigonic female\",\"gamic female",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "雌原核",
+   "en": "female pronucleus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "女性假两性畸形，女性假两性同体",
+   "en": "female pseudohermaphroditism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "女性假两性同体（=女性假两性畸形）",
+   "en": "female pseudohermaphroditism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "女性尿道",
+   "en": "female urethra",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "女阴",
+   "en": "female pudendum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "超雌性",
+   "en": "super-female",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雌配子",
+   "en": "female gamete",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雌球果",
+   "en": "female cone",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雌性不育",
+   "en": "female sterility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雌枝",
+   "en": "female branch",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雌配子",
+   "en": "female gamete",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雌配子",
+   "en": "female gamete",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雌[性]原核",
+   "en": "female pronucleus",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雌性品系",
+   "en": "female strain",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阴接触件",
+   "en": "female contact",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "雌性选择",
+   "en": "female choice",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "雌原核",
+   "en": "female pronucleus",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "女运动员",
+   "en": "female competitor",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女运动员",
+   "en": "female gymnast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平等",
+   "en": "Equality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平等权",
+   "en": "right of equality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宗庙",
+   "en": "Ancestral Temple",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "均无贫",
+   "en": "With Equality, There Is No Poverty.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大收煞",
+   "en": "The Grand Finale",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "粪口传播",
+   "en": "fecal-oral transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "庙号",
+   "en": "Temple Titles of Emperors",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "男运动员",
+   "en": "male competitor",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男运动员",
+   "en": "male gymnast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《移动通信转售企业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Mobile Communication Resale Enterprises (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《智能时代：大数据与智能革命重新定义未来》（〔中〕吴军）",
+   "en": "Age of Intelligence: How Big Data and Intelligence Revolution Remake the Future (Wu Jun, China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "女童性虐待",
+   "en": "sexual abuse towards female child",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.1.7",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_女童期保健",
+   "subjectName": "女童期保健",
+   "publishYear": "2025",
+   "definition": "强迫女童接受与性活动有关的行为，其严重程度可从抚摸到伴有躯体伤害的强制性性侵犯。包括儿童被迫卖淫和参演色情作品。"
+  },
+  {
+   "cn": "女性第二性征发育",
+   "en": "female secondary sexual characteristics development",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.2.2.6",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_青春期保健",
+   "subjectName": "青春期保健",
+   "publishYear": "2025",
+   "definition": "生殖器官以外的女性所特有的外部特征，表现为音调较高，乳房丰满而隆起，阴毛呈倒三角形，骨盆横径大于前后径，胸部、肩部的皮下脂肪更多，显现出女性特有的体态等。一般进入青春期后出现。"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的女性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "女性文化",
+   "en": "female culture",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.9",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "女性群体特有的文化形式，能够反映女性气质、心理特征和思维方式的各种行为方式、价值理念和风俗习惯等。"
+  },
+  {
+   "cn": "妇女问题",
+   "en": "female problem",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.54",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "妇女因其性别而在经济、政治、社会和家庭省会中遇到的各种特殊障碍，导致她们在个人和家庭生活质量，以及在教育、就业、收入和社会政治参与等方面普遍存在劣势的问题。"
+  },
+  {
+   "cn": "女童期",
+   "en": "female childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_女童期保健",
+   "subjectName": "女童期保健",
+   "publishYear": "2025",
+   "definition": "女性从出生到青春期前的生命阶段。世界卫生组织定义为0至9岁。"
+  },
+  {
+   "cn": "女性青春期",
+   "en": "female adolescence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_青春期保健",
+   "subjectName": "青春期保健",
+   "publishYear": "2025",
+   "definition": "由女童期向性成熟期过渡的一段快速生长发育时期。即从乳房等第二性征开始发育至生殖器官逐渐成熟，获得生殖能力的生命阶段。世界卫生组织定义为10至19岁。"
+  },
+  {
+   "cn": "女用避孕套",
+   "en": "female condom",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.1.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由聚氨酯或乳胶制成的柔软、宽松袋状物。性交前置于女性阴道内，覆盖整个阴道内壁和外阴，阻隔精子进入阴道，具有避孕和预防性传播疾病和艾滋病的双重保护作用。"
+  },
+  {
+   "cn": "女性绝育术",
+   "en": "female sterilization",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "通过阻断输卵管、阻止精卵相遇而达到永久性避孕目的的手术。可以通过腹腔镜下切除，或用夹子、环套、药物黏堵以闭塞输卵管，或电凝输卵管，或经小切口开腹手术行输卵管阻断。此方法高效但不可逆，失败率大约为0.1"
+  },
+  {
+   "cn": "女性不孕",
+   "en": "female infertility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.5",
+   "subjectFullName": "妇幼卫生学名词_生育调节_女性不孕",
+   "subjectName": "女性不孕",
+   "publishYear": "2025",
+   "definition": "育龄妇女有正常性生活并未采取避孕措施12个月后未妊娠的生育障碍。"
+  },
+  {
+   "cn": "女书",
+   "en": "Female script",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.037",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "中国湖南省江永县瑶族农家女性历史上流传的一种斜体汉字形态，记录的语言为汉语湘南土语。"
+  },
+  {
+   "cn": "性传播",
+   "en": "sexual transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过与异性或同性感染者性行为导致感染的过程。"
+  },
+  {
+   "cn": "性政治",
+   "en": "sexual politics",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "激进女性主义将个人生活政治化的一个基本概念，源自美国女权主义者米利特(Kate Millett）1970年出版的同名著作，认为与性相关的各个层面包括性意识、性关系、性身份等都是性别不平等的政治体现，是"
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "推动人对异性（有时是同性）发生兴趣、进行求偶和性行为活动的一种内在力量。当人的身体发育到某种程度时，由于性机能的成熟与作用，在性激素的刺激下产生对性的需求及性行为活动。"
+  },
+  {
+   "cn": "性爱",
+   "en": "sexual love",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "以性欲为基础的对异性（有时是同性）的倾慕、亲近的感情，是爱情的一个必不可少的成分。性爱一般具有排他性、冲动性、直觉性和隐蔽性的特点。"
+  },
+  {
+   "cn": "性骚扰",
+   "en": "sexual harassment",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "通过语言、动作等对他人实施的一种不受欢迎的带有性意图的行为。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "一个人倾向于和同性还是异性发生性行为。一般包括异性恋取向、同性恋取向和双性恋取向。"
+  },
+  {
+   "cn": "性少数族群",
+   "en": "sexual minorities",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.2",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "在性取向和性行为方面与主流文化的社会性别或性规范不符合的群体。包括同性恋、双性恋、易装者、易性者等。"
+  },
+  {
+   "cn": "恋物",
+   "en": "sexual fetishism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.9",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "把无生命的物品或他人身上的非性感部分作为对象以引起性兴奋的性活动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

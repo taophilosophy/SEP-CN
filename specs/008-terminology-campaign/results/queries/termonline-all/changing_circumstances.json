@@ -1,0 +1,812 @@
+{
+ "key": "changing circumstances",
+ "term": "changing circumstances",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:07:02+00:00",
+ "status": "ok",
+ "note": "variant=changing circumstances; 审定公布名词库=760; 海峡两岸名词对照库=200; 其他来源数据库=88; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "变更",
+   "en": "change",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.030",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "人员、物料、管理、工艺、技术、设施、标准等永久性或暂时性的变化。"
+  },
+  {
+   "cn": "变更",
+   "en": "change",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0192",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_整体管理",
+   "subjectName": "整体管理",
+   "publishYear": "2016",
+   "definition": "实施过程中出现的需要修正的偏差。"
+  },
+  {
+   "cn": "变化",
+   "en": "change",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.014",
+   "subjectFullName": "放射医学与防护_放射生物学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "辐射照射引起的轻微效应。其可能有害，也可能无害。"
+  },
+  {
+   "cn": "特殊情况",
+   "en": "special circumstances",
+   "source": "航海科技名词",
+   "wordNumber": "09.0159",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "气候环境",
+   "en": "climatic circumstance ",
+   "source": "草学名词",
+   "wordNumber": "3.0507",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "噪声环境",
+   "en": "noise circumstance",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0370",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "地震监测设施、地震台与地震观测场地周围环境的地噪声。 "
+  },
+  {
+   "cn": "气候环境",
+   "en": "climatic circumstance",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.048",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "存在于地球上人类活动空间的气候条件。"
+  },
+  {
+   "cn": "退行性变化",
+   "en": "regressive change,degrenerative change",
+   "source": "水产名词",
+   "wordNumber": "07.034",
+   "subjectFullName": "水产_水产生物病害及防治",
+   "subjectName": "水产生物病害及防治",
+   "publishYear": "2002",
+   "definition": "组织细胞发生的变性、坏死等病理改变。"
+  },
+  {
+   "cn": "做青",
+   "en": "color changing",
+   "source": "农学名词",
+   "wordNumber": "17.259",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "摇青和晾青多次反复交替进行的统称。"
+  },
+  {
+   "cn": "换订",
+   "en": "changing subscription",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.098",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "因某种原因，订户到邮局申请更换订阅的行为。"
+  },
+  {
+   "cn": "变速",
+   "en": "speed changing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0005",
+   "subjectFullName": "机械工程（一）_传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "运动部件从某一速度变换为另一速度的过程。"
+  },
+  {
+   "cn": "换色",
+   "en": "color changing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.199",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_涂料涂装",
+   "subjectName": "涂料涂装",
+   "publishYear": "2021",
+   "definition": "喷涂过程中从喷涂一种颜色的涂料变换为喷涂另一种颜色涂料的过程。"
+  },
+  {
+   "cn": "体位变换",
+   "en": "changing position",
+   "source": "消化内镜学名词",
+   "wordNumber": "4.057",
+   "subjectFullName": "消化内镜学_消化内镜管理_患者管理",
+   "subjectName": "患者管理",
+   "publishYear": "2021",
+   "definition": "内镜诊疗过程中，根据病情或操作部位需要，患者配合变换不同的体位。"
+  },
+  {
+   "cn": "换辊",
+   "en": "roll changing",
+   "source": "冶金学名词",
+   "wordNumber": "09.0666",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "更换轧辊的过程。轧制一定吨位后，轧辊因磨损太大，需要重车或重磨，甚至报废，此时须更换轧辊。"
+  },
+  {
+   "cn": "变轨",
+   "en": "orbit changing",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.236",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "换板",
+   "en": "changing plate",
+   "source": "航海科技名词",
+   "wordNumber": "08.0493",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "队形变换",
+   "en": "changing formation",
+   "source": "航海科技名词",
+   "wordNumber": "05.0048",
+   "subjectFullName": "航海科学技术_军事航海",
+   "subjectName": "军事航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "气候变化",
+   "en": "climatic change",
+   "source": "地质学名词",
+   "wordNumber": "08.02.070",
+   "subjectFullName": "地质学_第四纪地质学_第四纪冰期与古气候",
+   "subjectName": "第四纪冰期与古气候",
+   "publishYear": "2026",
+   "definition": "气候平均状态在统计学意义上的巨大改变或持续较长一段时间(数千年尺度)的气候变动。"
+  },
+  {
+   "cn": "林线变化",
+   "en": "timberline change",
+   "source": "地质学名词",
+   "wordNumber": "08.03.009",
+   "subjectFullName": "地质学_第四纪地质学_第四纪古生态学",
+   "subjectName": "第四纪古生态学",
+   "publishYear": "2026",
+   "definition": "高纬度或高山地区由于低温(月平均气温最高在7℃以下)和风及土壤等条件变化导致的森林界限变化。"
+  },
+  {
+   "cn": "气候变化",
+   "en": "climate change",
+   "source": "农学名词",
+   "wordNumber": "13.225",
+   "subjectFullName": "农业气象_气候变化与农业",
+   "subjectName": "气候变化与农业",
+   "publishYear": "2025",
+   "definition": "长时期内，气候演变、气候变迁、气候振动与气候振荡的统称。"
+  },
+  {
+   "cn": "特殊情况",
+   "en": "special circumstances",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "换音",
+   "en": "changing note",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "队形变换",
+   "en": "changing formation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "换板",
+   "en": "changing plate",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "气候变化",
+   "en": "climatic change",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球变化",
+   "en": "global change",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "季节变化",
+   "en": "seasonal change",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝热变化",
+   "en": "adiabatic change",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平流变化",
+   "en": "advective change",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候变化",
+   "en": "climatic change",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相变",
+   "en": "phase change",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "化学变化",
+   "en": "chemical change",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "性质变化",
+   "en": "property change",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可逆变化",
+   "en": "reversible change",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负荷变动",
+   "en": "load change",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "熵变化",
+   "en": "entropy change",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "变化盲",
+   "en": "change blindness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格改变",
+   "en": "personality change",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "态度改变",
+   "en": "attitude change",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "变换鸣钟法",
+   "en": "change-ringing",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "变化",
+   "en": "Change",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "换靶",
+   "en": "target changing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换靶",
+   "en": "target changing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调换队员",
+   "en": "crew change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换握",
+   "en": "grip change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变速",
+   "en": "change gear",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变节奏",
+   "en": "change pace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换车轮",
+   "en": "wheel change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变换击打",
+   "en": "change-beat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变方向",
+   "en": "change direction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change ends\",\"change of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change ends\",\"change of ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change of court\",\"change sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情节提取",
+   "en": "circumstance retrieval and reorganization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "穷则变，变则通，通则久",
+   "en": "Extreme –Change –Continuity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据变更追溯",
+   "en": "data change traceability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变迁",
+   "en": "change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.3",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "描述一切事物的运动变化，而不强调其目的或方向。"
+  },
+  {
+   "cn": "人口变动",
+   "en": "demographic change,population change",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.1",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口状况受社会、经济、人口自身等各方面因素的影响，随着时间的推移而不断发生变动。人口变动可分为自然变动、迁移变动和社会变动，它们分别反映人口变动过程的不同侧面。"
+  },
+  {
+   "cn": "可视变化",
+   "en": "visible change",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "指示物暴露于一个或多个过程关键变量后，肉眼可观测到的变化。"
+  },
+  {
+   "cn": "社会变迁",
+   "en": "social change",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "社会的结构性变动。"
+  },
+  {
+   "cn": "内生变迁",
+   "en": "endogenuous change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.41",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "根源于内部因素的演变及其互动而产生的制度变迁。在此，制度变迁被看作社会发展的内在结果，外部条件（例如人口和环境）的变化只有通过内部因素的影响才能加速或延缓制度的变迁过程。"
+  },
+  {
+   "cn": "外生变迁",
+   "en": "exogenuous change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.42",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "由一些不属于制度的外部社会因素变化引起的具体制度的变迁。这些因素是在长期演化过程中累积而成的，可以是经济的，也可以是政治的、军事的、乃至观念的，如人口的增长和迁移、技术的进步、宗教的兴起和文化的传播等"
+  },
+  {
+   "cn": "态度改变",
+   "en": "attitude change",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "一个人已经形成的态度在接受某一信息后所发生的相应变化的过程。一种是一致性的改变，指方向不变而仅仅改变原来态度的强度，如由微弱态度变为强烈的态度。另一种是不一致的改变，指以性质相反的新态度取代原有旧态度"
+  },
+  {
+   "cn": "文化变迁",
+   "en": "cultural change",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "社会的文化模式发生变化的现象。此概念针对“文化模式”和“平衡论”失去活力或平衡的现象而言，其机制分为内部变迁（如发明和革新）与外部变迁（如征服和灾害）。"
+  },
+  {
+   "cn": "质变",
+   "en": "qualitative change",
+   "source": "马克思主义",
+   "wordNumber": "01.0077",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量变”相对。事物根本性质发生的突变，即一种质态向另一种质态的飞跃，事物发展渐进过程中的中断。它是事物的内部矛盾引起的，是量变发展到一定阶段的必然产物。质变是事物发展的关键环节。通过质变，旧事物灭亡"
+  },
+  {
+   "cn": "量变",
+   "en": "quantitive change",
+   "source": "马克思主义",
+   "wordNumber": "01.0082",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“质变”相对。事物在数量上的增加或减少，场所改变等方面的变化。是事物运动的基本状态之一。量变的形式是多样的，可以概括为两个基本形式：一是数量上的增减；二是构成事物的要素在排列次序和结构形式上的改变。"
+  },
+  {
+   "cn": "语言演变",
+   "en": "language change",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0103",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言随着时间推移、社会变迁而发生的语音、词汇、语法等结构变化，即语言的历时变化。"
+  },
+  {
+   "cn": "甲顶针样改变",
+   "en": "nail thimble change",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.2.14",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "银屑病出现的指甲顶针样凹陷（>10个/甲）。最多可见于80%的银屑病关节炎患者。"
+  },
+  {
+   "cn": "民俗文化变迁",
+   "en": "folk culture changes",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0024",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "有广义和狭义之分。广义的民俗文化变迁泛指整个社会民俗文化的变化，它既指整体民俗文化变化的过程，又指整体民俗文化变化的结果；狭义的民俗文化变迁，特指某群体民俗文化事项的内部结构或功能等的变化，它既指某群"
+  },
+  {
+   "cn": "社会变迁理论",
+   "en": "theory of social change",
+   "source": "社会学名词",
+   "wordNumber": "2.9.5.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁理论",
+   "subjectName": "社会变迁理论",
+   "publishYear": "2025",
+   "definition": "研究社会结构性变动的动力、模式或类型等问题的理论。"
+  },
+  {
+   "cn": "人口自然变动",
+   "en": "natural change of population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "由出生和死亡所引起的人口数量的增减和人口年龄、性别构成变化的过程。"
+  },
+  {
+   "cn": "人口机械变动",
+   "en": "mechanical changes of popualtion",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.3",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口在空间位置上的一切移动。从广义上讲，包括改变定居地点的永久性移动，也包括临时寄居和暂时移动；从狭义上讲，仅指改变常住地址的永久性移动。"
+  },
+  {
+   "cn": "转变经济发展方式",
+   "en": "change the growth model",
+   "source": "马克思主义",
+   "wordNumber": "03.0701",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "经济增长的方式由不可持续性向可持续性转变；由粗放型向集约型转变；由出口拉动向出口、消费、投资协调发展转变；由结构失衡型向结构均衡型转变；由高碳经济型向低碳经济型转变；由投资拉动型向技术进步型转变；由技"
+  },
+  {
+   "cn": "身体比例变化",
+   "en": "change of body proportion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "身体发育过程中头占身长（身高）的比例、上肢占身长（身高）的比例、坐高占身长（身高）的比例和腰臀比、腰高比、肩宽／骨盆宽的变化。"
+  },
+  {
+   "cn": "组织改变理论模型",
+   "en": "theory of organizational change",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "通过人群所在组织的改变、规章制度和管理模式的完善，实现对组织内的全体人群的干预的理论。"
+  },
+  {
+   "cn": "跨理论模型",
+   "en": "stages of change theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "普罗查斯卡（Prochaska）和狄克莱门特（DiClemente）针对个体行为变化的不同阶段而提出的，指导人们根据行为转变的特定阶段采取针对性健康干预策略的综合性理论。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

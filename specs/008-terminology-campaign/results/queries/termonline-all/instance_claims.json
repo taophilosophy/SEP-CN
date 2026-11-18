@@ -1,0 +1,732 @@
+{
+ "key": "instance claims",
+ "term": "instance claims",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:10:29+00:00",
+ "status": "ok",
+ "note": "variant=instance claims; 审定公布名词库=1300; 海峡两岸名词对照库=537; 其他来源数据库=129; 预公布名词数据库=225; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0302",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）由一个类所描述和创建的对象。（2）由一个类型刻画的数据集合中的一个元素。"
+  },
+  {
+   "cn": "工作流实例",
+   "en": "workflow instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0164",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "按工作流模式的一次实际运行。"
+  },
+  {
+   "cn": "流程实例",
+   "en": "process instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0156",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "工作流技术中，在流程执行时根据流程定义而创建的流程运行实例。"
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.465",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "某种实体的一个具体的例子。"
+  },
+  {
+   "cn": "索赔",
+   "en": "claims",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.154",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "索赔",
+   "en": "claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0331",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_费用管理",
+   "subjectName": "费用管理",
+   "publishYear": "2016",
+   "definition": "合同当事人的一方因对方未履行或不能正确履行义务而受到损失时，向对方提出的赔偿要求。"
+  },
+  {
+   "cn": "索赔",
+   "en": "claim",
+   "source": "水利科学技术名词",
+   "wordNumber": "09.200",
+   "subjectFullName": "水利科学技术_水利工程施工_施工管理（水利）",
+   "subjectName": "施工管理（水利）",
+   "publishYear": "1997",
+   "definition": "在工程承包合同执行过程中，由于合同当事人双方的某一方负责的原因给另一方造成经济损失或工期延误，通过合法程序向对方要求补偿或赔偿的活动。"
+  },
+  {
+   "cn": "基于示例的学习",
+   "en": "instance-based learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0230",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "根据存储的训练样本直接对新样本进行赋值的机器学习过程， k 近邻分类器为典型代表。"
+  },
+  {
+   "cn": "多示例学习",
+   "en": "multi-instance learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0227",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "每个训练样本是一个由多个标记未知的实例组成的集合，称为“包”,若包中至少包含一个正例，则该包为正包，否则即为反包；学习的目的是预测新包的类别。"
+  },
+  {
+   "cn": "保险索赔",
+   "en": "insurance claim",
+   "source": "航海科技名词",
+   "wordNumber": "13.0188",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "货运索赔",
+   "en": "freight claims",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.225",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "客运索赔",
+   "en": "passenger claims",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.114",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "营养声称",
+   "en": "nutrition claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0453",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "对食品营养相关特性的描述和说明，如能量水平、蛋白质含量水平、钠含量水平等。其中包括含量声称和比较声称。"
+  },
+  {
+   "cn": "含量声称",
+   "en": "content claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0454",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "有关食品中能量或营养成分含量水平的描述和说明。相关声称用语包括“含有”“高”“低”“无”等。"
+  },
+  {
+   "cn": "比较声称",
+   "en": "comparative claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0455",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "与消费者熟知的同类食品的营养成分含量或能量值进行比较之后的声称。相关声称用语包括“增加”或“减少”等。"
+  },
+  {
+   "cn": "属性声称",
+   "en": "property claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0456",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "对食品营养属性的声称,如强化、多维、脱脂、瘦等。"
+  },
+  {
+   "cn": "健康声称",
+   "en": "health claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0458",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "任何叙述、建议或暗示在某个食品种类、某种食品或其成分之一与健康之间存在某种关系的声称。"
+  },
+  {
+   "cn": "声明期",
+   "en": "claim period",
+   "source": "林学名词",
+   "wordNumber": "06.429",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "对某一特定的产品或产品组，企业为了使用认证标识或做出认证声明而确定的计算认证原料滚动百分比的时间期限。其最长期限为12个月。"
+  },
+  {
+   "cn": "费用索赔",
+   "en": "fee claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0799",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "根据承建合同的约定，合同一方因另一方原因造成本方经济损失，通过监理机构向对方索取费用的活动。"
+  },
+  {
+   "cn": "工程拖期索赔",
+   "en": "delay claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0418",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "承包商向业主提出的，由于业主、咨询工程师或客观原因导致其花费了较原计划更长的时间和更大的开支，而要求补偿其损失的要求。"
+  },
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "例图",
+   "en": "instance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基于实例[的]学习",
+   "en": "instance-based learning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保险索赔",
+   "en": "insurance claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险索赔",
+   "en": "insurance claim",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "估损人",
+   "en": "claims assessor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "拒赔",
+   "en": "claims rejected",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不良债权",
+   "en": "bad claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "估损人",
+   "en": "claim assessor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际间的债权",
+   "en": "international claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合理的索赔",
+   "en": "legitimate claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币债权",
+   "en": "money claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融债权",
+   "en": "financial claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "理赔",
+   "en": "claim settlement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "市场索赔",
+   "en": "market claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔代理人",
+   "en": "claim agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔单证",
+   "en": "claim document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔金额",
+   "en": "claim amount",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔清单",
+   "en": "claim note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数字化核赔",
+   "en": "digital claims appraisal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长跑运动员",
+   "en": "distance man\",\"long-distance runner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马步",
+   "en": "horse stance\",\"riding stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保证保险",
+   "en": "guaranteed insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网保险",
+   "en": "IoT insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网保险",
+   "en": "Internet insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色保险",
+   "en": "green insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "巨灾保险",
+   "en": "catastrophe insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "营养声称",
+   "en": "nutrition claim",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.36",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "对食品营养特性的描述和说明，营养声称包括含量声称和比较声称。"
+  },
+  {
+   "cn": "食品真实属性声称",
+   "en": "food authenticity claim",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.12",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在食品标签或销售包装上，对食品的原料、配料、品种、规格、质量、等级、产地等可以判断真假的属性进行的声明和公示。"
+  },
+  {
+   "cn": "营养成分功能声称",
+   "en": "function claim of nutrients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.3",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "严格采用标准用语对某营养成分可以维持人体正常生长、发育和正常生理功能等作用进行的描述和声明。"
+  },
+  {
+   "cn": "损害索赔权",
+   "en": "right to claim damage",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.032",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者在就医过程中因医疗机构及其医务人员过错而权益受损时，享有的获得经济赔偿的权利。"
+  },
+  {
+   "cn": "保健食品功能声称",
+   "en": "function claim of health food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.4",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "严格采用标准用语对保健食品的保健功能进行描述和声明，并在食品标签上进行标注。包括营养素补充剂功能声称和非营养素补充剂功能声称。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方声称",
+   "en": "claims of formula of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.11",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "采用标准用语对婴幼儿配方乳粉产品适用月龄和/或配方中使用的原料来源进行描述和声明，并在食品标签上进行标注，但不得涉及疾病防治、保健益智等内容。"
+  },
+  {
+   "cn": "距离比例",
+   "en": "distance scale",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.10.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以终点稀释法观察细胞病变时用来计算半数组织细胞感染量的数值。即大于50%的病变率与50的差值除以大于50%的病变率与小于50%病变率的差值。"
+  },
+  {
+   "cn": "距离防护",
+   "en": "distance protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "采取尽可能远离辐射源或散射体的方法以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "社会本能",
+   "en": "social instinct",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类在长期共同生活中通过进化形成的、不学就会的种种进行共同生活的本性和能力。如道德心、民族情感、群体意识（合群性）、同胞友爱等。"
+  },
+  {
+   "cn": "角色距离",
+   "en": "role distance",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色的理解或其在扮演该角色时的行为表现，与该角色的社会行为规范或角色期待之间的距离。当个体对该角色的理解与角色规范、角色期待产生距离时，个体易于产生对该角色的消极抵抗。"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在公共场合的空间需求，是人际交往距离中约束感最弱的距离。除了在公共汽车、电梯等特定场合外，其范围一般都在3米以外，如公共场合中演讲者和台下听众，教室里老师和学生，舞台上演员和观众，以及在散步、行走"
+  },
+  {
+   "cn": "社会保险",
+   "en": "social insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "一般由政府依法主办，国家、社会、雇主和个人共同承担责任的一种社会和经济保障制度。强制将被保险人的部分收入按比例作为社会保险税（费）形成社会保险基金。在满足一定条件下，被保险人可获得固定收入或损失补偿。"
+  },
+  {
+   "cn": "养老保险",
+   "en": "endowment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.3.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_养老保险",
+   "subjectName": "养老保险",
+   "publishYear": "2025",
+   "definition": "国家或政府通过立法，以权利与义务一致性为原则，在社会成员在因年老而丧失劳动能力或达到法定解除劳动义务的劳动年龄界限后，保障其基本生活需求的一种社会经济制度安排。社会保险五大险种中最重要的险种之一。"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "health insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.4.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_医疗保险",
+   "subjectName": "医疗保险",
+   "publishYear": "2025",
+   "definition": "国家通过立法建立医疗保险基金，在社会成员患病需要医治时，根据疾病类型为其提供基本医疗费用补偿的一种社会保险制度。按照强制性社会保险原则，基本医疗保险费应由用人单位和职工个人按时足额缴纳。"
+  },
+  {
+   "cn": "失业保险",
+   "en": "unemployment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.5.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_失业保险",
+   "subjectName": "失业保险",
+   "publishYear": "2025",
+   "definition": "依据国家法规，在劳动者非自愿失业时给予失业金支付以保障其基本生活，并提供相关再就业服务的一种社会保险制度。通过国家、企事业单位和个人等渠道筹资建立失业保险基金。"
+  },
+  {
+   "cn": "生育保险",
+   "en": "maternity insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.7",
+   "subjectFullName": "社会学名词_分支社会学_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "国家立法为处在怀孕或分娩期间的职业妇女提供物质帮助、生育津贴、医疗服务以及产假，以保障其基本生活，恢复其健康以及劳动能力的一项社会保险制度。"
+  },
+  {
+   "cn": "人际距离",
+   "en": "interpersonal distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "人与人之间面对面直接交往接触时所保持的相互间的客观距离。人类学家霍尔(Edward T.Hall）提出在空间关系学中提出。"
+  },
+  {
+   "cn": "社会距离",
+   "en": "social distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "社会成员之间亲疏的程度。可分为横向与纵向两类。凡由于优越感和自卑感引起的为纵向;凡与优越感和自卑感无关的为横向。"
+  },
+  {
+   "cn": "商业保险",
+   "en": "commercial insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.12.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_补充保障",
+   "subjectName": "补充保障",
+   "publishYear": "2025",
+   "definition": "保险机构依合同约定，向投保人收取保险费，建立保险基金，在被保险人死亡、伤残、患病、或达到约定的年龄期限以及其他合同约定的事故造成损失时，承担给付保险金责任的一种保险制度。是补充保障的重要组成部分。"
+  },
+  {
+   "cn": "医疗社会保险",
+   "en": "medical insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.84",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "国家通过立法方式强制性地向法定范围的劳动者及其他社会成员征缴医疗保险基金，在劳动者（或公民）因患病、负伤、年老、生育、失业或其他原因收入中断需要医疗费用时，由国家或企业提供医疗和物质保障的一种社会保险"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

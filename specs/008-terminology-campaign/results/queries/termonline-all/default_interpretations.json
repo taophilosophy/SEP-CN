@@ -1,0 +1,702 @@
+{
+ "key": "default interpretations",
+ "term": "Default interpretations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:57:37+00:00",
+ "status": "ok",
+ "note": "variant=Default interpretations; 审定公布名词库=651; 海峡两岸名词对照库=185; 其他来源数据库=74; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "违约行为",
+   "en": "default",
+   "source": "风景园林名词",
+   "wordNumber": "03.0199",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "合同当事人违反合同义务的行为。"
+  },
+  {
+   "cn": "丢失",
+   "en": "default",
+   "source": "结核病学名词",
+   "wordNumber": "04.097",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_治疗转归",
+   "subjectName": "治疗转归",
+   "publishYear": "2019",
+   "definition": "患者中断治疗超过2个月，经追访仍无法取得联系的情况。"
+  },
+  {
+   "cn": "缺省",
+   "en": "default",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.344",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "在用户不加指定时，由系统选定的属性、值或选择项。"
+  },
+  {
+   "cn": "违约",
+   "en": "default",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.150",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.120",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于一定规则为概念、符号、对象等赋予意义的过程。"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "测绘学名词",
+   "wordNumber": "03.177",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "从影像中获取所摄对象语义信息的基本过程。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "心理学名词",
+   "wordNumber": "15.082",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师依据某一理论或个人经验，对当事人的问题、反应进行因果说明的一种咨询技术。"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "地理学名词",
+   "wordNumber": "29.128",
+   "subjectFullName": "地理学_遥感应用",
+   "subjectName": "遥感应用",
+   "publishYear": "2006",
+   "definition": "对遥感影像的解释，或识别的过程，即进行分类的过程。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "数学名词",
+   "wordNumber": "02.0017",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "解释程序",
+   "en": "interpreter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0100",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "逐条翻译和执行每一条程序语句的计算机程序。"
+  },
+  {
+   "cn": "缺省逻辑",
+   "en": "default logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.641",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种通过缺省假设对推理进行形式化的非单调逻辑。即当缺乏足够的知识信息时，通过表示和使用缺省的信息进行猜测，是对人类常识推理形式化的重要手段。"
+  },
+  {
+   "cn": "丢失率",
+   "en": "default rate",
+   "source": "结核病学名词",
+   "wordNumber": "05.073",
+   "subjectFullName": "结核病学_结核病预防与控制_流行与控制",
+   "subjectName": "流行与控制",
+   "publishYear": "2019",
+   "definition": "一定地区、一定时期内登记患者中丢失的患者数占同期登记患者总数的百分比。丢失率 =丢失患者数/登记患者数×100%。"
+  },
+  {
+   "cn": "默认路由",
+   "en": "default route",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0587",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "在路由表中的单个表项。它覆盖没有在表中明确列出的所有目的地。"
+  },
+  {
+   "cn": "缺省逻辑",
+   "en": "default logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0005",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "雷·赖特（Ray Reiter）提出的用来形式化有缺省假定的推理的非单调逻辑。可以表达像“若找不到反面证据，则认为某个命题是真的”这样的论断。"
+  },
+  {
+   "cn": "默认掩码",
+   "en": "default mask",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0575",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "没有划分子网的网络所使用的掩码。"
+  },
+  {
+   "cn": "违约溢价",
+   "en": "default premium",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0393",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "具有违约风险的公司债券与无违约的国债(或者其他公司债券)之间的收益差额。"
+  },
+  {
+   "cn": "缺省数据库",
+   "en": "default database",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.407",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "当用户没有选择操作的数据库时，系统默认的数据库。"
+  },
+  {
+   "cn": "缺省值",
+   "en": "default value",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.409",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "当用户没有给出明确的选择值时，系统作出的选择。"
+  },
+  {
+   "cn": "缺省途径",
+   "en": "default pathway",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.097",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "在没有其他分拣信号的情况下，从高尔基体到质膜的自主性连续性分泌途径。"
+  },
+  {
+   "cn": "缺省值",
+   "en": "default value",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0751",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "默认",
+   "en": "default",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎",
+   "en": "interpretation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpret",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解释程序，解释器",
+   "en": "interpreter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺省值",
+   "en": "default value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "违约条款",
+   "en": "default clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "违约溢价",
+   "en": "default premia",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "缺省途径",
+   "en": "default pathway",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺省接口",
+   "en": "default interface",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺省数据库",
+   "en": "default database",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺省值，默认值",
+   "en": "default value",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "默认格式",
+   "en": "default format",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "默认推理",
+   "en": "default reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "欠费用户",
+   "en": "defaulting subscriber",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地图判读",
+   "en": "cartographic interpretation\",\"map interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "判读要素",
+   "en": "interpretation element\",\"interpretation key",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "释梦",
+   "en": "dream interpretation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "弃权",
+   "en": "default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艺术扣分",
+   "en": "interpretation fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因对方未出场获胜",
+   "en": "win by default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弃权球队",
+   "en": "team in default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不战胜",
+   "en": "fusen-gachi\",\"win by default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "诗无达诂",
+   "en": "Poetry Defies Fixed Interpretation.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以意逆志",
+   "en": "Interpreting a Writing from One’s Own Perspective",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因对方未出场获胜",
+   "en": "victory for forfeit\",\"win by default\",\"win by walk-over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 10092-2009 数据的统计处理和解释 测试结果的多重比较》",
+   "en": "GB/T 10092-2009 Statistical interpretation of data — Multiple comparison for test results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 4089-2008 数据的统计处理和解释 泊松分布参数的估计和检验》",
+   "en": "GB/T 4089-2008 Statistical interpretation of data — Estimation and hypothesis test of parameter in Poisson distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 4087-2009 数据的统计处理和解释 二项分布可靠度单侧置信下限》",
+   "en": "GB/T 4087-2009 Statistical interpretation of data — One-sided confidence lower limit of reliability for binomial distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《EN ISO/IEC 27042-2016 信息技术 安全技术 数字证据分析和解释的指南》",
+   "en": "EN ISO/IEC 27042:2016 Information technology — Security techniques — Guidelines for the analysis and interpretation of digital evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缺席",
+   "en": "sefault\",\"forfeit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯规",
+   "en": "fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯规！",
+   "en": "Fault!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "对心理问题进行剖析的咨询技巧。在学校心理咨询中，咨询者依据心理学理论、知识或人生经验，分析、说明求咨者心理问题的成因和性质，使对方有所领悟，为随后的指导及求咨者的思维、情绪、行为转变奠定基础。"
+  },
+  {
+   "cn": "可解释性",
+   "en": "interpretability",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具解释分数或分数变化内涵的程度的测量性能。"
+  },
+  {
+   "cn": "释兆",
+   "en": "omen interpretation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "巫师或当事人根据自然界出现的某些异常现象而探知事物所要出现的结果。在现实生活中，最常见的征兆是天象兆，另外还有植物兆、动物兆、人体兆、梦兆。"
+  },
+  {
+   "cn": "解释性传记",
+   "en": "interpretive biography",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "有计划地使用和收集那些描述了个人生活中转折时刻的个人档案、故事、说明和叙述的一种研究方法。"
+  },
+  {
+   "cn": "训读",
+   "en": "interpretative reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0068",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "把本地方言不用的字读作该方言相应义项的同义字或近义字的读音。与日本汉字读音的“音读”相对。这是一种近似于翻译而不是源于语音对应规律的读音习惯或传统。例如海口话“叶”的读音是［ȵio33］，为训读，其本"
+  },
+  {
+   "cn": "解释人类学",
+   "en": "interpretive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.061",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "揭示文化符号性与解释性的文化人类学（民族学）分支。解释人类学由美国人类学家格尔兹（Clifford Geertz）开创，格尔茨强调人类文化的符号性和阐释性，认为人类是被自身编织的意义之网所束缚的动物，"
+  },
+  {
+   "cn": "文化解释",
+   "en": "interpretations of cultures",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "主张文化分析是寻求意义系统的解释科学。由美国人类学家格尔茨(C.Geertz）于20世纪70年代提出，认为人是由其自身编织的意义之网所支撑的动物，而文化就是这种意义之网。"
+  },
+  {
+   "cn": "迪梅尼尔的新解释",
+   "en": "Dumenils new interpretation",
+   "source": "马克思主义",
+   "wordNumber": "05.0125",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，法国著名的马克思主义经济学家，国际马克思大会主席热拉尔·迪梅尼尔（Gérard Duménil）提出关于价值转型问题的所谓“新解释”。认为总产品的总生产价格一般不等于总价值。而且可"
+  },
+  {
+   "cn": "神话阐释民俗",
+   "en": "interpretation of folklore of myth",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0438",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "神话是人类早期的精神产品，反映的是人们对周围世界和社会生活的认知，有时会成为特定地域特定群体的生存观、价值观或信仰等，可以作为阐释民俗的工具。这是因为民俗与神话元素或神话叙事具有相互依存性，民俗事象及"
+  },
+  {
+   "cn": "故障树",
+   "en": "fault tree",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.12",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "一种用来描述特定故障的树形图表说明。该树形图具有可选择的特性。"
+  },
+  {
+   "cn": "无过失责任原则",
+   "en": "principle of liability non-fault",
+   "source": "社会学名词",
+   "wordNumber": "3.18.6.4",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_工伤保险",
+   "subjectName": "工伤保险",
+   "publishYear": "2025",
+   "definition": "在用人单位为职工缴纳工伤保险费的前提下，职工在生产与工作中受伤害，无论事故责任在谁，只要不是职工本人故意或犯罪行为导致，均可享受法定工伤保险待遇。是工伤保险原则之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,672 @@
+{
+ "key": "statements concerning",
+ "term": "statements concerning",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:04:39+00:00",
+ "status": "ok",
+ "note": "variant=statements concerning; 审定公布名词库=139; 海峡两岸名词对照库=93; 其他来源数据库=26; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "语句",
+   "en": "statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0221",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "根据文法从开始符号推导出的终极符号串。即程序设计语言中符合语法的、具有一定功能的字符组合。"
+  },
+  {
+   "cn": "陈述",
+   "en": "statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0863",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "表达信息的条款。"
+  },
+  {
+   "cn": "横切关注点",
+   "en": "crosscutting concerns",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0384",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "跨越多个模块的关注点。横切关注点如果不能有效地分离和模块化，将使系统难以设计、理解、实现和演化。"
+  },
+  {
+   "cn": "约束关心",
+   "en": "constraint concern",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0991",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "由个性特征组成的向量的一个元素，可和其他元素结合起来，用以反映理性的程度。"
+  },
+  {
+   "cn": "表态用语",
+   "en": "statement phrase",
+   "source": "档案学名词",
+   "wordNumber": "02.04.050",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "公文专用词语的一种。表明发文机关态度时使用。如“照办”“可行”“准予”“不可行”“同意”“原则同意”“不同意”等。"
+  },
+  {
+   "cn": "单称陈述",
+   "en": "singular statement",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.074",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对单个相关对象的特征描述。"
+  },
+  {
+   "cn": "观察陈述",
+   "en": "observational statement",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.056",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "对观察结果的描述。是对个别对象的性质、状态的陈述，所表达的知识都是经验知识或经验事实。"
+  },
+  {
+   "cn": "利润表",
+   "en": "income statement",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.098",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "反映企业一定期间生产经营成果的会计报表。"
+  },
+  {
+   "cn": "创刊词",
+   "en": "inaugural statement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.081",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "刊登在创刊号上，说明本刊发刊缘由、性质、办刊宗旨、服务对象、主要内容等方面的辅文。"
+  },
+  {
+   "cn": "休刊词",
+   "en": "suspension statement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.082",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "休刊号上交代休刊事由的辅文。"
+  },
+  {
+   "cn": "停刊词",
+   "en": "discontinuation statement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.083",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "停刊号上交代停刊事由的辅文。"
+  },
+  {
+   "cn": "组织使命",
+   "en": "mission statement",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.029",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "组织对所管理的范围、内容、力图实现目标的正式说明。既能体现组织创办者或高层领导人的追求和抱负，也能反映该组织之所以存在的理由或价值，以及该组织在社会中所处的地位、作用、承担的义务和扮演的角色。"
+  },
+  {
+   "cn": "损益表",
+   "en": "income statement",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.104",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒管理",
+   "subjectName": "传媒管理",
+   "publishYear": "2022",
+   "definition": "反映企业在一定会计期间经营成果，如收入、成本、费用，以及成果分配情况的会计报表。体现了企业实际获得利润或亏损的情况，是一定时期内企业经营业绩的财务记录。企业的损益包括四个方面：企业营业收入；直接成本、"
+  },
+  {
+   "cn": "丛编说明",
+   "en": "series statement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.614",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "对丛编题名信息的说明。包含不用于检索及与规范检索点不同的丛编题名信息。"
+  },
+  {
+   "cn": "可调用语句",
+   "en": "callable statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0555",
+   "subjectFullName": "计算机科学技术_数据库_数据库应用开发",
+   "subjectName": "数据库应用开发",
+   "publishYear": "2018",
+   "definition": "Java数据库互连（JDBC）提供的对象，为所有数据库管理系统（DBMS）提供了一种以标准形式调用存储过程的方法。"
+  },
+  {
+   "cn": "情况语句",
+   "en": "case statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0208",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "包含多路选择分支结构的语句。"
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0200",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "赋给变量一个具体的确定值的语句。"
+  },
+  {
+   "cn": "财务报表",
+   "en": "financial statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0071",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "对企业财务状况、经营成果和现金流量进行结构性表述的文件。"
+  },
+  {
+   "cn": "利润表",
+   "en": "income statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0074",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "反映企业在一定会计期间经营成果的会计报表。"
+  },
+  {
+   "cn": "使命陈述",
+   "en": "mission statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0250",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "组织希望在较大环境中完成什么任务的声明。扮演着一只引导人们的无形的手角色，并回答如下问题：我们从事什么业务？我们的顾客是谁？顾客珍视什么？我们的事业应该是什么？"
+  },
+  {
+   "cn": "语句",
+   "en": "statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报表表头",
+   "en": "statement heading",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "报表格式",
+   "en": "statement form",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款凭单",
+   "en": "payment statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算书",
+   "en": "average statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "清算表",
+   "en": "liquidation statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "条件声明",
+   "en": "conditional statement",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[分]情况语句",
+   "en": "CASE statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制语句",
+   "en": "control statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算书",
+   "en": "average statement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "客户结单",
+   "en": "customer’s statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "财务报表分析",
+   "en": "financial statement analysis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "费用清单",
+   "en": "statement of expense",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "结算书",
+   "en": "statement of settlement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经营情况表",
+   "en": "statement of operation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "亏损表",
+   "en": "statement of deficit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[票据]拒付声明，[票据]拒绝承兑声明",
+   "en": "statement of dishonor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "凭账单付款",
+   "en": "payment on statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "破产清算书",
+   "en": "statement of liquidation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "知言",
+   "en": "Discerning Statements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛装备的抗议",
+   "en": "protest concerning equipment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对参赛资格的抗议",
+   "en": "protest concerning eligibility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛线路的抗议",
+   "en": "protest concerning the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛的抗议",
+   "en": "protest concerning the race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对计时和成绩的抗议",
+   "en": "protest concerning timing and results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源权益",
+   "en": "rights and interests concerning data resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高度重视公共利益",
+   "en": "serious concern for the public good",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "及时回应社会关切",
+   "en": "to provide timely responses to public concerns",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际关注的突发公共卫生事件",
+   "en": "public health emergency of international concern (PHEIC)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "知言养气",
+   "en": "Understanding True Meanings of Statements and Cultivating Uprightness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网合作的未来——蒙得维的亚声明》",
+   "en": "Montevideo Statement on the Future of Internet Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《关于推进公安信息化发展若干问题的意见》（中国）",
+   "en": "Opinions on Several Issues Concerning IT-Based Development of the Police (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以电话、信函、声明等方式表示慰问和支持",
+   "en": "to express sympathy and support by telephone, letter or statement",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《国际图书馆协会和机构联合会数字素养宣言》",
+   "en": "International Federation of Library Associations (IFLA) Statement on Digital Literacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位卑未敢忘忧国",
+   "en": "Whatever my status, I will never lay aside my concern for the nation.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "奏启",
+   "en": "Memorial or Statement to Present One’s View to the Emperor",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《关于建立“一带一路”国际商事争端解决机制和机构的意见》",
+   "en": "Opinion Concerning the Establishment of the Belt and Road International Commercial Dispute Resolution Mechanism and Institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲民",
+   "en": "people-concerned",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "引导、稳定一般民众，培育和维持社会秩序的施政和制度建设。语出《大学》中“大学之道，在明明德，在亲民，在止于至善。”后世儒家对此多有阐释，如在宋儒那里，解释分别侧重教育（德治）或养民（财，事功）等不同方"
+  },
+  {
+   "cn": "莫斯科声明",
+   "en": "Moscow statement",
+   "source": "马克思主义",
+   "wordNumber": "05.0210",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1960年11月在莫斯科举行的81个世界共产党和工人党第二次代表会议上通过，标题为《各国共产党和工人党代表会议声明》。声明肯定《莫斯科宣言》，指出世界社会主义体系的威力超过世界资本主义体系，资本主义总"
+  },
+  {
+   "cn": "老龄工作",
+   "en": "work concerning the aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.8",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "为解决人口老龄化带来的经济社会发展问题、满足老年人的特殊需要的所有工作。"
+  },
+  {
+   "cn": "关注浓度水平",
+   "en": "concentration level of concern",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.45",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对判断样品中物质或分析物是否符合法规规定和要求的有决定性意义的浓度。如容许限浓度。"
+  },
+  {
+   "cn": "关注水平",
+   "en": "level of concern, LOC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "为保护消费者健康而制定的用于临时管理的食品中某危害因素的含量水平"
+  },
+  {
+   "cn": "毒理学关注阈值",
+   "en": "threshold of toxicological concern, TTC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在对大量化学物的化学结构特征和相关毒理学数据分析的基础上，为不同类别化学物的暴露水平建立的一个安全阈值。如果暴露量低于该阈值，就可以预测其不会对人体健康造成危害。"
+  },
+  {
+   "cn": "统筹兼顾",
+   "en": "unified planning with due consideration for all concerned",
+   "source": "马克思主义",
+   "wordNumber": "02.0428",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "统一筹划,兼顾各方。其核心是统筹各方面利益关系，充分调动各方面积极性。毛泽东首先提出统筹兼顾的思想，邓小平、江泽民、胡锦涛、习近平等党和国家领导人继承和发展了统筹兼顾的思想。统筹兼顾是科学发展观的根本"
+  },
+  {
+   "cn": "权为民所用情为民所系利为民所谋",
+   "en": "exercising power for the people showing concern for them and working for their interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0766",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "权为民所用，就是要正确看待和运用手中的权力，用人民赋予的权力服务于人民、造福于人民，绝不以权谋私；情为民所系，就是要坚持与人民群众心连心，倾听群众呼声，关心群众疾苦，切实帮助群众解决实际困难，绝不脱离"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

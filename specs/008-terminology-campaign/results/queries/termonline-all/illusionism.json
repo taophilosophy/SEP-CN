@@ -1,0 +1,22 @@
+{
+ "key": "illusionism",
+ "term": "illusionism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:13:00+00:00",
+ "status": "ok",
+ "note": "variant=illusionism; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "错觉性[癫痫]发作",
+   "en": "illusional epileptic seizure",
+   "source": "神经病学名词",
+   "wordNumber": "12.049",
+   "subjectFullName": "神经病学_癫痫",
+   "subjectName": "癫痫",
+   "publishYear": "2020",
+   "definition": "因知觉歪曲而使客观事物变形的癫痫发作。如视物变大或变小、变远或变近，物体形状改变，声音变大或变小、变远或变近，身体某部位变大或变小等。多起源于颞叶，或颞顶、颞枕交界处。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

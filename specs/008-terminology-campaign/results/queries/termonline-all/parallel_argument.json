@@ -1,0 +1,642 @@
+{
+ "key": "parallel argument",
+ "term": "parallel argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:11:31+00:00",
+ "status": "ok",
+ "note": "variant=parallel argument; 审定公布名词库=455; 海峡两岸名词对照库=245; 其他来源数据库=27; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "平行[的]",
+   "en": "parallel",
+   "source": "数学名词",
+   "wordNumber": "08.0023",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "平行线",
+   "en": "parallel,parallel lines",
+   "source": "数学名词",
+   "wordNumber": "08.0024",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution;parallelism",
+   "source": "动物学名词",
+   "wordNumber": "2.0233",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "不同物种（亲缘关系较近）共存于极为相似的环境中，具有一些共同的生活习性而出现相似的性状或相似行为的现象。"
+  },
+  {
+   "cn": "排比",
+   "en": "parallelism",
+   "source": "档案学名词",
+   "wordNumber": "02.04.040",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "在公文中有一定应用的修辞格。特点是用结构相同或相似、语气相近或一致的三个或三个以上的语句表示相关或相似内容。"
+  },
+  {
+   "cn": "平行度",
+   "en": "parallelism",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0307",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "限制被测要素的实际方向，与基准相平行的理想方向之间所允许的变动量。"
+  },
+  {
+   "cn": "并行化",
+   "en": "parallelization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0151",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "把串行代码转换成并行代码的一种方法。"
+  },
+  {
+   "cn": "并联[运行]",
+   "en": "paralleling",
+   "source": "电气工程名词",
+   "wordNumber": "07.560",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "平行连晶",
+   "en": "parallel intergrowth;parallel growth",
+   "source": "地质学名词",
+   "wordNumber": "02.00.107",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "同种晶体间呈完全平行一致取向关系(包括各对应的晶轴、对称要素、晶面及晶棱的方向)的规则连生体。"
+  },
+  {
+   "cn": "平行层理",
+   "en": "parallel bedding",
+   "source": "地质学名词",
+   "wordNumber": "05.03.024",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "主要见于砂岩中，在外貌上与水平层理极相似。在较强的水动力条件下，由高流态平坦床沙迁移，在床面上连续滚动的沙粒粗细分离而形成的水平细层组成。沿层理面易剥开，在剥开面上可见剥离线理构造。常出现在急流及高能"
+  },
+  {
+   "cn": "并联皮瓣",
+   "en": "parallel flap",
+   "source": "整形外科名词",
+   "wordNumber": "4.07",
+   "subjectFullName": "整形外科_组织移植_皮瓣移植",
+   "subjectName": "皮瓣移植",
+   "publishYear": "2026",
+   "definition": "将一个游离皮瓣蒂部血管主干上的一组侧支血管分离出来，再将另一个游离皮瓣吻接于此侧支血管上，形成共用一个血管主干的两个并联的游离皮瓣。"
+  },
+  {
+   "cn": "平行六面体",
+   "en": "parallel hexahedron",
+   "source": "地质学名词",
+   "wordNumber": "02.00.143",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "空间格子中最小的重复单位。由6个两两平行且相等的面组成。"
+  },
+  {
+   "cn": "平行消光",
+   "en": "parallel extinction",
+   "source": "地质学名词",
+   "wordNumber": "02.00.240",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在偏光显微镜的正交偏光下，岩石薄片中的某矿物处在消光位时，其解理缝、双晶缝或晶棱等与目镜十字丝之一平行的现象。"
+  },
+  {
+   "cn": "平行褶皱",
+   "en": "parallel fold",
+   "source": "地质学名词",
+   "wordNumber": "09.03.071",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "组成褶皱的各变形面作平行弯曲，同一褶皱层的厚度保持不变，弯曲的各层具有同一曲率中心的褶皱。"
+  },
+  {
+   "cn": "顺梁",
+   "en": "parallel beam",
+   "source": "风景园林名词",
+   "wordNumber": "07.0181",
+   "subjectFullName": "风景园林_风景园林建筑_大木作",
+   "subjectName": "大木作",
+   "publishYear": "2025",
+   "definition": "与主要梁架成正角的梁。按清代官式做法，顺梁安置在梢间底层的柱间。"
+  },
+  {
+   "cn": "水平沟",
+   "en": "parallel ditch",
+   "source": "风景园林名词",
+   "wordNumber": "13.0007",
+   "subjectFullName": "风景园林_其他_地理地质气候",
+   "subjectName": "地理地质气候",
+   "publishYear": "2025",
+   "definition": "沿等高线开挖沟槽，沟口上宽0.6～1.0ｍ，沟底宽0.3～0.5ｍ，沟深0.4～0.6ｍ，是造林整地的主要方式。"
+  },
+  {
+   "cn": "平行关系",
+   "en": "parallel relationship",
+   "source": "档案学名词",
+   "wordNumber": "02.02.016",
+   "subjectFullName": "档案学_文件管理_文件工作及其管理",
+   "subjectName": "文件工作及其管理",
+   "publishYear": "2024",
+   "definition": "处于同一组织系统和专业系统的同级组织之间的关系。"
+  },
+  {
+   "cn": "平行",
+   "en": "parallel",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行线",
+   "en": "parallel",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纬圈",
+   "en": "parallel",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "并行化",
+   "en": "parallelization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行性",
+   "en": "parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallelism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行纤维",
+   "en": "parallel fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "平行脉",
+   "en": "parallel vein",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行脉序",
+   "en": "parallel venation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "并联补偿",
+   "en": "parallel compensation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "并行过程",
+   "en": "parallel processes",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平行处理",
+   "en": "parallel processing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "并行操作",
+   "en": "parallel operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平行反应",
+   "en": "parallel reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平行失活",
+   "en": "parallel deactivation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "并联运行",
+   "en": "parallel running",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "并行算法",
+   "en": "parallel algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行计算",
+   "en": "parallel computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行空间",
+   "en": "parallel space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行宇宙",
+   "en": "parallel universe",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行数据库",
+   "en": "parallel database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "IO并行",
+   "en": "IO parallel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行查询",
+   "en": "parallel query",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行处理",
+   "en": "parallel processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行坐标",
+   "en": "parallel coordinates",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双杠",
+   "en": "parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双杠项目",
+   "en": "parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行障碍",
+   "en": "parallel fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行杆障碍",
+   "en": "parallel poles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丽辞",
+   "en": "Ornate parallel style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行处理系统",
+   "en": "parallel processing system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行数据库体系架构",
+   "en": "parallel database architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行逻辑回归",
+   "en": "parallel logistic regression",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行支持向量机",
+   "en": "parallel support vector machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双杠动作",
+   "en": "exercise on parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表婚",
+   "en": "parallel cousin marriage",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "己身与堂亲和姨表亲的联姻。"
+  },
+  {
+   "cn": "两个平行市场",
+   "en": "two parallel markets",
+   "source": "马克思主义",
+   "wordNumber": "03.0320",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林1952年在《苏联社会主义经济问题》一书中提出的关于社会主义阵营和资本主义阵营经济关系的论断。战后社会主义阵营的出现使资本主义的统一市场瓦解，出现了两个平行的也是相互对立、彼此隔绝的世界市场；社"
+  },
+  {
+   "cn": "平行从表婚",
+   "en": "parallel-cousin marriage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0358",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "同性的同胞的子女，即兄弟的子女及姊妹的子女结为夫妻的婚姻形式。按照父系的观念，两兄弟的子女为从兄弟姊妹，两姊妹的子女为姨表兄弟姊妹。姨表兄弟姊妹之间不通婚，其原因可追溯到母系社会的氏族外婚制。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

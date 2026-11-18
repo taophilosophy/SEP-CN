@@ -1,0 +1,692 @@
+{
+ "key": "least element",
+ "term": "least element",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:09:15+00:00",
+ "status": "ok",
+ "note": "variant=least element; 审定公布名词库=1657; 海峡两岸名词对照库=589; 其他来源数据库=71; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "最小作用量",
+   "en": "least action",
+   "source": "物理学名词",
+   "wordNumber": "02.0155",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无危",
+   "en": "least concern,LC",
+   "source": "植物学名词",
+   "wordNumber": "13.0636",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "当一分类单位被评估未达到极危、濒危、渐危或近危标准的状况。该分类单位即列为无危。广泛分布和种类丰富的分类单位都属于该等级。"
+  },
+  {
+   "cn": "最小二乘问题",
+   "en": "least-squares problem",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.095",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "以函数（通常称为残差函数）的平方和最小为目标的优化问题。是过程系统模型参数估计问题的常见命题形式之一。"
+  },
+  {
+   "cn": "最小二乘法",
+   "en": "least-squares method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "构造和求解最小二乘问题以实现优化目的的方法。"
+  },
+  {
+   "cn": "最小二乘法",
+   "en": "least square method",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1903",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "使残差(观测值与估计值之差 )平方总和达到最小，寻找与数据的最佳模型函数匹配的数值优化方法。 "
+  },
+  {
+   "cn": "最小二乘优化",
+   "en": "least square optimization",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.173",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_代谢工程_弗兰克-沃尔夫法",
+   "subjectName": "弗兰克-沃尔夫法",
+   "publishYear": "2021",
+   "definition": "通过最小化误差的平方和寻找数据的最佳函数匹配的一种数学优化方法。利用最小二乘优化可以简便地求得未知的数据，并使得这些求得的数据与实际数据之间误差的平方和为最小。该方法常被用于发酵过程参数的曲线拟合。"
+  },
+  {
+   "cn": "最小实体状态",
+   "en": "least material condition",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0371",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "孔或轴具有允许的材料量为最少时的状态。"
+  },
+  {
+   "cn": "最小实体尺寸",
+   "en": "least material size",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0372",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "最小实体状态下的极限尺寸。"
+  },
+  {
+   "cn": "最小实体要求",
+   "en": "least material requirement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0380",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "设计时应用边界尺寸为最小实体实效尺寸的边界，来控制被测要素的实际尺寸和几何误差的综合结果，要求该要素的实际轮廓不得超出这边界，并且实际尺寸不得超出极限尺寸。"
+  },
+  {
+   "cn": "最小二乘法",
+   "en": "least squares method",
+   "source": "测绘学名词",
+   "wordNumber": "02.365",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "在残差满足<img src='/root/syzx/static/spz/cehui4.02.365.01.png'/>为最小的条件下解算测量估值或参数估值并进行精度估算的方法。其中V为残差向量，P为"
+  },
+  {
+   "cn": "最小二乘配置法",
+   "en": "least squares collocation",
+   "source": "测绘学名词",
+   "wordNumber": "02.375",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "根据最小二乘原理，按一种特定的拟合法则，对随机参数和非随机参数进行推估的数据处理方法。"
+  },
+  {
+   "cn": "最小二乘相关",
+   "en": "least squares correlation",
+   "source": "测绘学名词",
+   "wordNumber": "03.352",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "以左、右像片灰度差为观测值，进行最小二乘法平差以解求同名影像的过程。"
+  },
+  {
+   "cn": "最小二乘法",
+   "en": "least squares method",
+   "source": "畜牧学名词",
+   "wordNumber": "04.678",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "一种参数估计方法。根据使估计误差的平方和达到最小的原则来估计参数。"
+  },
+  {
+   "cn": "最低成本配方",
+   "en": "least cost formulation",
+   "source": "畜牧学名词",
+   "wordNumber": "07.452",
+   "subjectFullName": "畜牧学_饲料与营养_饲料加工与产品",
+   "subjectName": "饲料加工与产品",
+   "publishYear": "2020",
+   "definition": "根据配合饲料原料的库存数、原料价格、原料所含营养成分和畜禽对营养的需要量等条件，将有关数据输入计算机，提出约束条件，计算出成本最低的全价饲料配合方案。"
+  },
+  {
+   "cn": "最小二乘原理",
+   "en": "least squares principle",
+   "source": "经济学名词",
+   "wordNumber": "10.063",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "根据使样本剩余的平方和达到最小的准则，确定模型中的参数，建立样本回归函数。"
+  },
+  {
+   "cn": "最不发达国家",
+   "en": "least-developed country",
+   "source": "经济学名词",
+   "wordNumber": "06.004",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "经济上最贫困落后的发展中国家。1967年77国集团通过的《阿尔及利亚宪章》最早使用这个名词。1971年联合国开发计划署确定了最不发达国家的标准和名单,并获得了第26届联合国大会的批准。当时确定的三条标"
+  },
+  {
+   "cn": "最小二乘法",
+   "en": "least square method",
+   "source": "物理学名词",
+   "wordNumber": "01.0532",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘法",
+   "en": "least square method",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0035",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "把模型的计算值与实际观测值的偏差平方和最小作为估计模型参数最优值判据的一种最优化方法。"
+  },
+  {
+   "cn": "最小平方逼近",
+   "en": "least square approximation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0570",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "一类以距离平方为目标函数的优化方法。"
+  },
+  {
+   "cn": "最小上界",
+   "en": "least upper bound",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0196",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "在一个偏序集中，两个元素 x和y 的最小上界是满足如下条件的元素 a ：① x≤a ；② y≤a ；③对任何 z ，若 x≤z,y≤z ，则 a≤z 。"
+  },
+  {
+   "cn": "最小读数",
+   "en": "least count",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "最小深度",
+   "en": "least depth",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "内脏最小神经",
+   "en": "least splanchnic nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘法",
+   "en": "least squares method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘分析",
+   "en": "least squares analysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘拟合",
+   "en": "least squares fitting",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘法",
+   "en": "least square method",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘法拟合",
+   "en": "least square fitting",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最小成本路径",
+   "en": "least-cost path",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘法纠正",
+   "en": "least squares corrections",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘法调整",
+   "en": "least squares adjustment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "广义最小二乘",
+   "en": "generalized least square",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘法",
+   "en": "least squares method",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘配置法",
+   "en": "least squares collocation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘相关",
+   "en": "least squares correlation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘逼近",
+   "en": "least squares approximation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最低有效位",
+   "en": "least significant bit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自适应最小二乘",
+   "en": "adaptive least square",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘法",
+   "en": "least square method",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘法，最小平方法",
+   "en": "least squares method\",\"method of least squares",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最小化授予原则",
+   "en": "principle of least privilege (POLP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据元素",
+   "en": "data element",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据要素",
+   "en": "data element",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平衡动作",
+   "en": "balance element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体操动作",
+   "en": "gymnastic element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技巧动作",
+   "en": "acrobatic element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最小二乘方",
+   "en": "least squares",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.86",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "使得拟合所得的残差的平方和最小，并据此计算参数估计值和拟合数据的常用技术。"
+  },
+  {
+   "cn": "普通最小二乘方",
+   "en": "ordinary least squares",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.87",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "使回归方程的残差平方和最小的参数点估计方法。"
+  },
+  {
+   "cn": "最小均方评价法",
+   "en": "least mean square method of appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "基于最小二乘法来评估个体和群体儿童生长发育的方法。该方法有三个核心变量：实测数据转换为正态把握度、中位数和变异系数。"
+  },
+  {
+   "cn": "燃料元件",
+   "en": "fuel element",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.1",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "核反应堆内具有独立结构的燃料使用单元。包括从单一的圆柱状短棒到结构复杂的大组件。通常指由燃料芯体和包壳组成的燃料单元，如燃料棒、燃料板和燃料球。"
+  },
+  {
+   "cn": "附加要素",
+   "en": "additional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "包括在规范性文件中而不影响其实质内容的信息。就标准而言，主要指封面、目次、前言、引言、资料性附录、参考文献、索引和注等。"
+  },
+  {
+   "cn": "规范性要素",
+   "en": "normative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中界定标准范围或设定条款的要素。"
+  },
+  {
+   "cn": "资料性要素",
+   "en": "informative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "提供有助于理解或使用标准的附加信息的要素。"
+  },
+  {
+   "cn": "必备要素",
+   "en": "required element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中必不可少的要素。"
+  },
+  {
+   "cn": "可选要素",
+   "en": "optional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中存在与否取决于标准具体需求的要素。"
+  },
+  {
+   "cn": "沟通要素",
+   "en": "communication element",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.087",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "心理学家海因以系统论的传播模式为背景提出人际沟通过程的6 个基本要素：信息环境、信息发出者、信息、传递途径、信息接收者、反馈。在医患沟通中，信息发出者既可以是医方，也可以是患方。"
+  },
+  {
+   "cn": "杂质元素",
+   "en": "impurity element",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.43",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "残留在金属中的非有意添加的元素。"
+  },
+  {
+   "cn": "动力单元",
+   "en": "kinetic element",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.5.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在神经系统支配下，通过肌肉收缩，牵动骨骼以关节为支点产生位置变化，完成运动过程，包括关节在内的某些解剖结构结合在一起可以完成以关节为轴的运动。由肌肉、骨骼、神经、血管组成。"
+  },
+  {
+   "cn": "合金元素",
+   "en": "alloying element",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.44",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "冶炼金属时，为达到某些性能要求（如拉伸强度、硬度、耐磨性、耐腐蚀性、电导率等）而有意添加的一种或多种金属或非金属元素。"
+  },
+  {
+   "cn": "民俗素",
+   "en": "element of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0454",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由若干民俗质构成的一个个民俗单位，是构成民俗的基本要素。任何一个相对独立完整的民俗素，都有一组表现或鲜明或隐晦含义的事物，这些事物的展示形成一个民俗表现形式，传达着或象征着一个民俗意义。"
+  },
+  {
+   "cn": "同位素数据银行",
+   "en": "element isotope databank",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.60",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "构建在分布式存储网络上的数据中心和安全的数据存储和访问的系统，实现不同来源产品同位素数据的存储、备份、归档、调取等需求。如对不同海拨和经纬度葡萄C、H、O 同位素差异建立数据库，用于葡萄酒原产地溯源。"
+  },
+  {
+   "cn": "有毒金属元素",
+   "en": "toxic metal elements",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.9.2.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品污染",
+   "subjectName": "军队食品污染",
+   "publishYear": "2025",
+   "definition": "在较低摄入量的情况下，亦可干扰人体正常生理功能并产生明显的毒性作用的金属元素，如铅、镉、汞等。"
+  },
+  {
+   "cn": "妇幼健康传播要素",
+   "en": "woman and child health communication element",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康传播",
+   "subjectName": "妇幼健康传播",
+   "publishYear": "2025",
+   "definition": "构成妇幼健康传播过程的基本单位，包括妇幼健康传播者、妇幼健康信息、媒介/渠道、受众、传播效果和反馈。"
+  },
+  {
+   "cn": "酵母菌",
+   "en": "yeast",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.113",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "以单细胞状态存在，多数出芽繁殖，能发酵糖类产能，细胞壁常含甘露聚糖，能在酸度较大的环境中生活。"
+  },
+  {
+   "cn": "酵母抽提物",
+   "en": "yeast extract",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.16.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "以面包酵母、啤酒酵母、圆酵母等食品用酵母为原料，通过酶解自溶法制备的营养型多功能鲜味剂和风味增强剂"
+  },
+  {
+   "cn": "租借制",
+   "en": "lease system",
+   "source": "马克思主义",
+   "wordNumber": "02.0324",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联新经济政策时期国家资本主义的一种形式。1921年7月5日，苏维埃俄国颁布了关于最高国民经济委员会所属企业租借办法的命令。由国家把一部分国有的暂时无力经营的中小企业租给本国资本家经营，承租者付一定租"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

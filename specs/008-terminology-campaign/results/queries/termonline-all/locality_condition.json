@@ -1,0 +1,712 @@
+{
+ "key": "locality condition",
+ "term": "locality condition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:09:52+00:00",
+ "status": "ok",
+ "note": "variant=locality condition; 审定公布名词库=2016; 海峡两岸名词对照库=568; 其他来源数据库=49; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "分散式空调系统",
+   "en": "local air- conditioning system",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0313",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_空调设备_空气调节器",
+   "subjectName": "空气调节器",
+   "publishYear": "2013",
+   "definition": "空气处理设备分散在各个被调节房间内的空调系统。"
+  },
+  {
+   "cn": "局域性",
+   "en": "locality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.381",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "相对论力学成立的前提之一。包括两个假设：一个是分离性假设，意指空间中彼此分开的两个系统是各自独立存在的；另一个是定域作用假设，意指一个系统对另一个远离的系统产生的影响，不能超光速传播。"
+  },
+  {
+   "cn": "局域性",
+   "en": "locality",
+   "source": "物理学名词",
+   "wordNumber": "09.1378",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "地方性",
+   "en": "locality",
+   "source": "地理学名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "地理学_自然地理学",
+   "subjectName": "自然地理学",
+   "publishYear": "2006",
+   "definition": "在局部地形、地面组成物质及地下水埋深的影响下，自然地理环境各组成成分之地带性特征产生变异的现象。"
+  },
+  {
+   "cn": "地方主义",
+   "en": "localism",
+   "source": "地理学名词",
+   "wordNumber": "17.052",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "为了保护和增进地区利益，谋求从政治角度解决地区间领土争端的运动。"
+  },
+  {
+   "cn": "局限化",
+   "en": "localization",
+   "source": "兽医学名词",
+   "wordNumber": "04.495",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "感受器在接受一个适宜的阈刺激后，仅引起较局限的神经反射，而不产生广泛的活动的现象。"
+  },
+  {
+   "cn": "定位",
+   "en": "localization",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0502",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "在环境地图上识别或分辨移动机器人的位姿。"
+  },
+  {
+   "cn": "局限化",
+   "en": "localization",
+   "source": "病理学名词",
+   "wordNumber": "01.319",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "病变由周围组织反应而局限于某个局部的现象。"
+  },
+  {
+   "cn": "定位",
+   "en": "localization",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.097",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "确定某一结构在环境中位置的过程。"
+  },
+  {
+   "cn": "局域化",
+   "en": "localization",
+   "source": "物理学名词",
+   "wordNumber": "08.0677",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "本地化",
+   "en": "localization",
+   "source": "地理学名词",
+   "wordNumber": "18.029",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "通常指外资企业在进入国(地区)生产或采购零部件和原材料的活动。本地化与进入国(地区)零部件生产水平和成本以及制度约束等因素相关。"
+  },
+  {
+   "cn": "场所",
+   "en": "locale",
+   "source": "地理学名词",
+   "wordNumber": "17.091",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "社会相互作用的环境或背景。"
+  },
+  {
+   "cn": "航向信标",
+   "en": "localizer",
+   "source": "航空科学技术名词",
+   "wordNumber": "07.182",
+   "subjectFullName": "航空科学技术_航空电子与机载计算机系统",
+   "subjectName": "航空电子与机载计算机系统",
+   "publishYear": "2003",
+   "definition": "仪表着陆系统中引导着陆航空器时对准跑道中心的设备。"
+  },
+  {
+   "cn": "定位器",
+   "en": "localizer",
+   "source": "医学名词 第五分册",
+   "wordNumber": "08.073",
+   "subjectFullName": "医学_眼科学_眼科器械",
+   "subjectName": "眼科器械",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "局限化",
+   "en": "localization",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.109",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "局部化",
+   "en": "localization",
+   "source": "数学名词",
+   "wordNumber": "04.0963",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "局部[的]",
+   "en": "local",
+   "source": "数学名词",
+   "wordNumber": "01.0064",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "航向信标",
+   "en": "localizer",
+   "source": "电子学名词",
+   "wordNumber": "20.097",
+   "subjectFullName": "电子学_导航",
+   "subjectName": "导航",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0693",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "基本网系统中，条件集 B 的元素称为条件。条件类似于一般佩特里网中的库所，不过它的容量值为1。"
+  },
+  {
+   "cn": "即位条件",
+   "en": "Conditions",
+   "source": "世界历史名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国最高枢密院为限制君主制，于1730年对安娜女皇登基所提出的条件。安娜表示应允，后又拒绝，并解散了最高枢密院。"
+  },
+  {
+   "cn": "地方性",
+   "en": "locality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "局部性",
+   "en": "locality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地方主义",
+   "en": "localism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "localization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本地化",
+   "en": "localization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地方,场所",
+   "en": "locale",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "航向信标",
+   "en": "localizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "程序局部性",
+   "en": "program locality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间局部性",
+   "en": "spatial locality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间局部性",
+   "en": "temporal locality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据局部性",
+   "en": "data locality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序局部性",
+   "en": "sequential locality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因地制宜",
+   "en": "adjusting measures to local conditions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "局部事务",
+   "en": "local transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据本地化",
+   "en": "data localization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地方性风",
+   "en": "local wind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本地容灾",
+   "en": "local disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域主任",
+   "en": "local competition director",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "局域网",
+   "en": "local area network (LAN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地方政府",
+   "en": "local authorities",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "在省、市、县、区等地方行政区域内依法设立，负责区域公共事务管理和公共服务提供的行政机构，是连接国家政策与地方执行的关键中介力量。"
+  },
+  {
+   "cn": "地方性法规",
+   "en": "local regulation",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "法定的地方国家权力机关依照法定的权限，在不与宪法、法律和行政法规相抵触的前提下，制定和颁布的在本行政区域范围内实施的管理规定。"
+  },
+  {
+   "cn": "地方标准",
+   "en": "local standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "为满足地方自然条件、风俗习惯等特殊技术要求，由省级标准化行政主管部门和经其批准的设区的市级标准化行政主管部门在农业、工业、服务业以及社会事业等领域制定的在本行政区域内适用的标准。"
+  },
+  {
+   "cn": "局部独立",
+   "en": "local independence",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.137",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "潜变量模型中的基本假设。若设定一个个体在潜变量上的分数，那么个体在观测项目上的得分相互独立。"
+  },
+  {
+   "cn": "地方法团主义",
+   "en": "local corporatism",
+   "source": "社会学名词",
+   "wordNumber": "3.6.1.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_政治社会学",
+   "subjectName": "政治社会学",
+   "publishYear": "2025",
+   "definition": "一些社会学家在研究中国改革的过程中提出的一种理论模式，认为地方权力与稳定的利益集团的结合产生了一种新的制度形式，这种形式既非市场形式，又非正式组织形式，反映了现有政体、社会关系和文化背景之间的相互渗透"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "相对于宏大叙事而言的现场知识系统。此概念由格尔茨(C.Geertz）于1970年代提出，强调在特定语境下被相互紧密关联的人与事编制起来的意义系统，它常见于相互认同的人群当中，职场、草根、在地等均属于这"
+  },
+  {
+   "cn": "地方自治",
+   "en": "local autonomy",
+   "source": "马克思主义",
+   "wordNumber": "03.0051",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "早期资本主义市民阶层以城市特许状为主要形式的城市自治制度体系。在西欧中世纪，随着城乡分离，以商人为主导的市民阶层逐渐崛起，为了维护自身的利益而要求从封建贵族手中取得城市的自治权利。国王为了制约贵族的权"
+  },
+  {
+   "cn": "局部洗消",
+   "en": "local decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.4",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "在染毒局部应用的洗消方法，用于消除毒剂以减轻伤害。"
+  },
+  {
+   "cn": "方志",
+   "en": "local chronicles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0018",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以一定体例记载一定行政单位的政治、经济、军事、文化、自然现象和自然资源的综合性著述，为一地的百科全书。"
+  },
+  {
+   "cn": "地方戏",
+   "en": "local opera",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0403",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "流行于一定地区，具有地方特色的戏曲剧种的通称。如晋剧、豫剧、越剧、黄梅戏、评剧、淮剧、秦腔、河北梆子、川剧、吕剧，同流行全国的剧种相对。"
+  },
+  {
+   "cn": "本土人类学",
+   "en": "local anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0018",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "来自同一国家之内的“世居民族”或“土著民族”的本地学家对自身社会文化进行的文化人类学（民族学）研究。"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0611",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国阐释人类学代表格尔茨（Clifford Geertz）提出的概念，意指从本地人的观点出发“解释”本地人（被研究者）的文化。"
+  },
+  {
+   "cn": "风土志",
+   "en": "local records",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0017",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "记载风土人情的志书，包括专门记载风俗的著作和方志中的风俗志。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "地区发展模式",
+   "en": "locality development model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "以地区，或地理社区为基础的经济、社会、文化等实质内容的发展；强调地区居民的合作与参与，从地区居民自身的需求和当地的资源、环境、人口等因素出发，解决地区问题，增进地区福利的发展模式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

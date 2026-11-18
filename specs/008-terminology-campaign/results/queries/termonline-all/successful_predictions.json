@@ -1,0 +1,752 @@
+{
+ "key": "successful predictions",
+ "term": "successful predictions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:03:38+00:00",
+ "status": "ok",
+ "note": "variant=successful predictions; 审定公布名词库=568; 海峡两岸名词对照库=179; 其他来源数据库=27; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "预测",
+   "en": "prediction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "在某件事情实际发生之前预言它的发生。"
+  },
+  {
+   "cn": "预测",
+   "en": "prediction",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0007",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "通过对过程的历史数据进行分析，由已知的模型去推测未知，从而揭示未来发展的趋势和规律的方法。"
+  },
+  {
+   "cn": "预测",
+   "en": "prediction",
+   "source": "核医学名词",
+   "wordNumber": "01.0053",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "对尚未发生、目前还不明确的事件进行预先估计，推测事件未来的发展趋势，从而协助掌握情况、选择对策的过程。"
+  },
+  {
+   "cn": "预测",
+   "en": "prediction",
+   "source": "化学工程名词",
+   "wordNumber": "07.007",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "风景园林名词",
+   "wordNumber": "12.0036",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "某一地段上一种生物群落被另一种生物群落所取代的过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession ",
+   "source": "草学名词",
+   "wordNumber": "2.0349",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "动物学名词",
+   "wordNumber": "7.0482",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "某一地段上群落由一种类型演变为另一类型的有顺序的更替过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "植物学名词",
+   "wordNumber": "13.0310",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "一定地段上一个植物群落被另外一个植物群落替代的过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "林学名词",
+   "wordNumber": "03.083",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "某一地段上群落由一种类型自然演变为另一类型的有顺序的更替过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0744",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "某一生物群落被另一生物群落所替代的发展过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "生态学名词",
+   "wordNumber": "06.122",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某一地段上群落由一种类型自然演变为另一类型的有顺序的更替过程。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "地理学名词",
+   "wordNumber": "06.151",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "一个植物群落逐渐被另一个植物群落代替的过程。"
+  },
+  {
+   "cn": "可预测性",
+   "en": "predictability",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.018",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "根据生物学元件构建代谢途径，使构建的代谢途径具有可预测的性质。利用可预测性可提高代谢工程改造的效率。"
+  },
+  {
+   "cn": "可预测性",
+   "en": "predictability",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0347",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "根据过去的经验，能在某种范围内对研究对象将来可能发生的变化进行估计、分析和推断的特性。"
+  },
+  {
+   "cn": "可预报性",
+   "en": "predictability",
+   "source": "大气科学名词",
+   "wordNumber": "06.381",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "利用一个给定的观测网能够预报未来大气状况的程度。通常用一个时段来表示，这个时段的预报是可信的。"
+  },
+  {
+   "cn": "可料[的]",
+   "en": "predictable",
+   "source": "数学名词",
+   "wordNumber": "09.0222",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "退化演替",
+   "en": "regressive succession,retrogressive succession",
+   "source": "植物学名词",
+   "wordNumber": "13.0317",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "在外因演替中由于人类活动影响或外部环境要素的不利变化导致植物群落逆正常演替方向发展的过程。"
+  },
+  {
+   "cn": "快速演替",
+   "en": "quick succession,rapid succession",
+   "source": "生态学名词",
+   "wordNumber": "06.124",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "演替延续时间为几年或十几年的演替。"
+  },
+  {
+   "cn": "成功的爆发",
+   "en": "successful eruption",
+   "source": "天文学名词",
+   "wordNumber": "09.337",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "日冕或色球结构失去稳定后出现了抛射运动，形成日冕物质抛射向行星际空间运动。"
+  },
+  {
+   "cn": "健康老龄化",
+   "en": "successful aging",
+   "source": "医学名词 第四分册",
+   "wordNumber": "10.036",
+   "subjectFullName": "医学_老年医学",
+   "subjectName": "老年医学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "预测",
+   "en": "prediction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可预报性",
+   "en": "predictability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态演替（=外因演替）",
+   "en": "ecological succession\",\"ecogenic succession (=exogenetic succession)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物性演替（=内因演替）",
+   "en": "plant succession\",\"phytogenic succession (=endogenetic succession)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "旱生演替",
+   "en": "xerarch succession\",\"xeric succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水生演替",
+   "en": "hydroarch succession\",\"hydrach succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "退化演替",
+   "en": "regressive succession\",\"retrogressive succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异发演替（=外因演替）",
+   "en": "allogenic succession (=exogenetic succession)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自发演替（=内因演替）",
+   "en": "autogenic succession (=endogenetic succession)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "旱生演替",
+   "en": "xerarch succession\",\"xeric succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "周期性演替",
+   "en": "periodic succession\",\"cycle succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自发演替",
+   "en": "autogenetic succession\",\"autogenic succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "异发演替",
+   "en": "allogenic succession\",\"allogenetic succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "水生演替",
+   "en": "hydrarch succession\",\"hydroarch succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中标",
+   "en": "successful bid",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有效攻击",
+   "en": "successful attack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预测性分析",
+   "en": "predictive analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预测型制造",
+   "en": "predictive manufacturing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续试举",
+   "en": "attempt in succession",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拦网成功",
+   "en": "successful block\",\"shut out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "试跳（投、掷）有效",
+   "en": "cleared trial\",\"successful trial\",\"valid trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "新型冠状病毒成功分离",
+   "en": "successful isolation of a novel coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "善胜兵者，先自修理",
+   "en": "Success in War Requires Good Organization.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "满招损，谦受益",
+   "en": "Complacency Leads to Failure; Modesty to Success.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "战法必本于政胜",
+   "en": "Methods of Warfare Must Be Based on the Success of Politics.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不获全胜决不轻言成功",
+   "en": "We will not proclaim success until we have secured the final victory over COVID-19.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预测",
+   "en": "prediction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "在某件事情实际发生之前预言它的发生。"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.6",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "城市社区从一种原始的、不稳定的阶段向一种比较永久性或高峰期的有序发展的过程。个体以及整个社区系统会经历一系列清晰可辨的阶段——从取得平衡到平衡被打破到建立新的平衡的过程。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance，succession",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.28",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "个体作为社会人所具有的权利、义务的总体，即地位或财产在其死亡或退位之时根据该社会公认的规则由特定的人所承继的行为。"
+  },
+  {
+   "cn": "预测效度",
+   "en": "predictive validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.82",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "一个指标能预测在逻辑上与概念相关的事件的量度。"
+  },
+  {
+   "cn": "预测力",
+   "en": "predictive power",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.166",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "在某件事情实际发生之前预言它的发生的能力。是检验一个科学理论是否有效的主要标准。"
+  },
+  {
+   "cn": "预测微生物学",
+   "en": "predictive microbiology",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.74",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "以工程数学、统计学、微生物学和计算机科学为基础，运用数学模型对食品生态环境条件下微生物行为进行定量分析的学科。"
+  },
+  {
+   "cn": "预置适应性应答",
+   "en": "predictive adaptive response",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.2.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "环境线索诱导机体形态和功能发育轨迹改变，诱导表型有利的一面在生命历程后一阶段展现的现象。即机体预先调整其生理功能，预期与未来环境匹配。是进化而来的适应性应答。"
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.34",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "某一个体在其死亡或退位之时将其作为社会之人所具有的权利、义务的总体，也即地位或财产转移给他人的社会制度。包括地位继承与财产继承。"
+  },
+  {
+   "cn": "抗休克成功率",
+   "en": "anti-shock success rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "每百名休克伤员经救治后解除休克的人数，反映各救治机构应急能力和救治水平。"
+  },
+  {
+   "cn": "预测标准误差",
+   "en": "standard error of prediction, SEP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.42",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "预测残差(预测值与实际值的差异)的标准差，是用来衡量模型预测值与真实观测值之间差异的统计指标，反映了模型在新样本上的平均预测误差。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "无产阶级实现对同盟者领导的条件",
+   "en": "conditions for the proletariat to lead the allies successfully",
+   "source": "马克思主义",
+   "wordNumber": "03.0437",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的统一战线的原则之一。1940年3月，毛泽东在《目前抗日统一战线中的策略问题》中指出了争取中间势力的三个条件：我们有充足的力量；尊重他们的利益；我们对顽固派作坚决的斗争，并能一步一步地取得胜"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "capabilities approach",
+ "term": "capabilities approach",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:06:06+00:00",
+ "status": "ok",
+ "note": "variant=capabilities approach; 审定公布名词库=462; 海峡两岸名词对照库=92; 其他来源数据库=52; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "能力",
+   "en": "capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0636",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "组织拥有资源和配置资源的知识和经验。体现在原料采集、产品开发、生产制造及市场营销的各项活动中。"
+  },
+  {
+   "cn": "固有能力",
+   "en": "capability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.017",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "切入量",
+   "en": "approach",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.011",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "为完成切入过程必须附加的行程长度。"
+  },
+  {
+   "cn": "趋近",
+   "en": "approach",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.313",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_金属切削机床_机床的运动",
+   "subjectName": "机床的运动",
+   "publishYear": "2021",
+   "definition": "进给运动开始前，加工工具与工件相互接近的过程。"
+  },
+  {
+   "cn": "销售拜访",
+   "en": "approach",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0639",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售人员第一次与顾客进行的接触。是销售过程的一个阶段。"
+  },
+  {
+   "cn": "进场",
+   "en": "approach",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.064",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "湿球温差",
+   "en": "approach",
+   "source": "土木工程名词",
+   "wordNumber": "11.312",
+   "subjectFullName": "土木工程_给水与排水工程_水处理",
+   "subjectName": "水处理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "引道",
+   "en": "approach",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.255",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "趋-趋冲突",
+   "en": "approach-approach conflict",
+   "source": "行为医学名词",
+   "wordNumber": "4.098",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体同时面对两个具有同样吸引力的目标，只能从中抉择其一时发生的心理冲突。如“鱼和熊掌不可兼得”。"
+  },
+  {
+   "cn": "能动断层",
+   "en": "capable fault",
+   "source": "地质学名词",
+   "wordNumber": "09.07.073",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "距今10ka或35ka以来(美国原子能委员会1973年规定距今30ka或50ka内)有过错动或发生过蠕动，仪器记录到小震活动或有多次历史地震事件记录，而据资料判断在不久的将来仍有可能出现错动的断层。"
+  },
+  {
+   "cn": "实验室能力",
+   "en": "laboratory capability",
+   "source": "农学名词",
+   "wordNumber": "18.075",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "实验场所进行检验检测所需的信息资源、环境、物质、人员、技术和专业知识等方面的满足程度。"
+  },
+  {
+   "cn": "战斗力",
+   "en": "warfighting capability",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.376",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "武装力量遂行作战任务和非战争军事行动的能力。由人、武器装备和人与武器装备的结合等基本要素构成。其强弱取决于人员和武器装备的数量和质量、体制编制的科学化程度、组织指挥和管理的水平、各种保障的能力、军事理"
+  },
+  {
+   "cn": "工程能力",
+   "en": "engineering capability",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.227",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "从事工程活动所需要的一系列能力系统。包括拥有科学知识、技术技能、管理能力，资金筹措能力，信息处理能力，自然资源与人力资源的开发能力，规避风险的能力，攻克壁垒、躲避陷阱的能力，产品的推销与服务能力，解决"
+  },
+  {
+   "cn": "能震断层",
+   "en": "capable earthquake",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0248",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "在地图上标出的、被认为是未来发生震级大于某一特定阈值地震的可能场所的断层。 "
+  },
+  {
+   "cn": "生殖功能",
+   "en": "reproductive capability",
+   "source": "生殖医学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "生殖医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "生物繁衍后代的功能和效能。"
+  },
+  {
+   "cn": "落砂性",
+   "en": "knockout capability",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.130",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_造型材料",
+   "subjectName": "造型材料",
+   "publishYear": "2021",
+   "definition": "表示浇注后型(芯)砂在落砂和清理过程中脱离铸件表面难易程度的性能。"
+  },
+  {
+   "cn": "最大功率",
+   "en": "maximum capability",
+   "source": "电力名词",
+   "wordNumber": "10.039",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "汽轮机在规定的终端参数下,所有调节汽阀完全开启时,发电机出线端所输出的功率。"
+  },
+  {
+   "cn": "能力计算",
+   "en": "capability computing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0106",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "一类高性能计算应用，基于计算密集型或数据密集型需求，强调缩短解题时间，以期得到强大处理能力，主要针对重大挑战性课题。"
+  },
+  {
+   "cn": "实验室能力",
+   "en": "laboratory capability",
+   "source": "核医学名词",
+   "wordNumber": "03.0754",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_核医学体外分析",
+   "subjectName": "核医学体外分析",
+   "publishYear": "2018",
+   "definition": "进行检验所需的物质、环境、信息资源，以及人员、技术和专业知识的综合。还包括与其他实验室的比对、外部质量评价或检验程序验证实验的结果，以及测量的确定度、检出限等“软”指标。"
+  },
+  {
+   "cn": "能力表",
+   "en": "capability list",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0162",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "标识主体对所有客体访问权限的列表。"
+  },
+  {
+   "cn": "能力",
+   "en": "capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "趋近",
+   "en": "approach",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "取向",
+   "en": "approach",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "除垢能力",
+   "en": "descaling capability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地基承载能力",
+   "en": "foundation capability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "能力制约",
+   "en": "capability constraint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "性能测试",
+   "en": "capability test",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "承载能力",
+   "en": "bearer capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后备能力",
+   "en": "backup capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "恢复能力",
+   "en": "recovery capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "能力表",
+   "en": "capability list",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "寻址能力",
+   "en": "addressing capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "栈容量",
+   "en": "stack capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "栖地承载力",
+   "en": "habitat capability",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "作战能力",
+   "en": "combat capability",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "共存分析",
+   "en": "coexistence approach",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统方法，生态系统途径",
+   "en": "ecosystem approach",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统途径（=生态系统方法）",
+   "en": "ecosystem approach",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "行近流速",
+   "en": "approach velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "引航道",
+   "en": "approach channel",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "力",
+   "en": "Strength/Capability",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据能力",
+   "en": "data capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融能力",
+   "en": "financial capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云能力",
+   "en": "cloud capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "层次化方法",
+   "en": "hierarchical approach",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国方案",
+   "en": "Chinese approach",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "上网击球",
+   "en": "approach stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "才",
+   "en": "Talent/Capability/ Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据应用能力",
+   "en": "data application capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景力",
+   "en": "scenario creation capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云应用能力",
+   "en": "cloud application capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云基础设施能力",
+   "en": "cloud infrastructure capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云平台能力",
+   "en": "cloud platform  capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全保护能力",
+   "en": "security protection capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全能力",
+   "en": "data security capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "助跑",
+   "en": "run\",\"running approach",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字技术能力建设",
+   "en": "digital technology capability building",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全能力成熟度",
+   "en": "data security capability maturity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回应性监管方式",
+   "en": "responsive regulatory approach",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乳化能力",
+   "en": "emulsify capability",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.13.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "乳化剂促使乳液形成的能力。通常以配置100g 乳液与所耗用的乳化剂的最少克数之比表示。"
+  },
+  {
+   "cn": "发展路径",
+   "en": "developmental approach",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.9",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "从事物的发生、成长、变化做历时态的考察从而做出对比说明的方式，与从事物的组成、结构上考察的共时态解释是相对应的方式。"
+  },
+  {
+   "cn": "谱系学路径",
+   "en": "genealogical approach",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.31",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "米歇尔·福柯提出的，以分析权力的形态、技术、过程和效果等为对象的研究路径，侧重于考察权力与知识之间的密切关系，如何形塑出“驯顺的身体”。譬如，在《规训与惩罚》中，他考察了“话语实践”即现代刑法学、犯罪"
+  },
+  {
+   "cn": "监测方法",
+   "en": "surveillance approach",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测方法”。又称“妇幼健康监测方法”。可满足不同监测目标的一套监测思维和工作方法。主要包括主动、被动、人群和医院监测。"
+  },
+  {
+   "cn": "结构主义方法",
+   "en": "structuralism approach",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.057",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "结构主义试图为各门科学提供一种普遍有效的方法，依据这种方法，人们可以把自己所遇到的现象整理成系统的整体；它不仅要解决某一系统内现象之间的相互关系，而且要找出各个系统、各个领域现象之间的关系，打破这些现"
+  },
+  {
+   "cn": "客位法",
+   "en": "etic approach",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.067",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "使用文化外来者的视角对研究对象进行研究的人类学研究方法。客位法涵盖了研究立场，是研究者以文化外来观察者的身份和角度去表述文化，以客观的标准对其行为进行因果分析和解释。在客位研究中，研究者通过对所搜集的"
+  },
+  {
+   "cn": "主位法",
+   "en": "emic approach",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0671",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "使用被研究者的视角对其进行研究的人类学研究方法。主位法主要用于根据当地人（或文化的拥有者）的文化视角进行文化的个案研究，表明了研究者站在被研究者的立场上来看待所研究的文化的基本立场。主位法将报道人放在"
+  },
+  {
+   "cn": "自传调查法",
+   "en": "autobiographical approach",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0672",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "以个人为对象，全面记录其生平经历，不仅可以反映出一个人的全部历史，还可以反映出他的家族史、行业史，以及民族史的某一侧面。取得被调查者的信任，是这一方法取得成功的关键。同一类型的人，要选择多个对象。对同"
+  },
+  {
+   "cn": "健康治理能力",
+   "en": "health governance capability",
+   "source": "社会医学名词",
+   "wordNumber": "6.2.4",
+   "subjectFullName": "健康治理",
+   "subjectName": "健康治理体系",
+   "publishYear": "2025",
+   "definition": "多元健康治理主体，运用多种治理工具和手段，推动健康治理从理念到行动全过程协同所具备的知识、经验、技能等要素总称。"
+  },
+  {
+   "cn": "服务能力评价",
+   "en": "service capability evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "采用适宜指标集和方法，评价妇幼卫生服务体系或服务提供者能力水平的过程。"
+  },
+  {
+   "cn": "基层服务能力",
+   "en": "primary service capability",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.11",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "基层医疗卫生机构通过整合人力资源、技术设备、服务流程及管理机制，为居民提供安全、有效、便捷、经济的基本医疗和公共卫生服务的能力。其核心在于通过系统性能力建设，确保基层卫生服务在可及性、质量、效率和公平"
+  },
+  {
+   "cn": "军事作业能力",
+   "en": "military operational capability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军人在从事劳动过程中，完成特定工作的能力，或在不改变作业质量指标的条件下，尽可能长时间地维持一定作业水平的能力。"
+  },
+  {
+   "cn": "临终",
+   "en": "approaching dying",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.037000000000001",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "生命临近终止。死亡前个体生命发生无法复原的衰减直至死亡的特殊生命阶段。"
+  },
+  {
+   "cn": "检测能力指导值",
+   "en": "detection capability guideline value",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.17",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "与科学、法律或其他要求相对应的有关检测能力的值，计划通过比较测量程序的检测限来评估。这个值可能基于实验室的历史数据、经验或行业标准确定，并用于指导实验室在特定条件下的测量工作。‌"
+  },
+  {
+   "cn": "健康需要法",
+   "en": "health need approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置标准",
+   "subjectName": "卫生资源配置标准",
+   "publishYear": "2025",
+   "definition": "以居民健康水平为目标，分析预测实现目标需要的卫生资源种类和数量的一种方法。是卫生资源需求预测的重要方法。"
+  },
+  {
+   "cn": "健康需求法",
+   "en": "health demand approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.2.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置标准",
+   "subjectName": "卫生资源配置标准",
+   "publishYear": "2025",
+   "definition": "以居民健康服务需求量为基础，分析预测需要的卫生资源种类和数量的一种方法。"
+  },
+  {
+   "cn": "陈述偏好法",
+   "en": "stated preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "采用调查的方式，让被调查人表达疾病治疗方案所带来的效益，以此对偏好进行估算的一种分析方法。"
+  },
+  {
+   "cn": "显示偏好法",
+   "en": "revealed preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在实际购买决策行为中观察个人的偏好强度的一种分析方法。"
+  },
+  {
+   "cn": "自下而上法",
+   "en": "bottom-up approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.5.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "根据疾病的平均治疗成本与疾病发病率（患病率）的乘积来计算疾病直接经济负担。"
+  },
+  {
+   "cn": "自上而下法",
+   "en": "top-down approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "测量归因于某个疾病或某危险因素暴露的疾病经济负担的方法"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,482 @@
+{
+ "key": "qualified phenomenalist",
+ "term": "qualified phenomenalist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:59:19+00:00",
+ "status": "ok",
+ "note": "variant=qualified phenomenalist; 审定公布名词库=38; 海峡两岸名词对照库=12; 其他来源数据库=13; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "修饰词",
+   "en": "qualifier",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.879",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_元数据",
+   "subjectName": "元数据",
+   "publishYear": "2019",
+   "definition": "当元数据元素无法满足对资源对象的精确描述需要时进一步扩展出的术语。包括两种类型：元素修饰词和编码体系修饰词。"
+  },
+  {
+   "cn": "合格人员",
+   "en": "qualified person",
+   "source": "电力名词",
+   "wordNumber": "17.577",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "就核安全管理和质量保证领域而言,符合特定要求、具备一定条件、且被指定授权执行规定任务和承担责任的人员。"
+  },
+  {
+   "cn": "限定组配",
+   "en": "qualified coordination",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.080",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "将表示某一事物的叙词与表示事物某一方面、某一属性的叙词组合起来表达一个新专指概念的组配方法。这种组配方式以概念的限定为基础，通过对一个泛指的属概念进行层层限定后形成的一个新的专指概念。"
+  },
+  {
+   "cn": "合格工人",
+   "en": "qualified worker",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1109",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "具备必要的素质、技能和知识，接受过某工作方法的完整训练，能独立完成所从事的工作，并在安全、质量和数量方面达到令人满意水平的操作工人。"
+  },
+  {
+   "cn": "保留意见",
+   "en": "qualified opinion",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0426",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "当存在下列情形之一时，审计师所发表的审计意见：①在获取充分、适当的审计证据后，审计师认为错报单独或汇总起来对财务报表影响重大，但不具有广泛性；②审计师无法获取充分、适当的审计证据以作为形成审计意见的基"
+  },
+  {
+   "cn": "合格人员",
+   "en": "qualified person",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.036",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "具备特定的条件、符合特定要求的人员。放射诊疗、强辐射源操作等关系到人身安全与健康的工作，应选用相应专业的合格人员担任，应按照规定的程序选择、培训、考核和任命这类人员。"
+  },
+  {
+   "cn": "合格专家",
+   "en": "qualified expert",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.309",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护管理",
+   "subjectName": "放射防护管理",
+   "publishYear": "2014",
+   "definition": "根据相应机构或学会所颁发的证书或所持有的职业许可证或根据学历和工作资历被确认为在相关专业领域(例如医学物理、辐射防护、职业保健、防火安全、质量保证或任何有关的工程和安全专业)具有专门知识的专家。"
+  },
+  {
+   "cn": "鉴定合格",
+   "en": "be qualified",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.043",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "合格人员",
+   "en": "qualified person",
+   "source": "电气工程名词",
+   "wordNumber": "29.048",
+   "subjectFullName": "电气工程_电气安全",
+   "subjectName": "电气安全",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "合格工程",
+   "en": "qualified project",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.1055",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "合格品",
+   "en": "qualified product",
+   "source": "电子学名词",
+   "wordNumber": "18.024",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "订单资格要素",
+   "en": "order qualifier",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0032",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "公司在市场上必须展示的作为一个可生存的竞争者的那些竞争性特征。"
+  },
+  {
+   "cn": "限定符号",
+   "en": "qualifying symbol",
+   "source": "电气工程名词",
+   "wordNumber": "01.908",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "合格投标商名单",
+   "en": "qualified vendors list",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.580",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "业主或买方编制的符合资质要求的供应商目录。"
+  },
+  {
+   "cn": "产品合格率",
+   "en": "qualified product rate",
+   "source": "冶金学名词",
+   "wordNumber": "01.0073",
+   "subjectFullName": "冶金学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "各类产品或阶段产品检验合格的量占产量的比例。"
+  },
+  {
+   "cn": "合格供应商目录",
+   "en": "qualified supplier list",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.090",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "操作合格率",
+   "en": "qualified rate of operation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.006",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "工艺卡片指标运行时，衡量指标运行值在其控制上下限范围内的比例。"
+  },
+  {
+   "cn": "教师学历合格率",
+   "en": "percentage of qualified teachers",
+   "source": "教育学名词",
+   "wordNumber": "09.182",
+   "subjectFullName": "教育学_教师教育_教师管理",
+   "subjectName": "教师管理",
+   "publishYear": "2013",
+   "definition": "达到国家规定学历的教师在教师整体数量中所占的比率。"
+  },
+  {
+   "cn": "配煤合格率",
+   "en": "qualified rate of coal blending",
+   "source": "电力名词",
+   "wordNumber": "08.155",
+   "subjectFullName": "电力_燃料",
+   "subjectName": "燃料",
+   "publishYear": "2020",
+   "definition": "符合锅炉燃烧要求的煤质配煤量占总配煤量的百分比。"
+  },
+  {
+   "cn": "碘盐合格率",
+   "en": "qualified rate of iodized salt",
+   "source": "地方病学名词",
+   "wordNumber": "04.097",
+   "subjectFullName": "地方病学_碘缺乏病_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "含碘量处于国家标准范围的盐样份数占所有检测含碘量≥5mg/kg 的盐样份数的百分率。"
+  },
+  {
+   "cn": "附条件背书",
+   "en": "qualified endorsement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合格品",
+   "en": "qualified product",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附条件承兑票据",
+   "en": "qualified acceptance of bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "全限定域名，全称域名",
+   "en": "fully qualified domain name\",\"FQDN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对付款地点有限制的承兑",
+   "en": "acceptance qualified as to place",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对付款时间有限制的承兑",
+   "en": "acceptance qualified as to time",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无条件背书",
+   "en": "unqualified endorsement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无条件承兑",
+   "en": "unqualified acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "航海性能",
+   "en": "seagoing qualities",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "量化知识复杂度",
+   "en": "quantified knowledge complexity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐波性",
+   "en": "seakeeping qualities\",\"seakeeping performance",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐波性衡准",
+   "en": "criteria of seakeeping qualities",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "获得参赛资格",
+   "en": "qualify",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "获得参赛资格",
+   "en": "qualify",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "达到参赛资格",
+   "en": "qualify",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "获得参赛资格",
+   "en": "qualify\",\"qualification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualifying competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "及格标准",
+   "en": "qualifying standard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualifying event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualifying pool",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualification\",\"qualifying round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合格境内机构投资者",
+   "en": "Qualified Domestic Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合格境外机构投资者",
+   "en": "Qualified Foreign Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人民币合格境外机构投资者",
+   "en": "RMB Qualified Foreign Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程器",
+   "en": "Assessment of One's Overall Qualities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合格专家",
+   "en": "qualified expert",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.5",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "根据相应机构或学会所颁发的证书或持有的职业许可证或根据学历和工作资历被确认为在相关领域（例如医学物理、辐射防护、职业保健、防火安全、质量保证或任何有关的工程和安全专业）具有专门知识的人员。"
+  },
+  {
+   "cn": "四有新人",
+   "en": "youngsters withfour qualities",
+   "source": "马克思主义",
+   "wordNumber": "03.0524",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1980年5月邓小平给《中国少年报》和《辅导员》杂志的题词:“希望全国的小朋友，立志做有理想、有道德、有文化、有纪律的人，立志为人民作贡献，为祖国作贡献，为人类作贡献。”“四有”指有理想、有道德、有文"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,462 @@
+{
+ "key": "stimulus argument",
+ "term": "stimulus argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:00:41+00:00",
+ "status": "ok",
+ "note": "variant=stimulus argument; 审定公布名词库=138; 海峡两岸名词对照库=46; 其他来源数据库=3; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.062",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "凡能引起机体新陈代谢改变或使细胞膜的电活动改变的各种内外环境因素。"
+  },
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "行为医学名词",
+   "wordNumber": "2.029",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "机体、器官或细胞所处内外环境的变化。由任何能量形式理化因素的变化构成。"
+  },
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "生理学名词",
+   "wordNumber": "02.303",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0630",
+   "subjectFullName": "食品科学技术_食品科学_食品分析_食品感官分析",
+   "subjectName": "食品感官分析",
+   "publishYear": "2020",
+   "definition": "能被机体、组织、细胞所感受到的生存环境的变化。"
+  },
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.082",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "能引起机体发生反应的环境条件因素。分为物理性、化学性和生物性。"
+  },
+  {
+   "cn": "刺激强度",
+   "en": "stimulus strength,stimulus intensity",
+   "source": "生理学名词",
+   "wordNumber": "02.306",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阈上刺激",
+   "en": "supraliminal stimulus",
+   "source": "麻醉学名词",
+   "wordNumber": "03.392",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_诱发肌收缩效应显示器",
+   "subjectName": "诱发肌收缩效应显示器",
+   "publishYear": "2024",
+   "definition": "刺激强度超过阈值的刺激。"
+  },
+  {
+   "cn": "阈下刺激",
+   "en": "subliminal stimulus",
+   "source": "麻醉学名词",
+   "wordNumber": "03.393",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_诱发肌收缩效应显示器",
+   "subjectName": "诱发肌收缩效应显示器",
+   "publishYear": "2024",
+   "definition": "刺激强度未达到阈值的刺激。"
+  },
+  {
+   "cn": "超强刺激",
+   "en": "supramaximal stimulus",
+   "source": "麻醉学名词",
+   "wordNumber": "03.395",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_诱发肌收缩效应显示器",
+   "subjectName": "诱发肌收缩效应显示器",
+   "publishYear": "2024",
+   "definition": "刺激电流强度增加到一定程度诱发的电位波幅不再增加时，再将刺激强度增加20%的刺激。"
+  },
+  {
+   "cn": "阈刺激",
+   "en": "threshold stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.066",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "相当于阈强度的刺激。"
+  },
+  {
+   "cn": "阈下刺激",
+   "en": "subthreshold stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.067",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "小于阈强度的刺激。"
+  },
+  {
+   "cn": "阈上刺激",
+   "en": "suprathreshold stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.068",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "大于阈强度的刺激。"
+  },
+  {
+   "cn": "最大刺激",
+   "en": "maximal stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.069",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "给予可兴奋细胞阈上刺激时，刺激效果随刺激强度增强而增大，但当刺激强度增强到一定水平时，刺激效果不再随之增大的阈上刺激。"
+  },
+  {
+   "cn": "适宜刺激",
+   "en": "adequate stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.070",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "自然条件下，能够引起某种组织或器官发生反应的刺激。"
+  },
+  {
+   "cn": "刺激控制[疗法]",
+   "en": "stimulus control",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.016",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_认知行为治疗",
+   "subjectName": "认知行为治疗",
+   "publishYear": "2022",
+   "definition": "一套行为干预措施。目的在于改善睡眠环境与睡眠倾向（睡意）之间的相互作用，恢复卧床作为诱导睡眠信号的功能，消除由于卧床后迟迟不能入睡而产生的床与觉醒、焦虑等不良后果之间的消极联系，使患者易于入睡，重建睡"
+  },
+  {
+   "cn": "环境刺激",
+   "en": "environmental stimulus",
+   "source": "行为医学名词",
+   "wordNumber": "2.026",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "环境中引起个体反应的刺激。能为人体感觉并引起组织细胞、器官或机体发生反应的内外环境变化。"
+  },
+  {
+   "cn": "阈刺激",
+   "en": "threshold stimulus",
+   "source": "行为医学名词",
+   "wordNumber": "2.075",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "相当于阈强度的刺激。大于或小于阈强度的刺激分别称为“阈上刺激（suprathreshold stimula-tion）”和“阈下刺激（subthreshold stimulation）”。"
+  },
+  {
+   "cn": "刺激控制",
+   "en": "stimulus control",
+   "source": "行为医学名词",
+   "wordNumber": "2.076",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "行为受环境刺激条件控制的程度。当个体学会对两个以上刺激中的每个刺激做出分化反应时，就辨别了两个以上的刺激，即处于刺激控制之下。"
+  },
+  {
+   "cn": "适宜刺激",
+   "en": "adequate stimulus",
+   "source": "行为医学名词",
+   "wordNumber": "3.268",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "某一种感受器只对特定形式和强度的刺激最敏感的现象。"
+  },
+  {
+   "cn": "内在刺激",
+   "en": "internal stimulus",
+   "source": "行为医学名词",
+   "wordNumber": "7.004",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_预防与干预",
+   "subjectName": "预防与干预",
+   "publishYear": "2022",
+   "definition": "源自机体内在的生理或心理刺激。"
+  },
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信号刺激",
+   "en": "sign stimulus\",\"token stimulus",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "增强刺激",
+   "en": "reinforcing stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激泛化",
+   "en": "stimulus generalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激维度",
+   "en": "stimulus dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激阈限",
+   "en": "stimulus threshold",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中性刺激",
+   "en": "neutral stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "标准刺激",
+   "en": "standard stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "歧义刺激，模糊刺激",
+   "en": "ambiguous stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辨别刺激,分辨刺激",
+   "en": "discrimination stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激强度",
+   "en": "stimulus intensity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉刺激",
+   "en": "acoustic stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近端刺激",
+   "en": "proximal stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激控制",
+   "en": "stimulus control",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "比较刺激",
+   "en": "comparison stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激变量",
+   "en": "stimulus variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信号刺激",
+   "en": "signal stimulus",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "信号刺激",
+   "en": "token stimulus",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三期叠加",
+   "en": "simultaneously deal with the slowdown in economic growth, make difficult structural adjustments, and absorb the effects of previous economic stimulus policies",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "鲎试验",
+   "en": "limulus test",
+   "source": "消毒学",
+   "wordNumber": "6.2.31",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "利用鲎试剂与细菌内毒素及β-葡聚糖反应，检测食品、水源、药品、医疗器械、动物体液等不同样品中的内毒素含量的试验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

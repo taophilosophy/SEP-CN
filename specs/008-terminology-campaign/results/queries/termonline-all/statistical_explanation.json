@@ -1,0 +1,762 @@
+{
+ "key": "statistical explanation",
+ "term": "statistical explanation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:11:28+00:00",
+ "status": "ok",
+ "note": "variant=statistical explanation; 审定公布名词库=514; 海峡两岸名词对照库=150; 其他来源数据库=24; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "说明",
+   "en": "explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.100",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "寻找现象或事件的原因或机制。"
+  },
+  {
+   "cn": "训释",
+   "en": "explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用语言来表述文献语言意义的工作。根据训释目的不同，可分为声训、形训和义训，根据训释的语言结构方式不同，可分为直训和义界。"
+  },
+  {
+   "cn": "解释",
+   "en": "explanation",
+   "source": "自动化名词",
+   "wordNumber": "05.105",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "说明的归纳-统计模型",
+   "en": "inductive-statistical model of explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.107",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学说明的一种方式。它的前提包括统计定律，被说明项有很高的概率从前提推导得出。"
+  },
+  {
+   "cn": "说明的统计-相关模型",
+   "en": "statistical-relevance model of explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.108",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学说明的一种方式。认为说明是与被说明项的概率相干的信息集合，而非被说明项相对于说明项的高概率。"
+  },
+  {
+   "cn": "结构说明",
+   "en": "structural explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "利用数学模型来说明物理世界中的特征，它显示被说明项如何反事实地依赖于模型的其他数学元素。"
+  },
+  {
+   "cn": "宏观说明",
+   "en": "macro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于大尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "微观说明",
+   "en": "micro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于小尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "概率说明",
+   "en": "probabilistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学说明的一种方式。它的前提包含适当的初始条件加上统计规律。"
+  },
+  {
+   "cn": "近因说明",
+   "en": "proximate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当某个有待说明的现象出现时，若科学家的注意力是放在一系列环环相扣的因果链上，从而找出时空上先于并邻接且又造成该现象之发生的原因，此时科学家所给出的说明就是近因说明。"
+  },
+  {
+   "cn": "终极说明",
+   "en": "ultimate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.457",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当生物学家想要说明一个有意义的生物学事件、性状或是过程时，他们会把它看成一种适应，是经过随机变化、自然选择之后而有的适应环境的结果，即便生物学家对进化历史中的许多细节仍然不清楚，但他们把这样的适应现象"
+  },
+  {
+   "cn": "机制说明",
+   "en": "mechanistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "通过某种方式或途径，对动力系统元素之间的作用的关系及其功能进行描述，分析动力系统的工作原理、相互作用产生的原因以及产生的过程。"
+  },
+  {
+   "cn": "科学解释",
+   "en": "scientific explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.198",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "依据科学理论，对有关的各种经验事实及其内在联系进行解释，从而在整体上把握对象的活动。"
+  },
+  {
+   "cn": "说课",
+   "en": "lesson explanation",
+   "source": "教育学名词",
+   "wordNumber": "02.213",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师对同伴教师解释自己的教学设计的一种教研形式。"
+  },
+  {
+   "cn": "互训",
+   "en": "mutual explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "两个词互相训释的直训。例如“排，挤也”“挤，排也”。"
+  },
+  {
+   "cn": "集解",
+   "en": "assembly explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.016",
+   "subjectFullName": "语言学_训诂学_训诂体式",
+   "subjectName": "训诂体式",
+   "publishYear": "2011",
+   "definition": "①汇集各家对同一部经典的注释，有时也补充汇集者自己的阐释的训诂体式。其名称有集解、集注等。例如南朝宋代裴骃的《史记集解》、宋代朱熹的《四书集注》。②合经与传注兼而解之的编纂样式。例如晋代杜预的《春秋经"
+  },
+  {
+   "cn": "单训",
+   "en": "unilateral explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.026",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "训释词与被训释词只是单向训释的直训。例如“璐，玉也”。"
+  },
+  {
+   "cn": "专书训释",
+   "en": "explanation compilated",
+   "source": "语言学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "脱离了典籍原文，按一定原则编排在专书中的训释。例如《说文解字》《方言》等专书中的训释。"
+  },
+  {
+   "cn": "统计法",
+   "en": "statistics",
+   "source": "物理学名词",
+   "wordNumber": "05.0573",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "统计学",
+   "en": "statistics",
+   "source": "核医学名词",
+   "wordNumber": "01.0038",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "利用概率论建立数学模型，收集数据，进行量化分析、比较，并进行判断和估测，为相关决策提供依据和参考的学科。"
+  },
+  {
+   "cn": "统计",
+   "en": "statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计学",
+   "en": "statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计学",
+   "en": "statistics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "统计学",
+   "en": "statistics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计学",
+   "en": "statistics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "统计量",
+   "en": "statistic",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计量",
+   "en": "statistic",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计量",
+   "en": "statistic",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "统计",
+   "en": "statistic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "统计量",
+   "en": "statistic",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "统计方法",
+   "en": "statistical method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计关联",
+   "en": "statistical dependence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计气候",
+   "en": "statistical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计气候学",
+   "en": "statistical climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计预报",
+   "en": "statistical forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计力学",
+   "en": "statistical mechanics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "统计理论",
+   "en": "statistical theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "统计热力学",
+   "en": "statistical thermodynamics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "统计链段",
+   "en": "statistical segment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "统计均匀性",
+   "en": "statistical homogeneity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "说知",
+   "en": "Knowledge from Explanation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释学习",
+   "en": "explanation-based learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "统计分布",
+   "en": "statistical distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述统计",
+   "en": "descriptive statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "推断统计",
+   "en": "inferential statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非参数统计",
+   "en": "nonparametric statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯统计",
+   "en": "Bayesian statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体育统计学",
+   "en": "sport statistics",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高维统计",
+   "en": "high-dimensional statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据统计分析",
+   "en": "Big Data Statistical Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务统计制度",
+   "en": "e-commerce statistical system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "统计监测与综合评价",
+   "en": "statistical monitoring and comprehensive evaluation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 10092-2009 数据的统计处理和解释 测试结果的多重比较》",
+   "en": "GB/T 10092-2009 Statistical interpretation of data — Multiple comparison for test results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 4089-2008 数据的统计处理和解释 泊松分布参数的估计和检验》",
+   "en": "GB/T 4089-2008 Statistical interpretation of data — Estimation and hypothesis test of parameter in Poisson distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "统计量",
+   "en": "statistic",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.39",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据总体中抽取的样本计算出的用来推论总体特征的值。"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.34",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从统计的意义上来说，在一定的显著性水平之下，样本统计量可以拒绝虚无假设的显著性。与“实质显著性”相对。"
+  },
+  {
+   "cn": "统计显著性",
+   "en": "statistical significance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.45",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "假设检验达到统计学显著性的标准，即P 值小于预先设定的检验水准α或者置信区间不包括零假设界值。"
+  },
+  {
+   "cn": "统计学模式",
+   "en": "statistical model",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0569",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-斯特劳斯（Claude Levi-Strauss）研究社会结构的四种模式之一，模式的成分与现象的模样不同，称为统计学模式；我们可以将统计学模式理解为表明实际情况如何。"
+  },
+  {
+   "cn": "描述性统计",
+   "en": "descriptive statistics",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "运用表格、图形和数字来概括数据特征的统计方法。包括单变量和多变量描述统计。"
+  },
+  {
+   "cn": "推论性统计",
+   "en": "inferential statistics",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.62",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据样本数据去推断总体数量特征的统计方法。包括参数估计和假设检验两种方法。"
+  },
+  {
+   "cn": "问题界定与分析解释",
+   "en": "problem definition, analysis and explanation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "通过对服务对象自身、外部环境以及服务对象的系统进行详细描述，以确定服务对象问题的发生原因与现状，并鉴定服务对象的优势与资源的专业活动。"
+  },
+  {
+   "cn": "数据统计系统",
+   "en": "data statistics system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "通过计算机程序收集和分析学生健康档案数据，按照用户需求总结出一定规律的网络平台。"
+  },
+  {
+   "cn": "军队卫生统计学",
+   "en": "military health statistics",
+   "source": "军事预防医学名词",
+   "wordNumber": "15",
+   "subjectFullName": "军事预防医学_军队卫生统计学",
+   "subjectName": "军队卫生统计学",
+   "publishYear": "2025",
+   "definition": "运用概率论与数理统计原理方法，结合军队卫生工作实际，研究数字资料收集、整理、分析与推断，侧重军队人群健康及卫生事业管理的数据处理，突出军队与方法应用特点，基本内容含部队平时、医院、战时卫生统计。"
+  },
+  {
+   "cn": "战时卫生统计",
+   "en": "health statistics in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对部队战时医疗卫生工作数字资料的搜集、整理和分析，主要反映部队减员、发病、伤部、伤类、伤因、伤情、伤病员转归，及各级救治机构床位展开、救治效果、伤病员转运等情况，为卫勤领导机关提供信息。"
+  },
+  {
+   "cn": "部队卫生工作统计",
+   "en": "army health work statistics",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "对部队人员预防保健以及卫生队伍建设情况数据的统计分析，资料主要来源于各种原始记录及专题调查资料，常用指标包括传染病漏报率、预防接种率、训练伤发生率、卫生人员在位率、卫生人员缺编率等。"
+  },
+  {
+   "cn": "医院综合效益统计",
+   "en": "hospital comprehensive benefit statistics",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "针对医院医疗工作数质量完成情况的统计信息进行综合分析，包括社会效益统计和经济效益统计。"
+  },
+  {
+   "cn": "伤员情况统计",
+   "en": "statistics of the wounded",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤员数量、伤情、救治情况等的统计，其原始资料主要来自伤票，并以战斗伤员登记、战时伤员死亡登记册等作对照，有关统计指标对卫勤机构和军事指挥员在指导和改进工作方面具有重要作用。"
+  },
+  {
+   "cn": "部队疾病统计",
+   "en": "disease statistics of military",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "主要对部队人员疾病特别是传染病、心理疾病发生及危害情况的统计分析，资料主要来源于部队平时卫生工作的日常登记、统计报表与专题调查，常用指标包括发病率、患病率、疾病构成比、缺勤率、送院率等。"
+  },
+  {
+   "cn": "平时卫生统计",
+   "en": "health statistics in peacetime",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "对部队平时医疗卫生保障工作数质量情况进行的原始登记、数据上报及统计分析，主要包括部队人员健康统计、部队疾病统计和部队卫生工作统计等方面，为上级机关汇总数据、指导部队基层卫生工作提供客观依据。"
+  },
+  {
+   "cn": "医院卫生统计",
+   "en": "health statistics in military hospital",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "运用卫生统计学与管理学方法，收集、整理分析医院各项业务活动数据的工作。它为管理者提供卫生资源、卫生技术人员管理及医疗工作等信息服务，是军队卫勤管理和医院管理的重要组成部分。"
+  },
+  {
+   "cn": "医院卫生资源统计",
+   "en": "statistics of hospital health resources",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "运用统计学方法，系统收集、整理、分析和推断医院各类卫生资源的数量、结构、分布、利用及变化规律的过程，核心是借量化数据反映资源配置效率与运行状况，为卫生规划、管理决策及政策制定提供科学依据。"
+  },
+  {
+   "cn": "部队人员健康统计",
+   "en": "health statistics of military personnel",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "对部队人员的健康诸资料的统计分析，主要包括：①部队人员健康状况及其分布与趋势；②部队环境因素、个人行为因素、心理因素等与疾病的关系；③部队保健措施落实情况及其效果；④保健经费管理与使用情况等。"
+  },
+  {
+   "cn": "战伤救治统计",
+   "en": "statistics of war wound treatment",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤员救治情况资料的统计，原始资料来自战斗伤员登记册和住院病员登记簿，主要统计指标有火线救护种类构成比、后运方法构成比、抗休克成功率、手术率、平均手术时间、输液[血]率、平均输液[血]量等。"
+  },
+  {
+   "cn": "伤病员去向统计",
+   "en": "statistics of destination of patients",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤病员的救治、康复和转归情况的统计分析，原始资料主要来自战斗伤员登记册和住院病员登记簿，主要统计指标包括归队率、后送率、留治率、残疾率等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

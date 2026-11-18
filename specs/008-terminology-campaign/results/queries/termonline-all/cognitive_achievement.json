@@ -1,0 +1,762 @@
+{
+ "key": "cognitive achievement",
+ "term": "cognitive achievement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:57:26+00:00",
+ "status": "ok",
+ "note": "variant=cognitive achievement; 审定公布名词库=233; 海峡两岸名词对照库=106; 其他来源数据库=16; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "成果",
+   "en": "achievement",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.176",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "由法定机关（一般指科技行政部门）认可，在一定范围内经实践证明先进、成熟、适用，能取得良好经济、社会或生态环境效益的科学技术成果。其内涵与知识产权和专有技术基本一致，是无形资产中不可缺少的重要组成部分。"
+  },
+  {
+   "cn": "成就感",
+   "en": "achievability",
+   "source": "行为医学名词",
+   "wordNumber": "5.025",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体通过努力成功达到追求目标时所产生的一种心理上的满足。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "神经外科学名词",
+   "wordNumber": "3.028",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "人类获取、加工、存储和使用信息的心理过程的总称。包括学习、思考、推理、记忆、解决问题、决策和注意力。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.179",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人类获取、加工、存储和使用信息的心理过程的总称。包括感觉、知觉、注意、记忆和思维等过程。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "行为医学名词",
+   "wordNumber": "2.089",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "个体获取、加工、存储和使用信息过程的总称。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.099",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "人类获取、加工、储存和使用信息的心理过程的总称。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "核医学名词",
+   "wordNumber": "04.0769",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "人脑接受外界信息，经过加工处理，转换成内在的心理活动，从而获取知识或应用知识的过程。包括记忆、语言、视空间、执行、计算和理解判断等方面。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "心理学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "人类获取、加工、存储和使用信息的心理过程的总称。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.020",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人们获得和利用信息的全部过程和活动。包括接收到外界信息的刺激，对接收到的信息做出解释，对信息做出反应，采取适当行动。"
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.180",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "人们认识与知晓事物过程的总称。包括感知、识别、记忆、概念形成、思维、推理及表象过程。实际上认知是大脑为解决问题而摄取、储存、重整和处理信息的基本功能。"
+  },
+  {
+   "cn": "成就测验",
+   "en": "achievement test",
+   "source": "行为医学名词",
+   "wordNumber": "19.052",
+   "subjectFullName": "行为医学_行为心理评估_心理评估_心理测验与测评",
+   "subjectName": "心理测验与测评",
+   "publishYear": "2022",
+   "definition": "能力测验的一种。对经过教育或训练后获得的知识、技能运用于实际工作中的表现进行评定，以认定学习和训练成效。个体在测验上获得的分数代表成就高低。常见的有学业成就测验和职业成就测验。"
+  },
+  {
+   "cn": "可交付成果",
+   "en": "achievement deliverable",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.006",
+   "subjectFullName": "化工（五）_研发与工程化_研发项目管理",
+   "subjectName": "研发项目管理",
+   "publishYear": "2021",
+   "definition": "在某一过程、阶段或项目完成时，必须产出的特有并可核实的产品、成果或服务能力。"
+  },
+  {
+   "cn": "成果奖",
+   "en": "achievement award",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.178",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "主要指中国各省级人民政府或国家部委授予的科技奖项。参照国家科技奖有一些分类，基本分类是最高奖、自然科学奖、技术发明奖、科技进步奖、成果推广奖等。"
+  },
+  {
+   "cn": "成果转让",
+   "en": "achievement transfer",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.182",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "科技成果在国家、地区、行业内部或之间以及自身系统内输入与输出的活动过程。"
+  },
+  {
+   "cn": "技术成果",
+   "en": "technical achievement",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.201",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "利用科学技术知识、信息和经验做出的涉及产品、工艺、材料及其改进等的技术方案。"
+  },
+  {
+   "cn": "成就测验",
+   "en": "achievement test",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0479",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "在规定时间内对应聘者现有知识与技能进行的测验。"
+  },
+  {
+   "cn": "成就测验",
+   "en": "achievement test",
+   "source": "心理学名词",
+   "wordNumber": "03.269",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "测量个体现有知识或技能水平的测验。包括学业成就测验和职业成就测验。"
+  },
+  {
+   "cn": "成就动机",
+   "en": "achievement motivation",
+   "source": "心理学名词",
+   "wordNumber": "09.056",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "努力克服困难、达到预期目标的内在动力和心理倾向。"
+  },
+  {
+   "cn": "学业成就",
+   "en": "academic achievement",
+   "source": "心理学名词",
+   "wordNumber": "09.116",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "在学校中的一般学科或具体技能方面获得的成就。"
+  },
+  {
+   "cn": "学业成绩测验",
+   "en": "achievement test",
+   "source": "教育学名词",
+   "wordNumber": "05.071",
+   "subjectFullName": "教育学_比较教育_美国教育",
+   "subjectName": "美国教育",
+   "publishYear": "2013",
+   "definition": "美国教育测验服务中心举办的一种用来测量学生对某一学科领域的知识、技能等掌握和发展情况的测验。"
+  },
+  {
+   "cn": "成就",
+   "en": "achievement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就者",
+   "en": "achiever",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成就测验",
+   "en": "achievement test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就商数",
+   "en": "achievement quotient",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学业成就",
+   "en": "academic achievement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "追求成就",
+   "en": "achievement striving",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就动机",
+   "en": "achievement motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就需要,成就需求",
+   "en": "need for achievement\",\"achievement need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可达率",
+   "en": "achievable rate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可达区域",
+   "en": "achievable region",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "认知重建，认知重构",
+   "en": "cognitive restructuring",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知图式",
+   "en": "cognitive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知策略",
+   "en": "cognitive strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知偏倚，认知偏差",
+   "en": "cognitive bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知工效学",
+   "en": "cognitive ergonomics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知学派",
+   "en": "cognitive school",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知障碍",
+   "en": "cognitive disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知计算",
+   "en": "cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知盈余",
+   "en": "cognitive surplus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对标达标行动",
+   "en": "benchmarking achievement action",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心知",
+   "en": "Mind Cognition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境认知",
+   "en": "environmental cognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知功能模拟",
+   "en": "cognitive function simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有容乃大",
+   "en": "A Broad Mind Achieves Greatness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨媒体感知计算",
+   "en": "cross-media cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "率先基本实现现代化引领区",
+   "en": "pioneer zone in basically achieving modernization",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "认知与智能服务",
+   "en": "cognitive computing and intelligent service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "音情顿挫",
+   "en": "Achieving Rhythm of Speech and Emotion and Cadence of Speech",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兄弟齐心，其利断金",
+   "en": "When brothers come together, there is nothing they cannot achieve.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "人文化成",
+   "en": "<div> Edify the Populace to Achieve a Harmonious Society</div><br />",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生命安全和生物安全领域的重大科技成果是国之重器。",
+   "en": "Major scientific and technological achievements in the fields of life safety and biosecurity are of vital importance to our country.  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "认识",
+   "en": "cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0155",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人脑在实践基础上对客观事物的能动反映，体现了认识主体的能动性、选择性和创造性。包括感性认识和理性认识。从生动的直观到抽象的思维，从抽象的思维到实践，是认识的辩证发展过程。"
+  },
+  {
+   "cn": "自致角色",
+   "en": "achieved role",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "不依赖于个体的先赋性条件，主要依靠自己后天的努力和行动而获得的角色地位。不过，这种角色与先赋性也具有一定联系，一些自致性角色可能只为那些由于先天性因素而具有优越条件的人开放。与“先赋角色”对立。"
+  },
+  {
+   "cn": "自致性身份",
+   "en": "achieved status",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "靠个人后天努力而获得的身份。比如，学历或专业技能资格等，以及基于学历和专业技能通过与他人竞争而获得的身份地位。与“先赋性身份”相对。"
+  },
+  {
+   "cn": "增长年龄",
+   "en": "achievable age",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.7",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "通过努力降低危险因素后可能达到的预期年龄，是根据已经存在的危险因素，提出可能降低危险因素的措施后预计的死亡水平计算出的评价年龄。"
+  },
+  {
+   "cn": "认知功能",
+   "en": "cognitive functioning",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "大脑接收、处理、存储和利用信息的一系列高级心理过程。包括时间与地点的定向、理解力、抽象思维、注意力、记忆力以及解决问题的能力等。是个体完成各种活动所需要的基本能力。"
+  },
+  {
+   "cn": "认知图",
+   "en": "cognitive map",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "展示研究对象的认知模式的网络状图形。其中，网络的节点表示特定的概念，节点间的联系表示概念间的关系。"
+  },
+  {
+   "cn": "认知一致",
+   "en": "cognitive agreement",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究者对某些命题或观点所持的相同看法。具体表现为不同的研究者对该命题或观点具有相似的知识结构。不同研究者之间的争论或冲突，常常是因为不同的价值观和利益造成的，而他们在认识上都是一致的。"
+  },
+  {
+   "cn": "认知不协调",
+   "en": "cognitive dissonance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "当个人的认知系统内的两种及以上的认知（如偏好、态度、观念、价值观或信念）存在不一致时，或者当个人行为与自有的信念、情感或者价值观不一致时所体验到的冲突状态。"
+  },
+  {
+   "cn": "认知人类学",
+   "en": "cognitive anthropology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "研究心智、语言和文化诸因素的关系，在认知心理学和结构语言学影响下发展起来，同时与结构人类学也有很大渊源。主要关注文化知识在日常生活中的组织和应用（如分类、推理）。"
+  },
+  {
+   "cn": "认知理论",
+   "en": "cognitive theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "以认知心理学为基础形成和发展起来的一种社会工作理论。该理论认为人的行为主要受制于理性思考，而不是潜意识的本能。不良行为主要产生于认知上的错误或理性思维能力的缺乏，社会工作的主要任务是帮助服务对象获得对"
+  },
+  {
+   "cn": "认知限制",
+   "en": "cognitive limitation",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.6",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体面对高度复杂的问题，无法实现效用最大化，这为危害健康行为的产生提供了一种解释。"
+  },
+  {
+   "cn": "认知疗法",
+   "en": "cognitive therapy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "认为个体出现心理问题的根源在于其在解释事件时往往带有负性自动化思维，因此主要通过矫正学生心理健康求咨者的不合理信念、不当思维过程来帮助其解决心理问题。"
+  },
+  {
+   "cn": "认知人类学",
+   "en": "cognitive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0597",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的一个分支学科和研究取向，研究人类认知模式在其所处文化与社会情境中形成与变化的过程。"
+  },
+  {
+   "cn": "认知障碍",
+   "en": "cognitive disorder",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.018",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "与学习记忆及思维判断有关的大脑高级智能加工过程出现异常，引起严重学习、记忆障碍，同时伴有失语、失用、失认或失行等改变的病理状态。"
+  },
+  {
+   "cn": "认知语言学",
+   "en": "cognitive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0013",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。20 世纪70 年代末兴起，认为语言能力是人类认知能力的一部分。对一些重要的语言学问题提出新的解释。例如，在范畴化问题上提出了原型理论，认为在多义词的诸多意义中，原型词义是中心，其他"
+  },
+  {
+   "cn": "社会认知",
+   "en": "social cognition",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "个人对他人的心理状态、行为动机、意向等作出推测与判断的过程。社会认知的过程既是基于认知者的既有经验及对有关线索的分析而进行的，又必须通过认知者的思维活动（包括一定程度的信息加工、推理、分类和归纳）来进"
+  },
+  {
+   "cn": "感性认识",
+   "en": "perceptual cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0240",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的低级阶段，人们在实践中，通过感觉器官直接接触外界事物，在头脑中产生对对象的现象、外部联系的认识。其特征是直接感受性、形象性、生动性，表现形式是感觉、知觉、表象，表现内容是事物的表象、外部联系"
+  },
+  {
+   "cn": "理性认识",
+   "en": "rational cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0241",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的高级阶段，是人们在感性认识的基础上，凭借抽象思维把握到的关于事物的本质、内部联系和规律的认识，具有抽象性、间接性、普遍性等特点，表现形式是概念、判断、推理。"
+  },
+  {
+   "cn": "十三个方面成就",
+   "en": "thirteen areas of achievement",
+   "source": "马克思主义",
+   "wordNumber": "03.0814",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九届六中全会决议从十三个方面总结了新时代历史性成就和历史性变革，即：在坚持党的全面领导上，党中央权威和集中统一领导得到有力保证，党的领导制度体系不断完善，党的领导方式更加科学，全党思想上更加统一"
+  },
+  {
+   "cn": "军事认知能力",
+   "en": "military cognitive ability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军事作业环境中军人对事物的构成、性能、发展、基本规律把握的能力，包括知觉、记忆、注意、思维、想象、反应和执行的能力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

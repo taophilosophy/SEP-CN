@@ -1,0 +1,672 @@
+{
+ "key": "contingent existence",
+ "term": "contingent existence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:10:33+00:00",
+ "status": "ok",
+ "note": "variant=contingent existence; 审定公布名词库=192; 海峡两岸名词对照库=48; 其他来源数据库=8; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "存在[性]",
+   "en": "existence",
+   "source": "数学名词",
+   "wordNumber": "01.0032",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "强迫输纳制度",
+   "en": "Contingent",
+   "source": "世界历史名词",
+   "wordNumber": "04.0279",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "荷兰东印度公司在印度尼西亚实行的征集实物作为赋税的制度，是掠夺印度尼西亚财富的重要手段之一。"
+  },
+  {
+   "cn": "基本预备费",
+   "en": "contingency",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.149",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "为应对某些不可预见因素（项目范围内的设计变化、一般自然灾害、隐蔽工程开挖和修复等）而预留的储备费。"
+  },
+  {
+   "cn": "或有事项",
+   "en": "contingency",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0078",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "由过去的交易或者事项形成的，其结果须由某些未来事项的发生与否才能决定的不确定事项。"
+  },
+  {
+   "cn": "预备费",
+   "en": "contingency",
+   "source": "建筑学名词",
+   "wordNumber": "05.0018",
+   "subjectFullName": "建筑学_建筑经济_工程造价",
+   "subjectName": "工程造价",
+   "publishYear": "2014",
+   "definition": "为建设项目不同阶段不可预见的工程和其他费用准备的预留金。包括基本预备费和涨价预备费。"
+  },
+  {
+   "cn": "不可预见费",
+   "en": "contingencies",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "存在空间",
+   "en": "existence space",
+   "source": "建筑学名词",
+   "wordNumber": "01.0098",
+   "subjectFullName": "建筑学_总论_建筑空间及建筑形式美学基础",
+   "subjectName": "建筑空间及建筑形式美学基础",
+   "publishYear": "2014",
+   "definition": "取决于人及其群体在其中的实际存在状况或存在方式的客观性空间。挪威建筑师诺伯格–舒尔茨(C.?Norberg-Schulz)所提出的关于存在空间的要素，以及从宏观到微观不同阶段的知觉图式体系等概念，丰富"
+  },
+  {
+   "cn": "实际胶质",
+   "en": "existent gum",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.1194",
+   "subjectFullName": "化工（一）_分析、化验、评定",
+   "subjectName": "分析、化验、评定",
+   "publishYear": "2017",
+   "definition": "在规定试验条件下，测得燃料的蒸发残留物。是判断油品安定性的指标，用mg/100mL表示。"
+  },
+  {
+   "cn": "实际胶质",
+   "en": "existent gum",
+   "source": "石油名词",
+   "wordNumber": "06.0331",
+   "subjectFullName": "石油_石油炼制_石油炼制产品性质及评价",
+   "subjectName": "石油炼制产品性质及评价",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "原地形标高",
+   "en": "existing elevation",
+   "source": "风景园林名词",
+   "wordNumber": "08.0065",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程地形整理",
+   "subjectName": "风景园林工程地形整理",
+   "publishYear": "2025",
+   "definition": "原有地面的相对或绝对高度。"
+  },
+  {
+   "cn": "存在约束",
+   "en": "existing constraint",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0217",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "键属性的值不能为空的一种约束。"
+  },
+  {
+   "cn": "现有竞争者",
+   "en": "existing rivalry",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0614",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "同行业中，已经存在的服务于同一目标市场的企业竞争对手。"
+  },
+  {
+   "cn": "既有线",
+   "en": "existing line",
+   "source": "土木工程名词",
+   "wordNumber": "08.141",
+   "subjectFullName": "土木工程_铁路工程_铁路设计",
+   "subjectName": "铁路设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "既有铁路",
+   "en": "existing railway",
+   "source": "铁道科学技术名词",
+   "wordNumber": "01.0032",
+   "subjectFullName": "铁道科学技术_铁道工程总类",
+   "subjectName": "铁道工程总类",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "现有公路",
+   "en": "existing highway",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "旧桥",
+   "en": "existing bridge",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "酌情筛查",
+   "en": "contingent screening",
+   "source": "妇产科学名词",
+   "wordNumber": "12.022",
+   "subjectFullName": "遗传咨询、产前筛查与产前诊断_产前筛查",
+   "subjectName": "产前筛查",
+   "publishYear": "2025",
+   "definition": "整合妊娠早、中期指标以评价胎儿染色体异常风险的方法。妊娠期首先进行妊娠早期筛查，筛查结果为胎儿风险高者应进行绒毛活栓术。其他孕妇继续妊娠至中期进行产前筛查，获得综合性风险评估报告的筛查过程。"
+  },
+  {
+   "cn": "或有负债",
+   "en": "contingent liabilities",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0181",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "由过去的交易或事项形成的、其存在须通过未来不确定事项的发生或者不发生予以证实的潜在义务；或由过去的交易或者事项形成的、其履行不是很可能导致经济利益流出企业或其金额不可能可靠计量的现时义务。"
+  },
+  {
+   "cn": "或有免疫",
+   "en": "contingent immunization",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0074",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "只要主动管理可以获得有利的结果，就对债券资产实行主动管理，一旦出现不利结果，债券资产立即就可以成为免疫资产，目的是获取一个比免疫资产更高的收益率的债券组合投资策略。"
+  },
+  {
+   "cn": "或有期权",
+   "en": "contingent option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0577",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "持有者行使权力时才需支付期权费的期权。如果不行使权力，期权持有者的成本为零。"
+  },
+  {
+   "cn": "疑存",
+   "en": "existence doubtful",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "现行抵押",
+   "en": "existing mortgage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现有数据",
+   "en": "existing data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "现有船",
+   "en": "existing ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "后效强化",
+   "en": "contingent reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "或有资产",
+   "en": "contingent asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应变关税",
+   "en": "contingent duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临时费用因数",
+   "en": "contingency factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "或有利润",
+   "en": "contingency profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "或有损失",
+   "en": "loss contingency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "偶然中断",
+   "en": "contingency interrupt",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "应变过程",
+   "en": "contingency procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "应变计划",
+   "en": "contingency plan",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疑存",
+   "en": "existence doubtful\",\"ED",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生存竞争",
+   "en": "struggle for existence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "现行特惠关税",
+   "en": "existing preferential duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "恍惚",
+   "en": "Intangible Existence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三界",
+   "en": "Traidhātuka / Three Realms of Existence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全应急预案",
+   "en": "contingency plan for big data security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理一分殊",
+   "en": "There Is But One Li (Universal Principle), Which Exists in Diverse Forms.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协和万邦",
+   "en": "Coexistence of All in Harmony",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深化疫情防控国际合作",
+   "en": "deeper international cooperation on epidemic prevention and control/containment measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偶然性",
+   "en": "contingency",
+   "source": "马克思主义",
+   "wordNumber": "01.0052",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“必然性”相对的哲学范畴。事物发展、变化中可能出现也可能不出现，可以这样发生也可以那样发生的状态和趋势。"
+  },
+  {
+   "cn": "存在",
+   "en": "being existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0012",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在不同派别的哲学中，“存在”这一范畴在不同意义上被使用。在马克思主义哲学中，存在是物质的同义语。"
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.109",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将观测到的数据频次分配到两个或多个类别变量上的统计表格。"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "认为没有普遍适用的、最合理的管理模式与原则，内部特征与所处环境的要求相匹配的组织适应性最强，所以组织必须随机制宜地处理管理问题的理论观点。"
+  },
+  {
+   "cn": "非压抑性生存",
+   "en": "non  repressive existence",
+   "source": "马克思主义",
+   "wordNumber": "05.0052",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，真正人道的文明可以使人从压抑性生存转变为非压抑性生存，主要表现在两个方面，即异化劳动转变为消遣，性欲升华为爱欲。"
+  },
+  {
+   "cn": "现存照射情况",
+   "en": "existing exposure situation",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.1.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类",
+   "subjectName": "照射情况分类",
+   "publishYear": "2025",
+   "definition": "在需要做出采取控制措施的决定时已经存在的照射情况。包括应控制的天然本底辐射的照射；放射性残留物质的照射，这些放射性残留物质来自过去实践（它未曾受到过审管控制）或来自已宣布应急照射情况结束后的核或放射应"
+  },
+  {
+   "cn": "必然性与偶然性",
+   "en": "necessity and contingency",
+   "source": "马克思主义",
+   "wordNumber": "01.0053",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "揭示事物发生、发展和灭亡的不同趋势的一对范畴。必然性是一般，是事物内在的本质联系，对事物发展起主导和支配作用；偶然性是特殊，是非本质联系，对事物发展其加速或延缓作用。必然性决定偶然性，是偶然性的基础，"
+  },
+  {
+   "cn": "条件价值评估法",
+   "en": "contingent valuation approach,CVA",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.6.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "通过假定一个特定的情景和描述可能的情况，来询问受试者的最大支付意愿或最小接收意愿的一种为商品或服务估算价值的方法"
+  },
+  {
+   "cn": "物质存在的基本形式",
+   "en": "basic forms of material existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0020",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "时间是物质运动的持续性、间隔性和顺序性。空间是物质运动的广延性、伸张性。时间和空间是与运动着的物质不可分离的基本存在形式，不存在与物质分离的绝对时空。"
+  },
+  {
+   "cn": "军队卫勤保障预案",
+   "en": "contingency plans for military health service",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.5",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤保障预案",
+   "subjectName": "军队卫勤保障预案",
+   "publishYear": "2025",
+   "definition": "军事预防医学保障的一种方案，据此进行平战时卫生保障、战备及突发公共事件时的军事预防医学应急工作。平时用于训练和战备的保障程序和专业技术训练、演练和执行任务时的协同。"
+  },
+  {
+   "cn": "【军队卫勤保障】预案种类",
+   "en": "classification of contingency plans for military health service",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.5.1",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤保障预案",
+   "subjectName": "军队卫勤保障预案",
+   "publishYear": "2025",
+   "definition": "包括平时、平转战及战时军事预防医学保障方案和突发公共事件应急医学救援预案等种类。根据预案的内容和针对性，可分为综合性预案、专项预案、本单位保障方案和现场保障方案等层次。"
+  },
+  {
+   "cn": "【军队卫勤保障】预案实施",
+   "en": "implementation of contingency plans for military health service",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.5.3",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤保障预案",
+   "subjectName": "军队卫勤保障预案",
+   "publishYear": "2025",
+   "definition": "保障预案在上级卫生行政部门备案后，卫勤保障训练中，使相关人员掌握程序，熟悉装备，做到需要时能按要求启动预案，迅速按照预案开展工作的过程。"
+  },
+  {
+   "cn": "【军队卫勤保障】预案内容",
+   "en": "the contents of contingency plans for military health service",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.5.2",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤保障预案",
+   "subjectName": "军队卫勤保障预案",
+   "publishYear": "2025",
+   "definition": "综合性预案至少包含10 个部分，包括总则、任务情景风险分析、组织结构及职责、准备、响应、信息管理、后期处置、保障措施、培训与演练、附则和附件。其中，准备部分至保障措施是预案主体。"
+  },
+  {
+   "cn": "包容",
+   "en": "containment",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.1.1",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护方法",
+   "subjectName": "内照射防护方法",
+   "publishYear": "2025",
+   "definition": "防止放射性物质穿过确定的边界向外界转移或扩散的方法或实体结构，即使在一般事故情况下，这类方法或实体也能阻止放射性物质的外泄达到不可接受程度。"
+  },
+  {
+   "cn": "安全壳",
+   "en": "containment",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.22",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "防止在反应堆失水事故和严重事故下放射性物质向环境释放、并保护反应堆冷却剂压力边界和安全系统抗御外部事件（如台风、飞机坠落和飞射物撞击等）的构筑物。"
+  },
+  {
+   "cn": "和平共处",
+   "en": "peaceful coexistence",
+   "source": "马克思主义",
+   "wordNumber": "03.0274",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1919年底列宁提出的社会主义国家处理与不同社会制度国家间关系的原则。其主要内容是：社会主义国家在忠实履行无产阶级国际主义义务的前提下，除了对帝国主义发动侵略战争进行必要自卫外，争取用和平方式解决彼此"
+  },
+  {
+   "cn": "安全壳喷淋系统",
+   "en": "containment spray system",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.9",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "在核电厂发生失水事故或安全壳内主蒸汽管道发生破裂时，为降低安全壳内的峰值压力和温度以防止安全壳超压失效而设置的系统。"
+  },
+  {
+   "cn": "长期共存互相监督",
+   "en": "longterm coexistence and mutual supervision",
+   "source": "马克思主义",
+   "wordNumber": "03.0396",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1956年4月，毛泽东在《论十大关系》中提出的正确处理中国共产党与各民主党派关系的方针。“长期共存”指坚持在共同政治基础上的多党派长期合作；“互相监督”需坚持中国共产党领导和社会主义道路等六项政治标准"
+  },
+  {
+   "cn": "和平共处五项原则",
+   "en": "Five Principles of Peaceful Coexistence",
+   "source": "马克思主义",
+   "wordNumber": "03.0503",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党和中华人民共和国处理国家之间关系的基本原则，这五项原则是：互相尊重主权和领土完整、互不侵犯、互不干涉内政、平等互利、和平共处。该原则最早是由周恩来于1953年12月31日在中国和印度两国政府"
+  },
+  {
+   "cn": "安全壳通风和净化系统",
+   "en": "containment ventilation and purge system",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.11",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "为创造反应堆运行和停堆换料期间人员进入安全壳所需的环境、排出安全壳中空气热量并去除其中有害物质以及参与失水事故后冷却安全壳内空气而设置的若干系统的总称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

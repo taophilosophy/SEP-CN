@@ -1,0 +1,762 @@
+{
+ "key": "divine goodness",
+ "term": "divine goodness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:05:07+00:00",
+ "status": "ok",
+ "note": "variant=divine goodness; 审定公布名词库=1886; 海峡两岸名词对照库=455; 其他来源数据库=129; 预公布名词数据库=117; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "卜",
+   "en": "bu;divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.468",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "用火灼龟甲、兽骨，据所产生裂纹形态预测吉凶的活动。殷商盛行，兼用“龟卜”“骨卜”，所用卜骨多为牛胛骨，亦有兽骨及少量人头骨，甲则多为龟腹、背甲。周人多用“龟卜”，用筮则称占。后世泛指各种占卜术。"
+  },
+  {
+   "cn": "贞人",
+   "en": "zhen ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.109",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "殷墟甲骨卜辞中所见占卜过程的具体主持者。约相当于后世的卜官。"
+  },
+  {
+   "cn": "卜人",
+   "en": "bu ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.128",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "商周王室或贵族家族中主持占卜仪式的史官。"
+  },
+  {
+   "cn": "正商品",
+   "en": "goods",
+   "source": "经济学名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "能够带来效用或满足的商品叫作正商品。对于这种商品，消费者倾向于选择更多而不是更少。"
+  },
+  {
+   "cn": "商品",
+   "en": "goods",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0011",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "可以被移动并出售的产品。"
+  },
+  {
+   "cn": "太卜",
+   "en": "tai bu;grand diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.108",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "卜官之长。在周王室与诸侯国中掌管占卜事务。后世为负责具体占卜之事的官称。"
+  },
+  {
+   "cn": "风角",
+   "en": "feng jiao;wind divination",
+   "source": "中国古代史名词",
+   "wordNumber": "1.494",
+   "subjectFullName": "中国古代史_通论_思想文化_科技",
+   "subjectName": "科技",
+   "publishYear": "2022",
+   "definition": "观察风向、云气声色以占吉凶的知识技术。相传始于黄帝时期，商周已据四面八方风向、风力占测气候、农事、疾疫，相关数术战国以来受阴阳五行说影响而系统化，汉以来多以此称，常归入数术的五行类，其术趋于琐杂。"
+  },
+  {
+   "cn": "卜辞",
+   "en": "bu ci;divination inscriptions",
+   "source": "中国古代史名词",
+   "wordNumber": "2.397",
+   "subjectFullName": "中国古代史_先秦_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "商周时期契刻在卜骨、卜甲上的占卜记录，分为前辞、命辞、占辞、验辞、用辞（也称“孚辞”）等部分。"
+  },
+  {
+   "cn": "卜夕",
+   "en": "bu xi;evening divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.469",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "殷商卜问夜晚有无灾祸、忧虑的仪式。殷墟甲骨文有卜“夕无忧”之辞。"
+  },
+  {
+   "cn": "习卜",
+   "en": "xi bu;repeat divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.471",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "因袭前事而重复占卜。殷墟甲骨文有“习兹卜”“习龟卜”，西周亦有此习。"
+  },
+  {
+   "cn": "筮",
+   "en": "shi;counting rod divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.473",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "以蓍草为工具的占卦活动。商周数字卦即在此基础上发展而来，西周以来盛行。"
+  },
+  {
+   "cn": "货物贸易",
+   "en": "goods trade",
+   "source": "农学名词",
+   "wordNumber": "19.134",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "实物商品的贸易。"
+  },
+  {
+   "cn": "公共产品",
+   "en": "public goods",
+   "source": "风景园林名词",
+   "wordNumber": "03.0047",
+   "subjectFullName": "风景园林_风景园林管理_行业和部门管理",
+   "subjectName": "行业和部门管理",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上的非竞争性和受益上的非排他性的产品。"
+  },
+  {
+   "cn": "良医",
+   "en": "good physician",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.067",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "中国古代医术精良、医德高尚的医生。而医术和医德低下的医生被称为“庸医”，这种称呼包含明显的道德评价成分。良医的具体表现是对医术精益求精，对患者视同亲人，敢于面对疑难杂症，勇于探索，善于创新。"
+  },
+  {
+   "cn": "良工",
+   "en": "good craftsman",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.071",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "管子学派对品行优良、技艺精湛的工匠的称谓。能够恪守技术规范而从不制作奇技淫巧之物。"
+  },
+  {
+   "cn": "预后良好",
+   "en": "good prognosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.324",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "病情轻的患病动物由于个体情况良好，恢复健康后不影响生产性能和经济价值的情况。"
+  },
+  {
+   "cn": "寝具",
+   "en": "sleeping goods",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.167",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_睡眠环境与睡眠卫生",
+   "subjectName": "睡眠环境与睡眠卫生",
+   "publishYear": "2022",
+   "definition": "与睡眠有关的床、床垫、床上用品等物品的统称。其空间方位、对躯体的承托、体表感受等均影响睡眠。"
+  },
+  {
+   "cn": "良质牧草",
+   "en": "good forage ",
+   "source": "草学名词",
+   "wordNumber": "3.003",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "成品",
+   "en": "finished goods",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "01.026",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "完成全部生产过程，可供销售的制品。"
+  },
+  {
+   "cn": "公共物品",
+   "en": "public goods",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.155",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "所有人都可以自由获得的物品或平等提供给一定地域内所有居民的物品。"
+  },
+  {
+   "cn": "神圣之诗",
+   "en": "Divine Poem\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Scriabin (Skriabin), Alexander"
+  },
+  {
+   "cn": "古德，理查德",
+   "en": "Goode\",\"Richard(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "良溶剂",
+   "en": "good solvent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "良溶剂",
+   "en": "good solvent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保税货物",
+   "en": "bonded goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际商品",
+   "en": "international goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①过境货物 ②转口货物",
+   "en": "floating goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[海关]扣押货物",
+   "en": "seized goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货物报关单",
+   "en": "goods declaration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货物抵押贷款",
+   "en": "goods credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经济货物",
+   "en": "economic goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "亏本出售的商品",
+   "en": "sacrifice goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "垄断货物",
+   "en": "monopoly goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货",
+   "en": "forward goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资货物",
+   "en": "investment goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现货",
+   "en": "actual goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应税货物",
+   "en": "dutiable goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "正常货物",
+   "en": "normal goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "转口货物",
+   "en": "transit goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "日常用品",
+   "en": "convenience goods",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "信",
+   "en": "Good Faith",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "界内！",
+   "en": "Good! In!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效回击",
+   "en": "good return",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法发球",
+   "en": "good service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效回击",
+   "en": "good return",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字公共产品",
+   "en": "digital public goods",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商品再流通",
+   "en": "recirculation of goods",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "货物质押系统",
+   "en": "goods pledge system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧善治",
+   "en": "intelligent good governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性善",
+   "en": "Human Nature Is Good.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "试举成功",
+   "en": "completed attempt\",\"good lift",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "政通人和",
+   "en": "Good Governance and Harmonious People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赏善罚恶",
+   "en": "Reward Good and Punish Evil",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "史才三长",
+   "en": "Three Strengths of a Good Historian",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "讲信修睦",
+   "en": "Keep Good Faith and Pursue Harmony",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.34",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "通过研究观察各种征兆所得到的不完全的依据来判断未知事物或预测未来的方法。通常被看成是巫术的组成部分，也与宗教有密切关联。"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0301",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "通过自然的、心理的或其他技法获得世间事物的信息以预测未来吉凶祸福的巫术；见于古今中外各地区。在西方，其主要形式为占星术，还有水晶球、纸牌等方式。在中国古代，“占”指观察，“卜”指烧灼龟壳，占卜最初指根"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0316",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "假鬼神意志裁决争论之是非曲直的一种活动；建立在神灵、鬼魂崇拜基础之上。一是用于驱逐灾魔。巫师念咒语，来回跳跃，表示以神的威力压倒邪恶；二是用于解决内部纠纷，裁决宗教诉讼。有捞油锅、捏鸡蛋、吃血酒等多种"
+  },
+  {
+   "cn": "善终",
+   "en": "good ending",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.037999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人因自然衰老而非祸患的无痛苦死亡。"
+  },
+  {
+   "cn": "正常品",
+   "en": "normal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "需求的收入弹性为正的商品，消费者对这种商品的需求水平随着收入的增加而提高。"
+  },
+  {
+   "cn": "劣等品",
+   "en": "inferior goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "需求的收入弹性为负的商品，消费者对该商品的需求水平随收入的增加而下降。"
+  },
+  {
+   "cn": "公共产品",
+   "en": "public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "既具有消费或使用上的非竞争性又具有受益上的非排他性的产品。分为准公共产品和纯公共产品。"
+  },
+  {
+   "cn": "个人产品",
+   "en": "personal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上的竞争性、受益上的排他性和缺乏外部效应特征的产品或服务。通常分为必需消费品和特需消费品两类。"
+  },
+  {
+   "cn": "良好健康",
+   "en": "good health",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5.2.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "是养育人进行良好照护的结果，具体包括监测儿童身心健康状态、回应儿童日常需要、保护儿童免受环境威胁、注意卫生预防感染、利用预防保健服务并及时诊治儿童疾病。"
+  },
+  {
+   "cn": "优逝",
+   "en": "good death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.006",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "关注临终者死亡质量的理念。医疗实践中以个人和社会文化为基础，通过科学、规范、个体化的安宁疗护和姑息护理，提供全方位的心理支持与生理照护，减少终末期患者身心痛苦。"
+  },
+  {
+   "cn": "好撒玛利亚人",
+   "en": "Good Samarian",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.031",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "这是一个比喻，是耶稣在路加福音10：25-37 中讲述的一个教导故事。一位旅行者，被剥去衣服，殴打，在路旁半死。首先来了一位牧师，之后是利未人，但他们都绕过了这个人，没有理会。最后，是一位撒马利亚人来"
+  },
+  {
+   "cn": "消费品生产",
+   "en": "consumer goods production",
+   "source": "马克思主义",
+   "wordNumber": "02.0211",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "用来满足人们物质和文化生活需要的那部分社会产品的生产活动。人类的生产活动，归根到底是为了生产生活资料的活动。"
+  },
+  {
+   "cn": "医疗用品费用",
+   "en": "medical goods expenditure",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5.6.5",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "利用医疗用品所支付的费用。"
+  },
+  {
+   "cn": "纯公共产品",
+   "en": "pure public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在消费方面具有完全的非竞争性或受益上完全的非排他性公共产品。"
+  },
+  {
+   "cn": "准公共产品",
+   "en": "quasi-public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上有限的非竞争性或受益上有限的非排他性的公共产品。"
+  },
+  {
+   "cn": "必需消费品",
+   "en": "essential consumer goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在经济学概念中，被社会认为人人应该得到的、服务价格弹性小、成本效益较好的产品。"
+  },
+  {
+   "cn": "特需消费品",
+   "en": "specialty consumer goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "用于满足某种特殊需要的、可根据人们的消费能力和偏好自由选择的产品。"
+  },
+  {
+   "cn": "善恶",
+   "en": "good and evil",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.117",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "用于对人的行为进行道德评价的伦理学范畴。善是对符合一定社会道德原则和规范的行为的肯定评价；恶是对违背一定社会道德原则和规范的行为的否定评价。作为元伦理范畴，客体有利于满足主体需要、实现主体欲望、符合主"
+  },
+  {
+   "cn": "拟合度",
+   "en": "goodness-of-fit measures",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.111",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以衡量统计模型描述观测数据组的效力的指标。"
+  },
+  {
+   "cn": "良好分销规范",
+   "en": "good distribution practice，GDP",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.4",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "为控制经销商、代理商、分销商等组织在分包、储存与分流等环节中的食品质量和安全，降低食品在上述过程中的污染、交叉污染、混淆和差错等风险而制定的质量安全控制和质量安全保障的规范或指南。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

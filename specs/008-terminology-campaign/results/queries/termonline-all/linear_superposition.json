@@ -1,0 +1,722 @@
+{
+ "key": "linear superposition",
+ "term": "linear superposition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:11:54+00:00",
+ "status": "ok",
+ "note": "variant=linear superposition; 审定公布名词库=2494; 海峡两岸名词对照库=503; 其他来源数据库=47; 预公布名词数据库=51; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "线性叠加",
+   "en": "linear superposition",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0454",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "对于一个线性系统，由几种因素综合作用产生的结果，等于这些不同因素单独产生效果的叠加，且与次序无关。 "
+  },
+  {
+   "cn": "线性叠加",
+   "en": "linear superposition",
+   "source": "物理学名词",
+   "wordNumber": "06.0542",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "重叠",
+   "en": "superposition",
+   "source": "语言学名词",
+   "wordNumber": "04.251",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "两个相同的语法结构形式相叠的语法手段。既有词法上的重叠，也有句法上的重叠。"
+  },
+  {
+   "cn": "构造叠加",
+   "en": "structural superposition",
+   "source": "地质学名词",
+   "wordNumber": "09.01.071",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在多期变形地区，晚期变形构造叠加在早期变形构造之上的现象。通常是指同一岩层的重褶皱变形(叠加褶皱)或同一断层晚期不同方向和性质的运动叠加和改造早期的构造形迹。"
+  },
+  {
+   "cn": "相干叠加",
+   "en": "coherent superposition",
+   "source": "光学名词",
+   "wordNumber": "01.520",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "两个或两个以上的同频同偏振的相干光波相遇时按照复振幅叠加的现象。叠加后的振幅和相位发生变化，出现明暗相间的干涉条纹，其光强不等于各波单独存在时各自光强的线性相加。"
+  },
+  {
+   "cn": "非相干叠加",
+   "en": "incoherent superposition",
+   "source": "光学名词",
+   "wordNumber": "01.521",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "两个或两个以上光束不满足相干条件相遇时按照光强叠加的现象。它说明在叠加区域总光波的光强为各波单独存在时的线性相加。"
+  },
+  {
+   "cn": "重叠眼",
+   "en": "superposition eye",
+   "source": "动物学名词",
+   "wordNumber": "5.1871",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "暗光活动的甲壳动物的复眼。能让光线透过无色素的小眼壁可衍射到相邻小眼的视杆部分，形成重叠像。"
+  },
+  {
+   "cn": "叠加定理",
+   "en": "superposition theorem",
+   "source": "电力名词",
+   "wordNumber": "01.278",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "电路理论定理,其内容为:在若干个以任意方式分布于电路里的电源电压或电源电流同时作用下,无源线性网络中任一支路电流和任意两节点间电位差等于单个电源电压或电源电流单独分别作用下该支路中诸电流的代数和及该节"
+  },
+  {
+   "cn": "非相干叠加",
+   "en": "incoherent superposition",
+   "source": "物理学名词",
+   "wordNumber": "04.1285",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "物理学名词",
+   "wordNumber": "03.0065",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲叠加",
+   "en": "pulse superposition",
+   "source": "核医学名词",
+   "wordNumber": "03.0196",
+   "subjectFullName": "核医学_核医学设备与操作_探测设备",
+   "subjectName": "探测设备",
+   "publishYear": "2018",
+   "definition": "在间隔极小时间内探测两个独立的物理量(如入射粒子)其能量转换过程部分重叠，产生较原始脉冲高而宽的单一脉冲的现象。"
+  },
+  {
+   "cn": "叠加演算",
+   "en": "superposition calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0129",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "对含等词的一阶逻辑进行定理证明的一种方法，是归结方法和基于序的等词处理方法的结合。"
+  },
+  {
+   "cn": "叠加态",
+   "en": "superposition state",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0099",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "如果一个量子系统的量子态可以是几种不同量子态中的任意一种，则它们的归一化线性组合也可以是其量子态。这一线性组合称为叠加态。"
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "化学名词",
+   "wordNumber": "04.1309",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "因为薛定谔方程是线性微分方程，所以若<img src='/root/syzx/static/spz/huaxue2.04.1309.1.png'/>都是体系可能的状态，那么其线性叠加<img src="
+  },
+  {
+   "cn": "叠加定理",
+   "en": "superposition theorem",
+   "source": "计量学名词",
+   "wordNumber": "10.106",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "在线性系统或线性电路中，如果有两个或两个以上的激励同时作用，则响应等于诸激励分别单独作用下产生的诸响应分量之和。"
+  },
+  {
+   "cn": "模态叠加",
+   "en": "mode superposition",
+   "source": "土木工程名词",
+   "wordNumber": "16.048",
+   "subjectFullName": "土木工程_地震工程与防震工程",
+   "subjectName": "地震工程与防震工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重叠眼",
+   "en": "superposition eye",
+   "source": "昆虫学名词",
+   "wordNumber": "04.111",
+   "subjectFullName": "昆虫学_昆虫内部构造",
+   "subjectName": "昆虫内部构造",
+   "publishYear": "2000",
+   "definition": "在暗光中活动的昆虫的复眼，它能让光线透过无色素的小眼壁而联相邻小眼的视杆部分，形成重叠像。"
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "叠加法",
+   "en": "superposition method",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "数学名词",
+   "wordNumber": "06.0279",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "叠加",
+   "en": "superposition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "叠加",
+   "en": "superposition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "叠加",
+   "en": "superposition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "叠加",
+   "en": "superposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "叠加定理",
+   "en": "superposition theorem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重复相眼",
+   "en": "superposition eye",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "重叠像",
+   "en": "superposition image",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "重叠眼",
+   "en": "superposition eye",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "玻尔兹曼叠加原理",
+   "en": "Boltzmann superposition principle",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "玻尔兹曼叠加原理",
+   "en": "Boltzmann superposition principle",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "叠加定律",
+   "en": "law of superposition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "重叠原理",
+   "en": "law of superposition",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "线性的",
+   "en": "linear",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性",
+   "en": "linearity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "线性化",
+   "en": "linearization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "线性度",
+   "en": "linearity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性四分子（=直列四分体）",
+   "en": "linear tetrad",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直列四分体，线性四分子",
+   "en": "linear tetrad",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子叠加",
+   "en": "quantum superposition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性规划",
+   "en": "linear programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性结构",
+   "en": "linear structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性方程组",
+   "en": "system of linear equations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阵容",
+   "en": "lineup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵容",
+   "en": "lineup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵容",
+   "en": "lineup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵容",
+   "en": "lineup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵容",
+   "en": "lineup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵容",
+   "en": "lineup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵容",
+   "en": "lineup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性表位",
+   "en": "linear epitope",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.23",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "蛋白质中能与T/B 细胞抗原受体结合的单个小区域的氨基酸序列。"
+  },
+  {
+   "cn": "直线加速器",
+   "en": "linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.3",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "将带电粒子沿直线路径加速的粒子加速器。"
+  },
+  {
+   "cn": "线性回归",
+   "en": "linear regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.83",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用回归方程表现一个随机变量的条件均值（因变量）同一个或多个解释变量（自变量）的对应值之间关系的统计分析方法。"
+  },
+  {
+   "cn": "线性生长",
+   "en": "linear growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "以骨骼生长为基础，反映人体长度生长的特征。"
+  },
+  {
+   "cn": "线衰减系数",
+   "en": "linear attenuation coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，其光子注量减少的份额。SI单位为每米，记作m-1。"
+  },
+  {
+   "cn": "电子直线加速器",
+   "en": "electron linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.7",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "利用射频电场加速电子的直线轨道加速器。由电子枪、加速管、射频功率源、射频传输、真空系统、冷却水、束流引出和控制等系统组成。被广泛地应用于肿瘤的放射治疗。"
+  },
+  {
+   "cn": "质子直线加速器",
+   "en": "proton linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.8",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "利用高频电场沿直线轨道加速质子的加速器。"
+  },
+  {
+   "cn": "对数线性模型",
+   "en": "log-linear model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.107",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把列联表的网格频数的对数表示为各变量及其交互效应的线性模型。"
+  },
+  {
+   "cn": "线碰撞阻止本领",
+   "en": "linear collision stopping power",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子在物质中穿行单位长度时，因电离、激发过程所损失的能量。SI单位为焦耳每米，记作J·m-1。"
+  },
+  {
+   "cn": "线辐射阻止本领",
+   "en": "linear radioactive stopping power",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子在物质中穿行单位长度时，因轫致辐射过程所损失的能量。SI单位为焦耳每米，记作J·m-1。"
+  },
+  {
+   "cn": "线能量转移系数",
+   "en": "linear energy transfer coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，光子能量向次级电子转移的份额。SI单位为米，记作m-1。"
+  },
+  {
+   "cn": "线能量吸收系数",
+   "en": "linear energy absorption coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，光子能量向次级电子转移，且通过次级电子的电离、激发过程被物质吸收的份额。SI单位为每米，记作m-1。"
+  },
+  {
+   "cn": "传能线密度",
+   "en": "linear energy transfer，LET",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "射线粒子在单位长度运动径迹上损失的平均能量。单位为千电子伏特每毫米，记作keV·mm-1。其大小取决于粒子所载电荷和粒子质量。"
+  },
+  {
+   "cn": "探测器剂量线性",
+   "en": "dose linear of detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.30",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "辐射探测器的响应与所测量的剂量值保持线性关系的现象。"
+  },
+  {
+   "cn": "广义线性模型",
+   "en": "generalized linear models (glm)",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "基于线性模型的结构，容纳了非正态和定类以及定序因变量的单一的统一的模型理论形式。"
+  },
+  {
+   "cn": "最佳线性无偏估计量",
+   "en": "best linear unbiased estimator",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.93",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "依照一定规则根据总体的样本的统计值而得到的对总体的估计值。该估价值的期望等于总体的真值，且该估计值的方差在所有的其他估价值的方差中最小。"
+  },
+  {
+   "cn": "非线性校正",
+   "en": "correction for non-linearity",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "剂量当量值在变化时的响应和参考响应的商。"
+  },
+  {
+   "cn": "线性生长性别差异",
+   "en": "sex difference in linear growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "随着年龄增加和青春期发育，男女间身高水平和增长速度的差别"
+  },
+  {
+   "cn": "线能",
+   "en": "lineal energy",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.14",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "在一小体积元中单次能量沉积事件的授予能，与穿过该小体积元的各向同性平均弦长的比值。是属于微剂量学的随机量。符号为y。单位为千电子伏每微米，记作keV·μm-1。"
+  },
+  {
+   "cn": "宗族",
+   "en": " lineage",
+   "source": "社会学名词",
+   "wordNumber": "4.2.6.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会组织",
+   "subjectName": "社会组织",
+   "publishYear": "2025",
+   "definition": "由血缘、姻缘和继嗣共同构成的亲属关系群体。拥有相同的姓氏和明确的共同祖先为继嗣对象的世系群体，并伴随拥有共同的亲属称谓系统。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

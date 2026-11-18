@@ -1,0 +1,732 @@
+{
+ "key": "reference sequence",
+ "term": "reference sequence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:15:42+00:00",
+ "status": "ok",
+ "note": "variant=reference sequence; 审定公布名词库=1409; 海峡两岸名词对照库=616; 其他来源数据库=118; 预公布名词数据库=58; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "参照序列",
+   "en": "reference sequence",
+   "source": "生物物理学名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "通过基因组测序等技术获得的指导后续研究的标准序列。"
+  },
+  {
+   "cn": "参考书目",
+   "en": "reference",
+   "source": "档案学名词",
+   "wordNumber": "04.03.125",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "与档案文献汇编题目有关的参考文献目录。"
+  },
+  {
+   "cn": "参照",
+   "en": "reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.637",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "在目录、索引或检索词表中，反映标目之间关系及其组织原则的一种手段。通常分为一般参照、单纯参照和相关参照。有两种用法：①用于作品正文中，通过某些常规词或词组来指引读者去查看作品的另外部分（如“见上”或“"
+  },
+  {
+   "cn": "参考文献",
+   "en": "references",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.088",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "在书籍、论文的正文之后或各部分之后一一列出所参考或引用文献的辅文。"
+  },
+  {
+   "cn": "引用书目",
+   "en": "bibliography reference,references",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.387",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "专门记载某一著作中引用过的各种著作及文章的目录。一般著录所引用著作或文章的名称、作者等。"
+  },
+  {
+   "cn": "引文检索",
+   "en": "reference search,reference retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "利用源文献与被引文献之间的引证关系，以被引著者姓名、被引刊名、被引文献题名等相关信息为检索点，查寻被引数据及相关文献信息的过程和方法。"
+  },
+  {
+   "cn": "工具书",
+   "en": "reference work,reference book",
+   "source": "语言学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "汇集特定知识领域的材料，采用一定格式编排，供人按需查检和获取各类信息的参考书。包括辞书、年鉴、手册、索引等。现代工具书分为印刷版和电子版两种类型。"
+  },
+  {
+   "cn": "虚指",
+   "en": "indefinite reference,vague reference",
+   "source": "语言学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "代词的一种用法。即用代词表示不便明说或无法说清的人或事物。例如“又要这样，又要那样，太过分了”和“去一趟也不算什么”中的“这样”“那样”“什么”。"
+  },
+  {
+   "cn": "参考剖面",
+   "en": "reference section",
+   "source": "地质学名词",
+   "wordNumber": "07.01.045",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "模式剖面确立后，可作为模式剖面标志的，参考用的某一单位或界限的露头。它从属于模式剖面，用以帮助阐明模式概念或将这种概念延展到其他地理区或邻区。可被指定为次层型。"
+  },
+  {
+   "cn": "基准平面",
+   "en": "reference plane",
+   "source": "整形外科名词",
+   "wordNumber": "12.206",
+   "subjectFullName": "整形外科_颅颌面整形_头影测量",
+   "subjectName": "头影测量",
+   "publishYear": "2026",
+   "definition": "头影测量分析中相对稳定的平面。由此平面与各测量标志点及其他测量平面间构成角度、线距、比例等8个测量项目，可用于确定头位和影像重叠定位。常用基准平面为前颅底平面、法兰克福平面和博尔顿平面。"
+  },
+  {
+   "cn": "相当点",
+   "en": "reference point",
+   "source": "地质学名词",
+   "wordNumber": "09.04.016",
+   "subjectFullName": "地质学_构造地质学_断裂构造",
+   "subjectName": "断裂构造",
+   "publishYear": "2026",
+   "definition": "断层面上的一点被切断后分离成的两点。用以确定断层位移，相当点之间的距离为断层总位移或总滑距。"
+  },
+  {
+   "cn": "相当层",
+   "en": "reference layer",
+   "source": "地质学名词",
+   "wordNumber": "09.04.017",
+   "subjectFullName": "地质学_构造地质学_断裂构造",
+   "subjectName": "断裂构造",
+   "publishYear": "2026",
+   "definition": "一个岩层被断层切割成的两个岩层。用以确定断层的断距。"
+  },
+  {
+   "cn": "参考基因组",
+   "en": "reference genome",
+   "source": "农学名词",
+   "wordNumber": "06.355",
+   "subjectFullName": "作物基因组学与遗传育种_作物基因组学",
+   "subjectName": "作物基因组学",
+   "publishYear": "2025",
+   "definition": "著名品种和代表种的全基因组DNA序列信息的集合。以染色体为单位进行组装和注释，是开展相关研究的参照系。"
+  },
+  {
+   "cn": "标准物质",
+   "en": "reference material",
+   "source": "农学名词",
+   "wordNumber": "18.071",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "具有足够均匀和一种或多种精确确定的特性值，用以校准设备、评价测量方法或给材料赋值的物质。"
+  },
+  {
+   "cn": "参考剂量",
+   "en": "reference dose",
+   "source": "农学名词",
+   "wordNumber": "18.160",
+   "subjectFullName": "农产品质量安全_农产品质量安全管理",
+   "subjectName": "农产品质量安全管理",
+   "publishYear": "2025",
+   "definition": "人类在环境介质（空气、水、土壤和食品等）中接触某种外源化学物的日平均剂量估计值。人群（包括敏感亚群）在终生接触该剂量水平外源化学物的条件下，预期一生中发生非致癌或非致突变有害效应的危险度可低至不能检出"
+  },
+  {
+   "cn": "决策参照",
+   "en": "decision reference",
+   "source": "风景园林名词",
+   "wordNumber": "03.0375",
+   "subjectFullName": "风景园林_风景园林管理_经济管理",
+   "subjectName": "经济管理",
+   "publishYear": "2025",
+   "definition": "人们在对决策方案（如得益或损失、各备择方案的可能结果分布等）进行判断和评价时，参照的标准。是一种决策理论。"
+  },
+  {
+   "cn": "参考价值",
+   "en": "reference value",
+   "source": "档案学名词",
+   "wordNumber": "01.03.007",
+   "subjectFullName": "档案学_总论_档案价值",
+   "subjectName": "档案价值",
+   "publishYear": "2024",
+   "definition": "档案所含信息对各项工作、科学研究以及满足个人需要有参考作用的价值。"
+  },
+  {
+   "cn": "卷内备考表",
+   "en": "reference appendix",
+   "source": "档案学名词",
+   "wordNumber": "02.05.017",
+   "subjectFullName": "档案学_文件管理_文件处置",
+   "subjectName": "文件处置",
+   "publishYear": "2024",
+   "definition": "置于卷末用于记载卷内文件立卷与利用状况的表格。主要包括备注或说明、立卷人、检查人、立卷时间等项目。"
+  },
+  {
+   "cn": "参考星",
+   "en": "reference star",
+   "source": "天文学名词",
+   "wordNumber": "01.107",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "在确定天体的位置和运动时，用作参考标准的恒星。"
+  },
+  {
+   "cn": "参考值",
+   "en": "reference value",
+   "source": "兽医学名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "兽医学_兽医公共卫生学",
+   "subjectName": "兽医公共卫生学",
+   "publishYear": "2023",
+   "definition": "绝大多数“正常人”的某指标值范围。“绝大多数” 通常是 95%。“正常人”是指排除了影响所研究指标的疾病和有关因素的同质人群。"
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "参考文献",
+   "en": "reference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "参照，参考",
+   "en": "reference",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接引用",
+   "en": "indirect reference",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "页码引证",
+   "en": "page reference",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "参考值",
+   "en": "reference value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参比条件",
+   "en": "reference condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参考标准",
+   "en": "reference standard",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参比接点",
+   "en": "reference junction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参比电极",
+   "en": "reference electrode",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参考温度",
+   "en": "reference temperature",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参考输入",
+   "en": "reference input",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参照群体",
+   "en": "reference group",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我参照",
+   "en": "self reference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "参考轨道",
+   "en": "reference orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "参考椭球",
+   "en": "reference ellipsoid",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "参考系",
+   "en": "reference system",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "参考星",
+   "en": "reference star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "参比池",
+   "en": "reference holder",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子时间基准",
+   "en": "quantum time reference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网参考体系结构",
+   "en": "IoT reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据参考模型",
+   "en": "data reference model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "查询引用模式",
+   "en": "query reference mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据参考体系结构",
+   "en": "big data reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网通信参考体系结构",
+   "en": "IoT communication reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网信息参考体系结构",
+   "en": "IoT information reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网功能参考结构",
+   "en": "IoT functional reference model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通信参考体系结构接口",
+   "en": "communication reference architecture interface",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息参考体系结构接口",
+   "en": "information reference architecture interface",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参考体系结构工作组",
+   "en": "Reference Architecture Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络征信体系",
+   "en": "online credit reference system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "参考条件下待测量参考值（Cr,0）的响应R0。      ，Gr,0是相应的指示值。"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.10",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "在应急照射情况或现存照射情况下，设定的一个剂量、危险或活度浓度水平。高于这个水平，允许照射的发生是不适当的；低于这个水平，防护和安全的最优化方案可继续执行。参考水平值的选择取决于所考虑的可能发生照射的"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，某一特定人群，具有典型的形态特性、组织特性、生理特性等的数据库，以便于对人群中不同个体能在同一生物学基础上统一对待，对不同群体间能用统一的标准进行比较。"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的男性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的女性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "参考体模",
+   "en": "reference phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.13",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会第110号出版物（ICRP，2009）中定义的人体计算模型（基于医学成像数据的男性或女性体素模型）、第89号出版物（ICRP，2002）中定义了男性参考人和女性参考人的解剖和生理特征"
+  },
+  {
+   "cn": "参考工作人员",
+   "en": "reference worker",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.14",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "由全身生物动力学、人体呼吸道、人体消化道和剂量学等模型和参数组成的理想化成人。其生物动力学模型的结构和参数值，以参考男性的参数值为依据，未考虑性别、年龄、种族和其他个体特异性特征的变化。"
+  },
+  {
+   "cn": "参考平面",
+   "en": "reference plane",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.36",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在模体中吸收剂量最大值处或与辐射类型相对应的某一特定深度下垂直辐射束轴且平行于模体表面的平面。"
+  },
+  {
+   "cn": "参考点",
+   "en": "reference point",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.40",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "参考平面与辐射束轴相交处的点。"
+  },
+  {
+   "cn": "参照群体",
+   "en": "reference group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "人们作为判断和评价人物、事物或社会现象的标准或仿效模范的群体，一般具有规范和比较两大功能。美国社会学家海曼(Hyman）1942年在研究个人对自身地位的看法时首次提出。"
+  },
+  {
+   "cn": "参考定价",
+   "en": "reference pricing",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "参照相近或类似医疗服务价格或国际价格水平进行定价的方法。"
+  },
+  {
+   "cn": "标准培养物",
+   "en": "reference cultures",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.51",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准菌株、标准储备菌株和工作菌株的统称"
+  },
+  {
+   "cn": "标准物质",
+   "en": "reference material",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.57",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "具有足够均匀和稳定的特定特性的物质，其特性被证实适用于测量中或标称特性检查中的预期用途"
+  },
+  {
+   "cn": "参考温度",
+   "en": "reference temperature",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.107",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "与微生物生长、繁殖等生物学过程相关的特定温度，用于研究和描述微生物的生态学、生理学和生长特性。"
+  },
+  {
+   "cn": "参比实验室",
+   "en": "reference laboratory",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "被指定处理与某一领域有关的所有科学和技术问题的实验室，还应为成员国人员提供科学和技术培训,并协调其他实验室组织合作，开展科学和技术研究。"
+  },
+  {
+   "cn": "标准储备菌株",
+   "en": "reference stocks",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.53",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "模式株经过一代转接后获得的同种菌株"
+  },
+  {
+   "cn": "参考剂量",
+   "en": "reference dose, RD",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.8.4",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "人类在环境介质中接触某种外源化学物的日平均剂量估计值，人群在终生接触该剂量水平下，预期一生中发生非致癌或非致突变效应的危险度可降低至不能检出的程度。"
+  },
+  {
+   "cn": "参考剂量",
+   "en": "reference dose, RfD",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.53",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一段特定时期内暴露于某种因素很可能不会产生有害效应的每日暴露量的估计值。特定时期可以是一日或终生等。"
+  },
+  {
+   "cn": "参考测量点",
+   "en": "reference measuring point",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.2.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于操作灭菌周期控制的温度传感器位置。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

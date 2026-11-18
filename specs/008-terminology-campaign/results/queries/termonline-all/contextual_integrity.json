@@ -1,0 +1,722 @@
+{
+ "key": "contextual integrity",
+ "term": "contextual integrity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:14:50+00:00",
+ "status": "ok",
+ "note": "variant=contextual integrity; 审定公布名词库=1542; 海峡两岸名词对照库=428; 其他来源数据库=90; 预公布名词数据库=74; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "语境主义",
+   "en": "contextualism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.192",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "认为科学哲学中的传统本体论、方法论和知识论问题，如认识论和方法论规范、意义标准等，都应该放置在具体实践的物质、技术、社会、文化、政治、经济等情境因素中去理解。"
+  },
+  {
+   "cn": "文脉主义",
+   "en": "contextualism",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.112",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法",
+   "subjectName": "城市规划理论与方法",
+   "publishYear": "2021",
+   "definition": "强调城市场所、空间和建筑环境的符号和意义之间的关联性和延续性的一种城市设计理念。"
+  },
+  {
+   "cn": "情景化",
+   "en": "contextualization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0387",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "将信息加入其场景因素的过程。"
+  },
+  {
+   "cn": "情境行为",
+   "en": "contextual behavior",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0020",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织与行为管理",
+   "subjectName": "组织与行为管理",
+   "publishYear": "2016",
+   "definition": "个体与特定情境之间的互动过程。"
+  },
+  {
+   "cn": "周边绩效",
+   "en": "contextual performance",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0635",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_绩效管理",
+   "subjectName": "绩效管理",
+   "publishYear": "2016",
+   "definition": "具体工作职责以外的额外努力产生的持续成效。"
+  },
+  {
+   "cn": "情境智力",
+   "en": "contextual intelligence",
+   "source": "心理学名词",
+   "wordNumber": "02.772",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "斯腾伯格智力三元论的一个组成，适应环境、选择合适的环境以及有效地改变环境以适应需要的能力。"
+  },
+  {
+   "cn": "周边绩效",
+   "en": "contextual performance",
+   "source": "心理学名词",
+   "wordNumber": "12.067",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "围绕组织持续发展而投入额外努力和敬业工作所获得的成效。"
+  },
+  {
+   "cn": "背景性因素",
+   "en": "contextual factor",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.039",
+   "subjectFullName": "物理医学与康复_总论_国际功能、残疾和健康分类",
+   "subjectName": "国际功能、残疾和健康分类",
+   "publishYear": "2014",
+   "definition": "国际功能、残疾和健康分类的一个重要维度，是构成个体生活的全部背景。包括环境因素和个人因素。"
+  },
+  {
+   "cn": "菌肉菌丝",
+   "en": "contextual hyphae",
+   "source": "微生物学名词",
+   "wordNumber": "03.306",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "组成层菌菌肉的菌丝。"
+  },
+  {
+   "cn": "场合语体",
+   "en": "contextual style",
+   "source": "语言学名词",
+   "wordNumber": "12.041",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "在一定场合下使用的语体的总称。"
+  },
+  {
+   "cn": "语境释义法",
+   "en": "contextual definition",
+   "source": "语言学名词",
+   "wordNumber": "06.315",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "释义方法的一种。借助例证反映出的具体使用语境来阐释语词的意义。"
+  },
+  {
+   "cn": "辞例推勘法",
+   "en": "contextual inference",
+   "source": "语言学名词",
+   "wordNumber": "02.207",
+   "subjectFullName": "语言学_文字学_汉字政策、应用研究等",
+   "subjectName": "汉字政策、应用研究等",
+   "publishYear": "2011",
+   "definition": "考释古汉字的一种方法。在偏旁分析和历史比较的基础上，将有关文字还原到一定的语言环境中，依靠上下文对文献辞例进行推勘核校，以辨识古汉字。"
+  },
+  {
+   "cn": "语流音变",
+   "en": "contextual variation",
+   "source": "语言学名词",
+   "wordNumber": "03.055",
+   "subjectFullName": "语言学_语音学_一般语音学",
+   "subjectName": "一般语音学",
+   "publishYear": "2011",
+   "definition": "受前后语音环境、轻重、语速等因素的影响而发生的语音变化现象。常见的语流音变现象有增音、减音、同化、异化等。"
+  },
+  {
+   "cn": "言语词",
+   "en": "contextual word",
+   "source": "语言学名词",
+   "wordNumber": "05.070",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "①在具体语境中使用的词。与语言系统的词相对。如与“裸奔”相对的“裸捐”。②言语表达者为达到特定的交际需要，对现有词灵活使用的词，或临时仿造、新创的词语。例如“裸退”（表示彻底从某个职位上退下来，不再担"
+  },
+  {
+   "cn": "背景理论",
+   "en": "contextual theory",
+   "source": "地理学名词",
+   "wordNumber": "17.003",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "把人类活动置于时空背景和时序中进行重新解释的方法。"
+  },
+  {
+   "cn": "语境化暗示",
+   "en": "contextualization cue",
+   "source": "语言学名词",
+   "wordNumber": "12.106",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "谈话过程中，说话人通过语码转换、韵律变化、词项与句型的选择等手段示意听话人应当怎样理解其真实用意，这些手段称为语境化暗示。"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrality;integrity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0365",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "用来衡量自然和/或文化遗产及其特征的整体性和无缺憾性。"
+  },
+  {
+   "cn": "教育情境知识",
+   "en": "contextual knowledge of education",
+   "source": "教育学名词",
+   "wordNumber": "09.211",
+   "subjectFullName": "教育学_教师教育_教师专业素养",
+   "subjectName": "教师专业素养",
+   "publishYear": "2013",
+   "definition": "教师在具体教育情境中应对教育现场状况所需要的知识。"
+  },
+  {
+   "cn": "文意训释",
+   "en": "explanation of contextual meaning",
+   "source": "语言学名词",
+   "wordNumber": "10.036",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "表述被训释词在言语环境中的具体含义的训释。例如“母也天只，不谅人只”，《毛诗故训传》：“天，父也。”“天”本无“父亲”之义，在此环境中具体指“父亲”。"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "档案学名词",
+   "wordNumber": "06.01.020",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件信息齐全且未被破坏、变异和丢失的特性。完整的文件满足以下条件：第一，每一份文件的内容、结构和背景信息没有缺损；第二，作为记录机构活动真实面貌的、具有有机联系的多份电子文件及其他形式的相关文件数量齐"
+  },
+  {
+   "cn": "关联性",
+   "en": "contextuality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "情景模式",
+   "en": "contextual model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境智力",
+   "en": "contextual intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "背景理论",
+   "en": "contextual theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "集成度",
+   "en": "○1integrity○2integration level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "积分",
+   "en": "integral",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "整合[作用]",
+   "en": "integration",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自我整合",
+   "en": "ego integration\",\"ego integrity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基因整合，遗传整合",
+   "en": "gene integration\",\"genetic integration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传整合（=基因整合）",
+   "en": "gene integration\",\"genetic integration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络化诚信",
+   "en": "networked integrity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整性",
+   "en": "data integrity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性服务",
+   "en": "integrity service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性原则",
+   "en": "integrity principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集成电路",
+   "en": "integrated circuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一体化感知",
+   "en": "integrated sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "整型数据",
+   "en": "integral data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据集成",
+   "en": "data integration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "整合照料",
+   "en": "integrated care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语境主义",
+   "en": "contextualism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.192",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为科学哲学中的传统本体论、方法论和知识论问题，如认识论和方法论规范、意义标准等，都应该放置在具体实践的物质、技术、社会、文化、政治、经济等情境因素中去理解。"
+  },
+  {
+   "cn": "背景效应",
+   "en": "contextual effects",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.139",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "回答人在回答一组题目或测试时，在先的回答对后续的回答产生的影响。是问题的次序效应之一。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.27",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "泛指把分散的诸要素组合在一起，形成一个有序的整体。社会学区分了社会整合与系统整合，前者指社会行动者之间和谐或冲突的关系，而后者则指社会系统作为一个整体，各部分之间相容与不相容的关系。"
+  },
+  {
+   "cn": "食品完整性",
+   "en": "food integrity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "研究食品的质量、安全和真实性的科学问题，确保在食品供应链的各个环节中，防止食品受到污染、掺假或欺诈，从而保障消费者的健康和权益，属于食品安全的延伸和深化。"
+  },
+  {
+   "cn": "节操",
+   "en": "moral integrity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "气节和操守的统称。前者表示一个人的精神力量，后者表示其道德品质。坚守某种被誉为高尚品质的行为表现。"
+  },
+  {
+   "cn": "包装密封性",
+   "en": "package integrity",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.20",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "产品的包装系统防止微生物或异物侵入以及维持产品各项质量指标持续符合安全和质量要求的能力。"
+  },
+  {
+   "cn": "社会整合",
+   "en": "social integration",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会不同的要素、各组成部分在一定的共同利益、文化精神和社会规范基础上结合为一个统一、协调的整体的过程。与“社会解组”相对。"
+  },
+  {
+   "cn": "垂直一体化",
+   "en": "vertical integration",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "公司通过兼并和收购若干个处于生产经营环节下游的企业将其经营活动向前扩展到销售终端，或通过收购一个或若干供应商向后扩展到原材料供应的一种战略行为。"
+  },
+  {
+   "cn": "整合的实务",
+   "en": "integrated practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "综合性地运用社会工作的个案、小组、社区三大方法，以实现以下一个或多个目标的社会工作实务模式：帮助人们获得实质性的服务；为个人、家庭和群体提供咨询和心理治疗；帮助社区或群体提供或改善社会服务与卫生服务；"
+  },
+  {
+   "cn": "纵向整合",
+   "en": "vertical integration ",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "同类不同层级的卫生机构间，通过自上而下的整顿重组方式，扩大延伸服务范围，为服务对象提供不同层次、相互补充、连续性的服务的过程。"
+  },
+  {
+   "cn": "横向整合",
+   "en": "horizontal integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "在一定范围的医疗服务市场中，同一层次服务机构间为达到降低服务成本、发挥规模经济的目的而形成合作或联盟关系的行为。"
+  },
+  {
+   "cn": "实体整合",
+   "en": "real integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.7",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "卫生服务提供者以资产和所有权整合为基础，形成一个独立法人机构对机构内资源统一管理和调配的资源整合形式。"
+  },
+  {
+   "cn": "虚拟整合",
+   "en": "virtual integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.8",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "以技术和管理等卫生系统要素为纽带，卫生服务提供者通过签订契约或组建集团的方式形成联合体的资源整合形式，可以在没有共同持有资产和所有权下分享资源。是一种没有财务责任、易解散的松散型整合。"
+  },
+  {
+   "cn": "文化整合",
+   "en": "cultural integration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0043",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同文化相互吸收、融化、调和而趋于一体化的过程。"
+  },
+  {
+   "cn": "完整皮肤消毒",
+   "en": "integral skin disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.3.2.1",
+   "subjectFullName": "消毒学_消毒应用_皮肤黏膜消毒",
+   "subjectName": "皮肤黏膜消毒",
+   "publishYear": "2025",
+   "definition": "对无损伤皮肤表面进行的消毒处理。"
+  },
+  {
+   "cn": "综合服务模式",
+   "en": "integrated service model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.31",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "由单一社会服务机构提供综合性服务，全面满足服务对象多重需求的服务提供模式，如在儿童福利院里，为儿童综合提供养、治、康、教和心理社会服务的模式。"
+  },
+  {
+   "cn": "专业整合服务",
+   "en": "disciplinary integrated service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.35",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "多个专业间进行分工协作，互相联系地提供整体性服务，如儿童福利院内各专业既在不同环节分工负责，又相互配合地为儿童提供一体化服务。"
+  },
+  {
+   "cn": "五位一体",
+   "en": "Fivesphere Integrated Plan",
+   "source": "马克思主义",
+   "wordNumber": "03.0795",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全称“五位一体整体布局”。“五位一体”是中国共产党十八次代表大会报告中关于现代化建设的新提法，是中国共产党对“实现什么样的发展、怎样发展”这一重大战略问题的科学回答。其主要内容包括：经济建设、政治建设"
+  },
+  {
+   "cn": "城乡统筹",
+   "en": "urban-rural integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.3.5",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金统筹",
+   "subjectName": "卫生资金统筹",
+   "publishYear": "2025",
+   "definition": "整合城镇居民基本医疗保险和新型农村合作医疗两项制度，建立统一的城乡居民基本医疗保险制度，实行统一的覆盖范围、筹资政策、保障待遇、医保目录、定点管理、基金管理的一种卫生资金统筹机制。"
+  },
+  {
+   "cn": "整合健康治理",
+   "en": "integrated health governance",
+   "source": "社会医学名词",
+   "wordNumber": "6.6",
+   "subjectFullName": "健康治理",
+   "subjectName": "整合健康治理",
+   "publishYear": "2025",
+   "definition": "以公众健康需求为导向，有机协同多元健康治理主体、治理领域与治理层级行动，推进不同系统、组织、服务、资源的全方位衔接与整合，以实现政策、管理、服务与行动的无缝衔接及一体化提供的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

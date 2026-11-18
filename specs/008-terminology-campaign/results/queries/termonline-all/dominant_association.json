@@ -1,0 +1,782 @@
+{
+ "key": "dominant association",
+ "term": "dominant association",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:59:33+00:00",
+ "status": "ok",
+ "note": "variant=dominant association; 审定公布名词库=990; 海峡两岸名词对照库=323; 其他来源数据库=46; 预公布名词数据库=60; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "显性",
+   "en": "dominant",
+   "source": "农学名词",
+   "wordNumber": "06.114",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由显性等位基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "优势者",
+   "en": "dominant",
+   "source": "动物学名词",
+   "wordNumber": "7.0413",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "群居性动物中，个体差异（包括行为和生理学水平方面产生差异）对食物或配偶等关键资源的均有优先利用权力者。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance ",
+   "source": "草学名词",
+   "wordNumber": "2.0361",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "动物学名词",
+   "wordNumber": "7.0462",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "某个种在群落中地位和作用的大小。但其具体定义和计算方法意见不一。法国学者布朗凯（J. Branquet）主张以盖度、所占空间大小或重量来表示优势度，并指出在不同群落中应采用不同指标。另一些学者认为盖度"
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.335",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由显性基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "植物学名词",
+   "wordNumber": "10.0028",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "由显性等位基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "植物学名词",
+   "wordNumber": "13.0277",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "物种在群落中的作用和地位的大小。通常用多度–盖度级或重要值等来表示。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "林学名词",
+   "wordNumber": "03.062",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "某个种在群落中所具有的作用和地位的大小。经常用相对多度来表示。"
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "遗传学名词",
+   "wordNumber": "02.025",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "由显性等位基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "生态学名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某个种在群落中所具有的作用和地位的大小。经常用相对多度来表示。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "昆虫学名词",
+   "wordNumber": "06.114",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "某种昆虫个体数占群落中总虫数的百分率大小，或它对群落所起作用的程度。"
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.045",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "优势序位",
+   "en": "dominance hierarchy;dominance order;dominance system",
+   "source": "动物学名词",
+   "wordNumber": "7.0318",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "依据个体在社群中的优势程度由高到低所排列的顺序。"
+  },
+  {
+   "cn": "超显性",
+   "en": "over dominant,super dominant",
+   "source": "水产名词",
+   "wordNumber": "05.181",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "等位基因在杂合时的表现型值或生理功能优于其任一纯合体的现象。"
+  },
+  {
+   "cn": "缔合",
+   "en": "association",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0123",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "两个或两个以上相同或不同的化学本体之间通过可逆连接而形成复杂物质的过程。"
+  },
+  {
+   "cn": "联想",
+   "en": "association",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.217",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "在认识活动中由一事物而想起相关的其他事物，从而深化认识、获得新知的一种创造性思维方法。"
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "植物学名词",
+   "wordNumber": "13.0386",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "不同学派有不同的理解。在中国，群丛为植被分类的最基本单位，指凡是物种组成基本相同，且层片结构和各层片的优势种或共优种(或标志种)相同，群落结构和动态特征(包括相同的季相变化规律和演替阶段等)以及生境相"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0319",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "类之间的一个关系。即这些类的对象实例集合的笛卡儿积的一个子集合，其中的元素提供了应用领域中一组有意义的信息。"
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "林学名词",
+   "wordNumber": "03.096",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "具有相似种类组成、优势种、结构和外貌的同类群落的集合。是植物群落的基本分类单‍位。"
+  },
+  {
+   "cn": "结社",
+   "en": "association",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0578",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "人们为了某种共同目的组成一定形式的社会组织。是人类在通过个人和家庭不能满足个人或社会需要后的产物。"
+  },
+  {
+   "cn": "属音",
+   "en": "dominant",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "优势者",
+   "en": "dominant",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "优势[度]",
+   "en": "dominance",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "优势序位",
+   "en": "dominance hierarchy\",\"dominance order\",\"dominance system",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "显性上位",
+   "en": "dominant epistasis\",\"dominance epistasis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显性效应",
+   "en": "dominant effect\",\"dominance effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "半显性（=不完全显性）",
+   "en": "semi-dominance (=incomplete dominance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "部分显性（=不完全显性）",
+   "en": "partial dominance (=incomplete dominance)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "联想",
+   "en": "association",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "缔合",
+   "en": "association",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "主宰",
+   "en": "dominate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主控式创新",
+   "en": "dominant innovation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "制数据权",
+   "en": "data dominance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "级别协会",
+   "en": "class association",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联想网络",
+   "en": "associative network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联想记忆",
+   "en": "associative memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主导技术社群",
+   "en": "dominant technical community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际开发协会",
+   "en": "International Development Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关联融合",
+   "en": "association and fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完全支配权",
+   "en": "right to complete dominance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际女子职业网球协会",
+   "en": "Women's Tennis Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赋比兴",
+   "en": "Narrative, Analogy, and Association",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际业余拳击协会",
+   "en": "International Boxing Association\",\"AIBA",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际男子职业网球协会",
+   "en": "Association of Tennis Professionals",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人视觉自联想",
+   "en": "robot visual auto-association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国小额信贷机构联席会",
+   "en": "China Microfinance Institution Association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主宰",
+   "en": "dominance",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "城市生态学中用于解释城市中各种因素分布规律的一条准则。通过对于城市土地及其位置的竞争，某些人群或功能因素主导了城市某区域的生态分布。"
+  },
+  {
+   "cn": "支配",
+   "en": "domination",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.9",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "权力行使的一种方式，指能够使特定人群服从命令的可能性。马克斯•韦伯按照服从的动机和基础将其分为法理型、传统型与卡理斯马型等三种。"
+  },
+  {
+   "cn": "结社",
+   "en": "association",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0281",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以自愿方式联结而成的人群，联结的纽带是地缘、业缘，经历、兴趣等等，使成员为着共同的目的，形成稳定的社会关系，并且用成文或者不成文的章程加以规定。"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.69",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个测量的量之间的统计依存关系。"
+  },
+  {
+   "cn": "协会",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "由个人、单个组织或机构为达到某种共同目标，通过签署协议，自愿组成的社会团体或组织。"
+  },
+  {
+   "cn": "优势法则",
+   "en": "dominant rule",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮层从作用于机体的大量刺激中，选择最重要、最符合自己目的的少数刺激，在相应大脑皮层区域形成优势兴奋灶，以确保该区域高效工作的活动特性。"
+  },
+  {
+   "cn": "绝对优势方案",
+   "en": "absolute dominance",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.7.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "相比于其他方案，成本较低且效果较好的方案。"
+  },
+  {
+   "cn": "男性霸权",
+   "en": "male-dominated",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.12",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "男权制社会中以男性为主导和中心的等级制统治模式，男性占据统治者和主导者的地位，拥有统治权和主导权，女性则处在被统治和被支配的地位。"
+  },
+  {
+   "cn": "团体标准",
+   "en": "association standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "依法成立的社会团体为满足市场和创新需要，协调相关市场主体共同制定的、供团体成员或社会自愿采用的标准。"
+  },
+  {
+   "cn": "同乡会",
+   "en": "hometown association",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "由同籍贯的人共同组成的联络、交流、互助、非盈利性、不结盟的民间团体。通常存在于移民中，又称“老乡会”。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "自由人联合体",
+   "en": "community association",
+   "source": "马克思主义",
+   "wordNumber": "03.0018",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯设想的在未来无产阶级国家自行消亡之后，将会产生的一个以生产者自由平等的联合体为基础，按新方式来组织的共产主义社会组织形式。马克思在1848年的《共产党宣言》和1867年的《资本论》中都明"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "source": "马克思主义",
+   "wordNumber": "03.0239",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会人类在全面而自由发展的基础上实行联合劳动的方式。在有阶级社会，社会分工的存在和生产资料掌握在少数人手里，使劳动者只有出卖劳动力才能生存，工作性质既狭隘片面又不自由。当共产主义实现时，代替那"
+  },
+  {
+   "cn": "社会支配性取向",
+   "en": "social dominance orientation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.19.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群际关系",
+   "subjectName": "群际关系",
+   "publishYear": "2025",
+   "definition": "人们对于特定社会环境中不同群体之间等级差异的接受程度，尤其是对于优势群体( superior group) 支配劣势群体(inferior group) 的接受程度。一般来说，具有高社会支配取向的人更"
+  },
+  {
+   "cn": "关联强度",
+   "en": "strength of association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.72",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以反应两个变量共变趋势和自变量影响因变量程度的量。"
+  },
+  {
+   "cn": "出生缺陷联合征",
+   "en": "birth defect association",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，两个或以上的出生缺陷组合以高于随机水平的频率同时出现在同一个体，且病因或因果关系未明。"
+  },
+  {
+   "cn": "医疗相关感染",
+   "en": "healthcare associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.5.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在接受治疗过程中获得的感染，或医务人员在医疗环境中履行职责时获得的感染。"
+  },
+  {
+   "cn": "器械相关感染",
+   "en": "device-associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.22",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在使用某种器械期间或其停止使用某种器械（如呼吸机、导尿管、血管导管等）48小时内出现的与该器械相关的感染。如果停止使用相关器械时间超过48小时后出现了相关感染，应有证据表明此感染与该器械使用有关，"
+  },
+  {
+   "cn": "差异交往理论",
+   "en": "theory of differential association",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "“不同接触理论”。解释社会越轨行为的一种理论。认为在与犯罪行为人或者违法团伙的交往和互动中，人们可能会学会越轨或者犯罪行为以及行为背后的价值观，从而对越轨或者犯罪行为予以认可，并加以模仿。由美国社会学"
+  },
+  {
+   "cn": "马克思学说研究会",
+   "en": "Marx Theory Research Association",
+   "source": "马克思主义",
+   "wordNumber": "04.0446",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "五四运动时期传播马克思主义的重要学术团体。1920年3月，由李大钊主持成立了北京大学马克思学说研究会。它是中国最早学习和研究马克思主义的团体，为中国共产党的建立作了准备。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

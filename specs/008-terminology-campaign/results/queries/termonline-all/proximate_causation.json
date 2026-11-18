@@ -1,0 +1,582 @@
+{
+ "key": "proximate causation",
+ "term": "proximate causation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:55:31+00:00",
+ "status": "ok",
+ "note": "variant=proximate causation; 审定公布名词库=207; 海峡两岸名词对照库=70; 其他来源数据库=17; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "下向因果关系",
+   "en": "downward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.710",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "描述系统高层级结构对它的次级结构起着原因作用的一种因果关系。最先由心理学家唐纳德·坎贝尔（Donald Campbell）提出。"
+  },
+  {
+   "cn": "上向因果关系",
+   "en": "upward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.711",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "复杂系统的结构层次之间存在的一种因果关系。在形成高层次系统后，低层次的元素及其协同相互作用依然对高层次的运作有某种决定作用。"
+  },
+  {
+   "cn": "接近性",
+   "en": "proximity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.066",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻价值",
+   "subjectName": "新闻价值",
+   "publishYear": "2022",
+   "definition": "新闻报道内容与读者之间在地域、文化、心理、知识、立场等方面具有的亲近关系或效应。接近性也与使用是否方便及民主、公正有关。"
+  },
+  {
+   "cn": "接近度",
+   "en": "proximity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0476",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "反映两个对象在特定空间中距离的指标。"
+  },
+  {
+   "cn": "近端",
+   "en": "proximity",
+   "source": "古生物学名词",
+   "wordNumber": "04.0147",
+   "subjectFullName": "古生物学_古植物学_藻类",
+   "subjectName": "藻类",
+   "publishYear": "2009",
+   "definition": "突起或装饰与膜壳接触的最接近部分。"
+  },
+  {
+   "cn": "始端",
+   "en": "proximal",
+   "source": "动物学名词",
+   "wordNumber": "5.2551",
+   "subjectFullName": "动物学_无脊椎动物学_苔藓动物门",
+   "subjectName": "苔藓动物门",
+   "publishYear": "2021",
+   "definition": "苔藓动物个虫或群体靠近初虫或群体生长源的一端。"
+  },
+  {
+   "cn": "近侧",
+   "en": "proximal",
+   "source": "手外科学名词",
+   "wordNumber": "03.0029",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "距肢体根部近端。解剖学方位术语。"
+  },
+  {
+   "cn": "近侧",
+   "en": "proximal",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0026",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "距肢根部较近者为近侧。"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causal relation; causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.213",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "事件A发生会导致事件B的发生，二者之间有律则必然性。因果关系具有相关性，但反之不然。"
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "source": "物理学名词",
+   "wordNumber": "01.0086",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "source": "心理学名词",
+   "wordNumber": "02.581",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "联想律之一。事物的原因与结果之间的观念可相互引起联想。"
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "心理学名词",
+   "wordNumber": "02.589",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在有因果关系的事物之间形成的联想。"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.067",
+   "subjectFullName": "放射医学与防护_放射流行病学_危险指标",
+   "subjectName": "危险指标",
+   "publishYear": "2014",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/ (ERR+1)。"
+  },
+  {
+   "cn": "接近式光刻",
+   "en": "proximity printing,proximity lithography",
+   "source": "光学名词",
+   "wordNumber": "26.009",
+   "subjectFullName": "光学_激光加工技术",
+   "subjectName": "激光加工技术",
+   "publishYear": "2021",
+   "definition": "将拟制备图形的掩模板与涂有抗蚀剂或光刻胶的基底(如硅片)接近但不接触(间隙为10～50μm)的光刻工艺。"
+  },
+  {
+   "cn": "工业分析",
+   "en": "proximate analysis",
+   "source": "农学名词",
+   "wordNumber": "14.214",
+   "subjectFullName": "农业工程_农业生物质与农村能源",
+   "subjectName": "农业生物质与农村能源",
+   "publishYear": "2025",
+   "definition": "对生物质的水分、灰分、挥发分和固定碳分析项目指标的测定。"
+  },
+  {
+   "cn": "近因说明",
+   "en": "proximate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当某个有待说明的现象出现时，若科学家的注意力是放在一系列环环相扣的因果链上，从而找出时空上先于并邻接且又造成该现象之发生的原因，此时科学家所给出的说明就是近因说明。"
+  },
+  {
+   "cn": "近因",
+   "en": "proximate cause",
+   "source": "动物学名词",
+   "wordNumber": "7.0029",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "引起生物生殖、换羽、迁徙等过程的、作为直接刺激的环境因子。如光照周期对于启动一些动物繁殖的作用。"
+  },
+  {
+   "cn": "工业分析",
+   "en": "proximate analysis",
+   "source": "电力名词",
+   "wordNumber": "08.039",
+   "subjectFullName": "电力_燃料",
+   "subjectName": "燃料",
+   "publishYear": "2020",
+   "definition": "对煤样的水分、灰分、挥发分和固定碳四种组分的测定。"
+  },
+  {
+   "cn": "煤焦工业分析",
+   "en": "proximate analysis",
+   "source": "冶金学名词",
+   "wordNumber": "05.0022",
+   "subjectFullName": "冶金学_钢铁冶金_炼焦",
+   "subjectName": "炼焦",
+   "publishYear": "2019",
+   "definition": "分析煤或焦炭的水分、灰分、挥发分和固定碳四项内容总称。"
+  },
+  {
+   "cn": "工业分析",
+   "en": "proximate analysis",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.239",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "对煤的水分（M）、灰分（A）、挥发分（V）和固定碳（FC)分析项目指标测定的总称。"
+  },
+  {
+   "cn": "近因，引信导因",
+   "en": "proximate cause\",\"proximate causation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "邻近度",
+   "en": "proximity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "近侧",
+   "en": "proximal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "近端[的]",
+   "en": "proximal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "近端的",
+   "en": "proximal",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果链",
+   "en": "chains of causation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "近因",
+   "en": "proximate cause",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近因,直接原因",
+   "en": "proximate cause",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "邻近相互作用",
+   "en": "proximate interaction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "近因",
+   "en": "proximate cause",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "邻近查询",
+   "en": "proximity query",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "邻近多边形",
+   "en": "proximity polygon",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "近贴聚焦",
+   "en": "proximity focusing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近端小管",
+   "en": "proximal tubule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "近侧中心粒",
+   "en": "proximal centriole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近极",
+   "en": "proximal pole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近[极]端",
+   "en": "proximal end",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近极面",
+   "en": "proximal face",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近端刺激",
+   "en": "proximal stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "《20192221-T-469 空间数据与信息传输系统 邻近-1空间链接协议 物理层》",
+   "en": "20192221-T-469 Space data and information transfer systems — Proximity-1 space link protocol — Physical layer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "告诫",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄牌警告",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "口头警告",
+   "en": "admonition\",\"caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution\",\"warning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据监护",
+   "en": "data curation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停止侵害",
+   "en": "cessation of infringement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "admonition\",\"warning\",\"caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控申机器人",
+   "en": "accusation and appeal robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution\",\"chui\",\"keikoku\",\"warning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "admonish\",\"caution\",\"warn\",\"admonition\",\"warning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顶层设计和摸着石头过河的关系",
+   "en": "the relationship between Top-level design and advancing with caution",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "近端指间关节",
+   "en": "proximal interphalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.13",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "近节指骨和中节指骨之间的指间关节。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  },
+  {
+   "cn": "主城市",
+   "en": "the primate city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.9.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_发展中国家的城市",
+   "subjectName": "发展中国家的城市",
+   "publishYear": "2025",
+   "definition": "发展中国家城市发展中出现的一个或数个超大城市的现象。这些城市的人口和影响力远远大于此国家或地区中的其他城市，表现出社会经济发展的极其不均衡问题。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

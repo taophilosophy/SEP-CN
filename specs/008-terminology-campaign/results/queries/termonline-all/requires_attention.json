@@ -1,0 +1,772 @@
+{
+ "key": "requires attention",
+ "term": "requires attention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:08:50+00:00",
+ "status": "ok",
+ "note": "variant=requires attention; 审定公布名词库=724; 海峡两岸名词对照库=207; 其他来源数据库=126; 预公布名词数据库=53; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.011",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "心理活动的指向性。心理活动或意识在某一时刻所处的状态，表现为对一定对象的指向和集中。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "生理学名词",
+   "wordNumber": "03.750",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "精神医学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "精神医学_症状与体征_注意障碍症状",
+   "subjectName": "注意障碍症状",
+   "publishYear": "2019",
+   "definition": "个体的精神活动集中地指向于一定对象的心理现象。不是一种独立的心理过程，与感知觉、记忆和思维等心理过程相互影响。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.212",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "约束认知或心理加工过程，使其指向和集中于有关信息，以增进这些信息加工速度和准确性的过程。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "心理学名词",
+   "wordNumber": "02.464",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "心理活动的指向性。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.181",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "从同时呈现的几个物体或思维序列中选择一个对象的过程。一般是指人们集中于某种特殊内、外环境刺激而不被其他刺激分散的能力。"
+  },
+  {
+   "cn": "需要量",
+   "en": "requirement",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_基础研究",
+   "subjectName": "基础研究",
+   "publishYear": "2019",
+   "definition": "在最适宜环境条件下，正常、健康生长或达到理想状态对各种营养物质种类和数量的最低要求。一个群体平均值，不包括一切可能增加需要量而设定的保险系数。"
+  },
+  {
+   "cn": "需求",
+   "en": "requirement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0230",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "可计算性中的一个条件通常涉及所有图灵机，因此每一个图灵机要求一个子条件，这个子条件就称为一个需求。"
+  },
+  {
+   "cn": "需求",
+   "en": "requirement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0127",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "用户或其他利益相关者对被开发的软件产品所提出的要求和期望，包括功能需求和非功能需求。"
+  },
+  {
+   "cn": "要求",
+   "en": "requirement",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0537",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "明示的、通常隐含的或必须履行的需求或期望。"
+  },
+  {
+   "cn": "眼球经济",
+   "en": "attention economy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.069",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济",
+   "subjectName": "传媒经济",
+   "publishYear": "2022",
+   "definition": "经营消费者的注意力，并把这种无形资产转换成有形的经济效益或广告价值、资本价值的配置过程。"
+  },
+  {
+   "cn": "不随意注意",
+   "en": "involuntary attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.012",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "由强烈、新颖或感兴趣的事物引发的无预定目的和意志努力的注意。"
+  },
+  {
+   "cn": "随意注意",
+   "en": "voluntary attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.013",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "自觉的、有预定目的、需要一定意志努力的注意。"
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "生理学名词",
+   "wordNumber": "03.751",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分配性注意",
+   "en": "divided attention",
+   "source": "生理学名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意锁定",
+   "en": "engaging attention",
+   "source": "生理学名词",
+   "wordNumber": "03.753",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意广度",
+   "en": "attention span",
+   "source": "精神医学名词",
+   "wordNumber": "02.156",
+   "subjectFullName": "精神医学_症状与体征_注意障碍症状",
+   "subjectName": "注意障碍症状",
+   "publishYear": "2019",
+   "definition": "同一时间内个体能够清楚觉察或知觉的客体数量。"
+  },
+  {
+   "cn": "注意广度",
+   "en": "attention span",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.170",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "同一时间内个体能够清楚觉察或知觉的客体数量。"
+  },
+  {
+   "cn": "内隐注意",
+   "en": "covert attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.222",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "将注意朝向特定的刺激且不伴随头部或眼睛的运动。"
+  },
+  {
+   "cn": "外显注意",
+   "en": "overt attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.221",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "将注意朝向特定的刺激且伴随头部或眼睛的运动。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "需求",
+   "en": "requirement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意广度",
+   "en": "attention span",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉注意",
+   "en": "auditory attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意力经济",
+   "en": "attention economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意注意,不随意注意",
+   "en": "involuntary attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分配性注意",
+   "en": "divided attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有意注意,随意注意",
+   "en": "voluntary attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择注意",
+   "en": "selective attention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "引起注意装置",
+   "en": "attention device",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意力聚焦",
+   "en": "attention focusing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意转移",
+   "en": "attentional shifting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意过程",
+   "en": "attentional process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意阶段",
+   "en": "attentive stage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "需求时间",
+   "en": "required time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "需光量",
+   "en": "light requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "功需要量",
+   "en": "work requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "通风需求",
+   "en": "ventilation requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "注意力",
+   "en": "attention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意力机制",
+   "en": "attention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意：淘汰！",
+   "en": "Attention: elimination!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立正！",
+   "en": "Attention! Charyeot!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规定速度",
+   "en": "speed required",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求分析",
+   "en": "requirement analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "attention\",\"guard position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停足",
+   "en": "stand to attention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "漏掉规定动作",
+   "en": "missing required element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准化需求",
+   "en": "Data Standardization Requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户文档要求",
+   "en": "user documentation requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准扩展性需求",
+   "en": "extensibility requirement of standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全通用要求",
+   "en": "general requirement for security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全扩展要求",
+   "en": "special requirement for security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准备站姿",
+   "en": "attention stance\",\"ready stance\",\"pyeonhi seogi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "善胜兵者，先自修理",
+   "en": "Success in War Requires Good Organization.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "从同时呈现的几个物体或思维序列中选择一个对象的过程。一般是指人们集中于某种特殊内、外环境刺激而不被其他刺激分散的能力。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.12",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "个体的精神活动集中地指向于一定对象的心理现象。不是一种独立的心理过程，与感知觉、记忆和思维等心理过程相互影响。"
+  },
+  {
+   "cn": "注意力发展",
+   "en": "attention development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "心理活动对一定对象有选择的集中能力随年龄增长的发展变化过程。注意力的发展与神经系统的发育以及心理活动的发展高度相关。"
+  },
+  {
+   "cn": "无意注意",
+   "en": "involuntary attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由强烈的、新颖的或感兴趣的事物引发的无预定目的和意志努力的注意。"
+  },
+  {
+   "cn": "有意注意",
+   "en": "voluntary attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "自觉的、因预定目的产生的，经过意志努力保持的注意。"
+  },
+  {
+   "cn": "必备要素",
+   "en": "required element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中必不可少的要素。"
+  },
+  {
+   "cn": "建筑要求",
+   "en": "construction requirement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "为满足生产、生活的良好环境条件，对建设用地上的建筑物布置和建筑物之间的群体关系做出的技术规定。"
+  },
+  {
+   "cn": "有意注意时间",
+   "en": "intentional attention to time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "有预定的目的，需要一定意志努力的注意所维持的时间。"
+  },
+  {
+   "cn": "儿童能量需要量",
+   "en": "child energy requirement",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "儿童基础代谢、生长所需、食物的热力作用、活动和排泄损耗所需的能量总和。"
+  },
+  {
+   "cn": "四个必然要求",
+   "en": "four inevitable requirements",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0148",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "铸牢中华民族共同体意识是维护各民族根本利益的必然要求，是实现中华民族伟大复兴的必然要求，是巩固和发展平等团结互助和谐社会主义民族关系的必然要求，是党的民族工作开创新局面的必然要求。"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "多发生于儿童时期的神经和精神障碍。主要表现为明显的与年龄不相符的注意力分散、行为冲动、活动过度等特征，常伴学习困难和社会适应能力下降。"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "多发于儿童期的一种神经和精神障碍。主要表现为注意力集中困难、注意广度缩小、不分场合的活动过度和行为冲动等特点，常伴有认知障碍和学习困难，往往其智力基本正常。"
+  },
+  {
+   "cn": "气体安全要求",
+   "en": "safety requirement of gases",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.17",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "考虑其他的溶解性和活性对气体安全进行分类。SR代表安全要求（safety requirement），SR-0气体在呼吸道任何部位都不会被明显吸收，SR-1气体会导致每个区域的部分吸收，SR-2气体在胸"
+  },
+  {
+   "cn": "平均需要量",
+   "en": "estimated average requirement, EAR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某一特定性别、年龄及生理状况群体中个体对某营养素需求量的平均值。"
+  },
+  {
+   "cn": "最低执行限量",
+   "en": "minimum required performance limit, MRPL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.46",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "样品中至少必须检出和确证的分析物的最小含量"
+  },
+  {
+   "cn": "放射工作人员健康要求",
+   "en": "health requirements for radiation worker",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.25",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "在正常、异常或紧急情况下，放射工作人员都能准确无误地履行其职责的健康条件。"
+  },
+  {
+   "cn": "中国式现代化的本质要求",
+   "en": "essential requirements of Chinese modernization",
+   "source": "马克思主义",
+   "wordNumber": "03.0822",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持中国共产党领导，坚持中国特色社会主义，实现高质量发展，发展全过程人民民主，丰富人民精神世界，实现全体人民共同富裕，促进人与自然和谐共生，推动构建人类命运共同体，创造人类文明新形态。"
+  },
+  {
+   "cn": "青春期女性营养需要",
+   "en": "nutritional requirement of adolescent girl",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "女性在青春期为维持生命、生长发育和各种生理活动对营养素需求的生理状态。"
+  },
+  {
+   "cn": "哺乳期妇女营养需要",
+   "en": "nutritional requirement of lactating woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.6",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "哺乳期女性除了满足自身维持生命和各种生理活动对营养素的需求外，还要满足分泌乳汁的营养需求的生理状态。"
+  },
+  {
+   "cn": "老年女性营养需要",
+   "en": "nutritional requirement of aging woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.5.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "随着老年女性各方面能力的逐渐退化及老化，因基础代谢率下降和活动量减少导致营养素需求变化的生理状态，主要体现为能量需求下降，但微量营养素的需求并不减少。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

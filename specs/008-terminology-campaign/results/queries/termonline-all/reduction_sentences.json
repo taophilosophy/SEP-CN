@@ -1,0 +1,802 @@
+{
+ "key": "reduction sentences",
+ "term": "reduction sentences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:55:23+00:00",
+ "status": "ok",
+ "note": "variant=reduction sentences; 审定公布名词库=4004; 海峡两岸名词对照库=1054; 其他来源数据库=119; 预公布名词数据库=326; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原子[语]句",
+   "en": "atomic sentence,primitive sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分析句",
+   "en": "analytical sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "只要通过理解组成句子的每一个词语就能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "综合句",
+   "en": "synthetic sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "需要通过理解组成句子的每一个词语以及一些与外部世界相关的东西才能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "句子对齐",
+   "en": "sentence alignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0563",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "给定互为译文的双语文本，在其句子间按照翻译关系建立对应关系的过程、技术和方法。"
+  },
+  {
+   "cn": "单句",
+   "en": "simple sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.140",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“复句”相对。指一个由词或短语，加上语调构成的语言表达单位。例如，“谁？”“好好学习！”“书是人类进步的阶梯。”"
+  },
+  {
+   "cn": "感叹句",
+   "en": "exclamatory sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来表示强烈感情、带有感叹语气的句子。句中常用“真”“多么”“简直”“太”等有强调作用的词语，句尾可以加语气词“啊”，句末标点用感叹号。例如，“真好啊！”"
+  },
+  {
+   "cn": "句群",
+   "en": "sentence group",
+   "source": "语言学名词",
+   "wordNumber": "04.148",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由几个在逻辑上有密切联系、共同表达一个中心意思的各自独立的句子组成的语言使用单位。例如，“公园里寂静无声，一片荒凉。但是特别寂静的却是他白天破窗而入的校舍。校舍里非常寂静，似乎他每走一步不仅校舍里可以"
+  },
+  {
+   "cn": "陈述句",
+   "en": "declarative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.155",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来叙述或说明情况、带有陈述语调的句子。句尾可以用语气词“啊”“呢”“了”“的”等，句末标点符号一般用句号。"
+  },
+  {
+   "cn": "句型",
+   "en": "sentence pattern",
+   "source": "语言学名词",
+   "wordNumber": "04.150",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句子的结构类型。句子从结构上可以分为单句和复句两大类型。其中单句又可分为主谓句和非主谓句，复句又可分为联合复句和偏正复句。"
+  },
+  {
+   "cn": "倒装句",
+   "en": "inversional sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.177",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "为了突出重要部分或者先说重要部分再追加其他部分的句子。是口语句法中的一种特有现象。句子语音上前半部分重读，补充部分轻读；语义重点在前半部分；句末语气词出现在前半部分；整个结构不能按照正常的短语结构来分"
+  },
+  {
+   "cn": "祈使句",
+   "en": "imperative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.162",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。要求、命令、禁止或建议、请求对方做某事或不做某事的句子。全句用降调，句末标点用句号或感叹号。祈使句的主语一般是第二人称，不过常常省略。表示命令、禁止的祈使句语气较为急促简短，句末标点常用感"
+  },
+  {
+   "cn": "判断句",
+   "en": "equational sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.170",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "动词谓语句的一种。这种句式的谓语动词为表示断定的“是”等动词。例如，“他是学生。”"
+  },
+  {
+   "cn": "存现句",
+   "en": "existential sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.171",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "动词谓语句的一种。这种句式表示在某处存在、出现或消失了某个人或物。处所词位于句首作主语，句子的宾语表示存现的主体。句中谓语动词后边通常带“着”或“了”。例如，“台上坐着主席团。”“家里来了客人。”"
+  },
+  {
+   "cn": "省略句",
+   "en": "ellipsis sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.178",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "在一定语境中某个句法成分没有出现的句子。例如，甲：“你喝什么？”乙：“啤酒。”其中答话“啤酒”就是省略句，省略了“我喝”两个词。句中被省略的成分可以添补出来，而且只有一种添补的可能。"
+  },
+  {
+   "cn": "疑问句",
+   "en": "interrogative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.156",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来表示疑问、带有疑问语调的句子。句中可以用表示疑问的语气词、副词，句末标点符号一般用问号。根据结构形式特点和语义重点，可分为是非问句、反复问句、特指问句和选择问句。例如，“你去吗？”“你"
+  },
+  {
+   "cn": "句重音",
+   "en": "sentence stress",
+   "source": "语言学名词",
+   "wordNumber": "03.041",
+   "subjectFullName": "语言学_语音学_一般语音学",
+   "subjectName": "一般语音学",
+   "publishYear": "2011",
+   "definition": "在一个语句中，突显程度最高的重音。可分为语法重音、对比重音和强调重音。"
+  },
+  {
+   "cn": "句典",
+   "en": "sentence dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.210",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "辞书的一种类型。以句子为收录和诠释对象的辞书，主要解释句子的结构特点、交际功能和主要用法。按收录对象分两种类型：一是主收古典或现代格言、名句和警句等；二是主收基于各种句型结构的句子，如疑问句、否定句、"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单词句",
+   "en": "single word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双词句",
+   "en": "two word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "未完成语句测验",
+   "en": "incomplete sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "乱句测验",
+   "en": "disarranged sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子完成测验",
+   "en": "sentence completion test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "花园路径句子",
+   "en": "garden path sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "误句概率",
+   "en": "sentence error probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "还原反应",
+   "en": "reduction reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "疝复位",
+   "en": "hernia reduction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双减数分裂",
+   "en": "double reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "硝酸盐还原作用",
+   "en": "nitrate reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亚硝酸盐还原作用",
+   "en": "nitrite reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "订正因子",
+   "en": "reduction factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "热点减量化",
+   "en": "hotspot reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据归约",
+   "en": "data reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "降体重",
+   "en": "bodyweight reduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫项目援助",
+   "en": "poverty reduction aid",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域减贫",
+   "en": "regional poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫合作",
+   "en": "Cooperation in Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发式减贫",
+   "en": "development-oriented poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作减贫框架",
+   "en": "cooperative poverty reduction framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字减贫",
+   "en": "Poverty Reduction Through Digital Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国扶贫国际论坛",
+   "en": "China Poverty Reduction International Forum",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫援外培训",
+   "en": "foreign aid training for poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫交流合作平台",
+   "en": "exchange and cooperation platform for poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中非合作论坛—减贫与发展会议",
+   "en": "FOCAC Africa-China Poverty Reduction and Development Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国—东盟社会发展与减贫论坛",
+   "en": "China-ASEAN Forum on Social Development and Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“一带一路”减贫国际合作论坛",
+   "en": "Belt and Road Forum for International Cooperation in Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构性减税和普遍性降费",
+   "en": "make structural tax reductions and cut fees across the board",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "氧化还原电位",
+   "en": "oxidation reduction potential",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解过程中，氧化物质和还原物质同处于离子状态时，在电极和溶液之间产生电位差时的电极电位。"
+  },
+  {
+   "cn": "伤亡减员率",
+   "en": "casualty reduction rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "因战伤和阵亡减员人数与平均参战人数之比，反映战伤和阵亡减员的程度。"
+  },
+  {
+   "cn": "还原型漂白剂",
+   "en": "reductive bleaching agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.8.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "利用还原性化学发应破坏或抑制食品的发色基团，使食品褪色或免于褐变的物质。"
+  },
+  {
+   "cn": "氧化还原滴定法",
+   "en": "oxidation-reduction titration method",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于氧化还原反应的滴定分析法。"
+  },
+  {
+   "cn": "间接劳动还原法",
+   "en": "indirect labor reduction method",
+   "source": "马克思主义",
+   "wordNumber": "05.0121",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "德国社会民主党和第二国际的首领之一，“奥地利马克思主义”的著名的经济学家希法亭认为，熟练工人创造的价值可分为两个部分：非熟练工人创造的价值和转移的物化在技术中的价值。后者又可以分解为前一时期的非熟练劳"
+  },
+  {
+   "cn": "脂肪校正因子",
+   "en": "fat consumption reduction factor, FRF",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.65",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "指对亲脂性物质的特定迁移量进行校正的因子，适用于脂肪含量在20%以上的食品，其计算公式为FRF=（5*食品中的脂肪含量）/100。"
+  },
+  {
+   "cn": "减租减息",
+   "en": "reduction of rent and interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0337",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在抗日战争时期实行的经济政策。当时为团结各阶层人民一致抗日，减轻农民的地租负担和所受高利贷的剥削，由土地革命时期的没收地主土地、实行耕者有其田的政策，改为减租减息政策。地租，一般以实行二五减"
+  },
+  {
+   "cn": "舰艇部队战斗减员",
+   "en": "personnel reduction from sea warfare",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.2.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "海上作战中，舰艇成员阵亡（直接战斗行动死于战位、溺死或负伤后在到达医院船、码头救护所以前死亡）、失踪、被俘、投敌或因伤病失战斗执勤能力，经舰救护所救治仍无法返岗，需送医院船等上级救护机构治疗的情况。"
+  },
+  {
+   "cn": "二五减租",
+   "en": "reduction of land rent by  per cent",
+   "source": "马克思主义",
+   "wordNumber": "02.0338",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "减租减息的主要内容。第一次国内革命战争时期，中国共产党曾促使国民政府在其“政纲”中作出了“减轻佃农田租百分之二十五”的规定。但为地主阶级所反对，未能实行。抗日战争时期，中国共产党在抗日根据地实行了二五"
+  },
+  {
+   "cn": "舰艇部队疾病减员",
+   "en": "personnel reduction from sickness in the naval force",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.2.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "舰艇部队在海上执行任务时，舰艇成员患病、非战斗外伤和意外死亡导致不能参战的情况。"
+  },
+  {
+   "cn": "复杂劳动向简单劳动还原问题",
+   "en": "issue of reduction of complex labor to simple labor",
+   "source": "马克思主义",
+   "wordNumber": "05.0120",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "西方一些学者曾质疑马克思《资本论》“比较复杂的劳动只是自乘的或不如说多倍的简单劳动”的观点，认为这是马克思劳动价值论中应该解决却未能解决好的问题，甚至认为马克思对复杂劳动向简单劳动还原问题的处理是零碎"
+  },
+  {
+   "cn": "肥胖、减脂手术全营养配方食品",
+   "en": "nutritionally complete formula foods for obesity and fat reduction surgery",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.28",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "为适应肥胖、减脂手术病人因代谢紊乱导致的蛋白质和微量营养素摄入不足的情况，在保证较低能量摄入配方的基础上调整蛋白质和微量营养素的比例，使其能作为单一营养来源满足肥胖、减脂手术患者营养需求的配方食品。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

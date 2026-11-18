@@ -1,0 +1,682 @@
+{
+ "key": "close proximity",
+ "term": "close proximity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:02:50+00:00",
+ "status": "ok",
+ "note": "variant=close proximity; 审定公布名词库=740; 海峡两岸名词对照库=222; 其他来源数据库=54; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "接近性",
+   "en": "proximity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.066",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻价值",
+   "subjectName": "新闻价值",
+   "publishYear": "2022",
+   "definition": "新闻报道内容与读者之间在地域、文化、心理、知识、立场等方面具有的亲近关系或效应。接近性也与使用是否方便及民主、公正有关。"
+  },
+  {
+   "cn": "接近度",
+   "en": "proximity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0476",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "反映两个对象在特定空间中距离的指标。"
+  },
+  {
+   "cn": "近端",
+   "en": "proximity",
+   "source": "古生物学名词",
+   "wordNumber": "04.0147",
+   "subjectFullName": "古生物学_古植物学_藻类",
+   "subjectName": "藻类",
+   "publishYear": "2009",
+   "definition": "突起或装饰与膜壳接触的最接近部分。"
+  },
+  {
+   "cn": "始端",
+   "en": "proximal",
+   "source": "动物学名词",
+   "wordNumber": "5.2551",
+   "subjectFullName": "动物学_无脊椎动物学_苔藓动物门",
+   "subjectName": "苔藓动物门",
+   "publishYear": "2021",
+   "definition": "苔藓动物个虫或群体靠近初虫或群体生长源的一端。"
+  },
+  {
+   "cn": "近侧",
+   "en": "proximal",
+   "source": "手外科学名词",
+   "wordNumber": "03.0029",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "距肢体根部近端。解剖学方位术语。"
+  },
+  {
+   "cn": "近侧",
+   "en": "proximal",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0026",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "距肢根部较近者为近侧。"
+  },
+  {
+   "cn": "接近式光刻",
+   "en": "proximity printing,proximity lithography",
+   "source": "光学名词",
+   "wordNumber": "26.009",
+   "subjectFullName": "光学_激光加工技术",
+   "subjectName": "激光加工技术",
+   "publishYear": "2021",
+   "definition": "将拟制备图形的掩模板与涂有抗蚀剂或光刻胶的基底(如硅片)接近但不接触(间隙为10～50μm)的光刻工艺。"
+  },
+  {
+   "cn": "邻近效应",
+   "en": "proximity effect",
+   "source": "天文学名词",
+   "wordNumber": "07.194",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "类星体光谱中的莱曼α吸收线在接近类星体处显著减少的现象，反映了类星体对周围星系际介质的影响。"
+  },
+  {
+   "cn": "地缘",
+   "en": "geographical proximity",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.298",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "由于地理位置接近而形成的，具有经济、社会、文化、价值等方面认同感的社会关系。"
+  },
+  {
+   "cn": "邻近效应",
+   "en": "proximity effect",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.306",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_酶催化反应_酶",
+   "subjectName": "酶",
+   "publishYear": "2021",
+   "definition": "在酶促反应中，底物分子有向酶的活性中心靠近的趋势，最终结合到酶的活性中心，使底物和底物之间、酶的催化基团与底物之间结合于同一分子而使有效浓度极大地升高，从而使反应速率大大增加的一种效应。"
+  },
+  {
+   "cn": "邻近分析",
+   "en": "proximity analysis",
+   "source": "测绘学名词",
+   "wordNumber": "05.196",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "用于确定一个选定对象与其邻近对象关系的解析方法。"
+  },
+  {
+   "cn": "邻近效应",
+   "en": "proximity effect",
+   "source": "电力名词",
+   "wordNumber": "01.107",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "由于邻近导体中电流的影响而使导体内电流密度不均匀分布的现象。"
+  },
+  {
+   "cn": "邻近效应",
+   "en": "proximity effect",
+   "source": "物理学名词",
+   "wordNumber": "08.3269",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "邻近势",
+   "en": "proximity potential",
+   "source": "物理学名词",
+   "wordNumber": "08.3272",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "接近传感器",
+   "en": "proximity sensor",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0793",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "一种无需物理接触就能感知附近物体的传感器。常用于检测手机是否接近耳朵来控制是否关断显示屏，以节省电能。"
+  },
+  {
+   "cn": "接近度查询",
+   "en": "proximity query",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0477",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "反馈这样的文档集合，对于给定的两个数据项，每个结果文档中它们之间的距离小于一定阈值。"
+  },
+  {
+   "cn": "位置检索",
+   "en": "proximity search",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0539",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "用一些特定的位置算符来表达检索词与检索词之间的顺序和词间距的检索。"
+  },
+  {
+   "cn": "临近法",
+   "en": "proximity method",
+   "source": "计量学名词",
+   "wordNumber": "11.297",
+   "subjectFullName": "计量学_无线电_电磁兼容性",
+   "subjectName": "电磁兼容性",
+   "publishYear": "2015",
+   "definition": "一种将磁场施加于受试设备的方法。用一个小感应线圈沿受试设备的侧面移动，以便同时探测特别灵敏的部位。"
+  },
+  {
+   "cn": "邻近分析",
+   "en": "proximity analysis",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.291",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "地理信息系统中，基于距离关系选取地理要素的一种空间分析方法。"
+  },
+  {
+   "cn": "近炸引信",
+   "en": "proximity fuze",
+   "source": "航天科学技术名词",
+   "wordNumber": "17.004",
+   "subjectFullName": "航天科学技术_引信",
+   "subjectName": "引信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "邻近度",
+   "en": "proximity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "近侧",
+   "en": "proximal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "近端[的]",
+   "en": "proximal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "近端的",
+   "en": "proximal",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "近因，引信导因",
+   "en": "proximate cause\",\"proximate causation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "邻近查询",
+   "en": "proximity query",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "邻近多边形",
+   "en": "proximity polygon",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "近贴聚焦",
+   "en": "proximity focusing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近因",
+   "en": "proximate cause",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近因,直接原因",
+   "en": "proximate cause",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "邻近相互作用",
+   "en": "proximate interaction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "近因",
+   "en": "proximate cause",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "近端小管",
+   "en": "proximal tubule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "近侧中心粒",
+   "en": "proximal centriole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近极",
+   "en": "proximal pole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近[极]端",
+   "en": "proximal end",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近极面",
+   "en": "proximal face",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近端刺激",
+   "en": "proximal stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "邻近分析",
+   "en": "proximal analysis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "近侧区",
+   "en": "proximal region",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "密切接触者",
+   "en": "close contact",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贴身带球",
+   "en": "close dribble",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式防守姿势",
+   "en": "closed guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛道关闭",
+   "en": "closed arena",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭站姿",
+   "en": "closed stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式多重障碍",
+   "en": "closed combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离中心度",
+   "en": "closeness centrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "闭幕式",
+   "en": "closing ceremony",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近射",
+   "en": "close-range shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近风航行",
+   "en": "sail close-hauled",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关闭击剑线",
+   "en": "close a line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭气室",
+   "en": "closed cell foam",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关闭拍面",
+   "en": "closed racket position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关闭拍面",
+   "en": "close the racket face\",\"closed racket face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩接近",
+   "en": "close finish\",\"tight finish",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近端指间关节",
+   "en": "proximal interphalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.13",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "近节指骨和中节指骨之间的指间关节。"
+  },
+  {
+   "cn": "亲密关系",
+   "en": "close relationship",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "交往双方彼此影响、相互依赖程度极强的关系模式。其特点为两人存在持久的频繁互动，共享许多兴趣爱好，经常共同参与各类活动，相互影响力很大。"
+  },
+  {
+   "cn": "封闭社会",
+   "en": "closed society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "缺乏信息公开交流和社会自由流动、思想单一僵化、社会等级化的极权社会。最早由哲学家亨利·伯格森提出。与“开放社会”相对。。"
+  },
+  {
+   "cn": "封闭小组",
+   "en": "closed group",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "小组成员固定的小组。从小组聚会开始到结束都是相同的成员组合，不会随时间的变化而增加或减少组员。一般来说，深刻的互动关系和一些特殊的治疗关系都是在封闭的小组中完成的。"
+  },
+  {
+   "cn": "封闭人口",
+   "en": "closed population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口中没有发生迁移活动，出生和死亡成为影响人口规模变动的两个因素。"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "坑道密闭卫生",
+   "en": "closed tunnel sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2.10",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为防止和降低坑道密闭时各种有害因素对官兵健康的影响而采取的包括物理、化学方法或通风换气、空气再生等技术手段在内的医学预防活动和措施。"
+  },
+  {
+   "cn": "结案",
+   "en": "termination，case closed",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者和服务对象双方依据工作协议，逐步结束工作关系所采取的行动。"
+  },
+  {
+   "cn": "封控",
+   "en": "close sealing and control",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.4",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "对生物战剂污染划定区域内人员限制进出的措施。"
+  },
+  {
+   "cn": "防氡覆盖",
+   "en": "close clad of protection radon",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.14",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "采用土壤或植被对退役后的废石堆和尾矿库进行覆盖，以减少氡及子体析出的操作过程。"
+  },
+  {
+   "cn": "密切联系群众",
+   "en": "maintain close ties with the masses",
+   "source": "马克思主义",
+   "wordNumber": "03.0490",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党的三大作风之一。要求把全心全意地为人民服务，一切从人民群众的利益出发，向人民负责的原则作为一切工作的出发点。"
+  },
+  {
+   "cn": "丁香叶油",
+   "en": "clove leaf oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.1.4",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "桃金娘科植物丁香的干燥花蕾、叶经水蒸气蒸馏得到的无色或淡黄色精油，主要成分为丁香酚。有丁香的特征香气，常用于食品香精的调配。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

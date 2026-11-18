@@ -1,0 +1,32 @@
+{
+ "key": "aphorism",
+ "term": "aphorism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:54:39+00:00",
+ "status": "ok",
+ "note": "variant=aphorism; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "警句",
+   "en": "epigram,aphorism",
+   "source": "语言学名词",
+   "wordNumber": "05.236",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "带警戒作用的、含义深刻的语句。"
+  },
+  {
+   "cn": "格言",
+   "en": "maxim,motto,aphorism",
+   "source": "语言学名词",
+   "wordNumber": "05.239",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "熟语的一种。相沿习用的具有教育意义的经典之言。常常反映人们对客观世界的认识和态度，哲理性强，书面语色彩浓厚，富于教育意义。多为名人语录或名篇警句。例如“寸金难买寸光阴”。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

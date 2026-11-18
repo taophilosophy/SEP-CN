@@ -1,0 +1,722 @@
+{
+ "key": "world justification",
+ "term": "world justification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:59:40+00:00",
+ "status": "ok",
+ "note": "variant=world justification; 审定公布名词库=436; 海峡两岸名词对照库=174; 其他来源数据库=86; 预公布名词数据库=53; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "辩护",
+   "en": "justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "用以证明或维护某个理论或行为的根据。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.050",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "核医学名词",
+   "wordNumber": "02.0434",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "放射防护三原则之一。除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得进行辐射相关实践的原则。"
+  },
+  {
+   "cn": "正当性",
+   "en": "justification",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "放射医学与防护_放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程。即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害(包括辐射危害)。在应急照射情况或现存照射情况下，确定一个建议的防护行动或补"
+  },
+  {
+   "cn": "码速调整",
+   "en": "justification",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.262",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以受控方式改变数字信号的数字速率的处理过程。这种过程不丢失或损伤信息。其目的是使与复用设备不同步的各支路得到复用。"
+  },
+  {
+   "cn": "论证",
+   "en": "justification",
+   "source": "数学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "justification,justify",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1317",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "为适应规定文件格式的要求，对数位、文字或符号位置向左或向右进行调整、排列或移位的动作。"
+  },
+  {
+   "cn": "归纳辩护",
+   "en": "inductive justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.085",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "为归纳推理的合理性和有效性提供的辩护。"
+  },
+  {
+   "cn": "辩护的语境",
+   "en": "context of justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "分析实验观察如何支持理论假说的情境条件。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "[辐射照射]实践的正当性",
+   "en": "justification of practice",
+   "source": "化学名词",
+   "wordNumber": "06.0392",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "国际放射防护委员会(ICRP)提出的辐射防护三原则之一。即辐射照射的实践，除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得采取此种实践。"
+  },
+  {
+   "cn": "不充分理由效应",
+   "en": "insufficient justification effect",
+   "source": "心理学名词",
+   "wordNumber": "07.087",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "当外部理由不足以支持行为时，人们用主观理由做行为理由补充，以寻求心理平衡的现象。"
+  },
+  {
+   "cn": "干预正当性",
+   "en": "justification of intervention",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.244",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "干预行动所减小的照射和相应的危害足以抵消干预行动的代价、危险和社会负面影响。"
+  },
+  {
+   "cn": "码速调整",
+   "en": "code rate justification",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0378",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "世界遗产",
+   "en": "world heritage",
+   "source": "风景园林名词",
+   "wordNumber": "01.0066",
+   "subjectFullName": "风景园林_总论_风景名胜",
+   "subjectName": "风景名胜",
+   "publishYear": "2025",
+   "definition": "由《保护世界文化和自然遗产公约》缔约国申报，经联合国教科文组织世界遗产委员会审核通过，并登陆《世界遗产名录》向全球公布的，具有突出的普遍价值的全人类财产。"
+  },
+  {
+   "cn": "自然界",
+   "en": "natural world",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "自然辩证法_自然哲学_自然概论",
+   "subjectName": "自然概论",
+   "publishYear": "2024",
+   "definition": "不以人的主观意志为转移的按其自身规律运行变化的客观物质世界。排除超自然现象。包括生命界和非生命界，具有多样性和统一性，能够被人类认识和改造。通常不包括人与社会。"
+  },
+  {
+   "cn": "技术世界",
+   "en": "technological world",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.107",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类为实现自身目的依靠科学技术的创造而建构起来的人工世界。"
+  },
+  {
+   "cn": "世界交往",
+   "en": "world intercourse",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.002",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "马克思和恩格斯关于人类宏观传播的术语，德文原文为Weltverkehr。他们认为，只有当交往成为世界交往，并以大工业为基础的时候，只有当一切民族都卷入竞争斗争的时候，已创造出来的生产力才有了保障。人的"
+  },
+  {
+   "cn": "世界市场",
+   "en": "world market",
+   "source": "经济学名词",
+   "wordNumber": "13.006",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "世界各国产品、服务、技术交换的场所与交换行为的总和。由世界范围内通过国际分工联系起来的各个国家内部以及各国之间的市场综合组成。"
+  },
+  {
+   "cn": "世界线",
+   "en": "world line",
+   "source": "物理学名词",
+   "wordNumber": "06.0226",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不充分理由，理由不足",
+   "en": "insufficient justification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线确认",
+   "en": "line justification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "○1justification○2 adjustment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世界气候",
+   "en": "world climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "闵可夫斯基宇宙",
+   "en": "Minkowski world",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世界点",
+   "en": "world point",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世界历",
+   "en": "World Calendar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世界日",
+   "en": "world day",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世界线",
+   "en": "world line",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙模型",
+   "en": "world modal",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "国际信贷",
+   "en": "world credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界储备额",
+   "en": "world reserve",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界货币",
+   "en": "world currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界货币",
+   "en": "world money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界经济",
+   "en": "world economy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界贸易",
+   "en": "world trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界企业",
+   "en": "world enterprise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界清算手段",
+   "en": "world liquidity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界市场",
+   "en": "world market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界银行",
+   "en": "World Bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "世界银行",
+   "en": "World Bank",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "镜像世界",
+   "en": "mirror world",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟世界",
+   "en": "virtual world",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界纪录",
+   "en": "world record",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世界卫生组织",
+   "en": "World Health Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界贸易组织",
+   "en": "World Trade Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界银行集团",
+   "en": "World Bank Group",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界气象组织",
+   "en": "World Meteorological Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "境界",
+   "en": "Jingjie (Visionary World)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小世界网络",
+   "en": "small-world network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小世界现象",
+   "en": "small-world phenomenon",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理辩护",
+   "en": "ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对某些现象、行为或观点的合理性进行道德论证的行为。"
+  },
+  {
+   "cn": "世界",
+   "en": "world",
+   "source": "马克思主义",
+   "wordNumber": "01.0018",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全部事物组成的统一的集合体，包括自然界、人类社会和思维。世界统一于物质，并处于永恒运动、变化和发展之中；世界是可以被认识的，但人类在特定历史条件下的认识无法穷尽世界。"
+  },
+  {
+   "cn": "医学伦理辩护",
+   "en": "medical ethical justification",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.2229999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "依据医学伦理学理论、原则和规范，对某一医学行为或医疗活动的合理性进行解释、说明的活动。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiation practice",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护三原则",
+   "subjectName": "放射防护三原则",
+   "publishYear": "2025",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程，即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射或现存照射情况下，确定一个建议的防护行动或补救行"
+  },
+  {
+   "cn": "医疗照射正当性",
+   "en": "justification of medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.7.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "医疗照射的实践，对受照个人或社会带来的利益足以弥补其可能引起的辐射危害（包括健康与非健康危害），才可以实施该实践。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiological practice",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.18",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "开展医疗照射、工业探伤、核设施运行等涉电离辐射活动前，须确保实践总体利益大于辐射危害及其他社会、经济风险。仅当该实践能为个人或社会带来净利益时，才属“正当的”，反之则不应开展。"
+  },
+  {
+   "cn": "社会世界",
+   "en": "social world",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "广义指人类创造的一切事物的总和；狭义指个人参与或生活于其中，但又与之相对的人们有意义互动的范围。与“自然界”相对。"
+  },
+  {
+   "cn": "小世界",
+   "en": "small-world",
+   "source": "社会学名词",
+   "wordNumber": "2.7.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2025",
+   "definition": "网络分析中对陌生人之间距离的一种论述，认为现实社会中陌生人关系的距离比人们感受到的要近很多，其中最为典型的“六度分隔假设”认为，连接两个陌生人的最短连接数不超过6步，这在米尔格拉姆(Milgram）等"
+  },
+  {
+   "cn": "世界体系",
+   "en": "world-system",
+   "source": "社会学名词",
+   "wordNumber": "2.9.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_世界体系理论",
+   "subjectName": "世界体系理论",
+   "publishYear": "2025",
+   "definition": "大于任何从法律上定义的政治单位，具有特定范围、结构、成员集团、生命周期、合理规则和凝聚力的经济实体和社会体系。"
+  },
+  {
+   "cn": "自然界",
+   "en": "natural world",
+   "source": "马克思主义",
+   "wordNumber": "01.0139",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类活动的环境，是不依赖于人的意识而存在的客观实在，是人类赖以生存的物质基础，与社会、历史、文化等概念相对应。广义的自然界包括人类社会，人也是自然界的产物。"
+  },
+  {
+   "cn": "客观世界",
+   "en": "objective world",
+   "source": "马克思主义",
+   "wordNumber": "01.0168",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人们意识之外独立存在的物质世界，包括自然界和人类社会。客观世界是独立存在的，不依赖主观世界，并决定主观世界的内容和变化。"
+  },
+  {
+   "cn": "经验世界",
+   "en": "empirical world",
+   "source": "马克思主义",
+   "wordNumber": "01.0181",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们通过感觉器官获得的关于客观事物的现象和外部联系的认识，是人们在社会实践或日常生活中自发地形成或世代相传的对外部世界的基本观点和看法。其基本表现形式是常识，是最普通、最平常但又持久、经常起作用的知识"
+  },
+  {
+   "cn": "物质世界",
+   "en": "material world",
+   "source": "马克思主义",
+   "wordNumber": "01.0182",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "独立于人的意识之外的客观世界，其根本特性是客观实在性。承认世界的物质性，承认它是在时间、空间中依其固有的规律运动、变化和发展，是坚持辩证唯物主义的基本前提。"
+  },
+  {
+   "cn": "精神世界",
+   "en": "spiritual world",
+   "source": "马克思主义",
+   "wordNumber": "01.0191",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在认识和改造客观世界的过程中逐渐形成的意识活动及其结果构成的世界，表现为思想、观念、意志、欲望、情感等形式。精神世界和物质世界共同构成人们生活的世界。"
+  },
+  {
+   "cn": "世界贸易",
+   "en": "world trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0283",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由世界各国对外贸易构成的国际间的商品流通。世界贸易中，商品的国际价格是商品的国际价值为基础，随供求的变化而变动。"
+  },
+  {
+   "cn": "世界市场",
+   "en": "world market",
+   "source": "马克思主义",
+   "wordNumber": "02.0284",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界范围内通过对外贸易联系起来的各国市场的总体。世界市场的形成使得相关国家之间的经济联系和竞争在世界范围内扩展。"
+  },
+  {
+   "cn": "世界经济",
+   "en": "world economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0315",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "世界各国的经济相互联系和相互依存而构成的世界范围的经济整体。它是在国际分工和世界市场的基础上，把各国的生产、流通和其他经济方面联系在一起。"
+  },
+  {
+   "cn": "世界历史",
+   "en": "world history",
+   "source": "马克思主义",
+   "wordNumber": "03.0175",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义关于人类发展的重要观点。随着社会生产力的发展、贸易自由的实现和世界市场的建立，随着现代工业生产以及与之相适应的生活条件的趋于一致，各国人民之间的民族分隔日益消失。原始封闭状态由于日益完善的生"
+  },
+  {
+   "cn": "世界革命",
+   "en": "world revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0290",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "世界范围的社会革命。有资产阶级世界革命，也有无产阶级世界革命，又称国际无产阶级革命。马克思恩格斯从资本主义的世界存在出发，认为共产主义只有作为“世界历史性的”存在才有可能实现；共产主义革命不仅是一个国"
+  },
+  {
+   "cn": "古代",
+   "en": "ancient world",
+   "source": "马克思主义",
+   "wordNumber": "04.0043",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通指奴隶制时代，从开始出现阶级分化到奴隶制瓦解。广义的古代也包括原始公社制时代。因各国、各民族发展不同，无统一界限。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

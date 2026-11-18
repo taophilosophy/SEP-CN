@@ -1,0 +1,792 @@
+{
+ "key": "social security",
+ "term": "social security",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:53:47+00:00",
+ "status": "ok",
+ "note": "variant=social security; 审定公布名词库=4176; 海峡两岸名词对照库=1056; 其他来源数据库=514; 预公布名词数据库=707; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "社会保障",
+   "en": "social security",
+   "source": "经济学名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "国家或社会通过国民收入再分配，对社会成员特别是生活有特殊困难的人的基本生活权利给予保障的社会安全制度。一般来说，社会保障由社会保险、社会救助、社会福利、社会互助、社会优抚等组成，其中的社会保险是社会保"
+  },
+  {
+   "cn": "社会保障",
+   "en": "social security",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0492",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "由国家或社会依法建立，由政府机关和社会团体组织实施，具有经济福利性的、社会化的制度和事业的总称。"
+  },
+  {
+   "cn": "社会保障",
+   "en": "social security",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.085",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "国家或社会依法建立的、具有经济福利性和社会化的国民生活保障系统。包括社会保险、社会救济、社会福利、优抚安置、医疗保障、政府补助、社会互助等。"
+  },
+  {
+   "cn": "社会安全事件",
+   "en": "social security incident",
+   "source": "急救医学名词",
+   "wordNumber": "05.029",
+   "subjectFullName": "急救医学_灾难医学_基本概念_突发事件分类与分级",
+   "subjectName": "突发事件分类与分级",
+   "publishYear": "2025",
+   "definition": "涉及社会公共安全的重大刑事案件、涉外突发公共事件、民族宗教事件、恐怖袭击事件、经济安全事件及规模较大的群体性事件等。"
+  },
+  {
+   "cn": "社会保障体系",
+   "en": "social security system",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.116",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目咨询",
+   "subjectName": "项目咨询",
+   "publishYear": "2021",
+   "definition": "国家通过立法而制定的社会保险、救助、补贴等一系列制度的总称。"
+  },
+  {
+   "cn": "社会保障制度",
+   "en": "social security system",
+   "source": "经济学名词",
+   "wordNumber": "01.034",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "国家和社会根据有关法律和规定，通过国民收入再分配及其具体的形式，保证社会成员获得法定的基本生活权利，以实现社会正义和社会稳定的各种制度。在中国，社会保障制度包括基本的社会救助制度和社会保险制度等。"
+  },
+  {
+   "cn": "社会保险税",
+   "en": "social security tax",
+   "source": "经济学名词",
+   "wordNumber": "09.088",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "以劳动者的工资和薪金所得作为课税对象的一种税。社会保险税作为事实社会保障制度的财政来源，在绝大多数经济合作与发展组织国家以及部分发展中国家广泛开征，是仅次于个人所得税的第二大税种。社会保险税与其他税种"
+  },
+  {
+   "cn": "社会保障基金",
+   "en": "social security fund",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0500",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "为实施社会保障制度而通过多种渠道所建立起来的、法定的、收支平衡的专款专用的经费。"
+  },
+  {
+   "cn": "社会保障法",
+   "en": "Social Security Act",
+   "source": "世界历史名词",
+   "wordNumber": "03.0163",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1935年8月，国会通过的有关社会福利的法案。"
+  },
+  {
+   "cn": "保障",
+   "en": "security",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类在创造人工自然的过程中，对采取、加工和控制活动提供支持、保护和服务的过程及结果。在技术上主要涉及信息的交流（通信）和物质的流通（输运）等领域。"
+  },
+  {
+   "cn": "证券",
+   "en": "security",
+   "source": "经济学名词",
+   "wordNumber": "12.098",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "用来证明持有人享有的某种特定权益的凭证。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "电力名词",
+   "wordNumber": "06.103",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "远动系统避免被控系统处在潜在危险或不稳定状态的能力。这种能力是针对因设备误动和未检出的信息差错而产生故障的后果。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0560",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "顾客使用产品时保证人身和环境免遭危害的能力。"
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0560",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息系统不受来自系统外部的自然灾害和人为的破坏，防止非法使用者对系统资源，特别是信息的非法使用的特性。"
+  },
+  {
+   "cn": "安全",
+   "en": "security",
+   "source": "航海科技名词",
+   "wordNumber": "14.0033",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "安全性",
+   "en": "security",
+   "source": "电子学名词",
+   "wordNumber": "21.117",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "三条社会保障线",
+   "en": "social security system of “three guarantees”",
+   "source": "经济学名词",
+   "wordNumber": "07.088",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "20世纪末21世纪初，中国为推进国企改革而实施的一种社会保障制度。具体包括国有企业下岗职工基本生活保障、失业保险和城市居民最低生活保障。下岗职工同企业再就业服务中心协议期满，按照规定应与企业解除劳动关"
+  },
+  {
+   "cn": "人力资源社会保障体系",
+   "en": "social security system of human resource",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.363",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "国家通过立法和设立社会保障机构，对具有劳动能力的人给予物质帮助而采取的各种社会保障措施构成的社会保障整体。"
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "行为医学名词",
+   "wordNumber": "1.027",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "集体活动中的个体或社会成员表现出的有利于集体和社会发展的特性。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "行为医学名词",
+   "wordNumber": "5.002",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体接受社会教化、习得言语、行为及其内在心理结构，从自然人转为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会安全体系",
+   "en": "social security system",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "安全[性]",
+   "en": "security",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全",
+   "en": "security",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社会寄生",
+   "en": "social parasitism\",\"social symbiosis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "保证金",
+   "en": "security money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "担保押金",
+   "en": "security deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "低风险资本",
+   "en": "security capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抵押有价证券",
+   "en": "pledged security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①法定担保 ②合法证券",
+   "en": "legal security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股权凭证",
+   "en": "equity security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际市场证券",
+   "en": "intercourse security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际证券",
+   "en": "international security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "记名证券",
+   "en": "inscribed security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可交易证券",
+   "en": "tradable security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可转换证券",
+   "en": "convertible security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "适销证券",
+   "en": "marketable security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "社保制度",
+   "en": "social insurance system; social security system",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稳妥性",
+   "en": "security",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会保障兜底",
+   "en": "poverty alleviation by securing basic needs through social security",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社保延缴",
+   "en": "(to allow) deferred social security contributions  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "安全芯片",
+   "en": "security chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能安防",
+   "en": "Smart Security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网安全",
+   "en": "IoT security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全标准",
+   "en": "Security Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全基础",
+   "en": "Security Foundation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全建设",
+   "en": "security improvement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防范认知",
+   "en": "Security Awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全虚拟化",
+   "en": "security virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全管理",
+   "en": "Security Management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全技术",
+   "en": "Security Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全机制",
+   "en": "Security Mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全中心",
+   "en": "Security Center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全体系",
+   "en": "Security System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全框架",
+   "en": "Security Framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会保障",
+   "en": "social security",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "广义指社会成员在年老、疾病、伤残、失业、生育及遭遇灾害之时，国家依法向其提供一定的资金、实物或服务以保障其基本生活的支持制度。狭义指收入保障体系，特别是社会保险及社会救助体系。国家为维护社会公平和促进"
+  },
+  {
+   "cn": "社会保障法",
+   "en": "social security law",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "国家为维护社会稳定和促进经济发展而制定的、旨在保障国民基本生活需要以及增进社会福祉的各种法律规范的总称。社会保障法律规范可以确保社会保障制度真正得到贯彻实施。"
+  },
+  {
+   "cn": "社会保障管理",
+   "en": "social security management",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.3",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "为实现社会保障目标，由国家成立专门的社会保障管理机构，对各项社会保障事务进行计划、组织、协调、实施、控制的过程以及行为。"
+  },
+  {
+   "cn": "社会保障体系",
+   "en": "social security system",
+   "source": "社会学名词",
+   "wordNumber": "3.18.1.4",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "作为为社会成员提供基本生活保障的制度，由一系列相互联系、相辅相成的子系统构成有机整体。主要包括：由失业、养老、医疗、工伤、生育等社会保险和住房公积金、社会救助以及其他收入补充保障等不同形式的有机子系统"
+  },
+  {
+   "cn": "社会保障税",
+   "en": "social security tax",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "以纳税人的工资和薪金所得作为课税对象的一种税收"
+  },
+  {
+   "cn": "社会保障体系",
+   "en": "social security system",
+   "source": "社会医学名词",
+   "wordNumber": "3.11",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会保障体系",
+   "publishYear": "2025",
+   "definition": "作为为社会成员提供基本生活保障的制度，由一系列相互联系、相辅相成的子系统构成的有机整体。主要包括：由失业、养老、医疗、工伤、生育等社会保险和住房公积金、社会救助以及其他收入补充保障等不同形式的子系统。"
+  },
+  {
+   "cn": "老年社会保障",
+   "en": "social security for aged people",
+   "source": "社会学名词",
+   "wordNumber": "3.15.8.1",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会保障",
+   "subjectName": "老年社会保障",
+   "publishYear": "2025",
+   "definition": "以国家和社会为主体，通过国民收入的再分配，依法对全社会老年人的基本生活予以保障的社会安全制度。它是对退出劳动领域或无劳动能力的老年人实行社会保护的重要措施，一般来说包括经济保障和服务保障两大类，具体包"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "社会规范和文化价值在个体身上内化(internalize)的过程。个体在家庭、学校等社会环境中，通过多种形式的人际互动，以及知识、技能的学习，学会扮演社会角色，认同并接受群体的规范体系和意义体系，并依"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0158",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过社会互动而形成个体的社会属性，促使个体与社会保持一致性，实现个体的社会生活的过程。具体来说，是自然人通过各种方式逐渐学习社会知识、技能与规范，熟悉社会的风俗、习惯、道德、法律，确立生活目标、价值观"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0170",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与资本主义对立的思想体系和社会制度。社会主义一词来源于古拉丁文，一说由socialis（同伴的、同伙的）一词引出，一说由socius（喜欢社交的）一词引出，原有社会的、共同的、集体的生活之意。科学社会"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "自然人成长为社会人的过程。即一个人出生以后，通过与其他社会成员、群体和组织的互动、学习和接受社会知识、技能和规范，不断适应社会生活的过程。"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  },
+  {
+   "cn": "核安保",
+   "en": "nuclear security",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "预防、侦查涉及或直接针对核材料与其他放射性物质、相关设施或活动的犯罪行为或故意的未经授权行为并对之做出响应的措施。主要包括法律法规体系、设计基准威胁、实物保护、放射性物质运输安保、技术和设备研发、核安"
+  },
+  {
+   "cn": "补充保障",
+   "en": "supplemental security",
+   "source": "社会学名词",
+   "wordNumber": "4.3.12.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_补充保障",
+   "subjectName": "补充保障",
+   "publishYear": "2025",
+   "definition": "社会保障体系中非政府强制的个人、企业自愿参与的保障部分，是我国社会保障体系中一个重要组成。涉及商业保险以及员工福利等。"
+  },
+  {
+   "cn": "医疗保障",
+   "en": "medical security",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "通过立法规定国家、企业和个人的权利与义务，动员全社会的力量,通过筹集和支付资金、组织卫生服务和医疗物资的提供,分担社会成员的疾病风险,保障人群健康的一种社会保障制度安排。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

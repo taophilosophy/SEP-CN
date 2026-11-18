@@ -1,0 +1,812 @@
+{
+ "key": "collective intention",
+ "term": "collective intention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:12:16+00:00",
+ "status": "ok",
+ "note": "variant=collective intention; 审定公布名词库=2402; 海峡两岸名词对照库=478; 其他来源数据库=78; 预公布名词数据库=134; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "意图",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.572",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在做某事之前出现于人的意识中的将要做此事的心理观念与计划，意向确定了行动的目的与类型。"
+  },
+  {
+   "cn": "意向",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "技术设计者或使用者针对技术人工物的结构和功能所产生的某种目的预测或行为意图。它以技术人工物作为中介，调节人与世界的关系。"
+  },
+  {
+   "cn": "意图",
+   "en": "intent",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.208",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "比较清楚地意识到要争取实现的目标和方法的需要。通常以仅仅设想而未付诸行动的企图、愿望、幻想、理想等方式存在。是作为动机推动人去行动的现实力量。人在清醒的状态中，绝大部分的活动都是有意图的。常基于某个目"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intention tremor",
+   "source": "肝病学名词",
+   "wordNumber": "8.8.2.4",
+   "subjectFullName": "肝病学_肝硬化及其并发症_肝硬化其他并发症",
+   "subjectName": "肝硬化其他并发症",
+   "publishYear": "2024",
+   "definition": "出现于随意运动时的震颤。特点是在随意运动中或将要接近目标时震颤最为明显，主要见于小脑及其传出通路病变时。"
+  },
+  {
+   "cn": "目的合理性",
+   "en": "intention rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.033",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "实现某种目的的工具、手段的合理性，是可以达到预期目的，可经验实证的合理性。"
+  },
+  {
+   "cn": "行为意向",
+   "en": "behavioral intention",
+   "source": "行为医学名词",
+   "wordNumber": "2.079",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "影响行为发生转变的动机和意愿。是行为改变的直接决定力量，决定是否采取行动。受到行为信念、行为态度、个人规范、他人规范信念和顺从动机等多因素影响。"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intention tremor",
+   "source": "生理学名词",
+   "wordNumber": "03.622",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intention tremor",
+   "source": "神经病学名词",
+   "wordNumber": "09.043",
+   "subjectFullName": "神经病学_运动障碍性疾病",
+   "subjectName": "运动障碍性疾病",
+   "publishYear": "2020",
+   "definition": "肢体活动时出现，接近目标时更显著，频率和幅度通常不规则的震颤。常见于小脑及其联系纤维病变。"
+  },
+  {
+   "cn": "智能体的意图",
+   "en": "agent intention",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0165",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的思维属性之一。表示智能体从多个愿望中选定的、经过承诺准备付诸实施的目标。"
+  },
+  {
+   "cn": "意向锁",
+   "en": "intention lock",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0254",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "在多层数据库结构中表示事务在较低层持有锁的一种标记。假设事务在数据库的某一层持有读锁，则其双亲层便具有意向读锁标记。"
+  },
+  {
+   "cn": "群体意图",
+   "en": "group intention",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0166",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "多个智能体在合作求解过程中通过一致的、成功的行为所表现出来的整体意图。"
+  },
+  {
+   "cn": "意图复议",
+   "en": "intention reconsideration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0168",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "当环境与智能体原意图出现偏差时，智能体更新和修改原意图，从而实现既定目标的一种策略。"
+  },
+  {
+   "cn": "联合意图",
+   "en": "joint intention",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0167",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "多个智能体为了实现共同目标的行为选择，这些行为保持可满足性、持续性和一致性。"
+  },
+  {
+   "cn": "故意纵火",
+   "en": "intention fire",
+   "source": "林学名词",
+   "wordNumber": "07.278",
+   "subjectFullName": "林学_森林保护_森林防火",
+   "subjectName": "森林防火",
+   "publishYear": "2016",
+   "definition": "有些人为了达到某种目的故意放火而引发森林着火的行为。"
+  },
+  {
+   "cn": "创业意向",
+   "en": "entrepreneurial intention",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0118",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "潜在创业者是否从事创业活动的主观态度倾向。"
+  },
+  {
+   "cn": "意向状态",
+   "en": "intentional state",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.574",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有意向性的心理状态，即指向世界中的对象的心理状态。如相信、认为、判断、意见、意欲、愿望、恐惧等。"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intentional tremor",
+   "source": "麻醉学名词",
+   "wordNumber": "03.081",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_神经系统与神经肌肉疾病",
+   "subjectName": "神经系统与神经肌肉疾病",
+   "publishYear": "2024",
+   "definition": "当肢体有目的地接近某个目标时，在运动过程中出现的震颤。越接近目标，震颤越明显，达到目标并保持姿势时，震颤有时仍能持续存在。多见于小脑病变，丘脑、红核病变时也可出现。"
+  },
+  {
+   "cn": "有意漏气",
+   "en": "intentional leak",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.068",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_气道正压通气治疗",
+   "subjectName": "气道正压通气治疗",
+   "publishYear": "2022",
+   "definition": "通过呼吸机面罩上的排气孔把富含二氧化碳的呼出气排出，以减少二氧化碳重复吸入的过程。"
+  },
+  {
+   "cn": "故意伤害",
+   "en": "intentional injury",
+   "source": "行为医学名词",
+   "wordNumber": "7.06",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "有目的、有计划地加害于他人并造成伤害。"
+  },
+  {
+   "cn": "有意识记",
+   "en": "intentional memorization",
+   "source": "心理学名词",
+   "wordNumber": "02.549",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对记忆任务的要求和目的明确，可运用记忆的策略，注意力专注在刺激材料上的识记过程。"
+  },
+  {
+   "cn": "意向，意图",
+   "en": "intention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预向动作",
+   "en": "intention movement",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "投资意向",
+   "en": "investment intention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意向锁",
+   "en": "intention lock",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预期动作",
+   "en": "intention movement",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "有意识记",
+   "en": "intentional memorization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意向系统",
+   "en": "intentional system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "收集",
+   "en": "collection",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "标本收藏",
+   "en": "collection",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "采集，采收",
+   "en": "collection",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "意向书",
+   "en": "statement of intention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意向书",
+   "en": "letter of intent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "集体无意识,集体潜意识",
+   "en": "collective unconsciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体协商",
+   "en": "collective bargaining",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体合理化",
+   "en": "collective rationalizing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体效能",
+   "en": "collective efficacy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体行为",
+   "en": "collective behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体选择",
+   "en": "collective selection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体性独白",
+   "en": "collective monologue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体剂量",
+   "en": "collective dose",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "勒马",
+   "en": "collect\",\"collection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图",
+   "en": "second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "foul intentional",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "众扶",
+   "en": "collective support",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体智慧",
+   "en": "collective wisdom",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体拦网",
+   "en": "collective block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "别集",
+   "en": "Individual Collection",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集",
+   "en": "Data Collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字典藏",
+   "en": "digital collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缩短快步",
+   "en": "collected trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短跑步",
+   "en": "collected canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短慢步",
+   "en": "collected walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图进攻",
+   "en": "attack on second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意四坏球上垒",
+   "en": "intentional base on balls",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子不停车收费",
+   "en": "Electronic Toll Collection",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总集",
+   "en": "General Collection / Anthology",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故意污染",
+   "en": "intentional contamination",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.66",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为谋取不当利益，故意向原辅料或食品中添加非食用物质，故意超范围、超限量使用农兽药和食品（饲料）添加剂或采用其他不适合人类食用方法生产加工食品等的行为。"
+  },
+  {
+   "cn": "蓄意破坏",
+   "en": "intentional tampering",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.67",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为伤害他人或扰乱社会，通过生物、化学、物理等因素对食品和食品生产过程进行破坏的行为。"
+  },
+  {
+   "cn": "蓄意掺假",
+   "en": "intentional adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.17",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在生产、加工、运输、销售等过程中有意造假的行为。包括替代、稀释、隐瞒、未经许可的强化等，以降低成本或提升产品等级，从中获取不正当利益。"
+  },
+  {
+   "cn": "集体",
+   "en": "collectivity",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.13",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "许多人以共同价值、共同活动目的和任务为基础，高度组织起来的具有团结性、整合水平较高的群体。是群体发展的高级阶段。与“个体”相对。"
+  },
+  {
+   "cn": "集体行为",
+   "en": "collective behavior",
+   "source": "社会学名词",
+   "wordNumber": "2.5.4.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体行为",
+   "subjectName": "群体行为",
+   "publishYear": "2025",
+   "definition": "在人群聚集的场合下，受共同的情绪或心境影响而产生思想和活动的过程，其中既缺少领导结构又不受现有社会规范的控制，通常是无明确目的、无行动计划的众多人的行为，具有自发性、狂热性和非结构性等特点。美国社会学"
+  },
+  {
+   "cn": "集体制",
+   "en": "collective ownership",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "生产资料归一定范围的劳动群众共同所有的集体所有制产权和组织管理形式，亦即劳动者与生产资料在该集体范围内结合并实行按劳分配的一种经济形式。该制度广泛存在于中国城乡组织体系内，作为社会主义公有制的一种补充"
+  },
+  {
+   "cn": "集体行动",
+   "en": "collective action",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "集体行为组织化的形式，指有少数或许多个体参加的、涉及群体利益、集团利益或共同利益的、具有很大自发性的非正式的群体行为或制度外的政治行为，后者属于社会运动范畴。"
+  },
+  {
+   "cn": "集体记忆",
+   "en": "collective memory",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.13",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "为群体所共同享有、传承和建构的，具有特定文化认同性和凝聚力的，关于群体过往事件或先人事迹的回忆或追溯。凡是能保留或衍生这一记忆的场所或地方，无论是物质的或非物质的，如纪念馆、文物、图片、甚至身体或口头"
+  },
+  {
+   "cn": "群体自尊",
+   "en": "collective esteem",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "个体会对其所属的群体产生的价值判断和情感体验。克罗克(Jennifer Crocker)和卢赫塔宁(Riia Luttanen)在社会认同理论的基础上提出。"
+  },
+  {
+   "cn": "集体农庄",
+   "en": "collective farm",
+   "source": "马克思主义",
+   "wordNumber": "02.0302",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联农业集体经济组织的基本形式。苏联在农业集体化运动中曾出现三种集体经济的组织形式：共耕社、农业劳动组合和农业公社。1930年联共（布）中央确定农业劳动组合是集体农庄运动的基本形式，通常就把它称为“集"
+  },
+  {
+   "cn": "集体利益",
+   "en": "collective interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0179",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“个人主义”相对。有两种不同的涵义：(1)即“社会利益”。(2)组成集体的各个个体的共同利益或根本利益。在社会主义条件下，个人利益、集体利益和社会利益三者在本质上是一致的。当个人利益与集体利益、集体"
+  },
+  {
+   "cn": "集体领导",
+   "en": "collective leadership",
+   "source": "马克思主义",
+   "wordNumber": "03.0261",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "集体领导是无产阶级政党和社会主义国家的领导原则。它的主要内容是：一切重大问题由各级党的委员会集体民主讨论决定；决定问题必须严格遵守少数服从多数的原则；集体领导和个人分工负责相结合；集体领导作出的决定要"
+  },
+  {
+   "cn": "集体无意识",
+   "en": "collective unconsciousness",
+   "source": "马克思主义",
+   "wordNumber": "05.0046",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "一种非物质的集体动因。本雅明认为上层建筑受双重力量支配，除物质因素外，还受集体无意识的决定。他总是将集体无意识与史前的无阶级社会中被埋葬的性欲经验的特定形式关联起来。"
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "集体意识",
+   "en": "collective conscience",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0524",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指同一个社会中所具有的共同信仰和情感。有别于个体观念，集体观念不是从个人自身的生活经验中所吸取的，而是通过社会环境，即教育、社会舆论、习俗"
+  },
+  {
+   "cn": "集体防护",
+   "en": "collective protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.4.4",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射防护",
+   "subjectName": "核辐射防护",
+   "publishYear": "2025",
+   "definition": "集体为避免或减轻核武器的伤害而采取的措施。主要是在工事、帐篷、车辆、飞机和舰船中安装密闭、滤毒通风、洗消和报警等设施来进行防护。分为隔离式防护和过滤式防护。"
+  },
+  {
+   "cn": "采样",
+   "en": "sample collection",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "从大量同类消毒产品实物中抽取一部分作为样品的过程。"
+  },
+  {
+   "cn": "样品采集",
+   "en": "samples collection",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "从整批被检样品或待分析对象中抽取一部分有代表性的样品或分析对象。"
+  },
+  {
+   "cn": "数据收集",
+   "en": "data collection",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "就某个具体的主题，有计划、有目的地准备、收集和记录相关信息的研究行动。"
+  },
+  {
+   "cn": "资金筹集",
+   "en": "revenue collection",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资",
+   "subjectName": "卫生筹资",
+   "publishYear": "2025",
+   "definition": "卫生系统从政府、家庭或个人、组织或部门以及其他渠道筹措资金的方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

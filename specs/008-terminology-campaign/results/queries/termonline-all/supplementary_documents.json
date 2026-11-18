@@ -1,0 +1,692 @@
+{
+ "key": "supplementary documents",
+ "term": "supplementary documents",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:05:37+00:00",
+ "status": "ok",
+ "note": "variant=supplementary documents; 审定公布名词库=310; 海峡两岸名词对照库=96; 其他来源数据库=22; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "文献",
+   "en": "document",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.037",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "记录知识或信息的载体。"
+  },
+  {
+   "cn": "单证",
+   "en": "document",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.022",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "可阅读并带有数据记录的数据载体。"
+  },
+  {
+   "cn": "文书",
+   "en": "document",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.045",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "（1）公文、书信、契约等类型文献。（2）文字图籍或者文章、书法的总称。"
+  },
+  {
+   "cn": "文档",
+   "en": "document",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0420",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种数据媒体和其上所记录的数据。它具有永久性并可以由人或机器阅读。"
+  },
+  {
+   "cn": "文件",
+   "en": "document",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0699",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "信息及其承载的媒体。"
+  },
+  {
+   "cn": "文档",
+   "en": "document",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.679",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在计算机中，以实现某种功能、或某个软件的部分功能为目的而定义的一个单位。"
+  },
+  {
+   "cn": "文献管理",
+   "en": "documentation,document management",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.026",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "持续系统地获取、组织、存储、检索和利用特定文献或记录于文献之上的信息的活动与过程。"
+  },
+  {
+   "cn": "文献",
+   "en": "documentation",
+   "source": "档案学名词",
+   "wordNumber": "04.01.001",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂基本理论",
+   "subjectName": "档案文献编纂基本理论",
+   "publishYear": "2024",
+   "definition": "记录知识的一切载体。"
+  },
+  {
+   "cn": "文件编制",
+   "en": "documentation",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.565",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "为形成方案、计划等，对文件进行的编排、组织。"
+  },
+  {
+   "cn": "［人工］补光",
+   "en": "supplementary lighting",
+   "source": "农学名词",
+   "wordNumber": "14.184",
+   "subjectFullName": "农业工程_农业生物环境与设施设备",
+   "subjectName": "农业生物环境与设施设备",
+   "publishYear": "2025",
+   "definition": "自然光照不能满足作物生产时，人为增加光照的行为。"
+  },
+  {
+   "cn": "辅助授粉",
+   "en": "supplementary pollination",
+   "source": "农学名词",
+   "wordNumber": "06.265",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "克服异花授粉植物因环境条件限制而降低传粉和受精的措施。"
+  },
+  {
+   "cn": "补火",
+   "en": "supplementary firing",
+   "source": "农学名词",
+   "wordNumber": "17.273",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "在制品茶或需匀堆装箱(袋)的茶叶的最后一道干燥。"
+  },
+  {
+   "cn": "补充采访",
+   "en": "supplementary interview",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.059",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者在初次采访完成后，因发现材料有误、遗漏了较重要内容或者报道对象在采访后发生了较大改变而再次对原采访对象进行的采访。"
+  },
+  {
+   "cn": "补记",
+   "en": "supplementary note",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.086",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "一般置于正文后或卷末，进一步阐明正文主旨或交代其他事项的辅文。"
+  },
+  {
+   "cn": "补订",
+   "en": "supplementary subscription",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.097",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "订户因故未能在期刊收订截止前订到期刊，到邮局申请补办订阅的行为。"
+  },
+  {
+   "cn": "补充草地",
+   "en": "supplementary pasture ",
+   "source": "草学名词",
+   "wordNumber": "2.0525",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "附属草地",
+   "en": "supplementary grassland ",
+   "source": "草学名词",
+   "wordNumber": "3.0021",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "补播机",
+   "en": "supplementary seeder ",
+   "source": "草学名词",
+   "wordNumber": "6.0459",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "补充口孔",
+   "en": "supplementary aperture",
+   "source": "动物学名词",
+   "wordNumber": "5.0232",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "位于有孔虫口面或缘周的次生口孔。根据发育位置可分为面补充口孔、壳缘补充口孔、脐部残留口孔、缝合线次生口孔。"
+  },
+  {
+   "cn": "副须",
+   "en": "supplementary bristle",
+   "source": "动物学名词",
+   "wordNumber": "6.024",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鸟纲",
+   "subjectName": "鸟纲",
+   "publishYear": "2021",
+   "definition": "鸟类头部除嘴须以外的成排小须。依着生部位可分鼻须、颏须等。"
+  },
+  {
+   "cn": "文件，文档",
+   "en": "document",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文档",
+   "en": "document",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文件编制",
+   "en": "documentation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文档编制",
+   "en": "documentation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "补充观测",
+   "en": "supplementary observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "附加股息，增发股息",
+   "en": "supplementary dividend",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "追加融资",
+   "en": "supplementary financing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "追加投标",
+   "en": "supplementary bid",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "追加投入",
+   "en": "supplementary input",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "补充曝光",
+   "en": "supplementary exposure",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "补充业务，附加业务",
+   "en": "supplementary service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅助集",
+   "en": "supplementary set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅助平面",
+   "en": "supplementary plane",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附加维修",
+   "en": "supplementary maintenance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "副须(鸟)",
+   "en": "supplementary bristle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "副齿",
+   "en": "supplementary tooth",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "辅助片",
+   "en": "supplementary plate",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "补充报告",
+   "en": "supplementary report",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "文件研究",
+   "en": "document study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "出口单据",
+   "en": "export document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "附加停顿",
+   "en": "supplementary stop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "XML文件",
+   "en": "XML document",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档存储",
+   "en": "document storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档模型",
+   "en": "document model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档数据库",
+   "en": "document database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无结构化文档存储",
+   "en": "unstructured document storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子交易单据",
+   "en": "electronic transaction document",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单证化融资",
+   "en": "documentation-based financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户文档要求",
+   "en": "user documentation requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息项标准文档",
+   "en": "information item standard document",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律文件处理自动化",
+   "en": "automation of legal document processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单证化投融资",
+   "en": "documentation-based investment and financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "书契",
+   "en": "Documents on Bamboo or Wooden Slips",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "裁判文书智能分析系统",
+   "en": "intelligent analysis system for judgement documents",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准文件投票和评议",
+   "en": "voting and commenting on international standardization documents",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "TF-IDF算法",
+   "en": "TF-IDF (term frequency-inverse document frequency) algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据与信息化安全自律标准化文件》（中国）",
+   "en": "Standardization Document of Self-Regulation and Professional Ethics for Big Data and Informatization Security (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三证合一",
+   "en": "integrate the business license, the organization code certificate, and the certificate of taxation registration into one document",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "规范性文件",
+   "en": "normative document",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "除政府规章外，由行政机关或者法律、法规授权的具有管理公共事务职能的组织依照法定权限、程序制定并公开发布，涉及公民、法人和其他组织权利义务，具有普遍约束力，在一定期限内反复适用的公文。狭义理解为法律范畴"
+  },
+  {
+   "cn": "标准化文件",
+   "en": "standardizing document",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.2.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "通过标准化活动制定的文件。"
+  },
+  {
+   "cn": "护理文件",
+   "en": "nursing document",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.018",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "护士在护理活动中形成的文字、符号、图表等资料的总和。是护士对患者进行病情观察、实施护理治疗措施的原始文件记载。"
+  },
+  {
+   "cn": "辅食引入",
+   "en": "introduction of supplementary food",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.2.7",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "婴儿6月龄后，随着对营养素需要量的增加，以及消化系统功能发育和心理行为发育的需要，逐渐添加母乳或配方奶之外其他富含能量和各种营养素的半固体食物（泥状食物）和固体食物的实践。"
+  },
+  {
+   "cn": "核损害补充赔偿公约",
+   "en": "Convention on Supplementary Compensation for Nuclear Damage",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.14",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1997年12月举行的国际原子能机构第41届大会上获得通过的全球性法律文件。其主要目的是建立一个独立的、全球性的核损害补充赔偿机制，规定了一个额外的资金筹集制度，补充有关缔约国国内法规定可获得的赔偿。"
+  },
+  {
+   "cn": "孕产期保健系统管理规范",
+   "en": "regulation document for systematic management of maternal healthcare",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "用于明确各级卫生行政部门和各级妇幼保健机构在孕产期保健工作中的管理职能，强调各级各类医疗保健机构在孕产期保健工作网络中的职责与功能的规范文件。"
+  },
+  {
+   "cn": "计划经济为主市场调节为辅",
+   "en": "leading role of the planned economy and the supplementary role of market regulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0396",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党第十二次全国代表大会确立的经济体制改革的重要原则。在这一原则下，由指令性计划和指导性计划构成的计划经济是主要部分和手段；市场调节被纳入计划经济的总框架内运行，是计划经济的补充，处于从属地位。"
+  },
+  {
+   "cn": "核能领域第三方责任布鲁塞尔补充公约",
+   "en": "Brussels Convention Supplementary to the Paris Convention on Third Party Liability in the Field of Nuclear Energy",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.8",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "该公约通过由所有缔约国分摊的基金统筹机制，在运营者的责任限额之外提供附加的国家公共基金，提高了《1960年巴黎公约》规定的赔偿限额。该公约于2004年修订。"
+  },
+  {
+   "cn": "补充保障",
+   "en": "supplemental security",
+   "source": "社会学名词",
+   "wordNumber": "4.3.12.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_补充保障",
+   "subjectName": "补充保障",
+   "publishYear": "2025",
+   "definition": "社会保障体系中非政府强制的个人、企业自愿参与的保障部分，是我国社会保障体系中一个重要组成。涉及商业保险以及员工福利等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

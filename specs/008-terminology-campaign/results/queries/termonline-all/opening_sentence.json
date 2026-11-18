@@ -1,0 +1,792 @@
+{
+ "key": "opening sentence",
+ "term": "opening sentence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:04:01+00:00",
+ "status": "ok",
+ "note": "variant=opening sentence; 审定公布名词库=1661; 海峡两岸名词对照库=582; 其他来源数据库=130; 预公布名词数据库=27; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分闸",
+   "en": "opening",
+   "source": "电力名词",
+   "wordNumber": "19.299",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "开关从合位置转换到分位置。"
+  },
+  {
+   "cn": "洞口",
+   "en": "opening",
+   "source": "建筑学名词",
+   "wordNumber": "09.0216",
+   "subjectFullName": "建筑学_建筑设计_建筑构造",
+   "subjectName": "建筑构造",
+   "publishYear": "2014",
+   "definition": "根据使用或施工的要求，在墙体上或楼板预留的孔洞。"
+  },
+  {
+   "cn": "断开",
+   "en": "opening",
+   "source": "电气工程名词",
+   "wordNumber": "09.396",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "开启",
+   "en": "open",
+   "source": "风景园林名词",
+   "wordNumber": "07.0095",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "封闭空间外表皮的打开方式和形态。"
+  },
+  {
+   "cn": "开放性",
+   "en": "openness",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0647",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "系统与环境之间以不同的载体和方式进行物质、能量及信息交换的特性。"
+  },
+  {
+   "cn": "原子[语]句",
+   "en": "atomic sentence,primitive sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "明渠",
+   "en": "open channel,open ditch,open drain",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0634",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "开放式装具",
+   "en": "open enclosure; open fittings",
+   "source": "档案学名词",
+   "wordNumber": "05.04.047",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "一种能防止胶片遭受机械性损伤，但不防光，可以接触到周围空气的装具。这类装具有开窗卡片、片盘、片夹等，短期保存的胶片档案可使用这类装具保管。"
+  },
+  {
+   "cn": "开[共振]腔",
+   "en": "open cavity,open resonator",
+   "source": "物理学名词",
+   "wordNumber": "04.2015",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "开放设计",
+   "en": "open study,open-blinding",
+   "source": "核医学名词",
+   "wordNumber": "06.0260",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "研究各方(包括研究者和受试者)均知道试验分组和处理措施，可以公开进行的临床试验设计。"
+  },
+  {
+   "cn": "分析句",
+   "en": "analytical sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "只要通过理解组成句子的每一个词语就能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "综合句",
+   "en": "synthetic sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "需要通过理解组成句子的每一个词语以及一些与外部世界相关的东西才能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "句子对齐",
+   "en": "sentence alignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0563",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "给定互为译文的双语文本，在其句子间按照翻译关系建立对应关系的过程、技术和方法。"
+  },
+  {
+   "cn": "单句",
+   "en": "simple sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.140",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“复句”相对。指一个由词或短语，加上语调构成的语言表达单位。例如，“谁？”“好好学习！”“书是人类进步的阶梯。”"
+  },
+  {
+   "cn": "感叹句",
+   "en": "exclamatory sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来表示强烈感情、带有感叹语气的句子。句中常用“真”“多么”“简直”“太”等有强调作用的词语，句尾可以加语气词“啊”，句末标点用感叹号。例如，“真好啊！”"
+  },
+  {
+   "cn": "句群",
+   "en": "sentence group",
+   "source": "语言学名词",
+   "wordNumber": "04.148",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由几个在逻辑上有密切联系、共同表达一个中心意思的各自独立的句子组成的语言使用单位。例如，“公园里寂静无声，一片荒凉。但是特别寂静的却是他白天破窗而入的校舍。校舍里非常寂静，似乎他每走一步不仅校舍里可以"
+  },
+  {
+   "cn": "陈述句",
+   "en": "declarative sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.155",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句类的一种。用来叙述或说明情况、带有陈述语调的句子。句尾可以用语气词“啊”“呢”“了”“的”等，句末标点符号一般用句号。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开放性",
+   "en": "openness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "开放",
+   "en": "open",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尿生殖孔",
+   "en": "urogenital opening",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脐孔",
+   "en": "umbilical opening",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "全本演出",
+   "en": "opening cuts",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "开标",
+   "en": "tender opening",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "开盘价",
+   "en": "opening price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "鳃孔",
+   "en": "gill opening",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "交配孔",
+   "en": "copulatory opening",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "出入口",
+   "en": "access opening",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "气门孔",
+   "en": "spiracular opening",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "真殖孔",
+   "en": "eugenital opening",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "开放层",
+   "en": "open tier",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开放脉序",
+   "en": "open venation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开放系统",
+   "en": "open system",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开路",
+   "en": "open circuit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "开放性",
+   "en": "openness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "放开！",
+   "en": "Open!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打开",
+   "en": "open",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打开",
+   "en": "open",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "展开",
+   "en": "open",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开幕式",
+   "en": "opening ceremony",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开放系统",
+   "en": "open system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放获取",
+   "en": "open access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台开放",
+   "en": "platform openness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放数据",
+   "en": "open data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放政府",
+   "en": "open government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开源",
+   "en": "open source",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放目录",
+   "en": "open directory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放发展",
+   "en": "open development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拉开进攻",
+   "en": "open play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开放世界",
+   "en": "opening world",
+   "source": "马克思主义",
+   "wordNumber": "04.0164",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平关于国家发展与对外开放关系的基本观点。十一届三中全会以后，邓小平同志集中了党和人民的智慧，在总结建国30多年正反两方面经验的基础上，在研究国际经验和世界经济形势的基础上，提出了“现代的世界是开放"
+  },
+  {
+   "cn": "两个开放",
+   "en": "two openings",
+   "source": "马克思主义",
+   "wordNumber": "03.0569",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即对内开放和对外开放。对内开放是指通过经济、政治、科技、教育等各行各业的全面改革对内搞活经济。对外开放是指通过加强国际交往，引进发达国家的先进经验、先进科学技术和资金。"
+  },
+  {
+   "cn": "开放社会",
+   "en": "open society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "具有信息公开和社会自由流动、思想多元而充满批判性的、平等而富有活力的民主社会。最早由哲学家亨利·伯格森提出。与“封闭社会”相对。"
+  },
+  {
+   "cn": "开放小组",
+   "en": "open group",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "小组成员不完全固定而是有所变化的小组。在小组过程的任何时间都允许成员加入和离开。一般社会目标模式下的小组都具有很高的开放度。"
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "沿海开放城市",
+   "en": "open coastal cities",
+   "source": "马克思主义",
+   "wordNumber": "04.0174",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国沿海地区对外开放的、并在对外经济活动中实行经济特区的某些特殊政策的一系列港口城市。它是经济特区的延伸。中国1984年，国务院批准大连、秦皇岛等14个沿海城市为首批对外开放城市。沿海开放城市一般应当"
+  },
+  {
+   "cn": "暴露型工事卫生",
+   "en": "open fortification sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为防止和降低部队短期或长期停留在堑壕、交通壕等露天工事对人员健康的有害影响而实施的医学预防活动和措施。"
+  },
+  {
+   "cn": "开瓶有效期",
+   "en": "validity period after opening",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "开启消毒产品最小包装后，为确保消毒合格所限定的最长使用时间。"
+  },
+  {
+   "cn": "改革开放",
+   "en": "reform and opening up",
+   "source": "马克思主义",
+   "wordNumber": "03.0511",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了解放和发展生产力，1978年12月十一届三中全会起中国开始实行的对内改革、对外开放的政策。改革开放是强国之路，成为新时期中国最鲜明的特点。"
+  },
+  {
+   "cn": "开伞冲击过载",
+   "en": "overload from opening shock",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.4.4",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "降落伞在扩展过程中，由于伞系统受到空气阻力的突然减速而作用于人体的冲击力。"
+  },
+  {
+   "cn": "四议两公开",
+   "en": "four proposed two open",
+   "source": "马克思主义",
+   "wordNumber": "03.0771",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即“4+2”工作法，该工作法由河南省邓州市率先提出。这种工作法主张，农村所有村级重大事项都必须在村党组织领导下，按照“四议”、“两公开”的程序决策实施。“四议”包括党支部会提议、“两委”会商议、党员大"
+  },
+  {
+   "cn": "对外开放",
+   "en": "opening to the outside world",
+   "source": "马克思主义",
+   "wordNumber": "03.0540",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对外开放是全方位的，既包括经济上的开放，也包括文化、艺术和其他领域的开放。是我国一项长期的基本国策。我国全方位、多层次、宽领域开放的新格局已经形成并不断完善。"
+  },
+  {
+   "cn": "互利共赢的开放战略",
+   "en": "winwin strategy of opening up",
+   "source": "马克思主义",
+   "wordNumber": "03.0673",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过对外开放并参与经济全球化来实现国家经济利益最大化，同时要兼顺本国经济发发展对别国及世界经济体系的影响，促进世界各国共同协调发展。"
+  },
+  {
+   "cn": "铀矿露天开采",
+   "en": "open pit of uranium mining",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.2",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "通过从地表线剥离覆盖岩层，而后开采铀矿石的开采方式。"
+  },
+  {
+   "cn": "慕课",
+   "en": "massive open online course, MOOC",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "全称“大规模开放在线课程”。一种将分布在世界各地的授课者和学习者通过网络无限参与和开放访问的方式联系起来的大规模的线上虚拟教室。"
+  },
+  {
+   "cn": "夏天露天作业环境",
+   "en": "open operating environment in summer",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.3.1.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业",
+   "subjectName": "高温作业",
+   "publishYear": "2025",
+   "definition": "露天作业中，除受太阳的直接辐射作用外，还受到加热的地面及周围物体二次辐射源的附加热影响，所形成的高温和热辐射联合作用的作业环境。"
+  },
+  {
+   "cn": "全方位多层次宽领域的对外开放格局",
+   "en": "alldimensional multilevel and wideranging opening pattern",
+   "source": "马克思主义",
+   "wordNumber": "03.0637",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党十四大确定的一条重要方针和战略部署。全方位：指我国对外开放不仅要“引进来”而且要“走出去”，对世界所有类型的国家开放。多层次：指不仅设立经济特区，而且兴办经济技术开发区、开辟沿海经济开放区，"
+  },
+  {
+   "cn": "两种改革开放观",
+   "en": "two ideas of reform and opening up",
+   "source": "马克思主义",
+   "wordNumber": "04.0386",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在改革开放过程中，始终存在两种不同的改革观的较量。邓小平指出：“有一些人打着拥护改革开放的旗帜，想把中国引导到资本主义，他是要改变我们社会的性质。”在1989年他指出：“某些人所谓的改革，应该换个名字"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

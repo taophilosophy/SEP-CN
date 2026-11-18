@@ -1,0 +1,732 @@
+{
+ "key": "place relations",
+ "term": "place relations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:01:26+00:00",
+ "status": "ok",
+ "note": "variant=place relations; 审定公布名词库=2724; 海峡两岸名词对照库=828; 其他来源数据库=129; 预公布名词数据库=123; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "安",
+   "en": "place",
+   "source": "风景园林名词",
+   "wordNumber": "08.0730",
+   "subjectFullName": "风景园林_风景园林工程_风景园林假山",
+   "subjectName": "风景园林假山",
+   "publishYear": "2025",
+   "definition": "放置山石的过程，有单安、双安、三安之分，单安即直接放置山石；双安即在两块不相连的山石上安置一块山石，以在竖向的立面上形成洞岫；三安即在三块山石上安置一块山石，使之连成一体。"
+  },
+  {
+   "cn": "处所",
+   "en": "place",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.059",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "物理空间所处的位置和心灵空间所处的境况。有实虚两重含义，实指物理事物的空间位置，虚指人的意境、心境所处的境况。"
+  },
+  {
+   "cn": "场所",
+   "en": "place",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.178",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "由物质环境与人文环境结合而形成的具有特定意义的空间。如与记忆、象征、归属等情感价值相联系的处所或地方。"
+  },
+  {
+   "cn": "库所",
+   "en": "place",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0635",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在一个佩特里网Σ=( S,T;F,<img src='/root/syzx/static/spz/jsjkx3.02.0635.001.png'/>)中，集合S 的元素称为库所。用图形表示时，一个库所"
+  },
+  {
+   "cn": "场所",
+   "en": "place",
+   "source": "建筑学名词",
+   "wordNumber": "07.0320",
+   "subjectFullName": "建筑学_城乡规划_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2014",
+   "definition": "由物质环境与人文环境结合形成的具有特定意义的城市环境空间。城市空间被赋予社会、历史、文化、人的活动等特定含义之后才能称为场所。"
+  },
+  {
+   "cn": "位",
+   "en": "place",
+   "source": "数学名词",
+   "wordNumber": "04.0471",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "要闻集录",
+   "en": "Relation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "世界报业学会认定的第一份现代报纸。1605年，由德国出版商约翰·卡罗勒斯(Johann Carolus)在斯特拉斯堡出版。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "具有相同属性集的元组的集合。一个关系对应一个二维表。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "数学名词",
+   "wordNumber": "01.0036",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "景观场所",
+   "en": "landscape place",
+   "source": "风景园林名词",
+   "wordNumber": "05.0190",
+   "subjectFullName": "风景园林_风景园林规划_区域景观与山水风貌规划",
+   "subjectName": "区域景观与山水风貌规划",
+   "publishYear": "2025",
+   "definition": "与观赏、运动、集会等某一特定活动紧密相关空间的心理感受范围。"
+  },
+  {
+   "cn": "部位学说",
+   "en": "place theory",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.8.1",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "频率感受是基于沿基底膜行波的最大位移位置的学说。耳蜗作为一整体的共振器，每一个声频在基底膜上具有相应的共振部位。"
+  },
+  {
+   "cn": "场所营造",
+   "en": "place making",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.179",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "将空间赋予特定意义，形成人们认同的、具有归属感的场所的过程。"
+  },
+  {
+   "cn": "地名命名",
+   "en": "place naming",
+   "source": "测绘学名词",
+   "wordNumber": "04.192",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "地名的确认、审批和启用等业务过程。"
+  },
+  {
+   "cn": "位置细胞",
+   "en": "place cell",
+   "source": "生理学名词",
+   "wordNumber": "03.730",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位置细胞",
+   "en": "place cell",
+   "source": "生物物理学名词",
+   "wordNumber": "04.212",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "海马中一种特殊类型的细胞。处于环境中某一个特定部位时有强烈的电发放。英国神经科学家奥基夫(J. O’Keefe)因发现该类细胞及其相关工作而荣获2014年诺贝尔生理学或医学奖。"
+  },
+  {
+   "cn": "位置野",
+   "en": "place field",
+   "source": "生物物理学名词",
+   "wordNumber": "04.213",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "动物所处环境中的一小块区域。当动物位于该区域时，就激活了动物海马中的某个位置细胞。不同的位置细胞可能有不同的位置野，当动物到一个新环境时，位置细胞的位置野也立即更新。"
+  },
+  {
+   "cn": "原地",
+   "en": "in-place",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0729",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "一个原地算法是一种使用小的、固定数量的额外空间来转换数据的算法。当算法执行时，输入的数据通常会被要输出的部分覆盖掉。"
+  },
+  {
+   "cn": "地点营销",
+   "en": "place marketing",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0343",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "为创造、维持或改变目标消费者对特定地点的态度与行为所进行的活动。"
+  },
+  {
+   "cn": "纪念地",
+   "en": "commemorative place",
+   "source": "建筑学名词",
+   "wordNumber": "03.0403",
+   "subjectFullName": "建筑学_中外建筑历史_文化遗产",
+   "subjectName": "文化遗产",
+   "publishYear": "2014",
+   "definition": "发生过重大历史事件的场所。包括两种类型：第一类全部是自然物，其中某些地貌有显著的标志性，如大树、山峰、洞穴、台地；第二类是有建筑的环境。虽然建筑本身与历史事件并无直接关系，但都是构成纪念地形象的主要因"
+  },
+  {
+   "cn": "阴凉处",
+   "en": "cool place",
+   "source": "药学名词",
+   "wordNumber": "06.566",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "不超过20℃的药品贮存条件。"
+  },
+  {
+   "cn": "场所（＝地方）",
+   "en": "place",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "place\",\"position",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摄食地点",
+   "en": "feeding place",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "栖息处",
+   "en": "roosting place",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地方认同",
+   "en": "place identification",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地方社区",
+   "en": "place community",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地方效用",
+   "en": "place utility",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "中心地",
+   "en": "central place",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "平位置",
+   "en": "mean place",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "视位置",
+   "en": "apparent place",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "原地",
+   "en": "in-place",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置查找",
+   "en": "find places",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无地方社区",
+   "en": "non-place community\",\"non-place realm",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "交货地点",
+   "en": "place of delivery",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "原产地",
+   "en": "place of origin",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "仲裁地点",
+   "en": "place of arbitration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "在位分析",
+   "en": "in place analysis",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "场所与非场所,地方与非地方",
+   "en": "Place and placelessness",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "中心地功能",
+   "en": "central place function",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "注意界外！",
+   "en": "Place!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制落点",
+   "en": "place",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精准球",
+   "en": "place",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制落点",
+   "en": "place",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制落点",
+   "en": "place",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发点",
+   "en": "starting place",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification\",\"placing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆出准备姿势",
+   "en": "place on guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精准传球",
+   "en": "well-placed kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "特殊场所",
+   "en": "special place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "与传染病疫情、突发公共卫生事件处置或重大活动卫生保障相关，有特殊管理要求的场所。"
+  },
+  {
+   "cn": "人群聚集场所",
+   "en": "congregate place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "人员密集且流动性大，容易发生传染病聚集性疫情和突发公共卫生事件的场所，如公共场所、各类办公场所和学校等。"
+  },
+  {
+   "cn": "重点场所",
+   "en": "key place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "发生传染病流行、突发公共卫生事件期间，人员密集且流动性大、容易暴发聚集性疫情或事件的场所，包括办公场所、宾馆、商场超市、餐厅（馆）、农集贸市场、车站、机场、码头和公共交通工具等。"
+  },
+  {
+   "cn": "密闭场所",
+   "en": "airtight place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "自然通风较差的室内场所。如影剧院、歌舞娱乐场所、公共浴室等。"
+  },
+  {
+   "cn": "第三场所",
+   "en": "third place",
+   "source": "社会学名词",
+   "wordNumber": "3.17.2.1",
+   "subjectFullName": "社会学名词_分支社会学_社区_西方社区概念",
+   "subjectName": "西方社区概念",
+   "publishYear": "2025",
+   "definition": "除了家（第一场所）和工作地点（第二场所）以外的一个非正式的公共聚集场所或空间。人们经常或是偶尔来此活动（特别是交谈），有助于社会交往、增进友谊和邻里团结，同时也通过开放、平等的横向交往有助于社区公共领"
+  },
+  {
+   "cn": "健康场所",
+   "en": "healthy places",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.5.10",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "通过改善物理环境、社会支持、制度管理和健康促进活动，使人在该场所中能够获得身心健康、减少健康风险、促进健康行为的空间与机构。"
+  },
+  {
+   "cn": "原位杀菌",
+   "en": "sterilization in place",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.14",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "未拆卸设备或组件，在密闭的条件下，用一定温度和浓度的杀菌介质，或用蒸汽、热水、过热水对被杀菌表面进行强力作用而达到杀菌要求。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "公共场所消毒",
+   "en": "disinfection in public place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.8",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "在人群经常聚集、供公众使用或服务于人民大众的场所中，对物体表面、室内环境、饮用水等进行的消毒。"
+  },
+  {
+   "cn": "重点场所消毒",
+   "en": "disinfection in key place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.9",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对重点场所环境和一般物体表面、空气进行的消毒。"
+  },
+  {
+   "cn": "原位清洗",
+   "en": "cleaning in place，CIP",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.39",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "生产关系",
+   "en": "relations of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0004",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在物质资料生产和再生产过程中形成的社会经济关系。包括：作为其基础的生产资料所有制形式，生产资料和劳动力的结合方式，直接生产过程中的关系（狭义生产关系），产品分配关系，交换关系等。"
+  },
+  {
+   "cn": "社会主义民族关系",
+   "en": "socialist ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0398",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义制度下建立起来的新型民族关系。其基本特征是：各民族地位平等、团结、互助、和谐。毛泽东在《论十大关系》《关于正确处理人民内部矛盾的问题》中多次强调克服大汉族主义、地方民族主义。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

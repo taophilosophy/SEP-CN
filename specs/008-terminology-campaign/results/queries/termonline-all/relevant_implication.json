@@ -1,0 +1,752 @@
+{
+ "key": "relevant implication",
+ "term": "relevant implication",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T19:57:33+00:00",
+ "status": "ok",
+ "note": "variant=relevant implication; 审定公布名词库=516; 海峡两岸名词对照库=205; 其他来源数据库=86; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "蕴涵",
+   "en": "implication",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0120",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "两个公式之间的逻辑关系，如果满足其中一个公式的任意解释都满足另一个公式，则称前者蕴涵后者。"
+  },
+  {
+   "cn": "相关度",
+   "en": "relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.167",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "信息检索结果对用户信息需求的满足程度。"
+  },
+  {
+   "cn": "相关性",
+   "en": "relevance",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0545",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "被检出的信息与信息用户的需求之间的相关度。"
+  },
+  {
+   "cn": "样地直观记录",
+   "en": "relevé",
+   "source": "植物学名词",
+   "wordNumber": "13.0237",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "通过视觉记录植物习性和生境的数据描述一个区域内的植被特征的方法。"
+  },
+  {
+   "cn": "蕴涵",
+   "en": "imply,implication",
+   "source": "数学名词",
+   "wordNumber": "01.0039",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "环境影响",
+   "en": "environmental implication",
+   "source": "行为医学名词",
+   "wordNumber": "3.196",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_认知能力遗传",
+   "subjectName": "认知能力遗传",
+   "publishYear": "2022",
+   "definition": "自然环境、社会环境、生活环境、教育环境等对人发展的作用。强调外在因素在人类发展中发挥的作用。"
+  },
+  {
+   "cn": "蕴涵共性",
+   "en": "implicational universal",
+   "source": "语言学名词",
+   "wordNumber": "01.171",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "与“非蕴涵共性”相对。指各种语言现象之间隐藏的相关性，即根据某一语言现象的存在可以推测另一语言现象的存在。例如，如果一种语言没有固定词序，那它就要加用屈折形式或词缀形式来表达句法关系。其基本表达方式是"
+  },
+  {
+   "cn": "相关尺寸",
+   "en": "relevant size",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0338",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "在视图上表示与给定直角坐标系的两坐标轴既不平行、也不垂直的直线(或曲线)或平面(或曲面)位置的两个坐标尺寸。"
+  },
+  {
+   "cn": "有关参量",
+   "en": "relevant parameter",
+   "source": "物理学名词",
+   "wordNumber": "05.1046",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相关方",
+   "en": "relevant side",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0713",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "与组织的业绩或成就有利益关系的个人或团体。"
+  },
+  {
+   "cn": "关联故障",
+   "en": "relevant fault",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.188",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "关联失效",
+   "en": "relevant failure",
+   "source": "电气工程名词",
+   "wordNumber": "28.091",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "关联性",
+   "en": "relevance,association",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0644",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "系统内部各组成部分之间、系统与环境之间所具有的相互依赖、相互作用和相互制约的特性。"
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.072",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "抽取有助于提高检得结果相关度的关键词用于原有检索式的修改，再据此检得更有用的相关结果。"
+  },
+  {
+   "cn": "相关度排序",
+   "en": "relevance ranking",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.153",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "综合运用检索模型（如布尔模型、向量空间模型、概率模型等）对检索结果进行处理，按检索结果与检索表达式的相关程度进行计算和评估比较，根据计算结果对文档排序的一种方法。"
+  },
+  {
+   "cn": "互逆相关性",
+   "en": "reversible relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用以描述查全率、查准率两个指标相对关系的概念，即当查全率增大时查准率减小，查全率减小时查准率增大。"
+  },
+  {
+   "cn": "查准评定",
+   "en": "relevance judgement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.169",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用户在某一特定时间按照一定标准对信息检索结果满足用户需求的程度进行评判的过程。"
+  },
+  {
+   "cn": "相关性原理",
+   "en": "relevance principle",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.201",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "系统方法论的基本原则之一，也是情报学的一个基本原理。系统的要素之间、要素与系统整体之间、系统与环境之间是普遍联系的，它们互相制约、互相影响、不可分割开来。任何一种情报结构都是按一定规则相互关联的，研究"
+  },
+  {
+   "cn": "用户相关性",
+   "en": "user relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.168",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用户及其代理与检索系统间的关系。受到用户偏好、兴趣、时效、完整性、信息价值和针对性的影响，是衡量检索系统与用户情报问题匹配程度的重要指标。"
+  },
+  {
+   "cn": "样地记录[表]",
+   "en": "relevé",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑蕴涵",
+   "en": "logical implication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关联失效",
+   "en": "relevant failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺失体",
+   "en": "deletant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "肌肉松弛药",
+   "en": "muscle relaxant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "血管松弛药",
+   "en": "vessel relaxant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重复",
+   "en": "duplication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重复",
+   "en": "duplication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用",
+   "en": "application",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "敷贴",
+   "en": "application",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "复制滑移,复制跳格",
+   "en": "replication slipping\",\"replication slippage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "骨骼肌松弛药",
+   "en": "skeletal muscle relaxant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "随意肌松弛药",
+   "en": "voluntary muscle relaxant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重复",
+   "en": "duplication\",\"repeat",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "神韵",
+   "en": "Elegant Subtlety",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用程序；应用软件",
+   "en": "Application",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "去中心化应用",
+   "en": "Decentralized Application",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能应用",
+   "en": "Smart Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用服务器",
+   "en": "application server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用架构",
+   "en": "application architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景应用",
+   "en": "Scenario Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技应用",
+   "en": "Fintech Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网应用",
+   "en": "IoT application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用标准",
+   "en": "Application Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗议申请",
+   "en": "protest application",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知行",
+   "en": "Knowledge and Application",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据应用能力",
+   "en": "data application capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资产应用",
+   "en": "data asset application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蕴涵共性",
+   "en": "implicational universals",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0058",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与“非蕴涵共性”相对。指各种语言现象之间隐藏的相关性，即根据某一语言现象的存在可以推测另一语言现象的存在。例如，有浊阻塞音的语言一定有清阻塞音，反之有清阻塞音的语言不一定有浊阻塞音。其基本表达方式是："
+  },
+  {
+   "cn": "非蕴涵共性",
+   "en": "non-implicational universals",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0059",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与“蕴涵共性”相对。指某一语言现象的存在与另一语言现象的存在没有相关性。例如，有声调的语言既可以使用动词-宾语语序，也可以使用宾语-动词语序，因此声调和语序即为非蕴含共性关系。"
+  },
+  {
+   "cn": "进出境水生动物相关场地消毒",
+   "en": "disinfection of relevant venues for entry-exit aquatic animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.5.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对具有染疫风险的进出境水生动物相关场所清除且杀灭病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "并发症",
+   "en": "complication",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.1.3",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "在一种疾病发展过程中继发的另一种疾病或症状。"
+  },
+  {
+   "cn": "消毒应用",
+   "en": "disinfection application",
+   "source": "消毒学",
+   "wordNumber": "4",
+   "subjectFullName": "消毒学_消毒应用",
+   "subjectName": "消毒应用",
+   "publishYear": "2025",
+   "definition": "消毒措施在医疗卫生、生产生活等过程中的使用。"
+  },
+  {
+   "cn": "妊娠并发症",
+   "en": "pregnancy complication",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.7",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "由妊娠及妊娠时母儿病理性变化引起，与妊娠不存在必然因果联系，而是偶然因果关系的疾病。"
+  },
+  {
+   "cn": "连续使用稳定性",
+   "en": "continuous application stability",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒剂反复多次使用至规定时间和次数后，仍满足消毒要求的能力。"
+  },
+  {
+   "cn": "复制后修复",
+   "en": "post-replication repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA复制结束后对DNA损伤进行的修复。这类修复通常发生在细胞周期的G1期或G2期，包括DNA链断裂修复、错配修复和切除修复等不同的修复方式。"
+  },
+  {
+   "cn": "放射性核素敷贴治疗",
+   "en": "radionuclide application therapy",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.23",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "选择适当的放射性核素面状源作为敷贴器覆盖在患者病变部位的表面，照射一定时间，达到治疗目的的放射治疗方法。"
+  },
+  {
+   "cn": "民俗应用资源",
+   "en": "folklore application resources",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0466",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "某种民俗作为文化资源，在景物、食品、工艺、信仰等方面的应用价值和继续认识、不断开发的巨大潜能。"
+  },
+  {
+   "cn": "试验性使用效果",
+   "en": "experimental application effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.15",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂在试验性应用中的有效性，一般通过比较使用添加剂和未使用添加剂的食品之间特定感官和（或）理化指标的差异来获知"
+  },
+  {
+   "cn": "生长发育调查应用",
+   "en": "growth and development investigation application",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "将生长发育调查的结果和发现用于促进儿童生长发育的过程。"
+  },
+  {
+   "cn": "人工流产近期并发症",
+   "en": "short-term complication of abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.8.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "由于人工流产操作或受术对象的特殊身体状况，在人工流产手术过程中或术后1个月内发生人工流产不全、出血、感染、脏器损伤或继续妊娠等病症。"
+  },
+  {
+   "cn": "人工流产远期并发症",
+   "en": "long-term complication of abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.8.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "既往的人工终止妊娠经历（特别是多次流产史及不安全流产史）对受术者身心带来久远的不良影响，如月经失调、慢性盆腔感染、继发不孕、不育、胎盘粘连、抑郁等。"
+  },
+  {
+   "cn": "食品添加剂新品种申报",
+   "en": "application of new food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.11",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂生产经营者就拟生产、经营、使用或者进口的食品添加剂新品种，向政府主管部门提出食品添加剂新品种许可申请的行为"
+  },
+  {
+   "cn": "计划生育手术并发症发生率",
+   "en": "complication rate of family planning surgery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.12.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区在计划生育手术中因各种原因造成术中或术后生殖器官或邻近器官和组织损伤、感染等并发症发生例数，与计划生育手术总例数之比。"
+  },
+  {
+   "cn": "临床新技术应用伦理",
+   "en": "ethics of application of new clinical technology",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.062",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "医疗机构首次使用具有明确安全性和有效性的医疗技术时涉及的伦理问题及应遵循的伦理规范。"
+  },
+  {
+   "cn": "人体器官移植技术临床应用委员会",
+   "en": "committee on clinical application of human organ transplantation techniques",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.062999999999999",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "根据原卫生部颁布的《人体器官移植技术临床应用管理暂行规定》于2006 年成立的拟定全国人体器官移植技术临床应用规范和评议省级卫生健康行政主管部门上报的人体器官移植技术临床应用规划的组织。"
+  },
+  {
+   "cn": "人体器官移植技术临床应用与伦理委员会",
+   "en": "clinical application and ethics committee of human organ transplantation technology",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.064",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "由医疗机构设立的负责监督、评估和批准人体器官移植技术的临床应用，确保其符合医学规范、伦理原则及法律法规的伦理审查组织。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,682 @@
+{
+ "key": "biological entities",
+ "term": "biological entities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:10:06+00:00",
+ "status": "ok",
+ "note": "variant=biological entities; 审定公布名词库=1120; 海峡两岸名词对照库=426; 其他来源数据库=50; 预公布名词数据库=118; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "能够独立存在的、作为一切具体事物和现象最后根源的载体的东西。唯物主义认为实体是常驻不变的、时空上无限的物质，唯心主义则把它作为精神、神和观念来理解。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.022",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医学数字成像和通信标准（DICOM）中，表示一个或一类有相同特性个体的应用对象。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.358",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "书目记录使用者关注的主要对象。包括具有单一与自我独立特征的某些事物；一种抽象的观念、思想的概念、思考的客体，或先验的对象。在书目记录的功能需求（FRBR）中，实体类型的实例包括：知识或艺术创作的产品、"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0010",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "客观世界中存在的可互相区分的客观对象或抽象概念。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0925",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "具有法律地位的个人、合伙人、组织或企业。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "建筑学名词",
+   "wordNumber": "09.0150",
+   "subjectFullName": "建筑学_建筑设计_计算机辅助设计",
+   "subjectName": "计算机辅助设计",
+   "publishYear": "2014",
+   "definition": "客观存在并可独立处理的元素。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.454",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "具有相同属性描述的对象(人、地点、事物)的集合。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "地理学名词",
+   "wordNumber": "30.026",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "具有相同属性描述的对象(人、地点、事物)的集合。"
+  },
+  {
+   "cn": "对等实体",
+   "en": "peer entities",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0083",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "在计算机网络分层结构中位于另一系统上属于相同层次的实体。"
+  },
+  {
+   "cn": "理论实体",
+   "en": "theoretical entity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.011",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "无法直接观察、需要科学理论来描述的实体。如电子。"
+  },
+  {
+   "cn": "实体实在论",
+   "en": "entity realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.034",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由I. 哈金（I. Hacking）提出。认为成熟科学所指明的实体是真实存在的，但关于这些实体的科学理论有可能出错。"
+  },
+  {
+   "cn": "媒体",
+   "en": "media entity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.071",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "①运作媒介的组织、机构或其他主体，如新闻媒体、自媒体等。②某个具体的媒介或某一类特定的信息传播工具，如电视媒体、社交媒体等。③常与媒介、传媒混用。参见“媒介”“传媒”条。 "
+  },
+  {
+   "cn": "实体违法",
+   "en": "entity violation",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.077",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "公民、法人或者其他组织的建设行为，违反城乡规划及相关法律法规或者规划许可规定的相关实体要件。"
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "地理空间中不可再分的最小单元，主要包括点、线、面、体四种基本类型，具有空间位置、属性、时间和空间关系等特征。"
+  },
+  {
+   "cn": "点实体",
+   "en": "point entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.047",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达一定地理意义的零维单元。通常由一对坐标或一个栅格像元表示。"
+  },
+  {
+   "cn": "线实体",
+   "en": "line entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.048",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达具有一定地理意义的一维单元。通常由矢量数据中的有序坐标对或栅格数据中具有相同属性的点的轨迹表示。"
+  },
+  {
+   "cn": "面实体",
+   "en": "area entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.049",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达具有一定地理意义的二维单元。通常由矢量数据中闭合的弧段或栅格数据中具有相同属性的点的轨迹表示。"
+  },
+  {
+   "cn": "体实体",
+   "en": "body entity",
+   "source": "测绘学名词",
+   "wordNumber": "05.050",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "表达三维空间中的地理现象和实体。通常由一组或多组空间曲面表示。"
+  },
+  {
+   "cn": "市场主体",
+   "en": "market entity",
+   "source": "电力名词",
+   "wordNumber": "06.250",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "具有独立经济利益和资产,享有民事权利和承担民事责任的可从事市场交易活动的法人或自然人。"
+  },
+  {
+   "cn": "命名实体",
+   "en": "named entity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0505",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "自然语言中指称人、地、机构等特定实体名称的表达形式。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对等[层]实体",
+   "en": "peer entities",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分子实体",
+   "en": "molecular entity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体类型",
+   "en": "entity type",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "绘图实体",
+   "en": "drawing entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体超类",
+   "en": "entity supertype",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体点",
+   "en": "entity point",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体对象",
+   "en": "entity object",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体分类",
+   "en": "entity classification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体集",
+   "en": "entity set",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体类",
+   "en": "entity class",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体类型",
+   "en": "entity type",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体子类",
+   "en": "entity subtype",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体标识",
+   "en": "entity identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型经营主体",
+   "en": "new business entity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实行封闭式管控",
+   "en": "to exercise management by sealing off entities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“双随机一公开”监管平台",
+   "en": "platform for oversight through random selection of both inspectors and entities and public release of results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态神学",
+   "en": "ecological theology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态资本",
+   "en": "ecological capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值实体",
+   "en": "entity of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0039",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值的质的规定。具有同一性质的人类抽象劳动凝结或“物化在商品中的一般人类劳动”。作为价值实体的抽象劳动，对于任何劳动支出来说都是同质的，它们不存在差别，是直接形成商品价值的物质因素。"
+  },
+  {
+   "cn": "生物战剂袭击",
+   "en": "biological attack",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "利用致病性微生物（如细菌、病毒、真菌）或其代谢产物（如毒素）作为武器，通过故意释放、散布等方式，造成人群、动植物感染或死亡，从而达到军事、政治或恐怖主义目的的攻击行为。"
+  },
+  {
+   "cn": "生物消毒",
+   "en": "biological disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.3",
+   "subjectFullName": "消毒学_消毒技术",
+   "subjectName": "消毒技术",
+   "publishYear": "2025",
+   "definition": "利用生物产生的物质通过化学机制杀灭有害微生物的消毒处理。"
+  },
+  {
+   "cn": "生物指示物",
+   "en": "biological indicator",
+   "source": "消毒学",
+   "wordNumber": "3.1.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对特定灭菌处理有确定的抗力，并装在内层包装中可供使用的染菌载体。"
+  },
+  {
+   "cn": "生物传播",
+   "en": "biological transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体必须在节肢动物体内增殖和（或）发育才能传递到人的传播方式。"
+  },
+  {
+   "cn": "生物相容性",
+   "en": "biological compatibility",
+   "source": "消毒学",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "各种材料（如消毒剂、包材、生物材料等）与宿主直接或间接接触时所产生相互反应的能力。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biological diversity",
+   "source": "消毒学",
+   "wordNumber": "7.1.8",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "生物体及其所生活的生态系统的多种变化。包括不同物种的多样性（物种多样性），物种内部基因的多样性（基因多样性），生态系统内和生态系统间相互作用的多样性（生态系统多样性）。"
+  },
+  {
+   "cn": "生物武器",
+   "en": "biological weapon",
+   "source": "消毒学",
+   "wordNumber": "7.1.10",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "战争中以病原微生物或生物因子为主要成分，用来伤害人、畜或毁坏农作物的特殊武器。由生物战剂装料和施放装置组成，一般包括战剂、弹体、施放装置、推进装置、定时装置和爆破装置等部件。"
+  },
+  {
+   "cn": "生物样品",
+   "en": "biological samples",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "根据生物监测需要采集的、具有代表性的、作为检测样品的生物材料。"
+  },
+  {
+   "cn": "生物去污",
+   "en": "biological decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.13",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "用微生物进行去污的过程。"
+  },
+  {
+   "cn": "生物决定论",
+   "en": "biological determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种把社会现象解释为因某些人的生物或遗传的特征所引起的观点。"
+  },
+  {
+   "cn": "生物制剂",
+   "en": "biological agent",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.10",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "用微生物(细菌、立克次体、病毒等)及其代谢产物有效抗原成分、动物毒素、人或动物的血液或组织等加工而成作为预防、治疗、诊断传染病或其他相关疾病的生物制品。医药行业通常指免疫生物制剂。"
+  },
+  {
+   "cn": "生物性污染",
+   "en": "biological pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "食品中有害微生物、寄生虫、昆虫等生物引起的食品污染。"
+  },
+  {
+   "cn": "生物识别",
+   "en": "biological recognition",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.57",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过计算机与光学、声学、生物传感器和生物统计学原理等高科技手段密切结合，利用动物固有的生理特性（如指纹、脸像、虹膜等）和行为特征（如笔迹、声音、步态等）来进行食品身份鉴定的技术。"
+  },
+  {
+   "cn": "生物弹药",
+   "en": "biological ammunition",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "用来装载生物战剂的弹药，主要有爆炸型和喷撒型。"
+  },
+  {
+   "cn": "生物防治",
+   "en": "biological control",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.3.21",
+   "subjectFullName": "食品卫生学_食品_蔬菜",
+   "subjectName": "蔬菜",
+   "publishYear": "2025",
+   "definition": "利用有益生物或其他生物及其产物来抑制或消灭另一种有害生物的一种控制方法"
+  },
+  {
+   "cn": "生物侦检法",
+   "en": "biological detection",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.7.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂侦检",
+   "subjectName": "化学战剂侦检",
+   "publishYear": "2025",
+   "definition": "通过观察染毒区内各种动物和植物的异常表现，或用可疑染毒样品使动物中毒，观察动物中毒后症状，作出是否染毒及毒剂类别的初步判断。"
+  },
+  {
+   "cn": "生物制造",
+   "en": "biological manufacturing",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.18",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "以基因操作、合成生物学为基础，利用生物组织或生物体（酶、微生物细胞等）进行物质加工，生产相关产品的先进工业模式，涉及生物医药、新材料与新能源、现代农业与食品等多个产业集群，催生许多新产品，如替代蛋白。"
+  },
+  {
+   "cn": "生物武器",
+   "en": "biological weapon",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "类型和数量非预防、保护或其他和平用途所正当需要的、任何来源或者任何方法产生的微生物剂、其他生物剂以及生物毒素；也包括为将上述生物剂、生物毒素使用于敌对目的或者武装冲突而设计的武器、设备或者运载工具。"
+  },
+  {
+   "cn": "生物膨松剂",
+   "en": "biological leavener",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.9.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品加工过程中加入的，能通过特定微生物的发酵反应产生气体，从而使食品形成致密多孔组织并具备膨松、柔软或酥脆等特性的物质。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,752 @@
+{
+ "key": "replication crisis",
+ "term": "replication crisis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T20:05:04+00:00",
+ "status": "ok",
+ "note": "variant=replication crisis; 审定公布名词库=1542; 海峡两岸名词对照库=558; 其他来源数据库=188; 预公布名词数据库=74; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "危机",
+   "en": "crisis",
+   "source": "经济学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "一个或多个国民经济或整个世界经济在一段比较长的时间内不断收缩（负的经济增长率）的状况。是资本主义经济发展过程中周期爆发的生产过剩的危机；是经济周期中的决定性阶段；是资本主义体制的必然结果。"
+  },
+  {
+   "cn": "危机",
+   "en": "crisis",
+   "source": "精神医学名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "个体面临严重、紧迫的处境(如灾祸、挫折、重大生活变化事件等)，需要迅速应对，但惯用的应对措施失效的时候产生的无所适从的处境。伴随着应激反应和强烈痛苦体验，如出现严重的困惑、焦虑、恐慌、悲痛、抑郁反应，"
+  },
+  {
+   "cn": "激变",
+   "en": "crisis",
+   "source": "物理学名词",
+   "wordNumber": "11.0559",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": "混沌运动的。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "农学名词",
+   "wordNumber": "06.110",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "以亲代遗传物质（DNA或RNA）为模板按照碱基配对原则合成子代分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0098",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA或RNA基因组以亲代核酸链作为合成模板，按照碱基互补配对原则合成子代核酸链进行扩增的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "兽医学名词",
+   "wordNumber": "16.177",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "病毒吸附并侵入易感细胞内，以其核酸为模板合成子代病毒核酸和蛋白质等组分，装配子代病毒粒子，最后释放到细胞外的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.044",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由核酸模板链复制出相同核酸链的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "畜牧学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "在DNA聚合酶的催化作用下，以亲代DNA分子为模板合成子代DNA分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "植物学名词",
+   "wordNumber": "16.0174",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "以亲代DNA分子为模板按照碱基配对原则合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0347",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "证券产品的一种设计方法。某种证券运作业绩良好，可以将其作为参照标准，再设计一只新证券，在同样的方式、方法下运作，以期望能够取得与原证券具有相同的风险特性和收益率，给投资者创造出更多的获取收益的机会。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "药学名词",
+   "wordNumber": "05.334",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "用亲代分子作为合成的模板，由一个亲代DNA或一个亲代RNA合成一个新的子代分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "微生物学名词",
+   "wordNumber": "04.073",
+   "subjectFullName": "微生物学_病毒学",
+   "subjectName": "病毒学",
+   "publishYear": "2012",
+   "definition": "以病毒粒子的基因组为模板，产生与其完全一致的一定数量的子代病毒粒子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.161",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "以亲代DNA分子为模板按照碱基配对原则合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "遗传学名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "以亲代DNA分子为模板合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.617",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "含有一个复制起点并能促进质粒DNA分子在宿主细胞中复制的一段DNA序列。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "畜牧学名词",
+   "wordNumber": "04.104",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "有一个复制起始点并能促进DNA分子复制的DNA序列。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "遗传学名词",
+   "wordNumber": "03.215",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "有一个复制起始点并能促进DNA分子复制的DNA序列。"
+  },
+  {
+   "cn": "甲状旁腺危象",
+   "en": "parathyroid crisis",
+   "source": "普通外科学名词",
+   "wordNumber": "14.204",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "甲状旁腺激素大量释放导致高钙血症危象而引起的一系列临床表现。主要表现为恶心、呕吐、腹痛、意识模糊，严重时可出现谵妄、昏迷及心律失常等。"
+  },
+  {
+   "cn": "高钙血症危象",
+   "en": "hypercalcemic crisis",
+   "source": "普通外科学名词",
+   "wordNumber": "14.205",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "血钙异常增高引起的急危重症。临床表现和预后取决于高钙血症的程度与潜在原因。常见原因包括恶性肿瘤相关高钙血症、甲状旁腺功能亢进、药物诱发高钙血症等。"
+  },
+  {
+   "cn": "危机",
+   "en": "crisis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replicating fork\",\"replication fork",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制滑移,复制跳格",
+   "en": "replication slipping\",\"replication slippage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制眼(=复制泡)",
+   "en": "replication eye(=replication bubble)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "认同危机",
+   "en": "identity crisis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中年危机",
+   "en": "midlife crisis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "危机管理",
+   "en": "crisis management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "危机干预",
+   "en": "crisis intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "发展危机",
+   "en": "developmental crisis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生态危机",
+   "en": "ecological crisis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "巴林危机",
+   "en": "Baring Crisis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "财政危机",
+   "en": "financial crisis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "黄金危机",
+   "en": "gold crisis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币危机",
+   "en": "monetary crisis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可复制性",
+   "en": "replicability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融危机",
+   "en": "financial crisis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时远程复制",
+   "en": "real-time remote replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多副本一致性管理规则",
+   "en": "management rule for consistency of replications",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "这是一次危机，也是一次大考。",
+   "en": "This is a crisis and also a test.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2916-2015 基于存储复制技术的数据灾备技术要求》",
+   "en": "YD/T 2916-2015 Technical requirement for disaster recovery based on storage replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用程序；应用软件",
+   "en": "Application",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "去中心化应用",
+   "en": "Decentralized Application",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能应用",
+   "en": "Smart Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用服务器",
+   "en": "application server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用架构",
+   "en": "application architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景应用",
+   "en": "Scenario Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技应用",
+   "en": "Fintech Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心理危机",
+   "en": "psychological crisis",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "个人遇到应激或挫折而自己不能解决或处理时，发生的心理失衡状态。"
+  },
+  {
+   "cn": "危机反应",
+   "en": "crisis reaction",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "个人处于需要超过寻常的能力才能应对的处境时作出的反应。"
+  },
+  {
+   "cn": "社会危机",
+   "en": "social crisis",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会因出现严重问题而处于某种既有危险又蕴含机会的时刻或状态，通常也是一种社会转变的紧要关头。系社会中多种重大隐患长期积累而得不到解决的结果，或是社会系统长期失衡失调失序的产物。具有一定的隐蔽性、突然性"
+  },
+  {
+   "cn": "合法性危机",
+   "en": "legitimation crisis",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.8",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "晚期资本主义文化范式无法充分阐述和容纳政治行动的意义而面临的一种价值危机。这种危机不具有根本的颠覆性质，可以经由制度改良而获得解决。德国学者尤尔根•哈贝马斯率先提出的概念。"
+  },
+  {
+   "cn": "福利危机",
+   "en": "welfare crisis",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "20世纪70年代中期，经济的全球化、财政危机、失业人口增长以及老龄化加剧等因素造成西方福利国家内部政治、经济、社会福利之间的失衡现象，高额的社会支出和财政赤字迫使很多福利国家开始福利改革。"
+  },
+  {
+   "cn": "经济危机",
+   "en": "economic crisis",
+   "source": "马克思主义",
+   "wordNumber": "02.0289",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义生产相对过剩而引起的再生产规模缩小，是资本主义在生产过程中周期性爆发的生产过剩的危机。其形成的根源是资本主义基本矛盾。一切现实的危机的最后原因，总是群众的贫穷和他们的消费受到限制。"
+  },
+  {
+   "cn": "工业危机",
+   "en": "industrial crisis",
+   "source": "马克思主义",
+   "wordNumber": "02.0291",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义工业部门所发生的生产过剩的危机。由于工业在资本主义国民经济中位置的重要性，工业危机对社会经济的影响最大。"
+  },
+  {
+   "cn": "信用危机",
+   "en": "credit crisis",
+   "source": "马克思主义",
+   "wordNumber": "02.0292",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义货币流通领域和信用领域中出现的剧烈动荡和混乱。主要表现为商业信用、银行信用遭到破坏，只有现金支付才有效，商业票据难以兑换为货币，导致现金奇缺，银根吃紧。"
+  },
+  {
+   "cn": "金融危机",
+   "en": "financial crisis",
+   "source": "马克思主义",
+   "wordNumber": "02.0293",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "首先爆发于金融领域并从金融领域蔓延到经济领域的经济类危机，除了白银和黄金，一切都贬值。根源为资本主义基本矛盾。"
+  },
+  {
+   "cn": "革命危机",
+   "en": "revolutionary crisis",
+   "source": "马克思主义",
+   "wordNumber": "03.0028",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本主义危机中产生的无产阶级革命的条件和机会。资本主义生产方式在不断地制造自身的掘墓人无产阶级，也在不断的经济危机中制造革命危机。当经济危机中私人信用已经瘫痪，流通已经不畅，生产已经停滞时，无产阶级"
+  },
+  {
+   "cn": "农业危机",
+   "en": "agricultural crisis",
+   "source": "马克思主义",
+   "wordNumber": "03.0128",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "发生于资本主义国家的农业生产过剩的危机，主要表现为农产品供过于求，大量积压，价格不断下跌，农业工人大量失业，中小农场主纷纷破产，播种面积随之缩小等方面。农业危机是资本主义经济危机的一种表现。产生农业危"
+  },
+  {
+   "cn": "社会危机",
+   "en": "social crisis",
+   "source": "马克思主义",
+   "wordNumber": "03.0166",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于某项自然或社会问题的突然出现，从而造成社会秩序崩溃、社会控制无力，社会的安全运行和健康发展难以为继的状况。如资本主义社会，私有制所造成的根本矛盾决定其社会危机只能周期性地、越来越严重、越来越全面地"
+  },
+  {
+   "cn": "柏林危机",
+   "en": "Berlin crisis",
+   "source": "马克思主义",
+   "wordNumber": "05.0212",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "柏林危机共有三次，第一次发生于1948年，又称“柏林封锁（Berlin Blockade）”，是冷战开始后占据东柏林的苏联与占据西柏林的美、英、法之间最早发生的危机。其导火线为1948年6月24日苏联"
+  },
+  {
+   "cn": "信任危机",
+   "en": "trust crisis",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.056",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "社会或群体的道德准则和规范不被人们所遵守，人与人之间缺乏道德约束，彼此无法相信对方的真诚和忠诚，不敢期待对方行为确定性的现象。反映社会人际关系产生了大量虚伪和不诚实，人与人的关系发生了严重危机。"
+  },
+  {
+   "cn": "危机介入模式",
+   "en": "crisis-intervention model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "对处于生活危机状态中的人施以短期治疗的方法和工作模式，是心理-社会学派社会个案工作的主要方法之一。最早由林德曼(H.Lindeman）和卡普兰(G.Caplan）在20世纪40、50年代提出。强调干预"
+  },
+  {
+   "cn": "资本主义经济危机",
+   "en": "capitalist economic crisis",
+   "source": "马克思主义",
+   "wordNumber": "03.0243",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义经济发展到大机器工业阶段以后周期性地爆发的社会经济大混乱。经济危机的一般表现是：生产过剩，商品流通停滞，大量商品滞销，生产强烈缩减，工场、商店、银行大批倒闭，失业人数剧增，整个社会经济陷于瘫痪"
+  },
+  {
+   "cn": "国际金融危机",
+   "en": "global financial crisis",
+   "source": "马克思主义",
+   "wordNumber": "04.0202",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一国所发生的金融危机通过各种渠道传递到其他国家从而引起国际范围内金融危机爆发的一种经济现象。"
+  },
+  {
+   "cn": "心理危机干预",
+   "en": "psychological crisis intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.1.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "在个体或群体面临心理危机时，通过专业的干预措施和技术，帮助其减轻痛苦、恢复心理平衡、并促进心理健康的过程。"
+  },
+  {
+   "cn": "人文表述危机",
+   "en": "crisis of expression",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0616",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪70 年代至90 年代，人类学家对传统民族志的书写方式和解释权威产生质疑和无所适从的现象。"
+  },
+  {
+   "cn": "复制后修复",
+   "en": "post-replication repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA复制结束后对DNA损伤进行的修复。这类修复通常发生在细胞周期的G1期或G2期，包括DNA链断裂修复、错配修复和切除修复等不同的修复方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
