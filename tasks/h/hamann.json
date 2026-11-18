@@ -2,7 +2,7 @@
   "slug": "hamann",
   "kind": "retranslate",
   "zh_doc": "h/hamann.md",
-  "state": "cleared",
+  "state": "s0_source_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,9 +10,25 @@
       "actor": "task_ops",
       "at": "2026-11-01T11:34:57Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:13Z",
+      "evidence": "跨机收编回炉（ADR-0075）：正文首次入库 641faf13a（2026-11-02，sha256 ab779243c5da…，365 汉字）；s0 门禁本次实跑"
+    },
+    {
+      "step": "block",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-18T17:25:13Z",
+      "evidence": "逐段对齐：EN 块 195/263 未配对（详情 specs/044 results）"
     }
   ],
-  "blockers": [],
+  "blockers": [
+    "逐段对齐：EN 块 195/263 未配对（详情 specs/044 results）"
+  ],
   "created_at": "2026-11-01T10:36:15Z",
   "version_pin": {
     "pubinfo_date": "Sep 23, 2026",

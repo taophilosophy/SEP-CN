@@ -1,2 +1,5 @@
 {"seq": 1, "at": "2026-10-31T22:10:03Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "2106f67576a59f7544e21953bf6c0dc43473c36c04dcb9e04affcfa1b6ade3af", "pubinfo_date": "Jul 12, 2016", "edition": "Fall 2022"}
 {"seq": 2, "at": "2026-10-31T22:10:03Z", "actor": "migrate", "type": "import", "synthetic": true, "basis": "state:cleared", "attempt": "main"}
+{"type": "import", "synthetic": true, "basis": "state", "state_at_import": "cleared", "attempt": "main", "at": "2026-11-18T17:25:48Z", "actor": "adopt-2026-11-19", "note": "adopt:2026-11-19:正文首次入库 61f03060a（2026-11-12 ！），sha256 cda54d56532cad3d，12113 汉字；clear 早于正文，无过程记录（specs/052，ADR-0075）", "seq": 3}
+{"type": "pass", "node": "s0", "gate": [], "at": "2026-11-18T17:25:49Z", "actor": "adopt-2026-11-19", "attempt": "main", "seq": 4}
+{"type": "pass", "node": "draft", "gate": [], "at": "2026-11-18T17:25:49Z", "actor": "adopt-2026-11-19", "attempt": "main", "seq": 5}

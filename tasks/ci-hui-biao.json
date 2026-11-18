@@ -1,7 +1,7 @@
 {
   "slug": "ci-hui-biao",
   "kind": "glossary-maintenance",
-  "zh_doc": "qian-yan/ci-hui-biao.md",
+  "zh_doc": "shu-yu-biao.md",
   "state": "done",
   "steps": [
     {
@@ -52,6 +52,13 @@
       "actor": "zcode-词汇表并网",
       "at": "2026-11-13T00:00:00+08:00",
       "evidence": "ADR-0036 并网收官：发布表 1384 键行分流两登记册（两册均无 410 行逐行审阅：术语/书名 229、人名 27、归并 7、废弃 149；精确同键 975 行校对废弃）；登记册改名 shu-yu-biao.md；check_terms 两表化；词汇表文件删除。决策账 specs/008/results/bing-wang-2026-11-13.json；执行记录 execution-log/ci-hui-bing-wang-shou-guan.md"
+    },
+    {
+      "step": "zh-doc-repoint",
+      "status": "ok",
+      "actor": "reconcile-2026-11-19",
+      "at": "2026-11-18T17:27:01Z",
+      "evidence": "原指 qian-yan/ci-hui-biao.md 已于 5b8ab13b7（2026-11-13）并入 shu-yu-biao.md（ADR-0036 并网原发布词汇表），指针随并网更新；specs/052 §2"
     }
   ],
   "todo": [

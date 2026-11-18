@@ -2,7 +2,7 @@
   "slug": "dynamic-semantics",
   "kind": "retranslate",
   "zh_doc": "d/dynamic-semantics.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-12T07:43:04Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:49Z",
+      "evidence": "跨机收编回炉（ADR-0075）：正文首次入库 61f03060a（2026-11-12，sha256 cda54d56532c…，12113 汉字）；s0 门禁本次实跑"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:49Z",
+      "evidence": "回炉起点：正文在库 12113 汉字（来源 61f03060a），自 s1 起重走；状态不再声称已清空"
     }
   ],
   "blockers": [],

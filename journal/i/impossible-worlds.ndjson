@@ -1,2 +1,5 @@
 {"seq": 1, "at": "2026-11-01T10:29:34Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "04c9311eef5139291b61ffa3fd7872ea2002911638ed03a924863c9915c0a33a", "pubinfo_date": "Apr 27, 2023", "edition": "Summer 2023"}
 {"seq": 2, "at": "2026-11-01T10:29:34Z", "actor": "migrate", "type": "import", "synthetic": true, "basis": "state:cleared", "attempt": "main"}
+{"type": "import", "synthetic": true, "basis": "state", "state_at_import": "cleared", "attempt": "main", "at": "2026-11-18T17:25:41Z", "actor": "adopt-2026-11-19", "note": "adopt:2026-11-19:正文首次入库 641faf13a（2026-11-02 在途快照：A–K 批 48 词条翻译中间态入库（cleared/drafted/s1，正文未完尾节未拼）；i 批 monitor 与 check_style 拉丁斜体短语遮蔽、脚注定义豁免改进），sha256 e5554c2baa5fc19b，22204 汉字；clear 早于正文，无过程记录（specs/052，ADR-0075）", "seq": 3}
+{"type": "pass", "node": "s0", "gate": [], "at": "2026-11-18T17:25:42Z", "actor": "adopt-2026-11-19", "attempt": "main", "seq": 4}
+{"type": "pass", "node": "draft", "gate": [], "at": "2026-11-18T17:25:42Z", "actor": "adopt-2026-11-19", "attempt": "main", "seq": 5}

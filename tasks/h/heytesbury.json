@@ -2,7 +2,7 @@
   "slug": "heytesbury",
   "kind": "retranslate",
   "zh_doc": "h/heytesbury.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:04:18Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:52Z",
+      "evidence": "跨机收编回炉（ADR-0075）：正文首次入库 641faf13a（2026-11-02，sha256 d38c20cdef02…，3429 汉字）；s0 门禁本次实跑"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:52Z",
+      "evidence": "回炉起点：正文在库 3429 汉字（来源 641faf13a），自 s1 起重走；状态不再声称已清空"
     }
   ],
   "blockers": [],

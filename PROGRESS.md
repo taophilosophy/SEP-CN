@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md（结构）、baseline/entries.json（基线）、journal/（进度事实）、tasks/（仅调度侧阻塞）。 -->
 
-生成时间：2026-11-18 16:43（UTC）
+生成时间：2026-11-18 17:43（UTC）
 
 ## 总览
 
@@ -19,15 +19,18 @@
 |其中：骨架且在账内（有任务未开工）|765|
 |其中：骨架且在账外（无任务）|675|
 |全库有正文（已译出内容）|432|
-|**账实不符（cleared 有正文／有正文零过程记录）**|**19**|
+|**账实不符（cleared 有正文／有正文零过程记录）**|**0**|
 |核心段完成（draft..R3 七节点）|394|
-|强制集完成（s0/s2.4/global/R1/R2/R3）|0|
+|强制集完成（s0/s2.4/global/R1/R2/R3）|394|
+|其中：依赖回补重算（specs/052）|394|
 |完整饱和（16 节点全过）|0|
-|在途（已开工未走完核心段）|37|
-|未开工（journal 内无 pass 事件）|766|
-|阻塞（调度侧，journal 未迁移）|0|
+|在途（已开工未走完核心段）|55|
+|未开工（journal 内无 pass 事件）|748|
+|阻塞（调度侧，journal 未迁移）|2|
 
 > **分母口径**：完成／强制集／饱和／在途／未开工五项的分母是 **journal 词条 1197 件**，不是全库正式词条 1872 件。差额 675 件无 journal 记录（全部为仅标题骨架，`rules/01` 约定未翻译条目为仅含 H1 的骨架）；骨架合计 1440 件（账内 765 ＋ 账外 675），这些页已随 SUMMARY 上站但对读者为空。要把账外件计入进度，须先建任务（`task_ops.py create`）。
+
+> **强制集口径**：强制集完成 394 件中，394 件的 s0/s2.4/global 是 2026-11-19 按现行判据重算所得（`specs/052` 回补批次，journal 事件 note 以 `backfill:` 标记，状态不迁移）。回补证明"内容过现行判据"，不证明"该件已完成 s2.5 人审"——读强制集完成数时须连同此行一起读。
 
 ## 节点通过数（journal 口径，共 16 节点）
 
@@ -43,12 +46,12 @@
 |R2|402|
 |R3|400|
 |S3|431|
-|draft|425|
-|global|1|
-|s0|20|
+|draft|441|
+|global|395|
+|s0|418|
 |s1|431|
 |s2|431|
-|s2.4|1|
+|s2.4|395|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 核心段完成）
 
@@ -85,11 +88,12 @@
 
 |slug|已过节点数|已过节点|
 |---|---|---|
-|abelard|6|R1 R2 R3 S3 s1 s2|
-|abhidharma|6|R1 R2 R3 S3 s1 s2|
-|abner-burgos|7|R1 R2 R3 S3 s0 s1 s2|
-|abortion|6|R1 R2 R3 S3 s1 s2|
-|advance-directives|7|R1 R2 R3 S3 s0 s1 s2|
+|abelard|9|R1 R2 R3 S3 global s0 s1 s2 s2.4|
+|abhidharma|9|R1 R2 R3 S3 global s0 s1 s2 s2.4|
+|abner-burgos|9|R1 R2 R3 S3 global s0 s1 s2 s2.4|
+|abortion|9|R1 R2 R3 S3 global s0 s1 s2 s2.4|
+|advance-directives|9|R1 R2 R3 S3 global s0 s1 s2 s2.4|
+|axiom-choice|2|draft s0|
 |bradley|5|R1 S3 draft s1 s2|
 |brentano|5|R1 S3 draft s1 s2|
 |brentano-judgement|4|S3 draft s1 s2|
@@ -103,10 +107,22 @@
 |conscience|4|S3 draft s1 s2|
 |cosmology-30s|4|S3 draft s1 s2|
 |cosmopolitanism|4|S3 draft s1 s2|
+|dance|2|draft s0|
+|dynamic-semantics|2|draft s0|
 |ehrenfels|4|S3 draft s1 s2|
 |fitness|4|S3 draft s1 s2|
+|grounding|2|draft s0|
+|habermas|2|draft s0|
+|haecceitism|1|s0|
+|halevi|2|draft s0|
+|hamann|1|s0|
+|heritability|2|draft s0|
+|heytesbury|2|draft s0|
+|hume-moral|2|draft s0|
 |iamblichus|4|S3 draft s1 s2|
-|identity-ethics|6|R1 R2 R3 S3 s1 s2|
+|identity-ethics|9|R1 R2 R3 S3 global s0 s1 s2 s2.4|
+|impossible-worlds|2|draft s0|
+|intrinsic-extrinsic|2|draft s0|
 |james-mill|4|S3 draft s1 s2|
 |kant-development|4|S3 draft s1 s2|
 |kant-judgment|4|S3 draft s1 s2|
@@ -116,9 +132,21 @@
 |knowledge-how|4|S3 draft s1 s2|
 |kukai|4|S3 draft s1 s2|
 |newton-stm|4|S3 draft s1 s2|
+|philanthropy|2|draft s0|
 |quantum-bayesian|5|R1 S3 draft s1 s2|
 |repugnant-conclusion|4|S3 draft s1 s2|
+|tarski-truth|2|draft s0|
 |telesio|5|R1 S3 draft s1 s2|
+|vaihinger|2|draft s0|
+|xunzi|2|draft s0|
+|yogacara|2|draft s0|
 |yorck|6|R1 S3 draft s0 s1 s2|
 |zhu-xi|9|R1 R2 S3 draft global s0 s1 s2 s2.4|
 |zombies|7|R1 R2 S3 draft s0 s1 s2|
+
+## 阻塞任务（调度侧，journal 未迁移 blockers）
+
+|slug|阻塞原因|
+|---|---|
+|haecceitism|逐段对齐：EN 块 199/249 未配对（详情 specs/044 results）|
+|hamann|逐段对齐：EN 块 195/263 未配对（详情 specs/044 results）|

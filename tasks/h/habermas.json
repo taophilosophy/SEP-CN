@@ -2,7 +2,7 @@
   "slug": "habermas",
   "kind": "retranslate",
   "zh_doc": "h/habermas.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-11T21:02:09Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:41Z",
+      "evidence": "跨机收编回炉（ADR-0075）：正文首次入库 e50c204d7（2026-11-12，sha256 c1386d809cfa…，37025 汉字）；s0 门禁本次实跑"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:41Z",
+      "evidence": "回炉起点：正文在库 37025 汉字（来源 e50c204d7），自 s1 起重走；状态不再声称已清空"
     }
   ],
   "blockers": [],

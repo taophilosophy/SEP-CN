@@ -2,7 +2,7 @@
   "slug": "tarski-truth",
   "kind": "retranslate",
   "zh_doc": "t/tarski-truth.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-08T13:35:13Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:52Z",
+      "evidence": "跨机收编回炉（ADR-0075）：正文首次入库 2c8a05ddf（2026-11-09，sha256 e0d7f5c9d193…，6803 汉字）；s0 门禁本次实跑"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:52Z",
+      "evidence": "回炉起点：正文在库 6803 汉字（来源 2c8a05ddf），自 s1 起重走；状态不再声称已清空"
     }
   ],
   "blockers": [],

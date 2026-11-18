@@ -2,7 +2,7 @@
   "slug": "heritability",
   "kind": "retranslate",
   "zh_doc": "h/heritability.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-01T12:47:59Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:46Z",
+      "evidence": "跨机收编回炉（ADR-0075）：正文首次入库 ca4853c2c（2026-11-13，sha256 1938cd17d9b6…，12574 汉字）；s0 门禁本次实跑"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:46Z",
+      "evidence": "回炉起点：正文在库 12574 汉字（来源 ca4853c2c），自 s1 起重走；状态不再声称已清空"
     }
   ],
   "blockers": [],

@@ -2,7 +2,7 @@
   "slug": "haecceitism",
   "kind": "retranslate",
   "zh_doc": "h/haecceitism.md",
-  "state": "cleared",
+  "state": "s0_source_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,9 +10,25 @@
       "actor": "task_ops",
       "at": "2026-11-01T18:43:30Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "adopt-2026-11-19",
+      "at": "2026-11-18T17:25:12Z",
+      "evidence": "跨机收编回炉（ADR-0075）：正文首次入库 641faf13a（2026-11-02，sha256 2ba60ddf923b…，2898 汉字）；s0 门禁本次实跑"
+    },
+    {
+      "step": "block",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-18T17:25:12Z",
+      "evidence": "逐段对齐：EN 块 199/249 未配对（详情 specs/044 results）"
     }
   ],
-  "blockers": [],
+  "blockers": [
+    "逐段对齐：EN 块 199/249 未配对（详情 specs/044 results）"
+  ],
   "created_at": "2026-11-01T10:33:24Z",
   "version_pin": {
     "pubinfo_date": "Dec 31, 2022",
