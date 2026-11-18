@@ -1,0 +1,812 @@
+{
+ "key": "data protection",
+ "term": "data protection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:16:11+00:00",
+ "status": "ok",
+ "note": "variant=data protection; 审定公布名词库=3949; 海峡两岸名词对照库=1412; 其他来源数据库=1140; 预公布名词数据库=272; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "数据保护",
+   "en": "data protection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0014",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "实施适当的行政、技术或物理手段，防止对数据未授权的修改或有意、无意的泄露和破坏。"
+  },
+  {
+   "cn": "数据完整性保护",
+   "en": "data integrity protection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1387",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "为保证数据的精确性以及与期望值的一致性所采取的措施（如防止数据被偶然或蓄意更改等）。"
+  },
+  {
+   "cn": "连续数据保护",
+   "en": "continuous data protection,CDP",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0555",
+   "subjectFullName": "计算机科学技术_计算机体系结构_存储系统",
+   "subjectName": "存储系统",
+   "publishYear": "2018",
+   "definition": "一种连续的捕捉或跟踪数据变更的数据备份技术。允许数据恢复到过去任意时间点。"
+  },
+  {
+   "cn": "保护",
+   "en": "protection",
+   "source": "电力名词",
+   "wordNumber": "12.104",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "热力生产过程中出现异常情况或事故时,根据事故的性质和程度,按照预定的处理程序自动地对相关设备进行操作,以消除异常,防止事故扩大,保证人身和设备安全。"
+  },
+  {
+   "cn": "防护",
+   "en": "protection",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.1503",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "1+1保护",
+   "en": "1+1 protection",
+   "source": "光学名词",
+   "wordNumber": "22.168",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "为一个业务工作的系统或者信道都热备用了另一套系统或者信道的一种业务保护方式。"
+  },
+  {
+   "cn": "1+1保护",
+   "en": "1+1 protection",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.057",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "为保证网络可靠性，对关键的节点设备和传输设备采用一对一冗余配置的一种方法，即一个工作的设备配一个备用设备的方案。"
+  },
+  {
+   "cn": "气体保护",
+   "en": "gas protection,Buchholz protection",
+   "source": "电力名词",
+   "wordNumber": "05.162",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "根据被保护区域中的气体变化情况作为判断依据的一种保护。"
+  },
+  {
+   "cn": "电化学保护",
+   "en": "electrochemical protection,electrolytic protection",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0354",
+   "subjectFullName": "海洋科学技术_海洋技术_海水资源开发技术",
+   "subjectName": "海水资源开发技术",
+   "publishYear": "2007",
+   "definition": "根据电化学原理，防止金属遭受电化学腐蚀的方法。可分为阳极保护和阴极保护两种。"
+  },
+  {
+   "cn": "保护[性]接地",
+   "en": "protective grounding,protective earthing",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.301",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "保护区",
+   "en": "protected section,protected zone",
+   "source": "电力名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "电力系统(或网络)中应用规定保护的那部分区域。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.072",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "客观事物的符号表示。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2622",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "能够以各种形式表现与存储，适合于人类或自动装置解读和处理的各种事实、数字、字符等各种符号的集合。 "
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.016",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "数字、字母与符号的集合。系客观事物与主观思维的具体表达，不限于数值。现常指可由计算机处理的信息单元。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "物理学名词",
+   "wordNumber": "01.0192",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0001",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "客观事物的符号表示。在计算机科学中，指所有能输入到计算机中并被计算机程序处理的符号的总称。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0095",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "描述事件或事物的属性、过程及其关系的符号序列。比如自然语言符号、科学符号、数字以及图形图像等。数据具有形式和内容两个方面。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.479",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "对某一目标或现象进行定性或定量描述的数字、文字、符号、图形、图像等。"
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0826",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "数据标识数据",
+   "en": "data identification data",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.118",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "数据帧中标识数据帧信息和序号的数据。"
+  },
+  {
+   "cn": "数据保护",
+   "en": "data protection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数据保护",
+   "en": "data protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整性保护",
+   "en": "data integrity protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据媒体保护装置",
+   "en": "data medium protection device",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "protection",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "存储保护",
+   "en": "memory protection\",\"storage protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "[为保护本国工业而对进口货物征收的]保护性关税",
+   "en": "protective tariff (=protective duty)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资料",
+   "en": "data",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数据",
+   "en": "data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交叉保护作用",
+   "en": "cross protection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "辐射防护",
+   "en": "radiation protection",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环境保护",
+   "en": "environmental protection",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "防火",
+   "en": "fire protection",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "镀锌保护",
+   "en": "galvanic protection",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "镀层保护",
+   "en": "deposit protection",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "数据保护官",
+   "en": "data protection officer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据主权保护",
+   "en": "Data Sovereignty Protection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权保护",
+   "en": "Data Rights Protection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数据保护法》（英国）",
+   "en": "Data Protection Act (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数据保护倡议书》（中国）",
+   "en": "Data Protection Pact (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法国数据保护局",
+   "en": "Data Protection Authority (France)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德国数据保护局",
+   "en": "Data Protection Authority (Germany)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "爱尔兰数据保护委员会",
+   "en": "Data Protection Commission (Ireland)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "西班牙数据保护局",
+   "en": "Data Protection Agency (Spain)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权保护组织",
+   "en": "Data Rights Protection Organizations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奥地利数据保护局",
+   "en": "Austrian Data Protection Authority",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "希腊数据保护局",
+   "en": "Hellenic Data Protection Authority",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "荷兰数据保护局",
+   "en": "Data Protection Authority (the Netherlands)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《一般数据保护条例》（欧盟）",
+   "en": "General Data Protection Regulation (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环保大数据",
+   "en": "big data of environmental protection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《个人信息保护法》（新加坡）",
+   "en": "Personal Data Protection Act (Singapore)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《个人数据保护法典》（意大利）",
+   "en": "Personal Data Protection Code (Italy)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《联邦数据保护法》（德国）",
+   "en": "Federal Data Protection Act (Germany)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保护公民数据隐私",
+   "en": "protection of citizens’ data privacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧盟数据保护委员会",
+   "en": "European Data Protection Board (EDPB)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防护",
+   "en": "protection",
+   "source": "消毒学",
+   "wordNumber": "1.7",
+   "subjectFullName": "消毒学_消毒学",
+   "subjectName": "消毒学",
+   "publishYear": "2025",
+   "definition": "为使人员、动物、物品等免受或减少外界因素的伤害所采取的措施。"
+  },
+  {
+   "cn": "放射防护",
+   "en": "radiation protection，radiological protection",
+   "source": "放射卫生学",
+   "wordNumber": "1.15",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "研究人类和环境免受或少受电离辐射危害的一门综合性学科，目的是保护人类和环境的健康与安全。"
+  },
+  {
+   "cn": "噪声防护",
+   "en": "noise protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.3.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "通过消除、控制噪声源，控制噪声传播，采取个人防护等手段以减少噪声污染，保护和改善作业环境，保障作业人员健康的措施和过程。"
+  },
+  {
+   "cn": "免疫防护",
+   "en": "immunological protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.6.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器伤害医学防护",
+   "subjectName": "生物武器伤害医学防护",
+   "publishYear": "2025",
+   "definition": "通过正常免疫应答，机体免疫系统阻止和清除入侵病原体及其毒素的功能。"
+  },
+  {
+   "cn": "个人防护",
+   "en": "personal protection",
+   "source": "消毒学",
+   "wordNumber": "1.7.1",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "用来防御物理、化学、生物等有害因素可能对人体造成伤害的措施。"
+  },
+  {
+   "cn": "一级防护",
+   "en": "primary protection",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.1",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "在医疗卫生活动中，为避免相关人员感染而采取的一般等级的防护措施，包括穿戴工作服、工作帽、手套、口罩等。"
+  },
+  {
+   "cn": "职业防护",
+   "en": "occupational protection",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.4.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "以个体为主要对象，为避免在职业活动中身体的某些部位受到职业危险因素的损害而采取的隔离、屏蔽、安全距离、个人防护、通风等的防护措施。"
+  },
+  {
+   "cn": "防护行动",
+   "en": "protection action",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.6",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "为避免和减少在应急照射情况或现存照射情况下可能接受的剂量而采取的行动。"
+  },
+  {
+   "cn": "实体防护",
+   "en": "physical protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.7.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_设施防护安全",
+   "subjectName": "设施防护安全",
+   "publishYear": "2025",
+   "definition": "保护核材料或授权设施的措施，旨在防止未经授权获取或移除裂变材料或破坏保障措施。"
+  },
+  {
+   "cn": "时间防护",
+   "en": "time protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "缩短接触电离辐射的时间以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "距离防护",
+   "en": "distance protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "采取尽可能远离辐射源或散射体的方法以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "屏蔽防护",
+   "en": "shielding protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.3",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "在人体与辐射源之间设置能够降低剂量率的实体屏障，以减少人员接受剂量水平的防护措施。"
+  },
+  {
+   "cn": "社会保护",
+   "en": "social protection",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "为避免或减弱社会经济变迁对社会成员生活质量的影响，政府或其他组织制定的一系列保护性政策和措施。包括预防性和治疗性社会保护，基本生活的保障和基本权利的维护等。"
+  },
+  {
+   "cn": "个人防护",
+   "en": "personal protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.4.1",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射防护",
+   "subjectName": "核辐射防护",
+   "publishYear": "2025",
+   "definition": "个人为避免或减轻核武器的伤害所采取的防护措施。主要有及时正确用防护器材，借地形地物做正确防护动作，服用预防药，避免或缩短与放射性灰尘接触，严格遵守沾染区行动规定。"
+  },
+  {
+   "cn": "激光防护",
+   "en": "laser protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.7.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "通过多种综合手段减少作业环境、作业过程中激光辐射，以保护和改善作业环境，保障作业人员健康的措施和方法。包括激光器、工作环境和个体防护三个方面。"
+  },
+  {
+   "cn": "振动防护",
+   "en": "vibration protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.4.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "通过控制振动源及振动传播，加强个人防护等手段以减少振动危害，保护和改善作业环境，保障作业人员健康的措施和方法。"
+  },
+  {
+   "cn": "医学防护",
+   "en": "medical protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.3.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器防护",
+   "subjectName": "新概念武器防护",
+   "publishYear": "2025",
+   "definition": "研究新概念武器的各种杀伤因素对人体损伤的机制，对伤员进行预防和救治。"
+  },
+  {
+   "cn": "集体防护",
+   "en": "collective protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.4.4",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射防护",
+   "subjectName": "核辐射防护",
+   "publishYear": "2025",
+   "definition": "集体为避免或减轻核武器的伤害而采取的措施。主要是在工事、帐篷、车辆、飞机和舰船中安装密闭、滤毒通风、洗消和报警等设施来进行防护。分为隔离式防护和过滤式防护。"
+  },
+  {
+   "cn": "食品保护",
+   "en": "food protection",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.4",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品安全（防范食品固有问题）和食品防护（防范人为破坏问题）的总称。以预防、干预、反应三大核心要素，贯穿应用于食品全生命周期，锁定高风险并同时关注蓄意和非蓄意污染, 最大限度降低食品安全风险的全新策略。"
+  },
+  {
+   "cn": "语言保护",
+   "en": "language protection",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0176",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "对趋于濒危的弱势语言的抢救与保护。目的是可以保护以语言为载体的文化多样性，保护少数民族使用母语的权利，和处理解决因语言问题引发的社会问题等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

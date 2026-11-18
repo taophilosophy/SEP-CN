@@ -1,0 +1,762 @@
+{
+ "key": "boundary conditions",
+ "term": "boundary conditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:22:03+00:00",
+ "status": "ok",
+ "note": "variant=boundary conditions; 审定公布名词库=1402; 海峡两岸名词对照库=419; 其他来源数据库=35; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "地质学名词",
+   "wordNumber": "16.05.114",
+   "subjectFullName": "地质学_水文地质学_水文地质调查",
+   "subjectName": "水文地质调查",
+   "publishYear": "2026",
+   "definition": "渗流区内未知函数在边界上所满足的条件。"
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.181",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "在求解域的边界上所求解的变量或其一阶导数随地点及时间变化的规律。"
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0564",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "方程组的解在边界上应当满足的条件。 "
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "冶金学名词",
+   "wordNumber": "04.0778",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "求得微分方程的定解所需要的表面或交界面处的特性条件。"
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0156",
+   "subjectFullName": "化工（三）_化学反应工程",
+   "subjectName": "化学反应工程",
+   "publishYear": "2019",
+   "definition": "指在运动边界上方程组的解应该满足的条件。"
+  },
+  {
+   "cn": "边[界]条件",
+   "en": "boundary condition",
+   "source": "物理学名词",
+   "wordNumber": "03.0168",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0824",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料设计、模拟与计算",
+   "subjectName": "材料设计、模拟与计算",
+   "publishYear": "2011",
+   "definition": "模型中控制研究对象之间平面、表面或交界面处特性的条件，由此确定跨越不连续边界处场的性质。"
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.102",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "化学工程名词",
+   "wordNumber": "07.043",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "石油名词",
+   "wordNumber": "03.0785",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "进口边界条件",
+   "en": "inlet boundary condition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "在指定位置（几何进口边界）上给定流动参数的情况。如在进口位置上流体的速度、温度等边界条件。"
+  },
+  {
+   "cn": "出口边界条件",
+   "en": "outlet boundary condition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.183",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "在指定位置（几何出口边界）上给定流动参数的情况。如在出口位置上流体的压力、温度等边界条件。"
+  },
+  {
+   "cn": "壁面边界条件",
+   "en": "wall boundary condition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "流动问题中壁面处的边界条件。该边界条件中，除压力修正方程外，各离散方程的源项均需做特殊处理。"
+  },
+  {
+   "cn": "对称边界条件",
+   "en": "symmetry boundary condition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.187",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "所求解的问题在物理上存在对称性的边界条件。"
+  },
+  {
+   "cn": "周期性边界条件",
+   "en": "periodic boundary condition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.188",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "在子域的起始边界和终止边界上流动完全相同的边界条件。"
+  },
+  {
+   "cn": "齐次边界条件",
+   "en": "homogeneous boundary condition",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0565",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "物理量本身或其空间导数在边界上的值为零的条件。 "
+  },
+  {
+   "cn": "周期边界条件",
+   "en": "periodic boundary condition",
+   "source": "物理学名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模型边界条件",
+   "en": "model boundary condition",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0042",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "求解未知函数时，微分方程组在边界上应该满足的定解条件。"
+  },
+  {
+   "cn": "周期性边界条件",
+   "en": "periodic boundary condition",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0825",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料设计、模拟与计算",
+   "subjectName": "材料设计、模拟与计算",
+   "publishYear": "2011",
+   "definition": "为了减小有限尺寸效应，在模型中引入等周期扩展的边界条件。"
+  },
+  {
+   "cn": "海绵边界条件",
+   "en": "spongy boundary condition",
+   "source": "大气科学名词",
+   "wordNumber": "05.495",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "有一定宽度的缓冲带，以减小侧边界对大气中波动的反射作用而假定的边界条件。"
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary conditions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "埃克曼边[界]条件",
+   "en": "Ekman boundary conditions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "侧边界条件",
+   "en": "lateral boundary condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地面边界条件",
+   "en": "surface boundary condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动力边界条件",
+   "en": "dynamic boundary condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "刚体边界条件",
+   "en": "rigid boundary condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海绵边界条件",
+   "en": "spongy boundary condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "运动学边界条件",
+   "en": "kinematic boundary condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "周期性边界条件",
+   "en": "periodic boundary condition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "表面边界条件",
+   "en": "surface boundary condition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "辐射边界条件",
+   "en": "radiating boundary condition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "刚性边界条件",
+   "en": "rigid boundary condition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "固体边界条件",
+   "en": "solid boundary condition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "开边界条件",
+   "en": "open boundary condition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无通量边界条件",
+   "en": "no-flux boundary condition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "边界，界限",
+   "en": "boundary",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "界限",
+   "en": "boundary",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "密码边界",
+   "en": "cryptographic boundary",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "限制线",
+   "en": "boundary line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界线旗",
+   "en": "boundary flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界线旗",
+   "en": "boundary flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line\",\"line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据开放边界",
+   "en": "data open boundary",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "过线",
+   "en": "cross the boundaries",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line\",\"field line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "端线",
+   "en": "back boundary line\",\"baseline",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line\",\"demarcation line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过限制线",
+   "en": "cross the boundary line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文化边界",
+   "en": "cultural boundary",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "不同文化区或者文化系统之间的相互接触的边缘地带，其中往往混杂多种形态的文化要素，互相渗透，但又在一定范围内保持各自固有的本质特征。"
+  },
+  {
+   "cn": "组织边界",
+   "en": "organizational boundary",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "划定组织活动范围并把组织同环境区别开来的尺度， 依据组织所担负的特定社会职能、目标、任务以及规章制度，在组织同环境的相互作用中形成。界定依据通常有三种——成员资格、互动网络、活动特性，组织边界的状况，"
+  },
+  {
+   "cn": "网络边界",
+   "en": "network boundary",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "研究者基于分析的方便对社会网络的范围做出的人为限定。有些社会网络本身具有明显的边界，比如与世隔绝的村落中的人际关系网；然而绝大部分现实生活中的社会网络不具有明确边界，研究者一般根据关系类型、交往内容、"
+  },
+  {
+   "cn": "族群边界",
+   "en": "ethnic boundaries",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0423",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "挪威人类学家巴斯（F. Barth）提出的理论。巴斯认为，族群是由其本身组成成员认定的范畴，造成族群最主要的是边界，而不是语言、文化血缘等内涵；一个族群的边界不一定是地理的边界，而主要是“社会边界”。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "工作日的界限",
+   "en": "boundary of working day",
+   "source": "马克思主义",
+   "wordNumber": "02.0121",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工作日的最低界限不能缩短到劳动时间，否则工人便不可能创造剩余价值。工作日的最高界限取决于：（1）劳动力的身体界限。劳动者必须用一部分时间去满足他的生理需要，否则就不能实现劳动力的再生产。（2）道德的界"
+  },
+  {
+   "cn": "兴边富民行动",
+   "en": "Activity of Boundary and NationalProsperity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0087",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "由国家民委联合国家发改委、财政部等部门倡议发起，旨在加大对边境民族地区的投入，重点解决基础设施落后、群众生产生活方面特殊困难的、以实现富民、兴边、强国、睦邻为目标的专项行动。1999 年中央民族工作会"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "集中空调通风系统",
+   "en": "central air conditioning ventilation system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为使房间或封闭空间空气温度、湿度、洁净度和气流速度等参数达到设定要求，而对空气进行集中处理、输送、分配的所有设备、管道及附件、仪器仪表所组成的系统。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,732 @@
+{
+ "key": "folk morality",
+ "term": "folk morality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:08:27+00:00",
+ "status": "ok",
+ "note": "variant=folk morality; 审定公布名词库=888; 海峡两岸名词对照库=336; 其他来源数据库=36; 预公布名词数据库=173; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "经济学名词",
+   "wordNumber": "05.043",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人们在社会生活实践中形成的关于善恶、是非的观念、情感和行为习惯，并依靠社会舆论和良心指导的人格完善与调节人与人、人与社会、人与自然关系的规范体系。道德是由经济关系最终决定、按照善恶标准来评价并依靠社会"
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "心理学名词",
+   "wordNumber": "12.053",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "成员在追求共同组织目标时表现出来的一致性和持续性。"
+  },
+  {
+   "cn": "民间文艺",
+   "en": "folk art",
+   "source": "风景园林名词",
+   "wordNumber": "04.0200",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "劳动者为满足自己的生活和审美需求而创造的文化和艺术，包括工艺美术、音乐、舞蹈和戏曲等多种形式。"
+  },
+  {
+   "cn": "民族心理学",
+   "en": "folk psychology",
+   "source": "心理学名词",
+   "wordNumber": "04.091",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "冯特(W. Wundt)提出的心理学学派。认为实验心理学无法研究高级心理过程，只有通过对语言、神话、风俗等社会产物来进行研究。"
+  },
+  {
+   "cn": "民间玩具",
+   "en": "folk toy",
+   "source": "教育学名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "民间形成的、供儿童游戏玩耍所用的物品。"
+  },
+  {
+   "cn": "民俗词典",
+   "en": "folk dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.158",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。专门收录和解释民间通俗文化现象的词典，包括历史文化事件、文化习俗、风俗礼节和民族节日等。"
+  },
+  {
+   "cn": "俗词源",
+   "en": "folk etymon",
+   "source": "语言学名词",
+   "wordNumber": "05.119",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "根据语音的相似，不考虑语音和词义的历史发展和联系而臆测出来的词源。例如，“王八”，认为是源于“忘八”，即忘记了“孝、悌、忠、信、礼、义、廉、耻”这八项做人道理。"
+  },
+  {
+   "cn": "通俗释义",
+   "en": "folk definition",
+   "source": "语言学名词",
+   "wordNumber": "06.322",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "民众在日常语言交际中用通俗的语言对语词所作的解释。"
+  },
+  {
+   "cn": "民间节庆",
+   "en": "folk festival",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.190",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "民间举办的传统庆典、祭祀节日和有关专项活动。"
+  },
+  {
+   "cn": "民间演艺",
+   "en": "folk performance",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.191",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "民间艺术表演方式。"
+  },
+  {
+   "cn": "民间文化",
+   "en": "folk cultural",
+   "source": "地理学名词",
+   "wordNumber": "24.091",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "在社会基层的人类群体文化，这类文化的产生和流传不受上层社会机构的影响。"
+  },
+  {
+   "cn": "学术道德",
+   "en": "academic morality",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.009",
+   "subjectFullName": "自然辩证法_科技伦理_科学伦理",
+   "subjectName": "科学伦理",
+   "publishYear": "2024",
+   "definition": "从事学术活动的主体在进行学术研究、学术评价活动、学术奖励的整个过程及结果中，处理个人与他人、个人与社会等方面关系时所应遵循的道德规范和行为准则的总和。以在学术界约定俗成并得到学者普遍认同和共同遵守的道"
+  },
+  {
+   "cn": "医德",
+   "en": "medical morality",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.085",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "从事医学职业的医务人员在其职业活动中应该具备的道德素养和品质，是协调医务人员与患者、医务人员之间以及与社会之间关系的行为准则。"
+  },
+  {
+   "cn": "语言道德性",
+   "en": "linguistic morality",
+   "source": "行为医学名词",
+   "wordNumber": "9.062",
+   "subjectFullName": "行为医学_医患行为_医患沟通",
+   "subjectName": "医患沟通",
+   "publishYear": "2022",
+   "definition": "医患交流过程中，语言表达要符合社会和伦理学的道德准则与规范要求，遵守严肃、高尚和保密性原则。"
+  },
+  {
+   "cn": "性道德",
+   "en": "sex morality",
+   "source": "行为医学名词",
+   "wordNumber": "12.004",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "人类调整性行为及相关活动的社会规范的总和。"
+  },
+  {
+   "cn": "行政道德",
+   "en": "administrative morality",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0058",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "行政机关及其工作人员在行使公共权力、管理公共事务、提供公共服务的过程中所必须遵循的行为准则与规范。"
+  },
+  {
+   "cn": "他律道德",
+   "en": "heteronomous morality",
+   "source": "心理学名词",
+   "wordNumber": "06.090",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰提出的道德发展的第一阶段(5～10岁)。儿童认为道德规则是权威制定的，是外在的，祖传的，不可改变的。"
+  },
+  {
+   "cn": "自律道德",
+   "en": "autonomous morality",
+   "source": "心理学名词",
+   "wordNumber": "06.091",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰提出的道德发展的第二阶段(10岁以后)。儿童认识到道德规则是灵活的，社会约定的，必要时也可做出修改。"
+  },
+  {
+   "cn": "前习俗道德",
+   "en": "preconventional morality",
+   "source": "心理学名词",
+   "wordNumber": "06.092",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "科尔伯格(L. Kohlberg)提出的道德发展的第一种水平。儿童是基于对权威的服从或行为的奖励或惩罚结果做出道德判断。"
+  },
+  {
+   "cn": "习俗道德",
+   "en": "conventional morality",
+   "source": "心理学名词",
+   "wordNumber": "06.093",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "科尔伯格提出的道德发展第二种水平。儿童道德判断的标准是遵守社会规范以确保和睦的人际关系和社会秩序。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "民俗疗法",
+   "en": "folk healing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "民间音乐",
+   "en": "folk music",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "民歌",
+   "en": "folk song",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "民谣",
+   "en": "folk song",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "民族心理学",
+   "en": "folk psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "民间文化",
+   "en": "folk cultural",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自律道德",
+   "en": "autonomous morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "习俗道德",
+   "en": "conventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "前习俗道德",
+   "en": "preconventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "他律道德",
+   "en": "heteronomous morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "后习俗道德",
+   "en": "postconventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德推理",
+   "en": "moral reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德解离",
+   "en": "moral disengagement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德两难",
+   "en": "moral dilemma",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德焦虑",
+   "en": "moral anxiety",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德发展",
+   "en": "moral development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织士气",
+   "en": "organizational morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风教",
+   "en": "Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崇德",
+   "en": "Moral Elevation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "充实之谓美",
+   "en": "Moral Fulfillment Is Beauty Itself.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性之知",
+   "en": "Knowledge from One’s Moral Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性",
+   "en": "Virtuous Nature / Morals as Human Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以义制事",
+   "en": "Handle Matters According to Morality and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师出有名",
+   "en": "Fighting a War with a Moral Justification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "俗民",
+   "en": "folks",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0458",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由基于共同历史背景的一种共同传统及特有的心灵沟通感所连结起来的一个社会群体，其存在于全民之中，负载所有民俗文化，代表了绝大多数人民的文化特色。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "基于社会普遍认同的善恶标准，用来评价人们行为是否符合公序良俗，并指引和调整社会成员之间关系的准则与规范的总和。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "马克思主义",
+   "wordNumber": "01.0154",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种社会意识形态，以善恶为评价标准，依靠社会舆论和主体内在信念的力量来评价和调整人们之间相互关系的行为原则和规范的总和。道德是一个历史范畴，受社会生产方式制约。随生产方式的变化，形成不同的道德要求和道"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们共同生活、工作的行为准则和规范及其在人们内心形成的品德。它通过人们的自律和他律对社会生活起约束作用。"
+  },
+  {
+   "cn": "德性",
+   "en": "moral",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.111",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德品性。个人在长期的道德实践中表现出来的比较稳定的、一贯的行为特征和心理倾向。通过道德认识、道德情感、道德信念、道德意志和道德行为等因素表现出来。"
+  },
+  {
+   "cn": "民间器乐",
+   "en": "folk instrumental",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0392",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "用中国传统乐器演奏的民间传统音乐，包括独奏和合奏两种形式。独奏曲以乐器和演奏方式分为吹奏、拉弦、弹拨等类型。合奏曲以其乐器组合的方式分为清锣鼓乐、弦索乐、丝竹乐和吹打乐。民间器乐演奏与民间婚丧嫁娶、迎"
+  },
+  {
+   "cn": "大众分类法",
+   "en": "folk taxonomy",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以研究对象的分类方式为基础对信息进行分类的方法。"
+  },
+  {
+   "cn": "民俗宗教",
+   "en": "folk religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.6",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "一般在某一组织化宗教之影响范围内，但其观念、仪轨等往往不同于后者的神学观念和宗教仪式。在中国，这种宗教形式杂糅了原始的自然崇拜、神仙信仰等和儒、释、道等制度性宗教的因素。"
+  },
+  {
+   "cn": "民间信仰",
+   "en": "folk-belief",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.17",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "不具有明确的传人、严格的教义、严密的组织，同时又有内在体系和自身运作规则的一种信仰形态。具备日常生活和草根性的基本特征。"
+  },
+  {
+   "cn": "民间玩具",
+   "en": "folk toys",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0429",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "民间艺人或劳动人民利用就地取材方式加工而成的玩具，极具地方特色和乡土气息。品种繁多，主要有雕塑类、木竹类、编织类和智力类等。雕塑类玩具有泥玩具、陶玩具、面玩具等；木竹类玩具主要有风筝、空竹、风车、陀螺"
+  },
+  {
+   "cn": "民歌",
+   "en": "folk song",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0384",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "来源于民间，创作者和创作的年月一般是不确定的，并主要以口头创作、口头流传、不断再创作的方式生存于民间。它是表现民众生活和情感，反映创作者的价值观和趣味的民间艺术形式。"
+  },
+  {
+   "cn": "民间舞蹈",
+   "en": "folk dance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0396",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "产生和流传于民间、风格鲜明、为广大群众喜闻乐见的舞蹈，是人类创造舞蹈文化的最初形态，凝结着创造者的审美情趣、思想感情、理想愿望。民间舞蹈伴随民众的生产、生活、宗教信仰及各种习俗活动，逐步形成自娱、祭神"
+  },
+  {
+   "cn": "民间说唱",
+   "en": "folk rap",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0416",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以说说唱唱的形式来敷演故事或刻画人物形象的口头文学作品。通常以带有动作的说唱叙述故事情节，塑造人物形象。表演上以叙述为主，一人扮演多种角色。道具简单，形式多样，演员人数通常一至二三人。"
+  },
+  {
+   "cn": "民间医学",
+   "en": "folk medicine",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0329",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "流传于民间、未经教科书记载及传播，或未被经典理论解释、包容的群众性的自我医疗保健的方法；在古代被视为是“方技”的组成部分。"
+  },
+  {
+   "cn": "民间文学",
+   "en": "folk literature",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0332",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "民间创作、享用和传承的口头文艺作品的统称，包括散文的神话、民间传说、民间故事，韵文的歌谣、史诗、长篇叙事诗以及小戏、说唱文学、谚语、谜语等体裁的民间作品。"
+  },
+  {
+   "cn": "民间法",
+   "en": "folk law",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0131",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "独立于国家法，在长期共同的生活交往之中形成的，依据积累的事实和经验，依靠一定的社会权威确立的，实际调整人与人之间权利和义务关系的、规范人们日常行为的规范。"
+  },
+  {
+   "cn": "民间传说",
+   "en": "folk legend",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0338",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "关于特定的人、地、事、物的口头故事。根据其关联和解释的对象，可分为人物传说、地方传说、史事传说、动植物和某些自然现象的传说、关于各种风俗、土特产品、民间工艺等。"
+  },
+  {
+   "cn": "民间工艺",
+   "en": "folk crafts",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0328",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "泛指劳动人民为适应生活需要和审美要求，自己创作、生产并使用、欣赏的手工艺，主要有雕塑（如木雕、砖雕、彩塑、面塑、吹糖人）、印染（如蓝印花布、木版彩印、蜡染、刺绣（如香荷包、布老虎）、编织（竹编和草编器"
+  },
+  {
+   "cn": "民间笑话",
+   "en": "folk joke",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0367",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "民间流传的喜剧性短篇故事，它取材于生活片段，有篇幅短小、人物少、情节巧妙、尖锐泼辣等特点。笑话往往抓住现实生活中违反常规或不合逻辑的矛盾现象，用诙谐、夸张等表现手法达到幽默、嘲讽或揭露的效果。"
+  },
+  {
+   "cn": "民间语言",
+   "en": "folk language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0347",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "广大民众用来表达思想并承载着民间文化的口头习用语，其主要部分是民众集体传承的俗话套语；是各行各业的广大民众惯用的话语，它以其鲜明的生活化和质朴性的特点区别于上层社会的语言。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

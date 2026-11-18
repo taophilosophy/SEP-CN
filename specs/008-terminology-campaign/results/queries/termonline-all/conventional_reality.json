@@ -1,0 +1,732 @@
+{
+ "key": "conventional reality",
+ "term": "conventional reality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:50:38+00:00",
+ "status": "ok",
+ "note": "variant=conventional reality; 审定公布名词库=1472; 海峡两岸名词对照库=433; 其他来源数据库=75; 预公布名词数据库=117; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "习惯",
+   "en": "convention",
+   "source": "经济学名词",
+   "wordNumber": "05.020",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "私人规则的一种类型，是由于重复或练习而巩固下来的、自然的个人行为方式。习惯是依靠便利或惯性来维持的。"
+  },
+  {
+   "cn": "实在",
+   "en": "reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "实存的与可能存在的东西。古代唯物主义认为这种东西是水、无定限体、气、火、种子、原子。唯心主义认为这种东西是感觉、观念、精神实体、绝对理念的世界。"
+  },
+  {
+   "cn": "实在",
+   "en": "reality",
+   "source": "心理学名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "哲学中指客观存在的实体。现代心理学曾认为情绪、人格等均为实在，但受到后现代心理学的挑战。"
+  },
+  {
+   "cn": "常规能源",
+   "en": "conventional energy",
+   "source": "农学名词",
+   "wordNumber": "14.229",
+   "subjectFullName": "农业工程_农业生物质与农村能源",
+   "subjectName": "农业生物质与农村能源",
+   "publishYear": "2025",
+   "definition": "人类已大规模生产和广泛使用的能源。如煤炭、石油、天然气和电力等。"
+  },
+  {
+   "cn": "常规武器",
+   "en": "conventional weapon",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.368",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "以化学能及其转化的动能毁伤目标，附带伤害和附带破坏相对较小的武器。"
+  },
+  {
+   "cn": "常规观察",
+   "en": "conventional observation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.060",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "在一定理论或假说的指导下，按照预定的目的，有计划、有步骤地进行的观察。"
+  },
+  {
+   "cn": "常规实验",
+   "en": "conventional experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.087",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "按照既有流程，将一套实验规则或程序应用到实验对象上的方法。"
+  },
+  {
+   "cn": "普通环境",
+   "en": "conventional environment",
+   "source": "兽医学名词",
+   "wordNumber": "09.020",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "我国实验动物设施环境分类的一种。适用于饲养普通级实验动物。符合实验动物生活居住基本要求的动物生存环境，但不能杜绝外界空气。"
+  },
+  {
+   "cn": "普通动物",
+   "en": "conventional animal",
+   "source": "兽医学名词",
+   "wordNumber": "09.025",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "不能携带主要的人兽共患病及本动物烈性传染病的动物。我国按微生物控制程度进行实验动物等级分类中的一种。可以在普通环境中饲养。"
+  },
+  {
+   "cn": "白针疗法",
+   "en": "conventional acupuncture",
+   "source": "兽医学名词",
+   "wordNumber": "19.577",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "用圆利针、毫针或小宽针刺激血针穴位以外的穴位以治疗动物疾病的方法。"
+  },
+  {
+   "cn": "普通平带",
+   "en": "conventional belt",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0584",
+   "subjectFullName": "机械工程（一）_传动_带传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "以帆布为承载层的平带。"
+  },
+  {
+   "cn": "普通旋压",
+   "en": "conventional spinning",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.217",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_旋压",
+   "subjectName": "旋压",
+   "publishYear": "2021",
+   "definition": "一种主要改变坯料直径尺寸而成形器件的旋压方法。壁厚随着形状的改变一般有少量减薄，而且沿母线分布是不均匀的。包含扩径旋压和缩径旋压。"
+  },
+  {
+   "cn": "普通型螺杆",
+   "en": "conventional screw",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1995",
+   "subjectFullName": "化工（八）_化工设备_橡胶机械",
+   "subjectName": "橡胶机械",
+   "publishYear": "2021",
+   "definition": "胶料在螺槽中呈有规律的层流流动的螺杆。"
+  },
+  {
+   "cn": "惯用名",
+   "en": "conventional name",
+   "source": "测绘学名词",
+   "wordNumber": "04.205",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "已广泛使用的、约定俗成的地名。"
+  },
+  {
+   "cn": "普通型骨肉瘤",
+   "en": "conventional osteosarcoma",
+   "source": "病理学名词",
+   "wordNumber": "08.123",
+   "subjectFullName": "病理学_运动系统_骨及关节",
+   "subjectName": "骨及关节",
+   "publishYear": "2020",
+   "definition": "一种原发于骨内的高级别骨恶性肿瘤。肿瘤细胞产生骨样基质。即使只有很少量的骨样基质，也是诊断的重要依据。"
+  },
+  {
+   "cn": "协定税则",
+   "en": "conventional tariff",
+   "source": "经济学名词",
+   "wordNumber": "11.075",
+   "subjectFullName": "经济学_财政与税收经济学",
+   "subjectName": "财政与税收经济学",
+   "publishYear": "2020",
+   "definition": "属于非自主税则。一国与其他国家通过贸易谈判，以贸易条约或协定形式而制定的税则。一般情况下，协定税则的税率要低于自主税则税率。"
+  },
+  {
+   "cn": "常规污染物",
+   "en": "conventional pollutant",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.066",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "一些相对普通的物质，在各个地方都可以找到，并且被认为只有含量很高时才会带来危险。在制定环境标准时会利用这些污染物来制定一个可以接受的标准。"
+  },
+  {
+   "cn": "通用名称",
+   "en": "conventional name",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.523",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "个人、团体、地方或事物为人熟知的名称。不同于真名或正式场合使用的名称，可以是个人的笔名、绰号，机关团体的简称、缩写，地名的俗称等。在编目规范工作中，当个人著者或团体著者拥有多个名称时，款目应选取通常最"
+  },
+  {
+   "cn": "普通旋压",
+   "en": "conventional spinning",
+   "source": "冶金学名词",
+   "wordNumber": "09.0911",
+   "subjectFullName": "冶金学_金属加工_锻造、冲压及其他",
+   "subjectName": "锻造、冲压及其他",
+   "publishYear": "2019",
+   "definition": "一种主要改变坯料直径尺寸而成形器件的旋压方法。壁厚随着形状的改变一般有少量减薄，而且沿母线分布是不均匀的。包含扩径旋压和缩径旋压。"
+  },
+  {
+   "cn": "规定熵",
+   "en": "conventional entropy",
+   "source": "化学名词",
+   "wordNumber": "04.0090",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "以热力学第三定律为基准，利用量热数据计算所得到的物质在某给定状态的熵。"
+  },
+  {
+   "cn": "约定",
+   "en": "convention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现实",
+   "en": "reality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "常规观测",
+   "en": "conventional observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "常规雷达",
+   "en": "conventional radar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "习俗道德",
+   "en": "conventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "规定熵",
+   "en": "conventional entropy",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "通常竞争",
+   "en": "conventional competition",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "协定关税",
+   "en": "conventional duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "常规潜水",
+   "en": "conventional diving",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "惯用名",
+   "en": "conventional name",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "常规抗原",
+   "en": "conventional antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "惯用名",
+   "en": "conventional name",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "常规密码体制",
+   "en": "conventional cryptosystem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "普通货船",
+   "en": "conventional ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "常规潜艇",
+   "en": "conventional submarine",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "社会习俗",
+   "en": "social conventions",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "日内瓦公约",
+   "en": "Geneva Conventions",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "符号规定",
+   "en": "sign convention",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "波恩公约",
+   "en": "Bonn Convention",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "洛美协定",
+   "en": "Lome Convention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "Augmented Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安时处顺",
+   "en": "Face Reality Calmly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality (AR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合现实",
+   "en": "mixed reality (MR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚实交互",
+   "en": "virtual reality interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络空间国际反恐公约",
+   "en": "international convention against terrorism in cyberspace",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实智能建模技术",
+   "en": "intelligent modeling technology of virtual reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38247-2019 信息技术 增强现实 术语》",
+   "en": "GB/T 38247-2019 Information technology — Augmented reality — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《网络安全和个人数据保护公约》（非洲联盟）",
+   "en": "Convention on Cyber Security and Personal Data Protection (African Union)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "习俗惯制",
+   "en": "convention",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0459",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "所有俗民都遵守的风俗和被俗民普遍接受的行为模式和规范，它总是按一种常规的程序循环不已地支配着俗民的生活实践，养育出一代又一代负载民俗文化的群体。"
+  },
+  {
+   "cn": "传统细胞学检查",
+   "en": "conventional cytology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.2.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "通过采集子宫颈鳞柱上皮交接处转化区脱落细胞样本，并将样本涂抹于玻片上，用95%酒精固定，进行染色、封片后，对子宫颈细胞有无病变及病变程度进行描述的宫颈癌筛查方法。"
+  },
+  {
+   "cn": "社会实在",
+   "en": "social reality",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "以物质实在为基础的、依赖于人类共同的风俗、习惯、制度和活动而存在和维系的事实。"
+  },
+  {
+   "cn": "客观实在性",
+   "en": "objective reality",
+   "source": "马克思主义",
+   "wordNumber": "01.0196",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "独立于人的意识之外，不依赖于意识的物质世界。唯心主义认为，唯一的客观实在是感觉、意识、理念和绝对精神等。唯物主义则认为客观实在性是物质唯一的“特性”，它不依赖于人的意识而存在，但又为人的意识所感知和反"
+  },
+  {
+   "cn": "约定真值",
+   "en": "conventional true value",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "对于给定目的具有适当不确定度的、赋予特定量的值。有时该值是约定采用的。如：在给定地点，取由参考标准复现而赋予该量的值。常用某量的多次测量结果来确定。"
+  },
+  {
+   "cn": "常规岛",
+   "en": "conventional island，CI",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "核电装置中汽轮发电机组及其配套设施和它们所在厂房的统称。"
+  },
+  {
+   "cn": "国际马克思大会",
+   "en": "international Marx convention",
+   "source": "马克思主义",
+   "wordNumber": "05.0280",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "1995年由法国《当代马克思》杂志发起，联合世界各地上百家国际马克思主义理论研究刊物和研究机构召开的国际性会议。大会以现实性、探索性、国际性、多元性和多学科性为宗旨，强调打破党派和学科界限，从学术上探"
+  },
+  {
+   "cn": "核安全公约",
+   "en": "Convention on Nuclear Safety",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.13",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "国际原子能机构（IAEA）于1994年6月14日至17日在其总部举行的外交会议上通过的一项国际公约，旨在通过各国加强核安全措施与国际合作，维持并提高核动力厂的安全水平。其适用范围仅限于核动力厂。我国于"
+  },
+  {
+   "cn": "化学武器公约",
+   "en": "Chemical Weapons Convention， CWC",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.2.8",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器",
+   "subjectName": "化学武器",
+   "publishYear": "2025",
+   "definition": "全称“关于禁止发展、生产、储存和使用化学武器及销毁此种武器的公约（convention on the prohibition ofthe development, production, stockp"
+  },
+  {
+   "cn": "生物多样性公约",
+   "en": "Convention on Biological Diversity(CBD)",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.15",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "一项保护地球生物资源的国际性公约，于1992年6月1日由联合国环境规划署发起的政府间谈判委员会第七次会议在内罗毕通过，1992年6月5日，由签约国在巴西里约热内卢举行的联合国环境与发展大会上签署，19"
+  },
+  {
+   "cn": "替代蛋白",
+   "en": "alternative proteins for conventional animal products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.23",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "非传统畜牧或渔业生产，能提供蛋白质来源的食物，以满足人类的蛋白质的需求，从新加工方式的工艺上包括植物基蛋白、发酵蛋白和细胞培育蛋白，从新食品资源上可以包括昆虫、藻类、酵母与真菌等。"
+  },
+  {
+   "cn": "名实分离",
+   "en": "separation of name and reality",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "因社会变迁产生的经学理想社会与现实之间的分立，以及由此产生的社会心理上的不适应状态。费孝通提出的概念。具体而言，自诸子百家定于一尊之后，要解释社会变迁，往往通过注释的方式来使经典与社会变动相适应。乡土"
+  },
+  {
+   "cn": "及早通报核事故公约",
+   "en": "Convention on Early Notification of Nuclear Accident",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.11",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "由国际原子能机构组织制定，1986年10月27日开始生效。此公约旨在进一步加强核能的安全、发展和利用方面的国际合作，通过在缔约国之间尽早提供有关核事故的情报，以使可能超越国界的辐射后果减少到最低限度。"
+  },
+  {
+   "cn": "核损害补充赔偿公约",
+   "en": "Convention on Supplementary Compensation for Nuclear Damage",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.14",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1997年12月举行的国际原子能机构第41届大会上获得通过的全球性法律文件。其主要目的是建立一个独立的、全球性的核损害补充赔偿机制，规定了一个额外的资金筹集制度，补充有关缔约国国内法规定可获得的赔偿。"
+  },
+  {
+   "cn": "防治荒漠化公约",
+   "en": "United Nations Convention on Combat Desertificaion(UNCCD)",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.14",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "由各国政府共同制定国家级、次区域级和区域级行动方案，并与捐助方、地方社区和非政府组织合作，以对抗荒漠化的挑战。1994年6月7日在巴黎通过，并于1996年12月正式生效。"
+  },
+  {
+   "cn": "儿童权利公约",
+   "en": "convention on the rights of the child",
+   "source": "社会医学名词",
+   "wordNumber": "3.9.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "首个具法律约束力的国际公约，涵盖公民、经济、政治、文化和社会领域的所有人权，保障儿童权益。"
+  },
+  {
+   "cn": "传统改善病情抗风湿药",
+   "en": "conventional synthetic disease-modifying antirheumatic drug，cs-DMARD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "nb-DMARD）”“慢作用抗风湿药（slow-acting anti-rheumatic drug, SAARD）”。类风湿关节炎治疗中用于减缓疾病进展的一类药物，起效较慢，常见的包括甲氨蝶呤、柳氮"
+  },
+  {
+   "cn": "核损害民事责任维也纳公约",
+   "en": "Vienna Convention on Civil Liability for Nuclear Damage",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.9",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "该公约的重大贡献是在核损害民事责任领域建立了一个全球性法律制度体系。公约要求营运人提供保险和其他财政保证，以满足事故责任最低的财政保证；如果营运人不能清偿索赔数额，装置国必须补足其差额，以达到其规定的"
+  },
+  {
+   "cn": "核材料实物保护公约",
+   "en": "Convention on the Physical Protection of Nuclear Material",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.15",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "《核材料实物保护公约》是民用核材料实物保护领域中唯一的国际法文书，其修订案于2005年在公约缔约国大会上获得通过。该公约各缔约国，确认一切国家有权为和平目的发展和利用核能，并合法享有和平利用核能所可能"
+  },
+  {
+   "cn": "联合国气候变化框架公约",
+   "en": "United Nations Framework Convention on Climate Change(UNFCCC)",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.16",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "国际社会为应对气候变化共同签署的一项国际公约。1992年5月在纽约联合国总部通过，6月在巴西里约热内卢召开的世界各国政府首脑参加的联合国环境与发展会议期间开放签署，1994年3月21日正式生效。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

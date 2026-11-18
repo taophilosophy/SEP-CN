@@ -1,0 +1,662 @@
+{
+ "key": "developmental psychology",
+ "term": "developmental psychology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:15:06+00:00",
+ "status": "ok",
+ "note": "variant=developmental psychology; 审定公布名词库=1093; 海峡两岸名词对照库=391; 其他来源数据库=143; 预公布名词数据库=272; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "行为医学名词",
+   "wordNumber": "4.002",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "研究人的心智与行为、心理现象及其规律的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "计划生育名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "应用反应论和信息论等理论和方法，研究心理事实、心理规律和心理机制的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "老年医学名词",
+   "wordNumber": "10.001",
+   "subjectFullName": "老年医学_老年心理学",
+   "subjectName": "老年心理学",
+   "publishYear": "2017",
+   "definition": "研究人的心理现象的发生、发展和活动规律的学科。心理现象是心理活动的表现形式，包括感觉、知觉、记忆、想象、思维、情感、意志等心理过程及在这些心理过程中形成与表现出来的需要、兴趣、理想、信念、态度、性格、"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "心理学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "心理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "研究人的心智与行为的学科。"
+  },
+  {
+   "cn": "发育生物学",
+   "en": "developmental biology",
+   "source": "兽医学名词",
+   "wordNumber": "07.019",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "应用现代生物学技术研究多细胞生物体从生殖细胞的发生、受精、胚胎发育、生长到衰老、死亡的机制和规律的学科。"
+  },
+  {
+   "cn": "发育毒理学",
+   "en": "developmental toxicology",
+   "source": "兽医学名词",
+   "wordNumber": "11.005",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "研究外源化学物对子代发育过程有害影响作用，并为防止其有害作用提供科学依据的一门毒理学分支学科。"
+  },
+  {
+   "cn": "发育毒性",
+   "en": "developmental toxicity",
+   "source": "兽医学名词",
+   "wordNumber": "11.073",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "外源化学物对受试动物子代成年之前诱发的任何有害影响。包括对出生前的胚胎、胎儿以及出生后的幼子的结构及功能的影响。"
+  },
+  {
+   "cn": "生长发育迟滞",
+   "en": "developmental delay",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.081",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "在生长发育过程中出现速度放慢或顺序异常，未能达到按照个体的年龄一般能够达到的预期发育水平的发育障碍现象。"
+  },
+  {
+   "cn": "发展性阅读障碍",
+   "en": "developmental dyslexia",
+   "source": "行为医学名词",
+   "wordNumber": "17.038",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "智力正常儿童在发展过程中没有明显的神经或器质性损伤，阅读水平却显著落后于其相应智力水平或生理年龄的发育障碍。"
+  },
+  {
+   "cn": "发育遗传学",
+   "en": "developmental genetics",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.018",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "研究生物体生长发育过程中细胞分裂、分化、形态形成等过程的遗传机制的遗传学分支学科。"
+  },
+  {
+   "cn": "发育生物学",
+   "en": "developmental biology",
+   "source": "动物学名词",
+   "wordNumber": "4.0006",
+   "subjectFullName": "动物学_动物胚胎学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "研究生物个体从生殖细胞的发生、受精、胚胎发育、生长到衰老、死亡的规律及其调控机制的科学。"
+  },
+  {
+   "cn": "发育阻断",
+   "en": "developmental block",
+   "source": "畜牧学名词",
+   "wordNumber": "05.442",
+   "subjectFullName": "畜牧学_繁殖_胚胎移植",
+   "subjectName": "胚胎移植",
+   "publishYear": "2020",
+   "definition": "早期胚胎在体外发育至一定阶段时发生退行性变化的现象。"
+  },
+  {
+   "cn": "发育性换毛",
+   "en": "developmental molting",
+   "source": "畜牧学名词",
+   "wordNumber": "08.030",
+   "subjectFullName": "畜牧学_养兔_家兔饲养管理",
+   "subjectName": "家兔饲养管理",
+   "publishYear": "2020",
+   "definition": "幼兔生长到一定时期自动脱换被毛的现象。一生中共有两次，一般发生在30～100日龄和130～190日龄。"
+  },
+  {
+   "cn": "发育生理学",
+   "en": "developmental physiology",
+   "source": "生理学名词",
+   "wordNumber": "01.007",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育延迟",
+   "en": "developmental delay",
+   "source": "精神医学名词",
+   "wordNumber": "03.364",
+   "subjectFullName": "精神医学_诊断分类_精神发育迟缓",
+   "subjectName": "精神发育迟缓",
+   "publishYear": "2019",
+   "definition": "未能达到按照个体的年龄一般能够达到的预期发育水平的发育障碍。"
+  },
+  {
+   "cn": "发育植物学",
+   "en": "developmental botany",
+   "source": "植物学名词",
+   "wordNumber": "01.0046",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "研究植物个体发育规律及其调控机制的学科。"
+  },
+  {
+   "cn": "发育模式建成",
+   "en": "developmental patterning",
+   "source": "植物学名词",
+   "wordNumber": "08.0364",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "任何生物都有相对固定的形态和结构特征(即表型)，是生命存在的模式，产生这种表型的过程。在多细胞生物中通过发育实现这一过程。"
+  },
+  {
+   "cn": "发育偏好",
+   "en": "developmental bias",
+   "source": "植物学名词",
+   "wordNumber": "02.0291",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "在进化过程中，发育系统更容易向某一方向发生变化的倾向性。"
+  },
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "植物学名词",
+   "wordNumber": "08.0363",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "生物发育轨迹受到环境影响发生改变的现象。"
+  },
+  {
+   "cn": "发育轨迹",
+   "en": "developmental trajectory",
+   "source": "植物学名词",
+   "wordNumber": "08.0362",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "生物体从受精卵到性成熟个体经历的全部发育过程。"
+  },
+  {
+   "cn": "发展心理学",
+   "en": "developmental psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "进化发展心理学",
+   "en": "evolutionary developmental psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "应用发展心理学",
+   "en": "applied developmental psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "发育潜能",
+   "en": "developmental potency\",\"developmental potentiality",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育途径（=发育网络）",
+   "en": "developmental pathway (=developmental network)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "发生场",
+   "en": "developmental field",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "发育机制",
+   "en": "developmental mechanism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "发育生物学",
+   "en": "developmental biology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "发育场，发育域",
+   "en": "developmental field",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育重塑",
+   "en": "developmental repatterning",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育多态现象",
+   "en": "developmental polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育轨迹",
+   "en": "developmental trajectory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育畸形",
+   "en": "developmental malformation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育节律",
+   "en": "developmental rhythm",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育模式建成，发育塑造",
+   "en": "developmental patterning",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育偏好",
+   "en": "developmental bias",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育期",
+   "en": "developmental phase",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育驱动",
+   "en": "developmental drive",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心理创伤",
+   "en": "psychological trauma",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心理疏导",
+   "en": "psychological counseling",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《新冠肺炎疫情心理疏导工作方案》",
+   "en": "Work Plan on Psychological Counseling for People Affected by COVID-19",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "弓箭步刺",
+   "en": "development",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据开发",
+   "en": "data development",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发展主义",
+   "en": "developmentism",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.8",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "以发展经济为出发点，目的在于推动拉美发展的“经济发展主义”学说。以劳尔·普雷维（R.Prebisch）什为代表的拉美经济学家提出了一系列关于拉美国家工业化和现代化的理论观点和政策主张，逐步形成了这一学"
+  },
+  {
+   "cn": "发展路径",
+   "en": "developmental approach",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.9",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "从事物的发生、成长、变化做历时态的考察从而做出对比说明的方式，与从事物的组成、结构上考察的共时态解释是相对应的方式。"
+  },
+  {
+   "cn": "发育年龄",
+   "en": "developmental age",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "个体生理、心理成熟程度对应于群体平均水平所在年龄。"
+  },
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "为适应积极或消极的生活经历而发生改变的能力。表现为在发育过程中同一基因型在不同环境条件下能够产生不同生理和形态学特性。"
+  },
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在发育过程中，同一基因型在不同环境条件下能够产生不同生理和形态学特性。是生命体为适应环境而调整其生长发育轨迹的一种模式。"
+  },
+  {
+   "cn": "发育可逆",
+   "en": "developmental reversibility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "宫内或生命早期发育阶段畸变的表型被外源性因素修复的现象。"
+  },
+  {
+   "cn": "发育表型",
+   "en": "developmental phenotype",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "生命体在基因和环境共同作用下，在发育过程中表现出的一系列形态和功能特征。"
+  },
+  {
+   "cn": "发育编程",
+   "en": "developmental programming",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在生长发育关键期，暴露于应激源对个体器官系统发育及其功能造成永久性改变的过程。"
+  },
+  {
+   "cn": "发育毒性",
+   "en": "developmental toxicity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.9.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女职业卫生保健",
+   "subjectName": "妇女职业卫生保健",
+   "publishYear": "2025",
+   "definition": "发育中的有机体自配子阶段至受精卵、胚胎和胎儿期，乃至出生后至性成熟各个发育阶段中，受职业有害因素影响产生的毒性效应。表现为受精卵发育异常，胎儿畸形、流产或死胎，生长发育迟缓以及出生后功能发育障碍等。"
+  },
+  {
+   "cn": "发育商",
+   "en": "developmental quotient",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.27",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童神经心理发展所达到的程度，即发育年龄（DA）除以实际年龄（CA）的百分比（发育年龄/实际年龄×100）。"
+  },
+  {
+   "cn": "发展性阅读障碍",
+   "en": "developmental dyslexia",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "智力正常儿童在发展过程中没有明显的神经或器质性损伤，阅读能力却显著落后于其相应智力水平或生理年龄的一种神经发育障碍。"
+  },
+  {
+   "cn": "发育毒性",
+   "en": "developmental toxicity",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.2.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "出生前后接触有害因素，子代个体发育为成体之前诱发的任何有害影响，主要表现为发育生物体死亡、生长改变、结构异常、功能缺陷。"
+  },
+  {
+   "cn": "社会心理学",
+   "en": "social psychology",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "一门侧重描述和解释群体中的个体或个体同群体相互作用的学科。内容涉及社会情境、社会化、社会性的认知、情感、思维、动机、态度及社会行为模式等方面，并由此扩展为对人际与大众传播心理乃至集群行为的研究等。"
+  },
+  {
+   "cn": "心理指标",
+   "en": "psychology parameter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "反映儿童青少年心理健康状况的指标，包括是否有抑郁、焦虑情绪，是否有自伤、自杀等相关行为等"
+  },
+  {
+   "cn": "性心理",
+   "en": "sex psychology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "围绕性征、性欲和性行为而展开的心理活动，由性意识、性感情、性知识、性经验和性观念等组成。"
+  },
+  {
+   "cn": "医学心理学",
+   "en": "medical psychology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.19",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "心理学与医学相结合的一门交叉学科。将心理学的理论和技术应用于医学领域，探索心理因素在人体健康以及疾病的发生、发展、诊断、治疗、预防与医疗护理中的作用。"
+  },
+  {
+   "cn": "民族心理",
+   "en": "ethnic psychology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0486",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一个民族作为一个大群体所具有的典型心理特点，通过该民族成员个体表现出来。民族心理特点是一个民族长期在特定的自然环境与社会环境的制约下，在历史文化的积淀过程中形成的，并通过一定的生产和生活方式及各种文化"
+  },
+  {
+   "cn": "心理民俗学",
+   "en": "psychology folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0501",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究民俗与心理相互关系的学科，认为社会民俗是民众集体无意识和集体有意识的综合表现。"
+  },
+  {
+   "cn": "道德心理",
+   "en": "moral psychology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.015",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "具有一定道德倾向性的比较稳定的心理特征的总和，是道德知识、道德行为、社会道德要求以及道德文化的心理反映。"
+  },
+  {
+   "cn": "发展型社会福利",
+   "en": "developmental social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.86",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "社会福利的一种形态。以人的全面发展为目标，要求以人为中心来设计社会福利制度或计划，立足于社区生活和社区发展，重视动员每一个社会成员积极参与，启发人们挖掘自身的潜力，强调人的尊严和自我实现，追求物质生活"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

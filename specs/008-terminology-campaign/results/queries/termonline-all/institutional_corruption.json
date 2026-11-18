@@ -1,0 +1,782 @@
+{
+ "key": "institutional corruption",
+ "term": "institutional corruption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:49:30+00:00",
+ "status": "ok",
+ "note": "variant=institutional corruption; 审定公布名词库=604; 海峡两岸名词对照库=217; 其他来源数据库=51; 预公布名词数据库=86; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "讹变",
+   "en": "corruption",
+   "source": "语言学名词",
+   "wordNumber": "02.046",
+   "subjectFullName": "语言学_文字学_汉字的起源和发展演变",
+   "subjectName": "汉字的起源和发展演变",
+   "publishYear": "2011",
+   "definition": "使用汉字过程中，由于误解而将字形的某些部分误写成形近但意义有别的其他构形要素，或将某些构形要素有意改造成形近的音符或意符，以致因讹成是造成字形变化的形体演变现象。例如，金文“则”本从鼎从刀，写作“”，"
+  },
+  {
+   "cn": "数据讹误",
+   "en": "data corruption",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.400",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "违背数据一致性的情况。"
+  },
+  {
+   "cn": "制度",
+   "en": "institution",
+   "source": "经济学名词",
+   "wordNumber": "05.031",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人类共同遵守的人为设定的办事规章或行动准则。诺思把制度定义为一个社会“博弈规则”，博弈规则可以分为两类：正式规则（如宪法、产权制度和合同）和非正式规则（如行为规范、道德和习俗）。许多情况下，制度也是某"
+  },
+  {
+   "cn": "网络反腐",
+   "en": "internet anti corruption",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.09",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种基于互联网发展和普及的反腐败形式，包括民间和官方两个层面。在这种形式下，民间反腐主要采取网络报道和曝光的形式，政府反腐包括对互联网舆论的被动反应，以及通过公布举报方式等积极使用网络反腐；前者遵循压"
+  },
+  {
+   "cn": "制度创新",
+   "en": "institutional innovation",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.061",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "通过改进旧制度或者建立新制度而创造社会价值的过程。"
+  },
+  {
+   "cn": "制度保障",
+   "en": "institutional guarantee",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.043",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "从制度上保障为了维护公众利益而受到打击报复的科技人员走出困境，给予其必要的奖励和救济，维护其合法权益，获得相应的工作岗位。"
+  },
+  {
+   "cn": "机构知识库",
+   "en": "institutional repository",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.054",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "利用网络及相关技术，依附于特定机构而建立的数字化学术数据库。机构知识库收集、整理并长期保存机构及其社区成员所产生的学术成果，并在将这些资源进行规范、分类、标引后，按照开放标准与相应的互操作协议，允许机"
+  },
+  {
+   "cn": "制度保障",
+   "en": "institutional guarantee",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.038",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "建立与规划编制、实施、评估等环节相关的规程或准则，以确保规划的可实施性。"
+  },
+  {
+   "cn": "制度安排",
+   "en": "institutional arrangement",
+   "source": "经济学名词",
+   "wordNumber": "05.037",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "在特定领域内约束人们行为的一组规则。它支配经济单位之间和经济单位内部可能采取合作与竞争的方式。例如，市场制度、公司制度、经营承包制、各种行业自律制度等，都可以说是一定制度环境约束下的制度安排。制度安排"
+  },
+  {
+   "cn": "制度变迁",
+   "en": "institutional change",
+   "source": "经济学名词",
+   "wordNumber": "05.038",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "新制度(或新制度结构)产生，并否定、扬弃或改变旧制度(或旧制度结构)的过程。诺思认为，“制度变迁是制度创立、变更及随着时间变化而被打破的过程”。制度变迁是一个动态的现实过程，在这个过程中，涉及谁发动制"
+  },
+  {
+   "cn": "制度环境",
+   "en": "institutional environment",
+   "source": "经济学名词",
+   "wordNumber": "05.039",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "产权学派和新制度学派认为，制度环境是指一系列用来建立生产、交换与分配基础的基本的政治、社会和法律基础的规则之和。例如，法律和产权规则、规范和社会传统，等等。制度环境是因时、因地不同而不同的，它与各国自"
+  },
+  {
+   "cn": "制度均衡",
+   "en": "institutional equilibrium",
+   "source": "经济学名词",
+   "wordNumber": "05.040",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "一种行为均衡，即对立势力中任何一方都不具有改变现状的动机和能力。具体地讲，制度均衡是指这样一种状态，即在制度框架和行为者的谈判力量给定时，没有任何一个行为者发现将资源用于再建立另外一套制度是有利可图的"
+  },
+  {
+   "cn": "制度学派",
+   "en": "Institutional School",
+   "source": "经济学名词",
+   "wordNumber": "14.055",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "19世纪末20世纪初产生于美国并长期流行的一个强调制度因素对经济活动具有决定性影响的经济学流派。主要代表人物包括凡勃伦、米切尔、康芒斯等。制度学派并没有形成统一的理论体系，但都主张采用制度分析法即文化"
+  },
+  {
+   "cn": "事业编制",
+   "en": "institutional personnel",
+   "source": "经济学名词",
+   "wordNumber": "15.150",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "事业单位的机构设置、人员配备和权责划分。"
+  },
+  {
+   "cn": "体制创新",
+   "en": "institutional innovation",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0300",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "在现有的生产和生活环境条件下，有效激励人们的社会行为以实现社会的持续发展和变革的新的制度和规范体系。"
+  },
+  {
+   "cn": "机构知识库",
+   "en": "institutional repository",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0480",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "利用网络及相关技术，依附于特定机构而建立的数字化学术数据库，它收集、整理并长期保存该机构及其社区成员所产生的学术成果，并将这些资源进行规范、分类、标引后，按照开放标准与相应的互操作协议，允许机构及其社"
+  },
+  {
+   "cn": "公共机构市场",
+   "en": "institutional market",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0226",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "由为其看护的人提供产品和服务的学校、医院、养老院、监狱及其他机构所构成的市场。"
+  },
+  {
+   "cn": "制度创新",
+   "en": "institutional innovation",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0291",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "改进现有的制度，或用一种更有利于创新的制度来代替另一种制度的过程。"
+  },
+  {
+   "cn": "制度变迁",
+   "en": "institutional change",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0240",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "新制度(或新制度结构)产生、替代或改变旧制度的动态过程。"
+  },
+  {
+   "cn": "院校研究",
+   "en": "institutional research",
+   "source": "教育学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "对某一所高校的内部运行状况及其发展环境的资料，进行分析整理使之转换为可用的信息，以这些信息为基本依据对学校的计划、政策、决策进行论证为主要内容的研究活动。"
+  },
+  {
+   "cn": "数据讹误",
+   "en": "data corruption",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据腐烂",
+   "en": "data corruption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机构投资者",
+   "en": "institutional investor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "由常设仲裁机构处理的仲裁",
+   "en": "institutional arbitration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "放款机构",
+   "en": "lending institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币制度",
+   "en": "monetary institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融机构",
+   "en": "financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资机构",
+   "en": "investing institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信贷机构",
+   "en": "credit institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信托机构",
+   "en": "fiduciary institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际货币机构",
+   "en": "international monetary institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融机构",
+   "en": "international financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互助储蓄机构",
+   "en": "mutual saving institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通金融机构",
+   "en": "ordinary financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人金融机构",
+   "en": "private financial institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "回回药物院",
+   "en": "Muslin Medical Institute",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "京师药物院，广惠司",
+   "en": "Capital Medical Institute",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融协会",
+   "en": "Institute of International Finance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人非金融机构",
+   "en": "private non-financial institute",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际海洋学院",
+   "en": "International Ocean Institute， IOI",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融腐败",
+   "en": "financial corruption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "技术反腐",
+   "en": "technology-aided anti-corruption efforts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府机构改革",
+   "en": "government institutional reform",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "合格境内机构投资者",
+   "en": "Qualified Domestic Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合格境外机构投资者",
+   "en": "Qualified Foreign Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技机构监管",
+   "en": "supervision on Fintech institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国小额信贷机构联席会",
+   "en": "China Microfinance Institution Association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "英国标准协会",
+   "en": "British Standards Institution (BSI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据交易服务机构",
+   "en": "data trading service institution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "武汉病毒所",
+   "en": "Wuhan Institute of Virology",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提出抗议请求",
+   "en": "institute a protest protocol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "党的制度建设",
+   "en": "the Party's institutional development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人民币合格境外机构投资者",
+   "en": "RMB Qualified Foreign Institutional Investor",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技机构内控",
+   "en": "internal control of Fintech institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疾病预防控制机构",
+   "en": "disease prevention and control institutions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "腐败",
+   "en": "corruption",
+   "source": "马克思主义",
+   "wordNumber": "03.0777",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "原意是食品因变质而产生臭气刺激味和毒性物质的一种自然现象，后来被广泛引申到社会和政治领域。广义上指的是行为主体为其特殊利益而滥用职权或偏离公共职责的权利变异现象。狭义上泛指国家公职人员为其特殊利益而滥"
+  },
+  {
+   "cn": "预防腐败",
+   "en": "preventing corruption",
+   "source": "马克思主义",
+   "wordNumber": "03.0780",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对腐败问题防患于未然。腐败问题的治理采取“预防为主”的方针，这是世界各国在反腐败问题上的共识。党的十六大以后，我国提出了“标本兼治、综合治理、惩防并举、注重预防”的反腐败战略方针，反腐败斗争开始进入预"
+  },
+  {
+   "cn": "制度信任",
+   "en": "institutional trust",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "个人、群体或组织对现有社会制度（包括规章、规则、法规、条例等契约形式）运作效率和公平程度的肯定和认可，即确认制度约束下的交往对象能确保个人、组织和群体生理、心理和社会活动的安全，进而认为制度约束下的交"
+  },
+  {
+   "cn": "制度环境",
+   "en": "institutional environment",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.16",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "组织生存于其中的社会的法律制度、文化观念和社会规范等因素。组织学的制度学派关注的主要是社会的共享观念及规范因素，即支撑社会生活稳定化和秩序化的、被普遍接受的符号体系及其共同意义。"
+  },
+  {
+   "cn": "制度性宗教",
+   "en": "institutional religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.16",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "具有系统的神学、仪式和组织，并独立于其他世俗制度的宗教形式，与之相对的是弥散性宗教(diffused religion）。"
+  },
+  {
+   "cn": "制度型福利",
+   "en": "institutional welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "国家通过税收制度和设施建设，保障全体社会成员医疗、教育、住房、养老、托幼等公共服务的社会福利模式。强调国家的责任与公民的社会权利。对应于普遍主义，社会成员获得社会福利服务的机会以及其标准一致。"
+  },
+  {
+   "cn": "机构照顾",
+   "en": "institutional care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.47",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "需要照顾的老年人等由专门的照料机构予以照顾的照顾方式。在中国，老年人的专门照顾机构有社会福利院、敬老院、老年公寓、老年护理院等。"
+  },
+  {
+   "cn": "机构型监管",
+   "en": "institutional regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "按照被监管机构的类型、监管主体的机构职能设立监管机构、分配监管职能的模式，如由审计部门监管财务，由卫生行政部门负责服务质量。"
+  },
+  {
+   "cn": "制度公正",
+   "en": "institutional justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0590000000000002",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "以权利义务关系为核心的人与人之间关系的合理状态，反映了规范化、定型化了的正式行为方式与交往关系结构的公正性。有助于维护稳定的社会秩序，构建融洽的社会关系，营造和谐的社会环境和生活环境，进而为人的自由全"
+  },
+  {
+   "cn": "制度性宗教",
+   "en": "institutional religion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0305",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "华裔美国社会学、人类学家杨庆堃（C.K.Yang）的中国宗教类型学核心概念之一，与分散性宗教相对。制度性宗教是指借助独立的概念、仪式和结构，具有一种独立的社会制度属性的宗教类型。它主要有三个方面的特征"
+  },
+  {
+   "cn": "制度文化",
+   "en": "institutional culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0026",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类在生产活动和相互关系中所形成的运动原则和机制的总称，是一系列人为制定出来的规则、程序和道德、伦理的行为规范，包括经济制度、政治制度、法律制度、军事制度、教育制度等。"
+  },
+  {
+   "cn": "企业单位",
+   "en": "enterprise institution",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.15",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "受国家机关领导，实行独立经济核算制度，自负盈亏的直接从事工农业生产、交通运输和商业流通活动，产生的价值可用货币表现的法人或非法人单位。与“事业单位”相对。"
+  },
+  {
+   "cn": "社会制度",
+   "en": "social institution",
+   "source": "马克思主义",
+   "wordNumber": "03.0169",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定社会的经济、政治和文化等制度的统称。是相对持久的社会关系的定型化。可分为总体社会制度、不同领域的具体制度。建立何种社会制度取决于主要的经济生产方式和由此产生的社会结构。"
+  },
+  {
+   "cn": "婚姻制度",
+   "en": "marriage institution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0252",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "特定社会要求其成员在婚姻方面共同遵守的行为准则，由社会的习俗或法律所规定。人类社会先后存在过三种主要的婚姻制度：群婚制、偶婚制、一夫一妻制。一夫一妻是现代世界流行最广的婚姻制度，多数国家认为这种制度是"
+  },
+  {
+   "cn": "合亩制",
+   "en": "hemu institution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0292",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "海南黎族地区的带有原始家族公社残余的生产和社会组织。“合亩”是进行农业生产的基本单位，意为“有血缘关系的集体”，由若干户有血缘关系的父系小家庭组成，土地和耕牛公有，全体成员共同劳动，平均分配，成员有互"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "依法成立的从事疾病诊断、治疗活动的，以救死扶伤，防病治病，提供健康服务为宗旨的卫生机构。包括医院、妇幼保健院、卫生院、疗养院、门诊部、诊所、卫生所（室）、急救站等。"
+  },
+  {
+   "cn": "惩治腐败",
+   "en": "punishing and eliminating corruption",
+   "source": "马克思主义",
+   "wordNumber": "04.0184",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "作为全心全意为人民服务的党，是绝不允许腐败现象在党内滋生蔓延。惩治腐败就是对党内腐败分子不能容忍，要与腐败作坚决斗争，这是从严治党和廉政建设的一个极其重要的方面，是中国特色社会主义事业成功不可缺少的重"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institute",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.64",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "提供医疗服务的机构。其职责是诊疗伤病、收容伤病员、健康检查、预防接种、接生等。可按所有权、服务对象、患者住院期的长短、规模大小、设备和编制等来分类，如传染病院、妇产科医院、联合诊所、医疗站、卫生所等。"
+  },
+  {
+   "cn": "机构间流动",
+   "en": "inter-institutional flow",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "卫生人员在卫生机构间的流入或流出。"
+  },
+  {
+   "cn": "院校医学教育",
+   "en": "institutional medical education",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6.5",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "在正式的医学教育机构（如医学院校）中，按照系统化课程和教学大纲，为培养具有医学理论基础和实践能力的医学生所进行的基础医学教育和相关职业培训。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

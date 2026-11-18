@@ -1,0 +1,772 @@
+{
+ "key": "sexual orientation",
+ "term": "sexual orientation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:36:51+00:00",
+ "status": "ok",
+ "note": "variant=sexual orientation; 审定公布名词库=1218; 海峡两岸名词对照库=407; 其他来源数据库=37; 预公布名词数据库=89; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "生殖医学名词",
+   "wordNumber": "8.002",
+   "subjectFullName": "生殖医学_性与性功能障碍",
+   "subjectName": "性与性功能障碍",
+   "publishYear": "2022",
+   "definition": "特定性别的人的持久性浪漫情感，并被性吸引。通常性取向被归为四类：异性恋、同性恋、双性恋、无性恋。"
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "行为医学名词",
+   "wordNumber": "12.008",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "个体性欲指向的对象。"
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "生理学名词",
+   "wordNumber": "03.653",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation;sex orientation",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.014",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "个体对特定性别（男性或女性）持续表达情感、浪漫和性吸引力的模式。非异性恋的性取向不属于心理或精神疾病。"
+  },
+  {
+   "cn": "自我排斥的性取向",
+   "en": "egodystonic sexual orientation",
+   "source": "精神医学名词",
+   "wordNumber": "03.353",
+   "subjectFullName": "精神医学_诊断分类_人格与性心理障碍",
+   "subjectName": "人格与性心理障碍",
+   "publishYear": "2019",
+   "definition": "对自己的性身份或性偏好(如异性恋、同性恋、双性恋、恋童等)并没有疑问，但却不能认同的一种性偏好障碍。可能寻求治疗以改变自己的性身份或性取向。"
+  },
+  {
+   "cn": "性蚜",
+   "en": "sexuale",
+   "source": "昆虫学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "昆虫学_昆虫发育与生活史",
+   "subjectName": "昆虫发育与生活史",
+   "publishYear": "2000",
+   "definition": "进行两性生殖的雄蚜和雌蚜。"
+  },
+  {
+   "cn": "性素质",
+   "en": "sexuality",
+   "source": "男科及性医学名词",
+   "wordNumber": "01.007",
+   "subjectFullName": "男科及性医学_学科概论",
+   "subjectName": "学科概论",
+   "publishYear": "2023",
+   "definition": "一切与性相关的生物、心理、社会、伦理等多元素的集合。是一个整体性的多维概念。"
+  },
+  {
+   "cn": "性别",
+   "en": "sexuality",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.010",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "个体遗传和结构的性特征差异。"
+  },
+  {
+   "cn": "定向力",
+   "en": "orientation",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.177",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体准确识别自我和环境的能力。可以对人物、时间和地点三个层次进行评估。"
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "行为医学名词",
+   "wordNumber": "17.022",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "个体对时间、地点及人物，以及对自己本身状态的认识能力。"
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "动物学名词",
+   "wordNumber": "7.0227",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "动物对外界刺激做出的在空间和时间上控制其方向和姿态的反应。"
+  },
+  {
+   "cn": "定向力",
+   "en": "orientation",
+   "source": "精神医学名词",
+   "wordNumber": "02.013",
+   "subjectFullName": "精神医学_症状与体征_意识障碍症状",
+   "subjectName": "意识障碍症状",
+   "publishYear": "2019",
+   "definition": "对时间、地点、人物及自身状况能准确辨认的识别能力。是判断意识障碍的一个重要指 标。"
+  },
+  {
+   "cn": "定向力",
+   "en": "orientation",
+   "source": "计划生育名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "一个人对时间、地点、人物及对自己本身状态的认识能力。包括两方面内容：①对周围环境的认识，包括时间、地点、人物；②对自身状况的认识，如对本人姓名、年龄、职业及当时自身状况的认识等。"
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.228",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "个体识别和判断所处客观环境、自身情况、自己与环境的关系等时间、地点、空间、人物等信息的心理过程。"
+  },
+  {
+   "cn": "取向",
+   "en": "orientation",
+   "source": "物理学名词",
+   "wordNumber": "01.0040",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "方位",
+   "en": "orientation",
+   "source": "建筑学名词",
+   "wordNumber": "09.0007",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "表示方向和位置。东、西、南、北为基本方位，东北、东南、西北、西南为中间方位。"
+  },
+  {
+   "cn": "定向力",
+   "en": "orientation",
+   "source": "心理学名词",
+   "wordNumber": "10.125",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "个体对周围环境及自身状态的察觉和识别能力。是判断意识障碍的重要标志之一。"
+  },
+  {
+   "cn": "取向",
+   "en": "orientation",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0209",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "在外场作用下聚合物中几何形状不对称的单元如分子链、链段、晶体或相区等沿外场择优有序排列的过程。"
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "古生物学名词",
+   "wordNumber": "05.0014",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_古生态学",
+   "subjectName": "古生态学",
+   "publishYear": "2009",
+   "definition": "生物对其生活环境的特定取向。"
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.263",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性蚜",
+   "en": "sexuale",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "性别",
+   "en": "sexuality",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "取向",
+   "en": "orientation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "取向",
+   "en": "orientation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "orientation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "方向",
+   "en": "orientation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "orientation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定向，定方位",
+   "en": "orientation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "定向",
+   "en": "orientation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "η取向",
+   "en": "eta orientation\",\"η orientation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "μ取向",
+   "en": "mu orientation\",\"μ orientation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "东方主义",
+   "en": "Orientalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "定向运动",
+   "en": "orienteering",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "问题导向",
+   "en": "problem-oriented",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "服务化延伸",
+   "en": "service-oriented extension",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "服务型制造",
+   "en": "service-oriented manufacturing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发性金融",
+   "en": "development-oriented finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台型组织",
+   "en": "platform-oriented organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学习型组织",
+   "en": "learning-oriented organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "面向数据结构方法",
+   "en": "data structure-oriented method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "面向服务的体系结构",
+   "en": "service-oriented architecture (SOA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发式减贫",
+   "en": "development-oriented poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "众享生活圈",
+   "en": "sharing-oriented urban community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字探究实验室",
+   "en": "inquiry-oriented digital laboratory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发式扶贫",
+   "en": "development-oriented poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直握",
+   "en": "oriental grip\",\"penholder grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全体系结构",
+   "en": "data-oriented security architecture (DOSA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "iRODS软件",
+   "en": "Integrated Rule-oriented Data System (iRODS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扶贫开发识别",
+   "en": "identification of development-oriented poverty alleviation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "一个人倾向于和同性还是异性发生性行为。一般包括异性恋取向、同性恋取向和双性恋取向。"
+  },
+  {
+   "cn": "朝向",
+   "en": "orientation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "建筑物的门、窗所对着的方向和使空气流通，改善生产和生活环境，造成安全、卫生条件的措施。"
+  },
+  {
+   "cn": "东方主义",
+   "en": "orientalism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.37",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "西方学术界长期以来对包括东亚在内的东方社会性质的判定，认为东方社会是与农业经济和东方专制主义相联系的，因而是与现代性的要求格格不入的。赛义德认为西方对东方社会的这种看法是一种西方中心论和从自我优越感出"
+  },
+  {
+   "cn": "东方主义",
+   "en": "Orientalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.15",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "西方人对东方世界的一种认识论及研究态度，后又发展成为东西方二元的思维定式。早期在地理上泛指古罗马以东的异教徒（伊斯兰）世界，逐渐延伸出近东、中东、远东，即根据东方在欧洲经验中的位置而处理、协调东方的方"
+  },
+  {
+   "cn": "东方主义",
+   "en": "orientalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0621",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一种根据东方在欧洲经验中的位置来处理和理解东方社会和文化的思维定式。美国学者萨义德（Edward Wadie Said）以另一种立场重新审视了西方人建构的东方主义，认为东方主义是由西方自由主义学术传统"
+  },
+  {
+   "cn": "性传播",
+   "en": "sexual transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过与异性或同性感染者性行为导致感染的过程。"
+  },
+  {
+   "cn": "性政治",
+   "en": "sexual politics",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "激进女性主义将个人生活政治化的一个基本概念，源自美国女权主义者米利特(Kate Millett）1970年出版的同名著作，认为与性相关的各个层面包括性意识、性关系、性身份等都是性别不平等的政治体现，是"
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "推动人对异性（有时是同性）发生兴趣、进行求偶和性行为活动的一种内在力量。当人的身体发育到某种程度时，由于性机能的成熟与作用，在性激素的刺激下产生对性的需求及性行为活动。"
+  },
+  {
+   "cn": "性爱",
+   "en": "sexual love",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "以性欲为基础的对异性（有时是同性）的倾慕、亲近的感情，是爱情的一个必不可少的成分。性爱一般具有排他性、冲动性、直觉性和隐蔽性的特点。"
+  },
+  {
+   "cn": "性骚扰",
+   "en": "sexual harassment",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "通过语言、动作等对他人实施的一种不受欢迎的带有性意图的行为。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "性少数族群",
+   "en": "sexual minorities",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.2",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "在性取向和性行为方面与主流文化的社会性别或性规范不符合的群体。包括同性恋、双性恋、易装者、易性者等。"
+  },
+  {
+   "cn": "恋物",
+   "en": "sexual fetishism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.9",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "把无生命的物品或他人身上的非性感部分作为对象以引起性兴奋的性活动。"
+  },
+  {
+   "cn": "性的多元论",
+   "en": "sexual pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "主张人类性行为有多种方式的观点。提倡社会容许多种性行为的方式同时存在，占主流地位的性规范不应该强行把自己的标准加在不适合这种行为的人身上，应该容许多元的生活方式。"
+  },
+  {
+   "cn": "性发育",
+   "en": "sexual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "包括性染色体、性腺、性激素、内外生殖器官等的发育过程。"
+  },
+  {
+   "cn": "性侵犯",
+   "en": "sexual assault",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "违反社会准则和儿童意愿进行的暴力性活动。其中危害最大的是强奸，主要受害者是妇女和女童，少数可发生于男孩。"
+  },
+  {
+   "cn": "性行为",
+   "en": "sexual behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "旨在满足性欲和获得性快感而出现的动作和活动。"
+  },
+  {
+   "cn": "性健康",
+   "en": "sexual health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "与性有关的身体、情感、心理和社会健康状态，不仅仅是没有疾病、功能障碍或虚弱。需要对性行为和性关系采取积极和尊重的态度，并有可能在没有胁迫、歧视和暴力的情况下获得愉快和安全的性体验。"
+  },
+  {
+   "cn": "性功能障碍",
+   "en": "sexual dysfunction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "性活动中的某一环节发生障碍，从而影响正常性功能的现象。男性可表现为性欲障碍、勃起功能障碍、早泄、不射精和逆行射精等。女性可表现为性欲障碍、性唤起障碍、性高潮障碍等。"
+  },
+  {
+   "cn": "性骚扰",
+   "en": "sexual harassment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "未被邀请的、不受欢迎的性挑逗、性要求及其他具有性性质的言语或身体行为。任何性别的人都有可能是受害者。按照行为方式可以分为言语性、行为性、环境性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

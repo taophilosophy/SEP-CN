@@ -1,0 +1,702 @@
+{
+ "key": "coalition logic",
+ "term": "coalition logic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:01:30+00:00",
+ "status": "ok",
+ "note": "variant=coalition logic; 审定公布名词库=1545; 海峡两岸名词对照库=463; 其他来源数据库=44; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "联盟",
+   "en": "coalition",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0319",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "部分或全体局中人的结盟。"
+  },
+  {
+   "cn": "智能体联盟",
+   "en": "agent coalition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0187",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "一组智能体，可以完成单个智能体难以完成的任务，或完成共同的任务并最大化任务收益。"
+  },
+  {
+   "cn": "联盟核",
+   "en": "coalition core",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0188",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "联盟中能使整体和个体收益都最大化的一组智能体。"
+  },
+  {
+   "cn": "联盟形成",
+   "en": "coalition formation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0189",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "联盟的生成过程。包括联盟结构生成、联盟结构优化、联盟收益分配。"
+  },
+  {
+   "cn": "彩虹联盟",
+   "en": "Rainbow Coalition",
+   "source": "世界历史名词",
+   "wordNumber": "03.0274",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1984年成立的美国民权组织。"
+  },
+  {
+   "cn": "怪诞联盟",
+   "en": "Monstrous Coalition",
+   "source": "世界历史名词",
+   "wordNumber": "05.0563",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "19世纪中叶罗马尼亚地主和大资本家的联盟。它于1866年实行宫廷政变，推翻了库扎大公，拥立普鲁士亲王卡洛尔·霍亨索伦为大公(卡洛尔一世)。"
+  },
+  {
+   "cn": "联合政府",
+   "en": "Coalition Government",
+   "source": "世界历史名词",
+   "wordNumber": "03.0400",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "实行内阁制的国家，由议会中两个以上的政党组成的政府。"
+  },
+  {
+   "cn": "获胜联盟",
+   "en": "winning coalition",
+   "source": "数学名词",
+   "wordNumber": "011.0421",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "失败联盟",
+   "en": "losing coalition",
+   "source": "数学名词",
+   "wordNumber": "011.0423",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "联盟结构生成",
+   "en": "coalition structure generation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0190",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "生成所有可能的联盟结构。"
+  },
+  {
+   "cn": "全国联盟党",
+   "en": "National Coalition Party",
+   "source": "世界历史名词",
+   "wordNumber": "03.0833",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_北欧五国",
+   "subjectName": "北欧五国",
+   "publishYear": "2012",
+   "definition": "1918年，芬兰建立的保守主义政党。"
+  },
+  {
+   "cn": "反法联盟",
+   "en": "Anti-French Coalition",
+   "source": "世界历史名词",
+   "wordNumber": "01.0204",
+   "subjectFullName": "世界历史_综合_战争",
+   "subjectName": "战争",
+   "publishYear": "2012",
+   "definition": "1792-1815年，欧洲封建君主国为对抗新兴的资产阶级法国组成的七次军事联盟。"
+  },
+  {
+   "cn": "最小获胜联盟",
+   "en": "minimal winning coalition",
+   "source": "数学名词",
+   "wordNumber": "011.0422",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "跟舟骨桥损伤",
+   "en": "injury of the calcaneonavicular coalition",
+   "source": "运动医学名词",
+   "wordNumber": "03.460",
+   "subjectFullName": "运动医学_运动创伤_运动创伤各论_踝足部运动创伤",
+   "subjectName": "踝足部运动创伤",
+   "publishYear": "2019",
+   "definition": "跟骨载距突与舟骨先天性骨性融合引起的继发距舟关节炎，出现距舟关节肿痛，影响行走的损伤。"
+  },
+  {
+   "cn": "跟距骨桥损伤",
+   "en": "injury of the talocalcaneal coalition",
+   "source": "运动医学名词",
+   "wordNumber": "03.459",
+   "subjectFullName": "运动医学_运动创伤_运动创伤各论_踝足部运动创伤",
+   "subjectName": "踝足部运动创伤",
+   "publishYear": "2019",
+   "definition": "跟骨载距突与距骨先天性骨性融合，引起继发距下关节炎或腓骨肌腱痉挛性平足，出现局部肿痛、足内外翻痛、痉挛性平足等表现。"
+  },
+  {
+   "cn": "瑞典温和联合党",
+   "en": "Moderate Coalition Party of Sweden",
+   "source": "世界历史名词",
+   "wordNumber": "03.0830",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_北欧五国",
+   "subjectName": "北欧五国",
+   "publishYear": "2012",
+   "definition": "其前身是1904年由瑞典议会上下两院中保守派组成的普选选民联合会，1969年改现名，主张深化政治、经济和社会民主以及个人对经济制度有参与的权利和责任。"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "通常指人们思考问题，从某些已知条件出发，推出合理的结论的规律。"
+  },
+  {
+   "cn": "逻辑主义",
+   "en": "logicism",
+   "source": "数学名词",
+   "wordNumber": "02.0304",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "信念逻辑",
+   "en": "belief logic,doxastic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0023",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "关于信念推理的逻辑。"
+  },
+  {
+   "cn": "逻辑归档",
+   "en": "logical filing；logical archiving",
+   "source": "档案学名词",
+   "wordNumber": "06.03.012",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "具有档案价值的电子文件在归档之后仍然存储在业务系统中的归档方式。通常要求将其元数据移交到电子文件管理系统中，档案部门也可以委托业务部门对这些归档文件进行保管和提供利用，并对其管理工作进行指导和监督。"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record\",\"logic record",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊逻辑",
+   "en": "fuzzy logic",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比例尺逻辑（＝尺度逻辑）",
+   "en": "scale logic",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯逻辑",
+   "en": "Bayesian logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序设计逻辑",
+   "en": "programming logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数逻辑",
+   "en": "algebraic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等式逻辑",
+   "en": "equational logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "恶意逻辑",
+   "en": "malicious logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "符号逻辑",
+   "en": "symbolic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概率逻辑",
+   "en": "probabilistic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系逻辑",
+   "en": "relational logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光逻辑",
+   "en": "optical logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳逻辑",
+   "en": "inductive logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程逻辑",
+   "en": "process logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "霍尔逻辑",
+   "en": "Hoare logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算逻辑",
+   "en": "computational logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经典逻辑",
+   "en": "classical logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑摆幅",
+   "en": "logic swing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字技能和就业联盟（欧盟）",
+   "en": "Digital Skills and Jobs Coalition (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程语言",
+   "en": "logic programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑数据模型",
+   "en": "logical data model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BAN类逻辑",
+   "en": "Burrows-Abadi-Needham (BAN) logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民族民主联合政府",
+   "en": "national democratic coalition government",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0082",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "国家为了保障少数民族在地方政权中的平等权利，在民族杂居区，由一定比例的各民族代表参与管理的民主政府组织形式。在向民族区域自治过渡过程中，地方民族民主联合政府曾与民族自治地方政府共存。根据1955 年1"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "放射性同位素测井",
+   "en": "radioisotope log",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.25",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "用注入油井的非密封放射性物质确定流体在井管内或地层孔隙间的运动状态及其分布规律和井身工程质量参数的方法。"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "source": "消毒学",
+   "wordNumber": "6.2.20",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒试验评价杀菌效果时，消毒前后微生物数量的对数值差值。"
+  },
+  {
+   "cn": "灭活对数值",
+   "en": "inactivation log value",
+   "source": "消毒学",
+   "wordNumber": "6.2.21",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒试验评价病毒消毒效果时，消毒前后病毒数量的对数值差值。"
+  },
+  {
+   "cn": "对数线性模型",
+   "en": "log-linear model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.107",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把列联表的网格频数的对数表示为各变量及其交互效应的线性模型。"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.63",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "当微生物数量以对数表示时，杀菌前后微生物减少的对数值。"
+  },
+  {
+   "cn": "对数罗杰斯蒂克模型",
+   "en": "Log-Logistic model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.80",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种非负随机结果变量的统计回归模型。常用于拟合生物活性测定中的S 型剂量-反应曲线。"
+  },
+  {
+   "cn": "测井中子发生器",
+   "en": "neutron generator for well logging",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "由中子管和中子管外接电路组成的装置，中子管外接电路通常由离子源电路和密封加速高压组成。"
+  },
+  {
+   "cn": "油气田测井",
+   "en": "oil and natural gas field for well logging",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.10",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "在油气田使用放射性物质作为示踪剂，确定流体在井管内或地层孔隙间的运动状态及其分布规律和井身工程质量参数的方法。"
+  },
+  {
+   "cn": "对数单位",
+   "en": "logit",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.102",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个事件发生或一个状态存在的几率的自然对数。"
+  },
+  {
+   "cn": "认识",
+   "en": "cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0155",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人脑在实践基础上对客观事物的能动反映，体现了认识主体的能动性、选择性和创造性。包括感性认识和理性认识。从生动的直观到抽象的思维，从抽象的思维到实践，是认识的辩证发展过程。"
+  },
+  {
+   "cn": "对数单位模型",
+   "en": "logit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.103",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将某一变量的某个类别的几率作为因变量，其他变量作为自变量的一种分析定类数据的模型。在数学上等价于对数线性模型。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "弹性碰撞",
+   "en": "elastic collision",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.30",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "碰撞前后，入射粒子状态和靶核的内部状态不变，从而总动能保持不变的一种碰撞。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

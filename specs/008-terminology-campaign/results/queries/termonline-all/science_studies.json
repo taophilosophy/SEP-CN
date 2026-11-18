@@ -1,0 +1,682 @@
+{
+ "key": "science studies",
+ "term": "science studies",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:56:45+00:00",
+ "status": "ok",
+ "note": "variant=science studies; 审定公布名词库=986; 海峡两岸名词对照库=147; 其他来源数据库=80; 预公布名词数据库=108; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "科学学",
+   "en": "scientology,science study",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0007",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "研究科学本身及其运动规律的一门学科。重点从社会和文化的视角研究科学知识和科学活动的本质特点、关系结构、发展规律和社会功能等问题，是科学技术哲学的一个重要组成部分。"
+  },
+  {
+   "cn": "科学的社会研究",
+   "en": "social studies of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.017",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "从社会角度研究科学的领域。主要包括社会对科学发展的影响；科学发展的社会要求、社会条件、社会目标；科学在社会中的扩散和转移；科学的社会评价和社会控制；等等。"
+  },
+  {
+   "cn": "科学的历史研究",
+   "en": "historical studies of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.018",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "从历史学的角度对科学进行研究的领域。主要包括科学的思想史、理论史、社会史等分支，以及科学的通史、学科史和案例史的研究方法、理论基础等相关问题。"
+  },
+  {
+   "cn": "科学技术学",
+   "en": "science and technology studies",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.019",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "对科学技术做整全性研究的学科群。把科学的整全、技术的整全研究以及科学、技术与社会的整全研究有机统一的学科群。"
+  },
+  {
+   "cn": "比较档案学",
+   "en": "comparative studies of archival science",
+   "source": "档案学名词",
+   "wordNumber": "01.01.013",
+   "subjectFullName": "档案学_总论_档案学学科",
+   "subjectName": "档案学学科",
+   "publishYear": "2024",
+   "definition": "采用比较研究方法，研究各国、各地区、各领域、各时期档案学理论与档案工作的规律和特点的档案学分支学科。"
+  },
+  {
+   "cn": "信息管理学",
+   "en": "information management science,information management studies",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.009",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "研究信息或信息资源的产生、加工、利用、传播及管理的特征、规律和方法的学科。"
+  },
+  {
+   "cn": "知识管理学",
+   "en": "knowledge management science,knowledge management studies",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.010",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "研究知识管理活动中理论、方法、技术和一般规律的学科。"
+  },
+  {
+   "cn": "社会科学情报学",
+   "en": "social scientific information science,social science-related information studies",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.166",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "研究社会科学情报的记录、搜集、整理、传递、管理和利用的规律、原理和方法，以及运用信息技术使社会科学情报流通过程、社会科学情报系统保持最佳效能的学科。"
+  },
+  {
+   "cn": "科学",
+   "en": "science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "在社会实践中产生和发展的关于自然、社会和思维知识的体系，是实践经验的总结和精神文明的重要内容，其功能在于揭示规律，指导人们的行动。可分为自然科学、社会科学、思维科学。"
+  },
+  {
+   "cn": "科学",
+   "en": "science",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0001",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "正确反映客观事实的本质和规律的系统化、理论化的知识体系，以及一系列相关的认识和研究活动。"
+  },
+  {
+   "cn": "理科",
+   "en": "science",
+   "source": "教育学名词",
+   "wordNumber": "08.074",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。（1）广义的理科泛指理、工、农、医等学科。与广义的文科相对应。（2）狭义的理科指数学、物理、化学、天文、地学、生物等自然科学领域的基础理论学科。"
+  },
+  {
+   "cn": "科研2.0",
+   "en": "science 2.0",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1318",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "科学家利用维基百科、博客等协作技术分享新发现，包括原始数据以及一些初期理论的研究方式。"
+  },
+  {
+   "cn": "留学",
+   "en": "study abroad,overseas study",
+   "source": "教育学名词",
+   "wordNumber": "08.163",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "某国学习者到别国学校或科研机构接受相关层次教育的行为。根据承担留学经费的不同可分为“公派留学”或“自费留学”。"
+  },
+  {
+   "cn": "科技档案管理学",
+   "en": "studies of science and technology archives management",
+   "source": "档案学名词",
+   "wordNumber": "01.01.007",
+   "subjectFullName": "档案学_总论_档案学学科",
+   "subjectName": "档案学学科",
+   "publishYear": "2024",
+   "definition": "专门研究科学技术档案管理的一般理论、原则、方法的档案学分支学科。"
+  },
+  {
+   "cn": "科技文件管理学",
+   "en": "studies of science and technology records management",
+   "source": "档案学名词",
+   "wordNumber": "01.01.008",
+   "subjectFullName": "档案学_总论_档案学学科",
+   "subjectName": "档案学学科",
+   "publishYear": "2024",
+   "definition": "专门研究科技文件形成、积累和归档等的档案学分支学科。"
+  },
+  {
+   "cn": "养羊学",
+   "en": "sheep science,goat science",
+   "source": "畜牧学名词",
+   "wordNumber": "01.010",
+   "subjectFullName": "畜牧学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "研究羊的生物学特性与养羊生产有关理论及技术的学科。"
+  },
+  {
+   "cn": "计算科学",
+   "en": "computing science,computational science",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0069",
+   "subjectFullName": "计算机科学技术_通论_计算机与社会",
+   "subjectName": "计算机与社会",
+   "publishYear": "2018",
+   "definition": "（1）“计算机科学”的又称。（2）用计算的方法研究（物理、化学、生物等）其他学科领域的科学，如计算物理学、计算化学、计算生物学等。"
+  },
+  {
+   "cn": "海洋科学",
+   "en": "marine science,ocean science",
+   "source": "海洋科技名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "海洋科学技术_总论_一级分支学科名词",
+   "subjectName": "一级分支学科名词",
+   "publishYear": "2007",
+   "definition": "研究海洋的自然现象、变化规律及其与大气圈、岩石圈、生物圈的相互作用以及开发、利用、保护海洋有关的知识体系。"
+  },
+  {
+   "cn": "交叉学科",
+   "en": "interdisciplinary studies",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.038",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "具有两种含义：一是指包括众多交叉学科在内的新兴学科群；二是指一门以学科交叉现象、方法、趋势作为研究对象的高层次科学。在后一种意义上又称为“科学交叉学”或“跨学科科学”。"
+  },
+  {
+   "cn": "媒介研究",
+   "en": "media studies",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.074",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "英国对传播研究的总称。泛指对以传媒为中心的社会传播系统的研究。"
+  },
+  {
+   "cn": "决策研究",
+   "en": "decision study\",\"D study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概化研究",
+   "en": "generalizability study\",\"G study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "海洋科学",
+   "en": "marine science\",\"ocean science",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "超级练习曲",
+   "en": "Transcendental Studies",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Liszt, Franz (Ferenc)"
+  },
+  {
+   "cn": "比较研究",
+   "en": "comparative studies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "感知研究",
+   "en": "perceptual studies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区域研究",
+   "en": "regional studies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "个例研究",
+   "en": "case study",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可行性研究",
+   "en": "feasibility study",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实验室研究",
+   "en": "laboratory study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "修女研究",
+   "en": "nun study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "霍桑研究",
+   "en": "Hawthorne study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "剥夺研究",
+   "en": "deprivation study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然研究",
+   "en": "naturalistic study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动物研究",
+   "en": "animal study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "练习曲",
+   "en": "exercise\",\"study",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "文件研究",
+   "en": "document study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "领养研究",
+   "en": "adoption study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在主义研究",
+   "en": "existential study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双生子研究",
+   "en": "twin study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "格",
+   "en": "Examine / Study",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公民科学",
+   "en": "citizen science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉利德科学公司",
+   "en": "Gilead Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学的社会研究",
+   "en": "social studies of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "一个多学科交叉的领域，依其历史脉络，可以分为以实证主义传统为准则的科学社会学、以“强纲领”为核心的科学知识社会学和以常人方法论为基础的田野式科学研究。"
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "历史溯源法",
+   "en": "longitudinal studies",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0665",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在某一社区建立固定调查点，对于一个群体进行有间隔性的长期持续不断的观察，以研究这一群体在总体上或局部上发生的演变，从中发现历史演变的特点、原因和规律。"
+  },
+  {
+   "cn": "受众研究",
+   "en": "audience studies",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.1",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "对大众媒介的传播对象的研究。通过社会调查或社会科学的各种统计和分析技术把握大众传播对象的各项特征，如年龄、性别、教育程度、心理特点等，了解传播信息对接受者的影响和接受程度，以便改善和提升传播效果。"
+  },
+  {
+   "cn": "身体研究",
+   "en": "body studies",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.6",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "探讨高度现代性社会条件下人与其身体之间关联方式的反思性，亦即自我、身体与死亡之间关系的文明化身体的跨学科研究。"
+  },
+  {
+   "cn": "青年研究",
+   "en": "youth studies",
+   "source": "社会学名词",
+   "wordNumber": "3.16.2.3",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年研究",
+   "subjectName": "青年研究",
+   "publishYear": "2025",
+   "definition": "关注青年的发展、历史、文化、心理和政治的跨学科研究领域。不仅研究具体的青年文化，也研究青年在所处社会中的关系、角色和责任，研究者来自社会学、教育学、文学、历史、政治学、宗教学等人文社会科学学科。"
+  },
+  {
+   "cn": "双语学",
+   "en": "bilingual studies",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.002",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究言语社区内使用的两种或多种语言或方言间关系的学问。"
+  },
+  {
+   "cn": "队列研究",
+   "en": "cohort study",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "将研究人群按是否暴露于某因素或暴露的程度进行分组，在特定的观察时间内，追踪各组与暴露因素相关的结局并比较其差异，从而判定暴露因素与结局之间有无因果关联及关联程度的一种观察性研究方法。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对发生在某一或较少数自然条件下的社会现象进行深入理解的研究策略。"
+  },
+  {
+   "cn": "跨文化研究",
+   "en": "crosscultural study",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.10",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "对他者文化进行的研究行为。起初是人类学之父泰勒(E.Tylor）、摩尔根(L.H.Morgan）建立起的一种解释他者社会文化现象的比较方法，也是当初人类学中文化进化论者广泛使用的方法，运用传统的历史资"
+  },
+  {
+   "cn": "案例分析",
+   "en": "case study",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "将案例和一些列思考题提供给学习者，要求学习者根据自己的认知（所学过的知识、生活经验、价值观等）进行思考和分析讨论，提出自己的看法和办法的教学方法。"
+  },
+  {
+   "cn": "学习指导",
+   "en": "study guidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "在教学环境中，教师以学生学习的心理过程为依据，为学生的自主学习等创设有利环境，对学生的学习动机、过程、方法进行指导和引导，从而促进学生发展的教学行为方式。"
+  },
+  {
+   "cn": "学习策略",
+   "en": "study strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "学生在学习过程中对信息的操纵和加工的能力，也是提高学习效率的关键。"
+  },
+  {
+   "cn": "学习方法",
+   "en": "study method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "通过学习实践总结出的具有通用性的解决相关问题的规则和程序。"
+  },
+  {
+   "cn": "文献计量法",
+   "en": "bibliometric study",
+   "source": "社会医学名词",
+   "wordNumber": "4.7.5",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "文献研究",
+   "publishYear": "2025",
+   "definition": "针对某一具体研究问题所发表的所有文献，采用统计学量化分析方法描述文献在年代、作者、主题等方面的分布结构及变化规律，从而评价和预测该研究的现状及发展趋势的方法。"
+  },
+  {
+   "cn": "流行病学调查",
+   "en": "epidemiologic study",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "对涉及食物中毒人群中的疾病或者健康状况分布及其决定因素进行调查研究，提出控制食物中毒的措施对策"
+  },
+  {
+   "cn": "社区研究",
+   "en": "community study",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0673",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "使用人类学中的田野工作、参与观察、访谈等手段，在具有文化相似性的小型社会中进行相关研究的社会科学基础研究方法。人类学家主张将社区视为一个“整体”，对社区中的政治、经济及文化等方面进行彻底而细微的观察与"
+  },
+  {
+   "cn": "队列研究",
+   "en": "cohort study",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.38",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "将研究人群按是否暴露于某因素或暴露的程度进行分组，在特定的观察时间内，追踪各组与暴露因素相关的结局并比较其差异，从而判定暴露因素与结局之间有无因果关联及关联程度的一种观察性研究方法。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对特定个体或组织进行观察和调查，在充分认识问题或事件的特殊性的基础上来考虑普遍性的研究方法。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0658",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "以一个人、一个团体或一个事件为研究对象，广泛搜集各种资料，综合运用各种方法（包括质的方法和量的方法）和分析技术，对复杂情境中的现象进行深入探究的研究方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

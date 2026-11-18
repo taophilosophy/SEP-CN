@@ -1,0 +1,652 @@
+{
+ "key": "electromagnetism",
+ "term": "electromagnetism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:15:04+00:00",
+ "status": "ok",
+ "note": "variant=electromagnetism; 审定公布名词库=562; 海峡两岸名词对照库=65; 其他来源数据库=13; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "电磁学",
+   "en": "electromagnetism",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0004",
+   "subjectFullName": "地球物理学_地球电磁学_地球电磁学总论",
+   "subjectName": "地球电磁学总论",
+   "publishYear": "2022",
+   "definition": "(1)广义：包含电学和磁学。 (2)狭义：研究电性与磁性交互关系的学科。 "
+  },
+  {
+   "cn": "电磁学",
+   "en": "electromagnetism",
+   "source": "物理学名词",
+   "wordNumber": "03.0003",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电磁学",
+   "en": "electromagnetism,electromagne- tics",
+   "source": "电气工程名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "电磁体",
+   "en": "electromagnet",
+   "source": "电力名词",
+   "wordNumber": "01.117",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "主要由电流产生磁场的磁体。"
+  },
+  {
+   "cn": "电磁体",
+   "en": "electromagnet",
+   "source": "物理学名词",
+   "wordNumber": "03.0437",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电磁吸盘",
+   "en": "electromagnet",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0126",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_机构和零部件",
+   "subjectName": "机构和零部件",
+   "publishYear": "2013",
+   "definition": "靠磁力自行吸取导磁物品的取物装置。通常靠线圈通电激磁吸料，断电去磁卸料。"
+  },
+  {
+   "cn": "电磁体",
+   "en": "electromagnet",
+   "source": "电气工程名词",
+   "wordNumber": "04.019",
+   "subjectFullName": "电气工程_磁性材料",
+   "subjectName": "磁性材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "电磁铁",
+   "en": "electromagnet",
+   "source": "电气工程名词",
+   "wordNumber": "09.187",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "土壤电磁性",
+   "en": "soil electromagnetism",
+   "source": "土壤学名词",
+   "wordNumber": "03.317",
+   "subjectFullName": "土壤学_土壤物理",
+   "subjectName": "土壤物理",
+   "publishYear": "1998",
+   "definition": "反映土壤各种电磁性质的统称。包括土壤电性和磁性。"
+  },
+  {
+   "cn": "地球电磁学",
+   "en": "geo-electromagnetics",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0001",
+   "subjectFullName": "地球物理学_地球电磁学_地球电磁学总论",
+   "subjectName": "地球电磁学总论",
+   "publishYear": "2022",
+   "definition": "基于电磁原理和方法研究日地空间和地球内部介质的电性、磁性特征，以及地电场、地磁场的空间分布和随时间变化规律及其应用的地球物理学分支学科。 "
+  },
+  {
+   "cn": "计算电磁学",
+   "en": "computational electromagnetics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1194",
+   "subjectFullName": "计算机科学技术_计算机应用_科学与工程计算",
+   "subjectName": "科学与工程计算",
+   "publishYear": "2018",
+   "definition": "通过数值模拟方法研究电磁学问题的学科。"
+  },
+  {
+   "cn": "电磁阀",
+   "en": "electromagnetic valve",
+   "source": "农学名词",
+   "wordNumber": "12.119",
+   "subjectFullName": "农业水利_农田灌溉",
+   "subjectName": "农田灌溉",
+   "publishYear": "2025",
+   "definition": "以电磁力为动力进行启闭的阀门。"
+  },
+  {
+   "cn": "电磁流量计",
+   "en": "electromagnetic flowmeter",
+   "source": "农学名词",
+   "wordNumber": "12.269",
+   "subjectFullName": "农业水利_农业水管理",
+   "subjectName": "农业水管理",
+   "publishYear": "2025",
+   "definition": "应用电磁感应原理，根据导电流体通过外加磁场时感生的电动势来测量管道内导电流体流量的设备。"
+  },
+  {
+   "cn": "电磁波谱",
+   "en": "electromagnetic spectrum",
+   "source": "天文学名词",
+   "wordNumber": "04.316",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "各种电磁波按照波长或频率顺序形成的排列。一般包括射电、红外、光学、紫外、X射线、γ射线等波段的电磁波。"
+  },
+  {
+   "cn": "电磁相互作用",
+   "en": "electromagnetic interaction",
+   "source": "核科学技术名词",
+   "wordNumber": "1.067",
+   "subjectFullName": "核科学技术_核物理_相互作用类",
+   "subjectName": "相互作用类",
+   "publishYear": "2024",
+   "definition": "自然界四种基本相互作用中的一种，是带电粒子之间通过电磁场传递的相互作用。在1 fm距离上，其强度小于强相互作用，而大于弱相互作用和引力相互作‍用。"
+  },
+  {
+   "cn": "电磁湍流",
+   "en": "electromagnetic turbulence",
+   "source": "核科学技术名词",
+   "wordNumber": "3.238",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "由电磁不稳定性非线性发展导致的湍流。在磁约束聚变等离子体中，电磁湍流主要由磁流体不稳定性和阿尔芬不稳定性产生。"
+  },
+  {
+   "cn": "电磁孤立子",
+   "en": "electromagnetic soliton",
+   "source": "核科学技术名词",
+   "wordNumber": "3.363",
+   "subjectFullName": "核科学技术_核聚变_惯性约束聚变",
+   "subjectName": "惯性约束聚变",
+   "publishYear": "2024",
+   "definition": "在低密度等离子体中缓慢传播的空间局域电磁‍波。"
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "核科学技术名词",
+   "wordNumber": "4.005",
+   "subjectFullName": "核科学技术_辐射物理_一般性术语",
+   "subjectName": "一般性术语",
+   "publishYear": "2024",
+   "definition": "能量以电磁波形式在空间传‍播。"
+  },
+  {
+   "cn": "电磁应力",
+   "en": "electromagnetic stress",
+   "source": "核科学技术名词",
+   "wordNumber": "4.081",
+   "subjectFullName": "核科学技术_辐射物理_辐射效应与损伤",
+   "subjectName": "辐射效应与损伤",
+   "publishYear": "2024",
+   "definition": "电磁场与电气或电子系统相互作用，在系统部件上产生的电压、电流或电‍荷。"
+  },
+  {
+   "cn": "电磁耦合",
+   "en": "electromagnetic coupling",
+   "source": "核科学技术名词",
+   "wordNumber": "4.083",
+   "subjectFullName": "核科学技术_辐射物理_辐射效应与损伤",
+   "subjectName": "辐射效应与损伤",
+   "publishYear": "2024",
+   "definition": "电磁场或电磁能从一个系统转移到另一个系统的现‍象。"
+  },
+  {
+   "cn": "电磁铁",
+   "en": "electromagnet",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电磁谱",
+   "en": "electromagnetic spectrum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电磁流量计",
+   "en": "electromagnetic flowmeter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电磁分离［法］",
+   "en": "electromagnetic separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电磁磁选机",
+   "en": "electromagnetic separator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电磁约束成形",
+   "en": "electromagnetic shaping",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电磁悬浮",
+   "en": "electromagnetic levitation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电磁成形",
+   "en": "electromagnetic forming",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电磁纯铁",
+   "en": "electromagnetic iron",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电磁分离[法]",
+   "en": "electromagnetic separation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "电磁波",
+   "en": "electromagnetic wave",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电磁场",
+   "en": "electromagnetic field",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电磁波",
+   "en": "electromagnetic wave",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电磁波谱",
+   "en": "electromagnetic spectrum",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电磁场",
+   "en": "electromagnetic field",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电磁波谱",
+   "en": "electromagnetic spectrum",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "电磁屏蔽技术",
+   "en": "electromagnetic shielding technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电磁辐射",
+   "en": "electromagnetic radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "电场和磁场交互变化产生的电磁波向空中发射或泄漏的现象。按其波长或频率分为高频电磁场、微波、红外线、可见光、紫外线、X 射线和γ射线等。"
+  },
+  {
+   "cn": "电磁轨道炮",
+   "en": "electromagnetic railgun",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.2.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "采用电磁轨道发射技术、对制导炮弹无烧蚀加速的先进定向动能武器。借发射系统产生精确可控电磁力，加速携带电枢的弹丸，发射初速通常达2～3km/s，以获打击目标所需动能，有效提升制导炮弹射程与毁伤效果。"
+  },
+  {
+   "cn": "电磁辐射污染",
+   "en": "electromagnetic radiation pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "人类使用产生电磁辐射的器具而泄露的电磁能量流传播到室内外空间中，其量超过环境本底值，且性质、频率、强度和持续时间等综合影响引起周围受辐射人群的不适感，并使健康和生态环境受到损害的现象。"
+  },
+  {
+   "cn": "电磁脉冲武器",
+   "en": "electromagnetic pulse weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.1.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "一种利用高能射频辐射为杀伤因素，以干扰和破坏敌方电子系统为主要目标的武器。其电磁波能量分散在一个很宽的频段内，任何一种频率对应的能量都极小，对有长电缆的设备干扰和破坏极大。"
+  },
+  {
+   "cn": "核电磁脉冲",
+   "en": "nuclear electromagnetic pulse",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.58",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸瞬间，产生于爆心周围的一个强大的电磁场。核武器的重要破坏因素之一，由核爆炸瞬间放出的、约占爆炸总能量0.1%的r 射线对爆心周围空气的电离而产生，其作用半径与爆炸方式、当量大小有关。"
+  },
+  {
+   "cn": "电磁脉冲武器损伤",
+   "en": "injuries of electromagnetic pulse weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1.1.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "通过电磁脉冲的能量对目标造成的中枢神经、内分泌、心脏传导、造血、免疫、生殖等系统的损伤。早期为实质细胞变性坏死、血液循环障碍、衰竭及恶病质；晚后期为造血和免疫重建不良、肿瘤生长等。"
+  },
+  {
+   "cn": "核爆炸电磁效应",
+   "en": "electromagnetic effect of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.57",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸产生的电磁场对无线电通信和雷达观测等装备引起的干扰和破坏效应。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

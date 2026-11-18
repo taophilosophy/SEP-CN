@@ -1,0 +1,402 @@
+{
+ "key": "minimalism",
+ "term": "minimalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:10:28+00:00",
+ "status": "ok",
+ "note": "variant=minimalism; 审定公布名词库=201; 海峡两岸名词对照库=13; 其他来源数据库=3; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "极简主义",
+   "en": "minimalism",
+   "source": "风景园林名词",
+   "wordNumber": "06.0008",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "生活及艺术的一种风格，本意在于极力追求简约，并且拒绝违反这一形态的任何事物。其特色是将设计的元素、色彩、照明、原材料简化到最少的程度，对色彩、材料的质感要求很高。简约的空间设计通常非常含蓄，往往能达到"
+  },
+  {
+   "cn": "极少主义",
+   "en": "minimalism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0368",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "产生于20世纪90年代的，继承和发展早期现代建筑“简约”特征的思潮。该潮流信奉密斯“少就是多”的口号，去繁从简，以获得建筑最本质的元素和简洁明快的空间。它重在追求空间质量和表现材料，在其简洁的表面下往"
+  },
+  {
+   "cn": "极小化",
+   "en": "minimization",
+   "source": "数学名词",
+   "wordNumber": "011.0018",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "求极小[值]",
+   "en": "minimizing",
+   "source": "数学名词",
+   "wordNumber": "011.0023",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "局部极小点",
+   "en": "local minimizer",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.047",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "对于优化问题可行域内的一点，若存在该点的一个开邻域，其中所有可行点的目标函数值均不小于（即大于或等于）该点的目标函数值，则称该点为局部极小点。"
+  },
+  {
+   "cn": "全局极小点",
+   "en": "global minimizer",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.066",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "对于优化问题可行域内的一点，若可行域内所有点的目标函数值均不小于（即大于或等于）该点的目标函数值，则称该点为全局极小点。"
+  },
+  {
+   "cn": "能量最小化",
+   "en": "energy minimization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.177",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "在分子力学中，根据适合的力场计算分子各种可能构象的势能，寻找势能最低点的过程。"
+  },
+  {
+   "cn": "废物最小化",
+   "en": "waste minimization",
+   "source": "兽医学名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "兽医学_兽医公共卫生学",
+   "subjectName": "兽医公共卫生学",
+   "publishYear": "2023",
+   "definition": "将生产过程中产生的废弃物当作一种资源,通过恢复和转变使之能够循环使用、变为肥料或者清洁能源产品,使废物最终产生量最小的过程。"
+  },
+  {
+   "cn": "基本培养基",
+   "en": "minimal medium ",
+   "source": "草学名词",
+   "wordNumber": "5.0059",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "必需基因组",
+   "en": "minimal genome",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.382",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一个生物能在某一特定环境下生存所需要的最少的基因集合。"
+  },
+  {
+   "cn": "最小干预",
+   "en": "minimal intervention",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.087",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "以保证文物古迹安全为前提，避免过度干预影响文物古迹价值及历史文化信息的保护方式。"
+  },
+  {
+   "cn": "轻度镇静",
+   "en": "minimal sedation",
+   "source": "消化内镜学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "消化内镜学_消化内镜麻醉技术_麻醉方式",
+   "subjectName": "麻醉方式",
+   "publishYear": "2021",
+   "definition": "镇静后患者对口头指令可做出正常反应，认知功能和身体协调能力可能受损，但气道反射、通气和心血管功能不受影响的状态。"
+  },
+  {
+   "cn": "最小基因组",
+   "en": "minimal genome",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.095",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "能维持一个生物体独立生活所需的最少基因个数的基因组。"
+  },
+  {
+   "cn": "支出最小化",
+   "en": "expenditure minimization",
+   "source": "经济学名词",
+   "wordNumber": "03.063",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "给定效用水平目标的情况下，消费者通过选择商品消费量来达到全部支出最小的行为。支出最小化与效用最大化呈对偶关系。"
+  },
+  {
+   "cn": "极小度",
+   "en": "minimal degree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0229",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果一个图灵度 a ＞0，而且(0, a )=<img src='/root/syzx/static/spz/jsjkx3.02.0189.001.png'/>，即不存在 x 使得0＜ x ＜ a ，"
+  },
+  {
+   "cn": "极小对",
+   "en": "minimal pair",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0241",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个图灵度的对( a,b )使得 a≠0,b≠0 ，但 a∧b =0。 "
+  },
+  {
+   "cn": "极小熵",
+   "en": "minimal entropy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0399",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个随机变量中所包含的纯随机比特数。令 X 是一个随机变量。 X 的极小熵，记为<img src='/root/syzx/static/spz/jsjkx3.02.0399.001.png'/>(X)"
+  },
+  {
+   "cn": "最低保护",
+   "en": "minimal protection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0221",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "美国可信计算机系统评估准则中最低安全等级的名称。对计算机系统进行的保护措施没有达到更高级别。"
+  },
+  {
+   "cn": "最小值问题",
+   "en": "minimization problem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0786",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "组合优化中求解最小值的一类问题。"
+  },
+  {
+   "cn": "最小母群",
+   "en": "minimal supergroup",
+   "source": "化学名词",
+   "wordNumber": "04.1838",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "当1个母群G的最大子群是群g，那么这个母群G相对于最大子群g，称为最小母群。"
+  },
+  {
+   "cn": "简约主义",
+   "en": "minimalism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "废物最小化",
+   "en": "waste minimization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最小回路",
+   "en": "minimal tour",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最低保护",
+   "en": "minimal protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本培养基，合成培养基",
+   "en": "minimal medium",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最低血凝剂量",
+   "en": "minimal hemagglutinating dose",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最小溶血量",
+   "en": "minimal hemolytic dose",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最小生成树",
+   "en": "minimal spanning tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本培养基",
+   "en": "MM （=minimal medium）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最小变化法",
+   "en": "method of minimal change",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最小约束平差",
+   "en": "adjustment using minimal  constraints",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "有穷自动机最小化",
+   "en": "minimization of finite automaton",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二分休止符",
+   "en": "half note rest\",\"minim rest",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "将疫情对经济社会发展的影响降到最低",
+   "en": "to minimize the impact of the epidemic on social and economic development",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "尽力阻止疫情跨境传播",
+   "en": "to prevent the epidemic from spreading across borders; to minimize cross-border spread ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最小杀菌浓度",
+   "en": "minimal bactericidal concentration, MBC",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在一定时间内，消毒剂杀灭试验菌达到消毒合格所需的最低浓度。"
+  },
+  {
+   "cn": "最小致死剂量",
+   "en": "minimal lethal dose, MLD",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "仅引起一组受试实验动物中个别动物死亡的最小剂量，从理论上讲，低于此剂量即不能引起死亡。"
+  },
+  {
+   "cn": "成本最小化分析",
+   "en": "cost-minimization analysis, CMA",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在项目的产出或效果、效益和效用没有差别的情况下比较不同措施的成本，选择成本最小的卫生保健项目、计划或干预措施的分析方法。"
+  },
+  {
+   "cn": "最小重要变化",
+   "en": "minimal important change, MIC",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "患者角度认为有治疗或护理效果的最小分数变化。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

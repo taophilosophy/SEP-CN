@@ -1,0 +1,662 @@
+{
+ "key": "dna sequence",
+ "term": "DNA sequence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:26:54+00:00",
+ "status": "ok",
+ "note": "variant=DNA sequence; 审定公布名词库=1827; 海峡两岸名词对照库=1097; 其他来源数据库=40; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "DNA序列",
+   "en": "DNA sequence",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.229",
+   "subjectFullName": "放射医学与防护_放射生物学_放射分子生物学",
+   "subjectName": "放射分子生物学",
+   "publishYear": "2014",
+   "definition": "在DNA片段、基因、染色体或整个基因组中碱基对的线性排列顺序。"
+  },
+  {
+   "cn": "DNA测序",
+   "en": "DNA sequencing",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0589",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_测序技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "对DNA分子的核苷酸排列顺序进行测定的方法。即测定组成DNA分子的碱基（A、T、G、C）排列顺序。"
+  },
+  {
+   "cn": "DNA测序",
+   "en": "DNA sequencing",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0521",
+   "subjectFullName": "食品科学技术_食品科学_食品生物技术_食品微生物基因工程",
+   "subjectName": "食品微生物基因工程",
+   "publishYear": "2020",
+   "definition": "对DNA分子的核苷酸排列顺序的测定，也就是测定组成DNA分子中A、T、G、C的排列顺序。常用的方法有桑格-库森法和马克萨姆-吉尔伯特法等。"
+  },
+  {
+   "cn": "DNA测序",
+   "en": "DNA sequencing",
+   "source": "植物学名词",
+   "wordNumber": "16.0314",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "对DNA分子的核苷酸排列顺序进行测定的方法。即测定组成DNA分子的A、T、G、C的排列顺序。常用的方法有桑格–库森法和马克萨姆–吉尔伯特法等。"
+  },
+  {
+   "cn": "DNA测序",
+   "en": "DNA sequencing",
+   "source": "药学名词",
+   "wordNumber": "05.395",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "对DNA分子的核苷酸排列顺序的测定，也就是测定组成DNA分子的A、T、G、C的排列顺序。常用的方法有桑格–库森法和马克萨姆-吉尔伯特法等。"
+  },
+  {
+   "cn": "DNA测序",
+   "en": "DNA sequencing",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.069",
+   "subjectFullName": "放射医学与防护_放射生物学_放射生物学实验技术",
+   "subjectName": "放射生物学实验技术",
+   "publishYear": "2014",
+   "definition": "对特定DNA 片段的碱基序列进行分析的方法。即测定腺嘌呤(A)、胸腺嘧啶(T)、胞嘧啶(C)与鸟嘌呤的(G)排列方式。"
+  },
+  {
+   "cn": "DNA测序",
+   "en": "DNA sequencing",
+   "source": "细胞生物学名词",
+   "wordNumber": "011.260",
+   "subjectFullName": "细胞生物学_细胞生物学技术",
+   "subjectName": "细胞生物学技术",
+   "publishYear": "2009",
+   "definition": "对DNA分子的核苷酸排列顺序的测定，也就是测定组成DNA分子的A、T、G、C的排列顺序。常用的方法有桑格-库森法和马克萨姆-吉尔伯特法等。"
+  },
+  {
+   "cn": "DNA序列测定",
+   "en": "DNA sequencing",
+   "source": "遗传学名词",
+   "wordNumber": "08.100",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "测定DNA分子的核苷酸序列。"
+  },
+  {
+   "cn": "重复[DNA]序列",
+   "en": "repetitive [DNA] sequence",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.297",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "DNA分子中重复出现的核苷酸序列。"
+  },
+  {
+   "cn": "重复[DNA]序列",
+   "en": "repetitive [DNA] sequence",
+   "source": "遗传学名词",
+   "wordNumber": "08.014",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "DNA分子中重复出现的核苷酸序列。"
+  },
+  {
+   "cn": "单一序列DNA",
+   "en": "unique sequence DNA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0211",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "在单倍体基因组中以单拷贝形式存在的DNA序列。"
+  },
+  {
+   "cn": "DNA纳米球测序",
+   "en": "DNA nanoball sequencing",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0612",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_测序技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "一种用于全基因组测序的高通量DNA测序技术。利用滚环复制方式扩增基因组DNA片段，形成DNA纳米球，再与荧光探针在微阵列芯片上进行聚合反应，随后用高分辨率成像系统对光信号进行采集，数字化处理后即可高通"
+  },
+  {
+   "cn": "荧光辅助DNA测序",
+   "en": "fluorescenceaided DNA sequencing",
+   "source": "生物物理学名词",
+   "wordNumber": "06.170",
+   "subjectFullName": "生物物理学_生物信息学_系统生物学与合成生物学",
+   "subjectName": "系统生物学与合成生物学",
+   "publishYear": "2018",
+   "definition": "将组成DNA分子的四种碱基利用不同颜色进行荧光标记，通过检测与待测单链DNA分子配对的各个碱基的荧光信号来确定DNA序列组成的方法。"
+  },
+  {
+   "cn": "端粒DNA序列",
+   "en": "telomere DNA sequence",
+   "source": "细胞生物学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "细胞生物学_细胞化学",
+   "subjectName": "细胞化学",
+   "publishYear": "2009",
+   "definition": "位于染色体两端的DNA重复序列。可保持染色体的独立性和稳定性。"
+  },
+  {
+   "cn": "DNA序列多态性",
+   "en": "DNA sequence polymorphism",
+   "source": "遗传学名词",
+   "wordNumber": "08.039",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "同一物种的不同基因组DNA等位序列之间的差异。包括长度多态、限制性酶切位点多态及单核苷酸多态等。"
+  },
+  {
+   "cn": "着丝粒DNA序列",
+   "en": "centromere DNA sequence",
+   "source": "细胞生物学名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "细胞生物学_细胞化学",
+   "subjectName": "细胞化学",
+   "publishYear": "2009",
+   "definition": "真核细胞染色体着丝粒部位可与动粒结合的DNA序列。"
+  },
+  {
+   "cn": "DNA序列家族",
+   "en": "DNA sequence family,sequence family",
+   "source": "遗传学名词",
+   "wordNumber": "08.012",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "DNA分子变性后可复性形成稳定的碱基配对双链分子的一组序列。序列之间有很高的同源性。"
+  },
+  {
+   "cn": "荧光法DNA测序",
+   "en": "fluorescence-based DNA sequencing",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0596",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_测序技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "利用4种不同荧光试剂分别标记4种双脱氧核苷酸进行DNA测序的方法。"
+  },
+  {
+   "cn": "DNA甲基化组测序",
+   "en": "DNA methy- lome sequencing",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0639",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_测序技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "以单碱基分辨率在全基因组范围内鉴定和定量DNA甲基化状态的一种技术。可获得全基因组范围内所有C位点的甲基化数据。主要方法有重亚硫酸盐测序法、甲基化芯片技术和抗体沉淀富集分析等。"
+  },
+  {
+   "cn": "转移DNA",
+   "en": "transfer DNA,T-DNA",
+   "source": "植物学名词",
+   "wordNumber": "16.0287",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "整合到土壤农杆菌Ti质粒中的一段DNA。有助于将外源DNA插入植物基因组中。"
+  },
+  {
+   "cn": "DNA测序",
+   "en": "DNA sequencing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DNA测序",
+   "en": "DNA sequencing",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA测序",
+   "en": "DNA sequencing",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA序列测定,DNA测序",
+   "en": "DNA sequencing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA序列查询",
+   "en": "DNA sequence searching",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA序列家族",
+   "en": "DNA sequence family",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "简单序列DNA",
+   "en": "simple sequence DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重复DNA序列",
+   "en": "repetitive DNA sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单一［序列］DNA",
+   "en": "unique ［sequence］ DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单一序列DNA",
+   "en": "unique sequence DNA",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单一序列DNA",
+   "en": "unique-sequence DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同组异序DNA序列",
+   "en": "isometric DNA sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非重复DNA(=单一［序列］DNA)",
+   "en": "nonrepetitive DNA(=unique ［sequence］ DNA)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "端粒DNA序列",
+   "en": "telomere DNA sequence",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA序列多态性",
+   "en": "DNA sequence polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DNA序列多态性",
+   "en": "DNA sequence polymorphism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "着丝粒DNA序列",
+   "en": "centromere DNA sequence",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单拷贝DNA(=单一［序列］DNA)",
+   "en": "single-copy DNA(=unique ［sequence］ DNA)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "荧光法DNA测序",
+   "en": "fluorescence-based DNA sequencing",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA化学测序法(=马克萨姆-吉尔伯特法)",
+   "en": "chemical method of DNA sequencing(=Maxam-Gilbert DNA sequencing)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA密码",
+   "en": "DNA cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用数据DNA",
+   "en": "credit data DNA",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DNA",
+   "en": "DNA barcode",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.59",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "生物体内能够代表该物种的、标准的、有足够变异的、易扩增且相对较短的DNA 片段。"
+  },
+  {
+   "cn": "DNA",
+   "en": "DNA fingerprinting",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "将病原体的染色体DNA 用限制性内切酶消化，分离得到不同大小的DNA 片段，再以重复序列中的共有序列作为核酸探针进行杂交，对得到的不同病原体DNA 片段的带型图谱(即DNA 指纹图谱，对每一个体都是独"
+  },
+  {
+   "cn": "DNA损伤",
+   "en": "DNA damage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "辐射等外源因素导致DNA分子结构的异常改变。包括链断裂、碱基破坏、交联等。"
+  },
+  {
+   "cn": "DNA交联",
+   "en": "DNA crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "不同DNA链的交错连接，是细胞内发生严重损伤的表现。可影响DNA的正常复制功能，导致突变或肿瘤。"
+  },
+  {
+   "cn": "DNA修复",
+   "en": "DNA repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA受损后细胞恢复DNA原始碱基序列或结构完整性的生物化学过程。"
+  },
+  {
+   "cn": "数字化DNA",
+   "en": "digital DNA",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.58",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "利用数字化技术记录、存储、追踪和查询食品中具有物种、种群、个体等DNA 信息，实现食品从原料采购、加工制作、仓储运输、销售等环节的透明化管理和记录，应用于食品溯源和安全监管。"
+  },
+  {
+   "cn": "DNA链内交联",
+   "en": "DNA intrastrand crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA分子同一条链中的两个碱基相互共价结合。"
+  },
+  {
+   "cn": "DNA链间交联",
+   "en": "DNA interstrand crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA双螺旋结构中的一条链上的碱基与同一分子另一条链上的碱基以共价键结合。"
+  },
+  {
+   "cn": "DNA蛋白质交联",
+   "en": "DNA protein crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA与蛋白质以共价键结合。"
+  },
+  {
+   "cn": "DNA双链断裂",
+   "en": "DNA double-strand breakage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA损伤的一种形式，DNA双螺旋结构中两条互补链于同一对应处或紧密相邻处同时断裂。"
+  },
+  {
+   "cn": "DNA单链断裂",
+   "en": "DNA single-strand breakage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA损伤的一种形式，DNA双螺旋结构中有一条链断裂。"
+  },
+  {
+   "cn": "胎儿游离DNA检测",
+   "en": "cell-free fetal DNA test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.2.3.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "通过抽取孕妇静脉血，对胎儿游离DNA进行测序，从而推断胎儿患病风险的技术。"
+  },
+  {
+   "cn": "靶向测序",
+   "en": "targeted sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "利用多重聚合酶链反应或杂交捕获的方法对目标基因 组区域进行富集并测序的一种技术。优 势在于有效降低成本、获得更深的覆盖度。"
+  },
+  {
+   "cn": "测序技术",
+   "en": "sequencing techniques",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.70",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对多聚体中单体排列顺序进行测定的方法。如测定DNA、寡肽、多糖链基本组成单位残基(核苷酸、氨基酸、单糖等)的排列顺序。"
+  },
+  {
+   "cn": "抗双链DNA抗体",
+   "en": "anti-double stranded DNA antibody, anti-dsDNA antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "系统性红斑狼疮的高度特异性抗体，与系统性红斑狼疮疾病活动度密切相关。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "二代测序",
+   "en": "next-generation sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一次可以对几十万至数亿条DNA模板同时进行序列测定的技术。是对传统桑格 （Sanger）测序革命性的改变， 核心思想是边合成边测序。"
+  },
+  {
+   "cn": "单分子测序",
+   "en": "\"single molecule sequencing\"",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "“第三代测序技术 (third generation sequencing technique)”。在DNA测序时，不需要经过PCR扩增，对每一条DNA分子进行单独测序的技术。为单分子实时DNA测序。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对不同年龄组的儿童少年进行横向调查，然后在间隔一定的时间后，对同一批儿童少年进行一次或多次重复调查，从而构成追踪性调查设计的一种方法。该方法可克服追踪调查所需年限太长、样本易流失等缺点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

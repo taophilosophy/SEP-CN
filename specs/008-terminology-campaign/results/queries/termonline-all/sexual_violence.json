@@ -1,0 +1,752 @@
+{
+ "key": "sexual violence",
+ "term": "sexual violence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:58:40+00:00",
+ "status": "ok",
+ "note": "variant=sexual violence; 审定公布名词库=938; 海峡两岸名词对照库=273; 其他来源数据库=21; 预公布名词数据库=96; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "性蚜",
+   "en": "sexuale",
+   "source": "昆虫学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "昆虫学_昆虫发育与生活史",
+   "subjectName": "昆虫发育与生活史",
+   "publishYear": "2000",
+   "definition": "进行两性生殖的雄蚜和雌蚜。"
+  },
+  {
+   "cn": "性素质",
+   "en": "sexuality",
+   "source": "男科及性医学名词",
+   "wordNumber": "01.007",
+   "subjectFullName": "男科及性医学_学科概论",
+   "subjectName": "学科概论",
+   "publishYear": "2023",
+   "definition": "一切与性相关的生物、心理、社会、伦理等多元素的集合。是一个整体性的多维概念。"
+  },
+  {
+   "cn": "性别",
+   "en": "sexuality",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.010",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "个体遗传和结构的性特征差异。"
+  },
+  {
+   "cn": "性意识",
+   "en": "sexual awareness;sexual consciousness",
+   "source": "行为医学名词",
+   "wordNumber": "3.108",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "能引发性欲和性唤起的神经反射。影响性意识的因素有生物、情感、生理或者精神方面。"
+  },
+  {
+   "cn": "暴力内容",
+   "en": "violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.076",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "在传媒中呈现的，运用肢体或器具，以对生物(指人、动物、超自然生物和拟人化物体)或物品构成肉体上的痛苦、伤害或损毁的威胁或行为。对于此类威胁或行为的描述或呈现可能诱发受众特别是心智尚未成熟的未成年人进行"
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "行为医学名词",
+   "wordNumber": "7.061",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "实施有意图或可能导致损害或破坏的行为。往往将暴力活动施加于他人，可能造成人身或财产损害。"
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.097",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "性别分化",
+   "en": "sexual differentiation",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.015",
+   "subjectFullName": "性腺疾病_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "在性别决定的基础上，进行男性和女性性状分化和发育的过程。"
+  },
+  {
+   "cn": "性成熟",
+   "en": "sexual maturity",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "性腺疾病_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "生殖器官形态和功能发育成熟的状态。包括第一性征、第二性征发育成熟。"
+  },
+  {
+   "cn": "有性繁殖",
+   "en": "sexual reproduction",
+   "source": "农学名词",
+   "wordNumber": "06.139",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "生物通过两性生殖细胞(雌雄配子)的结合形成新个体的生殖方式。是生物界中最普遍的一种生殖方式。"
+  },
+  {
+   "cn": "有性杂交",
+   "en": "sexual hybridization",
+   "source": "农学名词",
+   "wordNumber": "06.216",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "通过两性细胞的结合形成新个体的杂交方式。"
+  },
+  {
+   "cn": "性选择",
+   "en": "sexual selection",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.450",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "通过同性个体间的斗争而获得交配繁殖机会的自然选择。"
+  },
+  {
+   "cn": "性健康",
+   "en": "sexual health",
+   "source": "男科及性医学名词",
+   "wordNumber": "01.008",
+   "subjectFullName": "男科及性医学_学科概论",
+   "subjectName": "学科概论",
+   "publishYear": "2023",
+   "definition": "与性相关的身体、情感、精神和社会的健康状态。性健康与生殖健康密不可分，是生殖健康的基本组成部分。"
+  },
+  {
+   "cn": "性发育",
+   "en": "sexual development",
+   "source": "男科及性医学名词",
+   "wordNumber": "4.001",
+   "subjectFullName": "男科及性医学_性发育",
+   "subjectName": "性发育",
+   "publishYear": "2023",
+   "definition": "从卵细胞受精起，与性及生殖功能有关的解剖和生理，经过性别决定、性分化至性成熟各阶段的变化全过程。"
+  },
+  {
+   "cn": "性印记",
+   "en": "sexual imprinting",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.009",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "个体从早期的敏感期开始从父母的特征中获得性偏好的学习过程。可使个体学会辨认潜在交配对象，并以不同的方式影响男性和女性对伴侣的实际选择。"
+  },
+  {
+   "cn": "性梦",
+   "en": "sexual dream",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.013",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "具有性内容的梦境。在睡梦中发生性行为，大部分情况下可以达到性满足，还可能出现冲动或高潮，男性常有遗精。"
+  },
+  {
+   "cn": "性行为",
+   "en": "sexual behavior",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.024",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "人类满足性欲、获得性快感的各种性活动。如求爱、接吻、拥抱、接受外部性刺激、性交、自慰等。狭义上专指性交，广义上泛指与性活动有关的行为。功能是繁殖后代、维护健康和获得愉悦。"
+  },
+  {
+   "cn": "性禁欲",
+   "en": "sexual abstinence",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.032",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "对性生活的欲望和行为加以必要限制和控制的行为。"
+  },
+  {
+   "cn": "性反应",
+   "en": "sexual response",
+   "source": "男科及性医学名词",
+   "wordNumber": "18.001",
+   "subjectFullName": "男科及性医学_性反应与性功能",
+   "subjectName": "性反应与性功能",
+   "publishYear": "2023",
+   "definition": "受到性刺激后，机体在神经、内分泌及心理等综合调控下产生的一系列全身性反应。"
+  },
+  {
+   "cn": "性功能",
+   "en": "sexual function",
+   "source": "男科及性医学名词",
+   "wordNumber": "18.008",
+   "subjectFullName": "男科及性医学_性反应与性功能",
+   "subjectName": "性反应与性功能",
+   "publishYear": "2023",
+   "definition": "人类在性反应周期不同阶段的生理、心理等反应。生物、心理和社会等多种因素均可影响性功能。男性主要涉及性欲、勃起、射精、性高潮等，女性主要涉及性欲及性反应周期内阴蒂、阴道、子宫的反应性变化及性高潮等。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性蚜",
+   "en": "sexuale",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "性别",
+   "en": "sexuality",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有性阶段",
+   "en": "sexual state\",\"sexual phase",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性嵌合体",
+   "en": "sexual mosaic",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性行为",
+   "en": "sexual behavior",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性周期",
+   "en": "sexual cycle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "有性生殖",
+   "en": "sexual reproduction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性细胞",
+   "en": "sexual cell",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性选择",
+   "en": "sexual selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有性孢子",
+   "en": "sexual spore",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有性生殖",
+   "en": "sexual reproduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有性世代",
+   "en": "sexual generation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性选择",
+   "en": "sexual selection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性虐待",
+   "en": "sexual abuse",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性偏离",
+   "en": "sexual deviation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性心理学",
+   "en": "sexual psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别结构",
+   "en": "sexual structure",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "网络暴力攻击",
+   "en": "cyber violence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兵者，所以禁暴除害也",
+   "en": "War Is Fought to Stop Violence and Eliminate Evil.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法者，所以禁暴而率善人也",
+   "en": "Law Is for Stopping Violence and Encouraging Good Behavior",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "11级风",
+   "en": "violent storm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "暴力催收",
+   "en": "violent debt collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "章句",
+   "en": "Textual Components / Annotation Work",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通用串行总线",
+   "en": "universal serial bus (USB)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "齐物",
+   "en": "Seeing Things as Equal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据平权",
+   "en": "equal rights to data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "十二平均律",
+   "en": "The Twelve-tone Equal Temperament",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小篆",
+   "en": "<div> Lesser Seal Script / Small Seal Script</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大篆",
+   "en": "<div> Greater Seal Script / Big Seal Script</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "默哀三分钟",
+   "en": "to observe three minutes of silence to mourn the deceased",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "防民之口，甚于防川",
+   "en": "To Silence the People Is More Harmful than Blocking a River.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "在任何地点发生的由任何人强行施加与受害者的性行为、性行为企图或其它直接针对他人性特征的强迫行为，而不论该行为人与受害人的关系如何。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会医学名词",
+   "wordNumber": "13.4.7",
+   "subjectFullName": "社会病",
+   "subjectName": "人际暴力",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "非伴侣间性暴力",
+   "en": "non-partner sexual violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.2",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "由非亲密伴侣强行施加的性行为和性行为企图或其它直接针对他人性特征的强迫行为。包括未经同意的既遂/未遂性行为、无接触但具备性本质的行为、对无法表示同意或拒绝的人进行的性交易行为以及网络性剥削。"
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "马克思主义",
+   "wordNumber": "03.0031",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级斗争或政治活动中一种激烈而强制性的力量。在阶级社会，统治阶级运用国家政权及其军队、警察、监狱等暴力机构维护其统治。被统治阶级通常也通过武装斗争等暴力手段进行反抗。因而暴力具有鲜明的阶级性。"
+  },
+  {
+   "cn": "性传播",
+   "en": "sexual transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过与异性或同性感染者性行为导致感染的过程。"
+  },
+  {
+   "cn": "性政治",
+   "en": "sexual politics",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "激进女性主义将个人生活政治化的一个基本概念，源自美国女权主义者米利特(Kate Millett）1970年出版的同名著作，认为与性相关的各个层面包括性意识、性关系、性身份等都是性别不平等的政治体现，是"
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "推动人对异性（有时是同性）发生兴趣、进行求偶和性行为活动的一种内在力量。当人的身体发育到某种程度时，由于性机能的成熟与作用，在性激素的刺激下产生对性的需求及性行为活动。"
+  },
+  {
+   "cn": "性爱",
+   "en": "sexual love",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "以性欲为基础的对异性（有时是同性）的倾慕、亲近的感情，是爱情的一个必不可少的成分。性爱一般具有排他性、冲动性、直觉性和隐蔽性的特点。"
+  },
+  {
+   "cn": "性骚扰",
+   "en": "sexual harassment",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "通过语言、动作等对他人实施的一种不受欢迎的带有性意图的行为。"
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "一个人倾向于和同性还是异性发生性行为。一般包括异性恋取向、同性恋取向和双性恋取向。"
+  },
+  {
+   "cn": "性少数族群",
+   "en": "sexual minorities",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.2",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "在性取向和性行为方面与主流文化的社会性别或性规范不符合的群体。包括同性恋、双性恋、易装者、易性者等。"
+  },
+  {
+   "cn": "恋物",
+   "en": "sexual fetishism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.9",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "把无生命的物品或他人身上的非性感部分作为对象以引起性兴奋的性活动。"
+  },
+  {
+   "cn": "性的多元论",
+   "en": "sexual pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "主张人类性行为有多种方式的观点。提倡社会容许多种性行为的方式同时存在，占主流地位的性规范不应该强行把自己的标准加在不适合这种行为的人身上，应该容许多元的生活方式。"
+  },
+  {
+   "cn": "性发育",
+   "en": "sexual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "包括性染色体、性腺、性激素、内外生殖器官等的发育过程。"
+  },
+  {
+   "cn": "性侵犯",
+   "en": "sexual assault",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "违反社会准则和儿童意愿进行的暴力性活动。其中危害最大的是强奸，主要受害者是妇女和女童，少数可发生于男孩。"
+  },
+  {
+   "cn": "性行为",
+   "en": "sexual behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "旨在满足性欲和获得性快感而出现的动作和活动。"
+  },
+  {
+   "cn": "性健康",
+   "en": "sexual health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "与性有关的身体、情感、心理和社会健康状态，不仅仅是没有疾病、功能障碍或虚弱。需要对性行为和性关系采取积极和尊重的态度，并有可能在没有胁迫、歧视和暴力的情况下获得愉快和安全的性体验。"
+  },
+  {
+   "cn": "性功能障碍",
+   "en": "sexual dysfunction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "性活动中的某一环节发生障碍，从而影响正常性功能的现象。男性可表现为性欲障碍、勃起功能障碍、早泄、不射精和逆行射精等。女性可表现为性欲障碍、性唤起障碍、性高潮障碍等。"
+  },
+  {
+   "cn": "性骚扰",
+   "en": "sexual harassment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "未被邀请的、不受欢迎的性挑逗、性要求及其他具有性性质的言语或身体行为。任何性别的人都有可能是受害者。按照行为方式可以分为言语性、行为性、环境性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

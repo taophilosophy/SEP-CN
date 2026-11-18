@@ -1,0 +1,622 @@
+{
+ "key": "greatest happiness",
+ "term": "greatest happiness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:52:09+00:00",
+ "status": "ok",
+ "note": "variant=greatest happiness; 审定公布名词库=153; 海峡两岸名词对照库=51; 其他来源数据库=17; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "高兴",
+   "en": "happy",
+   "source": "行为医学名词",
+   "wordNumber": "3.126",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "令人感到快乐、愉快而兴奋的情绪。"
+  },
+  {
+   "cn": "[胚]最大长度",
+   "en": "greatest length,GL",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "22.052",
+   "subjectFullName": "组织学与胚胎学_胚胎学_胚期和胎期发育",
+   "subjectName": "胚期和胎期发育",
+   "publishYear": "2014",
+   "definition": "胚胎的最长径。适用于受精龄为3周之前的胚。"
+  },
+  {
+   "cn": "最大下界",
+   "en": "greatest lower bound",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0197",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "在一个偏序集中，两个元素 x 和 y 的最大下界是满足如下条件的元素 a ：① a≤x ；② a≤y ；③对任何 z ，若 z≤x,z≤y ，则 z≤a 。"
+  },
+  {
+   "cn": "下确界",
+   "en": "greatest lower bound",
+   "source": "数学名词",
+   "wordNumber": "05.0006",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最大公因数",
+   "en": "greatest common divisor",
+   "source": "数学名词",
+   "wordNumber": "04.0045",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "大距",
+   "en": "(1)greatest elongation; (2)elongation",
+   "source": "天文学名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "(1)内行星或卫星距角达到极大时的位置。(2)天极与天顶之间上中天的恒星在周日运动过程中其所在地平经圈与子午圈交角达到极大时的位置。"
+  },
+  {
+   "cn": "东大距",
+   "en": "(1)greatest eastern elongation; (2)eastern elongation",
+   "source": "天文学名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "(1)内行星在太阳，或卫星在其母行星的东侧达到大距。(2)恒星在周日运动过程中，在当地子午圈东侧发生的大距。"
+  },
+  {
+   "cn": "西大距",
+   "en": "(1)greatest western elongation; (2)western elongation",
+   "source": "天文学名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "(1)内行星在太阳，或卫星在其母行星的西侧达到大距。(2)恒星在周日运动过程中，在当地子午圈西侧发生的大距。"
+  },
+  {
+   "cn": "[奥尔森]婚姻质量问卷",
+   "en": "Enriching and Nurturing Relationship Issues,Communication and Happiness,ENRICH",
+   "source": "精神医学名词",
+   "wordNumber": "05.118",
+   "subjectFullName": "精神医学_常用量表",
+   "subjectName": "常用量表",
+   "publishYear": "2019",
+   "definition": "美国心理学家奥尔森(D. H. Olson)等1981年以“婚前预测问卷”为基础编制的评定婚姻质量的自评量表。共有124个条目，包括12个因子：过分理想化、婚姻满意度、性格相容性、夫妻交流、解决冲突的"
+  },
+  {
+   "cn": "禘祭",
+   "en": "di ji;di sacrifice—greatest ancestral sacrifice performed every five years",
+   "source": "中国古代史名词",
+   "wordNumber": "2.241",
+   "subjectFullName": "中国古代史_先秦_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "商周贵族祭祀四方神、自然神、祖先的常见仪式。商后期主要指一种束柴燔烧的祭祀方式，所祭祀的鬼神有四方、高祖、自然神等，主要目的是祈雨。西周指周王和其他贵族祭祀祖先的仪式，春秋鲁国有国君除丧后的吉禘。后世"
+  },
+  {
+   "cn": "抗性锻炼",
+   "en": "hardiness,hardening",
+   "source": "林学名词",
+   "wordNumber": "02.457",
+   "subjectFullName": "林学_林学基础_树木生理",
+   "subjectName": "树木生理",
+   "publishYear": "2016",
+   "definition": "在特定环境因子的诱导下，植物的抗逆遗传特性逐步表现出来的过程。"
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance;hardiness",
+   "source": "动物学名词",
+   "wordNumber": "7.0072",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物对不利环境条件的忍耐力。"
+  },
+  {
+   "cn": "耐冬性",
+   "en": "winter hardiness",
+   "source": "动物学名词",
+   "wordNumber": "7.0073",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物能适应寒冷环境（冬季低温）的特性。"
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "动物学名词",
+   "wordNumber": "7.0074",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物耐受或抵御低于其正常生活适温下限温度的能力。"
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "昆虫学名词",
+   "wordNumber": "06.204",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "昆虫耐受或抵御低于其正常生活适温下限的温度的能力。"
+  },
+  {
+   "cn": "锻炼",
+   "en": "hardiness,hardening,acclimation",
+   "source": "植物学名词",
+   "wordNumber": "11.0664",
+   "subjectFullName": "植物学_植物生理学_植物逆境生理",
+   "subjectName": "植物逆境生理",
+   "publishYear": "2019",
+   "definition": "植物对不利生存环境的逐步适应过程。如越冬植物经过秋季逐渐变冷的低温锻炼而使其耐冻性逐渐增强的过程。一般专指提高忍耐胁迫的能力。"
+  },
+  {
+   "cn": "前测",
+   "en": "pretest",
+   "source": "教育学名词",
+   "wordNumber": "13.028",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "教学前按照特定教学目标对学习者进行的标准参照测试。以确定学习者已有的知识技能和态度与目标的差距，并以此为基础对新教学做必要的准备。"
+  },
+  {
+   "cn": "大网膜",
+   "en": "greater omentum",
+   "source": "普通外科学名词",
+   "wordNumber": "17.076",
+   "subjectFullName": "医学_普通外科学_胃与十二指肠外科",
+   "subjectName": "胃与十二指肠外科",
+   "publishYear": "2026",
+   "definition": "连于胃大弯与横结肠之间的双层腹膜结构。呈围裙状下垂并覆盖于横结肠和大部分空、回肠的前面。"
+  },
+  {
+   "cn": "监测前睡眠问卷",
+   "en": "pretest questionnaire",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.447",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_睡眠相关量表和问卷",
+   "subjectName": "睡眠相关量表和问卷",
+   "publishYear": "2022",
+   "definition": "一种自陈式睡眠问卷。通过测量困倦程度和增加气道阻力的风险来评估阻塞性睡眠呼吸暂停的可能性。最常用的有STOP问卷（Snoring，Tiredness，Observed apnea，high blood"
+  },
+  {
+   "cn": "大网膜",
+   "en": "greater omentum",
+   "source": "消化病学名词",
+   "wordNumber": "9.002",
+   "subjectFullName": "消化病_网膜_网膜解剖",
+   "subjectName": "网膜解剖",
+   "publishYear": "2022",
+   "definition": "连接于胃大弯与横结肠之间，呈围裙状下垂，遮盖于横结肠和小肠等腹腔脏器前方的腹膜褶。长度因人而异。由四层腹膜折叠而成，前两层由胃前、后壁浆膜延续而成，向下伸至脐平面或稍下方，然后反折，并向上附着于横结肠"
+  },
+  {
+   "cn": "最大长度",
+   "en": "greatest length",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "最亮（金星）",
+   "en": "greatest brilliancy",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "东大距（行星）",
+   "en": "greatest eastern elongation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "西大距（行星）",
+   "en": "greatest western elongation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "大距",
+   "en": "greatest elongation\",\"GE\",\"elongation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "东大距",
+   "en": "greatest eastern elongation\",\"eastern elongation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "西大距",
+   "en": "greatest western elongation\",\"western elongation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness\",\"frost hardiness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance\",\"hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐热性",
+   "en": "heat hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "耐冬性",
+   "en": "winter hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "锻炼",
+   "en": "hardiness\",\"hardening\",\"acclimation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大角",
+   "en": "greater horn\",\"greater cornu",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "大骨盆",
+   "en": "greater pelvis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "大结节",
+   "en": "greater tubercle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "大网膜",
+   "en": "greater omentum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "大翼",
+   "en": "greater wing",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "大转子",
+   "en": "greater trochanter",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "至乐无乐",
+   "en": "Utmost Happiness Lies in Not Aware of the Happiness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哀景写乐",
+   "en": "Depict Sorrowful Scenery to Express Happiness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "孔颜之乐",
+   "en": "The Happiness of Confucius and Yan Hui",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大信不约",
+   "en": "The Greatest Trust Is Not Found in Pledges.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天下之事，不难于立法，而难于法之必行",
+   "en": "In the governance of a country, it is the enforcement, not the enactment, of law that presents the greatest challenge.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷",
+   "en": "handiness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有容乃大",
+   "en": "A Broad Mind Achieves Greatness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大湄公河次区域经济合作",
+   "en": "Greater Mekong Subregion Economic Cooperation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自铸伟辞",
+   "en": "Create Masterpieces of Greatness and Originality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“大东亚共荣圈”",
+   "en": "“Greater East Asia Co-Prosperity Sphere”",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "公生明,廉生威",
+   "en": "Fairness Fosters Discernment and Integrity Creates Authority.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "粤港澳大湾区",
+   "en": "Guangdong-Hong Kong-Macao Greater Bay Area",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "粤港澳大湾区",
+   "en": "Guangdong-Hong Kong-Macao Greater Bay Area",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大篆",
+   "en": "<div> Greater Seal Script / Big Seal Script</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "让人民群众有更多获得感",
+   "en": "Enabling the people to have a greater sense of fulfillment.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "粤港澳大湾区发展规划纲要",
+   "en": "Outline Development Plan for the Guangdong-Hong Kong-Macao Greater Bay Area",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "幸福",
+   "en": "happiness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.107",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在物质生活和精神生活中，因期望、理想或目标的实现而使其获得精神满足，表现为称心如意而感到心情舒畅的精神状态。"
+  },
+  {
+   "cn": "国民幸福指数",
+   "en": "national happiness index",
+   "source": "社会医学名词",
+   "wordNumber": "9.15",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "国民幸福指数",
+   "publishYear": "2025",
+   "definition": "由社会健康指数、社会福利指数、社会文明指数、生态环境指数等四级指标体系构成，每一级指标体系中都由若干个指标构成,指数的计算采用加权平均法。衡量国民生活质量和幸福程度的综合性指标，对于转变发展观念具有重"
+  },
+  {
+   "cn": "复测",
+   "en": "retest",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "学生体质健康调查时，要求按照当日调查人数3%的比例随机抽取已完成调查学生，由质控或其他调查人员在调查现场重新对被抽查对象进行的第二次测量。通过计算首测和第二次测量之间指标的误差率，评估现场调查质量。"
+  },
+  {
+   "cn": "再测信度",
+   "en": "test-retest reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以评估回答人在不同时点上对同一个测量的反应的稳定或不稳定程度的量度。"
+  },
+  {
+   "cn": "复测信度",
+   "en": "test-retest reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "用同一问卷在不同时间对同一研究对象进行重复测量，分析两次测量结果之间的一致性程度判断调查结果的可信度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

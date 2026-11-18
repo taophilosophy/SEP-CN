@@ -1,0 +1,492 @@
+{
+ "key": "existential quantification",
+ "term": "existential quantification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:57:49+00:00",
+ "status": "ok",
+ "note": "variant=existential quantification; 审定公布名词库=68; 海峡两岸名词对照库=11; 其他来源数据库=5; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "量化",
+   "en": "quantification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.021",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "赋予影像中各个像素相应数值的过程。影像数字化处理中，采样得到的像素灰度值必须进行量化，即分成有限的灰阶，才能编码送入计算机进行运算和处理。"
+  },
+  {
+   "cn": "存在心理学",
+   "en": "existential psychology",
+   "source": "心理学名词",
+   "wordNumber": "04.097",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "美国罗洛·梅(Rollo May)创立的学派。关注人存在的意义、以存在主义哲学为理论基础的心理学研究取向。"
+  },
+  {
+   "cn": "存在心理治疗",
+   "en": "existential counseling",
+   "source": "心理学名词",
+   "wordNumber": "15.040",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "强调选择与焦虑、价值、自由，以及生活责任、寻求意义等存在主义理念的心理治疗取向。"
+  },
+  {
+   "cn": "存现句",
+   "en": "existential sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.171",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "动词谓语句的一种。这种句式表示在某处存在、出现或消失了某个人或物。处所词位于句首作主语，句子的宾语表示存现的主体。句中谓语动词后边通常带“着”或“了”。例如，“台上坐着主席团。”“家里来了客人。”"
+  },
+  {
+   "cn": "存现宾语",
+   "en": "existential object",
+   "source": "语言学名词",
+   "wordNumber": "04.198",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "宾语的一种。由名词性成分充当，在语义上表示存在、出现或消失的人或事物。例如，“长着一棵大树”“来了一位客人”“跑了一只猫”。"
+  },
+  {
+   "cn": "存在量词",
+   "en": "existential quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0056",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "绝对定量",
+   "en": "absolute quantification ",
+   "source": "草学名词",
+   "wordNumber": "5.0219",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "相对定量",
+   "en": "relative quantification ",
+   "source": "草学名词",
+   "wordNumber": "5.022",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "脂肪定量分析",
+   "en": "fat quantification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.328",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振特殊成像技术_磁共振脂肪抑制技术",
+   "subjectName": "磁共振脂肪抑制技术",
+   "publishYear": "2020",
+   "definition": "在三点非对称回波水脂分离成像（IDEAL）技术的基础上，采用6个具有不同回波时间的回波信号得到不同水脂相位图，重建出同相位、反相位、水像、脂像、脂肪分量图和弛豫率图6种影像，准确且可重复性实施脂肪含量"
+  },
+  {
+   "cn": "不确定性量化",
+   "en": "uncertainty quantification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1185",
+   "subjectFullName": "计算机科学技术_计算机应用_科学与工程计算",
+   "subjectName": "科学与工程计算",
+   "publishYear": "2018",
+   "definition": "对于物理系统建模和模拟中的不确定性进行量化并尽量降低不确定性的学科。在系统的某些因素未知的情形下，不确定性量化试图给出研究结果的可置信度。"
+  },
+  {
+   "cn": "量化管理",
+   "en": "quantification management",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1249",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "对系统运行的各种重要指标，如宕机或降级运行的次数、持续时间以及造成的损失进行量化的管理方法。"
+  },
+  {
+   "cn": "定量限",
+   "en": "quantification limit",
+   "source": "化学名词",
+   "wordNumber": "03.0053",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "根据统计学原理给出的用于估算能定量测定分析物的最小含量或浓度。若样品中存在的分析物的量大于该量值，则可认为该样品可以某一相对标准偏差被定量测定。在误差分布遵从正态分布的条件下，以适当的置信概率(95%"
+  },
+  {
+   "cn": "现实人体美",
+   "en": "existential body beauty",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.072",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "存在于现实生活中具有生命活力的生机勃勃的人体美。进入人类社会以来，按照美的规律而自然形成的一种最高层次之精美，是自然进化与劳动实践相结合的产物。是现实的、客观的，不随人们主观意志为转移的，是医学人体美"
+  },
+  {
+   "cn": "定量限",
+   "en": "limit of quantification",
+   "source": "农学名词",
+   "wordNumber": "18.010",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "样品中被测组分被定量测定的最低浓度或最低量。分析结果应能确保一定的正确度和精密度。"
+  },
+  {
+   "cn": "定量限",
+   "en": "limit of quantification",
+   "source": "计量学名词",
+   "wordNumber": "15.054",
+   "subjectFullName": "计量学_化学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "在规定的测量条件下，能够获得可接受精密度(重复性)和准确度的被分析成分的最低含量或浓度。"
+  },
+  {
+   "cn": "元素存在形式",
+   "en": "existential form of element",
+   "source": "地质学名词",
+   "wordNumber": "13.02.058",
+   "subjectFullName": "地质学_地球化学_元素地球化学",
+   "subjectName": "元素地球化学",
+   "publishYear": "2026",
+   "definition": "元素与其他原子的结合方式。其对成岩、成矿和地球化学勘查研究具有重要意义。元素在矿物中的存在形式主要有独立矿物、类质同象、矿物(黏土矿物类)吸附等；在溶液中有水合离子、分子、金属配合离子、有机配合物和胶"
+  },
+  {
+   "cn": "地震定量",
+   "en": "quantification of earth-quake",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1380",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "用定量的方法表示地震的特征。 "
+  },
+  {
+   "cn": "磁共振组织量化分析",
+   "en": "magnetic resonance imaging quantification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.316",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振特殊成像技术_磁共振组织量化分析",
+   "subjectName": "磁共振组织量化分析",
+   "publishYear": "2020",
+   "definition": "采用相应的脉冲序列定量测量组织的<img src='/root/syzx/static/spz/yixueyingxiang1.05.106.01.png'/>值、<img src='/root/sy"
+  },
+  {
+   "cn": "心脏血管血流量化分析",
+   "en": "flow quantification of cardiovascular",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.412",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振成像临床应用技术_心脏大血管磁共振成像技术",
+   "subjectName": "心脏大血管磁共振成像技术",
+   "publishYear": "2020",
+   "definition": "采用相位对比流速编码电影成像，对血流进行量化的分析。评估瓣膜的狭窄和反流情况，估算先天性心脏病的异常血流，计算前向心搏量和反流量，计算反流指数，评估反流程度的磁共振量化分析方法。"
+  },
+  {
+   "cn": "磁共振心肌量化分析",
+   "en": "magnetic resonance myocardial quantification",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.418",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振成像临床应用技术_心脏大血管磁共振成像技术",
+   "subjectName": "心脏大血管磁共振成像技术",
+   "publishYear": "2020",
+   "definition": "采用改进的相位敏感反转恢复序列，利用缺血性心肌病导致的心肌坏死和非缺血性心肌病导致的心肌纤维化缩短对比剂增强后心肌的<img src='/root/syzx/static/spz/yixueyingx"
+  },
+  {
+   "cn": "存在主义",
+   "en": "existentialism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在心理学",
+   "en": "existential psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在性焦虑",
+   "en": "existential anxiety",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在主义疗法",
+   "en": "existential therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在虚无",
+   "en": "existential vacuum",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在主义研究",
+   "en": "existential study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在量词",
+   "en": "existential quantifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定量限",
+   "en": "quantification limit",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "合格性测试",
+   "en": "qualification testing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴定试验",
+   "en": "qualification test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴定需求",
+   "en": "qualification requirement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "获得参赛资格",
+   "en": "qualify\",\"qualification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualification round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualification heat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资格赛",
+   "en": "qualification\",\"qualifying round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存在主义的人道主义",
+   "en": "humanitarianism of existentialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0059",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特（Jean-Paul Sartre）在《存在主义是一种人道主义》中立足于存在主义哲学所提出的概念。他认为，除了人类的宇宙，即人类主观性的宇宙外，无其他宇宙；综合超越性和主观性，就是我们所谓的存在主"
+  },
+  {
+   "cn": "安装验证",
+   "en": "installation qualification",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "提供的消毒灭菌设备按技术要求安装后，进行测试并进行文字记录的过程。"
+  },
+  {
+   "cn": "灭菌合格",
+   "en": "sterilization qualification",
+   "source": "消毒学",
+   "wordNumber": "6.2.29.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在灭菌效果评价时，对灭菌结果有效表示肯定的表述方法。"
+  },
+  {
+   "cn": "执业资格",
+   "en": "practice qualification ",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医学教育人才市场",
+   "subjectName": "医学教育人才市场",
+   "publishYear": "2025",
+   "definition": "对具备一定学历的从事医疗活动的专业技术人员，通过考试和注册确定其执业的技术资格，获得相应医疗文件签字权的一种制度。"
+  },
+  {
+   "cn": "职业病诊断医师资格",
+   "en": "occupational disease diagnosis qualification",
+   "source": "放射卫生学",
+   "wordNumber": "8.4.8",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射工作人员职业健康管理",
+   "subjectName": "放射工作人员职业健康管理",
+   "publishYear": "2025",
+   "definition": "执业医师从事职业病诊断所必备的知识、技术和能力的基本要求，经专业培训考核合格。具备资格的执业医师应经卫生行政部门审核同意并颁发相关证书，方可以从事相应的职业病诊断工作。"
+  },
+  {
+   "cn": "社会保险资格",
+   "en": "qualification for social insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.3",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "参加某项社会保险的身份前提条件。目前影响我国居民参加各种社会保险的身份条件因素主要有：年龄、职业、工龄等。"
+  },
+  {
+   "cn": "监测单位资质",
+   "en": "qualification of surveillance unit",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "符合《健康体检管理暂行规定》要求，具备独立开展学生健康体检工作的人员和条件、能对学生健康体检状况进行个体和群体评价、分析、反馈，并提出健康指导建议的卫生保健机构或医疗机构。"
+  },
+  {
+   "cn": "监测人员资质",
+   "en": "qualification of surveillance operator",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "具有与学生健康检查工作和学生常见病防治有关的知识和技能、接受卫生行政部门培训并考核合格、有相应的专业技术证书的医疗卫生保健专业人员；主检人员应由主治（管）医（技）师以上或相应职称的专业人员担任。"
+  },
+  {
+   "cn": "食品检验机构资质认定条件",
+   "en": "food testing agency qualification accreditation requirement",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.31",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "食品检验机构在组织、管理体系、检验能力、人员、环境和设施、设备和标准物质等方面应当达到的要求。"
+  },
+  {
+   "cn": "放射卫生技术服务机构资质",
+   "en": "qualification of radiological health technical service institution",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "经卫生行政部门批准，允许为放射工作单位提供建设项目职业病危害放射防护评价、放射卫生防护检测、放射防护器材和含放射性产品检测、个人剂量监测等技术服务的资质。"
+  },
+  {
+   "cn": "放射卫生技术服务机构资质变更",
+   "en": "qualification alteration of radiological health technical service institution",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "根据放射卫生技术服务机构的申请，卫生行政部门对放射卫生技术服务的具体内容在许可批准后加以变更的行为。"
+  },
+  {
+   "cn": "放射卫生技术服务机构资质延续",
+   "en": "qualification renewal of radiological health technical service institution",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.1.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "放射卫生技术服务机构资质到期后，经机构申请并经卫生行政部门批准后，资质继续有效的行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

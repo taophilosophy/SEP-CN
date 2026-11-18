@@ -1,0 +1,792 @@
+{
+ "key": "brain activity",
+ "term": "brain activity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:42:48+00:00",
+ "status": "ok",
+ "note": "variant=brain activity; 审定公布名词库=2854; 海峡两岸名词对照库=927; 其他来源数据库=68; 预公布名词数据库=184; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "神经外科学名词",
+   "wordNumber": "2.003",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_概述",
+   "subjectName": "概述",
+   "publishYear": "2026",
+   "definition": "中枢神经系统的重要器官。位于颅腔内，脑沟和脑回将其分为大脑、间脑、小脑和脑干四部分，是人体中主管意识、知觉、运动、思维、记忆等的重要器官，是神经系统的主要部分。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "动物学名词",
+   "wordNumber": "6.1158",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2021",
+   "definition": "脊椎动物头骨中的软神经组织的器官。为感觉、智力和神经活动的协调中心。可区分为5个部分：大脑、间脑、中脑、小脑和延脑。随着脊椎动物的进化，脑5部分分化明显化和脑高级中枢功能向大脑皮质转移。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "神经病学名词",
+   "wordNumber": "02.004",
+   "subjectFullName": "神经病学_临床神经解剖学",
+   "subjectName": "临床神经解剖学",
+   "publishYear": "2020",
+   "definition": "中枢神经系统的重要器官。位于颅腔内，脑沟和脑回将其分为大脑、间脑、小脑和脑干4个部分。有支配精神意识、进行思维活动的功能。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "心理学名词",
+   "wordNumber": "05.016",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "位于颅腔内，由脑干、间脑、小脑和大脑两半球组成。是中枢神经系统的组成部分。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "中医药学名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "奇恒之腑之一，位于颅内，由髓汇聚而成，为神明汇聚之所，有支配精神意识，进行思维活动的功能。"
+  },
+  {
+   "cn": "脑电地形图",
+   "en": "electroencephalography brain map,brain electrical activity mapping,BEAM",
+   "source": "神经病学名词",
+   "wordNumber": "05.263",
+   "subjectFullName": "神经病学_神经病诊断技术_临床脑电图学",
+   "subjectName": "临床脑电图学",
+   "publishYear": "2020",
+   "definition": "将定量脑电图数据在头皮表面的空间分布通过图形及色彩差（或灰度差）直观显示出来的图像。能直观地显示脑电信号的空间分布或一个具体的参数，如某个频带的功率分布或峰潜伏期分布情况，包括等电位分布图、脑电功率地"
+  },
+  {
+   "cn": "脑梅毒瘤",
+   "en": "brain syphiloma,brain gumma",
+   "source": "医学名词 第六分册",
+   "wordNumber": "02.156",
+   "subjectFullName": "医学_神经外科学",
+   "subjectName": "神经外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "脑干网状上行激活系统",
+   "en": "brain stem ascending activating reticular system",
+   "source": "神经病学名词",
+   "wordNumber": "02.071",
+   "subjectFullName": "神经病学_临床神经解剖学",
+   "subjectName": "临床神经解剖学",
+   "publishYear": "2020",
+   "definition": "脑干网状结构中维持大脑皮质觉醒状态的上行纤维束。是上行网状激活系统的关键部位，这些部位的损害可引起昏睡或昏迷。"
+  },
+  {
+   "cn": "智力外流",
+   "en": "brain drain",
+   "source": "经济学名词",
+   "wordNumber": "06.054",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "最初主要是指发展中国家在国内完成学业后的高级专门人才，如工程师、科学家、医生、教授等，迁移到发达国家的一种国际移民活动。后来人们把从发展中国家到发达国家接受高级专门教育的留学人员滞留不归也划入智力外流"
+  },
+  {
+   "cn": "人才流失",
+   "en": "brain drain",
+   "source": "计划生育名词",
+   "wordNumber": "01.176",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "优秀或有特长的人从本地、本单位流动或转移出去而流失的现象。"
+  },
+  {
+   "cn": "人才外流",
+   "en": "brain drain",
+   "source": "教育学名词",
+   "wordNumber": "14.170",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "在一个国家接受教育和培训的专业技术人员迁移到另一个国家去工作的现象。"
+  },
+  {
+   "cn": "脑死亡",
+   "en": "brain death",
+   "source": "普通外科学名词",
+   "wordNumber": "07.026",
+   "subjectFullName": "医学_普通外科学_危重疾病",
+   "subjectName": "危重疾病",
+   "publishYear": "2026",
+   "definition": "包括脑干的全脑功能不可逆的永久性丧失。"
+  },
+  {
+   "cn": "脑干",
+   "en": "brain stem",
+   "source": "神经外科学名词",
+   "wordNumber": "2.021",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_概述",
+   "subjectName": "概述",
+   "publishYear": "2026",
+   "definition": "位于间脑和脊髓之间的神经结构。自上而下由中脑、脑桥、延髓三部分组成。内部结构主要有神经核、上下行传导束和网状结构。是大脑、小脑与脊髓相互联系的重要通路。主要功能是维持个体生命活动，包括心跳、呼吸、消化"
+  },
+  {
+   "cn": "脑温",
+   "en": "brain temperature",
+   "source": "神经外科学名词",
+   "wordNumber": "3.016",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "脑部的实际温度。在健康状态下，正常人体体温为36～37.4℃，大脑温度高于体温1℃左右，约为38℃。"
+  },
+  {
+   "cn": "脑电生理",
+   "en": "brain electrophysiology",
+   "source": "神经外科学名词",
+   "wordNumber": "3.018",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "利用电生理学技术研究大脑的结构和功能变化。常见手段包括脑电图、脑磁图和单元记录等。"
+  },
+  {
+   "cn": "脑死亡",
+   "en": "brain death",
+   "source": "神经外科学名词",
+   "wordNumber": "3.022",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "脑部神经元全面坏死导致的包括脑干在内的全脑活动的不可逆性丧失。表现为不可逆性深昏迷，无自主呼吸，一切脑干反射均消失。"
+  },
+  {
+   "cn": "脑肿瘤",
+   "en": "brain tumor",
+   "source": "神经外科学名词",
+   "wordNumber": "6.001",
+   "subjectFullName": "医学_神经外科学_中枢神经系统肿瘤",
+   "subjectName": "中枢神经系统肿瘤",
+   "publishYear": "2026",
+   "definition": "生长在颅腔的病理性新生物的总称。可起源于脑、脑膜、神经、血管及脑附件，或由身体的其他脏器恶性肿瘤转移侵入颅内而形成。大多可产生颅内压升高及局灶性神经功能损害症状。"
+  },
+  {
+   "cn": "脑损伤",
+   "en": "brain injury",
+   "source": "神经外科学名词",
+   "wordNumber": "7.001",
+   "subjectFullName": "医学_神经外科学_创伤性脑损伤_创伤性脑损伤概论",
+   "subjectName": "创伤性脑损伤概论",
+   "publishYear": "2026",
+   "definition": "（1）广义指包括脑肿瘤、脑血管意外等任何原因导致的脑组织结构或功能破坏。（2）狭义指暴力作用于头部造成的脑组织器质性损伤。"
+  },
+  {
+   "cn": "脑原点",
+   "en": "brain origin",
+   "source": "神经外科学名词",
+   "wordNumber": "10.127",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_功能神经外科相关诊疗技术",
+   "subjectName": "功能神经外科相关诊疗技术",
+   "publishYear": "2026",
+   "definition": "前连合后缘中点与后连合前缘中点连线（AC-PC线）的中点。是定位大脑内各种组织结构的首选基准点。"
+  },
+  {
+   "cn": "脑寄生虫病",
+   "en": "brain parasitosis",
+   "source": "神经外科学名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "医学_神经外科学_中枢神经系统感染性疾病",
+   "subjectName": "中枢神经系统感染性疾病",
+   "publishYear": "2026",
+   "definition": "由寄生虫虫体、虫卵或幼虫侵入脑内引起过敏性炎症、肉芽肿形成或脑血管阻塞的脑病。临床表现可为急性脑膜脑炎，或为局限性癫痫发作或伴有定位体征的颅内压增高，亦可为智力衰退或精神障碍。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑",
+   "en": "brain\",\"encephalon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑",
+   "en": "brain\",\"encephalon",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "脑干",
+   "en": "brain stem",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑屏障",
+   "en": "brain barrier",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑曲",
+   "en": "brain flexure",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑原基",
+   "en": "brain rudiment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑褶",
+   "en": "brain fold",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "割裂脑，［分］裂脑",
+   "en": "split brain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑成像",
+   "en": "brain imaging",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑细胞",
+   "en": "brain cell",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑损伤",
+   "en": "brain damage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑可塑性",
+   "en": "brain plasticity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑波",
+   "en": "brain wave",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑成像",
+   "en": "brain imaging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑科学",
+   "en": "brain science",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑模型",
+   "en": "brain model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑干",
+   "en": "brain stem",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "脑匣",
+   "en": "brain case",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "脑室",
+   "en": "brain ventricle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "脑模型",
+   "en": "brain model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工脑",
+   "en": "artificial brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "农业大脑",
+   "en": "agricultural brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济大脑",
+   "en": "Economic Brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市大脑",
+   "en": "city brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "ET大脑",
+   "en": "ET brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类脑计算",
+   "en": "brain-inspired computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑科学",
+   "en": "Brain-Inspired Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑模拟系统",
+   "en": "brain simulation system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类脑图谱",
+   "en": "human brain atlas",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑处理器",
+   "en": "brain-inspired processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云脑时代",
+   "en": "cloud brain age",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑机接口",
+   "en": "Brain-Computer Interface",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑智能",
+   "en": "brain-inspired intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑机协同",
+   "en": "brain-computer synergy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人脑计划",
+   "en": "Human Brain Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市超脑",
+   "en": "iFlytek Super Brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学习大脑活动特征",
+   "en": "brain activity characteristics of learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "参与学习过程中大脑皮质具有的特定的功能活动特性。"
+  },
+  {
+   "cn": "脑发育",
+   "en": "brain development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑经过神经胚形成、前脑发育、神经元增殖、神经元移行、神经组织全面发展和功能完善、髓鞘形成等六个阶段的发展变化过程。"
+  },
+  {
+   "cn": "脑死亡",
+   "en": "brain death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.025",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "脑血流完全停止和脑部广泛性梗死所致的包括脑干在内的全脑功能不可逆地丧失。它是继心肺死亡标准后的一种科学的死亡标准。"
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "控脑武器",
+   "en": "control brain weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "主要通过物理和化学手段对人脑造成影响，控制人脑思维活动的武器。它基于对人脑信息的获取、解读、传播和控制，通过直接影响和控制人类思维来发挥作用。"
+  },
+  {
+   "cn": "脑死亡标准",
+   "en": "brain death criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.033",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "以大脑、小脑和脑干在内的全脑功能的不可逆性丧失为基础的死亡标准。"
+  },
+  {
+   "cn": "脂肪酶活动度",
+   "en": "lipase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.7",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "一定量试样中的脂肪酶与纯油脂作用所生成的游离脂肪酸的量，用中和1 克试样（干基）中生成的游离脂肪酸所消耗的氢氧化钾的毫克数表示。"
+  },
+  {
+   "cn": "淀粉酶活性",
+   "en": "diastase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.25",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "淀粉酶催化淀粉水解成糖的能力，即1 克蜂蜜所含的淀粉酶在40℃、1 小时内转化1%淀粉溶液的毫升数。酶值的高低与蜂蜜的新鲜程度、成熟度、加工工艺、储藏时间有关。"
+  },
+  {
+   "cn": "酶活力",
+   "en": "enzyme activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "酶在一定条件下催化某一特定反应的能力，是表达酶制剂产品的一个特征性专属指标"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "radioactive activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位时间内放射性核素发生核衰变的总数。符号为A。SI单位：贝可[勒尔]，记作Bq。"
+  },
+  {
+   "cn": "比活度",
+   "en": "specific activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位质量的放射性活度。SI单位为贝可每千克，记作Bq·kg-1。"
+  },
+  {
+   "cn": "活度浓度",
+   "en": "activity concentration",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.5",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位体积的放射性活度。SI单位为贝可每立方米，记作Bq·m-3；或贝可每升，记作Bq·L-1。"
+  },
+  {
+   "cn": "核活动",
+   "en": "nuclear activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "任何研究、生产、提取、加工、处理、应用、搬运、贮存或处置放射性物质或核材料的活动，以及在陆上、水上或空中交通线上运输放射性物质或核材料的活动，或任何其他转移或使用放射性物质或核材料的活动。"
+  },
+  {
+   "cn": "危险活度",
+   "en": "dangerous activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "特定放射源的核素在设定的多种照射情景条件下足以引起人体严重有害的组织反应的最小活度估算值。"
+  },
+  {
+   "cn": "验收活动",
+   "en": "acceptance activity",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对可能产生职业病危害的建设项目在施工完成后，建设单位对职业病防护设施进行的自我评价，合格后该项目方可投入生产和使用。"
+  },
+  {
+   "cn": "活动记录",
+   "en": "activity record",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析一个行动中在时间和空间上各个动作发生顺序和关系的图表，例如一次手术的各个动作和环节。"
+  },
+  {
+   "cn": "社会活动",
+   "en": "social activity",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会成员彼此为对象，为了共同的利益、目标、或兴趣所从事的种种集体活动。"
+  },
+  {
+   "cn": "活动理论",
+   "en": "activity theory",
+   "source": "社会学名词",
+   "wordNumber": "3.15.4.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年与老龄化相关理论",
+   "subjectName": "老年与老龄化相关理论",
+   "publishYear": "2025",
+   "definition": "由美国学者哈韦格斯特(Robert Havighurst）提出的一种社会老年学领域的理论，是脱离理论的反命题，认为老年人应积极参与社会。只有参与，才能使老年人重新认识自我，保护生命的活力。"
+  },
+  {
+   "cn": "感性活动",
+   "en": "perceptual activity",
+   "source": "马克思主义",
+   "wordNumber": "01.0178",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的、活生生的、现实的实践活动，它体现了实践的能动性、主体性。在人的感性活动中把握对象，是马克思主义哲学同旧唯物主义的根本区别。"
+  },
+  {
+   "cn": "身体活动",
+   "en": "physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "由骨骼肌收缩引起的，导致机体能量消耗增加的一切活动，包括职业性、交通性、日常生活体力活动及闲暇时的体育锻炼。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

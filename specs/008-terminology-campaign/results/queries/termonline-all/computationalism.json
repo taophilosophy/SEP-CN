@@ -1,0 +1,42 @@
+{
+ "key": "computationalism",
+ "term": "computationalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:54:32+00:00",
+ "status": "ok",
+ "note": "variant=computationalism; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "计算主义",
+   "en": "computationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.512",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "主张认知过程就是特定的计算装置的计算过程。一种典型的形式是认知科学早期的心智的数字计算理论，认为认知状态是计算心理表征的计算关系；认知状态的改变都是计算心理表征的计算操作；计算的结构和表征都是数字化的"
+  },
+  {
+   "cn": "计算不可区分的",
+   "en": "computationally indistinguishable",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0460",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定随机变量序列<img src='/root/syzx/static/spz/jsjkx3.02.0460.001.png'/>，<img src='/root/syzx/static/spz/js"
+  },
+  {
+   "cn": "计算主义",
+   "en": "computationalism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

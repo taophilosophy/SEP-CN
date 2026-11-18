@@ -1,0 +1,672 @@
+{
+ "key": "experimental psychology",
+ "term": "experimental psychology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:58:34+00:00",
+ "status": "ok",
+ "note": "variant=experimental psychology; 审定公布名词库=713; 海峡两岸名词对照库=244; 其他来源数据库=23; 预公布名词数据库=78; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "实验心理学",
+   "en": "experimental psychology",
+   "source": "心理学名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "心理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "用实验方法研究心理学的分支学科。"
+  },
+  {
+   "cn": "实验社会心理学",
+   "en": "experimental social psychology",
+   "source": "心理学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "以实验为主导取向的社会心理学。"
+  },
+  {
+   "cn": "冯特的实验心理学",
+   "en": "experimental psychology of Wundt",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0383",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "威廉·冯特(Wihelm Wundt)在莱比锡实验室通过有控制的实验来考察人的特性和行为，实现了心理学同哲学的分离，使心理学变成一门科学。冯特的实验心理学研究，为应用心理学和工业心理学开辟了道路。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "行为医学名词",
+   "wordNumber": "4.002",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "研究人的心智与行为、心理现象及其规律的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "计划生育名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "应用反应论和信息论等理论和方法，研究心理事实、心理规律和心理机制的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "老年医学名词",
+   "wordNumber": "10.001",
+   "subjectFullName": "老年医学_老年心理学",
+   "subjectName": "老年心理学",
+   "publishYear": "2017",
+   "definition": "研究人的心理现象的发生、发展和活动规律的学科。心理现象是心理活动的表现形式，包括感觉、知觉、记忆、想象、思维、情感、意志等心理过程及在这些心理过程中形成与表现出来的需要、兴趣、理想、信念、态度、性格、"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "心理学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "心理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "研究人的心智与行为的学科。"
+  },
+  {
+   "cn": "实验岩石学",
+   "en": "experimental petrology",
+   "source": "地质学名词",
+   "wordNumber": "04.01.006",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在实验室控制的物理化学条件下研究矿物、岩石体系相平衡和动力机理，进而探讨岩石、矿物成因及形成物理化学条件与作用过程的岩石学分支学科。"
+  },
+  {
+   "cn": "实验沉积学",
+   "en": "experimental sedimentology",
+   "source": "地质学名词",
+   "wordNumber": "05.01.008",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "应用实验手段，模拟沉积作用过程，探讨沉积成岩机理的沉积学分支学科。"
+  },
+  {
+   "cn": "实验地球化学",
+   "en": "experimental geochemistry",
+   "source": "地质学名词",
+   "wordNumber": "13.01.037",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在实验室条件下，通过对元素、矿物、岩石等地质体和地质现象的人工复制、模拟及物理化学分析来研究天然地质体和地质过程生成的机理和规律的地球化学分支学科。"
+  },
+  {
+   "cn": "实验矿床学",
+   "en": "experimental metallogeny",
+   "source": "地质学名词",
+   "wordNumber": "14.01.003",
+   "subjectFullName": "地质学_矿床学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以成矿实验研究为主体的矿床学分支学科。通过对实验室受控条件(各种温、压条件)下组成矿床的矿物体系(矿物与熔体、溶液、气体物质相的关系及物理化学性质等)相平衡的实验研究，探讨有用组分成矿作用的条件和机理"
+  },
+  {
+   "cn": "实验地热学",
+   "en": "experimental geothermics",
+   "source": "地质学名词",
+   "wordNumber": "15.01.010",
+   "subjectFullName": "地质学_地热地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以开展岩石热物理性质的室内外测试、方法技术与仪器设备研发、高温高压实验为主要研究内容的地热学分支学科。"
+  },
+  {
+   "cn": "实验地质学",
+   "en": "experimental geology",
+   "source": "地质学名词",
+   "wordNumber": "01.00.123",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在人工控制的实验室条件下，通过对元素、矿物、岩石等地质体和地质现象的人工复制、模拟及物理、化学分析来研究天然地质体和地质过程生成的机理和规律的学科。"
+  },
+  {
+   "cn": "实验矿物学",
+   "en": "experimental mineralogy",
+   "source": "地质学名词",
+   "wordNumber": "03.01.007",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以人工合成矿物为研究对象，研究在不同的物理、化学条件下矿物的形成和变化、矿物相平衡系统以及合成矿物制取的矿物学分支学科。"
+  },
+  {
+   "cn": "实验式",
+   "en": "experimental formula",
+   "source": "地质学名词",
+   "wordNumber": "03.01.023",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "只表示组成矿物的组分种类和数量比的矿物化学式。"
+  },
+  {
+   "cn": "实验科学",
+   "en": "experimental science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.034",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "一般指运用实验方法研究自然事物的一般原理和规律的科学。主张科学必须是实验的、归纳的，一切真理都必须以大量确凿的事实材料为依据。12世纪起在西欧的一些大学兴起，其最早的倡导者是英国的R. 培根（R. B"
+  },
+  {
+   "cn": "实验传统",
+   "en": "experimental tradition",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.047",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "近代科学的研究传统之一。伽利略是实验传统的重要开创者，炼金术传统、数理传统、培根传统是实验传统兴起的重要来源。实验为自然科学进行定性描述奠定了基础，以实验事实为依据是近代科学的基本特征。"
+  },
+  {
+   "cn": "实验实在论",
+   "en": "experimental realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.035",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由I. 哈金（I. Hacking）提出。认为如果我们可以通过实验手段来有效利用实体（如电子），那么该实体就是真实存在的。"
+  },
+  {
+   "cn": "实验观察",
+   "en": "experimental observation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.063",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "在人为地控制或干预的实验条件下对研究对象的观察。它可以排除干扰，突出主要因素，使某一事件或现象在有利于观察的条件下发生或重演，是获取科学事实的一种重要研究方法。与仪器观察相近。"
+  },
+  {
+   "cn": "实验处理",
+   "en": "experimental treatment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.072",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "根据一定的研究目的，利用仪器和设备等手段，人为地控制和模拟自然现象，使某一事物（或过程）发生或重演，以便在比较纯粹的形态下观察和研究自然现象的过程。"
+  },
+  {
+   "cn": "实验心理学",
+   "en": "experimental psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "应用实验心理学",
+   "en": "applied experimental psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验多精受精",
+   "en": "experimental polyspermy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "实验胚胎学",
+   "en": "experimental embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "实验形态学",
+   "en": "experimental morphology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "实验分类学",
+   "en": "experimental taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实验生理学",
+   "en": "experimental physiology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "试验流域",
+   "en": "experimental basin",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实验误差",
+   "en": "experimental error",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实验用反应器",
+   "en": "experimental reactor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实验数据",
+   "en": "experimental data",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实验设计",
+   "en": "experimental design",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实验条件",
+   "en": "experimental condition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验研究法",
+   "en": "experimental research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验控制",
+   "en": "experimental control",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验神经心理学",
+   "en": "experimental neuropsychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验真实性",
+   "en": "experimental realism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验设计",
+   "en": "experimental design",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验法",
+   "en": "experimental method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理创伤",
+   "en": "psychological trauma",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心理疏导",
+   "en": "psychological counseling",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实验科学范式",
+   "en": "experimental science paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《新冠肺炎疫情心理疏导工作方案》",
+   "en": "Work Plan on Psychological Counseling for People Affected by COVID-19",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子互联网实验",
+   "en": "Quantum Internet Experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "布丰投针实验",
+   "en": "Buffon’s needle experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实验社会心理学",
+   "en": "experimental social psychology",
+   "source": "社会学名词",
+   "wordNumber": "4.1.1.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学学科分支",
+   "subjectName": "社会心理学学科分支",
+   "publishYear": "2025",
+   "definition": "将社会心理现象视为客观存在的自然现象，并通过实验室实验法或现场实验法加以研究（侧重于量化分析）的学科。"
+  },
+  {
+   "cn": "实验设计",
+   "en": "experimental design",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "有计划的把实验对象随机分配到不同的组别，根据它们的组别对它们进行不同程度的处理，观测处理效果，并运用统计分析方法确定处理与变异间关系的研究设计方式。"
+  },
+  {
+   "cn": "实验民族志",
+   "en": "experimental ethnographies",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "通过解读对话文本、话语文本、合作文本、超现实文本四类实验文本而产生的文化书写形态。强调作者与研究对象和读者的平等对话，采用第一人称进行自我反思叙述。"
+  },
+  {
+   "cn": "实验民族志",
+   "en": "experimental ethnography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0618",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪70 年代中期兴起的后现代人类学思潮，把人类学学家和他们的田野经历作为民族志实验的焦点和阐述中心，对文本进行有意识的组织，把研究者当成文化的翻译者，对文化进行阐释。实验民族志的贡献在于指出了"
+  },
+  {
+   "cn": "实验设计",
+   "en": "experimental design",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.6",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "按照随机化的原则，将研究对象分为实验组和对照组，分别观察两组在干预前后的变化情况，再对变化情况进行分析后得出结论的研究方法。"
+  },
+  {
+   "cn": "社会心理学",
+   "en": "social psychology",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "一门侧重描述和解释群体中的个体或个体同群体相互作用的学科。内容涉及社会情境、社会化、社会性的认知、情感、思维、动机、态度及社会行为模式等方面，并由此扩展为对人际与大众传播心理乃至集群行为的研究等。"
+  },
+  {
+   "cn": "心理指标",
+   "en": "psychology parameter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "反映儿童青少年心理健康状况的指标，包括是否有抑郁、焦虑情绪，是否有自伤、自杀等相关行为等"
+  },
+  {
+   "cn": "性心理",
+   "en": "sex psychology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "围绕性征、性欲和性行为而展开的心理活动，由性意识、性感情、性知识、性经验和性观念等组成。"
+  },
+  {
+   "cn": "医学心理学",
+   "en": "medical psychology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.19",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "心理学与医学相结合的一门交叉学科。将心理学的理论和技术应用于医学领域，探索心理因素在人体健康以及疾病的发生、发展、诊断、治疗、预防与医疗护理中的作用。"
+  },
+  {
+   "cn": "民族心理",
+   "en": "ethnic psychology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0486",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一个民族作为一个大群体所具有的典型心理特点，通过该民族成员个体表现出来。民族心理特点是一个民族长期在特定的自然环境与社会环境的制约下，在历史文化的积淀过程中形成的，并通过一定的生产和生活方式及各种文化"
+  },
+  {
+   "cn": "心理民俗学",
+   "en": "psychology folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0501",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究民俗与心理相互关系的学科，认为社会民俗是民众集体无意识和集体有意识的综合表现。"
+  },
+  {
+   "cn": "道德心理",
+   "en": "moral psychology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.015",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "具有一定道德倾向性的比较稳定的心理特征的总和，是道德知识、道德行为、社会道德要求以及道德文化的心理反映。"
+  },
+  {
+   "cn": "心理压力",
+   "en": "psychological stress",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.11",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "生活中的刺激事件和内在要求对心理造成的困惑或威胁。"
+  },
+  {
+   "cn": "心理评价",
+   "en": "psychological evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.3.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用心理指标评价环境热舒适程度的过程。"
+  },
+  {
+   "cn": "心理危机",
+   "en": "psychological crisis",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "个人遇到应激或挫折而自己不能解决或处理时，发生的心理失衡状态。"
+  },
+  {
+   "cn": "心理逆反",
+   "en": "psychological reactance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "在个人的自由遭到实际的或者想象的威胁时作出的抗拒反应。个体通过挑战规则或做出不被允许的行为以重申其选择的自由。"
+  },
+  {
+   "cn": "心理阻抗",
+   "en": "psychological resistance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，求咨者在咨询中出现的各种下意识的自我保护现象。如每次咨询都迟到，交谈时注意力分散、态度消极、漠视对方或情绪急躁。多见于幼儿期有过创伤体验或受压抑的求咨者，也可能因咨询者因素导致。"
+  },
+  {
+   "cn": "精神暴力",
+   "en": "psychological violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.3",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "任何有意为之并损害女性心理健康和造成精神痛苦的的言语或行为，主要包括恐吓、威胁、吼叫、嘲笑、侮辱、霸道、监视控制、歧视等。"
+  },
+  {
+   "cn": "心理干预",
+   "en": "psychological intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "在心理学理论指导下，有计划、按步骤地对一定对象的心理活动、个性特征或行为问题施加影响，使之发生朝向预期目标变化的过程。"
+  },
+  {
+   "cn": "心理人类学派",
+   "en": "psychological anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0554",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪30 年代前后，美国历史学派中的一些学家开始转向民族心理和文化现象的研究，从探索民族性格入手，到研究特定民族的文化模式、变迁和表现等等，他们注重生理学、心理学的人类行为心理研究，主要代表人物"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

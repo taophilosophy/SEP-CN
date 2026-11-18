@@ -1,0 +1,802 @@
+{
+ "key": "without exception",
+ "term": "without exception",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:00:51+00:00",
+ "status": "ok",
+ "note": "variant=without exception; 审定公布名词库=440; 海峡两岸名词对照库=125; 其他来源数据库=59; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "异常",
+   "en": "exception",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0344",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "程序执行过程中发生的导致程序无法继续执行的事件。通常引发操作系统异常处理例程来处理发生的事件。"
+  },
+  {
+   "cn": "例外控制",
+   "en": "exception control",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "遵循泰勒提出的例外管理原则，对偏离计划和预制效果的事件实施应用控制，一般事务则通过授权由下级管理人员处理的控制方法。"
+  },
+  {
+   "cn": "文化例外",
+   "en": "cultural exception",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.043",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "将文化产品和服务排除在国际贸易谈判之外的原则。最早由法国在“世贸”前身“关贸总协定”的谈判中提出。基于文化的特殊性和重要性，该原则反对将文化列入一般性服务贸易内容之中，即在世贸组织有关自由贸易的协议中"
+  },
+  {
+   "cn": "异常处理",
+   "en": "exception handling",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0345",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "程序在运行时，对不属于正常业务逻辑的意外或异常情况进行处理的过程。"
+  },
+  {
+   "cn": "寻址异常",
+   "en": "addressing exception",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0500",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在根据逻辑地址访问物理内存单元过程中发生的异常。"
+  },
+  {
+   "cn": "异常分派程序",
+   "en": "exception dispatcher",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0346",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "负责找到异常所对应的处理例程并使其被调度执行的操作系统程序。"
+  },
+  {
+   "cn": "例外原则",
+   "en": "exception principle",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0310",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "泰勒(Frederick W. Taylor)确定的划分组织层级管理权限的原则。按照层次分工授权，各级自主处理本级职责内常规事务，各级只处理下一级汇报上来的例外事务。"
+  },
+  {
+   "cn": "异常处理",
+   "en": "exception handling",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.183",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "特殊儿童",
+   "en": "exceptional child",
+   "source": "心理学名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "需给予特殊的教育帮助才能充分发展的儿童。"
+  },
+  {
+   "cn": "额外超载",
+   "en": "exceptional overload",
+   "source": "电气工程名词",
+   "wordNumber": "20.179",
+   "subjectFullName": "电气工程_电力牵引",
+   "subjectName": "电力牵引",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "例外值",
+   "en": "exceptional value",
+   "source": "数学名词",
+   "wordNumber": "05.0431",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "例外曲线",
+   "en": "exceptional curve",
+   "source": "数学名词",
+   "wordNumber": "04.1231",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无后效",
+   "en": "without aftereffect",
+   "source": "数学名词",
+   "wordNumber": "09.0289",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "异常调度程序",
+   "en": "exception scheduling program",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0347",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "负责调度和执行异常处理程序的操作系统程序。"
+  },
+  {
+   "cn": "例外字",
+   "en": "exceptional reading character",
+   "source": "语言学名词",
+   "wordNumber": "07.107",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "方言里面今读音不符合古今音对应规律的汉字。例如根据古今音规律，中古止摄开口三等字“玺徙”字在北京话里应该跟“死”同音，由于避讳，这两个字读音例外。"
+  },
+  {
+   "cn": "阔大货物",
+   "en": "exceptional dimension freight",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0160",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "超长货物",
+   "en": "exceptional length freight",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0161",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "例外若尔当代数",
+   "en": "exceptional Jordan algebra",
+   "source": "数学名词",
+   "wordNumber": "04.1484",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无转子硫化仪",
+   "en": "curemeter without rotator,vulcameter without rotator",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.1216",
+   "subjectFullName": "材料科学技术_高分子材料_高分子材料性能及其测试方法",
+   "subjectName": "高分子材料性能及其测试方法",
+   "publishYear": "2011",
+   "definition": "将未硫化橡胶放入恒温模腔内，在下模腔的水平摆动剪切作用下，测定胶料硫化过程中对下模腔反作用力矩(表征硫化程度)连续变化的仪器。"
+  },
+  {
+   "cn": "除外条款",
+   "en": "exception clause,exemption clause",
+   "source": "航海科技名词",
+   "wordNumber": "13.0092",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "异常",
+   "en": "exception",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "异常",
+   "en": "exception",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等级例外运费率",
+   "en": "exception rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "例外条款",
+   "en": "exception clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "异常处理",
+   "en": "exception handling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异常处理程序",
+   "en": "exception handler",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异常分派程序",
+   "en": "exception dispatcher",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特佳能见度",
+   "en": "exceptional visibility",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异常调度程序",
+   "en": "exception scheduling program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无霜日",
+   "en": "day without frost",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无词歌",
+   "en": "Songs Without Words",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "没有约定的发盘",
+   "en": "offer without engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无担保贷款",
+   "en": "loan without security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权背书",
+   "en": "endorsement without recourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权背书，无担保背书",
+   "en": "indorsement without recourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权贷款",
+   "en": "without-recourse financing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无追索权的汇票",
+   "en": "draft without recourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无放回抽样",
+   "en": "sampling without replacement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "另有相反的规定除外",
+   "en": "except otherwise herein provided",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "无转子硫化仪",
+   "en": "curemeter without rotator\",\"extensional rheometer\",\"vulcameter without rotator",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "没有失误",
+   "en": "course without fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不言之教",
+   "en": "Influence Others Without Preaching",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "没有硝烟的战争",
+   "en": "a war without smoke",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轻量级四人单桨无舵手",
+   "en": "lightweight four without coxswain",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无球假动作",
+   "en": "fake without the ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乐而不淫，哀而不伤",
+   "en": "Express Enjoyment Without Indulgence and Express Grief Without Excessive Distress",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自选动作",
+   "en": "dive without limit\",\"voluntary dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有教无类",
+   "en": "Education for All Without Discrimination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不战而胜",
+   "en": "Win Without Resorting to War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "卧游",
+   "en": "Enjoy Sceneries Without Physically Travelling",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "睦内图外",
+   "en": "Unity Within and Expansion Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "善胜者不争",
+   "en": "Win a War Without Fighting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "攻其无备，出其不意",
+   "en": "Attack Unexpectedly and Without Warning",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无一字无来历",
+   "en": "No Word Is Without a Source.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兵强而无义者残",
+   "en": "A Strong Army Without Righteousness Is Destructive.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外师造化，中得心源",
+   "en": "Draw Artistic Inspiration from Both Within and Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "酌奇而不失其贞",
+   "en": "Seek Novelty Without Deviating from the Proper Way",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民无信不立",
+   "en": "Without People’s Trust the State Will Not Survive.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无隔膜式电解槽",
+   "en": "electrobath without membrane",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "槽内仅设有阴阳电极，并有进、出口的封闭式电解槽。"
+  },
+  {
+   "cn": "无发展的增长",
+   "en": "growth without development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.4.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_其他发展理论",
+   "subjectName": "其他发展理论",
+   "publishYear": "2025",
+   "definition": "黄宗智对中国明清时期商品化和经济不发展并存现象的一种理论解释。他认为中国明清时期的商品化主要是由人口压力推动的过密型商品化，它可能带来的增长是有限的，不会带来资本的积累，其结果是商品化和经济不发展现象"
+  },
+  {
+   "cn": "去骨类禽罐头",
+   "en": "poultry can without bones",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.2.2",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将处理好的原料经去骨、切块、预煮后，加入调味盐（精盐、胡椒粉、味精等）等工序制成的罐藏食品。"
+  },
+  {
+   "cn": "白烧类禽罐头",
+   "en": "cooked poultry can without condiments",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.2.1",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将处理好的原料经切块（或不切块）、装罐，加入少许盐（或稀盐水）等工序制成的罐藏食品。"
+  },
+  {
+   "cn": "进口无国标食品",
+   "en": "imported food without national standard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.40",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "由境外生产经营的，尚未进口且我国未制定公布相应食品安全国家标准的食品。"
+  },
+  {
+   "cn": "不使用安全套的性行为",
+   "en": "unprotected sex/ sex without a condom",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "发生性行为时未使用或未正确使用安全套，属于无保护性行为，会增加怀孕、感染性传播疾病的风险。"
+  },
+  {
+   "cn": "保湿无水保活运输",
+   "en": "alive transportation retaining moisture without water",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.21",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "活体水产品运输过程巾采用保湿材料使其体表保持潮湿，并将温度控制在接近其生态冰温的条件"
+  },
+  {
+   "cn": "自愿无偿原则",
+   "en": "principle of voluntariness consent to donation without compensation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.073",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "要求器官捐献应当由捐献者及其亲属完全自主决定并坚持无偿捐献的伦理原则。是保障人的基本权利和人格尊严的具体体现。"
+  },
+  {
+   "cn": "衣冠冢",
+   "en": "tomb containing personal effects of the deceased without remains",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0275",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "仅埋葬死者穿戴过的衣帽、无遗体的墓葬，起源于氏族社会后期；后世的衣冠冢通常也因各种原因无法安葬遗体，而被迫改葬衣物作为替代。"
+  },
+  {
+   "cn": "先奏后斩先斩后奏斩而不奏不斩不奏",
+   "en": "report first and then act to act first and report afterwards to act without reporting not to report and not to act",
+   "source": "马克思主义",
+   "wordNumber": "03.0438",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "针对王明等人“一切经过统一战线”“一切服从统一战线”的思想，毛泽东在《统一战线中的独立自主问题》一文中提出的关于统一战线中既统一、又独立的策略方针。旨在不破坏统一战线的基础上，大胆开展工作，扩大革命力"
+  },
+  {
+   "cn": "排出",
+   "en": "excretion",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.2.4",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "化学物在体内通过代谢、分解等方式转化为代谢产物后经尿液、汗液、粪便等途径释出体外的过程。"
+  },
+  {
+   "cn": "豁免",
+   "en": "exemption",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.8.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_豁免与解控",
+   "subjectName": "豁免与解控",
+   "publishYear": "2025",
+   "definition": "经监管部门决定对某个源或某项实践免于部分或全部的监管控制，其依据是该源或实践所造成的照射或潜在照射太弱，没必要对其应用此等监管控制，而且无论剂量或危险的实际水平如何，这都是最佳防护选择。"
+  },
+  {
+   "cn": "排除",
+   "en": "excretion",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.43",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素由机体的各个排泄途径（泌尿系统、胃肠道、呼吸系统、汗腺等）排出体外的过程。"
+  },
+  {
+   "cn": "欺骗",
+   "en": "deception",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.114",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "无视道德规范的制约，以非正当手段获得或占有为目的，利用他人的弱点或社会、组织的缺陷，通过虚构或隐瞒事实真相等言论或行动的方法，侵害他人或社会利益，使个人或组织的私欲得以满足的行为。"
+  },
+  {
+   "cn": "豁免水平",
+   "en": "exemption level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.8.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_豁免与解控",
+   "subjectName": "豁免与解控",
+   "publishYear": "2025",
+   "definition": "由审管部门确定并以活度浓度、总活度、剂量率或辐射能量表示的值，在此值或以下辐射源的某些或所有方面无需接受审管控制。"
+  },
+  {
+   "cn": "内源性排泄",
+   "en": "endogenous excretion",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.22",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "用于描述血液中物质排泄到消化道的过程，也指胆道排泄和物质通过消化道壁的过程。"
+  },
+  {
+   "cn": "外源性排泄",
+   "en": "exogenous excretion",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.23",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "用于描述通过消化道而不被吸收的排泄物（粪便）的过程。"
+  },
+  {
+   "cn": "排除份额",
+   "en": "excretion fraction",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.44",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便等排泄途径的排出量占初始进入量的比例。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "接受理论",
+   "en": "reception theory",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "文学理论中关于读者反应的一种学说，强调读者对文学作品的接受程度，讨论文学作品与读者之间的关系。德国美学家姚斯(H.R.Jauss）在20世纪60年代最先提出该理论。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,722 @@
+{
+ "key": "bodily sensations",
+ "term": "bodily sensations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:37:38+00:00",
+ "status": "ok",
+ "note": "variant=bodily sensations; 审定公布名词库=1397; 海峡两岸名词对照库=347; 其他来源数据库=36; 预公布名词数据库=62; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "人身伤害",
+   "en": "bodily injury",
+   "source": "电气工程名词",
+   "wordNumber": "29.025",
+   "subjectFullName": "电气工程_电气安全",
+   "subjectName": "电气安全",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "平离",
+   "en": "leaving bodily",
+   "source": "航海科技名词",
+   "wordNumber": "09.0110",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.142",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。包括一般感觉（浅感觉、深感觉、复合感觉）和特殊感觉（视觉、听觉、味觉、嗅觉）。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "行为医学名词",
+   "wordNumber": "3.266",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "大脑对刺激物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "生理学名词",
+   "wordNumber": "03.202",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "精神医学名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "计划生育名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "大脑对直接作用于感觉器官的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "显微外科学名词",
+   "wordNumber": "05.155",
+   "subjectFullName": "显微外科学_周围神经_周围神经损伤诊断_周围神经损伤物理检查",
+   "subjectName": "周围神经损伤物理检查",
+   "publishYear": "2016",
+   "definition": "刺激作用于感觉器官，经过神经系统的信息整合所产生的对该刺激个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "心理学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体对直接作用于自身的客观事物个别属性的反映。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "电气工程名词",
+   "wordNumber": "22.110",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "躯体痛苦障碍",
+   "en": "bodily distress disorder",
+   "source": "行为医学名词",
+   "wordNumber": "16.185",
+   "subjectFullName": "行为医学_其他神经行为障碍_躯体痛苦及躯体体验障碍",
+   "subjectName": "躯体痛苦及躯体体验障碍",
+   "publishYear": "2022",
+   "definition": "涉及各种使个体感到痛苦不适的躯体症状，同时个体对这些症状过度或超出限度关注的精神障碍。"
+  },
+  {
+   "cn": "形体感知综合障碍",
+   "en": "bodily psychosensory disturbance",
+   "source": "精神医学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者感到自己体形发生了明显变化的一种感觉障碍。如觉得头变得很大，或四肢变得细如钢丝等。"
+  },
+  {
+   "cn": "躯体痛苦及躯体体验障碍",
+   "en": "disorder of bodily distress and bodily experience",
+   "source": "行为医学名词",
+   "wordNumber": "16.184",
+   "subjectFullName": "行为医学_其他神经行为障碍_躯体痛苦及躯体体验障碍",
+   "subjectName": "躯体痛苦及躯体体验障碍",
+   "publishYear": "2022",
+   "definition": "个体对自身躯体体验的紊乱。包含躯体痛苦障碍和躯体完整性烦恼。"
+  },
+  {
+   "cn": "温度[感]觉",
+   "en": "temperature sensation,thermal sensation",
+   "source": "生理学名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "浅感觉",
+   "en": "superficial sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.143",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "来自皮肤和黏膜的痛觉、温度觉及触觉。"
+  },
+  {
+   "cn": "深感觉",
+   "en": "deep sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "来自肌腱、肌肉、骨膜和关节的运动觉、位置觉和振动觉。"
+  },
+  {
+   "cn": "复合感觉",
+   "en": "combined sensation",
+   "source": "急救医学名词",
+   "wordNumber": "03.145",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "大脑顶叶皮质对深浅感觉分析、比较、整合而形成的实体觉、图形觉、两点辨别觉、定位觉和重量觉等。"
+  },
+  {
+   "cn": "平衡觉",
+   "en": "equilibratory sensation",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.3",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "对自身身体平衡状态、头部运动速度和方向的感觉。"
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.2.15",
+   "subjectFullName": "鼻科_鼻生理",
+   "subjectName": "鼻生理",
+   "publishYear": "2025",
+   "definition": "由发散于空气中的嗅素作用于嗅裂中的嗅细胞产生神经冲动并传至神经中枢引起的感觉。能起到识别、报警、增加食欲和影响情绪的作用。"
+  },
+  {
+   "cn": "浅感觉",
+   "en": "superficial sensation",
+   "source": "麻醉学名词",
+   "wordNumber": "07.017",
+   "subjectFullName": "麻醉学_疼痛诊疗_疼痛评估",
+   "subjectName": "疼痛评估",
+   "publishYear": "2024",
+   "definition": "皮肤与黏膜的感受器位置较浅的感觉。通常包括痛觉、温觉、触觉、压觉等。"
+  },
+  {
+   "cn": "平离",
+   "en": "leaving bodily",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "身体-运动智力",
+   "en": "bodily kinesthetic intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "静位觉（=平衡觉）",
+   "en": "equilibratory sensation\",\"static sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "平衡觉，静位觉",
+   "en": "equilibratory sensation\",\"static sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤[感]觉",
+   "en": "cutaneous sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "温觉",
+   "en": "warm sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉寻求",
+   "en": "sensation seeking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "振动觉",
+   "en": "vibration sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冷觉",
+   "en": "cold sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "温度觉",
+   "en": "temperature sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肌觉",
+   "en": "muscle sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "平衡觉",
+   "en": "equilibratory sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "触觉",
+   "en": "touch sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肤觉",
+   "en": "cutaneous sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "痒觉",
+   "en": "itching sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "化学感觉",
+   "en": "chemical sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内脏感觉",
+   "en": "visceral sensation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "身体",
+   "en": "body",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体波浪",
+   "en": "body wave",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手线",
+   "en": "body wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手线",
+   "en": "body wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体阻挡",
+   "en": "body checking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "假动作",
+   "en": "body fake\",\"body feint\",\"fake\",\"feint",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体接触",
+   "en": "body contact\",\"clinch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体接触",
+   "en": "body contact\",\"infighting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体接触",
+   "en": "body contact\",\"clinch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体质量指数",
+   "en": "Body Mass Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "降低重心",
+   "en": "lower the body",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sensation",
+   "source": "马克思主义",
+   "wordNumber": "01.0203",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "对直接作用于感觉器官的客观事物的个别属性的反映，是整个认识过程的起点。"
+  },
+  {
+   "cn": "揉面感",
+   "en": "doughy sensation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.14",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "腹膜慢性炎症时由于腹膜增厚、肠管肠系膜粘连使得在触诊时腹壁柔韧有抵抗力，不易压陷的体征。"
+  },
+  {
+   "cn": "猎奇心理",
+   "en": "sensation seeking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.8.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "个体为获得变化的、新奇的、复杂的和强烈的感觉体验，甘愿承担可能的身体、社会、经济和法律等方面的风险而从事某活动的愿望。"
+  },
+  {
+   "cn": "触觉",
+   "en": "tactile sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对人体体表的机械接触(接触刺激）的感觉。是由压力和牵引力作用于触觉感受器而引起。"
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "由发散于空气中的物质微粒作用于上鼻道嗅上皮中的嗅细胞产生神经冲动传至神经中枢引起的感觉。"
+  },
+  {
+   "cn": "味觉",
+   "en": "gustatory sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "有味物质刺激口腔内味觉感受体(如味蕾等)诱发神经冲动传入中枢引发的感觉。"
+  },
+  {
+   "cn": "前庭觉",
+   "en": "vestibular sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.6",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对自身身体平衡状态、头部运动速度和方向的感觉。"
+  },
+  {
+   "cn": "本体觉",
+   "en": "proprioceptive sensation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.7",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "来自肌、腱、关节等处感受器的冲动传向大脑和小脑所产生的感觉。包括位置觉、运动觉和振动觉。"
+  },
+  {
+   "cn": "嗅觉",
+   "en": "olfactory sensation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.8",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "挥发性物质刺激鼻腔产生的一类化学感应。由嗅神经系统和鼻三叉神经系统参与。"
+  },
+  {
+   "cn": "身体",
+   "en": "body",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "哲学传统中意指相对于灵魂的躯体，即生物事实以外的，以文化事实、社会事实为基础的肉体表达系统。"
+  },
+  {
+   "cn": "身体政治",
+   "en": "body politics",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.19",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女性主义的一个核心议题。认为女性身体既是父权制下被物化和规训的客体，同时也是女性赋权的工具。身体本身是性别政治和权力支配的产物，但也可以作为一种政治抗争的武器。"
+  },
+  {
+   "cn": "身体研究",
+   "en": "body studies",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.6",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "探讨高度现代性社会条件下人与其身体之间关联方式的反思性，亦即自我、身体与死亡之间关系的文明化身体的跨学科研究。"
+  },
+  {
+   "cn": "身体语言",
+   "en": "body language",
+   "source": "社会学名词",
+   "wordNumber": "4.1.14.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_沟通",
+   "subjectName": "沟通",
+   "publishYear": "2025",
+   "definition": "非语词性的身体符号，包括目光与面部表情、身体运动与触摸、身体姿势与外表、身体之间的空间距离等。"
+  },
+  {
+   "cn": "关节游离体",
+   "en": "loose body",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "剥脱性骨软骨炎、关节内骨软骨骨折、骨性关节炎和滑膜软骨瘤病骨造成的脱落碎屑或骨块形成的游离体。其在关节内游离移动时引起关节绞锁、疼痛和活动障碍。以膝、肘、髋和踝关节多见。"
+  },
+  {
+   "cn": "米粒体",
+   "en": "rice body",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.8",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "在关节腔内或滑囊内,多发的类似于米粒大小的游离体。大部分表面光滑,直径通常为2~7mm,位于积液内，形成米粒体性滑囊炎。部分学者认为米粒体是脱落的滑膜的微梗死灶被滑液中的纤维蛋白包裹所致；还有研究认为"
+  },
+  {
+   "cn": "风湿小体",
+   "en": "Aschoff body",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.29",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "风湿病的增生期或肉芽肿期，心肌间质，心内膜下和皮下结缔组织中，在胶原纤维间水肿，基质蛋白多糖增多，纤维素样坏死的基础上，出现巨噬细胞增生、聚集，吞噬纤维素样坏死物后所形成的风湿细胞。小体中心有类纤维蛋"
+  },
+  {
+   "cn": "体型",
+   "en": "body shape",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "身体各部位大小比例的形态特征总和。"
+  },
+  {
+   "cn": "身体成分",
+   "en": "body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "组成人体质量的各组成成分的含量，包括肌肉、骨骼、脂肪、水和矿物质等。"
+  },
+  {
+   "cn": "体重",
+   "en": "body weight",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "称量得到的身体重量。是营养状况评定中最简单又重要的指标。"
+  },
+  {
+   "cn": "异物",
+   "en": "foreign body",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据加工要求或食品标准不应该含有的物质。既包括食品原辅料本身含有，但产品要求剔除的物质，如肉中的骨头，菜中的菜根，也包括原本不属于食品原辅料的一部分而混入产品的物质，如金属和杂草等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,342 @@
+{
+ "key": "homomorphisms",
+ "term": "homomorphisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:14:48+00:00",
+ "status": "ok",
+ "note": "variant=homomorphisms; 审定公布名词库=53; 海峡两岸名词对照库=12; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "同形性",
+   "en": "homomorphism",
+   "source": "物理学名词",
+   "wordNumber": "08.0746",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同态",
+   "en": "homomorphism",
+   "source": "数学名词",
+   "wordNumber": "01.0117",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语言同态",
+   "en": "language homomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0500",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "语言的一种运算：若定义了字母表到另一个字母表Δ的串集合上的一个同态映射 h : Σ→<img src='/root/syzx/static/spz/jsjkx3.02.0500.001.png'/>"
+  },
+  {
+   "cn": "逆同态",
+   "en": "inverse homomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0508",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "语言的同态运算的反向操作：设 h :Σ→<img src='/root/syzx/static/spz/jsjkx3.02.0500.001.png'/>是一个同态，<img src='/root/s"
+  },
+  {
+   "cn": "格同态",
+   "en": "lattice homomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0242",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶同态",
+   "en": "dual homomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0248",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "群同态",
+   "en": "group homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1764",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算子同态",
+   "en": "operator homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1784",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自然同态",
+   "en": "natural homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0871",
+   "subjectFullName": "数学_代数学_代数几何学_模论",
+   "subjectName": "模论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "模同态",
+   "en": "module homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0873",
+   "subjectFullName": "数学_代数学_代数几何学_模论",
+   "subjectName": "模论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "环同态",
+   "en": "ring homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1309",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单同态",
+   "en": "injective homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1312",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "满同态",
+   "en": "surjective homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1313",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "反同态",
+   "en": "anti-homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1317",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "余模同态",
+   "en": "comodule homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0930",
+   "subjectFullName": "数学_代数学_代数几何学_模论",
+   "subjectName": "模论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数同态",
+   "en": "algebra homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1397",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分次同态",
+   "en": "graded homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0990",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "余代数同态",
+   "en": "coalgebra homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1468",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "若尔当同态",
+   "en": "Jordan homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1482",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "泛同态",
+   "en": "generic homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1236",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同态",
+   "en": "homomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆同态",
+   "en": "inverse homomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同形染色体",
+   "en": "homomorphic chromosome",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同型叶，一型叶",
+   "en": "homomorphic leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一型叶（=同型叶）",
+   "en": "homomorphic leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同形染色体",
+   "en": "homomorphic chromosome",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同形二价体",
+   "en": "homomorphic bivalent",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同态处理",
+   "en": "homomorphic processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同态去卷积",
+   "en": "Homomorphic deconvolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同态系统",
+   "en": "homomorphic system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同型雄螨",
+   "en": "homomorphic male",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "同型自交不亲和性",
+   "en": "homomorphic self-incompatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隐私同态加密",
+   "en": "privacy homomorphic encryption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

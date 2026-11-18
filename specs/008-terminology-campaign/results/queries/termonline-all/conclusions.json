@@ -1,0 +1,132 @@
+{
+ "key": "conclusions",
+ "term": "conclusions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:24:58+00:00",
+ "status": "ok",
+ "note": "variant=conclusions; 审定公布名词库=8; 海峡两岸名词对照库=2; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "结论",
+   "en": "conclusion",
+   "source": "数学名词",
+   "wordNumber": "01.0010",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实验结论",
+   "en": "experimental conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.082",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "在整理、分析实验结果的基础上推导、总结出的某种假设或者推论。"
+  },
+  {
+   "cn": "设计总结",
+   "en": "design conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.131",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "工程设计结束后，设计人员对自身设计工作所做的总结。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "林学名词",
+   "wordNumber": "06.388",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "考虑了审核目的和所有审核发现后得出的审核结果。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0808",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "审核组考虑了审核目标和所有审核发现后得出的最终审核结果。"
+  },
+  {
+   "cn": "变斑晶包迹",
+   "en": "porphyroblast inclusions",
+   "source": "地质学名词",
+   "wordNumber": "09.06.100",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "同构造生长的变斑晶内包含的各种类型包裹物迹线。"
+  },
+  {
+   "cn": "群体包裹体成分分析",
+   "en": "bulk fluid inclusions analysis",
+   "source": "地质学名词",
+   "wordNumber": "13.04.023",
+   "subjectFullName": "地质学_地球化学_包裹体地球化学",
+   "subjectName": "包裹体地球化学",
+   "publishYear": "2026",
+   "definition": "采用破碎、热爆等方法破坏矿物中的包裹体，以适当方法提取其释放的气体和液体，用气相色谱、质谱和原子吸收光谱、等离子光谱、离子色谱、中子活化等方法测定包裹体的气相成分和液相成分。"
+  },
+  {
+   "cn": "二氧化碳包裹体",
+   "en": "carbon dioxide fluid inclusions",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0226",
+   "subjectFullName": "地球物理学_地壳流体科学_内生气体",
+   "subjectName": "内生气体",
+   "publishYear": "2022",
+   "definition": "矿物中由气相或液相二氧化碳组成的包裹体。 "
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非金属夹杂",
+   "en": "non-metallic inclusions",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "小收煞",
+   "en": "Midpoint Conclusion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离岗时检查结论",
+   "en": "examination conclusion when leaving the post",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.23",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据离岗时职业健康检查结果，对受检者提出的意见：包括可以离岗或转相关医疗机构进一步检查。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

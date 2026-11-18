@@ -1,0 +1,722 @@
+{
+ "key": "social arrangements",
+ "term": "social arrangements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:46:10+00:00",
+ "status": "ok",
+ "note": "variant=social arrangements; 审定公布名词库=4033; 海峡两岸名词对照库=913; 其他来源数据库=159; 预公布名词数据库=693; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "编排法",
+   "en": "arrangement",
+   "source": "语言学名词",
+   "wordNumber": "06.102",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "见“排检法”。"
+  },
+  {
+   "cn": "小区排列",
+   "en": "plot arrangement",
+   "source": "农学名词",
+   "wordNumber": "01.191",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "在试验区组中把每一个处理小区按照一定顺序进行排列的设计方法。"
+  },
+  {
+   "cn": "顺序排列",
+   "en": "systematic arrangement",
+   "source": "农学名词",
+   "wordNumber": "01.192",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "在试验区组中把每一个处理小区按照编号或名称等顺序进行排列的设计方法。"
+  },
+  {
+   "cn": "随机排列",
+   "en": "randomized arrangement",
+   "source": "农学名词",
+   "wordNumber": "01.193",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "用随机数字表、抽签、计算机生成随机数等方法，确定每一个处理小区在试验区组中的排列位置，使每一个处理小区具有同等机会设置在任意一个试验小区上的排列方式。"
+  },
+  {
+   "cn": "档案整理",
+   "en": "archival arrangement",
+   "source": "档案学名词",
+   "wordNumber": "03.01.008",
+   "subjectFullName": "档案学_档案管理_档案收集与整理",
+   "subjectName": "档案收集与整理",
+   "publishYear": "2024",
+   "definition": "按照一定原则对档案进行系统分类、组合、排列、编号和编目，使之有序化的过程。"
+  },
+  {
+   "cn": "串联配置",
+   "en": "tandem arrangement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0707",
+   "subjectFullName": "机械工程（一）_机械零件_滚动轴承_滚动轴承配置及分部件",
+   "subjectName": "滚动轴承配置及分部件",
+   "publishYear": "2021",
+   "definition": "两套或多套滚动轴承相邻外圈以受载端面对非受载端面的串接安装方式。"
+  },
+  {
+   "cn": "反式排列",
+   "en": "trans arrangement",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.343",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一个基因内的两个突变位点分别位于一对同源染色体的不同位点的排列方式。功能不可互补。"
+  },
+  {
+   "cn": "顺式排列",
+   "en": "cis-arrangement",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.347",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一个基因内的两个突变位点位于同一条染色体上的排列方式。功能可以互补。"
+  },
+  {
+   "cn": "制度安排",
+   "en": "institutional arrangement",
+   "source": "经济学名词",
+   "wordNumber": "05.037",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "在特定领域内约束人们行为的一组规则。它支配经济单位之间和经济单位内部可能采取合作与竞争的方式。例如，市场制度、公司制度、经营承包制、各种行业自律制度等，都可以说是一定制度环境约束下的制度安排。制度安排"
+  },
+  {
+   "cn": "管路布置图",
+   "en": "piping arrangement",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1599",
+   "subjectFullName": "食品科学技术_食品工程_食品工厂设计与管理_食品工厂设计",
+   "subjectName": "食品工厂设计",
+   "publishYear": "2020",
+   "definition": "表示车间内外设备、机器间、装置内管道的连接和阀件、管件、控制仪表的空间位置、尺寸与规格，以及安装情况的图样。主要表达车间或管道和管件、阀、仪表控制点的有关机器、设备的连接关系。"
+  },
+  {
+   "cn": "排架法",
+   "en": "stack arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.544",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆藏书在书架上的排列方法。图书馆依据一定的标志，将藏书有序地排列在书架上，并形成一定的检索系统，使每册书刊在书库中都有各自的位置。分为内容排架法和形式排架法两大类。 "
+  },
+  {
+   "cn": "并行排架法",
+   "en": "parallel arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.557",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "为节省书架空间，将较大尺寸的书抽取出来按相同顺序另行排架的方法。共有三种排架方式：一是在每排书架的最下层用来排大书；二是在一个大类图书的最后留下书架空间排列大书；三是在整个分类体系的最后留下书架空间排"
+  },
+  {
+   "cn": "信息整序",
+   "en": "information arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.003",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "按照信息的内容和形式特征，采用各种方法和手段实现信息有序化和增值的过程。通过揭示信息之间内在的逻辑联系，将某一方面大量、分散和杂乱的信息经过选择、加工、整理、提炼，使之组织化、系统化，从而达到有效利用"
+  },
+  {
+   "cn": "带式排架法",
+   "en": "ribbon arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.560",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "为了避免读者经常过度集中在某类图书书架前，将该类图书按顺序连续排列在每一排书架的同一层格板上，使这类图书的布局犹如一条长长的带子呈现在读者面前的排架方法。"
+  },
+  {
+   "cn": "字顺排架法",
+   "en": "alphabetical arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.550",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "按文献的题名或编著者名称的字顺序列进行排架的方法。中文文献通常用笔画笔形、四角号码、汉语拼音方法排序；西文、俄文文献可按字顺或著者号码排序；日文文献可按假名或日语汉字排序。单独的字顺排架法可作为辅助方"
+  },
+  {
+   "cn": "地区排架法",
+   "en": "region arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.552",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "以图书出版的行政区划加以区別，同一区划内再用其他方法进一步排列的排架方法。该方法多用于地方志。"
+  },
+  {
+   "cn": "系统排列法",
+   "en": "systematic arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.091",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在索引编制过程中，根据某一专门系统内部知识组织与架构的特点对索引的标题与内容进行组织、排列和显示的方法。"
+  },
+  {
+   "cn": "形式排架法",
+   "en": "form arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.548",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "按书籍的外部特点，如登录号、字顺、地理、年代和书型等进行排架的方法。"
+  },
+  {
+   "cn": "内容排架法",
+   "en": "content arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.545",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "以文献的内容特征作为排架顺序标志的排架方法。分为分类排架法和专题排架法两类，较适用于开架书库和开架阅览室。"
+  },
+  {
+   "cn": "书库布局",
+   "en": "stack arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.511",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "书库中对于藏书的排架方式、阅览区域等的规划和布置方案。"
+  },
+  {
+   "cn": "改编",
+   "en": "arrangement",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辐射排列",
+   "en": "radial arrangement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "染色体排列",
+   "en": "chromosome arrangement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "染色体排列",
+   "en": "chromosome arrangement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "喷射器排列",
+   "en": "ejector arrangement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "互惠协定",
+   "en": "reciprocal arrangement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币协定",
+   "en": "monetary arrangement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "融资安排",
+   "en": "financing arrangement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "一揽子协议",
+   "en": "bouquet arrangement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "易货贸易安排",
+   "en": "barter arrangement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反式排列",
+   "en": "trans arrangement",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "线性排列",
+   "en": "linear arrangement",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺式排列",
+   "en": "cis-arrangement",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "冲洗装置",
+   "en": "flushing arrangement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "倒装",
+   "en": "overstowing arrangement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "换向装置",
+   "en": "reversing arrangement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "链斗装置",
+   "en": "bucket arrangement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "下水装置",
+   "en": "launching arrangement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "总布置图",
+   "en": "general arrangement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "摆墩",
+   "en": "blocking arrangement",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "预赛分组",
+   "en": "arrangement of heats",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交金融",
+   "en": "Social Finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交基金",
+   "en": "social fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交性投资者",
+   "en": "social investor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会技术",
+   "en": "social technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会救济",
+   "en": "social remedy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应急安排",
+   "en": "emergency arrangement",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在应急准备阶段落实的一组规则，以提供为执行响应核或辐射应急所要求的规定职能或任务的能力。可以包括管理机构和责任、组织、协调、人员、计划、程序、设施、设备或培训。"
+  },
+  {
+   "cn": "学期安排",
+   "en": "semester arrangement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "以学期为单位，合理安排学习、劳动和假期的规则。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "社会规范和文化价值在个体身上内化(internalize)的过程。个体在家庭、学校等社会环境中，通过多种形式的人际互动，以及知识、技能的学习，学会扮演社会角色，认同并接受群体的规范体系和意义体系，并依"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0158",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过社会互动而形成个体的社会属性，促使个体与社会保持一致性，实现个体的社会生活的过程。具体来说，是自然人通过各种方式逐渐学习社会知识、技能与规范，熟悉社会的风俗、习惯、道德、法律，确立生活目标、价值观"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0170",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与资本主义对立的思想体系和社会制度。社会主义一词来源于古拉丁文，一说由socialis（同伴的、同伙的）一词引出，一说由socius（喜欢社交的）一词引出，原有社会的、共同的、集体的生活之意。科学社会"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "自然人成长为社会人的过程。即一个人出生以后，通过与其他社会成员、群体和组织的互动、学习和接受社会知识、技能和规范，不断适应社会生活的过程。"
+  },
+  {
+   "cn": "学周安排",
+   "en": "school week arrangement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "以星期为单位，合理安排学习、劳动和假期的规则。"
+  },
+  {
+   "cn": "学年安排",
+   "en": "school year arrangement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "以学年为单位，合理安排学习、劳动和假期的规则。"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  },
+  {
+   "cn": "社会福利社会化",
+   "en": "socialization of social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "中国经济体制改革后社会福利领域改革的指导思想，即从计划经济下福利制度中的单位小社会转向建设市场经济为导向下的社会保障制度。包括投资主体多元化、服务对象公众化、服务方式多样化和服务队伍专业化四个方面的内"
+  },
+  {
+   "cn": "社会主义社会建设",
+   "en": "social construction of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0689",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义的社会建设中“社会”是整个社会主义社会发展中与其经济、政治、文化相并列的一个领域。社会主义的社会建设，是通过动员社会力量、整合社会资源、协调利益关系、发展社会事业、完善社会功能、健全社会保障、"
+  },
+  {
+   "cn": "社会支持",
+   "en": "social support",
+   "source": "社会医学名词",
+   "wordNumber": "3.5",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "通过帮助或安慰他人，协助其应对生理、心理及社会压力的行为。支持来源于个人社会网络，包括家庭成员、朋友或支持团体等。支持形式包括实际帮助、物质援助及情感支持。"
+  },
+  {
+   "cn": "社会功能状态",
+   "en": "social wellbeing",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "反映个体参与基本和复杂人际互动的状态。包含社会交往和社会资源。"
+  },
+  {
+   "cn": "社会公正",
+   "en": "social justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0269999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "社会行为层面的公正。政府在分配社会资源时公而不偏，根据基本需求人人平等，非基本需求合理差等原则进行宏观卫生资源的分配。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0087",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个体认识到他属于特定的社会群体，同时也认识到作为群体成员带给他的情感和价值意义。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

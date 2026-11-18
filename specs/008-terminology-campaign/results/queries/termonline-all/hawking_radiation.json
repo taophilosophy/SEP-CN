@@ -1,0 +1,712 @@
+{
+ "key": "hawking radiation",
+ "term": "Hawking radiation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:03:08+00:00",
+ "status": "ok",
+ "note": "variant=Hawking radiation; 审定公布名词库=2908; 海峡两岸名词对照库=854; 其他来源数据库=116; 预公布名词数据库=349; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "霍金辐射",
+   "en": "Hawking radiation",
+   "source": "物理学名词",
+   "wordNumber": "11.0141",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "霍金效应",
+   "en": "Hawking effect",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.336",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "关于黑洞自发热辐射的预测。指黑洞事件视界附近的量子真空涨落所产生的粒子对中，一方被吸入黑洞，另一方逃离黑洞到无限远，外界看上去就像黑洞在发射粒子一样。该辐射会导致黑洞质量的减少。"
+  },
+  {
+   "cn": "霍金温度",
+   "en": "Hawking temperature",
+   "source": "天文学名词",
+   "wordNumber": "07.632",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "黑洞霍金辐射的温度，与其质量成反比。"
+  },
+  {
+   "cn": "豆天蛾",
+   "en": "bean hawk moth ",
+   "source": "草学名词",
+   "wordNumber": "6.0128",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "老鹰回头试验",
+   "en": "hawks back test",
+   "source": "手外科学名词",
+   "wordNumber": "02.0108",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "一种用于检查尺骨茎突狭窄性腱鞘炎的试验。使患侧五指并拢呈鹰嘴状，屈腕同时旋后，尺骨茎突部出现剧痛则为阳性。"
+  },
+  {
+   "cn": "鹰-鸽模型",
+   "en": "Hawk-Dove model",
+   "source": "生态学名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "研究动物种群内鹰对策和鸽对策两种行为对策的博弈过程：鸽对策者在面对敌手时只以攻击姿态威吓对方，但当敌手发动攻击时则逃跑；鹰对策者则是宁可冒严重受伤的风险，也要攻击对方。"
+  },
+  {
+   "cn": "霍金-哈特尔波函数",
+   "en": "Hawking-Hartle wave function",
+   "source": "天文学名词",
+   "wordNumber": "07.539",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "采用无边界假设得到的量子宇宙学波函数。"
+  },
+  {
+   "cn": "鹰-鸽-应变者模型",
+   "en": "Hawk-Dove-Bourgeois model",
+   "source": "生态学名词",
+   "wordNumber": "03.166",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "研究动物种群内鹰、鸽和应变者三种行为对策的博弈过程，应变者是指在占有资源时扮演鹰，在不占有资源而成为入侵者时扮演鸽(即采取鸽对策)。"
+  },
+  {
+   "cn": "鹰-鸽-反击者模型",
+   "en": "Hawk-Dove-Retaliator model",
+   "source": "生态学名词",
+   "wordNumber": "03.167",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "研究动物种群中鹰、鸽和反击者三种行为对策的博弈过程，反击者实际上是以鸽对策对抗鸽，以鹰对策对抗鹰，除非对手选择使战斗升级的对策，否则它总是采取鸽对策。"
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "天文学名词",
+   "wordNumber": "04.429",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "以波或粒子流的形式传送能量的过程。"
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "核科学技术名词",
+   "wordNumber": "4.003",
+   "subjectFullName": "核科学技术_辐射物理_一般性术语",
+   "subjectName": "一般性术语",
+   "publishYear": "2024",
+   "definition": "核辐射、电磁辐射和光辐射的统称。在抗辐射加固技术领域主要是指核爆辐射、空间辐射、强激光和高功率微波‍等。"
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "物理学名词",
+   "wordNumber": "03.0726",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "建筑学名词",
+   "wordNumber": "10.0356",
+   "subjectFullName": "建筑学_建筑物理_建筑热工学",
+   "subjectName": "建筑热工学",
+   "publishYear": "2014",
+   "definition": "热量以电磁波的形式由一个物体传向另一个物体的现象。"
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "语言学名词",
+   "wordNumber": "03.181",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "声学语音学中，指声源发出的、经声道调制后的言语声由嘴唇开口处或鼻孔向四周空气传播的过程。"
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.324",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "(1)能量以波或粒子的形式从其源发散到空间。(2)能量以波或粒子的形式通过空间的转移。"
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "地理学名词",
+   "wordNumber": "29.042",
+   "subjectFullName": "地理学_遥感应用",
+   "subjectName": "遥感应用",
+   "publishYear": "2006",
+   "definition": "由电磁波或机械波，或大量的微粒子(如质子，α粒子)由发射体出发，在空间或媒质中向各个方向的传播过程，也可指波动能量或大量微粒子本身。"
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.383",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "电气工程名词",
+   "wordNumber": "01.143",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "化学工程名词",
+   "wordNumber": "03.233",
+   "subjectFullName": "化学工程_传递过程与单元操作_传热过程_传热",
+   "subjectName": "传热",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "电子学名词",
+   "wordNumber": "04.026",
+   "subjectFullName": "电子学_微波技术与天线",
+   "subjectName": "微波技术与天线",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "霍金辐射",
+   "en": "Hawking radiation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "鹰-鸽模型",
+   "en": "Hawk-Dove model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "鹰-鸽-应变者模型",
+   "en": "Hawk-Dove-Bourgeois model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "鹰-鸽-反击者模型",
+   "en": "Hawk-Dove-Retaliator model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "辐射法，光线法",
+   "en": "radiation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "散热器",
+   "en": "radiator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "辐射器",
+   "en": "radiator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "辐射器",
+   "en": "radiator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辐射状骨针",
+   "en": "radiate",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "听辐射",
+   "en": "acoustic radiation\",\"auditory radiation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "电离辐射",
+   "en": "ionization radiation\",\"ionizing radiation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "辐射引发",
+   "en": "radiation initiation\",\"radiation induction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "《时间简史》（〔英〕斯蒂芬·威廉·霍金）",
+   "en": "A Brief History of Time: From the Big Bang to Black Holes (Stephen William Hawking, UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "走步",
+   "en": "walking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盯人",
+   "en": "marking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞走",
+   "en": "walking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高倾斜弯道",
+   "en": "banking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞走",
+   "en": "walking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "施术",
+   "en": "hooking\",\"kake",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "迎风转向",
+   "en": "tack\",\"tacking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "走步",
+   "en": "traveling\",\"walking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辐射",
+   "en": "radiation",
+   "source": "消毒学",
+   "wordNumber": "1.8.6",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "物质粒子和能量从发射源发出，从空间向各个方向传播的过程。"
+  },
+  {
+   "cn": "放射",
+   "en": "radiation",
+   "source": "放射卫生学",
+   "wordNumber": "1.1",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "由一点向四外射出。能量通过波或粒子的形式从一处移动到另一处。在放射卫生学科中专指电离辐射，包括粒子辐射和高能量的电磁波。"
+  },
+  {
+   "cn": "放射卫生[学]",
+   "en": "radiation health，radiation hygiene",
+   "source": "放射卫生学",
+   "wordNumber": "1.6",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "研究电离辐射对人体健康的影响及其防护与管理措施的综合性学科，保护工作人员和公众的安全与健康。主要包括辐射监测与剂量学、健康效应、工程防护技术及相关标准、管理与评价等。"
+  },
+  {
+   "cn": "贯穿辐射",
+   "en": "penetrating radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.54",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "在物质中穿透能力强的射线，如γ射线、X 射线或中子射线等引起的辐射。"
+  },
+  {
+   "cn": "微波辐射",
+   "en": "microwave radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.6",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "波长为1m～1mm，频率为300MHz～300GHz 电磁波产生的辐射，分为分米波、厘米波、毫米波。"
+  },
+  {
+   "cn": "辐射消毒",
+   "en": "radiation disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "利用电离辐射或电磁辐射如钴-60、高能电子加速器杀灭微生物的消毒处理。"
+  },
+  {
+   "cn": "电离辐射",
+   "en": "ionizing radiation",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.17",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "携带足以使物质原子或分子中的电子成为自由态，并发生电离现象的能量的波长小于100nm的辐射，包括宇宙射线、X射线和来自放射性物质的辐射。"
+  },
+  {
+   "cn": "电离辐射",
+   "en": "ionizing radiation",
+   "source": "放射卫生学",
+   "wordNumber": "1.2",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "能够使物质发生电离或激发的辐射。"
+  },
+  {
+   "cn": "放射流行病学",
+   "en": "radiation epidemiology",
+   "source": "放射卫生学",
+   "wordNumber": "1.12",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "研究受附加电离辐射照射的人群中的辐射健康效应相关事件的分布及其影响因素的学科。"
+  },
+  {
+   "cn": "宇宙辐射",
+   "en": "cosmic radiation",
+   "source": "放射卫生学",
+   "wordNumber": "2.3",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "来自外太空的各种高能次原子粒子流构成的电离辐射。"
+  },
+  {
+   "cn": "湮没辐射",
+   "en": "annihilation radiation",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.29",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "当一种粒子与其反粒子相互作用并且终止各自的存在，同时将其能量（包括静止能量）全部转化而产生的电离辐射。"
+  },
+  {
+   "cn": "切伦科夫辐射",
+   "en": "Cherenkov radiation",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.46",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "放射性核素所发射的高能带电粒子以大于该介质中的光速穿过透明介质时，导致径迹附近的分子极化，退极化时以电磁波形式释放多余能量，相邻分子发出的电磁波相互干涉形成的辐射现象，其特征是蓝色辉光。"
+  },
+  {
+   "cn": "辐射兴奋效应",
+   "en": "radiation hormesis",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "一种低水平电离辐射生物效应的假说，低水平电离辐射对生物体或其组成部分的刺激效应，包括促进生长发育、增强免疫功能等。"
+  },
+  {
+   "cn": "放射细胞遗传学",
+   "en": "radiation cytogenetics",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "研究电离辐射的细胞遗传学效应与作用机制、健康效应的分支学科。"
+  },
+  {
+   "cn": "放射生物剂量学",
+   "en": "radiation biodosimetry",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "研究电离辐射所引起机体产生的具有稳定剂量-效应关系的生物学标志物和测定技术，通过生物学标志物的变化量来估算受照剂量和评估危害的学科。"
+  },
+  {
+   "cn": "放射生物标志物",
+   "en": "radiation biomarker",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "可以标记电离辐射导致系统、器官、组织、细胞、亚细胞或生物大分子结构或功能的改变或可能发生改变的生化指标。"
+  },
+  {
+   "cn": "放射性食管炎",
+   "en": "radiation esophagitis",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.6.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "食管黏膜受到一次剂量≥9Gy照射或分次照射累积剂量≥20Gy时所引起的黏膜充血、水肿和糜烂等炎性病变。"
+  },
+  {
+   "cn": "放射性肺炎",
+   "en": "radiation pneumonitis",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体一次或短时间（数日）内较均匀受到大于6Gy照射，或肺部受到一次或数天内多次照射，剂量达到8Gy以上（含8Gy）致肺组织发生的广泛纤维化、呼吸功能损害，甚至呼吸衰竭。"
+  },
+  {
+   "cn": "放射性肝炎",
+   "en": "radiation hepatitis",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "肝脏受到大剂量照射后引起的肝组织水肿、充血和肝细胞损伤等一系列病理变化的炎症。"
+  },
+  {
+   "cn": "放射性肾炎",
+   "en": "radiation nephritis",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "肾脏受到辐射照射后，出现肾小管上皮变性和缺失、小动脉内皮细胞增生、间质纤维化等病理变化的炎症。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

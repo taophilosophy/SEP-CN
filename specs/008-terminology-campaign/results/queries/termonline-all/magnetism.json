@@ -1,0 +1,522 @@
+{
+ "key": "magnetism",
+ "term": "magnetism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:28:26+00:00",
+ "status": "ok",
+ "note": "variant=magnetism; 审定公布名词库=1969; 海峡两岸名词对照库=539; 其他来源数据库=34; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "磁学",
+   "en": "magnetism,magnetics",
+   "source": "电力名词",
+   "wordNumber": "01.054",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "研究与磁场有关现象的学科。"
+  },
+  {
+   "cn": "磁学",
+   "en": "magnetism,magnetics",
+   "source": "电气工程名词",
+   "wordNumber": "01.288",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "磁性",
+   "en": "magnetic,magnetism",
+   "source": "地质学名词",
+   "wordNumber": "04.242",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "磁性",
+   "en": "magnetism",
+   "source": "地质学名词",
+   "wordNumber": "03.01.104",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "物体能够吸引铁、镍等金属及在外磁场作用下被磁化时所表现出的性质(被外磁场吸引、排斥或对外界产生磁场)。按磁性强弱可将矿物分为强磁性、中等磁性、弱磁性和无磁性4级。是鉴定矿物的特征之一，也是矿物磁性分离"
+  },
+  {
+   "cn": "磁学",
+   "en": "magnetism",
+   "source": "物理学名词",
+   "wordNumber": "08.1843",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "磁性",
+   "en": "magnetism",
+   "source": "物理学名词",
+   "wordNumber": "08.1842",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "磁性",
+   "en": "magnetism",
+   "source": "化学名词",
+   "wordNumber": "01.0785",
+   "subjectFullName": "化学_无机化学_无机固体化学",
+   "subjectName": "无机固体化学",
+   "publishYear": "2016",
+   "definition": "物质和磁场相互作用的性质。可分成顺磁性、反磁性、铁磁性、反铁磁性等几种类型。与物质的电子结构、有无未成对电子、微观磁矩之间的相互作用、晶体结构等因素有关。"
+  },
+  {
+   "cn": "磁性",
+   "en": "magnetism",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0100",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础",
+   "subjectName": "材料物理及化学基础",
+   "publishYear": "2011",
+   "definition": "物质因自身原子磁矩大小及排列方向所决定的特性。"
+  },
+  {
+   "cn": "磁性",
+   "en": "magnetism",
+   "source": "石油名词",
+   "wordNumber": "03.0135",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "磁性",
+   "en": "magnetic property; magnetism",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0058",
+   "subjectFullName": "地球物理学_地球电磁学_地磁学",
+   "subjectName": "地磁学",
+   "publishYear": "2022",
+   "definition": "物质磁性矿物浓度、颗粒磁畴状态及磁颗粒的矿物学性质等一系列磁学性质的统称。 "
+  },
+  {
+   "cn": "磁化",
+   "en": "magnetization",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0134",
+   "subjectFullName": "地球物理学_地球电磁学_古地磁学",
+   "subjectName": "古地磁学",
+   "publishYear": "2022",
+   "definition": "使物质具有宏观磁性的过程。如单位质量或单位体积内的磁矩。 "
+  },
+  {
+   "cn": "磁体",
+   "en": "magnet",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.002",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振成像设备",
+   "subjectName": "磁共振成像设备",
+   "publishYear": "2020",
+   "definition": "能够产生稳定磁场的物体。磁共振成像（MRI）设备中指产生均匀、稳定强磁场的硬件。磁体的性能可直接影响磁共振成像质量，磁共振成像设备的磁体分为永磁体、常导磁体及超导磁体。"
+  },
+  {
+   "cn": "磁化",
+   "en": "magnetization",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.086",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振成像原理",
+   "subjectName": "磁共振成像原理",
+   "publishYear": "2020",
+   "definition": "在外磁场的作用下，物质沿磁场方向产生磁性的过程。"
+  },
+  {
+   "cn": "磁化",
+   "en": "magnetization",
+   "source": "电力名词",
+   "wordNumber": "01.072",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在物体中感应出磁化强度的现象。"
+  },
+  {
+   "cn": "磁化器",
+   "en": "magnetizer",
+   "source": "物理学名词",
+   "wordNumber": "03.0474",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "磁化",
+   "en": "magnetization",
+   "source": "物理学名词",
+   "wordNumber": "03.0464",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "磁化强度",
+   "en": "magnetization",
+   "source": "物理学名词",
+   "wordNumber": "03.0465",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "磁体",
+   "en": "magnet",
+   "source": "物理学名词",
+   "wordNumber": "03.0435",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "磁体",
+   "en": "magnet",
+   "source": "核医学名词",
+   "wordNumber": "03.0052",
+   "subjectFullName": "核医学_核医学设备与操作_核药物生产装置和辅助设备_核药物生产装置",
+   "subjectName": "核药物生产装置",
+   "publishYear": "2018",
+   "definition": "用于产生磁场或在自然状态或外部条件作用下表现出强磁性的物质。在回旋加速器上用于改变电荷粒子的运行轨迹，使之做圆周运动。"
+  },
+  {
+   "cn": "磁化强度",
+   "en": "magnetization",
+   "source": "化学名词",
+   "wordNumber": "03.2181",
+   "subjectFullName": "化学_分析化学_仪器分析_核磁共振分析",
+   "subjectName": "核磁共振分析",
+   "publishYear": "2016",
+   "definition": "描述磁介质磁化矢量的物理量。"
+  },
+  {
+   "cn": "磁性",
+   "en": "magnetism",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "磁性",
+   "en": "magnetism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "磁化",
+   "en": "magnetization",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "磁化强度",
+   "en": "magnetization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "磁化",
+   "en": "magnetization",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "磁化",
+   "en": "magnetization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "磁化器",
+   "en": "magnetizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "磁化强度",
+   "en": "magnetization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "剩磁",
+   "en": "residual magnetism\",\"remanent magnetism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "磁倾角",
+   "en": "magnetic inclination\",\"magnetic dip",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "磁力测量",
+   "en": "magnetic observation\",\"magnetic  survey",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "磁性分离",
+   "en": "magnetism separation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地磁经纬仪",
+   "en": "magnetism theodolite",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地磁",
+   "en": "earth magnetism",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "剩磁",
+   "en": "residual magnetism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船磁",
+   "en": "ship magnetism",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "剩磁",
+   "en": "residual magnetism",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "微波磁学",
+   "en": "microwave magnetics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "磁暴",
+   "en": "magnetic storm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "磁偶极[子]",
+   "en": "magnetic dipole",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "磁存储器",
+   "en": "magnetic storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "磁共振成像",
+   "en": "Magnetic Resonance Imaging",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "核磁共振",
+   "en": "nuclear magnetic resonance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "磁记录设备",
+   "en": "magnetic recording equipment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "叠瓦式磁记录",
+   "en": "shingled magnetic recording",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "磁选",
+   "en": "magnetic separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.15",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据磁性的不同，利用磁力分离混入食品中的磁性金属杂质的方法。常用于清除谷物、豆类、玉米、小麦、砂糖等食品中的铁杂质。"
+  },
+  {
+   "cn": "磁选机",
+   "en": "magnetic separator",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.16",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据不同物质导磁性的差异，借助于磁力将磁性物质从食品中分离开来的设备。"
+  },
+  {
+   "cn": "磁共振成像",
+   "en": "magnetic resonance imaging,MRI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "利用生物体内特定原子核在磁场中所表现出的磁共振现象而产生信号，经空间编码、重建而获得影像的一种成像技术。"
+  },
+  {
+   "cn": "正电子发射型磁共振成像",
+   "en": "positron emission tomography and magnetic resonance imaging，PET/MR",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.16",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将正电子发射体层仪与磁共振成像设备同轴、序贯安装于同一机架的显像技术。可以一次完成正电子发射计算机体层显像和磁共振成像两种图像采集，同时获得病变部位的功能代谢状况和组织器官图像信息，并可以图像融合的方"
+  },
+  {
+   "cn": "碳酸镁",
+   "en": "magnesium carbonate",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.17.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为MgCO₃的白色单斜结晶或粉末。可由二氧化碳与氢氧化镁乳浊液反应或碳酸钠与可溶性镁盐反应制得。在小麦粉和固体饮料等食品加工中用作面粉处理剂、膨松剂、稳定剂和抗结剂。"
+  },
+  {
+   "cn": "氯化镁",
+   "en": "magnesium chloride",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.5.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "化学式为MgCl₂的白色粒状或片状结晶无机盐，主要存在无水物和六水合物两种形态。可用作豆类制品稳定剂和凝固剂，也用作食品发酵用营养物质"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

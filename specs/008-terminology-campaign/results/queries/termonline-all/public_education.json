@@ -1,0 +1,712 @@
+{
+ "key": "public education",
+ "term": "public education",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:57:31+00:00",
+ "status": "ok",
+ "note": "variant=public education; 审定公布名词库=3174; 海峡两岸名词对照库=570; 其他来源数据库=231; 预公布名词数据库=347; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "公共教育",
+   "en": "public education",
+   "source": "教育学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "（1）各级政府举办的教育，主要是指公立学校教育。（2）国家、社会团体或个人举办的以服务公众为目的的教育。以公立学校为主体，包括其他社会教育机构如图书馆、广播电台、电视台、博物馆以及剧院、影院等所进行的"
+  },
+  {
+   "cn": "公共教育财政体制",
+   "en": "public educational finance system",
+   "source": "教育学名词",
+   "wordNumber": "14.017",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "用于满足社会公共需要的教育经费的筹措、分配和管理体制。"
+  },
+  {
+   "cn": "公共教育哲学",
+   "en": "public philosophy of education",
+   "source": "教育学名词",
+   "wordNumber": "01.082",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "一种以面向公众为取向的教育哲学，目的在于启发和指导公众以自己的思考参与、影响教育活动。与“个人教育哲学”和“专业教育哲学”相对。"
+  },
+  {
+   "cn": "教育公共需求",
+   "en": "public demand for education",
+   "source": "教育学名词",
+   "wordNumber": "14.141",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "满足社会各阶层共同利益的教育需求。"
+  },
+  {
+   "cn": "教育的公共性",
+   "en": "public nature of education",
+   "source": "教育学名词",
+   "wordNumber": "01.136",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "现代教育所具有的使社会及其成员普遍受益的责任和功效，以公益性、公正、平等、共享为其基本内涵。"
+  },
+  {
+   "cn": "宣传教育作用",
+   "en": "role of publicity and education",
+   "source": "档案学名词",
+   "wordNumber": "02.01.020",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "公文功能的具体表现形式之一。指其在思想观点、价值取向方面对社会公众进行宣示和教化以促进身心发展的作用。"
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0131",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "与组织具有现实或潜在利益关系或者影响一个组织实现其目标能力的任何群体。通常的七种类型公众包括融资公众、媒体公众、政府公众、市民团体、本地公众、一般公众、内部公众。"
+  },
+  {
+   "cn": "公众",
+   "en": "publics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.196",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "形成和维持公共性的行动主体。它是复数的，具有交错的身份和能动形式；也是流动的，可能在特定时刻为特定项目而聚集。"
+  },
+  {
+   "cn": "公共性",
+   "en": "publicness",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.197",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "人们在其个体或社群实践活动中形成的相互需要、彼此依存的社会属性及其利益相关的普遍状态。它所指称的概念，既是描述性的，也是规范性的，同时具备意识形态含义，常被用以标识与公共利益相关的人、空间以及制度，同"
+  },
+  {
+   "cn": "出版物",
+   "en": "publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.001",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "以知识信息为内容，以一定的物质形态为载体，通过复制而传播的文化产品。"
+  },
+  {
+   "cn": "宣传",
+   "en": "publicity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.054",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "运用各种符号传播一定的观点以影响和引导人们的态度及行为的一种社会性传播活动。"
+  },
+  {
+   "cn": "公共性",
+   "en": "publicness",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.175",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "与私密性相对的概念。（1）能够联系或影响到所有个体或某些团体的特性。（2）为公众开放或共享的状态。（3）受政府或个体捐赠资助的非营利特性。"
+  },
+  {
+   "cn": "学历",
+   "en": "education",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0444",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "在某种等级与类型的学校接受教育后肄业或毕业，获得某种学位或证书的经历。"
+  },
+  {
+   "cn": "教育学科",
+   "en": "education",
+   "source": "教育学名词",
+   "wordNumber": "08.081",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。包括教育学原理、教育史、比较教育、学前教育、高等教育、职业教育等学科。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "教育学名词",
+   "wordNumber": "07.174",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "（1）广义指一切有目的地影响人的身心发展的社会实践活动。（2）狭义指学校教育，即教育者根据一定的社会要求和受教育者的身心发展规律，有目的、有计划、有组织地对受教育者的身心施加影响，期望受教育者发生预期"
+  },
+  {
+   "cn": "教育者",
+   "en": "educator",
+   "source": "教育学名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "教育活动中直接对受教育者的知识、技能、思想、品德等方面起到影响作用的人。包括教师、家长等。其中教师作为教育活动的设计者、实施者和组织者，对学生身心发展的质量起着重要的制约作用。"
+  },
+  {
+   "cn": "可教性",
+   "en": "educability",
+   "source": "教育学名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "个体在接受教育影响的过程中表现出来的敏感性、可塑性和多样性。"
+  },
+  {
+   "cn": "教育评价",
+   "en": "education evaluation,education appraisal,education assessment",
+   "source": "教育学名词",
+   "wordNumber": "15.070",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "按照一定的价值和标准，对各种教育活动的质量和水平及其满足社会与个体需要的程度做出判断，以改进教育质量的过程。"
+  },
+  {
+   "cn": "公共厕所",
+   "en": "public toilet,public lavatory",
+   "source": "建筑学名词",
+   "wordNumber": "02.0849",
+   "subjectFullName": "建筑学_建筑类型及组成_市政建筑",
+   "subjectName": "市政建筑",
+   "publishYear": "2014",
+   "definition": "供社会公众使用，设置在道路旁或公共场所的厕所。"
+  },
+  {
+   "cn": "公害",
+   "en": "public disaster,public nuisance",
+   "source": "水产名词",
+   "wordNumber": "11.007",
+   "subjectFullName": "水产_渔业环境保护",
+   "subjectName": "渔业环境保护",
+   "publishYear": "2002",
+   "definition": "由于人类活动引起的环境污染和破坏对公众安全、健康、生命和生活造成的危害。"
+  },
+  {
+   "cn": "公有土地",
+   "en": "public land\",\"public domain",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "民意,舆论",
+   "en": "public opinions",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "公共市场",
+   "en": "public market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共投资",
+   "en": "public investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共消费",
+   "en": "public consumption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共信贷",
+   "en": "public credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共信托",
+   "en": "public trust",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公开投标",
+   "en": "public tender",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共空间",
+   "en": "public space",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "公害",
+   "en": "public nuisance",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "共有决定簇",
+   "en": "public determinant",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "共有特异性",
+   "en": "public specificity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "公共电视",
+   "en": "public television",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公钥",
+   "en": "public key",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公用电话",
+   "en": "public telephone",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公用网，公众网",
+   "en": "public network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公用处所",
+   "en": "public space",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "公众通信",
+   "en": "public correspondence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舆论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公有链",
+   "en": "public blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据",
+   "en": "public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公权力",
+   "en": "public power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公法",
+   "en": "public law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公开告知",
+   "en": "public notice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共信托",
+   "en": "public trust",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共充权",
+   "en": "public empowerment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共教育",
+   "en": "public education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "由国家、团体或个人向社会单独或混合提供，为全社会成员分享并服务于全社会的教育形式。"
+  },
+  {
+   "cn": "学校突发公共卫生事件宣传教育",
+   "en": "publicity and education of school public health emergencies",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "县级以上人民政府组织有关部门利用多种形式对社会公众广泛开展突发公共卫生事件应急知识的普及教育，以便宣传卫生科普知识，指导群众以科学的行为和方式对待突发公共卫生事件。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.2.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类",
+   "subjectName": "照射人员分类",
+   "publishYear": "2025",
+   "definition": "公众成员所受到的来自计划照射情况、应急照射情况和现存照射情况中的辐射源的照射。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在公共场合的空间需求，是人际交往距离中约束感最弱的距离。除了在公共汽车、电梯等特定场合外，其范围一般都在3米以外，如公共场合中演讲者和台下听众，教室里老师和学生，舞台上演员和观众，以及在散步、行走"
+  },
+  {
+   "cn": "公共组织",
+   "en": "public organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.9",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "以管理社会公共事务，提供公共产品和公共服务，维护和实现社会公共利益为目的，拥有法定的或授予的公共权力的组织实体，包括政府组织和非营利组织。"
+  },
+  {
+   "cn": "公共空间",
+   "en": "public space",
+   "source": "社会学名词",
+   "wordNumber": "3.4.7.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市文化",
+   "subjectName": "城市文化",
+   "publishYear": "2025",
+   "definition": "城市中向公众开放的场所。如街道、广场、公园、图书馆等，可以供人们聚会、交往、休闲娱乐等。"
+  },
+  {
+   "cn": "公共住房",
+   "en": "public housing",
+   "source": "社会学名词",
+   "wordNumber": "3.4.11.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市政策",
+   "subjectName": "城市政策",
+   "publishYear": "2025",
+   "definition": "由中央或地方政府投资兴建，并以较低租金提供给低收入群体的住房形式。各国实行的方式不同，有的国家允许相当比例的非盈利性社会组织参与融资、兴建、供给或管理，而被称为“社会住房”。"
+  },
+  {
+   "cn": "公共权力",
+   "en": "public power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "基于社会公众的意志而由国家机关和其他公共团体所行使的、以维护公益为目的强制力量，构成了公共行为主体对公共权力客体的制约能力和力量。"
+  },
+  {
+   "cn": "公共领域",
+   "en": "public sphere",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.1",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "一种介于国家与社会之间并具有自治性的公共空间，是公民个体参与公共事务的媒介。与“私人领域”相对。"
+  },
+  {
+   "cn": "公共选择",
+   "en": "public option",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.6",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "某一国家、地区或社区内的成员以辩论、协商、投票等集体行动形式，对公共资源进行决策和分配的行为。"
+  },
+  {
+   "cn": "品味公众",
+   "en": "taste public",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "甘斯提出的概念，指参与到特定趣味文化中的社会群体。这些群体通常是自发聚集起来的，并不属于特定阶层，是一个分散性的社会阶层。"
+  },
+  {
+   "cn": "公共宗教",
+   "en": "public religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.8",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "共和国的公民信仰形式，或宗教信仰的公共表达形式。亦指现代社会中宗教在公共领域发挥影响。"
+  },
+  {
+   "cn": "公学",
+   "en": "public school",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.7",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "英、法等国为贵族和资产阶级子女特别开设的独立中等学校，具有培养精英的功能。中国在清末也出现了旨在培养近代商务政务人才的私立学校，如南洋公学。"
+  },
+  {
+   "cn": "公害",
+   "en": "public nuisance",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.4",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "由于人类活动污染和破坏环境，对公众的健康、安全、生命、公私财产及生活舒适性等造成的危害。"
+  },
+  {
+   "cn": "公共工程",
+   "en": "public utility",
+   "source": "马克思主义",
+   "wordNumber": "03.0058",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为促进就业和经济社会发展而主要由国家兴办的建设项目。如在亚洲，气候和土地条件需要中央集权的政府兴办水利灌溉等公共工程，以履行行政之外的经济职能。而在法国路易·拿破仑·波拿巴（Louis-Napoléo"
+  },
+  {
+   "cn": "公共利益",
+   "en": "public interest",
+   "source": "马克思主义",
+   "wordNumber": "03.0059",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会公众的、与公众有关的，主要由政府提供的公用的、公共的利益。资产阶级和以往国家的统治者都声称，其政府和统治是为了全社会各阶层的公共利益，以掩盖其少数剥削者的特殊权益。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

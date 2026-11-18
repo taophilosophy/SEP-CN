@@ -1,0 +1,692 @@
+{
+ "key": "genetic variation",
+ "term": "genetic variation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:52:11+00:00",
+ "status": "ok",
+ "note": "variant=genetic variation; 审定公布名词库=2515; 海峡两岸名词对照库=974; 其他来源数据库=41; 预公布名词数据库=325; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "遗传变异",
+   "en": "genetic variation",
+   "source": "风景园林名词",
+   "wordNumber": "09.0130",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "生物亲代与子代之间、子代个体之间呈现差异的现象。"
+  },
+  {
+   "cn": "遗传变异",
+   "en": "genetic variation",
+   "source": "行为医学名词",
+   "wordNumber": "3.19",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_神经遗传学",
+   "subjectName": "神经遗传学",
+   "publishYear": "2022",
+   "definition": "同一基因库中不同个体之间在脱氧核糖核酸（DNA）水平上的差异。也是对同一物种个体之间遗传差别的定性或定量描述。"
+  },
+  {
+   "cn": "遗传变异",
+   "en": "genetic variation",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0529",
+   "subjectFullName": "食品科学技术_食品营养_营养遗传学和营养基因组学",
+   "subjectName": "营养遗传学和营养基因组学",
+   "publishYear": "2020",
+   "definition": "同一基因库中不同个体之间在DNA水平上的差异，也是对同一物种个体之间遗传差别的定性或定量描述。"
+  },
+  {
+   "cn": "遗传变异",
+   "en": "genetic variation",
+   "source": "林学名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "林木的不同基因型在相似的或不同的立地条件下栽培，所观察到的基因型间在性状表现或度量值的差异。"
+  },
+  {
+   "cn": "遗传变异",
+   "en": "genetic variation",
+   "source": "生态学名词",
+   "wordNumber": "12.045",
+   "subjectFullName": "生态学_分子生态学",
+   "subjectName": "分子生态学",
+   "publishYear": "2006",
+   "definition": "同一基因库中，生物体之间呈现差别的定量描述。在DNA水平上的差异称“分子变异(molecular variation)”。"
+  },
+  {
+   "cn": "二均差",
+   "en": "variation",
+   "source": "天文学名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "月球运动里因太阳和地球引力的联合作用而产生的周期为半个朔望月的摄动项。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "行为医学名词",
+   "wordNumber": "3.148",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "亲代与子代间或群体内不同个体间基因型或表型的差异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.061",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "亲代与子代间，同一物种或群体内的不同个体间基因型或表型的差异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "动物学名词",
+   "wordNumber": "2.0253",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "亲代与子代间或种群内不同个体间基因型或表型的差异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.003",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "亲代与子代之间或群体内不同个体之间基因型或表型的差异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.132",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "同一总体中不同个体间存在的差异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "植物学名词",
+   "wordNumber": "10.0082",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "亲代与子代间或群体内不同个体间基因型或表型的差异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "核医学名词",
+   "wordNumber": "06.0352",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "脱离自然常态的特殊形式和变化。生物学中常指同一起源的同种生物不同代之间或不同个体之间的性状差异。分遗传变异和非遗传变异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "林学名词",
+   "wordNumber": "04.006",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "亲本的子代间在性状上与亲本基因型或表型的差异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0039",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "人体有些结构虽然与正常形态不完全相同，但与正常值较接近，不影响功能。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.097",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "同一总体中不同个体间存在的差异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "语言学名词",
+   "wordNumber": "12.011",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "语言项目在实际话语中存在的差异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "古生物学名词",
+   "wordNumber": "01.0227",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "同一物种内个体之间形态和生理特征的差异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "遗传学名词",
+   "wordNumber": "01.086",
+   "subjectFullName": "遗传学_总论",
+   "subjectName": "总论",
+   "publishYear": "2007",
+   "definition": "亲代与子代间或群体内不同个体间基因型或表型的差异。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "生态学名词",
+   "wordNumber": "04.051",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "亲代与子代间或群体内不同个体间基因型或表型的差异。"
+  },
+  {
+   "cn": "遗传变异",
+   "en": "genetic variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传变异",
+   "en": "genetic variation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "变化",
+   "en": "variation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "变奏",
+   "en": "variation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "变奏曲",
+   "en": "variation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[随机]变数",
+   "en": "variate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不连续变异",
+   "en": "discontinuous variation\",\"discrete variation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "遗传互补（=遗传拯救）",
+   "en": "genetic complementation (=genetic rescue)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反求遗传学,替代遗传学",
+   "en": "reverse genetics\",\"surrogate genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "法医遗传学,法医物证学",
+   "en": "medicolegal genetics\",\"forensic genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "变异中心",
+   "en": "variation center",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传变异",
+   "en": "epigenetic variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型变异",
+   "en": "phenotypic variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "病毒变异",
+   "en": "virus variation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "节奏变化",
+   "en": "pace variation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因结构",
+   "en": "genetic structure",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因检测大数据",
+   "en": "genetic testing big data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0077",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言在共时状态下存在的地域差异或社会差异。"
+  },
+  {
+   "cn": "个体差异性",
+   "en": "individual variation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "受个体遗传与环境的影响，儿童体格生长存在个体差异的现象。如同性别、同年龄的儿童群体中，每个儿童的生长水平、生长速度、体型特点等不尽相同。"
+  },
+  {
+   "cn": "种间差异",
+   "en": "interspecies variation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.38",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "不同种属之间在毒代动力学和毒效动力学等方面的差异"
+  },
+  {
+   "cn": "种内差异",
+   "en": "intraspecies variation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.39",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "同物种内在毒代动力学或毒效动力学等方面的差异"
+  },
+  {
+   "cn": "社会变异",
+   "en": "social variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0078",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与语言使用者的社会特征相关的言语变异。"
+  },
+  {
+   "cn": "区域性变异",
+   "en": "regional variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0079",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "来自不同区域的说话者所显现出的语音、词汇或语法等方面的变异。是语言的一种共时变异现象。"
+  },
+  {
+   "cn": "共时变异",
+   "en": "synchronic variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0101",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“历时变异”相对。语言成分在同一时期内受不同社会因素的制约而产生的变异。"
+  },
+  {
+   "cn": "历时变异",
+   "en": "diachronic variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0102",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“共时变异”相对。语言成分经过较长时期的发展而产生的变异。例如从古代汉语到现代汉语语音、语法和词汇的演化与发展。"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "电离辐射对受照者后代产生的随机效应。电离辐射通过损伤亲代生殖细胞的遗传物质，使其遗传性状的表型改变在子代中显现出来。"
+  },
+  {
+   "cn": "遗传影响",
+   "en": "genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "个体的特性完全或部分由遗传因素所决定的现象。"
+  },
+  {
+   "cn": "遗传咨询",
+   "en": "genetic counseling",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "由医学遗传学专业人员或咨询师就咨询者提出的家庭中遗传性疾病的发病原因、遗传方式、诊断、预后、复发风险、防治等问题予以解答，并就咨询者提出的婚育问题提出建议和具体指导的服务。"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.11",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "受照射个体生殖细胞遗传物质发生突变，对胚胎或子代产生的效应。"
+  },
+  {
+   "cn": "家族性遗传影响",
+   "en": "familial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "遗传信息在亲-子代间的传递过程。是生长发育的主要遗传方式。"
+  },
+  {
+   "cn": "种族性遗传影响",
+   "en": "racial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "共同血缘和一些可稳定遗传的体质特征在上下代之间的传递过程。"
+  },
+  {
+   "cn": "生活方式-遗传失配",
+   "en": "lifestyle - genetic mismatch",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "人类古老的遗传基因无法适应因当代社会生存环境变化而迅速改变的生活方式及饮食习惯，产生的错位现象。"
+  },
+  {
+   "cn": "胚胎植入前遗传学检测",
+   "en": "preimplantation genetic screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.2.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "利用现代分子生物学技术与显微操作技术，在受精卵分裂为8细胞时取出1-2个细胞，或在囊胚形成时取3-10个滋养层细胞进行活检，进行特定遗传学性状检测的辅助生殖技术。"
+  },
+  {
+   "cn": "分子遗传学方法",
+   "en": "molecular genetic methods.",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.67",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "在种群水平上，利用遗传标记和高通量测序的方法，对遗传多样性进行检测和分析。"
+  },
+  {
+   "cn": "有遗传意义剂量",
+   "en": "genetically significant dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.11",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "受照群体的计权人均性腺剂量。群体每一成员都接受这样的性腺剂量所致总的遗传效应与受照群体每一成员实际接受的性腺剂量所致的遗传效应相等。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "胚胎植入前遗传学诊断",
+   "en": "pre-implantation genetic diagnosis",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在体外受精的胚胎发育到4-8细胞期，通过显微技术取出单个卵裂球细胞，进行遗传学分析，以明确是否有遗传缺陷的方法。"
+  },
+  {
+   "cn": "遗传代谢性疾病筛查",
+   "en": "genetic metabolic disease screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "通过血液检查对某些危害严重的先天性代谢病及内分泌病进行的群体筛查，使患儿得以早期诊断，早期治疗，防止机体组织器官发生不可逆的损伤。目前全国普遍筛查的病种包括先天性甲状腺素功能减低症、苯丙酮尿症等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

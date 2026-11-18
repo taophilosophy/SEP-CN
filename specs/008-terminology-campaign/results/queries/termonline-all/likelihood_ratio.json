@@ -1,0 +1,672 @@
+{
+ "key": "likelihood ratio",
+ "term": "likelihood ratio",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:14:18+00:00",
+ "status": "ok",
+ "note": "variant=likelihood ratio; 审定公布名词库=2054; 海峡两岸名词对照库=819; 其他来源数据库=34; 预公布名词数据库=53; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "心理学名词",
+   "wordNumber": "02.111",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "某心理感受水平所对应的信号分布纵坐标值与噪声分布纵坐标值之比。"
+  },
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "数学名词",
+   "wordNumber": "09.0623",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "电子学名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "似然比检验",
+   "en": "likelihood ratio test",
+   "source": "畜牧学名词",
+   "wordNumber": "04.682",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "一种假设检验方法。利用似然比，即在原假设和备择假设下观察值的最大似然函数的比值来进行假设检验。"
+  },
+  {
+   "cn": "似然比检验",
+   "en": "likelihood ratio test",
+   "source": "数学名词",
+   "wordNumber": "09.0625",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单调似然比",
+   "en": "monotone likelihood ratio",
+   "source": "数学名词",
+   "wordNumber": "09.0624",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "阳性似然比",
+   "en": "positive likelihood ratio;PLR",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "4.084",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤预防学_二级预防",
+   "subjectName": "二级预防",
+   "publishYear": "2022",
+   "definition": "真阳性率与假阳性率的比值。说明患者中该诊断试验出现阳性结果的机会是非患者的多少倍。该比值越大说明该诊断试验的诊断价值越高。阳性似然比=真阳性率/假阳性率。"
+  },
+  {
+   "cn": "阴性似然比",
+   "en": "negative likelihood ratio;NLR",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "4.085",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤预防学_二级预防",
+   "subjectName": "二级预防",
+   "publishYear": "2022",
+   "definition": "假阴性率与真阴性率的比值。说明患者中该诊断试验出现阴性结果的机会是非患者的多少倍，该比值越小说明该诊断试验的诊断价值越高。阴性似然比=假阴性率/真阴性例。"
+  },
+  {
+   "cn": "似然度",
+   "en": "likelihood",
+   "source": "天文学名词",
+   "wordNumber": "07.393",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "给定某一理论，获得某个实验结果的概率。"
+  },
+  {
+   "cn": "似然",
+   "en": "likelihood",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.080",
+   "subjectFullName": "放射医学与防护_放射流行病学_统计分析",
+   "subjectName": "统计分析",
+   "publishYear": "2014",
+   "definition": "可作为衡量总体概率模型的未知参数被观察样本数据支持程度的一种表述方法。"
+  },
+  {
+   "cn": "似然",
+   "en": "likelihood",
+   "source": "数学名词",
+   "wordNumber": "09.0569",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "腐蚀倾向",
+   "en": "corrosion likelihood",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0017",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀原理及类型",
+   "subjectName": "腐蚀原理及类型",
+   "publishYear": "2021",
+   "definition": "在给定腐蚀体系中，定性或定量表示预期的腐蚀效应。"
+  },
+  {
+   "cn": "腐蚀倾向",
+   "en": "corrosion likelihood",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0460",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "在给定的腐蚀体系中，定性或定量表示预期的腐蚀效应。"
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "经济学名词",
+   "wordNumber": "10.065",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "任一随机样本能够被观察到的联合概率。对一个容量为 n 的随机样本<img src='/root/syzx/static/spz/jingjixue1.10.065.01.png'/>，似然函数的一般形"
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "核医学名词",
+   "wordNumber": "03.0564",
+   "subjectFullName": "核医学_核医学设备与操作_显像技术",
+   "subjectName": "显像技术",
+   "publishYear": "2018",
+   "definition": "一个含有未知参数的联合概率分布函数。设总体P的概率分布g( p, x )已知，含有未知参数x，在1次试验中，抽到i个样本<img src='/root/syzx/static/spz/heyixue1"
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood",
+   "source": "微生物学名词",
+   "wordNumber": "02.068",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "一种用于系统发育学分析的统计学构树方法，基于使每一位点上的核苷酸都具有最大可能性的原则，分析构建系统树的方法。"
+  },
+  {
+   "cn": "似然方程",
+   "en": "likelihood equation",
+   "source": "数学名词",
+   "wordNumber": "09.0571",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "数学名词",
+   "wordNumber": "09.0570",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "极大似然法",
+   "en": "maximum likelihood method; maximal likelihood method",
+   "source": "天文学名词",
+   "wordNumber": "07.394",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种根据观测数据给出参数估计的统计方法。对给定的观测数据，通过改变模型参数使似然度函数取最大值而获得对模型参数的估计。"
+  },
+  {
+   "cn": "最大似然估计",
+   "en": "maximum likelihood estimation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.066",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "一种概率型的参数估计法，以似然函数的概念为基础，使似然函数极大化的参数估计。似然函数是一种关于统计模型中的参数的函数，表示模型参数中的似然性。"
+  },
+  {
+   "cn": "似然比,或然比",
+   "en": "likelihood ratio",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "似然原理",
+   "en": "likelihood principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "似然方程",
+   "en": "likelihood equation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood method",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然原理",
+   "en": "maximum likelihood principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "极大似然估计量",
+   "en": "maximum likelihood estimator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "约束最大似然法",
+   "en": "restricted maximum likelihood",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood method",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然分类",
+   "en": "maximum likelihood classification",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "对数似然函数",
+   "en": "log-likelihood function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然树",
+   "en": "maximum-likelihood tree",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "比，比率",
+   "en": "ratio",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拉伸倍数",
+   "en": "draft ratio\",\"draw ratio",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "分配比",
+   "en": "partition ratio\",\"distribution ratio",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同质异能素比",
+   "en": "isomer ratio\",\"isomeric ratio",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "核质比",
+   "en": "nucleo-cytoplasmic ratio\",\"karyoplasmic ratio\",\"nucleoplasmic ratio",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "似然查找模型",
+   "en": "query likelihood model (QLM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "加速比",
+   "en": "speedup ratio",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扩展比",
+   "en": "expansion ratio",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贫困发生率",
+   "en": "poverty ratio",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "市盈率",
+   "en": "Price Earnings Ratio",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "市净率",
+   "en": "Price-to-Book Ratio",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "定比尺度",
+   "en": "ratio scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "确立测量对象之间的比率关系的测量方式。是最高层次的测量，除具有定类测量、定序测量和定距测量的特征外，还要求具有实在意义的真正零点。"
+  },
+  {
+   "cn": "几率比",
+   "en": "odds ratio",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.115",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个几率的商。"
+  },
+  {
+   "cn": "性别比",
+   "en": "sex ratio",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.5",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "用来指称男女人口数量的比例，通常以每100名女性人口所对应的男性人口数量为计算标准，包含出生人口性别比与成人性别比。"
+  },
+  {
+   "cn": "含湿量",
+   "en": "humidity ratio",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "湿空气中，所含水蒸气的质量与干空气质量之比。"
+  },
+  {
+   "cn": "比值比",
+   "en": "odds ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.37",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "病例对照研究中病例组与对照组暴露比值之比，表示暴露者疾病的危险性是非暴露者的多少倍，用于估计相对危险度的关联强度指标。"
+  },
+  {
+   "cn": "低估系数",
+   "en": "underestimation ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在疾病负担流行病学金字塔模型中，上一层级的报告患病率（发病率）占下一层级估计患病率（发病率）的比例"
+  },
+  {
+   "cn": "伤亡比",
+   "en": "casualty ratio",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.12",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员人数与阵亡人数之比，反映敌人武器、战斗激烈程度和火线救护效果。"
+  },
+  {
+   "cn": "实际补偿比",
+   "en": "actual compensation ratio，real compensation ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "参保人在各级定点医疗服务机构就医后所得到实际补偿的医药费用占应支付医药费用的比例。"
+  },
+  {
+   "cn": "氧增强比",
+   "en": "oxygen enhancement ratio",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.26",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "缺氧与有氧条件下受照射的生物体出现同等生物效应所需吸收剂量的比值。"
+  },
+  {
+   "cn": "道比法",
+   "en": "channels ratio method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "液体闪烁计数法中猝灭校正方法之一。即在被测样品的能谱范围内选取两个测量窗，用在两窗内的计数之比（道比）从已知猝灭校正曲线算出被测样品的探测效率，进而求出样品活度的方法。"
+  },
+  {
+   "cn": "泄漏辐射[比]率",
+   "en": "leakage radiation ratio",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.25",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "在有用束外距辐射源某一距离处的泄漏辐射空气比释动能率与有用束中心轴上距辐射源相同距离处的空气比释动能率的比值。"
+  },
+  {
+   "cn": "孕产妇死亡率",
+   "en": "maternal mortality ratio",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "某年每10万名活产婴儿对应的由于怀孕和分娩而死亡的妇女数。"
+  },
+  {
+   "cn": "医护比",
+   "en": "doctor-nurse ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.5",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "全称“医护比例”。医生与护士的比例，等于医生数/护士数，一般表示为两个数字之比，如某医院医护比为1:2"
+  },
+  {
+   "cn": "政策补偿比",
+   "en": "policy compensation ratio",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "在规定的政策范围内，即规定的服务包（包括药品、检查等）范围内，以及规定的起付线、封顶线等限制下，参保人应获得补偿的医疗费用占应支付医药费用的比例。"
+  },
+  {
+   "cn": "体脂率",
+   "en": "body fat ratio",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "人体脂肪组织占体重的百分比，是比较直观判断肥胖的指标。常用的测量方法主要包括：双能X线吸收法、生物电阻抗法和皮褶厚度法。"
+  },
+  {
+   "cn": "身材匀称",
+   "en": "trunk-leg ratio",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.20",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "身体上部（顶臀长、坐高）与身长（高）的比值，反映下肢的生长情况。"
+  },
+  {
+   "cn": "致死率",
+   "en": "case fatality ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.19",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一定时间内因某病死亡者占该病患病者的比例。"
+  },
+  {
+   "cn": "剂量均匀度比值",
+   "en": "dose uniformity ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.21.5",
+   "subjectFullName": "食品卫生学_食品_辐照食品",
+   "subjectName": "辐照食品",
+   "publishYear": "2025",
+   "definition": "同一批量产品中最高吸收剂量和最低吸收剂量的比值。"
+  },
+  {
+   "cn": "总抚养比",
+   "en": "general dependency ratio,GDR",
+   "source": "社会学名词",
+   "wordNumber": "4.5.7.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_年龄性别结构",
+   "subjectName": "年龄性别结构",
+   "publishYear": "2025",
+   "definition": "人口总体中非劳动年龄人口数与劳动年龄人口数之比。通常用百分比表示。说明每100名劳动年龄人口要负担多少名非劳动年龄人口。用干从人口角度反映人口与经济发展的基本关系。"
+  },
+  {
+   "cn": "孕产妇死亡率",
+   "en": "maternal mortality ratio, MMR",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某年某国家或地区范围内的孕产妇死亡数与活产数之比，以10万分率表示。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

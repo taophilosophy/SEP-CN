@@ -1,0 +1,472 @@
+{
+ "key": "brief discussion",
+ "term": "brief discussion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:41:32+00:00",
+ "status": "ok",
+ "note": "variant=brief discussion; 审定公布名词库=44; 海峡两岸名词对照库=12; 其他来源数据库=8; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "吹风会",
+   "en": "briefing;briefing meeting",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.064",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "针对一个有可能引起很大争议的决策，有关机构或组织先借助媒体放出风声来试探舆论反应的一种行为。媒体通过吹风会了解情况，但一般不直接报道吹风会，也不公布发布人。"
+  },
+  {
+   "cn": "简讯",
+   "en": "news brief",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.093",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "200字以内新闻五要素（人物、时间、地点、事件、缘由）俱全的短消息。"
+  },
+  {
+   "cn": "短暂性疼痛",
+   "en": "brief pain",
+   "source": "手外科学名词",
+   "wordNumber": "05.1029",
+   "subjectFullName": "手外科学_手外科学分论_上肢周围神经",
+   "subjectName": "上肢周围神经",
+   "publishYear": "2020",
+   "definition": "由轻微损伤刺激引起，持续时间短暂的一过性疼痛。"
+  },
+  {
+   "cn": "简要书目记录",
+   "en": "brief record",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.393",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "与“详细书目记录”相对。包含最基本的数据项（内容）的书目记录。该记录只包含基本字段和子字段。"
+  },
+  {
+   "cn": "简码",
+   "en": "brief-code",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1106",
+   "subjectFullName": "计算机科学技术_计算机应用_中文信息处理",
+   "subjectName": "中文信息处理",
+   "publishYear": "2018",
+   "definition": "一类汉字输入码。按字形编制。常用汉字的简码只取其前一个、两个或三个字根，目的是提高输入汉字的速度。"
+  },
+  {
+   "cn": "情报简报",
+   "en": "intelligence briefing",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.064",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "由竞争情报机构或部门编发的，以口头或书面形式表达的简短报告。旨在向决策者和管理者及时传递有关竞争环境、竞争对手、竞争战略等方面的动态信息，为决策者制订战略计划提供依据和建议。"
+  },
+  {
+   "cn": "简讯",
+   "en": "brief;news flash",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.077",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "以简明文字最快速报道新闻的一种消息体裁。"
+  },
+  {
+   "cn": "简明疼痛量表",
+   "en": "brief pain inventory",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.291",
+   "subjectFullName": "物理医学与康复_康复功能评定_疼痛评定",
+   "subjectName": "疼痛评定",
+   "publishYear": "2014",
+   "definition": "由威斯康辛大学神经科疼痛小组研制，将感觉、情感和评价三个因素分别量化的疼痛评定量表。包括了有关疼痛原因、疼痛性质、对生活的影响、疼痛部位等描述词，并采用数字分级评分法描述疼痛程度，从多方面对疼痛进行评"
+  },
+  {
+   "cn": "专用情报简报",
+   "en": "special intelligence briefing",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.065",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "由竞争情报机构或部门编发的，以口头或书面形式表达的、主题明确、针对性强的简短报告。通常提供某一特定的企业、项目、产品或事件的相关信息，并进行专项分析，提出有针对性的行动建议。"
+  },
+  {
+   "cn": "讨论线索",
+   "en": "discussion thread",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0774",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "在论坛或公告板上由某个特定文章引发的一系列文章。"
+  },
+  {
+   "cn": "讨论法",
+   "en": "discussion method",
+   "source": "教育学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "在教师的指导下，学生以全班或小组为单位，围绕某一中心论题，各抒己见，共同探讨，从而有效获得知识的教学方法。"
+  },
+  {
+   "cn": "会议简介",
+   "en": "brief introduction on conference",
+   "source": "档案学名词",
+   "wordNumber": "04.02.018",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂体裁",
+   "subjectName": "档案文献编纂体裁",
+   "publishYear": "2024",
+   "definition": "以会议为对象简要介绍其议程、内容的档案参考资料。"
+  },
+  {
+   "cn": "简明疼痛量表",
+   "en": "brief pain inventory;BPI",
+   "source": "麻醉学名词",
+   "wordNumber": "07.040",
+   "subjectFullName": "麻醉学_疼痛诊疗_疼痛评估",
+   "subjectName": "疼痛评估",
+   "publishYear": "2024",
+   "definition": "由威斯康星大学神经科疼痛小组研制，将感觉、情感和评价3个因素分别量化的疼痛评定量表。包括有关疼痛原因、疼痛性质、对生活的影响、疼痛部位等描述词，并采用数字分级评分法描述疼痛程度，从多方面对疼痛进行评价"
+  },
+  {
+   "cn": "朝报",
+   "en": "chao bao;court brief",
+   "source": "中国古代史名词",
+   "wordNumber": "6.226",
+   "subjectFullName": "中国古代史_两宋_政治_文书",
+   "subjectName": "文书",
+   "publishYear": "2022",
+   "definition": "朝廷统一编发以便各地知晓的朝政简报。自唐“邸报”发展而来，五代始以此称，宋朝沿之损益。凡朝廷人事任命、制度建制、一般政令等及各地大事可以公开的，由进奏院定期按日编定，经给事中审定后发布，民间可以抄写买"
+  },
+  {
+   "cn": "规划设计条件",
+   "en": "planning and design brief",
+   "source": "建筑学名词",
+   "wordNumber": "07.0356",
+   "subjectFullName": "建筑学_城乡规划_城乡规划管理",
+   "subjectName": "城乡规划管理",
+   "publishYear": "2014",
+   "definition": "城市规划主管部门对建设项目提出的规划建设要求。是指导和审定修建性详细规划的重要依据。对于行政划拨用地建设项目，规划设计条件作为编制修建性详细规划或者规划总平面的依据。对于有偿使用用地建设项目，规划设计"
+  },
+  {
+   "cn": "简明精神病评定量表",
+   "en": "Brief Psychiatric Rating Scale,BPRS",
+   "source": "精神医学名词",
+   "wordNumber": "05.009",
+   "subjectFullName": "精神医学_常用量表",
+   "subjectName": "常用量表",
+   "publishYear": "2019",
+   "definition": "美国精神医学家奥弗拉尔(J. E. Overall)等1962年编制的他评量表。用于评定受检者近1周的精神病性症状。评估焦虑抑郁、缺乏活力、思维障碍、激活性和敌对猜疑5个方面。常用版本为18个条目。"
+  },
+  {
+   "cn": "神经症筛选量表",
+   "en": "brief neurosis screening scale,BNSS",
+   "source": "计划生育名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "世界卫生组织推荐的对神经症状进行筛选的量表。含12个项目，包括焦虑、抑郁、神经衰弱、强迫、癔症等6个因子的量表。由检测医生根据受检者的回答和表现进行客观评分。"
+  },
+  {
+   "cn": "简明认知评定量表",
+   "en": "brief cognitive rating scale,BCRS",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "评定认知和有关功能的量表。包括记忆、注意、学习等内容，不包括情绪改变如焦虑、抑郁、忧虑和精神病症状。"
+  },
+  {
+   "cn": "简明精神病评定量表",
+   "en": "brief psychiatric rating scale,BPRS",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.304",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "历史事件简介",
+   "en": "brief introduction on historical event",
+   "source": "档案学名词",
+   "wordNumber": "04.02.019",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂体裁",
+   "subjectName": "档案文献编纂体裁",
+   "publishYear": "2024",
+   "definition": "以历史事件为对象，简要介绍其历史经过、结局、影响等的档案参考资料。"
+  },
+  {
+   "cn": "简码",
+   "en": "brief-code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天气汇报",
+   "en": "de-briefing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "短期心理动力疗法",
+   "en": "brief psychodynamic therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "短期精神障碍",
+   "en": "brief psychotic disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "短期精神分析疗法,简短心理分析疗法",
+   "en": "brief psychoanalytic treatment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "小组讨论",
+   "en": "panel discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "简明症状量表",
+   "en": "Brief Symptom Inventory\",\"BSI",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "简明精神病评定量表",
+   "en": "Brief Psychiatric Rating Scale\",\"BPRS",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自由式讨论",
+   "en": "free floating discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "短程心理治疗,短期心理治疗",
+   "en": "short term psychotherapy\",\"brief psycho therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无领导小组讨论",
+   "en": "leaderless group discussion\",\"LGD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "悲伤疗法",
+   "en": "grief therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "赛前说明会",
+   "en": "pre-race briefing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《数字素养：NMC地平线项目战略简报》",
+   "en": "Digital Literacy: An NMC Horizon Project Strategic Brief",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简史三部曲（《人类简史》《未来简史》《今日简史》）（〔以色列〕尤瓦尔·赫拉利）",
+   "en": "The Brief History Trilogy — Sapiens: A Brief History of Humankind; Homo Deus: A Brief History of Tomorrow; 21 Lessons for the 21st Century (Yuval Noah Harari, Israel)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知人论世",
+   "en": "Know Others and Discuss Their World",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《时间简史》（〔英〕斯蒂芬·威廉·霍金）",
+   "en": "A Brief History of Time: From the Big Bang to Black Holes (Stephen William Hawking, UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乐而不淫，哀而不伤",
+   "en": "Express Enjoyment Without Indulgence and Express Grief Without Excessive Distress",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哀乐中节",
+   "en": "Express Grief and Joy in Accordance with the Rules of Propriety",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情往会悲，文来引泣",
+   "en": "An Author Who Invests Emotionally in a Lament Can Experience Grief. A Lament Written in This Way Can Move Readers to Tears.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "小组讨论",
+   "en": "group discussion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "在教育者或组织者的引导下，通过集体讨论的形式，对所学课题或规定的题目提出各自的看法，从而加深对已学知识的理解和运用的教学方法。也适用于以改变态度、提高决策能力和沟通技能为目的教学内容。"
+  },
+  {
+   "cn": "选题小组讨论",
+   "en": "nominal group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过程序化的小组讨论过程，发现问题、确定优先领域、筛选评价指标等的研究方法。通常由具有各种不同既得利益、不同思想意识和不同专业水平的人组成一个小组发掘问题，并把所发现的问题按其重要程度排列出来。"
+  },
+  {
+   "cn": "专题小组讨论",
+   "en": "focus group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过召集一小组同类人员，对某一研究议题进行讨论，得出结论的定性调查方法。"
+  },
+  {
+   "cn": "《黑鞑事略》",
+   "en": "Brief Records of the Black Tatars",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0283",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "南宋彭大雅所撰蒙古见闻录，徐霆作疏。介绍了蒙古国主要人物﹑地理气候﹑牧猎方式﹑语言文字﹑历法﹑官制、风俗习惯﹑经济生活及军事作战等情况，是研究13 世纪前半期蒙古史的珍贵资料。"
+  },
+  {
+   "cn": "哀伤辅导",
+   "en": "grief counseling",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.047000000000001",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "对丧亲者的哀伤状况进行评估，并根据其哀伤情况给予相应的干预措施，防止其情绪向严重哀伤演变的心理支持服务。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

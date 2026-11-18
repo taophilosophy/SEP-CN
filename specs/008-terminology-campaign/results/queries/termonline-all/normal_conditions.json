@@ -1,0 +1,732 @@
+{
+ "key": "normal conditions",
+ "term": "normal conditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:42:58+00:00",
+ "status": "ok",
+ "note": "variant=normal conditions; 审定公布名词库=3067; 海峡两岸名词对照库=964; 其他来源数据库=77; 预公布名词数据库=149; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "正常状态",
+   "en": "normal condition",
+   "source": "电气工程名词",
+   "wordNumber": "29.012",
+   "subjectFullName": "电气工程_电气安全",
+   "subjectName": "电气安全",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "归一[化]条件",
+   "en": "normalization condition",
+   "source": "物理学名词",
+   "wordNumber": "06.0536",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正常操作条件",
+   "en": "normal operating conditions",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0551",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "为符合制造厂所给出的机器人性能而应具备的环境条件范围和可影响机器人性能的其他参数值(如电源波动、电磁场)。"
+  },
+  {
+   "cn": "正常的生产条件",
+   "en": "normal plant condition",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0634",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "在一定的生产组织和生产技术条件下，为完成单位合格产品，所必需的劳动消耗量的标准。"
+  },
+  {
+   "cn": "正常工作条件",
+   "en": "normal operating condition",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.070",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "冷却条件偏离额定值",
+   "en": "cooling condition deviated from normal",
+   "source": "电力名词",
+   "wordNumber": "11.160",
+   "subjectFullName": "电力_汽轮发电机",
+   "subjectName": "汽轮发电机",
+   "publishYear": "2020",
+   "definition": "发电机的有功、无功功率均受冷却条件制约,如因冷却系统异常导致定子绕组、转子绕组、定子铁心等温度异常时,应及时处理,以确保发电机安全运行。"
+  },
+  {
+   "cn": "核电厂正常运行工况",
+   "en": "normal operating condition of NPP",
+   "source": "电力名词",
+   "wordNumber": "17.637",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "运行技术规格书中规定的限值都没有被超过的运行工况。包括启动、停运、功率运行、维修、试验、停堆换料和各种正常运行瞬变等。对压水堆核电厂又可分为功率运行、标准停堆、过渡运行和换料停堆等运行模式。"
+  },
+  {
+   "cn": "法线",
+   "en": "normal",
+   "source": "物理学名词",
+   "wordNumber": "01.0327",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "累年",
+   "en": "normals",
+   "source": "建筑学名词",
+   "wordNumber": "10.0503",
+   "subjectFullName": "建筑学_建筑物理_建筑气候学",
+   "subjectName": "建筑气候学",
+   "publishYear": "2014",
+   "definition": "多年。特指整编气象资料时，所采用的以往一段连续年份(不少于3年)的累计。"
+  },
+  {
+   "cn": "法线",
+   "en": "normal line,normal",
+   "source": "数学名词",
+   "wordNumber": "08.0319",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正火",
+   "en": "normalizing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.157",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_正火",
+   "subjectName": "正火",
+   "publishYear": "2021",
+   "definition": "将工件加热至奥氏体化后保温一段时间，在空气中或其他介质中冷却获得以珠光体组织为主的热处理工艺。"
+  },
+  {
+   "cn": "正火",
+   "en": "normalizing",
+   "source": "电力名词",
+   "wordNumber": "12.482",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "将钢件加热到上临界点(<img src='/root/syzx/static/spz/dianli3.12.482.01.png'/>)以上40~60°C或更高的温度,保温达到完全奥氏体化后,在空气中"
+  },
+  {
+   "cn": "归一化",
+   "en": "normalization",
+   "source": "物理学名词",
+   "wordNumber": "06.0535",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正火",
+   "en": "normalizing",
+   "source": "冶金学名词",
+   "wordNumber": "07.0311",
+   "subjectFullName": "冶金学_金属学_热处理",
+   "subjectName": "热处理",
+   "publishYear": "2019",
+   "definition": "将工件加热奥氏体化后，保持一定时间，然后在静止空气或保护气氛中冷却变成珠光体的热处理工艺。"
+  },
+  {
+   "cn": "标准化",
+   "en": "normalization",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.054",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "进行脑功能图像处理时，把不同个体的大脑投影到一个标准脑图谱上，以消除人脑的个体差异，使结果具有可比性的过程。"
+  },
+  {
+   "cn": "归一化",
+   "en": "normalization",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0006",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "归纳统一样本的统计分布特性的方法。"
+  },
+  {
+   "cn": "规范化",
+   "en": "normalization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0026",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "将关系模式分解成要求的范式的过程。其基本思想是消除关系模式中存在的不合适的数据依赖，从而消除可能存在的数据冗余。"
+  },
+  {
+   "cn": "规格化",
+   "en": "normalization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0291",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "调整浮点数的阶码和尾数，尾数部分用纯小数给出，且小数点后第一位的值不为零。"
+  },
+  {
+   "cn": "正态化",
+   "en": "normalization",
+   "source": "心理学名词",
+   "wordNumber": "03.213",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "将原始分数的趋中值和离散值(最常用的是平均数和标准差)转化为正态分布上的趋中值和离散值的过程。常见的转换系统有标准分数、真分数、标准九分和离差智商等。"
+  },
+  {
+   "cn": "正常化",
+   "en": "normalization",
+   "source": "教育学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "第二次世界大战后产生于丹麦，主张使残疾者的日常生活方式及条件符合其需要并尽可能接近主流社会的标准和方式的一种特殊教育原则。"
+  },
+  {
+   "cn": "正常状态",
+   "en": "normal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正常状态",
+   "en": "normal condition",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "正常，常态，标准",
+   "en": "normal",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正态的",
+   "en": "normal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准化，规一化",
+   "en": "normalization",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "归一化",
+   "en": "normalization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正态化",
+   "en": "normalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正火",
+   "en": "normalizing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "normalization",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "规范化",
+   "en": "normalization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "规范化",
+   "en": "normalization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规格化",
+   "en": "normalization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新常态",
+   "en": "new normal",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "步足",
+   "en": "ayumi-ashi\",\"normal stepping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因地制宜",
+   "en": "adjusting measures to local conditions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "奇正",
+   "en": "Qi or Zheng / Surprise or Normal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济发展新常态",
+   "en": "a new normal for economic development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "恢复生产生活秩序",
+   "en": "to resume work and normal life",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重症患者",
+   "en": "patients in severe or critical condition",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正常照射",
+   "en": "normal exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在设施或源的正常运行条件下受到的照射。包括预计会受到的照射或在可能发生的能够保持在控制条件之下的意外事件情况下受到的照射。"
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "概率密度函数为的统计分布。该分布由两个参数——平均值（）和方差（）决定。其概率密度函数曲线以均值为对称中线单峰统计分布，曲线的高峰位于中央；方差越小，分布越集中在均值附近。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "牢固地建立在一种或多种过去科学成就基础上的研究。这些科学成就为某个科学共同体在一段时期内公认为是进一步实践的基础。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家们不质疑范式本身，而是在范式的指导下通过解谜活动扩大范式的应用范围。在常规科学中存在着明晰的合理性规则，常规科学的研究因其成果的积累而不断进步。"
+  },
+  {
+   "cn": "正常品",
+   "en": "normal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "需求的收入弹性为正的商品，消费者对这种商品的需求水平随着收入的增加而提高。"
+  },
+  {
+   "cn": "归一化系数",
+   "en": "normalized coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.12.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "早年X射线工作者在缺乏个人监测资料的情况下，某类工作条件与标准化工作条件下单位工作量的比值。"
+  },
+  {
+   "cn": "归一化工作量",
+   "en": "normalized workload",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.12.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "早年X射线工作者在缺乏个人监测资料的情况下，为某一位X射线工作者某年在某类工作条件下的总工作量W（单位为千人次）与归一化系数γ乘积之和。"
+  },
+  {
+   "cn": "语言规范化",
+   "en": "language normalization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0163",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "为语言在特定使用条件和环境下的运用确定语言本体和社会的标准，并通过国家行政命令和专家引导的力量，使语言按照这个标准发展。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "逻辑斯蒂正态模型",
+   "en": "Logistic-normal model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.88",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于分析二元响应变量的统计模型。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "正丙醇消毒剂",
+   "en": "normal propyl alcohol disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.7.2.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以正丙醇为主要有效成分，用于消毒的浓度不低于60%（v/v）或50%（w/w），无色透明，易挥发、易燃的液体消毒剂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

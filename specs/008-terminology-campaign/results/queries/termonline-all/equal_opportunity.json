@@ -1,0 +1,802 @@
+{
+ "key": "equal opportunity",
+ "term": "equal opportunity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:03:55+00:00",
+ "status": "ok",
+ "note": "variant=equal opportunity; 审定公布名词库=238; 海峡两岸名词对照库=80; 其他来源数据库=21; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "公平就业机会",
+   "en": "equal employment opportunity",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0363",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源管理法规",
+   "subjectName": "人力资源管理法规",
+   "publishYear": "2016",
+   "definition": "无论种族、肤色、宗教、性别、年龄、国别以及是否残疾与否的人都享有公平就业与劳动用工的机会。"
+  },
+  {
+   "cn": "教育机会均等",
+   "en": "equal educational opportunity",
+   "source": "教育学名词",
+   "wordNumber": "01.152",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "教育机会分配时必须遵循的基本原则，强调公民不分民族、种族、性别、职业、财产状况、宗教信仰等，依法享有平等的受教育机会。"
+  },
+  {
+   "cn": "教育机会平等",
+   "en": "equal opportunity for education",
+   "source": "教育学名词",
+   "wordNumber": "14.023",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "人们享有同等的受教育机会，不受政治、经济、社会地位、民族、种族、信仰及性别等差异的影响。"
+  },
+  {
+   "cn": "平等就业机会委员会",
+   "en": "Equal Employment Opportunity Commission",
+   "source": "世界历史名词",
+   "wordNumber": "03.0256",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1965年7月2日成立的旨在结束就业中的种族歧视的联邦政府机构。"
+  },
+  {
+   "cn": "机会",
+   "en": "opportunity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0926",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "出现缺陷的可能性。"
+  },
+  {
+   "cn": "机会主义",
+   "en": "opportunism",
+   "source": "经济学名词",
+   "wordNumber": "05.050",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "关于交易行动者的行为动机的假设。机会主义，就是为了追求私利而不择手段，突出的表现是不按规则办事。机会主义使人具有随机应变，投机取巧为自己谋取最大利益的行为倾向。机会主义使市场主体有损人利己的可能，而且"
+  },
+  {
+   "cn": "机会主义",
+   "en": "opportunism",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1043",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在信息不对称的情况下，人们没有完全如实地披露所有的信息及所做的损人利己的行为。"
+  },
+  {
+   "cn": "机会主义",
+   "en": "Opportunism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0096",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "国际工人运动和工人阶级政党内反对马克思主义的资产阶级思潮，其表现为左倾机会主义或者右倾机会主义。"
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.261",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "(1)在模拟传输中，为了减少传输信号的线性失真，针对信道传递函数偏离其理想形状而进行的补偿过程。(2)在数字传输中，为了减少传输信道中因失真而导致符号间干扰的一种措施。"
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.579",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "实现均衡的器件。"
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.300",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "将瞬间要求确定的故障监控阈低值与依据不一致性要求确定的故障监控阈高值，进行综合均衡处理的技术措施。"
+  },
+  {
+   "cn": "均衡",
+   "en": "equalization",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "07.331",
+   "subjectFullName": "机械工程_仪器仪表_实验室仪器和装置_振动测量仪器_振动测量仪测试方法",
+   "subjectName": "振动测量仪测试方法",
+   "publishYear": "2003",
+   "definition": "调整电子放大器和控制系统的增益，使在所要求的频谱内，各输出的振幅与输入的信号幅值之比为常数。"
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "电气工程名词",
+   "wordNumber": "16.179",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "均压线",
+   "en": "equalizer",
+   "source": "电气工程名词",
+   "wordNumber": "07.202",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "均衡梁",
+   "en": "equalizer",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0214",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "等式",
+   "en": "equality",
+   "source": "数学名词",
+   "wordNumber": "01.0043",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相等",
+   "en": "equality",
+   "source": "数学名词",
+   "wordNumber": "01.0044",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "电子学名词",
+   "wordNumber": "03.438",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "农学名词",
+   "wordNumber": "19.081",
+   "subjectFullName": "农业经济与管理_农业产业经济",
+   "subjectName": "农业产业经济",
+   "publishYear": "2025",
+   "definition": "为采用某种决策行为所须放弃的其他多种可选行为中的最大价值。"
+  },
+  {
+   "cn": "均衡器",
+   "en": "equalizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机会代价,择机代价",
+   "en": "opportunity cost",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "投资机会",
+   "en": "investment opportunity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "介入机会,插入机会",
+   "en": "intervening opportunity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "机会因子",
+   "en": "opportunity factor",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "均等卵裂",
+   "en": "equal cleavage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "等二叉分枝，等二歧分枝",
+   "en": "equal dichotomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等二歧分枝（=等二叉分枝）",
+   "en": "equal dichotomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均等分裂",
+   "en": "equal division",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同声",
+   "en": "equal voices",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "等额分期付款",
+   "en": "equal installment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "均等分裂",
+   "en": "equal division",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "等高法",
+   "en": "equal altitudes",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "均等卵裂",
+   "en": "equal cleavage",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社会机会成本",
+   "en": "social opportunity cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最后机会原则",
+   "en": "last opportunity rule",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "平衡阀",
+   "en": "equalizing valve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平衡槽",
+   "en": "equalization tank",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等式约束",
+   "en": "equality constraint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压力平衡器",
+   "en": "pressure equalizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数字机会均等化",
+   "en": "Equalization of Digital Opportunity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平等",
+   "en": "Equality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化机遇",
+   "en": "digital opportunity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球数字机遇",
+   "en": "global digital opportunity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩相同",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打平",
+   "en": "equalize\",\"tie",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平等权",
+   "en": "right of equality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "齐物",
+   "en": "Seeing Things as Equal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据平权",
+   "en": "equal rights to data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "十二平均律",
+   "en": "The Twelve-tone Equal Temperament",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "均无贫",
+   "en": "With Equality, There Is No Poverty.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据促发展：挑战与机遇》（联合国）",
+   "en": "Big Data for Development: Opportunities and Challenges (UN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天时地利人和",
+   "en": "Opportune Time, Geographic Advantage, and Unity of the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "当仁不让",
+   "en": "When Facing an Opportunity to Exercise Benevolence, Do Not Yield.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "见贤思齐",
+   "en": "When Seeing a Person of High Caliber, Strive to Be His Equal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平等机会政策",
+   "en": "policy on equal-opportunities",
+   "source": "社会学名词",
+   "wordNumber": "4.3.2.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策类型",
+   "subjectName": "社会政策类型",
+   "publishYear": "2025",
+   "definition": "通过提升公民参与社会经济事务的能力，保障其参与的基本权利与机会。与平等收入政策相对应的一种预防性的社会政策。"
+  },
+  {
+   "cn": "机会主义",
+   "en": "opportunism",
+   "source": "马克思主义",
+   "wordNumber": "04.0316",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工人运动或无产阶级政党内部出现的违背马克思主义根本原则，为求得暂时利益而牺牲无产阶级根本利益的政治思潮。19世纪40年代产生于法国的蒲鲁东主义,60、70年代德国工人运动中的拉萨尔主义,都是自由资本主"
+  },
+  {
+   "cn": "平等",
+   "en": "equality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.125",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间在经济、政治、文化等方面处于同等地位，具有同等发展机会，享有同等的权利。"
+  },
+  {
+   "cn": "机会成本",
+   "en": "opportunity cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.6",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "将一项资源用于某一项目或方案时，其余项目或方案失去再使用这些资源的可能性，这些可能性的潜在收益。"
+  },
+  {
+   "cn": "机会平等",
+   "en": "fair opportunity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.057",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "每一个人平等地拥有获得社会资源、利益分配、资格待遇的可能性。"
+  },
+  {
+   "cn": "权利平等",
+   "en": "equal rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0139",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人与人之间在政治、经济、文化等方面具有的同等地位和同等权利。马克思主义认为，真正的权利平等只有在消灭了阶级的共产主义社会才能实现。而权利平等又包含权利相对平等和绝对平等两重涵义。"
+  },
+  {
+   "cn": "男女同工同酬",
+   "en": "equal pay for equal work",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "所有劳动主体遵守等量劳动换取等量报酬的原则，不因性别而遭遇差别对待。这是体现劳动、工作的性别平等的一个基本原则，也是实现劳动性别平等的一条重要途径。"
+  },
+  {
+   "cn": "手卫生指征",
+   "en": "hand hygiene opportunity",
+   "source": "消毒学",
+   "wordNumber": "4.3.1.4",
+   "subjectFullName": "消毒学_消毒应用_皮肤黏膜消毒",
+   "subjectName": "皮肤黏膜消毒",
+   "publishYear": "2025",
+   "definition": "评估手卫生行为的指标，常用于医疗机构和其他健康设施中的卫生管理，在接触患者前、无菌操作前，体液暴露后、接触患者后和接触患者周围环境后提示需进行手卫生的情形。"
+  },
+  {
+   "cn": "不同机会理论",
+   "en": "differential opportunity theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为社会特定群体因为经济社会地位低下，获取社会资源的合法机会受到限制，而其生活环境使其有机会接触非法手段时，这些群体就会采取非法手段，从而导致犯罪。"
+  },
+  {
+   "cn": "教育机会",
+   "en": "opportunity of education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.7.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "选择任何教育渠道接受教育并取得学业成功的机会。每个社会成员在自然、社会或文化方面的不利条件均可在教育中得到补偿，社会成员不论其种族、民族、性别、宗教信仰、经济地位和政治地位等方面有何不同，都可享有同等"
+  },
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不因性别因素歧视他人或被他人歧视，不同性别间享有平等权利。通常包括不同性别在机会、过程和结果等不同方面的平等。"
+  },
+  {
+   "cn": "民族平等",
+   "en": "national equality",
+   "source": "马克思主义",
+   "wordNumber": "04.0092",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "民族平等是马克思主义解决民族问题的根本原则之一。民族不分大小一律平等。建立在私有制基础上的剥削制度，是造成社会不平等和民族不平等的根源。只有消灭阶级剥削制度，消灭一切阶级差别，才能彻底实现民族平等。各"
+  },
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "source": "社会医学名词",
+   "wordNumber": "3.12",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "性别平等",
+   "publishYear": "2025",
+   "definition": "不因性别因素歧视他人或被他人歧视，不同性别间享有平等权利。通常包括不同性别在机会、过程和结果等不同方面的平等。"
+  },
+  {
+   "cn": "民族平等",
+   "en": "ethnic equality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0124",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "民族不分大小、强弱、历史长短，一律平等，任何民族不能享有任何特权。各民族在社会生活各个领域和相互交往中处于同等的地位，享有同样的权利。民族平等既是马克思主义民族理论的根本原则，也是无产阶级及其政党处理"
+  },
+  {
+   "cn": "抓住机遇加速发展",
+   "en": "seizing opportunity accelerating development",
+   "source": "马克思主义",
+   "wordNumber": "04.0180",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志关于抓住时机，加快速度发展自己，隔几年上一个台阶的思想。从国际经济发展历史看，一些国家在发展过程中，都曾经有过高速发展的时期，或者若干高速发展阶段。因此，“抓住机遇，加速发展”是对现代化发展"
+  },
+  {
+   "cn": "早期学习机会",
+   "en": "opportunity for early learning",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5.2.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "为婴幼儿提供学习身体运动、语言认知、社会交往和情绪调节技能的环境和机会。"
+  },
+  {
+   "cn": "立三路线",
+   "en": "Li LiSans left opportunism",
+   "source": "马克思主义",
+   "wordNumber": "04.0379",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即第二次“左”倾路线。1930年中国工农红军和农村革命根据地得到很大发展,国民党统治区的人民革命斗争也得到了初步恢复。这时,党内一些犯革命急性病的人,过高地估计了有利条件和革命力量的增长,使党内存在着"
+  },
+  {
+   "cn": "平等医疗权",
+   "en": "equal medical right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.029",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者在就医过程中享有的不受歧视、人格平等、公平对待的权利。"
+  },
+  {
+   "cn": "绝对平等王国",
+   "en": "absolute equality kingdom",
+   "source": "马克思主义",
+   "wordNumber": "04.0284",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "空想社会主义和小资产阶级社会主义关于未来社会经济、政治等各个方面都绝对平等主义的设想。在批判资本主义剥削和不平等方面具有积极意义，但它是超阶级、超历史的空想，受到马克思和恩格斯的批判。"
+  },
+  {
+   "cn": "重要战略机遇期",
+   "en": "period of important strategic opportunities",
+   "source": "马克思主义",
+   "wordNumber": "04.0187",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党中央对当前国际国内形势作出的一个科学判断。主要是指国际国内各种因素综合作用形成的，能为国家（地区、集团）经济社会发展提供良好机会和境遇，并对其历史命运产生全局性、长远性、决定性影响的某一特定历史时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

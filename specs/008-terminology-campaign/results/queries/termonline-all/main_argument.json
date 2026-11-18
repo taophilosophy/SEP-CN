@@ -1,0 +1,742 @@
+{
+ "key": "main argument",
+ "term": "main argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:42:08+00:00",
+ "status": "ok",
+ "note": "variant=main argument; 审定公布名词库=1483; 海峡两岸名词对照库=427; 其他来源数据库=90; 预公布名词数据库=64; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "主梁",
+   "en": "main beam,main girder",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.263",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "主震",
+   "en": "main shock",
+   "source": "地质学名词",
+   "wordNumber": "11.01.015",
+   "subjectFullName": "地质学_地震地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "一个地震序列中，震级最大的地震。如果一个序列中有两个或多个震级相等或相近的主震，则可称双主震和多主震序列。"
+  },
+  {
+   "cn": "干渠",
+   "en": "main canal",
+   "source": "农学名词",
+   "wordNumber": "12.054",
+   "subjectFullName": "农业水利_农业水资源",
+   "subjectName": "农业水资源",
+   "publishYear": "2025",
+   "definition": "从水源取水，担负输水任务的一级渠道。包括总干渠和分干渠。"
+  },
+  {
+   "cn": "主干",
+   "en": "main trunk",
+   "source": "风景园林名词",
+   "wordNumber": "08.0269",
+   "subjectFullName": "风景园林_风景园林工程_风景园林养护",
+   "subjectName": "风景园林养护",
+   "publishYear": "2025",
+   "definition": "乔木或非丛生灌木地面上部与分枝点之间部分，上承树冠，下接根系。"
+  },
+  {
+   "cn": "主枝",
+   "en": "main branch",
+   "source": "风景园林名词",
+   "wordNumber": "08.0270",
+   "subjectFullName": "风景园林_风景园林工程_风景园林养护",
+   "subjectName": "风景园林养护",
+   "publishYear": "2025",
+   "definition": "自主干生出，构成树型骨架的粗壮枝条。"
+  },
+  {
+   "cn": "正文",
+   "en": "main body",
+   "source": "档案学名词",
+   "wordNumber": "04.03.101",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "由档案材料文字、符号、图表等构成的档案文献汇编的内容主体。"
+  },
+  {
+   "cn": "主序",
+   "en": "main sequence",
+   "source": "天文学名词",
+   "wordNumber": "04.063",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "赫罗图上从左上(高温、高光度)至右下(低温、低光度)大部分恒星集聚的序列。位于其上的恒星处于核心氢聚变阶段。"
+  },
+  {
+   "cn": "主支气管",
+   "en": "main bronchus",
+   "source": "麻醉学名词",
+   "wordNumber": "01.052",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统解剖",
+   "subjectName": "呼吸系统解剖",
+   "publishYear": "2024",
+   "definition": "由气管杈至上叶支气管起始处之间的气道。包括左、右主支气管。"
+  },
+  {
+   "cn": "主瓣",
+   "en": "main lobe",
+   "source": "天文学名词",
+   "wordNumber": "06.381",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "射电望远镜天线方向图中包含响应灵敏度最大值的一定方向范围，该范围内的响应灵敏度远超其余方向。"
+  },
+  {
+   "cn": "主题",
+   "en": "main title",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.201",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "标题中最主要、最受人注意的部分。一般用来点明新闻中最主要的事实与观点。在复合型标题中，主题的位置最为突出、字号最大。"
+  },
+  {
+   "cn": "主题名",
+   "en": "main title",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.037",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "出版物的主要题名。"
+  },
+  {
+   "cn": "主催化剂",
+   "en": "main catalyst",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0032",
+   "subjectFullName": "化工（七）_合成树脂_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "催化剂体系中不可或缺的组分。单独存在时具有显著的催化活性，即活性组分。"
+  },
+  {
+   "cn": "主旋律",
+   "en": "main theme",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.163",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "中国电影界1987年首先提出。指一个国家、一个时代的最强音。1994年1月24日，江泽民在全国宣传思想工作会议上明确将“弘扬主旋律、提倡多样化”作为文化建设的指导方针。此后，江泽民多次强调：“宣传工作"
+  },
+  {
+   "cn": "主震",
+   "en": "main shock",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0211",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "在一个地震序列中，最大的地震所释放的能量占全序列释放的能量 90%以上的地震。 "
+  },
+  {
+   "cn": "主片",
+   "en": "main leaf",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0981",
+   "subjectFullName": "机械工程（一）_机械零件_弹簧_弹簧的设计和工艺",
+   "subjectName": "弹簧的设计和工艺",
+   "publishYear": "2021",
+   "definition": "长度等于和大于伸直弦长的簧板。"
+  },
+  {
+   "cn": "主级",
+   "en": "main stage",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0972",
+   "subjectFullName": "机械工程（一）_传动_液压传动_控制方式和元件",
+   "subjectName": "控制方式和元件",
+   "publishYear": "2021",
+   "definition": "先导控制阀的功率放大级。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主存储器，主存",
+   "en": "main memory\",\"main storage",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主支气管",
+   "en": "main bronchus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "主射枝",
+   "en": "main ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气体干管",
+   "en": "gas main",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "主效应",
+   "en": "main effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主茎",
+   "en": "main stem",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "主瓣",
+   "en": "main lobe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "主共振",
+   "en": "main resonance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "主序",
+   "en": "main sequence",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "主带",
+   "en": "main band",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "主效应",
+   "en": "main effect",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "主族",
+   "en": "main group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "主根",
+   "en": "main root",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "总预算",
+   "en": "main budget",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "主梁",
+   "en": "main girder",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "主温跃层",
+   "en": "main thermocline",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "干流",
+   "en": "main stream",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "主效应",
+   "en": "main effect",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "主攻手",
+   "en": "attack specialist\",\"main smasher\",\"main spiker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大集团",
+   "en": "group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主肋骨",
+   "en": "main frame\",\"midship",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舵叶主构体",
+   "en": "rudder main piece",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大部队",
+   "en": "bunch\",\"group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "东方主战场",
+   "en": "the main Eastern battlefield",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "大部队",
+   "en": "bunch\",\"compact bunch\",\"main bunch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "得意技",
+   "en": "favorite technique\",\"main technique\",\"tokui-waza",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中心球场",
+   "en": "center court\",\"central court\",\"main competition court",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "以国家公园为主的自然保护地",
+   "en": "natural reserves with national parks as the main part",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反向移动",
+   "en": "gain",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主效应",
+   "en": "main effect",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.65",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在有一个或几个因子(自变量)的方差分析中，一个因子在各水平上对反应量(因变量)影响大小的度量。"
+  },
+  {
+   "cn": "主文化",
+   "en": "main culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0027",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在社会生活中居于主导地位、被人们普遍接受与认可，并产生广泛而深远影响的文化。"
+  },
+  {
+   "cn": "主要有效成分",
+   "en": "main active ingredient",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在复方消毒剂中有多种杀灭微生物的有效成分时，起主要杀灭微生物作用的有效成分。"
+  },
+  {
+   "cn": "主要展示版面",
+   "en": "main display layout",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.34",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "预包装食品包装物或包装容器上容易被观察到的版面。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "极期",
+   "en": "critical phase，main phase",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.1.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "急性放射病病程的第三阶段。病情发展最严重的时期，各种临床症状和体征充分表现，是救治的关键时刻。"
+  },
+  {
+   "cn": "反应堆主控制室",
+   "en": "reactor main control room",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.21",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "为操纵员提供实现反应堆运行目标所必须的人机接口和有关信息设备并进行操作的房间。"
+  },
+  {
+   "cn": "帝国主义的主要矛盾",
+   "en": "main contradictions of imperialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0266",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "帝国主义时期，资本主义世界的主要矛盾有：帝国主义国家内部无产阶级和资产阶级的矛盾；殖民地、半殖民地和附属国与帝国主义国家之间的矛盾；帝国主义国家之间的矛盾。这些矛盾是由垄断这一帝国主义的经济基础决定的"
+  },
+  {
+   "cn": "弘扬主旋律",
+   "en": "highlight the main theme",
+   "source": "马克思主义",
+   "wordNumber": "03.0629",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "弘扬一种在意识形态领域占主导地位的思想文化。当代中国，弘扬主旋律：就是在建设有中国特色社会主义理论和党的基本路线指引下，大力倡导一切有利于发扬爱国主义、集体主义、社会主义的，一切有利于改革开放和现代化"
+  },
+  {
+   "cn": "主要理论与方法",
+   "en": "main theories and methods",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学校心理咨询最常遵循的理论和方法。主要包括精神分析理论、认知疗法和以人为中心疗法三种。"
+  },
+  {
+   "cn": "党的三大作风",
+   "en": "three main styles of the party",
+   "source": "马克思主义",
+   "wordNumber": "03.0488",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "理论联系实际、密切联系群众，以及批评和自我批评的作风。毛泽东1945年在中共七大政治报告中第一次明确概括提出并作全面阐述。三大作风是无产阶级世界观即辩证唯物主义和历史唯物主义在党内生活和党的工作实践中"
+  },
+  {
+   "cn": "中国革命的主要组织形式",
+   "en": "main organizational form of the chinese revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0379",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国革命的主要斗争形式是中国共产党领导的以农民为主体的革命战争，因此，革命的主要组织形式就是中国共产党领导的人民军队。"
+  },
+  {
+   "cn": "中国革命的主要斗争形式",
+   "en": "main form of struggle of the chinese revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0378",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "近代中国半殖民地半封建的社会性质决定了中国革命的主要斗争形式是中国共产党领导的以农民为主体的革命战争，以武装的革命反对武装的反革命。"
+  },
+  {
+   "cn": "军队中的三大民主",
+   "en": "democracy in the three main fields in the army",
+   "source": "马克思主义",
+   "wordNumber": "03.0408",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东建军思想的重要组成部分，指政治民主、经济民主、军事民主，目的在于使人民军队达到政治上高度团结、生活上获得改善、军事上提高技术和战术。"
+  },
+  {
+   "cn": "三大纪律八项注意",
+   "en": "Three Main Rules of Discipline and Eight Points for Attention",
+   "source": "马克思主义",
+   "wordNumber": "03.0412",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在领导革命斗争实践中提出并不断得到充实的人民军队的优良传统和行动准则，是人民解放军统一的革命纪律。三大纪律是：一切行动听指挥，不拿群众一针一线，一切缴获要归公；八项注意是：说话和气，买卖公平，借"
+  },
+  {
+   "cn": "按劳分配主体型分配方式",
+   "en": "distribution systerm both main distribution according to work and a variety of distribution methods",
+   "source": "马克思主义",
+   "wordNumber": "02.0388",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "按劳分配为主体、多种分配方式并存的社会主义初级阶段的基本分配制度。多种分配方式指除按劳动分配外，还包括按其它生产要素分配。它是由我国现阶段的公有制为主体、多种所有制经济共同发展的根本经济制度所决定的。"
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "一种与实际或潜在组织损伤相关的不愉快的身体局部或整体的感觉。"
+  },
+  {
+   "cn": "满族",
+   "en": "Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.043",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。分布于全国各地，以辽宁省最多。人口1042.33 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。语言属阿尔泰语系满–通古斯语族满语支；满文是16 世纪参照蒙古文字母创制的，后"
+  },
+  {
+   "cn": "邮寄问卷",
+   "en": "mail questionnaire",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "调查的意图、问卷和填答说明都已印制在纸上，并通过传统的邮政服务传递问卷的一种自填式调查方法。"
+  },
+  {
+   "cn": "祈雨",
+   "en": "rain making",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.33",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "向神灵祈求降雨所进行的巫术、宗教性仪式活动。在世界各地的农耕、狩猎、畜牧群体中均可见到，干热地区为摆脱旱情尤其盛行。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

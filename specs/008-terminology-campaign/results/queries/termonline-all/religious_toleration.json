@@ -1,0 +1,772 @@
+{
+ "key": "religious toleration",
+ "term": "religious toleration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:12:22+00:00",
+ "status": "ok",
+ "note": "variant=religious toleration; 审定公布名词库=1120; 海峡两岸名词对照库=298; 其他来源数据库=48; 预公布名词数据库=116; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "宗教建筑",
+   "en": "religious building",
+   "source": "风景园林名词",
+   "wordNumber": "04.0178",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "安置神祗、进行宗教活动及教徒修行、居住的场所。"
+  },
+  {
+   "cn": "教会档案馆",
+   "en": "religious archives",
+   "source": "档案学名词",
+   "wordNumber": "09.02.012",
+   "subjectFullName": "档案学_外国档案事业史_外国档案机构",
+   "subjectName": "外国档案机构",
+   "publishYear": "2024",
+   "definition": "伴随着基督教会组织体系的建立而产生的档案管理机构。教会档案馆起源于4世纪中叶，负责保存教皇的命令、信件和账目，以及与教皇特权和恩赐有关的文件，从13世纪起其发展成为一种馆藏国际化的档案管理机构。"
+  },
+  {
+   "cn": "宗教出版物",
+   "en": "religious publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.024",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "有关宗教及宗教内容的公开发行的或宗教团体内部性资料的出版物的统称。"
+  },
+  {
+   "cn": "宗教控制",
+   "en": "religious control",
+   "source": "行为医学名词",
+   "wordNumber": "5.048",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "以教规和宗教仪式作为社会控制手段，通过教育和惩罚两种方式约束其信徒的行为。"
+  },
+  {
+   "cn": "宗教地图",
+   "en": "religious map",
+   "source": "测绘学名词",
+   "wordNumber": "04.019",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "反映宗教种类、分布及文化特点的地图。"
+  },
+  {
+   "cn": "宗教建筑",
+   "en": "religious architecture",
+   "source": "建筑学名词",
+   "wordNumber": "02.1130",
+   "subjectFullName": "建筑学_建筑类型及组成_农业建筑",
+   "subjectName": "农业建筑",
+   "publishYear": "2014",
+   "definition": "供安置神祇、进行宗教活动及教徒修行、居住的场所。在建筑文化史上是一种重要的建筑类型。"
+  },
+  {
+   "cn": "宗教教育",
+   "en": "religious education",
+   "source": "教育学名词",
+   "wordNumber": "01.096",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "（1）在一些国家学校中开设的宗教知识教育，旨在帮助学生发展认同感和归属感，同时理解、尊重不同宗教信仰，促进不同宗教之间的和谐相处。（2）宗教院校开展的以培养宗教人才为目的的教育。"
+  },
+  {
+   "cn": "宗教改革",
+   "en": "Religious Reformation",
+   "source": "世界历史名词",
+   "wordNumber": "02.1201",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "16世纪，从德国开始漫延欧洲诸国的反对罗马天主教会的社会运动，提出以信仰得救为核心和建立廉俭教会的系统理论。"
+  },
+  {
+   "cn": "宗教骑士团",
+   "en": "Religious Chivalry",
+   "source": "世界历史名词",
+   "wordNumber": "02.0531",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "第一次十字军东侵之后，西欧天主教会与封建主为保卫其在东方侵占的领地而组织的宗教性封建军事团体。"
+  },
+  {
+   "cn": "宗教活动",
+   "en": "religious activities",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.193",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "宗教信徒举行的各种宗教与法事活动。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "toleration",
+   "source": "生态学名词",
+   "wordNumber": "14.202",
+   "subjectFullName": "生态学_污染生态学",
+   "subjectName": "污染生态学",
+   "publishYear": "2006",
+   "definition": "生物对进入其体内的有害元素积累的忍耐能力。"
+  },
+  {
+   "cn": "容许度",
+   "en": "tolerance",
+   "source": "农学名词",
+   "wordNumber": "18.138",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "单位质量或一定数量农产品中，不符合所标注等级或规格的允许百分比范围。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "麻醉学名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "连续用药后药效递减，要增大剂量才可以产生疗效的现象。"
+  },
+  {
+   "cn": "允许偏差",
+   "en": "tolerance",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0053",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "养分的测定值与标明值之间的允许差值。"
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "行为医学名词",
+   "wordNumber": "15.034",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "物质使用者必须增加使用剂量和（或）频率才能获得所需效果，或使用原来的剂量达不到预期效果的一种状态。"
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "精神医学名词",
+   "wordNumber": "03.084",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "由于连续使用某药而对药物某一剂量的反应下降的现象。如经常饮酒或大量饮酒的人，需要更高剂量的酒精才能获得原来较低剂量就能获得的效果。生理和心理社会因素都会对产生这种现象有影响。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "感染病学名词",
+   "wordNumber": "01.0634",
+   "subjectFullName": "感染病学_总论_抗感染治疗",
+   "subjectName": "抗感染治疗",
+   "publishYear": "2019",
+   "definition": "机体对药物反应性降低的一种状态。在长期用药过程中，药物效应会逐渐减弱，需加大剂量才能取得原来强度的效应。也可反映对药物不良反应的耐受性，即从不耐受到耐受的过程。"
+  },
+  {
+   "cn": "容限",
+   "en": "tolerance",
+   "source": "物理学名词",
+   "wordNumber": "04.0539",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.090",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "药物常用剂量对机体不再有疗效的现象。其发生的机制可因药物性质的不同而异。其产生的机制有两种： ①药物代谢加速，绝大多数由于肝药酶活性增加； ②受体数目减少或对药物的亲和力降低。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "生物物理学名词",
+   "wordNumber": "04.294",
+   "subjectFullName": "生物物理学_神经生物物理学_脑高级功能",
+   "subjectName": "脑高级功能",
+   "publishYear": "2018",
+   "definition": "机体对药物(物理、化学刺激作用)反应性降低的一种状态。"
+  },
+  {
+   "cn": "宗教显露",
+   "en": "religious revelation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "容忍度",
+   "en": "tolerance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "容限，容差",
+   "en": "tolerance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公差",
+   "en": "tolerance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "自身耐受",
+   "en": "self-tolerance， auto-tolerance， autologous tolerance",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "耐盐性",
+   "en": "salt tolerance\",\"salinity tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐盐性",
+   "en": "salt tolerance\",\"salinity tolerance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "耐温性",
+   "en": "temperature toleration",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "耐冻性",
+   "en": "freezing tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐旱性",
+   "en": "drought tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐冷性",
+   "en": "cold tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐逆性",
+   "en": "stress tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐热性",
+   "en": "heat tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "容许区间",
+   "en": "tolerance interval",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶剂最大容限",
+   "en": "solvent tolerance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "耐水度",
+   "en": "water tolerance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "容错计算",
+   "en": "fault-tolerant computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本地容灾",
+   "en": "local disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据容灾",
+   "en": "data disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用容灾",
+   "en": "application disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宗教",
+   "en": "<div> Buddhist Teachings / Religious Sect</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高优容差",
+   "en": "highly optimized tolerance (HOT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络容错路由",
+   "en": "network fault-tolerant routing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "近距离容灾",
+   "en": "short-distance disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远距离容灾",
+   "en": "long-distance disaster tolerance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流处理容错性",
+   "en": "fault tolerance of stream processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不良贷款容忍度",
+   "en": "tolerance for non-performing loans",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数码元容错的量子计算机",
+   "en": "few-qubit fault tolerant quantum computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件测试容错技术",
+   "en": "software testing and fault tolerance technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据容灾备份中心",
+   "en": "disaster tolerance and backup center for public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "决不允许搞选择性执法、任性执法",
+   "en": "There can be no tolerance for selective or arbitrary law enforcement.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反腐败无禁区、全覆盖、零容忍",
+   "en": "There are no no-go zones, no ground is left unturned, and no tolerance is shown for corruption.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宗教仪式",
+   "en": "religious rite,religious ritual",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "各个宗教及其派别所实践的、具有特定含义、规则和功能等的典礼或仪轨。"
+  },
+  {
+   "cn": "宗教符号",
+   "en": "religious symbol",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.17",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "通过建筑物、艺术品、自然物或现象等方式建立的宗教表达形式。"
+  },
+  {
+   "cn": "宗教多元论",
+   "en": "religious pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "认为不同信仰体系可以和谐并存、共同发挥其作用的理论。强调不同宗教有相通的方面，承认多样性，提倡宗教宽容。"
+  },
+  {
+   "cn": "宗教拒世",
+   "en": "religious rejection",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.7",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "马克斯·韦伯用来说明救赎宗教中拒斥现世的伦理立场的概念。在他的研究中，禁欲与神秘主义是两种对立的拒世形态。"
+  },
+  {
+   "cn": "宗教经济",
+   "en": "religious economy",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.19",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "当代宗教社会学中，以理性选择理论为基础，以供给需求关系等社会经济理论和方法来分析个体、群体的宗教行为模式的研究领域。"
+  },
+  {
+   "cn": "宗教补偿",
+   "en": "religious compensator",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.20",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "宗教社会学中理性选择学派提出的基本概念，认为个体的宗教行为是理性的选择，在此前提下，认为宗教对个人提供了某种奖励或报偿。"
+  },
+  {
+   "cn": "宗教个人主义",
+   "en": "religious individualism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "现代社会中普遍存在的一个倾向，即在道德与信仰方面更强调个人的选择，而非首先从宗教传统中寻求指导。"
+  },
+  {
+   "cn": "宗教认同",
+   "en": "religious identity",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.22",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "用宗教的归属、边界、关联来定义自我的特征。有集体认同、社会认同和自我认同三个层次。"
+  },
+  {
+   "cn": "宗教体验",
+   "en": "religious experience",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.23",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "威廉·詹姆士（William James）用来表示任何结合宗教的对象和相应的情感经验的术语，是宗教的一个核心内容，也是宗教性的关键维度。"
+  },
+  {
+   "cn": "宗教激动",
+   "en": "religious thrill",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.24",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "由某一信仰或崇拜导致强烈的生理、心理的体验。"
+  },
+  {
+   "cn": "宗教共同体",
+   "en": "religious community",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.1",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "从宗教的共同行动、团体生活中产生关联纽带，将个体团结在群体之中，由此所形成的具有凝聚力的团结的共同体。"
+  },
+  {
+   "cn": "宗教组织",
+   "en": "religious organization",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "以特定信仰或宗教形式为基础形成的各种组织形式的总称。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "宗教膜拜",
+   "en": "religious cult",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.6",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "以某一或某些特定的上帝或神灵、甚至圣人或具有通灵能力的个人为对象的宗教信仰与实践，往往与社会的某些宗教制度有关，但表现形式较为新奇或特异。"
+  },
+  {
+   "cn": "宗教法",
+   "en": "religious law",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.1",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "以宗教教义为基础，调整特定社会关系、个人的行为或思想的规范体系。“神的话语是法”，即神的话语不可以被政治等其他力量所修改或决定。如犹太教的哈拉卡和伊斯兰教的沙里亚法规，二者都是“遵守之道”。"
+  },
+  {
+   "cn": "宗教立法",
+   "en": "religious legislation",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "体现出现代国家的宗教立场、宗教政策的相关立法的总称。"
+  },
+  {
+   "cn": "宗教教派",
+   "en": "religious denominations",
+   "source": "马克思主义",
+   "wordNumber": "04.0027",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "宗教社会学用语。从一种较大的宗教团体中分裂出来的小团体。自认为其信仰是唯一真正的信仰，并负有恢复宗教真面貌的使命。在教派中，一般有较强烈的共同情感与宗教上的自我认同感。"
+  },
+  {
+   "cn": "宗教教育",
+   "en": "religious education",
+   "source": "马克思主义",
+   "wordNumber": "04.0028",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广义的宗教教育指一切与宗教有关的教育制度和活动；狭义的宗教教育指直接由宗教组织承办、以培养宗教神职人员为目的、以宗教神学知识为内容的教育制度。"
+  },
+  {
+   "cn": "宗教人类学",
+   "en": "religious anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0298",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一门研究宗教现象的文化人类学（民族学）分支学科，关注宗教信仰、仪式、神话、宗教实践等方面的社会文化现象，并试图理解它们对个体和社会的影响。"
+  },
+  {
+   "cn": "宗教庆典",
+   "en": "religious celebrations",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0236",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "旨在礼赞神，是古老宗教文化传统的一部分，几乎出现于所有宗教信仰体系之中。它包括传统的礼仪、礼制、习俗和宗教仪式，以及每年举行的大型活动，如斋戒、宗教节、礼拜等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

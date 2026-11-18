@@ -1,0 +1,32 @@
+{
+ "key": "emergentism",
+ "term": "Emergentism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:14:43+00:00",
+ "status": "ok",
+ "note": "variant=Emergentism; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "社会突现论",
+   "en": "social emergentism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.826",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "主张社会的整体性存在大于个人行动层面的组分相加，认为社会整体的特征无法用微观的个人心理和行为特征来说明，因为这种整体层面的特征是当无数个人行动以有序方式组织时产生的不可还原的崭新性质。"
+  },
+  {
+   "cn": "唯能论",
+   "en": "energetism",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.109",
+   "subjectFullName": "自然辩证法_总论_历史上的重要流派和思想",
+   "subjectName": "历史上的重要流派和思想",
+   "publishYear": "2024",
+   "definition": "19世纪末由德国物理化学家F. W. 奥斯特瓦尔德（F. W. Ostwald）提出。他用能量转化的观点解释催化现象，认为能量是比物质更基本的实体，是一切自然、社会和思维现象的基础，物质和精神都是能量"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

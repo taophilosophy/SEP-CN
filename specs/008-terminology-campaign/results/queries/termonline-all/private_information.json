@@ -1,0 +1,732 @@
+{
+ "key": "private information",
+ "term": "private information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:25:03+00:00",
+ "status": "ok",
+ "note": "variant=private information; 审定公布名词库=3300; 海峡两岸名词对照库=669; 其他来源数据库=587; 预公布名词数据库=130; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "私有信息",
+   "en": "private information",
+   "source": "电力名词",
+   "wordNumber": "06.421",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "只有特定的市场成员和市场运营机构才有权访问的数据和信息。属于保密信息。"
+  },
+  {
+   "cn": "私人信息",
+   "en": "private information",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1039",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "当事一方所知道的、而另一方不可能知道或者要付出相当代价才能知道的信息。"
+  },
+  {
+   "cn": "私有化",
+   "en": "Privatization",
+   "source": "经济学名词",
+   "wordNumber": "06.169",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "公有组织或公有财产的所有权人直接或由其代理人越权将公有组织或公有财产以及这些组织或财产的所有权及其派生权利，合法或非法地由公有组织或公有财产的全体公民或某一集体所有转变为个别私人所有的行为及其过程。"
+  },
+  {
+   "cn": "民营化",
+   "en": "privatization",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0151",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "将国有企业、公营的公用事业的所有权或经营权转移到民间，引入市场机制的管理过程和方法。"
+  },
+  {
+   "cn": "私家园林",
+   "en": "private garden",
+   "source": "风景园林名词",
+   "wordNumber": "02.0027",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "历代官僚、文人、商贾等私人所拥有的，具有观赏、休闲、娱乐、居住等功能的园林。"
+  },
+  {
+   "cn": "私人档案",
+   "en": "private archives",
+   "source": "档案学名词",
+   "wordNumber": "01.02.007",
+   "subjectFullName": "档案学_总论_档案及其种类",
+   "subjectName": "档案及其种类",
+   "publishYear": "2024",
+   "definition": "人们在私人活动中形成的、为个人所有的档案。"
+  },
+  {
+   "cn": "私人文件",
+   "en": "private records",
+   "source": "档案学名词",
+   "wordNumber": "02.01.003",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "宗族、家庭、个人在处置自身事务的活动中，经履行一定（规定或者约定俗成）的程序而直接形成的具有一定体式和效用的信息记录。"
+  },
+  {
+   "cn": "私钥",
+   "en": "private key",
+   "source": "档案学名词",
+   "wordNumber": "06.02.021",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "在双钥加密系统中，用于控制加密和解密的成对密钥中不予公开的密钥。"
+  },
+  {
+   "cn": "私人档案库",
+   "en": "private archives",
+   "source": "档案学名词",
+   "wordNumber": "09.02.006",
+   "subjectFullName": "档案学_外国档案事业史_外国档案机构",
+   "subjectName": "外国档案机构",
+   "publishYear": "2024",
+   "definition": "古代两河流域的档案收藏机构。随着经济的发展和商业活动的增多，两河流域开始出现一种以保存商业活动记录为主的私人档案库。到亚述王国和新巴比伦王国（公元前7世纪）时期，私人档案库发展到了一定规模。"
+  },
+  {
+   "cn": "私有云",
+   "en": "private cloud",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.320",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "为客户单独使用而构建的云。可提供对数据、安全性和服务质量的最有效控制。"
+  },
+  {
+   "cn": "自营仓库",
+   "en": "private warehouse",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.065",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "企业或各类组织为自身提供储存服务而建立的仓库。"
+  },
+  {
+   "cn": "私有云",
+   "en": "private cloud",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.031",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "云服务仅被一个云服务客户使用，并且资源被该云服务客户控制的一类云部署模型。"
+  },
+  {
+   "cn": "私钥",
+   "en": "private key",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.069",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "由个人持有的与公钥算法一起使用的密钥对的秘密的一半。"
+  },
+  {
+   "cn": "自留地",
+   "en": "private plot",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.275",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "中国农业合作化和集体化时期的产物。是农村集体经济组织按规定分配给成员长期使用且免征农业税和各类提留的小块农用地。"
+  },
+  {
+   "cn": "私密空间",
+   "en": "private space",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.359",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "对社会特定个体或群体提供身心隐私权保护的建筑或城市空间。"
+  },
+  {
+   "cn": "私有住房",
+   "en": "private housing",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.092",
+   "subjectFullName": "城乡规划学_社区与住房规划_城市更新规划",
+   "subjectName": "城市更新规划",
+   "publishYear": "2021",
+   "definition": "由个人或家庭购买或建造的住宅。包括城市自有住宅和农村自有住宅。"
+  },
+  {
+   "cn": "私有云",
+   "en": "private cloud",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.164",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息资源应用",
+   "subjectName": "医学影像信息资源应用",
+   "publishYear": "2020",
+   "definition": "部署在一个单一的组织、公司或者医疗机构内部的云计算基础设施上，并可以在此基础设施上部署应用程序的方式，从而提供对数据、安全性和服务质量的最有效控制。"
+  },
+  {
+   "cn": "私人劳动",
+   "en": "private labor",
+   "source": "经济学名词",
+   "wordNumber": "02.033",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "以私有制为基础的商品经济中，具有私人性质的生产商品的劳动。私有制条件下，在生产商品的劳动中，生产资料归私人占有，商品生产目的、手段、技术状态、结果等都是个人私事，使商品生产者的劳动具有私人性质。"
+  },
+  {
+   "cn": "私营经济",
+   "en": "private economy",
+   "source": "经济学名词",
+   "wordNumber": "02.124",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "以生产资料私有和雇工劳动为基础，以盈利为目的和以按资分配为主的一种经济类型。是个体经济发展的必然趋势，在本质上与个体经济一样，是私有制的一种经济形式。"
+  },
+  {
+   "cn": "私人物品",
+   "en": "private goods",
+   "source": "经济学名词",
+   "wordNumber": "03.210",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "可以通过市场机制来配置资源、组织生产，并以市场交换的方式来提供的物品或服务。私人物品具有排他性和竞争性。"
+  },
+  {
+   "cn": "私用，专用",
+   "en": "private",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "私人保险，个人保险",
+   "en": "private insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人储蓄",
+   "en": "private saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人存款",
+   "en": "private deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人贷款",
+   "en": "private loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人贸易",
+   "en": "private trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人票据",
+   "en": "private bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人票据",
+   "en": "private note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人投资",
+   "en": "private investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人信贷",
+   "en": "private credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人银行",
+   "en": "private bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人债务",
+   "en": "private debt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人资本",
+   "en": "private capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私营公司",
+   "en": "private company",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "独有决定簇",
+   "en": "private determinant",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "独有特异性",
+   "en": "private specificity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "私钥",
+   "en": "private key",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "私有高速缓存",
+   "en": "private cache",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专线",
+   "en": "private line",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专用交换机",
+   "en": "private exchange",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "私名",
+   "en": "Private Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私有链",
+   "en": "private blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私权利",
+   "en": "private right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私法",
+   "en": "private law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府与社会资本合作",
+   "en": "Public-Private Partnership",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公私",
+   "en": "Public and Private",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私募拆分",
+   "en": "private placement split",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟专用网络",
+   "en": "virtual private network (VPN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政务专网",
+   "en": "government services private network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私权利扁平化",
+   "en": "flattening of private rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据私权",
+   "en": "private right in data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私营化",
+   "en": "privatization",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "泛指国家将公共资产以及服务的所有权或经营权转让给个人或非法定机构的过程或行为。特指20世纪80 、90年代西方国家在公共服务领域进行的以引入市场机制和公共服务机构拍卖、服务外包为主要内容的改革。"
+  },
+  {
+   "cn": "私营企业主",
+   "en": "private entrepreneur",
+   "source": "社会学名词",
+   "wordNumber": "2.6.7.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_当代中国社会分层",
+   "subjectName": "当代中国社会分层",
+   "publishYear": "2025",
+   "definition": "20世纪70年代末（经济改革）以来在中国社会出现的私营企业的经营者。在当时中国是一个新的社会阶层，对社会阶层结构的演变具有重要意义。"
+  },
+  {
+   "cn": "个人开业",
+   "en": "private practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "专业人员个体通过收费来提供服务的方式。服务由私人执业的社会工作者来提供，案主直接与该社会工作者或他所属的私人执业团体订立协议，案主通过保险、医疗保险计划或其他基金等直接为服务支付报酬。近些年在美国较为"
+  },
+  {
+   "cn": "私有制",
+   "en": "private ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0011",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“生产资料私有制”。在人类社会的一定发展阶段上，由私人占有生产资料和生产成果的经济形式。私有制在历史上有多种存在形式，可分为个体劳动者私有制和剥削阶级占有的私有制，如奴隶制私有制、封建主义私有制和"
+  },
+  {
+   "cn": "非公立医院",
+   "en": "private hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.1.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "除公立医院医院以外的其它医院，主要包括联营、股份合作、私营、港澳台投资和国外投资等医院。"
+  },
+  {
+   "cn": "民间借贷",
+   "en": "private lending",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.008",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在非正式金融体系中，个人或家庭之间基于信任关系和非正式协议进行的资金借贷活动。这种借贷形式通常不通过银行等官方金融机构，而是通过亲朋好友、邻里乡亲等社会网络完成，具有灵活性高、手续简便的特点。"
+  },
+  {
+   "cn": "私德",
+   "en": "private morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0090000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在私人生活和私人交往中所应当遵循的道德行为准则和规范及所表现的道德品质。"
+  },
+  {
+   "cn": "公共与私人",
+   "en": "public and private",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.20",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女性主义者进行社会批判的一个重要切入点，认为所谓男人与社会、政治、文化等公共领域相关而女人与家庭、情感、身体等私人领域相关的二元思维模式奠定了两性之间的等级制基础和性别统治的合理性。消除性别不平等"
+  },
+  {
+   "cn": "私人服务机构",
+   "en": "private service agency",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "由社会力量举办的、按照市场经营法则运作的服务机构，如各种商业性服务机构。"
+  },
+  {
+   "cn": "资本主义私有制",
+   "en": "capitalist private ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0175",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本家占有生产资料并用以剥削雇佣劳动的私有制，社会发展历史中最后一种私有制，是资本主义生产关系和上层建筑的根基。"
+  },
+  {
+   "cn": "私人资本主义经济",
+   "en": "private capitalist economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0344",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "除垄断资本以外的一般中小规模的资本主义经济。这部分经济在国民经济中虽然比重不大，但属于现代性经济。由于中国经济落后，因此在新民主主义革命过程中，对它们一直给以保护。在革命胜利后一个相当长的时期，还必须"
+  },
+  {
+   "cn": "私人垄断资本主义",
+   "en": "private monopoly capitalism",
+   "source": "马克思主义",
+   "wordNumber": "03.0277",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在生产集中和资本集中高度发展的基础上，一个大企业或少数几个大企业对相应部门产品生产和销售市场的独占或联合控制。私人垄断资本主义是垄断资本主义的一个发展阶段。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "公私合营",
+   "en": "Joint state private ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0360",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "资本主义工商业改造时实行的国家资本主义的高级形式。公私合营分为个别企业的公私合营和全行业公私合营两个阶段。个别企业的公私合营中，社会主义国营经济与资本主义经济在企业内部进行合作，企业具有半社会主义的性"
+  },
+  {
+   "cn": "消灭私有制",
+   "en": "elimination of private ownership",
+   "source": "马克思主义",
+   "wordNumber": "03.0206",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级社会主义革命的一项根本任务。马克思、恩格斯在《共产党宣言》中指出：“共产党人可以用一句话把自己的理论概括起来：消灭私有制。”消灭私有制的途径是通过无产阶级革命，推翻资产阶级统治，建立无产阶级专"
+  },
+  {
+   "cn": "私人卫生支出",
+   "en": "private expenditure on health",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.3.1.2.3",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算方法",
+   "subjectName": "卫生费用核算方法",
+   "publishYear": "2025",
+   "definition": "来自私人保险、个人现金卫生支出、为家庭提供服务的非营利机构（社会保险除外）和私立单位（社会保险除外）的医疗卫生支出。"
+  },
+  {
+   "cn": "商业健康保险筹资",
+   "en": "private health insurance contribution",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "由保险公司提供，消费者自愿参加和选择最适合自己偏好的保险项目，根据个体疾病风险特征缴纳保险费形成基金池的一种卫生筹资模式。"
+  },
+  {
+   "cn": "自费医疗制度",
+   "en": "private healthcare funding mechanism",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.084",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由个人完全支付医疗费用，个人购买预防与医疗保健服务的医疗保健制度。"
+  },
+  {
+   "cn": "民营医疗卫生机构",
+   "en": "private health care institute",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.1.7",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "主要由社会出资，以营利性为主导，少数为非营利的医疗卫生机构。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

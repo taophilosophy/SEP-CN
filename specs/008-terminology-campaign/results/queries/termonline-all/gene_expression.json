@@ -1,0 +1,652 @@
+{
+ "key": "gene expression",
+ "term": "gene expression",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:44:43+00:00",
+ "status": "ok",
+ "note": "variant=gene expression; 审定公布名词库=1706; 海峡两岸名词对照库=870; 其他来源数据库=79; 预公布名词数据库=35; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "农学名词",
+   "wordNumber": "06.445",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "基因由DNA序列转录为mRNA序列，再翻译成氨基酸序列，并最终表现出性状的过程。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0453",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "基因所携带的遗传信息经过转录、转录后加工、翻译和翻译后加工等阶段，生成具有生物活性功能产物（RNA或蛋白质）的过程。即基因所携带所谓遗传信息表现为表型的过程。具有时间特异性和空间特异性。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.067",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "细胞在生命过程中，把储存在DNA序列中的遗传信息经过转录和翻译，转变成具有生物活性蛋白质分子的过程。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "行为医学名词",
+   "wordNumber": "3.169",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "基因通过转录和翻译呈现表型效应的过程。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.429",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "通过转录和翻译，把DNA分子编码的遗传信息转变成蛋白质的过程。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "畜牧学名词",
+   "wordNumber": "04.158",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "基因通过转录和翻译呈现表型效应的过程。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0488",
+   "subjectFullName": "食品科学技术_食品科学_食品生物技术_食品微生物基因工程",
+   "subjectName": "食品微生物基因工程",
+   "publishYear": "2020",
+   "definition": "细胞在生命过程中，把储存在DNA顺序中的遗传信息经过转录和翻译，转变成具有生物活性的蛋白质分子。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0163",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_生物信息学",
+   "subjectName": "生物信息学",
+   "publishYear": "2018",
+   "definition": "基因中的DNA序列经过转录和翻译，最后生产出具有生物活性的蛋白质的过程。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "核医学名词",
+   "wordNumber": "04.0042",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤学基础",
+   "subjectName": "肿瘤学基础",
+   "publishYear": "2018",
+   "definition": "把储存在DNA序列中的遗传信息经过转录和翻译，合成具有生物活性的蛋白质分子，形成可观测到生物表型的过程。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "药学名词",
+   "wordNumber": "05.391",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "细胞在生命过程中，把储存在DNA顺序中的遗传信息经过转录和翻译，转变成具有生物活性蛋白质分子的过程。生物体内的各种功能蛋白质和酶都是同相应的结构基因编码的。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.284",
+   "subjectFullName": "放射医学与防护_放射生物学_放射分子生物学",
+   "subjectName": "放射分子生物学",
+   "publishYear": "2014",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.280",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "通过转录和翻译，从DNA分子编码的遗传信息产生RNA和蛋白质的过程。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "遗传学名词",
+   "wordNumber": "03.534",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "基因通过转录和翻译呈现表型效应的过程。"
+  },
+  {
+   "cn": "基因表达调控",
+   "en": "gene expression regulation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0448",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "机体为适应环境、维持自身生长和发育的需要，在不同的发育阶段以及内外环境变化时通过增加或者减少特异的基因表达产物（蛋白质或RNA）作出的调节和应答。可在多个层次上进行，主要发生在转录水平和翻译水平上，如"
+  },
+  {
+   "cn": "基因表达谱",
+   "en": "gene expression profile",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0461",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "基因在不同细胞或组织、不同时间或发育阶段的总体表达水平。"
+  },
+  {
+   "cn": "基因表达检测",
+   "en": "gene expression detection",
+   "source": "行为医学名词",
+   "wordNumber": "3.172",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "对组织、细胞的脱氧核糖核酸（DNA）或核糖核酸（RNA）样品进行定量、定性分析，确定DNA或RNA表达量的生物学检测方法。"
+  },
+  {
+   "cn": "基因表达调控",
+   "en": "gene expression regulation",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.431",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "在内、外环境因子作用下，基因表达在多层次受到的多种因子的调控。基因表达调控的异常是造成疾病的重要原因。"
+  },
+  {
+   "cn": "基因表达系统",
+   "en": "gene expression system",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.107",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_代谢工程_弗兰克-沃尔夫法",
+   "subjectName": "弗兰克-沃尔夫法",
+   "publishYear": "2021",
+   "definition": "由与生物基因表达相关的全部调控元件组成的一个系统。"
+  },
+  {
+   "cn": "基因表达谱",
+   "en": "gene expression profile",
+   "source": "畜牧学名词",
+   "wordNumber": "04.267",
+   "subjectFullName": "畜牧学_遗传育种_生物技术",
+   "subjectName": "生物技术",
+   "publishYear": "2020",
+   "definition": "基因在不同细胞或组织或时间中的表达模式。"
+  },
+  {
+   "cn": "基因表达学说",
+   "en": "gene expression hypothesis",
+   "source": "生理学名词",
+   "wordNumber": "10.037",
+   "subjectFullName": "生理学_内分泌生理学",
+   "subjectName": "内分泌生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达学说",
+   "en": "gene expression hypothesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达调控",
+   "en": "gene expression regulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "差异基因表达",
+   "en": "differential gene expression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "组成性基因表达",
+   "en": "constitutive gene expression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同种异型基因表达",
+   "en": "allotropic gene expression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "差异基因表达",
+   "en": "differential gene expression",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "差别基因表达",
+   "en": "differential gene expression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "真核基因表达",
+   "en": "eukaryotic gene expression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同种异型基因表达",
+   "en": "allotropic gene expression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "异源基因表达系统",
+   "en": "heterologous gene expression system",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异源基因表达系统",
+   "en": "heterologous gene expression system",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "虫期特异基因表达",
+   "en": "stage-specific gene expression",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "性特异基因表达",
+   "en": "sex-specific gene expression",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "组织特异基因表达",
+   "en": "tissue-specific gene expression",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "辞达",
+   "en": "Expressiveness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "表现力",
+   "en": "expressiveness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基因编辑",
+   "en": "gene editing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "易感基因",
+   "en": "susceptible gene",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.1",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "和特定疾病具有阳性关联的基因或等位基因。在人类多位于HLAII类基因区或其附近。"
+  },
+  {
+   "cn": "基因治疗",
+   "en": "gene therapy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.3.13",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2025",
+   "definition": "将人的正常基因或有治疗作用的基因通过一定方式导入人体靶细胞以纠正基因的缺陷或者发挥治疗作用，从而达到治疗疾病目的的生物医学技术。"
+  },
+  {
+   "cn": "基因疫苗",
+   "en": "gene vaccine",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.4.10",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫预防",
+   "subjectName": "免疫预防",
+   "publishYear": "2025",
+   "definition": "编码病原体的基因构成的疫苗。将编码外源抗原的基因与质粒重组，将重组质粒经注射等途径导入机体，重组质粒可转染宿主细胞，并利用宿主细胞的蛋白质合成系统翻译、表达外源抗原蛋白，继而诱导宿主对该外源抗原产生免"
+  },
+  {
+   "cn": "基因突变",
+   "en": "gene mutation",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "基因中DNA 序列的变化，包括碱基置换和移码突变两种类型。"
+  },
+  {
+   "cn": "基因编辑",
+   "en": "gene editing",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.16",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "基于分子生物学手段更精准整合外源基因或基因序列对活体基因组进行靶向改造的技术。用于培育农业动植物新品种和微生物菌种，可增强食品产量和品质等特性。"
+  },
+  {
+   "cn": "基因武器",
+   "en": "gene weapon",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.4",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "用基因工程技术研制的致病微生物或毒素类新型生物战剂，如给致病细菌、病毒插入抗疫苗/ 药物基因，或给非致病微生物插入致病基因；合成生物学发展后，还可人工设计合成自然界不存在的生物或病毒。"
+  },
+  {
+   "cn": "硫嘌呤甲基转移酶基因",
+   "en": "Thiopurine S-methyltransferase gene, TPMT gene",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.4.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_诊断基因",
+   "subjectName": "诊断基因",
+   "publishYear": "2025",
+   "definition": "一种能使硫唑嘌呤等免疫抑制剂的芳香环甲基化的胞质酶。TPMT基因的多态性决定了酶的活性和药物在机体中的毒性，三种最常见的变异等位基因是TPMT*2，TPMT*3A和TPMT*3C，这些多态性与骨髓抑制"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "表意性角色",
+   "en": "expressive role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "结构功能主义学派塔尔科特帕森斯提出的概念，用来描述现代工业社会中妻子或妇女在家庭中承担的角色，主要指向家庭内部事务，作为情感支撑者起到调节家庭关系、辅助丈夫、抚育儿童并照顾家庭成员的作用。"
+  },
+  {
+   "cn": "明示同意",
+   "en": "express consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.051",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "实际上的、明确表示了的同意。就器官捐献而言，指器官供体或器官受体应该在充分知情的条件下，经深思熟虑后，自愿明确表达愿意捐献其器官或者接受器官移植手术。"
+  },
+  {
+   "cn": "基因芯片技术",
+   "en": "gene chip technology",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "将大量的核酸分子以大规模阵列形式排布在很小的载体上，通过与标记的样品进行杂交，检测杂交信号的强弱进而判断样品中被检分子的数量的技术。"
+  },
+  {
+   "cn": "基因敲除小鼠",
+   "en": "gene knockout mouse",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "胚胎发生早期利用特定技术使指定基因功能完全缺失的实验用小鼠。"
+  },
+  {
+   "cn": "基因芯片技术",
+   "en": "gene chip technique",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "通过将巨大数量的寡核苷酸，肽核苷酸或cDNA固定在一块面积很小的硅片、玻片或尼龙膜上而构成基因芯片的技术。可以一次性对大量序列进行检测和基因分析。"
+  },
+  {
+   "cn": "基因芯片技术",
+   "en": "gene chip technology",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.74",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "通过将巨大数量的寡核苷酸、基因组DNA 或cDNA等固定在一块面积很小的硅片、玻片或尼龙膜上而构成基因芯片的技术。可以一次性对大量序列进行检测和基因分析。"
+  },
+  {
+   "cn": "书写表达障碍",
+   "en": "written expression disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以拼写准确性，语法、标点准确性，和书面表达清晰度或条理性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "人文表述危机",
+   "en": "crisis of expression",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0616",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪70 年代至90 年代，人类学家对传统民族志的书写方式和解释权威产生质疑和无所适从的现象。"
+  },
+  {
+   "cn": "基因武器损伤",
+   "en": "injuries of gene weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.2.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "通过基因工程技术制造的武器对人体基因造成的损害。可能包括基因突变、基因组不稳定性、DNA 损伤等，导致细胞功能异常甚至致命。可能会对个体的遗传信息产生长期影响，甚至影响后代的健康。"
+  },
+  {
+   "cn": "书面表达困难",
+   "en": "impairment in written expression",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在拼写准确性、语法和标点准确性、书面表达清晰度或条理性方面存在明显困难的一种现象。"
+  },
+  {
+   "cn": "劳动时间的货币表示",
+   "en": "monetary expression of labor time",
+   "source": "马克思主义",
+   "wordNumber": "05.0133",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，美国学者弗利（D.K.Foley）给出的定义是：一定时期内以即期价格计算的纯产品与生产中活劳动消耗的比值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

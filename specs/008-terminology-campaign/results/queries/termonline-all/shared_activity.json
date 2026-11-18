@@ -1,0 +1,792 @@
+{
+ "key": "shared activity",
+ "term": "shared activity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:26:59+00:00",
+ "status": "ok",
+ "note": "variant=shared activity; 审定公布名词库=2410; 海峡两岸名词对照库=834; 其他来源数据库=152; 预公布名词数据库=182; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "视听份额",
+   "en": "share",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.171",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视节目编排播出",
+   "subjectName": "广播电视节目编排播出",
+   "publishYear": "2022",
+   "definition": "某一特定时段内，某特定频道或节目的受众数占同期打开电视机的受众总数的比例，通常以百分比表示。"
+  },
+  {
+   "cn": "共享",
+   "en": "share",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.006",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "通过传播、沟通、互动、交流使传受双方产生共同的认知、经验、意义和文化的交往活动。"
+  },
+  {
+   "cn": "共享",
+   "en": "share",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.185",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "不同的系统与用户使用非己有数据并进行各种操作运算与分析。"
+  },
+  {
+   "cn": "分担责任者",
+   "en": "shared responsibility,shared authorship",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.537",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "在创作同一作品时，以相同的责任方式进行活动的两个或两个以上的责任者。每个责任者的劳动成果可能形成独立的部分，也可能融为一体，共同对文献的知识内容或艺术内容负责。"
+  },
+  {
+   "cn": "共享空间",
+   "en": "shared space",
+   "source": "风景园林名词",
+   "wordNumber": "07.0038",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "公众共同使用的空间。美国建筑师波特曼（John Portman）根据人对环境的心理反应创造出来的建筑空间。基本功能是满足人们对环境的不同要求，并促进人们彼此之间更多的交往。"
+  },
+  {
+   "cn": "共享服务",
+   "en": "shared service",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.086",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "集团企业有效组织和提供内部支持服务的一种最佳实践。采用业务流程标准化和合并的方式，消除原分布在各业务单元的重复作业，统一提供标准化增值服务，降低运营成本。"
+  },
+  {
+   "cn": "共享阅读",
+   "en": "shared reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.059",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "指个人或集体将自己阅读的感受、心得、体悟等通过读书会、图书漂流、共享书屋、网络等形式与他人或集体进行分享、传播。"
+  },
+  {
+   "cn": "共享环境",
+   "en": "shared environment",
+   "source": "行为医学名词",
+   "wordNumber": "3.184",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传和环境变异",
+   "subjectName": "遗传和环境变异",
+   "publishYear": "2022",
+   "definition": "生活在同一家庭中的家庭成员所分享的、使他们在行为上具有相似性的环境。如家庭的社会经济地位、父母职业、受教育程度、教养方式及周边环境等。"
+  },
+  {
+   "cn": "共享高速缓存",
+   "en": "shared cache",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0394",
+   "subjectFullName": "计算机科学技术_计算机体系结构_存储系统",
+   "subjectName": "存储系统",
+   "publishYear": "2018",
+   "definition": "能够被多个处理器访问的高速缓存。"
+  },
+  {
+   "cn": "共享段",
+   "en": "shared segment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0555",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "程序中可以与其他程序共享的存储区。"
+  },
+  {
+   "cn": "共享存储器",
+   "en": "shared memory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0337",
+   "subjectFullName": "计算机科学技术_计算机硬件_存储设备",
+   "subjectName": "存储设备",
+   "publishYear": "2018",
+   "definition": "可供多个处理器或多个程序同时访问的存储器。"
+  },
+  {
+   "cn": "共享型锁",
+   "en": "shared lock",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0252",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "一种封锁类型。持有数据的共享型锁的事务只能读取该数据，多个事务可以同时持有同一数据的共享型锁。"
+  },
+  {
+   "cn": "共享领导",
+   "en": "shared leadership",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0196",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_沟通与冲突",
+   "subjectName": "沟通与冲突",
+   "publishYear": "2016",
+   "definition": "由领导者和下属成员组成的管理团队来共同承担领导责任，使下属成员更愿意承担责任并更具主动性的一种领导方式。"
+  },
+  {
+   "cn": "分担式照顾",
+   "en": "shared care",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.031",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "由一位以上的卫生专业人员参与照顾同一个患者的合作服务形式。"
+  },
+  {
+   "cn": "市场份额",
+   "en": "market shares",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.146",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "一个企业的销售量(或销售额)在市场同类产品中所占的比重。市场份额是企业的产品在市场上所占份额，也就是企业对市场的控制能力。企业市场份额的不断扩大，可以使企业获得某种形式的垄断，这种垄断既能带来垄断利润"
+  },
+  {
+   "cn": "股票流通量",
+   "en": "outstanding shares",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0460",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "任何公司已经发行的普通股股份扣除公司已经购回的股份(即库存股)之后的所有普通股股份。"
+  },
+  {
+   "cn": "公众股",
+   "en": "public shares",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0463",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "社会个人或股份公司内部职工以个人财产投入公司形成的股份。我国上市公司历史上曾经有两种公众股形式，即公司职工股和社会公众股。"
+  },
+  {
+   "cn": "外资股",
+   "en": "foreign shares",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0462",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "外国和我国香港、澳门、台湾地区投资者以购买人民币特种股票形式向股份公司投资形成的股份。分为境内上市外资股(B股)和境外上市外资股(包括H股和N股等)两种形式。"
+  },
+  {
+   "cn": "市场占有率",
+   "en": "market share",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.021",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "发行者经营的出版物在一定市场和时期的销售量占该市场出版物销售总量的比重。"
+  },
+  {
+   "cn": "市场占有率",
+   "en": "market share",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.074",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目咨询",
+   "subjectName": "项目咨询",
+   "publishYear": "2021",
+   "definition": "企业的销售量（或销售额）在市场同类产品中所占的比例。"
+  },
+  {
+   "cn": "共享",
+   "en": "share",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "共享",
+   "en": "share",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "股份交换",
+   "en": "shared exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共享边界",
+   "en": "shared boundary",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "共享顶点",
+   "en": "shared vertex",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "共享白板",
+   "en": "shared whiteboard",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共享变量",
+   "en": "shared variable",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共享存储器",
+   "en": "shared memory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共享段",
+   "en": "shared segment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共享高速缓存",
+   "en": "shared cache",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共享锁",
+   "en": "shared lock",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共享文件",
+   "en": "shared file",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非上市股票",
+   "en": "outside share",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股份分配",
+   "en": "share allocation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股份汇票",
+   "en": "share draft",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股份交易",
+   "en": "share exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股份资本",
+   "en": "share capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股金账户",
+   "en": "share account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股利",
+   "en": "share dividend",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股票发行溢价",
+   "en": "share premium",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共享价值观",
+   "en": "shared value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享锁",
+   "en": "shared lock",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享价值",
+   "en": "Shared Value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享系统",
+   "en": "shared system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型资源",
+   "en": "shared resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享平台",
+   "en": "shared platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享出行",
+   "en": "shared mobility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享住宿",
+   "en": "shared accommodation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享办公",
+   "en": "shared office",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享医院",
+   "en": "shared hospital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享密钥",
+   "en": "shared key",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享目录",
+   "en": "shared directory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享发展",
+   "en": "shared development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "知识共享",
+   "en": "knowledge sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享管理",
+   "en": "sharing management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享行为",
+   "en": "sharing behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型经济",
+   "en": "Sharing Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享经济",
+   "en": "sharing economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "股份资本",
+   "en": "share capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0241",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "股份公司通过发行股票将许多分散的个别资本集中起来形成为集团资本的一种资本形式。股份公司的资本，不单独属于某个股票所有者或股东，而归全体股东集团所有。股东没有独立支配自己入股资本的权力，只能出卖股票而收"
+  },
+  {
+   "cn": "共担风险",
+   "en": "risk-sharing",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "参保者和保险机构共同承担参保者接受卫生服务所带来的费用或成本消耗"
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "归因份额",
+   "en": "assigned share，AS",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.19",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "2003年，美国国立癌症研究所（NCI）等机构对放射流行病学表进行了修订，考虑到病因概率（PC）不是严格意义上的概率，故改为归因份额。"
+  },
+  {
+   "cn": "药品费用分担",
+   "en": "drug cost sharing",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.2.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "参保患者的药品费用由其个人和医疗保险基金共同分担的机制。"
+  },
+  {
+   "cn": "器官分享网络",
+   "en": "organ sharing network",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.059",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "在一定范围内建立的统一的器官捐献与分配网络系统。在我国的器官捐献和分配过程中，该网络将全国所获取的捐献器官严格根据公认的医学标准，兼顾患者的病情严重性、等待时间及其与捐献者的近亲关系等，以保证配型过程"
+  },
+  {
+   "cn": "脂肪酶活动度",
+   "en": "lipase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.7",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "一定量试样中的脂肪酶与纯油脂作用所生成的游离脂肪酸的量，用中和1 克试样（干基）中生成的游离脂肪酸所消耗的氢氧化钾的毫克数表示。"
+  },
+  {
+   "cn": "淀粉酶活性",
+   "en": "diastase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.25",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "淀粉酶催化淀粉水解成糖的能力，即1 克蜂蜜所含的淀粉酶在40℃、1 小时内转化1%淀粉溶液的毫升数。酶值的高低与蜂蜜的新鲜程度、成熟度、加工工艺、储藏时间有关。"
+  },
+  {
+   "cn": "酶活力",
+   "en": "enzyme activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "酶在一定条件下催化某一特定反应的能力，是表达酶制剂产品的一个特征性专属指标"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "radioactive activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位时间内放射性核素发生核衰变的总数。符号为A。SI单位：贝可[勒尔]，记作Bq。"
+  },
+  {
+   "cn": "比活度",
+   "en": "specific activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位质量的放射性活度。SI单位为贝可每千克，记作Bq·kg-1。"
+  },
+  {
+   "cn": "活度浓度",
+   "en": "activity concentration",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.5",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位体积的放射性活度。SI单位为贝可每立方米，记作Bq·m-3；或贝可每升，记作Bq·L-1。"
+  },
+  {
+   "cn": "核活动",
+   "en": "nuclear activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "任何研究、生产、提取、加工、处理、应用、搬运、贮存或处置放射性物质或核材料的活动，以及在陆上、水上或空中交通线上运输放射性物质或核材料的活动，或任何其他转移或使用放射性物质或核材料的活动。"
+  },
+  {
+   "cn": "危险活度",
+   "en": "dangerous activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "特定放射源的核素在设定的多种照射情景条件下足以引起人体严重有害的组织反应的最小活度估算值。"
+  },
+  {
+   "cn": "验收活动",
+   "en": "acceptance activity",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对可能产生职业病危害的建设项目在施工完成后，建设单位对职业病防护设施进行的自我评价，合格后该项目方可投入生产和使用。"
+  },
+  {
+   "cn": "活动记录",
+   "en": "activity record",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析一个行动中在时间和空间上各个动作发生顺序和关系的图表，例如一次手术的各个动作和环节。"
+  },
+  {
+   "cn": "社会活动",
+   "en": "social activity",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会成员彼此为对象，为了共同的利益、目标、或兴趣所从事的种种集体活动。"
+  },
+  {
+   "cn": "活动理论",
+   "en": "activity theory",
+   "source": "社会学名词",
+   "wordNumber": "3.15.4.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年与老龄化相关理论",
+   "subjectName": "老年与老龄化相关理论",
+   "publishYear": "2025",
+   "definition": "由美国学者哈韦格斯特(Robert Havighurst）提出的一种社会老年学领域的理论，是脱离理论的反命题，认为老年人应积极参与社会。只有参与，才能使老年人重新认识自我，保护生命的活力。"
+  },
+  {
+   "cn": "感性活动",
+   "en": "perceptual activity",
+   "source": "马克思主义",
+   "wordNumber": "01.0178",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的、活生生的、现实的实践活动，它体现了实践的能动性、主体性。在人的感性活动中把握对象，是马克思主义哲学同旧唯物主义的根本区别。"
+  },
+  {
+   "cn": "身体活动",
+   "en": "physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "由骨骼肌收缩引起的，导致机体能量消耗增加的一切活动，包括职业性、交通性、日常生活体力活动及闲暇时的体育锻炼。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

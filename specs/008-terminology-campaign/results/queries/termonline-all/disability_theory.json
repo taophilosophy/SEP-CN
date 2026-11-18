@@ -1,0 +1,642 @@
+{
+ "key": "disability theory",
+ "term": "Disability Theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:17:43+00:00",
+ "status": "ok",
+ "note": "variant=Disability Theory; 审定公布名词库=2386; 海峡两岸名词对照库=852; 其他来源数据库=176; 预公布名词数据库=339; jwt-direct（JWT 直连，raw 略；已滤维基 17 条）",
+ "hits": [
+  {
+   "cn": "失能",
+   "en": "disability",
+   "source": "急救医学名词",
+   "wordNumber": "06.025",
+   "subjectFullName": "急救医学_海上医学救援_基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "按正常方式进行的日常独立生活活动和工作能力的受限或丧失。是个体或整体水平的障碍。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "手外科学名词",
+   "wordNumber": "06.0017",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "就健康范畴而言，是指由于病损造成以正常的方式或正常范围内进行活动的能力受限或缺失。在国际功能、残疾和健康分类中是对损伤、活动受限和参与局限性的一个概括性词语。表示在个体（有某种健康状况）和个体所处的情"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "运动医学名词",
+   "wordNumber": "07.012",
+   "subjectFullName": "运动医学_运动康复_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "由于各种躯体、身心、精神疾病或损伤、先天性异常及其他健康问题所致的解剖结构、生理功能的异常和/或丧失，造成机体的功能障碍状态。其结果是不同程度地影响身体活动、日常生活、工作、学习和社会交往活动能力。这"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "烧伤学名词",
+   "wordNumber": "06.004",
+   "subjectFullName": "烧伤学_烧伤康复与整形_烧伤康复治疗",
+   "subjectName": "烧伤康复治疗",
+   "publishYear": "2019",
+   "definition": "就健康范畴而言，是指由于病损造成以正常的方式或正常范围内进行活动的能力受限或缺失。在《国际功能、残疾和健康分类》中是对损伤、活动受限和参与局限性的一个概括性术语。表示在个体（有某种健康情况）和个体所处"
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "source": "老年医学名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "老年医学_老年康复医学",
+   "subjectName": "老年康复医学",
+   "publishYear": "2017",
+   "definition": "按正常方式进行的日常独立生活活动和工作能力的受限或丧失。是个体或整体水平的障碍。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.038",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "各种躯体、身心、精神疾病或损伤以及先天性异常所致的解剖结构和生理功能的异常和(或)丧失，造成机体长期、持续或永久性的功能障碍，而不能被治愈的状态。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "物理医学与康复_总论_物理医学与康复概论",
+   "subjectName": "物理医学与康复概论",
+   "publishYear": "2014",
+   "definition": "就健康范畴而言，是指由于病损造成以正常的方式或正常范围内进行活动的能力受限或缺失。在国际功能、残疾和健康分类中是对损伤、活动受限和参与局限性的一个概括性词语。表示在个体(有某种健康情况和个体所处的情景"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "放射医学与防护名词",
+   "wordNumber": "11.206",
+   "subjectFullName": "放射医学与防护_放射性疾病诊断、治疗与健康监护_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2014",
+   "definition": "国家社会保险法规中所规定医疗期满时经鉴定确认系统或器官留有损伤或功能障碍的状态。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "教育学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "由于损伤而造成的活动能力受限或缺乏，以致不能按人类正常的功能模式进行活动。"
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0235",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": "个体水平的障碍。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0237",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": "系病损、失能、残障三者之总称。"
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.189",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "学习障碍",
+   "en": "learning disability",
+   "source": "行为医学名词",
+   "wordNumber": "17.035",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "智力正常的儿童在同等教育条件下，出现学习技能的获得与发展障碍。"
+  },
+  {
+   "cn": "残疾评定",
+   "en": "disability evaluation",
+   "source": "手外科学名词",
+   "wordNumber": "06.0021",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "身体、心理或情绪障碍的程度判定。"
+  },
+  {
+   "cn": "腕部功能障碍",
+   "en": "wrist disability",
+   "source": "手外科学名词",
+   "wordNumber": "05.0691",
+   "subjectFullName": "手外科学_手外科学分论_上肢骨关节",
+   "subjectName": "上肢骨关节",
+   "publishYear": "2020",
+   "definition": "有明显外伤史的腕关节损伤后出现的腕部无力、腕关节活动不灵的功能障碍。轻伤，一般无明显肿胀，疼痛不重，仅在大幅度活动腕关节时始有疼痛。严重扭伤，可有腕部肿胀，疼痛较重，不能活动腕关节或活动时疼痛加剧。"
+  },
+  {
+   "cn": "感觉障碍",
+   "en": "sensory disability",
+   "source": "手外科学名词",
+   "wordNumber": "05.0779",
+   "subjectFullName": "手外科学_手外科学分论_上肢周围神经",
+   "subjectName": "上肢周围神经",
+   "publishYear": "2020",
+   "definition": "周围神经损伤的一个主要症状，表现为痛觉减退、痛觉消失、感觉过敏。"
+  },
+  {
+   "cn": "精神残疾",
+   "en": "mental disability",
+   "source": "精神医学名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "精神医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "各类精神疾病长期持续，未痊愈，存在认知、情感和行为障碍，导致工作、学习、日常生活和社会交往能力明显受损的病理状态。"
+  },
+  {
+   "cn": "原发性残疾",
+   "en": "primary disability",
+   "source": "运动医学名词",
+   "wordNumber": "07.013",
+   "subjectFullName": "运动医学_运动康复_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "由各类疾病、损伤、先天性异常等原因直接引起的功能障碍。常见原因有疾病、外伤、营养不良、先天性发育缺陷和老年病等。"
+  },
+  {
+   "cn": "继发性残疾",
+   "en": "secondary disability",
+   "source": "运动医学名词",
+   "wordNumber": "07.014",
+   "subjectFullName": "运动医学_运动康复_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "原发性残疾后的合并症或并发症所导致的功能障碍。即各种原发性残疾后，由于躯体活动受限，肌肉、骨骼、心肺功能等出现失用或废用性改变，而导致器官和系统功能的进一步减退，甚至丧失。"
+  },
+  {
+   "cn": "伤残保险",
+   "en": "disability insurance",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0396",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源管理法规",
+   "subjectName": "人力资源管理法规",
+   "publishYear": "2016",
+   "definition": "对造成伤残丧失劳动能力的劳动者给予的经济保障。"
+  },
+  {
+   "cn": "失效要素",
+   "en": "disabled feature",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "禁止",
+   "en": "disable\",\"inhibition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "禁止中断",
+   "en": "interrupt disable",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "假花学说",
+   "en": "pseudoanthial theory\",\"pseudoanthium theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "真花学说",
+   "en": "euanthial theory\",\"euanthium theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后成论，渐成论",
+   "en": "postformation theory\",\"epigenesis theory",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "肌源说",
+   "en": "myogenic theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胚胎系统发育说",
+   "en": "phylembryogenesis theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经源说",
+   "en": "neurogenic theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "套装论",
+   "en": "encasement theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞学说",
+   "en": "cell theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "先成论，预成论",
+   "en": "preformation theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "诱导学说",
+   "en": "induction theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "预成论（=先成论）",
+   "en": "preformation theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "捕食学说",
+   "en": "predation theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "成花素学说",
+   "en": "florigen theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等级理论",
+   "en": "hierarchy theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顶枝学说",
+   "en": "telome theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多[元]顶极理论（=多[元]顶极学说）",
+   "en": "polyclimax theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "集合论",
+   "en": "set theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "失能",
+   "en": "disability",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "由于意外伤害、疾病、或自然衰老导致身体或精神上的损伤，造成无法独立地正常生活的状态。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.0089999999999995",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "因身体、智力、精神或感官的损伤，导致个体长期、持续或永久性的功能障碍，而不能被治愈的状态。"
+  },
+  {
+   "cn": "残疾",
+   "en": "disability",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.1",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "心理、生理或人体结构方面存在某种组织、功能的丧失或异常，导致个体全部或部分丧失以正常方式从事某种活动的能力，通常包括视力残疾、听力残疾、言语残疾、肢体残疾、智力残疾、精神残疾、多重残疾和其他类型的残疾"
+  },
+  {
+   "cn": "伤残抚恤",
+   "en": "disability pension",
+   "source": "社会学名词",
+   "wordNumber": "4.3.11.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会优抚",
+   "subjectName": "社会优抚",
+   "publishYear": "2025",
+   "definition": "国家或政府依法对伤残军人及其家属提供保障其基本生活的现金或服务的社会优抚项目。"
+  },
+  {
+   "cn": "言语残疾",
+   "en": "speech disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致的不同程度的言语障碍，经治疗1年以上不愈或病程超过2年，而不能或难以进行正常的言语交往活动，以致影响其日常生活和社会参与（3岁以下不定残）。"
+  },
+  {
+   "cn": "智力残疾",
+   "en": "intellectual disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "智力明显低于一般人的水平，并伴有适应行为障碍者。包括在智力发育期间由各种有害因素导致精神发育迟滞或智力落后、智力发育成熟后由各种有害因素导致的智力损害及老年期智力的衰退。"
+  },
+  {
+   "cn": "视力残疾",
+   "en": "visual disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视力损失或视野缩小，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "听力残疾",
+   "en": "hearing disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双耳不同程度的永久性听力障碍，听不到或听不清周围环境声以及言语声，以致影响日常生活和社会参与。"
+  },
+  {
+   "cn": "肢体残疾",
+   "en": "physical disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "人体运动系统的结构、功能损伤造成四肢残缺或四肢、躯干麻痹（瘫痪）、畸形等而致人体运动功能不同程度的丧失以及活动受限或参与的局限。"
+  },
+  {
+   "cn": "精神残疾",
+   "en": "mental disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "各类精神障碍持续一年以上未痊愈，由于病人的认知、情感和行为障碍，影响其日常和社会参与。"
+  },
+  {
+   "cn": "永久残疾",
+   "en": "permanent disability",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.24",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由疾病或损伤造成的不可逆转的功能活动障碍。"
+  },
+  {
+   "cn": "先天性残疾",
+   "en": "congenital disability",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.4",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "出生前由遗传或非遗传因素所致的残疾。"
+  },
+  {
+   "cn": "残疾率",
+   "en": "disability rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.20",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "残疾率",
+   "publishYear": "2025",
+   "definition": "某一人群中，在特定期间内每百（或千、万、十万）人中实际存在的残疾人数，即通过询问调查或健康检查确诊的残疾人数与调查人数之比。反映残疾在人群中发生的频率，以及某个具体残疾对人群健康的影响程度。"
+  },
+  {
+   "cn": "残疾预防",
+   "en": "disability prevention",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.5",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "通过采取医学、教育、社会、环境等多种手段，防止或减少致残因素的发生与发展，最大限度降低残疾的发生率、减轻残疾程度、延缓残疾进程、减少残疾影响的综合性、系统性措施。通常包括三级预防：一级预防是预防疾病和"
+  },
+  {
+   "cn": "残疾率",
+   "en": "disability rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战时每百名伤员治疗结束后定为残疾的人数，也可分别计算各不同等级的此率，为政治部门和地方民政部门的后续工作提供依据。"
+  },
+  {
+   "cn": "伤残权重",
+   "en": "disability weight",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "根据短暂性失能到永久残疾的不同程度将残疾/失能赋予不同的权重值，范围在0-1 之间，0 代表完全健康，1 代表死亡。"
+  },
+  {
+   "cn": "多重残疾",
+   "en": "multiple disabilities",
+   "source": "社会医学名词",
+   "wordNumber": "12.5.3",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "残疾人卫生保健",
+   "publishYear": "2025",
+   "definition": "同时存在两种或两种以上残疾的情况。"
+  },
+  {
+   "cn": "多重残疾",
+   "en": "multiple disabilities",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "存在两种或两种以上残疾。"
+  },
+  {
+   "cn": "其他残疾",
+   "en": "other disabilities",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "除言语残疾、视力残疾、智力残疾、听力残疾、肢体残疾、精神残疾、多重残疾以外的残疾。"
+  },
+  {
+   "cn": "残疾人",
+   "en": "people with disability",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.68",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "在心理、生理、人体结构上，某种组织功能丧失或者不正常，全部或者部分丧失以正常方式从事某种活动能力的人。包括视力残疾人、听力残疾人、言语残疾人、肢体残疾人、智力残疾、精神残疾人、综合残疾人和其他残疾人等"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

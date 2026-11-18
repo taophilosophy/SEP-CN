@@ -1,0 +1,672 @@
+{
+ "key": "primitive recursive functions",
+ "term": "primitive recursive functions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:24:39+00:00",
+ "status": "ok",
+ "note": "variant=primitive recursive functions; 审定公布名词库=2710; 海峡两岸名词对照库=719; 其他来源数据库=89; 预公布名词数据库=93; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "原始递归函数",
+   "en": "primitive recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0117",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "包括后继函数、常函数和投影函数在内的在函数复合算子和原始递归算子下封闭的，其变元和值皆为自然数的最小函数类。"
+  },
+  {
+   "cn": "原始递归",
+   "en": "primitive recursion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0116",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "原始递归算子。给定函数 f(x),g(x,y,z) ，该算子定义函数 h 如下：① h(x,0)=f(x) ；② h(x,y+1)=g(x,y,h(x,y)) 。 "
+  },
+  {
+   "cn": "原始递归式",
+   "en": "primitive recursion",
+   "source": "数学名词",
+   "wordNumber": "02.0236",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原始递归性",
+   "en": "primitive recursiveness",
+   "source": "数学名词",
+   "wordNumber": "02.0233",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原始递归集",
+   "en": "primitive recursive set",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0119",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果一个集合 A 的特征函数是原始递归的，则称它是原始递归集。 "
+  },
+  {
+   "cn": "原始递归谓词",
+   "en": "primitive recursive predicate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0120",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果一个谓词所确定的集合是原始递归的，则称它是原始递归谓词。"
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0124",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个部分递归函数还是全函数，则称其为递归函数。"
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "数学名词",
+   "wordNumber": "02.0238",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "μ递归函数",
+   "en": "μ-recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0125",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "由μ算子定义的递归函数。"
+  },
+  {
+   "cn": "原函数",
+   "en": "primitive function",
+   "source": "数学名词",
+   "wordNumber": "05.0148",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "部分递归函数",
+   "en": "partial recursive function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0123",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "包括原始递归函数，且在函数复合算子、原始递归算子及无界搜索算子下封闭的最小函数类。"
+  },
+  {
+   "cn": "α递归性",
+   "en": "α-recursion,alpha-recursion",
+   "source": "数学名词",
+   "wordNumber": "02.0294",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "递归性",
+   "en": "recursiveness",
+   "source": "数学名词",
+   "wordNumber": "02.0241",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原语",
+   "en": "primitive",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0444",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "执行过程不被中断的一段程序。"
+  },
+  {
+   "cn": "图元",
+   "en": "primitive",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0617",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "计算机可以处理或绘制的最简单的几何元素。如点、线、面等。"
+  },
+  {
+   "cn": "基元",
+   "en": "primitive",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.073",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "显示图像中能独立地赋予属性(如色彩与光强)的最小二维元素。"
+  },
+  {
+   "cn": "递归技术",
+   "en": "recursive technique",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1923",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "基于递归公式的计算技术。递归公式将某些系数的 (如滤波器的 )第 n阶与第 (n.1)阶联系在一起。希望得到的第 n阶系数便可从第 0阶的初始值开始，迭代运用该公式求得。 "
+  },
+  {
+   "cn": "递归滤波",
+   "en": "recursive filter",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2557",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "其输出既依赖于输入及滤波响应函数，又依赖于以前的输出的滤波器。 "
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0753",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "把问题分解为规模缩小了的同类问题的子问题，然后采用递归调用函数（或过程）来求得原问题的解。"
+  },
+  {
+   "cn": "递归规则",
+   "en": "recursive rule",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0237",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "对规则左部的非终极符号进行递归定义。如： U → xUy ，即为递归规则。"
+  },
+  {
+   "cn": "原始递归函数",
+   "en": "primitive recursive function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "循环",
+   "en": "recursion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基元",
+   "en": "primitive",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "原簇虫",
+   "en": "primite",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "递推关系式",
+   "en": "recursive relation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归模型",
+   "en": "recursive model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "递归查询",
+   "en": "recursive query",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归估计",
+   "en": "recursive estimation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归计算",
+   "en": "recursive computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归例程",
+   "en": "recursive routine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归文法",
+   "en": "recursive grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归语言",
+   "en": "recursive language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递推公式",
+   "en": "recursion formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归定理",
+   "en": "recursion theorem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尾递归",
+   "en": "tail recursion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归法",
+   "en": "recursion method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哈希函数",
+   "en": "hash function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "原始信仰",
+   "en": "primitive religion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0303",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "古代人类或现存具有较简单文化的未开化民族的宗教信仰，是处于初期状态的信仰。主要特点是：自发性、氏族性、制度性、地域性、功利性。"
+  },
+  {
+   "cn": "原始公社",
+   "en": "primitive commune",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "以生产资料原始公社所有制为基础的人类共同体。已完成从猿到人过渡的人类最早的社会组织单位，氏族与部落成员共同生产、共同消费的社会结合形式。"
+  },
+  {
+   "cn": "原始社会",
+   "en": "primitive society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "“完全形成的人”的社会形态。人类最早的成熟的社会形态。以原始氏族与部落成员共同占有生产资料、共同生产与消费为基础的社会类型。"
+  },
+  {
+   "cn": "原始宗教",
+   "en": "primitive religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.5",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "传统的、长期与外界隔绝的、无文字的文化中的信仰与实践。但是，对大洋洲、美洲、非洲等地的土著居民的后续研究表明，其宗教形态多样、精细且复杂。"
+  },
+  {
+   "cn": "原始社会",
+   "en": "primitive commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0005",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以生产资料原始公社所有制为基础的社会制度，标志着人类社会历史发展的第一个基本阶段，始于母系氏族的产生，终于奴隶制的形成。它的发展持续了两三百万年之久，先后经历了血缘家庭公社时期、氏族公社时期。极度低下"
+  },
+  {
+   "cn": "原始社会",
+   "en": "primitive society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0328",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以生产资料原始公社所有制为基础的社会形态，是人类历史上第一个社会形态。始于人类的产生，终于奴隶社会的形成，大约延续200-400 万年左右。"
+  },
+  {
+   "cn": "原始艺术",
+   "en": "primitive art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.025",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "发生在原始社会，由古人类所创造的，不同于人类进入文明社会之后所产生的艺术，其中也包括了现在仍残存的某些原始部落的艺术。"
+  },
+  {
+   "cn": "原始思维",
+   "en": "primitive thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0533",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）认为，并不存在一成不变的、普遍的思维（或心智）。社会的类型不同，思维的类型也不同。而与亚洲、非洲、大洋洲和南北美洲的“原始社会”相应的思维"
+  },
+  {
+   "cn": "原始群",
+   "en": "primitive horde",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0329",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "从猿到人过渡时期正在形成中的人的群体，是刚刚脱离动物界的原始人共同生产、生活的集团。包括400 万年前的南方古猿阿法种和800-1400 万年前的腊玛古猿。主要成就是手足的初步分工，尚不平稳的直立行走"
+  },
+  {
+   "cn": "原始群",
+   "en": "primitive group/horde",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "从猿到人过渡时期正在形成中的人的群体。人类史前时期（前氏族时期）通过血缘关系自然形成的生活与劳动集合体。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "资本原始积累",
+   "en": "primitive accumulation of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0173",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "依靠暴力剥夺小生产者，强制生产者和生产资料分离，迫使小生产者沦为雇佣劳动者，并将社会财富转化为资本，以加速封建生产方式转变为资本主义生产方式的历史过程。因为它发生在资本主义生产方式完全确立之前，用以与"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

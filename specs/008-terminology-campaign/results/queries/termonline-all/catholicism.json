@@ -1,0 +1,32 @@
+{
+ "key": "catholicism",
+ "term": "Catholicism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:13:40+00:00",
+ "status": "ok",
+ "note": "variant=Catholicism; 审定公布名词库=0; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "天主教（=罗马天主教）",
+   "en": "Catholicism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "罗马天主教,天主教",
+   "en": "Roman Catholicism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

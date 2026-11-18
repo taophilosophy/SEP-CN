@@ -1,0 +1,662 @@
+{
+ "key": "quotation marks",
+ "term": "quotation marks",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:42:03+00:00",
+ "status": "ok",
+ "note": "variant=quotation marks; 审定公布名词库=1058; 海峡两岸名词对照库=498; 其他来源数据库=78; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "引语",
+   "en": "quotation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.129",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "在新闻写作中引述消息来源的语言和文字。根据援引方式的不同，又可细分为直接引语和间接引语。"
+  },
+  {
+   "cn": "征引",
+   "en": "quotation",
+   "source": "语言学名词",
+   "wordNumber": "10.020",
+   "subjectFullName": "语言学_训诂学_训诂体式",
+   "subjectName": "训诂体式",
+   "publishYear": "2011",
+   "definition": "以钩稽故实、征引出处的方法来探讨文献中的词语源流、说解语义和阐明文意的训诂体式。例如唐代李善的《文选注》。"
+  },
+  {
+   "cn": "引用",
+   "en": "quotation",
+   "source": "语言学名词",
+   "wordNumber": "08.243",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。为了增强文章的说服力和感染力而引用别人的现成话语或民间熟语。按引用方式不同，可分为明引、暗引和意引；按引用内容不同，可分为引经、稽古、出新和反用。"
+  },
+  {
+   "cn": "直接引语",
+   "en": "direct quotation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.13",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "在新闻写作中直接引述消息来源原话的报道手法。"
+  },
+  {
+   "cn": "间接引语",
+   "en": "indirect quotation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.131",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "在新闻写作中间接引述消息来源的报道手法。间接引语是报道者对消息来源的语言或文字的转述，但必须要忠实于消息来源的原意。"
+  },
+  {
+   "cn": "文句索引",
+   "en": "quotation index",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.821",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "以文句为标引单位，以文句的首字或尾字为标目，逐一标引图书中所有文句的索引。每一文句标引一次，注明出处。"
+  },
+  {
+   "cn": "资源配给",
+   "en": "resource quotation",
+   "source": "资源科学技术名词",
+   "wordNumber": "05.040",
+   "subjectFullName": "资源科学技术_资源管理学",
+   "subjectName": "资源管理学",
+   "publishYear": "2008",
+   "definition": "资源短缺情况下，政府为满足社会各成员基本或最低需求而按人均定额进行非市场供给的资源分配方式。"
+  },
+  {
+   "cn": "痕迹",
+   "en": "mark",
+   "source": "材料科学技术名词",
+   "wordNumber": "06.0187",
+   "subjectFullName": "材料科学技术_半导体材料_元素半导体材料",
+   "subjectName": "元素半导体材料",
+   "publishYear": "2011",
+   "definition": "由真空吸盘和吸笔或用不清洁的镊子夹持晶片边缘引起的表面局部沾污，及可能由包装引起的环绕整个边缘区域的痕迹。"
+  },
+  {
+   "cn": "传号",
+   "en": "mark",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.439",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "(1)在电报技术中，字符或代码的点或画的部分。与无信号区相对。(2)由比特表示的高状态(逻辑“1”)。与低状态(逻辑“0”)相对。"
+  },
+  {
+   "cn": "标记",
+   "en": "mark",
+   "source": "电气工程名词",
+   "wordNumber": "01.920",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "传号",
+   "en": "mark",
+   "source": "电子学名词",
+   "wordNumber": "21.172",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "标识",
+   "en": "marking",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0052",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "用于识别肥料产品及其质量、数量、特征、特性和使用方法所做的各种表示的统称。标识可用文字、符号、图案及其他说明物等表示。"
+  },
+  {
+   "cn": "标识",
+   "en": "marking",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0669",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "一个佩特里网的标识是网中的库所集到非负整数集的一个映射。用佩特里网描述一个实际系统时，标识表示系统的状态。"
+  },
+  {
+   "cn": "[加]标记",
+   "en": "marking",
+   "source": "计量学名词",
+   "wordNumber": "01.185",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "施加在测量仪器上的一个或多个标记。如检定标记、禁用标记、封印标记和型式批准标记等。"
+  },
+  {
+   "cn": "报价驱动市场",
+   "en": "quotation-driven market",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0177",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "采用以下交易机制的市场：交易双方需借助做市商这类中介来实现金融交易，交易是在投资者和做市商之间完成的。特征是证券的价格形成由做市商决定，且投资者无论买进还是卖出证券，都只同做市商进行交易，与其他投资者"
+  },
+  {
+   "cn": "意引",
+   "en": "quotation of meaning",
+   "source": "语言学名词",
+   "wordNumber": "08.246",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "引用的一种。不直接引用原文，只间接引述原意，或将原意融入自己的话语里，说明或不说明作者或出处。例如，“只愁梦太多了，这些大小船儿如何载得起呀？”意引李清照词句。"
+  },
+  {
+   "cn": "资源配给制度",
+   "en": "resource quotation system",
+   "source": "资源科学技术名词",
+   "wordNumber": "05.041",
+   "subjectFullName": "资源科学技术_资源管理学",
+   "subjectName": "资源管理学",
+   "publishYear": "2008",
+   "definition": "资源短缺情况下，政府关于满足社会各成员基本或最低需求而按人均定额进行非市场供给的资源分配方式的系列规定。"
+  },
+  {
+   "cn": "引语词典",
+   "en": "dictionary of quotations",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.102",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "广泛汇聚名言佳句的工具书。条目按著者、主题或事件顺序排列。有详尽的索引，以便检索。"
+  },
+  {
+   "cn": "裁切线",
+   "en": "crop marks;trim marks",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.105",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "印在纸张周边用于指示裁切部位的线条。"
+  },
+  {
+   "cn": "框标",
+   "en": "collimating mark,fiducial mark",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.314",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "标盘",
+   "en": "bidding quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "顶盘",
+   "en": "highest quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股票牌价",
+   "en": "share quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "官方汇价",
+   "en": "official quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合并报价单",
+   "en": "combined quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "汇价",
+   "en": "exchange quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "间接汇价",
+   "en": "indirect quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "牌价",
+   "en": "market quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "平价行情",
+   "en": "parity quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际开价",
+   "en": "actual quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外汇行市",
+   "en": "exchange quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "远期报价",
+   "en": "forward quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "直接标价",
+   "en": "direct quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最低报盘",
+   "en": "minimum quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "痕迹",
+   "en": "mark",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "传号",
+   "en": "mark",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标志",
+   "en": "mark",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "标记，记号",
+   "en": "marking",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "公开市场汇价",
+   "en": "open market quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[交易所]较低收盘价",
+   "en": "lower closing quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "着地痕迹",
+   "en": "mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "落地痕迹",
+   "en": "mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助跑标记",
+   "en": "mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记！",
+   "en": "Mark!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "航标",
+   "en": "mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盯人",
+   "en": "marking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盯人防守",
+   "en": "guard\",\"mark\",\"guarding\",\"marking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "踏板足印",
+   "en": "impression\",\"mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报分",
+   "en": "mark\",\"signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盯人防守",
+   "en": "guard\",\"mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盯人防守",
+   "en": "guard\",\"mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色浮标",
+   "en": "red mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白色浮标",
+   "en": "white mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄色浮标",
+   "en": "yellow mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绿色浮标",
+   "en": "green mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红方位置",
+   "en": "red mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝方位置",
+   "en": "blue mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最高分",
+   "en": "highest mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最低分",
+   "en": "lowest mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "十年来三件大事",
+   "en": "three major events in the past decade marked",
+   "source": "马克思主义",
+   "wordNumber": "03.0826",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，十八大召开至今已经十年了。十年来，我们经历了对党和人民事业具有重大现实意义和深远历史意义的三件大事：一是迎来中国共产党成立一百周年，二是中国特色社会主义进入新时代，三是完成脱贫攻坚"
+  },
+  {
+   "cn": "从新民主主义革命到社会主义革命转变的标志",
+   "en": "mark of a shift from new democratic revolution to socialist revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0381",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于革命发展阶段论的重要内容。1959年底至1960年春，毛泽东在读苏联《政治经济学教科书》的谈话中明确指出：1949年中华人民共和国的建立标志着新民主主义革命阶段的结束和社会主义革命阶段的开始"
+  },
+  {
+   "cn": "基因突变",
+   "en": "gene mutation",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "基因中DNA 序列的变化，包括碱基置换和移码突变两种类型。"
+  },
+  {
+   "cn": "基因组突变",
+   "en": "genomic mutation",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.4",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "基因组中染色体数目的改变。"
+  },
+  {
+   "cn": "资本循环",
+   "en": "rotation of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0190",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指产业资本从一定的职能形式出发，顺次经过购买、生产、销售三个阶段，分别地采取货币资本、生产资本、商品资本三种职能形式，实现了价值的增殖，并回到原来出发点的全过程。"
+  },
+  {
+   "cn": "细菌回复突变试验",
+   "en": "bacterial reverse mutation assay",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.5",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "利用突变体的测试菌株，观察受试物能否纠正或补偿突变体所携带的突变改变，判断其致突变性的试验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

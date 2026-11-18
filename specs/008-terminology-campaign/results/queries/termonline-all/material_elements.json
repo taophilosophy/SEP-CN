@@ -1,0 +1,722 @@
+{
+ "key": "material elements",
+ "term": "material elements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:11:47+00:00",
+ "status": "ok",
+ "note": "variant=material elements; 审定公布名词库=3872; 海峡两岸名词对照库=1384; 其他来源数据库=72; 预公布名词数据库=188; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "元件",
+   "en": "element",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0473",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "特指DNA或RNA上具有某种特定功能的核苷酸序列。如可移动元件、各种顺式作用元件等。"
+  },
+  {
+   "cn": "著录单元",
+   "en": "element",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.414",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "组成著录项目的最小单位。由能够表示文献某一特征的一个单词、短语或一组字符等构成。例如文献出版发行项包括出版地、出版者、出版年等著录单元。"
+  },
+  {
+   "cn": "元素",
+   "en": "element",
+   "source": "物理学名词",
+   "wordNumber": "01.0296",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "元件",
+   "en": "element",
+   "source": "物理学名词",
+   "wordNumber": "01.0295",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "元素",
+   "en": "element",
+   "source": "核医学名词",
+   "wordNumber": "02.0004",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "具有相同核电荷数(质子数)的同一类原子的总称。"
+  },
+  {
+   "cn": "[化学]元素",
+   "en": "element",
+   "source": "化学名词",
+   "wordNumber": "01.0042",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "具有相同核电荷数的原子的总称。如氢、氧、碳、硫、铁、铜、银、金、汞、铝等都是人们所熟知的元素。"
+  },
+  {
+   "cn": "晶元",
+   "en": "element",
+   "source": "古生物学名词",
+   "wordNumber": "04.0069",
+   "subjectFullName": "古生物学_古植物学_藻类",
+   "subjectName": "藻类",
+   "publishYear": "2009",
+   "definition": "组成颗石的微小方解石晶体。"
+  },
+  {
+   "cn": "单元",
+   "en": "element",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.037",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "码元",
+   "en": "element",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0810",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "[微]元",
+   "en": "element",
+   "source": "化学工程名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "[单]元",
+   "en": "element",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "元[素]",
+   "en": "element",
+   "source": "数学名词",
+   "wordNumber": "01.0076",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "元素",
+   "en": "element",
+   "source": "地质学名词",
+   "wordNumber": "04.288",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "元素主义",
+   "en": "elementalism",
+   "source": "心理学名词",
+   "wordNumber": "04.012",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "一种心理学方法论路线。强调把整体分析为元素，再寻找元素之间复合的规律。"
+  },
+  {
+   "cn": "材料",
+   "en": "material",
+   "source": "物理学名词",
+   "wordNumber": "01.0047",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "材料学",
+   "en": "materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0006",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "研究各类材料的组成、结构、工艺、性能与使用效能之间相互关系的学科。"
+  },
+  {
+   "cn": "材料",
+   "en": "materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "可以用来制造有用的构件、器件或物品等的物质。"
+  },
+  {
+   "cn": "材料化",
+   "en": "materialization",
+   "source": "农学名词",
+   "wordNumber": "11.104",
+   "subjectFullName": "农业环境保护_生态循环农业",
+   "subjectName": "生态循环农业",
+   "publishYear": "2025",
+   "definition": "针对棉秆和园林等农业有机废弃物的特殊理化性质，对其进行加工处理转化为有用材料的过程。"
+  },
+  {
+   "cn": "物质主义",
+   "en": "materialism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.211",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "以财富占有和物质享受作为人生价值的唯一标准、在行动及理念上沉迷于对单向度物质需求与过度欲望之实现的价值取向，导致忽视精神追求与理想信念的生活方式，是一种将金钱、物质与财富的获取作为人生追求的思想体系。"
+  },
+  {
+   "cn": "雕纹分子",
+   "en": "sculptural element,sculpturing element",
+   "source": "植物学名词",
+   "wordNumber": "15.0105",
+   "subjectFullName": "植物学_孢粉学",
+   "subjectName": "孢粉学",
+   "publishYear": "2019",
+   "definition": "孢粉表面形成浮雕或图案的组成单位。"
+  },
+  {
+   "cn": "决定性要素",
+   "en": "material elements",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "元件",
+   "en": "element",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "元素",
+   "en": "element",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "元素",
+   "en": "element",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "要素",
+   "en": "element",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "元件",
+   "en": "element",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "元素",
+   "en": "element",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "元件",
+   "en": "element",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "元素",
+   "en": "element",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "元件",
+   "en": "element",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "元件",
+   "en": "element",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "物料",
+   "en": "material",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "材料",
+   "en": "materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "材料学",
+   "en": "materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "唯物主义",
+   "en": "materialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "雕纹分子",
+   "en": "sculptural element\",\"sculpturing element",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系成分",
+   "en": "floristic element\",\"floral element",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "过渡元素",
+   "en": "transition element\",\"transitional element",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系成分",
+   "en": "floristic element\",\"floral element",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "应答元件",
+   "en": "response element\",\"responsive element",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三才",
+   "en": "Three Elements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据元素",
+   "en": "data element",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据要素",
+   "en": "data element",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平衡动作",
+   "en": "balance element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体操动作",
+   "en": "gymnastic element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技巧动作",
+   "en": "acrobatic element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腾空动作",
+   "en": "flight element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆动动作",
+   "en": "swing element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附加动作",
+   "en": "additional element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "唯物主义",
+   "en": "materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0003",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "哲学两大基本派别之一，与唯心主义相对立。在哲学基本问题的第一个方面问题上，唯物主义主张物质第一性，精神第二性，世界的本原是物质，世界统一于物质，物质派生精神。"
+  },
+  {
+   "cn": "物化",
+   "en": "materialization",
+   "source": "马克思主义",
+   "wordNumber": "01.0133",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在《1844年经济学哲学手稿》中提出的概念，后在《资本论》中谈到商品价值时也使用过。指人通过劳动实践将自己的思想观念转化到劳动对象上，从而实现思想观念作为物质形态的对象性存在。"
+  },
+  {
+   "cn": "燃料元件",
+   "en": "fuel element",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.1",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "核反应堆内具有独立结构的燃料使用单元。包括从单一的圆柱状短棒到结构复杂的大组件。通常指由燃料芯体和包壳组成的燃料单元，如燃料棒、燃料板和燃料球。"
+  },
+  {
+   "cn": "附加要素",
+   "en": "additional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "包括在规范性文件中而不影响其实质内容的信息。就标准而言，主要指封面、目次、前言、引言、资料性附录、参考文献、索引和注等。"
+  },
+  {
+   "cn": "规范性要素",
+   "en": "normative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中界定标准范围或设定条款的要素。"
+  },
+  {
+   "cn": "资料性要素",
+   "en": "informative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "提供有助于理解或使用标准的附加信息的要素。"
+  },
+  {
+   "cn": "必备要素",
+   "en": "required element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中必不可少的要素。"
+  },
+  {
+   "cn": "可选要素",
+   "en": "optional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中存在与否取决于标准具体需求的要素。"
+  },
+  {
+   "cn": "沟通要素",
+   "en": "communication element",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.087",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "心理学家海因以系统论的传播模式为背景提出人际沟通过程的6 个基本要素：信息环境、信息发出者、信息、传递途径、信息接收者、反馈。在医患沟通中，信息发出者既可以是医方，也可以是患方。"
+  },
+  {
+   "cn": "杂质元素",
+   "en": "impurity element",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.43",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "残留在金属中的非有意添加的元素。"
+  },
+  {
+   "cn": "动力单元",
+   "en": "kinetic element",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.5.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在神经系统支配下，通过肌肉收缩，牵动骨骼以关节为支点产生位置变化，完成运动过程，包括关节在内的某些解剖结构结合在一起可以完成以关节为轴的运动。由肌肉、骨骼、神经、血管组成。"
+  },
+  {
+   "cn": "合金元素",
+   "en": "alloying element",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.44",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "冶炼金属时，为达到某些性能要求（如拉伸强度、硬度、耐磨性、耐腐蚀性、电导率等）而有意添加的一种或多种金属或非金属元素。"
+  },
+  {
+   "cn": "半导体材料",
+   "en": "semiconductor material",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.2.3.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "导电能力介于导体与绝缘体之间，电阻率在1mΩ·cm～1GΩ·cm范围内，可用来制作半导体器件和集成电路的电子材料。"
+  },
+  {
+   "cn": "透气材料",
+   "en": "breathable material",
+   "source": "消毒学",
+   "wordNumber": "3.1.7",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "空气、蒸汽等能穿透的材料。最终灭菌医疗器械包装的透气材料包括但不限于棉布、无纺布、皱纹纸等。"
+  },
+  {
+   "cn": "抗菌材料",
+   "en": "antibacterial material",
+   "source": "消毒学",
+   "wordNumber": "3.1.13.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "具有抗菌作用的材料。"
+  },
+  {
+   "cn": "投料批",
+   "en": "material batch",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在同一个制造周期内根据一个制造指令生产的消毒产品和物料，同一批次的产品其质量特性保持一致。"
+  },
+  {
+   "cn": "原料",
+   "en": "raw material",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "生产消毒产品使用除包装材料以外的所有材料。"
+  },
+  {
+   "cn": "材料相容性",
+   "en": "material compatibility",
+   "source": "消毒学",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "材料在受到消毒因子作用后对材料造成的伤害（损害）在可以接受的范围内的能力。"
+  },
+  {
+   "cn": "核材料",
+   "en": "nuclear material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "任何特种可裂变材料或原材料。包括：钚，但钚-238 同位素浓度超过 80%者除外；铀-233；浓缩铀（铀-235 或铀-233）；非矿砂或矿渣形式的含天然存在的同位素混合物的铀；任何含有上述一种或多种"
+  },
+  {
+   "cn": "源材料",
+   "en": "source material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.1",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "含天然铀、贫化铀、钍或上述任何物质的金属、合金、化合物或浓缩物的材料。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,702 @@
+{
+ "key": "mental illness",
+ "term": "mental illness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:04:40+00:00",
+ "status": "ok",
+ "note": "variant=mental illness; 审定公布名词库=2643; 海峡两岸名词对照库=928; 其他来源数据库=65; 预公布名词数据库=138; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "心理疾病",
+   "en": "mental illness",
+   "source": "心理学名词",
+   "wordNumber": "10.081",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "由于精神紧张或干扰，使个体的思维、情感和行为发生偏离社会规范的异常心理现象。"
+  },
+  {
+   "cn": "精神疾病相关过度睡眠",
+   "en": "hypersomnia due to mental illness",
+   "source": "行为医学名词",
+   "wordNumber": "11.036",
+   "subjectFullName": "行为医学_睡眠_觉醒障碍_过度嗜睡性障碍",
+   "subjectName": "过度嗜睡性障碍",
+   "publishYear": "2022",
+   "definition": "由精神类疾病引发的日间过度睡眠的现象。"
+  },
+  {
+   "cn": "精神疾病早期干预",
+   "en": "early intervention on mental illness",
+   "source": "精神医学名词",
+   "wordNumber": "04.054",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "在精神疾病出现非特异性表现时进行有效干预，以期降低发病率、改善预后的措施。也包括在精神疾病早期尽量缩短未治疗期。"
+  },
+  {
+   "cn": "病态",
+   "en": "ill-conditioned,ill-conditioning",
+   "source": "数学名词",
+   "wordNumber": "010.0410",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "颏孔点",
+   "en": "mentale",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0929",
+   "subjectFullName": "人体解剖学_运动系统_体质人类学",
+   "subjectName": "体质人类学",
+   "publishYear": "2014",
+   "definition": "下颌骨颏孔下缘的最低点。有时下颌骨的一侧同时出现两个以上的颏孔，古人类尤为多见，则颏孔点定为主颏孔下缘最低之点。"
+  },
+  {
+   "cn": "心理主义",
+   "en": "mentalism",
+   "source": "心理学名词",
+   "wordNumber": "04.153",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "以人的内部心理过程为研究重点的心理学理论。如冯特的内容心理学与当代的认知心理学。"
+  },
+  {
+   "cn": "心智主义",
+   "en": "mentalism",
+   "source": "语言学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "语言学的一种观点。认为人的内部的心智活动与外显的行为表现是相互独立的，并且前者可以解释后者。"
+  },
+  {
+   "cn": "病感",
+   "en": "illness perception",
+   "source": "行为医学名词",
+   "wordNumber": "7.1",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "关于痛苦、不适、不健康或功能受限的主观感受。"
+  },
+  {
+   "cn": "危重症",
+   "en": "critical illness",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "04.087",
+   "subjectFullName": "肠外肠内营养学_临床应用_适应证与并发症",
+   "subjectName": "适应证与并发症",
+   "publishYear": "2019",
+   "definition": "病情严重、多变且有威胁生命的危急情况存在的临床征象。多伴有一个或多个器官功能不全或衰竭。"
+  },
+  {
+   "cn": "病患行为",
+   "en": "illness behavior",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.061",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "患者对异常的精神或躯体信号做出的行为反应。"
+  },
+  {
+   "cn": "未分化性疾患",
+   "en": "undifferentiated illness",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.004",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "尚无法归于某种具体疾病的症状。多指疾病的早期，症状无特异性、表现泛化。"
+  },
+  {
+   "cn": "未病先防",
+   "en": "preventing illness before illness onset",
+   "source": "行为医学名词",
+   "wordNumber": "2.14",
+   "subjectFullName": "行为医学_行为医学基本理论_中医行为医学思想",
+   "subjectName": "中医行为医学思想",
+   "publishYear": "2022",
+   "definition": "在未发生疾病之前，采取各种有效措施，做好预防工作，防止疾病发生，重在养生。"
+  },
+  {
+   "cn": "心算",
+   "en": "mental arithmetic,mental compatation",
+   "source": "教育学名词",
+   "wordNumber": "07.152",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "不借助计算工具、不出声的脑内数学运算。"
+  },
+  {
+   "cn": "性高潮后综合征",
+   "en": "postorgasmic illness syndrome",
+   "source": "男科及性医学名词",
+   "wordNumber": "20.073",
+   "subjectFullName": "男科及性医学_男性性功能障碍",
+   "subjectName": "男性性功能障碍",
+   "publishYear": "2023",
+   "definition": "一种在性高潮后出现类似流感和过敏症状的临床综合征。包括性交、自慰或梦遗后。临床罕见，多见于男性射精后。症状往往在第 2 天达到顶峰，持续 2～7 天后自行消失。Ⅰ型超敏反应被认为是潜在机制。"
+  },
+  {
+   "cn": "异常患病行为",
+   "en": "abnormal illness behavior",
+   "source": "行为医学名词",
+   "wordNumber": "7.101",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "在自己患病相关问题上，异常、不可取的态度和行为。如过度检查和不遵医嘱、对身体不适的疑病态度、对疾病诊断的否认等。"
+  },
+  {
+   "cn": "异常患病行为",
+   "en": "abnormal illness behavior",
+   "source": "精神医学名词",
+   "wordNumber": "03.241",
+   "subjectFullName": "精神医学_诊断分类_应激与神经症性障碍",
+   "subjectName": "应激与神经症性障碍",
+   "publishYear": "2019",
+   "definition": "在自己患病相关问题上，异常的不可取的态度和行为。如过度检查和不遵医嘱，对身体不适的疑病态度，对疾病诊断的否认等。"
+  },
+  {
+   "cn": "天花样疾病",
+   "en": "smallpox-like illness",
+   "source": "感染病学名词",
+   "wordNumber": "03.0303",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "人感染猴天花病毒后出现的类似天花的疾病。散发于非洲中西部的热带雨林地区。临床起病急骤，可见发热、离心性出疹。病死率较高。儿童及免疫功能不良者预后差。"
+  },
+  {
+   "cn": "疾患阶段",
+   "en": "stage of illness",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.024",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "从症状出现，到完全消失的时间段。"
+  },
+  {
+   "cn": "躁狂抑郁症",
+   "en": "manic-depressive illness",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.192",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "颏孔",
+   "en": "mental foramen",
+   "source": "整形外科名词",
+   "wordNumber": "12.015",
+   "subjectFullName": "整形外科_颅颌面整形_颅面部主要体表标志",
+   "subjectName": "颅面部主要体表标志",
+   "publishYear": "2026",
+   "definition": "颏结节的外侧，相当于第二前磨牙牙槽轭前下方的孔。有颏血管及神经通过。"
+  },
+  {
+   "cn": "心理疾病",
+   "en": "mental illness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "颏孔点",
+   "en": "mentale",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心理账户",
+   "en": "mental account\",\"mental accounting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "颏结节",
+   "en": "mental tubercle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏孔",
+   "en": "mental foramen",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏动脉",
+   "en": "mental artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏棘",
+   "en": "mental spine",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏联合",
+   "en": "mental symphysis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏隆凸",
+   "en": "mental protuberance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏区",
+   "en": "mental region",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏神经",
+   "en": "mental nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏支",
+   "en": "mental branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "智力落后,精神发育迟缓",
+   "en": "mental retardation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理过程",
+   "en": "mental process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理状态",
+   "en": "mental state",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理旋转",
+   "en": "mental rotation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理定势",
+   "en": "mental set",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理量表",
+   "en": "Mental Scale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理疲劳",
+   "en": "mental fatigue",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "治病救人",
+   "en": "Treat the Illness and Save the Patient",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上工治未病",
+   "en": "Great Physicians Treat Before the Outbreak of an Illness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有病不治，常得中医",
+   "en": "Self-treating an Illness Can Usually Get a Good Result.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文起八代之衰，道济天下之溺",
+   "en": "The Classical Style of Writing Revived the Literary Style in Decline During the Eight Dynasties; Confucianism Lifts the People out of Their Mental Plight.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标枪头",
+   "en": "metal head\",\"metal point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动静",
+   "en": "Movement and Stillness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金属剑道",
+   "en": "metal carpets",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金属剑道",
+   "en": "metal carpets",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "塔林手册",
+   "en": "Tallinn Manual",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "患病行为",
+   "en": "illness behavior",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.3",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "当一个人感到生病时，为了达到确认疾病存在和寻求减轻疾病痛苦的目的而主动采取的行动。它受到内在的对躯体状况的主观感受，以及外在的社会文化、医疗服务体系等多种因素的复杂影响。"
+  },
+  {
+   "cn": "病痛叙述",
+   "en": "illness narrative",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0242",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "病人把他们的病痛体验组织成个人叙述。医学人类学认为，病痛叙述既受到个体因素的影响，也由于受文化的塑造而具有结构化的特点，它不仅反映患者的病痛体验，还有助于形成体验，认识并控制病痛。作为研究者，医学人类"
+  },
+  {
+   "cn": "患病",
+   "en": "disease/illness/sickness",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.2",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "在社会学语境中，患病有三层涵义：一是医学上可鉴别的生理功能失调(disease），二是病人感受到某些症状的心理感受(illness），三是病人被社会认可，无法正常扮演社会角色的社会状态(sicknes"
+  },
+  {
+   "cn": "疾病成本",
+   "en": "cost of illness",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由疾病的发病、导致的伤残（失能）以及过早死亡带来的经济损失或资源消耗。"
+  },
+  {
+   "cn": "心理障碍",
+   "en": "mental disorder",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.5",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "由于心理的原因导致无法正常应对日常生活。心理专家将其区分为两类，一是神经官能性的，相对症状较轻，比如紧张；二是精神心理性的，症状较重，个体心理已经脱离现实。"
+  },
+  {
+   "cn": "脑力劳动",
+   "en": "mental labor",
+   "source": "马克思主义",
+   "wordNumber": "01.0127",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“体力劳动”相对。以消耗脑力为主的劳动，体力劳动在其中起辅助作用。"
+  },
+  {
+   "cn": "精神交往",
+   "en": "mental communication",
+   "source": "马克思主义",
+   "wordNumber": "01.0149",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们之间的思想、观念、意识等的交流、批评或肯定的精神活动。精神交往受物质交往和物质关系的制约，但具有相对独立性。精神交往使精神成果得到认同、确证、传播和实现，是保证和促进精神生产的重要手段。"
+  },
+  {
+   "cn": "心理年龄",
+   "en": "mental age",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "标准化心理测验判断心理发育成熟程度对应于群体平均水平所在年龄。"
+  },
+  {
+   "cn": "心理自我",
+   "en": "mental self",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己的智力、情感与人格特征以及价值取向和宗教信仰等的认识。"
+  },
+  {
+   "cn": "精神残疾",
+   "en": "mental disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "各类精神障碍持续一年以上未痊愈，由于病人的认知、情感和行为障碍，影响其日常和社会参与。"
+  },
+  {
+   "cn": "心理健康",
+   "en": "mental health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "有利于个体身心发展，工作、学习有效率，维持良好生活质量的适宜的心理状态。"
+  },
+  {
+   "cn": "智龄",
+   "en": "mental age",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.28",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "用某种智力测验工具测得的智力发展水平，即一个人智力发育水平的年龄。"
+  },
+  {
+   "cn": "心理健康",
+   "en": "mental health",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.5",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "个体在认知、情感、意志等心理活动层面所具有的一种良好状态。表现为能够认识和接纳自我，合理调节情绪、对社会有良好的适应力，并在面对压力和挑战时保持心理功能的稳定与协调。"
+  },
+  {
+   "cn": "精神障碍",
+   "en": "mental disorder",
+   "source": "社会医学名词",
+   "wordNumber": "13.7",
+   "subjectFullName": "社会病",
+   "subjectName": "精神障碍",
+   "publishYear": "2025",
+   "definition": "由大脑功能显著异常引起的，导致个体痛苦或社会功能受损的临床状况，且排除物质、躯体疾病等直接生理效应。"
+  },
+  {
+   "cn": "心理状态",
+   "en": "mental status",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "反映个体情绪和认知的状态。"
+  },
+  {
+   "cn": "社会心态",
+   "en": "social mentality",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在特定社会背景下形成的一种群体共有的心理状态，包括由价值观及信仰所体现出来的社会心理倾向、对具体现实的各种感受和情绪等，直接反映当时的社会精神状态。"
+  },
+  {
+   "cn": "民俗心理",
+   "en": "folklore mentality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0502",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一定人类群体中蕴含的一种较稳定的习俗意识定势，是民俗生活相在人们头脑中循环往复潜留下来的心理意识，经过历史的传承而逐步形成的。"
+  },
+  {
+   "cn": "因病致贫",
+   "en": "poverty due to illness",
+   "source": "社会医学名词",
+   "wordNumber": "12.4.2",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "贫困人口卫生保健",
+   "publishYear": "2025",
+   "definition": "个人或家庭成员因罹患重大疾病、慢性病或其他严重健康问题，导致高额医疗支出、劳动力丧失或收入下降，从而使家庭经济状况明显恶化，最终陷入贫困状态的现象。该问题广泛存在于缺乏完善医疗保障和社会支持机制的地区"
+  },
+  {
+   "cn": "疾病的文化解释",
+   "en": "cultural context of illness",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "影响健康和疾病定义的具体的社会文化因素。现有的研究显示，文化差异会造成对疼痛、饥饿等客观生理现象的不同主观体验，也会造成对疾病的不同解释，以及对身体各个器官的重视程度的不同等。"
+  },
+  {
+   "cn": "因病致贫",
+   "en": "poverty due to illness",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "因疾病费用支出导致的贫困。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "scientific investigation",
+ "term": "scientific investigation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:42:40+00:00",
+ "status": "ok",
+ "note": "variant=scientific investigation; 审定公布名词库=302; 海峡两岸名词对照库=31; 其他来源数据库=47; 预公布名词数据库=49; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "水文地质调查",
+   "en": "hydrogeological investigation",
+   "source": "地质学名词",
+   "wordNumber": "16.01.020",
+   "subjectFullName": "地质学_水文地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "为查明某一地区的水文地质条件，对地下水及与其有关的各种地质作用进行的调查研究工作。包括水文地质测绘、勘探、试验、地下水动态监测和水质分析等。根据不同目的任务和调查方法的特点，分为综合性区域水文地质调查"
+  },
+  {
+   "cn": "水文地球化学调查",
+   "en": "hydrogeochemical investigation",
+   "source": "地质学名词",
+   "wordNumber": "16.04.005",
+   "subjectFullName": "地质学_水文地质学_水文地球化学",
+   "subjectName": "水文地球化学",
+   "publishYear": "2026",
+   "definition": "应用水文地球化学的理论和研究方法，对一定区域内的地下水水化学组成及其变化规律进行的调查。依据调查目的的不同，分为资源水文地球化学调查、环境水文地球化学调查、工程水文地球化学调查等。"
+  },
+  {
+   "cn": "选点勘察",
+   "en": "reconnaissance investigation",
+   "source": "地质学名词",
+   "wordNumber": "17.04.002",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "为编制建筑规划，选择近期开发地段进行的工程地质勘察。其目的是为规划中的工程了解其建设区域一般工程地质条件，论证规划建筑工程技术可能性和经济合理性，提出可供选点(线)的有利地区和地段。勘察方法通常是研究"
+  },
+  {
+   "cn": "可行性勘察",
+   "en": "feasibility investigation",
+   "source": "地质学名词",
+   "wordNumber": "17.04.003",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "为编制工程建筑初步设计可行性研究报告开展的工程地质勘察。是在规划阶段所选定的建筑区域内进行的。其任务是选定工程地质条件最有利的建筑场地，为建筑物类型和规模的确定提供工程地质资料。勘察方法以工程地质测绘"
+  },
+  {
+   "cn": "详细勘察",
+   "en": "detailed investigation",
+   "source": "地质学名词",
+   "wordNumber": "17.04.004",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "为编制建筑物的设计而进行的工程地质勘察。其任务是提供建筑物影响范围内的精确的地质结构、水文地质条件及岩土的物理力学性质的定量指标等资料，以便通过详细设计计算最终确定建筑物的结构、施工方法和造价。主要勘"
+  },
+  {
+   "cn": "相地",
+   "en": "site investigation",
+   "source": "风景园林名词",
+   "wordNumber": "06.0046",
+   "subjectFullName": "风景园林_风景园林设计_中国传统园林设计",
+   "subjectName": "中国传统园林设计",
+   "publishYear": "2025",
+   "definition": "对园林场地条件进行勘察、分析和选择的活动。包括园址的现场踏勘，环境和自然条件的评价，地形、地势和造景构图关系的设想，内容和意境的考虑，基址的选择确定。"
+  },
+  {
+   "cn": "流行病学调查",
+   "en": "epidemiological investigation",
+   "source": "急救医学名词",
+   "wordNumber": "01.071",
+   "subjectFullName": "急救医学_急救概论_医疗急救_医院感染与洗消",
+   "subjectName": "医院感染与洗消",
+   "publishYear": "2025",
+   "definition": "对人群中疾病或者健康状况的分布及其决定因素进行调查的过程。"
+  },
+  {
+   "cn": "游客调查",
+   "en": "tourist investigation",
+   "source": "风景园林名词",
+   "wordNumber": "03.0063",
+   "subjectFullName": "风景园林_风景园林管理_公园景区管理",
+   "subjectName": "公园景区管理",
+   "publishYear": "2025",
+   "definition": "制定调查方案，并利用人工、网络等其他科学的调查方法，对要调查的现象进行有计划、系统地搜集资料的过程。包括游客客源地、规模、人员结构、时间空间分布、满意度、游览目的、游览行为、消费行为等综合信息。"
+  },
+  {
+   "cn": "追踪调查",
+   "en": "tracking investigation",
+   "source": "急救医学名词",
+   "wordNumber": "03.873",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "按踪迹或线索追寻对曾经的被调查者再次熟悉情况、了解事实、收集数据和占有材料的调查方法。"
+  },
+  {
+   "cn": "新闻调查",
+   "en": "journalistic investigation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.031",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "运用新闻手段围绕某事件或某问题而开展的较深层次的调查活动。"
+  },
+  {
+   "cn": "典型调查",
+   "en": "typical investigation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.018",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "出版部门根据特定的调查提纲，选择某类读者对象，了解读者对出版物的反应和需要的出版活动。"
+  },
+  {
+   "cn": "土地调查",
+   "en": "land investigation",
+   "source": "测绘学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "对土地的权属、利用类型、面积、质量和分布进行的调查。"
+  },
+  {
+   "cn": "水文调查",
+   "en": "hydrological investigation",
+   "source": "电力名词",
+   "wordNumber": "01.711",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "为弥补水文基本站网定位观测之不足或为某个特定目的,采用勘测、调查、考证等方式收集某些水文要素等有关资料的工作。"
+  },
+  {
+   "cn": "腐蚀调查",
+   "en": "corrosion investigation",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.036",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "在装置停工维修期间，按照腐蚀机理，采用宏观检查及对应损伤机理的无损检测手段对各类设备、管道腐蚀状况进行的有针对性的检查工作。"
+  },
+  {
+   "cn": "预调查",
+   "en": "pilot investigation",
+   "source": "计划生育名词",
+   "wordNumber": "01.095",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "为评价开展大规模研究的可行性，预先在有限范围内进行的调查研究。"
+  },
+  {
+   "cn": "调查水平",
+   "en": "investigation level",
+   "source": "核医学名词",
+   "wordNumber": "02.0540",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "由审管部门规定的，启动某项辐射防护相关调查所需的条件指标阈值。条件指标一般是辐射防护相关的可测量值，如有效剂量、摄入量或单位面积(体积)的污染水平等。"
+  },
+  {
+   "cn": "系统调查",
+   "en": "system investigation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0095",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "系统建设开始，对其环境、需求、目标及信息系统现状等相关资料的收集和整理。"
+  },
+  {
+   "cn": "追踪调查",
+   "en": "tracking investigation",
+   "source": "老年医学名词",
+   "wordNumber": "02.024",
+   "subjectFullName": "老年医学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2017",
+   "definition": "按踪迹或线索追寻对曾经的被调查者再次熟悉情况、了解事实、收集数据和占有材料的调查方法。"
+  },
+  {
+   "cn": "霍克西调查",
+   "en": "Hoxie investigation",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0333",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "1914年由美国工业关系委员会委托霍克西(Robert Hoxie)主持的有关科学管理同劳工关系的特别调查。霍克西(Robert Hoxie)通过对35个工厂的调查，写了《科学管理与劳工》，指出科学管"
+  },
+  {
+   "cn": "火灾调查",
+   "en": "fire investigation",
+   "source": "林学名词",
+   "wordNumber": "07.362",
+   "subjectFullName": "林学_森林保护_森林防火",
+   "subjectName": "森林防火",
+   "publishYear": "2016",
+   "definition": "火灾过后对起火原因、过火面积、林木损失等项内容进行的调查。"
+  },
+  {
+   "cn": "定性研究",
+   "en": "qualitative investigation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "湿地调查",
+   "en": "wetland investigation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "土地调查",
+   "en": "land investigation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "系统调查",
+   "en": "system investigation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海事调查",
+   "en": "maritime investigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "海洋调查",
+   "en": "marine investigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "研究中新药",
+   "en": "investigational drugs",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "前科学",
+   "en": "pre-scientific",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据库",
+   "en": "scientific database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "坝址勘查",
+   "en": "dam site investigation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "海洋环境调查",
+   "en": "marine environment investigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "海洋生态调查",
+   "en": "marine ecological investigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "海洋资源调查",
+   "en": "marine resources investigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "海洋调查",
+   "en": "oceanographic survey\",\"oceanographic investigation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "路由调查",
+   "en": "route investigation\",\"route survey",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海区资料调查",
+   "en": "sea area information investigation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "探索行为",
+   "en": "investigative behavior\",\"searching behavior",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "调查",
+   "en": "investigation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智慧侦查",
+   "en": "intelligent investigation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流行病学调查（流调）",
+   "en": "epidemiological investigation ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学可视化",
+   "en": "scientific visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据",
+   "en": "scientific data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学发现",
+   "en": "scientific discovery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学共同体",
+   "en": "scientific community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学计算",
+   "en": "scientific computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据库",
+   "en": "scientific databases",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程侦查指挥",
+   "en": "remote investigation command",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学大数据",
+   "en": "Scientific Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科研众筹",
+   "en": "scientific research crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国科学数据》",
+   "en": "China Scientific Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据行动",
+   "en": "Scientific Data Movement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据引用",
+   "en": "scientific data citation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准现状调研",
+   "en": "data standard status investigation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "AI侦查员助理",
+   "en": "AI assistant to investigator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "调查水平",
+   "en": "investigation level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.12",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "审管部门所规定的剂量或摄入量的一个数值。达到或超过这一数值时应进行调查。"
+  },
+  {
+   "cn": "卫生学调查",
+   "en": "hygiene investigation",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.20",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "依据相关的法规、标准和技术规范，按照卫生学评价的目的和方法，对食物中毒现场和人群开展健康危害因素识别和分析的过程。"
+  },
+  {
+   "cn": "个案调查",
+   "en": "case investigation",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.8.4.1",
+   "subjectFullName": "军事预防医学_军队流行病学_军队突发公共卫生事件",
+   "subjectName": "军队突发公共卫生事件",
+   "publishYear": "2025",
+   "definition": "针对军队发生的单个病例进行的流行病学调查工作。目的是核实病例发病实际情况、查明其基本信息，以确定发生原因和影响因素。"
+  },
+  {
+   "cn": "暴发调查",
+   "en": "outbreak investigation",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.8.4.2",
+   "subjectFullName": "军事预防医学_军队流行病学_军队突发公共卫生事件",
+   "subjectName": "军队突发公共卫生事件",
+   "publishYear": "2025",
+   "definition": "针对军队发生疾病暴发所开展的现场流行病学调查工作，目的是查明暴发原因和采取有针对性的控制措施对暴发进行及时处置。"
+  },
+  {
+   "cn": "调查会",
+   "en": "investigation meeting",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0653",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "开调查会是国内各种调查的一种最常用的方法。在民族地区，调查回忆是一种易于被接受的形式。开调查会，应得到当地主管部门的支持和配合。调查会之前，应例行听取当地主管部门领导的介绍，一是熟悉当地情况，二是取得"
+  },
+  {
+   "cn": "学会",
+   "en": "scientific society",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "从事某一学科的人组成的、便于进行学术交流，开展学术活动和进行友好交往的群众性学术研究团体。"
+  },
+  {
+   "cn": "科学争论",
+   "en": "scientific debate",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.13",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "因概念、方法、解释和应用等方面出现分歧而发生的论争，是科学知识集体生产的一个重要组成部分，也是科学发展最重要的创造性因素之一。"
+  },
+  {
+   "cn": "科学激励",
+   "en": "scientific inspiration",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.16",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "促成科学的兴起与发展的重要因素之一，分为外在因素和内在因素：前者包括社会经济、军事等实用的需要以及宗教、文化等价值因素；后者指科学的内在激励方式，比如对科学发现优先权的竞争。"
+  },
+  {
+   "cn": "科学范式",
+   "en": "scientific paradigm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "某一段时期内公认的科学模型或模式，并在此期间为实践共同体提供了典型问题和解答。通常表现为处于该模型或模式下的研究者都承诺同样的规则和标准来从事科学实践。"
+  },
+  {
+   "cn": "科学生产率",
+   "en": "scientific productivity",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "描述科学家的科学成果的产出率的指标。"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "科学共同体做出的一系列新的承诺或共识，并建立一个科学实践的新基础，即科学共同体专业承诺发生了转移，打破了传统的活动，实现从一个范式到另一个范式的转变过程。"
+  },
+  {
+   "cn": "科学必然性",
+   "en": "scientific inevitability",
+   "source": "马克思主义",
+   "wordNumber": "01.0054",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与哲学必然性相区别。是科学研究的对象。是指事物内部、现象背后的不依赖于人的意识而存在的事物联系与发展过程的本质，是自然、社会和人类思维所固有的客观规律性。科学的任务就是要透过复杂的偶然现象来揭露事物发"
+  },
+  {
+   "cn": "科学社会主义",
+   "en": "scientific socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0003",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由马克思、恩格斯为无产阶级和全人类解放而创立和不断发展的科学，是由资本主义社会转向社会主义社会和社会主义、共产主义社会发展规律的科学。科学社会主义有广义和狭义两种理解∶广义上，科学社会主义即共产主义学"
+  },
+  {
+   "cn": "科学执政",
+   "en": "scientific governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0678",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "结合中国实际不断探索和遵循共产党执政规律、社会主义建设规律、人类社会发展规律，以科学的理论、科学的思想、科学的制度、科学的方式组织和带领人民共同建设中国特色社会主义。"
+  },
+  {
+   "cn": "科学辩证法",
+   "en": "scientific dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0076",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代德拉·沃尔佩（Galvano DellaVolpe）提出“新实证主义的马克思主义”，认为马克思的辩证法，其本质是“科学的辩证法”，是对客观事物本质和规律的揭示，是一种实证的逻辑，而非抽"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "大多数科学家们放弃旧范式而接受新方案时，实现范式转换的过程。在这一过程中，往往社会性因素起主要作用，而非遵守普遍适用的合理性规则。"
+  },
+  {
+   "cn": "个案调查",
+   "en": "individual case investigation",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "对个别发生的病例本人、病例的家庭及周围环境进行的流行病学调查。"
+  },
+  {
+   "cn": "科学研究纲领",
+   "en": "scientific research program",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "典型的描述重大科学成就的单位，由硬核、与之相关的由辅助假说构成的“保护带”和启发法构成。"
+  },
+  {
+   "cn": "非洲科学社会主义",
+   "en": "African scientific socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0259",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "非洲社会主义的一个重要流派，宣称奉行马克思主义的科学社会主义，是一种自称的“科学社会主义”。该模式认为马克思主义普遍适用于非洲地区，提出以社会主义、共产主义为最终目标，并在执政时期实行了一系列激进措施"
+  },
+  {
+   "cn": "异常结果调查",
+   "en": "investigation of abnormal result",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "当工作人员职业外照射个人监测结果超过调查水平时进行的调查。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

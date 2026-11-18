@@ -1,0 +1,612 @@
+{
+ "key": "metabolism",
+ "term": "metabolism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:51:39+00:00",
+ "status": "ok",
+ "note": "variant=metabolism; 审定公布名词库=445; 海峡两岸名词对照库=103; 其他来源数据库=5; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "普通外科学名词",
+   "wordNumber": "08.001",
+   "subjectFullName": "医学_普通外科学_代谢与营养",
+   "subjectName": "代谢与营养",
+   "publishYear": "2026",
+   "definition": "生物体从环境中摄取营养物质转化为自身物质，同时将自身原有组成物转变为废物排出到环境中的不断更新的过程。"
+  },
+  {
+   "cn": "代谢病学",
+   "en": "metabolism",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.013",
+   "subjectFullName": "总论_学科概述",
+   "subjectName": "学科概述",
+   "publishYear": "2025",
+   "definition": "研究机体代谢过程中代谢调节、生理功能和与代谢异常相关性疾病的机制、诊断和防治的学科。"
+  },
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "总论_内分泌系统与代谢",
+   "subjectName": "内分泌系统与代谢",
+   "publishYear": "2025",
+   "definition": "机体从环境摄取营养物转变为自身物质，同时将自身原有组成物转变为废物排出到环境中的不断更新的过程。是机体生命活动的基础。包括物质的合成代谢和分解代谢两个过程。"
+  },
+  {
+   "cn": "新陈代谢",
+   "en": "metabolism",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0001",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_概述_水溶性维生素",
+   "subjectName": "水溶性维生素",
+   "publishYear": "2024",
+   "definition": "生物体从环境摄取营养物质转化为自身物质，同时将自身原有组成物转变为废物排出到环境中的不断更新的过程。为生物体内发生的各种酶促反应的总称。主要包括物质消化、吸收、合成、分解、转化，能量的生成与利用等。包"
+  },
+  {
+   "cn": "新陈代谢",
+   "en": "metabolism",
+   "source": "兽医学名词",
+   "wordNumber": "04.010",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "生物体与环境之间不断进行物质和能量的交换，以实现自我更新的过程。包括同化作用和异化作用两个方面。"
+  },
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "动物学名词",
+   "wordNumber": "1.018",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "动物体内所发生的用于维持生命的一系列有序化学反应的总称。"
+  },
+  {
+   "cn": "新陈代谢",
+   "en": "metabolism",
+   "source": "畜牧学名词",
+   "wordNumber": "07.301",
+   "subjectFullName": "畜牧学_饲料与营养_营养生理与生化_消化吸收",
+   "subjectName": "消化吸收",
+   "publishYear": "2020",
+   "definition": "动物机体与外界环境之间的物质和能量交换，以及生物体内物质和能量的转变过程。包括物质代谢和能量代谢。"
+  },
+  {
+   "cn": "新陈代谢",
+   "en": "metabolism",
+   "source": "生理学名词",
+   "wordNumber": "09.012",
+   "subjectFullName": "生理学_能量代谢和体温",
+   "subjectName": "能量代谢和体温",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0219",
+   "subjectFullName": "食品科学技术_食品科学_食品微生物学_食品微生物营养与代谢",
+   "subjectName": "食品微生物营养与代谢",
+   "publishYear": "2020",
+   "definition": "生物体从环境摄取营养物转变为自身物质，同时将自身原有组分转变为废物排出到环境中的不断更新的过程。"
+  },
+  {
+   "cn": "新陈代谢",
+   "en": "metabolism",
+   "source": "运动医学名词",
+   "wordNumber": "02.121",
+   "subjectFullName": "运动医学_运动生理_物质与能量代谢",
+   "subjectName": "物质与能量代谢",
+   "publishYear": "2019",
+   "definition": "生物体从环境摄取营养物转变为自身物质，同时将自身原有组成转变为废物排出到环境中的不断更新的过程。"
+  },
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "03.001",
+   "subjectFullName": "肠外肠内营养学_基础营养_其他",
+   "subjectName": "其他",
+   "publishYear": "2019",
+   "definition": "人体内所发生的用于维持生命的一系列有序化学反应的总称。通常包括物质代谢和能量代谢。"
+  },
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "植物学名词",
+   "wordNumber": "11.0326",
+   "subjectFullName": "植物学_植物生理学_植物呼吸作用",
+   "subjectName": "植物呼吸作用",
+   "publishYear": "2019",
+   "definition": "生物体内发生的用于维持生命的一系列有序的化学反应的总称。这些反应进程使得生物体能够生长和繁殖、保持它们的结构以及对外界环境做出反应。通常分为合成代谢与分解代谢两大类。"
+  },
+  {
+   "cn": "新陈代谢派",
+   "en": "metabolism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0366",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "20世纪50年代末，一批日本年轻建筑师和设计师在“新陈代谢”旗帜下形成的先锋团体。他们认为未来城市将会有大量人口居住，其大尺度、可变性以及可延伸结构的特点就像有机体的生长过程一样，形式与功能间的传统法"
+  },
+  {
+   "cn": "新陈代谢",
+   "en": "metabolism",
+   "source": "药学名词",
+   "wordNumber": "05.010",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "生物体内全部有序化学变化的总称，包括物质代谢和能量代谢两个方面。"
+  },
+  {
+   "cn": "新陈代谢",
+   "en": "metabolism",
+   "source": "微生物学名词",
+   "wordNumber": "05.185",
+   "subjectFullName": "微生物学_微生物生理生化",
+   "subjectName": "微生物生理生化",
+   "publishYear": "2012",
+   "definition": "生物体从环境摄取营养物质转化为自身物质，同时将自身原有组成物转变为废物排出到环境中的不断更新的过程。"
+  },
+  {
+   "cn": "新陈代谢",
+   "en": "metabolism",
+   "source": "航天科学技术名词",
+   "wordNumber": "11.117",
+   "subjectFullName": "航天科学技术_航天医学与载人航天",
+   "subjectName": "航天医学与载人航天",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "化学工程名词",
+   "wordNumber": "06.188",
+   "subjectFullName": "化学工程_生物化学工程_生化反应工程_细胞生长与代谢",
+   "subjectName": "细胞生长与代谢",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "物质代谢",
+   "en": "material metabolism,substance metabolism",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "肠外肠内营养学_基础营养_其他",
+   "subjectName": "其他",
+   "publishYear": "2019",
+   "definition": "物质在人体内消化、吸收、转运、分解等与生理有关的化学过程。包括合成代谢和分解代谢两个方面。"
+  },
+  {
+   "cn": "物质代谢",
+   "en": "material metabolism;substance metabolism",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0002",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_概述_水溶性维生素",
+   "subjectName": "水溶性维生素",
+   "publishYear": "2024",
+   "definition": "物质在生物体内消化、吸收、转运、分解等与生理有关的化学过程。包括合成代谢和分解代谢两个方面。"
+  },
+  {
+   "cn": "代谢紊乱",
+   "en": "metabolic disorder, metabolic disturbance",
+   "source": "感染病学名词",
+   "wordNumber": "04.0286",
+   "subjectFullName": "感染病学_特殊感染及感染相关问题_感染性休克",
+   "subjectName": "感染性休克",
+   "publishYear": "2019",
+   "definition": "机体代谢功能失调的现象。常见的有糖代谢障碍、生物合成或转化功能障碍。"
+  },
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "［新陈］代谢",
+   "en": "metabolism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "新陈代谢, 代谢",
+   "en": "metabolism",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "新陈代谢，代谢",
+   "en": "metabolism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "代谢偶联",
+   "en": "metabolic coupling\",\"metabolic cooperation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代谢植物学",
+   "en": "metabolism botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "初生代谢",
+   "en": "primary metabolism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "次生代谢",
+   "en": "secondary metabolism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能量代谢",
+   "en": "energy metabolism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水[分]代谢",
+   "en": "water metabolism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中间代谢",
+   "en": "intermediary metabolism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "葡萄糖代谢",
+   "en": "glucose metabolism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群落代谢",
+   "en": "community metabolism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初生代谢",
+   "en": "primary metabolism",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "次生代谢",
+   "en": "secondary metabolism",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基础代谢",
+   "en": "basal metabolism",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "能量代谢",
+   "en": "energy metabolism",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代谢",
+   "en": "metabolism",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.2.3",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "生物体从环境摄取营养物转变为自身物质，同时将自身原有组分转变为废物排出到环境中的不断更新的过程。"
+  },
+  {
+   "cn": "新陈代谢断裂",
+   "en": "metabolism rift",
+   "source": "马克思主义",
+   "wordNumber": "05.0189",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "美国俄勒冈大学社会学教授约翰·贝拉米·福斯特（John Bellamy Foster）在《马克思的代谢断裂理论》《马克思的生态学：唯物主义与自然》《生态学反对资本主义》等文章和著述中使用的概念。在他看"
+  },
+  {
+   "cn": "代谢适能",
+   "en": "metabolism fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "人体有效地通过新陈代谢从食物和环境中获得营养供应，满足生物合成需求以及为生命活动提供能量，不出现代谢异常的能力。"
+  },
+  {
+   "cn": "能量代谢",
+   "en": "energy metabolism",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.1.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在军事作业过程中机体能量的释放、转移、贮存和利用"
+  },
+  {
+   "cn": "无氧代谢",
+   "en": "anaerobic metabolism",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.1.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "肌肉剧烈运动时氧供应满足不了需要，肌肉即利用三磷酸腺苷(ATP)、磷酸肌酸(CP)的无氧分解和糖的无氧酵解生成乳酸，释放出能量，再合成三磷酸腺苷供给肌肉需要的一种代谢过程。"
+  },
+  {
+   "cn": "有氧代谢",
+   "en": "aerobic metabolism",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.1.1.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "有氧条件下，各种物质的氧化代谢过程。"
+  },
+  {
+   "cn": "代谢断裂",
+   "en": "metabolic rift",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.13",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "积累逻辑破坏自然再生产的基本过程并导致生态可持续性的退化。"
+  },
+  {
+   "cn": "代谢性肌病",
+   "en": "metabolic myopathies",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.9",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一类以肌纤维线粒体功能异常、糖原及脂质代谢紊乱导致能量产生障碍而引起的骨骼肌无力和萎缩的疾病，可伴多个器官系统受累。依据代谢环节受累的不同，可分为线粒体肌病及脑肌病、脂质沉积性肌病和糖原贮积病；各类型"
+  },
+  {
+   "cn": "代谢性酸中毒",
+   "en": "metabolic acidosis",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.6.22",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "甲醇食物中毒的主要特征之一，起因于体液碳酸氢根降低，pH 降低，导致体内酸碱平衡状态破坏，而引起的病理生理过程。"
+  },
+  {
+   "cn": "代谢当量",
+   "en": "metabolic equivalent, MET",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "身体活动时的代谢率与标准的静息代谢率的比值，是活动时相对能量代谢水平的常用指标。"
+  },
+  {
+   "cn": "遗传代谢性疾病筛查",
+   "en": "genetic metabolic disease screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "通过血液检查对某些危害严重的先天性代谢病及内分泌病进行的群体筛查，使患儿得以早期诊断，早期治疗，防止机体组织器官发生不可逆的损伤。目前全国普遍筛查的病种包括先天性甲状腺素功能减低症、苯丙酮尿症等。"
+  },
+  {
+   "cn": "妊娠期代谢特点",
+   "en": "metabolic characteristic during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "孕期妇女除了满足自身基础代谢、身体活动以及食物特殊动力作用需要外，还需使机体保持适于胚胎/胎儿生长发育的生理环境，支持母体和胚胎/胎儿生长发育相关合成代谢，并在母体内储备营养素，供产后泌乳动用的生理特"
+  },
+  {
+   "cn": "代谢紊乱型食源性疾病",
+   "en": "metabolic disordered foodborne diseases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由于代谢酶遗传或功能缺陷，导致某种食物成分不能被正常代谢而引发的一种疾病状态"
+  },
+  {
+   "cn": "高温作业代谢",
+   "en": "metabolism working in hot environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.3.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业",
+   "subjectName": "高温作业",
+   "publishYear": "2025",
+   "definition": "在进行高温作业时，机体发生的一系列有序化学反应的总称。"
+  },
+  {
+   "cn": "哺乳期妇女代谢特点",
+   "en": "metabolic characteristic of lactating woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.2",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "由于产后雌激素和孕激素迅速下降，催乳素分泌增加，以乳汁分泌，各器官系统逐渐恢复，哺乳期妇女能量和营养素存在额外需要为特征的状态。"
+  },
+  {
+   "cn": "代谢型冷习服",
+   "en": "enhanced metabolic type cold-acclimation",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.5.1",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷习服",
+   "subjectName": "冷习服",
+   "publishYear": "2025",
+   "definition": "机体为了抵御寒冷，保持体心温度恒定，出现代谢活动增强、氧耗增加，产热增加，以非寒战产热为主的习服类型。"
+  },
+  {
+   "cn": "高温作业营养代谢",
+   "en": "nutrition metabolism working in hot environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.3.2.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业",
+   "subjectName": "高温作业",
+   "publishYear": "2025",
+   "definition": "高温环境对人体营养代谢、营养需要量及营养物质改善机体耐高温环境能力的影响。"
+  },
+  {
+   "cn": "高温作业维生素代谢",
+   "en": "vitamin metabolism working in hot environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.3.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业",
+   "subjectName": "高温作业",
+   "publishYear": "2025",
+   "definition": "高温环境对人体维生素代谢、需要量及维生素改善机体耐高温环境作用的影响。"
+  },
+  {
+   "cn": "水盐代谢紊乱",
+   "en": "disorders of water and salt metabolism",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.5.2.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业机体变化",
+   "subjectName": "高温作业机体变化",
+   "publishYear": "2025",
+   "definition": "高温作业时，大量出汗造成的水、盐丢失，可导致水和电解质紊乱，甚至引起热痉挛。一个工作日出汗6L，为生理最高限度，失水不应超过体重的1.5%。"
+  },
+  {
+   "cn": "高温作业能量代谢",
+   "en": "energy metabolism working in hot environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.3.2.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业",
+   "subjectName": "高温作业",
+   "publishYear": "2025",
+   "definition": "高温环境对人体能量代谢、能量需要量及产能营养物质改善机体耐高温环境作用的影响。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "higher education",
+ "term": "higher education",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:36:34+00:00",
+ "status": "ok",
+ "note": "variant=higher education; 审定公布名词库=4465; 海峡两岸名词对照库=1127; 其他来源数据库=199; 预公布名词数据库=343; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "高等教育",
+   "en": "higher education",
+   "source": "教育学名词",
+   "wordNumber": "08.001",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "在完成中等教育基础上进行的各种学术性、专门性教育。"
+  },
+  {
+   "cn": "高等学校",
+   "en": "higher education institution",
+   "source": "教育学名词",
+   "wordNumber": "08.033",
+   "subjectFullName": "教育学_高等教育_院校组织",
+   "subjectName": "院校组织",
+   "publishYear": "2013",
+   "definition": "泛指实施高等教育的学校，包括普通高等学校、成人高等学校等。"
+  },
+  {
+   "cn": "高等教育大众化",
+   "en": "higher education massification",
+   "source": "教育学名词",
+   "wordNumber": "08.003",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "高等教育由“英才高等教育”走向“大众高等教育”的发展过程。"
+  },
+  {
+   "cn": "高等财经教育",
+   "en": "higher education infinance",
+   "source": "教育学名词",
+   "wordNumber": "08.009",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "由高等财经院校或系科为主实施的以传授财经学科知识，培养从事财经专业工作所需能力为主要内容的高等教育。"
+  },
+  {
+   "cn": "高等教育学",
+   "en": "higher education pedagogy",
+   "source": "教育学名词",
+   "wordNumber": "08.023",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "以高等教育自身的特殊矛盾与发展规律为研究对象，揭示高等教育与社会发展和人的发展之间的基本关系，探寻高等教育运行变化基本轨迹的学科。"
+  },
+  {
+   "cn": "高等教育研究",
+   "en": "higher education research",
+   "source": "教育学名词",
+   "wordNumber": "08.031",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "泛指对高等教育领域内各种现象及相关问题所展开的探究活动，包括理论研究、应用研究、对策研究等。"
+  },
+  {
+   "cn": "高等教育管理学",
+   "en": "higher education management",
+   "source": "教育学名词",
+   "wordNumber": "08.025",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "研究高等教育事业的宏观管理和高等学校内部管理的现象和规律的学科。"
+  },
+  {
+   "cn": "高等医学教育",
+   "en": "higher education inmedicine",
+   "source": "教育学名词",
+   "wordNumber": "08.008",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "由高等医科院校或系科为主实施的以传授医学或药学知识，培养从事医务工作所需能力为主要内容的高等教育。"
+  },
+  {
+   "cn": "高等工程教育",
+   "en": "higher education inengineering",
+   "source": "教育学名词",
+   "wordNumber": "08.007",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "由高等工科院校或系科为主实施的以传授工程学科知识，培养从事工程技术工作所需能力为主要内容的高等教育。"
+  },
+  {
+   "cn": "高等教育未来学",
+   "en": "higher education futurology",
+   "source": "教育学名词",
+   "wordNumber": "08.030",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "研究高等教育未来发展趋势的学科。"
+  },
+  {
+   "cn": "高等工程教育",
+   "en": "higher engineering education",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.232",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "各国为提供工业发展的人才和智力支持，直接推动技术革命和产业革命，以达到发展本国社会经济，增强综合国力和国际竞争力的目的，而创办的各类工程大学或工程学院等。推行工程教育的法制化。"
+  },
+  {
+   "cn": "大众高等教育",
+   "en": "mass higher education",
+   "source": "教育学名词",
+   "wordNumber": "08.005",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "美国学者马丁·特罗提出的“高等教育发展三阶段”中的第二阶段。该阶段的量化指标为毛入学率在15％～50％之间。"
+  },
+  {
+   "cn": "高等特殊教育",
+   "en": "higher special education",
+   "source": "教育学名词",
+   "wordNumber": "10.041",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "特殊教育体系的高等阶段。在有特殊教育需要者完成中等教育基础上实施的各种专业性和应用性的专门教育。"
+  },
+  {
+   "cn": "高等职业教育",
+   "en": "higher vocational education",
+   "source": "教育学名词",
+   "wordNumber": "11.009",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "中国在中等教育基础上，由高等学校或高等教育机构实施的旨在培养一线技术应用型人才和高技能人才的教育。"
+  },
+  {
+   "cn": "比较高等教育",
+   "en": "comparative higher education",
+   "source": "教育学名词",
+   "wordNumber": "05.002",
+   "subjectFullName": "教育学_比较教育_学科与国际组织",
+   "subjectName": "学科与国际组织",
+   "publishYear": "2013",
+   "definition": "比较教育的一个研究领域。主要通过对当代世界上不同国家、民族或地区的高等教育制度、政策、理论、改革实践、课程与教学等进行比较研究，在比较中探索和发现高等教育发展的内在规律。"
+  },
+  {
+   "cn": "高等军事教育",
+   "en": "higher military education",
+   "source": "教育学名词",
+   "wordNumber": "08.013",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "由高等军事院校或系科为主实施的以传授军事知识、培养军事素养和技能为主要内容的高等教育。"
+  },
+  {
+   "cn": "高等函授教育",
+   "en": "correspondence higher education",
+   "source": "教育学名词",
+   "wordNumber": "12.099",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "高等教育的实施形式之一。授课方式以函授为主，面授为辅，学习方式以自学为主，并利用业余时间进行学习。实行定期考核制度，全部课业合格者可以获得高等教育学历证书。"
+  },
+  {
+   "cn": "普及高等教育",
+   "en": "universal higher education",
+   "source": "教育学名词",
+   "wordNumber": "08.006",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "美国学者马丁·特罗提出的“高等教育发展三阶段”中的第三阶段。该阶段的量化指标为毛入学率在50％以上。"
+  },
+  {
+   "cn": "英才高等教育",
+   "en": "elite higher education",
+   "source": "教育学名词",
+   "wordNumber": "08.004",
+   "subjectFullName": "教育学_高等教育_高等教育及高等教育学科",
+   "subjectName": "高等教育及高等教育学科",
+   "publishYear": "2013",
+   "definition": "美国学者马丁·特罗提出的“高等教育发展三阶段”中的第一阶段。该阶段的量化指标为毛入学率在15％以下。三个阶段在质的方面，如高等教育的观念、功能、管理和课程等也存在差异。"
+  },
+  {
+   "cn": "成人高等教育",
+   "en": "adult higher education",
+   "source": "教育学名词",
+   "wordNumber": "12.058",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "按照相关规定，采取多种方式，对在职或非在职成人所实施的属高等教育范畴的教育活动。"
+  },
+  {
+   "cn": "高等植物",
+   "en": "higher plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高高潮",
+   "en": "higher high water",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有胚植物（=高等植物）",
+   "en": "embryophyte (=higher plant)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高阶闭合",
+   "en": "higher-order closure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高核簇",
+   "en": "higher nuclearity cluster",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "高低潮",
+   "en": "higher low water",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "高阶光孤子",
+   "en": "higher-order soliton",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高阶逻辑",
+   "en": "higher order logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高高潮",
+   "en": "higher high water\",\"HHW",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "高高潮",
+   "en": "higher high water\",\"HHW",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "高高潮间隙",
+   "en": "higher high water interval",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯教育",
+   "en": "career education",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地理教育",
+   "en": "geographical education",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "教育地图集",
+   "en": "education atlas",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "胸腺培育， 胸腺驯育",
+   "en": "thymic education",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "胸腺驯育",
+   "en": "thymic education",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "远星点",
+   "en": "apoastron\",\"higher apse\",\"apastron",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "高低潮",
+   "en": "higher low water\",\"HLW",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "高低潮",
+   "en": "higher low water\",\"HLW",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "教育测验",
+   "en": "educational testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全专业教育",
+   "en": "higher education in information security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乐教",
+   "en": "Music Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网教育",
+   "en": "Internet education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程教育",
+   "en": "distance education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛在教育",
+   "en": "ubiquitous education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "师法之化",
+   "en": "Enlightenment Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因材施教",
+   "en": "Audience-based Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化",
+   "en": "Wenhua (Cultural Education)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融消费者教育",
+   "en": "financial consumer education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教育扶贫",
+   "en": "poverty alleviation through education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧文教",
+   "en": "Smart Culture and Education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教育与培训2020（ET 2020）",
+   "en": "Education and Training 2020 (ET 2020)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教化",
+   "en": "Shaping the Mind Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有教无类",
+   "en": "Education for All Without Discrimination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教学为先",
+   "en": "Education Must Be Placed First.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高级醇",
+   "en": "higher alcohol",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.9",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "含3 个及以上碳原子醇类的总称，是酒类发酵过程中产生的主要副产物，包括正丙醇、正丁醇、异丁醇、异戊醇等。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "关于性知识、性道德和性行为等方面的教育，一般应在青少年中实施，但不限于这一年龄段。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "家庭教育",
+   "en": "family education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.2",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "家庭中由家长对其子女实施的教育，具有终身教育的特点。家庭教育既是学校教育的基础，又是学校教育的补充和延伸。"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "自由教育",
+   "en": "liberal education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "西方教育史上的一种教育理想，因不同时代涵义有所不同。希腊时期为培养自由民的教育，中世纪时期指通过自由七艺的培养皈依基督的神性，现代自由教育则强调人格的全面发展。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "人文教育",
+   "en": "humanistic education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在通过涵养文化素质塑造健全人格的人性化教育。"
+  },
+  {
+   "cn": "公民教育",
+   "en": "civil education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "培育公民参与国家和社会公共生活、维护公民权利和履行公民义务的各种教育手段。"
+  },
+  {
+   "cn": "公共教育",
+   "en": "public education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "由国家、团体或个人向社会单独或混合提供，为全社会成员分享并服务于全社会的教育形式。"
+  },
+  {
+   "cn": "义务教育",
+   "en": "compulsory education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "适龄儿童和青少年都必须接受，国家、社会、家庭必须予以保证的公益性教育。"
+  },
+  {
+   "cn": "继续教育",
+   "en": "further education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.3",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "面向正规学校教育后所有社会成员,特别是成人的教育活动，是终身学习体系的组成部分。"
+  },
+  {
+   "cn": "国民教育",
+   "en": "popular education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.4",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "每个出生在特定国度中的人都有权接受的教育。例如在未成年前须接受的义务教育，以及此后的职业技术教育、中等教育和高等教育等。"
+  },
+  {
+   "cn": "精英教育",
+   "en": "elite education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.5",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养国家和社会精英的专门教育。与“大众教育”相对。"
+  },
+  {
+   "cn": "绅士教育",
+   "en": "gentle education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.6",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "由洛克提出的教育理念，目的是培养身心健全、有学识礼的具有典型英国资产阶级理想人格的绅士阶层。"
+  },
+  {
+   "cn": "矫正教育",
+   "en": "correctional education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.6.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在治疗、改变和塑造越轨者观念与心理行为，培养越轨者重新遵循社会规范的心理能力和社会能力的教育过程。"
+  },
+  {
+   "cn": "传统教育",
+   "en": "traditional education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.9",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "泛指在一定历史时期形成的流行的、具有影响的教育思想、制度和方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

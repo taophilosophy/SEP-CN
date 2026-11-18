@@ -1,0 +1,632 @@
+{
+ "key": "linguistic competence",
+ "term": "linguistic competence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:03:35+00:00",
+ "status": "ok",
+ "note": "variant=linguistic competence; 审定公布名词库=148; 海峡两岸名词对照库=44; 其他来源数据库=10; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "语言能力",
+   "en": "competence,language competence,linguistic competence",
+   "source": "语言学名词",
+   "wordNumber": "01.133",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "与“语言运用”相对。在语言学理论，特别是转换生成语法中，指说话人的语言知识。即已经掌握语言的规则系统，使得说话者可以生成无限多的合乎语法的句子，并且能够识别语法错误。语言能力是一种理想化的语言概念。"
+  },
+  {
+   "cn": "胜任力",
+   "en": "competence,competency",
+   "source": "心理学名词",
+   "wordNumber": "12.107",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "能将优秀者与平庸者区分开来的动机、特质、形象、态度、价值观、知识、认知或行为技能等多种个体能力特征的组合。"
+  },
+  {
+   "cn": "感受态",
+   "en": "competence",
+   "source": "农学名词",
+   "wordNumber": "15.042",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "微生物生活周期中的特定阶段，或在理化因子诱导下，受体细胞呈现出易于接受外源DNA的暂时性生理状态。"
+  },
+  {
+   "cn": "感受态",
+   "en": "competence",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.006",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "受体细胞处于易接受外源DNA转化时的生理状态。"
+  },
+  {
+   "cn": "反应能力",
+   "en": "competence",
+   "source": "动物学名词",
+   "wordNumber": "4.0565",
+   "subjectFullName": "动物学_动物胚胎学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2021",
+   "definition": "一种组织或细胞对某种特异性诱导信号发出反应而向着一定方向分化的能力。"
+  },
+  {
+   "cn": "胜任特征",
+   "en": "competence",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0443",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "将某一职位中高绩效员工与绩效一般员工区分开来的个人潜在特征。"
+  },
+  {
+   "cn": "感受性",
+   "en": "competence",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "20.073",
+   "subjectFullName": "组织学与胚胎学_胚胎学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "组织和细胞对诱导信号的反应能力。"
+  },
+  {
+   "cn": "感受态",
+   "en": "competence",
+   "source": "微生物学名词",
+   "wordNumber": "06.151",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "微生物生活周期中的特定阶段或理化因子处理的受体细胞呈现为易于接受外源DNA的暂时性生理状态。"
+  },
+  {
+   "cn": "感受态",
+   "en": "competence",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.220",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "(1)细胞对信号刺激具有反应潜能的状态。（2）受体细胞处于易接受外源DNA转化时的生理状态。"
+  },
+  {
+   "cn": "感受态",
+   "en": "competence",
+   "source": "遗传学名词",
+   "wordNumber": "03.675",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "受体细胞处于易接受异源DNA转化时的生理状态。"
+  },
+  {
+   "cn": "能干性",
+   "en": "competency",
+   "source": "地质学名词",
+   "wordNumber": "09.02.140",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "岩石抵抗外力作用而发生变形的能力。在相同的变形条件下能干的岩石比不能干的岩石不易发生黏性流动。"
+  },
+  {
+   "cn": "胜任力",
+   "en": "competency",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0132",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "与工作情景相联系的各项素质的有机组合。是人们适应工作或管理环境，产生具体绩效和工作成就的个体特征(知识、技能和态度等)之和。"
+  },
+  {
+   "cn": "强干",
+   "en": "competent",
+   "source": "地质学名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语言学",
+   "en": "linguistics",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.017",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "研究人类语言的学科。包括语言的本质、发展和起源，以及语言的结构、功能、类型等。传统的语言学以研究古代文献和书面语为主，现代语言学以当代语言和口语为主。"
+  },
+  {
+   "cn": "语言学",
+   "en": "linguistics",
+   "source": "语言学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "语言学_理论语言学_学科",
+   "subjectName": "学科",
+   "publishYear": "2011",
+   "definition": "研究人类语言的学科。包括语言的本质、发展和起源以及语言的结构、功能、类型等等。传统的语言学以研究古代文献和书面语为主，现代语言学以当代语言和口语为主。从不同的角度，可以划分不同的门类或分支，如理论语言"
+  },
+  {
+   "cn": "历时语言学",
+   "en": "diachronic linguistics,historical linguistics",
+   "source": "语言学名词",
+   "wordNumber": "01.007",
+   "subjectFullName": "语言学_理论语言学_学科",
+   "subjectName": "学科",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。描写与研究一种或多种语言在一定时间跨度内所经历的种种变化。在现代语言学出现之前，大部分语言学者都从事这种语言的历史性演化的研究。共时语言学与历时语言学的分立，标志着语言学从印欧语系的"
+  },
+  {
+   "cn": "结构语言学派",
+   "en": "structural linguistics,structuralist linguistics",
+   "source": "语言学名词",
+   "wordNumber": "01.047",
+   "subjectFullName": "语言学_理论语言学_学派",
+   "subjectName": "学派",
+   "publishYear": "2011",
+   "definition": "语言学的一个重要流派。20世纪30年代在欧洲兴起，基本理论源于索绪尔（Ferdinand de Saussure）的《普通语言学教程》，认为语言是一个符号系统，反对对语言现象进行孤立的分析，主张系统的"
+  },
+  {
+   "cn": "沟通能力",
+   "en": "communication competence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.159",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "进行有效与恰当沟通的技能。包括沟通者如何根据沟通的语境和对象，运用其他沟通过程中的因素，来调整自身的沟通方式。"
+  },
+  {
+   "cn": "社交能力",
+   "en": "social competence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.16",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "一种后天习得的，能够促进自己和他人与社会进行良性互动与交流的沟通技能。"
+  },
+  {
+   "cn": "讯息能力",
+   "en": "message competence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.161",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "能选择使用清晰、简洁、准确的信息交流，传达自己的想法和目的，同时也能对他人所传递的信息予以准确理解的一种具有良好互动效果与效率的沟通技能。"
+  },
+  {
+   "cn": "胜任力",
+   "en": "competence\",\"competency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "搬运力",
+   "en": "competence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "感受态",
+   "en": "competence",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "感受态",
+   "en": "competence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反应能力",
+   "en": "competence",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "语言学",
+   "en": "linguistics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语言学者",
+   "en": "linguists",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "文化胜任力",
+   "en": "cultural competence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "免疫潜能",
+   "en": "immunological competence",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "称职",
+   "en": "professional competence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "胜任［力］模型",
+   "en": "competency model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感受态细胞",
+   "en": "competent cell",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感受态细胞",
+   "en": "competent cell",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "语言智力",
+   "en": "linguistic intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语言地理学",
+   "en": "linguistic geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "语言学理论",
+   "en": "linguistic theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语言学模型",
+   "en": "linguistic model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比较语言学",
+   "en": "comparative linguistics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能语言学",
+   "en": "functional linguistics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计量语言学",
+   "en": "quantitative linguistics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "compete\",\"play\",\"combat\",\"contest\",\"fight\",\"match\",\"game\",\"race\",\"competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "“七个强化”",
+   "en": "the “Seven Strengthening” (strengthening theoretical competence, the sense of mission, responsibility, work in poverty alleviation, the awareness of development, honesty and self-discipline, and organizational construction)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "语言能力",
+   "en": "linguistic competence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0051",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与“语言运用”相对。在语言学理论，特别是转换生成语法中，指说话人的语言知识。即已经掌握语言的规则系统，使得说话者可以生成无限多的合乎语法的句子，并且能够识别语法错误。语言能力是一种理想化的语言概念。"
+  },
+  {
+   "cn": "交际能力",
+   "en": "communicative competence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0112",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "运用语言进行社会交际的能力。"
+  },
+  {
+   "cn": "主管部门",
+   "en": "competent authority",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "法律授权的官方政府机构，通常指负责食品安全的主管部门"
+  },
+  {
+   "cn": "语言学转向",
+   "en": "linguistic turn",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.18",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "主张历史考察要以语言为切入点的后社会史研究路径。1970年代中期以后，西方史学研究所经历的文化转向和人类学转向，以及此后结构主义和后结构主义的兴起，都对历史学家和社会学家转向文化和语言起到了重要推动作"
+  },
+  {
+   "cn": "语码",
+   "en": "linguistic code",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0108",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "可以指任何语言项目及其变异形式。"
+  },
+  {
+   "cn": "语言人类学",
+   "en": "linguistic anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0076",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的分支学科。综合运用文化人类学（民族学）和语言学的理论与方法，研究语言结构、语言变化、象征体系、象征意义和社会文化结构的关系的一门学科。"
+  },
+  {
+   "cn": "语境",
+   "en": "linguistic context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0106",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "影响语言发生变异的社会环境。也指言语交际活动所处的社会环境，包括情景和社会文化背景。研究语言变异不能离开具体的语言使用的社会环境，是社会语言学有别于一般语言学的一个特征。"
+  },
+  {
+   "cn": "语言运用",
+   "en": "linguistic performance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0052",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与“语言能力”相对。在语言学理论，特别是转换生成语法中，指本族语者说出的具体语言。"
+  },
+  {
+   "cn": "语言决定论",
+   "en": "linguistic determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0023",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "关于语言与思维关系的一种观点。由19 世纪德国文化人类学家洪堡特（Wilhelm vonHumboldt）提出。认为语言决定人们认识和理解外部世界的方式。20 世纪发展成为萨丕尔—沃尔夫假说。与“人类"
+  },
+  {
+   "cn": "民俗语言学",
+   "en": "folklore linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0478",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以语言学为视点研究语言中的民俗现象和民俗中的语言现象，以及民俗与语言相互关系及运动规律的一门实证性科学。"
+  },
+  {
+   "cn": "历时语言学",
+   "en": "diachronic linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0005",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。研究语言的历史发展与变化。在现代语言学出现之前，大部分语言学者都从事这种语言的历史演化研究。索绪尔提出共时语言学与历时语言学的分立，标志着语言学从印欧语系的比较声韵学进入结构语言学。"
+  },
+  {
+   "cn": "普通语言学",
+   "en": "general linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0002",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。狭义的普通语言学强调语言研究中理论和方法的普遍适用性，偏重于语言的描写、理论构建和比较研究；广义的普通语言学除一般的理论问题外，还包括语音、语法和词汇等的研究。"
+  },
+  {
+   "cn": "结构语言学",
+   "en": "structural linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0022",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个重要流派。20 世纪30 年代在欧洲兴起，基本理论源于索绪尔（Ferdinand deSaussure）的《普通语言学教程》。认为语言是一个符号系统，反对对语言现象进行孤立的分析，主张系统"
+  },
+  {
+   "cn": "共时语言学",
+   "en": "synchronic linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0006",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。描写与研究一种或多种语言在其发展历史的某一时期的状况。主要学派有描写语言学派，为美国“结构主义流派”和“行为主义”的产生提供了理论基础。共时语言学与历时语言学的分立，标志着语言学从印"
+  },
+  {
+   "cn": "历史语言学",
+   "en": "historical linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。描写与研究一种或多种语言在一定时间跨度内所经历的种种变化。内容和方法与“历时语言学”基本相同。研究的材料可以是不同时期该语言的文献记录，也可以是历时或共时亲属语言的同源语料，后一种研"
+  },
+  {
+   "cn": "比较语言学",
+   "en": "comparative linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0004",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "历史语言学的一个分支。主要运用历史比较法研究语言之间的亲缘关系。亲属语言之间的同源词和同源形态之间会有语音对应关系，借此构拟原始祖语的音系和形态。"
+  },
+  {
+   "cn": "民族语言学",
+   "en": "minority linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0001",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "民族语言学有两个不同的含义：一是指语言学和民族学相结合的交叉学科，英文称ethnolinguistics；二是指通用语言以外的少数民族语言的研究。中国多使用后一概念，特指对汉语以外的少数民族语言的研究"
+  },
+  {
+   "cn": "认知语言学",
+   "en": "cognitive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0013",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。20 世纪70 年代末兴起，认为语言能力是人类认知能力的一部分。对一些重要的语言学问题提出新的解释。例如，在范畴化问题上提出了原型理论，认为在多义词的诸多意义中，原型词义是中心，其他"
+  },
+  {
+   "cn": "描写语言学",
+   "en": "descriptive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0007",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。对特定时间的特定语言或方言的各种形式或用法作出全面的、客观的、精确的说明。强调客观性是为了与规定性语言学（prescriptive linguistics）相对比：描写语言学提倡如实"
+  },
+  {
+   "cn": "人类语言学",
+   "en": "anthropological linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0009",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。对于操某种语言的人，研究他们语言和文化行为间的相互关系，从文化角度来研究这个民族的语言系统，并从语言系统本身来解释其文化内涵。学科渊源可以追溯到19 世纪洪堡特（W. Humbold"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

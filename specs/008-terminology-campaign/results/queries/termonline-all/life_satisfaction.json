@@ -1,0 +1,732 @@
+{
+ "key": "life satisfaction",
+ "term": "life satisfaction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:22:52+00:00",
+ "status": "ok",
+ "note": "variant=life satisfaction; 审定公布名词库=3674; 海峡两岸名词对照库=1194; 其他来源数据库=305; 预公布名词数据库=172; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "生活满意度指数",
+   "en": "life satisfaction index",
+   "source": "急救医学名词",
+   "wordNumber": "03.854",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "个人对生活的需要和愿望得到满足的主观满意程度。"
+  },
+  {
+   "cn": "生活满意度指数",
+   "en": "life satisfaction index",
+   "source": "老年医学名词",
+   "wordNumber": "02.005",
+   "subjectFullName": "老年医学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2017",
+   "definition": "个人对生活的需要和愿望得到满足的主观满意程度。"
+  },
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.138",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "顾客在比较其对产品服务品质的期望与实际感受后，所感觉的一种愉悦或失望的程度。反映的是顾客的一种心理状态。"
+  },
+  {
+   "cn": "约束满足",
+   "en": "constrained satisfaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.025",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "变量集合中所有变量的取值使得约束集中的每个约束都成立，或更进一步，并使目标函数最大化。"
+  },
+  {
+   "cn": "工作满意度",
+   "en": "work satisfaction",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.094",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "组织成员对自己的工作能够获得最好结果评估的情绪和情感期待。它源自对个体的工作或者工作经历评估的一种快乐或积极的情绪状态。五个维度代表组织成员情感反应的重要特征：(1)工作为个体提供有趣的任务、学习的机"
+  },
+  {
+   "cn": "性满足",
+   "en": "sexual satisfaction",
+   "source": "行为医学名词",
+   "wordNumber": "12.011",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "由性快感趋于性高潮的极度快慰、舒畅、惬意的反应。"
+  },
+  {
+   "cn": "性满足",
+   "en": "sex satisfaction",
+   "source": "计划生育名词",
+   "wordNumber": "08.044",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "由性快感趋于性高潮的极度愉悦、舒畅、惬意的反应。"
+  },
+  {
+   "cn": "读者满意度",
+   "en": "reader satisfaction",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.301",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "读者在接受图书馆一次或多次服务之后的内心感受和主观评价，是其接受服务的可感知效果与其期望值比较的程度。"
+  },
+  {
+   "cn": "用户满意度",
+   "en": "user satisfaction",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.264",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "用户在接受图书情报机构一次或多次服务之后的内心感受和主观评价，是其接受服务的可感知效果与其期望值比较的程度。"
+  },
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0017",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "一项产品或服务被感知到的绩效表现达成购买者期望的程度。"
+  },
+  {
+   "cn": "工作满意度",
+   "en": "job satisfaction",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0103",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "人们对工作的信念、评价和情感反应。"
+  },
+  {
+   "cn": "满意度",
+   "en": "satisfaction degree",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0444",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "衡量“满意”这一心理状态的指标。例如社会保障满意度，是指社会保障服务对象对政府及其社会保障服务机构提供社会保障资金和服务的供给能力、服务方式和客观效果的满意程度。"
+  },
+  {
+   "cn": "术后满意度",
+   "en": "postoperative satisfaction",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.062",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对手术效果的满意程度。"
+  },
+  {
+   "cn": "工作满意感",
+   "en": "job satisfaction",
+   "source": "心理学名词",
+   "wordNumber": "12.025",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "员工对工作的满意程度。"
+  },
+  {
+   "cn": "满意度评价",
+   "en": "satisfaction evaluation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.062",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "以接受服务者的需要是否被满足作为客观评价的尺度，是终末质量评价的一种方法。"
+  },
+  {
+   "cn": "患者满意度",
+   "en": "patient satisfaction",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.066",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "由患者主观判断获得的卫生服务满足其需求和期望的程度。"
+  },
+  {
+   "cn": "工作满意度",
+   "en": "job satisfaction",
+   "source": "教育学名词",
+   "wordNumber": "15.132",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "个体对于工作及其相关因素的实际感受与工作期望值的对比。"
+  },
+  {
+   "cn": "工作满意度调查",
+   "en": "job satisfaction survey",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0413",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_职位分析与设计",
+   "subjectName": "职位分析与设计",
+   "publishYear": "2016",
+   "definition": "包含自尊、成长、主管、职位、关系、机会、客户及职位权力等十三项要素的满意度测量工具。"
+  },
+  {
+   "cn": "满意型决策",
+   "en": "satisfaction type decision",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0496",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "根据有限理性假设，决策要受到信息、预测、时间等因素的限制，无法实现最优，只能追求足够好，达到有限的满意指标。"
+  },
+  {
+   "cn": "教师工作满意感",
+   "en": "teacher job satisfaction",
+   "source": "教育学名词",
+   "wordNumber": "09.054",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "教师对其所从事职业以及工作条件与状况的一种总体的、带有情绪色彩的感受与态度体验。"
+  },
+  {
+   "cn": "工作满意感",
+   "en": "job satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯满意度",
+   "en": "career satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "赎回价格",
+   "en": "satisfaction price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "约束满足",
+   "en": "constraint satisfaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "清偿债务备忘录",
+   "en": "memorandum of satisfaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "平均寿命",
+   "en": "average life\",\"mean life",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望,估计寿命",
+   "en": "life expectance\",\"life expectancy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生活史,生活周期",
+   "en": "life cycle\",\"life history",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生命带",
+   "en": "life zone\",\"life belt",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生活周期（=生活史）",
+   "en": "life cycle (=life history)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "救生索",
+   "en": "life line",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "安全索",
+   "en": "life line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "救生索",
+   "en": "life-line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生活周期",
+   "en": "life cycle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生活史",
+   "en": "life history",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生命表",
+   "en": "life table",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生命带",
+   "en": "life zone",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "离子寿命",
+   "en": "ion life",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "储存寿命",
+   "en": "storage life",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "金融消费满意度",
+   "en": "financial consumer satisfaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尊生",
+   "en": "Respect Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "好生",
+   "en": "Cherish Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工生命",
+   "en": "artificial life",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字生命",
+   "en": "digital life",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "救生衣",
+   "en": "life jacket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "救生衣",
+   "en": "life jacket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "救生衣信号",
+   "en": "life jacket signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乐生",
+   "en": "To Delight in Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "杀身成仁",
+   "en": "Sacrifice Life to Preserve Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "死生有命",
+   "en": "Life and Death Are Predestined.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生活必需品",
+   "en": "necessities of life; daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "满足的极限",
+   "en": "limits to satisfaction",
+   "source": "马克思主义",
+   "wordNumber": "05.0082",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "威廉·莱斯（William Leiss）《满足的极限》从需要、商品和消费的关系出发，研究了发达工业社会中人的需要问题，他认为工业社会将人的需要的满足完全导向于对商品的最大限度的消费与满足。他提出人们应"
+  },
+  {
+   "cn": "卫生服务满意度",
+   "en": "health service satisfaction",
+   "source": "社会医学名词",
+   "wordNumber": "8.12.12",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务评价",
+   "publishYear": "2025",
+   "definition": "居民在卫生服务需求被满足后产生的愉悦感，是对卫生服务期望与实际体验之间关系的反映，即是在接受预防、医疗、康复、健康促进等卫生服务后，对其所获得服务的体验、过程和结果的主观感受的满意程度。"
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒器械从投入使用开始，在规定使用条件下，能有效使用的期限。"
+  },
+  {
+   "cn": "生命",
+   "en": "life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.016",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "生物体所具有的活动能力，是核酸、蛋白质和其他大分子物质存在的一种形式。"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "使用寿命",
+   "en": "useful life",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "消毒设备的有效使用期限。"
+  },
+  {
+   "cn": "承诺寿命",
+   "en": "promised life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在规定的使用条件下，厂家承诺产品能正常使用且符合消毒要求的期限。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "放射性核素完全衰变为子体核素前存在的平均时间。符号为τ。是衰变常数（λ）的倒数。即τ=1/λ；其与半衰期（T1/2）的关系为：τ=T1/2 /ln2。"
+  },
+  {
+   "cn": "社会生活",
+   "en": "social life",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "一种以一定的社会关系为纽带，由社会的经济、政治、文化、心理、环境诸因素综合作用形成的一系列复杂而多层次的社会活动现象。既指人类整个社会物质的和精神的活动，也指社会的物质生产活动和社会组织的公共活动领域"
+  },
+  {
+   "cn": "生命历程",
+   "en": "life course",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "在人的一生中，经由年龄分化而体现出来的生活道路。亦指一种社会生活史研究范式。其分析框架包括三个方面的内容：生命历程的社会意义；社会模式的代际传递；宏观结构对个人生命史的影响。"
+  },
+  {
+   "cn": "生活机会",
+   "en": "life-chances",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取各种有价物品和改善地位状况的可能性，尤其指获取教育和向上流动机会以及其他物质产品的可能性。源于马克斯•韦伯的社会分层分析。马克斯•韦伯认为，这些机会决定了阶级状态。后被广泛应用于社会流动分析。"
+  },
+  {
+   "cn": "平均预期寿命",
+   "en": "life expectancy",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.8",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "0岁年龄组人口的平均生存年数。它是生命表中的重要内容，是国际上用来评价一个国家人口的生存质量和健康水平的重要参考指标之一。"
+  },
+  {
+   "cn": "生命表",
+   "en": "life table",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "根据当前的年龄别死亡率计算出来，表示某一人口的每一年龄组的死亡概率及平均预期寿命的表格。它完整全面地勾勒出了人口的死亡状况。"
+  },
+  {
+   "cn": "物质生活",
+   "en": "material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0183",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类为了自身生存和发展而进行的物质生活资料的生产、分配、消费等活动，是人类生存不可缺少的基本方式。物质生活的生产方式制约着整个社会生活、政治生活、精神生活的过程。"
+  },
+  {
+   "cn": "精神生活",
+   "en": "spiritual life",
+   "source": "马克思主义",
+   "wordNumber": "01.0190",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在社会物质生活基础上所进行的精神生产、思想观念传播与变革和精神享受，体现着人类对真善美的渴望和追求，包括科研、创作、学习、文化娱乐和信仰等活动，是人区别于动物的生活方式，也是人的发展程度的标志。"
+  },
+  {
+   "cn": "社会生活",
+   "en": "social life",
+   "source": "马克思主义",
+   "wordNumber": "03.0165",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们为了生存和发展而以一定生产方式结合起来而进行的各种社会活动的总称，是社会主体的人与生活环境以一定方式相结合的特殊活动形式。包括人们的物质生活、政治生活和精神生活。"
+  },
+  {
+   "cn": "生活方式",
+   "en": "life style",
+   "source": "马克思主义",
+   "wordNumber": "03.0173",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在一定的历史时期与社会条件下，各个民族、阶级和社会群体的生活模式。狭义指个人及其家庭的日常生活的活动方式，广义指社会群体、地区、民族、国家等具有若干共同特征的生活模式。"
+  },
+  {
+   "cn": "生活方式",
+   "en": "life style",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "个体在日常生活中表现出的相对稳定的行为模式总和。包括作息节律、饮食习惯、运动娱乐方式、社交方式等。"
+  },
+  {
+   "cn": "生活技能",
+   "en": "life skills",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "个体保持良好心理状态，并且在与他人、社会和环境的相互关系中表现出适应和积极行为的能力。"
+  },
+  {
+   "cn": "期望寿命",
+   "en": "life expectancy",
+   "source": "社会医学名词",
+   "wordNumber": "9.23",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "期望寿命",
+   "publishYear": "2025",
+   "definition": "在一定的年龄别死亡率水平下，同时出生的一代人活到某一岁数时，尚能生存的平均年数。反映居民健康水平和社会经济发展水平及医疗卫生服务水平。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

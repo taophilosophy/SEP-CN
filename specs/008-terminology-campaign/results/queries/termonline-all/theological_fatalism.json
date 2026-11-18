@@ -1,0 +1,632 @@
+{
+ "key": "theological fatalism",
+ "term": "theological fatalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:13:16+00:00",
+ "status": "ok",
+ "note": "variant=theological fatalism; 审定公布名词库=330; 海峡两岸名词对照库=88; 其他来源数据库=10; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "病死率",
+   "en": "fatality rate",
+   "source": "急救医学名词",
+   "wordNumber": "03.881",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "一定时期内某病死亡病例数占该病全部病例数的比例。"
+  },
+  {
+   "cn": "病死率",
+   "en": "fatality rate",
+   "source": "核医学名词",
+   "wordNumber": "05.0089",
+   "subjectFullName": "核医学_核医学治疗_内照射治疗",
+   "subjectName": "内照射治疗",
+   "publishYear": "2018",
+   "definition": "一定时期内(通常为１年)，因患某病死亡者占该病全部患者中的比例。"
+  },
+  {
+   "cn": "病死率",
+   "en": "fatality rate",
+   "source": "老年医学名词",
+   "wordNumber": "02.032",
+   "subjectFullName": "老年医学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2017",
+   "definition": "一定期间内某病死亡病例数占该病全部病例数的比例。"
+  },
+  {
+   "cn": "致命错误",
+   "en": "fatal error",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0348",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在系统运行过程中发生的，导致系统无法继续运行的错误。"
+  },
+  {
+   "cn": "死亡事故",
+   "en": "fatal accident",
+   "source": "电气工程名词",
+   "wordNumber": "29.024",
+   "subjectFullName": "电气工程_电气安全",
+   "subjectName": "电气安全",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "神学自然观",
+   "en": "theological view of nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.010",
+   "subjectFullName": "自然辩证法_自然哲学_自然观",
+   "subjectName": "自然观",
+   "publishYear": "2024",
+   "definition": "神学对自然界的总看法。认为上帝是唯一的存在，自然界只不过是上帝创造理念的实在化。基督教神学认为，自然界的起源或者维持，具有神学或者某种超自然的原因。"
+  },
+  {
+   "cn": "某病病死率",
+   "en": "case fatality rate",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.167",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "在某一期间内如(一年)患某病者因此病死亡的百分比。可说明一种疾病的严重程度，也可反映一个医疗单位的医疗水平和质量。根据资料来源可以计算社区人群的病死率或医院患者的病死率，常用十万分率表示。"
+  },
+  {
+   "cn": "结核病病死率",
+   "en": "tuberculosis fatality rate",
+   "source": "医学名词 第四分册",
+   "wordNumber": "09.186",
+   "subjectFullName": "医学_结核病学",
+   "subjectName": "结核病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "最小致死剂量",
+   "en": "least fatal dose",
+   "source": "药学名词",
+   "wordNumber": "07.244",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "化学物质在受试对象中引起死亡的剂量。"
+  },
+  {
+   "cn": "致死性家族性失眠",
+   "en": "fatal familial insomnia;FFI",
+   "source": "睡眠医学名词",
+   "wordNumber": "3.099",
+   "subjectFullName": "睡眠医学_睡眠疾病分类_睡眠相关其他疾病",
+   "subjectName": "睡眠相关其他疾病",
+   "publishYear": "2022",
+   "definition": "一种常染色体显性遗传性朊蛋白疾病。为蛋白感染粒基因密码子178位或129位发生突变，成为FFI朊蛋白而致病。病理改变主要位于丘脑前腹侧核和背内侧核。有明确的家族史，发病年龄为40～60岁。早期主要表现"
+  },
+  {
+   "cn": "致死性家族性失眠",
+   "en": "fatal familial insomnia;FFI",
+   "source": "行为医学名词",
+   "wordNumber": "11.105",
+   "subjectFullName": "行为医学_睡眠_觉醒障碍_睡眠相关性内科和神经科疾病",
+   "subjectName": "睡眠相关性内科和神经科疾病",
+   "publishYear": "2022",
+   "definition": "一种进行性睡眠始动困难的疾病。数月内出现完全不能睡眠，然后从完全清醒状态进入一种梦样睡眠状态。"
+  },
+  {
+   "cn": "致死性肝内胆汁淤积综合征",
+   "en": "fatal intrahepatic cholestasis syndrome",
+   "source": "器官移植学名词",
+   "wordNumber": "10.124",
+   "subjectFullName": "器官移植学_肝移植_肝移植适应证与受者评估",
+   "subjectName": "肝移植适应证与受者评估",
+   "publishYear": "2020",
+   "definition": "于新生儿期反复出现黄疸，且逐渐加深，以及表现为皮肤瘙痒、鼻出血、肝脾大等的综合征。本病罕见。"
+  },
+  {
+   "cn": "致死性家族型失眠症",
+   "en": "fatal familial insomnia,FFI",
+   "source": "神经病学名词",
+   "wordNumber": "06.089",
+   "subjectFullName": "神经病学_神经系统感染性疾病",
+   "subjectName": "神经系统感染性疾病",
+   "publishYear": "2020",
+   "definition": "一种常染色体显性遗传性朊蛋白疾病。为蛋白感染粒基因密码子178位或129位发生突变，成为FFI朊蛋白而致病。病理改变主要位于丘脑前腹侧核和背内侧核。有明显的家族史，发病年龄在40～60岁。早期主要表现"
+  },
+  {
+   "cn": "致命性药物性肝损伤",
+   "en": "fatal drug-induced liver injury",
+   "source": "消化病学名词",
+   "wordNumber": "12.36",
+   "subjectFullName": "消化病_肝脏_肝脏疾病",
+   "subjectName": "肝脏疾病",
+   "publishYear": "2022",
+   "definition": "药物或其代谢产物导致死亡，或需接受肝移植才能存活的药物性肝损伤类型。"
+  },
+  {
+   "cn": "丧失时机对新闻来说是致命的",
+   "en": "delay is fatal for news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.044",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "恩格斯关于新闻时效的认识。他认为，新闻一分钟也不能耽搁，丧失时机对新闻来说是致命的；那些为了永世长存而写的多数作品，发挥其最大影响和最强时效，也是有一定时限的。"
+  },
+  {
+   "cn": "喉科十六绝症",
+   "en": "sixteen fatal symptoms in pharyngolaryngology",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.130",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "喉科出现舌卷囊缩、油汗如珠、哑喉呛食、吐血喉癣、声如拽锯、鼻扇唇青、脉细身凉、角弓反张、十指无血、六脉沉细、便闭十日、天柱倒塌、两目直视、喉干无痰、壅痰气塞、喉菌不治等16种危象的总称。"
+  },
+  {
+   "cn": "职工伤亡事故",
+   "en": "injured and fatal accident of staff",
+   "source": "放射医学与防护名词",
+   "wordNumber": "11.207",
+   "subjectFullName": "放射医学与防护_放射性疾病诊断、治疗与健康监护_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2014",
+   "definition": "在职业活动过程中由于设备维修不及时，防护措施不力，防护意识薄弱，操作不规范，管理不善等原因导致的职工急性中毒或人身死亡事件。"
+  },
+  {
+   "cn": "游击中心论",
+   "en": "Focalism",
+   "source": "世界历史名词",
+   "wordNumber": "04.0592",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_墨西哥、中美洲",
+   "subjectName": "墨西哥、中美洲",
+   "publishYear": "2012",
+   "definition": "以古巴革命领导人之一E.(切·)格瓦拉为代表的一种关于拉美革命道路的理论，主张通过游击中心在边远地区发动游击战，从农村包围城市夺取政权。"
+  },
+  {
+   "cn": "返祖［现象］",
+   "en": "atavism ",
+   "source": "草学名词",
+   "wordNumber": "2.005",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "返祖现象",
+   "en": "atavism",
+   "source": "动物学名词",
+   "wordNumber": "2.0072",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "后裔中出现祖先某些性状的现象。"
+  },
+  {
+   "cn": "致命错误",
+   "en": "fatal error",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "致死因子",
+   "en": "fatal factor",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "致死湿度",
+   "en": "fatal humidity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "致死高温",
+   "en": "fatal high temperature",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "致死低温",
+   "en": "fatal low temperature",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "绝对最低致死温度",
+   "en": "absolute minimum fatal temerature",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "绝对最高致死温度",
+   "en": "absolute maximum fatal temerature",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "致死高温",
+   "en": "lethal high temperature\",\"fatal high temperature",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "返祖现象",
+   "en": "atavism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "返祖[现象]",
+   "en": "atavism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "返祖[现象]",
+   "en": "atavism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "返祖现象",
+   "en": "atavism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "返祖[现象]",
+   "en": "atavism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生机论",
+   "en": "vital theory\",\"vitalism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "流变性质",
+   "en": "rheological property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topological structure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候现象",
+   "en": "phenological phenomenon",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候关系",
+   "en": "phenological relation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候观测",
+   "en": "phenological observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候季",
+   "en": "phenological season",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非命",
+   "en": "Rejection of Fatalism",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病死率（致死率）",
+   "en": "case fatality rate; death rate",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高收治率和治愈率、降低感染率和病亡率",
+   "en": "to improve the admission and cure rates and reduce the infection and fatality rates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑量子计算",
+   "en": "topological quantum computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑量子场论",
+   "en": "topological quantum field theory (TQFT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意识形态工作领导权",
+   "en": "the CPC's leadership over ideological work",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "牢牢掌握意识形态工作领导权",
+   "en": "holding firmly the leading position in ideological work",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "党的思想建设",
+   "en": "the ideological work of the CPC / building the Party through theory",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "病死率",
+   "en": "fatality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.10.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "某患病人群在某限定时间内死于该种疾病的概率，分子为某限定时间内死于某疾病的人数，分母为该限定时间内患有该病的病例数"
+  },
+  {
+   "cn": "神学生命说",
+   "en": "theological life theory",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.019",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "主张生命为神所创造和赐予，人的生命从受精卵开始并且具有神圣性的学说。这种生命观念主要源于基督教思想。"
+  },
+  {
+   "cn": "致死率",
+   "en": "case fatality ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.19",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一定时间内因某病死亡者占该病患病者的比例。"
+  },
+  {
+   "cn": "病死率",
+   "en": "case fatality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.5",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "一定期间内某病死亡病例数占该病全部病例数的比例。反映疾病的严重程度，以及医疗卫生机构的医疗服务水平和质量。"
+  },
+  {
+   "cn": "家族主义",
+   "en": "familism",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.40",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会以家族为核心的社会组织方式、行为方式和价值体系。从心理学上看，家族主义是个人对自己所属家族所持有的一套复杂的心理态度和行为，这种有组织的心理和行为可以分为不同层次，经由个人成长经历的家庭教"
+  },
+  {
+   "cn": "意识形态询唤",
+   "en": "ideological interpellation",
+   "source": "马克思主义",
+   "wordNumber": "05.0073",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿尔都塞认为，意识形态是以一种在个体中“招募”主体或把个体“改造成”主体的方式并运用非常准确的操作“产生效果”或“发挥功能作用”的。这种操作被称之为询唤或召唤，即个体通过意识形态询唤被建构为主体，而且"
+  },
+  {
+   "cn": "类型比较法",
+   "en": "typological comparison",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0664",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国社会学家、人类学家、民族学家费孝通提出了“类型比较法”，意指在研究中国社会的问题中，找到一个具体的标本，观察其循环运行的流程，有如解剖麻雀一般，知晓其生理构造，并以此为出发点，将相同、相近的归在一"
+  },
+  {
+   "cn": "党的思想路线",
+   "en": "Partys ideological line",
+   "source": "马克思主义",
+   "wordNumber": "03.0338",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党认识问题、分析问题、处理问题所遵循的最根本的指导原则和思想基础，即一切从实际出发，理论联系实际，实事求是，在实践中检验真理和发展真理。思想路线这个概念,是毛泽东1930年在《反对本本主义》一"
+  },
+  {
+   "cn": "党的思想建设",
+   "en": "partys ideological building",
+   "source": "马克思主义",
+   "wordNumber": "03.0471",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东建党思想的突出特点。强调着重从思想上建党；思想建党的关键是无产阶级思想的领导，这种思想领导要通过思想教育（包括思想斗争）来实现；思想建设既要纠正党内各种非无产阶级思想，又要端正党的思想路线；采用"
+  },
+  {
+   "cn": "意识形态国家机器",
+   "en": "ideological state apparatuses",
+   "source": "马克思主义",
+   "wordNumber": "05.0071",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿尔都塞认为国家机器分为政府、行政机关、军队等镇压性国家机器和意识形态国家机器两种，将宗教、教育、家庭、法律、政治、工会、信息、文化的各种机构看作是意识形态国家机器。意识形态国家机器属于“私人领域”，"
+  },
+  {
+   "cn": "思想政治教育",
+   "en": "ideological and political education",
+   "source": "马克思主义",
+   "wordNumber": "03.0597",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会组织运用某种政治观点和道德规范，根据人的思想行为形成变化的规律，通过显性或隐性的方式，对其成员施加有目的、有计划的影响，使他们形成符合特定社会要求的价值取向的实践活动。"
+  },
+  {
+   "cn": "人道的社会主义思潮",
+   "en": "humane socialist ideological trend",
+   "source": "马克思主义",
+   "wordNumber": "04.0375",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏共党内关于社会主义与人道主义相互关系的理论观点的总称。形成和产生于20世纪20年代。主要代表人物有布哈林、赫鲁晓夫、戈尔巴乔夫等。布哈林在1925年发表的《两个世界的文化》一文中提出了“社会主义人道"
+  },
+  {
+   "cn": "社会主义精神文明建设",
+   "en": "socialist ideological and ethical progress",
+   "source": "马克思主义",
+   "wordNumber": "03.0589",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "包括教育科学文化建设和思想道德建设两方面。社会主义精神文明建设以马克思主义为指导，以推动社会主义现代化为目标。它的发展需要物质文明建设提供基础和条件，它的发展又为物质文明建设提供精神动力和智力支持。"
+  },
+  {
+   "cn": "宣传思想工作的四个要求",
+   "en": "four requirements for propaganda and ideological work",
+   "source": "马克思主义",
+   "wordNumber": "03.0618",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在1994年1月的全国宣传思想工作会议上，高屋建瓴地对宣传思想工作提出的四个总要求，即以科学的理论武装人，以正确的舆论引导人，以高尚的精神塑造人，以优秀的作品鼓舞人。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

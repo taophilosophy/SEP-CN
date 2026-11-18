@@ -1,0 +1,812 @@
+{
+ "key": "conclusion follows",
+ "term": "conclusion follows",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:49:43+00:00",
+ "status": "ok",
+ "note": "variant=conclusion follows; 审定公布名词库=683; 海峡两岸名词对照库=111; 其他来源数据库=42; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "结论",
+   "en": "conclusion",
+   "source": "数学名词",
+   "wordNumber": "01.0010",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实验结论",
+   "en": "experimental conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.082",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "在整理、分析实验结果的基础上推导、总结出的某种假设或者推论。"
+  },
+  {
+   "cn": "设计总结",
+   "en": "design conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.131",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "工程设计结束后，设计人员对自身设计工作所做的总结。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "林学名词",
+   "wordNumber": "06.388",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "考虑了审核目的和所有审核发现后得出的审核结果。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0808",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "审核组考虑了审核目标和所有审核发现后得出的最终审核结果。"
+  },
+  {
+   "cn": "被领导者",
+   "en": "follower",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.112",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播权力与领导",
+   "subjectName": "组织传播权力与领导",
+   "publishYear": "2022",
+   "definition": "在组织共同活动中处于被管理地位的人员。是执行决策方案、命令、任务，实现组织传播目标的具体执行者。"
+  },
+  {
+   "cn": "从板",
+   "en": "follower",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0573",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "连续报道",
+   "en": "follow up",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.087",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "新闻报道者随着事件或问题的发展变化连续及时地做出反应和报道。常见于追踪某一新闻热点事件或现象。"
+  },
+  {
+   "cn": "随访",
+   "en": "follow-up",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.33",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科肿瘤治疗后随访",
+   "subjectName": "妇科肿瘤治疗后随访",
+   "publishYear": "2022",
+   "definition": "在妇科恶性肿瘤患者治疗后，需要终身随访，根据妇科肿瘤患者不同的治疗及恢复情况制订随访计划。医疗机构可以对妇科肿瘤患者以定期来诊、通信或其他方式了解病情变化并进行指导的过程。包括生存情况、有无复发、生活"
+  },
+  {
+   "cn": "随访",
+   "en": "follow-up",
+   "source": "感染病学名词",
+   "wordNumber": "04.0183",
+   "subjectFullName": "感染病学_特殊感染及感染相关问题_医源性感染",
+   "subjectName": "医源性感染",
+   "publishYear": "2019",
+   "definition": "医疗机构或研究部门采用现场、通信或其他方式，定期了解感染者或研究对象的病情变化并进行保健指导的一种方法。"
+  },
+  {
+   "cn": "随访",
+   "en": "follow-up",
+   "source": "计划生育名词",
+   "wordNumber": "05.024",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "医疗机构以通信或其他方式，定期了解曾在本机构接受医疗处置的患者病情变化情况和指导患者康复的一种医学行为。"
+  },
+  {
+   "cn": "随访",
+   "en": "follow up",
+   "source": "结核病学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_治疗管理",
+   "subjectName": "治疗管理",
+   "publishYear": "2019",
+   "definition": "医疗机构对结核病患者以定期来诊、通信或其他方式了解病情变化并进行指导的过 程。"
+  },
+  {
+   "cn": "随访",
+   "en": "follow-up",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.097",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "对有健康问题的个人或群体的定期观察。以便对预防工作、临床诊断和疗效进行评价，及时发现新的相关问题。"
+  },
+  {
+   "cn": "随访",
+   "en": "follow-up",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "医务人员定期访问患者，了解他们的病情及康复情况，并进行专业指导的过程。"
+  },
+  {
+   "cn": "随访",
+   "en": "follow-up",
+   "source": "核医学名词",
+   "wordNumber": "01.0055",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "医疗机构以通信或其他方式，定期了解曾在本机构接受医疗处置的患者病情变化情况和指导患者康复的一种医学行为。"
+  },
+  {
+   "cn": "后进市场",
+   "en": "follow market",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0307",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "一项成功的创新设计在被全球范围市场广泛接受之后才采用该设计的国家或地区。"
+  },
+  {
+   "cn": "技术追随",
+   "en": "technology follow",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0183",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_技术管理",
+   "subjectName": "技术管理",
+   "publishYear": "2016",
+   "definition": "以行业领先技术为目标，通过模仿、改进等手段，不断积累、提升、建构本组织技术能力的过程。"
+  },
+  {
+   "cn": "跟进",
+   "en": "follow-up",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0643",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售人员在售后进行跟踪以确保顾客满意和重复购买。是销售过程的最后一个阶段。"
+  },
+  {
+   "cn": "跟随条件",
+   "en": "follow condition",
+   "source": "计量学名词",
+   "wordNumber": "05.099",
+   "subjectFullName": "计量学_振动、冲击、转速_振动",
+   "subjectName": "振动",
+   "publishYear": "2015",
+   "definition": "相对式速度传感器的质量–弹簧系统顶牢被测物体，使其同步运动的预压量。"
+  },
+  {
+   "cn": "续流",
+   "en": "follow current",
+   "source": "电气工程名词",
+   "wordNumber": "13.038",
+   "subjectFullName": "电气工程_避雷器",
+   "subjectName": "避雷器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "后继丛",
+   "en": "follower constellation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "曲线跟随器",
+   "en": "curve follower",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射极输出器",
+   "en": "emitter follower",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天线跟踪器",
+   "en": "antenna follower",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阴极输出器",
+   "en": "cathode follower",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺浪",
+   "en": "following sea",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "随浪",
+   "en": "following sea",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "追踪",
+   "en": "follow up\",\"tracking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "追踪研究",
+   "en": "follow up study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "追踪评估",
+   "en": "follow up assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "随动控制",
+   "en": "follow-up control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后续舰",
+   "en": "follow-up ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "随动控制",
+   "en": "follow-up control",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "随动速度",
+   "en": "follow-up speed",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "随动系统",
+   "en": "follow-up system",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "主从复制",
+   "en": "leader-follower replication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地形跟踪雷达",
+   "en": "terrain-following radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地形跟踪系统",
+   "en": "terrain following system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "链码跟踪",
+   "en": "chain code following",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小收煞",
+   "en": "Midpoint Conclusion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跟随动作",
+   "en": "follow through",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随动作",
+   "en": "follow through",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "允许的跟随者",
+   "en": "authorized follower",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺风",
+   "en": "following wind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺风",
+   "en": "following wind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "“回头看，，",
+   "en": "follow-up checks",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随球",
+   "en": "follow the ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时中",
+   "en": "Follow the Golden Mean",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "按规定路线进行比赛",
+   "en": "follow the prescribed course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "随行车",
+   "en": "escort car\",\"following van",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "继足",
+   "en": "follow-foot stepping\",\"tsugi-ashi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随",
+   "en": "follow a wheel\",\"take shelter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随",
+   "en": "follow a wheel\",\"take shelter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "  随访和复诊",
+   "en": "follow-up and subsequent visits",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心悦诚服",
+   "en": "Be Completely Convinced and Follow Willingly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "克己复礼",
+   "en": "Restrain Yourself and Follow Social Norms",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法后王",
+   "en": "Follow the Examples of Recent Kings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法先王",
+   "en": "Follow the Examples of Ancient Kings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缘督以为经",
+   "en": "Following the Du Meridian as the Law",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "榜样学习",
+   "en": "following example",
+   "source": "社会学名词",
+   "wordNumber": "3.16.6.2",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年文化",
+   "subjectName": "青年文化",
+   "publishYear": "2025",
+   "definition": "学习、崇敬和模仿某种理想人格，指导支配自身的言行。榜样一般由社会主流文化提倡或塑造，符合某种政治要求、道德标准和社会效益。"
+  },
+  {
+   "cn": "健康随访",
+   "en": "health follow-up",
+   "source": "社会医学名词",
+   "wordNumber": "7.13",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康随访",
+   "publishYear": "2025",
+   "definition": "专业人员对个体或群体的健康状况开展的持续性追踪观察访问，旨在评估健康状况、干预效果及疾病转归，并进行保健指导的一种服务方式。"
+  },
+  {
+   "cn": "后续跟进安排",
+   "en": "follow-up plan",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.25",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结案后社会工作者对于服务对象相关事宜的安排。一般来说，社会工作者要根据实际需要与服务对象讨论结案后的跟进事宜，并选择适合服务对象的跟进方式。"
+  },
+  {
+   "cn": "离岗时检查结论",
+   "en": "examination conclusion when leaving the post",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.23",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据离岗时职业健康检查结果，对受检者提出的意见：包括可以离岗或转相关医疗机构进一步检查。"
+  },
+  {
+   "cn": "医学随访",
+   "en": "medical follow-up observation",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.24",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "以发现电离辐射远后效应为目的，对受到超剂量限值照射者和意外辐射事故照射者进行系统的长期医学追踪观察。"
+  },
+  {
+   "cn": "失访",
+   "en": "lost to follow-up",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.3.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "随访期间，研究对象由于迁走、不愿继续参与研究、死于其他疾病或意外等原因脱离了观察，导致其结局资料缺失的现象。"
+  },
+  {
+   "cn": "标准跟踪评价",
+   "en": "standard follow-up evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.43",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "了解食品安全标准实施情况、听取各方意见建议并进行分析和研究,提出标准实施和标准修订相关建议的过程。"
+  },
+  {
+   "cn": "氡跟踪测量",
+   "en": "follow-up measurement of radon",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.5.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量",
+   "subjectName": "氡及其子体测量",
+   "publishYear": "2025",
+   "definition": "一种对筛选测量中发现的可能超标的房屋进行的验证式的氡浓度测量程序，以确定被测房屋的氡浓度是否符合国家标准规定的水平，为可能进行的干预和治理提供依据。"
+  },
+  {
+   "cn": "预防接种不良反应",
+   "en": "adverse events following immunization,AEFI",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5.5.2.5",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "在预防接种后发生的怀疑与预防接种有关的反应或事件。"
+  },
+  {
+   "cn": "早产儿随访管理",
+   "en": "follow-up management of preterm infant",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.7.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "对早产儿开展的儿童保健系统管理，包括体格检查、生长发育监测、预见性指导和其它综合干预技术。"
+  },
+  {
+   "cn": "体内污染者医学随访",
+   "en": "medical follow up for the internal-contaminated person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.42",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对受到放射性核素内污染量大于5个年摄入量限值的工作人员，除采取有关的治疗措施外，需要进行长期医学随访观察，以便更早发现或预防可能的远期健康危害。"
+  },
+  {
+   "cn": "惊厥",
+   "en": "convulsion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "表现为突然发作的全身性或局限性肌群强直性和阵挛性抽动，多伴有意识障碍。"
+  },
+  {
+   "cn": "租让制",
+   "en": "concession system",
+   "source": "马克思主义",
+   "wordNumber": "02.0323",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联新经济政策时期国家资本主义的一种形式。1920年11月苏维埃俄国公布《关于租让组织一般条件的命令》，规定由苏维埃俄国同外国资本家签订合同，把暂时无力经营或开发的企业、矿山、森林区等租给这些资本家经"
+  },
+  {
+   "cn": "社会包容",
+   "en": "social inclusion",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "社会的制度体系对具有不同社会特征的社会成员及其所表现的各种社会行为不加排斥的宽容对待、平等相处，并扶持弱者、共同发展的状态。"
+  },
+  {
+   "cn": "输精管栓堵术",
+   "en": "vas occlusion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.1.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "经阴囊皮肤穿刺的方法将液态高分子化合物聚醚型聚氨酯弹性体或者硅橡胶，加压注入输精管腔内，在管内迅速固化为栓子，堵塞输精管腔以阻止精子排出，达到永久性避孕目的的一种手术方法。"
+  },
+  {
+   "cn": "空腔负载",
+   "en": "hollow load",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.14",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "含有管腔结构的物品，腔体内直径≥2mm，腔体部分的长度不大于其内直径的1500倍。"
+  },
+  {
+   "cn": "管腔器械",
+   "en": "hollow device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.5",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "含有管腔，其直径≥2mm，且其腔体中的任何一点距其与外界相通的开口处的距离不大于其内直径的1500倍的器械。一般指由软管、硬管（单管或同轴组合）组成的器械，清洗时需使用专用的连接器与清洗消毒器连接。"
+  },
+  {
+   "cn": "输卵管黏堵绝育术",
+   "en": "chemical tube occlusion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.2.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "通过导管将化学粘堵剂注入输卵管，引发输卵管内膜化学性损伤、粘连，继发输卵管阻塞，以达到永久性避孕目的的一种手术方法。"
+  },
+  {
+   "cn": "包涵体肌炎",
+   "en": "inclusion body myositis，IBM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "以肌细胞中存在包涵体为主要病理特征的慢性肌病，分散发性包涵体肌炎和遗传性包涵体肌炎两种类型。"
+  },
+  {
+   "cn": "惊厥型氧中毒",
+   "en": "convulsion type of oxygen toxicity",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.5.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "机体较短时间吸入200～300kPa 的氧气，发生的以惊厥为主要临床特征的氧中毒。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

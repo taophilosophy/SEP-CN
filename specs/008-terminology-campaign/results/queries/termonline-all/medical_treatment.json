@@ -1,0 +1,782 @@
+{
+ "key": "medical treatment",
+ "term": "medical treatment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:12:40+00:00",
+ "status": "ok",
+ "note": "variant=medical treatment; 审定公布名词库=2645; 海峡两岸名词对照库=704; 其他来源数据库=141; 预公布名词数据库=388; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "药物防治",
+   "en": "medical treatment",
+   "source": "水产名词",
+   "wordNumber": "07.059",
+   "subjectFullName": "水产_水产生物病害及防治",
+   "subjectName": "水产生物病害及防治",
+   "publishYear": "2002",
+   "definition": "利用药物及其制剂控制疾病或有害生物的措施。"
+  },
+  {
+   "cn": "过度医疗",
+   "en": "excessive medical treatment",
+   "source": "行为医学名词",
+   "wordNumber": "9.069",
+   "subjectFullName": "行为医学_医患行为_医学行为",
+   "subjectName": "医学行为",
+   "publishYear": "2022",
+   "definition": "医疗机构或医务人员违背临床医学规范和准则，超过客观需求的检查、诊断和治疗的行为。"
+  },
+  {
+   "cn": "医疗艺术",
+   "en": "medical treatment art,art of medical treatment",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0013",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "医疗行为",
+   "en": "act of medical treatment",
+   "source": "行为医学名词",
+   "wordNumber": "1.037",
+   "subjectFullName": "行为医学_总论_行为医学研究范畴",
+   "subjectName": "行为医学研究范畴",
+   "publishYear": "2022",
+   "definition": "以预防、诊断、治疗、矫正、康复和保健为目的所采取的行为活动的总称。是具有民事法律行为一般特征的民事行为。"
+  },
+  {
+   "cn": "及时就医义务",
+   "en": "timely medical treatment obligation",
+   "source": "行为医学名词",
+   "wordNumber": "9.037",
+   "subjectFullName": "行为医学_医患行为_患者角色",
+   "subjectName": "患者角色",
+   "publishYear": "2022",
+   "definition": "个体患病后及时就医的义务。不仅是个体对自己的健康负责，也是对社会应尽的义务。"
+  },
+  {
+   "cn": "美容治疗室",
+   "en": "aesthetic medical treatment room",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "10.007",
+   "subjectFullName": "医学美学与美容医学_其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": "医疗美容机构中实施部分医疗美容治疗操作技术的内设科室。同时备配相应的医疗美容治疗设备。"
+  },
+  {
+   "cn": "药饲",
+   "en": "medicated",
+   "source": "水产名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "水产_水产生物病害及防治",
+   "subjectName": "水产生物病害及防治",
+   "publishYear": "2002",
+   "definition": "将药物拌入饲料投喂养殖动物的一种疾病防治方法。"
+  },
+  {
+   "cn": "内污染医学处理",
+   "en": "medical treatment for internal contamination",
+   "source": "放射医学与防护名词",
+   "wordNumber": "08.188",
+   "subjectFullName": "放射医学与防护_放射毒理学_医学处理",
+   "subjectName": "医学处理",
+   "publishYear": "2014",
+   "definition": "对受到意外体内污染人员进行的剂量监测、医学观察、治疗、医学干预和随访。其原则是：减少进入部位放射性核素的吸收和加速自体内的排除，降低内照射剂量，预防或减轻近期和远期可能的健康危害。"
+  },
+  {
+   "cn": "院前医疗急救处置率",
+   "en": "prehospital medical emergency treatment rate",
+   "source": "急救医学名词",
+   "wordNumber": "04.039",
+   "subjectFullName": "急救医学_急救质控_院前急救质控_现场救治质控",
+   "subjectName": "现场救治质控",
+   "publishYear": "2025",
+   "definition": "在院前急救过程中实施医疗处置（包括心肺复苏、气管插管、电除颤、心电监护、静脉输液等）患者数量占同期院前医疗急救患者总量的比例。院前医疗急救处置率=医疗处置患者数量÷同期院前医疗急救患者总量×100%。"
+  },
+  {
+   "cn": "平等医疗权",
+   "en": "equal right to medical treatment",
+   "source": "行为医学名词",
+   "wordNumber": "9.03",
+   "subjectFullName": "行为医学_医患行为_患者角色",
+   "subjectName": "患者角色",
+   "publishYear": "2022",
+   "definition": "患者具有获得公正、平等、安全有效医疗和护理服务的权利。"
+  },
+  {
+   "cn": "药历",
+   "en": "medication profile,medication record",
+   "source": "药学名词",
+   "wordNumber": "08.103",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "为保证用药安全有效，由药师建立的患者治疗或预防疾病进行药物治疗过程的记录。包括为影响患者预后结果的专业活动(方案制定，实施，疗效、不良反应观察，评价、调整，患者教育)等内容。有纸质和电子两种形式。"
+  },
+  {
+   "cn": "医疗后送",
+   "en": "medical evacuation",
+   "source": "普通外科学名词",
+   "wordNumber": "09.034",
+   "subjectFullName": "医学_普通外科学_创伤",
+   "subjectName": "创伤",
+   "publishYear": "2026",
+   "definition": "灾难现场对伤病员实施救治并运送至安全地带进一步救治的方法和过程。包括伤病员经过现场抢救后，通过各级救治机构的分级救治与妥善安全转运，逐步得到完善治疗的卫生保障工作。"
+  },
+  {
+   "cn": "医用石膏",
+   "en": "medical plaster",
+   "source": "整形外科名词",
+   "wordNumber": "6.04",
+   "subjectFullName": "整形外科_医用整形外科材料_敷料与塑形材料",
+   "subjectName": "敷料与塑形材料",
+   "publishYear": "2026",
+   "definition": "用于医疗目的的硫酸钙非结晶粉末。常与吸水纱布制成石膏绷带，在温水中浸泡，缠绕于肢体干燥后，可变成坚硬的固体，达到塑形、固定的目的。"
+  },
+  {
+   "cn": "医用机器人",
+   "en": "medical robot",
+   "source": "整形外科名词",
+   "wordNumber": "10.025",
+   "subjectFullName": "整形外科_整形外科数字化技术_医用机器人",
+   "subjectName": "医用机器人",
+   "publishYear": "2026",
+   "definition": "可以自动执行程序和辅助相关医疗操作的机器人。可分为临床医疗用机器人、护理机器人、教学机器人和为残疾人服务机器人等。"
+  },
+  {
+   "cn": "医疗安全",
+   "en": "medical safety",
+   "source": "急救医学名词",
+   "wordNumber": "01.046",
+   "subjectFullName": "急救医学_急救概论_医疗急救_医疗安全",
+   "subjectName": "医疗安全",
+   "publishYear": "2025",
+   "definition": "在医疗服务过程中将可能发生的损害控制在可以接受范围内的状态。"
+  },
+  {
+   "cn": "医疗事故",
+   "en": "medical malpractice",
+   "source": "急救医学名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "急救医学_急救概论_医疗急救_医患关系",
+   "subjectName": "医患关系",
+   "publishYear": "2025",
+   "definition": "医疗机构及其医务人员在医疗活动中违反医疗卫生管理法律、行政法规、部门规章、诊疗护理规范和常规或因过失而造成患者人身损害的事件。"
+  },
+  {
+   "cn": "医疗纠纷",
+   "en": "medical dispute",
+   "source": "急救医学名词",
+   "wordNumber": "01.061",
+   "subjectFullName": "急救医学_急救概论_医疗急救_医患关系",
+   "subjectName": "医患关系",
+   "publishYear": "2025",
+   "definition": "医患双方对诊疗护理不良后果及其原因的认识不一致而发生的争议。"
+  },
+  {
+   "cn": "医疗船",
+   "en": "medical ship",
+   "source": "急救医学名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "急救医学_海上医学救援_海上救援设备_救援工具",
+   "subjectName": "救援工具",
+   "publishYear": "2025",
+   "definition": "专门用于对海域内伤病员进行医疗救护、治疗和运送的船具。配备有医疗设备、耗材、药品等。"
+  },
+  {
+   "cn": "医德",
+   "en": "medical morality",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.085",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "从事医学职业的医务人员在其职业活动中应该具备的道德素养和品质，是协调医务人员与患者、医务人员之间以及与社会之间关系的行为准则。"
+  },
+  {
+   "cn": "医学价值学",
+   "en": "medical axiology",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.086",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "研究医疗保健服务的提供者和患者、社会公众所持有或认同的影响当代医学的知识和实践以及这些医学知识应用及医疗实践活动的价值观念的学科。"
+  },
+  {
+   "cn": "医学胚胎学",
+   "en": "medical embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "医疗气候学",
+   "en": "medical climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗气象学",
+   "en": "medical meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学模式",
+   "en": "medical model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "医学心理学",
+   "en": "medical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "医用纤维",
+   "en": "medical fiber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "医用回旋加速器",
+   "en": "medical cyclotron",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "医学地理学",
+   "en": "medical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "医学气象学",
+   "en": "medical meteorology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "医学免疫学",
+   "en": "medical immunology",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "医学遗传学",
+   "en": "medical genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "医学成像",
+   "en": "medical imaging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医学电子学",
+   "en": "medical electronics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医用回旋加速器",
+   "en": "medical cyclotron",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "健康检查",
+   "en": "medical examination",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "医疗",
+   "en": "medical care",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "医疗电文",
+   "en": "medical messages",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "医疗援助",
+   "en": "medical assistance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "医疗运输",
+   "en": "medical transports",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "医疗指导",
+   "en": "medical advice",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "污染集中处理",
+   "en": "centralized treatment of medical waste",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学观察",
+   "en": "medical watch; medical observation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学排查",
+   "en": "medical screening",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学巡查",
+   "en": "medical inspection",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体检",
+   "en": "medical examination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医疗服务",
+   "en": "medical service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务检查",
+   "en": "medical control",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务代表",
+   "en": "medical delegate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务方案",
+   "en": "medical guidelines",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医药规范",
+   "en": "medical code",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医疗队",
+   "en": "medical team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体检",
+   "en": "medical check-up\",\"medical control",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "提高救治水平",
+   "en": "to improve the quality of medical treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "过度医疗",
+   "en": "excessive medical treatment",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "医疗机构及其医务人员在医疗活动中，违反临床医学规范和伦理准则，提供超过疾病实际需求的诊断和治疗的行为。"
+  },
+  {
+   "cn": "分级救治",
+   "en": "medical treatment in echelons",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.15",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "战时各级救治机构对伤病员进行分工救治的总称。根据战时条件和医学要求，将伤病员的整个救治过程，由纵深梯次配置的各级救治机构，按照各自的救治范围分工完成"
+  },
+  {
+   "cn": "异地就医",
+   "en": "cross-district medical treatment",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.3.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "参保人在其参保统筹地区以外发生的就医行为。"
+  },
+  {
+   "cn": "医学处置权",
+   "en": "right to medical treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.007",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医务人员在注册的执业范围内根据诊查结果，针对患者病情采取医学处理措施或紧急抢救措施的权利。患者知情同意以及疾病需要治疗使医疗处置具有正当性。根据行使条件的不同，可分为一般医学处置权与紧急医学处置权。"
+  },
+  {
+   "cn": "医学化",
+   "en": "medicalization",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "日常生活越来越多地进入医学领域，受到医学的影响和控制，尤其是把社会上或者道德上认为不合适的行为贴上医学标签、委托医学职业予以治疗的过程。其关键在于对原来不属于医学范畴的问题进行医学定义。它跟医学职业声"
+  },
+  {
+   "cn": "医学化",
+   "en": "medicalization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.024",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "把非医疗问题当作医疗问题对待和定义的过程。"
+  },
+  {
+   "cn": "异地就医直接结算",
+   "en": "settlement for cross-district medical treatment",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.5.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "在参加医疗保险所在地以外的医疗卫生机构就医而直接通过医疗保险报销的结算方式。"
+  },
+  {
+   "cn": "医事法",
+   "en": "medical jurisprudence",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.185",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "在卫生法中主要调整医疗服务法律关系的法律法规总称。"
+  },
+  {
+   "cn": "医疗器械",
+   "en": "medical instrument",
+   "source": "消毒学",
+   "wordNumber": "4.6.9",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "直接或者间接用于人体的仪器、设备、器具、体外诊断试剂及校准物、材料以及其他类似或者相关的物品。"
+  },
+  {
+   "cn": "医用织物",
+   "en": "medical textile",
+   "source": "消毒学",
+   "wordNumber": "4.6.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医院内可重复使用的纺织品，包括患者使用的衣物、床单、被罩、枕套；工作人员使用的工作服、帽；手术衣、手术铺单；病床隔帘、窗帘等。"
+  },
+  {
+   "cn": "医疗用水",
+   "en": "medical water",
+   "source": "消毒学",
+   "wordNumber": "4.6.11",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构用于诊疗活动和器械处理时使用的水。"
+  },
+  {
+   "cn": "医用清洗剂",
+   "en": "medical detergent",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "增强水对诊疗器械、器具及其相关物品上污物清洗效果的制剂。"
+  },
+  {
+   "cn": "医用级",
+   "en": "medical grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "符合医药相关的法律法规和质量安全标准，用此级别原料加工制造的医药产品有效成分纯度达到治疗和预防疾病的要求。"
+  },
+  {
+   "cn": "医疗废物",
+   "en": "medical waste",
+   "source": "消毒学",
+   "wordNumber": "7.2",
+   "subjectFullName": "消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "医疗卫生机构在医疗、预防、保健以及其他相关活动中产生的具有直接或者间接感染性、毒性以及其他危害性的废物。"
+  },
+  {
+   "cn": "医疗照射",
+   "en": "medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.2.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类",
+   "subjectName": "照射人员分类",
+   "publishYear": "2025",
+   "definition": "患者或受检者因自身医学诊断、治疗或健康检查所受到的照射；知情但自愿帮助和安慰患者的人员（不包括职业受照人员）所受到的照射；以及生物医学研究计划中志愿者受到的照射。"
+  },
+  {
+   "cn": "医学社会学",
+   "en": "medical sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.11.1.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_医学社会学学科界定",
+   "subjectName": "医学社会学学科界定",
+   "publishYear": "2025",
+   "definition": "社会学的一个分支，用社会学的方法研究医疗健康领域的问题，包括医生、病人等医学领域的角色规范和角色关系，健康、疾病、就医行为等医学现象的社会学解释，对健康和疾病的各类文化反映，以及对各类医疗机构的组织研"
+  },
+  {
+   "cn": "医疗救助",
+   "en": "medical assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "政府和社会为因病而无经济能力进行治疗的贫困人员提供基本的疾病预防、救治以及医疗健康服务等专项帮助和支持的一项社会救济制度。"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institute",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.64",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "提供医疗服务的机构。其职责是诊疗伤病、收容伤病员、健康检查、预防接种、接生等。可按所有权、服务对象、患者住院期的长短、规模大小、设备和编制等来分类，如传染病院、妇产科医院、联合诊所、医疗站、卫生所等。"
+  },
+  {
+   "cn": "医疗社会保险",
+   "en": "medical insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.84",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "国家通过立法方式强制性地向法定范围的劳动者及其他社会成员征缴医疗保险基金，在劳动者（或公民）因患病、负伤、年老、生育、失业或其他原因收入中断需要医疗费用时，由国家或企业提供医疗和物质保障的一种社会保险"
+  },
+  {
+   "cn": "医疗规制",
+   "en": "medical regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府从资源有效配置和服务的公平供给出发，确定医疗服务机构的产品或服务价格标准，并对个人或保险机构支付给医疗机构费用进行调节与控制的方法。主要包括准入规制、质量规制和信息规制等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

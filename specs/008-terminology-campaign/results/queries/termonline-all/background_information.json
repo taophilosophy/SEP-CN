@@ -1,0 +1,662 @@
+{
+ "key": "background information",
+ "term": "background information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:50:19+00:00",
+ "status": "ok",
+ "note": "variant=background information; 审定公布名词库=3275; 海峡两岸名词对照库=678; 其他来源数据库=556; 预公布名词数据库=110; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "背景",
+   "en": "background",
+   "source": "物理学名词",
+   "wordNumber": "01.0304",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "本底",
+   "en": "background",
+   "source": "核医学名词",
+   "wordNumber": "02.0181",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "进行某种检测(如放射性检测)，没有进样时检测器测得或输出的信号值。与检测器类型和所处检测环境等因素相关。在核医学影像中指显像器官或周边组织对显像剂的非特异性摄取及血管中的放射性所致的影像。"
+  },
+  {
+   "cn": "后台",
+   "en": "background",
+   "source": "核医学名词",
+   "wordNumber": "03.0270",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "在核医学中指不具备控制设备运行功能，但具有较强计算与存储能力，负责采集图像的处理、重建、存储、传输及管理的计算机系统。"
+  },
+  {
+   "cn": "背景",
+   "en": "background",
+   "source": "化学名词",
+   "wordNumber": "03.0054",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "分析测量中非被测组分产生的信号值。"
+  },
+  {
+   "cn": "新闻背景",
+   "en": "backgrounder",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.138",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "与新闻事实有关的历史、环境、成因及与周围事物关系的信息。在新闻采访中，新闻背景可以帮助记者全面了解报道对象，在新闻写作中，新闻背景可以作为写入报道的辅助性材料，帮助读者理解新闻事实。"
+  },
+  {
+   "cn": "地球化学背景",
+   "en": "geochemical background",
+   "source": "地质学名词",
+   "wordNumber": "13.08.017",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "无矿地区或未受矿化影响区域内天然物质中的元素特征与元素含量。通常不是一个确定的含量值，而是一个含量范围。将一批背景样品的含量加以平均(算术平均或几何平均)，便得出背景平均值(简称背景值)。另外，往往还"
+  },
+  {
+   "cn": "背景值",
+   "en": "background value",
+   "source": "地质学名词",
+   "wordNumber": "13.08.018",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "无矿地区或未受矿化影响区域内(背景区)的某元素含量的平均值及其他地球化学特征值。其数值大小与研究区地球化学环境和采样介质有关，不同的地域和调查研究范围、不同的地质条件和不同的采样介质，有不同的背景值。"
+  },
+  {
+   "cn": "区域背景",
+   "en": "regional background",
+   "source": "地质学名词",
+   "wordNumber": "13.08.019",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "与中、小比例尺(≤1:5万)地球化学勘查区对应的大范围地域内的地质、地球化学背景特征。"
+  },
+  {
+   "cn": "局部背景",
+   "en": "local background",
+   "source": "地质学名词",
+   "wordNumber": "13.08.020",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "与大比例尺(＞1:5万)地球化学勘查区对应的成矿区域的地质、地球化学特征。"
+  },
+  {
+   "cn": "本底调查",
+   "en": "background survey",
+   "source": "农学名词",
+   "wordNumber": "01.180",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "对特定区域的资源、生态环境等进行的基础性和系统性调查。农业本底调查主要是指对耕地等农业资源、农田生态环境、种质资源、农作物空间分布等进行的基础性和系统性调查。"
+  },
+  {
+   "cn": "背景音乐",
+   "en": "background music",
+   "source": "风景园林名词",
+   "wordNumber": "08.0842",
+   "subjectFullName": "风景园林_风景园林工程_风景园林弱电",
+   "subjectName": "风景园林弱电",
+   "publishYear": "2025",
+   "definition": "在一些公共场合播放的音乐。"
+  },
+  {
+   "cn": "背景选择",
+   "en": "background selection",
+   "source": "农学名词",
+   "wordNumber": "06.476",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "在研究某一特定性状的基因时，对基因组中其余DNA组成的选择。"
+  },
+  {
+   "cn": "本底噪声",
+   "en": "background noise",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.3.5.1.1",
+   "subjectFullName": "耳科_耳检查法",
+   "subjectName": "耳检查法",
+   "publishYear": "2025",
+   "definition": "与测试声信号无关的外部环境声。"
+  },
+  {
+   "cn": "银河背景",
+   "en": "Galactic background",
+   "source": "天文学名词",
+   "wordNumber": "08.699",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "银河系中由弥漫物质和无法分辨的遥远恒星构成的背景光。"
+  },
+  {
+   "cn": "本底辐射",
+   "en": "background radiation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0299",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "天然存在的电离辐射。包括宇宙射线和自然界放射性物质产生的辐射。 "
+  },
+  {
+   "cn": "背景星",
+   "en": "background star",
+   "source": "天文学名词",
+   "wordNumber": "01.111",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "(1)在同一视场内除观测对象以外的恒星。(2)有时特指其中距离比观测对象更远的恒星。"
+  },
+  {
+   "cn": "天空背景",
+   "en": "sky background",
+   "source": "天文学名词",
+   "wordNumber": "04.087",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "夜间观测时天体周围没有其他天体的天空部分。"
+  },
+  {
+   "cn": "背景辐射",
+   "en": "background radiation",
+   "source": "天文学名词",
+   "wordNumber": "04.089",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "来自宇宙空间的不可分辨其来源的辐射。"
+  },
+  {
+   "cn": "背景星系",
+   "en": "background galaxy",
+   "source": "天文学名词",
+   "wordNumber": "07.097",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "视线方向与被观测河外源相近，但距观测者较远的星系。"
+  },
+  {
+   "cn": "电离背景",
+   "en": "ionizing background",
+   "source": "天文学名词",
+   "wordNumber": "07.207",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "导致气体电离的背景辐射，由年轻恒星、类星体等产生。"
+  },
+  {
+   "cn": "背景",
+   "en": "background",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "背景",
+   "en": "background",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "背景",
+   "en": "background",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后台",
+   "en": "background",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "遗传背景",
+   "en": "genetic background",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本底场",
+   "en": "background field",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本底辐射",
+   "en": "background radiation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本底浓度",
+   "en": "background concentration",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本底污染",
+   "en": "background pollution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本底站",
+   "en": "background station",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本地值",
+   "en": "background level",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气本底[值]",
+   "en": "atmospheric background",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "背景辐射",
+   "en": "background radiation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "背景亮度",
+   "en": "background brightness",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "背景星",
+   "en": "background star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "背景星系",
+   "en": "background galaxy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "背景噪声",
+   "en": "background noise",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "热背景",
+   "en": "thermal background",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天空背景",
+   "en": "sky background",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "背景校正",
+   "en": "background correction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息级联",
+   "en": "information cascade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息通信",
+   "en": "Information Communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本底",
+   "en": "background",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.17",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "可归因于除指定源以外的所有源的剂量或剂量率（或与剂量或剂量率有关的可观察指标）。与检测器类型和所处检测环境等因素有关。在样品γ能谱分析中，指无被测辐射源（样品）时，其他因素，如宇宙射线、放射性污染、电"
+  },
+  {
+   "cn": "本底校正",
+   "en": "background correction",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.18",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "对待测样品和空白样品分别进行同样的测量，并从待测样品测得的结果中减去空白样品的测量结果的过程。"
+  },
+  {
+   "cn": "本底干扰",
+   "en": "background disturbance",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "本底对于待测物理量（如全吸收峰）的干扰。"
+  },
+  {
+   "cn": "本底效应",
+   "en": "background effect",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.18",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "由测量对象本身以外的辐射引起的测量效应。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "辐射高本底地区",
+   "en": "high-background radiation area",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.2.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究对象",
+   "subjectName": "研究对象",
+   "publishYear": "2025",
+   "definition": "地表辐射水平（如地表γ辐射水平）高于所在地区、国家或全球平均值数倍（至少2倍～3倍）以上的地区。世界上有几处著名的高本底地区，如中国的阳江、印度的喀拉拉邦（Kerala）、巴西的瓜拉帕里（Guarap"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "信息可见性",
+   "en": "information visibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "一种对信息存在特性的描述。"
+  },
+  {
+   "cn": "信息时效性",
+   "en": "information timeliness",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.5",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息发挥作用是有时间限度的，在恰当的时刻得以利用才会发挥其最大效能的特性。"
+  },
+  {
+   "cn": "信息过载",
+   "en": "information overload",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "卫生信息超过了医护人员患者等个人或医疗系统所能接受、处理或有效利用的范围的一种状态。"
+  },
+  {
+   "cn": "信息安全",
+   "en": "information security",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "为卫生信息数据处理系统建立和采用的技术，保护医疗卫生系统中的数据信息等免受偶然和恶意的原因而遭到破坏、更改和泄露。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

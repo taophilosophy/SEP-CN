@@ -1,0 +1,692 @@
+{
+ "key": "welfare function",
+ "term": "welfare function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:44:01+00:00",
+ "status": "ok",
+ "note": "variant=welfare function; 审定公布名词库=3206; 海峡两岸名词对照库=770; 其他来源数据库=118; 预公布名词数据库=152; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "社会福利函数",
+   "en": "social welfare function",
+   "source": "经济学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "社会中所有成员效用的各种分配方式同社会偏好的对应关系。它将社会福利表示为所有成员效用水平的函数。"
+  },
+  {
+   "cn": "社会福利函数",
+   "en": "social welfare function",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0239",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "对社会目标的一种表述，其中社会福利水平被表达为资源配置方式的函数。社会福利函数把社会福利看作个人福利的总和，所以社会福利是所有个人福利总和的函数。"
+  },
+  {
+   "cn": "动物福利",
+   "en": "animal welfare",
+   "source": "风景园林名词",
+   "wordNumber": "03.0055",
+   "subjectFullName": "风景园林_风景园林管理_行业和部门管理",
+   "subjectName": "行业和部门管理",
+   "publishYear": "2025",
+   "definition": "为保障动物生理和心理健康所提供的适宜环境和管理行为。"
+  },
+  {
+   "cn": "福利管理",
+   "en": "welfare management",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.077",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "对选择福利项目、确定福利标准、制定各种福利发放明细表等福利方面的管理工作。一般将健康保险、带薪假期等形式，作为企业成员福利的一部分，奖励给职工个人或者员工小组。"
+  },
+  {
+   "cn": "益世报",
+   "en": "Social Welfare",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.072",
+   "subjectFullName": "新闻学与传播学_新闻史_近代新闻史_中国",
+   "subjectName": "中国",
+   "publishYear": "2022",
+   "definition": "民国时期一家隶属于天主教会的报纸。由比利时籍神父雷鸣远(雷明远，Vincent Lebbe)于1915年10月10日在天津注册创办，被称为民国四大报刊之一。"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.164",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "（1）泛指一种社会状态。即人们普遍健康、正常而幸福的存在。（2）国家依法为所有公民提供旨在保证一定生活水平和尽可能提高生活质量的资金和服务的社会保障制度。"
+  },
+  {
+   "cn": "福利性住房",
+   "en": "welfare housing",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.024",
+   "subjectFullName": "城乡规划学_社区与住房规划_住房政策与规划",
+   "subjectName": "住房政策与规划",
+   "publishYear": "2021",
+   "definition": "（1）由国家或单位作为一种间接性的报酬或作为一种社会保障方式提供给使用者使用的住房。（2）义同“保障性住房”。（3）在我国特指计划经济时代，根据职工的级别、家庭情况等一系列标准，由单位分配的“公房”。"
+  },
+  {
+   "cn": "动物福利",
+   "en": "animal welfare",
+   "source": "畜牧学名词",
+   "wordNumber": "02.018",
+   "subjectFullName": "畜牧学_饲养管理_饲养管理基础",
+   "subjectName": "饲养管理基础",
+   "publishYear": "2020",
+   "definition": "维持动物健康与行为自由表达，免受不必要痛苦的环境管理理念及其饲养模式。"
+  },
+  {
+   "cn": "福利国家",
+   "en": "welfare state",
+   "source": "经济学名词",
+   "wordNumber": "03.196",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "一种国家形态。通过国家创办和资助社会公共事业，实行和完善一套社会福利政策和制度，对社会经济生活进行干预，保证社会次序和经济生活正常运行；福利国家以社会保障制度为主体，政府保证所有公民享有最低标准的收入"
+  },
+  {
+   "cn": "福利标准",
+   "en": "welfare criterion",
+   "source": "经济学名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "用来判定某种经济变革是否应该推行的标准。主要有帕累托标准：如果在不损害他人福利的情况下能够提高一些人的福利，则就应该推行这种经济变革；希克斯－卡尔多标准（Hicks-Kaldor criterion）"
+  },
+  {
+   "cn": "福利经济学",
+   "en": "welfare economics",
+   "source": "经济学名词",
+   "wordNumber": "03.198",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "研究经济活动对经济体福利的影响的经济学。主要研究内容包括效率标准（帕累托最优以及次优理论）、收入分配与福利、存在外部性的经济活动的成本—收益分析等。福利经济学在很大程度上等同于规范经济学。"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "经济学名词",
+   "wordNumber": "07.095",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "国家或社会为提高国民福利水平而对公民提供一定资金和服务的社会保障制度。社会福利有广义和狭义之分，广义的社会福利是指提高全体公民福利水平的各种政策和社会服务；狭义的社会福利是指对特定范围的公民（主要是生"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0238",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "一个社会全体成员个人福利的总和或个人福利的集合。是福利经济学的主要研究对象。"
+  },
+  {
+   "cn": "福祉管理",
+   "en": "welfare management",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0777",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_薪酬管理",
+   "subjectName": "薪酬管理",
+   "publishYear": "2016",
+   "definition": "对选择福利项目、确定福利标准、制定各种福利发放明细表等福利方面的管理工作。"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.086",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "国家为满足其公民对社会、经济、教育和健康需求而建立的社会服务项目、津贴和服务体系的总和。"
+  },
+  {
+   "cn": "生活福利建筑",
+   "en": "welfare facility",
+   "source": "建筑学名词",
+   "wordNumber": "02.0904",
+   "subjectFullName": "建筑学_建筑类型及组成_工业建筑",
+   "subjectName": "工业建筑",
+   "publishYear": "2014",
+   "definition": "工厂中为员工服务的卫生设施(如更衣、存衣、脱衣、盥洗、淋浴、厕所等用房)和福利设施(如进餐、食堂、会议休息、急救医疗等用房)等所组成的建筑物。"
+  },
+  {
+   "cn": "教师福利",
+   "en": "teacher welfare",
+   "source": "教育学名词",
+   "wordNumber": "15.134",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "政府部门或学校为教师提供的工资以外的待遇。"
+  },
+  {
+   "cn": "福利国家",
+   "en": "Welfare State",
+   "source": "世界历史名词",
+   "wordNumber": "03.0838",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_北欧五国",
+   "subjectName": "北欧五国",
+   "publishYear": "2012",
+   "definition": "通过创办并资助社会公共事业，实行和完善一整套社会福利制度，以保证社会秩序和经济生活的正常运行，维护资产阶级利益和统治的发达资本主义国家。以北欧诸国为典型。"
+  },
+  {
+   "cn": "福利标准",
+   "en": "welfare criteria",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.185",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "传统福利经济学以效用理论为基础，提出了以消费者剩余和希克斯-卡尔多补偿原则来衡量社会福利的观点。前者主张用消费者剩余来衡量社会的福利；后者认为如果资源配置的结果使福利受益者补偿福利受损者后，受益者福利"
+  },
+  {
+   "cn": "失业福利",
+   "en": "unemployment welfare",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.117",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "工作者在失业情况下所获得的福利。包括两个部分：一是由于工人自己的原因而失去工作所获得的国家给予的一定数量的救济金，即失业保险；另一部分是企业由于裁员、缩减工时和岗位重组等原因而发给工人一定数额的津贴以"
+  },
+  {
+   "cn": "当事人权益，咨客权益",
+   "en": "client welfare",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "福利地理学",
+   "en": "welfare geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "福利国家",
+   "en": "welfare state",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "福利经济学",
+   "en": "welfare economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "惠民和济局",
+   "en": "People's Welfare Pharmacies",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "函数",
+   "en": "function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "函数",
+   "en": "function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功能主义，机能主义",
+   "en": "functionalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "官能度",
+   "en": "functionality",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "官能度",
+   "en": "functionality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "功能性",
+   "en": "functionality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "惠民和剂局",
+   "en": "The Bureau of People's Welfare Pharma-cies",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功能基因组学",
+   "en": "functional genomics\",\"function genomics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲函数",
+   "en": "impulse function\",\"pulse function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "景观功能",
+   "en": "landscape function",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公共福利性",
+   "en": "nature of public welfare",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扶贫公益平台",
+   "en": "public welfare platform for poverty alleviation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公益岗位扶贫",
+   "en": "poverty alleviation by providing public welfare jobs",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哈希函数",
+   "en": "hash function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "福利国家",
+   "en": "welfare state",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "国家行使权力建立保障公民福利的管理模式和体制。强调公民社会权利，在收入、卫生健康、教育、住房和社会服务等领域内建立保障措施的国家形式，基于其原则和内容已发展成为不同模式。"
+  },
+  {
+   "cn": "福利危机",
+   "en": "welfare crisis",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "20世纪70年代中期，经济的全球化、财政危机、失业人口增长以及老龄化加剧等因素造成西方福利国家内部政治、经济、社会福利之间的失衡现象，高额的社会支出和财政赤字迫使很多福利国家开始福利改革。"
+  },
+  {
+   "cn": "福利多元主义",
+   "en": "welfare Pluralism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "社会福利投资主体由公共、社会、私有、志愿以及家庭等部门共同参与提供，满足社会成员在医疗、教育、住房、社会服务等各方面的社会福利需求，即赞成福利的混合经济政策。"
+  },
+  {
+   "cn": "制度型福利",
+   "en": "institutional welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "国家通过税收制度和设施建设，保障全体社会成员医疗、教育、住房、养老、托幼等公共服务的社会福利模式。强调国家的责任与公民的社会权利。对应于普遍主义，社会成员获得社会福利服务的机会以及其标准一致。"
+  },
+  {
+   "cn": "剩余型福利",
+   "en": "residual welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "基于家庭财产调查，对部分特定人群或家庭提供救助以满足最基本的需要。仅当家庭或市场的福利功能失灵，个人基本需要不能满足时，国家出面提供救助的最基本的安全网。具有临时、替代和标签污名化的特性。"
+  },
+  {
+   "cn": "选择型福利",
+   "en": "selective welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "提供社会救助或社会支持给部分特定人群，特别是困难群体，基于家庭财产调查的社会福利模式。在某种程度上等同于剩余型福利。"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.6.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会福利",
+   "subjectName": "社会福利",
+   "publishYear": "2025",
+   "definition": "国家、社会以及企事业单位为各类特殊的社会弱势群体（妇女、儿童、老人、残疾人、精神病人等）和本单位职工提供的福利性收入与服务保障。"
+  },
+  {
+   "cn": "儿童福利",
+   "en": "child welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "面向儿童提供社会福利的制度及其给付，包括补缺型或补救性的福利提供，和普惠或适度普惠的福利提供。"
+  },
+  {
+   "cn": "青少年福利",
+   "en": "youth welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.34",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "面向青少年提供社会福利的制度及其给付，包括青少年所获得的各种福利提供及相应的制度安排。"
+  },
+  {
+   "cn": "福利国家论",
+   "en": "welfare statism",
+   "source": "马克思主义",
+   "wordNumber": "05.0143",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪中后期，德国法兰克福学派第三代主要代表人物克劳斯·奥菲（Claus Offe）从马克思主义视角对福利国家及其性质、功能作了新的理解，并对现代福利国家的矛盾和危机作了分析。他认为福利国家无法完全"
+  },
+  {
+   "cn": "公益性",
+   "en": "public welfare",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "卫生服务供给的特点。一个项目或者一个团体具有非营利性和社会效益性，其行动要遵循社会大众的共同利益，最终的结果要符合绝大多数人的利益。"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "社会医学名词",
+   "wordNumber": "3.11.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会保障体系",
+   "publishYear": "2025",
+   "definition": "国家、社会以及企事业单位为各类特殊的社会弱势群体（妇女、儿童、老人、残疾人、精神病人等）和本单位职工提供的福利性收入与服务保障。"
+  },
+  {
+   "cn": "社会福利设施",
+   "en": "social welfare facilitie",
+   "source": "社会学名词",
+   "wordNumber": "4.3.6.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会福利",
+   "subjectName": "社会福利",
+   "publishYear": "2025",
+   "definition": "国家、集体以及社会举办的福利性企事业单位和场所，一般包括福利院、养老院（托老所）、托儿所和精神病院等。"
+  },
+  {
+   "cn": "福利彩票事业",
+   "en": "welfare lottery project",
+   "source": "社会学名词",
+   "wordNumber": "4.3.6.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会福利",
+   "subjectName": "社会福利",
+   "publishYear": "2025",
+   "definition": "国家以“扶老助残，济困救孤”为宗旨，通过彩票筹集社会福利资金，兴办残疾人、老年人、孤儿福利事业，以帮助有困难的人为目标的社会福利事业。"
+  },
+  {
+   "cn": "社会福利院",
+   "en": "social welfare institute",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "收养城市“三无”老人、孤残儿童与弃婴，并对其进行养、治、教并举的工作，以保障弱势群体的合法权益，维护社会稳定的社会公益单位。"
+  },
+  {
+   "cn": "儿童福利政策",
+   "en": "child welfare policy",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "以满足儿童需求、保障儿童权利、促进儿童福祉为目的的政策体系。广义指一切涉及儿童福利的政策行动；狭义指针对特殊困境儿童的政策行动。"
+  },
+  {
+   "cn": "儿童福利行政",
+   "en": "child welfare administration",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "政府机关或公共团体促进儿童身心及安全发展与正常生活的行政活动，或是执行儿童福利相关政策的过程。"
+  },
+  {
+   "cn": "儿童福利院",
+   "en": "child welfare institute",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "民政部门在城镇举办的以孤儿、残疾儿童为主要收养对象的福利事业单位。主要收养城镇中无家可归、无依靠、无生活来源的孤儿；同时收费照养有家但无力照管的残疾儿童。实行“养、治、教”相结合的方针，即对健全儿童实"
+  },
+  {
+   "cn": "发展型社会福利",
+   "en": "developmental social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.86",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "社会福利的一种形态。以人的全面发展为目标，要求以人为中心来设计社会福利制度或计划，立足于社区生活和社区发展，重视动员每一个社会成员积极参与，启发人们挖掘自身的潜力，强调人的尊严和自我实现，追求物质生活"
+  },
+  {
+   "cn": "社会福利（国家）实质法范式",
+   "en": "social-welfare substantive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.5.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法范式",
+   "subjectName": "法范式",
+   "publishYear": "2025",
+   "definition": "社会福利国家出现之后的法律类型。该法律打破了社会与国家的截然二分，不仅保护形式平等和消极自由，而且关注实质平等和个人的积极自由，通过干预经济和社会生活、保障经济社会权利来增加个人实现自由的能力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

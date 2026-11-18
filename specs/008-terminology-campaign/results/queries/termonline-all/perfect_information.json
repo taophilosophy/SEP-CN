@@ -1,0 +1,662 @@
+{
+ "key": "perfect information",
+ "term": "perfect information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:25:27+00:00",
+ "status": "ok",
+ "note": "variant=perfect information; 审定公布名词库=5686; 海峡两岸名词对照库=1410; 其他来源数据库=624; 预公布名词数据库=262; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "完美信息博弈",
+   "en": "perfect information game",
+   "source": "经济学名词",
+   "wordNumber": "03.154",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "每个信息集都是单节点的博弈。在博弈论中，若每一个参与人采取行动时准确地掌握了其他参与人的行动以及在其采取行动之前其他参与人的行动，则称该博弈是完美信息博弈。"
+  },
+  {
+   "cn": "全信息对策",
+   "en": "game with perfect information",
+   "source": "数学名词",
+   "wordNumber": "011.0478",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完全解理",
+   "en": "perfect cleavage",
+   "source": "地质学名词",
+   "wordNumber": "03.01.085",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "矿物晶体受力后总是沿解理面分裂，解理面显著而平滑。"
+  },
+  {
+   "cn": "双面印刷",
+   "en": "perfect printing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.009",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "一次给纸过程中完成正、反两面印刷的方式。"
+  },
+  {
+   "cn": "胶粘订",
+   "en": "perfect binding",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.05.004",
+   "subjectFullName": "编辑与出版学_印刷_印后加工",
+   "subjectName": "印后加工",
+   "publishYear": "2022",
+   "definition": "简称“胶订”。将书帖、书页用胶黏剂粘联成册的订联方式。"
+  },
+  {
+   "cn": "完全辐射",
+   "en": "perfect radiation",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0145",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_辐射",
+   "subjectName": "辐射",
+   "publishYear": "2022",
+   "definition": "能量以电磁波或粒子 (如阿尔法粒子、贝塔粒子等)的形式完全向外扩散的现象。 "
+  },
+  {
+   "cn": "理想反射体",
+   "en": "perfect reflector",
+   "source": "光学名词",
+   "wordNumber": "09.145",
+   "subjectFullName": "光学_光无源器件",
+   "subjectName": "光无源器件",
+   "publishYear": "2021",
+   "definition": "能够反射入射光波的全部光能量的物体。"
+  },
+  {
+   "cn": "完全竞争",
+   "en": "perfect competition",
+   "source": "经济学名词",
+   "wordNumber": "03.122",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "厂商之间相互竞争不受任何阻碍和干扰的市场结构。在完全竞争市场中，买卖双方的数量如此之多以及信息如此之完美，以至于任何一个厂商和消费者都不能影响市场价格，双方均是价格接受者。在完全竞争市场上，商品是同质"
+  },
+  {
+   "cn": "完全垄断",
+   "en": "perfect monopoly",
+   "source": "经济学名词",
+   "wordNumber": "03.130",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "整个行业中只有唯一的一个厂商的市场组织。"
+  },
+  {
+   "cn": "理想导体",
+   "en": "perfect conductor",
+   "source": "物理学名词",
+   "wordNumber": "03.0027",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "完全真菌",
+   "en": "perfect fungus",
+   "source": "植物学名词",
+   "wordNumber": "05.0011",
+   "subjectFullName": "植物学_真菌学",
+   "subjectName": "真菌学",
+   "publishYear": "2019",
+   "definition": "能进行有性生殖的真菌。"
+  },
+  {
+   "cn": "理想成像",
+   "en": "perfect imaging",
+   "source": "物理学名词",
+   "wordNumber": "04.0369",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "完全抗磁性",
+   "en": "perfect diamagnetism",
+   "source": "物理学名词",
+   "wordNumber": "08.3089",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "完全保密",
+   "en": "perfect secrecy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0083",
+   "subjectFullName": "计算机科学技术_信息安全_密码理论与技术",
+   "subjectName": "密码理论与技术",
+   "publishYear": "2018",
+   "definition": "在收到密文的条件下，猜测明文内容的难度，等同于在未收到密文的条件下猜测明文内容的难度。"
+  },
+  {
+   "cn": "全混洗",
+   "en": "perfect shuffle",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0627",
+   "subjectFullName": "计算机科学技术_计算机体系结构_互连系统",
+   "subjectName": "互连系统",
+   "publishYear": "2018",
+   "definition": "将输入端的二进制编码循环左移一位，得到输出端的编码。"
+  },
+  {
+   "cn": "完美完全性",
+   "en": "perfect completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0421",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个随机算法接受一个肯定输入的概率为１。"
+  },
+  {
+   "cn": "完美记忆",
+   "en": "perfect recall",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0015",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "认知逻辑中对智能体的一种假设。认为智能体可以记住系统运行的所有状态信息。"
+  },
+  {
+   "cn": "完全共线性",
+   "en": "perfect collinearity",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0597",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "在多个解释变量模型中，一个变量是一个或多个其他变量的线性函数。"
+  },
+  {
+   "cn": "完全相关",
+   "en": "perfect correlation",
+   "source": "心理学名词",
+   "wordNumber": "03.125",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "一种最强的相关。即存在相关的两个变量，相关程度越高围绕直线的分布范围越小，所有点都落在直线上。"
+  },
+  {
+   "cn": "完全真菌",
+   "en": "perfect fungi",
+   "source": "微生物学名词",
+   "wordNumber": "03.100",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "能进行有性生殖的真菌。"
+  },
+  {
+   "cn": "理想预报，完全预报",
+   "en": "perfect forecast\",\"perfect prediction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全真菌",
+   "en": "perfect fungus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全解偶",
+   "en": "perfect decoupling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "完全控制",
+   "en": "perfect control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "完全相关",
+   "en": "perfect correlation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "完全歧视",
+   "en": "perfect discrimination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "完全吸收体",
+   "en": "perfect absorber",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "理想媒质",
+   "en": "perfect medium",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全混洗",
+   "en": "perfect shuffle",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完美晶体",
+   "en": "perfect crystal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全保密",
+   "en": "perfect secrecy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全位错",
+   "en": "perfect dislocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理想气体",
+   "en": "perfect gas",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "改善性维护",
+   "en": "perfective maintenance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "十足笨蛋",
+   "en": "The Perfect Fool",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Horst, Louis"
+  },
+  {
+   "cn": "半完全终止",
+   "en": "semi-perfect cadence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "完全负相关",
+   "en": "perfect negative correlation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "完全正相关",
+   "en": "perfect positive correlation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "完全宇宙学原理",
+   "en": "perfect cosmological principle",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逆完全混洗",
+   "en": "inverse perfect shuffle",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "妙造自然",
+   "en": "Perfect Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息级联",
+   "en": "information cascade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息通信",
+   "en": "Information Communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完美的罪行",
+   "en": "perfect crime",
+   "source": "马克思主义",
+   "wordNumber": "05.0190",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国哲学家让·鲍德里亚（Jean Baudrillard）在《完美的罪行》（1996年)中对符号所统治的世界进行了深层次剖析，提出了大胆的假说：科学技术不但扩展了“人的形象”，它还将进一步驱逐“人类的"
+  },
+  {
+   "cn": "完全信息期望值",
+   "en": "expected value of perfect information,EVPI",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2.2.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "决策论里在没有完全卫生信息时的期望损失与在理想状态下的期望损失之差。"
+  },
+  {
+   "cn": "部分完全信息期望值",
+   "en": "expected value of partial perfect information,EVPPI",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2.2.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "针对一个随机变量若所收集的信息为不完全信息，则在拥有不完全信息后的最大期望值（即不完全信息期望值）与未拥有此不完全信息时的最大期望值之差。"
+  },
+  {
+   "cn": "完全无弹性",
+   "en": "perfect price inelasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "当弹性系数等于0时，表示因变量的变动对自变量变动无影响的特性。"
+  },
+  {
+   "cn": "完全弹性",
+   "en": "perfect price elasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "当弹性系数等于∞时，表示因变量变动率相对于无穷小自变量的变动率为无穷大。"
+  },
+  {
+   "cn": "完全竞争市场",
+   "en": "perfect competitive market",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "竞争不受任何阻碍、干扰和控制的市场结构。市场价格由市场供给和需求共同决定，每一个供给者和需求者都是价格的接受者。市场供给与需求趋于平衡，资源配置达到有效率状态。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "信息可见性",
+   "en": "information visibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "一种对信息存在特性的描述。"
+  },
+  {
+   "cn": "信息时效性",
+   "en": "information timeliness",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.5",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息发挥作用是有时间限度的，在恰当的时刻得以利用才会发挥其最大效能的特性。"
+  },
+  {
+   "cn": "信息过载",
+   "en": "information overload",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "卫生信息超过了医护人员患者等个人或医疗系统所能接受、处理或有效利用的范围的一种状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

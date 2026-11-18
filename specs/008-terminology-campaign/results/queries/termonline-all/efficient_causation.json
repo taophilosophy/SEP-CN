@@ -1,0 +1,742 @@
+{
+ "key": "efficient causation",
+ "term": "efficient causation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:49:40+00:00",
+ "status": "ok",
+ "note": "variant=efficient causation; 审定公布名词库=2037; 海峡两岸名词对照库=655; 其他来源数据库=36; 预公布名词数据库=65; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "下向因果关系",
+   "en": "downward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.710",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "描述系统高层级结构对它的次级结构起着原因作用的一种因果关系。最先由心理学家唐纳德·坎贝尔（Donald Campbell）提出。"
+  },
+  {
+   "cn": "上向因果关系",
+   "en": "upward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.711",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "复杂系统的结构层次之间存在的一种因果关系。在形成高层次系统后，低层次的元素及其协同相互作用依然对高层次的运作有某种决定作用。"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causal relation; causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.213",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "事件A发生会导致事件B的发生，二者之间有律则必然性。因果关系具有相关性，但反之不然。"
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "source": "物理学名词",
+   "wordNumber": "01.0086",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "source": "心理学名词",
+   "wordNumber": "02.581",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "联想律之一。事物的原因与结果之间的观念可相互引起联想。"
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "心理学名词",
+   "wordNumber": "02.589",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在有因果关系的事物之间形成的联想。"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.067",
+   "subjectFullName": "放射医学与防护_放射流行病学_危险指标",
+   "subjectName": "危险指标",
+   "publishYear": "2014",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/ (ERR+1)。"
+  },
+  {
+   "cn": "效率",
+   "en": "efficiency",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0352",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构动力学",
+   "subjectName": "机构动力学",
+   "publishYear": "2021",
+   "definition": "有用功率与驱动功率的比值。"
+  },
+  {
+   "cn": "有效性",
+   "en": "efficiency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0263",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "计算所用时间或空间等资源的现实可行性。"
+  },
+  {
+   "cn": "效率",
+   "en": "efficiency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0830",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "并行算法的加速比与所用的处理机个数之比，反映处理机的处理能力有效利用的程度。"
+  },
+  {
+   "cn": "效率",
+   "en": "efficiency",
+   "source": "电气工程名词",
+   "wordNumber": "01.763",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "有效性",
+   "en": "efficiency",
+   "source": "数学名词",
+   "wordNumber": "011.0266",
+   "subjectFullName": "数学_运筹学_多目标规划",
+   "subjectName": "多目标规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "效率",
+   "en": "efficiency",
+   "source": "电子学名词",
+   "wordNumber": "03.028",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "因果性事实",
+   "en": "the fact of causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由现象之间的因果关系确立的现象之间的稳定关联。"
+  },
+  {
+   "cn": "循环累积因果关系理论",
+   "en": "circular and cumulative causation",
+   "source": "经济学名词",
+   "wordNumber": "08.071",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "该理论在缪尔达尔（Karl Gunnar Myrdal）的循环累积因果原理的基础上形成，该理论强调了以下三个环节：即起始的变化、第二级的强化运动、最后的上升或下降过程。他认为这个原理是反映了社会经济因"
+  },
+  {
+   "cn": "事故因果［连锁］论",
+   "en": "accident causation sequence theory",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.093",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "事故致因理论的一种。把工业伤害事故的发生过程描述为具有一定因果关系事件的连锁。包括五个因素：遗传及社会环境、人的缺点、人的不安全行为或物的不安全状态、事故、伤害。该理论由美国海因里希（H. W. He"
+  },
+  {
+   "cn": "热效率",
+   "en": "thermal efficiency,heat efficiency",
+   "source": "物理学名词",
+   "wordNumber": "05.0265",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "[水力]分级效率",
+   "en": "classification efficiency,sizing efficiency",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.180",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "溢流产品中细粒(小于规定粒度的物料)的回收率与粗粒(大于规定粒度的物料)的混杂率之差。"
+  },
+  {
+   "cn": "[塔]板效率",
+   "en": "plate efficiency,tray efficiency",
+   "source": "化学工程名词",
+   "wordNumber": "03.479",
+   "subjectFullName": "化学工程_传递过程与单元操作_传质分离过程_气液传质设备",
+   "subjectName": "气液传质设备",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "地理因果律",
+   "en": "rule of causation in geography",
+   "source": "地理学名词",
+   "wordNumber": "01.026",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "地理要素和地理单元之间因果联系的规律。"
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果链",
+   "en": "chains of causation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "效率",
+   "en": "efficiency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "效率",
+   "en": "efficiency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远因,终极导因,最终原因",
+   "en": "ultimate cause\",\"ultimate causation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近因，引信导因",
+   "en": "proximate cause\",\"proximate causation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "远因，终极导因",
+   "en": "ultimate cause\",\"ultimate causation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "热效率",
+   "en": "thermal efficiency\",\"heat efficiency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生产效率（=生长效率）",
+   "en": "production efficiency (=growth efficiency)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地理因果律",
+   "en": "rule of causation in geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "效率因子",
+   "en": "efficient factor",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "光合效率",
+   "en": "photosynthetic efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统效率",
+   "en": "ecosystem efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态效率",
+   "en": "ecological efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生长效率",
+   "en": "growth efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蒸腾效率",
+   "en": "transpiration efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转化率",
+   "en": "transformation efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "附着效率",
+   "en": "adhesion efficiency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后向散射效率",
+   "en": "backscattering efficiency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "效率",
+   "en": "efficiency",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "企业平均数据中心效率",
+   "en": "corporate average data center efficiency (CADE)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "百度ACE王牌计划",
+   "en": "Baidu’s ACE Plan — autonomous driving, connected road and efficient city",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国力量、中国精神、中国效率",
+   "en": "China has demonstrated strength, character and efficiency in fighting against the epidemic. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "职能科学、权责法定、执法严明、公开公正、廉洁高效、守法诚信的法治政府",
+   "en": "a rule of law government which has well-conceived functions and statutorily defined powers and responsibilities; which strictly enforces the law and is impartial; and which operates in an open, clean, and efficient way, with strong credibility",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "告诫",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄牌警告",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "口头警告",
+   "en": "admonition\",\"caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution\",\"warning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据监护",
+   "en": "data curation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停止侵害",
+   "en": "cessation of infringement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "admonition\",\"warning\",\"caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "探测效率",
+   "en": "detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在一定的探测条件下，探测器探测到的某种辐射的粒子数与在同一时间间隔内放射源所发射出的该种辐射粒子数的比值。"
+  },
+  {
+   "cn": "符合效率",
+   "en": "coincidence efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "同时发生的彼此有关的事件被符合装置记录并产生一次符合计数的概率，是符合测量和符合装置设计的重要参数。"
+  },
+  {
+   "cn": "闪烁效率",
+   "en": "scintillation efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.2.14",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备",
+   "subjectName": "辐射监测设备",
+   "publishYear": "2025",
+   "definition": "闪烁体将所吸收的射线能量转变为可见光的效率。常用闪烁体光输出或闪烁体能量转换效率来表示。"
+  },
+  {
+   "cn": "效率刻度",
+   "en": "efficiency calibration",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "确定核辐射探测器记录入射粒子效率的实验工作。通过实验测量确定探测器在不同条件下的响应灵敏度，从而确保其准确性和可靠性。"
+  },
+  {
+   "cn": "生态效率",
+   "en": "ecological efficiency",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.6",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "用来测量每单位生产的生态影响和经济繁荣的程度。"
+  },
+  {
+   "cn": "技术效率",
+   "en": "technical efficiency",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "用最少的投入要素组合生产出既定的产品和服务，或既定成本产出最大的产品和服务的效率。"
+  },
+  {
+   "cn": "配置效率",
+   "en": "allocative efficiency",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "生产人们赋予价值最高的产品类型和数量，即资源一定条件下的最大产出的效率。"
+  },
+  {
+   "cn": "效率测量方法",
+   "en": "efficiency measurement",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "测量和评价效率的方法。包括生产函数分析、数据包络分析和前沿随机分析等。"
+  },
+  {
+   "cn": "筹资效率",
+   "en": "financing efficiency",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.6.2.6",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资系统评价",
+   "subjectName": "卫生筹资系统评价",
+   "publishYear": "2025",
+   "definition": "在收益既定的条件下，通过降低筹资成本、减少筹资风险、优化筹资结构等方式，实现对最终投入产出比的影响的一种评价指标。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  },
+  {
+   "cn": "无源效率校准",
+   "en": "sourceless efficiency calibration",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "γ能谱仪通过计算机模拟计算给出γ射线能量与效率之间的校准方法。"
+  },
+  {
+   "cn": "效率示踪法",
+   "en": "efficiency-tracing method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.2.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_α、β粒子辐射监测技术",
+   "subjectName": "α、β粒子辐射监测技术",
+   "publishYear": "2025",
+   "definition": "用4πβ-γ符合法测量纯β发射核素活度的一种方法。"
+  },
+  {
+   "cn": "相对探测效率",
+   "en": "relative detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "在探测器探头前表面距离为25cm处，HPGe探测器与标准的圆柱形NaI（Tl）闪烁晶体（Φ×h：7.62cm×7.62cm）探测器测量60Co源1332.49keVγ射线的全能峰峰面积的比值。"
+  },
+  {
+   "cn": "本征探测效率",
+   "en": "intrinsic detection efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "用以表示探测器本身性能的参数。它等于记录的脉冲数与入射到探测器灵敏体积内的γ光子数的比值。"
+  },
+  {
+   "cn": "束流传输效率",
+   "en": "beam transmission efficiency",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.14",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "加速器系统中的出射粒子数与入射粒子数之比。"
+  },
+  {
+   "cn": "卫生服务效率",
+   "en": "health care efficiency",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "在一定卫生资源投入条件下能够实现最大卫生服务产出，或者在既定卫生服务产出水平上使用最少的卫生资源投入的效率。"
+  },
+  {
+   "cn": "卫生体系效率",
+   "en": "health system efficiency",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "在一定卫生资源投入条件下能够实现卫生体系目标最大化，或者在既定卫生体系目标实现程度下使用最少的卫生资源投入的效率。"
+  },
+  {
+   "cn": "医院服务效率",
+   "en": "hospital service efficiency ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.1.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "医院在定量资金支持下，通过采用合理的管理方式以及最优的生产要素组合，实现符合患者需要的最大化卫生服务产出的能力。"
+  },
+  {
+   "cn": "中效空气过滤器",
+   "en": "medium efficiency air filter",
+   "source": "消毒学",
+   "wordNumber": "1.8.20.8",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "对粒径≥0.5μm微粒的捕集效率<70%的过滤器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

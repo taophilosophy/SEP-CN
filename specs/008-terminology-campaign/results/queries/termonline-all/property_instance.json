@@ -1,0 +1,762 @@
+{
+ "key": "property instance",
+ "term": "property instance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:16:19+00:00",
+ "status": "ok",
+ "note": "variant=property instance; 审定公布名词库=1224; 海峡两岸名词对照库=493; 其他来源数据库=273; 预公布名词数据库=156; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0302",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）由一个类所描述和创建的对象。（2）由一个类型刻画的数据集合中的一个元素。"
+  },
+  {
+   "cn": "属性",
+   "en": "property",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.066",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "一事物和他事物发生联系时表现出来的，构成实体本质且不能离开实体独立存在的质。广延性是物质实体的质，思维是精神实体的质。"
+  },
+  {
+   "cn": "物业",
+   "en": "property",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0127",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_管理阶段与模式",
+   "subjectName": "管理阶段与模式",
+   "publishYear": "2016",
+   "definition": "各类有价值和使用价值的房屋、房屋附属设施以及相关场地等。"
+  },
+  {
+   "cn": "物业",
+   "en": "property",
+   "source": "建筑学名词",
+   "wordNumber": "06.0118",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_房地产市场",
+   "subjectName": "房地产市场",
+   "publishYear": "2014",
+   "definition": "正在使用中和已经可以投入使用的各类建筑物及附属设备、配套设施、相关场地等组成的单宗房地产实体以及依托于该实体上的权益。"
+  },
+  {
+   "cn": "星特性",
+   "en": "star-property,*-property",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0265",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "贝尔-拉帕杜拉安全模型的一条规则。按照该规则只有主体安全等级不高于客体安全等级时，才允许主体写客体。"
+  },
+  {
+   "cn": "黏结性",
+   "en": "caking property,bonding property",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.252",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "煤在外力作用下黏结成团的能力。"
+  },
+  {
+   "cn": "工作流实例",
+   "en": "workflow instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0164",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "按工作流模式的一次实际运行。"
+  },
+  {
+   "cn": "流程实例",
+   "en": "process instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0156",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "工作流技术中，在流程执行时根据流程定义而创建的流程运行实例。"
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.465",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "某种实体的一个具体的例子。"
+  },
+  {
+   "cn": "膨胀性",
+   "en": "swelling property",
+   "source": "地质学名词",
+   "wordNumber": "17.02.153",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "黏性土吸水后体积增大的特性。"
+  },
+  {
+   "cn": "企业性质",
+   "en": "enterprise property",
+   "source": "风景园林名词",
+   "wordNumber": "03.0339",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "企业的所有制形式。其类型分别有国有企业、集体企业、联营企业、股份合作制企业、私营企业、个体户、合伙企业、有限责任公司、股份有限公司等。"
+  },
+  {
+   "cn": "流变性",
+   "en": "rheologic property",
+   "source": "精细化工名词",
+   "wordNumber": "05.0394",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "涂料流动和形变的性质。"
+  },
+  {
+   "cn": "施工性",
+   "en": "application property",
+   "source": "精细化工名词",
+   "wordNumber": "05.0399",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "涂料施工的难易程度。涂料施工性良好，一般是指涂料易施涂（刷、喷、浸等），流平性良好，不出现流挂、起皱、缩边、渗色、咬底；干性适中，易打磨，重涂性好，以及对施工环境要求低等。"
+  },
+  {
+   "cn": "脱水性质",
+   "en": "dehydration property",
+   "source": "急救医学名词",
+   "wordNumber": "03.274",
+   "subjectFullName": "急救医学_日常医学急救_外科学_体液平衡失调",
+   "subjectName": "体液平衡失调",
+   "publishYear": "2025",
+   "definition": "脱水状态下，现存体液相对于生理状态出现的渗透压改变。可以反映水和电解质的相对丢失量。钠是决定细胞外液渗透压的主要成分，所以临床根据血清钠的水平将脱水分为低渗性脱水、高渗性脱水和等渗性脱水3种。"
+  },
+  {
+   "cn": "产权",
+   "en": "property right",
+   "source": "农学名词",
+   "wordNumber": "19.219",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "法律认可的财产所有关系及依附其上的各种权益（如经营权、承包权、使用权和分配权等）的总称。"
+  },
+  {
+   "cn": "物性",
+   "en": "physical property",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "物质在一定的状态下表现出来的物理性质。"
+  },
+  {
+   "cn": "传递物性",
+   "en": "transfer property",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.034",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "与传递过程有关的物性。如黏度、导热系数、比热容、表面张力、扩散系数等。"
+  },
+  {
+   "cn": "物性获取",
+   "en": "property retrieving",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "通过物性数据库软件、网络或过程模拟软件中的物性模块获取物性数据的过程。"
+  },
+  {
+   "cn": "性质集成",
+   "en": "property integration",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "一种分配和操纵流股及过程单元，跟踪、调整、分配和匹配整个系统的多种性质的过程集成方法。"
+  },
+  {
+   "cn": "性质算子",
+   "en": "property operator",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "为使性质满足物料守恒定律而引入的参数。"
+  },
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "例图",
+   "en": "instance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "财物",
+   "en": "property",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "大气特性",
+   "en": "atmospheric property",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总体性质",
+   "en": "bulk property",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界性质",
+   "en": "critical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "结块性",
+   "en": "caking property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热物理性质",
+   "en": "thermophysical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "驻点性质",
+   "en": "stagnation property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "运输性质",
+   "en": "transport property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理性质",
+   "en": "physical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "财产税",
+   "en": "property tax",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可测量性质",
+   "en": "measurable property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加成性",
+   "en": "additive property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动力性质",
+   "en": "kinetic property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密封性能",
+   "en": "sealing property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "运动性质",
+   "en": "kinematic property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "触变性质",
+   "en": "thixotropic property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "强度性质",
+   "en": "intensive property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络财产",
+   "en": "network property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "属性图",
+   "en": "property graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "系统属性",
+   "en": "System Property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财产权",
+   "en": "property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟财产",
+   "en": "virtual property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧物业",
+   "en": "smart property management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据产权",
+   "en": "data property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据财产权",
+   "en": "data property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双重产权",
+   "en": "dual property rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界知识产权组织",
+   "en": "World Intellectual Property Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "产权变革",
+   "en": "reform of property rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财产数据资产安全",
+   "en": "property data asset security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公物法",
+   "en": "law of public property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "source": "马克思主义",
+   "wordNumber": "04.0038",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "财产最初意味着劳动的主体把自己的生产或再生产的条件看作是自己的东西。马克思认为财产是在复杂的阶级和社会阶层的制度中起重要作用的一种基本关系。财产形式的变化是标志经济社会形态演替的主要特征。"
+  },
+  {
+   "cn": "抗渗水性",
+   "en": "waterproof property",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.18",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "织物能够防止被水润湿和浸透的能力。"
+  },
+  {
+   "cn": "财产性收入",
+   "en": "property income",
+   "source": "马克思主义",
+   "wordNumber": "02.0426",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "经济主体凭借拥有的动产（如银行存款、有价证券等）、不动产（如房屋、车辆、土地、收藏品等）所获得的收入。它包括出让财产使用权所获得的利息、租金、专利收入，以及财产营运所获得的红利收入、财产增值收益等。"
+  },
+  {
+   "cn": "族产",
+   "en": "clan property",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0149",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "宗族的公有财产，是维持家族制度的经济支柱。民间族产包括土地、耕牛、山场、桥渡、沿海滩涂及水利工程、水碓、碾房等生产和生活设施。"
+  },
+  {
+   "cn": "测量性能",
+   "en": "measurement property",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具质量的属性。包括信度、效度、反应度和可解释性等。"
+  },
+  {
+   "cn": "家庭财产调查",
+   "en": "family property survey",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "在社会救助制度中为考察救助申请人家庭收入及财产等方面状况，鉴定申请者是否具备获得某项社会救助资格的一种制度或手段。"
+  },
+  {
+   "cn": "产权清晰",
+   "en": "clearly defined property rights",
+   "source": "马克思主义",
+   "wordNumber": "02.0423",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以法律的形式明确企业出资者的所有权与企业法人的财产权，使二者权利和责任的界定清晰，即企业在产权的所有、占有、使用、处置和收益等相关权利的归属明确。"
+  },
+  {
+   "cn": "医院产权理论",
+   "en": "hospital property right theory ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.1.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "将产权理论引入医院管理，关于医院产权、激励与经济行为的关系，探讨医院不同的产权结构对收益–报酬制度及资源配置的影响，强调产权医院不同产权在经济交易中作用的理论。"
+  },
+  {
+   "cn": "《家庭、私有制和国家的起源》",
+   "en": "Origin of Family, Private Property and State",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0592",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "恩格斯关于古代社会发展规律和国家起源的著作，是马克思主义国家学说的代表作之一，副标题为《就路易斯·亨·摩尔根的研究成果而作》；该书写于1884 年3～5 月，同年10月在苏黎世出版单行本。此书是恩格斯"
+  },
+  {
+   "cn": "贫困",
+   "en": "poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "个人、家庭或群体因没有机会或能力获取足够的资源，基本生存及发展需求得不到满足的一种状态。主要有绝对贫困与相对贫困两类。"
+  },
+  {
+   "cn": "贫困",
+   "en": "poverty",
+   "source": "马克思主义",
+   "wordNumber": "03.0132",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "个人或家庭必要生活资料缺乏或生活水平处于社会极低水平的状况。分为绝对贫困和相对贫困。绝对贫困是指仅够维持最低生活水平的状态。相对贫困是指收入或生活条件相对于其他集团或个人提高更多来说的贫困状态。资本主"
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "source": "马克思主义",
+   "wordNumber": "03.0554",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全体人民通过辛勤劳动和相互帮助最终达到丰衣足食的生活水平。共同富裕是邓小平论述社会主义本质的重要内容和根本原则，是对以往社会两极分化的否定。其实现途径是：允许和鼓励一部分地区、一部分人通过诚实劳动和合"
+  },
+  {
+   "cn": "城市贫困",
+   "en": "urban poverty",
+   "source": "社会学名词",
+   "wordNumber": "3.4.8.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市贫困与不平等",
+   "subjectName": "城市贫困与不平等",
+   "publishYear": "2025",
+   "definition": "某一部分城市居民因就业不充分等原因成为低收入群体，且难以维持一般的生活标准的状态。通常与失业、非正规就业或低技能、低薪就业相关，往往集中居住，形成贫困社区。"
+  },
+  {
+   "cn": "绝对贫困",
+   "en": "absolute poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "社会成员获得的实际收入、拥有的消费资料及服务不能满足其基本生存需要的状态。目前我国城乡居民最低生活保障依据各地物价水平划定的绝对贫困线。"
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "社会成员基本生存需求得到满足，没有机会或能力体验当地一定经济社会条件下所公认的生活水准的状态。世界银行《1981年世界发展报告》的描述是：“当某些人、某些家庭或某些群体没有足够的资源去获取他们那个社会"
+  },
+  {
+   "cn": "贫困线",
+   "en": "poverty line",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "对因各种原因造成收入难以维持基本生活的个人或家庭进行救助而制定的收入标准线。以衡量在一定的时间、空间和社会发展阶段的条件下，维持人们的基本生存所必需消费的物品和服务的最低费用。"
+  },
+  {
+   "cn": "贫困救助",
+   "en": "poverty relief",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "国家和社会为保障贫困人口基本生活，为其提供资金、物质和社会服务的社会保障措施。主要包括生活救助、生产救助、医疗救助、教育救助和住房救助等。"
+  },
+  {
+   "cn": "因病致贫发生率",
+   "en": "poverty headcount",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.2.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "贫困标准线以下人口中因病致贫的比例。"
+  },
+  {
+   "cn": "距离比例",
+   "en": "distance scale",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.10.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以终点稀释法观察细胞病变时用来计算半数组织细胞感染量的数值。即大于50%的病变率与50的差值除以大于50%的病变率与小于50%病变率的差值。"
+  },
+  {
+   "cn": "距离防护",
+   "en": "distance protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "采取尽可能远离辐射源或散射体的方法以减少受照剂量的防护措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

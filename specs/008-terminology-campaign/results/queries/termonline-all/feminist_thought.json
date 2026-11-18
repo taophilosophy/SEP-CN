@@ -1,0 +1,792 @@
+{
+ "key": "feminist thought",
+ "term": "Feminist Thought",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:55:42+00:00",
+ "status": "ok",
+ "note": "variant=Feminist Thought; 审定公布名词库=531; 海峡两岸名词对照库=172; 其他来源数据库=70; 预公布名词数据库=47; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "女权主义生命伦理学",
+   "en": "feminist bioethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.169",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "20世纪下半叶，女性主义学者和活动家将注意力转向生命伦理学领域后形成的新的理论思潮。并以其特有的关怀主义呼吁生物医学领域中的性别平等、人文关怀和社会公平等价值观念的生命伦理学流派。"
+  },
+  {
+   "cn": "女权主义地理学",
+   "en": "feminist geography",
+   "source": "地理学名词",
+   "wordNumber": "17.014",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "利用女权政治学及其相关理论研究性别与地理学之间的相互关系。"
+  },
+  {
+   "cn": "思",
+   "en": "thought",
+   "source": "中医药学名词",
+   "wordNumber": "03.403",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "思考。"
+  },
+  {
+   "cn": "思维被夺",
+   "en": "thought withdrawal,thought deprivation",
+   "source": "精神医学名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想被拿走了或被某一外在的代理者挪用的一种精神病理状态。对干扰来源于“异己”的确信并不是继发推理的结果，而是发生于强制当时，与思想被撤走的体验同时发生。"
+  },
+  {
+   "cn": "思维鸣响",
+   "en": "audible thought,voiced thought",
+   "source": "精神医学名词",
+   "wordNumber": "02.054",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想被重复或在头脑里回响(自己并没有发声说出来)的一种精神病理状态。原本的思想及其回声之间通常只间隔几秒钟。重复出来的思想，虽然内容与原来的一样，但却可以感到性质上有轻微改变。是精神"
+  },
+  {
+   "cn": "女性主义传播研究",
+   "en": "feminist communication studies",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.124",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "从女性的视角对传播现象中隐含的男性中心主义及性别不平等的批判性分析。"
+  },
+  {
+   "cn": "女权主义媒介研究",
+   "en": "feminist media studies",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.033",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "以女权主义理论作为分析框架，研究媒体制度、媒体产制、内容文本、媒体组织及其记者作用、媒介用户及其接收等方面的性别公正议题。"
+  },
+  {
+   "cn": "女性主义心理学",
+   "en": "feminist psycho- logy",
+   "source": "心理学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "排斥传统心理学中的男性中心偏见，研究应考虑父权制社会下不平等性别关系的心理学学派。"
+  },
+  {
+   "cn": "设计构思",
+   "en": "design thought",
+   "source": "风景园林名词",
+   "wordNumber": "07.0076",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "针对有目标和计划的风景园林创作行为及活动作系统性的、有中心及层次的、物化的整体性思维活动。"
+  },
+  {
+   "cn": "思想实验",
+   "en": "thought experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.094",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "科学家在头脑中设计和构造出一套理想化的仪器设备和研究对象，进行纯粹理想化的实验操作和控制，发现和获取科学事实与自然规律的思维活动。"
+  },
+  {
+   "cn": "科学思想",
+   "en": "scientific thought",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.292",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "人类通过实践所形成的关于物质世界的系统化、规律性的科学知识的基本观念。反映了对物质世界整体图景和规律的综合认识，主要表现为科学的基本理论和学说。"
+  },
+  {
+   "cn": "思维脱轨",
+   "en": "thought derailment",
+   "source": "行为医学名词",
+   "wordNumber": "16.043",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "思考历程不按条理及不合逻辑，从一个观念忽然转到另一个毫无关联观念的精神病理状态。"
+  },
+  {
+   "cn": "强制性思维",
+   "en": "forced thought",
+   "source": "行为医学名词",
+   "wordNumber": "16.051",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "感到自己头脑中有一些思想不属于自己、不是自己发动的一种思维形式障碍。"
+  },
+  {
+   "cn": "思维中断",
+   "en": "thought blocking",
+   "source": "行为医学名词",
+   "wordNumber": "16.052",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "在无意识障碍，又无外界干扰等状况下，思维过程突然中断的精神病理状态。说话时突然停顿，片刻之后又重新说话，但所说内容不是原来的话题。"
+  },
+  {
+   "cn": "思维被夺",
+   "en": "thought deprivation",
+   "source": "行为医学名词",
+   "wordNumber": "16.053",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "思维被某种外力抽走的感觉。常与客观观察到的思维中断同时发生。"
+  },
+  {
+   "cn": "强迫思维",
+   "en": "obsessional thought",
+   "source": "行为医学名词",
+   "wordNumber": "16.141",
+   "subjectFullName": "行为医学_其他神经行为障碍_强迫相关障碍",
+   "subjectName": "强迫相关障碍",
+   "publishYear": "2022",
+   "definition": "反复、持续地出现一些无法自控的观念和概念的精神病理现象。常伴有被强迫感和痛苦感。"
+  },
+  {
+   "cn": "强制性思维",
+   "en": "forced thought",
+   "source": "精神医学名词",
+   "wordNumber": "02.094",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "思维自主性出现异常的一种思维形式障碍。表现为受检者感到自己的一些思想不属于自己，不是自己发动的。他们体验到这些思想在脑海中自动地出现而没有内在的抵抗，为此感到异乎寻常和奇怪。虽然他们不能做出有意义的努"
+  },
+  {
+   "cn": "思维中断",
+   "en": "thought blocking",
+   "source": "精神医学名词",
+   "wordNumber": "02.084",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "思维联系途径出现异常的一种思维形式障碍。表现为受检者在既无意识障碍，又无外界干扰等状况下，思维过程突然出现中断。表现为说话时突然停顿，片刻之后又重新说话，但所说内容不是原来的话题。"
+  },
+  {
+   "cn": "思维障碍",
+   "en": "thought disorder",
+   "source": "精神医学名词",
+   "wordNumber": "02.070",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者言语、交流或思维出现紊乱的一种精神病理状态。从看问题的角度，大略可以分为思维形式障碍和思维内容障碍。"
+  },
+  {
+   "cn": "思维播散",
+   "en": "thought broadcasting",
+   "source": "精神医学名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想立即被他人共享，或者为公众所知的一种精神病理状态。"
+  },
+  {
+   "cn": "女权主义地理学",
+   "en": "feminist geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "思维，思考",
+   "en": "thinking\",\"thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征思维",
+   "en": "representational thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自动思维",
+   "en": "automatic thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析性思维",
+   "en": "analytical thought",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "思维控制训练",
+   "en": "thought control training",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地理学思想史",
+   "en": "history of geographic thought",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "子宫受精囊",
+   "en": "receptaculum seminis uterirum",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "干旱",
+   "en": "drought",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "干旱",
+   "en": "drought",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "干旱",
+   "en": "drought",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "喙槽",
+   "en": "rostral though",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "透印，透墨",
+   "en": "strike through\",\"see through",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "受精囊",
+   "en": "spermatheca\",\"receptaculum seminis(拉)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "低压槽",
+   "en": "trough",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "料槽",
+   "en": "trough",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海槽",
+   "en": "trough",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海槽",
+   "en": "trough",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "低压槽",
+   "en": "trough",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "联运货",
+   "en": "through transport cargo\",\"through cargo",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "思无邪",
+   "en": "No Depraved Thoughts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诚意",
+   "en": "Be Sincere in Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言不尽意",
+   "en": "Words Cannot Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言尽意",
+   "en": "Words Can Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诸子百家",
+   "en": "A Hundred Schools of Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "习近平外交思想",
+   "en": "Xi Jinping Thought on Diplomacy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "习近平生态文明思想",
+   "en": "Xi Jinping Thought on Ecological Civilization",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诸子学",
+   "en": "Study of A Hundred Schools of Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "寄托",
+   "en": "<div> Entrust One’s Thoughts and Feelings to Imagery</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "习近平新时代中国特色社会主义思想",
+   "en": "Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "民各有心，勿壅惟口",
+   "en": "The People Have Their Own Thoughts; Their Voices Should Not Be Silenced.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文不灭质，博不溺心",
+   "en": "Graceful Wording Should Not Conceal Content, and Intricate Rhetoric Should Not Drown Out the Author’s Feelings and Thoughts.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治大国若烹小鲜",
+   "en": "Governing a big country is like cooking small fish. (Those who govern the country must be meticulous and thoughtful and take all factors into consideration, so that their policies and measures benefit everyone.)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性别检查",
+   "en": "feminity control\",\"gender test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随动作",
+   "en": "follow through",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟随动作",
+   "en": "follow through",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "带球过人",
+   "en": "beat\",\"break through",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "师法之化",
+   "en": "Enlightenment Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "女性主义社会学",
+   "en": "feminist sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性研究与社会学专业的融合，倡导从社会性别视角和女性经验立场出发，检讨传统社会学中的性别盲点和误区，对其男性中心的理论框架和方法论原则进行批判，并建构具有女性主义意识的社会学知识和方法论体系。"
+  },
+  {
+   "cn": "女性主义方法论",
+   "en": "feminist methodology",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义倡导的一种以社会性别为核心概念、植根于女性日常生活经验的批判性的研究视角和立场。在研究程序上强调知识的反身性和情境化，在具体方法上主张多元化和包容性，在研究目标上则推崇服务于弱势性别群体的价值"
+  },
+  {
+   "cn": "女权主义理论",
+   "en": "feminist theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "与激进人文主义或马克思主义理论有密切联系的社会工作理论。主要植根于20世纪60-70年代以来的妇女运动，关注女性所受到的压抑，认为女性所遭遇到的许多生活问题都是性别压制的结果，社会工作的目标就是探索并"
+  },
+  {
+   "cn": "女权主义的马克思主义",
+   "en": "feminist Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0087",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "产生于20世纪70年代初，把马克思主义的历史分析法和阶级分析法运用于女权主义运动中，分析妇女受压迫与剥削的根源，进而寻求妇女反抗与解放的具体路径而兴起的一个女权主义流派。"
+  },
+  {
+   "cn": "女性主义伦理学",
+   "en": "feminist ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.157",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "强调女性权利与尊严的伦理学理论。主张男女平等、妇女解放。不仅研究女性的道德问题，而且从女性主义视角研究社会生活中的道德问题。"
+  },
+  {
+   "cn": "女权运动",
+   "en": "feminist movement",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0216",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "妇女争取与男子平等的权利，以改善妇女社会地位和生活境遇为主要目的的社会运动。"
+  },
+  {
+   "cn": "思想",
+   "en": "thought",
+   "source": "马克思主义",
+   "wordNumber": "01.0014",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与作为思维活动的结果的理性认识同义，指人的意识对客观事物的本质和规律的反映。思想由社会存在决定，同时又对其有能动的反作用，具有相对独立性。"
+  },
+  {
+   "cn": "生态女性主义信仰",
+   "en": "eco-feminist theology",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.7",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种产生于基督教内部的思想，要求收回《圣经》中有关女人和自然被歧视被虐待的形象，试图跳出父权的和不关心现世的传统基督教的束缚。"
+  },
+  {
+   "cn": "社会思想",
+   "en": "social thought",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "人们在不同历史阶段的社会生产和社会生活实践中所形成的种种社会观念、构想或理论体系。理论社会学范畴，涉及政治、经济、文化、宗教、艺术等各个方面。"
+  },
+  {
+   "cn": "以人为本",
+   "en": "people-oriented thought",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "科学发展观的核心思想。社会经济发展的终极目的是促进人的全面发展，强调人人平等，尊重人作为“人”的基本权利及尊严，注重社会公平正义。“人”即人民，也包括作为个体的人；“本”即主体、本质、目的。"
+  },
+  {
+   "cn": "毛泽东思想",
+   "en": "Mao Zedong Thought",
+   "source": "马克思主义",
+   "wordNumber": "03.0321",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东同志为主要代表的中国共产党人，把马克思列宁主义的基本原理同中国革命的具体实践结合起来，创立了毛泽东思想。毛泽东思想是马克思列宁主义在中国的运用和发展，是被实践证明了的关于中国革命和建设的正确的"
+  },
+  {
+   "cn": "伦理思想实验法",
+   "en": "ethical thought experiment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.234",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "基于特定的伦理学理论、素材等材料，设定理想化的伦理情境，提出若干伦理问题，以激发人们伦理思考的实验方法。"
+  },
+  {
+   "cn": "燕京学派",
+   "en": "Yenching School of thought",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.46",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "形成于20世纪30年代，以燕京大学社会学系吴文藻及其学生为核心，提倡社区研究的一个社会学人类学同仁团体。主要人物有费孝通、林耀华、李安宅、瞿同祖、杨庆堃、田汝康等，学术脉络综合了德、美文化论和英国功能"
+  },
+  {
+   "cn": "思想政治工作",
+   "en": "thought and political work",
+   "source": "马克思主义",
+   "wordNumber": "03.0446",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党的工作的重要组成部分，是宣传、教育、组织群众为实现党的纲领和任务而奋斗的手段。思想政治工作是一门综合性、应用性的科学。主要研究人的思想活动规律，提高人们认识世界和改造世界的能力。"
+  },
+  {
+   "cn": "胡志明思想",
+   "en": "Ho Chi Minh thought",
+   "source": "马克思主义",
+   "wordNumber": "05.0238",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "由越南共产党第一代领袖胡志明创造性地运用马克思列宁主义与越南的具体条件并加以发展的成果，主要内容是关于越南革命的基本问题的系统观点，核心内容是胡志明革命道路的观点，主张把社会主义与民族独立相结合。越南"
+  },
+  {
+   "cn": "斯大林新闻思想",
+   "en": "Stalins thoughts on journalism",
+   "source": "马克思主义",
+   "wordNumber": "04.0101",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林关于报纸及新闻媒体的作用、地位和应坚持的原则的思想综合，包括：①报纸作用。党的报纸具有“极强的凝聚力”，帮助党发挥核心领导作用；运用报纸进行批评和自我批评，“及时发现我们党的脓疮”；“精神导线”"
+  },
+  {
+   "cn": "新思想新概念",
+   "en": "new thought and new concepts",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学",
+   "subjectName": "环境社会学",
+   "publishYear": "2025",
+   "definition": "3.14.5.1  环境流  environmental flow"
+  },
+  {
+   "cn": "毛泽东哲学思想",
+   "en": "philosophical thought of Mao Zedong",
+   "source": "马克思主义",
+   "wordNumber": "01.0227",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为代表的中国共产党人把马克思列宁主义哲学思想与中国革命和建设的具体实践相结合的产物，以《矛盾论》《实践论》为代表作，是马克思列宁主义哲学思想的中国化理论。"
+  },
+  {
+   "cn": "政策和策略思想",
+   "en": "thought about policy and tactic",
+   "source": "马克思主义",
+   "wordNumber": "03.0429",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想的重要组成部分。其主要内容包括：政策和策略的重要性；制定和执行政策和策略的守则和方法；对敌斗争、统一战线的政策和策略。这些思想集中体现在《目前抗日统一战线中的策略问题》《论政策》《关于打退第"
+  },
+  {
+   "cn": "三个代表重要思想",
+   "en": "important thought of Three Represents",
+   "source": "马克思主义",
+   "wordNumber": "03.0620",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以江泽民为核心的第三代中央领导集体创立的党的指导思想的构成部分。其主要内容是：中国共产党要始终代表中国先进生产力的发展要求、要始终代表中国先进文化的前进方向、要始终代表中国最广大人民的根本利益。它是中"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

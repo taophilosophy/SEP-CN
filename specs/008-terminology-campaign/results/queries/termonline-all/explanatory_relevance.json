@@ -1,0 +1,402 @@
+{
+ "key": "explanatory relevance",
+ "term": "explanatory relevance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:05:57+00:00",
+ "status": "ok",
+ "note": "variant=explanatory relevance; 审定公布名词库=77; 海峡两岸名词对照库=9; 其他来源数据库=7; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "相关度",
+   "en": "relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.167",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "信息检索结果对用户信息需求的满足程度。"
+  },
+  {
+   "cn": "相关性",
+   "en": "relevance",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0545",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "被检出的信息与信息用户的需求之间的相关度。"
+  },
+  {
+   "cn": "样地直观记录",
+   "en": "relevé",
+   "source": "植物学名词",
+   "wordNumber": "13.0237",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "通过视觉记录植物习性和生境的数据描述一个区域内的植被特征的方法。"
+  },
+  {
+   "cn": "说明能力",
+   "en": "explanatory power",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.103",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "理论或假说可以有效说明所涉及主题的多少。"
+  },
+  {
+   "cn": "说明的还原论",
+   "en": "explanatory reductionism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "认为某层次或形式的说明可由另一层次或形式的说明推导得出。"
+  },
+  {
+   "cn": "解释鸿沟",
+   "en": "explanatory gap",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.516",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "J. 莱文（J. Levine）对物理知识无法说明主观意识体验的感受特性的一种反物理主义的知识论描述。无论我们掌握多少物理世界的知识，在概念上我们仍然无法解释某种复杂的大脑状态或计算过程，以及会让人感"
+  },
+  {
+   "cn": "题解",
+   "en": "explanatory note",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.040",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "说明书籍或文章的作者、内容、版本等情况的辅文。"
+  },
+  {
+   "cn": "释义注",
+   "en": "explanatory note",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.068",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对正文中的语句、用词进行说明的注释。"
+  },
+  {
+   "cn": "解释变量",
+   "en": "explanatory variable",
+   "source": "经济学名词",
+   "wordNumber": "10.049",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "着重研究的自变量，是研究者重点考查对因变量有何影响的变量。"
+  },
+  {
+   "cn": "解释性妄想",
+   "en": "explanatory delusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.120",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者的歪曲感受显得合理的妄想。如受检者感到很多陌生人都对自己跟踪盯梢，解释为这是一个组织串通了迫害他的证据。"
+  },
+  {
+   "cn": "一般参照",
+   "en": "explanatory reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.640",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "一种概括性地指明标目的选取原则的方法。它向读者提供关于某个事项的一项普通说明或一条分类编目通例，使读者遵照它去查阅目录。凡是图书分类、著录规则或目录组织规则，需进一步说明时，都可编制一般参照卡片。采用"
+  },
+  {
+   "cn": "解释方式",
+   "en": "explanatory style",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.103",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对事件做出某种归因的相对稳定的倾向，特别是与抑郁有关的倾向。"
+  },
+  {
+   "cn": "解释性对等词",
+   "en": "explanatory equivalent",
+   "source": "语言学名词",
+   "wordNumber": "06.086",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "与“翻译对等词”相对。在处理目标语中缺失的文化特色词时，双语词典为解释词头所提供的释义性短语。"
+  },
+  {
+   "cn": "解释充分性",
+   "en": "explanatory adequacy",
+   "source": "语言学名词",
+   "wordNumber": "01.130",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "见“观察充分性”。"
+  },
+  {
+   "cn": "解释性词典",
+   "en": "explanatory dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.233",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。对所收录词汇的意义、语法和语用等信息给予详细解释。一般指普通单语词典，也指那种帮助用户理解外语文本的双语词典。"
+  },
+  {
+   "cn": "解释性释义",
+   "en": "explanatory definition",
+   "source": "语言学名词",
+   "wordNumber": "06.306",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "释义方法的一种。构造一个与释义对象意义和语法功能相同的子句或短语来解释其意义。"
+  },
+  {
+   "cn": "关联性",
+   "en": "relevance,association",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0644",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "系统内部各组成部分之间、系统与环境之间所具有的相互依赖、相互作用和相互制约的特性。"
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.072",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "抽取有助于提高检得结果相关度的关键词用于原有检索式的修改，再据此检得更有用的相关结果。"
+  },
+  {
+   "cn": "相关度排序",
+   "en": "relevance ranking",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.153",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "综合运用检索模型（如布尔模型、向量空间模型、概率模型等）对检索结果进行处理，按检索结果与检索表达式的相关程度进行计算和评估比较，根据计算结果对文档排序的一种方法。"
+  },
+  {
+   "cn": "样地记录[表]",
+   "en": "relevé",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "解释性地理学",
+   "en": "explanatory geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "说明注记",
+   "en": "explanatory text",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "图外说明",
+   "en": "explanatory note",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "关联失效",
+   "en": "relevant failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "探究行为",
+   "en": "exploratory behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "探索性因素分析",
+   "en": "exploratory factor analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "潜伏学习",
+   "en": "latent learning\",\"exploratory learning",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "探索空间数据分析",
+   "en": "exploratory spatial data analysis\",\"ESDA",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "优雅",
+   "en": "elegance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优雅",
+   "en": "elegance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "典雅",
+   "en": "Classical Elegance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "冲淡",
+   "en": "Quiet Elegance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主可控战略",
+   "en": "self-reliance strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "散郁陶，托风采",
+   "en": "Words Can Dispel One’s Pent-up Feelings and Display One’s Elegance.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释性序列设计",
+   "en": "explanatory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先收集定量数据，然后收集并使用定性数据来更深入解释定量研究的结果的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "进出境水生动物相关场地消毒",
+   "en": "disinfection of relevant venues for entry-exit aquatic animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.5.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对具有染疫风险的进出境水生动物相关场所清除且杀灭病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "探索性因子分析",
+   "en": "exploratory factor analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.127",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "探索观测变量之间共同性的统计程序。有时亦包含个案分组。"
+  },
+  {
+   "cn": "探索性序列设计",
+   "en": "exploratory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先用定性研究探索研究问题，在此基础上进行第二阶段的定量研究，对定量研究的结果进行分析，最终形成有效的定量研究工具或干预设计，用于正式定量研究的定性、定量混合研究方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

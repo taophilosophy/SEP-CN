@@ -1,0 +1,782 @@
+{
+ "key": "recent discussions",
+ "term": "recent discussions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:11:23+00:00",
+ "status": "ok",
+ "note": "variant=recent discussions; 审定公布名词库=1168; 海峡两岸名词对照库=396; 其他来源数据库=86; 预公布名词数据库=76; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "讨论线索",
+   "en": "discussion thread",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0774",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "在论坛或公告板上由某个特定文章引发的一系列文章。"
+  },
+  {
+   "cn": "讨论法",
+   "en": "discussion method",
+   "source": "教育学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "在教师的指导下，学生以全班或小组为单位，围绕某一中心论题，各抒己见，共同探讨，从而有效获得知识的教学方法。"
+  },
+  {
+   "cn": "近代地震活动",
+   "en": "recent seismicity",
+   "source": "地质学名词",
+   "wordNumber": "11.03.006",
+   "subjectFullName": "地质学_地震地质学_地震类型",
+   "subjectName": "地震类型",
+   "publishYear": "2026",
+   "definition": "有文字记载以来的历史地震活动和19世纪末以来有仪器记录的现代地震活动。"
+  },
+  {
+   "cn": "近期火山",
+   "en": "recent volcano",
+   "source": "地质学名词",
+   "wordNumber": "12.01.024",
+   "subjectFullName": "地质学_火山地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "全新世火山，包括新生代以来的活火山、休眠火山和有近期活动证据的死火山。"
+  },
+  {
+   "cn": "近期阅读",
+   "en": "recent reading",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.15",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "近期一段时间内受众阅读产品的行为。"
+  },
+  {
+   "cn": "现生种",
+   "en": "recent species",
+   "source": "动物学名词",
+   "wordNumber": "2.0378",
+   "subjectFullName": "动物学_动物进化与系统学_动物地理",
+   "subjectName": "动物地理",
+   "publishYear": "2021",
+   "definition": "现在在地球上一定空间内生存的物种。特别指对地史和历史时期而言，当今尚有生存的物种。"
+  },
+  {
+   "cn": "近期记忆",
+   "en": "recent memory",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.075",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对最近的经历、人、事的记忆。"
+  },
+  {
+   "cn": "现代侵蚀",
+   "en": "recent erosion",
+   "source": "林学名词",
+   "wordNumber": "08.022",
+   "subjectFullName": "林学_水土保持与荒漠化防治_水土保持",
+   "subjectName": "水土保持",
+   "publishYear": "2016",
+   "definition": "人类出现在地球上之后所发生的侵蚀过程。"
+  },
+  {
+   "cn": "现代侵蚀",
+   "en": "recent erosion",
+   "source": "土壤学名词",
+   "wordNumber": "08.002",
+   "subjectFullName": "土壤学_土壤侵蚀与水土保持",
+   "subjectName": "土壤侵蚀与水土保持",
+   "publishYear": "1998",
+   "definition": "人类活动以来发生的侵蚀过程。"
+  },
+  {
+   "cn": "清议报",
+   "en": "The China Discussion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.057",
+   "subjectFullName": "新闻学与传播学_新闻史_近代新闻史_中国",
+   "subjectName": "中国",
+   "publishYear": "2022",
+   "definition": "梁启超流亡日本后创办的第一份资产阶级改良派刊物。1898年12月23日创办于日本横滨，1901年因火灾停刊。"
+  },
+  {
+   "cn": "无领导小组讨论",
+   "en": "leaderless group discussion",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0486",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "多位评价者对由若干位受测者组成的不指定领导人的小组讨论中表现出的能力进行评判的过程。"
+  },
+  {
+   "cn": "无领导小组讨论",
+   "en": "leaderless group discussion",
+   "source": "心理学名词",
+   "wordNumber": "12.101",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "由应试者小组以无指定领导人方式讨论给定的关键问题并做出决策的评估技术。"
+  },
+  {
+   "cn": "小组交流互动",
+   "en": "focus group discussion",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.084",
+   "subjectFullName": "物理医学与康复_总论_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "由社会工作者和残疾人组员共同组成的体系。在这个体系中，专业工作者与组员通过讨论的形式互动，彼此分享快乐和经验，分担责任和义务，互相帮助和教育，互相抚慰心理创伤和疏导心理障碍，改善他们的人生态度、人际关"
+  },
+  {
+   "cn": "现代非构造运动",
+   "en": "recent nontectonic movement",
+   "source": "地质学名词",
+   "wordNumber": "09.07.089",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "由水热作用、水文气象作用、水文地质(流体动力)作用、成岩作用等引起的现代表生地质构造变化。其影响范围为沉积圈或仅仅涉及其上部。上述这些因素有的是短期的或季节性的，如土层的冻融、飓风的通过、雨水的降落、"
+  },
+  {
+   "cn": "近代横向地壳弯曲",
+   "en": "recent transcurrent buckling",
+   "source": "地质学名词",
+   "wordNumber": "09.07.121",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "由差异性垂直运动形成的，走向与区域基底构造线方向近于直交的近代隆起带。"
+  },
+  {
+   "cn": "近代火山活动",
+   "en": "recent volcanic movement",
+   "source": "地质学名词",
+   "wordNumber": "12.01.006",
+   "subjectFullName": "地质学_火山地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "有历史记载以来的火山活动。据统计，全球现有活火山516座，其中69座位于水下。"
+  },
+  {
+   "cn": "近代沉积土",
+   "en": "recently deposited soil",
+   "source": "地质学名词",
+   "wordNumber": "17.02.053",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "第四纪全新世中近期沉积的土层。"
+  },
+  {
+   "cn": "病例讨论",
+   "en": "case conference,case discussion",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "有关患者疾病诊断与治疗问题的讨论，是一种解决临床问题的方法。"
+  },
+  {
+   "cn": "商洽用语",
+   "en": "discussion and negotiation phrase",
+   "source": "档案学名词",
+   "wordNumber": "02.04.048",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "公文专用词语的一种。有礼貌地征求对方意见时所使用的带探询语气的词语。一般用于上行文或平行文。如“当否”“可否”“是否可行”“意见如何”“是否同意”“能否办理登记”等。"
+  },
+  {
+   "cn": "绝对自由地交换意见",
+   "en": "complete freedom of discussion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.027",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "恩格斯论述党内思想交流状态的术语。在西欧工人政党壮大之时，恩格斯发现党由于报刊和宣传而变成了为领袖提供黄油的奶牛。他提出：党内绝对自由地交换意见是必要的，在党的刊物上应当有探讨理论问题的辩论自由。他要"
+  },
+  {
+   "cn": "小组讨论",
+   "en": "panel discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现生种",
+   "en": "recent species",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "自由式讨论",
+   "en": "free floating discussion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无领导小组讨论",
+   "en": "leaderless group discussion\",\"LGD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最近最少使用",
+   "en": "least recently used\",\"LRU",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最近最少使用替换算法",
+   "en": "least recently used replacement algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "百分比，百分数，百分率",
+   "en": "percent",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上升",
+   "en": "ascent",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水泥",
+   "en": "cement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重音",
+   "en": "accent",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "试剂",
+   "en": "reagent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "试剂",
+   "en": "reagent",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "试剂",
+   "en": "reagent",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "正割",
+   "en": "secant",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重发",
+   "en": "resend",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "新月体",
+   "en": "crescent",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "齿骨质",
+   "en": "cement",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "新月形骨针",
+   "en": "crescent",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "再热",
+   "en": "reheat",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "脾隐窝",
+   "en": "splenic recess\",\"lienal recess",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "知人论世",
+   "en": "Know Others and Discuss Their World",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法后王",
+   "en": "Follow the Examples of Recent Kings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "试剂",
+   "en": "reagent",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "下坡",
+   "en": "descent",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "race\",\"event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "concours\",\"event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上坡",
+   "en": "ascent\",\"climb\",\"rise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "震网病毒事件",
+   "en": "Stuxnet event",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "团体赛",
+   "en": "team event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人赛",
+   "en": "individual event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "田赛项目",
+   "en": "field event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "小组讨论",
+   "en": "group discussion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "在教育者或组织者的引导下，通过集体讨论的形式，对所学课题或规定的题目提出各自的看法，从而加深对已学知识的理解和运用的教学方法。也适用于以改变态度、提高决策能力和沟通技能为目的教学内容。"
+  },
+  {
+   "cn": "选题小组讨论",
+   "en": "nominal group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过程序化的小组讨论过程，发现问题、确定优先领域、筛选评价指标等的研究方法。通常由具有各种不同既得利益、不同思想意识和不同专业水平的人组成一个小组发掘问题，并把所发现的问题按其重要程度排列出来。"
+  },
+  {
+   "cn": "专题小组讨论",
+   "en": "focus group discussion",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "通过召集一小组同类人员，对某一研究议题进行讨论，得出结论的定性调查方法。"
+  },
+  {
+   "cn": "体面工作",
+   "en": "decent employment",
+   "source": "社会医学名词",
+   "wordNumber": "3.13.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "就业",
+   "publishYear": "2025",
+   "definition": "个人在自由、公正、安全及有尊严的条件下获得的体面且富有成效的工作。"
+  },
+  {
+   "cn": "继嗣",
+   "en": "descent",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "从文化意义上把某人通过其父或其中一方与一群亲属联系起来的关系，确立这一关系的作用在于规定个人在亲属集团中的地位、权利、义务和继承关系等。"
+  },
+  {
+   "cn": "继嗣",
+   "en": "descent",
+   "source": "社会学名词",
+   "wordNumber": "3.1.2.2",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_世系",
+   "subjectName": "世系",
+   "publishYear": "2025",
+   "definition": "被社会所承认的逝者后代对逝者的继承，既包括了对宗祧义务的继承（承祀），又包括对财产的继承（承业）。是一个群体赖以延续的基础，在社会生活中扮演着重要的角色。"
+  },
+  {
+   "cn": "复测",
+   "en": "retest",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "学生体质健康调查时，要求按照当日调查人数3%的比例随机抽取已完成调查学生，由质控或其他调查人员在调查现场重新对被抽查对象进行的第二次测量。通过计算首测和第二次测量之间指标的误差率，评估现场调查质量。"
+  },
+  {
+   "cn": "事件",
+   "en": "event",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.8",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "历史上或社会上发生过的不寻常的大事情，是传统史学的对象，也构成传统史学的基本元素。从其特征上看，是单元独立性的；就其内容而言，是与政治、军事、外交、人物活动以及文化、经济的重大变动相联系的，"
+  },
+  {
+   "cn": "两可继嗣",
+   "en": "ambilineal descent",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0415",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个人计算其世系或血缘，既可以依据父系，也可以依据母系。在某种情况下，一个人可以选择他所愿意发生联系的继嗣群，在另一种情况下，一个人可以从父系继嗣群转移到母系继嗣群，也可以从母系继嗣群转移到父系继嗣群，"
+  },
+  {
+   "cn": "化学纯",
+   "en": "chemically reagent",
+   "source": "消毒学",
+   "wordNumber": "6.1.3.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "化学试剂的纯度规格，属于三级品，标签颜色为中蓝，用于要求较低的分析实验和要求较高的合成实验。"
+  },
+  {
+   "cn": "波特兰水泥",
+   "en": "Portland cement",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.7",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "硅酸盐水泥，因水泥硬化后的颜色与英格兰岛上波特兰地方用于建筑的石头相似，故命名。常制作成混凝土作为一种建筑墙体辐射屏蔽防护材料，密度为2.3g·cm-3。"
+  },
+  {
+   "cn": "阻吸收",
+   "en": "prevent absorption",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.15.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "放射性核素内污染治疗中的一种医学处理方式，应用药物与放射性核素螯合、形成难溶性化合物或在胃肠道内壁形成保护膜，阻止胃肠道吸收。"
+  },
+  {
+   "cn": "继嗣群体",
+   "en": "descent group",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.15",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "以一个现实或虚构的祖先的直系后裔为界定成员资格标准的社会统一体。最典型且普遍的成员资格界定标准是单系继嗣，包括父系和母系继嗣。"
+  },
+  {
+   "cn": "家族",
+   "en": " descent group",
+   "source": "社会学名词",
+   "wordNumber": "4.2.6.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会组织",
+   "subjectName": "社会组织",
+   "publishYear": "2025",
+   "definition": "由若干个具有共同社会血缘的家庭组成的集团。作为包含了多个家庭的更高一级的社会血缘亲属的集团，其成员也不一定共同居住。在传统社会中，此类比家庭更高一级的血缘集团相当常见。"
+  },
+  {
+   "cn": "现状",
+   "en": "present situation",
+   "source": "马克思主义",
+   "wordNumber": "03.0205",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "目前的状况，是现有的自然界和社会现象所揭示的事物有规则的存在方式。"
+  },
+  {
+   "cn": "防止两极分化",
+   "en": "prevent polarization",
+   "source": "马克思主义",
+   "wordNumber": "03.0547",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平关于社会发展和分配领域的一个重要思想。邓小平认为：防止两极分化的关键在于我们的制度和政策。我们遵循两条最重要的原则：第一，公有制经济始终占据主体地位；第二，坚持走共同富裕的道路。一部分地区，一部"
+  },
+  {
+   "cn": "大课间体育活动",
+   "en": "recess exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_课外体育活动",
+   "subjectName": "课外体育活动",
+   "publishYear": "2025",
+   "definition": "学生在大课间时在校内进行的，以健身活动、保健操为主要内容，以班级为基本组织单位的体育锻炼活动。"
+  },
+  {
+   "cn": "双系继嗣",
+   "en": "bilatcral descent",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0414",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "同时可从父系和母系两种方向推算的继嗣制度，例如两可继嗣、双边继嗣。"
+  },
+  {
+   "cn": "复检",
+   "en": "repeat testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.2",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对食品安全风险监测中抽样检验结果有异议的样品，按照程序进行再次检验以确定检验结果的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

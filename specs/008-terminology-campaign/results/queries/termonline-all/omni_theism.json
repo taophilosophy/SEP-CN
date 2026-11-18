@@ -1,0 +1,672 @@
+{
+ "key": "omni-theism",
+ "term": "omni-theism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:45:55+00:00",
+ "status": "ok",
+ "note": "variant=omni-theism; 审定公布名词库=63; 海峡两岸名词对照库=13; 其他来源数据库=27; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "全向天线",
+   "en": "omni-antenna",
+   "source": "通信科学技术名词",
+   "wordNumber": "12.176",
+   "subjectFullName": "通信科学技术_移动通信",
+   "subjectName": "移动通信",
+   "publishYear": "2007",
+   "definition": "在水平面内辐射性基本没有差异，而在垂直面内具有定向辐射性的天线。"
+  },
+  {
+   "cn": "全导型光纤",
+   "en": "omni guide fiber",
+   "source": "物理学名词",
+   "wordNumber": "04.1464",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "全向天线",
+   "en": "omni-directional antenna",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0508",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "在所有方向上发送或接收信号的天线。"
+  },
+  {
+   "cn": "全方位反射镜",
+   "en": "omni-directional reflector,ODR",
+   "source": "光学名词",
+   "wordNumber": "09.132",
+   "subjectFullName": "光学_光无源器件",
+   "subjectName": "光无源器件",
+   "publishYear": "2021",
+   "definition": "置于LED模块底部、对0°～90°的入射光波进行反射的反射镜。它一般为金属或塑料制成且内壁镀有高反射金属膜的倒锥形圆筒，能对LED发出的发散光进行适当会聚。"
+  },
+  {
+   "cn": "全向移动机构",
+   "en": "omni-directional mobile mechanism",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0526",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "能使移动机器人实现朝任一方向即时移动的轮式结构。"
+  },
+  {
+   "cn": "无神论",
+   "en": "atheism",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.097",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "主张世界上既没有灵魂和鬼，也没有上帝和任何其他神存在的学说。完全否定任何超自然力量。神是否存在，不能证实或证伪，属形而上学问题。与“有神论”相对。马克思主义坚持无神论，唯物主义者也是无神论者。"
+  },
+  {
+   "cn": "泰斯公式",
+   "en": "Theis equation",
+   "source": "地质学名词",
+   "wordNumber": "16.03.076",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "地下水流向井孔的平面非稳定流运动公式。"
+  },
+  {
+   "cn": "泰斯曲线",
+   "en": "Theis curve",
+   "source": "地质学名词",
+   "wordNumber": "16.03.080",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "利用泰斯公式和抽水试验实测资料在对数坐标系中绘制的，求解非稳定流水文地质参数的标准曲线。"
+  },
+  {
+   "cn": "道家",
+   "en": "Taoism",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0245",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "先秦时期的一个思想派别。以老子、庄子为代表，崇尚自然，倡导无为，擅长辩证思维，是历代统治思想的渊源之一。"
+  },
+  {
+   "cn": "论题",
+   "en": "thesis",
+   "source": "数学名词",
+   "wordNumber": "02.0018",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "硕士学位论文",
+   "en": "Master's thesis,MA thesis",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.186",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "由攻读硕士学位的研究生撰写，作为申请硕士学位评审用的学术论文。"
+  },
+  {
+   "cn": "环境监测",
+   "en": "environmental moni-toring",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0024",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_环境",
+   "subjectName": "环境",
+   "publishYear": "2022",
+   "definition": "通过对影响环境质量因素的代表值的测定，确定环境质量 (或污染程度）及其变化趋势的工作。 "
+  },
+  {
+   "cn": "学位论文",
+   "en": "thesis,dissertation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.185",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "高等学校或研究机构的学生为取得学位，在导师指导下完成的科学研究、科学试验成果的书面报告。"
+  },
+  {
+   "cn": "毕业论文",
+   "en": "graduation thesis",
+   "source": "风景园林名词",
+   "wordNumber": "10.0061",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育成果之一，内容包括选题背景与意义；研究内容与方法；国内外研究现状及发展概况、相关理论方法或者实验手段，初步论述、探讨，主要的研究结论等。"
+  },
+  {
+   "cn": "极大性论题",
+   "en": "maximality thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.618",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "机器可以生成的所有功能（根据限定的指令程序在限定的输入上工作），这些功能都可以通过图灵机计算。"
+  },
+  {
+   "cn": "李约瑟命题",
+   "en": "Needham thesis",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0052",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "长期致力于中国科技史研究的英国剑桥大学李约瑟教授在撰写《中国科学技术史》的过程中，提出的一个基本问题，本质上是探讨科学技术背后的社会文化问题。"
+  },
+  {
+   "cn": "论文硕士学位",
+   "en": "thesis master",
+   "source": "教育学名词",
+   "wordNumber": "08.243",
+   "subjectFullName": "教育学_高等教育_学位与研究生教育",
+   "subjectName": "学位与研究生教育",
+   "publishYear": "2013",
+   "definition": "对未修习相应的硕士课程，但经审核被确认具有同等学力，且完成硕士论文并通过答辩者授予的硕士学位。"
+  },
+  {
+   "cn": "毕业论文",
+   "en": "graduation thesis",
+   "source": "教育学名词",
+   "wordNumber": "08.185",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "高等学校的应届毕业生在教师指导下独立完成的总结性作业。提交毕业论文并通过答辩评审者，方可获得毕业证书。"
+  },
+  {
+   "cn": "边疆学说",
+   "en": "frontier thesis",
+   "source": "地理学名词",
+   "wordNumber": "17.067",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "专指美国殖民的西向推移中边疆起到了“安全阀”作用的一种学说。"
+  },
+  {
+   "cn": "丘奇论题",
+   "en": "Church thesis",
+   "source": "数学名词",
+   "wordNumber": "02.0221",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全向天线",
+   "en": "omni-directional antenna",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "全向天线",
+   "en": "omnidirectional antenna\",\"omni-antenna",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "子囊层",
+   "en": "thecium",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "年龄歧视",
+   "en": "ageism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "黛伊丝",
+   "en": "Thais",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Massenet, Jules"
+  },
+  {
+   "cn": "边疆学说",
+   "en": "frontier thesis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇论题",
+   "en": "Church thesis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "普雷维什－辛格命题",
+   "en": "Prebisch-Singer Thesis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "并行计算论题",
+   "en": "parallel computation thesis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背离规则",
+   "en": "departure from these rules",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "在岛上",
+   "en": "On this Island",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "限制性片段长度多态性",
+   "en": "restriction fragment length polymor- phism\",\"RFLP",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海上旅客及其行李运输雅典公约",
+   "en": "Athens Convention Relating to the Carriage of Passengers and Their Luggages by Sea",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "全向移动机构",
+   "en": "omni-directional mobile mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇—图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民各有心，勿壅惟口",
+   "en": "The People Have Their Own Thoughts; Their Voices Should Not Be Silenced.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知人论世",
+   "en": "Know Others and Discuss Their World",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "任人唯贤",
+   "en": "Appoint People Only on Their Merits",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以物观物",
+   "en": "Observe Things Based on Their Own Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "务工人员安全返岗",
+   "en": "Migrant workers return to their posts in security.    ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "这是一次危机，也是一次大考。",
+   "en": "This is a crisis and also a test.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物极必反",
+   "en": "When Reaching an Extreme, Things Are Bound to Revert to Their Opposites.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "决不能“新官不理旧账，，",
+   "en": "New officials must continue to meet the commitment undertaken by their predecessors.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视徒如己，反己以教",
+   "en": "Treat Students as You Would Treat Yourself, and Put Yourself in Their Shoes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蒙以养正",
+   "en": "Enlighten the Ignorant and Make Them Follow the Right Path",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扶贫同扶志扶智结合",
+   "en": "the combination of poverty alleviation and increasing people's confidence and enriching their knowledge",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对紧要关头当“逃兵”的干部要就地免职",
+   "en": "to remove from their posts officials who abandon the frontline at critical moments",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二人同心，其利断金",
+   "en": "If Two People Are of the Same Mind, Their Combined Strength Can  Break Metal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "白衣执甲、逆行出征",
+   "en": "Heedless of their own safety, medical workers headed for the frontline against the virus. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "解决好贫困地区农畜产品卖难问题",
+   "en": "to help farmers in poor areas solve difficulties in selling their produce and livestock",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "各国应该联手加大宏观政策对冲力度。",
+   "en": "Countries need to leverage and coordinate their macro policies to counteract the negative impact.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "赏信罚必",
+   "en": "Confer Honors and Mete Out Punishment to Those Who Deserve Them",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身与时舛，志共道申",
+   "en": "Although They Were out of Tune with the Times, Their Aspirations Were Eventually Made Known.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无神论",
+   "en": "atheism",
+   "source": "马克思主义",
+   "wordNumber": "01.0106",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "源自希腊语a（不，无）和theos（神），泛指相信神灵不存在的思想或与有神论相反的立场。马克思主义哲学中，该术语是指否定一切宗教信仰和鬼神迷信的学说，与“有神论”相对立，其理论基础是唯物主义。"
+  },
+  {
+   "cn": "泰人",
+   "en": "Thais",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0137",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "泰王国的民族之一。人口约有2716 万（2024 年）。分布在泰国各地。属蒙古人种南亚类型。操泰语，属汉藏语系侗台语族，分为多种方言，有文字。大多数泰人信佛教，也有少数人信伊斯兰教和基督教。主要从事农"
+  },
+  {
+   "cn": "世俗化命题",
+   "en": "secularization thesis",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.12",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "世俗化是在哲学、神学、社会科学等领域广泛使用的颇具争议性的概念，涂尔干、马克斯•韦伯等经典社会学家和彼得·伯格（Peter L.Berger）、托马斯·卢克曼（Thomas Luckmann）等诸多当"
+  },
+  {
+   "cn": "泰尔系数",
+   "en": "Theil Index",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "衡量人群或地区间收入不平等的指标，将总体差距分解为组间差距和组内差距，可以识别不同层次、不同组别公平性。"
+  },
+  {
+   "cn": "迪昂-诺伊拉特-蒯因命题",
+   "en": "Duhem-Neurath-Quine thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.172",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由P. 迪昂（P. Duhem）、O. 诺伊拉特（O. Neurath）、W. V. 蒯因（W. V. Quine）等分别独立提出。认为无法单独地检验一个科学假设的真假，因为经验检验需要多个背景假设。"
+  },
+  {
+   "cn": "任人唯贤",
+   "en": "appoint people on their merit",
+   "source": "马克思主义",
+   "wordNumber": "03.0485",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的中国共产党的干部路线。贤是德与才的辩证统一。以能否坚决地执行党的路线，服从党的纪律，和群众有密切的联系，有独立的工作能力，积极肯干，不谋私利为标准选人用人。"
+  },
+  {
+   "cn": "权为民所用情为民所系利为民所谋",
+   "en": "exercising power for the people showing concern for them and working for their interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0766",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "权为民所用，就是要正确看待和运用手中的权力，用人民赋予的权力服务于人民、造福于人民，绝不以权谋私；情为民所系，就是要坚持与人民群众心连心，倾听群众呼声，关心群众疾苦，切实帮助群众解决实际困难，绝不脱离"
+  },
+  {
+   "cn": "止贡替寺",
+   "en": "Vbri gung this dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0567",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教噶举派寺院。位于西藏自治区墨竹工卡县东北部。1179 年由喇嘛教噶举派止贡支系创始人止贡巴·仁饮贝主持兴建，是噶举派止贡支系的主要寺院。"
+  },
+  {
+   "cn": "又联合又斗争",
+   "en": "unite with them and at the same time struggle against them",
+   "source": "马克思主义",
+   "wordNumber": "03.0433",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的中国共产党在抗日民族统一战线中正确处理国共两党关系的原则，其实质是坚持共产党在统一战线中的领导权。在本着有利于巩固统一战线的前提下，对国民党实行既团结又斗争的方针，以达到保持阵地和发展阵地"
+  },
+  {
+   "cn": "进出境船舶船舱消毒",
+   "en": "disinfection of entry-exit ships and their cabin",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.2",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境船舶、船舱，以杀灭病原微生物为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "区别对待分化瓦解",
+   "en": "differentiate the enemies and make them disintegrate",
+   "source": "马克思主义",
+   "wordNumber": "03.0441",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在1940年的《论政策》提出的中国共产党在民主革命时期的对敌斗争策略之一。强调根据敌对势力内部在对待反共和抗日问题上不一致的态度，加以区别，利用各派别之间的矛盾，采取不同政策，以达到分化、瓦解敌"
+  },
+  {
+   "cn": "德才兼备以德为先原则",
+   "en": "principle of selecting officials on the basis of both their moral integrity and their professional competence with priority given to the former",
+   "source": "马克思主义",
+   "wordNumber": "03.0743",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持德才兼备、以德为先用人标准，是对党的组织路线和干部政策的丰富发展，是新时期党的干部工作的重要指导方针。该原则要求选拔任用干部既注重才能，更注重品德，从而使各级领导权牢牢掌握在忠于党、忠于国家、忠于"
+  },
+  {
+   "cn": "归口包干",
+   "en": "budgets prepared by competent departments at central and local levels or to hold departments responsible for their finances",
+   "source": "马克思主义",
+   "wordNumber": "02.0393",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "财政预算归口管理、支出包干使用，是1954年邓小平任财政部长时，为了使国家财政建立在稳固的基础上，保证社会主义工业化建设和社会主义改造的需要而提出的财政工作方针。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

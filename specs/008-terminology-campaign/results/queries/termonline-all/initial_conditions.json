@@ -1,0 +1,752 @@
+{
+ "key": "initial conditions",
+ "term": "initial conditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T12:49:32+00:00",
+ "status": "ok",
+ "note": "variant=initial conditions; 审定公布名词库=1621; 海峡两岸名词对照库=487; 其他来源数据库=61; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "初始条件",
+   "en": "initial condition",
+   "source": "地质学名词",
+   "wordNumber": "16.05.113",
+   "subjectFullName": "地质学_水文地质学_水文地质调查",
+   "subjectName": "水文地质调查",
+   "publishYear": "2026",
+   "definition": "在所研究时段初始时刻，渗流区内未知函数所满足的条件。"
+  },
+  {
+   "cn": "初始条件",
+   "en": "initial condition",
+   "source": "电力名词",
+   "wordNumber": "01.283",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "如果描述电路动态过程的微分方程为n阶,则电路中待求变量及(n-1)阶导数在t=0时的值。"
+  },
+  {
+   "cn": "初值条件",
+   "en": "initial condition",
+   "source": "冶金学名词",
+   "wordNumber": "04.0779",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "求解非稳态微分方程时赋予变量的初值。"
+  },
+  {
+   "cn": "初[始]条件",
+   "en": "initial condition",
+   "source": "物理学名词",
+   "wordNumber": "02.0063",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "初始条件",
+   "en": "initial condition",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0043",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "求解未知函数时，微分方程组在初始时刻所需满足的定解条件。"
+  },
+  {
+   "cn": "初值条件",
+   "en": "initial condition",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0826",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料设计、模拟与计算",
+   "subjectName": "材料设计、模拟与计算",
+   "publishYear": "2011",
+   "definition": "模拟开始初始化参数时赋予变量的初值。"
+  },
+  {
+   "cn": "初始条件",
+   "en": "initial condition",
+   "source": "大气科学名词",
+   "wordNumber": "05.497",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "在微分方程中，未知函数在初始时刻所需满足的条件。"
+  },
+  {
+   "cn": "初始状态",
+   "en": "initial condition",
+   "source": "电气工程名词",
+   "wordNumber": "14.005",
+   "subjectFullName": "电气工程_继电器及继电保护装置",
+   "subjectName": "继电器及继电保护装置",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "初始条件",
+   "en": "initial condition",
+   "source": "化学工程名词",
+   "wordNumber": "07.044",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "初始条件",
+   "en": "initial condition",
+   "source": "自动化名词",
+   "wordNumber": "02.277",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "初值敏感性",
+   "en": "initial conditions sensitivity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.748",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "系统的初始条件能够敏感地影响系统的演化行为或演化结果。在离散动力学系统中，系统的非线性相互作用产生混沌吸引子，只要初始条件发生微小的干扰与变化，系统行为的分叉会呈指数增长，也会造成迭代结果的显著的变化"
+  },
+  {
+   "cn": "初值条件",
+   "en": "initial value condition",
+   "source": "数学名词",
+   "wordNumber": "06.0004",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "工程初始条件",
+   "en": "initial condition of project",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.136",
+   "subjectFullName": "自然辩证法_工程哲学_工程知识论",
+   "subjectName": "工程知识论",
+   "publishYear": "2024",
+   "definition": "工程活动开始时所遇到的各种状态和条件。包括经济条件、技术条件、社会条件和环境条件等。"
+  },
+  {
+   "cn": "起爆",
+   "en": "initiating,initiation",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.317",
+   "subjectFullName": "煤炭科学技术_矿井建设_矿井爆破",
+   "subjectName": "矿井爆破",
+   "publishYear": "1996",
+   "definition": "激发炸药使其爆炸的过程。"
+  },
+  {
+   "cn": "声母",
+   "en": "initial",
+   "source": "语言学名词",
+   "wordNumber": "03.068",
+   "subjectFullName": "语言学_音韵学_音类分析和等韵学",
+   "subjectName": "音类分析和等韵学",
+   "publishYear": "2011",
+   "definition": "汉语音节结构的起首成分。由辅音构成。可分为清声母、浊声母和零声母。"
+  },
+  {
+   "cn": "声母",
+   "en": "initial",
+   "source": "语言学名词",
+   "wordNumber": "03.068",
+   "subjectFullName": "语言学_语音学_汉语语音学",
+   "subjectName": "汉语语音学",
+   "publishYear": "2011",
+   "definition": "汉语音节结构的起首成分。由辅音构成。可分为清声母、浊声母和零声母。"
+  },
+  {
+   "cn": "原始细胞",
+   "en": "initial,initial cell",
+   "source": "植物学名词",
+   "wordNumber": "03.0685",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "分生组织中通过分裂仍保持原状的细胞。"
+  },
+  {
+   "cn": "起始子",
+   "en": "initiator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0523",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "RNA聚合酶Ⅱ启动子的转录起始点-3和+5之间的序列。基本序列为Py2CAPy5（Py表示任一嘧啶）。与TATA框或下游启动子元件（DEP）组成RNA聚合酶Ⅱ的核心启动子。"
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0073",
+   "subjectFullName": "化工（三）_化学反应工程",
+   "subjectName": "化学反应工程",
+   "publishYear": "2019",
+   "definition": "聚合反应中能引起单分子活化而产生自由基的物质。"
+  },
+  {
+   "cn": "发起端",
+   "en": "initiator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0535",
+   "subjectFullName": "计算机科学技术_计算机体系结构_存储系统",
+   "subjectName": "存储系统",
+   "publishYear": "2018",
+   "definition": "在一个输入输出总线或者网络上发起输入输出操作的系统组件。"
+  },
+  {
+   "cn": "初始条件",
+   "en": "initial condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "初始条件",
+   "en": "initial condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "初值条件",
+   "en": "initial condition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "初始条件",
+   "en": "initial condition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "声母",
+   "en": "initial",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原始细胞",
+   "en": "initial\",\"initial cell",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "初值化",
+   "en": "initialization",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "引发",
+   "en": "initiation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "起始子",
+   "en": "initiator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "起始",
+   "en": "initiation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "初启程序",
+   "en": "initiator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "初始化",
+   "en": "initialization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "引发剂",
+   "en": "initiator",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "主动权",
+   "en": "initiative",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开始姿势",
+   "en": "initial position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发阵容",
+   "en": "initial lineup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "初次称重",
+   "en": "initial weighing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四端",
+   "en": "Four Initiators",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "首次公开募股",
+   "en": "Initial Public Offering",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧洲地平线行动计划",
+   "en": "Horizon Europe Initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Internet.org计划",
+   "en": "Internet.org Initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《乌镇倡议》（中国）",
+   "en": "Wuzhen Initiative (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开始姿势",
+   "en": "initial position\",\"ready position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开放式机器人伦理倡议",
+   "en": "Open Roboethics initiative (ORi)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "初始辐射",
+   "en": "initial radiation",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.12",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "由源发射体或辐射装置直接发射出来的未受到除空气以外的其他任何障碍物阻碍的辐射。"
+  },
+  {
+   "cn": "初始阶段",
+   "en": "initial phase",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.11.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "从发现情况、有必要立即采取行动到有效地完成这些行动的这段时间。这些行动包括运营者采取的缓解行动和现场内外的紧急防护行动。"
+  },
+  {
+   "cn": "始动调节",
+   "en": "initial regulation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮层的工作能力在工作开始时水平很低，经启动后逐渐提高的一种现象。"
+  },
+  {
+   "cn": "近期效应",
+   "en": "initial effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.10",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "在急性照射（也就是在数小时之内接受较大的剂量）之后数小时到数周就能出现的效应。"
+  },
+  {
+   "cn": "四端",
+   "en": "four initiators",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.07",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "仁、义、礼、智四种道德观念的端始、萌芽。孟子认为四端是人之本性的自然呈现，是人与动物的不同之处，人没有四端则不能称其为人；认为恻隐之心是仁之端，羞恶之心是义之端，辞让之心是礼之端，是非之心是智之端。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "初始菌量",
+   "en": "initial bacteria amount",
+   "source": "消毒学",
+   "wordNumber": "6.2.15",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "未经过消毒或灭菌处理前，单位体积空气、液体中或单位面积物体表面上可以检出的活菌数量，单位以菌落形成单位每立方米（CFU/m3）、菌落形成单位每毫升（CFU/mL）、菌落形成单位每平方米（CFU/m2）"
+  },
+  {
+   "cn": "开奶",
+   "en": "initiation of breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.5",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "分娩后第一次给新生儿喂哺人乳的时机，一般以新生儿开始吸吮母亲包括乳头和乳晕在内的乳房为标志。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "一带一路倡议",
+   "en": "Belt and Road Initiative",
+   "source": "马克思主义",
+   "wordNumber": "03.0798",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以习近平同志为核心的党中央做出的创造更全面、更深入、更多元的对外开放格局的重大决策。2013年9月和10月，中国国家主席习近平在出访中亚和东南亚国家期间，先后提出共建“丝绸之路经济带”和“21世纪海上"
+  },
+  {
+   "cn": "爱婴行动",
+   "en": "baby-friendly hospital initiative",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "鼓励世界各地的卫生设施更好地支持母乳喂养，促进母亲及其婴儿获得最佳保健的实践。该行动由联合国儿童基金会和世界卫生组织于1991年发起。"
+  },
+  {
+   "cn": "早开奶率",
+   "en": "early initiation of breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "出生后一小时内接触母亲乳房的2岁以下儿童数占年龄段儿童总数的百分比。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

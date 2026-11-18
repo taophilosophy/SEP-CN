@@ -1,0 +1,642 @@
+{
+ "key": "configuration space",
+ "term": "configuration space",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:27:37+00:00",
+ "status": "ok",
+ "note": "variant=configuration space; 审定公布名词库=1937; 海峡两岸名词对照库=559; 其他来源数据库=104; 预公布名词数据库=38; jwt-direct（JWT 直连，raw 略；已滤维基 17 条）",
+ "hits": [
+  {
+   "cn": "位形空间",
+   "en": "configuration space",
+   "source": "物理学名词",
+   "wordNumber": "05.0508",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "位形空间",
+   "en": "configuration space",
+   "source": "化学名词",
+   "wordNumber": "04.1354",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "若分子由N个原子组成，用其3N个核坐标<img src='/root/syzx/static/spz/huaxue2.04.1353.5.png'/>形成的空间。位形空间中的任意一点代表该分子的一种可"
+  },
+  {
+   "cn": "位形空间",
+   "en": "configuration space",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.068",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "分子中原子在空间的排列状况。构型不同的化合物可以分离出异构体。"
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.723",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "对于宏观上或整体上重复持续出现的某种形式，不必每一次都重新由头至尾对它的组成与结构进行描述，用一个简略的高层次的名称来指称它，称为构型。它是系统的相互关系总和或结构的一个子集或一种具体形式。"
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0215",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "分子中各原子特有的固定空间排列。用以区分立体异构体的各原子在空间的不同排列状态。根据异构体共价键的方向性分D型（右旋）和L型（左旋）两种。构型的改变要有共价键的断裂和重新组成，从而导致光学活性的变化。"
+  },
+  {
+   "cn": "构形",
+   "en": "configuration",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0418",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "在任何时刻均能完全确定机器人外形轮廓的所有关节的一组位移值。"
+  },
+  {
+   "cn": "组态",
+   "en": "configuration",
+   "source": "电力名词",
+   "wordNumber": "12.166",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "在分散控制系统中,用户根据系统要求对不同的功能模块进行适当组合与连接的过程。"
+  },
+  {
+   "cn": "构形",
+   "en": "configuration",
+   "source": "冶金学名词",
+   "wordNumber": "09.0077",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "物体在空间所占的区域。在时间t = 0时的构形为初始构形(initial configuration)，在时间t时的构形为即时构形(current configuration)。"
+  },
+  {
+   "cn": "组态",
+   "en": "configuration",
+   "source": "物理学名词",
+   "wordNumber": "05.0666",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "位形",
+   "en": "configuration",
+   "source": "物理学名词",
+   "wordNumber": "05.0665",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "核医学名词",
+   "wordNumber": "06.0107",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "分子中各个原子特有的固定空间排列。因分子中存在不对称中心，根据异构体共价键的方向性，分D-型和Ｌ-型两种，有相应光学活性的变化。"
+  },
+  {
+   "cn": "格局",
+   "en": "configuration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0271",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "图灵机运行过程中任何一个时刻的快照。它包含以下内容：当前状态、带上读头的位置、当前带上的内容。"
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "化学名词",
+   "wordNumber": "02.0655",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "在立体化学领域，构型是在1个给定构造的分子实体中，用以区分立体异构体的各原子在空间的不同排列状态。但不考虑由构象所造成的差异。"
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "药学名词",
+   "wordNumber": "03.078",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "分子中各个原子特有的固定空间排列。"
+  },
+  {
+   "cn": "构形",
+   "en": "configuration",
+   "source": "数学名词",
+   "wordNumber": "03.0054",
+   "subjectFullName": "数学_组合学·一般数学系统_组合学",
+   "subjectName": "组合学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "组态",
+   "en": "configuration",
+   "source": "自动化名词",
+   "wordNumber": "04.230",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "配发",
+   "en": "configure",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.040",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "按照客户、流向及出版物品种、数量等进行拣选、核件、集货。"
+  },
+  {
+   "cn": "可配置性",
+   "en": "configurability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0482",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "系统能够根据运行需要而被配置的能力。"
+  },
+  {
+   "cn": "位形",
+   "en": "configuration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "格局",
+   "en": "configuration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配置",
+   "en": "configuration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "构型",
+   "en": "configuration",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反应器构型",
+   "en": "reactor configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环路构型",
+   "en": "loop configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分子构型",
+   "en": "molecular configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "立体排列",
+   "en": "spatial configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "控制构型",
+   "en": "control configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "立体有规构型",
+   "en": "stereospecific configuration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "中心构形",
+   "en": "central configuration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "赤式构型",
+   "en": "erythro configuration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "绝对构型",
+   "en": "absolute configuration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "四面体构型",
+   "en": "tetrahedral configuration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "苏式构型",
+   "en": "threo configuration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "位形坐标",
+   "en": "configuration coordinate",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相对构型",
+   "en": "relative configuration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "空间配置",
+   "en": "spatial configuration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "有效飞越空间之外",
+   "en": "exterior space\",\"external space",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向量空间",
+   "en": "vector space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空间复杂性",
+   "en": "space complexity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化形貌",
+   "en": "cultural configuration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.055",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家克罗伯（Alfred L. Kroeber）提出的概念。文化基本形貌指的是与生存、生计有关的文化事项；次级形貌则是与创造力、艺术活动有关的文化活动，如语言、艺术、文学和音乐等。他认为，在任"
+  },
+  {
+   "cn": "空间",
+   "en": "space",
+   "source": "马克思主义",
+   "wordNumber": "01.0028",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质存在的基本形式之一，指物质运动的广延性、伸张性。客观存在的现实空间具有长、宽、高三种度量。空间范畴还包括宇宙空间 、网络空间、思想空间、数字空间、物理空间等等。"
+  },
+  {
+   "cn": "航天医学",
+   "en": "space medicine",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "研究人在外层空间飞行时，低压、缺氧、宇宙辐射等外界环境因素对人体生理功能的影响及其防护措施的医学学科。"
+  },
+  {
+   "cn": "有效容积",
+   "en": "usable space",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.7",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "灭菌室内不受固定部件限制，可以放置灭菌负载的有效空间。"
+  },
+  {
+   "cn": "密闭空间",
+   "en": "confined space",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.1.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "与外界相对分隔，自然通风不良的有限空间。"
+  },
+  {
+   "cn": "太空放射生物学",
+   "en": "space radiobiology",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "研究太空环境中电离辐射如重离子、质子等所致生物机体效应、机理与危害等的学科。"
+  },
+  {
+   "cn": "私人空间",
+   "en": "personal space",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "在公共场合，个体认为属于自己，因而在一般情况下不愿意他者进入的空间范围。其大体范围在60厘米至150厘米之间。广义上除上述情形外，还包括房间、日记、内在状态等。"
+  },
+  {
+   "cn": "公共空间",
+   "en": "public space",
+   "source": "社会学名词",
+   "wordNumber": "3.4.7.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市文化",
+   "subjectName": "城市文化",
+   "publishYear": "2025",
+   "definition": "城市中向公众开放的场所。如街道、广场、公园、图书馆等，可以供人们聚会、交往、休闲娱乐等。"
+  },
+  {
+   "cn": "第三空间",
+   "en": "third space",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国后现代地理学家索亚(Edward Soja）提出的概念，指同时包括了物质和精神维度的空间（即第一空间和第二空间），可以更加开放且尽可能地去把握观念、时间、表象以及意义的事实上不断位移的生活背景。"
+  },
+  {
+   "cn": "航天救生",
+   "en": "space escape",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.10",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "在载人航天的各个阶段中，当出现可能导致航天员伤亡等致命性故障时，使航天员以脱离危险和/或应急返回地面等方式实施自救和营救的过程。"
+  },
+  {
+   "cn": "有害空间",
+   "en": "dead space",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.1.1.2",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "防毒面具面罩与面部皮肤之间150 ml～200 ml 的空隙，有上次呼气末保留下来的气体，氧含量低，二氧化碳含量高，下次吸气时首先被吸入肺内，可使呼吸代偿性的加深加快，从而进一步增加呼吸阻力。"
+  },
+  {
+   "cn": "航天意外事故",
+   "en": "space accident",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.9",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "在载人航天的各个阶段中，由于不可抗或不可预见因素导致的损害。"
+  },
+  {
+   "cn": "生育间隔",
+   "en": "birth spacing",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "两次相隔的妊娠或分娩之间的时间长度（间期）总称，包括妊娠间隔、分娩间隔和剖宫产后再次妊娠间隔等"
+  },
+  {
+   "cn": "洁净辅助用房",
+   "en": "clean supporting space",
+   "source": "消毒学",
+   "wordNumber": "4.6.14.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "对空气洁净度有要求的洁净手术部的非手术室用房。"
+  },
+  {
+   "cn": "时空压缩",
+   "en": "time-space compression",
+   "source": "社会学名词",
+   "wordNumber": "2.9.9.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_全球化",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "因现代科技的进步以及资本积累追求减少周转时间和以时间消灭空间的历史发展。使得时间越来越具有加速的特征，空间上的各种障碍被克服，从而给人们带来的一种时间和空间显得被压缩了的感觉或体验。由戴维·哈维（D."
+  },
+  {
+   "cn": "空间的生产",
+   "en": "production of space",
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "空间是社会的产物或一种基于价值认识的复杂的社会建构的观点。由法国学者列斐伏尔(Henri Lefebvre）提出，主张将研究视角从空间本身转向其生产过程。"
+  },
+  {
+   "cn": "空间生产",
+   "en": "production in space",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.6",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "法国社会学家和哲学家列斐伏尔(Henri Lefebvre）提出的概念，认为社会空间是社会的产物，内涵于财产关系（比如土地）中，与社会生产力和生产关系紧密相关，每种社会都会产生出自己独特的空间。"
+  },
+  {
+   "cn": "时空伸延",
+   "en": "time-space distanciation",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.40",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "社会在时空中展开活动的一种总体能力或水平，与时空分离紧密相联、共同构成现代性扩张的动力。在吉登斯看来，现代性所导致的社会活动的全球化，就是世界性联系的发展过程，这些联系既包含在全球民族国家体系中或国家"
+  },
+  {
+   "cn": "航天运动病",
+   "en": "space motion sickness",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.3",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "航天员在太空飞行初期可能发生的眩晕、恶心、呕吐等类似于地面运动病的症状。"
+  },
+  {
+   "cn": "空间真空环境",
+   "en": "space vacuum environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.6",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "在给定空间内低于一个大气压力的气体状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,662 @@
+{
+ "key": "religious traditions",
+ "term": "religious traditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T13:15:14+00:00",
+ "status": "ok",
+ "note": "variant=religious traditions; 审定公布名词库=184; 海峡两岸名词对照库=16; 其他来源数据库=18; 预公布名词数据库=70; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "宗教建筑",
+   "en": "religious building",
+   "source": "风景园林名词",
+   "wordNumber": "04.0178",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "安置神祗、进行宗教活动及教徒修行、居住的场所。"
+  },
+  {
+   "cn": "教会档案馆",
+   "en": "religious archives",
+   "source": "档案学名词",
+   "wordNumber": "09.02.012",
+   "subjectFullName": "档案学_外国档案事业史_外国档案机构",
+   "subjectName": "外国档案机构",
+   "publishYear": "2024",
+   "definition": "伴随着基督教会组织体系的建立而产生的档案管理机构。教会档案馆起源于4世纪中叶，负责保存教皇的命令、信件和账目，以及与教皇特权和恩赐有关的文件，从13世纪起其发展成为一种馆藏国际化的档案管理机构。"
+  },
+  {
+   "cn": "宗教出版物",
+   "en": "religious publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.024",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "有关宗教及宗教内容的公开发行的或宗教团体内部性资料的出版物的统称。"
+  },
+  {
+   "cn": "宗教控制",
+   "en": "religious control",
+   "source": "行为医学名词",
+   "wordNumber": "5.048",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "以教规和宗教仪式作为社会控制手段，通过教育和惩罚两种方式约束其信徒的行为。"
+  },
+  {
+   "cn": "宗教地图",
+   "en": "religious map",
+   "source": "测绘学名词",
+   "wordNumber": "04.019",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "反映宗教种类、分布及文化特点的地图。"
+  },
+  {
+   "cn": "宗教建筑",
+   "en": "religious architecture",
+   "source": "建筑学名词",
+   "wordNumber": "02.1130",
+   "subjectFullName": "建筑学_建筑类型及组成_农业建筑",
+   "subjectName": "农业建筑",
+   "publishYear": "2014",
+   "definition": "供安置神祇、进行宗教活动及教徒修行、居住的场所。在建筑文化史上是一种重要的建筑类型。"
+  },
+  {
+   "cn": "宗教教育",
+   "en": "religious education",
+   "source": "教育学名词",
+   "wordNumber": "01.096",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "（1）在一些国家学校中开设的宗教知识教育，旨在帮助学生发展认同感和归属感，同时理解、尊重不同宗教信仰，促进不同宗教之间的和谐相处。（2）宗教院校开展的以培养宗教人才为目的的教育。"
+  },
+  {
+   "cn": "宗教改革",
+   "en": "Religious Reformation",
+   "source": "世界历史名词",
+   "wordNumber": "02.1201",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "16世纪，从德国开始漫延欧洲诸国的反对罗马天主教会的社会运动，提出以信仰得救为核心和建立廉俭教会的系统理论。"
+  },
+  {
+   "cn": "宗教骑士团",
+   "en": "Religious Chivalry",
+   "source": "世界历史名词",
+   "wordNumber": "02.0531",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "第一次十字军东侵之后，西欧天主教会与封建主为保卫其在东方侵占的领地而组织的宗教性封建军事团体。"
+  },
+  {
+   "cn": "宗教活动",
+   "en": "religious activities",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.193",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "宗教信徒举行的各种宗教与法事活动。"
+  },
+  {
+   "cn": "胡斯宗教改革",
+   "en": "Hussite Religious Reformation",
+   "source": "世界历史名词",
+   "wordNumber": "02.0900",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "15世纪初，在捷克人民反对教会的过程中，以胡斯为首的宗教改革家批判天主教会而主张实行的宗教改革。"
+  },
+  {
+   "cn": "实验传统",
+   "en": "experimental tradition",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.047",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "近代科学的研究传统之一。伽利略是实验传统的重要开创者，炼金术传统、数理传统、培根传统是实验传统兴起的重要来源。实验为自然科学进行定性描述奠定了基础，以实验事实为依据是近代科学的基本特征。"
+  },
+  {
+   "cn": "研究传统",
+   "en": "research tradition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.190",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "由L. 劳丹（L. Laudan）提出。指一系列总的假说，即关于某个研究领域的研究实体和过程，以及这一领域中如何研究问题和构造理论的基本假设。"
+  },
+  {
+   "cn": "科学传统",
+   "en": "scientific tradition",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.301",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "世代相传的科学价值信仰、科学理想追求、科学规范方法等科学文化传承。狭义是指西方自古希腊发源，经伽利略等科学家确立的数学与实验方法相结合的近代科学传统；广义也包括以中国古代自然观、物质观、时空观、运动观"
+  },
+  {
+   "cn": "道德传统",
+   "en": "moral tradition",
+   "source": "教育学名词",
+   "wordNumber": "01.195",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "历史地形成并保存下来的对人们的思想与行为具有普遍影响的相对稳定的道德原则与道德规范。"
+  },
+  {
+   "cn": "教育传统",
+   "en": "educational tradition",
+   "source": "教育学名词",
+   "wordNumber": "01.048",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "历史地形成的、为整个社群或国家所认同、共享并世代相传的教育观念、教育制度、教育内容、教育方法等的总称。"
+  },
+  {
+   "cn": "传统村落",
+   "en": "traditional village",
+   "source": "风景园林名词",
+   "wordNumber": "05.0242",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "形成较早，拥有较丰富的文化和自然资源，具有一定历史、文化、科学、艺术、社会、经济价值，应予以保护的村落。传统村落中蕴藏着丰富的历史信息和文化景观，是中国农耕文明留下的最大遗产。"
+  },
+  {
+   "cn": "传统农业",
+   "en": "traditional agriculture",
+   "source": "农学名词",
+   "wordNumber": "01.004",
+   "subjectFullName": "总论_农业类型",
+   "subjectName": "农业类型",
+   "publishYear": "2025",
+   "definition": "主要采用传统农具和机械，以人力和畜力为基本动力，凭借精耕细作和经验知识体系从事生产活动的农业形态。"
+  },
+  {
+   "cn": "传统媒体",
+   "en": "traditional media",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.036",
+   "subjectFullName": "新闻学与传播学_大众传播_大众传播媒介与传播过程",
+   "subjectName": "大众传播媒介与传播过程",
+   "publishYear": "2022",
+   "definition": "媒体分类的一种。以大众传播方式，即通过某种专业技术设备定期向社会公众发布信息或提供娱乐、教育等功能的媒体，主要包括报刊、广播、电视等媒体。与“网络媒体”或新媒体相对。"
+  },
+  {
+   "cn": "传统媒体",
+   "en": "traditional media",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.207",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "以单向的大众传播方式定期向社会公众发布信息的媒体。"
+  },
+  {
+   "cn": "宗教显露",
+   "en": "religious revelation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "传统陶瓷",
+   "en": "traditional ceramics",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "传统病",
+   "en": "traditional diseases",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "传统语法",
+   "en": "traditional grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传统药",
+   "en": "traditional drugs",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "传承字",
+   "en": "traditional Hanzi\",\"traditional Chinese character",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地域研究传统",
+   "en": "area studies tradition",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "传统熔融法",
+   "en": "traditional fusion method",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "传统出口商品",
+   "en": "traditional export commodity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "传统海洋产业",
+   "en": "traditional marine industry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "传统区域经济学",
+   "en": "traditional regional economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "中药",
+   "en": "traditional Chinese drug",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "宗教心理学",
+   "en": "religion psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "天启教",
+   "en": "revealed religion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电子跃迁",
+   "en": "electronic transitions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宗教地理学",
+   "en": "geography of religion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "宗教",
+   "en": "<div> Buddhist Teachings / Religious Sect</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传统产业数字化转型",
+   "en": "digital transformation of traditional industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中医治疗",
+   "en": "TCM (traditional Chinese medicine) therapy",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国家中医药管理局",
+   "en": "National Administration of Traditional Chinese Medicine (NATCM)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传统金融机构智慧化",
+   "en": "application of smart technology in traditional financial institutions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "推动中华优秀传统文化创造性转化、创 新性发展",
+   "en": "promoting innovative transformation and development of traditional Chinese culture",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《中医药“一带一路”发展规划（2016–2020年）》",
+   "en": "Belt and Road Development Plan for Traditional Chinese Medicine (2016‒2020)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丑",
+   "en": "Ugliness/ Chou (Role of Clown in a Traditional Chinese Opera)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "红色资源",
+   "en": "the Red Resources (sites and heritage related to the revolutionary traditions of the CPC)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宗教仪式",
+   "en": "religious rite,religious ritual",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "各个宗教及其派别所实践的、具有特定含义、规则和功能等的典礼或仪轨。"
+  },
+  {
+   "cn": "传统",
+   "en": "tradition",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "在现代化理论中与“现代”相对的一种农业的、乡村的、专制的、落后的社会状态。"
+  },
+  {
+   "cn": "宗教符号",
+   "en": "religious symbol",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.17",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "通过建筑物、艺术品、自然物或现象等方式建立的宗教表达形式。"
+  },
+  {
+   "cn": "宗教多元论",
+   "en": "religious pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "认为不同信仰体系可以和谐并存、共同发挥其作用的理论。强调不同宗教有相通的方面，承认多样性，提倡宗教宽容。"
+  },
+  {
+   "cn": "宗教拒世",
+   "en": "religious rejection",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.7",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "马克斯·韦伯用来说明救赎宗教中拒斥现世的伦理立场的概念。在他的研究中，禁欲与神秘主义是两种对立的拒世形态。"
+  },
+  {
+   "cn": "宗教经济",
+   "en": "religious economy",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.19",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "当代宗教社会学中，以理性选择理论为基础，以供给需求关系等社会经济理论和方法来分析个体、群体的宗教行为模式的研究领域。"
+  },
+  {
+   "cn": "宗教补偿",
+   "en": "religious compensator",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.20",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "宗教社会学中理性选择学派提出的基本概念，认为个体的宗教行为是理性的选择，在此前提下，认为宗教对个人提供了某种奖励或报偿。"
+  },
+  {
+   "cn": "宗教个人主义",
+   "en": "religious individualism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "现代社会中普遍存在的一个倾向，即在道德与信仰方面更强调个人的选择，而非首先从宗教传统中寻求指导。"
+  },
+  {
+   "cn": "宗教认同",
+   "en": "religious identity",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.22",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "用宗教的归属、边界、关联来定义自我的特征。有集体认同、社会认同和自我认同三个层次。"
+  },
+  {
+   "cn": "宗教体验",
+   "en": "religious experience",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.23",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "威廉·詹姆士（William James）用来表示任何结合宗教的对象和相应的情感经验的术语，是宗教的一个核心内容，也是宗教性的关键维度。"
+  },
+  {
+   "cn": "宗教激动",
+   "en": "religious thrill",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.24",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "由某一信仰或崇拜导致强烈的生理、心理的体验。"
+  },
+  {
+   "cn": "宗教共同体",
+   "en": "religious community",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.1",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "从宗教的共同行动、团体生活中产生关联纽带，将个体团结在群体之中，由此所形成的具有凝聚力的团结的共同体。"
+  },
+  {
+   "cn": "宗教组织",
+   "en": "religious organization",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "以特定信仰或宗教形式为基础形成的各种组织形式的总称。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "宗教膜拜",
+   "en": "religious cult",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.6",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "以某一或某些特定的上帝或神灵、甚至圣人或具有通灵能力的个人为对象的宗教信仰与实践，往往与社会的某些宗教制度有关，但表现形式较为新奇或特异。"
+  },
+  {
+   "cn": "宗教法",
+   "en": "religious law",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.1",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "以宗教教义为基础，调整特定社会关系、个人的行为或思想的规范体系。“神的话语是法”，即神的话语不可以被政治等其他力量所修改或决定。如犹太教的哈拉卡和伊斯兰教的沙里亚法规，二者都是“遵守之道”。"
+  },
+  {
+   "cn": "宗教立法",
+   "en": "religious legislation",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "体现出现代国家的宗教立场、宗教政策的相关立法的总称。"
+  },
+  {
+   "cn": "宗教教派",
+   "en": "religious denominations",
+   "source": "马克思主义",
+   "wordNumber": "04.0027",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "宗教社会学用语。从一种较大的宗教团体中分裂出来的小团体。自认为其信仰是唯一真正的信仰，并负有恢复宗教真面貌的使命。在教派中，一般有较强烈的共同情感与宗教上的自我认同感。"
+  },
+  {
+   "cn": "宗教教育",
+   "en": "religious education",
+   "source": "马克思主义",
+   "wordNumber": "04.0028",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广义的宗教教育指一切与宗教有关的教育制度和活动；狭义的宗教教育指直接由宗教组织承办、以培养宗教神职人员为目的、以宗教神学知识为内容的教育制度。"
+  },
+  {
+   "cn": "宗教人类学",
+   "en": "religious anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0298",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一门研究宗教现象的文化人类学（民族学）分支学科，关注宗教信仰、仪式、神话、宗教实践等方面的社会文化现象，并试图理解它们对个体和社会的影响。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
