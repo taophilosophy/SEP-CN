@@ -1,0 +1,792 @@
+{
+ "key": "modern notation",
+ "term": "modern notation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:46:47+00:00",
+ "status": "ok",
+ "note": "variant=modern notation; 审定公布名词库=5293; 海峡两岸名词对照库=1762; 其他来源数据库=219; 预公布名词数据库=306; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "标记符号",
+   "en": "notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.213",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "可以构成类目或概念标记的字符，如数字、字母、自然语言中的词及其缩写形式（文字标记）和其他符号。一般数字与字母可以单独构成分类标记，是基本的标记符号，词及其缩写和其他符号不能单独构成分类标记，是辅助的标"
+  },
+  {
+   "cn": "表示法",
+   "en": "notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0023",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "用于对模型进行表达的文字或图形符号体系。"
+  },
+  {
+   "cn": "μ记号",
+   "en": "μ-notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0923",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "形式系统中表示递归函数（不动点）的符号系统。"
+  },
+  {
+   "cn": "λ表示法",
+   "en": "λ-notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0903",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "λ演算系统中用来表示函数的方法。"
+  },
+  {
+   "cn": "现代性",
+   "en": "modernity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.807",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "从启蒙运动开始确立的一整套社会结构以及与之相匹配的生活方式和思维方式。这种社会结构体现在每个个体为自己的选择负责，传统的权威与共同体认同被瓦解并趋向于原子化，理性、科学与产业的进步推动社会变革。"
+  },
+  {
+   "cn": "现代主义",
+   "en": "modernism",
+   "source": "心理学名词",
+   "wordNumber": "04.061",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "现代西方文艺、哲学思潮和派别的总称。表现为基础主义、本质主义与个体主义等特征。"
+  },
+  {
+   "cn": "现代性",
+   "en": "modernity",
+   "source": "地理学名词",
+   "wordNumber": "17.008",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "一种新的、与以前不同的社会秩序。强调创新、变化和进步的一个权力、知识与社会实践的特殊聚合体。"
+  },
+  {
+   "cn": "颜色标号",
+   "en": "colour notation",
+   "source": "精细化工名词",
+   "wordNumber": "05.0427",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "（1）通过目视比较试样与《中国颜色体系标准样册》或《孟赛尔颜色图册》中色块而确定试样颜色的色调、明度和彩度。（2）根据试样在光源、2°视场并排除镜面光泽条件下测得的CIE系统刺激值（Y）和色度坐标（x"
+  },
+  {
+   "cn": "空间注记",
+   "en": "space notation",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.354",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "使用图画、照片、文字等形式对空间要素、使用和感受等进行的标注和记录。"
+  },
+  {
+   "cn": "整数标记制",
+   "en": "integer notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.162",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "将全部分类标记都视为整数的一种标记制度。在排列标记符号时，先按位数多少排列，位数相同时再从前往后逐位比较来决定次序的分类方法。区别于“小数标记制”。"
+  },
+  {
+   "cn": "层累标记制",
+   "en": "hierarchical notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "分类时以标记符号的长度显示类目等级层次的标记制度，即分类号的位数与类目的等级数相对应的标记制度。层累制的分类号可反映类目之间的隶属和并列关系。具体编号方法：用一位数字或一个字母来标志大类，再加一位数字"
+  },
+  {
+   "cn": "分段组合标记制",
+   "en": "faceted notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "分面标记制的一种类型。通常以特定符号表示主题的各个构成方面，从而使整个分类号由各个具有相对独立性的节段构成。可充分表达复杂主题的构成因子，但是号码冗长，成分复杂。"
+  },
+  {
+   "cn": "小数标记制",
+   "en": "decimal notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "将全部分类标记都视为小数的一种标记制度。是由纯阿拉伯数字构成的层累制分类标记的一种结构模式。其规则是采用0~9十个数字作为分类标记，每次可划分为十个类目，加一位数字予以标记。类目级位与分类号位数相对应"
+  },
+  {
+   "cn": "范畴号",
+   "en": "category notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.343",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "款目词在范畴索引中的类目归属，是查找范畴索引的依据。"
+  },
+  {
+   "cn": "回溯标记制",
+   "en": "retrospective notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.167",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "一种结构型标记制度。通过直接将分类表中的类号与位于其前的分面的类号组合，以表达一个复杂概念的类号。"
+  },
+  {
+   "cn": "let记号",
+   "en": "let-notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0922",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "函数式语言中一种描述函数（或语句）中变量取值的符号体系。"
+  },
+  {
+   "cn": "动作表示法",
+   "en": "action notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0873",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "动作语义描述中所使用的形式化表示方法。"
+  },
+  {
+   "cn": "入级标志",
+   "en": "class notation",
+   "source": "船舶工程名词",
+   "wordNumber": "01.148",
+   "subjectFullName": "船舶工程_船舶种类及船舶检验、国际公约和证书",
+   "subjectName": "船舶种类及船舶检验、国际公约和证书",
+   "publishYear": "1998",
+   "definition": "船级社在授予的入级符号后所附加的表征船舶类型、特种任务、货物种类、航区、冰区加强以及其他含义的一个或一组标志。"
+  },
+  {
+   "cn": "字母数字符号",
+   "en": "alphanumeric notation",
+   "source": "电气工程名词",
+   "wordNumber": "01.923",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "肯德尔记号",
+   "en": "Kendall notation",
+   "source": "数学名词",
+   "wordNumber": "011.0536",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "记号",
+   "en": "notation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记法",
+   "en": "notation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比例记谱法",
+   "en": "proportional notation\",\"proportionate notation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现代主义",
+   "en": "modernism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现代性",
+   "en": "modernity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "有量记谱法",
+   "en": "mensural notation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记数信用证",
+   "en": "notation credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "八进制记数法",
+   "en": "octal notation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "十六进制记数法",
+   "en": "hexadecimal notation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二进制记数法",
+   "en": "binary notation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现代沉积物",
+   "en": "modern sediment",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现代病",
+   "en": "modern diseases",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现代地理学",
+   "en": "modern geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现代药",
+   "en": "modern drugs",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "次中音提琴",
+   "en": "alto moderne",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "点分十进制记法",
+   "en": "dotted decimal notation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高程注记",
+   "en": "elevation number\",\"elevation  notation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "船级符号",
+   "en": "ship class symbol notation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "现代城市设想",
+   "en": "conceptual modern city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现代宏观经济学",
+   "en": "modern macro-economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现代五项运动",
+   "en": "modern pentathlon",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工尺谱",
+   "en": "Gong-che Notation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "现代金融服务体系",
+   "en": "Modern Financial Service System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "现代环境治理体系",
+   "en": "modern environmental management system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "建设现代化经济体系",
+   "en": "developing a modernized economy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "率先基本实现现代化引领区",
+   "en": "pioneer zone in basically achieving modernization",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际现代五项和冬季两项联盟",
+   "en": "International Modern Pentathlon and Biathlon Union\",\"UIPMB",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "零售支付系统基础设施现代化",
+   "en": "modernization of the retail payment system infrastructure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家治理体系和治理能力现代化",
+   "en": "the modernization of China’s system and capacity for governance",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 18142-2017 信息技术 数据元素值表示 格式记法》",
+   "en": "GB/T 18142-2017 Information technology — Representation of data elements values — Notation of the format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《人工智能：一种现代的方法》（〔美〕斯图尔特·罗素 等）",
+   "en": "Artificial Intelligence: A Modern Approach (Stuart J. Rossell et al., USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深圳前海深港现代服务业合作区",
+   "en": "Shenzhen-Hong Kong modern service industry cooperation zone in Qianhai, Shenzhen",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转换位",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "twist\",\"rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋转投掷",
+   "en": "throwing rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡塔利纳式转动",
+   "en": "catalina rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转顺序",
+   "en": "rotation order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现代化",
+   "en": "modernization",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "人类历史上向现代社会过渡的巨大社会变迁，以从传统农业社会向现代工业社会的转变为轴心，包括产业工业化、经济市场化、社会城市化、政治民主化、文化世俗化等社会全面变革的历史过程。"
+  },
+  {
+   "cn": "现代性",
+   "en": "modernity",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.5",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "继承启蒙运动的的理性精神，并力图以此来认识世界和改造世界的一种思潮，主张包括社会现象在内的一切现象都是可知的，都可以做理性探究，一切事物都必然具有因果联系、因而具有一定的规律性存在；而人是世界的中心，"
+  },
+  {
+   "cn": "现代化",
+   "en": "modernization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "现代化是指工业社会以来的社会发展变迁，是一个涵盖政治、经济、社会、文化等的系统过程。"
+  },
+  {
+   "cn": "现代民族",
+   "en": "modern nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0033",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "马克思主义经典作家对近代以来民族所做的界定，具体包括资本主义民族和社会主义民族，前者指资本主义上升时期的民族或已进入资本主义社会的民族，后者是在推翻资本主义制度以后，在对旧式民族进行社会主义改造的基础"
+  },
+  {
+   "cn": "现代社会",
+   "en": "modern society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "伴随传统社会、文化因素衰落形成的后传统的现代性社会，亦即深受不断创新的现代主义和工业主义渗透的社会-文化因素在社会建构中居主导地位的新型文明社会。西方历史中特指中世纪以后、尤其是启蒙运动以来逐渐形成的"
+  },
+  {
+   "cn": "现代唯物主义",
+   "en": "modern materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0109",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在马克思、恩格斯和列宁的著作中，现代唯物主义既是指马克思主义哲学与一切唯心主义和形而上学的旧唯物主义的原则区别，也是指包括辩证唯物主义和历史唯物主义在内的整个马克思主义哲学，已经具有唯物主义的科学形态"
+  },
+  {
+   "cn": "现代社会",
+   "en": "modern society",
+   "source": "马克思主义",
+   "wordNumber": "03.0203",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义语境中“资本主义社会”的代名词。马克思写作《资本论》的最终目的就是揭示现代社会的经济运动规律,得出结论:资本主义私有制的丧钟就要敲响了,剥夺者就要被剥夺了。"
+  },
+  {
+   "cn": "现代生物技术",
+   "en": "modern biotechnology",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.17",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "采用基因操作等生产食品及其原料的新技术。其克服了天然生理繁殖或重组屏障，区别于传统品种选育技术。包括DNA 重组、将核酸直接注射到细胞或者细胞器中体外核酸技术，分类上跨物种的细胞融合。"
+  },
+  {
+   "cn": "现代化理论",
+   "en": "modernization theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪50、60年代，以塔尔科特帕森斯、列维（M.J.Levy）、英克尔斯（A.Inkeles）和艾森斯塔德（S.N.Eisenstadt）等人为代表，以研究传统社会的现代转化为主旨的理论。"
+  },
+  {
+   "cn": "内生型现代化",
+   "en": "endogenous Modernization",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "从一国内部自然生成、自发演进的现代化类型。英国的现代化是典型，法国、美国等国家的现代化有时也被人们归入此种类型。与“外生型现代化”相对。"
+  },
+  {
+   "cn": "外生型现代化",
+   "en": "ectogenous modernization",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "在外力的压迫下，或者说是在内生型现代化国家的“诱导”下，被动地走上现代化发展轨道的现代化类型。如德国、俄国、日本、中国等国的现代化即属此种类型。与“内生型现代化”相对。"
+  },
+  {
+   "cn": "人的现代化",
+   "en": "individual modernization",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "从传统人转变为现代人的过程。在此过程中，个人获得一些现代性的基本特征，从而实现从传统人格到现代人格的转变。美国社会学家英克尔斯对此作过著名研究。"
+  },
+  {
+   "cn": "后现代性",
+   "en": "post-modernity",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.6",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "一种与现代性相悖的思潮，质疑启蒙运动理性精神及其在社会进程中的体现。"
+  },
+  {
+   "cn": "自反性现代化",
+   "en": "reflexive modernization",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.6",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "工业社会变化悄无声息地在未经计划的情况下紧随着正常的、自主的现代化过程而来，社会秩序和经济秩序完好无损，这种社会变化意味着现代化的激进化，这种激进化打破了工业社会的前提并开辟了通向另一种现代性的道路。"
+  },
+  {
+   "cn": "生态现代化",
+   "en": "ecological modernization",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.7",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "一种针对环境危害的新的发展理念。以发挥生态优势推进现代化进程，实现经济发展和环境保护的双赢，加快推进发展模式由先污染后治理向生态亲和型转变，决不能以牺牲环境为代价换取一时的发展。"
+  },
+  {
+   "cn": "四个现代化",
+   "en": "four modernizations",
+   "source": "马克思主义",
+   "wordNumber": "03.0393",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工业、农业、国防和科学技术的现代化。1959年末至1960年初，毛泽东在读苏联《政治经济学教科书》笔记中完整地提出“实现社会主义四个现代化”口号。周恩来根据毛泽东的提议，在全国人大三届一次会议的《政府"
+  },
+  {
+   "cn": "社会主义现代化",
+   "en": "socialist modernization",
+   "source": "马克思主义",
+   "wordNumber": "03.0594",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "集中力量进行社会主义现代化建设是宪法规定的国家根本任务。中国共产党领导全国各族人民，在中国特色社会主义理论指引下，发展社会主义市场经济，发展社会主义民主，健全社会主义法制，自力更生，艰苦奋斗，逐步实现"
+  },
+  {
+   "cn": "中国式现代化",
+   "en": "Chinese modernization",
+   "source": "马克思主义",
+   "wordNumber": "03.0821",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在中共的二十大报告中，中国式现代化被明确定义为：中国共产党领导的社会主义现代化，既有各国现代化的共同特征，更有基于自己国情的中国特色。中国式现代化是人口规模巨大的现代化，是全体人民共同富裕的现代化，是"
+  },
+  {
+   "cn": "民族现代化",
+   "en": "national modernization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0154",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "又见民族复兴，民族现代化是民族（主要是指国家民族）复兴的进程。"
+  },
+  {
+   "cn": "语文现代化",
+   "en": "language modernization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0164",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "为适应现代化的需要而从事的语言文字建设工作。在中国经常是指语言文字的规范化、标准化和信息化工作。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

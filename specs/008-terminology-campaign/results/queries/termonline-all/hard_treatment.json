@@ -1,0 +1,752 @@
+{
+ "key": "hard treatment",
+ "term": "Hard treatment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:41:15+00:00",
+ "status": "ok",
+ "note": "variant=Hard treatment; 审定公布名词库=1713; 海峡两岸名词对照库=418; 其他来源数据库=148; 预公布名词数据库=135; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "地质学名词",
+   "wordNumber": "03.01.096",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "固体抵抗某种外来机械作用(如刻划、压入、研磨)的能力。通常用H表示。在矿物学中常用摩氏硬度和维氏硬度表达矿物的硬度。是鉴定矿物的重要特征之一。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0031",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "材料抵抗变形，特别是压痕或划痕形成的永久变形的能力。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "冶金学名词",
+   "wordNumber": "08.0039",
+   "subjectFullName": "冶金学_金属材料_力学性能",
+   "subjectName": "力学性能",
+   "publishYear": "2019",
+   "definition": "材料抵抗压入或刻刮的能力。用来衡量固体材料的软硬程度。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "物理学名词",
+   "wordNumber": "08.2341",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "计量学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "计量学_力值、硬度_硬度试验",
+   "subjectName": "硬度试验",
+   "publishYear": "2015",
+   "definition": "材料抵抗弹性变形、塑性变形、划痕或破裂等一种或多种作用的能力。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "药学名词",
+   "wordNumber": "02.080",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "片剂抵抗硬物压入其表面的性能。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0512",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料性能",
+   "subjectName": "材料性能",
+   "publishYear": "2011",
+   "definition": "用材料抵抗压入或刻刮的性质来衡量固体材料软硬程度的力学性能指标。如布氏硬度、洛氏硬度、维氏硬度等。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "生态学名词",
+   "wordNumber": "16.124",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "水沉淀肥皂的能力，大体反映水中钙、镁离子的含量。钙镁浓度的总和称为总硬度，以每升水含碳酸钙的毫克数或毫克当量表示。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.019",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "土木工程名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "土木工程_工程材料_材料性质",
+   "subjectName": "材料性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.034",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "固体材料对外界物体压陷、刻划等作用的局部抵抗能力，是衡量材料软硬程度的一个指标。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "地质学名词",
+   "wordNumber": "04.237",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "硬度传感器",
+   "en": "hardness transducer,hardness sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0132",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受材料硬度并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "老顶",
+   "en": "hard roof",
+   "source": "地质学名词",
+   "wordNumber": "14.06.028",
+   "subjectFullName": "地质学_矿床学_煤地质与煤矿床",
+   "subjectName": "煤地质与煤矿床",
+   "publishYear": "2026",
+   "definition": "位于直接顶或伪顶之上，有时也直接覆盖于煤层之上，厚而坚硬不容易冒落的岩层。通常由砂岩、砾岩、灰岩等组成。比较牢固，在采空区常维持很大的悬露面积而不塌落。"
+  },
+  {
+   "cn": "硬腭",
+   "en": "hard palate",
+   "source": "整形外科名词",
+   "wordNumber": "13.013",
+   "subjectFullName": "整形外科_唇腭裂修复_唇腭裂相关解剖标志",
+   "subjectName": "唇腭裂相关解剖标志",
+   "publishYear": "2026",
+   "definition": "腭的前2/3。由上颌骨的腭突和腭骨的水平板组成，与软腭共同组成口腔的上壁。主要作用是避免食物进入鼻腔并避免鼻腔的分泌物流入口腔，以保持口、鼻腔的清洁。"
+  },
+  {
+   "cn": "硬水",
+   "en": "hard water",
+   "source": "地质学名词",
+   "wordNumber": "16.04.037",
+   "subjectFullName": "地质学_水文地质学_水文地球化学",
+   "subjectName": "水文地球化学",
+   "publishYear": "2026",
+   "definition": "总硬度(以CaCO₃计)在150~450mg/L之间的水。"
+  },
+  {
+   "cn": "硬质小麦",
+   "en": "hard wheat",
+   "source": "农学名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "粮食作物_谷类作物",
+   "subjectName": "谷类作物",
+   "publishYear": "2025",
+   "definition": "籽粒中以角质胚乳为主，硬度指数不低于60的小麦类型。“硬度指数（wheat hardness index）”是在规定条件下粉碎小麦样品，留存在筛网上的样品占试样的质量分数。"
+  },
+  {
+   "cn": "硬路肩",
+   "en": "hard shoulder",
+   "source": "风景园林名词",
+   "wordNumber": "08.0433",
+   "subjectFullName": "风景园林_风景园林工程_风景园林铺装",
+   "subjectName": "风景园林铺装",
+   "publishYear": "2025",
+   "definition": "与车行道相邻并铺以具有一定强度路面结构的路肩部分。"
+  },
+  {
+   "cn": "硬质纤维",
+   "en": "hard fiber",
+   "source": "农学名词",
+   "wordNumber": "04.056",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "质硬而不易弯曲的细长纤维。如剑麻、椰壳麻和棕麻等麻类纤维。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "degree of hardness\",\"hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬腭",
+   "en": "hard palate",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "暴雨",
+   "en": "hard rain",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "硬蜡",
+   "en": "hard wax",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬水",
+   "en": "hard water",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬性洗涤剂",
+   "en": "hard detergent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬球",
+   "en": "hard sphere",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬质胶",
+   "en": "hard rubber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬质瓷",
+   "en": "hard porcelain",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬铅",
+   "en": "hard lead",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬双星",
+   "en": "hard binary",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硬碱",
+   "en": "hard base",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硬水",
+   "en": "hard water",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硬酸",
+   "en": "hard acid",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硬水",
+   "en": "hard water",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "重拳",
+   "en": "hard blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "劲射",
+   "en": "hard shot\",\"drive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "硬地球场",
+   "en": "fast court\",\"hard court",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "硬编码加密密钥",
+   "en": "hard-coded encryption key",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离坚白",
+   "en": "Separate Hardness from Whiteness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "紧急救治",
+   "en": "emergency treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外科处置",
+   "en": "surgical treatment   ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "民生在勤",
+   "en": "Well-being Is Forged Through Hard Work.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知难行易",
+   "en": "To Act Is Easy; To Know Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知易行难",
+   "en": "To Know Is Easy; To Act Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧水厂",
+   "en": "intelligent water treatment plant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隔空诊疗",
+   "en": "online diagnosis and treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诊断、治疗、追踪和筛查",
+   "en": "diagnosis, treatment, tracing and screening",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "污染集中处理",
+   "en": "centralized treatment of medical waste",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "硬质糖果",
+   "en": "hard candy",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.1",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以食糖、糖浆或甜味剂等为主要原料，经加工制成的硬、脆固体糖果。"
+  },
+  {
+   "cn": "硬科学",
+   "en": "hard science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与技术科学两大系统学科与其交叉学科的统称。因借用电子计算机的“硬件”而得名。其研究内容包括数学、物理学、化学、天文学、地理学、生物科学以及技术工程等学科。"
+  },
+  {
+   "cn": "硬核",
+   "en": "hard core",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.159",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "研究纲领的基础和核心的陈述和命题。通常是约定的、不容反驳与不可改变的。"
+  },
+  {
+   "cn": "标准硬水",
+   "en": "standard hard water",
+   "source": "消毒学",
+   "wordNumber": "6.2.6.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "由氯化钙和氯化镁溶于蒸馏水中制成的碳酸钙浓度为342mg/L的水，消毒学试验中常用于配制消毒剂。"
+  },
+  {
+   "cn": "艰苦奋斗精神",
+   "en": "spirit of hard struggle",
+   "source": "马克思主义",
+   "wordNumber": "03.0558",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党及其人民军队在长期革命斗争中倡导和培育的，以自力更生、奋发图强、不怕困难、不畏艰险以及生活上勤俭节约为主要内容的意识、行为和作风。"
+  },
+  {
+   "cn": "艰苦奋斗",
+   "en": "plain living and hard work",
+   "source": "马克思主义",
+   "wordNumber": "03.0450",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "共产党的优良传统和作风之一，也是无产阶级和共产党员的政治本色和高贵品质的体现。"
+  },
+  {
+   "cn": "脱脂处理",
+   "en": "degreasing treatment",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.15",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "去除载体（滤纸片除外）上脂类物质以便指示菌均匀分布的处理方法。即将制备菌片所用载体于染菌前，放在含洗涤剂的水中煮沸 30 分钟，以自来水洗净，再用蒸馏水煮沸 10分钟，用蒸馏水漂洗至 pH值呈中性、晾"
+  },
+  {
+   "cn": "焚烧处理",
+   "en": "incineration treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "废物在高温条件下发生热分解、燃烧等反应，实现无害化和减量化的过程。"
+  },
+  {
+   "cn": "微波处理",
+   "en": "microwave treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "利用微波或微波与高温蒸汽组合作用杀灭医疗废物中病原微生物，使其消除潜在的感染性危害的处理方法。"
+  },
+  {
+   "cn": "化学法处理",
+   "en": "chemical treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2.4",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "采用化学消毒剂杀灭医疗废物中的病原微生物，消除其潜在的感染性危害的处理方法。"
+  },
+  {
+   "cn": "样品处理",
+   "en": "samples treatment",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "对采集的样品或分析对象根据其性质，工作目的和分析方法进行不同预处理的操作过程。通过处理可使样品的状态符合所选择的分析技术并达到试验用样要求。"
+  },
+  {
+   "cn": "治疗处方",
+   "en": "treatment prescription",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "临床医生对放射治疗中患者的治疗范围和剂量分布的定量要求，如照射部位或体积、照射总剂量、分次剂量、分次数、危及器官限量等。"
+  },
+  {
+   "cn": "治疗参数",
+   "en": "treatment parameter",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.10",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗中，表征患者所受辐射照射的要素。如：辐射能量、吸收剂量、治疗时间等。"
+  },
+  {
+   "cn": "治疗验证",
+   "en": "treatment verification",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在治疗前或治疗中，通过各种手段（体模测量、治疗日志分析等）验证患者治疗准确性的过程。"
+  },
+  {
+   "cn": "介入",
+   "en": "intervention，treatment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者和服务对象采取实际行动，按照服务协议落实社会工作计划的目标，解决预估中确认的问题，帮助服务对象改变，从而实现助人计划的环节。"
+  },
+  {
+   "cn": "不公正对待",
+   "en": "unfair treatment",
+   "source": "马克思主义",
+   "wordNumber": "05.0108",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "罗默在采用资产阶级新古典经济学的分析方法，对马克思剥削理论的“资本主义制度的不公正”中的“剥削”“阶级”等理论重新解释，由此得出社会不公正的根源是生产资料的初始分配的不公正和生产方式的差异性的思想。"
+  },
+  {
+   "cn": "一般治疗",
+   "en": "general treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "传染病和其他各种疾病所必需的基础治疗。包括隔离、消毒、护理和心理治疗。"
+  },
+  {
+   "cn": "支持治疗",
+   "en": "supportive treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.2",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "根据各种疾病的不同阶段而采取的合理饮食，补充营养，维持水、电解质和酸碱平衡，增强患者体质和免疫功能的各项措施。"
+  },
+  {
+   "cn": "对症治疗",
+   "en": "symptomatic treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "根据病情采取的解除症状和病痛的治疗。包括降温、止痛、镇静、吸氧、止咳、防治出血等，可达到减少机体消耗和保护重要器官的目的。"
+  },
+  {
+   "cn": "手术治疗",
+   "en": "surgical treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.7",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "通过外科手术切除机体病灶、促进疾病恢复的治疗方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

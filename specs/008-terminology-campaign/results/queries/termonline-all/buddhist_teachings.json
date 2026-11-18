@@ -1,0 +1,572 @@
+{
+ "key": "buddhist teachings",
+ "term": "Buddhist teachings",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:53:02+00:00",
+ "status": "ok",
+ "note": "variant=Buddhist teachings; 审定公布名词库=270; 海峡两岸名词对照库=24; 其他来源数据库=32; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "佛八宝",
+   "en": "buddhist accessories",
+   "source": "风景园林名词",
+   "wordNumber": "11.0381",
+   "subjectFullName": "风景园林_风景园林艺术_装饰纹样",
+   "subjectName": "装饰纹样",
+   "publishYear": "2025",
+   "definition": "以佛教中常用的八种法器为基本素材，经过艺术加工组合构成的纹样，采用象征、寓意、谐音等手法传达宗教思想。八种器物分别为轮（法轮）、螺（法螺）、伞（宝伞）、盖（白盖）、花（莲花）、罐（宝罐）、鱼（金鱼）、"
+  },
+  {
+   "cn": "梵夹装",
+   "en": "Buddhist binding",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.235",
+   "subjectFullName": "图书馆·情报与文献学_文献学_版本学",
+   "subjectName": "版本学",
+   "publishYear": "2019",
+   "definition": "古书装帧形式。梵夹是专指从印度传来、书写在加工过的贝多罗树叶上、用两板相捆夹的梵文佛经样式。梵夹装则指仿效这种贝叶经所采用的夹板式的图书装帧形式，但已用纸代替了贝多罗树叶。多见于藏文、蒙文、满文佛经。"
+  },
+  {
+   "cn": "尼庵",
+   "en": "buddhist nunnery",
+   "source": "教育学名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "佛教女僧修行和学习的场所。"
+  },
+  {
+   "cn": "佛塔",
+   "en": "Buddhist pagoda",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.134",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "以佛教背景设立的直立建筑物。"
+  },
+  {
+   "cn": "现场教学",
+   "en": "site teaching,field teaching",
+   "source": "教育学名词",
+   "wordNumber": "02.181",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师组织学生到工作现场或其他社会生活现场进行教学的一种组织形式。"
+  },
+  {
+   "cn": "佛[教]寺[院]",
+   "en": "Buddhist monastery,Buddhist temple complex,si",
+   "source": "建筑学名词",
+   "wordNumber": "03.0207",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "供奉佛教神祇及僧众、教徒进行礼佛仪式和聚居修行的场所。其平面形制最初参照天竺式样，即以佛塔为中心的方形庭院平面。南北朝时许多王公贵胄舍宅为寺，为利用原有房舍，多采取“以前厅为佛殿，后堂为讲堂”的模式，"
+  },
+  {
+   "cn": "教学试剂",
+   "en": "teaching reagent",
+   "source": "精细化工名词",
+   "wordNumber": "08.0613",
+   "subjectFullName": "精细化工_其他精细化学品_化学试剂",
+   "subjectName": "化学试剂",
+   "publishYear": "2025",
+   "definition": "可以满足学生教学目的、不至于造成化学反应现象偏差的试剂。"
+  },
+  {
+   "cn": "教材",
+   "en": "teaching material",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.005",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "根据教学计划为教师和学生编辑的教学材料。"
+  },
+  {
+   "cn": "多媒体教学",
+   "en": "multimedia teaching",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0143",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "运用现代教学媒体，以多种媒体信息作用于学生的教学模式。"
+  },
+  {
+   "cn": "协同教学",
+   "en": "collaborative teaching",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1355",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "由不同专业的老师组成教学团队，彼此分工合作的教学模式。"
+  },
+  {
+   "cn": "教学用房",
+   "en": "teaching room",
+   "source": "建筑学名词",
+   "wordNumber": "02.0169",
+   "subjectFullName": "建筑学_建筑类型及组成_教育建筑",
+   "subjectName": "教育建筑",
+   "publishYear": "2014",
+   "definition": "普通教室、专用教室、公共教学用房及其各自的辅助用房的统称。"
+  },
+  {
+   "cn": "交互式教学",
+   "en": "reciprocal teaching",
+   "source": "心理学名词",
+   "wordNumber": "09.029",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "通过师生之间以及学生之间的信息交流，引导学生使用有效学习策略以加强对所学内容的理解和保持的一种教学方式。"
+  },
+  {
+   "cn": "教学效能感",
+   "en": "teaching efficacy",
+   "source": "心理学名词",
+   "wordNumber": "09.113",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "教师对自己的教学胜任力的主观评价。"
+  },
+  {
+   "cn": "教学手段",
+   "en": "teaching medium",
+   "source": "教育学名词",
+   "wordNumber": "02.150",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "师生在教学中相互传递信息的工具、媒体或设备。"
+  },
+  {
+   "cn": "区别化教学",
+   "en": "differential teaching",
+   "source": "教育学名词",
+   "wordNumber": "05.216",
+   "subjectFullName": "教育学_比较教育_俄罗斯教育",
+   "subjectName": "俄罗斯教育",
+   "publishYear": "2013",
+   "definition": "苏联普通学校于20世纪80年代末实行的一种教学方式。依据具体教育对象的情况，有针对性地进行不同内容的侧重教学。旨在照顾和发展学生的天赋和才能，补充传统的单一型教学的不足。至今仍被继续使用。"
+  },
+  {
+   "cn": "教学环",
+   "en": "teaching circle",
+   "source": "教育学名词",
+   "wordNumber": "04.078",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "伊斯兰教清真寺中为已接受过初等教育的成年人实施较高程度教育的一种教学形式。教者坐于廊下或者院中，听者环坐成圆形，故名。"
+  },
+  {
+   "cn": "教案",
+   "en": "teaching plan",
+   "source": "教育学名词",
+   "wordNumber": "02.204",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师以文本形式所表现出的对教学单元进行设计的方案。"
+  },
+  {
+   "cn": "教学环境",
+   "en": "teaching environment",
+   "source": "教育学名词",
+   "wordNumber": "02.151",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "影响教学活动的各种外部条件的总和。狭义的教学环境指学校内部影响课堂教学的诸客观条件；广义的教学环境包括社会、家庭、学校中对教学活动发生影响的环境因素。"
+  },
+  {
+   "cn": "教学评定量表",
+   "en": "teaching evaluationscale",
+   "source": "教育学名词",
+   "wordNumber": "02.205",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "用来评定教学效能的测量工具。"
+  },
+  {
+   "cn": "教学阶段",
+   "en": "teaching stage",
+   "source": "教育学名词",
+   "wordNumber": "02.137",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "将教学过程依次划分为不同阶段的理论。赫尔巴特首次将课堂教学划分为明了、联想、系统、方法四个阶段。其学生齐勒尔进一步发展为预备、提示、比较、总括、应用五个阶段。"
+  },
+  {
+   "cn": "交互式教学",
+   "en": "reciprocal teaching",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "发现式教学法",
+   "en": "discovery method of teaching",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "淋洗作用",
+   "en": "leaching",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "浸取",
+   "en": "leaching",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "浸出",
+   "en": "leaching",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "淋洗作用",
+   "en": "leaching",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "淋洗作用",
+   "en": "leaching",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "抢滩",
+   "en": "beaching",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "堆浸",
+   "en": "dump leaching\",\"heap leaching",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "桶式浸取",
+   "en": "vat leaching",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "浸取法",
+   "en": "leaching process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "选择性浸取",
+   "en": "selective leaching",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "浸取槽",
+   "en": "leaching tank",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "高压釜浸出",
+   "en": "autoclave leaching",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "浸出率",
+   "en": "leaching rate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "氰化浸出",
+   "en": "cyanide leaching",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "槽浸",
+   "en": "vat leaching",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "细菌浸出",
+   "en": "bacterial leaching",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "矿石浸出",
+   "en": "leaching of ore",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "高压浸出",
+   "en": "high pressure leaching",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "宗教",
+   "en": "<div> Buddhist Teachings / Religious Sect</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧教学",
+   "en": "smart teaching",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "判教",
+   "en": "Classification of Teachings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "象教",
+   "en": "Image-based Teaching",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身教",
+   "en": "Teach by Example",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "示范教学",
+   "en": "demonstration teaching",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "教师通过演示，让学生亲自练习，以加深对内容的理解，掌握相关技能的教学方法。"
+  },
+  {
+   "cn": "教学游戏",
+   "en": "teaching game",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "教师根据教学的目的、利用游戏的因素和形式所编制和组织的、具有一定的游戏性的教学活动。"
+  },
+  {
+   "cn": "米兰佛寺遗址",
+   "en": "Miran Buddhist temples Ruins",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0625",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "宗教文化遗迹,位于新疆若羌境内吐蕃戍堡附近，是古鄯善王国最重要的佛教艺术遗址。十四个左右寺址，建筑形制各异，其中3 号寺址因斯坦因发现的7 身带有古典艺术风格的有翼天使像而轰动世界。"
+  },
+  {
+   "cn": "苏巴什佛寺遗址",
+   "en": "Subashi Buddhist Temple Ruins",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0626",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "宗教文化遗迹，建于魏晋，是新疆现存最大的佛教文化遗址。位于库车雀尔达格南麓。以佛塔为中心，四周建有庙宇、洞窟、殿堂、僧房等，保存较为完整，是我国西北乃至中亚地区土遗址典型代表，曾沿用近千年。"
+  },
+  {
+   "cn": "参与式教学方法",
+   "en": "participating teaching method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "采用学生喜闻乐见的方式，激发学生主动参与的热情，让学生在主动参与和探索中学习健康知识，发展并形成健康意识和行为的教学方法。"
+  },
+  {
+   "cn": "学校教学环境",
+   "en": "school teaching environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校教学环境和生活设施卫生监督",
+   "subjectName": "学校教学环境和生活设施卫生监督",
+   "publishYear": "2025",
+   "definition": "学校中与教学相关的建筑、用房、设施设备及其各种物理、化学、生物因素。"
+  },
+  {
+   "cn": "少数民族语言教学",
+   "en": "minority language teaching",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0192",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "教授少数民族语言能力知识的语言教学活动，也可指以少数民族语言为教学用语的语言教学活动。"
+  },
+  {
+   "cn": "教学用品卫生",
+   "en": "hygiene of teaching supply",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "学校范围内教学过程中与学生身心发育和健康有关的卫生用品状况"
+  },
+  {
+   "cn": "学校环境与教学设备卫生",
+   "en": "hygiene of school environment and teaching and learning equipment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生",
+   "subjectName": "学校环境与教学设备卫生",
+   "publishYear": "2025",
+   "definition": "学校基础设施和教学设备的卫生状况，包括学校选址与用地卫生、教室卫生、学校用品卫生、课桌椅卫生、学校生活设施卫生等。"
+  },
+  {
+   "cn": "学校教学环境和生活设施卫生监督",
+   "en": "health supervision of school teaching environment and living equipment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校教学环境和生活设施卫生监督",
+   "subjectName": "学校教学环境和生活设施卫生监督",
+   "publishYear": "2025",
+   "definition": "卫生行政部门依据国家有关法律、法规，对学校教学环境和生活设施符合相关卫生要求和标准情况进行督促检查，并对违反相关法律法规的行为追究其法律责任的行政管理活动。"
+  },
+  {
+   "cn": "佛教",
+   "en": "Buddhism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0312",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "世界三大宗教之一。相传公元前6—前5 世纪由释迦牟尼所创立，宣扬因果报应，轮回转世，虽主张“众生平等，皆可成佛”，但又说“有生皆苦”，把解脱痛苦的希望寄托于消极的“涅槃”（意为寂灭）境界。佛教流传于亚"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

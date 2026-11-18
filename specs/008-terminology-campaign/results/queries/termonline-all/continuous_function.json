@@ -1,0 +1,732 @@
+{
+ "key": "continuous function",
+ "term": "continuous function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:41:36+00:00",
+ "status": "ok",
+ "note": "variant=continuous function; 审定公布名词库=4027; 海峡两岸名词对照库=971; 其他来源数据库=122; 预公布名词数据库=129; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "连续函数",
+   "en": "continuous function",
+   "source": "数学名词",
+   "wordNumber": "05.0032",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连续线性泛函",
+   "en": "continuous linear functional",
+   "source": "数学名词",
+   "wordNumber": "07.0008",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连续[的]",
+   "en": "continuous",
+   "source": "数学名词",
+   "wordNumber": "01.0069",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地层连续",
+   "en": "continuity",
+   "source": "地质学名词",
+   "wordNumber": "07.01.054",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "上、下两组岩层之间没有出现沉积间断或地层缺失。"
+  },
+  {
+   "cn": "续编",
+   "en": "continuation",
+   "source": "档案学名词",
+   "wordNumber": "04.03.028",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献编纂中，指对已有定名的档案文献出版物的时间断限加以延伸且沿用原名的档案文献出版物。"
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.070",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物元素、结构、功能、变化具有的稳定性和延续性。是因果关系的前设，与时空和事物的发展过程相关联。是人类可以运用“规律”做出事物特征性描述的基础。"
+  },
+  {
+   "cn": "连续化",
+   "en": "continuation",
+   "source": "冶金学名词",
+   "wordNumber": "05.1630",
+   "subjectFullName": "冶金学_钢铁冶金_冶金流程工程学",
+   "subjectName": "冶金流程工程学",
+   "publishYear": "2019",
+   "definition": "生产过程的各种参量沿时间轴均匀地、协调地向目标值演变的过程。"
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "物理学名词",
+   "wordNumber": "01.0161",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0088",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "当流体在密闭管中作稳定流动且无流体的增减时，单位时间通过每一截面的流体质量均相等。"
+  },
+  {
+   "cn": "继续",
+   "en": "continuation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0885",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "剑桥学派指称语义中表示从程序某点开始直至运行结束的全部语义。"
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "化学工程名词",
+   "wordNumber": "03.079",
+   "subjectFullName": "化学工程_传递过程与单元操作_流体动力过程_流体流动",
+   "subjectName": "流体流动",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "石油名词",
+   "wordNumber": "03.0359",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "延拓",
+   "en": "continuation",
+   "source": "石油名词",
+   "wordNumber": "03.0033",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "持续功率",
+   "en": "continuous output,continuous rating",
+   "source": "水产名词",
+   "wordNumber": "09.133",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "主机在现行有关标准规定的环境条件下，允许长期持续运转的输出功率。"
+  },
+  {
+   "cn": "连续缝合",
+   "en": "continuous suture",
+   "source": "普通外科学名词",
+   "wordNumber": "13.045",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "从切口一端进针，连续关闭整个创口的缝合方式。"
+  },
+  {
+   "cn": "连续反应",
+   "en": "continuous reaction",
+   "source": "地质学名词",
+   "wordNumber": "06.01.020",
+   "subjectFullName": "地质学_变质岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "某些类质同象矿物参与的变质反应中，在一定的温度、压力条件下，反应矿物与生成矿物的化学成分可以连续变化，二者可同时存在的变质反应。"
+  },
+  {
+   "cn": "连续多年冻土",
+   "en": "continuous permafrost",
+   "source": "地质学名词",
+   "wordNumber": "17.02.051",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "在高纬度地带大面积连续分布的多年冻土(永冻层)。"
+  },
+  {
+   "cn": "连续变形",
+   "en": "continuous deformation",
+   "source": "地质学名词",
+   "wordNumber": "09.02.099",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "变形体内从一点到另一点的应变状态是逐渐改变的，其间无破裂的变形。"
+  },
+  {
+   "cn": "连续劈理",
+   "en": "continuous cleavage",
+   "source": "地质学名词",
+   "wordNumber": "09.05.006",
+   "subjectFullName": "地质学_构造地质学_中、小尺度面状、线状构造",
+   "subjectName": "中、小尺度面状、线状构造",
+   "publishYear": "2026",
+   "definition": "用肉眼不易区分，而只能借助偏光显微镜和电子显微镜才能分辨劈理域和微劈石的劈理。通常由板柱状、片状、纤维状等矿物的连续平行排列构成，包括板劈理、千枚理、片理等。"
+  },
+  {
+   "cn": "续灌",
+   "en": "continuous irrigation",
+   "source": "风景园林名词",
+   "wordNumber": "08.0235",
+   "subjectFullName": "风景园林_风景园林工程_风景园林养护",
+   "subjectName": "风景园林养护",
+   "publishYear": "2025",
+   "definition": "同时给灌溉系统内全部灌水单元（灌水小区）供水灌溉的方式。"
+  },
+  {
+   "cn": "连续函数",
+   "en": "continuous function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "连续性状",
+   "en": "continuous character\",\"continuous trait",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "连续毛细血管",
+   "en": "continuous capillary",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "连续变异",
+   "en": "continuous variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连续分布区",
+   "en": "continuous areal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连续培养",
+   "en": "continuous culture",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连续性降水",
+   "en": "continuous precipitation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连续性雨",
+   "en": "continuous rain",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连续干燥器",
+   "en": "continuous drier",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "连续细丝",
+   "en": "continuous filament",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "连续分馏",
+   "en": "continuous fractionation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "连续聚合",
+   "en": "continuous polymerization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "连续离心机",
+   "en": "continuous centrifuge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "连续窑",
+   "en": "continuous kiln",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "连续倾析",
+   "en": "continuous decantation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "连续萃取器",
+   "en": "continuous extractor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "连续过滤器",
+   "en": "continuous filter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "继续比赛!",
+   "en": "Continue!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续数据",
+   "en": "continuous data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续转移",
+   "en": "continuous transfer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续控球",
+   "en": "continuous possession",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续旋转",
+   "en": "continuous spin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续动作",
+   "en": "continuous movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "穷则变，变则通，通则久",
+   "en": "Extreme –Change –Continuity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础平台连续性",
+   "en": "basic platform continuity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "业务连续性管理",
+   "en": "business continuity management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时空连续性",
+   "en": "time and space continuity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自强不息",
+   "en": "Strive Continuously to Strengthen Oneself",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "继续！",
+   "en": "Carry on! Continue! Gyesok! Kyesok!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续监测",
+   "en": "continuous monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在所关心的时期内的不间断的放射性监测。"
+  },
+  {
+   "cn": "连续方式",
+   "en": "continuous mode",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.56",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线发生装置中电能以连续形式施加于X射线管的加载方式。"
+  },
+  {
+   "cn": "连续变量",
+   "en": "continuous variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.42",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在某界限内连续作微量变化的变量。"
+  },
+  {
+   "cn": "连续性生长",
+   "en": "continuous growth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "体格生长的连续过程。即从受精卵到长大成人的过程中，体格生长在不断进行。"
+  },
+  {
+   "cn": "连续性服务",
+   "en": "continuous service",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.4",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "通过全生命周期覆盖、服务流程无缝衔接、健康信息动态追踪，为社区居民提供从出生到死亡、从健康到疾病、从急性干预到慢性管理的全程化、不间断的健康服务。其目标是确保居民在不同健康阶段、不同服务场景中都能获得"
+  },
+  {
+   "cn": "持续治疗",
+   "en": "continuous treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.038",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "相对于传统固定周期治疗而言的、延长治疗时间的治疗模式。"
+  },
+  {
+   "cn": "文化连续性",
+   "en": "cultural continuity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "文化在长时段历史中所呈现的“层叠性”特征，即文化的发展依靠积累、凝结与积淀，必然呈现为连续渐进的形态。即使是文化衰退，也具有递减的连续性。与文化断层、文化突变相对。"
+  },
+  {
+   "cn": "连续性理论",
+   "en": "continuity theory",
+   "source": "社会学名词",
+   "wordNumber": "3.15.4.3",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年与老龄化相关理论",
+   "subjectName": "老年与老龄化相关理论",
+   "publishYear": "2025",
+   "definition": "解释老年人晚年生活差异性的理论。认为人在成长过程中既有变化又有连续性，随着年龄的增长，主要的个性特点更为明显或终身变化不大；如果人们一生始中维持自己喜爱的角色、保持适应的技巧，那他们就可以成功地老龄化"
+  },
+  {
+   "cn": "继续母乳喂养",
+   "en": "continued breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "6个月以后的婴幼儿在添加其他食物的基础上仍进行的母乳喂养。"
+  },
+  {
+   "cn": "连续使用稳定性",
+   "en": "continuous application stability",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒剂反复多次使用至规定时间和次数后，仍满足消毒要求的能力。"
+  },
+  {
+   "cn": "持续消毒作用",
+   "en": "continuous disinfection action",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.27",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒剂在较长时间（>24h）对物体表面的微生物仍具有杀菌能力的现象。"
+  },
+  {
+   "cn": "连续性服务",
+   "en": "continuity of care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.5.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "一种以孕产妇为中心的助产服务提供方式，强调关注孕产妇健康需求，从初诊预约至产后阶段在服务计划、组织管理和服务提供方面给予持续的支持。"
+  },
+  {
+   "cn": "继续医学教育",
+   "en": "continuing medical education",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6.7",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "医疗卫生专业人员在完成基础医学教育和毕业后医学教育后，为了更新知识、提高专业技能、适应医学科学发展及满足职业需求而进行的系统性、终身学习过程。"
+  },
+  {
+   "cn": "氡连续测量",
+   "en": "continuous measurement of radon",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.5.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量",
+   "subjectName": "氡及其子体测量",
+   "publishYear": "2025",
+   "definition": "氡测量时，在固定的时间间隔内进行的不间断的并能够得到每一时间间隔结果的测量。"
+  },
+  {
+   "cn": "连续生产制",
+   "en": "system of continuous production",
+   "source": "马克思主义",
+   "wordNumber": "03.0313",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "一种充分利用现有机器设备的工时制度，即工人轮班不停地工作，节假日也不例外，不让机器空闲下来。苏联建设社会主义的初期为加快劳动生产进展，采取了这种办法。"
+  },
+  {
+   "cn": "中等强度持续运动",
+   "en": "moderate intensity continuous training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.12",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "40-59%储备心率、46-63%最大摄氧量或64-76%最大心率的运动强度下进行的长时间持续运动。是有氧运动的一种。"
+  },
+  {
+   "cn": "避孕方法续用率",
+   "en": "continuous use of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "在某一时点（一般以满某年而计），在同时启用某种避孕方法的所有使用者中，持续使用该方法的使用者所占的百分比。本指标在一定程度上反映该避孕方法使用者的依从性。"
+  },
+  {
+   "cn": "乳液连续相",
+   "en": "emulsified liquor continue phase",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.13.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "乳化液体系外部的分散介质"
+  },
+  {
+   "cn": "留治率",
+   "en": "ratio of continuing treatment",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "各级救治机构每通过百名伤病员留治的人数，反映战事稳定程度和各救治机构的留治能力，为组织救治工作和筹划床位提供依据。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

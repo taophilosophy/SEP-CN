@@ -1,0 +1,522 @@
+{
+ "key": "famous argument",
+ "term": "famous argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:48:34+00:00",
+ "status": "ok",
+ "note": "variant=famous argument; 审定公布名词库=124; 海峡两岸名词对照库=43; 其他来源数据库=6; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "名洞",
+   "en": "famous cave",
+   "source": "风景园林名词",
+   "wordNumber": "04.0105",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "因自然景观奇特，历史文化丰厚而闻名，可观赏游览的洞穴。"
+  },
+  {
+   "cn": "名湖",
+   "en": "famous lake",
+   "source": "风景园林名词",
+   "wordNumber": "04.0144",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏、文化或科学价值且具有广泛知名度的湖。"
+  },
+  {
+   "cn": "名泉",
+   "en": "famous spring",
+   "source": "风景园林名词",
+   "wordNumber": "04.0143",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏、文化或科学价值且具有广泛知名度的泉。"
+  },
+  {
+   "cn": "名桥",
+   "en": "famous bridge",
+   "source": "风景园林名词",
+   "wordNumber": "04.0183",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "在历史上具有广泛知名度的桥梁。如潮州湘子桥、河北赵州桥、泉州洛阳桥、北京卢沟桥等。"
+  },
+  {
+   "cn": "名楼",
+   "en": "famous tower",
+   "source": "风景园林名词",
+   "wordNumber": "04.0182",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "在历史上具有广泛知名度的楼阁。如鹳雀楼、滕王阁、岳阳楼、黄鹤楼等。"
+  },
+  {
+   "cn": "名石",
+   "en": "famous stone",
+   "source": "风景园林名词",
+   "wordNumber": "04.0106",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏价值，且闻名遐迩的石头。"
+  },
+  {
+   "cn": "名瀑",
+   "en": "famous waterfall",
+   "source": "风景园林名词",
+   "wordNumber": "04.0145",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "具有观赏、文化或科学价值且具有广泛知名度的瀑布。"
+  },
+  {
+   "cn": "名木",
+   "en": "famous tree",
+   "source": "风景园林名词",
+   "wordNumber": "09.0084",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物类型",
+   "subjectName": "风景园林植物类型",
+   "publishYear": "2025",
+   "definition": "珍贵、稀有的或具有重要历史价值、纪念意义的树木。"
+  },
+  {
+   "cn": "名花",
+   "en": "famous flower",
+   "source": "林学名词",
+   "wordNumber": "09.285",
+   "subjectFullName": "林学_风景园林_园林植物与观赏园艺",
+   "subjectName": "园林植物与观赏园艺",
+   "publishYear": "2016",
+   "definition": "知名度高、品质优良的观赏植物。"
+  },
+  {
+   "cn": "风景名胜",
+   "en": "famous scenery,famous scenic site",
+   "source": "建筑学名词",
+   "wordNumber": "08.0170",
+   "subjectFullName": "建筑学_风景园林_风景名胜区",
+   "subjectName": "风景名胜区",
+   "publishYear": "2014",
+   "definition": "著名的自然或人文景点、景区和风景区域。"
+  },
+  {
+   "cn": "风景名胜",
+   "en": "scenery,famous scenery,famous scenic site",
+   "source": "林学名词",
+   "wordNumber": "09.111",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "著名的自然或人文景点、景区和风景区域。"
+  },
+  {
+   "cn": "风景名胜公园",
+   "en": "famous scenic park",
+   "source": "林学名词",
+   "wordNumber": "09.087",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "位于城市建设用地范围内，以文物古迹、风景名胜点(区)为主形成的具有城市公园功能的绿地。"
+  },
+  {
+   "cn": "风景名胜公园",
+   "en": "famous scenic park",
+   "source": "建筑学名词",
+   "wordNumber": "08.0019",
+   "subjectFullName": "建筑学_风景园林_城市绿地",
+   "subjectName": "城市绿地",
+   "publishYear": "2014",
+   "definition": "位于城市建设用地范围内，以文物古迹、风景名胜点(区)为主形成的具有城市公园功能的绿地。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "古树名木",
+   "en": "ancient and famous tree",
+   "source": "风景园林名词",
+   "wordNumber": "01.0049",
+   "subjectFullName": "风景园林_总论_风景园林管理",
+   "subjectName": "风景园林管理",
+   "publishYear": "2025",
+   "definition": "树龄在100年以上的树木，或具有重要历史、文化、科研、景观价值以及纪念意义的树木。"
+  },
+  {
+   "cn": "洛阳名园",
+   "en": "famous garden in Luoyang",
+   "source": "风景园林名词",
+   "wordNumber": "02.0047",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "北宋时期洛阳城郊的花园、宅园、别墅，多数是在唐代旧园故址上修葺改建的。根据李格非《洛阳名园记》，这些园林多为山水园，在宅旁园地里就低凿池、引水注沼，因高累土为山，但少叠石，建筑依景而设，布置自由散漫。"
+  },
+  {
+   "cn": "名人档案",
+   "en": "archives of famous persons",
+   "source": "档案学名词",
+   "wordNumber": "01.02.032",
+   "subjectFullName": "档案学_总论_档案及其种类",
+   "subjectName": "档案及其种类",
+   "publishYear": "2024",
+   "definition": "著名人士在从事非公务活动中形成并保存的档案。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类推论证",
+   "en": "argument by analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近点辐角",
+   "en": "argument of periapsis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近心点辐角",
+   "en": "argument of pericenter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本国产业论，本国产业保护论",
+   "en": "home industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "产业多样化论",
+   "en": "diversified industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业保护论",
+   "en": "industry protection argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内市场论",
+   "en": "home market argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近地点引数",
+   "en": "argument of perigee",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纬度自变量",
+   "en": "argument of latitude",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "法美联合大洋中部海下研究",
+   "en": "French-American Mid-Ocean Undersea Study\",\"FAMOUS",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "零知识交互式论证",
+   "en": "zero-knowledge interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幼稚产业保护论",
+   "en": "infant industry argument for protection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "存储器总线",
+   "en": "rambus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阿莫尔型小行星",
+   "en": "Amors",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augment reality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧校园",
+   "en": "smart campus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无线校园",
+   "en": "wireless campus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科技校园",
+   "en": "data technology campus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "校园文化",
+   "en": "campus culture",
+   "source": "社会学名词",
+   "wordNumber": "3.16.6.6",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年文化",
+   "subjectName": "青年文化",
+   "publishYear": "2025",
+   "definition": "学校的传统、目标、环境、实践、制度规范等因素综合形成的指导学生行为和认识的参考框架。群体内成员在互动中形成共同的日常生活、学习和社交活动方式，发展出特有的思维方式、行为模式、归属感和社会化氛围。"
+  },
+  {
+   "cn": "校园环境",
+   "en": "campus environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校周围的境况及其中可以直接、间接影响学生学习和发展的各种自然因素和社会因素的总体。"
+  },
+  {
+   "cn": "校园平面布局",
+   "en": "campus layout",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "为保证功能分区合理，对学校建筑、体育场地、绿地、道路及广场、停车场进行设置的教育行政措施。"
+  },
+  {
+   "cn": "校园环境卫生",
+   "en": "campus environmental hygiene",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校物质环境",
+   "subjectName": "学校物质环境",
+   "publishYear": "2025",
+   "definition": "校园内为师生提供安全、健康、适用、高效的学习及使用空间中教学卫生和生活设施的卫生条件。包括体育场地、饮水、采光、照明、通风换气、采暖、厕所等设施的卫生情况。"
+  },
+  {
+   "cn": "校园基础急诊医疗服务",
+   "en": "basic emergency medical care on campus",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_校园基础急诊医疗服务",
+   "subjectName": "校园基础急诊医疗服务",
+   "publishYear": "2025",
+   "definition": "学校针对急性疾病、意外伤害和其他突发健康问题采取的基础性应急医疗响应策略。旨在及时有效地识别、评估和应对紧急状况，包括现场救助、院前急救评估和处理、联系医院准备急救、尽快转送到医院救治。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,692 @@
+{
+ "key": "interpersonal relationships",
+ "term": "interpersonal relationships",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:51:12+00:00",
+ "status": "ok",
+ "note": "variant=interpersonal relationships; 审定公布名词库=201; 海峡两岸名词对照库=95; 其他来源数据库=12; 预公布名词数据库=72; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "人际关系",
+   "en": "interpersonal relationship",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0190",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_沟通与冲突",
+   "subjectName": "沟通与冲突",
+   "publishYear": "2016",
+   "definition": "社会人群中因交往而构成的相互联系的社会关系的总和。"
+  },
+  {
+   "cn": "人际关系阶段",
+   "en": "interpersonal relationship stage",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.047",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "人际沟通研究的重要议题。形容人际关系从建立到逐步加深，再到保持关系和关系发生停滞，最后破裂的整个不断演变的过程。一般而言，人际关系过程主要有三个相互关联的层面：(1)聚合期；(2)维持期；(3)解体期"
+  },
+  {
+   "cn": "人际沟通",
+   "en": "interpersonal communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.001",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "发生在相互联系的个体之间的信息交流，意义协商，关系共享及有目的、有过程的人际互动。该名称也常因研究视角、研究对象和研究问题的不同而发生变化，如称“人际交流”“人际交往”等。"
+  },
+  {
+   "cn": "人际需求",
+   "en": "interpersonal needs",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.096",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "人际沟通过程中个人所产生的对社会团体、自尊、情感、控制、包容、认同等的关系需要。人际需求满足与否会直接影响到交往关系的性质、存在与发展。"
+  },
+  {
+   "cn": "人际影响",
+   "en": "interpersonal influence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.097",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "一种通过沟通达成彼此目标的，对交往行为与关系产生相互作用的复杂过程。有能力的沟通者可以使用诸如劝说、奖赏、威胁、榜样、专业性、投其所好、恳求等方式影响他人的态度、行为与观念。"
+  },
+  {
+   "cn": "人际冲突",
+   "en": "interpersonal conflict",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.137",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "感知到目标、动机、事件、利益和需求等互不相容，在实现目标时又受彼此干扰的人际互动。"
+  },
+  {
+   "cn": "人际吸引",
+   "en": "interpersonal attraction",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.153",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "发生在个体交往者之间的，在人格特点、社会地位、爱好、信念、感情、熟悉度和价值观等方面具有亲和性的认知与互动暗示。与“人际排斥”相对。"
+  },
+  {
+   "cn": "人际暴力",
+   "en": "interpersonal violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.009",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "发生在人与人之间，由个体直接做出，对他人身体和（或）心理造成伤害的行为。"
+  },
+  {
+   "cn": "人际传播",
+   "en": "interpersonal communication",
+   "source": "地方病学名词",
+   "wordNumber": "01.088",
+   "subjectFullName": "地方病学_总论_健康教育与防控",
+   "subjectName": "健康教育与防控",
+   "publishYear": "2016",
+   "definition": "个人与个人之间、个人与群体之间、群体与群体之间的一种直接信息交流活动。由于人际传播具有针对性强、交流充分、反馈及时等优点，在社区健康教育中尤为常用和有效。"
+  },
+  {
+   "cn": "人际关系角色",
+   "en": "interpersonal role",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0536",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "企业经理的正式负责人地位所形成的处理人际关系的角色，包含处理人与人关系以及具有礼仪性和象征性职责的角色。包括：①挂名首脑；②领导者角色；③联络者角色。"
+  },
+  {
+   "cn": "人际沟通",
+   "en": "interpersonal communication",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0209",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_领导与权力",
+   "subjectName": "领导与权力",
+   "publishYear": "2016",
+   "definition": "人际间在共同活动中彼此交流思想、感情和知识等信息的过程。"
+  },
+  {
+   "cn": "人际服务",
+   "en": "interpersonal service",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0424",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "顾客与服务提供者交流互动的服务情境。"
+  },
+  {
+   "cn": "人际距离",
+   "en": "interpersonal distance",
+   "source": "心理学名词",
+   "wordNumber": "07.139",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "人与人之间在交往过程中保持的距离。"
+  },
+  {
+   "cn": "人际关系",
+   "en": "interpersonal relation",
+   "source": "心理学名词",
+   "wordNumber": "07.140",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "人与人在相互交往过程中所形成的情感联系。"
+  },
+  {
+   "cn": "人际沟通",
+   "en": "interpersonal communication",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.059",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人与人之间进行直接信息沟通的一类交流活动。"
+  },
+  {
+   "cn": "关系",
+   "en": "relationship",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.044",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "两人或多人之间对沟通行为的一系列期望与改变现存关系模式的动态交际过程与互动的结果。"
+  },
+  {
+   "cn": "联系",
+   "en": "relationship",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0011",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "实体间的相互关联。"
+  },
+  {
+   "cn": "双重关系",
+   "en": "multiple relationship,dual relationship",
+   "source": "心理学名词",
+   "wordNumber": "15.087",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师与当事人之间除了咨询关系外还同时或相继存在着其他关系的情形。"
+  },
+  {
+   "cn": "人际沟通学",
+   "en": "interpersonal communication studies",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.141",
+   "subjectFullName": "新闻学与传播学_传播总论_学科与学派",
+   "subjectName": "学科与学派",
+   "publishYear": "2022",
+   "definition": "运用跨学科理论视角考察分析个体间的交往行为与关系互动，符号、讯息与意义的生成与理解，以提高人际交往技能与关系质量为目标的传播学研究领域。"
+  },
+  {
+   "cn": "多媒体人际沟通",
+   "en": "multimedia interpersonal communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.081",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通类型",
+   "subjectName": "人际沟通类型",
+   "publishYear": "2022",
+   "definition": "一种融合了文字、数据、图像、视频、声音、动画、文本等各种媒体形式及其信息生产与传递的人际互动方式。包括电话、计算机语音通信集成(CTI)、语音邮件、音视频远程会议、网络电话等具体方式。“多媒体传播”原"
+  },
+  {
+   "cn": "人际关系",
+   "en": "interpersonal relation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际学习",
+   "en": "interpersonal learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际吸引",
+   "en": "interpersonal attraction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际距离",
+   "en": "interpersonal distance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际影响",
+   "en": "interpersonal influence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际沟通",
+   "en": "interpersonal communication",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际信任",
+   "en": "interpersonal trust",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际排斥",
+   "en": "interpersonal exclusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际冲突",
+   "en": "interpersonal conflict",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际智力",
+   "en": "interpersonal intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际互动",
+   "en": "interpersonal interaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "联系",
+   "en": "relationship",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人际心理治疗",
+   "en": "interpersonal psychotherapy\",\"IPT",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人际消息处理",
+   "en": "interpersonal messaging\",\"IPM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "异速生长关系",
+   "en": "allometric relationship",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种间关系",
+   "en": "interspecific relationship",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种内关系",
+   "en": "intraspecific relationship",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "函数关系",
+   "en": "functional relationship",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "性质关联式",
+   "en": "property relationship",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "关系模型",
+   "en": "relationship model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据关系",
+   "en": "data relationship",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系挖掘",
+   "en": "relationship mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户关系网络",
+   "en": "user relationship network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "层次结构和关系服务",
+   "en": "hierarchical structure and relationship service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "客户关系管理系统",
+   "en": "customer relationship management (CRM) system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲清新型政商关系",
+   "en": "a cordial and clean relationship between government and business",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顶层设计和摸着石头过河的关系",
+   "en": "the relationship between Top-level design and advancing with caution",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人际关系",
+   "en": "interpersonal relationships",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在交往过程中借由思想、情感、行为等表现的相互之间吸引或排拒、合作或竞争、领导或服从等关系。"
+  },
+  {
+   "cn": "人际关系",
+   "en": "interpersonal relationships",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.9",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "个体在社会交往过程中与他人形成的各种联系、互动模式及情感联结的总和。包括亲属关系、朋友关系、同事关系、邻里关系、伴侣关系等多种类型，是影响个体生理健康与心理健康的重要社会因素。"
+  },
+  {
+   "cn": "人际关系能力",
+   "en": "interpersonal relationship skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "以积极的方式与他人交往的能力。有助于个体与他人建立和维持友好的关系，保持良好的心理状态和社会适应。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "人际关系质量",
+   "en": "quality of interpersonal relationship",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校心理社会环境",
+   "subjectName": "学校心理社会环境",
+   "publishYear": "2025",
+   "definition": "学校中学生因交往而构成的相互联系的社会关系的总和。"
+  },
+  {
+   "cn": "护理人际关系",
+   "en": "interpersonal relationship in nursing",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.013",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "医疗活动中护理人员与其他人员之间的相互联系、影响和作用。包括护患关系、医护关系、护理人员之间的关系、护理人员与其他医疗机构从业人员的关系及护理人员与社会的关系等。"
+  },
+  {
+   "cn": "人际知觉",
+   "en": "interpersonal perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "对人与人之间关系的知觉。包括对人的外部特征、个性特点了解、对人行为的判断和理解。这种知觉主要是在人际交往中发生的，以各种交际行为为知觉对象。"
+  },
+  {
+   "cn": "人际吸引",
+   "en": "interpersonal attraction",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "个体与他人之间情感上相互接纳和亲密的状态。影响因素主要有邻近性、相似性、互补性、外貌、才能及人格品质等。"
+  },
+  {
+   "cn": "人际距离",
+   "en": "interpersonal distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "人与人之间面对面直接交往接触时所保持的相互间的客观距离。人类学家霍尔(Edward T.Hall）提出在空间关系学中提出。"
+  },
+  {
+   "cn": "人际沟通",
+   "en": "interpersonal communication",
+   "source": "社会学名词",
+   "wordNumber": "4.1.14.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_沟通",
+   "subjectName": "沟通",
+   "publishYear": "2025",
+   "definition": "人与人之间在共同活动中彼此交流思想、感情和知识等信息的过程。主要通过言语、副言语、表情、手势、体态以及社会距离等来实现。"
+  },
+  {
+   "cn": "人际暴力",
+   "en": "interpersonal violence",
+   "source": "社会医学名词",
+   "wordNumber": "13.4",
+   "subjectFullName": "社会病",
+   "subjectName": "人际暴力",
+   "publishYear": "2025",
+   "definition": "发生在人与人之间，由个体直接做出，对他人身体和（或）心理造成伤害的行为。"
+  },
+  {
+   "cn": "他伤",
+   "en": "interpersonal violence injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "法医确认由外人造成的伤害。"
+  },
+  {
+   "cn": "家庭关系",
+   "en": "family relationships",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.35",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭成员间的人际互动或联系。作为社会关系的一种，包括夫妻关系、亲子关系、兄弟姐妹关系、婆媳关系、妯娌关系、祖孙关系、姑嫂关系、叔侄关系等等。在一夫一妻制下，主要为婚姻（夫妻）关系与血缘（亲子）关系，其"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relationship",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人们在社会交往中形成的以生产关系和权力关系为基础的各种相互联系和关系的总称。如血缘和亲缘关系、地缘关系、业缘关系等。"
+  },
+  {
+   "cn": "组织关系",
+   "en": "organizational relationship",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部和组织之间各种关系的总和。内部关系是指组织内部成员之间、组织成员与组织之间、组织内部各局部之间，以及各局部与整个组织之间的相互作用、相互影响的状态；组织之间关系是指组织与组织之间的相互作用、相"
+  },
+  {
+   "cn": "性别关系",
+   "en": "gender relationship",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.16",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别在社会中的互动性、互动形态及特质等。受性别观念、制度和文化等多重因素影响。"
+  },
+  {
+   "cn": "亲密关系",
+   "en": "close relationship",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "交往双方彼此影响、相互依赖程度极强的关系模式。其特点为两人存在持久的频繁互动，共享许多兴趣爱好，经常共同参与各类活动，相互影响力很大。"
+  },
+  {
+   "cn": "关系建立",
+   "en": "relationship building",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者与服务对象之间为解决问题而进行的联结过程，其表现为双方之间达成一定的信任和默契，或正式签订服务契约。"
+  },
+  {
+   "cn": "供求关系",
+   "en": "supplydemand relationship",
+   "source": "马克思主义",
+   "wordNumber": "02.0021",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品经济条件下商品的市场供给和需求之间通过竞争形成的均衡或失衡的关系，是商品（服务）和消费相互制约关系的市场反映。"
+  },
+  {
+   "cn": "党群关系",
+   "en": "Partymasses relationship",
+   "source": "马克思主义",
+   "wordNumber": "03.0740",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "政党与人民群众的关系。具体是指政党与组成社会的各个团体、公民以及自治性组织的关系。对于在野的选举型政党来说，处理好党群关系是获得政权的唯一通途；对于执政党来说，处理好党群关系是为了巩固执政基础，扩大执"
+  },
+  {
+   "cn": "同伴关系",
+   "en": "peer relationship",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "同龄人间或心理发展水平相当的个体间在交往过程中建立和发展起来的一种人际关系。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

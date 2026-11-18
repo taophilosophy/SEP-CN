@@ -1,0 +1,802 @@
+{
+ "key": "good government",
+ "term": "good government",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:46:36+00:00",
+ "status": "ok",
+ "note": "variant=good government; 审定公布名词库=1518; 海峡两岸名词对照库=500; 其他来源数据库=274; 预公布名词数据库=611; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "善治",
+   "en": "good governance",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0125",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "在最大限度地推动社会发展的前提下，建立政府组织与公民社会之间的合作关系，实现政府与公民社会对公共事务合作管理的过程。"
+  },
+  {
+   "cn": "正商品",
+   "en": "goods",
+   "source": "经济学名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "能够带来效用或满足的商品叫作正商品。对于这种商品，消费者倾向于选择更多而不是更少。"
+  },
+  {
+   "cn": "商品",
+   "en": "goods",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0011",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "可以被移动并出售的产品。"
+  },
+  {
+   "cn": "政府",
+   "en": "government",
+   "source": "经济学名词",
+   "wordNumber": "04.058",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "公共部门中以谋取公共利益为行动动机，不从事商品或者劳务的生产经营，以税收等公共收入为主要收入来源，免费或部分免费地向公众提供商品和劳务的行为主体的总和。"
+  },
+  {
+   "cn": "管辖",
+   "en": "government",
+   "source": "语言学名词",
+   "wordNumber": "01.144",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "①一种句法关联性。其中一个词语要求另外一个词语取得某种特定的形态。例如在英语中，介词后面的人称代词必须是宾格形式。②管辖与约束理论中的一种特定句法关系。短语的中心词可以为短语的名词性短语补足语指派格位"
+  },
+  {
+   "cn": "电子政务",
+   "en": "electronic government,e-government",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1283",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "应用信息技术将管理和服务通过网络进行集成，在互联网上实现组织结构和工作流程的优化重组，向社会提供优质和全方位的、规范而透明的、符合国际水准的管理和服务。"
+  },
+  {
+   "cn": "电子政务",
+   "en": "electronic government;e government",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.127",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "一种新型的政府管理方式，即运用信息、通信与互联网技术处理、管理和提供政府信息与服务。它可以提高和增强政府的工作效率和服务效能，同时还可降低公共行政成本、增强与社会公众的直接沟通。电子政务的概念涉及计算"
+  },
+  {
+   "cn": "城市治理",
+   "en": "urban governance,city governance",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.131",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法",
+   "subjectName": "城市规划理论与方法",
+   "publishYear": "2021",
+   "definition": "城市中政府、企业、非政府组织和市民社会等多元利益主体，通过谈判、协商等方式共同参与城市发展与管理，以谋求共同目标、协同行动的一种组织方式。"
+  },
+  {
+   "cn": "教授治校",
+   "en": "professorial governance,faculty governance",
+   "source": "教育学名词",
+   "wordNumber": "08.260",
+   "subjectFullName": "教育学_高等教育_大学理念、教育思潮",
+   "subjectName": "大学理念、教育思潮",
+   "publishYear": "2013",
+   "definition": "源于中世纪巴黎大学的西方大学管理思想，通过一定的规章制度和组织形式，由教授决定办学的方针，掌握学校全部或主要事务（特别是有关学术事务）的决策权力，并对外维护学校的自主与自治。"
+  },
+  {
+   "cn": "良医",
+   "en": "good physician",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.067",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "中国古代医术精良、医德高尚的医生。而医术和医德低下的医生被称为“庸医”，这种称呼包含明显的道德评价成分。良医的具体表现是对医术精益求精，对患者视同亲人，敢于面对疑难杂症，勇于探索，善于创新。"
+  },
+  {
+   "cn": "良工",
+   "en": "good craftsman",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.071",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "管子学派对品行优良、技艺精湛的工匠的称谓。能够恪守技术规范而从不制作奇技淫巧之物。"
+  },
+  {
+   "cn": "预后良好",
+   "en": "good prognosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.324",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "病情轻的患病动物由于个体情况良好，恢复健康后不影响生产性能和经济价值的情况。"
+  },
+  {
+   "cn": "良质牧草",
+   "en": "good forage ",
+   "source": "草学名词",
+   "wordNumber": "3.003",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "诚实信用",
+   "en": "good faith",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.034",
+   "subjectFullName": "化工（五）_工程建设_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2021",
+   "definition": "当事人在市场活动中应讲信用，恪守诺言，诚实不欺，在追求自己利益的同时不损害他人和社会利益，要求民事主体在民事活动中维持双方的利益与社会利益的平衡。"
+  },
+  {
+   "cn": "工资品",
+   "en": "wage good",
+   "source": "经济学名词",
+   "wordNumber": "04.159",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "工资必须购买的商品，通常是弹性较小的生活必需品。"
+  },
+  {
+   "cn": "良导体",
+   "en": "good conductor",
+   "source": "物理学名词",
+   "wordNumber": "03.0028",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "良溶剂",
+   "en": "good solvent",
+   "source": "化学名词",
+   "wordNumber": "05.0763",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "对高分子有较强溶解能力的溶剂。通常相互作用参数x<0.5。"
+  },
+  {
+   "cn": "完工产品",
+   "en": "finished good",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0282",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "已经完成全部生产过程但尚未出售给顾客的产品。"
+  },
+  {
+   "cn": "良好图形",
+   "en": "good figure",
+   "source": "心理学名词",
+   "wordNumber": "02.373",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "具有简明性、规则的、对称的图形。"
+  },
+  {
+   "cn": "良溶剂",
+   "en": "good solvent",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0318",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "对高分子溶质具有较强溶解能力，与高分子溶质的相互作用参数χ小于0.5的溶剂。"
+  },
+  {
+   "cn": "良溶剂",
+   "en": "good solvent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "良溶剂",
+   "en": "good solvent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "好能见度（7级）",
+   "en": "visibility good",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "良好船艺",
+   "en": "good seamanship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保税货物",
+   "en": "bonded goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际商品",
+   "en": "international goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①过境货物 ②转口货物",
+   "en": "floating goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[海关]扣押货物",
+   "en": "seized goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货物报关单",
+   "en": "goods declaration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货物抵押贷款",
+   "en": "goods credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经济货物",
+   "en": "economic goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "亏本出售的商品",
+   "en": "sacrifice goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "垄断货物",
+   "en": "monopoly goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货",
+   "en": "forward goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资货物",
+   "en": "investment goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现货",
+   "en": "actual goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应税货物",
+   "en": "dutiable goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "正常货物",
+   "en": "normal goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "转口货物",
+   "en": "transit goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "日常用品",
+   "en": "convenience goods",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "智慧善治",
+   "en": "intelligent good governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政通人和",
+   "en": "Good Governance and Harmonious People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子政府",
+   "en": "electronic government (e-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动政务",
+   "en": "mobile government (m-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信",
+   "en": "Good Faith",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "界内！",
+   "en": "Good! In!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效回击",
+   "en": "good return",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法发球",
+   "en": "good service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效回击",
+   "en": "good return",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子政务",
+   "en": "e-government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府数据",
+   "en": "government data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府信息",
+   "en": "government information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无缝隙政府",
+   "en": "seamless government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府",
+   "en": "Digital Government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放政府",
+   "en": "open government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧政府",
+   "en": "smart government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟政府",
+   "en": "virtual government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台政府",
+   "en": "platform government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云端政府",
+   "en": "cloud government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.12",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "狭义指国家政治中的治理，即政府运用公权力来管理民众、社会与领土，以便达到社会发展与国家繁荣的目的；广义指包括公司治理、地方自治等在内的各种管理机制。"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会医学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "治理",
+   "publishYear": "2025",
+   "definition": "各种公立或私立机构、组织或个人管理其共同事务的方式总和。是确保人们相互冲突的利益得以有效调整，并通过各种正式和非正式制度安排协调一致采取联合行动的过程。"
+  },
+  {
+   "cn": "善终",
+   "en": "good ending",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.037999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人因自然衰老而非祸患的无痛苦死亡。"
+  },
+  {
+   "cn": "良好健康",
+   "en": "good health",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5.2.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "是养育人进行良好照护的结果，具体包括监测儿童身心健康状态、回应儿童日常需要、保护儿童免受环境威胁、注意卫生预防感染、利用预防保健服务并及时诊治儿童疾病。"
+  },
+  {
+   "cn": "优逝",
+   "en": "good death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.006",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "关注临终者死亡质量的理念。医疗实践中以个人和社会文化为基础，通过科学、规范、个体化的安宁疗护和姑息护理，提供全方位的心理支持与生理照护，减少终末期患者身心痛苦。"
+  },
+  {
+   "cn": "好撒玛利亚人",
+   "en": "Good Samarian",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.031",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "这是一个比喻，是耶稣在路加福音10：25-37 中讲述的一个教导故事。一位旅行者，被剥去衣服，殴打，在路旁半死。首先来了一位牧师，之后是利未人，但他们都绕过了这个人，没有理会。最后，是一位撒马利亚人来"
+  },
+  {
+   "cn": "正常品",
+   "en": "normal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "需求的收入弹性为正的商品，消费者对这种商品的需求水平随着收入的增加而提高。"
+  },
+  {
+   "cn": "劣等品",
+   "en": "inferior goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "需求的收入弹性为负的商品，消费者对该商品的需求水平随收入的增加而下降。"
+  },
+  {
+   "cn": "公共产品",
+   "en": "public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "既具有消费或使用上的非竞争性又具有受益上的非排他性的产品。分为准公共产品和纯公共产品。"
+  },
+  {
+   "cn": "个人产品",
+   "en": "personal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上的竞争性、受益上的排他性和缺乏外部效应特征的产品或服务。通常分为必需消费品和特需消费品两类。"
+  },
+  {
+   "cn": "仁政",
+   "en": "benevolent government",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.6",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "基于周代理想政治秩序构建的政治与道德合一的君民关系。孟子政治思想的核心，试图重建周代的等级秩序和人心秩序，把亲亲、尊尊作为君与民关系的道德原则。同时着重发挥民本思想，提出一条自下而上建设社会的途径，经"
+  },
+  {
+   "cn": "政府购买",
+   "en": "government purchase",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.26",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "政府向社会组织或其他组织支付资金，并由其来完成某些服务活动的做法，包括分购买项目和购买岗位两种基本形式。一般是由政府将其原来直接提供的公共服务事项，通过直接拨款或公开招标的方式，交给具有资质的社会服务"
+  },
+  {
+   "cn": "廉价政府",
+   "en": "cheap government",
+   "source": "马克思主义",
+   "wordNumber": "03.0109",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“廉价政府”最初是资产阶级革命提出的口号。马克思在总结巴黎公社的经验时赞扬公社真正实现了廉价政府的目标，因为它取消了常备军和官吏两项最大的开支。巴黎公社废除了官吏的高新和特权，所有公职人员领取相当于工"
+  },
+  {
+   "cn": "服务型政府",
+   "en": "serviceoriented government",
+   "source": "马克思主义",
+   "wordNumber": "03.0685",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十六届六中全会提出的强化社会管理和公共管理任务之一。是遵循社会公正和民主，按公共参与和共同治理的法定机制和程序而组建起来的，为公民提供满意服务并承担相应责任的政府。"
+  },
+  {
+   "cn": "政府投资",
+   "en": "government investment",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府使用预算安排资金进行固定资产投资建设以影响卫生服务市场行为的活动。分为直接投资和间接投资两大类。"
+  },
+  {
+   "cn": "政府规制",
+   "en": "government regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "作为对外部竞争约束的替代，政府必须对公共卫生机构提供公共产品的行为加以约束或规定，做出关于安全标准、价格规范、药品供应和废弃物监管等方面的制度安排。"
+  },
+  {
+   "cn": "政府失灵",
+   "en": "government failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府在弥补市场机制的缺陷、干预经济运行的过程中，由于自身的局限性和其他因素的制约无法达到社会卫生资源配置的有效和公平的状况。"
+  },
+  {
+   "cn": "国家政府",
+   "en": "central government",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "在全国范围内行使行政、立法、财政和监管职能的最高级别政府机构，主要包括国家级各部委、国务院、最高人民法院、最高人民检察院及其他直属机关。"
+  },
+  {
+   "cn": "民主执政",
+   "en": "democratic governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0676",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持为人民执政、靠人民执政，发展中国特色社会主义民主政治，推进社会主义民主政治的制度化、规范化、程序化，以民主的制度、民主的形式、民主的手段支持和保证人民当家作主。"
+  },
+  {
+   "cn": "依法执政",
+   "en": "lawbased governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0677",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党坚持依法治国的基本方略，领导人民制定法律，自觉带头遵守法律，采取措施保证法律的实施，不断推进国家经济、政治、文化、社会生活的法制化、规范化，以法治的理念、法治的体制、法治的程序保证党领导人民有效治理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

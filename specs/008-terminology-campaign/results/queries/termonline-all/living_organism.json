@@ -1,0 +1,782 @@
+{
+ "key": "living organism",
+ "term": "living organism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:40:41+00:00",
+ "status": "ok",
+ "note": "variant=living organism; 审定公布名词库=2434; 海峡两岸名词对照库=840; 其他来源数据库=154; 预公布名词数据库=216; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "活体供器官",
+   "en": "living donated organ",
+   "source": "器官移植学名词",
+   "wordNumber": "03.024",
+   "subjectFullName": "器官移植学_供者与供器官的类型",
+   "subjectName": "供者与供器官的类型",
+   "publishYear": "2020",
+   "definition": "由健康的个体捐献的供器官。"
+  },
+  {
+   "cn": "活体亲属供器官",
+   "en": "living related donated organ",
+   "source": "器官移植学名词",
+   "wordNumber": "03.025",
+   "subjectFullName": "器官移植学_供者与供器官的类型",
+   "subjectName": "供者与供器官的类型",
+   "publishYear": "2020",
+   "definition": "由与移植受者有亲缘关系的健康个体捐献的供器官。"
+  },
+  {
+   "cn": "活体非亲属供器官",
+   "en": "living unrelated donated organ",
+   "source": "器官移植学名词",
+   "wordNumber": "03.026",
+   "subjectFullName": "器官移植学_供者与供器官的类型",
+   "subjectName": "供者与供器官的类型",
+   "publishYear": "2020",
+   "definition": "由与移植受者无亲缘关系的健康个体捐献的供器官。"
+  },
+  {
+   "cn": "活性",
+   "en": "liveness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0648",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "佩特里网的一种动态性质，关注网系统运行过程中，某个（或全体）变迁是否为活变迁。"
+  },
+  {
+   "cn": "有机式组织",
+   "en": "organic organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "松散、灵活的具有高度适应性的组织形式。具有低复杂性、低正规化和分权化的特点。"
+  },
+  {
+   "cn": "活体供者",
+   "en": "living donor",
+   "source": "普通外科学名词",
+   "wordNumber": "20.292",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "移植物由健康个体捐献的捐献者。分为亲属活体供者和非亲属活体供者两类。"
+  },
+  {
+   "cn": "生石花",
+   "en": "living stone",
+   "source": "农学名词",
+   "wordNumber": "05.471",
+   "subjectFullName": "园艺作物_花卉作物",
+   "subjectName": "花卉作物",
+   "publishYear": "2025",
+   "definition": "番杏科生石花属(Lithops)多年生常绿肉质草本花卉。染色体数2n=48。植株具肥大肉质根，根状茎极短，植株卵圆形，高2～3.5cm；叶肉质，2枚，对生。观赏肥厚的肉质叶和花，多用于盆栽观赏，也可用"
+  },
+  {
+   "cn": "活体供者",
+   "en": "living donor",
+   "source": "肝病学名词",
+   "wordNumber": "15.1.4.1.4",
+   "subjectFullName": "肝病学_肝移植_肝移植术前评估",
+   "subjectName": "肝移植术前评估",
+   "publishYear": "2024",
+   "definition": "移植器官来源于非死亡供者，多为患者的父母及亲属的部分肝脏。"
+  },
+  {
+   "cn": "生命等级",
+   "en": "living hierarchy",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.127",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "依据生命功能从简单到复杂、从低效到高效的进化次序对生命体划分的等级。可分为：原核生物界、原生生物界、真菌界、植物界、动物界。每界内又有更细致的分级。"
+  },
+  {
+   "cn": "生命系统",
+   "en": "living system",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.405",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "自然系统的最高级形式。能独立与其所处的环境进行物质与能量交换，并在此基础上实现内部的有序性、发展与繁殖的系统。"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.149",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "人们在健康或意识清楚时签署的，用于说明在不可治愈的伤病末期或临终时要求或不要求使用哪些医疗护理的具有法律效力的指示文件。"
+  },
+  {
+   "cn": "活性聚合",
+   "en": "living polymerization",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "1.0021",
+   "subjectFullName": "化工（七）_通类",
+   "subjectName": "通类",
+   "publishYear": "2022",
+   "definition": "在一定条件下，无链终止和链转移、活性中心的浓度保持恒定的时间比完成反应所需时间长数倍的聚合反应。可制备分子量分布窄、结构高度可控的聚合物。"
+  },
+  {
+   "cn": "真实榜样",
+   "en": "living example",
+   "source": "行为医学名词",
+   "wordNumber": "20.089",
+   "subjectFullName": "行为医学_行为干预与治疗_行为训练",
+   "subjectName": "行为训练",
+   "publishYear": "2022",
+   "definition": "生活中真实的榜样在观察者面前进行真实的行为操作。"
+  },
+  {
+   "cn": "生活因素",
+   "en": "living factor",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.269",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科肿瘤与环境",
+   "subjectName": "妇科肿瘤与环境",
+   "publishYear": "2022",
+   "definition": "凡是影响个人及其家庭的生活方式、性生活、生育状况、工作压力等因素的统称。"
+  },
+  {
+   "cn": "居住混合",
+   "en": "mixed living",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.056",
+   "subjectFullName": "城乡规划学_社区与住房规划_社会公正与公众参与",
+   "subjectName": "社会公正与公众参与",
+   "publishYear": "2021",
+   "definition": "不同收入、职业或文化背景的社会群体，在一栋集合住宅楼、居住小区或居住区内共同居住生活的一种居住状态。"
+  },
+  {
+   "cn": "活态遗产",
+   "en": "living heritage",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.158",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_名城名镇名村保护规划",
+   "subjectName": "名城名镇名村保护规划",
+   "publishYear": "2021",
+   "definition": "至今仍保持着原初或历史过程中的使用功能的城乡建成环境遗产。主要指历史文化名城名镇名村、历史文化街区、传统村落等以原住居民为主的历史地区。"
+  },
+  {
+   "cn": "活体供者",
+   "en": "living donor",
+   "source": "器官移植学名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "器官移植学_供者与供器官的类型",
+   "subjectName": "供者与供器官的类型",
+   "publishYear": "2020",
+   "definition": "提供移植物的健康个体。分为活体亲属供者和活体非亲属供者。"
+  },
+  {
+   "cn": "活可燃物",
+   "en": "living fuel",
+   "source": "林学名词",
+   "wordNumber": "07.261",
+   "subjectFullName": "林学_森林保护_森林防火",
+   "subjectName": "森林防火",
+   "publishYear": "2016",
+   "definition": "林地或草地上处于生长状态的活植物体的总称。"
+  },
+  {
+   "cn": "活性高分子",
+   "en": "living macromolecule",
+   "source": "化学名词",
+   "wordNumber": "05.0080",
+   "subjectFullName": "化学_高分子化学_高分子物质",
+   "subjectName": "高分子物质",
+   "publishYear": "2016",
+   "definition": "在无链转移及链终止反应的活性聚合条件下，聚合完成后生长链仍具有活性，加入新单体仍可聚合的高分子。"
+  },
+  {
+   "cn": "活性聚合",
+   "en": "living polymerization",
+   "source": "化学名词",
+   "wordNumber": "05.0416",
+   "subjectFullName": "化学_高分子化学_聚合与高分子化学反应",
+   "subjectName": "聚合与高分子化学反应",
+   "publishYear": "2016",
+   "definition": "没有链转移和链终止反应，且引发速率大于增长速率的聚合反应。经这样聚合可制得分子量可控、分子量分布窄的聚合物。反应完成后，增长链仍保持着活性，再加入单体仍可聚合。"
+  },
+  {
+   "cn": "生物体",
+   "en": "living organism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "liveness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "活[性]高分子",
+   "en": "living macromolecule",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活性聚合",
+   "en": "living polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生存空间",
+   "en": "living space",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生物资源",
+   "en": "living resources",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "住舱",
+   "en": "living quarter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "新鲜蒸汽",
+   "en": "live steam",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活捕器,活捕陷阱",
+   "en": "live-trap",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生活空间",
+   "en": "lived space",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生活世界",
+   "en": "lived-world",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "活变迁",
+   "en": "live transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生物",
+   "en": "organism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有机体",
+   "en": "organism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "器官",
+   "en": "organ",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "管风琴",
+   "en": "organ",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织者",
+   "en": "organizer",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生活共同体",
+   "en": "living community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络直播",
+   "en": "live streaming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线直播",
+   "en": "live streaming",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活球",
+   "en": "live ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛组织者",
+   "en": "organizer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直播平台",
+   "en": "live streaming platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活体农贸市场",
+   "en": "live animal market",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸器官",
+   "en": "respiratory organs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据组织",
+   "en": "Data Organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扁平化组织",
+   "en": "flat organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型组织",
+   "en": "sharing organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态型组织",
+   "en": "ecotype organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能组织",
+   "en": "intelligent organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无边界组织",
+   "en": "boundaryless organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷组织",
+   "en": "agile organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云组织",
+   "en": "cloud organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织价值",
+   "en": "organization value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活体器官移植",
+   "en": "living-donor organ transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.025",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "利用外科手术，摘取某存活个体的具有生理功能的肺脏、肝脏、肾脏或者胰腺等器官的一侧或部分，将其移植给器官受体以代替其病损器官的过程。"
+  },
+  {
+   "cn": "活体捐献器官准则",
+   "en": "guide lines for living organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.026",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "为加强活体器官移植管理，确保活体器官捐献人和接受人的生命安全和身体健康，由卫生行政部门或学术组织制定的有关活体器官捐献行为的规范与要求。"
+  },
+  {
+   "cn": "生活社区",
+   "en": "living community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "以居民日常居住为核心功能，融合生活、社交、休闲、服务等功能的综合性地域空间。其本质是通过物理空间与人文环境的有机结合，满足居民从“生存需求”到“生活品质”的多层次需求。"
+  },
+  {
+   "cn": "活法",
+   "en": "living law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.13",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "实际上支配社会生活的规范。自由法学派创始人欧根·埃利希提出的概念，如日常社会生活中完成的契约和交易，区别于国家实施的法律。"
+  },
+  {
+   "cn": "生活救助",
+   "en": "living assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "为保障公民的基本生存权，国家对生活在国家法定或地方法定最低生活保障标准之下的贫困家庭及个人进行现金、实物或服务等救助的社会救助制度。"
+  },
+  {
+   "cn": "生活水平",
+   "en": "living standards",
+   "source": "马克思主义",
+   "wordNumber": "03.0174",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在某一社会生产发展阶段中，居民用以满足物质、文化生活需要的社会产品和劳务的消费程度。又称生活程度。具体内容包括：居民的实际收入水平、消费水平和消费结构、劳动的社会条件和生产条件、社会服务的发达程度、闲"
+  },
+  {
+   "cn": "生活指导",
+   "en": "living guidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "有针对性地根据个体或群体的需求，指导个人或群体积极应对生活事件的行动。"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.041",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "属于遗嘱的一种特殊形式。具有完全民事行为能力的患者，在其意识清楚时，为自己在丧失意识或行为能力时，预先安排临终前后有关事宜所表达的指示性意愿或签署的指示性文件。"
+  },
+  {
+   "cn": "活态传承",
+   "en": "living inheritance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0165",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在现今传统村落文化遗产延续与发展的环境中，以人为主体，在保存其文化精髓和风格的前提下，在民众的生产生活过程中延续其文化形态的一种传承方式；与“静态保护”相对。"
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，能检测脉冲信号的时间。亦即总的测量时间扣除死时间后的时间。"
+  },
+  {
+   "cn": "活疫苗",
+   "en": "live vaccine",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.4.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫预防",
+   "subjectName": "免疫预防",
+   "publishYear": "2025",
+   "definition": "应用保留有免疫原性的减毒或无毒的病原生物所制成的一种疫苗。如卡介苗、麻疹活疫苗等。"
+  },
+  {
+   "cn": "活产",
+   "en": "live birth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.23",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "无论妊娠期长短而自母体完全排出的受孕产物，与母体分离后，不论脐带是否结扎或胎盘是否附着，具有呼吸动作或显示其他生命征象如心脏跳动、脐带搏动或出现明确的随意肌收缩。"
+  },
+  {
+   "cn": "他组织",
+   "en": "organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "在外部因素的控制、管理和引导下，个人被纳入和吸收进组织或群体，并能从中获得某中特定的“组织人”身份，受到各种组织安排的组织化过程。与“自组织”相对。"
+  },
+  {
+   "cn": "亲属活体供者",
+   "en": "living related donor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.027000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "与器官受体存在亲属关系的器官供体。包括器官受体的配偶、直系血亲或者三代以内的旁系血亲。"
+  },
+  {
+   "cn": "活体非亲属供者",
+   "en": "living unrelated donor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.029",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "与器官受体不存在夫妻、直系血亲或者三代以内旁系血亲关系的器官供体。"
+  },
+  {
+   "cn": "配偶活体供者",
+   "en": "living spousal donor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.027999999999999",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "与器官受体之间为配偶关系的活体器官捐献人。我国卫生政策主管部门《关于规范活体器官移植的若干规定》要求仅限于结婚 3 年以上或者婚后已育有子女的配偶。"
+  },
+  {
+   "cn": "有机杂质",
+   "en": "organic impurity",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "食品中所含有的非食品正常组分的外来有机物。如粮食、油料中的根、茎、叶、颖壳、野生植物种子、昆虫、异种粮油粒及病斑变质粮油粒等。"
+  },
+  {
+   "cn": "有机闪烁体",
+   "en": "organic scintillator",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.34",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种由有机物质组成的闪烁体。"
+  },
+  {
+   "cn": "有机玻璃",
+   "en": "organic glass",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.20",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "聚甲基丙烯酸甲酯。可作为β射线屏蔽材料，密度为1.18g·cm-3。"
+  },
+  {
+   "cn": "有机的知识分子",
+   "en": "organic intellectual",
+   "source": "马克思主义",
+   "wordNumber": "05.0007",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西在《狱中札记》中提出的概念。葛兰西基于社会生产方式的历史性特点，将知识分子划分为“传统的”知识分子和“有机的”知识分子两种类型。前者是指在社会变动过程中，凭借文化的持续传承而保持相对稳定地位的知"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

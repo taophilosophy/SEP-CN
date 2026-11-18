@@ -1,0 +1,612 @@
+{
+ "key": "difficult question",
+ "term": "difficult question",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:52:35+00:00",
+ "status": "ok",
+ "note": "variant=difficult question; 审定公布名词库=98; 海峡两岸名词对照库=9; 其他来源数据库=23; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "困难气道",
+   "en": "difficult airway",
+   "source": "麻醉学名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_术前访视",
+   "subjectName": "术前访视",
+   "publishYear": "2024",
+   "definition": "经过规范培训的从业医生遇到的面罩通气困难或气管插管困难，或两者兼有的情况。"
+  },
+  {
+   "cn": "排便困难",
+   "en": "difficult defecation",
+   "source": "消化病学名词",
+   "wordNumber": "1.132",
+   "subjectFullName": "消化病_总论_症状",
+   "subjectName": "症状",
+   "publishYear": "2022",
+   "definition": "排便费力、排便时间延长、排便不尽感或肛门直肠堵塞感，甚至需要手法辅助排便的现象。"
+  },
+  {
+   "cn": "排便困难",
+   "en": "difficult defecation",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.072",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_症状_其他症状",
+   "subjectName": "其他症状",
+   "publishYear": "2022",
+   "definition": "排便费力、时间延长、粪便难以排出或排净等的现象。"
+  },
+  {
+   "cn": "排便困难",
+   "en": "difficult defecation",
+   "source": "物理医学与康复名词",
+   "wordNumber": "04.082",
+   "subjectFullName": "物理医学与康复_损伤、疾病的康复_神经源性膀胱和肠道功能障碍",
+   "subjectName": "神经源性膀胱和肠道功能障碍",
+   "publishYear": "2014",
+   "definition": "排便费力、时间延长，粪便难以排除或排净等的现象。"
+  },
+  {
+   "cn": "难产",
+   "en": "difficult delivery",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0427",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "以妊娠足月临产时，胎儿不能顺利娩出为主要表现的疾病。"
+  },
+  {
+   "cn": "性交困难",
+   "en": "difficult coitus,dyspareunia",
+   "source": "计划生育名词",
+   "wordNumber": "08.050",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "夫妻在性生活中因某些原因导致生殖器难于相互交接的现象。"
+  },
+  {
+   "cn": "紧急困难气道",
+   "en": "emergency difficult airway",
+   "source": "麻醉学名词",
+   "wordNumber": "03.496",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_呼吸和气道管理术",
+   "subjectName": "呼吸和气道管理术",
+   "publishYear": "2024",
+   "definition": "无自主呼吸或严重呼吸抑制患者同时出现气管插管困难和面罩及声门上气道装置通气困难，进而出现氧合障碍，危及患者生命，必须在短时间内迅速解决气道通畅、通气和氧合问题的临床紧急情况。主要在麻醉诱导和拔管后出现"
+  },
+  {
+   "cn": "交通困难地区",
+   "en": "difficult transport area",
+   "source": "电力名词",
+   "wordNumber": "22.021",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "非居民区中,车辆、农业机械难以到达的地区。"
+  },
+  {
+   "cn": "难燃烧体",
+   "en": "difficult-combustible component",
+   "source": "建筑学名词",
+   "wordNumber": "11.0109",
+   "subjectFullName": "建筑学_建筑防护_防火、防爆",
+   "subjectName": "防火、防爆",
+   "publishYear": "2014",
+   "definition": "用难燃材料做成的建筑构件或用可燃材料做成而用不燃材料做保护层的建筑构件。"
+  },
+  {
+   "cn": "提问",
+   "en": "question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者通过提问题向采访对象了解新闻事实的新闻采访方式。"
+  },
+  {
+   "cn": "面罩通气困难",
+   "en": "difficult mask ventilation;DMV",
+   "source": "麻醉学名词",
+   "wordNumber": "03.018",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_术前访视",
+   "subjectName": "术前访视",
+   "publishYear": "2024",
+   "definition": "经过规范培训的麻醉医师在无他人帮助的情况下实施面罩通气时，经过多次或超过1min的努力，仍无法维持充足氧合或无法逆转通气不足征象的情况。"
+  },
+  {
+   "cn": "难加工材料",
+   "en": "difficult-to-cut material",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "01.008",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "材料通常采用相对切削加工性系数K来表示其相对切削加工性，一般认为K﹤0.5时，属难加工材料。如切削温度高、化学活性大、强度高、塑性高以及韧性好、加工硬化倾向严重、硬度高、脆性大等特点的某些金属或非金属"
+  },
+  {
+   "cn": "难变形高温合金",
+   "en": "difficult-to-deform superalloy",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0803",
+   "subjectFullName": "材料科学技术_金属材料_特殊用途金属材料_高温合金",
+   "subjectName": "高温合金",
+   "publishYear": "2011",
+   "definition": "合金化程度很高、高温强化相很多、变形抗力很大、导热性能差、塑性较低、热加工温度范围窄，而用传统变形工艺难以顺利进行热加工的高温合金。"
+  },
+  {
+   "cn": "难利用草地",
+   "en": "rangeland of difficult use",
+   "source": "资源科学技术名词",
+   "wordNumber": "10.159",
+   "subjectFullName": "资源科学技术_草地资源学",
+   "subjectName": "草地资源学",
+   "publishYear": "2008",
+   "definition": "因缺水、交通不便或缺乏牧道，限于当前科技水平和资金投入水平而暂时难以利用的草地。"
+  },
+  {
+   "cn": "直接提问",
+   "en": "overt question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.068",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者单刀直入地向采访对象提出问题的一种手法。"
+  },
+  {
+   "cn": "隐含提问",
+   "en": "implied question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.069",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者旁敲侧击地向采访对象提出问题的一种手法。"
+  },
+  {
+   "cn": "激将法提问",
+   "en": "prodding question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.07",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者在采访时有意使用一些刺激性语言迫使采访对象回应的一种提问手法。"
+  },
+  {
+   "cn": "试验性提问",
+   "en": "test question",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.142",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "为获取最佳检索结果而进行的试验性操作。一般需对服务对象进行探索性提问，制订最初的检索方案，并根据反馈意见不断地修改，直至检索方案与服务对象的需求基本匹配或完全匹配。"
+  },
+  {
+   "cn": "咨询问题",
+   "en": "reference question",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.205",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借",
+   "subjectName": "文献传递与馆际互借",
+   "publishYear": "2019",
+   "definition": "图书馆用户在寻找专门信息或使用图书馆资源与服务时以现场、电话或互联网的方式提出的请求。"
+  },
+  {
+   "cn": "倾向型问题",
+   "en": "tendentious question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.079",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "提问者提出的表达了自己的倾向，给对方以暗示和诱导的问题。"
+  },
+  {
+   "cn": "难变形高温合金",
+   "en": "difficult-to-deform superalloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "问题回答系统",
+   "en": "question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常见问题",
+   "en": "frequently asked questions\",\"FAQ",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基于知识的问答系统",
+   "en": "knowledge-based question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "搜索常数",
+   "en": "quest constant",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "项目难度",
+   "en": "item difficulty",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "排遗",
+   "en": "egestion",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "排泄",
+   "en": "excretion\",\"egestion",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "补缩困难区",
+   "en": "feeding difficulty zone",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "守望相助、同舟共济",
+   "en": "to support each other; to stand closely together in difficult times",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "战胜易，守胜难",
+   "en": "It Is Easy to Win a War but Difficult to Retain the Victory.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道问学",
+   "en": "Quest for Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三期叠加",
+   "en": "simultaneously deal with the slowdown in economic growth, make difficult structural adjustments, and absorb the effects of previous economic stimulus policies",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "难度",
+   "en": "difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度",
+   "en": "difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "B组难度",
+   "en": "B difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "C组难度",
+   "en": "C difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中等难度",
+   "en": "medium difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "F组难度",
+   "en": "F difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "A组难度",
+   "en": "A difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "E组难度",
+   "en": "E difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高难度",
+   "en": "superior difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "G组难度",
+   "en": "G difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "D组难度",
+   "en": "D difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度分值",
+   "en": "difficulty score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度裁判员",
+   "en": "difficulty judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度系数",
+   "en": "degree of difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "困难型气质",
+   "en": "difficult temperament",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "哭闹无常、烦躁易怒、不易安抚，饮食、睡眠等生理功能活动方面缺乏规律性的人格特征。"
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0212",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "矛盾的特殊性原理在理论和实践中的运用。它要求在马克思主义原理指导下，从客观实际出发，具体分析矛盾的特殊性，并找出解决矛盾的正确方法，是马克思主义的重要方法论原则。"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "source": "马克思主义",
+   "wordNumber": "04.0069",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁在1912—1916年间写了7本关于民族问题的笔记，其中《民族问题（Ⅱ）笔记》阐述了反对大俄罗斯主义、反对乌克兰资产阶级民族主义观点。在《民族问题提纲》中从十个方面论述俄国民族问题，以及党解决民族"
+  },
+  {
+   "cn": "跳出历史周期率的第二个答案",
+   "en": "the second answer to the question of how to escape the historical cycle of rise and fall",
+   "source": "马克思主义",
+   "wordNumber": "03.0831",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在党的二十大报告中强调，“经过不懈努力，党找到了自我革命这一跳出治乱兴衰历史周期率的第二个答案，自我净化、自我完善、自我革新、自我提高能力显著增强，管党治党宽松软状况得到根本扭转，风清气正的党内"
+  },
+  {
+   "cn": "吸奶困难",
+   "en": "pumping difficulty",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.12",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "由于婴儿不能正常吸吮母乳或未进行有效的吸吮，而吃不到足够母乳的现象。常见原因包括早产儿吸吮力低下，母亲乳头扁平/凹陷等，婴儿罹患疾病如鼻塞、鹅口疮，以及口腔、咽部、食管、胃肠道发育不良或疾病等。"
+  },
+  {
+   "cn": "艰难梭菌",
+   "en": "clostridium difficile",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.39",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "革兰氏阳性粗大杆菌，严格厌氧，是抗生素相关性腹泻的主要病原菌。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

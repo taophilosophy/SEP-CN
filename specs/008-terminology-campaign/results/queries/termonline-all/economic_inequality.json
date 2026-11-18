@@ -1,0 +1,682 @@
+{
+ "key": "economic inequality",
+ "term": "economic inequality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:49:26+00:00",
+ "status": "ok",
+ "note": "variant=economic inequality; 审定公布名词库=727; 海峡两岸名词对照库=201; 其他来源数据库=117; 预公布名词数据库=177; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "不等式",
+   "en": "inequality",
+   "source": "数学名词",
+   "wordNumber": "01.0048",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不等方程",
+   "en": "inequation",
+   "source": "数学名词",
+   "wordNumber": "01.0050",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不等式约束条件",
+   "en": "inequality constraint",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化问题需要满足的不等式形式的约束条件。"
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality",
+   "source": "天文学名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "月球运动里因太阳引力作用而产生的周期为一个朔望月的小摄动项。"
+  },
+  {
+   "cn": "信息不平等",
+   "en": "information inequality",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.064",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "不同国家、阶级、地域、种族、性别等背景的人获取与使用信息资源的机会和能力存在差异的现象。在数字化时代突出表现为“数字鸿沟”的形成。"
+  },
+  {
+   "cn": "施瓦茨不等式",
+   "en": "Schwarz inequality",
+   "source": "物理学名词",
+   "wordNumber": "01.0455",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "贝尔不等式",
+   "en": "Bell inequality",
+   "source": "物理学名词",
+   "wordNumber": "06.0769",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0063",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "热力学第二定律的另一种表达形式，可以表述为：过程的熵变大于或等于热温商。"
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "物理学名词",
+   "wordNumber": "05.0267",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化学名词",
+   "wordNumber": "04.0206",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "系统在相同的始、终态间经历可逆变化与不可逆变化时存在下述关系：<img src='/root/syzx/static/spz/huaxue2.04.0206.1.png'/>，式中dS、δQ分别为系统"
+  },
+  {
+   "cn": "日不等[现象]",
+   "en": "diurnal inequality",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "天文潮潮差变化逐日不等的现象。其周期为27.3216天。"
+  },
+  {
+   "cn": "空间不均衡性",
+   "en": "spatial inequality",
+   "source": "地理学名词",
+   "wordNumber": "24.019",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "人、资源、生活品的不均衡空间分布或空间关系。"
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化学工程名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "化学工程_化工热力学_化工热力学基本概念",
+   "subjectName": "化工热力学基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "不等式约束",
+   "en": "inequality constraint",
+   "source": "化学工程名词",
+   "wordNumber": "05.141",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "熵不等式",
+   "en": "entropy inequality",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变分不等式",
+   "en": "variational inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0688",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "加权不等式",
+   "en": "weighted inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0306",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "条件不等式",
+   "en": "conditional inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0066",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "绝对不等式",
+   "en": "absolute inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0065",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "闵可夫斯基不等式",
+   "en": "Minkowski inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0069",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "均差",
+   "en": "inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日不等[现象]",
+   "en": "diurnal inequality",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间不均衡性",
+   "en": "spatial inequality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "日潮不等",
+   "en": "diurnal inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "日潮不等",
+   "en": "diurnal inequality",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "节能器",
+   "en": "economizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经济器",
+   "en": "economizer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "月行差",
+   "en": "lunar inequality\",\"evection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "低潮不等",
+   "en": "low water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "高潮不等",
+   "en": "high water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality\",\"parallactic equation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "回归低潮不等",
+   "en": "tropic low water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "回归高潮不等",
+   "en": "tropic high water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "经济植物",
+   "en": "economic plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经济植物学",
+   "en": "economic botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经济寿命",
+   "en": "economic life",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经济可行性",
+   "en": "economic feasibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经济大脑",
+   "en": "Economic Brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济地图",
+   "en": "economic map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济全景透视",
+   "en": "economic panorama",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不患寡而患不均",
+   "en": "Fear Not Scarcity, but Inequality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术经济范式",
+   "en": "techno-economic paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可感知经济因素",
+   "en": "perceived economic factor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态经济体系",
+   "en": "eco-economic system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "个体化的不平等",
+   "en": "individualized inequality/inequality individualization",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "后现代社会一个最突出的特征是“个体化”，人们越来越强烈地要求按照自己的意愿构建生活，这导致一种新的不平等形式，取代传统的以阶级或阶层为基础的不平等。由德国理论家贝克(Ulrich Beck）等人提出，"
+  },
+  {
+   "cn": "社会不平等",
+   "en": "social inequality",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "某一社会不同群体之间或同一群体内部不同个体之间存在资源或机会的不平等分配。这种不平等主要表现为两大类：机会不平等（获取资源的机会不平等）和结果不平等（实际拥有的资源不平等）。"
+  },
+  {
+   "cn": "收入不平等",
+   "en": "income inequality",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "某一社会中人们之间的收入水平差异。通常有两种方式测量收入不平等程度：一种是基尼系数（基于收入获得者百分比与收入百分比之间的回归线来计算），另一种是高低收入组之比（如收入最高的10％的人口的平均收入与收"
+  },
+  {
+   "cn": "健康不平等",
+   "en": "health inequality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "各类经济特征人群之间健康水平的差异。"
+  },
+  {
+   "cn": "健康不公平",
+   "en": "health inequity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "人们获得良好健康状态的机会、条件的差异。"
+  },
+  {
+   "cn": "歧视与不平等",
+   "en": "discrimination and inequality",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "出于各种原因对他人做出贬低的评价和对待，使他人不能得到平等待遇。在社会工作者与案主或其他专业人员沟通时，应避免不当的负面评论与歧视。社会工作者应以一种关怀与尊重的态度对待每个人，关注个别差异和文化及种"
+  },
+  {
+   "cn": "经济民俗学",
+   "en": "economic folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.047",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民俗学与经济学的交叉学科。它主要运用经济学、民俗学、人类学、民族学、社会学及比较研究的理论和方法，从物质民俗、社会民俗、精神民俗多方面阐释、描述经济生活中的民俗文化因素；以民俗文化和市场经济的关系为研"
+  },
+  {
+   "cn": "经济社会学",
+   "en": "economic sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.1",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "将社会学的概念、变量、框架用于解释经济现象的分支社会学。主要关注社会中经济现象与非经济现象的相互关系，考察特定社会中非经济现象如人际互动、群体、社会结构（制度）、社会控制等对经济现象，如产品和服务的生"
+  },
+  {
+   "cn": "经济行动",
+   "en": "economic action",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.5",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动者以经济取向为主要目的，采取和平的方式以获取支配权为目的的行动。"
+  },
+  {
+   "cn": "经济亚系统",
+   "en": "economic subsystem",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.20",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "在由经济系统、政治系统、文化系统和整合系统通过能量与信息交换而形成整体社会系统中，作为构成要素而存在的经济系统。针对20世纪中叶以前西方学者将经济视为一个独立存在的系统的观点，塔尔科特帕森斯和斯梅尔瑟"
+  },
+  {
+   "cn": "经济惯习",
+   "en": "economic habitus",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.31",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "人们在特定的社会与历史情境中通过社会化无意识习得的、关于如何看待经济现象、从事经济活动的内在倾向系统。指导着人们的经济实践，但也具有一定的开放性，能够对既有经济场域产生影响。"
+  },
+  {
+   "cn": "经济伦理",
+   "en": "economic ethics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.63",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "调节和规范人们从事经济活动的一系列伦理原则和道德规范。是人们通过社会化习得的关于处理经济活动以及其中涉及的人际关系的道德伦理规定。"
+  },
+  {
+   "cn": "经济规律",
+   "en": "economic laws",
+   "source": "马克思主义",
+   "wordNumber": "02.0012",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会发展过程中经济现象之间存在的不以人们意志为转移的内在的、本质的、必然的联系及其发展趋势。经济规律具有客观必然性，即在历史发展进程中强制地为自己开辟道路而不以人的意志为转移。"
+  },
+  {
+   "cn": "经济制度",
+   "en": "economic system",
+   "source": "马克思主义",
+   "wordNumber": "02.0014",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会生产关系及其有关经济问题的规则的总称，并且作为组织社会经济活动的根本原则,为人们普遍承认并且实际共同遵守着的一种行为规范。"
+  },
+  {
+   "cn": "经济革命",
+   "en": "economic revolution",
+   "source": "马克思主义",
+   "wordNumber": "02.0015",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "本质上是社会生产方式的变革。它是基于社会生产力的大发展，社会生产关系发生全面调整或根本性变革。"
+  },
+  {
+   "cn": "经济结构",
+   "en": "economic structure",
+   "source": "马克思主义",
+   "wordNumber": "02.0016",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国民经济中各个方面的内部构成，反映经济系统中各要素之间互相关联、互相结合的内在联系及相应数量对比关系。"
+  },
+  {
+   "cn": "经济利益",
+   "en": "economic benefit",
+   "source": "马克思主义",
+   "wordNumber": "02.0017",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们进行社会活动的物质动因，是生产关系或经济关系的一种具体表现。每一个社会的经济关系首先作为利益表现出来。任何阶级矛盾和阶级斗争归根结底都是由经济利益的矛盾和冲突引起的。"
+  },
+  {
+   "cn": "经济范畴",
+   "en": "economic category",
+   "source": "马克思主义",
+   "wordNumber": "02.0151",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指人们在社会实践所取得的大量社会经济材料的基础上，经过抽象思维，从现象深入到本质，由感性认识上升为理性认识而形成的逻辑概念，是一定社会生产关系的理论表现。"
+  },
+  {
+   "cn": "经济危机",
+   "en": "economic crisis",
+   "source": "马克思主义",
+   "wordNumber": "02.0289",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义生产相对过剩而引起的再生产规模缩小，是资本主义在生产过程中周期性爆发的生产过剩的危机。其形成的根源是资本主义基本矛盾。一切现实的危机的最后原因，总是群众的贫穷和他们的消费受到限制。"
+  },
+  {
+   "cn": "经济核算",
+   "en": "economic accounting",
+   "source": "马克思主义",
+   "wordNumber": "02.0303",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在对经济项目的估价和保证最佳利用资源的情况下，完成这些项目所需费用的估价。经济核算的目的是节约或最有效的利用资源和产品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "basic question",
+ "term": "basic question",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:45:05+00:00",
+ "status": "ok",
+ "note": "variant=basic question; 审定公布名词库=712; 海峡两岸名词对照库=210; 其他来源数据库=75; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "碱度",
+   "en": "basicity",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.120",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接与钎焊材料",
+   "subjectName": "焊接与钎焊材料",
+   "publishYear": "2021",
+   "definition": "表征熔渣碱性强弱程度的量。"
+  },
+  {
+   "cn": "提问",
+   "en": "question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者通过提问题向采访对象了解新闻事实的新闻采访方式。"
+  },
+  {
+   "cn": "基础研究",
+   "en": "basic study,basic research",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_基础研究",
+   "subjectName": "基础研究",
+   "publishYear": "2019",
+   "definition": "为获得营养素关于现象和可观察事实的基本原理及新知识而进行的实验性和理论性工作。"
+  },
+  {
+   "cn": "主变速器",
+   "en": "basic gearbox,basic transmission",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.075",
+   "subjectFullName": "机械工程_汽车_底盘_手动变速器",
+   "subjectName": "手动变速器",
+   "publishYear": "2013",
+   "definition": "组合式变速器中对常用变速器的称谓。"
+  },
+  {
+   "cn": "基性岩",
+   "en": "basic rock",
+   "source": "地质学名词",
+   "wordNumber": "04.01.114",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "化学成分以贫碱较富镁铁和钙铝为特征，氧化物含量：SiO₂为45%~52%，(K₂O+Na₂O)＜5%，MgO为4%~11%，TFeO为8%~14%，CaO为6%~10%，Al₂O₃为13%~18%的火"
+  },
+  {
+   "cn": "基本层序",
+   "en": "basic sequence",
+   "source": "地质学名词",
+   "wordNumber": "07.02.003",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "沉积地层序列中按某种规律叠覆，一般能在露头范围内观察到，并能代表一定地层间隔发育特点的单层组合。基本层序是描述单元，不是层序地层级别单位。根据其内部单层叠覆规律的不同，可分为旋回性基本层序和非旋回性基"
+  },
+  {
+   "cn": "基本烈度",
+   "en": "basic intensity",
+   "source": "地质学名词",
+   "wordNumber": "17.04.181",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "在一定地点的一般场地条件下，在今后一段时期内(一般取100a)，可能遭遇的最高地震烈度。"
+  },
+  {
+   "cn": "基础农学",
+   "en": "basic agronomy",
+   "source": "农学名词",
+   "wordNumber": "01.100",
+   "subjectFullName": "总论_农业科学",
+   "subjectName": "农业科学",
+   "publishYear": "2025",
+   "definition": "研究生物、环境、技术与农业发展的基本规律，提供农学基本理论、方法和技术的学科。"
+  },
+  {
+   "cn": "碱性染料",
+   "en": "basic dye",
+   "source": "精细化工名词",
+   "wordNumber": "04.0004",
+   "subjectFullName": "精细化工_染料与颜料",
+   "subjectName": "染料与颜料",
+   "publishYear": "2025",
+   "definition": "（1）早期是指染料分子中具有碱性基团，在酸性条件下常以盐形式存在，可溶于水，能与蚕丝等蛋白质纤维分子以离子键形式相结合，故称为碱性染料。（2）现在的碱性染料是指这类染料分子溶于水且呈阳离子状态。主要用"
+  },
+  {
+   "cn": "基础漆",
+   "en": "basic paint",
+   "source": "精细化工名词",
+   "wordNumber": "05.0225",
+   "subjectFullName": "精细化工_涂料_涂料调色与制备",
+   "subjectName": "涂料调色与制备",
+   "publishYear": "2025",
+   "definition": "涂料中的白漆或清漆，本身遮盖能力较差，主要用于配制各种颜色的涂料。"
+  },
+  {
+   "cn": "基础种质",
+   "en": "basic germplasm",
+   "source": "农学名词",
+   "wordNumber": "06.040",
+   "subjectFullName": "作物基因组学与遗传育种_作物种质和基因资源",
+   "subjectName": "作物种质和基因资源",
+   "publishYear": "2025",
+   "definition": "种质库中所收集保存某一作物种质资源的总称。"
+  },
+  {
+   "cn": "基肥",
+   "en": "basic fertilizer",
+   "source": "风景园林名词",
+   "wordNumber": "08.0260",
+   "subjectFullName": "风景园林_风景园林工程_风景园林养护",
+   "subjectName": "风景园林养护",
+   "publishYear": "2025",
+   "definition": "植物种植或栽植前，为保障基本肥力，施入土壤或坑穴中以作为底肥的肥料，多为充分腐熟的有机肥。"
+  },
+  {
+   "cn": "基本农田",
+   "en": "basic farmland",
+   "source": "风景园林名词",
+   "wordNumber": "05.0240",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "按照一定时期人口和社会经济发展对农产品的需求，依据土地利用总体规划确定的不得以任何理由方式占用的农业耕地。"
+  },
+  {
+   "cn": "基础种子",
+   "en": "basic seed",
+   "source": "农学名词",
+   "wordNumber": "06.502",
+   "subjectFullName": "作物基因组学与遗传育种_种子科学与种业",
+   "subjectName": "种子科学与种业",
+   "publishYear": "2025",
+   "definition": "由育种家种子繁殖的第一代种子。"
+  },
+  {
+   "cn": "基香",
+   "en": "basic note",
+   "source": "精细化工名词",
+   "wordNumber": "08.0757",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "香精的头香和体香挥发过后，留下的最后的香气。一般由挥发性较低的香料或定香剂所产生。"
+  },
+  {
+   "cn": "基本耕作",
+   "en": "basic tillage",
+   "source": "农学名词",
+   "wordNumber": "08.144",
+   "subjectFullName": "作物栽培与耕作_土壤耕作",
+   "subjectName": "土壤耕作",
+   "publishYear": "2025",
+   "definition": "入土较深，作用较强烈，能显著改变耕层物理性状，后效较长的一类土壤耕作措施。"
+  },
+  {
+   "cn": "基础标准",
+   "en": "basic standard",
+   "source": "农学名词",
+   "wordNumber": "18.129",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "具有广泛的适用范围或包含一个特定领域的通用条款的标准。"
+  },
+  {
+   "cn": "基础产量",
+   "en": "basic output",
+   "source": "农学名词",
+   "wordNumber": "09.273",
+   "subjectFullName": "土壤肥料_植物营养学",
+   "subjectName": "植物营养学",
+   "publishYear": "2025",
+   "definition": "不施肥情况下作物获得的产量。"
+  },
+  {
+   "cn": "消极修辞",
+   "en": "basic rhetoric",
+   "source": "档案学名词",
+   "wordNumber": "02.04.035",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "修辞手法中的一种。旨在追求将语言表达得明白晓畅，没有含糊，没有歧义，易于理解。具体方法方面的特点是不取巧、不求新异和华丽，重点在精选词语、锤炼语句、讲究章法方面下“苦”工夫。"
+  },
+  {
+   "cn": "基础设计",
+   "en": "basic design",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.077",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "在概念设计的基础上，通过进一步的中间试验等研究完善新工艺，从而提出详细的工艺设计方案和最终经济评价的设计环节。是下一步工程设计的依据。"
+  },
+  {
+   "cn": "碱性品红",
+   "en": "basic fuchsin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "基本气流",
+   "en": "basic flow",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "碱性固体",
+   "en": "basic solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "碱性染料",
+   "en": "basic dye",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "碱性耐火砖",
+   "en": "basic firebrick",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "碱性催化剂",
+   "en": "basic catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "基本需求",
+   "en": "basic need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基本敌意",
+   "en": "basic hostility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基本焦虑",
+   "en": "basic anxiety",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基础研究",
+   "en": "basic research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基本错误",
+   "en": "basic mistake",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "碱性渣",
+   "en": "basic slag",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "碱性耐火材料",
+   "en": "basic refractory",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "碱性焊条",
+   "en": "basic electrode",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "碱性氧化物",
+   "en": "basic oxide",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基性岩",
+   "en": "basic rock",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基本价格",
+   "en": "basic price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基本活动",
+   "en": "basic activities",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "基础工业",
+   "en": "basic industry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "基础免疫学",
+   "en": "basic immunology",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position\",\"basic stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基础标准",
+   "en": "Basic Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本动作",
+   "en": "basic movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准化基础",
+   "en": "Standardization Basics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律基础",
+   "en": "Legal Basics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能基础理论",
+   "en": "basic AI theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能基础材料",
+   "en": "basic AI material",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全民基本收入",
+   "en": "universal basic income",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础网络系统",
+   "en": "basic network system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础平台连续性",
+   "en": "basic platform continuity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基本公共服务",
+   "en": "basic public services",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position\",\"fundamental position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "六义",
+   "en": "The Six Basic Elements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据基础",
+   "en": "Basics of Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自护本体",
+   "en": "basic defensive posture\",\"jigo-hontai",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基础标准",
+   "en": "basic standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.12",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "以相互理解为编制目的形成的具有广泛适用范围的标准。"
+  },
+  {
+   "cn": "基本人格",
+   "en": "basic personality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0556",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家卡迪纳（Abram Kandiner）提出的概念。他认为，养育儿童的方式在任何一特定社会中，都是相当固定而且标准化的。虽然在某方面有个别差异，但就整体而言，母亲喂奶的时间大致和邻居一样长，"
+  },
+  {
+   "cn": "基础方言",
+   "en": "basic dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0067",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "民族共同语或标准语赖以形成和发展的方言。一般是使用人口众多、通行地域广泛、规范程度高，有较为强大的政治、经济或历史文化影响力的地域的方言。"
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "基础护理伦理",
+   "en": "basic nursing ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.001",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "护理人员在为患者提供生活护理、病情观察、基本护理技术操作、提供基本的个人卫生护理、营造良好休养环境等过程中涉及的伦理问题及应遵循的护理道德规范。包括具有良好的职业道德和职业情感，掌握护理学基本理论和技"
+  },
+  {
+   "cn": "基本医疗保险",
+   "en": "basic medical insuranceance",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.092",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由政府主导、用人单位和个人共同参与的社会保险制度，旨在为参保人员提供基本医疗保障，覆盖门诊、急诊和住院费用。该制度结合了个人账户和统筹基金，具有广泛性、共济性和强制性等特点。"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "基层部队健康教育",
+   "en": "basic military health education",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.5.3",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "以基层部队官兵为对象所进行的有计划、有组织、多形式的健康教育活动，其目的是促使基层部队官兵掌握卫生知识，形成有利于健康的生活方式，降低或消除危险因素的危害，增强官兵自我保护能力，促进健康。"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0212",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "矛盾的特殊性原理在理论和实践中的运用。它要求在马克思主义原理指导下，从客观实际出发，具体分析矛盾的特殊性，并找出解决矛盾的正确方法，是马克思主义的重要方法论原则。"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "source": "马克思主义",
+   "wordNumber": "04.0069",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁在1912—1916年间写了7本关于民族问题的笔记，其中《民族问题（Ⅱ）笔记》阐述了反对大俄罗斯主义、反对乌克兰资产阶级民族主义观点。在《民族问题提纲》中从十个方面论述俄国民族问题，以及党解决民族"
+  },
+  {
+   "cn": "小组工作基本程序",
+   "en": "basic procedure of group work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "小组工作实务的基本过程。一般包括：潜在组员预估，小组计划，招募组员，小组介入，小组评估，小组结束。"
+  },
+  {
+   "cn": "物质存在的基本形式",
+   "en": "basic forms of material existence",
+   "source": "马克思主义",
+   "wordNumber": "01.0020",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "时间是物质运动的持续性、间隔性和顺序性。空间是物质运动的广延性、伸张性。时间和空间是与运动着的物质不可分离的基本存在形式，不存在与物质分离的绝对时空。"
+  },
+  {
+   "cn": "社会主义社会的基本矛盾",
+   "en": "basic contradictions of socialist society",
+   "source": "马克思主义",
+   "wordNumber": "01.0235",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "生产力和生产关系之间、经济基础和上层建筑之间的矛盾，毛泽东1957年在《关于正确处理人民内部矛盾的问题》一文中首次提出。"
+  },
+  {
+   "cn": "社会主义的基本经济规律",
+   "en": "basic economic law of socialism",
+   "source": "马克思主义",
+   "wordNumber": "02.0330",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "反映社会主义经济运动中生产和消费的本质联系、支配社会主义生产发展一切主要方面和主要过程的规律。基本内容包括两方面：社会主义生产目的和达到这一目的手段。斯大林表述为：“用在高度技术基础上，使社会主义生产"
+  },
+  {
+   "cn": "三大规律",
+   "en": "three basic laws on governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0640",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党第十五届六中会议首次提出，要不断深化对共产党执政规律、社会主义建设规律和人类社会发展规律的认识。共产党执政规律指处于执政地位的共产党活动和建设的规律；社会主义建设规律指什么是社会主义和怎样建"
+  },
+  {
+   "cn": "城镇职工基本医疗保险",
+   "en": "employee-based basic medical insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.2.2.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险类型",
+   "subjectName": "健康保险类型",
+   "publishYear": "2025",
+   "definition": "针对城镇所有用人单位和职工，以强制参保为原则，以单位和职工共同筹资形成医疗保险基金，当参保者因疾病、受伤或生育而接受医疗服务时的医疗费用给予经济补偿的一类医疗保险"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

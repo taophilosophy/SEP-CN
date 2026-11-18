@@ -1,0 +1,432 @@
+{
+ "key": "correspondence",
+ "term": "correspondence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:46:20+00:00",
+ "status": "ok",
+ "note": "variant=correspondence; 审定公布名词库=72; 海峡两岸名词对照库=21; 其他来源数据库=2; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "对应",
+   "en": "correspondence",
+   "source": "数学名词",
+   "wordNumber": "01.0113",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "通讯员",
+   "en": "correspondent",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.043",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "为新闻机构采写新闻、反映情况并按稿计酬的编外新闻报道者。"
+  },
+  {
+   "cn": "通讯员",
+   "en": "correspondent",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.018",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "报刊社聘请的经常为其反映情况、提供线索、撰写通讯报道的非专职新闻工作人员。"
+  },
+  {
+   "cn": "对应规则",
+   "en": "correspondence rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.219",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "包含理论术语和观察术语的语句。通过这些规则，可以在经验上间接地、部分地解释一个理论术语。"
+  },
+  {
+   "cn": "读者来信专栏",
+   "en": "correspondence column",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.107",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "刊登作者以第一人称反映现实生活中的新情况、新问题和新经验的一种报道形式栏目。"
+  },
+  {
+   "cn": "对应原理",
+   "en": "correspondence principle",
+   "source": "物理学名词",
+   "wordNumber": "06.0422",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "生物物理学名词",
+   "wordNumber": "02.391",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "多变量统计分析的一种数学方法。将对图像集合中图像矢量(N个像素，即N维度)的分析转换成对像素矢量(M张图像，即M维度)的分析，将高维度(N维)的矩阵分析简化为低维度(M维)的矩阵分析，是一种基于卡方分"
+  },
+  {
+   "cn": "函授学校",
+   "en": "correspondence school",
+   "source": "教育学名词",
+   "wordNumber": "12.062",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "运用通信方式提供教育机会、展开教学活动的教育机构。"
+  },
+  {
+   "cn": "函授学院",
+   "en": "correspondence college",
+   "source": "教育学名词",
+   "wordNumber": "12.061",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "运用函授方式举办高等教育的机构。学习者以自学函授教材为主，以通信方式接受教学指导，教师采取巡回方式给予学习者少量的面授辅导。一般承担本科或专科的学历教育，同时也举办高等单科或继续教育。"
+  },
+  {
+   "cn": "函授教育",
+   "en": "correspondence education",
+   "source": "教育学名词",
+   "wordNumber": "12.098",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "运用通信方式，面向成人开设的一种远距离教育。办学机构通常为函授学校、普通高等院校专设的函授部，或经相关部门批准设立的函授教育机构。学员以自学为主，面授为辅。"
+  },
+  {
+   "cn": "函授课程",
+   "en": "correspondence course",
+   "source": "教育学名词",
+   "wordNumber": "12.114",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "由函授学校通过通信联络等方式向函授学员提供的课程。"
+  },
+  {
+   "cn": "对应原理",
+   "en": "correspondence principle",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "数学名词",
+   "wordNumber": "09.0760",
+   "subjectFullName": "数学_概率论_数理统计_多元统计分析",
+   "subjectName": "多元统计分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "格点对应",
+   "en": "lattice correspondence",
+   "source": "物理学名词",
+   "wordNumber": "08.0231",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "伽罗瓦对应",
+   "en": "Galois correspondence",
+   "source": "数学名词",
+   "wordNumber": "04.0429",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "边界对应",
+   "en": "boundary correspondence",
+   "source": "数学名词",
+   "wordNumber": "05.0489",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "射影对应",
+   "en": "projective correspondence",
+   "source": "数学名词",
+   "wordNumber": "08.0343",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "记者站",
+   "en": "correspondents station",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.031",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "新闻媒体在其总部之外设立的派出机构。从事与本媒体业务范围一致的新闻采编活动。"
+  },
+  {
+   "cn": "特约记者",
+   "en": "special correspondent",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.015",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "新闻出版单位聘用的编外记者。"
+  },
+  {
+   "cn": "通信结点登记",
+   "en": "correspondent registration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0932",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "在移动IPv6中移动结点向通信结点所做的关于它的关照地址和家乡地址的绑定的登记。其安全性通过使用返回路由过程及其产生的绑定管理密钥而得以保证。"
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对应问题",
+   "en": "correspondence problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "相关点",
+   "en": "correlation correspondence",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "公众通信",
+   "en": "public correspondence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代理行",
+   "en": "correspondent banking",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代理银行",
+   "en": "bank correspondent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①国外往来客户 ②国外代理银行",
+   "en": "foreign correspondent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对应态",
+   "en": "corresponding state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对比状态",
+   "en": "corresponding state",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对应点",
+   "en": "corresponding point",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对应因子分析",
+   "en": "correspondence factor analysis",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "公众通信业务",
+   "en": "public correspondence service",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论理论",
+   "en": "correspondent inference theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同名核线",
+   "en": "corresponding epipolar line",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "对比状态原理",
+   "en": "principle of corresponding state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对应态律",
+   "en": "law of corresponding state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对比状态原理",
+   "en": "principle of corresponding state",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同名光线",
+   "en": "conjugate image rays\",\"corresponding image rays",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "波斯特对应问题",
+   "en": "Post correspondence problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.78",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "通过分析由定性变量构成的交互汇总表来揭示变量间的联系，揭示同一变量的各个类别之间的差异，以及不同变量各个类别之间的对应关系的一种多元相依变量的统计分析技术。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

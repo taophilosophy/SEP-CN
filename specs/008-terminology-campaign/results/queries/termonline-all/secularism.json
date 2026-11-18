@@ -1,0 +1,482 @@
+{
+ "key": "secularism",
+ "term": "secularism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:52:54+00:00",
+ "status": "ok",
+ "note": "variant=secularism; 审定公布名词库=24; 海峡两岸名词对照库=22; 其他来源数据库=0; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "长期视差",
+   "en": "secular parallax",
+   "source": "天文学名词",
+   "wordNumber": "02.105",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "因太阳空间运动引起的天体的视差。"
+  },
+  {
+   "cn": "长期光行差",
+   "en": "secular aberration",
+   "source": "天文学名词",
+   "wordNumber": "02.110",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "因太阳系在星际空间运动而引起的天体的光行差。"
+  },
+  {
+   "cn": "长期摄动",
+   "en": "secular perturbation",
+   "source": "天文学名词",
+   "wordNumber": "03.011",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "天体轨道对圆锥曲线的偏离中随时间积累而增长的部分。"
+  },
+  {
+   "cn": "长期加速度",
+   "en": "secular acceleration",
+   "source": "天文学名词",
+   "wordNumber": "03.166",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "潮汐摩擦和某些地球物理因素造成的月球轨道角速度变慢的现象。"
+  },
+  {
+   "cn": "长期共振",
+   "en": "secular resonance",
+   "source": "天文学名词",
+   "wordNumber": "03.186",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "两个小天体绕同一个中心天体的轨道拱线进动或升交点退行的速率几乎相等时的轨道共振。"
+  },
+  {
+   "cn": "久期平衡",
+   "en": "secular equilibrium",
+   "source": "物理学名词",
+   "wordNumber": "09.0148",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "久期项",
+   "en": "secular term",
+   "source": "物理学名词",
+   "wordNumber": "09.0904",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "久期方程",
+   "en": "secular equation",
+   "source": "物理学名词",
+   "wordNumber": "06.0601",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "长期平衡",
+   "en": "secular equilibrium",
+   "source": "核医学名词",
+   "wordNumber": "02.0068",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "递次衰变过程中，如果母核半衰期长于任何一代子核，经过足够长(5～10倍于最长子核半衰期)时间后，母核原子数与子核原子数的比例保持恒定，不随时间变化的状态。"
+  },
+  {
+   "cn": "久期方程",
+   "en": "secular equation",
+   "source": "化学名词",
+   "wordNumber": "04.1311",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "分子轨道理论中用原子轨道线性组合来得到分子轨道。久期方程是指其中关于线性组合系数的线性齐次方程组。该方程组有不全为零的解的条件是由系数所构成的行列式等于零，此行列式称为久期行列式。"
+  },
+  {
+   "cn": "长期平衡",
+   "en": "secular equilibrium",
+   "source": "化学名词",
+   "wordNumber": "06.0041",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "放射性平衡的一种。母核半衰期<img src='/root/syzx/static/spz/huaxue2.06.0041.1.png'/>比子核半衰期<img src='/root/syzx/sta"
+  },
+  {
+   "cn": "白神品",
+   "en": "Secular clergy",
+   "source": "世界历史名词",
+   "wordNumber": "02.0800",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "不过修道士生活的低级神职人员(神甫、助祭)，有别于高级的黑神品。"
+  },
+  {
+   "cn": "长期力矩",
+   "en": "secular torque",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.383",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "长期摄动",
+   "en": "secular perturbation",
+   "source": "航天科学技术名词",
+   "wordNumber": "03.208",
+   "subjectFullName": "航天科学技术_航天器",
+   "subjectName": "航天器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "久期不稳定性",
+   "en": "secular instability",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_一般力学",
+   "subjectName": "一般力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "久期项",
+   "en": "secular term",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_一般力学",
+   "subjectName": "一般力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "久期项",
+   "en": "secular term",
+   "source": "数学名词",
+   "wordNumber": "06.0114",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "长期变化",
+   "en": "secular variation",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_空间物理学",
+   "subjectName": "空间物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "长期极移",
+   "en": "secular polar motion",
+   "source": "天文学名词",
+   "wordNumber": "02.192",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "极移的长期分量。"
+  },
+  {
+   "cn": "放射性长期平衡",
+   "en": "radioactive secular equilibrium",
+   "source": "核科学技术名词",
+   "wordNumber": "2.153",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "当母体和子体都是放射性核素，而母体核素的半衰期很长且比子体核素的半衰期长得多时，母子体之间所建立的放射性平衡。长期平衡时，子母核的放射性活度与母体核的放射性活度相等，并随母体核的半衰期衰变。"
+  },
+  {
+   "cn": "多[的]年",
+   "en": "secular",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世纪[的]",
+   "en": "secular",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世俗化",
+   "en": "secularization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "长期变星",
+   "en": "secular variable",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "长期不稳定性",
+   "en": "secular instability",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "长期共振",
+   "en": "secular resonance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "长期光行差",
+   "en": "secular aberration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "长期加速度",
+   "en": "secular acceleration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "长期摄动",
+   "en": "secular perturbation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "长期视差",
+   "en": "secular parallax",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "长期项",
+   "en": "secular term",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "长期演化",
+   "en": "secular evolution",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "长期平衡",
+   "en": "secular equilibrium",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "长期变化",
+   "en": "secular variation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "长期变化",
+   "en": "secular variation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "长期光行差",
+   "en": "secular aberration",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "长期摄动",
+   "en": "secular perturbation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "长期视差",
+   "en": "secular parallax",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "长期岁差",
+   "en": "secular precession",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "长期极移",
+   "en": "secular polar motion",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世俗化",
+   "en": "secularization",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.20",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "现代社会生活中，由于理性化的影响，传统宗教信仰逐渐式微，宗教机构以及神职人员的地位和权威逐渐衰落，主要表现在教徒人数急剧减少，对超自然力量（神的启示）的信仰不再被广泛接受。"
+  },
+  {
+   "cn": "世俗化命题",
+   "en": "secularization thesis",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.12",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "世俗化是在哲学、神学、社会科学等领域广泛使用的颇具争议性的概念，涂尔干、马克斯•韦伯等经典社会学家和彼得·伯格（Peter L.Berger）、托马斯·卢克曼（Thomas Luckmann）等诸多当"
+  },
+  {
+   "cn": "世俗教育",
+   "en": "secular education",
+   "source": "马克思主义",
+   "wordNumber": "04.0021",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在欧洲中世纪，随着封建制的发展和王权的巩固，为了满足封建主的需要和市民阶级反对教会垄断教育的需要，而发展起来的有别于教会学校的教育形式和结构，其主要形式包括宫廷学校、骑士教育和城市教育。其与宗教教育相"
+  },
+  {
+   "cn": "科学的世俗化",
+   "en": "secularization of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.25",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "新教伦理对科学发展所产生的效应，主要表现在科学家对其科学工作的态度上的变化，即从证明、发现和赞颂上帝的自然杰作到逐渐摆脱宗教而转向独立，更多关注世俗生活的转变过程。"
+  },
+  {
+   "cn": "生长发育长期变化",
+   "en": "secular trend in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "儿童少年存在以青春期性发育和成年身高为核心表现的长期变化的生长发育特征。"
+  },
+  {
+   "cn": "正向生长发育长期变化",
+   "en": "positive secular trend in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "以儿童少年青春期提前、成年身高增长为表现的长期变化。"
+  },
+  {
+   "cn": "负向生长发育长期变化",
+   "en": "negative secular trend in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "以儿童少年青春期延后、成年身高降低为表现的长期变化。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

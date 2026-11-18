@@ -1,0 +1,752 @@
+{
+ "key": "limit assumption",
+ "term": "Limit Assumption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:50:32+00:00",
+ "status": "ok",
+ "note": "variant=Limit Assumption; 审定公布名词库=927; 海峡两岸名词对照库=294; 其他来源数据库=30; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "假设",
+   "en": "assumption",
+   "source": "物理学名词",
+   "wordNumber": "01.0148",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裘布依假设",
+   "en": "Dupuit assumption",
+   "source": "地质学名词",
+   "wordNumber": "16.03.074",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "潜水流计算的一种概化假定。针对潜水含水层，裘布依假设地下水的垂向流速可以忽略不计，单宽流量正比于潜水面坡度、潜水面相对底板的高度与渗透系数的乘积。"
+  },
+  {
+   "cn": "普雷斯顿假设",
+   "en": "Preston assumption",
+   "source": "光学名词",
+   "wordNumber": "06.165",
+   "subjectFullName": "光学_光学材料",
+   "subjectName": "光学材料",
+   "publishYear": "2021",
+   "definition": "描述光学元件抛光过程的线性微分方程。由普雷斯顿(F. W. Preston)于 1927 年提出，假设在将影响加工过程的因素进行经验性的简化基础上指出在一定范围内工件表面材料去除率与抛光工具对工件的正"
+  },
+  {
+   "cn": "行为假设",
+   "en": "behavioral assumption",
+   "source": "经济学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "所有经济理论的一部分，即关于人类动机方式的设定。"
+  },
+  {
+   "cn": "荷载组合",
+   "en": "loading assumption",
+   "source": "电力名词",
+   "wordNumber": "22.039",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "根据国家标准、法规、当地气象数据等确定的用于线路设计的荷载条件的组合。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "化学名词",
+   "wordNumber": "03.0209",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "关于1个或多个随机变量总体未知分布参数和性质的假设。如果随机变量分布形式已知，而仅涉及分布中的未知参数的统计假设，称为“参数假设(parameterassumption)”。"
+  },
+  {
+   "cn": "政策假设分析法",
+   "en": "assumption analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0301",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "对政策问题的冲突性假设进行创造性综合的一种方法。"
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.608",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "数理逻辑用于知识表示时，假定没有被断言为真的句子是假的，或体现为“失败即否定”原则，即假定未证明为真的句子是假的。"
+  },
+  {
+   "cn": "应变等价假定",
+   "en": "strain equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0161",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "应力作用在受损材料上引起的应变与有效应力作用在无损材料上引起的应变等价的假定。基于应变等价假定，受损结构的本构关系可通过无损时的形式描述，只需将其中名义应力换成有效应力即可。"
+  },
+  {
+   "cn": "应力等价假定",
+   "en": "stress equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0162",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "损伤状态下真实应变对应的应力和与虚构无损状态下有效应变对应的应力等价的假定。"
+  },
+  {
+   "cn": "能量等价假定",
+   "en": "energy equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0163",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "损伤状态下真实应变和应力对应的弹性余能和虚构无损伤状态下有效应变和有效应力对应的弹性余能等价的假定。"
+  },
+  {
+   "cn": "平面应变假设",
+   "en": "plane-strain assumption",
+   "source": "冶金学名词",
+   "wordNumber": "09.0301",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "轧件在变形区内，轧件无宽展；沿每一高度截面上质点变形均匀；其运动之水平速度一样的假设。"
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0058",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "雷·赖特（Ray Reiter)于1978年提出的一种处理含否定词的演绎数据库查询语句的方法。可抽象成如下非单调推理机制：在封闭世界中若不知道某命题是否为真，则认定此命题为假。"
+  },
+  {
+   "cn": "社会人假设",
+   "en": "social person assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0169",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "由梅奥(George Elton Mayo)等提出的人性假设。其基本观点是：人不是孤立存在的，而是作为某一群体成员的社会存在；人不仅有经济需求，而且有社会需求；人的思想和行为不仅由理性支配，而且在更多"
+  },
+  {
+   "cn": "强碰撞假设",
+   "en": "strong collision assumption",
+   "source": "化学名词",
+   "wordNumber": "04.0276",
+   "subjectFullName": "化学_物理化学_化学动力学",
+   "subjectName": "化学动力学",
+   "publishYear": "2016",
+   "definition": "在单分子反应速率理论中假设每次碰撞都能进行有效的能量传递。"
+  },
+  {
+   "cn": "经济人假设",
+   "en": "economic person assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0168",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "由亚当·斯密(Adam Smith)提出，经过大卫·李嘉图(David Ricardo)、约翰·米尔(John Stuart Mill)等人论证的人性假设。其基本观点是：人是自利的，以理性追求自身利益"
+  },
+  {
+   "cn": "人性假设",
+   "en": "human nature assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0167",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "管理者在管理过程中对人的本质属性的基本看法。"
+  },
+  {
+   "cn": "薄层假定",
+   "en": "thin layer assumption",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.395",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "限量",
+   "en": "limit",
+   "source": "农学名词",
+   "wordNumber": "18.115",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "最大允许含量，包括最高限量和最低限量。"
+  },
+  {
+   "cn": "限值",
+   "en": "limit",
+   "source": "核医学名词",
+   "wordNumber": "02.0515",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "在规定的活动中或特定情况下不得超过的某个指定度量的限值。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "闭合假设",
+   "en": "closure assumptions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强碰撞假设",
+   "en": "strong collision assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "极限",
+   "en": "limit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限度",
+   "en": "limit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制",
+   "en": "limits",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "限制器",
+   "en": "limiter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "局域平衡假设",
+   "en": "assumption of local equilibrium",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "限幅",
+   "en": "amplitude limiting\",\"limiting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回归同质假设",
+   "en": "assumption of homogeneity of regression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择极限",
+   "en": "selection limit",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天线极限",
+   "en": "antenna limit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "置信限",
+   "en": "confidence limit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "溶度极限",
+   "en": "solubility limit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "控制界限",
+   "en": "control limit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "曝露界限",
+   "en": "exposure limit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "亚稳界限",
+   "en": "metastable limit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "极限电流",
+   "en": "limit current",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "极限环",
+   "en": "limit cycle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "人性假设",
+   "en": "assumption about human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体重限制",
+   "en": "weight limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制线",
+   "en": "limit line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间限制",
+   "en": "time limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体重限制",
+   "en": "weight limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间限制",
+   "en": "time limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制时间",
+   "en": "limit time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间限制",
+   "en": "time limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间限制",
+   "en": "time limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限位装置",
+   "en": "limiting device",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区限旗",
+   "en": "zone-limit flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗议受理时间",
+   "en": "protest time limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定限数权",
+   "en": "limited data rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时间限制",
+   "en": "shooting time\",\"time limit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "微生物限量",
+   "en": "microbial limit",
+   "source": "消毒学",
+   "wordNumber": "4.2.2.7",
+   "subjectFullName": "消毒学_消毒应用_物品消毒",
+   "subjectName": "物品消毒",
+   "publishYear": "2025",
+   "definition": "产品中不允许超过某一标准范围的微生物数。"
+  },
+  {
+   "cn": "探测限",
+   "en": "detection limit",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "使某一测量装置所测样品中有感兴趣的事件存在时所对应的一个最小值。"
+  },
+  {
+   "cn": "初级限值",
+   "en": "primary limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "《电离辐射防护与辐射源安全基本标准》中规定的个人受到辐射剂量或辐射危险不得超过的值。"
+  },
+  {
+   "cn": "次级限值",
+   "en": "secondary limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "为放射防护工作实际需要所规定的相应于有效剂量限值的某一限值。例如，内照射的次级限值是年摄入量限值。"
+  },
+  {
+   "cn": "管理限值",
+   "en": "authorized limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "由监管机构建立或正式接受的可测量的限值。"
+  },
+  {
+   "cn": "导出限值",
+   "en": "derived limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.9",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "为放射防护工作实际需要，根据实用与特定情况的一定模型，由初级限值确定的限制值。例如，空气污染、表面污染、环境介质污染等的限值。"
+  },
+  {
+   "cn": "最高限价",
+   "en": "price limit",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "政府规定某种产品或服务价格不得超过某个水平的价格"
+  },
+  {
+   "cn": "限制加成率",
+   "en": "markup limit",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.4.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "政府规定某种产品或服务加成率不得超过某个水平的比率。"
+  },
+  {
+   "cn": "封顶线",
+   "en": "limit line",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "保险机构对投保人医疗费用进行补偿的补偿费最高限额，限额以上的费用由投保人个人支付"
+  },
+  {
+   "cn": "剂量限值",
+   "en": "dose limit",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.20",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "在有计划照射情况下对个人产生的有效剂量或当量剂量不得超过的数值。"
+  },
+  {
+   "cn": "操作限值",
+   "en": "operation limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来减少偏离关键限值风险的指标或参数。"
+  },
+  {
+   "cn": "关键限值",
+   "en": "critical limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.7",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "区分食品安全可接受或不可接受的判定标准。该值的确定应该合理、适宜、可操作性强、实用。如果确定过严，会造成即使没有发生影响食品安全的危害，也要采取纠偏措施；如果过松，又会产生不安全的食品。"
+  },
+  {
+   "cn": "剂量限值",
+   "en": "dose limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.21.7",
+   "subjectFullName": "食品卫生学_食品_辐照食品",
+   "subjectName": "辐照食品",
+   "publishYear": "2025",
+   "definition": "基于技术原因的需要，规定的某食品产品的最高或最低辐照吸收剂量，此剂量限值以范围或单个的低值或高值表示（如，食品产品任何部分的吸收剂量不得低于或高于某一特定值）。"
+  },
+  {
+   "cn": "安全限值",
+   "en": "safety limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.2",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "为保护人群健康，对生活、生产环境及各种介质（空气、水、食物、土壤等）中与人群身体健康有关的各种因素（物理性、化学性和生物性因素）所规定的浓度和暴露时间的限制性量值。"
+  },
+  {
+   "cn": "局限性硬皮病",
+   "en": "limited scleroderma",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.3.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "系统性硬化症的临床亚型之一，皮肤病变仅局限于肘、膝远端和头颈部，内脏受累较轻，但少数可出现肺动脉高压和食道受累。抗着丝点抗体为本型的标志性抗体。病情通常较轻，病程发展缓慢，预后较好。"
+  },
+  {
+   "cn": "认知限制",
+   "en": "cognitive limitation",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.6",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体面对高度复杂的问题，无法实现效用最大化，这为危害健康行为的产生提供了一种解释。"
+  },
+  {
+   "cn": "活动受限",
+   "en": "activity limitation",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "日常生活活动能力因为健康问题而受到的限制。包括躯体活动如屈体、弯腰等受限、迁移受限和自我照顾能力下降三个层次。"
+  },
+  {
+   "cn": "角色受限",
+   "en": "role limitation",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "角色功能因为健康问题而受到的限制。包括主要角色活动的数量受限、角色紧张和角色冲突等。"
+  },
+  {
+   "cn": "最大限制浓度",
+   "en": "maximum limit concentration",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.2",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "对有毒有害物质在单位体积内允许的最高浓度。"
+  },
+  {
+   "cn": "[个人]剂量限值",
+   "en": "[personal] dose limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.2.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护三原则",
+   "subjectName": "放射防护三原则",
+   "publishYear": "2025",
+   "definition": "在计划照射情况下，个人所受到的有效剂量或当量剂量不得超过的值。该限值不适用于医疗照射。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

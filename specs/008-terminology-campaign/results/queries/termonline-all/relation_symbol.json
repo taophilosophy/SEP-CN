@@ -1,0 +1,702 @@
+{
+ "key": "relation symbol",
+ "term": "relation symbol",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:50:40+00:00",
+ "status": "ok",
+ "note": "variant=relation symbol; 审定公布名词库=3795; 海峡两岸名词对照库=1378; 其他来源数据库=164; 预公布名词数据库=223; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "象征符号",
+   "en": "symbol",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.038",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "一种以交际为目标，能参与沟通、代表事物，具有视听形象的表意系统。通常是一些用来指示、表达或理解对象、思想或关系的标记、标志和语词。符号能在概念与经验之间建立感知联系，具有某种物质形式，能指涉自身之外的"
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "建筑学名词",
+   "wordNumber": "09.0416",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "表达一定事物或概念，具有简化特征的视觉形象。"
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.211",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "地图上用来代表一个地理要素的图形样式。符号可以由许多特征定义，包括颜色、大小、形状、角度和样式。"
+  },
+  {
+   "cn": "象征",
+   "en": "symbol",
+   "source": "数学名词",
+   "wordNumber": "06.0488",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "数学名词",
+   "wordNumber": "01.0007",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "电子学名词",
+   "wordNumber": "05.008",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "［地图］符号化",
+   "en": "symbolization",
+   "source": "测绘学名词",
+   "wordNumber": "04.262",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "制图对象或数据经综合处理后，选用恰当的符号表示在图上的过程。"
+  },
+  {
+   "cn": "符号化",
+   "en": "symbolization",
+   "source": "心理学名词",
+   "wordNumber": "15.046",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "个体经验在意识中以概念、意象等符号形式被表征的过程。"
+  },
+  {
+   "cn": "符号化",
+   "en": "symbolization",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.161",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "利用符号表示地图元素特征或等级等信息的过程。"
+  },
+  {
+   "cn": "象征",
+   "en": "symbolism",
+   "source": "语言学名词",
+   "wordNumber": "08.232",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。借助于特定的具体事物，寄寓某种精神品质或抽象事理。又可分为暗征与明征两种。"
+  },
+  {
+   "cn": "符号体系",
+   "en": "symbolism",
+   "source": "数学名词",
+   "wordNumber": "02.0001",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一般符号",
+   "en": "general symbol,basic symbol",
+   "source": "建筑学名词",
+   "wordNumber": "09.0424",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "表示一类事物或其特征，或作为符号族中各个图形符号组成基础的较简明的图形符号。"
+  },
+  {
+   "cn": "地图符号",
+   "en": "cartographic symbol,map symbol",
+   "source": "地理学名词",
+   "wordNumber": "27.115",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "表示地图要素的空间位置、质量和数量特征的特定图形记号或文字。"
+  },
+  {
+   "cn": "置换符号",
+   "en": "permutation symbol; alternating symbol",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0489",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "具有 n个下角标，当 n个下角标中有任意两个下角标相同时，符号值取为 0；当 n个下角标都不相同时，可以通过下角标间相互交换，最终达到从 1到 n的排列的操作如果需要的交换次数为偶数次，符号值取为 1"
+  },
+  {
+   "cn": "要闻集录",
+   "en": "Relation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "世界报业学会认定的第一份现代报纸。1605年，由德国出版商约翰·卡罗勒斯(Johann Carolus)在斯特拉斯堡出版。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "具有相同属性集的元组的集合。一个关系对应一个二维表。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "数学名词",
+   "wordNumber": "01.0036",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地貌符号",
+   "en": "landform symbol",
+   "source": "风景园林名词",
+   "wordNumber": "08.0047",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程测量",
+   "subjectName": "风景园林工程测量",
+   "publishYear": "2025",
+   "definition": "在图上表示地表面的高低起伏状态，包括山地、丘陵和平原等的符号。"
+  },
+  {
+   "cn": "地物符号",
+   "en": "figure symbol",
+   "source": "风景园林名词",
+   "wordNumber": "08.0046",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程测量",
+   "subjectName": "风景园林工程测量",
+   "publishYear": "2025",
+   "definition": "标识地面上各种有形物（如山川、森林、建筑物等）和无形物（如省、县界等）（即地物）的符号。"
+  },
+  {
+   "cn": "符号系统",
+   "en": "symbol system",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.610",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "心灵的计算理论中两种主要研究范式中的一种。把心灵看作一种得到解释的自动的形式系统，系统中的离散项包括带有语义和形式性质的符号或表征，且根据规则被自动操作。"
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "象征",
+   "en": "symbol",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "symbol",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "符号化",
+   "en": "symbolization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号化",
+   "en": "symbolization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "符号化",
+   "en": "symbolization",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地图符号",
+   "en": "cartographic symbol\",\"map symbol",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电码符号",
+   "en": "code symbol",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天气符号",
+   "en": "weather symbol",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "填图符号",
+   "en": "plotting symbol",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标准符号",
+   "en": "standard symbol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "元素符号",
+   "en": "atomic symbol",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "字符图像",
+   "en": "symbol image",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图符号",
+   "en": "map symbol",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "点状符号",
+   "en": "point symbol",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "符号层",
+   "en": "symbol level",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克标志",
+   "en": "Olympic symbol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚符号表示",
+   "en": "sub-symbolic representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坤",
+   "en": "Kun（The Earth Symbol）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乾",
+   "en": "Qian(The Heaven Symbol)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坎",
+   "en": "Kan (The Water Symbol)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离",
+   "en": "Li (The Fire Symbol)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "象征",
+   "en": "symbol",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.06",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "人类文化的一种信息传递方式，它依据类比联想的思维方式和约定俗成的习惯，以某些客观存在或想象中的外在事物以及其他可感知到的东西，来反映特定社会人们的观念意识、心理状态、抽象概念及各种社会文化现象。"
+  },
+  {
+   "cn": "象征",
+   "en": "symbol",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.10",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "一类人物或一类事物的、在特定的语境里高度抽象的集约性表述。包括表示意义系统的语言、文字、手势语、身体语言、图腾等符号系统。"
+  },
+  {
+   "cn": "象征主义",
+   "en": "symbolism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.10",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "通过比喻、隐喻、换喻等想象手法，实现“一个表示其他事物的事物”的实践与思维模式，以及注重相关理论、方法的研究行为。主要代表有格尔茨(C.Geertz）、道德拉斯（D.M.Douglas）。"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "宗教符号",
+   "en": "religious symbol",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.17",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "通过建筑物、艺术品、自然物或现象等方式建立的宗教表达形式。"
+  },
+  {
+   "cn": "民俗象征",
+   "en": "folklore symbol",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0497",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以一个事象作为基础，通过外部感触和情感认知达到对世界的认识和社会的理解，表现为一种民俗物质或民俗事件辐射出来的意义，反映了文化传统较为一致的社区或村落共享的文化精神。"
+  },
+  {
+   "cn": "数字译码",
+   "en": "digit symbol",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "韦氏成人智力量表的一个分测验项目，评价受试者感知-运动速度。"
+  },
+  {
+   "cn": "符号互动",
+   "en": "symbolic interaction",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体运用语言符号，理解自我与他人的行为与态度，从而在赋予行动以意义的基础上彼此互动的过程。此概念最先由美国社会学家库利、米德等人提出，后经一些学者补充、发展为“符号互动论”，进一步强调了符号交流在社会"
+  },
+  {
+   "cn": "符号消费",
+   "en": "symbolic consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.42",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "指向消费品所象征和代表的审美、品质、情调和气氛等符号意义的消费。消费的过程也是消费者进行意义建构、趣味区分、文化分类和社会关系再生产的过程。在这种消费中，消费的主体地位被取消了，商品所对应的外在符号体"
+  },
+  {
+   "cn": "象征性死亡",
+   "en": "symbolic death",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.42",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "唯独人类才拥有的意义及其价值的消亡，即非生物性死亡。例如一个时代或思想的消亡，日常生活中所见的政治、学术、艺术等象征性地终结其生命力，以及仪式中的生死、权力的新旧交替。同时也意味着另一种象征性生命的开"
+  },
+  {
+   "cn": "象征人类学",
+   "en": "symbolic anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0599",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪60-70 年代，西方社会个人主义兴起，人类学研究开始采用主观和个人的视角。20 世纪60 年代起，在后现代主义的影响下，人类学家对象征的研究成为一种思潮，象征人类学逐渐成为人类学界的主要研"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "价值符号",
+   "en": "symbols of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0083",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在货币流通中，不足值的金属铸币和本身没有价值的纸币代替金属货币执行流通手段职能都属于价值符号。价值符号是由国家强制流通而得到公认的。"
+  },
+  {
+   "cn": "中华文化符号",
+   "en": "Chinese cultural symbols",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0121",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "代表中华文化特征和价值的符号或标识，是中华文明内化之后的具体形式或抽象物。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

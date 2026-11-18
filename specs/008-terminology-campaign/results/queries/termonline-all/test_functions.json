@@ -1,0 +1,672 @@
+{
+ "key": "test functions",
+ "term": "test functions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:54:21+00:00",
+ "status": "ok",
+ "note": "variant=test functions; 审定公布名词库=7239; 海峡两岸名词对照库=1605; 其他来源数据库=194; 预公布名词数据库=341; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "检验函数",
+   "en": "test function",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "功能试验",
+   "en": "function test",
+   "source": "航海科技名词",
+   "wordNumber": "15.1048",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "功能测试",
+   "en": "functional test",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.015",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "为指出一条电路、设备或部分设备在实际工作情况下是否具有某些功能所做的测试。"
+  },
+  {
+   "cn": "功能测试",
+   "en": "function testing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.144",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "在电子出版物制作过程中，检测其每一部分是否符合功能设计要求的措施。"
+  },
+  {
+   "cn": "检验函数",
+   "en": "test function,critical function",
+   "source": "数学名词",
+   "wordNumber": "09.0606",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "甲状腺功能检查",
+   "en": "thyroid function test",
+   "source": "普通外科学名词",
+   "wordNumber": "14.206",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "为评价甲状腺功能状态进行的血清学检查。包括甲状腺素、三碘甲腺原氨酸、促甲状腺激素、游离三碘甲腺原氨酸、游离甲状腺素、甲状腺球蛋白抗体、甲状腺过氧化物酶抗体等测定。"
+  },
+  {
+   "cn": "上睑提肌功能试验",
+   "en": "levator function test",
+   "source": "整形外科名词",
+   "wordNumber": "15.08",
+   "subjectFullName": "整形外科_眼睑整形与美容_眼部检查",
+   "subjectName": "眼部检查",
+   "publishYear": "2026",
+   "definition": "上睑提肌提升上睑功能的检查方法。以拇指按压眉骨阻断额肌作用，尽力向上看，上睑缘从下至上提高的幅度为上睑提肌肌力。根据提高幅度可判断上睑提肌肌力大小。"
+  },
+  {
+   "cn": "内分泌功能试验",
+   "en": "endocrine function test",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.099",
+   "subjectFullName": "总论_内分泌代谢性疾病诊断与治疗",
+   "subjectName": "内分泌代谢性疾病诊断与治疗",
+   "publishYear": "2025",
+   "definition": "通过药物激发或抑制激素分泌，评估腺体反馈调节能力，确定内分泌功能状态的试验。包括兴奋试验、抑制试验、负荷试验等。"
+  },
+  {
+   "cn": "性腺功能试验",
+   "en": "gonadal function test",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.109",
+   "subjectFullName": "总论_内分泌代谢性疾病诊断与治疗",
+   "subjectName": "内分泌代谢性疾病诊断与治疗",
+   "publishYear": "2025",
+   "definition": "通过给予外源性促性腺激素释放激素或促性腺激素，分别评估垂体分泌促性腺激素或性腺分泌性腺激素的能力，以判定下丘脑–垂体–性腺轴功能的试验。"
+  },
+  {
+   "cn": "前庭功能检查",
+   "en": "vestibular function test",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.3.6",
+   "subjectFullName": "耳科_耳检查法",
+   "subjectName": "耳检查法",
+   "publishYear": "2025",
+   "definition": "通过测试前庭自发性或诱发性体征，用以判断前庭系统的功能状态、病变部位与程度的方法。"
+  },
+  {
+   "cn": "平衡功能检查",
+   "en": "balance function test",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.3.6.1",
+   "subjectFullName": "耳科_耳检查法",
+   "subjectName": "耳检查法",
+   "publishYear": "2025",
+   "definition": "评价受试者在静态或动态条件下维持身体平衡能力的检查方法。"
+  },
+  {
+   "cn": "肺功能检查",
+   "en": "pulmonary function test",
+   "source": "麻醉学名词",
+   "wordNumber": "05.011",
+   "subjectFullName": "麻醉学_重症监护与治疗_重症医学病房",
+   "subjectName": "重症医学病房",
+   "publishYear": "2024",
+   "definition": "运用特定的手段和仪器对受试者的呼吸功能进行检测及评价。明确呼吸功能是否减退、减退程度和类型等，为疾病诊断提供依据，对治疗效果和病情发展进行评价；对外科手术的可行性和术后并发症进行评估；对呼吸困难的原因"
+  },
+  {
+   "cn": "性腺功能试验",
+   "en": "gonadal function test",
+   "source": "男科及性医学名词",
+   "wordNumber": "13.032",
+   "subjectFullName": "男科及性医学_男性性腺疾病及功能异常",
+   "subjectName": "男性性腺疾病及功能异常",
+   "publishYear": "2023",
+   "definition": "通过给予外源性促性腺激素释放激素或促性腺激素，分别评估垂体分泌促性腺激素或性腺分泌性腺激素的能力，以判定下丘脑-垂体-性腺轴功能的试验。"
+  },
+  {
+   "cn": "肝机能检验",
+   "en": "liver function test",
+   "source": "兽医学名词",
+   "wordNumber": "13.206",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "检测肝机能状态的实验室检查。包括蛋白质代谢的检验、胆红素代谢的检验、燃料摄取与排泄功能检验以及血清酶学检验等。"
+  },
+  {
+   "cn": "肝功能试验",
+   "en": "liver function test",
+   "source": "消化病学名词",
+   "wordNumber": "12.099",
+   "subjectFullName": "消化病_肝脏_肝脏疾病诊断",
+   "subjectName": "肝脏疾病诊断",
+   "publishYear": "2022",
+   "definition": "为发现肝脏损伤及了解、评估肝脏各种功能状态而开展的各种实验室检查方法。可反映肝脏代谢、分泌、合成、解毒及免疫功能和肝损伤状态。用于肝脏疾病的诊断、疗效评估和预后判断。"
+  },
+  {
+   "cn": "肺功能检查",
+   "en": "pulmonary function test",
+   "source": "烧伤学名词",
+   "wordNumber": "04.024",
+   "subjectFullName": "烧伤学_特殊类型烧伤_吸入性损伤",
+   "subjectName": "吸入性损伤",
+   "publishYear": "2019",
+   "definition": "采用一系列方法检测肺的气体交换功能。包括肺容量测定，肺通气功能测定，通气、血流在肺内分布及通气血流比例测定，气体弥散、肺顺应性、气道阻力、小气道功能等的测定，以及运动试验、动脉血气分析等。"
+  },
+  {
+   "cn": "精子功能试验",
+   "en": "sperm function test",
+   "source": "计划生育名词",
+   "wordNumber": "03.102",
+   "subjectFullName": "计划生育_计划生育临床_诊断_男性部分",
+   "subjectName": "男性部分",
+   "publishYear": "2019",
+   "definition": "用于评估精子受精能力的试验。"
+  },
+  {
+   "cn": "肺功能检查",
+   "en": "pulmonary function test",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.035",
+   "subjectFullName": "呼吸病学_肺功能_肺功能测定方法",
+   "subjectName": "肺功能测定方法",
+   "publishYear": "2018",
+   "definition": "运用特定的手段和仪器对受试者的呼吸功能进行的检测和评价。明确呼吸功能是否减退、减退程度和类型等，为疾病诊断提供依据，对治疗效果和病情发展进行评价；对外科手术的可行性和术后并发症的发生进行评估；对呼吸困"
+  },
+  {
+   "cn": "肺功能检查",
+   "en": "pulmonary function test",
+   "source": "老年医学名词",
+   "wordNumber": "04.118",
+   "subjectFullName": "老年医学_老年临床医学_老年呼吸系统疾病",
+   "subjectName": "老年呼吸系统疾病",
+   "publishYear": "2017",
+   "definition": "肺通气和换气功能的检查。用以获得肺生理及病理状态指标测量值，对肺做出质与量的评价，明确肺病理变化对功能损伤的程度和类型，快速缩小鉴别诊断的范围，提示并指导进一步的诊疗计划和对劳动力、手术耐受性等能力的"
+  },
+  {
+   "cn": "言语功能测试",
+   "en": "speech function test",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0247",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "功能试验",
+   "en": "function test",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功能测试",
+   "en": "functional test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测验特征函数",
+   "en": "test characteristic function",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功能无关测试",
+   "en": "function-independent testing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "函数",
+   "en": "function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "函数",
+   "en": "function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功能",
+   "en": "function",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功能主义，机能主义",
+   "en": "functionalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "官能度",
+   "en": "functionality",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "官能度",
+   "en": "functionality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "功能性",
+   "en": "functionality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测试",
+   "en": "test\",\"testing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能基因组学",
+   "en": "functional genomics\",\"function genomics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲函数",
+   "en": "impulse function\",\"pulse function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "台架试验",
+   "en": "testing-bed test",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测试",
+   "en": "testing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哈希函数",
+   "en": "hash function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BM25函数",
+   "en": "BM25 function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在时间和技术条件一定的情况下，生产某种产品时投入的生产要素数量与生产出该产品的数量间的关系。"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "用来表明生产给定产量与最低成本之间关系的函数"
+  },
+  {
+   "cn": "心肺功能",
+   "en": "cardiopulmonary function",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "心、肺及其所代表的循环系统、呼吸系统为身体活动提供足够氧气和养分的能力。"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "功能显像",
+   "en": "functional imaging",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.7",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用显像方法获得机体或器官血流、生理或生化等功能状态图像的技术。"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "职能资本",
+   "en": "functional capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0233",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本运动过程中执行生产剩余价值或实现剩余价值职能的资本，包括产业资本和商业资本。职能资本是与借贷资本相对的资本形式，借贷资本者拥有资本所有权，将货币贷给职能资本者用于执行资本职能。"
+  },
+  {
+   "cn": "职能社会主义",
+   "en": "functional socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0233",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "战后瑞典社会民主党提出的一种理论主张，在瑞典社会主义理论中具有承上启下的地位。主张通过对所有权的一部分职能实行社会化而另一部分职能仍保留非社会化的办法，逐步实现社会主义的目标。该理论是瑞典社民党理论家"
+  },
+  {
+   "cn": "功能型监管",
+   "en": "functional regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "依照医疗服务的功能划分监管机构的模式，如按照病种设立的医疗服务监管机构。"
+  },
+  {
+   "cn": "功能指标",
+   "en": "functional parameter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "反映儿童青少年不同器官或系统生理功能的指标，主要包括肺活量、呼吸频率和最大吸氧量等肺功能的指标，心率、血压等心血管功能的指标"
+  },
+  {
+   "cn": "功能性遗尿",
+   "en": "functional enuresis",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.9.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "儿童5岁后仍经常出现的不自主性排尿；主要表现为熟睡中遗尿，少数甚至在白天也不能控制排尿反射而尿裤，男孩多见。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,32 @@
+{
+ "key": "protestantism",
+ "term": "Protestantism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:38:10+00:00",
+ "status": "ok",
+ "note": "variant=Protestantism; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "新教",
+   "en": "Protestantism",
+   "source": "世界历史名词",
+   "wordNumber": "02.1205",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "16世纪宗教改革运动中脱离天主教而形成的新宗派，或其中不断分化出的派系的统称。"
+  },
+  {
+   "cn": "新教",
+   "en": "Protestantism",
+   "source": "马克思主义",
+   "wordNumber": "04.0055",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "16世纪欧洲宗教改革运动中脱离天主教而产生的各个互不隶属的新宗教。包括路德派、加尔文派、安立甘派三个主要宗派，以及从中分化出来的众多支派。中国为与天主教（旧教）有所区别，习惯上通常称新教为基督教。与天"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,582 @@
+{
+ "key": "theological voluntarist",
+ "term": "theological voluntarist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:47:03+00:00",
+ "status": "ok",
+ "note": "variant=theological voluntarist; 审定公布名词库=307; 海峡两岸名词对照库=75; 其他来源数据库=7; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "神学自然观",
+   "en": "theological view of nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.010",
+   "subjectFullName": "自然辩证法_自然哲学_自然观",
+   "subjectName": "自然观",
+   "publishYear": "2024",
+   "definition": "神学对自然界的总看法。认为上帝是唯一的存在，自然界只不过是上帝创造理念的实在化。基督教神学认为，自然界的起源或者维持，具有神学或者某种超自然的原因。"
+  },
+  {
+   "cn": "唯意志论",
+   "en": "voluntarism",
+   "source": "心理学名词",
+   "wordNumber": "04.080",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "片面夸大意志的作用，把意志看成是世界万物的本质和基础的哲学理论。"
+  },
+  {
+   "cn": "流变性",
+   "en": "rheological behaviour",
+   "source": "地质学名词",
+   "wordNumber": "17.02.181",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "岩石在外力作用下的变形和流动性质。即由黏滞所引起的，在外部条件不变情况下，岩石应力或变形随时间的增长而变化的性质。主要包指蠕变和应力松弛两个方面。"
+  },
+  {
+   "cn": "流变模型",
+   "en": "rheological model",
+   "source": "地质学名词",
+   "wordNumber": "17.02.182",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "借助于弹簧、缓冲器、滑块组成的，用以反映岩土流变特性及其变化过程的力学模型。"
+  },
+  {
+   "cn": "流变律",
+   "en": "rheological law",
+   "source": "地质学名词",
+   "wordNumber": "09.02.120",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "表述稳态流动条件下，应变速率和应力、温度的关系表达式：<img src='/root/syzx/static/spz/2026.dizhi18.png'/>=f(δ,t)=Af′(δ)exp(-q/R"
+  },
+  {
+   "cn": "流变性能",
+   "en": "rheological property",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "1.0054",
+   "subjectFullName": "化工（七）_通类",
+   "subjectName": "通类",
+   "publishYear": "2022",
+   "definition": "聚合物在外力作用下的变形和流动性能。"
+  },
+  {
+   "cn": "流变特性",
+   "en": "rheological property",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1587",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "物体在外力作用下发生的应变、应变率与应力、应力率之间的定量关系。 "
+  },
+  {
+   "cn": "流变体",
+   "en": "rheological body",
+   "source": "冶金学名词",
+   "wordNumber": "09.0037",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "用流变学的观点审视加工过程中的流动与变形的被加工物体。"
+  },
+  {
+   "cn": "流变性质",
+   "en": "rheological property",
+   "source": "化学工程名词",
+   "wordNumber": "03.072",
+   "subjectFullName": "化学工程_传递过程与单元操作_流体动力过程_流体流动",
+   "subjectName": "流体流动",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "流变性",
+   "en": "rheological characteristic",
+   "source": "石油名词",
+   "wordNumber": "01.0102",
+   "subjectFullName": "石油_石油学总类",
+   "subjectName": "石油学总类",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "流变性侵入体",
+   "en": "rheological intrusion",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "物候气候学",
+   "en": "phenological climatology",
+   "source": "地质学名词",
+   "wordNumber": "08.02.002",
+   "subjectFullName": "地质学_第四纪地质学_第四纪冰期与古气候",
+   "subjectName": "第四纪冰期与古气候",
+   "publishYear": "2026",
+   "definition": "研究影响物候现象的气候条件及气候与物候相互关系的学科。"
+  },
+  {
+   "cn": "物候现象",
+   "en": "phenological phenomenon",
+   "source": "农学名词",
+   "wordNumber": "13.154",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "自然环境中，周年内农业生物生命活动及与之密切相关的气象和水文状况随气候的季节性发生有规律变化的现象。包括植物的萌芽、开花、结果、休眠，元鸟至、蜩始鸣，河开、封冻等。"
+  },
+  {
+   "cn": "物候历",
+   "en": "phenological calendar",
+   "source": "农学名词",
+   "wordNumber": "13.157",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "物候现象出现的时间顺序表。是农事活动时间安排的重要依据。"
+  },
+  {
+   "cn": "物候观测",
+   "en": "phenological observation",
+   "source": "农学名词",
+   "wordNumber": "13.161",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "对物候现象和物候期进行的观测。是获取农业气象研究与服务基础性资料的重要手段。"
+  },
+  {
+   "cn": "物候",
+   "en": "phenological phenomena",
+   "source": "风景园林名词",
+   "wordNumber": "12.0076",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "动、植物的生命活动对应于季节环境变化的表象及自然界具季节变化规律的非生物现象。如植物的萌芽、展叶、开花、结实、落叶；动物的蛰眠、复苏、始鸣、繁育、迁徙等。"
+  },
+  {
+   "cn": "拓扑缺陷",
+   "en": "topological defect",
+   "source": "天文学名词",
+   "wordNumber": "07.559",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "场的一种空间构型，因拓扑不变性无法演化到拓扑平凡的真空。"
+  },
+  {
+   "cn": "意识形态领导权",
+   "en": "ideological hegemony",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "10.04",
+   "subjectFullName": "新闻学与传播学_跨文化传播_跨文化传播理论",
+   "subjectName": "跨文化传播理论",
+   "publishYear": "2022",
+   "definition": "通过协商而非暴力的方式达成特定阶级或阶层利益诉求的文化能力和传播过程。该词由意大利共产党领袖葛兰西(Antonio Gramsci)于20世纪30年代提出，与“政治领导权”相对。葛兰西认为，意识形态领"
+  },
+  {
+   "cn": "意识形态分析",
+   "en": "ideological analysis",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.038",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "所有的媒介产品都是意识形态的产物。媒介产品所呈现的意识形态有时是可见的，有时是不可见的。如果要了解意识形态，就必须进行深入分析，将文本背后的深藏不露并可能被普遍接受的意识形态或“信仰体系”阐述出来。这"
+  },
+  {
+   "cn": "物候现象",
+   "en": "phenological phenomenon ",
+   "source": "草学名词",
+   "wordNumber": "3.0526",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "唯意志论,唯意志主义",
+   "en": "voluntarism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "流变性质",
+   "en": "rheological property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topological structure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候现象",
+   "en": "phenological phenomenon",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候关系",
+   "en": "phenological relation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候观测",
+   "en": "phenological observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候季",
+   "en": "phenological season",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候历",
+   "en": "phenological calendar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候模拟",
+   "en": "phenological simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物候谱",
+   "en": "phenological spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑心理学",
+   "en": "topological psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑缠结",
+   "en": "topological entanglement",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "行为隔离",
+   "en": "ethological isolation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑错误",
+   "en": "topological error",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑叠加",
+   "en": "topological overlay",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑关系",
+   "en": "topological relationship",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topological structure",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生态隔离",
+   "en": "ethological isolation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑编码",
+   "en": "topological coding",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑错误",
+   "en": "topological errors",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑量子计算",
+   "en": "topological quantum computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑量子场论",
+   "en": "topological quantum field theory (TQFT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意识形态工作领导权",
+   "en": "the CPC's leadership over ideological work",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "牢牢掌握意识形态工作领导权",
+   "en": "holding firmly the leading position in ideological work",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "党的思想建设",
+   "en": "the ideological work of the CPC / building the Party through theory",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "神学生命说",
+   "en": "theological life theory",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.019",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "主张生命为神所创造和赐予，人的生命从受精卵开始并且具有神圣性的学说。这种生命观念主要源于基督教思想。"
+  },
+  {
+   "cn": "唯意志论",
+   "en": "voluntarism",
+   "source": "马克思主义",
+   "wordNumber": "01.0206",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "哲学和心理学中的一种唯心主义思潮。在哲学上，夸大意志的本质和作用，主张将意志、情感本能冲动置于理性（理智）之上，而且将意志看做是宇宙的本质基础、真相。认为意志创造世界万物。唯意志论的学说产生于19世纪"
+  },
+  {
+   "cn": "意志主义伦理学",
+   "en": "ethics of voluntarism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.139",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "从意志主义出发说明道德现象的非理性主义伦理学理论。是近代伦理学从理性主义转向非理性主义的标志。"
+  },
+  {
+   "cn": "意识形态询唤",
+   "en": "ideological interpellation",
+   "source": "马克思主义",
+   "wordNumber": "05.0073",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿尔都塞认为，意识形态是以一种在个体中“招募”主体或把个体“改造成”主体的方式并运用非常准确的操作“产生效果”或“发挥功能作用”的。这种操作被称之为询唤或召唤，即个体通过意识形态询唤被建构为主体，而且"
+  },
+  {
+   "cn": "类型比较法",
+   "en": "typological comparison",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0664",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国社会学家、人类学家、民族学家费孝通提出了“类型比较法”，意指在研究中国社会的问题中，找到一个具体的标本，观察其循环运行的流程，有如解剖麻雀一般，知晓其生理构造，并以此为出发点，将相同、相近的归在一"
+  },
+  {
+   "cn": "党的思想路线",
+   "en": "Partys ideological line",
+   "source": "马克思主义",
+   "wordNumber": "03.0338",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党认识问题、分析问题、处理问题所遵循的最根本的指导原则和思想基础，即一切从实际出发，理论联系实际，实事求是，在实践中检验真理和发展真理。思想路线这个概念,是毛泽东1930年在《反对本本主义》一"
+  },
+  {
+   "cn": "党的思想建设",
+   "en": "partys ideological building",
+   "source": "马克思主义",
+   "wordNumber": "03.0471",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东建党思想的突出特点。强调着重从思想上建党；思想建党的关键是无产阶级思想的领导，这种思想领导要通过思想教育（包括思想斗争）来实现；思想建设既要纠正党内各种非无产阶级思想，又要端正党的思想路线；采用"
+  },
+  {
+   "cn": "意识形态国家机器",
+   "en": "ideological state apparatuses",
+   "source": "马克思主义",
+   "wordNumber": "05.0071",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿尔都塞认为国家机器分为政府、行政机关、军队等镇压性国家机器和意识形态国家机器两种，将宗教、教育、家庭、法律、政治、工会、信息、文化的各种机构看作是意识形态国家机器。意识形态国家机器属于“私人领域”，"
+  },
+  {
+   "cn": "思想政治教育",
+   "en": "ideological and political education",
+   "source": "马克思主义",
+   "wordNumber": "03.0597",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会组织运用某种政治观点和道德规范，根据人的思想行为形成变化的规律，通过显性或隐性的方式，对其成员施加有目的、有计划的影响，使他们形成符合特定社会要求的价值取向的实践活动。"
+  },
+  {
+   "cn": "人道的社会主义思潮",
+   "en": "humane socialist ideological trend",
+   "source": "马克思主义",
+   "wordNumber": "04.0375",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏共党内关于社会主义与人道主义相互关系的理论观点的总称。形成和产生于20世纪20年代。主要代表人物有布哈林、赫鲁晓夫、戈尔巴乔夫等。布哈林在1925年发表的《两个世界的文化》一文中提出了“社会主义人道"
+  },
+  {
+   "cn": "社会主义精神文明建设",
+   "en": "socialist ideological and ethical progress",
+   "source": "马克思主义",
+   "wordNumber": "03.0589",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "包括教育科学文化建设和思想道德建设两方面。社会主义精神文明建设以马克思主义为指导，以推动社会主义现代化为目标。它的发展需要物质文明建设提供基础和条件，它的发展又为物质文明建设提供精神动力和智力支持。"
+  },
+  {
+   "cn": "宣传思想工作的四个要求",
+   "en": "four requirements for propaganda and ideological work",
+   "source": "马克思主义",
+   "wordNumber": "03.0618",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在1994年1月的全国宣传思想工作会议上，高屋建瓴地对宣传思想工作提出的四个总要求，即以科学的理论武装人，以正确的舆论引导人，以高尚的精神塑造人，以优秀的作品鼓舞人。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

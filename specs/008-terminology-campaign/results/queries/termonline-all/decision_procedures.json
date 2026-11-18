@@ -1,0 +1,782 @@
+{
+ "key": "decision procedures",
+ "term": "decision procedures",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:40:20+00:00",
+ "status": "ok",
+ "note": "variant=decision procedures; 审定公布名词库=1357; 海峡两岸名词对照库=346; 其他来源数据库=62; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "决策程序",
+   "en": "decision procedure",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0050",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "做出决策行为的逻辑步骤顺序。"
+  },
+  {
+   "cn": "决策程序",
+   "en": "decision-making procedure",
+   "source": "教育学名词",
+   "wordNumber": "15.033",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "决策活动过程的各个环节及其逻辑关系。一般包含以下步骤：①找出问题，确定决策目标；②搜集资料，提出各种可行的备选方案；③分析、对比各备选方案，从中选取最优的或最令人满意的方案；④对选定方案进行贯彻执行、"
+  },
+  {
+   "cn": "规程",
+   "en": "procedures",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0050",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "根据通信环境和用户功能需求制定的通信控制协定。"
+  },
+  {
+   "cn": "程序",
+   "en": "procedure",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.162",
+   "subjectFullName": "自然辩证法_工程哲学_工程知识论",
+   "subjectName": "工程知识论",
+   "publishYear": "2024",
+   "definition": "为了进行某项活动或过程所规定的流程、路径或途径。"
+  },
+  {
+   "cn": "步骤",
+   "en": "procedure",
+   "source": "物理学名词",
+   "wordNumber": "01.0175",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "过程",
+   "en": "procedure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0008",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "可被程序调用的相对独立的一个程序模块。通常用于实现程序的部分功能或某个特定功能，可以接受调用方传递的参数，但无返回值。过程调用如需返回调用结果，应采用引用或传递参数等手段。"
+  },
+  {
+   "cn": "程序",
+   "en": "procedure",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0689",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为进行某项活动或过程所规定的途径。"
+  },
+  {
+   "cn": "规程",
+   "en": "procedure",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0846",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "工序",
+   "en": "processing procedure,procedure",
+   "source": "冶金学名词",
+   "wordNumber": "05.1619",
+   "subjectFullName": "冶金学_钢铁冶金_冶金流程工程学",
+   "subjectName": "冶金流程工程学",
+   "publishYear": "2019",
+   "definition": "流程中为实现某特定功能而由若干设备组合构成的生产环节。"
+  },
+  {
+   "cn": "决定",
+   "en": "decision",
+   "source": "档案学名词",
+   "wordNumber": "02.01.053",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "领导指导性文件的一种。适用于对重要事项作出决策和部署、奖惩有关单位和人员、变更或者撤销下级机关不适当的决定事项。"
+  },
+  {
+   "cn": "决策",
+   "en": "decision",
+   "source": "数学名词",
+   "wordNumber": "09.0517",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "判决",
+   "en": "decision",
+   "source": "电子学名词",
+   "wordNumber": "05.142",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "招投标程序",
+   "en": "tender procedure,bid procedure",
+   "source": "土木工程名词",
+   "wordNumber": "13.007",
+   "subjectFullName": "土木工程_工程施工_施工管理",
+   "subjectName": "施工管理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "减负荷手术",
+   "en": "debulking procedure;Charles procedure",
+   "source": "整形外科名词",
+   "wordNumber": "19.149",
+   "subjectFullName": "整形外科_躯干及四肢整形_淋巴水肿修复",
+   "subjectName": "淋巴水肿修复",
+   "publishYear": "2026",
+   "definition": "切除淋巴水肿患肢增生的病变组织，缩小患肢体积，以减轻淋巴回流负担的手术。切除后创面大时，取病变组织的断层皮片回植。"
+  },
+  {
+   "cn": "海关程序",
+   "en": "customs procedures",
+   "source": "经济学名词",
+   "wordNumber": "13.069",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "进口货物通过海关的程序。通常包括结关、分类、估价和征税。结关程序是指国际航行船舶于出港前按照海关规定，办完海关手续，结清应付税等。分类程序指将进口货物列入相应税目。估价程序是最重要的海关程序，其以商品"
+  },
+  {
+   "cn": "握手规程",
+   "en": "handshaking procedures",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0103",
+   "subjectFullName": "计算机科学技术_信息安全_安全协议与分析技术",
+   "subjectName": "安全协议与分析技术",
+   "publishYear": "2018",
+   "definition": "两个实体（如用户与计算机、计算机与计算机、程序与程序）间的对话。目的是为了彼此之间识别和证实。"
+  },
+  {
+   "cn": "奥金克洛斯术式",
+   "en": "Auchincloss procedure",
+   "source": "普通外科学名词",
+   "wordNumber": "15.121",
+   "subjectFullName": "医学_普通外科学_乳腺外科",
+   "subjectName": "乳腺外科",
+   "publishYear": "2026",
+   "definition": "保留胸大肌、胸小肌的乳腺癌改良根治术。由美国乳腺外科医生休·奥金克洛斯（Hugh Auchincloss）于1963年首次报道。"
+  },
+  {
+   "cn": "佩蒂术式",
+   "en": "Patey procedure",
+   "source": "普通外科学名词",
+   "wordNumber": "15.122",
+   "subjectFullName": "医学_普通外科学_乳腺外科",
+   "subjectName": "乳腺外科",
+   "publishYear": "2026",
+   "definition": "保留胸大肌、切除胸小肌的乳腺癌改良根治术。由英国乳腺外科医生大卫·霍华德·佩蒂（David Howard Patey）于1948年首次报道。"
+  },
+  {
+   "cn": "哈特曼手术",
+   "en": "Hartmann procedure",
+   "source": "普通外科学名词",
+   "wordNumber": "19.225",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "切除直肠肿瘤病变后，远侧直肠断端缝闭，近侧结肠拉出腹壁行结肠造口的手术。主要用于直肠癌姑息或根治性切除。由法国外科医生亨利·阿尔贝·哈特曼（Henri Albert Hartmann）于1923年首次"
+  },
+  {
+   "cn": "血管腔内技术",
+   "en": "endovascular procedure",
+   "source": "普通外科学名词",
+   "wordNumber": "25.434",
+   "subjectFullName": "医学_普通外科学_血管外科",
+   "subjectName": "血管外科",
+   "publishYear": "2026",
+   "definition": "在X线影像设备的监视下，利用特殊的腔内器材经皮进入血管腔内对血管疾病进行诊断和治疗的介入技术。"
+  },
+  {
+   "cn": "决策过程",
+   "en": "decision procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规程",
+   "en": "procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判决，决策",
+   "en": "decision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报告程序",
+   "en": "reporting procedures",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "遇险求救程序",
+   "en": "distress procedures",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测试过程",
+   "en": "test procedure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "进口程序",
+   "en": "import procedure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "再进口手续",
+   "en": "reimport procedure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "仲裁程序",
+   "en": "arbitral procedure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜水程序",
+   "en": "diving procedure",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "迭代过程",
+   "en": "iterative procedure",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "命令程序，指令程序",
+   "en": "command procedure",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "办公流程",
+   "en": "office procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备份过程",
+   "en": "backup procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测试过程",
+   "en": "test procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存储过程",
+   "en": "stored procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程分析",
+   "en": "procedure analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程数据",
+   "en": "procedure data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程同步",
+   "en": "procedure synchronization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检验步骤",
+   "en": "checking procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判定",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判决",
+   "en": "decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策论",
+   "en": "decision theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "判定！",
+   "en": "Decision! Hantei!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多数裁判员判定",
+   "en": "majority decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判灯",
+   "en": "decision light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决定性打击",
+   "en": "decisive blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜剑",
+   "en": "decisive hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策树学习",
+   "en": "decision tree learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能决策体系",
+   "en": "AI decision system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "根据点数判决胜负",
+   "en": "decision by points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优势裁决",
+   "en": "decision of superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据运筹",
+   "en": "Data and Decision Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据驱动决策",
+   "en": "data-driven decision-making",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "临床辅助决策支持系统",
+   "en": "clinical decision support system (CDSS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简化通关手续",
+   "en": "to simplify procedures for customs clearance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "步骤",
+   "en": "procedure",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.11",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "从初级生产到最终消费的食品链中（包括原料）的某个点、程序、操作或阶段。"
+  },
+  {
+   "cn": "消毒程序",
+   "en": "disinfection procedure",
+   "source": "消毒学",
+   "wordNumber": "1.1.9",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "完成消毒工作的具体步骤和顺序。"
+  },
+  {
+   "cn": "应急程序",
+   "en": "emergency procedure",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.9",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "详细描述应急响应人员在核或辐射紧急情况下需要采取的行动的一系列指示。"
+  },
+  {
+   "cn": "报告程序",
+   "en": "reporting procedure",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得突发公共卫生事件相关信息后，对照标准研判，对于符合报告要求的事件，向所在地区人民政府卫生行政部门或有关单位报告时按规定需遵循的流程。"
+  },
+  {
+   "cn": "程序伦理",
+   "en": "procedural ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.054",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "关注道德决策的过程、方法和程序的正当性，探讨“如何公正地做出道德决定？”的伦理学理论。"
+  },
+  {
+   "cn": "程序公正",
+   "en": "procedural justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.058",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "过程和规则的公正。强调处事不仅要结果公平合理，处理过程也要符合公正的要求。"
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  },
+  {
+   "cn": "决策阈",
+   "en": "decision threshold",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "被测量的估计量值，在用于量化物理效应的被测量的给定测量程序，实际测量值超过该值时，可判定该物理效应存在。"
+  },
+  {
+   "cn": "决策模型",
+   "en": "decision modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一个事件中研究对象所做出的各个具体选择，以及选择间的逻辑次序的图表。"
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "为了到达目标，采用一定的科学方法和手段，从两个以上的方案中选择一个满意方案的分析判断过程。"
+  },
+  {
+   "cn": "快速灭菌程序",
+   "en": "rapid sterilization procedure",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.8.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在快速压力蒸汽灭菌中根据灭菌对象的种类、性质、使用要求设定灭菌参数，灭菌周期一般不包括干燥阶段，灭菌时一般采取裸露灭菌，为了避免污染，灭菌物品应尽快使用，不能储存，无有效期。"
+  },
+  {
+   "cn": "固定剂量法",
+   "en": "fixed-dose procedure",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.9.10",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "不以动物死亡为终点，而以明显的毒性体征作为终点进行评价的方法。"
+  },
+  {
+   "cn": "心理咨询程序",
+   "en": "psychological counseling procedure",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学生心理健康咨询各环节的时间顺序。依次为：受理面谈、建立信赖、提供心理支持、帮助求咨者勇敢面对生活。"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decision tree analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "将决策过程各个阶段之间的结构绘制成树状箭线图，利用其进行选择、分割分析。"
+  },
+  {
+   "cn": "组织决策",
+   "en": "organizational decision-making",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.10",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织为了实现某一特定目标，依据一定的情况和条件对要解决的问题做出决定，并付诸实施的过程。"
+  },
+  {
+   "cn": "群体决策",
+   "en": "group decision-making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "群体综合多个个体的资源，从而获得了更全面的信息，为决策提供了更大的选择空间。与“个人决策”相对。但研究指出，未必比个体决策更加客观。"
+  },
+  {
+   "cn": "决策分析模型",
+   "en": "decision analytic model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种在不确定性情况下进行决策的定量分析方法。呈现各决策可选项的结果及其发生的概率，通过概率加权的方法得到各选项的期望价值并做出决策。"
+  },
+  {
+   "cn": "决策树模型",
+   "en": "decision tree model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种描述在不确定性情况下进行选择的逻辑结构的静态决策分析模型，包括所有相关的决策选择、对应结果及其概率。"
+  },
+  {
+   "cn": "决策能力",
+   "en": "decision making skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "权衡不同选择并考虑其不同后果以便作出正确决定的能力。有助于个体在面对健康方面的问题时，作出有利于自身健康的决定。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "负责任的决策",
+   "en": "responsible decision-making",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "在不同情况下对个人行为和社会交往作出体现关怀并具有建设性意义的选择的能力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

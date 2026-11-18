@@ -1,0 +1,762 @@
+{
+ "key": "natural law theorists",
+ "term": "natural law theorists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:38:49+00:00",
+ "status": "ok",
+ "note": "variant=natural law theorists; 审定公布名词库=5150; 海峡两岸名词对照库=1715; 其他来源数据库=293; 预公布名词数据库=304; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "自然律",
+   "en": "law of nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.058",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "通过特定事实归纳得到的理论概括。能够说明与预测自然现象。"
+  },
+  {
+   "cn": "自然保护区法",
+   "en": "law of nature reserve",
+   "source": "资源科学技术名词",
+   "wordNumber": "07.079",
+   "subjectFullName": "资源科学技术_资源法学",
+   "subjectName": "资源法学",
+   "publishYear": "2008",
+   "definition": "国家为调整在自然保护区建设和管理过程中所发生的各种社会关系而制定的法律规范的总称。自然保护区是指依据法定程序和方法，在不同自然地带和特定地域内，划出一定范围，将国家自然资源和自然历史遗产保护起来的场所"
+  },
+  {
+   "cn": "天然自然",
+   "en": "natural nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "自然辩证法_自然哲学_自然概论",
+   "subjectName": "自然概论",
+   "publishYear": "2024",
+   "definition": "还没有受到人类实践活动影响或者改造的那部分自然界。与“人工自然”相对。随着人类认识和实践能力的提高，人工自然的范围不断扩大，天然自然的范围不断缩小。"
+  },
+  {
+   "cn": "定律",
+   "en": "law",
+   "source": "物理学名词",
+   "wordNumber": "01.0140",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "法律",
+   "en": "law",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.001",
+   "subjectFullName": "放射医学与防护_法规与条约_法规与标准",
+   "subjectName": "法规与标准",
+   "publishYear": "2014",
+   "definition": "体现国家意志、依靠国家强制力保证执行、规定和调整国家某一方面社会关系或基本行为规则的文件。我国的法律由国家立法机关制定经全国人大常委会通过后，以国家主席令公布。"
+  },
+  {
+   "cn": "法科",
+   "en": "law",
+   "source": "教育学名词",
+   "wordNumber": "08.078",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。（1）广义的法科包括政治学、社会学。（2）狭义的法科指法律学。包括刑法、民法、商法、国际法等学科。"
+  },
+  {
+   "cn": "μ律",
+   "en": "μ-law",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.445",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信技术中，北美通常采用的压扩标准。"
+  },
+  {
+   "cn": "天性",
+   "en": "nature",
+   "source": "行为医学名词",
+   "wordNumber": "3.173",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "个体先天遗传所固有的本能或属性。"
+  },
+  {
+   "cn": "天然",
+   "en": "nature",
+   "source": "核医学名词",
+   "wordNumber": "01.0062",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "自然存在、没有经过任何人工处理或干扰过的状态或事物。"
+  },
+  {
+   "cn": "自然化",
+   "en": "naturalization",
+   "source": "动物学名词",
+   "wordNumber": "7.061",
+   "subjectFullName": "动物学_动物生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2021",
+   "definition": "将一切自然物种的规律在原始自然环境条件下，逐渐使动物内化，从而回归自然和适应自然环境的过程。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "数学名词",
+   "wordNumber": "08.0814",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自然计算",
+   "en": "natural computing,natural computation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.205",
+   "subjectFullName": "生物物理学_生物控制论_仿生学",
+   "subjectName": "仿生学",
+   "publishYear": "2018",
+   "definition": "由自然界得到启发开发出新的解决问题方法，或应用计算机综合自然现象的方法，或利用天然材料(如生物大分子)进行计算的方法。"
+  },
+  {
+   "cn": "自然景物",
+   "en": "natural object,natural scene",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0653",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "在计算机中模拟和生成自然景物或现象。如树木、花草、烟雾、山脉、瀑布等。"
+  },
+  {
+   "cn": "自然干燥",
+   "en": "natural drying,natural seasoning",
+   "source": "林学名词",
+   "wordNumber": "11.214",
+   "subjectFullName": "林学_木材科学与技术_木材加工",
+   "subjectName": "木材加工",
+   "publishYear": "2016",
+   "definition": "在自然条件下，直接利用太阳辐射热能及大气热能降低木材中水分含量的过程。"
+  },
+  {
+   "cn": "天然地基",
+   "en": "natural foundation,natural ground",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0579",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "野生牧草驯化",
+   "en": "naturalization of natural forage",
+   "source": "畜牧学名词",
+   "wordNumber": "10.060",
+   "subjectFullName": "畜牧学_常用牧草_草原与牧草综合",
+   "subjectName": "草原与牧草综合",
+   "publishYear": "2020",
+   "definition": "把野生牧草培育成栽培牧草的过程。"
+  },
+  {
+   "cn": "自然性皱纹",
+   "en": "nature wrinkle;nature line",
+   "source": "整形外科名词",
+   "wordNumber": "14.11",
+   "subjectFullName": "整形外科_头颈部整形与美容_面颈部美容手术",
+   "subjectName": "面颈部美容手术",
+   "publishYear": "2026",
+   "definition": "皮肤皱纹的一种。多位于颈部，呈横向弧形，与生理性皮纹一致。与皮下脂肪堆积有关。随年龄增长而加深，纹间皮肤松垂。"
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve;nature sanctuary",
+   "source": "动物学名词",
+   "wordNumber": "7.0631",
+   "subjectFullName": "动物学_动物生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2021",
+   "definition": "对有代表性的自然生态系统、珍稀濒危野生生物种群的天然生境地集中分布区、有特殊意义的自然遗迹等保护对象所在的陆地、陆地水体或者海域，依法划出一定面积予以特殊保护和管理的区域。其内一般区划为核心区、缓冲区"
+  },
+  {
+   "cn": "新闻法",
+   "en": "law of journalism;press law;journalism law",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.003",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "以宪法为依据的关于新闻传播活动的法律。调整新闻活动中各种社会关系，保障社会公共利益和公民、法人的相关合法权益的法律规范的总称。广义的新闻法包括现有法律体系中所有适用于新闻传播活动的法律、法规、规章等规"
+  },
+  {
+   "cn": "环境法",
+   "en": "environmental law",
+   "source": "地质学名词",
+   "wordNumber": "18.01.039",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由国家制定，强制执行的关于保护环境和自然资源，防治污染和其他公害的法律。"
+  },
+  {
+   "cn": "定律",
+   "en": "law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "本位记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "还原记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本质",
+   "en": "nature",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "归化,自然化",
+   "en": "naturalization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自然化",
+   "en": "naturalization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve\",\"nature preserve\",\"nature sanctuary",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve\",\"nature preserve\",\"nature sanctuary",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分配定律",
+   "en": "distribution law\",\"distributive law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物发生律（=重演律）",
+   "en": "biogenetic law (=recapitulation law)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural draft\",\"natural ventilation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自然景物",
+   "en": "natural object\",\"natural scene",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural draft\",\"natural draught",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护区",
+   "en": "nature reserve\",\"nature sanctuary",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "重演律",
+   "en": "recapitulation law",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "个体发生律",
+   "en": "ontogenetic law",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生物发生律",
+   "en": "biogenetic law",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "重演律",
+   "en": "recapitulation law",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物气候定律",
+   "en": "bioclimatic law",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公法性",
+   "en": "nature of public law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常",
+   "en": "Constant Laws of Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天理",
+   "en": "Natural Law/ Principles of Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法",
+   "en": "Law/ Dharma",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公法",
+   "en": "public law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私法",
+   "en": "private law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律移植",
+   "en": "law transplant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人法",
+   "en": "robot law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算法律",
+   "en": "computational law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生物安全法",
+   "en": "biosecurity law  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "飘逸",
+   "en": "Natural Grace",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然梯度",
+   "en": "natural gradient",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然法",
+   "en": "natural law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会制度",
+   "subjectName": "社会学一般概念社会制度",
+   "publishYear": "2025",
+   "definition": "基于自然秩序本身所产生的正义、平等等理性原则的总和，独立于社会意识形态的价值体系。"
+  },
+  {
+   "cn": "自然规律",
+   "en": "natural law",
+   "source": "马克思主义",
+   "wordNumber": "01.0140",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "自然界内在固有的本质联系，具有不以人的意志为转移的客观必然性。自然规律在一定条件下具有可重复性，只要条件具备，合乎规律的现象必然重复出现。"
+  },
+  {
+   "cn": "天道",
+   "en": "natural law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.069",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "中国古代哲学术语。天地万物的存在与变化所遵循的客观规律。"
+  },
+  {
+   "cn": "法律",
+   "en": "law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度",
+   "subjectName": "社会制度",
+   "publishYear": "2025",
+   "definition": "国家制定或认可的，由国家强制力保证实施的，旨在规定社会成员之间权利和义务，并具有普遍约束力的各种行为规范的总和。"
+  },
+  {
+   "cn": "规律",
+   "en": "law",
+   "source": "马克思主义",
+   "wordNumber": "01.0033",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物发展过程中本身所固有的本质的、必然的、稳定的内在联系。规律具有不以人的意志为转移的客观实在性。"
+  },
+  {
+   "cn": "法",
+   "en": "law",
+   "source": "马克思主义",
+   "wordNumber": "04.0040",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家按照统治阶级的利益和意志制定或认可，并由国家强制力保证其实施的行为规范的总和。法是上层建筑的重要部分，由经济基础决定，为经济基础服务。法的目的在于维护有利于统治阶级的社会关系和社会秩序，是统治阶级"
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0137",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“自然”与“物质”是同一层次或者同等程度的范畴，但自然范畴的内涵更丰富、更具体。从具体层次讲，自然较多的是作为人类活动环境的意义而被使用，是与社会、历史、文化等概念相对应的范畴。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "naturalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "以自然现象（如日、月、水、火）等为对象的信仰，原被理解为“原始宗教”的标志。研究表明，它只是人与自然建立的关系的一种表现形式。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "马克思主义",
+   "wordNumber": "01.0138",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物在自然环境中遵循自然规律的自然属性和行为。自在的自然具有自然性，人化的自然不仅具有自然性，还具有社会性。"
+  },
+  {
+   "cn": "一般规律",
+   "en": "general law universal law",
+   "source": "马克思主义",
+   "wordNumber": "01.0034",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "整个世界或一定范围内事物普遍具有的规律。由于事物存在和发展的无限性，一般规律和特殊规律的区分是相对的，在一定条件下为一般规律，而在另一条件下则可变为特殊规律，反之亦然。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "压制性法律",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.1",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "制裁方式是惩罚性的法律。其目的是要损害当事人的财产、名誉、生命和自由，或者剥夺当事人所享用的某些事物，如刑法。"
+  },
+  {
+   "cn": "补偿性法律",
+   "en": "restorative law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.2",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "不具有惩罚性的法律。旨在恢复原有状态或重建正常状态与关系的法律。如民法、商业法、诉讼法等。"
+  },
+  {
+   "cn": "古代法",
+   "en": "archaic law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "对应古代社会的法律。尼克拉斯·卢曼认为在社会演化过程中存在着古代法、前现代高等文明的法和现代社会的实证法三种法律。古代法对应古代社会，制定法律的行为与依据法律做出决定的行为并未区分开，出现冲突后，人们"
+  },
+  {
+   "cn": "习惯法",
+   "en": "customary law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "个人与团体之间反复出现并得到人们承认的一种相互作用的法律模式。罗伯托·昂格尔提出的三种不同的法律类型之一，除习惯法外，其他为官僚法和法律秩序。"
+  },
+  {
+   "cn": "官僚法",
+   "en": "bureaucratic law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.6",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "人们必须遵循的明确规则。该规则由国家确立和强制执行。该法律具备实证性，而且是由国家制定、颁布和强制实施的，具备公共性。"
+  },
+  {
+   "cn": "压制型法",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.8",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "反映居支配地位的道德，以维护权威为首要目的，法律机构容易直接受到政治权力影响的一种法律。P.诺内特和P.塞尔兹尼克将社会中的法律现象分为三种类型，即压制型法、自治型法和回应型法。"
+  },
+  {
+   "cn": "自治型法",
+   "en": "autonomous law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.9",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "与政治相分离，规则被严格适用的法律秩序。"
+  },
+  {
+   "cn": "回应型法",
+   "en": "responsive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.10",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "裁判过程并非严格适用法律规则，而是充分考虑法律目的，由此取得了开放性与灵活性的一种法律类型。"
+  },
+  {
+   "cn": "活法",
+   "en": "living law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.13",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "实际上支配社会生活的规范。自由法学派创始人欧根·埃利希提出的概念，如日常社会生活中完成的契约和交易，区别于国家实施的法律。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

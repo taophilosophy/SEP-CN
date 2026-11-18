@@ -1,0 +1,692 @@
+{
+ "key": "evolutionary biologists",
+ "term": "evolutionary biologists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:42:17+00:00",
+ "status": "ok",
+ "note": "variant=evolutionary biologists; 审定公布名词库=85; 海峡两岸名词对照库=72; 其他来源数据库=12; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "农学名词",
+   "wordNumber": "06.026",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "研究生命起源、进化、物种多样性及遗传多样性形成演变的学科。"
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "农学名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "依据同源DNA或RNA序列中核苷酸的变异估算出来的物种间遗传关系的远近。差异越大，进化关系越远。"
+  },
+  {
+   "cn": "进化速率",
+   "en": "evolutionary rate",
+   "source": "农学名词",
+   "wordNumber": "06.028",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "进化过程中，每个世代或单位时间内发生的改变。"
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "农学名词",
+   "wordNumber": "16.204",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "模拟繁殖、变异、竞争和选择等生物进化过程，寻求最优解的计算方法。"
+  },
+  {
+   "cn": "进化认识论",
+   "en": "evolutionary epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认识论的一种自然主义进路，即强调自然选择在感知和认知机制的适应性形成中的作用。"
+  },
+  {
+   "cn": "调优法",
+   "en": "evolutionary method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "针对现有系统或通过构造初始过程系统，采用调优策略逐步改进初始系统，以改善系统性能的方法。"
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionary theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.418",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "现代生物学语境中通常指达尔文主义的进化论。将有机体特征的稳定遗传与其在环境中的变异和选择适应结合起来。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.433",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究生物进化过程和生物群落特征的综合性学科。包括生态学、行为学和分类学等。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.434",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "演化程",
+   "en": "evolutionary track",
+   "source": "天文学名词",
+   "wordNumber": "04.211",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "恒星在赫罗图上的演化路径。"
+  },
+  {
+   "cn": "进化稳定性",
+   "en": "evolutionary stability ",
+   "source": "草学名词",
+   "wordNumber": "2.0094",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "进化心理学",
+   "en": "evolutionary psychology",
+   "source": "行为医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "从进化论角度出发，对人的心理起源、本质及一些社会现象深入研究的理论。"
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "动物学名词",
+   "wordNumber": "2.0003",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "当今三大分类学派之一。以生物进化原理为指导的分类学派。在近代分类学研究中，特指在建立分类系统时，同时考虑谱系关系和特征差异程度两种因素的学派。"
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "动物学名词",
+   "wordNumber": "2.0188",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "两条序列分化之后，每个同源位点上发生碱基替换的次数。"
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "动物学名词",
+   "wordNumber": "7.0008",
+   "subjectFullName": "动物学_动物生态学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "研究地球上众多物种如何在复杂的生物和物理环境中，不断地演变并获得完美的结构和相互适应能力的科学。"
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "植物学名词",
+   "wordNumber": "02.0014",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "以生物进化原理为指导的分类学学派。在近代分类学研究中，特指在建立分类系统时，同时考虑谱系关系和特征差异程度两种因素的学派。"
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "植物学名词",
+   "wordNumber": "02.0246",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "两条序列分化之后，每个同源位点上发生碱基替换的次数。"
+  },
+  {
+   "cn": "进化种",
+   "en": "evolutionary species",
+   "source": "植物学名词",
+   "wordNumber": "02.0069",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "物种的一种。祖先和祖先种群的一个单一谱系，该谱系保持了自己的属性而不同于其他谱系，具有自己的进化趋势和历史命运。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "生物物理学名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "生物物理学_生物信息学_生物信息学概要",
+   "subjectName": "生物信息学概要",
+   "publishYear": "2018",
+   "definition": "研究生命进化及演变原理与机制的学科。"
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "生物物理学名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "以进化论为思想，模拟生物进化过程求解问题的人工智能技术。借鉴了生物进化的遗传、突变、自然选择和杂交等现象。"
+  },
+  {
+   "cn": "进化胚胎学",
+   "en": "evolutionary embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "进化动力学",
+   "en": "evolutionary dynamics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化对策",
+   "en": "evolutionary strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化胚胎学",
+   "en": "evolutionary embryology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化趋异",
+   "en": "evolutionary divergence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化时间",
+   "en": "evolutionary time",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化稳态",
+   "en": "evolutionary homeostasis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化系统学",
+   "en": "evolutionary systematics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化选择",
+   "en": "evolutionary selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化遗传学",
+   "en": "evolutionary genetics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化植物学，演化植物学",
+   "en": "evolutionary botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化钟",
+   "en": "evolutionary clock",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化种",
+   "en": "evolutionary species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演化植物学（=进化植物学）",
+   "en": "evolutionary botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调优法",
+   "en": "evolutionary method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调优操作",
+   "en": "evolutionary operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "进化心理学",
+   "en": "evolutionary psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "进化机器人",
+   "en": "evolutionary robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionary theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "演化学习",
+   "en": "evolutional learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "太行精神",
+   "en": "the spirit of the Taihang Revolutionary Base Area",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "红岩精神",
+   "en": "the spirit of Revolutionary Martyrs in Red Crag",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沂蒙精神",
+   "en": "the spirit of the Yimeng Old Revolutionary Base Area",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "红色资源",
+   "en": "the Red Resources (sites and heritage related to the revolutionary traditions of the CPC)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化论功能主义",
+   "en": "evolutionary functionalism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.10",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种在与有机体做类比中将人类社会视为自组织系统的理论，认为系统的各组成部分为了适应周边环境的变化而持续地发挥着各自的功能以保持整体的平衡，从而导致社会系统经历着从低级到高级、从简单到复杂不断进步的发展"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.207",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.146",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用进化论解释道德的起源、发展和本质的伦理学说。认为进化分为宇宙过程和自然过程，以生存竞争、适者生存为动力；社会是一个有机体，按照进化论的变异、自然选择、遗传等原理发展，人类道德发展规律服从于生物进化的"
+  },
+  {
+   "cn": "进化潜力法则",
+   "en": "law of evolutionary potential",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0583",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家塞维斯（Elman Rogers Service）在《进化的潜势》一文中，提出在“不发达的”文明社会中，存在着一定的发达社会所不具有的进化潜势。有一些落后社会它们通过引进发达社会的文化，从"
+  },
+  {
+   "cn": "革命阶级",
+   "en": "revolutionary class",
+   "source": "马克思主义",
+   "wordNumber": "03.0027",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在阶级社会适应生产力的发展要求、推动社会发展和人类进步的阶级。在奴隶社会，革命阶级是地主阶级和奴隶阶级。在封建社会，革命阶级可以是资产阶级和农民阶级。在资本主义社会，革命阶级则是工人阶级和广大农民同盟"
+  },
+  {
+   "cn": "革命危机",
+   "en": "revolutionary crisis",
+   "source": "马克思主义",
+   "wordNumber": "03.0028",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本主义危机中产生的无产阶级革命的条件和机会。资本主义生产方式在不断地制造自身的掘墓人无产阶级，也在不断的经济危机中制造革命危机。当经济危机中私人信用已经瘫痪，流通已经不畅，生产已经停滞时，无产阶级"
+  },
+  {
+   "cn": "革命人道主义",
+   "en": "revolutionary humanitarianism",
+   "source": "马克思主义",
+   "wordNumber": "03.0469",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在革命战争时期提出的一项伦理原则, 是与无产阶级、劳动人民的革命斗争相联系的人道主义，是社会主义人道主义的前身。"
+  },
+  {
+   "cn": "革命法庭",
+   "en": "revolutionary tribunal",
+   "source": "马克思主义",
+   "wordNumber": "04.0071",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1917—1922年间存在于苏维埃俄国，是处理反革命案件的特别法庭。当时在主要都市和城镇都设立了这种法庭。"
+  },
+  {
+   "cn": "革命民主主义",
+   "en": "revolutionary democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0307",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反对封建专制制度的过程中形成的社会革命思潮和政治主张。依据革命领导权的不同，又可分为资产阶级革命民主主义和无产阶级革命民主主义。"
+  },
+  {
+   "cn": "革命护国主义",
+   "en": "Revolutionary Defensism",
+   "source": "马克思主义",
+   "wordNumber": "04.0363",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第一次世界大战时期俄国社会民主党内产生的一种机会主义思潮。第一次世界大战爆发后，普列汉诺夫等人支持俄国参加帝国主义战争，认为这是保卫国家的合理战争；主张放弃阶级斗争，并竭力用资产阶级民族主义和社会沙文"
+  },
+  {
+   "cn": "革命现实主义和革命浪漫主义相结合",
+   "en": "combine revolutionary realism with revolutionary romanticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0463",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据毛泽东1958年关于中国新诗“形式是民歌，内容应是现实主义和浪漫主义对立的统一”的精神而提出的文艺创作的一种方法。要求文艺工作者从无产阶级的立场出发，以马克思主义为指导去观察和表现生活，把客观现实"
+  },
+  {
+   "cn": "革命根据地",
+   "en": "revolutionary base areas",
+   "source": "马克思主义",
+   "wordNumber": "03.0357",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在第二次国内革命战争、抗日战争和解放战争时期据以长期进行武装斗争的区域。是共产党领导人民军队赖以执行自己的战略任务, 达到保存自己,消灭敌人之目的的战略基地，是中国革命胜利的基地。"
+  },
+  {
+   "cn": "社会革命党",
+   "en": "Socialist Revolutionary Party",
+   "source": "马克思主义",
+   "wordNumber": "04.0408",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国最大的小资产阶级政党。该党于1901年底至1902年初由南方社会革命党、社会革命党人联合会等民粹派团体联合而成。社会革命党人的理论观点是民粹主义和修正主义思想的折中混合物。他们否认无产阶级在资产阶"
+  },
+  {
+   "cn": "革命国际主义运动",
+   "en": "revolutionary internationalist movement",
+   "source": "马克思主义",
+   "wordNumber": "05.0273",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "由十多个国家的毛主义政党组成的、坚持马列主义毛泽东思想的毛泽东主义组织，成立于1984年。成员包括尼泊尔联合共产党（毛主义）、印度共产党（毛主义）、美国革命共产党、秘鲁共产党（光辉道路）以及菲律宾共产"
+  },
+  {
+   "cn": "坦桑尼亚革命党",
+   "en": "Tanzania Revolutionary Party",
+   "source": "马克思主义",
+   "wordNumber": "05.0342",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "坦桑尼亚执政党，成立于1977年2月，1992年前是坦桑尼亚唯一的合法政党和非洲主要的社会主义政党之一。宗旨是捍卫国家独立与人民自由，促进非洲独立和国家间的团结，维护非洲地区和世界的进步与和平。近年来"
+  },
+  {
+   "cn": "小资产阶级革命性",
+   "en": "petty bourgeois revolutionary nature",
+   "source": "马克思主义",
+   "wordNumber": "03.0212",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "小资产阶级在反对封建地主阶级和大资产阶级斗争中所表现出的革命性。在资本主义社会中，小资产阶级不断受到大资产阶级的挤压，甚至有沦落到无产阶级行列之虞。因此，在反对封建地主阶级和大资产阶级的斗争中表现出革"
+  },
+  {
+   "cn": "老挝人民革命党",
+   "en": "Lao Peoples Revolutionary Party",
+   "source": "马克思主义",
+   "wordNumber": "05.0287",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "老挝人民民主共和国的执政党，也是老挝唯一的政党。成立于1955年，原名为老挝人民党，1972年改为现名。党的宗旨是领导全国人民进行革新事业，继续建设和发展人民民主制度，建立一个和平、民主、统一和繁荣的"
+  },
+  {
+   "cn": "中国革命战争的特点",
+   "en": "characteristics of Chinas revolutionary war",
+   "source": "马克思主义",
+   "wordNumber": "03.0401",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于中国革命战争独特性的论述。他在1936年12月的《中国革命战争的战略问题》一文中，总结了中国革命战争的四个特点：中国是一个政治经济发展不平衡的半殖民地半封建的大国，经过了第一次大革命的洗礼；"
+  },
+  {
+   "cn": "中国国民党革命委员会",
+   "en": "Revolutionary Committee of the Kuomintang",
+   "source": "马克思主义",
+   "wordNumber": "04.0450",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "新中国八个民主党派之一，由原国民党民主派和其他爱国民主人士创建，1948年正式成立。其成员由原国民党及与国民党有历史联系的人士组成，其中包括国家机关工作人员和科技、文教、卫生战线上的知识分子。"
+  },
+  {
+   "cn": "中国革命战争的根本规律",
+   "en": "fundamental law of Chinas revolutionary war",
+   "source": "马克思主义",
+   "wordNumber": "03.0400",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《中国革命战争的战略问题》一文中指出，经过了一次大革命的政治经济不平衡的半殖民地的大国，强大的敌人，弱小的红军，土地革命，这四个特点规定了中国红军的可能发展和可能战胜其敌人，规定了中国红军的不"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

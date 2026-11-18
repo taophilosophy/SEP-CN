@@ -1,0 +1,722 @@
+{
+ "key": "spectrum inversion",
+ "term": "spectrum inversion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T14:54:16+00:00",
+ "status": "ok",
+ "note": "variant=spectrum inversion; 审定公布名词库=2316; 海峡两岸名词对照库=720; 其他来源数据库=32; 预公布名词数据库=47; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "光谱",
+   "en": "spectrum",
+   "source": "天文学名词",
+   "wordNumber": "04.483",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "辐射强度随光子波长(能量、频率)的分布。"
+  },
+  {
+   "cn": "光谱",
+   "en": "spectrum",
+   "source": "光学名词",
+   "wordNumber": "01.257",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "表征光波所包含的频率(或波长)成分及这些频率成分强度分布的一个曲线。"
+  },
+  {
+   "cn": "光谱",
+   "en": "spectrum",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.077",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_计算机X射线成像技术",
+   "subjectName": "计算机X射线成像技术",
+   "publishYear": "2020",
+   "definition": "电磁波按波长或频率大小而依次排列的图案。"
+  },
+  {
+   "cn": "谱",
+   "en": "spectrum",
+   "source": "物理学名词",
+   "wordNumber": "07.0028",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光[学频]谱",
+   "en": "spectrum",
+   "source": "核医学名词",
+   "wordNumber": "02.0102",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "复色光经过色散系统(如棱镜、光栅)分光后，按波长(或频率)大小依次排列的序列图。代表其在频率域内分布的状况。"
+  },
+  {
+   "cn": "光谱",
+   "en": "spectrum",
+   "source": "林学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "复色光经过色散系统(如棱镜、光栅)分光后，被色散开的单色光按波长(或频率)大小而依次排列的图案。"
+  },
+  {
+   "cn": "光谱",
+   "en": "spectrum",
+   "source": "计量学名词",
+   "wordNumber": "13.007",
+   "subjectFullName": "计量学_光学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "组成辐射的单色成分按波长或频率顺序排列。在光谱学中分为线状光谱、连续光谱和同时显示这两种特征的光谱。"
+  },
+  {
+   "cn": "频谱",
+   "en": "spectrum",
+   "source": "计量学名词",
+   "wordNumber": "11.043",
+   "subjectFullName": "计量学_无线电_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "一个随时间变化的信号，其基波分量及各次谐波分量的能量按其频率高低的顺序排列。周期信号的频谱由一组离散的线条组成，为离散谱或线谱。非周期信号的频谱为连续谱。"
+  },
+  {
+   "cn": "光谱",
+   "en": "spectrum",
+   "source": "地理学名词",
+   "wordNumber": "29.057",
+   "subjectFullName": "地理学_遥感应用",
+   "subjectName": "遥感应用",
+   "publishYear": "2006",
+   "definition": "按波长或频率次序排列的电磁波序列。"
+  },
+  {
+   "cn": "谱",
+   "en": "spectrum",
+   "source": "数学名词",
+   "wordNumber": "07.0248",
+   "subjectFullName": "数学_泛函分析_谱理论",
+   "subjectName": "谱理论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "ɑ谱",
+   "en": "ɑ-spectrum",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0193",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_生物信息学",
+   "subjectName": "生物信息学",
+   "publishYear": "2018",
+   "definition": "一种超立方体。其每一维代表了相应的端通路在组成特定稳态时所有可能的权重取值范围。"
+  },
+  {
+   "cn": "γ 谱",
+   "en": "gamma spectrum,γ-spectrum",
+   "source": "物理学名词",
+   "wordNumber": "09.0118",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "β 谱",
+   "en": "beta spectrum,β-spectrum",
+   "source": "物理学名词",
+   "wordNumber": "09.0117",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "α 谱",
+   "en": "alpha spectrum,α-spectrum",
+   "source": "物理学名词",
+   "wordNumber": "09.0116",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光谱",
+   "en": "optical spectrum,light spectrum",
+   "source": "物理学名词",
+   "wordNumber": "04.1666",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "γ谱分析逆矩阵法",
+   "en": "inverse-matrix method in γ spectrum analysis",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.300",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "已知成分的多种核素混合样品γ谱的一种定量解谱方法。它是先用待测样品所含核素的标准源，在与样品测量的相同条件下，于谱仪指定的特征道区上建立各核素的响应矩阵A，选择能够表征所测核素的一个全能峰为特征峰，特"
+  },
+  {
+   "cn": "变换谱",
+   "en": "conversion spectrum",
+   "source": "物理学名词",
+   "wordNumber": "01.0468",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "年龄谱",
+   "en": "age spectrum",
+   "source": "地质学名词",
+   "wordNumber": "13.03.057",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "在氩-氩法年龄测定中，由样品不同温度阶段析出氩计算的相应⁴⁰Ar/³⁹Ar年龄对³⁹Ar的积累百分数作图，得到的年龄图谱。"
+  },
+  {
+   "cn": "吸收光谱",
+   "en": "absorption spectrum",
+   "source": "整形外科名词",
+   "wordNumber": "7.023",
+   "subjectFullName": "整形外科_整形外科光声电治疗_光声电治疗基本概念及原理",
+   "subjectName": "光声电治疗基本概念及原理",
+   "publishYear": "2026",
+   "definition": "将一种色基对不同波长光线的吸收系数连接形成的曲线。不同色基对不同波长光线的吸收系数各不相同，每一种色基具有其相关的特征性吸收光谱。"
+  },
+  {
+   "cn": "杀虫谱",
+   "en": "insecticidal spectrum",
+   "source": "精细化工名词",
+   "wordNumber": "03.0184",
+   "subjectFullName": "精细化工_农药_生物测定",
+   "subjectName": "生物测定",
+   "publishYear": "2025",
+   "definition": "杀虫剂能有效发挥作用的害虫物种范围。"
+  },
+  {
+   "cn": "谱",
+   "en": "spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "谱",
+   "en": "spectrum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "光谱",
+   "en": "spectrum",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "频谱",
+   "en": "spectrum",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "谱",
+   "en": "spectrum",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "光谱",
+   "en": "spectrum",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "光谱",
+   "en": "spectrum",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "光谱",
+   "en": "light spectrum\",\"optical spectrum",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "荧光光谱",
+   "en": "fluorescence spectrum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "花粉谱",
+   "en": "pollen spectrum",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸收光谱",
+   "en": "absorption spectrum",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "作用光谱",
+   "en": "action spectrum",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "波幅谱",
+   "en": "amplitude spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "波谱",
+   "en": "wave spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "带[状]光谱",
+   "en": "band spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单峰谱",
+   "en": "unimodal spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "滴谱",
+   "en": "droplet spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多普勒谱",
+   "en": "Doppler spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "方差谱",
+   "en": "variance spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风谱",
+   "en": "wind spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆变换采样法",
+   "en": "inverse transform sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "TF-IDF算法",
+   "en": "TF-IDF (term frequency-inverse document frequency) algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "干扰",
+   "en": "invade\",\"invasion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疾病谱",
+   "en": "disease spectrum",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.003",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "按疾病患病率或死亡率的高低而排列的疾病构成顺序。是了解某一特定时间、一个国家或特定地区的人群患病状况，分析疾病流行特点和某些因素与疾病的关系，以获得居民的患病规律，采取综合防病、健康促进措施的依据。"
+  },
+  {
+   "cn": "死亡谱",
+   "en": "death spectrum",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.026",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "在特定时间内某个国家或地区的人群，其整个死亡因素中的死因构成比与死因顺位。与性别、年龄、文化程度、职业及地区等因素有关，它反映了一定时期内人群健康状况以及各种因素对居民生命安全的威胁程度。"
+  },
+  {
+   "cn": "γ能谱分析",
+   "en": "γ spectrum analysis",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.5",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "一种仪器分析方法。根据大多数放射性核素在核衰变时会发射特征能量的γ射线,因此利用测量γ能量的方法可以鉴定放射性核素。"
+  },
+  {
+   "cn": "中子能谱",
+   "en": "neutron energy spectrum",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.4.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理",
+   "subjectName": "中子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "中子注量随中子能量的分布曲线。"
+  },
+  {
+   "cn": "中子能谱测量",
+   "en": "neutron spectrum measurement",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.4.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理",
+   "subjectName": "中子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "记录中子数目随能量变化的一组操作。"
+  },
+  {
+   "cn": "疾病谱",
+   "en": "spectrum of disease",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.6",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "疾病，尤其是致命疾病的分布情况。某一时期的疾病谱代表了这一时期的健康服务需求，因此疾病谱的变化要求健康服务模式做出相应调整。"
+  },
+  {
+   "cn": "肌酶谱",
+   "en": "muscle enzyme spectrum",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.2.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "来源于骨骼肌肉的多种酶的总称。包括谷氨酸氨基转移酶（ALT）、天门冬氨酸氨基转移酶（AST）、肌酸激酶（CK）及同工酶、乳酸脱氢酶（LDH）和a-羟丁酸脱氢酶（a-HBD）等。"
+  },
+  {
+   "cn": "疾病谱",
+   "en": "spectrum of disease",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.3",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "在特定人群、特定地区或特定时期内，各种疾病的发生频率和分布特征所形成的图谱。其构成随社会经济、生活方式、医疗水平、环境等因素变化而动态演变，进而影响健康服务需求与服务模式。"
+  },
+  {
+   "cn": "健康效应谱",
+   "en": "health effect spectrum",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.052999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "环境变异或环境有害因素作用于不同人群而出现不同反应的分布模式。"
+  },
+  {
+   "cn": "逆温",
+   "en": "temperature inversion",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.3.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "在大气对流层中，气温随高度增加而升高的反常现象。"
+  },
+  {
+   "cn": "孤独症谱系障碍",
+   "en": "autistic-spectrum disorder, ASD",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "一种起始于婴幼儿期、由脑功能发育不良引起的，以社会交往、互动障碍和受限、重复行为两大核心症状为特征的儿童神经发育障碍性疾病。"
+  },
+  {
+   "cn": "孤独症谱系障碍",
+   "en": "autistic spectrum disorder, ASD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "一种以社交沟通障碍和重复刻板行为为主要特征的发育障碍性疾病。"
+  },
+  {
+   "cn": "地面γ能谱测量",
+   "en": "ground gamma spectrum measurement",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "使用地面γ能谱仪，在地面测定地质体的γ总量和通过测量各种能量范围的γ射线强度，给出铀、钍、钾含量的一种放射性勘探方法。"
+  },
+  {
+   "cn": "γ谱分析曲线拟合法",
+   "en": "curve fit method in gamma spectrum analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "一种定量解析γ能谱的方法。假定γ能谱在峰区附近的谱形能用一预定函数表示，则可根据在峰区附近各道上的实测数据，用最小二乘法求出函数的有关参数，进而找出峰位、峰面积等。"
+  },
+  {
+   "cn": "γ谱分析剥谱法",
+   "en": "graphical method by subtraction in gamma spectrum analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "根据单种核素成分的特征γ全能峰的能量高低，按高能至低能成分的顺序，从混合谱中逐次扣除而逐步解出样品各核素谱的解谱方法。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
