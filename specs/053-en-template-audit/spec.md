@@ -23,12 +23,10 @@ baseline/
 
 已修复引用面：代码常量 2（`check_pairs.ERRATA_PATH`、`divergence.DIV_PATH`）＋docstring 4（fetch_entry/compare/baseline_audit/en_source_audit）＋活文档（AGENTS.md、rules/README 判例＋标准清单、rules/04、rules/06、specs/001 contracts/cli.md、specs/036、specs/001 spec.md 历史指针）。补丁文件头与 INDEX 的 `source: en-errata.md §N` 为相对节号引用，迁移后仍有效，不动（补丁 sha 钉在 INDEX）。
 
-## 2. P1 结构反向核验（实施 specs/047，判官只读）
+## 2. P1 结构反向核验（实施 specs/047，判官只读）——B2 已实施（2026-11-19）
 
-- `specs/047-structural-reverse-check/bin/verify_structure.py`：md → 结构树（blocks：标题/脚注/图/表/公式块/列表）↔ HTML → 结构树（复用 `tools/parser.parse_entry`），五维比对（分节 h2/h3 数量与层级序列、脚注引用↔定义一一对应序一致、图表公式块数量与文档序、列表层级、citation/参考文献条目数）。
-- 差异三类：真丢文（交人审）／合法移位（白名单须人审登记）／纯格式差。
-- 判据先用测试词条（1–5）校准 → 负向测试（构造丢一节/丢一脚注 md，判定器必报）→ 评估全量 → 全量跑产 `results/structure-scan.json`。
-- B3.1 与 B2〔047〕同批实现（规则闭合率＋残差分型随批）；B3.2 建池批次紧随其后（每件装配残差补丁/策略参数→冻结→sha 全等验收线）。
+- **已完成**：`specs/047-structural-reverse-check/bin/verify_structure.py`（v1.6）五维判定器＋全库首跑（1,872 件＝1,706 过／166 候选）＋负向 selftest 3/3＋补丁可逆性单测（A6，tools/tests/test_en_patch_reverse.py）。候选族分解与 W1–W6 登记见 047 execution-log（figures 64 真丢文候选、logical-constants −27 账差等）。
+- **待续（B3.1）**：逆向装配器 `R`（md⊕模板→规范化 HTML）＋规则闭合率＋残差分型；B3.2 建池批次紧随（每件装配残差补丁/策略参数→冻结→sha 全等验收线）。
 - 边界：与 ADR-0063 §7 LaTeX 否决不冲突（stdlib `html.parser`＋自有 md 解析，无派生层）。
 
 ## 3. P2 B0 判据增强＋例外登记册（归属 specs/044 后续，specs/053 消费）
@@ -129,10 +127,10 @@ ADR-0070 建议③五项：节号连续性、pubinfo↔archinfo 交叉、math_de
 | H0 漂移 | divergence verify | sha 原始钉（ADR-0045，A3） |
 | 池漂移 | 命中计数硬校验 | A5＋INDEX 生成物 |
 
-证明：各行「机理」列即构造性论证；互异性由准入谓词的层位划分保证（文字层／非文字层／原始字节／池本体）。∎
+证明：各行“机理”列即构造性论证；互异性由准入谓词的层位划分保证（文字层／非文字层／原始字节／池本体）。∎
 
 **T7（验证力单调定理）**：B3.2 的验证强度是 `|P_s|` 的单调递减函数；`|P_s| = 0` 时退化为纯规则重建（最强验证）；`P_s` 承载全部丢失信息时验证力归零（同义反复）。故**规则闭合率＝B3.2 证据力的量化指标**，建池目标＝池最小化。
-证明：B3.2 的证书内容＝「md 与 H0 的差异不超出 Θ∪P_s 所承载者」。`P_s` 增大 ⟹ 被假设而非被验证的信息增多 ⟹ 证书信息量单调下降；`P_s` 覆盖全部差异时 `(md, Θ, P_s)` 信息等价于 `H0`，等式成为构造性重言。∎（oracle 不可写的量化形态）
+证明：B3.2 的证书内容＝“md 与 H0 的差异不超出 Θ∪P_s 所承载者”。`P_s` 增大 ⟹ 被假设而非被验证的信息增多 ⟹ 证书信息量单调下降；`P_s` 覆盖全部差异时 `(md, Θ, P_s)` 信息等价于 `H0`，等式成为构造性重言。∎（oracle 不可写的量化形态）
 
 **T8（边界）**：Θ 的模板变异覆盖面不可自证（T3 同构）；B3 重建完备性受 `Θ ∪ P_s` 覆盖面限制；失败件走对账律四态（044 §6），`new` 类逐条四出口分流。
 

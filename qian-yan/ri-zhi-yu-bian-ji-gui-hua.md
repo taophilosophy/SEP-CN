@@ -194,3 +194,10 @@
 * ADR-0076 落地：baseline/ 受控库 T/P/E 三类目——`en-template/`（template-contract.md 模板契约正典＋anomalies.json 例外登记册空册＋README）、`en-patches/` 原位不动、`en-errata/`（en-errata.md 自 specs/001 results 收编＋divergences.json 自 baseline 根收编＋README）。标准依据＝组合推导（无国标直接规定仓库目录结构）：GB/T 26162-2021 分类方案、DA/T 22-2015 §3.2 五步＋§5.4.1 档号五原则、GB/T 18894-2016 存储结构与元数据、IEEE 828 受控库 vs 工作区分界（机检产物留 specs/*/results/）；三标准登记进 rules/README 清单。
 * 引用面手术：代码常量 2（check_pairs ERRATA_PATH、divergence DIV_PATH）＋docstring 4＋specs/044 b0b1_scan_all 路径钉点＋活文档 7（AGENTS、rules/04/06/README 判例＋标准清单、specs/001 spec 历史指针＋contracts/cli、specs/036）；specs/036 处置出口顺手改准（旧文“就地勘误”已被 ADR-0062 冻结语义取代）。ADR 索引补齐滞后债 0067–0075 十行＋0076。
 * 门禁与推送：check_all 16 项全绿、divergence verify 定点全绿（分歧账新路径三账相符）；提交即推，origin/main..main 为空。P1–P4（047 实施、判据增强、分流续批、译注挂载）按 specs/053 待批批次推进。
+
+## 2026-11-19 B2 判定器实施＋全库首跑（specs/053 P1 批次，用户“批准继续”）
+
+* 形式化补遗先行（v1.4）：公理 A4–A6＋引理 L1＋定理 T5–T8；联网调研六锚点（lens PutGet 律／Darcs 逆半群补丁理论／translation validation／OAIS-BagIt fixity／QuickCheck roundtrip／Zhang–Shasha）——方案全部落在已建立验证理论上。编位裁定：逆向装配入 B 系列为 B3（047 立为 B2），撤销临时 R1–R4（撞状态机三审号）；specs/043 引理 B1–B3 双命名域写全称消歧。
+* 047 verify_structure.py 实施（v1.0→v1.6 六轮试金石迭代，11 词条校准）：五维判定器（分节/脚注/图表公式/列表/引用），分节走原文正则（parse_entry 漏 div 内嵌 h2）、notes.html 三代锚形态适配、标题两侧同源归一化（数学定界符/花括号/上下标）、md 脚注键放宽非 ASCII（phil-bio 46“缺口”系测量假象，教训⑨再证）、ledger 赤字硬判＋富余登记（T7 语义）。
+* 全库首跑：**1,872 件＝1,706 过／166 候选**。真候选族：figures 64（md 图片缺失——action-perception 3 图全丢实证，转换器丢图候选）、ledger deficit 3（**logical-constants −27** 文献账差为人审重点）、sections 33（数学进标题残差＋augustine h4）、pairing/ids 21＋17。surplus ~493（拆条/子注合法族）转登记面。
+* 配套：补丁可逆性单测（A6）3 项绿（unpatch∘patch=id＋与生产链同源对照）；047 spec 升 v1.1 已实施＋execution-log.md（W1–W6 登记）；053 §2 P1 状态更新。check_all 16 项全绿（新单测入 unittest 门）。B3.1 装配器与 B3.2 建池批次待续。

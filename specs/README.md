@@ -17,8 +17,8 @@
 | [009-normalization-review](009-normalization-review/spec.md) | Feature Specification: 目录与镜像归一性复核（SUMMARY ↔ mu-lu-s ↔ yuanwen ↔ en） | — | ✓ | ✓ | 单文件 |
 | [010-mulu-recategorize](010-mulu-recategorize/spec.md) | 010 mu-lu-s 分类体系重构 | — | ✓ | ✓ | 单文件 |
 | [011-translation-review](011-translation-review/spec.md) | specs/011 全量翻译复核战役（复核既有所有翻译 + 术语表同步 + 人名表反向校对） | — | ✓ | ✓ | 单文件 |
-| [012-orig-column](012-orig-column/spec.md) | Feature Specification: 登记册「原文」列（非英语术语原文规范） | — | — | — | 单文件 |
-| [013-person-attribution](013-person-attribution/spec.md) | Feature Specification: 人名表「籍属」「生卒/鼎盛年」两列 | — | ✓ | ✓ | 单文件 |
+| [012-orig-column](012-orig-column/spec.md) | Feature Specification: 登记册“原文”列（非英语术语原文规范） | — | — | — | 单文件 |
+| [013-person-attribution](013-person-attribution/spec.md) | Feature Specification: 人名表“籍属”“生卒/鼎盛年”两列 | — | ✓ | ✓ | 单文件 |
 | [014-multi-machine-cutover](014-multi-machine-cutover/spec.md) | Feature Specification: 双机双克隆工作区（M1 迁入本地 C 盘） | — | ✓ | — | 单文件 |
 | [015-style-register-review](015-style-register-review/spec.md) | specs/015 译文语体全局复核（禁文言与破折号滥用） | — | ✓ | ✓ | — |
 | [016-mulu-history-recategorize](016-mulu-history-recategorize/spec.md) | 016 mu-lu-s 按传统哲学史重分类 | — | ✓ | ✓ | 单文件 |
@@ -31,7 +31,7 @@
 | [024-mathjax-v4-upgrade](024-mathjax-v4-upgrade/spec.md) | 024 MathJax v4 升级（阅读站数学渲染 3.2.2 → 4.1.3） | — | — | — | — |
 | [025-standards-alignment](025-standards-alignment/spec.md) | 规格：标准规范对齐基线（standards-alignment） | 基线（Tier 1+2 获批，Tier 3 未批） | ✓ | — | 单文件 |
 | [026-standards-tier3-rollout](026-standards-tier3-rollout/spec.md) | 规格：标准对齐 Tier 3 与 P1-P16 全面执行（standards-tier3-rollout） | 执行中（批 A1 连接号归一已落地；批 A2 已出任务书 ren-wu-shu-a2.md 转阶段交付；批 B/C/D 归治理会话） | ✓ | ✓ | 单文件 |
-| [027-audit-stage-tasks](027-audit-stage-tasks/spec.md) | 任务书：审计已译环节增项与存量撤销（audit-stage-tasks） | 任务书交付（本会话仅出任务书，不执行具体任务——用户指令「你仅出任务书。具体任务交付给 s3_checked 之前的阶段，既有 s3_checked 完成的也撤销到该任务之前」） | — | — | — |
+| [027-audit-stage-tasks](027-audit-stage-tasks/spec.md) | 任务书：审计已译环节增项与存量撤销（audit-stage-tasks） | 任务书交付（本会话仅出任务书，不执行具体任务——用户指令“你仅出任务书。具体任务交付给 s3_checked 之前的阶段，既有 s3_checked 完成的也撤销到该任务之前”） | — | — | — |
 | [028-s25-termchecked-rollout](028-s25-termchecked-rollout/spec.md) | 任务书（合并版）：s2.4/s2.5 前置阶段滚动执行（s25-termchecked-rollout） | 执行中（回退批次） | ✓ | ✓ | — |
 | [029-process-audit](029-process-audit/spec.md) | 流程全量审计 | 已完成（2026-11-15 执行） | — | — | — |
 | [030-independent-review](030-independent-review/spec.md) | 独立形态审校流程（specs/030） | — | — | ✓ | — |
@@ -51,12 +51,13 @@
 | [044-b0b1-baseline](044-b0b1-baseline/spec.md) | 044 — B0/B1 前置基线：HTML 模板一致性与 markdown 跨词条一致性的公理化充分性证明 | — | ✓ | ✓ | — |
 | [045-parallelism](045-parallelism/spec.md) | 045 — 全翻译流程并行性的公理化证明：充分性、一致性、完备性 | — | ✓ | — | — |
 | [046-standards-compliance](046-standards-compliance/spec.md) | 046 — 规范对齐公理体系：翻译质量/校对/参考文献/工具链安全/合规的充分性、一致性、完备性 | — | ✓ | ✓ | — |
-| [047-structural-reverse-check](047-structural-reverse-check/spec.md) | 047 — 结构反向核验：md ↔ HTML 结构比对补 I2 自证盲区 | — | — | — | — |
+| [047-structural-reverse-check](047-structural-reverse-check/spec.md) | 047 — 结构反向核验：md ↔ HTML 结构比对补 I2 自证盲区 | — | ✓ | ✓ | 单文件 |
 | [048-independent-judge](048-independent-judge/spec.md) | 048 — 独立模型族辅助判官：GEMBA-MQM 落地（供人审，不替代） | — | — | — | — |
 | [049-enhancements](049-enhancements/spec.md) | 049 — 翻译增强三件：术语自动提取回填 / 回译核验 / 实时术语提示 | — | — | — | — |
 | [050-term-extraction-denoise](050-term-extraction-denoise/spec.md) | specs/050 术语提取降噪（标本兼治） | — | — | ✓ | — |
 | [051-pipeline-gap-audit](051-pipeline-gap-audit/spec.md) | 翻译全流程遗漏审计（2026-11-19） | — | — | — | — |
 | [052-mandatory-backfill](052-mandatory-backfill/spec.md) | 强制集存量回补与跨机收编件处置（specs/052） | — | ✓ | ✓ | — |
 | [053-en-template-audit](053-en-template-audit/spec.md) | 053 — EN 语料模板审计与勘误装配线 | — | — | — | — |
+| [054-catalog-network-replay](054-catalog-network-replay/spec.md) | specs/054 — 目录四方重放网络（catalog 网络转换完备性） | — | — | — | — |
 
-共 52 个规格目录。
+共 53 个规格目录。
