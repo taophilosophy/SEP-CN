@@ -1,0 +1,552 @@
+{
+ "key": "minjung",
+ "term": "minjung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:21:12+00:00",
+ "status": "ok",
+ "note": "variant=minjung; 审定公布名词库=287; 海峡两岸名词对照库=37; 其他来源数据库=10; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "民居",
+   "en": "minju,vernacular dwelling",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.048",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_中国城市建设史",
+   "subjectName": "中国城市建设史",
+   "publishYear": "2021",
+   "definition": "普通百姓的居住房屋。由于地理气候条件和生活方式不相同，在不同地域形成的形式多样的居住房屋的样式和风格。"
+  },
+  {
+   "cn": "房式采煤法",
+   "en": "room mining,chamber mining",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.127",
+   "subjectFullName": "煤炭科学技术_煤矿开采_采煤方法",
+   "subjectName": "采煤方法",
+   "publishYear": "1996",
+   "definition": "每隔一定距离开采煤房,在煤房之间保留煤柱以支撑顶板的采煤方法。"
+  },
+  {
+   "cn": "上行式开采",
+   "en": "ascending mining,upward mining",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.059",
+   "subjectFullName": "煤炭科学技术_煤矿开采_井田开拓和采区准备",
+   "subjectName": "井田开拓和采区准备",
+   "publishYear": "1996",
+   "definition": "分段、区段、分层或煤层由下向上的开采顺序。"
+  },
+  {
+   "cn": "下行式开采",
+   "en": "descending mining,downward mining",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "煤炭科学技术_煤矿开采_井田开拓和采区准备",
+   "subjectName": "井田开拓和采区准备",
+   "publishYear": "1996",
+   "definition": "分段、区段、分层或煤层由上向下的开采顺序。"
+  },
+  {
+   "cn": "露天采矿",
+   "en": "surface mining,open pit mining",
+   "source": "冶金学名词",
+   "wordNumber": "02.0010",
+   "subjectFullName": "冶金学_采矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "在敞露的条件下，以山坡露天或凹陷露天的方式、由上至下逐阶段地向下剥离岩石和采出有用矿物的采矿方法。"
+  },
+  {
+   "cn": "露天开采",
+   "en": "surface mining,open-cast mining",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "煤炭科学技术_煤炭科技总论",
+   "subjectName": "煤炭科技总论",
+   "publishYear": "1996",
+   "definition": "直接从地表揭露并采出煤炭或其他矿产品的工作。"
+  },
+  {
+   "cn": "矿区",
+   "en": "mining area",
+   "source": "地质学名词",
+   "wordNumber": "14.01.017",
+   "subjectFullName": "地质学_矿床学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "泛指曾经开采、正在开采或准备开采的矿床及其毗邻地区。其范围一般没有明确的规定。"
+  },
+  {
+   "cn": "矿山地质学",
+   "en": "mining geology",
+   "source": "地质学名词",
+   "wordNumber": "01.00.128",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究从矿山建设、生产直至开采结束与矿山地质工作有关的地质理论和方法，为矿山建设和生产提供地质学资料服务的学科。"
+  },
+  {
+   "cn": "采矿废弃物",
+   "en": "mining waste",
+   "source": "地质学名词",
+   "wordNumber": "17.02.056",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "采矿过程中所产生的无工业价值的矿物和碎石等杂物。"
+  },
+  {
+   "cn": "数据挖掘",
+   "en": "data mining",
+   "source": "农学名词",
+   "wordNumber": "16.091",
+   "subjectFullName": "农业信息_农业数据与信息",
+   "subjectName": "农业数据与信息",
+   "publishYear": "2025",
+   "definition": "从大量不完全的有噪声数据集中识别有效和有价值的数据，并进行数据价值发现的过程。"
+  },
+  {
+   "cn": "数据挖掘",
+   "en": "data mining",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.654",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "通过算法搜索隐藏在海量数据中有价值信息的过程。从大数据中发现所需有用信息或知识的技术手段。研究方法包括统计分析、机器学习、关联规则挖掘、聚类分析等。"
+  },
+  {
+   "cn": "数据挖掘",
+   "en": "data mining",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.087",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "从大量的数据中自动搜索隐藏于其中的有特殊关系的信息的过程。是数据库知识发现中的一个步骤。"
+  },
+  {
+   "cn": "露天开采",
+   "en": "surface mining",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0515",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "在地表面或接近地表处机械化开采天然碱矿的方式。和露天煤矿开采工艺相同。"
+  },
+  {
+   "cn": "数据挖掘",
+   "en": "data mining",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.045",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "从大量的资料中自动搜索隐藏着的有特殊关联性（属于关联规则学习）信息的过程。"
+  },
+  {
+   "cn": "知识挖掘",
+   "en": "knowledge mining",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.137",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "从知识库中抽取隐性、未知、具有应用价值的信息的过程。通常包含多个相互联系的步骤：预处理、提出假设、选取算法、提取规则、评价和解释结果、将模式构成知识并应用。"
+  },
+  {
+   "cn": "数据挖掘",
+   "en": "data mining",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.137",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "从大量的、不完全的、有噪声的、模糊的、随机的实际应用数据中，提取隐含在其中的、人们事先不知道的、但又是潜在有用的信息和知识的过程。从狭义上说，就是从数据库中提取知识。数据挖掘又分为描述和预测两类。描述"
+  },
+  {
+   "cn": "数据挖掘",
+   "en": "data mining",
+   "source": "地球物理学名词",
+   "wordNumber": "10.0063",
+   "subjectFullName": "地球物理学_地球物理信息学_地球物理信息学",
+   "subjectName": "地球物理信息学",
+   "publishYear": "2022",
+   "definition": "通过计算统计、分析处理、情报检索、机器学习、专家系统和模式识别等方法，搜索隐藏于其中信息的过程。 "
+  },
+  {
+   "cn": "矿山经纬仪",
+   "en": "mining theodolite",
+   "source": "测绘学名词",
+   "wordNumber": "06.307",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "适用于矿井测量环境的经纬仪。"
+  },
+  {
+   "cn": "铀矿开采",
+   "en": "uranium mining",
+   "source": "电力名词",
+   "wordNumber": "17.332",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "将工业品位的铀矿石从地下矿床中开采出来的生产过程。其特点是铀矿能放出放射性氡气、品位较低、矿体分散和形态复杂,要采取一系列辐射防护措施。"
+  },
+  {
+   "cn": "后退式开采",
+   "en": "retreat mining",
+   "source": "冶金学名词",
+   "wordNumber": "02.0742",
+   "subjectFullName": "冶金学_采矿_地下采矿",
+   "subjectName": "地下采矿",
+   "publishYear": "2019",
+   "definition": "从井田边界的矿块开始，向主要开拓巷道方向依次进行回采的方式。"
+  },
+  {
+   "cn": "采矿",
+   "en": "mining",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "矿用炸药",
+   "en": "mining explosive",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "矿用钢",
+   "en": "mining steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "海底采矿",
+   "en": "submarine mining",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海洋采矿业",
+   "en": "marine mining",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "采矿工程师",
+   "en": "mining engineer",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "矿业城市",
+   "en": "mining city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "露天开采",
+   "en": "strip mining",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据挖掘",
+   "en": "data mining",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "矿山测量图",
+   "en": "mining map",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "矿山经纬仪",
+   "en": "mining theodolite",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数据采掘，数据挖掘",
+   "en": "data mining",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文本采掘，文本挖掘",
+   "en": "text mining",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "采矿船",
+   "en": "mining dredger",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "海滨采矿技术",
+   "en": "shore mining technology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海底采硫",
+   "en": "submarine sulfur mining",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地学数据挖掘",
+   "en": "geo-data mining",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "空间数据挖掘",
+   "en": "spatial data mining",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "空间数据挖掘",
+   "en": "spatial data mining",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "采掘工程平面图",
+   "en": "mining engineering plan",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "观点挖掘",
+   "en": "opinion mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系挖掘",
+   "en": "relationship mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社团挖掘算法",
+   "en": "community mining algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比特币挖矿机",
+   "en": "Bitcoin mining computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据价值挖掘",
+   "en": "data value mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色矿山建设",
+   "en": "green mining construction",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "矿业大数据",
+   "en": "big data of mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据挖掘技术标准",
+   "en": "technical standard for data mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数据挖掘：概念与技术》（〔美〕韩家炜、〔美〕米什莱恩·坎伯）",
+   "en": "Data Mining: Concepts and Techniques (Jiawei Han & Micheline Kamber, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "农业农村部农批市场价格挖掘及可视化平台",
+   "en": "Agricultural Product Wholesale Market Price Mining and Visualization Platform of the Ministry of Agriculture and Rural Affairs",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "矿业民俗",
+   "en": "mining folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0085",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "与矿业生产和矿区生活密切相关的一系列传统习俗、信仰、仪式和社会行为，主要包括民间探矿、采矿、矿产运输与加工、贸易等一系列民俗，涉及五行地脉、矿工组织、生产工具、运输工具、安全防护、行业神崇拜、行会、规"
+  },
+  {
+   "cn": "廪君蛮",
+   "en": "Linjun Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0159",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。古巴人的一支，因时任首领为廪君而得名。分布在今湖北西部、四川东部。崇拜白虎，行船棺葬，事鬼神。后逐渐迁徙于湖北东部、河南南部，成为后来巴郡南郡蛮、江夏蛮、西阳蛮、五水蛮的主要来源。亦有南迁武陵"
+  },
+  {
+   "cn": "铀矿露天开采",
+   "en": "open pit of uranium mining",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.2",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "通过从地表线剥离覆盖岩层，而后开采铀矿石的开采方式。"
+  },
+  {
+   "cn": "铀矿冶废物",
+   "en": "wastes from mining and milling of uranium ore",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.13",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "来自铀矿开采和铀矿石的加工、精制过程中产生的放射性废物。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

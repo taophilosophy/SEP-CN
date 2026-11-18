@@ -1,0 +1,22 @@
+{
+ "key": "astin",
+ "term": "astīn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:28:29+00:00",
+ "status": "ok",
+ "note": "variant=astīn; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "自动交换传送网",
+   "en": "automatic switched transport network,ASTN",
+   "source": "通信科学技术名词",
+   "wordNumber": "09.116",
+   "subjectFullName": "通信科学技术_光纤传输与接入",
+   "subjectName": "光纤传输与接入",
+   "publishYear": "2007",
+   "definition": "具有自动交换功能的传送网。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "mixed syllogisms",
+ "term": "mixed syllogisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:28:39+00:00",
+ "status": "ok",
+ "note": "variant=mixed syllogisms; 审定公布名词库=1630; 海峡两岸名词对照库=425; 其他来源数据库=24; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "心理学名词",
+   "wordNumber": "02.645",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在传统逻辑中，一个命题(结论)必然是从另外两个命题(前提)中得出的一种推论方法。包括大前提、小前提和结论法。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.116",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "用机械的或流体动力的方法，使两种或两种以上物料相互扩散而达到一定均匀程度的过程。"
+  },
+  {
+   "cn": "混匀",
+   "en": "mixing",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0269",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "用机械或人工的方法使两种以上的物料均匀混合的作业。"
+  },
+  {
+   "cn": "密炼",
+   "en": "mixing",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0912",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "由具有螺旋棱、有速度比并相对回转的转子和室壁，以及上、下顶栓组成的一种物料混炼系统。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.159",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "使两种或多种物料相互分散而达到一定均匀程度的单元操作。"
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.191",
+   "subjectFullName": "化工（八）_化工设备_橡胶机械",
+   "subjectName": "橡胶机械",
+   "publishYear": "2021",
+   "definition": "利用机械力将生胶或塑炼生胶与配合剂、填充物等混合、分散均匀的过程。本质来说是配合剂在生胶中均匀分散的过程，粒状配合剂呈分散相，生胶呈连续相。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.080",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末性能及其测试",
+   "subjectName": "粉末性能及其测试",
+   "publishYear": "2021",
+   "definition": "两种或多种不同材料的粉末的均匀掺合。"
+  },
+  {
+   "cn": "交混",
+   "en": "mixing",
+   "source": "电力名词",
+   "wordNumber": "17.196",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "反应堆燃料组件内各子通道之间流体横向流动使温度(单相)或含汽率(两相)均匀化的现象。"
+  },
+  {
+   "cn": "拌和",
+   "en": "mixing",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1231",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "通过拌混原料，将各种不同的食用色素、香料和调味料均匀地分散到硬糖基体中的过程。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0208",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "使两种或多种物料相互分散而达到一定均匀程度的单元操作。"
+  },
+  {
+   "cn": "混合性",
+   "en": "mixing",
+   "source": "物理学名词",
+   "wordNumber": "05.0495",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": "遍历理论中的。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "药学名词",
+   "wordNumber": "02.089",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "用机械方法使两种或多种物料相互分散而达到均匀状态的操作。"
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0648",
+   "subjectFullName": "材料科学技术_高分子材料_橡胶",
+   "subjectName": "橡胶",
+   "publishYear": "2011",
+   "definition": "生胶(经过或未经过塑炼)和各种配合剂经过机械混合翻炼达到均化和分散的加工工艺过程。"
+  },
+  {
+   "cn": "兑入",
+   "en": "mix",
+   "source": "中医药学名词",
+   "wordNumber": "07.080",
+   "subjectFullName": "中医药学_方剂学_剂型、煎服法",
+   "subjectName": "剂型、煎服法",
+   "publishYear": "2004",
+   "definition": "另煎或烊化所取药汁，冲入其他药物煎出液后同服的方法。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "土木工程名词",
+   "wordNumber": "11.180",
+   "subjectFullName": "土木工程_给水与排水工程_水处理",
+   "subjectName": "水处理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拌和",
+   "en": "mixing",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.443",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化学工程名词",
+   "wordNumber": "03.181",
+   "subjectFullName": "化学工程_传递过程与单元操作_流体动力过程_搅拌与混合",
+   "subjectName": "搅拌与混合",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "混波",
+   "en": "mixing",
+   "source": "石油名词",
+   "wordNumber": "03.0524",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "混频",
+   "en": "mixing",
+   "source": "电子学名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "混合性结石",
+   "en": "mixed stone,mixed calculus",
+   "source": "医学名词 第六分册",
+   "wordNumber": "01.340",
+   "subjectFullName": "医学_普通外科学",
+   "subjectName": "普通外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定言三段论,直言三段论",
+   "en": "categorical syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线性三段论",
+   "en": "linear syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混频",
+   "en": "mixing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "混声合唱队",
+   "en": "mixed chorus\",\"mixed voices",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "全混",
+   "en": "complete mixing\",\"perfect mixing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合神经",
+   "en": "mixed nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "混合花序",
+   "en": "mixed inflorescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合授粉",
+   "en": "mixed pollination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合芽",
+   "en": "mixed bud",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合肥料",
+   "en": "mixed fertilizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合生产",
+   "en": "mixed production",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混流",
+   "en": "mixed flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合催化剂",
+   "en": "mixed catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合计",
+   "en": "mixed juice",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合防守",
+   "en": "mixed defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正反握",
+   "en": "mixed grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合双打",
+   "en": "mixed doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合双打",
+   "en": "mixed doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合区",
+   "en": "mixed zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合赛制",
+   "en": "mixed system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合双打",
+   "en": "mixed doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合旋转",
+   "en": "mixed spin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合现实",
+   "en": "mixed reality (MR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合防守",
+   "en": "combined defense\",\"mixed defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混业经营风险",
+   "en": "risk of mixed operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合防守",
+   "en": "combination defense\",\"combined defense\",\"mixed defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情兼雅怨",
+   "en": "A Mixed Quality of Grace and Sorrow",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "固定定价",
+   "en": "fixed pricing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "固定点出发",
+   "en": "fixed start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固定齿轮",
+   "en": "fixed pinion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固定压舱物",
+   "en": "fixed ballast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固定障碍",
+   "en": "fixed obstacle\",\"solid obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "米赛人",
+   "en": "Mixe",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0388",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "北美洲墨西哥境内的土著人，分布在特万特地峡中部和南部，人口约9 万，属奥托曼格语族。"
+  },
+  {
+   "cn": "混合流",
+   "en": "mixed flow",
+   "source": "消毒学",
+   "wordNumber": "1.8.22.3",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "单向流和非单向流组合的气流。"
+  },
+  {
+   "cn": "混合设计",
+   "en": "mixed designs",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.159",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "既包含非重复测量因素，又包含重复测量因素的实验设计。"
+  },
+  {
+   "cn": "混合所有制",
+   "en": "mixed ownership",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.51",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "组织的财产权分属于不同性质所有者的经济形式即不同所有制性质的投资主体共同出资组建的企业的财产关系，比如股份制企业。"
+  },
+  {
+   "cn": "混合所有制",
+   "en": "mixed ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0421",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "两种以上不同性质的所有制相结合。如国家所有制、集体所有制、合作所有制和非公所有制的各种资本组合，表现为公有资本控股或私有资本控股或半公半私持股等多种混合所有制企业。"
+  },
+  {
+   "cn": "混合成本",
+   "en": "mixed cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "同时具有固定成本和变动成本的特点，包含部分固定成本和部分变动成本的成本。"
+  },
+  {
+   "cn": "混合性耳聋",
+   "en": "mixed deafness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由外耳、中耳、听觉中枢、听神经、耳蜗等病变导致的听力障碍。为传导性耳聋与感觉神经性耳聋并存。"
+  },
+  {
+   "cn": "混合语",
+   "en": "mixed language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0138",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "在两种或多种语言接触地区，由不同语言的成分深刻互变而成的语言，通常比原语言更简化。与“皮钦语”（洋泾浜话）和“克里奥尔语”有类似的形成过程，但在语言身份和地位上有差别。"
+  },
+  {
+   "cn": "语码混合",
+   "en": "code-mixing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.011",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个语句含有两种或多种语码的现象。"
+  },
+  {
+   "cn": "混合模型",
+   "en": "mixed-effects model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.153",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在方差分析中，有些自变量的类别效应被模型作固定值，而有些自变量的类别效应被模型作随机变量的模型。"
+  },
+  {
+   "cn": "复合蛋白饮料",
+   "en": "mixed protein beverage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.3.3",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "以乳或乳制品，和一种或多种含有一定蛋白质的植物果实、种子或种仁等为原料，添加或未添加其他食品原辅料和（或）食品添加剂，经加工或发酵制成的制品。"
+  },
+  {
+   "cn": "混合方法研究",
+   "en": "mixed methods research",
+   "source": "社会医学名词",
+   "wordNumber": "4.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "社会科学、行为科学和健康科学领域的一种研究取向，研究者同时收集定量数据和定性数据，并对两种数据进行整合和诠释，以更好的理解问题的研究方法。"
+  },
+  {
+   "cn": "混合类罐头",
+   "en": "mixed food can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.6.6",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "将动物和植物类食品原料分开加工处理，经调配、杀菌制成的罐藏食品。"
+  },
+  {
+   "cn": "农药混配制剂",
+   "en": "mixed pesticide preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.1.18",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "将两种以上农药有效成分和各种助剂等按一定比例混配在一起加工而成的物理性状稳定的某种剂型，可供直接使用。"
+  },
+  {
+   "cn": "混合福利经济",
+   "en": "mixed economy of welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "多元化的社会福利提供模式。公共部门、私人部门、第三部门以及家庭等非正式主体共同负责社会福利及其服务的提供。政府主要通过购买服务或服务外包等形式履行职责，而服务接受者则可在服务的提供方、服务类型中选择。"
+  },
+  {
+   "cn": "气水混合装置",
+   "en": "ozone-water mixing equipment",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.1.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "将臭氧气体和水混合并使臭氧气体充分溶于水的装置。"
+  },
+  {
+   "cn": "病例组合指数",
+   "en": "case mix index，CMI",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.16.6",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "是一种用于衡量医院病例组合复杂程度的指标,可以反映医院收治患者的病种、病情严重程度、治疗难易程度及资源消耗等方面的信息。"
+  },
+  {
+   "cn": "混合淋巴细胞培养",
+   "en": "mixed lymphocyte culture, M LC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.20",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "同种异体的淋巴细胞在体外共同培养的的技术。若一方(通常为供者)淋巴细胞经灭活处理，则称单向混合淋巴细胞培养。"
+  },
+  {
+   "cn": "混合性结缔组织病",
+   "en": "mixed connective tissue disease，MCTD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.8.1.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_混合性结缔组织病及重叠综合征",
+   "subjectName": "混合性结缔组织病及重叠综合征",
+   "publishYear": "2025",
+   "definition": "具有系统性红斑狼疮、多发性肌炎、硬皮病、类风湿关节炎等疾病的表现，但不符合任何疾病的分类标准的疾病，血中有高滴度效价的斑点型抗核抗体和高滴度U1RNP抗体。"
+  },
+  {
+   "cn": "复合配置",
+   "en": "plan and market mixed allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.3",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "在政府的宏观调控下，以市场配置为基础、计划配置为主导的卫生资源配置方式，即建立在政府宏观调控下的社会主义市场经济的卫生资源配置模式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

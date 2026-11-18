@@ -1,0 +1,772 @@
+{
+ "key": "sense and reference",
+ "term": "Sense and Reference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:19:44+00:00",
+ "status": "ok",
+ "note": "variant=Sense and Reference; 审定公布名词库=10000; 海峡两岸名词对照库=2179; 其他来源数据库=1372; 预公布名词数据库=1084; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "感觉",
+   "en": "sense",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.182",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。属于认识过程的感性阶段。一切较高级、较复杂的心理现象如思维、情绪、意志等，都是以感觉为基础的。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sense",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.054",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "能为人的沟通交往提供感知信息的一种生理感官能力。如人的视觉、听觉、味觉、嗅觉和触觉。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sense",
+   "source": "核医学名词",
+   "wordNumber": "04.0772",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。属于认识过程的感性阶段。一切较高级、较复杂的心理现象如思维、情绪、意志等，都是以感觉为基础。"
+  },
+  {
+   "cn": "义项",
+   "en": "sense",
+   "source": "语言学名词",
+   "wordNumber": "05.162",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "按一个词目或字头、词头的不同含义分列的释义项目。由语词实际使用所体现的若干义点抽象概括而成。"
+  },
+  {
+   "cn": "摄影测量学与遥感",
+   "en": "photogrammetry and remote sensing",
+   "source": "测绘学名词",
+   "wordNumber": "01.005",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "研究利用非接触传感器获取目标物的影像及相关数据，从中提取几何、物理、语义信息及其变化，并用图形、图像和数字形式表达的科学与技术。"
+  },
+  {
+   "cn": "参考书目",
+   "en": "reference",
+   "source": "档案学名词",
+   "wordNumber": "04.03.125",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "与档案文献汇编题目有关的参考文献目录。"
+  },
+  {
+   "cn": "参照",
+   "en": "reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.637",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "在目录、索引或检索词表中，反映标目之间关系及其组织原则的一种手段。通常分为一般参照、单纯参照和相关参照。有两种用法：①用于作品正文中，通过某些常规词或词组来指引读者去查看作品的另外部分（如“见上”或“"
+  },
+  {
+   "cn": "参考文献",
+   "en": "references",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.088",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "在书籍、论文的正文之后或各部分之后一一列出所参考或引用文献的辅文。"
+  },
+  {
+   "cn": "引用书目",
+   "en": "bibliography reference,references",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.387",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "专门记载某一著作中引用过的各种著作及文章的目录。一般著录所引用著作或文章的名称、作者等。"
+  },
+  {
+   "cn": "义项划分",
+   "en": "sense discrimination,sense distinction",
+   "source": "语言学名词",
+   "wordNumber": "06.283",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "对多义词头不同意义的区分与编排。每一义项除用序号标志外，还根据实际需要配有区别符、引导词和注释等。"
+  },
+  {
+   "cn": "压缩感知",
+   "en": "compressed sensing,compressive sensing",
+   "source": "物理学名词",
+   "wordNumber": "04.1510",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "触压觉",
+   "en": "sense of touch and pressure",
+   "source": "手外科学名词",
+   "wordNumber": "02.0143",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "皮肤受到触或压等机械刺激时所引起的感觉。是触觉和压觉的统称。"
+  },
+  {
+   "cn": "离子敏元器件",
+   "en": "ion sensing element and device",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "09.046",
+   "subjectFullName": "机械工程_仪器仪表_仪器仪表元件_仪器仪表机械元件_敏感元件",
+   "subjectName": "敏感元件",
+   "publishYear": "2003",
+   "definition": "特性参数随气体或液体中离子种类和浓度变化而明显变化的敏感元器件。"
+  },
+  {
+   "cn": "引文检索",
+   "en": "reference search,reference retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "利用源文献与被引文献之间的引证关系，以被引著者姓名、被引刊名、被引文献题名等相关信息为检索点，查寻被引数据及相关文献信息的过程和方法。"
+  },
+  {
+   "cn": "工具书",
+   "en": "reference work,reference book",
+   "source": "语言学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "汇集特定知识领域的材料，采用一定格式编排，供人按需查检和获取各类信息的参考书。包括辞书、年鉴、手册、索引等。现代工具书分为印刷版和电子版两种类型。"
+  },
+  {
+   "cn": "虚指",
+   "en": "indefinite reference,vague reference",
+   "source": "语言学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "代词的一种用法。即用代词表示不便明说或无法说清的人或事物。例如“又要这样，又要那样，太过分了”和“去一趟也不算什么”中的“这样”“那样”“什么”。"
+  },
+  {
+   "cn": "听觉",
+   "en": "auditory sense",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "声波作用于听觉器官，使其感受细胞兴奋，并通过听神经发放冲动，经各级听觉中枢处理后引起的声音感觉。"
+  },
+  {
+   "cn": "感觉材料",
+   "en": "sense-data",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.506",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由感觉呈现到心灵和意识中的作为心理对象或私有心理实体的感觉质料。"
+  },
+  {
+   "cn": "有义密码子",
+   "en": "sense codon",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0347",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_蛋白质合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "正常的、有编码特定氨基酸作用的密码子。"
+  },
+  {
+   "cn": "感知关闭",
+   "en": "sense closure",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "14.045",
+   "subjectFullName": "新闻学与传播学_媒介环境_媒介影响研究与人类环境",
+   "subjectName": "媒介影响研究与人类环境",
+   "publishYear": "2022",
+   "definition": "感知比率失调时神经系统的保护性机制。麦克卢汉认为，新媒介使一种感官单兵突进，并使感知比率失调，打破感知平衡。为了恢复感知平衡，神经系统就被“关闭”，相关的肢体就“自动截除”(autoamputatio"
+  },
+  {
+   "cn": "摄影测量与遥感学",
+   "en": "photogrammetry and remote sensing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "参考文献",
+   "en": "reference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "参照，参考",
+   "en": "reference",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sense\",\"sensus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "本体感觉",
+   "en": "proprioceptive sense",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "光觉",
+   "en": "photic sense",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "味觉",
+   "en": "taste sense",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "有义RNA（=正义RNA）",
+   "en": "sense RNA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正义RNA，有义RNA",
+   "en": "sense RNA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义密码子",
+   "en": "sense codon",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义密码子",
+   "en": "sense codon",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "色觉",
+   "en": "color sense",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "辨向天线",
+   "en": "sense antenna",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "读出电路",
+   "en": "sense circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传感测量技术",
+   "en": "sensing and measurement technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感物",
+   "en": "Sensed Externalities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一体化感知",
+   "en": "integrated sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧感知",
+   "en": "intelligent sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能传感产业",
+   "en": "intelligent sensing industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标识感知技术",
+   "en": "tag sensing technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市智能感知",
+   "en": "urban smart sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子时间基准",
+   "en": "quantum time reference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网参考体系结构",
+   "en": "IoT reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据参考模型",
+   "en": "data reference model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "查询引用模式",
+   "en": "query reference mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36962-2018 传感数据分类与代码》",
+   "en": "GB/T 36962-2018 Classification and codes for sensing data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词义消歧",
+   "en": "word sense disambiguation (WSD)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "遥感图像识别",
+   "en": "remote sensing image recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据参考体系结构",
+   "en": "big data reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网通信参考体系结构",
+   "en": "IoT communication reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生长发育正常值",
+   "en": "reference of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "某地区、某年龄段95%儿童少年某一生长发育指标的取值范围。有现状正常值和理想正常值两类，前者的样本来自本地区中等水平的人群，反映本地区人群实况；后者是本地区人群在理想状态下的正常值，要求较高。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "参考条件下待测量参考值（Cr,0）的响应R0。      ，Gr,0是相应的指示值。"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.10",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "在应急照射情况或现存照射情况下，设定的一个剂量、危险或活度浓度水平。高于这个水平，允许照射的发生是不适当的；低于这个水平，防护和安全的最优化方案可继续执行。参考水平值的选择取决于所考虑的可能发生照射的"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，某一特定人群，具有典型的形态特性、组织特性、生理特性等的数据库，以便于对人群中不同个体能在同一生物学基础上统一对待，对不同群体间能用统一的标准进行比较。"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的男性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的女性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "参考体模",
+   "en": "reference phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.13",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会第110号出版物（ICRP，2009）中定义的人体计算模型（基于医学成像数据的男性或女性体素模型）、第89号出版物（ICRP，2002）中定义了男性参考人和女性参考人的解剖和生理特征"
+  },
+  {
+   "cn": "参考工作人员",
+   "en": "reference worker",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.14",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "由全身生物动力学、人体呼吸道、人体消化道和剂量学等模型和参数组成的理想化成人。其生物动力学模型的结构和参数值，以参考男性的参数值为依据，未考虑性别、年龄、种族和其他个体特异性特征的变化。"
+  },
+  {
+   "cn": "参考平面",
+   "en": "reference plane",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.36",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在模体中吸收剂量最大值处或与辐射类型相对应的某一特定深度下垂直辐射束轴且平行于模体表面的平面。"
+  },
+  {
+   "cn": "参考点",
+   "en": "reference point",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.40",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "参考平面与辐射束轴相交处的点。"
+  },
+  {
+   "cn": "参照群体",
+   "en": "reference group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "人们作为判断和评价人物、事物或社会现象的标准或仿效模范的群体，一般具有规范和比较两大功能。美国社会学家海曼(Hyman）1942年在研究个人对自身地位的看法时首次提出。"
+  },
+  {
+   "cn": "参考定价",
+   "en": "reference pricing",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "参照相近或类似医疗服务价格或国际价格水平进行定价的方法。"
+  },
+  {
+   "cn": "标准培养物",
+   "en": "reference cultures",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.51",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准菌株、标准储备菌株和工作菌株的统称"
+  },
+  {
+   "cn": "标准物质",
+   "en": "reference material",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.57",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "具有足够均匀和稳定的特定特性的物质，其特性被证实适用于测量中或标称特性检查中的预期用途"
+  },
+  {
+   "cn": "参考温度",
+   "en": "reference temperature",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.107",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "与微生物生长、繁殖等生物学过程相关的特定温度，用于研究和描述微生物的生态学、生理学和生长特性。"
+  },
+  {
+   "cn": "参比实验室",
+   "en": "reference laboratory",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "被指定处理与某一领域有关的所有科学和技术问题的实验室，还应为成员国人员提供科学和技术培训,并协调其他实验室组织合作，开展科学和技术研究。"
+  },
+  {
+   "cn": "标准储备菌株",
+   "en": "reference stocks",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.53",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "模式株经过一代转接后获得的同种菌株"
+  },
+  {
+   "cn": "社区意识",
+   "en": "sense of community",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.2",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "社区成员基于社区场域空间所具有的一种归属感和认同感、一种认识到成员之间以及对于整个群体而言都很重要的感觉。并且是一种对通过彼此承诺来满足成员需求的共识。"
+  },
+  {
+   "cn": "视觉残疾",
+   "en": "visual sense disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的形觉、色觉、光觉、调节和辐辏等视觉损失，难能从事普通人所能从事的工作、学习或其它活动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

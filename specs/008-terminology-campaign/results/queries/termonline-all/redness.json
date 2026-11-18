@@ -1,0 +1,742 @@
+{
+ "key": "redness",
+ "term": "redness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:14:14+00:00",
+ "status": "ok",
+ "note": "variant=redness; 审定公布名词库=499; 海峡两岸名词对照库=173; 其他来源数据库=59; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "红度",
+   "en": "redness",
+   "source": "畜牧学名词",
+   "wordNumber": "06.040",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "物体红色的深浅程度。"
+  },
+  {
+   "cn": "发红",
+   "en": "redness",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.168",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "红色",
+   "en": "red",
+   "source": "光学名词",
+   "wordNumber": "05.025",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "波长在627～780 nm范围内的可见光区的颜色。它是相加色的三原色之一。"
+  },
+  {
+   "cn": "红曲",
+   "en": "red Qu,red rice",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1365",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_酒",
+   "subjectName": "酒",
+   "publishYear": "2020",
+   "definition": "以大米为原料，经蒸煮、接种产红色素的红曲菌后固体培养而成的酿酒发酵剂。也可用作食品添加剂——红色色素。因其能产生多种生理活性物质，也可用作保健食品原料。"
+  },
+  {
+   "cn": "红壤",
+   "en": "red soil,red earth",
+   "source": "林学名词",
+   "wordNumber": "02.233",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "发育在中亚热带高温高湿条件下，由中度富铁铝化作用而形成的酸性至强酸性，含有一定量铁铝氧化物的红色土壤类型。"
+  },
+  {
+   "cn": "红壤",
+   "en": "red earth,red soil",
+   "source": "地理学名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "地理学_土壤地理学",
+   "subjectName": "土壤地理学",
+   "publishYear": "2006",
+   "definition": "中亚热带高温高湿条件下，由中度富铁铝风化作用形成的酸性至强酸性、含一定铁铝氧化物的红色土壤。"
+  },
+  {
+   "cn": "赤潮",
+   "en": "red tide,red water",
+   "source": "航海科技名词",
+   "wordNumber": "07.0246",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "黏膜发红",
+   "en": "mucosal redness",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.036",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "内镜下可见与背景黏膜颜色相比局部或整个管腔黏膜色泽变红的表现。局限性黏膜发红有时也称作红斑。"
+  },
+  {
+   "cn": "嵴状发红",
+   "en": "streak redness",
+   "source": "消化内镜学名词",
+   "wordNumber": "15.063",
+   "subjectFullName": "消化内镜学_胃疾病_胃炎性疾病",
+   "subjectName": "胃炎性疾病",
+   "publishYear": "2021",
+   "definition": "沿胃长轴方向走行的带状发红改变。内镜下可表现为多条大致平行的带状发红。"
+  },
+  {
+   "cn": "弥漫性发红",
+   "en": "diffuse redness",
+   "source": "消化内镜学名词",
+   "wordNumber": "15.065",
+   "subjectFullName": "消化内镜学_胃疾病_胃炎性疾病",
+   "subjectName": "胃炎性疾病",
+   "publishYear": "2021",
+   "definition": "内镜下连续的、具有一定范围的均匀发红改 变。"
+  },
+  {
+   "cn": "点状发红",
+   "en": "spotty redness",
+   "source": "消化内镜学名词",
+   "wordNumber": "15.067",
+   "subjectFullName": "消化内镜学_胃疾病_胃炎性疾病",
+   "subjectName": "胃炎性疾病",
+   "publishYear": "2021",
+   "definition": "内镜下大小、形状不规则，无凹凸不平的发红改变。"
+  },
+  {
+   "cn": "红核",
+   "en": "red nucleus",
+   "source": "神经外科学名词",
+   "wordNumber": "2.103",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_神经核团",
+   "subjectName": "神经核团",
+   "publishYear": "2026",
+   "definition": "位于中脑上丘平面被盖中央部的圆柱状神经核团。自上丘延至间脑的尾部。在调节体态和维持运动协调上有较大的作用。"
+  },
+  {
+   "cn": "红层",
+   "en": "red bed",
+   "source": "地质学名词",
+   "wordNumber": "07.01.104",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在大陆环境下形成的红色沉积层。"
+  },
+  {
+   "cn": "红藜麦",
+   "en": "red quinoa",
+   "source": "农学名词",
+   "wordNumber": "02.089",
+   "subjectFullName": "粮食作物_谷类作物",
+   "subjectName": "谷类作物",
+   "publishYear": "2025",
+   "definition": "种皮为红色的藜麦类型。籽粒小、口感脆糯、有嚼劲，味道麦香浓厚。"
+  },
+  {
+   "cn": "红葡萄酒",
+   "en": "red wine",
+   "source": "农学名词",
+   "wordNumber": "17.216",
+   "subjectFullName": "农产品贮运与加工_果蔬加工",
+   "subjectName": "果蔬加工",
+   "publishYear": "2025",
+   "definition": "选用皮红肉白或皮肉皆红的葡萄，进行皮汁短时间混合发酵，再分离纯酿而成的葡萄酒。这类酒的色泽呈自然深宝石红、宝石红、紫红或石榴红。"
+  },
+  {
+   "cn": "红壤",
+   "en": "red earth",
+   "source": "农学名词",
+   "wordNumber": "09.160",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "中亚热带常绿阔叶林高温高湿条件下，经中度脱硅富铝化作用形成的红色土壤。"
+  },
+  {
+   "cn": "红色旅游",
+   "en": "red tourism",
+   "source": "风景园林名词",
+   "wordNumber": "05.0284",
+   "subjectFullName": "风景园林_风景园林规划_旅游规划",
+   "subjectName": "旅游规划",
+   "publishYear": "2025",
+   "definition": "以中国共产党领导人民在革命和战争时期建树丰功伟绩所形成的纪念地、标志物为载体，以其所承载的革命历史、革命事迹和革命精神为内涵，组织接待旅游者开展缅怀学习、参观游览的主题性旅游活动。"
+  },
+  {
+   "cn": "红髓",
+   "en": "red pulp",
+   "source": "兽医学名词",
+   "wordNumber": "08.296",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "由脾索和脾窦组成的组织约占脾实质的 2/3，分布在脾被膜下、小梁和白髓之间的淋巴组织。内含大量血细胞，新鲜脾的切面呈红色。"
+  },
+  {
+   "cn": "红色血栓",
+   "en": "red thrombus",
+   "source": "兽医学名词",
+   "wordNumber": "10.210",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "由血液凝固形成的血栓。随着血管内混合血栓形成并逐渐增大，最后阻塞管腔导致血流停止，血液迅速凝固形成的血栓。"
+  },
+  {
+   "cn": "红色中华",
+   "en": "Red China",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.127",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_媒体组织",
+   "subjectName": "媒体组织",
+   "publishYear": "2022",
+   "definition": "中国共产党领导的报纸，1931年12月11日创刊于江西瑞金。初为中华苏维埃临时中央政府机关报。1933年2月改为中国共产党、中华苏维埃中央政府、中华全国总工会、中国共产主义青年团联合机关报。1934年"
+  },
+  {
+   "cn": "红色",
+   "en": "red",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红壤",
+   "en": "red earth\",\"red soil",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "赤潮",
+   "en": "red water\",\"red tide",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "酚红",
+   "en": "phenol red",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "红蛋白",
+   "en": "red protein",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "红肌",
+   "en": "red muscle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "红髓",
+   "en": "red pulp",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活染红",
+   "en": "vital red",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "甲基红",
+   "en": "methyl red",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "萘红",
+   "en": "naphthalene red",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "台盼红（=锥虫红）",
+   "en": "trypan red",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中性红",
+   "en": "neutral red",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "锥虫红，台盼红",
+   "en": "trypan red",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "赤潮",
+   "en": "red tide",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "红降[现象]",
+   "en": "red drop",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "红藻",
+   "en": "red algae",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "赤潮",
+   "en": "red tide",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "红雪",
+   "en": "red snow",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "红雨",
+   "en": "red rain",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "红噪[声]",
+   "en": "red noise",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "红色腰带",
+   "en": "red belt\",\"red ribbon\",\"red sash",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红灯",
+   "en": "red light\",\"red signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红牌",
+   "en": "red card",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色腰带",
+   "en": "red sash",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红方",
+   "en": "red corner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红旗",
+   "en": "red flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色标志带",
+   "en": "red tape",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红方",
+   "en": "red competitor",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色浮标",
+   "en": "red buoy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红旗",
+   "en": "red flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红牌",
+   "en": "red card",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红牌",
+   "en": "red card",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红灯",
+   "en": "red light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色外环区",
+   "en": "outer red",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红环",
+   "en": "red area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色内环区",
+   "en": "inner red",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红牌",
+   "en": "red card",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色牌",
+   "en": "red paddle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色绿党",
+   "en": "Red Greens",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.10",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "生态运动中以社会主义为理论基础的、主张生态社会主义的派别，包括马克思主义和社会民主主义者。"
+  },
+  {
+   "cn": "红管家",
+   "en": "red housekeeper",
+   "source": "马克思主义",
+   "wordNumber": "04.0160",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在强调军队建设问题时借电影《红管家》的故事告诫后勤干部特别是领导干部要廉洁奉公，把后勤工作管好。"
+  },
+  {
+   "cn": "辣椒红",
+   "en": "paprika red",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.11.4",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "将辣椒属植物的果实用溶剂提取后去除辣椒素制得的四萜类橙红色色素，主要着色物质为辣椒红素和辣椒玉红素。可用作食品着色剂。"
+  },
+  {
+   "cn": "苏丹红",
+   "en": "Sudan red",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.6.3",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "人工合成的一种工业染料。是亲脂性偶氮化合物，主要包括Ⅰ、Ⅱ、Ⅲ和Ⅳ四种类型，我国禁止用于食品。"
+  },
+  {
+   "cn": "甜菜红",
+   "en": "beet red",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.11.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "从红甜菜（紫菜头）中提取的β-花色苷类紫红色色素，主要着色物质为甜菜苷。可用作食品着色剂。"
+  },
+  {
+   "cn": "赤狄",
+   "en": "Red Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0049",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。春秋时狄人之一支；赤狄隗姓，源自殷及西周之鬼方；乃春秋时期实力最强、影响最大之狄族部落。其至少由6 个氏族组成，即潞氏、皋落氏、留吁氏、甲氏、铎辰氏、廧咎如氏，于西周初期北迁至蒙古高原。"
+  },
+  {
+   "cn": "天然苋菜红",
+   "en": "natural amaranth red",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.11.9",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "从苋科苋属天然苋菜中提取制得的紫红色色素，主要着色物质是苋菜苷和甜菜苷。可用作食品着色剂。"
+  },
+  {
+   "cn": "红曲米",
+   "en": "red kojic rice",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.11.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "稻米蒸熟后接种红曲霉发酵制得的聚酮类黄色或红色色素的混合物。主要着色物质为红斑玉红胺、红斑红曲胺、红曲玉红素、红斑红曲素、红曲黄素、红曲素等。可用作食品着色剂。"
+  },
+  {
+   "cn": "又红又专",
+   "en": "both red and expert",
+   "source": "马克思主义",
+   "wordNumber": "03.0448",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在20世纪50年代向中国知识分子和青年学生发出的正确处理政治与业务、技术关系的号召。又红又专是对人才的考核标准。红，指正确的政治观点；专，指为人民服务的专业知识、专业技能。毛泽东还提出各行各业的"
+  },
+  {
+   "cn": "日本赤旗事件",
+   "en": "Red Flag Incident in Japan",
+   "source": "马克思主义",
+   "wordNumber": "05.0196",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1908年6月22日日本东京的社会主义者举行欢迎出狱同志大会，会后举着红旗唱着革命歌曲走上街头，遭警察镇压，大杉荣等十五人被捕并判处死刑。"
+  },
+  {
+   "cn": "抗红细胞自身抗体",
+   "en": "anti-red blood cell autoantibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.49",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "与自发性、原发性或继发性自身免疫性溶血性贫血密切相关的自身抗体。靶抗原为红细胞膜蛋白。"
+  },
+  {
+   "cn": "红军长征",
+   "en": "Long March of the Red Army",
+   "source": "马克思主义",
+   "wordNumber": "04.0259",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1934年至1936年，红军主力从长江南北各根据地向西北革命根据地进行的战略大转移。以1934年10月红一方面军主力从瑞金出发开始为标志，到1936年10月9日和22日红四、红二方面军分别同红一方面军"
+  },
+  {
+   "cn": "苏联红军攻克柏林",
+   "en": "capture of Berlin by the Soviet red army",
+   "source": "马克思主义",
+   "wordNumber": "04.0123",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第二次世界大战欧洲战场取得决定性胜利的标志。1944年，苏联红军对德军发动了10次歼灭性打击，开始越境作战。1945年4月16日凌晨，红军打响攻克柏林的战役。18日，红军突破通往柏林的三道防线。21日"
+  },
+  {
+   "cn": "大课间体育活动",
+   "en": "recess exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_课外体育活动",
+   "subjectName": "课外体育活动",
+   "publishYear": "2025",
+   "definition": "学生在大课间时在校内进行的，以健身活动、保健操为主要内容，以班级为基本组织单位的体育锻炼活动。"
+  },
+  {
+   "cn": "课间休息",
+   "en": "recess between classes",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "学校的教学安排中，两节课之间的间隔时间。是供学生放松、休息的时间。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

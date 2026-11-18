@@ -1,0 +1,812 @@
+{
+ "key": "live donation",
+ "term": "Live donation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:05:19+00:00",
+ "status": "ok",
+ "note": "variant=Live donation; 审定公布名词库=5701; 海峡两岸名词对照库=1512; 其他来源数据库=401; 预公布名词数据库=308; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "活体供肝",
+   "en": "living donated liver",
+   "source": "器官移植学名词",
+   "wordNumber": "10.024",
+   "subjectFullName": "器官移植学_肝移植_活体肝移植",
+   "subjectName": "活体肝移植",
+   "publishYear": "2020",
+   "definition": "由健康个体捐献的肝脏。"
+  },
+  {
+   "cn": "活体供器官",
+   "en": "living donated organ",
+   "source": "器官移植学名词",
+   "wordNumber": "03.024",
+   "subjectFullName": "器官移植学_供者与供器官的类型",
+   "subjectName": "供者与供器官的类型",
+   "publishYear": "2020",
+   "definition": "由健康的个体捐献的供器官。"
+  },
+  {
+   "cn": "活体供肾",
+   "en": "living donated kidney",
+   "source": "器官移植学名词",
+   "wordNumber": "11.006",
+   "subjectFullName": "器官移植学_肾移植_活体肾移植",
+   "subjectName": "活体肾移植",
+   "publishYear": "2020",
+   "definition": "由健康个体捐献的肾脏。"
+  },
+  {
+   "cn": "活体供肺",
+   "en": "living donated lung",
+   "source": "器官移植学名词",
+   "wordNumber": "15.013",
+   "subjectFullName": "器官移植学_肺移植_肺移植",
+   "subjectName": "肺移植",
+   "publishYear": "2020",
+   "definition": "从健康的供者身上切取的供肺。"
+  },
+  {
+   "cn": "活体亲属供器官",
+   "en": "living related donated organ",
+   "source": "器官移植学名词",
+   "wordNumber": "03.025",
+   "subjectFullName": "器官移植学_供者与供器官的类型",
+   "subjectName": "供者与供器官的类型",
+   "publishYear": "2020",
+   "definition": "由与移植受者有亲缘关系的健康个体捐献的供器官。"
+  },
+  {
+   "cn": "活体非亲属供器官",
+   "en": "living unrelated donated organ",
+   "source": "器官移植学名词",
+   "wordNumber": "03.026",
+   "subjectFullName": "器官移植学_供者与供器官的类型",
+   "subjectName": "供者与供器官的类型",
+   "publishYear": "2020",
+   "definition": "由与移植受者无亲缘关系的健康个体捐献的供器官。"
+  },
+  {
+   "cn": "活体左半肝供肝",
+   "en": "left lobe living donated liver",
+   "source": "器官移植学名词",
+   "wordNumber": "10.025",
+   "subjectFullName": "器官移植学_肝移植_活体肝移植",
+   "subjectName": "活体肝移植",
+   "publishYear": "2020",
+   "definition": "活体肝移植中从健康的捐肝人体上切取的左半肝。"
+  },
+  {
+   "cn": "活体单肝段供肝",
+   "en": "single segment living donated liver",
+   "source": "器官移植学名词",
+   "wordNumber": "10.029",
+   "subjectFullName": "器官移植学_肝移植_活体肝移植",
+   "subjectName": "活体肝移植",
+   "publishYear": "2020",
+   "definition": "活体肝移植中从健康的捐肝人体上切取的单个肝段。"
+  },
+  {
+   "cn": "活体右半肝供肝",
+   "en": "right lobe living donated liver",
+   "source": "器官移植学名词",
+   "wordNumber": "10.030",
+   "subjectFullName": "器官移植学_肝移植_活体肝移植",
+   "subjectName": "活体肝移植",
+   "publishYear": "2020",
+   "definition": "活体肝移植中从健康的捐肝人体上切取的右半肝。"
+  },
+  {
+   "cn": "图书捐赠",
+   "en": "donation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.483",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "个人或社会团体将其出版、收集、珍藏或不公开发行的文献资料，包括所拥有的合法权利和文献的保管责任，一并无偿赠送给图书馆的行为。捐赠的主要来源包括：①知名人士或藏书家，在晚年或去世后，由自己或亲属将其著述"
+  },
+  {
+   "cn": "捐赠",
+   "en": "donation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0601",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "为公益或慈善目的，自愿地将原属私人或机构的财物无偿地赠与他人或其他机构。"
+  },
+  {
+   "cn": "活体左外叶供肝",
+   "en": "left lateral lobe living donated liver",
+   "source": "器官移植学名词",
+   "wordNumber": "10.028",
+   "subjectFullName": "器官移植学_肝移植_活体肝移植",
+   "subjectName": "活体肝移植",
+   "publishYear": "2020",
+   "definition": "活体肝移植中从健康的捐肝人体上切取的左肝外侧叶。"
+  },
+  {
+   "cn": "活体双左叶供肝",
+   "en": "dual left lobe living donated liver",
+   "source": "器官移植学名词",
+   "wordNumber": "10.033",
+   "subjectFullName": "器官移植学_肝移植_活体肝移植",
+   "subjectName": "活体肝移植",
+   "publishYear": "2020",
+   "definition": "活体肝移植中从两名健康的捐肝人体上分别切取并移植给同一个受者的两个左半肝。"
+  },
+  {
+   "cn": "活体右后叶供肝",
+   "en": "right posterior segment living donated liver",
+   "source": "器官移植学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "器官移植学_肝移植_活体肝移植",
+   "subjectName": "活体肝移植",
+   "publishYear": "2020",
+   "definition": "活体肝移植中从健康的捐肝人体上切取的右后叶肝脏。"
+  },
+  {
+   "cn": "活性",
+   "en": "liveness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0648",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "佩特里网的一种动态性质，关注网系统运行过程中，某个（或全体）变迁是否为活变迁。"
+  },
+  {
+   "cn": "档案捐赠",
+   "en": "archival donation",
+   "source": "档案学名词",
+   "wordNumber": "03.01.006",
+   "subjectFullName": "档案学_档案管理_档案收集与整理",
+   "subjectName": "档案收集与整理",
+   "publishYear": "2024",
+   "definition": "档案所有者将档案无偿赠送给档案管理机构的行为。"
+  },
+  {
+   "cn": "器官捐献",
+   "en": "organ donation",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.129",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "捐献者承诺生前或去世后将一个或其部分或多个器官、组织无偿给予特定或不特定的需要器官移植的他人的行为。"
+  },
+  {
+   "cn": "配子捐赠",
+   "en": "gamete donation",
+   "source": "生殖医学名词",
+   "wordNumber": "6.099",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "由健康志愿者捐献精子或卵母细胞的行为。用于对不孕不育夫妇进行治疗，以达到受孕目的。"
+  },
+  {
+   "cn": "精子捐赠",
+   "en": "sperm donation",
+   "source": "生殖医学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "健康志愿者把精子捐献至精子库的行为，用于严重男性不育或严重男性遗传性疾病夫妇的助孕治疗。"
+  },
+  {
+   "cn": "卵母细胞捐赠",
+   "en": "oocyte donation",
+   "source": "生殖医学名词",
+   "wordNumber": "6.103",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "志愿者把卵母细胞捐献给医疗机构，以帮助不孕不育夫妇实现生育目的的行为。"
+  },
+  {
+   "cn": "活性",
+   "en": "liveness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反馈作用",
+   "en": "back donation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反馈键",
+   "en": "back donating bonding",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "给电子基团",
+   "en": "electron-donating group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "新鲜蒸汽",
+   "en": "live steam",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活捕器,活捕陷阱",
+   "en": "live-trap",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活变迁",
+   "en": "live transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生活空间",
+   "en": "lived space",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生活世界",
+   "en": "lived-world",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "活[性]高分子",
+   "en": "living macromolecule",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活性聚合",
+   "en": "living polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生存空间",
+   "en": "living space",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生物体",
+   "en": "living organism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生物资源",
+   "en": "living resources",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "住舱",
+   "en": "living quarter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活鱼运输船",
+   "en": "live fish carrier",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "长命间隔子",
+   "en": "long-lived spacer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "短命间隔子",
+   "en": "short-lived spacer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "长寿黑子",
+   "en": "long-lived spot",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "捐赠型众筹",
+   "en": "donation-based crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络直播",
+   "en": "live streaming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线直播",
+   "en": "live streaming",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活球",
+   "en": "live ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生活共同体",
+   "en": "living community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直播平台",
+   "en": "live streaming platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活体农贸市场",
+   "en": "live animal market",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "澳大利亚生物多样性信息系统",
+   "en": "Atlas of Living Australia",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境辅助生活技术",
+   "en": "ambient assisted living technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活球",
+   "en": "live ball\",\"ball in play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "政务网络直播",
+   "en": "live streaming of government services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧盟“活地球模拟器”项目",
+   "en": "Living Earth Simulator Project (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生命重于泰山。",
+   "en": "Saving lives is of paramount importance. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "淡泊",
+   "en": "Quiet Living with No Worldly Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安居乐业",
+   "en": "Live in Peace and Work in Contentment",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在发展中保障和改善民生",
+   "en": "Ensuring and improving living standards through development.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "和而不流",
+   "en": "Living in Harmony with Others Without Losing Moral Ground",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "惟人万物之灵",
+   "en": "Of All Living Things, Humanity’s Spirit Shines Brightest.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强农惠农富农",
+   "en": "strengthen agriculture, benefit farmers, and raise rural living standards",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "居安思危",
+   "en": "Be on Alert Against Potential Danger When Living in Peace",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活体捐献器官准则",
+   "en": "guide lines for living organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.026",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "为加强活体器官移植管理，确保活体器官捐献人和接受人的生命安全和身体健康，由卫生行政部门或学术组织制定的有关活体器官捐献行为的规范与要求。"
+  },
+  {
+   "cn": "公益捐赠",
+   "en": "charity donation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.29",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "自然人、法人或其他组织基于自愿原则，为支持社会公益事业而将自己有权处分的合法财产向相应的社会组织进行捐赠的活动。"
+  },
+  {
+   "cn": "配子赠送",
+   "en": "gamete donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "自愿捐赠精子或者卵子的做法。我国相关法规规定，禁止以任何形式买卖精子、卵子和胚胎，严格禁止各种代孕行为。"
+  },
+  {
+   "cn": "卵子赠送",
+   "en": "oocyte donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "育龄妇女将卵子赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "精子赠送",
+   "en": "sperm donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "由人类精子库采集健康志愿供精者的精液，冻存并通过检疫后提供给男方患不可逆无精子症或有严重遗传疾病的不孕夫妇，以达到治疗不孕或优生的目的的做法。"
+  },
+  {
+   "cn": "胚胎赠送",
+   "en": "embryo donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "接受体外受精胚胎移植技术助孕的夫妇将胚胎赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "器官捐献",
+   "en": "organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.045",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "依据自然人生前意愿或死后其家属的共同意愿，将其部分或全部器官捐献给他人或医学科学事业的行为。"
+  },
+  {
+   "cn": "遗体器官捐献准则",
+   "en": "deceased donation rule",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.054",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "自然人生前自愿表示或未明确反对，在其死亡后进行捐献时应遵循的伦理规范和道德要求。包括自愿、无偿，禁止商业化等原则。"
+  },
+  {
+   "cn": "器官捐献协调员",
+   "en": "organ donation coordinator",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.052999999999999",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "参与人体器官捐献的宣传动员、现场见证、信息采集报告等工作并协助完成人体器官捐献其他相关事务的专职或兼职人员。"
+  },
+  {
+   "cn": "器官捐献准则",
+   "en": "organ donation criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.048",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "用于评估和筛选潜在的活体或遗体器官捐献者的医学、伦理及法律标准。"
+  },
+  {
+   "cn": "器官捐献伦理",
+   "en": "organ donation ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.046",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "器官捐献中涉及的伦理问题与道德要求。包括捐献的同意模式、补偿与激励机制等。尊重、有利、不伤害、公正是器官捐献应遵循的基本伦理原则。"
+  },
+  {
+   "cn": "器官捐献法",
+   "en": "organ donation law",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.047",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "规范器官捐献及其相关行为的法律文件。旨在规范人体器官捐献行为，保障捐受双方的合法权益，倡导捐献人体器官挽救生命的人道主义精神，推动社会文明进步。"
+  },
+  {
+   "cn": "交叉换肾",
+   "en": "kidney paired donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.023",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "活体肾脏器官移植中，器官受体与家庭内有捐献意愿的供体间配型不符合，但分别与另一家庭中同样情况的受体与供体配型相符，两个家庭亲属间肾源配对互换，进行肾脏器官移植的特定情形，以此扩大肾脏来源，提高配型成功"
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，能检测脉冲信号的时间。亦即总的测量时间扣除死时间后的时间。"
+  },
+  {
+   "cn": "活疫苗",
+   "en": "live vaccine",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.4.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫预防",
+   "subjectName": "免疫预防",
+   "publishYear": "2025",
+   "definition": "应用保留有免疫原性的减毒或无毒的病原生物所制成的一种疫苗。如卡介苗、麻疹活疫苗等。"
+  },
+  {
+   "cn": "活产",
+   "en": "live birth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.23",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "无论妊娠期长短而自母体完全排出的受孕产物，与母体分离后，不论脐带是否结扎或胎盘是否附着，具有呼吸动作或显示其他生命征象如心脏跳动、脐带搏动或出现明确的随意肌收缩。"
+  },
+  {
+   "cn": "生活社区",
+   "en": "living community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "以居民日常居住为核心功能，融合生活、社交、休闲、服务等功能的综合性地域空间。其本质是通过物理空间与人文环境的有机结合，满足居民从“生存需求”到“生活品质”的多层次需求。"
+  },
+  {
+   "cn": "活法",
+   "en": "living law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.13",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "实际上支配社会生活的规范。自由法学派创始人欧根·埃利希提出的概念，如日常社会生活中完成的契约和交易，区别于国家实施的法律。"
+  },
+  {
+   "cn": "生活救助",
+   "en": "living assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "为保障公民的基本生存权，国家对生活在国家法定或地方法定最低生活保障标准之下的贫困家庭及个人进行现金、实物或服务等救助的社会救助制度。"
+  },
+  {
+   "cn": "生活水平",
+   "en": "living standards",
+   "source": "马克思主义",
+   "wordNumber": "03.0174",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在某一社会生产发展阶段中，居民用以满足物质、文化生活需要的社会产品和劳务的消费程度。又称生活程度。具体内容包括：居民的实际收入水平、消费水平和消费结构、劳动的社会条件和生产条件、社会服务的发达程度、闲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

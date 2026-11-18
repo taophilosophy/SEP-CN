@@ -1,0 +1,52 @@
+{
+ "key": "lesbianism",
+ "term": "lesbianism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:01:20+00:00",
+ "status": "ok",
+ "note": "variant=lesbianism; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "女同性恋者",
+   "en": "lesbian",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.018",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "具有只以女性为性爱对象的性倾向的女性个体。"
+  },
+  {
+   "cn": "女性同性恋",
+   "en": "lesbian",
+   "source": "行为医学名词",
+   "wordNumber": "12.02",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "对同性产生性欲和爱恋的女性。"
+  },
+  {
+   "cn": "女同性恋",
+   "en": "lesbian",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "有同性恋性取向的女性之间的恋爱和性行为。"
+  },
+  {
+   "cn": "性与性别多元群体",
+   "en": "lesbian, gay, bisexual, transgender, queer; sexual and gender diversity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "具有各种形式性倾向以及性别认同不同于出生性别的人群。通常用女同性恋（L）、男同性恋（G）、双性恋（B）、跨性别者（T）和酷儿（Q）的英文首字母缩写的组合来指代。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

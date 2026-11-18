@@ -1,0 +1,392 @@
+{
+ "key": "admissibility",
+ "term": "admissibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:12:06+00:00",
+ "status": "ok",
+ "note": "variant=admissibility; 审定公布名词库=49; 海峡两岸名词对照库=12; 其他来源数据库=5; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "进入许可",
+   "en": "admission",
+   "source": "风景园林名词",
+   "wordNumber": "03.0213",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "由国家授权有关行政主管部门，在建筑工程施工开始以前，对该项工程是否符合法定的开工必备条件进行审查，对符合条件的建筑工程发给施工许可证，允许该工程开工建设的制度。"
+  },
+  {
+   "cn": "容许差距",
+   "en": "admissible deviation ",
+   "source": "草学名词",
+   "wordNumber": "4.012",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "补气",
+   "en": "air admission",
+   "source": "电力名词",
+   "wordNumber": "16.122",
+   "subjectFullName": "电力_水电站机电设备",
+   "subjectName": "水电站机电设备",
+   "publishYear": "2020",
+   "definition": "通常是在水轮机带部分负荷时,尾水管发生涡带压力脉动,或其他水压脉动波动较激烈时,有时在过渡过程中,为了保持水轮机的正常稳定运行,向水轮机转轮或尾水管通入空气(自然补气)或压缩空气(强迫补气)的措施。"
+  },
+  {
+   "cn": "容许误差",
+   "en": "admissible error",
+   "source": "物理学名词",
+   "wordNumber": "01.0240",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "准入控制",
+   "en": "admission control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0964",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "为了保证由源产生的流量不会把网络性能降低到指定的QoS（服务质量）值之下，在网络边缘决定接受或拒绝进入网络的流量的过程。"
+  },
+  {
+   "cn": "开放招生",
+   "en": "open admission",
+   "source": "教育学名词",
+   "wordNumber": "08.161",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "高等学校招生制度之一。一般指持有规定的中学毕业证书或同等学力证明即可进入有关高等学校，无需再经任何考试选录的过程。"
+  },
+  {
+   "cn": "外进汽",
+   "en": "outside admission",
+   "source": "航海科技名词",
+   "wordNumber": "15.0341",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "内进汽",
+   "en": "inside admission",
+   "source": "航海科技名词",
+   "wordNumber": "15.0342",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "容许结构",
+   "en": "admissible structure",
+   "source": "数学名词",
+   "wordNumber": "02.0116",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "容许集",
+   "en": "admissible set",
+   "source": "数学名词",
+   "wordNumber": "02.0248",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "容许子群",
+   "en": "admissible subgroup",
+   "source": "数学名词",
+   "wordNumber": "04.1782",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "容许映射",
+   "en": "admissible mapping",
+   "source": "数学名词",
+   "wordNumber": "04.1239",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "容许函数",
+   "en": "admissible function",
+   "source": "数学名词",
+   "wordNumber": "05.0691",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "容许估计",
+   "en": "admissible estimate",
+   "source": "数学名词",
+   "wordNumber": "09.0567",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "容许检验",
+   "en": "admissible test",
+   "source": "数学名词",
+   "wordNumber": "09.0630",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "容许控制",
+   "en": "admissible control",
+   "source": "数学名词",
+   "wordNumber": "012.0380",
+   "subjectFullName": "数学_信息论_控制论_系统·控制（数学）",
+   "subjectName": "系统?控制（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可采纳解",
+   "en": "admissible solution",
+   "source": "数学名词",
+   "wordNumber": "011.0273",
+   "subjectFullName": "数学_运筹学_多目标规划",
+   "subjectName": "多目标规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "允许失真",
+   "en": "admissible distortion",
+   "source": "数学名词",
+   "wordNumber": "012.0156",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "容许序数",
+   "en": "admissible ordinal",
+   "source": "数学名词",
+   "wordNumber": "02.0246",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "容许误差",
+   "en": "admissible error",
+   "source": "自动化名词",
+   "wordNumber": "02.086",
+   "subjectFullName": "自动化科学技术_控制理论_经典控制论",
+   "subjectName": "经典控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "容许误差",
+   "en": "admissible error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "容许粗糙度",
+   "en": "admissible roughness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "货物暂准通关证制度",
+   "en": "admission temporary",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "临时批准免税进口",
+   "en": "temporary admission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "内进汽",
+   "en": "inside admission",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "外进汽",
+   "en": "outside admission",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "连接接纳控制",
+   "en": "connection admission control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进汽度",
+   "en": "degree of admission",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "部分进汽度",
+   "en": "degree of partial admission",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "容许误差",
+   "en": "admissible error\",\"tolerance error",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "容许误差",
+   "en": "admissible error，permissible error\",\"allowable error",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "准许免税输入商品",
+   "en": "admission of goods free of duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "准入控制",
+   "en": "admission control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "收治率",
+   "en": "patient admission rate",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "增强收治能力",
+   "en": "to raise the hospital admission capacity",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高收治率和治愈率、降低感染率和病亡率",
+   "en": "to improve the admission and cure rates and reduce the infection and fatality rates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "准入控制",
+   "en": "admission control",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医学教育人才市场",
+   "subjectName": "医学教育人才市场",
+   "publishYear": "2025",
+   "definition": "通过许可制度对医生、医疗机构和医学教育机构的数量和质量进行的控制。"
+  },
+  {
+   "cn": "住院率",
+   "en": "admission rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.14",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在一定期间内，因患某种疾病实际入院的人数占实际患病总人数的比率。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

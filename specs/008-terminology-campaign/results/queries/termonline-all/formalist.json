@@ -1,0 +1,192 @@
+{
+ "key": "formalist",
+ "term": "formalist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:08:04+00:00",
+ "status": "ok",
+ "note": "variant=formalist; 审定公布名词库=8; 海峡两岸名词对照库=5; 其他来源数据库=3; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.243",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "源于希尔伯特提议将数学对象看作没有任何指称的纯符号。形式主义把数学推理看作严格按照规则进行的符号转换。在当代数学基础研究中，形式主义者倾向于认为那些独立于公理集合论系统的数学命题是无意义的。"
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.096",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻真实",
+   "subjectName": "新闻真实",
+   "publishYear": "2022",
+   "definition": "注重表面超过内容，注重形式超过实效的思想和行为。在宣传方面表现为用程式化的会议，说空话、套话代替实际的工作；新闻方面表现为用花哨或煽情的词句和表演造势，替代对具体事实进行全面客观的交代。"
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "语言学名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "与“功能主义”相对。语言学的一种分析方法。从形式角度来分析语言，特别是生成分析追求的目标。指支配一种分析法的规则、原则、条件等能以精确和严格的方式界定。"
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "数学名词",
+   "wordNumber": "02.0308",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "道德形式主义",
+   "en": "moral formalism",
+   "source": "教育学名词",
+   "wordNumber": "01.199",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "德育理论中一种轻视道德的社会作用和效果的观点，强调在形式上履行道德规范。"
+  },
+  {
+   "cn": "数据形式化",
+   "en": "data formalism",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.459",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "数据的某种统一表达方式。"
+  },
+  {
+   "cn": "参数化后牛顿形式",
+   "en": "parameterized post-Newtonian formalism",
+   "source": "天文学名词",
+   "wordNumber": "02.310",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "包含10个参数的多体问题的一阶后牛顿时空度规。对不同的引力理论参数取不同的值，用于观测资料处理和引力理论检验。"
+  },
+  {
+   "cn": "扩展的普雷斯-谢克特形式",
+   "en": "extended Press-Schechter formalism",
+   "source": "天文学名词",
+   "wordNumber": "07.584",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种基于随机行走理论导出普雷斯-谢克特公式的方法。"
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "福尔马林",
+   "en": "formalin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "福尔马林",
+   "en": "formalin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数据形式化",
+   "en": "data formalism",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "巴克斯－诺尔论",
+   "en": "Backus-Naur formalism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式主义",
+   "en": "formalism",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反对“四风”",
+   "en": "oppose the “Four Forms of Decadence” (formalism, bureaucratism, hedonism, and extravagance)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "形式论",
+   "en": "formalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0155",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "认为主流经济学中理性人假设和利益最大化原则同样适用于人类学研究的学派观点，常与本质论对应。其特点是：以研究市场经济的西方经济学理论为基础，以其方法论作为方法论指导，有意识地将上诉理论和方法应用于非西方"
+  },
+  {
+   "cn": "福尔马林",
+   "en": "formalin",
+   "source": "消毒学",
+   "wordNumber": "2.1.8.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "含甲醛37%～40%的甲醛饱和水溶液。常加入8%～15%甲醇，以防止甲醛的聚合。"
+  },
+  {
+   "cn": "反对形式主义",
+   "en": "opposing formalism",
+   "source": "马克思主义",
+   "wordNumber": "04.0155",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在1992年的南方谈话中，针对当时会议多、文章长、讲话长，而且内容重复等诸多形式主义现象，强调形式主义也是官僚主义。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

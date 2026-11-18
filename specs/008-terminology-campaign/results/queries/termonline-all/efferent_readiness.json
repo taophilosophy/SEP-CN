@@ -1,0 +1,612 @@
+{
+ "key": "efferent readiness",
+ "term": "efferent readiness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:07:49+00:00",
+ "status": "ok",
+ "note": "variant=efferent readiness; 审定公布名词库=165; 海峡两岸名词对照库=64; 其他来源数据库=16; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "成熟度",
+   "en": "readiness",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0204",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "个体能够对自己的行为负责的能力大小及意愿程度。取决于两个要素：工作成熟度和心理成熟度。"
+  },
+  {
+   "cn": "准备",
+   "en": "readiness",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.004",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "输出小管",
+   "en": "efferent duct",
+   "source": "兽医学名词",
+   "wordNumber": "08.326",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "构成附睾头部的数条弯曲小管。管壁上皮由高柱状纤毛细胞和低柱状无纤毛细胞相间排列组成。高柱状纤毛细胞的摆动和管壁平滑肌的节律性收缩，可推动精子向附睾管方向移动。"
+  },
+  {
+   "cn": "传出神经元",
+   "en": "efferent neuron",
+   "source": "行为医学名词",
+   "wordNumber": "3.053",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2022",
+   "definition": "从中间神经元到效应器的传出神经通路。"
+  },
+  {
+   "cn": "出球微动脉",
+   "en": "efferent arteriole",
+   "source": "动物学名词",
+   "wordNumber": "3.0783",
+   "subjectFullName": "动物学_动物组织学_主要器官组织_泌尿器官组织结构",
+   "subjectName": "泌尿器官组织结构",
+   "publishYear": "2021",
+   "definition": "肾小体血管极的一条离开肾小囊的微动脉。由肾小球内毛细血管网汇合形成。"
+  },
+  {
+   "cn": "输出小管",
+   "en": "efferent duct",
+   "source": "动物学名词",
+   "wordNumber": "3.0864",
+   "subjectFullName": "动物学_动物组织学_主要器官组织_生殖器官组织结构",
+   "subjectName": "生殖器官组织结构",
+   "publishYear": "2021",
+   "definition": "从睾丸网发出的6～20条小管。构成附睾头部，末端与附睾管相连。其管壁上皮由单层立方细胞和纤毛柱状细胞交替排列而成，故管腔呈波浪状起伏不平。"
+  },
+  {
+   "cn": "传出神经",
+   "en": "efferent nerve",
+   "source": "手外科学名词",
+   "wordNumber": "05.0738",
+   "subjectFullName": "手外科学_手外科学分论_上肢周围神经",
+   "subjectName": "上肢周围神经",
+   "publishYear": "2020",
+   "definition": "将神经冲动自中枢传向周围的神经。"
+  },
+  {
+   "cn": "传出神经",
+   "en": "efferent nerve",
+   "source": "生理学名词",
+   "wordNumber": "03.137",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "出球微动脉",
+   "en": "efferent arteriole",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "16.054",
+   "subjectFullName": "组织学与胚胎学_组织学_泌尿系统",
+   "subjectName": "泌尿系统",
+   "publishYear": "2014",
+   "definition": "血管球毛细血管汇合形成的微动脉。离开肾小球。"
+  },
+  {
+   "cn": "传出神经元",
+   "en": "efferent neuron",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0012",
+   "subjectFullName": "人体解剖学_神经系统_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "与效应器相连，能将神经冲动由中枢传至效应器，从而支配肌肉运动和腺体分泌的神经元"
+  },
+  {
+   "cn": "输出小管",
+   "en": "efferent duct",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "17.076",
+   "subjectFullName": "组织学与胚胎学_组织学_男性生殖系统",
+   "subjectName": "男性生殖系统",
+   "publishYear": "2014",
+   "definition": "连接睾丸网的8～12条小管。呈螺旋状弯曲走行，组成附睾头的起始部。上皮由高柱状的纤毛细胞和低柱状的无纤毛细胞交替排列而成，故管腔呈波浪状起伏不平。高柱状细胞有分泌功能，低柱状细胞有吸收、消化作用。"
+  },
+  {
+   "cn": "传出神经元",
+   "en": "efferent neuron",
+   "source": "昆虫学名词",
+   "wordNumber": "04.094",
+   "subjectFullName": "昆虫学_昆虫内部构造",
+   "subjectName": "昆虫内部构造",
+   "publishYear": "2000",
+   "definition": "从神经节向外传导脉冲至肌肉或腺体的神经细胞。"
+  },
+  {
+   "cn": "入学准备",
+   "en": "school readiness",
+   "source": "教育学名词",
+   "wordNumber": "06.075",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "对幼儿在进入小学时应当达到的身心发展水平的期望，或指幼儿能够适应新的学习环境和任务要求的身心发展的水平与状态。"
+  },
+  {
+   "cn": "使用准备完好率",
+   "en": "operational readiness",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.006",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "准备完好率",
+   "en": "readiness rate",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.005",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "待机准备完好率",
+   "en": "standby readiness",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.007",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "技术准备完好率",
+   "en": "technical readiness",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.008",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "就绪状态",
+   "en": "ready state",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0438",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "进程生存周期中的一种状态。表示进程所需要的内存、外设等资源已经准备好，等待调度执行。"
+  },
+  {
+   "cn": "就绪时间",
+   "en": "ready time",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0150",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "工件可以开始加工的时间。"
+  },
+  {
+   "cn": "输出袢梗阻",
+   "en": "efferent loop obstruction",
+   "source": "普通外科学名词",
+   "wordNumber": "17.196",
+   "subjectFullName": "医学_普通外科学_胃与十二指肠外科",
+   "subjectName": "胃与十二指肠外科",
+   "publishYear": "2026",
+   "definition": "因炎症水肿、粘连压迫或扭曲成角等造成的吻合口远端输出袢内容物无法通过的病症。"
+  },
+  {
+   "cn": "就绪",
+   "en": "ready",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传出神经元",
+   "en": "efferent neuron",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "传出双极细胞",
+   "en": "efferent bipolar",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "传出突",
+   "en": "efferent process",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "传出纤维",
+   "en": "efferent fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "输出小管",
+   "en": "efferent ductule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "传出神经元",
+   "en": "efferent neuron",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "出球微动脉",
+   "en": "efferent arteriole",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "传出神经元",
+   "en": "efferent neuron",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "阅读准备",
+   "en": "reading readiness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "操作准备",
+   "en": "operational readiness",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "出球微动脉（=出球小动脉）",
+   "en": "efferent arteriole\",\"efferent glomerular arteriole",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "出球小动脉，出球微动脉",
+   "en": "efferent arteriole\",\"efferent glomerular arteriole",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "传出神经纤维",
+   "en": "efferent nerve fiber\",\"efferent neurofiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "输出淋巴管",
+   "en": "efferent lymphatic vessel\",\"efferent lymphatics",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "就绪状态",
+   "en": "ready state",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联合传入纤维",
+   "en": "united efferent fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "躯体传出纤维",
+   "en": "somatic efferent fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "输出淋巴管",
+   "en": "efferent lymphatic vessel",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "出鳃动脉",
+   "en": "efferent branchial artery",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "预备？",
+   "en": "Ready?",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！",
+   "en": "Ready!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "ready position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "position of readiness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备？",
+   "en": "Are you ready?",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！",
+   "en": "Joonbi! Ready stance!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备好了吗?",
+   "en": "Are you ready?",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开始姿势",
+   "en": "initial position\",\"ready position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备站姿",
+   "en": "attention stance\",\"ready stance\",\"pyeonhi seogi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世界经济论坛网络就绪指数",
+   "en": "World Economic Forum’s Networked Readiness Index (NRI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "“我将无我，不负人民。”",
+   "en": "I will work selflessly and live up to the expectations of the people. I will fully commit to my people and never fail the people. I am ready to set aside my own interests in service of the people. I will never seek my own good and never fail the people.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "以国为国，以天下为天下",
+   "en": "Rule a State or a Country with Different Methods",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因地因企因人分类帮扶",
+   "en": "to provide assistance specifically designed to suit different regions, enterprises and people",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "突出重点、统筹兼顾、分类指导、分区施策",
+   "en": "to focus on key issues, strengthen coordination, give sector-specific guidance, and apply targeted policies to different areas ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "即食鲜切果蔬",
+   "en": "ready-to-eat,fresh, pre-cut fruits and vegetable",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.3.4",
+   "subjectFullName": "食品卫生学_食品_蔬菜",
+   "subjectName": "蔬菜",
+   "publishYear": "2025",
+   "definition": "以新鲜的蔬菜、水果为原料，采用预处理、清洗、去皮或不去皮、切分或不切分、消毒、漂洗、去除表面水等处理，密封包装后经冷链储存运输，可直接入口食用的产品。"
+  },
+  {
+   "cn": "干部能上能下",
+   "en": "cadres should be ready to take a lower as well as a higher post",
+   "source": "马克思主义",
+   "wordNumber": "03.0508",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平针对我国干部实际上存在的能上不能下的状况所造成的难题提出的对策。1962年11月29日，他在接见参加组织工作会议和全国监察工作会议的同志时说：多少年来，我们对干部就是包下来，能上不能下。……唯一"
+  },
+  {
+   "cn": "上下联动",
+   "en": "coordination in healthcare at different level",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "不同级别、不同类别医疗机构建立目标明确、权责清晰的分工协作机制，作为分级诊疗模式之一，旨在促进优质医疗资源下沉，推动医疗资源合理配置和纵向流动。"
+  },
+  {
+   "cn": "不同军种和职业人群的健康教育",
+   "en": "health education for populations from different services and occupations",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.5.6",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "针对不同军种和职业人群进行的健康教育活动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

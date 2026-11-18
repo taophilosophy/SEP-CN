@@ -1,0 +1,62 @@
+{
+ "key": "epistemai",
+ "term": "epistêmai",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:10:57+00:00",
+ "status": "ok",
+ "note": "variant=epistêmai; 审定公布名词库=1; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "口上片",
+   "en": "epistoma",
+   "source": "昆虫学名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "昆虫学_昆虫外部形态",
+   "subjectName": "昆虫外部形态",
+   "publishYear": "2000",
+   "definition": "紧靠上唇的口缘或骨片。"
+  },
+  {
+   "cn": "口上片",
+   "en": "epistoma",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "额唇基",
+   "en": "frontoclypeus\",\"epistoma",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "额唇基沟",
+   "en": "frontoclypeal suture\",\"epistomal suture",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "口上沟(=额唇基沟)",
+   "en": "epistomal suture(= frontoclypeal suture)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

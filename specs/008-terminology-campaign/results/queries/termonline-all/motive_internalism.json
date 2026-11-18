@@ -1,0 +1,742 @@
+{
+ "key": "motive-internalism",
+ "term": "motive-internalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:23:29+00:00",
+ "status": "ok",
+ "note": "variant=motive-internalism; 审定公布名词库=3031; 海峡两岸名词对照库=1326; 其他来源数据库=264; 预公布名词数据库=176; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "内部求美动机",
+   "en": "internal aesthetic motivation",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.026",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "由人的内在需要引发的求美动机。"
+  },
+  {
+   "cn": "动机",
+   "en": "motive",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "直接决定一个人的行为和活动的内在原因或动力。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.197",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体行为的内在驱动力。一般与个体的内心安全需要和客观生存需要结合在一起。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "行为医学名词",
+   "wordNumber": "4.081",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "由目标或对象引导，激发和维持个体活动的一种内在心理过程或内部动力。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "生理学名词",
+   "wordNumber": "03.625",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "精神医学名词",
+   "wordNumber": "02.186",
+   "subjectFullName": "精神医学_症状与体征_意志行为障碍症状",
+   "subjectName": "意志行为障碍症状",
+   "publishYear": "2019",
+   "definition": "在社会活动过程中直接推动意志行为的力量。由内在需要和外界环境因素引起，是个体为何要达到目的的主观原因的反映。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "计划生育名词",
+   "wordNumber": "04.035",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "唤起、推动与维持行为去达到一定目标的内部动力。是人行为的直接原因。是促进人从事某种活动的念头或原因。"
+  },
+  {
+   "cn": "激励",
+   "en": "motivating",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0166",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "通过组织成员的需要、愿望、欲望等得到满足，来引导他们以组织或领导所期望的方式行事的管理职能。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0084",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "激发和维持个体活动并使活动朝向一定目标的内部动力。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "心理学名词",
+   "wordNumber": "02.736",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由目标或对象引导、激发和维持个体活动的一种内在心理过程或内部动力。"
+  },
+  {
+   "cn": "动机测试",
+   "en": "motive test",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0167",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "在招聘选拨中，对应聘者的动机倾向进行的测验。"
+  },
+  {
+   "cn": "消费者动机",
+   "en": "consumer motive",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0188",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "足够强烈的消费者需要。其促使消费者去寻求满足该需要，需要被唤醒到足够的强度水平就形成了动机。"
+  },
+  {
+   "cn": "帕拉第奥券柱式",
+   "en": "Palladian motive",
+   "source": "建筑学名词",
+   "wordNumber": "03.0294",
+   "subjectFullName": "建筑学_中外建筑历史_外国19世纪末叶以前建筑",
+   "subjectName": "外国19世纪末叶以前建筑",
+   "publishYear": "2014",
+   "definition": "由文艺复兴著名建筑师帕拉第奥在改建维琴察巴西利卡中首创。他在原有的柱间插入两小柱，在小柱上发券，获得了良好的券柱效果，并且由于大、小柱并存，加强了建筑的空间、层次感，丰富了建筑形象。"
+  },
+  {
+   "cn": "购买动机调查",
+   "en": "motivation research",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.019",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "探求读者在选定出版物过程中自己未曾意识到的动机的市场调查。"
+  },
+  {
+   "cn": "消费者动机",
+   "en": "consumer motivation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.169",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "消费者购买并消费商品时最直接的原因和动力。"
+  },
+  {
+   "cn": "遵从动机",
+   "en": "compliance motivation",
+   "source": "行为医学名词",
+   "wordNumber": "2.084",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "一种以符合他人要求或团体规定为目标的动机。表明个体对重要他人期望的遵从程度。"
+  },
+  {
+   "cn": "动机类型",
+   "en": "motivation type",
+   "source": "行为医学名词",
+   "wordNumber": "4.086",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "根据动机的性质、作用、来源及需要，动机可分为不同的类型。包括生理动机、社会动机、原始动机、习得动机、有意识动机、无意识动机、内在动机、外在动机等。"
+  },
+  {
+   "cn": "生理动机",
+   "en": "physiological motivation",
+   "source": "行为医学名词",
+   "wordNumber": "4.087",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "有机体与生俱来的以自身生物学需要为基础，具有原始性、自发性且为人和动物所共有的动机。如饥饿、渴、母性和性欲等。"
+  },
+  {
+   "cn": "社会动机",
+   "en": "social motivation",
+   "source": "行为医学名词",
+   "wordNumber": "4.088",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "以人的社会文化需要为基础产生的动机。如交往动机、成就动机、权力动机等。"
+  },
+  {
+   "cn": "原始动机",
+   "en": "primary motivation",
+   "source": "行为医学名词",
+   "wordNumber": "4.089",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "以人的本能需要为基础，与生俱来的不需要经过学习而获得的动机。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation\",\"motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "匮乏性动机",
+   "en": "deficiency motivation\",\"deficiency motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主导动机",
+   "en": "leading motive",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "竞争动机",
+   "en": "competitive motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作动机",
+   "en": "cooperative motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意识动机",
+   "en": "unconscious motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "激励理论",
+   "en": "motivation theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "犯罪动机",
+   "en": "criminal motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动机性遗忘",
+   "en": "motivated forgetting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在动机",
+   "en": "being motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生物性动机",
+   "en": "biological motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外在激励",
+   "en": "extrinsic motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亲和动机",
+   "en": "affiliation motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成长动机",
+   "en": "growth motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动机研究",
+   "en": "motivational research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就动机",
+   "en": "achievement motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内在激励",
+   "en": "intrinsic motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会动机",
+   "en": "social motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境动机",
+   "en": "situational motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动机过程",
+   "en": "motivational process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内部创业",
+   "en": "internal entrepreneurship",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准",
+   "en": "International Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际仲裁委员会",
+   "en": "international jury",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际级",
+   "en": "international class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际劳工组织",
+   "en": "International Labour Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际电信联盟",
+   "en": "International Telecommunication Union",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融公司",
+   "en": "International Finance Corporation",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际开发协会",
+   "en": "International Development Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际货币基金 组织",
+   "en": "International Monetary Fund",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际奥林匹克 委员会",
+   "en": "International Olympic Committee",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际能源署",
+   "en": "International Energy Agency",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际残疾人奥林匹克委员会",
+   "en": "International Paralympic Committee",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会动机",
+   "en": "social motivation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.12.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会动机与需要",
+   "subjectName": "社会动机与需要",
+   "publishYear": "2025",
+   "definition": "一种继发性、习得性和心理性动机，指个体经由后天学习而获得的，以社会文化需要为基础的动机。"
+  },
+  {
+   "cn": "学习动机",
+   "en": "learning motivation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.2",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "激发个体启动、维持学习活动，并使其朝向特定的学习目标的一种内部动力机制。"
+  },
+  {
+   "cn": "终末激发",
+   "en": "terminal motivation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮质在持续较长时间的功能活动后，兴奋性逐渐降低，但即将结束工作任务的喜悦可反射性引起大脑皮质一过性兴奋性增高的现象。"
+  },
+  {
+   "cn": "成名动机",
+   "en": "motivation for fame",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家为了实现伟大的科学发现或为了推进科学研究及发展，以获得相应声誉而持有的抱负。通常表现为科学家为此目的而希望在其事业和工作业绩方面有所成就。"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "个体经过一定形式的学习，将某些社会意识、道德规范等观念体系转化为个体心理结构的过程。是个体对外界文化的一种适应过程。法国社会学家涂尔干(Emile Durkheim)最早提出，指社会意识向个体意识的转"
+  },
+  {
+   "cn": "经济利益驱动掺假",
+   "en": "economic motivated adulteration，EMA",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.18",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "卖方以欺诈手段添加虚假物质，去除或替代真实物质，但不告知买方，以谋取经济利益的行为。即为了增加食品产品的表观价值或降低生产成本而在产品中欺骗性地、故意替代或添加物质。"
+  },
+  {
+   "cn": "新民主主义革命的动力",
+   "en": "motive forces of newdemocratic revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0330",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工人阶级、农民阶级、城市小资产阶级和民族资产阶级是新民主主义革命的动力，而根本的动力是工人和农民。"
+  },
+  {
+   "cn": "内照射",
+   "en": "internal exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "放射性核素进入机体内，对机体组织产生的照射。"
+  },
+  {
+   "cn": "国际标准",
+   "en": "international standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "国际标准化组织（ISO）、国际电工委员会（IEC）和国际电信联盟（ITU）制定的标准，以及国际标准化组织确认并公布的其他国际组织制定的标准。"
+  },
+  {
+   "cn": "内在效度",
+   "en": "internal validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "研究者从某一经验研究的结果中进行因果推论的信心。"
+  },
+  {
+   "cn": "内在本质",
+   "en": "internal essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0063",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在表现”相对。事物因内部矛盾的决定作用在发生、发展、变化过程中所表现的内部联系性和客观形式。"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0075",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在联系”相对。是事物之间存在固有的、本质的、必然性的关联，对事物性质具有决定作用。"
+  },
+  {
+   "cn": "内在对立",
+   "en": "internal opposition",
+   "source": "马克思主义",
+   "wordNumber": "01.0085",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "处于同一体中的矛盾双方相互排斥、相互反对、相互否定的属性。它体现着矛盾双方相互分离的趋势。"
+  },
+  {
+   "cn": "国际价值",
+   "en": "international value",
+   "source": "马克思主义",
+   "wordNumber": "02.0286",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界市场上商品的价格以国际价值为基础。商品的国际价值本质上也是无差别的人类劳动的凝结，商品的国际价值量是由世界范围的平均必要劳动决定的。"
+  },
+  {
+   "cn": "第一国际",
+   "en": "First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0398",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "第一个无产阶级国际联合组织。1964年9月28日,为了抗议沙皇俄国对波兰人民起义的血腥镇压,英、法、德、意、波兰等国工人代表在伦敦圣马丁会堂举行国际工人会议，马克思应邀出席会议。第一国际当时的名称是国"
+  },
+  {
+   "cn": "第二国际",
+   "en": "Second International",
+   "source": "马克思主义",
+   "wordNumber": "04.0401",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继第一国际之后建立的第二个世界无产阶级国际组织，是在19世纪80年代工人运动新高涨、马克思主义广泛传播和各国无产阶级政党普遍建立的形势下于1889年在巴黎建立的。第二国际成立初期与各国党内和国际内的无"
+  },
+  {
+   "cn": "第三国际",
+   "en": "Third International",
+   "source": "马克思主义",
+   "wordNumber": "04.0414",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第一次世界大战后出现了新的国际形势，需要建立一个新的国际来领导无产阶级革命。1919年3月2—6日，共产国际（第三国际）在莫斯科举行了第一次代表（成立）大会，大会通过了列宁起草的《共产国际宣言》、《共"
+  },
+  {
+   "cn": "第二半国际",
+   "en": "TwoandaHalf International",
+   "source": "马克思主义",
+   "wordNumber": "04.0416",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1919年伯尔尼国际和第三国际相继成立，未加入上述两个国际组织的英国独立工党、法国社会党、德国独立社会民主党等13个“中派”政党和集团于1921年2月22—27日在奥地利首都维也纳召开了国际社会党代表"
+  },
+  {
+   "cn": "第四国际",
+   "en": "Fourth international",
+   "source": "马克思主义",
+   "wordNumber": "04.0423",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1938年9月在列夫·托洛茨基亲自筹划下建立的托派国际性联合组织。主张实行“不断革命”和“世界革命”，建立“世界社会主义联邦”。“二战”期间曾遭受镇压，面临瓦解。20世纪60年代末70年代初达到鼎盛时"
+  },
+  {
+   "cn": "伯尔尼国际",
+   "en": "Berne International",
+   "source": "马克思主义",
+   "wordNumber": "04.0424",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在第一次世界大战中破产了的第二国际各国社会民主党右翼，于1919年2月3—10日在瑞士伯尔尼召开国际代表会议，会议作出了恢复第二国际的决议，通过了支持国际联盟的决议和反对无产阶级专政的决议。这个复活了"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,752 @@
+{
+ "key": "reafferent visual stimulation",
+ "term": "reafferent visual stimulation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:26:52+00:00",
+ "status": "ok",
+ "note": "variant=reafferent visual stimulation; 审定公布名词库=1865; 海峡两岸名词对照库=527; 其他来源数据库=95; 预公布名词数据库=69; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "视听性刺激勃起功能检测",
+   "en": "audio-visual sexual stimulation;AVSS",
+   "source": "生殖医学名词",
+   "wordNumber": "5.039",
+   "subjectFullName": "生殖医学_不孕不育诊断与治疗技术_不孕不育诊断技术",
+   "subjectName": "不孕不育诊断技术",
+   "publishYear": "2022",
+   "definition": "一种清醒状态下结合视听刺激进行的无创性勃起功能检查方式。通过视听材料刺激诱发勃起，常在振动刺激、海绵体血管活性药物注射、口服药物等后应用，可增加阴茎的勃起反应。"
+  },
+  {
+   "cn": "刺激[作用]",
+   "en": "stimulation",
+   "source": "生理学名词",
+   "wordNumber": "02.304",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "激励式仿真系统",
+   "en": "stimulative stimulation system",
+   "source": "电力名词",
+   "wordNumber": "12.220",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "在仿真系统中采用了与参考机组相同的全部或部分实际控制设备的仿真系统。"
+  },
+  {
+   "cn": "兴奋剂",
+   "en": "stimulant",
+   "source": "兽医学名词",
+   "wordNumber": "17.041",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "能使机体器官、组织的生理、生化功能增强的药物。"
+  },
+  {
+   "cn": "中枢兴奋剂",
+   "en": "stimulant",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.152",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_药物治疗",
+   "subjectName": "药物治疗",
+   "publishYear": "2022",
+   "definition": "一类具有中枢刺激作用的药物。能够暂时驱走睡意并恢复精力，用以治疗嗜睡、维持警觉状态。"
+  },
+  {
+   "cn": "激醒",
+   "en": "stimulate",
+   "source": "行为医学名词",
+   "wordNumber": "11.121",
+   "subjectFullName": "行为医学_睡眠_觉醒障碍_激醒",
+   "subjectName": "激醒",
+   "publishYear": "2022",
+   "definition": "用兴奋性物质使机体清醒或激动。"
+  },
+  {
+   "cn": "兴奋剂",
+   "en": "stimulant",
+   "source": "精神医学名词",
+   "wordNumber": "03.066",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "一种增加有机体或有机体某一部分功能活性的制剂。可按照躯体系统、功用或涉及的制剂分类。中枢神经系统兴奋剂包括回苏剂(如士的宁、印防己毒素)和拟交感胺类(如苯丙胺、可卡因)。"
+  },
+  {
+   "cn": "兴奋剂",
+   "en": "stimulant",
+   "source": "药学名词",
+   "wordNumber": "09.049",
+   "subjectFullName": "药学_药事管理",
+   "subjectName": "药事管理",
+   "publishYear": "2014",
+   "definition": "能提高运动员运动成绩而服用的对人体有害的，国际禁用的药物。"
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.115",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "用于创建图形、图像或动画，以便交流沟通信息的任何技术和方法。"
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "地球物理学名词",
+   "wordNumber": "10.0066",
+   "subjectFullName": "地球物理学_地球物理信息学_地球物理信息学",
+   "subjectName": "地球物理信息学",
+   "publishYear": "2022",
+   "definition": "利用计算机图形学和图像处理技术，将数据转换成图形或图像并在屏幕上显示，可以进行交互处理的工作。 "
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0673",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "利用计算机图形和图像处理技术，将数据转换成图形或图像在屏幕上显示出来，并进行交互处理，以增强人类对这些数据所蕴含现象或规律的理解和认知。"
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.268",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "将抽象的数据符号化表示的计算和处理方法，使用户能看见所模拟和计算的结果。"
+  },
+  {
+   "cn": "电加速发光",
+   "en": "electric stimulation,electrical stimulation",
+   "source": "光学名词",
+   "wordNumber": "04.007",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "磷光体受激发后置于电场中产生加速发光的现象。"
+  },
+  {
+   "cn": "目测",
+   "en": "visual measurement,visual observation",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.1045",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "皮质刺激",
+   "en": "cortical stimulation",
+   "source": "神经外科学名词",
+   "wordNumber": "10.146",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_功能神经外科相关诊疗技术",
+   "subjectName": "功能神经外科相关诊疗技术",
+   "publishYear": "2026",
+   "definition": "利用放置在大脑皮质上的刺激电极，通过调节不同的刺激参数刺激大脑皮质，发挥神经调控的作用。"
+  },
+  {
+   "cn": "兴奋试验",
+   "en": "stimulation test",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.100",
+   "subjectFullName": "总论_内分泌代谢性疾病诊断与治疗",
+   "subjectName": "内分泌代谢性疾病诊断与治疗",
+   "publishYear": "2025",
+   "definition": "通过特定刺激引起相应靶腺分泌激素，根据靶腺分泌激素的峰值及出现时间判断靶腺功能和储备能力的试验。"
+  },
+  {
+   "cn": "性刺激",
+   "en": "sexual stimulation",
+   "source": "男科及性医学名词",
+   "wordNumber": "18.011",
+   "subjectFullName": "男科及性医学_性反应与性功能",
+   "subjectName": "性反应与性功能",
+   "publishYear": "2023",
+   "definition": "能够引发、增强和保持性唤起，并可能导致性高潮的身体或非身体刺激。通常指对生殖器官的刺激，也包括对身体其他部位的刺激，以及触觉之外（如视觉、听觉、嗅觉等）感觉性或精神性（如性幻想）的刺激等，但性高潮通常"
+  },
+  {
+   "cn": "呼吸刺激",
+   "en": "respiratory stimulation",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.143",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠生理基础",
+   "subjectName": "睡眠生理基础",
+   "publishYear": "2022",
+   "definition": "通过直接刺激延髓呼吸中枢，或刺激外周和中枢化学感受器而兴奋呼吸中枢的行为或事件。"
+  },
+  {
+   "cn": "固有刺激法",
+   "en": "inherent stimulation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.281",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "由李奥·贝纳(Leo Burnett)提出。广告创意最重要的任务是把固有的刺激发掘出来并加以利用，也即要发现厂家生产这种产品的“原因”以及消费者购买这种产品的“原因”。"
+  },
+  {
+   "cn": "磁加速发光",
+   "en": "magnetic stimulation",
+   "source": "光学名词",
+   "wordNumber": "04.025",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "受激发的磁光体置于磁场中时，强度增加的发光现象。"
+  },
+  {
+   "cn": "刺激作用",
+   "en": "stimulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "兴奋",
+   "en": "stimulation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可视化",
+   "en": "visualization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远端刺激",
+   "en": "distal stimulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "控制刺激",
+   "en": "controlled stimulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我刺激",
+   "en": "self stimulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激单性结实",
+   "en": "stimulative parthenocarpy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "刺激因子",
+   "en": "stimulating factor",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "激流装置",
+   "en": "turbulence stimulator",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "受激发射",
+   "en": "stimulated emission",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "受激辐射",
+   "en": "stimulated radiation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "助食素,激食物质",
+   "en": "feeding stimulant",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "受激发射",
+   "en": "stimulated emission",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "受激吸收",
+   "en": "stimulated absorption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "促性腺激素兴奋药",
+   "en": "gonadotrophin stimulant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸兴奋药",
+   "en": "respiration stimulant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "子宫兴奋药",
+   "en": "uterus stimulant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "产卵刺激素",
+   "en": "oviposition stimulant",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "视角",
+   "en": "visual angle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "可视化分析",
+   "en": "visual analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视觉编码",
+   "en": "visual coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可视密码",
+   "en": "visual cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视觉信号",
+   "en": "visual signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据可视化",
+   "en": "data visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学可视化",
+   "en": "scientific visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息可视化",
+   "en": "information visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流场可视化",
+   "en": "flow visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体可视化",
+   "en": "volume visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "IEEE第8届国际可视化学术会议",
+   "en": "IEEE Visualization’97 Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据可视化分析",
+   "en": "Data Visualization Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络态势可视化",
+   "en": "network situation visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市画像",
+   "en": "visualized urban data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人视觉自联想",
+   "en": "robot visual auto-association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "影像民族志",
+   "en": "visual ethnography",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "一种以视觉符号为主要表现手段的人类学文本及话语形式。影视民族志以人类学田野工作和电影语言作为两翼，致力于有人类学田野及伦理支撑的影视作品的生产。"
+  },
+  {
+   "cn": "视觉发育",
+   "en": "visual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "将视觉信息传入大脑，理解周围世界，获取周围环境的信息能力随年龄增长的发展变化过程。视觉系统功能出生后3年内基本发育成熟。"
+  },
+  {
+   "cn": "视力",
+   "en": "visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "眼睛所能够分辨的外界两个点间的最小距离的能力，通常以视角的倒数来表示。视角越小，表示分辨能力越好。"
+  },
+  {
+   "cn": "视力残疾",
+   "en": "visual disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视力损失或视野缩小，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视觉测评",
+   "en": "visual assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.24",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "应用视觉心理物理学检查（如视力、视野、色觉、暗适应、立体视觉、对比敏感度等）及视觉电生理检查进行评估的过程。"
+  },
+  {
+   "cn": "影视民族志",
+   "en": "visual ethnography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0268",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以影视人类学为学科基础的田野作业与文化表达体系。影视民族志不仅能形象地展示社会文化群体的整体性文化样貌，对于其政治结构、经济体系、亲属制度、宗教信仰等人类学研究的传统分支领域进行深度描述，还可运用视听"
+  },
+  {
+   "cn": "影视人类学",
+   "en": "visual anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0265",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以影像和影视手段表现文化人类学（民族学）原理，记录、展示和诠释一个民族或族群的文化或尝试建立跨文化比较的交叉学科。"
+  },
+  {
+   "cn": "裸眼视力",
+   "en": "uncorrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "未矫正视力，未经任何光学镜片矫正所测得的视力，包括裸眼远视力和裸眼近视力。"
+  },
+  {
+   "cn": "日常生活视力",
+   "en": "presenting visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在日常屈光状态下的视力。平时未戴眼镜者，为裸眼视力；平时戴眼镜者，则为戴眼镜状态下所测得视力；如已配眼镜但日常生活中并不戴用，则仍以裸眼视力反映。"
+  },
+  {
+   "cn": "视力残疾鉴定",
+   "en": "visual disability identification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "确定视力残疾的原因、类型、程度的活动。"
+  },
+  {
+   "cn": "视敏度残疾",
+   "en": "visual acuity disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视敏度损失，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视觉残疾",
+   "en": "visual sense disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的形觉、色觉、光觉、调节和辐辏等视觉损失，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视野残疾",
+   "en": "visual field disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视野缩小，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "视力残疾分类",
+   "en": "visual disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按导致视力残疾的原因以及视力残疾的程度对视力残疾类型的划分。"
+  },
+  {
+   "cn": "视力残疾分级",
+   "en": "visual disability grade",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "根据视力损伤程度和视野大小，对视力残疾划分的等级。"
+  },
+  {
+   "cn": "本顿视觉保留",
+   "en": "Benton visual retention",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.6",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "一种短时视觉记忆测验，只利用其几何图形识别部分而省去运动反应分，评价受试者视感知/记忆能力。"
+  },
+  {
+   "cn": "视力残疾一级",
+   "en": "visual disability grade Ⅰ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "双眼无光感，或最佳校正视力<0.02，或视野半径<5度。"
+  },
+  {
+   "cn": "视力残疾二级",
+   "en": "visual disability grade Ⅱ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "0.02≤双眼最佳校正视力<0.05,或视野半径<10度。"
+  },
+  {
+   "cn": "视力残疾三级",
+   "en": "visual disability grade Ⅲ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "0.05≤双眼最佳校正视力<0.1。"
+  },
+  {
+   "cn": "视力残疾四级",
+   "en": "visual disability grade Ⅳ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "0.1≤双眼最佳校正视力<0.3。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

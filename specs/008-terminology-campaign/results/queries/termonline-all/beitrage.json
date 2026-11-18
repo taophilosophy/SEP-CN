@@ -1,0 +1,22 @@
+{
+ "key": "beitrage",
+ "term": "Beiträge",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:26:02+00:00",
+ "status": "ok",
+ "note": "variant=Beiträge; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "Si₁₋ₓGeₓ/Si异质结构材料",
+   "en": "Si₁₋ₓGeₓ/Si heterojunction materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "06.0405",
+   "subjectFullName": "材料科学技术_半导体材料_硅基半导体材料",
+   "subjectName": "硅基半导体材料",
+   "publishYear": "2011",
+   "definition": "由硅 - 锗合金和硅构成的Si₁₋ₓGeₓ/Si异质结构的材料。其性能优异并具有重要的应用价值，被认为是“第二代硅”材料。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

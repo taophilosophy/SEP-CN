@@ -1,0 +1,772 @@
+{
+ "key": "diagonal intension",
+ "term": "diagonal intension",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:07:00+00:00",
+ "status": "ok",
+ "note": "variant=diagonal intension; 审定公布名词库=1314; 海峡两岸名词对照库=307; 其他来源数据库=43; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "斜剖线",
+   "en": "diagonal",
+   "source": "船舶工程名词",
+   "wordNumber": "02.155",
+   "subjectFullName": "船舶工程_船舶总体",
+   "subjectName": "船舶总体",
+   "publishYear": "1998",
+   "definition": "斜交于基面和中线面，但垂直于中站面的斜平面与船体型表面的交线。"
+  },
+  {
+   "cn": "对角线",
+   "en": "diagonal",
+   "source": "数学名词",
+   "wordNumber": "08.0113",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对角化",
+   "en": "diagonalization",
+   "source": "物理学名词",
+   "wordNumber": "01.0444",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对角线方法",
+   "en": "diagonalization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0152",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种函数构造方法，它针对一个给定的函数序列，比如 {f(n)} ，构造函数 f 使得对每一个 n ， f 和<img src='/root/syzx/static/spz/jsjkx3.02.0152"
+  },
+  {
+   "cn": "对角[线]化",
+   "en": "diagonalization",
+   "source": "数学名词",
+   "wordNumber": "010.0400",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对角线方法",
+   "en": "diagonal argument,diagonal method",
+   "source": "数学名词",
+   "wordNumber": "02.0219",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "斜节理",
+   "en": "diagonal joint",
+   "source": "地质学名词",
+   "wordNumber": "09.05.037",
+   "subjectFullName": "地质学_构造地质学_中、小尺度面状、线状构造",
+   "subjectName": "中、小尺度面状、线状构造",
+   "publishYear": "2026",
+   "definition": "(1)与岩层走向或褶皱轴向斜交的节理。(2)岩浆岩中与流线、流面均斜交的原生节理，又称“D节理”“边缘节理”。"
+  },
+  {
+   "cn": "对边测量",
+   "en": "diagonal measurement",
+   "source": "风景园林名词",
+   "wordNumber": "08.0044",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程测量",
+   "subjectName": "风景园林工程测量",
+   "publishYear": "2025",
+   "definition": "对一个角对面的那条边的测量。比如∠A的对边就是BC，∠B的对边就是AC，∠C的对边就是AB。是全站仪的一种专项测量功能，可以间接测量两个不可通视点之间的水平距离。"
+  },
+  {
+   "cn": "角脊",
+   "en": "diagonal ridge",
+   "source": "风景园林名词",
+   "wordNumber": "07.0392",
+   "subjectFullName": "风景园林_风景园林建筑_瓦作",
+   "subjectName": "瓦作",
+   "publishYear": "2025",
+   "definition": "重檐屋面，下檐瓦面的坡面转折处，沿角梁方向所做的脊。"
+  },
+  {
+   "cn": "对角线电泳",
+   "en": "diagonal electrophoresis",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0146",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_电泳技术",
+   "subjectName": "电泳技术",
+   "publishYear": "2024",
+   "definition": "用于分析混合物中特定组分经化学或物理处理后变化的双向电泳技术。样品经第一次电泳分离后，进行化学或光处理，再以与第一次电泳垂直方向进行第二次电泳分离。经过处理未被修饰的组分将皆位于电泳图谱的对角线上。如"
+  },
+  {
+   "cn": "对角剃齿",
+   "en": "diagonal shaving",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.188",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_切削加工工艺_典型表面加工_齿面加工",
+   "subjectName": "齿面加工",
+   "publishYear": "2021",
+   "definition": "刀具沿工件轴向和切向同时进给进行剃齿的方法。"
+  },
+  {
+   "cn": "弯管目镜",
+   "en": "diagonal eyepiece",
+   "source": "测绘学名词",
+   "wordNumber": "02.450",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "带有转向棱镜以改变目视方向的目镜。用于经纬仪进行大倾角测量时的附件。"
+  },
+  {
+   "cn": "斜缝浇筑",
+   "en": "diagonal pouring",
+   "source": "电力名词",
+   "wordNumber": "15.091",
+   "subjectFullName": "电力_水电站施工",
+   "subjectName": "水电站施工",
+   "publishYear": "2020",
+   "definition": "上、下游块的接合面呈倾向下游的斜面,必须先浇上游块再浇下游块,为斜柱体浇筑。斜缝施工比纵缝麻烦,因缝面的剪力很小,故有的斜缝不做灌浆处理。"
+  },
+  {
+   "cn": "斜流式水泵水轮机",
+   "en": "diagonal pumpturbine",
+   "source": "电力名词",
+   "wordNumber": "16.026",
+   "subjectFullName": "电力_水电站机电设备",
+   "subjectName": "水电站机电设备",
+   "publishYear": "2020",
+   "definition": "与常规斜流式水轮机流道与结构形式相似的可逆式水轮机,斜流可逆式通常采用转桨式。"
+  },
+  {
+   "cn": "角联网路",
+   "en": "diagonal network",
+   "source": "冶金学名词",
+   "wordNumber": "02.0928",
+   "subjectFullName": "冶金学_采矿_矿山安全及环境工程",
+   "subjectName": "矿山安全及环境工程",
+   "publishYear": "2019",
+   "definition": "在并联风道间将有联络的风道相互连接起来的风网络。"
+  },
+  {
+   "cn": "斜角带",
+   "en": "diagonal band",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "02.083",
+   "subjectFullName": "阿尔茨海默病_脑解剖学",
+   "subjectName": "脑解剖学",
+   "publishYear": "2019",
+   "definition": "一束从隔区向前脑底部下行的白质纤维束。位于终板的前方，再向后穿过腹侧纹状体与视束平行，到达杏仁核以前消失。"
+  },
+  {
+   "cn": "对角元",
+   "en": "diagonal element",
+   "source": "物理学名词",
+   "wordNumber": "01.0438",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对角矩阵",
+   "en": "diagonal matrix",
+   "source": "物理学名词",
+   "wordNumber": "01.0434",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对角支",
+   "en": "diagonal branch",
+   "source": "核医学名词",
+   "wordNumber": "04.0423",
+   "subjectFullName": "核医学_临床核医学_心血管系统核医学_心血管解剖生理基础",
+   "subjectName": "心血管解剖生理基础",
+   "publishYear": "2018",
+   "definition": "冠状动脉左前降支的主要分支。供应左心室前壁。"
+  },
+  {
+   "cn": "斜向体层",
+   "en": "diagonal tomography",
+   "source": "核医学名词",
+   "wordNumber": "03.0526",
+   "subjectFullName": "核医学_核医学设备与操作_显像技术",
+   "subjectName": "显像技术",
+   "publishYear": "2018",
+   "definition": "与人体轴线成一定角度的体层。"
+  },
+  {
+   "cn": "斜剖线",
+   "en": "diagonal\",\"diagonal line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对角化[方法]",
+   "en": "diagonalization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜距法",
+   "en": "diagonal offsetting\",\"diagonal setting",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "斜角带",
+   "en": "diagonal band",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "对角线层析",
+   "en": "diagonal chromatography",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "对角线电泳",
+   "en": "diagonal electrophoresis",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "对角目镜",
+   "en": "diagonal eyepiece",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "对角线测试",
+   "en": "diagonal test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分块对角矩阵",
+   "en": "block diagonal matrix",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对角线形号角天线",
+   "en": "diagonal horn antenna",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜置式内燃机",
+   "en": "inclined engine\",\"diagonal engine",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "斜角带核",
+   "en": "nucleus of diagonal band",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "意向",
+   "en": "intension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集约的",
+   "en": "intensive",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "光亮度",
+   "en": "intensity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光强度",
+   "en": "light intensity\",\"luminous intensity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "辐射强度",
+   "en": "radiation intensity\",\"radiant intensity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强度",
+   "en": "intensity\",\"strength",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对角",
+   "en": "diagonal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜传",
+   "en": "diagonal pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜传",
+   "en": "diagonal pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对角防守",
+   "en": "diagonal parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜传",
+   "en": "diagonal pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜对肢",
+   "en": "diagonal pair",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在对角线",
+   "en": "on the diagonal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集约文化",
+   "en": "intensive culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症监护室",
+   "en": "intensive care unit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型科学",
+   "en": "Data-Intensive Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贸易服务集约",
+   "en": "intensive trade service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型科学范式",
+   "en": "data-intensive scientific paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症监护病房/重症监护病区",
+   "en": "intensive care unit (ICU)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发纤秾于简古，寄至味于淡泊",
+   "en": "Intricacy Within Plainness, and Intensity Beneath Quietude",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多强度诱骗态调制方案（中国）",
+   "en": "Multi-intensity Decoy State Modulation Scheme (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应对气候变化与国家自主行动",
+   "en": "addressing climate change and intended national actions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "紫外线强度",
+   "en": "ultraviolet intensity",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.8",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "单位时间内与紫外线传播方向垂直的单位面积上接收到的紫外线能量。单位以微瓦每平方厘米（μW/cm2）、瓦每平方米（W/m2）表示。"
+  },
+  {
+   "cn": "劳动强度",
+   "en": "labor intensity",
+   "source": "马克思主义",
+   "wordNumber": "02.0138",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工作日的长度表示劳动力支出的外延的量，而劳动强度则表示其内含的量。它是一定时间内所进行的劳动的密度，反映单位劳动时间内实际耗费的劳动的数量指标。"
+  },
+  {
+   "cn": "运动强度",
+   "en": "exercise intensity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "反映机体在运动过程中用力的大小和机体紧张度的一个指标。是决定运动量的主要因素，是运动处方的核心部分。"
+  },
+  {
+   "cn": "危险强度",
+   "en": "risk intensity",
+   "source": "社会医学名词",
+   "wordNumber": "7.4.1",
+   "subjectFullName": "健康管理",
+   "subjectName": "群体健康评价",
+   "publishYear": "2025",
+   "definition": "计算某一单项危险因素去除后，人群增长年龄与评价年龄之差的平均数，反映了某一危险因素对人群健康影响的严重程度。"
+  },
+  {
+   "cn": "文化强度",
+   "en": "culture intensity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0549",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家克罗伯（Alfred L. Kroeber）提出的概念。它指的是文化达到并维持文化水平的程度，强度较大的文化是那些文化特征清楚、制度和关系明确的文化。一种文化的高峰是该文化区内的中心，这个"
+  },
+  {
+   "cn": "精耕农业",
+   "en": "intensive farming",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.017",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在一定面积的土地上，投入较多的生产资料、劳动和技术，进行细致的土地耕作方式，最大限度提高单位面积产量，充分发挥土地潜力的农业经营方式。"
+  },
+  {
+   "cn": "强光照射试验",
+   "en": "intense light test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "测定消毒剂经规定光照条件后稳定性的试验。一般新有效成分消毒剂应进行此项试验。"
+  },
+  {
+   "cn": "紫外线强度指示卡",
+   "en": "ultraviolet intensity indicator card",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.9",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "现场监测紫外线强度的由卡片纸、紫外线感光色块和标准色组成的化学指示物。在紫外线照射下，指示卡上的特殊材料会发生化学反应，产生颜色变化，颜色的深浅程度与紫外线辐照的总剂量具有强相关性。"
+  },
+  {
+   "cn": "低强度身体活动",
+   "en": "low-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "相当于1.5～4个代谢当量，即能量消耗为个体静态能量消耗1.5～4倍的活动，包括步行、洗澡、洗碗、熨衣服、做饭等和伏案工作等。"
+  },
+  {
+   "cn": "中等强度身体活动",
+   "en": "moderate-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "代谢当量在3～6左右的体力活动，包括快速健步走、骑自行车、打球、游泳、跳舞、扫地、拖地、搬运和割草等。"
+  },
+  {
+   "cn": "高强度身体活动",
+   "en": "vigorous-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "代谢当量大于等于6的体力活动，包括非常快速的健步走、在陡峭的路上徒步旅行、慢跑、铲沙、搬重物、做农活、铲土、挖沟等。"
+  },
+  {
+   "cn": "高强度间歇运动",
+   "en": "high intensity interval training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.11",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "一种多次短时间的高强度运动与以低强度运动或休息形式形成的间歇期交替进行的运动训练方式。"
+  },
+  {
+   "cn": "中等强度持续运动",
+   "en": "moderate intensity continuous training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.12",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "40-59%储备心率、46-63%最大摄氧量或64-76%最大心率的运动强度下进行的长时间持续运动。是有氧运动的一种。"
+  },
+  {
+   "cn": "军事体力劳动强度",
+   "en": "military physical labor intensity",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军人在军事活动中的体力消耗及体力劳动紧张的程度。能量消耗、最大耗氧量、心率、肺通气量是评价体力劳动强度的重要指标。"
+  },
+  {
+   "cn": "劳动强度分级",
+   "en": "grading of labor intensity",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.5.6",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "根据劳动时间、耗能值等情况对劳动强度进行区分的过程。可以认定为轻劳动、中等强度、重强度等劳动强度。"
+  },
+  {
+   "cn": "调强放射治疗",
+   "en": "intensity-modulated radiation therapy，IMRT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.8",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "三维适形放射治疗的一种特殊形式，在照射野与靶区轮廓一致的情况下，通过优化算法对射野内诸点的输出剂量率进行了调整，其剂量分布与靶区的适形度较常规三维适形放射治疗更优。"
+  },
+  {
+   "cn": "中高强度身体活动",
+   "en": "moderate- to vigorous-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "代谢当量在3以上的体力活动。"
+  },
+  {
+   "cn": "危重孕产妇救治中心",
+   "en": "intensive care center for maternal near miss",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.7",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经区域化和标准化建设及运营的危重孕产妇救治的场所。建立区域母婴安全保障协调工作机制，助产机构、急救中心和血站联动，强化转运、救治、用血等重点环节保障，实现分级负责、上下联动、应对有序、运转高效的急救、"
+  },
+  {
+   "cn": "接触食品用水",
+   "en": "water intended for food contac",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.18",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "食品生产过程中与食品直接接触的用水，如与食品直接接触的清洗、冷却、解冻、制冰和蒸汽用水，食品接触表面的清洁用水等。"
+  },
+  {
+   "cn": "非接触食品用水",
+   "en": "water not intended for food contact",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.19",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "食品生产过程中不直接与食品接触的用水，如夹套保温水，间接冷却水，非食品接触表面的清洁用水等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

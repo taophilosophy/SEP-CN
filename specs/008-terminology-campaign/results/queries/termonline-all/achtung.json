@@ -1,0 +1,552 @@
+{
+ "key": "achtung",
+ "term": "Achtung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:21:08+00:00",
+ "status": "ok",
+ "note": "variant=Achtung; 审定公布名词库=103; 海峡两岸名词对照库=48; 其他来源数据库=6; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0479",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "调控元件对与其连接在一起的靶序列进行的调节。存在于DNA、RNA和蛋白质水平。"
+  },
+  {
+   "cn": "反式作用",
+   "en": "trans-acting",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.048",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "调控因子（如转录、翻译调控因子）等在调节基因表达过程中对调控元件的作用。"
+  },
+  {
+   "cn": "反式作用",
+   "en": "trans-acting",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.426",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "DNA通过其产物（RNA或蛋白质）间接调节基因表达的作用。"
+  },
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.44",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "同一染色体上的DNA序列直接控制其邻近基因表达的作用。"
+  },
+  {
+   "cn": "反式作用",
+   "en": "trans-acting",
+   "source": "植物学名词",
+   "wordNumber": "10.0209",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "DNA通过其产物(mRNA或蛋白质)间接调节基因表达的现象。"
+  },
+  {
+   "cn": "作用力",
+   "en": "[acting] force",
+   "source": "物理学名词",
+   "wordNumber": "02.0152",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "植物学名词",
+   "wordNumber": "10.0208",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "同一染色体上的DNA序列直接调控基因表达的现象。"
+  },
+  {
+   "cn": "表演区",
+   "en": "acting area",
+   "source": "建筑学名词",
+   "wordNumber": "02.0366",
+   "subjectFullName": "建筑学_建筑类型及组成_观演建筑",
+   "subjectName": "观演建筑",
+   "publishYear": "2014",
+   "definition": "在舞台上演员表演的活动范围。对于镜框式舞台，其宽度为假台口内皮宽度。"
+  },
+  {
+   "cn": "酸痛",
+   "en": "aching pain",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "01.051",
+   "subjectFullName": "中医药学_外科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "痛而酸楚的表现。"
+  },
+  {
+   "cn": "阿昌语",
+   "en": "Achang language",
+   "source": "语言学名词",
+   "wordNumber": "13.032",
+   "subjectFullName": "语言学_民族语言学_缅语支",
+   "subjectName": "缅语支",
+   "publishYear": "2011",
+   "definition": "阿昌族使用的语言。属汉藏语系藏缅语族缅语支。在中国，主要分布在云南省德宏傣族景颇族自治州以及保山专区的龙陵等县；在国外，缅甸也有分布。中国的阿昌族人口33 936人（2000年）。分为陇川、潞西、梁河"
+  },
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "遗传学名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "同一染色体上的DNA序列直接调控其他邻近基因的表达。"
+  },
+  {
+   "cn": "反式作用",
+   "en": "trans-acting",
+   "source": "遗传学名词",
+   "wordNumber": "03.519",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "DNA通过其产物(mRNA或蛋白质)间接调节基因的表达。"
+  },
+  {
+   "cn": "作用力",
+   "en": "acting force",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用核酶",
+   "en": "cis-acting ribozyme",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0723",
+   "subjectFullName": "生物化学与分子生物学_酶_核酶及其他_易位酶",
+   "subjectName": "易位酶",
+   "publishYear": "2024",
+   "definition": "催化RNA链自我剪接的核酶。"
+  },
+  {
+   "cn": "反式作用核酶",
+   "en": "trans-acting ribozyme",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0726",
+   "subjectFullName": "生物化学与分子生物学_酶_核酶及其他_易位酶",
+   "subjectName": "易位酶",
+   "publishYear": "2024",
+   "definition": "通过重组技术将人为设计的核酶的底物识别-结合序列与核酶的催化中心相连，从而改变核酶只作用于自身RNA链的特性，能作用于其他RNA链的核酶。"
+  },
+  {
+   "cn": "反式作用RNA",
+   "en": "trans-acting RNA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0271",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "通过分子间反应机制起作用的RNA。"
+  },
+  {
+   "cn": "顺式作用元件",
+   "en": "cis-acting element",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0477",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "主要指与被调节基因同处一个DNA分子、能够影响基因表达的序列。如启动子、增强子、沉默子等。可位于基因的5′上游区、3′下游区或基因内部，多数位于5′上游区。"
+  },
+  {
+   "cn": "反式作用因子",
+   "en": "trans-acting factor",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0478",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "主要指能够识别并结合非自身编码基因的顺式作用元件，调节其基因转录的蛋白质或RNA。"
+  },
+  {
+   "cn": "对动式压缩机",
+   "en": "contra-acting compressor",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.0068",
+   "subjectFullName": "化工（八）_化工机器_压缩机",
+   "subjectName": "压缩机",
+   "publishYear": "2021",
+   "definition": "列数为偶数，气缸及传动部件皆分布于曲轴中心线两侧，相对两侧的曲柄错角为180°的卧式压缩机。"
+  },
+  {
+   "cn": "单作用泵",
+   "en": "single-acting pump",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.019",
+   "subjectFullName": "化工（八）_化工机器_化工用泵",
+   "subjectName": "化工用泵",
+   "publishYear": "2021",
+   "definition": "活塞在一个往复循环中只形成一个吸入行程和一个排出行程的往复泵。"
+  },
+  {
+   "cn": "反式作用",
+   "en": "trans-acting",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反式作用",
+   "en": "trans-acting",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用",
+   "en": "cis-acting",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反式作用",
+   "en": "trans-acting",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自作用",
+   "en": "self-acting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反式作用因子",
+   "en": "trans-acting factor",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用基因",
+   "en": "cis-acting gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用元件",
+   "en": "cis-acting element",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直接作用控制器",
+   "en": "direct-acting controller",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双动泵",
+   "en": "double acting pump",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单动泵",
+   "en": "single acting pump",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反式作用RNA",
+   "en": "trans-acting RNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反式作用核酶",
+   "en": "trans-acting ribozyme",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反式［作用］因子",
+   "en": "trans-[acting] factor",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用核酶",
+   "en": "cis-acting ribozyme",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用基因",
+   "en": "cis-acting gene",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺式作用基因座",
+   "en": "cis-acting locus",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "帆船运动",
+   "en": "yachting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由",
+   "en": "Acting Freely / Freedom",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "帆船比赛",
+   "en": "regatta\",\"yacht racing\",\"yachting competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "率性",
+   "en": "Acting in Accordance with Human Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO/IEC 27018-2014 信息技术 安全技术 可识别个人信息（PII）处理者在公有云中保护PII的实践指南》",
+   "en": "ISO/IEC 27018:2014 Information technology — Security techniques — Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阿昌族",
+   "en": "Achang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0464",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在云南省德宏傣族景颇族自治州。人口4.37 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。使用阿昌语，属汉藏语系藏缅语族缅语支。无文字，习用汉文和傣文。阿昌族先民原住"
+  },
+  {
+   "cn": "阿昌语",
+   "en": "Achang language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0209",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "阿昌族使用的语言。属汉藏语系藏缅语族缅语支。主要分布在云南省德宏傣族景颇族自治州以及保山专区的龙陵等县，使用人口约4 万人；在缅甸也有分布。分为陇川、潞西、梁河3 个方言。"
+  },
+  {
+   "cn": "长效避孕方法",
+   "en": "long-acting contraceptive method",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一次启用（手术切除、或被置入体内、宫腔内或口服、注射等）后，避孕效果可以持续发挥1个月以上的避孕方法，包括宫内节育器、皮下埋植剂、女性绝育术、男性绝育术、长效避孕针等"
+  },
+  {
+   "cn": "短效避孕方法",
+   "en": "short-acting contraceptive method",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.5",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一旦使用，正常情况下避孕效果维持时间短于或等于1个月经周期，甚至仅限一次性交过程的避孕方法。包括复方短效口服避孕药、紧急避孕药、男用避孕套、女用避孕套、安全期法、体外排精法、外用避孕药等。"
+  },
+  {
+   "cn": "短效口服避孕药",
+   "en": "short-acting oral contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.6.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由低剂量人工合成的雌激素（多为炔雌醇）配伍孕激素、或单纯孕激素的口服避孕制剂。根据使用说明需要至少21天连续每日服用，避孕效果可维持一个月。服用期间，服用者处于暂时不孕状态，停用后又能恢复生育功能。"
+  },
+  {
+   "cn": "长效口服避孕药",
+   "en": "long-acting oral contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.6.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由人工合成的孕激素和长效雌激素（炔雌醚）配伍的复方避孕片剂。每月按照使用说明服用一次可维持较长时间（通常是1个月）的避孕效果。"
+  },
+  {
+   "cn": "长效可逆性避孕方法",
+   "en": "long-acting reversible contraception, LARC",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.4.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一旦使用，正常情况下避孕效果维持时间长于1个月，但停用后使用者的生育力可以恢复的避孕方法。包括宫内节育器、皮下埋植剂、长效避孕针"
+  },
+  {
+   "cn": "长效永久性避孕方法",
+   "en": "long-acting permanent method of contraception, LAPM",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.4.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一旦使用，正常情况下避孕效果维持时间长达十几年或几十年，一般不能被逆转，即不能恢复生育能力的避孕方法。包括男性绝育术和女性绝育术。"
+  },
+  {
+   "cn": "素尔穷•喜饶札巴",
+   "en": "Zur chung shes rab grags pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0415",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1014 年—1074 年）藏传佛教著名人物。藏传佛教宁玛派著名大师，为旧译远传教典传承最重要的传承上师之一。他和索尔波且•释迦炯乃、素•释迦桑给被称为宁玛派教法的“祖孙三师”。素尔穷为素尔波且的养"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

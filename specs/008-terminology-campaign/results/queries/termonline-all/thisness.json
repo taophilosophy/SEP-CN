@@ -1,0 +1,472 @@
+{
+ "key": "thisness",
+ "term": "thisness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:10:41+00:00",
+ "status": "ok",
+ "note": "variant=thisness; 审定公布名词库=286; 海峡两岸名词对照库=32; 其他来源数据库=2; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "是动病",
+   "en": "disease caused by disorder of this channel",
+   "source": "中医药学名词",
+   "wordNumber": "03.738",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "经络循行路线的病证引致所属络脏腑的病证。"
+  },
+  {
+   "cn": "所生病",
+   "en": "disease of viscera connecting with this channel",
+   "source": "中医药学名词",
+   "wordNumber": "03.739",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "脏腑病变延及所属经脉，反映于经脉循行路线的病证。"
+  },
+  {
+   "cn": "粗度",
+   "en": "thickness",
+   "source": "水产名词",
+   "wordNumber": "03.206",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "纤维、单纱、网线、绳索等的粗细程度。通常以支数、旦[尼尔]和特[克斯]为表示单位。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency,thickness",
+   "source": "化学工程名词",
+   "wordNumber": "03.754",
+   "subjectFullName": "化学工程_传递过程与单元操作_固体过程_固液分离（化工）",
+   "subjectName": "固液分离（化工）",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "厚度传感器",
+   "en": "thickness transducer,thickness sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0071",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受物体厚度并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "板厚",
+   "en": "sheet thickness,plate thickness",
+   "source": "冶金学名词",
+   "wordNumber": "09.0677",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "板材轧后的厚度。"
+  },
+  {
+   "cn": "烧蚀厚度",
+   "en": "recession thickness,ablation thickness",
+   "source": "航天科学技术名词",
+   "wordNumber": "03.367",
+   "subjectFullName": "航天科学技术_航天器",
+   "subjectName": "航天器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "唇厚度",
+   "en": "lip thickness",
+   "source": "整形外科名词",
+   "wordNumber": "14.025",
+   "subjectFullName": "整形外科_头颈部整形与美容_头颈部相关解剖与分区",
+   "subjectName": "头颈部相关解剖与分区",
+   "publishYear": "2026",
+   "definition": "口轻闭时，上、下红唇部湿唇与干唇交界处到唇红缘的厚度。"
+  },
+  {
+   "cn": "纸张厚度",
+   "en": "paper thickness",
+   "source": "档案学名词",
+   "wordNumber": "05.01.020",
+   "subjectFullName": "档案学_档案保护_档案制成材料",
+   "subjectName": "档案制成材料",
+   "publishYear": "2024",
+   "definition": "表示纸张的厚薄程度。指在一定的面积和压力下测得的试样两面之间的垂直距离。可用厚度计直接测量。单位为毫米（mm）。"
+  },
+  {
+   "cn": "孕震层厚度",
+   "en": "seismogenic thickness",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1543",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "岩石层内发生地震的脆性层 (脆裂层 )的厚度。在大陆地区，典型的孕震层厚度为 10～15km，相应于温度低于 400℃的区域。 "
+  },
+  {
+   "cn": "弹性厚度",
+   "en": "elastic thickness",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0050",
+   "subjectFullName": "地球物理学_地球动力学_板块构造",
+   "subjectName": "板块构造",
+   "publishYear": "2022",
+   "definition": "对地形进行周期性加载后具有弹性响应的岩石层厚度。 "
+  },
+  {
+   "cn": "饱和厚度",
+   "en": "saturation thickness",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0286",
+   "subjectFullName": "地球物理学_地壳流体科学_气",
+   "subjectName": "气",
+   "publishYear": "2022",
+   "definition": "放射性射线的照射量率或能注量率不再随放射性物质厚度增加而增加时对应的物体厚度。"
+  },
+  {
+   "cn": "调谐厚度",
+   "en": "tuning thickness",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0512",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "用瑞克子波对楔状体进行正演，当薄层顶底的双程时差为半周期时，波峰到波谷相对振幅达极大，此时对应的薄层厚度。 "
+  },
+  {
+   "cn": "筛板厚度",
+   "en": "plate thickness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.1078",
+   "subjectFullName": "机械工程（一）_机械零件_筛网",
+   "subjectName": "筛网",
+   "publishYear": "2021",
+   "definition": "穿孔后的筛板厚度。"
+  },
+  {
+   "cn": "齿厚",
+   "en": "tooth thickness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0090",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "一个轮齿的两侧齿面之间的分度圆弧长。"
+  },
+  {
+   "cn": "计算厚度",
+   "en": "calculated thickness",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.001",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "在给定的条件下，按相关规定的计算方法计算得到的容器壁厚（不包括厚度附加量）。容器受压元件为满足强度、刚度及稳定性要求的必要厚度。"
+  },
+  {
+   "cn": "设计厚度",
+   "en": "design thickness",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0011",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "计算厚度与腐蚀裕量之和。"
+  },
+  {
+   "cn": "名义厚度",
+   "en": "nominal thickness",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0012",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "设计厚度加上钢板厚度负偏差后，向上圆整至钢材标准规格的厚度。"
+  },
+  {
+   "cn": "有效厚度",
+   "en": "effective thickness",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0013",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "名义厚度减去腐蚀裕量和钢材厚度负偏差的厚度。"
+  },
+  {
+   "cn": "吃砂量",
+   "en": "mold thickness",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.135",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_铸造工艺设计及工艺装备",
+   "subjectName": "铸造工艺设计及工艺装备",
+   "publishYear": "2021",
+   "definition": "(1)砂型型腔表面到砂箱内壁、顶面、底面或箱挡的距离以及型腔之间的砂层厚度。(2) 芯骨至砂芯表面的砂层厚度。"
+  },
+  {
+   "cn": "在岛上",
+   "en": "On this Island",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency\",\"thickness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "厚度平流",
+   "en": "thickness advection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "厚度图",
+   "en": "thickness chart",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壁厚",
+   "en": "wall thickness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "当量厚度",
+   "en": "equivalent thickness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "片晶厚度",
+   "en": "lamella thickness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "光学厚度",
+   "en": "optical thickness",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "光学厚度",
+   "en": "optical thickness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "厚度计",
+   "en": "thickness meter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "冰厚",
+   "en": "ice thickness",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测厚",
+   "en": "thickness measuring",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "厚度规",
+   "en": "thickness gauge",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测厚仪",
+   "en": "thickness gauge",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "根厚",
+   "en": "root thickness",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "等厚度线",
+   "en": "isopleth of thickness\",\"constant thickness line",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瑞利光厚度",
+   "en": "Rayleigh optical thickness",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸收光学厚度",
+   "en": "absorption optical thickness",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "厚度允许偏差",
+   "en": "allowable thickness tolerance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "晶片厚度",
+   "en": "thickness of slice",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "这是一次危机，也是一次大考。",
+   "en": "This is a crisis and also a test.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情往会悲，文来引泣",
+   "en": "An Author Who Invests Emotionally in a Lament Can Experience Grief. A Lament Written in This Way Can Move Readers to Tears.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "止贡替寺",
+   "en": "Vbri gung this dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0567",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教噶举派寺院。位于西藏自治区墨竹工卡县东北部。1179 年由喇嘛教噶举派止贡支系创始人止贡巴·仁饮贝主持兴建，是噶举派止贡支系的主要寺院。"
+  },
+  {
+   "cn": "皮褶厚度",
+   "en": "skinfold thickness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "皮肤及皮下脂肪厚度的测量值之和。是反映体脂含量的指标。常用测量部位有上臂肱三头肌部、肩胛下角部，以及肱二头肌部、髂上、腹壁侧等。"
+  },
+  {
+   "cn": "皮褶厚度",
+   "en": "skinfold thickness",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.11",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "皮肤及皮下脂肪厚度的测量值之和。是反映体脂含量的指标。常用测量部位有上臂肱三头肌部、肩胛下角部，以及肱二头肌部、髂上、腹壁侧等。"
+  },
+  {
+   "cn": "放射性测厚仪",
+   "en": "radioactive thickness meter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.6",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用物质对射线的吸收或反散射而测量物质厚度的仪表。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

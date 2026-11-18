@@ -1,0 +1,622 @@
+{
+ "key": "blackness",
+ "term": "Blackness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:08:37+00:00",
+ "status": "ok",
+ "note": "variant=Blackness; 审定公布名词库=349; 海峡两岸名词对照库=98; 其他来源数据库=20; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "黑度",
+   "en": "blackness",
+   "source": "电力名词",
+   "wordNumber": "01.659",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "物体的实际辐射力与同温度下绝对黑体的辐射力之比值。"
+  },
+  {
+   "cn": "黑度",
+   "en": "blackness",
+   "source": "冶金学名词",
+   "wordNumber": "04.0349",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "实际物体的辐射能力与同温度下黑体的辐射能力之比。"
+  },
+  {
+   "cn": "黑色",
+   "en": "black",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.008",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "吸收全部可见光呈现的颜色。在四色印刷中用于加大明暗对比等级，另外三色是青、品红、黄。"
+  },
+  {
+   "cn": "黑色",
+   "en": "black",
+   "source": "光学名词",
+   "wordNumber": "05.024",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "对观察者产生的亮度因数或明度趋于零的中性色。"
+  },
+  {
+   "cn": "黑毛",
+   "en": "black",
+   "source": "畜牧学名词",
+   "wordNumber": "02.309",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "马全身毛色为黑色。"
+  },
+  {
+   "cn": "玄武",
+   "en": "black tortoise; black warrior",
+   "source": "天文学名词",
+   "wordNumber": "05.074",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "四象之一，由斗、牛、女、虚、危、室、壁七宿组成。按阴阳五行给五方配色之说，北方为黑色，故名“玄武”。"
+  },
+  {
+   "cn": "炭黑",
+   "en": "carbon black,charcoal black",
+   "source": "化学名词",
+   "wordNumber": "01.0284",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "由工业生产主要成分为碳的黑色粉末。是重要的助剂和填料。"
+  },
+  {
+   "cn": "黑色页岩",
+   "en": "black shale",
+   "source": "地质学名词",
+   "wordNumber": "05.04.046",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩岩石类型",
+   "subjectName": "沉积岩岩石类型",
+   "publishYear": "2026",
+   "definition": "富含有机质及分散状黄铁矿的页岩。外观与碳质页岩相似，但不污手，厚度大时可以形成良好的生油岩系，为滞水还原环境下的沉积。"
+  },
+  {
+   "cn": "海底黑烟囱",
+   "en": "black smoker",
+   "source": "地质学名词",
+   "wordNumber": "14.01.034",
+   "subjectFullName": "地质学_矿床学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "海底富含硫化物的高温热泉活动区(附近水温可高达400℃)，因热液喷出时形似“黑烟”而得名。在喷溢海底热泉的出口，由于物理和化学条件的改变，使含有多种金属元素的矿物在海底沉淀下来，不断加高，形成了一种烟"
+  },
+  {
+   "cn": "黑侏罗统",
+   "en": "Black Jura",
+   "source": "地质学名词",
+   "wordNumber": "07.03.283",
+   "subjectFullName": "地质学_地史学与地层学_年代地层学",
+   "subjectName": "年代地层学",
+   "publishYear": "2026",
+   "definition": "德国相当于里阿斯统的早侏罗世地层。主要为泥质灰岩、泥灰岩，上部为黑色沥青质灰岩。由于岩石多为黑色而得名。"
+  },
+  {
+   "cn": "铀黑",
+   "en": "uranium black",
+   "source": "地质学名词",
+   "wordNumber": "03.04.026",
+   "subjectFullName": "地质学_矿物学_氧化物矿物和氢氧化物矿物",
+   "subjectName": "氧化物矿物和氢氧化物矿物",
+   "publishYear": "2026",
+   "definition": "氧化物矿物。成分UO₂·UO₃·PbO。一般为非晶质，通常呈粉末状、土状集合体。灰黑色、深灰色或黑色，光泽暗淡。硬度1～4。密度2.8～4.8g/cm³。具强放射性。铀的矿石矿物。"
+  },
+  {
+   "cn": "布瓦",
+   "en": "black tile",
+   "source": "风景园林名词",
+   "wordNumber": "07.0363",
+   "subjectFullName": "风景园林_风景园林建筑_瓦作",
+   "subjectName": "瓦作",
+   "publishYear": "2025",
+   "definition": "呈弧形状，尺寸在20cm×20cm左右，用黏土烧制的屋面古建筑材料。"
+  },
+  {
+   "cn": "黑藜麦",
+   "en": "black quinoa",
+   "source": "农学名词",
+   "wordNumber": "02.090",
+   "subjectFullName": "粮食作物_谷类作物",
+   "subjectName": "谷类作物",
+   "publishYear": "2025",
+   "definition": "种皮为黑色的藜麦类型。籽粒小、粗纤维含量高、口感较脆，味道浓郁香甜。"
+  },
+  {
+   "cn": "黑豆",
+   "en": "black soybean",
+   "source": "农学名词",
+   "wordNumber": "02.100",
+   "subjectFullName": "粮食作物_豆类作物",
+   "subjectName": "豆类作物",
+   "publishYear": "2025",
+   "definition": "种皮为褐色至黑色的大豆。多为无限结荚或半有限结荚，抗逆性强。蛋白质含量高，营养丰富。粮油饲蔬兼用。"
+  },
+  {
+   "cn": "绝对黑色",
+   "en": "absolute black",
+   "source": "精细化工名词",
+   "wordNumber": "05.0381",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "物体明度为0的理想黑色。"
+  },
+  {
+   "cn": "铂黑",
+   "en": "platinum black",
+   "source": "精细化工名词",
+   "wordNumber": "08.0455",
+   "subjectFullName": "精细化工_其他精细化学品_催化剂",
+   "subjectName": "催化剂",
+   "publishYear": "2025",
+   "definition": "金属铂的细粉，呈黑色。表观密度为15.8～17.6 g/cm³。可溶于王水。铂黑能吸附大量的氢气、氧气等气体。"
+  },
+  {
+   "cn": "红茶",
+   "en": "black tea",
+   "source": "农学名词",
+   "wordNumber": "17.265",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "鲜叶经萎凋、揉捻、发酵和干燥等典型工艺制作而成的茶叶。因其色泽及冲泡的茶汤以红色为主调而得名。"
+  },
+  {
+   "cn": "黑土",
+   "en": "black soil",
+   "source": "农学名词",
+   "wordNumber": "09.164",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "温带湿润或半湿润地区草原化草甸植被下，具有均腐殖质积累和淋溶过程，且无石灰反应的黑色土壤。"
+  },
+  {
+   "cn": "黑箱",
+   "en": "black box",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.708",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "比喻内部结构不明的系统。无法通过对其功能的分析进行认识，也无法通过对其要素特性和要素之间的联系推断系统特性。只能通过检查其对环境的输出以及这种输出对于输入的种种关系，即通过输入-输出关系来建立关于其行"
+  },
+  {
+   "cn": "黑洞",
+   "en": "black hole",
+   "source": "天文学名词",
+   "wordNumber": "04.242",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "由一个只允许外部物质和辐射进入而不允许物质和辐射从中逃离的边界，即视界所规定的时空区域。"
+  },
+  {
+   "cn": "玄武",
+   "en": "Black Tortoise\",\"Black Warrior",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相对黑度",
+   "en": "relative blackness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黑冰，透明[薄]冰[层]",
+   "en": "black ice",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黑层云",
+   "en": "black stratus",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黑风(伊朗南克尔迪斯坦的东北旱风)",
+   "en": "black wind",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黑风暴",
+   "en": "black storm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黑霜",
+   "en": "black frost",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黑体",
+   "en": "black body",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黑雾",
+   "en": "black fog",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黑雨",
+   "en": "black rain",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "碳黑",
+   "en": "carbon black",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "热炭黑",
+   "en": "thermal black",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黑漆",
+   "en": "japan black",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "炭黑",
+   "en": "carbon black",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黑液",
+   "en": "black liquor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "乙炔黑",
+   "en": "acetylene black",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "烃黑",
+   "en": "hydrocarbon black",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黑体",
+   "en": "black body",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黑箱",
+   "en": "black box",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "灯黑",
+   "en": "lamp black",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黑马",
+   "en": "black",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑色腰带",
+   "en": "black belt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑色内环区",
+   "en": "inner black",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑环",
+   "en": "black area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑色外环区",
+   "en": "outer black",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑色腰带",
+   "en": "black belt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑色贴条",
+   "en": "black sticker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑牌",
+   "en": "black card",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑牌",
+   "en": "black card",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑头马",
+   "en": "black-faced",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑箱模型",
+   "en": "black box model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "黑帽安全技术大会",
+   "en": "Black Hat Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法黑箱",
+   "en": "algorithm black box",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据黑市",
+   "en": "black market for data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动黑点计划（澳大利亚）",
+   "en": "Mobile Black Spot Programme (Australia)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《时间简史》（〔英〕斯蒂芬·威廉·霍金）",
+   "en": "A Brief History of Time: From the Big Bang to Black Holes (Stephen William Hawking, UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "红茶",
+   "en": "black tea",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.4",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "鲜叶经萎凋、揉捻、发酵、干燥等典型工艺制作而成茶。因其色泽及冲泡的茶汤以红色为主调得名。"
+  },
+  {
+   "cn": "黑彝",
+   "en": "Black yi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0127",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "族称。彝族的统治阶级。从元末明初至中国人民共和国成立前，居于凉山（原属西康省，今属四川省）与滇东北、黔西北等地。约占当地彝族总人口7%弱，通过家支组织，实行奴隶之统治。因崇拜黑色，故以“黑”自称。"
+  },
+  {
+   "cn": "黑球温度",
+   "en": "black ball temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "将温度计置于紫铜质黑球中部所指示的温度。包括环境气温、热辐射等综合因素，其温度高低在医学上间接地表示人体感受周围环境热辐射的状况。"
+  },
+  {
+   "cn": "黑斑蛋",
+   "en": "black spotted egg",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.24",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "在蛋类储存过程中，外界真菌进入蛋内形成黑斑的蛋。"
+  },
+  {
+   "cn": "《黑鞑事略》",
+   "en": "Brief Records of the Black Tatars",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0283",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "南宋彭大雅所撰蒙古见闻录，徐霆作疏。介绍了蒙古国主要人物﹑地理气候﹑牧猎方式﹑语言文字﹑历法﹑官制、风俗习惯﹑经济生活及军事作战等情况，是研究13 世纪前半期蒙古史的珍贵资料。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,252 @@
+{
+ "key": "reconciliation",
+ "term": "reconciliation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:30:43+00:00",
+ "status": "ok",
+ "note": "variant=reconciliation; 审定公布名词库=13; 海峡两岸名词对照库=8; 其他来源数据库=3; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "对账",
+   "en": "reconciliation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.052",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "在出版物交易活动中，买卖双方对交易数据进行核对和确认的工作。"
+  },
+  {
+   "cn": "校正",
+   "en": "reconciliation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0004",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "依据测量对象遵守的物理化学规律对测得的数据进行修正的过程。"
+  },
+  {
+   "cn": "和[解]法",
+   "en": "reconciliation method",
+   "source": "中医药学名词",
+   "wordNumber": "05.050",
+   "subjectFullName": "中医药学_治疗学_内治法",
+   "subjectName": "内治法",
+   "publishYear": "2004",
+   "definition": "用具有疏通表里、和解寒热、调和脏腑作用的方药治疗疾病的治法。"
+  },
+  {
+   "cn": "数据协调",
+   "en": "data reconciliation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.063",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "任何测量数据都含有随机误差，对过程测量数据进行随机误差去除，并使其满足物料平衡、热量平衡和化学反应计量关系等规律的过程称为数据协调。"
+  },
+  {
+   "cn": "信息协调",
+   "en": "information reconciliation",
+   "source": "物理学名词",
+   "wordNumber": "06.0861",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据调谐",
+   "en": "data reconciliation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0054",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "选取测量数据的校正值，使其既满足整个装置和单元设备的物料、能量平衡关系，又与测量值之差的平方和最小的数据处理方法。"
+  },
+  {
+   "cn": "银行存款余额调节表",
+   "en": "bank reconciliation",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0093",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业和开户行各自编制的，通过对未达账项进行调整，以使双方所记录的企业银行存款余额一致的表格。"
+  },
+  {
+   "cn": "海事和解",
+   "en": "maritime reconciliation",
+   "source": "航海科技名词",
+   "wordNumber": "13.0383",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "数据调谐",
+   "en": "data reconciliation",
+   "source": "化学工程名词",
+   "wordNumber": "07.055",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "多米尼加和解法",
+   "en": "Dominican Reconciliation Act",
+   "source": "世界历史名词",
+   "wordNumber": "04.0677",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西印度群岛",
+   "subjectName": "西印度群岛",
+   "publishYear": "2012",
+   "definition": "1965年8月底，美国以美洲国家组织名义提出的扑灭多米尼加起义的文件。"
+  },
+  {
+   "cn": "患者信息协调",
+   "en": "patient information reconciliation,PIR",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.049",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医疗信息系统集成规范中，医疗机构不了解患者的部分信息，但又必须对患者进行影像检查时用来支持相关检查流程的集成模式。"
+  },
+  {
+   "cn": "输入整合工作流",
+   "en": "import reconciliation workflow,IRWF",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.058",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医疗信息系统集成规范中，从外部系统（其他医疗机构提供的影像胶片、光盘）导入患者医学数字成像和通信标准（DICOM）数据的集成模型。保证被检者在被导入的外部系统和本地系统中信息的一致性，同时原始数据的"
+  },
+  {
+   "cn": "和解",
+   "en": "conciliation",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0516",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "将争端委托给一位和解员并提交证据，由双方达成有约束力的协议的程序。"
+  },
+  {
+   "cn": "调整项目",
+   "en": "reconciliation item",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数据校正",
+   "en": "data reconciliation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "版本一致",
+   "en": "version reconciliation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "冲突调解",
+   "en": "conflict reconciliation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海事和解",
+   "en": "maritime reconciliation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "和",
+   "en": "reconciliation （=demulcent therapy）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "核对银行账目",
+   "en": "reconciliation of bank account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际商会仲裁庭调解与仲裁规则",
+   "en": "Rule of Conciliation and Arbitration of the International Chamber of Commerce",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "和解",
+   "en": "reconciliation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能移动调解",
+   "en": "smart mobile conciliation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阶级调和论",
+   "en": "theories of class conciliation",
+   "source": "马克思主义",
+   "wordNumber": "03.0097",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "否认或淡化阶级矛盾和阶级斗争，主张阶级之间利益妥协和阶级合作的理论观点。它夸大不同阶级的利益共同性，认为不必经过阶级斗争就能够解决阶级对立和矛盾，一概反对暴力革命。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

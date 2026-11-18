@@ -1,0 +1,792 @@
+{
+ "key": "exposition",
+ "term": "Exposition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:07:39+00:00",
+ "status": "ok",
+ "note": "variant=Exposition; 审定公布名词库=884; 海峡两岸名词对照库=273; 其他来源数据库=133; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "博览园",
+   "en": "exposition park",
+   "source": "风景园林名词",
+   "wordNumber": "05.0075",
+   "subjectFullName": "风景园林_风景园林规划_城乡绿地系统分类",
+   "subjectName": "城乡绿地系统分类",
+   "publishYear": "2025",
+   "definition": "集展览、展示、教育、休闲和娱乐于一体的一种综合性场所。通常会包含多个特定主题的展示园。"
+  },
+  {
+   "cn": "园林博览会",
+   "en": "Garden Exposition",
+   "source": "风景园林名词",
+   "wordNumber": "01.0182",
+   "subjectFullName": "风景园林_总论_风景园林行业交流活动",
+   "subjectName": "风景园林行业交流活动",
+   "publishYear": "2025",
+   "definition": "以园林为特色，展示城市绿色发展新理念、新技术、新成果的展会。"
+  },
+  {
+   "cn": "中国绿化博览会",
+   "en": "China Green Exposition",
+   "source": "风景园林名词",
+   "wordNumber": "01.0185",
+   "subjectFullName": "风景园林_总论_风景园林行业交流活动",
+   "subjectName": "风景园林行业交流活动",
+   "publishYear": "2025",
+   "definition": "由全国绿化委员会、国家林业和草原局和承办城市所在的省级人民政府共同主办的全国性展会，由承办城市人民政府和所在省绿化委员会、林业厅承办。"
+  },
+  {
+   "cn": "中国花卉博览会",
+   "en": "China Flower Exposition",
+   "source": "风景园林名词",
+   "wordNumber": "01.0186",
+   "subjectFullName": "风景园林_总论_风景园林行业交流活动",
+   "subjectName": "风景园林行业交流活动",
+   "publishYear": "2025",
+   "definition": "由国家林草局、中国花卉协会和承办城市所在省（自治区、直辖市）人民政府共同主办的全国性展会，集中展示我国花卉业丰硕成果，反映中国源远流长的花卉文化，融观赏性、艺术性、专业性、商业性、趣味性和知识性于一体"
+  },
+  {
+   "cn": "世界园艺博览会",
+   "en": "International Horticultural Exposition",
+   "source": "风景园林名词",
+   "wordNumber": "01.0183",
+   "subjectFullName": "风景园林_总论_风景园林行业交流活动",
+   "subjectName": "风景园林行业交流活动",
+   "publishYear": "2025",
+   "definition": "由国际园艺生产者协会（AIPH）发起举办的国际性专业博览会，旨在促进国际园林园艺事业交流、提高技术水平。"
+  },
+  {
+   "cn": "中国国际园林博览会",
+   "en": "China International Garden Exposition",
+   "source": "风景园林名词",
+   "wordNumber": "01.0184",
+   "subjectFullName": "风景园林_总论_风景园林行业交流活动",
+   "subjectName": "风景园林行业交流活动",
+   "publishYear": "2025",
+   "definition": "由住房和城乡建设部和地方政府共同举办的风景园林专业性展会，旨在扩大国内外园林绿化行业交流与合作，展示园林绿化建设、管理的最新成果，传播园林文化和生态环保理念，引导技术创新，推动资源节约型社会和环境友好"
+  },
+  {
+   "cn": "洞井展示图",
+   "en": "exposition of adit and shaft",
+   "source": "水利科学技术名词",
+   "wordNumber": "06.116",
+   "subjectFullName": "水利科学技术_水利勘测、工程地质_工程地质勘探（水利）",
+   "subjectName": "工程地质勘探（水利）",
+   "publishYear": "1997",
+   "definition": "依一定比例尺和图例，按平面连续展开的方式，将平洞、竖井勘探中揭露的水文地质、工程地质现象和岩体原位试验成果编制绘成的图。"
+  },
+  {
+   "cn": "伤寒明理论",
+   "en": "Shanghan Mingli Lun,Concise Exposition on Cold Pathogenic Diseases",
+   "source": "中医药学名词",
+   "wordNumber": "02.033",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医伤寒著作，金代成无己撰。"
+  },
+  {
+   "cn": "冲",
+   "en": "opposition",
+   "source": "天文学名词",
+   "wordNumber": "03.106",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "由地球上看到外行星或小行星与太阳的赤经或黄经相差180°的现象。也指此现象发生的时刻。"
+  },
+  {
+   "cn": "组版",
+   "en": "imposition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.140",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "将页面上各页面元素进行拼合和定位，构成完整版面的操作。"
+  },
+  {
+   "cn": "拼大版",
+   "en": "imposition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.123",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "按照印刷及印后加工的要求和条件，将多个页面或单元组合到印刷幅面的印张中的处理方法。"
+  },
+  {
+   "cn": "定位",
+   "en": "apposition",
+   "source": "动物学名词",
+   "wordNumber": "4.0264",
+   "subjectFullName": "动物学_动物胚胎学_胚胎卵裂",
+   "subjectName": "胚胎卵裂",
+   "publishYear": "2021",
+   "definition": "哺乳动物胚泡滋养层细胞与子宫上皮细胞间接触逐渐紧密的过程。"
+  },
+  {
+   "cn": "折手",
+   "en": "imposition",
+   "source": "测绘学名词",
+   "wordNumber": "04.345",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "拼大版时，根据装订模式生成的页面排列组合规则。"
+  },
+  {
+   "cn": "对掌运动",
+   "en": "opposition",
+   "source": "手外科学名词",
+   "wordNumber": "02.0016",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "拇指指尖掌面和其他四指的掌面相对的运动。可加深手掌的凹陷，是人类进行握持和精细运动必需的主要动作。"
+  },
+  {
+   "cn": "沉积",
+   "en": "deposition",
+   "source": "物理学名词",
+   "wordNumber": "08.0802",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "沉积",
+   "en": "deposition",
+   "source": "核医学名词",
+   "wordNumber": "02.0469",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "放射性物质在组织或器官中积存的过程。"
+  },
+  {
+   "cn": "沉积",
+   "en": "deposition",
+   "source": "药学名词",
+   "wordNumber": "05.284",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "悬浮在液体中的固体颗粒的连续沉降的行为。"
+  },
+  {
+   "cn": "沉积量",
+   "en": "deposition",
+   "source": "放射医学与防护名词",
+   "wordNumber": "09.095",
+   "subjectFullName": "放射医学与防护_核武器损伤_核试验与核爆炸",
+   "subjectName": "核试验与核爆炸",
+   "publishYear": "2014",
+   "definition": "大气层核试验产生的放射性核素以落下灰形式沉积到地面的放射性活度的量。可用累积的或某限定时间内的总放射性活度值，或用某种放射性核素活度值表示。"
+  },
+  {
+   "cn": "凝华",
+   "en": "deposition",
+   "source": "大气科学名词",
+   "wordNumber": "03.110",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "物质从气态直接变成固态的相变过程。"
+  },
+  {
+   "cn": "堆积作用",
+   "en": "deposition",
+   "source": "地理学名词",
+   "wordNumber": "03.052",
+   "subjectFullName": "地理学_地貌学",
+   "subjectName": "地貌学",
+   "publishYear": "2006",
+   "definition": "被搬运的泥沙、砾石等疏松物质，因搬运动力(流水、冰川、风、波浪、海流等)减弱或失去搬运能力，以及含溶解质的水溶液受蒸发或发生化学反应而积聚的过程。"
+  },
+  {
+   "cn": "呈示部",
+   "en": "exposition",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冲",
+   "en": "opposition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "凝华",
+   "en": "deposition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冲",
+   "en": "opposition",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "堆积作用",
+   "en": "deposition",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "冲",
+   "en": "opposition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "沉积",
+   "en": "deposition",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "place\",\"position",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "把位",
+   "en": "position",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沉积作用",
+   "en": "sedimentation\",\"deposition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "点位数据资料",
+   "en": "position data\",\"position reference",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position\",\"location",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "敷着生长，外加生长",
+   "en": "apposition growth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外加生长（=敷着生长）",
+   "en": "apposition growth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉降速度",
+   "en": "deposition velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "干沉降",
+   "en": "dry deposition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "凝华核",
+   "en": "deposition nucleus",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿沉降",
+   "en": "wet deposition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "酸沉降",
+   "en": "acid deposition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气相沉积",
+   "en": "vapor deposition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对抗",
+   "en": "opposition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直角姿势",
+   "en": "L position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "standing position\",\"upright position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹲踞姿势",
+   "en": "squat position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "extended position\",\"stretched position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团身姿势",
+   "en": "C position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "屈体姿势",
+   "en": "B position\",\"pike position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "A position\",\"straight position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意姿势",
+   "en": "D position\",\"free position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "沉积",
+   "en": "deposition",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性物质在组织或器官中积存的过程。"
+  },
+  {
+   "cn": "社会对抗",
+   "en": "social opposition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会生产活动和社会生活中由各种社会矛盾和冲突引起的、社会成员之间或不同阶级或群体之间持续的相互排斥与对立。经济-社会差别和文化差异（尤其是价值取向的不同）成为其产生的潜在基础。利益冲突、社会正义的缺失"
+  },
+  {
+   "cn": "内在对立",
+   "en": "internal opposition",
+   "source": "马克思主义",
+   "wordNumber": "01.0085",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "处于同一体中的矛盾双方相互排斥、相互反对、相互否定的属性。它体现着矛盾双方相互分离的趋势。"
+  },
+  {
+   "cn": "工人反对派",
+   "en": "workers opposition",
+   "source": "马克思主义",
+   "wordNumber": "04.0368",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1920—1922年间俄国共产党内由工联主义者组成的工团主义派别。工人反对派反对列宁关于国家在民主集中制原则基础上控制经济的主张，而主张将经济管理交给专门为此成立的全俄生产者代表大会。"
+  },
+  {
+   "cn": "联合反对派",
+   "en": "United Opposition",
+   "source": "马克思主义",
+   "wordNumber": "04.0438",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1926—1927年联共（布）党内的一个“左”倾派别。主要代表人物是托派领袖列夫·达维多维奇·托洛茨基（Leon Davidovich Trotsky）等和新反对派领袖格里戈里·叶夫谢耶维奇·季诺维也"
+  },
+  {
+   "cn": "二元对立",
+   "en": "binary opposition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0571",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一组意义相反的概念，彼此相互排斥、形成对比，但并非是一种矛盾关系，而是结构的、互为补充的关系。在瑞士语言学家索绪尔开创的结构语言学中，通过二元对立可建立语言单位的意义，每一个单位通过与其他词汇的对等划"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "党员主体地位",
+   "en": "Partys principal position",
+   "source": "马克思主义",
+   "wordNumber": "03.0775",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "广大党员是党的一切活动的主体，在党内生活和党的建设实践中居于自主、积极、主动的地位。这主要表现在：广大党员有明确的主体意识，具备较高的参政议政素质和能力，能够积极参与党内事务，认真履行义务，积极行使权"
+  },
+  {
+   "cn": "持续性枕横位",
+   "en": "persistent occipitotransverse position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆侧方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性枕后位",
+   "en": "persistent occipitoposterior position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆后方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "社会经济地位",
+   "en": "social economic position",
+   "source": "社会医学名词",
+   "wordNumber": "3.4.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "个人在社会体系中所处的位置，由性别、年龄、种族、教育、职业、收入等社会特征共同决定。"
+  },
+  {
+   "cn": "焦磷酸钙沉积病",
+   "en": "calcium pyrophosphate deposition disease",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.9.1.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_晶体性关节病",
+   "subjectName": "晶体性关节病",
+   "publishYear": "2025",
+   "definition": "一种累及关节和其他运动系统的与双水焦磷酸钙晶体沉积有关的晶体性关节病。"
+  },
+  {
+   "cn": "单克隆免疫球蛋白沉积病",
+   "en": "monoclonal immunoglobulin deposition disease ， MIDD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.18",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "一组由浆细胞异常增生产生的轻链和（或)重链，以非纤维样沉积于脏器、组织，造成多脏器损伤的疾病，刚果红染色阴性为特点，是浆细胞恶性肿瘤一种类型。肾为其最常累及的器官，也可沉积于心脏、肝、脾脏、神经系统、"
+  },
+  {
+   "cn": "重链沉积病",
+   "en": "heavy chain deposition disease ，HCDD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.19",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "一种罕见的以单克隆免疫球蛋白重链沉积所致的全身性疾病，发病机制可能与重链CH1功能域缺失及单克隆重链激活补体系统有关。以老年人居多，肾脏受累常见，亦可累及肝脏、甲状腺、皮肤、骨骼肌等器官。血、尿M-蛋"
+  },
+  {
+   "cn": "轻链沉积病",
+   "en": "light chain deposition disease ， LCDD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.20",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "一组由于单克隆免疫球蛋白轻链异常产生、并以非纤维样沉积于脏器、刚果红染色阴性为特点的疾病。轻链可沉积于肾脏、心脏、肝、脾脏、神经系统、胰腺、胃肠道、皮肤及肌肉等部位，并引起相应的症状。多为特发性，亦常"
+  },
+  {
+   "cn": "党的历史方位",
+   "en": "historical position of the party",
+   "source": "马克思主义",
+   "wordNumber": "03.0641",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党在十六大提出的科学概念，指党在时代和历史发展中所处的位置。认清党的历史方位，是党制定正确的理论、路线、方针、政策的根本前提，关系到党的事业的兴衰成败。中国共产党自身建设的全部历史经验证明，党的建设的"
+  },
+  {
+   "cn": "抗日游击战争的战略地位",
+   "en": "strategic position of antiJapanese guerrilla warfare",
+   "source": "马克思主义",
+   "wordNumber": "03.0427",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《抗日游击战争的战略问题》《论持久战》等文中指出：抗日战争中，游击战辅助了正规战，把自己也变为正规战。在整个抗日战争中，尤其是在战略相持阶段，游击战是主要的战争形式。忽视抗日游击战争的战略地位"
+  },
+  {
+   "cn": "坚持党的领导人民当家作主和依法治国有机统一",
+   "en": "integrate the leadership of the party the position of the people as masters of the country and the rule of law",
+   "source": "马克思主义",
+   "wordNumber": "03.0658",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国特色社会主义民主政治的科学内涵，反映我国民主政治建设的基本规律和客观要求。党的领导是人民当家作主和依法治国的根本保证；人民当家作主是社会主义民主政治的本质要求；实现党的领导和人民当家的辩证统一，关"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,172 @@
+{
+ "key": "specificationism",
+ "term": "specificationism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:18:08+00:00",
+ "status": "ok",
+ "note": "variant=specificationism; 审定公布名词库=4; 海峡两岸名词对照库=3; 其他来源数据库=8; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "地图规范",
+   "en": "cartographic specifications",
+   "source": "地理学名词",
+   "wordNumber": "27.138",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "由权威部门制定的指导某种地图设计与编制的统一标准与规程。"
+  },
+  {
+   "cn": "技术条款",
+   "en": "technical specifications",
+   "source": "土木工程名词",
+   "wordNumber": "13.010",
+   "subjectFullName": "土木工程_工程施工_施工管理",
+   "subjectName": "施工管理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "车辆设计规范",
+   "en": "specifications for design of cars",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0986",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "同轴电缆数据接口规范",
+   "en": "data-over-cable service interface specifications,DOCSIS",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0316",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "由多媒体电缆网络系统联盟提出的在HFC网络上进行数据传输的标准。其目标是透明地在用户电缆调制解调器（Modem)和头端电缆调制解调器端接系统之间传送IP流量。"
+  },
+  {
+   "cn": "地图规范",
+   "en": "cartographic specifications",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "协议规范",
+   "en": "protocol specifications",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测量规范",
+   "en": "specifications of surveys",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "《20100028-T-241 电子文件通用元数据规范》",
+   "en": "20100028-T-241 Specifications for the generic metadata of electronic records",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 39044-2020 政务服务平台接入规范》",
+   "en": "GB/T 39044-2020 Access specifications of government administrative service platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20160504-T-524 能源互联网数据平台技术规范》",
+   "en": "20160504-T-524 Technical specifications for data platform of energy Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《JT/T 1206-2018 长江航运信息系统 数据交换共享规范》",
+   "en": "JT/T 1206-2018 Yangtze River shipping information system — Specifications for data exchanging and sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 30285-2013 信息安全技术 灾难恢复中心建设与运维管理规范》",
+   "en": "GB/T 30285-2013 Information security technology — Construction and maintenance management specifications of disaster recovery center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 25056-2018 信息安全技术 证书认证系统密码及其相关安全技术规范》",
+   "en": "GB/T 25056-2018 Information security technology — Specifications of cryptography and related security technology for certificate authentication system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/IEEE 2003-2003 信息技术标准 测量与POSIX标准相符合的试验方法规范和试验方法执行要求和指南》",
+   "en": "ANSI/IEEE 2003-2003 Standard for information technology — Requirements and guidelines for test methods specifications and test method implementations for measuring conformance to POSIX standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《IEEE 802.11v-2011 信息技术 系统间通信和信息交换 局域网和城域网 详细要求 第11部分：无线局域网媒体访问控制(MAC)和物理层(PHY)规范 修改件8:IEEE 802.11无线网管理》",
+   "en": "IEEE 802.11v-2011 Information technology — Telecommunications and information exchange between systems — Local and metropolitan area networks — Specific requirements — Part 11: Wireless LAN medium access control (MAC) and physical layer (PHY) specifications — Amendment 8: IEEE 802.11 wireless network management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际食品微生物标准委员会",
+   "en": "International Commission on Microbiological Specifications for Foods, ICMSF",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.9",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "1962 年通过国际微生物学会联合会（IUMS）下属的国际食品微生物学和卫生委员会成立，旨在收集、关联和评估有关食品微生物安全和质量的证据、评估微生物标准的合理性、提出相关标准以及推荐抽样和检测方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

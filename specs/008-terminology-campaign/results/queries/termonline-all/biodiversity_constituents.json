@@ -1,0 +1,442 @@
+{
+ "key": "biodiversity constituents",
+ "term": "biodiversity constituents",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:11:52+00:00",
+ "status": "ok",
+ "note": "variant=biodiversity constituents; 审定公布名词库=85; 海峡两岸名词对照库=48; 其他来源数据库=3; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "农学名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "栖息于一定环境的所有动物、植物和微生物物种所拥有的全部基因以及它们与生存环境所组成的生态系统的总称。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0148",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "生物中的多样化和变异性以及物种生境的生态复杂性。包括植物、动物和微生物的所有种及其组成的群落和生态系统。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0172",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "地球上生物的多样化和可变性。是在遗传、物种和生态系统水平上对变异的度量。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "兽医学名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "兽医学_兽医公共卫生学",
+   "subjectName": "兽医公共卫生学",
+   "publishYear": "2023",
+   "definition": "在一定范围内由多种多样活的有机体(动物、植物、微生物)有规律地结合所构成的稳定生态综合体。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "动物学名词",
+   "wordNumber": "7.0597",
+   "subjectFullName": "动物学_动物生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2021",
+   "definition": "一定地区的各种生物以及由这些生物所构成的生命综合体的丰富程度。包括遗传多样性、物种多样性和生态系统多样性。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "电力名词",
+   "wordNumber": "13.052",
+   "subjectFullName": "电力_水力发电",
+   "subjectName": "水力发电",
+   "publishYear": "2020",
+   "definition": "在地球不同环境中生物遗传基因的品系、物种和生态系统多样性的总和。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "04.011",
+   "subjectFullName": "化工（四）_可持续发展",
+   "subjectName": "可持续发展",
+   "publishYear": "2020",
+   "definition": "所有来源的活的生物体中的变异性。这些来源包括陆地、海洋和其他水生生态系统及其所构成的生态综合体等。包含物种内部、物种之间和生态系统的多样性。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "植物学名词",
+   "wordNumber": "13.0612",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "一定地区的各种生物以及由这些生物所构成的生命综合体的丰富程度。包括遗传多样性、物种多样性和生态系统多样性。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "微生物学名词",
+   "wordNumber": "07.124",
+   "subjectFullName": "微生物学_微生物生态学",
+   "subjectName": "微生物生态学",
+   "publishYear": "2012",
+   "definition": "地球上所有生物类群层次结构(物种多样性)、基因和功能(遗传多样性)以及由这些生物与环境相互作用所构成的生态系统(生态多样性)的多样化状态。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "资源科学技术名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "资源科学技术_资源生态学",
+   "subjectName": "资源生态学",
+   "publishYear": "2008",
+   "definition": "地球上所有的生物——植物、动物和微生物及其生存环境的总和，包括遗传多样性、物种多样性、生态系统多样性、景观多样性四个层次。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0865",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "遗传基因、物种和生态系统三个层次多样性的总称。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "生态学名词",
+   "wordNumber": "13.011",
+   "subjectFullName": "生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2006",
+   "definition": "生物类群层次结构和功能的多样性。包括遗传多样性、物种多样性、生态系统多样性和景观多样性。"
+  },
+  {
+   "cn": "组分",
+   "en": "constituent",
+   "source": "公路交通科技名词",
+   "wordNumber": "08.244",
+   "subjectFullName": "公路交通科学技术_筑路用材料及性能",
+   "subjectName": "筑路用材料及性能",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "组份",
+   "en": "constituent",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同形替代法",
+   "en": "constituent substitution,constituent replacement",
+   "source": "语言学名词",
+   "wordNumber": "05.033",
+   "subjectFullName": "语言学_语义学、词汇学_语义、词义分析法",
+   "subjectName": "语义、词义分析法",
+   "publishYear": "2011",
+   "definition": "①词汇学术语。根据语言成分替换能力的强弱程度来确定词与非词之间的界限的方法。②语法学术语。从语言结构中分析和确定基本语法单位的方法。"
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "风景园林名词",
+   "wordNumber": "12.0152",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "以挽救生物多样性、研究生物多样性和持续、合理利用生物多样性为宗旨的理论研究与实践。"
+  },
+  {
+   "cn": "城市生物多样性",
+   "en": "urban biodiversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0151",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "城市范围内的生物及其生存环境所形成的生态复合体。"
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity conservation ",
+   "source": "草学名词",
+   "wordNumber": "3.0227",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性编目",
+   "en": "biodiversity inventory ",
+   "source": "草学名词",
+   "wordNumber": "3.0239",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "动物学名词",
+   "wordNumber": "7.0603",
+   "subjectFullName": "动物学_动物生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2021",
+   "definition": "以挽救生物多样性、研究生物多样性和持续、合理利用生物多样性为宗旨的理论研究与实践。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "组分",
+   "en": "constituent",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分潮",
+   "en": "constituent\",\"tidal constituent",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性监测",
+   "en": "biodiversity monitoring",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性评估",
+   "en": "biodiversity assessment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性热点",
+   "en": "biodiversity hotspot",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性热点",
+   "en": "biodiversity hotspot",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性信息学",
+   "en": "biodiversity informatics",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性热点",
+   "en": "biodiversity hotspot",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "组分",
+   "en": "constituent\",\"component",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活性组分",
+   "en": "active constituent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "子公司",
+   "en": "constituent company",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性保护工程",
+   "en": "biodiversity protection project",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球生物多样性信息网络",
+   "en": "Global Biodiversity Information Facility (GBIF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "立宪会议",
+   "en": "constituent assembly",
+   "source": "马克思主义",
+   "wordNumber": "03.0275",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "资产阶级民主制的一种组织形式。在资产阶级民主革命时期，为了和沙皇专制制度作斗争，列宁把召开立宪会议作为实现俄国社会民主工党最低纲领的口号提出，这个口号在人民群众中得到了广泛传播。二月革命后，资产阶级临"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

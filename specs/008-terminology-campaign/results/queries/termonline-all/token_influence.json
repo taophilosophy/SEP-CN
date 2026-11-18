@@ -1,0 +1,742 @@
+{
+ "key": "token influence",
+ "term": "token influence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:13:16+00:00",
+ "status": "ok",
+ "note": "variant=token influence; 审定公布名词库=254; 海峡两岸名词对照库=104; 其他来源数据库=18; 预公布名词数据库=27; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "词元",
+   "en": "token",
+   "source": "计算机科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "计算机科学技术_人工智能",
+   "subjectName": "人工智能",
+   "publishYear": "2026",
+   "definition": ""
+  },
+  {
+   "cn": "标码",
+   "en": "token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0670",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "佩特里网中一个标识 M在某库所s上的取值M(s)称为库所s 中的标码数。用图形表示时，一个标码用一个圆点表示。"
+  },
+  {
+   "cn": "记号",
+   "en": "token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0141",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语言中具有独立意义的最小单位。"
+  },
+  {
+   "cn": "例",
+   "en": "token",
+   "source": "语言学名词",
+   "wordNumber": "01.163",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "数理语言学术语。“型”在言语交际中的具体表现。比如，“He who laughs last laughs longest.”这句话中的两个“laugh”是同一个“型”的两个“例”。"
+  },
+  {
+   "cn": "词例化程序",
+   "en": "tokenizer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0508",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "将自然语言文本或句子划分为词、标点等基本组成单位的过程。对汉语而言即为分词，对于英语等已有空格标记的语言，主要完成标点与词的分离、连写形式的分解等。"
+  },
+  {
+   "cn": "代币疗法",
+   "en": "token economy",
+   "source": "行为医学名词",
+   "wordNumber": "20.02",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "将具有交换价值的象征物（代币）与真实强化物建立关联，以强化所期望行为的一种治疗方法。"
+  },
+  {
+   "cn": "个性标码",
+   "en": "individual token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0657",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在着色佩特里网中，标码是分类（或者说以不同的颜色）的，这些不同类型的标码称为个性标码。"
+  },
+  {
+   "cn": "身份令牌",
+   "en": "identity token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0119",
+   "subjectFullName": "计算机科学技术_信息安全_安全协议与分析技术",
+   "subjectName": "安全协议与分析技术",
+   "publishYear": "2018",
+   "definition": "含有验证身份的智能卡或某种形式的电子载体。"
+  },
+  {
+   "cn": "冻结标码",
+   "en": "frozen token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0661",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在一个佩特里网中，如果某库所中的一个标码在运行过程中一直保留在原库所内，其运行情况不受影响，那么就说该标码是冻结标码。"
+  },
+  {
+   "cn": "鉴别令牌",
+   "en": "authentication token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0117",
+   "subjectFullName": "计算机科学技术_信息安全_安全协议与分析技术",
+   "subjectName": "安全协议与分析技术",
+   "publishYear": "2018",
+   "definition": "供验证方鉴别持证方真实性的一种数据。"
+  },
+  {
+   "cn": "访问令牌",
+   "en": "access token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0178",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "包含对用户授权信息的数据结构，用来控制安全访问，并对用户在本地计算机上执行各种与系统相关的操作能力进行控制。"
+  },
+  {
+   "cn": "令牌传递",
+   "en": "token passing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0202",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "在网络中循环传递令牌的介质访问方法。得到令牌的站可以发送数据。"
+  },
+  {
+   "cn": "令牌恢复",
+   "en": "token restore",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0226",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "一种令牌管理操作。用于将数据载入一个安全令牌，目的是重新生成（复制）原先由该令牌或另一个令牌携带的数据。"
+  },
+  {
+   "cn": "令牌环",
+   "en": "token ring",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0203",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "一种使用环拓扑和令牌传递介质访问方法的局域网。"
+  },
+  {
+   "cn": "密钥生成令牌",
+   "en": "keygen token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0946",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "在移动IPv6的返回路由过程中由通信结点提供的一个身份验证码。使得移动结点能够计算绑定更新需要使用的绑定管理密钥。"
+  },
+  {
+   "cn": "代币强化物",
+   "en": "token reinforcer",
+   "source": "心理学名词",
+   "wordNumber": "02.155",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "使用代币物可换取的真正强化物。如钱币、扑克牌、食品等。"
+  },
+  {
+   "cn": "代币法",
+   "en": "token economy",
+   "source": "心理学名词",
+   "wordNumber": "15.036",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "将具有交换价值的象征物(代币)与真实强化物建立关联，并以其强化所期望行为的一种治疗方法。"
+  },
+  {
+   "cn": "词例",
+   "en": "word token",
+   "source": "语言学名词",
+   "wordNumber": "11.039",
+   "subjectFullName": "语言学_计算语言学_词处理",
+   "subjectName": "词处理",
+   "publishYear": "2011",
+   "definition": "词汇表中的词在语料中的每一次出现。"
+  },
+  {
+   "cn": "词频标记",
+   "en": "word token",
+   "source": "语言学名词",
+   "wordNumber": "06.334",
+   "subjectFullName": "语言学_辞书学_辞书现代化",
+   "subjectName": "辞书现代化",
+   "publishYear": "2011",
+   "definition": "语词在特定文本或语料库中出现的实例，即一个语言形式出现一次就为一个标记数。语料库的词频统计常用标记数表示。"
+  },
+  {
+   "cn": "信号刺激",
+   "en": "token stimulus",
+   "source": "昆虫学名词",
+   "wordNumber": "07.234",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "由外界环境而非有关生物发出的有某种指示作用的信号。"
+  },
+  {
+   "cn": "令牌",
+   "en": "token",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "权标，令牌",
+   "en": "token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代币法",
+   "en": "token economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "色块测验",
+   "en": "token test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "象征性出口",
+   "en": "token export",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "象征性进口",
+   "en": "token import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单个记号",
+   "en": "single token",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标记变量",
+   "en": "token variable",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记类型",
+   "en": "token type",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标识权标",
+   "en": "identity token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "冻结标记",
+   "en": "frozen token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复合标记",
+   "en": "compound token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个性标记",
+   "en": "individual token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "令牌环",
+   "en": "token ring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "令牌总线",
+   "en": "token bus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "权标持有站，令牌持有站",
+   "en": "token holder",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "权标传递，令牌传递",
+   "en": "token passing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据权标",
+   "en": "data token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信号刺激",
+   "en": "token stimulus",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "令牌类型值",
+   "en": "token type value",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代币化",
+   "en": "tokenization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支付标记化",
+   "en": "payment tokenization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支付标记化技术",
+   "en": "tokenized payment technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动态口令卡",
+   "en": "one-time password (OTP) token",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不言之教",
+   "en": "Influence Others Without Preaching",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GA/T 1545-2019 信息安全技术 智能密码钥匙安全技术要求》",
+   "en": "GA/T 1545-2019 Information security technology — Security technical requirement for smart tokens",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "穷达以时",
+   "en": "Poverty and Prosperity Are Influenced by the Times.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流感",
+   "en": "influenza; flu",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高致病性禽流感",
+   "en": "highly pathogenic avian influenza (HPAI)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "不是被测量却能影响测量结果的量。"
+  },
+  {
+   "cn": "社会影响",
+   "en": "social influence",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2025",
+   "definition": "4.1.16.1  权威人格  authoritarian personality"
+  },
+  {
+   "cn": "遗传影响",
+   "en": "genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "个体的特性完全或部分由遗传因素所决定的现象。"
+  },
+  {
+   "cn": "表观遗传影响",
+   "en": "epigenetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "环境因素和细胞内的遗传物质之间发生交互作用，使生物在环境不断变化的情况下，能够维持遗传序列稳定特征的过程。"
+  },
+  {
+   "cn": "有机物影响试验",
+   "en": "organic influence test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价不同种类和浓度的有机物对消毒剂杀菌作用的影响，为制定消毒剂的实用剂量提供参考的试验。"
+  },
+  {
+   "cn": "pH值影响试验",
+   "en": "pH influence test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价pH值对消毒剂杀菌作用的影响，为制定消毒剂的实用剂量提供参考的试验。"
+  },
+  {
+   "cn": "温度影响试验",
+   "en": "temperature influence test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价不同温度对消毒剂杀菌作用的影响，为制定消毒剂的实用剂量提供参考的试验。"
+  },
+  {
+   "cn": "家族性遗传影响",
+   "en": "familial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "遗传信息在亲-子代间的传递过程。是生长发育的主要遗传方式。"
+  },
+  {
+   "cn": "种族性遗传影响",
+   "en": "racial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "共同血缘和一些可稳定遗传的体质特征在上下代之间的传递过程。"
+  },
+  {
+   "cn": "社会影响理论",
+   "en": "social influence theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "埃文斯（Evans）提出的通过提升儿童青少年对不良社会影响（如同伴压力、家庭或媒体的不良影响）的应对能力，以预防健康危险行为的干预理论。"
+  },
+  {
+   "cn": "青春期发育种族影响",
+   "en": "racial influence on puberty",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "不同种族在青春期体格和性发育等方面存在明显差异的现象。"
+  },
+  {
+   "cn": "消毒影响因素",
+   "en": "influencing factor of disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.22",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "消毒过程中涉及的影响消毒效果的各种因素，如环境温湿度、用水水质、pH值以及有机物等。"
+  },
+  {
+   "cn": "S类影响量",
+   "en": "influence quantity of type S",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "使指示值产生偏差的影响量，该偏差与指示值无关。"
+  },
+  {
+   "cn": "F类影响量",
+   "en": "influence quantity of type F",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "在响应中影响指示值变化的影响量。"
+  },
+  {
+   "cn": "体格发育种族影响",
+   "en": "racial influence on physical development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "体格生长存在明显种族差异的现象。不同种族身高、坐高、下肢长等体格发育指标存在显著差异。"
+  },
+  {
+   "cn": "新生儿死亡影响因素",
+   "en": "influencing factors of neonatal death",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.4.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "导致新生儿死亡的原因，包括早产、出生窒息、产伤、先天畸形、感染、代谢异常等。"
+  },
+  {
+   "cn": "生长发育影响因素",
+   "en": "influence factor of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "影响儿童少年生长发育的各种因素，包括遗传因素、物质环境因素、社会决定因素和行为生活方式因素。"
+  },
+  {
+   "cn": "体型发育种族影响",
+   "en": "racial influence on body type development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "不同种族存在鲜明外形特征差异的现象。"
+  },
+  {
+   "cn": "性行为前饮酒或滥用药物",
+   "en": "engaging in sexual activity under the influence of alcohol or drugs",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "在饮酒或滥用药物状态下发生的性行为（常有失安全考虑）。"
+  },
+  {
+   "cn": "进水",
+   "en": "influent",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.7.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "潜艇在航行过程中，由于外壳破损、操作失误等原因使海水进入到艇内的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,422 @@
+{
+ "key": "rationalists",
+ "term": "rationalists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:14:51+00:00",
+ "status": "ok",
+ "note": "variant=rationalists; 审定公布名词库=36; 海峡两岸名词对照库=4; 其他来源数据库=2; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "心理学名词",
+   "wordNumber": "04.068",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "与经验主义相对。强调主体先天固有的能动性，夸大理智、智慧和意志的主导作用。"
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0356",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "理性主义思想在不同时期的建筑思潮中广泛存在，但狭义的理性主义指20世纪20年代兴起于意大利的一种现代建筑思潮。试图综合理性几何学和结构逻辑学，注重建筑目的、建造过程与建筑使用的逻辑性。代表作品有特拉尼"
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "语言学名词",
+   "wordNumber": "01.185",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "与“经验主义”相对。一种哲学方法。认为人的推理可以作为知识来源的理论基础。一般认为随着笛卡尔的理论而产生，17—18世纪期间主要在欧洲大陆传播。"
+  },
+  {
+   "cn": "科学合理性",
+   "en": "scientific rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.126",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学符合严格程序（如逻辑方法）或具有实现目标（如带近真理或解决问题）的有效性。"
+  },
+  {
+   "cn": "批判理性主义",
+   "en": "critical rationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "认为科学方法就是猜测—反驳方法。科学沿着“问题（P1）—假说（TT）—证伪（EE）—问题（P2）”四段图式不断演进，逐渐向高证伪度和高逼真度接近。"
+  },
+  {
+   "cn": "价值合理性",
+   "en": "value rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人不计较其行为后果而只注重其行为能否实现社会的公平、正义、忠诚、荣誉等。"
+  },
+  {
+   "cn": "交往理性",
+   "en": "communicative rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "在以语言为媒介的交往过程中，交往者能够相互交流、相互理解和相互信任，并由此保持的社会一体化、有序化和合理化。"
+  },
+  {
+   "cn": "目的合理性",
+   "en": "intention rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.033",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "实现某种目的的工具、手段的合理性，是可以达到预期目的，可经验实证的合理性。"
+  },
+  {
+   "cn": "技术合理性",
+   "en": "technological rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.142",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "依据科学合理的理性观和价值标准反思、评价和规范具体技术实践活动及其结果的价值和效应。"
+  },
+  {
+   "cn": "工程合理性",
+   "en": "engineering rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.140",
+   "subjectFullName": "自然辩证法_工程哲学_工程知识论",
+   "subjectName": "工程知识论",
+   "publishYear": "2024",
+   "definition": "在充分利用可得知识的基础上达成的工程目标设定之合意性与工程手段选择之可行性的统一。"
+  },
+  {
+   "cn": "科学理性",
+   "en": "scientific rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.298",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "人们从事科学认知活动的理论思维能力以及所持有的信念和原则。内容包括形成概念，进行判断、推理、分析、综合、归纳、演绎等思维活动的能力以及自然的可理解性、客观实在性、整体统一性的信念和原则等。"
+  },
+  {
+   "cn": "人文理性",
+   "en": "human rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.299",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "从人出发实现人的自我生成、自我发展、自我实现的认知能力、道德能力和情感能力的总和。人文理性强调人文关怀、伦理价值必须以合乎科学理性为基础。"
+  },
+  {
+   "cn": "实用理性",
+   "en": "practical rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.300",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "坚持以实用为标准、以冷静现实的态度来认识和理解事物的理性能力和思维方式。实用理性是中国传统文化的一种精神特质，本质上是一种经验理性。"
+  },
+  {
+   "cn": "传播理性",
+   "en": "communicative rationality",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.025",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "在传播(交往)之中蕴含的，并通过传播(交往)过程本身加以实现的思想或概念、判断、推理的认识。一般通过理性的辩论、相互理解和对话加以实现。"
+  },
+  {
+   "cn": "经济合理性",
+   "en": "economic rationality",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.203",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_规划及项目的评估",
+   "subjectName": "规划及项目的评估",
+   "publishYear": "2021",
+   "definition": "衡量项目建成后的回报是否能够弥补项目建设所需的各种成本费用等投入的指标。如回报大于投入，即项目具有经济合理性。"
+  },
+  {
+   "cn": "序贯理性",
+   "en": "sequential rationality",
+   "source": "经济学名词",
+   "wordNumber": "03.171",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人在博弈的每一个节点上都会重新优化自己的选择并且把自身在未来的重新优化行为考虑在内。"
+  },
+  {
+   "cn": "有限理性",
+   "en": "bounded rationality",
+   "source": "经济学名词",
+   "wordNumber": "05.009",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "行为者主观上具有理性意向；二是指其理性会受到实际智能的限制，即，一方面由于自身的经验、阅历、知识水平、技能等的限制，另一方面由于行为者面临的是一个复杂的、不确定的世界，所以，人们在做出决策(选择)时常"
+  },
+  {
+   "cn": "集体理性",
+   "en": "collective rationality",
+   "source": "经济学名词",
+   "wordNumber": "14.002",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "一个集体内的每个成员不是按照个体自身利益最大化原则，而是按照所有成员共同利益最大化的原则行事。这一思想源于亚当·斯密（Adam Smith）所揭示的“个人理性会导致集体理性”这一社会“第一定律”，约翰"
+  },
+  {
+   "cn": "个体理性",
+   "en": "individual rationality",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0174",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "单个智能体仅依据自身状态和条件表现出来的符合某种逻辑或效用规定的行为方式。"
+  },
+  {
+   "cn": "智能体的理性",
+   "en": "agent rationality",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0172",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "在资源有限和信息不完全的情况下，为了实现求解目标，智能体采取的符合某种逻辑或者效用规定的行为方式。"
+  },
+  {
+   "cn": "理性主义者",
+   "en": "rationalist",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "马克思主义",
+   "wordNumber": "01.0172",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）思维发展的高级阶段，与“感性”相对，指形成概念，进行判断、分析、综合、比较、推理、计算等方面的能力和活动。（2）与感觉、知觉、情感和欲望相对的性格特征，指按照事物存在的真实状况和发展的内在规律处"
+  },
+  {
+   "cn": "唯理论",
+   "en": "rationalism",
+   "source": "马克思主义",
+   "wordNumber": "01.0175",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）与经验主义相对，认为具有普遍必然性的可靠知识不是、也不可能来自经验，而是从先天的、不可否认的“自明之理”出发，经过严密的逻辑推理得到的。（2）轻视感性经验的作用，仅从概念出发，用逻辑推理和理性思"
+  },
+  {
+   "cn": "民族资产阶级",
+   "en": "nationalist bourgeoisie",
+   "source": "社会学名词",
+   "wordNumber": "2.6.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_当代中国社会分层",
+   "subjectName": "当代中国社会分层",
+   "publishYear": "2025",
+   "definition": "殖民地或半殖民地社会的本土资产阶级。常常受到外国资本以及与外国资本有紧密联系的买办资产阶级和官僚资产阶级的挤圧，与统治集团（阶级）存在利益冲突，因此毛泽东认为他们具有一定的革命性。"
+  },
+  {
+   "cn": "价值理性",
+   "en": "value rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动者相信特定的行为无条件地具有价值，行动者强调追求动机的纯正和选择正确的手段去实现目的，而不管其结果如何的行动取向。"
+  },
+  {
+   "cn": "工具理性",
+   "en": "instrumental rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.7",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动只由追求功利的动机所驱使，行动者纯粹从效用最大化的角度考虑，在行动中漠视人的情感和精神价值，借助理性算计达到预期目的的行动取向。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "一种关注所有生命形态和谐共生的理性形式。它把人类视为生态系统中的一个有机组成部分，与其他生命系统相互联系、相互影响，共同构建生物共同体的和谐、健康、稳定、完整与统一。行为决策以保护经济资源、促进生态系"
+  },
+  {
+   "cn": "社会理性",
+   "en": "social rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "社会中的个体以整个社会或群体的利益为目标，使社会或群体利益最大化的思维倾向和行动动力。"
+  },
+  {
+   "cn": "法律的理性化",
+   "en": "legal rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.7.4.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的理性化",
+   "subjectName": "法律的理性化",
+   "publishYear": "2025",
+   "definition": "法律从实质理性逐渐转变形式理性的过程。马克斯·韦伯提出的概念，主要体现为法律是由规则构成的体系，通过逻辑推理能够从普遍规则推导出适用于个案的决定。"
+  },
+  {
+   "cn": "合理性规范",
+   "en": "rationality norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.12",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "用批评的眼光看待所有人类存在的现象，旨在使它们更加有序一致，并获得普遍的理解。该规范主要强调科学的逻辑性和真理性，即科学知识应当符合逻辑规则，并且符合具体经验事实。"
+  },
+  {
+   "cn": "交往理性",
+   "en": "communicative rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0037",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯重建历史唯物主义的哲学用语，强调在交往中，不同的参与者克服掉了他们最初的那些纯粹主观的观念，同时，为了共同的合理信念而确立起了客观世界的同一性及其生活语境的主体间性，从而实现文明理性的重建。"
+  },
+  {
+   "cn": "经济理性",
+   "en": "economic rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0083",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹（Andre Gorz）认为，经济理性指资本主义生产方式被商品交换所支配，以利润为尺度、以效率为标准，遵循可计算性和效率原则。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0084",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹用语。生态理性指以满足人的基本需要为根本出发点，遵循最低限度的、最大使用价值原则，以达到最优化利用劳动、资本和自然资源的目的。"
+  },
+  {
+   "cn": "批判理性主义",
+   "en": "critical rationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为科学方法就是猜测—反驳方法。科学沿着“问题（P1）—假说（TT）—证伪（EE）—问题（P2）”四段图式不断演进，逐渐向高证伪度和高逼真度接近。"
+  },
+  {
+   "cn": "有限理性",
+   "en": "bounded rationality",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.7",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体虽然主观上希望做出理性选择，但是因为其认知限制而无法做出使自己效用最大化的理性选择。"
+  },
+  {
+   "cn": "生物学合理性原则",
+   "en": "biological rationality principle",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "接触电离辐射与放射性疾病的发生存在生物学上的合理性，即电离辐射的物理学特性、毒理学资料等证实电离辐射可导致相应疾病，且疾病的表现与电离辐射的生物学效应一致。"
+  },
+  {
+   "cn": "技术理性批判",
+   "en": "technical rationality critique",
+   "source": "马克思主义",
+   "wordNumber": "05.0023",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "西方马克思主义者对现代社会的批判内容之一。与大众文化批判、意识形态批判、心理机制批判相比，技术理性批判具有基础性地位。卢卡奇、马尔库塞和哈贝马斯等人都在技术理性批判方面有独到的贡献，其中马尔库塞的技术"
+  },
+  {
+   "cn": "理性的铁笼",
+   "en": "iron cage of rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.8",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "马克斯•韦伯对西方现代性问题诊断的重要隐喻。他指出，现代化是一个理性化的过程，以计算为核心特质的工具理性取代了以信仰为核心特质的价值理性；社会的组织逐渐科层化，交往文本化、去人格化、专业化、等级化等官"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

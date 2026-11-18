@@ -1,0 +1,632 @@
+{
+ "key": "alcoholism",
+ "term": "alcoholism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:11:55+00:00",
+ "status": "ok",
+ "note": "variant=alcoholism; 审定公布名词库=260; 海峡两岸名词对照库=45; 其他来源数据库=12; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "酒精中毒",
+   "en": "alcoholism",
+   "source": "行为医学名词",
+   "wordNumber": "15.069",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾相关障碍",
+   "subjectName": "成瘾相关障碍",
+   "publishYear": "2022",
+   "definition": "一种短暂性躯体或心理障碍。发生于酒精使用期间或使用后不久，表现为短暂性的意识、认知、感知觉、情感、行为或协调性紊乱，严重时可出现昏迷。"
+  },
+  {
+   "cn": "酒精中毒",
+   "en": "alcoholism",
+   "source": "精神医学名词",
+   "wordNumber": "03.082",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "饮酒所致的精神和躯体障碍。"
+  },
+  {
+   "cn": "酒病",
+   "en": "alcoholism",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.1405",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "饮酒过度所致的疾病，常见伤酒头痛、酒风、伤酒恶寒、酒渴、酒痰、酒积、酒胀、酒泄、酒注、伤酒鼻衄、伤酒吐血、酒积便血等。"
+  },
+  {
+   "cn": "酒精中毒",
+   "en": "alcoholism",
+   "source": "医学名词 第六分册",
+   "wordNumber": "10.041",
+   "subjectFullName": "医学_急诊医学",
+   "subjectName": "急诊医学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "酒精中毒",
+   "en": "alcoholism",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.173",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "酒瘾者",
+   "en": "alcoholic",
+   "source": "行为医学名词",
+   "wordNumber": "15.041",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "罹患酒精依赖症的人。"
+  },
+  {
+   "cn": "酒瘾者",
+   "en": "alcoholic",
+   "source": "精神医学名词",
+   "wordNumber": "03.099",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "慢性酒精中毒的人。"
+  },
+  {
+   "cn": "酒精化",
+   "en": "alcoholization",
+   "source": "行为医学名词",
+   "wordNumber": "15.04",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "频繁、大量地饮用酒精饮料，以维持高浓度血液酒精水平的表现。同时也是不断增加饮酒频度的过程。"
+  },
+  {
+   "cn": "酒精化",
+   "en": "alcoholization",
+   "source": "精神医学名词",
+   "wordNumber": "03.100",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "频繁、大量地饮用酒精饮料，以维持高的血液酒精水平，并不断增加饮酒频度的过程。"
+  },
+  {
+   "cn": "醇",
+   "en": "alcohol",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.064",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "烃分子中的1个或几个氢原子被羟基替代的有机物。"
+  },
+  {
+   "cn": "醇",
+   "en": "alcohol",
+   "source": "化学名词",
+   "wordNumber": "02.0027",
+   "subjectFullName": "化学_有机化学_有机化合物_有机化合物及其类名",
+   "subjectName": "有机化合物及其类名",
+   "publishYear": "2016",
+   "definition": "羟基(—OH)连接在饱和碳原子上的化合物。一元醇结构式为R'R''R'''C—OH(R'，R'，R'''为H或烃基)。"
+  },
+  {
+   "cn": "醇化",
+   "en": "alcoholization",
+   "source": "化学名词",
+   "wordNumber": "01.0418",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "溶剂为醇的溶剂化作用。"
+  },
+  {
+   "cn": "蜡醇",
+   "en": "wax alcohol;ceryl alcohol",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "7.0207",
+   "subjectFullName": "生物化学与分子生物学_脂质_萜类_单糖衍生物",
+   "subjectName": "单糖衍生物",
+   "publishYear": "2024",
+   "definition": "二十六碳饱和醇。生物蜡含有的一种高分子长链醇。能与高级脂肪酸酯化形成蜡的高级一元醇。如鲸蜡醇为十六烷醇。"
+  },
+  {
+   "cn": "脂肪醇",
+   "en": "fatty alcohol,aliphatic alcohol",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.065",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "脂肪烃中的1个或几个氢原子被羟基替代的化合物。"
+  },
+  {
+   "cn": "酒厥",
+   "en": "alcoholism syncope",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0019",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "过量饮酒所致的厥证。"
+  },
+  {
+   "cn": "急性酒精中毒",
+   "en": "acute alcoholism",
+   "source": "行为医学名词",
+   "wordNumber": "7.044",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_戒烟",
+   "subjectName": "戒烟",
+   "publishYear": "2022",
+   "definition": "一次大量饮酒引起的机体急性功能异常。"
+  },
+  {
+   "cn": "慢性酒精中毒",
+   "en": "chronic alcoholism",
+   "source": "行为医学名词",
+   "wordNumber": "7.045",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_戒烟",
+   "subjectName": "戒烟",
+   "publishYear": "2022",
+   "definition": "长期过量饮酒导致的机体功能异常。"
+  },
+  {
+   "cn": "酒精性肝硬化",
+   "en": "alcoholic cirrhosis",
+   "source": "普通外科学名词",
+   "wordNumber": "21.066",
+   "subjectFullName": "医学_普通外科学_门静脉高压症",
+   "subjectName": "门静脉高压症",
+   "publishYear": "2026",
+   "definition": "长期饮酒导致肝细胞脂肪变性、坏死，肝慢性炎症、纤维化导致的肝硬化。"
+  },
+  {
+   "cn": "酒精发酵",
+   "en": "alcoholic fermentation",
+   "source": "农学名词",
+   "wordNumber": "17.203",
+   "subjectFullName": "农产品贮运与加工_果蔬加工",
+   "subjectName": "果蔬加工",
+   "publishYear": "2025",
+   "definition": "酵母菌在厌氧条件下经过菌体内一系列酶的作用，把可发酵性糖转化成酒精和CO₂，然后通过细胞膜把产物排出菌体外的过程。"
+  },
+  {
+   "cn": "酒精中毒",
+   "en": "alcoholic intoxication",
+   "source": "肝病学名词",
+   "wordNumber": "4.2.2.1.3.5",
+   "subjectFullName": "肝病学_脂肪性肝病_酒精性肝病",
+   "subjectName": "酒精性肝病",
+   "publishYear": "2024",
+   "definition": "过量饮酒导致的与酒精相关的临床综合征。表现为神经肌肉系统症状和体征、多种代谢紊乱和血生化改变等，以及急、慢性器官功能障碍和组织损伤，但症状和体征差异较大，取决于遗传因素及摄入酒精的类型、总量和速率，饮"
+  },
+  {
+   "cn": "醇",
+   "en": "alcohol",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "醇化",
+   "en": "alcoholization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "蜡醇, 二十六［烷］醇",
+   "en": "wax alcohol\",\"ceryl alcohol",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生醇发酵",
+   "en": "alcoholic fermentation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "醇苷",
+   "en": "alcoholic glycoside",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "多烯醇",
+   "en": "polyene alcohol",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "糖蜜酒精",
+   "en": "molasses alcohol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工业酒精",
+   "en": "industrial alcohol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "脂肪醇",
+   "en": "fatty alcohol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "燃料酒精",
+   "en": "fuel alcohol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "脱水酒精",
+   "en": "dehydrated alcohol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "羊毛脂醇",
+   "en": "wool alcohol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无水乙醇，无水酒精",
+   "en": "absolute alcohol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聚乙烯醇",
+   "en": "polyvinyl alcohol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固化酒精",
+   "en": "solidified alcohol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无水酒精（=无水乙醇）",
+   "en": "absolute alcohol",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "酒精依赖",
+   "en": "alcohol dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "酒精滥用",
+   "en": "alcohol abuse",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "酒精成瘾",
+   "en": "alcohol addiction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "聚乙烯醇",
+   "en": "polyvinyl alcohol",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "含酒精的消毒液",
+   "en": "alcohol-based disinfectant",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "含酒精洗手液",
+   "en": "alcohol-based hand rub/sanitizer",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "酒精中毒",
+   "en": "alcoholism",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.5.1",
+   "subjectFullName": "食品卫生学_食源性疾病_其他食源性疾病",
+   "subjectName": "其他食源性疾病",
+   "publishYear": "2025",
+   "definition": "乙醇摄入过量导致中枢神经先兴奋后抑制的中毒性疾病。主要表现为行为和意识异常，严重者可引起多系统损害，甚至危及生命。"
+  },
+  {
+   "cn": "酒类",
+   "en": "alcoholic drink",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "用高粱、米、麦等谷物或葡萄等水果发酵制成的含乙醇的饮料。"
+  },
+  {
+   "cn": "饮酒",
+   "en": "alcohol intake",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.6",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "摄入含乙醇的饮料的行为，包括白酒、啤酒、葡萄酒或黄酒等。"
+  },
+  {
+   "cn": "过量饮酒",
+   "en": "alcohol abuse",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "超出适量饮酒的标准或可接受程度的饮酒现象。"
+  },
+  {
+   "cn": "酒精依赖",
+   "en": "alcohol dependence",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "对酒精产生生理和心理上的依赖，无法停止饮酒或控制饮酒量的现象。"
+  },
+  {
+   "cn": "酒精度",
+   "en": "alcohol content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.2",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以蒸馏法去除样品中的不挥发性物质，用密度瓶法测出试样（酒精水溶液）20 度时的密度，求得在20 度时乙醇含量的体积分数。"
+  },
+  {
+   "cn": "聚乙烯醇",
+   "en": "polyvinyl alcohol",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.18.4",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "结构重复单元为CH₂CH(OH)的水溶性聚合物。具有很好的黏结性和成膜性，可作为被膜剂用于糖果制品包衣。"
+  },
+  {
+   "cn": "小茴香醇",
+   "en": "fenchyl alcohol",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.1.16",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "具有偕二甲基结构的双环单萜仲醇，化学名称1,3,3-三甲基双环[2,2,1]庚-2-醇。具有小茴香香气，可作为食品用香料"
+  },
+  {
+   "cn": "食用酒精",
+   "en": "edible alcohol",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.4",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以谷物、薯类、糖蜜或其他可食用农作物为主要原料，经发酵、蒸馏精制而成的，供食品工业使用的含水酒精。"
+  },
+  {
+   "cn": "高级醇",
+   "en": "higher alcohol",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.9",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "含3 个及以上碳原子醇类的总称，是酒类发酵过程中产生的主要副产物，包括正丙醇、正丁醇、异丁醇、异戊醇等。"
+  },
+  {
+   "cn": "蒸馏酒",
+   "en": "distilled alcoholic drink",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.2",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以粮谷、薯类、水果、乳类等为主要原料，经发酵、蒸馏、经或不经勾调而成的饮料酒。"
+  },
+  {
+   "cn": "发酵酒",
+   "en": "fermented alcoholic drink",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.1",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以粮谷、水果、乳类等为主要原料，经发酵或部分发酵酿制而成的饮料酒。"
+  },
+  {
+   "cn": "醇类消毒剂",
+   "en": "alcohol-based disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.7",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以乙醇和（或）丙醇为主要有效成分且有效浓度一般为70%～80%（v/v）的消毒剂。多用于手、完整皮肤、物体表面的擦拭消毒。"
+  },
+  {
+   "cn": "醇不溶性固体",
+   "en": "alcohol insoluble solids",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.5",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "罐头食品在乙醇溶剂中的不溶固形物质。"
+  },
+  {
+   "cn": "酒精潮红反应",
+   "en": "alcohol flushing reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.8",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "亚洲人脸红综合症，俗称上脸。在饮用酒精饮料后，由于乙醇脱氢酶活性高或乙醛脱氢酶2 活性低导致酒精（乙醇）代谢物乙醛在体内蓄积，引发面、颈部皮肤潮红、眼结合膜充血、心率加快等一系列不适反应。"
+  },
+  {
+   "cn": "酗酒",
+   "en": "alcohol abuse disorder",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.068",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "沉迷于无节制地过量饮酒。"
+  },
+  {
+   "cn": "正丙醇消毒剂",
+   "en": "normal propyl alcohol disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.7.2.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以正丙醇为主要有效成分，用于消毒的浓度不低于60%（v/v）或50%（w/w），无色透明，易挥发、易燃的液体消毒剂。"
+  },
+  {
+   "cn": "复合醇类消毒剂",
+   "en": "recombination alcohol-based disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.7.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "两种及两种以上醇复配而成，复合醇的总含量一般不低于60%（v/v）或50%（w/w）的消毒剂。"
+  },
+  {
+   "cn": "复方醇类消毒剂",
+   "en": "compound alcohol-based disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.7.4",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "醇与其他消毒剂复配而成，复方醇的总含量一般不低于60%（v/v）的消毒剂。"
+  },
+  {
+   "cn": "速干手消毒剂",
+   "en": "alcohol-based hand rub",
+   "source": "消毒学",
+   "wordNumber": "4.3.1.3.1",
+   "subjectFullName": "消毒学_消毒应用_皮肤黏膜消毒",
+   "subjectName": "皮肤黏膜消毒",
+   "publishYear": "2025",
+   "definition": "能快速挥发实现干燥的醇类手消毒剂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

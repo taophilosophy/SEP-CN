@@ -1,0 +1,532 @@
+{
+ "key": "daoist",
+ "term": "Daoist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:58:11+00:00",
+ "status": "ok",
+ "note": "variant=Daoist; 审定公布名词库=205; 海峡两岸名词对照库=41; 其他来源数据库=9; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "道举",
+   "en": "dao ju;Daoist exam",
+   "source": "中国古代史名词",
+   "wordNumber": "5.118",
+   "subjectFullName": "中国古代史_隋唐五代_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "以考试《老子》《庄子》等道教经典为主要内容的科举科目。唐高祖李渊自承为老子之裔，高宗以来科举考试中或加试《老子》《庄子》，至玄宗设此为科举科目，试《老子》《庄子》《文子》《列子》，举送、课试之法与明经"
+  },
+  {
+   "cn": "二十四治",
+   "en": "Er Shi Si Zhi;twenty-four Daoist Parishes",
+   "source": "中国古代史名词",
+   "wordNumber": "3.231",
+   "subjectFullName": "中国古代史_秦汉_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "汉魏以来五斗米道的24个传教修炼据点。治又称靖、庐，由祭酒主之，为一地传道和管理的中心。按其重要性分为上、中、下治各8个，大多分布于今四川、陕西省境内。"
+  },
+  {
+   "cn": "天师道",
+   "en": "Tian Shi Dao;Daoist Way of the Celestial Masters",
+   "source": "中国古代史名词",
+   "wordNumber": "4.326",
+   "subjectFullName": "中国古代史_魏晋南北朝_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "东汉后期张道陵（即张陵）在蜀地创立的道教派别。尊教主为天师，故名。设二十四治为各地传教及组织活动中心，信徒须出五斗米以充公用，俗间又称“五斗米道”。汉末张修、张鲁在汉中，东晋末孙恩、卢循在三吴均奉此道"
+  },
+  {
+   "cn": "祠禄官",
+   "en": "ci lu guan;official in charge of Daoist temples",
+   "source": "中国古代史名词",
+   "wordNumber": "6.133",
+   "subjectFullName": "中国古代史_两宋_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "宋朝内外宫观岳庙官的总称。又称“宫观官”，以提举某宫某观之类为名，貌似差遣，并不莅事，亦无其他职掌，然有俸禄，多用于养贤优老、安置闲散。"
+  },
+  {
+   "cn": "无为而治",
+   "en": "wu wei er zhi;Daoist conce­ption of ruling of non-action or non­-interference",
+   "source": "中国古代史名词",
+   "wordNumber": "3.015",
+   "subjectFullName": "中国古代史_秦汉_政治_治乱兴衰大事",
+   "subjectName": "治乱兴衰大事",
+   "publishYear": "2022",
+   "definition": "西汉初期在道家思想指导下推行的国策。本为黄老道的治国理念，汉初的惠帝、文帝、景帝时期，有鉴于社会经济凋敝的现实和秦速亡的教训，相继循此为治，以轻徭薄赋，与民休养生息为大政方针，有效地促进了经济恢复和社"
+  },
+  {
+   "cn": "除雾",
+   "en": "demist",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0014",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "从气体中除去微小雾沫的过程。硫酸生产除雾设备有丝网捕沫器、纤维床除雾器、静电除雾器等。"
+  },
+  {
+   "cn": "道家",
+   "en": "Taoism",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0245",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "先秦时期的一个思想派别。以老子、庄子为代表，崇尚自然，倡导无为，擅长辩证思维，是历代统治思想的渊源之一。"
+  },
+  {
+   "cn": "楞木",
+   "en": "joist",
+   "source": "风景园林名词",
+   "wordNumber": "07.0169",
+   "subjectFullName": "风景园林_风景园林建筑_大木作",
+   "subjectName": "大木作",
+   "publishYear": "2025",
+   "definition": "承重的木构，用以承托楼板。"
+  },
+  {
+   "cn": "平口",
+   "en": "waist",
+   "source": "电力名词",
+   "wordNumber": "22.105",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "塔身和塔头之间水平面分界处。"
+  },
+  {
+   "cn": "发烊",
+   "en": "moist",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1236",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "糖体无保护地暴露在湿度较高的空气中，由于其自身的吸水作用，糖体表面逐渐发黏和混浊，严重时糖体变形，甚至从原来的过饱和状态变为不饱和状态的一种现象。"
+  },
+  {
+   "cn": "起重葫芦",
+   "en": "hoist",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0529",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_轻型起重设备",
+   "subjectName": "轻型起重设备",
+   "publishYear": "2013",
+   "definition": "由汇装在公共吊架上的驱动装置、传动装置、制动装置以及挠性件卷放，或夹持装置带动取物装置升降的轻小起重设备。"
+  },
+  {
+   "cn": "提升卷扬机",
+   "en": "hoist",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "17.0124",
+   "subjectFullName": "机械工程_工程机械_混凝土机械及混凝土制品机械",
+   "subjectName": "混凝土机械及混凝土制品机械",
+   "publishYear": "2013",
+   "definition": "提升给料斗的装置。"
+  },
+  {
+   "cn": "雏菊联盟",
+   "en": "Daisy",
+   "source": "世界历史名词",
+   "wordNumber": "03.0720",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_意大利",
+   "subjectName": "意大利",
+   "publishYear": "2012",
+   "definition": "意大利主要执政党之一，2001年3月底由意大利人民党、民主人士党、意大利革新党和欧洲民主联盟等中间小党合并而成。"
+  },
+  {
+   "cn": "搁栅",
+   "en": "joist",
+   "source": "土木工程名词",
+   "wordNumber": "05.080",
+   "subjectFullName": "土木工程_建筑结构_构件及部件",
+   "subjectName": "构件及部件",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "龙骨",
+   "en": "joist,keel",
+   "source": "建筑学名词",
+   "wordNumber": "12.0311",
+   "subjectFullName": "建筑学_建筑材料及制品_材料制品",
+   "subjectName": "材料制品",
+   "publishYear": "2014",
+   "definition": "支撑、承载轻板的骨架构件。常由薄壁型钢、木材等制作。"
+  },
+  {
+   "cn": "枋",
+   "en": "joist,fang",
+   "source": "建筑学名词",
+   "wordNumber": "03.0059",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "比梁小的木材。一般紧贴于槫或梁之下，不能独立受力，起增强构架的作用。"
+  },
+  {
+   "cn": "数字式航空电子信息系统",
+   "en": "digital avionics information system,DAIS",
+   "source": "航空科学技术名词",
+   "wordNumber": "07.017",
+   "subjectFullName": "航空科学技术_航空电子与机载计算机系统",
+   "subjectName": "航空电子与机载计算机系统",
+   "publishYear": "2003",
+   "definition": "美国空军于1973年7月制订的一项预先研究计划。这个计划从系统工程角度把航空电子系统作为一个整体来考虑，从信息出发，着重解决信息处理、信息传输和信息显示三个环节，构成完整的航空电子数字化综合化系统。"
+  },
+  {
+   "cn": "道观",
+   "en": "Taoist temple,guan",
+   "source": "建筑学名词",
+   "wordNumber": "03.0216",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "供奉道教神祇及道士修道、举行宗教仪式的场所。观之名始于汉代，最初是为等候神人而建。东晋时将道士祀神修道之所称馆，南北朝后改为观。道教宫观布局与佛寺相似，多为中轴线对称的合院式布局。"
+  },
+  {
+   "cn": "上清派",
+   "en": "Shang Qing Pai;Shang-Ching Taoism;Supreme Purity Daoism",
+   "source": "中国古代史名词",
+   "wordNumber": "4.328",
+   "subjectFullName": "中国古代史_魏晋南北朝_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "崇奉上清系经典的道教派别。由杨羲、许谧等创始于东晋，尊女仙魏华存为祖师，以《上清大洞真经》《黄庭经》等为主要经典，以茅山（今江苏句容东南）为宗坛，重视存思、服气等术，经南朝陆修静、陶弘景等相继弘扬，至"
+  },
+  {
+   "cn": "丹氏浓缩器",
+   "en": "Danish concentrator",
+   "source": "药学名词",
+   "wordNumber": "06.116",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "一种高效浓缩仪器。早期的仪器在常压下浓缩，近些年加上了毛细管，可进行减压浓缩，提高了浓缩速度。生物样品中的农药、苯并(a)芘等极毒、致癌性有机污染物含量都很低，其提取液经净化分离后，都可以用这种方法浓"
+  },
+  {
+   "cn": "起重机",
+   "en": "hoist",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "杂物吊杆",
+   "en": "davit",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "戴维斯，安德鲁",
+   "en": "Davis\",\"Andrew(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "戴维斯，科林",
+   "en": "Davis\",\"Colin(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "吊锚杆",
+   "en": "cat davit\",\"anchor davit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "丹氏浓缩器",
+   "en": "Danish concentrator",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "湿对流",
+   "en": "moist convection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿绝热线",
+   "en": "moist adiabat",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿模式",
+   "en": "moist model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿润气候",
+   "en": "moist climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿舌",
+   "en": "moist tongue",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿物料",
+   "en": "moist materials",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "湿草甸",
+   "en": "moist meadow",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "湿森林",
+   "en": "moist forest",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "菊花链",
+   "en": "daisy chain",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊艇架",
+   "en": "boat davit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "腰横缆",
+   "en": "waist breast",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一挂",
+   "en": "a hoist",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "引航员升降设备",
+   "en": "pilot hoist",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重力式吊艇架",
+   "en": "gravity davit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "升起",
+   "en": "hoist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抱紧腰",
+   "en": "tight waist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反抱腰",
+   "en": "reverse waist-hold\",\"reverse waist-lock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "侧抱腰",
+   "en": "side waist-hold\",\"side waist-lock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后抱躯干过桥翻",
+   "en": "tight waist-roll",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "颁奖台",
+   "en": "presentation pontoon\",\"victory dais",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "湿啰音",
+   "en": "moist rale",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.4",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "吸气时气体通过呼吸道内稀薄分泌物，如渗出液、血液和脓液等形成水泡并破裂所产生的声音；或由于小支气管壁因分泌物黏着而陷闭，吸气时突然张开重新充气所产生的爆裂音。也类似水煮沸时的冒泡音。"
+  },
+  {
+   "cn": "腰围",
+   "en": "waist circumference",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "经脐点的腰部水平围长。世界卫生组织推荐采用最低肋骨下缘与髂嵴最高点连线的中点作为测量点，被测者取直立位在平静呼气状态下，用软尺水平绕于测量部位，松紧适度，测量中避免吸气，并保持软尺各部分水平所测的值。"
+  },
+  {
+   "cn": "腰围",
+   "en": "waist circumference",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.9",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "经脐点的腰部水平围长。"
+  },
+  {
+   "cn": "湿热消毒",
+   "en": "moist heat disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "利用湿热使病原微生物蛋白质变性或凝固、酶失活、代谢障碍，进而死亡的消毒处理，包括煮沸消毒、巴氏消毒和蒸汽消毒。"
+  },
+  {
+   "cn": "腰高比",
+   "en": "waist-to-height ratio",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "全称“腰围身高比”。腰围（厘米）与身高（厘米）的比值，一种“中心性肥胖指数”，反映内脏脂肪堆积程度。"
+  },
+  {
+   "cn": "腰臀比",
+   "en": "waist-to-hip ratio",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.2.6",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "全称“腰围臀围比”。腰围（厘米）和臀围（厘米）的比值，反映中心性肥胖的重要指标之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

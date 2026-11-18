@@ -1,0 +1,712 @@
+{
+ "key": "racial resentment",
+ "term": "racial resentment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:20:17+00:00",
+ "status": "ok",
+ "note": "variant=racial resentment; 审定公布名词库=2609; 海峡两岸名词对照库=698; 其他来源数据库=124; 预公布名词数据库=507; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "种族优越感",
+   "en": "racial superiority",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0311",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_跨文化组织行为",
+   "subjectName": "跨文化组织行为",
+   "publishYear": "2016",
+   "definition": "认为自己民族的文化价值体系优于其他民族的文化价值体系的知觉。"
+  },
+  {
+   "cn": "人种地理学",
+   "en": "racial geography",
+   "source": "地理学名词",
+   "wordNumber": "17.032",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "研究以人类遗传特征为基准而划分的人种的地理分布的学科。"
+  },
+  {
+   "cn": "种族隔离制度",
+   "en": "System of Racial Segregation",
+   "source": "世界历史名词",
+   "wordNumber": "01.0655",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "南非白人种族统治集团压迫、歧视非白人族群的法规政策。始于1913年的“原住民土地法”，1948年以法律方式执行。在国际舆论和制裁的压力下，1994年废止。"
+  },
+  {
+   "cn": "种族平等大会",
+   "en": "Congress of Racial Equality",
+   "source": "世界历史名词",
+   "wordNumber": "03.0217",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1942年成立的主张通过非暴力直接行动来解决种族和工业冲突的民间组织。"
+  },
+  {
+   "cn": "怨军",
+   "en": "yuan jun;army of resentment",
+   "source": "中国古代史名词",
+   "wordNumber": "7.164",
+   "subjectFullName": "中国古代史_辽金元_政治_军事",
+   "subjectName": "军事",
+   "publishYear": "2022",
+   "definition": "辽末天祚帝招募中京道东部及东京道西部饥民组成的军队。于公元1116年创设，以秦晋国王耶律淳为都元帅，1122年改称常胜军。"
+  },
+  {
+   "cn": "[额定瞬态恢复电压]四参数法",
+   "en": "rep-resentation [of rated TRV] by four parameters",
+   "source": "电力名词",
+   "wordNumber": "19.342",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "用瞬态恢复电压的第一波峰(第一参考电压)、第一波峰值时间、峰值(第二参考电压)及峰值时间四个参数表示瞬态恢复电压的方法。"
+  },
+  {
+   "cn": "[额定瞬态恢复电压]两参数法",
+   "en": "rep-resentation [of rated TRV] by two parameters",
+   "source": "电力名词",
+   "wordNumber": "19.343",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "用瞬态恢复电压的峰值、峰值时间等两个参数表示瞬态恢复电压的方法。"
+  },
+  {
+   "cn": "驳岸",
+   "en": "revetment",
+   "source": "风景园林名词",
+   "wordNumber": "07.0443",
+   "subjectFullName": "风景园林_风景园林建筑_石作",
+   "subjectName": "石作",
+   "publishYear": "2025",
+   "definition": "保护园林水体岸边的工程设施。"
+  },
+  {
+   "cn": "驳岸",
+   "en": "revetment",
+   "source": "林学名词",
+   "wordNumber": "09.165",
+   "subjectFullName": "林学_风景园林_风景园林建筑与工程",
+   "subjectName": "风景园林建筑与工程",
+   "publishYear": "2016",
+   "definition": "保护园林水体岸边的工程设施。必须在符合技术要求的条件下具有造型美，并同周围景色协调。"
+  },
+  {
+   "cn": "护坡",
+   "en": "revetment",
+   "source": "石油名词",
+   "wordNumber": "09.0483",
+   "subjectFullName": "石油_油气收集与储运工程_油田集输的施工",
+   "subjectName": "油田集输的施工",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "轴径向反应器",
+   "en": "axial-radial reactor",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.116",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "引导部分流体以轴径向二维流动的方式通过径向床顶部的催化剂自封区域，充分利用该区域催化剂，而在床层其余区域保持径向流动的固定床反应器。"
+  },
+  {
+   "cn": "基因重配",
+   "en": "genetic resortment",
+   "source": "兽医学名词",
+   "wordNumber": "16.235",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "具有分段基因组的病毒之间核酸片段的交换。"
+  },
+  {
+   "cn": "生态驳岸",
+   "en": "ecological revetment",
+   "source": "风景园林名词",
+   "wordNumber": "08.0547",
+   "subjectFullName": "风景园林_风景园林工程_风景园林驳岸",
+   "subjectName": "风景园林驳岸",
+   "publishYear": "2025",
+   "definition": "在城市河道驳岸处理中，恢复为自然河岸或具有自然河流特点的可渗透性的人工驳岸。"
+  },
+  {
+   "cn": "软质驳岸",
+   "en": "flexible revetment",
+   "source": "风景园林名词",
+   "wordNumber": "08.0543",
+   "subjectFullName": "风景园林_风景园林工程_风景园林驳岸",
+   "subjectName": "风景园林驳岸",
+   "publishYear": "2025",
+   "definition": "以生态形式为主，要求利用原有地形，以绿化、坡体、石滩及水生植物营造水体与岸边的和谐关系，通过点置部分景石，植物种植，由植物根系来稳固堤岸，增加抗洪、护堤的能力以稳定河岸的驳岸。"
+  },
+  {
+   "cn": "沙滩驳岸",
+   "en": "beach revetment",
+   "source": "风景园林名词",
+   "wordNumber": "08.0545",
+   "subjectFullName": "风景园林_风景园林工程_风景园林驳岸",
+   "subjectName": "风景园林驳岸",
+   "publishYear": "2025",
+   "definition": "在平坦的河岸边坡播撒白色的砂石或卵石，仿照天然海滩的岸坡处理方式。"
+  },
+  {
+   "cn": "溪流驳岸",
+   "en": "stream revetment",
+   "source": "风景园林名词",
+   "wordNumber": "08.0556",
+   "subjectFullName": "风景园林_风景园林工程_风景园林驳岸",
+   "subjectName": "风景园林驳岸",
+   "publishYear": "2025",
+   "definition": "在狭长形的园林用地中，模仿自然山涧在河两岸采用散石和块石，并与水生或湿地植物的配置相结合的水岸处理方式。"
+  },
+  {
+   "cn": "重力式驳岸",
+   "en": "gravity revetment",
+   "source": "风景园林名词",
+   "wordNumber": "08.0510",
+   "subjectFullName": "风景园林_风景园林工程_风景园林驳岸",
+   "subjectName": "风景园林驳岸",
+   "publishYear": "2025",
+   "definition": "依靠墙身自重来保证墙身稳定的驳岸。分为很多类，如：基础有桩、无桩（砼或浆砌块石）重力式驳岸，后倾式驳岸等。"
+  },
+  {
+   "cn": "草皮护坡",
+   "en": "turf revetment",
+   "source": "风景园林名词",
+   "wordNumber": "08.0486",
+   "subjectFullName": "风景园林_风景园林工程_风景园林驳岸",
+   "subjectName": "风景园林驳岸",
+   "publishYear": "2025",
+   "definition": "岸壁坡角在自然安息角以内，水面以上部分铺设草皮，利用密布土中的草根来固土，使土坡能保持较大坡度而又不滑坡的护坡方式。"
+  },
+  {
+   "cn": "网格护坡",
+   "en": "grid revetment",
+   "source": "风景园林名词",
+   "wordNumber": "08.0555",
+   "subjectFullName": "风景园林_风景园林工程_风景园林驳岸",
+   "subjectName": "风景园林驳岸",
+   "publishYear": "2025",
+   "definition": "用预制构件在现场装配或在现场直接砌筑块石、现浇混凝土或钢筋混凝土而成的框格式结构的边坡防护方式。格内可种植植被。"
+  },
+  {
+   "cn": "护岸",
+   "en": "bank revetment",
+   "source": "风景园林名词",
+   "wordNumber": "08.0511",
+   "subjectFullName": "风景园林_风景园林工程_风景园林驳岸",
+   "subjectName": "风景园林驳岸",
+   "publishYear": "2025",
+   "definition": "在河道岸坡上用块石或预制混凝土构件铺砌以保护河岸的构筑物。可分为混凝土、浆砌块石、干砌块石护坡等。"
+  },
+  {
+   "cn": "人种地理学",
+   "en": "racial geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "种族迫害",
+   "en": "racial persecutions",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "辐板",
+   "en": "radial plate\",\"radiale",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "基因重配",
+   "en": "gene resortment",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "桡侧",
+   "en": "radial",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "桡切迹",
+   "en": "radial notch\",\"radial incisure",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "放射纤维，辐射纤维",
+   "en": "radial fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "辐射排列",
+   "en": "radial arrangement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "辐射迁移",
+   "en": "radial migration",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "辐射[式]卵裂",
+   "en": "radial cleavage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "辐射纤维（=放射纤维）",
+   "en": "radial fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面动脉",
+   "en": "facial artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面静脉",
+   "en": "facial vein",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面裂",
+   "en": "facial cleft",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面颅",
+   "en": "facial cranium",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面神经",
+   "en": "facial nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面神经节",
+   "en": "facial ganglion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "面神经丘",
+   "en": "facial colliculus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "桡侧缘",
+   "en": "radial margin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "桡动脉",
+   "en": "radial artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "怨刺",
+   "en": "Resentment and Sting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国无怨民曰强国",
+   "en": "A Country with No Resentful People Is Called a Strong Country.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正面",
+   "en": "facial\",\"front",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正立",
+   "en": "facial stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激光镭迪尔级",
+   "en": "Laser Radial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人像识别技术",
+   "en": "facial recognition technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "怨恨",
+   "en": "resentment",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.25",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "尼采用来解释基督教的伦理特征，马克斯·韦伯由此进一步讨论了宗教的阶级和情感特征。"
+  },
+  {
+   "cn": "种族性遗传影响",
+   "en": "racial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "共同血缘和一些可稳定遗传的体质特征在上下代之间的传递过程。"
+  },
+  {
+   "cn": "青春期发育种族影响",
+   "en": "racial influence on puberty",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "不同种族在青春期体格和性发育等方面存在明显差异的现象。"
+  },
+  {
+   "cn": "体格发育种族影响",
+   "en": "racial influence on physical development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "体格生长存在明显种族差异的现象。不同种族身高、坐高、下肢长等体格发育指标存在显著差异。"
+  },
+  {
+   "cn": "体型发育种族影响",
+   "en": "racial influence on body type development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "不同种族存在鲜明外形特征差异的现象。"
+  },
+  {
+   "cn": "种族主义",
+   "en": "racism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.208",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "认为某一种族里的每一成员都具有该种族特定的品质或者能力，并以此区分人群及种族间优劣的观点。在这种理念中，人的健康与疾病常常被贴上种族的标签。"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  },
+  {
+   "cn": "口周放射纹",
+   "en": "perioral radial furrows",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "系统性硬化症患者面部皮肤受累的常见表现，呈口周皮肤呈放射状沟纹，是疾病的特征性表现之一。"
+  },
+  {
+   "cn": "面部轮廓整形术",
+   "en": "facial contouring surgery",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.052",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "用外科技术进行面部软组织、骨组织轮廓塑形的手术。"
+  },
+  {
+   "cn": "社会支持",
+   "en": "social support",
+   "source": "社会医学名词",
+   "wordNumber": "3.5",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "通过帮助或安慰他人，协助其应对生理、心理及社会压力的行为。支持来源于个人社会网络，包括家庭成员、朋友或支持团体等。支持形式包括实际帮助、物质援助及情感支持。"
+  },
+  {
+   "cn": "社会功能状态",
+   "en": "social wellbeing",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "反映个体参与基本和复杂人际互动的状态。包含社会交往和社会资源。"
+  },
+  {
+   "cn": "社会公正",
+   "en": "social justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0269999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "社会行为层面的公正。政府在分配社会资源时公而不偏，根据基本需求人人平等，非基本需求合理差等原则进行宏观卫生资源的分配。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0087",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个体认识到他属于特定的社会群体，同时也认识到作为群体成员带给他的情感和价值意义。"
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.27",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "最外层轨道含有不成对电子的分子、离子、原子或原子团。具有较活泼的化学性质。"
+  },
+  {
+   "cn": "氢自由基",
+   "en": "hydrogen radical",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.29",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "活化的氢原子，是一个不稳定的过渡态。"
+  },
+  {
+   "cn": "羟自由基",
+   "en": "hydroxyl radical",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.30",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "一种重要的活性氧，是由氢氧根失去一个电子形成。具有极强的氧化能力，寿命极短，几乎可以与所有细胞成分反应，是人体在新陈代谢过程中对生物体毒性最强、危害最大的一种自由基。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

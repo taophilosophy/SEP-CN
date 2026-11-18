@@ -1,0 +1,702 @@
+{
+ "key": "sequence labeling",
+ "term": "sequence labeling",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:13:53+00:00",
+ "status": "ok",
+ "note": "variant=sequence labeling; 审定公布名词库=1047; 海峡两岸名词对照库=540; 其他来源数据库=22; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "标记",
+   "en": "label;labeling",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0389",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "在生物化学、分子生物学领域为了识别而对分子做的记号。常用的标记物质有放射性或稳定性同位素、生物素、酶类、荧光素、地高辛精等。"
+  },
+  {
+   "cn": "贴标签",
+   "en": "labeling",
+   "source": "药学名词",
+   "wordNumber": "08.075",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "药品在生产、分装或处方调配时，将符合规定的标签贴在药品的内、外包装上；亦药师为指导患者正确使用药品，随药品所给予的书面告知文书。"
+  },
+  {
+   "cn": "标签",
+   "en": "label",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0069",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "供识别肥料和了解其主要性能而附以必要资料的纸片、塑料片或者包装袋等宣传品的印刷部分。"
+  },
+  {
+   "cn": "书标",
+   "en": "label",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.286",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书馆建筑与设施",
+   "subjectName": "图书馆建筑与设施",
+   "publishYear": "2019",
+   "definition": "图书馆在技术性加工过程中黏附在图书书脊上的用于标识或类分文献的小纸签。通常是一种不干胶印刷品，长宽各3~4cm，分为1~3行，用于记录索书号，粘贴于图书书脊的下部。书标记录的分类信息可作为图书排架和查"
+  },
+  {
+   "cn": "标记",
+   "en": "label",
+   "source": "核医学名词",
+   "wordNumber": "02.0189",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "(1)利用同位素交换、化学合成或生物合成等方法将标记原子引入到被标记化合物中的过程。包括同位素标记和非同位素(如荧光素、量子点等)标记。(2)在各种实验过程中为了识别而利用特定方式对实验对象所做的记号"
+  },
+  {
+   "cn": "标号",
+   "en": "label",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0196",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "赋予计算机程序语句的名字或标识符。以便于其他语句引用。"
+  },
+  {
+   "cn": "标签",
+   "en": "label",
+   "source": "药学名词",
+   "wordNumber": "02.014",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "贴于药品包装上用于指示药物名称、剂型、装量、用法用量等信息的标志。"
+  },
+  {
+   "cn": "标签",
+   "en": "label",
+   "source": "语言学名词",
+   "wordNumber": "06.131",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "辞书中用来标明词头的语域、文体、用法或语言变体等的特殊符号或缩略语词。"
+  },
+  {
+   "cn": "标注",
+   "en": "label",
+   "source": "地理学名词",
+   "wordNumber": "30.045",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "数字图层中地理要素或对象的文本描述。"
+  },
+  {
+   "cn": "标签",
+   "en": "label",
+   "source": "航海科技名词",
+   "wordNumber": "11.0128",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "标号",
+   "en": "label",
+   "source": "数学名词",
+   "wordNumber": "02.0268",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同位素标记",
+   "en": "isotope labeling;isotopic labeling",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0392",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "用放射性同位素或稳定性同位素标记目标物质的方法。标记化合物中的原子被其同位素示踪原子取代，标记分子与非分子的区别仅在于同位素组成不同。标记方法有化学合成、生物合成、同位素交换等。同位素标记物质广泛用于"
+  },
+  {
+   "cn": "非放射性标记",
+   "en": "nonradiometric labeling;nonradioactive labeling",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0394",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "用荧光、显色物质或稳定性同位素等非放射性物质代替放射性同位素对化合物进行的标记。"
+  },
+  {
+   "cn": "文体标签",
+   "en": "style label,stylistic label",
+   "source": "语言学名词",
+   "wordNumber": "06.132",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "辞书中用来标示词头某一义项的文体层次和文体风格的标记或符号。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "地质学名词",
+   "wordNumber": "07.02.016",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "一套相对整合的、成因上有联系的、其顶和底以不整合面或与这些不整合面可以对比的整合面为界的地层单元。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0138",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "多聚体中单体的线性排列顺序。如多肽链中氨基酸残基的排列顺序及多核苷酸链中核苷酸的排列顺序。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "药学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "构成生物大分子结构单元的排列次序。如DNA分子是由4种核苷酸(A，T，G，C)排列组成，DNA序列就是组成某一DNA分子的核苷酸的排列次序。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0208",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋矿产资源开发技术",
+   "subjectName": "海洋矿产资源开发技术",
+   "publishYear": "2007",
+   "definition": "相对整合的成因上有联系的地层序列。"
+  },
+  {
+   "cn": "序列征",
+   "en": "sequence",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.496",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "石油名词",
+   "wordNumber": "02.0861",
+   "subjectFullName": "石油_油气地质勘探_石油地震地层学",
+   "subjectName": "石油地震地层学",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "标记",
+   "en": "labeling",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "标记",
+   "en": "labeling",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "加标签",
+   "en": "labeling",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "加标注",
+   "en": "labelling",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "贴标签",
+   "en": "labelling",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "标注",
+   "en": "label",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "标注",
+   "en": "label",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标号",
+   "en": "label",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标签",
+   "en": "label",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同位素标记",
+   "en": "isotope labeling\",\"isotopic labeling",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非放射性标记",
+   "en": "nonradiometric labeling\",\"nonradioactive labeling",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同位素标记",
+   "en": "isotope labeling\",\"isotopic labeling",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模进",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "继叙咏",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "标识管理",
+   "en": "labelling management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标签图",
+   "en": "labeled graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据标签",
+   "en": "data label",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "射频识别标签",
+   "en": "RFID label",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "金融业务海量资料标签",
+   "en": "massive data label for financial business",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模式微生物基因组测序、数据挖掘及功能解析全球合作计划",
+   "en": "Global Catalogue of Microorganisms 10K Type Strain Sequencing Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 12054-1989 数据处理 转义序列的登记规程》",
+   "en": "GB/T 12054-1989 Data processing — Procedure for registration of escape sequences",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强制性标识",
+   "en": "compulsory labelling, mandatary labelling",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.61",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "食品安全法规或相关标准规定必须在食品包装上标注的信息。"
+  },
+  {
+   "cn": "标签理论",
+   "en": "labeling theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。把越轨行为分为初级越轨行为和继发越轨行为，并认为越轨行为的性质不在于行为本身，而是社会的定义和解释。因此，只有当一个行为被社会定义为越轨行为时，其行为者才会成为越轨行为者。"
+  },
+  {
+   "cn": "营养标识",
+   "en": "nutritional labeling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.7.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "展示餐饮食品有关营养成分信息的说明，包括文字、图像、图形等形式。"
+  },
+  {
+   "cn": "食品标签",
+   "en": "food labelling",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.28",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "食品包装上的文字、图形、符号及一切说明物。"
+  },
+  {
+   "cn": "致敏原标识",
+   "en": "allergen labelling",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.58",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "食品包装上对已知的导致过敏反应的食品和配料的说明。"
+  },
+  {
+   "cn": "营养标签",
+   "en": "nutrition labelling",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.29",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "预包装食品标签上向消费者提供的有关食品营养信息和特性的描述与说明，包括营养成分表、营养声称和营养成分作用声称及其他补充信息。营养标签是预包装食品标签的组成部分。"
+  },
+  {
+   "cn": "自愿性标识",
+   "en": "voluntary labelling, non-mandatary labelling",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.62",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "食品生产商可以根据自身情况决定是否标注的信息。"
+  },
+  {
+   "cn": "数字标签",
+   "en": "digital label",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.35",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "食品包装上采用二维码等信息化手段展示的食品标签。"
+  },
+  {
+   "cn": "指示标签",
+   "en": "indicator label",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "粘贴、连接或印在灭菌包上的一类化学指示物，可有文字、数字、符号、图案及其他说明。"
+  },
+  {
+   "cn": "食品标签",
+   "en": "food label",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "食品包装上的文字、图形、符号及一切说明物。"
+  },
+  {
+   "cn": "辐照食品标签",
+   "en": "irradiated food labeling",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.21.8",
+   "subjectFullName": "食品卫生学_食品_辐照食品",
+   "subjectName": "辐照食品",
+   "publishYear": "2025",
+   "definition": "经电离辐射线或电离能量处理过的食品，应在食品名称附近标示“辐照食品”。经电离辐射线或电离能量处理过的任何配料，应在配料表中标明。"
+  },
+  {
+   "cn": "预防性过敏原标签",
+   "en": "precautionary allergen labelling",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.60",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "存在交叉接触过敏原的情况时，食品包装上告知消费者可能存在的食品致敏原的声明。"
+  },
+  {
+   "cn": "食品添加剂标识",
+   "en": "food additives labelling",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.13",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂标签以及食品添加剂所附随的、其内容与添加剂有关的任何文字、标记或图形材料，不包括账单、发票以及其他类似材料"
+  },
+  {
+   "cn": "放射性核素标记化合物",
+   "en": "radionuclide labeled compound",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.3",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "用放射性核素取代化合物分子中的一种或几种原子的化学合成物质。"
+  },
+  {
+   "cn": "靶向测序",
+   "en": "targeted sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "利用多重聚合酶链反应或杂交捕获的方法对目标基因 组区域进行富集并测序的一种技术。优 势在于有效降低成本、获得更深的覆盖度。"
+  },
+  {
+   "cn": "测序技术",
+   "en": "sequencing techniques",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.70",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对多聚体中单体排列顺序进行测定的方法。如测定DNA、寡肽、多糖链基本组成单位残基(核苷酸、氨基酸、单糖等)的排列顺序。"
+  },
+  {
+   "cn": "消毒产品标签",
+   "en": "label of disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "粘贴、链接或印在消毒产品包装上的文字、数字、符号、图案及其他说明的载体。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "二代测序",
+   "en": "next-generation sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一次可以对几十万至数亿条DNA模板同时进行序列测定的技术。是对传统桑格 （Sanger）测序革命性的改变， 核心思想是边合成边测序。"
+  },
+  {
+   "cn": "单分子测序",
+   "en": "\"single molecule sequencing\"",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "“第三代测序技术 (third generation sequencing technique)”。在DNA测序时，不需要经过PCR扩增，对每一条DNA分子进行单独测序的技术。为单分子实时DNA测序。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

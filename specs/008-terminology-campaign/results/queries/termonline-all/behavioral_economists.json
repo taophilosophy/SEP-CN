@@ -1,0 +1,762 @@
+{
+ "key": "behavioral economists",
+ "term": "behavioral economists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:00:02+00:00",
+ "status": "ok",
+ "note": "variant=behavioral economists; 审定公布名词库=725; 海峡两岸名词对照库=245; 其他来源数据库=29; 预公布名词数据库=112; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "经济学人",
+   "en": "The Economist",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.078",
+   "subjectFullName": "新闻学与传播学_新闻史_近代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "全球有影响力的时政杂志之一。由伦敦经济学人报纸有限公司出版。于1843年9月由詹姆士·威尔逊(James Wilson)创办。"
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.196",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "以实现某个目标为基础进行的一系列动作组合。一般会以实现某个结果为结束。"
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "行为医学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "机体在神经系统调控下做出的活动或反应。通常包括外显行为和内隐行为。"
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "动物学名词",
+   "wordNumber": "1.0264",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "动物个体或群体为适应其生活环境和满足其内在生理需求所表现出来的一切动作。"
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "精神医学名词",
+   "wordNumber": "02.184",
+   "subjectFullName": "精神医学_症状与体征_意志行为障碍症状",
+   "subjectName": "意志行为障碍症状",
+   "publishYear": "2019",
+   "definition": "由一系列动作组成的机体外部活动。主要是有意识、有目的、有动机的意志行为。"
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "计划生育名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人们有意识的活动。有动机、有目的进行的复杂随意运动。"
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "物理学名词",
+   "wordNumber": "01.0274",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0122",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "人们一切有目的的活动，由一系列简单动作构成的，在日常生活中所表现出来的一切动作的统称。"
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "生态学名词",
+   "wordNumber": "03.001",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "动物所做的有利于眼前自身存活和未来基因存活(包括利他活动)的一切事情，或者说是在个体层次上，动物对来自体内的生理变化和来自体外的环境变化所做出的整体性反应。"
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "昆虫学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "动物适应其生活环境的一切活动方式。"
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.510",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "主张应当仅通过对客观可观察与可测量的行为事件的检验与分析，而非通过内省的方式研究心理现象的观点。"
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "行为医学名词",
+   "wordNumber": "2.037",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "西方现代心理学主要学术流派之一。主张摒弃意识、意象等主观意识，研究客观的、可观察到的行为。认为一切行为都是刺激与反应的联结，通过研究刺激与反应之间的规律性联系，达到预测和控制行为的目的。"
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.017",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "认为人的一切行为的产生与改变都是由刺激与反应之间的联结关系所决定。现代心理学分支之一。由美国心理学家约翰•华生(John B.Watson)于20世纪初所创立。"
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "心理学名词",
+   "wordNumber": "04.130",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "认为主观的心理不可捉摸、难以理解，应直接研究纯客观、可观察的人类行为的研究取向。"
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "教育学名词",
+   "wordNumber": "06.037",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "美国心理学家华生创立的一种关于学习的理论。认为学习是刺激与反应之间的联结，行为是学习者对环境刺激所做出的反应，所有行为都是习得的；教师应当掌握塑造和矫正学生行为的基本方法，强化学生的适宜行为，消除不适"
+  },
+  {
+   "cn": "行为能力",
+   "en": "behavioral ability;behavioral competence",
+   "source": "行为医学名词",
+   "wordNumber": "1.041",
+   "subjectFullName": "行为医学_总论_行为医学研究范畴",
+   "subjectName": "行为医学研究范畴",
+   "publishYear": "2022",
+   "definition": "个体执行特定行为活动的本领、技能和知识。"
+  },
+  {
+   "cn": "行为预防学",
+   "en": "behavioral prevention;behavioral prophylaxis",
+   "source": "行为医学名词",
+   "wordNumber": "1.06",
+   "subjectFullName": "行为医学_总论_行为医学分支学科",
+   "subjectName": "行为医学分支学科",
+   "publishYear": "2022",
+   "definition": "应用宏观与微观技术手段，研究影响健康的行为因素及其作用规律，阐明行为因素与人群健康的相互关系，制定公共卫生策略与措施，以达到预防疾病、增进健康及提高生命质量目的的学科。"
+  },
+  {
+   "cn": "修饰行为",
+   "en": "grooming behavior;embellishment behavior",
+   "source": "行为医学名词",
+   "wordNumber": "1.005",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "个体对自身外部形态或表现的调整和修正行为。"
+  },
+  {
+   "cn": "行为心理学",
+   "en": "behavioral psychology",
+   "source": "风景园林名词",
+   "wordNumber": "06.0028",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "以研究行为规律为主，重点探讨行为和心理的相互关系的一门学科。"
+  },
+  {
+   "cn": "行为性体温调节",
+   "en": "behavioral thermoregulation",
+   "source": "麻醉学名词",
+   "wordNumber": "01.426",
+   "subjectFullName": "麻醉学_麻醉学基础_内分泌系统",
+   "subjectName": "内分泌系统",
+   "publishYear": "2024",
+   "definition": "机体通过一定的行为运动来保持体温相对稳定的体温调节过程。"
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性态",
+   "en": "behavior",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "行为检核表",
+   "en": "behavioral checklist\",\"behavior checklist",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为级",
+   "en": "behavioral scaling\",\"behavioral scale",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "探索行为",
+   "en": "investigative behavior\",\"searching behavior",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "交配行为",
+   "en": "mating behavior\",\"copulatory behavior",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "防御行为",
+   "en": "defense behavior\",\"protective behavior",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "行为经济学",
+   "en": "behavior economics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为观察",
+   "en": "behavioral observation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为医学",
+   "en": "behavioral medicine",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为变量",
+   "en": "behavioral variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为塑造",
+   "en": "behavioral shaping",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为测量",
+   "en": "behavioral measure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为激活",
+   "en": "behavioral activation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为理论",
+   "en": "behavioral theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为生态学",
+   "en": "behavioral ecology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "行为生物识别技术",
+   "en": "behavioral biometrics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为智能体",
+   "en": "behavioral agent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享行为",
+   "en": "sharing behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络行为",
+   "en": "Internet Behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "契约行为",
+   "en": "contractual behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为检测",
+   "en": "behavior detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强互惠行为",
+   "en": "strong reciprocity behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "异常行为标识器",
+   "en": "abnormal behavior identifier",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会行为分析",
+   "en": "analysis of social behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技行为监管",
+   "en": "supervision on Fintech behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式居家行为传感网络",
+   "en": "distributed home behavior sensor network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法者，所以禁暴而率善人也",
+   "en": "Law Is for Stopping Violence and Encouraging Good Behavior",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉凶由人",
+   "en": "The Outcome of Auspiciousness or Inauspiciousness Depends on Human Behavior.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台经济体",
+   "en": "platform economies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济派",
+   "en": "Economists",
+   "source": "马克思主义",
+   "wordNumber": "04.0338",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "19世纪末20世纪初国际工人运动中出现的一种以单纯追求眼前经济利益为特征的机会主义思潮。以俄国社会民主工党内的“经济派”为代表。代表人物有康·米·塔赫塔廖夫、谢·尼·普罗柯波维奇、叶·德·库斯柯娃、波"
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "西方现代心理学主要流派之一，代表人物有华生(John Broadus Watson）、斯金纳(Burrhus Frederic Skinner）等。认为心理学的研究对象应是可直接观察和测量的行为，而非"
+  },
+  {
+   "cn": "行为因素指标",
+   "en": "behavioral indicator",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "反映妇女儿童健康状态且与行动和行为方式有关的定性或定量变量。"
+  },
+  {
+   "cn": "行为成瘾",
+   "en": "behavioral addiction",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.1",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "不依靠物质的一种行为活动的成瘾。表现为反复出现、具有强迫性质的某种行为，产生躯体、心理、社会严重不良后果，尽管成瘾者明白行为所产生的不良后果，仍然执意坚持。"
+  },
+  {
+   "cn": "健康行为",
+   "en": "health behaviors",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.2.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "有利于促进和保持健康的积极行为方式，包括均衡饮食、规律运动、充足睡眠、戒烟限酒等。"
+  },
+  {
+   "cn": "危险行为",
+   "en": "risk behaviors",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.2.2",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "对个人、他人或社会造成潜在危害的行为，通常涉及对健康、安全或公共秩序的威胁，包括吸烟、酗酒、药物滥用、危险驾驶等。"
+  },
+  {
+   "cn": "集体行为",
+   "en": "collective behavior",
+   "source": "社会学名词",
+   "wordNumber": "2.5.4.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体行为",
+   "subjectName": "群体行为",
+   "publishYear": "2025",
+   "definition": "在人群聚集的场合下，受共同的情绪或心境影响而产生思想和活动的过程，其中既缺少领导结构又不受现有社会规范的控制，通常是无明确目的、无行动计划的众多人的行为，具有自发性、狂热性和非结构性等特点。美国社会学"
+  },
+  {
+   "cn": "行为模式",
+   "en": "behavior pattern",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "多数人公认和遵守的楷模行为指标和规则化的行为体系，是一种社会制约手段。"
+  },
+  {
+   "cn": "法律行为",
+   "en": "legal behavior",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "能够产生法律效力的行为。"
+  },
+  {
+   "cn": "患病行为",
+   "en": "illness behavior",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.3",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "当一个人感到生病时，为了达到确认疾病存在和寻求减轻疾病痛苦的目的而主动采取的行动。它受到内在的对躯体状况的主观感受，以及外在的社会文化、医疗服务体系等多种因素的复杂影响。"
+  },
+  {
+   "cn": "亲社会行为",
+   "en": "prosocial behavior",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.9",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "一切有益于他人和社会的行为，如助人、分享、谦让、合作、自我牺牲等。"
+  },
+  {
+   "cn": "助人行为",
+   "en": "helping behavior",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.10",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "亲社会行为的一种，指一切帮助他人的行为，可以是无偿的，也可以是有偿的。"
+  },
+  {
+   "cn": "医生行为",
+   "en": "physician behavior",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医生行为",
+   "subjectName": "医生行为",
+   "publishYear": "2025",
+   "definition": "经济学视角下能为医生带来最大收益的行为。"
+  },
+  {
+   "cn": "医院行为",
+   "en": "hospital behavior",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "医院作为医疗服务提供者，在运营和管理过程中所采取的一系列行动和决策，涵盖医疗服务的提供、资源分配、财务管理、质量控制、患者关系管理以及应对政策和市场环境变化的策略。"
+  },
+  {
+   "cn": "亲社会行为",
+   "en": "prosocial behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.12.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "任何对他人有利的行为。如同他人共患难，帮助或援助他人，合作，安慰他人等。"
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruistic behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.12.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "自发形成的、把帮助他人当作唯一目的，不期望日后任何酬赏和报答，出于完全自愿的一种社会行为。如援助、救助、捐赠等。"
+  },
+  {
+   "cn": "行为评定",
+   "en": "behavior rating",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "通过观察、检查、量表等方法对个体行为问题作出评价的过程。"
+  },
+  {
+   "cn": "饮食行为",
+   "en": "dietary behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "个体在日常生活中受有关食物和健康观念支配，选择、准备和摄取食物的行为。包括摄入食物的种类、数量、频率、方式以及选择、购买、食用地点等。"
+  },
+  {
+   "cn": "戒除行为",
+   "en": "abstinence behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "戒除不良嗜好的行为，如戒烟等。"
+  },
+  {
+   "cn": "暴力行为",
+   "en": "violent behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "蓄意用权力或躯体力量，对自身、外人、群体或社会进行威胁或伤害，导致身心损伤、死亡、发育障碍或权力剥夺的一类行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

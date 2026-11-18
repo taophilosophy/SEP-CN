@@ -1,0 +1,752 @@
+{
+ "key": "tempered distributions",
+ "term": "tempered distributions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:06:01+00:00",
+ "status": "ok",
+ "note": "variant=tempered distributions; 审定公布名词库=1436; 海峡两岸名词对照库=533; 其他来源数据库=53; 预公布名词数据库=45; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "回火",
+   "en": "tempering",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.211",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_回火",
+   "subjectName": "回火",
+   "publishYear": "2021",
+   "definition": "钢件淬硬后，再加热到<img src='/root/syzx/static/spz/jixiegongcheng22.05.093.02.png'/>点以下的某一温度，保温一定时间，然后冷却到室温的热"
+  },
+  {
+   "cn": "回火",
+   "en": "tempering",
+   "source": "电力名词",
+   "wordNumber": "12.484",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "将淬火后的钢,在<img src='/root/syzx/static/spz/dianli3.12.484.01.png'/>以下加热、保温后冷却下来的热处理工艺。"
+  },
+  {
+   "cn": "缓苏",
+   "en": "tempering",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0694",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "谷物通过一个干燥过程以后停止干燥，保持温度不变，维持一定时间段，使谷粒内部的水分向外扩散，降低内外的水分梯度的过程。"
+  },
+  {
+   "cn": "回火",
+   "en": "tempering",
+   "source": "冶金学名词",
+   "wordNumber": "07.0332",
+   "subjectFullName": "冶金学_金属学_热处理",
+   "subjectName": "热处理",
+   "publishYear": "2019",
+   "definition": "工件淬硬后加热到<img src='/root/syzx/static/spz/yejin2.07.0332.01.png'/>以下的某一温度，保温一定时间，使其非平衡组织结构适当转向平衡态，获得预期"
+  },
+  {
+   "cn": "回火软化性",
+   "en": "temperability",
+   "source": "冶金学名词",
+   "wordNumber": "07.0335",
+   "subjectFullName": "冶金学_金属学_热处理",
+   "subjectName": "热处理",
+   "publishYear": "2019",
+   "definition": "钢铁等需要加工的物质在回火后的软化程度。"
+  },
+  {
+   "cn": "回火",
+   "en": "tempering",
+   "source": "物理学名词",
+   "wordNumber": "08.0866",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "回火",
+   "en": "tempering",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1425",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_热处理",
+   "subjectName": "热处理",
+   "publishYear": "2011",
+   "definition": "材料或工件淬硬后加热到Aꮯ₁以下的某一温度。保温一定时间，使其非平衡组织结构适当转向平衡态，获得预期性能的热处理工艺。"
+  },
+  {
+   "cn": "回火",
+   "en": "tempering",
+   "source": "航天科学技术名词",
+   "wordNumber": "13.164",
+   "subjectFullName": "航天科学技术_航天制造工艺",
+   "subjectName": "航天制造工艺",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "温带",
+   "en": "temperate zone,temperate belt",
+   "source": "地理学名词",
+   "wordNumber": "01.149",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "天文上的中纬地带。南北半球各自的回归线和极圈之间的地带。"
+  },
+  {
+   "cn": "回火屈氏体",
+   "en": "tempered troostite",
+   "source": "冶金学名词",
+   "wordNumber": "07.0587",
+   "subjectFullName": "冶金学_金属学_显微组织",
+   "subjectName": "显微组织",
+   "publishYear": "2019",
+   "definition": "淬火状态的马氏体在中温(300~500℃)回火后得到的粒状细珠光体组织。"
+  },
+  {
+   "cn": "回火索氏体",
+   "en": "tempered sorbite",
+   "source": "冶金学名词",
+   "wordNumber": "07.0588",
+   "subjectFullName": "冶金学_金属学_显微组织",
+   "subjectName": "显微组织",
+   "publishYear": "2019",
+   "definition": "淬火状态的马氏体在高温(500~650℃)回火后得到的粒状极细珠光体组织。"
+  },
+  {
+   "cn": "回火马氏体",
+   "en": "tempered martensite",
+   "source": "冶金学名词",
+   "wordNumber": "07.0581",
+   "subjectFullName": "冶金学_金属学_显微组织",
+   "subjectName": "显微组织",
+   "publishYear": "2019",
+   "definition": "淬火状态的马氏体在低温(150~250℃)回火后得到的组织。其中过饱和的碳已大部分脱溶析出，但仍然保持淬火马氏体的形貌特征。"
+  },
+  {
+   "cn": "钢化玻璃",
+   "en": "tempered glass",
+   "source": "建筑学名词",
+   "wordNumber": "12.0176",
+   "subjectFullName": "建筑学_建筑材料及制品_材料制品",
+   "subjectName": "材料制品",
+   "publishYear": "2014",
+   "definition": "通过热处理工艺，具有良好机械性能和耐热冲击性能，破碎时具有特殊的碎片状态、能够满足安全要求的玻璃。"
+  },
+  {
+   "cn": "回火马氏体",
+   "en": "tempered martensite",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0028",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料基础及组织和性能",
+   "subjectName": "钢铁材料基础及组织和性能",
+   "publishYear": "2011",
+   "definition": "淬火状态的马氏体在低温(150~250℃)回火后得到的组织。其中过饱和的碳已大部分脱溶析出，但仍然保持淬火马氏体的形貌特征。"
+  },
+  {
+   "cn": "回火屈氏体",
+   "en": "tempered troostite",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0029",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料基础及组织和性能",
+   "subjectName": "钢铁材料基础及组织和性能",
+   "publishYear": "2011",
+   "definition": "淬火状态的马氏体在中温(300~500℃)回火后得到的粒状细珠光体组织。"
+  },
+  {
+   "cn": "钢化玻璃",
+   "en": "tempered glass",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0527",
+   "subjectFullName": "材料科学技术_无机非金属材料_玻璃",
+   "subjectName": "玻璃",
+   "publishYear": "2011",
+   "definition": "经强化处理，在玻璃表面上形成一个压应力层，从而具有良好的机械性能和耐热震性能的玻璃的统称。"
+  },
+  {
+   "cn": "回火索氏体",
+   "en": "tempered sorbite",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0030",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料基础及组织和性能",
+   "subjectName": "钢铁材料基础及组织和性能",
+   "publishYear": "2011",
+   "definition": "淬火状态的马氏体在高温(500~650℃)回火后得到的粒状极细珠光体组织。"
+  },
+  {
+   "cn": "发脾气",
+   "en": "temper tantrum",
+   "source": "行为医学名词",
+   "wordNumber": "18.059",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "儿童受到挫折后哭叫吵闹的现象。幼儿期和学龄前期儿童常见。"
+  },
+  {
+   "cn": "团絮状石墨",
+   "en": "temper carbon",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.057",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "白口铸铁进行可锻化退火或石墨化钢进行石墨化退火时，渗碳体发生分解所形成的石墨。形态类似团絮。"
+  },
+  {
+   "cn": "回火脆性",
+   "en": "temper brittleness",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.208",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_淬火",
+   "subjectName": "淬火",
+   "publishYear": "2021",
+   "definition": "淬火钢在某些温度区间回火或从回火温度缓慢冷却通过该温度区间的脆化现象。回火脆性可分为第一类回火脆性和第二类回火脆性。"
+  },
+  {
+   "cn": "回火",
+   "en": "tempering",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "回火[处理]",
+   "en": "tempering",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "回火脆性",
+   "en": "temper brittleness\",\"tempering brittleness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "温带",
+   "en": "temperate zone\",\"temperate belt",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "回火屈氏体",
+   "en": "tempered troostite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "回火贝氏体",
+   "en": "tempered bainite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "钢化玻璃",
+   "en": "tempered glass",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "回火马氏体",
+   "en": "tempered martensite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "回火索氏体",
+   "en": "tempered sorbite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "平整",
+   "en": "temper rolling",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "耐回火性",
+   "en": "temper resistance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "回火色",
+   "en": "temper color",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "温带草原",
+   "en": "temperate steppe",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "融期冰川",
+   "en": "temperate glacier",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "温带",
+   "en": "temperate zone",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "温带气候",
+   "en": "temperate climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "温带西风带",
+   "en": "temperate westerlies",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回火空气",
+   "en": "tempering air",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调温旋管",
+   "en": "tempering coil",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自回火",
+   "en": "self-tempering",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "统计分布",
+   "en": "statistical distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分配公平化",
+   "en": "fair distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值分配",
+   "en": "value distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式数据库",
+   "en": "distributed database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式查询",
+   "en": "distributed query",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式处理",
+   "en": "distributed processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分配正义",
+   "en": "distributive justice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式智能",
+   "en": "distributed intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式支付",
+   "en": "distributed payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子纠缠分发网络",
+   "en": "entanglement distribution network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布语义假设",
+   "en": "distributional semantics hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式处理系统",
+   "en": "distributed processing system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式软件系统",
+   "en": "distributed software system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.30",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素进入体内后沉积到组织或器官内的过程。"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "变量的各个取值上研究单位的出现次数所形成的总体状况。"
+  },
+  {
+   "cn": "分配",
+   "en": "distribution",
+   "source": "马克思主义",
+   "wordNumber": "02.0007",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会再生产过程的一个环节。分为生产要素的分配和消费资料的分配。前者属所有制范畴，后者属个人或经济群体之间的分配范畴。"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.2.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "外源化学物被吸收后，随血液或淋巴液分散到全身组织细胞的过程。"
+  },
+  {
+   "cn": "累积分布",
+   "en": "cumulative distribution cumulative distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.24",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "按照变量值的大小、顺序排列出累加的观测数的分布形态。"
+  },
+  {
+   "cn": "剂量分布",
+   "en": "dose distribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.21.6",
+   "subjectFullName": "食品卫生学_食品_辐照食品",
+   "subjectName": "辐照食品",
+   "publishYear": "2025",
+   "definition": "最高吸收剂量的极限值和最低吸收剂量在整个批量产品中吸收剂量的空间分布。"
+  },
+  {
+   "cn": "分配系数",
+   "en": "distribution coefficient",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.70",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "一个组分在两个互不相溶的相态中的浓度的比值。"
+  },
+  {
+   "cn": "选择性分布",
+   "en": "selective distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.32",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素选择在某些特定器官或组织分布的现象。"
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "概率密度函数为的统计分布。该分布由两个参数——平均值（）和方差（）决定。其概率密度函数曲线以均值为对称中线单峰统计分布，曲线的高峰位于中央；方差越小，分布越集中在均值附近。"
+  },
+  {
+   "cn": "二项分布",
+   "en": "binomial distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "n个独立的“是/非”试验中成功的次数的离散概率分布。二项分布的概率函数为，表示在n次试验中有x次成功的概率，其中每次试验的成功概率为p。"
+  },
+  {
+   "cn": "t分布",
+   "en": "t distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "具有不同自由度的一组以均值为对称中线的单峰统计分布。假设X服从标准正态分布N（0,1），Y服从，的分布则称为自由度为n的t分布，记为。"
+  },
+  {
+   "cn": "频次分布",
+   "en": "frequency distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个变量所有取值上或类别上的观测数的分布形态。"
+  },
+  {
+   "cn": "f分布",
+   "en": "f distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个服从卡方分布的独立随机变量各除以其自由度后的比值的抽样分布。"
+  },
+  {
+   "cn": "联合分布",
+   "en": "joint distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个或两个以上随机变量的概率分布函数。"
+  },
+  {
+   "cn": "多项分布",
+   "en": "multinomial distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.27",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在每次试验具有多个可能结局的情况下，n次试验独立试验中各种可能结局出现次数的离散概率分布。二项分布的概率函数为，其中为可能结局的出现次数，为每次试验中各个结局出现的概率。"
+  },
+  {
+   "cn": "泊松分布",
+   "en": "Poisson distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.29",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "描述单位时间（或单位面积）内随机事件发生次数的离散概率分布。其概率密度函数为，其中λ为单位时间（或单位面积）内随机事件的平均发生率。"
+  },
+  {
+   "cn": "抽样分布",
+   "en": "sampling distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.30",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在既定统计设计条件下，所有可能得到的样本的特定统计值的概率分布。"
+  },
+  {
+   "cn": "人口分布",
+   "en": "population distribution",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "人口居住与分布的模式。"
+  },
+  {
+   "cn": "人群分布",
+   "en": "population distribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.29",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "疾病在不同人群中的分布特征。一般按人群的不同年龄、性别、职业、种族等来分组描述疾病的发生、死亡等强度（频率），可以帮助确定危险人群和探索致病因素。"
+  },
+  {
+   "cn": "社会分布",
+   "en": "social distribution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0081",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "使用同一个或几个语言变项的群体的社会特征。例如语言使用的性别分布、年龄分布、受教育程度的分布等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

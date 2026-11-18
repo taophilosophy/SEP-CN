@@ -1,0 +1,742 @@
+{
+ "key": "common kind assumption",
+ "term": "common kind assumption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:24:09+00:00",
+ "status": "ok",
+ "note": "variant=common kind assumption; 审定公布名词库=2340; 海峡两岸名词对照库=694; 其他来源数据库=135; 预公布名词数据库=65; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "假设",
+   "en": "assumption",
+   "source": "物理学名词",
+   "wordNumber": "01.0148",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裘布依假设",
+   "en": "Dupuit assumption",
+   "source": "地质学名词",
+   "wordNumber": "16.03.074",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "潜水流计算的一种概化假定。针对潜水含水层，裘布依假设地下水的垂向流速可以忽略不计，单宽流量正比于潜水面坡度、潜水面相对底板的高度与渗透系数的乘积。"
+  },
+  {
+   "cn": "普雷斯顿假设",
+   "en": "Preston assumption",
+   "source": "光学名词",
+   "wordNumber": "06.165",
+   "subjectFullName": "光学_光学材料",
+   "subjectName": "光学材料",
+   "publishYear": "2021",
+   "definition": "描述光学元件抛光过程的线性微分方程。由普雷斯顿(F. W. Preston)于 1927 年提出，假设在将影响加工过程的因素进行经验性的简化基础上指出在一定范围内工件表面材料去除率与抛光工具对工件的正"
+  },
+  {
+   "cn": "行为假设",
+   "en": "behavioral assumption",
+   "source": "经济学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "所有经济理论的一部分，即关于人类动机方式的设定。"
+  },
+  {
+   "cn": "荷载组合",
+   "en": "loading assumption",
+   "source": "电力名词",
+   "wordNumber": "22.039",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "根据国家标准、法规、当地气象数据等确定的用于线路设计的荷载条件的组合。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "化学名词",
+   "wordNumber": "03.0209",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "关于1个或多个随机变量总体未知分布参数和性质的假设。如果随机变量分布形式已知，而仅涉及分布中的未知参数的统计假设，称为“参数假设(parameterassumption)”。"
+  },
+  {
+   "cn": "政策假设分析法",
+   "en": "assumption analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0301",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "对政策问题的冲突性假设进行创造性综合的一种方法。"
+  },
+  {
+   "cn": "自然类",
+   "en": "natural kind",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.193",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "对状态、事物、事态的一种分类。在该分类中的所有成员所共有的性质可以独立于分类者的个人或社会偏好。"
+  },
+  {
+   "cn": "林火种类",
+   "en": "fire kind",
+   "source": "林学名词",
+   "wordNumber": "07.312",
+   "subjectFullName": "林学_森林保护_森林防火",
+   "subjectName": "森林防火",
+   "publishYear": "2016",
+   "definition": "针对森林燃烧状况而划分的燃烧类型。通常分为地表火、树冠火和地下火三种类型。"
+  },
+  {
+   "cn": "可燃物种类",
+   "en": "fuel kind",
+   "source": "林学名词",
+   "wordNumber": "07.250",
+   "subjectFullName": "林学_森林保护_森林防火",
+   "subjectName": "森林防火",
+   "publishYear": "2016",
+   "definition": "承载可燃物理化性质、形态、易燃性等特征的可燃物基本类别。是构成可燃物类型的基本要素，其组成比例、空间分布不同，可形成不同的可燃物类型，具有不同的森林燃烧‍性。"
+  },
+  {
+   "cn": "电码种类",
+   "en": "code kind",
+   "source": "大气科学名词",
+   "wordNumber": "02.055",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "国际上对各种电码型式的通用代称，同时也作为按该电码型式编成电报的代称。如CLIMAT表示地面气候月电码等。"
+  },
+  {
+   "cn": "种类代号",
+   "en": "kind designation",
+   "source": "电气工程名词",
+   "wordNumber": "01.912",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.608",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "数理逻辑用于知识表示时，假定没有被断言为真的句子是假的，或体现为“失败即否定”原则，即假定未证明为真的句子是假的。"
+  },
+  {
+   "cn": "应变等价假定",
+   "en": "strain equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0161",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "应力作用在受损材料上引起的应变与有效应力作用在无损材料上引起的应变等价的假定。基于应变等价假定，受损结构的本构关系可通过无损时的形式描述，只需将其中名义应力换成有效应力即可。"
+  },
+  {
+   "cn": "应力等价假定",
+   "en": "stress equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0162",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "损伤状态下真实应变对应的应力和与虚构无损状态下有效应变对应的应力等价的假定。"
+  },
+  {
+   "cn": "能量等价假定",
+   "en": "energy equivalence assumption",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0163",
+   "subjectFullName": "机械工程（一）_机械强度_结构损伤",
+   "subjectName": "结构损伤",
+   "publishYear": "2021",
+   "definition": "损伤状态下真实应变和应力对应的弹性余能和虚构无损伤状态下有效应变和有效应力对应的弹性余能等价的假定。"
+  },
+  {
+   "cn": "平面应变假设",
+   "en": "plane-strain assumption",
+   "source": "冶金学名词",
+   "wordNumber": "09.0301",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "轧件在变形区内，轧件无宽展；沿每一高度截面上质点变形均匀；其运动之水平速度一样的假设。"
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0058",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "雷·赖特（Ray Reiter)于1978年提出的一种处理含否定词的演绎数据库查询语句的方法。可抽象成如下非单调推理机制：在封闭世界中若不知道某命题是否为真，则认定此命题为假。"
+  },
+  {
+   "cn": "社会人假设",
+   "en": "social person assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0169",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "由梅奥(George Elton Mayo)等提出的人性假设。其基本观点是：人不是孤立存在的，而是作为某一群体成员的社会存在；人不仅有经济需求，而且有社会需求；人的思想和行为不仅由理性支配，而且在更多"
+  },
+  {
+   "cn": "强碰撞假设",
+   "en": "strong collision assumption",
+   "source": "化学名词",
+   "wordNumber": "04.0276",
+   "subjectFullName": "化学_物理化学_化学动力学",
+   "subjectName": "化学动力学",
+   "publishYear": "2016",
+   "definition": "在单分子反应速率理论中假设每次碰撞都能进行有效的能量传递。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "闭合假设",
+   "en": "closure assumptions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强碰撞假设",
+   "en": "strong collision assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共同危险",
+   "en": "common danger\",\"common peril",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "局域平衡假设",
+   "en": "assumption of local equilibrium",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保险给付种类",
+   "en": "kind of benefit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实物福利",
+   "en": "benefit in kind",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实物投入",
+   "en": "input in kind",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实物投资",
+   "en": "investment in kind",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实物支付",
+   "en": "payment in kind",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实物资产",
+   "en": "asset in kind",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "体被",
+   "en": "common integument",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "常见种",
+   "en": "common species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总[叶]柄",
+   "en": "common petiole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "常用对数",
+   "en": "common logarithm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "普通原料",
+   "en": "common stock",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "公共设施",
+   "en": "common utility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "共同特质",
+   "en": "common trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共同因素",
+   "en": "common factor",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "慈",
+   "en": "Kindness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "投桃报李",
+   "en": "Return Kindness with Kindness / Return Goodwill in Kind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性假设",
+   "en": "assumption about human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "友善",
+   "en": "Friendly and Kind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球公域",
+   "en": "global commons",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共池塘资源",
+   "en": "common-pool resources",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同异",
+   "en": "Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "爱类",
+   "en": "Loving One’s Own Kind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大同异/小同异",
+   "en": "Major Commonality and Difference / Minor Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识共同体",
+   "en": "Common Body of Knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "命运共同体",
+   "en": "community with a common future",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "求同存异",
+   "en": "Seek Common Ground While Setting Aside Differences",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "仁慈",
+   "en": "kindness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "仁爱慈善。是人们在处理人际关系时应努力做到与人为善，不求回报，随时注意关怀、爱戴、宽容、帮助、体贴和理解他人的境遇或需求。它与“爱”“同情”“仁爱”或“利他主义”相联系。"
+  },
+  {
+   "cn": "自然类",
+   "en": "natural kind",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.193",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对状态、事物、事态的一种分类。在该分类中的所有成员所共有的性质可以独立于分类者的个人或社会偏好。"
+  },
+  {
+   "cn": "慈爱",
+   "en": "loving-kindness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0659999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对于晚辈或脆弱者的怜爱、帮助及善举。"
+  },
+  {
+   "cn": "实物工资",
+   "en": "wage in kind",
+   "source": "马克思主义",
+   "wordNumber": "02.0150",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“货币工资”相对应。即资本家以实物形式支付给工人的工资。不论货币工资还是还实物工资，都是劳动力价值的形式，是劳动力的价格。"
+  },
+  {
+   "cn": "实物地租",
+   "en": "rent in kind",
+   "source": "马克思主义",
+   "wordNumber": "02.0275",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "农民以实物形式缴纳的地租，是封建地租的一种形式。这种形态下，农民不再在地主土地上直接提供剩余劳动，而是直接以剩余产品形式作地租。"
+  },
+  {
+   "cn": "通用名",
+   "en": "common name",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品名称中表示主要原料、主要功效成分或产品功能的文字。"
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "source": "马克思主义",
+   "wordNumber": "03.0554",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全体人民通过辛勤劳动和相互帮助最终达到丰衣足食的生活水平。共同富裕是邓小平论述社会主义本质的重要内容和根本原则，是对以往社会两极分化的否定。其实现途径是：允许和鼓励一部分地区、一部分人通过诚实劳动和合"
+  },
+  {
+   "cn": "共同纲领",
+   "en": "common programme",
+   "source": "马克思主义",
+   "wordNumber": "04.0133",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1949年9月，中国人民政治协商会议第一届全体会议通过的《中国人民政治协商会议共同纲领》（简称《共同纲领》），展示了新中国的宏伟建设蓝图，是新中国的建国纲领。在全国人民代表大会制定宪法前，具有临时宪法"
+  },
+  {
+   "cn": "通用语",
+   "en": "common language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0185",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个国家或地区普遍使用的语言。分国家通用语、地方通用语、区域（跨国）通用语和全球通用语。例如汉语普通话为中国的国家通用语，藏语为中国西藏自治区的地方通用语。"
+  },
+  {
+   "cn": "共同性分析",
+   "en": "commonality analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.126",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将一个测量变量或潜变量中被解释或被预测的方差进一步分解成两个组成部分，由每个测量的预测变量单独解释的部分和由预测变量可能的组合共同解释的部分。"
+  },
+  {
+   "cn": "两种民族主义",
+   "en": "two kinds of nationalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.002",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "特指马克思主义民族理论所反对的、不利于民族团结的两种错误思想倾向。中国反对“大汉族主义”和“地方民族主义”（“狭隘民族主义”）。社会主义阶段的两种民族主义是人民内部矛盾。"
+  },
+  {
+   "cn": "五个共同",
+   "en": "five common contributions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0147",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华民族历史观的集中体现。我国各民族共同开拓了祖国的辽阔疆域，共同缔造了统一的多民族国家，共同书写了辉煌的中国历史，共同创造了灿烂的中华文化，共同培育了伟大的民族精神。"
+  },
+  {
+   "cn": "一般辐射事故",
+   "en": "common radiation accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.2.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "Ⅳ类、Ⅴ类放射源丢失、被盗、失控，或者放射性同位素和射线装置失控导致人员受到超过年剂量限值的照射的辐射事故。"
+  },
+  {
+   "cn": "“两个共同”",
+   "en": "Two Common Principles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0125",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "即“共同团结奋斗、共同繁荣发展”，是中国共产党在21 世纪初提出的民族工作主题。"
+  },
+  {
+   "cn": "一般作业区",
+   "en": "common working area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.17",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "对于食品生产过程清洁程度无特殊要求的食品生产作业区域。"
+  },
+  {
+   "cn": "国家通用语言",
+   "en": "national common language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0188",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个国家各民族之间使用最广泛的语言。中国法定的国家通用语言特指汉语普通话。"
+  },
+  {
+   "cn": "妇女常见病",
+   "en": "woman's common disease",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "发生在女性生殖器官或乳腺的常见疾病，主要包括宫颈疾病、乳腺疾病、生殖道感染及其他生殖系统疾病。"
+  },
+  {
+   "cn": "普通变异型免疫缺陷病",
+   "en": "common variable immunodeficiency, CVID",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "以抗体产生缺陷、低免疫球蛋白血症和反复感染为主要特征，并除外药物或感染引起的低免疫球蛋白血症，以及已知的染色体异常引起的低免疫球蛋白性疾病。其临床表现无特异性，主要表现为反复感染特别是呼吸道和消化道感"
+  },
+  {
+   "cn": "学生常见疾病监测",
+   "en": "students' common diseases surveillance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "采用抽样调查方法，对确定检测点学校目标人群的发生率较高的一类疾病进行长期动态观察。"
+  },
+  {
+   "cn": "常见疾病预防",
+   "en": "prevention of common diseases",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "为了阻止儿童青少年常见病，如肥胖、视力不良与近视、营养不良与贫血等发生发展而采取的一系列措施，包括健康促进、环境改善和健康素养提升。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

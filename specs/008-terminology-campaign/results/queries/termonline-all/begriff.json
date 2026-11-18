@@ -1,0 +1,32 @@
+{
+ "key": "begriff",
+ "term": "Begriff",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:27:03+00:00",
+ "status": "ok",
+ "note": "variant=Begriff; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "普通野生稻",
+   "en": "common wild rice; Oryza rufipogon Griff.",
+   "source": "农学名词",
+   "wordNumber": "02.004",
+   "subjectFullName": "粮食作物_谷类作物",
+   "subjectName": "谷类作物",
+   "publishYear": "2025",
+   "definition": "禾本科稻属多年生作物，普通栽培稻的祖先。染色体组为AA型，2n=2x=24。株高100~150cm，匍匐茎，地上分枝。穗枝分散，着粒疏，小穗有长芒。成熟籽粒呈黑褐色或黄褐色，易落粒。主要分布在广东、广"
+  },
+  {
+   "cn": "贝罗夫",
+   "en": "Beroff\",\"Michel(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

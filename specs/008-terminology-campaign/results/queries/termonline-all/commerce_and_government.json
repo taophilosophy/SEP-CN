@@ -1,0 +1,812 @@
+{
+ "key": "commerce and government",
+ "term": "Commerce and Government",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:14:07+00:00",
+ "status": "ok",
+ "note": "variant=Commerce and Government; 审定公布名词库=9990; 海峡两岸名词对照库=1812; 其他来源数据库=1465; 预公布名词数据库=1118; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "商业",
+   "en": "commerce",
+   "source": "经济学名词",
+   "wordNumber": "04.029",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "广义的商业是指所有以营利为目的的事业。狭义的商业是指专门从事商品交换活动的营利性事业。"
+  },
+  {
+   "cn": "科学与治理",
+   "en": "science and governance",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.021",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "关于科学和社会治理之间关系的交叉研究。在科学与决策之间建立一种机制，使科学和决策过程以有效、可信、负责和透明的方式协调工作，既优化管理决策和治理过程，也促使科学技术更好地服务于人们的根本利益。"
+  },
+  {
+   "cn": "企业对政府型电子商务",
+   "en": "business to government e-commerce，B2G e-commerce",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.167",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "企业与政府管理部门之间的电子商务模式，如政府采购平台、海关报税平台、国家税务总局和地方税务局报税平台等。"
+  },
+  {
+   "cn": "消费者对政府型电子商务",
+   "en": "consumer to government e-commerce，C2G e-commerce",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.172",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "消费者对政府管理部门的电子商务模式。是政府的电子商务行为，不以营利为目的，主要包括政府采购、网上报关、报税等，对整个电子商务行业不会产生大的影响。"
+  },
+  {
+   "cn": "工商党",
+   "en": "Commerce and Industry Party",
+   "source": "世界历史名词",
+   "wordNumber": "05.0248",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1905-1906年间俄国工商资产阶级和金融资产阶级政党，其纲领是协助政府镇压革命，维护地主土地所有制等。后并入十月党。"
+  },
+  {
+   "cn": "商贸农事节",
+   "en": "commerce and husbandry festival",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.200",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "定期和不定期的商业贸易和农事活动的节日。"
+  },
+  {
+   "cn": "电子商务",
+   "en": "electronic commerce,e-commerce",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1281",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "在互联网、企业内部网和增值网上以电子交易方式进行的贸易活动和相关服务。"
+  },
+  {
+   "cn": "电子商务",
+   "en": "electronic commerce;e commerce",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.12",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "通过互联网进行的各项商务活动。区别于传统的以物理交换或直接物理接触方式完成交易，电子商务的主要特征是借助电子工具的方式进行交易。作为一种现代商业方法，电子商务包括了企业对企业(B2B)、企业对消费者("
+  },
+  {
+   "cn": "电子商务",
+   "en": "e-commerce",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.150",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "通过互联网购买和销售产品及服务。包括商品和服务的在线展示、订购、收费、客户服务和所有支付与交易的处理。"
+  },
+  {
+   "cn": "社会商务",
+   "en": "social commerce",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1273",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "借助社交网站、微博、社交媒介、网络媒介的传播途径，通过社交互动、用户自生内容等手段来辅助商品的购买和销售行为。"
+  },
+  {
+   "cn": "虚拟商务",
+   "en": "virtual commerce",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0012",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "跨越时空形成的虚拟市场，能够完成过去实物市场无法完成的交易。"
+  },
+  {
+   "cn": "电子商务",
+   "en": "electronic commerce",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0010",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "借助互联网等任何通信网络，从事信息、产品和服务的营销、买卖和交换的商务过程。"
+  },
+  {
+   "cn": "电子商务",
+   "en": "e-Commerce",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.156",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "在因特网上通过数字媒体进行买卖交易的商业活动。"
+  },
+  {
+   "cn": "移动商务",
+   "en": "mobile commerce",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.185",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "利用移动通信手机进行的商务活动。"
+  },
+  {
+   "cn": "电子商务",
+   "en": "electronic commerce",
+   "source": "地理学名词",
+   "wordNumber": "18.033",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "基于因特网的一种新的商业模式，其特征是商务活动在因特网上以数字化电子方式完成。"
+  },
+  {
+   "cn": "政府",
+   "en": "government",
+   "source": "经济学名词",
+   "wordNumber": "04.058",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "公共部门中以谋取公共利益为行动动机，不从事商品或者劳务的生产经营，以税收等公共收入为主要收入来源，免费或部分免费地向公众提供商品和劳务的行为主体的总和。"
+  },
+  {
+   "cn": "管辖",
+   "en": "government",
+   "source": "语言学名词",
+   "wordNumber": "01.144",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "①一种句法关联性。其中一个词语要求另外一个词语取得某种特定的形态。例如在英语中，介词后面的人称代词必须是宾格形式。②管辖与约束理论中的一种特定句法关系。短语的中心词可以为短语的名词性短语补足语指派格位"
+  },
+  {
+   "cn": "医药电子商务",
+   "en": "medical and pharmaceutical electronic commerce",
+   "source": "药学名词",
+   "wordNumber": "01.024",
+   "subjectFullName": "药学_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "药品生产者、经营者或使用者通过信息网络系统，以电子数据为交换方式进行医药商务活动和其他相关活动的商务行为。"
+  },
+  {
+   "cn": "通商航海条约",
+   "en": "treaty of commerce and navigation",
+   "source": "航海科技名词",
+   "wordNumber": "13.0041",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "城乡治理",
+   "en": "city and countryside governance",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_区域规划理论和方法",
+   "subjectName": "区域规划理论和方法",
+   "publishYear": "2021",
+   "definition": "在城市和乡村中多元利益主体积极参与，通过谈判、协调等方式达成共同目标、实现协同发展的过程。"
+  },
+  {
+   "cn": "电子商务",
+   "en": "electronic commerce",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际商业",
+   "en": "international commerce",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海上贸易",
+   "en": "sea commerce",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特种贸易",
+   "en": "special commerce",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "直接贸易",
+   "en": "active commerce",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "中介贸易，居间贸易",
+   "en": "intermediary commerce",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务",
+   "en": "electronic commerce",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "通商友好条约",
+   "en": "treaty of amity and commerce",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "通商航海条约",
+   "en": "treaty of commerce and navigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "政商运电子数据交换[标准]，跨行业电子数据交换[标准]",
+   "en": "EDI for administration\",\"commerce and transport",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务",
+   "en": "electronic commerce\",\"EC",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通商条约",
+   "en": "treaty of commerce",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "通商协定",
+   "en": "agreement on commerce",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府贷款",
+   "en": "government loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府贸易",
+   "en": "government trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府投资",
+   "en": "government investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府许可证",
+   "en": "government license",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府债券",
+   "en": "government bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府债券",
+   "en": "government paper",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府债务",
+   "en": "government debt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "行政审批",
+   "en": "government review and approval",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "政治",
+   "en": "Decree and Governance / Politics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子政府",
+   "en": "electronic government (e-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动政务",
+   "en": "mobile government (m-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务数据开发应用",
+   "en": "e-commerce data development and application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实施大部门制",
+   "en": "merge and streamline government departments",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "政通人和",
+   "en": "Good Governance and Harmonious People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动电子商务",
+   "en": "mobile e-commerce",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "农村电商",
+   "en": "rural e-commerce",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务合作",
+   "en": "e-commerce cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务协议",
+   "en": "e-commerce protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务促进",
+   "en": "e-commerce promotion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机构和行政体制改革",
+   "en": "reform of Party and government institutions and the system of government administration",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电子政务",
+   "en": "e-government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府数据",
+   "en": "government data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府信息",
+   "en": "government information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无缝隙政府",
+   "en": "seamless government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府",
+   "en": "Digital Government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放政府",
+   "en": "open government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧政府",
+   "en": "smart government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商业",
+   "en": "commerce",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.007",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "商品交换的发达形式，是一种为卖而买的特殊的买卖活动，把商品从生产者手中转移到消费者手中。"
+  },
+  {
+   "cn": "商业",
+   "en": "commerce",
+   "source": "马克思主义",
+   "wordNumber": "02.0229",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "专门从事商品流通活动的经济部门。其主要职能是从事商品的收购、调运、储存和销售。商业是在商品生产和交换活动有了一定的发展的基础上产生的。它的产生形成了第三次社会大分工。"
+  },
+  {
+   "cn": "政府政策资源",
+   "en": "government policies and resources",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "各级政府以建设健康促进学校为目的而制定的政策及相应的投资。"
+  },
+  {
+   "cn": "学校管理",
+   "en": "school governance and leadership",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "以健康促进为目的的学校整体治理和领导模式。"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.12",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "狭义指国家政治中的治理，即政府运用公权力来管理民众、社会与领土，以便达到社会发展与国家繁荣的目的；广义指包括公司治理、地方自治等在内的各种管理机制。"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会医学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "治理",
+   "publishYear": "2025",
+   "definition": "各种公立或私立机构、组织或个人管理其共同事务的方式总和。是确保人们相互冲突的利益得以有效调整，并通过各种正式和非正式制度安排协调一致采取联合行动的过程。"
+  },
+  {
+   "cn": "利用限制改造资本主义工商业",
+   "en": "utilizing restricting and transforming capitalist industry and commerce",
+   "source": "马克思主义",
+   "wordNumber": "02.0356",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国资本主义工商业社会主义改造的基本政策。即：通过国家行政机关的管理、国营经济的领导和工人群众的监督，利用资本主义工商业的有利于国计民生的积极作用，限制它们的不利于国计民生的消极作用，鼓励和指导它们转"
+  },
+  {
+   "cn": "卫生体系管理与治理",
+   "en": "health system stewardship and governance",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.6",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "在特定环境下，管理者对卫生体系各类资源进行有效的计划、组织、领导、控制和协调，以实现卫生体系目标的活动过程。"
+  },
+  {
+   "cn": "商会",
+   "en": "chamber of commerce",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "商人依法组建的、以维护会员合法权益、促进工商业繁荣为宗旨的社会团体。"
+  },
+  {
+   "cn": "中央和地方的关系",
+   "en": "relationship between the central government and the local government",
+   "source": "马克思主义",
+   "wordNumber": "02.0378",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的发挥中央和地方两个积极性的关系。在巩固中央统一领导的前提下，扩大一点地方的权力，给地方更多的独立性，让地方办更多的事情。"
+  },
+  {
+   "cn": "仁政",
+   "en": "benevolent government",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.6",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "基于周代理想政治秩序构建的政治与道德合一的君民关系。孟子政治思想的核心，试图重建周代的等级秩序和人心秩序，把亲亲、尊尊作为君与民关系的道德原则。同时着重发挥民本思想，提出一条自下而上建设社会的途径，经"
+  },
+  {
+   "cn": "政府购买",
+   "en": "government purchase",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.26",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "政府向社会组织或其他组织支付资金，并由其来完成某些服务活动的做法，包括分购买项目和购买岗位两种基本形式。一般是由政府将其原来直接提供的公共服务事项，通过直接拨款或公开招标的方式，交给具有资质的社会服务"
+  },
+  {
+   "cn": "廉价政府",
+   "en": "cheap government",
+   "source": "马克思主义",
+   "wordNumber": "03.0109",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“廉价政府”最初是资产阶级革命提出的口号。马克思在总结巴黎公社的经验时赞扬公社真正实现了廉价政府的目标，因为它取消了常备军和官吏两项最大的开支。巴黎公社废除了官吏的高新和特权，所有公职人员领取相当于工"
+  },
+  {
+   "cn": "服务型政府",
+   "en": "serviceoriented government",
+   "source": "马克思主义",
+   "wordNumber": "03.0685",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十六届六中全会提出的强化社会管理和公共管理任务之一。是遵循社会公正和民主，按公共参与和共同治理的法定机制和程序而组建起来的，为公民提供满意服务并承担相应责任的政府。"
+  },
+  {
+   "cn": "政府投资",
+   "en": "government investment",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府使用预算安排资金进行固定资产投资建设以影响卫生服务市场行为的活动。分为直接投资和间接投资两大类。"
+  },
+  {
+   "cn": "政府规制",
+   "en": "government regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "作为对外部竞争约束的替代，政府必须对公共卫生机构提供公共产品的行为加以约束或规定，做出关于安全标准、价格规范、药品供应和废弃物监管等方面的制度安排。"
+  },
+  {
+   "cn": "政府失灵",
+   "en": "government failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府在弥补市场机制的缺陷、干预经济运行的过程中，由于自身的局限性和其他因素的制约无法达到社会卫生资源配置的有效和公平的状况。"
+  },
+  {
+   "cn": "国家政府",
+   "en": "central government",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "在全国范围内行使行政、立法、财政和监管职能的最高级别政府机构，主要包括国家级各部委、国务院、最高人民法院、最高人民检察院及其他直属机关。"
+  },
+  {
+   "cn": "民主执政",
+   "en": "democratic governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0676",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持为人民执政、靠人民执政，发展中国特色社会主义民主政治，推进社会主义民主政治的制度化、规范化、程序化，以民主的制度、民主的形式、民主的手段支持和保证人民当家作主。"
+  },
+  {
+   "cn": "依法执政",
+   "en": "lawbased governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0677",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党坚持依法治国的基本方略，领导人民制定法律，自觉带头遵守法律，采取措施保证法律的实施，不断推进国家经济、政治、文化、社会生活的法制化、规范化，以法治的理念、法治的体制、法治的程序保证党领导人民有效治理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

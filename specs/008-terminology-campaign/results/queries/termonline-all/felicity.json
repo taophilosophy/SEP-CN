@@ -1,0 +1,512 @@
+{
+ "key": "felicity",
+ "term": "felicity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:56:35+00:00",
+ "status": "ok",
+ "note": "variant=felicity; 审定公布名词库=691; 海峡两岸名词对照库=234; 其他来源数据库=11; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "螺旋度",
+   "en": "helicity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.015",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "表示螺旋结构特性的一种方式。通常用p/q表示。指在一个螺旋恒定周期中包含有p个单体单元及q个螺旋圈。"
+  },
+  {
+   "cn": "螺旋性",
+   "en": "helicity",
+   "source": "物理学名词",
+   "wordNumber": "09.1459",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋度",
+   "en": "helicity",
+   "source": "物理学名词",
+   "wordNumber": "09.1458",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋手性",
+   "en": "helicity",
+   "source": "化学名词",
+   "wordNumber": "02.0766",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "由于螺丝、螺旋桨类螺旋形分子沿其螺旋轴旋转方向不同而引起的手性。右手螺旋标记为正(P,plus)，左手螺旋标记为负(M,minus)。<img src='/root/syzx/static/spz/h"
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0642",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "质点位移对时间的变化率。其大小等于距离除以时间，方向为位移矢量的方向。 "
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0002",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "位移的变化率。"
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "冶金学名词",
+   "wordNumber": "04.0214",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "流动、传热和传质所通过的距离随时间的变化率。速度是一个向量。"
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "物理学名词",
+   "wordNumber": "02.0044",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "土木工程名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "土木工程_工程力学_理论力学",
+   "subjectName": "理论力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "流速",
+   "en": "velocity",
+   "source": "水利科学技术名词",
+   "wordNumber": "02.143",
+   "subjectFullName": "水利科学技术_水文、水资源_应用水文学（水利）",
+   "subjectName": "应用水文学（水利）",
+   "publishYear": "1997",
+   "definition": "在某一特定方向上，水流在某点的运动速率。"
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "磁螺度",
+   "en": "magnetic helicity",
+   "source": "天文学名词",
+   "wordNumber": "09.251",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "磁力线扭绞成螺旋形的程度。定义为磁场矢量势与磁场矢量点乘的体积分。"
+  },
+  {
+   "cn": "磁螺旋度",
+   "en": "magnetic helicity",
+   "source": "核科学技术名词",
+   "wordNumber": "3.087",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "表征磁场的螺旋特性的物理量。为磁矢势A与磁感应强度B的标积对一个封闭磁面包围的体积V的体积分，即。磁螺度在理想磁流体中是守恒‍量。"
+  },
+  {
+   "cn": "磁螺旋度",
+   "en": "magnetic helicity",
+   "source": "物理学名词",
+   "wordNumber": "10.0404",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "速度传感器",
+   "en": "velocity transducer,velocity sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0061",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受速度并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "流速",
+   "en": "flow velocity,current velocity",
+   "source": "电力名词",
+   "wordNumber": "01.807",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "描述流体质点位置随时间变化规律的矢量。"
+  },
+  {
+   "cn": "平均速度",
+   "en": "average velocity,mean velocity",
+   "source": "物理学名词",
+   "wordNumber": "02.0046",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "平均速度",
+   "en": "average velocity,mean velocity",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "退行速度",
+   "en": "recession velocity; velocity of recession; regression velocity",
+   "source": "天文学名词",
+   "wordNumber": "07.278",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "天体远离观测者而去的视向速度。"
+  },
+  {
+   "cn": "血液流速",
+   "en": "blood flow velocity,blood velocity",
+   "source": "生理学名词",
+   "wordNumber": "05.132",
+   "subjectFullName": "生理学_心血管生理学",
+   "subjectName": "心血管生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瓦列西",
+   "en": "Varesi\",\"Felice(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "快乐的计谋",
+   "en": "Inganno Felice\",\"L’",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rossini, Gioacchino"
+  },
+  {
+   "cn": "螺[旋]度",
+   "en": "helicity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "螺度",
+   "en": "helicity",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋手性",
+   "en": "helicity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋度",
+   "en": "helicity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "磁螺度",
+   "en": "magnetic helicity",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "沉降速度",
+   "en": "sedimentation velocity\",\"settling velocity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电流螺度",
+   "en": "electric current helicity",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋轴",
+   "en": "axis of helicity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表面速度",
+   "en": "surface velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉降速度",
+   "en": "deposition velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "垂直速度",
+   "en": "vertical velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "迪尔多夫速度",
+   "en": "Deardorff velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "浮力速度",
+   "en": "buoyancy velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轨道速度",
+   "en": "orbital velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "夹卷速度",
+   "en": "entrainment velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "路径速度准确度",
+   "en": "path velocity accuracy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性别检查",
+   "en": "feminity control\",\"gender test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大数据4V特征",
+   "en": "4V’s of big data (volume, variety, velocity and veracity)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生长速度",
+   "en": "growth velocity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.18",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对某一单项体格生长指标进行定期连续测量（纵向调查）所获得的该项指标在某一时间段中的增长值。"
+  },
+  {
+   "cn": "身高增速高峰",
+   "en": "peak height velocity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "青春期启动后，身高的生长速度在童年期的基础上出现加速增长、并在生长突增开始1～2年后达到生长速度高峰的现象。"
+  },
+  {
+   "cn": "生长速度曲线",
+   "en": "velocity curve of growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "儿童少年体格发育指标年增长值在坐标上的变化。"
+  },
+  {
+   "cn": "流速标称值",
+   "en": "nominal value of flow velocity",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.7",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "由生产厂商设置，安全柜正常工作时的下降气流和流入气流的流速。"
+  },
+  {
+   "cn": "身高增速高峰年龄",
+   "en": "age at peak height velocity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "身高增速高峰发生时的年龄。"
+  },
+  {
+   "cn": "生长发育速度评价",
+   "en": "growth and development velocity appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "评价儿童少年某一项生长发育指标在一段时间内的变化趋势。通常需要连续测量某项生长发育指标并将测量值绘制在生长监测图上，结果以正常、下降、缓慢、加速来表示。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

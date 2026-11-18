@@ -1,0 +1,302 @@
+{
+ "key": "mereological nihilism",
+ "term": "mereological nihilism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:22:58+00:00",
+ "status": "ok",
+ "note": "variant=mereological nihilism; 审定公布名词库=47; 海峡两岸名词对照库=5; 其他来源数据库=0; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "虚无妄想",
+   "en": "nihilistic delusion,nihilism",
+   "source": "精神医学名词",
+   "wordNumber": "02.146",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者坚信自身或自身的某些部分不存在，或现实世界的某些东西不存在的妄想。"
+  },
+  {
+   "cn": "虚无妄想",
+   "en": "nihilistic delusion;nihilism",
+   "source": "行为医学名词",
+   "wordNumber": "16.084",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "坚信自身或者自身的某些部分不存在，或者外部现实世界的某些东西不存在的妄想。"
+  },
+  {
+   "cn": "男性化",
+   "en": "virilism",
+   "source": "生理学名词",
+   "wordNumber": "10.164",
+   "subjectFullName": "生理学_内分泌生理学",
+   "subjectName": "内分泌生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "男性化",
+   "en": "virilism",
+   "source": "医学名词 第一分册",
+   "wordNumber": "06.348",
+   "subjectFullName": "医学_内分泌病学",
+   "subjectName": "内分泌病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "男性化",
+   "en": "virilization,virilism",
+   "source": "医学名词 第六分册",
+   "wordNumber": "04.884",
+   "subjectFullName": "医学_泌尿外科学",
+   "subjectName": "泌尿外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "计量认证",
+   "en": "metrological certification",
+   "source": "农学名词",
+   "wordNumber": "18.076",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "对为社会提供公正数据的产品质量检验机构、计量仪器和设备等实施的技术考核。目的在于确认是否具备同检验工作相适应的计量检定测试能力和可靠性。"
+  },
+  {
+   "cn": "计量溯源性",
+   "en": "metrological traceability",
+   "source": "农学名词",
+   "wordNumber": "18.093",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "通过文件规定的不间断的校准链，将测量结果与参照对象联系起来的特性。校准链中的每项校准均会引入测量不确定度。"
+  },
+  {
+   "cn": "计量比对",
+   "en": "metrological comparison",
+   "source": "农学名词",
+   "wordNumber": "18.094",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "在规定条件下，相同量的计量基准和计量标准所复现或保持的量值之间进行比较、分析和评价的过程。"
+  },
+  {
+   "cn": "计量特性",
+   "en": "metrological characteristic",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0721",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "能影响测量结果的可区分的特征。"
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0622",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为确保测量设备符合预期使用要求所需要的一组操作。"
+  },
+  {
+   "cn": "计量职能",
+   "en": "metrological function",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0722",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "确定和实施测量管理体系的具有管理和技术责任的职能。"
+  },
+  {
+   "cn": "计量溯源性",
+   "en": "metrological traceability",
+   "source": "计量学名词",
+   "wordNumber": "01.066",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "通过文件规定的不间断的校准链，将测量结果与参照对象联系起来的特性。校准链中的每项校准均会引入测量不确定度。"
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "计量学名词",
+   "wordNumber": "01.203",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "为确保测量设备处于满足预期使用要求的状态所需要的一组操作。"
+  },
+  {
+   "cn": "计量监督",
+   "en": "metrological supervision",
+   "source": "计量学名词",
+   "wordNumber": "01.164",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "为检查测量仪器是否遵守计量法律、法规要求并正确使用对测量仪器的制造、进口、安装、使用、维护和维修所实施的控制。"
+  },
+  {
+   "cn": "计量鉴定",
+   "en": "metrological expertise",
+   "source": "计量学名词",
+   "wordNumber": "01.165",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "以举证为目的的所有操作，如参照相应的法定要求，为法庭证实测量仪器的状态并确定其计量性能，或者评价公证用的检测数据的正确性。"
+  },
+  {
+   "cn": "计量保证",
+   "en": "metrological assurance",
+   "source": "计量学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "在法制计量中用于保证测量结果可信性的所有法规、技术手段和必要的活动。"
+  },
+  {
+   "cn": "计量监督",
+   "en": "metrological supervision",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.007",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.008",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "计量保证",
+   "en": "metrological assurance",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.009",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "计量管理",
+   "en": "metrological management",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.006",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "分部[研究]法",
+   "en": "merological approach",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "高空图表",
+   "en": "aerological diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "血清学决定簇",
+   "en": "serological determinant",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "测风经纬仪",
+   "en": "aerological theodolite\",\"balloon theodolite",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重组表达cDNA克隆的血清学分析技术",
+   "en": "serological analysis of recombinantly expressed cDNA clone， SEREX",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "历史虚无主义",
+   "en": "historical nihilism",
+   "source": "马克思主义",
+   "wordNumber": "04.0387",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "不加具体分析而盲目否定人类社会的历史发展过程,甚至否定历史文化,否定民族文化、民族传统、民族精神,否定一切的历史观点和思想倾向。其特征就是否认人类社会过去的一切,否认人类社会历史的存在。历史虚无主义总"
+  },
+  {
+   "cn": "民族虚无主义",
+   "en": "ethnic nihilism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0018",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "无视民族特点，抹杀民族差别，否定民族文化传统和历史遗产的社会思潮。极端的民族虚无主义者甚至认为“民族”是虚构的概念，根本否认民族的存在。"
+  },
+  {
+   "cn": "量值溯源性",
+   "en": "metrological traceability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.67",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "通过具备证明文件的不间断的校准链，将测量结果与参照对象联系起来的测量结果的特性，校准链中的每项校准都会引人测量不确定度。"
+  },
+  {
+   "cn": "血清学鉴定",
+   "en": "serological identification",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.56",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "用已知抗体（或抗原）鉴定对应抗原（或抗体）的试验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

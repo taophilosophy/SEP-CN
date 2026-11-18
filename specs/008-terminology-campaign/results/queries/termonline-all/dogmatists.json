@@ -1,0 +1,52 @@
+{
+ "key": "dogmatists",
+ "term": "dogmatists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:17:30+00:00",
+ "status": "ok",
+ "note": "variant=dogmatists; 审定公布名词库=0; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "教条主义",
+   "en": "dogmatism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "教条主义量表",
+   "en": "Dogmatism Scale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "教条主义",
+   "en": "dogmatism",
+   "source": "马克思主义",
+   "wordNumber": "01.0213",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "一种不从实际出发，照抄照搬书本或外国经验，以致脱离实际的思想作风，是主观主义的一种表现形式。"
+  },
+  {
+   "cn": "反对教条主义",
+   "en": "combat dogmatism",
+   "source": "马克思主义",
+   "wordNumber": "03.0345",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的党在思想战线上的一项重要任务。教条主义是以主观和客观相分裂, 认识和实践相脱离为特征, 否认感性认识, 片面强调理性认识的一种唯心主义形而上学的思想方法和工作方法，是主观主义的表现形式之一"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

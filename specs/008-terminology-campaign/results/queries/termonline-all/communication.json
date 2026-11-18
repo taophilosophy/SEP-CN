@@ -1,0 +1,682 @@
+{
+ "key": "communication",
+ "term": "communication",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:07:35+00:00",
+ "status": "ok",
+ "note": "variant=communication; 审定公布名词库=1251; 海峡两岸名词对照库=487; 其他来源数据库=129; 预公布名词数据库=197; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "传播",
+   "en": "communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.001",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "人的一种基本存在方式。在一定社会结构与社会关系中，人借助一定媒介，通过象征符号完成的以信息传递与交流为特性的互动行为。①同义词“交流”“沟通”。用于强调交际关系的双向性与平等的意义。②同义词“交往”。"
+  },
+  {
+   "cn": "通信",
+   "en": "communication",
+   "source": "动物学名词",
+   "wordNumber": "7.0308",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "通过使用相互理解的信息和信息规则从一个个体或群体传递到另一个个体或群体的行为。涉及的步骤常包括通信动机的形成、信息编码（如嗅觉、视觉、味觉等）、信息组成、信息传输、受体动物的信息解码和决策等。"
+  },
+  {
+   "cn": "沟通",
+   "en": "communication",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.112",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "人与人之间交换意见、观点和情感的过程。"
+  },
+  {
+   "cn": "沟通",
+   "en": "communication",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0208",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_领导与权力",
+   "subjectName": "领导与权力",
+   "publishYear": "2016",
+   "definition": "人际之间、人与群体或组织间进行思想与感情信息的传递和反馈的过程。"
+  },
+  {
+   "cn": "沟通",
+   "en": "communication",
+   "source": "心理学名词",
+   "wordNumber": "07.093",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "人与人之间信息、情感和物品形式的交流。"
+  },
+  {
+   "cn": "交流",
+   "en": "communication",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.057",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人与人之间通过一定的符号进行的信息传播与分享的过程。是人类普遍存在的一种社会行为。"
+  },
+  {
+   "cn": "交流",
+   "en": "communication",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.062",
+   "subjectFullName": "物理医学与康复_总论_国际功能、残疾和健康分类",
+   "subjectName": "国际功能、残疾和健康分类",
+   "publishYear": "2014",
+   "definition": "在一定的社会环境中，人们使用语言、信号和符号进行信息传递和交换的过程。包括接收和产生信息、进行对话和使用交流设备和技术。"
+  },
+  {
+   "cn": "通信",
+   "en": "communication",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.515",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "通过各种介质进行的信息传输与交换。"
+  },
+  {
+   "cn": "通信",
+   "en": "communication",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "按照达成的协议，信息在人、地点、进程和机器之间进行的传送。"
+  },
+  {
+   "cn": "通信",
+   "en": "communication",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0002",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "通信[学]",
+   "en": "communication",
+   "source": "电子学名词",
+   "wordNumber": "21.001",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "通信、指挥、控制与情报系统",
+   "en": "communication,command,C3I,control and intelligence system",
+   "source": "航空科学技术名词",
+   "wordNumber": "07.016",
+   "subjectFullName": "航空科学技术_航空电子与机载计算机系统",
+   "subjectName": "航空电子与机载计算机系统",
+   "publishYear": "2003",
+   "definition": "将各种情报数据通过通信链连接到指挥和控制中心，为各级指挥员提供准确、实时和可靠的信息，并进行处理、显示、分析、评价与辅助决策，向下属部队发送命令并监督执行的大型人-机电子信息系统。"
+  },
+  {
+   "cn": "传播者",
+   "en": "communicator",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.068",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "在传播过程中传出信息的个人(如有关领导、专家、医生、讲演者、节目主持人、教师等)或团体(如报社、电台、电视台等)。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "风景园林名词",
+   "wordNumber": "13.0014",
+   "subjectFullName": "风景园林_其他_景观社会学",
+   "subjectName": "景观社会学",
+   "publishYear": "2025",
+   "definition": "在一定地域内发生各种社会关系和社会活动，有特定的生活方式，并具有成员归属感的人群所组成的一个相对独立的社会实体。"
+  },
+  {
+   "cn": "群落",
+   "en": "community",
+   "source": "风景园林名词",
+   "wordNumber": "12.0001",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "在一定时间内聚集于一定生境中的不同种群所组成的生物系统。虽然是由植物、动物、微生物等各种生物有机体组成，但仍是一个具有一定成分和外貌比较一致的组合体；一个群落中的不同种群不是杂乱无章地散布，而是有序而"
+  },
+  {
+   "cn": "群落",
+   "en": "community ",
+   "source": "草学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "社群",
+   "en": "community",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.066",
+   "subjectFullName": "新闻学与传播学_公共关系_公共关系构成",
+   "subjectName": "公共关系构成",
+   "publishYear": "2022",
+   "definition": "在某些边界线、地区或领域内发生作用的一切社会关系。既可以是实际的地理区域或是在某区域内发生的社会关系；也可以是存在于较抽象的、思想上的关系。具有稳定的群体结构和较一致的群体意识；成员有一致的行为规范、"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "城乡规划学_社区与住房规划_城乡社区发展及规划理论与方法",
+   "subjectName": "城乡社区发展及规划理论与方法",
+   "publishYear": "2021",
+   "definition": "（1）由居住在一定范围内的个人、家庭及社会群体所组成的社会生活共同体，居民之间有共同的意识和利益以及较密切的社会交往。（2）互联网环境下出现的，按照行业职业、特定话题或爱好等进行分类或具有运营性质的网"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0568",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "居住在一定区域内的人们所组成的社会生活共同体。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "建筑学名词",
+   "wordNumber": "07.0275",
+   "subjectFullName": "建筑学_城乡规划_详细规划",
+   "subjectName": "详细规划",
+   "publishYear": "2014",
+   "definition": "一般指以街道、居住区等为基础，由一定数量的社会成员组成的、有着共同意识和利益以及较密切交往的社会群体。"
+  },
+  {
+   "cn": "沟通",
+   "en": "communication",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "通信",
+   "en": "communication",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "通信[学]",
+   "en": "communication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通讯",
+   "en": "communication",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "沟通",
+   "en": "communication",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "交通",
+   "en": "communication",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "通信",
+   "en": "communication",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "群落",
+   "en": "community",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共因子方差比,共同度",
+   "en": "communality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群落",
+   "en": "community",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "通信性",
+   "en": "communicativeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "边缘群落",
+   "en": "marginal community\",\"edge community",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "先锋群落",
+   "en": "pioneer community\",\"initiative community",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "沟通渠道",
+   "en": "communication channel",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沟通系统",
+   "en": "communication system",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沟通训练",
+   "en": "communication training",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沟通模式",
+   "en": "communication model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沟通网络",
+   "en": "communication network",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "传播心理学",
+   "en": "communication psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "通信传输",
+   "en": "communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通信对抗",
+   "en": "communication countermeasure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息通信",
+   "en": "Information Communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子通信",
+   "en": "Quantum Communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络传播",
+   "en": "Internet Communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式传播",
+   "en": "interactive communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "微传播",
+   "en": "micro communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交往",
+   "en": "communication",
+   "source": "马克思主义",
+   "wordNumber": "01.0147",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯在《德意志意识形态》中提出的概念，指各个人、民族、国家之间的交流、往来及相互作用行为。交往是从物质生产中发展起来的，交往及其形式由生产决定，但“生产本身又是以个人彼此之间的交往为前提的”"
+  },
+  {
+   "cn": "社会共同体",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "人类历史上由共同生活和社会互动形成的、建立在一定文化认同基础上的、以特定关系和纽带联系起来的稳定的人群联合体。前现代社会人类群体存在的普遍形式。其特征和形式与一定的社会生产方式相联系并受此发展状况影响"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.1",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围，小到村庄、邻里、教区，大到城镇、城市。有时也指不受地理空间限制、具有共同兴趣爱好、分布广泛而又紧密联"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "聚居在一定地域中，有着互动关系和共同文化的人群的生活共同体。一般认为其基本的构成要素包括：一定数量的、以一定生产关系为基础组织起来的人口；一定的地域界限；居民间的认同意识；一套规范和组织系统。"
+  },
+  {
+   "cn": "公社",
+   "en": "commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0007",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "建立在公有制基础上，工业、农业和手工业直接结合的自给自足的经济共同体。其普遍的特征，是土地公有、农业和手工业结合、协作劳动、经济自给自足、彼此独立等等。"
+  },
+  {
+   "cn": "共产主义",
+   "en": "communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0014",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）人类最理想的社会制度。人类社会发展的高级形态。根据马克思和恩格斯的设想，共产主义社会是人类社会发展史上继资本主义社会之后的一种以生产资料公有制为基础的、消灭了一切剥削关系的社会形态。它实行“各尽"
+  },
+  {
+   "cn": "共同体",
+   "en": "community",
+   "source": "马克思主义",
+   "wordNumber": "03.0074",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定区域的居民、团体或国家在共同条件下结成的集体组织。德国古典社会学家滕尼斯将共同体分为血缘共同体，地缘共同体，精神共同体。马克思主要从所有制的角度解读共同体。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0081",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以一定地理区域为基础的社会群体。具体特征有：有一定的地理区域，有一定数量的人口，居民之间有共同的意识和利益，并有着较密切的社会交往。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "若干社会群体(家庭、氏族)或社会组织(机关、团体)聚集在某一地域里所形成的一个生活上相互关联的大集体。一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围"
+  },
+  {
+   "cn": "沟通途径",
+   "en": "communication channels",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "向大众或特定受众传递信息的渠道。传统的沟通途径包括电子媒体（广播和电视）和印刷媒体（报纸和杂志）。"
+  },
+  {
+   "cn": "沟通网",
+   "en": "communication network",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.10",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部各种可利用的人际沟通渠道所结成的构架。人际沟通常常受到可利用的沟通渠道的限制，这些渠道所构成的不同结构和不同性质的沟通网络，决定着信息交流的取向和质量。"
+  },
+  {
+   "cn": "沟通理论",
+   "en": "communication theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "以社会心理学、人类认知学和社会语言学中有关人际沟通的一些理论为基础而形成的一种社会工作理论。该理论强调人际沟通在人际关系中的重要性，认为许多的行为问题都出在人际沟通方面，如不能恰当地接受、选择与评估信"
+  },
+  {
+   "cn": "沟通策略",
+   "en": "communication strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "根据国家健康促进政策和战略，通过宣传、教育和促进健康的生活方式和负责任的行为，改变导致青少年处于持续不良健康状态的潜在行为模式和态度的行动方案。"
+  },
+  {
+   "cn": "交流障碍",
+   "en": "communication disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "发育早期出现的，在言语和非言语交际的社会应用中持续存在语言、言语和/或交流缺陷的一组神经发育障碍，包括语言障碍、语音障碍、言语流畅障碍等。"
+  },
+  {
+   "cn": "通讯习俗",
+   "en": "communication customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0098",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "利用声音传递信息的习俗，如呼喊、叫声、鼓声、锣声、哨声、狼烟等。"
+  },
+  {
+   "cn": "沟通要素",
+   "en": "communication element",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.087",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "心理学家海因以系统论的传播模式为背景提出人际沟通过程的6 个基本要素：信息环境、信息发出者、信息、传递途径、信息接收者、反馈。在医患沟通中，信息发出者既可以是医方，也可以是患方。"
+  },
+  {
+   "cn": "沟通技巧",
+   "en": "communication skill",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.088",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在医疗活动中，医务人员通过言语或非言语的沟通媒介与患方进行交流的技巧。"
+  },
+  {
+   "cn": "沟通障碍",
+   "en": "communication barrier",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0889999999999995",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "信息传递过程中存在的困难或不利因素。医患沟通要素利用不当，影响医患沟通的效果和质量。"
+  },
+  {
+   "cn": "风险沟通",
+   "en": "risk communication",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在突发事件发生之前（作为准备活动的一部分）、期间和之后采取的一种干预措施，旨在使处于危险中的每个人都能够做出明智的决定，以保护自己、家人和社区免受生存、健康和福祉的威胁。"
+  },
+  {
+   "cn": "社会交往",
+   "en": "social communication",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体之间（个体与个体、个体与群体或群体与群体）之间相互往来，进行物质与精神交流或沟通的社会活动。分为正式与非正式，单向、双向和多向，以及纵向（上行或下行）与横向（平行）多种形式。以交通设施和网络为"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

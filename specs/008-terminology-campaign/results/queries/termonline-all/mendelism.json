@@ -1,0 +1,402 @@
+{
+ "key": "mendelism",
+ "term": "Mendelism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:19:59+00:00",
+ "status": "ok",
+ "note": "variant=Mendelism; 审定公布名词库=23; 海峡两岸名词对照库=19; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "孟德尔定律",
+   "en": "Mendel’s law",
+   "source": "植物学名词",
+   "wordNumber": "10.0003",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "孟德尔(G. Mendel)根据豌豆杂交实验提出的遗传学定律。包括分离定律和自由组合定律。"
+  },
+  {
+   "cn": "孟德尔遗传定律",
+   "en": "Mendel’s laws of inheritance",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.325",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "孟德尔（G.J.Mendel）根据豌豆杂交实验所提出的遗传学定律。包括分离定律和自由组合定 律。"
+  },
+  {
+   "cn": "孟德尔遗传定律",
+   "en": "Mendel's laws of inheritance",
+   "source": "遗传学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "孟德尔根据豌豆杂交实验所提出的遗传学定律，包括分离定律和自由组合定律。"
+  },
+  {
+   "cn": "心理主义",
+   "en": "mentalism",
+   "source": "心理学名词",
+   "wordNumber": "04.153",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "以人的内部心理过程为研究重点的心理学理论。如冯特的内容心理学与当代的认知心理学。"
+  },
+  {
+   "cn": "心智主义",
+   "en": "mentalism",
+   "source": "语言学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "语言学的一种观点。认为人的内部的心智活动与外显的行为表现是相互独立的，并且前者可以解释后者。"
+  },
+  {
+   "cn": "特有现象",
+   "en": "endemism",
+   "source": "动物学名词",
+   "wordNumber": "2.0365",
+   "subjectFullName": "动物学_动物进化与系统学_动物地理",
+   "subjectName": "动物地理",
+   "publishYear": "2021",
+   "definition": "某个生物分类群只局限在一个特定区域分布的现象。"
+  },
+  {
+   "cn": "特有现象",
+   "en": "endemism",
+   "source": "植物学名词",
+   "wordNumber": "02.0381",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "某个生物分类单位只局限在一个特定区域分布的现象。"
+  },
+  {
+   "cn": "特有现象",
+   "en": "endemism",
+   "source": "生态学名词",
+   "wordNumber": "13.035",
+   "subjectFullName": "生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2006",
+   "definition": "生物分类单元只在一个地区发生的现象。"
+  },
+  {
+   "cn": "孟德尔性状",
+   "en": "Mendelian character",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.324",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "符合孟德尔遗传定律传递规律的性状。"
+  },
+  {
+   "cn": "孟德尔定律",
+   "en": "Mendelian laws",
+   "source": "畜牧学名词",
+   "wordNumber": "04.022",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "孟德尔所提出的遗传因子分离定律和自由组合定律。"
+  },
+  {
+   "cn": "孟德尔式群体",
+   "en": "Mendelian population",
+   "source": "畜牧学名词",
+   "wordNumber": "04.290",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "群体内的个体享有共同的基因库，通过有性繁殖进行上下代间的基因传递，可以应用孟德尔遗传定律进行分析的群体。"
+  },
+  {
+   "cn": "孟德尔抽样",
+   "en": "Mendelian sampling",
+   "source": "畜牧学名词",
+   "wordNumber": "04.304",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "由于亲本在产生配子时等位基因的随机分离，以及在合子形成过程中雌雄配子的随机组合，后代获得的基因只是亲本所携带的所有基因中的一个随机样本的抽样过程。"
+  },
+  {
+   "cn": "孟德尔病",
+   "en": "Mendelian disease",
+   "source": "计划生育名词",
+   "wordNumber": "03.734",
+   "subjectFullName": "计划生育_计划生育临床_优生优育",
+   "subjectName": "优生优育",
+   "publishYear": "2019",
+   "definition": "由于单个位点或基因的突变或改变所引起的疾病。可以发生在一个基因，也可以发生在一个基因对。"
+  },
+  {
+   "cn": "孟德尔病",
+   "en": "Mendelian disease",
+   "source": "放射医学与防护名词",
+   "wordNumber": "11.175",
+   "subjectFullName": "放射医学与防护_放射性疾病诊断、治疗与健康监护_放射损伤远后健康效应",
+   "subjectName": "放射损伤远后健康效应",
+   "publishYear": "2014",
+   "definition": "归因于单基因突变的遗传病。"
+  },
+  {
+   "cn": "孟德尔基因座",
+   "en": "Mendelian locus",
+   "source": "遗传学名词",
+   "wordNumber": "02.033",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "决定特定性状的基因在染色体上的特定位置。"
+  },
+  {
+   "cn": "孟德尔式群体",
+   "en": "Mendelian population",
+   "source": "遗传学名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "群体内的个体享有共同的基因库，通过有性生殖传递基因，可用孟德尔定律进行分析的群体。"
+  },
+  {
+   "cn": "孟德尔抽样",
+   "en": "Mendelian sampling",
+   "source": "遗传学名词",
+   "wordNumber": "06.044",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "亲本产生配子时等位基因随机分离，合子形成过程中对配子的随机结合，使后代获得的基因只是亲本所携带基因的一个随机样本的抽样过程。"
+  },
+  {
+   "cn": "孟德尔性状",
+   "en": "Mendelian character",
+   "source": "遗传学名词",
+   "wordNumber": "02.017",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "符合孟德尔遗传定律的性状。"
+  },
+  {
+   "cn": "孟德尔比率",
+   "en": "Mendelian ratio",
+   "source": "遗传学名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "由于杂合体在形成配子时等位基因分离和非等位基因自由组合而产生的特定的配子分离比、基因型分离比和表型分离比。"
+  },
+  {
+   "cn": "孟德尔遗传",
+   "en": "mendelian inheritance",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.031",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "孟德尔定律",
+   "en": "Mendel’s law",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "孟德尔遗传定律",
+   "en": "Mendel's laws ofinheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "孟德尔第一定律",
+   "en": "Mendel's first law",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "孟德尔第二定律",
+   "en": "Mendel's second law",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "特有现象",
+   "en": "endemism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特有现象",
+   "en": "endemism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "特有现象",
+   "en": "endemism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特有性",
+   "en": "endemism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "孟德尔基因座",
+   "en": "Mendelian locus",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "孟德尔遗传",
+   "en": "mendelian inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "孟德尔比率",
+   "en": "Mendelian ratio",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "孟德尔性状",
+   "en": "Mendelian character",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "孟德尔式群体",
+   "en": "Mendelian population",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "孟德尔抽样",
+   "en": "Mendelian sampling",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "古老特有性",
+   "en": "epibiotic endemism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "遗存固有种",
+   "en": "conservative endemism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "非孟德尔比率",
+   "en": "non-Mendelian ratio",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "孟德尔抽样离差",
+   "en": "Mendelian sampling deviation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非孟德尔式遗传",
+   "en": "non-Mendelian inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,722 @@
+{
+ "key": "agent-centered restrictions",
+ "term": "agent-centered restrictions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:59:21+00:00",
+ "status": "ok",
+ "note": "variant=agent-centered restrictions; 审定公布名词库=2218; 海峡两岸名词对照库=768; 其他来源数据库=150; 预公布名词数据库=134; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "数学名词",
+   "wordNumber": "01.0061",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切酶",
+   "en": "restriction enzyme,restriction endonuclease",
+   "source": "核医学名词",
+   "wordNumber": "06.0123",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "能够识别DNA上特定碱基序列，并在这个位点将DNA剪切的酶。"
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease,restriction nuclease",
+   "source": "遗传学名词",
+   "wordNumber": "03.725",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "特异性识别短的DNA序列并且切割靶位点或别处的DNA双链酶。主要分I型、II型、III型等三类：I型限制酶结合在特定的识别序列上，但在近乎随机的位置上切割DNA；II型限制酶的结合和切割都在同一识别序"
+  },
+  {
+   "cn": "限制",
+   "en": "restraint;restriction",
+   "source": "地质学名词",
+   "wordNumber": "10.03.040",
+   "subjectFullName": "地质学_大地构造学_其他大地构造学说",
+   "subjectName": "其他大地构造学说",
+   "publishYear": "2026",
+   "definition": "两个不同时期的构造成分，彼此走向显著不同，较晚构造终止于较早构造的复合现象。"
+  },
+  {
+   "cn": "限制弧",
+   "en": "restriction arc",
+   "source": "地质学名词",
+   "wordNumber": "10.03.042",
+   "subjectFullName": "地质学_大地构造学_其他大地构造学说",
+   "subjectName": "其他大地构造学说",
+   "publishYear": "2026",
+   "definition": "由于边界条件限制，致使在边界附近产生的弧形构造。"
+  },
+  {
+   "cn": "限盐",
+   "en": "salt restriction",
+   "source": "肝病学名词",
+   "wordNumber": "8.4.4.1",
+   "subjectFullName": "肝病学_肝硬化及其并发症_肝硬化腹水",
+   "subjectName": "肝硬化腹水",
+   "publishYear": "2024",
+   "definition": "饮食中钠摄入80～120mmol/d（4～6g/d）的控制措施。可减少腹水潴留，但长期严格限钠会导致患者食欲减退及低钠血症，加重营养不良。而且，血浆低钠时肾素-血管紧张素-醛固酮系统活性增强，尿钠排泄"
+  },
+  {
+   "cn": "限制性酶切片段",
+   "en": "restriction fragment",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0705",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "核酸被限制性内切酶消化所产生的片段。"
+  },
+  {
+   "cn": "限制性酶切图谱",
+   "en": "restriction map",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0708",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "核酸经限制性内切酶消化成片段，用电泳等方法分离，不同的核酸形成的各自独特的条带图谱。"
+  },
+  {
+   "cn": "限制性酶切作图",
+   "en": "restriction mapping",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0709",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "将DNA分子上的一种或多种限制性内切酶的酶切位点依次排列，标明酶切位点在DNA分子上的位置以及相互之间相隔距离的方法。"
+  },
+  {
+   "cn": "限制性酶切位点",
+   "en": "restriction site",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.071",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "在DNA双链上被限制性内切酶识别并切割的特定碱基序列。在分子生物学和基因工程中常用的II型限制性内切酶识别的多为4、6或8对核苷酸的双链回文序列。"
+  },
+  {
+   "cn": "限制性酶切分析",
+   "en": "restriction analysis",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0712",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "基因组或一段核酸用限制性内切酶消化产生的片段经电泳等方法分离形成独特的条带图谱，对DNA序列特征进行分析的方法。"
+  },
+  {
+   "cn": "限制性内切酶",
+   "en": "restriction enzyme",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0421",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_水解酶",
+   "subjectName": "水解酶",
+   "publishYear": "2024",
+   "definition": "原核生物中催化降解外源DNA的内切酶。通过识别DNA中特异碱基序列（一般为回文结构或反向重复序列）将DNA双链切断，形成黏端或平端的片段。包括Ⅰ型、Ⅱ型和Ⅲ型三种。"
+  },
+  {
+   "cn": "DNA限制性",
+   "en": "DNA restriction",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.017",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "宿主菌利用其自身特有的限制修饰系统对进入细胞内的外源DNA的一种控制作用。宿主菌产生的限制性酶可以对未与载体重组的外源DNA进行切割，使其不能在细胞内进行存活。"
+  },
+  {
+   "cn": "MHC限制性",
+   "en": "MHC restriction",
+   "source": "兽医学名词",
+   "wordNumber": "14.162",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "在免疫应答识别阶段，T细胞与APC之间的作用和免疫效应阶段、T细胞与靶细胞之间的作用都涉及TCR对自身MHC分子的识别，即只有当相互作用细胞双方的MHC分子一致时，免疫应答才能发生的机制。"
+  },
+  {
+   "cn": "睡眠限制",
+   "en": "sleep restriction",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_认知行为治疗",
+   "subjectName": "认知行为治疗",
+   "publishYear": "2022",
+   "definition": "通过缩短卧床清醒的时间等方法，增加入睡驱动能力以提高睡眠效率的一种行为疗法。"
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease",
+   "source": "血液学名词",
+   "wordNumber": "4.297",
+   "subjectFullName": "血液学_常用检查_血液病理检测_分子生物学检测相关",
+   "subjectName": "分子生物学检测相关",
+   "publishYear": "2022",
+   "definition": "特异性识别短的DNA序列，并且在识别位点或附近切割双链DNA的一类内切酶。"
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease",
+   "source": "行为医学名词",
+   "wordNumber": "3.32",
+   "subjectFullName": "行为医学_行为的生物学基础_生物化学基础_核酸",
+   "subjectName": "核酸",
+   "publishYear": "2022",
+   "definition": "能够识别并附着特定的脱氧核苷酸序列，并对每条链中特定部位两个脱氧核糖核苷酸之间的磷酸二酯键进行切割的一类酶。酶切位点的核酸序列通常具有回文结构。"
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.296",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "识别特异性DNA序列并且切割靶位点DNA双链的酶。"
+  },
+  {
+   "cn": "限制性酶切片段",
+   "en": "restriction fragment",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.298",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "核酸被限制性内切核酸酶消化所产生的片段。"
+  },
+  {
+   "cn": "限制点",
+   "en": "restriction point",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.384",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "控制细胞周期从G₁期进入S期的调节点。只有通过该点，细胞周期才能进入S期，进行DNA合成。"
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相克",
+   "en": "restriction",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "内部级",
+   "en": "restricted",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切核酸酶,限制酶",
+   "en": "restriction endonuclease\",\"restriction enzyme",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "限制性酶(=限制性内切核酸酶)",
+   "en": "restriction enzyme(=restriction endonuclease)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "约束",
+   "en": "restriction\",\"constraint",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "限制性[酶切]片段",
+   "en": "restriction fragment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制[性酶切]位点",
+   "en": "restriction site",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限制性内切核酸酶",
+   "en": "restriction endonuclease",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间障碍",
+   "en": "steric restriction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "限制酶",
+   "en": "restriction enzyme",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "出口限制",
+   "en": "export restriction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贷款限制条件，贷款限制规则",
+   "en": "loan restriction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口管制",
+   "en": "import restriction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易限制",
+   "en": "trade restriction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "配额限制",
+   "en": "quota restriction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资限制",
+   "en": "investment restriction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外汇限制",
+   "en": "exchange restriction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "同源限制性",
+   "en": "homologous restriction",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "限制酶",
+   "en": "restriction enzyme",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "旅行限制",
+   "en": "travel restrictions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "限定空间",
+   "en": "restricted space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回到中心区!",
+   "en": "Center!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中锋",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传中",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传中",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中锋",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中心",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中路进攻",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中后卫",
+   "en": "center\",\"center back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "行为智能体",
+   "en": "behavioral agent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权力制约",
+   "en": "power restriction",
+   "source": "马克思主义",
+   "wordNumber": "03.0772",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了防治权力的滥用和腐败，而对权力进行制衡与约束。它既包括公民权利对国家权力的制约，也包括国家权力之间的分权制约，如西方的三权分立。中国共产党借鉴但不照搬西方国家在权力制约的经验，正在探索建立、健全决"
+  },
+  {
+   "cn": "职业限制",
+   "en": "occupational restriction",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "保险公司为了控制风险，对一些高风险职业进行限制或者不承保的现象。"
+  },
+  {
+   "cn": "广告限制",
+   "en": "advertising restriction ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.2.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策",
+   "subjectName": "健康危害行为公共政策",
+   "publishYear": "2025",
+   "definition": "对危害健康产品的广告加以限制，例如禁止香烟广告。"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在限定条件下可作为消毒剂原料的物质，在一定限定值以下使用。"
+  },
+  {
+   "cn": "受约束的比转换能",
+   "en": "restricted cema",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位质量物质中，电子产生电离、激发过程中，扣除释出的动能大于特定值的δ粒子动能后，其他能量损失的总和。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "限制口粮",
+   "en": "restricted rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "要求携带最少装备、短期（少于10 天）内完成特殊任务时食用的单兵口粮，由于携带物品体积和重量的限制，其体积和重量均小于作战口粮。"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0569999999999995",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "基于法律规定、法院指定或者当事人的委托授权，在一定权限内代替被代理人为其进行有一定法律意义的活动的人，其可以是自然人也可以是法人。包括法定代理人、指定代理人、委托代理人。某些失去行为能力或病情危重的病"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数>2.0（胎龄≤37周）或>2.2（胎龄>37周），身长/头围>1.36的小于胎龄儿。多始于胎儿早期，常与遗传因素和宫内感染等有关，胎儿体重、身长和头围受到同等程度的影响。往往脑发育受限。"
+  },
+  {
+   "cn": "非匀称型小于胎龄儿",
+   "en": "asymmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数<2.0（胎龄≤37周）或<2.2（胎龄>37周），身长/头围<1.36的小于胎龄儿。多发生于胎儿晚期，常与母亲营养不良或高血压等有关，出生体重明显低于正常，身长和头围尚与胎龄一致。"
+  },
+  {
+   "cn": "青春期节食",
+   "en": "adolescent restrictive eating",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.2.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "儿童青少年尤其是青春期女孩为了获得或保持苗条身材、惧怕体重增加而采取控制食物量或限制食物品种的饮食行为。"
+  },
+  {
+   "cn": "抗寄生虫剂",
+   "en": "antiparasitic agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.2.4",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "能够驱除或杀灭畜禽体内外寄生虫的药物。"
+  },
+  {
+   "cn": "食用胶",
+   "en": "gelatinizing agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.27",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "可在糖果中形成质地柔软的凝胶状可食用性胶凝剂，如明胶、琼脂、果胶、卡拉胶等。"
+  },
+  {
+   "cn": "灭菌剂",
+   "en": "sterilizing agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.11",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭所有微生物，达到灭菌要求的消毒剂。"
+  },
+  {
+   "cn": "抗菌剂",
+   "en": "antibacterial agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.13.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭和抑制细菌生长繁殖的制剂。"
+  },
+  {
+   "cn": "抑菌剂",
+   "en": "bacteriostatic agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.14",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够在一定时间内，使某些微生物的生长或繁殖保持在一定水平以下的化学物质。"
+  },
+  {
+   "cn": "清洁剂",
+   "en": "cleaning agent",
+   "source": "消毒学",
+   "wordNumber": "3.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "用于增强水的去污能力的化学制剂。"
+  },
+  {
+   "cn": "崩解剂",
+   "en": "disintegrating agent",
+   "source": "消毒学",
+   "wordNumber": "6.1.14.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "能使固体消毒剂在溶液中迅速裂碎成细小颗粒，增加消毒因子溶出的辅料。"
+  },
+  {
+   "cn": "抗泡沫剂",
+   "en": "antifoam agent",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.22",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在采样液中加入的能够降低采样冲击时产生的泡沫，提高微生物采集效率的试剂。常用辛醇或橄榄油等。"
+  },
+  {
+   "cn": "络合剂",
+   "en": "complexing agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.6",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能提供电子对的配位基，并能与金属离子形成络合物的化合物。如果配位基中有两个或以上提供电子对的键合原子，而且在其间相隔2个或3个其他原子时，结构上常成环状或螯环。"
+  },
+  {
+   "cn": "螯合剂",
+   "en": "chelating agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.7",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能与金属离子结合形成螯合物，用于放射性药物标记，从而增加药物稳定性的交联剂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

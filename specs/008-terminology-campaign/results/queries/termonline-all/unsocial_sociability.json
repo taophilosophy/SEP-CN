@@ -1,0 +1,722 @@
+{
+ "key": "unsocial sociability",
+ "term": "unsocial sociability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:13:02+00:00",
+ "status": "ok",
+ "note": "variant=unsocial sociability; 审定公布名词库=538; 海峡两岸名词对照库=145; 其他来源数据库=86; 预公布名词数据库=484; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "社交能力",
+   "en": "sociability",
+   "source": "行为医学名词",
+   "wordNumber": "4.11",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体在社会交往和活动中表现出来的能力。如组织管理能力、判断决策能力等。"
+  },
+  {
+   "cn": "群集度",
+   "en": "sociability",
+   "source": "植物学名词",
+   "wordNumber": "13.0287",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "一个种在群落中存在的式样。如单生、成簇、小斑块、大斑块、单纯的种群。"
+  },
+  {
+   "cn": "集群性",
+   "en": "sociability,gregariousness",
+   "source": "水产名词",
+   "wordNumber": "01.103",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "某些动物或在动物生长的某一阶段、或在一定外界条件下所形成的高度群集习性。"
+  },
+  {
+   "cn": "未社会化品行障碍",
+   "en": "unsocialized conduct disorder",
+   "source": "行为医学名词",
+   "wordNumber": "18.024",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "一种持久的社交不良或攻击行为，同时伴有其他明显而普遍性关系异常的儿童品行障碍。"
+  },
+  {
+   "cn": "未社会化品行障碍",
+   "en": "unsocialized conduct disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.405",
+   "subjectFullName": "精神医学_诊断分类_儿童情绪与行为障碍",
+   "subjectName": "儿童情绪与行为障碍",
+   "publishYear": "2019",
+   "definition": "持久的社交不良或攻击行为，同时伴有其他明显而普遍的儿童关系异常的一种儿童品行障碍。"
+  },
+  {
+   "cn": "群集度",
+   "en": "sociability,colonizality,gregariousness",
+   "source": "生态学名词",
+   "wordNumber": "06.040",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "对种在群落内水平分布状况的度量，常采用布朗－布朗凯(Braun-Blanquet)的五级制进行目测。"
+  },
+  {
+   "cn": "可解性",
+   "en": "solvability",
+   "source": "数学名词",
+   "wordNumber": "02.0227",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "行为医学名词",
+   "wordNumber": "1.027",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "集体活动中的个体或社会成员表现出的有利于集体和社会发展的特性。"
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "动物学名词",
+   "wordNumber": "7.032",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "动物种群中的个体倾向于在社会群体中形成合作社会的程度。"
+  },
+  {
+   "cn": "局部可解性",
+   "en": "local solvability",
+   "source": "数学名词",
+   "wordNumber": "06.0496",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正规可解性",
+   "en": "normal solvability",
+   "source": "数学名词",
+   "wordNumber": "07.0350",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "智能体社会性",
+   "en": "agent sociality",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0162",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体在交互过程中表现出来的社会属性。如角色和角色关系，以及义务、承诺、道义等由社会学概念定义的属性。"
+  },
+  {
+   "cn": "细胞社会性",
+   "en": "cell sociality",
+   "source": "细胞生物学名词",
+   "wordNumber": "04.110",
+   "subjectFullName": "细胞生物学_细胞生理",
+   "subjectName": "细胞生理",
+   "publishYear": "2009",
+   "definition": "多细胞生物体中的细胞与细胞或细胞外基质之间所形成的相互作用、相互协调的依存关系。"
+  },
+  {
+   "cn": "奶粉冲调性",
+   "en": "milk powder solvability",
+   "source": "畜牧学名词",
+   "wordNumber": "06.305",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_发酵乳制品加工",
+   "subjectName": "发酵乳制品加工",
+   "publishYear": "2020",
+   "definition": "表示奶粉冲调时溶解速度的指标。通常是用34g奶粉放入250mL 25℃水中，以1圈/s的速度搅动20圈后，溶解的奶粉占34g样品重的百分比来表示。"
+  },
+  {
+   "cn": "可解性理论",
+   "en": "theory of solvability",
+   "source": "数学名词",
+   "wordNumber": "07.0349",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真社群性",
+   "en": "eusocial",
+   "source": "动物学名词",
+   "wordNumber": "7.0321",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "动物社群性高度组织化的现象。通常其社群组织以共同育幼、生殖阶级化、世代重叠为构架。"
+  },
+  {
+   "cn": "社会救助",
+   "en": "social assistance,social relief",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0493",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "国家或社会依法建立的、面向无法维持最低生活水平的社会困难群体提供款物接济和扶助的社会保障制度。"
+  },
+  {
+   "cn": "社会习惯语",
+   "en": "social idiom,social dialect",
+   "source": "语言学名词",
+   "wordNumber": "05.231",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "各种社会集团、职业集团以及不同阶层内部使用的词语。是由于社会上各种不同行业、集团和阶层内部的交际需要而产生的词语。包括术语、行业语、集团语、阶级习惯语等。"
+  },
+  {
+   "cn": "群居寄生",
+   "en": "social parasitism,social symbiosis",
+   "source": "昆虫学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "共生的一种形式。群居于社会性昆虫巢内，不是直接以宿主，而是以它的储粮为食的昆虫。"
+  },
+  {
+   "cn": "真社会性昆虫",
+   "en": "eusocial insect",
+   "source": "昆虫学名词",
+   "wordNumber": "06.154",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "由不同世代个体组成、营高级群体生活、成员间分工协作，共同完成群体各项工作的社会性昆虫。"
+  },
+  {
+   "cn": "群集度",
+   "en": "sociability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社交能力",
+   "en": "sociability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群集度",
+   "en": "sociability",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "集群性",
+   "en": "sociability\",\"gregariousness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可解性",
+   "en": "solvability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "细胞社会性",
+   "en": "cell sociality",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "真社群性",
+   "en": "eusocial",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社会寄生",
+   "en": "social parasitism\",\"social symbiosis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "亚社会性昆虫",
+   "en": "subsocial insect",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "真社会性昆虫",
+   "en": "eusocial insect",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "社会成本",
+   "en": "social cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会心理学",
+   "en": "social psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会接触",
+   "en": "social contact",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会建构主义",
+   "en": "social constructivism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会风险",
+   "en": "social risk",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会认可，社会赞许",
+   "en": "social approval",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会禁忌",
+   "en": "social taboo",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群而不党",
+   "en": "Be Sociable but Never Form a Clique",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交金融",
+   "en": "Social Finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交基金",
+   "en": "social fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交性投资者",
+   "en": "social investor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会技术",
+   "en": "social technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会救济",
+   "en": "social remedy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociability",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人作为群体活动的个体，或作为社会的一员活动时所表现出的有利于群体或社会合作与发展的基本属性，如利他性、服从性、依赖性、以及群体意识或更加高级的自觉性等。人共同生活和社会化的结果。与自然属性或生物（生理"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  },
+  {
+   "cn": "社会支持",
+   "en": "social support",
+   "source": "社会医学名词",
+   "wordNumber": "3.5",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "通过帮助或安慰他人，协助其应对生理、心理及社会压力的行为。支持来源于个人社会网络，包括家庭成员、朋友或支持团体等。支持形式包括实际帮助、物质援助及情感支持。"
+  },
+  {
+   "cn": "社会功能状态",
+   "en": "social wellbeing",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "反映个体参与基本和复杂人际互动的状态。包含社会交往和社会资源。"
+  },
+  {
+   "cn": "社会公正",
+   "en": "social justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0269999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "社会行为层面的公正。政府在分配社会资源时公而不偏，根据基本需求人人平等，非基本需求合理差等原则进行宏观卫生资源的分配。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0087",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个体认识到他属于特定的社会群体，同时也认识到作为群体成员带给他的情感和价值意义。"
+  },
+  {
+   "cn": "社会侵蚀",
+   "en": "social erosion",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.24",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国乡村在近代遭遇的农村经济破产和社会结构破坏的双重过程。费孝通在20世纪40年代提出，一方面城镇资本通过地租加重对乡村剥夺，另一方面农民遭遇金融竭蹶而抵押土地借高利贷，使乡村地权外流，由此失去生活保"
+  },
+  {
+   "cn": "社会约制",
+   "en": "social control",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.35",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "以积极或消极的方式使人团体化、社会化，不致于妨碍社会、逾越团体的方式。这一概念源于西方，最早由吴泽霖引入中国。社会约制的需要来自四种比较普遍的心理：保守心、好新心、求显心、社交心。约制的方法有两类：武"
+  },
+  {
+   "cn": "社会形态",
+   "en": "social formation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "一定历史发展阶段上以一定的生产关系为基础的经济基础和上层建筑的统一体。一定社会经济结构、政治结构和文化结构的具体的历史的统一。马克思主义特有的范畴。"
+  },
+  {
+   "cn": "社会形式",
+   "en": "social form",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "以一定的社会—文化价值取向为突出特征的社会样式。"
+  },
+  {
+   "cn": "社会存在",
+   "en": "social being",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "不以人的意识为转移的社会客观实在。与“社会意识”相对。"
+  },
+  {
+   "cn": "社会世界",
+   "en": "social world",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "广义指人类创造的一切事物的总和；狭义指个人参与或生活于其中，但又与之相对的人们有意义互动的范围。与“自然界”相对。"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "超越于个人并能从外部给予个人以约束的一切社会事物（社会文化环境、结构、关系等），或普遍存在于社会各处的富有意义和影响的社会现象，具有客观性、强制性和普遍性。由涂尔干提出。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relationship",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人们在社会交往中形成的以生产关系和权力关系为基础的各种相互联系和关系的总称。如血缘和亲缘关系、地缘关系、业缘关系等。"
+  },
+  {
+   "cn": "社会系统",
+   "en": "social system",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会相互联系的同类事物或（要素）按一定关系和规则有序组成的整合性的有机整体。"
+  },
+  {
+   "cn": "社会母体",
+   "en": "social matrix",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "孕育社会新生事物的社会基体或本原。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

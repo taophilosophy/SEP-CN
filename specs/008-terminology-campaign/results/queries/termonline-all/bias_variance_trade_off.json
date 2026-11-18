@@ -1,0 +1,812 @@
+{
+ "key": "bias-variance trade-off",
+ "term": "bias-variance trade-off",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:12:15+00:00",
+ "status": "ok",
+ "note": "variant=bias-variance trade-off; 审定公布名词库=10000; 海峡两岸名词对照库=8305; 其他来源数据库=1958; 预公布名词数据库=2789; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "偏差－方差困境",
+   "en": "bias-variance dilemma",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0339",
+   "subjectFullName": "计算机科学技术_人工智能_神经网络",
+   "subjectName": "神经网络",
+   "publishYear": "2018",
+   "definition": "偏差与方差构成了学习器误差的主要成分,偏差小的模型往往方差较大,而方差小的模型往往偏差较大，对模型选择形成两难。"
+  },
+  {
+   "cn": "权衡",
+   "en": "trade-off",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.203",
+   "subjectFullName": "自然辩证法_工程哲学_工程方法论",
+   "subjectName": "工程方法论",
+   "publishYear": "2024",
+   "definition": "对发生矛盾和冲突的诸要素或诸方面作适当调整、折衷或取舍以达成协调状态。"
+  },
+  {
+   "cn": "权衡",
+   "en": "trade-off",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1888",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "在多数反演问题中，模型空间的分辨率和解的方差是一对矛盾：分辨率高则方差大；反之，分辨率低则方差小，二者不可兼得。在分辨率与方差二者之间的综合考虑称为权衡。 "
+  },
+  {
+   "cn": "权衡",
+   "en": "trade off",
+   "source": "数学名词",
+   "wordNumber": "011.0265",
+   "subjectFullName": "数学_运筹学_多目标规划",
+   "subjectName": "多目标规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "经济权衡",
+   "en": "economic trade-off",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "针对过程中各个变量进行优化权衡，使过程系统更加经济合理。"
+  },
+  {
+   "cn": "进化权衡",
+   "en": "evolutionary trade off",
+   "source": "植物学名词",
+   "wordNumber": "13.0020",
+   "subjectFullName": "植物学_植物生态学_植物个体生态学",
+   "subjectName": "植物个体生态学",
+   "publishYear": "2019",
+   "definition": "可利用资源的有限性导致植物在长期进化过程中形成不同功能(性状)之间的负耦联。"
+  },
+  {
+   "cn": "权衡理论",
+   "en": "trade-off theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0559",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "认为企业最优资本结构就是在负债的税收利益和预期破产成本之间权衡的理论。"
+  },
+  {
+   "cn": "经济权衡",
+   "en": "economic trade-off",
+   "source": "生态学名词",
+   "wordNumber": "03.021",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "在两种行为对策或两种以上行为对策所获得的利益之间求得的平衡。如很多动物都要在取食和安全之间求得一种最佳平衡。"
+  },
+  {
+   "cn": "互补理论",
+   "en": "trade-off theory",
+   "source": "地理学名词",
+   "wordNumber": "19.142",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "城市人口迁居理论。住户迁居是在房租和交通费之间进行抉择。"
+  },
+  {
+   "cn": "权衡分析",
+   "en": "trade-off analysis",
+   "source": "自动化名词",
+   "wordNumber": "03.229",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "时间权衡法",
+   "en": "time trade-off,TTO",
+   "source": "药学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "一种基于偏好的健康状态效用测量方法。测定为了获取一个给定的完全健康的生存年数，人们愿意放弃多少某种不健康状态的生存时间。"
+  },
+  {
+   "cn": "速度–准确性权衡",
+   "en": "speed-accuracy trade-off",
+   "source": "运动医学名词",
+   "wordNumber": "02.174",
+   "subjectFullName": "运动医学_运动生理_运动技能学习和操作",
+   "subjectName": "运动技能学习和操作",
+   "publishYear": "2019",
+   "definition": "阐述运动距离和目标大小之间关系的定律，由菲茨(Fitts)于1954年提出。用公式表示为<img src='/root/syzx/static/spz/yundongyixue1.02.174.01."
+  },
+  {
+   "cn": "股份交易并购",
+   "en": "stock trade-off merger",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0253",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "并购发起公司以发行股票为支付工具，按约定比例换取目标公司的股份的一种并购方式。"
+  },
+  {
+   "cn": "速度-准确性权重",
+   "en": "time-accuracy trade-off",
+   "source": "心理学名词",
+   "wordNumber": "14.089",
+   "subjectFullName": "心理学_运动心理学",
+   "subjectName": "运动心理学",
+   "publishYear": "2014",
+   "definition": "根据任务要求，在执行动作时以速度优先或以准确性优先的倾向。"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1897",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "各个观测值与其平均值之差的平方和的平均值。 "
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "测绘学名词",
+   "wordNumber": "02.388",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "随机变量与其数学期望的偏离值平方的数学期望。用于描述随机变量与其数学期望的离散程度。"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "畜牧学名词",
+   "wordNumber": "04.638",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "总体或样本各变数间离差平方和的平均数。用于度量各变数间的变异程度。"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "冶金学名词",
+   "wordNumber": "04.0706",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "观测值与平均值偏差的平方和的极限，即标准差的平方。"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.135",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "总体中各变量值与其均数之差的平方的平均值。反映一组观察值的变异程度。同类资料比较时，方差越大，表明数据间离散程度或变异度越大。"
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "物理学名词",
+   "wordNumber": "01.0548",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "权衡",
+   "en": "trade-off",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进化权衡",
+   "en": "evolutionary trade off",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "互补理论",
+   "en": "trade-off theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "速度-准确性权衡",
+   "en": "speed accuracy trade off",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人机权衡",
+   "en": "man-machine trade-off",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "场外交易",
+   "en": "off-the-floor trading",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "方差,变异数",
+   "en": "variance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "变度",
+   "en": "variance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方差",
+   "en": "variance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏压",
+   "en": "bias",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "偏倚,偏向",
+   "en": "bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本底",
+   "en": "bias",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take off\",\"take-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take-off\",\"push-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "send off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜赛",
+   "en": "play-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平分决胜射",
+   "en": "shoot off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推",
+   "en": "push off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "踏跳",
+   "en": "take-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜赛",
+   "en": "play-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜赛",
+   "en": "play-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平分决胜赛",
+   "en": "play off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜赛",
+   "en": "play-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解缆",
+   "en": "cast off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进入复赛",
+   "en": "fence-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复赛",
+   "en": "jump off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "越位",
+   "en": "off-side\",\"off-side position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "劳动-闲暇替代",
+   "en": "labor-leisure trade-offs",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.3.1",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求模型",
+   "subjectName": "健康需求模型",
+   "publishYear": "2025",
+   "definition": "贝克尔（Gary Becker）的时间分配理论，后被应用在健康需求模型中。个体总闲暇时间可以被用于生产家庭物品或者被雇佣以获得收入。劳动时间增加就会减少闲暇时间，劳动和闲暇是一个替代关系。"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "从样本人群中获得的某变量的测量值系统地偏离了目标人群中该变量的真实值，导致研究结果或推论与真实情况之间出现的系统误差。"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.66",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "报告值与真实值之间的差异。样本的偏倚源于成员的遗漏，或未经适当加权的总体成员的不等概选择。"
+  },
+  {
+   "cn": "社会性别偏见",
+   "en": "gender bias",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0219",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们对男性、女性及具有其他社会性别属性认同者持有某些固定的成见。"
+  },
+  {
+   "cn": "报告偏倚",
+   "en": "reporting bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "在调查过程中研究对象对某些信息的故意夸大或缩小所导致的系统误差。"
+  },
+  {
+   "cn": "抽样偏倚",
+   "en": "sampling bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "当样本包含的不同类型的对象与他们在总体中的出现情况不相称时，所导致的偏倚。"
+  },
+  {
+   "cn": "回忆偏倚",
+   "en": "recall bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象对暴露史或既往史回忆的准确性和完整性存在差异而产生的系统误差。"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "选择偏倚",
+   "en": "selection bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象的选择不当，导致入选者与未选入者特征上存在差异，如缺乏代表性、暴露组与对照组可比性差等，而导致的研究结果偏离真实，从而产生的系统误差。"
+  },
+  {
+   "cn": "选择性偏误",
+   "en": "selection bias",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.156",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在研究过程中，因样本选择的非随机性而导致结论存在的偏差。"
+  },
+  {
+   "cn": "文化偏见",
+   "en": "cultural bias",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.11",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "对于一种文化，在缺乏充分事实根据的情况下，往往凭借有限或不正确的信息而做出的个体主观臆断。"
+  },
+  {
+   "cn": "性别偏见",
+   "en": "gender bias",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.8",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "基于对性别的偏狭理解所导致的关于不同性别及其关系的不公正看法，通常与性别文化中形成的关于不同性别的刻板印象有关。"
+  },
+  {
+   "cn": "归因偏误",
+   "en": "attribution bias",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "认知者在归因过程中因受到人类认知过程本身固有的局限的制约，或自身动机（如自我提升动机）的诱导，而系统地表现出来的偏误。常见的有基本归因错误（谬误）、行为者与观察者的归因偏误、利已主义归因偏误、低估一致"
+  },
+  {
+   "cn": "阶级偏见",
+   "en": "class bias",
+   "source": "马克思主义",
+   "wordNumber": "03.0096",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中不同阶级因其阶级地位和阶级利益所决定的、对其他阶级带有片面的歧见或敌视态度。"
+  },
+  {
+   "cn": "交易",
+   "en": "trade",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.23",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "交换具有人文价值和使用价值的事与物，与基于公平原则进行的商品交换相比较，多了一层以社会资本或文化资本为媒介的交换，不一定是等价物的交换，但其交换的意义却相通。"
+  },
+  {
+   "cn": "交易",
+   "en": "trade",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种双边交换行为。通常有两种交换类型：（1）通过某种货币为媒介，买卖行为是关键因素。（2）物物交换，即两种物品或服务之间不通过任何媒介或货币进行的交换。"
+  },
+  {
+   "cn": "时间权衡法",
+   "en": "time trade-off method,TTO method",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种测量效用的方法，测定受访者认为在完全健康状态下生活多长时间，与在疾病状态下生活一年对其是无差异的，来反映疾病状态的效用。"
+  },
+  {
+   "cn": "伯克森偏倚",
+   "en": "Berkson's bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "当以医院患者作为研究对象进行研究时，由于各种疾病入院率不同导致病例组与对照组的某些特征与源人群中的特征存在差异，从而产生的系统误差。"
+  },
+  {
+   "cn": "奈曼偏倚",
+   "en": "Neyman's bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "在进行现况调查或病例对照研究时，选择的病例一般是研究时的现患病例或存活病例，而不包括死亡病例和病程短、轻型或不典型病例，致使研究因素与疾病的关联被错误估计，从而产生的系统误差。"
+  },
+  {
+   "cn": "偏差因子",
+   "en": "bias factor, Bf",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.110",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "来判断预测值在等值线的上方还是下方以及评价预测值偏离等值线程度的数值。一般作为判断预测模型偏差度的参数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

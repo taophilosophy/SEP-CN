@@ -1,0 +1,732 @@
+{
+ "key": "surplus repression",
+ "term": "surplus repression",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:59:28+00:00",
+ "status": "ok",
+ "note": "variant=surplus repression; 审定公布名词库=739; 海峡两岸名词对照库=319; 其他来源数据库=28; 预公布名词数据库=50; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "过剩",
+   "en": "surplus",
+   "source": "经济学名词",
+   "wordNumber": "04.147",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "经济中的商品或货币供应过多，超过需求。"
+  },
+  {
+   "cn": "消费者剩余",
+   "en": "consumer surplus",
+   "source": "农学名词",
+   "wordNumber": "19.038",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "消费者购买某种商品时，愿意支付的价格与实际支付价格之间的差额。"
+  },
+  {
+   "cn": "贸易顺差",
+   "en": "trade surplus",
+   "source": "农学名词",
+   "wordNumber": "19.150",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "一个国家或地区在一定时期内的出口额大于进口额的现象。"
+  },
+  {
+   "cn": "衍文",
+   "en": "surplus words",
+   "source": "档案学名词",
+   "wordNumber": "04.03.089",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献因刊刻、传抄等而误增的字句。"
+  },
+  {
+   "cn": "剩余变量",
+   "en": "surplus variable",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.136",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "单纯形法中，将不等式约束转化为等价的等式约束，其中，变量y称为剩余变量。"
+  },
+  {
+   "cn": "剩余劳动",
+   "en": "surplus labor",
+   "source": "经济学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "超过维持劳动力生产和再生产需要的劳动。在私有制社会中即为剥削者所占有的劳动。"
+  },
+  {
+   "cn": "剩余价值",
+   "en": "surplus value",
+   "source": "经济学名词",
+   "wordNumber": "02.069",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "在资本主义生产过程中，雇佣工人所创造的被资本家无偿占有的超过劳动力价值的那部分价值。榨取剩余价值是资本主义生产的根本目的，它体现了资本家剥削雇佣工人的关系。"
+  },
+  {
+   "cn": "市场剩余",
+   "en": "market surplus",
+   "source": "经济学名词",
+   "wordNumber": "03.035",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "某种商品或服务的供给量超过现有需求量的情况。只有当价格不能调整至出清市场的条件下，如政府制定了最低限价（高于均衡价格），才会发生剩余。当剩余发生时，政府必须按法定价格购买剩余产品并设法处理剩余。"
+  },
+  {
+   "cn": "消费者剩余",
+   "en": "consumer surplus",
+   "source": "经济学名词",
+   "wordNumber": "03.126",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "消费者为取得某种商品所愿意支付的价格与该消费者取得该种商品实际支付的价格之间的差额。消费者剩余产生的原因在于：商品的价格是由全体消费者消费最后一单位物品所获得的边际效用决定的，因此，由于边际效用递减规"
+  },
+  {
+   "cn": "生产者剩余",
+   "en": "producer surplus",
+   "source": "经济学名词",
+   "wordNumber": "03.127",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "生产者在商品生产和销售过程中获得的净利益，等于生产者销售出的每一单位商品的市场价格与其边际成本之间的差额的加总。"
+  },
+  {
+   "cn": "预算盈余",
+   "en": "budget surplus",
+   "source": "经济学名词",
+   "wordNumber": "04.020",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "政府收入超过支出的部分；与预算赤字相对应。"
+  },
+  {
+   "cn": "流动性过剩",
+   "en": "liquidity surplus",
+   "source": "经济学名词",
+   "wordNumber": "04.080",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "中央银行发行过量基础货币、外汇储备增加或商业银行投放贷款过多导致的 M1 过多的现象，它通常会导致通货膨胀或者股票、房地产等虚拟资产大幅升值。"
+  },
+  {
+   "cn": "阻塞盈余",
+   "en": "congestion surplus",
+   "source": "电力名词",
+   "wordNumber": "06.295",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "由于输电阻塞引起的交易盈余。"
+  },
+  {
+   "cn": "盈余公积",
+   "en": "surplus reserve",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0188",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业按照规定从税后利润中提取的用于企业进行积累的资金。"
+  },
+  {
+   "cn": "员工过剩",
+   "en": "employee surplus",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0341",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源战略与规划",
+   "subjectName": "人力资源战略与规划",
+   "publishYear": "2016",
+   "definition": "组织中员工数供大于求而出现部分员工闲置的状态。"
+  },
+  {
+   "cn": "过剩功能",
+   "en": "surplus function",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0713",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "价值工程对象具有的超量满足使用者需求的必要功能。"
+  },
+  {
+   "cn": "消费者剩余",
+   "en": "consumer surplus",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0173",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "消费者在消费一定数量的资源品时愿意支付的最高价格与实际支付的价格之差。"
+  },
+  {
+   "cn": "消费者剩余",
+   "en": "consumer surplus",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.064",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "消费者在消费一定数量的资源品时愿意支付的最高价格与实际支付的价格之差。"
+  },
+  {
+   "cn": "余能",
+   "en": "surplus energy",
+   "source": "资源科学技术名词",
+   "wordNumber": "18.184",
+   "subjectFullName": "资源科学技术_能源资源学",
+   "subjectName": "能源资源学",
+   "publishYear": "2008",
+   "definition": "某一热工艺系统排出的未被利用的能量。即生产过程中可回收利用的损失能量。余能可以分为余热和余压两类。"
+  },
+  {
+   "cn": "剩余劳动",
+   "en": "surplus labor",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.125",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "与“必要劳动”相对应，指劳动者超出必要劳动范围所进行的劳动，亦即生产剩余产品所消耗的劳动。"
+  },
+  {
+   "cn": "岁余",
+   "en": "year surplus",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "剩余生产量",
+   "en": "surplus production",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "出口盈余",
+   "en": "export surplus",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大量盈余",
+   "en": "massive surplus",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际收支盈余",
+   "en": "payments surplus",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易盈余",
+   "en": "trade surplus",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "入超",
+   "en": "import surplus",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "顺差国家",
+   "en": "surplus country",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "重新估价盈余",
+   "en": "reappraisal surplus",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "资本盈余",
+   "en": "capital surplus",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "多余因数",
+   "en": "surplus factor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "剩余功率",
+   "en": "surplus power",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "压抑",
+   "en": "repression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "复压",
+   "en": "repressing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "卖主盈余",
+   "en": "seller’s surplus",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "剩余生产量模型",
+   "en": "surplus prodution model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对外贸易顺差",
+   "en": "foreign trade surplus",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "剩余价值",
+   "en": "surplus value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消费者剩余",
+   "en": "consumer surplus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知盈余",
+   "en": "cognitive surplus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享盈余",
+   "en": "surplus of sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作剩余分配",
+   "en": "distribution of cooperative surplus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回归树",
+   "en": "regression tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "踏板足印",
+   "en": "impression\",\"mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总印象",
+   "en": "general impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艺术印象分",
+   "en": "artistic impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行逻辑回归",
+   "en": "parallel logistic regression",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "剩余价值",
+   "en": "surplus value",
+   "source": "马克思主义",
+   "wordNumber": "02.0110",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由工人劳动创造的超过劳动力价值的价值。私有资本带来私人剩余价值，体现资本家剥削工人的关系，反映资本主义基本经济规律。公有资本带来公有剩余价值，体现归部分或全体劳动者所有的关系。剩余价值学说是马克思经济"
+  },
+  {
+   "cn": "剩余劳动",
+   "en": "surplus labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0115",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“必要劳动”相对应。在劳动者的全部劳动中扣除为实现劳动力的生产和再生产所必需的劳动以外的剩余部分。是生产剩余产品所消耗的劳动。在私有制社会中，剩余劳动为剥削阶级所占有，体现剥削与被剥削关系。"
+  },
+  {
+   "cn": "剩余产品",
+   "en": "surplus product",
+   "source": "马克思主义",
+   "wordNumber": "02.0119",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "超过维持劳动力生产和再生产需要，由劳动者的剩余劳动所创造的那部分产品。剩余产品的出现是人类社会劳动生产力发展的结果，从而为私有制和剥削的产生提供了条件。"
+  },
+  {
+   "cn": "经济剩余",
+   "en": "economic surplus",
+   "source": "马克思主义",
+   "wordNumber": "05.0128",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "巴兰（P.A.Baran）1957年的《增长的政治经济学》书中首次提出，其中包括计划的剩余、实际的剩余和潜在的剩余三个不同的概念。之后，巴兰和斯威齐还证明了，在经济剩余不断增长的同时，垄断资本主义制度"
+  },
+  {
+   "cn": "生产者剩余",
+   "en": "producer surplus",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "生产者在商品生产和销售过程中获得的净利益，等于生产者销售出的每一单位商品的市场价格与其边际成本之间的差额的加总。"
+  },
+  {
+   "cn": "剩余劳动时间",
+   "en": "surplus labor time",
+   "source": "马克思主义",
+   "wordNumber": "02.0116",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者超出必要劳动时间而延长的劳动时间。剩余劳动时间生产出剩余价值。必要劳动时间和剩余劳动时间之和构成劳动者的工作日。"
+  },
+  {
+   "cn": "绝对剩余价值",
+   "en": "absolute surplus value",
+   "source": "马克思主义",
+   "wordNumber": "02.0122",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为了获取剩余价值，就必须把工人的工作日延长到必要劳动时间以外。在必要劳动时间已定的前提下，工作日越延长，剩余劳动时间就越长，获取的剩余价值就越多。这种在必要劳动时间已定的前提下，用延长工作日绝对长度的"
+  },
+  {
+   "cn": "相对剩余价值",
+   "en": "relative surplus value",
+   "source": "马克思主义",
+   "wordNumber": "02.0123",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在工作日长度不变的条件下，要获取更多的剩余价值就只能通过缩短必要劳动时间，从而相应延长剩余劳动时间的办法来实现。这种通过缩短必要劳动时间，相应地延长剩余劳动时间而生产的剩余价值，叫做相对剩余价值。"
+  },
+  {
+   "cn": "超额剩余价值",
+   "en": "excess surplus value",
+   "source": "马克思主义",
+   "wordNumber": "02.0128",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "个别企业由于商品的个别价值低于社会价值而获得的剩余价值。这部分超额剩余价值也是由工人的劳动创造的，是缩短必要劳动时间、相应延长剩余劳动时间的结果。"
+  },
+  {
+   "cn": "相对过剩人口",
+   "en": "relative surplus population",
+   "source": "马克思主义",
+   "wordNumber": "02.0167",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义社会中相对于资本增值需要而过剩的处于失业、半失业状态的人口。劳动力的供给超过资本对它的需要的相对过剩人口有三种形式：流动过剩人口指短期内失业的工人，主要存在于城市和工业中心；潜在过剩人口指农业"
+  },
+  {
+   "cn": "余粮收集制",
+   "en": "surplus appropriation system",
+   "source": "马克思主义",
+   "wordNumber": "03.0299",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏俄在外国武装干涉和国内战争时期实行的征集粮食办法，继承自临时政府时期的政策。为了保证前线军队和后方工人的供应，1918年苏维埃政权开始实行粮食垄断、禁止私人买卖和征收军粮等措施。征集的范围，开始主要"
+  },
+  {
+   "cn": "单个生产者剩余",
+   "en": "individual producer surplus",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "个体生产者在商品生产和销售过程中获得的净利益，等于个体生产者销售出的每一单位商品的市场价格与其边际成本之间的差额的加总。"
+  },
+  {
+   "cn": "总生产者剩余",
+   "en": "total producer surplus",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "全部生产者在商品生产和销售过程中获得的净利益，等于全部生产者销售出的每一单位商品的市场价格与其边际成本之间的差额的加总。"
+  },
+  {
+   "cn": "压制性法律",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.1",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "制裁方式是惩罚性的法律。其目的是要损害当事人的财产、名誉、生命和自由，或者剥夺当事人所享用的某些事物，如刑法。"
+  },
+  {
+   "cn": "压制型法",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.8",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "反映居支配地位的道德，以维护权威为首要目的，法律机构容易直接受到政治权力影响的一种法律。P.诺内特和P.塞尔兹尼克将社会中的法律现象分为三种类型，即压制型法、自治型法和回应型法。"
+  },
+  {
+   "cn": "剩余价值论",
+   "en": "theory of surplus value",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "在资本主义生产过程中，劳动者所创造的超过维持自身及家庭所需生活资料的那部分劳动的价值。体现了资本增值的来源以及资本主义剥削关系的本质。马克思在《资本论》中提出。"
+  },
+  {
+   "cn": "剩余价值规律",
+   "en": "law of surplus value",
+   "source": "马克思主义",
+   "wordNumber": "02.0109",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义的基本经济规律,表明资本主义生产的目的是生产和占有剩余价值，实现资本价值的增殖。而剩余价值则是由工人劳动创造的超过劳动力价值的价值。资本家通过绝对或相对地延长工人的剩余劳动时间，提高劳动的强度"
+  },
+  {
+   "cn": "剩余价值量",
+   "en": "magnitude of surplus value",
+   "source": "马克思主义",
+   "wordNumber": "02.0117",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工人的剩余劳动所创造的剩余价值的数量，它等于预付的可变资本量乘以剩余价值率，或者说，等于一个劳动力的价值乘以该劳动力受剥削的程度，再乘以同时使用的劳动力总数。剩余价值量取决于两个因素：即剩余价值率和同"
+  },
+  {
+   "cn": "剩余价值率",
+   "en": "rate of surplus value",
+   "source": "马克思主义",
+   "wordNumber": "02.0118",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "剩余价值同可变资本的比率，通常以m'表示，公式为m'=m/v。由于可变资本的价值是在必要劳动时间内由必要劳动再生产出来的，剩余价值是在剩余劳动时间内由剩余劳动创造出来的，所以剩余价值率也可以用剩余劳动"
+  },
+  {
+   "cn": "剩余增长规律",
+   "en": "law of surplus growth",
+   "source": "马克思主义",
+   "wordNumber": "05.0127",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "1970年美国马克思主义经济学家巴兰（P.A.Baran）和20世纪美国最为著名的马克思主义经济学家斯威齐（P.M.Sweezy）在《垄断资本》一书中提出。他们认为，在垄断资本主义运动趋势中起作用的不"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

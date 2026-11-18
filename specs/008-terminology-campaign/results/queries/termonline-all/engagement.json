@@ -1,0 +1,472 @@
+{
+ "key": "engagement",
+ "term": "engagement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:27:50+00:00",
+ "status": "ok",
+ "note": "variant=engagement; 审定公布名词库=88; 海峡两岸名词对照库=17; 其他来源数据库=6; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "啮合",
+   "en": "engagement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0142",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "一对齿轮的齿依次交替地接触，从而实现一定规律的相对运动的过程和形态。"
+  },
+  {
+   "cn": "衔接",
+   "en": "engagement",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.115",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "业务约定书",
+   "en": "engagement letter",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0390",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "会计师事务所与被审计单位签订的，用以记录和确认审计业务的委托与受托关系、审计目标和范围、双方的责任以及报告的格式等事项的书面协议。"
+  },
+  {
+   "cn": "正常啮合",
+   "en": "normal engagement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0418",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_谐波齿轮传动",
+   "subjectName": "谐波齿轮传动",
+   "publishYear": "2021",
+   "definition": "柔轮齿与刚轮齿的接触点位于齿廓工作段之内。"
+  },
+  {
+   "cn": "鉴证业务",
+   "en": "assurance engagement",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0430",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师对鉴证对象信息做出结论，以增强除责任方之外的预期使用者对鉴证对象信息信任程度的业务。"
+  },
+  {
+   "cn": "邦咯条约",
+   "en": "Pangkor Engagement",
+   "source": "世界历史名词",
+   "wordNumber": "04.0341",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "1874年1月，英国殖民者迫使马来半岛霹雳王室在邦咯岛签订的条约，使霹雳成为英国的被保护邦。"
+  },
+  {
+   "cn": "接合机构",
+   "en": "engaging mechanism",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0337",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器主要零部件",
+   "subjectName": "离合器主要零部件",
+   "publishYear": "2021",
+   "definition": "具有使接合元件产生接合动作的部件。"
+  },
+  {
+   "cn": "接合元件",
+   "en": "engaging element",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0339",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器主要零部件",
+   "subjectName": "离合器主要零部件",
+   "publishYear": "2021",
+   "definition": "能实现主、从动部分离合功能的嵌合副或摩擦副。"
+  },
+  {
+   "cn": "接合过程",
+   "en": "engaging process",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0379",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器性能参数",
+   "subjectName": "离合器性能参数",
+   "publishYear": "2021",
+   "definition": "操纵离合器后，使从动部分随主动部分运转直至同步的过程。"
+  },
+  {
+   "cn": "接合时间",
+   "en": "engaging time",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0382",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器性能参数",
+   "subjectName": "离合器性能参数",
+   "publishYear": "2021",
+   "definition": "接合过程所需要的时间。"
+  },
+  {
+   "cn": "接合频率",
+   "en": "engaging frequency",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0385",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器性能参数",
+   "subjectName": "离合器性能参数",
+   "publishYear": "2021",
+   "definition": "离合器单位时间内的接合次数。"
+  },
+  {
+   "cn": "注意锁定",
+   "en": "engaging attention",
+   "source": "生理学名词",
+   "wordNumber": "03.753",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "换档元件",
+   "en": "engaging element",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.126",
+   "subjectFullName": "机械工程_汽车_底盘_自动传动系统",
+   "subjectName": "自动传动系统",
+   "publishYear": "2013",
+   "definition": "在换档过程中，以分离或接合来实现换档的元件。如离合器、制动器等。"
+  },
+  {
+   "cn": "啮合力",
+   "en": "engaging force",
+   "source": "电子学名词",
+   "wordNumber": "08.023",
+   "subjectFullName": "电子学_机电元及其他电子元件",
+   "subjectName": "机电元及其他电子元件",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "胎头入盆",
+   "en": "engagement of head",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.064",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "顶缘啮合",
+   "en": "tip edge engagement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0419",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_谐波齿轮传动",
+   "subjectName": "谐波齿轮传动",
+   "publishYear": "2021",
+   "definition": "柔轮齿顶边缘与刚轮齿廓，或刚轮齿顶边缘与柔轮齿廓相接触的啮合。"
+  },
+  {
+   "cn": "螺纹旋合长度",
+   "en": "thread engagement length",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0292",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "两个相互配合的螺纹沿着螺纹轴向方向相互旋合部分的长度。"
+  },
+  {
+   "cn": "电啮合长度",
+   "en": "electrical engagement length",
+   "source": "电子学名词",
+   "wordNumber": "08.028",
+   "subjectFullName": "电子学_机电元及其他电子元件",
+   "subjectName": "机电元及其他电子元件",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "常闭制动器",
+   "en": "normally engaged brake",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0403",
+   "subjectFullName": "机械工程（一）_机械零件_制动器_各种制动器",
+   "subjectName": "各种制动器",
+   "publishYear": "2021",
+   "definition": "驱动部件停止工作时具有制动功能的制动器。"
+  },
+  {
+   "cn": "啮入",
+   "en": "approach,engaging in",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0411",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_谐波齿轮传动",
+   "subjectName": "谐波齿轮传动",
+   "publishYear": "2021",
+   "definition": "柔轮齿从开始进入啮合到柔轮齿达到最大啮入深度为止的过程。"
+  },
+  {
+   "cn": "解约",
+   "en": "break of engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "没有约定的发盘",
+   "en": "offer without engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有约束力发盘",
+   "en": "offer with engagement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电啮合长度",
+   "en": "electrical engagement length",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "从事捕鱼的船舶",
+   "en": "vessel engaged in fishing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "离合机构",
+   "en": "engaging and disengaging gear",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "触点插拔力",
+   "en": "contact engaging and separating force",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "清除水雷船",
+   "en": "vessel engaged in mineclearance operation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "针修法",
+   "en": "degagement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "套装论",
+   "en": "encasement theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "扩大损失",
+   "en": "enlargement loss",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "粒度增大",
+   "en": "size enlargement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工作扩大化",
+   "en": "job enlargement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "套装论",
+   "en": "encasement theory",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "颈膨大",
+   "en": "cervical enlargement\",\"cervical intumescence",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腰骶膨大",
+   "en": "lumbosacral enlargement\",\"lumbosacral intumescence",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "扩环[反应]",
+   "en": "ring expansion\",\"ring enlargement",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "重复交锋",
+   "en": "double engagement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多次转移",
+   "en": "change of engagement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交锋",
+   "en": "engage\",\"fence\",\"bind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不争",
+   "en": "Not Engaging in Contention",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "先胜后战",
+   "en": "Be Sure of Winning Before Engaging in War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不战在我",
+   "en": "<div> Do not Engage the Enemy If Victory Is Not Guaranteed.</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "接案",
+   "en": "engagement，contract",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者与潜在的服务对象开始接触、了解其需求、帮助其逐渐成为服务对象并接受服务的过程，是社会工作助人活动的开端。"
+  },
+  {
+   "cn": "性行为前饮酒或滥用药物",
+   "en": "engaging in sexual activity under the influence of alcohol or drugs",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "在饮酒或滥用药物状态下发生的性行为（常有失安全考虑）。"
+  },
+  {
+   "cn": "腮腺肿大",
+   "en": "parotid gland enlargement",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.3.1.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_干燥综合征_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "腮腺肿胀的表现，可伴有疼痛，可由感染、肿瘤、结缔组织病等因素引起，成年后腮腺肿大常与干燥综合征相关。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

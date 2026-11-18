@@ -1,0 +1,532 @@
+{
+ "key": "persistence",
+ "term": "persistence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:17:15+00:00",
+ "status": "ok",
+ "note": "variant=persistence; 审定公布名词库=128; 海峡两岸名词对照库=31; 其他来源数据库=2; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "持久性",
+   "en": "persistence ",
+   "source": "草学名词",
+   "wordNumber": "2.0026",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "动物学名词",
+   "wordNumber": "7.0582",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统在一定边界范围内，保持恒定或维持某一特定状态的持续时间。"
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "植物学名词",
+   "wordNumber": "13.0559",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统在一定边界范围内，保持恒定或维持某一特定状态的持续时间。"
+  },
+  {
+   "cn": "持续性",
+   "en": "persistence",
+   "source": "大气科学名词",
+   "wordNumber": "06.365",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "气象要素的距平或异常维持不变的现象。"
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "生态学名词",
+   "wordNumber": "07.313",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统在一定边界范围内，保持恒定或维持某一特定状态的持续时间。"
+  },
+  {
+   "cn": "余辉",
+   "en": "persistence,after glow",
+   "source": "电子学名词",
+   "wordNumber": "10.282",
+   "subjectFullName": "电子学_真空电子学",
+   "subjectName": "真空电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "宿存",
+   "en": "persistent",
+   "source": "风景园林名词",
+   "wordNumber": "08.0281",
+   "subjectFullName": "风景园林_风景园林工程_风景园林养护",
+   "subjectName": "风景园林养护",
+   "publishYear": "2025",
+   "definition": "通常指常绿树叶片（针叶）在枝条上存留的时间。"
+  },
+  {
+   "cn": "[原丝体]宿存",
+   "en": "persistent",
+   "source": "植物学名词",
+   "wordNumber": "07.0009",
+   "subjectFullName": "植物学_苔藓植物学",
+   "subjectName": "苔藓植物学",
+   "publishYear": "2019",
+   "definition": "少数苔藓植物原丝体在长出茎和叶后仍继续存活的现象。如苞叶小金发藓。"
+  },
+  {
+   "cn": "相关长度",
+   "en": "persistence length",
+   "source": "化学名词",
+   "wordNumber": "05.0719",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "链长固定时，末端矢量在一端对链轮廓切线上投影的平均值。"
+  },
+  {
+   "cn": "持续性预报",
+   "en": "persistence forecast",
+   "source": "大气科学名词",
+   "wordNumber": "06.362",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "根据现有天气状况持续的趋势所作的预报。"
+  },
+  {
+   "cn": "持续性趋势",
+   "en": "persistence tendency",
+   "source": "大气科学名词",
+   "wordNumber": "06.366",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "当前天气状况持续的(有限)趋势。它可以用按出现的时间顺序排列的大多数气象要素的相继值之间的正相关关系来表示。"
+  },
+  {
+   "cn": "盈余持续性",
+   "en": "earnings persistence",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0252",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "当前盈余在未来将持续或增长的可能性。"
+  },
+  {
+   "cn": "细菌持续存在",
+   "en": "bacterial persistence",
+   "source": "泌尿外科学名词",
+   "wordNumber": "04.017",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统感染与炎症",
+   "subjectName": "泌尿、男性生殖系统感染与炎症",
+   "publishYear": "2014",
+   "definition": "感染已进入恢复期，感染的主要症状已消失，但在短时间内相同病原体在泌尿系统再度繁殖而使感染症状再度出现的状态。"
+  },
+  {
+   "cn": "气候持续性",
+   "en": "climatic persistence",
+   "source": "大气科学名词",
+   "wordNumber": "07.215",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "某种气候状况连续出现的统计特性。"
+  },
+  {
+   "cn": "种群持续性",
+   "en": "population persistence",
+   "source": "生态学名词",
+   "wordNumber": "05.141",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "种群长期生存能力。"
+  },
+  {
+   "cn": "持久性农药",
+   "en": "persistent pesticide",
+   "source": "精细化工名词",
+   "wordNumber": "03.0015",
+   "subjectFullName": "精细化工_农药_通用",
+   "subjectName": "通用",
+   "publishYear": "2025",
+   "definition": "在自然界降解速率非常缓慢，能够在环境中长久留存的一类农药。"
+  },
+  {
+   "cn": "持久强度",
+   "en": "persistent strength",
+   "source": "精细化工名词",
+   "wordNumber": "07.0149",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "在一定条件下，在规定时间内，单位胶接面所能承受的最大静载荷。"
+  },
+  {
+   "cn": "持续性葡萄胎",
+   "en": "persistent mole",
+   "source": "妇产科学名词",
+   "wordNumber": "4.257",
+   "subjectFullName": "妇科肿瘤或瘤样病变_滋养细胞疾病",
+   "subjectName": "滋养细胞疾病",
+   "publishYear": "2025",
+   "definition": "葡萄胎完全排空后3个月，人绒毛膜促性腺激素持续阳性，未降至正常范围的一种疾病状态。"
+  },
+  {
+   "cn": "持久性病毒",
+   "en": "persistent virus",
+   "source": "农学名词",
+   "wordNumber": "10.036",
+   "subjectFullName": "植物保护_作物病害",
+   "subjectName": "作物病害",
+   "publishYear": "2025",
+   "definition": "在介体昆虫体内循回的病毒。介体昆虫从病株上获取病毒所需的取食时间较长，从数分钟到数小时，昆虫获毒后病毒随汁液进入到昆虫的肠道，并穿越肠壁进入血淋巴，最后循回到唾液腺，随唾液再进入寄主植物体内。"
+  },
+  {
+   "cn": "持续期",
+   "en": "persistent period",
+   "source": "麻醉学名词",
+   "wordNumber": "02.019",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "药物维持有效浓度的时间。其长短与药物的吸收及消除速率有关。"
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续性",
+   "en": "persistence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续性",
+   "en": "persistence",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "[原丝体]宿存",
+   "en": "persistent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续性趋势",
+   "en": "persistence tendency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续性预报",
+   "en": "persistence forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候持续性",
+   "en": "climatic persistency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泄殖腔存留",
+   "en": "persistent cloaca",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "宿存萼",
+   "en": "persistent sepal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宿存鞘",
+   "en": "persistent sheath",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宿存助细胞",
+   "en": "persistent synergid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "长效剂",
+   "en": "persistent agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "持续自由基",
+   "en": "persistent radical",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最后线",
+   "en": "persistent line",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "持续性感染",
+   "en": "persistent infection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "持续性锁定",
+   "en": "persistent lock",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "余辉",
+   "en": "persistence\",\"after glow",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动脉干永存",
+   "en": "persistent truncus arteriosus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "高级可持续性攻击",
+   "en": "advanced persistent threat (APT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "持久存储技术标准",
+   "en": "technical standard for persistent storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乳糖酶持久性",
+   "en": "lactase persistence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "大多数哺乳动物乳糖酶的活性在断奶后急剧下降。部分人群可维持乳糖酶活性到成年期，使人体可消化乳制品中的乳糖。"
+  },
+  {
+   "cn": "持续性枕横位",
+   "en": "persistent occipitotransverse position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆侧方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性枕后位",
+   "en": "persistent occipitoposterior position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆后方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性植物状态",
+   "en": "persistent vegetative state",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.0120000000000005",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "各种原因导致大脑皮质功能丧失但脑干功能相对完好，持续超过1 个月以上处于皮层下的生存状态。表现为缺乏意识活动，语言丧失，保留无意识的姿态调整和运动功能。"
+  },
+  {
+   "cn": "持久性毒剂",
+   "en": "persistent chemical agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "有效杀伤时间维持12 小时以上的毒剂（或者可造成染毒维持24 小时），多为沸点高、不易挥发的液体和以微粉状施放的固体毒剂。"
+  },
+  {
+   "cn": "乳糖酶非持久性",
+   "en": "lactase non-persistence, LNP",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "一种常染色体隐性性状，导致肠道黏膜乳糖酶活性下调和乳糖消化不良。"
+  },
+  {
+   "cn": "持久性有机污染物",
+   "en": "persistent organic pollutants, POPs",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.3.23",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "能持久存在于环境中，并可借助大气、水、生物体等环境介质进行远距离迁移，通过食物链富集，对环境和人类健康造成严重危害的天然或人工合成的有机污染物质。"
+  },
+  {
+   "cn": "半持久性毒剂",
+   "en": "semi-persistent chemical agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.4",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "有效杀伤时间介于1-12 小时之间，在释放后往往以蒸气、气溶胶和毒剂液滴等多种状态存在的毒剂。"
+  },
+  {
+   "cn": "儿童持续性抑郁障碍",
+   "en": "persistent depressive disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "一种常见的抑郁障碍。至少在2年的多数日子里，一天中的多数时间出现抑郁心境，既可以是主观体验也可以是他人观察到的，儿童、青少年可以表现为易激惹，且持续至少1年。"
+  },
+  {
+   "cn": "发声抽动障碍",
+   "en": "persistent motor or vocal tic disorder, PMVT",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "简单性或复杂性的运动抽动或发声抽动，且两种抽动一般不同时存在，病程至少持续一年以上。抽动形式可是简单性的，也可是复杂性的；抽动可单一部位，也可多部位。一般以面肌、眼肌抽动最常见，慢性发声抽动也较常见。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

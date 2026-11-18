@@ -1,0 +1,52 @@
+{
+ "key": "presuppositions",
+ "term": "presuppositions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:29:42+00:00",
+ "status": "ok",
+ "note": "variant=presuppositions; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "预设",
+   "en": "presupposition",
+   "source": "语言学名词",
+   "wordNumber": "01.157",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "语义学和语用学术语。①指说话人说某一句子时持有的前提。②与“焦点”相对。指句子中说话人已经设定的信息，也是旧信息。例如，说“张三没有打老婆”时，预设“张三有老婆”。"
+  },
+  {
+   "cn": "预设",
+   "en": "presupposition",
+   "source": "语言学名词",
+   "wordNumber": "01.157",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "①在语义学和语用学中，指某种情况成立所必须满足的条件，也指说话人在说某句话时所持有的假设。这时与所作出的判断相对。②指两个陈述之间的某种逻辑关系。这时与蕴涵相对。"
+  },
+  {
+   "cn": "预设主义",
+   "en": "presuppositionism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.140",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "认为在寻求知识的过程中有某些假定，它们不会被我们可能获得的新知识所修正或摒弃。"
+  },
+  {
+   "cn": "预设主义",
+   "en": "presuppositionism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.140",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为在寻求知识的过程中有某些假定，它们不会被我们可能获得的新知识所修正或摒弃。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

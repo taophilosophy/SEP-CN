@@ -1,0 +1,682 @@
+{
+ "key": "hardy-weinberg proportions",
+ "term": "Hardy-Weinberg proportions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:24:35+00:00",
+ "status": "ok",
+ "note": "variant=Hardy-Weinberg proportions; 审定公布名词库=417; 海峡两岸名词对照库=147; 其他来源数据库=12; 预公布名词数据库=45; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "哈迪-温伯格定律",
+   "en": "Hardy-Weinberg law",
+   "source": "行为医学名词",
+   "wordNumber": "3.295",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "在一个没有突变、选择和迁移的遗传漂变无限大的随机交配群体中，一对等位基因在常染色体上遗传时，无论群体起始基因频率如何，只要经过一代的随机交配，群体的基因型频率和基因频率即达到平衡状态。1908年由哈迪"
+  },
+  {
+   "cn": "哈迪-温伯格定律",
+   "en": "Hardy-Weinberg law",
+   "source": "动物学名词",
+   "wordNumber": "2.0284",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "1908年哈迪（G. H. Hardy）和温伯格（W. Weinberg）各自发现的这一定律。即对于无限大的随机交配种群，如果没有突变、选择和迁移等进化因子的干扰，随机交配一代以后，种群中等位基因频率"
+  },
+  {
+   "cn": "哈迪-温伯格平衡",
+   "en": "Hardy-Weinberg equilibrium",
+   "source": "畜牧学名词",
+   "wordNumber": "04.298",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "群体遗传学基本法则，基于一个没有突变、迁移和选择等因素影响的无限大随机交配群体中，在一个常染色体基因座上，无论群体起始基因频率如何，只要经过一代的随机交配，群体的基因型频率和基因频率将一代一代保持不变"
+  },
+  {
+   "cn": "哈迪-温伯格定律",
+   "en": "Hardy-Weinberg law",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0523",
+   "subjectFullName": "食品科学技术_食品营养_营养遗传学和营养基因组学",
+   "subjectName": "营养遗传学和营养基因组学",
+   "publishYear": "2020",
+   "definition": "在一个无限大的群体里，在没有迁入、迁出、突变和自然选择时，若个体间随机交配，该群体中基因和基因型频率将在未来世代中保持不变。"
+  },
+  {
+   "cn": "哈迪–温伯格定律",
+   "en": "Hardy-Weinberg law",
+   "source": "植物学名词",
+   "wordNumber": "02.0316",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "1908年哈迪(G. H. Hardy)和温伯格(W. Weinberg)各自发现的这一定律。即对于无限大的随机交配种群，如果没有突变、选择和迁移等进化因子的干扰，随机交配一代以后，种群中等位基因频率"
+  },
+  {
+   "cn": "哈迪-温伯格平衡",
+   "en": "Hardy-Weinberg equilibrium",
+   "source": "遗传学名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "哈迪(G. H. Hardy)和温伯格(W. Weinberg)于1908年提出的。在一个没有突变、选择和迁移的遗传漂变的无限大的随机交配群体中，一对等位基因在常染色体上遗传时，无论群体起始基因频率如"
+  },
+  {
+   "cn": "哈迪-温伯格定律",
+   "en": "Hardy-Weinberg law",
+   "source": "生态学名词",
+   "wordNumber": "04.094",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "在一个无限大的群体里，在没有迁入、迁出、突变和自然选择时，若个体间随机交配，该群体中基因和基因型频率将在未来世代中保持不变。"
+  },
+  {
+   "cn": "遗传平衡",
+   "en": "Hardy-Weinberg equilibrium",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.833",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "耐寒植物",
+   "en": "hardy plant",
+   "source": "风景园林名词",
+   "wordNumber": "09.0019",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物类型",
+   "subjectName": "风景园林植物类型",
+   "publishYear": "2025",
+   "definition": "寒冷环境下依然可以维持正常生命活动的植物。通常可耐零下10℃甚至更低的温度。"
+  },
+  {
+   "cn": "坚韧人格",
+   "en": "hardy personality",
+   "source": "行为医学名词",
+   "wordNumber": "4.126",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "一种抗压力刺激的品性和人格。表现为吃苦耐劳、勇敢果断，性格愉快，很少烦恼。"
+  },
+  {
+   "cn": "耐寒作物",
+   "en": "hardy crop ",
+   "source": "草学名词",
+   "wordNumber": "6.0217",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance;hardiness",
+   "source": "动物学名词",
+   "wordNumber": "7.0072",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物对不利环境条件的忍耐力。"
+  },
+  {
+   "cn": "耐冬性",
+   "en": "winter hardiness",
+   "source": "动物学名词",
+   "wordNumber": "7.0073",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物能适应寒冷环境（冬季低温）的特性。"
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "动物学名词",
+   "wordNumber": "7.0074",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物耐受或抵御低于其正常生活适温下限温度的能力。"
+  },
+  {
+   "cn": "抗性锻炼",
+   "en": "hardiness,hardening",
+   "source": "林学名词",
+   "wordNumber": "02.457",
+   "subjectFullName": "林学_林学基础_树木生理",
+   "subjectName": "树木生理",
+   "publishYear": "2016",
+   "definition": "在特定环境因子的诱导下，植物的抗逆遗传特性逐步表现出来的过程。"
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "昆虫学名词",
+   "wordNumber": "06.204",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "昆虫耐受或抵御低于其正常生活适温下限的温度的能力。"
+  },
+  {
+   "cn": "比例",
+   "en": "proportion",
+   "source": "风景园林名词",
+   "wordNumber": "07.0096",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "建筑物各个组成部分或和整体在尺度上的相互数量关系。"
+  },
+  {
+   "cn": "比例",
+   "en": "proportion",
+   "source": "建筑学名词",
+   "wordNumber": "09.0107",
+   "subjectFullName": "建筑学_建筑设计_建筑表现与识图",
+   "subjectName": "建筑表现与识图",
+   "publishYear": "2014",
+   "definition": "(1)在绘图中表示图形与其实物相应要素的线性尺寸之比。(2)在建筑的构成中，指物质形态的局部与局部、局部与整体之间的比值关系。"
+  },
+  {
+   "cn": "构成比",
+   "en": "proportion",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "说明同一事物内部各组成部分所占的比重或分布情况，可用百分数表示。分子与分母的单位相同，而且分子包含于分母之中。"
+  },
+  {
+   "cn": "比例",
+   "en": "proportion",
+   "source": "数学名词",
+   "wordNumber": "04.0074",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "哈迪-温伯格定律",
+   "en": "Hardy-Weinberg law",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "哈迪-温伯格原则",
+   "en": "Hardy-Weinberg' principle",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈迪-温伯格定律",
+   "en": "Hardy-Weinberg law",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "哈迪-温伯格平衡",
+   "en": "Hardy-Weinberg equilibrium",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "哈迪-温伯格法则",
+   "en": "Hardy-Weinberg law",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "哈迪-温伯格平衡模型",
+   "en": "Hardy-Weinberg' equilibrium model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈迪-温伯格定律",
+   "en": "Hardy-Weinberg's law",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "遗传平衡定律（=哈迪-温伯格定律）",
+   "en": "law of genetic equilibrium (=Hardy-Weinberg law)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness\",\"frost hardiness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "魏因贝尔格",
+   "en": "Weinberger\",\"Jaromir(捷克)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐热性",
+   "en": "heat hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "耐寒性",
+   "en": "cold hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance\",\"hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "耐冬性",
+   "en": "winter hardiness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "符值比例法",
+   "en": "proportion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "魏因贝尔格",
+   "en": "Weinberg(Wainberg)\",\"Moishei(波兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "锻炼",
+   "en": "hardiness\",\"hardening\",\"acclimation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比例控制器",
+   "en": "proportional controller",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例控制",
+   "en": "proportional control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重拳",
+   "en": "hard blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "劲射",
+   "en": "hard shot\",\"drive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "硬地球场",
+   "en": "fast court\",\"hard court",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "硬编码加密密钥",
+   "en": "hard-coded encryption key",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民生在勤",
+   "en": "Well-being Is Forged Through Hard Work.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知难行易",
+   "en": "To Act Is Easy; To Know Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知易行难",
+   "en": "To Know Is Easy; To Act Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共付比",
+   "en": "co-pay proportion",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "保险机构和被保险人按一定比例共同支付医疗费用，可以是一个固定的比率，也可以是变动的比率。"
+  },
+  {
+   "cn": "高比例母乳喂养",
+   "en": "high-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的80%及以上。"
+  },
+  {
+   "cn": "中等比例母乳喂养",
+   "en": "medium-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的20%～79%"
+  },
+  {
+   "cn": "低比例母乳喂养",
+   "en": "low-proportion breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母乳占全部婴儿食物热量的20%以下。"
+  },
+  {
+   "cn": "疾病构成比",
+   "en": "proportion of incidence",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.1.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_平时卫生统计",
+   "subjectName": "平时卫生统计",
+   "publishYear": "2025",
+   "definition": "某事物内部各组成部分在整体中所占的比重。"
+  },
+  {
+   "cn": "正比计数管",
+   "en": "proportional counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.21",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种工作在气体放电正比区的计数管。"
+  },
+  {
+   "cn": "按比例规律",
+   "en": "law of proportional",
+   "source": "马克思主义",
+   "wordNumber": "02.0177",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "按比例分配社会劳动的规律的简称，是社会生产与社会需要之间矛盾运动以及整个国民经济协调发展的规律。按比例规律的内在要求是，表现为人财物的社会总劳动要依据需要按比例地分配在社会生产和国民经济中。随着社会分"
+  },
+  {
+   "cn": "食源性传播占比",
+   "en": "proportion of foodborne transmission",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "食源性传播引起的疾病负担占总的疾病负担的比例。"
+  },
+  {
+   "cn": "后运方法构成比",
+   "en": "proportion of evacuation methods",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "各级救治机构每百名伤员采用不同后运方法的百分构成比。后运方法常分步行、担架、救护车、回程空车、卡车、船、卫生列车、飞机及其他。"
+  },
+  {
+   "cn": "卫生技术人员占比",
+   "en": "proportion of health technicians",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "卫生技术人员在卫生人力资源中的比重，等于卫生技术人员数/卫生人员总数*100%"
+  },
+  {
+   "cn": "身体比例变化",
+   "en": "change of body proportion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "身体发育过程中头占身长（身高）的比例、上肢占身长（身高）的比例、坐高占身长（身高）的比例和腰臀比、腰高比、肩宽／骨盆宽的变化。"
+  },
+  {
+   "cn": "麻醉方法构成比",
+   "en": "proportion of anesthesia methods",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.8",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "每百名手术伤员采用不同麻醉方法的百分比。"
+  },
+  {
+   "cn": "工作量及其比例情况分析",
+   "en": "workload and proportion analysis",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2.2.1.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "通过分析病床、住院、门诊和医疗技术科室等方面工作量及其比例情况，反映医院人力、物力和技术效果是否得到正常发挥。工作量越大，表示完成的任务越多。治疗的疑难病种越多，表示发挥技术的效能越高。"
+  },
+  {
+   "cn": "医院卫生技术人员占比",
+   "en": "proportion of hospital health technicians ",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "医院卫生技术人员在卫生人力资源中的比重，等于各类医院中卫生技术人员数/卫生人员总数*100%"
+  },
+  {
+   "cn": "基层卫生机构卫生技术人员占比",
+   "en": "proportion of primary health workers",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.2.4",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "基层卫生机构卫生技术人员在卫生人力资源中的比重，等于基层卫生机构卫生技术人员数/卫生人员总数*100%"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "伤类构成比",
+   "en": "proportion of types of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员致伤原因划分的各类伤员数占伤员总数的百分比。致伤原因常分为炸伤、枪伤、压挫伤、烧伤、冻伤、震荡伤、毒气伤、刀刃伤、混合伤,可用以评价武器效能。"
+  },
+  {
+   "cn": "非战斗伤构成比",
+   "en": "proportion of non-battle injuries",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.6",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "非战斗伤伤员中不同的伤类、伤情所占百分比。"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "火线救护种类构成比",
+   "en": "proportion of fire rescue types",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "连、营火线救护每百名伤员中，自救、互救、卫救及未包扎分别所占百分比，用来分析火线抢救力量是否足够以及战前包扎训练是否有效等，统计时皆以第一次救护者为准。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,632 @@
+{
+ "key": "infinitesimal parallel displacement",
+ "term": "infinitesimal parallel displacement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:07:20+00:00",
+ "status": "ok",
+ "note": "variant=infinitesimal parallel displacement; 审定公布名词库=795; 海峡两岸名词对照库=321; 其他来源数据库=34; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "无穷小",
+   "en": "infinitesimal",
+   "source": "数学名词",
+   "wordNumber": "02.0120",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无限小应变",
+   "en": "infinitesimal strain",
+   "source": "地质学名词",
+   "wordNumber": "09.02.057",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "地质学中将应变量＜1%的应变视为无限小应变。可以用工程力学中的小变形理论和方法进行分析。"
+  },
+  {
+   "cn": "［微］元",
+   "en": "infinitesimal element",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0018",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "积分号内的微分变量。"
+  },
+  {
+   "cn": "无限小转动",
+   "en": "infinitesimal rotation",
+   "source": "物理学名词",
+   "wordNumber": "02.0520",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无限小转动",
+   "en": "infinitesimal rotation",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[无穷小]生成元",
+   "en": "infinitesimal generator",
+   "source": "数学名词",
+   "wordNumber": "07.0227",
+   "subjectFullName": "数学_泛函分析_算子",
+   "subjectName": "算子",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷小分析",
+   "en": "infinitesimal analysis",
+   "source": "数学名词",
+   "wordNumber": "02.0121",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷小特征[标]",
+   "en": "infinitesimal character",
+   "source": "数学名词",
+   "wordNumber": "04.1550",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷小条件",
+   "en": "infinitesimality condition",
+   "source": "数学名词",
+   "wordNumber": "09.0170",
+   "subjectFullName": "数学_概率论_数理统计_极限理论",
+   "subjectName": "极限理论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "莱维-齐维塔平移",
+   "en": "Levi-Civita parallel displacement",
+   "source": "物理学名词",
+   "wordNumber": "06.0254",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "曲线平移",
+   "en": "parallel displacement of curve",
+   "source": "化学名词",
+   "wordNumber": "03.0280",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "由于曲线截距变化引起曲线整体向上或向下的移动。"
+  },
+  {
+   "cn": "无限小应变理论",
+   "en": "infinitesimal strain theory",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0486",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "将应变视为无限小应变并对其进行研究的理论。 "
+  },
+  {
+   "cn": "无穷小变换群",
+   "en": "infinitesimal transformation group",
+   "source": "数学名词",
+   "wordNumber": "04.2110",
+   "subjectFullName": "数学_代数学_代数几何学_李群",
+   "subjectName": "李群",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "位移",
+   "en": "displacement",
+   "source": "地质学名词",
+   "wordNumber": "09.02.088",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "运动物体内的一点自前一时刻所占位置到后一时刻所占位置的直线距离和方向。可用连接先后两位置点的有向直线线段表示。"
+  },
+  {
+   "cn": "位移",
+   "en": "displacement",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0484",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "作为矢量的质点空间位置的改变。 "
+  },
+  {
+   "cn": "转移",
+   "en": "displacement",
+   "source": "行为医学名词",
+   "wordNumber": "10.077",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "将对某个对象的情感、欲望或态度转移到另一较为安全的对象上，而使后者完全成为前者替代物的一种自我防御机制。"
+  },
+  {
+   "cn": "位移",
+   "en": "displacement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0281",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构运动学",
+   "subjectName": "机构运动学",
+   "publishYear": "2021",
+   "definition": "机构质点位置的变化。"
+  },
+  {
+   "cn": "位移",
+   "en": "displacement",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0281",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "表征物体上一点相对于参考系的位置变化。"
+  },
+  {
+   "cn": "制图位移",
+   "en": "displacement",
+   "source": "测绘学名词",
+   "wordNumber": "04.233",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "制图综合时处理各要素相互关系的一种方法。即为了保持地图上各要素相互关系的正确性，在制图规范所规定的限差内，有目的地移动某些次要地物的符号。"
+  },
+  {
+   "cn": "位移",
+   "en": "displacement",
+   "source": "物理学名词",
+   "wordNumber": "02.0032",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "曲线平移",
+   "en": "parallel displacement of curve",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "置换",
+   "en": "displacement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "位移",
+   "en": "displacement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "位移",
+   "en": "displacement",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "排水量",
+   "en": "displacement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "排水量",
+   "en": "displacement",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "平行",
+   "en": "parallel",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行线",
+   "en": "parallel",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纬圈",
+   "en": "parallel",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "并行化",
+   "en": "parallelization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行性",
+   "en": "parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallelism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "投影差，高差位移，高程投影差",
+   "en": "relief displacement\",\"height  displacement",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "大陆位移",
+   "en": "continental displacement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性状替代（=性状替换）",
+   "en": "character displacement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性状替换，性状替代",
+   "en": "character displacement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位移长度",
+   "en": "displacement length",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位移距离",
+   "en": "displacement distance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位移",
+   "en": "displacement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排水量",
+   "en": "displacement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "移动",
+   "en": "displacement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水平位移",
+   "en": "horizontal displacement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行算法",
+   "en": "parallel algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行计算",
+   "en": "parallel computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行空间",
+   "en": "parallel space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行宇宙",
+   "en": "parallel universe",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行数据库",
+   "en": "parallel database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "IO并行",
+   "en": "IO parallel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行查询",
+   "en": "parallel query",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行处理",
+   "en": "parallel processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行坐标",
+   "en": "parallel coordinates",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双杠",
+   "en": "parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双杠项目",
+   "en": "parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行障碍",
+   "en": "parallel fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行杆障碍",
+   "en": "parallel poles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失地农民",
+   "en": "displaced peasants",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.9",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "在工业化、城市化过程中，农民因为农业土地转化为非农业用地而失去土地的农民。既有别于农民，又不同于城市居民，成为一个边缘群体，往往面临再就业、长远生计及社会保障等方面的困难。"
+  },
+  {
+   "cn": "表婚",
+   "en": "parallel cousin marriage",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "己身与堂亲和姨表亲的联姻。"
+  },
+  {
+   "cn": "两个平行市场",
+   "en": "two parallel markets",
+   "source": "马克思主义",
+   "wordNumber": "03.0320",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林1952年在《苏联社会主义经济问题》一书中提出的关于社会主义阵营和资本主义阵营经济关系的论断。战后社会主义阵营的出现使资本主义的统一市场瓦解，出现了两个平行的也是相互对立、彼此隔绝的世界市场；社"
+  },
+  {
+   "cn": "平行从表婚",
+   "en": "parallel-cousin marriage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0358",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "同性的同胞的子女，即兄弟的子女及姊妹的子女结为夫妻的婚姻形式。按照父系的观念，两兄弟的子女为从兄弟姊妹，两姊妹的子女为姨表兄弟姊妹。姨表兄弟姊妹之间不通婚，其原因可追溯到母系社会的氏族外婚制。"
+  },
+  {
+   "cn": "宫内节育器异位",
+   "en": "displacement of intrauterine device",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.3.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "宫内节育器部分或全部嵌入子宫肌层，或异位到子宫外的盆腹腔内、腹膜外、阔韧带、膀胱、肠管等部位的情况。是较严重的并发症，应及时取出。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

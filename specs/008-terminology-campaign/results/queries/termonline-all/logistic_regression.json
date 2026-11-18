@@ -1,0 +1,752 @@
+{
+ "key": "logistic regression",
+ "term": "logistic regression",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:30:25+00:00",
+ "status": "ok",
+ "note": "variant=logistic regression; 审定公布名词库=602; 海峡两岸名词对照库=214; 其他来源数据库=35; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "逻辑斯谛回归",
+   "en": "logistical regression",
+   "source": "数学名词",
+   "wordNumber": "09.0694",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "农学名词",
+   "wordNumber": "17.043",
+   "subjectFullName": "农产品贮运与加工_农产品贮运",
+   "subjectName": "农产品贮运",
+   "publishYear": "2025",
+   "definition": "农产品从生产、流通、销售再到消费者的实体流动过程。"
+  },
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.001",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "物品从供应地向接收地的实体流动过程。根据实际需要，将运输、储存、装卸、搬运、包装、流通、加工、配送、信息处理等基本功能有机结合。"
+  },
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.571",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "物品从供应地向接收地的实体流动过程。根据实际需要，将运输、储存、搬运、包装、流通加工、配送、信息处理等基本功能实施有机结合。"
+  },
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0495",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "为了满足客户的需要，通过运输、保管、配送等方式，实现原材料、半成品、成品及相关信息由商品的产地到商品的消费地所进行的计划、实施和管理的全过程。"
+  },
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "地理学名词",
+   "wordNumber": "18.202",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "供应链活动的一部分，是为了满足客户需要而对商品、服务以及相关信息从产地到消费地的高效、低成本流动和储存进行的规划、实施与控制的过程。"
+  },
+  {
+   "cn": "逻辑斯谛方程",
+   "en": "logistic equation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.751",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "动物种群数或人口数每一年的增长仅依赖于前一年的个体数，即Xt+1=μ（1−Xt）。其中，t是离散时间；X是一代中的个体数；Xt∈[0,1]为状态变量；μ∈[0,4]为控制参量，表示每个时间间隔增长的倍"
+  },
+  {
+   "cn": "逻辑斯谛增长",
+   "en": "logistic growth",
+   "source": "动物学名词",
+   "wordNumber": "7.0376",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "一种简单的增长率随种群大小而变化的连续增长。当种群在一个有限的环境中增长时，随着种群密度的上升，个体间由于有限的空间、食物和其他生活条件而引起的种内斗争必将加剧，以该种群生物为食的捕食者的数量也会增加"
+  },
+  {
+   "cn": "逻辑斯谛映射",
+   "en": "logistic map",
+   "source": "物理学名词",
+   "wordNumber": "11.0587",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛增长",
+   "en": "Logistic growth",
+   "source": "植物学名词",
+   "wordNumber": "13.0140",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "资源限制条件下种群增长的数学表达。种群增长曲线呈S形。"
+  },
+  {
+   "cn": "逻辑斯谛算法",
+   "en": "Logistic algorithm",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0301",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "一种假设数据服从逻辑斯谛分布（一种累计概率密度为S型曲线的概率分布）的回归分类算法。"
+  },
+  {
+   "cn": "后勤社会化",
+   "en": "logistic socialization",
+   "source": "教育学名词",
+   "wordNumber": "14.159",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "学校将后勤工作（如伙食、住宿、交通等）交由社会其他专业机构按市场化规则组织实施的过程。"
+  },
+  {
+   "cn": "逻辑斯谛增长",
+   "en": "logistic growth",
+   "source": "生态学名词",
+   "wordNumber": "10.054",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "种群每个个体的增长率是种群大小的线性函数，且种群越大，对进一步增长的抑制作用也越大。"
+  },
+  {
+   "cn": "逻辑斯谛模型",
+   "en": "logistic model",
+   "source": "地理学名词",
+   "wordNumber": "25.138",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "关于人口或种群增长的模型。它发现人口/种群增长会因为受到资源限制而达到某个极限。"
+  },
+  {
+   "cn": "逻辑斯谛增长",
+   "en": "logistic growth",
+   "source": "昆虫学名词",
+   "wordNumber": "06.046",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "昆虫种群在一定环境条件下的增长变化过程可用逻辑斯谛曲线从理论上表述，称为逻辑斯谛增长。"
+  },
+  {
+   "cn": "逻辑诊断",
+   "en": "logistic diagnosis",
+   "source": "公路交通科技名词",
+   "wordNumber": "05.232",
+   "subjectFullName": "公路交通科学技术_汽车运用工程",
+   "subjectName": "汽车运用工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛分布",
+   "en": "logistic distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0099",
+   "subjectFullName": "数学_概率论_数理统计_随机变量",
+   "subjectName": "随机变量",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "供应物流",
+   "en": "supply logistics",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.198",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "为企业提供原材料、零部件或其他物品时，物品在提供者和需求者之间的实体流动，包括原材料等一切生产物资的采购、进货运输、仓储、库存管理、用料管理和供应管理。"
+  },
+  {
+   "cn": "回收物流",
+   "en": "recycling logistics",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.199",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "不合格物品的返修、退货以及可再利用物料的周转使用所形成的物品实体流动。"
+  },
+  {
+   "cn": "生产物流",
+   "en": "production logistics",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.200",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "生产过程中，原材料、在制品、半成品、产成品等在企业内部的实体流动。"
+  },
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛增长",
+   "en": "logistic growth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛方程",
+   "en": "logistic equation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛增长",
+   "en": "logistic growth",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛增长",
+   "en": "logistic growth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯蒂模型",
+   "en": "logistic model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛方程",
+   "en": "logistic equation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛曲线",
+   "en": "logistic curve",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "物流配送",
+   "en": "logistics distribution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛增长方程",
+   "en": "logistic growth equation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛种群生长",
+   "en": "logistic population growth",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛种群增长",
+   "en": "logistic population growth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "退行",
+   "en": "regression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "海退",
+   "en": "regression",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海退",
+   "en": "regression",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "回归",
+   "en": "regression",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行逻辑回归",
+   "en": "parallel logistic regression",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧物流",
+   "en": "intelligent logistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "冷链全产业链",
+   "en": "integrated cold chain logistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际超级物流枢纽",
+   "en": "international super logistics hub",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回归树",
+   "en": "regression tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "RFID物流信息化管理",
+   "en": "RFID-based logistics information management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "条码物流信息化管理",
+   "en": "barcode-based logistics information management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "航空物流空间信息服务示范",
+   "en": "air logistics spatial information service demonstration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二维码物流信息化管理",
+   "en": "QR code-based logistics information management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "打通人流、物流堵点",
+   "en": "to smooth travel and logistics channels",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《20102365-T-449 粮食物流数据元 仓储业务基础数据元》",
+   "en": "20102365-T-449 Grain logistics data elements — Storage business basic data elements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "侵犯行为",
+   "en": "aggression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "综合施策",
+   "en": "taking holistic approaches",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯蒂回归",
+   "en": "logistic regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.104",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "因变量为某个事件的对数发生比为因变量，其他变量作为自变量的一种定类数据分析模型。"
+  },
+  {
+   "cn": "罗杰斯蒂克模型",
+   "en": "Logistic model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.78",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于描述微生物生长/不生长边界的模型。"
+  },
+  {
+   "cn": "对数罗杰斯蒂克模型",
+   "en": "Log-Logistic model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.80",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种非负随机结果变量的统计回归模型。常用于拟合生物活性测定中的S 型剂量-反应曲线。"
+  },
+  {
+   "cn": "逻辑斯蒂正态模型",
+   "en": "Logistic-normal model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.88",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于分析二元响应变量的统计模型。"
+  },
+  {
+   "cn": "食品冷链物流",
+   "en": "food cold chain logistics",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.53",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "以温度控制为主要手段，使食品从出厂后到销售前始终处于所需温湿度范围内的物流工程。"
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.82",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在掌握大量观察数据的基础上，以回归方程式来描述自变量与因变量之间关系的统计分析方法。"
+  },
+  {
+   "cn": "线性回归",
+   "en": "linear regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.83",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用回归方程表现一个随机变量的条件均值（因变量）同一个或多个解释变量（自变量）的对应值之间关系的统计分析方法。"
+  },
+  {
+   "cn": "多元回归",
+   "en": "multiple regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.84",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一组自变量同单一因变量间关系的一组广泛的统计分析方法。"
+  },
+  {
+   "cn": "泊松回归",
+   "en": "poisson regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.105",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "因变量为计数形式，并假设因变量服从泊松分布，将因变量的期望值的对数描述作一组自变量的线性组合的回归分析。"
+  },
+  {
+   "cn": "泊松回归模型",
+   "en": "Poisson regression model",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.20",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "一种回归分析模型，其因变量是符合泊松分布的随机事件发生的期望值。癌症队列研究中分组资料分析常采用此回归模型。"
+  },
+  {
+   "cn": "累退性筹资",
+   "en": "regressivity of financing",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.6.2.4",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资系统评价",
+   "subjectName": "卫生筹资系统评价",
+   "publishYear": "2025",
+   "definition": "在不同收入人群中，随着支付能力增加，卫生支出占可支付能力比例相应减少的卫生筹资类型。"
+  },
+  {
+   "cn": "归元-赋权-控制模式",
+   "en": "multiplicity and regression-empowerment-control",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.2.2",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "依据健康促进多元化理论设想，健康促进工作分三部分：一是将项目各项工作分解“回归”对应单位；二是按项目多元分工，赋予相关部门责、权、利，由其依自身规律安排工作；三是实施单极化管理。"
+  },
+  {
+   "cn": "抑郁",
+   "en": "depression",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "负性情感的增强的情绪状态。患者表现为情绪低落，忧心忡忡，愁眉不展，唉声叹气。严重者忧郁沮丧，外界的一切均引不起兴趣、悲观失望，感到自己一无是处，毫无生趣，度日如年。"
+  },
+  {
+   "cn": "攻击",
+   "en": "aggression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.8",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "旨在对他人产生伤害和痛苦的有意识行为。"
+  },
+  {
+   "cn": "萧条",
+   "en": "depression",
+   "source": "马克思主义",
+   "wordNumber": "02.0294",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "经济周期中危机之后的一个阶段，特征为社会生产不再继续下降，工厂、银行不再继续倒闭而呈停滞状态。"
+  },
+  {
+   "cn": "整体医学",
+   "en": "holistic medicine",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "将病人视作受生理、心理、情绪、社会等多种因素影响的综合体的范式。它不是只停留在“见病不见人”的生理层次，而是全面考虑到人的整体性，因此与“健康的医疗范式”（见词条32.4.003)有根本区别。"
+  },
+  {
+   "cn": "文化侵略",
+   "en": "cultural aggression",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "通过鼓吹自身文化上的优势，并采用文化渗透、文化同化等间接方式而对其他民族、国家或地区的征服、控制。与其他侵略方式相比，这一方式不大容易引起被征服地的反抗，是一种逐渐“软化”从而达到驯服的过程。"
+  },
+  {
+   "cn": "抑郁障碍",
+   "en": "depression disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以显著、持久的弥散性情绪低落为显著特征的心理障碍。可分为破坏性心境失调障碍、持续性抑郁障碍等类型等；其中，破坏性心境失调障碍常见于儿童少年。"
+  },
+  {
+   "cn": "心理卫生问题筛查",
+   "en": "depression screening",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "通过标准化的量表，早期发现少数有心理问题或心理障碍的学生的过程。旨在对被筛查出的学生给予科学有效的心理咨询和辅导，及时转介干预，使他们尽快摆脱障碍，调控自我，提高其心理健康水平。"
+  },
+  {
+   "cn": "产后抑郁",
+   "en": "postpartum depression, PPD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "产后出现的，以抑郁为主的短暂情感紊乱。表现为从短暂的心境低落到伴有焦虑和恐惧的严重抑郁，伴有对婴儿及其父亲的漠不关心、敌意及睡眠紊乱等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

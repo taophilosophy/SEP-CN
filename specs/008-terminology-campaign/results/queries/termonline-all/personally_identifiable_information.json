@@ -1,0 +1,792 @@
+{
+ "key": "personally identifiable information",
+ "term": "personally identifiable information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:18:15+00:00",
+ "status": "ok",
+ "note": "variant=personally identifiable information; 审定公布名词库=3570; 海峡两岸名词对照库=746; 其他来源数据库=623; 预公布名词数据库=159; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "个人识别模块",
+   "en": "personal identifier module,PIM",
+   "source": "通信科学技术名词",
+   "wordNumber": "12.132",
+   "subjectFullName": "通信科学技术_移动通信",
+   "subjectName": "移动通信",
+   "publishYear": "2007",
+   "definition": "检验个人身份的模块。"
+  },
+  {
+   "cn": "识别码",
+   "en": "identifier",
+   "source": "测绘学名词",
+   "wordNumber": "05.061",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "用来唯一标识点、线、面地理实体的代码。"
+  },
+  {
+   "cn": "标识符",
+   "en": "identifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0197",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "用来命名语言实体的标记。包括变量、类型、标签、子程序和包等的名字。"
+  },
+  {
+   "cn": "识别力",
+   "en": "identifiability",
+   "source": "心理学名词",
+   "wordNumber": "03.201",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "在建立统计模型时，模型的分布能被模型参数唯一地确定的特性。不具有可识别性的模型，其参数估计无法收敛。"
+  },
+  {
+   "cn": "识别",
+   "en": "identify",
+   "source": "航海科技名词",
+   "wordNumber": "14.0026",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "可辨识性",
+   "en": "identifiability",
+   "source": "数学名词",
+   "wordNumber": "012.0475",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可辨识性",
+   "en": "identifiability",
+   "source": "自动化名词",
+   "wordNumber": "02.262",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "个人信息[源]",
+   "en": "personal information source",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0123",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "参与社会信息交流活动的每一个人所形成的一个独立的信息源。"
+  },
+  {
+   "cn": "个性化检索",
+   "en": "personalized information retrieval",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.084",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "利用用户的信息对提问式或检索结果进行修改或者过滤的检索方式。"
+  },
+  {
+   "cn": "个人信息管理",
+   "en": "personal information management,PIM",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0229",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "支持用户自己管理个人信息（如电子邮件、通讯录、文件等）以便更好地完成其工作的信息管理工具。"
+  },
+  {
+   "cn": "著录标识符号",
+   "en": "description identifier",
+   "source": "档案学名词",
+   "wordNumber": "03.04.020",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "著录时辅助著录项所使用的标识符号，一般用“-”表示。"
+  },
+  {
+   "cn": "后代鉴定",
+   "en": "offspring identify ",
+   "source": "草学名词",
+   "wordNumber": "4.04",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "恰好识别",
+   "en": "just-identified",
+   "source": "经济学名词",
+   "wordNumber": "10.060",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "由模型的简化式参数估计值可推出所论方程参数唯一的一套估计值，称该方程是恰好识别的。"
+  },
+  {
+   "cn": "识别过度",
+   "en": "over-identified",
+   "source": "经济学名词",
+   "wordNumber": "10.081",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "能够从所估计的诱导型系数求出一个结构方程的参数估计值，但获得的参数值不止一个。"
+  },
+  {
+   "cn": "竞争对手识别",
+   "en": "competitor identifying",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.176",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "在众多的竞争者中确定最主要的、次要的和较次要的竞争对手以及企业自身在竞争中所处的相对位置的行为。主要从资源供给的相似性、市场需求的相似性、供给与需求相结合以及网络空间结构所表现的企业相似关系等四个视角"
+  },
+  {
+   "cn": "论文标识号",
+   "en": "article identifier",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.572",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "由权威机构统一分配给期刊论文的唯一的、无二义性的标识性代码。"
+  },
+  {
+   "cn": "地址标识符",
+   "en": "address identifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0533",
+   "subjectFullName": "计算机科学技术_计算机体系结构_存储系统",
+   "subjectName": "存储系统",
+   "publishYear": "2018",
+   "definition": "用以标识数据帧的源和目标的地址数值。"
+  },
+  {
+   "cn": "客体标识符",
+   "en": "object identifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0261",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "某客体全球唯一的名称。写作一串字符，用于在安全规程和协议中指定代表该客体。"
+  },
+  {
+   "cn": "机会识别",
+   "en": "opportunity identify",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0801",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "创业者通过分析、判断、筛选，在众多机会中发现利己的、能够被利用的、最优的创业机会。"
+  },
+  {
+   "cn": "地理标识符",
+   "en": "geographic identifier",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "以符号方式标识某个要素的空间参照。例如：国家，地址。"
+  },
+  {
+   "cn": "标识符",
+   "en": "identifier",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标识符",
+   "en": "identifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "识别器",
+   "en": "identifier",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地理标识符",
+   "en": "geographic identifier",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地理标识符",
+   "en": "geographic identifier",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关键标识符",
+   "en": "key identifier",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "类别标识符",
+   "en": "class identifier",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "路径标识",
+   "en": "route identifier",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "特征标识符",
+   "en": "feature identifier",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "位标识",
+   "en": "bit-identify",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "识别",
+   "en": "identify\",\"ID",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人化",
+   "en": "personalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "点标识符字段",
+   "en": "point identifier field",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "轨迹标示域",
+   "en": "track identifier field",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "对象标识符",
+   "en": "object identifier\",\"OID",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "识别型DTE业务",
+   "en": "identified DTE service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人格结构，人格架构",
+   "en": "personality structure\",\"personality architecture",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人差",
+   "en": "personal error\",\"personal equation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "叫人电话",
+   "en": "person-to-person call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 37964-2019 信息安全技术 个人信息去标识化指南》",
+   "en": "GB/T 37964-2019 Information security technology — Guide for de-identifying personal information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人信息权",
+   "en": "rights to personal information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人特点",
+   "en": "personality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全景化个人金融信息服务",
+   "en": "panoramic personal financial information service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "日本个人信息保护委员会",
+   "en": "Personal Information Protection Commission (Japan)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《BS ISO/IEC 29151-2017 信息技术 安全技术 个人识别信息保护业务守则》",
+   "en": "BS ISO/IEC 29151:2017 Information technology — Security techniques — Code of practice for personally identifiable information protection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "异常行为标识器",
+   "en": "abnormal behavior identifier",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人征信业务牌照",
+   "en": "license for personal credit information operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人信息安全影响评估",
+   "en": "impact assessment for personal information security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《个人信息保护法》（韩国）",
+   "en": "Personal Information Protection Act (South Korea)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 35273-2020 信息安全技术 个人信息安全规范》",
+   "en": "GB/T 35273-2020 Information security technology — Personal information security specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟人格",
+   "en": "virtual personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格数据化",
+   "en": "personality datamation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律人格",
+   "en": "legal personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格权",
+   "en": "personality right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化人格",
+   "en": "digital personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子人格",
+   "en": "e-personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人医疗信息保护",
+   "en": "personal information protection",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.011",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "医疗机构及其医务人员在医疗、教研等活动中，对患者或研究参与者可识别的个人信息应当采取保密措施并确保其不被泄露和非法使用的行为。"
+  },
+  {
+   "cn": "个性",
+   "en": "personality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "一组在不同环境中显现并影响个体的外显和内隐行为模式与相对稳定心理特征的总和。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0069999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "个体内在生理心理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.10",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "个体稳定表现的心理特质，由遗传与环境因素共同决定。"
+  },
+  {
+   "cn": "身份人格",
+   "en": "status personality",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "与个体所在的特定身份群体相联系的人格型态。不同的人既共享该社会或文化所塑造的“基本人格”，也因为各自所属的身份群体的价值差异，而呈现出行为模式上的差异。美国人类学家拉尔夫·林顿（Ralph Linto"
+  },
+  {
+   "cn": "权威人格",
+   "en": "authoritarian personality",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.1",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "一种人格类型，包含如下特征：在性格上极为保守，思想封闭，观念狭窄；崇尚权威，重视权力和地位，对上低声下气，卑躬屈膝；对下作威作福，盛气凌人；对同僚刚愎自用，绝不容忍通融。"
+  },
+  {
+   "cn": "个性发展",
+   "en": "personality development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体的人格特征和经验积累随年龄增长的发展变化过程。"
+  },
+  {
+   "cn": "基本人格",
+   "en": "basic personality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0556",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家卡迪纳（Abram Kandiner）提出的概念。他认为，养育儿童的方式在任何一特定社会中，都是相当固定而且标准化的。虽然在某方面有个别差异，但就整体而言，母亲喂奶的时间大致和邻居一样长，"
+  },
+  {
+   "cn": "个人防护",
+   "en": "personal protection",
+   "source": "消毒学",
+   "wordNumber": "1.7.1",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "用来防御物理、化学、生物等有害因素可能对人体造成伤害的措施。"
+  },
+  {
+   "cn": "个人剂量",
+   "en": "personal dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.3.7",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_新的实用量",
+   "subjectName": "新的实用量",
+   "publishYear": "2025",
+   "definition": "参考体模在旋转和各向同性宽射束均匀平行照射场景下有效剂量。SI单位为焦耳每千克，专有名称希沃特，记作Sv。"
+  },
+  {
+   "cn": "个人剂量计",
+   "en": "personal dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "放射工作人员佩戴的，用以监测个人剂量的剂量计。"
+  },
+  {
+   "cn": "个人监测",
+   "en": "personal monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为提供工作人员个人所接受的辐射水平而进行的辐射监测。"
+  },
+  {
+   "cn": "私人空间",
+   "en": "personal space",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "在公共场合，个体认为属于自己，因而在一般情况下不愿意他者进入的空间范围。其大体范围在60厘米至150厘米之间。广义上除上述情形外，还包括房间、日记、内在状态等。"
+  },
+  {
+   "cn": "个人网",
+   "en": "personal network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "或称自我中心网(egocentric network）。是以个人为中心的社会关系的总和。小到局限在直接交往范围里的家庭成员网，大到通过直接和间接纽带联系着的数以千计的社交关系网。个人网是与整体网相对的"
+  },
+  {
+   "cn": "个人认同",
+   "en": "personal identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个体对其所拥有的，能够将其与他人区分开来的独特特征与品质的确认。"
+  },
+  {
+   "cn": "个人价值",
+   "en": "personal value",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "社会中的个体所持有的价值观。就社会工作者而言，既持有专业价值，作为普通人也还有其特定的价值观。"
+  },
+  {
+   "cn": "个人产品",
+   "en": "personal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上的竞争性、受益上的排他性和缺乏外部效应特征的产品或服务。通常分为必需消费品和特需消费品两类。"
+  },
+  {
+   "cn": "个人防护",
+   "en": "personal protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.4.1",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射防护",
+   "subjectName": "核辐射防护",
+   "publishYear": "2025",
+   "definition": "个人为避免或减轻核武器的伤害所采取的防护措施。主要有及时正确用防护器材，借地形地物做正确防护动作，服用预防药，避免或缩短与放射性灰尘接触，严格遵守沾染区行动规定。"
+  },
+  {
+   "cn": "个人剂量仪",
+   "en": "personal dosimeter",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.21.1",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "电离辐射职业人员佩带的，用以监测个人剂量的剂量计。"
+  },
+  {
+   "cn": "代表性个人",
+   "en": "representative person",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在受照人群中接受剂量较高的能代表人群的个人。国际放射防护委员会（ICRP）在其101号出版物中指出，代表性个人的剂量等于或替代关键人群组的平均剂量，这为评价代表性个人的剂量提供了指导。关键人群组的概念"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

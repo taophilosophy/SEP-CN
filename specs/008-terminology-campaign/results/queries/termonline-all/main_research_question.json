@@ -1,0 +1,732 @@
+{
+ "key": "main research question",
+ "term": "Main Research Question",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:05:45+00:00",
+ "status": "ok",
+ "note": "variant=Main Research Question; 审定公布名词库=2062; 海峡两岸名词对照库=602; 其他来源数据库=149; 预公布名词数据库=115; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "研究",
+   "en": "research",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0073",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_研发管理",
+   "subjectName": "研发管理",
+   "publishYear": "2016",
+   "definition": "针对某个主题的科学知识进行大量的、系统的、反复的探索，对事物现象进行周密调查与反复思索以揭示其本质，是一个重要的科学调查与分析过程。"
+  },
+  {
+   "cn": "科学研究",
+   "en": "research",
+   "source": "教育学名词",
+   "wordNumber": "08.101",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "现代大学职能之一。为了增进人类知识和谋求知识新的应用而进行的创造性工作。可分为基础研究、应用研究和开发性研究三类。"
+  },
+  {
+   "cn": "运筹学",
+   "en": "operations research,operational research",
+   "source": "数学名词",
+   "wordNumber": "011.0001",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "提问",
+   "en": "question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者通过提问题向采访对象了解新闻事实的新闻采访方式。"
+  },
+  {
+   "cn": "主梁",
+   "en": "main beam,main girder",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.263",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "长寿调查",
+   "en": "longevity research",
+   "source": "急救医学名词",
+   "wordNumber": "03.888",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "对90岁及以上长寿老人开展的调查。用以总结他们健康长寿的经验。"
+  },
+  {
+   "cn": "研究纲领",
+   "en": "research programme",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.158",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "I. 拉卡托斯（I. Lakatos）提出的评价科学进步的基本单元。通常包括硬核与保护带。"
+  },
+  {
+   "cn": "研究传统",
+   "en": "research tradition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.190",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "由L. 劳丹（L. Laudan）提出。指一系列总的假说，即关于某个研究领域的研究实体和过程，以及这一领域中如何研究问题和构造理论的基本假设。"
+  },
+  {
+   "cn": "运筹学",
+   "en": "operations research",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.759",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "20世纪30年代初发展起来的一门学科。主要研究目的是在决策时为管理人员提供科学依据，是实现有效管理、正确决策和现代化管理的重要方法之一。该学科应用于数学和形式科学的跨领域研究，旨在寻找复杂问题中的最优"
+  },
+  {
+   "cn": "型号研究",
+   "en": "model research",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.351",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "新型军事装备研究、设计、试制和仿制，及现役装备改进改型的国防科研活动。通常由军方提出技战术性能要求，军方与国防科技工业部门共同组织实施。"
+  },
+  {
+   "cn": "科学研究",
+   "en": "scientific research",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.001",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "旨在发现新事实和新理论知识的认识活动。运用严密系统的科学方法，以认识世界、探索真理为目标的活动过程。"
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "在科学研究中通过观察、实验等方法直接从研究对象那里收集第一手观察或实验数据资料，并以此为基础开展的研究。与“理论性研究”相对。"
+  },
+  {
+   "cn": "理论性研究",
+   "en": "theoretical research",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.003",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "在科学研究中通过理论分析、逻辑推理和数学计算等形式，提出概念、假说或预测等相关的研究。与“经验性研究”相对。"
+  },
+  {
+   "cn": "研究伦理",
+   "en": "research ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.006",
+   "subjectFullName": "自然辩证法_科技伦理_科学伦理",
+   "subjectName": "科学伦理",
+   "publishYear": "2024",
+   "definition": "研究科学研究活动中应该遵循的基本伦理原则和道德规范，以及对科学研究活动的伦理评价和审查。当科学研究活动的对象、过程和结果涉及生态安全、社会安全和人身安全，以及对人格尊严、自主选择和合法权益的保护时，在"
+  },
+  {
+   "cn": "研究诚信",
+   "en": "research integrity",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.007",
+   "subjectFullName": "自然辩证法_科技伦理_科学伦理",
+   "subjectName": "科学伦理",
+   "publishYear": "2024",
+   "definition": "研究人员在专业研究活动中具备诚信品质，信守对研究成果真实可靠的承诺，保证研究活动在整体上完全符合科学精神和“科学共同体”的专业标准。"
+  },
+  {
+   "cn": "负责任研究",
+   "en": "responsible research",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.008",
+   "subjectFullName": "自然辩证法_科技伦理_科学伦理",
+   "subjectName": "科学伦理",
+   "publishYear": "2024",
+   "definition": "强调科学研究要承担相应的社会责任，防止科学研究出现破坏生态环境、社会秩序和人的身心健康的不良后果。"
+  },
+  {
+   "cn": "传播研究",
+   "en": "communication research",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.031",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "对传播现象及其规律所进行的系统的、科学的探索活动。狭义的传播研究特指使用量化实证方法进行的研究；广义的传播研究包括使用各种范式和方法的研究。"
+  },
+  {
+   "cn": "传播者研究",
+   "en": "communicator research",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.012",
+   "subjectFullName": "新闻学与传播学_大众传播_大众传播的结构与功能",
+   "subjectName": "大众传播的结构与功能",
+   "publishYear": "2022",
+   "definition": "大众传播学研究的五大领域之一。主要指对传播行为主体所进行的专门研究。具体内容包含两个方面：一是考察外部制度对传媒机构及其活动的控制和影响；二是考察传媒机构的内部制度对信息的生产、加工和传播活动的制约。"
+  },
+  {
+   "cn": "内容研究",
+   "en": "content research",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.013",
+   "subjectFullName": "新闻学与传播学_大众传播_大众传播的结构与功能",
+   "subjectName": "大众传播的结构与功能",
+   "publishYear": "2022",
+   "definition": "大众传播学研究的五大领域之一。对传播过程中的符号与信息的专门研究。"
+  },
+  {
+   "cn": "媒介研究",
+   "en": "media research",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.014",
+   "subjectFullName": "新闻学与传播学_大众传播_大众传播的结构与功能",
+   "subjectName": "大众传播的结构与功能",
+   "publishYear": "2022",
+   "definition": "大众传播学研究的五大领域之一。对传播信息的技术载体的专门研究。"
+  },
+  {
+   "cn": "研究",
+   "en": "research",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "主存储器，主存",
+   "en": "main memory\",\"main storage",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "市场研究",
+   "en": "market research",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "描述性研究",
+   "en": "descriptive research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定量研究",
+   "en": "quantitative research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果性研究",
+   "en": "causal research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格研究",
+   "en": "personality research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验研究法",
+   "en": "experimental research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相关研究",
+   "en": "correlational research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "结果研究",
+   "en": "outcome research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "纵向研究",
+   "en": "longitudinal research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列研究",
+   "en": "sequential research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定性研究",
+   "en": "qualitative research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "用户研究",
+   "en": "user research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模拟研究",
+   "en": "simulation research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动机研究",
+   "en": "motivational research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行动研究",
+   "en": "action research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "应用研究",
+   "en": "applied research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "消费者研究",
+   "en": "consumer research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基础研究",
+   "en": "basic research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "临床前研究",
+   "en": "preclinical research",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "研究与开发",
+   "en": "Research and Development",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科研众筹",
+   "en": "scientific research crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据管理",
+   "en": "Research Data Management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "澳大利亚科研数据平台",
+   "en": "Research Data Australia",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能投研",
+   "en": "intelligent investment research",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主攻手",
+   "en": "attack specialist\",\"main smasher\",\"main spiker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大集团",
+   "en": "group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主肋骨",
+   "en": "main frame\",\"midship",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舵叶主构体",
+   "en": "rudder main piece",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中国生态系统研究网络",
+   "en": "Ecosystem Research Network (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科研数据管理",
+   "en": "research data management (RDM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "研究反应堆",
+   "en": "research reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.8",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "利用易裂变核素的可控裂变链式反应所产生的射线束（如中子和γ射线）作为研究手段的核反应堆。"
+  },
+  {
+   "cn": "定性研究",
+   "en": "qualitative research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "指导研究者探究人们怎样理解、经验、阐释和生成社会世界的一系列态度和策略的总称。"
+  },
+  {
+   "cn": "临床研究",
+   "en": "clinical research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "在健康照料研究中，为了获取新知识和创新治疗手段而进行的研究。包括辨识、描述、解释生成、解释检验、干预和控制的检验。"
+  },
+  {
+   "cn": "比较研究",
+   "en": "comparative research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "在社会科学研究中，通过系统地比较两个或多个社会、文化或国家，来发现社会实体间的相似与差异的研究方法。"
+  },
+  {
+   "cn": "评估研究",
+   "en": "evaluation research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "为确定一项计划、一种产品、一个组织、一种干预或变革努力的效果而进行的系统的、以数据为基础的研究。"
+  },
+  {
+   "cn": "定量研究",
+   "en": "quantitative research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "通过观测或实验从总体中收集数值型数据，运用统计方法研究总体的数量特征的研究方式。"
+  },
+  {
+   "cn": "研究设计",
+   "en": "research design",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "论证一项具体研究的问题、假设或命题，以及研究的方法论和方法的逻辑、结构和原则的方案或策略。"
+  },
+  {
+   "cn": "文献研究",
+   "en": "literature research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.12",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "为了形成对事实的科学认识，搜集、鉴别、整理和分析文献的研究方法。"
+  },
+  {
+   "cn": "行动研究",
+   "en": "action research",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "由社会情景（教育情景）的参与者，为提高对所从事的社会或教育实践的理性认识、为加深对实践活动及其依赖的背景的理解所进行的反思研究。其关注的不是理论研究者认定的理论问题，而是实际工作者将研究和实践结合起来"
+  },
+  {
+   "cn": "研究纲领",
+   "en": "research programme",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.158",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "I. 拉卡托斯（I. Lakatos）提出的评价科学进步的基本单元。通常包括硬核与保护带。"
+  },
+  {
+   "cn": "研究传统",
+   "en": "research tradition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.190",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由L. 劳丹（L. Laudan）提出。指一系列总的假说，即关于某个研究领域的研究实体和过程，以及这一领域中如何研究问题和构造理论的基本假设。"
+  },
+  {
+   "cn": "定量研究",
+   "en": "quantitative research",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0654",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "确定事物某方面量的规定性的科学研究，将问题与现象用数量来表示，进而去分析、考验、解释，从而获得意义的研究方法和过程。定量，就是以数字化符号为基础去测量。定量研究通过对研究对象的特征按某种标准作量的比较"
+  },
+  {
+   "cn": "定性研究",
+   "en": "qualitative research",
+   "source": "社会医学名词",
+   "wordNumber": "4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "一种在自然的情景下，从整体的角度深入探讨和阐述被研究事物的特点及其发生和发展规律，以揭示事物的内在本质的一类研究方法。"
+  },
+  {
+   "cn": "定性研究",
+   "en": "qualitative research",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0655",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "确定事物本质属性的科学研究。它是通过观测、实验和分析等，来考察研究对象是否具有这种或那种属性或特征，以及它们之间是否有关系等。由于它只要求对研究对象的性质作出回答，故称定性研究。研究者运用历史回顾、文"
+  },
+  {
+   "cn": "定量研究",
+   "en": "quantitative research",
+   "source": "社会医学名词",
+   "wordNumber": "4.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定量研究",
+   "publishYear": "2025",
+   "definition": "通过收集和分析数值数据来研究现象的方法。其侧重于对研究对象进行量化测量和统计分析，以揭示事物之间的关系和规律。例如：收集人群发生某种事件的数量指标，通过统计分析探讨各种因素与疾病和健康的数量依存关系。"
+  },
+  {
+   "cn": "文献研究",
+   "en": "literature research",
+   "source": "社会医学名词",
+   "wordNumber": "4.7",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "文献研究",
+   "publishYear": "2025",
+   "definition": "通过收集现存的以文字、数字、符号、图片等信息形式出现的文献资料，采用整理、综合、分析等手段，最终达到研究目的的一种研究方法。"
+  },
+  {
+   "cn": "主效应",
+   "en": "main effect",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.65",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在有一个或几个因子(自变量)的方差分析中，一个因子在各水平上对反应量(因变量)影响大小的度量。"
+  },
+  {
+   "cn": "主文化",
+   "en": "main culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0027",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在社会生活中居于主导地位、被人们普遍接受与认可，并产生广泛而深远影响的文化。"
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

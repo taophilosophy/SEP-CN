@@ -1,0 +1,22 @@
+{
+ "key": "akal",
+ "term": "akāl",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:25:41+00:00",
+ "status": "ok",
+ "note": "variant=akāl; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "ak135速度模型",
+   "en": "ak135 velocity model",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0899",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "为了更好地拟合各种震相，肯尼特 (B. Kennet)等于 1995年公布的一维地球速度模型。该模型除了在地壳和内核边界处有所改进外，与 IASPEI91模型差别很小。 "
+  }
+ ],
+ "error": null,
+ "raw": null
+}

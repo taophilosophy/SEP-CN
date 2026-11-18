@@ -1,0 +1,292 @@
+{
+ "key": "transmissivism",
+ "term": "Transmissivism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:13:41+00:00",
+ "status": "ok",
+ "note": "variant=Transmissivism; 审定公布名词库=21; 海峡两岸名词对照库=8; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "导水性",
+   "en": "transmissivity",
+   "source": "地质学名词",
+   "wordNumber": "16.01.064",
+   "subjectFullName": "地质学_水文地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "岩土层传导水的能力。主要取决于岩土孔隙或空隙的连通程度。"
+  },
+  {
+   "cn": "透射比",
+   "en": "transmissivity",
+   "source": "电力名词",
+   "wordNumber": "01.650",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "投射到物体表面的总辐射能量中透过物体的能量份额。"
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "物理学名词",
+   "wordNumber": "04.0867",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0292",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "在热辐射过程中，透过物体的辐射能量与投射到该物体上的总辐射能量之比。"
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "化学名词",
+   "wordNumber": "03.1185",
+   "subjectFullName": "化学_分析化学_仪器分析_分子光谱分析",
+   "subjectName": "分子光谱分析",
+   "publishYear": "2016",
+   "definition": "一束平行的单色光通过任何均匀、非散射的固体、液体或气体介质时，透过光的强度与入射光的强度之比。常以百分数表示。"
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "建筑学名词",
+   "wordNumber": "10.0359",
+   "subjectFullName": "建筑学_建筑物理_建筑热工学",
+   "subjectName": "建筑热工学",
+   "publishYear": "2014",
+   "definition": "表征物体对外来的入射辐射的透过能力。其大小为被物体透过的能量与投射到物体上的总能量之比。"
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "地理学名词",
+   "wordNumber": "29.060",
+   "subjectFullName": "地理学_遥感应用",
+   "subjectName": "遥感应用",
+   "publishYear": "2006",
+   "definition": "透过物体的电磁波强度与入射波强度之比。"
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.091",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "导水系数",
+   "en": "transmissivity",
+   "source": "土木工程名词",
+   "wordNumber": "14.125",
+   "subjectFullName": "土木工程_土木工程勘察与测量_水文地质勘察",
+   "subjectName": "水文地质勘察",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "电气工程名词",
+   "wordNumber": "22.078",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "化学工程名词",
+   "wordNumber": "03.253",
+   "subjectFullName": "化学工程_传递过程与单元操作_传热过程_传热",
+   "subjectName": "传热",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "导水性",
+   "en": "transmissivity",
+   "source": "地质学名词",
+   "wordNumber": "08.130",
+   "subjectFullName": "地质学_水文地质学",
+   "subjectName": "水文地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "大气透过率",
+   "en": "atmospheric transmissivity",
+   "source": "测绘学名词",
+   "wordNumber": "03.372",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "电磁波在大气中传播时，经大气衰减后的电磁辐射通量与入射的电磁辐射通量之比。"
+  },
+  {
+   "cn": "强度透射率",
+   "en": "intensity transmissivity",
+   "source": "物理学名词",
+   "wordNumber": "04.0869",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "振幅透射率",
+   "en": "amplitude transmissivity",
+   "source": "物理学名词",
+   "wordNumber": "04.0868",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光谱透射率",
+   "en": "spectral transmissivity",
+   "source": "计量学名词",
+   "wordNumber": "13.152",
+   "subjectFullName": "计量学_光学_光谱光度",
+   "subjectName": "光谱光度",
+   "publishYear": "2015",
+   "definition": "在不受材料界面影响条件下，辐射程为一个单位长度时，材料层的光谱内透射比。符号为<img src='/root/syzx/static/spz/jiliang1.13.152.1.png'/> 。必须规"
+  },
+  {
+   "cn": "大气透射率",
+   "en": "atmospheric transmissivity",
+   "source": "大气科学名词",
+   "wordNumber": "03.320",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "通过大气(或某气层)后的辐射强度与入射前辐射强度之比。"
+  },
+  {
+   "cn": "平均透过率",
+   "en": "mean transmissivity",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.236",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "大气透射率",
+   "en": "atmospheric transmissivity",
+   "source": "电气工程名词",
+   "wordNumber": "22.079",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "导水系数",
+   "en": "coefficient of transmissivity",
+   "source": "水利科学技术名词",
+   "wordNumber": "02.255",
+   "subjectFullName": "水利科学技术_水文、水资源_水资源（水利）",
+   "subjectName": "水资源（水利）",
+   "publishYear": "1997",
+   "definition": "单位水力坡度，单位时间通过单宽介质的水量，其量纲为L²T，是表示岩土层输水性大小的指标。"
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity\",\"transmittance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmittance\",\"transmissivity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "[大气]透射率",
+   "en": "atmospheric transmissivity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气透过率",
+   "en": "atmospheric transmissivity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "大气透射率",
+   "en": "atmospheric transmissivity",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

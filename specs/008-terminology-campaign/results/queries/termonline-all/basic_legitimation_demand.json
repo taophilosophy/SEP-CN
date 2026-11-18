@@ -1,0 +1,722 @@
+{
+ "key": "basic legitimation demand",
+ "term": "basic legitimation demand",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:21:45+00:00",
+ "status": "ok",
+ "note": "variant=basic legitimation demand; 审定公布名词库=1110; 海峡两岸名词对照库=343; 其他来源数据库=122; 预公布名词数据库=98; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "政策合法化",
+   "en": "policy legitimization",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0284",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "政策的法定主体为使政策方案获得合法地位而依法实施的审查、通过、批准、签署和颁布政策的过程。"
+  },
+  {
+   "cn": "合法性权力",
+   "en": "legitimate power",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.106",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播权力与领导",
+   "subjectName": "组织传播权力与领导",
+   "publishYear": "2022",
+   "definition": "源于组织中职位赋予或获得职位者在这一职位上所具有的支配力。"
+  },
+  {
+   "cn": "合法用户",
+   "en": "legitimate user",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.244",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "符合图书情报机构服务政策并通过正常渠道执行信息获取行为的个人或团体。"
+  },
+  {
+   "cn": "合法名称",
+   "en": "legitimate name",
+   "source": "植物学名词",
+   "wordNumber": "02.0129",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "符合《国际藻类、真菌和植物命名法规》规定的名称。"
+  },
+  {
+   "cn": "合法权威",
+   "en": "legitimate authority",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0063",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "以组织内部逻辑一致的各种法律法规和得到法律授权的管理人员所发布的命令为基础的权威。"
+  },
+  {
+   "cn": "法定权力",
+   "en": "legitimate power",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0210",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "领导者由于在组织中处于某一职位而获得的权力。"
+  },
+  {
+   "cn": "合法名称",
+   "en": "legitimate name",
+   "source": "微生物学名词",
+   "wordNumber": "02.086",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "符合《国际藻类、真菌和植物命名法规》各项规则的名称，不存在多余名称、晚出同名、较晚的认可名称等问题。"
+  },
+  {
+   "cn": "需求",
+   "en": "demand",
+   "source": "农学名词",
+   "wordNumber": "19.028",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "一定时期内，在每一价格水平下消费者愿意并且能够购买的商品或服务数量。反映了消费者对于某一商品或者服务在不同价格下的需求总量。"
+  },
+  {
+   "cn": "需求",
+   "en": "demand",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.176",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "在一定的时期内，在既定的价格水平下，消费者愿意并且能够购买的商品数量。"
+  },
+  {
+   "cn": "需求",
+   "en": "demand",
+   "source": "经济学名词",
+   "wordNumber": "03.019",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "在一定的时期，在一既定的价格水平下，消费者愿意并且能够购买的商品数量。"
+  },
+  {
+   "cn": "需量",
+   "en": "demand",
+   "source": "电力名词",
+   "wordNumber": "23.101",
+   "subjectFullName": "电力_配电与用电",
+   "subjectName": "配电与用电",
+   "publishYear": "2020",
+   "definition": "电力供应的量值,以kW或kVA表示。"
+  },
+  {
+   "cn": "需求",
+   "en": "demand",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0545",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "在一定的时期和某一既定的价格水平下，消费者愿意并且能够购买的商品数量。"
+  },
+  {
+   "cn": "需求",
+   "en": "demand",
+   "source": "数学名词",
+   "wordNumber": "011.0548",
+   "subjectFullName": "数学_运筹学_库存论·存储论",
+   "subjectName": "库存论?存储论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最后合法航次",
+   "en": "legitimate last vayage",
+   "source": "航海科技名词",
+   "wordNumber": "13.0152",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "碱度",
+   "en": "basicity",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.120",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接与钎焊材料",
+   "subjectName": "焊接与钎焊材料",
+   "publishYear": "2021",
+   "definition": "表征熔渣碱性强弱程度的量。"
+  },
+  {
+   "cn": "基础研究",
+   "en": "basic study,basic research",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_基础研究",
+   "subjectName": "基础研究",
+   "publishYear": "2019",
+   "definition": "为获得营养素关于现象和可观察事实的基本原理及新知识而进行的实验性和理论性工作。"
+  },
+  {
+   "cn": "主变速器",
+   "en": "basic gearbox,basic transmission",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.075",
+   "subjectFullName": "机械工程_汽车_底盘_手动变速器",
+   "subjectName": "手动变速器",
+   "publishYear": "2013",
+   "definition": "组合式变速器中对常用变速器的称谓。"
+  },
+  {
+   "cn": "需求管理",
+   "en": "demand management",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.039",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "从需求获取开始，贯穿于整个项目生命周期，力图实现最终产品同需求的最佳结合的管理方法。包括进行系统开发要做和必须做的每件事，指明了应该提供的功能和必然受到的制约。 "
+  },
+  {
+   "cn": "需求链",
+   "en": "demand chain",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.197",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "以消费需求为核心的供应链研究方法，用于解决价值链中市场、销售和服务的需求，并包含了用户需求或供应链的市场需求等因素。"
+  },
+  {
+   "cn": "需求弹性",
+   "en": "demand flexibility",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.145",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "需求量相对价格变化做出的反应程度，即某种商品价格上升或下降百分之一时，对该商品需求量增加或减少的百分比。"
+  },
+  {
+   "cn": "合法化",
+   "en": "legitimation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "合法名称",
+   "en": "legitimate name",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合法经营",
+   "en": "legitimate operation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合法权利",
+   "en": "legitimate right",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合法收入",
+   "en": "legitimate income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合理的索赔",
+   "en": "legitimate claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最后合法航次",
+   "en": "legitimate last voyage",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地面可蒸散",
+   "en": "atmospheric demand",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "需氧量",
+   "en": "oxygen demand",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "贷款需求",
+   "en": "loan demand",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海外需求",
+   "en": "overseas demand",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "核定税款",
+   "en": "tax demand",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "活期贷款",
+   "en": "demand loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币需求",
+   "en": "money demand",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "即期汇票",
+   "en": "demand bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "即期汇票",
+   "en": "demand draft",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "即期票据",
+   "en": "demand note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "即期债务",
+   "en": "demand obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "即期支票",
+   "en": "demand check",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "见票即付",
+   "en": "on demand",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position\",\"basic stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基础标准",
+   "en": "Basic Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本动作",
+   "en": "basic movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准化基础",
+   "en": "Standardization Basics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律基础",
+   "en": "Legal Basics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "服务需求池",
+   "en": "service demand pool",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "顾客需求链",
+   "en": "customer demand chain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随需调度",
+   "en": "on-demand scheduling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "按需学习",
+   "en": "learning on demand",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "按需共享",
+   "en": "on-demand sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合法性危机",
+   "en": "legitimation crisis",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.8",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "晚期资本主义文化范式无法充分阐述和容纳政治行动的意义而面临的一种价值危机。这种危机不具有根本的颠覆性质，可以经由制度改良而获得解决。德国学者尤尔根•哈贝马斯率先提出的概念。"
+  },
+  {
+   "cn": "需求",
+   "en": "demand",
+   "source": "马克思主义",
+   "wordNumber": "02.0022",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "从质上看，需求是有支付能力的需要。从量上看，需求是社会所要求的商品量，也就是社会能够按市场价值支付的商品量。总需求则等于这同一种商品的买者或消费者（包括个人消费和生产消费）的总和, 即全体消费者对某种"
+  },
+  {
+   "cn": "健康需求",
+   "en": "health demand",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.1",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求",
+   "subjectName": "健康需求",
+   "publishYear": "2025",
+   "definition": "在一定时期内，通过投入时间、金钱、物品等成本，人们在实现效用最大化过程中能够获得或者保持的身体、精神和社会适应健康的数量。"
+  },
+  {
+   "cn": "诱导需求",
+   "en": "induced demand",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.4",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "由于供需双方信息不对称，医疗卫生服务的提供者在代表消费者作出消费选择时，可能会受到自身经济利益的影响而产生的需求。"
+  },
+  {
+   "cn": "药品需求",
+   "en": "drug demand",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.2.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品市场",
+   "subjectName": "药品市场",
+   "publishYear": "2025",
+   "definition": "消费者在一定时期、一定价格水平下愿意购买且能够购买的药品数量。"
+  },
+  {
+   "cn": "需求分析",
+   "en": "demand analysis",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "针对特定妇幼卫生健康服务、产品或干预项目，通过调查以了解服务提供者和服务对象的具体需求、预期结果和实现途径的方法。"
+  },
+  {
+   "cn": "健康需求",
+   "en": "health demand",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.058",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "个体或群体为了达到、维持或恢复一种理想的健康状态所需的各种资源、服务、支持和条件。包括健康需要转化而来的健康需求和没有健康需要的健康需求。"
+  },
+  {
+   "cn": "诱导需求",
+   "en": "induced demand",
+   "source": "社会医学名词",
+   "wordNumber": "8.3.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "在供需双方存在明显信息不对称的情况下，由供方引导或促使需方产生的实际不一定需要的需求。"
+  },
+  {
+   "cn": "基础标准",
+   "en": "basic standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.12",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "以相互理解为编制目的形成的具有广泛适用范围的标准。"
+  },
+  {
+   "cn": "基本人格",
+   "en": "basic personality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0556",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家卡迪纳（Abram Kandiner）提出的概念。他认为，养育儿童的方式在任何一特定社会中，都是相当固定而且标准化的。虽然在某方面有个别差异，但就整体而言，母亲喂奶的时间大致和邻居一样长，"
+  },
+  {
+   "cn": "基础方言",
+   "en": "basic dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0067",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "民族共同语或标准语赖以形成和发展的方言。一般是使用人口众多、通行地域广泛、规范程度高，有较为强大的政治、经济或历史文化影响力的地域的方言。"
+  },
+  {
+   "cn": "晚期资本主义的合法化危机",
+   "en": "legitimation crisis of late capitalism",
+   "source": "马克思主义",
+   "wordNumber": "05.0040",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯批判晚期资本主义的概念，认为社会文化系统无法向政治系统投入必需的群众忠诚和社会认同，直接威胁着系统整合，并从而危及社会整合，晚期资本主义的合法化危机是全面的、普遍的和结构化的整体性危机。"
+  },
+  {
+   "cn": "扩大内需",
+   "en": "increase domestic demand",
+   "source": "马克思主义",
+   "wordNumber": "02.0418",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "政府为克服总需求不足和经济下滑趋势所采取的扩大国内需求的调控政策。一般通过发行国债等积极财政货币政策，启动投资市场；通过信贷等经济杠杆，启动消费市场，以拉动经济增长。扩大内需包括投资需求和消费需求，重"
+  },
+  {
+   "cn": "健康需求模型",
+   "en": "health demand model",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求模型",
+   "subjectName": "健康需求模型",
+   "publishYear": "2025",
+   "definition": "利用人力资本理论来解释人类健康需求和医疗服务需求的经济学模型。"
+  },
+  {
+   "cn": "需求定理",
+   "en": "law of demand ",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.1.5.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "需求量与商品价格之间存在的反向变动关系，即需求量变动的规律。一般情况下，当其他条件不变时，商品价格越高，对该商品的需求量越少，而商品的价格越低，对该商品的需求量越高。"
+  },
+  {
+   "cn": "需求弹性",
+   "en": "elasticity of demand",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "在一定时期内某种商品需求量的变动对其他因素(如价格、收入等)变动的反应程度。可分为需求价格弹性、需求收入弹性、需求交叉弹性等。"
+  },
+  {
+   "cn": "诱导需求理论",
+   "en": "physician-induced Demand",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "用于解释卫生服务供给方向需求方推荐过多额外服务，需求方利用更多服务的理论。"
+  },
+  {
+   "cn": "健康需求法",
+   "en": "health demand approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.2.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置标准",
+   "subjectName": "卫生资源配置标准",
+   "publishYear": "2025",
+   "definition": "以居民健康服务需求量为基础，分析预测需要的卫生资源种类和数量的一种方法。"
+  },
+  {
+   "cn": "健康需求管理",
+   "en": "health demand management",
+   "source": "社会医学名词",
+   "wordNumber": "7.9",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康需求管理",
+   "publishYear": "2025",
+   "definition": "帮助个体选择合适的医疗方式来解决日常生活中健康问题的服务过程。通过提供决策支持和自我管理支持来鼓励人们进行健康维护以及寻求适当的医疗保健，控制健康消费的支出并改善人们对医疗保健服务的利用。"
+  },
+  {
+   "cn": "卫生服务需求",
+   "en": "health service demand",
+   "source": "社会医学名词",
+   "wordNumber": "8.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "从经济和价值观角度出发，在一定时期内、特定价格水平下，人们愿意且有能力消费的卫生服务量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

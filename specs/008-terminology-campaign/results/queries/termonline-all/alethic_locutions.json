@@ -1,0 +1,592 @@
+{
+ "key": "alethic locutions",
+ "term": "alethic locutions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:06:45+00:00",
+ "status": "ok",
+ "note": "variant=alethic locutions; 审定公布名词库=267; 海峡两岸名词对照库=95; 其他来源数据库=8; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "岩屑",
+   "en": "lithic shards;lithic fragment",
+   "source": "地质学名词",
+   "wordNumber": "04.03.118",
+   "subjectFullName": "地质学_火成岩岩石学_岩石结构、构造",
+   "subjectName": "岩石结构、构造",
+   "publishYear": "2026",
+   "definition": "火山活动所生成的岩石碎屑。包括先期已固结的火山岩、火山通道和基底岩石的碎屑，还有喷出时尚未固结或未完全固结的岩浆碎块。以其形态可分为刚性岩屑、半塑性岩屑和塑性岩屑。"
+  },
+  {
+   "cn": "故障定位",
+   "en": "fault locations",
+   "source": "电力名词",
+   "wordNumber": "06.143",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "基于所获得的故障信息估算故障发生位置的方法,如用距离继电器得到的阻值计算故障位置。"
+  },
+  {
+   "cn": "选址",
+   "en": "location",
+   "source": "风景园林名词",
+   "wordNumber": "07.0073",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "建筑物或建筑群的建造地点的选择。景观环境中的选址既要考虑与地形地貌相结合，也要考虑人文背景，应通过对环境影响综合评估进行判断。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "经济学名词",
+   "wordNumber": "08.007",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "某一经济主体为其社会经济活动所占有的场所（如工业区位、居住区位、城市区位等）。经济区位的实质是反映不同的地理坐标（空间位置）所标识的经济利益差别。"
+  },
+  {
+   "cn": "选址",
+   "en": "location",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0671",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "对应对突发事件的资源等的地址进行论证和决策的过程。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "建筑学名词",
+   "wordNumber": "07.0199",
+   "subjectFullName": "建筑学_城乡规划_详细规划",
+   "subjectName": "详细规划",
+   "publishYear": "2014",
+   "definition": "城市或建设项目、设施的位置与其他城市、建设项目、设施等空间要素的关系。是影响城市和区域发展的基础性因素。"
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "source": "建筑学名词",
+   "wordNumber": "09.0006",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "场地或建筑物、构筑物等所在或所占的地方。"
+  },
+  {
+   "cn": "公司总部区位",
+   "en": "headquarter location,HQ location",
+   "source": "地理学名词",
+   "wordNumber": "18.131",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "公司总部所在地。在公司空间结构和治理中起关键作用。"
+  },
+  {
+   "cn": "岩屑凝灰岩",
+   "en": "lithic tuff",
+   "source": "地质学名词",
+   "wordNumber": "04.04.380",
+   "subjectFullName": "地质学_火成岩岩石学_岩石类型",
+   "subjectName": "岩石类型",
+   "publishYear": "2026",
+   "definition": "凝灰岩的一种主要类型。岩屑凝灰结构，岩屑为含量最多的火山碎屑物，其次为晶屑和玻屑，岩屑的成分以同源岩为主，还有少量的围岩及基底岩石。依晶屑矿物组合及次要的火山碎屑来进一步详细命名，如安山质晶屑岩屑凝灰"
+  },
+  {
+   "cn": "岩屑砂岩",
+   "en": "lithic sandstone",
+   "source": "地质学名词",
+   "wordNumber": "05.04.028",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩岩石类型",
+   "subjectName": "沉积岩岩石类型",
+   "publishYear": "2026",
+   "definition": "碎屑中岩屑含量＞25%的砂岩。岩屑多为隐晶质的岩石，如喷出岩、板岩、千枚岩、粉砂岩、泥页岩及隐晶质碳酸盐岩等，属不稳定且成熟度低的组分。当岩石杂基的含量＞15%时，则称为岩屑杂砂岩；当碎屑中石英含量＞"
+  },
+  {
+   "cn": "石质角砾岩",
+   "en": "lithic breccia",
+   "source": "地质学名词",
+   "wordNumber": "06.05.074",
+   "subjectFullName": "地质学_变质岩岩石学_变质岩岩石类型",
+   "subjectName": "变质岩岩石类型",
+   "publishYear": "2026",
+   "definition": "撞击坑内及其底面以下受冲击波影响而不同程度破裂的角砾岩。角砾多是准原地的靶区岩石,基质为靶区岩石的碎粉，是陨击变质岩中, 变质程度最低的一种。"
+  },
+  {
+   "cn": "乙酸",
+   "en": "acetic acid",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.117",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "化学式为<img src='/root/syzx/static/spz/huagongII1.02.117.01.png'/>,主要由生物发酵或甲醇羰基合成制得，用于生产乙酸乙烯单体、精对苯二甲酸、乙"
+  },
+  {
+   "cn": "阿尔泰语系",
+   "en": "Altaic family",
+   "source": "语言学名词",
+   "wordNumber": "13.086",
+   "subjectFullName": "语言学_民族语言学_阿尔泰语系",
+   "subjectName": "阿尔泰语系",
+   "publishYear": "2011",
+   "definition": "按谱系分类法划分的一个语系。包括突厥、蒙古、满—通古斯3个语族。主要分布在中国、土耳其、蒙古、俄罗斯、伊朗、阿富汗以及东欧的一些国家。属黏着语。没有声调，但有固定重音，有元音和谐律。名词有格的语法范畴"
+  },
+  {
+   "cn": "石质接触面",
+   "en": "lithic contact",
+   "source": "土壤学名词",
+   "wordNumber": "02.201",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "土壤与其下垫的莫氏硬度≥3的坚硬岩石或石块之间的界面层。"
+  },
+  {
+   "cn": "乙酸",
+   "en": "acetic acid",
+   "source": "石油名词",
+   "wordNumber": "07.0144",
+   "subjectFullName": "石油_石油化工_石油化工产品与中间体",
+   "subjectName": "石油化工产品与中间体",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "乙酸酐",
+   "en": "acetic anhydride",
+   "source": "石油名词",
+   "wordNumber": "07.0145",
+   "subjectFullName": "石油_石油化工_石油化工产品与中间体",
+   "subjectName": "石油化工产品与中间体",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "[火山]岩屑",
+   "en": "lithic pyroclast",
+   "source": "地质学名词",
+   "wordNumber": "05.127",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "岩屑砂岩",
+   "en": "lithic sandstone",
+   "source": "地质学名词",
+   "wordNumber": "05.385",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "震中位置",
+   "en": "epicentral location; epicenter location",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0416",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "震源在地面投影的位置。 "
+  },
+  {
+   "cn": "纸上定线",
+   "en": "paper location,paper location ofline",
+   "source": "土木工程名词",
+   "wordNumber": "08.133",
+   "subjectFullName": "土木工程_铁路工程_铁路设计",
+   "subjectName": "铁路设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[存储]位置",
+   "en": "location",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "总部区位",
+   "en": "headquarter location\",\"HQ location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "乙酸",
+   "en": "acetic acid",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "岩屑",
+   "en": "lithic pyroclast",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "乙酸",
+   "en": "acetic acid",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "乙酸酐",
+   "en": "acetic anhydride",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "石生群落",
+   "en": "lithic community",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position\",\"location",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "厂址",
+   "en": "plant location",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "位置恒常性",
+   "en": "location constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "工业区位",
+   "en": "industrial location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "交通区位",
+   "en": "traffic location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "经济区位",
+   "en": "economic location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "居住区位",
+   "en": "residential location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "绝对区位",
+   "en": "absolute location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "农业区位",
+   "en": "agricultural location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位比",
+   "en": "location rate",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位地租",
+   "en": "location rent",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "基于位置的社交网络",
+   "en": "location-based social network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "箭着位置",
+   "en": "location of the arrows",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《为妇女推出数字金融解决方案》",
+   "en": "Digital Financial Solutions to Advance Women’s Economic Participation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人相处的各种道德准则及规范的理论或道理。"
+  },
+  {
+   "cn": "阿尔泰语系",
+   "en": "Altaic family",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0295",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "按谱系分类法划分的一个语系。包括突厥、蒙古、满-通古斯3 个语族，但对这三个语族是否有亲缘关系有不同意见。主要分布在中国、土耳其、蒙古国、俄罗斯、伊朗、阿富汗以及中亚的一些国家。"
+  },
+  {
+   "cn": "人伦",
+   "en": "human ethic",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "人们在社会中按年龄、智力、职业等分工而建立的社会秩序以及由此产生的彼此关系以及对关系的道德准则。也指父子、君臣、长幼、夫妇、朋友等“五伦”，为中国传统社会包含了血缘、文化、政治关系的总括和道德准则。"
+  },
+  {
+   "cn": "土地伦理",
+   "en": "land ethic",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.13",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "一种处理人与土地，以及人与土地上生长的动物和植物之间关系的伦理观，当一个事物有助于保护生物共同体的和谐、稳定和美丽的时候，它就是正确的，当它走向反面时，就是错误的。目的是要把人类在共同体中以征服者面目"
+  },
+  {
+   "cn": "程序伦理",
+   "en": "procedural ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.054",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "关注道德决策的过程、方法和程序的正当性，探讨“如何公正地做出道德决定？”的伦理学理论。"
+  },
+  {
+   "cn": "实质伦理",
+   "en": "substantive ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.053",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "关注具体道德原则、价值标准和行为规范的内容及其正当性依据，通过具体的道德准则来判断行为的善恶、责任或义务，探讨“什么是对的或好的”的伦理学理论。"
+  },
+  {
+   "cn": "契约伦理",
+   "en": "contract ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.061",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "按契约履行责任义务，并对违约承担道德后果的伦理规范和要求。是市场经济高度发展的产物。"
+  },
+  {
+   "cn": "卤代乙酸",
+   "en": "halogenated acetic acid",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.8.6",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "由含氯消毒剂与水中的某些化合物反应生成的可致癌致畸的消毒副产物。"
+  },
+  {
+   "cn": "伦理本位社会",
+   "en": "ethic-centered society",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会以伦理关系为主轴来构造社会组织、约束经济政治行为的概念。根据梁漱溟的观点，具体而言，在社会方面重视人与人之间的关系，以情义为礼俗之核心，以礼俗为社会秩序维持的手段。在经济方面，夫妇、父子共"
+  },
+  {
+   "cn": "伦理守则",
+   "en": "code of ethic",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "明确制定出来以规范群体成员相关行为的准则。在社会工作领域，职业相关团体组织定期发布该类守则，如中国民政部发布的《社会工作者职业道德规范》。"
+  },
+  {
+   "cn": "矛盾性阶级位置",
+   "en": "contradictory class location",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "中产阶级处于资产阶级与无产阶级之间的位置。由美国新马克思主义阶级分析理论家赖特提出，是新马克思主义中产阶级理论的一个核心概念。"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "醋酸染色裸眼观察",
+   "en": "visual inspection with acetic acid, VIA",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "为宫颈癌筛查的初筛方法之一。通过在子宫颈表面涂抹5%醋酸溶液，观察子宫颈有无醋白反应，来判断子宫颈有无病变及病变程度。"
+  },
+  {
+   "cn": "燃料破损检测系统",
+   "en": "fuel rupture detection [location] system",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.4",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "监测反应堆燃料元件破损的系统。"
+  },
+  {
+   "cn": "伤部伤类双向构成比",
+   "en": "bidirectional proportion for locations and types of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员负伤部位和种类交叉观察，某部位和某种伤类伤员数占伤员总数的百分比，用以深入分析伤员负伤部位和伤类情况，为军政指挥员和卫勤领导改进装备、组织救治提供依据。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

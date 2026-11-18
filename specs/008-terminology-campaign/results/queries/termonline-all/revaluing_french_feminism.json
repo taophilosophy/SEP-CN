@@ -1,0 +1,782 @@
+{
+ "key": "revaluing french feminism",
+ "term": "Revaluing French Feminism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:19:03+00:00",
+ "status": "ok",
+ "note": "variant=Revaluing French Feminism; 审定公布名词库=1417; 海峡两岸名词对照库=801; 其他来源数据库=54; 预公布名词数据库=68; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "女性主义",
+   "en": "feminism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.202",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "通过批判大众传播中对女性的偏见和传播体制中的男性中心主义，争取女性平等权利的理论主张。"
+  },
+  {
+   "cn": "男性女性化",
+   "en": "feminization",
+   "source": "男科及性医学名词",
+   "wordNumber": "12.004",
+   "subjectFullName": "男科及性医学_性发育疾病",
+   "subjectName": "性发育疾病",
+   "publishYear": "2023",
+   "definition": "各种原因导致的男性个体出现女性第二性征的异常发育。"
+  },
+  {
+   "cn": "女性化",
+   "en": "feminization",
+   "source": "医学名词 第六分册",
+   "wordNumber": "04.885",
+   "subjectFullName": "医学_泌尿外科学",
+   "subjectName": "泌尿外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "女性化",
+   "en": "feminization",
+   "source": "医学名词 第一分册",
+   "wordNumber": "06.347",
+   "subjectFullName": "医学_内分泌病学",
+   "subjectName": "内分泌病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "生态女性主义",
+   "en": "eco-feminism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.240",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "最早由法国女性主义者弗朗西丝娃·德·奥波妮（Francoise d’Eaubonne）在1974年《女性主义·毁灭》一文中提出。是妇女解放运动和生态运动相结合的产物。从性别角度切入生态问题，认为生态危"
+  },
+  {
+   "cn": "女性化综合征",
+   "en": "feminizing syndrome",
+   "source": "医学名词 第六分册",
+   "wordNumber": "04.887",
+   "subjectFullName": "医学_泌尿外科学",
+   "subjectName": "泌尿外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "睾丸女性化",
+   "en": "testicular feminization",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.388",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "法属印度支那",
+   "en": "French Indochina",
+   "source": "世界历史名词",
+   "wordNumber": "01.0546",
+   "subjectFullName": "世界历史_综合_国家集团、国际组织",
+   "subjectName": "国家集团、国际组织",
+   "publishYear": "2012",
+   "definition": "法国殖民统治下的印度支那地区。"
+  },
+  {
+   "cn": "法国大革命",
+   "en": "French Revolution",
+   "source": "世界历史名词",
+   "wordNumber": "03.0458",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1789年，在法国爆发的资产阶级革命。"
+  },
+  {
+   "cn": "法兰西帝国",
+   "en": "French Empire",
+   "source": "世界历史名词",
+   "wordNumber": "01.0544",
+   "subjectFullName": "世界历史_综合_国家集团、国际组织",
+   "subjectName": "国家集团、国际组织",
+   "publishYear": "2012",
+   "definition": "20世纪中叶之前包括法国本土及其海外殖民地在内组成的殖民帝国。"
+  },
+  {
+   "cn": "法兰西联邦",
+   "en": "French Union",
+   "source": "世界历史名词",
+   "wordNumber": "01.0542",
+   "subjectFullName": "世界历史_综合_国家集团、国际组织",
+   "subjectName": "国家集团、国际组织",
+   "publishYear": "2012",
+   "definition": "为改变旧殖民帝国形象，根据法国1946年宪法成立的法国本土以及殖民地在内的政治实体。"
+  },
+  {
+   "cn": "自由法国运动",
+   "en": "Free French",
+   "source": "世界历史名词",
+   "wordNumber": "03.0549",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1940年6月，法国战败投降后，戴高乐领导的法国民族抵抗运动。"
+  },
+  {
+   "cn": "法兰西行动组织",
+   "en": "French Action",
+   "source": "世界历史名词",
+   "wordNumber": "03.0544",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1898年，德雷福斯案件期间成立的法国极端种族主义组织，1928年被教会宣布为“异端”。"
+  },
+  {
+   "cn": "法兰西共同体",
+   "en": "French Community",
+   "source": "世界历史名词",
+   "wordNumber": "01.0543",
+   "subjectFullName": "世界历史_综合_国家集团、国际组织",
+   "subjectName": "国家集团、国际组织",
+   "publishYear": "2012",
+   "definition": "原为法国同它的殖民地组成的“法兰西联邦”。在民族解放运动的冲击下，法国1958年宪法将其改为“法兰西共同体”。"
+  },
+  {
+   "cn": "睾丸女性化综合征",
+   "en": "testicular feminization syndrome",
+   "source": "整形外科名词",
+   "wordNumber": "20.058",
+   "subjectFullName": "整形外科_会阴部整形_性发育异常与易性症",
+   "subjectName": "性发育异常与易性症",
+   "publishYear": "2026",
+   "definition": "染色体核型为“46, XY”，由雄激素受体基因缺陷导致的先天性遗传性疾病。属于X连锁隐性遗传性代谢性疾病。表现为完全女性化性征，包括胸部发育，腋毛和阴毛减少，外生殖器为明显的女性型，但阴道较短并有盲管"
+  },
+  {
+   "cn": "睾丸雌性化综合征",
+   "en": "testicular feminization syndrome",
+   "source": "兽医学名词",
+   "wordNumber": "01.145",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "雌性化的一种雄性假两性畸形。具有正常的雄性染色体,且有睾丸,但体形与外生殖器的表现型为雌性。"
+  },
+  {
+   "cn": "睾丸女性化综合征",
+   "en": "testicular feminization syndrome",
+   "source": "医学名词 第六分册",
+   "wordNumber": "04.888",
+   "subjectFullName": "医学_泌尿外科学",
+   "subjectName": "泌尿外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "女性化肾上腺瘤",
+   "en": "feminizing adrenal tumor",
+   "source": "医学名词 第一分册",
+   "wordNumber": "06.233",
+   "subjectFullName": "医学_内分泌病学",
+   "subjectName": "内分泌病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "弗氏细胞压碎器",
+   "en": "French cell press",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0008",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_分散与简单分离",
+   "subjectName": "分散与简单分离",
+   "publishYear": "2024",
+   "definition": "一种用于破碎细胞和制备无细胞提取物的商品化装置。细胞悬液置于高压下强力挤出小孔，压力突然降低以及剪切力的作用导致细胞爆裂破碎。"
+  },
+  {
+   "cn": "矮小鸡",
+   "en": "French dwarf chicken",
+   "source": "畜牧学名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "畜牧学_家畜家禽品种_鸡品种_引入鸡品种",
+   "subjectName": "引入鸡品种",
+   "publishYear": "2020",
+   "definition": "属肉鸡专门化品系。体型矮小。羽毛黄色。单冠，冠、肉髯、耳叶红色。喙褐黄色。胫、皮肤黄色。原产于法国。"
+  },
+  {
+   "cn": "[货币]贬值",
+   "en": "downward revaluation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币升值",
+   "en": "revaluation of currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "睾丸女性化",
+   "en": "testicular feminization",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "法国组曲",
+   "en": "French Suites",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bach, Johann Sebastian"
+  },
+  {
+   "cn": "法国序曲",
+   "en": "French overture",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法国六和弦",
+   "en": "French sixth",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法国学派",
+   "en": "French school",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "睾丸女性化综合征",
+   "en": "testicular feminization syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "法国号",
+   "en": "French horn\",\"horn",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "弗氏细胞压碎器, 均质机",
+   "en": "French cell press",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "法制米尺",
+   "en": "French legal meter",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "法美联合大洋中部海下研究",
+   "en": "French-American Mid-Ocean Undersea Study\",\"FAMOUS",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "女权主义地理学",
+   "en": "feminist geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "回转筛",
+   "en": "revolving screen",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "循环信贷",
+   "en": "revolving credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "周转基金",
+   "en": "revolving fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "立运仪",
+   "en": "vertinal revolving instrument",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "非循环信用证",
+   "en": "non-revolving credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "循环信贷协议",
+   "en": "revolving credit agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "循环信贷账户",
+   "en": "revolving credit account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法式剑柄",
+   "en": "French grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性别检查",
+   "en": "feminity control\",\"gender test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法国标准化协会",
+   "en": "French Standardization Association (AFNOR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抛靶壕",
+   "en": "trap trench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多向飞碟",
+   "en": "Olympic trench\",\"trap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员席",
+   "en": "bench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击剑",
+   "en": "fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员席",
+   "en": "bench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "栅栏",
+   "en": "fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员席",
+   "en": "bench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外场屏障",
+   "en": "fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击剑",
+   "en": "fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员席",
+   "en": "bench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员席",
+   "en": "bench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员席",
+   "en": "bench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪栓",
+   "en": "breech bolt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "障碍",
+   "en": "fence\",\"hoarding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女性主义",
+   "en": "feminism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "20世纪中叶兴盛于西方社会的一种反主流文化思潮。包含两个层面：首先是一种社会运动和政治取向，主张两性平等和争取女性的自主权；其次是一种理论和价值体系，试图描述和解释造成性别不平等的原因，并从女性经验和"
+  },
+  {
+   "cn": "女权主义",
+   "en": "feminism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "20世纪70-80年代福利思想界女权主义产生，对早期福利国家主流社会政策的批判，认为女性的需要和作用被忽视和边缘化，女性作为无报酬的社会和家庭的贡献者对社会福利很重要，由此催生社会服务。"
+  },
+  {
+   "cn": "女权主义",
+   "en": "feminism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.156",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "争取女性解放，主张女性与男性拥有平等的社会、道德、法律地位和权利的伦理学学说。"
+  },
+  {
+   "cn": "女权主义",
+   "en": "feminism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0215",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "近代资产阶级启蒙思想运动和妇女解放运动的产物，提倡妇女在人类生活所有领域与男子具有同等权利。"
+  },
+  {
+   "cn": "法兰西人",
+   "en": "French",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0269",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "（1）法国民族之一。由高卢人、伊比利亚人、利古里亚人、罗马人和日耳曼人中的西哥特人、勃艮第人、法兰克人等长期混血而成。使用法语，属印欧语系罗曼语族，多信天主教。（2）欧洲现代民族。拥有法兰西共和国国籍"
+  },
+  {
+   "cn": "自由女性主义",
+   "en": "liberal feminism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.2",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "女性主义中较为温和的一个流派，认为性别不平等的原因在于启蒙时代所倡导的自由平等公正等基本理念在实践中未能贯彻到底。主张主张让更多女性加入现存体制，以消除性别歧视与偏见，将性别平等纳入决策主流。"
+  },
+  {
+   "cn": "激进女性主义",
+   "en": "radical feminism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "女性主义中较为激进的一个流派，认为父权制是造成女性从属地位的主要原因，它建立在男人对女人的性控制的基础之上。主张女性只有通过姐妹情谊联合起来，摧毁这种性别等级制，才能实现解放的目标。"
+  },
+  {
+   "cn": "后现代女性主义",
+   "en": "postmodern feminism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "女性主义中批判现有体制最彻底的一个流派，主张消解一切可能带来剥削和压制的普适性概念和意识形态，包括性别和女性。认为不存在统一的所谓女性，只有来自不同种族、阶级和文化的多元化的女性群体，她们支离破碎的经"
+  },
+  {
+   "cn": "国家女权主义",
+   "en": "state feminism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "以国家或政府为主要力量推进妇女解放和性别平等。在中国特指由国家推动的妇女解放运动，主要描述社会主义国家父权与妇女解放同时并存的悖论性图景。"
+  },
+  {
+   "cn": "女性人类学",
+   "en": "feminism anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0214",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的一个分支学科。在后现代思潮影响下，尤其是在20 世纪70 年代反思人类学的影响下，以女性视角展开人类学研究，尝试对文化人类学（民族学）潜在的男性中心主义进行解构的一种研究取向。"
+  },
+  {
+   "cn": "农业的女性化",
+   "en": "feminization of agriculture",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "男性外出务工后家中农活主要由妻子、母亲、婆婆等留守妇女承担，从而使女性成为从事农业劳动的主要群体的现象，被认为是人口流动时代农村家庭新的性别分工模式即所谓“男工女耕”的结果，也加剧了贫困的女性化。"
+  },
+  {
+   "cn": "法国工人六月革命",
+   "en": "French workers June revolution",
+   "source": "马克思主义",
+   "wordNumber": "04.0213",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年6月23日至26日巴黎无产阶级反对资产阶级临时政府的武装起义。从23日开始4万多巴黎起义工人与25万政府军、别动队及国民自卫军展开激烈的巷战，英勇奋斗4天后被镇压。马克思称这次起义为“现代社"
+  },
+  {
+   "cn": "法国医院改革法",
+   "en": "French hospital reform law",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.2.4",
+   "subjectFullName": "",
+   "subjectName": "国际卫生系统改革",
+   "publishYear": "2025",
+   "definition": "建立大区高校医院、大区医院、中心医院和基层医院（包括社区医院、农村医院和护理院）等医疗服务供应体系以及以此为基础的区域卫生规划和医院集团化管理体系。"
+  },
+  {
+   "cn": "法国里昂工人起义",
+   "en": "French Workers Uprising in Lyon",
+   "source": "马克思主义",
+   "wordNumber": "04.0209",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代，法国里昂纺织工人不满资产阶级残酷压迫，于1831年和1834年举行了两次起义，提出了“不共和毋宁死！”等口号。虽然起义最后失败，但揭开了国际工人运动史新篇章，是工人阶级登上政治舞台的"
+  },
+  {
+   "cn": "法国工人党第十次代表大会",
+   "en": "Tenth Congress of the French Workers Party",
+   "source": "马克思主义",
+   "wordNumber": "04.0477",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1892年9月24日至28日在马赛举行了法国工人党第十次代表大会。大会研究了关于农村工作、党的状况和党的活动、庆祝五一节、参加1893年苏黎世国际社会主义者代表大会、参加即将举行的议会选举等问题。代表"
+  },
+  {
+   "cn": "法国工人党圣亚田代表大会",
+   "en": "St Etienne Congress of the French Workers Party",
+   "source": "马克思主义",
+   "wordNumber": "04.0484",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1882年9月25日在圣亚田召开的法国工人党例行代表大会上，党的右翼的拥护者（可能派）在代表资格证上耍尽种种诡计从而取得了多数，大会发生了分裂。马克思派小组（盖得派）退出大会，并于9月26日聚会于罗昂"
+  },
+  {
+   "cn": "家族主义",
+   "en": "familism",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.40",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会以家族为核心的社会组织方式、行为方式和价值体系。从心理学上看，家族主义是个人对自己所属家族所持有的一套复杂的心理态度和行为，这种有组织的心理和行为可以分为不同层次，经由个人成长经历的家庭教"
+  },
+  {
+   "cn": "列宁主义",
+   "en": "Leninism",
+   "source": "马克思主义",
+   "wordNumber": "03.0256",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁主义是帝国主义和无产阶级革命时代的马克思主义，是马克思主义同经济文化相对落后的俄国的工人运动和革命实际相结合的产物，它在哲学、政治经济学、科学社会主义等领域全面发展了马克思主义。"
+  },
+  {
+   "cn": "女性主义社会学",
+   "en": "feminist sociology",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性研究与社会学专业的融合，倡导从社会性别视角和女性经验立场出发，检讨传统社会学中的性别盲点和误区，对其男性中心的理论框架和方法论原则进行批判，并建构具有女性主义意识的社会学知识和方法论体系。"
+  },
+  {
+   "cn": "女性主义方法论",
+   "en": "feminist methodology",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义倡导的一种以社会性别为核心概念、植根于女性日常生活经验的批判性的研究视角和立场。在研究程序上强调知识的反身性和情境化，在具体方法上主张多元化和包容性，在研究目标上则推崇服务于弱势性别群体的价值"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

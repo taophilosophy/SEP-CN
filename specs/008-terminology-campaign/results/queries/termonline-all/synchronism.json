@@ -1,0 +1,562 @@
+{
+ "key": "synchronism",
+ "term": "synchronism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:12:26+00:00",
+ "status": "ok",
+ "note": "variant=synchronism; 审定公布名词库=364; 海峡两岸名词对照库=131; 其他来源数据库=14; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "同步",
+   "en": "synchronism,synchronization",
+   "source": "电子学名词",
+   "wordNumber": "03.274",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同步[性]",
+   "en": "synchronism",
+   "source": "物理学名词",
+   "wordNumber": "06.0046",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同步",
+   "en": "synchronism",
+   "source": "电气工程名词",
+   "wordNumber": "01.103",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "同时性",
+   "en": "synchronism",
+   "source": "地质学名词",
+   "wordNumber": "02.050",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谐摇",
+   "en": "synchronous rolling,synchronism",
+   "source": "航海科技名词",
+   "wordNumber": "09.0124",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "同步化",
+   "en": "synchronization",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.16",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "自然地或人为地使培养细胞都处于细胞分裂周期中的同一阶段。分为两种：①自然界存在的细胞周期同步过程，称为自然同步化。②通过人工选择或人工诱导产生的细胞周期同步过程，称为人工同步化。"
+  },
+  {
+   "cn": "同步化",
+   "en": "synchronization",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.228",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_细胞工程_动物细胞工程",
+   "subjectName": "动物细胞工程",
+   "publishYear": "2021",
+   "definition": "使培养物中所有细胞都处于细胞周期的相同阶段的技术。"
+  },
+  {
+   "cn": "同步化",
+   "en": "synchronization",
+   "source": "生理学名词",
+   "wordNumber": "03.804",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同期并列",
+   "en": "synchronization",
+   "source": "电力名词",
+   "wordNumber": "05.236",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "将两个达到同步条件(用准同步或自同步的方法)的交流电源并网运行。"
+  },
+  {
+   "cn": "同步器",
+   "en": "synchronizer",
+   "source": "电力名词",
+   "wordNumber": "10.274",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "可在一定范围内平移调节系统静态特性曲线,以整定汽轮发电机组转速或改变负荷的装置。"
+  },
+  {
+   "cn": "同步",
+   "en": "synchronization",
+   "source": "物理学名词",
+   "wordNumber": "11.0513",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同步化",
+   "en": "synchronization",
+   "source": "生物物理学名词",
+   "wordNumber": "04.283",
+   "subjectFullName": "生物物理学_神经生物物理学_脑高级功能",
+   "subjectName": "脑高级功能",
+   "publishYear": "2018",
+   "definition": "当大脑皮质的神经元活动趋向步调一致时，脑电图出现低频高幅慢波化的状态。"
+  },
+  {
+   "cn": "同步",
+   "en": "synchronization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0323",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "在一个系统中所发生的事件之间进行协调，时间上保持一致性与统一化的现象。"
+  },
+  {
+   "cn": "同步化",
+   "en": "synchronization",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "02.097",
+   "subjectFullName": "组织学与胚胎学_组织学_细胞",
+   "subjectName": "细胞",
+   "publishYear": "2014",
+   "definition": "借助某种实验手段，使细胞群体中处于细胞周期不同时相的细胞停留在同一时相的现象与技术。"
+  },
+  {
+   "cn": "同步器",
+   "en": "synchronizer",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0250",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_气轮机_结构和辅助装置",
+   "subjectName": "结构和辅助装置",
+   "publishYear": "2013",
+   "definition": "可在一定范围内平移调节系统静态特性曲线，以整定机组转速或改变负荷的装置。"
+  },
+  {
+   "cn": "同步器",
+   "en": "synchronizer",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0731",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_结构和辅机",
+   "subjectName": "结构和辅机",
+   "publishYear": "2013",
+   "definition": "可在一定范围内平移调节系统的静态特性曲线，以整定机组转速或改变负荷的装置。"
+  },
+  {
+   "cn": "同步器",
+   "en": "synchronizer",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.078",
+   "subjectFullName": "机械工程_汽车_底盘_手动变速器",
+   "subjectName": "手动变速器",
+   "publishYear": "2013",
+   "definition": "使相啮合元件的转速趋于一致的装置。"
+  },
+  {
+   "cn": "同步器",
+   "en": "synchronizer",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "10.040",
+   "subjectFullName": "机械工程_拖拉机_传动系_传动箱",
+   "subjectName": "传动箱",
+   "publishYear": "2013",
+   "definition": "换档时，在其啮合套进入刚性接合前，通过摩擦元件使相啮合件转速趋于一致的装置。"
+  },
+  {
+   "cn": "同步化",
+   "en": "synchronization",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.033",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "借助某种实验手段，使细胞群体中处于细胞周期不同时相的细胞停留在同一时相的现象。"
+  },
+  {
+   "cn": "同步[的]",
+   "en": "synchronous",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.187",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "两个或多个过程在给定的时段之内进行并依赖于特定事件(例如公共的定时信号)的出现的。"
+  },
+  {
+   "cn": "同步性",
+   "en": "synchronism",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同步",
+   "en": "synchronism\",\"synchronization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谐摇",
+   "en": "synchronous rolling\",\"synchronism",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同步化",
+   "en": "synchronization",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "同步化",
+   "en": "synchronization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同步化",
+   "en": "synchronization",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同步化",
+   "en": "synchronization",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同步的",
+   "en": "synchronous",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同步器",
+   "en": "synchronizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同步因子",
+   "en": "synchronizer",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "同步的",
+   "en": "synchronous",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "同步器",
+   "en": "synchronizer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同步性",
+   "en": "synchronism\",\"synchronia",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "时间同步",
+   "en": "time synchronism",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相位同步性",
+   "en": "phase synchronism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同步距离",
+   "en": "synchronic distance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同步卵裂",
+   "en": "synchronous cleavage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "同步培养",
+   "en": "synchronous culture",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同步遥相关",
+   "en": "synchronous teleconnection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同步观测",
+   "en": "synchronous observation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同步性",
+   "en": "synchronism",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同步",
+   "en": "synchronization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同步",
+   "en": "synchronization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同步",
+   "en": "swinging\",\"synchronization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人跳水",
+   "en": "synchronized diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同步得分",
+   "en": "synchronized score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同步赛替补",
+   "en": "reserve synchronized",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "花样游泳",
+   "en": "synchronized swimming",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人10米跳台",
+   "en": "synchronized diving 10m platform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人3米跳板",
+   "en": "synchronized diving 3m springboard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "整体同步并行计算模型",
+   "en": "bulk synchronous parallel (BSP) computing model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共时性",
+   "en": "synchronic",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "把不同历史时段的现象放在相同的分析框架下进行分析的方法。侧重文化现象在某一历史横断面所表现出来的属性，把文化看成一种系统或结构功能性的存在。"
+  },
+  {
+   "cn": "共时语言学",
+   "en": "synchronic linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0006",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。描写与研究一种或多种语言在其发展历史的某一时期的状况。主要学派有描写语言学派，为美国“结构主义流派”和“行为主义”的产生提供了理论基础。共时语言学与历时语言学的分立，标志着语言学从印"
+  },
+  {
+   "cn": "共时变异",
+   "en": "synchronic variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0101",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“历时变异”相对。语言成分在同一时期内受不同社会因素的制约而产生的变异。"
+  },
+  {
+   "cn": "同步式实习",
+   "en": "synchronous fieldwork",
+   "source": "社会学名词",
+   "wordNumber": "4.4.11.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实习",
+   "subjectName": "社会工作实习",
+   "publishYear": "2025",
+   "definition": "实习时间与教学时间一致，实习与其他课程的学习同时进行的社会工作实习时间安排模式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

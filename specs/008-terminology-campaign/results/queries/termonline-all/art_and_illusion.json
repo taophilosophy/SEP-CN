@@ -1,0 +1,712 @@
+{
+ "key": "art and illusion",
+ "term": "Art and Illusion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:16:17+00:00",
+ "status": "ok",
+ "note": "variant=Art and Illusion; 审定公布名词库=10000; 海峡两岸名词对照库=2181; 其他来源数据库=1384; 预公布名词数据库=1063; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "艺术学科",
+   "en": "art",
+   "source": "教育学名词",
+   "wordNumber": "08.083",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。包括音乐、舞蹈、艺术设计等学科。"
+  },
+  {
+   "cn": "艺术",
+   "en": "art",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.186",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "反映当地社会生活，满足人们精神需求的意识形态。"
+  },
+  {
+   "cn": "花艺与盆景",
+   "en": "floral art and bonsai",
+   "source": "风景园林名词",
+   "wordNumber": "10.0046",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育课程之一，讲授内容包括花艺制作、盆景制作等。"
+  },
+  {
+   "cn": "文艺播音",
+   "en": "literature and art broadcast",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.13",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视播音主持",
+   "subjectName": "广播电视播音主持",
+   "publishYear": "2022",
+   "definition": "播音员将文艺性稿件转化为有声语言播出。文艺广播稿件形式多种多样，比较常见的是串连词、解说词和评介稿这三种稿件的有声表达。"
+  },
+  {
+   "cn": "工艺美术厂",
+   "en": "art and craft factory",
+   "source": "建筑学名词",
+   "wordNumber": "02.1000",
+   "subjectFullName": "建筑学_建筑类型及组成_工业建筑",
+   "subjectName": "工业建筑",
+   "publishYear": "2014",
+   "definition": "利用特殊技艺生产具有实用价值和审美双重特性、物质和精神双重属性的造型艺术品(如陶瓷、雕塑、玉器、织锦、刺绣、漆器、玻璃器皿等)的工厂。"
+  },
+  {
+   "cn": "工艺疗法",
+   "en": "art and craft therapy",
+   "source": "物理医学与康复名词",
+   "wordNumber": "03.219",
+   "subjectFullName": "物理医学与康复_康复治疗_作业疗法",
+   "subjectName": "作业疗法",
+   "publishYear": "2014",
+   "definition": "通过工艺劳动促进身心康复的治疗方法。具有训练手的精细功能、手眼协调性和改善情绪的作用。常用的工艺作业有泥塑、编织、美术、雕刻、剪纸等。"
+  },
+  {
+   "cn": "传统技艺",
+   "en": "traditional arts and crafts",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.142",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_名城名镇名村保护规划",
+   "subjectName": "名城名镇名村保护规划",
+   "publishYear": "2021",
+   "definition": "在一定历史背景与文化传统中逐渐形成并传承下来的技术和技能。多指通过世代或民间传授、在实践和经验中所习得积累的专门知识、技术诀窍等。"
+  },
+  {
+   "cn": "艺术与工艺运动",
+   "en": "arts and crafts movement",
+   "source": "建筑学名词",
+   "wordNumber": "03.0342",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "19世纪后半叶起源于英国、影响了欧美的一场设计改良运动。针对工业革命批量生产导致的艺术设计水平下降，力图重建手工艺的价值。受艺术评论家拉斯金(John Ruskin)、建筑师普金(Augustus P"
+  },
+  {
+   "cn": "工艺美术品店",
+   "en": "arts and crafts store",
+   "source": "建筑学名词",
+   "wordNumber": "02.0617",
+   "subjectFullName": "建筑学_建筑类型及组成_商业服务建筑",
+   "subjectName": "商业服务建筑",
+   "publishYear": "2014",
+   "definition": "出售手工工艺装饰品的商店。"
+  },
+  {
+   "cn": "工艺疗法",
+   "en": "arts and crafts therapy",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0282",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "文理学院",
+   "en": "liberal arts college,college of arts and sciences",
+   "source": "教育学名词",
+   "wordNumber": "05.036",
+   "subjectFullName": "教育学_比较教育_美国教育",
+   "subjectName": "美国教育",
+   "publishYear": "2013",
+   "definition": "美国仅设文、理学科的一种高等学校类型。以实施“博雅”教育为主，主要授予学士学位，少数学校在某些基础学科领域亦可授硕士学位或博士学位。亦指综合大学中仅设文理系科的学院。"
+  },
+  {
+   "cn": "大地艺术",
+   "en": "land art",
+   "source": "风景园林名词",
+   "wordNumber": "06.0004",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "20世纪60～70年代始发于美国的一种以大自然为媒介和展现场景的艺术创作形式，艺术与大自然有机结合，富有艺术整体性情景。"
+  },
+  {
+   "cn": "雕刻艺术",
+   "en": "sculpture art",
+   "source": "风景园林名词",
+   "wordNumber": "11.0205",
+   "subjectFullName": "风景园林_风景园林艺术_雕刻艺术",
+   "subjectName": "雕刻艺术",
+   "publishYear": "2025",
+   "definition": "用石膏、树脂、黏土等可塑材料或木材、石料、金属等可雕、可刻的硬质材料，通过雕、刻、塑技法，创造出具有一定空间的可视、可触的艺术形象，借以装饰环境、建筑，反映社会生活，表达主人情感、崇尚理念和追求的造型"
+  },
+  {
+   "cn": "艺术涂料",
+   "en": "art coating",
+   "source": "精细化工名词",
+   "wordNumber": "05.0126",
+   "subjectFullName": "精细化工_涂料_通用涂料",
+   "subjectName": "通用涂料",
+   "publishYear": "2025",
+   "definition": "通过颜色、质感和光泽三要素组合，使涂膜具有艺术性装饰效果的一类墙面装饰性涂料。主要有泥巴涂料、墙艺漆、板岩漆、真石漆、壁纸漆、浮雕漆等类型。"
+  },
+  {
+   "cn": "民间文艺",
+   "en": "folk art",
+   "source": "风景园林名词",
+   "wordNumber": "04.0200",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "劳动者为满足自己的生活和审美需求而创造的文化和艺术，包括工艺美术、音乐、舞蹈和戏曲等多种形式。"
+  },
+  {
+   "cn": "文艺生态学",
+   "en": "art ecology",
+   "source": "风景园林名词",
+   "wordNumber": "12.0105",
+   "subjectFullName": "风景园林_风景园林生态_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2025",
+   "definition": "从人、自然、社会、文化等各种变量关系中，研究文艺的产生、分布以及发展规律的一门学科。"
+  },
+  {
+   "cn": "艺术地坪",
+   "en": "art floor",
+   "source": "风景园林名词",
+   "wordNumber": "08.1091",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "使用在混凝土表面上，产生丰富多彩的高强度、高耐磨性彩色装饰面的一种高分子聚合物彩色干粉。"
+  },
+  {
+   "cn": "美术写生",
+   "en": "art sketch",
+   "source": "风景园林名词",
+   "wordNumber": "10.0055",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育课程之一，讲授内容包括风景速写、色彩表达、植物白描等。"
+  },
+  {
+   "cn": "数字艺术",
+   "en": "digital art",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.657",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在创作过程当中将计算机、多媒体、虚拟现实等数字技术作为基本工具的艺术作品或艺术实践。发端于20世纪70年代，先后被冠以计算机艺术、多媒体艺术等，可归为新媒体艺术。"
+  },
+  {
+   "cn": "机械艺术",
+   "en": "mechanical art",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.053",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "在机器的设计、制造和操作过程中充分考虑审美因素，提高操作者和使用者的审美效果，更好地实现机器与人和谐的艺术追求。"
+  },
+  {
+   "cn": "艺术疗法",
+   "en": "art therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视觉艺术",
+   "en": "visual art",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术心理学",
+   "en": "art psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "铜版纸",
+   "en": "art paper",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "计算机艺术",
+   "en": "computer art",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绘图术",
+   "en": "graphic arts",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "错觉",
+   "en": "illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术印刷纸",
+   "en": "art-printing paper",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "涂布美术印刷纸",
+   "en": "coated art paper",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "制版照相",
+   "en": "graphic arts photography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "黑林错觉",
+   "en": "Hering illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时间错觉",
+   "en": "time illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方向错觉",
+   "en": "direction illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "透视错觉",
+   "en": "perspective illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "月亮错觉",
+   "en": "moon illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大小错觉",
+   "en": "size illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "瀑布错觉",
+   "en": "waterfall illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记忆错觉",
+   "en": "memory illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正向错觉",
+   "en": "positive illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艾宾豪斯错觉",
+   "en": "Ebbinghaus illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术",
+   "en": "Art",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "武术",
+   "en": "martial arts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "巧言令色",
+   "en": "Artful Words and a Pleasing Demeanor",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "化境",
+   "en": "Sublimity in Art",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "六艺",
+   "en": "The Six Arts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "百戏",
+   "en": "Baixi (All Performing Arts)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心术",
+   "en": "The Art of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传切",
+   "en": "give and go\",\"pass and cut",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "干城",
+   "en": "Shield and Fortress / Dukes and Princes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多元协作制衡",
+   "en": "multiparty collaboration and check-and-balance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "手工艺",
+   "en": "arts and crafts",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0485",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以手工劳动进行制作的具有独特艺术风格的工艺美术，有别于以大工业机械化方式批量生产规格化日用工艺品的工艺美术。"
+  },
+  {
+   "cn": "艺术",
+   "en": "art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0249",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以“美”的范畴统摄各门类，指绘画、雕刻、建筑、诗歌、音乐、舞蹈等活动。"
+  },
+  {
+   "cn": "特种手工艺",
+   "en": "special arts and crafts",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0487",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "用比较珍贵的材料，以特殊或复杂的工艺加工制作，艺术风格繁缛、纤细，富有装饰性的手工艺。"
+  },
+  {
+   "cn": "民间手工艺",
+   "en": "folk arts and crafts",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0486",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "泛指劳动人民（包括少数民族）为适应生活需要和审美要求，自己创作、生产并使用、欣赏的手工艺。在欧美国家，称民间手工艺为农民手工艺。随着商品经济的发展，民间手工艺品进入商品流通领域，销往国内外市场。"
+  },
+  {
+   "cn": "原始艺术",
+   "en": "primitive art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.025",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "发生在原始社会，由古人类所创造的，不同于人类进入文明社会之后所产生的艺术，其中也包括了现在仍残存的某些原始部落的艺术。"
+  },
+  {
+   "cn": "通俗艺术",
+   "en": "popular art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0251",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由大众文艺创作家创作、在民众中广泛传播的艺术，旨在表达具有民众共同特征的审美愿望和审美趣味。"
+  },
+  {
+   "cn": "茶艺",
+   "en": "tea art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0109",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "茶的品饮技艺，主要通过择茶、选水、配具和烹煮沏泡技艺、环境空间经营，呈现技艺之美，是茶文化的重要组成部分。"
+  },
+  {
+   "cn": "艺术治疗",
+   "en": "art therapy",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.045",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "借助艺术素材、艺术活动等方式，让患者产生自由联想以稳定和调节其情感，消除负面情绪的治疗方式。与此相关的其他疗法如音乐疗法、绘画疗法、诗歌疗法、舞蹈疗法等。"
+  },
+  {
+   "cn": "精英艺术",
+   "en": "elite art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0252",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由知识分子精英群体创造的艺术，表达最具个性化的情感，传达个体与现实冲突的无法消解的内在体验，注重艺术形式的探索与实验。"
+  },
+  {
+   "cn": "民间美术",
+   "en": "folk art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0368",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人民群众创作的用以表达审美理想、美化环境、丰富民间风俗活动和在日常生活中应用及流行的美术。民间美术是伴随民俗活动而发展的；在民间的节日庆典、婚丧嫁娶、生子祝寿、迎神赛会等活动中，民间美术创作也最为活跃"
+  },
+  {
+   "cn": "艺术人类学",
+   "en": "art anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0248",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "运用文化人类学（民族学）理论和方法，对人类社会的艺术现象、学术活动、艺术作品进行分析解释的学科。"
+  },
+  {
+   "cn": "艺术社会学",
+   "en": "sociology of art",
+   "source": "社会学名词",
+   "wordNumber": "3.8.1.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化社会学",
+   "subjectName": "文化社会学",
+   "publishYear": "2025",
+   "definition": "社会学分支学科之一，有广义、狭义之分。广义上探讨一切艺术作品或艺术形式产生的社会历史条件、过程及其承担的社会功能；狭义上研究艺术作品和艺术创作者与特定历史时期的文化和社会诸因素之间的关系，从审美的角度"
+  },
+  {
+   "cn": "呼图壁岩画",
+   "en": "Hutubi Rock Art",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0618",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "历史文物，位于新疆呼图壁县城西南天山中，绝对年代距今3000 年。岩画位于峭壁中部，大小人物约300 个，都做规律的舞蹈姿势。反映古代天山居民浓烈的生殖崇拜信仰，很可能是塞人的文化遗存。"
+  },
+  {
+   "cn": "飞行错觉",
+   "en": "flight illusion",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.8",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞行人员在飞行中对飞机状态或飞机位置的错误知觉。"
+  },
+  {
+   "cn": "文艺为工农兵服务",
+   "en": "our literature and art ought to serve the workers the peasants and the soldiers",
+   "source": "马克思主义",
+   "wordNumber": "03.0456",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1942年,毛泽东《在延安文艺座谈会上的讲话》中提出的关于文学艺术的服务对象的根本方针。即“我们的文学艺术都是为人民大众的，首先是为工农兵的，为工农兵而创作，为工农兵所利用的。”"
+  },
+  {
+   "cn": "生长发育调查与评价",
+   "en": "growth and development investigation and appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用科学的方法对个体或群体儿童少年的生长发育状况进行观察、测量、分析和评价的过程。"
+  },
+  {
+   "cn": "谦恭",
+   "en": "humble and respectfulness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.097",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在相互交往过程中所表现出的辞让和谦逊的品德或作风。要求为人处世均应在充分尊重他人，正确评估自身的基础上做到虚怀若谷，以礼待人。"
+  },
+  {
+   "cn": "消杀",
+   "en": "disinfection and pesticide",
+   "source": "消毒学",
+   "wordNumber": "1.1.2",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "全称消毒与杀虫，杀灭与清除有害微生物或媒介生物的处理。"
+  },
+  {
+   "cn": "检测与评价",
+   "en": "testing and evaluation",
+   "source": "消毒学",
+   "wordNumber": "6",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "利用物理、化学、微生物和动物实验的方法，将生产、科研、生活等各方面的有关信息通过检查与测量的方法，赋予定性或定量结果并判定是否合格的过程。"
+  },
+  {
+   "cn": "采样分析",
+   "en": "sampling and analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "采集有代表性的环境介质样品用物理或化学的方法进行分离、浓集、用适当的计数装置或谱仪测定其放射性活度的操作过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

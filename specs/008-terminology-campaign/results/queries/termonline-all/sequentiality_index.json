@@ -1,0 +1,732 @@
+{
+ "key": "sequentiality index",
+ "term": "sequentiality index",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:02:16+00:00",
+ "status": "ok",
+ "note": "variant=sequentiality index; 审定公布名词库=1622; 海峡两岸名词对照库=511; 其他来源数据库=53; 预公布名词数据库=74; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "顺序索引文件",
+   "en": "indexed sequential file",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.611",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "文件中的记录按关键字顺序排列，则称为顺序索引文件。"
+  },
+  {
+   "cn": "倒排索引文件",
+   "en": "indexed non-sequential file",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.075",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "原始数据项中具有检索意义的有关属性标识， 对这些属性标识按一定的组织规则进行排列， 在每一个标识之后附有该标识所在原始数据集合中的地址， 采用这种方法组织的索引文件。"
+  },
+  {
+   "cn": "序列完备",
+   "en": "sequentially complete",
+   "source": "数学名词",
+   "wordNumber": "07.0017",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "复种",
+   "en": "sequential cropping",
+   "source": "农学名词",
+   "wordNumber": "08.005",
+   "subjectFullName": "作物栽培与耕作_种植制度",
+   "subjectName": "种植制度",
+   "publishYear": "2025",
+   "definition": "在同一田地上一年内接连种植两季或两季以上作物的种植方式。有当年复种和跨年复种。"
+  },
+  {
+   "cn": "序贯实验",
+   "en": "sequential experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.095",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "在实验优化方向难以预见时，不对实验进行全面的整体设计，而是从一个起点出发逐次进行实验的过程。后续实验需根据先前实验所得结果进行设计，使实验指标不断优化。"
+  },
+  {
+   "cn": "序变模型",
+   "en": "sequential model",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0105",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "美国学者科什兰（Koshland）、内梅蒂（Nemethy）和菲尔默（Filmer）提出的别构酶调节酶活性的机制模型。主张酶分子中的亚基结合小分子物质（底物或调节物）后，亚基构象逐个地依次变化，当底物"
+  },
+  {
+   "cn": "继发裂变",
+   "en": "sequential fission",
+   "source": "核科学技术名词",
+   "wordNumber": "2.173",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "引发裂变反应后，一代又一代裂变产物成为母体，继续进行裂变的现‍象。"
+  },
+  {
+   "cn": "序贯培养",
+   "en": "sequential culture",
+   "source": "生殖医学名词",
+   "wordNumber": "6.039",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "根据植入前胚胎在不同生长发育阶段对营养物质需求不同，分阶段采用含不同营养成分的培养液进行培养的方式。"
+  },
+  {
+   "cn": "序列结构",
+   "en": "sequential structure",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0118",
+   "subjectFullName": "化工（七）_合成树脂_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "高分子结构单元或单体单元在高分子链中的排列结构。"
+  },
+  {
+   "cn": "序贯平差",
+   "en": "sequential adjustment",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0254",
+   "subjectFullName": "地球物理学_地球重力学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "将观测值分成两组或多组，按组的顺序分别做相关间接平差，从而使其达到与两期网一起做整体平差同样结果的平差方法。 "
+  },
+  {
+   "cn": "序贯化疗",
+   "en": "sequential chemotherapy",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.17",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤化学治疗_化疗模式",
+   "subjectName": "化疗模式",
+   "publishYear": "2022",
+   "definition": "先后给予一定周期数的非交叉耐药的药物或化疗方案。通过序贯化疗，药物易于达到较高的剂量，并且可以避免单一化疗方案对耐药细胞的选择作用。"
+  },
+  {
+   "cn": "顺序扫描",
+   "en": "sequential scanning",
+   "source": "光学名词",
+   "wordNumber": "15.168",
+   "subjectFullName": "光学_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2021",
+   "definition": "构成整个图像的各扫描行是依次而连续扫出的扫描方式。"
+  },
+  {
+   "cn": "序贯法",
+   "en": "sequential method",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.108",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "根据前轮实验结果来安排后面的实验内容的实验安排方法。"
+  },
+  {
+   "cn": "串行设计",
+   "en": "sequential design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0052",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "产品设计的各个阶段按顺序方式进行，一个阶段的工作完成后，下一个阶段的工作才开始，各个阶段依次进行的设计。"
+  },
+  {
+   "cn": "时序控制",
+   "en": "sequential control",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0421",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械控制",
+   "subjectName": "机械控制",
+   "publishYear": "2021",
+   "definition": "按预定的时间顺序自动完成一系列预定的各项控制。"
+  },
+  {
+   "cn": "序贯平差",
+   "en": "sequential adjustment",
+   "source": "测绘学名词",
+   "wordNumber": "02.370",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "一种逐次递推的平差方法。每增加一组新的观测数据，可按递推公式利用原求出的未知数参数估值和权逆阵，求出参数新估值和权逆阵的方法。"
+  },
+  {
+   "cn": "序贯理性",
+   "en": "sequential rationality",
+   "source": "经济学名词",
+   "wordNumber": "03.171",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人在博弈的每一个节点上都会重新优化自己的选择并且把自身在未来的重新优化行为考虑在内。"
+  },
+  {
+   "cn": "序贯治疗",
+   "en": "sequential therapy",
+   "source": "器官移植学名词",
+   "wordNumber": "06.003",
+   "subjectFullName": "器官移植学_免疫抑制治疗",
+   "subjectName": "免疫抑制治疗",
+   "publishYear": "2020",
+   "definition": "器官移植免疫抑制治疗过程中，加用或以一种药物替代前一种或几种药物的治疗。可降低药物的毒副作用，增强疗效，提高患者对治疗的依从性。"
+  },
+  {
+   "cn": "顺序重合",
+   "en": "sequential reclosing",
+   "source": "电力名词",
+   "wordNumber": "05.240",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "为防止重合闸时对主设备和电力系统造成不必要的冲击,线路两侧断路器重合需按事先规定的先后顺序进行的一种重合方式。"
+  },
+  {
+   "cn": "顺排文档",
+   "en": "sequential file",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.778",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "按照自然顺序存储数据记录的文档。它的组织方式为线型结构，逻辑顺序与物理顺序相一致。"
+  },
+  {
+   "cn": "顺序索引",
+   "en": "sequential index",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序索引文件",
+   "en": "indexed sequential file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非顺序索引文件",
+   "en": "indexed non-sequential file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序贯分析",
+   "en": "sequential analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "序贯分析",
+   "en": "sequential analysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "顺序操作",
+   "en": "sequential operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "序列聚合",
+   "en": "sequential polymerization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "序列共聚物",
+   "en": "sequential copolymer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "序贯抽样",
+   "en": "sequential sampling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "序列研究",
+   "en": "sequential research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连续系列设计,序贯设计",
+   "en": "sequential design",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列法,序贯法",
+   "en": "sequential method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "继发裂变",
+   "en": "sequential fission",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "连续热解分析",
+   "en": "sequential pyrolysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序贯分析",
+   "en": "sequential analysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序贯寻优",
+   "en": "sequential search",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序列共聚物",
+   "en": "sequential copolymer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序列聚合",
+   "en": "sequential polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "顺序雌雄同体",
+   "en": "sequential hermaphrodite",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序贯抽样",
+   "en": "sequential sampling",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序贯分析",
+   "en": "sequential analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "索引",
+   "en": "index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "血糖生成指数",
+   "en": "Glycemic Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哈希索引",
+   "en": "hash index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有序索引",
+   "en": "ordered index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存在索引",
+   "en": "presence index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据库索引",
+   "en": "database index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "雅卡尔指数",
+   "en": "Jaccard index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "桥接性指数",
+   "en": "bridging index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消费者价格指数",
+   "en": "consumer price index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空气污染指数",
+   "en": "Air Pollution Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "采购经理人指数",
+   "en": "Purchasing Managers' Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "指标",
+   "en": "index",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.30",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "抽象的理论概念的量度。通常用该概念的一个或多个指示综合而成的单一总和分表示。"
+  },
+  {
+   "cn": "指代",
+   "en": "indexicality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0601",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一个符号对某个对象起到索引作用的现象，一个词的指代意味在社会文化情境和权力关系下被不断演绎和诠释。"
+  },
+  {
+   "cn": "解释性序列设计",
+   "en": "explanatory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先收集定量数据，然后收集并使用定性数据来更深入解释定量研究的结果的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "探索性序列设计",
+   "en": "exploratory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先用定性研究探索研究问题，在此基础上进行第二阶段的定量研究，对定量研究的结果进行分析，最终形成有效的定量研究工具或干预设计，用于正式定量研究的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "品质指数",
+   "en": "quality index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.34",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "X辐射中，对10 cm×10 cm的辐射野，在体模内沿辐射束轴于20 cm深度处和10 cm深度处所测量的吸收剂量之比值。"
+  },
+  {
+   "cn": "危险指数",
+   "en": "dangerous index",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "用于判定放射源和含源实践危险程度的一个指数。即危险指数(DI) = 放射源核素的实际使用活度(A) /该核素的危险活度(D)。用于对放射源和含源实践的危险分类。这一分类是基于安排应急响应的需要，而不应"
+  },
+  {
+   "cn": "社会经济地位指数",
+   "en": "socioeconomic index",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "测量个人社会经济地位的指标之一。最初由美国社会学家邓肯(Otis Dudley Duncan）根据收入和教育对职业声望的影响回归模型计算所得，后来研究者对这一模型进行多种修正，成为社会分层研究中被广泛"
+  },
+  {
+   "cn": "泰尔系数",
+   "en": "Theil Index",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "衡量人群或地区间收入不平等的指标，将总体差距分解为组间差距和组内差距，可以识别不同层次、不同组别公平性。"
+  },
+  {
+   "cn": "卡克瓦尼指数",
+   "en": "Kakwani index",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.10",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "反映卫生筹资的累进性或累退性的数值，数值等于卫生支出的集中指数与家庭可支付能力基尼系数之差。"
+  },
+  {
+   "cn": "阿特金森指数",
+   "en": "Atkinson index",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.13",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "在测量收入不平等中反映社会对不平等厌恶或者对平等偏好参数的指数。"
+  },
+  {
+   "cn": "罗氏指数",
+   "en": "Rohrer index",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.2.9",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "体重（千克）与身高（厘米）立方的比值的百分数，反映躯体肌肉、骨胳、内脏器官及组织的发育状态,用于评价机体充实程度及营养状况。"
+  },
+  {
+   "cn": "妊娠指数",
+   "en": "pearl index",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "采用特定避孕方法后每100名妇女一年内发生妊娠的人数，是国际上通用的衡量避孕节育措施效果的一项指标。"
+  },
+  {
+   "cn": "蛋白指数",
+   "en": "protein index",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.16",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "蛋白中浓厚蛋白与稀薄蛋白的质量之比。"
+  },
+  {
+   "cn": "分配指数",
+   "en": "distribution index",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.64",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某种接触材料包装的某类型食品重量占该接触材料包装的所有食品重量的比例。"
+  },
+  {
+   "cn": "蛋黄指数",
+   "en": "yolk index",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.17",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "蛋黄的高度与直径相比的百分率。"
+  },
+  {
+   "cn": "折光指数",
+   "en": "refractive index",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "当具有一定波长的光线从空气射入保持在恒定的温度下的液体香料或香精时，入射角的正弦与折射角的正弦之比。是香料或香精的主要理化指标之一。"
+  },
+  {
+   "cn": "消费系数",
+   "en": "consumption index",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.63",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某种特定食品接触材料包装的食品重量占所有食品接触材料包装的食品重量的比例。"
+  },
+  {
+   "cn": "重量指数",
+   "en": "Ponderal index, PI",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "体重比身长的立方(kg/m3 ) ，是一个反映体重和身长综合情况的指标,在探讨胎儿宫内发育状况,身材匀称和营养水平,以及追赶生长和预后等方面有较高价值。"
+  },
+  {
+   "cn": "健康集中指数",
+   "en": "health concentration index",
+   "source": "社会医学名词",
+   "wordNumber": "9.13",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "健康集中指数",
+   "publishYear": "2025",
+   "definition": "应用集中指数计算原理，不同社会经济状况地区间的健康和卫生服务集中程度的指数。测量健康公平性的指标，取值在0～1 之间，值越小表示公平性越好。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

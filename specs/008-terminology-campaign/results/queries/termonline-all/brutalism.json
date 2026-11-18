@@ -1,0 +1,42 @@
+{
+ "key": "brutalism",
+ "term": "brutalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:02:02+00:00",
+ "status": "ok",
+ "note": "variant=brutalism; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "粗野主义",
+   "en": "brutalism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0359",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "20世纪50至60年代流行于欧美的建筑思潮。由功能主义发展而来，提倡对材料与结构，尤其是清水混凝土的表现。该流派得名于英国的史密森夫妇(Alison and Peter Smithson)，代表作品有"
+  },
+  {
+   "cn": "浅埋[作用]",
+   "en": "shallow burialism",
+   "source": "地质学名词",
+   "wordNumber": "05.231",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "深埋[作用]",
+   "en": "deep burialism",
+   "source": "地质学名词",
+   "wordNumber": "05.232",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,472 @@
+{
+ "key": "downward lowenheim-skolem",
+ "term": "Downward Löwenheim-Skolem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:03:51+00:00",
+ "status": "ok",
+ "note": "variant=Downward Löwenheim-Skolem; 审定公布名词库=103; 海峡两岸名词对照库=32; 其他来源数据库=5; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "降L-S定理",
+   "en": "downward Loewenheim-Skolem theorem",
+   "source": "数学名词",
+   "wordNumber": "02.0088",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "斯科伦壳",
+   "en": "Skolem hull",
+   "source": "数学名词",
+   "wordNumber": "02.0086",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "斯科伦佯谬",
+   "en": "Skolem paradox",
+   "source": "数学名词",
+   "wordNumber": "02.0087",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "斯科伦函数",
+   "en": "Skolem function",
+   "source": "数学名词",
+   "wordNumber": "02.0085",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "斯科伦悖论",
+   "en": "Skolem’s paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.298",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "根据勒文海姆-斯科伦定理，假设公理集合论系统是一致的，则它有可数传递模型M，自M内部观之，有些集合是不可数的，但自M外观之，M中的所有集合都是可数的。这不是真正的悖论，而是说明类似于“可数”这样的性质"
+  },
+  {
+   "cn": "下向因果关系",
+   "en": "downward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.710",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "描述系统高层级结构对它的次级结构起着原因作用的一种因果关系。最先由心理学家唐纳德·坎贝尔（Donald Campbell）提出。"
+  },
+  {
+   "cn": "下行传播",
+   "en": "downward communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.055",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播过程",
+   "subjectName": "组织传播过程",
+   "publishYear": "2022",
+   "definition": "从组织高层向组织低层的信息流动。一般传达权威或指令性的信息，其目的是控制、指示、激励及用于评估。"
+  },
+  {
+   "cn": "劣势比较",
+   "en": "downward comparison",
+   "source": "行为医学名词",
+   "wordNumber": "5.024",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体倾向于选择自己的缺陷或短处与某些社会特征接近的人进行比较的方式。自信心不足的人倾向与社会特征不如自己的人进行比较。"
+  },
+  {
+   "cn": "向下延拓",
+   "en": "downward continuation",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0036",
+   "subjectFullName": "地球物理学_勘探地球物理学_重_磁_电勘探",
+   "subjectName": "电勘探",
+   "publishYear": "2022",
+   "definition": "根据某一水准面上的势场 (如重力场 )的测量值确定其高度小于已知场高度势场的过程。 "
+  },
+  {
+   "cn": "下向焊",
+   "en": "downward welding",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.120",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "从管道上顶部引弧，自上而下进行全位置焊接的操作技术。"
+  },
+  {
+   "cn": "下位参照",
+   "en": "downward reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.300",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "叙词表中由上位词指引到下位词的参照。"
+  },
+  {
+   "cn": "向下兼容",
+   "en": "downward compatibility",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0479",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）现有设备能够使用更早的设备所产生的输出。（2）为旧版本软硬件环境所创建的程序能够在新版本软硬件环境中运行，或者旧版本程序产生的数据和文档能够被新版本程序使用。"
+  },
+  {
+   "cn": "下行沟通",
+   "en": "downward communication",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0216",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_领导与权力",
+   "subjectName": "领导与权力",
+   "publishYear": "2016",
+   "definition": "信息由组织层次的较高处流向较低处，旨在控制、指示、激励及评估的一种沟通方式。"
+  },
+  {
+   "cn": "下沉气流",
+   "en": "downward flow",
+   "source": "大气科学名词",
+   "wordNumber": "05.347",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "具有垂直向下分量的气流。"
+  },
+  {
+   "cn": "向下弹射",
+   "en": "downward ejection",
+   "source": "航空科学技术名词",
+   "wordNumber": "10.061",
+   "subjectFullName": "航空科学技术_航空安全、生命保障系统与航空医学",
+   "subjectName": "航空安全、生命保障系统与航空医学",
+   "publishYear": "2003",
+   "definition": "乘员通过座舱下部舱口脱离失事飞机的弹射。"
+  },
+  {
+   "cn": "下行式注浆",
+   "en": "downward grouting",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.110",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷掘进",
+   "subjectName": "井巷掘进",
+   "publishYear": "1996",
+   "definition": "在多含水层或厚含水层中采用地面预注浆时，钻孔与注浆自上而下分层或分段交替进行的注浆。"
+  },
+  {
+   "cn": "向下延拓",
+   "en": "downward continuation",
+   "source": "石油名词",
+   "wordNumber": "03.0035",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "下降流",
+   "en": "downwelling,downward flow",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0109",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "海水从上层下沉的流动。"
+  },
+  {
+   "cn": "坠睛",
+   "en": "downward eye deviation",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "04.086",
+   "subjectFullName": "中医药学_眼科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "眼球向上运动受限，目珠向下偏斜的表现。"
+  },
+  {
+   "cn": "向下[全]辐射",
+   "en": "downward [total] radiation",
+   "source": "大气科学名词",
+   "wordNumber": "03.316",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "向下的太阳辐射与大气辐射(指向地面)之和。"
+  },
+  {
+   "cn": "向下辐射",
+   "en": "downward radiation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[汇率]下浮",
+   "en": "float downward",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[货币]贬值",
+   "en": "downward revaluation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "行情趋跌",
+   "en": "downward market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "负跃变",
+   "en": "downward transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向下复用",
+   "en": "downward multiplexing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向下兼容",
+   "en": "downward compatibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尖端向下",
+   "en": "apex downwards",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "勒文海姆-斯科伦定理",
+   "en": "L鰓enheim-Skolem theorem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下降流",
+   "en": "downwelling\",\"downward flow",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "动量下传",
+   "en": "downward momentum transport",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "向下大气辐射",
+   "en": "downward atmospherical radiation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "下行辐照度",
+   "en": "downwelling irradiance\",\"downward irradiance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "头节",
+   "en": "scolex",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "土体层",
+   "en": "solum",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "负逻辑转换",
+   "en": "downware logic-transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺风飞行",
+   "en": "downwind flights",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "足底",
+   "en": "sole\",\"sole of foot\",\"plantar",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单独投资",
+   "en": "sole investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "独家代理",
+   "en": "sole agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "向下拳",
+   "en": "downward punch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "掌心向下",
+   "en": "palms downward",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "以释放市场活力对冲经济下行压力",
+   "en": "invigorate the market to offset downward economic pressure",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "立撑回环",
+   "en": "sole circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偷垒",
+   "en": "steal a base\",\"steal\",\"stolen base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下降流动",
+   "en": "downward mobility",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "人们从较高地位等级的职业、阶级或阶层流动到较高地位等级的职业、阶级或阶层。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,682 @@
+{
+ "key": "prime factorization",
+ "term": "prime factorization",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:58:56+00:00",
+ "status": "ok",
+ "note": "variant=prime factorization; 审定公布名词库=2523; 海峡两岸名词对照库=1126; 其他来源数据库=92; 预公布名词数据库=178; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "预充",
+   "en": "prime",
+   "source": "器官移植学名词",
+   "wordNumber": "14.020",
+   "subjectFullName": "器官移植学_心脏移植_心脏移植",
+   "subjectName": "心脏移植",
+   "publishYear": "2020",
+   "definition": "在体外循环开始之前预先在人工心肺机及连接管道内注入液体以排气并进行血液稀释的方法。"
+  },
+  {
+   "cn": "素数",
+   "en": "prime number,prime",
+   "source": "数学名词",
+   "wordNumber": "04.0051",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "致敏",
+   "en": "priming",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0188",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_概述",
+   "subjectName": "概述",
+   "publishYear": "2024",
+   "definition": "以不足以使生物系统产生反应的少量刺激物作用于该系统，却能使其对特定的刺激物产生更为强大的生理响应的现象。如小剂量的脂质炎症因子提高炎细胞对炎症介质的敏感性，从而增强了炎性细胞的浸润和吞噬等功能。"
+  },
+  {
+   "cn": "引发",
+   "en": "priming",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0135",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA复制起始时或在合成每个冈崎片段之前，DNA聚合酶不能从头开始合成DNA链，机体需要先利用一个含引物酶的引物体合成一小段RNA引物，然后DNA聚合酶才能够以RNA引物的3′-OH为起点，与脱氧核苷"
+  },
+  {
+   "cn": "涂底漆",
+   "en": "priming",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.194",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_涂料涂装",
+   "subjectName": "涂料涂装",
+   "publishYear": "2021",
+   "definition": "施涂底漆的过程。"
+  },
+  {
+   "cn": "汽水共腾",
+   "en": "priming",
+   "source": "电力名词",
+   "wordNumber": "09.333",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "锅炉运行中,蒸汽流量突然增大而炉膛内燃烧放热还来不及增大时,由于锅筒内压力急剧下降,导致蒸发管和锅炉水容积中含汽急剧增加的现象。"
+  },
+  {
+   "cn": "启动",
+   "en": "priming",
+   "source": "心理学名词",
+   "wordNumber": "02.569",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "先前经验对随后的认知任务产生正向或负向影响的过程。"
+  },
+  {
+   "cn": "汽水共腾",
+   "en": "priming",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0516",
+   "subjectFullName": "机械工程_动力机械_锅炉_运行、维修和故障_故障",
+   "subjectName": "故障",
+   "publishYear": "2013",
+   "definition": "锅筒锅炉运行中，蒸汽流量突然增大而炉膛内燃烧放热还来不及增大时，由于锅筒内压力急剧下降，导致锅水汽化，锅炉水容积中含汽量急剧增大的现象。"
+  },
+  {
+   "cn": "汽水共腾",
+   "en": "priming",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.1265",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "引火",
+   "en": "priming",
+   "source": "电子学名词",
+   "wordNumber": "11.072",
+   "subjectFullName": "电子学_显示器件与技术",
+   "subjectName": "显示器件与技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "引导编辑",
+   "en": "prime editing",
+   "source": "农学名词",
+   "wordNumber": "15.079",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "以CRISPR/Cas系统为基础衍生出的，一种基于“搜索和替换”的基因组编辑方式。可以在不产生双链断裂的情况下，实现所有12种单碱基的替换和小片段DNA的缺失或插入。"
+  },
+  {
+   "cn": "卯酉圈",
+   "en": "prime vertical",
+   "source": "天文学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "与子午圈正交的地平经圈，与地平圈交于东点和西点。"
+  },
+  {
+   "cn": "本初子午线",
+   "en": "prime meridian",
+   "source": "天文学名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "天体上过经度起算点的子午线。"
+  },
+  {
+   "cn": "黄金时段",
+   "en": "prime time",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.277",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "一天中广播电视节目视听率最高的时段。"
+  },
+  {
+   "cn": "基本农田",
+   "en": "prime farmland",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.091",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）总体规划",
+   "subjectName": "城市（镇）总体规划",
+   "publishYear": "2021",
+   "definition": "按照一定时期人口和社会经济发展对农产品的需求，依法划定的不得占用的耕地。"
+  },
+  {
+   "cn": "底漆",
+   "en": "prime coat",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.300",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "涂层系统中处于中间层或面层之下的涂层，或直接涂于基底表面的涂层。"
+  },
+  {
+   "cn": "本初子午线",
+   "en": "prime meridian",
+   "source": "测绘学名词",
+   "wordNumber": "02.256",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "通过固定平极和经度原点的天文子午线。"
+  },
+  {
+   "cn": "卯酉圈",
+   "en": "prime vertical",
+   "source": "测绘学名词",
+   "wordNumber": "02.322",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "椭球卯酉面与椭球面的截线。"
+  },
+  {
+   "cn": "预充液",
+   "en": "prime solution",
+   "source": "器官移植学名词",
+   "wordNumber": "14.021",
+   "subjectFullName": "器官移植学_心脏移植_心脏移植",
+   "subjectName": "心脏移植",
+   "publishYear": "2020",
+   "definition": "预先注入人工心肺机及与体内循环相连接的管道内进行排气和血液稀释的液体。"
+  },
+  {
+   "cn": "主属性",
+   "en": "prime attribute",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0035",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "在关系中能够唯一地标识一个元组的属性组中的诸属性。"
+  },
+  {
+   "cn": "启动",
+   "en": "priming",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "引发",
+   "en": "priming",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "引火",
+   "en": "priming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起动注油注水",
+   "en": "priming",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "汽水共腾",
+   "en": "priming",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "涂底漆",
+   "en": "priming",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "正片",
+   "en": "prime wafer",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "本初子午线",
+   "en": "prime meridian",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基本利率",
+   "en": "prime rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优等汇票",
+   "en": "prime bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优等信贷",
+   "en": "prime credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优惠贷款利率",
+   "en": "prime interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "本初子午线",
+   "en": "prime meridian",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "本初子午线",
+   "en": "prime meridian",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "卯酉圈",
+   "en": "prime vertical",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "本初子午线",
+   "en": "prime meridian",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "卯酉圈",
+   "en": "prime vertical",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "原始场",
+   "en": "prime field",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主交换子",
+   "en": "prime commutator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主属性",
+   "en": "prime attribute",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特别奖",
+   "en": "prime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一姿势防守",
+   "en": "prime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一姿势",
+   "en": "prime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一姿势反击",
+   "en": "counter-prime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盛唐之音",
+   "en": "Poetry of the Prime Tang Dynasty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保理融资",
+   "en": "factoring financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风险因素",
+   "en": "risk factor",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "致敏",
+   "en": "sensitization, priming",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.20",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "以不足以使生物系统产生反应的少量刺激物作用于该系统，却能使其对特定的刺激物产生更为强大的生理响应的现象。如小剂量的脂质炎症因子提高炎细胞对炎症介质的敏感性，从而增强了炎性细胞的浸润和吞噬等功能。"
+  },
+  {
+   "cn": "致敏淋巴细胞",
+   "en": "primed lymphocyte，sensitized lymphocyte",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.2.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "经抗原初次刺激而发生克隆扩增的特异性T细胞和B细胞。"
+  },
+  {
+   "cn": "加工系数",
+   "en": "processing factor",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.59",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "加工后产品中的物质残留量与加工前的物质残留量之比。"
+  },
+  {
+   "cn": "消毒因子",
+   "en": "disinfection factor",
+   "source": "消毒学",
+   "wordNumber": "1.1.14",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "用于消毒处理并具有杀灭或清除微生物能力的物理、化学和生物因子。"
+  },
+  {
+   "cn": "稀释度",
+   "en": "dilution factor",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.19",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "表示溶液浓度降低的程度。消毒学试验中通常以十倍系列稀释为主。"
+  },
+  {
+   "cn": "品质因数",
+   "en": "quality factor",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "依据授予物质能量的带电粒子的相对生物学效应，对特定位置上软组织吸收剂量施加修正的一个权重。"
+  },
+  {
+   "cn": "放射性因素",
+   "en": "radiation factors",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "从事职业活动过程中，可能导致劳动者发生职业性放射性疾病的危害因素。"
+  },
+  {
+   "cn": "几何因子",
+   "en": "geometrical factor",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.22",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "探测效率在一定几何条件下的极限值，它可由探测器灵敏面与放射源之间的几何关系计算出来。"
+  },
+  {
+   "cn": "屏蔽因子",
+   "en": "shielding factor",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.21",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "在辐射监测中描述由测量对象引起的屏蔽效应导致本底计数率降低的因子。"
+  },
+  {
+   "cn": "包含因子",
+   "en": "coverage factor",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.29",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "为获得扩展不确定度，对合成标准不确定度所乘的大于1的数。"
+  },
+  {
+   "cn": "居留因子",
+   "en": "occupancy factor",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.27",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "在屏蔽计算和辐射防护评价中，指在屏蔽体外某区域人员可能停留的时间占辐射源开束时间的份额。"
+  },
+  {
+   "cn": "使用因子",
+   "en": "use factor",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.28",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "放射防护屏蔽计算中的一个因子，指辐射源入射到某一屏蔽墙的时间占辐射源总照射时间的份额。"
+  },
+  {
+   "cn": "调强放射治疗因子",
+   "en": "IMRT factor",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.41",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "调强放射治疗每单位处方吸收剂量所需要的加速器平均监督单位（MUIMRT）数（俗称跳数）与常规放射治疗每单位处方吸收剂量的加速器监督单位（MUconv）数的比值。这个比值一般在2～10范围内。"
+  },
+  {
+   "cn": "因子分析",
+   "en": "factor analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.124",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将一组观测数据描述为一组潜变量或假设的变量的函数的多元统计模型。"
+  },
+  {
+   "cn": "因子负荷",
+   "en": "factor loading",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.130",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在因子分析中，观测变量和因子间的相关系数（皮尔逊乘积矩）。"
+  },
+  {
+   "cn": "封闭因子",
+   "en": "blocking factor",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.8",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "本质可能是封闭抗体、可溶性抗原或抗原-抗体复合物，可封闭肿瘤细胞表面的抗原表位或效应细胞的抗原识别受体，从而使肿瘤细胞不易被机体免疫系统识别，逃避淋巴细胞的攻击。"
+  },
+  {
+   "cn": "生产要素投入",
+   "en": "factor input",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "将生产要素土地、劳动和资本用于生产的过程。"
+  },
+  {
+   "cn": "保险因子",
+   "en": "insurance factor",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "健康保险赔付率（补偿比）对医疗服务利用、医疗费用变化的影响程度。"
+  },
+  {
+   "cn": "趋势因子",
+   "en": "trend factor",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "反映医药价格的上涨、人们对卫生服务需求的自然增长和由于卫生服务条件改善所引起的医疗费用的增加程度"
+  },
+  {
+   "cn": "地理因素",
+   "en": "geographic factor",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "独立于人类存在和活动之外的对生长发育有影响的自然现象的总称。如温度、土壤、地形、水与水道的分布、动植物、季候与地质历程的自然变迁、飓风、地 震、海潮等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

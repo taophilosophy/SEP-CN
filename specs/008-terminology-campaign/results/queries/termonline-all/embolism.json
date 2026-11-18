@@ -1,0 +1,272 @@
+{
+ "key": "embolism",
+ "term": "embolism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:17:37+00:00",
+ "status": "ok",
+ "note": "variant=embolism; 审定公布名词库=151; 海峡两岸名词对照库=5; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "栓塞",
+   "en": "embolism",
+   "source": "普通外科学名词",
+   "wordNumber": "25.114",
+   "subjectFullName": "医学_普通外科学_血管外科",
+   "subjectName": "血管外科",
+   "publishYear": "2026",
+   "definition": "在循环血液中出现不溶于血液的异常物质，随血流运行阻塞血管腔的病理现象。"
+  },
+  {
+   "cn": "栓塞",
+   "en": "embolism",
+   "source": "兽医学名词",
+   "wordNumber": "10.215",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "活体心血管内的异常物质，随血流运行并堵塞血管腔的过程，如血栓栓塞（thrombus embolism）、脂肪栓塞（fat embolism）、空气栓塞（air embolism）等。"
+  },
+  {
+   "cn": "栓塞",
+   "en": "embolism",
+   "source": "血液学名词",
+   "wordNumber": "9.067",
+   "subjectFullName": "血液学_出血与血栓性疾病_血栓性疾病_概述",
+   "subjectName": "概述",
+   "publishYear": "2022",
+   "definition": "不溶于血液的异常物质出现于循环血液中，并随血液流动，进而阻塞血管管腔的现象。"
+  },
+  {
+   "cn": "栓塞",
+   "en": "embolism",
+   "source": "病理学名词",
+   "wordNumber": "01.126",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "循环血液中的异常物质随血流运行至相应大小的血管而不能通过，引起血管腔阻塞的现象。"
+  },
+  {
+   "cn": "栓塞",
+   "en": "embolism",
+   "source": "手外科学名词",
+   "wordNumber": "05.0102",
+   "subjectFullName": "手外科学_手外科学分论_肢体再植再造",
+   "subjectName": "肢体再植再造",
+   "publishYear": "2020",
+   "definition": "在循环血液中出现的不溶于血液的异常物质，随血流运行至远处阻塞血管腔的现象。阻塞血管的物质称为栓子，栓子有多种，如血栓、脂肪、空气和羊水，最常见为血栓。"
+  },
+  {
+   "cn": "栓塞",
+   "en": "embolism",
+   "source": "神经病学名词",
+   "wordNumber": "03.057",
+   "subjectFullName": "神经病学_神经病理学",
+   "subjectName": "神经病理学",
+   "publishYear": "2020",
+   "definition": "血液中流动的栓子堵塞脑血管，导致供血区脑组织发生急性缺血性损害。栓子常来源于颈动脉或椎基底动脉粥样硬化斑块、心脏附壁血栓、心房黏液瘤、心脏瓣膜赘生物，或为脂肪栓、气栓等。"
+  },
+  {
+   "cn": "栓塞",
+   "en": "embolism",
+   "source": "感染病学名词",
+   "wordNumber": "04.0279",
+   "subjectFullName": "感染病学_特殊感染及感染相关问题_感染性休克",
+   "subjectName": "感染性休克",
+   "publishYear": "2019",
+   "definition": "心脏或血管内已形成的血栓脱落，顺血流堵塞其他重要脏器血管的病理过程。"
+  },
+  {
+   "cn": "栓塞",
+   "en": "embolism",
+   "source": "林学名词",
+   "wordNumber": "02.374",
+   "subjectFullName": "林学_林学基础_树木生理",
+   "subjectName": "树木生理",
+   "publishYear": "2016",
+   "definition": "空穴化时大的气泡堵塞管道，使导管或管胞失去输导功能的现象。"
+  },
+  {
+   "cn": "栓塞",
+   "en": "embolism",
+   "source": "医学名词 第六分册",
+   "wordNumber": "02.318",
+   "subjectFullName": "医学_神经外科学",
+   "subjectName": "神经外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "栓塞",
+   "en": "embolism",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.157",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "栓塞术",
+   "en": "embolization",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.086",
+   "subjectFullName": "医学影像技术学_介入放射学技术_介入放射学",
+   "subjectName": "介入放射学",
+   "publishYear": "2020",
+   "definition": "在医学影像设备引导下，经导管向靶血管内注入栓塞物质并使之闭塞，中断血供，从而达到预期治疗目的的一种介入治疗技术。"
+  },
+  {
+   "cn": "脑栓塞",
+   "en": "cerebral embolism",
+   "source": "神经外科学名词",
+   "wordNumber": "8.147",
+   "subjectFullName": "医学_神经外科学_脑血管疾病_缺血性脑血管病",
+   "subjectName": "缺血性脑血管病",
+   "publishYear": "2026",
+   "definition": "各种栓子（如心源性栓子、动脉源性栓子、脂肪、肿瘤或空气等）随血流进入脑动脉并阻塞血管，引起供血区域脑组织发生的不可逆缺血性损伤。表现出与受累血管供血区域相一致的局灶性症状和体征。"
+  },
+  {
+   "cn": "肺栓塞",
+   "en": "pulmonary embolism",
+   "source": "急救医学名词",
+   "wordNumber": "03.084",
+   "subjectFullName": "急救医学_日常医学急救_内科学_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2025",
+   "definition": "以各种栓子阻塞肺动脉或其分支为发病原因的一组疾病或临床综合征的统称。包括肺血栓栓塞症、脂肪栓塞综合征、羊水栓塞、空气栓塞和肿瘤细胞栓塞等。"
+  },
+  {
+   "cn": "脑栓塞",
+   "en": "cerebral embolism",
+   "source": "急救医学名词",
+   "wordNumber": "03.235",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "各种栓子（如心源性栓子、动脉源性栓子、脂肪、肿瘤或空气等）随血流进入脑动脉阻塞血管，引起脑部血液供应障碍，从而导致脑组织发生不可逆损伤，引起局灶性症状和体征，与受累血管的血供区域相一致。"
+  },
+  {
+   "cn": "动脉栓塞",
+   "en": "arterial embolism",
+   "source": "急救医学名词",
+   "wordNumber": "03.386",
+   "subjectFullName": "急救医学_日常医学急救_外科学_血管外科",
+   "subjectName": "血管外科",
+   "publishYear": "2025",
+   "definition": "来自于心脏、近端动脉壁或者其他来源的栓子，随动脉血流冲入并栓塞远端动脉，引起受累供血脏器或肢体的急性缺血。特点是起病急骤、症状明显、进展迅速、后果严重，需积极处理。肢体动脉栓塞的临床表现以“5P”征为"
+  },
+  {
+   "cn": "气体栓塞",
+   "en": "gas embolism",
+   "source": "妇产科学名词",
+   "wordNumber": "2.081",
+   "subjectFullName": "妇科症状、体征及检查_妇科内镜",
+   "subjectName": "妇科内镜",
+   "publishYear": "2025",
+   "definition": "宫腔镜手术过程中，伴随创伤性损伤事件的发生，气体进入人体循环系统，导致血流受阻，甚至血液循环中断的并发症。其发病率较低，严重时可危及患者生命。"
+  },
+  {
+   "cn": "反常栓塞",
+   "en": "abnormal embolism",
+   "source": "麻醉学名词",
+   "wordNumber": "04.065",
+   "subjectFullName": "麻醉学_专科麻醉_内镜手术麻醉",
+   "subjectName": "内镜手术麻醉",
+   "publishYear": "2024",
+   "definition": "静脉系统和右心房的血栓或气体通过右向左的分流通道，从右心进入左心系统，引起相应部位的体循环栓塞。"
+  },
+  {
+   "cn": "空气栓塞",
+   "en": "air embolism",
+   "source": "麻醉学名词",
+   "wordNumber": "04.066",
+   "subjectFullName": "麻醉学_专科麻醉_内镜手术麻醉",
+   "subjectName": "内镜手术麻醉",
+   "publishYear": "2024",
+   "definition": "气体形成气泡进入循环系统而形成的栓塞。动、静脉系统均可发生，最常见的病因是手术、创伤、血管介入及机械通气和潜水导致的气压伤。该病虽然罕见，但有可能造成灾难性后果。"
+  },
+  {
+   "cn": "肺栓塞",
+   "en": "pulmonary embolism",
+   "source": "血液学名词",
+   "wordNumber": "9.073",
+   "subjectFullName": "血液学_出血与血栓性疾病_血栓性疾病_概述",
+   "subjectName": "概述",
+   "publishYear": "2022",
+   "definition": "内源性或外源性栓子堵塞肺动脉或其分支引起肺循环障碍的临床和病理生理综合征。"
+  },
+  {
+   "cn": "脑栓塞",
+   "en": "cerebral embolism",
+   "source": "行为医学名词",
+   "wordNumber": "17.053",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_脑血管系统疾病",
+   "subjectName": "脑血管系统疾病",
+   "publishYear": "2022",
+   "definition": "各种栓子随着血流进入了颅内动脉，使颅内血管腔急性闭塞或严重狭窄，引起相应供血区脑组织发生缺血坏死及功能障碍的一组临床综合征。"
+  },
+  {
+   "cn": "内褶式内陷",
+   "en": "embolic invagination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "栓塞剂",
+   "en": "embolic materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "液体栓塞剂",
+   "en": "liquid embolism agent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "缘片",
+   "en": "embolium",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "插入器",
+   "en": "embolus",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "象征主义",
+   "en": "symbolism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.10",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "通过比喻、隐喻、换喻等想象手法，实现“一个表示其他事物的事物”的实践与思维模式，以及注重相关理论、方法的研究行为。主要代表有格尔茨(C.Geertz）、道德拉斯（D.M.Douglas）。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

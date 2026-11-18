@@ -1,0 +1,622 @@
+{
+ "key": "hardness",
+ "term": "hardness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:57:27+00:00",
+ "status": "ok",
+ "note": "variant=hardness; 审定公布名词库=397; 海峡两岸名词对照库=129; 其他来源数据库=18; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "地质学名词",
+   "wordNumber": "03.01.096",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "固体抵抗某种外来机械作用(如刻划、压入、研磨)的能力。通常用H表示。在矿物学中常用摩氏硬度和维氏硬度表达矿物的硬度。是鉴定矿物的重要特征之一。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0031",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "材料抵抗变形，特别是压痕或划痕形成的永久变形的能力。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "冶金学名词",
+   "wordNumber": "08.0039",
+   "subjectFullName": "冶金学_金属材料_力学性能",
+   "subjectName": "力学性能",
+   "publishYear": "2019",
+   "definition": "材料抵抗压入或刻刮的能力。用来衡量固体材料的软硬程度。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "物理学名词",
+   "wordNumber": "08.2341",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "计量学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "计量学_力值、硬度_硬度试验",
+   "subjectName": "硬度试验",
+   "publishYear": "2015",
+   "definition": "材料抵抗弹性变形、塑性变形、划痕或破裂等一种或多种作用的能力。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "药学名词",
+   "wordNumber": "02.080",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "片剂抵抗硬物压入其表面的性能。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0512",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料性能",
+   "subjectName": "材料性能",
+   "publishYear": "2011",
+   "definition": "用材料抵抗压入或刻刮的性质来衡量固体材料软硬程度的力学性能指标。如布氏硬度、洛氏硬度、维氏硬度等。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "生态学名词",
+   "wordNumber": "16.124",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "水沉淀肥皂的能力，大体反映水中钙、镁离子的含量。钙镁浓度的总和称为总硬度，以每升水含碳酸钙的毫克数或毫克当量表示。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.019",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "土木工程名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "土木工程_工程材料_材料性质",
+   "subjectName": "材料性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.034",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "固体材料对外界物体压陷、刻划等作用的局部抵抗能力，是衡量材料软硬程度的一个指标。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "地质学名词",
+   "wordNumber": "04.237",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness,firmness",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0271",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品质构特性",
+   "subjectName": "食品质构特性",
+   "publishYear": "2020",
+   "definition": "材料局部抵抗硬物压入其表面的能力。食品领域用来描述食物软硬、咀嚼需要的力度大小的物理指标。"
+  },
+  {
+   "cn": "硬度",
+   "en": "grade,hardness",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "12.005",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_磨料磨具_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "表示磨粒在外力作用下从磨具表面完全脱离的难易程度。或指结合剂在外力作用下，抵抗磨粒从磨具表面脱落的抵抗力。"
+  },
+  {
+   "cn": "硬度传感器",
+   "en": "hardness transducer,hardness sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0132",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受材料硬度并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "硬新闻",
+   "en": "hard news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.051",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "重大政治、经济、文化、军事新闻的统称。其特点是严肃、规范及一定的报道程序化。"
+  },
+  {
+   "cn": "硬度分布",
+   "en": "hardness profile",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.205",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_淬火",
+   "subjectName": "淬火",
+   "publishYear": "2021",
+   "definition": "工件淬火后，硬度由表面至心部随距离的变化曲线。"
+  },
+  {
+   "cn": "硬度规",
+   "en": "hardness gauge",
+   "source": "物理学名词",
+   "wordNumber": "08.2342",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "硬度冲头",
+   "en": "hardness hammer",
+   "source": "计量学名词",
+   "wordNumber": "04.155",
+   "subjectFullName": "计量学_力值、硬度_硬度块",
+   "subjectName": "硬度块",
+   "publishYear": "2015",
+   "definition": "在硬度计中，用来冲击试样的部件。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "degree of hardness\",\"hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬度标度",
+   "en": "hardness scale",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬度试验",
+   "en": "hardness test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬度试验",
+   "en": "hardness test",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬度数",
+   "en": "hardness number",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "水质硬度",
+   "en": "water hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "永久硬度",
+   "en": "permanent hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总硬度",
+   "en": "total hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "刮痕硬度",
+   "en": "scratch hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "肖氏硬度",
+   "en": "Shore hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压痕硬度",
+   "en": "indentation hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "维氏硬度",
+   "en": "Vickers hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "布氏硬度",
+   "en": "Brinell hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "邵氏硬度",
+   "en": "Shore hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "球压式硬度",
+   "en": "ball hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "重拳",
+   "en": "hard blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "劲射",
+   "en": "hard shot\",\"drive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离坚白",
+   "en": "Separate Hardness from Whiteness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "硬编码加密密钥",
+   "en": "hard-coded encryption key",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "硬地球场",
+   "en": "fast court\",\"hard court",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "民生在勤",
+   "en": "Well-being Is Forged Through Hard Work.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知难行易",
+   "en": "To Act Is Easy; To Know Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知易行难",
+   "en": "To Know Is Easy; To Act Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全索具",
+   "en": "harness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷",
+   "en": "handiness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马具工",
+   "en": "harness maker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共同抓好大保护，协同推进大治理",
+   "en": "to work together to protect and harness the Yellow River",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "硬质糖果",
+   "en": "hard candy",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.1",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以食糖、糖浆或甜味剂等为主要原料，经加工制成的硬、脆固体糖果。"
+  },
+  {
+   "cn": "硬科学",
+   "en": "hard science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与技术科学两大系统学科与其交叉学科的统称。因借用电子计算机的“硬件”而得名。其研究内容包括数学、物理学、化学、天文学、地理学、生物科学以及技术工程等学科。"
+  },
+  {
+   "cn": "硬核",
+   "en": "hard core",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.159",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "研究纲领的基础和核心的陈述和命题。通常是约定的、不容反驳与不可改变的。"
+  },
+  {
+   "cn": "标准硬水",
+   "en": "standard hard water",
+   "source": "消毒学",
+   "wordNumber": "6.2.6.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "由氯化钙和氯化镁溶于蒸馏水中制成的碳酸钙浓度为342mg/L的水，消毒学试验中常用于配制消毒剂。"
+  },
+  {
+   "cn": "艰苦奋斗精神",
+   "en": "spirit of hard struggle",
+   "source": "马克思主义",
+   "wordNumber": "03.0558",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党及其人民军队在长期革命斗争中倡导和培育的，以自力更生、奋发图强、不怕困难、不畏艰险以及生活上勤俭节约为主要内容的意识、行为和作风。"
+  },
+  {
+   "cn": "艰苦奋斗",
+   "en": "plain living and hard work",
+   "source": "马克思主义",
+   "wordNumber": "03.0450",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "共产党的优良传统和作风之一，也是无产阶级和共产党员的政治本色和高贵品质的体现。"
+  },
+  {
+   "cn": "两手抓两手都要硬",
+   "en": "Both hands working hard all the time",
+   "source": "马克思主义",
+   "wordNumber": "04.0135",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "具有对立统一关系的两方面工作应当同时抓紧，使之互相配合、互相促进。比如：一手抓改革开放，一手抓打击犯罪；一手抓经济建设，一手抓民主法制；一手抓物质文明，一手抓精神文明。"
+  },
+  {
+   "cn": "垃圾无害化处理",
+   "en": "harmless disposal of garbage",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.2.5",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "使垃圾发生生物、物理、化学变化，分解有机物，达到无害化要求的处理过程，主要有填埋、焚烧和堆肥三种处理方法。"
+  },
+  {
+   "cn": "无害化处理",
+   "en": "harmless treatment, non-hazardous treatment",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.18",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "用物理、化学等方法处理病死及病害动物和相关动物产品，消灭其所携带的病原体，消除危害的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

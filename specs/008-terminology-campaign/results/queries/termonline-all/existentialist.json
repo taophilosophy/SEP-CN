@@ -1,0 +1,62 @@
+{
+ "key": "existentialist",
+ "term": "existentialist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:08:23+00:00",
+ "status": "ok",
+ "note": "variant=existentialist; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "存在主义技术哲学",
+   "en": "existentialist philosophy of technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.196",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "认为现代技术的本质是“座架”，将其对象性存在加以展现或解蔽，人成为受其控制或摆布的“持存物”，并将人置于一种危险的境地。"
+  },
+  {
+   "cn": "存在主义",
+   "en": "existentialism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在主义伦理学",
+   "en": "existentialist ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.14",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "从存在主义出发说明道德现象的伦理学理论。它把人的问题作为伦理学研究的中心，认为探讨人的问题，特别是人的尊严、价值问题，具有头等重要的意义。"
+  },
+  {
+   "cn": "存在主义的马克思主义",
+   "en": "Existentialistic Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0014",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "主张把存在主义和马克思主义“综合”起来，按照存在主义的精神去“解释”和“补充”马克思主义的一个流派。其内部有两种倾向：一种以列斐伏尔为代表，从马克思主义走向存在主义；另一种是以梅洛·庞蒂（Mauric"
+  },
+  {
+   "cn": "存在主义的人道主义",
+   "en": "humanitarianism of existentialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0059",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特（Jean-Paul Sartre）在《存在主义是一种人道主义》中立足于存在主义哲学所提出的概念。他认为，除了人类的宇宙，即人类主观性的宇宙外，无其他宇宙；综合超越性和主观性，就是我们所谓的存在主"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

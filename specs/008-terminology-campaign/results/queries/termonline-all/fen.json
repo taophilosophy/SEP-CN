@@ -1,0 +1,462 @@
+{
+ "key": "fen",
+ "term": "fēn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T22:29:12+00:00",
+ "status": "ok",
+ "note": "variant=fēn; 审定公布名词库=412; 海峡两岸名词对照库=104; 其他来源数据库=5; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "反馈负波",
+   "en": "feedback-related negativity,FRN,FN",
+   "source": "心理学名词",
+   "wordNumber": "05.150",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "由负性反馈信息诱发的事件相关电位，表现出的相对负走向的波形变化。"
+  },
+  {
+   "cn": "风机",
+   "en": "fan",
+   "source": "农学名词",
+   "wordNumber": "14.145",
+   "subjectFullName": "农业工程_农业生物环境与设施设备",
+   "subjectName": "农业生物环境与设施设备",
+   "publishYear": "2025",
+   "definition": "依靠机械能提高气体压力进行气体输送的设备。通常由电机、皮带轮、风叶、百叶窗、机壳和安全网等部件组成。"
+  },
+  {
+   "cn": "粉丝",
+   "en": "fan",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.205",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "来源英语fans的音译，本意是指名人、明星的爱好者、支持者、追捧者、崇拜者。在互联网上则指支持和关注明星和权威的群体。"
+  },
+  {
+   "cn": "通风机",
+   "en": "fan",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.0033",
+   "subjectFullName": "化工（八）_化工机器_压缩机",
+   "subjectName": "压缩机",
+   "publishYear": "2021",
+   "definition": "排气表压力小于15kPa的压缩机。"
+  },
+  {
+   "cn": "翅片",
+   "en": "fin",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0343",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "直形、螺旋形、波纹形、锯齿形等金属带或金属条。将翅片绕、焊或嵌在管的表面可以增大传热面积、增强设备传热能力。"
+  },
+  {
+   "cn": "鳍",
+   "en": "fin",
+   "source": "动物学名词",
+   "wordNumber": "5.1781",
+   "subjectFullName": "动物学_无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2021",
+   "definition": "头足类软体动物（如枪形目和乌贼目）胴部两侧或后部，由皮肤扩张形成的呈鳍状伸延部分。在运动过程中起到保持平衡作用。"
+  },
+  {
+   "cn": "鳍",
+   "en": "fin",
+   "source": "动物学名词",
+   "wordNumber": "6.0121",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鱼类",
+   "subjectName": "鱼类",
+   "publishYear": "2021",
+   "definition": "鱼和其他水生脊椎动物的桨形附肢。有运动、导向及平衡作用。鱼的鳍由皮肤、鳍条和鳍棘等组成。"
+  },
+  {
+   "cn": "碱沼",
+   "en": "fen",
+   "source": "植物学名词",
+   "wordNumber": "13.0427",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "水和营养盐类由地下水、地表径流补给、营养物质比较丰富的泥炭沼泽。"
+  },
+  {
+   "cn": "通风机",
+   "en": "fan",
+   "source": "建筑学名词",
+   "wordNumber": "14.0268",
+   "subjectFullName": "建筑学_建筑设备与系统_暖通空调系统与设备部件",
+   "subjectName": "暖通空调系统与设备部件",
+   "publishYear": "2014",
+   "definition": "将机械能转变为气体的势能和动能，用于输送空气及其混合物的动力机械。"
+  },
+  {
+   "cn": "通风机",
+   "en": "fan",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "10.0038",
+   "subjectFullName": "机械工程_流体机械_风机、压缩机_风机",
+   "subjectName": "风机",
+   "publishYear": "2013",
+   "definition": "借助一个或多个装有叶片的叶轮来保持空气或其他气体连续流动的旋转式机械，其单位质量功一般不超过25kJ/kg，压力不超过30kPa。"
+  },
+  {
+   "cn": "分",
+   "en": "fen",
+   "source": "中医药学名词",
+   "wordNumber": "02.225",
+   "subjectFullName": "中医药学_医史文献_医史文献其他",
+   "subjectName": "医史文献其他",
+   "publishYear": "2004",
+   "definition": "旧质量单位。"
+  },
+  {
+   "cn": "风扇",
+   "en": "fan",
+   "source": "航空科学技术名词",
+   "wordNumber": "05.124",
+   "subjectFullName": "航空科学技术_推进技术与航空动力装置",
+   "subjectName": "推进技术与航空动力装置",
+   "publishYear": "2003",
+   "definition": "在双涵燃气涡轮发动机中直接从大气中吸入空气进行压缩，提供内、外涵全部空气的部件。"
+  },
+  {
+   "cn": "鳍",
+   "en": "fin",
+   "source": "水产名词",
+   "wordNumber": "01.177",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "由条状鳍条支撑薄膜而成的鱼类的平衡与运动器官。"
+  },
+  {
+   "cn": "风轮",
+   "en": "fan",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0613",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "排风机",
+   "en": "fan",
+   "source": "化学工程名词",
+   "wordNumber": "03.161",
+   "subjectFullName": "化学工程_传递过程与单元操作_流体动力过程_流体流动",
+   "subjectName": "流体流动",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "扇状聚伞花序",
+   "en": "fan,rhipidium",
+   "source": "植物学名词",
+   "wordNumber": "03.0497",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "单歧聚伞花序的一种。花序扁平状或扇形。"
+  },
+  {
+   "cn": "结束段",
+   "en": "finish segment,FIN",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0672",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "在TCP协议中使用的一种报文段。用于宣告在一个方向上停止发送数据。"
+  },
+  {
+   "cn": "风机",
+   "en": "fan,air blower",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "10.0036",
+   "subjectFullName": "机械工程_流体机械_风机、压缩机_风机",
+   "subjectName": "风机",
+   "publishYear": "2013",
+   "definition": "由风叶、百叶窗、开窗机构、电机、皮带轮、进风罩、内框架、机壳、安全网等部件组成，依靠输入的机械能，提高气体压力并排送气体的机械。"
+  },
+  {
+   "cn": "矿质泥炭沼泽",
+   "en": "fen,minerotrophic mire",
+   "source": "生态学名词",
+   "wordNumber": "16.055",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "水和营养盐类由地下水、地表径流补给、营养物质比较丰富的泥炭沼泽。"
+  },
+  {
+   "cn": "跟",
+   "en": "gēn,AH1,heel",
+   "source": "中医药学名词",
+   "wordNumber": "08.465",
+   "subjectFullName": "中医药学_针灸学_耳穴名称和头皮穴线名称",
+   "subjectName": "耳穴名称和头皮穴线名称",
+   "publishYear": "2004",
+   "definition": "耳穴。在对耳轮上脚前上部。"
+  },
+  {
+   "cn": "碱沼",
+   "en": "fen",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "翅片",
+   "en": "fin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "排风机",
+   "en": "fan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "鳍",
+   "en": "fin",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "鳍",
+   "en": "fin",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中位沼泽",
+   "en": "transitional fen\",\"transitional fen",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "腹鳍",
+   "en": "ventral fin\",\"pelvic fin",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "稳定板",
+   "en": "stabilizing fin\",\"stabilizer fin",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "扇状聚伞花序",
+   "en": "fan\",\"rhipidium",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "扇形三角洲",
+   "en": "fan delta\",\"fan-shaped delta",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋翅片",
+   "en": "helical fin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "通风扇",
+   "en": "draft fan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纵向翅片",
+   "en": "longitudinal fin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "扇形排风机",
+   "en": "fan blower",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "多叶片风机",
+   "en": "multiblade fan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "横向翅片",
+   "en": "transverse fin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "散热片",
+   "en": "cooling fin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "低位沼泽泥炭",
+   "en": "fen peat",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冕扇",
+   "en": "coronal fan",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "扇形喷流",
+   "en": "fan jet",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "比赛结束！",
+   "en": "Fin!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球迷",
+   "en": "fan\",\"supporter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "番族",
+   "en": "Fan people",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.016",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "明清时期对台湾土著各族之称谓。现称为原住民，被台湾当局识别认定为平埔族等十几个民族。"
+  },
+  {
+   "cn": "风机盘管",
+   "en": "fan coil unit, FCU",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "由风机、换热器及过滤器等组成一体的空气调节设备，是空气-水空调系统的末端装置。"
+  },
+  {
+   "cn": "《番俗六考》",
+   "en": "Six Researches of Fan Peoples’ Customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0299",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清黄叔璥所撰关于清代台湾“原住民”之民族志。所谓“番俗”，即平埔族（熟番）之风俗。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
