@@ -119,7 +119,7 @@ class TermHarvestTests(unittest.TestCase):
                 self.assertNotEqual(c['type'], 'arabic')
 
     def test_termhood_guard_rejects_noise(self):
-        # specs/046 治本：确定性/高置信非术语在提取端拦下
+        # specs/050 治本：确定性/高置信非术语在提取端拦下
         doc = os.path.join(self.corpus, 'doc-noise.md')
         # 泛词（单字 quoted / 通用搭配 phrase / cjk 虚词 / 结构标题 topic /
         # 数学残渣 / 书目残片）全部不得入池；真术语对照须入池。

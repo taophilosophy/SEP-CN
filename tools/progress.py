@@ -108,8 +108,8 @@ def load_tasks():
                     continue
                 if isinstance(data, dict) and data.get('state') is None \
                         and not data.get('steps'):
-                    # 无状态机的登记册/数据池（如 term-candidates 术语候选册、
-                    # term-pool 术语候选池）不是任务，不计入
+                    # 无状态机的登记册/数据池（如 term-pool 术语候选池、
+                    # ci-hui-biao 词汇表）不是任务，不计入
                     continue
                 if isinstance(data, dict) and data.get('slug'):
                     tasks.append(data)

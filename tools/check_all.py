@@ -29,7 +29,7 @@ import os
 import subprocess
 import sys
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+sys.stdout.reconfigure(encoding="utf-8")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # (人读名称, 矩阵键, 命令)。命令相对仓库根：门禁走 tools/，单元测试走模块。

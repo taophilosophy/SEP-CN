@@ -1,0 +1,74 @@
+{
+ "schema": "sep-cn-term-ledger/1",
+ "date": "2026-11-18",
+ "generator": "specs/050 §9 双池合并遗留处置（工具只提议、人裁定的 exempt 出口）",
+ "background": "tasks/term-candidates.json（2026-10-27 旧池）并入 term-pool.json 时发现 5 条 held 键已在术语登记册——历史状态漂移（登记在册后未回写池状态）。2026-11-18 主理人裁定『豁免，你自己处理』。",
+ "reviewer": "ykla（主理人，2026-11-18 会话指令）",
+ "rows": [
+  {
+   "doc": "specs/050 §9（池级，非单词条）",
+   "term": "actualism",
+   "translation": "现实主义（模态形而上学；亦作“现实论”；伦理学语境词条定名作“现实主义”）",
+   "variants": [],
+   "head": "术语表 L104（2026-11-01）",
+   "status": "ripple",
+   "d_class": "n/a",
+   "exit": "exempt",
+   "evidence": "池内 held:模态语境译名不稳——但登记册已有正式主形（2026-11-01 凭证在案），池状态滞后于登记册；池内无需再行动，状态回写为 published（见登记行）。豁免理由：登记册已收、按 ADR-0020 词条内锁主形执行。",
+   "source": "术语表 L104：Actualism→现实主义（学界惯例；凭证 2026-11-01）",
+   "reviewer": "ykla"
+  },
+  {
+   "doc": "specs/050 §9（池级，非单词条）",
+   "term": "bayesian confirmation theory",
+   "translation": "贝叶斯验证理论（亦作“贝叶斯确证理论”）",
+   "variants": [],
+   "head": "术语表 L554（2026-10-29）",
+   "status": "ripple",
+   "d_class": "n/a",
+   "exit": "exempt",
+   "evidence": "池内 held:随 bayes-theorem 词条翻译定——登记册已收审定名词库译名（2026-10-29 凭证）。豁免理由：登记册已收；bayes-theorem 词条翻译时按登记主形落地即可。",
+   "source": "术语表 L554：审定名词库（termonline-all·自然辩证法名词，2026-10-29）",
+   "reviewer": "ykla"
+  },
+  {
+   "doc": "specs/050 §9（池级，非单词条）",
+   "term": "chinese philosophy",
+   "translation": "中国哲学",
+   "variants": [],
+   "head": "术语表 L821（2026-10-27）",
+   "status": "ripple",
+   "d_class": "n/a",
+   "exit": "exempt",
+   "evidence": "池内 held:下一批次发布——登记册已收（2026-10-27 凭证），池状态滞留。豁免理由：登记册已收，无后续动作。",
+   "source": "术语表 L821：termonline-standard GB 标准库凭证（2026-10-27）",
+   "reviewer": "ykla"
+  },
+  {
+   "doc": "specs/050 §9（池级，非单词条）",
+   "term": "scottish philosophy",
+   "translation": "苏格兰哲学",
+   "variants": [],
+   "head": "术语表 L5065（2026-10-27）",
+   "status": "ripple",
+   "d_class": "n/a",
+   "exit": "exempt",
+   "evidence": "池内 held:下一批次发布——登记册已收（2026-10-27 凭证）。豁免理由：登记册已收，无后续动作。",
+   "source": "术语表 L5065：termonline-standard GB 标准库凭证（2026-10-27）",
+   "reviewer": "ykla"
+  },
+  {
+   "doc": "specs/050 §9（池级，非单词条）",
+   "term": "ancient philosophy",
+   "translation": "古代哲学",
+   "variants": [],
+   "head": "术语表 L268（2026-10-27）",
+   "status": "ripple",
+   "d_class": "n/a",
+   "exit": "exempt",
+   "evidence": "池内 held:下一批次发布——登记册已收（2026-10-27 凭证）。豁免理由：登记册已收，无后续动作。",
+   "source": "术语表 L268：termonline-standard GB 标准库凭证（2026-10-27）",
+   "reviewer": "ykla"
+  }
+ ]
+}

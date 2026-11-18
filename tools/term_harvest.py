@@ -25,23 +25,23 @@ import re
 import sys
 from collections import Counter
 
-_enc = getattr(sys.stdout, 'encoding', None)
-if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
-    try:
-        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-    except (AttributeError, ValueError):
-        pass
+# 就地重配置编码：不替换 sys.stdout 对象，避免被 unittest 等宿主导入时缓冲区已关闭
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except (AttributeError, ValueError, OSError):
+    pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)  # 脚本直跑时保证 from tools import 可用
-from tools.register_lib import norm_key, person_path, term_path  # noqa: E402
+from tools.register_lib import norm_key, norm_key_quote, person_path, term_path  # noqa: E402
 CORPUS = os.path.join(ROOT, 'yuanwen')
 POOL = os.path.join(ROOT, 'tasks', 'term-pool.json')
 CACHE = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                      'harvest-cache')
 REGISTRY = term_path()
 REGISTRY2 = person_path()
-LEGACY_POOL = os.path.join(ROOT, 'tasks', 'term-candidates.json')
+# 旧候选池已于 2026-11-18 全量并入 term-pool.json 并删除（specs/050 §8）；
+# LEGACY_POOL 保留为兼容占位（文件不存在即跳过），历史裁定账已在新池 candidates 内。
 
 STOPWORDS = set('''the a an and or of to in on for with as by at from is are was
 were be been being that this these those it its their his her our your not no
@@ -129,7 +129,7 @@ TOPIC_GENERIC = {
 }
 
 # ---------------------------------------------------------------------------
-# 术语性守卫（2026-11-18，specs/046 术语提取降噪）
+# 术语性守卫（2026-11-18，specs/050 术语提取降噪）
 # 治本：在提取端就拦下「非术语」——单字泛词、通用搭配、结构标题、书目残片、
 # 句子级串、古汉语虚词。确定性残渣自动拦；语义泛词用保守泛词表拦，
 # 全部可在预筛账（specs/008 results/prescreen-*）复核撤销。
@@ -246,7 +246,7 @@ TERM_KEEP = {
 def termhood_ok(raw, typ):
     """术语性守卫：返回 True 表示可入池，False 表示确定性/高置信非术语。
 
-    治本核心（specs/046）：把「单字泛词、通用搭配、结构标题、书目残片、
+    治本核心（specs/050）：把「单字泛词、通用搭配、结构标题、书目残片、
     句子级串、古汉语虚词」在提取端就拦下。只拦确定性/高置信非术语，
     语义待定者一律放行留给人审（机检为筛、人审为判，ADR-0070）。
     """
@@ -366,7 +366,7 @@ def extract_slug(path):
     """单篇五路提取 → Counter(键 → 频次) 与原始形、类型映射。"""
     text = open(path, encoding='utf-8').read()
     text = re.sub(r'```.*?```', ' ', text, flags=re.S)  # 代码块剔除
-    # 数学模式剔除（2026-11-18 specs/046 治本）：$..$ / $$..$$ / \(..\) / \[..\]。
+    # 数学模式剔除（2026-11-18 specs/050 治本）：$..$ / $$..$$ / \(..\) / \[..\]。
     # 旧版漏剔，反斜杠被 WORD_RE 剥掉后残留 cdot/rightarrow/langle 等，
     # 曾产出 "mid cdot"「rightarrow rightarrow」类 LaTeX 残渣（freq 数百）。
     text = re.sub(r'\$\$.*?\$\$', ' ', text, flags=re.S)
@@ -392,7 +392,7 @@ def extract_slug(path):
             if NONASCII_LATIN.search(raw) or GERMAN_SUFFIX_RE.search(raw) \
                     or key in FOREIGN_LEXICON:
                 typ = 'foreign'
-        # 术语性守卫（2026-11-18 specs/046 治本）：确定性/高置信非术语在提取端拦下
+        # 术语性守卫（2026-11-18 specs/050 治本）：确定性/高置信非术语在提取端拦下
         if not termhood_ok(raw, typ):
             return
         counter[key] += 1
@@ -426,18 +426,20 @@ def extract_slug(path):
         toks = seq.replace('\u2019', ' ').split()
         if any(ARAB_PARTICLES.match(t) for t in toks):
             add(seq, 'arabic')
-    # 概念短语：段落词序列滑窗（停用词断窗）
+    # 概念短语：句子级词序列滑窗（specs/050 治本：按句界断窗，杜绝跨句粘连）。
+    # 句界：句末标点（.!?；）或分号/冒号——术语是名词短语，跨句共现必是残片。
     for para in body.split('\n'):
-        words = WORD_RE.findall(para)
-        low = [w.casefold() for w in words]
-        n = len(words)
-        for i in range(n):
-            if low[i] in STOPWORDS or len(words[i]) < 3:
-                continue
-            for j in (i + 1, i + 2):
-                if j >= n or low[j] in STOPWORDS or len(words[j]) < 3:
-                    break
-                add(' '.join(words[i:j + 1]), 'phrase')
+        for sent in re.split(r'(?<=[.!?:；;])\s+', para):
+            words = WORD_RE.findall(sent)
+            low = [w.casefold() for w in words]
+            n = len(words)
+            for i in range(n):
+                if low[i] in STOPWORDS or len(words[i]) < 3:
+                    continue
+                for j in (i + 1, i + 2):
+                    if j >= n or low[j] in STOPWORDS or len(words[j]) < 3:
+                        break
+                    add(' '.join(words[i:j + 1]), 'phrase')
     # 主题词路线（2026-10-30）：H1 题名 + 章节标题关键短语（含各语种原文标题词）
     for line in text.split('\n'):
         m = re.match(r'(#{1,2})\s+(.+?)\s*$', line)
@@ -461,7 +463,12 @@ def extract_slug(path):
 
 
 def load_registered_keys():
-    """已登记键：两登记册 + 旧候选池 + 新候选池（ADR-0036：词汇表并网删除）。"""
+    """已登记键（A 口径 norm_key_quote，specs/033）：两登记册 + 旧候选池 + 新候选池。
+
+    2026-11-18 specs/050 §7：池侧原用 B 口径 norm_key（不折叠撇号），与登记册侧
+    （check_terms.norm_key 实际是 A 口径）不对称，致 ʿ/’ 与 ' 变体（如 ʿaql↔'aql、
+    Bayes’ Theorem↔bayes' theorem）漏扣。统一改 A 口径折叠撇号，消除漏扣。
+    """
     from tools import check_terms
     keys = set()
     for path in (REGISTRY, REGISTRY2):
@@ -472,14 +479,14 @@ def load_registered_keys():
             for part in re.split(r'\s*/\s*', row[0]):
                 if part.strip():
                     keys.add(check_terms.norm_key(part))
-    for pool_path in (LEGACY_POOL, POOL):
+    for pool_path in (POOL,):
         if os.path.exists(pool_path):
             try:
                 data = json.load(open(pool_path, encoding='utf-8'))
                 for c in data.get('candidates', []):
                     for part in re.split(r'\s*/\s*', c.get('en', '')):
                         if part.strip():
-                            keys.add(norm_key(part))
+                            keys.add(norm_key_quote(part))
             except (ValueError, OSError):
                 pass
     return keys
@@ -563,7 +570,8 @@ def main(argv=None):
         if entry is None:
             # 新键：已登记（在别处完成裁定）或低于阈值 → 不入池
             typ = run_types.get(key, 'phrase')
-            if key in registered:
+            # 已登记求差走 A 口径（key 为 B 口径池键，须再折叠撇号后比对，specs/050 §7）
+            if norm_key_quote(key) in registered:
                 continue
             if freq < MIN_FREQ.get(typ, OTHER_MIN_FREQ):
                 continue
@@ -607,7 +615,7 @@ def main(argv=None):
                   'person=5 topic/greek/hebrew/cyrillic/devanagari/cjk=1；'
                   '低频尾部留存单篇缓存（results/harvest-cache/，本地）；' % (
                       PHRASE_MIN_FREQ, OTHER_MIN_FREQ),
-        'usage': 'status 状态机沿用 term-candidates.json：new→published@日期|held:理由|rejected:理由',
+        'usage': 'status 状态机（沿袭原 term-candidates.json 先例，已并入本池）：new→published@日期|held:理由|rejected:理由',
     }
     tmp = pool_path + '.tmp'
     with open(tmp, 'w', encoding='utf-8', newline='\n') as f:

@@ -1,0 +1,230 @@
+{
+ "date": "2026-11-18",
+ "script": "rebuild (specs/050 §5)",
+ "ledger_kept": 12592,
+ "old_new": 59211,
+ "fresh_from_fixed_extractor": 59160,
+ "retired_count": 44,
+ "retired": [
+  {
+   "en": "God’s existence",
+   "type": "phrase",
+   "freq": 420
+  },
+  {
+   "en": "Bayes’ Theorem",
+   "type": "phrase",
+   "freq": 113
+  },
+  {
+   "en": "Curry’s Paradox",
+   "type": "phrase",
+   "freq": 88
+  },
+  {
+   "en": "Hilbert’s Program",
+   "type": "phrase",
+   "freq": 79
+  },
+  {
+   "en": "Bell’s Theorem",
+   "type": "phrase",
+   "freq": 75
+  },
+  {
+   "en": "Molyneux’s Problem",
+   "type": "phrase",
+   "freq": 41
+  },
+  {
+   "en": "Yaḥyā Ibn ʿAdī",
+   "type": "arabic",
+   "freq": 34
+  },
+  {
+   "en": "Ikhwân al-Safâ’",
+   "type": "foreign",
+   "freq": 32
+  },
+  {
+   "en": "Rasā’il",
+   "type": "foreign",
+   "freq": 26
+  },
+  {
+   "en": "Ibn ʿArabī",
+   "type": "arabic",
+   "freq": 23
+  },
+  {
+   "en": "Wigner’s friend",
+   "type": "phrase",
+   "freq": 21
+  },
+  {
+   "en": "Markov’s principle",
+   "type": "phrase",
+   "freq": 20
+  },
+  {
+   "en": "ʿaql",
+   "type": "italic",
+   "freq": 18
+  },
+  {
+   "en": "nafs al-ʾamr",
+   "type": "italic",
+   "freq": 18
+  },
+  {
+   "en": "sharīʿa",
+   "type": "foreign",
+   "freq": 15
+  },
+  {
+   "en": "Zorn’s lemma",
+   "type": "italic",
+   "freq": 15
+  },
+  {
+   "en": "Kripke’s Schema",
+   "type": "italic",
+   "freq": 15
+  },
+  {
+   "en": "maʿnā",
+   "type": "foreign",
+   "freq": 7
+  },
+  {
+   "en": "maʿqūl",
+   "type": "foreign",
+   "freq": 5
+  },
+  {
+   "en": "ta’wīl",
+   "type": "foreign",
+   "freq": 5
+  },
+  {
+   "en": "Ikhwān al-ṣafāʾ",
+   "type": "arabic",
+   "freq": 5
+  },
+  {
+   "en": "maʿānī",
+   "type": "foreign",
+   "freq": 4
+  },
+  {
+   "en": "ʿilla",
+   "type": "italic",
+   "freq": 4
+  },
+  {
+   "en": "ma‘ânî",
+   "type": "foreign",
+   "freq": 4
+  },
+  {
+   "en": "T’ong Pulgyo",
+   "type": "italic",
+   "freq": 4
+  },
+  {
+   "en": "i‘tibari",
+   "type": "italic",
+   "freq": 4
+  },
+  {
+   "en": "aʿrāḍ",
+   "type": "foreign",
+   "freq": 3
+  },
+  {
+   "en": "iʿtibārī",
+   "type": "foreign",
+   "freq": 3
+  },
+  {
+   "en": "al-uṣūl al-mawḍūʿa",
+   "type": "arabic",
+   "freq": 3
+  },
+  {
+   "en": "al-uṣūl al-mutaʿārafa",
+   "type": "arabic",
+   "freq": 3
+  },
+  {
+   "en": "ʿilm al-nafs",
+   "type": "arabic",
+   "freq": 3
+  },
+  {
+   "en": "Saʿīd al-Andalusī",
+   "type": "arabic",
+   "freq": 3
+  },
+  {
+   "en": "Hamhŏ Tŭkt’ong",
+   "type": "foreign",
+   "freq": 3
+  },
+  {
+   "en": "Ibn Abī Uṣaybiʿa",
+   "type": "arabic",
+   "freq": 2
+  },
+  {
+   "en": "ijmāʿ",
+   "type": "foreign",
+   "freq": 2
+  },
+  {
+   "en": "taʾwīl",
+   "type": "foreign",
+   "freq": 2
+  },
+  {
+   "en": "Ibn Naʿima al-Himsi",
+   "type": "arabic",
+   "freq": 2
+  },
+  {
+   "en": "mabādi’",
+   "type": "foreign",
+   "freq": 2
+  },
+  {
+   "en": "shari’a",
+   "type": "italic",
+   "freq": 2
+  },
+  {
+   "en": "ma‘ná",
+   "type": "foreign",
+   "freq": 2
+  },
+  {
+   "en": "Ch’oe Namsŏn",
+   "type": "foreign",
+   "freq": 2
+  },
+  {
+   "en": "al-fi‘l al-mahd",
+   "type": "italic",
+   "freq": 2
+  },
+  {
+   "en": "Abū Hāshim Jubā’ī",
+   "type": "arabic",
+   "freq": 2
+  },
+  {
+   "en": "François-Marie d’Arouet",
+   "type": "foreign",
+   "freq": 2
+  }
+ ]
+}

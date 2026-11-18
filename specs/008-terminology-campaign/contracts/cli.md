@@ -11,7 +11,7 @@
 
 ## 数据权属
 
-* `tasks/term-pool.json` —— 候选池（状态机 published/held/rejected 沿用 term-candidates.json 先例；term-candidates.json 保留为历史批次记录，新批次一律进 term-pool.json）。
+* `tasks/term-pool.json` —— 候选池（状态机 published/held/rejected 沿用原 term-candidates.json 先例；**2026-11-18 起原 `tasks/term-candidates.json` 已全量并入本池并删除**，见 specs/050 §8；新批次一律进 term-pool.json）。
 * `specs/008-terminology-campaign/results/` —— 查证凭证与审阅报告（入库，可追溯）。
 * `shu-yu-biao.md` / `ren-ming-biao.md` —— 登记册，只经裁定流程修改（会话 Edit + 中文一行提交；前者 ADR-0036 改名，原 `yi-zhe-shuo-ming.md`）。
 * `qian-yan/ci-hui-biao.md` —— 发布视图（**已并网删除，ADR-0036**；历史凭证见 git 历史）。
