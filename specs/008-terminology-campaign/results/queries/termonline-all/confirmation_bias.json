@@ -1,0 +1,702 @@
+{
+ "key": "confirmation bias",
+ "term": "confirmation bias",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:12:00+00:00",
+ "status": "ok",
+ "note": "variant=confirmation bias; 审定公布名词库=322; 海峡两岸名词对照库=115; 其他来源数据库=10; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "证真偏差",
+   "en": "confirmation bias",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0156",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "人们希望去寻找与他们持有观点相一致信息的现象，任何与其观点相冲突的信息会被忽略掉，而一致的信息则会被高估。"
+  },
+  {
+   "cn": "可验证性",
+   "en": "confirmability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "认为一个陈述有认知意义，当且仅当这个陈述和其他辅助假说合取时，能够推导出观察命题，并且这些观察命题不能由辅助假说单独推出。"
+  },
+  {
+   "cn": "[分析]偏倚",
+   "en": "bias",
+   "source": "地质学名词",
+   "wordNumber": "13.08.083",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "大量测量数值平均值与真值之间的差异。分为全面偏倚和可变偏倚。"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "农学名词",
+   "wordNumber": "18.020",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "测试结果的期望与接受参照值之差。"
+  },
+  {
+   "cn": "本底",
+   "en": "bias",
+   "source": "天文学名词",
+   "wordNumber": "06.237",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "探测器正常工作时对应零积分时间的输出信号。"
+  },
+  {
+   "cn": "偏差",
+   "en": "bias",
+   "source": "畜牧学名词",
+   "wordNumber": "04.631",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "参数估计值的数学期望与参数真值之差。"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "计划生育名词",
+   "wordNumber": "05.025",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "一项研究结果与其真实值之间出现了差异。是由系统误差所致的错误，是人为造成的误差，可以通过一定的手段加以防止、控制或消除。"
+  },
+  {
+   "cn": "偏置",
+   "en": "bias",
+   "source": "物理学名词",
+   "wordNumber": "03.0942",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.156",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "在设计试验方案、试验实施、分析评价临床试验结果时，因主、客观因素(如病例选择、观察方法等)潜在的倾向性偏差导致结果出现的系统性、非随机性误差。"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "核医学名词",
+   "wordNumber": "06.0351",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "在设计试验方案、试验实施、分析评价临床试验结果时，因主、客观因素(如病例选择、观察方法等)潜在的倾向性偏差导致结果出现的系统性、非随机性误差。"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "化学名词",
+   "wordNumber": "03.0161",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "由系统误差产生的实际测量值对被测量真值的偏离。"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "药学名词",
+   "wordNumber": "06.063",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "由于某种确定的原因引起的误差。一般有固定的方向和大小，重复测量时重复出现。"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.027",
+   "subjectFullName": "放射医学与防护_放射流行病学_概述、设计与实施",
+   "subjectName": "概述、设计与实施",
+   "publishYear": "2014",
+   "definition": "抽样(随机)误差以外的任何原因引起的系统误差。流行病学研究中是指资料的搜集、分析、解释、出版或评述中可能导致结论系统性偏离真值的任何趋势。常见的有选择偏倚、信息偏倚和混杂偏倚。"
+  },
+  {
+   "cn": "偏置",
+   "en": "bias",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.218",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "偏移",
+   "en": "bias",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.220",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "数学名词",
+   "wordNumber": "09.0555",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "偏压",
+   "en": "bias",
+   "source": "电子学名词",
+   "wordNumber": "10.259",
+   "subjectFullName": "电子学_真空电子学",
+   "subjectName": "真空电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "地质学名词",
+   "wordNumber": "06.488",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "确证程序",
+   "en": "confirmation procedure",
+   "source": "运动医学名词",
+   "wordNumber": "09.050",
+   "subjectFullName": "运动医学_反兴奋剂_国际标准",
+   "subjectName": "国际标准",
+   "publishYear": "2019",
+   "definition": "一种分析检测过程，旨在确定样品中一种或多种特定禁用物质、禁用物质的代谢物、使用禁用物质的标志物的浓度或禁用方法是否存在的分析检测过程。确证程序还可显示某种禁用物质的含量高于检测限和确定样品中某种禁用物"
+  },
+  {
+   "cn": "积极式函证",
+   "en": "positive confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0385",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "要求被询证者直接向审计师回复，表明是否同意询证函所列示的信息，或填列所要求的信息的询证方式。"
+  },
+  {
+   "cn": "验证性偏倚",
+   "en": "confirmation bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏压",
+   "en": "bias",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "偏倚,偏向",
+   "en": "bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本底",
+   "en": "bias",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "偏差",
+   "en": "bias",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "偏向",
+   "en": "bias",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "偏倚，偏差",
+   "en": "bias",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "偏压",
+   "en": "bias",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保兑手续费",
+   "en": "confirmation commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购货确认书",
+   "en": "purchase confirmation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最后确认",
+   "en": "final confirmation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投递证实",
+   "en": "delivery confirmation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保兑信用证",
+   "en": "confirmed credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保兑银行",
+   "en": "confirming bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付商行",
+   "en": "confirming house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付书",
+   "en": "confirming order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "发育偏好",
+   "en": "developmental bias",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏倚评分，系统性误差评分",
+   "en": "bias score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续性偏倚",
+   "en": "durability bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据资产确权",
+   "en": "data asset confirmation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保兑仓融资",
+   "en": "confirming warehouse financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权法定",
+   "en": "Legislative Confirmation of Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应治尽治",
+   "en": "All confirmed patients should be treated.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "县解",
+   "en": "Freeing the Mind from Bias",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收尽收",
+   "en": "All suspected and confirmed patients should be admitted to the hospital. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区块链即服务",
+   "en": "Blockchain as a Service (BaaS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际清算银行",
+   "en": "Bank for International Settlements (BIS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "从样本人群中获得的某变量的测量值系统地偏离了目标人群中该变量的真实值，导致研究结果或推论与真实情况之间出现的系统误差。"
+  },
+  {
+   "cn": "偏倚",
+   "en": "bias",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.66",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "报告值与真实值之间的差异。样本的偏倚源于成员的遗漏，或未经适当加权的总体成员的不等概选择。"
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，具有某种疾病的临床症状体征以及实验室诊断证据的病例。"
+  },
+  {
+   "cn": "确诊病例数",
+   "en": "confirmed cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "经过流行病学资料、临床表现和实验室检查后确诊患某种疾病的人数。"
+  },
+  {
+   "cn": "社会性别偏见",
+   "en": "gender bias",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0219",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们对男性、女性及具有其他社会性别属性认同者持有某些固定的成见。"
+  },
+  {
+   "cn": "报告偏倚",
+   "en": "reporting bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "在调查过程中研究对象对某些信息的故意夸大或缩小所导致的系统误差。"
+  },
+  {
+   "cn": "抽样偏倚",
+   "en": "sampling bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "当样本包含的不同类型的对象与他们在总体中的出现情况不相称时，所导致的偏倚。"
+  },
+  {
+   "cn": "回忆偏倚",
+   "en": "recall bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象对暴露史或既往史回忆的准确性和完整性存在差异而产生的系统误差。"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "选择偏倚",
+   "en": "selection bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象的选择不当，导致入选者与未选入者特征上存在差异，如缺乏代表性、暴露组与对照组可比性差等，而导致的研究结果偏离真实，从而产生的系统误差。"
+  },
+  {
+   "cn": "选择性偏误",
+   "en": "selection bias",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.156",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在研究过程中，因样本选择的非随机性而导致结论存在的偏差。"
+  },
+  {
+   "cn": "文化偏见",
+   "en": "cultural bias",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.11",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "对于一种文化，在缺乏充分事实根据的情况下，往往凭借有限或不正确的信息而做出的个体主观臆断。"
+  },
+  {
+   "cn": "性别偏见",
+   "en": "gender bias",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.8",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "基于对性别的偏狭理解所导致的关于不同性别及其关系的不公正看法，通常与性别文化中形成的关于不同性别的刻板印象有关。"
+  },
+  {
+   "cn": "归因偏误",
+   "en": "attribution bias",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "认知者在归因过程中因受到人类认知过程本身固有的局限的制约，或自身动机（如自我提升动机）的诱导，而系统地表现出来的偏误。常见的有基本归因错误（谬误）、行为者与观察者的归因偏误、利已主义归因偏误、低估一致"
+  },
+  {
+   "cn": "阶级偏见",
+   "en": "class bias",
+   "source": "马克思主义",
+   "wordNumber": "03.0096",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中不同阶级因其阶级地位和阶级利益所决定的、对其他阶级带有片面的歧见或敌视态度。"
+  },
+  {
+   "cn": "伯克森偏倚",
+   "en": "Berkson's bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "当以医院患者作为研究对象进行研究时，由于各种疾病入院率不同导致病例组与对照组的某些特征与源人群中的特征存在差异，从而产生的系统误差。"
+  },
+  {
+   "cn": "奈曼偏倚",
+   "en": "Neyman's bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "在进行现况调查或病例对照研究时，选择的病例一般是研究时的现患病例或存活病例，而不包括死亡病例和病程短、轻型或不典型病例，致使研究因素与疾病的关联被错误估计，从而产生的系统误差。"
+  },
+  {
+   "cn": "偏差因子",
+   "en": "bias factor, Bf",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.110",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "来判断预测值在等值线的上方还是下方以及评价预测值偏离等值线程度的数值。一般作为判断预测模型偏差度的参数。"
+  },
+  {
+   "cn": "无应答偏倚",
+   "en": "non-response bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于无应答者可能在某些重要的特征或暴露方面与应答者不同，因此当无应答者超过一定比例时，将会影响研究结果的真实性，从而产生的系统误差。"
+  },
+  {
+   "cn": "食源性疾病确诊病例",
+   "en": "confirmed cases of foodborne disease",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "符合《食源性疾病监测报告工作规范（试行）》附录“食源性疾病报告名录”中食源性疾病判定标准的病例。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

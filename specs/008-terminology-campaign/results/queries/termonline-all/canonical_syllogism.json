@@ -1,0 +1,442 @@
+{
+ "key": "canonical syllogism",
+ "term": "canonical syllogism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:09:35+00:00",
+ "status": "ok",
+ "note": "variant=canonical syllogism; 审定公布名词库=145; 海峡两岸名词对照库=57; 其他来源数据库=2; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "心理学名词",
+   "wordNumber": "02.645",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在传统逻辑中，一个命题(结论)必然是从另外两个命题(前提)中得出的一种推论方法。包括大前提、小前提和结论法。"
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "系综里每个体系的粒子数和体积是固定且相同的，每个体系都可以和其他体系交换能量，但是系综里所有体系的能量总和是固定的，系综内各体系有相同的温度。"
+  },
+  {
+   "cn": "正则方程",
+   "en": "canonical equation",
+   "source": "物理学名词",
+   "wordNumber": "02.0601",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则分布",
+   "en": "canonical distribution",
+   "source": "物理学名词",
+   "wordNumber": "05.0540",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则量子化",
+   "en": "canonical quantization",
+   "source": "物理学名词",
+   "wordNumber": "09.0914",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则坐标",
+   "en": "canonical coordinate",
+   "source": "物理学名词",
+   "wordNumber": "02.0599",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "物理学名词",
+   "wordNumber": "05.0539",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0316",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "系综里的每个体系的粒子数和体积是固定且相同的，每个体系都可以和其他体系交换能量，但是系综里所有体系的能量总和是固定的，系综内各体系有相同的温度。"
+  },
+  {
+   "cn": "正则动量",
+   "en": "canonical momentum",
+   "source": "物理学名词",
+   "wordNumber": "02.0600",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则对易子",
+   "en": "canonical commutator",
+   "source": "物理学名词",
+   "wordNumber": "06.0458",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则变换",
+   "en": "canonical transformation",
+   "source": "物理学名词",
+   "wordNumber": "02.0605",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则变量",
+   "en": "canonical variable",
+   "source": "物理学名词",
+   "wordNumber": "02.0602",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "规范序",
+   "en": "canonical order",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0472",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "对一个字母表中的字符串排列顺序的一种规则：首先根据字符串的长度由小到大排列，长度相同的串按字典序排列。"
+  },
+  {
+   "cn": "规范名",
+   "en": "canonical name",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0785",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "一种互联网资源的域名。根据域名可以推测出资源的类型或能力。"
+  },
+  {
+   "cn": "典型序",
+   "en": "canonical order",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0151",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "某种自然顺序，例如一个自然数的子集合 A 可以按其成员从小到大排列的顺序。"
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "化学名词",
+   "wordNumber": "04.0242",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "由大量温度、体积和粒子数相同且恒定的封闭系统组成的系综。"
+  },
+  {
+   "cn": "典范相关",
+   "en": "canonical correlation",
+   "source": "生态学名词",
+   "wordNumber": "10.020",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "找两组随机变量的线性组合，使之相关系数平方最大，从而分析两组随机变量间的关系。"
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "化学工程名词",
+   "wordNumber": "02.317",
+   "subjectFullName": "化学工程_化工热力学_分子间力、溶液理论与统计热力学",
+   "subjectName": "分子间力、溶液理论与统计热力学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "典范赋值",
+   "en": "canonical valuation",
+   "source": "数学名词",
+   "wordNumber": "04.0473",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "典范矩阵",
+   "en": "canonical matrix",
+   "source": "数学名词",
+   "wordNumber": "04.0650",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三段论",
+   "en": "syllogism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定言三段论,直言三段论",
+   "en": "categorical syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线性三段论",
+   "en": "linear syllogism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "卡农",
+   "en": "canon",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无终卡农",
+   "en": "infinite canon\",\"perpetual canon",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "典范矩阵",
+   "en": "canonical matrix",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型变数",
+   "en": "canonical variable",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型方程",
+   "en": "canonical equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型回归",
+   "en": "canonical regression",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型相关",
+   "en": "canonical correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正则变换",
+   "en": "canonical transformation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则方程",
+   "en": "canonical equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "典范矩阵",
+   "en": "canonical matrix",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则坐标",
+   "en": "canonical coordinate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则形式",
+   "en": "canonical form",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "典范相关,典型相关",
+   "en": "canonical correlation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "典范相关",
+   "en": "canonical correlation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "楔形箭头",
+   "en": "chisel pile\",\"conical pile",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教会法",
+   "en": "canon law",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.5",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "包括罗马天主教、东正教和新教的圣公会等在内的基督教会在不同时期制订的各种法律和规则的总和，限定了教会本身的组织、制度，规定了教徒的生活准则，例如财产、婚姻与家庭、继承、犯罪、刑法与诉讼等。"
+  },
+  {
+   "cn": "典型相关分析",
+   "en": "canonical correlation analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.71",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "利用两个综合变量之间的相关关系反映两组指标之间的整体相关性的多元统计分析方法。由美国数理统计学家荷泰林首先提出。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

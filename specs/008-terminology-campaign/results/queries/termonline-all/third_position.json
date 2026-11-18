@@ -1,0 +1,792 @@
+{
+ "key": "third position",
+ "term": "third position",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:05:15+00:00",
+ "status": "ok",
+ "note": "variant=third position; 审定公布名词库=1800; 海峡两岸名词对照库=585; 其他来源数据库=180; 预公布名词数据库=66; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "三副",
+   "en": "third officer,third mate",
+   "source": "航海科技名词",
+   "wordNumber": "13.0356",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "第三脑室",
+   "en": "third ventricle",
+   "source": "神经外科学名词",
+   "wordNumber": "2.043",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_脑室",
+   "subjectName": "脑室",
+   "publishYear": "2026",
+   "definition": "位于两侧丘脑之间、侧脑室体部之下的一个狭窄、隧道样的腔室结构。前上方经室间孔与侧脑室沟通，后下方通过中脑导水管与第四脑室相连。矢状面近似四边形，高2.5～3cm，前后径稍长。"
+  },
+  {
+   "cn": "第三间隙",
+   "en": "third gap",
+   "source": "神经外科学名词",
+   "wordNumber": "2.057",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_脑池",
+   "subjectName": "脑池",
+   "publishYear": "2026",
+   "definition": "翼点入路中的间隙之一。为颈内动脉床突上段的外侧缘和小脑幕之间的空隙。其内有颈内动脉外侧壁发出的后交通动脉和脉络膜前动脉及其发出的穿支。在这些血管的深面靠近小脑幕有动眼神经从后内向前外走行。"
+  },
+  {
+   "cn": "第三优先",
+   "en": "third priority",
+   "source": "急救医学名词",
+   "wordNumber": "05.062",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_现场检伤分类与分级救治",
+   "subjectName": "现场检伤分类与分级救治",
+   "publishYear": "2025",
+   "definition": "检伤分类过程中检出的轻伤、又有检查与治疗需要的患者，在救治完急危重症及较重患者后给予救治的情形。该类患者用绿色标识标记。"
+  },
+  {
+   "cn": "梢间",
+   "en": "third room",
+   "source": "风景园林名词",
+   "wordNumber": "07.0113",
+   "subjectFullName": "风景园林_风景园林建筑_传统建筑构成",
+   "subjectName": "传统建筑构成",
+   "publishYear": "2025",
+   "definition": "次间外边的一间。"
+  },
+  {
+   "cn": "生光",
+   "en": "third contact",
+   "source": "天文学名词",
+   "wordNumber": "03.143",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "主要食相之一，月面与日面或月球与地球本影第二次内切时的现象。也常指此食相发生的时刻。"
+  },
+  {
+   "cn": "第三脑室",
+   "en": "third ventricle",
+   "source": "麻醉学名词",
+   "wordNumber": "01.241",
+   "subjectFullName": "麻醉学_麻醉学基础_神经系统_中枢神经系统解剖",
+   "subjectName": "中枢神经系统解剖",
+   "publishYear": "2024",
+   "definition": "间脑内位于中线的矢状裂隙。第三脑室向前借两个室间孔与两侧脑室相通，向后下借中脑导水管与第四脑室相通。"
+  },
+  {
+   "cn": "第三间隙",
+   "en": "third space",
+   "source": "麻醉学名词",
+   "wordNumber": "01.433",
+   "subjectFullName": "麻醉学_麻醉学基础_内环境与凝血系统",
+   "subjectName": "内环境与凝血系统",
+   "publishYear": "2024",
+   "definition": "存在于体内各腔隙的一小部分非功能性细胞外液所占据空间的总和。理论计算估计第三间隙内体液约占体重的2%，可能包括胸腔液、心包液、腹腔液、关节液、滑膜液和前房水等。"
+  },
+  {
+   "cn": "三校",
+   "en": "third proofreading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.05.022",
+   "subjectFullName": "编辑与出版学_编辑_校对",
+   "subjectName": "校对",
+   "publishYear": "2022",
+   "definition": "出版单位对稿件进行的第三次校对。是最后把关的一个校次。"
+  },
+  {
+   "cn": "第三空间",
+   "en": "third space",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "10.066",
+   "subjectFullName": "新闻学与传播学_跨文化传播_跨文化传播理论",
+   "subjectName": "跨文化传播理论",
+   "publishYear": "2022",
+   "definition": "一种文化概念。①为适应国际政治和文化发展需要，通过跨文化协商和对话，创造出来的一个使本国语言文化和外国语言文化可以实现真正平等对话，帮助学习者冶炼跨文化人格的空间或者文化中间地带。②一种修辞幻象。某种"
+  },
+  {
+   "cn": "第三个因素",
+   "en": "third element",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.021",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "马克思关于报刊作用的一种喻证。他认为，自由报刊具有公民头脑和市民胸怀，能够在官方和市民之间担当一种中介角色，因为它不直接同私人利益纠缠在一起，是第三个因素；官方和市民可以作为平等的合理观点的体现者在报"
+  },
+  {
+   "cn": "第三种权力",
+   "en": "third power",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.035",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "马克思和恩格斯关于报刊作用的一种喻证。1850年5月，法国存在两种政治权力，即总统的行政权力和立法国民议会的权力。议会通过新的出版法，规定报刊文章必须署名和增加保证金，这使得法国的各派报刊都难以存在。"
+  },
+  {
+   "cn": "三次谐波",
+   "en": "third harmonic",
+   "source": "光学名词",
+   "wordNumber": "01.131",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "入射光波经过某种光学介质的非线性效应作用后，在输出端产生的频率等于原基频 3 倍的频率分量。"
+  },
+  {
+   "cn": "第三脑室",
+   "en": "third ventricle",
+   "source": "动物学名词",
+   "wordNumber": "6.117",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2021",
+   "definition": "大脑后方间脑的中央腔室。向前借两个室间孔与两侧脑室相通，向后下借中脑导水管与第四脑室相通。"
+  },
+  {
+   "cn": "第三脑室",
+   "en": "third ventricle",
+   "source": "神经病学名词",
+   "wordNumber": "02.113",
+   "subjectFullName": "神经病学_临床神经解剖学",
+   "subjectName": "临床神经解剖学",
+   "publishYear": "2020",
+   "definition": "双侧间脑之间的矢状裂隙。其前部以室间孔与侧脑室相通，向后以中脑导水管与第四脑室相通。"
+  },
+  {
+   "cn": "第三相",
+   "en": "third phase",
+   "source": "冶金学名词",
+   "wordNumber": "06.0304",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "溶剂萃取过程中，在有机相和水相之间形成的与两者不相混溶的第二有机相。"
+  },
+  {
+   "cn": "三次谐波",
+   "en": "third harmonic",
+   "source": "物理学名词",
+   "wordNumber": "04.2394",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "第三声",
+   "en": "third sound",
+   "source": "物理学名词",
+   "wordNumber": "08.3035",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": "液体氦中的表面波(surface waves)。"
+  },
+  {
+   "cn": "第三转子",
+   "en": "third trochanter",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0751",
+   "subjectFullName": "人体解剖学_运动系统_附肢骨",
+   "subjectName": "附肢骨",
+   "publishYear": "2014",
+   "definition": "臀肌粗隆上方有时形成异常粗大的圆形结节。不恒定。"
+  },
+  {
+   "cn": "第三脑室",
+   "en": "third ventricle",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0560",
+   "subjectFullName": "人体解剖学_神经系统_间脑",
+   "subjectName": "间脑",
+   "publishYear": "2014",
+   "definition": "间脑内位于中线的矢状裂隙。第三脑室向前借两个室间孔与两侧脑室相通，向后下借中脑导水管与第四脑室相通。"
+  },
+  {
+   "cn": "三度",
+   "en": "third",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三副",
+   "en": "third officer\",\"third mate",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "第三脑室",
+   "en": "third ventricle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "第三转子",
+   "en": "third trochanter",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "第三势力",
+   "en": "third force",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第三派",
+   "en": "third stream",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第三转位",
+   "en": "third inversion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第三积分",
+   "en": "third integral",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生光",
+   "en": "third contact",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "第三抵押权",
+   "en": "third mortgage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "第三空间",
+   "en": "third space",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "第三世界",
+   "en": "Third World",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "第三方",
+   "en": "third party",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三脑室",
+   "en": "third ventricle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "二管轮",
+   "en": "third engineer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "把位",
+   "en": "position",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阳",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正",
+   "en": "positive",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正片",
+   "en": "positive",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "○1position fixing○2 positioning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三方",
+   "en": "third-party",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第三回合!",
+   "en": "Third round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三节",
+   "en": "third quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三局！",
+   "en": "Third round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三垒手",
+   "en": "third baseman",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三垒",
+   "en": "third base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三接发球队员",
+   "en": "third receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三发球队员",
+   "en": "third server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三空间",
+   "en": "third space",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国后现代地理学家索亚(Edward Soja）提出的概念，指同时包括了物质和精神维度的空间（即第一空间和第二空间），可以更加开放且尽可能地去把握观念、时间、表象以及意义的事实上不断位移的生活背景。"
+  },
+  {
+   "cn": "第三场所",
+   "en": "third place",
+   "source": "社会学名词",
+   "wordNumber": "3.17.2.1",
+   "subjectFullName": "社会学名词_分支社会学_社区_西方社区概念",
+   "subjectName": "西方社区概念",
+   "publishYear": "2025",
+   "definition": "除了家（第一场所）和工作地点（第二场所）以外的一个非正式的公共聚集场所或空间。人们经常或是偶尔来此活动（特别是交谈），有助于社会交往、增进友谊和邻里团结，同时也通过开放、平等的横向交往有助于社区公共领"
+  },
+  {
+   "cn": "第三等级",
+   "en": "third estate",
+   "source": "马克思主义",
+   "wordNumber": "03.0052",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "早期资本主义市民阶层或资产阶级的别称。在封建时代，与封建君主斗争和争取权利的过程中，贵族、僧侣和市民阶层组成“等级议会”与君主权利展开博弈。其中的资本主义工商业者或市民阶层更站在资产阶级的立场上，以“"
+  },
+  {
+   "cn": "第三条道路",
+   "en": "third road",
+   "source": "马克思主义",
+   "wordNumber": "04.0383",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "解放战争初期，上层小资产阶级、民族资产阶级及其知识分子中的一些人提出的政治主张。他们既反对国民党大地主大资产阶级专政，又反对共产党领导的人民民主专政，幻想在中国建立英美式的资产阶级专政。"
+  },
+  {
+   "cn": "第三国际",
+   "en": "Third International",
+   "source": "马克思主义",
+   "wordNumber": "04.0414",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第一次世界大战后出现了新的国际形势，需要建立一个新的国际来领导无产阶级革命。1919年3月2—6日，共产国际（第三国际）在莫斯科举行了第一次代表（成立）大会，大会通过了列宁起草的《共产国际宣言》、《共"
+  },
+  {
+   "cn": "三月街",
+   "en": "Third Month Fair",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0188",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国白族传统节日；因在每年农历三月举行，故名。每年农历三月十五日在云南大理古城城西举行，节期5～7 天，已有1000 多年的历史。1991 年起，节日被定为“大理白族自治州三月街民族节”，附近的汉、彝"
+  },
+  {
+   "cn": "第三部门",
+   "en": "the third sector",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "非政府、非营利以及志愿性组织的总称。"
+  },
+  {
+   "cn": "第三条道路",
+   "en": "the third way",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "在基于高税收、高公共支出的国家提供服务的模式和由市场提供的服务模式中探寻中间道路。在实践中推崇福利多元主义和强调实用主义，认为这才是决定应该如何和在哪里提供服务的最佳价值。"
+  },
+  {
+   "cn": "第三次民族大调查",
+   "en": "third ethnic survey",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.042",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "全国哲学社会科学工作办公室于2013 年设立国家社会科学基金特别委托项目“21 世纪初中国少数民族地区经济社会发展综合调查”（“第三次民族大调查”），以期客观反映改革开放以来中国少数民族地区在政治、经"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "阵地战",
+   "en": "positional war",
+   "source": "马克思主义",
+   "wordNumber": "05.0008",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西主张在共产党领导的“总体革命”中，无产阶级及其政党在文化领导权的获取方式上应当采用的，是不同于俄国十月革命的“运动战”，即采取暴力夺权的那种方式，而是应当在市民社会领域对资产阶级的思想阵地不断实"
+  },
+  {
+   "cn": "正面启发法",
+   "en": "positive heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家通过研究纲领发展理论与设计实验，主动解决问题或预测现象。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "三级价格歧视",
+   "en": "third-degree price discrimination",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "根据消费者的不同类型来确定价格的定价策略。"
+  },
+  {
+   "cn": "孕晚期",
+   "en": "third trimester of pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "妊娠28周至分娩的间期。"
+  },
+  {
+   "cn": "第三方消毒服务机构",
+   "en": "third party disinfection service organization",
+   "source": "消毒学",
+   "wordNumber": "7.4.1",
+   "subjectFullName": "消毒学_其他_消毒服务机构",
+   "subjectName": "消毒服务机构",
+   "publishYear": "2025",
+   "definition": "对污染或可能被污染的物品或场所提供消毒或灭菌服务的独立设置的非政府机构。消毒与灭菌工艺流程和工作环境符合卫生要求，具有能对消毒与灭菌效果进行检测的人员和条件。"
+  },
+  {
+   "cn": "第三方消毒供应中心",
+   "en": "third party disinfection supply center",
+   "source": "消毒学",
+   "wordNumber": "7.4.2",
+   "subjectFullName": "消毒学_其他_消毒服务机构",
+   "subjectName": "消毒服务机构",
+   "publishYear": "2025",
+   "definition": "承担医疗机构可重复使用的诊疗器械、器具、洁净手术衣、手术盖单等物品接收、清洗、消毒、灭菌、运送以及无菌物品供应，开展处理过程的质量控制，出具监测和检测结果，实现全程可追溯的独立设置的非政府医疗机构，不"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "single instance",
+ "term": "single instance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:11:23+00:00",
+ "status": "ok",
+ "note": "variant=single instance; 审定公布名词库=3823; 海峡两岸名词对照库=1193; 其他来源数据库=190; 预公布名词数据库=166; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0302",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）由一个类所描述和创建的对象。（2）由一个类型刻画的数据集合中的一个元素。"
+  },
+  {
+   "cn": "工作流实例",
+   "en": "workflow instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0164",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "按工作流模式的一次实际运行。"
+  },
+  {
+   "cn": "流程实例",
+   "en": "process instance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0156",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "工作流技术中，在流程执行时根据流程定义而创建的流程运行实例。"
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.465",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "某种实体的一个具体的例子。"
+  },
+  {
+   "cn": "单根",
+   "en": "single,single joint",
+   "source": "石油名词",
+   "wordNumber": "05.0072",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "基于示例的学习",
+   "en": "instance-based learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0230",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "根据存储的训练样本直接对新样本进行赋值的机器学习过程， k 近邻分类器为典型代表。"
+  },
+  {
+   "cn": "多示例学习",
+   "en": "multi-instance learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0227",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "每个训练样本是一个由多个标记未知的实例组成的集合，称为“包”,若包中至少包含一个正例，则该包为正包，否则即为反包；学习的目的是预测新包的类别。"
+  },
+  {
+   "cn": "单交换",
+   "en": "single crossover,single exchange",
+   "source": "植物学名词",
+   "wordNumber": "10.0114",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "两个连锁基因间只发生一次交换的现象。"
+  },
+  {
+   "cn": "单一抗性",
+   "en": "single resistance",
+   "source": "精细化工名词",
+   "wordNumber": "03.0241",
+   "subjectFullName": "精细化工_农药_生态环境",
+   "subjectName": "生态环境",
+   "publishYear": "2025",
+   "definition": "有害生物只表现对起选择作用的农药有抗性的现象。"
+  },
+  {
+   "cn": "单交",
+   "en": "single cross",
+   "source": "农学名词",
+   "wordNumber": "06.177",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "每个亲本仅作一次父本或母本的杂交方法。"
+  },
+  {
+   "cn": "单种绿篱",
+   "en": "single hedge",
+   "source": "风景园林名词",
+   "wordNumber": "09.0328",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物规划设计",
+   "subjectName": "风景园林植物规划设计",
+   "publishYear": "2025",
+   "definition": "由一个树种构成的绿篱。是园林中最常见的绿篱类型。"
+  },
+  {
+   "cn": "单拷贝",
+   "en": "single copy",
+   "source": "农学名词",
+   "wordNumber": "15.367",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "特定DNA片段在生物基因组中只有一个复制的现象。"
+  },
+  {
+   "cn": "单种草坪",
+   "en": "single lawn",
+   "source": "风景园林名词",
+   "wordNumber": "08.0227",
+   "subjectFullName": "风景园林_风景园林工程_风景园林种植",
+   "subjectName": "风景园林种植",
+   "publishYear": "2025",
+   "definition": "具有高度均一性，由一种草坪品种建成的草坪。"
+  },
+  {
+   "cn": "点状水池",
+   "en": "single pool",
+   "source": "风景园林名词",
+   "wordNumber": "08.0573",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "起点缀作用的单个水景。"
+  },
+  {
+   "cn": "单心房",
+   "en": "single atrium",
+   "source": "妇产科学名词",
+   "wordNumber": "15.006",
+   "subjectFullName": "胎儿异常与多胎妊娠_出生缺陷",
+   "subjectName": "出生缺陷",
+   "publishYear": "2025",
+   "definition": "房间隔完全缺失，形成一房两室的三腔心的病理状态。发生肺动脉高压较早，长伴有二尖瓣发育异常。"
+  },
+  {
+   "cn": "单心室",
+   "en": "single ventricle",
+   "source": "妇产科学名词",
+   "wordNumber": "15.007",
+   "subjectFullName": "胎儿异常与多胎妊娠_出生缺陷",
+   "subjectName": "出生缺陷",
+   "publishYear": "2025",
+   "definition": "室间隔完全缺失，形成两房一室的三腔心的病理状态。常伴有大血管错位、肺动脉口狭窄等。"
+  },
+  {
+   "cn": "单纯感染",
+   "en": "single infection",
+   "source": "兽医学名词",
+   "wordNumber": "02.015",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "由一种病原微生物所引起的感染。"
+  },
+  {
+   "cn": "单收缩",
+   "en": "single twitch",
+   "source": "兽医学名词",
+   "wordNumber": "04.108",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "在对神经－肌肉标本的实验中，给神经或肌肉一次单个阈上刺激，引起肌肉的一次收缩。包括潜伏期、缩短期和舒张期。"
+  },
+  {
+   "cn": "过磷酸钙",
+   "en": "single superphosphate",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0094",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "由硫酸与磷矿粉反应生成的，以磷酸一钙（占30%～50%）和硫酸钙（占40%～50%）为主要成分的产品。"
+  },
+  {
+   "cn": "单纯麻醉",
+   "en": "single anesthesia",
+   "source": "兽医学名词",
+   "wordNumber": "18.016",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "仅单纯采用一种全身麻醉剂施行的麻醉。"
+  },
+  {
+   "cn": "实例",
+   "en": "instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "例图",
+   "en": "instance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实体实例",
+   "en": "entity instance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基于实例[的]学习",
+   "en": "instance-based learning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单交换",
+   "en": "single crossover\",\"single exchange",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单鼻孔",
+   "en": "single nostril",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单芽",
+   "en": "single bud",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单疣",
+   "en": "single papilla",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单反应",
+   "en": "single reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单晶",
+   "en": "single crystal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单组分",
+   "en": "single component",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单纱",
+   "en": "single yarn",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单丝加捻",
+   "en": "single twist",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单晶",
+   "en": "single crystal",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "单接收器",
+   "en": "single collector",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "单本位",
+   "en": "single standard",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单边账户",
+   "en": "single account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单一成本",
+   "en": "single cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单一关税",
+   "en": "single tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单一预算",
+   "en": "single budget",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单人艇",
+   "en": "single",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打",
+   "en": "singles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打",
+   "en": "singles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打比赛",
+   "en": "singles\",\"singles match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单人双桨队员",
+   "en": "single rower\",\"single sculler",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打比赛",
+   "en": "singles game\",\"singles match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单靶",
+   "en": "single target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接决赛",
+   "en": "single round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单周空翻",
+   "en": "single somersault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单结",
+   "en": "single knot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打球网",
+   "en": "singles net",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打边线",
+   "en": "singles sideline",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打场地",
+   "en": "singles court",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打支柱",
+   "en": "singles stick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打比赛",
+   "en": "singles play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打比赛",
+   "en": "singles event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打场地",
+   "en": "court for singles\",\"singles court",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单打边线",
+   "en": "sideline for singles\",\"singles sideline",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一垒打",
+   "en": "one-base hit\",\"single\",\"single hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单次摄入",
+   "en": "single intake",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.13",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性物质的非持续性、一次性的摄入，其吸收率骤增速止，组织内放射性活度迅速上升而后随时间延长而逐渐降低。当不溶性铀、钍或钚的氧化物在肺内沉积，或非转移性亲骨性放射性核素在伤口沉积时，该部位的核素呈递减"
+  },
+  {
+   "cn": "单身母亲",
+   "en": "single mother",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "只有子女，无法定配偶的女性，包括未婚妈妈，离异妈妈，丧偶妈妈。"
+  },
+  {
+   "cn": "单道分析器",
+   "en": "single channel analyzer",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.54",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种只对脉冲幅度在 V和(V+ΔV)之间的输入信号给出输出信号的核子仪器。虽然它只包含一个脉冲选择通道，但通过阈值的逐点改变可以测量核辐射探测器输出脉冲的幅度分布。"
+  },
+  {
+   "cn": "单组性能",
+   "en": "single group performance",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对单个照射组的剂量系统性能判定指标，为该照射组的估计值与参考值的相对偏差。"
+  },
+  {
+   "cn": "单身家庭",
+   "en": "single-person family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.13",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "一人之家。包括终身不娶或终身不嫁的独身主义者以及丧偶或离异后无子女同住的单独生活者所构成的家庭。"
+  },
+  {
+   "cn": "单亲家庭",
+   "en": "single-parent family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.14",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "由单身父亲或母亲与其未婚子女组成的家庭。包括离婚、分居、丧偶或未婚生育后子女仅与双亲一方共同生活的家庭。"
+  },
+  {
+   "cn": "单亲儿童",
+   "en": "single-parent child",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "只有父亲或者母亲单独抚养的儿童。其中有的是因父母离异，有的是因为父母亲其中一方去世或者是未婚妇女的子女。"
+  },
+  {
+   "cn": "单因素论",
+   "en": "single factor theory",
+   "source": "马克思主义",
+   "wordNumber": "05.0134",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "阐释资本主义周期性危机产生的集体原因主要有以下几种理论，即比例失调论、消费不足论、资本有机构成提高论、工资提高论等。单因素论把周期性危机的产生主要归结为其中一种，因而被称为单因素论。"
+  },
+  {
+   "cn": "单分子测序",
+   "en": "\"single molecule sequencing\"",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "“第三代测序技术 (third generation sequencing technique)”。在DNA测序时，不需要经过PCR扩增，对每一条DNA分子进行单独测序的技术。为单分子实时DNA测序。"
+  },
+  {
+   "cn": "单一支付方式",
+   "en": "single payment method",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.8",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "购买者对所有服务采取同一种支付方式。"
+  },
+  {
+   "cn": "单一强化食品",
+   "en": "single fortified food",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.4.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品营养强化剂",
+   "subjectName": "食品营养强化剂",
+   "publishYear": "2025",
+   "definition": "强化了单一营养素的食品。"
+  },
+  {
+   "cn": "单核苷酸多态性",
+   "en": "single nucleotide polymorphism,SNP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.2",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "在基因组水平上由单个核苷酸的变异所引起的DNA序列多态性。是人类可遗传的变异中最常见的一种，占所有已知多态性的80%以上。SNP是一种二态的标记，由单个碱基的转换或颠换所引起，也可由碱基的插入或缺失所"
+  },
+  {
+   "cn": "一次最大限度试验",
+   "en": "single dose toxicity study",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.9.8",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "对有关资料显示毒性极小或未显示毒性的受试物，以允许的最大剂量单次给予受试物或24小时内多次给予受试物（剂量一般不超过5g/kg体重），观察动物出现的反应。 一般使用10～20只动物，连续观察14天。"
+  },
+  {
+   "cn": "单细胞凝胶电泳",
+   "en": "single cell gel electrophoresis",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.3.13",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "一种在单细胞水平检测DNA损伤程度的方法。在载玻片上用少量琼脂糖凝胶包埋单个分散细胞，细胞经裂解、解旋和电泳后，断裂的DNA在电场力作用下向阳极移动，经荧光染料染色，在荧光显微镜下观察彗星样图像。"
+  },
+  {
+   "cn": "DNA单链断裂",
+   "en": "DNA single-strand breakage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA损伤的一种形式，DNA双螺旋结构中有一条链断裂。"
+  },
+  {
+   "cn": "单周期调查水平",
+   "en": "single-period survey level",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "外照射个人监测的年调查水平除以年监测周期数的商。"
+  },
+  {
+   "cn": "单病种付费",
+   "en": "single-disease-based payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.16.1",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "医院对单纯性疾病在住院时间内的所有服务按照疾病分类确定支付额度的医疗费用支付方式，是按病种支付方式的一种初级形式。"
+  },
+  {
+   "cn": "平均单个细菌存活时间",
+   "en": "mean single survival time, MSST",
+   "source": "消毒学",
+   "wordNumber": "6.2.25",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒试验中，使试验菌数量减少到1个的理论时间，是评价消毒剂对微生物杀灭作用的指标之一。"
+  },
+  {
+   "cn": "一次性使用医用口罩",
+   "en": "single-use medical face mask",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.6",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "在普通医疗环境中佩戴，覆盖口、鼻及下颌，阻隔口腔和鼻腔呼出或喷出污染物的一次性使用口罩，其过滤效率符合相关标准的要求。"
+  },
+  {
+   "cn": "单个公立医院法人化",
+   "en": "legalization of single public hospital ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.3.3.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "建立由政府部门和投资方组成的董事会对院长直接问责的法人治理结构，从而实现政事分开、所有权和经营权分离，明确医院所有权、决策权、经营权和监督权的分配与制衡，成为具有自主运营权、独立承担民事责任的法人实体"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

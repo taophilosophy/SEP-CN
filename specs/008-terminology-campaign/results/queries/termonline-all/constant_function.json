@@ -1,0 +1,672 @@
+{
+ "key": "constant function",
+ "term": "constant function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:16:00+00:00",
+ "status": "ok",
+ "note": "variant=constant function; 审定公布名词库=5078; 海峡两岸名词对照库=1332; 其他来源数据库=177; 预公布名词数据库=200; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "常函数",
+   "en": "constant function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0112",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对一切输入均输出一个常数值的函数。即f(x)=c这里c为常数。当c为零时称为零函数。"
+  },
+  {
+   "cn": "常量",
+   "en": "constant",
+   "source": "物理学名词",
+   "wordNumber": "01.0061",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "source": "核医学名词",
+   "wordNumber": "03.0788",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_实验核医学示踪技术",
+   "subjectName": "实验核医学示踪技术",
+   "publishYear": "2018",
+   "definition": "描述事物性状、关系的表达时一个数值不变的量。与之相反的是变量。"
+  },
+  {
+   "cn": "常量",
+   "en": "constant",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0198",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "值不能变更的数量或数据项。"
+  },
+  {
+   "cn": "常项",
+   "en": "constant",
+   "source": "数学名词",
+   "wordNumber": "02.0052",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "source": "数学名词",
+   "wordNumber": "01.0054",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "弹性常数",
+   "en": "elastic constant,spring constant",
+   "source": "物理学名词",
+   "wordNumber": "02.0626",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学常数",
+   "en": "cosmological constant; cosmic constant",
+   "source": "天文学名词",
+   "wordNumber": "07.524",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "爱因斯坦在其场方程中引入的表征某种“宇宙斥力”的常数，相当于真空能，是形式最简单的暗能量。"
+  },
+  {
+   "cn": "等流函数线",
+   "en": "line of constant stream function",
+   "source": "水利科学技术名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "水利科学技术_水力学、河流动力学、海岸动力学_水力学（水利）",
+   "subjectName": "水力学（水利）",
+   "publishYear": "1997",
+   "definition": "流场中，流函数值相等的各点的连线。"
+  },
+  {
+   "cn": "平衡常数",
+   "en": "equilibrium constant",
+   "source": "地质学名词",
+   "wordNumber": "13.01.106",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "可逆化学反应达到平衡状态时，生成物浓度计量系数幂次方的乘积与反应物浓度计量系数幂次方的乘积之比。"
+  },
+  {
+   "cn": "衰变常数",
+   "en": "decay constant",
+   "source": "地质学名词",
+   "wordNumber": "13.03.014",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "表示某种放射性核素在单位时间内发生衰变的概率。"
+  },
+  {
+   "cn": "定形",
+   "en": "constant form",
+   "source": "地质学名词",
+   "wordNumber": "02.00.078",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "晶面间角度为恒定的单形。"
+  },
+  {
+   "cn": "米氏常数",
+   "en": "Michaelis constant",
+   "source": "农学名词",
+   "wordNumber": "15.226",
+   "subjectFullName": "农业生物技术_蛋白质工程",
+   "subjectName": "蛋白质工程",
+   "publishYear": "2025",
+   "definition": "在酶促反应中，某一给定底物的动力学常数，是由反应中每一步反应的速度常数所合成的。根据米氏方程，其值是当酶促反应速度达到最大反应速度一半时的底物浓度。符号Km。"
+  },
+  {
+   "cn": "不变价格",
+   "en": "constant price",
+   "source": "农学名词",
+   "wordNumber": "19.025",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "为计算一定时期内不同年份的商品价值指标而使用的某一固定期的价格。旨在消除价格变动的影响，客观比较各年之间的经济发展。"
+  },
+  {
+   "cn": "太阳常数",
+   "en": "solar constant",
+   "source": "天文学名词",
+   "wordNumber": "09.008",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "表征太阳辐射能量的一个物理量，等于在地球大气外离太阳1AU处，和太阳光线垂直的1cm2面积上每分钟所接收到的太阳总辐射能量。其值为8.21J/(cm2·min)。"
+  },
+  {
+   "cn": "费根鲍姆常数",
+   "en": "Feigenbaum constant",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.739",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "美国物理学家M. J. 费根鲍姆（M. J. Feigenbaum）在计算逻辑斯谛方程（二阶微分方程）出现倍周期分叉时发现，周期倍增分叉发生时的参数之间差率δ会趋向于一个常数4.669 201 609"
+  },
+  {
+   "cn": "底片常数",
+   "en": "plate constant",
+   "source": "天文学名词",
+   "wordNumber": "02.240",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "照相天体测量工作中，用于转换底片上天体坐标的一组与底片有关的常数。"
+  },
+  {
+   "cn": "平衡常数",
+   "en": "equilibrium constant",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0125",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "在特定条件下（如温度、压力、溶剂性质、离子强度等），可逆化学反应达到平衡状态时，反应产物与反应物的浓度比或反应物与产物的浓度比。用符号“K”表示。"
+  },
+  {
+   "cn": "缔合常数",
+   "en": "association constant",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0126",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "两个或两个以上较为简单组分可逆形成复杂化合物的平衡常数。与解离常数互为倒数，用符号“Ka”表示。"
+  },
+  {
+   "cn": "解离常数",
+   "en": "dissociation constant",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0127",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "复合物或化合物可逆地分解为两个或两个以上较为简单组分时可逆分解反应的平衡常数。为缔合常数的倒数，用符号“Kd”表示。"
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "常量",
+   "en": "constant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "岁差常数",
+   "en": "precession constant\",\"precessional constant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "累积常数",
+   "en": "gross constant\",\"cumulative constant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "屏蔽常数",
+   "en": "screening constant\",\"shielding constant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "衰减常数",
+   "en": "attenuation constant\",\"decay constant",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分解常数",
+   "en": "decomposition constant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "恒有种",
+   "en": "constant species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "玻耳兹曼常数",
+   "en": "Boltzmann constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反应速率常数",
+   "en": "rate constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光达常数",
+   "en": "lidar constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡门常数",
+   "en": "Karman constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雷达常数",
+   "en": "radar constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气体常数",
+   "en": "gas constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间常数",
+   "en": "time constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "衰减常数",
+   "en": "attenuation constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太阳常数",
+   "en": "solar constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调和常数",
+   "en": "harmonic constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "日新",
+   "en": "Constant Renewal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经/权",
+   "en": "Constant and Temporary",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常",
+   "en": "Constant Laws of Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天行有常",
+   "en": "Nature’s Ways Are Constant.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常量喷雾器",
+   "en": "constant sprayer",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.7.5",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "可将消毒液形成喷雾液滴，其中直径在100μm以上的雾粒占85%以上，使得环境或物品表面全部润湿，从而进行普通喷雾消毒的设备。"
+  },
+  {
+   "cn": "衰变常量",
+   "en": "decay constant",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "特定能态的放射性核素的一个原子核在单位时间内发生自发衰变的概率。符号为λ。其与半衰期（T1/2）的关系为：λ=ln2/T1/2。"
+  },
+  {
+   "cn": "不变资本",
+   "en": "constant capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0111",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“可变资本”相对。指在生产中用于生产资料上的那一部分资本。生产资料（即厂房、机器、设备、燃料、原材料和辅助材料等）在生产过程中不会增加价值，而只是把原有的价值转移到新的产品上，故称之为不变资本，用c"
+  },
+  {
+   "cn": "衰变常数",
+   "en": "decay constant",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.9.4",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "某种放射性核素的一个原子核在单位时间内发生衰变的几率。"
+  },
+  {
+   "cn": "常量喷雾消毒",
+   "en": "constant spraying disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.7.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "将消毒液雾化喷洒于物体表面或空间进行的消毒处理。其中雾粒直径在100μm以上占85%以上，常用于物体表面消毒。"
+  },
+  {
+   "cn": "五常",
+   "en": "five constant virtues",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.071",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "儒家提倡的人与人之间的道德标准。指五种道德意识和道德规范，即仁、义、礼、智、信。"
+  },
+  {
+   "cn": "常量喷雾",
+   "en": "constant volume spray",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.3.1",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "利用喷片孔径1.3mm～1.6mm 的喷雾器，以恒定的压力将浓度在千分之一以上的药物以雾滴直径达到120μm～126μm 程度进行喷洒，以达到对媒介生物进行控制的方法。"
+  },
+  {
+   "cn": "空气比释动能率常数",
+   "en": "air kerma rate constant",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "在自由空气中，距离单位活度点源单位距离处的空气比释动能率，Γδ，记作戈瑞平方米每贝可秒"
+  },
+  {
+   "cn": "规模收益不变",
+   "en": "constant returns to scale",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.5.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在技术水平保持一定的情况下，生产要素投入量与产出量成同比例增加的情况。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "恒压高压发生器",
+   "en": "constant potential high-voltage generator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.25",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "输出电压波纹率不超过规定值的高压发生器。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在时间和技术条件一定的情况下，生产某种产品时投入的生产要素数量与生产出该产品的数量间的关系。"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "用来表明生产给定产量与最低成本之间关系的函数"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

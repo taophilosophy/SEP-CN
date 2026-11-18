@@ -1,0 +1,692 @@
+{
+ "key": "boolean operations",
+ "term": "Boolean operations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:15:56+00:00",
+ "status": "ok",
+ "note": "variant=Boolean operations; 审定公布名词库=1732; 海峡两岸名词对照库=409; 其他来源数据库=66; 预公布名词数据库=83; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "布尔运算",
+   "en": "Boolean operation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0263",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "两个或两个以上物体通过并集、差集、交集运算得到新实体的运算。"
+  },
+  {
+   "cn": "布尔运算",
+   "en": "Boolean operation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0131",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "逻辑演算中的二元运算∧，∨，和一元运算 ┐，分别表示and（与），or（或）和not（非）。"
+  },
+  {
+   "cn": "布尔运算符",
+   "en": "Boolean operators",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "一种逻辑运算符，主要包括 “与”、“或”、“非”、“异或”，其取值与运算结果只有“真”、“假”两种之一。"
+  },
+  {
+   "cn": "布尔算符",
+   "en": "Boolean operator",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.019",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用来表示多个检索词之间逻辑关系的运算符号。"
+  },
+  {
+   "cn": "布尔运算符",
+   "en": "Boolean operator",
+   "source": "语言学名词",
+   "wordNumber": "11.069",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "布尔代数中的运算符号。包括与、或、非、补等运算符。"
+  },
+  {
+   "cn": "布尔检索",
+   "en": "Boolean retrieval",
+   "source": "档案学名词",
+   "wordNumber": "06.03.020",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "利用布尔逻辑运算符［与（AND）、或（OR）、非（NOT）等］进行检索词语或代码的逻辑组配。"
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.595",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种用代数刻画逻辑关系的方法。变量为真值，主要操作为析取、合取以及否定。"
+  },
+  {
+   "cn": "布尔网络",
+   "en": "Boolean networks",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.596",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "由一组离散的布尔变量组成的网络。每个布尔变量都由一个布尔函数赋值，每个节点布尔函数的输入都是相邻节点的变量值。"
+  },
+  {
+   "cn": "布尔检索",
+   "en": "Boolean retrieval",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.075",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "通过“与（and）”“或（or）”“非（not）”三个逻辑算子达到特定目的的检索。"
+  },
+  {
+   "cn": "布尔公式",
+   "en": "Boolean formula",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0134",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种布尔表达式，可以表示为一个布尔线路使得其中每个门的出度都是1。"
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0132",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个有序的四元组( B ,∧,∨, ┐)，其中∧，∨和 ┐是布尔运算，定义在非空集合 B 的元素上，构成一个代数。"
+  },
+  {
+   "cn": "布尔搜索",
+   "en": "Boolean search",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0189",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "一种基于布尔逻辑和集合理论的搜索模型。"
+  },
+  {
+   "cn": "布尔线路",
+   "en": "Boolean circuit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0147",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种有向无环图 G=(V,E)，G 的结点集 V ={1,2,…, n }为线路的门、输入和输出的集合。所有结点都有入度和出度，或为0，或1，或2。每一个门 i 有一个类，记为 s(i) ，分别表示常"
+  },
+  {
+   "cn": "布尔表达式",
+   "en": "Boolean expression",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0133",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "包含0,1和一阶变量<img src='/root/syzx/static/spz/jsjkx3.02.0133.001.png'/>, 在布尔运算下归纳地构造出来的表达式。"
+  },
+  {
+   "cn": "布尔函数",
+   "en": "Boolean function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0135",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个 n 元布尔函数指从<img src='/root/syzx/static/spz/jsjkx3.02.0135.001.png'/>(2)到GF(2)上的一个映射，这里GF(2)是二元域。"
+  },
+  {
+   "cn": "布尔逻辑检索",
+   "en": "Boolean search",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0535",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "以集合论与布尔逻辑为理论基础，采用布尔逻辑表达式表示用户检索需求并通过一定的算法和实现手段进行检索。"
+  },
+  {
+   "cn": "布尔表达式",
+   "en": "Boolean expression",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "与一个逻辑值相关联，取值只有“真”、“假”两种之一的表达式，由关系运算符、逻辑运算符和布尔变量以及圆括号等组成。"
+  },
+  {
+   "cn": "布尔方程",
+   "en": "Boolean equation",
+   "source": "数学名词",
+   "wordNumber": "03.0289",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "布尔格",
+   "en": "Boolean lattice",
+   "source": "数学名词",
+   "wordNumber": "03.0282",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "source": "数学名词",
+   "wordNumber": "03.0284",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "布尔运算",
+   "en": "Boolean operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔运算符",
+   "en": "Boolean operators",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "布尔算子",
+   "en": "Boolean operator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔表达式",
+   "en": "Boolean expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "布尔表达式",
+   "en": "Boolean expression",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔查找，布尔搜索",
+   "en": "Boolean search",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔过程",
+   "en": "Boolean process",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔函数",
+   "en": "Boolean function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔加法器",
+   "en": "Boolean adder",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时变布尔函数",
+   "en": "timed Boolean function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可操作性",
+   "en": "operability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "操作员",
+   "en": "operator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "工作人员",
+   "en": "operator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无边界经营",
+   "en": "borderless operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运营优化",
+   "en": "operation optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协作操作",
+   "en": "collaborative operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“清乡”",
+   "en": "“pacification” operation",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "操作风险",
+   "en": "operational risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "操作技术",
+   "en": "operational technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "操作系统",
+   "en": "operating system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Boolean标准",
+   "en": "Boolean criteria",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.10",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "用于判定类风湿关节炎获得缓解的一个标准。其定义为：任何时间点，患者需满足下列要求：1.疼痛关节数≤1；2.肿帐关节数≤1；3. CRP<1mg/dl；4.患者总体评估≤1（0-10标尺）"
+  },
+  {
+   "cn": "无菌操作",
+   "en": "sterile operation",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.4",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "杜绝微生物污染特定环境或物品的操作过程。"
+  },
+  {
+   "cn": "手术率",
+   "en": "operation rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "救治机构对每百名伤员经手术治疗的人数，反映各救治机构的手术工作量以及伤员得到手术救治的普遍程度，为组织调配手术力量提供依据。"
+  },
+  {
+   "cn": "变性手术",
+   "en": "transsexual operation",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.051",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过整形外科技术（组织移植和器官再造），使易性癖患者的生物学性别与其心理性别相符的手术。"
+  },
+  {
+   "cn": "操作限值",
+   "en": "operation limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来减少偏离关键限值风险的指标或参数。"
+  },
+  {
+   "cn": "战时洗消",
+   "en": "operational decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.7",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "对作战行动必需的器材、物资、人员及区域进行的洗消，以最大限度地减少核生化有害物的接触和扩散，保证作战行动的顺利进行。"
+  },
+  {
+   "cn": "工作区",
+   "en": "operating area",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.4",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "指安全柜内从左侧到右侧、从后侧到前窗内侧，高于前窗玻璃下沿约5cm到工作台面进行操作的区域。"
+  },
+  {
+   "cn": "普通手术部",
+   "en": "general operation department",
+   "source": "消毒学",
+   "wordNumber": "4.6.15",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "由非洁净手术室、非洁净辅助用房等一部分或全部组成的独立的功能区域。"
+  },
+  {
+   "cn": "在役去污",
+   "en": "decontamination in operation",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "对处于在役状态的受污染系统、部件和设备等去污过程。"
+  },
+  {
+   "cn": "操作学习理论",
+   "en": "operation reinforcement theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.32",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "以斯金纳(B.F.Skinner）为代表人物提出的关于人类行为习得的理论。其重视环境对行为的影响，提出人的行为B=f(E）（环境）的公式，认为人们的一生都处在学习的环境之中，获得满足的行为会得到增强，"
+  },
+  {
+   "cn": "巴巴罗萨作战计划",
+   "en": "Barbarossa Operation Plan",
+   "source": "马克思主义",
+   "wordNumber": "04.0120",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "法西斯德国侵略苏联的战争计划。以神圣罗马帝国皇帝腓特烈一世的绰号“巴巴罗萨”为代号得名。1940年7月下旬希特勒下令秘密制定该计划，11月底由陆军总司令勃劳希契呈报希特勒，12月18日，以“巴巴罗萨”"
+  },
+  {
+   "cn": "健康保险运行",
+   "en": "health insurance operation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "以健康结果为目的的健康经济风险分担和健康维护、风险干预和战略购买的治理、筹资、购买和服务包设计等运行环节的总和"
+  },
+  {
+   "cn": "医院运营管理",
+   "en": "hospital operation management ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "对医院提供医疗服务的直接资源进行有效的整合利用，以实现投入产出效率、效益和效能的最优化过程。"
+  },
+  {
+   "cn": "剂量作业试验",
+   "en": "dose operation test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "在限定时间内让被试完成指定的作业，根据其完成作业的数量和产生的错误来判断其高级神经功能状态的方法。"
+  },
+  {
+   "cn": "军事作业环境",
+   "en": "military operation environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军人在平战时所从事作业的环境，包括自然环境和人工环境。"
+  },
+  {
+   "cn": "军事作业卫生",
+   "en": "military operation hygiene",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "针对军事作业环境因素对官兵健康与军事作业能力的影响，研究和评价其影响规律，提出维护军人军事作业能力、保障军人健康的对策和措施的多学科交叉的前沿新学科。"
+  },
+  {
+   "cn": "潜水作业卫生",
+   "en": "diving operation hygiene",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.9.7",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "识别、评价、预测和控制潜水作业环境中的不良因素对作业者健康和作业效能的影响，创造安全、健康和高效的作业环境和作业方式，提高作业效率，保障作业者健康的卫生措施。"
+  },
+  {
+   "cn": "平均手术时间",
+   "en": "average operation time",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.5",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "伤员平均手术所需时间(分),可了解每个手术台24 小时能做多少手术，为战时卫勤领导部门组织安排手术提供依据。"
+  },
+  {
+   "cn": "专用操作区",
+   "en": "special operation area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.21",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "为防止食品受到污染，以分离方式设置的清洁程度要求较高的加工直接入口食品的操作区域。"
+  },
+  {
+   "cn": "手术护理伦理",
+   "en": "operation nursing ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.004",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "护理人员在为手术病人提供护理服务时应遵循的护理道德要求。术前、术中和术后各有其特殊的道德要求。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

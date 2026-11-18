@@ -1,0 +1,682 @@
+{
+ "key": "information carried",
+ "term": "information carried",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:04:42+00:00",
+ "status": "ok",
+ "note": "variant=information carried; 审定公布名词库=4071; 海峡两岸名词对照库=1038; 其他来源数据库=589; 预公布名词数据库=144; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "搬运",
+   "en": "carry",
+   "source": "急救医学名词",
+   "wordNumber": "07.139",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救技能_外伤急救技术",
+   "subjectName": "外伤急救技术",
+   "publishYear": "2025",
+   "definition": "经过现场必要的处理后，将患者迅速、安全地搬离现场，脱离危险环境，避免损伤加重，并及时送往医院的一种转移方法。主要用于院前急救的过程中，可分为徒手搬运和器械搬运。"
+  },
+  {
+   "cn": "转盘",
+   "en": "swing carries",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "14.0150",
+   "subjectFullName": "机械工程_工程机械_土方机械_装载机",
+   "subjectName": "装载机",
+   "publishYear": "2013",
+   "definition": "使耙取和运输机构能相对底盘回转一定角度，以增加耙装宽度的装置。"
+  },
+  {
+   "cn": "抬运",
+   "en": "carrying stone",
+   "source": "风景园林名词",
+   "wordNumber": "08.0721",
+   "subjectFullName": "风景园林_风景园林工程_风景园林假山",
+   "subjectName": "风景园林假山",
+   "publishYear": "2025",
+   "definition": "由抬石工借助工具对山石进行运输的方法。一般分为直杆式运输、架杆式运输两种形式。"
+  },
+  {
+   "cn": "徒手搬运",
+   "en": "hand carry",
+   "source": "急救医学名词",
+   "wordNumber": "07.140",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救技能_外伤急救技术",
+   "subjectName": "外伤急救技术",
+   "publishYear": "2025",
+   "definition": "凭人力和技巧、不使用任何器具的一种搬运转移患者的方法。适用于短距离转移患者。"
+  },
+  {
+   "cn": "器械搬运",
+   "en": "equipment carry",
+   "source": "急救医学名词",
+   "wordNumber": "07.141",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救技能_外伤急救技术",
+   "subjectName": "外伤急救技术",
+   "publishYear": "2025",
+   "definition": "借助铲式担架、脊柱板、轮椅、急救担架车、救护车等或利用床单、被褥、木板等作为搬运器材搬运转移患者的方法。适用于长距离转移患者。"
+  },
+  {
+   "cn": "带虫宿主",
+   "en": "carrying host",
+   "source": "兽医学名词",
+   "wordNumber": "12.021",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "被寄生虫感染后，随着机体抵抗力的增强或药物治疗，虽然大部分虫体被驱除或杀灭，但体内仍存留有一定数量虫体的宿主。"
+  },
+  {
+   "cn": "环境容纳量",
+   "en": "carrying capacity",
+   "source": "动物学名词",
+   "wordNumber": "7.0378",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "一个环境条件所允许的最大种群数量。用K表示。"
+  },
+  {
+   "cn": "承载托辊",
+   "en": "carrying idler",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1719",
+   "subjectFullName": "化工（八）_化工设备_固体物料输送设备",
+   "subjectName": "固体物料输送设备",
+   "publishYear": "2021",
+   "definition": "支承输送带承载分支的托辊。"
+  },
+  {
+   "cn": "成组进位",
+   "en": "group carry",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0198",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "在先行进位的并行加法电路中，为了提高进位速度而采用将多位加法器分成几组，组内同时形成进位信号，组间采用串行方式产生进位信号的技术。"
+  },
+  {
+   "cn": "承载托辊",
+   "en": "carrying idler",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "02.0056",
+   "subjectFullName": "机械工程_物料搬运机械_输送机械_带式输送机",
+   "subjectName": "带式输送机",
+   "publishYear": "2013",
+   "definition": "支承输送带承载分支的托辊。"
+  },
+  {
+   "cn": "合并等高线",
+   "en": "carrying contour",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.196",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "在满足调和精度的前提下，对等高线图形进行化简。"
+  },
+  {
+   "cn": "载畜量",
+   "en": "carrying capacity",
+   "source": "资源科学技术名词",
+   "wordNumber": "10.164",
+   "subjectFullName": "资源科学技术_草地资源学",
+   "subjectName": "草地资源学",
+   "publishYear": "2008",
+   "definition": "在一定的面积和一定的时间内，放牧地所承载饲养家畜的头数。"
+  },
+  {
+   "cn": "负载力",
+   "en": "carrying capacity",
+   "source": "生态学名词",
+   "wordNumber": "05.098",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "一个环境条件所允许的最大种群数量。"
+  },
+  {
+   "cn": "运载可靠度",
+   "en": "carrying reliability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.127",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "通过能力",
+   "en": "carrying capacity",
+   "source": "土木工程名词",
+   "wordNumber": "08.137",
+   "subjectFullName": "土木工程_铁路工程_铁路设计",
+   "subjectName": "铁路设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "通过能力",
+   "en": "carrying capacity",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0304",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "机械携带",
+   "en": "mechanical carry-over,moisture carry-over",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0202",
+   "subjectFullName": "机械工程_动力机械_锅炉_原理",
+   "subjectName": "原理",
+   "publishYear": "2013",
+   "definition": "锅筒内饱和蒸汽携带含盐水滴使蒸汽污染的现象。"
+  },
+  {
+   "cn": "环境承载力",
+   "en": "environmental carrying capacity",
+   "source": "农学名词",
+   "wordNumber": "11.124",
+   "subjectFullName": "农业环境保护_农业环境管理",
+   "subjectName": "农业环境管理",
+   "publishYear": "2025",
+   "definition": "某一环境状态和结构在不发生对人类生存发展危害的前提下，所能承受的人类社会作用在规模、强度和速度上的限值。"
+  },
+  {
+   "cn": "土地承载力",
+   "en": "land carrying capacity",
+   "source": "农学名词",
+   "wordNumber": "11.127",
+   "subjectFullName": "农业环境保护_农业环境管理",
+   "subjectName": "农业环境管理",
+   "publishYear": "2025",
+   "definition": "在土地生态系统可持续运行的条件下，一定区域内耕地、林地和草地等所能承载的最大畜禽存栏量。"
+  },
+  {
+   "cn": "生态系统承载力",
+   "en": "ecosystem carrying capacity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0083",
+   "subjectFullName": "风景园林_风景园林生态_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2025",
+   "definition": "某一特定环境条件下（主要指生存空间、营养物质、阳光等生态因子的组合），某生物个体存活的最大数量。"
+  },
+  {
+   "cn": "进位",
+   "en": "carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前滞水",
+   "en": "carry-over",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负载力,环境容纳量",
+   "en": "carrying capacity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "承载量",
+   "en": "carrying capacity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "合并等高线",
+   "en": "carrying contour",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "合并等高线",
+   "en": "carrying contour",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "[成]组进位",
+   "en": "group carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "部分进位",
+   "en": "partial carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全进位",
+   "en": "complete carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逐位进位",
+   "en": "cascaded carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "负载力，负载量",
+   "en": "carrying capacity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "继续",
+   "en": "carry on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "折断",
+   "en": "carry away",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "环境承载力",
+   "en": "environmental carrying capacity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统承载力",
+   "en": "ecosystem carrying capacity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物负荷量",
+   "en": "sediment carrying capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "城市承载力",
+   "en": "urban carrying capacity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统承载力",
+   "en": "ecosystem carrying capacity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "环境承载力",
+   "en": "environmental carrying capacity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "旅游承载力",
+   "en": "recreational carrying capacity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "持球",
+   "en": "carry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "继续！",
+   "en": "Carry on!  Yoshi!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "背负式摔",
+   "en": "fireman’s carry throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "带球",
+   "en": "carry the ball\",\"dribble",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "带球",
+   "en": "carry the ball\",\"dribble",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "负载力",
+   "en": "carrying capacity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0226",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一个环境条件所允许的最大种群数量。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "信息可见性",
+   "en": "information visibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "一种对信息存在特性的描述。"
+  },
+  {
+   "cn": "信息时效性",
+   "en": "information timeliness",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.5",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息发挥作用是有时间限度的，在恰当的时刻得以利用才会发挥其最大效能的特性。"
+  },
+  {
+   "cn": "信息过载",
+   "en": "information overload",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "卫生信息超过了医护人员患者等个人或医疗系统所能接受、处理或有效利用的范围的一种状态。"
+  },
+  {
+   "cn": "信息安全",
+   "en": "information security",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "为卫生信息数据处理系统建立和采用的技术，保护医疗卫生系统中的数据信息等免受偶然和恶意的原因而遭到破坏、更改和泄露。"
+  },
+  {
+   "cn": "信息治理",
+   "en": "information governance",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "通过制定和实施法律、制度、规范和政策，对医疗卫生信息的全生命周期进行系统性管理和控制，以确保卫生信息的有效性和高效性。"
+  },
+  {
+   "cn": "信息保障",
+   "en": "information assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "利用信息技术实施学校突发公共卫生事件及相关信息收集、处理、分析、发布和传递等工作，并采取分级负责的方式进行实施的活动。"
+  },
+  {
+   "cn": "信息理解",
+   "en": "information understanding",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.015",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "真正明白所告知信息。医务人员在向患者或研究参与者说明医学信息时，应考虑到其具体情况，进行充分、全面、易懂的告知，并及时解答其咨询，其才能真正明白，最终做出决策。"
+  },
+  {
+   "cn": "资料性要素",
+   "en": "informative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "提供有助于理解或使用标准的附加信息的要素。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

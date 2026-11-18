@@ -1,0 +1,342 @@
+{
+ "key": "appearances",
+ "term": "appearances",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:20:07+00:00",
+ "status": "ok",
+ "note": "variant=appearances; 审定公布名词库=66; 海峡两岸名词对照库=6; 其他来源数据库=6; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "外观",
+   "en": "appearance",
+   "source": "农学名词",
+   "wordNumber": "18.058",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "农产品的所有可见特性。"
+  },
+  {
+   "cn": "作物长相",
+   "en": "crop appearance",
+   "source": "农学名词",
+   "wordNumber": "07.063",
+   "subjectFullName": "作物生理生态_生长与发育生理",
+   "subjectName": "生长与发育生理",
+   "publishYear": "2025",
+   "definition": "作物主要器官性状表现和个体群体生长状态的表象特征。是对长势形象化的描述，如株形、叶色、穗相等。"
+  },
+  {
+   "cn": "鹅卵石征",
+   "en": "cobblestone appearance",
+   "source": "消化病学名词",
+   "wordNumber": "15.012",
+   "subjectFullName": "消化病_炎症性肠病_炎症性肠病生理病理",
+   "subjectName": "炎症性肠病生理病理",
+   "publishYear": "2022",
+   "definition": "在活动性克罗恩病中，病变呈节段性（非连续性）分布，纵行溃疡周围黏膜正常或增生，呈鹅卵石样。病变之间黏膜外观正常（非弥漫性），为内镜下和X射线钡剂造影时克罗恩病的特征性表现。"
+  },
+  {
+   "cn": "色貌",
+   "en": "color appearance",
+   "source": "光学名词",
+   "wordNumber": "05.098",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "观察者对视野中的颜色刺激根据其视知觉的不同表象而区分的颜色知觉属性。物体的色貌特征用色貌属性参数(包括视明度、明度、视彩度、彩度、色饱和度、色相等)来表示。"
+  },
+  {
+   "cn": "颗粒样改变",
+   "en": "granular appearance",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.074",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "散在3个以上、与颗粒形态类似的隆起。"
+  },
+  {
+   "cn": "结节样改变",
+   "en": "nodular appearance",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.076",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "内镜下可见与结节类似的形态。"
+  },
+  {
+   "cn": "铺路石样改变",
+   "en": "cobblestone appearance",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.077",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "内镜下可见大小不一、排列成卵石样的隆 起。"
+  },
+  {
+   "cn": "外观检查",
+   "en": "appearance inspection",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0413",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_罐藏",
+   "subjectName": "罐藏",
+   "publishYear": "2020",
+   "definition": "重点是检查双重卷边外观是否正常，是否紧密结合，是否有露舌、夹边、起皱断裂等现象。"
+  },
+  {
+   "cn": "容貌康复",
+   "en": "appearance rehabilitation",
+   "source": "烧伤学名词",
+   "wordNumber": "01.134",
+   "subjectFullName": "烧伤学_烧伤概论_烧伤的临床过程",
+   "subjectName": "烧伤的临床过程",
+   "publishYear": "2019",
+   "definition": "对缺损的颜面部外观修复和功能重建。烧伤毁容会给患者带来严重的精神负担，只重功能、不重容貌，不能称其为满意的康复，只有容貌改善，才能帮助患者走向社会。"
+  },
+  {
+   "cn": "始现电势",
+   "en": "appearance potential",
+   "source": "物理学名词",
+   "wordNumber": "08.0621",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "外表吸引力",
+   "en": "appearance attractiveness",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.051",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "心理测定者，根据自己对被测定者之美丑的主观感觉进行笼统的判别。通常没有具体的客观标准。"
+  },
+  {
+   "cn": "色表",
+   "en": "color appearance",
+   "source": "建筑学名词",
+   "wordNumber": "10.0028",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "与色刺激和材料质地有关的颜色的主观感知特性。"
+  },
+  {
+   "cn": "色相",
+   "en": "color appearance",
+   "source": "建筑学名词",
+   "wordNumber": "09.0448",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "色彩所呈现出的相貌。借以区分色彩的品种、类别。通常以循环的色相环来表示。历史上曾有多种划分的色相环，常用的为10色相环和12色相环。10色相环的顺时针排序为：红、黄红、黄、黄绿、绿、蓝绿、蓝、蓝紫、紫"
+  },
+  {
+   "cn": "外貌吸引力",
+   "en": "appearance attraction",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0052",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "牙面外观",
+   "en": "dentofacial appearance",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0374",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "路容",
+   "en": "highway appearance",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.560",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "薄膜外观",
+   "en": "film appearance",
+   "source": "石油名词",
+   "wordNumber": "07.0340",
+   "subjectFullName": "石油_石油化工_石油化工性质及测试方法",
+   "subjectName": "石油化工性质及测试方法",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "精液外观",
+   "en": "semen appearance;appearance of semen;appearance of ejaculate",
+   "source": "男科及性医学名词",
+   "wordNumber": "07.065",
+   "subjectFullName": "男科及性医学_男性生殖系统疾病诊断",
+   "subjectName": "男性生殖系统疾病诊断",
+   "publishYear": "2023",
+   "definition": "射出体外的精液液化后的肉眼观。正常液化精液标本呈均质、灰白色外观，禁欲时间较长者可呈淡黄色。如果精子浓度非常低，精液可较为透明；有红细胞时，精液可呈红色、褐色；黄疸患者、服用维生素或药物者的精液可呈黄"
+  },
+  {
+   "cn": "植物群落外貌",
+   "en": "plant community appearance",
+   "source": "风景园林名词",
+   "wordNumber": "09.0306",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物规划设计",
+   "subjectName": "风景园林植物规划设计",
+   "publishYear": "2025",
+   "definition": "植物群落的外在表现。主要由优势种的生活型、密度、种类的多寡、色相、层片等所决定。"
+  },
+  {
+   "cn": "色貌现象",
+   "en": "color appearance phenomena",
+   "source": "光学名词",
+   "wordNumber": "05.099",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "物体或光源的颜色外貌随观察条件变化的现象。例如空间结构现象、亮度现象、色相现象、颜色恒常性现象等。"
+  },
+  {
+   "cn": "再现立体感比例",
+   "en": "appearance ratio",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "表现世界",
+   "en": "world of appearances",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "末现面",
+   "en": "last-appearance datum",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出现电势谱[学]",
+   "en": "appearance potential spectroscopy，APS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "迟现抗原-5",
+   "en": "very late appearing antigen-5， VLA-5",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "宣夜说",
+   "en": "theory of infinite heavens\",\"theory of expounding appearance in the night sky",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "远程出庭",
+   "en": "remote court appearance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无用之用",
+   "en": "The Advantage of Appearing Useless",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拟容取心",
+   "en": "Compare Appearances to Grasp the Essence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "践形",
+   "en": "Cultivate One’s Innate Quality to Be Revealed in One’s Appearance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "把问题解决在萌芽之时、成灾之前",
+   "en": "to eliminate risks at the source and resolving problems when they first appear",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "库欣面容",
+   "en": "Cushingoid appearance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.1.4",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "面圆如满月、面色红润的体征，常伴痤疮、体毛增多等，见于皮质醇增多症以及长期应用肾上腺皮质激素的病人。"
+  },
+  {
+   "cn": "鸥翼征",
+   "en": "Gull Wing Appearance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.16",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "髋臼骨折累及髋臼顶部时，导致髋臼顶发生压缩性骨折，X线片显示髋臼顶部呈现典型的双弧影，类似于飞行中海鸥张开的翅膀。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

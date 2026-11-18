@@ -1,0 +1,692 @@
+{
+ "key": "integrated information",
+ "term": "integrated information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:08:06+00:00",
+ "status": "ok",
+ "note": "variant=integrated information; 审定公布名词库=4159; 海峡两岸名词对照库=880; 其他来源数据库=634; 预公布名词数据库=153; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "信息集成",
+   "en": "integrated information",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.271",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "系统中各子系统和用户的信息采用统一标准进行规范和编码，实现全系统信息共享，进而可实现相关用户软件间的交互和有序工作。"
+  },
+  {
+   "cn": "信息集成",
+   "en": "information integration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0438",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "从分散、异构数据源中整合数据的过程。"
+  },
+  {
+   "cn": "信息集成",
+   "en": "information integration",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0149",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息系统中的各个子系统和用户的信息采用统一的标准进行规范化和编码，实现全系统内的信息共享以便于实现相关软件间的交互和有序工作。"
+  },
+  {
+   "cn": "集成信息系统",
+   "en": "integrated information system",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.279",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "为实现某个应用目标，基于计算机硬件平台、网络设备、系统软件及应用软件，将各信息系统组合成的计算机应用系统。"
+  },
+  {
+   "cn": "信息集成平台",
+   "en": "information integration platform",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.096",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "系统中各子系统和用户的信息采用统一的标准、规范和编码，实现全系统信息共享，进而可实现相关用户软件间的交互和有序工作的平台。"
+  },
+  {
+   "cn": "信息服务集成",
+   "en": "information service integration",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.038",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在信息交流和利用过程中，利用各种方式将分布的信息资源和分散的信息服务按照一定的信息组织原则、用户需求和服务目的，灵活地连接成一个有机整体，无缝整合不同系统的资源和服务的活动。"
+  },
+  {
+   "cn": "智能信息集成",
+   "en": "intelligent information integration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0596",
+   "subjectFullName": "计算机科学技术_数据库_数据库应用开发",
+   "subjectName": "数据库应用开发",
+   "publishYear": "2018",
+   "definition": "处理来自大量异构信息源的数据，通过选择、抽象、融合、缓存、外推和剪裁等技术获取高质量信息。"
+  },
+  {
+   "cn": "信息资源整合",
+   "en": "information resource integration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1356",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "将某一范围内多元的信息通过逻辑的方式组织成为一个整体的过程。"
+  },
+  {
+   "cn": "集成信息服务",
+   "en": "integrated information service,IIS",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.234",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_其他服务形式",
+   "subjectName": "其他服务形式",
+   "publishYear": "2019",
+   "definition": "针对某一特定领域或用户的信息需求，把信息资源、信息服务、信息技术、人员等信息资源保障体系诸要素有机地整合起来提供的个性化信息服务。"
+  },
+  {
+   "cn": "集成地理信息系统",
+   "en": "integrated geographical information system",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.275",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "地理信息系统通过内部功能优化、功能重用或者与其他系统实现数据共享和功能互补所得到的新的信息系统。"
+  },
+  {
+   "cn": "资源信息集成",
+   "en": "integration of resources information ",
+   "source": "草学名词",
+   "wordNumber": "3.0374",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "信息资源整合",
+   "en": "integration of information resources",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.127",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "根据一定需要，对各个相对独立的信息资源系统中原本离散、多元、异构、分布的数据对象、功能结构和信息资源通过逻辑或物理的方式进行融合、类聚和重组，重新结合为一个新的有机整体，形成一个效能更好、效率更高的信"
+  },
+  {
+   "cn": "资源信息集成",
+   "en": "integration of resource information",
+   "source": "资源科学技术名词",
+   "wordNumber": "06.076",
+   "subjectFullName": "资源科学技术_资源信息学",
+   "subjectName": "资源信息学",
+   "publishYear": "2008",
+   "definition": "在一定的计算机软、硬件环境下，通过对各种资源信息数据的规范化处理，形成统一的数据标准和体系，并把它们有机地融合在一起，进行有效管理。"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrality;integrity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0365",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "用来衡量自然和/或文化遗产及其特征的整体性和无缺憾性。"
+  },
+  {
+   "cn": "图书情报一体化",
+   "en": "integration of library and information",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.013",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "图书馆工作与情报工作在工作内容、技术手段、管理体制等方面的有机结合。管理体制等原因曾使图书馆工作和情报工作产生割裂，一体化是针对这一背景的解决方案。"
+  },
+  {
+   "cn": "整合子",
+   "en": "integrator",
+   "source": "生物物理学名词",
+   "wordNumber": "07.121",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "对外界刺激有整合作用和Ⅰ型兴奋性的神经元振子。"
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "化学名词",
+   "wordNumber": "03.2095",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "按时间累积计算检测系统所产生的电信号的仪器。"
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "药学名词",
+   "wordNumber": "06.379",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "色谱分析仪器中按时间累积检测系统所产生电信号的仪器。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.138",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "将要素或子系统组合成具有结构和功能的系统，以实现系统要素或子系统之间的资源共享和协同工作，形成更有价值和效率的新整体。"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "档案学名词",
+   "wordNumber": "06.01.020",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件信息齐全且未被破坏、变异和丢失的特性。完整的文件满足以下条件：第一，每一份文件的内容、结构和背景信息没有缺损；第二，作为记录机构活动真实面貌的、具有有机联系的多份电子文件及其他形式的相关文件数量齐"
+  },
+  {
+   "cn": "集成信息系统",
+   "en": "integrated information system",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信息整合理论",
+   "en": "information integration theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集成地理信息系统",
+   "en": "integrated geographical information system",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "积分",
+   "en": "integral",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "整合[作用]",
+   "en": "integration",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集成度",
+   "en": "○1integrity○2integration level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "天地一体化信息网络",
+   "en": "Space-ground Integrated Information Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集成电路",
+   "en": "integrated circuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一体化感知",
+   "en": "integrated sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "整合照料",
+   "en": "integrated care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "融媒体",
+   "en": "integrated media",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医疗信息整合技术",
+   "en": "medical information integration technology ",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "将来自不同医疗部门和信息源的临床、诊断、治疗及患者健康数据，通过技术手段进行有效整合、共享和分析的相关方法总称。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.27",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "泛指把分散的诸要素组合在一起，形成一个有序的整体。社会学区分了社会整合与系统整合，前者指社会行动者之间和谐或冲突的关系，而后者则指社会系统作为一个整体，各部分之间相容与不相容的关系。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "整合的实务",
+   "en": "integrated practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "综合性地运用社会工作的个案、小组、社区三大方法，以实现以下一个或多个目标的社会工作实务模式：帮助人们获得实质性的服务；为个人、家庭和群体提供咨询和心理治疗；帮助社区或群体提供或改善社会服务与卫生服务；"
+  },
+  {
+   "cn": "食品完整性",
+   "en": "food integrity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "研究食品的质量、安全和真实性的科学问题，确保在食品供应链的各个环节中，防止食品受到污染、掺假或欺诈，从而保障消费者的健康和权益，属于食品安全的延伸和深化。"
+  },
+  {
+   "cn": "节操",
+   "en": "moral integrity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "气节和操守的统称。前者表示一个人的精神力量，后者表示其道德品质。坚守某种被誉为高尚品质的行为表现。"
+  },
+  {
+   "cn": "包装密封性",
+   "en": "package integrity",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.20",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "产品的包装系统防止微生物或异物侵入以及维持产品各项质量指标持续符合安全和质量要求的能力。"
+  },
+  {
+   "cn": "社会整合",
+   "en": "social integration",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会不同的要素、各组成部分在一定的共同利益、文化精神和社会规范基础上结合为一个统一、协调的整体的过程。与“社会解组”相对。"
+  },
+  {
+   "cn": "垂直一体化",
+   "en": "vertical integration",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "公司通过兼并和收购若干个处于生产经营环节下游的企业将其经营活动向前扩展到销售终端，或通过收购一个或若干供应商向后扩展到原材料供应的一种战略行为。"
+  },
+  {
+   "cn": "纵向整合",
+   "en": "vertical integration ",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "同类不同层级的卫生机构间，通过自上而下的整顿重组方式，扩大延伸服务范围，为服务对象提供不同层次、相互补充、连续性的服务的过程。"
+  },
+  {
+   "cn": "横向整合",
+   "en": "horizontal integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "在一定范围的医疗服务市场中，同一层次服务机构间为达到降低服务成本、发挥规模经济的目的而形成合作或联盟关系的行为。"
+  },
+  {
+   "cn": "实体整合",
+   "en": "real integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.7",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "卫生服务提供者以资产和所有权整合为基础，形成一个独立法人机构对机构内资源统一管理和调配的资源整合形式。"
+  },
+  {
+   "cn": "虚拟整合",
+   "en": "virtual integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.8",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "以技术和管理等卫生系统要素为纽带，卫生服务提供者通过签订契约或组建集团的方式形成联合体的资源整合形式，可以在没有共同持有资产和所有权下分享资源。是一种没有财务责任、易解散的松散型整合。"
+  },
+  {
+   "cn": "文化整合",
+   "en": "cultural integration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0043",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同文化相互吸收、融化、调和而趋于一体化的过程。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "standard versions",
+ "term": "standard versions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:20:03+00:00",
+ "status": "ok",
+ "note": "variant=standard versions; 审定公布名词库=1323; 海峡两岸名词对照库=435; 其他来源数据库=275; 预公布名词数据库=130; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "转胎位术",
+   "en": "version",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.415",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "内转胎位术",
+   "en": "internal version",
+   "source": "妇产科学名词",
+   "wordNumber": "18.047",
+   "subjectFullName": "异常分娩_胎位异常",
+   "subjectName": "胎位异常",
+   "publishYear": "2025",
+   "definition": "肩先露分娩时的一种助产技术。接产者将一只手伸入宫腔，抓住一只或者两只胎足，并将其牵出宫颈口，同时经腹向对侧推动胎儿身体上部，使胎位转为臀先露后进行臀牵引分娩。"
+  },
+  {
+   "cn": "增订本",
+   "en": "updated version",
+   "source": "档案学名词",
+   "wordNumber": "04.03.027",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献编纂中，指将初编的档案材料与初编出版后发现的遗漏材料和新材料沿用原编纂体例统一编排而成的档案文献出版物。"
+  },
+  {
+   "cn": "洁本",
+   "en": "expurgated version",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.183",
+   "subjectFullName": "图书馆·情报与文献学_文献学_版本学",
+   "subjectName": "版本学",
+   "publishYear": "2019",
+   "definition": "（1）版面干净、整洁的本子。（2）又称“节本”。书籍的部分内容经过处理后的版本。（3）由于书籍的部分内容被认为有伤风化或不利于读者阅读而遭删除处理后的版本。"
+  },
+  {
+   "cn": "版本管理",
+   "en": "version management",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0285",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "对数据对象的多个版本进行的保存、修改和维护。版本记录了数据对象某个时刻的状态。"
+  },
+  {
+   "cn": "版本控制",
+   "en": "version control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0437",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "软件配置管理的一项内容。对程序、文档等项目制品的版本变更进行管理的活动。"
+  },
+  {
+   "cn": "版本升级",
+   "en": "version upgrade",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0439",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "使用新版本软件替代旧版本软件的活动。一般对旧版本的漏洞打上补丁，或者通过添加新的应用功能来更新软件，使软件更加完善好用。"
+  },
+  {
+   "cn": "版本管理",
+   "en": "version management",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.013",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "根据书籍编辑、印制、软件或数据修改等方面的内容不同而进行的系统性管理。"
+  },
+  {
+   "cn": "外转胎位术",
+   "en": "external version",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.416",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "内转胎位术",
+   "en": "internal version",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.417",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "联合转胎位术",
+   "en": "combined version",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.418",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "IPv4协议",
+   "en": "IP version 4",
+   "source": "通信科学技术名词",
+   "wordNumber": "05.020",
+   "subjectFullName": "通信科学技术_通信协议",
+   "subjectName": "通信协议",
+   "publishYear": "2007",
+   "definition": "因特网上现行的最重要最基本的协议，IP协议的第4版本。"
+  },
+  {
+   "cn": "IPv6协议",
+   "en": "IP version 6",
+   "source": "通信科学技术名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "通信科学技术_通信协议",
+   "subjectName": "通信协议",
+   "publishYear": "2007",
+   "definition": "下一代的因特网协议，IP协议的第6版本，其基本功能与IPv4协议相同，但QoS、安全性更好，支持移动性，并大大增加了地址空间。"
+  },
+  {
+   "cn": "文件稿本",
+   "en": "versions of records",
+   "source": "档案学名词",
+   "wordNumber": "02.01.067",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "文件在起草直至正式定稿制作完成的过程中形成的一系列具有不同外形特征、不同作用、不同价值的文稿和文本的统称。"
+  },
+  {
+   "cn": "稿本项",
+   "en": "version of document",
+   "source": "档案学名词",
+   "wordNumber": "03.04.011",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "著录项目之一。档案文件的文稿、文本、版本的著录项目。"
+  },
+  {
+   "cn": "征求意见稿",
+   "en": "version for commentary",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.02.017",
+   "subjectFullName": "编辑与出版学_编辑_组稿",
+   "subjectName": "组稿",
+   "publishYear": "2022",
+   "definition": "在定稿前用以向有关各方征求意见的稿件。"
+  },
+  {
+   "cn": "原作版本附注",
+   "en": "original version note",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.596",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "当在编文献为原作的复制品（如摹真本或缩微制品等）时，用于记录其原版文献的书目信息。"
+  },
+  {
+   "cn": "过程的等价形",
+   "en": "version of process",
+   "source": "数学名词",
+   "wordNumber": "09.0196",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "IPv6",
+   "en": "internet protocol version 6",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.112",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "互联网协议第6版。互联网工程任务组（Internet Engineering Task Force，IETF）设计的用于替代IPv4的下一代IP协议。IPv6最大的改进在于将IP地址从32位改为128"
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "农学名词",
+   "wordNumber": "18.103",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "以科学、技术、经验的综合成果为基础，以促进最佳社会效益为目的，经协商一致并经一个公认机构所批准，在一定范围内共同遵守的技术性文件。"
+  },
+  {
+   "cn": "版本",
+   "en": "version",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本",
+   "en": "version",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "版本管理",
+   "en": "version management",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本合并",
+   "en": "version merging",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本检验",
+   "en": "checkout version",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本一致",
+   "en": "version reconciliation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本一致性",
+   "en": "synchronization version",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "版本管理",
+   "en": "version management",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "版本号",
+   "en": "version number",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "版本控制",
+   "en": "version control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "版本升级",
+   "en": "version upgrade",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协议版本",
+   "en": "protocol version\",\"PV",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "N版本编程",
+   "en": "N-version programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准，规范",
+   "en": "standard",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "标定",
+   "en": "standardization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互联网协议第六版（IPv6）",
+   "en": "Internet Protocol version 6 (IPv6)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "日本标准化组织相关标准",
+   "en": "Japanese Standards Association Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准术语",
+   "en": "Standard Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元数据标准",
+   "en": "metadata standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准组织实施",
+   "en": "Standard Implementation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准系统",
+   "en": "standard system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准培训",
+   "en": "standard training",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据库标准",
+   "en": "database standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准手枪",
+   "en": "standard pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准自行车",
+   "en": "standard bicycle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "及格标准",
+   "en": "qualifying standard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三表",
+   "en": "Three Standards",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家标准",
+   "en": "National Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础标准",
+   "en": "Basic Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术标准",
+   "en": "Technical Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准",
+   "en": "standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "按照规定的程序经协商一致制定并由公认机构批准，共同使用和重复使用的规则、导则、指南或特性的文件，旨在一定范围内获得最佳秩序。"
+  },
+  {
+   "cn": "标准化",
+   "en": "standardization",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "为了在既定范围内获得最佳秩序，促进共同效益，对现实问题或潜在问题确立共同使用和重复使用的条款以及编制、发布和应用标准的活动。"
+  },
+  {
+   "cn": "行业标准",
+   "en": "sector standard，industry standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "对没有国家标准而又需要在全国某个行业范围内统一技术要求，由国务院有关行政主管部门组织制定的公益类标准。"
+  },
+  {
+   "cn": "标准预防",
+   "en": "standard prevention",
+   "source": "消毒学",
+   "wordNumber": "1.7.2",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "基于患者的血液、体液、分泌物(不包括汗液)、排泄物、非完整皮肤和黏膜均可能具有传染性的原则，针对医疗机构所有患者和医务人员采取的一组预防感染的措施。包括手卫生，并根据预期可能的暴露选用手套、面罩、隔离"
+  },
+  {
+   "cn": "基准物质",
+   "en": "primary standard",
+   "source": "消毒学",
+   "wordNumber": "6.1.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有确定的化学组成和足够的纯度，性质稳定，可用于直接配制标准溶液或标定滴定分析中操作溶液的物质。"
+  },
+  {
+   "cn": "标准物质",
+   "en": "standard substance",
+   "source": "消毒学",
+   "wordNumber": "6.1.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有一种或多种足够均匀和精确确定了特性值、用以校准设备、评价测量方法或给材料赋值的纯的或混合的气体、液体或固体物质。"
+  },
+  {
+   "cn": "标准溶液",
+   "en": "standard solution",
+   "source": "消毒学",
+   "wordNumber": "6.1.7",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "已知其主体成分准确浓度或其他特性量值的溶液。"
+  },
+  {
+   "cn": "标准样品",
+   "en": "standard sample",
+   "source": "消毒学",
+   "wordNumber": "6.1.9",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "足够均匀，具有一个或多个精确特性量值，可作为其他测量值是否准确的参照标准的样品。"
+  },
+  {
+   "cn": "标准菌株",
+   "en": "standard strain",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "由国内或国际菌种保藏机构保藏，遗传学特性得到确认和保证并可追溯的菌株。是在给某细菌定名、分类记载和发表时，为了使定名准确和作为分类概念的准则，以纯粹活菌（可繁殖）状态所保存的菌种。"
+  },
+  {
+   "cn": "生物安全标准",
+   "en": "biosafety standard",
+   "source": "消毒学",
+   "wordNumber": "7.1.1",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "用于规范生物安全领域相关研究、开发、生产、检验和应用等活动，经协商一致制定并由公认机构批准，共同使用和重复使用的规范性文件。"
+  },
+  {
+   "cn": "标准不确定度",
+   "en": "standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.23",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "以标准偏差表示的测量不确定度。"
+  },
+  {
+   "cn": "国际标准",
+   "en": "international standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "国际标准化组织（ISO）、国际电工委员会（IEC）和国际电信联盟（ITU）制定的标准，以及国际标准化组织确认并公布的其他国际组织制定的标准。"
+  },
+  {
+   "cn": "区域标准",
+   "en": "regional standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由区域标准化组织或区域标准组织通过并公开发布的标准。"
+  },
+  {
+   "cn": "国家标准",
+   "en": "national standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由国家标准机构通过并公开发布的标准。此类标准的标准代号，强制性使用GB，推荐性使用GB/T。"
+  },
+  {
+   "cn": "地方标准",
+   "en": "local standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "为满足地方自然条件、风俗习惯等特殊技术要求，由省级标准化行政主管部门和经其批准的设区的市级标准化行政主管部门在农业、工业、服务业以及社会事业等领域制定的在本行政区域内适用的标准。"
+  },
+  {
+   "cn": "团体标准",
+   "en": "association standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "依法成立的社会团体为满足市场和创新需要，协调相关市场主体共同制定的、供团体成员或社会自愿采用的标准。"
+  },
+  {
+   "cn": "企业标准",
+   "en": "enterprise standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.7",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由企业通过供该企业使用的标准。"
+  },
+  {
+   "cn": "强制性标准",
+   "en": "mandatory standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.8",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "保障人身健康和财产安全的标准以及法律、行政法规规定强制执行的标准。"
+  },
+  {
+   "cn": "推荐性标准",
+   "en": "voluntary standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.9",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "在生产、交换、使用等方面，通过经济手段或市场调节而自愿采用的标准。"
+  },
+  {
+   "cn": "基础标准",
+   "en": "basic standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.12",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "以相互理解为编制目的形成的具有广泛适用范围的标准。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

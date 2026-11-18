@@ -1,0 +1,702 @@
+{
+ "key": "lei",
+ "term": "Lèi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:12:55+00:00",
+ "status": "ok",
+ "note": "variant=Lèi; 审定公布名词库=231; 海峡两岸名词对照库=23; 其他来源数据库=13; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "胃",
+   "en": "wèi,CO4,stomache",
+   "source": "中医药学名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "中医药学_针灸学_耳穴名称和头皮穴线名称",
+   "subjectName": "耳穴名称和头皮穴线名称",
+   "publishYear": "2004",
+   "definition": "耳穴。在耳轮脚消失处。"
+  },
+  {
+   "cn": "肺",
+   "en": "fèi,CO14,lung",
+   "source": "中医药学名词",
+   "wordNumber": "03.105",
+   "subjectFullName": "中医药学_针灸学_耳穴名称和头皮穴线名称",
+   "subjectName": "耳穴名称和头皮穴线名称",
+   "publishYear": "2004",
+   "definition": "耳穴。在心、气管区周围处。"
+  },
+  {
+   "cn": "激光周边虹膜切除术",
+   "en": "laser peripheral iridotomy,LPI",
+   "source": "光学名词",
+   "wordNumber": "28.163",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "用激光将某一局部的周边虹膜切穿，使前后房交通、解除或预防瞳孔阻滞的一种眼科激光手术。"
+  },
+  {
+   "cn": "潜在语义标引",
+   "en": "latent semantic indexing,LSI",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.741",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_标引",
+   "subjectName": "标引",
+   "publishYear": "2019",
+   "definition": "一种信息检索模型，是经典向量空间模型的改进。它试图发现对象之间的关联模式及其隐藏的对象之间的结构关系，以实现基于概念的语义检索。"
+  },
+  {
+   "cn": "长基线干涉仪",
+   "en": "long baseline interferometer,LBI",
+   "source": "物理学名词",
+   "wordNumber": "11.0271",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无反转激射",
+   "en": "lasing without inversion,LWI",
+   "source": "物理学名词",
+   "wordNumber": "04.2007",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "叶面积指数",
+   "en": "leaf area index,LAI",
+   "source": "植物学名词",
+   "wordNumber": "13.0030",
+   "subjectFullName": "植物学_植物生态学_植物个体生态学",
+   "subjectName": "植物个体生态学",
+   "publishYear": "2019",
+   "definition": "单位土地面积上植物绿色叶片的总面积与土地面积的比值。"
+  },
+  {
+   "cn": "隐语义索引",
+   "en": "latent semantic indexing,LSI",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0355",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "一种文本数据索引和检索方法，利用奇异值分解技术从文本集合中发现单词和概念之间的关系。该方法的基本原理是在相同上下文中出现的单词总是具有相似的含义。"
+  },
+  {
+   "cn": "激光解吸电离",
+   "en": "laser desorption ionization,LDI",
+   "source": "化学名词",
+   "wordNumber": "03.2476",
+   "subjectFullName": "化学_分析化学_仪器分析_质谱分析",
+   "subjectName": "质谱分析",
+   "publishYear": "2016",
+   "definition": "样品无烧蚀过程而仅通过激光解吸而导致的电离。"
+  },
+  {
+   "cn": "叶面积指数",
+   "en": "leaf area index,LAI",
+   "source": "资源科学技术名词",
+   "wordNumber": "10.130",
+   "subjectFullName": "资源科学技术_草地资源学",
+   "subjectName": "草地资源学",
+   "publishYear": "2008",
+   "definition": "植物叶片总面积与地表面积之比。"
+  },
+  {
+   "cn": "叶面积指数",
+   "en": "leaf area index,LAI",
+   "source": "生态学名词",
+   "wordNumber": "02.227",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "单位土地面积上的总植物叶面积。"
+  },
+  {
+   "cn": "大规模集成电路",
+   "en": "large-scale integrated circuit,LSI",
+   "source": "物理学名词",
+   "wordNumber": "08.1745",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "大规模集成电路",
+   "en": "large scale integrated  circuit,LSI",
+   "source": "电子学名词",
+   "wordNumber": "14.114",
+   "subjectFullName": "电子学_半导体器件与集成电路",
+   "subjectName": "半导体器件与集成电路",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "厘",
+   "en": "li",
+   "source": "中医药学名词",
+   "wordNumber": "02.224",
+   "subjectFullName": "中医药学_医史文献_医史文献其他",
+   "subjectName": "医史文献其他",
+   "publishYear": "2004",
+   "definition": "旧质量单位。"
+  },
+  {
+   "cn": "激光虹膜切开术",
+   "en": "laser iridotomy,LI",
+   "source": "光学名词",
+   "wordNumber": "28.165",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "利用激光穿透虹膜组织，使前后房沟通，瞳孔阻滞得到解除的一种眼科激光手术。"
+  },
+  {
+   "cn": "产仔间隔",
+   "en": "laboring interval,LI",
+   "source": "畜牧学名词",
+   "wordNumber": "05.206",
+   "subjectFullName": "畜牧学_繁殖_繁殖力",
+   "subjectName": "繁殖力",
+   "publishYear": "2020",
+   "definition": "母畜两次产仔间隔的平均天数。该指标用于牛和羊，则分别称为产犊间隔(calving interval, CI)和产羔间隔(lambing interval, LI)。"
+  },
+  {
+   "cn": "液相电离",
+   "en": "liquid ionization,LI",
+   "source": "化学名词",
+   "wordNumber": "03.2505",
+   "subjectFullName": "化学_分析化学_仪器分析_质谱分析",
+   "subjectName": "质谱分析",
+   "publishYear": "2016",
+   "definition": "样品溶于适当的溶剂并涂于可加热的金属针上，引入氩等惰性气体与液体表面接触而发生离子化反应并气化的离子化方法。"
+  },
+  {
+   "cn": "抬升指数",
+   "en": "lifting index,LI",
+   "source": "大气科学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "决定灾害天气发生与否的一种稳定度指数，它定义为LI=T₅-Tₛ(℃)。其中T₅表示500 hPa的干球温度，Tₛ表示地面空气块绝热抬升到500 hPa时的温度。LI＞3时表示稳定条件；LI＜-2表示非"
+  },
+  {
+   "cn": "巷识别",
+   "en": "lane identification,LI",
+   "source": "航海科技名词",
+   "wordNumber": "06.0269",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "碘酸锂晶体",
+   "en": "lithium iodate,LI",
+   "source": "电子学名词",
+   "wordNumber": "06.043",
+   "subjectFullName": "电子学_电子陶瓷、压电、铁电与磁性元",
+   "subjectName": "电子陶瓷、压电、铁电与磁性元",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "游唱歌体",
+   "en": "lai",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "雷●",
+   "en": "Lei Xiao",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "叶面积指数",
+   "en": "leaf area index\",\"LAI",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "叶面积指数",
+   "en": "leaf area index\",\"LAI",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "长基线干涉测量",
+   "en": "long baseline interferometry\",\"LBI",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "激光解吸电离",
+   "en": "laser desorption ionization\",\"LDI",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大规模集成",
+   "en": "large scale integration\",\"LSI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "行每英寸",
+   "en": "lines per inch\",\"lpi",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "李时珍",
+   "en": "Li Shizhen",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "[月潮]低潮间隙",
+   "en": "low water lunitidal interval\",\"LWI",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "低拦截概率",
+   "en": "low-probability of intercept\",\"LPI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抬升指数",
+   "en": "lifting index\",\"LI",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "巷识别",
+   "en": "lane identification\",\"LI",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "大规模集成电路",
+   "en": "large scale integrated circuit，LSI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "里差",
+   "en": "difference of li",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硅-锂探测器",
+   "en": "Si-Li detector",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "锗-锂探测器",
+   "en": "Ge-Li detector",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "碘酸锂晶体",
+   "en": "lithium iodate，LI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "硅[锂]探测器",
+   "en": "Si [Li] detector",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锗[锂]探测器",
+   "en": "Ge [Li] detector",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理",
+   "en": "Li",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罗莉",
+   "en": "Luo Li",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "李宁",
+   "en": "Li Ning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "李月久",
+   "en": "Li Yuejiu",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "雷锋精神",
+   "en": "the spirit of Lei Feng",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "离",
+   "en": "Li (The Fire Symbol)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "礼",
+   "en": "Li (Rites / Social Norms/ Propriety)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "读万卷书，行万里路",
+   "en": "Read Ten Thousand Books and Travel Ten Thousand Li",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "千里之行，始于足下",
+   "en": "A Journey of a Thousand Li Begins with the First Step",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "千里之行，始于足下",
+   "en": "A journey of a thousand li begins with a single step.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "理一分殊",
+   "en": "There Is But One Li (Universal Principle), Which Exists in Diverse Forms.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "千里之堤，溃于蚁穴",
+   "en": "A Dam of a Thousand Li Can Collapse Due to an Ant Hole.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "黎族",
+   "en": "Li",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0441",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在海南省中南部。人口160.21 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。使用黎语，属汉藏语系壮侗语族黎语支，不同地区有不同方言；很多人兼通汉语；使用汉文。19"
+  },
+  {
+   "cn": "俚",
+   "en": "Li",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0119",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。中国南方古代民族。东汉至隋唐，屡见于史籍，常与僚并称。主要分布于今广西壮族自治区东南部、广东省西南部和北部，以及湖南省零陵、武陵地区。"
+  },
+  {
+   "cn": "俫语",
+   "en": "Lai language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0337",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国自称“巴琉”、他称“俫”的仡佬族使用的语言。属南亚语系越芒语族。主要分布在广西隆林县和西林县。使用人口约1000 人。"
+  },
+  {
+   "cn": "莱夷",
+   "en": "Lai Yi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0144",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。先秦东夷之一种。活动于古代之青州，即今山东省中、东部。"
+  },
+  {
+   "cn": "《中俄伊犁条约》",
+   "en": "Sino Russian lli Treaty",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0613",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "1881 年2 月24 日清政府与俄国签订的不平等条约。中国虽收回了伊犁九城及特克斯河流域附近的领土，但仍割让了塔城东北和伊犁、喀什噶尔以西约7 万多平方公里的领土"
+  },
+  {
+   "cn": "黎语",
+   "en": "Li language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0271",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国黎族使用的语言。属汉藏语系侗台语族黎语支。分布在海南省。分侾、杞、本地、美孚、加茂5 个方言。使用人口约100 万。1957 年设计了拉丁字母形式的《黎语文字方案》。"
+  },
+  {
+   "cn": "骊戎",
+   "en": "Li Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0087",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名，古戎人一支，姬姓。活跃于陕西临潼一带，曾与秦的先世通婚。春秋初，晋献公伐之，得骊姬；后为晋国所并。"
+  },
+  {
+   "cn": "黎文",
+   "en": "Li writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.038",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "黎族使用的拉丁字母形式的文字。1957 年创制。以黎语哈（原作侾）方言为基础方言，以海南省乐东县保定村黎语语音为标准音。"
+  },
+  {
+   "cn": "九黎",
+   "en": "Jiu Li",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.001",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "中国古史传说时代之古族名，居住在黄河下游流域，或言原居南方。其首领为蚩尤。与炎帝、黄帝部落集团屡相争战，最后兵败涿鹿之野，蚩尤被杀，九黎融入华夏之中。信奉巫教，能用五金做兵器，始设刑法。"
+  },
+  {
+   "cn": "黎语支",
+   "en": "Li branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0272",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系侗台语族的一个语支。分布在海南省。包括黎语和东方、昌江两市县村人使用的“村话”。该语支语言由于分离时间比较久远，与同语族壮傣和侗水语支之间的同源词相对较少。"
+  },
+  {
+   "cn": "《中俄伊塔通商章程》",
+   "en": "trade regulations of lli Tarbehtei",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0611",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "1851 年清政府与沙俄签订的不平等条约，主要内容涉及通商、纳税、领事设置、贸易圈的设置等。《中俄伊塔通商章程》使俄国第一次取得在华设置领事及领事裁判权，是近代中俄关系发生性质变化的标志。"
+  },
+  {
+   "cn": "斡朵里",
+   "en": "Wo Duo Li",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0031",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "明代建州女真之一部。源于元朝五万户府之斡朵怜万户府，居于松花江下游地区。"
+  },
+  {
+   "cn": "以礼入法",
+   "en": "yi li ru fa",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.12",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "主张通过德教维持礼、以礼为维持社会秩序的儒家与主张通过法律制裁维持法律、以法律为维持社会秩序的法家之间的对立逐渐消失，法律的内容、审判的过程受礼的影响，律与礼互为表里的过程。瞿同祖先生在分析传统中国法"
+  },
+  {
+   "cn": "立三路线",
+   "en": "Li LiSans left opportunism",
+   "source": "马克思主义",
+   "wordNumber": "04.0379",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即第二次“左”倾路线。1930年中国工农红军和农村革命根据地得到很大发展,国民党统治区的人民革命斗争也得到了初步恢复。这时,党内一些犯革命急性病的人,过高地估计了有利条件和革命力量的增长,使党内存在着"
+  },
+  {
+   "cn": "《丁香帐》",
+   "en": "Li shivi gur khang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0341",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "古藏文辞书，全称《藏语古今语词指津善言•丁香帐》。全书收录佛学术语和一般词语1000多词条，其中古今语词对照有800 多条。作者觉顿•仁钦扎西，根据藏文的几次“厘定”而编成。"
+  },
+  {
+   "cn": "藏历",
+   "en": "Bod kyi li tho",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0574",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "相传西藏的历法约始于公元前一百年左右，有推算出日、月、年的《噶莫帕玛历算法》。9 世纪初由藏族天文学家桑杰益西、坚赞贝桑等人，创制出藏族的传统历法。后将印度时轮经传入西藏的1027 年，定为60 年周"
+  },
+  {
+   "cn": "筚栗",
+   "en": "Bi Li instrument/Hichiriki（日）",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.064",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "古代竖吹管乐器。起源于西域，龟兹国乐中有多种形制，是克孜尔等佛窟壁画中最多见的乐器之一。后传入中原，远至朝鲜、日本及整个东亚。几经演变为今汉族民间流传的管子、维吾尔族民间流传的巴烈曼等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

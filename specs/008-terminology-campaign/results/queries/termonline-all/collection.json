@@ -1,0 +1,812 @@
+{
+ "key": "collection",
+ "term": "Collection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:07:00+00:00",
+ "status": "ok",
+ "note": "variant=Collection; 审定公布名词库=1451; 海峡两岸名词对照库=414; 其他来源数据库=50; 预公布名词数据库=57; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "集",
+   "en": "collection",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.063",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "由单个作品汇集编选而成的出版物。"
+  },
+  {
+   "cn": "收集",
+   "en": "collection ",
+   "source": "草学名词",
+   "wordNumber": "4.0641",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "馆藏",
+   "en": "collection,holdings",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.006",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "图书馆所保存和管理的文献和其他信息资源的总和。"
+  },
+  {
+   "cn": "馆藏评估",
+   "en": "collection assessment,collection evaluation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.012",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "图书馆依照一定的标准，对已采集和收藏的文献资源及其效用进行调查、分析与评价的过程。主要涉及馆藏的物理状态、馆藏的范围与结构、资源的规模与质量、资源的利用及满足读者需求的情况等方面的内容。"
+  },
+  {
+   "cn": "藏书补缺",
+   "en": "collection supplement,collection replacement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.344",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "图书馆针对因书籍亡佚、系列藏书不完整等造成的已有藏书不足，或者因为用户新需求、服务对象范围扩展等引起的对新书籍进行的藏书补充活动。"
+  },
+  {
+   "cn": "收集熔融",
+   "en": "collection melting",
+   "source": "地质学名词",
+   "wordNumber": "13.05.053",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "熔体连续产生，连续移至一存储池中，并均匀地混合在一起的部分熔融过程。"
+  },
+  {
+   "cn": "汇集全宗",
+   "en": "collection fonds",
+   "source": "档案学名词",
+   "wordNumber": "03.01.034",
+   "subjectFullName": "档案学_档案管理_档案收集与整理",
+   "subjectName": "档案收集与整理",
+   "publishYear": "2024",
+   "definition": "由若干个文件数量很少且具有某些共同特征或联系的小全宗组成，作为一个全宗对待的档案整体。"
+  },
+  {
+   "cn": "集束性",
+   "en": "collection property",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0236",
+   "subjectFullName": "化工（七）_合成纤维_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "纤维成束的程度。一般用纤维与纤维的静摩擦系数和动摩擦系数之差来评价油剂的集束性。纤维的集束性与所用油剂有较紧密关系。"
+  },
+  {
+   "cn": "集水廊道",
+   "en": "collection gallery",
+   "source": "电力名词",
+   "wordNumber": "14.057",
+   "subjectFullName": "电力_水工与金属结构",
+   "subjectName": "水工与金属结构",
+   "publishYear": "2020",
+   "definition": "设置在坝体内供集中渗水用的通道。"
+  },
+  {
+   "cn": "藏书配置",
+   "en": "collection allocation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.022",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "图书馆藏书组织的基本内容之一。根据藏书的学科性质、读者对象、使用特点等因素，将馆藏文献区分为既彼此独立又相互联系的若干部分，并建立具有各种功能的书库，使每一部分藏书都有合理的存放位置，以便保存和利用。"
+  },
+  {
+   "cn": "资源集合元数据",
+   "en": "collection metadata",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.891",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_元数据",
+   "subjectName": "元数据",
+   "publishYear": "2019",
+   "definition": "对按照一定体系组成的信息资源对象集合或信息资源体系进行描述的元数据。"
+  },
+  {
+   "cn": "藏书区分",
+   "en": "collection division",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.443",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆根据其藏书的不同特征而对藏书进行的划分。例如根据藏书的内容范围，可分为综合性藏书、多科性藏书和专科性藏书；根据出版物的类型，可分为图书、期刊、特种文献等；根据出版物的载体形式，可分为印刷型、电子"
+  },
+  {
+   "cn": "馆藏空间",
+   "en": "collection space",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.450",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆存储馆藏文献所占用的物理空间。"
+  },
+  {
+   "cn": "馆藏特色",
+   "en": "collection strength",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.013",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "图书馆通过有计划地对文献资源进行长期筛选和累积所形成的馆藏个性。包括馆藏的内容、范围、形式等方面的特征。"
+  },
+  {
+   "cn": "馆藏新度",
+   "en": "collection currency",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "各学科领域里最新书刊、新学科资料和新型信息载体在图书馆馆藏总数中所占的比重。即馆藏文献反映最新知识的程度。馆藏新度通常体现为两个方面：①新书率，即新书数与藏书总数之比；②反映新理论、新观点、新材料、新"
+  },
+  {
+   "cn": "藏书补充",
+   "en": "collection supplement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.343",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "以符合图书馆任务和读者需求的出版物来建立馆藏，并对现有藏书资源不断补充和完善的过程。其目的是为建立一个系统的、合乎读者需求的藏书体系而奠定基础。包括图书的选择和采集两个方面。"
+  },
+  {
+   "cn": "藏书复选",
+   "en": "collection reselection",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.457",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆对已经入藏的图书进行的再次选择的过程。是对初选结果的检验、充实、修正和发展。通过这个过程，可以了解馆藏图书的利用情况，从而确定哪些书应继续保存以供利用，哪些书应进一步补充以增加品种和复本，哪些书"
+  },
+  {
+   "cn": "馆藏维护",
+   "en": "collection maintenance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.451",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆在日常工作中为了保护藏书所采取的一系列措施。主要包括防火、防潮和防高温、防虫鼠害、装订修补、安全防护、文献保护处理六大方面。"
+  },
+  {
+   "cn": "馆藏管理",
+   "en": "collection management",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.009",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "实施馆藏政策所需要的运行规划和执行行动。目的是使图书馆馆藏得到经济、有效的发展，更好地满足读者需求。主要包括馆藏发展、馆藏维护、馆藏评价等几个方面。"
+  },
+  {
+   "cn": "藏书组织",
+   "en": "collection organization",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.442",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆藏书建设的基本内容之一。图书馆将经过加工的藏书按照一定的原则进行合理的布局、排列、清点和保护，并通过对藏书的管理，使其和读者需求相互匹配，达到对图书馆藏书积极利用和妥善保管的目的。包括藏书区分、"
+  },
+  {
+   "cn": "收集",
+   "en": "collection",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "标本收藏",
+   "en": "collection",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "采集，采收",
+   "en": "collection",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "收集效率",
+   "en": "collection efficiency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "捕集效率",
+   "en": "collection efficiency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "托收成本",
+   "en": "collection cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "托收代理行",
+   "en": "collection agency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "托收费",
+   "en": "collection charge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "托收票据",
+   "en": "collection bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "托收期",
+   "en": "collection period",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "托收手续费",
+   "en": "collection commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "托收委托书",
+   "en": "collection order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "托收银行",
+   "en": "collection bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "采收期",
+   "en": "collection period",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "集尘",
+   "en": "dust collection",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数据收集，数据采集",
+   "en": "data collection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "锗富集物",
+   "en": "germanium collection",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "出口托收",
+   "en": "outward collection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "跟单托收",
+   "en": "documentary collection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "票据托收",
+   "en": "bill collection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "勒马",
+   "en": "collect\",\"collection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "别集",
+   "en": "Individual Collection",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集",
+   "en": "Data Collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字典藏",
+   "en": "digital collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "众扶",
+   "en": "collective support",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体智慧",
+   "en": "collective wisdom",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体拦网",
+   "en": "collective block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短快步",
+   "en": "collected trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短跑步",
+   "en": "collected canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短慢步",
+   "en": "collected walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子不停车收费",
+   "en": "Electronic Toll Collection",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总集",
+   "en": "General Collection / Anthology",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "暴力催收",
+   "en": "violent debt collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合规采集",
+   "en": "compliant data collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准催收",
+   "en": "collection of accounts receivable",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子不停车收费系统",
+   "en": "electronic toll collection (ETC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据采集制度",
+   "en": "public data collection system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息取证",
+   "en": "information collection for evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应汇尽汇原则",
+   "en": "principle of collecting all data that ought to be collected",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据汇交制度",
+   "en": "data collection and delivery system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体",
+   "en": "collectivity",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.13",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "许多人以共同价值、共同活动目的和任务为基础，高度组织起来的具有团结性、整合水平较高的群体。是群体发展的高级阶段。与“个体”相对。"
+  },
+  {
+   "cn": "采样",
+   "en": "sample collection",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "从大量同类消毒产品实物中抽取一部分作为样品的过程。"
+  },
+  {
+   "cn": "样品采集",
+   "en": "samples collection",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "从整批被检样品或待分析对象中抽取一部分有代表性的样品或分析对象。"
+  },
+  {
+   "cn": "数据收集",
+   "en": "data collection",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "就某个具体的主题，有计划、有目的地准备、收集和记录相关信息的研究行动。"
+  },
+  {
+   "cn": "资金筹集",
+   "en": "revenue collection",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资",
+   "subjectName": "卫生筹资",
+   "publishYear": "2025",
+   "definition": "卫生系统从政府、家庭或个人、组织或部门以及其他渠道筹措资金的方式。"
+  },
+  {
+   "cn": "样品采集",
+   "en": "sample collection",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.20.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "根据现场流行病调查结果，有针对性地从食品、加工环境、食品加工用品和食品加工人员等对象中抽取样品的过程。"
+  },
+  {
+   "cn": "集体行为",
+   "en": "collective behavior",
+   "source": "社会学名词",
+   "wordNumber": "2.5.4.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体行为",
+   "subjectName": "群体行为",
+   "publishYear": "2025",
+   "definition": "在人群聚集的场合下，受共同的情绪或心境影响而产生思想和活动的过程，其中既缺少领导结构又不受现有社会规范的控制，通常是无明确目的、无行动计划的众多人的行为，具有自发性、狂热性和非结构性等特点。美国社会学"
+  },
+  {
+   "cn": "集体制",
+   "en": "collective ownership",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "生产资料归一定范围的劳动群众共同所有的集体所有制产权和组织管理形式，亦即劳动者与生产资料在该集体范围内结合并实行按劳分配的一种经济形式。该制度广泛存在于中国城乡组织体系内，作为社会主义公有制的一种补充"
+  },
+  {
+   "cn": "集体行动",
+   "en": "collective action",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "集体行为组织化的形式，指有少数或许多个体参加的、涉及群体利益、集团利益或共同利益的、具有很大自发性的非正式的群体行为或制度外的政治行为，后者属于社会运动范畴。"
+  },
+  {
+   "cn": "集体记忆",
+   "en": "collective memory",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.13",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "为群体所共同享有、传承和建构的，具有特定文化认同性和凝聚力的，关于群体过往事件或先人事迹的回忆或追溯。凡是能保留或衍生这一记忆的场所或地方，无论是物质的或非物质的，如纪念馆、文物、图片、甚至身体或口头"
+  },
+  {
+   "cn": "群体自尊",
+   "en": "collective esteem",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "个体会对其所属的群体产生的价值判断和情感体验。克罗克(Jennifer Crocker)和卢赫塔宁(Riia Luttanen)在社会认同理论的基础上提出。"
+  },
+  {
+   "cn": "集体农庄",
+   "en": "collective farm",
+   "source": "马克思主义",
+   "wordNumber": "02.0302",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联农业集体经济组织的基本形式。苏联在农业集体化运动中曾出现三种集体经济的组织形式：共耕社、农业劳动组合和农业公社。1930年联共（布）中央确定农业劳动组合是集体农庄运动的基本形式，通常就把它称为“集"
+  },
+  {
+   "cn": "集体利益",
+   "en": "collective interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0179",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“个人主义”相对。有两种不同的涵义：(1)即“社会利益”。(2)组成集体的各个个体的共同利益或根本利益。在社会主义条件下，个人利益、集体利益和社会利益三者在本质上是一致的。当个人利益与集体利益、集体"
+  },
+  {
+   "cn": "集体领导",
+   "en": "collective leadership",
+   "source": "马克思主义",
+   "wordNumber": "03.0261",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "集体领导是无产阶级政党和社会主义国家的领导原则。它的主要内容是：一切重大问题由各级党的委员会集体民主讨论决定；决定问题必须严格遵守少数服从多数的原则；集体领导和个人分工负责相结合；集体领导作出的决定要"
+  },
+  {
+   "cn": "集体无意识",
+   "en": "collective unconsciousness",
+   "source": "马克思主义",
+   "wordNumber": "05.0046",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "一种非物质的集体动因。本雅明认为上层建筑受双重力量支配，除物质因素外，还受集体无意识的决定。他总是将集体无意识与史前的无阶级社会中被埋葬的性欲经验的特定形式关联起来。"
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "集体意识",
+   "en": "collective conscience",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0524",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指同一个社会中所具有的共同信仰和情感。有别于个体观念，集体观念不是从个人自身的生活经验中所吸取的，而是通过社会环境，即教育、社会舆论、习俗"
+  },
+  {
+   "cn": "集体防护",
+   "en": "collective protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.4.4",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射防护",
+   "subjectName": "核辐射防护",
+   "publishYear": "2025",
+   "definition": "集体为避免或减轻核武器的伤害而采取的措施。主要是在工事、帐篷、车辆、飞机和舰船中安装密闭、滤毒通风、洗消和报警等设施来进行防护。分为隔离式防护和过滤式防护。"
+  },
+  {
+   "cn": "社会集体",
+   "en": "social collectivity",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "以共同利益、共同价值观、共同的目标和活动为基础而结合在一起的、执行某种社会职能的组织化团体。"
+  },
+  {
+   "cn": "干式捕尘",
+   "en": "dry dust collection",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2.8.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "利用重力、惯性、吸附、阻拦等原理，除去或减少空气中粉尘数量和浓度。常在不便或不能使用水或其他洗涤剂以及某些特定条件下所采用的除尘方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "large majority",
+ "term": "large majority",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:21:43+00:00",
+ "status": "ok",
+ "note": "variant=large majority; 审定公布名词库=683; 海峡两岸名词对照库=209; 其他来源数据库=52; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "主修课程",
+   "en": "major",
+   "source": "教育学名词",
+   "wordNumber": "05.076",
+   "subjectFullName": "教育学_比较教育_美国教育",
+   "subjectName": "美国教育",
+   "publishYear": "2013",
+   "definition": "美国本科生课程中保证知识深度的课程。通常由一个学科或两个以上相关学科的若干课程构成，为学生提供学科的知识和研究方法。"
+  },
+  {
+   "cn": "大动脉",
+   "en": "large artery",
+   "source": "普通外科学名词",
+   "wordNumber": "25.003",
+   "subjectFullName": "医学_普通外科学_血管外科",
+   "subjectName": "血管外科",
+   "publishYear": "2026",
+   "definition": "管壁的中膜有多层弹性膜和大量弹性纤维，平滑肌纤维较少。"
+  },
+  {
+   "cn": "大脉",
+   "en": "large pulse",
+   "source": "兽医学名词",
+   "wordNumber": "13.037",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "脉搏搏动振幅大的脉。"
+  },
+  {
+   "cn": "大肠",
+   "en": "large intestine",
+   "source": "兽医学名词",
+   "wordNumber": "19.082",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "六腑之一。位于腹部，前连小肠，后通肛门。其主要生理功能是接纳传导经小肠消化吸收后的食物糟粕与水液，并吸收其中的水津，经过燥化，形成粪便，经肛门排出体外。"
+  },
+  {
+   "cn": "大震",
+   "en": "large earthquake",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0159",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "震级大于等于 7级的地震。包括较大地震、特大地震、巨大地震等。 "
+  },
+  {
+   "cn": "大肠",
+   "en": "large intestine",
+   "source": "消化病学名词",
+   "wordNumber": "6.011",
+   "subjectFullName": "消化病_结直肠_结直肠解剖",
+   "subjectName": "结直肠解剖",
+   "publishYear": "2022",
+   "definition": "结肠与直肠的合称。"
+  },
+  {
+   "cn": "大滚子",
+   "en": "large roller",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0694",
+   "subjectFullName": "机械工程（一）_传动_链传动_链条元件",
+   "subjectName": "链条元件",
+   "publishYear": "2021",
+   "definition": "外径大于链板高度的滚子。"
+  },
+  {
+   "cn": "大外径千分尺",
+   "en": "large micrometer",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "10.038",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_量具与量仪_量具",
+   "subjectName": "量具",
+   "publishYear": "2021",
+   "definition": "利用螺旋副原理，对弧形尺架上两测量面间分隔的距离进行读数的通用长度测量工具。其测量下限等于或大于1000mm。"
+  },
+  {
+   "cn": "大城市",
+   "en": "large city",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.036",
+   "subjectFullName": "城乡规划学_城乡规划总述_城市与乡村",
+   "subjectName": "城市与乡村",
+   "publishYear": "2021",
+   "definition": "按照国家规范，指城区常住人口100万以上500万以下的城市。其中，300万以上500万以下的城市为Ⅰ型大城市，100万以上300万以下的城市为Ⅱ型大城市。"
+  },
+  {
+   "cn": "大肠",
+   "en": "large intestine",
+   "source": "动物学名词",
+   "wordNumber": "6.0857",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_消化系统",
+   "subjectName": "消化系统",
+   "publishYear": "2021",
+   "definition": "（1）哺乳动物从盲肠至肛门之间的肠管。分为结肠和直肠。从食物残渣吸收水分，食物残渣被作为粪便排出。（2）鱼类、两栖动物、爬行动物和鸟类大肠很短，即直肠，末端开口于泄殖腔。"
+  },
+  {
+   "cn": "大扰动",
+   "en": "large disturbance",
+   "source": "电力名词",
+   "wordNumber": "04.223",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "干扰量和干扰变动速率相对较大的扰动,如输电线路短路、突然开断等。在大扰动时,描述电力系统动态行为的微分方程不能做线性化处理,需要考虑电力系统的动态变化过程。"
+  },
+  {
+   "cn": "大用户",
+   "en": "large customer",
+   "source": "电力名词",
+   "wordNumber": "06.244",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "接入较高电压等级,具备一定购电规模的电力用户。"
+  },
+  {
+   "cn": "大跨越",
+   "en": "large crossing",
+   "source": "电力名词",
+   "wordNumber": "22.133",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "档距较大(1000m以上)的跨越江河、湖泊、海峡或山谷的架空线路的耐张段。"
+  },
+  {
+   "cn": "大多聚蛋白",
+   "en": "large polyprotein",
+   "source": "感染病学名词",
+   "wordNumber": "03.0168",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "一种包含多种功能蛋白的多聚体。往往是病毒成熟蛋白的前体。"
+  },
+  {
+   "cn": "大极化子",
+   "en": "large polaron",
+   "source": "物理学名词",
+   "wordNumber": "08.2411",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "大气道",
+   "en": "large airway",
+   "source": "呼吸病学名词",
+   "wordNumber": "02.007",
+   "subjectFullName": "呼吸病学_解剖和组织学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "管径＞2mm的0~6级气道。包括气管、主支气管、叶支气管、段支气管和5~6级支气管。狭义是指气管和左、右支气管。"
+  },
+  {
+   "cn": "大静脉",
+   "en": "large vein",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "09.037",
+   "subjectFullName": "组织学与胚胎学_组织学_循环系统",
+   "subjectName": "循环系统",
+   "publishYear": "2014",
+   "definition": "管径在10mm以上的静脉。包括上腔静脉、下腔静脉、无名静脉、奇静脉、肺静脉、髂外静脉、门静脉和颈外静脉等。"
+  },
+  {
+   "cn": "大动脉",
+   "en": "large artery",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "09.017",
+   "subjectFullName": "组织学与胚胎学_组织学_循环系统",
+   "subjectName": "循环系统",
+   "publishYear": "2014",
+   "definition": "管壁的中膜有多层弹性膜和大量弹性纤维，平滑肌纤维较少的动脉。包括主动脉、肺动脉、无名动脉、颈总动脉、锁骨下动脉、椎动脉和髂总动脉等。"
+  },
+  {
+   "cn": "大样本",
+   "en": "large sample",
+   "source": "心理学名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "容量大于等于30的样本。"
+  },
+  {
+   "cn": "大肠",
+   "en": "large intestine",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0258",
+   "subjectFullName": "人体解剖学_内脏学_消化系统",
+   "subjectName": "消化系统",
+   "publishYear": "2014",
+   "definition": "从盲肠至肛门之间的粗大肠管。围绕在小肠的周围。分为盲肠[包括阑尾]、结肠和直肠(包括肛管)三部分。"
+  },
+  {
+   "cn": "大菱形肌",
+   "en": "rhomboideus major\",\"rhomboid major",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "大动脉",
+   "en": "large artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "大淋巴细胞",
+   "en": "large lymphocyte",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "大核",
+   "en": "large nuclei",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大离子",
+   "en": "large ion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大样本",
+   "en": "large sample",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大额存款",
+   "en": "large deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大面额债券",
+   "en": "large bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大批采购",
+   "en": "large purchase",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大批定货",
+   "en": "large order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "巨额票据",
+   "en": "large bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大淋巴细胞",
+   "en": "large lymphocyte",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "大比例尺",
+   "en": "large scale",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "大肠",
+   "en": "large intestine",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "多数载流子",
+   "en": "majority carrier",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "多数股东",
+   "en": "majority shareholder",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①多数股权 ②多数权益",
+   "en": "majority interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大数判决译码，择多译码",
+   "en": "majority decoding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大语种",
+   "en": "majority language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多数决定门",
+   "en": "majority gate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大错",
+   "en": "large fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多数裁判员判定",
+   "en": "majority decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大节",
+   "en": "Major Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大故",
+   "en": "Major Cause",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "严重犯规",
+   "en": "major foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能重大产品",
+   "en": "major AI product",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大外车",
+   "en": "major outer wheel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "再次严重犯规",
+   "en": "additional major foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大数律",
+   "en": "law of large numbers",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大规模传感器网络",
+   "en": "large-scale sensor network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大型强子对撞机",
+   "en": "Large Hadron Collider (LHC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三者合议取多数规则",
+   "en": "majority of three rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重大动物疫病",
+   "en": "major infectious animal diseases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负责任大国",
+   "en": "a responsible major country",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大车",
+   "en": "major wheel\",\"o-guruma",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多数人语言",
+   "en": "majority language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0131",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“少数民族语言”相对。一个国家中人口占多数的民族使用的语言。例如中国的汉语。"
+  },
+  {
+   "cn": "特大事故",
+   "en": "major accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.1.7",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "大型核设施（如动力反应堆）放射性物质向环境大量释放，包括短寿命和长寿命放射性裂变产物的混合物，等效放射性物质量超过1016Bq131I的情况。可能导致严重的健康影响，可能涉及到多个国家，具有长期的环境"
+  },
+  {
+   "cn": "严重缺陷",
+   "en": "major anomaly",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "严重影响患者生存、健康和外貌，需要采取较复杂的内外科、矫形科治疗或干预的出生缺陷"
+  },
+  {
+   "cn": "大份额",
+   "en": "large portion, LP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.58",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "能够代表一种食物消费量的第97.5 百分位数（仅食用者）的食物消费量，来自食物消费调查中的个人消费日。"
+  },
+  {
+   "cn": "大地主所有制",
+   "en": "large landlord owership",
+   "source": "马克思主义",
+   "wordNumber": "04.0030",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一个地主、领主或贵族掌握大量土地，并以此来剥削农民，是封建土地所有制的主流。"
+  },
+  {
+   "cn": "大规模社会",
+   "en": "large-scale society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0015",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "针对那些位于世界体系中较为复杂的社会。和小规模社会相比，他们所处的地理范围较大，文化异质性强，出现职业多元、社会分层与人口流动，内外关系联系增加，已卷入国家与世界一体的市场经济之中。"
+  },
+  {
+   "cn": "五条重大原则",
+   "en": "five major principles",
+   "source": "马克思主义",
+   "wordNumber": "03.0828",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，前进道路上，必须牢牢把握以下重大原则：坚持和加强党的全面领导，坚持中国特色社会主义道路，坚持以人民为中心的发展思想，坚持深化改革开放，坚持发扬斗争精神。"
+  },
+  {
+   "cn": "大型压力蒸汽灭菌器",
+   "en": "large pressure steam sterilizer",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "容积大于60L的压力蒸汽灭菌器，一般为卧式结构。"
+  },
+  {
+   "cn": "大数法则",
+   "en": "law of large numbers",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.5.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "通过大量的个体变量的汇集，消除偶然的、次要的因素所引起的个别差异，总结出的被研究总体在数量关系上稳定的、一般的规律"
+  },
+  {
+   "cn": "主要组织相容性复合体",
+   "en": "major histocompatibility complex，MHC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.45",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "编码主要组织相容性抗原的一组紧密连锁的基因群。编码产物是抗原提呈和T细胞活化的关键分子，在启动特异性免疫应答和免疫调节中起重要作用。器官移植中MHC是决定个体间组织相容性的主要基因，参与移植物排斥。组"
+  },
+  {
+   "cn": "主诊断分类",
+   "en": "major diagnostic categories，MDCs",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.16.5",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "主要诊断按解剖系统及其他大类目进行的分类。"
+  },
+  {
+   "cn": "社会工作专业",
+   "en": "the major of social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "高等教育中训练、研究社会工作的学科知识部门。内容涉及助人的价值理念、助人的科学方法和技巧、受助者和助人者的行为规律及其相关的理论等。"
+  },
+  {
+   "cn": "婚前医学检查主要疾病",
+   "en": "major disease of premarital examination",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "婚前医学检查发现的与婚育有关的疾病，包括严重遗传性疾病、 指定传染病、有关精神病及影响结婚和生育的其他疾病。"
+  },
+  {
+   "cn": "儿童重性抑郁障碍",
+   "en": "major depressive disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "至少持续2周的发作（尽管绝大多数的发作持续更久），涉及情感、认知和植物神经功能的明显变化和发作间缓解的一种精神疾病。发作时核心症状是抑郁心境，或对几乎所有活动丧失兴趣或愉悦。儿童可能表现为情绪易激惹。"
+  },
+  {
+   "cn": "大型医用设备配置管理",
+   "en": "configuration management of large medical equipment ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.7",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "为合理配置和有效使用大型医用设备开展的规划、配置、审批以及监督的过程。"
+  },
+  {
+   "cn": "大于胎龄儿",
+   "en": "large-for-gestational-age (LGA) infant",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "出生体重大于同胎龄平均体重的P90th的新生儿。临床上将出生体重>4000g的新生儿也称巨大胎儿。"
+  },
+  {
+   "cn": "重大慢性病过早死亡率",
+   "en": "premature mortality from major chronic diseases",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.6.1",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "30 岁到70 岁（不含70 岁）人群因心脑血管疾病、恶性肿瘤、糖尿病或慢性呼吸系统疾病导致死亡的概率。反映居民健康水平，以重大及慢性病预防和控制水平。"
+  },
+  {
+   "cn": "人民军队的三大任务",
+   "en": "three major tasks of the peoples army",
+   "source": "马克思主义",
+   "wordNumber": "03.0409",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "打仗、做群众工作、生产三项任务，是毛泽东关于军队建设的重要指导思想。毛泽东早在红军时期就提出这一思想，其具体内容在各个历史时期有所变化。"
+  },
+  {
+   "cn": "社会主义现代化建设中的十二个重大关系",
+   "en": "twelve major relationships in the socialist modernization",
+   "source": "马克思主义",
+   "wordNumber": "03.0644",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在推进社会主义现代化建设进程中，必须处理好的十二个带有全局性的重大关系，即：改革、发展、稳定的关系；速度和效益的关系；经济建设和人口、资源、环境的关系；第一、二、三产业的关系；东部地区和中西部地区的关"
+  },
+  {
+   "cn": "党的建设两大历史性课题",
+   "en": "two major historical tasks of the Party building",
+   "source": "马克思主义",
+   "wordNumber": "03.0626",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "不断提高领导水平和执政水平，不断提高拒腐防变和抵御风险的能力。由以江泽民为核心的党的第三代中央领导集体提出。2002年11月8日，“进一步解决提高党的领导水平和执政水平、提高拒腐防变和抵御风险能力这两"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

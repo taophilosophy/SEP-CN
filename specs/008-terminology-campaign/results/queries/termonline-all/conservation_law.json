@@ -1,0 +1,702 @@
+{
+ "key": "conservation law",
+ "term": "conservation law",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:16:51+00:00",
+ "status": "ok",
+ "note": "variant=conservation law; 审定公布名词库=3418; 海峡两岸名词对照库=1132; 其他来源数据库=207; 预公布名词数据库=237; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "守恒律",
+   "en": "conservation law",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.345",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "物理系统的某些属性或可观察量在一系列变化下保持不变的规律。如质量守恒定律、动量守恒定律、电荷守恒定律、能量守恒与转化定律等。"
+  },
+  {
+   "cn": "守恒律",
+   "en": "conservation law",
+   "source": "物理学名词",
+   "wordNumber": "01.0142",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "守恒律",
+   "en": "conservation law",
+   "source": "数学名词",
+   "wordNumber": "010.0577",
+   "subjectFullName": "数学_数值分析_偏微分方程数值解",
+   "subjectName": "偏微分方程数值解",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑守恒率",
+   "en": "topological conservation law",
+   "source": "物理学名词",
+   "wordNumber": "06.0110",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "质量守恒定律",
+   "en": "conservation law of mass",
+   "source": "冶金学名词",
+   "wordNumber": "09.0135",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "质量为m的变形体对任意选取的构形始终是不变的，即具有表面S的区域R，区域R内的质量等于经S进入R的质量流通率。"
+  },
+  {
+   "cn": "能量守恒定律",
+   "en": "conservation law of energy",
+   "source": "冶金学名词",
+   "wordNumber": "09.0136",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "区域R物质的动能和内能的时间导数等于作用于R上的体积力和表面力所做的功，以及进入R的其他功率之和。能量法、上界法是基于能量守恒定律导出的。"
+  },
+  {
+   "cn": "宇称守恒定律",
+   "en": "law of parity conservation",
+   "source": "物理学名词",
+   "wordNumber": "09.1438",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "能量守恒定律",
+   "en": "law of energy conservation",
+   "source": "资源科学技术名词",
+   "wordNumber": "18.013",
+   "subjectFullName": "资源科学技术_能源资源学",
+   "subjectName": "能源资源学",
+   "publishYear": "2008",
+   "definition": "各种能量形式互相转换是有方向和条件限制的，能量互相转换时其量值不变，表明能量是不能被创造或消灭的。"
+  },
+  {
+   "cn": "守恒律组",
+   "en": "system of conservation laws",
+   "source": "数学名词",
+   "wordNumber": "010.0578",
+   "subjectFullName": "数学_数值分析_偏微分方程数值解",
+   "subjectName": "偏微分方程数值解",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "晶面交角守恒定律",
+   "en": "conservation law of crystal plane",
+   "source": "冶金学名词",
+   "wordNumber": "07.0028",
+   "subjectFullName": "冶金学_金属学_晶体学",
+   "subjectName": "晶体学",
+   "publishYear": "2019",
+   "definition": "成分和结构相同的各个晶体，其相应晶面的法线之间的夹角恒定。"
+  },
+  {
+   "cn": "线动量守恒定律",
+   "en": "conservation law of linear momentum",
+   "source": "冶金学名词",
+   "wordNumber": "09.0137",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "R区域内物体B诸质点的线动量改变率与作用于R内物质上的体积力和表面力的合力成正比。截面法、滑移线法等是基于本定律导出的。"
+  },
+  {
+   "cn": "晶面交角守恒定律",
+   "en": "conservation law of crystal plane",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0255",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料组织结构",
+   "subjectName": "材料组织结构",
+   "publishYear": "2011",
+   "definition": "成分和结构相同的各个晶体，其相应晶面的法线之间的夹角恒定。"
+  },
+  {
+   "cn": "能量守恒与转化定律",
+   "en": "energy conservation and transformation law",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.347",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "在物理系统中，能量既不会凭空产生，也不会凭空消失，它只能从一种形式转化为其他形式，或者从一个物体转移到别的物体，而能的总量保持不变。物理系统的能量是与时间平移不变性相对应的守恒量。"
+  },
+  {
+   "cn": "动量守恒定律",
+   "en": "law of conservation of momentum",
+   "source": "物理学名词",
+   "wordNumber": "02.0267",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "能量守恒定律",
+   "en": "law of conservation of energy",
+   "source": "物理学名词",
+   "wordNumber": "02.0297",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电荷守恒定律",
+   "en": "law of conservation of charge",
+   "source": "物理学名词",
+   "wordNumber": "03.0237",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "能量守恒定律",
+   "en": "law of conservation of energy",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0179",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础",
+   "subjectName": "材料物理及化学基础",
+   "publishYear": "2011",
+   "definition": "自然界一切物质都具有能量，能量从一种形式转化为另一种形式，从一个物体传递给另一个物体，能量的数量保持不变。"
+  },
+  {
+   "cn": "能量守恒定律",
+   "en": "law of conservation of energy",
+   "source": "化学工程名词",
+   "wordNumber": "02.015",
+   "subjectFullName": "化学工程_化工热力学_化工热力学基本概念",
+   "subjectName": "化工热力学基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "动量守恒定律",
+   "en": "law of conservation of momentum",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "能量守恒定律",
+   "en": "law of conservation of energy",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "守恒律",
+   "en": "conservation law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角动量守恒定律",
+   "en": "conservation law for angular momentum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "能量守恒定律",
+   "en": "law of conservation of energy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "物质守恒定律",
+   "en": "law of conservation of matter",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "质量守恒定律",
+   "en": "law of conservation of mass",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保护，保育",
+   "en": "conservation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保育（=保护）",
+   "en": "conservation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒，保守",
+   "en": "conservation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒",
+   "en": "conservation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保护,保育",
+   "en": "conservation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保育",
+   "en": "conservation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "守恒性",
+   "en": "conservativeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定律",
+   "en": "law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保护生态学",
+   "en": "conservation ecology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动量守恒",
+   "en": "momentum conservation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能量守恒",
+   "en": "energy conservation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒方程",
+   "en": "conservation equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "守恒格式",
+   "en": "conservation scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质量守恒",
+   "en": "mass conservation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能量守恒",
+   "en": "energy conservation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "法",
+   "en": "Law/ Dharma",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公法",
+   "en": "public law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私法",
+   "en": "private law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律移植",
+   "en": "law transplant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人法",
+   "en": "robot law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算法律",
+   "en": "computational law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生物安全法",
+   "en": "biosecurity law  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "摩尔定律",
+   "en": "Moore’s law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "梅特卡夫定律",
+   "en": "Metcalfe’s law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律",
+   "en": "law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度",
+   "subjectName": "社会制度",
+   "publishYear": "2025",
+   "definition": "国家制定或认可的，由国家强制力保证实施的，旨在规定社会成员之间权利和义务，并具有普遍约束力的各种行为规范的总和。"
+  },
+  {
+   "cn": "规律",
+   "en": "law",
+   "source": "马克思主义",
+   "wordNumber": "01.0033",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物发展过程中本身所固有的本质的、必然的、稳定的内在联系。规律具有不以人的意志为转移的客观实在性。"
+  },
+  {
+   "cn": "法",
+   "en": "law",
+   "source": "马克思主义",
+   "wordNumber": "04.0040",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家按照统治阶级的利益和意志制定或认可，并由国家强制力保证其实施的行为规范的总和。法是上层建筑的重要部分，由经济基础决定，为经济基础服务。法的目的在于维护有利于统治阶级的社会关系和社会秩序，是统治阶级"
+  },
+  {
+   "cn": "保守估计",
+   "en": "conservative estimation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.38",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种为解决数据缺乏或为提高效率而出于慎重尽可能过高估计暴露量的方法。例如，在膳食暴露中，用食品中化学物浓度和（或）食品消费量的最大值来估计食品中化学物质的暴露（或者在评价营养素缺乏时，对营养素进行最低"
+  },
+  {
+   "cn": "一般规律",
+   "en": "general law universal law",
+   "source": "马克思主义",
+   "wordNumber": "01.0034",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "整个世界或一定范围内事物普遍具有的规律。由于事物存在和发展的无限性，一般规律和特殊规律的区分是相对的，在一定条件下为一般规律，而在另一条件下则可变为特殊规律，反之亦然。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "自然法",
+   "en": "natural law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会制度",
+   "subjectName": "社会学一般概念社会制度",
+   "publishYear": "2025",
+   "definition": "基于自然秩序本身所产生的正义、平等等理性原则的总和，独立于社会意识形态的价值体系。"
+  },
+  {
+   "cn": "压制性法律",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.1",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "制裁方式是惩罚性的法律。其目的是要损害当事人的财产、名誉、生命和自由，或者剥夺当事人所享用的某些事物，如刑法。"
+  },
+  {
+   "cn": "补偿性法律",
+   "en": "restorative law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.2",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "不具有惩罚性的法律。旨在恢复原有状态或重建正常状态与关系的法律。如民法、商业法、诉讼法等。"
+  },
+  {
+   "cn": "古代法",
+   "en": "archaic law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "对应古代社会的法律。尼克拉斯·卢曼认为在社会演化过程中存在着古代法、前现代高等文明的法和现代社会的实证法三种法律。古代法对应古代社会，制定法律的行为与依据法律做出决定的行为并未区分开，出现冲突后，人们"
+  },
+  {
+   "cn": "习惯法",
+   "en": "customary law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "个人与团体之间反复出现并得到人们承认的一种相互作用的法律模式。罗伯托·昂格尔提出的三种不同的法律类型之一，除习惯法外，其他为官僚法和法律秩序。"
+  },
+  {
+   "cn": "官僚法",
+   "en": "bureaucratic law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.6",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "人们必须遵循的明确规则。该规则由国家确立和强制执行。该法律具备实证性，而且是由国家制定、颁布和强制实施的，具备公共性。"
+  },
+  {
+   "cn": "压制型法",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.8",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "反映居支配地位的道德，以维护权威为首要目的，法律机构容易直接受到政治权力影响的一种法律。P.诺内特和P.塞尔兹尼克将社会中的法律现象分为三种类型，即压制型法、自治型法和回应型法。"
+  },
+  {
+   "cn": "自治型法",
+   "en": "autonomous law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.9",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "与政治相分离，规则被严格适用的法律秩序。"
+  },
+  {
+   "cn": "回应型法",
+   "en": "responsive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.10",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "裁判过程并非严格适用法律规则，而是充分考虑法律目的，由此取得了开放性与灵活性的一种法律类型。"
+  },
+  {
+   "cn": "活法",
+   "en": "living law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.13",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "实际上支配社会生活的规范。自由法学派创始人欧根·埃利希提出的概念，如日常社会生活中完成的契约和交易，区别于国家实施的法律。"
+  },
+  {
+   "cn": "官方法",
+   "en": "official law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "一国合法权威认可的法律体系及其组成部分。"
+  },
+  {
+   "cn": "非官方法",
+   "en": "unofficial law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "没有被合法权威正式认可，但在实践中被一定范围的人们普遍认可的法律体系及其组成部分。"
+  },
+  {
+   "cn": "固有法",
+   "en": "indigenous law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.6",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "起源于一个民族固有文化的法。或者在移植现代西方法之前存在于非西方民族固有文化中的法。"
+  },
+  {
+   "cn": "移植法",
+   "en": "transplanted law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "一个民族从异族文化中移植来的法。或者非西方国家从现代西方国家移植来的法律。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

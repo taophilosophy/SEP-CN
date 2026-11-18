@@ -1,0 +1,622 @@
+{
+ "key": "cell biologists",
+ "term": "cell biologists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:06:26+00:00",
+ "status": "ok",
+ "note": "variant=cell biologists; 审定公布名词库=4081; 海峡两岸名词对照库=1885; 其他来源数据库=78; 预公布名词数据库=100; jwt-direct（JWT 直连，raw 略；已滤维基 19 条）",
+ "hits": [
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "兽医学名词",
+   "wordNumber": "08.002",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "生物体结构和功能的单位。由蛋白质、核酸、脂类、糖类和其他—些物质（如水分和无机盐类）按一定方式组成。"
+  },
+  {
+   "cn": "网穴",
+   "en": "cell",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.03.031",
+   "subjectFullName": "编辑与出版学_印刷_制版",
+   "subjectName": "制版",
+   "publishYear": "2022",
+   "definition": "凹版上的贮墨凹坑，依印刷墨量的需要改变凹坑的开口和深度。"
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "动物学名词",
+   "wordNumber": "1.0125",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "生物体结构与功能的基本单位。一般都具有细胞膜、细胞质（包含多种细胞器）和细胞核的结构。动物细胞无细胞壁。"
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "生理学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "运动医学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "运动医学_运动解剖_人体运动的结构基础",
+   "subjectName": "人体运动的结构基础",
+   "publishYear": "2019",
+   "definition": "人体生命和运动的基本结构和功能单位。通常由细胞膜、细胞质和细胞核构成。"
+  },
+  {
+   "cn": "电池",
+   "en": "cell",
+   "source": "冶金学名词",
+   "wordNumber": "04.0480",
+   "subjectFullName": "冶金学_冶金物理化学_冶金电化学",
+   "subjectName": "冶金电化学",
+   "publishYear": "2019",
+   "definition": "能将化学能或辐射能直接转变成电能的装置。其广义定义为：一对导电体(如金属)同离子导体(如电解质溶液)连接构成的体系，从而将原电池和电解池都包括其中。"
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "植物学名词",
+   "wordNumber": "09.0001",
+   "subjectFullName": "植物学_植物细胞生物学",
+   "subjectName": "植物细胞生物学",
+   "publishYear": "2019",
+   "definition": "生命活动的基本结构与功能单位。植物细胞由细胞壁和原生质体两部分组成。"
+  },
+  {
+   "cn": "信元",
+   "en": "cell",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0219",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "在ATM系统中传输的固定长度的分组。"
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "组织学与胚胎学_组织学_细胞",
+   "subjectName": "细胞",
+   "publishYear": "2014",
+   "definition": "人体的基本结构与功能单位。一般由细胞核、细胞质和细胞膜组成，细胞质中含有多种细胞器。"
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.112",
+   "subjectFullName": "放射医学与防护_放射生物学_放射细胞生物学",
+   "subjectName": "放射细胞生物学",
+   "publishYear": "2014",
+   "definition": "除病毒以外所有生物体的基本结构和功能单元。由原生质和多种界膜组成。"
+  },
+  {
+   "cn": "格网单元",
+   "en": "cell",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.230",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "格网中相对独立的不可再分的最小单位。"
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "细胞生物学名词",
+   "wordNumber": "01.077",
+   "subjectFullName": "细胞生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "能进行独立繁殖的有膜包围的生物体的基本结构和功能单位。一般由质膜、细胞质和核（或拟核）构成，是生命活动的基本单位。"
+  },
+  {
+   "cn": "翅室",
+   "en": "cell",
+   "source": "古生物学名词",
+   "wordNumber": "02.0485",
+   "subjectFullName": "古生物学_古无脊椎动物学_节肢动物门",
+   "subjectName": "节肢动物门",
+   "publishYear": "2009",
+   "definition": "被翅脉(或翅脉和翅缘)所包围的区域。"
+  },
+  {
+   "cn": "单体",
+   "en": "cell",
+   "source": "大气科学名词",
+   "wordNumber": "03.035",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "由单块对流性降水云所构成，具有水平尺度和垂直尺度，一般为几千米或几十千米的一个独立完整的气流循环系统。"
+  },
+  {
+   "cn": "信元",
+   "en": "cell",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.064",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "在通信中，由信头串和信息串组成的固定长度比特串。在异步转移模式(ATM)系统中，一个信元由53个字节(5个字节的信头和48个字节的信息段)组成。"
+  },
+  {
+   "cn": "电池",
+   "en": "cell",
+   "source": "通信科学技术名词",
+   "wordNumber": "15.004",
+   "subjectFullName": "通信科学技术_通信电源",
+   "subjectName": "通信电源",
+   "publishYear": "2007",
+   "definition": "将辐射能或化学能直接转变成电能的直流电压源。"
+  },
+  {
+   "cn": "小区",
+   "en": "cell",
+   "source": "通信科学技术名词",
+   "wordNumber": "12.051",
+   "subjectFullName": "通信科学技术_移动通信",
+   "subjectName": "移动通信",
+   "publishYear": "2007",
+   "definition": "一个卫星点波束或一个基站的无线覆盖区域。"
+  },
+  {
+   "cn": "电池",
+   "en": "cell",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "05.050",
+   "subjectFullName": "机械工程_仪器仪表_分析仪器_电化学式分析仪器_电化学式分析仪器仪器和附件",
+   "subjectName": "电化学式分析仪器仪器和附件",
+   "publishYear": "2003",
+   "definition": "一对导电体(如金属)同离子导体(如电解质溶液)连接构成的系统。有两种类型的电池：原电池和电解池。"
+  },
+  {
+   "cn": "翅室",
+   "en": "cell",
+   "source": "昆虫学名词",
+   "wordNumber": "03.364",
+   "subjectFullName": "昆虫学_昆虫外部形态",
+   "subjectName": "昆虫外部形态",
+   "publishYear": "2000",
+   "definition": "被翅脉或被翅脉及翅缘所包围的区域。"
+  },
+  {
+   "cn": "电池",
+   "en": "cell",
+   "source": "电气工程名词",
+   "wordNumber": "24.003",
+   "subjectFullName": "电气工程_电化学应用",
+   "subjectName": "电化学应用",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单体",
+   "en": "cell",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "格网单元",
+   "en": "cell",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "[存储]单元，信元",
+   "en": "cell",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "细胞",
+   "en": "cell",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "格网单元",
+   "en": "cell\",\"grid cell",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "镜室",
+   "en": "cell，mirror cell",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "α细胞",
+   "en": "alpha cell\",\"α cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "β细胞",
+   "en": "beta cell\",\"β cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "γ细胞",
+   "en": "gamma cell\",\"γ cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "δ細胞",
+   "en": "delta cell\",\"δ cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "棘细胞",
+   "en": "prickle cell\",\"heckle cell\",\"spinous cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "泡心细胞",
+   "en": "centroacinar cell\",\"centroacinous cell\",\"centroalveolar cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生殖细胞",
+   "en": "germ cell\",\"reproductive cell\",\"genital cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "营养细胞",
+   "en": "nutrient cell\",\"nutritive cell\",\"vegetal cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "边缘细胞",
+   "en": "marginal cell\",\"border cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肠嗜铬细胞，EC细胞",
+   "en": "enterochromaffin cell\",\"EC cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "数据单元",
+   "en": "data cell",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电解槽",
+   "en": "electrolytic cell",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.3.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由槽体、阳极和阴极组成，能发生电解反应的装置。可分为有隔膜和无隔膜两种。"
+  },
+  {
+   "cn": "宿主细胞",
+   "en": "host cell",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "能被病毒进入胞内并使其增殖的细胞。被病毒感染的细胞会发生病变甚至死亡。"
+  },
+  {
+   "cn": "细胞培养",
+   "en": "cell culture",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.8",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在适宜的体外条件下，用培养液维持细胞生长与增殖的技术。"
+  },
+  {
+   "cn": "细胞杂交",
+   "en": "cell hybrid",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "在体外条件下，通过人工培养和诱导将不同种生物或同种生物不同类型的两个或多个细胞合并成一个双核或多核细胞的过程。"
+  },
+  {
+   "cn": "细胞转化",
+   "en": "cell transformation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "具有正常生长特性的细胞转变为具有无限分裂恶性肿瘤生长特性细胞的过程。正常细胞在体外经辐射、病毒或化学致癌物等处理以及长期的体外培养，均有可能向恶性转化。"
+  },
+  {
+   "cn": "细胞周期",
+   "en": "cell cycle",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "细胞从一次有丝分裂至下一次有丝分裂的全过程。亦即亲代细胞分裂结束至子代细胞分裂结束所经历的过程，包含四个时相：G1期、S期、G2期和M期。"
+  },
+  {
+   "cn": "热室",
+   "en": "hot cell",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.3.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_工作场所监测",
+   "subjectName": "工作场所监测",
+   "publishYear": "2025",
+   "definition": "一种与周围环境隔绝，有通风、电源、上下水和洁净功能，配装适当操作系统和设备的屏蔽小室。用于减少高放射性操作时对外界的辐照。分为合成热室、分装热室。"
+  },
+  {
+   "cn": "放射性同位素电池",
+   "en": "radioisotope cell",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.20",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "把放射性同位素衰变时产生的热能转变为电能的装置。"
+  },
+  {
+   "cn": "浆细胞",
+   "en": "plasma cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.7",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "合成和分泌免疫球蛋白的细胞。多呈圆形或卵圆形，胞核呈圆形，常偏于细胞的一侧，胞质嗜碱性。来源于B淋巴细胞，分泌抗体，参与体液免疫。"
+  },
+  {
+   "cn": "网状细胞",
+   "en": "reticular cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.20",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "形成骨髓、脾脏、淋巴结、胸腺等淋巴器官的网状结缔组织的细胞。"
+  },
+  {
+   "cn": "干细胞",
+   "en": "stem cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.22",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "具有无限自我更新能力、同时也可分化成特定组织的细胞，在细胞发育过程中处于较原始阶段。"
+  },
+  {
+   "cn": "靶细胞",
+   "en": "target cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.29",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "可被细胞毒性T细胞或NK细胞等效应细胞或抗体等效应分子识别并杀伤的细胞。"
+  },
+  {
+   "cn": "肥大细胞",
+   "en": "mast cells",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "一类胞质内富含嗜碱性颗粒的细胞。颗粒中含组胺，肝素和各种酶类。同骨髓造血前体细胞一样表达CD34，主要分布于黏膜和皮下疏松结缔组织，其细胞表面表达高亲和力FceRI，可结合游离IgE，参与I型超敏反应"
+  },
+  {
+   "cn": "自然杀伤细胞",
+   "en": "natural killer cell, NK cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "属淋巴细胞谱系，不表达T细胞受体、B细胞受体的一类固有免疫免疫细胞，无须预先接触抗原即可杀伤靶细胞(如病毒感染的宿主细胞和某些肿瘤细胞)，且其杀伤效应无MHC限制性。"
+  },
+  {
+   "cn": "淋巴因子激活的杀伤细胞",
+   "en": "lymphokine-activated killer cell, LAK cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.28",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "外周血淋巴细胞在白介素-2诱导下产生的一类杀伤细胞。其杀伤作用不需要抗原致敏且无MHC限制性。"
+  },
+  {
+   "cn": "朗格汉斯细胞",
+   "en": "Langerhans cell, LC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.15",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "表皮中一类未完全成熟的树突状细胞，来源于骨髓的免疫活性细胞，散在分布于基底层和棘层细胞间。可摄取和处理入侵皮肤的抗原，通过淋巴管道迁移至局部淋巴结，发育成并指状树突状细胞，行使抗原提呈功能。"
+  },
+  {
+   "cn": "多能干细胞",
+   "en": "pleunpotentstem cell, PSC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.23",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "能自我更新并具有分化成各种细胞潜能的细胞。多能干细胞最初分化为定向干细胞，如淋巴样祖细胞和髓样祖细胞等。"
+  },
+  {
+   "cn": "体细胞计数",
+   "en": "Somatic cell count",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.22",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "每毫升牛奶中体细胞的个数。"
+  },
+  {
+   "cn": "细胞冻存液",
+   "en": "cell cryopreservation fluid",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.14",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在细胞生长液中加入甘油或二甲基亚砜及胎牛血清等保护剂用于细胞冷冻保存过程中储存细胞的液体介质。"
+  },
+  {
+   "cn": "细胞培养液",
+   "en": "cell culture fluid",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.15",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "用于进行细胞培养的液体介质的统称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

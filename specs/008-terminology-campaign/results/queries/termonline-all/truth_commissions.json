@@ -1,0 +1,782 @@
+{
+ "key": "truth commissions",
+ "term": "truth commissions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:09:28+00:00",
+ "status": "ok",
+ "note": "variant=truth commissions; 审定公布名词库=178; 海峡两岸名词对照库=59; 其他来源数据库=35; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "真值",
+   "en": "truth",
+   "source": "数学名词",
+   "wordNumber": "02.0042",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "半真相",
+   "en": "partial truth;half truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.017",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种包含一定真相元素的欺骗性陈述。它有几种形式：陈述可能部分是真实的；陈述可能完全真实，但只是整个真相的一部分；或者，陈述可能利用一些欺骗性元素，如双重含义，意在欺骗、回避、归咎责任或歪曲事实。"
+  },
+  {
+   "cn": "制播分离",
+   "en": "commission",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.01",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论",
+   "subjectName": "广播电视新闻总论",
+   "publishYear": "2022",
+   "definition": "广播电视节目制作与播出的管理机制。原指电视播出机构将部分节目委托给独立制片人或独立制片公司来制作。现指在电视节目的生产、流通与播出的过程中，节目的生产制作与节目的播出分别由不同机构负责的管理机制。"
+  },
+  {
+   "cn": "销售佣金",
+   "en": "commission",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0665",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "支付给销售员或代理商的金额。通常是销售额的一定百分比。"
+  },
+  {
+   "cn": "试车",
+   "en": "commissioning",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.885",
+   "subjectFullName": "化工（五）_工程建设_试车",
+   "subjectName": "试车",
+   "publishYear": "2021",
+   "definition": "在工程竣工后对设备、管路、电路等进行的试运行，以检验系统是否运转正常、是否满足设计及规范要求。"
+  },
+  {
+   "cn": "试运行",
+   "en": "commissioning",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0517",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "安装后，设定、检查机器人系统并验证机器人功能的过程。"
+  },
+  {
+   "cn": "调试",
+   "en": "commissioning",
+   "source": "电力名词",
+   "wordNumber": "03.265",
+   "subjectFullName": "电力_电力规划、设计与施工",
+   "subjectName": "电力规划、设计与施工",
+   "publishYear": "2020",
+   "definition": "电厂机组、变电站或某项设备在安装过程中及安装结束后移交生产前,按设计和设备技术文件规定进行调整、整定和一系列试验工作的统称。"
+  },
+  {
+   "cn": "投入运行",
+   "en": "commissioning",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.012",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "真实性",
+   "en": "truth authenticity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "依据文化遗产类别及其文化背景，如果遗产的文化价值的外形和设计，材料和实质，用途和功能，传统、技术和管理体系，位置和环境，语言和其他形式的非物质遗产，精神和感觉，其他内外因素等特征真实可信，则被认为具有"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "特定形式语言的所有句子都可以根据它们的基本专名与谓词的指称给出明确的真的定义。"
+  },
+  {
+   "cn": "逻辑真理",
+   "en": "logical truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.284",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常被界定为在所有解释下都真的句子。有时逻辑真理也局限为某个逻辑系统的内定理。"
+  },
+  {
+   "cn": "后真相",
+   "en": "post truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.019",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "对客观事实的陈述，往往不如诉诸情感和煽动信仰的内容更容易影响民意。这个词里的“post”表示的是“超越”，喻指“真相”不再那么重要。《牛津词典》(the Oxford Dictionaries)将该词"
+  },
+  {
+   "cn": "真值表",
+   "en": "truth-table",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0136",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个布尔函数的函数表，其中列出了在诸变元的不同取值下该函数的值。"
+  },
+  {
+   "cn": "真值指派",
+   "en": "truth assignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0143",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对一个逻辑表达式中的所有命题变量赋予值0或1（分别表示假和真）的一个方法。"
+  },
+  {
+   "cn": "俄罗斯法典",
+   "en": "Russain Truth",
+   "source": "世界历史名词",
+   "wordNumber": "05.0108",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "十二月党人的纲领，1821-1823年制定。主要主张包括：废除农奴制和等级制，建立共和国，把土地分给农民等。"
+  },
+  {
+   "cn": "真假值表",
+   "en": "truth table",
+   "source": "数学名词",
+   "wordNumber": "02.0045",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真假值",
+   "en": "truth value",
+   "source": "数学名词",
+   "wordNumber": "02.0041",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真假值函数",
+   "en": "truth function",
+   "source": "数学名词",
+   "wordNumber": "02.0044",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "source": "电子学名词",
+   "wordNumber": "03.170",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "新闻真实与真相",
+   "en": "truthfulness of news and truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻真实",
+   "subjectName": "新闻真实",
+   "publishYear": "2022",
+   "definition": "一对不同领域对事实反映的概念。新闻作品凸显的是事实中具有新闻价值的部分，与对事实的全面记录、反映有所不同。关于某一事实的真相可能表现为几十万字的记录或几十小时的音像，而新闻报道可能仅表现为几百字的文字"
+  },
+  {
+   "cn": "佣金",
+   "en": "commission",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保兑手续费",
+   "en": "confirmation commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "背书手续费",
+   "en": "endorsement commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "承兑手续费，承兑佣金",
+   "en": "acceptance commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代理手续费，佣金",
+   "en": "agency commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "兑换佣金",
+   "en": "exchange commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款手续费",
+   "en": "payment commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购货佣金",
+   "en": "buying commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购货佣金",
+   "en": "purchase commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货到付款手续费",
+   "en": "COD commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口手续费，进口佣金",
+   "en": "import commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经纪人佣金",
+   "en": "brokerage commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易代理合同",
+   "en": "commission contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "托收手续费",
+   "en": "collection commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "委托贸易",
+   "en": "commission trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "销售佣金",
+   "en": "sales commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "议付手续费",
+   "en": "negotiation commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检查委员会",
+   "en": "control commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "medical commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纪律委员会",
+   "en": "disciplinary commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "兽医委员会",
+   "en": "veterinary commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幻中有真",
+   "en": "Truth in Imagination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二谛",
+   "en": "Satyadvaya / Two Truths",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医务委员会",
+   "en": "doctor’s commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际食品法典委员会",
+   "en": "Codex Alimentarius Commission",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great truths are always simple.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际电工委员会",
+   "en": "International Electrotechnical Commission (IEC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "爱尔兰数据保护委员会",
+   "en": "Data Protection Commission (Ireland)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家卫生健康委员会（国家卫健委）",
+   "en": "National Health Commission (NHC)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "竞赛委员会",
+   "en": "race committee\",\"regatta’s commission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "客观真理",
+   "en": "objective truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0209",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的客观性。真理所反映的对象是不依赖于认识主体而客观存在的，真理性的认识中包含有不依人的意志为转移的客观内容。"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0210",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的相对性。(1)从整个物质世界来说，任何真理只是对无限宇宙的一个部分、一个方面的正确认识。世界上尚有许多事物、方面没有被认识或未被完全认识。(2)从某一特定事物来说，任何真理性认识，只是对它的某些"
+  },
+  {
+   "cn": "绝对真理",
+   "en": "absolute truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0211",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的绝对性。(1)任何真理都是人脑对客观事物及其规律的正确反映，包含有不以人的意志为转移的客观内容，同谬误有原则区别，在它所反映的范围和限度内是不能被推翻的。这一点是无条件的、绝对的。在这个意义上，"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "总制院",
+   "en": "Supreme Control Commission",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0235",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "元代中央机构名。元至元元年（1264）始置，管理全国佛教事务及吐蕃地方军政事务。至元二十五年（1288），改称宣政院。"
+  },
+  {
+   "cn": "长官司",
+   "en": "Senior Officer Commission",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0207",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "地方政权机构名。元代始于西南少数民族地区置，处理军民事务，长官多任土人。明清沿元制，土官世袭。"
+  },
+  {
+   "cn": "核设施调试",
+   "en": "nuclear installation commissioning",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.8.5",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "核设施已安装的部件和系统投入运行并进行性能验证以确认是否符合设计要求，是否满足性能标准的过程。"
+  },
+  {
+   "cn": "国际食品法典委员会",
+   "en": "Codex Alimentarius Commission, CAC",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.10",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "联合国粮农组织(FAO)和世界卫生组织(WHO)于1963 年联合设立，以保障消费者的健康和确保食品贸易公平为宗旨的一个制定国际食品标准的政府间组织。"
+  },
+  {
+   "cn": "国际电工委员会",
+   "en": "International Electrotechnical Commission ，IEC",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.6",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "从事制订和出版有关电工和电子工程的国际标准的权威组织。成立于1906年，它通过其标准和一致性评估，为国际市场和社会提供服务，对促进有关世界贸易和经济发展起到重要作用。"
+  },
+  {
+   "cn": "[美国]核管理委员会",
+   "en": "Nuclear Regulatory Commission，NRC",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.11",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "美国政府的一个机构，1974年根据能源重组法案设立，负责监督反应堆的安全和安保以及许可证颁发、放射性材料的许可证颁发、放射性核素安全许可证颁发和乏燃料管理包括贮存、安全，回收和处置等。"
+  },
+  {
+   "cn": "真理标准大讨论",
+   "en": "debating over the criterion of truth",
+   "source": "马克思主义",
+   "wordNumber": "03.0614",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1978年由《实践是检验真理的唯一标准》的发表而引发，在中国共产党内展开了一场关于真理标准问题的大讨论，前后历时三年多。这场讨论是“两个凡是”和“实事求是”两种执政思想的讨论，是文化大革命路线和改革开"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "03.0560",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新时期重新确立的思想路线，也是邓小平理论的精髓和活的灵魂。邓小平指出，解放思想就是使思想和实际相符合，是主观和客观相符合，就是实事求是。解放思想与实事求是是一致的，就是在“马克思主义指导下"
+  },
+  {
+   "cn": "国际放射防护委员会",
+   "en": "International Commission on Radiological Protection，ICRP",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.4",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "非政府间的国际学术机构，成立于1928年，当时名称为国际X射线和镭防护委员会，1950年改称现名。它提出、维护和详细解释在世界范围内应用的国际放射防护体系，以作为放射防护标准、立法、导则、计划和实践的"
+  },
+  {
+   "cn": "经销代销",
+   "en": "sell on commission sale by proxy",
+   "source": "马克思主义",
+   "wordNumber": "02.0359",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义改造中对私营商业实行国家资本主义的初级形式。经销是指私营商业对国营商业全部或大部分掌握货源的商品，根据国营商业的供应计划用现款进货，按照规定的供应办法和零售牌价出售，从批零差价中获得收入。代销"
+  },
+  {
+   "cn": "中共中央顾问委员会",
+   "en": "central advisory commission of the cpc",
+   "source": "马克思主义",
+   "wordNumber": "04.0461",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "成立于1982年的中共十二大。当时是作为解决中央领导机构新老交替的一种组织形式，目的是使中国共产党中央委员会年轻化，同时让一些老同志在退出第一线后继续发挥一定作用。1992年中共十四大决定不再设立中央"
+  },
+  {
+   "cn": "苏联国家计划委员会",
+   "en": "National Planning Commission of the Soviet Union",
+   "source": "马克思主义",
+   "wordNumber": "04.0417",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "根据列宁的倡议于1921年建立。当时的俄罗斯国家电气化委员会并入这个新的机构。最初，国家计划委员会只是一个咨询和协作机构，负责制定和调整计划草案和控制数字，但是在第一个五年计划开始以后，它的权力大为增"
+  },
+  {
+   "cn": "国务院食品安全委员会",
+   "en": "Food Safety Commission of the State Council",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.2",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "国务院食品安全工作的高层次议事协调机构，负责分析食品安全角势，研究部署、统筹指导食品安全工作，提出食品安全监管的重大政策措施，督促落实食品安全监管责任。"
+  },
+  {
+   "cn": "国际食品微生物标准委员会",
+   "en": "International Commission on Microbiological Specifications for Foods, ICMSF",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.9",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "1962 年通过国际微生物学会联合会（IUMS）下属的国际食品微生物学和卫生委员会成立，旨在收集、关联和评估有关食品微生物安全和质量的证据、评估微生物标准的合理性、提出相关标准以及推荐抽样和检测方法。"
+  },
+  {
+   "cn": "国际辐射单位和测量委员会",
+   "en": "International Commission on Radiation Unit and Measurements，ICRU",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "非政府间的国际学术组织。成立于1925年，其任务是建立辐射单位和测量国际标准，发展和推荐辐射量和单位、测量技术和程序及其参考数据，以促进电离辐射的安全和有效应用。"
+  },
+  {
+   "cn": "国家民族事务委员会委员制",
+   "en": "Committee Member System of National Ethnic Affairs Commission",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0048",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "国家民族事务委员会为牵头单位，与民族工作有关的职能部门为兼职委员单位，兼职委员单位的负责人为兼职委员，定期或不定期召开民委委员会议，共同研究和协调处理我国民族工作重大问题的一种工作机制。国家民委自成立"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

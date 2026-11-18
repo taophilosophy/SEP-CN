@@ -1,0 +1,572 @@
+{
+ "key": "theorists claim",
+ "term": "theorists claim",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:17:58+00:00",
+ "status": "ok",
+ "note": "variant=theorists claim; 审定公布名词库=57; 海峡两岸名词对照库=61; 其他来源数据库=3; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "索赔",
+   "en": "claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0331",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_费用管理",
+   "subjectName": "费用管理",
+   "publishYear": "2016",
+   "definition": "合同当事人的一方因对方未履行或不能正确履行义务而受到损失时，向对方提出的赔偿要求。"
+  },
+  {
+   "cn": "索赔",
+   "en": "claim",
+   "source": "水利科学技术名词",
+   "wordNumber": "09.200",
+   "subjectFullName": "水利科学技术_水利工程施工_施工管理（水利）",
+   "subjectName": "施工管理（水利）",
+   "publishYear": "1997",
+   "definition": "在工程承包合同执行过程中，由于合同当事人双方的某一方负责的原因给另一方造成经济损失或工期延误，通过合法程序向对方要求补偿或赔偿的活动。"
+  },
+  {
+   "cn": "索赔",
+   "en": "claims",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.154",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "营养声称",
+   "en": "nutrition claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0453",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "对食品营养相关特性的描述和说明，如能量水平、蛋白质含量水平、钠含量水平等。其中包括含量声称和比较声称。"
+  },
+  {
+   "cn": "含量声称",
+   "en": "content claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0454",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "有关食品中能量或营养成分含量水平的描述和说明。相关声称用语包括“含有”“高”“低”“无”等。"
+  },
+  {
+   "cn": "比较声称",
+   "en": "comparative claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0455",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "与消费者熟知的同类食品的营养成分含量或能量值进行比较之后的声称。相关声称用语包括“增加”或“减少”等。"
+  },
+  {
+   "cn": "属性声称",
+   "en": "property claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0456",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "对食品营养属性的声称,如强化、多维、脱脂、瘦等。"
+  },
+  {
+   "cn": "健康声称",
+   "en": "health claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0458",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "任何叙述、建议或暗示在某个食品种类、某种食品或其成分之一与健康之间存在某种关系的声称。"
+  },
+  {
+   "cn": "声明期",
+   "en": "claim period",
+   "source": "林学名词",
+   "wordNumber": "06.429",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "对某一特定的产品或产品组，企业为了使用认证标识或做出认证声明而确定的计算认证原料滚动百分比的时间期限。其最长期限为12个月。"
+  },
+  {
+   "cn": "费用索赔",
+   "en": "fee claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0799",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "根据承建合同的约定，合同一方因另一方原因造成本方经济损失，通过监理机构向对方索取费用的活动。"
+  },
+  {
+   "cn": "工程拖期索赔",
+   "en": "delay claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0418",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "承包商向业主提出的，由于业主、咨询工程师或客观原因导致其花费了较原计划更长的时间和更大的开支，而要求补偿其损失的要求。"
+  },
+  {
+   "cn": "保险索赔",
+   "en": "insurance claim",
+   "source": "航海科技名词",
+   "wordNumber": "13.0188",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "海事请求",
+   "en": "maritime claim",
+   "source": "航海科技名词",
+   "wordNumber": "13.0037",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "航速索赔",
+   "en": "speed claim",
+   "source": "航海科技名词",
+   "wordNumber": "13.0149",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "货运索赔",
+   "en": "freight claims",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.225",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "客运索赔",
+   "en": "passenger claims",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.114",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "宣称发行量",
+   "en": "claimed circulation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.012",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "由出版单位根据实际印刷量扣除未发行份数所宣布的发行量。"
+  },
+  {
+   "cn": "营养素功能声称",
+   "en": "nutrient function claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0457",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "营养成分可以维持人体正常生长、发育和正常生理功能等作用的声称。在食品标签上使用时必须按照法规中列出的标准语言。"
+  },
+  {
+   "cn": "工期索赔",
+   "en": "construction period claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0414",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "承包商向业主提出延长施工时间，使原定工程竣工日期顺延一段合理时间的要求或主张。"
+  },
+  {
+   "cn": "工程范围变更索赔",
+   "en": "scope variation claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0417",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "承包商向业主提出的，由于某项工作超出原合同的工作范围，或超出其投标时估计的施工条件，而要求补偿其附加开支的要求。"
+  },
+  {
+   "cn": "保险索赔",
+   "en": "insurance claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不良债权",
+   "en": "bad claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "估损人",
+   "en": "claim assessor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际间的债权",
+   "en": "international claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合理的索赔",
+   "en": "legitimate claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币债权",
+   "en": "money claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融债权",
+   "en": "financial claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "理赔",
+   "en": "claim settlement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "市场索赔",
+   "en": "market claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔代理人",
+   "en": "claim agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔单证",
+   "en": "claim document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔金额",
+   "en": "claim amount",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔清单",
+   "en": "claim note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔书",
+   "en": "claim letter",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔条款",
+   "en": "claim clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔通知",
+   "en": "claim notice",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔资产",
+   "en": "claim asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无担保的债权",
+   "en": "unwarranted claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先索赔权",
+   "en": "prior claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有担保的债权",
+   "en": "secured claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数字化核赔",
+   "en": "digital claims appraisal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "夹绳器",
+   "en": "clam cleat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "营养声称",
+   "en": "nutrition claim",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.36",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "对食品营养特性的描述和说明，营养声称包括含量声称和比较声称。"
+  },
+  {
+   "cn": "食品真实属性声称",
+   "en": "food authenticity claim",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.12",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在食品标签或销售包装上，对食品的原料、配料、品种、规格、质量、等级、产地等可以判断真假的属性进行的声明和公示。"
+  },
+  {
+   "cn": "营养成分功能声称",
+   "en": "function claim of nutrients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.3",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "严格采用标准用语对某营养成分可以维持人体正常生长、发育和正常生理功能等作用进行的描述和声明。"
+  },
+  {
+   "cn": "损害索赔权",
+   "en": "right to claim damage",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.032",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者在就医过程中因医疗机构及其医务人员过错而权益受损时，享有的获得经济赔偿的权利。"
+  },
+  {
+   "cn": "保健食品功能声称",
+   "en": "function claim of health food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.4",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "严格采用标准用语对保健食品的保健功能进行描述和声明，并在食品标签上进行标注。包括营养素补充剂功能声称和非营养素补充剂功能声称。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方声称",
+   "en": "claims of formula of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.11",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "采用标准用语对婴幼儿配方乳粉产品适用月龄和/或配方中使用的原料来源进行描述和声明，并在食品标签上进行标注，但不得涉及疾病防治、保健益智等内容。"
+  },
+  {
+   "cn": "瘴气说",
+   "en": "miasmatic theories",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.10",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种解释病因的理论，它将特定的环境条件和/或特定地点与疾病暴发联系起来进行解释。"
+  },
+  {
+   "cn": "全球化理论",
+   "en": "globalizationrelated theories",
+   "source": "马克思主义",
+   "wordNumber": "05.0096",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪80年代以来，以资本主义全球化为主要批判对象的一系列理论的总称，包括依附理论、后殖民理论、世界体系理论、晚期资本主义文化批评理论、后工业社会理论、“第三条道路”理论、文明冲突论等。"
+  },
+  {
+   "cn": "理论的韧性",
+   "en": "tenacity of theories",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "理论具有免于被证伪的属性特征：当它面临反常时，可以通过增加或修改辅助假说或特设假说来维护理论的硬核，使理论能够重新解释反常而趋于完善。"
+  },
+  {
+   "cn": "社会工作的理论",
+   "en": "theories of social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "社会工作理论中用来对社会工作实践本身的性质、目的、过程、方法进行说明的那部分内容。"
+  },
+  {
+   "cn": "阶级调和论",
+   "en": "theories of class conciliation",
+   "source": "马克思主义",
+   "wordNumber": "03.0097",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "否认或淡化阶级矛盾和阶级斗争，主张阶级之间利益妥协和阶级合作的理论观点。它夸大不同阶级的利益共同性，认为不必经过阶级斗争就能够解决阶级对立和矛盾，一概反对暴力革命。"
+  },
+  {
+   "cn": "发展理论的马克思主义",
+   "en": "neoMarxist theories of development",
+   "source": "马克思主义",
+   "wordNumber": "05.0093",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "当代发展中国家现代化及社会发展的理论，这一理论基于对“剥削”的开放式的全球审视而不只局限于经典马克思主义的内部性分析路径，具体包括依附理论和世界体系理论。代表作有苏联的《社会学手册》（1976）、民主"
+  },
+  {
+   "cn": "主要理论与方法",
+   "en": "main theories and methods",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学校心理咨询最常遵循的理论和方法。主要包括精神分析理论、认知疗法和以人为中心疗法三种。"
+  },
+  {
+   "cn": "老祖宗不能丢又要讲新话",
+   "en": "our forefathers cannot be forgotten and develop new theories",
+   "source": "马克思主义",
+   "wordNumber": "04.0165",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对待马克思主义的一种科学、实事求是、与时俱进的态度。即必须坚持马克思主义的基本原理，同时马克思主义不是静止的封闭的教条，而是一个开放发展的体系，要在坚持中发展马克思主义和在发展中坚持马克思主义，不断根"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

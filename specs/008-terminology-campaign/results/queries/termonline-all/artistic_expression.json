@@ -1,0 +1,782 @@
+{
+ "key": "artistic expression",
+ "term": "artistic expression",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:20:51+00:00",
+ "status": "ok",
+ "note": "variant=artistic expression; 审定公布名词库=610; 海峡两岸名词对照库=216; 其他来源数据库=46; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "艺术插图",
+   "en": "artistic illustration",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.046",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "以艺术形象表示书刊内容的插图。"
+  },
+  {
+   "cn": "艺术价值",
+   "en": "artistic value",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_名城名镇名村保护规划",
+   "subjectName": "名城名镇名村保护规划",
+   "publishYear": "2021",
+   "definition": "文化遗产在人类艺术创作、审美、时代风格等方面所具有的价值。"
+  },
+  {
+   "cn": "艺术节奏",
+   "en": "artistic rhythm",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.038",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "音乐、舞蹈和歌唱所具有的节奏。"
+  },
+  {
+   "cn": "艺术价值",
+   "en": "artistic value",
+   "source": "建筑学名词",
+   "wordNumber": "03.0393",
+   "subjectFullName": "建筑学_中外建筑历史_文化遗产",
+   "subjectName": "文化遗产",
+   "publishYear": "2014",
+   "definition": "文物具有丰富的艺术内涵，因而其艺术价值包括审美、欣赏、愉悦、借鉴以及美术史料等多方面。这些具有民族形式和地域特征的文化艺术作品是了解不同民族、文化艺术传统的重要资料，也是艺术创造的源泉。"
+  },
+  {
+   "cn": "艺术语体",
+   "en": "artistic style",
+   "source": "语言学名词",
+   "wordNumber": "08.274",
+   "subjectFullName": "语言学_修辞学_语境、语体与风格",
+   "subjectName": "语境、语体与风格",
+   "publishYear": "2011",
+   "definition": "书卷语体的一种。通过艺术形象反映客观世界、表达思想感情、感染受众。其本质特征是言语的形象性，服务于文艺领域，如各类文学作品。"
+  },
+  {
+   "cn": "艺术言语",
+   "en": "artistic speech",
+   "source": "语言学名词",
+   "wordNumber": "08.279",
+   "subjectFullName": "语言学_修辞学_语境、语体与风格",
+   "subjectName": "语境、语体与风格",
+   "publishYear": "2011",
+   "definition": "指艺术语体中用以描绘形象、抒发感情的言语，以表达的形象性、生动性和创新性为主要特征，为各种体裁的文艺作品，如小说、诗歌、散文、戏剧等所使用。"
+  },
+  {
+   "cn": "艺术语言",
+   "en": "artistic language",
+   "source": "语言学名词",
+   "wordNumber": "08.280",
+   "subjectFullName": "语言学_修辞学_语境、语体与风格",
+   "subjectName": "语境、语体与风格",
+   "publishYear": "2011",
+   "definition": "诗歌、小说、散文、戏剧等各种体裁文艺作品的语言，主要用来塑造艺术形象、表现作品主题和抒发思想感情。它以人民群众的口头语言为基础，经过作者的加工、提炼，富于形象性和艺术感染力。"
+  },
+  {
+   "cn": "艺术人体美",
+   "en": "artistic body beauty",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.074",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "既包括绘画、摄影等艺术手段塑造的静态平面人体之美，也包括雕刻、演艺等艺术手段塑造的静态的或动态的立体人体之美。相对于医学人体美学研究的现实人体美，是艺术人体美学研究的基本对象。"
+  },
+  {
+   "cn": "医学艺术美",
+   "en": "medical artistic beauty",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.033",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "包括医学标本、模型、挂图、插图、教学多媒体及与医学相关的各种绘画、雕塑、音乐等艺术创作之美的总和。"
+  },
+  {
+   "cn": "艺术言语修辞学",
+   "en": "artistic speech rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.027",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "修辞学的一个分支。以文艺作品语言为对象，研究文艺作品的语言组织、言语结构、作家风格和艺术修辞效果。"
+  },
+  {
+   "cn": "医学技艺美",
+   "en": "medical artistic beauty",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0012",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "美术编辑",
+   "en": "art editor;artistic editor",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.020",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "负责出版物美术设计或专职编辑美术出版物的编辑人员的职务名称。"
+  },
+  {
+   "cn": "文学艺术作品",
+   "en": "literary and artistic works",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.188",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "对社会生活进行形象的概括而创作的文学和艺术产品。"
+  },
+  {
+   "cn": "文艺团体",
+   "en": "literary and artistic group",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.187",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "主要反映当地戏剧、歌舞、曲艺、杂技的社会团体。"
+  },
+  {
+   "cn": "写意手法",
+   "en": "xieyi shoufa;freehand artistic brushwork",
+   "source": "风景园林名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "中国古代园林表现手法的一种，借用绘画术语描述特定造园技法和美学特征。在绘画中，“写意”指以放逸的笔法、简略的设色描绘物象的造型手法，和运用这种手法创造的作品类型。也就是即兴抒发胸中意气，不斤斤计较形似"
+  },
+  {
+   "cn": "艺术形态舆论",
+   "en": "artistic pursuit as public opinion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.138",
+   "subjectFullName": "新闻学与传播学_新闻理论_舆论学",
+   "subjectName": "舆论学",
+   "publishYear": "2022",
+   "definition": "公众以各种体裁的文学、音乐、舞蹈、绘画等艺术审美形态表达的意见倾向。这类舆论所表达的倾向是间接的，但比信息形态的舆论更深刻地反映一个时期舆论的特征。"
+  },
+  {
+   "cn": "艺术观念人体美",
+   "en": "artistic concept of body beauty",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.077",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "艺术家在通过艺术创作技巧来探索、研究、发掘、提炼、追求和完善现实人体美的基础上形成的各种富有人体美内涵的艺术观念。"
+  },
+  {
+   "cn": "旅游资源艺术价值",
+   "en": "artistic value of tourism resources",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.245",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "旅游资源单体在艺术方面的意义。"
+  },
+  {
+   "cn": "表达",
+   "en": "expression",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.011",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "运用语言符号或非语言符号进行的意义呈现。"
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "行为医学名词",
+   "wordNumber": "4.076",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "情绪情感产生时身体各部分的动作量化形式。包括面部表情、姿态表情和语调表情等。"
+  },
+  {
+   "cn": "艺术能力",
+   "en": "artistic ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术型",
+   "en": "artistic type",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术搪瓷",
+   "en": "art enamel\",\"artistic enamel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "压榨",
+   "en": "expression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表达式",
+   "en": "expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达",
+   "en": "expression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "表达能力",
+   "en": "expressiveness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表现度,表达度",
+   "en": "expressivity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达度, 表现度",
+   "en": "expressivity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "表达盒（=表达组件）",
+   "en": "expression cassette",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表达载体",
+   "en": "expression vector",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表达组件，表达盒",
+   "en": "expression cassette",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "短暂表达（=瞬时表达）",
+   "en": "transient expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瞬时表达，短暂表达",
+   "en": "transient expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诱导型表达",
+   "en": "inducible expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "整合表达",
+   "en": "integrant expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组成型表达",
+   "en": "constitutive expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "艺术印象分",
+   "en": "artistic impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气韵",
+   "en": "Artistic Appeal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "竞技体操",
+   "en": "artistic gymnastics",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞技体操",
+   "en": "artistic gymnastics",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "别材别趣",
+   "en": "Distinct Subject and Artistic Taste",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辞达",
+   "en": "Expressiveness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "表现力",
+   "en": "expressiveness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理趣",
+   "en": "<div> Philosophical Substance Through Artistic Appeal</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外师造化，中得心源",
+   "en": "Draw Artistic Inspiration from Both Within and Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "邮政特快专递",
+   "en": "express mail service",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗言志",
+   "en": "Poetry Expresses Aspirations.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中欧班列",
+   "en": "China Railway Express",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用保障极速贷",
+   "en": "credit-guaranteed express loan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乐而不淫，哀而不伤",
+   "en": "Express Enjoyment Without Indulgence and Express Grief Without Excessive Distress",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "清词丽句",
+   "en": "Refreshing Words and Exquisite Expressions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "艺术民俗学",
+   "en": "artistic folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0482",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "从民俗学角度展开的对于艺术活动的阐释，并探索艺术活动与民俗整体之间内在关联的学科。"
+  },
+  {
+   "cn": "特立独行的艺术家",
+   "en": "maverick artist",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.31",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "具有独特艺术风格或行为习惯的艺术创作者，通常漠视艺术世界的其他人和惯例，不受这些规则约束。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "表意性角色",
+   "en": "expressive role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "结构功能主义学派塔尔科特帕森斯提出的概念，用来描述现代工业社会中妻子或妇女在家庭中承担的角色，主要指向家庭内部事务，作为情感支撑者起到调节家庭关系、辅助丈夫、抚育儿童并照顾家庭成员的作用。"
+  },
+  {
+   "cn": "明示同意",
+   "en": "express consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.051",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "实际上的、明确表示了的同意。就器官捐献而言，指器官供体或器官受体应该在充分知情的条件下，经深思熟虑后，自愿明确表达愿意捐献其器官或者接受器官移植手术。"
+  },
+  {
+   "cn": "书写表达障碍",
+   "en": "written expression disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以拼写准确性，语法、标点准确性，和书面表达清晰度或条理性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "人文表述危机",
+   "en": "crisis of expression",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0616",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪70 年代至90 年代，人类学家对传统民族志的书写方式和解释权威产生质疑和无所适从的现象。"
+  },
+  {
+   "cn": "书面表达困难",
+   "en": "impairment in written expression",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在拼写准确性、语法和标点准确性、书面表达清晰度或条理性方面存在明显困难的一种现象。"
+  },
+  {
+   "cn": "文艺批评的政治标准与艺术标准的统一",
+   "en": "unity of the political criterion and the artistic criterion of literary criticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0459",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1942年《在延安文艺座谈会上的讲话》讲话中提出的文艺批评的原则。文艺批评有政治和艺术两个标准,“任何阶级社会中的任何阶级,总是以政治标准放在第一位,以艺术标准放在第二位的”。这一原则强调政治"
+  },
+  {
+   "cn": "劳动时间的货币表示",
+   "en": "monetary expression of labor time",
+   "source": "马克思主义",
+   "wordNumber": "05.0133",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，美国学者弗利（D.K.Foley）给出的定义是：一定时期内以即期价格计算的纯产品与生产中活劳动消耗的比值。"
+  },
+  {
+   "cn": "党的信访工作",
+   "en": "Partys works of handling peoples complaints expressed in letters or visits",
+   "source": "马克思主义",
+   "wordNumber": "03.0732",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的信访工作是党的工作的重要组成部分，是指各级党组织及其部门依据党的路线、方针、政策和有关规定，受理和解决党员、干部、群众或者有关组织通过书信、走访、电话、电子邮件、传真等形式提出或反映的有关问题所进"
+  },
+  {
+   "cn": "抑郁",
+   "en": "depression",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "负性情感的增强的情绪状态。患者表现为情绪低落，忧心忡忡，愁眉不展，唉声叹气。严重者忧郁沮丧，外界的一切均引不起兴趣、悲观失望，感到自己一无是处，毫无生趣，度日如年。"
+  },
+  {
+   "cn": "萧条",
+   "en": "depression",
+   "source": "马克思主义",
+   "wordNumber": "02.0294",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "经济周期中危机之后的一个阶段，特征为社会生产不再继续下降，工厂、银行不再继续倒闭而呈停滞状态。"
+  },
+  {
+   "cn": "孤独症谱系障碍",
+   "en": "autistic-spectrum disorder, ASD",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "一种起始于婴幼儿期、由脑功能发育不良引起的，以社会交往、互动障碍和受限、重复行为两大核心症状为特征的儿童神经发育障碍性疾病。"
+  },
+  {
+   "cn": "孤独症谱系障碍",
+   "en": "autistic spectrum disorder, ASD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "一种以社交沟通障碍和重复刻板行为为主要特征的发育障碍性疾病。"
+  },
+  {
+   "cn": "印象形成",
+   "en": "impression formation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "通过对自身所掌握的各种信息进行加工、整理从而形成对他人印象的过程。"
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "人们在初次交往时所形成对彼此的最初印象。这种最初印象并非总是正确，但却总是最鲜明、最牢固的，并且在很大程度上影响着双方后续的交往。"
+  },
+  {
+   "cn": "印象管理",
+   "en": "impression management",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "个体通过一定的方式影响别人形成的对自己的印象的过程，是自我调节的一个重要方面。其中隐含了一种基本动机，即人们渴望被别人积极看待，避免被别人消极看待。"
+  },
+  {
+   "cn": "抑郁障碍",
+   "en": "depression disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以显著、持久的弥散性情绪低落为显著特征的心理障碍。可分为破坏性心境失调障碍、持续性抑郁障碍等类型等；其中，破坏性心境失调障碍常见于儿童少年。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

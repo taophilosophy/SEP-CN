@@ -1,0 +1,782 @@
+{
+ "key": "extended substance",
+ "term": "extended substance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:13:09+00:00",
+ "status": "ok",
+ "note": "variant=extended substance; 审定公布名词库=462; 海峡两岸名词对照库=179; 其他来源数据库=18; 预公布名词数据库=43; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "扩展综合论",
+   "en": "extended synthesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.454",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "主张引入新的理论特别是进化发育生物学理论及其新概念来对现代综合论进行补充和扩展。"
+  },
+  {
+   "cn": "延展认知",
+   "en": "extended cognition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.567",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "认知不是仅仅在人的大脑中完成的，认知过程不局限于有机体的脑和体肤，而是延展至外在环境中。A. 克拉克（A. Clark）和D. 查莫斯（D. Chalmers）提出。认知是由人与外在环境及外在物构成的"
+  },
+  {
+   "cn": "延伸包层",
+   "en": "extended envelope",
+   "source": "天文学名词",
+   "wordNumber": "08.075",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "比较厚的恒星包层，在此条件下光谱中不仅出现发射线，并叠加了包层的锐吸收线。"
+  },
+  {
+   "cn": "扩展的色域",
+   "en": "extended gamut",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.024",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "扩展到以IEC 61966-2-1标准所定义的标准sRGB阴极射线管显示器色域之外的色域。"
+  },
+  {
+   "cn": "延伸距离",
+   "en": "extended distance",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1287",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "平直射线与地球表面的交点的震中距称为真实射线与地面的交点 (观测点 )的震中距的延伸距离。 "
+  },
+  {
+   "cn": "频谱拓展",
+   "en": "spectrum extended",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0422",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "在地球物理勘探中将地震有效信号的频带宽度拓宽，以提高地震信号的分辨率的方法。 "
+  },
+  {
+   "cn": "扩大比",
+   "en": "extended ratio",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0687",
+   "subjectFullName": "化工（八）_化工设备_化工炉窑",
+   "subjectName": "化工炉窑",
+   "publishYear": "2021",
+   "definition": "外露总面积与光管外表面积之比。"
+  },
+  {
+   "cn": "面源",
+   "en": "extended source",
+   "source": "光学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "光学_光源",
+   "subjectName": "光源",
+   "publishYear": "2021",
+   "definition": "辐射面线度对光电观测系统的张角大于瞬时视场或像元视场的辐射源。面源辐射的强弱一般用辐射亮度表示。"
+  },
+  {
+   "cn": "扩展监测",
+   "en": "extended monitoring",
+   "source": "消化内镜学名词",
+   "wordNumber": "10.019",
+   "subjectFullName": "消化内镜学_消化内镜麻醉技术_麻醉监测",
+   "subjectName": "麻醉监测",
+   "publishYear": "2021",
+   "definition": "进行长时间、复杂大手术或高危患者手术时，除基础监测之外用于调整或补充的监测项目。"
+  },
+  {
+   "cn": "第5类非计划停运",
+   "en": "extended outage",
+   "source": "电力名词",
+   "wordNumber": "10.462",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "由于某种原因(启动失败除外),超过规定计划停运期限的延长停运状态。"
+  },
+  {
+   "cn": "延时曝气",
+   "en": "extended aeration",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.358",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "一种活性污泥污水处理工艺。污泥负荷为传统工艺的1/3，以减少剩余活性污泥量。由于污泥消化低、污泥龄长（约50天），剩余污泥通常是稳定的，系统中微生物生长缓慢但较稳定，可以氧化去除其他途径难以降解的物质"
+  },
+  {
+   "cn": "扩展家庭",
+   "en": "extended family",
+   "source": "计划生育名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "家庭结构在核心家庭基础上还包括其他成员的家庭模式。"
+  },
+  {
+   "cn": "扩展位错",
+   "en": "extended dislocation",
+   "source": "冶金学名词",
+   "wordNumber": "07.0086",
+   "subjectFullName": "冶金学_金属学_晶体缺陷",
+   "subjectName": "晶体缺陷",
+   "publishYear": "2019",
+   "definition": "一个全位错分解为两个不全位错，中间夹着一片堆垛层错面的整个位错组态。"
+  },
+  {
+   "cn": "扩展链",
+   "en": "extended chain",
+   "source": "物理学名词",
+   "wordNumber": "08.0649",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "扩展态",
+   "en": "extended state",
+   "source": "物理学名词",
+   "wordNumber": "08.0675",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "外延意识",
+   "en": "extended consciousness",
+   "source": "生物物理学名词",
+   "wordNumber": "04.177",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "从眼前环境(此时此地)和脑中已有的相关信息(过去的记忆及对未来的预测)产生的与自我知觉有关的意识。"
+  },
+  {
+   "cn": "扩大化疗",
+   "en": "extended chemotherapy",
+   "source": "地方病学名词",
+   "wordNumber": "09.170",
+   "subjectFullName": "地方病学_寄生虫病_蠕虫病_血吸虫病_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "对血吸虫感染者及可能的血吸虫感染人群，给予吡喹酮治疗的方法。"
+  },
+  {
+   "cn": "广博课程",
+   "en": "extended curriculum",
+   "source": "教育学名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "包含广泛的科目、具有广博知识的课程。由捷克教育家夸美纽斯提出，后又经法国百科全书派加以发展。"
+  },
+  {
+   "cn": "扩展颜色",
+   "en": "extended color",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.338",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在标准色板之外自定义的色板文件。"
+  },
+  {
+   "cn": "扩展位错",
+   "en": "extended dislocation",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0294",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料组织结构",
+   "subjectName": "材料组织结构",
+   "publishYear": "2011",
+   "definition": "一个全位错分解为两个不全位错，中间夹着一片层错面的整个位错组态。"
+  },
+  {
+   "cn": "增量剂",
+   "en": "extender",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "延伸预报",
+   "en": "extended forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "延时曝气",
+   "en": "extended aeration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "扩大家庭",
+   "en": "extended family",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "扩展态",
+   "en": "extended state",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "扩展位错",
+   "en": "extended dislocation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "延伸包层",
+   "en": "extended envelope",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "延伸光球",
+   "en": "extended photosphere",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "延展天体",
+   "en": "extended object",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "展源",
+   "en": "extended source",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "扩展保险范围",
+   "en": "extended coverage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "展期信用证",
+   "en": "extended credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "扩展颜色",
+   "en": "extended color",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "扩展游标",
+   "en": "extended vernier",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "扩展操作",
+   "en": "extended operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扩展码",
+   "en": "extended code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延伸海事声明",
+   "en": "extended protest",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂补充剂",
+   "en": "catalyst extender",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "扩链剂",
+   "en": "chain extender",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "增塑增容剂",
+   "en": "plasticizer extender",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "延期",
+   "en": "extend",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体的",
+   "en": "extended\",\"stretched",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸长跑步",
+   "en": "extended canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸长快步",
+   "en": "extended trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸长慢步",
+   "en": "extended walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延长闪回时间",
+   "en": "extended flashback time",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中线延长线",
+   "en": "extended center line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "extended position\",\"stretched position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推恩",
+   "en": "Extend Benevolence and Love",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛爱",
+   "en": "Broad Love Extending to All",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "名实",
+   "en": "Name and Substance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "延长春节假期",
+   "en": "to extend the Chinese New Year holiday",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "言有物，行有恒",
+   "en": "Talk Substance; Act with Perseverance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "衔华佩实",
+   "en": "Harmony Between Substance and Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 21715.4-2011 健康信息学 患者健康卡数据 第4部分：扩展临床数据》",
+   "en": "GB/T 21715.4-2011 Health informatics — Patient healthcard data — Part 4: Extended clinical data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理趣",
+   "en": "<div> Philosophical Substance Through Artistic Appeal</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应对气候变化与国家自主行动",
+   "en": "addressing climate change and intended national actions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "扩大家庭",
+   "en": "extended family",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0379",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "家庭结构分类中的一种家庭形式，指由有共同血缘关系的父母和已婚子女，或已婚兄弟姐妹的多个核心家庭组成的家庭模式。"
+  },
+  {
+   "cn": "扩展个案法",
+   "en": "extended case study",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从宏观权力的视角观察具体的日常生活、由具体个案反观宏观因素、从而实现理论改进的个案研究方法。由美国社会学家麦可·布洛维提出。"
+  },
+  {
+   "cn": "实体",
+   "en": "substance",
+   "source": "马克思主义",
+   "wordNumber": "01.0009",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "古希腊哲学家亚里士多德（Aristotle）首创的范畴，指万物不变的本原，万物由它而生成，最后复归于它。马克思主义哲学吸取了以往哲学中关于实体的丰富思想，形成了物质范畴，以物质范畴扬弃了实体概念。"
+  },
+  {
+   "cn": "扩展计划距离",
+   "en": "extended planning distance，EPD",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.11.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "设施周围做好应急安排的区域，以便在宣布总体应急（场外应急）后进行放射性状况监测，并在出现大量放射性释放后的一段时间内确定需要在厂外采取应急响应行动的区域，从而有效地降低公众成员中的随机效应风险。对压水"
+  },
+  {
+   "cn": "卫生费用核算扩展维度",
+   "en": "extended health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.4",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时基于卫生费用核算核心维度的向外伸展。包括筹资环节、生产环节和消费环节三个维度。"
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "对物质持续性或间歇性过度使用的状况。"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在限定条件下可作为消毒剂原料的物质，在一定限定值以下使用。"
+  },
+  {
+   "cn": "标准物质",
+   "en": "standard substance",
+   "source": "消毒学",
+   "wordNumber": "6.1.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有一种或多种足够均匀和精确确定了特性值、用以校准设备、评价测量方法或给材料赋值的纯的或混合的气体、液体或固体物质。"
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "对烟草、酒精、毒品和其他违禁药物中任意一种的过度或不恰当使用的行为。"
+  },
+  {
+   "cn": "放射性物质",
+   "en": "radioactive substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "原子核能发生衰变，放出肉眼看不见也感觉不到，只能用专门的仪器才能探测到的射线的物质。如¹³¹I多见于奶制品的污染。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "可溶性抗菌物质",
+   "en": "soluble antibacterial substance",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.17",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "抗（抑）菌剂与相应材料非紧密结合，在使用过程中（如水洗，汗液等）抗（抑）菌剂可从相应材料中溶出的物质。"
+  },
+  {
+   "cn": "非溶出性抗菌物质",
+   "en": "insoluble antibacterial substance",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.18",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "抗（抑）菌剂与相应材料紧密结合，在使用过程中（如水洗，汗液等）抗（抑）菌剂不可从相应材料中溶出的物质。"
+  },
+  {
+   "cn": "有机干扰物",
+   "en": "organic interfering substance",
+   "source": "消毒学",
+   "wordNumber": "6.2.13",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "常用于消毒学试验的试验试剂，人为加入试验中能够影响消毒剂消毒效果的有机物，常用的有牛血清白蛋白、小牛血清、腐殖酸等。"
+  },
+  {
+   "cn": "丙烯酰胺前体物质",
+   "en": "acrylamide precursor substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.15.7",
+   "subjectFullName": "食品卫生学_食品_焙烤类食品",
+   "subjectName": "焙烤类食品",
+   "publishYear": "2025",
+   "definition": "在焙烤等高温加工条件下，食品中可通过美拉德反应生成两烯酰胺的成分，主要为还原糖和天门冬酰胺。"
+  },
+  {
+   "cn": "军用化学物质",
+   "en": "military chemical substances",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质",
+   "subjectName": "军用化学物质",
+   "publishYear": "2025",
+   "definition": "用于军事目的或军事活动的化学物质。通常包括化学战剂、军事工业毒物和军事活动中可能遇到的有毒化学物质（生物、物理和化学因素）。"
+  },
+  {
+   "cn": "食品用香精香料",
+   "en": "food flavoring substances",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "符合国家卫生标准的用于食品赋香的香料和香精的统称"
+  },
+  {
+   "cn": "挥发性物质含量",
+   "en": "volatile substances content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.6",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "在特定条件下对酒类进行干燥所损失物质（乙醇除外）的质量。"
+  },
+  {
+   "cn": "物质使用障碍",
+   "en": "substance use disorder, SUD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "单次或重复使用一种或多种精神活性物质导致的精神或行为障碍。精神活性物质有酒精、阿片类、大麻类、镇静催眠药、可卡因、兴奋剂、致幻剂、烟草和挥发性溶剂等。"
+  },
+  {
+   "cn": "禁用物质",
+   "en": "prohibited and restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "不能作为消毒剂原料使用的物质。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,602 @@
+{
+ "key": "empathy-altruism",
+ "term": "empathy-altruism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:12:48+00:00",
+ "status": "ok",
+ "note": "variant=empathy-altruism; 审定公布名词库=100; 海峡两岸名词对照库=24; 其他来源数据库=6; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "同理心",
+   "en": "empathy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.15",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "一种能换位思考，从对方角度体验与感受他人世界并重塑自我观点的沟通互动能力。"
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "精神医学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "治疗师能够正确地了解受检者内在主观世界的态度、能力，以及相应的反应。"
+  },
+  {
+   "cn": "同感",
+   "en": "empathy",
+   "source": "生物物理学名词",
+   "wordNumber": "04.293",
+   "subjectFullName": "生物物理学_神经生物物理学_脑高级功能",
+   "subjectName": "脑高级功能",
+   "publishYear": "2018",
+   "definition": "通过内心模仿产生他人内心活动的类似知觉。对社交生活至关紧要，正是由于有同感才使我们得以和他人共享其情绪、体验、需要和目的。"
+  },
+  {
+   "cn": "移情性",
+   "en": "empathy",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0577",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "设身处地地为顾客着想和对顾客给予特别关注的质量特性。"
+  },
+  {
+   "cn": "移情作用",
+   "en": "empathy",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.065",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "人在聚精会神地观察某一个自然的或艺术的审美对象时，通过由物及我或由我及物而达到物我同一，把人的生命和情趣移注到对象上来，顿时感觉到本无生命和情趣的该外物(审美对象)仿佛也具有人的生命和情趣一样，犹如“"
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "心理学名词",
+   "wordNumber": "15.052",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师体认当事人内部世界的态度、能力，以及相应的反应。"
+  },
+  {
+   "cn": "移情",
+   "en": "empathy",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "一个人认同、理解和感受他人的处境、情感、知觉和思想的心理现象。"
+  },
+  {
+   "cn": "移情",
+   "en": "empathy",
+   "source": "语言学名词",
+   "wordNumber": "08.238",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。移主观情感于客观外物，使物性与人性相通，以体现、寄寓说写者的心理认知和主观情愫。例如，“及登舟解缆，正当桃李争妍之时，而余则恍同林鸟失群，天地异色。”"
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "动物学名词",
+   "wordNumber": "7.0434",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "动物以降低自身的适合度为代价，来提高其他个体适合度的行为。"
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "经济学名词",
+   "wordNumber": "14.005",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "一种提倡为他人或集体的福利改进而宁愿使自己的福利蒙受损失的哲学思想。作为一种行为准则，它通常和善行、无私等概念密切相关。这一思想由法国实证主义哲学家奥古斯特·孔德（Auguste Comte）于183"
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "心理学名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "有利于他人而不期望任何个人回报的心理倾向。"
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "遗传学名词",
+   "wordNumber": "07.081",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "一个个体的行为对接受者带来好处的同时，对行为完成者带来损失的一种行为。"
+  },
+  {
+   "cn": "共情能力",
+   "en": "empathy ability",
+   "source": "行为医学名词",
+   "wordNumber": "5.036",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "能够设身处地体验他人处境，达到感受和理解他人情感的能力。"
+  },
+  {
+   "cn": "互惠利他",
+   "en": "reciprocal altruism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.444",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "一个有机体给另一个有机体提供了好处，长期而言可以获得报答或补偿。"
+  },
+  {
+   "cn": "自我利他主义",
+   "en": "ego-altruism",
+   "source": "行为医学名词",
+   "wordNumber": "5.034",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "助人者通过助人行为来减少自己的痛苦，使自己感到有力量或者体会到一种自我价值。"
+  },
+  {
+   "cn": "纯利他主义",
+   "en": "pure-altruism",
+   "source": "行为医学名词",
+   "wordNumber": "5.035",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "受外部动机的驱使，做出助人行为以减轻他人的痛苦，目的是为了他人的幸福。"
+  },
+  {
+   "cn": "情感淡漠",
+   "en": "apathy",
+   "source": "行为医学名词",
+   "wordNumber": "16.111",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "对外界刺激缺乏情感反应，内心体验贫乏，表现为对外界漠不关心的精神病理状态。"
+  },
+  {
+   "cn": "情感淡漠",
+   "en": "apathy",
+   "source": "精神医学名词",
+   "wordNumber": "02.225",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "对情绪刺激缺乏情感反应，内心体验贫乏，表现为对外界漠不关心的一种精神病理状态。见于精神分裂症及严重痴呆受检者。"
+  },
+  {
+   "cn": "情感淡漠",
+   "en": "apathy",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.193",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对外界刺激缺乏相应情感反应的病理性精神状态。漠不关心周围事物和个人利益；视亲友如路人，无动于衷；表情冷淡，体验缺 乏。"
+  },
+  {
+   "cn": "情感淡漠",
+   "en": "apathy",
+   "source": "心理学名词",
+   "wordNumber": "10.136",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "情感活动丧失，表现为对外界任何刺激都缺乏相应的情感反应，即使对自身有密切利害关系的事情也漠不关心。"
+  },
+  {
+   "cn": "共情-利他假说",
+   "en": "empathy altruism hypothesis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共情,同感",
+   "en": "empathy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "利他现象",
+   "en": "altruism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "相互利他主义",
+   "en": "reciprocal altruism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "互惠利他行为",
+   "en": "reciprocal altruism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "互利",
+   "en": "reciprocal altruism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "同情",
+   "en": "sympathy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感淡漠",
+   "en": "apathy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共情理解",
+   "en": "empathic understanding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "旁观者冷漠",
+   "en": "bystander apathy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空巢",
+   "en": "empty nest",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空串",
+   "en": "empty string",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空集",
+   "en": "empty set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空媒体",
+   "en": "empty medium",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空栈",
+   "en": "empty stack",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "观摩学习",
+   "en": "empathic learning\",\"observation learning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互惠利他",
+   "en": "reciprocal altruism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知音",
+   "en": "Resonance and Empathy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同理心文明",
+   "en": "empathic civilization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以电话、信函、声明等方式表示慰问和支持",
+   "en": "to express sympathy and support by telephone, letter or statement",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.13",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "能够从他人的角度考虑问题，感受到他人的情感状态的心理过程。"
+  },
+  {
+   "cn": "移情",
+   "en": "empathy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.20",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "研究者将自己融入研究对象社会群体的情感转移。本概念来自于马林诺夫斯基(B.Malinowski）。在研究的“远·近法”上讲究研究者将自己融入被研究对象的生活世界，通过这种立场转换，实现近距离互动的研究"
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "咨询者体会和认可求咨者内部世界的态度、能力，以及相应的反应。在学校心理咨询中，指咨询者设身处地地从求咨者的参考标准来看事物和感受事物，同时能以言语或体语准确表达对求咨者内心体会的理解，协助求咨者对其感"
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.11",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "关心他人的利益而不考虑自己的利益。不期望任何外部酬劳而自觉自愿的助人，把帮助他人当作唯一目的。"
+  },
+  {
+   "cn": "同理能力",
+   "en": "empathy ability skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "从他人的角度考虑问题，理解他人处境的能力。有助于个体理解和接受他人，并主动帮助别人。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "同情",
+   "en": "sympathy",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对他人的苦难、不幸或处境在情感上产生共鸣、关怀、理解，并给予道义上支持或物质上帮助的一种情感反应和行为。"
+  },
+  {
+   "cn": "空态",
+   "en": "empty state",
+   "source": "消毒学",
+   "wordNumber": "1.8.10",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "设施已经建成，净化空调等服务动力公用设施接通并运行，但无生产设备、材料及人员的状态。"
+  },
+  {
+   "cn": "空巢",
+   "en": "empty nest",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.3",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "家庭居住安排的一种形式，指子女成人后相继离开家庭，剩下中老年父母独自在家居住的状态。"
+  },
+  {
+   "cn": "空巢家庭",
+   "en": "empty-nest family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.16",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "因子女成年后离开或未成年即死亡而只有夫妇二人的家庭。"
+  },
+  {
+   "cn": "空巢老年人",
+   "en": "empty-nest elderly",
+   "source": "社会医学名词",
+   "wordNumber": "12.3.3",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "老年人卫生保健",
+   "publishYear": "2025",
+   "definition": "未与子女共同居住的老人，主要包括无子女的老人、与子女分居的老人以及子女远在外地的老人。形成原因包括没有子女，或子女因工作、学习、婚姻等原因离家。"
+  },
+  {
+   "cn": "空巢综合症",
+   "en": "emptiness syndrome，empty nest syndrome",
+   "source": "社会学名词",
+   "wordNumber": "3.15.5.3",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年心理问题",
+   "subjectName": "老年心理问题",
+   "publishYear": "2025",
+   "definition": "老年人在子女成家立业独立生活后，由于适应不良出现的一种综合症。主要表现为自怜、无助、失落、孤独、悲观等“空巢感”。在精神病理学中属于“适应障碍”症的一种，是中老年人常见的一种心理危机。"
+  },
+  {
+   "cn": "电脑桌下空区",
+   "en": "empty space under computer desk",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑桌下，能够满足使用者腿部自由活动的空间。"
+  },
+  {
+   "cn": "桌下空区",
+   "en": "empty space under the table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.4.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_课桌椅卫生",
+   "subjectName": "课桌椅卫生",
+   "publishYear": "2025",
+   "definition": "课桌屉箱下的空间。"
+  },
+  {
+   "cn": "血管免疫母细胞性淋巴结病",
+   "en": "Angimmunoblastic lymphadcno pathy with dysprroteineeoda,AILD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.9.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "一组病因未明的、包含了从良性过度增生到恶性病变的淋巴组织增生性疾病。临床表现复杂，以发热、淋巴结肿大为主要特征，可伴多系统损害，如肝脾肿大、皮疹伴瘙痒、关节肌肉疼痛等，确诊需要结合组织病理学、免疫学、"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

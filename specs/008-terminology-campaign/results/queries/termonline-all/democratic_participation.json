@@ -1,0 +1,742 @@
+{
+ "key": "democratic participation",
+ "term": "democratic participation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:07:29+00:00",
+ "status": "ok",
+ "note": "variant=democratic participation; 审定公布名词库=102; 海峡两岸名词对照库=16; 其他来源数据库=19; 预公布名词数据库=66; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "参赛者",
+   "en": "participant",
+   "source": "运动医学名词",
+   "wordNumber": "09.028",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "任何运动员或运动员辅助人员。"
+  },
+  {
+   "cn": "受试者",
+   "en": "participant",
+   "source": "核医学名词",
+   "wordNumber": "06.0234",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "临床研究中自觉或志愿参与和接受试验的人。与临床前研究对象不同，出于其主观能动性配合完成试验，而非被动地被研究者试验，所以不能称为被试者，更不宜简称为被试。"
+  },
+  {
+   "cn": "参与者",
+   "en": "participant",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0282",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "分布式事务中除根代理以外的其他代理，根据协调者的安排负责本地子事务的撤销或执行，向协调者返回撤销或提交子事务的消息。"
+  },
+  {
+   "cn": "参与者",
+   "en": "participant",
+   "source": "语言学名词",
+   "wordNumber": "12.089",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "参与言语交际活动的人。"
+  },
+  {
+   "cn": "公民参与",
+   "en": "citizen participation,public participation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0585",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "公民通过各种方式影响公共政策以及公共治理的过程。"
+  },
+  {
+   "cn": "民主技术",
+   "en": "democratic technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.061",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类理性为追求民主价值，在特定条件下，经过长期实践形成和发展起来的民主操作体系。"
+  },
+  {
+   "cn": "技术民主",
+   "en": "democratic technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.131",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "在技术领域内推行话语民主的理论。主要是在科学技术专家和政治家之间建立民主对话机制。"
+  },
+  {
+   "cn": "民主型风格",
+   "en": "democratic style",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0196",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "鼓励员工参与决策的制定过程，授权给员工，以反馈的方式达到指导员工的目的的领导行为特征维度。"
+  },
+  {
+   "cn": "民主管理",
+   "en": "democratic management",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0369",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源管理法规",
+   "subjectName": "人力资源管理法规",
+   "publishYear": "2016",
+   "definition": "通过职工代表大会等形式就经营管理等重大决策事项实施管理、参与、监督和协调的活动与民主督促和员工利益制度。"
+  },
+  {
+   "cn": "民主党",
+   "en": "Democratic Party",
+   "source": "世界历史名词",
+   "wordNumber": "03.0075",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "美国两大政党之一，始建于1791年，1840年该党第三次全国代表大会上正式定名为民主党，在美国实行的两党制中与共和党轮流执政。"
+  },
+  {
+   "cn": "民主社会主义",
+   "en": "Democratic-Socialism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0100",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "1951年6月，社会党国际成立时公开提出的纲领性口号。打着社会主义的旗号，反对马克思主义，鼓吹通过资产阶级民主和资产阶级国家“和平进入”社会主义。"
+  },
+  {
+   "cn": "公众参与",
+   "en": "public participation",
+   "source": "风景园林名词",
+   "wordNumber": "01.0050",
+   "subjectFullName": "风景园林_总论_风景园林管理",
+   "subjectName": "风景园林管理",
+   "publishYear": "2025",
+   "definition": "社会群众、社会组织、单位或个人作为主体，在权利义务范围内，参与规划设计编制与实施过程的活动。"
+  },
+  {
+   "cn": "社区参与",
+   "en": "community participation",
+   "source": "风景园林名词",
+   "wordNumber": "04.0347",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "社区居民自觉自愿地参加社区各种活动或事务，表达自己的意见和建议，并影响管理机构决策的行为。"
+  },
+  {
+   "cn": "分配因子",
+   "en": "participation factor",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2087",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "表征多自由度系统经过标定的输入分配到系统的各种振型的因子。这个因子不是唯一的，依赖于振型的形状及其如何归一化。最普通的归一化方法是分配因子加起来后大于 1。在这种情况下，一种振幅的分配因子是振型接收到"
+  },
+  {
+   "cn": "村民参与",
+   "en": "villager participation",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.302",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "村民参加村庄集体事务，并就有关决策发表意见或行使决策权利的村庄管理方式。"
+  },
+  {
+   "cn": "社区参与",
+   "en": "community participation",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "城乡规划学_社区与住房规划_城乡社区发展及规划理论与方法",
+   "subjectName": "城乡社区发展及规划理论与方法",
+   "publishYear": "2021",
+   "definition": "社区居民自觉、自愿地参加社区活动或事务，表达自己的意见和建议，并影响利益相关者决策的行为。"
+  },
+  {
+   "cn": "公众参与",
+   "en": "public participation",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.061",
+   "subjectFullName": "城乡规划学_社区与住房规划_社会公正与公众参与",
+   "subjectName": "社会公正与公众参与",
+   "publishYear": "2021",
+   "definition": "（1）广义上指公众试图影响公共政策决策的一切活动。包括投票、竞选、对话、协商、听证等。（2）狭义上指公众通过直接与政府或其他公共机构互动的方式决定公共事务和参与公共治理的过程。强调决策者与受决策影响的"
+  },
+  {
+   "cn": "规划公众参与",
+   "en": "public participation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.046",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "规划编制部门采取多种形式以使公民、法人和其他组织参与规划编制过程和了解规划内容的过程。"
+  },
+  {
+   "cn": "患者参与",
+   "en": "patient participation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.141",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "让患者了解健康问题，加入制定护理措施的过程。"
+  },
+  {
+   "cn": "参与约束",
+   "en": "participation constraint",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1025",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在委托–代理理论中关于委托人在进行激励机制的设计时所面临的一个约束条件。要使一个代理人有兴趣接受委托人设计的机制从而参与一个博弈的话，代理人在该机制下得到的期望效用必须不小于他在不接受这个机制时得到的"
+  },
+  {
+   "cn": "参与者",
+   "en": "participant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参与管理",
+   "en": "participative management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "参与再保险",
+   "en": "participating reinsurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同保险，互助保险",
+   "en": "participating insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同贷款",
+   "en": "participating loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "参与性观察［法］",
+   "en": "participant observation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "领导［者］参与模型",
+   "en": "leader participation model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "邻基参与",
+   "en": "neighboring group participation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "非参与性观察［法］",
+   "en": "non participant observation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "参与者间设计",
+   "en": "between participants design",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直接参与保证合同",
+   "en": "immediate participation guarantee contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "遗传早现",
+   "en": "anticipation\",\"genetic anticipation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "先现音",
+   "en": "anticipation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "旅游者期望",
+   "en": "anticipation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "先期付税票据",
+   "en": "tax anticipation note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "先期交税债券",
+   "en": "tax anticipation bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "民主化协商参与技术",
+   "en": "technology facilitating democratic consultation and participation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参赛者",
+   "en": "participant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参与权",
+   "en": "participation right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参赛队员",
+   "en": "competitor\",\"participant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参赛队员",
+   "en": "competitor\",\"participant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非正规经济参与者",
+   "en": "participant in informal economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运动员入场式",
+   "en": "parade of the participants",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络问政",
+   "en": "online participation in political affairs",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境保护公众参与",
+   "en": "public participation in environmental protection",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多元共治",
+   "en": "joint governance with multiple participants",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会力量数据分享参与机制",
+   "en": "mechanism for public participation in data sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《为妇女推出数字金融解决方案》",
+   "en": "Digital Financial Solutions to Advance Women’s Economic Participation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国社会扶贫网",
+   "en": "Social Participation in Poverty Alleviation and Development of China",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共建共治共享的社会治理格局",
+   "en": "a social governance model based on collaboration, participation, and common interests",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大扶贫格局",
+   "en": "the all-encompassing campaign against poverty / broad participation in poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《“一带一路”国家关于加强会计准则合作的倡议》",
+   "en": "Initiative on Promoting Accounting Standards Cooperation among Participating Countries of the Belt and Road Initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《关于开展支持中小企业参与“一带一路”建设专项行动的通知》",
+   "en": "Notice on Launching a Special Campaign to Support Small- and Medium-Sized Enterprises’ Participation in the Belt and Road Construction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参与",
+   "en": "participation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.4.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体行为",
+   "subjectName": "群体行为",
+   "publishYear": "2025",
+   "definition": "既指群体、组织或社会成员参加有组织的活动，培养对自己生活的控制能力并在公共事务决策中发挥作用的行为，也指组织实现民主治理和共同体文化认同的一种组织方式，其动力建立在共享权益的基础之上，是体现合作、竞争"
+  },
+  {
+   "cn": "员工参与",
+   "en": "participation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.7",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织成员参与组织决策的管理模式，从而对与其关联密切的工作决策和行动产生影响。"
+  },
+  {
+   "cn": "民主化",
+   "en": "democratization",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.19",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "人民享有广泛治权（统治权利）的过程。民主的最初实践出现在希腊城邦时期。在希腊语中，民主是指具有平等的公民权的人们经过公开辩论后，通过大多数人的投票程序而对法律和政策做出集体决定。"
+  },
+  {
+   "cn": "民主运动",
+   "en": "democratic movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0114",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反对独裁统治或专制统治，争取被统治阶级的民主权利的群众运动。它是被统治阶级反抗统治阶级的政治斗争的一种形式，通常具有进步意义。"
+  },
+  {
+   "cn": "民主共和国",
+   "en": "democratic republic",
+   "source": "马克思主义",
+   "wordNumber": "03.0279",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "国家元首和国家最高权力机关定期由选举产生的国家。它只是一种国家形式，在不同阶级专政的国家有不同性质。在奴隶社会、封建社会和资产阶级社会，民主共和国都是统治阶级专政的一种形式。无产阶级在推翻资产阶级统治"
+  },
+  {
+   "cn": "民主集中制",
+   "en": "democratic centralism",
+   "source": "马克思主义",
+   "wordNumber": "03.0281",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党的根本组织原则，它是党内民主和集中的辩证统一，即在高度民主的基础上，实行高度的集中。马克思恩格斯为共产主义者同盟和国际工人协会起草的章程中规定各级委员会及其领导人由选举产生,有关决议须无记"
+  },
+  {
+   "cn": "民主管理",
+   "en": "democratic management",
+   "source": "马克思主义",
+   "wordNumber": "03.0571",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民主管理是相对于权威管理而言的，指管理者遵循公正的原则，采用民主的方式。比如：民主选举、民主决策、民主监督等，发挥成员的积极主动性，协调组织成员的行为，以实现个体的自我管理和组织的科学管理。"
+  },
+  {
+   "cn": "民主教育",
+   "en": "democratic education",
+   "source": "马克思主义",
+   "wordNumber": "03.0572",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民主是一种政治制度，也是一种生活方式。通过理论学习、实践操作对人民群众进行社会主义民主知识教育，使之树立权利、义务、法治、公德等观念，做国家和社会的真正主人。"
+  },
+  {
+   "cn": "民主执政",
+   "en": "democratic governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0676",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持为人民执政、靠人民执政，发展中国特色社会主义民主政治，推进社会主义民主政治的制度化、规范化、程序化，以民主的制度、民主的形式、民主的手段支持和保证人民当家作主。"
+  },
+  {
+   "cn": "民主集中派",
+   "en": "democratic centralist",
+   "source": "马克思主义",
+   "wordNumber": "04.0359",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄共（布）党内以季莫费·弗拉基米罗维奇·萨普龙诺夫（Timofe Vladimirovich Sapronov）为主要代表的反对派。其骨干分子曾为“左派共产主义者”。他们大谈“党内民主”，反对党的纪律"
+  },
+  {
+   "cn": "民主社会主义",
+   "en": "democratic socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0229",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "西方社会民主党（社会党、工党）思想体系与意识形态的总称。以自由、公正、民主、团结作为其基本价值观，主张用社会改良主义取代马克思主义，通过合法、阶级合作的途径实现社会主义。当代民主社会主义的基本理论是在"
+  },
+  {
+   "cn": "青年参与",
+   "en": "youth participation",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.1",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "青年为发挥自身作用，获得发展机会，实现与社会的更多互动，在各类组织机构引导下或主动以多种方式去涉猎他们在历史上未曾参与的事务。"
+  },
+  {
+   "cn": "参与约束",
+   "en": "participation constraint",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "购买者与提供者签订的用以规定卫生服务购买具体内容的合约，如购买者的目标、提供的具体服务类型、数量、价格、提供方式，以及交易和支付的方式、双方的收益和风险的分担机制等。，在委托–代理理论中关于委托人在进"
+  },
+  {
+   "cn": "参与原则",
+   "en": "participation principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务的制定、执行与评估过程中，应确保公众、社区和各类相关利益方的积极参与，提升政策的可接受性、适用性与持续性。"
+  },
+  {
+   "cn": "社会参与",
+   "en": "social participation",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.10.4",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "多元主体以各种方式直接或间接参与到社会健康活动的过程。"
+  },
+  {
+   "cn": "立宪民主党",
+   "en": "Constitutional Democrats",
+   "source": "马克思主义",
+   "wordNumber": "04.0427",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1905年10月成立的俄国自由君主派资产阶级的主要政党。领袖是帕·尼·米留可夫（Milyukov，Pavel Nikolayevich）。该党企图用立宪君主制的形式保存沙皇君主制。十月革命胜利后，多次"
+  },
+  {
+   "cn": "检验参与者",
+   "en": "testing participator",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "接受检验组织对其所用个人剂量监测系统等实施性能检验的机构。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "由研究者参与到被研究群体的日常生活中，记录他们的经历和观察的定性研究方法。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "研究者要深入到被研究群体所在社区的日常生活中，将自己视为社区的成员之一，在与研究对象互动的同时，按事先准备的提纲，观察并记录他们的经历、体验和行为等，获取第一手资料的方法。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "人类学研究中搜集一手资料的最基本的方法。它要求研究者在较长时间内置身于被观察者的社区之中，通过参与他们的日常活动来观察当地社会文化，在参与和观察之间保持一种平衡。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

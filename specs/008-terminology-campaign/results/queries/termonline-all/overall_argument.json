@@ -1,0 +1,692 @@
+{
+ "key": "overall argument",
+ "term": "overall argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T17:21:50+00:00",
+ "status": "ok",
+ "note": "variant=overall argument; 审定公布名词库=266; 海峡两岸名词对照库=110; 其他来源数据库=20; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "全面偏倚",
+   "en": "overall bias",
+   "source": "地质学名词",
+   "wordNumber": "13.08.084",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "分析方法不同或实验室不同造成的偏倚。"
+  },
+  {
+   "cn": "整体标引",
+   "en": "overall indexing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.155",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "针对内容资源的整体提取主题予以标引的方式。这种标引方式往往用一个主题概括出版物的整体内容或主要内容。整体标引的对象可以是图书、论文、标准、档案等资源类型。"
+  },
+  {
+   "cn": "整体流",
+   "en": "overall flow",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1907",
+   "subjectFullName": "化工（八）_化工设备_固体物料输送设备",
+   "subjectName": "固体物料输送设备",
+   "publishYear": "2021",
+   "definition": "固体料仓在卸出松散物料时，仓内全部物料同时均向卸料口流动的一种平推形的流动状态。"
+  },
+  {
+   "cn": "整体式挤出机",
+   "en": "overall extruder",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1983",
+   "subjectFullName": "化工（八）_化工设备_橡胶机械",
+   "subjectName": "橡胶机械",
+   "publishYear": "2021",
+   "definition": "挤出机与传动装置的连接形式为整体式的挤出机。"
+  },
+  {
+   "cn": "总体设计",
+   "en": "overall design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0022",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计流程",
+   "subjectName": "设计流程",
+   "publishYear": "2021",
+   "definition": "对全局问题的设计，形成产品设计总的解决方案，例如确定总体参数和总体布置等。"
+  },
+  {
+   "cn": "数量感",
+   "en": "overall perception",
+   "source": "测绘学名词",
+   "wordNumber": "04.124",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "将观察对象与一个表示数量的标准图形(通常是图例中的符号)相比较而获得数量概念的视觉效果。"
+  },
+  {
+   "cn": "总反应",
+   "en": "overall reaction",
+   "source": "冶金学名词",
+   "wordNumber": "04.0235",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "将2个或更多基元反应的化学反应式合并后，所写出的只包括起始反应物和终了产物的化学反应式的反应。"
+  },
+  {
+   "cn": "整体衰老",
+   "en": "overall senescence",
+   "source": "植物学名词",
+   "wordNumber": "11.0642",
+   "subjectFullName": "植物学_植物生理学_植物成熟与衰老生理",
+   "subjectName": "植物成熟与衰老生理",
+   "publishYear": "2019",
+   "definition": "许多一年生植物(如小麦、玉米、水稻、大豆等)即使在适宜生长的条件下，随着果实和种子的产生，植株很快变黄的衰老方式。"
+  },
+  {
+   "cn": "总反应",
+   "en": "overall reaction",
+   "source": "化学名词",
+   "wordNumber": "04.0259",
+   "subjectFullName": "化学_物理化学_化学动力学",
+   "subjectName": "化学动力学",
+   "publishYear": "2016",
+   "definition": "若干个基元反应的总和。"
+  },
+  {
+   "cn": "总选择性",
+   "en": "overall selectivity",
+   "source": "计量学名词",
+   "wordNumber": "11.213",
+   "subjectFullName": "计量学_无线电_场强",
+   "subjectName": "场强",
+   "publishYear": "2015",
+   "definition": "测量接收机产生相同指示时输入的正弦波电压幅度随频率变化的曲线。"
+  },
+  {
+   "cn": "总宽度",
+   "en": "overall width",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.291",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "轮胎断面两外侧之间的最大距离，包括标志、装饰线和防擦线所增加的宽度。"
+  },
+  {
+   "cn": "外周长",
+   "en": "overall circumference",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.285",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "轮胎胎面的最外表面的周长。"
+  },
+  {
+   "cn": "外直径",
+   "en": "overall diameter",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.286",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "轮胎最外表面的圆周直径。"
+  },
+  {
+   "cn": "总体布局",
+   "en": "overall layout",
+   "source": "语言学名词",
+   "wordNumber": "06.024",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "辞书框架结构中的形式表征。包括收什么样的词、依据什么格式来编写、采用什么形式释义、采用什么样的方法注释和排检等。"
+  },
+  {
+   "cn": "总体设计",
+   "en": "overall design",
+   "source": "语言学名词",
+   "wordNumber": "06.021",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "对辞书编纂整体所做的规划和设想。包括辞书的框架结构和组织管理。后者涉及编纂力量、语料、辅助工具和资金的规划以及编纂进度的安排等。"
+  },
+  {
+   "cn": "总体结构",
+   "en": "overall structure",
+   "source": "语言学名词",
+   "wordNumber": "06.022",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "按照辞书编纂宗旨和原则勾画出的拟编辞书的总体外在形式。包括总体规模、总体布局和总体风格。"
+  },
+  {
+   "cn": "整体活力",
+   "en": "overall activity",
+   "source": "生态学名词",
+   "wordNumber": "07.316",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统具有结构与功能的基本指标和多项服务的能力。"
+  },
+  {
+   "cn": "总效率",
+   "en": "overall efficiency",
+   "source": "航空科学技术名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "航空科学技术_推进技术与航空动力装置",
+   "subjectName": "推进技术与航空动力装置",
+   "publishYear": "2003",
+   "definition": "发动机所产生的推进功率与单位时间所喷入燃料的化学能之比，即热效率与推进效率的乘积。"
+  },
+  {
+   "cn": "全长",
+   "en": "overall length",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.045",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "飞机纵轴线在水平位置时机体最前端和最后端垂直于飞机轴线的两个平面之间的距离。"
+  },
+  {
+   "cn": "机高",
+   "en": "overall height",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.046",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "停机状态机体最高点至地面的距离。"
+  },
+  {
+   "cn": "整体衰老",
+   "en": "overall senescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总回收",
+   "en": "overall recovery",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总速率",
+   "en": "overall rate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总组成",
+   "en": "overall composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总过程",
+   "en": "overall process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总效率",
+   "en": "overall efficiency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总系数",
+   "en": "overall coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总体检验",
+   "en": "overall test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "总反应",
+   "en": "overall reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "综合平衡",
+   "en": "overall balancing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "总收益率",
+   "en": "overall yield",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "总损耗",
+   "en": "overall loss",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总体模型",
+   "en": "overall model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总长",
+   "en": "length overall\",\"LOA",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "总长",
+   "en": "length overall\",\"LOA",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "总产量分率",
+   "en": "overall fractional yield",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总传递函数",
+   "en": "overall transfer function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总热平衡",
+   "en": "overall heat balance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "区域性整体贫困",
+   "en": "overall regional poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全程关门时间",
+   "en": "overall finish time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全能总分",
+   "en": "overall total score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解决区域性整体贫困",
+   "en": "eliminating overall regional poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准化整体规划",
+   "en": "overall planning for data standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全方位信息保证认证",
+   "en": "overall information assurance and authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程器",
+   "en": "Assessment of One's Overall Qualities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正确大局观",
+   "en": "the correct perspective of overall situation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20152348-T-339 智慧城市 跨系统交互 第1部分：总体框架》",
+   "en": "20152348-T-339 Smart city — Cross-system interaction — Part 1: Overall framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中央统筹、省总负责、市县抓落实",
+   "en": "a working mechanism whereby the central leadership makes overall plans, provincial authorities take overall responsibility, and city and county authorities ensure implementation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "以脱贫攻坚统揽经济社会发展全局",
+   "en": "taking overall planning of economic and social development by eradicating poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保障全国生活必需品市场总体稳定",
+   "en": "to maintain an overall balance in the market for daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "相联",
+   "en": "overlap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "繁缛",
+   "en": "Overly Elaborative",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弹性覆盖网络",
+   "en": "resilient overlay network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "化工/画工",
+   "en": "Magically Natural / Overly Crafted",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "综合平衡",
+   "en": "overall balance",
+   "source": "马克思主义",
+   "wordNumber": "02.0380",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国民经济工作的根本问题，“一五计划”执行过程中总结实践经验提出的正确方针。整个国民经济是在工农业之间、工业内部之间、重工业和轻工业之间、农业内之间的比例关系相互协调、大体平衡基础上的综合平衡。陈云曾针"
+  },
+  {
+   "cn": "两个大局",
+   "en": "two overall situations",
+   "source": "马克思主义",
+   "wordNumber": "03.0568",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一是沿海地区加快对外开放，较快地先发展起来，内地要顾全这个大局。另一个是沿海地区发展到一定时期，拿出更多的力量帮助内地发展，沿海地区也要顾全这个大局。"
+  },
+  {
+   "cn": "全腹泻死亡率",
+   "en": "overall diarrheal mortality",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.18",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "某年某地区总人口中死于腹泻疾病的人数所占比例。"
+  },
+  {
+   "cn": "全腹泻发病率",
+   "en": "overall diarrheal incidence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在一定期间内，一定范围人群中因各种病因导致的腹泻疾病新发生病例出现的频率。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "统筹兼顾适当安排",
+   "en": "overall consideration and proper arrangement",
+   "source": "马克思主义",
+   "wordNumber": "02.0381",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《关于正确处理人民内部矛盾的问题》中提出的方针。要求作计划、办事、想问题都要从国情出发。解决各种矛盾要从对全体人民的统筹兼顾这个观点出发,就当时当地的实际可能条件,同各方面的人协商,作出各种适"
+  },
+  {
+   "cn": "食品接触材料总迁移限量",
+   "en": "overall migration limit of FCM，OML",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.53",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "从食品接触材料及制品中迁移到与之接触的食品模拟物中的所有非挥发性物质的最大允许量，以每千克食品模拟物中非挥发性迁移物的毫克数（mg/kg），或每平方分米接触面积迁出的非挥发性迁移物的毫克数（mg/dm"
+  },
+  {
+   "cn": "党的建设的总体布局",
+   "en": "overall layout of the construction of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0728",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十八大报告明确提出党的建设总体布局是：牢牢把握加强党的执政能力建设、先进性和纯洁性建设这条主线，坚持解放思想、改革创新，坚持党要管党、从严治党，全面加强党的思想建设、组织建设、作风建设、反腐倡廉建"
+  },
+  {
+   "cn": "总揽全局协调各方",
+   "en": "exercise overall leadership and coordinate the efforts of all",
+   "source": "马克思主义",
+   "wordNumber": "03.0754",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "总揽全局，就是各级党委要把主要精力放在抓方向、议大事、管全局上，有效地实施党在各个领域的政治、思想、组织的领导。协调各方，就是党委要统筹协调好党委、人大、政府、政协的关系，使各方面都能各司其职，各尽其"
+  },
+  {
+   "cn": "重叠综合征",
+   "en": "overlap syndrome, OS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.8.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_混合性结缔组织病及重叠综合征",
+   "subjectName": "混合性结缔组织病及重叠综合征",
+   "publishYear": "2025",
+   "definition": "符合两种或两种以上风湿免疫病的分类诊断标准的综合征。如系统性红斑狼疮、系统性硬化症、皮肌炎/多发性肌炎、类风湿关节炎、结节性多动脉炎等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
