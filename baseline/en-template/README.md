@@ -1,6 +1,6 @@
 # baseline/en-template/ — T 类目：HTML 模板契约（卷内目录）
 
-SEP 词条 HTML 模板的契约正典与例外登记区（ADR-0076）。库内无单一「模板文件」——契约由本目录承载：文字契约（`template-contract.md`）＋例外/变异登记册（`anomalies.json`）；契约的代码化在 `tools/parser.py`，判官在 `tools/en_source_audit.py` 与 `specs/044-b0b1-baseline/bin/`（B0 十谓词）。
+SEP 词条 HTML 模板的契约正典与例外登记区（ADR-0076）。库内无单一“模板文件”——契约由本目录承载：文字契约（`template-contract.md`）＋例外/变异登记册（`anomalies.json`）；契约的代码化在 `tools/parser.py`，判官在 `tools/en_source_audit.py` 与 `specs/044-b0b1-baseline/bin/`（B0 十谓词）。
 
 | 文件 | 角色 | 写者 | 门禁 |
 | ---- | ---- | ---- | ---- |
