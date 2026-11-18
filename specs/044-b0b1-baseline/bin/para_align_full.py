@@ -167,15 +167,21 @@ def main(argv=None):
 
     path = args.json or repo_path("specs", "044-b0b1-baseline", "results",
                                   "para-align-full-summary.json")
+    jl = repo_path("specs", "044-b0b1-baseline", "results", "para-align-full.jsonl")
+    # 局部运行不得写主凭证（2026-11-19 修，与 bin/para_align.py 同款事故）：
+    # --limit/--slugs 是试跑形态，一次 `--limit 1` 就会把全库账抹成 1 件。
+    if (args.limit or args.slugs) and not args.json:
+        stem = "para-align-full-partial"
+        path = repo_path("specs", "044-b0b1-baseline", "results", stem + "-summary.json")
+        jl = repo_path("specs", "044-b0b1-baseline", "results", stem + ".jsonl")
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with io.open(path, "w", encoding="utf-8", newline="\n") as fh:
         json.dump(summary, fh, ensure_ascii=False, indent=1)
         fh.write("\n")
-    jl = repo_path("specs", "044-b0b1-baseline", "results", "para-align-full.jsonl")
     with io.open(jl, "w", encoding="utf-8", newline="\n") as fh:
         for r in rows:
             fh.write(json.dumps(r, ensure_ascii=False) + "\n")
-    sys.stderr.write("落盘: %s + %s\n" % (path, jl))
+    print("落盘: %s + %s" % (path, jl), file=sys.stderr)
     return 0
 
 

@@ -60,6 +60,8 @@ pipeline 原把 `markdownlint` 列入 S3 的 `criteria` 且 `S3.gate_owner=true`
 
 两处处置：① `para_align.py` 加 argv 子集 + 非全量写 `-partial` 文件（主凭证仅全量可写）；② 新增 `bin/para_align_full.py`，对全库 432 件有正文者跑同一套 `en_blocks/zh_blocks/align`，只读、另落账。
 
+**同型缺陷在新工具上复现一次**：`para_align_full.py` 初版同样无条件写主凭证，本审计中一次 `--limit 1` 试跑把 432 件账抹成 1 件（已 `git checkout` 复原）。修法同款——局部运行（`--limit`/`--slugs`）只写 `-partial`。记此一笔，因为"凭证可被单次试跑覆盖"是**判官自身的可靠性缺陷**，与它判什么无关。
+
 **全库首跑校正链**（这条是审计方法的核心发现）：
 
 | 口径 | 未配对 | 未配对率 | 件数 |
