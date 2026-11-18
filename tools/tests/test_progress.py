@@ -134,3 +134,29 @@ class TestCountSkeletons(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestLoadBackfillSlugs(unittest.TestCase):
+    """回补标记的识别：只认 note=backfill: 的 pass（specs/052）。"""
+
+    def setUp(self):
+        self._dir = tempfile.TemporaryDirectory()
+
+    def tearDown(self):
+        self._dir.cleanup()
+
+    def test_marks_only_backfill_passes(self):
+        _write_ndjson(self._dir.name, "a-bf", [
+            {"type": "pass", "node": "s0", "note": "backfill:2026-11-19（现行判据重算）"},
+        ])
+        _write_ndjson(self._dir.name, "b-plain", [
+            {"type": "pass", "node": "s0"},
+            {"type": "pass", "node": "s1", "note": "常规推进"},
+        ])
+        _write_ndjson(self._dir.name, "c-fail", [
+            {"type": "fail", "node": "s0", "note": "backfill:2026-11-19", "reason": "x"},
+        ])
+        self.assertEqual(progress.load_backfill_slugs(self._dir.name), {"a-bf"})
+
+    def test_missing_dir_returns_empty(self):
+        self.assertEqual(progress.load_backfill_slugs(os.path.join(self._dir.name, "nope")), set())

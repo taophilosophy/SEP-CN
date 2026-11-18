@@ -1,0 +1,205 @@
+{
+ "schema": "sep-adopt/v1",
+ "date": "2026-11-19",
+ "source": "2026-11-13 跨机 WIP 收编（05b58570c 等）",
+ "entries": [
+  {
+   "slug": "habermas",
+   "zh_doc": "h/habermas.md",
+   "first_commit": "e50c204d7",
+   "first_date": "2026-11-12",
+   "first_subject": "！",
+   "sha256": "c1386d809cfaaef3c95eec14f20f8e58fba505f82227c36c8aba85c002c22be9",
+   "han": 37025,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "impossible-worlds",
+   "zh_doc": "i/impossible-worlds.md",
+   "first_commit": "641faf13a",
+   "first_date": "2026-11-02",
+   "first_subject": "在途快照：A–K 批 48 词条翻译中间态入库（cleared/drafted/s1，正文未完尾节未拼）；i 批 monitor 与 check_style 拉丁斜体短语遮蔽、脚注定义豁免改进",
+   "sha256": "e5554c2baa5fc19b8f18eca4f3d5b9cab4cbb9ed742af4ce29698064d521cb95",
+   "han": 22204,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "yogacara",
+   "zh_doc": "y/yogacara.md",
+   "first_commit": "91e25c206",
+   "first_date": "2026-11-11",
+   "first_subject": "yogacara 正文全量入库：导语至 §3.6 与 note-53，400 行正文补交，账本列表标记归一",
+   "sha256": "91caa0df3e43437d5db373b27800c8cf4e636fc2704f506d5edc5da7358c7e02",
+   "han": 20171,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "intrinsic-extrinsic",
+   "zh_doc": "i/intrinsic-extrinsic.md",
+   "first_commit": "641faf13a",
+   "first_date": "2026-11-02",
+   "first_subject": "在途快照：A–K 批 48 词条翻译中间态入库（cleared/drafted/s1，正文未完尾节未拼）；i 批 monitor 与 check_style 拉丁斜体短语遮蔽、脚注定义豁免改进",
+   "sha256": "67e09972ea98f8467753fa51601456e5559768b00e538e0205106649bcc46325",
+   "han": 18505,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "grounding",
+   "zh_doc": "g/grounding.md",
+   "first_commit": "000c18c58",
+   "first_date": "2026-11-13",
+   "first_subject": "在途账本 WIP 快照（接手 F 批前收编）：fitness 36/61、grounding 与 dynamic-semantics 全填、ibn-arabi 79/104、iamblichus 78/105、axiom-choice 骨架，审计产物随树再生成",
+   "sha256": "c790f691d880470ca9d3fd330eb043ac2f52a6acef5ad69a26ebd6321aa3e07b",
+   "han": 14095,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "vaihinger",
+   "zh_doc": "v/vaihinger.md",
+   "first_commit": "ca4853c2c",
+   "first_date": "2026-11-13",
+   "first_subject": "！",
+   "sha256": "ae53275cf7b649cad4e9d13689f218fa5b5927d03b49ffefc5bfd8244901e85b",
+   "han": 14075,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "heritability",
+   "zh_doc": "h/heritability.md",
+   "first_commit": "ca4853c2c",
+   "first_date": "2026-11-13",
+   "first_subject": "！",
+   "sha256": "1938cd17d9b6973d2967ffc9957e0a58ad84735c26008ce32ac36e5471ee35f3",
+   "han": 12574,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "philanthropy",
+   "zh_doc": "p/philanthropy.md",
+   "first_commit": "0cd06b97a",
+   "first_date": "2026-11-14",
+   "first_subject": "！",
+   "sha256": "051bfb827bdf0f4a165472e61f88b8887ce2b6e645ee849a5e283ecd1989b2ca",
+   "han": 12526,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "dance",
+   "zh_doc": "d/dance.md",
+   "first_commit": "7a52044ad",
+   "first_date": "2026-11-14",
+   "first_subject": "……",
+   "sha256": "ae25a39e3f27fee3e89ca5f62ae8842f645d2ff3404f66ed39ca24e370de0067",
+   "han": 12206,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "dynamic-semantics",
+   "zh_doc": "d/dynamic-semantics.md",
+   "first_commit": "61f03060a",
+   "first_date": "2026-11-12",
+   "first_subject": "！",
+   "sha256": "cda54d56532cad3db65b966eb332fac850134f26faa9541c5df1c5df21c380fe",
+   "han": 12113,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "axiom-choice",
+   "zh_doc": "a/axiom-choice.md",
+   "first_commit": "05b58570c",
+   "first_date": "2026-11-13",
+   "first_subject": "在途账本 WIP 快照（接手 S 批前收编）：axiom-choice/ehrenfels/iamblichus 等在途件、人名与术语登记补课、审计产物随树再生成",
+   "sha256": "a7017b85fdc3c074c04f4ee4d9d778e1d8b9004d50b2faaaa32a5a2e03d56280",
+   "han": 9650,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "xunzi",
+   "zh_doc": "x/xunzi.md",
+   "first_commit": "0cd06b97a",
+   "first_date": "2026-11-14",
+   "first_subject": "！",
+   "sha256": "d5472a32e06b4a49d2f4026efb40ba98e28dc0d8668eb4ff7cff86545337a259",
+   "han": 9568,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "halevi",
+   "zh_doc": "h/halevi.md",
+   "first_commit": "641faf13a",
+   "first_date": "2026-11-02",
+   "first_subject": "在途快照：A–K 批 48 词条翻译中间态入库（cleared/drafted/s1，正文未完尾节未拼）；i 批 monitor 与 check_style 拉丁斜体短语遮蔽、脚注定义豁免改进",
+   "sha256": "7fc4c5cd353d0ee4fd989346e1567651bf156ea75c2630f46ed020227c9fa579",
+   "han": 9534,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "tarski-truth",
+   "zh_doc": "t/tarski-truth.md",
+   "first_commit": "2c8a05ddf",
+   "first_date": "2026-11-09",
+   "first_subject": "暂存",
+   "sha256": "e0d7f5c9d193221eb1706eb6f83d305b38aa13014a0ad4439d0a4a4dc3034c6c",
+   "han": 6803,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "heytesbury",
+   "zh_doc": "h/heytesbury.md",
+   "first_commit": "641faf13a",
+   "first_date": "2026-11-02",
+   "first_subject": "在途快照：A–K 批 48 词条翻译中间态入库（cleared/drafted/s1，正文未完尾节未拼）；i 批 monitor 与 check_style 拉丁斜体短语遮蔽、脚注定义豁免改进",
+   "sha256": "d38c20cdef02fead3088e0e933f9ae82e2a12f73ae48085c20e8d387b94178cd",
+   "han": 3429,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "haecceitism",
+   "zh_doc": "h/haecceitism.md",
+   "first_commit": "641faf13a",
+   "first_date": "2026-11-02",
+   "first_subject": "在途快照：A–K 批 48 词条翻译中间态入库（cleared/drafted/s1，正文未完尾节未拼）；i 批 monitor 与 check_style 拉丁斜体短语遮蔽、脚注定义豁免改进",
+   "sha256": "2ba60ddf923b3a7042bb6ab865e27f6573e5b49f57b7af4f44846d94351f507a",
+   "han": 2898,
+   "blocked": true,
+   "block_reason": "逐段对齐：EN 块 199/249 未配对（详情 specs/044 results）"
+  },
+  {
+   "slug": "hume-moral",
+   "zh_doc": "h/hume-moral.md",
+   "first_commit": "641faf13a",
+   "first_date": "2026-11-02",
+   "first_subject": "在途快照：A–K 批 48 词条翻译中间态入库（cleared/drafted/s1，正文未完尾节未拼）；i 批 monitor 与 check_style 拉丁斜体短语遮蔽、脚注定义豁免改进",
+   "sha256": "7c3866e988272440836456eaa2a392bddd4c425368f3d67875de63d0cd702ed2",
+   "han": 1671,
+   "blocked": false,
+   "block_reason": null
+  },
+  {
+   "slug": "hamann",
+   "zh_doc": "h/hamann.md",
+   "first_commit": "641faf13a",
+   "first_date": "2026-11-02",
+   "first_subject": "在途快照：A–K 批 48 词条翻译中间态入库（cleared/drafted/s1，正文未完尾节未拼）；i 批 monitor 与 check_style 拉丁斜体短语遮蔽、脚注定义豁免改进",
+   "sha256": "ab779243c5da05497cda1bb07dff80849f52206b9a8418cea5cb8de9c0ccd001",
+   "han": 365,
+   "blocked": true,
+   "block_reason": "逐段对齐：EN 块 195/263 未配对（详情 specs/044 results）"
+  }
+ ]
+}

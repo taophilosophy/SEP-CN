@@ -213,3 +213,24 @@ class LedgerTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+class AtomicWriteTest(unittest.TestCase):
+    """报告写出不得因并发而崩（specs/052：8 路并行回补暴露的判官假阳性）。"""
+
+    def test_writes_and_leaves_no_tmp(self):
+        import tempfile
+        with tempfile.TemporaryDirectory() as d:
+            p = os.path.join(d, 'sub', 'report.txt')
+            check_terms._atomic_write(p, 'a\nb\n')
+            self.assertEqual(open(p, encoding='utf-8').read(), 'a\nb\n')
+            leftovers = [f for f in os.listdir(os.path.dirname(p)) if f.endswith('.tmp')]
+            self.assertEqual(leftovers, [])
+
+    def test_overwrites_existing_report(self):
+        import tempfile
+        with tempfile.TemporaryDirectory() as d:
+            p = os.path.join(d, 'report.txt')
+            check_terms._atomic_write(p, 'old\n')
+            check_terms._atomic_write(p, 'new\n')
+            self.assertEqual(open(p, encoding='utf-8').read(), 'new\n')

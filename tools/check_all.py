@@ -3,7 +3,7 @@
 哲学学术规范并落地；收工前/推审前跑一次，输出逐项门禁结果）。
 
 覆盖（与 checks.yml CI 一致，另含需本地数据的项；2026-11-17 增第 11 项转换保真，specs/039 P9；
-2026-11-17 增目录布局一致性，ADR-0067）：
+2026-11-17 增目录布局一致性，ADR-0067；2026-11-19 增账实一致性严格档，specs/052）：
   check_summary / check_layout（layout.json 单一源，L1–L4） / check_stages（pipeline.json 判据表，S1–S4） /
   check_mulu_s / check_doc_size /
   check_junk / check_images / check_terms / check_quotes / check_academic（词条+任务版本钉）/
@@ -53,6 +53,7 @@ GATES = [
     ("原始物分歧账", "divergence", "tools/divergence.py verify"),
     ("转换保真（yuanwen≡基线）", "fidelity", "tools/check_yuanwen_fidelity.py --gate"),
     ("中文体例归一（s2.4 三轴结构面）", "style", "tools/check_pairs.py --gate --all"),
+    ("账实一致性（清账/过程记录，严格档）", "ledger", "tools/check_taskfile_invariant.py --strict"),
 ]
 UNIT_TESTS = ("管线单元测试", "unittest", "-m unittest discover -s tools/tests")
 OPTIONAL = [

@@ -1,0 +1,17 @@
+{
+ "schema": "sep-adopt-result/v1",
+ "date": "2026-11-19",
+ "apply": true,
+ "rows": [
+  {
+   "slug": "haecceitism",
+   "status": "blocked",
+   "detail": "停 s0_source_checked 并置阻塞：逐段对齐：EN 块 199/249 未配对（详情 specs/044 results）"
+  },
+  {
+   "slug": "hamann",
+   "status": "blocked",
+   "detail": "停 s0_source_checked 并置阻塞：逐段对齐：EN 块 195/263 未配对（详情 specs/044 results）"
+  }
+ ]
+}

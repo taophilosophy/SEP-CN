@@ -1,0 +1,52 @@
+{
+ "schema": "sep-backfill/v1",
+ "summary": {
+  "date": "2026-11-19",
+  "apply": true,
+  "scope": "partial",
+  "gate_version": "sep-pipeline/v2@2026-11-17",
+  "targets": 1,
+  "nodes": {
+   "s0": 0,
+   "s2.4": 1,
+   "global": 1
+  },
+  "fails": {
+   "s0": 0,
+   "s2.4": 0,
+   "global": 0
+  }
+ },
+ "entries": [
+  {
+   "slug": "18thGerman-preKant",
+   "state": "s2.4_termchecked",
+   "zh_doc": "1/18thGerman-preKant.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass"
+    },
+    "s2.4": {
+     "status": "pass",
+     "gate": [
+      "check_terms",
+      "errata_check",
+      "check_style"
+     ],
+     "detail": ""
+    },
+    "global": {
+     "status": "pass",
+     "gate": [
+      "check_math_zh",
+      "check_quotes",
+      "check_tables_images",
+      "check_academic",
+      "check_style"
+     ],
+     "detail": ""
+    }
+   }
+  }
+ ]
+}

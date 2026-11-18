@@ -162,6 +162,36 @@ def load_journal(journal_dir=JOURNAL):
     return passed, node_count
 
 
+def load_backfill_slugs(journal_dir=JOURNAL):
+    """有回补 pass 事件的词条集合（specs/052，ADR-0075）。
+
+    回补＝判据收紧后对既存结果按现行判据重算（journal-schema 的 tighten 档），
+    pass.note 以 `backfill:` 开头。单独计数，避免把"回补所得"混读为原批次已完成：
+    回补不迁移状态，任务游标可能仍停在回补节点之前。
+    """
+    out = set()
+    if not os.path.isdir(journal_dir):
+        return out
+    for dirpath, _, filenames in os.walk(journal_dir):
+        for fn in filenames:
+            if not fn.endswith(".ndjson"):
+                continue
+            path = os.path.join(dirpath, fn)
+            try:
+                with open(path, encoding="utf-8") as f:
+                    for line in f:
+                        line = line.strip()
+                        if not line:
+                            continue
+                        ev = json.loads(line)
+                        if ev.get("type") == "pass" and str(ev.get("note") or "").startswith("backfill:"):
+                            out.add(fn[:-7])
+                            break
+            except (json.JSONDecodeError, OSError):
+                continue
+    return out
+
+
 def count_skeletons(journal_slugs=None, summary_paths=None, root=ROOT):
     """按 SUMMARY 正式词条面统计「内容状态 × 是否有 journal」二维账。
 
@@ -232,6 +262,7 @@ def main():
     tasks = load_tasks()
     nodes, mand = load_pipeline()
     passed, node_count = load_journal()
+    backfilled = load_backfill_slugs()
 
     # 例行/维护任务（非词条绑定：zh_doc 为空、glossary-maintenance 等）不跟词条
     # 状态机，单独计数，不计入在途/阻塞（2026-11-04，D9；与 check_academic 豁免同族）
@@ -250,6 +281,7 @@ def main():
     wip_slugs = sorted(s for s, d in passed.items() if d and not (CORE <= d))
     not_started = sum(1 for d in passed.values() if not d)
     mand_ok = sum(1 for d in passed.values() if mand <= d)
+    mand_backfill = sum(1 for s, d in passed.items() if mand <= d and s in backfilled)
     saturate = sum(1 for d in passed.values() if (nodes | mand) <= d)
     blocked = [t for t in tasks if t.get('blockers')]
     total_formal = sum(v[0] for v in per_letter.values())
@@ -294,6 +326,7 @@ def main():
         % (len(inv) if inv is not None else '判据未跑'),
         '|核心段完成（draft..R3 七节点）|%d|' % len(core_done),
         '|强制集完成（s0/s2.4/global/R1/R2/R3）|%d|' % mand_ok,
+        '|其中：依赖回补重算（specs/052）|%d|' % mand_backfill,
         '|完整饱和（16 节点全过）|%d|' % saturate,
         '|在途（已开工未走完核心段）|%d|' % len(wip_slugs),
         '|未开工（journal 内无 pass 事件）|%d|' % not_started,
@@ -306,6 +339,11 @@ def main():
         '（`task_ops.py create`）。'
         % (len(passed), total_formal, untracked, skel_stat['skeleton'],
            skel_stat['skeleton_onledger'], skel_stat['skeleton_offledger']),
+        '',
+        '> **强制集口径**：强制集完成 %d 件中，%d 件的 s0/s2.4/global 是 2026-11-19 按现行判据'
+        '重算所得（`specs/052` 回补批次，journal 事件 note 以 `backfill:` 标记，状态不迁移）。'
+        '回补证明"内容过现行判据"，不证明"该件已完成 s2.5 人审"——读强制集完成数时须连同'
+        '此行一起读。' % (mand_ok, mand_backfill),
         '',
         '## 节点通过数（journal 口径，共 %d 节点）' % len(full),
         '',

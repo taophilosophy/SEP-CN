@@ -1,0 +1,97 @@
+{
+ "schema": "sep-adopt-result/v1",
+ "date": "2026-11-19",
+ "apply": true,
+ "rows": [
+  {
+   "slug": "habermas",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "impossible-worlds",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "yogacara",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "intrinsic-extrinsic",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "grounding",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "vaihinger",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "heritability",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "philanthropy",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "dance",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "dynamic-semantics",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "axiom-choice",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "xunzi",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "halevi",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "tarski-truth",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "heytesbury",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "haecceitism",
+   "status": "skip",
+   "detail": "状态已非 cleared：s0_source_checked"
+  },
+  {
+   "slug": "hume-moral",
+   "status": "adopted",
+   "detail": "s0_source_checked → drafted"
+  },
+  {
+   "slug": "hamann",
+   "status": "skip",
+   "detail": "状态已非 cleared：s0_source_checked"
+  }
+ ]
+}

@@ -23,8 +23,9 @@
 505 行新内容进入一个已 cleared 的文件，而该批次的任务进度在另一台机器上、
 journal 无对应记录）。判据若直接升严格档，等于用一条新门禁去惩罚已经发生且
 尚无处置方案的历史，只会让门禁长期红。正确路径是：先清零或显式豁免，再升档
-（`rules/08 §14` 升门须附清零计划与豁免清单）。故本工具先入 CI 每日告警，
-清零后由 specs/051 的收口判据升 `check_all` GATES。
+（`rules/08 §14` 升门须附清零计划与豁免清单）。故本工具先入 CI 每日告警。
+2026-11-19 违例清零（`specs/052`：18 件按跨机收编回炉、`ci-hui-biao` 指针随并网修正），
+已按收口判据升入 `tools/check_all.py` 的 `GATES` 严格档（ADR-0075）。
 
 用法: python tools/check_taskfile_invariant.py [--strict] [--json]
 退出码: 0 完成（告警档恒 0）；1 严格档且存在违例；2 输入缺失。
@@ -164,8 +165,8 @@ def main(argv=None):
             print("  [%-22s] %-26s state=%-14s 汉字=%-6s journal=%s"
                   % (x["rule"], x["slug"], x["state"], x["cjk"], x["journal"]))
         if v:
-            print("  处置：逐件回炉（从 s1 起补记录）或按跨机 WIP 补 journal 凭证；"
-                  "清零后升 --strict 入 check_all GATES。")
+            print("  处置：逐件回炉（从 s1 起补记录）或按跨机 WIP 补 journal 凭证"
+                  "（specs/052 先例：import 补溯源 + s0→draft 回炉，截断件停 s0 并 block）。")
     return 1 if (args.strict and v) else 0
 
 

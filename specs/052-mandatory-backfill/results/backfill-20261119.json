@@ -1,0 +1,7613 @@
+{
+ "schema": "sep-backfill/v1",
+ "summary": {
+  "date": "2026-11-19",
+  "apply": true,
+  "scope": "full",
+  "gate_version": "sep-pipeline/v2@2026-11-17",
+  "targets": 400,
+  "nodes": {
+   "s0": 380,
+   "s2.4": 394,
+   "global": 394
+  },
+  "fails": {
+   "s0": 3,
+   "s2.4": 3,
+   "global": 0
+  }
+ },
+ "entries": [
+  {
+   "slug": "18thGerman-preKant",
+   "state": "s2.4_termchecked",
+   "zh_doc": "1/18thGerman-preKant.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "abduction",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/abduction.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "abelard",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/abelard.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "abhidharma",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/abhidharma.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "abilities",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/abilities.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "abner-burgos",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/abner-burgos.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "abortion",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/abortion.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "abrabanel",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/abrabanel.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "abraham-daud",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/abraham-daud.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "abstract-objects",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/abstract-objects.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "abu-bakr-al-razi",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/abu-bakr-al-razi.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "academic-freedom",
+   "state": "cleared",
+   "zh_doc": "a/academic-freedom.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "action",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/action.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "action-perception",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/action-perception.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "actualism-possibilism-ethics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/actualism-possibilism-ethics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "adaptationism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/adaptationism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "addams-jane",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/addams-jane.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "adorno",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/adorno.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "advance-directives",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/advance-directives.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aesthetic-concept",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aesthetic-concept.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aesthetic-experience",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aesthetic-experience.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aesthetic-judgment",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aesthetic-judgment.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aesthetic-testimony",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aesthetic-testimony.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aesthetics-18th-british",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aesthetics-18th-british.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aesthetics-18th-french",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aesthetics-18th-french.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aesthetics-18th-german",
+   "state": "cleared",
+   "zh_doc": "a/aesthetics-18th-german.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aesthetics-critical-theory",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aesthetics-critical-theory.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aesthetics-existentialist",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aesthetics-existentialist.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aesthetics-of-everyday",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aesthetics-of-everyday.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aesthetics-race",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aesthetics-race.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "african-ethics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/african-ethics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "african-sage",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/african-sage.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "africana",
+   "state": "cleared",
+   "zh_doc": "a/africana.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "agrippa-nettesheim",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/agrippa-nettesheim.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "akan-person",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/akan-person.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "al-din-al-razi",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/al-din-al-razi.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "al-farabi",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/al-farabi.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "al-farabi-psych",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/al-farabi-psych.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "al-khunaji",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/al-khunaji.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "al-kindi",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/al-kindi.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "al-qudat",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/al-qudat.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "albalag",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/albalag.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "alberic-paris",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/alberic-paris.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "albert-great",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/albert-great.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "albert-saxony",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/albert-saxony.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "albo-joseph",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/albo-joseph.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "alcmaeon",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/alcmaeon.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "alexander",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/alexander.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "alexander-crummell",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/alexander-crummell.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "algebra-logic-tradition",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/algebra-logic-tradition.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "altruism-biological",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/altruism-biological.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "alyngton",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/alyngton.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "analogy-medieval",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/analogy-medieval.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "ancient-soul",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/ancient-soul.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "anscombe",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/anscombe.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "anselm",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/anselm.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "antiochus-ascalon",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/antiochus-ascalon.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "antonio-rosmini",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/antonio-rosmini.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "arabic-islamic-mysticism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/arabic-islamic-mysticism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "arabic-islamic-phil-math",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/arabic-islamic-phil-math.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aristotle-causality",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aristotle-causality.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "aristotle-noncontradiction",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/aristotle-noncontradiction.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "august-rehberg",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/august-rehberg.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "auriol",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/auriol.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "austin-john",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/austin-john.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "autrecourt",
+   "state": "s2.4_termchecked",
+   "zh_doc": "a/autrecourt.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "basing-epistemic",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/basing-epistemic.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "bauer",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/bauer.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "bayes-theorem",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/bayes-theorem.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "bayle",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/bayle.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "behaviorism",
+   "state": "cleared",
+   "zh_doc": "b/behaviorism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "belief-merging",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/belief-merging.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "bergson",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/bergson.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "bessarion",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/bessarion.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "binarium",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/binarium.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "biology-philosophy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/biology-philosophy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "blame",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/blame.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "bloch",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/bloch.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "bodily-awareness",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/bodily-awareness.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "boethius",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/boethius.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "boethius-dacia",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/boethius-dacia.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "bohr-correspondence",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/bohr-correspondence.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "boolalg-math",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/boolalg-math.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "bradley-moral",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/bradley-moral.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "brouwer",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/brouwer.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "buridan",
+   "state": "s2.4_termchecked",
+   "zh_doc": "b/buridan.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "cambridge-platonists",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/cambridge-platonists.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "carneades",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/carneades.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "cassirer",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/cassirer.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "causation-medieval",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/causation-medieval.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "certainty",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/certainty.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "change",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/change.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "childhood",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/childhood.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "children",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/children.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "chinese-phil-medicine",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/chinese-phil-medicine.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "chinese-phil-science",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/chinese-phil-science.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "closure-epistemic",
+   "state": "cleared",
+   "zh_doc": "c/closure-epistemic.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "cockburn",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/cockburn.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "cognitive-science",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/cognitive-science.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "collingwood-aesthetics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/collingwood-aesthetics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "colonialism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/colonialism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "computability",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/computability.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "computing-history",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/computing-history.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "concept-emotion-india",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/concept-emotion-india.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "condemnation",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/condemnation.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "confucius",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/confucius.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "contractarianism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/contractarianism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "conway",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/conway.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "copernicus",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/copernicus.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "cordemoy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/cordemoy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "crathorn",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/crathorn.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "creation-conservation",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/creation-conservation.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "crescas",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/crescas.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "croce-aesthetics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/croce-aesthetics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "cudworth",
+   "state": "s2.4_termchecked",
+   "zh_doc": "c/cudworth.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "dai-zhen",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/dai-zhen.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "david",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/david.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "davidson",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/davidson.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "deductivism-mathematics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/deductivism-mathematics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "delmedigo",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/delmedigo.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "democritus",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/democritus.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "demonstration-medieval",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/demonstration-medieval.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "descartes-ethics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/descartes-ethics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "descartes-ideas",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/descartes-ideas.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "descartes-ontological",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/descartes-ontological.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "descartes-physics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/descartes-physics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "descartes-works",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/descartes-works.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "desgabets",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/desgabets.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "dewey-moral",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/dewey-moral.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "dewey-political",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/dewey-political.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "dialectical-school",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/dialectical-school.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "digital-art",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/digital-art.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "dilthey",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/dilthey.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "diodorus-cronus",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/diodorus-cronus.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "disability",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/disability.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "disability-care-rationing",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/disability-care-rationing.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "double-effect",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/double-effect.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "doxography-ancient",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/doxography-ancient.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "du-bos",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/du-bos.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "duhem",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/duhem.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "duns-scotus",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/duns-scotus.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "dynamic-choice",
+   "state": "s2.4_termchecked",
+   "zh_doc": "d/dynamic-choice.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "early-modern-india",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/early-modern-india.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "ecological-genetics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/ecological-genetics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "economic-democracy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/economic-democracy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "edwards",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/edwards.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "egoism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/egoism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "elias",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/elias.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "elisabeth-bohemia",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/elisabeth-bohemia.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "emerson",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/emerson.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "emilie-du-chatelet",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/emilie-du-chatelet.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "emotion-Christian-tradition",
+   "state": "cleared",
+   "zh_doc": "e/emotion-Christian-tradition.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "environmental-aesthetics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/environmental-aesthetics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "envy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/envy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "epictetus",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/epictetus.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "epicurus",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/epicurus.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "epiphenomenalism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/epiphenomenalism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "epistemology-evolutionary",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/epistemology-evolutionary.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "epistemology-language-tibetan",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/epistemology-language-tibetan.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "epistemology-latin-america",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/epistemology-latin-america.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "epsilon-calculus",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/epsilon-calculus.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "equal-ed-opportunity",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/equal-ed-opportunity.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "erasmus",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/erasmus.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "erfurt",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/erfurt.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "erotic-art",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/erotic-art.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "ethics-deontological",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/ethics-deontological.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "euthanasia-voluntary",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/euthanasia-voluntary.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "evil-kinds-origins",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/evil-kinds-origins.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "evolution",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/evolution.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "existentialism-mexican",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/existentialism-mexican.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "experimental-aesthetics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "e/experimental-aesthetics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "faith",
+   "state": "s2.4_termchecked",
+   "zh_doc": "f/faith.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "falaquera",
+   "state": "s2.4_termchecked",
+   "zh_doc": "f/falaquera.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "film",
+   "state": "s2.4_termchecked",
+   "zh_doc": "f/film.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "frame-problem",
+   "state": "s2.4_termchecked",
+   "zh_doc": "f/frame-problem.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "fuller-margaret",
+   "state": "s2.4_termchecked",
+   "zh_doc": "f/fuller-margaret.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "gadamer",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/gadamer.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "gadamer-aesthetics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/gadamer-aesthetics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "gelukpa",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/gelukpa.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "genetics",
+   "state": "cleared",
+   "zh_doc": "g/genetics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "geometry-19th",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/geometry-19th.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "george-eliot",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/george-eliot.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "gersonides",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/gersonides.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "gianfrancesco-pico",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/gianfrancesco-pico.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "giles",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/giles.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "global-democracy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/global-democracy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "globalization",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/globalization.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "god-necessary-being",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/god-necessary-being.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "godwin",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/godwin.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "gomez-pereira",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/gomez-pereira.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "gorampa",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/gorampa.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "gramsci",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/gramsci.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "gregory-rimini",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/gregory-rimini.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "grotius",
+   "state": "s2.4_termchecked",
+   "zh_doc": "g/grotius.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "han-dynasty",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/han-dynasty.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "hare",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/hare.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "harriet-mill",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/harriet-mill.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "hartshorne",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/hartshorne.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "hegel-social-political",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/hegel-social-political.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "henricus-regius",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/henricus-regius.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "heraclitus",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/heraclitus.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "hilbert-program",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/hilbert-program.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "hobbes-moral",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/hobbes-moral.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "hobbes-science",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/hobbes-science.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "holbach",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/holbach.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "holes",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/holes.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "holkot",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/holkot.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "homosexuality",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/homosexuality.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "humanism-civic",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/humanism-civic.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "hume-aesthetics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/hume-aesthetics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "hutcheson",
+   "state": "s2.4_termchecked",
+   "zh_doc": "h/hutcheson.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "ibn-ezra",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/ibn-ezra.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "ibn-kammuna",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/ibn-kammuna.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "ibn-sina",
+   "state": "s2.5_checked",
+   "zh_doc": "i/ibn-sina.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-fail",
+     "detail": "本批次已判 fail（修判官后重判须 --recheck）"
+    },
+    "global": {
+     "status": "skipped-after-fail"
+    }
+   }
+  },
+  {
+   "slug": "ibn-taymiyya",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/ibn-taymiyya.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "identity",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/identity.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "identity-ethics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/identity-ethics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "identity-indiscernible",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/identity-indiscernible.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "identity-personal",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/identity-personal.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "identity-politics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/identity-politics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "ideology",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/ideology.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "idiolects",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/idiolects.md",
+   "nodes": {
+    "s0": {
+     "status": "already-fail",
+     "detail": "本批次已判 fail（修判官后重判须 --recheck）"
+    },
+    "s2.4": {
+     "status": "skipped-after-fail"
+    },
+    "global": {
+     "status": "skipped-after-fail"
+    }
+   }
+  },
+  {
+   "slug": "illumination",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/illumination.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "imaginative-resistance",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/imaginative-resistance.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "immigration",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/immigration.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "immutability",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/immutability.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "implicature-optimality-games",
+   "state": "s2.5_checked",
+   "zh_doc": "i/implicature-optimality-games.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-fail",
+     "detail": "本批次已判 fail（修判官后重判须 --recheck）"
+    },
+    "global": {
+     "status": "skipped-after-fail"
+    }
+   }
+  },
+  {
+   "slug": "imprecise-probabilities",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/imprecise-probabilities.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "incommensurability",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/incommensurability.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "incompatibilism-theories",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/incompatibilism-theories.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "independence-large-cardinals",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/independence-large-cardinals.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "information-biological",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/information-biological.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "information-semantic",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/information-semantic.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "informed-consent",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/informed-consent.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "ingarden",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/ingarden.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "innateness-cognition",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/innateness-cognition.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "innateness-history",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/innateness-history.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "integrity",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/integrity.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "intellectual-property",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/intellectual-property.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "intensional-trans-verbs",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/intensional-trans-verbs.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "intention",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/intention.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "intentionality-ancient",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/intentionality-ancient.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "intuitionism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/intuitionism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "intuitionism-ethics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/intuitionism-ethics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "israeli",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/israeli.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "it-moral-values",
+   "state": "cleared",
+   "zh_doc": "i/it-moral-values.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "it-privacy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "i/it-privacy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "jaina-philosophy",
+   "state": "cleared",
+   "zh_doc": "j/jaina-philosophy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "james",
+   "state": "s2.4_termchecked",
+   "zh_doc": "j/james.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "james-ward",
+   "state": "s2.4_termchecked",
+   "zh_doc": "j/james-ward.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "japanese-aesthetics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "j/japanese-aesthetics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "jaspers",
+   "state": "s2.4_termchecked",
+   "zh_doc": "j/jaspers.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "jayaraasi",
+   "state": "cleared",
+   "zh_doc": "j/jayaraasi.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "joane-petrizi",
+   "state": "s2.4_termchecked",
+   "zh_doc": "j/joane-petrizi.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "johann-sturm",
+   "state": "cleared",
+   "zh_doc": "j/johann-sturm.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "john-italos",
+   "state": "cleared",
+   "zh_doc": "j/john-italos.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "john-norris",
+   "state": "cleared",
+   "zh_doc": "j/john-norris.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "justep-coherence",
+   "state": "s2.4_termchecked",
+   "zh_doc": "j/justep-coherence.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "justice-moral-psych",
+   "state": "s2.4_termchecked",
+   "zh_doc": "j/justice-moral-psych.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "justice-virtue",
+   "state": "s2.4_termchecked",
+   "zh_doc": "j/justice-virtue.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "justus-lipsius",
+   "state": "s2.4_termchecked",
+   "zh_doc": "j/justus-lipsius.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kant-hume-morality",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kant-hume-morality.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kant-leibniz",
+   "state": "cleared",
+   "zh_doc": "k/kant-leibniz.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kant-mathematics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kant-mathematics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kant-metaphysics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kant-metaphysics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kant-mind",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kant-mind.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kant-reason",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kant-reason.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kant-science",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kant-science.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kant-social-political",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kant-social-political.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "karl-reinhold",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/karl-reinhold.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kaspi-joseph",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kaspi-joseph.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kepler",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kepler.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kierkegaard",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kierkegaard.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kilvington",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kilvington.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "knowledge-acquaindescrip",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/knowledge-acquaindescrip.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "knowledge-analysis",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/knowledge-analysis.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "knowledge-value",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/knowledge-value.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kochen-specker",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kochen-specker.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kokugaku-school",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kokugaku-school.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "korean-buddhism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/korean-buddhism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "korean-confucianism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/korean-confucianism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "korean-philosophy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/korean-philosophy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "kumaarila",
+   "state": "s2.4_termchecked",
+   "zh_doc": "k/kumaarila.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "la-forge",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/la-forge.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "lady-masham",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/lady-masham.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "lakatos",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/lakatos.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "lambert-auxerre",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/lambert-auxerre.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "landmann-kalischer",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/landmann-kalischer.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "langer",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/langer.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "law-ideology",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/law-ideology.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "lawphil-theory",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/lawphil-theory.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "legrand",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/legrand.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "leibniz-ethics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/leibniz-ethics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "leibniz-evil",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/leibniz-evil.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "leibniz-logic-influence",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/leibniz-logic-influence.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "leibniz-mind",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/leibniz-mind.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "leibniz-modal",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/leibniz-modal.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "leucippus",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/leucippus.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "locke-on-medicine",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/locke-on-medicine.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "logic-dynamic",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/logic-dynamic.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "logic-fuzzy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/logic-fuzzy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "logic-hybrid",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/logic-hybrid.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "logic-infinitary",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/logic-infinitary.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "logic-linear",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/logic-linear.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "logic-massexpress",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/logic-massexpress.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "logic-preference",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/logic-preference.md",
+   "nodes": {
+    "s0": {
+     "status": "already-fail",
+     "detail": "本批次已判 fail（修判官后重判须 --recheck）"
+    },
+    "s2.4": {
+     "status": "skipped-after-fail"
+    },
+    "global": {
+     "status": "skipped-after-fail"
+    }
+   }
+  },
+  {
+   "slug": "logic-provability",
+   "state": "cleared",
+   "zh_doc": "l/logic-provability.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "logic-relevance",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/logic-relevance.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "logic-substructural",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/logic-substructural.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "logical-consequence",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/logical-consequence.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "lorenzo-valla",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/lorenzo-valla.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "luxemburg",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/luxemburg.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "lvov-warsaw",
+   "state": "s2.4_termchecked",
+   "zh_doc": "l/lvov-warsaw.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "mandeville",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/mandeville.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "marsilius-inghen",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/marsilius-inghen.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "marsilius-padua",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/marsilius-padua.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "mathematics-inconsistent",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/mathematics-inconsistent.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "model-organisms",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/model-organisms.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "modesty-humility",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/modesty-humility.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "molyneux-problem",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/molyneux-problem.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "montesquieu",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/montesquieu.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "montessori-maria",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/montessori-maria.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "moral-demands-permissions",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/moral-demands-permissions.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "moral-learning",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/moral-learning.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "moral-responsibility-empirical",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/moral-responsibility-empirical.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "music",
+   "state": "s2.4_termchecked",
+   "zh_doc": "m/music.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "natphil-ren",
+   "state": "s2.4_termchecked",
+   "zh_doc": "n/natphil-ren.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "necessary-sufficient",
+   "state": "s2.4_termchecked",
+   "zh_doc": "n/necessary-sufficient.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "neoplatonism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "n/neoplatonism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "newton",
+   "state": "s2.4_termchecked",
+   "zh_doc": "n/newton.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "newton-philosophy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "n/newton-philosophy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "newton-principia",
+   "state": "s2.4_termchecked",
+   "zh_doc": "n/newton-principia.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "nicole-oresme",
+   "state": "s2.4_termchecked",
+   "zh_doc": "n/nicole-oresme.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "nietzsche-aesthetics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "n/nietzsche-aesthetics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "nominalism-metaphysics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "n/nominalism-metaphysics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "novalis",
+   "state": "s2.4_termchecked",
+   "zh_doc": "n/novalis.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "oakeshott",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/oakeshott.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "object",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/object.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "obligationes",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/obligationes.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "occasionalism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/occasionalism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "ockham",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/ockham.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "olympiodorus",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/olympiodorus.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "omnipresence",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/omnipresence.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "omniscience",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/omniscience.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "ontology-is",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/ontology-is.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "organ-donation",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/organ-donation.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "organs-sale",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/organs-sale.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "origin-descent",
+   "state": "s2.4_termchecked",
+   "zh_doc": "o/origin-descent.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "paradox-of-tragedy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "p/paradox-of-tragedy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "paradox-suspense",
+   "state": "s2.4_termchecked",
+   "zh_doc": "p/paradox-suspense.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "peirce-benjamin",
+   "state": "s2.4_termchecked",
+   "zh_doc": "p/peirce-benjamin.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "penbygull",
+   "state": "s2.4_termchecked",
+   "zh_doc": "p/penbygull.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "peter-damian",
+   "state": "s2.4_termchecked",
+   "zh_doc": "p/peter-damian.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "peter-spain",
+   "state": "s2.4_termchecked",
+   "zh_doc": "p/peter-spain.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "petitionary-prayer",
+   "state": "s2.4_termchecked",
+   "zh_doc": "p/petitionary-prayer.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "prophecy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "p/prophecy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "qm",
+   "state": "s2.4_termchecked",
+   "zh_doc": "q/qm.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "qm-relational",
+   "state": "s2.4_termchecked",
+   "zh_doc": "q/qm-relational.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "qt-entangle",
+   "state": "s2.4_termchecked",
+   "zh_doc": "q/qt-entangle.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "quine-nf",
+   "state": "s2.5_checked",
+   "zh_doc": "q/quine-nf.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-fail",
+     "detail": "本批次已判 fail（修判官后重判须 --recheck）"
+    },
+    "global": {
+     "status": "skipped-after-fail"
+    }
+   }
+  },
+  {
+   "slug": "ramsey-economics",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/ramsey-economics.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "rationalism-early-modern",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/rationalism-early-modern.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "reasoning-analogy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/reasoning-analogy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "redistribution",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/redistribution.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "reflective-equilibrium",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/reflective-equilibrium.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "reid-memory-identity",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/reid-memory-identity.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "reinach",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/reinach.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "reism",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/reism.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "religion-epistemology",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/religion-epistemology.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "religious-experience",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/religious-experience.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "representation-medieval",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/representation-medieval.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "richard-sophister",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/richard-sophister.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "ricoeur",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/ricoeur.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "risk",
+   "state": "s2.4_termchecked",
+   "zh_doc": "r/risk.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "saadya",
+   "state": "cleared",
+   "zh_doc": "s/saadya.md",
+   "nodes": {
+    "s0": {
+     "status": "already-fail",
+     "detail": "本批次已判 fail（修判官后重判须 --recheck）"
+    },
+    "s2.4": {
+     "status": "skipped-after-fail"
+    },
+    "global": {
+     "status": "skipped-after-fail"
+    }
+   }
+  },
+  {
+   "slug": "schema",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/schema.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "schlegel",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/schlegel.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "scholem",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/scholem.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "scholz",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/scholz.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "scientific-explanation-20th",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/scientific-explanation-20th.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "sharpe",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/sharpe.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "sikh-philosophy",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/sikh-philosophy.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "simon-faversham",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/simon-faversham.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "social-procedures",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/social-procedures.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "sophismata",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/sophismata.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "sovereignty",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/sovereignty.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "spacetime-convensimul",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/spacetime-convensimul.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "spacetime-holearg",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/spacetime-holearg.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "stebbing",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/stebbing.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "stem-cells",
+   "state": "s2.4_termchecked",
+   "zh_doc": "s/stem-cells.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "theology-aristotle",
+   "state": "s2.4_termchecked",
+   "zh_doc": "t/theology-aristotle.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "timon-phlius",
+   "state": "s2.4_termchecked",
+   "zh_doc": "t/timon-phlius.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "truth-coherence",
+   "state": "s2.4_termchecked",
+   "zh_doc": "t/truth-coherence.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "umar-khayyam",
+   "state": "s2.4_termchecked",
+   "zh_doc": "u/umar-khayyam.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "william-jevons",
+   "state": "s2.4_termchecked",
+   "zh_doc": "w/william-jevons.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "william-sherwood",
+   "state": "s2.4_termchecked",
+   "zh_doc": "w/william-sherwood.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "xenocrates",
+   "state": "s2.4_termchecked",
+   "zh_doc": "x/xenocrates.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "xenophanes",
+   "state": "s2.4_termchecked",
+   "zh_doc": "x/xenophanes.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "zabarella",
+   "state": "s2.4_termchecked",
+   "zh_doc": "z/zabarella.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  },
+  {
+   "slug": "zeno-elea",
+   "state": "s2.4_termchecked",
+   "zh_doc": "z/zeno-elea.md",
+   "nodes": {
+    "s0": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "s2.4": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    },
+    "global": {
+     "status": "already-pass",
+     "detail": "journal 已有该节点 pass（含本批次先行记账）"
+    }
+   }
+  }
+ ]
+}

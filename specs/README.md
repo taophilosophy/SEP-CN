@@ -56,5 +56,6 @@
 | [049-enhancements](049-enhancements/spec.md) | 049 — 翻译增强三件：术语自动提取回填 / 回译核验 / 实时术语提示 | — | — | — | — |
 | [050-term-extraction-denoise](050-term-extraction-denoise/spec.md) | specs/050 术语提取降噪（标本兼治） | — | — | — | — |
 | [051-pipeline-gap-audit](051-pipeline-gap-audit/spec.md) | 翻译全流程遗漏审计（2026-11-19） | — | — | — | — |
+| [052-mandatory-backfill](052-mandatory-backfill/spec.md) | 强制集存量回补与跨机收编件处置（specs/052） | — | ✓ | ✓ | — |
 
-共 50 个规格目录。
+共 51 个规格目录。

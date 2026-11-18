@@ -31,6 +31,7 @@ import json
 import os
 import re
 import sys
+import time
 from collections import defaultdict
 from datetime import datetime, timezone
 
@@ -177,15 +178,40 @@ def person_missing(rows2):
     return out
 
 
+def _atomic_write(path, text):
+    """原子写报告，带并发退避（specs/052：8 路并行回补时 os.replace 撞车）。
+
+    原实现用固定 `.tmp` 名且无重试：并发调用时一方已把 tmp 改名，另一方的
+    os.replace 抛 WinError 2/5/32，整个进程以 1 退出——判官崩溃被上层读成
+    "该件术语门禁未通过"，是**假阳性**。tmp 名带 pid 消除同党争抢，重试消解
+    目标句柄被瞬时占用。
+    """
+    d = os.path.dirname(path)
+    if d:
+        os.makedirs(d, exist_ok=True)
+    tmp = "%s.%d.tmp" % (path, os.getpid())
+    with open(tmp, "w", encoding="utf-8", newline="\n") as f:
+        f.write(text)
+    last = None
+    for _ in range(60):
+        try:
+            os.replace(tmp, path)
+            return
+        except OSError as exc:      # WinError 5/32：对方仍持有目标句柄
+            last = exc
+            time.sleep(0.05)
+    try:
+        os.unlink(tmp)
+    except OSError:
+        pass
+    raise last
+
+
 def write_person_missing(entries, path):
     """person-missing.txt：每行「人名\t行号\t缺项」，末行汇总（原子写）。"""
     lines = ['%s\t%d\t%s' % e for e in entries]
     lines.append('汇总\t%d\t人名缺籍属/生卒' % len(entries))
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    tmp = path + '.tmp'
-    with open(tmp, 'w', encoding='utf-8', newline='\n') as f:
-        f.write('\n'.join(lines) + '\n')
-    os.replace(tmp, path)
+    _atomic_write(path, '\n'.join(lines) + '\n')
 
 
 
@@ -281,13 +307,7 @@ def write_orig_missing(entries, path):
     detail = ' + '.join('%s %d' % (k, v) for k, v in sorted(counts.items()))
     lines.append('汇总\t%d\t非英语术语缺原文%s'
                  % (len(entries), '（%s）' % detail if detail else ''))
-    d = os.path.dirname(path)
-    if d:
-        os.makedirs(d, exist_ok=True)
-    tmp = path + '.tmp'
-    with open(tmp, 'w', encoding='utf-8', newline='\n') as f:
-        f.write('\n'.join(lines) + '\n')
-    os.replace(tmp, path)
+    _atomic_write(path, '\n'.join(lines) + '\n')
 
 
 def check_registry_self(rows):
