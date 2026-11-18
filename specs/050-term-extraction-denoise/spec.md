@@ -118,7 +118,7 @@ A 档含个别残片（Mathématique Paris Aug）——均列为待人工复核�
   ancient philosophy——合并带入 held，但键均已在术语登记册（L104 / L554 / L821 / L5065 / L268，
   2026-10-27~11-01 凭证在案），属池状态滞后于登记册的历史漂移。
 - 处置（沿 specs/031 判读台账三出口·exempt 规范）：
-  * 台账 `ledger-legacy-held-exempt.json`（5 行：d_class=n/a、exit=exempt、
+  * 台账 `results/ledger-legacy-held-exempt.json`（5 行：d_class=n/a、exit=exempt、
     evidence 记豁免理由、source 记登记册行号与凭证、reviewer=ykla），
     `check_terms --check-ledger` 闭合校验 0 违例。
   * 池状态回写：held → `published@2026-11-18（豁免回写：登记册已收，specs/050 §9 …）`，
