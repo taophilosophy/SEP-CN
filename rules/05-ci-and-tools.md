@@ -28,6 +28,7 @@
 * **Node ≥ 26**（本地验证 26.13.0；Vite 8 要求 `^20.19 || >=22.12`，Node 26 满足；站点命令仍走 bun，见 ADR-0014）。
 * **bun ≥ 1.4**（本地 1.4.4；`engines`/`packageManager` 钉在构建壳 `taophilosophy.github.io/package.json`，ADR-0055）。
 * PDF 导出线（`create-pdf.yml`）用 Python 3.15（2026-11-16 用户裁定：随仓基线统一；原“暂留 3.13、待 weasyprint 上游支持”注记作废，ADR-0061）。
+* **SBOM 登记**（S07，ADR-0071）：软件物料清单 `specs/046-standards-compliance/results/sbom.json` 登记依赖与版本，可溯源；本仓 `tools/` 零第三方 Python 依赖（纯标准库），前端依赖属壳仓 `taophilosophy.github.io`（ADR-0055）。
 
 ## 本地工具（`tools/`，Python 3 仅标准库）
 

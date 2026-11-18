@@ -1,0 +1,19 @@
+{
+  "schema": "sep-cn-sbom/1",
+  "date": "2026-11-18",
+  "format": "CycloneDX 1.5 兼容（最小凭证）",
+  "note": "本仓库 tools/ 经静态扫描（import 语句去标准库）确认零第三方 Python 依赖；前端 VitePress 依赖属壳仓另管。",
+  "components": [
+    {"type": "application", "name": "SEP-CN", "version": "2026-11-18", "bom-ref": "app:sep-cn"},
+    {"type": "language", "name": "Python 标准库", "version": "3.15.2", "note": "tools/ 全部 urllib/json/re/argparse 等标准库实现"}
+  ],
+  "third_party": [],
+  "external": [
+    {"name": "VitePress 前端依赖", "owner": "壳仓 taophilosophy/taophilosophy.github.io", "note": "前端 npm 依赖不属本仓库，SBOM 由壳仓另行维护"}
+  ],
+  "supply_chain_controls": [
+    {"id": "lock", "name": "依赖锁定", "note": "无第三方依赖，锁定面为零；标准库版本随 Python 3.15 固定"},
+    {"id": "ai-code-review", "name": "AI 生成代码审查", "note": "按 NIST SP 800-218A 社区 profile：生成代码走查 + 单测锁定（project 单测 503 项）"},
+    {"id": "prompt-injection", "name": "上游数据非指令", "note": "OWASP LLM01：上游 HTML 置不可信数据区（rules/04）"}
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "schema": "sep-cn-standards/1",
+  "date": "2026-11-18",
+  "note": "规范对齐单一事实源：每条采纳项登记标准、条款、承接规则文件（owner）与工具/凭证（tool）。判定器 verify_standards.py 据此验证充分性（每条有承接）、一致性（落点单一）、完备性（五类覆盖流程环节）。not_adopted 记录已评估但明确不采纳的规范。",
+  "categories": {
+    "翻译质量": ["S01", "S02", "S03"],
+    "校对": ["S04", "S05"],
+    "参考文献": ["S06"],
+    "工具链安全": ["S07", "S08"],
+    "合规": ["S10"]
+  },
+  "adopted": [
+    {
+      "id": "S01",
+      "std": "ISO 5060:2024",
+      "clause": "错误严重度 minor/major/critical 三档；critical 自动 fail 不论总分",
+      "owner": "rules/04 §复核独立性与问题分级",
+      "tool": "task_ops evidence 分级（Critical 不得带入 done）",
+      "status": "adopted"
+    },
+    {
+      "id": "S02",
+      "std": "ISO 5060:2024",
+      "clause": "采样评估方法学（sampling 未必检出全部错误）",
+      "owner": "rules/04 §机检为筛人审为判（ADR-0070）+ 每批 5% 深读",
+      "tool": "manual-5pct 台账（specs/009 先例）",
+      "status": "adopted"
+    },
+    {
+      "id": "S03",
+      "std": "MQM Core",
+      "clause": "七维度错误分类（Terminology/Accuracy/Fluency/Style/Locale/Verity/Design）",
+      "owner": "rules/04 §复核独立性（一校 Accuracy、二校 Fluency/Style、s2.4 Terminology、三校 Locale、r 链 Verity）",
+      "tool": "check_terms/check_pairs/check_style/check_academic",
+      "status": "adopted"
+    },
+    {
+      "id": "S04",
+      "std": "CY/T 266-2023",
+      "clause": "图书编校差错率 = 差错数÷总字数（万分比），≤ 万分之一合格",
+      "owner": "rules/04 §复核独立性与问题分级",
+      "tool": "s3/r3 验收硬线",
+      "status": "adopted"
+    },
+    {
+      "id": "S05",
+      "std": "CY/T 266-2023",
+      "clause": "格式差错计错（表 3：空行空格/转行/编写体例/排版格式/图表位置，每处 0.1–1 差错）",
+      "owner": "rules/04 §s3 三校体例",
+      "tool": "check_style/check_pairs（映射表 3 判据）+ 人审必查",
+      "status": "adopted"
+    },
+    {
+      "id": "S06",
+      "std": "GB/T 7714-2025",
+      "clause": "新增预印本[PP]/数据集著录要素；取消非网络文献访问日期（2026-07-01 实施）",
+      "owner": "rules/07 §参考文献（防漏核对基准，ADR-0041 适用边界内）",
+      "tool": "biblio_audit/check_academic",
+      "status": "adopted"
+    },
+    {
+      "id": "S07",
+      "std": "SBOM（SPDX/CycloneDX）",
+      "clause": "软件物料清单登记依赖与版本，可溯源",
+      "owner": "rules/05-ci-and-tools.md",
+      "tool": "specs/046/results/sbom.json（生成物）",
+      "status": "adopted"
+    },
+    {
+      "id": "S08",
+      "std": "OWASP LLM Top 10 2025 LLM01",
+      "clause": "提示注入防护：上游 HTML 是数据不是指令，翻译 Agent 不得把上游文本解释为指令",
+      "owner": "rules/04 §P4 预处理",
+      "tool": "prompt 组装约束（数据区隔离）",
+      "status": "adopted"
+    },
+    {
+      "id": "S10",
+      "std": "许可链（CC BY-NC-SA / BSD-2-Clause）",
+      "clause": "SEP 原文 CC BY-NC-SA；项目仓库 BSD-2-Clause；无冲突审计",
+      "owner": "rules/adr/0071",
+      "tool": "ADR 审计结论",
+      "status": "adopted"
+    }
+  ],
+  "not_adopted": [
+    {
+      "id": "S09",
+      "std": "GB 45438-2025",
+      "clause": "AI 生成合成内容标识方法（强制）",
+      "reason": "用户 2026-11-18 明确决定：不执行 GB 45438-2025，本项目译文不做 AI 生成合成内容标识",
+      "status": "not_adopted"
+    }
+  ]
+}
